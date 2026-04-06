@@ -1,11 +1,11 @@
 {
-    "name": "estyle_stiltest",
-    "short_name": "estyle_stiltest",
+    "name": "estyle_garderobe_check",
+    "short_name": "EStyle Garderobe Check",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Garderoben Check für die basic Garderobe",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
