@@ -16,7 +16,7 @@
       <div class="hero-copy">
         <p class="eyebrow">{{ $hero.eyebrow }}</p>
         <h1>{{ $hero.headline }}</h1>
-        <p class="lead">{{ $hero.text }}</p>
+        <div class="lead">{{ $hero.text | markdownify }}</div>
         <div class="hero-actions">
           <a class="btn" href="{{ $hero.ctaHref }}">{{ $hero.ctaText }}</a>
           <a class="btn btn-secondary" href="/about/">Mehr über mich</a>
