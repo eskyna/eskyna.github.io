@@ -2,9 +2,9 @@
 title: "Natalia Kleemann"
 hero:
   eyebrow: "Natalia Kleemann | Style- und Imagecoach"
-  headline: "Style und Image Coaching für Frauen, die Wirkung zeigen wollen"
-  text: "Ich helfe dir, deinen persönlichen Stil sichtbar zu machen, selbstsicher aufzutreten und in jeder Situation authentisch zu wirken."
-  ctaText: "Kostenloses Kennenlerngespräch"
+  headline: "Kleidung, in der Sie sich jeden Tag stark fühlen."
+  text: "Die zielgerichtete Image- und Stilberatung für Männer und Frauen. Sparen Sie Zeit, vermeiden Sie teure Fehlkäufe und bringen Sie Struktur in Ihren Kleiderschrank."
+  ctaText: "Jetzt Erstgespräch vereinbaren"
   ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
   image: "images/Nati2.png"
 intro:
