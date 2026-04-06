@@ -24,7 +24,7 @@ Welche Teile passen wirklich zu dir? Und was kannst du sinnvoll kombinieren, sta
 ## Kernfunktionen
 
 - **Farbtyp-Test:** schnelle, präzise Einordnung für sichere Farbentscheidungen
-- **EStyle-ID:** persoenliche Stil-Matrix als roter Faden für deinen Auftritt
+- **EStyle-ID:** persönliche Stil-Matrix als roter Faden für deinen Auftritt
 - **Outfit- und Kombinationshilfe:** alte und neue Teile smart kombinieren
 - **Garderoben-Manager (Lite):** mehr überblick im Kleiderschrank, weniger Frust
 - **Gezielte Kaufempfehlungen:** passender einkaufen, Fehlkäufe reduzieren
@@ -34,7 +34,7 @@ Welche Teile passen wirklich zu dir? Und was kannst du sinnvoll kombinieren, sta
 Für Frauen und Männer zwischen 25 und 55, die:
 
 - im Alltag oder Beruf sicher und stimmig auftreten wollen
-- beim Shoppen Zeit sparen moechten
+- beim Shoppen Zeit sparen möchten
 - einen bewussteren, nachhaltigeren Umgang mit Mode suchen
 
 ## Das Modell
@@ -48,7 +48,7 @@ EStyle ist als **Freemium-Angebot** gedacht:
 ## EStyle Pro (B2B)
 
 Neben dem Endkunden-Angebot gibt es mit **EStyle Pro** auch eine Variante für Handel und Boutiqün:
-digitale Stilberatung direkt am Point of Sale, als SaaS-Loesung für bessere Beratung, hoehere Conversion
+digitale Stilberatung direkt am Point of Sale, als SaaS-Lösung für bessere Beratung, höhere Conversion
 und weniger Retouren.
 
 Wenn du EStyle als Nutzer:in oder als B2B-Partner spannend findest, schreib mir gerne:
