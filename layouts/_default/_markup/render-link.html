@@ -1,0 +1,10 @@
+{{- $dest := .Destination -}}
+{{- $isExternal := or (hasPrefix $dest "http://") (hasPrefix $dest "https://") -}}
+{{- $forceNewTab := or (hasPrefix $dest "/stiltest") (hasPrefix $dest "/garderobencheck") -}}
+
+<a href="{{ $dest | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if or $isExternal $forceNewTab }} target="_blank" rel="noopener noreferrer"{{ end -}}
+>
+  {{- .Text | safeHTML -}}
+</a>
