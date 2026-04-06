@@ -19,14 +19,39 @@
         <div class="lead">{{ $hero.text | markdownify }}</div>
         <div class="hero-actions">
           <a class="btn" href="{{ $hero.ctaHref }}">{{ $hero.ctaText }}</a>
-          <a class="btn btn-secondary" href="/about/">Mehr über mich</a>
-          <a class="btn btn-secondary" href="/estyle/">EStyle entdecken</a>
-          <a class="btn btn-secondary" href="/stiltest/">Stiltest machen</a>
-          <a class="btn btn-secondary" href="/garderobencheck">Garderoben Check</a>
+          <a class="btn btn-secondary" href="https://calendar.app.google/mGFQuoZbyqQRTABi9">Jetzt Erstgespräch vereinbaren</a>
         </div>
       </div>
       <div class="hero-image-wrap">
         <img src="{{ $hero.image | relURL }}" alt="Porträt von Natalia Kleemann" class="hero-image">
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>Schnellzugriff</h2>
+      <div class="cards">
+        <article class="card">
+          <h3><a href="/about/">Über mich</a></h3>
+          <p>Wer ich bin und wie ich arbeite.</p>
+        </article>
+        <article class="card">
+          <h3><a href="/estyle/">EStyle</a></h3>
+          <p>Mein digitales Angebot für mehr Stil-Sicherheit.</p>
+        </article>
+        <article class="card">
+          <h3><a href="/stiltest/">Stiltest</a></h3>
+          <p>Erste Erkenntnisse zu Ihrem Stil in wenigen Minuten.</p>
+        </article>
+        <article class="card">
+          <h3><a href="/garderobencheck">Garderoben Check</a></h3>
+          <p>Prüfen Sie Ihre Basic-Garderobe und erkennen Sie Lücken.</p>
+        </article>
+        <article class="card">
+          <h3><a href="https://calendar.app.google/mGFQuoZbyqQRTABi9">Jetzt Erstgespräch vereinbaren</a></h3>
+          <p>Buchen Sie direkt einen kostenlosen Kennenlerntermin.</p>
+        </article>
       </div>
     </div>
   </section>
@@ -57,7 +82,7 @@
     </div>
   </section>
 
-  <section class="section section-dark">
+  <section class="section section-dark" id="angebote">
     <div class="container">
       <h2>{{ $services.title }}</h2>
       <div class="cards">
