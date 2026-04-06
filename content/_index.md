@@ -21,8 +21,8 @@ services:
     - title: "Wardrobe Refresh"
       text: "Ein klar strukturierter Kleiderschrank mit Outfits, die funktionieren und dir täglich Sicherheit geben."
 contact:
-  title: "Lass uns über deinen neün Auftritt sprechen"
-  text: "Buche ein unverbindliches Erstgespräch und wir schaün gemeinsam, welches Coaching zu dir passt."
+  title: "Lass uns über deinen neuen Auftritt sprechen"
+  text: "Buche ein unverbindliches Erstgespräch und wir schaue gemeinsam, welches Coaching zu dir passt."
   email: "natalia@eskyna.com"
   photo: "images/Nati.png"
   signature: "images/sign.png"

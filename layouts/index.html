@@ -54,6 +54,7 @@
         <h2>{{ $contact.title }}</h2>
         <p>{{ $contact.text }}</p>
         <p><strong>E-Mail:</strong> <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></p>
+        {{ partial "social-links.html" . }}
       </div>
       <div class="signature-block">
         <img src="{{ $contact.photo | relURL }}" alt="Natalia Kleemann" class="signature-photo">

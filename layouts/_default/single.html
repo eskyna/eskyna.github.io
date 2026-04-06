@@ -10,6 +10,7 @@
           <div class="prose">
             {{ .Content }}
           </div>
+          {{ partial "social-links.html" . }}
         </div>
         <div class="page-image-wrap">
           <img src="{{ .Params.image | relURL }}" alt="Natalia Kleemann" class="hero-image">

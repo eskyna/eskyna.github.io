@@ -25,7 +25,7 @@ Welche Teile passen wirklich zu dir? Und was kannst du sinnvoll kombinieren, sta
 
 - **Farbtyp-Test:** schnelle, präzise Einordnung für sichere Farbentscheidungen
 - **EStyle-ID:** persoenliche Stil-Matrix als roter Faden für deinen Auftritt
-- **Outfit- und Kombinationshilfe:** alte und neü Teile smart kombinieren
+- **Outfit- und Kombinationshilfe:** alte und neue Teile smart kombinieren
 - **Garderoben-Manager (Lite):** mehr überblick im Kleiderschrank, weniger Frust
 - **Gezielte Kaufempfehlungen:** passender einkaufen, Fehlkäufe reduzieren
 

@@ -238,6 +238,37 @@ h2 {
   margin-bottom: 0.4rem;
 }
 
+.social-links {
+  display: flex;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.social-link {
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.02);
+  transition: transform 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.social-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.social-link svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
 @media (max-width: 900px) {
   .hero-grid,
   .intro-grid,
