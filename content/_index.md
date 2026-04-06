@@ -5,7 +5,7 @@ hero:
   headline: "Style und Image Coaching für Frauen, die Wirkung zeigen wollen"
   text: "Ich helfe dir, deinen persönlichen Stil sichtbar zu machen, selbstsicher aufzutreten und in jeder Situation authentisch zu wirken."
   ctaText: "Kostenloses Kennenlerngespräch"
-  ctaHref: "#kontakt"
+  ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
   image: "images/Nati2.png"
 intro:
   title: "Dein Auftritt beginnt mit Klarheit"
