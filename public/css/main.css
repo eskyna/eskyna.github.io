@@ -1,11 +1,11 @@
 :root {
-  --bg: #0b0d12;
-  --bg-soft: #121621;
-  --text: #edf2f7;
-  --muted: #b4becf;
-  --accent: #f3c67a;
-  --accent-strong: #efb354;
-  --card-border: rgba(255, 255, 255, 0.1);
+  --bg: #F9F6F0; /* Warm Alabaster */
+  --bg-soft: #E3D5C8; /* Soft Sand */
+  --text: #2C1E16; /* Espresso Brown */
+  --muted: rgba(44, 30, 22, 0.72);
+  --accent: #C5A059; /* Muted Gold */
+  --accent-strong: #8B5E34; /* Warm Cocoa */
+  --card-border: rgba(44, 30, 22, 0.16);
   --max-width: 1120px;
 }
 
@@ -21,7 +21,7 @@ body {
 
 body {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  background: radial-gradient(circle at 15% 10%, #1a2233 0%, var(--bg) 40%);
+  background: radial-gradient(circle at 20% 0%, #ffffff 0%, var(--bg) 40%);
   color: var(--text);
   line-height: 1.55;
 }
@@ -96,9 +96,10 @@ h2 {
   padding: 0.9rem 1.45rem;
   border: 1px solid var(--accent);
   border-radius: 100px;
-  color: #f8e6c8;
+  color: #2C1E16;
   font-weight: 600;
   transition: background-color 0.2s ease;
+  background-color: var(--accent);
 }
 
 .hero-actions {
@@ -108,18 +109,19 @@ h2 {
 }
 
 .btn:hover {
-  color: #20170b;
-  background-color: var(--accent);
+  color: #2C1E16;
+  background-color: rgba(197, 160, 89, 0.86);
 }
 
 .btn-secondary {
-  border-color: var(--card-border);
+  border-color: rgba(139, 94, 52, 0.35);
   color: var(--text);
+  background-color: transparent;
 }
 
 .btn-secondary:hover {
   color: var(--text);
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(227, 213, 200, 0.55);
 }
 
 .hero-image-wrap {
@@ -130,7 +132,7 @@ h2 {
 .hero-image {
   border-radius: 22px;
   border: 1px solid var(--card-border);
-  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 18px 50px rgba(44, 30, 22, 0.22);
 }
 
 .section {
@@ -138,7 +140,7 @@ h2 {
 }
 
 .section-dark {
-  background: linear-gradient(180deg, rgba(20, 26, 38, 0.72), rgba(13, 17, 26, 0.72));
+  background: linear-gradient(180deg, rgba(227, 213, 200, 0.75), rgba(227, 213, 200, 0.45));
   border-top: 1px solid var(--card-border);
   border-bottom: 1px solid var(--card-border);
 }
@@ -189,7 +191,7 @@ h2 {
 
 .signature-image {
   max-width: 150px;
-  filter: brightness(1.08);
+  filter: contrast(1.02) saturate(1.02);
 }
 
 .page {
@@ -252,8 +254,8 @@ h2 {
   justify-content: center;
   border: 1px solid var(--card-border);
   border-radius: 999px;
-  color: var(--muted);
-  background: rgba(255, 255, 255, 0.02);
+  color: var(--accent-strong);
+  background: rgba(227, 213, 200, 0.35);
   transition: transform 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 }
 
