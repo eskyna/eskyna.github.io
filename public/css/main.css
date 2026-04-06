@@ -45,6 +45,15 @@ a:hover {
   margin: 0 auto;
 }
 
+.topbar {
+  padding: 0.75rem 0;
+}
+
+.topbar-inner {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .hero {
   min-height: 84vh;
   display: grid;

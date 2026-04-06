@@ -5,6 +5,12 @@
 {{ $services := .Params.services }}
 {{ $contact := .Params.contact }}
 <main>
+  <div class="topbar">
+    <div class="container topbar-inner">
+      {{ partial "social-links.html" . }}
+    </div>
+  </div>
+
   <section class="hero">
     <div class="container hero-grid">
       <div class="hero-copy">

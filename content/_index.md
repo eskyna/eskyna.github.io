@@ -1,7 +1,7 @@
 ---
 title: "Natalia Kleemann"
 hero:
-  eyebrow: "Natalia Kleemann"
+  eyebrow: "Natalia Kleemann | Style- und Imagecoach"
   headline: "Style und Image Coaching für Frauen, die Wirkung zeigen wollen"
   text: "Ich helfe dir, deinen persönlichen Stil sichtbar zu machen, selbstsicher aufzutreten und in jeder Situation authentisch zu wirken."
   ctaText: "Kostenloses Kennenlerngespräch"
