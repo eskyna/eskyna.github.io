@@ -1,7 +1,7 @@
 ---
 title: "EStyle - Dein digitaler Stilberater"
 eyebrow: "Digitales Angebot von Natalia Kleemann"
-image: "images/Nati2.png"
+image: "images/estyle-app.png"
 ---
 
 **EStyle** ist mein digitales Angebot für alle, die sich mehr Stil-Sicherheit im Alltag wünschen -
