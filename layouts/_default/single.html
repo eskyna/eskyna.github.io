@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="page">
+  <section class="section">
+    <div class="container">
+      <a class="back-link" href="/">Zur Startseite</a>
+      <div class="page-grid">
+        <div>
+          <p class="eyebrow">{{ .Params.eyebrow }}</p>
+          <h1>{{ .Title }}</h1>
+          <div class="prose">
+            {{ .Content }}
+          </div>
+        </div>
+        <div class="page-image-wrap">
+          <img src="{{ .Params.image | relURL }}" alt="Natalia Kleemann" class="hero-image">
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

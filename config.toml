@@ -1,0 +1,7 @@
+baseURL = "https://eskyna.com/"
+languageCode = "de-DE"
+title = "Natalia Kleemann | Style & Image Coaching"
+
+[params]
+  author = "Natalia Kleemann"
+  description = "Style- und Image-Coaching fuer Frauen, die sichtbar, stilsicher und authentisch auftreten wollen."

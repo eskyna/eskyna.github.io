@@ -1,0 +1,65 @@
+{{ define "main" }}
+{{ $hero := .Params.hero }}
+{{ $intro := .Params.intro }}
+{{ $services := .Params.services }}
+{{ $contact := .Params.contact }}
+<main>
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">{{ $hero.eyebrow }}</p>
+        <h1>{{ $hero.headline }}</h1>
+        <p class="lead">{{ $hero.text }}</p>
+        <div class="hero-actions">
+          <a class="btn" href="{{ $hero.ctaHref }}">{{ $hero.ctaText }}</a>
+          <a class="btn btn-secondary" href="/about/">Mehr ueber mich</a>
+          <a class="btn btn-secondary" href="/estyle/">EStyle entdecken</a>
+        </div>
+      </div>
+      <div class="hero-image-wrap">
+        <img src="{{ $hero.image | relURL }}" alt="Portraet von Natalia Kleemann" class="hero-image">
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container intro-grid">
+      <div>
+        <img src="{{ $intro.image | relURL }}" alt="Natalia Kleemann beim Coaching" class="card-image">
+      </div>
+      <div>
+        <h2>{{ $intro.title }}</h2>
+        <p>{{ $intro.text }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark">
+    <div class="container">
+      <h2>{{ $services.title }}</h2>
+      <div class="cards">
+        {{ range $services.items }}
+          <article class="card">
+            <h3>{{ .title }}</h3>
+            <p>{{ .text }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="kontakt">
+    <div class="container contact-grid">
+      <div>
+        <h2>{{ $contact.title }}</h2>
+        <p>{{ $contact.text }}</p>
+        <p><strong>E-Mail:</strong> <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></p>
+      </div>
+      <div class="signature-block">
+        <img src="{{ $contact.photo | relURL }}" alt="Natalia Kleemann" class="signature-photo">
+        <img src="{{ $contact.signature | relURL }}" alt="Unterschrift von Natalia Kleemann" class="signature-image">
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}
