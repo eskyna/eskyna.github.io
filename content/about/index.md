@@ -15,7 +15,7 @@ im Business und auf der Bühne.
 
 Meine Arbeit verbindet Stilkompetenz mit psychologischem Feingefühl:
 
-- Wir analysieren, wie du aktüll wahrgenommen wirst.
+- Wir analysieren, wie du aktuelll wahrgenommen wirst.
 - Wir definieren, wie du wirken möchtest.
 - Wir entwickeln Looks und Routinen, die zu deinem Leben passen.
 
