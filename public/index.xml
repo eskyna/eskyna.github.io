@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natalia Kleemann on Natalia Kleemann | Style &amp; Image Coaching</title>
-    <link>https://eskyna.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Natalia Kleemann on Natalia Kleemann | Style &amp; Image Coaching</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <atom:link href="https://eskyna.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EStyle - Dein digitaler Stilberater</title>
-      <link>https://eskyna.com/estyle/</link>
+      <link>http://localhost:1313/estyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eskyna.com/estyle/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;EStyle&lt;/strong&gt; ist mein digitales Angebot fuer alle, die sich mehr Stil-Sicherheit im Alltag wuenschen -&#xA;schnell, verstaendlich und ohne Fehlkaeufe.&lt;/p&gt;&#xA;&lt;p&gt;Die Idee hinter EStyle: professionelle Stil- und Farbberatung aus dem 1:1-Coaching in eine&#xA;skalierbare App zu bringen. So wird Stilkompetenz fuer deutlich mehr Menschen zugaenglich.&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-estyle-leistet&#34;&gt;Was EStyle leistet&lt;/h2&gt;&#xA;&lt;p&gt;EStyle verbindet drei Ebenen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;KI-basierte Typ- und Farbanalyse&lt;/li&gt;&#xA;&lt;li&gt;fundierte Stiltheorie&lt;/li&gt;&#xA;&lt;li&gt;alltagstaugliche Empfehlungen fuer konkrete Kaufsituationen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Dadurch bekommst du nicht nur Inspiration, sondern klare Entscheidungen: Welche Farben stehen dir?&#xA;Welche Teile passen wirklich zu dir? Und was kannst du sinnvoll kombinieren, statt neu zu kaufen?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/estyle/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;EStyle&lt;/strong&gt; ist mein digitales Angebot für alle, die sich mehr Stil-Sicherheit im Alltag wünschen -&#xA;schnell, verständlich und ohne Fehlkäufe.&lt;/p&gt;&#xA;&lt;p&gt;Die Idee hinter EStyle: professionelle Stil- und Farbberatung aus dem 1:1-Coaching in eine&#xA;skalierbare App zu bringen. So wird Stilkompetenz für deutlich mehr Menschen zugänglich.&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-estyle-leistet&#34;&gt;Was EStyle leistet&lt;/h2&gt;&#xA;&lt;p&gt;EStyle verbindet drei Ebenen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;KI-basierte Typ- und Farbanalyse&lt;/li&gt;&#xA;&lt;li&gt;fundierte Stiltheorie&lt;/li&gt;&#xA;&lt;li&gt;alltagstaugliche Empfehlungen für konkrete Kaufsituationen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Dadurch bekommst du nicht nur Inspiration, sondern klare Entscheidungen: Welche Farben stehen dir?&#xA;Welche Teile passen wirklich zu dir? Und was kannst du sinnvoll kombinieren, statt neu zu kaufen?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ueber mich</title>
-      <link>https://eskyna.com/about/</link>
+      <title>über mich</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eskyna.com/about/</guid>
-      <description>&lt;p&gt;Ich bin &lt;strong&gt;Natalia Kleemann&lt;/strong&gt;, Style- und Image-Coach mit Fokus auf einen Auftritt,&#xA;der sich nach dir anfuehlt und gleichzeitig professionell wirkt.&lt;/p&gt;&#xA;&lt;p&gt;Seit vielen Jahren begleite ich Frauen dabei, ihren persoenlichen Stil zu schaerfen,&#xA;selbstsicher aufzutreten und ihre Ausstrahlung bewusst einzusetzen - im Alltag,&#xA;im Business und auf der Buehne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wie-ich-arbeite&#34;&gt;Wie ich arbeite&lt;/h2&gt;&#xA;&lt;p&gt;Meine Arbeit verbindet Stilkompetenz mit psychologischem Feingefuehl:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wir analysieren, wie du aktuell wahrgenommen wirst.&lt;/li&gt;&#xA;&lt;li&gt;Wir definieren, wie du wirken moechtest.&lt;/li&gt;&#xA;&lt;li&gt;Wir entwickeln Looks und Routinen, die zu deinem Leben passen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Das Ergebnis ist kein verkleideter Trend-Look, sondern ein klarer, authentischer Stil,&#xA;mit dem du dich sichtbar wohlfuehlst.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Ich bin &lt;strong&gt;Natalia Kleemann&lt;/strong&gt;, Style- und Image-Coach mit Fokus auf einen Auftritt,&#xA;der sich nach dir anfühlt und gleichzeitig professionell wirkt.&lt;/p&gt;&#xA;&lt;p&gt;Seit vielen Jahren begleite ich Frauen dabei, ihren persoenlichen Stil zu schärfen,&#xA;selbstsicher aufzutreten und ihre Ausstrahlung bewusst einzusetzen - im Alltag,&#xA;im Business und auf der Bühne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wie-ich-arbeite&#34;&gt;Wie ich arbeite&lt;/h2&gt;&#xA;&lt;p&gt;Meine Arbeit verbindet Stilkompetenz mit psychologischem Feingefühl:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wir analysieren, wie du aktüll wahrgenommen wirst.&lt;/li&gt;&#xA;&lt;li&gt;Wir definieren, wie du wirken moechtest.&lt;/li&gt;&#xA;&lt;li&gt;Wir entwickeln Looks und Routinen, die zu deinem Leben passen.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Das Ergebnis ist kein verkleideter Trend-Look, sondern ein klarer, authentischer Stil,&#xA;mit dem du dich sichtbar wohlfühlst.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
