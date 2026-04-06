@@ -194,6 +194,23 @@ h2 {
   margin-bottom: 0;
 }
 
+.facts-list {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: var(--muted);
+}
+
+.facts-list li {
+  margin-bottom: 0.55rem;
+}
+
+.mission {
+  margin-top: 1.2rem;
+  color: var(--text);
+  font-weight: 600;
+  max-width: 62ch;
+}
+
 .signature-block {
   display: grid;
   gap: 1rem;

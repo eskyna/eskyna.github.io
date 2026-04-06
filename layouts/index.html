@@ -2,6 +2,8 @@
 {{ $hero := .Params.hero }}
 {{ $intro := .Params.intro }}
 {{ $problems := .Params.problems }}
+{{ $coach := .Params.coach }}
+{{ $facts := .Params.facts }}
 {{ $services := .Params.services }}
 {{ $contact := .Params.contact }}
 <main>
@@ -38,6 +40,31 @@
           </article>
         {{ end }}
       </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container intro-grid">
+      <div>
+        <img src="{{ $coach.image | relURL }}" alt="Natalia Kleemann" class="card-image">
+      </div>
+      <div>
+        <h2>{{ $coach.title }}</h2>
+        <p>{{ $coach.text }}</p>
+        <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer">{{ $coach.buttonText }}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark">
+    <div class="container">
+      <h2>{{ $facts.title }}</h2>
+      <ul class="facts-list">
+        {{ range $facts.items }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+      <p class="mission">{{ $facts.mission }}</p>
     </div>
   </section>
 

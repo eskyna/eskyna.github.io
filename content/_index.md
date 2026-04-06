@@ -28,6 +28,22 @@ problems:
       text: "Ihnen fehlt ein einfaches System zum Strukturieren und Ausmisten."
     - title: "Das gewisse Etwas"
       text: "Sie suchen noch nach der perfekten Frisur und dem Make-up für Ihren Typ."
+coach:
+  title: "Professioneller Style- und Imagecoach Natalia Kleemann"
+  text: "Ich helfe Ihnen diese Probleme zu lösen."
+  buttonText: "Jetzt Erstgespräch vereinbaren"
+  buttonHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+  image: "images/Nati2.png"
+facts:
+  title: "Ein paar Fakten über mich"
+  items:
+    - "Ich mache seit 2019, was ich liebe"
+    - "Ich arbeite mit Frauen und Männern online und offline"
+    - "Internationale Stil-Erfahrung von Sibirien bis Leipzig"
+    - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"
+    - "Mama von 2 stilbewussten Jungs"
+    - "Ich denke Stilberatung neu - als Gründerin von EStyle"
+  mission: "Meine Mission: Ich helfe Menschen, ihren Stil wirklich zu verstehen, damit sie sicher auftreten und bewusst entscheiden."
 services:
   title: "Mein Angebot"
   items:
