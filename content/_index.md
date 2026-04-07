@@ -24,6 +24,21 @@ problems:
       text: "Ihnen fehlt ein einfaches System zum Strukturieren und Ausmisten."
     - title: "Das gewisse Etwas"
       text: "Sie suchen noch nach der perfekten Frisur und dem Make-up für Ihren Typ."
+results:
+  title: "Das gewinnen Sie durch die Zusammenarbeit"
+  items:
+    - title: "Klarer Stil, der zu Ihnen passt"
+      text: "Sie kennen Ihre Farben, Schnitte und Kombinationen und treffen schneller sichere Entscheidungen."
+    - title: "Mehr Wirkung im Beruf und Alltag"
+      text: "Ihr Auftritt wird stimmig, professionell und authentisch - ohne Verkleidungseffekt."
+    - title: "Weniger Fehlkäufe, mehr System"
+      text: "Sie investieren gezielt in Teile, die wirklich funktionieren und langfristig tragbar sind."
+    - title: "Schneller startklar am Morgen"
+      text: "Outfits sind vorbereitet, kombinierbar und passend zu Ihren Terminen und Rollen."
+    - title: "Sichtbare Sicherheit im Auftreten"
+      text: "Sie wirken ruhiger, klarer und praesenter - bei Kunden, im Team und auf Events."
+    - title: "Ein Kleiderschrank mit Strategie"
+      text: "Jedes Teil hat eine Aufgabe und unterstuetzt Ihren Stil, statt nur Platz zu belegen."
 coach:
   title: "Professioneller Style- und Imagecoach Natalia Kleemann"
   text: "Ich helfe Ihnen diese Probleme zu lösen."

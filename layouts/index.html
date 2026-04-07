@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $hero := .Params.hero }}
 {{ $problems := .Params.problems }}
+{{ $results := .Params.results }}
 {{ $coach := .Params.coach }}
 {{ $facts := .Params.facts }}
 {{ $services := .Params.services }}
@@ -36,6 +37,22 @@
           <article class="card">
             <h3>{{ .title }}</h3>
             <p>{{ .text }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section benefits-section">
+    <div class="container">
+      <h2>{{ $results.title }}</h2>
+      <p class="benefits-intro">Ihr Stil soll nicht nur gut aussehen, sondern Ihren Alltag einfacher und wirkungsvoller machen.</p>
+      <div class="benefits-grid">
+        {{ range $index, $item := $results.items }}
+          <article class="benefit-card">
+            <p class="benefit-index">{{ printf "%02d" (add $index 1) }}</p>
+            <h3>{{ $item.title }}</h3>
+            <p>{{ $item.text }}</p>
           </article>
         {{ end }}
       </div>

@@ -194,6 +194,52 @@ h2 {
   padding: 1.25rem;
 }
 
+.benefits-section {
+  background: radial-gradient(circle at 85% 0%, rgb(197 160 89 / 20%), rgb(249 246 240 / 30%) 40%);
+}
+
+.benefits-intro {
+  max-width: 70ch;
+  color: var(--muted);
+  margin: 0;
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.benefit-card {
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 1.3rem;
+  background: rgb(249 246 240 / 82%);
+}
+
+.benefit-card h3 {
+  margin: 0 0 0.7rem;
+  font-size: 1.15rem;
+}
+
+.benefit-card p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.benefit-index {
+  margin: 0 0 0.65rem;
+  display: inline-block;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgb(139 94 52 / 30%);
+  color: var(--accent-strong);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  font-weight: 700;
+}
+
 .facts-list {
   margin: 0;
   padding-left: 1.2rem;
@@ -392,7 +438,8 @@ h2 {
   .contact-grid,
   .cards,
   .page-grid,
-  .offers-grid {
+  .offers-grid,
+  .benefits-grid {
     grid-template-columns: 1fr;
   }
 
