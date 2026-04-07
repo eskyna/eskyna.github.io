@@ -305,6 +305,26 @@ h2 {
   fill: currentColor;
 }
 
+.site-footer {
+  border-top: 1px solid var(--card-border);
+  padding: 1.1rem 0 1.6rem;
+}
+
+.site-footer-inner {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.site-footer-inner a {
+  color: var(--muted);
+}
+
+.site-footer-inner a:hover {
+  color: var(--accent-strong);
+}
+
 @media (max-width: 900px) {
   .hero-grid,
   .intro-grid,
