@@ -2,10 +2,10 @@
   --bg: #F9F6F0; /* Warm Alabaster */
   --bg-soft: #E3D5C8; /* Soft Sand */
   --text: #2C1E16; /* Espresso Brown */
-  --muted: rgba(44, 30, 22, 0.72);
+  --muted: rgb(44 30 22 / 72%);
   --accent: #C5A059; /* Muted Gold */
   --accent-strong: #8B5E34; /* Warm Cocoa */
-  --card-border: rgba(44, 30, 22, 0.16);
+  --card-border: rgb(44 30 22 / 16%);
   --max-width: 1120px;
 }
 
@@ -21,7 +21,7 @@ body {
 
 body {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  background: radial-gradient(circle at 20% 0%, #ffffff 0%, var(--bg) 40%);
+  background: radial-gradient(circle at 20% 0%, #fff 0%, var(--bg) 40%);
   color: var(--text);
   line-height: 1.55;
 }
@@ -104,6 +104,11 @@ h2 {
   margin: 0;
 }
 
+.card p {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
 .lead p + p {
   margin-top: 1.1rem;
 }
@@ -127,18 +132,18 @@ h2 {
 
 .btn:hover {
   color: #2C1E16;
-  background-color: rgba(197, 160, 89, 0.86);
+  background-color: rgb(197 160 89 / 86%);
 }
 
 .btn-secondary {
-  border-color: rgba(139, 94, 52, 0.35);
+  border-color: rgb(139 94 52 / 35%);
   color: var(--text);
   background-color: transparent;
 }
 
 .btn-secondary:hover {
   color: var(--text);
-  background-color: rgba(227, 213, 200, 0.55);
+  background-color: rgb(227 213 200 / 55%);
 }
 
 .hero-image-wrap {
@@ -149,7 +154,7 @@ h2 {
 .hero-image {
   border-radius: 22px;
   border: 1px solid var(--card-border);
-  box-shadow: 0 18px 50px rgba(44, 30, 22, 0.22);
+  box-shadow: 0 18px 50px rgb(44 30 22 / 22%);
 }
 
 .section {
@@ -157,7 +162,7 @@ h2 {
 }
 
 .section-dark {
-  background: linear-gradient(180deg, rgba(227, 213, 200, 0.75), rgba(227, 213, 200, 0.45));
+  background: linear-gradient(180deg, rgb(227 213 200 / 75%), rgb(227 213 200 / 45%));
   border-top: 1px solid var(--card-border);
   border-bottom: 1px solid var(--card-border);
 }
@@ -187,11 +192,6 @@ h2 {
   border: 1px solid var(--card-border);
   border-radius: 14px;
   padding: 1.25rem;
-}
-
-.card p {
-  color: var(--muted);
-  margin-bottom: 0;
 }
 
 .facts-list {
@@ -289,7 +289,7 @@ h2 {
   border: 1px solid var(--card-border);
   border-radius: 999px;
   color: var(--accent-strong);
-  background: rgba(227, 213, 200, 0.35);
+  background: rgb(227 213 200 / 35%);
   transition: transform 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 }
 
@@ -302,7 +302,7 @@ h2 {
 .social-link svg {
   width: 15px;
   height: 15px;
-  fill: currentColor;
+  fill: currentcolor;
 }
 
 .site-footer {

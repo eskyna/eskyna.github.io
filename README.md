@@ -32,3 +32,20 @@ hugo
 ```
 
 Der statische Output liegt in `public/`.
+
+## Linting
+
+Das Projekt nutzt folgende Linter:
+
+- Stylelint fuer CSS
+- markdownlint fuer Markdown
+
+Skripte:
+
+```bash
+yarn lint
+yarn lint:css
+yarn lint:md
+```
+
+Hinweis: Dafuer wird eine Node.js-Installation benoetigt.
