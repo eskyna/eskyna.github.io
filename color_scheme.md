@@ -9,10 +9,10 @@ Espresso Brown#2C1E1644, 30, 22Typography & Deep Accents. Use this instead of st
 
 ## Application Guide (How to use it)
 
-### Header & Navigation:
+### Header & Navigation
 
-Keep the background Warm Alabaster (#F9F6F0) with Espresso Brown (#2C1E16) text. When users hover over the navigation links, they can change to Muted Gold (#C5A059).Call to Action (CTA) Buttons: For the buttons you really want people to click (like "Buy Now" or "Contact Us"), use the Muted Gold background with Espresso Brown or white text.
+Keep the background Warm Alabaster (#F9F6F0) with Espresso Brown (#2C1E16) text. When users hover over the navigation links, they can change to Muted Gold (#C5A059). Call to Action (CTA) Buttons: For the buttons you really want people to click (like "Buy Now" or "Contact Us"), use the Muted Gold background with Espresso Brown or white text.
 
-### Typography:
+### Typography
 
-Using #2C1E16 instead of pure #000000 is the secret to making a brown/beige theme feel cohesive. Pure black can clash with the warm undertones of your palette.Images: To make this palette really sing, try to use photos or illustrations that have warm color grading or sepia/golden-hour undertones.
+Using #2C1E16 instead of pure #000000 is the secret to making a brown/beige theme feel cohesive. Pure black can clash with the warm undertones of your palette. Images: To make this palette really sing, try to use photos or illustrations that have warm color grading or sepia/golden-hour undertones.

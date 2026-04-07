@@ -12,4 +12,4 @@ Wilhelm-Michel-Strasse 10
 
 ## Kontakt
 
-E-Mail: natalia@eskyna.com
+E-Mail: [natalia@eskyna.com](mailto:natalia@eskyna.com)

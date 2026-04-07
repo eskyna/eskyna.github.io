@@ -1,7 +1,8 @@
 # 🎨 Natalia Kleemann – Style & Image Coaching
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Hugo](https://img.shields.io/badge/Made%20with-Hugo-FF4088?style=flat&logo=hugo)](https://gohugo.io)
+[![Build Status](https://github.com/eskyna/eskyna.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/eskyna/eskyna.github.io/actions/workflows/hugo.yml)
 [![Linting](https://img.shields.io/badge/Linting-Active-brightgreen)](CONTRIBUTING.md)
 
 Professional Style & Image Coaching website built with **Hugo** — fast, clean, and semantic.
@@ -12,12 +13,12 @@ Professional Style & Image Coaching website built with **Hugo** — fast, clean,
 
 ## 📋 Table of Contents
 
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Development](#development)
-- [Building & Deployment](#building--deployment)
-- [Quality Assurance](#quality-assurance)
-- [Contributing](#contributing)
+- [Quick Start](#-quick-start)
+- [Project Structure](#-project-structure)
+- [Development](#-development)
+- [Building & Deployment](#-building--deployment)
+- [Quality Assurance](#-quality-assurance)
+- [Contributing](#-contributing)
 
 ---
 
@@ -48,7 +49,7 @@ Static output is generated in the `public/` directory, ready for deployment to G
 
 ## 📁 Project Structure
 
-```
+```text
 .
 ├── archetypes/              # Content templates
 ├── content/                 # Page content (Markdown)
@@ -168,10 +169,13 @@ yarn lint:md
 
 1. Install Node.js: [nodejs.org](https://nodejs.org)
 2. Install dependencies:
+
    ```bash
    yarn install
    ```
+
 3. Run linting:
+
    ```bash
    bin/lint.sh
    ```
@@ -214,14 +218,16 @@ yarn lint:md
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+This project is proprietary commercial software. All rights reserved.
+
+Usage, copying, modification, and redistribution are not permitted without prior written permission from the copyright holder. See [LICENSE](LICENSE) for details.
 
 ---
 
 ## 📽 Contact & Links
 
 **Website:** [eskyna.com](https://eskyna.com)  
-**Email:** natalia@eskyna.com  
+**Email:** [natalia@eskyna.com](mailto:natalia@eskyna.com)  
 **LinkedIn:** [Natalia Kleemann](https://de.linkedin.com/in/natalia-kleemann-94686b2b3)  
 **Instagram:** [@natalia.kleemann](https://www.instagram.com/natalia.kleemann/)
 

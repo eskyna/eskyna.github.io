@@ -52,4 +52,4 @@ digitale Stilberatung direkt am Point of Sale, als SaaS-Lösung für bessere Ber
 und weniger Retouren.
 
 Wenn du EStyle als Nutzer:in oder als B2B-Partner spannend findest, schreib mir gerne:
-**estyle@eskyna.com**
+**[estyle@eskyna.com](mailto:estyle@eskyna.com)**
