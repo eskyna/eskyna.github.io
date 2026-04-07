@@ -7,10 +7,6 @@ hero:
   ctaText: "Lernen Sie meine Angebote kennen"
   ctaHref: "#angebote"
   image: "images/Nati2.png"
-intro:
-  title: "Dein Auftritt beginnt mit Klarheit"
-  text: "Stil ist mehr als Kleidung. Er ist die Verbindung aus Persönlichkeit, Ausstrahlung und Haltung. In meinem Coaching arbeiten wir genau daran: wie du gesehen werden willst und wie du diese Wirkung im Alltag, im Beruf und bei besonderen Anlässen gezielt erzeugst."
-  image: "images/Nati3.jpg"
 problems:
   title: "Erkennen Sie sich hier wieder?"
   items:

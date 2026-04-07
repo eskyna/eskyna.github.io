@@ -1,6 +1,5 @@
 {{ define "main" }}
 {{ $hero := .Params.hero }}
-{{ $intro := .Params.intro }}
 {{ $problems := .Params.problems }}
 {{ $coach := .Params.coach }}
 {{ $facts := .Params.facts }}
@@ -92,18 +91,6 @@
           <h3><a href="https://calendar.app.google/mGFQuoZbyqQRTABi9" target="_blank" rel="noopener noreferrer">Jetzt Erstgespräch vereinbaren</a></h3>
           <p>Buchen Sie direkt einen kostenlosen Kennenlerntermin.</p>
         </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container intro-grid">
-      <div>
-        <img src="{{ $intro.image | relURL }}" alt="Natalia Kleemann beim Coaching" class="card-image">
-      </div>
-      <div>
-        <h2>{{ $intro.title }}</h2>
-        <p>{{ $intro.text }}</p>
       </div>
     </div>
   </section>
