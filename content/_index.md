@@ -6,7 +6,7 @@ hero:
   text: "Die zielgerichtete Image- und Stilberatung für Männer und Frauen. Sparen Sie Zeit, vermeiden Sie teure Fehlkäufe und bringen Sie Struktur in Ihren Kleiderschrank.\n\n\n\nLassen Sie uns Starten."
   ctaText: "Lernen Sie meine Angebote kennen"
   ctaHref: "#angebote"
-  image: "images/Nati2.png"
+  image: "images/IMG_5208_transparent.png"
 problems:
   title: "Erkennen Sie sich hier wieder?"
   items:
