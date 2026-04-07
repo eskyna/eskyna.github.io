@@ -98,11 +98,19 @@
   <section class="section section-dark" id="angebote">
     <div class="container">
       <h2>{{ $services.title }}</h2>
-      <div class="cards">
-        {{ range $services.items }}
-          <article class="card">
-            <h3>{{ .title }}</h3>
-            <p>{{ .text }}</p>
+      <p class="offers-intro">Wählen Sie das Programm, das zu Ihrem Alltag und Ihren Zielen passt. Jedes Angebot ist individuell, klar strukturiert und auf sofortige Umsetzbarkeit ausgelegt.</p>
+      <div class="offers-grid">
+        {{ range $index, $item := $services.items }}
+          <article class="offer-card {{ if eq $index 1 }}offer-card-featured{{ end }}">
+            <p class="offer-label">Programm {{ add $index 1 }}</p>
+            <h3>{{ $item.title }}</h3>
+            <p class="offer-text">{{ $item.text }}</p>
+            <ul class="offer-meta">
+              <li>Persönlich abgestimmt</li>
+              <li>Schritt-für-Schritt Begleitung</li>
+              <li>Klare Umsetzungsstrategie</li>
+            </ul>
+            <a class="btn {{ if ne $index 1 }}btn-secondary{{ end }}" href="#kontakt">Beratung anfragen</a>
           </article>
         {{ end }}
       </div>

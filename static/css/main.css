@@ -211,6 +211,67 @@ h2 {
   max-width: 62ch;
 }
 
+.offers-intro {
+  margin: 0;
+  max-width: 72ch;
+  color: var(--muted);
+}
+
+.offers-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.4rem;
+}
+
+.offer-card {
+  display: grid;
+  gap: 0.9rem;
+  padding: 1.4rem;
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  background: rgb(249 246 240 / 70%);
+}
+
+.offer-card h3 {
+  margin: 0;
+}
+
+.offer-label {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  color: var(--accent-strong);
+  font-weight: 700;
+}
+
+.offer-text {
+  margin: 0;
+  color: var(--muted);
+}
+
+.offer-meta {
+  margin: 0;
+  padding-left: 1.1rem;
+  color: var(--text);
+}
+
+.offer-meta li {
+  margin-bottom: 0.3rem;
+}
+
+.offer-card .btn {
+  margin-top: 0.3rem;
+  justify-self: start;
+}
+
+.offer-card-featured {
+  background: linear-gradient(170deg, rgb(197 160 89 / 26%), rgb(227 213 200 / 48%));
+  border-color: rgb(139 94 52 / 35%);
+  box-shadow: 0 12px 34px rgb(44 30 22 / 14%);
+}
+
 .signature-block {
   display: grid;
   gap: 1rem;
@@ -330,7 +391,8 @@ h2 {
   .intro-grid,
   .contact-grid,
   .cards,
-  .page-grid {
+  .page-grid,
+  .offers-grid {
     grid-template-columns: 1fr;
   }
 
