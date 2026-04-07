@@ -325,7 +325,7 @@ h2 {
   color: var(--accent-strong);
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .hero-grid,
   .intro-grid,
   .contact-grid,
