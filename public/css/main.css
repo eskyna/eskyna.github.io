@@ -154,12 +154,14 @@ h2 {
 .hero-image-wrap {
   justify-self: end;
   width: min(100%, 460px);
+  background: transparent;
 }
 
 .hero-image {
   border-radius: 22px;
-  border: 1px solid var(--card-border);
-  box-shadow: 0 18px 50px rgb(44 30 22 / 22%);
+  border: 0;
+  box-shadow: none;
+  background: transparent;
 }
 
 .section {
@@ -183,6 +185,12 @@ h2 {
 .card-image {
   border-radius: 18px;
   border: 1px solid var(--card-border);
+}
+
+.coach-image {
+  border: 0;
+  box-shadow: none;
+  background: transparent;
 }
 
 .cards {
