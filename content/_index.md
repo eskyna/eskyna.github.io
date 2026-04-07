@@ -57,25 +57,87 @@ facts:
   mission: "Meine Mission: Ich helfe Menschen, ihren Stil wirklich zu verstehen, damit sie sicher auftreten und bewusst entscheiden."
 services:
   title: "Angebote"
-  items:
-    - title: "Kostenloses Kennenlerngespräch (20 Minuten)"
-      text: "Ein entspannter, unverbindlicher Austausch zur Klärung deiner Wünsche und Ziele. Du erhältst erste Stil-Impulse, eine Empfehlung für das passende Angebot und ein gutes Gefühl für den nächsten Schritt."
-    - title: "Kostenloser Stiltest"
-      text: "Entdecke deinen Stiltyp in wenigen Minuten mit einem Online-Stil- und Persönlichkeitstest. Inklusive verständlicher Auswertung sowie ersten Hinweisen zu Farben und Schnitten für mehr Inspiration im Alltag."
-    - title: "Online-Styleanalyse"
-      text: "Individuelle Stilberatung flexibel und ortsunabhängig: Farbtest mit digitalem Farbpass, Stiltest, Outfit-Empfehlungen für Alltag und Business sowie optional Frisur-, Make-up- und Einkaufsimpulse. Ergebnis: Stil-Report (PDF), Farbpass, EStyle ID und mehr Sicherheit beim Kombinieren."
-    - title: "Digitale Style Guides"
-      text: "Kompakte Guides mit klar erklärten Farben und Stilprinzipien, wirkungsvollen Kombinationen und praktischen Outfit-Formeln. Ideal für Stil-Einsteiger:innen und alle, die schnell Klarheit und Inspiration möchten."
-    - title: "Styleanalyse vor Ort"
-      text: "Persönliche Beratung in Leipzig, Erfurt, Nordhausen oder Dresden mit Farbtest inkl. Farbpass, Stil- und Typanalyse, Outfit-Zusammenstellungen, Frisur- und Make-up-Empfehlungen sowie Garderoben-Check. Ergebnis: ein authentischer Look mit starker Ausstrahlung."
-    - title: "Garderoben-Check"
-      text: "Mehr Übersicht und weniger Fehlkäufe durch die Analyse deiner vorhandenen Garderobe. Wir erstellen neue Outfit-Kombinationen und identifizieren sinnvolle Ergänzungen für eine Garderobe, die wirklich zu dir passt."
-    - title: "Shoppingbegleitung"
-      text: "Gezielt einkaufen mit System: Vorbereitung nach Farben, Budget und Bedarf, persönliche Begleitung online oder vor Ort und Fokus auf Passform, Qualität und Stil. Ergebnis: passende Lieblingsstücke und mehr Freude beim Einkauf."
-    - title: "Style & Image Fotoshooting"
-      text: "Dein Stil professionell sichtbar gemacht: Styling-Konzept nach ESKYNA-Methode, Outfit-Auswahl und Vorbereitung sowie Zusammenarbeit mit Profi-Fotograf:innen. Ergebnis: authentische, hochwertige Bilder mit starker Außenwirkung."
-    - title: "Stiltransformation (3 Monate)"
-      text: "Intensive Begleitung über ca. 10 Termine (online und offline kombinierbar) mit Farb- und Stilauswahl, Garderoben-Check, Shoppingbegleitung und Outfit-Kapseln für Alltag und Business. Ergebnis: klarer Stil, mehr Selbstbewusstsein und ein starkes, einheitliches Image."
+  groups:
+    - title: "Kostenlos starten"
+      items:
+        - title: "Kostenloses Kennenlerngespräch (20 Minuten)"
+          text: "Ein erster, entspannter Austausch - unverbindlich und persönlich."
+          highlights:
+            - "Klärung deiner Wünsche und Ziele"
+            - "Erste Stil-Impulse"
+            - "Empfehlung des passenden Angebots"
+          ctaText: "Gespräch vereinbaren"
+          ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+        - title: "Kostenloser Stiltest"
+          text: "Entdecke deinen Stiltyp in wenigen Minuten."
+          highlights:
+            - "Online-Stil- und Persönlichkeitstest"
+            - "Verständliche Auswertung"
+            - "Erste Hinweise zu Farben und Schnitten"
+          ctaText: "Stiltest starten"
+          ctaHref: "/stiltest/"
+
+    - title: "Online-Angebote"
+      items:
+        - title: "Online-Styleanalyse"
+          text: "Individuelle Stilberatung - flexibel und ortsunabhängig."
+          highlights:
+            - "Farbtest inkl. digitalem Farbpass"
+            - "Stiltest mit klarer Auswertung"
+            - "Outfit-Empfehlungen für Alltag und Business"
+            - "Ergebnis: Stil-Report, Farbpass, EStyle ID"
+          ctaText: "Online-Styleanalyse buchen"
+          ctaHref: "#kontakt"
+        - title: "Digitale Style Guides"
+          text: "Kompakte Inspiration für deinen Stil."
+          highlights:
+            - "Farben und Stil verständlich erklärt"
+            - "Kombinationen, die wirken"
+            - "Praktische Outfit-Formeln"
+
+    - title: "Persönliche Beratung"
+      items:
+        - title: "Styleanalyse vor Ort"
+          text: "Persönliche Beratung in Leipzig, Erfurt, Nordhausen oder Dresden."
+          highlights:
+            - "Persönlicher Farbtest inkl. Farbpass"
+            - "Stil- und Typanalyse"
+            - "Outfit-Zusammenstellungen"
+            - "Garderoben-Check"
+          ctaText: "Termin anfragen"
+          ctaHref: "#kontakt"
+        - title: "Garderoben-Check"
+          text: "Mehr Übersicht. Weniger Fehlkäufe."
+          highlights:
+            - "Analyse deiner vorhandenen Garderobe"
+            - "Neue Outfit-Kombinationen"
+            - "Sinnvolle Ergänzungen"
+        - title: "Shoppingbegleitung"
+          text: "Gezielt einkaufen - mit System."
+          highlights:
+            - "Vorbereitung: Farben, Budget, Bedarf"
+            - "Persönliche Begleitung online oder vor Ort"
+            - "Fokus auf Passform, Qualität und Stil"
+
+    - title: "Premium-Angebote"
+      items:
+        - title: "Style und Image Fotoshooting"
+          text: "Dein Stil - professionell sichtbar."
+          highlights:
+            - "Styling-Konzept nach ESKYNA-Methode"
+            - "Outfit-Auswahl und Vorbereitung"
+            - "Zusammenarbeit mit Profi-Fotograf:innen"
+          ctaText: "Angebot anfragen"
+          ctaHref: "#kontakt"
+        - title: "Stiltransformation (3 Monate)"
+          text: "Dein Stil. Dein nächstes Level."
+          highlights:
+            - "3 Monate, ca. 10 Termine"
+            - "Online und Offline kombinierbar"
+            - "Farb- und Stilauswahl plus Shoppingbegleitung"
+            - "Einheitliches, starkes Image"
+          ctaText: "Stiltransformation anfragen"
+          ctaHref: "#kontakt"
 contact:
   title: "Lass uns über deinen neuen Auftritt sprechen"
   text: "Buche ein unverbindliches Erstgespräch und wir schaue gemeinsam, welches Coaching zu dir passt."

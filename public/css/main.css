@@ -271,6 +271,15 @@ h2 {
   color: var(--muted);
 }
 
+.offers-group {
+  margin-top: 1.8rem;
+}
+
+.offers-group-title {
+  margin-bottom: 1rem;
+  font-size: clamp(1.2rem, 2vw, 1.55rem);
+}
+
 .offers-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -291,6 +300,11 @@ h2 {
   margin: 0;
 }
 
+.offer-card h4 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
 .offer-label {
   margin: 0;
   text-transform: uppercase;
@@ -303,6 +317,16 @@ h2 {
 .offer-text {
   margin: 0;
   color: var(--muted);
+}
+
+.offer-highlights {
+  margin: 0;
+  padding-left: 1.1rem;
+  color: var(--text);
+}
+
+.offer-highlights li {
+  margin-bottom: 0.35rem;
 }
 
 .offer-meta {

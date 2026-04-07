@@ -115,22 +115,31 @@
   <section class="section section-dark" id="angebote">
     <div class="container">
       <h2>{{ $services.title }}</h2>
-      <p class="offers-intro">Wählen Sie das Programm, das zu Ihrem Alltag und Ihren Zielen passt. Jedes Angebot ist individuell, klar strukturiert und auf sofortige Umsetzbarkeit ausgelegt.</p>
-      <div class="offers-grid">
-        {{ range $index, $item := $services.items }}
-          <article class="offer-card {{ if eq $index 1 }}offer-card-featured{{ end }}">
-            <p class="offer-label">Programm {{ add $index 1 }}</p>
-            <h3>{{ $item.title }}</h3>
-            <p class="offer-text">{{ $item.text }}</p>
-            <ul class="offer-meta">
-              <li>Persönlich abgestimmt</li>
-              <li>Schritt-für-Schritt Begleitung</li>
-              <li>Klare Umsetzungsstrategie</li>
-            </ul>
-            <a class="btn {{ if ne $index 1 }}btn-secondary{{ end }}" href="#kontakt">Beratung anfragen</a>
-          </article>
-        {{ end }}
-      </div>
+      <p class="offers-intro">Wählen Sie den Einstieg, der zu Ihrer aktuellen Situation passt. Die Angebote sind in klare Stufen gegliedert.</p>
+      {{ range $group := $services.groups }}
+        <div class="offers-group">
+          <h3 class="offers-group-title">{{ $group.title }}</h3>
+          <div class="offers-grid">
+            {{ range $index, $item := $group.items }}
+              {{ $ctaHref := or $item.ctaHref "#kontakt" }}
+              {{ $ctaText := or $item.ctaText "Beratung anfragen" }}
+              <article class="offer-card {{ if and (eq $index 0) (ne $group.title "Kostenlos starten") }}offer-card-featured{{ end }}">
+                <p class="offer-label">{{ $group.title }}</p>
+                <h4>{{ $item.title }}</h4>
+                <p class="offer-text">{{ $item.text }}</p>
+                {{ with $item.highlights }}
+                  <ul class="offer-highlights">
+                    {{ range . }}
+                      <li>{{ . }}</li>
+                    {{ end }}
+                  </ul>
+                {{ end }}
+                <a class="btn {{ if ne $group.title "Kostenlos starten" }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if hasPrefix $ctaHref "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
+              </article>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
     </div>
   </section>
 
