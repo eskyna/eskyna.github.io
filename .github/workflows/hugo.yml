@@ -46,8 +46,29 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        run: |
+          if [[ -f yarn.lock ]]; then
+            corepack enable
+            yarn install --frozen-lockfile
+          elif [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
+            npm ci
+          elif [[ -f package.json ]]; then
+            npm install
+          else
+            echo "No Node.js dependency manifest found. Skipping install."
+          fi
+      - name: Run linters
+        run: |
+          if [[ -f package.json ]]; then
+            npm run lint
+          else
+            echo "No package.json found. Skipping lint."
+          fi
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
