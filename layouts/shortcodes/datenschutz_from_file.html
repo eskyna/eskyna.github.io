@@ -1,7 +1,0 @@
-{{- $raw := readFile "ImpressumUndDatenschutz.md" -}}
-{{- $parts := split $raw "# Datenschutzerklärung" -}}
-{{- if ge (len $parts) 2 -}}
-  {{- printf "# Datenschutzerklärung\n%s" (index $parts 1) | markdownify -}}
-{{- else -}}
-  <p>Die Datenschutzerklärung konnte nicht geladen werden.</p>
-{{- end -}}
