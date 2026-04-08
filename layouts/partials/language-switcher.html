@@ -3,9 +3,9 @@
   {{ if eq $current "de" }}
     <span class="language-current" lang="de">Deutsch</span>
     <span class="language-divider">|</span>
-    <a href="/ru/" lang="ru" class="language-link">Русский</a>
+    <a href="/ru/" lang="ru" class="language-link" data-lang="ru">Русский</a>
   {{ else }}
-    <a href="/" lang="de" class="language-link">Deutsch</a>
+    <a href="/" lang="de" class="language-link" data-lang="de">Deutsch</a>
     <span class="language-divider">|</span>
     <span class="language-current" lang="ru">Русский</span>
   {{ end }}
