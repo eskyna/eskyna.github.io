@@ -152,7 +152,7 @@
         {{ range $item := $references.items }}
           <article class="reference-chip">
             {{ with $item.logo }}
-              <img src="{{ . | relURL }}" alt="Logo {{ $item.name }}" class="reference-logo">
+              <img src="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" class="reference-logo">
             {{ end }}
             <p class="reference-name">{{ $item.name }}</p>
           </article>
