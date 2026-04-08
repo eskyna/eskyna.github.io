@@ -902,6 +902,99 @@ h2 {
   color: var(--accent);
 }
 
+/* ── Praxisbeispiele (Cases) ───────────────────────────── */
+
+.cases-section {
+  padding: 6rem 0;
+  background: var(--bg);
+}
+
+.cases-title {
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.75rem;
+  color: var(--text);
+}
+
+.cases-subtitle {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto 3rem;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.cases-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.75rem;
+}
+
+.case-card {
+  background: var(--bg-soft);
+  border-radius: 4px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.case-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.cases-section .case-row p {
+  font-family: var(--font-text);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--text);
+  margin: 0;
+}
+
+.case-tag {
+  display: inline-block;
+  font-family: var(--font-subtitle);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: var(--card-border);
+  color: var(--muted);
+  padding: 0.2rem 0.6rem;
+  border-radius: 2px;
+  align-self: flex-start;
+}
+
+.case-tag-service {
+  background: rgb(197 160 89 / 14%);
+  color: var(--accent-strong);
+}
+
+.case-row-result .case-tag {
+  background: var(--accent);
+  color: #fff;
+}
+
+.cases-section .case-row-result p {
+  font-weight: 600;
+  color: var(--accent-strong);
+}
+
+/* ── Referenz-Label ────────────────────────────────────── */
+
+.reference-label {
+  font-family: var(--font-subtitle);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0.15rem 0 0;
+}
+
 /* ── FAQ Akkordeon ─────────────────────────────────────── */
 
 .faq-section {
@@ -1031,6 +1124,10 @@ h2 {
   .testimonial-quote::before {
     left: 50%;
     transform: translateX(-50%);
+  }
+
+  .cases-grid {
+    grid-template-columns: 1fr;
   }
 
   .method-journey {

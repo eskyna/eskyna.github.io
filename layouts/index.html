@@ -7,6 +7,7 @@
 {{ $facts := .Params.facts }}
 {{ $services := .Params.services }}
 {{ $method := .Params.method }}
+{{ $cases := .Params.cases }}
 {{ $references := .Params.references }}
 {{ $testimonials := .Params.testimonials }}
 {{ $faq := .Params.faq }}
@@ -69,6 +70,33 @@
       </div>
     </div>
   </section>
+
+  {{ with $cases }}
+  <section class="section cases-section">
+    <div class="container">
+      <h2 class="cases-title">{{ .title }}</h2>
+      <p class="cases-subtitle">{{ .subtitle }}</p>
+      <div class="cases-grid">
+        {{ range .items }}
+        <article class="case-card">
+          <div class="case-row">
+            <span class="case-tag case-tag-situation">{{ $ui.case_situation_label }}</span>
+            <p>{{ .situation }}</p>
+          </div>
+          <div class="case-row">
+            <span class="case-tag case-tag-service">{{ $ui.case_service_label }}</span>
+            <p>{{ .service }}</p>
+          </div>
+          <div class="case-row case-row-result">
+            <span class="case-tag case-tag-result">{{ $ui.case_result_label }}</span>
+            <p>{{ .result }}</p>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
 
   <section class="section process-section" id="ablauf">
     <div class="container">
@@ -202,6 +230,7 @@
               <img src="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" class="reference-logo">
             {{ end }}
             <p class="reference-name">{{ $item.name }}</p>
+            {{ with $item.label }}<p class="reference-label">{{ . }}</p>{{ end }}
           </article>
         {{ end }}
       </div>
