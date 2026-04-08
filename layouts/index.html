@@ -6,6 +6,7 @@
 {{ $coach := .Params.coach }}
 {{ $facts := .Params.facts }}
 {{ $services := .Params.services }}
+{{ $method := .Params.method }}
 {{ $references := .Params.references }}
 {{ $testimonials := .Params.testimonials }}
 {{ $contact := .Params.contact }}
@@ -124,6 +125,33 @@
       </div>
     </div>
   </section>
+
+  {{ with $method }}
+  <section class="section method-section" id="methode">
+    <div class="container">
+      <p class="eyebrow method-eyebrow">{{ .eyebrow }}</p>
+      <h2 class="method-heading">{{ .title }}</h2>
+      <p class="method-intro">{{ .intro }}</p>
+      <p class="method-tagline">{{ .tagline }}</p>
+      <div class="method-journey">
+        {{ range .steps }}
+        <article class="method-step">
+          <div class="method-step-icon">
+            <img src="{{ .icon | relURL }}" alt="" class="method-step-img" aria-hidden="true">
+          </div>
+          <p class="method-step-badge">{{ .letter }}</p>
+          <h3 class="method-step-title">{{ .title }}</h3>
+          <p class="method-step-text">{{ .text }}</p>
+        </article>
+        {{ end }}
+      </div>
+      <blockquote class="method-quote">
+        <p>{{ .quote }}</p>
+        <footer>— Natalia Kleemann</footer>
+      </blockquote>
+    </div>
+  </section>
+  {{ end }}
 
   <section class="section section-dark" id="angebote">
     <div class="container">

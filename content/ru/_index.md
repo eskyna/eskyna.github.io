@@ -186,6 +186,38 @@ references:
     - name: "Hannover Messe 2026"
       logo: "images/references/hannover-messe.png"
 
+method:
+  eyebrow: "Метод ESKYNA"
+  title: "Больше чем стилистика: метод с системой"
+  intro: "С помощью метода ESKYNA Наталья Клееманн созидает стиль не только по вкусу, но и исходя из личности, эффекта и реальной жизни. В шесть шагов формируется образ, который ясен, аутентичен и долговечен."
+  tagline: "Эссенция — Сигналы — Язык ключей — Your Signature — Новая гардеробная логика — Активация"
+  quote: "Я разработала метод ESKYNA, чтобы превратить стиль из чего-то случайного в нечто осознанное — как видимое выражение личности, присутствия и уверенности в себе."
+  steps:
+    - letter: "E"
+      title: "Essenz"
+      text: "Кто вы и как вы хотите производить впечатление."
+      icon: "images/method/E_essenz.png"
+    - letter: "S"
+      title: "Signale"
+      text: "Что ваш нынешний стиль говорит о вас сегодня."
+      icon: "images/method/S_signale.png"
+    - letter: "K"
+      title: "Kernsprache"
+      text: "Какие цвета, линии и формы вас усиливают."
+      icon: "images/method/K_kernsprache.png"
+    - letter: "Y"
+      title: "Your Signature"
+      text: "Как выглядит ваш неповторимый стиль."
+      icon: "images/method/Y_your_signature.png"
+    - letter: "N"
+      title: "Neue Garderobenlogik"
+      text: "Как сделать ваш гардероб ясным и функциональным."
+      icon: "images/method/N_neue_garderobe.png"
+    - letter: "A"
+      title: "Aktivierung"
+      text: "Как уверенно и естественно жить своим стилем."
+      icon: "images/method/A_aktivierung.png"
+
 testimonials:
   title: "Что говорят мои клиентки"
   items:
