@@ -248,6 +248,57 @@ h2 {
   font-weight: 700;
 }
 
+.process-section {
+  background: linear-gradient(180deg, rgb(249 246 240 / 70%), rgb(227 213 200 / 32%));
+}
+
+.process-intro,
+.process-outro {
+  margin: 0;
+  max-width: 72ch;
+  color: var(--muted);
+}
+
+.process-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.process-card {
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 1.2rem;
+  background: rgb(249 246 240 / 85%);
+}
+
+.process-card h3 {
+  margin: 0 0 0.65rem;
+  font-size: 1.05rem;
+}
+
+.process-card p:last-child {
+  margin: 0;
+  color: var(--muted);
+}
+
+.process-index {
+  margin: 0 0 0.65rem;
+  display: inline-block;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgb(139 94 52 / 30%);
+  color: var(--accent-strong);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  font-weight: 700;
+}
+
+.process-section .btn {
+  margin-top: 1.2rem;
+}
+
 .facts-list {
   margin: 0;
   padding-left: 1.2rem;
@@ -530,7 +581,8 @@ h2 {
   .page-grid,
   .offers-grid,
   .benefits-grid,
-  .references-grid {
+  .references-grid,
+  .process-grid {
     grid-template-columns: 1fr;
   }
 

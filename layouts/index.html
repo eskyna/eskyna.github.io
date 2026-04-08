@@ -2,6 +2,7 @@
 {{ $hero := .Params.hero }}
 {{ $problems := .Params.problems }}
 {{ $results := .Params.results }}
+{{ $process := .Params.process }}
 {{ $coach := .Params.coach }}
 {{ $facts := .Params.facts }}
 {{ $services := .Params.services }}
@@ -57,6 +58,24 @@
           </article>
         {{ end }}
       </div>
+    </div>
+  </section>
+
+  <section class="section process-section" id="ablauf">
+    <div class="container">
+      <h2>{{ $process.title }}</h2>
+      <p class="process-intro">{{ $process.intro }}</p>
+      <div class="process-grid">
+        {{ range $index, $item := $process.items }}
+          <article class="process-card">
+            <p class="process-index">{{ printf "%02d" (add $index 1) }}</p>
+            <h3>{{ $item.title }}</h3>
+            <p>{{ $item.text }}</p>
+          </article>
+        {{ end }}
+      </div>
+      <p class="process-outro">{{ $process.outro }}</p>
+      <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer">{{ $process.ctaText }}</a>
     </div>
   </section>
 

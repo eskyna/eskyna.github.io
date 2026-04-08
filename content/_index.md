@@ -39,6 +39,23 @@ results:
       text: "Sie wirken ruhiger, klarer und praesenter - bei Kunden, im Team und auf Events."
     - title: "Ein Kleiderschrank mit Strategie"
       text: "Jedes Teil hat eine Aufgabe und unterstuetzt Ihren Stil, statt nur Platz zu belegen."
+process:
+  title: "Wie läuft die Zusammenarbeit mit mir ab?"
+  intro: "Jede Zusammenarbeit beginnt mit einem klaren Blick auf Ihre aktuelle Situation, Ihre Ziele und Ihren Alltag. Daraus entsteht Schritt für Schritt ein Stil, der wirklich zu Ihnen passt - persönlich, tragbar und mit System."
+  items:
+    - title: "Kennenlernen und Zielklärung"
+      text: "In einem ersten Gespräch klären wir, wo Sie gerade stehen, was Sie sich wünschen und welche Herausforderungen Sie aktuell erleben."
+    - title: "Analyse Ihres Stils und Ihrer Wirkung"
+      text: "Wir schauen auf Farben, Schnitte, Proportionen, Ihren Lebensstil und Ihre persönliche Ausstrahlung."
+    - title: "Individuelle Stilstrategie"
+      text: "Sie erhalten eine klare stilistische Richtung und konkrete Empfehlungen, die wirklich zu Ihnen passen."
+    - title: "Umsetzung in Garderobe und Outfits"
+      text: "Je nach Angebot arbeiten wir direkt an Ihrem Kleiderschrank, planen sinnvolle Ergänzungen oder setzen Ihre neue Stilrichtung beim Shopping um."
+    - title: "Sicherheit im Alltag"
+      text: "Am Ende haben Sie nicht nur schöne Einzelteile, sondern einen klaren roten Faden für Ihren Stil, Ihre Outfits und Ihren Auftritt."
+  outro: "Der genaue Ablauf richtet sich nach dem gewählten Angebot - das Ziel bleibt immer gleich: ein Stil, der Sie im Alltag entlastet und in Ihrer Wirkung stärkt."
+  ctaText: "Jetzt Erstgespräch vereinbaren"
+  ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
 coach:
   title: "Professioneller Style- und Imagecoach Natalia Kleemann"
   text: "Ich helfe Ihnen diese Probleme zu lösen."
