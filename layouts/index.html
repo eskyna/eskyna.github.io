@@ -9,6 +9,7 @@
 {{ $method := .Params.method }}
 {{ $references := .Params.references }}
 {{ $testimonials := .Params.testimonials }}
+{{ $faq := .Params.faq }}
 {{ $contact := .Params.contact }}
 {{ $ui := .Params.ui }}
 <main>
@@ -234,6 +235,26 @@
           {{ end }}
         </nav>
         {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ with $faq }}
+  <section class="section faq-section" id="faq">
+    <div class="container">
+      <h2 class="faq-title">{{ .title }}</h2>
+      <p class="faq-intro">{{ .intro }}</p>
+      <div class="faq-list">
+        {{ range .items }}
+        <details class="faq-item">
+          <summary class="faq-question">{{ .q }}</summary>
+          <div class="faq-answer"><p>{{ .a }}</p></div>
+        </details>
+        {{ end }}
+      </div>
+      <div class="faq-cta">
+        <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer">{{ $ui.faq_cta_text }}</a>
       </div>
     </div>
   </section>

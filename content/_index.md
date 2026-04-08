@@ -235,6 +235,23 @@ testimonials:
       quote: "Kompetent, feinfühlig und mit viel Stilbewusstsein: Natalia versteht es, Menschen in ihrer Wirkung zu stärken. Ich kann ihre Beratung von Herzen weiterempfehlen."
       name: "Julia B."
 
+faq:
+  title: "Häufige Fragen vor dem Start"
+  intro: "Hier finden Sie Antworten auf typische Fragen rund um die Beratung, den Ablauf und den passenden Einstieg."
+  items:
+    - q: "Ist die Beratung auch für mich geeignet, wenn ich mich bisher wenig mit Stil beschäftigt habe?"
+      a: "Ja. Die Beratung ist besonders hilfreich für Menschen, die sich im Alltag mehr Klarheit, weniger Fehlkäufe und einen stimmigen Auftritt wünschen, ohne sich intensiv mit Mode beschäftigen zu müssen."
+    - q: "Was passiert im kostenlosen Erstgespräch?"
+      a: "Im kostenlosen Erstgespräch besprechen wir Ihre aktuelle Situation, Ihre Wünsche und den sinnvollsten nächsten Schritt. So finden wir gemeinsam heraus, welches Angebot am besten zu Ihnen passt."
+    - q: "Wie finde ich heraus, welches Angebot für mich das richtige ist?"
+      a: "Genau dafür ist das kostenlose Erstgespräch da. Dort klären wir, ob ein Stiltest, eine Styleanalyse, ein Garderoben-Check oder eine Shoppingbegleitung für Ihre Situation sinnvoll ist."
+    - q: "Muss ich dafür meinen kompletten Kleiderschrank austauschen?"
+      a: "Nein. In vielen Fällen lässt sich schon mit vorhandenen Teilen deutlich mehr herausholen. Neue Käufe werden nur dort empfohlen, wo sie Ihren Stil sinnvoll ergänzen."
+    - q: "Was ist besser für mich – online oder vor Ort?"
+      a: "Online ist ideal, wenn Sie flexibel und ortsunabhängig beraten werden möchten. Vor Ort ist besonders hilfreich, wenn es um Ihren Kleiderschrank, konkrete Outfitkombinationen oder persönliche Begleitung beim Shopping geht."
+    - q: "Ist die Beratung auch für den beruflichen Kontext sinnvoll?"
+      a: "Ja. Wenn Ihr Auftritt im Beruf eine wichtige Rolle spielt, hilft die Beratung dabei, Kompetenz, Persönlichkeit und Präsenz sichtbarer zu machen. Das ist besonders wertvoll für Meetings, Kundentermine, Vorträge und Führungsrollen."
+
 contact:
   title: "Lassen Sie uns über Ihren neuen Auftritt sprechen"
   text: "Buchen Sie ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu Ihnen passt."
@@ -252,6 +269,8 @@ ui:
   offers_intro: "Wählen Sie den Einstieg, der zu Ihrer aktuellen Situation passt. Die Angebote sind in klare Stufen gegliedert."
   result_label: "Ergebnis:"
   default_cta_text: "Beratung anfragen"
+  faq_cta_text: "Kostenloses Erstgespräch buchen"
+  faq_cta_href: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
   social_links_label: "Social Media Links"
   footer_imprint_text: "Impressum"
   footer_privacy_text: "Datenschutzerklärung"
