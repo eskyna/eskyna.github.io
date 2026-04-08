@@ -138,6 +138,20 @@ services:
             - "Einheitliches, starkes Image"
           ctaText: "Stiltransformation anfragen"
           ctaHref: "#kontakt"
+references:
+  title: "Referenzen und Auszeichnungen"
+  subtitle: "Vertrauen durch Erfahrung."
+  items:
+    - name: "EXIST Women 2025"
+      logo: "images/references/exist-women.svg"
+    - name: "TRIP 2025 / 2026"
+      logo: "images/references/trip.svg"
+    - name: "IONOS"
+      logo: "images/references/ionos.svg"
+    - name: "HIKE"
+      logo: "images/references/hike.svg"
+    - name: "Hannover Messe 2026"
+      logo: "images/references/hannover-messe.svg"
 contact:
   title: "Lass uns über deinen neuen Auftritt sprechen"
   text: "Buche ein unverbindliches Erstgespräch und wir schaue gemeinsam, welches Coaching zu dir passt."

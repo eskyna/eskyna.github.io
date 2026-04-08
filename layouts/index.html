@@ -5,6 +5,7 @@
 {{ $coach := .Params.coach }}
 {{ $facts := .Params.facts }}
 {{ $services := .Params.services }}
+{{ $references := .Params.references }}
 {{ $contact := .Params.contact }}
 <main>
   <div class="topbar">
@@ -140,6 +141,23 @@
           </div>
         </div>
       {{ end }}
+    </div>
+  </section>
+
+  <section class="section references-section" id="referenzen">
+    <div class="container">
+      <h2>{{ $references.title }}</h2>
+      <p class="references-subtitle">{{ $references.subtitle }}</p>
+      <div class="references-grid">
+        {{ range $item := $references.items }}
+          <article class="reference-chip">
+            {{ with $item.logo }}
+              <img src="{{ . | relURL }}" alt="Logo {{ $item.name }}" class="reference-logo">
+            {{ end }}
+            <p class="reference-name">{{ $item.name }}</p>
+          </article>
+        {{ end }}
+      </div>
     </div>
   </section>
 
