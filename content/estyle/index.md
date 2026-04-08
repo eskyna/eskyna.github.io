@@ -1,5 +1,5 @@
 ---
-title: "EStyle - Dein digitaler Stilberater"
+title: "EStyle - Ihr digitaler Stilberater"
 eyebrow: "Digitales Angebot von Natalia Kleemann"
 image: "images/estyle-app.png"
 ---
@@ -18,13 +18,13 @@ EStyle verbindet drei Ebenen:
 - fundierte Stiltheorie
 - alltagstaugliche Empfehlungen für konkrete Kaufsituationen
 
-Dadurch bekommst du nicht nur Inspiration, sondern klare Entscheidungen: Welche Farben stehen dir?
-Welche Teile passen wirklich zu dir? Und was kannst du sinnvoll kombinieren, statt neu zu kaufen?
+Dadurch erhalten Sie nicht nur Inspiration, sondern klare Entscheidungen: Welche Farben stehen Ihnen?
+Welche Teile passen wirklich zu Ihnen? Und was können Sie sinnvoll kombinieren, statt neu zu kaufen?
 
 ## Kernfunktionen
 
 - **Farbtyp-Test:** schnelle, präzise Einordnung für sichere Farbentscheidungen
-- **EStyle-ID:** persönliche Stil-Matrix als roter Faden für deinen Auftritt
+- **EStyle-ID:** persönliche Stil-Matrix als roter Faden für Ihren Auftritt
 - **Outfit- und Kombinationshilfe:** alte und neue Teile smart kombinieren
 - **Garderoben-Manager (Lite):** mehr überblick im Kleiderschrank, weniger Frust
 - **Gezielte Kaufempfehlungen:** passender einkaufen, Fehlkäufe reduzieren
@@ -51,5 +51,5 @@ Neben dem Endkunden-Angebot gibt es mit **EStyle Pro** auch eine Variante für H
 digitale Stilberatung direkt am Point of Sale, als SaaS-Lösung für bessere Beratung, höhere Conversion
 und weniger Retouren.
 
-Wenn du EStyle als Nutzer:in oder als B2B-Partner spannend findest, schreib mir gerne:
+Wenn Sie EStyle als Nutzer:in oder als B2B-Partner spannend finden, schreiben Sie mir gerne:
 **[estyle@eskyna.com](mailto:estyle@eskyna.com)**

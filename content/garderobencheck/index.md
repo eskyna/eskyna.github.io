@@ -1,18 +1,18 @@
 ---
 title: "Garderoben Check"
-eyebrow: "Dein Basic-Wardrobe-Check"
+eyebrow: "Ihr Basic-Wardrobe-Check"
 image: "images/Nati3.jpg"
 ---
 
-Mit diesem **Garderoben Check** findest du schnell heraus, ob du eine solide Basis hast - und welche
-Teile dir (wirklich) noch fehlen. Ziel: **weniger Fehlkaeufe**, **mehr Kombinationsmoeglichkeiten**,
+Mit diesem **Garderoben Check** finden Sie schnell heraus, ob Sie eine solide Basis haben - und welche
+Teile Ihnen (wirklich) noch fehlen. Ziel: **weniger Fehlkaeufe**, **mehr Kombinationsmoeglichkeiten**,
 und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 
-## So nutzt du den Check
+## So nutzen Sie den Check
 
-- Nimm dir 10 Minuten.
-- Geh Punkt fuer Punkt durch und hake ab, was du bereits besitzt.
-- Markiere am Ende **maximal 3 Luecken**, die deine Outfits aktuell am staerksten bremsen.
+- Nehmen Sie sich 10 Minuten.
+- Gehen Sie Punkt fuer Punkt durch und haken Sie ab, was Sie bereits besitzen.
+- Markieren Sie am Ende **maximal 3 Luecken**, die Ihre Outfits aktuell am staerksten bremsen.
 
 ## Basic Wardrobe - Checkliste
 
@@ -25,9 +25,9 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 
 ### Unterteile
 
-- [ ] 1 gut sitzende Jeans (dein Lieblingsschnitt)
+- [ ] 1 gut sitzende Jeans (Ihr Lieblingsschnitt)
 - [ ] 1 Stoffhose (Business-tauglich)
-- [ ] 1 Rock oder Alternative, die du wirklich traegst
+- [ ] 1 Rock oder Alternative, die Sie wirklich tragen
 
 ### Kleider & Einteiler
 
@@ -38,7 +38,7 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 
 - [ ] 1 Blazer (macht sofort „angezogen“)
 - [ ] 1 leichte Jacke (Saison-Teil)
-- [ ] 1 Mantel, der zu 80% deiner Outfits passt
+- [ ] 1 Mantel, der zu 80% Ihrer Outfits passt
 
 ### Schuhe
 
@@ -51,14 +51,14 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 - [ ] 1 Alltagstasche (praktisch, hochwertig)
 - [ ] 1 kleine Tasche/Clutch
 - [ ] Guertel (mind. 1, passend zu Schuhen)
-- [ ] Schmuck-Basics (die du wirklich nutzt)
+- [ ] Schmuck-Basics (die Sie wirklich nutzen)
 
 ## Erste Erkenntnisse (Mini-Auswertung)
 
-Wenn du in **2 oder mehr Bereichen** grosse Luecken hast, lohnt sich meist ein strukturierter
+Wenn Sie in **2 oder mehr Bereichen** grosse Luecken haben, lohnt sich meist ein strukturierter
 Wardrobe-Refresh: erst Basis stabilisieren, dann gezielt „Wow“-Teile ergaenzen.
 
-Wenn du willst, schauen wir gemeinsam drauf - und ich mache dir einen klaren Plan, was du brauchst
-und was du dir sparen kannst.
+Wenn Sie möchten, schauen wir gemeinsam darauf - und ich mache Ihnen einen klaren Plan, was Sie brauchen
+und was Sie sich sparen können.
 
 **Termin buchen:** [Kostenloses Kennenlerngespräch](https://calendar.app.google/mGFQuoZbyqQRTABi9)

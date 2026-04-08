@@ -63,13 +63,13 @@ services:
         - title: "Kostenloses Kennenlerngespräch (20 Minuten)"
           text: "Ein erster, entspannter Austausch - unverbindlich und persönlich."
           highlights:
-            - "Klärung deiner Wünsche und Ziele"
+            - "Klärung Ihrer Wünsche und Ziele"
             - "Erste Stil-Impulse"
             - "Empfehlung des passenden Angebots"
           ctaText: "Gespräch vereinbaren"
           ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
         - title: "Kostenloser Stiltest"
-          text: "Entdecke deinen Stiltyp in wenigen Minuten."
+          text: "Entdecken Sie Ihren Stiltyp in wenigen Minuten."
           highlights:
             - "Online-Stil- und Persönlichkeitstest"
             - "Verständliche Auswertung"
@@ -89,7 +89,7 @@ services:
           ctaText: "Online-Styleanalyse buchen"
           ctaHref: "#kontakt"
         - title: "Digitale Style Guides"
-          text: "Kompakte Inspiration für deinen Stil."
+          text: "Kompakte Inspiration für Ihren Stil."
           highlights:
             - "Farben und Stil verständlich erklärt"
             - "Kombinationen, die wirken"
@@ -109,7 +109,7 @@ services:
         - title: "Garderoben-Check"
           text: "Mehr Übersicht. Weniger Fehlkäufe."
           highlights:
-            - "Analyse deiner vorhandenen Garderobe"
+            - "Analyse Ihrer vorhandenen Garderobe"
             - "Neue Outfit-Kombinationen"
             - "Sinnvolle Ergänzungen"
         - title: "Shoppingbegleitung"
@@ -122,7 +122,7 @@ services:
     - title: "Premium-Angebote"
       items:
         - title: "Style und Image Fotoshooting"
-          text: "Dein Stil - professionell sichtbar."
+          text: "Ihr Stil - professionell sichtbar."
           highlights:
             - "Styling-Konzept nach ESKYNA-Methode"
             - "Outfit-Auswahl und Vorbereitung"
@@ -130,7 +130,7 @@ services:
           ctaText: "Angebot anfragen"
           ctaHref: "#kontakt"
         - title: "Stiltransformation (3 Monate)"
-          text: "Dein Stil. Dein nächstes Level."
+          text: "Ihr Stil. Ihr nächstes Level."
           highlights:
             - "3 Monate, ca. 10 Termine"
             - "Online und Offline kombinierbar"
@@ -153,8 +153,8 @@ references:
     - name: "Hannover Messe 2026"
       logo: "images/references/hannover-messe.png"
 contact:
-  title: "Lass uns über deinen neuen Auftritt sprechen"
-  text: "Buche ein unverbindliches Erstgespräch und wir schaue gemeinsam, welches Coaching zu dir passt."
+  title: "Lassen Sie uns über Ihren neuen Auftritt sprechen"
+  text: "Buchen Sie ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu Ihnen passt."
   email: "natalia@eskyna.com"
   photo: "images/Nati.png"
   signature: "images/sign.png"
