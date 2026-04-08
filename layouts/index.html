@@ -11,7 +11,12 @@
 <main>
   <div class="topbar">
     <div class="container topbar-inner">
-      {{ partial "social-links.html" . }}
+      <div class="topbar-left">
+        {{ partial "social-links.html" . }}
+      </div>
+      <div class="topbar-right">
+        {{ partial "language-switcher.html" . }}
+      </div>
     </div>
   </div>
 

@@ -51,7 +51,41 @@ a:hover {
 
 .topbar-inner {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar-left {
+  flex: 0;
+}
+
+.topbar-right {
+  flex: 0;
+}
+
+.language-switcher {
+  font-size: 0.9rem;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.language-current {
+  font-weight: 600;
+  color: var(--accent-strong);
+}
+
+.language-link {
+  color: var(--muted);
+  transition: color 200ms ease;
+}
+
+.language-link:hover {
+  color: var(--accent-strong);
+}
+
+.language-divider {
+  color: var(--card-border);
 }
 
 .hero {

@@ -1,0 +1,12 @@
+<div class="language-switcher">
+  {{ $current := .Language.Lang }}
+  {{ if eq $current "de" }}
+    <span class="language-current" lang="de">Deutsch</span>
+    <span class="language-divider">|</span>
+    <a href="/ru/" lang="ru" class="language-link">Русский</a>
+  {{ else }}
+    <a href="/" lang="de" class="language-link">Deutsch</a>
+    <span class="language-divider">|</span>
+    <span class="language-current" lang="ru">Русский</span>
+  {{ end }}
+</div>

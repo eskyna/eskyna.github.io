@@ -4,3 +4,10 @@
 <title>{{ .Site.Title }}</title>
 <link rel="icon" type="image/png" href="{{ "images/sign.png" | relURL }}">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+
+{{ if .IsHome }}
+  {{ range .AllTranslations -}}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+  {{ end -}}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+{{ end -}}
