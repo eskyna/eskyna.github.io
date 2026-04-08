@@ -98,6 +98,7 @@
 
 
 
+
 <main>
   <div class="topbar">
     <div class="container topbar-inner">
@@ -652,6 +653,94 @@
     </div>
   </section>
 
+  
+  <section class="section testimonials-section">
+    <div class="container">
+      <h2 class="testimonials-title">Das sagen meine Kundinnen</h2>
+      <div class="testimonials-slider" role="region" aria-label="Das sagen meine Kundinnen">
+        <div class="testimonials-track">
+          
+          <article class="testimonial-slide is-active" aria-hidden="false">
+            <div class="testimonial-inner">
+              <div class="testimonial-image-wrap">
+                <img src="/images/customer_references/reference_1.png" alt="Anna M." class="testimonial-image">
+              </div>
+              <blockquote class="testimonial-quote">
+                <p>Die Beratung mit Natalia war für mich ein echter Wendepunkt. Ich fühle mich heute deutlich sicherer in meinem Auftreten und habe endlich einen Stil gefunden, der wirklich zu mir passt.</p>
+                <footer class="testimonial-name">Anna M.</footer>
+              </blockquote>
+            </div>
+          </article>
+          
+          <article class="testimonial-slide" aria-hidden="true">
+            <div class="testimonial-inner">
+              <div class="testimonial-image-wrap">
+                <img src="/images/customer_references/reference_2.png" alt="Katharina S." class="testimonial-image">
+              </div>
+              <blockquote class="testimonial-quote">
+                <p>Natalia hat ein wunderbares Gespür für Persönlichkeit, Wirkung und Stil. Ihre Beratung war einfühlsam, professionell und absolut inspirierend.</p>
+                <footer class="testimonial-name">Katharina S.</footer>
+              </blockquote>
+            </div>
+          </article>
+          
+          <article class="testimonial-slide" aria-hidden="true">
+            <div class="testimonial-inner">
+              <div class="testimonial-image-wrap">
+                <img src="/images/customer_references/reference_3.png" alt="Laura W." class="testimonial-image">
+              </div>
+              <blockquote class="testimonial-quote">
+                <p>Ich hätte nicht gedacht, dass eine Stilberatung so viel verändern kann. Dank Natalia trete ich heute selbstbewusster auf und fühle mich in meiner Kleidung rundum wohl.</p>
+                <footer class="testimonial-name">Laura W.</footer>
+              </blockquote>
+            </div>
+          </article>
+          
+          <article class="testimonial-slide" aria-hidden="true">
+            <div class="testimonial-inner">
+              <div class="testimonial-image-wrap">
+                <img src="/images/customer_references/reference_4.png" alt="Sophie K." class="testimonial-image">
+              </div>
+              <blockquote class="testimonial-quote">
+                <p>Die Zusammenarbeit mit Natalia war nicht nur stilistisch eine Bereicherung, sondern auch persönlich. Sie hat mir geholfen, meine Ausstrahlung bewusster und authentischer zu gestalten.</p>
+                <footer class="testimonial-name">Sophie K.</footer>
+              </blockquote>
+            </div>
+          </article>
+          
+          <article class="testimonial-slide" aria-hidden="true">
+            <div class="testimonial-inner">
+              <div class="testimonial-image-wrap">
+                <img src="/images/customer_references/reference_5.png" alt="Julia B." class="testimonial-image">
+              </div>
+              <blockquote class="testimonial-quote">
+                <p>Kompetent, feinfühlig und mit viel Stilbewusstsein: Natalia versteht es, Menschen in ihrer Wirkung zu stärken. Ich kann ihre Beratung von Herzen weiterempfehlen.</p>
+                <footer class="testimonial-name">Julia B.</footer>
+              </blockquote>
+            </div>
+          </article>
+          
+        </div>
+        
+        <nav class="testimonials-nav" aria-label="Testimonial Navigation">
+          
+          <button class="testimonials-dot is-active" data-index="0" aria-label="Anna M." aria-current="true"></button>
+          
+          <button class="testimonials-dot" data-index="1" aria-label="Katharina S." aria-current="false"></button>
+          
+          <button class="testimonials-dot" data-index="2" aria-label="Laura W." aria-current="false"></button>
+          
+          <button class="testimonials-dot" data-index="3" aria-label="Sophie K." aria-current="false"></button>
+          
+          <button class="testimonials-dot" data-index="4" aria-label="Julia B." aria-current="false"></button>
+          
+        </nav>
+        
+      </div>
+    </div>
+  </section>
+  
+
   <section class="section" id="kontakt">
     <div class="container contact-grid">
       <div>
@@ -679,6 +768,54 @@
     </div>
   </section>
 </main>
+
+
+
+<script>
+(function () {
+  var sliders = document.querySelectorAll(".testimonials-slider");
+  sliders.forEach(function (slider) {
+    var slides = slider.querySelectorAll(".testimonial-slide");
+    var dots   = slider.querySelectorAll(".testimonials-dot");
+    var current = 0;
+    var autoplay;
+
+    function goTo(index) {
+      slides[current].classList.remove("is-active");
+      slides[current].setAttribute("aria-hidden", "true");
+      dots[current].classList.remove("is-active");
+      dots[current].setAttribute("aria-current", "false");
+
+      current = (index + slides.length) % slides.length;
+
+      slides[current].classList.add("is-active");
+      slides[current].setAttribute("aria-hidden", "false");
+      dots[current].classList.add("is-active");
+      dots[current].setAttribute("aria-current", "true");
+    }
+
+    dots.forEach(function (dot, i) {
+      dot.addEventListener("click", function () {
+        clearInterval(autoplay);
+        goTo(i);
+        startAutoplay();
+      });
+    });
+
+    function startAutoplay() {
+      autoplay = setInterval(function () { goTo(current + 1); }, 6000);
+    }
+
+    slider.addEventListener("mouseenter", function () { clearInterval(autoplay); });
+    slider.addEventListener("mouseleave", startAutoplay);
+
+    startAutoplay();
+  });
+}());
+</script>
+
+
+
 
   <footer class="site-footer">
   <div class="container site-footer-inner">

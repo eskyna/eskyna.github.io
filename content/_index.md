@@ -184,6 +184,25 @@ references:
       logo: "images/references/hike.png"
     - name: "Hannover Messe 2026"
       logo: "images/references/hannover-messe.png"
+testimonials:
+  title: "Das sagen meine Kundinnen"
+  items:
+    - image: "images/customer_references/reference_1.png"
+      quote: "Die Beratung mit Natalia war für mich ein echter Wendepunkt. Ich fühle mich heute deutlich sicherer in meinem Auftreten und habe endlich einen Stil gefunden, der wirklich zu mir passt."
+      name: "Anna M."
+    - image: "images/customer_references/reference_2.png"
+      quote: "Natalia hat ein wunderbares Gespür für Persönlichkeit, Wirkung und Stil. Ihre Beratung war einfühlsam, professionell und absolut inspirierend."
+      name: "Katharina S."
+    - image: "images/customer_references/reference_3.png"
+      quote: "Ich hätte nicht gedacht, dass eine Stilberatung so viel verändern kann. Dank Natalia trete ich heute selbstbewusster auf und fühle mich in meiner Kleidung rundum wohl."
+      name: "Laura W."
+    - image: "images/customer_references/reference_4.png"
+      quote: "Die Zusammenarbeit mit Natalia war nicht nur stilistisch eine Bereicherung, sondern auch persönlich. Sie hat mir geholfen, meine Ausstrahlung bewusster und authentischer zu gestalten."
+      name: "Sophie K."
+    - image: "images/customer_references/reference_5.png"
+      quote: "Kompetent, feinfühlig und mit viel Stilbewusstsein: Natalia versteht es, Menschen in ihrer Wirkung zu stärken. Ich kann ihre Beratung von Herzen weiterempfehlen."
+      name: "Julia B."
+
 contact:
   title: "Lassen Sie uns über Ihren neuen Auftritt sprechen"
   text: "Buchen Sie ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu Ihnen passt."
