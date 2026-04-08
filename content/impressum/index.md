@@ -4,7 +4,7 @@ eyebrow: "Rechtliche Angaben"
 image: "images/sign.png"
 ---
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 Natalia Kleemann  
 Wilhelm-Michel-Straße 10  

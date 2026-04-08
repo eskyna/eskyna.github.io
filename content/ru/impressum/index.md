@@ -4,7 +4,7 @@ eyebrow: "Юридическая информация"
 image: "images/sign.png"
 ---
 
-## Информация согласно § 5 TMG
+## Информация согласно § 5 DDG
 
 Natalia Kleemann  
 Wilhelm-Michel-Straße 10  
