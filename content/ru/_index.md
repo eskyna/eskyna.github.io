@@ -194,9 +194,18 @@ contact:
   signature: "images/sign.png"
 
 ui:
+  hero_image_alt: "Портрет Наталья Клеманн"
+  coach_image_alt: "Наталья Клеманн"
+  signature_alt: "Подпись Наталья Клеманн"
+  benefits_intro: "Ваш стиль должен не только хорошо выглядеть, но и облегчить вашу повседневную жизнь."
+  contact_email_label: "Электронная почта:"
+  free_tier_name: "Начните бесплатно"
   offers_intro: "Выберите предложение, который подходит вашей текущей ситуации. Предложения структурированы на четыре уровня."
   result_label: "Результат:"
   default_cta_text: "Запросить консультацию"
+  social_links_label: "Ссылки на социальные сети"
+  footer_imprint_text: "Выходные данные"
+  footer_privacy_text: "Политика конфиденциальности"
   quicklinks_title: "Быстрые ссылки"
   quicklinks:
     - title: "Обо мне"

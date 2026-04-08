@@ -1,15 +1,10 @@
 <!doctype html>
-<html lang="de">
+<html lang="{{ .Language.Lang }}">
 <head>
   {{ partial "head.html" . }}
 </head>
 <body>
   {{ block "main" . }}{{ end }}
-  <footer class="site-footer">
-    <div class="container site-footer-inner">
-      <a href="/impressum/">Impressum</a>
-      <a href="/datenschutz/">Datenschutzerklärung</a>
-    </div>
-  </footer>
+  {{ partial "footer.html" . }}
 </body>
 </html>

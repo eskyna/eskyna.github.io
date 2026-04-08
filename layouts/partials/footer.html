@@ -1,0 +1,11 @@
+<footer class="site-footer">
+  <div class="container site-footer-inner">
+    {{ with .Params.ui }}
+      <a href="/impressum/">{{ .footer_imprint_text }}</a>
+      <a href="/datenschutz/">{{ .footer_privacy_text }}</a>
+    {{ else }}
+      <a href="/impressum/">Impressum</a>
+      <a href="/datenschutz/">Datenschutzerklärung</a>
+    {{ end }}
+  </div>
+</footer>

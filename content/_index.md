@@ -192,9 +192,18 @@ contact:
   signature: "images/sign.png"
 
 ui:
+  hero_image_alt: "Porträt von Natalia Kleemann"
+  coach_image_alt: "Natalia Kleemann"
+  signature_alt: "Unterschrift von Natalia Kleemann"
+  benefits_intro: "Ihr Stil soll nicht nur gut aussehen, sondern Ihren Alltag einfacher und wirkungsvoller machen."
+  contact_email_label: "E-Mail:"
+  free_tier_name: "Kostenlos starten"
   offers_intro: "Wählen Sie den Einstieg, der zu Ihrer aktuellen Situation passt. Die Angebote sind in klare Stufen gegliedert."
   result_label: "Ergebnis:"
   default_cta_text: "Beratung anfragen"
+  social_links_label: "Social Media Links"
+  footer_imprint_text: "Impressum"
+  footer_privacy_text: "Datenschutzerklärung"
   quicklinks_title: "Schnellzugriff"
   quicklinks:
     - title: "Über mich"
