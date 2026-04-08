@@ -7,6 +7,9 @@
   --accent-strong: #8B5E34; /* Warm Cocoa */
   --card-border: rgb(44 30 22 / 16%);
   --max-width: 1120px;
+  --font-headline: "Montserrat", "Helvetica Neue", helvetica, arial, sans-serif;
+  --font-subtitle: "Lato", "Helvetica Neue", helvetica, arial, sans-serif;
+  --font-text: "Open Sans", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
 * {
@@ -20,7 +23,7 @@ body {
 }
 
 body {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: var(--font-text);
   background: radial-gradient(circle at 20% 0%, #fff 0%, var(--bg) 40%);
   color: var(--text);
   line-height: 1.55;
@@ -103,6 +106,7 @@ a:hover {
 }
 
 .eyebrow {
+  font-family: var(--font-subtitle);
   text-transform: uppercase;
   letter-spacing: 0.18em;
   color: var(--accent);
@@ -113,8 +117,25 @@ a:hover {
 h1,
 h2,
 h3 {
+  font-family: var(--font-headline);
+  font-weight: 400;
   line-height: 1.15;
   margin-top: 0;
+}
+
+h4,
+h5,
+h6 {
+  font-family: var(--font-headline);
+  font-weight: 400;
+}
+
+.offers-intro,
+.references-subtitle,
+.process-intro,
+.process-outro,
+.offer-label {
+  font-family: var(--font-subtitle);
 }
 
 h1 {
