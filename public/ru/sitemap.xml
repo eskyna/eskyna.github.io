@@ -50,6 +50,18 @@
                 href="https://eskyna.com/ru/tags/"
                 />
   </url><url>
+    <loc>https://eskyna.com/ru/impressum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://eskyna.com/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="https://eskyna.com/ru/impressum/"
+                />
+  </url><url>
     <loc>https://eskyna.com/ru/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,6 +72,18 @@
                 rel="alternate"
                 hreflang="ru-RU"
                 href="https://eskyna.com/ru/about/"
+                />
+  </url><url>
+    <loc>https://eskyna.com/ru/datenschutz/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://eskyna.com/datenschutz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="https://eskyna.com/ru/datenschutz/"
                 />
   </url>
 </urlset>

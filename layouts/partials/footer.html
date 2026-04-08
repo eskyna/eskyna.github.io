@@ -1,11 +1,16 @@
 <footer class="site-footer">
   <div class="container site-footer-inner">
-    {{ with .Params.ui }}
-      <a href="/impressum/">{{ .footer_imprint_text }}</a>
-      <a href="/datenschutz/">{{ .footer_privacy_text }}</a>
-    {{ else }}
-      <a href="/impressum/">Impressum</a>
-      <a href="/datenschutz/">Datenschutzerklärung</a>
+    {{ $imprintText := "Impressum" }}
+    {{ $privacyText := "Datenschutzerklärung" }}
+    {{ if eq .Language.Lang "ru" }}
+      {{ $imprintText = "Выходные данные" }}
+      {{ $privacyText = "Политика конфиденциальности" }}
     {{ end }}
+    {{ with .Params.ui }}
+      {{ $imprintText = or .footer_imprint_text $imprintText }}
+      {{ $privacyText = or .footer_privacy_text $privacyText }}
+    {{ end }}
+    <a href="{{ "impressum" | relLangURL }}">{{ $imprintText }}</a>
+    <a href="{{ "datenschutz" | relLangURL }}">{{ $privacyText }}</a>
   </div>
 </footer>

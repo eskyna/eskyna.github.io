@@ -4,10 +4,10 @@ eyebrow: "Rechtliche Angaben"
 image: "images/sign.png"
 ---
 
-## Angaben gemaess § 5 TMG
+## Angaben gemäß § 5 TMG
 
 Natalia Kleemann  
-Wilhelm-Michel-Strasse 10  
+Wilhelm-Michel-Straße 10  
 04249 Leipzig, Deutschland
 
 ## Kontakt
