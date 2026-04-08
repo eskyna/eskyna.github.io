@@ -14,6 +14,18 @@
                 href="https://eskyna.com/ru/categories/"
                 />
   </url><url>
+    <loc>https://eskyna.com/ru/estyle/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://eskyna.com/estyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="https://eskyna.com/ru/estyle/"
+                />
+  </url><url>
     <loc>https://eskyna.com/ru/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +48,18 @@
                 rel="alternate"
                 hreflang="ru-RU"
                 href="https://eskyna.com/ru/tags/"
+                />
+  </url><url>
+    <loc>https://eskyna.com/ru/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://eskyna.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="https://eskyna.com/ru/about/"
                 />
   </url>
 </urlset>

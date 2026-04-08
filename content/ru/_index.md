@@ -215,11 +215,11 @@ ui:
       link: "/ru/estyle/"
       description: "Мое цифровое предложение для большей уверенности в стиле."
     - title: "Тест стиля"
-      link: "/ru/stiltest/"
+      link: "/stiltest/"
       description: "Первые выводы о вашем стиле за несколько минут."
       external: true
     - title: "Проверка гардероба"
-      link: "/ru/garderobencheck"
+      link: "/garderobencheck/"
       description: "Проверьте свой базовый гардероб и определите пробелы."
       external: true
     - title: "Записаться на первую встречу"

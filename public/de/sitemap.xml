@@ -17,6 +17,18 @@
     <loc>https://eskyna.com/datenschutz/</loc>
   </url><url>
     <loc>https://eskyna.com/estyle/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="https://eskyna.com/ru/estyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://eskyna.com/estyle/"
+                />
+  </url><url>
+    <loc>https://eskyna.com/ru/estyle/</loc>
   </url><url>
     <loc>https://eskyna.com/garderobencheck/</loc>
   </url><url>
@@ -49,5 +61,17 @@
                 />
   </url><url>
     <loc>https://eskyna.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-RU"
+                href="https://eskyna.com/ru/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://eskyna.com/about/"
+                />
+  </url><url>
+    <loc>https://eskyna.com/ru/about/</loc>
   </url>
 </urlset>
