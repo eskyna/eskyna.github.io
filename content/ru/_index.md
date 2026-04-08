@@ -192,4 +192,29 @@ contact:
   email: "natalia@eskyna.com"
   photo: "images/Nati.png"
   signature: "images/sign.png"
+
+ui:
+  offers_intro: "Выберите предложение, который подходит вашей текущей ситуации. Предложения структурированы на четыре уровня."
+  result_label: "Результат:"
+  default_cta_text: "Запросить консультацию"
+  quicklinks_title: "Быстрые ссылки"
+  quicklinks:
+    - title: "Обо мне"
+      link: "/ru/about/"
+      description: "Кто я и как я работаю."
+    - title: "EStyle"
+      link: "/ru/estyle/"
+      description: "Мое цифровое предложение для большей уверенности в стиле."
+    - title: "Тест стиля"
+      link: "/ru/stiltest/"
+      description: "Первые выводы о вашем стиле за несколько минут."
+      external: true
+    - title: "Проверка гардероба"
+      link: "/ru/garderobencheck"
+      description: "Проверьте свой базовый гардероб и определите пробелы."
+      external: true
+    - title: "Записаться на первую встречу"
+      link: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+      description: "Забронируйте прямо бесплатную встречу."
+      external: true
 ---

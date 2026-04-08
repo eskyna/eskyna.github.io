@@ -190,4 +190,29 @@ contact:
   email: "natalia@eskyna.com"
   photo: "images/Nati.png"
   signature: "images/sign.png"
+
+ui:
+  offers_intro: "Wählen Sie den Einstieg, der zu Ihrer aktuellen Situation passt. Die Angebote sind in klare Stufen gegliedert."
+  result_label: "Ergebnis:"
+  default_cta_text: "Beratung anfragen"
+  quicklinks_title: "Schnellzugriff"
+  quicklinks:
+    - title: "Über mich"
+      link: "/about/"
+      description: "Wer ich bin und wie ich arbeite."
+    - title: "EStyle"
+      link: "/estyle/"
+      description: "Mein digitales Angebot für mehr Stil-Sicherheit."
+    - title: "Stiltest"
+      link: "/stiltest/"
+      description: "Erste Erkenntnisse zu Ihrem Stil in wenigen Minuten."
+      external: true
+    - title: "Garderoben Check"
+      link: "/garderobencheck"
+      description: "Prüfen Sie Ihre Basic-Garderobe und erkennen Sie Lücken."
+      external: true
+    - title: "Jetzt Erstgespräch vereinbaren"
+      link: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+      description: "Buchen Sie direkt einen kostenlosen Kennenlerntermin."
+      external: true
 ---

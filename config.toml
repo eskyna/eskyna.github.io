@@ -1,5 +1,6 @@
 baseURL = "https://eskyna.com/"
 defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
 title = "Natalia Kleemann | Style & Image Coaching"
 
 [languages]
@@ -7,6 +8,7 @@ title = "Natalia Kleemann | Style & Image Coaching"
     languageCode = "de-DE"
     languageName = "Deutsch"
     weight = 1
+    contentDir = "content"
     [languages.de.params]
       author = "Natalia Kleemann"
       description = "Style- und Image-Coaching für Frauen, die sichtbar, stilsicher und authentisch auftreten wollen."
@@ -15,6 +17,7 @@ title = "Natalia Kleemann | Style & Image Coaching"
     languageCode = "ru-RU"
     languageName = "Русский"
     weight = 2
+    contentDir = "content/ru"
     [languages.ru.params]
       author = "Natalia Kleemann"
       description = "Благодаря индивидуальному image-коучингу вы станете уверенны и привлекательны."

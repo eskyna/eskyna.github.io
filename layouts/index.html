@@ -8,6 +8,7 @@
 {{ $services := .Params.services }}
 {{ $references := .Params.references }}
 {{ $contact := .Params.contact }}
+{{ $ui := .Params.ui }}
 <main>
   <div class="topbar">
     <div class="container topbar-inner">
@@ -111,28 +112,14 @@
 
   <section class="section">
     <div class="container">
-      <h2>Schnellzugriff</h2>
+      <h2>{{ $ui.quicklinks_title }}</h2>
       <div class="cards">
-        <article class="card">
-          <h3><a href="/about/">Über mich</a></h3>
-          <p>Wer ich bin und wie ich arbeite.</p>
-        </article>
-        <article class="card">
-          <h3><a href="/estyle/">EStyle</a></h3>
-          <p>Mein digitales Angebot für mehr Stil-Sicherheit.</p>
-        </article>
-        <article class="card">
-          <h3><a href="/stiltest/" target="_blank" rel="noopener noreferrer">Stiltest</a></h3>
-          <p>Erste Erkenntnisse zu Ihrem Stil in wenigen Minuten.</p>
-        </article>
-        <article class="card">
-          <h3><a href="/garderobencheck" target="_blank" rel="noopener noreferrer">Garderoben Check</a></h3>
-          <p>Prüfen Sie Ihre Basic-Garderobe und erkennen Sie Lücken.</p>
-        </article>
-        <article class="card">
-          <h3><a href="https://calendar.app.google/mGFQuoZbyqQRTABi9" target="_blank" rel="noopener noreferrer">Jetzt Erstgespräch vereinbaren</a></h3>
-          <p>Buchen Sie direkt einen kostenlosen Kennenlerntermin.</p>
-        </article>
+        {{ range $ui.quicklinks }}
+          <article class="card">
+            <h3><a href="{{ .link }}"{{ if .external }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .title }}</a></h3>
+            <p>{{ .description }}</p>
+          </article>
+        {{ end }}
       </div>
     </div>
   </section>
@@ -140,14 +127,14 @@
   <section class="section section-dark" id="angebote">
     <div class="container">
       <h2>{{ $services.title }}</h2>
-      <p class="offers-intro">Wählen Sie den Einstieg, der zu Ihrer aktuellen Situation passt. Die Angebote sind in klare Stufen gegliedert.</p>
+      <p class="offers-intro">{{ $ui.offers_intro }}</p>
       {{ range $group := $services.groups }}
         <div class="offers-group">
           <h3 class="offers-group-title">{{ $group.title }}</h3>
           <div class="offers-grid">
             {{ range $index, $item := $group.items }}
               {{ $ctaHref := or $item.ctaHref "#kontakt" }}
-              {{ $ctaText := or $item.ctaText "Beratung anfragen" }}
+              {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
               <article class="offer-card {{ if and (eq $index 0) (ne $group.title "Kostenlos starten") }}offer-card-featured{{ end }}">
                 <p class="offer-label">{{ $group.title }}</p>
                 <h4>{{ $item.title }}</h4>
@@ -163,7 +150,7 @@
                   <p class="offer-note">{{ . }}</p>
                 {{ end }}
                 {{ with $item.result }}
-                  <p class="offer-result"><strong>Ergebnis:</strong> {{ . }}</p>
+                  <p class="offer-result"><strong>{{ $ui.result_label }}</strong> {{ . }}</p>
                 {{ end }}
                 <a class="btn {{ if ne $group.title "Kostenlos starten" }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if hasPrefix $ctaHref "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
               </article>
