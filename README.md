@@ -77,14 +77,12 @@ Static output is generated in the `public/` directory, ready for deployment to G
 
 ### Key Content Files
 
-| File | Purpose |
-|------|---------|
-| `content/_index.md` | Homepage sections (hero, problems, coach, facts, services, contact) |
-| `content/about/index.md` | About & coaching philosophy |
-| `content/estyle/index.md` | EStyle digital offering |
-| `layouts/index.html` | Homepage template (sections, cards, CTA) |
-| `layouts/_default/single.html` | Default page template with sidebar |
-| `static/css/main.css` | Responsive design, color scheme, components |
+- `content/_index.md`: Homepage sections (hero, problems, coach, facts, services, contact)
+- `content/about/index.md`: About & coaching philosophy
+- `content/estyle/index.md`: EStyle digital offering
+- `layouts/index.html`: Homepage template (sections, cards, CTA)
+- `layouts/_default/single.html`: Default page template with sidebar
+- `static/css/main.css`: Responsive design, color scheme, components
 
 ---
 
@@ -149,10 +147,8 @@ The project enforces code quality through automated linting.
 
 #### Tools
 
-| Tool | Purpose |
-|------|---------|
-| **stylelint** | CSS validation & formatting |
-| **markdownlint** | Markdown consistency |
+- **stylelint**: CSS validation & formatting
+- **markdownlint**: Markdown consistency
 
 #### Commands
 
