@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eskyna.com/sitemap.xml
+Host: eskyna.com
