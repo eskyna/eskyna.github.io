@@ -18,6 +18,7 @@ Professional Style & Image Coaching website built with **Hugo** — fast, clean,
 - [Development](#-development)
 - [Building & Deployment](#-building--deployment)
 - [Quality Assurance](#-quality-assurance)
+- [Dependency Updates](#-dependency-updates)
 - [Contributing](#-contributing)
 
 ---
@@ -70,9 +71,14 @@ Static output is generated in the `public/` directory, ready for deployment to G
 ├── static/                 # Static assets (CSS, images)
 │   ├── css/main.css        # Global styles (semantic, responsive)
 │   └── images/             # Brand images, photos
+├── .github/                # CI/CD and automation
+│   ├── workflows/hugo.yml  # Build/deploy workflow
+│   └── dependabot.yml      # Automated dependency update PRs
 ├── config.toml            # Hugo site configuration
-├── package.json           # Node.js dependencies (linting)
-└── bin/lint.sh           # Linting script wrapper
+├── package.json           # Node.js dependencies (linting + formatting)
+└── bin/                   # Utility scripts
+   ├── lint              # Lint wrapper script
+   └── format            # Prettier wrapper script
 ```
 
 ### Key Content Files
@@ -141,20 +147,27 @@ Copy the contents of `public/` to your hosting provider (GitHub Pages, Vercel, N
 
 ## ✅ Quality Assurance
 
-### Linting
+### Linting & Formatting
 
-The project enforces code quality through automated linting.
+The project enforces code quality through automated linting and formatting.
 
 #### Tools
 
 - **stylelint**: CSS validation & formatting
 - **markdownlint**: Markdown consistency
+- **prettier**: Formatting for Markdown, CSS, YAML, JSON, and more
 
 #### Commands
 
 ```bash
+# Run formatter
+./bin/format
+
+# Check formatting without writing files
+yarn format:check
+
 # Run all linters
-bin/lint.sh
+./bin/lint
 
 # Run individual linters
 yarn lint:css
@@ -170,17 +183,35 @@ yarn lint:md
    yarn install
    ```
 
-3. Run linting:
+3. Run formatter:
 
    ```bash
-   bin/lint.sh
+   ./bin/format
+   ```
+
+4. Run linting:
+
+   ```bash
+   ./bin/lint
    ```
 
 #### Configuration
 
 - `.stylelintrc.json` — CSS rules
 - `.markdownlint-cli2.jsonc` — Markdown rules
-- `.env` — Environment variables (bin/ in PATH)
+- `.prettierrc.json` — Prettier formatting rules
+- `.prettierignore` — Paths excluded from formatting
+
+---
+
+## 🔄 Dependency Updates
+
+Dependency updates are managed with **Dependabot** via `.github/dependabot.yml`.
+
+- **GitHub Actions** updates: weekly PRs
+- **npm** dependency updates: weekly PRs
+
+Dependabot opens pull requests automatically, so updates can be reviewed and merged in a standard GitHub workflow.
 
 ---
 
@@ -191,10 +222,11 @@ yarn lint:md
 1. Create a feature branch: `git checkout -b feature/my-feature`
 2. Make changes (content, templates, styles)
 3. Test locally: `hugo server -D`
-4. Run linting: `bin/lint.sh`
-5. Commit: `git commit -m "feat: descriptive message"`
-6. Push: `git push origin feature/my-feature`
-7. Open a Pull Request
+4. Format code: `./bin/format`
+5. Run linting: `./bin/lint`
+6. Commit: `git commit -m "feat: descriptive message"`
+7. Push: `git push origin feature/my-feature`
+8. Open a Pull Request
 
 ### Code Style
 
@@ -205,7 +237,8 @@ yarn lint:md
 ### Pull Request Checklist
 
 - [ ] Changes tested locally
-- [ ] Linting passes (`bin/lint.sh`)
+- [ ] Formatting applied (`./bin/format`)
+- [ ] Linting passes (`./bin/lint`)
 - [ ] Build succeeds (`hugo`)
 - [ ] Commit messages are clear
 - [ ] No hardcoded URLs or secrets
@@ -233,7 +266,9 @@ Usage, copying, modification, and redistribution are not permitted without prior
 
 - **Static Site Generator:** Hugo
 - **Linting:** stylelint, markdownlint-cli2
+- **Formatting:** prettier
 - **Package Manager:** Yarn
+- **Dependency Automation:** Dependabot
 - **Deployment:** GitHub Pages (recommended)
 - **CSS:** Semantic, mobile-first, custom properties
 - **Accessibility:** WCAG 2.1 baseline (SVG alt text, semantic HTML)

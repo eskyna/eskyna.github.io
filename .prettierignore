@@ -1,0 +1,16 @@
+node_modules/
+public/
+resources/
+.hugo_build.lock
+
+# Hugo templates use Go template syntax and can break with generic HTML formatting
+layouts/**/*.html
+
+# Hugo archetypes can contain raw template placeholders (e.g. {{ .Date }})
+archetypes/**/*.md
+
+# Foreign bundled content (do not format)
+static/garderobencheck/**
+static/stiltest/**
+public/garderobencheck/**
+public/stiltest/**

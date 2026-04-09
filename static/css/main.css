@@ -1,10 +1,10 @@
 :root {
-  --bg: #F9F6F0; /* Warm Alabaster */
-  --bg-soft: #E3D5C8; /* Soft Sand */
-  --text: #2C1E16; /* Espresso Brown */
+  --bg: #f9f6f0; /* Warm Alabaster */
+  --bg-soft: #e3d5c8; /* Soft Sand */
+  --text: #2c1e16; /* Espresso Brown */
   --muted: rgb(44 30 22 / 72%);
-  --accent: #C5A059; /* Muted Gold */
-  --accent-strong: #8B5E34; /* Warm Cocoa */
+  --accent: #c5a059; /* Muted Gold */
+  --accent-strong: #8b5e34; /* Warm Cocoa */
   --card-border: rgb(44 30 22 / 16%);
   --max-width: 1120px;
   --font-headline: "Montserrat", "Helvetica Neue", helvetica, arial, sans-serif;
@@ -178,7 +178,7 @@ h2 {
   padding: 0.9rem 1.45rem;
   border: 1px solid var(--accent);
   border-radius: 100px;
-  color: #2C1E16;
+  color: #2c1e16;
   font-weight: 600;
   transition: background-color 0.2s ease;
   background-color: var(--accent);
@@ -191,7 +191,7 @@ h2 {
 }
 
 .btn:hover {
-  color: #2C1E16;
+  color: #2c1e16;
   background-color: rgb(197 160 89 / 86%);
 }
 
@@ -593,7 +593,10 @@ h2 {
   border-radius: 999px;
   color: var(--accent-strong);
   background: rgb(227 213 200 / 35%);
-  transition: transform 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  transition:
+    transform 0.15s ease,
+    color 0.15s ease,
+    border-color 0.15s ease;
 }
 
 .social-link:hover {
@@ -758,7 +761,9 @@ h2 {
   height: 7px;
   border-radius: 50%;
   background: var(--card-border);
-  transition: background 300ms ease, transform 300ms ease;
+  transition:
+    background 300ms ease,
+    transform 300ms ease;
 }
 
 .testimonials-dot.is-active::before,

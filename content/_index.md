@@ -38,7 +38,7 @@ results:
     - title: "Sie wirken ruhiger, klarer, präsenter"
       text: "Ihr Auftreten gewinnt an Sicherheit und Wirkung - bei Kunden, im Team und auf Events."
     - title: "Ihr Kleiderschrank wird übersichtlicher und alltagstauglicher"
-      text: "Jedes Teil hat einen klaren Platz und eine Funktion. Kein Chaos, keine Fehlkäufe, kein \"nichts anzuziehen\"."
+      text: 'Jedes Teil hat einen klaren Platz und eine Funktion. Kein Chaos, keine Fehlkäufe, kein "nichts anzuziehen".'
 process:
   title: "Wie läuft die Zusammenarbeit mit mir ab?"
   intro: "Jede Zusammenarbeit beginnt mit einem klaren Blick auf Ihre aktuelle Situation, Ihre Ziele und Ihren Alltag. Daraus entsteht Schritt für Schritt ein Stil, der wirklich zu Ihnen passt - persönlich, tragbar und mit System."
