@@ -231,7 +231,7 @@ cases:
       result: "Mehr tragbare Outfits aus vorhandenen Teilen und gezieltere zukünftige EinKäufe."
     - situation: "Einkaufen war zeitaufwendig und oft frustrierend."
       service: "Vorbereitung und Shoppingbegleitung"
-      result: "Schnellere Kaufentscheidungen, passendere Teile und deutlich weniger Fehlkäufe."
+      result: "Schnellere Kaufentscheidungen, passendere Teile und keine Fehlkäufe."
 testimonials:
   title: "Das sagen meine Kundinnen"
   items:
@@ -239,7 +239,7 @@ testimonials:
       quote: "Seit der Beratung mit Natalia weiß ich, welche Outfits für meinen Berufsalltag wirklich funktionieren. Ich bin morgens schneller fertig und trete bei Terminen deutlich sicherer auf."
       name: "Anna M."
     - image: "images/customer_references/reference_2.png"
-      quote: "Dank Natalia kaufe ich gezielter ein, habe weniger Fehlkäufe und endlich einen klaren Stil, dem ich vertraue. Ihre Beratung war einfühlsam, professionell und direkt umsetzbar."
+      quote: "Dank Natalia kaufe ich gezielter ein, habe deutlich weniger Fehlkäufe und endlich einen klaren Stil, dem ich vertraue. Ihre Beratung war einfühlsam, professionell und direkt umsetzbar."
       name: "Katharina S."
     - image: "images/customer_references/reference_3.png"
       quote: "Ich hätte nicht gedacht, dass eine Stilberatung so viel verändern kann. Mein Kleiderschrank ist übersichtlicher, ich kombiniere schneller und kaufe nur noch Teile, die wirklich passen."
