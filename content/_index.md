@@ -29,16 +29,14 @@ results:
   items:
     - title: "Sie wissen, welche Outfits wirklich funktionieren"
       text: "Sie kennen Ihre Farben, Schnitte und Kombinationen und entscheiden morgens schneller und sicherer."
-    - title: "Sie treten in Beruf und Alltag stimmiger auf"
-      text: "Ihr Auftritt wirkt in Meetings, Kundenterminen und Events klarer, professioneller und authentischer."
     - title: "Sie kaufen gezielter und verschwenden weniger"
       text: "Sie investieren in Teile, die wirklich tragbar sind, statt in Dinge, die ungetragen im Schrank bleiben."
-    - title: "Sie sind morgens schneller ready"
-      text: "Outfits sind vorbereitet, kombinierbar und passen zu Ihren Terminen und Rollen."
-    - title: "Sie wirken ruhiger, klarer, präsenter"
-      text: "Ihr Auftreten gewinnt an Sicherheit und Wirkung - bei Kunden, im Team und auf Events."
     - title: "Ihr Kleiderschrank wird übersichtlicher und alltagstauglicher"
       text: 'Jedes Teil hat einen klaren Platz und eine Funktion. Kein Chaos, keine Fehlkäufe, kein "nichts anzuziehen".'
+    - title: "Sie sind morgens schneller ready"
+      text: "Outfits sind vorbereitet, kombinierbar und passen zu Ihren Terminen und Rollen."
+    - title: "Sie treten in Beruf und Alltag stimmiger auf"
+      text: "Ihr Auftreten gewinnt an Sicherheit und Wirkung - bei Kunden, im Team und auf Events."
 process:
   title: "Wie läuft die Zusammenarbeit mit mir ab?"
   intro: "Jede Zusammenarbeit beginnt mit einem klaren Blick auf Ihre aktuelle Situation, Ihre Ziele und Ihren Alltag. Daraus entsteht Schritt für Schritt ein Stil, der wirklich zu Ihnen passt - persönlich, tragbar und mit System."
