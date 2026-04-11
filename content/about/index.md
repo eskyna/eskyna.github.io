@@ -7,7 +7,7 @@ image: "images/Nati.png"
 Ich bin **Natalia Kleemann**, Style- und Image-Coach mit Fokus auf einen Auftritt,
 der sich nach Ihnen anfühlt und gleichzeitig professionell wirkt.
 
-Seit vielen Jahren begleite ich Frauen dabei, ihren persönlichen Stil zu schärfen,
+Seit vielen Jahren begleite ich Frauen und Männer dabei, ihren persönlichen Stil zu schärfen,
 selbstsicher aufzutreten und ihre Ausstrahlung bewusst einzusetzen - im Alltag,
 im Business und auf der Bühne.
 
@@ -24,10 +24,10 @@ mit dem Sie sich sichtbar wohlfühlen.
 
 ## Für wen ist mein Coaching geeignet?
 
-Für Frauen, die:
+Für Frauen und Männer, die:
 
-- bei Kunden, im Team oder in der Öffentlichkeit präsent auftreten wollen
-- sich im Kleiderschrank Klarheit statt Unsicherheit wünschen
 - ihre Persönlichkeit auch optisch stark und stimmig zeigen möchten
+- sich im Kleiderschrank Klarheit statt Unsicherheit wünschen
+- bei Kunden, im Team oder in der Öffentlichkeit präsent auftreten wollen
 
-Wenn Sie mögen, starten wir mit einem unverbindlichen Erstgespräch.
+Starten Sie jetzt mit einem kostenlosen Erstgespräch zu Ihrem persönlichen Stil.
