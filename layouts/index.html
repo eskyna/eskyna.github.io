@@ -136,7 +136,7 @@
       <h2>{{ $facts.title }}</h2>
       <ul class="facts-list">
         {{ range $facts.items }}
-          <li>{{ . }}</li>
+          <li>{{ . | markdownify }}</li>
         {{ end }}
       </ul>
       <p class="mission">{{ $facts.mission }}</p>

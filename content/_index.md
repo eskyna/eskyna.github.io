@@ -61,12 +61,12 @@ coach:
 facts:
   title: "Ein paar Fakten über mich"
   items:
-    - "Ich mache seit 2019, was ich liebe"
-    - "Ich arbeite mit Frauen und Männern online und offline"
+    - "seit 2019 lebe ich, was ich liebe"
+    - "Ich begleite Frauen und Männern online und vor Ort"
     - "Internationale Stil-Erfahrung von Sibirien bis Leipzig"
     - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"
     - "Mama von 2 stilbewussten Jungs"
-    - "Ich denke Stilberatung neu - als Gründerin von EStyle"
+    - "Ich denke Stilberatung neu; als Gründerin von [EStyle](/estyle/)"
   mission: "Meine Mission: Ich helfe Menschen, ihren Stil wirklich zu verstehen, damit sie sicher auftreten und bewusst entscheiden."
 services:
   title: "Angebote"
