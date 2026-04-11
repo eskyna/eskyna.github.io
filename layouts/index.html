@@ -112,7 +112,9 @@
         {{ end }}
       </div>
       <p class="process-outro">{{ $process.outro }}</p>
+      {{ if and (isset $process "ctaHref") (isset $process "ctaText") }}
       <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer">{{ $process.ctaText }}</a>
+      {{ end }}
     </div>
   </section>
 
