@@ -404,10 +404,13 @@ h2 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
   margin-top: 1.4rem;
+  align-items: stretch;
 }
 
 .offer-card {
-  display: grid;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   gap: 0.9rem;
   padding: 1.4rem;
   border: 1px solid var(--card-border);
@@ -476,8 +479,8 @@ h2 {
 }
 
 .offer-card .btn {
-  margin-top: 0.3rem;
-  justify-self: start;
+  margin-top: auto;
+  align-self: flex-start;
 }
 
 .offer-card-featured {
