@@ -240,12 +240,11 @@ h2 {
 }
 
 .hero-image-wrap {
-  justify-self: center;
+  place-self: end center;
   width: min(100%, 520px);
   background: transparent;
   display: flex;
   align-items: flex-end;
-  align-self: end;
 }
 
 .hero-image {
@@ -269,7 +268,6 @@ h2 {
   border-radius: 0;
   background: transparent;
   backdrop-filter: blur(2px);
-  -webkit-backdrop-filter: blur(2px);
 }
 
 .hero .hero-copy h1 {
@@ -562,7 +560,7 @@ h2 {
   padding: 14px 20px;
   gap: 12px;
   overflow-wrap: anywhere;
-  word-break: break-word;
+  word-break: normal;
 }
 
 .offer-card-actions .btn .btn-icon {
