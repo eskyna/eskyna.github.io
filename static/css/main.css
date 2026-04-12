@@ -208,6 +208,12 @@ h2 {
   background-color: transparent;
 }
 
+.btn-icon {
+  height: 20px;
+  width: auto;
+  margin-right: 0.5rem;
+}
+
 .btn-secondary:hover {
   color: var(--text);
   background-color: rgb(227 213 200 / 55%);

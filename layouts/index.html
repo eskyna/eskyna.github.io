@@ -32,7 +32,7 @@
         <h1>{{ $hero.headline }}</h1>
         <div class="lead">{{ $hero.text | markdownify }}</div>
         <div class="hero-actions">
-          <a class="btn" href="{{ $hero.ctaHref }}">{{ $hero.ctaText }}</a>
+          <a class="btn" href="{{ $hero.ctaHref }}"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $hero.ctaText }}</a>
         </div>
       </div>
       <div class="hero-image-wrap">
@@ -113,7 +113,7 @@
       </div>
       <p class="process-outro">{{ $process.outro }}</p>
       {{ if and (isset $process "ctaHref") (isset $process "ctaText") }}
-      <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer">{{ $process.ctaText }}</a>
+      <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $process.ctaText }}</a>
       {{ end }}
     </div>
   </section>
@@ -126,7 +126,7 @@
       <div>
         <h2>{{ $coach.title }}</h2>
         <p>{{ $coach.text }}</p>
-        <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer">{{ $coach.buttonText }}</a>
+        <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $coach.buttonText }}</a>
       </div>
     </div>
   </section>
@@ -212,7 +212,7 @@
                 {{ with $item.result }}
                   <p class="offer-result"><strong>{{ $ui.result_label }}</strong> {{ . }}</p>
                 {{ end }}
-                <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if hasPrefix $ctaHref "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
+                <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if hasPrefix $ctaHref "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
               </article>
             {{ end }}
           </div>
@@ -285,7 +285,7 @@
         {{ end }}
       </div>
       <div class="faq-cta">
-        <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer">{{ $ui.faq_cta_text }}</a>
+        <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
       </div>
     </div>
   </section>
