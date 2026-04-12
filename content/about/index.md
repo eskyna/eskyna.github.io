@@ -1,7 +1,7 @@
 ---
 title: "über mich"
 eyebrow: "Natalia Kleemann"
-image: "images/Nati.png"
+image: "images/Natalia_Desk.png"
 ---
 
 Ich bin **Natalia Kleemann**, Style- und Image-Coach mit Fokus auf einen Auftritt,
