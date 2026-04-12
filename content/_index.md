@@ -91,9 +91,9 @@ services:
           ctaText: "Stiltest starten"
           ctaHref: "/stiltest/"
         - title: "10 Styling-Tipps (PDF)"
-          text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps fuer mehr Stil-Sicherheit im Alltag."
+          text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stil-Sicherheit im Alltag."
           highlights:
-            - "Praktische Tipps fuer bessere Outfit-Entscheidungen"
+            - "Praktische Tipps für bessere Outfit-Entscheidungen"
             - "Einfach, schnell und direkt anwendbar"
           result: "Sie erhalten direkt umsetzbare Impulse, mit denen Sie Ihren Stil sofort klarer und stimmiger gestalten."
           ctaText: "PDF kostenlos herunterladen"
