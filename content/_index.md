@@ -87,8 +87,7 @@ services:
           highlights:
             - "Online-Test in wenigen Minuten"
             - "Verständliche Auswertung Ihres Stiltyps"
-            - "Erste Hinweise zu Farben, Schnitten und Wirkung"
-          result: "Sie bekommen in wenigen Minuten einen ersten klaren Hinweis, welche Farben und Schnitte zu Ihnen passen."
+          result: "Sie bekommen in wenigen Minuten erste klare Hinweis, welche Stilrichtungen am besten zu Ihnen passen."
           ctaText: "Stiltest starten"
           ctaHref: "/stiltest/"
 
@@ -113,16 +112,16 @@ services:
           ctaText: "Kostenloses Erstgespräch buchen"
           ctaHref: "#kontakt"
 
-    - title: "Persönliche Beratung"
+    - title: "Beratung vor Ort"
       items:
         - title: "Styleanalyse vor Ort"
           text: "Die persönliche Stilberatung für alle, die eine fundierte Analyse mit direktem Feedback möchten. Sie erhalten eine klare Orientierung für Outfits, die zu Ihrem Alltag, Ihrem Auftreten und Ihrem Stilziel passen."
           highlights:
-            - "Persönlicher Farbtest inklusive Farbpass"
+            - "Persönlicher Farbtest inklusive digitalem Farbpass"
             - "Stil- und Typanalyse abgestimmt auf Ihre Persönlichkeit"
-            - "Konkrete Outfit-Zusammenstellungen für Ihren Alltag und Beruf"
+            - "Impulse für konkrete Outfit-Zusammenstellungen für Ihren Alltag und Beruf"
             - "Erste Klarheit, welche Teile wirklich zu Ihnen passen"
-          result: "Sie gehen mit konkreten Outfit-Ideen nach Hause, die zu Ihrem Alltag, Ihrer Rolle und Ihrer Persönlichkeit passen."
+          result: "Sie erhalten konkrete Outfit-Ideen, die zu Ihrem Alltag, Ihrer Rolle und Ihrer Persönlichkeit passen."
           note: "Ort: Leipzig, Erfurt, Nordhausen oder Dresden"
           ctaText: "Kostenloses Erstgespräch buchen"
           ctaHref: "#kontakt"
@@ -131,7 +130,7 @@ services:
           highlights:
             - "Analyse Ihrer vorhandenen Garderobe"
             - "Neue Outfit-Kombinationen aus bereits vorhandenen Teilen"
-            - "Klare Empfehlungen, was ergänzt werden sollte - und was nicht"
+            - "Klare Empfehlungen, was ergänzt werden sollte und was nicht"
           result: "Sie sehen, was tragbar ist, was sich kombinieren lässt und was künftig nicht mehr unnötig gekauft werden muss."
           ctaText: "Kostenloses Erstgespräch buchen"
           ctaHref: "#kontakt"
@@ -141,7 +140,7 @@ services:
             - "Gemeinsame Vorbereitung zu Bedarf, Budget und Stilzielen"
             - "Persönliche Begleitung online oder vor Ort"
             - "Fokus auf Passform, Qualität, Kombinierbarkeit und Wirkung"
-          result: "Sie finden passende Teile schneller und kaufen gezielter statt planlos."
+          result: "Wir finden passende Teile schneller und kaufen gezielter statt planlos."
           ctaText: "Kostenloses Erstgespräch buchen"
           ctaHref: "#kontakt"
 

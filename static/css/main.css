@@ -174,12 +174,19 @@ h2 {
 }
 
 .btn {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   padding: 0.9rem 1.45rem;
+  min-height: 44px;
   border: 1px solid var(--accent);
   border-radius: 100px;
   color: #2c1e16;
   font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1;
+  white-space: nowrap;
+  text-align: center;
   transition: background-color 0.2s ease;
   background-color: var(--accent);
 }
@@ -1146,6 +1153,10 @@ h2 {
 }
 
 @media (width <= 540px) {
+  .btn {
+    white-space: normal;
+  }
+
   .method-journey {
     grid-template-columns: repeat(2, 1fr);
   }
