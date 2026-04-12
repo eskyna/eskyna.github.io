@@ -106,8 +106,15 @@ a:hover {
 .hero {
   min-height: 84vh;
   display: grid;
-  align-items: center;
-  padding: 3.5rem 0;
+  align-items: stretch;
+  padding: 3.5rem 0 0;
+  position: relative;
+  background-image:
+    linear-gradient(to right, rgb(44 30 22 / 72%) 0%, rgb(44 30 22 / 28%) 55%, rgb(44 30 22 / 08%) 100%),
+    url('/images/NataliaBackground.png');
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;
 }
 
 .hero-grid {
@@ -115,6 +122,7 @@ a:hover {
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
   align-items: center;
+  min-height: calc(84vh - 3.5rem);
 }
 
 .eyebrow {
@@ -232,16 +240,48 @@ h2 {
 }
 
 .hero-image-wrap {
-  justify-self: end;
-  width: min(100%, 460px);
+  justify-self: center;
+  width: min(100%, 520px);
   background: transparent;
+  display: flex;
+  align-items: flex-end;
+  align-self: end;
 }
 
 .hero-image {
-  border-radius: 22px;
+  border-radius: 0;
   border: 0;
   box-shadow: none;
   background: transparent;
+  max-height: 80vh;
+  width: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+}
+
+.hero .hero-grid {
+  grid-template-columns: 1fr 1fr;
+}
+
+.hero .hero-copy {
+  color: #fff;
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+
+.hero .hero-copy h1 {
+  color: #fff;
+}
+
+.hero .hero-copy .lead {
+  color: rgb(255 255 255 / 85%);
+}
+
+.hero .hero-copy .eyebrow {
+  color: rgb(197 160 89 / 90%);
 }
 
 .section {
