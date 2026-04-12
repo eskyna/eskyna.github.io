@@ -289,6 +289,8 @@ ui:
   offers_intro: "Wählen Sie den Einstieg, der zu Ihrer aktuellen Situation passt. Die Angebote sind in klare Stufen gegliedert."
   result_label: "Ergebnis:"
   default_cta_text: "Beratung anfragen"
+  coach_about_cta_text: "Über mich"
+  coach_about_cta_href: "/about/"
   faq_cta_text: "Kostenloses Erstgespräch buchen"
   faq_cta_href: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
   case_situation_label: "Ausgangssituation"
@@ -299,9 +301,6 @@ ui:
   footer_privacy_text: "Datenschutzerklärung"
   quicklinks_title: "Schnellzugriff"
   quicklinks:
-    - title: "Über mich"
-      link: "/about/"
-      description: "Wer ich bin und wie ich arbeite."
     - title: "EStyle"
       link: "/estyle/"
       description: "Mein digitales Angebot für mehr Stil-Sicherheit."

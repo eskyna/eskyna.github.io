@@ -293,6 +293,8 @@ ui:
   offers_intro: "Выберите формат старта, который подходит вашей текущей ситуации. Услуги разделены на четкие уровни."
   result_label: "Результат:"
   default_cta_text: "Запросить консультацию"
+  coach_about_cta_text: "Обо мне"
+  coach_about_cta_href: "/ru/about/"
   faq_cta_text: "Записаться на бесплатную первую встречу"
   faq_cta_href: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
   case_situation_label: "Исходная ситуация"
@@ -303,9 +305,6 @@ ui:
   footer_privacy_text: "Политика конфиденциальности"
   quicklinks_title: "Быстрые ссылки"
   quicklinks:
-    - title: "Обо мне"
-      link: "/ru/about/"
-      description: "Кто я и как я работаю."
     - title: "EStyle"
       link: "/ru/estyle/"
       description: "Мое цифровое предложение для большей уверенности в стиле."

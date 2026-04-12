@@ -126,7 +126,12 @@
       <div>
         <h2>{{ $coach.title }}</h2>
         <p>{{ $coach.text }}</p>
-        <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $coach.buttonText }}</a>
+        <div class="coach-actions">
+          <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $coach.buttonText }}</a>
+          {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
+          <a class="btn btn-secondary" href="{{ $ui.coach_about_cta_href | relURL }}"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ui.coach_about_cta_text }}</a>
+          {{ end }}
+        </div>
       </div>
     </div>
   </section>
