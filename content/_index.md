@@ -90,6 +90,14 @@ services:
           result: "Sie bekommen in wenigen Minuten erste klare Hinweis, welche Stilrichtungen am besten zu Ihnen passen."
           ctaText: "Stiltest starten"
           ctaHref: "/stiltest/"
+        - title: "10 Styling-Tipps (PDF)"
+          text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps fuer mehr Stil-Sicherheit im Alltag."
+          highlights:
+            - "Praktische Tipps fuer bessere Outfit-Entscheidungen"
+            - "Einfach, schnell und direkt anwendbar"
+          result: "Sie erhalten direkt umsetzbare Impulse, mit denen Sie Ihren Stil sofort klarer und stimmiger gestalten."
+          ctaText: "PDF kostenlos herunterladen"
+          ctaHref: "/10_Styling_Tipps.pdf"
 
     - title: "Online-Angebote"
       items:
