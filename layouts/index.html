@@ -195,6 +195,7 @@
             {{ range $index, $item := $group.items }}
               {{ $ctaHref := or $item.ctaHref "#kontakt" }}
               {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
+              {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
               <article class="offer-card {{ if and (eq $index 0) (ne $group.title "Kostenlos starten") }}offer-card-featured{{ end }}">
                 <p class="offer-label">{{ $group.title }}</p>
                 <h4>{{ $item.title }}</h4>
@@ -212,7 +213,7 @@
                 {{ with $item.result }}
                   <p class="offer-result"><strong>{{ $ui.result_label }}</strong> {{ . }}</p>
                 {{ end }}
-                <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if hasPrefix $ctaHref "http" }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
+                <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
               </article>
             {{ end }}
           </div>
