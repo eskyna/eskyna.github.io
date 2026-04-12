@@ -143,6 +143,9 @@ services:
           result: "Вы видите, что носибельно, что сочетается - и что в будущем не нужно покупать лишнего."
           ctaText: "Записаться на бесплатную первую встречу"
           ctaHref: "#kontakt"
+          ctaSecondaryText: "Самопроверка гардероба"
+          ctaSecondaryHref: "/garderobencheck"
+          ctaSecondaryNewTab: true
         - title: "Сопровождение при покупках"
           text: "Целенаправленный шопинг вместо хаотичных поисков. Для тех, кто хочет находить подходящие вещи без лишней траты времени, денег и нервов."
           highlights:
@@ -310,10 +313,6 @@ ui:
     - title: "Тест стиля"
       link: "/stiltest/"
       description: "Первые выводы о вашем стиле за несколько минут."
-      external: true
-    - title: "Проверка гардероба"
-      link: "/garderobencheck"
-      description: "Проверьте свой базовый гардероб и определите пробелы."
       external: true
     - title: "Записаться на бесплатную первую встречу"
       link: "https://calendar.app.google/mGFQuoZbyqQRTABi9"

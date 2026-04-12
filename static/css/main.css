@@ -485,8 +485,15 @@ h2 {
   margin-bottom: 0.3rem;
 }
 
-.offer-card .btn {
+.offer-card-actions {
   margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.offer-card-actions .btn {
   align-self: flex-start;
 }
 

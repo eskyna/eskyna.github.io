@@ -142,6 +142,9 @@ services:
           result: "Sie sehen, was tragbar ist, was sich kombinieren lässt und was künftig nicht mehr unnötig gekauft werden muss."
           ctaText: "Kostenloses Erstgespräch buchen"
           ctaHref: "#kontakt"
+          ctaSecondaryText: "Garderoben Selbstcheck"
+          ctaSecondaryHref: "/garderobencheck"
+          ctaSecondaryNewTab: true
         - title: "Shoppingbegleitung"
           text: "Gezielt einkaufen statt planlos suchen. Für alle, die passende Teile finden möchten, ohne Zeit, Geld und Nerven zu verlieren."
           highlights:
@@ -306,10 +309,6 @@ ui:
     - title: "Stiltest"
       link: "/stiltest/"
       description: "Erste Erkenntnisse zu Ihrem Stil in wenigen Minuten."
-      external: true
-    - title: "Garderoben Check"
-      link: "/garderobencheck"
-      description: "Prüfen Sie Ihre Basic-Garderobe und erkennen Sie Lücken."
       external: true
     - title: "Kostenloses Erstgespräch buchen"
       link: "https://calendar.app.google/mGFQuoZbyqQRTABi9"

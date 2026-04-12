@@ -148,20 +148,6 @@
     </div>
   </section>
 
-  <section class="section">
-    <div class="container">
-      <h2>{{ $ui.quicklinks_title }}</h2>
-      <div class="cards">
-        {{ range $ui.quicklinks }}
-          <article class="card">
-            <h3><a href="{{ .link }}"{{ if .external }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .title }}</a></h3>
-            <p>{{ .description }}</p>
-          </article>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-
   {{ with $method }}
   <section class="section method-section" id="methode">
     <div class="container">
@@ -201,6 +187,9 @@
               {{ $ctaHref := or $item.ctaHref "#kontakt" }}
               {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
               {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+              {{ $ctaSecondaryHref := $item.ctaSecondaryHref }}
+              {{ $ctaSecondaryText := $item.ctaSecondaryText }}
+              {{ $secondaryOpenInNewTab := and $ctaSecondaryHref (or $item.ctaSecondaryNewTab (hasPrefix $ctaSecondaryHref "http") (hasSuffix $ctaSecondaryHref ".pdf")) }}
               <article class="offer-card {{ if and (eq $index 0) (ne $group.title "Kostenlos starten") }}offer-card-featured{{ end }}">
                 <p class="offer-label">{{ $group.title }}</p>
                 <h4>{{ $item.title }}</h4>
@@ -218,7 +207,12 @@
                 {{ with $item.result }}
                   <p class="offer-result"><strong>{{ $ui.result_label }}</strong> {{ . }}</p>
                 {{ end }}
-                <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
+                <div class="offer-card-actions">
+                  {{ if and $ctaSecondaryHref $ctaSecondaryText }}
+                  <a class="btn btn-secondary" href="{{ $ctaSecondaryHref }}"{{ if $secondaryOpenInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaSecondaryText }}</a>
+                  {{ end }}
+                  <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
+                </div>
               </article>
             {{ end }}
           </div>
