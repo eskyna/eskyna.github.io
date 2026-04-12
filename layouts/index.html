@@ -299,10 +299,7 @@
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
       </div>
-      <div class="signature-block">
-        <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" class="signature-photo">
-        <img src="{{ $contact.signature | relURL }}" alt="Unterschrift von Natalia Kleemann" class="signature-image">
-      </div>
+      <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" class="signature-photo">
     </div>
   </section>
 </main>

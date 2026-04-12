@@ -536,7 +536,8 @@ h2 {
 .signature-photo {
   border-radius: 16px;
   max-width: 290px;
-  border: 1px solid var(--card-border);
+  border: 0;
+  box-shadow: none;
 }
 
 .signature-image {

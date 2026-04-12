@@ -277,8 +277,7 @@ contact:
   title: "Lassen Sie uns über Ihren neuen Auftritt sprechen"
   text: "Buchen Sie ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu Ihnen passt."
   email: "natalia@eskyna.com"
-  photo: "images/Nati.png"
-  signature: "images/sign.png"
+  photo: "images/Natalia_Desk.png"
 
 ui:
   hero_image_alt: "Porträt von Natalia Kleemann"

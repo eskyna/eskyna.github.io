@@ -281,8 +281,7 @@ contact:
   title: "Давайте поговорим о вашем новом имидже"
   text: "Запишитесь на бесплатную первую встречу, и мы вместе посмотрим, какой формат коучинга вам подходит."
   email: "natalia@eskyna.com"
-  photo: "images/Nati.png"
-  signature: "images/sign.png"
+  photo: "images/Natalia_Desk.png"
 
 ui:
   hero_image_alt: "Портрет Наталья Клеманн"
