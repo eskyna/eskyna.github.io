@@ -1,5 +1,5 @@
 ---
-title: "über mich"
+title: "Über mich"
 eyebrow: "Natalia Kleemann"
 image: "images/Natalia_Desk.png"
 ---

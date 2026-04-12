@@ -1,15 +1,23 @@
 <footer class="site-footer">
   <div class="container site-footer-inner">
+    {{ $aboutText := "Über mich" }}
+    {{ $estyleText := "EStyle" }}
     {{ $imprintText := "Impressum" }}
     {{ $privacyText := "Datenschutzerklärung" }}
     {{ if eq .Language.Lang "ru" }}
+      {{ $aboutText = "Обо мне" }}
+      {{ $estyleText = "EStyle" }}
       {{ $imprintText = "Выходные данные" }}
       {{ $privacyText = "Политика конфиденциальности" }}
     {{ end }}
     {{ with .Params.ui }}
+      {{ $aboutText = or .footer_about_text $aboutText }}
+      {{ $estyleText = or .footer_estyle_text $estyleText }}
       {{ $imprintText = or .footer_imprint_text $imprintText }}
       {{ $privacyText = or .footer_privacy_text $privacyText }}
     {{ end }}
+    <a href="{{ "about" | relLangURL }}">{{ $aboutText }}</a>
+    <a href="{{ "estyle" | relLangURL }}">{{ $estyleText }}</a>
     <a href="{{ "impressum" | relLangURL }}">{{ $imprintText }}</a>
     <a href="{{ "datenschutz" | relLangURL }}">{{ $privacyText }}</a>
   </div>
