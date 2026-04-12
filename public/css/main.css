@@ -24,9 +24,21 @@ body {
 
 body {
   font-family: var(--font-text);
-  background: radial-gradient(circle at 20% 0%, #fff 0%, var(--bg) 40%);
+  background-color: #f6f1ea;
+  background-image:
+    linear-gradient(rgb(255 255 255 / 72%), rgb(255 255 255 / 72%)),
+    url('/images/linen-texture-light.png');
+  background-repeat: repeat;
+  background-size: 420px 420px;
+  background-attachment: fixed;
   color: var(--text);
   line-height: 1.55;
+}
+
+.section-card {
+  background: rgb(255 255 255 / 88%);
+  backdrop-filter: blur(1px);
+  border-radius: 20px;
 }
 
 img {
