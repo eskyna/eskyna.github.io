@@ -11,7 +11,7 @@ title = "Natalia Kleemann | Style & Image Coaching"
     contentDir = "content"
     [languages.de.params]
       author = "Natalia Kleemann"
-      description = "Style- und Image-Coaching für Frauen, die sichtbar, stilsicher und authentisch auftreten wollen."
+      description = "Style- und Image-Coaching für Menschen, die sichtbar, stilsicher und authentisch auftreten wollen."
   
   [languages.ru]
     languageCode = "ru-RU"
@@ -24,4 +24,4 @@ title = "Natalia Kleemann | Style & Image Coaching"
 
 [params]
   author = "Natalia Kleemann"
-  description = "Style- und Image-Coaching für Frauen, die sichtbar, stilsicher und authentisch auftreten wollen."
+  description = "Style- und Image-Coaching für Menschen, die sichtbar, stilsicher und authentisch auftreten wollen."
