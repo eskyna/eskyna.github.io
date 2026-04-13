@@ -109,6 +109,7 @@ a:hover {
   align-items: stretch;
   padding: 3rem 0 0;
   position: relative;
+  overflow: hidden;
   background-image:
     linear-gradient(to right, rgb(44 30 22 / 72%) 0%, rgb(44 30 22 / 28%) 55%, rgb(44 30 22 / 08%) 100%),
     url('/images/NataliaBackground.png');
@@ -246,6 +247,8 @@ h2 {
   background: transparent;
   display: flex;
   align-items: flex-end;
+  position: relative;
+  z-index: 1;
 }
 
 .hero-image {
@@ -269,6 +272,8 @@ h2 {
   border-radius: 0;
   background: transparent;
   backdrop-filter: blur(2px);
+  position: relative;
+  z-index: 3;
 }
 
 .hero .hero-copy h1 {
@@ -1241,13 +1246,36 @@ h2 {
   }
 
   .hero {
-    min-height: auto;
+    min-height: 760px;
     padding-top: 2.25rem;
   }
 
   .hero-image-wrap {
-    justify-self: start;
-    width: min(100%, 420px);
+    position: absolute;
+    right: -1rem;
+    bottom: 0;
+    justify-self: auto;
+    width: min(54vw, 420px);
+    z-index: 1;
+  }
+
+  .hero-image {
+    max-height: 72vh;
+  }
+
+  .hero .hero-copy {
+    max-width: min(32rem, 68vw);
+  }
+
+  .hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    background:
+      linear-gradient(180deg, rgb(44 30 22 / 34%) 0%, rgb(44 30 22 / 18%) 38%, rgb(44 30 22 / 42%) 100%),
+      linear-gradient(90deg, rgb(44 30 22 / 78%) 0%, rgb(44 30 22 / 56%) 42%, rgb(44 30 22 / 12%) 100%);
   }
 
   .testimonial-inner {
@@ -1280,9 +1308,83 @@ h2 {
   }
 }
 
+@media (width <= 680px) {
+  .hero {
+    min-height: 720px;
+    padding: 2rem 0 0;
+    background-image:
+      linear-gradient(180deg, rgb(44 30 22 / 86%) 0%, rgb(44 30 22 / 68%) 36%, rgb(44 30 22 / 54%) 100%),
+      url('/images/NataliaBackground.png');
+    background-position: 62% center;
+  }
+
+  .hero-grid {
+    align-items: start;
+    min-height: calc(720px - 2rem);
+  }
+
+  .hero .hero-copy {
+    max-width: min(100%, 28rem);
+    padding-right: 1rem;
+  }
+
+  .hero h1 {
+    max-width: 8ch;
+    font-size: clamp(2.9rem, 11vw, 4.3rem);
+  }
+
+  .hero .hero-copy .lead {
+    max-width: 30ch;
+    color: rgb(255 255 255 / 84%);
+  }
+
+  .hero-actions {
+    max-width: 18rem;
+  }
+
+  .hero-image-wrap {
+    right: -2.25rem;
+    width: min(76vw, 360px);
+    opacity: 0.94;
+  }
+
+  .hero-image {
+    max-height: 62vh;
+  }
+
+  .hero::after {
+    background:
+      radial-gradient(circle at 28% 26%, rgb(44 30 22 / 16%), transparent 32%),
+      linear-gradient(180deg, rgb(44 30 22 / 18%) 0%, rgb(44 30 22 / 08%) 34%, rgb(44 30 22 / 30%) 100%),
+      linear-gradient(90deg, rgb(44 30 22 / 84%) 0%, rgb(44 30 22 / 62%) 48%, rgb(44 30 22 / 12%) 100%);
+  }
+}
+
 @media (width <= 540px) {
   .btn {
     white-space: normal;
+  }
+
+  .hero {
+    min-height: 680px;
+  }
+
+  .hero-grid {
+    min-height: calc(680px - 2rem);
+  }
+
+  .hero .hero-copy {
+    max-width: 100%;
+    padding-right: 2.5rem;
+  }
+
+  .hero .hero-copy .lead {
+    max-width: 26ch;
+  }
+
+  .hero-image-wrap {
+    right: -2.75rem;
+    width: min(82vw, 320px);
   }
 
   .method-journey {
