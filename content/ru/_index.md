@@ -7,6 +7,10 @@ hero:
   ctaText: "Узнайте о моих услугах"
   ctaHref: "#angebote"
   image: "images/IMG_5208_transparent.png"
+  trust:
+    - "Онлайн и очно"
+    - "Индивидуальный подход"
+    - "Системный метод"
 problems:
   title: "Вы узнаёте себя?"
   items:

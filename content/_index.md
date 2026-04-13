@@ -7,6 +7,10 @@ hero:
   ctaText: "Lernen Sie meine Angebote kennen"
   ctaHref: "#angebote"
   image: "images/IMG_5208_transparent.png"
+  trust:
+    - "Online & vor Ort"
+    - "Individuelle Beratung"
+    - "Mit System"
 problems:
   title: "Erkennen Sie sich hier wieder?"
   items:
