@@ -1360,6 +1360,12 @@ h2 {
   }
 }
 
+@media (width <= 900px) and (orientation: portrait) {
+  .hero .hero-copy {
+    backdrop-filter: none;
+  }
+}
+
 @media (width <= 540px) {
   .btn {
     white-space: normal;
