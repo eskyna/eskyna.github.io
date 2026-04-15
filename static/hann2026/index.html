@@ -1,0 +1,1612 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>ESKYNA | Hannover Messe 2026 Stiltest</title>
+    <meta
+      name="description"
+      content="Interaktiver Stiltest von ESKYNA für die Hannover Messe 2026: Stilprofil entdecken, Messespezial sichern und EStyle als Weltneuheit erleben."
+    />
+    <style>
+      :root {
+        --bg: #f6f0eb;
+        --bg-soft: #fbf8f5;
+        --surface: rgba(255, 255, 255, 0.9);
+        --surface-strong: #ffffff;
+        --line: rgba(123, 90, 79, 0.12);
+        --line-strong: rgba(123, 90, 79, 0.22);
+        --text: #2d2724;
+        --muted: #6d6159;
+        --accent: #b98878;
+        --accent-dark: #7b5a4f;
+        --gold: #c9a86f;
+        --shadow: 0 24px 60px rgba(78, 52, 42, 0.08);
+        --radius-xl: 32px;
+        --radius-lg: 24px;
+        --radius-md: 18px;
+        --max: 1120px;
+        --topbar: 86px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        margin: 0;
+        font-family:
+          Inter,
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(185, 136, 120, 0.12), transparent 28%),
+          linear-gradient(180deg, #fcf9f6 0%, #f4ece6 100%);
+        line-height: 1.5;
+        min-height: 100svh;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      button,
+      input,
+      select,
+      textarea {
+        font: inherit;
+      }
+
+      .container {
+        width: min(calc(100% - 28px), var(--max));
+        margin: 0 auto;
+      }
+
+      .site-shell {
+        padding: 14px 0 40px;
+      }
+
+      .topbar {
+        position: sticky;
+        top: 0;
+        z-index: 40;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        min-height: 72px;
+        margin-bottom: 16px;
+        padding: 12px 14px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.78);
+        border: 1px solid rgba(123, 90, 79, 0.1);
+        backdrop-filter: blur(16px);
+        box-shadow: 0 14px 36px rgba(78, 52, 42, 0.06);
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--accent-dark);
+        white-space: nowrap;
+      }
+
+      .brand-mark {
+        width: 40px;
+        height: 40px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, var(--accent), var(--gold));
+        box-shadow: var(--shadow);
+        position: relative;
+        overflow: hidden;
+        flex: 0 0 auto;
+      }
+
+      .brand-mark::before,
+      .brand-mark::after {
+        content: "";
+        position: absolute;
+        inset: 8px;
+        border: 1.5px solid rgba(255, 255, 255, 0.68);
+        border-radius: 12px;
+      }
+
+      .brand-mark::after {
+        inset: 14px;
+        border-radius: 8px;
+      }
+
+      .topbar-right {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 38px;
+        padding: 8px 14px;
+        border-radius: 999px;
+        background: rgba(247, 243, 239, 0.95);
+        border: 1px solid rgba(123, 90, 79, 0.08);
+        color: var(--accent-dark);
+        font-size: 0.92rem;
+        font-weight: 600;
+      }
+
+      .jump-link {
+        min-height: 44px;
+        padding: 0 18px;
+        border-radius: 999px;
+        border: 1px solid transparent;
+        background: linear-gradient(135deg, var(--accent-dark), #9e7668 60%, var(--gold));
+        color: #fff;
+        font-weight: 700;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 14px 30px rgba(123, 90, 79, 0.18);
+      }
+
+      .screen {
+        min-height: calc(100svh - 96px);
+        display: flex;
+        align-items: center;
+        scroll-margin-top: 88px;
+      }
+
+      .hero-card,
+      .quiz-panel,
+      .feedback-panel,
+      .result-panel,
+      .male-panel,
+      .cta-card,
+      .gender-select,
+      .benefit-pill,
+      .result-box,
+      .feedback-box,
+      .option-card {
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: var(--radius-xl);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(18px);
+      }
+
+      .hero-card {
+        width: 100%;
+        min-height: min(860px, calc(100svh - 112px));
+        padding: clamp(24px, 4vw, 46px);
+        display: grid;
+        grid-template-columns: minmax(0, 1.08fr) minmax(300px, 0.92fr);
+        gap: 26px;
+        align-items: stretch;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero-card::after {
+        content: "";
+        position: absolute;
+        right: -100px;
+        top: -70px;
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        background: radial-gradient(
+          circle,
+          rgba(201, 168, 111, 0.18),
+          rgba(185, 136, 120, 0.06),
+          transparent 68%
+        );
+        pointer-events: none;
+      }
+
+      .hero-main,
+      .hero-side {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        width: fit-content;
+        min-height: 42px;
+        padding: 10px 14px;
+        margin-bottom: 18px;
+        border-radius: 999px;
+        background: rgba(185, 136, 120, 0.1);
+        color: var(--accent-dark);
+        font-size: 0.95rem;
+        font-weight: 700;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        margin: 0;
+        line-height: 1.05;
+        letter-spacing: -0.03em;
+      }
+
+      h1 {
+        font-size: clamp(2.3rem, 6vw, 5rem);
+        max-width: 12ch;
+        margin-bottom: 18px;
+      }
+
+      .lead {
+        font-size: clamp(1.05rem, 1.5vw, 1.18rem);
+        color: var(--muted);
+        max-width: 60ch;
+        margin: 0 0 24px;
+      }
+
+      .hero-actions {
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+        margin-bottom: 26px;
+      }
+
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        min-height: 58px;
+        padding: 0 24px;
+        border-radius: 999px;
+        border: 1px solid transparent;
+        font-weight: 700;
+        font-size: 1rem;
+        cursor: pointer;
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease,
+          border-color 0.2s ease,
+          background 0.2s ease;
+      }
+
+      .btn:hover {
+        transform: translateY(-1px);
+      }
+
+      .btn-primary {
+        background: linear-gradient(135deg, var(--accent-dark), #9e7668 60%, var(--gold));
+        color: white;
+        box-shadow: 0 18px 34px rgba(123, 90, 79, 0.2);
+      }
+
+      .btn-secondary {
+        background: rgba(255, 255, 255, 0.92);
+        border-color: rgba(123, 90, 79, 0.14);
+        color: var(--accent-dark);
+      }
+
+      .hero-benefits {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: auto;
+      }
+
+      .benefit-pill {
+        padding: 12px 14px;
+        border-radius: 18px;
+        box-shadow: none;
+        background: rgba(247, 243, 239, 0.92);
+        font-size: 0.95rem;
+        color: var(--muted);
+      }
+
+      .hero-side {
+        gap: 16px;
+        justify-content: space-between;
+      }
+
+      .messe-box,
+      .special-box,
+      .world-box {
+        padding: 22px;
+        border-radius: 28px;
+        background: rgba(255, 255, 255, 0.72);
+        border: 1px solid rgba(123, 90, 79, 0.09);
+      }
+
+      .messe-box {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+        min-height: 220px;
+      }
+
+      .messe-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+        flex-wrap: wrap;
+      }
+
+      .messe-logo {
+        max-width: 120px;
+        max-height: 84px;
+        object-fit: contain;
+        filter: saturate(0.94) contrast(1.05);
+      }
+
+      .messe-fallback {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 118px;
+        min-height: 84px;
+        padding: 12px 18px;
+        border-radius: 20px;
+        background: #fff;
+        border: 1px solid rgba(123, 90, 79, 0.1);
+        color: var(--accent-dark);
+        font-weight: 900;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        line-height: 1.12;
+        text-align: center;
+      }
+
+      .hero-side p,
+      .hero-side li,
+      .hero-side .soft-copy,
+      .subtle {
+        color: var(--muted);
+      }
+
+      .soft-copy {
+        margin: 0;
+      }
+
+      .special-box strong,
+      .world-box strong,
+      .messe-box strong {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 1.04rem;
+      }
+
+      .special-box ul {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+
+      .quiz-screen {
+        padding: 10px 0 0;
+      }
+
+      .quiz-layout {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 18px;
+      }
+
+      .gender-select,
+      .quiz-panel,
+      .feedback-panel,
+      .result-panel,
+      .male-panel {
+        width: 100%;
+        min-height: min(860px, calc(100svh - 112px));
+        padding: clamp(22px, 4vw, 38px);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+      }
+
+      .section-eyebrow {
+        display: block;
+        margin-bottom: 12px;
+        color: var(--accent-dark);
+        font-size: 0.9rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .section-title {
+        font-size: clamp(2rem, 4vw, 3.3rem);
+        max-width: 16ch;
+        margin-bottom: 12px;
+      }
+
+      .section-lead {
+        max-width: 62ch;
+        margin: 0 0 24px;
+        color: var(--muted);
+        font-size: 1.04rem;
+      }
+
+      .gender-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+        margin: 14px 0 18px;
+      }
+
+      .gender-choice {
+        appearance: none;
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        padding: 22px;
+        background: rgba(255, 255, 255, 0.74);
+        text-align: left;
+        cursor: pointer;
+        transition:
+          transform 0.2s ease,
+          border-color 0.2s ease,
+          background 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .gender-choice strong {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 1.05rem;
+      }
+
+      .gender-choice p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.98rem;
+      }
+
+      .gender-choice.active,
+      .gender-choice:hover,
+      .option-card:hover {
+        transform: translateY(-2px);
+        border-color: rgba(185, 136, 120, 0.9);
+        box-shadow: 0 18px 34px rgba(66, 43, 34, 0.08);
+        background: linear-gradient(180deg, rgba(185, 136, 120, 0.12), rgba(255, 255, 255, 0.96));
+      }
+
+      .note-box {
+        padding: 16px 18px;
+        border-radius: 18px;
+        background: rgba(247, 243, 239, 0.96);
+        border: 1px solid rgba(123, 90, 79, 0.08);
+        color: var(--muted);
+        font-size: 0.96rem;
+      }
+
+      .progress {
+        display: grid;
+        gap: 12px;
+        margin-bottom: 26px;
+      }
+
+      .progress-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+
+      .question-meta,
+      .selection-count {
+        color: var(--muted);
+        font-weight: 600;
+        font-size: 0.96rem;
+      }
+
+      .progress-bar {
+        height: 12px;
+        border-radius: 999px;
+        overflow: hidden;
+        background: rgba(123, 90, 79, 0.1);
+      }
+
+      .progress-fill {
+        height: 100%;
+        width: 0;
+        border-radius: inherit;
+        background: linear-gradient(90deg, var(--accent), var(--gold));
+        transition: width 0.28s ease;
+      }
+
+      .question-title {
+        font-size: clamp(1.85rem, 4vw, 3rem);
+        margin-bottom: 12px;
+        max-width: 18ch;
+      }
+
+      .question-hint {
+        margin: 0 0 22px;
+        color: var(--muted);
+        font-size: 1rem;
+      }
+
+      .options {
+        display: grid;
+        gap: 14px;
+        margin-top: 6px;
+      }
+
+      .option-card {
+        border-radius: 24px;
+        padding: 18px 20px;
+        display: flex;
+        align-items: flex-start;
+        gap: 14px;
+        cursor: pointer;
+        text-align: left;
+        transition:
+          transform 0.2s ease,
+          border-color 0.2s ease,
+          background 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .option-card.selected {
+        border-color: rgba(185, 136, 120, 0.95);
+        background: linear-gradient(180deg, rgba(185, 136, 120, 0.14), rgba(255, 255, 255, 0.98));
+      }
+
+      .option-check {
+        width: 28px;
+        height: 28px;
+        margin-top: 1px;
+        border-radius: 9px;
+        border: 1.5px solid var(--line-strong);
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        flex: 0 0 auto;
+        background: rgba(255, 255, 255, 0.94);
+        color: transparent;
+        font-weight: 900;
+      }
+
+      .option-card.selected .option-check {
+        background: linear-gradient(135deg, var(--accent-dark), var(--gold));
+        border-color: transparent;
+        color: #fff;
+      }
+
+      .option-copy {
+        font-size: 1.05rem;
+        line-height: 1.45;
+        color: var(--text);
+      }
+
+      .quiz-footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-top: auto;
+        padding-top: 22px;
+        flex-wrap: wrap;
+      }
+
+      .quiz-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-left: auto;
+      }
+
+      .hidden {
+        display: none !important;
+      }
+
+      .feedback-panel h3,
+      .result-panel h3,
+      .male-panel h3 {
+        font-size: clamp(2rem, 4vw, 3rem);
+        max-width: 15ch;
+        margin-bottom: 12px;
+      }
+
+      .feedback-panel p,
+      .result-panel p,
+      .male-panel p {
+        color: var(--muted);
+        margin: 0 0 18px;
+        font-size: 1rem;
+      }
+
+      .feedback-highlight,
+      .result-highlight,
+      .cta-grid,
+      .bar-stack {
+        display: grid;
+        gap: 14px;
+      }
+
+      .feedback-box,
+      .result-box,
+      .cta-card {
+        padding: 22px;
+        border-radius: 28px;
+        background: rgba(247, 243, 239, 0.96);
+      }
+
+      .feedback-box p,
+      .result-box p,
+      .cta-card p {
+        margin-bottom: 0;
+      }
+
+      .mix-row {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 16px;
+      }
+
+      .mix-chip {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40px;
+        padding: 8px 14px;
+        border-radius: 999px;
+        background: #fff;
+        border: 1px solid rgba(123, 90, 79, 0.1);
+        color: var(--accent-dark);
+        font-size: 0.95rem;
+        font-weight: 700;
+      }
+
+      .bar-row {
+        display: grid;
+        grid-template-columns: 160px 1fr 64px;
+        gap: 12px;
+        align-items: center;
+      }
+
+      .bar-label {
+        font-weight: 700;
+      }
+
+      .bar-track {
+        height: 12px;
+        border-radius: 999px;
+        overflow: hidden;
+        background: rgba(123, 90, 79, 0.1);
+      }
+
+      .bar-fill {
+        height: 100%;
+        border-radius: inherit;
+        background: linear-gradient(90deg, var(--accent), var(--gold));
+      }
+
+      .cta-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        margin-top: 24px;
+      }
+
+      .cta-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 18px;
+        min-height: 100%;
+      }
+
+      .tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        width: fit-content;
+        min-height: 34px;
+        padding: 6px 12px;
+        border-radius: 999px;
+        background: rgba(185, 136, 120, 0.12);
+        color: var(--accent-dark);
+        font-size: 0.82rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .cta-card h4 {
+        font-size: 1.28rem;
+        margin: 0;
+      }
+
+      .cta-card ul {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+
+      .footer-note {
+        margin-top: 18px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .result-panel .cta-heading {
+        margin-top: 28px;
+        margin-bottom: 4px;
+        font-size: clamp(1.5rem, 3vw, 2.1rem);
+      }
+
+      @media (max-width: 980px) {
+        .hero-card {
+          grid-template-columns: 1fr;
+        }
+
+        .cta-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 720px) {
+        :root {
+          --topbar: 76px;
+        }
+
+        .site-shell {
+          padding: 10px 0 26px;
+        }
+
+        .container {
+          width: min(calc(100% - 18px), var(--max));
+        }
+
+        .topbar {
+          border-radius: 24px;
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        .topbar-right {
+          width: 100%;
+          justify-content: space-between;
+        }
+
+        .jump-link {
+          flex: 1 1 auto;
+        }
+
+        .screen,
+        .hero-card,
+        .gender-select,
+        .quiz-panel,
+        .feedback-panel,
+        .result-panel,
+        .male-panel {
+          min-height: calc(100svh - 92px);
+        }
+
+        .hero-card,
+        .gender-select,
+        .quiz-panel,
+        .feedback-panel,
+        .result-panel,
+        .male-panel {
+          padding: 20px 18px;
+        }
+
+        .hero-actions,
+        .quiz-actions,
+        .gender-grid,
+        .mix-row {
+          grid-template-columns: 1fr;
+        }
+
+        .hero-actions,
+        .quiz-actions,
+        .gender-grid {
+          display: grid;
+        }
+
+        .btn,
+        .jump-link {
+          width: 100%;
+        }
+
+        .question-title,
+        .section-title,
+        .feedback-panel h3,
+        .result-panel h3,
+        .male-panel h3 {
+          max-width: none;
+        }
+
+        .option-card {
+          padding: 18px 16px;
+        }
+
+        .quiz-footer {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .quiz-actions {
+          margin-left: 0;
+        }
+
+        .bar-row {
+          grid-template-columns: 1fr;
+          gap: 8px;
+        }
+
+        .pill:nth-child(2) {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="site-shell">
+      <div class="container">
+        <div class="topbar">
+          <div class="brand">
+            <span class="brand-mark" aria-hidden="true"></span>
+            <span>Eskyna | EStyle</span>
+          </div>
+          <div class="topbar-right">
+            <span class="pill">Hannover Messe 2026</span>
+            <span class="pill">Messespezial</span>
+            <a class="jump-link" href="#stiltest">Stiltest starten</a>
+          </div>
+        </div>
+
+        <section class="screen" aria-labelledby="hero-title">
+          <div class="hero-card">
+            <div class="hero-main">
+              <div class="eyebrow">Ihr persönlicher Stiltest für die Messe</div>
+              <h1 id="hero-title">Entdecken Sie den Stil, der wirklich zu Ihnen passt.</h1>
+              <p class="lead">
+                Gute Stilberatung gibt Sicherheit, spart Fehlkäufe und macht es leichter, sich jeden
+                Tag stimmig anzuziehen. Genau dafür ist dieser kurze EStyle Stiltest da: persönlich,
+                inspirierend und direkt mit einem klaren Ergebnis.
+              </p>
+              <div class="hero-actions">
+                <a class="btn btn-primary" href="#stiltest">Jetzt Stiltest beginnen</a>
+                <a class="btn btn-secondary" href="#messespecial">Messevorteile ansehen</a>
+              </div>
+              <div class="hero-benefits">
+                <div class="benefit-pill">10 Fragen mit Mehrfachauswahl</div>
+                <div class="benefit-pill">Zwischenfeedback während des Tests</div>
+                <div class="benefit-pill">Haupttyp plus Nebentypen</div>
+                <div class="benefit-pill">Exklusive Messe-Optionen am Ende</div>
+              </div>
+            </div>
+
+            <aside class="hero-side" aria-label="Messespezial Highlights">
+              <div class="messe-box">
+                <div class="messe-head">
+                  <div>
+                    <span class="section-eyebrow" style="margin-bottom: 8px"
+                      >Hannover Messe 2026</span
+                    >
+                    <h2 style="font-size: clamp(1.4rem, 3vw, 2.1rem); margin-bottom: 8px">
+                      Stilberatung als Erlebnis
+                    </h2>
+                    <p class="soft-copy">
+                      Ein stilvoller Einstieg für neue Kontakte: schnell, persönlich und mit echter
+                      Relevanz für den Alltag.
+                    </p>
+                  </div>
+                  <div>
+                    <img
+                      class="messe-logo"
+                      src="/images/references/hannover-messe.svg"
+                      alt="Hannover Messe"
+                      onerror="
+                        this.style.display = 'none';
+                        this.nextElementSibling.classList.remove('hidden');
+                      "
+                    />
+                    <div class="messe-fallback hidden">Hannover<br />Messe</div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="special-box">
+                <strong>Warum eine Stilberatung so wertvoll ist</strong>
+                <ul>
+                  <li>Sie erkennen schneller, was wirklich zu Ihnen passt.</li>
+                  <li>Sie kaufen gezielter statt unsicher oder doppelt.</li>
+                  <li>Sie wirken stimmiger im Beruf, im Alltag und bei Events.</li>
+                </ul>
+              </div>
+
+              <div class="world-box">
+                <strong>Nur während der Messe</strong>
+                <p class="soft-copy">
+                  Am Ende warten drei exklusive Messespezialmöglichkeiten. Der EStyle Betatest ist
+                  dabei als Weltneuheit inszeniert, weil qualitative Stilberatung erstmals online
+                  erlebbar wird.
+                </p>
+              </div>
+            </aside>
+          </div>
+        </section>
+
+        <section id="stiltest" class="screen quiz-screen" aria-labelledby="quiz-title">
+          <div class="quiz-layout">
+            <div class="gender-select" id="genderPanel">
+              <span class="section-eyebrow">Willkommen bei EStyle</span>
+              <h2 class="section-title" id="quiz-title">Welcher Stiltyp steckt in Ihnen?</h2>
+              <p class="section-lead">
+                Wählen Sie zuerst aus, für welchen Stiltest Sie starten möchten. Im Frauen-Test sind
+                bereits alle 10 Fragen enthalten. Pro Frage können mehrere Antworten markiert
+                werden, damit Ihr Ergebnis feinere Nuancen bekommt.
+              </p>
+
+              <div class="gender-grid" id="genderChoices">
+                <button class="gender-choice active" type="button" data-gender="female">
+                  <strong>Ich bin weiblich</strong>
+                  <p>
+                    Der Stiltest für Frauen startet sofort und führt Sie Schritt für Schritt zu
+                    Ihrem Stilprofil.
+                  </p>
+                </button>
+                <button class="gender-choice" type="button" data-gender="male">
+                  <strong>Ich bin männlich</strong>
+                  <p>
+                    Die Männer-Version wird zeitnah freigeschaltet. Die Messe-Vorteile können Sie
+                    trotzdem bereits nutzen.
+                  </p>
+                </button>
+              </div>
+
+              <div class="note-box" id="genderNote">
+                Starten Sie direkt mit dem Frauen-Stiltest. Nach 2, 5 und 8 beantworteten Fragen
+                erhalten Sie bereits persönliches Zwischenfeedback.
+              </div>
+
+              <div class="hero-actions" style="margin-top: auto; margin-bottom: 0">
+                <button class="btn btn-primary" id="startQuizBtn" type="button">
+                  Frauen-Stiltest starten
+                </button>
+                <a class="btn btn-secondary" href="#messespecial">Zu den Messevorteilen</a>
+              </div>
+            </div>
+
+            <div class="quiz-panel hidden" id="quizPanel">
+              <div class="progress">
+                <div class="progress-head">
+                  <div class="question-meta" id="questionMeta">Frage 1 von 10</div>
+                  <div class="selection-count" id="selectionCount">0 Antworten ausgewählt</div>
+                </div>
+                <div class="progress-bar" aria-hidden="true">
+                  <div class="progress-fill" id="progressFill"></div>
+                </div>
+              </div>
+
+              <h3 class="question-title" id="questionTitle">Frage wird geladen</h3>
+              <p class="question-hint">
+                Wählen Sie eine oder mehrere Antworten, die sich für Sie spontan richtig anfühlen.
+              </p>
+              <div class="options" id="options"></div>
+
+              <div class="quiz-footer">
+                <div class="subtle">
+                  Je intuitiver Sie antworten, desto treffender wird Ihr Ergebnis.
+                </div>
+                <div class="quiz-actions">
+                  <button class="btn btn-secondary" id="backBtn" type="button">Zurück</button>
+                  <button class="btn btn-primary" id="nextBtn" type="button">Weiter</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="feedback-panel hidden" id="feedbackPanel">
+              <span class="section-eyebrow">Zwischenfeedback</span>
+              <h3 id="feedbackTitle">Ihr Stilbild wird sichtbar.</h3>
+              <p id="feedbackText"></p>
+              <div class="feedback-highlight" id="feedbackHighlight"></div>
+              <div class="hero-actions" style="margin-top: auto; margin-bottom: 0">
+                <button class="btn btn-primary" id="feedbackContinue" type="button">
+                  Weiter zum Stiltest
+                </button>
+              </div>
+            </div>
+
+            <div class="result-panel hidden" id="resultPanel">
+              <span class="section-eyebrow">Ihr Ergebnis</span>
+              <h3 id="resultTitle">Ihr Stilprofil</h3>
+              <p id="resultIntro"></p>
+              <div class="result-highlight" id="resultHighlight"></div>
+              <div class="bar-stack" id="resultBars"></div>
+              <div class="mix-row" id="mixRow"></div>
+
+              <h4 class="cta-heading" id="messespecial">
+                Ihre exklusiven Messespezialmöglichkeiten
+              </h4>
+              <p class="subtle">
+                Wählen Sie jetzt den nächsten Schritt, der am besten zu Ihrem Ergebnis passt.
+              </p>
+
+              <div class="cta-grid">
+                <article class="cta-card">
+                  <div>
+                    <span class="tag">Messespezial 01</span>
+                    <h4>10 Stiltipps als PDF herunterladen</h4>
+                    <p>
+                      Ihr kompakter Stil-Guide für mehr Sicherheit beim Kombinieren, Shoppen und
+                      Auftreten.
+                    </p>
+                    <ul>
+                      <li>Sofortiger Nutzen direkt nach dem Test</li>
+                      <li>Ideal zum Mitnehmen und Nachlesen</li>
+                      <li>Perfekter Einstieg in die EStyle Welt</li>
+                    </ul>
+                  </div>
+                  <a
+                    class="btn btn-secondary"
+                    href="https://eskyna.com/10_Styling_Tipps.pdf"
+                    target="_blank"
+                    rel="noopener"
+                    >PDF sichern</a
+                  >
+                </article>
+
+                <article class="cta-card">
+                  <div>
+                    <span class="tag">Messespezial 02</span>
+                    <h4>Für den EStyle Betatest eintragen</h4>
+                    <p>
+                      Weltneuheit: Zum ersten Mal wird qualitative Stilberatung online möglich.
+                      Werden Sie Teil der ersten Testgruppe.
+                    </p>
+                    <ul>
+                      <li>Besonders spannend für neugierige First Mover</li>
+                      <li>Früher Zugang zur neuen EStyle Erfahrung</li>
+                      <li>Exklusiv für Messekontakte hervorgehoben</li>
+                    </ul>
+                  </div>
+                  <a
+                    class="btn btn-primary"
+                    href="mailto:natalia@eskina.com?subject=EStyle%20Betatest%20Hannover%20Messe%202026&body=Hallo%20ESKYNA%2C%0A%0Aich%20m%C3%B6chte%20mich%20gerne%20f%C3%BCr%20den%20EStyle-Betatest%20im%20Rahmen%20der%20Hannover%20Messe%202026%20eintragen.%0A%0AViele%20Gr%C3%BC%C3%9Fe"
+                    >Jetzt eintragen</a
+                  >
+                </article>
+
+                <article class="cta-card">
+                  <div>
+                    <span class="tag">Messespezial 03</span>
+                    <h4>Kostenloses 30 Minuten Erstgespräch buchen</h4>
+                    <p>
+                      Besprechen Sie Ihr Ergebnis direkt persönlich und erfahren Sie, wie
+                      Stilberatung für Sie konkret aussehen kann.
+                    </p>
+                    <ul>
+                      <li>Persönlicher Einstieg statt allgemeiner Tipps</li>
+                      <li>Besonders wertvoll bei echtem Beratungsinteresse</li>
+                      <li>Hochwertiger nächster Schritt nach dem Test</li>
+                    </ul>
+                  </div>
+                  <a
+                    class="btn btn-secondary"
+                    href="https://calendar.google.com/appointments/schedules/AcZssZ0Zto6z33xcRMUJ1w9lIvMZjciiR3tsA-4zyxJbjYb392QYbGzgYWJIR2wOVSaSNr-H60wiiKxE"
+                    target="_blank"
+                    rel="noopener"
+                    >Erstgespräch buchen</a
+                  >
+                </article>
+              </div>
+
+              <p class="footer-note">
+                Die finalen Typbeschreibungen für Romantic Chic, Sport Chic, Business Chic, Dramatic
+                Chic und Casual Chic können später problemlos noch verfeinert werden.
+              </p>
+            </div>
+
+            <div class="male-panel hidden" id="malePanel">
+              <span class="section-eyebrow">Männer-Stiltest</span>
+              <h3>Die Männer-Version wird als nächstes freigeschaltet.</h3>
+              <p>
+                Die Seitenlogik ist bereits vorbereitet. Sobald die Fragen vorliegen, startet hier
+                derselbe fokussierte Test mit Zwischenfeedback, Haupttyp und Nebentypen.
+              </p>
+              <div class="result-box">
+                <strong style="display: block; font-size: 1.1rem; margin-bottom: 8px"
+                  >Bis dahin können Sie die Messevorteile schon jetzt nutzen.</strong
+                >
+                <p>
+                  Sie können sich die 10 Stiltipps sichern, Ihr Interesse am EStyle Betatest
+                  vormerken oder direkt ein kostenloses Erstgespräch buchen.
+                </p>
+              </div>
+              <div class="hero-actions" style="margin-top: auto; margin-bottom: 0">
+                <a
+                  class="btn btn-secondary"
+                  href="https://eskyna.com/10_Styling_Tipps.pdf"
+                  target="_blank"
+                  rel="noopener"
+                  >10 Stiltipps als PDF</a
+                >
+                <a
+                  class="btn btn-primary"
+                  href="mailto:natalia@eskina.com?subject=Interesse%20am%20M%C3%A4nner-Stiltest%20Hannover%20Messe%202026"
+                  >Interesse vormerken</a
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <script>
+      const TYPE_PROFILES = {
+        dramatic: {
+          label: "Dramatic Chic",
+          short: "Starke Kontraste, markante Akzente und eine präsente Wirkung.",
+          insight: "Sie setzen gerne klare Signale und mögen Looks mit Charakter.",
+          vibe: "präsent, mutig, ausdrucksstark",
+        },
+        business: {
+          label: "Business Chic",
+          short: "Klassische Linien, Qualität und ein souveräner Gesamtauftritt.",
+          insight: "Sie mögen Klarheit, Struktur und Kleidung mit professioneller Wirkung.",
+          vibe: "stilvoll, fokussiert, vertrauensstark",
+        },
+        romantic: {
+          label: "Romantic Chic",
+          short: "Fließende Formen, weiche Nuancen und feminine Details.",
+          insight: "Sie fühlen sich in sanften, warmen und liebevoll komponierten Looks zuhause.",
+          vibe: "feinfühlig, weich, elegant",
+        },
+        casual: {
+          label: "Casual Chic",
+          short: "Natürliche Balance, Alltagstauglichkeit und entspannte Stimmigkeit.",
+          insight:
+            "Sie bevorzugen harmonische Kombinationen, die sicher und unkompliziert funktionieren.",
+          vibe: "authentisch, geerdet, sympathisch",
+        },
+        sport: {
+          label: "Sport Chic",
+          short: "Komfort, Beweglichkeit und cleane Dynamik in einem modernen Stilbild.",
+          insight: "Sie schätzen Funktion, Leichtigkeit und unkomplizierte Kombinierbarkeit.",
+          vibe: "aktiv, klar, flexibel",
+        },
+      };
+
+      const FEMALE_QUESTIONS = [
+        {
+          text: "Was inspiriert Sie am stärksten für Ihr Styling?",
+          options: [
+            { text: "Modenschauen, Pinterest und starke Persönlichkeiten", type: "dramatic" },
+            { text: "Hochwertige Labels und souveräne Business-Looks", type: "business" },
+            { text: "Vintage-Looks, florale Designs und feminine Ästhetik", type: "romantic" },
+            { text: "Natur, Nachhaltigkeit und alltagstaugliche Outfits", type: "casual" },
+            { text: "Streetstyle, Athleisure und funktionale Kombinationen", type: "sport" },
+          ],
+        },
+        {
+          text: "Welcher Satz beschreibt Sie am ehesten?",
+          options: [
+            { text: "Ich liebe es, aufzufallen und Akzente zu setzen", type: "dramatic" },
+            { text: "Ich möchte professionell und stilvoll wirken", type: "business" },
+            { text: "Ich möchte meine Weiblichkeit unterstreichen", type: "romantic" },
+            { text: "Ich möchte mich jeden Tag wohlfühlen und gut angezogen sein", type: "casual" },
+            { text: "Ich brauche Looks, die sich meinem Alltag flexibel anpassen", type: "sport" },
+          ],
+        },
+        {
+          text: "Wie sieht Ihr Lieblingsoutfit aus?",
+          options: [
+            {
+              text: "Ein auffälliges Kleid oder ein stilvoller Look mit Wow-Effekt",
+              type: "dramatic",
+            },
+            { text: "Blazer mit Stoffhose oder Rock - hochwertig und reduziert", type: "business" },
+            { text: "Ein fließendes Kleid mit sanfter Silhouette", type: "romantic" },
+            { text: "Jeans, Pullover und Mantel - unkompliziert und stimmig", type: "casual" },
+            { text: "Shirt, Sneakers und ein bequemer, moderner Alltagslook", type: "sport" },
+          ],
+        },
+        {
+          text: "Wie gestalten Sie Ihr Make-up am liebsten?",
+          options: [
+            { text: "Markante Augen oder Lippen - gerne mit mutigen Akzenten", type: "dramatic" },
+            { text: "Dezent, edel und sauber ausgearbeitet", type: "business" },
+            { text: "Rosige Töne und weiche, feminine Wirkung", type: "romantic" },
+            { text: "Sehr natürlich und fast unsichtbar", type: "casual" },
+            { text: "Nur Basics oder lieber ganz ohne Aufwand", type: "sport" },
+          ],
+        },
+        {
+          text: "Welche Farben tragen Sie besonders gern im Alltag?",
+          options: [
+            { text: "Kräftige Kontraste wie Schwarz-Weiß oder Rot-Weiß", type: "dramatic" },
+            { text: "Klassische Töne wie Beige, Marine, Grau oder Off-White", type: "business" },
+            { text: "Puder, Pastell und zarte feminine Nuancen", type: "romantic" },
+            { text: "Naturtöne wie Camel, Sand, Oliv oder Denim", type: "casual" },
+            { text: "Klare, frische Farben wie Blau, Weiß oder Schwarz", type: "sport" },
+          ],
+        },
+        {
+          text: "Welche Schuhe greifen Sie spontan am häufigsten?",
+          options: [
+            {
+              text: "Absatzschuhe oder besondere Designs mit Statement-Charakter",
+              type: "dramatic",
+            },
+            { text: "Loafer, klassische Pumps oder elegante Lederschuhe", type: "business" },
+            { text: "Ballerinas oder feminine Sandalen", type: "romantic" },
+            { text: "Boots oder schlichte, vielseitige Schuhe", type: "casual" },
+            { text: "Sneaker oder sportliche Flats", type: "sport" },
+          ],
+        },
+        {
+          text: "Welche Accessoires passen am besten zu Ihnen?",
+          options: [
+            { text: "Statement-Schmuck, große Taschen und auffällige Details", type: "dramatic" },
+            {
+              text: "Eine elegante Uhr, dezenter Schmuck und klassische Taschen",
+              type: "business",
+            },
+            { text: "Zarte Ohrringe, Schleifen und verspielte Akzente", type: "romantic" },
+            { text: "Schlichte Schmuckstücke, Leder und Naturmaterialien", type: "casual" },
+            { text: "Caps, Rucksäcke oder funktionale Accessoires", type: "sport" },
+          ],
+        },
+        {
+          text: "Was findet sich in Ihrem Kleiderschrank besonders oft?",
+          options: [
+            { text: "Extravagante Teile mit besonderen Schnitten", type: "dramatic" },
+            { text: "Blusen, Stoffhosen und verlässliche Business-Basics", type: "business" },
+            { text: "Kleider, Spitze und fließende Stoffe", type: "romantic" },
+            { text: "Jeans, Strick und Layering-Teile", type: "casual" },
+            { text: "Hoodies, Shirts, Leggings oder cleane Sportswear", type: "sport" },
+          ],
+        },
+        {
+          text: "Worauf legen Sie bei Kleidung den größten Wert?",
+          options: [
+            { text: "Auf Ausdruck und starke Präsenz", type: "dramatic" },
+            { text: "Auf Qualität, Eleganz und Souveränität", type: "business" },
+            { text: "Auf Weiblichkeit, Leichtigkeit und weiche Wirkung", type: "romantic" },
+            { text: "Auf Alltagstauglichkeit und Harmonie", type: "casual" },
+            { text: "Auf Funktionalität und Bewegungsfreiheit", type: "sport" },
+          ],
+        },
+        {
+          text: "Wie würden Sie Ihre Ausstrahlung spontan beschreiben?",
+          options: [
+            { text: "Selbstbewusst und präsent", type: "dramatic" },
+            { text: "Souverän und stilvoll", type: "business" },
+            { text: "Warm, weich und verträumt", type: "romantic" },
+            { text: "Gelassen und bodenständig", type: "casual" },
+            { text: "Aktiv und unkompliziert", type: "sport" },
+          ],
+        },
+      ];
+
+      const FEEDBACK_STEPS = {
+        2: {
+          title: "Ihr Stilkompass zeigt bereits eine erste Richtung.",
+          intro:
+            "Schon jetzt wird sichtbar, ob Sie eher über Wirkung, Klarheit, Weichheit, Balance oder Dynamik in Ihren Stil finden.",
+        },
+        5: {
+          title: "Jetzt zeigt sich, wie Sie Stil im Alltag leben.",
+          intro:
+            "In der Mitte des Tests wird klarer, worauf Sie bei Kleidung und Ausstrahlung am meisten Wert legen.",
+        },
+        8: {
+          title: "Ihr Stilprofil wird jetzt sehr präzise.",
+          intro:
+            "Die Grundrichtung steht bereits. Haupttyp und spannende Nebentypen sind schon deutlich erkennbar.",
+        },
+      };
+
+      let selectedGender = "female";
+      let currentQuestion = 0;
+      let currentSelection = new Set();
+      let answers = Array.from({ length: FEMALE_QUESTIONS.length }, () => []);
+      let shownFeedbackFor = new Set();
+
+      const genderPanel = document.getElementById("genderPanel");
+      const startQuizBtn = document.getElementById("startQuizBtn");
+      const genderChoices = document.querySelectorAll(".gender-choice");
+      const questionMeta = document.getElementById("questionMeta");
+      const questionTitle = document.getElementById("questionTitle");
+      const optionsWrap = document.getElementById("options");
+      const progressFill = document.getElementById("progressFill");
+      const selectionCount = document.getElementById("selectionCount");
+      const backBtn = document.getElementById("backBtn");
+      const nextBtn = document.getElementById("nextBtn");
+      const quizPanel = document.getElementById("quizPanel");
+      const feedbackPanel = document.getElementById("feedbackPanel");
+      const resultPanel = document.getElementById("resultPanel");
+      const malePanel = document.getElementById("malePanel");
+      const feedbackTitle = document.getElementById("feedbackTitle");
+      const feedbackText = document.getElementById("feedbackText");
+      const feedbackHighlight = document.getElementById("feedbackHighlight");
+      const feedbackContinue = document.getElementById("feedbackContinue");
+      const resultTitle = document.getElementById("resultTitle");
+      const resultIntro = document.getElementById("resultIntro");
+      const resultHighlight = document.getElementById("resultHighlight");
+      const resultBars = document.getElementById("resultBars");
+      const mixRow = document.getElementById("mixRow");
+      const genderNote = document.getElementById("genderNote");
+
+      function scrollToPanel(panel) {
+        requestAnimationFrame(() => {
+          panel.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
+      }
+
+      function computeScores(limit = FEMALE_QUESTIONS.length) {
+        const scores = { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
+        answers.slice(0, limit).forEach((questionAnswers) => {
+          questionAnswers.forEach((type) => {
+            scores[type] += 1;
+          });
+        });
+        return scores;
+      }
+
+      function sortedTypes(limit = FEMALE_QUESTIONS.length) {
+        const scores = computeScores(limit);
+        return Object.entries(scores)
+          .sort((a, b) => b[1] - a[1])
+          .map(([key, score]) => ({ key, score, profile: TYPE_PROFILES[key] }));
+      }
+
+      function updateSelectionCount() {
+        const count = currentSelection.size;
+        selectionCount.textContent =
+          count === 1 ? "1 Antwort ausgewählt" : `${count} Antworten ausgewählt`;
+        nextBtn.disabled = count === 0;
+        nextBtn.style.opacity = count === 0 ? "0.55" : "1";
+        nextBtn.style.cursor = count === 0 ? "not-allowed" : "pointer";
+      }
+
+      function showPanel(panel) {
+        [quizPanel, feedbackPanel, resultPanel, malePanel].forEach((item) =>
+          item.classList.add("hidden")
+        );
+        panel.classList.remove("hidden");
+        scrollToPanel(panel);
+      }
+
+      function renderQuestion() {
+        if (selectedGender !== "female") return;
+
+        const q = FEMALE_QUESTIONS[currentQuestion];
+        currentSelection = new Set(
+          answers[currentQuestion].map(
+            (type, index) =>
+              `${type}-${index}-${answers[currentQuestion].slice(0, index).filter((t) => t === type).length}`
+          )
+        );
+
+        questionMeta.textContent = `Frage ${currentQuestion + 1} von ${FEMALE_QUESTIONS.length}`;
+        questionTitle.textContent = q.text;
+        progressFill.style.width = `${((currentQuestion + 1) / FEMALE_QUESTIONS.length) * 100}%`;
+        backBtn.disabled = currentQuestion === 0;
+        backBtn.style.opacity = currentQuestion === 0 ? "0.45" : "1";
+        backBtn.style.cursor = currentQuestion === 0 ? "not-allowed" : "pointer";
+
+        optionsWrap.innerHTML = "";
+        q.options.forEach((option, index) => {
+          const selected = answers[currentQuestion].includes(option.type + "|" + index);
+          const card = document.createElement("button");
+          card.type = "button";
+          card.className = `option-card${selected ? " selected" : ""}`;
+          card.innerHTML = `
+          <span class="option-check">✓</span>
+          <span class="option-copy">${option.text}</span>
+        `;
+          card.addEventListener("click", () => {
+            const key = option.type + "|" + index;
+            const nextAnswers = new Set(answers[currentQuestion]);
+            if (nextAnswers.has(key)) {
+              nextAnswers.delete(key);
+            } else {
+              nextAnswers.add(key);
+            }
+            answers[currentQuestion] = Array.from(nextAnswers);
+            renderQuestion();
+          });
+          optionsWrap.appendChild(card);
+        });
+
+        currentSelection = new Set(answers[currentQuestion]);
+        updateSelectionCount();
+        showPanel(quizPanel);
+      }
+
+      function showFeedback(answeredCount) {
+        const stepConfig = FEEDBACK_STEPS[answeredCount];
+        const ranking = sortedTypes(answeredCount);
+        const primary = ranking[0];
+        const secondary = ranking[1];
+
+        feedbackTitle.textContent = stepConfig.title;
+        feedbackText.textContent = stepConfig.intro;
+        feedbackHighlight.innerHTML = `
+        <div class="feedback-box">
+          <strong style="display:block;font-size:1.15rem;margin-bottom:8px;">Aktuell besonders stark: ${primary.profile.label}</strong>
+          <p>${primary.profile.insight}</p>
+        </div>
+        <div class="feedback-box">
+          <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">Spannende zweite Tendenz: ${secondary.profile.label}</strong>
+          <p>Diese zweite Richtung gibt Ihrem Stilprofil Tiefe und zeigt, welche Mischung Sie besonders interessant macht.</p>
+          <div class="mix-row">
+            <span class="mix-chip">${primary.profile.label}</span>
+            <span class="mix-chip">${secondary.profile.label}</span>
+          </div>
+        </div>
+      `;
+
+        showPanel(feedbackPanel);
+      }
+
+      function showResult() {
+        const ranking = sortedTypes(FEMALE_QUESTIONS.length);
+        const primary = ranking[0];
+        const sideTypes = ranking.slice(1, 3);
+        const total = ranking.reduce((sum, item) => sum + item.score, 0) || 1;
+
+        resultTitle.textContent = `Ihr Haupttyp: ${primary.profile.label}`;
+        resultIntro.textContent = `Ihr Ergebnis zeigt keinen starren Einzeltyp, sondern einen persönlichen Stil-Mix. Am stärksten prägt ${primary.profile.label} Ihr Profil, dazu kommen weitere Nuancen, die Ihren Stil individuell machen.`;
+
+        resultHighlight.innerHTML = `
+        <div class="result-box">
+          <strong style="display:block;font-size:1.2rem;margin-bottom:8px;">${primary.profile.label}</strong>
+          <p>${primary.profile.short}</p>
+          <div class="mix-row">
+            <span class="mix-chip">Wirkung: ${primary.profile.vibe}</span>
+          </div>
+        </div>
+        <div class="result-box">
+          <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">Ihre Nebentypen</strong>
+          <p>${sideTypes.map((item) => item.profile.label).join(" und ")} geben Ihrem Stilprofil weitere Tiefe und machen Ihre Garderobe vielseitiger.</p>
+          <div class="mix-row">
+            ${sideTypes.map((item) => `<span class="mix-chip">${item.profile.label}</span>`).join("")}
+          </div>
+        </div>
+      `;
+
+        resultBars.innerHTML = ranking
+          .map((item) => {
+            const percent = Math.round((item.score / total) * 100);
+            return `
+          <div class="bar-row">
+            <div class="bar-label">${item.profile.label}</div>
+            <div class="bar-track"><div class="bar-fill" style="width:${percent}%;"></div></div>
+            <div style="font-weight:700;color:var(--accent-dark);">${percent}%</div>
+          </div>
+        `;
+          })
+          .join("");
+
+        mixRow.innerHTML = `
+        <span class="mix-chip">Haupttyp: ${primary.profile.label}</span>
+        ${sideTypes.map((item) => `<span class="mix-chip">Nebentyp: ${item.profile.label}</span>`).join("")}
+      `;
+
+        progressFill.style.width = "100%";
+        showPanel(resultPanel);
+      }
+
+      function normalizeAnswersForScore(limit) {
+        return answers
+          .slice(0, limit)
+          .map((questionAnswers) => questionAnswers.map((item) => item.split("|")[0]));
+      }
+
+      function computeScores(limit = FEMALE_QUESTIONS.length) {
+        const scores = { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
+        normalizeAnswersForScore(limit).forEach((questionAnswers) => {
+          questionAnswers.forEach((type) => {
+            scores[type] += 1;
+          });
+        });
+        return scores;
+      }
+
+      function goNext() {
+        if (answers[currentQuestion].length === 0) return;
+        const answeredCount = currentQuestion + 1;
+
+        if (FEEDBACK_STEPS[answeredCount] && !shownFeedbackFor.has(answeredCount)) {
+          shownFeedbackFor.add(answeredCount);
+          showFeedback(answeredCount);
+          return;
+        }
+
+        if (currentQuestion >= FEMALE_QUESTIONS.length - 1) {
+          showResult();
+          return;
+        }
+
+        currentQuestion += 1;
+        renderQuestion();
+      }
+
+      function goBack() {
+        if (currentQuestion === 0) {
+          genderPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+          return;
+        }
+        currentQuestion -= 1;
+        renderQuestion();
+      }
+
+      function startFemaleQuiz() {
+        selectedGender = "female";
+        genderChoices.forEach((item) =>
+          item.classList.toggle("active", item.dataset.gender === "female")
+        );
+        genderNote.textContent =
+          "Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind möglich und geben ein differenzierteres Stilbild.";
+        renderQuestion();
+      }
+
+      genderChoices.forEach((choice) => {
+        choice.addEventListener("click", () => {
+          selectedGender = choice.dataset.gender;
+          genderChoices.forEach((item) => item.classList.toggle("active", item === choice));
+
+          if (selectedGender === "female") {
+            genderNote.textContent =
+              "Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind möglich und geben ein differenzierteres Stilbild.";
+            startQuizBtn.textContent = "Frauen-Stiltest starten";
+          } else {
+            genderNote.textContent =
+              "Der Männer-Test ist strukturell vorbereitet und wird nach Lieferung der Fragen mit derselben Logik freigeschaltet.";
+            startQuizBtn.textContent = "Infos für Männer ansehen";
+          }
+        });
+      });
+
+      startQuizBtn.addEventListener("click", () => {
+        if (selectedGender === "female") {
+          startFemaleQuiz();
+        } else {
+          showPanel(malePanel);
+        }
+      });
+
+      nextBtn.addEventListener("click", goNext);
+      backBtn.addEventListener("click", goBack);
+      feedbackContinue.addEventListener("click", () => {
+        if (currentQuestion >= FEMALE_QUESTIONS.length - 1) {
+          showResult();
+        } else {
+          currentQuestion += 1;
+          renderQuestion();
+        }
+      });
+    </script>
+  </body>
+</html>

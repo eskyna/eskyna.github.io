@@ -27,7 +27,7 @@ body {
   background-color: #f6f1ea;
   background-image:
     linear-gradient(rgb(255 255 255 / 72%), rgb(255 255 255 / 72%)),
-    url('/images/linen-texture-light.png');
+    url("/images/linen-texture-light.png");
   background-repeat: repeat;
   background-size: 420px 420px;
   background-attachment: fixed;
@@ -111,8 +111,13 @@ a:hover {
   position: relative;
   overflow: hidden;
   background-image:
-    linear-gradient(to right, rgb(44 30 22 / 72%) 0%, rgb(44 30 22 / 28%) 55%, rgb(44 30 22 / 08%) 100%),
-    url('/images/NataliaBackground.png');
+    linear-gradient(
+      to right,
+      rgb(44 30 22 / 72%) 0%,
+      rgb(44 30 22 / 28%) 55%,
+      rgb(44 30 22 / 08%) 100%
+    ),
+    url("/images/NataliaBackground.png");
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
@@ -208,7 +213,9 @@ h2 {
   line-height: 1;
   white-space: nowrap;
   text-align: center;
-  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    background-color 0.2s ease,
+    box-shadow 0.2s ease;
   background-color: var(--accent);
 }
 
@@ -1274,8 +1281,18 @@ h2 {
     z-index: 2;
     pointer-events: none;
     background:
-      linear-gradient(180deg, rgb(44 30 22 / 34%) 0%, rgb(44 30 22 / 18%) 38%, rgb(44 30 22 / 42%) 100%),
-      linear-gradient(90deg, rgb(44 30 22 / 78%) 0%, rgb(44 30 22 / 56%) 42%, rgb(44 30 22 / 12%) 100%);
+      linear-gradient(
+        180deg,
+        rgb(44 30 22 / 34%) 0%,
+        rgb(44 30 22 / 18%) 38%,
+        rgb(44 30 22 / 42%) 100%
+      ),
+      linear-gradient(
+        90deg,
+        rgb(44 30 22 / 78%) 0%,
+        rgb(44 30 22 / 56%) 42%,
+        rgb(44 30 22 / 12%) 100%
+      );
   }
 
   .testimonial-inner {
@@ -1313,8 +1330,13 @@ h2 {
     min-height: 720px;
     padding: 2rem 0 0;
     background-image:
-      linear-gradient(180deg, rgb(44 30 22 / 86%) 0%, rgb(44 30 22 / 68%) 36%, rgb(44 30 22 / 54%) 100%),
-      url('/images/NataliaBackground.png');
+      linear-gradient(
+        180deg,
+        rgb(44 30 22 / 86%) 0%,
+        rgb(44 30 22 / 68%) 36%,
+        rgb(44 30 22 / 54%) 100%
+      ),
+      url("/images/NataliaBackground.png");
     background-position: 62% center;
   }
 
@@ -1355,8 +1377,18 @@ h2 {
   .hero::after {
     background:
       radial-gradient(circle at 28% 26%, rgb(44 30 22 / 16%), transparent 32%),
-      linear-gradient(180deg, rgb(44 30 22 / 18%) 0%, rgb(44 30 22 / 08%) 34%, rgb(44 30 22 / 30%) 100%),
-      linear-gradient(90deg, rgb(44 30 22 / 84%) 0%, rgb(44 30 22 / 62%) 48%, rgb(44 30 22 / 12%) 100%);
+      linear-gradient(
+        180deg,
+        rgb(44 30 22 / 18%) 0%,
+        rgb(44 30 22 / 08%) 34%,
+        rgb(44 30 22 / 30%) 100%
+      ),
+      linear-gradient(
+        90deg,
+        rgb(44 30 22 / 84%) 0%,
+        rgb(44 30 22 / 62%) 48%,
+        rgb(44 30 22 / 12%) 100%
+      );
   }
 }
 
