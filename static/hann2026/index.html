@@ -560,7 +560,8 @@
         border-radius: 24px;
         padding: 18px 20px;
         display: flex;
-        align-items: flex-start;
+        flex-direction: column;
+        align-items: stretch;
         gap: 14px;
         cursor: pointer;
         text-align: left;
@@ -601,6 +602,15 @@
         font-size: 1.05rem;
         line-height: 1.45;
         color: var(--text);
+      }
+
+      .option-image {
+        width: 100%;
+        max-width: 260px;
+        height: auto;
+        border-radius: 12px;
+        margin-bottom: 10px;
+        display: block;
       }
 
       .quiz-footer {
@@ -1196,6 +1206,20 @@
         },
       };
 
+      // Image mappings for style test answers
+      const ANSWER_IMAGES = [
+        ["q1a1_kraeftige_kontraste.png", "q1a2_klassisch_elegant.png", "q1a3_zart_feminin.png", "q1a4_naturtoene.png", "q1a5_klare_farben.png"],
+        ["q2a1_stylischer_anzug_oder_auffaelliges_kleid.png", "q2a2_blazer_mit_stoffhose_oder_bleistiftrock.png", "q2a3_fliessendes_kleid_oder_rock.png", "q2a4_jeans_pullover_mantel.png", "q2a5_bequemes_shirt_jogginghose_hoodie.png"],
+        ["q3a1_statement_schmuck_grosse_taschen.png", "q3a2_dezente_kette_elegante_uhr_klassische_tasche.png", "q3a3_zarte_ohrringe_schleifen.png", "q3a4_schlichte_ohrringe_ledertasche_naturmaterialien.png", "q3a5_funktionale_rucksaecke_cappy_sneaker.png"],
+        ["q4a1_ausdruck_praesenz.png", "q4a2_qualitaet_eleganz.png", "q4a3_weiblichkeit_romantik.png", "q4a4_bequemlichkeit_alltagstauglichkeit.png", "q4a5_funktionalitaet_bewegungsfreiheit.png"],
+        ["q5a1_markante_augen_oder_lippen.png", "q5a2_dezent_edel.png", "q5a3_rosige_toene_sanftes_augen_makeup.png", "q5a4_natuerlich_kaum_sichtbar.png", "q5a5_kein_makeup_oder_nur_basics.png"],
+        ["q6a1_absatzschuhe_ausgefallene_designs.png", "q6a2_loafer_oder_klassische_pumps.png", "q6a3_ballerinas_oder_feminine_sandalen.png", "q6a4_boots_oder_schlichte_lederschuhe.png", "q6a5_sneaker_sportliche_flats.png"],
+        ["q7a1_extravagante_stuecke_besondere_schnitte.png", "q7a2_blusen_stoffhosen_business_basics.png", "q7a3_kleider_fliessende_stoffe_spitze.png", "q7a4_jeans_strick_layering_teile.png", "q7a5_hoodies_tshirts_sportleggings.png"],
+        ["q8a1_selbstbewusst_praesent.png", "q8a2_souveraen_stilvoll.png", "q8a3_warm_vertraeumt.png", "q8a4_gelassen_bodenstaendig.png", "q8a5_aktiv_unkompliziert.png"],
+        ["q9a1_modenschauen_pinterest_starke_persoenlichkeiten.png", "q9a2_hochwertige_labels_business_influencerinnen.png", "q9a3_vintage_looks_florale_designs_feminine_aesthetik.png", "q9a4_natur_nachhaltigkeit_alltag.png", "q9a5_funktionalitaet_streetstyle_athleisure.png"],
+        ["q10a1_ich_liebe_es_aufzufallen.png", "q10a2_ich_moechte_professionell_und_stilvoll_wirken.png", "q10a3_ich_will_meine_weiblichkeit_unterstreichen.png", "q10a4_ich_moechte_mich_wohlfuehlen_jeden_tag.png", "q10a5_ich_brauche_looks_die_zu_meinem_alltag_passen.png"],
+      ];
+
       const FEMALE_QUESTIONS = [
         {
           text: "Was inspiriert Sie am stärksten für Ihr Styling?",
@@ -1308,6 +1332,140 @@
         },
       ];
 
+      const MALE_TYPE_PROFILES = {
+        SC: {
+          label: "Smart Classic",
+          short: "Qualität, Klarheit und souveräner Auftritt. Dein Stil wirkt gepflegt, erwachsen und hochwertig.",
+          insight: "Du setzt auf Qualität, Klarheit und einen souveränen Auftritt. Dein Stil wirkt gepflegt, erwachsen und hochwertig.",
+          vibe: "kompetent, ruhig, stilvoll",
+        },
+        CM: {
+          label: "Casual Modern",
+          short: "Entspannte Looks mit Stil. Nichts ist zu steif, aber alles wirkt bewusst gewählt und harmonisch.",
+          insight: "Du magst entspannte Looks mit Stil. Nichts ist zu steif, aber alles wirkt bewusst gewählt und harmonisch.",
+          vibe: "nahbar, modern, souverän entspannt",
+        },
+        SP: {
+          label: "Sporty Clean",
+          short: "Komfort und moderne Klarheit. Dein Stil ist funktional, aktiv und unkompliziert.",
+          insight: "Du verbindest Komfort mit moderner Klarheit. Dein Stil ist funktional, aktiv und unkompliziert.",
+          vibe: "dynamisch, flexibel, frisch",
+        },
+        US: {
+          label: "Urban Statement",
+          short: "Mode bewusst nutzen, um Präsenz zu zeigen. Dein Stil ist markant, zeitgemäß und individuell.",
+          insight: "Du nutzt Mode bewusst, um Präsenz zu zeigen. Dein Stil ist markant, zeitgemäß und individuell.",
+          vibe: "selbstbewusst, kreativ, auffällig stilvoll",
+        },
+      };
+
+      // Image mappings for male style test answers (to be added with image generation)
+      const MALE_ANSWER_IMAGES = [
+        [], // Placeholder for male question 1
+        [], // Placeholder for male question 2
+        [], // Placeholder for male question 3
+        [], // Placeholder for male question 4
+        [], // Placeholder for male question 5
+        [], // Placeholder for male question 6
+        [], // Placeholder for male question 7
+        [], // Placeholder for male question 8
+        [], // Placeholder for male question 9
+        [], // Placeholder for male question 10
+      ];
+
+      const MALE_QUESTIONS = [
+        {
+          text: "Welche Farben trägst du am liebsten?",
+          options: [
+            { text: "Dunkelblau, Grau, Weiß, Beige", type: "SC" },
+            { text: "Oliv, Denim, Off-White, Braun", type: "CM" },
+            { text: "Schwarz, Weiß, technische Neutrals", type: "SP" },
+            { text: "Kontraste, tiefe Töne oder markante Akzentfarben", type: "US" },
+          ],
+        },
+        {
+          text: "Welches Outfit greifst du am häufigsten?",
+          options: [
+            { text: "Hemd oder Polo mit Chino oder gepflegter Hose", type: "SC" },
+            { text: "T-Shirt, Overshirt, Jeans oder lockere Stoffhose", type: "CM" },
+            { text: "Hoodie, Funktionsjacke, Jogger oder sportive Basics", type: "SP" },
+            { text: "Oversized Shirt, besondere Jacke, markante Sneaker oder trendige Pieces", type: "US" },
+          ],
+        },
+        {
+          text: "Worauf achtest du bei Kleidung am meisten?",
+          options: [
+            { text: "Qualität und ein gepflegter Eindruck", type: "SC" },
+            { text: "Vielseitigkeit und Alltagstauglichkeit", type: "CM" },
+            { text: "Komfort und Bewegungsfreiheit", type: "SP" },
+            { text: "Wirkung und Persönlichkeit", type: "US" },
+          ],
+        },
+        {
+          text: "Welche Schuhe passen am besten zu dir?",
+          options: [
+            { text: "Loafer, Ledersneaker, Chelsea Boots", type: "SC" },
+            { text: "Weiße Sneaker, Desert Boots, schlichte Freizeitschuhe", type: "CM" },
+            { text: "Running-inspirierte Sneaker, Performance-Modelle, sportive Schuhe", type: "SP" },
+            { text: "Chunky Sneaker, markante Boots, auffällige Modelle", type: "US" },
+          ],
+        },
+        {
+          text: "Was findet sich in deinem Kleiderschrank besonders oft?",
+          options: [
+            { text: "Hemden, Poloshirts, Blazer, saubere Basics", type: "SC" },
+            { text: "Jeans, Overshirts, Strick, schlichte Jacken", type: "CM" },
+            { text: "Hoodies, Shorts, Funktionsmaterialien, Zipper", type: "SP" },
+            { text: "Statement-Jacken, trendige Denims, besondere Schnitte", type: "US" },
+          ],
+        },
+        {
+          text: "Welche Accessoires trägst du am ehesten?",
+          options: [
+            { text: "Hochwertige Uhr, Ledergürtel, elegante Tasche", type: "SC" },
+            { text: "Cap, schlichte Uhr, dezente Everyday-Accessoires", type: "CM" },
+            { text: "Sportuhr, Crossbody Bag, funktionale Pieces", type: "SP" },
+            { text: "Kette, Ring, markante Brille oder modische Tasche", type: "US" },
+          ],
+        },
+        {
+          text: "Wie möchtest du wirken?",
+          options: [
+            { text: "Souverän und gepflegt", type: "SC" },
+            { text: "Sympathisch und stilbewusst", type: "CM" },
+            { text: "Aktiv und unkompliziert", type: "SP" },
+            { text: "Selbstbewusst und modern", type: "US" },
+          ],
+        },
+        {
+          text: "Was inspiriert dich beim Styling?",
+          options: [
+            { text: "Zeitlose Herrenmode, hochwertige Marken, klassische Vorbilder", type: "SC" },
+            { text: "Alltag, gutes Design, cleane Casual-Looks", type: "CM" },
+            { text: "Sport, Performance, Athleisure, funktionale Outfits", type: "SP" },
+            { text: "Streetstyle, Trends, kreative Looks, Fashion Content", type: "US" },
+          ],
+        },
+        {
+          text: "Welche Jacke oder welcher Layer passt am besten zu dir?",
+          options: [
+            { text: "Blazer, Wollmantel, strukturierte Übergangsjacke", type: "SC" },
+            { text: "Overshirt, Bomberjacke, leichte Casual-Jacke", type: "CM" },
+            { text: "Steppweste, Funktionsjacke, sportive Layer", type: "SP" },
+            { text: "Lederjacke, Utility-Jacke, Statement-Outerwear", type: "US" },
+          ],
+        },
+        {
+          text: "Welcher Satz beschreibt dich am besten?",
+          options: [
+            { text: "Ich möchte gepflegt, sicher und hochwertig wirken", type: "SC" },
+            { text: "Ich möchte entspannt aussehen und trotzdem gut angezogen sein", type: "CM" },
+            { text: "Ich brauche Looks, die zu meinem aktiven Alltag passen", type: "SP" },
+            { text: "Ich möchte mit meinem Stil Persönlichkeit zeigen", type: "US" },
+          ],
+        },
+      ];
+
       const FEEDBACK_STEPS = {
         2: {
           title: "Ihr Stilkompass zeigt bereits eine erste Richtung.",
@@ -1323,6 +1481,24 @@
           title: "Ihr Stilprofil wird jetzt sehr präzise.",
           intro:
             "Die Grundrichtung steht bereits. Haupttyp und spannende Nebentypen sind schon deutlich erkennbar.",
+        },
+      };
+
+      const MALE_FEEDBACK_STEPS = {
+        2: {
+          title: "Du setzt schon klare Stil-Signale.",
+          intro:
+            "Im Moment zeigt sich, ob du eher auf gepflegte Klarheit, entspannte Modernität, sportliche Funktion oder markante Statements setzt.",
+        },
+        5: {
+          title: "Jetzt wird dein Stilprofil konkreter.",
+          intro:
+            "Nicht nur dein Geschmack, sondern auch dein Alltag und dein gewünschter Auftritt werden sichtbar.",
+        },
+        8: {
+          title: "Dein Ergebnis schärft sich.",
+          intro:
+            "Oft zeigt sich jetzt ein Haupttyp und ein ergänzender Zweitstil — genau daraus entstehen meist die stärksten Outfits.",
         },
       };
 
@@ -1363,21 +1539,45 @@
         });
       }
 
-      function computeScores(limit = FEMALE_QUESTIONS.length) {
-        const scores = { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
-        answers.slice(0, limit).forEach((questionAnswers) => {
+      function getQuestionsList() {
+        return selectedGender === "male" ? MALE_QUESTIONS : FEMALE_QUESTIONS;
+      }
+
+      function getTypeProfiles() {
+        return selectedGender === "male" ? MALE_TYPE_PROFILES : TYPE_PROFILES;
+      }
+
+      function getFeedbackSteps() {
+        return selectedGender === "male" ? MALE_FEEDBACK_STEPS : FEEDBACK_STEPS;
+      }
+
+      function getTypeCodes() {
+        return selectedGender === "male" ? ["SC", "CM", "SP", "US"] : ["dramatic", "business", "romantic", "casual", "sport"];
+      }
+
+      function computeScores(limit) {
+        const questions = getQuestionsList();
+        const defaults = selectedGender === "male" 
+          ? { SC: 0, CM: 0, SP: 0, US: 0 }
+          : { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
+        const scores = { ...defaults };
+        const actualLimit = limit || questions.length;
+        answers.slice(0, actualLimit).forEach((questionAnswers) => {
           questionAnswers.forEach((type) => {
-            scores[type] += 1;
+            const typeKey = type.split("|")[0];
+            if (typeKey in scores) scores[typeKey] += 1;
           });
         });
         return scores;
       }
 
-      function sortedTypes(limit = FEMALE_QUESTIONS.length) {
-        const scores = computeScores(limit);
+      function sortedTypes(limit) {
+        const questions = getQuestionsList();
+        const scores = computeScores(limit || questions.length);
+        const profiles = getTypeProfiles();
         return Object.entries(scores)
           .sort((a, b) => b[1] - a[1])
-          .map(([key, score]) => ({ key, score, profile: TYPE_PROFILES[key] }));
+          .map(([key, score]) => ({ key, score, profile: profiles[key] }));
       }
 
       function updateSelectionCount() {
@@ -1398,9 +1598,11 @@
       }
 
       function renderQuestion() {
-        if (selectedGender !== "female") return;
+        if (selectedGender !== "female" && selectedGender !== "male") return;
 
-        const q = FEMALE_QUESTIONS[currentQuestion];
+        const questions = getQuestionsList();
+        const answerImages = selectedGender === "male" ? MALE_ANSWER_IMAGES : ANSWER_IMAGES;
+        const q = questions[currentQuestion];
         currentSelection = new Set(
           answers[currentQuestion].map(
             (type, index) =>
@@ -1408,9 +1610,9 @@
           )
         );
 
-        questionMeta.textContent = `Frage ${currentQuestion + 1} von ${FEMALE_QUESTIONS.length}`;
+        questionMeta.textContent = `Frage ${currentQuestion + 1} von ${questions.length}`;
         questionTitle.textContent = q.text;
-        progressFill.style.width = `${((currentQuestion + 1) / FEMALE_QUESTIONS.length) * 100}%`;
+        progressFill.style.width = `${((currentQuestion + 1) / questions.length) * 100}%`;
         backBtn.disabled = currentQuestion === 0;
         backBtn.style.opacity = currentQuestion === 0 ? "0.45" : "1";
         backBtn.style.cursor = currentQuestion === 0 ? "not-allowed" : "pointer";
@@ -1421,9 +1623,14 @@
           const card = document.createElement("button");
           card.type = "button";
           card.className = `option-card${selected ? " selected" : ""}`;
+          const imageFilename = answerImages[currentQuestion] ? answerImages[currentQuestion][index] : null;
+          const imageHtml = imageFilename ? `<img src="/images/hann2026-answers/${imageFilename}" alt="${option.text}" class="option-image" loading="lazy" />` : "";
           card.innerHTML = `
-          <span class="option-check">✓</span>
-          <span class="option-copy">${option.text}</span>
+          ${imageHtml}
+          <div style="display: flex; align-items: flex-start; gap: 14px;">
+            <span class="option-check">✓</span>
+            <span class="option-copy">${option.text}</span>
+          </div>
         `;
           card.addEventListener("click", () => {
             const key = option.type + "|" + index;
@@ -1445,10 +1652,12 @@
       }
 
       function showFeedback(answeredCount) {
-        const stepConfig = FEEDBACK_STEPS[answeredCount];
+        const feedbackSteps = getFeedbackSteps();
+        const stepConfig = feedbackSteps[answeredCount];
         const ranking = sortedTypes(answeredCount);
         const primary = ranking[0];
         const secondary = ranking[1];
+        const isMale = selectedGender === "male";
 
         feedbackTitle.textContent = stepConfig.title;
         feedbackText.textContent = stepConfig.intro;
@@ -1459,7 +1668,7 @@
         </div>
         <div class="feedback-box">
           <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">Spannende zweite Tendenz: ${secondary.profile.label}</strong>
-          <p>Diese zweite Richtung gibt Ihrem Stilprofil Tiefe und zeigt, welche Mischung Sie besonders interessant macht.</p>
+          <p>${isMale ? "Diese zweite Richtung gibt deinem Stil Tiefe und zeigt, welche Mischung dich besonders interessant macht." : "Diese zweite Richtung gibt Ihrem Stilprofil Tiefe und zeigt, welche Mischung Sie besonders interessant macht."}</p>
           <div class="mix-row">
             <span class="mix-chip">${primary.profile.label}</span>
             <span class="mix-chip">${secondary.profile.label}</span>
@@ -1471,13 +1680,20 @@
       }
 
       function showResult() {
-        const ranking = sortedTypes(FEMALE_QUESTIONS.length);
+        const questions = getQuestionsList();
+        const ranking = sortedTypes(questions.length);
         const primary = ranking[0];
         const sideTypes = ranking.slice(1, 3);
         const total = ranking.reduce((sum, item) => sum + item.score, 0) || 1;
+        const isMale = selectedGender === "male";
+        const article = isMale ? "Dein" : "Ihr";
+        const articleLower = isMale ? "dein" : "Ihr";
+        const pronounPlural = isMale ? "Deine" : "Ihre";
 
-        resultTitle.textContent = `Ihr Haupttyp: ${primary.profile.label}`;
-        resultIntro.textContent = `Ihr Ergebnis zeigt keinen starren Einzeltyp, sondern einen persönlichen Stil-Mix. Am stärksten prägt ${primary.profile.label} Ihr Profil, dazu kommen weitere Nuancen, die Ihren Stil individuell machen.`;
+        resultTitle.textContent = `${article} Haupttyp: ${primary.profile.label}`;
+        resultIntro.textContent = isMale
+          ? `Dein Ergebnis zeigt keinen starren Einzeltyp, sondern einen persönlichen Stil-Mix. Am stärksten prägt ${primary.profile.label} dein Profil, dazu kommen weitere Nuancen, die deinen Stil individuell machen.`
+          : `Ihr Ergebnis zeigt keinen starren Einzeltyp, sondern einen persönlichen Stil-Mix. Am stärksten prägt ${primary.profile.label} Ihr Profil, dazu kommen weitere Nuancen, die Ihren Stil individuell machen.`;
 
         resultHighlight.innerHTML = `
         <div class="result-box">
@@ -1488,8 +1704,8 @@
           </div>
         </div>
         <div class="result-box">
-          <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">Ihre Nebentypen</strong>
-          <p>${sideTypes.map((item) => item.profile.label).join(" und ")} geben Ihrem Stilprofil weitere Tiefe und machen Ihre Garderobe vielseitiger.</p>
+          <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">${isMale ? "Deine Nebentypen" : "Ihre Nebentypen"}</strong>
+          <p>${sideTypes.map((item) => item.profile.label).join(" und ")} ${isMale ? "geben" : "geben"} ${articleLower}m Stilprofil weitere Tiefe und machen ${isMale ? "deinen" : "Ihren"} Stil vielseitiger.</p>
           <div class="mix-row">
             ${sideTypes.map((item) => `<span class="mix-chip">${item.profile.label}</span>`).join("")}
           </div>
@@ -1537,14 +1753,16 @@
       function goNext() {
         if (answers[currentQuestion].length === 0) return;
         const answeredCount = currentQuestion + 1;
+        const feedbackSteps = getFeedbackSteps();
+        const questions = getQuestionsList();
 
-        if (FEEDBACK_STEPS[answeredCount] && !shownFeedbackFor.has(answeredCount)) {
+        if (feedbackSteps[answeredCount] && !shownFeedbackFor.has(answeredCount)) {
           shownFeedbackFor.add(answeredCount);
           showFeedback(answeredCount);
           return;
         }
 
-        if (currentQuestion >= FEMALE_QUESTIONS.length - 1) {
+        if (currentQuestion >= questions.length - 1) {
           showResult();
           return;
         }
@@ -1562,6 +1780,15 @@
         renderQuestion();
       }
 
+      function startQuiz() {
+        const questions = getQuestionsList();
+        currentQuestion = 0;
+        currentSelection = new Set();
+        answers = Array.from({ length: questions.length }, () => []);
+        shownFeedbackFor = new Set();
+        renderQuestion();
+      }
+
       function startFemaleQuiz() {
         selectedGender = "female";
         genderChoices.forEach((item) =>
@@ -1569,7 +1796,17 @@
         );
         genderNote.textContent =
           "Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind möglich und geben ein differenzierteres Stilbild.";
-        renderQuestion();
+        startQuiz();
+      }
+
+      function startMaleQuiz() {
+        selectedGender = "male";
+        genderChoices.forEach((item) =>
+          item.classList.toggle("active", item.dataset.gender === "male")
+        );
+        genderNote.textContent =
+          "Los geht's mit dem Männer-Stiltest! Mehrere Antworten pro Frage sind möglich und zeigen deinen persönlichen Stil-Mix.";
+        startQuiz();
       }
 
       genderChoices.forEach((choice) => {
@@ -1583,8 +1820,8 @@
             startQuizBtn.textContent = "Frauen-Stiltest starten";
           } else {
             genderNote.textContent =
-              "Der Männer-Test ist strukturell vorbereitet und wird nach Lieferung der Fragen mit derselben Logik freigeschaltet.";
-            startQuizBtn.textContent = "Infos für Männer ansehen";
+              "Los geht's mit dem Männer-Stiltest! Mehrere Antworten pro Frage sind möglich und zeigen deinen persönlichen Stil-Mix.";
+            startQuizBtn.textContent = "Männer-Stiltest starten";
           }
         });
       });
@@ -1592,15 +1829,16 @@
       startQuizBtn.addEventListener("click", () => {
         if (selectedGender === "female") {
           startFemaleQuiz();
-        } else {
-          showPanel(malePanel);
+        } else if (selectedGender === "male") {
+          startMaleQuiz();
         }
       });
 
       nextBtn.addEventListener("click", goNext);
       backBtn.addEventListener("click", goBack);
       feedbackContinue.addEventListener("click", () => {
-        if (currentQuestion >= FEMALE_QUESTIONS.length - 1) {
+        const questions = getQuestionsList();
+        if (currentQuestion >= questions.length - 1) {
           showResult();
         } else {
           currentQuestion += 1;
