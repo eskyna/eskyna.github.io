@@ -458,13 +458,15 @@
       }
 
       .gender-choice {
-        appearance: none;
         border: 1px solid var(--line);
         border-radius: 24px;
         padding: 22px;
         background: rgba(255, 255, 255, 0.74);
         text-align: left;
-        cursor: pointer;
+        cursor: default;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
         transition:
           transform 0.2s ease,
           border-color 0.2s ease,
@@ -484,6 +486,13 @@
         font-size: 0.98rem;
       }
 
+      .gender-start-btn {
+        min-height: 46px;
+        padding: 0 18px;
+        font-size: 0.95rem;
+        align-self: flex-start;
+      }
+
       .gender-choice.active,
       .gender-choice:hover,
       .option-card:hover {
@@ -500,6 +509,54 @@
         border: 1px solid rgba(123, 90, 79, 0.08);
         color: var(--muted);
         font-size: 0.96rem;
+      }
+
+      .messe-benefits {
+        padding: 18px;
+      }
+
+      .messe-benefits-title {
+        display: block;
+        margin-bottom: 6px;
+        color: var(--accent-dark);
+        font-size: 1.02rem;
+      }
+
+      .messe-benefits-sub {
+        margin: 0 0 12px;
+        color: var(--muted);
+        font-size: 0.94rem;
+      }
+
+      .messe-benefits-list {
+        display: grid;
+        gap: 10px;
+      }
+
+      .messe-benefit-item {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        border-radius: 14px;
+        background: rgba(255, 255, 255, 0.94);
+        border: 1px solid rgba(123, 90, 79, 0.12);
+        color: var(--text);
+        font-weight: 600;
+      }
+
+      .messe-benefit-item .num {
+        width: 26px;
+        height: 26px;
+        border-radius: 999px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.8rem;
+        font-weight: 800;
+        color: #fff;
+        background: linear-gradient(135deg, var(--accent-dark), var(--gold));
+        flex: 0 0 auto;
       }
 
       .progress {
@@ -948,6 +1005,11 @@
                   <li>Sie kaufen gezielter statt unsicher oder doppelt.</li>
                   <li>Sie wirken stimmiger im Beruf, im Alltag und bei Events.</li>
                 </ul>
+                <p class="soft-copy" style="margin-top: 12px">
+                  Es geht nicht darum, Sie auf nur einen Stil festzulegen. Viele Frauen vereinen
+                  mehrere Facetten in sich - und genau das macht den eigenen Stil lebendig und
+                  individuell.
+                </p>
               </div>
 
               <div class="world-box">
@@ -974,35 +1036,50 @@
               </p>
 
               <div class="gender-grid" id="genderChoices">
-                <button class="gender-choice active" type="button" data-gender="female">
+                <div class="gender-choice active" data-gender="female">
                   <strong>Ich bin weiblich</strong>
                   <p>
                     Der Stiltest für Frauen startet sofort und führt Sie Schritt für Schritt zu
                     Ihrem Stilprofil.
                   </p>
-                </button>
-                <button class="gender-choice" type="button" data-gender="male">
+                  <button class="btn btn-primary gender-start-btn" type="button" data-gender="female">
+                    Stiltest starten
+                  </button>
+                </div>
+                <div class="gender-choice" data-gender="male">
                   <strong>Ich bin männlich</strong>
                   <p>
                     Die Männer-Version wird zeitnah freigeschaltet. Die Messe-Vorteile können Sie
                     trotzdem bereits nutzen.
                   </p>
-                </button>
+                  <button class="btn btn-primary gender-start-btn" type="button" data-gender="male">
+                    Stiltest starten
+                  </button>
+                </div>
               </div>
 
-              <div class="hero-actions" style="margin-top: auto; margin-bottom: 0">
-                <a class="btn btn-secondary" href="#messespecial">Zu den Messevorteilen</a>
+              <div class="note-box" id="genderNote">
+                Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind
+                möglich und geben ein differenzierteres Stilbild.
               </div>
 
-              <div id="messespecial" class="note-box" style="margin-top: 18px">
-                <strong style="display: block; margin-bottom: 8px; color: var(--accent-dark)">
-                  Ihre 3 Messevorteile nach dem Stiltest
-                </strong>
-                <ul style="margin: 0; padding-left: 18px">
-                  <li>10 Stiltipps als PDF herunterladen</li>
-                  <li>Für den EStyle Betatest eintragen</li>
-                  <li>Kostenloses 30 Minuten Erstgespräch buchen</li>
-                </ul>
+              <div id="messespecial" class="note-box messe-benefits" style="margin-top: 18px">
+                <strong class="messe-benefits-title">Ihre 3 Messevorteile nach dem Stiltest</strong>
+                <p class="messe-benefits-sub">Nach Ihrem Ergebnis wählen Sie den nächsten Schritt.</p>
+                <div class="messe-benefits-list">
+                  <div class="messe-benefit-item">
+                    <span class="num">01</span>
+                    <span>10 Stiltipps als PDF herunterladen</span>
+                  </div>
+                  <div class="messe-benefit-item">
+                    <span class="num">02</span>
+                    <span>Für den EStyle Betatest eintragen</span>
+                  </div>
+                  <div class="messe-benefit-item">
+                    <span class="num">03</span>
+                    <span>Kostenloses 30 Minuten Erstgespräch buchen</span>
+                  </div>
+                </div>
               </div>
             </div>
 
@@ -1129,11 +1206,6 @@
                   >
                 </article>
               </div>
-
-              <p class="footer-note">
-                Die finalen Typbeschreibungen für Romantic Chic, Sport Chic, Business Chic, Dramatic
-                Chic und Casual Chic können später problemlos noch verfeinert werden.
-              </p>
             </div>
 
             <div class="male-panel hidden" id="malePanel">
@@ -1176,34 +1248,38 @@
       const TYPE_PROFILES = {
         dramatic: {
           label: "Dramatic Chic",
-          short: "Starke Kontraste, markante Akzente und eine präsente Wirkung.",
-          insight: "Sie setzen gerne klare Signale und mögen Looks mit Charakter.",
-          vibe: "präsent, mutig, ausdrucksstark",
+          short:
+            "Du liebst Ausdruck und starke Akzente. Dein Stil ist kraftvoll, mutig und unvergesslich. Du willst auffallen - und das mit Absicht. Typisch für dich: Schwarz-Rot-Kontraste, Statement-Pieces, asymmetrische Schnitte, High Heels, Oversize-Blazer, Leder.",
+          insight: "Du liebst Ausdruck und starke Akzente.",
+          vibe: "charismatisch, selbstbewusst, unvergesslich",
         },
         business: {
           label: "Business Chic",
-          short: "Klassische Linien, Qualität und ein souveräner Gesamtauftritt.",
-          insight: "Sie mögen Klarheit, Struktur und Kleidung mit professioneller Wirkung.",
-          vibe: "stilvoll, fokussiert, vertrauensstark",
+          short:
+            "Klassik trifft Qualität: Dein Look ist zeitlos und professionell - ob im Meeting, beim Netzwerken oder im Alltag. Typisch für dich: Blazer, Stoffhosen, Bleistiftröcke, dezenter Schmuck, hochwertige Basics, gedeckte Farbtöne.",
+          insight: "Klassik trifft Qualität: Dein Look ist zeitlos und professionell.",
+          vibe: "souverän, organisiert, vertrauenswürdig",
         },
         romantic: {
           label: "Romantic Chic",
-          short: "Fließende Formen, weiche Nuancen und feminine Details.",
-          insight: "Sie fühlen sich in sanften, warmen und liebevoll komponierten Looks zuhause.",
-          vibe: "feinfühlig, weich, elegant",
+          short:
+            "Feminine Leichtigkeit pur: Dein Stil wirkt sanft, verspielt und elegant - perfekt für ästhetische Statements. Typisch für dich: Kleider mit Volants, florale Muster, Pastelltöne, zarte Materialien, Perlen- oder Schleifendetails.",
+          insight: "Feminine Leichtigkeit pur: Dein Stil wirkt sanft, verspielt und elegant.",
+          vibe: "herzlich, einfühlsam, romantisch",
         },
         casual: {
           label: "Casual Chic",
-          short: "Natürliche Balance, Alltagstauglichkeit und entspannte Stimmigkeit.",
-          insight:
-            "Sie bevorzugen harmonische Kombinationen, die sicher und unkompliziert funktionieren.",
-          vibe: "authentisch, geerdet, sympathisch",
+          short:
+            "Unkomplizierter Stil mit Tiefgang: Dein Alltag ist minimalistisch, aber bewusst - funktional und gut angezogen. Typisch für dich: Jeans, Strick, Layering, Naturtöne, schlichte Accessoires, bequeme Schuhe.",
+          insight: "Unkomplizierter Stil mit Tiefgang: minimalistisch, bewusst und alltagstauglich.",
+          vibe: "authentisch, sympathisch, geerdet",
         },
         sport: {
-          label: "Sport Chic",
-          short: "Komfort, Beweglichkeit und cleane Dynamik in einem modernen Stilbild.",
-          insight: "Sie schätzen Funktion, Leichtigkeit und unkomplizierte Kombinierbarkeit.",
-          vibe: "aktiv, klar, flexibel",
+          label: "Sporty Chic",
+          short:
+            "Dynamisch, modern und aktiv: Dein Stil verbindet Komfort mit Stil - für Frauen, die in Bewegung bleiben. Typisch für dich: Sneaker, Jogginghosen, cleane Schnitte, Athleisure-Looks, klare Farben.",
+          insight: "Dynamisch, modern und aktiv: Komfort und Stil gehen bei dir zusammen.",
+          vibe: "energiegeladen, selbstbewusst, flexibel",
         },
       };
 
@@ -1511,6 +1587,7 @@
 
       const genderPanel = document.getElementById("genderPanel");
       const genderChoices = document.querySelectorAll(".gender-choice");
+      const genderStartBtns = document.querySelectorAll(".gender-start-btn");
       const questionMeta = document.getElementById("questionMeta");
       const questionTitle = document.getElementById("questionTitle");
       const optionsWrap = document.getElementById("options");
@@ -1734,22 +1811,6 @@
         showPanel(resultPanel);
       }
 
-      function normalizeAnswersForScore(limit) {
-        return answers
-          .slice(0, limit)
-          .map((questionAnswers) => questionAnswers.map((item) => item.split("|")[0]));
-      }
-
-      function computeScores(limit = FEMALE_QUESTIONS.length) {
-        const scores = { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
-        normalizeAnswersForScore(limit).forEach((questionAnswers) => {
-          questionAnswers.forEach((type) => {
-            scores[type] += 1;
-          });
-        });
-        return scores;
-      }
-
       function goNext() {
         if (answers[currentQuestion].length === 0) return;
         const answeredCount = currentQuestion + 1;
@@ -1811,9 +1872,22 @@
 
       genderChoices.forEach((choice) => {
         choice.addEventListener("click", () => {
-          if (choice.dataset.gender === "female") {
+          const gender = choice.dataset.gender;
+          selectedGender = gender;
+          genderChoices.forEach((item) => item.classList.toggle("active", item === choice));
+          genderNote.textContent =
+            gender === "female"
+              ? "Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind möglich und geben ein differenzierteres Stilbild."
+              : "Los geht's mit dem Männer-Stiltest! Mehrere Antworten pro Frage sind möglich und zeigen deinen persönlichen Stil-Mix.";
+        });
+      });
+
+      genderStartBtns.forEach((btn) => {
+        btn.addEventListener("click", (event) => {
+          event.stopPropagation();
+          if (btn.dataset.gender === "female") {
             startFemaleQuiz();
-          } else if (choice.dataset.gender === "male") {
+          } else if (btn.dataset.gender === "male") {
             startMaleQuiz();
           }
         });
