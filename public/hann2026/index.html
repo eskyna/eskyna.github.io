@@ -906,10 +906,8 @@
                 <a class="btn btn-secondary" href="#messespecial">Messevorteile ansehen</a>
               </div>
               <div class="hero-benefits">
-                <div class="benefit-pill">10 Fragen mit Mehrfachauswahl</div>
-                <div class="benefit-pill">Zwischenfeedback während des Tests</div>
-                <div class="benefit-pill">Haupttyp plus Nebentypen</div>
-                <div class="benefit-pill">Exklusive Messe-Optionen am Ende</div>
+                <div class="benefit-pill">Exklusive Messevorteile erst nach dem Stiltest</div>
+                <div class="benefit-pill">Werde Pionier in der digitalen Stilberatung</div>
               </div>
             </div>
 
@@ -992,16 +990,19 @@
                 </button>
               </div>
 
-              <div class="note-box" id="genderNote">
-                Starten Sie direkt mit dem Frauen-Stiltest. Nach 2, 5 und 8 beantworteten Fragen
-                erhalten Sie bereits persönliches Zwischenfeedback.
+              <div class="hero-actions" style="margin-top: auto; margin-bottom: 0">
+                <a class="btn btn-secondary" href="#messespecial">Zu den Messevorteilen</a>
               </div>
 
-              <div class="hero-actions" style="margin-top: auto; margin-bottom: 0">
-                <button class="btn btn-primary" id="startQuizBtn" type="button">
-                  Frauen-Stiltest starten
-                </button>
-                <a class="btn btn-secondary" href="#messespecial">Zu den Messevorteilen</a>
+              <div id="messespecial" class="note-box" style="margin-top: 18px">
+                <strong style="display: block; margin-bottom: 8px; color: var(--accent-dark)">
+                  Ihre 3 Messevorteile nach dem Stiltest
+                </strong>
+                <ul style="margin: 0; padding-left: 18px">
+                  <li>10 Stiltipps als PDF herunterladen</li>
+                  <li>Für den EStyle Betatest eintragen</li>
+                  <li>Kostenloses 30 Minuten Erstgespräch buchen</li>
+                </ul>
               </div>
             </div>
 
@@ -1053,7 +1054,7 @@
               <div class="bar-stack" id="resultBars"></div>
               <div class="mix-row" id="mixRow"></div>
 
-              <h4 class="cta-heading" id="messespecial">
+              <h4 class="cta-heading" id="messespecial-result">
                 Ihre exklusiven Messespezialmöglichkeiten
               </h4>
               <p class="subtle">
@@ -1144,7 +1145,7 @@
               </p>
               <div class="result-box">
                 <strong style="display: block; font-size: 1.1rem; margin-bottom: 8px"
-                  >Bis dahin können Sie die Messevorteile schon jetzt nutzen.</strong
+                  >Messevorteile sind nach dem abgeschlossenen Stiltest verfügbar.</strong
                 >
                 <p>
                   Sie können sich die 10 Stiltipps sichern, Ihr Interesse am EStyle Betatest
@@ -1509,7 +1510,6 @@
       let shownFeedbackFor = new Set();
 
       const genderPanel = document.getElementById("genderPanel");
-      const startQuizBtn = document.getElementById("startQuizBtn");
       const genderChoices = document.querySelectorAll(".gender-choice");
       const questionMeta = document.getElementById("questionMeta");
       const questionTitle = document.getElementById("questionTitle");
@@ -1601,7 +1601,7 @@
         if (selectedGender !== "female" && selectedGender !== "male") return;
 
         const questions = getQuestionsList();
-        const answerImages = selectedGender === "male" ? MALE_ANSWER_IMAGES : ANSWER_IMAGES;
+        const answerImages = selectedGender === "male" ? MALE_ANSWER_IMAGES : [];
         const q = questions[currentQuestion];
         currentSelection = new Set(
           answers[currentQuestion].map(
@@ -1811,27 +1811,12 @@
 
       genderChoices.forEach((choice) => {
         choice.addEventListener("click", () => {
-          selectedGender = choice.dataset.gender;
-          genderChoices.forEach((item) => item.classList.toggle("active", item === choice));
-
-          if (selectedGender === "female") {
-            genderNote.textContent =
-              "Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind möglich und geben ein differenzierteres Stilbild.";
-            startQuizBtn.textContent = "Frauen-Stiltest starten";
-          } else {
-            genderNote.textContent =
-              "Los geht's mit dem Männer-Stiltest! Mehrere Antworten pro Frage sind möglich und zeigen deinen persönlichen Stil-Mix.";
-            startQuizBtn.textContent = "Männer-Stiltest starten";
+          if (choice.dataset.gender === "female") {
+            startFemaleQuiz();
+          } else if (choice.dataset.gender === "male") {
+            startMaleQuiz();
           }
         });
-      });
-
-      startQuizBtn.addEventListener("click", () => {
-        if (selectedGender === "female") {
-          startFemaleQuiz();
-        } else if (selectedGender === "male") {
-          startMaleQuiz();
-        }
       });
 
       nextBtn.addEventListener("click", goNext);
