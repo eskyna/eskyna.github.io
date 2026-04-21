@@ -254,7 +254,7 @@
       }
 
       h1 {
-        font-size: clamp(2.3rem, 6vw, 5rem);
+        font-size: clamp(2rem, 5vw, 4.3rem);
         max-width: 12ch;
         margin-bottom: 18px;
       }
@@ -786,6 +786,29 @@
         word-break: break-all;
       }
 
+      .estyle-id-qr-wrap {
+        margin-top: 14px;
+        display: inline-flex;
+        flex-direction: column;
+        gap: 8px;
+        align-items: center;
+      }
+
+      .estyle-id-qr {
+        width: 132px;
+        height: 132px;
+        padding: 8px;
+        border-radius: 12px;
+        background: #fff;
+        border: 1px solid rgba(123, 90, 79, 0.2);
+      }
+
+      .estyle-id-qr-note {
+        color: #5b4a43;
+        font-size: 0.85rem;
+        text-align: center;
+      }
+
       .bar-row {
         display: grid;
         grid-template-columns: 160px 1fr 64px;
@@ -990,9 +1013,10 @@
               <div class="eyebrow">Ihr persönlicher Stiltest für die Messe</div>
               <h1 id="hero-title">Entdecken Sie den Stil, der wirklich zu Ihnen passt.</h1>
               <p class="lead">
-                Gute Stilberatung gibt Sicherheit, spart Fehlkäufe und macht es leichter, sich jeden
-                Tag stimmig anzuziehen. Genau dafür ist dieser kurze EStyle Stiltest da: persönlich,
-                inspirierend und direkt mit einem klaren Ergebnis.
+                Dein Stil beginnt nicht im Kleiderschrank, sondern bei dir.
+                Bei deiner Persönlichkeit, deinem Lebensgefühl und der Art, wie du dich zeigen möchtest.<br /><br />
+
+                Dieser Test hilft dir dabei, deine wichtigsten Stilrichtungen zu erkennen und zu verstehen, wie du Kleidung so kombinierst, dass sie zu deinem Alltag, deinem Inneren und deinen Zielen passt.
               </p>
               <div class="hero-actions">
                 <a class="btn btn-primary" href="#stiltest">Jetzt Stiltest beginnen</a>
@@ -1038,14 +1062,9 @@
                 <strong>Warum eine Stilberatung so wertvoll ist</strong>
                 <ul>
                   <li>Sie erkennen schneller, was wirklich zu Ihnen passt.</li>
-                  <li>Sie kaufen gezielter statt unsicher oder doppelt.</li>
                   <li>Sie wirken stimmiger im Beruf, im Alltag und bei Events.</li>
+                  <li>Sie kaufen gezielter statt unsicher oder doppelt.</li>
                 </ul>
-                <p class="soft-copy" style="margin-top: 12px">
-                  Es geht nicht darum, Sie auf nur einen Stil festzulegen. Viele Frauen vereinen
-                  mehrere Facetten in sich - und genau das macht den eigenen Stil lebendig und
-                  individuell.
-                </p>
               </div>
 
               <div class="world-box">
@@ -1066,11 +1085,14 @@
               <span class="section-eyebrow">Willkommen bei EStyle</span>
               <h2 class="section-title" id="quiz-title">Welcher Stiltyp steckt in Ihnen?</h2>
               <p class="section-lead">
-                Wählen Sie zuerst aus, für welchen Stiltest Sie starten möchten. Im Frauen-Test sind
-                bereits alle 10 Fragen enthalten. Pro Frage können mehrere Antworten markiert
-                werden, damit Ihr Ergebnis feinere Nuancen bekommt.
+                Wählen Sie zuerst aus, für welchen Stiltest Sie starten möchten.
+                <br /><br />
+                Du kannst pro Frage mehrere Antworten wählen.
+                Es geht hier nicht darum, dich auf einen Stil festzulegen.
+                <br /><br />
+                Die meisten Menschen vereinen mehrere Facetten in sich
+                und genau das macht deinen Stil lebendig und individuell.
               </p>
-
               <div class="gender-grid" id="genderChoices">
                 <div class="gender-choice active" data-gender="female">
                   <strong>Ich bin weiblich</strong>
@@ -1836,6 +1858,7 @@
         const sideTypes = ranking.slice(1, 3);
         const total = ranking.reduce((sum, item) => sum + item.score, 0) || 1;
         const estyleId = buildEStyleId(primary.key);
+        const estyleQrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=${encodeURIComponent(estyleId)}`;
         const isMale = selectedGender === "male";
         const article = isMale ? "Dein" : "Ihr";
         const articleLower = isMale ? "dein" : "Ihr";
@@ -1851,6 +1874,10 @@
           <span class="estyle-id-label">EStyle ID</span>
           <span class="estyle-id-help">${isMale ? "Deine" : "Ihre"} persönliche ID für dieses Testergebnis</span>
           <code class="estyle-id-code">${estyleId}</code>
+          <div class="estyle-id-qr-wrap">
+            <img class="estyle-id-qr" src="${estyleQrUrl}" alt="QR-Code zur EStyle ID ${estyleId}" loading="lazy" />
+            <span class="estyle-id-qr-note">QR-Code der EStyle ID</span>
+          </div>
         </div>
         <div class="result-box">
           <strong style="display:block;font-size:1.2rem;margin-bottom:8px;">${primary.profile.label}</strong>
