@@ -750,6 +750,42 @@
         font-weight: 700;
       }
 
+      .estyle-id-box {
+        margin-bottom: 6px;
+        padding: 18px;
+        border-radius: 18px;
+        background: linear-gradient(135deg, rgba(185, 136, 120, 0.2), rgba(201, 168, 111, 0.16));
+        border: 1px solid rgba(123, 90, 79, 0.35);
+        box-shadow: 0 10px 24px rgba(123, 90, 79, 0.14);
+      }
+
+      .estyle-id-label {
+        display: block;
+        color: var(--accent-dark);
+        font-size: 0.8rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .estyle-id-help {
+        display: block;
+        margin-top: 6px;
+        color: #5b4a43;
+        font-size: 0.92rem;
+      }
+
+      .estyle-id-code {
+        display: block;
+        margin-top: 10px;
+        color: #2f221d;
+        font-size: clamp(1.1rem, 2.7vw, 1.45rem);
+        font-weight: 900;
+        letter-spacing: 0.06em;
+        line-height: 1.3;
+        word-break: break-all;
+      }
+
       .bar-row {
         display: grid;
         grid-template-columns: 160px 1fr 64px;
@@ -1756,12 +1792,50 @@
         showPanel(feedbackPanel);
       }
 
+      function buildEStyleId(primaryKey) {
+        const questions = getQuestionsList();
+        const genderCode = selectedGender === "male" ? "M" : "W";
+        const femaleTypeCodes = {
+          dramatic: "D",
+          business: "B",
+          romantic: "R",
+          casual: "C",
+          sport: "S",
+        };
+        const typeCode = selectedGender === "male" ? String(primaryKey) : femaleTypeCodes[primaryKey] || "X";
+
+        let packedAnswers = 0n;
+        questions.forEach((question, questionIndex) => {
+          const optionCount = question.options.length;
+          const selectedIndexes = (answers[questionIndex] || [])
+            .map((entry) => Number(entry.split("|")[1]))
+            .filter((index) => Number.isInteger(index) && index >= 0 && index < optionCount);
+
+          const uniqueIndexes = Array.from(new Set(selectedIndexes));
+          const mask = uniqueIndexes.reduce((sum, index) => sum + 2 ** index, 0);
+          packedAnswers = (packedAnswers << BigInt(optionCount)) + BigInt(mask);
+        });
+
+        const answerPayload = packedAnswers.toString(36).toUpperCase();
+        const checksumSeed = `${genderCode}${typeCode}${answerPayload}`;
+        const checksumValue = checksumSeed
+          .split("")
+          .reduce((sum, char) => sum + char.charCodeAt(0), 0)
+          .toString(36)
+          .toUpperCase()
+          .padStart(2, "0")
+          .slice(-2);
+
+        return `E${genderCode}${typeCode}-${answerPayload}-${checksumValue}`;
+      }
+
       function showResult() {
         const questions = getQuestionsList();
         const ranking = sortedTypes(questions.length);
         const primary = ranking[0];
         const sideTypes = ranking.slice(1, 3);
         const total = ranking.reduce((sum, item) => sum + item.score, 0) || 1;
+        const estyleId = buildEStyleId(primary.key);
         const isMale = selectedGender === "male";
         const article = isMale ? "Dein" : "Ihr";
         const articleLower = isMale ? "dein" : "Ihr";
@@ -1773,6 +1847,11 @@
           : `Ihr Ergebnis zeigt keinen starren Einzeltyp, sondern einen persönlichen Stil-Mix. Am stärksten prägt ${primary.profile.label} Ihr Profil, dazu kommen weitere Nuancen, die Ihren Stil individuell machen.`;
 
         resultHighlight.innerHTML = `
+        <div class="estyle-id-box">
+          <span class="estyle-id-label">EStyle ID</span>
+          <span class="estyle-id-help">${isMale ? "Deine" : "Ihre"} persönliche ID für dieses Testergebnis</span>
+          <code class="estyle-id-code">${estyleId}</code>
+        </div>
         <div class="result-box">
           <strong style="display:block;font-size:1.2rem;margin-bottom:8px;">${primary.profile.label}</strong>
           <p>${primary.profile.short}</p>
