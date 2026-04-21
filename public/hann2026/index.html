@@ -738,6 +738,40 @@
         background: rgba(247, 243, 239, 0.96);
       }
 
+      .result-box-primary {
+        padding: 28px;
+        background: linear-gradient(145deg, rgba(185, 136, 120, 0.26), rgba(255, 248, 241, 0.98));
+        border: 1px solid rgba(123, 90, 79, 0.24);
+        box-shadow: 0 22px 42px rgba(123, 90, 79, 0.16);
+      }
+
+      .result-box-primary strong {
+        font-size: 1.45rem;
+      }
+
+      .result-box-secondary {
+        background: rgba(247, 243, 239, 0.82);
+      }
+
+      .side-type-card {
+        margin-top: 14px;
+        padding: 18px;
+        border-radius: 22px;
+        background: rgba(255, 255, 255, 0.72);
+        border: 1px solid rgba(123, 90, 79, 0.08);
+      }
+
+      .side-type-card strong {
+        font-size: 1rem;
+      }
+
+      .mix-chip-subtle {
+        background: rgba(255, 255, 255, 0.78);
+        color: #5c4a43;
+        border-color: rgba(123, 90, 79, 0.08);
+        font-weight: 600;
+      }
+
       .feedback-box p,
       .result-box p,
       .cta-card p {
@@ -1830,6 +1864,18 @@
         const ranking = sortedTypes(questions.length);
         const primary = ranking[0];
         const sideTypes = ranking.slice(1, 3);
+        const sideTypeDetails = sideTypes
+          .map(
+            (item) => `
+          <div class="side-type-card">
+            <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">${item.profile.label}</strong>
+            <p>${item.profile.short}</p>
+            <div class="mix-row">
+              <span class="mix-chip mix-chip-subtle">Wirkung: ${item.profile.vibe}</span>
+            </div>
+          </div>`
+          )
+          .join("");
         const total = ranking.reduce((sum, item) => sum + item.score, 0) || 1;
         const estyleId = buildEStyleId(primary.key);
         const estyleQrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=${encodeURIComponent(estyleId)}`;
@@ -1849,19 +1895,20 @@
             <span class="estyle-id-qr-note">QR-Code der EStyle ID</span>
           </div>
         </div>
-        <div class="result-box">
+        <div class="result-box result-box-primary">
           <strong style="display:block;font-size:1.2rem;margin-bottom:8px;">${primary.profile.label}</strong>
           <p>${primary.profile.short}</p>
           <div class="mix-row">
             <span class="mix-chip">Wirkung: ${primary.profile.vibe}</span>
           </div>
         </div>
-        <div class="result-box">
+        <div class="result-box result-box-secondary">
           <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">Ihre Nebentypen</strong>
           <p>${sideTypes.map((item) => item.profile.label).join(" und ")} geben Ihrem Stilprofil weitere Tiefe und machen Ihren Stil vielseitiger.</p>
           <div class="mix-row">
-            ${sideTypes.map((item) => `<span class="mix-chip">${item.profile.label}</span>`).join("")}
+            ${sideTypes.map((item) => `<span class="mix-chip mix-chip-subtle">${item.profile.label}</span>`).join("")}
           </div>
+          ${sideTypeDetails}
         </div>
       `;
 
