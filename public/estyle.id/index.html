@@ -1,0 +1,966 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>ESKYNA | EStyle ID Auswertung</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <style>
+      :root {
+        --accent: #b98878;
+        --accent-dark: #7b5a4f;
+        --gold: #c9a86f;
+        --bg: #f7f3ef;
+        --surface: rgba(255, 255, 255, 0.9);
+        --text: #1a1210;
+        --muted: #6b5650;
+        --line: rgba(123, 90, 79, 0.1);
+        --shadow: 0 8px 28px rgba(66, 43, 34, 0.07);
+        --radius-xl: 32px;
+        --max: 900px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        min-height: 100svh;
+        line-height: 1.6;
+      }
+
+      a { color: var(--accent-dark); text-decoration: none; }
+      img { display: block; max-width: 100%; }
+
+      .container {
+        width: min(calc(100% - 32px), var(--max));
+        margin: 0 auto;
+        padding: 32px 0 60px;
+      }
+
+      .topbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 14px 22px;
+        border-radius: 28px;
+        background: var(--surface);
+        border: 1px solid var(--line);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(18px);
+        margin-bottom: 22px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-weight: 800;
+        font-size: 1.08rem;
+        letter-spacing: -0.02em;
+      }
+
+      .brand-mark {
+        width: 28px;
+        height: 28px;
+        border-radius: 9px;
+        background: linear-gradient(135deg, var(--accent-dark), var(--gold));
+      }
+
+      .pill {
+        padding: 7px 14px;
+        border-radius: 999px;
+        background: rgba(185, 136, 120, 0.1);
+        color: var(--accent-dark);
+        font-size: 0.87rem;
+        font-weight: 700;
+      }
+
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: var(--radius-xl);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(18px);
+        padding: clamp(24px, 5vw, 46px);
+        margin-bottom: 18px;
+      }
+
+      .section-eyebrow {
+        display: block;
+        margin-bottom: 10px;
+        color: var(--accent-dark);
+        font-size: 0.88rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        font-size: clamp(1.8rem, 4vw, 3rem);
+        line-height: 1.08;
+        letter-spacing: -0.03em;
+        margin-bottom: 12px;
+      }
+
+      h2 {
+        font-size: clamp(1.4rem, 3vw, 2.1rem);
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+        margin-bottom: 10px;
+      }
+
+      h3 {
+        font-size: clamp(1.1rem, 2vw, 1.4rem);
+        line-height: 1.15;
+        letter-spacing: -0.01em;
+        margin-bottom: 8px;
+      }
+
+      p {
+        color: var(--muted);
+        font-size: 1rem;
+        margin-bottom: 14px;
+      }
+
+      p:last-child { margin-bottom: 0; }
+
+      .id-input-row {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 18px;
+      }
+
+      .id-input {
+        flex: 1 1 220px;
+        height: 54px;
+        padding: 0 18px;
+        border-radius: 999px;
+        border: 1.5px solid rgba(123, 90, 79, 0.22);
+        background: rgba(255, 255, 255, 0.92);
+        font-size: 1rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        color: var(--text);
+        outline: none;
+        font-family: inherit;
+      }
+
+      .id-input:focus {
+        border-color: var(--accent);
+      }
+
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 54px;
+        padding: 0 26px;
+        border-radius: 999px;
+        border: 1px solid transparent;
+        font-weight: 700;
+        font-size: 1rem;
+        cursor: pointer;
+        font-family: inherit;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .btn:hover { transform: translateY(-1px); }
+
+      .btn-primary {
+        background: linear-gradient(135deg, var(--accent-dark), #9e7668 60%, var(--gold));
+        color: white;
+        box-shadow: 0 14px 28px rgba(123, 90, 79, 0.2);
+      }
+
+      .btn-secondary {
+        background: rgba(255, 255, 255, 0.92);
+        border-color: rgba(123, 90, 79, 0.14);
+        color: var(--accent-dark);
+      }
+
+      /* --- Result blocks --- */
+
+      .result-primary {
+        padding: 28px;
+        border-radius: 28px;
+        background: linear-gradient(145deg, rgba(185, 136, 120, 0.26), rgba(255, 248, 241, 0.98));
+        border: 1px solid rgba(123, 90, 79, 0.24);
+        box-shadow: 0 22px 42px rgba(123, 90, 79, 0.16);
+        margin-bottom: 14px;
+      }
+
+      .result-primary .type-name {
+        font-size: clamp(1.5rem, 4vw, 2.4rem);
+        font-weight: 800;
+        letter-spacing: -0.02em;
+        margin-bottom: 10px;
+      }
+
+      .vibe-chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 6px 14px;
+        border-radius: 999px;
+        background: #fff;
+        border: 1px solid rgba(123, 90, 79, 0.12);
+        color: var(--accent-dark);
+        font-size: 0.92rem;
+        font-weight: 700;
+        margin-top: 12px;
+      }
+
+      .side-block {
+        padding: 20px 22px;
+        border-radius: 22px;
+        background: rgba(247, 243, 239, 0.9);
+        border: 1px solid var(--line);
+        margin-bottom: 12px;
+      }
+
+      .side-block .type-name {
+        font-size: 1.1rem;
+        font-weight: 800;
+        margin-bottom: 6px;
+      }
+
+      .vibe-chip-subtle {
+        display: inline-flex;
+        align-items: center;
+        min-height: 34px;
+        padding: 5px 12px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.78);
+        border: 1px solid rgba(123, 90, 79, 0.08);
+        color: #5c4a43;
+        font-size: 0.88rem;
+        font-weight: 600;
+        margin-top: 10px;
+      }
+
+      /* --- Bar chart --- */
+
+      .bar-stack { display: grid; gap: 10px; margin: 18px 0; }
+
+      .bar-row {
+        display: grid;
+        grid-template-columns: 160px 1fr 52px;
+        gap: 10px;
+        align-items: center;
+      }
+
+      .bar-label { font-weight: 700; font-size: 0.95rem; }
+
+      .bar-track {
+        height: 11px;
+        border-radius: 999px;
+        overflow: hidden;
+        background: rgba(123, 90, 79, 0.1);
+      }
+
+      .bar-fill {
+        height: 100%;
+        border-radius: inherit;
+        background: linear-gradient(90deg, var(--accent), var(--gold));
+      }
+
+      .bar-pct { font-weight: 700; color: var(--accent-dark); font-size: 0.9rem; }
+
+      /* --- Answer recap --- */
+
+      .answers-grid {
+        display: grid;
+        gap: 10px;
+        margin-top: 12px;
+      }
+
+      .answer-item {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 12px;
+        align-items: flex-start;
+        padding: 12px 16px;
+        border-radius: 16px;
+        background: rgba(255, 255, 255, 0.82);
+        border: 1px solid var(--line);
+        font-size: 0.96rem;
+      }
+
+      .q-num {
+        width: 26px;
+        height: 26px;
+        flex: 0 0 auto;
+        border-radius: 8px;
+        background: linear-gradient(135deg, var(--accent-dark), var(--gold));
+        color: #fff;
+        font-weight: 800;
+        font-size: 0.78rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1px;
+      }
+
+      .q-content { display: flex; flex-direction: column; gap: 3px; }
+
+      .q-text { color: var(--muted); font-size: 0.88rem; }
+
+      .q-answer { font-weight: 700; color: var(--text); }
+
+      /* --- ID box --- */
+
+      .id-box {
+        padding: 18px 20px;
+        border-radius: 18px;
+        background: linear-gradient(135deg, rgba(185, 136, 120, 0.18), rgba(201, 168, 111, 0.14));
+        border: 1px solid rgba(123, 90, 79, 0.3);
+        box-shadow: 0 8px 20px rgba(123, 90, 79, 0.1);
+        margin-bottom: 18px;
+      }
+
+      .id-label {
+        display: block;
+        color: var(--accent-dark);
+        font-size: 0.78rem;
+        font-weight: 800;
+        letter-spacing: 0.09em;
+        text-transform: uppercase;
+        margin-bottom: 4px;
+      }
+
+      .id-code {
+        font-size: clamp(1rem, 2.5vw, 1.35rem);
+        font-weight: 900;
+        letter-spacing: 0.06em;
+        color: #2f221d;
+        word-break: break-all;
+      }
+
+      .id-meta {
+        margin-top: 6px;
+        font-size: 0.88rem;
+        color: var(--muted);
+      }
+
+      /* --- Error / states --- */
+
+      .state-box {
+        padding: 28px;
+        border-radius: 24px;
+        background: rgba(247, 243, 239, 0.96);
+        border: 1px solid var(--line);
+        text-align: center;
+      }
+
+      .state-box .icon {
+        font-size: 2.4rem;
+        margin-bottom: 12px;
+      }
+
+      .hidden { display: none !important; }
+
+      .gender-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 5px 12px;
+        border-radius: 999px;
+        background: rgba(185, 136, 120, 0.12);
+        color: var(--accent-dark);
+        font-size: 0.85rem;
+        font-weight: 700;
+        margin-bottom: 14px;
+      }
+
+      .section-divider {
+        border: none;
+        border-top: 1px solid var(--line);
+        margin: 22px 0;
+      }
+
+      @media (max-width: 640px) {
+        .bar-row { grid-template-columns: 1fr; gap: 6px; }
+        .bar-pct { display: none; }
+        .id-input-row { flex-direction: column; }
+        .btn { width: 100%; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Topbar -->
+      <div class="topbar">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <span>Eskyna | EStyle</span>
+        </div>
+        <span class="pill">EStyle ID</span>
+      </div>
+
+      <!-- Input card (shown when no valid ID yet) -->
+      <div class="card" id="inputCard">
+        <span class="section-eyebrow">Stilprofil abrufen</span>
+        <h1>EStyle ID auswerten</h1>
+        <p>
+          Geben Sie Ihre EStyle ID ein, um Ihr gespeichertes Stilprofil anzuzeigen und zu verstehen,
+          welche Stilrichtungen in Ihnen stecken.
+        </p>
+        <div class="id-input-row">
+          <input
+            class="id-input"
+            id="idInput"
+            type="text"
+            placeholder="z. B. EWD-3K2R-5F"
+            spellcheck="false"
+            autocomplete="off"
+          />
+          <button class="btn btn-primary" id="decodeBtn" type="button">Auswerten</button>
+        </div>
+        <p id="inputError" class="hidden" style="margin-top: 12px; color: #b94a3a; font-weight: 600;"></p>
+      </div>
+
+      <!-- Result area (hidden until decoded) -->
+      <div id="resultArea" class="hidden">
+        <!-- ID info box -->
+        <div class="card" style="padding: 22px 28px;">
+          <div class="id-box">
+            <span class="id-label">EStyle ID</span>
+            <span class="id-code" id="displayId"></span>
+            <p class="id-meta" id="displayMeta"></p>
+          </div>
+          <div id="genderBadge" class="gender-badge"></div>
+          <span class="section-eyebrow" style="margin-top: 4px;">Ihr Stilprofil</span>
+          <h2 id="mainTypeName"></h2>
+          <p id="mainTypeShort"></p>
+        </div>
+
+        <!-- Primary type full card -->
+        <div class="card">
+          <span class="section-eyebrow">Ihr Haupttyp</span>
+          <div class="result-primary" id="primaryCard">
+            <div class="type-name" id="primaryLabel"></div>
+            <p id="primaryShort" style="margin-bottom: 4px;"></p>
+            <p id="primaryInsight" style="color: var(--muted); font-size: 0.97rem;"></p>
+            <div class="vibe-chip" id="primaryVibe"></div>
+          </div>
+
+          <!-- Bar chart -->
+          <div class="bar-stack" id="barStack"></div>
+        </div>
+
+        <!-- Side types -->
+        <div class="card" id="sideTypesCard">
+          <span class="section-eyebrow">Ihre Nebentypen</span>
+          <h3 style="margin-bottom: 14px;">Diese Stilrichtungen ergänzen Ihr Profil</h3>
+          <div id="sideTypesContainer"></div>
+        </div>
+
+        <!-- Answer recap -->
+        <div class="card" id="answersCard">
+          <span class="section-eyebrow">Ihre Antworten</span>
+          <h3 style="margin-bottom: 6px;">So haben Sie geantwortet</h3>
+          <p>Ihre gewählten Antworten haben das Stilprofil ergeben.</p>
+          <div class="answers-grid" id="answersGrid"></div>
+        </div>
+
+        <!-- Actions -->
+        <div class="card" style="display: flex; gap: 14px; flex-wrap: wrap; align-items: center; padding: 22px 28px;">
+          <a class="btn btn-secondary" href="/hann2026/">Zurück zum Stiltest</a>
+          <button class="btn btn-secondary" id="newIdBtn" type="button">Andere ID auswerten</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // ─── Profil-Daten ─────────────────────────────────────────────────────────
+
+      const FEMALE_PROFILES = {
+        dramatic: {
+          label: "Dramatic Chic",
+          short:
+            "Sie lieben Ausdruck und starke Akzente. Ihr Stil ist kraftvoll, mutig und unvergesslich. Sie wollen auffallen - und das mit Absicht. Typisch für Sie: Schwarz-Rot-Kontraste, Statement-Pieces, asymmetrische Schnitte, High Heels, Oversize-Blazer, Leder.",
+          insight: "Sie lieben Ausdruck und starke Akzente.",
+          vibe: "charismatisch, selbstbewusst, unvergesslich",
+        },
+        business: {
+          label: "Business Chic",
+          short:
+            "Klassik trifft Qualität: Ihr Look ist zeitlos und professionell - ob im Meeting, beim Netzwerken oder im Alltag. Typisch für Sie: Blazer, Stoffhosen, Bleistiftröcke, dezenter Schmuck, hochwertige Basics, gedeckte Farbtöne.",
+          insight: "Klassik trifft Qualität: Ihr Look ist zeitlos und professionell.",
+          vibe: "souverän, organisiert, vertrauenswürdig",
+        },
+        romantic: {
+          label: "Romantic Chic",
+          short:
+            "Feminine Leichtigkeit pur: Ihr Stil wirkt sanft, verspielt und elegant - perfekt für ästhetische Statements. Typisch für Sie: Kleider mit Volants, florale Muster, Pastelltöne, zarte Materialien, Perlen- oder Schleifendetails.",
+          insight: "Feminine Leichtigkeit pur: Ihr Stil wirkt sanft, verspielt und elegant.",
+          vibe: "herzlich, einfühlsam, romantisch",
+        },
+        casual: {
+          label: "Casual Chic",
+          short:
+            "Unkomplizierter Stil mit Tiefgang: Ihr Alltag ist minimalistisch, aber bewusst - funktional und gut angezogen. Typisch für Sie: Jeans, Strick, Layering, Naturtöne, schlichte Accessoires, bequeme Schuhe.",
+          insight: "Unkomplizierter Stil mit Tiefgang: minimalistisch, bewusst und alltagstauglich.",
+          vibe: "authentisch, sympathisch, geerdet",
+        },
+        sport: {
+          label: "Sporty Chic",
+          short:
+            "Dynamisch, modern und aktiv: Ihr Stil verbindet Komfort mit Stil - für Frauen, die in Bewegung bleiben. Typisch für Sie: Sneaker, Jogginghosen, cleane Schnitte, Athleisure-Looks, klare Farben.",
+          insight: "Dynamisch, modern und aktiv: Komfort und Stil gehen bei Ihnen zusammen.",
+          vibe: "energiegeladen, selbstbewusst, flexibel",
+        },
+      };
+
+      const MALE_PROFILES = {
+        A: {
+          label: "Smart Casual",
+          short:
+            "Lässig trifft Stilbewusstsein: Ihr Look ist modern, entspannt und dennoch gepflegt. Sie möchten gut angezogen sein, ohne geschniegelt zu wirken.",
+          insight:
+            "Typisch für Sie sind hochwertige Sneaker, Poloshirts oder feine T-Shirts, Overshirts, moderne Chinos, strukturierte Jacken und dezente Accessoires.",
+          vibe: "stilbewusst, nahbar, modern",
+        },
+        B: {
+          label: "Business Casual",
+          short:
+            "Gepflegt, souverän und vielseitig: Ihr Stil funktioniert im Beruf genauso gut wie im gehobenen Alltag. Sie mögen klare Linien, Qualität und ein Auftreten mit Niveau.",
+          insight:
+            "Typisch für Sie sind Hemden, Sakkos, Chinos, Lederschuhe oder cleane Business-Sneaker, feine Strickteile und gedeckte Farben.",
+          vibe: "kompetent, zuverlässig, professionell",
+        },
+        C: {
+          label: "Sporty Style",
+          short:
+            "Dynamisch, unkompliziert und aktiv: Ihr Stil lebt von Komfort, Funktion und einer klaren, modernen Ausstrahlung. Sie möchten Bewegungsfreiheit, ohne auf einen guten Look zu verzichten.",
+          insight:
+            "Typisch für Sie sind Sneaker, Poloshirts, leichte Jacken, funktionale Stoffe, sportive Schnitte, reduzierte Farben und cleane Basics.",
+          vibe: "energiegeladen, unkompliziert, selbstsicher",
+        },
+        D: {
+          label: "Classic Style",
+          short:
+            "Zeitlos, hochwertig und kultiviert: Ihr Stil setzt nicht auf Trends, sondern auf Klasse. Sie bevorzugen langlebige Pieces mit klarer Form, exzellenter Passform und ruhiger Eleganz.",
+          insight:
+            "Typisch für Sie sind klassische Hemden, Lederschuhe, Wollmäntel, feine Strickmode, Sakkos, hochwertige Gürtel und Uhren sowie dezente Farbwelten.",
+          vibe: "souverän, stilvoll, vertrauenswürdig",
+        },
+      };
+
+      // ─── Fragen ────────────────────────────────────────────────────────────────
+
+      const FEMALE_QUESTIONS = [
+        {
+          text: "Was inspiriert Sie am stärksten für Ihr Styling?",
+          options: [
+            { text: "Modenschauen, Pinterest und starke Persönlichkeiten", type: "dramatic" },
+            { text: "Hochwertige Labels und souveräne Business-Looks", type: "business" },
+            { text: "Vintage-Looks, florale Designs und feminine Ästhetik", type: "romantic" },
+            { text: "Natur, Nachhaltigkeit und alltagstaugliche Outfits", type: "casual" },
+            { text: "Streetstyle, Athleisure und funktionale Kombinationen", type: "sport" },
+          ],
+        },
+        {
+          text: "Welcher Satz beschreibt Sie am ehesten?",
+          options: [
+            { text: "Ich liebe es, aufzufallen und Akzente zu setzen", type: "dramatic" },
+            { text: "Ich möchte professionell und stilvoll wirken", type: "business" },
+            { text: "Ich möchte meine Weiblichkeit unterstreichen", type: "romantic" },
+            { text: "Ich möchte mich jeden Tag wohlfühlen und gut angezogen sein", type: "casual" },
+            { text: "Ich brauche Looks, die sich meinem Alltag flexibel anpassen", type: "sport" },
+          ],
+        },
+        {
+          text: "Wie sieht Ihr Lieblingsoutfit aus?",
+          options: [
+            { text: "Ein auffälliges Kleid oder ein stilvoller Look mit Wow-Effekt", type: "dramatic" },
+            { text: "Blazer mit Stoffhose oder Rock - hochwertig und reduziert", type: "business" },
+            { text: "Ein fließendes Kleid mit sanfter Silhouette", type: "romantic" },
+            { text: "Jeans, Pullover und Mantel - unkompliziert und stimmig", type: "casual" },
+            { text: "Shirt, Sneakers und ein bequemer, moderner Alltagslook", type: "sport" },
+          ],
+        },
+        {
+          text: "Wie gestalten Sie Ihr Make-up am liebsten?",
+          options: [
+            { text: "Markante Augen oder Lippen - gerne mit mutigen Akzenten", type: "dramatic" },
+            { text: "Dezent, edel und sauber ausgearbeitet", type: "business" },
+            { text: "Rosige Töne und weiche, feminine Wirkung", type: "romantic" },
+            { text: "Sehr natürlich und fast unsichtbar", type: "casual" },
+            { text: "Nur Basics oder lieber ganz ohne Aufwand", type: "sport" },
+          ],
+        },
+        {
+          text: "Welche Farben tragen Sie besonders gern im Alltag?",
+          options: [
+            { text: "Kräftige Kontraste wie Schwarz-Weiß oder Rot-Weiß", type: "dramatic" },
+            { text: "Klassische Töne wie Beige, Marine, Grau oder Off-White", type: "business" },
+            { text: "Puder, Pastell und zarte feminine Nuancen", type: "romantic" },
+            { text: "Naturtöne wie Camel, Sand, Oliv oder Denim", type: "casual" },
+            { text: "Klare, frische Farben wie Blau, Weiß oder Schwarz", type: "sport" },
+          ],
+        },
+        {
+          text: "Welche Schuhe greifen Sie spontan am häufigsten?",
+          options: [
+            { text: "Absatzschuhe oder besondere Designs mit Statement-Charakter", type: "dramatic" },
+            { text: "Loafer, klassische Pumps oder elegante Lederschuhe", type: "business" },
+            { text: "Ballerinas oder feminine Sandalen", type: "romantic" },
+            { text: "Boots oder schlichte, vielseitige Schuhe", type: "casual" },
+            { text: "Sneaker oder sportliche Flats", type: "sport" },
+          ],
+        },
+        {
+          text: "Welche Accessoires passen am besten zu Ihnen?",
+          options: [
+            { text: "Statement-Schmuck, große Taschen und auffällige Details", type: "dramatic" },
+            { text: "Eine elegante Uhr, dezenter Schmuck und klassische Taschen", type: "business" },
+            { text: "Zarte Ohrringe, Schleifen und verspielte Akzente", type: "romantic" },
+            { text: "Schlichte Schmuckstücke, Leder und Naturmaterialien", type: "casual" },
+            { text: "Caps, Rucksäcke oder funktionale Accessoires", type: "sport" },
+          ],
+        },
+        {
+          text: "Was findet sich in Ihrem Kleiderschrank besonders oft?",
+          options: [
+            { text: "Extravagante Teile mit besonderen Schnitten", type: "dramatic" },
+            { text: "Blusen, Stoffhosen und verlässliche Business-Basics", type: "business" },
+            { text: "Kleider, Spitze und fließende Stoffe", type: "romantic" },
+            { text: "Jeans, Strick und Layering-Teile", type: "casual" },
+            { text: "Hoodies, Shirts, Leggings oder cleane Sportswear", type: "sport" },
+          ],
+        },
+        {
+          text: "Worauf legen Sie bei Kleidung den größten Wert?",
+          options: [
+            { text: "Auf Ausdruck und starke Präsenz", type: "dramatic" },
+            { text: "Auf Qualität, Eleganz und Souveränität", type: "business" },
+            { text: "Auf Weiblichkeit, Leichtigkeit und weiche Wirkung", type: "romantic" },
+            { text: "Auf Alltagstauglichkeit und Harmonie", type: "casual" },
+            { text: "Auf Funktionalität und Bewegungsfreiheit", type: "sport" },
+          ],
+        },
+        {
+          text: "Wie würden Sie Ihre Ausstrahlung spontan beschreiben?",
+          options: [
+            { text: "Selbstbewusst und präsent", type: "dramatic" },
+            { text: "Souverän und stilvoll", type: "business" },
+            { text: "Warm, weich und verträumt", type: "romantic" },
+            { text: "Gelassen und bodenständig", type: "casual" },
+            { text: "Aktiv und unkompliziert", type: "sport" },
+          ],
+        },
+      ];
+
+      const MALE_QUESTIONS = [
+        {
+          text: "In welchem Outfit fühlen Sie sich im Alltag am meisten wie Sie selbst?",
+          options: [
+            { text: "In einem modernen Look, der entspannt wirkt, aber sichtbar Stilbewusstsein zeigt.", type: "A" },
+            { text: "In einem gepflegten, souveränen Outfit, das beruflich wie privat funktioniert.", type: "B" },
+            { text: "In einem unkomplizierten Look, der Bewegung, Komfort und Leichtigkeit ausstrahlt.", type: "C" },
+            { text: "In einem klaren, zeitlosen Outfit, das nie laut sein muss, um gut zu wirken.", type: "D" },
+          ],
+        },
+        {
+          text: "Wenn Sie ein neues Outfit kaufen, worauf achten Sie zuerst?",
+          options: [
+            { text: "Auf die Kombination aus Lässigkeit, Aktualität und geschmackvollen Details.", type: "A" },
+            { text: "Auf Vielseitigkeit, Seriosität und eine saubere, gepflegte Wirkung.", type: "B" },
+            { text: "Auf Bequemlichkeit, Funktion und einen dynamischen Gesamteindruck.", type: "C" },
+            { text: "Auf Qualität, Passform und zeitlose Eleganz.", type: "D" },
+          ],
+        },
+        {
+          text: "Welche Schuhe greifen Sie am ehesten, wenn Sie gut angezogen sein möchten?",
+          options: [
+            { text: "Hochwertige Sneaker oder moderne Loafer mit urbaner Ausstrahlung.", type: "A" },
+            { text: "Cleane Lederschuhe oder gepflegte Hybrid-Modelle mit Business-Tauglichkeit.", type: "B" },
+            { text: "Sportliche Sneaker, die leicht, bequem und aktiv wirken.", type: "C" },
+            { text: "Klassische Lederschuhe, die Stil und Beständigkeit verkörpern.", type: "D" },
+          ],
+        },
+        {
+          text: "Wie soll Kleidung idealerweise auf andere wirken?",
+          options: [
+            { text: "Stilvoll, modern und sympathisch entspannt.", type: "A" },
+            { text: "Kompetent, gepflegt und zugänglich.", type: "B" },
+            { text: "Energiegeladen, unkompliziert und natürlich.", type: "C" },
+            { text: "Souverän, hochwertig und kultiviert.", type: "D" },
+          ],
+        },
+        {
+          text: "Welche Materialien und Oberflächen sprechen Sie am meisten an?",
+          options: [
+            { text: "Feine, moderne Stoffe mit Struktur, die lässig und hochwertig zugleich wirken.", type: "A" },
+            { text: "Glatte, gepflegte Materialien mit ruhiger, professioneller Wirkung.", type: "B" },
+            { text: "Weiche, flexible und funktionale Stoffe mit angenehmem Tragegefühl.", type: "C" },
+            { text: "Edle, klassische Materialien wie hochwertige Wolle, Baumwolle oder Leder.", type: "D" },
+          ],
+        },
+        {
+          text: "Sie haben einen wichtigen Termin ohne strengen Dresscode. Was wählen Sie am ehesten?",
+          options: [
+            { text: "Ein stilvolles, modernes Outfit mit entspannter Eleganz.", type: "A" },
+            { text: "Einen gepflegten Look, der Seriosität ausstrahlt, ohne zu formell zu sein.", type: "B" },
+            { text: "Einen bequemen, klaren Look, in dem Sie sich frei und sicher bewegen können.", type: "C" },
+            { text: "Ein klassisch aufgebautes Outfit, das ruhig, hochwertig und verlässlich wirkt.", type: "D" },
+          ],
+        },
+        {
+          text: "Welche Aussage beschreibt Ihren Stilanspruch am besten?",
+          options: [
+            { text: "Ich möchte gut angezogen wirken, ohne jemals overdressed zu erscheinen.", type: "A" },
+            { text: "Ich möchte professionell und gepflegt auftreten, aber nicht steif.", type: "B" },
+            { text: "Ich möchte, dass mein Stil aktiv, bequem und unkompliziert ist.", type: "C" },
+            { text: "Ich möchte, dass mein Stil zeitlos, stilvoll und dauerhaft passend bleibt.", type: "D" },
+          ],
+        },
+        {
+          text: "Welches Kleidungsstück hat für Sie die größte stilistische Aussagekraft?",
+          options: [
+            { text: "Ein perfekt sitzendes Overshirt, Sakko oder modernes Layering-Piece.", type: "A" },
+            { text: "Ein gutes Hemd, Chino oder Sakko, das Struktur und Souveränität gibt.", type: "B" },
+            { text: "Eine hochwertige Jacke, ein Poloshirt oder ein cleaner Sneaker mit sportiver Note.", type: "C" },
+            { text: "Ein klassischer Mantel, ein edles Sakko oder ein fein gearbeitetes Schuhpaar.", type: "D" },
+          ],
+        },
+      ];
+
+      // ─── Typ-Codes Mapping ──────────────────────────────────────────────────────
+
+      // female: typeCode letter → profile key
+      const FEMALE_TYPE_MAP = { D: "dramatic", B: "business", R: "romantic", C: "casual", S: "sport" };
+      // male: typeCode letter = profile key directly (A/B/C/D)
+
+      // ─── Decoder ─────────────────────────────────────────────────────────────────
+
+      function parseEStyleId(raw) {
+        const id = raw.trim().toUpperCase();
+        // Expected: E{G}{T}-{payload}-{checksum2}
+        const match = id.match(/^E([WM])([A-Z]+)-([0-9A-Z]+)-([0-9A-Z]{2})$/);
+        if (!match) return { ok: false, error: "Format der EStyle ID nicht erkannt." };
+
+        const [, genderCode, typeCode, payloadStr, checksum] = match;
+
+        // Verify checksum
+        const checksumSeed = `${genderCode}${typeCode}${payloadStr}`;
+        const expected = checksumSeed
+          .split("")
+          .reduce((sum, ch) => sum + ch.charCodeAt(0), 0)
+          .toString(36)
+          .toUpperCase()
+          .padStart(2, "0")
+          .slice(-2);
+
+        if (expected !== checksum) {
+          return { ok: false, error: "Die EStyle ID enthält einen ungültigen Prüfwert. Bitte prüfen Sie die ID auf Tippfehler." };
+        }
+
+        const isMale = genderCode === "M";
+        const questions = isMale ? MALE_QUESTIONS : FEMALE_QUESTIONS;
+        const profiles = isMale ? MALE_PROFILES : FEMALE_PROFILES;
+
+        // Resolve primary type
+        let primaryKey;
+        if (isMale) {
+          primaryKey = typeCode; // A/B/C/D
+          if (!profiles[primaryKey]) return { ok: false, error: "Unbekannter Stiltyp in der ID." };
+        } else {
+          primaryKey = FEMALE_TYPE_MAP[typeCode];
+          if (!primaryKey) return { ok: false, error: "Unbekannter Stiltyp in der ID." };
+        }
+
+        // Decode packed answer payload
+        let packed = BigInt("0x" + [...payloadStr].map(c => parseInt(c, 36).toString(16)).join(""));
+        // Recalculate via direct base36 parse
+        packed = BigInt(0);
+        for (const ch of payloadStr) {
+          packed = packed * 36n + BigInt(parseInt(ch, 36));
+        }
+
+        // Decode in reverse order
+        const optionCounts = questions.map(q => q.options.length);
+        const masks = [];
+        for (let i = optionCounts.length - 1; i >= 0; i--) {
+          const count = BigInt(optionCounts[i]);
+          const mask = Number(packed % (1n << count));
+          packed = packed >> count;
+          masks.unshift(mask);
+        }
+
+        // Build selected answers per question
+        const selectedAnswers = questions.map((q, qi) => {
+          const mask = masks[qi];
+          return q.options
+            .map((opt, idx) => ({ opt, idx, selected: (mask & (1 << idx)) !== 0 }))
+            .filter(item => item.selected)
+            .map(item => item.opt);
+        });
+
+        // Compute scores
+        const defaultScores = isMale
+          ? { A: 0, B: 0, C: 0, D: 0 }
+          : { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
+        const scores = { ...defaultScores };
+        selectedAnswers.forEach(qAnswers => {
+          qAnswers.forEach(opt => {
+            if (opt.type in scores) scores[opt.type]++;
+          });
+        });
+
+        // Sort by score
+        const ranking = Object.entries(scores)
+          .sort((a, b) => b[1] - a[1])
+          .map(([key, score]) => ({ key, score, profile: profiles[key] }));
+
+        return {
+          ok: true,
+          id,
+          genderCode,
+          isMale,
+          primaryKey,
+          primary: profiles[primaryKey],
+          ranking,
+          questions,
+          selectedAnswers,
+          total: ranking.reduce((s, r) => s + r.score, 0) || 1,
+        };
+      }
+
+      // ─── Render ─────────────────────────────────────────────────────────────────
+
+      function renderResult(parsed) {
+        const { id, isMale, primary, primaryKey, ranking, questions, selectedAnswers, total } = parsed;
+
+        document.getElementById("displayId").textContent = id;
+        document.getElementById("displayMeta").textContent =
+          `Erstellt mit dem ${isMale ? "Männer" : "Frauen"}-Stiltest · Hannover Messe 2026`;
+
+        const badge = document.getElementById("genderBadge");
+        badge.textContent = isMale ? "Männer-Stiltest" : "Frauen-Stiltest";
+
+        document.getElementById("mainTypeName").textContent = primary.label;
+        document.getElementById("mainTypeShort").textContent = primary.short;
+
+        document.getElementById("primaryLabel").textContent = primary.label;
+        document.getElementById("primaryShort").textContent = primary.short;
+        document.getElementById("primaryInsight").textContent = primary.insight;
+        document.getElementById("primaryVibe").textContent = "Wirkung: " + primary.vibe;
+
+        // Bars
+        const barStack = document.getElementById("barStack");
+        barStack.innerHTML = ranking.map(item => {
+          const pct = Math.round((item.score / total) * 100);
+          return `<div class="bar-row">
+            <div class="bar-label">${item.profile.label}</div>
+            <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
+            <div class="bar-pct">${pct}%</div>
+          </div>`;
+        }).join("");
+
+        // Side types (rank 2+3)
+        const sideTypes = ranking.slice(1, 3);
+        const sideContainer = document.getElementById("sideTypesContainer");
+        sideContainer.innerHTML = sideTypes.map(item => `
+          <div class="side-block">
+            <div class="type-name">${item.profile.label}</div>
+            <p style="margin-bottom: 4px;">${item.profile.short}</p>
+            <p style="font-size: 0.93rem;">${item.profile.insight}</p>
+            <div class="vibe-chip-subtle">Wirkung: ${item.profile.vibe}</div>
+          </div>`).join("");
+
+        // Answer recap
+        const answersGrid = document.getElementById("answersGrid");
+        answersGrid.innerHTML = questions.map((q, qi) => {
+          const chosen = selectedAnswers[qi];
+          if (chosen.length === 0) {
+            return `<div class="answer-item">
+              <div class="q-num">${qi + 1}</div>
+              <div class="q-content">
+                <span class="q-text">${q.text}</span>
+                <span class="q-answer" style="color: var(--muted); font-weight: 400;">— keine Auswahl —</span>
+              </div>
+            </div>`;
+          }
+          return `<div class="answer-item">
+            <div class="q-num">${qi + 1}</div>
+            <div class="q-content">
+              <span class="q-text">${q.text}</span>
+              ${chosen.map(opt => `<span class="q-answer">${opt.text}</span>`).join("")}
+            </div>
+          </div>`;
+        }).join("");
+
+        document.getElementById("inputCard").classList.add("hidden");
+        document.getElementById("resultArea").classList.remove("hidden");
+      }
+
+      function showError(msg) {
+        const el = document.getElementById("inputError");
+        el.textContent = msg;
+        el.classList.remove("hidden");
+      }
+
+      function clearError() {
+        document.getElementById("inputError").classList.add("hidden");
+      }
+
+      function tryDecode(value) {
+        clearError();
+        if (!value.trim()) {
+          showError("Bitte geben Sie eine EStyle ID ein.");
+          return;
+        }
+        const parsed = parseEStyleId(value);
+        if (!parsed.ok) {
+          showError(parsed.error);
+          return;
+        }
+        renderResult(parsed);
+        // Update URL without reload
+        const url = new URL(window.location.href);
+        url.searchParams.set("id", parsed.id);
+        window.history.replaceState({}, "", url.toString());
+      }
+
+      // ─── Init ────────────────────────────────────────────────────────────────────
+
+      document.getElementById("decodeBtn").addEventListener("click", () => {
+        tryDecode(document.getElementById("idInput").value);
+      });
+
+      document.getElementById("idInput").addEventListener("keydown", e => {
+        if (e.key === "Enter") tryDecode(document.getElementById("idInput").value);
+      });
+
+      document.getElementById("newIdBtn").addEventListener("click", () => {
+        document.getElementById("resultArea").classList.add("hidden");
+        document.getElementById("inputCard").classList.remove("hidden");
+        document.getElementById("idInput").value = "";
+        clearError();
+        const url = new URL(window.location.href);
+        url.searchParams.delete("id");
+        window.history.replaceState({}, "", url.toString());
+      });
+
+      // Auto-decode from URL parameter
+      const params = new URLSearchParams(window.location.search);
+      const idParam = params.get("id");
+      if (idParam) {
+        document.getElementById("idInput").value = idParam;
+        tryDecode(idParam);
+      }
+    </script>
+  </body>
+</html>
