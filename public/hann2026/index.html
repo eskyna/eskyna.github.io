@@ -1119,6 +1119,11 @@
                 </div>
               </div>
 
+              <div id="genderNote" class="note-box" style="margin-top: 14px">
+                Starten Sie direkt mit dem Frauen-Stiltest. Mehrere Antworten pro Frage sind
+                möglich und geben ein differenzierteres Stilbild.
+              </div>
+
               <div id="messespecial" class="note-box messe-benefits" style="margin-top: 18px">
                 <strong class="messe-benefits-title">Ihre 3 Messevorteile nach dem Stiltest</strong>
                 <p class="messe-benefits-sub">Nach Ihrem Ergebnis wählen Sie den nächsten Schritt.</p>
@@ -1466,29 +1471,29 @@
       ];
 
       const MALE_TYPE_PROFILES = {
-        SC: {
-          label: "Smart Classic",
-          short: "Qualität, Klarheit und souveräner Auftritt. Ihr Stil wirkt gepflegt, erwachsen und hochwertig.",
-          insight: "Sie setzen auf Qualität, Klarheit und einen souveränen Auftritt. Ihr Stil wirkt gepflegt, erwachsen und hochwertig.",
-          vibe: "kompetent, ruhig, stilvoll",
+        A: {
+          label: "Smart Casual",
+          short: "Lässig trifft Stilbewusstsein: Ihr Look ist modern, entspannt und dennoch gepflegt. Sie möchten gut angezogen sein, ohne geschniegelt zu wirken.",
+          insight: "Typisch für Sie sind hochwertige Sneaker, Poloshirts oder feine T-Shirts, Overshirts, moderne Chinos, strukturierte Jacken und dezente Accessoires.",
+          vibe: "stilbewusst, nahbar, modern",
         },
-        CM: {
-          label: "Casual Modern",
-          short: "Entspannte Looks mit Stil. Nichts ist zu steif, aber alles wirkt bewusst gewählt und harmonisch.",
-          insight: "Sie mögen entspannte Looks mit Stil. Nichts ist zu steif, aber alles wirkt bewusst gewählt und harmonisch.",
-          vibe: "nahbar, modern, souverän entspannt",
+        B: {
+          label: "Business Casual",
+          short: "Gepflegt, souverän und vielseitig: Ihr Stil funktioniert im Beruf genauso gut wie im gehobenen Alltag. Sie mögen klare Linien, Qualität und ein Auftreten mit Niveau.",
+          insight: "Typisch für Sie sind Hemden, Sakkos, Chinos, Lederschuhe oder cleane Business-Sneaker, feine Strickteile und gedeckte Farben.",
+          vibe: "kompetent, zuverlässig, professionell",
         },
-        SP: {
-          label: "Sporty Clean",
-          short: "Komfort und moderne Klarheit. Ihr Stil ist funktional, aktiv und unkompliziert.",
-          insight: "Sie verbinden Komfort mit moderner Klarheit. Ihr Stil ist funktional, aktiv und unkompliziert.",
-          vibe: "dynamisch, flexibel, frisch",
+        C: {
+          label: "Sporty Style",
+          short: "Dynamisch, unkompliziert und aktiv: Ihr Stil lebt von Komfort, Funktion und einer klaren, modernen Ausstrahlung. Sie möchten Bewegungsfreiheit, ohne auf einen guten Look zu verzichten.",
+          insight: "Typisch für Sie sind Sneaker, Poloshirts, leichte Jacken, funktionale Stoffe, sportive Schnitte, reduzierte Farben und cleane Basics.",
+          vibe: "energiegeladen, unkompliziert, selbstsicher",
         },
-        US: {
-          label: "Urban Statement",
-          short: "Mode bewusst nutzen, um Präsenz zu zeigen. Ihr Stil ist markant, zeitgemäß und individuell.",
-          insight: "Sie nutzen Mode bewusst, um Präsenz zu zeigen. Ihr Stil ist markant, zeitgemäß und individuell.",
-          vibe: "selbstbewusst, kreativ, auffällig stilvoll",
+        D: {
+          label: "Classic Style",
+          short: "Zeitlos, hochwertig und kultiviert: Ihr Stil setzt nicht auf Trends, sondern auf Klasse. Sie bevorzugen langlebige Pieces mit klarer Form, exzellenter Passform und ruhiger Eleganz.",
+          insight: "Typisch für Sie sind klassische Hemden, Lederschuhe, Wollmäntel, feine Strickmode, Sakkos, hochwertige Gürtel und Uhren sowie dezente Farbwelten.",
+          vibe: "souverän, stilvoll, vertrauenswürdig",
         },
       };
 
@@ -1502,99 +1507,79 @@
         [], // Placeholder for male question 6
         [], // Placeholder for male question 7
         [], // Placeholder for male question 8
-        [], // Placeholder for male question 9
-        [], // Placeholder for male question 10
       ];
 
       const MALE_QUESTIONS = [
         {
-          text: "Welche Farben tragen Sie am liebsten?",
+          text: "In welchem Outfit fühlen Sie sich im Alltag am meisten wie Sie selbst?",
           options: [
-            { text: "Dunkelblau, Grau, Weiß, Beige", type: "SC" },
-            { text: "Oliv, Denim, Off-White, Braun", type: "CM" },
-            { text: "Schwarz, Weiß, technische Neutrals", type: "SP" },
-            { text: "Kontraste, tiefe Töne oder markante Akzentfarben", type: "US" },
+            { text: "In einem modernen Look, der entspannt wirkt, aber sichtbar Stilbewusstsein zeigt.", type: "A" },
+            { text: "In einem gepflegten, souveränen Outfit, das beruflich wie privat funktioniert.", type: "B" },
+            { text: "In einem unkomplizierten Look, der Bewegung, Komfort und Leichtigkeit ausstrahlt.", type: "C" },
+            { text: "In einem klaren, zeitlosen Outfit, das nie laut sein muss, um gut zu wirken.", type: "D" },
           ],
         },
         {
-          text: "Welches Outfit greifen Sie am häufigsten?",
+          text: "Wenn Sie ein neues Outfit kaufen, worauf achten Sie zuerst?",
           options: [
-            { text: "Hemd oder Polo mit Chino oder gepflegter Hose", type: "SC" },
-            { text: "T-Shirt, Overshirt, Jeans oder lockere Stoffhose", type: "CM" },
-            { text: "Hoodie, Funktionsjacke, Jogger oder sportive Basics", type: "SP" },
-            { text: "Oversized Shirt, besondere Jacke, markante Sneaker oder trendige Pieces", type: "US" },
+            { text: "Auf die Kombination aus Lässigkeit, Aktualität und geschmackvollen Details.", type: "A" },
+            { text: "Auf Vielseitigkeit, Seriosität und eine saubere, gepflegte Wirkung.", type: "B" },
+            { text: "Auf Bequemlichkeit, Funktion und einen dynamischen Gesamteindruck.", type: "C" },
+            { text: "Auf Qualität, Passform und zeitlose Eleganz.", type: "D" },
           ],
         },
         {
-          text: "Worauf achten Sie bei Kleidung am meisten?",
+          text: "Welche Schuhe greifen Sie am ehesten, wenn Sie gut angezogen sein möchten?",
           options: [
-            { text: "Qualität und ein gepflegter Eindruck", type: "SC" },
-            { text: "Vielseitigkeit und Alltagstauglichkeit", type: "CM" },
-            { text: "Komfort und Bewegungsfreiheit", type: "SP" },
-            { text: "Wirkung und Persönlichkeit", type: "US" },
+            { text: "Hochwertige Sneaker oder moderne Loafer mit urbaner Ausstrahlung.", type: "A" },
+            { text: "Cleane Lederschuhe oder gepflegte Hybrid-Modelle mit Business-Tauglichkeit.", type: "B" },
+            { text: "Sportliche Sneaker, die leicht, bequem und aktiv wirken.", type: "C" },
+            { text: "Klassische Lederschuhe, die Stil und Beständigkeit verkörpern.", type: "D" },
           ],
         },
         {
-          text: "Welche Schuhe passen am besten zu Ihnen?",
+          text: "Wie soll Kleidung idealerweise auf andere wirken?",
           options: [
-            { text: "Loafer, Ledersneaker, Chelsea Boots", type: "SC" },
-            { text: "Weiße Sneaker, Desert Boots, schlichte Freizeitschuhe", type: "CM" },
-            { text: "Running-inspirierte Sneaker, Performance-Modelle, sportive Schuhe", type: "SP" },
-            { text: "Chunky Sneaker, markante Boots, auffällige Modelle", type: "US" },
+            { text: "Stilvoll, modern und sympathisch entspannt.", type: "A" },
+            { text: "Kompetent, gepflegt und zugänglich.", type: "B" },
+            { text: "Energiegeladen, unkompliziert und natürlich.", type: "C" },
+            { text: "Souverän, hochwertig und kultiviert.", type: "D" },
           ],
         },
         {
-          text: "Was findet sich in Ihrem Kleiderschrank besonders oft?",
+          text: "Welche Materialien und Oberflächen sprechen Sie am meisten an?",
           options: [
-            { text: "Hemden, Poloshirts, Blazer, saubere Basics", type: "SC" },
-            { text: "Jeans, Overshirts, Strick, schlichte Jacken", type: "CM" },
-            { text: "Hoodies, Shorts, Funktionsmaterialien, Zipper", type: "SP" },
-            { text: "Statement-Jacken, trendige Denims, besondere Schnitte", type: "US" },
+            { text: "Feine, moderne Stoffe mit Struktur, die lässig und hochwertig zugleich wirken.", type: "A" },
+            { text: "Glatte, gepflegte Materialien mit ruhiger, professioneller Wirkung.", type: "B" },
+            { text: "Weiche, flexible und funktionale Stoffe mit angenehmem Tragegefühl.", type: "C" },
+            { text: "Edle, klassische Materialien wie hochwertige Wolle, Baumwolle oder Leder.", type: "D" },
           ],
         },
         {
-          text: "Welche Accessoires tragen Sie am ehesten?",
+          text: "Sie haben einen wichtigen Termin ohne strengen Dresscode. Was wählen Sie am ehesten?",
           options: [
-            { text: "Hochwertige Uhr, Ledergürtel, elegante Tasche", type: "SC" },
-            { text: "Cap, schlichte Uhr, dezente Everyday-Accessoires", type: "CM" },
-            { text: "Sportuhr, Crossbody Bag, funktionale Pieces", type: "SP" },
-            { text: "Kette, Ring, markante Brille oder modische Tasche", type: "US" },
+            { text: "Ein stilvolles, modernes Outfit mit entspannter Eleganz.", type: "A" },
+            { text: "Einen gepflegten Look, der Seriosität ausstrahlt, ohne zu formell zu sein.", type: "B" },
+            { text: "Einen bequemen, klaren Look, in dem Sie sich frei und sicher bewegen können.", type: "C" },
+            { text: "Ein klassisch aufgebautes Outfit, das ruhig, hochwertig und verlässlich wirkt.", type: "D" },
           ],
         },
         {
-          text: "Wie möchten Sie wirken?",
+          text: "Welche Aussage beschreibt Ihren Stilanspruch am besten?",
           options: [
-            { text: "Souverän und gepflegt", type: "SC" },
-            { text: "Sympathisch und stilbewusst", type: "CM" },
-            { text: "Aktiv und unkompliziert", type: "SP" },
-            { text: "Selbstbewusst und modern", type: "US" },
+            { text: "Ich möchte gut angezogen wirken, ohne jemals overdressed zu erscheinen.", type: "A" },
+            { text: "Ich möchte professionell und gepflegt auftreten, aber nicht steif.", type: "B" },
+            { text: "Ich möchte, dass mein Stil aktiv, bequem und unkompliziert ist.", type: "C" },
+            { text: "Ich möchte, dass mein Stil zeitlos, stilvoll und dauerhaft passend bleibt.", type: "D" },
           ],
         },
         {
-          text: "Was inspiriert Sie beim Styling?",
+          text: "Welches Kleidungsstück hat für Sie die größte stilistische Aussagekraft?",
           options: [
-            { text: "Zeitlose Herrenmode, hochwertige Marken, klassische Vorbilder", type: "SC" },
-            { text: "Alltag, gutes Design, cleane Casual-Looks", type: "CM" },
-            { text: "Sport, Performance, Athleisure, funktionale Outfits", type: "SP" },
-            { text: "Streetstyle, Trends, kreative Looks, Fashion Content", type: "US" },
-          ],
-        },
-        {
-          text: "Welche Jacke oder welcher Layer passt am besten zu Ihnen?",
-          options: [
-            { text: "Blazer, Wollmantel, strukturierte Übergangsjacke", type: "SC" },
-            { text: "Overshirt, Bomberjacke, leichte Casual-Jacke", type: "CM" },
-            { text: "Steppweste, Funktionsjacke, sportive Layer", type: "SP" },
-            { text: "Lederjacke, Utility-Jacke, Statement-Outerwear", type: "US" },
-          ],
-        },
-        {
-          text: "Welcher Satz beschreibt Sie am besten?",
-          options: [
-            { text: "Ich möchte gepflegt, sicher und hochwertig wirken", type: "SC" },
-            { text: "Ich möchte entspannt aussehen und trotzdem gut angezogen sein", type: "CM" },
-            { text: "Ich brauche Looks, die zu meinem aktiven Alltag passen", type: "SP" },
-            { text: "Ich möchte mit meinem Stil Persönlichkeit zeigen", type: "US" },
+            { text: "Ein perfekt sitzendes Overshirt, Sakko oder modernes Layering-Piece.", type: "A" },
+            { text: "Ein gutes Hemd, Chino oder Sakko, das Struktur und Souveränität gibt.", type: "B" },
+            { text: "Eine hochwertige Jacke, ein Poloshirt oder ein cleaner Sneaker mit sportiver Note.", type: "C" },
+            { text: "Ein klassischer Mantel, ein edles Sakko oder ein fein gearbeitetes Schuhpaar.", type: "D" },
           ],
         },
       ];
@@ -1685,13 +1670,13 @@
       }
 
       function getTypeCodes() {
-        return selectedGender === "male" ? ["SC", "CM", "SP", "US"] : ["dramatic", "business", "romantic", "casual", "sport"];
+        return selectedGender === "male" ? ["A", "B", "C", "D"] : ["dramatic", "business", "romantic", "casual", "sport"];
       }
 
       function computeScores(limit) {
         const questions = getQuestionsList();
         const defaults = selectedGender === "male" 
-          ? { SC: 0, CM: 0, SP: 0, US: 0 }
+          ? { A: 0, B: 0, C: 0, D: 0 }
           : { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
         const scores = { ...defaults };
         const actualLimit = limit || questions.length;
