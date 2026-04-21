@@ -1585,38 +1585,44 @@
       ];
 
       const FEEDBACK_STEPS = {
-        2: {
-          title: "Ihr Stilkompass zeigt bereits eine erste Richtung.",
+        3: {
+          title: "Ihr Stilgefühl nimmt Form an.",
           intro:
-            "Schon jetzt wird sichtbar, ob Sie eher über Wirkung, Klarheit, Weichheit, Balance oder Dynamik in Ihren Stil finden.",
+            "Sie haben bereits die ersten wichtigen Impulse gesetzt.",
+          details: [
+            "Oft zeigt sich schon jetzt, ob Ihr Stil eher klar, weich, ausdrucksstark oder entspannt geprägt ist.",
+            "Mit den nächsten Fragen wird Ihr Stilprofil noch feiner und persönlicher. Bleiben Sie bei dem, was sich spontan richtig anfühlt.",
+          ],
         },
-        5: {
-          title: "Jetzt zeigt sich, wie Sie Stil im Alltag leben.",
+        7: {
+          title: "Ihr Stilprofil wird jetzt deutlich.",
           intro:
-            "In der Mitte des Tests wird klarer, worauf Sie bei Kleidung und Ausstrahlung am meisten Wert legen.",
-        },
-        8: {
-          title: "Ihr Stilprofil wird jetzt sehr präzise.",
-          intro:
-            "Die Grundrichtung steht bereits. Haupttyp und spannende Nebentypen sind schon deutlich erkennbar.",
+            "Sie haben schon einen großen Teil Ihres persönlichen Stilbilds sichtbar gemacht.",
+          details: [
+            "Jetzt geht es um die feinen Nuancen, die aus einem guten Ergebnis ein wirklich treffendes Profil machen.",
+            "Die letzten Fragen schärfen Ihren Haupttyp und zeigen, welche Stilrichtungen zusätzlich in Ihnen angelegt sind.",
+          ],
         },
       };
 
       const MALE_FEEDBACK_STEPS = {
-        2: {
-          title: "Sie setzen schon klare Stil-Signale.",
+        3: {
+          title: "Ihr Stil zeigt bereits klare Tendenzen.",
           intro:
-            "Im Moment zeigt sich, ob Sie eher auf gepflegte Klarheit, entspannte Modernität, sportliche Funktion oder markante Statements setzen.",
+            "Die ersten Antworten geben schon ein gutes Bild davon, wie Sie wirken möchten und worin Sie sich wirklich stimmig fühlen.",
+          details: [
+            "Ob modern, souverän, sportiv oder klassisch: Ihr Stilprofil beginnt sich jetzt klar abzuzeichnen.",
+            "Antworten Sie weiter intuitiv — genau so wird das Ergebnis am treffendsten.",
+          ],
         },
-        5: {
-          title: "Jetzt wird Ihr Stilprofil konkreter.",
+        6: {
+          title: "Ihr persönlicher Stil wird greifbar.",
           intro:
-            "Nicht nur Ihr Geschmack, sondern auch Ihr Alltag und Ihr gewünschter Auftritt werden sichtbar.",
-        },
-        8: {
-          title: "Ihr Ergebnis schärft sich.",
-          intro:
-            "Oft zeigt sich jetzt ein Haupttyp und ein ergänzender Zweitstil — genau daraus entstehen meist die stärksten Outfits.",
+            "Sie haben den größten Teil des Tests bereits geschafft.",
+          details: [
+            "Jetzt zeigen die letzten Antworten, welche Stilrichtung Sie am stärksten prägt — und welche zweite Nuance Ihren Look zusätzlich besonders macht.",
+            "Noch wenige Schritte, dann sehen Sie Ihr persönliches Stilprofil.",
+          ],
         },
       };
 
@@ -1772,27 +1778,12 @@
       function showFeedback(answeredCount) {
         const feedbackSteps = getFeedbackSteps();
         const stepConfig = feedbackSteps[answeredCount];
-        const ranking = sortedTypes(answeredCount);
-        const primary = ranking[0];
-        const secondary = ranking[1];
-        const isMale = selectedGender === "male";
 
         feedbackTitle.textContent = stepConfig.title;
-        feedbackText.textContent = stepConfig.intro;
-        feedbackHighlight.innerHTML = `
-        <div class="feedback-box">
-          <strong style="display:block;font-size:1.15rem;margin-bottom:8px;">Aktuell besonders stark: ${primary.profile.label}</strong>
-          <p>${primary.profile.insight}</p>
-        </div>
-        <div class="feedback-box">
-          <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">Spannende zweite Tendenz: ${secondary.profile.label}</strong>
-          <p>Diese zweite Richtung gibt Ihrem Stilprofil Tiefe und zeigt, welche Mischung Sie besonders interessant macht.</p>
-          <div class="mix-row">
-            <span class="mix-chip">${primary.profile.label}</span>
-            <span class="mix-chip">${secondary.profile.label}</span>
-          </div>
-        </div>
-      `;
+        feedbackText.innerHTML = [stepConfig.intro]
+          .concat(stepConfig.details || [])
+          .join("<br /><br />");
+        feedbackHighlight.innerHTML = "";
 
         showPanel(feedbackPanel);
       }
