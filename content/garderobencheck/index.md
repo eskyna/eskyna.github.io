@@ -61,4 +61,4 @@ Wardrobe-Refresh: erst Basis stabilisieren, dann gezielt „Wow“-Teile ergänz
 Wenn Sie möchten, schauen wir gemeinsam darauf - und ich mache Ihnen einen klaren Plan, was Sie brauchen
 und was Sie sich sparen können.
 
-**Termin buchen:** [Kostenloses Kennenlerngespräch](https://calendar.app.google/mGFQuoZbyqQRTABi9)
+**Termin buchen:** [Kostenloses Kennenlerngespräch](https://calendar.app.google/yxftEwKaef4UJL6b7)

@@ -60,7 +60,7 @@ coach:
   title: "Профессиональный Image и Style-коач Natalia Kleemann"
   text: "Я помогаю вам целеустремленно и стильно решать эти задачи."
   buttonText: "Записаться на бесплатную первую встречу"
-  buttonHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+  buttonHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
   image: "images/Nati2.png"
 facts:
   title: "Несколько фактов обо мне"
@@ -85,7 +85,7 @@ services:
             - "Честная рекомендация, какой формат коучинга для вас действительно подходит"
           result: "Вы выходите из разговора с ясностью — и знаете, какой шаг имеет смысл дальше."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+          ctaHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
         - title: "Бесплатный тест стиля"
           text: "Идеальный старт, если вы хотите лучше понять свой стиль и получить первую ориентацию."
           highlights:
@@ -94,7 +94,7 @@ services:
             - "Первые рекомендации по цветам, фасонам и влиянию"
           result: "За несколько минут вы получаете первое чёткое представление о том, какие цвета и фасоны вам подходят."
           ctaText: "Начать тест стиля"
-          ctaHref: "/stiltest/"
+          ctaHref: "/hannover2026/"
         - title: "10 советов по стилю (PDF)"
           text: "Компактный бесплатный гайд с десятью практичными советами, которые можно сразу применить в повседневной жизни."
           highlights:
@@ -303,7 +303,7 @@ ui:
   coach_about_cta_text: "Обо мне"
   coach_about_cta_href: "/ru/about/"
   faq_cta_text: "Записаться на бесплатную первую встречу"
-  faq_cta_href: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+  faq_cta_href: "https://calendar.app.google/yxftEwKaef4UJL6b7"
   case_situation_label: "Исходная ситуация"
   case_service_label: "Услуга"
   case_result_label: "Результат"
@@ -315,11 +315,11 @@ ui:
   quicklinks_title: "Быстрые ссылки"
   quicklinks:
     - title: "Тест стиля"
-      link: "/stiltest/"
+      link: "/hannover2026/"
       description: "Первые выводы о вашем стиле за несколько минут."
       external: true
     - title: "Записаться на бесплатную первую встречу"
-      link: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+      link: "https://calendar.app.google/yxftEwKaef4UJL6b7"
       description: "Забронируйте прямо бесплатную встречу."
       external: true
 ---

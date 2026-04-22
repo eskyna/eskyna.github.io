@@ -1273,7 +1273,9 @@
                   </div>
                   <a
                     class="btn btn-primary"
-                    href="mailto:natalia@eskina.com?subject=EStyle%20Betatest%20Hannover%20Messe%202026&body=Hallo%20ESKYNA%2C%0A%0Aich%20m%C3%B6chte%20mich%20gerne%20f%C3%BCr%20den%20EStyle-Betatest%20im%20Rahmen%20der%20Hannover%20Messe%202026%20eintragen.%0A%0AViele%20Gr%C3%BC%C3%9Fe"
+                    href="https://forms.gle/dFdsBhXg96MMKWdSA"
+                    target="_blank"
+                    rel="noopener"
                     >Jetzt eintragen</a
                   >
                 </article>
@@ -1294,7 +1296,7 @@
                   </div>
                   <a
                     class="btn btn-secondary"
-                    href="https://calendar.google.com/appointments/schedules/AcZssZ0Zto6z33xcRMUJ1w9lIvMZjciiR3tsA-4zyxJbjYb392QYbGzgYWJIR2wOVSaSNr-H60wiiKxE"
+                    href="https://calendar.app.google/yxftEwKaef4UJL6b7"
                     target="_blank"
                     rel="noopener"
                     >Erstgespräch buchen</a
@@ -1502,28 +1504,22 @@
 
       const MALE_TYPE_PROFILES = {
         A: {
-          label: "Smart Casual",
-          short: "Lässig trifft Stilbewusstsein: Ihr Look ist modern, entspannt und dennoch gepflegt. Sie möchten gut angezogen sein, ohne geschniegelt zu wirken.",
-          insight: "Typisch für Sie sind hochwertige Sneaker, Poloshirts oder feine T-Shirts, Overshirts, moderne Chinos, strukturierte Jacken und dezente Accessoires.",
-          vibe: "stilbewusst, nahbar, modern",
+          label: "Casual",
+          short: "Entspannter Stil mit Geschmack: Dein Look ist lässig, unkompliziert und trotzdem bewusst gewählt. Du magst Outfits, die natürlich wirken und dir im Alltag maximale Freiheit geben.",
+          insight: "Typisch für dich: Jeans, T-Shirts, Strick, Overshirts, lässige Jacken, cleane Sneaker, Naturtöne und unkomplizierte Basics.",
+          vibe: "nahbar, authentisch, entspannt",
         },
         B: {
-          label: "Business Casual",
-          short: "Gepflegt, souverän und vielseitig: Ihr Stil funktioniert im Beruf genauso gut wie im gehobenen Alltag. Sie mögen klare Linien, Qualität und ein Auftreten mit Niveau.",
-          insight: "Typisch für Sie sind Hemden, Sakkos, Chinos, Lederschuhe oder cleane Business-Sneaker, feine Strickteile und gedeckte Farben.",
-          vibe: "kompetent, zuverlässig, professionell",
+          label: "Classic",
+          short: "Klassik trifft Souveränität: Dein Stil ist zeitlos, gepflegt und hochwertig - ob im Beruf, beim Ausgehen oder im Alltag. Du schätzt klare Linien, gute Materialien und einen sicheren Auftritt.",
+          insight: "Typisch für dich: Hemden, Poloshirts, Chinos, Sakkos, feine Strickteile, klassische Mäntel, Lederschuhe oder cleane Smart-Sneaker, gedeckte Farben.",
+          vibe: "stilbewusst, souverän, vertrauenswürdig",
         },
         C: {
-          label: "Sporty Style",
-          short: "Dynamisch, unkompliziert und aktiv: Ihr Stil lebt von Komfort, Funktion und einer klaren, modernen Ausstrahlung. Sie möchten Bewegungsfreiheit, ohne auf einen guten Look zu verzichten.",
-          insight: "Typisch für Sie sind Sneaker, Poloshirts, leichte Jacken, funktionale Stoffe, sportive Schnitte, reduzierte Farben und cleane Basics.",
-          vibe: "energiegeladen, unkompliziert, selbstsicher",
-        },
-        D: {
-          label: "Classic Style",
-          short: "Zeitlos, hochwertig und kultiviert: Ihr Stil setzt nicht auf Trends, sondern auf Klasse. Sie bevorzugen langlebige Pieces mit klarer Form, exzellenter Passform und ruhiger Eleganz.",
-          insight: "Typisch für Sie sind klassische Hemden, Lederschuhe, Wollmäntel, feine Strickmode, Sakkos, hochwertige Gürtel und Uhren sowie dezente Farbwelten.",
-          vibe: "souverän, stilvoll, vertrauenswürdig",
+          label: "Sporty",
+          short: "Dynamisch, modern und aktiv: Dein Stil verbindet Komfort mit Funktion - für Männer, die in Bewegung sind und dabei gut aussehen wollen.",
+          insight: "Typisch für dich: Sneaker, Hoodies, Poloshirts, sportive Jacken, funktionale Stoffe, cleane Schnitte, bequeme Hosen und reduzierte Farben.",
+          vibe: "energiegeladen, selbstsicher, unkompliziert",
         },
       };
 
@@ -1541,75 +1537,67 @@
 
       const MALE_QUESTIONS = [
         {
-          text: "In welchem Outfit fühlen Sie sich im Alltag am meisten wie Sie selbst?",
+          text: "Welche Farben bevorzugst du im Alltag?",
           options: [
-            { text: "In einem modernen Look, der entspannt wirkt, aber sichtbar Stilbewusstsein zeigt.", type: "A" },
-            { text: "In einem gepflegten, souveränen Outfit, das beruflich wie privat funktioniert.", type: "B" },
-            { text: "In einem unkomplizierten Look, der Bewegung, Komfort und Leichtigkeit ausstrahlt.", type: "C" },
-            { text: "In einem klaren, zeitlosen Outfit, das nie laut sein muss, um gut zu wirken.", type: "D" },
+            { text: "Zurückhaltende, entspannte Töne: Beige, Denim, Khaki, Off-White", type: "A" },
+            { text: "Klassische Farben mit Stil: Marineblau, Grau, Weiß, Dunkelbraun", type: "B" },
+            { text: "Klare, frische Farben: Schwarz, Weiß, Blau, sportliche Kontraste", type: "C" },
           ],
         },
         {
-          text: "Wenn Sie ein neues Outfit kaufen, worauf achten Sie zuerst?",
+          text: "Wie sieht dein Lieblingsoutfit aus?",
           options: [
-            { text: "Auf die Kombination aus Lässigkeit, Aktualität und geschmackvollen Details.", type: "A" },
-            { text: "Auf Vielseitigkeit, Seriosität und eine saubere, gepflegte Wirkung.", type: "B" },
-            { text: "Auf Bequemlichkeit, Funktion und einen dynamischen Gesamteindruck.", type: "C" },
-            { text: "Auf Qualität, Passform und zeitlose Eleganz.", type: "D" },
+            { text: "Jeans oder Chino mit T-Shirt, Strick oder Overshirt - lässig & gepflegt", type: "A" },
+            { text: "Hemd oder Polo mit Sakko, Chino oder Stoffhose - stilvoll & souverän", type: "B" },
+            { text: "Hoodie, Poloshirt oder funktionales Oberteil mit bequemer Hose - dynamisch & unkompliziert", type: "C" },
           ],
         },
         {
-          text: "Welche Schuhe greifen Sie am ehesten, wenn Sie gut angezogen sein möchten?",
+          text: "Welche Schuhe trägst du am liebsten?",
           options: [
-            { text: "Hochwertige Sneaker oder moderne Loafer mit urbaner Ausstrahlung.", type: "A" },
-            { text: "Cleane Lederschuhe oder gepflegte Hybrid-Modelle mit Business-Tauglichkeit.", type: "B" },
-            { text: "Sportliche Sneaker, die leicht, bequem und aktiv wirken.", type: "C" },
-            { text: "Klassische Lederschuhe, die Stil und Beständigkeit verkörpern.", type: "D" },
+            { text: "Hochwertige Sneaker, Desert Boots oder lässige Lederschuhe", type: "A" },
+            { text: "Loafer, klassische Lederschuhe oder cleane Smart-Sneaker", type: "B" },
+            { text: "Sportliche Sneaker, Runner oder funktionale Freizeitschuhe", type: "C" },
           ],
         },
         {
-          text: "Wie soll Kleidung idealerweise auf andere wirken?",
+          text: "Worauf legst du bei Kleidung den größten Wert?",
           options: [
-            { text: "Stilvoll, modern und sympathisch entspannt.", type: "A" },
-            { text: "Kompetent, gepflegt und zugänglich.", type: "B" },
-            { text: "Energiegeladen, unkompliziert und natürlich.", type: "C" },
-            { text: "Souverän, hochwertig und kultiviert.", type: "D" },
+            { text: "Komfort & ein entspannter, authentischer Look", type: "A" },
+            { text: "Stil & ein gepflegter, hochwertiger Auftritt", type: "B" },
+            { text: "Funktionalität & maximale Bewegungsfreiheit", type: "C" },
           ],
         },
         {
-          text: "Welche Materialien und Oberflächen sprechen Sie am meisten an?",
+          text: "Was findet sich in deinem Kleiderschrank am häufigsten?",
           options: [
-            { text: "Feine, moderne Stoffe mit Struktur, die lässig und hochwertig zugleich wirken.", type: "A" },
-            { text: "Glatte, gepflegte Materialien mit ruhiger, professioneller Wirkung.", type: "B" },
-            { text: "Weiche, flexible und funktionale Stoffe mit angenehmem Tragegefühl.", type: "C" },
-            { text: "Edle, klassische Materialien wie hochwertige Wolle, Baumwolle oder Leder.", type: "D" },
+            { text: "T-Shirts, Jeans, Strick, Overshirts, unkomplizierte Basics", type: "A" },
+            { text: "Hemden, Poloshirts, Chinos, Sakkos, hochwertige Klassiker", type: "B" },
+            { text: "Hoodies, sportive Jacken, Sneaker, funktionale Basics", type: "C" },
           ],
         },
         {
-          text: "Sie haben einen wichtigen Termin ohne strengen Dresscode. Was wählen Sie am ehesten?",
+          text: "Welche Jacken oder Outerwear passen am besten zu dir?",
           options: [
-            { text: "Ein stilvolles, modernes Outfit mit entspannter Eleganz.", type: "A" },
-            { text: "Einen gepflegten Look, der Seriosität ausstrahlt, ohne zu formell zu sein.", type: "B" },
-            { text: "Einen bequemen, klaren Look, in dem Sie sich frei und sicher bewegen können.", type: "C" },
-            { text: "Ein klassisch aufgebautes Outfit, das ruhig, hochwertig und verlässlich wirkt.", type: "D" },
+            { text: "Overshirts, Denimjacken, leichte Mäntel oder lässige Blousons", type: "A" },
+            { text: "Wollmantel, Sakko, klassische Übergangsjacke oder gepflegte Lederjacke", type: "B" },
+            { text: "Steppjacke, sportive Zip-Jacke, leichte Funktionsjacke oder Bomberjacke", type: "C" },
           ],
         },
         {
-          text: "Welche Aussage beschreibt Ihren Stilanspruch am besten?",
+          text: "Wie würdest du deine Ausstrahlung beschreiben?",
           options: [
-            { text: "Ich möchte gut angezogen wirken, ohne jemals overdressed zu erscheinen.", type: "A" },
-            { text: "Ich möchte professionell und gepflegt auftreten, aber nicht steif.", type: "B" },
-            { text: "Ich möchte, dass mein Stil aktiv, bequem und unkompliziert ist.", type: "C" },
-            { text: "Ich möchte, dass mein Stil zeitlos, stilvoll und dauerhaft passend bleibt.", type: "D" },
+            { text: "Nahbar & entspannt", type: "A" },
+            { text: "Souverän & stilbewusst", type: "B" },
+            { text: "Aktiv & selbstsicher", type: "C" },
           ],
         },
         {
-          text: "Welches Kleidungsstück hat für Sie die größte stilistische Aussagekraft?",
+          text: "Welcher Satz passt am besten zu dir?",
           options: [
-            { text: "Ein perfekt sitzendes Overshirt, Sakko oder modernes Layering-Piece.", type: "A" },
-            { text: "Ein gutes Hemd, Chino oder Sakko, das Struktur und Souveränität gibt.", type: "B" },
-            { text: "Eine hochwertige Jacke, ein Poloshirt oder ein cleaner Sneaker mit sportiver Note.", type: "C" },
-            { text: "Ein klassischer Mantel, ein edles Sakko oder ein fein gearbeitetes Schuhpaar.", type: "D" },
+            { text: "Ich möchte gut angezogen sein, ohne dass es angestrengt wirkt", type: "A" },
+            { text: "Ich möchte gepflegt, stilvoll und sicher auftreten", type: "B" },
+            { text: "Ich brauche Looks, die bequem sind und zu meinem aktiven Alltag passen", type: "C" },
           ],
         },
       ];
@@ -1704,13 +1692,13 @@
       }
 
       function getTypeCodes() {
-        return selectedGender === "male" ? ["A", "B", "C", "D"] : ["dramatic", "business", "romantic", "casual", "sport"];
+        return selectedGender === "male" ? ["A", "B", "C"] : ["dramatic", "business", "romantic", "casual", "sport"];
       }
 
       function computeScores(limit) {
         const questions = getQuestionsList();
         const defaults = selectedGender === "male" 
-          ? { A: 0, B: 0, C: 0, D: 0 }
+          ? { A: 0, B: 0, C: 0 }
           : { dramatic: 0, business: 0, romantic: 0, casual: 0, sport: 0 };
         const scores = { ...defaults };
         const actualLimit = limit || questions.length;

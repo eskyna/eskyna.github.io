@@ -60,7 +60,7 @@ coach:
   title: "Professioneller Style- und Imagecoach Natalia Kleemann"
   text: "Ich helfe Ihnen dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch buchen"
-  buttonHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+  buttonHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
   image: "images/Nati2.png"
 facts:
   title: "Ein paar Fakten über mich"
@@ -85,7 +85,7 @@ services:
             - "Ehrliche Empfehlung, welches Coaching für Sie sinnvoll ist"
           result: "Sie gehen mit Klarheit aus dem Gespräch - und wissen, welcher Schritt als nächstes sinnvoll ist."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+          ctaHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
         - title: "Kostenloser Stiltest"
           text: "Der ideale Einstieg, wenn Sie Ihren Stil besser verstehen und erste Orientierung gewinnen möchten."
           highlights:
@@ -93,7 +93,7 @@ services:
             - "Verständliche Auswertung Ihres Stiltyps"
           result: "Sie bekommen in wenigen Minuten erste klare Hinweis, welche Stilrichtungen am besten zu Ihnen passen."
           ctaText: "Stiltest starten"
-          ctaHref: "/stiltest/"
+          ctaHref: "/hannover2026/"
         - title: "10 Styling-Tipps (PDF)"
           text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stil-Sicherheit im Alltag."
           highlights:
@@ -299,7 +299,7 @@ ui:
   coach_about_cta_text: "Über mich"
   coach_about_cta_href: "/about/"
   faq_cta_text: "Kostenloses Erstgespräch buchen"
-  faq_cta_href: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+  faq_cta_href: "https://calendar.app.google/yxftEwKaef4UJL6b7"
   case_situation_label: "Ausgangssituation"
   case_service_label: "Leistung"
   case_result_label: "Ergebnis"
@@ -311,11 +311,11 @@ ui:
   quicklinks_title: "Schnellzugriff"
   quicklinks:
     - title: "Stiltest"
-      link: "/stiltest/"
+      link: "/hannover2026/"
       description: "Erste Erkenntnisse zu Ihrem Stil in wenigen Minuten."
       external: true
     - title: "Kostenloses Erstgespräch buchen"
-      link: "https://calendar.app.google/mGFQuoZbyqQRTABi9"
+      link: "https://calendar.app.google/yxftEwKaef4UJL6b7"
       description: "Buchen Sie direkt einen kostenlosen Kennenlerntermin."
       external: true
 ---

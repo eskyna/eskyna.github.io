@@ -53,3 +53,9 @@ und weniger Retouren.
 
 Wenn Sie EStyle als Nutzer:in oder als B2B-Partner spannend finden, schreiben Sie mir gerne:
 **[estyle@eskyna.com](mailto:estyle@eskyna.com)**
+
+## Jetzt in die Warteliste eintragen
+
+EStyle befindet sich aktuell in der Entwicklung. Tragen Sie sich jetzt ein und sichern Sie sich frühen Zugang:
+
+**[Zur Warteliste anmelden →](https://forms.gle/dFdsBhXg96MMKWdSA)**
