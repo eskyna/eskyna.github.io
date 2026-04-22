@@ -60,16 +60,16 @@
     </div>
   </section>
 
-  <section class="section benefits-section">
+  <section class="section benefits-section"{{ with $results.background }} style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ . | relURL }}'); background-size: cover; background-position: center; background-attachment: fixed; color: white;"{{ end }}>
     <div class="container">
-      <h2>{{ $results.title }}</h2>
-      <p class="benefits-intro">{{ $ui.benefits_intro }}</p>
+      <h2 style="color: white;">{{ $results.title }}</h2>
+      <p class="benefits-intro" style="color: rgba(255,255,255,0.9);">{{ $ui.benefits_intro }}</p>
       <div class="benefits-grid">
         {{ range $index, $item := $results.items }}
-          <article class="benefit-card">
-            <p class="benefit-index">{{ printf "%02d" (add $index 1) }}</p>
-            <h3>{{ $item.title }}</h3>
-            <p>{{ $item.text }}</p>
+          <article class="benefit-card" style="background-color: rgba(255,255,255,0.1); color: white;">
+            <p class="benefit-index" style="color: rgba(255,255,255,0.7);">{{ printf "%02d" (add $index 1) }}</p>
+            <h3 style="color: white;">{{ $item.title }}</h3>
+            <p style="color: rgba(255,255,255,0.95);">{{ $item.text }}</p>
           </article>
         {{ end }}
       </div>

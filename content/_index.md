@@ -30,6 +30,7 @@ problems:
       text: "Sie suchen noch nach der perfekten Frisur und dem Make-up für Ihren Typ."
 results:
   title: "Das gewinnen Sie durch die Zusammenarbeit"
+  background: "images/style/telegram-cloud-document-2-5409001200341258794.jpg"
   items:
     - title: "Sie wissen, welche Outfits wirklich funktionieren"
       text: "Sie kennen Ihre Farben, Schnitte und Kombinationen und entscheiden morgens schneller und sicherer."
@@ -231,19 +232,6 @@ references:
     - name: "Hannover Messe 2026"
       label: "Veranstaltung"
       logo: "images/references/hannover-messe.png"
-cases:
-  title: "Ergebnisse aus der Praxis"
-  subtitle: "So verändert sich der Stilalltag meiner Kundinnen und Kunden konkret."
-  items:
-    - situation: "Unsicherheit bei Kundenterminen und beruflichen Auftritten."
-      service: "Farb- und Stilberatung"
-      result: "Klarerer Auftritt, passendere Outfits und mehr Sicherheit in Meetings und Gesprächen."
-    - situation: "Viele Teile im Schrank, aber kaum passende Kombinationen."
-      service: "Garderoben-Check mit Ergänzungsplan"
-      result: "Mehr tragbare Outfits aus vorhandenen Teilen und gezieltere zukünftige EinKäufe."
-    - situation: "Einkaufen war zeitaufwendig und oft frustrierend."
-      service: "Vorbereitung und Shoppingbegleitung"
-      result: "Schnellere Kaufentscheidungen, passendere Teile und keine Fehlkäufe."
 testimonials:
   title: "Das sagen meine Kundinnen"
   items:
