@@ -448,6 +448,7 @@
         <div class="card">
           <span class="section-eyebrow">Ihr Haupttyp</span>
           <div class="result-primary" id="primaryCard">
+            <img id="primaryImg" class="hidden" style="display:block;width:100%;height:auto;max-height:520px;object-fit:contain;border-radius:12px;margin-bottom:14px;background:rgba(255,255,255,0.65);" loading="lazy" />
             <div class="type-name" id="primaryLabel"></div>
             <p id="primaryShort" style="margin-bottom: 4px;"></p>
             <p id="primaryInsight" style="color: var(--muted); font-size: 0.97rem;"></p>
@@ -491,6 +492,7 @@
             "Sie lieben Ausdruck und starke Akzente. Ihr Stil ist kraftvoll, mutig und unvergesslich. Sie wollen auffallen - und das mit Absicht. Typisch für Sie: Schwarz-Rot-Kontraste, Statement-Pieces, asymmetrische Schnitte, High Heels, Oversize-Blazer, Leder.",
           insight: "Sie lieben Ausdruck und starke Akzente.",
           vibe: "charismatisch, selbstbewusst, unvergesslich",
+          image: "/images/style/women/drama.png",
         },
         business: {
           label: "Business Chic",
@@ -498,6 +500,7 @@
             "Klassik trifft Qualität: Ihr Look ist zeitlos und professionell - ob im Meeting, beim Netzwerken oder im Alltag. Typisch für Sie: Blazer, Stoffhosen, Bleistiftröcke, dezenter Schmuck, hochwertige Basics, gedeckte Farbtöne.",
           insight: "Klassik trifft Qualität: Ihr Look ist zeitlos und professionell.",
           vibe: "souverän, organisiert, vertrauenswürdig",
+          image: "/images/style/women/business.png",
         },
         romantic: {
           label: "Romantic Chic",
@@ -505,6 +508,7 @@
             "Feminine Leichtigkeit pur: Ihr Stil wirkt sanft, verspielt und elegant - perfekt für ästhetische Statements. Typisch für Sie: Kleider mit Volants, florale Muster, Pastelltöne, zarte Materialien, Perlen- oder Schleifendetails.",
           insight: "Feminine Leichtigkeit pur: Ihr Stil wirkt sanft, verspielt und elegant.",
           vibe: "herzlich, einfühlsam, romantisch",
+          image: "/images/style/women/romantic.png",
         },
         casual: {
           label: "Casual Chic",
@@ -512,6 +516,7 @@
             "Unkomplizierter Stil mit Tiefgang: Ihr Alltag ist minimalistisch, aber bewusst - funktional und gut angezogen. Typisch für Sie: Jeans, Strick, Layering, Naturtöne, schlichte Accessoires, bequeme Schuhe.",
           insight: "Unkomplizierter Stil mit Tiefgang: minimalistisch, bewusst und alltagstauglich.",
           vibe: "authentisch, sympathisch, geerdet",
+          image: "/images/style/women/casual.png",
         },
         sport: {
           label: "Sporty Chic",
@@ -519,6 +524,7 @@
             "Dynamisch, modern und aktiv: Ihr Stil verbindet Komfort mit Stil - für Frauen, die in Bewegung bleiben. Typisch für Sie: Sneaker, Jogginghosen, cleane Schnitte, Athleisure-Looks, klare Farben.",
           insight: "Dynamisch, modern und aktiv: Komfort und Stil gehen bei Ihnen zusammen.",
           vibe: "energiegeladen, selbstbewusst, flexibel",
+          image: "/images/style/women/sporty.png",
         },
       };
 
@@ -858,6 +864,15 @@
         document.getElementById("primaryInsight").textContent = primary.insight;
         document.getElementById("primaryVibe").textContent = "Wirkung: " + primary.vibe;
 
+        const primaryImgEl = document.getElementById("primaryImg");
+        if (!isMale && primary.image) {
+          primaryImgEl.src = primary.image;
+          primaryImgEl.alt = primary.label;
+          primaryImgEl.classList.remove("hidden");
+        } else {
+          primaryImgEl.classList.add("hidden");
+        }
+
         // Bars
         const barStack = document.getElementById("barStack");
         barStack.innerHTML = ranking.map(item => {
@@ -874,6 +889,7 @@
         const sideContainer = document.getElementById("sideTypesContainer");
         sideContainer.innerHTML = sideTypes.map(item => `
           <div class="side-block">
+            ${!isMale && item.profile.image ? `<img src="${item.profile.image}" alt="${item.profile.label}" style="display:block;width:100%;height:auto;max-height:320px;object-fit:contain;border-radius:8px;margin-bottom:10px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
             <div class="type-name">${item.profile.label}</div>
             <p style="margin-bottom: 4px;">${item.profile.short}</p>
             <p style="font-size: 0.93rem;">${item.profile.insight}</p>
