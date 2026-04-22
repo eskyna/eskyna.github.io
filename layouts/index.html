@@ -46,12 +46,13 @@
     </div>
   </section>
 
-  <section class="section section-dark">
+  <section class="section section-dark problems-section">
     <div class="container">
       <h2>{{ $problems.title }}</h2>
       <div class="cards">
         {{ range $problems.items }}
           <article class="card">
+            {{ $itemTitle := .title }}{{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="card-icon">{{ end }}
             <h3>{{ .title }}</h3>
             <p>{{ .text }}</p>
           </article>

@@ -60,7 +60,7 @@ coach:
   title: "Профессиональный Image и Style-коач Natalia Kleemann"
   text: "Я помогаю вам целеустремленно и стильно решать эти задачи."
   buttonText: "Записаться на бесплатную первую встречу"
-  buttonHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+  buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   image: "images/Nati2.png"
 facts:
   title: "Несколько фактов обо мне"
@@ -85,7 +85,7 @@ services:
             - "Честная рекомендация, какой формат коучинга для вас действительно подходит"
           result: "Вы выходите из разговора с ясностью — и знаете, какой шаг имеет смысл дальше."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Бесплатный тест стиля"
           text: "Идеальный старт, если вы хотите лучше понять свой стиль и получить первую ориентацию."
           highlights:
@@ -114,7 +114,7 @@ services:
             - "Рекомендуемые образы для повседневной жизни, работы и особых случаев"
           result: "Вы быстрее понимаете, какие цвета, фасоны и комбинации вам действительно подходят — и можете принимать уверенные решения."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Цифровые стиль-гайды"
           text: "Для тех, кто ищет конкретное вдохновение в стиле и хочет шаг за шагом уверенней создавать свой look."
           highlights:
@@ -123,7 +123,7 @@ services:
             - "Практические формулы образов для прямого применения"
           result: "Больше ориентирования, меньше неуверенности - и образы, которые вы сможете быстрее выбрать утром."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 
     - title: "Личная консультация"
       items:
@@ -137,7 +137,7 @@ services:
           result: "Вы уходите с конкретными идеями образов, подходящих вашей повседневной жизни, вашей роли и вашей личности."
           note: "Место: Лейпциг, Эрфурт, Нордхаузен или Дрезден"
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Проверка гардероба"
           text: "Для вас, если шкаф полон, но вы всё равно ощущаете, что нечего надеть."
           highlights:
@@ -146,7 +146,7 @@ services:
             - "Чёткие рекомендации, что следует добавить - а что нет"
           result: "Вы видите, что носибельно, что сочетается - и что в будущем не нужно покупать лишнего."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
           ctaSecondaryText: "Самопроверка гардероба"
           ctaSecondaryHref: "/garderobencheck"
           ctaSecondaryNewTab: true
@@ -158,7 +158,7 @@ services:
             - "Фокус на посадку, качество, сочетаемость и воздействие"
           result: "Вы находите подходящие вещи быстрее и покупаете целенаправленно — без потери времени, денег и нервов."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 
     - title: "Премиум-услуги"
       items:
@@ -170,7 +170,7 @@ services:
             - "Сотрудничество с профессиональными фотографами"
           result: "Фотографии, которые показывают, какие вы есть на самом деле — профессионально, аутентично и с чётким имиджем."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Трансформация стиля (3 месяца)"
           text: "Интенсивное сопровождение для тех, кто хочет не просто улучшить свой стиль, но и устойчиво его трансформировать."
           highlights:
@@ -180,7 +180,7 @@ services:
             - "Развитие чёткого, гармоничного и сильного общего появления"
           result: "Ваш стиль соответствует вашей жизни, роли и личности — и вы носите его долгосрочно с уверенностью."
           ctaText: "Записаться на бесплатную первую встречу"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 
 method:
   eyebrow: "Метод ESKYNA"
@@ -303,7 +303,7 @@ ui:
   coach_about_cta_text: "Обо мне"
   coach_about_cta_href: "/ru/about/"
   faq_cta_text: "Записаться на бесплатную первую встречу"
-  faq_cta_href: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+  faq_cta_href: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   case_situation_label: "Исходная ситуация"
   case_service_label: "Услуга"
   case_result_label: "Результат"
@@ -319,7 +319,7 @@ ui:
       description: "Первые выводы о вашем стиле за несколько минут."
       external: true
     - title: "Записаться на бесплатную первую встречу"
-      link: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+      link: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
       description: "Забронируйте прямо бесплатную встречу."
       external: true
 ---

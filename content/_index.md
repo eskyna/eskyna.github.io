@@ -16,18 +16,25 @@ problems:
   items:
     - title: "Stil-Findung"
       text: "Ihre Kleidung spiegelt nicht Ihre wahre Persönlichkeit wider."
+      icon: "images/icons/stil-findung.svg"
     - title: "Shopping-Stress"
       text: "Einkaufen kostet Sie Nerven und ist eher Last als Vergnügen."
+      icon: "images/icons/shopping-stress.svg"
     - title: "Zeitmangel"
       text: "Im stressigen Alltag fehlt Ihnen schlichtweg die Zeit für Mode und Shopping."
+      icon: "images/icons/zeitmangel.svg"
     - title: "Fehlkäufe"
       text: "Ihr Kleiderschrank ist voll, aber Sie haben gefühlt „nichts anzuziehen“."
+      icon: "images/icons/fehlkaeufe.svg"
     - title: "Unsicherheit"
       text: "Das Kombinieren von passenden Farben und Schnitten fällt Ihnen schwer."
+      icon: "images/icons/unsicherheit.svg"
     - title: "Garderoben-Chaos"
       text: "Ihnen fehlt ein einfaches System zum Strukturieren und Ausmisten."
+      icon: "images/icons/garderoben-chaos.svg"
     - title: "Das gewisse Etwas"
       text: "Sie suchen noch nach der perfekten Frisur und dem Make-up für Ihren Typ."
+      icon: "images/icons/das-gewisse-etwas.svg"
 results:
   title: "Das gewinnen Sie durch die Zusammenarbeit"
   background: "images/style/telegram-cloud-document-2-5409001200341258794.jpg"
@@ -61,7 +68,7 @@ coach:
   title: "Professioneller Style- und Imagecoach Natalia Kleemann"
   text: "Ich helfe Ihnen dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch buchen"
-  buttonHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+  buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   image: "images/Nati2.png"
 facts:
   title: "Ein paar Fakten über mich"
@@ -86,7 +93,7 @@ services:
             - "Ehrliche Empfehlung, welches Coaching für Sie sinnvoll ist"
           result: "Sie gehen mit Klarheit aus dem Gespräch - und wissen, welcher Schritt als nächstes sinnvoll ist."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Kostenloser Stiltest"
           text: "Der ideale Einstieg, wenn Sie Ihren Stil besser verstehen und erste Orientierung gewinnen möchten."
           highlights:
@@ -103,7 +110,6 @@ services:
           result: "Sie erhalten direkt umsetzbare Impulse, mit denen Sie Ihren Stil sofort klarer und stimmiger gestalten."
           ctaText: "PDF kostenlos herunterladen"
           ctaHref: "/10_Styling_Tipps.pdf"
-
     - title: "Online-Angebote"
       items:
         - title: "Online-Styleanalyse"
@@ -114,7 +120,7 @@ services:
             - "Outfit-Empfehlungen für Alltag, Business und besondere Anlässe"
           result: "Sie erkennen schneller, welche Farben, Schnitte und Kombinationen wirklich zu Ihnen passen - und können sicherer entscheiden."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Digitale Style Guides"
           text: "Für alle, die konkrete Stil-Inspiration suchen und ihren Look Schritt für Schritt sicherer aufbauen möchten."
           highlights:
@@ -123,8 +129,7 @@ services:
             - "Praktische Outfit-Formeln zum direkten Umsetzen"
           result: "Mehr Orientierung, weniger Unsicherheit - und Outfits, die Sie morgens schneller greifen können."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
-
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
     - title: "Beratung vor Ort"
       items:
         - title: "Styleanalyse vor Ort"
@@ -137,7 +142,7 @@ services:
           result: "Sie erhalten konkrete Outfit-Ideen, die zu Ihrem Alltag, Ihrer Rolle und Ihrer Persönlichkeit passen."
           note: "Ort: Leipzig, Erfurt, Nordhausen oder Dresden"
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Garderoben-Check"
           text: "Für Sie, wenn Ihr Kleiderschrank voll ist, Sie aber trotzdem das Gefühl haben, nichts Passendes anzuziehen."
           highlights:
@@ -146,7 +151,7 @@ services:
             - "Klare Empfehlungen, was ergänzt werden sollte und was nicht"
           result: "Sie sehen, was tragbar ist, was sich kombinieren lässt und was künftig nicht mehr unnötig gekauft werden muss."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
           ctaSecondaryText: "Garderoben Selbstcheck"
           ctaSecondaryHref: "/garderobencheck"
           ctaSecondaryNewTab: true
@@ -158,8 +163,7 @@ services:
             - "Fokus auf Passform, Qualität, Kombinierbarkeit und Wirkung"
           result: "Wir finden passende Teile schneller und kaufen gezielter statt planlos."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
-
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
     - title: "Premium-Angebote"
       items:
         - title: "Style- und Image-Fotoshooting"
@@ -170,7 +174,7 @@ services:
             - "Zusammenarbeit mit Profi-Fotograf:innen"
           result: "Bilder, die zeigen, wie Sie wirklich sind - professionell, authentisch und mit klarem Auftritt."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         - title: "Stiltransformation (3 Monate)"
           text: "Die intensive Begleitung für alle, die ihren Stil nicht nur punktuell verbessern, sondern nachhaltig verändern möchten."
           highlights:
@@ -180,7 +184,7 @@ services:
             - "Entwicklung eines klaren, stimmigen und starken Gesamtauftritts"
           result: "Ihr Stil passt zu Ihrem Leben, Ihrer Rolle und Ihrer Persönlichkeit - und Sie tragen ihn dauerhaft mit Sicherheit."
           ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "#kontakt"
+          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 method:
   eyebrow: "Die ESKYNA Methode"
   title: "Mehr als Stilberatung: eine Methode mit System"
@@ -212,7 +216,6 @@ method:
       title: "Aktivierung"
       text: "Wie Sie Ihren Stil sicher und selbstverständlich leben."
       icon: "images/method/A_aktivierung.png"
-
 references:
   title: "Referenzen und Auszeichnungen"
   subtitle: "Vertrauen durch Erfahrung."
@@ -250,7 +253,7 @@ testimonials:
     - image: "images/customer_references/reference_5.png"
       quote: "Natalia versteht es wirklich, Menschen in ihrer Wirkung zu stärken. Nach der Beratung fühle ich mich in meiner Kleidung sicherer und trete in Gesprächen und Events selbstbewusster auf."
       name: "Julia B."
-
+  icon: "images/icons/unsicherheit.svg"
 faq:
   title: "Häufige Fragen vor dem Start"
   intro: "Hier finden Sie Antworten auf typische Fragen rund um die Beratung, den Ablauf und den passenden Einstieg."
@@ -267,13 +270,13 @@ faq:
       a: "Online ist ideal, wenn Sie flexibel und ortsunabhängig beraten werden möchten. Vor Ort ist besonders hilfreich, wenn es um Ihren Kleiderschrank, konkrete Outfitkombinationen oder persönliche Begleitung beim Shopping geht."
     - q: "Ist die Beratung auch für den beruflichen Kontext sinnvoll?"
       a: "Ja. Wenn Ihr Auftritt im Beruf eine wichtige Rolle spielt, hilft die Beratung dabei, Kompetenz, Persönlichkeit und Präsenz sichtbarer zu machen. Das ist besonders wertvoll für Meetings, Kundentermine, Vorträge und Führungsrollen."
-
+  icon: "images/icons/garderoben-chaos.svg"
 contact:
   title: "Lassen Sie uns über Ihren neuen Auftritt sprechen"
   text: "Buchen Sie ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu Ihnen passt."
   email: "natalia@eskyna.com"
   photo: "images/Natalia_Desk.png"
-
+  icon: "images/icons/das-gewisse-etwas.svg"
 ui:
   hero_image_alt: "Porträt von Natalia Kleemann"
   coach_image_alt: "Natalia Kleemann"
@@ -287,7 +290,7 @@ ui:
   coach_about_cta_text: "Über mich"
   coach_about_cta_href: "/about/"
   faq_cta_text: "Kostenloses Erstgespräch buchen"
-  faq_cta_href: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+  faq_cta_href: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   case_situation_label: "Ausgangssituation"
   case_service_label: "Leistung"
   case_result_label: "Ergebnis"
@@ -303,7 +306,7 @@ ui:
       description: "Erste Erkenntnisse zu Ihrem Stil in wenigen Minuten."
       external: true
     - title: "Kostenloses Erstgespräch buchen"
-      link: "https://calendar.app.google/yxftEwKaef4UJL6b7"
+      link: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
       description: "Buchen Sie direkt einen kostenlosen Kennenlerntermin."
       external: true
 ---

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Shopping-Stress">
+  <g stroke="#1F2937" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M18 24h28l-2.6 24H20.6z"/>
+    <path d="M24 24v-3c0-4.4 3.6-8 8-8s8 3.6 8 8v3"/>
+    <path d="M29 35l-4 6h6l-3 8 11-14h-6l3-6z"/>
+  </g>
+</svg>

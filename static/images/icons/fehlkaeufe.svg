@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Fehlkäufe">
+  <g stroke="#1F2937" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M20 25h24"/>
+    <path d="M24 21h16"/>
+    <path d="M23 25l2 23h14l2-23"/>
+    <path d="M29 31v11"/>
+    <path d="M35 31v11"/>
+    <path d="M28 12c1.2 1.8 2.8 2.7 4 2.7s2.8-.9 4-2.7"/>
+    <path d="M28 12l-4 3 2 5 4-1.8 2 6.8h-8"/>
+    <path d="M36 12l4 3-2 5-4-1.8-2 6.8h8"/>
+    <path d="M43 17l3 4"/>
+    <path d="M18 17l-3 4"/>
+  </g>
+</svg>

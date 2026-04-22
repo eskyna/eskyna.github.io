@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Unsicherheit">
+  <g stroke="#1F2937" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="14" y="14" width="10" height="10" rx="2"/>
+    <rect x="40" y="14" width="10" height="10" rx="2"/>
+    <path d="M24 19c3.2 0 5.6 1.2 8 4"/>
+    <path d="M40 19c-3.2 0-5.6 1.2-8 4"/>
+    <path d="M28 30c1.1 1.7 2.5 2.6 4 2.6s2.9-.9 4-2.6"/>
+    <path d="M28 30l-5 4 2.2 6 4.3-1.8 1.8 10.8h3.4l1.8-10.8 4.3 1.8 2.2-6-5-4"/>
+    <path d="M18 29l5 3"/>
+    <path d="M46 29l-5 3"/>
+  </g>
+</svg>

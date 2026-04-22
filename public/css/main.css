@@ -378,6 +378,77 @@ h2 {
   padding: 1.25rem;
 }
 
+.card-icon {
+  width: 100%;
+  max-width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.problems-section {
+  background: linear-gradient(180deg, rgb(243 235 226 / 42%), rgb(243 235 226 / 24%));
+}
+
+.problems-section .cards {
+  gap: 0.9rem;
+}
+
+.problems-section .card {
+  background: rgb(255 255 255 / 45%);
+  border: 1px solid rgb(44 30 22 / 14%);
+  border-radius: 12px;
+  padding: 1rem 1.05rem;
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  column-gap: 0.8rem;
+  row-gap: 0.2rem;
+  align-items: start;
+}
+
+.problems-section .card h3 {
+  margin: 0;
+  font-size: 1.04rem;
+  letter-spacing: 0.01em;
+  grid-column: 2;
+}
+
+.problems-section .card p {
+  margin: 0;
+  line-height: 1.55;
+  color: rgb(44 30 22 / 78%);
+  grid-column: 2;
+}
+
+.problems-section .card-icon {
+  width: 34px;
+  max-width: 34px;
+  height: 34px;
+  margin: 0.05rem 0 0;
+  opacity: 0.78;
+  filter: grayscale(1) contrast(0.9) brightness(0.7);
+  grid-column: 1;
+  grid-row: 1 / span 2;
+}
+
+@media (width <= 680px) {
+  .problems-section .card {
+    grid-template-columns: 30px minmax(0, 1fr);
+    column-gap: 0.65rem;
+    padding: 0.9rem 0.9rem 0.95rem;
+  }
+
+  .problems-section .card-icon {
+    width: 30px;
+    max-width: 30px;
+    height: 30px;
+  }
+
+  .problems-section .card h3 {
+    font-size: 1rem;
+  }
+}
+
 .benefits-section {
   background: radial-gradient(circle at 85% 0%, rgb(197 160 89 / 20%), rgb(249 246 240 / 30%) 40%);
 }
