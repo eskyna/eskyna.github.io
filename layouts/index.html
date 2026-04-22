@@ -53,7 +53,7 @@
         {{ range $problems.items }}
           <article class="card">
             {{ $itemTitle := .title }}{{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="card-icon">{{ end }}
-            <h3>{{ .title }}</h3>
+            <h3 class="problem-card-title">{{ .title }}</h3>
             <p>{{ .text }}</p>
           </article>
         {{ end }}
