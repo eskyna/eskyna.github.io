@@ -9,7 +9,6 @@
 {{ $method := .Params.method }}
 {{ $cases := .Params.cases }}
 {{ $references := .Params.references }}
-{{ $testimonials := .Params.testimonials }}
 {{ $faq := .Params.faq }}
 {{ $contact := .Params.contact }}
 {{ $ui := .Params.ui }}
@@ -245,38 +244,6 @@
     </div>
   </section>
 
-  {{ with $testimonials }}
-  <section class="section testimonials-section">
-    <div class="container">
-      <h2 class="testimonials-title">{{ .title }}</h2>
-      <div class="testimonials-slider" role="region" aria-label="{{ .title }}">
-        <div class="testimonials-track">
-          {{ range $i, $item := .items }}
-          <article class="testimonial-slide{{ if eq $i 0 }} is-active{{ end }}" aria-hidden="{{ if eq $i 0 }}false{{ else }}true{{ end }}">
-            <div class="testimonial-inner">
-              <div class="testimonial-image-wrap">
-                <img src="{{ $item.image | relURL }}" alt="{{ $item.name }}" class="testimonial-image">
-              </div>
-              <blockquote class="testimonial-quote">
-                <p>{{ $item.quote }}</p>
-                <footer class="testimonial-name">{{ $item.name }}</footer>
-              </blockquote>
-            </div>
-          </article>
-          {{ end }}
-        </div>
-        {{ if gt (len .items) 1 }}
-        <nav class="testimonials-nav" aria-label="Testimonial Navigation">
-          {{ range $i, $item := .items }}
-          <button class="testimonials-dot{{ if eq $i 0 }} is-active{{ end }}" data-index="{{ $i }}" aria-label="{{ $item.name }}" aria-current="{{ if eq $i 0 }}true{{ else }}false{{ end }}"></button>
-          {{ end }}
-        </nav>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  {{ end }}
-
   {{ with $faq }}
   <section class="section faq-section" id="faq">
     <div class="container">
@@ -309,52 +276,5 @@
     </div>
   </section>
 </main>
-
-{{ with $testimonials }}
-{{ if gt (len .items) 1 }}
-<script>
-(function () {
-  var sliders = document.querySelectorAll(".testimonials-slider");
-  sliders.forEach(function (slider) {
-    var slides = slider.querySelectorAll(".testimonial-slide");
-    var dots   = slider.querySelectorAll(".testimonials-dot");
-    var current = 0;
-    var autoplay;
-
-    function goTo(index) {
-      slides[current].classList.remove("is-active");
-      slides[current].setAttribute("aria-hidden", "true");
-      dots[current].classList.remove("is-active");
-      dots[current].setAttribute("aria-current", "false");
-
-      current = (index + slides.length) % slides.length;
-
-      slides[current].classList.add("is-active");
-      slides[current].setAttribute("aria-hidden", "false");
-      dots[current].classList.add("is-active");
-      dots[current].setAttribute("aria-current", "true");
-    }
-
-    dots.forEach(function (dot, i) {
-      dot.addEventListener("click", function () {
-        clearInterval(autoplay);
-        goTo(i);
-        startAutoplay();
-      });
-    });
-
-    function startAutoplay() {
-      autoplay = setInterval(function () { goTo(current + 1); }, 6000);
-    }
-
-    slider.addEventListener("mouseenter", function () { clearInterval(autoplay); });
-    slider.addEventListener("mouseleave", startAutoplay);
-
-    startAutoplay();
-  });
-}());
-</script>
-{{ end }}
-{{ end }}
 
 {{ end }}
