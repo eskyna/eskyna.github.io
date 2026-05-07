@@ -60,29 +60,91 @@ a:hover {
   margin: 0 auto;
 }
 
-.topbar {
-  padding: 0.45rem 0;
-}
-
-.topbar-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.topbar-left {
-  flex: 0;
-}
-
-.topbar-right {
-  flex: 0;
-}
-
 .language-switcher {
   font-size: 0.9rem;
   display: flex;
   gap: 0.5rem;
   align-items: center;
+}
+
+.hero-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.25rem;
+  padding-top: 1rem;
+  position: relative;
+  z-index: 4;
+}
+
+.hero-coach-label {
+  margin: 0;
+  color: rgb(255 255 255 / 88%);
+  font-family: var(--font-subtitle);
+  font-size: 0.78rem;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  line-height: 1.35;
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  align-items: stretch;
+  column-gap: 0.45rem;
+}
+
+.hero-coach-name,
+.hero-coach-title {
+  display: inline-block;
+  line-height: 1.35;
+}
+
+.hero-coach-name {
+  text-align: right;
+}
+
+.hero-coach-title {
+  text-align: left;
+}
+
+.hero-coach-separator {
+  width: 1px;
+  background: rgb(255 255 255 / 72%);
+  align-self: stretch;
+  margin: 0.08em 0;
+}
+
+.hero-tools {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.8rem;
+}
+
+.hero-tools .social-links {
+  margin-top: 0;
+}
+
+.hero-tools .social-link {
+  border-color: rgb(255 255 255 / 34%);
+  color: rgb(255 255 255 / 82%);
+  background: rgb(255 255 255 / 10%);
+}
+
+.hero-tools .social-link:hover {
+  color: rgb(255 255 255 / 95%);
+  border-color: rgb(255 255 255 / 62%);
+}
+
+.hero-tools .language-current,
+.hero-tools .language-link {
+  color: rgb(255 255 255 / 84%);
+}
+
+.hero-tools .language-link:hover {
+  color: rgb(255 255 255 / 95%);
+}
+
+.hero-tools .language-divider {
+  color: rgb(255 255 255 / 38%);
 }
 
 .language-current {
@@ -107,7 +169,7 @@ a:hover {
   min-height: 94vh;
   display: grid;
   align-items: stretch;
-  padding: 3rem 0 0;
+  padding: 0;
   position: relative;
   overflow: hidden;
   background-image:
@@ -117,7 +179,7 @@ a:hover {
       rgb(44 30 22 / 28%) 55%,
       rgb(44 30 22 / 08%) 100%
     ),
-    url("/images/NataliaBackground.png");
+    url("/images/HeroBackground.png");
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
@@ -128,7 +190,7 @@ a:hover {
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
   align-items: center;
-  min-height: calc(94vh - 3rem);
+  min-height: 94vh;
 }
 
 .eyebrow {
@@ -263,7 +325,7 @@ h2 {
   border: 0;
   box-shadow: none;
   background: transparent;
-  max-height: 80vh;
+  max-height: 95vh;
   width: 100%;
   object-fit: contain;
   object-position: center bottom;
@@ -1324,7 +1386,16 @@ h2 {
 
   .hero {
     min-height: 760px;
-    padding-top: 2.25rem;
+  }
+
+  .hero-topbar {
+    padding-top: 0;
+    align-items: center;
+  }
+
+  .hero-coach-label {
+    max-width: 20ch;
+    font-size: 0.7rem;
   }
 
   .hero-image-wrap {
@@ -1337,7 +1408,7 @@ h2 {
   }
 
   .hero-image {
-    max-height: 72vh;
+    max-height: 85vh;
   }
 
   .hero .hero-copy {
@@ -1398,7 +1469,7 @@ h2 {
 @media (width <= 680px) {
   .hero {
     min-height: 720px;
-    padding: 2rem 0 0;
+    padding: 0;
     background-image:
       linear-gradient(
         180deg,
@@ -1406,13 +1477,41 @@ h2 {
         rgb(44 30 22 / 68%) 36%,
         rgb(44 30 22 / 54%) 100%
       ),
-      url("/images/NataliaBackground.png");
+      url("/images/HeroBackground.png");
     background-position: 62% center;
   }
 
   .hero-grid {
     align-items: start;
-    min-height: calc(720px - 2rem);
+    min-height: 720px;
+  }
+
+  .hero-topbar {
+    padding-top: 0;
+    gap: 0.65rem;
+  }
+
+  .hero-coach-label {
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+  }
+
+  .hero-tools {
+    gap: 0.5rem;
+  }
+
+  .hero-tools .language-switcher {
+    font-size: 0.78rem;
+    gap: 0.35rem;
+  }
+
+  .hero-tools .social-links {
+    gap: 0.45rem;
+  }
+
+  .hero-tools .social-link {
+    width: 30px;
+    height: 30px;
   }
 
   .hero .hero-copy {
@@ -1441,7 +1540,7 @@ h2 {
   }
 
   .hero-image {
-    max-height: 62vh;
+    max-height: 75vh;
   }
 
   .hero::after {
@@ -1477,8 +1576,17 @@ h2 {
     min-height: 680px;
   }
 
+  .hero-topbar {
+    align-items: flex-start;
+  }
+
+  .hero-tools {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
   .hero-grid {
-    min-height: calc(680px - 2rem);
+    min-height: 680px;
   }
 
   .hero .hero-copy {
