@@ -256,9 +256,6 @@
         </details>
         {{ end }}
       </div>
-      <div class="faq-cta">
-        <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
-      </div>
     </div>
   </section>
   {{ end }}
@@ -270,6 +267,9 @@
         <p>{{ $contact.text }}</p>
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
+        <div style="margin-top: 1.5rem;">
+          <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
+        </div>
       </div>
       <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" class="signature-photo">
     </div>
