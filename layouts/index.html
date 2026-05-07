@@ -89,16 +89,15 @@
     </div>
   </section>
 
-  <section class="section benefits-section"{{ with $results.background }} style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ . | relURL }}'); background-size: cover; background-position: center; background-attachment: fixed; color: white;"{{ end }}>
+  <section class="section benefits-section">
     <div class="container">
-      <h2 style="color: white;">{{ $results.title }}</h2>
-      <p class="benefits-intro" style="color: rgba(255,255,255,0.9);">{{ $ui.benefits_intro }}</p>
+      <h2>{{ $results.title }}</h2>
+      <p class="benefits-intro">{{ $ui.benefits_intro }}</p>
       <div class="benefits-grid">
-        {{ range $index, $item := $results.items }}
-          <article class="benefit-card" style="background-color: rgba(255,255,255,0.1); color: white;">
-            <p class="benefit-index" style="color: rgba(255,255,255,0.7);">{{ printf "%02d" (add $index 1) }}</p>
-            <h3 style="color: white;">{{ $item.title }}</h3>
-            <p style="color: rgba(255,255,255,0.95);">{{ $item.text }}</p>
+        {{ range $results.items }}
+          <article class="benefit-card">
+            <h3 style="color: var(--accent);">{{ .title }}</h3>
+            <p>{{ .text }}</p>
           </article>
         {{ end }}
       </div>
@@ -110,11 +109,10 @@
       <h2>{{ $process.title }}</h2>
       <p class="process-intro">{{ $process.intro }}</p>
       <div class="process-grid">
-        {{ range $index, $item := $process.items }}
+        {{ range $process.items }}
           <article class="process-card">
-            <p class="process-index">{{ printf "%02d" (add $index 1) }}</p>
-            <h3>{{ $item.title }}</h3>
-            <p>{{ $item.text }}</p>
+            <h3>{{ .title }}</h3>
+            <p>{{ .text }}</p>
           </article>
         {{ end }}
       </div>
