@@ -8,9 +8,22 @@
   --card-border: rgb(44 30 22 / 16%);
   --section-bg-dark: linear-gradient(180deg, rgb(227 213 200 / 75%), rgb(227 213 200 / 45%));
   --section-bg-muted: linear-gradient(180deg, rgb(243 235 226 / 42%), rgb(243 235 226 / 24%));
-  --section-bg-highlight: radial-gradient(circle at 85% 0%, rgb(197 160 89 / 20%), rgb(249 246 240 / 30%) 40%);
-  --section-bg-warm: linear-gradient(180deg, rgb(227 213 200 / 62%), rgb(249 246 240 / 92%) 34%, rgb(249 246 240 / 98%));
-  --section-bg-neutral: radial-gradient(circle at 8% 5%, rgb(139 94 52 / 10%), rgb(249 246 240 / 25%) 45%);
+  --section-bg-highlight: radial-gradient(
+    circle at 85% 0%,
+    rgb(197 160 89 / 20%),
+    rgb(249 246 240 / 30%) 40%
+  );
+  --section-bg-warm: linear-gradient(
+    180deg,
+    rgb(227 213 200 / 62%),
+    rgb(249 246 240 / 92%) 34%,
+    rgb(249 246 240 / 98%)
+  );
+  --section-bg-neutral: radial-gradient(
+    circle at 8% 5%,
+    rgb(139 94 52 / 10%),
+    rgb(249 246 240 / 25%) 45%
+  );
   --section-bg-soft: var(--bg-soft);
   --section-bg-soft-alt: linear-gradient(180deg, rgb(227 213 200 / 90%), rgb(249 246 240 / 72%));
   --surface-card-soft: rgb(249 246 240 / 85%);
@@ -129,34 +142,6 @@ a:hover {
   gap: 0.8rem;
 }
 
-.hero-tools .social-links {
-  margin-top: 0;
-}
-
-.hero-tools .social-link {
-  border-color: rgb(255 255 255 / 34%);
-  color: rgb(255 255 255 / 82%);
-  background: rgb(255 255 255 / 10%);
-}
-
-.hero-tools .social-link:hover {
-  color: rgb(255 255 255 / 95%);
-  border-color: rgb(255 255 255 / 62%);
-}
-
-.hero-tools .language-current,
-.hero-tools .language-link {
-  color: rgb(255 255 255 / 84%);
-}
-
-.hero-tools .language-link:hover {
-  color: rgb(255 255 255 / 95%);
-}
-
-.hero-tools .language-divider {
-  color: rgb(255 255 255 / 38%);
-}
-
 .language-current {
   font-weight: 600;
   color: var(--accent-strong);
@@ -173,6 +158,19 @@ a:hover {
 
 .language-divider {
   color: var(--card-border);
+}
+
+.hero-tools .language-current,
+.hero-tools .language-link {
+  color: rgb(255 255 255 / 84%);
+}
+
+.hero-tools .language-link:hover {
+  color: rgb(255 255 255 / 95%);
+}
+
+.hero-tools .language-divider {
+  color: rgb(255 255 255 / 38%);
 }
 
 .hero {
@@ -885,6 +883,13 @@ h2 {
   opacity: 0.08;
 }
 
+.page-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
 .page-privacy .page-grid {
   grid-template-columns: 1fr;
 }
@@ -903,13 +908,6 @@ h2 {
 
 .back-link:hover {
   color: var(--text);
-}
-
-.page-grid {
-  display: grid;
-  grid-template-columns: 1.35fr 1fr;
-  gap: 2rem;
-  align-items: start;
 }
 
 .page-image-wrap {
@@ -969,6 +967,21 @@ h2 {
   width: 15px;
   height: 15px;
   fill: currentcolor;
+}
+
+.hero-tools .social-links {
+  margin-top: 0;
+}
+
+.hero-tools .social-link {
+  border-color: rgb(255 255 255 / 34%);
+  color: rgb(255 255 255 / 82%);
+  background: rgb(255 255 255 / 10%);
+}
+
+.hero-tools .social-link:hover {
+  color: rgb(255 255 255 / 95%);
+  border-color: rgb(255 255 255 / 62%);
 }
 
 .site-footer {
