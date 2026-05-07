@@ -8,9 +8,22 @@
   --card-border: rgb(44 30 22 / 16%);
   --section-bg-dark: linear-gradient(180deg, rgb(227 213 200 / 75%), rgb(227 213 200 / 45%));
   --section-bg-muted: linear-gradient(180deg, rgb(243 235 226 / 42%), rgb(243 235 226 / 24%));
-  --section-bg-highlight: radial-gradient(circle at 85% 0%, rgb(197 160 89 / 20%), rgb(249 246 240 / 30%) 40%);
-  --section-bg-warm: linear-gradient(180deg, rgb(227 213 200 / 62%), rgb(249 246 240 / 92%) 34%, rgb(249 246 240 / 98%));
-  --section-bg-neutral: radial-gradient(circle at 8% 5%, rgb(139 94 52 / 10%), rgb(249 246 240 / 25%) 45%);
+  --section-bg-highlight: radial-gradient(
+    circle at 85% 0%,
+    rgb(197 160 89 / 20%),
+    rgb(249 246 240 / 30%) 40%
+  );
+  --section-bg-warm: linear-gradient(
+    180deg,
+    rgb(227 213 200 / 62%),
+    rgb(249 246 240 / 92%) 34%,
+    rgb(249 246 240 / 98%)
+  );
+  --section-bg-neutral: radial-gradient(
+    circle at 8% 5%,
+    rgb(139 94 52 / 10%),
+    rgb(249 246 240 / 25%) 45%
+  );
   --section-bg-soft: var(--bg-soft);
   --section-bg-soft-alt: linear-gradient(180deg, rgb(227 213 200 / 90%), rgb(249 246 240 / 72%));
   --surface-card-soft: rgb(249 246 240 / 85%);
@@ -109,15 +122,23 @@ a:hover {
 
 .hero-coach-name {
   text-align: right;
+  white-space: nowrap;
+  font-size: 2.7em;
+  line-height: 1;
+  letter-spacing: normal;
+  font-weight: 200;
+  color: var(--accent);
+  text-transform: none;
 }
 
 .hero-coach-title {
   text-align: left;
+  color: var(--accent);
 }
 
 .hero-coach-separator {
   width: 1px;
-  background: rgb(255 255 255 / 72%);
+  background: var(--accent);
   align-self: stretch;
   margin: 0.08em 0;
 }
@@ -127,34 +148,6 @@ a:hover {
   align-items: center;
   justify-content: flex-end;
   gap: 0.8rem;
-}
-
-.hero-tools .social-links {
-  margin-top: 0;
-}
-
-.hero-tools .social-link {
-  border-color: rgb(255 255 255 / 34%);
-  color: rgb(255 255 255 / 82%);
-  background: rgb(255 255 255 / 10%);
-}
-
-.hero-tools .social-link:hover {
-  color: rgb(255 255 255 / 95%);
-  border-color: rgb(255 255 255 / 62%);
-}
-
-.hero-tools .language-current,
-.hero-tools .language-link {
-  color: rgb(255 255 255 / 84%);
-}
-
-.hero-tools .language-link:hover {
-  color: rgb(255 255 255 / 95%);
-}
-
-.hero-tools .language-divider {
-  color: rgb(255 255 255 / 38%);
 }
 
 .language-current {
@@ -173,6 +166,19 @@ a:hover {
 
 .language-divider {
   color: var(--card-border);
+}
+
+.hero-tools .language-current,
+.hero-tools .language-link {
+  color: rgb(255 255 255 / 84%);
+}
+
+.hero-tools .language-link:hover {
+  color: rgb(255 255 255 / 95%);
+}
+
+.hero-tools .language-divider {
+  color: rgb(255 255 255 / 38%);
 }
 
 .hero {
@@ -327,6 +333,7 @@ h2 {
   display: flex;
   align-items: flex-end;
   position: relative;
+  transform: translateX(-0.9rem);
   z-index: 1;
 }
 
@@ -885,6 +892,13 @@ h2 {
   opacity: 0.08;
 }
 
+.page-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
 .page-privacy .page-grid {
   grid-template-columns: 1fr;
 }
@@ -903,13 +917,6 @@ h2 {
 
 .back-link:hover {
   color: var(--text);
-}
-
-.page-grid {
-  display: grid;
-  grid-template-columns: 1.35fr 1fr;
-  gap: 2rem;
-  align-items: start;
 }
 
 .page-image-wrap {
@@ -969,6 +976,21 @@ h2 {
   width: 15px;
   height: 15px;
   fill: currentcolor;
+}
+
+.hero-tools .social-links {
+  margin-top: 0;
+}
+
+.hero-tools .social-link {
+  border-color: rgb(255 255 255 / 34%);
+  color: rgb(255 255 255 / 82%);
+  background: rgb(255 255 255 / 10%);
+}
+
+.hero-tools .social-link:hover {
+  color: rgb(255 255 255 / 95%);
+  border-color: rgb(255 255 255 / 62%);
 }
 
 .site-footer {
@@ -1481,7 +1503,7 @@ h2 {
 
   .hero-image-wrap {
     position: absolute;
-    right: -1rem;
+    right: -0.2rem;
     bottom: 0;
     justify-self: auto;
     width: min(54vw, 420px);
@@ -1615,7 +1637,7 @@ h2 {
   }
 
   .hero-image-wrap {
-    right: -2.25rem;
+    right: -1.5rem;
     width: min(76vw, 360px);
     opacity: 0.94;
   }
@@ -1680,7 +1702,7 @@ h2 {
   }
 
   .hero-image-wrap {
-    right: -2.75rem;
+    right: -2rem;
     width: min(82vw, 320px);
   }
 

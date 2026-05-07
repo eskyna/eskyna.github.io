@@ -74,7 +74,7 @@ facts:
   title: "Ein paar Fakten über mich"
   items:
     - "seit 2019 lebe ich, was ich liebe"
-    - "Ich begleite Frauen und Männern online und vor Ort"
+    - "Ich begleite Frauen und Männer online und vor Ort"
     - "Internationale Stil-Erfahrung von Sibirien bis Leipzig"
     - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"
     - "Mama von 2 stilbewussten Jungs"
@@ -103,7 +103,7 @@ services:
           highlights:
             - "Online-Test in wenigen Minuten"
             - "Verständliche Auswertung Ihres Stiltyps"
-          result: "Sie bekommen in wenigen Minuten erste klare Hinweis, welche Stilrichtungen am besten zu Ihnen passen."
+          result: "Sie bekommen in wenigen Minuten erste klare Hinweise, welche Stilrichtungen am besten zu Ihnen passen."
           ctaText: "Stiltest starten"
           ctaHref: "/hannover2026/"
         - title: "10 Styling-Tipps (PDF)"

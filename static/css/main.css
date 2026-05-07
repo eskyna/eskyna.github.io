@@ -122,15 +122,23 @@ a:hover {
 
 .hero-coach-name {
   text-align: right;
+  white-space: nowrap;
+  font-size: 2.7em;
+  line-height: 1;
+  letter-spacing: normal;
+  font-weight: 200;
+  color: var(--accent);
+  text-transform: none;
 }
 
 .hero-coach-title {
   text-align: left;
+  color: var(--accent);
 }
 
 .hero-coach-separator {
   width: 1px;
-  background: rgb(255 255 255 / 72%);
+  background: var(--accent);
   align-self: stretch;
   margin: 0.08em 0;
 }
@@ -325,6 +333,7 @@ h2 {
   display: flex;
   align-items: flex-end;
   position: relative;
+  transform: translateX(-0.9rem);
   z-index: 1;
 }
 
@@ -1494,7 +1503,7 @@ h2 {
 
   .hero-image-wrap {
     position: absolute;
-    right: -1rem;
+    right: -0.2rem;
     bottom: 0;
     justify-self: auto;
     width: min(54vw, 420px);
@@ -1628,7 +1637,7 @@ h2 {
   }
 
   .hero-image-wrap {
-    right: -2.25rem;
+    right: -1.5rem;
     width: min(76vw, 360px);
     opacity: 0.94;
   }
@@ -1693,7 +1702,7 @@ h2 {
   }
 
   .hero-image-wrap {
-    right: -2.75rem;
+    right: -2rem;
     width: min(82vw, 320px);
   }
 

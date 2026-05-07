@@ -26,7 +26,7 @@ Welche Teile passen wirklich zu Ihnen? Und was können Sie sinnvoll kombinieren,
 - **Farbtyp-Test:** schnelle, präzise Einordnung für sichere Farbentscheidungen
 - **EStyle-ID:** persönliche Stil-Matrix als roter Faden für Ihren Auftritt
 - **Outfit- und Kombinationshilfe:** alte und neue Teile smart kombinieren
-- **Garderoben-Manager (Lite):** mehr überblick im Kleiderschrank, weniger Frust
+- **Garderoben-Manager (Lite):** mehr Überblick im Kleiderschrank, weniger Frust
 - **Gezielte Kaufempfehlungen:** passender einkaufen, Fehlkäufe reduzieren
 
 ## Für wen ist EStyle gemacht?
@@ -47,7 +47,7 @@ EStyle ist als **Freemium-Angebot** gedacht:
 
 ## EStyle Pro (B2B)
 
-Neben dem Endkunden-Angebot gibt es mit **EStyle Pro** auch eine Variante für Handel und Boutiqün:
+Neben dem Endkunden-Angebot gibt es mit **EStyle Pro** auch eine Variante für Handel und Boutiquen:
 digitale Stilberatung direkt am Point of Sale, als SaaS-Lösung für bessere Beratung, höhere Conversion
 und weniger Retouren.
 
