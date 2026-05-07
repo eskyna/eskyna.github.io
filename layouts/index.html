@@ -59,69 +59,6 @@
     </div>
   </section>
 
-  <section class="section benefits-section"{{ with $results.background }} style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ . | relURL }}'); background-size: cover; background-position: center; background-attachment: fixed; color: white;"{{ end }}>
-    <div class="container">
-      <h2 style="color: white;">{{ $results.title }}</h2>
-      <p class="benefits-intro" style="color: rgba(255,255,255,0.9);">{{ $ui.benefits_intro }}</p>
-      <div class="benefits-grid">
-        {{ range $index, $item := $results.items }}
-          <article class="benefit-card" style="background-color: rgba(255,255,255,0.1); color: white;">
-            <p class="benefit-index" style="color: rgba(255,255,255,0.7);">{{ printf "%02d" (add $index 1) }}</p>
-            <h3 style="color: white;">{{ $item.title }}</h3>
-            <p style="color: rgba(255,255,255,0.95);">{{ $item.text }}</p>
-          </article>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-
-  {{ with $cases }}
-  <section class="section cases-section">
-    <div class="container">
-      <h2 class="cases-title">{{ .title }}</h2>
-      <p class="cases-subtitle">{{ .subtitle }}</p>
-      <div class="cases-grid">
-        {{ range .items }}
-        <article class="case-card">
-          <div class="case-row">
-            <span class="case-tag case-tag-situation">{{ $ui.case_situation_label }}</span>
-            <p>{{ .situation }}</p>
-          </div>
-          <div class="case-row">
-            <span class="case-tag case-tag-service">{{ $ui.case_service_label }}</span>
-            <p>{{ .service }}</p>
-          </div>
-          <div class="case-row case-row-result">
-            <span class="case-tag case-tag-result">{{ $ui.case_result_label }}</span>
-            <p>{{ .result }}</p>
-          </div>
-        </article>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  {{ end }}
-
-  <section class="section process-section" id="ablauf">
-    <div class="container">
-      <h2>{{ $process.title }}</h2>
-      <p class="process-intro">{{ $process.intro }}</p>
-      <div class="process-grid">
-        {{ range $index, $item := $process.items }}
-          <article class="process-card">
-            <p class="process-index">{{ printf "%02d" (add $index 1) }}</p>
-            <h3>{{ $item.title }}</h3>
-            <p>{{ $item.text }}</p>
-          </article>
-        {{ end }}
-      </div>
-      <p class="process-outro">{{ $process.outro }}</p>
-      {{ if and (isset $process "ctaHref") (isset $process "ctaText") }}
-      <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $process.ctaText }}</a>
-      {{ end }}
-    </div>
-  </section>
-
   <section class="section">
     <div class="container intro-grid">
       <div>
@@ -152,32 +89,41 @@
     </div>
   </section>
 
-  {{ with $method }}
-  <section class="section method-section" id="methode">
+  <section class="section benefits-section"{{ with $results.background }} style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('{{ . | relURL }}'); background-size: cover; background-position: center; background-attachment: fixed; color: white;"{{ end }}>
     <div class="container">
-      <p class="eyebrow method-eyebrow">{{ .eyebrow }}</p>
-      <h2 class="method-heading">{{ .title }}</h2>
-      <p class="method-intro">{{ .intro }}</p>
-      <p class="method-tagline">{{ .tagline }}</p>
-      <div class="method-journey">
-        {{ range .steps }}
-        <article class="method-step">
-          <div class="method-step-icon">
-            <img src="{{ .icon | relURL }}" alt="" class="method-step-img" aria-hidden="true">
-          </div>
-          <p class="method-step-badge">{{ .letter }}</p>
-          <h3 class="method-step-title">{{ .title }}</h3>
-          <p class="method-step-text">{{ .text }}</p>
-        </article>
+      <h2 style="color: white;">{{ $results.title }}</h2>
+      <p class="benefits-intro" style="color: rgba(255,255,255,0.9);">{{ $ui.benefits_intro }}</p>
+      <div class="benefits-grid">
+        {{ range $index, $item := $results.items }}
+          <article class="benefit-card" style="background-color: rgba(255,255,255,0.1); color: white;">
+            <p class="benefit-index" style="color: rgba(255,255,255,0.7);">{{ printf "%02d" (add $index 1) }}</p>
+            <h3 style="color: white;">{{ $item.title }}</h3>
+            <p style="color: rgba(255,255,255,0.95);">{{ $item.text }}</p>
+          </article>
         {{ end }}
       </div>
-      <blockquote class="method-quote">
-        <p>{{ .quote }}</p>
-        <footer>— Natalia Kleemann</footer>
-      </blockquote>
     </div>
   </section>
-  {{ end }}
+
+  <section class="section process-section" id="ablauf">
+    <div class="container">
+      <h2>{{ $process.title }}</h2>
+      <p class="process-intro">{{ $process.intro }}</p>
+      <div class="process-grid">
+        {{ range $index, $item := $process.items }}
+          <article class="process-card">
+            <p class="process-index">{{ printf "%02d" (add $index 1) }}</p>
+            <h3>{{ $item.title }}</h3>
+            <p>{{ $item.text }}</p>
+          </article>
+        {{ end }}
+      </div>
+      <p class="process-outro">{{ $process.outro }}</p>
+      {{ if and (isset $process "ctaHref") (isset $process "ctaText") }}
+      <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $process.ctaText }}</a>
+      {{ end }}
+    </div>
+  </section>
 
   <section class="section section-dark" id="angebote">
     <div class="container">
@@ -224,6 +170,33 @@
       {{ end }}
     </div>
   </section>
+
+  {{ with $method }}
+  <section class="section method-section" id="methode">
+    <div class="container">
+      <p class="eyebrow method-eyebrow">{{ .eyebrow }}</p>
+      <h2 class="method-heading">{{ .title }}</h2>
+      <p class="method-intro">{{ .intro }}</p>
+      <p class="method-tagline">{{ .tagline }}</p>
+      <div class="method-journey">
+        {{ range .steps }}
+        <article class="method-step">
+          <div class="method-step-icon">
+            <img src="{{ .icon | relURL }}" alt="" class="method-step-img" aria-hidden="true">
+          </div>
+          <p class="method-step-badge">{{ .letter }}</p>
+          <h3 class="method-step-title">{{ .title }}</h3>
+          <p class="method-step-text">{{ .text }}</p>
+        </article>
+        {{ end }}
+      </div>
+      <blockquote class="method-quote">
+        <p>{{ .quote }}</p>
+        <footer>— Natalia Kleemann</footer>
+      </blockquote>
+    </div>
+  </section>
+  {{ end }}
 
   <section class="section references-section" id="referenzen">
     <div class="container">
