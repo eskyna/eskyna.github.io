@@ -97,7 +97,7 @@
       <div class="benefits-grid">
         {{ range $results.items }}
           <article class="benefit-card">
-            <h3 style="color: var(--accent);">{{ .title }}</h3>
+            <h3>{{ .title }}</h3>
             <p>{{ .text }}</p>
           </article>
         {{ end }}
@@ -205,7 +205,7 @@
         {{ range $item := $references.items }}
           <article class="reference-chip">
             {{ with $item.logo }}
-              <img src="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" class="reference-logo">
+              <img src="{{ if or (hasPrefix . "http") (hasPrefix . "data:") }}{{ . | safeURL }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" class="reference-logo">
             {{ end }}
             <p class="reference-name">{{ $item.name }}</p>
             {{ with $item.label }}<p class="reference-label">{{ . }}</p>{{ end }}

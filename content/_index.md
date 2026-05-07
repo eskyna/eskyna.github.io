@@ -239,6 +239,9 @@ references:
     - name: "Hannover Messe 2026"
       label: "Veranstaltung"
       logo: "images/references/hannover-messe.png"
+    - name: "Thüringer Aufbaubank"
+      label: "Förderprogramm"
+      logo: "images/references/thueringer_aufbaubank.png"
 testimonials:
   title: "Das sagen meine Kundinnen"
   items:

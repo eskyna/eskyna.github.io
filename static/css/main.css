@@ -6,6 +6,16 @@
   --accent: #c5a059; /* Muted Gold */
   --accent-strong: #8b5e34; /* Warm Cocoa */
   --card-border: rgb(44 30 22 / 16%);
+  --section-bg-dark: linear-gradient(180deg, rgb(227 213 200 / 75%), rgb(227 213 200 / 45%));
+  --section-bg-muted: linear-gradient(180deg, rgb(243 235 226 / 42%), rgb(243 235 226 / 24%));
+  --section-bg-highlight: radial-gradient(circle at 85% 0%, rgb(197 160 89 / 20%), rgb(249 246 240 / 30%) 40%);
+  --section-bg-warm: linear-gradient(180deg, rgb(227 213 200 / 62%), rgb(249 246 240 / 92%) 34%, rgb(249 246 240 / 98%));
+  --section-bg-neutral: radial-gradient(circle at 8% 5%, rgb(139 94 52 / 10%), rgb(249 246 240 / 25%) 45%);
+  --section-bg-soft: var(--bg-soft);
+  --section-bg-soft-alt: linear-gradient(180deg, rgb(227 213 200 / 90%), rgb(249 246 240 / 72%));
+  --surface-card-soft: rgb(249 246 240 / 85%);
+  --surface-card-problem: rgb(255 255 255 / 45%);
+  --surface-card-featured: linear-gradient(170deg, rgb(197 160 89 / 26%), rgb(227 213 200 / 48%));
   --max-width: 1120px;
   --font-headline: "Montserrat", "Helvetica Neue", helvetica, arial, sans-serif;
   --font-subtitle: "Lato", "Helvetica Neue", helvetica, arial, sans-serif;
@@ -390,7 +400,7 @@ h2 {
 }
 
 .section-dark {
-  background: linear-gradient(180deg, rgb(227 213 200 / 75%), rgb(227 213 200 / 45%));
+  background: var(--section-bg-dark);
   border-top: 1px solid var(--card-border);
   border-bottom: 1px solid var(--card-border);
 }
@@ -449,7 +459,7 @@ h2 {
 }
 
 .problems-section {
-  background: linear-gradient(180deg, rgb(243 235 226 / 42%), rgb(243 235 226 / 24%));
+  background: var(--section-bg-muted);
 }
 
 .problems-section .cards {
@@ -457,7 +467,7 @@ h2 {
 }
 
 .problems-section .card {
-  background: rgb(255 255 255 / 45%);
+  background: var(--surface-card-problem);
   border: 1px solid rgb(44 30 22 / 14%);
   border-radius: 12px;
   padding: 1rem 1.05rem;
@@ -511,7 +521,7 @@ h2 {
 }
 
 .benefits-section {
-  background: radial-gradient(circle at 85% 0%, rgb(197 160 89 / 20%), rgb(249 246 240 / 30%) 40%);
+  background: var(--section-bg-highlight);
 }
 
 .benefits-intro {
@@ -531,12 +541,13 @@ h2 {
   border: 1px solid var(--card-border);
   border-radius: 16px;
   padding: 1.3rem;
-  background: rgb(249 246 240 / 82%);
+  background: var(--surface-card-soft);
 }
 
 .benefit-card h3 {
   margin: 0 0 0.7rem;
   font-size: 1.15rem;
+  color: var(--accent);
 }
 
 .benefit-index {
@@ -552,7 +563,8 @@ h2 {
 }
 
 .process-section {
-  background: linear-gradient(180deg, rgb(249 246 240 / 70%), rgb(227 213 200 / 32%));
+  background: var(--section-bg-warm);
+  border-top: 1px solid rgb(139 94 52 / 24%);
 }
 
 .process-intro,
@@ -574,7 +586,7 @@ h2 {
   border: 1px solid var(--card-border);
   border-radius: 16px;
   padding: 1.2rem;
-  background: rgb(249 246 240 / 85%);
+  background: var(--surface-card-soft);
   position: relative;
 }
 
@@ -780,13 +792,13 @@ h2 {
 }
 
 .offer-card-featured {
-  background: linear-gradient(170deg, rgb(197 160 89 / 26%), rgb(227 213 200 / 48%));
+  background: var(--surface-card-featured);
   border-color: rgb(139 94 52 / 35%);
   box-shadow: 0 12px 34px rgb(44 30 22 / 14%);
 }
 
 .references-section {
-  background: radial-gradient(circle at 8% 5%, rgb(139 94 52 / 10%), rgb(249 246 240 / 25%) 45%);
+  background: var(--section-bg-neutral);
 }
 
 .references-subtitle {
@@ -808,7 +820,7 @@ h2 {
   min-height: 86px;
   border: 1px solid var(--card-border);
   border-radius: 14px;
-  background: rgb(249 246 240 / 85%);
+  background: var(--surface-card-soft);
   text-align: center;
   font-weight: 600;
   padding: 0.75rem;
@@ -1124,7 +1136,7 @@ h2 {
 
 .method-section {
   padding: 6rem 0;
-  background: var(--bg-soft);
+  background: var(--section-bg-soft);
 }
 
 .method-eyebrow {
@@ -1352,7 +1364,7 @@ h2 {
 
 .faq-section {
   padding: 6rem 0;
-  background: var(--bg-soft);
+  background: var(--section-bg-soft-alt);
 }
 
 .faq-title {
