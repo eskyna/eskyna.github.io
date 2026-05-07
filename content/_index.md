@@ -79,7 +79,11 @@ facts:
     - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"
     - "Mama von 2 stilbewussten Jungs"
     - "Ich denke Stilberatung neu; als Gründerin von [EStyle](/estyle/)"
-  mission: "Meine Mission: Ich helfe Menschen, ihren Stil wirklich zu verstehen, damit sie sicher auftreten und bewusst entscheiden."
+  mission: |
+    *„Ich helfe Menschen,
+    durch Stil klarere Entscheidungen zu treffen,
+    sich sicher zu zeigen
+    und bewusster zu konsumieren."*
 services:
   title: "Angebote"
   groups:

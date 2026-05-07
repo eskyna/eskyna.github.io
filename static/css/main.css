@@ -628,11 +628,29 @@ h2 {
   margin-bottom: 0.55rem;
 }
 
-.mission {
-  margin-top: 1.2rem;
-  color: var(--text);
+.mission-title {
+  color: var(--muted);
+  font-size: 0.9em;
   font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  text-align: center;
+}
+
+.mission {
+  margin-top: 0.5rem;
+  color: var(--accent);
+  font-weight: 500;
+  font-size: 1.15em;
+  line-height: 1.7;
   max-width: 62ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  white-space: pre-line;
+  letter-spacing: 0.3px;
 }
 
 .offers-intro {
@@ -828,6 +846,41 @@ h2 {
 
 .page {
   min-height: 100vh;
+}
+
+.page-privacy {
+  position: relative;
+  overflow: hidden;
+}
+
+.privacy-clover-column {
+  position: absolute;
+  top: 3rem;
+  bottom: 3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: center;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.privacy-clover-mark {
+  width: clamp(220px, 30vw, 360px);
+  height: auto;
+  opacity: 0.08;
+}
+
+.page-privacy .page-grid {
+  grid-template-columns: 1fr;
+}
+
+.page-privacy .section,
+.page-privacy .container {
+  position: relative;
+  z-index: 1;
 }
 
 .back-link {
