@@ -1821,6 +1821,16 @@ h2 {
     text-align: center;
   }
 
+  .hero h1,
+  .hero .hero-copy .lead,
+  .hero .hero-copy .lead p,
+  .hero-trust-item {
+    text-shadow:
+      0 1px 4px rgb(0 0 0 / 70%),
+      0 2px 12px rgb(0 0 0 / 50%),
+      0 4px 24px rgb(0 0 0 / 35%);
+  }
+
   .hero-actions,
   .hero-trust {
     width: 100%;
