@@ -3,37 +3,99 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="description" content="Natalia" />
+    <meta name="description" content="ESKYNA, a small playful PWA for Natalia." />
     <meta name="theme-color" content="#c5a059" />
 
-    <title>Natalia</title>
+    <title>ESKYNA</title>
 
-    <link rel="manifest" href="manifest.webmanifest" />
-    <link rel="icon" type="image/png" href="icons/sign_gold.png" />
-    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <link rel="manifest" href="/stefan/manifest.webmanifest" />
+    <link rel="icon" type="image/png" href="/stefan/icons/icon-transparent.png" />
+    <link rel="apple-touch-icon" href="/stefan/icons/apple-touch-icon.png" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@400;500&family=Open+Sans:wght@400;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@400;500;600&family=Open+Sans:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="/stefan/styles.css" />
   </head>
   <body>
-    <main class="app-shell" aria-label="Natalia">
-      <h1>Natalia</h1>
+    <a class="skip-link" href="#main">Skip to Natalia</a>
+
+    <main id="main" class="app-shell" aria-label="ESKYNA PWA">
+      <section class="hero-card" aria-labelledby="app-title">
+        <div class="status-row" aria-live="polite">
+          <span id="connection-status" class="pill">Checking connection...</span>
+          <button id="install-button" class="ghost-button" type="button" hidden>Install app</button>
+        </div>
+
+        <div class="hero-grid">
+          <div class="copy-panel">
+            <p class="eyebrow">ESKYNA mini PWA</p>
+            <h1 id="app-title">Natalia</h1>
+            <p id="daily-line" class="lead">A tiny corner that works offline, remembers notes, and throws a little sparkle.</p>
+
+            <div class="action-row" aria-label="Playful actions">
+              <button id="sparkle-button" class="primary-button" type="button">Make it sparkle</button>
+              <button id="card-button" class="secondary-button" type="button">Draw a tiny card</button>
+              <button id="share-button" class="secondary-button" type="button">Share</button>
+            </div>
+          </div>
+
+          <figure class="portrait-wrap">
+            <img
+              id="natalia-picture"
+              class="portrait"
+              src="https://eskyna.com/images/IMG_5208_transparent.png"
+              data-fallback="/stefan/images/natalia-portrait.webp"
+              alt="Natalia"
+              width="748"
+              height="1600"
+              decoding="async"
+              fetchpriority="high"
+            />
+            <figcaption>Tap sparkle, then try airplane mode.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="feature-grid" aria-label="PWA features">
+        <article class="feature-card">
+          <span class="feature-mark">01</span>
+          <h2>Offline ready</h2>
+          <p>The app shell and local portrait fallback are cached after the first visit.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-mark">02</span>
+          <h2>Saved here</h2>
+          <p>Your notes stay in this browser with local storage, even after closing the app.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-mark">03</span>
+          <h2>Installable</h2>
+          <p>On supported devices, add it to the home screen for a native-app feeling.</p>
+        </article>
+      </section>
+
+      <section class="note-card" aria-labelledby="note-title">
+        <div>
+          <p class="eyebrow">Little useful bit</p>
+          <h2 id="note-title">Natalia's notes</h2>
+          <p class="muted">Add a tiny wish, idea, or reminder. It is stored locally on this device.</p>
+        </div>
+
+        <form id="note-form" class="note-form">
+          <label class="sr-only" for="note-input">New note</label>
+          <input id="note-input" name="note" type="text" maxlength="90" placeholder="Write a tiny note..." autocomplete="off" />
+          <button class="primary-button" type="submit">Save</button>
+        </form>
+
+        <ul id="note-list" class="note-list" aria-live="polite"></ul>
+      </section>
     </main>
 
-    <script>
-      if ("serviceWorker" in navigator) {
-        window.addEventListener("load", function () {
-          navigator.serviceWorker.register("sw.js", { scope: "./" }).catch(function () {
-            // The app remains usable without service worker support.
-          });
-        });
-      }
-    </script>
+    <script src="/stefan/app.js" defer></script>
   </body>
 </html>

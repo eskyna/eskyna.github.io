@@ -1,30 +1,47 @@
 {
   "id": "/stefan/",
-  "name": "Natalia",
-  "short_name": "Natalia",
-  "description": "Natalia",
+  "name": "ESKYNA",
+  "short_name": "ESKYNA",
+  "description": "A small playful PWA for Natalia by ESKYNA.",
   "start_url": "/stefan/",
   "scope": "/stefan/",
+  "lang": "en",
   "display": "standalone",
   "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "orientation": "portrait-primary",
   "background_color": "#f9f6f0",
   "theme_color": "#c5a059",
+  "categories": ["lifestyle", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Open ESKYNA",
+      "short_name": "ESKYNA",
+      "description": "Open the ESKYNA mini PWA.",
+      "url": "/stefan/",
+      "icons": [
+        {
+          "src": "/stefan/icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "/stefan/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "/stefan/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-maskable-512.png",
+      "src": "/stefan/icons/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
