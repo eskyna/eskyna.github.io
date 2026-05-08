@@ -7,18 +7,11 @@
   "scope": "/stefan/",
   "lang": "de",
   "display": "standalone",
-  "display_override": [
-    "window-controls-overlay",
-    "standalone",
-    "minimal-ui"
-  ],
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "orientation": "portrait-primary",
   "background_color": "#f9f6f0",
   "theme_color": "#c5a059",
-  "categories": [
-    "lifestyle",
-    "productivity"
-  ],
+  "categories": ["lifestyle", "productivity"],
   "shortcuts": [
     {
       "name": "ESKYNA oeffnen",

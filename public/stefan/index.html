@@ -3,7 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="description" content="ESKYNA, eine kleine spielerische PWA mit Styling-Tipps fuer Natalia." />
+    <meta
+      name="description"
+      content="ESKYNA, eine kleine spielerische PWA mit Styling-Tipps fuer Natalia."
+    />
     <meta name="theme-color" content="#c5a059" />
 
     <title>ESKYNA</title>
@@ -28,18 +31,26 @@
       <section class="hero-card" aria-labelledby="app-title">
         <div class="status-row" aria-live="polite">
           <span id="connection-status" class="pill">Verbindung wird geprueft...</span>
-          <button id="install-button" class="ghost-button" type="button" hidden>App installieren</button>
+          <button id="install-button" class="ghost-button" type="button" hidden>
+            App installieren
+          </button>
         </div>
 
         <div class="hero-grid">
           <div class="copy-panel">
             <p class="eyebrow">ESKYNA mini PWA</p>
             <h1 id="app-title">Natalia</h1>
-            <p id="daily-line" class="lead">Eine kleine PWA fuer Styling-Tipps, Offline-Magie, Notizen und ein bisschen Glitzer.</p>
+            <p id="daily-line" class="lead">
+              Eine kleine PWA fuer Styling-Tipps, Offline-Magie, Notizen und ein bisschen Glitzer.
+            </p>
 
             <div class="action-row" aria-label="Spielerische Aktionen">
-              <button id="sparkle-button" class="primary-button" type="button">Glitzern lassen</button>
-              <button id="card-button" class="secondary-button" type="button">Mini-Karte ziehen</button>
+              <button id="sparkle-button" class="primary-button" type="button">
+                Glitzern lassen
+              </button>
+              <button id="card-button" class="secondary-button" type="button">
+                Mini-Karte ziehen
+              </button>
               <button id="share-button" class="secondary-button" type="button">Teilen</button>
             </div>
           </div>
@@ -84,11 +95,18 @@
           <div>
             <p class="eyebrow">10 Styling-Tipps</p>
             <h2 id="tips-title">Der kleine Styling-Kompass</h2>
-            <p class="muted">Die Tipps sind als interaktive Checkliste eingebaut. Hake ab, was du ausprobiert hast, ziehe einen Zufallstipp oder lade das PDF direkt in der App.</p>
+            <p class="muted">
+              Die Tipps sind als interaktive Checkliste eingebaut. Hake ab, was du ausprobiert hast,
+              ziehe einen Zufallstipp oder lade das PDF direkt in der App.
+            </p>
           </div>
           <div class="tips-actions" aria-label="Styling-Tipps Aktionen">
-            <button id="tip-roulette-button" class="primary-button" type="button">Zufallstipp</button>
-            <button id="reset-tips-button" class="secondary-button" type="button">Zuruecksetzen</button>
+            <button id="tip-roulette-button" class="primary-button" type="button">
+              Zufallstipp
+            </button>
+            <button id="reset-tips-button" class="secondary-button" type="button">
+              Zuruecksetzen
+            </button>
           </div>
         </div>
 
@@ -103,14 +121,25 @@
           <div>
             <p class="eyebrow">Original-PDF</p>
             <h3 id="pdf-title">10_Styling_Tipps.pdf</h3>
-            <p class="muted">Die App zeigt das PDF von eskyna.com an. Du kannst es in der App oeffnen oder bei bestehender Verbindung fuer spaeter im Cache speichern.</p>
+            <p class="muted">
+              Die App zeigt das PDF von eskyna.com an. Du kannst es in der App oeffnen oder bei
+              bestehender Verbindung fuer spaeter im Cache speichern.
+            </p>
           </div>
           <div class="pdf-actions">
-            <button id="toggle-pdf-button" class="secondary-button" type="button">PDF-Vorschau laden</button>
-            <button id="save-pdf-button" class="primary-button" type="button">PDF offline speichern</button>
-            <a class="secondary-link" href="/10_Styling_Tipps.pdf" target="_blank" rel="noopener">PDF extern oeffnen</a>
+            <button id="toggle-pdf-button" class="secondary-button" type="button">
+              PDF-Vorschau laden
+            </button>
+            <button id="save-pdf-button" class="primary-button" type="button">
+              PDF offline speichern
+            </button>
+            <a class="secondary-link" href="/10_Styling_Tipps.pdf" target="_blank" rel="noopener"
+              >PDF extern oeffnen</a
+            >
           </div>
-          <p id="pdf-cache-status" class="pdf-status muted" aria-live="polite">PDF wird erst geladen, wenn du es anforderst.</p>
+          <p id="pdf-cache-status" class="pdf-status muted" aria-live="polite">
+            PDF wird erst geladen, wenn du es anforderst.
+          </p>
           <div id="pdf-viewer" class="pdf-viewer" hidden>
             <iframe
               title="10 Styling-Tipps PDF Vorschau"
@@ -126,12 +155,22 @@
         <div>
           <p class="eyebrow">Kleine nuetzliche Ecke</p>
           <h2 id="note-title">Natalias Notizen</h2>
-          <p class="muted">Fuege einen Wunsch, eine Idee oder Erinnerung hinzu. Alles bleibt lokal auf diesem Geraet.</p>
+          <p class="muted">
+            Fuege einen Wunsch, eine Idee oder Erinnerung hinzu. Alles bleibt lokal auf diesem
+            Geraet.
+          </p>
         </div>
 
         <form id="note-form" class="note-form">
           <label class="sr-only" for="note-input">Neue Notiz</label>
-          <input id="note-input" name="note" type="text" maxlength="90" placeholder="Kleine Notiz schreiben..." autocomplete="off" />
+          <input
+            id="note-input"
+            name="note"
+            type="text"
+            maxlength="90"
+            placeholder="Kleine Notiz schreiben..."
+            autocomplete="off"
+          />
           <button class="primary-button" type="submit">Speichern</button>
         </form>
 

@@ -11,7 +11,7 @@ const APP_SHELL = [
   "/stefan/icons/icon-192.png",
   "/stefan/icons/icon-512.png",
   "/stefan/icons/icon-maskable-512.png",
-  "/stefan/images/natalia-portrait.webp"
+  "/stefan/images/natalia-portrait.webp",
 ];
 
 const REMOTE_PORTRAIT_URL = "https://eskyna.com/images/IMG_5208_transparent.png";
@@ -25,13 +25,15 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(
-        keys.map((key) =>
-          key === CACHE_NAME || key === PDF_CACHE_NAME ? undefined : caches.delete(key)
+    caches
+      .keys()
+      .then((keys) =>
+        Promise.all(
+          keys.map((key) =>
+            key === CACHE_NAME || key === PDF_CACHE_NAME ? undefined : caches.delete(key)
+          )
         )
       )
-    )
   );
   self.clients.claim();
 });
@@ -72,9 +74,7 @@ self.addEventListener("fetch", (event) => {
   }
 
   if (request.url === REMOTE_PORTRAIT_URL || url.pathname === "/images/IMG_5208_transparent.png") {
-    event.respondWith(
-      cacheFirst(request).catch(() => caches.match(LOCAL_PORTRAIT_FALLBACK))
-    );
+    event.respondWith(cacheFirst(request).catch(() => caches.match(LOCAL_PORTRAIT_FALLBACK)));
     return;
   }
 

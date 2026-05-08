@@ -136,6 +136,10 @@ a:hover {
   color: var(--accent);
 }
 
+.hero .hero-coach-title {
+  color: #fff;
+}
+
 .hero-coach-separator {
   width: 1px;
   background: var(--accent);
@@ -195,7 +199,7 @@ a:hover {
       rgb(44 30 22 / 28%) 55%,
       rgb(44 30 22 / 08%) 100%
     ),
-    url("/images/HeroBackground.png");
+    url("/images/background_landscape.png");
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
@@ -328,12 +332,12 @@ h2 {
 
 .hero-image-wrap {
   place-self: end center;
-  width: min(100%, 600px);
+  width: min(185%, 1320px);
   background: transparent;
   display: flex;
   align-items: flex-end;
   position: relative;
-  transform: translateX(-0.9rem);
+  transform: translateX(-7.5rem);
   z-index: 1;
 }
 
@@ -342,7 +346,7 @@ h2 {
   border: 0;
   box-shadow: none;
   background: transparent;
-  max-height: 95vh;
+  max-height: min(190vh, 2040px);
   width: 100%;
   object-fit: contain;
   object-position: center bottom;
@@ -1503,15 +1507,15 @@ h2 {
 
   .hero-image-wrap {
     position: absolute;
-    right: -0.2rem;
+    right: -10rem;
     bottom: 0;
     justify-self: auto;
-    width: min(54vw, 420px);
+    width: min(108vw, 980px);
     z-index: 1;
   }
 
   .hero-image {
-    max-height: 85vh;
+    max-height: 155vh;
   }
 
   .hero .hero-copy {
@@ -1580,8 +1584,8 @@ h2 {
         rgb(44 30 22 / 68%) 36%,
         rgb(44 30 22 / 54%) 100%
       ),
-      url("/images/HeroBackground.png");
-    background-position: 62% center;
+      url("/images/background_portrait.png");
+    background-position: center center;
   }
 
   .hero-grid {
@@ -1637,13 +1641,13 @@ h2 {
   }
 
   .hero-image-wrap {
-    right: -1.5rem;
-    width: min(76vw, 360px);
+    right: -9rem;
+    width: min(124vw, 760px);
     opacity: 0.94;
   }
 
   .hero-image {
-    max-height: 75vh;
+    max-height: 138vh;
   }
 
   .hero::after {
@@ -1664,8 +1668,43 @@ h2 {
   }
 }
 
-@media (width <= 900px) and (orientation: portrait) {
+@media (orientation: portrait) {
+  .hero {
+    background-image: url("/images/background_portrait.png");
+    background-position: center center;
+  }
+
+  .hero::after {
+    content: none;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-image-wrap {
+    position: absolute;
+    left: 50%;
+    right: auto;
+    bottom: 0;
+    justify-self: center;
+    width: min(260vw, 2200px);
+    transform: translateX(-50%);
+    opacity: 1;
+  }
+
+  .hero-image {
+    max-height: min(270vh, 2900px);
+  }
+
+  .hero h1 {
+    font-size: clamp(2.1rem, 6.4vw, 3.3rem);
+    max-width: 11ch;
+  }
+
   .hero .hero-copy {
+    margin-top: clamp(4.5rem, 14vh, 10rem);
+    max-width: min(30rem, 56vw);
     backdrop-filter: none;
   }
 }
@@ -1702,11 +1741,104 @@ h2 {
   }
 
   .hero-image-wrap {
-    right: -2rem;
-    width: min(82vw, 320px);
+    right: -8rem;
+    width: min(132vw, 700px);
   }
 
   .method-journey {
     grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (orientation: portrait) {
+  .hero > .container {
+    width: 100vw;
+    max-width: 100vw;
+    margin: 0;
+  }
+
+  .hero-topbar {
+    padding-top: clamp(1rem, 3vh, 2rem);
+    padding-inline: clamp(1rem, 3vw, 2rem);
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero-coach-label {
+    justify-content: center;
+  }
+
+  .hero-coach-title {
+    color: #fff;
+  }
+
+  .hero-tools {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .hero-topbar,
+  .hero-grid {
+    width: 100vw;
+    max-width: 100vw;
+    margin: 0;
+    padding-inline: 0;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+  .hero .hero-copy {
+    margin-top: clamp(14rem, 38vh, 24rem);
+    margin-inline: auto;
+    width: 100vw;
+    max-width: 100vw;
+    padding-inline: clamp(0.75rem, 2.5vw, 1.25rem);
+    padding-right: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero .hero-copy > * {
+    width: 100%;
+  }
+
+  .hero h1 {
+    margin-inline: auto;
+    max-width: 100%;
+  }
+
+  .hero .hero-copy h1,
+  .hero .hero-copy .lead {
+    text-align: center;
+    margin-inline: auto;
+    max-width: 100%;
+  }
+
+  .hero .hero-copy .lead p {
+    text-align: center;
+  }
+
+  .hero-actions,
+  .hero-trust {
+    width: 100%;
+    margin-inline: auto;
+    justify-content: center;
+  }
+
+  .hero-image-wrap {
+    position: absolute;
+    left: 50%;
+    right: auto;
+    bottom: 0;
+    width: min(160vw, 1320px);
+    transform: translateX(-50%);
+    opacity: 1;
+  }
+
+  .hero-image {
+    max-height: min(172vh, 1850px);
   }
 }

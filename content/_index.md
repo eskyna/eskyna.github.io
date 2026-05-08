@@ -6,7 +6,7 @@ hero:
   text: "Die zielgerichtete Image- und Stilberatung für Männer und Frauen. Sparen Sie Zeit, vermeiden Sie teure Fehlkäufe und bringen Sie Struktur in Ihren Kleiderschrank.\n\n\n\nLassen Sie uns gemeinsam starten."
   ctaText: "Lernen Sie meine Angebote kennen"
   ctaHref: "#angebote"
-  image: "images/IMG_5208_transparent.png"
+  image: "images/Natalia_white_hero.png"
   trust:
     - "Online & vor Ort"
     - "Individuelle Beratung"

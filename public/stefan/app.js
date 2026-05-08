@@ -12,50 +12,50 @@ const prompts = [
   "Ein Outfit wirkt sofort ruhiger, wenn Farben, Proportionen und Anlass zusammenpassen.",
   "Ziehe einen Tipp, hake ihn ab und speichere deine beste Outfit-Idee als Notiz.",
   "Ein kleiner Goldmoment: weniger Zufall, mehr Stil-System.",
-  "Offline-Test: App oeffnen, PDF speichern, Flugmodus aktivieren und erneut laden."
+  "Offline-Test: App oeffnen, PDF speichern, Flugmodus aktivieren und erneut laden.",
 ];
 
 const styleTips = [
   {
     title: "Starte mit deiner Wirkung",
-    text: "Frage dich vor dem Anziehen: Wie moechte ich heute wirken - klar, nahbar, kreativ, elegant oder ruhig?"
+    text: "Frage dich vor dem Anziehen: Wie moechte ich heute wirken - klar, nahbar, kreativ, elegant oder ruhig?",
   },
   {
     title: "Baue eine kleine Farbwelt",
-    text: "Waehle zwei neutrale Basisfarben und eine Akzentfarbe. So entstehen schneller stimmige Kombinationen."
+    text: "Waehle zwei neutrale Basisfarben und eine Akzentfarbe. So entstehen schneller stimmige Kombinationen.",
   },
   {
     title: "Pruefe die Passform zuerst",
-    text: "Schultern, Taille, Laenge und Bewegungsfreiheit entscheiden oft mehr als Marke oder Trend."
+    text: "Schultern, Taille, Laenge und Bewegungsfreiheit entscheiden oft mehr als Marke oder Trend.",
   },
   {
     title: "Nutze eine Outfit-Formel",
-    text: "Zum Beispiel: ruhige Basis, ein strukturiertes Teil, ein bewusster Akzent. Das spart morgens Zeit."
+    text: "Zum Beispiel: ruhige Basis, ein strukturiertes Teil, ein bewusster Akzent. Das spart morgens Zeit.",
   },
   {
     title: "Arbeite mit Proportionen",
-    text: "Kombiniere weit mit schmal, kurz mit lang oder weich mit klar. Dadurch wirkt der Look geplanter."
+    text: "Kombiniere weit mit schmal, kurz mit lang oder weich mit klar. Dadurch wirkt der Look geplanter.",
   },
   {
     title: "Setze einen Fokuspunkt",
-    text: "Ein Schmuckstueck, ein Schuh, eine Farbe oder eine Linie darf die Hauptrolle spielen - nicht alles gleichzeitig."
+    text: "Ein Schmuckstueck, ein Schuh, eine Farbe oder eine Linie darf die Hauptrolle spielen - nicht alles gleichzeitig.",
   },
   {
     title: "Plane fuer deinen Alltag",
-    text: "Ein gutes Outfit passt zu Terminen, Wegen, Wetter und Energielevel - nicht nur zum Foto."
+    text: "Ein gutes Outfit passt zu Terminen, Wegen, Wetter und Energielevel - nicht nur zum Foto.",
   },
   {
     title: "Sortiere nach Kombinierbarkeit",
-    text: "Lieblingsteile werden staerker, wenn du direkt zwei bis drei passende Partner dazu findest."
+    text: "Lieblingsteile werden staerker, wenn du direkt zwei bis drei passende Partner dazu findest.",
   },
   {
     title: "Kaufe mit Lueckenliste",
-    text: "Notiere fehlende Teile vor dem Shopping. Das verhindert Fehlkaeufe und macht Entscheidungen klarer."
+    text: "Notiere fehlende Teile vor dem Shopping. Das verhindert Fehlkaeufe und macht Entscheidungen klarer.",
   },
   {
     title: "Fotografiere gute Looks",
-    text: "Speichere funktionierende Outfits als Mini-Bibliothek. So findest du sie spaeter sofort wieder."
-  }
+    text: "Speichere funktionierende Outfits als Mini-Bibliothek. So findest du sie spaeter sofort wieder.",
+  },
 ];
 
 const statusEl = document.querySelector("#connection-status");
@@ -102,7 +102,9 @@ function getDoneTips() {
 }
 
 function setDoneTips(doneTips) {
-  const validIndexes = [...new Set(doneTips)].filter((index) => Number.isInteger(index) && index >= 0 && index < styleTips.length);
+  const validIndexes = [...new Set(doneTips)].filter(
+    (index) => Number.isInteger(index) && index >= 0 && index < styleTips.length
+  );
   localStorage.setItem(TIPS_KEY, JSON.stringify(validIndexes));
 }
 
@@ -208,7 +210,9 @@ function drawRandomTip() {
 
 function updateConnectionStatus() {
   const isOnline = navigator.onLine;
-  statusEl.textContent = isOnline ? "Online · Offline-Cache bereit" : "Offline · App funktioniert weiter";
+  statusEl.textContent = isOnline
+    ? "Online · Offline-Cache bereit"
+    : "Offline · App funktioniert weiter";
   statusEl.dataset.state = isOnline ? "online" : "offline";
 }
 
@@ -239,7 +243,8 @@ function makeSparkle(originX = window.innerWidth / 2, originY = window.innerHeig
     sparkle.addEventListener("animationend", () => sparkle.remove(), { once: true });
   }
 
-  sparkleButton.textContent = count === 1 ? "1 Glitzer gespeichert" : `${count} Glitzer gespeichert`;
+  sparkleButton.textContent =
+    count === 1 ? "1 Glitzer gespeichert" : `${count} Glitzer gespeichert`;
 }
 
 function randomCard() {
@@ -253,7 +258,7 @@ async function shareApp() {
   const shareData = {
     title: "ESKYNA",
     text: "Eine kleine spielerische PWA mit Styling-Tipps von ESKYNA.",
-    url: APP_URL
+    url: APP_URL,
   };
 
   if (navigator.share) {
@@ -288,7 +293,8 @@ function togglePdfPreview() {
 
   if (shouldShow && pdfFrame.src === "about:blank") {
     pdfFrame.src = pdfFrame.dataset.src || PDF_URL;
-    pdfCacheStatus.textContent = "PDF-Vorschau wird geladen. Auf manchen mobilen Browsern oeffnet sich das PDF besser extern.";
+    pdfCacheStatus.textContent =
+      "PDF-Vorschau wird geladen. Auf manchen mobilen Browsern oeffnet sich das PDF besser extern.";
   }
 }
 
@@ -316,10 +322,12 @@ async function savePdfOffline() {
     if (!response.ok) throw new Error(`PDF request failed: ${response.status}`);
     const cache = await caches.open(PDF_CACHE_NAME);
     await cache.put(PDF_URL, response.clone());
-    pdfCacheStatus.textContent = "PDF gespeichert. Jetzt kannst du die App spaeter wieder oeffnen und schneller auf das PDF zugreifen.";
+    pdfCacheStatus.textContent =
+      "PDF gespeichert. Jetzt kannst du die App spaeter wieder oeffnen und schneller auf das PDF zugreifen.";
     makeSparkle(window.innerWidth / 2, window.innerHeight / 2);
   } catch (error) {
-    pdfCacheStatus.textContent = "PDF konnte nicht gespeichert werden. Bitte online sein und erneut versuchen.";
+    pdfCacheStatus.textContent =
+      "PDF konnte nicht gespeichert werden. Bitte online sein und erneut versuchen.";
   } finally {
     savePdfButton.disabled = false;
     savePdfButton.textContent = "PDF offline speichern";
