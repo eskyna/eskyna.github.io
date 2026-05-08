@@ -1,15 +1,15 @@
 <!doctype html>
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="description" content="ESKYNA, a small playful PWA for Natalia." />
+    <meta name="description" content="ESKYNA, eine kleine spielerische PWA mit Styling-Tipps fuer Natalia." />
     <meta name="theme-color" content="#c5a059" />
 
     <title>ESKYNA</title>
 
     <link rel="manifest" href="/stefan/manifest.webmanifest" />
-    <link rel="icon" type="image/png" href="/stefan/icons/icon-transparent.png" />
+    <link rel="icon" type="image/png" href="/stefan/icons/sign_gold.png" />
     <link rel="apple-touch-icon" href="/stefan/icons/apple-touch-icon.png" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -22,25 +22,25 @@
     <link rel="stylesheet" href="/stefan/styles.css" />
   </head>
   <body>
-    <a class="skip-link" href="#main">Skip to Natalia</a>
+    <a class="skip-link" href="#main">Direkt zum Inhalt</a>
 
     <main id="main" class="app-shell" aria-label="ESKYNA PWA">
       <section class="hero-card" aria-labelledby="app-title">
         <div class="status-row" aria-live="polite">
-          <span id="connection-status" class="pill">Checking connection...</span>
-          <button id="install-button" class="ghost-button" type="button" hidden>Install app</button>
+          <span id="connection-status" class="pill">Verbindung wird geprueft...</span>
+          <button id="install-button" class="ghost-button" type="button" hidden>App installieren</button>
         </div>
 
         <div class="hero-grid">
           <div class="copy-panel">
             <p class="eyebrow">ESKYNA mini PWA</p>
             <h1 id="app-title">Natalia</h1>
-            <p id="daily-line" class="lead">A tiny corner that works offline, remembers notes, and throws a little sparkle.</p>
+            <p id="daily-line" class="lead">Eine kleine PWA fuer Styling-Tipps, Offline-Magie, Notizen und ein bisschen Glitzer.</p>
 
-            <div class="action-row" aria-label="Playful actions">
-              <button id="sparkle-button" class="primary-button" type="button">Make it sparkle</button>
-              <button id="card-button" class="secondary-button" type="button">Draw a tiny card</button>
-              <button id="share-button" class="secondary-button" type="button">Share</button>
+            <div class="action-row" aria-label="Spielerische Aktionen">
+              <button id="sparkle-button" class="primary-button" type="button">Glitzern lassen</button>
+              <button id="card-button" class="secondary-button" type="button">Mini-Karte ziehen</button>
+              <button id="share-button" class="secondary-button" type="button">Teilen</button>
             </div>
           </div>
 
@@ -56,40 +56,83 @@
               decoding="async"
               fetchpriority="high"
             />
-            <figcaption>Tap sparkle, then try airplane mode.</figcaption>
+            <figcaption>Tipps abhaken, PDF speichern, dann Flugmodus testen.</figcaption>
           </figure>
         </div>
       </section>
 
-      <section class="feature-grid" aria-label="PWA features">
+      <section class="feature-grid" aria-label="PWA Funktionen">
         <article class="feature-card">
           <span class="feature-mark">01</span>
-          <h2>Offline ready</h2>
-          <p>The app shell and local portrait fallback are cached after the first visit.</p>
+          <h2>Offline bereit</h2>
+          <p>App-Shell und lokales Portraet-Fallback werden nach dem ersten Besuch gecacht.</p>
         </article>
         <article class="feature-card">
           <span class="feature-mark">02</span>
-          <h2>Saved here</h2>
-          <p>Your notes stay in this browser with local storage, even after closing the app.</p>
+          <h2>Gespeichert</h2>
+          <p>Notizen und abgehakte Styling-Tipps bleiben lokal in diesem Browser erhalten.</p>
         </article>
         <article class="feature-card">
           <span class="feature-mark">03</span>
-          <h2>Installable</h2>
-          <p>On supported devices, add it to the home screen for a native-app feeling.</p>
+          <h2>Installierbar</h2>
+          <p>Auf unterstuetzten Geraeten kommt ESKYNA als kleine App auf den Homescreen.</p>
         </article>
+      </section>
+
+      <section class="tips-card" aria-labelledby="tips-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">10 Styling-Tipps</p>
+            <h2 id="tips-title">Der kleine Styling-Kompass</h2>
+            <p class="muted">Die Tipps sind als interaktive Checkliste eingebaut. Hake ab, was du ausprobiert hast, ziehe einen Zufallstipp oder lade das PDF direkt in der App.</p>
+          </div>
+          <div class="tips-actions" aria-label="Styling-Tipps Aktionen">
+            <button id="tip-roulette-button" class="primary-button" type="button">Zufallstipp</button>
+            <button id="reset-tips-button" class="secondary-button" type="button">Zuruecksetzen</button>
+          </div>
+        </div>
+
+        <div class="tips-progress-row" aria-live="polite">
+          <span id="tips-progress" class="pill">0 von 10 Tipps abgehakt</span>
+          <span class="muted">Alles wird nur lokal auf deinem Geraet gespeichert.</span>
+        </div>
+
+        <ol id="style-tips-grid" class="style-tips-grid"></ol>
+
+        <div class="pdf-panel" aria-labelledby="pdf-title">
+          <div>
+            <p class="eyebrow">Original-PDF</p>
+            <h3 id="pdf-title">10_Styling_Tipps.pdf</h3>
+            <p class="muted">Die App zeigt das PDF von eskyna.com an. Du kannst es in der App oeffnen oder bei bestehender Verbindung fuer spaeter im Cache speichern.</p>
+          </div>
+          <div class="pdf-actions">
+            <button id="toggle-pdf-button" class="secondary-button" type="button">PDF-Vorschau laden</button>
+            <button id="save-pdf-button" class="primary-button" type="button">PDF offline speichern</button>
+            <a class="secondary-link" href="/10_Styling_Tipps.pdf" target="_blank" rel="noopener">PDF extern oeffnen</a>
+          </div>
+          <p id="pdf-cache-status" class="pdf-status muted" aria-live="polite">PDF wird erst geladen, wenn du es anforderst.</p>
+          <div id="pdf-viewer" class="pdf-viewer" hidden>
+            <iframe
+              title="10 Styling-Tipps PDF Vorschau"
+              data-src="/10_Styling_Tipps.pdf"
+              src="about:blank"
+              loading="lazy"
+            ></iframe>
+          </div>
+        </div>
       </section>
 
       <section class="note-card" aria-labelledby="note-title">
         <div>
-          <p class="eyebrow">Little useful bit</p>
-          <h2 id="note-title">Natalia's notes</h2>
-          <p class="muted">Add a tiny wish, idea, or reminder. It is stored locally on this device.</p>
+          <p class="eyebrow">Kleine nuetzliche Ecke</p>
+          <h2 id="note-title">Natalias Notizen</h2>
+          <p class="muted">Fuege einen Wunsch, eine Idee oder Erinnerung hinzu. Alles bleibt lokal auf diesem Geraet.</p>
         </div>
 
         <form id="note-form" class="note-form">
-          <label class="sr-only" for="note-input">New note</label>
-          <input id="note-input" name="note" type="text" maxlength="90" placeholder="Write a tiny note..." autocomplete="off" />
-          <button class="primary-button" type="submit">Save</button>
+          <label class="sr-only" for="note-input">Neue Notiz</label>
+          <input id="note-input" name="note" type="text" maxlength="90" placeholder="Kleine Notiz schreiben..." autocomplete="off" />
+          <button class="primary-button" type="submit">Speichern</button>
         </form>
 
         <ul id="note-list" class="note-list" aria-live="polite"></ul>
