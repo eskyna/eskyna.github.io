@@ -1,0 +1,33 @@
+{
+  "id": "/stefan/",
+  "name": "Natalia",
+  "short_name": "Natalia",
+  "description": "Natalia",
+  "start_url": "/stefan/",
+  "scope": "/stefan/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#f9f6f0",
+  "theme_color": "#c5a059",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

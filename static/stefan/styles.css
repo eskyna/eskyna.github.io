@@ -1,0 +1,110 @@
+:root {
+  --bg: #f9f6f0;
+  --bg-soft: #e3d5c8;
+  --text: #2c1e16;
+  --muted: rgb(44 30 22 / 72%);
+  --accent: #c5a059;
+  --accent-strong: #8b5e34;
+  --card-border: rgb(44 30 22 / 16%);
+  --font-headline: "Montserrat", "Helvetica Neue", helvetica, arial, sans-serif;
+  --font-subtitle: "Lato", "Helvetica Neue", helvetica, arial, sans-serif;
+  --font-text: "Open Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  min-height: 100svh;
+  color: var(--text);
+  font-family: var(--font-text);
+  background-color: #f6f1ea;
+  background-image:
+    radial-gradient(circle at 15% 18%, rgb(197 160 89 / 22%), transparent 28rem),
+    radial-gradient(circle at 88% 82%, rgb(139 94 52 / 14%), transparent 24rem),
+    linear-gradient(rgb(255 255 255 / 70%), rgb(255 255 255 / 70%)),
+    url("/images/linen-texture-light.png");
+  background-repeat: no-repeat, no-repeat, repeat, repeat;
+  background-size: auto, auto, auto, 420px 420px;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  pointer-events: none;
+  border: 1px solid rgb(197 160 89 / 22%);
+  border-radius: 999px;
+  transform: rotate(-18deg);
+}
+
+body::before {
+  width: min(52vw, 34rem);
+  height: min(52vw, 34rem);
+  left: -14rem;
+  top: -10rem;
+}
+
+body::after {
+  width: min(46vw, 30rem);
+  height: min(46vw, 30rem);
+  right: -12rem;
+  bottom: -14rem;
+}
+
+.app-shell {
+  position: relative;
+  z-index: 1;
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  padding: clamp(1.5rem, 5vw, 4rem);
+}
+
+.app-shell h1 {
+  margin: 0;
+  font-family: var(--font-headline);
+  font-weight: 500;
+  font-size: clamp(4rem, 15vw, 12rem);
+  line-height: 0.92;
+  letter-spacing: -0.055em;
+  color: var(--text);
+  text-align: center;
+  text-shadow: 0 1px 0 rgb(255 255 255 / 70%);
+}
+
+.app-shell h1::after {
+  content: "";
+  display: block;
+  width: min(9rem, 32vw);
+  height: 2px;
+  margin: clamp(1.1rem, 3vw, 1.75rem) auto 0;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .app-shell h1 {
+    animation: settle 700ms ease-out both;
+  }
+
+  @keyframes settle {
+    from {
+      opacity: 0;
+      transform: translateY(0.5rem);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
