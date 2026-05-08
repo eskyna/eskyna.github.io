@@ -1821,7 +1821,7 @@ h2 {
     text-align: center;
   }
 
-  .hero h1,
+  .hero .hero-copy h1,
   .hero .hero-copy .lead,
   .hero .hero-copy .lead p,
   .hero-trust-item {
