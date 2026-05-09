@@ -318,6 +318,34 @@ function makeColorChips(value) {
   return wrapper;
 }
 
+function toPngDataUrl(base64Value) {
+  if (typeof base64Value !== 'string') return '';
+  const trimmed = base64Value.trim();
+  if (!trimmed) return '';
+  if (/^data:image\/png;base64,/i.test(trimmed)) return trimmed;
+  return `data:image/png;base64,${trimmed}`;
+}
+
+function makeOverlayPreview(base64Value) {
+  const imageSrc = toPngDataUrl(base64Value);
+  if (!imageSrc) return null;
+
+  const wrapper = document.createElement('figure');
+  wrapper.className = 'overlay-preview';
+
+  const image = document.createElement('img');
+  image.src = imageSrc;
+  image.alt = 'Coach-Overlay zur Analyse';
+  image.decoding = 'async';
+  image.loading = 'lazy';
+
+  const caption = document.createElement('figcaption');
+  caption.textContent = 'Visualisierte Analyse mit Coach-Overlay';
+
+  wrapper.append(image, caption);
+  return wrapper;
+}
+
 function renderResult(payload) {
   els.resultContent.innerHTML = '';
   els.emptyState.hidden = true;
@@ -334,6 +362,14 @@ function renderResult(payload) {
   const recommendations = findFirst(data, ['recommendations', 'recommendation', 'suggestions', 'tipps', 'empfehlungen', 'advice']);
   const avoid = findFirst(data, ['avoid', 'donts', 'vermeiden', 'risks', 'hinweise']);
   const outfits = findFirst(data, ['outfits', 'combinations', 'kombinationen', 'nextSteps', 'next_steps']);
+  const overlayBase64 = findFirst(data, ['coach_overlay_png_base64']) || findFirst(data?.artifacts, ['coach_overlay_png_base64']);
+
+  if (overlayBase64) {
+    const overlayPreview = makeOverlayPreview(overlayBase64);
+    if (overlayPreview) {
+      grid.append(makeCard('Coach Overlay', null, { html: overlayPreview, full: true }));
+    }
+  }
 
   if (summary) grid.append(makeCard('Zusammenfassung', summary, { full: true }));
   if (styleType) grid.append(makeCard('Stilrichtung', styleType));
