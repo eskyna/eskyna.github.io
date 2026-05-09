@@ -1,11 +1,15 @@
-const CACHE_NAME = 'estyle-beta-v2';
+const CACHE_NAME = 'estyle-beta-v3';
 const APP_SHELL = [
   './',
   './index.html',
   './styles.css',
   './app.js',
   './manifest.webmanifest',
-  './sign_gold.png'
+  './icons/sign_gold.png',
+  './icons/apple-touch-icon.png',
+  './icons/icon-192.png',
+  './icons/icon-512.png',
+  './icons/icon-maskable-512.png'
 ];
 
 self.addEventListener('install', (event) => {
