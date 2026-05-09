@@ -1862,3 +1862,480 @@ h2 {
     max-height: min(172vh, 1850px);
   }
 }
+
+  /* --------------------------------------------------------------------------
+     Mobile Hero Optimierung fuer ESKYNA
+     Einfuegen am Ende von static/css/main.css
+     -------------------------------------------------------------------------- */
+
+  /* Gemeinsame Mobile-/Touch-Optimierungen */
+  @media (width <= 900px) {
+    .hero {
+      min-height: 100vh;
+      min-height: 100svh;
+      isolation: isolate;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+      background:
+        radial-gradient(circle at 78% 86%, rgb(197 160 89 / 18%), transparent 34%),
+        linear-gradient(180deg, rgb(24 17 13 / 48%) 0%, rgb(24 17 13 / 72%) 54%, rgb(24 17 13 / 84%) 100%);
+    }
+
+    .hero > .container {
+      width: min(100% - 2rem, var(--max-width));
+    }
+
+    .hero-topbar,
+    .hero-grid,
+    .hero-copy,
+    .hero-image-wrap {
+      position: relative;
+    }
+
+    .hero-topbar,
+    .hero-grid,
+    .hero-copy {
+      z-index: 2;
+    }
+
+    .hero-topbar {
+      align-items: center;
+      gap: 0.75rem;
+      padding-top: max(0.75rem, env(safe-area-inset-top));
+    }
+
+    .hero-coach-label {
+      font-size: clamp(0.58rem, 2.15vw, 0.72rem);
+      letter-spacing: 0.08em;
+      column-gap: 0.35rem;
+    }
+
+    .hero-coach-name {
+      font-size: 2.25em;
+    }
+
+    .hero-tools {
+      gap: 0.5rem;
+    }
+
+    .hero-tools .social-links {
+      gap: 0.35rem;
+    }
+
+    .hero-tools .social-link {
+      width: 28px;
+      height: 28px;
+    }
+
+    .hero-tools .language-switcher {
+      font-size: 0.78rem;
+      gap: 0.32rem;
+    }
+
+    .hero .hero-copy {
+      max-width: 34rem;
+      padding: 0;
+      text-shadow: 0 2px 18px rgb(0 0 0 / 34%);
+      backdrop-filter: none;
+    }
+
+    .hero .hero-copy h1 {
+      max-width: 11ch;
+      margin-bottom: 0.85rem;
+    }
+
+    .hero .hero-copy .lead {
+      max-width: 36ch;
+      margin-bottom: 1.15rem;
+      color: rgb(255 255 255 / 86%);
+    }
+
+    .hero .hero-copy .lead p + p {
+      margin-top: 0.8rem;
+    }
+
+    .hero-actions {
+      width: 100%;
+    }
+
+    .hero-actions .btn {
+      min-height: 50px;
+      width: min(100%, 22rem);
+      padding: 0.9rem 1.1rem;
+      white-space: normal;
+    }
+
+    .hero-trust {
+      max-width: 24rem;
+      gap: 0.42rem 0.8rem;
+      margin-top: 0.95rem;
+    }
+
+    .hero-trust-item {
+      font-size: 0.64rem;
+      letter-spacing: 0.07em;
+      color: rgb(255 255 255 / 68%);
+    }
+  }
+
+  /* Mobile Portrait: Text zuerst, Bild atmosphaerisch unten rechts */
+  @media (width <= 900px) and (orientation: portrait) {
+    .hero {
+      background-image:
+        linear-gradient(180deg, rgb(44 30 22 / 34%) 0%, rgb(44 30 22 / 78%) 58%, rgb(44 30 22 / 92%) 100%),
+        url("/images/background_portrait.png");
+      background-position: center bottom;
+      background-size: cover;
+    }
+
+    .hero-grid,
+    .hero .hero-grid {
+      grid-template-columns: 1fr;
+      align-items: start;
+      gap: 0;
+      min-height: calc(100svh - 4.25rem);
+      padding: clamp(2.2rem, 9svh, 5rem) 0 clamp(1.4rem, 7svh, 3.2rem);
+    }
+
+    .hero .hero-copy {
+      width: min(100%, 31rem);
+    }
+
+    .hero .hero-copy h1 {
+      font-size: clamp(2.25rem, 11vw, 4rem);
+      line-height: 0.98;
+    }
+
+    .hero .hero-copy .lead {
+      font-size: clamp(0.96rem, 3.85vw, 1.08rem);
+      line-height: 1.52;
+    }
+
+    .hero-image-wrap {
+      position: absolute;
+      left: 50%;
+      right: auto;
+      bottom: 0;
+      z-index: 1;
+      width: min(170vw, 60rem);
+      transform: translateX(-50%);
+      opacity: 0.94;
+      pointer-events: none;
+    }
+
+    .hero-image {
+      width: 100%;
+      max-height: calc(100svh - 2.9rem);
+      object-fit: contain;
+      object-position: center bottom;
+    }
+  }
+
+  /* Kleine Portrait-Geraete: weniger Logo-/Trust-Druck, CTA bleibt sichtbar */
+  @media (width <= 390px) and (orientation: portrait) {
+    .hero-topbar {
+      gap: 0.55rem;
+    }
+
+    .hero-coach-label {
+      font-size: 0.55rem;
+    }
+
+    .hero-tools .social-link {
+      width: 26px;
+      height: 26px;
+    }
+
+    .hero-tools .language-switcher {
+      font-size: 0.72rem;
+    }
+
+    .hero .hero-copy h1 {
+      font-size: clamp(2rem, 10.5vw, 2.8rem);
+    }
+
+    .hero .hero-copy .lead {
+      font-size: 0.94rem;
+    }
+
+    .hero-trust {
+      max-width: 19rem;
+    }
+
+    .hero-image-wrap {
+      left: 50%;
+      right: auto;
+      width: min(164vw, 40rem);
+      transform: translateX(-50%);
+      opacity: 0.9;
+    }
+
+    .hero-image {
+      max-height: calc(100svh - 3.1rem);
+    }
+  }
+
+  /* Quadratische bzw. fast quadratische Mobile-Screens: Landscape-Variante ohne Verdunkelung */
+  @media (width <= 900px) and (1 / 1 <= aspect-ratio <= 6 / 5) {
+    .hero {
+      min-height: 100svh;
+      background-image: url("/images/background_landscape.png");
+      background-position: center center;
+      background-size: cover;
+    }
+
+    .hero::before,
+    .hero::after {
+      content: none;
+    }
+
+    .hero-grid,
+    .hero .hero-grid {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.04fr);
+      gap: clamp(0.75rem, 3vw, 1.75rem);
+      align-items: center;
+      min-height: calc(100svh - 3.2rem);
+      padding: 0.45rem 0 max(0.65rem, env(safe-area-inset-bottom));
+    }
+
+    .hero .hero-copy {
+      max-width: 29rem;
+      text-align: left;
+      align-items: flex-start;
+    }
+
+    .hero .hero-copy > * {
+      width: auto;
+    }
+
+    .hero .hero-copy h1 {
+      max-width: 12ch;
+      margin-bottom: 0.55rem;
+      font-size: clamp(1.85rem, 5.2vw, 3rem);
+      line-height: 0.98;
+    }
+
+    .hero .hero-copy .lead,
+    .hero .hero-copy .lead p {
+      max-width: 38ch;
+      margin-bottom: 0.72rem;
+      font-size: clamp(0.82rem, 1.9vw, 0.95rem);
+      line-height: 1.42;
+      text-align: left;
+    }
+
+    .hero-actions,
+    .hero-trust {
+      width: auto;
+      margin-inline: 0;
+      justify-content: flex-start;
+    }
+
+    .hero-image-wrap {
+      position: relative;
+      left: auto;
+      right: -1rem;
+      bottom: 0;
+      width: min(88vw, 48rem);
+      transform: none;
+      opacity: 1;
+    }
+
+    .hero-image {
+      max-height: 94svh;
+    }
+  }
+
+  /* Mobile Landscape: kompakt, nichts unter der Falz verlieren */
+  @media (height <= 560px) and (orientation: landscape) {
+    .hero {
+      min-height: 100vh;
+      min-height: 100svh;
+      background-image:
+        linear-gradient(90deg, rgb(44 30 22 / 78%) 0%, rgb(44 30 22 / 54%) 48%, rgb(44 30 22 / 18%) 100%),
+        url("/images/background_landscape.png");
+      background-position: center right;
+      background-size: cover;
+    }
+
+    .hero::before {
+      background: linear-gradient(90deg, rgb(24 17 13 / 38%) 0%, rgb(24 17 13 / 18%) 62%, transparent 100%);
+    }
+
+    .hero-topbar {
+      padding-top: max(0.45rem, env(safe-area-inset-top));
+    }
+
+    .hero-coach-label {
+      font-size: clamp(0.52rem, 1.35vw, 0.66rem);
+    }
+
+    .hero-coach-name {
+      font-size: 2em;
+    }
+
+    .hero-tools .social-link {
+      width: 26px;
+      height: 26px;
+    }
+
+    .hero-tools .language-switcher {
+      font-size: 0.72rem;
+    }
+
+    .hero-grid,
+    .hero .hero-grid {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.04fr);
+      gap: clamp(0.75rem, 3vw, 1.75rem);
+      align-items: center;
+      min-height: calc(100svh - 3.2rem);
+      padding: 0.35rem 0 max(0.65rem, env(safe-area-inset-bottom));
+    }
+
+    .hero .hero-copy {
+      max-width: 29rem;
+    }
+
+    .hero .hero-copy h1 {
+      max-width: 12ch;
+      margin-bottom: 0.55rem;
+      font-size: clamp(1.7rem, 5.3vw, 3rem);
+      line-height: 0.98;
+    }
+
+    .hero .hero-copy .lead {
+      max-width: 38ch;
+      margin-bottom: 0.72rem;
+      font-size: clamp(0.8rem, 1.9vw, 0.94rem);
+      line-height: 1.42;
+    }
+
+    .hero .hero-copy .lead p + p {
+      margin-top: 0.45rem;
+    }
+
+    .hero-actions .btn {
+      min-height: 42px;
+      width: auto;
+      padding: 0.68rem 1rem;
+      font-size: 0.86rem;
+    }
+
+    .hero-trust {
+      gap: 0.28rem 0.65rem;
+      margin-top: 0.55rem;
+    }
+
+    .hero-trust-item {
+      font-size: 0.56rem;
+      letter-spacing: 0.06em;
+    }
+
+    .hero-image-wrap {
+      place-self: end center;
+      width: min(82vw, 43rem);
+      transform: translateX(-1.6rem);
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    .hero-image {
+      max-height: 94svh;
+      object-fit: contain;
+      object-position: center bottom;
+    }
+  }
+
+  /* Sehr flache Landscape-Views, z. B. iPhone mit Browserleisten */
+  @media (height <= 400px) and (orientation: landscape) {
+    .hero-grid,
+    .hero .hero-grid {
+      min-height: calc(100svh - 2.75rem);
+      padding-block: 0.25rem 0.45rem;
+    }
+
+    .hero .hero-copy h1 {
+      font-size: clamp(1.45rem, 4.7vw, 2.35rem);
+      margin-bottom: 0.4rem;
+    }
+
+    .hero .hero-copy .lead {
+      max-width: 42ch;
+      margin-bottom: 0.5rem;
+      font-size: 0.78rem;
+      line-height: 1.34;
+    }
+
+    .hero-trust {
+      display: none;
+    }
+
+    .hero-actions .btn {
+      min-height: 38px;
+      padding: 0.58rem 0.9rem;
+    }
+
+    .hero-image-wrap {
+      width: min(72vw, 36rem);
+      transform: translateX(-0.75rem);
+    }
+
+    .hero-image {
+      max-height: 88svh;
+    }
+  }
+
+  /* --------------------------------------------------------------------------
+     Final Hero Mode: Combined Background Only
+     -------------------------------------------------------------------------- */
+  main .hero {
+    background-image:
+      linear-gradient(
+        to right,
+        rgb(44 30 22 / 62%) 0%,
+        rgb(44 30 22 / 32%) 52%,
+        rgb(44 30 22 / 12%) 100%
+      ),
+      url("/images/background_landscape_combined.png");
+    background-position: center center;
+    background-size: cover;
+  }
+
+  main .hero::before,
+  main .hero::after {
+    content: none;
+  }
+
+  main .hero-image-wrap {
+    display: none;
+  }
+
+  main .hero .hero-grid {
+    grid-template-columns: 1fr;
+    align-items: center;
+  }
+
+  main .hero .hero-copy {
+    max-width: min(38rem, 100%);
+  }
+
+  @media (orientation: portrait) {
+    main .hero {
+      background-image:
+        linear-gradient(
+          180deg,
+          rgb(44 30 22 / 56%) 0%,
+          rgb(44 30 22 / 34%) 46%,
+          rgb(44 30 22 / 22%) 100%
+        ),
+        url("/images/background_portrait_combined.png");
+      background-position: center center;
+      background-size: cover;
+    }
+  }
