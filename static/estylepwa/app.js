@@ -16,7 +16,8 @@ const els = {
   errorBox: document.querySelector('#errorBox'),
   resultContent: document.querySelector('#resultContent'),
   resultBadge: document.querySelector('#resultBadge'),
-  installButton: document.querySelector('#installButton')
+  installButtons: Array.from(document.querySelectorAll('.install-button')),
+  installHint: document.querySelector('#installHint')
 };
 
 let selectedFile = null;
@@ -31,7 +32,8 @@ function setBusy(isBusy) {
   els.loading.hidden = !isBusy;
   els.analyzeButton.disabled = isBusy || !selectedFile;
   els.clearButton.disabled = isBusy || !selectedFile;
-  els.resultBadge.textContent = isBusy ? 'Analyse' : selectedFile ? 'Bereit' : 'Bereit';
+  els.analyzeButton.textContent = isBusy ? 'Portraitfoto wird analysiert …' : 'Analyse starten';
+  els.resultBadge.textContent = isBusy ? 'Analysiert' : selectedFile ? 'Bereit' : 'Warten';
 }
 
 function setError(message) {
@@ -59,8 +61,37 @@ function clearSelection() {
   previewUrl = null;
   els.analyzeButton.disabled = true;
   els.clearButton.disabled = true;
-  setStatus('Noch kein Foto ausgewählt.');
+  setStatus('Noch kein Portraitfoto ausgewählt.');
   resetResult();
+}
+
+function setInstallHint(message) {
+  if (els.installHint) {
+    els.installHint.textContent = message;
+  }
+}
+
+function toggleInstallButtons(isVisible) {
+  els.installButtons.forEach((button) => {
+    button.hidden = !isVisible;
+  });
+}
+
+function updateInstallHintForDevice() {
+  const isMobile = window.matchMedia('(max-width: 900px)').matches;
+  if (!isMobile) return;
+
+  if (deferredInstallPrompt) {
+    setInstallHint('Installieren Sie die App jetzt auf Ihrem Smartphone und starten Sie die Analyse direkt vom Home-Bildschirm.');
+    return;
+  }
+
+  const isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  if (isiOS) {
+    setInstallHint('iPhone/iPad: Tippen Sie auf Teilen und wählen Sie anschließend Zum Home-Bildschirm.');
+  } else {
+    setInstallHint('Android: Öffnen Sie das Browser-Menü und wählen Sie App installieren oder Zum Startbildschirm hinzufügen.');
+  }
 }
 
 function formatBytes(bytes) {
@@ -322,16 +353,31 @@ els.clearButton.addEventListener('click', clearSelection);
 window.addEventListener('beforeinstallprompt', (event) => {
   event.preventDefault();
   deferredInstallPrompt = event;
-  els.installButton.hidden = false;
+  toggleInstallButtons(true);
+  updateInstallHintForDevice();
 });
 
-els.installButton.addEventListener('click', async () => {
-  if (!deferredInstallPrompt) return;
-  deferredInstallPrompt.prompt();
-  await deferredInstallPrompt.userChoice;
-  deferredInstallPrompt = null;
-  els.installButton.hidden = true;
+els.installButtons.forEach((button) => {
+  button.addEventListener('click', async () => {
+    if (!deferredInstallPrompt) {
+      updateInstallHintForDevice();
+      return;
+    }
+
+    deferredInstallPrompt.prompt();
+    await deferredInstallPrompt.userChoice;
+    deferredInstallPrompt = null;
+    toggleInstallButtons(false);
+    setInstallHint('Vielen Dank. Sie können die Analyse jetzt jederzeit direkt auf Ihrem Smartphone starten.');
+  });
 });
+
+window.addEventListener('appinstalled', () => {
+  toggleInstallButtons(false);
+  setInstallHint('Die App ist installiert und auf Ihrem Startbildschirm verfügbar.');
+});
+
+updateInstallHintForDevice();
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {

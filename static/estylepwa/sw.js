@@ -1,11 +1,11 @@
-const CACHE_NAME = 'estyle-beta-v1';
+const CACHE_NAME = 'estyle-beta-v2';
 const APP_SHELL = [
   './',
   './index.html',
   './styles.css',
   './app.js',
   './manifest.webmanifest',
-  './EStyle_Logo.png'
+  './sign_gold.png'
 ];
 
 self.addEventListener('install', (event) => {

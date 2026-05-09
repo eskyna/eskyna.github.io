@@ -1,7 +1,7 @@
 {
   "name": "EStyle (beta)",
   "short_name": "EStyle",
-  "description": "Foto aufnehmen, Outfit analysieren und klare Stil-Impulse erhalten.",
+  "description": "Portraitfoto aufnehmen, analysieren und klare Stil-Impulse erhalten.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -11,8 +11,8 @@
   "categories": ["lifestyle", "productivity"],
   "icons": [
     {
-      "src": "./EStyle_Logo.png",
-      "sizes": "2000x1566",
+      "src": "./sign_gold.png",
+      "sizes": "960x963",
       "type": "image/png",
       "purpose": "any"
     }

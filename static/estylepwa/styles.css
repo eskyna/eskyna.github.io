@@ -202,6 +202,24 @@ h3 {
   align-items: center;
 }
 
+.install-promo {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid rgba(47, 36, 31, 0.14);
+  border-radius: var(--radius-md);
+  background: rgba(255, 250, 243, 0.86);
+}
+
+.install-promo p {
+  margin: 0;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+.install-promo-button {
+  margin-top: 0.85rem;
+}
+
 .primary-link,
 .secondary-link,
 .primary-button,
@@ -637,8 +655,18 @@ h3 {
     backdrop-filter: blur(18px);
   }
 
+  .site-header {
+    gap: 0.6rem;
+  }
+
   .install-button {
-    display: none;
+    min-height: 2.6rem;
+    padding: 0.65rem 0.95rem;
+    font-size: 0.86rem;
+  }
+
+  .install-promo {
+    margin-top: 1.25rem;
   }
 
   h1 {
