@@ -4,24 +4,26 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#2f241f" />
-    <meta name="description" content="ESKYNA StyleScan: Foto aufnehmen, Stil analysieren und klare Impulse erhalten." />
-    <title>ESKYNA StyleScan</title>
+    <meta name="description" content="EStyle (beta): Foto aufnehmen, Outfit analysieren und klare Stil-Impulse erhalten." />
+    <title>EStyle (beta)</title>
 
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
-    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+    <link rel="icon" href="./EStyle_Logo.png" type="image/png" />
+    <link rel="apple-touch-icon" href="./EStyle_Logo.png" />
     <link rel="stylesheet" href="./styles.css" />
     <script defer src="./app.js"></script>
   </head>
   <body>
     <a class="skip-link" href="#analyse">Direkt zur Analyse</a>
 
-    <header class="site-header" aria-label="ESKYNA StyleScan">
-      <div class="brand" aria-label="ESKYNA">
-        <span class="brand-mark" aria-hidden="true">E</span>
+    <header class="site-header" aria-label="EStyle (beta)">
+      <div class="brand" aria-label="EStyle (beta)">
+        <span class="brand-mark" aria-hidden="true">
+          <img src="./EStyle_Logo.png" alt="" />
+        </span>
         <span class="brand-copy">
-          <strong>ESKYNA</strong>
-          <small>StyleScan</small>
+          <strong>EStyle</strong>
+          <small>(beta)</small>
         </span>
       </div>
       <button class="ghost-button install-button" id="installButton" hidden type="button">
@@ -32,33 +34,22 @@
     <main>
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
-          <p class="eyebrow">Online & vor Ort · Individuelle Beratung · Mit System</p>
-          <h1 id="hero-title">Erkennen Sie, was Ihr Stil heute kommuniziert.</h1>
+          <p class="eyebrow">EStyle (beta) · Fotoanalyse</p>
+          <h1 id="hero-title">Nehmen Sie ein Outfit-Foto auf und starten Sie die Analyse.</h1>
           <p class="lead">
-            Nehmen Sie ein Outfit-Foto auf und erhalten Sie eine digitale Stilanalyse mit klaren Impulsen für Farben,
-            Linien, Wirkung und den nächsten Schritt.
+            Die App fokussiert sich auf einen klaren Ablauf: Foto hochladen, analysieren und direkt umsetzbare Hinweise
+            zu Farben, Silhouette und Gesamteindruck erhalten.
           </p>
           <div class="hero-actions">
             <a class="primary-link" href="#analyse">Foto analysieren</a>
-            <a class="secondary-link" href="https://eskyna.com" rel="noreferrer">Zur ESKYNA Website</a>
+            <a class="secondary-link" href="#analyse">Zur Fotoauswahl</a>
           </div>
         </div>
-        <aside class="method-card" aria-label="ESKYNA Methode">
-          <span class="method-kicker">ESKYNA Methode</span>
-          <ol>
-            <li><span>E</span> Essenz</li>
-            <li><span>S</span> Signale</li>
-            <li><span>K</span> Kernsprache</li>
-            <li><span>Y</span> Your Signature</li>
-            <li><span>N</span> Neue Garderobenlogik</li>
-            <li><span>A</span> Aktivierung</li>
-          </ol>
-        </aside>
       </section>
 
       <section class="analysis-panel" id="analyse" aria-labelledby="analysis-title">
         <div class="panel-intro">
-          <p class="eyebrow">Styleanalyse Demo</p>
+          <p class="eyebrow">Fotoanalyse</p>
           <h2 id="analysis-title">Foto aufnehmen und analysieren</h2>
           <p>
             Am besten funktioniert ein helles Ganzkörperfoto: Kleidung gut sichtbar, ruhiger Hintergrund, natürliche Haltung.
@@ -100,12 +91,12 @@
 
             <div class="loading" id="loadingIndicator" hidden>
               <span></span><span></span><span></span>
-              <p>Analyse läuft. Das Foto wird sicher an den ESKYNA Analysedienst gesendet.</p>
+              <p>Analyse läuft. Das Foto wird sicher an den Analysedienst gesendet.</p>
             </div>
 
             <div class="empty-state" id="emptyState">
               <p>
-                Nach der Analyse erscheinen hier Zusammenfassung, Empfehlungen und alle Rohdaten des Dienstes.
+                Nach der Analyse erscheinen hier Zusammenfassung, Empfehlungen und die optionalen Rohdaten.
               </p>
             </div>
 
@@ -128,14 +119,14 @@
         </article>
         <article>
           <span>03</span>
-          <h3>Mehr System</h3>
-          <p>Ein digitaler Einstieg in eine strukturierte Stilstrategie.</p>
+          <h3>Klare Fotoanalyse</h3>
+          <p>Der Fokus liegt auf Bildaufnahme und direkter Auswertung.</p>
         </article>
       </section>
     </main>
 
     <footer class="site-footer">
-      <p>© ESKYNA · Demo-PWA für digitale Stilanalyse</p>
+      <p>© EStyle (beta) · Demo-PWA für digitale Stilanalyse</p>
       <p class="fineprint">
         Hinweis: Die Analyse ersetzt keine persönliche Beratung. Fotos werden nur zur Auswertung an den konfigurierten Dienst gesendet.
       </p>

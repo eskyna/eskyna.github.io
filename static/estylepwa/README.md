@@ -1,11 +1,11 @@
-# ESKYNA StyleScan PWA
+# EStyle (beta) PWA
 
-Eine kleine, statische Demo-PWA für eskyna.com: Foto aufnehmen, an den ESKYNA Analysedienst senden und die Antwort nutzerfreundlich anzeigen.
+Eine kleine, statische Demo-PWA: Foto aufnehmen, an den Analysedienst senden und die Antwort nutzerfreundlich anzeigen.
 
 ## Inhalt
 
 - `index.html` – App Shell und UI
-- `styles.css` – Eskyna-inspiriertes Styling
+- `styles.css` – Styling
 - `app.js` – Fotoauswahl, Bildkomprimierung, API-Call, Ergebnisanzeige, Install-Button
 - `manifest.webmanifest` – PWA Manifest
 - `sw.js` – Offline App Shell Cache, API Calls werden nicht gecacht
@@ -28,7 +28,7 @@ Der Browser setzt den `Origin` Header automatisch. Für produktiven Einsatz soll
 Viele PWA-Funktionen benötigen HTTPS. Für einen einfachen lokalen Test genügt:
 
 ```bash
-cd eskyna-style-pwa
+cd static/estylepwa
 python3 -m http.server 8080
 ```
 

@@ -1,13 +1,11 @@
-const CACHE_NAME = 'eskyna-stylescan-v1';
+const CACHE_NAME = 'estyle-beta-v1';
 const APP_SHELL = [
   './',
   './index.html',
   './styles.css',
   './app.js',
   './manifest.webmanifest',
-  './icons/icon.svg',
-  './icons/icon-192.png',
-  './icons/icon-512.png'
+  './EStyle_Logo.png'
 ];
 
 self.addEventListener('install', (event) => {

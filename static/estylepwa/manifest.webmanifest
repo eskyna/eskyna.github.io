@@ -1,7 +1,7 @@
 {
-  "name": "ESKYNA StyleScan",
-  "short_name": "StyleScan",
-  "description": "Foto aufnehmen, digitale Stilanalyse starten und klare Style-Impulse erhalten.",
+  "name": "EStyle (beta)",
+  "short_name": "EStyle",
+  "description": "Foto aufnehmen, Outfit analysieren und klare Stil-Impulse erhalten.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -11,22 +11,10 @@
   "categories": ["lifestyle", "productivity"],
   "icons": [
     {
-      "src": "./icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icons/icon-192.png",
-      "sizes": "192x192",
+      "src": "./EStyle_Logo.png",
+      "sizes": "2000x1566",
       "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
