@@ -16,7 +16,8 @@ const els = {
   errorBox: document.querySelector('#errorBox'),
   resultContent: document.querySelector('#resultContent'),
   resultBadge: document.querySelector('#resultBadge'),
-  installButtons: Array.from(document.querySelectorAll('.install-button')),
+  installButton: document.querySelector('#installButton'),
+  installPromoButton: document.querySelector('#installPromoButton'),
   installHint: document.querySelector('#installHint')
 };
 
@@ -71,10 +72,10 @@ function setInstallHint(message) {
   }
 }
 
-function toggleInstallButtons(isVisible) {
-  els.installButtons.forEach((button) => {
-    button.hidden = !isVisible;
-  });
+function toggleHeaderInstallButton(isVisible) {
+  if (els.installButton) {
+    els.installButton.hidden = !isVisible;
+  }
 }
 
 function updateInstallHintForDevice() {
@@ -89,6 +90,38 @@ function updateInstallHintForDevice() {
   const isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   if (isiOS) {
     setInstallHint('iPhone/iPad: Tippen Sie auf Teilen und wählen Sie anschließend Zum Home-Bildschirm.');
+  } else {
+    setInstallHint('Android: Öffnen Sie das Browser-Menü und wählen Sie App installieren oder Zum Startbildschirm hinzufügen.');
+  }
+}
+
+async function triggerInstallFlow() {
+  if (deferredInstallPrompt) {
+    deferredInstallPrompt.prompt();
+    await deferredInstallPrompt.userChoice;
+    deferredInstallPrompt = null;
+    toggleHeaderInstallButton(false);
+    setInstallHint('Vielen Dank. Sie können die Analyse jetzt jederzeit direkt auf Ihrem Smartphone starten.');
+    return;
+  }
+
+  const isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  const isMobile = window.matchMedia('(max-width: 900px)').matches;
+
+  if (isMobile && navigator.share) {
+    try {
+      await navigator.share({
+        title: 'EStyle (beta)',
+        text: 'EStyle (beta) auf dem Startbildschirm installieren',
+        url: window.location.href
+      });
+    } catch (error) {
+      console.warn('Share-Dialog konnte nicht geöffnet werden:', error);
+    }
+  }
+
+  if (isiOS) {
+    setInstallHint('iPhone/iPad: Öffnen Sie Teilen und wählen Sie Zum Home-Bildschirm. Danach ist die App direkt auf Ihrem Startbildschirm verfügbar.');
   } else {
     setInstallHint('Android: Öffnen Sie das Browser-Menü und wählen Sie App installieren oder Zum Startbildschirm hinzufügen.');
   }
@@ -353,27 +386,20 @@ els.clearButton.addEventListener('click', clearSelection);
 window.addEventListener('beforeinstallprompt', (event) => {
   event.preventDefault();
   deferredInstallPrompt = event;
-  toggleInstallButtons(true);
+  toggleHeaderInstallButton(true);
   updateInstallHintForDevice();
 });
 
-els.installButtons.forEach((button) => {
-  button.addEventListener('click', async () => {
-    if (!deferredInstallPrompt) {
-      updateInstallHintForDevice();
-      return;
-    }
+if (els.installButton) {
+  els.installButton.addEventListener('click', triggerInstallFlow);
+}
 
-    deferredInstallPrompt.prompt();
-    await deferredInstallPrompt.userChoice;
-    deferredInstallPrompt = null;
-    toggleInstallButtons(false);
-    setInstallHint('Vielen Dank. Sie können die Analyse jetzt jederzeit direkt auf Ihrem Smartphone starten.');
-  });
-});
+if (els.installPromoButton) {
+  els.installPromoButton.addEventListener('click', triggerInstallFlow);
+}
 
 window.addEventListener('appinstalled', () => {
-  toggleInstallButtons(false);
+  toggleHeaderInstallButton(false);
   setInstallHint('Die App ist installiert und auf Ihrem Startbildschirm verfügbar.');
 });
 
