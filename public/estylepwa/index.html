@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#2f241f" />
+    <meta name="description" content="EStyle (beta): Portraitfoto aufnehmen, analysieren und klare Stil-Impulse erhalten." />
+    <title>EStyle (beta)</title>
+
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/sign_gold.png" type="image/png" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#analyse">Direkt zur Analyse</a>
+
+    <header class="site-header" aria-label="EStyle (beta)">
+      <div class="brand" aria-label="EStyle (beta)">
+        <span class="brand-mark" aria-hidden="true">
+          <img src="./icons/sign_gold.png" alt="" />
+        </span>
+        <span class="brand-copy">
+          <strong>EStyle</strong>
+          <small>(beta)</small>
+        </span>
+      </div>
+      <button class="ghost-button" id="installButton" hidden type="button">
+        App installieren
+      </button>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">EStyle (beta) · Fotoanalyse</p>
+          <h1 id="hero-title">Nehmen Sie ein Portraitfoto auf und starten Sie die Analyse.</h1>
+          <p class="lead">
+            Die App fokussiert sich auf einen klaren Ablauf: Foto hochladen, analysieren und direkt umsetzbare Hinweise
+            zu Farben, Silhouette und Gesamteindruck erhalten.
+          </p>
+          <div class="hero-actions">
+            <a class="primary-link" href="#analyse">Foto analysieren</a>
+            <a class="secondary-link" href="#analyse">Zur Fotoauswahl</a>
+          </div>
+
+          <div class="install-promo" aria-label="App Installation">
+            <p id="installHint">Installieren Sie die App auf Ihrem Smartphone und starten Sie die Fotoanalyse direkt vom Home-Bildschirm.</p>
+            <button class="primary-button install-promo-button" id="installPromoButton" type="button">
+              App jetzt installieren
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="analysis-panel" id="analyse" aria-labelledby="analysis-title">
+        <div class="panel-intro">
+          <p class="eyebrow">Fotoanalyse</p>
+          <h2 id="analysis-title">Foto aufnehmen und analysieren</h2>
+          <p>
+            Am besten funktioniert ein gut belichtetes Portraitfoto mit ruhigem Hintergrund und natürlicher Haltung.
+          </p>
+        </div>
+
+        <div class="scanner-grid">
+          <div class="capture-card">
+            <label class="drop-zone" id="dropZone" for="photoInput">
+              <input id="photoInput" name="photo" type="file" accept="image/*" capture="environment" />
+              <span class="drop-icon" aria-hidden="true">⌁</span>
+              <strong>Portraitfoto aufnehmen oder auswählen</strong>
+              <small>JPG, PNG oder direkt aus der Kamera</small>
+            </label>
+
+            <div class="preview-shell" id="previewShell" hidden>
+              <img id="previewImage" alt="Vorschau des ausgewählten Fotos" />
+            </div>
+
+            <div class="action-row">
+              <button class="primary-button" id="analyzeButton" type="button" disabled>
+                Analyse starten
+              </button>
+              <button class="ghost-button" id="clearButton" type="button" disabled>
+                Zurücksetzen
+              </button>
+            </div>
+
+            <p class="status" id="statusText" role="status" aria-live="polite">
+              Noch kein Portraitfoto ausgewählt.
+            </p>
+          </div>
+
+          <div class="result-card" aria-live="polite">
+            <div class="result-header">
+              <span class="result-badge" id="resultBadge">Warten</span>
+              <h3>Ihre Stil-Impulse</h3>
+            </div>
+
+            <div class="loading" id="loadingIndicator" hidden>
+              <span></span><span></span><span></span>
+              <p>Analyse läuft. Das Foto wird sicher an den Analysedienst gesendet.</p>
+            </div>
+
+            <div class="empty-state" id="emptyState">
+              <p>
+                Nach der Analyse erscheinen hier Zusammenfassung, Empfehlungen und die optionalen Rohdaten.
+              </p>
+            </div>
+
+            <div class="error-box" id="errorBox" hidden></div>
+            <div class="result-content" id="resultContent" hidden></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="trust-strip" aria-label="Was Sie gewinnen">
+        <article>
+          <span>01</span>
+          <h3>Schnellere Entscheidungen</h3>
+          <p>Erste Hinweise, welche Outfits und Kombinationen funktionieren.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h3>Klarere Wirkung</h3>
+          <p>Konkrete Signale zu Farben, Proportionen und Stilrichtung.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h3>Klare Fotoanalyse</h3>
+          <p>Der Fokus liegt auf Bildaufnahme und direkter Auswertung.</p>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© EStyle (beta) · Demo-PWA für digitale Stilanalyse</p>
+      <p class="fineprint">
+        Hinweis: Die Analyse ersetzt keine persönliche Beratung. Fotos werden nur zur Auswertung an den konfigurierten Dienst gesendet.
+      </p>
+    </footer>
+  </body>
+</html>
