@@ -1,0 +1,16 @@
+AddType application/manifest+json .webmanifest
+AddType application/javascript .js
+AddType text/css .css
+
+<IfModule mod_headers.c>
+  Header set Service-Worker-Allowed "/farbkarte/"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /farbkarte/
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /farbkarte/index.html [L]
+</IfModule>
