@@ -44,22 +44,41 @@
     </div>
   </section>
 
-  <section class="section section-dark problems-section">
-    <div class="container">
-      <h2>{{ $problems.title }}</h2>
-      <div class="cards">
-        {{ range $problems.items }}
-          <article class="card">
-            {{ $itemTitle := .title }}{{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="card-icon">{{ end }}
-            <h3 class="problem-card-title">{{ .title }}</h3>
-            <p>{{ .text }}</p>
+  <section class="ps-section">
+    <div class="ps-inner">
+      <header class="ps-header">
+        <h2 class="ps-heading">{{ $problems.title }}</h2>
+        <div class="ps-divider" aria-hidden="true">
+          <span class="ps-divider__line"></span>
+          <span class="ps-divider__line"></span>
+        </div>
+      </header>
+
+      <div class="ps-grid ps-grid--top">
+        {{ range first 3 $problems.items }}
+          <article class="ps-card">
+            {{ $itemTitle := .title }}
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card__icon" width="150" height="150">{{ end }}
+            <h3 class="ps-card__title">{{ .title }}</h3>
+            <p class="ps-card__text">{{ .text }}</p>
+          </article>
+        {{ end }}
+      </div>
+
+      <div class="ps-grid ps-grid--bottom">
+        {{ range after 3 $problems.items }}
+          <article class="ps-card ps-card--sm">
+            {{ $itemTitle := .title }}
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card__icon" width="110" height="110">{{ end }}
+            <h3 class="ps-card__title">{{ .title }}</h3>
+            <p class="ps-card__text">{{ .text }}</p>
           </article>
         {{ end }}
       </div>
     </div>
   </section>
 
-  <section class="section">
+  <section class="section coach-section">
     <div class="container intro-grid">
       <div>
         <img src="{{ $coach.image | relURL }}" alt="Natalia Kleemann" class="card-image coach-image">
@@ -102,25 +121,6 @@
           </article>
         {{ end }}
       </div>
-    </div>
-  </section>
-
-  <section class="section process-section" id="ablauf">
-    <div class="container">
-      <h2>{{ $process.title }}</h2>
-      <p class="process-intro">{{ $process.intro }}</p>
-      <div class="process-grid">
-        {{ range $process.items }}
-          <article class="process-card">
-            <h3>{{ .title }}</h3>
-            <p>{{ .text }}</p>
-          </article>
-        {{ end }}
-      </div>
-      <p class="process-outro">{{ $process.outro }}</p>
-      {{ if and (isset $process "ctaHref") (isset $process "ctaText") }}
-      <a class="btn" href="{{ $process.ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $process.ctaText }}</a>
-      {{ end }}
     </div>
   </section>
 

@@ -2,39 +2,38 @@
 title: "Natalia Kleemann"
 hero:
   eyebrow: "Natalia Kleemann | Style- und Imagecoach"
-  headline: "Kleidung, in der Sie sich jeden Tag stark fühlen."
-  text: "Die zielgerichtete Image- und Stilberatung für Männer und Frauen. Sparen Sie Zeit, vermeiden Sie teure Fehlkäufe und bringen Sie Struktur in Ihren Kleiderschrank.\n\n\n\nLassen Sie uns gemeinsam starten."
+  headline: "Kleidung, die zu Ihrem Leben passt."
+  text: "Individuelle Stilberatung für Frauen und Männer.\n\nbewusst, tragbar und alltagstauglich.\n\n\n\nLassen Sie uns gemeinsam starten."
   ctaText: "Kostenloses Erstgespräch buchen"
   ctaHref: "#angebote"
   image: "images/Natalia_white_hero.png"
   trust:
     - "Online & vor Ort"
-    - "Individuelle Beratung"
     - "Mit System"
 problems:
   title: "Erkennen Sie sich hier wieder?"
   items:
     - title: "Stil-Findung"
       text: "Ihre Kleidung spiegelt nicht Ihre wahre Persönlichkeit wider."
-      icon: "images/icons/stil-findung.svg"
+      icon: "images/problems/Stilfindung.png"
     - title: "Shopping-Stress"
       text: "Einkaufen kostet Sie Nerven und ist eher Last als Vergnügen."
-      icon: "images/icons/shopping-stress.svg"
+      icon: "images/problems/ShoppingStress.png"
     - title: "Zeitmangel"
       text: "Im stressigen Alltag fehlt Ihnen schlichtweg die Zeit für Mode und Shopping."
-      icon: "images/icons/zeitmangel.svg"
+      icon: "images/problems/Zeitmangel.png"
     - title: "Fehlkäufe"
       text: "Ihr Kleiderschrank ist voll, aber Sie haben gefühlt „nichts anzuziehen“."
-      icon: "images/icons/fehlkaeufe.svg"
+      icon: "images/problems/Fehlkäufe.png"
     - title: "Unsicherheit"
       text: "Das Kombinieren von passenden Farben und Schnitten fällt Ihnen schwer."
-      icon: "images/icons/unsicherheit.svg"
+      icon: "images/problems/Unsicherheit.png"
     - title: "Garderoben-Chaos"
       text: "Ihnen fehlt ein einfaches System zum Strukturieren und Ausmisten."
-      icon: "images/icons/garderoben-chaos.svg"
+      icon: "images/problems/Garderobenchaos.png"
     - title: "Das gewisse Etwas"
       text: "Sie suchen noch nach der perfekten Frisur und dem Make-up für Ihren Typ."
-      icon: "images/icons/das-gewisse-etwas.svg"
+      icon: "images/problems/DasGewisseEtwas.png"
 results:
   title: "Das gewinnen Sie durch die Zusammenarbeit"
   background: "images/style/telegram-cloud-document-2-5409001200341258794.jpg"
@@ -69,7 +68,7 @@ coach:
   text: "Ich helfe Ihnen dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch buchen"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/Nati2.png"
+  image: "images/IMG_5208_transparent_flipped.png"
 facts:
   title: "Ein paar Fakten über mich"
   items:
@@ -80,10 +79,8 @@ facts:
     - "Mama von 2 stilbewussten Jungs"
     - "Ich denke Stilberatung neu; als Gründerin von [EStyle](/estyle/)"
   mission: |
-    *„Ich helfe Menschen,
-    durch Stil klarere Entscheidungen zu treffen,
-    sich sicher zu zeigen
-    und bewusster zu konsumieren."*
+    *„Meine Mission ist es, Menschen durch Stil mehr Sicherheit,
+    Leichtigkeit und bewusste Entscheidungen zu geben."*
 services:
   title: "Angebote"
   groups:

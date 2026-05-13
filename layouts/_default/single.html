@@ -31,5 +31,26 @@
       </div>
     </div>
   </section>
+
+  {{ with .Params.process }}
+  <section class="section process-section" id="ablauf">
+    <div class="container">
+      <h2>{{ .title }}</h2>
+      <p class="process-intro">{{ .intro }}</p>
+      <div class="process-grid">
+        {{ range .items }}
+          <article class="process-card">
+            <h3>{{ .title }}</h3>
+            <p>{{ .text }}</p>
+          </article>
+        {{ end }}
+      </div>
+      <p class="process-outro">{{ .outro }}</p>
+      {{ if and (isset . "ctaHref") (isset . "ctaText") }}
+      <a class="btn" href="{{ .ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ .ctaText }}</a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
 </main>
 {{ end }}

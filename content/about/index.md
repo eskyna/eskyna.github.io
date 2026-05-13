@@ -2,6 +2,23 @@
 title: "Über mich"
 eyebrow: "Natalia Kleemann"
 image: "images/Natalia_Desk.png"
+process:
+  title: "Wie läuft die Zusammenarbeit mit mir ab?"
+  intro: "Jede Zusammenarbeit beginnt mit einem klaren Blick auf Ihre aktuelle Situation, Ihre Ziele und Ihren Alltag. Daraus entsteht Schritt für Schritt ein Stil, der wirklich zu Ihnen passt - persönlich, tragbar und mit System."
+  items:
+    - title: "Kennenlernen und Zielklärung"
+      text: "Ein erster Überblick: Ausgangssituation, Wünsche und Ziele."
+    - title: "Stil- und Wirkungsanalyse"
+      text: "Farben, Schnitte, Proportionen; abgestimmt auf Ihre Ausstrahlung und Ihren Alltag."
+    - title: "Individuelle Stilstrategie"
+      text: "Klare Stilrichtungen und Empfehlungen, die wirklich zu Ihnen passen."
+    - title: "Garderobe und Outfits"
+      text: "Wir arbeiten direkt an Ihrem Kleiderschrank, planen sinnvolle Ergänzungen oder setzen Ihre neue Stilrichtung beim Shopping um."
+    - title: "Stil im Alltag"
+      text: "Outfits, die passen und sich richtig anfühlen."
+  outro: "Der genaue Ablauf richtet sich nach dem gewählten Angebot - das Ziel bleibt immer gleich: ein Stil, der Sie im Alltag entlastet und in Ihrer Wirkung stärkt."
+  ctaText: "Kostenloses Erstgespräch buchen"
+  ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 ---
 
 Ich bin **Natalia Kleemann**, Style- und Image-Coach mit Fokus auf einen Auftritt,
