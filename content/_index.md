@@ -82,110 +82,110 @@ facts:
     *„Meine Mission ist es, Menschen durch Stil mehr Sicherheit,
     Leichtigkeit und bewusste Entscheidungen zu geben."*
 services:
-  title: "Angebote"
-  groups:
-    - title: "Kostenlos starten"
-      items:
-        - title: "Kostenloses Kennenlerngespräch (20 Minuten)"
-          text: "Lernen Sie Natalia Kleemann persönlich kennen und finden Sie in kurzer Zeit heraus, welches Angebot wirklich zu Ihrer Situation passt."
-          highlights:
-            - "Klärung Ihrer Wünsche und Ziele"
-            - "Erste stilistische Impulse für Ihren nächsten Schritt"
-            - "Ehrliche Empfehlung, welches Coaching für Sie sinnvoll ist"
-          result: "Sie gehen mit Klarheit aus dem Gespräch - und wissen, welcher Schritt als nächstes sinnvoll ist."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-        - title: "Kostenloser Stiltest"
-          text: "Der ideale Einstieg, wenn Sie Ihren Stil besser verstehen und erste Orientierung gewinnen möchten."
-          highlights:
-            - "Online-Test in wenigen Minuten"
-            - "Verständliche Auswertung Ihres Stiltyps"
-          result: "Sie bekommen in wenigen Minuten erste klare Hinweise, welche Stilrichtungen am besten zu Ihnen passen."
-          ctaText: "Stiltest starten"
-          ctaHref: "/hannover2026/"
-        - title: "10 Styling-Tipps (PDF)"
-          text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stil-Sicherheit im Alltag."
-          highlights:
-            - "Praktische Tipps für bessere Outfit-Entscheidungen"
-            - "Einfach, schnell und direkt anwendbar"
-          result: "Sie erhalten direkt umsetzbare Impulse, mit denen Sie Ihren Stil sofort klarer und stimmiger gestalten."
-          ctaText: "PDF kostenlos herunterladen"
-          ctaHref: "/10_Styling_Tipps.pdf"
-    - title: "Online-Angebote"
-      items:
-        - title: "Online-Styleanalyse"
-          text: "Individuelle Stilberatung für Frauen und Männer, flexibel und ortsunabhängig. Sie erfahren, welche Farben, Schnitte und Outfits im Alltag und Beruf wirklich für Sie funktionieren."
-          highlights:
-            - "Farbtest inklusive digitalem Farbpass"
-            - "Stiltest mit klarer, persönlicher Auswertung"
-            - "Outfit-Empfehlungen für Alltag, Business und besondere Anlässe"
-          result: "Sie erkennen schneller, welche Farben, Schnitte und Kombinationen wirklich zu Ihnen passen - und können sicherer entscheiden."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-        - title: "Digitale Style Guides"
-          text: "Für alle, die konkrete Stil-Inspiration suchen und ihren Look Schritt für Schritt sicherer aufbauen möchten."
-          highlights:
-            - "Farben und Stilrichtungen einfach erklärt"
-            - "Kombinationen, die im Alltag wirklich funktionieren"
-            - "Praktische Outfit-Formeln zum direkten Umsetzen"
-          result: "Mehr Orientierung, weniger Unsicherheit - und Outfits, die Sie morgens schneller greifen können."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-    - title: "Beratung vor Ort"
-      items:
-        - title: "Styleanalyse vor Ort"
-          text: "Die persönliche Stilberatung für alle, die eine fundierte Analyse mit direktem Feedback möchten. Sie erhalten eine klare Orientierung für Outfits, die zu Ihrem Alltag, Ihrem Auftreten und Ihrem Stilziel passen."
-          highlights:
-            - "Persönlicher Farbtest inklusive digitalem Farbpass"
-            - "Stil- und Typanalyse abgestimmt auf Ihre Persönlichkeit"
-            - "Impulse für konkrete Outfit-Zusammenstellungen für Ihren Alltag und Beruf"
-            - "Erste Klarheit, welche Teile wirklich zu Ihnen passen"
-          result: "Sie erhalten konkrete Outfit-Ideen, die zu Ihrem Alltag, Ihrer Rolle und Ihrer Persönlichkeit passen."
-          note: "Ort: Leipzig, Erfurt, Nordhausen oder Dresden"
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-        - title: "Garderoben-Check"
-          text: "Für Sie, wenn Ihr Kleiderschrank voll ist, Sie aber trotzdem das Gefühl haben, nichts Passendes anzuziehen."
-          highlights:
-            - "Analyse Ihrer vorhandenen Garderobe"
-            - "Neue Outfit-Kombinationen aus bereits vorhandenen Teilen"
-            - "Klare Empfehlungen, was ergänzt werden sollte und was nicht"
-          result: "Sie sehen, was tragbar ist, was sich kombinieren lässt und was künftig nicht mehr unnötig gekauft werden muss."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-          ctaSecondaryText: "Garderoben Selbstcheck"
-          ctaSecondaryHref: "/garderobencheck"
-          ctaSecondaryNewTab: true
-        - title: "Shoppingbegleitung"
-          text: "Gezielt einkaufen statt planlos suchen. Für alle, die passende Teile finden möchten, ohne Zeit, Geld und Nerven zu verlieren."
-          highlights:
-            - "Gemeinsame Vorbereitung zu Bedarf, Budget und Stilzielen"
-            - "Persönliche Begleitung online oder vor Ort"
-            - "Fokus auf Passform, Qualität, Kombinierbarkeit und Wirkung"
-          result: "Wir finden passende Teile schneller und kaufen gezielter statt planlos."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-    - title: "Premium-Angebote"
-      items:
-        - title: "Style- und Image-Fotoshooting"
-          text: "Für einen professionellen Auftritt, der Ihren Stil sichtbar macht - authentisch, hochwertig und klar."
-          highlights:
-            - "Styling-Konzept nach ESKYNA-Methode"
-            - "Outfit-Auswahl und Vorbereitung vor dem Shooting"
-            - "Zusammenarbeit mit Profi-Fotograf:innen"
-          result: "Bilder, die zeigen, wie Sie wirklich sind - professionell, authentisch und mit klarem Auftritt."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-        - title: "Stiltransformation (3 Monate)"
-          text: "Die intensive Begleitung für alle, die ihren Stil nicht nur punktuell verbessern, sondern nachhaltig verändern möchten."
-          highlights:
-            - "Begleitung über 3 Monate mit ca. 10 Terminen"
-            - "Online und offline flexibel kombinierbar"
-            - "Farb- und Stilauswahl, Garderobenarbeit und Shoppingbegleitung"
-            - "Entwicklung eines klaren, stimmigen und starken Gesamtauftritts"
-          result: "Ihr Stil passt zu Ihrem Leben, Ihrer Rolle und Ihrer Persönlichkeit - und Sie tragen ihn dauerhaft mit Sicherheit."
-          ctaText: "Kostenloses Erstgespräch buchen"
-          ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+  title: "Finden Sie den Stil, der wirklich zu Ihnen passt"
+  
+  free:
+    subtitle: "Bevor Sie sich für eine persönliche Stilberatung entscheiden, können Sie ESKYNA kostenlos kennenlernen. Nutzen Sie das Kennenlerngespräch, den Stiltest oder die Styling-Tipps als ersten Impuls für mehr Klarheit in Ihrem Stil."
+    items:
+      - title: "Kostenloser Stiltest"
+        text: "Der ideale Einstieg, wenn Sie Ihren Stil besser verstehen und erste Orientierung gewinnen möchten."
+        image: "images/stiltest.jpg"
+        ctaText: "Stiltest machen"
+        ctaHref: "/hannover2026/"
+      - title: "10 Styling-Tipps (PDF)"
+        text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stil-Sicherheit im Alltag."
+        image: "images/10_styling_tipps.png"
+        ctaText: "Tipps herunterladen"
+        ctaHref: "/10_Styling_Tipps.pdf"
+  
+  packages:
+    title: "Wählen Sie das Angebot, das zu Ihrem nächsten Schritt passt"
+    items:
+      - name: "ESKYNA Basic"
+        headline: "Ihr Stil-Kompass für mehr Klarheit im Alltag"
+        description: "ESKYNA Basic ist der ideale Einstieg in eine bewusste Stilberatung für Frauen und Männer. Sie erhalten eine klare Orientierung zu Farben, Schnitten, Proportionen und Stilrichtungen, die wirklich zu Ihnen passen. So treffen Sie morgens schneller Entscheidungen, vermeiden Fehlkäufe und entwickeln mehr Sicherheit in Ihrem persönlichen Auftreten."
+        price: "390 €"
+        highlights:
+          - "Persönliche Stil- und Wirkungsanalyse"
+          - "Farbberatung inklusive digitalem Farbpass"
+          - "Analyse von Proportionen, Linien und passenden Schnitten"
+          - "Konkrete Empfehlungen für Alltag, Beruf und besondere Anlässe"
+          - "Persönliche Stilimpulse nach der ESKYNA Methode"
+          - "Digitaler Mini-Style-Guide mit den wichtigsten Empfehlungen"
+        result: "Nach ESKYNA Basic wissen Sie, welche Farben, Schnitte und Stilrichtungen zu Ihnen passen. Sie können Kleidung bewusster auswählen, Fehlkäufe vermeiden und Ihren Stil gezielter entwickeln."
+        ctaText: "ESKYNA Basic buchen"
+        ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+        featured: false
+      
+      - name: "ESKYNA Signature"
+        headline: "Ihr persönlicher Stil — klar, tragbar und unverwechselbar"
+        description: "ESKYNA Signature ist die umfassende Stilberatung für Menschen, die ihren Look nicht dem Zufall überlassen möchten. Gemeinsam entwickeln wir Ihren persönlichen Signature Style — passend zu Ihrer Persönlichkeit, Ihrem Körper, Ihrem Alltag und Ihrer gewünschten Wirkung. Ihr Kleiderschrank wird neu betrachtet, vorhandene Kleidung wird sinnvoll kombiniert und es entsteht ein klares System für Outfits, die wirklich funktionieren."
+        price: "890 €"
+        badge: "Beliebteste Wahl"
+        highlights:
+          - "Vollständige Farb-, Stil- und Wirkungsanalyse"
+          - "Entwicklung des persönlichen Signature Styles"
+          - "Garderoben-Check mit Outfit-Kombinationen"
+          - "Neue Kombinationen aus vorhandener Kleidung"
+          - "Empfehlungen: behalten, kombinieren, ergänzen oder loslassen"
+          - "Individuelle Einkaufsliste für sinnvolle Ergänzungen"
+          - "Persönlicher Style-Guide"
+          - "Optional: Shoppingbegleitung online oder vor Ort"
+        result: "Nach ESKYNA Signature haben Sie mehr Klarheit im Kleiderschrank, stimmigere Outfits und ein Stil-System, das im Alltag funktioniert. Sie wissen, was zu Ihnen passt, was Sie brauchen und wie Sie sich sicherer kleiden."
+        ctaText: "ESKYNA Signature buchen"
+        ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+        featured: true
+      
+      - name: "ESKYNA Visibility"
+        headline: "Ihr Auftritt, der sichtbar macht, wer Sie sind"
+        description: "ESKYNA Visibility ist das Angebot für alle, die professionell, authentisch und sichtbar auftreten möchten. Gemeinsam entwickeln wir ein Styling- und Image-Konzept, das Ihre Persönlichkeit, Kompetenz und Ausstrahlung klar transportiert. Das eignet sich besonders für berufliche Sichtbarkeit, Personal Branding, Fotoshootings, Website-Bilder, LinkedIn, Social Media oder einen neuen professionellen Auftritt."
+        price: "1.490 €"
+        highlights:
+          - "Image- und Wirkungsanalyse"
+          - "Entwicklung eines klaren visuellen Auftritts"
+          - "Styling-Konzept für Business, Website, LinkedIn oder Social Media"
+          - "Outfit-Auswahl für Fotos, Bühne oder öffentliche Auftritte"
+          - "Vorbereitung auf ein professionelles Fotoshooting"
+          - "Abstimmung von Kleidung, Farben, Accessoires, Frisur und Make-up"
+          - "Optional: Koordination mit Fotograf:in"
+          - "Bild- und Auftrittsstrategie für die wichtigsten Kanäle"
+        note: "Fotoshooting und Fotograf:in sind optional und separat buchbar."
+        result: "Nach ESKYNA Visibility haben Sie einen professionellen, authentischen und stimmigen Auftritt, der Ihre Persönlichkeit und Kompetenz sichtbar macht."
+        ctaText: "ESKYNA Visibility anfragen"
+        ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+        featured: false
+  
+  comparison:
+    title: "Welches Angebot passt zu Ihnen?"
+    intro: "Ein kurzer Überblick über die Unterschiede der drei ESKYNA Pakete."
+    table:
+      headers:
+        - "Angebot"
+        - "Fokus"
+        - "Für wen?"
+        - "Investition"
+      rows:
+        - 
+          offer: "ESKYNA Basic"
+          focus: "Farben, Schnitte, Stilrichtung"
+          audience: "Für den klaren Einstieg"
+          investment: "390 €"
+        -
+          offer: "ESKYNA Signature"
+          focus: "Garderobe, Outfits, Stil-System"
+          audience: "Für nachhaltige Veränderung"
+          investment: "890 €"
+        -
+          offer: "ESKYNA Visibility"
+          focus: "Image, Business, Fotos, Sichtbarkeit"
+          audience: "Für professionellen Auftritt"
+          investment: "1.490 €"
+  
+  uncertainty:
+    title: "Unsicher, welches Angebot das richtige ist?"
+    text: "Wenn Sie nicht sicher sind, welches Angebot am besten zu Ihrer aktuellen Situation passt, starten Sie mit einem kostenlosen Kennenlerngespräch. Gemeinsam finden wir heraus, welcher nächste Schritt für Sie sinnvoll ist."
+    ctaText: "Kostenloses Kennenlerngespräch buchen"
+    ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 method:
   eyebrow: "Die ESKYNA Methode"
   title: "Mehr als Stilberatung: eine Methode mit System"

@@ -123,48 +123,110 @@
     </div>
   </section>
 
-  <section class="section section-dark" id="angebote">
+  <section class="section" id="angebote">
     <div class="container">
       <h2>{{ $services.title }}</h2>
-      <p class="offers-intro">{{ $ui.offers_intro }}</p>
-      {{ range $group := $services.groups }}
-        <div class="offers-group">
-          <h3 class="offers-group-title">{{ $group.title }}</h3>
-          <div class="offers-grid">
-            {{ range $index, $item := $group.items }}
-              {{ $ctaHref := or $item.ctaHref "#kontakt" }}
-              {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
-              {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-              {{ $ctaSecondaryHref := $item.ctaSecondaryHref }}
-              {{ $ctaSecondaryText := $item.ctaSecondaryText }}
-              {{ $secondaryOpenInNewTab := and $ctaSecondaryHref (or $item.ctaSecondaryNewTab (hasPrefix $ctaSecondaryHref "http") (hasSuffix $ctaSecondaryHref ".pdf")) }}
-              <article class="offer-card {{ if and (eq $index 0) (ne $group.title "Kostenlos starten") }}offer-card-featured{{ end }}">
-                <p class="offer-label">{{ $group.title }}</p>
-                <h4>{{ $item.title }}</h4>
-                <p class="offer-text">{{ $item.text }}</p>
-                {{ with $item.highlights }}
-                  <ul class="offer-highlights">
-                    {{ range . }}
-                      <li>{{ . }}</li>
-                    {{ end }}
-                  </ul>
-                {{ end }}
-                {{ with $item.note }}
-                  <p class="offer-note">{{ . }}</p>
-                {{ end }}
-                {{ with $item.result }}
-                  <p class="offer-result"><strong>{{ $ui.result_label }}</strong> {{ . }}</p>
-                {{ end }}
-                <div class="offer-card-actions">
-                  {{ if and $ctaSecondaryHref $ctaSecondaryText }}
-                  <a class="btn btn-secondary" href="{{ $ctaSecondaryHref }}"{{ if $secondaryOpenInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaSecondaryText }}</a>
-                  {{ end }}
-                  <a class="btn {{ if ne $group.title $ui.free_tier_name }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
-                </div>
-              </article>
-            {{ end }}
-          </div>
+      {{ with $services.intro }}<p class="offers-intro">{{ . }}</p>{{ end }}
+      
+      <!-- Kostenlose Angebote -->
+      <section class="offers-free-section">
+        {{ with $services.free.title }}<h3 class="offers-group-title">{{ . }}</h3>{{ end }}
+        <p class="offers-free-intro">{{ $services.free.subtitle }}</p>
+        <div class="offers-free-grid">
+          {{ range $services.free.items }}
+            {{ $itemTitle := .title }}
+            {{ $ctaHref := or .ctaHref "#kontakt" }}
+            {{ $ctaText := or .ctaText $ui.default_cta_text }}
+            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+            <article class="free-offer-card">
+              {{ with .image }}
+                {{ $imagePath := . }}
+                <img src="{{ $imagePath | relURL }}" alt="{{ $itemTitle }}" class="free-offer-image{{ if hasSuffix $imagePath "10_styling_tipps.png" }} free-offer-image-contain{{ end }}">
+              {{ end }}
+              <h4>{{ .title }}</h4>
+              <p>{{ .text }}</p>
+              <a class="btn" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
+            </article>
+          {{ end }}
         </div>
+      </section>
+      
+      <!-- Hauptpakete -->
+      <section class="offers-packages-section">
+        <h3 class="offers-group-title">{{ $services.packages.title }}</h3>
+        <div class="packages-grid">
+          {{ range $services.packages.items }}
+            {{ $ctaHref := or .ctaHref "#kontakt" }}
+            {{ $ctaText := or .ctaText $ui.default_cta_text }}
+            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+            <article class="package-card {{ if .featured }}package-card-featured{{ end }}">
+              {{ if .badge }}
+                <div class="package-badge">{{ .badge }}</div>
+              {{ end }}
+              <p class="package-name">{{ .name }}</p>
+              <p class="package-price">{{ .price }}</p>
+              <h4 class="package-headline">{{ .headline }}</h4>
+              <p class="package-description">{{ .description }}</p>
+              {{ with .highlights }}
+                <ul class="package-highlights">
+                  {{ range . }}
+                    <li>{{ . }}</li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+              {{ with .note }}
+                <p class="package-note">{{ . }}</p>
+              {{ end }}
+              {{ with .result }}
+                <p class="package-result"><strong>Ergebnis:</strong> {{ . }}</p>
+              {{ end }}
+              <div class="package-cta">
+                <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
+              </div>
+            </article>
+          {{ end }}
+        </div>
+      </section>
+      
+      <!-- Vergleichstabelle -->
+      {{ with $services.comparison }}
+      <section class="offers-comparison-section">
+        <h3 class="offers-group-title">{{ .title }}</h3>
+        {{ with .intro }}<p class="comparison-intro">{{ . }}</p>{{ end }}
+        <div class="comparison-table-wrapper">
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                {{ range .table.headers }}
+                  <th>{{ . }}</th>
+                {{ end }}
+              </tr>
+            </thead>
+            <tbody>
+              {{ range .table.rows }}
+                <tr>
+                  <td><strong>{{ .offer }}</strong></td>
+                  <td>{{ .focus }}</td>
+                  <td>{{ .audience }}</td>
+                  <td class="table-price"><strong>{{ .investment }}</strong></td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </section>
+      {{ end }}
+      
+      <!-- Unsicherheits-Abfang -->
+      {{ with $services.uncertainty }}
+      <section class="offers-uncertainty-section">
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+        {{ $ctaHref := or .ctaHref "#kontakt" }}
+        {{ $ctaText := or .ctaText $ui.default_cta_text }}
+        {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+        <a class="btn" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .ctaText }}</a>
+      </section>
       {{ end }}
     </div>
   </section>
