@@ -68,7 +68,7 @@ coach:
   text: "Ich helfe Ihnen dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch buchen"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/IMG_5208_transparent_flipped.png"
+  image: "images/IMG_5208_transparent_flipped_cut.png"
 facts:
   title: "Ein paar Fakten über mich"
   items:

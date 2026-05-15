@@ -61,7 +61,7 @@ coach:
   text: "Я помогаю вам целеустремленно и стильно решать эти задачи."
   buttonText: "Записаться на бесплатную первую встречу"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/IMG_5208_transparent_flipped.png"
+  image: "images/IMG_5208_transparent_flipped_cut.png"
 facts:
   title: "Несколько фактов обо мне"
   items:
