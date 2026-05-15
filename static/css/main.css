@@ -93,11 +93,16 @@ a:hover {
   margin: 0 auto;
 }
 
-.section > .container > h2 {
+h2 {
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+  margin-bottom: 1rem;
+}
+
+.section :where(.container > h2) {
   text-align: center;
 }
 
-.section-dark > .container > h2 {
+.section-dark :where(.container > h2) {
   text-align: center;
 }
 
@@ -268,11 +273,6 @@ h6 {
 h1 {
   font-size: clamp(2.8rem, 5vw, 5rem);
   margin-bottom: 1.25rem;
-}
-
-h2 {
-  font-size: clamp(1.7rem, 3vw, 2.6rem);
-  margin-bottom: 1rem;
 }
 
 .lead {
@@ -449,15 +449,6 @@ h2 {
   overflow: hidden;
 }
 
-#kontakt a {
-  color: var(--text);
-  font-weight: 700;
-}
-
-#kontakt a:hover {
-  color: var(--accent-strong);
-}
-
 .section-dark {
   background: url("/images/background_vogue.png");
   background-size: cover;
@@ -474,7 +465,7 @@ h2 {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(255, 255, 255, 0.35);
+  background: rgb(255 255 255 / 35%);
   pointer-events: none;
   z-index: 0;
 }
@@ -609,13 +600,13 @@ h2 {
   max-width: 280px;
 }
 
-.ps-divider__line {
+.ps-divider-line {
   flex: 1;
   height: 1px;
   background: linear-gradient(to right, transparent, rgb(212 191 165 / 60%), transparent);
 }
 
-.ps-divider__icon {
+.ps-divider-icon {
   font-size: 0.7rem;
   color: var(--accent);
   opacity: 0.7;
@@ -628,12 +619,12 @@ h2 {
   gap: 24px;
 }
 
-.ps-grid--top {
+.ps-grid-top {
   grid-template-columns: repeat(3, 1fr);
   margin-bottom: 24px;
 }
 
-.ps-grid--bottom {
+.ps-grid-bottom {
   grid-template-columns: repeat(4, 1fr);
 }
 
@@ -659,7 +650,7 @@ h2 {
   border-color: rgb(197 160 89 / 35%);
 }
 
-.ps-card__icon {
+.ps-card-icon {
   width: 140px;
   height: 140px;
   object-fit: contain;
@@ -667,12 +658,12 @@ h2 {
   flex-shrink: 0;
 }
 
-.ps-card--sm .ps-card__icon {
+.ps-card-sm .ps-card-icon {
   width: 110px;
   height: 110px;
 }
 
-.ps-card__title {
+.ps-card-title {
   margin: 0 0 0.6rem;
   font-family: var(--font-headline);
   font-size: 1.25rem;
@@ -682,11 +673,11 @@ h2 {
   line-height: 1.2;
 }
 
-.ps-card--sm .ps-card__title {
+.ps-card-sm .ps-card-title {
   font-size: 1.1rem;
 }
 
-.ps-card__text {
+.ps-card-text {
   margin: 0;
   font-size: 1rem;
   line-height: 1.62;
@@ -703,7 +694,7 @@ h2 {
   gap: 10px;
 }
 
-.ps-cta__lead {
+.ps-cta-lead {
   margin: 0;
   font-family: var(--font-headline);
   font-size: clamp(1.2rem, 2.5vw, 1.6rem);
@@ -712,7 +703,7 @@ h2 {
   letter-spacing: -0.01em;
 }
 
-.ps-cta__sub {
+.ps-cta-sub {
   margin: 0;
   font-size: 1rem;
   color: var(--muted);
@@ -720,7 +711,7 @@ h2 {
   line-height: 1.6;
 }
 
-.ps-cta__btn {
+.ps-cta-btn {
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -737,7 +728,7 @@ h2 {
   transition: background 180ms ease, transform 180ms ease;
 }
 
-.ps-cta__btn:hover {
+.ps-cta-btn:hover {
   background: var(--accent-strong);
   color: #fff;
   transform: translateY(-2px);
@@ -745,11 +736,11 @@ h2 {
 
 /* Responsive */
 @media (width <= 960px) {
-  .ps-grid--top {
+  .ps-grid-top {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .ps-grid--bottom {
+  .ps-grid-bottom {
     grid-template-columns: repeat(2, 1fr);
   }
 }
@@ -759,17 +750,17 @@ h2 {
     padding: 64px 20px;
   }
 
-  .ps-grid--top,
-  .ps-grid--bottom {
+  .ps-grid-top,
+  .ps-grid-bottom {
     grid-template-columns: 1fr;
   }
 
-  .ps-card__icon {
+  .ps-card-icon {
     width: 110px;
     height: 110px;
   }
 
-  .ps-card--sm .ps-card__icon {
+  .ps-card-sm .ps-card-icon {
     width: 100px;
     height: 100px;
   }
@@ -782,18 +773,18 @@ h2 {
   background-repeat: no-repeat;
 }
 
-.benefits-section > .container > h2 {
+:where(.benefits-section > .container > h2) {
   color: #fff;
-}
-
-.benefits-section .benefits-intro {
-  color: rgb(255 255 255 / 88%);
 }
 
 .benefits-intro {
   max-width: 70ch;
   color: var(--muted);
   margin: 0;
+}
+
+:where(.benefits-section .benefits-intro) {
+  color: rgb(255 255 255 / 88%);
 }
 
 .benefits-intro,
@@ -1018,7 +1009,7 @@ h2 {
   background: linear-gradient(90deg, transparent, rgb(197 160 89 / 55%), transparent);
 }
 
-@media (max-width: 720px) {
+@media (width <= 720px) {
   .facts-list {
     grid-template-columns: 1fr;
   }
@@ -1165,7 +1156,7 @@ h2 {
   background: url("/images/background_dark_cloth.jpg");
 }
 
-.references-section > .container > h2 {
+:where(.references-section > .container > h2) {
   color: #fff;
 }
 
@@ -1368,11 +1359,20 @@ h2 {
   flex-wrap: wrap;
 }
 
-.site-footer-inner a {
+.site-footer .site-footer-inner a:any-link {
   color: var(--muted);
 }
 
-.site-footer-inner a:hover {
+.site-footer .site-footer-inner a:any-link:hover {
+  color: var(--accent-strong);
+}
+
+#kontakt a {
+  color: var(--text);
+  font-weight: 700;
+}
+
+#kontakt a:hover {
   color: var(--accent-strong);
 }
 

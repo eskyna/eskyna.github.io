@@ -49,29 +49,29 @@
       <header class="ps-header">
         <h2 class="ps-heading">{{ $problems.title }}</h2>
         <div class="ps-divider" aria-hidden="true">
-          <span class="ps-divider__line"></span>
-          <span class="ps-divider__line"></span>
+          <span class="ps-divider-line"></span>
+          <span class="ps-divider-line"></span>
         </div>
       </header>
 
-      <div class="ps-grid ps-grid--top">
+      <div class="ps-grid ps-grid-top">
         {{ range first 3 $problems.items }}
           <article class="ps-card">
             {{ $itemTitle := .title }}
-            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card__icon" width="150" height="150">{{ end }}
-            <h3 class="ps-card__title">{{ .title }}</h3>
-            <p class="ps-card__text">{{ .text }}</p>
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card-icon" width="150" height="150">{{ end }}
+            <h3 class="ps-card-title">{{ .title }}</h3>
+            <p class="ps-card-text">{{ .text }}</p>
           </article>
         {{ end }}
       </div>
 
-      <div class="ps-grid ps-grid--bottom">
+      <div class="ps-grid ps-grid-bottom">
         {{ range after 3 $problems.items }}
-          <article class="ps-card ps-card--sm">
+          <article class="ps-card ps-card-sm">
             {{ $itemTitle := .title }}
-            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card__icon" width="110" height="110">{{ end }}
-            <h3 class="ps-card__title">{{ .title }}</h3>
-            <p class="ps-card__text">{{ .text }}</p>
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card-icon" width="110" height="110">{{ end }}
+            <h3 class="ps-card-title">{{ .title }}</h3>
+            <p class="ps-card-text">{{ .text }}</p>
           </article>
         {{ end }}
       </div>
