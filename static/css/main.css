@@ -1,6 +1,7 @@
 :root {
   --bg: #f9f6f0; /* Warm Alabaster */
   --bg-soft: #e3d5c8; /* Soft Sand */
+  --page-wash: #f6f1ea;
   --text: #2c1e16; /* Espresso Brown */
   --muted: rgb(44 30 22 / 72%);
   --accent: #c5a059; /* Muted Gold */
@@ -431,6 +432,19 @@ h1 {
   padding: 5rem 0;
 }
 
+.section,
+.section-dark,
+.ps-section,
+.benefits-section,
+.references-section,
+.method-section,
+.faq-section,
+#kontakt {
+  box-shadow:
+    inset 0 48px 44px -44px rgb(246 241 234 / 72%),
+    inset 0 -56px 50px -50px rgb(246 241 234 / 82%);
+}
+
 .coach-section {
   background: url("/images/background_wardrobe_bright.png");
   background-size: cover;
@@ -440,7 +454,9 @@ h1 {
 }
 
 #kontakt {
-  background: url("/images/background_linen_shapes.jpg");
+  background-image:
+    linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
+    url("/images/background_linen_shapes.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -477,7 +493,7 @@ h1 {
 
 .hero + .section,
 .hero + .section-dark {
-  border-top: 2px solid rgb(44 30 22 / 18%);
+  border-top: 1px solid rgb(44 30 22 / 10%);
 }
 
 .intro-grid,
@@ -767,14 +783,16 @@ h1 {
 }
 
 .benefits-section {
-  background: url("/images/background_dark_cloth.jpg");
+  background-image:
+    linear-gradient(180deg, rgb(246 241 234 / 58%), rgb(246 241 234 / 68%)),
+    url("/images/background_dark_cloth.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 :where(.benefits-section > .container > h2) {
-  color: #fff;
+  color: var(--text);
 }
 
 .benefits-intro {
@@ -784,7 +802,7 @@ h1 {
 }
 
 :where(.benefits-section .benefits-intro) {
-  color: rgb(255 255 255 / 88%);
+  color: rgb(44 30 22 / 86%);
 }
 
 .benefits-intro,
@@ -814,8 +832,11 @@ h1 {
 
 .benefit-card h3 {
   margin: 0 0 0.7rem;
-  font-size: 1.15rem;
-  color: var(--text);
+  font-size: 1.28rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.28;
+  color: var(--accent-strong);
 }
 
 .benefit-index {
@@ -1153,16 +1174,21 @@ h1 {
 }
 
 .references-section {
-  background: url("/images/background_dark_cloth.jpg");
+  background-image:
+    linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
+    url("/images/background_dark_cloth.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 :where(.references-section > .container > h2) {
-  color: #fff;
+  color: var(--text);
 }
 
 .references-subtitle {
   margin: 0;
-  color: rgb(255 255 255 / 88%);
+  color: rgb(44 30 22 / 86%);
   max-width: 54ch;
 }
 
@@ -1520,8 +1546,27 @@ h1 {
 /* ── ESKYNA Methode ────────────────────────────────────── */
 
 .method-section {
+  position: relative;
+  overflow: hidden;
   padding: 6rem 0;
-  background: url("/images/blinen-texture-light.png");
+  background: url("/images/linen-texture-light.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.method-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgb(246 241 234 / 52%), rgb(246 241 234 / 66%)),
+    linear-gradient(110deg, rgb(255 255 255 / 10%), rgb(255 255 255 / 4%));
+  pointer-events: none;
+}
+
+.method-section > .container {
+  position: relative;
+  z-index: 1;
 }
 
 .method-eyebrow {
@@ -1541,9 +1586,9 @@ h1 {
   text-align: center;
   max-width: 680px;
   margin: 0 auto 1.25rem;
-  color: var(--muted);
+  color: rgb(44 30 22 / 90%);
   font-size: 1.05rem;
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
 .method-tagline {
@@ -1612,8 +1657,8 @@ h1 {
 
 .method-step-title {
   font-family: var(--font-headline);
-  font-size: 0.9rem;
-  font-weight: 500;
+  font-size: 0.95rem;
+  font-weight: 600;
   color: var(--text);
   margin: 0 0 0.5rem;
   line-height: 1.3;
@@ -1621,9 +1666,9 @@ h1 {
 
 .method-step-text {
   font-family: var(--font-text);
-  font-size: 0.82rem;
-  line-height: 1.55;
-  color: var(--muted);
+  font-size: 0.87rem;
+  line-height: 1.65;
+  color: rgb(44 30 22 / 88%);
   margin: 0;
 }
 
@@ -1640,7 +1685,7 @@ h1 {
   font-style: italic;
   font-size: 1.05rem;
   line-height: 1.8;
-  color: var(--text);
+  color: rgb(44 30 22 / 92%);
   margin: 0 0 0.75rem;
 }
 
