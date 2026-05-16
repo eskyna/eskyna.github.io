@@ -2,7 +2,7 @@ baseURL = "https://eskyna.com/"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 disableHugoGeneratorInject = true
-title = "Natalia Kleemann | Style & Image Coaching"
+title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
 
 [languages]
   [languages.de]
@@ -12,7 +12,7 @@ title = "Natalia Kleemann | Style & Image Coaching"
     contentDir = "content"
     [languages.de.params]
       author = "Natalia Kleemann"
-      description = "Style- und Image-Coaching für Menschen, die sichtbar, stilsicher und authentisch auftreten wollen."
+      description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecken Sie Ihren individuellen Stil, treten Sie sichtbar und authentisch auf. ESKYNA begleitet Sie zu mehr Stilsicherheit und Selbstvertrauen."
   
   [languages.ru]
     languageCode = "ru-RU"
@@ -21,8 +21,8 @@ title = "Natalia Kleemann | Style & Image Coaching"
     contentDir = "content/ru"
     [languages.ru.params]
       author = "Natalia Kleemann"
-      description = "Благодаря индивидуальному image-коучингу вы станете уверенны и привлекательны."
+      description = "Персональный имидж-коучинг в Ганновере и онлайн. Развивайте стиль, уверенность и аутентичность с методом ESKYNA. Трансформируйте свой образ и станьте видимым, стильным и уверенным профессионалом."
 
 [params]
   author = "Natalia Kleemann"
-  description = "Style- und Image-Coaching für Menschen, die sichtbar, stilsicher und authentisch auftreten wollen."
+  description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecken Sie Ihren individuellen Stil, treten Sie sichtbar und authentisch auf. ESKYNA begleitet Sie zu mehr Stilsicherheit und Selbstvertrauen."
