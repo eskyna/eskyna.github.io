@@ -2,6 +2,7 @@ baseURL = "https://eskyna.com/"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 disableHugoGeneratorInject = true
+cleanDestinationDir = true
 title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
 
 [languages]
