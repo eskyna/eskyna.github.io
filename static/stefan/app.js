@@ -41,7 +41,7 @@ const styleTips = [
     text: "Ein Schmuckstueck, ein Schuh, eine Farbe oder eine Linie darf die Hauptrolle spielen - nicht alles gleichzeitig.",
   },
   {
-    title: "Plane fuer deinen Alltag",
+    title: "Plane für deinen Alltag",
     text: "Ein gutes Outfit passt zu Terminen, Wegen, Wetter und Energielevel - nicht nur zum Foto.",
   },
   {

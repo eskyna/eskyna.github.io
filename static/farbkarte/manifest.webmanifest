@@ -1,7 +1,7 @@
 {
   "name": "Eskyna Farbkarte",
   "short_name": "Farbkarte",
-  "description": "Digitale Farbkarte fuer Eskyna KundInnen.",
+  "description": "Digitale Farbkarte für Eskyna KundInnen.",
   "id": "/farbkarte/",
   "start_url": "/farbkarte/",
   "scope": "/farbkarte/",
