@@ -2,7 +2,7 @@
 <main class="shop-page">
   <section class="hero-small">
     <div class="container">
-      <a class="back-link" href="/">Zur Startseite</a>
+      <a class="back-link" href="/" title="Zur Startseite">Zur Startseite</a>
       <h1>{{ .Title }}</h1>
       <p class="shop-intro">{{ .Content }}</p>
     </div>
@@ -27,7 +27,7 @@
             {{ end }}
             <div class="product-footer">
               <span class="product-price">{{ .price }}</span>
-              <a class="btn btn-small" href="{{ .ctaHref }}" target="_blank" rel="noopener noreferrer">
+              <a class="btn btn-small" href="{{ .ctaHref }}" title="{{ .ctaText }}" target="_blank" rel="noopener noreferrer">
                 <img src="/images/sign_black.png" alt="Kleeblatt-Symbol" title="Kleeblatt-Symbol" class="btn-icon"> {{ .ctaText }}
               </a>
             </div>

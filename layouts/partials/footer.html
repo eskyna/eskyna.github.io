@@ -16,9 +16,9 @@
       {{ $imprintText = or .footer_imprint_text $imprintText }}
       {{ $privacyText = or .footer_privacy_text $privacyText }}
     {{ end }}
-    <a href="{{ "about" | relLangURL }}">{{ $aboutText }}</a>
-    <a href="{{ "estyle" | relLangURL }}">{{ $estyleText }}</a>
-    <a href="{{ "impressum" | relLangURL }}">{{ $imprintText }}</a>
-    <a href="{{ "datenschutz" | relLangURL }}">{{ $privacyText }}</a>
+    <a href="{{ "about" | relLangURL }}" title="{{ $aboutText }}">{{ $aboutText }}</a>
+    <a href="{{ "estyle" | relLangURL }}" title="{{ $estyleText }}">{{ $estyleText }}</a>
+    <a href="{{ "impressum" | relLangURL }}" title="{{ $imprintText }}">{{ $imprintText }}</a>
+    <a href="{{ "datenschutz" | relLangURL }}" title="{{ $privacyText }}">{{ $privacyText }}</a>
   </div>
 </footer>
