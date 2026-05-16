@@ -2846,6 +2846,10 @@ main .hero .hero-copy {
   font-size: 0.9rem;
 }
 
+.contact-faq-cta {
+  margin-top: 1.5rem;
+}
+
 @media (width <= 768px) {
   .header-topbar {
     gap: 0.5rem;
@@ -2858,5 +2862,81 @@ main .hero .hero-copy {
 
   .hero-small h1 {
     margin-bottom: 0.75rem;
+  }
+}
+
+/* Mobile version fine-tuning */
+@media (width <= 640px) {
+  .container {
+    width: min(100% - 1.5rem, var(--max-width));
+  }
+
+  .section {
+    padding-block: 2.6rem;
+  }
+
+  .hero-tools {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  .hero-actions .btn,
+  .coach-actions .btn,
+  .contact-faq-cta .btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .offers-comparison-section,
+  .offers-uncertainty-section,
+  .method-quote,
+  .faq-item {
+    border-radius: 14px;
+  }
+
+  .comparison-table {
+    min-width: 560px;
+  }
+
+  .contact-grid {
+    gap: 1.2rem;
+  }
+
+  .contact-grid > img {
+    width: min(100%, 320px);
+    margin-inline: auto;
+  }
+}
+
+@media (width <= 420px) {
+  .container {
+    width: min(100% - 1.1rem, var(--max-width));
+  }
+
+  .hero h1,
+  .hero .hero-copy h1 {
+    max-width: 100%;
+    font-size: clamp(1.9rem, 10vw, 2.4rem);
+  }
+
+  .hero .hero-copy .lead {
+    font-size: 0.92rem;
+    line-height: 1.55;
+  }
+
+  .social-links {
+    gap: 0.45rem;
+  }
+
+  .social-link {
+    width: 34px;
+    height: 34px;
+  }
+
+  .package-card,
+  .free-offer-card,
+  .benefit-card,
+  .reference-chip {
+    padding: 1rem;
   }
 }
