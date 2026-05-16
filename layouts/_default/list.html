@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main class="shop-page">
+  <section class="hero-small">
+    <div class="container">
+      <a class="back-link" href="/">Zur Startseite</a>
+      <h1>{{ .Title }}</h1>
+      <p class="shop-intro">{{ .Content }}</p>
+    </div>
+  </section>
+
+  {{ with .Params.products }}
+  <section class="section shop-products">
+    <div class="container">
+      <div class="products-grid">
+        {{ range . }}
+        <article class="product-card">
+          <div class="product-image-wrap">
+            <img src="{{ .image }}" alt="{{ .alt }}" class="product-image">
+          </div>
+          <div class="product-content">
+            <h3 class="product-title">{{ .title }}</h3>
+            <p class="product-description">{{ .description }}</p>
+            {{ with .specs }}
+            <ul class="product-specs">
+              {{ range . }}<li>{{ . }}</li>{{ end }}
+            </ul>
+            {{ end }}
+            <div class="product-footer">
+              <span class="product-price">{{ .price }}</span>
+              <a class="btn btn-small" href="{{ .ctaHref }}" target="_blank" rel="noopener noreferrer">
+                <img src="/images/sign_black.png" alt="Kleeblatt-Symbol" class="btn-icon"> {{ .ctaText }}
+              </a>
+            </div>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+</main>
+{{ end }}
