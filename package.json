@@ -8,7 +8,12 @@
     "format:check": "prettier --check .",
     "lint": "npm run lint:css && npm run lint:md",
     "lint:css": "stylelint \"static/css/**/*.css\"",
-    "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#public\""
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#public\"",
+    "lint-and-format": "node bin/lint-and-format",
+    "lint-and-format:check": "node bin/lint-and-format",
+    "lint-and-format:fix": "node bin/lint-and-format --fix",
+    "seo-audit": "node bin/seo-audit",
+    "seo-audit:static": "node bin/seo-audit ./static/outfits"
   },
   "devDependencies": {
     "markdownlint-cli2": "^0.22.1",

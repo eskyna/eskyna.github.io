@@ -1,0 +1,341 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+
+// Color codes for terminal output
+const colors = {
+  reset: "\x1b[0m",
+  bright: "\x1b[1m",
+  red: "\x1b[31m",
+  green: "\x1b[32m",
+  yellow: "\x1b[33m",
+  blue: "\x1b[34m",
+  cyan: "\x1b[36m",
+};
+
+// Region for fetching public files
+const PUBLIC_DIR = "./public";
+const STATIC_DIR = "./static/outfits";
+
+// Issue tracking
+const issues = {
+  linksNoTitle: [],
+  linksNoText: [],
+  imagesNoAlt: [],
+  imagesNoTitle: [],
+  missingMetaDesc: [],
+  missingH1: [],
+  duplicateTitles: [],
+  shortTitle: [],
+  longTitle: [],
+  emptyAltText: [],
+  noLanguageAttribute: [],
+  orphanedLinks: [],
+};
+
+function log(message, type = "info") {
+  const typeColors = {
+    error: colors.red,
+    success: colors.green,
+    warning: colors.yellow,
+    info: colors.cyan,
+    header: colors.bright + colors.blue,
+  };
+
+  const color = typeColors[type] || colors.reset;
+  console.log(`${color}${message}${colors.reset}`);
+}
+
+function normalizeLength(str) {
+  return str.replace(/\s+/g, " ").trim();
+}
+
+function extractText(htmlContent, tag) {
+  const regex = new RegExp(`<${tag}[^>]*>(.*?)</${tag}>`, "gis");
+  let match = regex.exec(htmlContent);
+  return match ? match[1] : "";
+}
+
+function findAll(htmlContent, pattern) {
+  const results = [];
+  let match;
+  while ((match = pattern.exec(htmlContent)) !== null) {
+    results.push(match);
+  }
+  return results;
+}
+
+function auditFile(filePath) {
+  try {
+    const content = fs.readFileSync(filePath, "utf8");
+    const relativePath = path.relative(process.cwd(), filePath);
+
+    // Check for language attribute in html tag
+    if (!/<html[^>]*lang\s*=/i.test(content)) {
+      issues.noLanguageAttribute.push(relativePath);
+    }
+
+    // Check links for title attributes
+    const linkPattern = /<a\b([^>]*)>/gi;
+    const links = findAll(content, linkPattern);
+    links.forEach((match) => {
+      const attrs = match[1];
+
+      // Skip anchor/hash links and empty hrefs
+      if (
+        !attrs.includes("href") ||
+        attrs.includes('href=""') ||
+        attrs.match(/href\s*=\s*["']#["']/)
+      ) {
+        return;
+      }
+
+      const fullLink =
+        match[0] + /^[^<]*/.exec(content.substring(match.index + match[0].length))[0] + "</a>";
+
+      // Check for title attribute - case insensitive and allowing attributes in any order
+      if (!attrs.match(/\btitle\s*=/i)) {
+        issues.linksNoTitle.push({
+          file: relativePath,
+          link: fullLink.substring(0, 80) + (fullLink.length > 80 ? "..." : ""),
+        });
+      }
+
+      // Check for link text
+      const textMatch = /^<a[^>]*>(.*?)<\/a>/i.exec(fullLink);
+      if (textMatch) {
+        const text = textMatch[1]
+          .replace(/<[^>]*>/g, "")
+          .replace(/&nbsp;/g, "")
+          .replace(/\s+/g, " ")
+          .trim();
+        if (!text) {
+          issues.linksNoText.push({
+            file: relativePath,
+            link: fullLink.substring(0, 80) + (fullLink.length > 80 ? "..." : ""),
+          });
+        }
+      }
+    });
+
+    // Check images for alt and title attributes
+    const imgPattern = /<img\b([^>]*)>/gi;
+    const images = findAll(content, imgPattern);
+    images.forEach((match) => {
+      const attrs = match[1];
+
+      if (!attrs.match(/\balt\s*=/i)) {
+        issues.imagesNoAlt.push({
+          file: relativePath,
+          img: match[0].substring(0, 80) + (match[0].length > 80 ? "..." : ""),
+        });
+      }
+
+      if (!attrs.match(/\btitle\s*=/i)) {
+        issues.imagesNoTitle.push({
+          file: relativePath,
+          img: match[0].substring(0, 80) + (match[0].length > 80 ? "..." : ""),
+        });
+      }
+
+      // Check for empty alt text
+      const altMatch = attrs.match(/\balt\s*=\s*["']([^"']*)["']/i);
+      if (altMatch && !altMatch[1].trim()) {
+        issues.emptyAltText.push({
+          file: relativePath,
+          img: match[0].substring(0, 80) + (match[0].length > 80 ? "..." : ""),
+        });
+      }
+    });
+
+    // Check meta description in head (only for index files)
+    if (filePath.includes("index.html")) {
+      if (!/<meta\s+name\s*=\s*["']description["']/i.test(content)) {
+        issues.missingMetaDesc.push(relativePath);
+      }
+
+      // Check for h1 tag
+      if (!/<h1/i.test(content)) {
+        issues.missingH1.push(relativePath);
+      }
+
+      // Check page title
+      const titleMatch = /<title>([^<]*)<\/title>/i.exec(content);
+      if (titleMatch) {
+        const title = titleMatch[1].trim();
+        if (title.length < 30) {
+          issues.shortTitle.push({ file: relativePath, title, length: title.length });
+        }
+        if (title.length > 60) {
+          issues.longTitle.push({ file: relativePath, title, length: title.length });
+        }
+      }
+    }
+  } catch (err) {
+    log(`Error reading file ${filePath}: ${err.message}`, "warning");
+  }
+}
+
+function getHtmlFiles(dir, fileList = []) {
+  const files = fs.readdirSync(dir);
+
+  files.forEach((file) => {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+
+    if (stat.isDirectory()) {
+      if (!file.startsWith(".") && file !== "node_modules") {
+        getHtmlFiles(filePath, fileList);
+      }
+    } else if (file.endsWith(".html")) {
+      fileList.push(filePath);
+    }
+  });
+
+  return fileList;
+}
+
+function auditDirectory(dir) {
+  if (!fs.existsSync(dir)) {
+    log(`Directory not found: ${dir}`, "error");
+    return;
+  }
+
+  const files = getHtmlFiles(dir);
+
+  if (files.length === 0) {
+    log(`No HTML files found in ${dir}`, "warning");
+    return;
+  }
+
+  log(`\n🔍 Scanning ${files.length} HTML files...\n`, "info");
+  files.forEach((file) => auditFile(file));
+}
+
+function generateReport() {
+  log("\n" + "=".repeat(70), "header");
+  log("                    📊 SEO AUDIT REPORT", "header");
+  log("=".repeat(70) + "\n", "header");
+
+  let totalIssues = 0;
+
+  // Links without title
+  if (issues.linksNoTitle.length > 0) {
+    totalIssues += issues.linksNoTitle.length;
+    log(`\n❌ Links without TITLE attribute: ${issues.linksNoTitle.length}`, "error");
+    issues.linksNoTitle.slice(0, 5).forEach((item) => {
+      log(`   📄 ${item.file}`, "info");
+      log(`      ${item.link}`, "warning");
+    });
+    if (issues.linksNoTitle.length > 5) {
+      log(`   ... and ${issues.linksNoTitle.length - 5} more`, "warning");
+    }
+  }
+
+  // Links without text
+  if (issues.linksNoText.length > 0) {
+    totalIssues += issues.linksNoText.length;
+    log(`\n⚠️  Links without link text: ${issues.linksNoText.length}`, "warning");
+    issues.linksNoText.slice(0, 5).forEach((item) => {
+      log(`   📄 ${item.file}`, "info");
+      log(`      ${item.link}`, "warning");
+    });
+    if (issues.linksNoText.length > 5) {
+      log(`   ... and ${issues.linksNoText.length - 5} more`, "warning");
+    }
+  }
+
+  // Images without alt
+  if (issues.imagesNoAlt.length > 0) {
+    totalIssues += issues.imagesNoAlt.length;
+    log(`\n❌ Images without ALT attribute: ${issues.imagesNoAlt.length}`, "error");
+    issues.imagesNoAlt.slice(0, 5).forEach((item) => {
+      log(`   📄 ${item.file}`, "info");
+      log(`      ${item.img}`, "warning");
+    });
+    if (issues.imagesNoAlt.length > 5) {
+      log(`   ... and ${issues.imagesNoAlt.length - 5} more`, "warning");
+    }
+  }
+
+  // Images without title
+  if (issues.imagesNoTitle.length > 0) {
+    totalIssues += issues.imagesNoTitle.length;
+    log(`\n⚠️  Images without TITLE attribute: ${issues.imagesNoTitle.length}`, "warning");
+    log(`   (Consider adding titles for better UX)`, "info");
+  }
+
+  // Empty alt text
+  if (issues.emptyAltText.length > 0) {
+    totalIssues += issues.emptyAltText.length;
+    log(`\n⚠️  Images with empty ALT text: ${issues.emptyAltText.length}`, "warning");
+    issues.emptyAltText.slice(0, 3).forEach((item) => {
+      log(`   📄 ${item.file}`, "info");
+    });
+  }
+
+  // Missing meta description
+  if (issues.missingMetaDesc.length > 0) {
+    totalIssues += issues.missingMetaDesc.length;
+    log(`\n⚠️  Pages without meta description: ${issues.missingMetaDesc.length}`, "warning");
+    issues.missingMetaDesc.forEach((file) => {
+      log(`   📄 ${file}`, "info");
+    });
+  }
+
+  // Missing H1
+  if (issues.missingH1.length > 0) {
+    totalIssues += issues.missingH1.length;
+    log(`\n⚠️  Pages without H1 tag: ${issues.missingH1.length}`, "warning");
+    issues.missingH1.forEach((file) => {
+      log(`   📄 ${file}`, "info");
+    });
+  }
+
+  // Page titles
+  if (issues.shortTitle.length > 0) {
+    totalIssues += issues.shortTitle.length;
+    log(`\n⚠️  Page titles too short (< 30 chars): ${issues.shortTitle.length}`, "warning");
+    issues.shortTitle.forEach((item) => {
+      log(`   📄 ${item.file} (${item.length} chars)`, "info");
+    });
+  }
+
+  if (issues.longTitle.length > 0) {
+    totalIssues += issues.longTitle.length;
+    log(`\n⚠️  Page titles too long (> 60 chars): ${issues.longTitle.length}`, "warning");
+    issues.longTitle.forEach((item) => {
+      log(`   📄 ${item.file} (${item.length} chars)`, "info");
+    });
+  }
+
+  // Missing lang attribute
+  if (issues.noLanguageAttribute.length > 0) {
+    totalIssues += issues.noLanguageAttribute.length;
+    log(`\n⚠️  Pages without language attribute: ${issues.noLanguageAttribute.length}`, "warning");
+    issues.noLanguageAttribute.slice(0, 3).forEach((file) => {
+      log(`   📄 ${file}`, "info");
+    });
+  }
+
+  // Summary
+  log("\n" + "=".repeat(70), "header");
+  if (totalIssues === 0) {
+    log(`                    ✅ All checks passed!`, "success");
+  } else {
+    log(`                  Total issues found: ${totalIssues}`, "error");
+  }
+  log("=".repeat(70) + "\n", "header");
+
+  return totalIssues;
+}
+
+// Main execution
+const args = process.argv.slice(2);
+const targetDir = args[0] || PUBLIC_DIR;
+
+auditDirectory(targetDir);
+const issueCount = generateReport();
+
+process.exit(issueCount > 0 ? 1 : 0);

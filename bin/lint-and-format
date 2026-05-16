@@ -1,0 +1,250 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+const { execSync } = require("child_process");
+
+// Color codes
+const colors = {
+  reset: "\x1b[0m",
+  bright: "\x1b[1m",
+  red: "\x1b[31m",
+  green: "\x1b[32m",
+  yellow: "\x1b[33m",
+  blue: "\x1b[34m",
+  cyan: "\x1b[36m",
+  gray: "\x1b[90m",
+};
+
+class LintAndFormatAgent {
+  constructor() {
+    this.startTime = Date.now();
+    this.results = {
+      prettier: { success: false, output: "", fixed: 0, errors: 0 },
+      stylelint: { success: false, output: "", fixed: 0, errors: 0 },
+      markdownlint: { success: false, output: "", fixed: 0, errors: 0 },
+    };
+    this.totalIssuesFixed = 0;
+    this.totalErrors = 0;
+  }
+
+  log(message, type = "info") {
+    const typeColors = {
+      error: colors.red,
+      success: colors.green,
+      warning: colors.yellow,
+      info: colors.cyan,
+      header: colors.bright + colors.blue,
+      progress: colors.gray,
+    };
+
+    const color = typeColors[type] || colors.reset;
+    console.log(`${color}${message}${colors.reset}`);
+  }
+
+  logSection(title) {
+    console.log("\n" + colors.bright + colors.blue + "=".repeat(70) + colors.reset);
+    this.log(title, "header");
+    console.log(colors.bright + colors.blue + "=".repeat(70) + colors.reset + "\n");
+  }
+
+  runCommand(command, description, options = {}) {
+    try {
+      this.log(`  ▶ ${description}...`, "progress");
+      const output = execSync(command, {
+        stdio: options.silent ? "pipe" : "inherit",
+        encoding: "utf-8",
+      });
+      return { success: true, output };
+    } catch (error) {
+      return { success: false, output: error.stdout || error.message, error };
+    }
+  }
+
+  formatWithPrettier(fix = false) {
+    this.log("\n📝 Running Prettier (Code Formatter)", "info");
+
+    const command = fix ? "npx prettier --write ." : "npx prettier --check .";
+
+    const result = this.runCommand(command, "Prettier", { silent: true });
+
+    if (result.success) {
+      this.log("   ✅ All files formatted correctly", "success");
+      this.results.prettier.success = true;
+      this.results.prettier.fixed = this.countFormattedFiles();
+    } else {
+      const output = result.output;
+      const issueCount = (output.match(/file not formatted/g) || []).length;
+
+      if (fix) {
+        this.log(`   ✅ Fixed ${issueCount} file(s)`, "success");
+        this.results.prettier.fixed = issueCount;
+        this.totalIssuesFixed += issueCount;
+      } else {
+        this.log(`   ⚠️  ${issueCount} file(s) not formatted`, "warning");
+        this.results.prettier.errors = issueCount;
+        this.totalErrors += issueCount;
+      }
+      this.results.prettier.output = output;
+    }
+  }
+
+  lintCSS(fix = false) {
+    this.log("\n🎨 Running Stylelint (CSS Linter)", "info");
+
+    const command = fix
+      ? 'npx stylelint "static/css/**/*.css" --fix'
+      : 'npx stylelint "static/css/**/*.css"';
+
+    const result = this.runCommand(command, "Stylelint", { silent: true });
+
+    if (result.success) {
+      this.log("   ✅ All CSS files valid", "success");
+      this.results.stylelint.success = true;
+    } else {
+      const output = result.output;
+      const errorCount = (output.match(/ \d+ error/g) || []).length;
+
+      if (errorCount > 0) {
+        this.log(`   ❌ ${errorCount} CSS error(s) found`, "error");
+        this.results.stylelint.errors = errorCount;
+        this.totalErrors += errorCount;
+      } else {
+        this.log("   ✅ No CSS issues", "success");
+        this.results.stylelint.success = true;
+      }
+      this.results.stylelint.output = output;
+    }
+  }
+
+  lintMarkdown(fix = false) {
+    this.log("\n📄 Running Markdownlint (Markdown Linter)", "info");
+
+    const fixFlag = fix ? " --fix" : "";
+    const command = `npx markdownlint-cli2 "**/*.md" "#node_modules" "#public"${fixFlag}`;
+
+    const result = this.runCommand(command, "Markdownlint", { silent: true });
+
+    if (result.success) {
+      this.log("   ✅ All Markdown files valid", "success");
+      this.results.markdownlint.success = true;
+    } else {
+      const output = result.output;
+      const errorCount = (output.match(/error/gi) || []).length;
+
+      if (errorCount > 0) {
+        this.log(`   ⚠️  ${errorCount} Markdown issue(s) found`, "warning");
+        this.results.markdownlint.errors = errorCount;
+        this.totalErrors += errorCount;
+      } else {
+        this.log("   ✅ No Markdown issues", "success");
+        this.results.markdownlint.success = true;
+      }
+      this.results.markdownlint.output = output;
+    }
+  }
+
+  countFormattedFiles() {
+    try {
+      const files = [];
+      const getFiles = (dir) => {
+        fs.readdirSync(dir).forEach((file) => {
+          const filePath = path.join(dir, file);
+          if (fs.statSync(filePath).isDirectory()) {
+            if (!file.startsWith(".") && !["node_modules", "public", ".git"].includes(file)) {
+              getFiles(filePath);
+            }
+          } else if ([".js", ".json", ".md", ".css", ".html"].some((ext) => file.endsWith(ext))) {
+            files.push(filePath);
+          }
+        });
+      };
+      getFiles(".");
+      return files.length;
+    } catch (e) {
+      return 0;
+    }
+  }
+
+  generateReport(mode = "check") {
+    this.logSection("📊 LINTING & FORMATTING REPORT");
+
+    const duration = (Date.now() - this.startTime) / 1000;
+
+    // Summary
+    console.log(
+      `${colors.bright}Mode:${colors.reset} ${mode === "fix" ? "AUTO-FIX" : "CHECK-ONLY"}`
+    );
+    console.log(`${colors.bright}Duration:${colors.reset} ${duration.toFixed(2)}s\n`);
+
+    // Prettier
+    this.log("📝 Prettier (Code Formatting)", "info");
+    if (this.results.prettier.success) {
+      this.log("   ✅ Status: PASS", "success");
+    } else {
+      if (mode === "fix") {
+        this.log(`   ℹ️  Fixed: ${this.results.prettier.fixed} file(s)`, "info");
+      } else {
+        this.log(`   ⚠️  Issues: ${this.results.prettier.errors} file(s)`, "warning");
+      }
+    }
+
+    // Stylelint
+    this.log("🎨 Stylelint (CSS Linting)", "info");
+    if (this.results.stylelint.success) {
+      this.log("   ✅ Status: PASS", "success");
+    } else {
+      this.log(`   ❌ Errors: ${this.results.stylelint.errors}`, "error");
+    }
+
+    // Markdownlint
+    this.log("📄 Markdownlint (Markdown Linting)", "info");
+    if (this.results.markdownlint.success) {
+      this.log("   ✅ Status: PASS", "success");
+    } else {
+      this.log(`   ⚠️  Issues: ${this.results.markdownlint.errors}`, "warning");
+    }
+
+    // Summary
+    console.log();
+    if (mode === "fix") {
+      this.log(`Total fixed: ${this.totalIssuesFixed} issue(s)`, "success");
+    }
+    if (this.totalErrors > 0) {
+      this.log(`Total errors: ${this.totalErrors} error(s)`, "error");
+    } else if (mode === "check") {
+      this.log("✅ All checks passed!", "success");
+    }
+
+    this.logSection("");
+  }
+
+  run(options = {}) {
+    const mode = options.fix ? "fix" : "check";
+    const shouldFix = options.fix === true;
+
+    this.logSection(`🤖 LINT & FORMAT AGENT - ${mode.toUpperCase()} MODE`);
+
+    this.log("Starting automated code quality checks...\n", "info");
+
+    // Run formatters and linters
+    this.formatWithPrettier(shouldFix);
+    this.lintCSS(shouldFix);
+    this.lintMarkdown(shouldFix);
+
+    // Generate report
+    this.generateReport(mode);
+
+    // Return exit code
+    const allPassed = this.totalErrors === 0;
+    return allPassed ? 0 : 1;
+  }
+}
+
+// CLI Interface
+const args = process.argv.slice(2);
+const fix = args.includes("--fix") || args.includes("-f");
+const agent = new LintAndFormatAgent();
+const exitCode = agent.run({ fix });
+
+process.exit(exitCode);
