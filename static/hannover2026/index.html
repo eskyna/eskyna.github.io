@@ -1105,6 +1105,7 @@
                       class="messe-logo"
                       src="/images/references/hannover-messe.svg"
                       alt="Hannover Messe"
+                      title="Hannover Messe"
                       onerror="
                         this.style.display = 'none';
                         this.nextElementSibling.classList.remove('hidden');
@@ -1859,7 +1860,7 @@
             ? answerImages[currentQuestion][index]
             : null;
           const imageHtml = imageFilename
-            ? `<img src="/images/hann2026-answers/${imageFilename}" alt="${option.text}" class="option-image" loading="lazy" />`
+            ? `<img src="/images/hann2026-answers/${imageFilename}" alt="${option.text}" title="${option.text}" class="option-image" loading="lazy" />`
             : "";
           card.innerHTML = `
           ${imageHtml}
@@ -1948,7 +1949,7 @@
           .map(
             (item) => `
           <div class="side-type-card">
-            ${!isMale && item.profile.image ? `<img src="${item.profile.image}" alt="${item.profile.label}" style="display:block;width:100%;height:auto;max-height:320px;object-fit:contain;border-radius:8px;margin-bottom:10px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
+            ${!isMale && item.profile.image ? `<img src="${item.profile.image}" alt="${item.profile.label}" title="${item.profile.label}" style="display:block;width:100%;height:auto;max-height:320px;object-fit:contain;border-radius:8px;margin-bottom:10px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
             <strong style="display:block;font-size:1.05rem;margin-bottom:8px;">${item.profile.label}</strong>
             <p>${item.profile.short}</p>
             <div class="mix-row">
@@ -1972,7 +1973,7 @@
           <span class="estyle-id-help">Ihre persönliche ID für dieses Testergebnis</span>
           <code class="estyle-id-code">${estyleId}</code>
           <div class="estyle-id-qr-wrap">
-            <img class="estyle-id-qr" src="${estyleQrUrl}" alt="QR-Code zur EStyle ID ${estyleId}" loading="lazy" />
+            <img class="estyle-id-qr" src="${estyleQrUrl}" alt="QR-Code zur EStyle ID ${estyleId}" title="QR-Code zur EStyle ID ${estyleId}" loading="lazy" />
             <span class="estyle-id-qr-note">QR-Code der EStyle ID</span>
           </div>
           <a href="${estyleDecodeUrl}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;margin-top:14px;padding:8px 18px;border-radius:999px;background:rgba(123,90,79,0.12);color:var(--accent-dark);font-size:0.92rem;font-weight:700;text-decoration:none;">
@@ -1980,7 +1981,7 @@
           </a>
         </div>
         <div class="result-box result-box-primary">
-          ${!isMale && primary.profile.image ? `<img src="${primary.profile.image}" alt="${primary.profile.label}" style="display:block;width:100%;height:auto;max-height:520px;object-fit:contain;border-radius:12px;margin-bottom:14px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
+          ${!isMale && primary.profile.image ? `<img src="${primary.profile.image}" alt="${primary.profile.label}" title="${primary.profile.label}" style="display:block;width:100%;height:auto;max-height:520px;object-fit:contain;border-radius:12px;margin-bottom:14px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
           <strong style="display:block;font-size:1.2rem;margin-bottom:8px;">${primary.profile.label}</strong>
           <p>${primary.profile.short}</p>
           <div class="mix-row">

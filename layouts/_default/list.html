@@ -15,7 +15,7 @@
         {{ range . }}
         <article class="product-card">
           <div class="product-image-wrap">
-            <img src="{{ .image }}" alt="{{ .alt }}" class="product-image">
+            <img src="{{ .image }}" alt="{{ .alt }}" title="{{ .alt }}" class="product-image">
           </div>
           <div class="product-content">
             <h3 class="product-title">{{ .title }}</h3>
@@ -28,7 +28,7 @@
             <div class="product-footer">
               <span class="product-price">{{ .price }}</span>
               <a class="btn btn-small" href="{{ .ctaHref }}" target="_blank" rel="noopener noreferrer">
-                <img src="/images/sign_black.png" alt="Kleeblatt-Symbol" class="btn-icon"> {{ .ctaText }}
+                <img src="/images/sign_black.png" alt="Kleeblatt-Symbol" title="Kleeblatt-Symbol" class="btn-icon"> {{ .ctaText }}
               </a>
             </div>
           </div>

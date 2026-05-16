@@ -125,7 +125,7 @@
   }
 
   function clover(className = "", soft = false) {
-    return `<img src="${CLOVER_SRC}" alt="Eskyna Kleeblatt" class="clover ${soft ? "clover-soft" : ""} ${className}">`;
+    return `<img src="${CLOVER_SRC}" alt="Eskyna Kleeblatt" title="Eskyna Kleeblatt" class="clover ${soft ? "clover-soft" : ""} ${className}">`;
   }
 
   function icon(type) {

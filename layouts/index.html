@@ -30,7 +30,7 @@
         <h1>{{ $hero.headline }}</h1>
         <div class="lead">{{ $hero.text | markdownify }}</div>
         <div class="hero-actions">
-          <a class="btn" href="{{ $hero.ctaHref }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $hero.ctaText }}</a>
+          <a class="btn" href="{{ $hero.ctaHref }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $hero.ctaText }}</a>
         </div>
         {{ with $hero.trust }}
         <div class="hero-trust">
@@ -39,7 +39,7 @@
         {{ end }}
       </div>
       <div class="hero-image-wrap">
-        <img src="{{ $hero.image | relURL }}" alt="{{ $ui.hero_image_alt }}" class="hero-image">
+        <img src="{{ $hero.image | relURL }}" alt="{{ $ui.hero_image_alt }}" title="{{ $ui.hero_image_alt }}" class="hero-image">
       </div>
     </div>
   </section>
@@ -58,7 +58,7 @@
         {{ range first 3 $problems.items }}
           <article class="ps-card">
             {{ $itemTitle := .title }}
-            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card-icon" width="150" height="150">{{ end }}
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="ps-card-icon" width="150" height="150">{{ end }}
             <h3 class="ps-card-title">{{ .title }}</h3>
             <p class="ps-card-text">{{ .text }}</p>
           </article>
@@ -69,7 +69,7 @@
         {{ range after 3 $problems.items }}
           <article class="ps-card ps-card-sm">
             {{ $itemTitle := .title }}
-            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card-icon" width="110" height="110">{{ end }}
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="ps-card-icon" width="110" height="110">{{ end }}
             <h3 class="ps-card-title">{{ .title }}</h3>
             <p class="ps-card-text">{{ .text }}</p>
           </article>
@@ -81,15 +81,15 @@
   <section class="section coach-section">
     <div class="container intro-grid">
       <div>
-        <img src="{{ $coach.image | relURL }}" alt="Natalia Kleemann" class="card-image coach-image">
+        <img src="{{ $coach.image | relURL }}" alt="Natalia Kleemann" title="Natalia Kleemann" class="card-image coach-image">
       </div>
       <div>
         <h2>{{ $coach.title }}</h2>
         <p>{{ $coach.text }}</p>
         <div class="coach-actions">
-          <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $coach.buttonText }}</a>
+          <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $coach.buttonText }}</a>
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
-          <a class="btn btn-secondary" href="{{ $ui.coach_about_cta_href | relURL }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.coach_about_cta_text }}</a>
+          <a class="btn btn-secondary" href="{{ $ui.coach_about_cta_href | relURL }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.coach_about_cta_text }}</a>
           {{ end }}
         </div>
       </div>
@@ -141,7 +141,7 @@
             <article class="free-offer-card">
               {{ with .image }}
                 {{ $imagePath := . }}
-                <img src="{{ $imagePath | relURL }}" alt="{{ $itemTitle }}" class="free-offer-image{{ if hasSuffix $imagePath "10_styling_tipps.png" }} free-offer-image-contain{{ end }}">
+                <img src="{{ $imagePath | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="free-offer-image{{ if hasSuffix $imagePath "10_styling_tipps.png" }} free-offer-image-contain{{ end }}">
               {{ end }}
               <h4>{{ .title }}</h4>
               <p>{{ .text }}</p>
@@ -181,7 +181,7 @@
                 <p class="package-result"><span class="package-result-label">{{ $ui.result_label }}</span> {{ . }}</p>
               {{ end }}
               <div class="package-cta">
-                <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ctaText }}</a>
+                <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ctaText }}</a>
               </div>
             </article>
           {{ end }}
@@ -242,7 +242,7 @@
         {{ range .steps }}
         <article class="method-step">
           <div class="method-step-icon">
-            <img src="{{ .icon | relURL }}" alt="Symbol für {{ .title }}" class="method-step-img" aria-hidden="true">
+            <img src="{{ .icon | relURL }}" alt="Symbol für {{ .title }}" title="Symbol für {{ .title }}" class="method-step-img" aria-hidden="true">
           </div>
           <p class="method-step-badge">{{ .letter }}</p>
           <h3 class="method-step-title">{{ .title }}</h3>
@@ -266,7 +266,7 @@
         {{ range $item := $references.items }}
           <article class="reference-chip">
             {{ with $item.logo }}
-              <img src="{{ if or (hasPrefix . "http") (hasPrefix . "data:") }}{{ . | safeURL }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" class="reference-logo">
+              <img src="{{ if or (hasPrefix . "http") (hasPrefix . "data:") }}{{ . | safeURL }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" title="Logo {{ $item.name }}" class="reference-logo">
             {{ end }}
             <p class="reference-name">{{ $item.name }}</p>
             {{ with $item.label }}<p class="reference-label">{{ . }}</p>{{ end }}
@@ -301,10 +301,10 @@
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
         <div style="margin-top: 1.5rem;">
-          <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
+          <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
         </div>
       </div>
-      <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" class="signature-photo">
+      <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" title="{{ $ui.coach_image_alt }}" class="signature-photo">
     </div>
   </section>
 </main>

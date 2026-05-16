@@ -513,6 +513,7 @@
                 margin-bottom: 14px;
                 background: rgba(255, 255, 255, 0.65);
               "
+                title="Primärer Stiltyp"
               loading="lazy"
             />
             <div class="type-name" id="primaryLabel"></div>
@@ -962,6 +963,7 @@
         if (!isMale && primary.image) {
           primaryImgEl.src = primary.image;
           primaryImgEl.alt = primary.label;
+          primaryImgEl.title = primary.label;
           primaryImgEl.classList.remove("hidden");
         } else {
           primaryImgEl.classList.add("hidden");
@@ -987,7 +989,7 @@
           .map(
             (item) => `
           <div class="side-block">
-            ${!isMale && item.profile.image ? `<img src="${item.profile.image}" alt="${item.profile.label}" style="display:block;width:100%;height:auto;max-height:320px;object-fit:contain;border-radius:8px;margin-bottom:10px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
+            ${!isMale && item.profile.image ? `<img src="${item.profile.image}" alt="${item.profile.label}" title="${item.profile.label}" style="display:block;width:100%;height:auto;max-height:320px;object-fit:contain;border-radius:8px;margin-bottom:10px;background:rgba(255,255,255,0.65);" loading="lazy" />` : ""}
             <div class="type-name">${item.profile.label}</div>
             <p style="margin-bottom: 4px;">${item.profile.short}</p>
             <p style="font-size: 0.93rem;">${item.profile.insight}</p>
