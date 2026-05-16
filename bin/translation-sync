@@ -1,0 +1,349 @@
+#!/usr/bin/env node
+
+/**
+ * Translation Sync Agent
+ * Syncs metadata changes from German (DE) content to Russian (RU) translations
+ * while preserving localized text content.
+ */
+
+const fs = require("fs");
+const path = require("path");
+const { execSync } = require("child_process");
+
+class TranslationSyncAgent {
+  constructor() {
+    this.rootDir = process.cwd();
+    this.contentDir = path.join(this.rootDir, "content");
+    this.deDir = this.contentDir;
+    this.ruDir = path.join(this.contentDir, "ru");
+    this.mode = "CHECK"; // CHECK or SYNC
+    this.colors = {
+      reset: "\x1b[0m",
+      bright: "\x1b[1m",
+      dim: "\x1b[2m",
+      red: "\x1b[31m",
+      green: "\x1b[32m",
+      yellow: "\x1b[33m",
+      blue: "\x1b[34m",
+      cyan: "\x1b[36m",
+      gray: "\x1b[90m",
+    };
+    this.results = {
+      totalPages: 0,
+      synced: 0,
+      outOfSync: 0,
+      missing: 0,
+      unchanged: 0,
+    };
+    this.issues = [];
+  }
+
+  log(message, type = "info") {
+    const typeColors = {
+      error: this.colors.red,
+      success: this.colors.green,
+      warning: this.colors.yellow,
+      info: this.colors.cyan,
+      header: this.colors.bright + this.colors.blue,
+      progress: this.colors.gray,
+    };
+
+    const color = typeColors[type] || this.colors.reset;
+    console.log(`${color}${message}${this.colors.reset}`);
+  }
+
+  logSection(title) {
+    console.log(`\n${this.colors.bright}${title}${this.colors.reset}`);
+  }
+
+  run() {
+    const startTime = Date.now();
+
+    this.logSection("======================================================================");
+    this.log("🌍 TRANSLATION SYNC AGENT", "header");
+    this.logSection("======================================================================\n");
+
+    // Parse command line arguments
+    if (process.argv.includes("--sync")) {
+      this.mode = "SYNC";
+      this.log("⚠️  Running in SYNC mode - will update translations", "warning");
+    } else {
+      this.log("Running in CHECK mode (use --sync to apply changes)", "info");
+    }
+
+    this.log("\nAnalyzing German (DE) content structure...", "progress");
+    const deFiles = this.collectFiles(this.deDir, true);
+
+    this.log("Checking Russian (RU) translations...", "progress");
+    const ruFiles = this.collectFiles(this.ruDir, false);
+
+    this.log("Scanning for structure changes...", "progress");
+    this.compareStructures(deFiles, ruFiles);
+
+    this.log("Generating report...", "progress");
+    this.printReport();
+
+    const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+    this.logSection("======================================================================");
+    console.log(`\n${this.colors.gray}Duration: ${duration}s${this.colors.reset}`);
+
+    process.exit(this.results.outOfSync > 0 ? 1 : 0);
+  }
+
+  collectFiles(dir, isDE = false, basePath = "") {
+    const files = [];
+
+    if (!fs.existsSync(dir)) {
+      return files;
+    }
+
+    const entries = fs.readdirSync(dir);
+
+    entries.forEach((entry) => {
+      if (
+        entry.startsWith(".") ||
+        entry === "node_modules" ||
+        entry === "public" ||
+        (isDE && entry === "ru")
+      ) {
+        return;
+      }
+
+      const fullPath = path.join(dir, entry);
+      const relPath = path.join(basePath, entry);
+      const stat = fs.statSync(fullPath);
+
+      if (stat.isDirectory()) {
+        files.push(...this.collectFiles(fullPath, isDE, relPath));
+      } else if (entry === "index.md" || entry === "_index.md") {
+        files.push({
+          path: fullPath,
+          relPath: relPath,
+          fileName: entry,
+        });
+      }
+    });
+
+    return files;
+  }
+
+  compareStructures(deFiles, ruFiles) {
+    this.results.totalPages = deFiles.length;
+
+    deFiles.forEach((deFile) => {
+      const ruFile = this.findCorrespondingRuFile(deFile, ruFiles);
+
+      if (!ruFile) {
+        this.results.missing++;
+        this.issues.push({
+          type: "MISSING",
+          deFile: deFile.relPath,
+          ruFile: deFile.relPath,
+          severity: "warning",
+        });
+        return;
+      }
+
+      const deContent = fs.readFileSync(deFile.path, "utf8");
+      const ruContent = fs.readFileSync(ruFile.path, "utf8");
+
+      const deFrontmatter = this.extractFrontmatter(deContent);
+      const ruFrontmatter = this.extractFrontmatter(ruContent);
+
+      if (JSON.stringify(deFrontmatter) === JSON.stringify(ruFrontmatter)) {
+        this.results.unchanged++;
+      } else {
+        this.results.outOfSync++;
+        this.analyzeChanges(deFile, ruFile, deFrontmatter, ruFrontmatter, deContent, ruContent);
+      }
+    });
+  }
+
+  findCorrespondingRuFile(deFile, ruFiles) {
+    return ruFiles.find((rf) => {
+      return rf.relPath === deFile.relPath;
+    });
+  }
+
+  extractFrontmatter(content) {
+    const match = content.match(/^---\n([\s\S]*?)\n---/);
+    if (!match) return {};
+
+    try {
+      const yamlContent = match[1];
+      const frontmatter = {};
+
+      // Simple YAML parser for common structures
+      this.parseYaml(yamlContent, frontmatter);
+      return frontmatter;
+    } catch (e) {
+      return {};
+    }
+  }
+
+  parseYaml(content, obj) {
+    const lines = content.split("\n");
+
+    lines.forEach((line) => {
+      if (!line.trim() || line.startsWith("#")) return;
+
+      const match = line.match(/^([a-zA-Z_][a-zA-Z0-9_]*)\s*:\s*(.*)/);
+      if (match) {
+        const key = match[1];
+        const value = match[2].trim();
+
+        if (value.startsWith('"') && value.endsWith('"')) {
+          obj[key] = value.slice(1, -1);
+        } else if (value === "true" || value === "false") {
+          obj[key] = value === "true";
+        } else if (!isNaN(value) && value !== "") {
+          obj[key] = Number(value);
+        } else {
+          obj[key] = value;
+        }
+      }
+    });
+  }
+
+  analyzeChanges(deFile, ruFile, deFrontmatter, ruFrontmatter, deContent, ruContent) {
+    const deMeta = this.extractMetadata(deFile.path);
+    const ruMeta = this.extractMetadata(ruFile.path);
+
+    // Check for structural differences (image paths, sections, etc.)
+    const imagePathsDE = (deContent.match(/images\/[a-zA-Z0-9_\-/.]+/g) || []).sort();
+    const imagePathsRU = (ruContent.match(/images\/[a-zA-Z0-9_\-/.]+/g) || []).sort();
+
+    const missingImages = imagePathsDE.filter((img) => !imagePathsRU.includes(img));
+    const extraImages = imagePathsRU.filter((img) => !imagePathsDE.includes(img));
+
+    if (missingImages.length > 0 || extraImages.length > 0) {
+      this.issues.push({
+        type: "IMAGE_MISMATCH",
+        deFile: deFile.relPath,
+        ruFile: ruFile.relPath,
+        missing: missingImages,
+        extra: extraImages,
+        severity: "warning",
+      });
+    }
+
+    // Check for section structure differences
+    const deSections = (deContent.match(/^## /gm) || []).length;
+    const ruSections = (ruContent.match(/^## /gm) || []).length;
+
+    if (deSections !== ruSections) {
+      this.issues.push({
+        type: "SECTION_COUNT",
+        deFile: deFile.relPath,
+        ruFile: ruFile.relPath,
+        deCount: deSections,
+        ruCount: ruSections,
+        severity: "warning",
+      });
+    }
+
+    // Optionally sync frontmatter if --sync flag is set
+    if (this.mode === "SYNC") {
+      this.syncFrontmatter(ruFile.path, deContent, ruContent);
+    }
+  }
+
+  extractMetadata(filePath) {
+    const content = fs.readFileSync(filePath, "utf8");
+    const lines = content.split("\n");
+    return { lines: lines.length };
+  }
+
+  syncFrontmatter(ruFilePath, deContent, ruContent) {
+    // Extract frontmatter from both
+    const deMatch = deContent.match(/^---\n([\s\S]*?)\n---/);
+    const ruMatch = ruContent.match(/^---\n([\s\S]*?)\n---/);
+
+    if (!deMatch || !ruMatch) return;
+
+    const deFrontmatterText = deMatch[1];
+    const ruFrontmatterText = ruMatch[1];
+
+    // Sync specific fields that shouldn't be localized
+    const syncFields = ["image", "icon", "date", "draft", "weight", "type"];
+    let newRuFrontmatter = ruFrontmatterText;
+
+    syncFields.forEach((field) => {
+      const deLineMatch = deFrontmatterText.match(new RegExp(`^${field}:\\s*(.*)$`, "m"));
+      const ruLineMatch = ruFrontmatterText.match(new RegExp(`^${field}:\\s*(.*)$`, "m"));
+
+      if (deLineMatch && deLineMatch[1] !== ruLineMatch?.[1]) {
+        if (ruLineMatch) {
+          newRuFrontmatter = newRuFrontmatter.replace(
+            new RegExp(`^${field}:\\s*.*$`, "m"),
+            `${field}: ${deLineMatch[1]}`
+          );
+        } else {
+          newRuFrontmatter += `\n${field}: ${deLineMatch[1]}`;
+        }
+      }
+    });
+
+    if (newRuFrontmatter !== ruFrontmatterText) {
+      const updatedRuContent = ruContent.replace(
+        /^---\n[\s\S]*?\n---/,
+        `---\n${newRuFrontmatter}\n---`
+      );
+      fs.writeFileSync(ruFilePath, updatedRuContent, "utf8");
+      this.results.synced++;
+    }
+  }
+
+  printReport() {
+    this.logSection("======================================================================");
+    this.log("📊 TRANSLATION SYNC REPORT", "header");
+    this.logSection("======================================================================\n");
+
+    console.log(`${this.colors.bright}📄 Content Pages:${this.colors.reset}`);
+    console.log(`   Total DE pages: ${this.results.totalPages}`);
+    console.log(
+      `   ${this.colors.green}✅ Up-to-date RU pages: ${this.results.unchanged} ${this.colors.reset}`
+    );
+    console.log(
+      `   ${this.colors.yellow}⚠️  Pages needing sync: ${this.results.outOfSync} ${this.colors.reset}`
+    );
+    console.log(
+      `   ${this.colors.yellow}❌ Missing RU translations: ${this.results.missing} ${this.colors.reset}`
+    );
+
+    if (this.mode === "SYNC" && this.results.synced > 0) {
+      console.log(`   ${this.colors.green}🔄 Synced: ${this.results.synced} ${this.colors.reset}`);
+    }
+
+    if (this.issues.length > 0) {
+      this.logSection("\n📋 Issues Found:\n");
+      this.issues.forEach((issue, idx) => {
+        switch (issue.type) {
+          case "MISSING":
+            console.log(`${this.colors.yellow}[MISSING]${this.colors.reset} ${issue.deFile}`);
+            console.log(`   Expected: ${issue.ruFile}`);
+            break;
+          case "IMAGE_MISMATCH":
+            console.log(`${this.colors.yellow}[IMAGES]${this.colors.reset} ${issue.deFile}`);
+            if (issue.missing.length > 0) {
+              console.log(`   Missing in RU: ${issue.missing.join(", ")}`);
+            }
+            if (issue.extra.length > 0) {
+              console.log(`   Extra in RU: ${issue.extra.join(", ")}`);
+            }
+            break;
+          case "SECTION_COUNT":
+            console.log(`${this.colors.yellow}[SECTIONS]${this.colors.reset} ${issue.deFile}`);
+            console.log(`   DE: ${issue.deCount} sections | RU: ${issue.ruCount} sections`);
+            break;
+        }
+      });
+    } else {
+      this.log("\n✨ All translations are in sync!", "success");
+    }
+
+    this.logSection("======================================================================\n");
+  }
+}
+const agent = new TranslationSyncAgent();
+agent.run();

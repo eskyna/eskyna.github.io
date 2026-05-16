@@ -13,7 +13,10 @@
     "lint-and-format:check": "node bin/lint-and-format",
     "lint-and-format:fix": "node bin/lint-and-format --fix",
     "seo-audit": "node bin/seo-audit",
-    "seo-audit:static": "node bin/seo-audit ./static/outfits"
+    "seo-audit:static": "node bin/seo-audit ./static/outfits",
+    "translation-sync": "node bin/translation-sync",
+    "translation-sync:check": "node bin/translation-sync",
+    "translation-sync:apply": "node bin/translation-sync --sync"
   },
   "devDependencies": {
     "markdownlint-cli2": "^0.22.1",
