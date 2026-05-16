@@ -1,0 +1,62 @@
+{{ $sameAs := slice
+  "https://de.linkedin.com/in/natalia-kleemann-94686b2b3"
+  "https://www.instagram.com/natalia.kleemann/"
+  "https://t.me/Natalia_Klee"
+}}
+{{ $description := (.Description | default .Site.Params.description | plainify) }}
+{{ $website := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" .Site.Title
+  "url" .Site.BaseURL
+  "inLanguage" .Site.Language.Lang
+}}
+{{ $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" (.Site.Params.author | default "Natalia Kleemann")
+  "url" .Site.BaseURL
+  "description" $description
+  "jobTitle" "Style- und Imagecoach"
+  "sameAs" $sameAs
+}}
+{{ $service := dict
+  "@context" "https://schema.org"
+  "@type" "ProfessionalService"
+  "name" "ESKYNA Style & Image Coaching"
+  "url" .Site.BaseURL
+  "description" $description
+  "provider" (dict "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+  "areaServed" (slice "Hannover" "Online")
+}}
+{{ $page := dict
+  "@context" "https://schema.org"
+  "@type" "WebPage"
+  "name" .Title
+  "url" .Permalink
+  "description" $description
+  "inLanguage" .Site.Language.Lang
+  "isPartOf" (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+}}
+<script type="application/ld+json">{{ $website | jsonify | safeJS }}</script>
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+<script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
+<script type="application/ld+json">{{ $page | jsonify | safeJS }}</script>
+{{ with .Params.faq }}
+  {{ with .items }}
+    {{ $mainEntity := slice }}
+    {{ range . }}
+      {{ $mainEntity = $mainEntity | append (dict
+        "@type" "Question"
+        "name" .q
+        "acceptedAnswer" (dict "@type" "Answer" "text" .a)
+      ) }}
+    {{ end }}
+    {{ $faq := dict
+      "@context" "https://schema.org"
+      "@type" "FAQPage"
+      "mainEntity" $mainEntity
+    }}
+<script type="application/ld+json">{{ $faq | jsonify | safeJS }}</script>
+  {{ end }}
+{{ end }}
