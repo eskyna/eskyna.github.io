@@ -1,3 +1,4 @@
+# robots.txt for eskyna.com
 User-agent: *
 Allow: /
 
