@@ -83,7 +83,7 @@ facts:
     Leichtigkeit und bewusste Entscheidungen zu geben."*
 services:
   title: "Finden Sie den Stil, der wirklich zu Ihnen passt"
-  
+
   free:
     subtitle: "Bevor Sie sich für eine persönliche Stilberatung entscheiden, können Sie ESKYNA kostenlos kennenlernen. Nutzen Sie das Kennenlerngespräch, den Stiltest oder die Styling-Tipps als ersten Impuls für mehr Klarheit in Ihrem Stil."
     items:
@@ -97,7 +97,7 @@ services:
         image: "images/10_styling_tipps.png"
         ctaText: "Tipps herunterladen"
         ctaHref: "/10_Styling_Tipps.pdf"
-  
+
   packages:
     title: "Wählen Sie das Angebot, das zu Ihrem nächsten Schritt passt"
     items:
@@ -116,7 +116,7 @@ services:
         ctaText: "ESKYNA Basic buchen"
         ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         featured: false
-      
+
       - name: "ESKYNA Signature"
         headline: "Ihr persönlicher Stil — klar, tragbar und unverwechselbar"
         description: "ESKYNA Signature ist die umfassende Stilberatung für Menschen, die ihren Look nicht dem Zufall überlassen möchten. Gemeinsam entwickeln wir Ihren persönlichen Signature Style — passend zu Ihrer Persönlichkeit, Ihrem Körper, Ihrem Alltag und Ihrer gewünschten Wirkung. Ihr Kleiderschrank wird neu betrachtet, vorhandene Kleidung wird sinnvoll kombiniert und es entsteht ein klares System für Outfits, die wirklich funktionieren."
@@ -135,7 +135,7 @@ services:
         ctaText: "ESKYNA Signature buchen"
         ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         featured: true
-      
+
       - name: "ESKYNA Visibility"
         headline: "Ihr Auftritt, der sichtbar macht, wer Sie sind"
         description: "ESKYNA Visibility ist das Angebot für alle, die professionell, authentisch und sichtbar auftreten möchten. Gemeinsam entwickeln wir ein Styling- und Image-Konzept, das Ihre Persönlichkeit, Kompetenz und Ausstrahlung klar transportiert. Das eignet sich besonders für berufliche Sichtbarkeit, Personal Branding, Fotoshootings, Website-Bilder, LinkedIn, Social Media oder einen neuen professionellen Auftritt."
@@ -154,7 +154,7 @@ services:
         ctaText: "ESKYNA Visibility anfragen"
         ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
         featured: false
-  
+
   comparison:
     title: "Welches Angebot passt zu Ihnen?"
     intro: "Ein kurzer Überblick über die Unterschiede der drei ESKYNA Pakete."
@@ -165,22 +165,19 @@ services:
         - "Für wen?"
         - "Investition"
       rows:
-        - 
-          offer: "ESKYNA Basic"
+        - offer: "ESKYNA Basic"
           focus: "Farben, Schnitte, Stilrichtung"
           audience: "Für den klaren Einstieg"
           investment: "390 €"
-        -
-          offer: "ESKYNA Signature"
+        - offer: "ESKYNA Signature"
           focus: "Garderobe, Outfits, Stil-System"
           audience: "Für nachhaltige Veränderung"
           investment: "890 €"
-        -
-          offer: "ESKYNA Visibility"
+        - offer: "ESKYNA Visibility"
           focus: "Image, Business, Fotos, Sichtbarkeit"
           audience: "Für professionellen Auftritt"
           investment: "1.490 €"
-  
+
   uncertainty:
     title: "Unsicher, welches Angebot das richtige ist?"
     text: "Wenn Sie nicht sicher sind, welches Angebot am besten zu Ihrer aktuellen Situation passt, starten Sie mit einem kostenlosen Kennenlerngespräch. Gemeinsam finden wir heraus, welcher nächste Schritt für Sie sinnvoll ist."

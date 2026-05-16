@@ -665,7 +665,10 @@ h1 {
   border: 1px solid rgb(70 45 30 / 18%);
   border-radius: 22px;
   box-shadow: 0 18px 45px rgb(60 38 24 / 6%);
-  transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+  transition:
+    transform 200ms ease,
+    box-shadow 200ms ease,
+    border-color 200ms ease;
 }
 
 .ps-card:hover {
@@ -750,7 +753,9 @@ h1 {
   letter-spacing: 0.04em;
   border-radius: 999px;
   text-decoration: none;
-  transition: background 180ms ease, transform 180ms ease;
+  transition:
+    background 180ms ease,
+    transform 180ms ease;
 }
 
 .ps-cta-btn:hover {
@@ -1007,8 +1012,7 @@ h1 {
   padding: 1.5rem 1.7rem 1.5rem 1.9rem;
   border-radius: 24px;
   border: 1px solid rgb(255 255 255 / 18%);
-  background:
-    linear-gradient(135deg, rgb(255 255 255 / 18%), rgb(255 255 255 / 8%));
+  background: linear-gradient(135deg, rgb(255 255 255 / 18%), rgb(255 255 255 / 8%));
   backdrop-filter: blur(4px);
   box-shadow: 0 18px 38px rgb(44 30 22 / 14%);
   color: var(--text);
@@ -1274,7 +1278,10 @@ h1 {
   flex-direction: column;
   gap: 1.2rem;
   position: relative;
-  transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+  transition:
+    transform 200ms ease,
+    box-shadow 200ms ease,
+    border-color 200ms ease;
 }
 
 .package-card:hover {
@@ -2695,16 +2702,16 @@ main .hero .hero-copy {
   margin: 0 auto;
 }
 
-.hero-small h1 {
+.shop-page .hero-small h1 {
   color: white;
   font-size: clamp(2rem, 5vw, 3rem);
-  margin: 1.5rem 0 1rem 0;
+  margin: 1.5rem 0 1rem;
   font-family: var(--font-headline);
   font-weight: 700;
 }
 
 .shop-intro {
-  color: rgba(255, 255, 255, 0.95);
+  color: rgb(255 255 255 / 95%);
   font-size: 1.1rem;
   line-height: 1.6;
   max-width: 60ch;
@@ -2728,7 +2735,7 @@ main .hero .hero-copy {
   background: white;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 2px 16px rgba(44, 30, 22, 0.08);
+  box-shadow: 0 2px 16px rgb(44 30 22 / 8%);
   transition: all 0.3s ease;
   display: flex;
   flex-direction: column;
@@ -2738,17 +2745,13 @@ main .hero .hero-copy {
 
 .product-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 28px rgba(44, 30, 22, 0.15);
+  box-shadow: 0 8px 28px rgb(44 30 22 / 15%);
   border-color: var(--accent);
 }
 
 .product-image-wrap {
   overflow: hidden;
-  background: linear-gradient(
-    135deg,
-    rgba(197, 160, 89, 0.1),
-    rgba(227, 213, 200, 0.1)
-  );
+  background: linear-gradient(135deg, rgb(197 160 89 / 10%), rgb(227 213 200 / 10%));
   min-height: 280px;
   display: flex;
   align-items: center;
@@ -2775,7 +2778,7 @@ main .hero .hero-copy {
 }
 
 .product-title {
-  margin: 0 0 0.75rem 0;
+  margin: 0 0 0.75rem;
   font-size: 1.35rem;
   font-family: var(--font-headline);
   color: var(--text);
@@ -2786,7 +2789,7 @@ main .hero .hero-copy {
   color: var(--muted);
   font-size: 0.95rem;
   line-height: 1.5;
-  margin: 0 0 1rem 0;
+  margin: 0 0 1rem;
 }
 
 .product-specs {
@@ -2802,7 +2805,7 @@ main .hero .hero-copy {
   position: relative;
 }
 
-.product-specs li:before {
+.product-specs li::before {
   content: "✓";
   position: absolute;
   left: 0;

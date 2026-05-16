@@ -43,5 +43,5 @@ Den kompletten Ordner auf `https://eskyna.com/style-scan/` oder an eine andere H
 In `app.js` kann der Dienst bei Bedarf geändert werden:
 
 ```js
-const API_BASE_URL = 'https://api.eskyna-style.workers.dev';
+const API_BASE_URL = "https://api.eskyna-style.workers.dev";
 ```

@@ -34,8 +34,8 @@
         { name: "Cherry", hex: "#dc173a", note: "festlich" },
         { name: "Petrol", hex: "#16817a", note: "Allrounder" },
         { name: "Ink Blue", hex: "#184d7c", note: "Marine-Ersatz" },
-        { name: "Denim", hex: "#38627d", note: "Casual" }
-      ]
+        { name: "Denim", hex: "#38627d", note: "Casual" },
+      ],
     },
     {
       id: "clear-winter",
@@ -52,28 +52,44 @@
         { name: "Ice Pink", hex: "#f4b6cd", note: "zart" },
         { name: "Emerald", hex: "#008d78", note: "Schmuckfarbe" },
         { name: "Ruby", hex: "#d30f3b", note: "klassisch" },
-        { name: "Violet", hex: "#693bb8", note: "kreativ" }
-      ]
-    }
+        { name: "Violet", hex: "#693bb8", note: "kreativ" },
+      ],
+    },
   ];
 
   const looks = [
-    { title: "Business soft", items: ["Stone", "Ink Blue", "Muted Pink"], vibe: "souverän, ruhig, kompetent" },
-    { title: "Date night", items: ["Smoky Plum", "Cherry", "Ice Grey"], vibe: "edel, feminin, nicht laut" },
-    { title: "Casual clean", items: ["Denim", "Powder Blue", "Dusty Aqua"], vibe: "frisch, unkompliziert, hochwertig" }
+    {
+      title: "Business soft",
+      items: ["Stone", "Ink Blue", "Muted Pink"],
+      vibe: "souverän, ruhig, kompetent",
+    },
+    {
+      title: "Date night",
+      items: ["Smoky Plum", "Cherry", "Ice Grey"],
+      vibe: "edel, feminin, nicht laut",
+    },
+    {
+      title: "Casual clean",
+      items: ["Denim", "Powder Blue", "Dusty Aqua"],
+      vibe: "frisch, unkompliziert, hochwertig",
+    },
   ];
 
   const icons = {
-    heart: "M12 21s-7-4.4-9.5-8.4C.4 9.1 2.1 5 6.1 5c2 0 3.4 1.1 4.1 2.2C10.9 6.1 12.3 5 14.3 5c4 0 5.7 4.1 3.6 7.6C19 16.6 12 21 12 21z",
-    camera: "M4 7h3l1.4-2h7.2L17 7h3a2 2 0 012 2v9a2 2 0 01-2 2H4a2 2 0 01-2-2V9a2 2 0 012-2zm8 11a4 4 0 100-8 4 4 0 000 8z",
-    check: "M9.2 16.2L4.8 11.8l-1.4 1.4 5.8 5.8L21 7.2l-1.4-1.4L9.2 16.2z"
+    heart:
+      "M12 21s-7-4.4-9.5-8.4C.4 9.1 2.1 5 6.1 5c2 0 3.4 1.1 4.1 2.2C10.9 6.1 12.3 5 14.3 5c4 0 5.7 4.1 3.6 7.6C19 16.6 12 21 12 21z",
+    camera:
+      "M4 7h3l1.4-2h7.2L17 7h3a2 2 0 012 2v9a2 2 0 01-2 2H4a2 2 0 01-2-2V9a2 2 0 012-2zm8 11a4 4 0 100-8 4 4 0 000 8z",
+    check: "M9.2 16.2L4.8 11.8l-1.4 1.4 5.8 5.8L21 7.2l-1.4-1.4L9.2 16.2z",
   };
 
   let state = {
     paletteId: getQueryPalette() || localStorage.getItem("eskyna.palette") || "soft-summer",
     tab: "karte",
     selected: 0,
-    favorites: JSON.parse(localStorage.getItem("eskyna.favorites") || "[\"Ink Blue\",\"Petrol\",\"Muted Pink\"]")
+    favorites: JSON.parse(
+      localStorage.getItem("eskyna.favorites") || '["Ink Blue","Petrol","Muted Pink"]'
+    ),
   };
 
   let installPrompt = null;
@@ -101,7 +117,11 @@
   }
 
   function colorByName(name, selectedPalette) {
-    return selectedPalette.colors.find((c) => c.name === name) || palettes[0].colors.find((c) => c.name === name) || selectedPalette.colors[0];
+    return (
+      selectedPalette.colors.find((c) => c.name === name) ||
+      palettes[0].colors.find((c) => c.name === name) ||
+      selectedPalette.colors[0]
+    );
   }
 
   function clover(className = "", soft = false) {
@@ -130,9 +150,13 @@
           </div>
 
           <div class="selector" role="tablist" aria-label="Farbtypen">
-            ${palettes.map((item) => `
+            ${palettes
+              .map(
+                (item) => `
               <button type="button" data-palette="${item.id}" class="${item.id === state.paletteId ? "active" : ""}">${item.type}</button>
-            `).join("")}
+            `
+              )
+              .join("")}
           </div>
         </header>
 
@@ -162,9 +186,13 @@
           </section>
 
           <nav class="tabs" aria-label="Bereiche">
-            ${["karte", "looks", "shop"].map((tab) => `
+            ${["karte", "looks", "shop"]
+              .map(
+                (tab) => `
               <button type="button" data-tab="${tab}" class="${state.tab === tab ? "active" : ""}">${tab}</button>
-            `).join("")}
+            `
+              )
+              .join("")}
           </nav>
 
           <section class="panel">${renderPanel(p, active)}</section>
@@ -182,7 +210,9 @@
 
   function renderPanel(p, active) {
     if (state.tab === "looks") {
-      return looks.map((look) => `
+      return looks
+        .map(
+          (look) => `
         <button type="button" class="look-card-mobile">
           <div class="look-head">
             <div>
@@ -194,7 +224,9 @@
           <div class="look-color-grid">
             ${look.items.map((name) => `<div style="background:${colorByName(name, p).hex}" title="${name}"></div>`).join("")}
           </div>
-        </button>`).join("");
+        </button>`
+        )
+        .join("");
     }
 
     if (state.tab === "shop") {
@@ -221,10 +253,14 @@
     return `
       <div class="panel-head"><h3>Palette</h3><span>${p.colors.length} Farben</span></div>
       <div class="swatch-grid">
-        ${p.colors.map((color, index) => `
+        ${p.colors
+          .map(
+            (color, index) => `
           <button type="button" class="swatch ${index === state.selected ? "active" : ""}" data-color="${index}" style="background:${color.hex}" aria-label="${color.name} ${color.hex}">
             ${index === state.selected ? `<span>${icon("check")}</span>` : ""}
-          </button>`).join("")}
+          </button>`
+          )
+          .join("")}
       </div>
       <article class="selected-card">
         <div class="selected-chip" style="background:${active.hex}"></div>
@@ -283,7 +319,11 @@
 
         if (navigator.share) {
           try {
-            await navigator.share({ title: "Eskyna Farbkarte", text: "Meine persönliche Eskyna Farbkarte", url });
+            await navigator.share({
+              title: "Eskyna Farbkarte",
+              text: "Meine persönliche Eskyna Farbkarte",
+              url,
+            });
             return;
           } catch (error) {
             if (error && error.name === "AbortError") return;

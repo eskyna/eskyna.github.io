@@ -4,7 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#2f241f" />
-    <meta name="description" content="EStyle (beta): Portraitfoto aufnehmen, analysieren und klare Stil-Impulse erhalten." />
+    <meta
+      name="description"
+      content="EStyle (beta): Portraitfoto aufnehmen, analysieren und klare Stil-Impulse erhalten."
+    />
     <title>EStyle (beta)</title>
 
     <link rel="manifest" href="./manifest.webmanifest" />
@@ -26,9 +29,7 @@
           <small>(beta)</small>
         </span>
       </div>
-      <button class="ghost-button" id="installButton" hidden type="button">
-        App installieren
-      </button>
+      <button class="ghost-button" id="installButton" hidden type="button">App installieren</button>
     </header>
 
     <main>
@@ -37,8 +38,8 @@
           <p class="eyebrow">EStyle (beta) · Fotoanalyse</p>
           <h1 id="hero-title">Nehmen Sie ein Portraitfoto auf und starten Sie die Analyse.</h1>
           <p class="lead">
-            Die App fokussiert sich auf einen klaren Ablauf: Foto hochladen, analysieren und direkt umsetzbare Hinweise
-            zu Farben, Silhouette und Gesamteindruck erhalten.
+            Die App fokussiert sich auf einen klaren Ablauf: Foto hochladen, analysieren und direkt
+            umsetzbare Hinweise zu Farben, Silhouette und Gesamteindruck erhalten.
           </p>
           <div class="hero-actions">
             <a class="primary-link" href="#analyse">Foto analysieren</a>
@@ -46,8 +47,15 @@
           </div>
 
           <div class="install-promo" aria-label="App Installation">
-            <p id="installHint">Installieren Sie die App auf Ihrem Smartphone und starten Sie die Fotoanalyse direkt vom Home-Bildschirm.</p>
-            <button class="primary-button install-promo-button" id="installPromoButton" type="button">
+            <p id="installHint">
+              Installieren Sie die App auf Ihrem Smartphone und starten Sie die Fotoanalyse direkt
+              vom Home-Bildschirm.
+            </p>
+            <button
+              class="primary-button install-promo-button"
+              id="installPromoButton"
+              type="button"
+            >
               App jetzt installieren
             </button>
           </div>
@@ -59,14 +67,21 @@
           <p class="eyebrow">Fotoanalyse</p>
           <h2 id="analysis-title">Foto aufnehmen und analysieren</h2>
           <p>
-            Am besten funktioniert ein gut belichtetes Portraitfoto mit ruhigem Hintergrund und natürlicher Haltung.
+            Am besten funktioniert ein gut belichtetes Portraitfoto mit ruhigem Hintergrund und
+            natürlicher Haltung.
           </p>
         </div>
 
         <div class="scanner-grid">
           <div class="capture-card">
             <label class="drop-zone" id="dropZone" for="photoInput">
-              <input id="photoInput" name="photo" type="file" accept="image/*" capture="environment" />
+              <input
+                id="photoInput"
+                name="photo"
+                type="file"
+                accept="image/*"
+                capture="environment"
+              />
               <span class="drop-icon" aria-hidden="true">⌁</span>
               <strong>Portraitfoto aufnehmen oder auswählen</strong>
               <small>JPG, PNG oder direkt aus der Kamera</small>
@@ -103,7 +118,8 @@
 
             <div class="empty-state" id="emptyState">
               <p>
-                Nach der Analyse erscheinen hier Zusammenfassung, Empfehlungen und die optionalen Rohdaten.
+                Nach der Analyse erscheinen hier Zusammenfassung, Empfehlungen und die optionalen
+                Rohdaten.
               </p>
             </div>
 
@@ -135,7 +151,8 @@
     <footer class="site-footer">
       <p>© EStyle (beta) · Demo-PWA für digitale Stilanalyse</p>
       <p class="fineprint">
-        Hinweis: Die Analyse ersetzt keine persönliche Beratung. Fotos werden nur zur Auswertung an den konfigurierten Dienst gesendet.
+        Hinweis: Die Analyse ersetzt keine persönliche Beratung. Fotos werden nur zur Auswertung an
+        den konfigurierten Dienst gesendet.
       </p>
     </footer>
   </body>
