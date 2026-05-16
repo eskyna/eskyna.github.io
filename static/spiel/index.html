@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Style Run | Eskyna</title>
+    <meta
+      name="description"
+      content="Style Run ist ein kleines Eskyna Browser-Spiel: Sammle Stil-Sicherheit, vermeide Fehlkäufe und finde schneller passende Outfits."
+    />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Style Run | Eskyna" />
+    <meta
+      property="og:description"
+      content="Der Morgen-vor-dem-Kleiderschrank-Runner: mehr Stil-Sicherheit, weniger Fehlkäufe, schnellere Outfit-Entscheidungen."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#15110d" />
+    <link rel="preload" as="image" href="https://eskyna.com/images/Natalia_white_hero.png" />
+    <link rel="preload" as="image" href="https://eskyna.com/images/sign.png" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero" aria-labelledby="game-title">
+        <div class="hero__copy">
+          <p class="eyebrow">Eskyna präsentiert</p>
+          <h1 id="game-title">Style Run</h1>
+          <p class="lead">
+            Der Morgen-vor-dem-Kleiderschrank-Runner: Begleite Natalia, sammle Eskyna-Kleeblätter
+            für Stil-Sicherheit und weiche Fehlkäufen, Zeitdruck und Garderoben-Chaos aus.
+          </p>
+        </div>
+        <div class="hero__badge" aria-label="EStyle Hinweis">
+          <span>EStyle-ID</span>
+          <strong>Style-Impuls am Ende</strong>
+        </div>
+      </section>
+
+      <section class="game-card" aria-label="Style Run Spielbereich">
+        <div class="hud" aria-hidden="true">
+          <div class="hud__item">
+            <span>Stil-Sicherheit</span>
+            <strong id="scoreText">0</strong>
+          </div>
+          <div class="hud__item">
+            <span>Highscore</span>
+            <strong id="bestText">0</strong>
+          </div>
+          <div class="hud__item hud__item--wide">
+            <span>Level</span>
+            <strong id="levelText">Morgenroutine</strong>
+          </div>
+        </div>
+
+        <div class="canvas-wrap">
+          <canvas
+            id="gameCanvas"
+            width="960"
+            height="420"
+            role="img"
+            aria-label="Endless Runner Spiel: Natalia sammelt Eskyna-Kleeblätter und weicht Hindernissen aus."
+          ></canvas>
+
+          <div id="startOverlay" class="overlay overlay--visible">
+            <div class="overlay__panel">
+              <p class="eyebrow">MVP Browser-Game</p>
+              <h2>Bereit für mehr Stil-Sicherheit?</h2>
+              <p>
+                Springe über <strong>Fehlkäufe</strong> und <strong>Chaos-Schränke</strong>, ducke
+                dich unter <strong>Trend-Fallen</strong> und sammle Eskyna-Kleeblätter, passende
+                Farben, Accessoires und Outfit-Ideen.
+              </p>
+              <div class="controls-grid" aria-label="Steuerung">
+                <span><kbd>Leertaste</kbd> / <kbd>↑</kbd> Springen</span>
+                <span><kbd>↓</kbd> Ducken</span>
+                <span><kbd>P</kbd> Pause</span>
+                <span>Mobil: Tippen & Wischen</span>
+              </div>
+              <button class="primary-btn" id="startButton" type="button">Spiel starten</button>
+            </div>
+          </div>
+
+          <div id="pauseOverlay" class="overlay" aria-hidden="true">
+            <div class="overlay__panel overlay__panel--small">
+              <h2>Kurze Outfit-Pause</h2>
+              <p>Drücke <kbd>P</kbd> oder tippe auf „Weiter“, um den Lauf fortzusetzen.</p>
+              <button class="primary-btn" id="resumeButton" type="button">Weiter</button>
+            </div>
+          </div>
+
+          <div id="endOverlay" class="overlay" aria-hidden="true">
+            <div class="overlay__panel">
+              <p class="eyebrow">Dein Style-Impuls</p>
+              <h2 id="resultTitle">Gut kombiniert!</h2>
+              <p id="resultText">Du hast Stil-Sicherheit gesammelt.</p>
+              <div class="result-stats" aria-label="Spielergebnis">
+                <div><span>Punkte</span><strong id="finalScore">0</strong></div>
+                <div><span>Gesammelt</span><strong id="finalItems">0</strong></div>
+                <div><span>Bestwert</span><strong id="finalBest">0</strong></div>
+              </div>
+              <div class="button-row">
+                <button class="primary-btn" id="restartButton" type="button">
+                  Noch mal laufen
+                </button>
+                <a class="secondary-btn" href="/estyle" id="estyleLink">EStyle-ID testen</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mobile-controls" aria-label="Mobile Spielsteuerung">
+          <button id="duckButton" type="button" aria-label="Ducken">Ducken</button>
+          <button id="jumpButton" type="button" aria-label="Springen">Springen</button>
+        </div>
+
+        <p class="sr-only" id="liveStatus" aria-live="polite">Spiel bereit.</p>
+      </section>
+
+      <section class="brand-strip" aria-label="Eskyna Markenbotschaft">
+        <div>
+          <strong>Weniger Fehlkäufe</strong>
+          <span>bewusster wählen</span>
+        </div>
+        <div>
+          <strong>Schneller entscheiden</strong>
+          <span>Outfits klar kombinieren</span>
+        </div>
+        <div>
+          <strong>Mehr System</strong>
+          <span>Garderobe verstehen</span>
+        </div>
+        <div>
+          <strong>EStyle erleben</strong>
+          <span>KI-gestützte Impulse</span>
+        </div>
+      </section>
+    </main>
+
+    <script src="./game.js" defer></script>
+  </body>
+</html>

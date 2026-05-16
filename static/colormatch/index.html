@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#16151b" />
+    <title>Color Match Dash | Eskyna</title>
+    <meta
+      name="description"
+      content="Ein schnelles Farbspiel: Sammle die passenden Farben für Anlass, Stil und Ausstrahlung."
+    />
+    <link rel="preload" href="styles.css" as="style" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="game-shell" aria-labelledby="game-title">
+      <section class="hero-panel">
+        <div class="brand-line" aria-label="Eskyna Game">
+          <span class="brand-mark">E</span>
+          <span>ESKYNA</span>
+        </div>
+        <div class="hero-copy">
+          <p class="eyebrow">Color Match Dash</p>
+          <h1 id="game-title">Sammle Farben, die zum Anlass passen.</h1>
+          <p>
+            Farben wirken nie zufaellig: Entscheide blitzschnell, welche Toene Ausstrahlung geben
+            und welche Kombinationen den Look stoeren.
+          </p>
+        </div>
+      </section>
+
+      <section class="game-card" aria-label="Spielbereich">
+        <header class="hud" aria-live="polite">
+          <div class="occasion-card">
+            <span class="label">Anlass</span>
+            <strong id="occasion-title">Business Meeting</strong>
+            <small id="occasion-hint">Souveraen, klar und ruhig.</small>
+          </div>
+          <div class="stat-grid">
+            <div class="stat"><span>Score</span><strong id="score">0</strong></div>
+            <div class="stat"><span>Zeit</span><strong id="time">60</strong></div>
+            <div class="stat"><span>Serie</span><strong id="streak">0</strong></div>
+          </div>
+        </header>
+
+        <div class="aura-wrap" aria-label="Ausstrahlung">
+          <div class="aura-topline">
+            <span>Ausstrahlung</span>
+            <strong id="aura-value">100%</strong>
+          </div>
+          <div
+            class="aura-meter"
+            role="meter"
+            aria-valuemin="0"
+            aria-valuemax="100"
+            aria-valuenow="100"
+            id="aura-meter"
+          >
+            <span id="aura-bar"></span>
+          </div>
+        </div>
+
+        <div
+          class="stage"
+          id="stage"
+          aria-label="Vorbeifliegende Farben. Tippe passende Farbkacheln an."
+        >
+          <div class="stage-glow"></div>
+          <div class="message" id="message">Bereit für den ersten Anlass?</div>
+        </div>
+
+        <footer class="combo-panel">
+          <div class="combo-copy">
+            <span class="label">Deine Kombination</span>
+            <strong id="combo-status">Waehle 3 stimmige Farben</strong>
+          </div>
+          <div class="combo-slots" id="combo-slots" aria-label="Ausgewaehlte Farben">
+            <span></span><span></span><span></span>
+          </div>
+        </footer>
+
+        <div class="controls">
+          <button class="primary" id="start-btn" type="button">Spiel starten</button>
+          <button id="pause-btn" type="button" disabled>Pause</button>
+          <button id="restart-btn" type="button">Neu starten</button>
+        </div>
+      </section>
+    </main>
+
+    <dialog class="modal" id="intro-modal" open>
+      <div class="modal-card">
+        <span class="pill">60 Sekunden Farbgefuehl</span>
+        <h2>Color Match Dash</h2>
+        <p>
+          Ob Business Meeting, Date, Kundentermin oder Alltag: Tippe nur die Farben an, die zum
+          Anlass passen. Gute Farben bringen Punkte, falsche Farben kosten Ausstrahlung.
+        </p>
+        <ul>
+          <li>3 passende Farben bilden eine Kombination.</li>
+          <li>Serien bringen Bonuspunkte.</li>
+          <li>Faellt Ausstrahlung auf 0, ist die Runde vorbei.</li>
+        </ul>
+        <button class="primary wide" id="play-now" type="button">Los geht's</button>
+      </div>
+    </dialog>
+
+    <dialog class="modal" id="result-modal">
+      <div class="modal-card result">
+        <span class="pill" id="result-rank">Farbgefuehl aktiviert</span>
+        <h2 id="result-title">Runde beendet</h2>
+        <p id="result-text"></p>
+        <div class="result-grid">
+          <div><span>Score</span><strong id="final-score">0</strong></div>
+          <div><span>Highscore</span><strong id="high-score">0</strong></div>
+        </div>
+        <a class="cta" href="/" id="cta-link">Mehr Sicherheit mit deinem digitalen Farbpass</a>
+        <button class="primary wide" id="again-btn" type="button">Noch eine Runde</button>
+      </div>
+    </dialog>
+
+    <noscript>Dieses Spiel benoetigt JavaScript.</noscript>
+    <script src="game.js" defer></script>
+  </body>
+</html>
