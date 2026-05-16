@@ -15,12 +15,11 @@ image: "images/sign.png"
 
 ## Ответственное лицо
 
-<address>
-Natalia Kleemann<br>
-Wilhelm-Michel-Straße 10<br>
-04249 Leipzig, Deutschland<br>
-Электронная почта: <a href="mailto:natalia@eskyna.com">natalia@eskyna.com</a>
-</address>
+Natalia Kleemann\
+Wilhelm-Michel-Straße 10\
+04249 Leipzig, Deutschland
+
+Электронная почта: [natalia@eskyna.com](mailto:natalia@eskyna.com)
 
 ## Основные правовые основания
 
