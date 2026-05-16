@@ -1385,7 +1385,7 @@ h1 {
   line-height: 1.6;
 }
 
-.package-result strong {
+.package-result-label {
   color: var(--accent-strong);
   font-weight: 700;
 }

@@ -178,7 +178,7 @@
                 <p class="package-note">{{ . }}</p>
               {{ end }}
               {{ with .result }}
-                <p class="package-result"><strong>Ergebnis:</strong> {{ . }}</p>
+                <p class="package-result"><span class="package-result-label">{{ $ui.result_label }}</span> {{ . }}</p>
               {{ end }}
               <div class="package-cta">
                 <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ctaText }}</a>
