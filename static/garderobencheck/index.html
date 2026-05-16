@@ -31,8 +31,59 @@
 
   <title>estyle_stiltest</title>
   <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="/css/flutter-body-cursor.css">
 </head>
 <body>
+  <script>
+    (function () {
+      const cursorClassPrefix = "flutter-cursor-";
+      const knownCursors = new Set([
+        "default",
+        "pointer",
+        "text",
+        "move",
+        "wait",
+        "crosshair",
+        "not-allowed",
+        "grab",
+        "grabbing",
+      ]);
+
+      function clearCursorClasses() {
+        document.body.classList.forEach((cls) => {
+          if (cls.startsWith(cursorClassPrefix)) {
+            document.body.classList.remove(cls);
+          }
+        });
+      }
+
+      function normalizeBodyStyle() {
+        const raw = document.body.getAttribute("style");
+        if (!raw) return;
+
+        const probe = document.createElement("div");
+        probe.style.cssText = raw;
+        const cursorValue = (probe.style.cursor || "").trim().toLowerCase();
+
+        clearCursorClasses();
+        if (knownCursors.has(cursorValue)) {
+          document.body.classList.add(`${cursorClassPrefix}${cursorValue}`);
+        }
+
+        probe.style.cursor = "";
+        const remaining = probe.style.cssText.trim();
+        if (remaining) {
+          document.body.setAttribute("style", remaining);
+        } else {
+          document.body.removeAttribute("style");
+        }
+      }
+
+      const observer = new MutationObserver(normalizeBodyStyle);
+      observer.observe(document.body, { attributes: true, attributeFilter: ["style"] });
+      normalizeBodyStyle();
+    })();
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

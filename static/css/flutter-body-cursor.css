@@ -1,0 +1,35 @@
+body.flutter-cursor-default {
+  cursor: default;
+}
+
+body.flutter-cursor-pointer {
+  cursor: pointer;
+}
+
+body.flutter-cursor-text {
+  cursor: text;
+}
+
+body.flutter-cursor-move {
+  cursor: move;
+}
+
+body.flutter-cursor-wait {
+  cursor: wait;
+}
+
+body.flutter-cursor-crosshair {
+  cursor: crosshair;
+}
+
+body.flutter-cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+body.flutter-cursor-grab {
+  cursor: grab;
+}
+
+body.flutter-cursor-grabbing {
+  cursor: grabbing;
+}
