@@ -5,7 +5,7 @@
   {{ if $isLegalPage }}
   <div class="privacy-clover-column" aria-hidden="true">
     {{ range seq 1 10 }}
-    <img src="{{ "images/sign_gold.png" | relURL }}" alt="" class="privacy-clover-mark">
+    <img src="{{ "images/sign_gold.png" | relURL }}" alt="Eskyna Kleeblatt-Symbol in Gold" class="privacy-clover-mark">
     {{ end }}
   </div>
   {{ end }}
@@ -47,7 +47,7 @@
       </div>
       <p class="process-outro">{{ .outro }}</p>
       {{ if and (isset . "ctaHref") (isset . "ctaText") }}
-      <a class="btn" href="{{ .ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ .ctaText }}</a>
+      <a class="btn" href="{{ .ctaHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ .ctaText }}</a>
       {{ end }}
     </div>
   </section>

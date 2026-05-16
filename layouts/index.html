@@ -30,7 +30,7 @@
         <h1>{{ $hero.headline }}</h1>
         <div class="lead">{{ $hero.text | markdownify }}</div>
         <div class="hero-actions">
-          <a class="btn" href="{{ $hero.ctaHref }}"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $hero.ctaText }}</a>
+          <a class="btn" href="{{ $hero.ctaHref }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $hero.ctaText }}</a>
         </div>
         {{ with $hero.trust }}
         <div class="hero-trust">
@@ -87,9 +87,9 @@
         <h2>{{ $coach.title }}</h2>
         <p>{{ $coach.text }}</p>
         <div class="coach-actions">
-          <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $coach.buttonText }}</a>
+          <a class="btn" href="{{ $coach.buttonHref }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $coach.buttonText }}</a>
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
-          <a class="btn btn-secondary" href="{{ $ui.coach_about_cta_href | relURL }}"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ui.coach_about_cta_text }}</a>
+          <a class="btn btn-secondary" href="{{ $ui.coach_about_cta_href | relURL }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.coach_about_cta_text }}</a>
           {{ end }}
         </div>
       </div>
@@ -181,7 +181,7 @@
                 <p class="package-result"><strong>Ergebnis:</strong> {{ . }}</p>
               {{ end }}
               <div class="package-cta">
-                <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ctaText }}</a>
+                <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ctaText }}</a>
               </div>
             </article>
           {{ end }}
@@ -242,7 +242,7 @@
         {{ range .steps }}
         <article class="method-step">
           <div class="method-step-icon">
-            <img src="{{ .icon | relURL }}" alt="" class="method-step-img" aria-hidden="true">
+            <img src="{{ .icon | relURL }}" alt="Symbol fuer {{ .title }}" class="method-step-img" aria-hidden="true">
           </div>
           <p class="method-step-badge">{{ .letter }}</p>
           <h3 class="method-step-title">{{ .title }}</h3>
@@ -301,7 +301,7 @@
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
         <div style="margin-top: 1.5rem;">
-          <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
+          <a class="btn" href="{{ $ui.faq_cta_href }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
         </div>
       </div>
       <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" class="signature-photo">
