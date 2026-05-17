@@ -17,38 +17,6 @@
     }
   }
 
-  function detectBrowserLanguage() {
-    var langs = [];
-    if (Array.isArray(navigator.languages) && navigator.languages.length > 0) {
-      langs = navigator.languages;
-    } else if (navigator.language) {
-      langs = [navigator.language];
-    }
-
-    for (var i = 0; i < langs.length; i += 1) {
-      if (String(langs[i]).toLowerCase().indexOf("ru") === 0) {
-        return "ru";
-      }
-    }
-
-    return "de";
-  }
-
-  function applyAutoRedirect() {
-    var path = window.location.pathname;
-    var isRoot = path === "/" || path === "/index.html";
-
-    if (!isRoot) {
-      return;
-    }
-
-    var preferred = getStoredLanguage() || detectBrowserLanguage();
-
-    if (preferred === "ru") {
-      window.location.replace("/ru/");
-    }
-  }
-
   function bindLanguageLinks() {
     var links = document.querySelectorAll(".language-link[data-lang]");
     for (var i = 0; i < links.length; i += 1) {
@@ -61,6 +29,5 @@
     }
   }
 
-  applyAutoRedirect();
   document.addEventListener("DOMContentLoaded", bindLanguageLinks);
 })();

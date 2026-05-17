@@ -21,8 +21,215 @@
 <link rel="apple-touch-startup-image" href="{{ "images/apple-startup-icon.png" | relURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | absURL }}">
-<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
-<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+<script>
+  (function () {
+    var key = "eskynaPreferredLanguage";
+    var path = window.location.pathname;
+    var isRoot = path === "/" || path === "/index.html";
+    if (!isRoot) return;
+
+    var preferred = null;
+    try {
+      preferred = window.localStorage.getItem(key);
+    } catch (err) {
+      preferred = null;
+    }
+
+    if (!preferred) {
+      var langs = [];
+      if (Array.isArray(navigator.languages) && navigator.languages.length > 0) {
+        langs = navigator.languages;
+      } else if (navigator.language) {
+        langs = [navigator.language];
+      }
+
+      preferred = "de";
+      for (var i = 0; i < langs.length; i += 1) {
+        if (String(langs[i]).toLowerCase().indexOf("ru") === 0) {
+          preferred = "ru";
+          break;
+        }
+      }
+    }
+
+    if (preferred === "ru") {
+      window.location.replace("/ru/");
+    }
+  })();
+</script>
+
+<style>
+  @font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/fonts/S6uyw4BMUTPHvxk.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/fonts/S6u9w4BMUTPHh6UVew8.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf") format("truetype");
+  }
+
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-display: swap;
+    src: url("/fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf")
+      format("truetype");
+  }
+
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: normal;
+    font-display: swap;
+    src: url("/fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf")
+      format("truetype");
+  }
+
+  @font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-display: swap;
+    src: url("/fonts/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf")
+      format("truetype");
+  }
+
+  @font-face {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf") format("truetype");
+  }
+</style>
+
+<style>
+  :root {
+    --text: #2c1e16;
+    --accent: #c5a059;
+    --accent-strong: #8b5e34;
+    --max-width: 1120px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: "Open Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    color: var(--text);
+    background: #f6f1ea;
+    line-height: 1.55;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .container {
+    width: min(100% - 3rem, var(--max-width));
+    margin: 0 auto;
+  }
+
+  .section {
+    padding-block: 3rem;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    min-height: 46px;
+    padding: 0.6rem 1.2rem;
+    border: 1px solid rgb(44 30 22 / 14%);
+    border-radius: 999px;
+    background: rgb(255 255 255 / 75%);
+    color: var(--accent-strong);
+    font-weight: 700;
+  }
+
+  {{ if .IsHome }}
+    .hero {
+      min-height: 94vh;
+      background: #4a352a;
+      color: #fff;
+    }
+
+    .hero-grid {
+      min-height: 94vh;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      align-items: center;
+    }
+
+    .hero h1 {
+      margin: 0 0 1rem;
+      max-width: 12ch;
+      font-family: Montserrat, "Helvetica Neue", helvetica, arial, sans-serif;
+      font-size: clamp(2rem, 5vw, 3.8rem);
+      line-height: 1.06;
+      color: #fff;
+    }
+
+    .hero .lead {
+      margin: 0 0 1.25rem;
+      max-width: 52ch;
+      color: rgb(255 255 255 / 86%);
+    }
+
+    @media (width <= 900px) {
+      .hero-grid {
+        grid-template-columns: 1fr;
+        align-items: end;
+      }
+    }
+  {{ end }}
+</style>
+
+<link rel="preload" href="{{ "css/main.css" | relURL }}" as="style">
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="{{ "css/main.css" | relURL }}"></noscript>
 
 {{ if .IsHome }}
   {{ range .AllTranslations -}}
@@ -33,4 +240,4 @@
 
 {{ partial "schema.html" . }}
 
-<script src="{{ "js/language-preference.js" | relURL }}"></script>
+<script src="{{ "js/language-preference.js" | relURL }}" defer></script>
