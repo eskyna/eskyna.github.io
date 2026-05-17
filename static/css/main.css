@@ -1016,6 +1016,7 @@ h1 {
 .free-offer-image-contain {
   object-fit: contain;
   background: rgb(255 255 255 / 80%);
+  align-self: center;
 }
 
 .free-offer-card h4 {
