@@ -477,7 +477,7 @@ h1 {
 #kontakt {
   background-image:
     linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
-    url("/images/background_linen_shapes.jpg");
+    url("/images/background_linen_shapes.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -590,7 +590,7 @@ h1 {
 /* ─── Problems Section – Premium Editorial ───────────────────── */
 
 .ps-section {
-  background: url("/images/background_problems.jpg");
+  background: url("/images/background_problems.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -811,7 +811,7 @@ h1 {
 .benefits-section {
   background-image:
     linear-gradient(180deg, rgb(246 241 234 / 58%), rgb(246 241 234 / 68%)),
-    url("/images/background_dark_cloth.jpg");
+    url("/images/background_dark_cloth.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1503,7 +1503,7 @@ h1 {
 .references-section {
   background-image:
     linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
-    url("/images/background_dark_cloth.jpg");
+    url("/images/background_dark_cloth.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2121,7 +2121,7 @@ h1 {
 
 .faq-section {
   padding: 6rem 0;
-  background: url("/images/background_style_language.jpg");
+  background: url("/images/background_style_language.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

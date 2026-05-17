@@ -1,7 +1,7 @@
 ---
 title: "Garderoben Check"
 eyebrow: "Ihr Basic-Wardrobe-Check"
-image: "images/Nati3.jpg"
+image: "images/Nati3.png"
 ---
 
 Mit diesem **Garderoben Check** finden Sie schnell heraus, ob Sie eine solide Basis haben - und welche

@@ -102,7 +102,7 @@ Content is written in **Markdown** with YAML frontmatter for metadata:
 ---
 title: "Page Title"
 eyebrow: "Subtitle"
-image: "images/photo.jpg"
+image: "images/photo.png"
 ---
 
 # Content starts here

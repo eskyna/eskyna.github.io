@@ -96,10 +96,10 @@ fi
 
 ```html
 <!-- Falsch ❌ -->
-<img src="portrait.jpg" />
+<img src="portrait.png" />
 
 <!-- Richtig ✅ -->
-<img src="portrait.jpg" alt="Natalia Kleemann" title="Natalia Kleemann" />
+<img src="portrait.png" alt="Natalia Kleemann" title="Natalia Kleemann" />
 ```
 
 ### Seitentitel (30-60 Zeichen)

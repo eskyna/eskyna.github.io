@@ -36,7 +36,7 @@ problems:
       icon: "images/problems/DasGewisseEtwas.png"
 results:
   title: "Das gewinnen Sie durch die Zusammenarbeit"
-  background: "images/style/telegram-cloud-document-2-5409001200341258794.jpg"
+  background: "images/style/telegram-cloud-document-2-5409001200341258794.png"
   items:
     - title: "Sie wissen, welche Outfits wirklich funktionieren"
       text: "Sie kennen Ihre Farben, Schnitte und Kombinationen und entscheiden morgens schneller und sicherer."
@@ -89,7 +89,7 @@ services:
     items:
       - title: "Kostenloser Stiltest"
         text: "Der ideale Einstieg, wenn Sie Ihren Stil besser verstehen und erste Orientierung gewinnen möchten."
-        image: "images/stiltest.jpg"
+        image: "images/stiltest.png"
         ctaText: "Stiltest machen"
         ctaHref: "/hannover2026/"
       - title: "10 Styling-Tipps (PDF)"

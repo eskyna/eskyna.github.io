@@ -37,7 +37,7 @@ problems:
       icon: "images/problems/DasGewisseEtwas.png"
 results:
   title: "Что вы получаете благодаря сотрудничеству"
-  background: "images/style/telegram-cloud-document-2-5409001200341258794.jpg"
+  background: "images/style/telegram-cloud-document-2-5409001200341258794.png"
   items:
     - title: "Вы знаете, какие образы действительно работают"
       text: "Вы знаете свои цвета, фасоны и сочетания и быстрее принимаете уверенные решения каждым утром."
@@ -88,7 +88,7 @@ services:
     items:
       - title: "Бесплатный стилевой тест"
         text: "Идеальный старт, если вы хотите лучше понять свой стиль и получить первые ориентиры."
-        image: "images/stiltest.jpg"
+        image: "images/stiltest.png"
         ctaText: "Пройти стилевой тест"
         ctaHref: "/hannover2026/"
       - title: "10 советов по стилю (PDF)"
