@@ -30,7 +30,7 @@
         <h1>{{ $hero.headline }}</h1>
         <div class="lead">{{ $hero.text | markdownify }}</div>
         <div class="hero-actions">
-          <a class="btn" href="{{ $hero.ctaHref }}" title="{{ $hero.ctaText }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" loading="lazy" width="20" height="20"> {{ $hero.ctaText }}</a>
+          {{ partial "button-icon.html" (dict "href" $hero.ctaHref "text" $hero.ctaText "title" $hero.ctaText) }}
         </div>
         {{ with $hero.trust }}
         <div class="hero-trust">
@@ -76,9 +76,9 @@
         <h2>{{ $coach.title }}</h2>
         <p>{{ $coach.text }}</p>
         <div class="coach-actions">
-          <a class="btn" href="{{ $coach.buttonHref }}" title="{{ $coach.buttonText }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" loading="lazy" width="20" height="20"> {{ $coach.buttonText }}</a>
+          {{ partial "button-icon.html" (dict "href" $coach.buttonHref "text" $coach.buttonText "title" $coach.buttonText "targetBlank" true) }}
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
-          <a class="btn btn-secondary" href="{{ $ui.coach_about_cta_href | relURL }}" title="{{ $ui.coach_about_cta_text }}"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" loading="lazy" width="20" height="20"> {{ $ui.coach_about_cta_text }}</a>
+          {{ partial "button-icon.html" (dict "href" ($ui.coach_about_cta_href | relURL) "text" $ui.coach_about_cta_text "title" $ui.coach_about_cta_text "class" "btn btn-secondary") }}
           {{ end }}
         </div>
       </div>
@@ -170,7 +170,7 @@
                 <p class="package-result"><span class="package-result-label">{{ $ui.result_label }}</span> {{ . }}</p>
               {{ end }}
               <div class="package-cta">
-                <a class="btn {{ if not .featured }}btn-secondary{{ end }}" href="{{ $ctaHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" loading="lazy" width="20" height="20"> {{ $ctaText }}</a>
+                {{ partial "button-icon.html" (dict "href" $ctaHref "text" $ctaText "title" $ctaText "class" (printf "btn%s" (cond (not .featured) " btn-secondary" "")) "targetBlank" $openInNewTab) }}
               </div>
             </article>
           {{ end }}
@@ -229,7 +229,7 @@
         {{ $ctaHref := or .ctaHref "#kontakt" }}
         {{ $ctaText := or .ctaText $ui.default_cta_text }}
         {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-        <a class="btn" href="{{ $ctaHref }}" title="{{ .ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .ctaText }}</a>
+        {{ partial "button-icon.html" (dict "href" $ctaHref "text" .ctaText "title" .ctaText "targetBlank" $openInNewTab) }}
       </section>
       {{ end }}
     </div>
@@ -305,7 +305,7 @@
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}" title="{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
         <div class="contact-faq-cta">
-          <a class="btn" href="{{ $ui.faq_cta_href }}" title="{{ $ui.faq_cta_text }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" loading="lazy" width="20" height="20"> {{ $ui.faq_cta_text }}</a>
+          {{ partial "button-icon.html" (dict "href" $ui.faq_cta_href "text" $ui.faq_cta_text "title" $ui.faq_cta_text "targetBlank" true) }}
         </div>
       </div>
       {{ partial "responsive-image.html" (dict "src" $contact.photo "alt" $ui.coach_image_alt "title" $ui.coach_image_alt "class" "signature-photo" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" 1290 "height" 1582) }}

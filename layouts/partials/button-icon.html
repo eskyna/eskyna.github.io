@@ -1,0 +1,13 @@
+{{- $href := .href -}}
+{{- $text := .text -}}
+{{- $title := .title | default $text -}}
+{{- $class := .class | default "btn" -}}
+{{- $iconSrc := .iconSrc | default "/images/sign_black.png" -}}
+{{- $iconAlt := .iconAlt | default "Eskyna Kleeblatt-Symbol" -}}
+{{- $iconTitle := .iconTitle | default $iconAlt -}}
+{{- $iconClass := .iconClass | default "btn-icon" -}}
+{{- $targetBlank := .targetBlank | default false -}}
+{{- $rel := .rel | default "noopener noreferrer" -}}
+<a class="{{ $class }}" href="{{ $href }}" title="{{ $title }}"{{ if $targetBlank }} target="_blank" rel="{{ $rel }}"{{ end }}>
+  <img src="{{ $iconSrc }}" alt="{{ $iconAlt }}" title="{{ $iconTitle }}" class="{{ $iconClass }}" loading="lazy" width="20" height="20"> {{ $text }}
+</a>
