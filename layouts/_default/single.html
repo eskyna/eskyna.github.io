@@ -5,7 +5,7 @@
   {{ if $isLegalPage }}
   <div class="privacy-clover-column" aria-hidden="true">
     {{ range seq 1 10 }}
-    <img src="{{ "images/sign_gold.png" | relURL }}" alt="Eskyna Kleeblatt-Symbol in Gold" title="Eskyna Kleeblatt-Symbol in Gold" class="privacy-clover-mark">
+    <img src="{{ "images/sign_gold.png" | relURL }}" alt="Eskyna Kleeblatt-Symbol in Gold" title="Eskyna Kleeblatt-Symbol in Gold" class="privacy-clover-mark" width="960" height="963">
     {{ end }}
   </div>
   {{ end }}
@@ -25,7 +25,20 @@
         </div>
         {{ if not $isLegalPage }}
         <div class="page-image-wrap">
-          {{ partial "responsive-image.html" (dict "src" .Params.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "hero-image" "loading" "lazy") }}
+          {{ $pageImage := .Params.image }}
+          {{ $pageImageWidth := 1290 }}
+          {{ $pageImageHeight := 1582 }}
+          {{ if hasSuffix $pageImage "images/sign.png" }}
+            {{ $pageImageWidth = 1188 }}
+            {{ $pageImageHeight = 1190 }}
+          {{ else if hasSuffix $pageImage "images/estyle-app.png" }}
+            {{ $pageImageWidth = 489 }}
+            {{ $pageImageHeight = 1000 }}
+          {{ else if hasSuffix $pageImage "images/Nati3.png" }}
+            {{ $pageImageWidth = 985 }}
+            {{ $pageImageHeight = 1587 }}
+          {{ end }}
+          {{ partial "responsive-image.html" (dict "src" $pageImage "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "hero-image" "loading" "lazy" "width" $pageImageWidth "height" $pageImageHeight) }}
         </div>
         {{ end }}
       </div>
@@ -47,7 +60,7 @@
       </div>
       <p class="process-outro">{{ .outro }}</p>
       {{ if and (isset . "ctaHref") (isset . "ctaText") }}
-      <a class="btn" href="{{ .ctaHref }}" title="{{ .ctaText }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ .ctaText }}</a>
+      <a class="btn" href="{{ .ctaHref }}" title="{{ .ctaText }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" width="20" height="20"> {{ .ctaText }}</a>
       {{ end }}
     </div>
   </section>
