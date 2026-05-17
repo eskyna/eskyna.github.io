@@ -3,6 +3,7 @@ defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 disableHugoGeneratorInject = true
 cleanDestinationDir = true
+minify = true
 title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
 
 [languages]
