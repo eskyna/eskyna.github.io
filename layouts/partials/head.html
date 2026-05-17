@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-src 'none'; form-action 'self'; upgrade-insecure-requests;">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-src 'none'; form-action 'self'; upgrade-insecure-requests;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <base href="{{ .Site.BaseURL }}">
 <meta name="description" content="{{ $description }}">
@@ -21,9 +21,7 @@
 <link rel="apple-touch-startup-image" href="{{ "images/apple-startup-icon.png" | relURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | absURL }}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&amp;family=Montserrat:wght@400;500&amp;family=Open+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 
 {{ if .IsHome }}
