@@ -1,0 +1,47 @@
+# Cache images for 1 year (immutable)
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache fonts for 1 year
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache CSS/JS for 1 year (fingerprinted)
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache SVG for 1 year
+/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+/images/*.svg
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache favicon for 1 year
+/favicon.ico
+  Cache-Control: public, max-age=31536000, immutable
+/images/favicon-*
+  Cache-Control: public, max-age=31536000, immutable
+/images/apple-touch-icon.png
+  Cache-Control: public, max-age=31536000, immutable
+/images/mask-icon.svg
+  Cache-Control: public, max-age=31536000, immutable
+
+# Short cache for HTML (revalidate often)
+/index.html
+  Cache-Control: public, max-age=3600, must-revalidate
+/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+/*/index.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# Cache sitemaps for 1 day
+/sitemap.xml
+  Cache-Control: public, max-age=86400
+/*/sitemap.xml
+  Cache-Control: public, max-age=86400
+
+# Default for everything else
+/*
+  Cache-Control: public, max-age=3600, must-revalidate
