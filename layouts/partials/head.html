@@ -235,9 +235,10 @@
   {{ end }}
 </style>
 
-<link rel="preload" href="{{ "css/main.css" | relURL }}" as="style">
-<link rel="stylesheet" href="{{ "css/main.css" | relURL }}" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="{{ "css/main.css" | relURL }}"></noscript>
+{{ $mainCSS := resources.FromString "css/main.css" (readFile "static/css/main.css") | minify | fingerprint }}
+<link rel="preload" href="{{ $mainCSS.RelPermalink }}" as="style">
+<link rel="stylesheet" href="{{ $mainCSS.RelPermalink }}" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="{{ $mainCSS.RelPermalink }}"></noscript>
 
 {{ if .IsHome }}
   {{ range .AllTranslations -}}
