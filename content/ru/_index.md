@@ -37,7 +37,7 @@ problems:
       icon: "images/problems/svg/DasGewisseEtwas.svg"
 results:
   title: "Что вы получаете благодаря сотрудничеству"
-  background: "images/style/telegram-cloud-document-2-5409001200341258794.png"
+  background: "images/editorial/style-background.png"
   items:
     - title: "Вы знаете, какие образы действительно работают"
       text: "Вы знаете свои цвета, фасоны и сочетания и быстрее принимаете уверенные решения каждым утром."
@@ -69,7 +69,7 @@ coach:
   text: "Я помогаю вам целеустремленно и стильно решать эти задачи."
   buttonText: "Записаться на бесплатную первую встречу"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/IMG_5208_transparent_flipped_cut.png"
+  image: "images/portraits/natalia-coach-portrait.png"
 facts:
   title: "Несколько фактов обо мне"
   items:
@@ -280,7 +280,7 @@ contact:
   title: "Давайте поговорим о вашем новом имидже"
   text: "Запишитесь на бесплатную первую встречу, и мы вместе посмотрим, какой формат коучинга вам подходит."
   email: "natalia@eskyna.com"
-  photo: "images/Natalia_Desk.png"
+  photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"
 
 ui:

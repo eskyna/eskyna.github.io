@@ -34,7 +34,7 @@
           {{ else if hasSuffix $pageImage "images/estyle-app.png" }}
             {{ $pageImageWidth = 489 }}
             {{ $pageImageHeight = 1000 }}
-          {{ else if hasSuffix $pageImage "images/Nati3.png" }}
+          {{ else if or (hasSuffix $pageImage "images/portraits/natalia-garderobencheck-portrait.png") (hasSuffix $pageImage "images/portraits/natalia-about-portrait.png") }}
             {{ $pageImageWidth = 985 }}
             {{ $pageImageHeight = 1587 }}
           {{ end }}

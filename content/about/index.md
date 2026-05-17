@@ -1,7 +1,7 @@
 ---
 title: "Über mich"
 eyebrow: "Natalia Kleemann"
-image: "images/Natalia_Desk.png"
+image: "images/portraits/natalia-about-portrait.png"
 process:
   title: "Wie läuft die Zusammenarbeit mit mir ab?"
   intro: "Jede Zusammenarbeit beginnt mit einem klaren Blick auf Ihre aktuelle Situation, Ihre Ziele und Ihren Alltag. Daraus entsteht Schritt für Schritt ein Stil, der wirklich zu Ihnen passt - persönlich, tragbar und mit System."

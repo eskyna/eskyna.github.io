@@ -36,7 +36,7 @@ problems:
       icon: "images/problems/svg/DasGewisseEtwas.svg"
 results:
   title: "Das gewinnen Sie durch die Zusammenarbeit"
-  background: "images/style/telegram-cloud-document-2-5409001200341258794.png"
+  background: "images/editorial/style-background.png"
   items:
     - title: "Sie wissen, welche Outfits wirklich funktionieren"
       text: "Sie kennen Ihre Farben, Schnitte und Kombinationen und entscheiden morgens schneller und sicherer."
@@ -68,7 +68,7 @@ coach:
   text: "Ich helfe Ihnen dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch buchen"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/IMG_5208_transparent_flipped_cut.png"
+  image: "images/portraits/natalia-coach-portrait.png"
 facts:
   title: "Ein paar Fakten über mich"
   items:
@@ -276,7 +276,7 @@ contact:
   title: "Lassen Sie uns über Ihren neuen Auftritt sprechen"
   text: "Buchen Sie ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu Ihnen passt."
   email: "natalia@eskyna.com"
-  photo: "images/Natalia_Desk.png"
+  photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"
 ui:
   hero_image_alt: "Porträt von Natalia Kleemann"

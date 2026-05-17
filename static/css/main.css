@@ -237,9 +237,9 @@ h2 {
       rgb(44 30 22 / 08%) 100%
     ),
     image-set(
-      url("/images/background_landscape.avif") type("image/avif"),
-      url("/images/background_landscape.webp") type("image/webp"),
-      url("/images/background_landscape.png") type("image/png")
+      url("/images/backgrounds/hero/hero-landscape.avif") type("image/avif"),
+      url("/images/backgrounds/hero/hero-landscape.webp") type("image/webp"),
+      url("/images/backgrounds/hero/hero-landscape.png") type("image/png")
     );
   background-size: cover;
   background-position: center right;
@@ -468,9 +468,9 @@ h1 {
 
 .coach-section {
   background: image-set(
-    url("/images/background_wardrobe_bright.avif") type("image/avif"),
-    url("/images/background_wardrobe_bright.webp") type("image/webp"),
-    url("/images/background_wardrobe_bright.png") type("image/png")
+    url("/images/backgrounds/sections/wardrobe-bright.avif") type("image/avif"),
+    url("/images/backgrounds/sections/wardrobe-bright.webp") type("image/webp"),
+    url("/images/backgrounds/sections/wardrobe-bright.png") type("image/png")
   );
   background-size: cover;
   background-position: center;
@@ -482,9 +482,9 @@ h1 {
   background-image:
     linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
     image-set(
-      url("/images/background_linen_shapes.avif") type("image/avif"),
-      url("/images/background_linen_shapes.webp") type("image/webp"),
-      url("/images/background_linen_shapes.png") type("image/png")
+      url("/images/backgrounds/sections/linen-shapes.avif") type("image/avif"),
+      url("/images/backgrounds/sections/linen-shapes.webp") type("image/webp"),
+      url("/images/backgrounds/sections/linen-shapes.png") type("image/png")
     );
   background-size: cover;
   background-position: center;
@@ -496,9 +496,9 @@ h1 {
 
 .section-dark {
   background: image-set(
-    url("/images/background_vogue.avif") type("image/avif"),
-    url("/images/background_vogue.webp") type("image/webp"),
-    url("/images/background_vogue.png") type("image/png")
+    url("/images/backgrounds/sections/vogue.avif") type("image/avif"),
+    url("/images/backgrounds/sections/vogue.webp") type("image/webp"),
+    url("/images/backgrounds/sections/vogue.png") type("image/png")
   );
   background-size: cover;
   background-position: center;
@@ -595,9 +595,9 @@ h1 {
 
 .ps-section {
   background: image-set(
-    url("/images/background_problems.avif") type("image/avif"),
-    url("/images/background_problems.webp") type("image/webp"),
-    url("/images/background_problems.png") type("image/png")
+    url("/images/backgrounds/sections/problems.avif") type("image/avif"),
+    url("/images/backgrounds/sections/problems.webp") type("image/webp"),
+    url("/images/backgrounds/sections/problems.png") type("image/png")
   );
   background-size: cover;
   background-position: center;
@@ -753,9 +753,9 @@ h1 {
   background-image:
     linear-gradient(180deg, rgb(246 241 234 / 58%), rgb(246 241 234 / 68%)),
     image-set(
-      url("/images/background_dark_cloth.avif") type("image/avif"),
-      url("/images/background_dark_cloth.webp") type("image/webp"),
-      url("/images/background_dark_cloth.png") type("image/png")
+      url("/images/backgrounds/sections/dark-cloth.avif") type("image/avif"),
+      url("/images/backgrounds/sections/dark-cloth.webp") type("image/webp"),
+      url("/images/backgrounds/sections/dark-cloth.png") type("image/png")
     );
   background-size: cover;
   background-position: center;
@@ -1277,9 +1277,9 @@ h1 {
   background-image:
     linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
     image-set(
-      url("/images/background_dark_cloth.avif") type("image/avif"),
-      url("/images/background_dark_cloth.webp") type("image/webp"),
-      url("/images/background_dark_cloth.png") type("image/png")
+      url("/images/backgrounds/sections/dark-cloth.avif") type("image/avif"),
+      url("/images/backgrounds/sections/dark-cloth.webp") type("image/webp"),
+      url("/images/backgrounds/sections/dark-cloth.png") type("image/png")
     );
   background-size: cover;
   background-position: center;
@@ -1673,9 +1673,9 @@ h1 {
 .faq-section {
   padding: 6rem 0;
   background: image-set(
-    url("/images/background_style_language.avif") type("image/avif"),
-    url("/images/background_style_language.webp") type("image/webp"),
-    url("/images/background_style_language.png") type("image/png")
+    url("/images/backgrounds/sections/style-language.avif") type("image/avif"),
+    url("/images/backgrounds/sections/style-language.webp") type("image/webp"),
+    url("/images/backgrounds/sections/style-language.png") type("image/png")
   );
   background-size: cover;
   background-position: center;
@@ -1866,9 +1866,9 @@ h1 {
         rgb(44 30 22 / 54%) 100%
       ),
       image-set(
-        url("/images/background_portrait.avif") type("image/avif"),
-        url("/images/background_portrait.webp") type("image/webp"),
-        url("/images/background_portrait.png") type("image/png")
+        url("/images/backgrounds/hero/hero-portrait.avif") type("image/avif"),
+        url("/images/backgrounds/hero/hero-portrait.webp") type("image/webp"),
+        url("/images/backgrounds/hero/hero-portrait.png") type("image/png")
       );
     background-position: center center;
   }
@@ -1956,9 +1956,9 @@ h1 {
 @media (orientation: portrait) {
   .hero {
     background-image: image-set(
-      url("/images/background_portrait.avif") type("image/avif"),
-      url("/images/background_portrait.webp") type("image/webp"),
-      url("/images/background_portrait.png") type("image/png")
+      url("/images/backgrounds/hero/hero-portrait.avif") type("image/avif"),
+      url("/images/backgrounds/hero/hero-portrait.webp") type("image/webp"),
+      url("/images/backgrounds/hero/hero-portrait.png") type("image/png")
     );
     background-position: center center;
   }
@@ -2154,9 +2154,9 @@ main .hero {
       rgb(44 30 22 / 12%) 100%
     ),
     image-set(
-      url("/images/background_landscape_combined.avif") type("image/avif"),
-      url("/images/background_landscape_combined.webp") type("image/webp"),
-      url("/images/background_landscape_combined.png") type("image/png")
+      url("/images/backgrounds/hero/hero-landscape-combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/hero-landscape-combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/hero-landscape-combined.png") type("image/png")
     );
   background-position: center center;
   background-size: cover;
@@ -2183,9 +2183,9 @@ main .hero .hero-copy {
 @media (orientation: portrait) {
   main .hero {
     background-image: image-set(
-      url("/images/background_portrait_combined.avif") type("image/avif"),
-      url("/images/background_portrait_combined.webp") type("image/webp"),
-      url("/images/background_portrait_combined.png") type("image/png")
+      url("/images/backgrounds/hero/hero-portrait-combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/hero-portrait-combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/hero-portrait-combined.png") type("image/png")
     );
     background-position: center center;
     background-size: cover;
@@ -2229,9 +2229,9 @@ main .hero .hero-copy {
 @media (width <= 900px) and (1 / 1 <= aspect-ratio <= 6 / 5) {
   main .hero {
     background-image: image-set(
-      url("/images/background_landscape_combined.avif") type("image/avif"),
-      url("/images/background_landscape_combined.webp") type("image/webp"),
-      url("/images/background_landscape_combined.png") type("image/png")
+      url("/images/backgrounds/hero/hero-landscape-combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/hero-landscape-combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/hero-landscape-combined.png") type("image/png")
     );
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: "Проверка гардероба"
 eyebrow: "Ваш базовый гардероб под контролем"
-image: "images/Nati3.png"
+image: "images/portraits/natalia-garderobencheck-portrait.png"
 ---
 
 С помощью этой **проверки гардероба** вы быстро поймете, есть ли у вас прочная база и каких

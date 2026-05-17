@@ -1,7 +1,7 @@
 ---
 title: "Обо мне"
 eyebrow: "Natalia Kleemann"
-image: "images/Natalia_Desk.png"
+image: "images/portraits/natalia-about-portrait.png"
 ---
 
 Я, **Наталья Клеманн**, стилист и имидж-коуч с фокусом на имидж,
