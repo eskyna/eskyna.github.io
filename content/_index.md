@@ -5,7 +5,7 @@ hero:
   headline: "Kleidung, die zu Ihrem Leben passt."
   text: "Individuelle Stilberatung für Frauen und Männer.  \nbewusst, tragbar und alltagstauglich.\n\nLassen Sie uns gemeinsam starten."
   ctaText: "Kostenloses Erstgespräch buchen"
-  ctaHref: "#angebote"
+  ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   image: "images/Natalia_white_hero.png"
   trust:
     - "Online & vor Ort"

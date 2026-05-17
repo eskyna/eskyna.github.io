@@ -79,6 +79,40 @@ const pdfViewer = document.querySelector("#pdf-viewer");
 const pdfFrame = pdfViewer?.querySelector("iframe");
 
 let deferredInstallPrompt;
+let notesHydrated = false;
+let tipsHydrated = false;
+
+function runWhenIdle(callback, timeout = 1200) {
+  if ("requestIdleCallback" in window) {
+    window.requestIdleCallback(callback, { timeout });
+    return;
+  }
+
+  window.setTimeout(callback, 140);
+}
+
+function hydrateWhenVisible(targetElement, hydrateFn) {
+  if (!targetElement) {
+    runWhenIdle(hydrateFn);
+    return;
+  }
+
+  if (!("IntersectionObserver" in window)) {
+    runWhenIdle(hydrateFn);
+    return;
+  }
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      if (!entries[0]?.isIntersecting) return;
+      observer.disconnect();
+      hydrateFn();
+    },
+    { rootMargin: "260px 0px" }
+  );
+
+  observer.observe(targetElement);
+}
 
 function getNotes() {
   try {
@@ -140,6 +174,12 @@ function renderNotes() {
   });
 }
 
+function ensureNotesHydrated() {
+  if (notesHydrated) return;
+  renderNotes();
+  notesHydrated = true;
+}
+
 function renderStyleTips() {
   if (!tipsGrid || !tipsProgress) return;
 
@@ -170,6 +210,12 @@ function renderStyleTips() {
   tipsProgress.textContent = `${count} von ${styleTips.length} Tipps abgehakt`;
 }
 
+function ensureTipsHydrated() {
+  if (tipsHydrated) return;
+  renderStyleTips();
+  tipsHydrated = true;
+}
+
 function toggleTip(index, triggerElement) {
   const doneTips = getDoneTips();
   const nextTips = doneTips.includes(index)
@@ -186,12 +232,14 @@ function toggleTip(index, triggerElement) {
 }
 
 function resetTips() {
+  ensureTipsHydrated();
   setDoneTips([]);
   renderStyleTips();
   dailyLine.textContent = "Zurueck auf Anfang: Ziehe einen Tipp und probiere ihn heute aus.";
 }
 
 function drawRandomTip() {
+  ensureTipsHydrated();
   const index = Math.floor(Math.random() * styleTips.length);
   const tip = styleTips[index];
   dailyLine.textContent = `${tip.title}: ${tip.text}`;
@@ -372,6 +420,7 @@ portrait.addEventListener("error", () => {
 
 noteForm.addEventListener("submit", (event) => {
   event.preventDefault();
+  ensureNotesHydrated();
   const value = noteInput.value.trim();
   if (!value) return;
 
@@ -401,8 +450,14 @@ if ("caches" in window) {
 }
 
 drawPrompt();
-renderNotes();
-renderStyleTips();
 updateConnectionStatus();
 setupInstallPrompt();
 setupServiceWorker();
+
+hydrateWhenVisible(tipsGrid, ensureTipsHydrated);
+hydrateWhenVisible(noteList, ensureNotesHydrated);
+
+runWhenIdle(() => {
+  ensureTipsHydrated();
+  ensureNotesHydrated();
+});

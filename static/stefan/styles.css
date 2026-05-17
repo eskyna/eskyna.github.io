@@ -46,7 +46,7 @@ body {
     auto,
     auto,
     420px 420px;
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 body::before,
@@ -119,7 +119,15 @@ a:focus-visible {
   border: 1px solid var(--card-border);
   background: var(--card);
   box-shadow: var(--shadow);
-  backdrop-filter: blur(16px);
+}
+
+@supports ((backdrop-filter: blur(8px)) or (-webkit-backdrop-filter: blur(8px))) {
+  @media (min-width: 881px) {
+    .hero-card {
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+  }
 }
 
 .hero-card {
@@ -325,6 +333,9 @@ h2 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
   margin: 1rem 0;
+  content-visibility: auto;
+  contain: layout style paint;
+  contain-intrinsic-size: 1px 640px;
 }
 
 .feature-card,
@@ -362,6 +373,9 @@ h2 {
   gap: 1rem;
   align-items: start;
   background: var(--card-strong);
+  content-visibility: auto;
+  contain: layout style paint;
+  contain-intrinsic-size: 1px 520px;
 }
 
 .note-form {
@@ -557,7 +571,9 @@ h2 {
   margin: 1rem 0;
   background: var(--card-strong);
   box-shadow: var(--shadow);
-  backdrop-filter: blur(16px);
+  content-visibility: auto;
+  contain: layout style paint;
+  contain-intrinsic-size: 1px 980px;
 }
 
 .section-heading,
