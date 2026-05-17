@@ -7,6 +7,7 @@
 {{ $audioDescription := "\"Rosa neu gedacht\" als Audio-Version" }}
 {{ $categoryText := "Farbe & Stil" }}
 {{ $looksText := "Looks ansehen" }}
+{{ $instagramText := "Instagram-Beitrag" }}
 {{ if eq .Language.Lang "ru" }}
   {{ $backText = "К блогу" }}
   {{ $tocText = "Содержание" }}
@@ -16,6 +17,7 @@
   {{ $audioDescription = "\"Rosa neu gedacht\" в аудиоверсии" }}
   {{ $categoryText = "Цвет и стиль" }}
   {{ $looksText = "Смотреть образы" }}
+  {{ $instagramText = "Пост в Instagram" }}
 {{ end }}
 {{ $audioRes := .Resources.GetMatch "reading.mp3" }}
 {{ $displayReadingTime := .ReadingTime }}
@@ -34,6 +36,14 @@
         <div class="blog-kicker-row">
           <p class="blog-category-chip">{{ with .Params.category }}{{ . }}{{ else }}{{ $categoryText }}{{ end }}</p>
           <p class="eyebrow blog-meta">{{ .Date | time.Format "2006-01-02" }} · {{ $displayReadingTime }} {{ $readingTimeText }}</p>
+          {{ with .Params.instagramHref }}
+            <a class="blog-meta-link" href="{{ . }}" title="{{ $instagramText }}" target="_blank" rel="noopener noreferrer" aria-label="{{ $instagramText }}">
+              <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" focusable="false">
+                <path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4c0 3.2-2.6 5.8-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8C2 4.6 4.6 2 7.8 2zm8.2 2H8c-2.2 0-4 1.8-4 4v8c0 2.2 1.8 4 4 4h8c2.2 0 4-1.8 4-4V8c0-2.2-1.8-4-4-4zm-4 3.5A4.5 4.5 0 1 1 7.5 12 4.5 4.5 0 0 1 12 7.5zm0 2A2.5 2.5 0 1 0 14.5 12 2.5 2.5 0 0 0 12 9.5zm5.25-3.35a1.1 1.1 0 1 1-1.1 1.1 1.1 1.1 0 0 1 1.1-1.1z"></path>
+              </svg>
+              <span>{{ $instagramText }}</span>
+            </a>
+          {{ end }}
         </div>
         <h1 class="blog-display-title">
           <span class="blog-display-title-main">{{ $titleMain }}</span>

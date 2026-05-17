@@ -2921,6 +2921,29 @@ body :where(button) {
   text-shadow: 0 1px 0 rgb(255 255 255 / 5%);
 }
 
+.blog-meta-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.76rem;
+  color: rgb(47 35 30 / 82%);
+  border: 1px solid var(--journal-line);
+  border-radius: 999px;
+  padding: 0.22rem 0.5rem;
+  background: rgb(255 255 255 / 42%);
+  white-space: nowrap;
+}
+
+.blog-meta-link svg {
+  fill: currentcolor;
+  flex-shrink: 0;
+}
+
+.blog-meta-link:hover {
+  color: var(--journal-accent-dark);
+  border-color: rgb(138 79 87 / 35%);
+}
+
 .blog-hero-actions {
   display: flex;
   flex-wrap: wrap;

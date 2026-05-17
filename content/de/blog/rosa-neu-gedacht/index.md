@@ -7,6 +7,7 @@ summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisc
 hero: "rosa-hero.avif"
 readingTime: 5
 ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+instagramHref: "https://www.instagram.com/p/DYR7JL1iobn/?img_index=1"
 tags:
   - rosa
   - farbberatung
@@ -93,6 +94,8 @@ Charakter: Stark · modern · souverän
 Dunkles Braun, Blazer, Krawatte und Loafer erden Rosa. So entsteht ein Look, der Farbe zeigt und trotzdem professionell bleibt.
 
 [Business-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
+
+Der passende Instagram-Beitrag zum Artikel: [Rosa neu gedacht auf Instagram](https://www.instagram.com/p/DYR7JL1iobn/?img_index=1).
 
 ## Fazit
 
