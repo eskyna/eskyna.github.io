@@ -125,6 +125,6 @@ Für diesen Beitrag wurden unter anderem Quellen aus Farbpsychologie, Modegeschi
 
 [^6]: [Unraveling the Colorful History of Why Girls Wear Pink and Boys Wear Blue](https://www.smithsonianmag.com/history/unraveling-the-colorful-history-of-why-girls-wear-pink-and-boys-wear-blue-1370097/), Smithsonian Magazine.
 
-[^7]: [Elsa Schiaparelli Suit, 1938-39](https://www.metmuseum.org/art/collection/search/156498), The Metropolitan Museum of Art.
+[^7]: [Elsa Schiaparelli](https://en.wikipedia.org/wiki/Elsa_Schiaparelli), Wikipedia.
 
 [^8]: [Schiaparelli Shocking Perfume Bottle](https://schiaparelli.com/en/blogs/schiaparelli-et-les-artistes/leonor-fini-flacon-du-parfum-shocking-de-schiaparelli), Maison Schiaparelli.
