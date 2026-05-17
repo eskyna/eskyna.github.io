@@ -39,7 +39,9 @@ Die wichtigste Frage lautet deshalb nicht: "Steht mir Rosa?" Sondern: Welches Ro
 
 > **Merksatz:** Rosa wirkt nie allein. Die Wirkung entsteht aus Nuance, Material, Schnitt, Kontrast und Person.
 
-**Mini-Farbskala:** Puderrosa · Pastellrosa · Altrosa · Pink · Mauve
+**Mini-Farbskala:**
+
+{{< color-scale >}}
 
 ## Die Geschichte von Rosa
 

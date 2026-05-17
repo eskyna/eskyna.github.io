@@ -1,0 +1,15 @@
+{{- $swatches := slice
+  (dict "name" "Puderrosa"   "hex" "#f0bec4")
+  (dict "name" "Pastellrosa" "hex" "#f9d6db")
+  (dict "name" "Altrosa"     "hex" "#b07882")
+  (dict "name" "Pink"        "hex" "#d9416a")
+  (dict "name" "Mauve"       "hex" "#9e6278")
+-}}
+<div class="color-scale" role="list" aria-label="Mini-Farbskala">
+  {{- range $swatches }}
+  <div class="color-scale-item" role="listitem">
+    <span class="color-scale-swatch" style="background:{{ .hex }};" aria-hidden="true"></span>
+    <span class="color-scale-label">{{ .name }}</span>
+  </div>
+  {{- end }}
+</div>
