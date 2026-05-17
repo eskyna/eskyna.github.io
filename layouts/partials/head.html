@@ -244,3 +244,10 @@
 {{ partial "schema.html" . }}
 
 <script src="{{ "js/language-preference.js" | relURL }}" defer></script>
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("{{ "sw.js" | relURL }}");
+    });
+  }
+</script>
