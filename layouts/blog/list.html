@@ -2,52 +2,127 @@
 {{ $backText := "Zur Startseite" }}
 {{ $readMoreText := "Artikel lesen" }}
 {{ $readingTimeText := "Min. Lesezeit" }}
+{{ $journalTitle := "ESKYNA Journal" }}
+{{ $journalSubtitle := "Fundierte Stilbeiträge, Farbtheorie und Outfit-Ideen für einen Kleiderschrank, der wirklich zu Ihnen passt." }}
+{{ $featuredText := "Aktueller Editorial-Beitrag" }}
+{{ $advisoryTitle := "Mehr Klarheit für Ihren Stil" }}
+{{ $advisoryBody := "Entdecken Sie, welche Farben, Schnitte und Kombinationen zu Ihnen passen." }}
+{{ $advisoryCta := "Stilberatung entdecken" }}
+{{ $chipAll := "Alle" }}
+{{ $chipColors := "Farben" }}
+{{ $chipCapsule := "Capsule Wardrobe" }}
+{{ $chipBusiness := "Business-Chic" }}
+{{ $chipConsulting := "Stilberatung" }}
 {{ if eq .Language.Lang "ru" }}
   {{ $backText = "На главную" }}
   {{ $readMoreText = "Читать статью" }}
   {{ $readingTimeText = "мин. чтения" }}
+  {{ $journalTitle = "ESKYNA Journal" }}
+  {{ $journalSubtitle = "Практика стиля, теория цвета и готовые идеи образов для гардероба, который действительно подходит именно вам." }}
+  {{ $featuredText = "Текущий редакционный материал" }}
+  {{ $advisoryTitle = "Больше ясности в вашем стиле" }}
+  {{ $advisoryBody = "Узнайте, какие цвета, силуэты и сочетания подходят именно вам." }}
+  {{ $advisoryCta = "Открыть консультацию" }}
+  {{ $chipAll = "Все" }}
+  {{ $chipColors = "Цвет" }}
+  {{ $chipCapsule = "Капсульный гардероб" }}
+  {{ $chipBusiness = "Бизнес-шик" }}
+  {{ $chipConsulting = "Консультация по стилю" }}
 {{ end }}
+{{ $posts := .Pages.ByDate.Reverse }}
+{{ $featured := index $posts 0 }}
 <main class="blog-page">
   <section class="hero-small blog-hero">
     <div class="container">
       <a class="back-link" href="{{ "/" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
-      <h1>{{ .Title }}</h1>
-      <div class="blog-intro">{{ .Content }}</div>
+      <p class="blog-journal-eyebrow">Journal</p>
+      <h1>{{ $journalTitle }}</h1>
+      <p class="blog-journal-subtitle">{{ $journalSubtitle }}</p>
+      <div class="blog-category-row" aria-label="Kategorien">
+        <span class="blog-category-chip is-active">{{ $chipAll }}</span>
+        <span class="blog-category-chip">{{ $chipColors }}</span>
+        <span class="blog-category-chip">{{ $chipCapsule }}</span>
+        <span class="blog-category-chip">{{ $chipBusiness }}</span>
+        <span class="blog-category-chip">{{ $chipConsulting }}</span>
+      </div>
+      <div class="blog-intro-card">{{ .Content }}</div>
     </div>
   </section>
 
   <section class="section blog-list-section">
     <div class="container">
-      <div class="blog-post-grid">
-        {{ range .Pages.ByDate.Reverse }}
-          {{ $post := . }}
-          <article class="blog-post-card">
-            {{ $heroName := or $post.Params.hero $post.Params.image }}
-            {{ if $heroName }}
-              {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
-              {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
-              {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
-              {{ $png  := $post.Resources.GetMatch (printf "%s.png"  $stem) }}
-              {{ $orig := $post.Resources.GetMatch $heroName }}
-              {{ $fallback := or $png $orig }}
-              {{ with $fallback }}
-                <a class="blog-post-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
-                  <picture>
-                    {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
-                    {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
-                    {{ with $png  }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
-                    <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy" width="{{ .Width }}" height="{{ .Height }}">
-                  </picture>
-                </a>
-              {{ end }}
+      {{ with $featured }}
+        {{ $post := . }}
+        {{ $postReadingTime := default $post.ReadingTime $post.Params.readingTime }}
+        <article class="blog-featured-card">
+          {{ $heroName := or $post.Params.hero $post.Params.image }}
+          {{ if $heroName }}
+            {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
+            {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
+            {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
+            {{ $png := $post.Resources.GetMatch (printf "%s.png" $stem) }}
+            {{ $orig := $post.Resources.GetMatch $heroName }}
+            {{ $fallback := or $png $orig }}
+            {{ with $fallback }}
+              <a class="blog-featured-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+                <picture>
+                  {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
+                  {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
+                  {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
+                  <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-featured-image" loading="eager">
+                </picture>
+              </a>
             {{ end }}
-            <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $post.ReadingTime }} {{ $readingTimeText }}</p>
+          {{ end }}
+          <div class="blog-featured-copy">
+            <p class="blog-post-kicker">{{ $featuredText }}</p>
+            <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
             <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
             {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
             <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
-          </article>
-        {{ end }}
-      </div>
+          </div>
+        </article>
+      {{ end }}
+
+      {{ if gt (len $posts) 1 }}
+        <div class="blog-post-grid">
+          {{ range after 1 $posts }}
+            {{ $post := . }}
+            {{ $postReadingTime := default $post.ReadingTime $post.Params.readingTime }}
+            <article class="blog-post-card">
+              {{ $heroName := or $post.Params.hero $post.Params.image }}
+              {{ if $heroName }}
+                {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
+                {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
+                {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
+                {{ $png := $post.Resources.GetMatch (printf "%s.png" $stem) }}
+                {{ $orig := $post.Resources.GetMatch $heroName }}
+                {{ $fallback := or $png $orig }}
+                {{ with $fallback }}
+                  <a class="blog-post-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+                    <picture>
+                      {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
+                      {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
+                      {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
+                      <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy">
+                    </picture>
+                  </a>
+                {{ end }}
+              {{ end }}
+              <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
+              <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
+              {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
+              <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+            </article>
+          {{ end }}
+        </div>
+      {{ end }}
+
+      <section class="blog-advisory-cta" aria-label="{{ $advisoryTitle }}">
+        <h2>{{ $advisoryTitle }}</h2>
+        <p>{{ $advisoryBody }}</p>
+        <a class="btn" href="{{ "/" | relLangURL }}" title="{{ $advisoryCta }}">{{ $advisoryCta }}</a>
+      </section>
     </div>
   </section>
 </main>

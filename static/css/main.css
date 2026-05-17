@@ -2771,66 +2771,271 @@ body :where(button) {
 
 /* Blog section */
 .blog-page {
-  background-image:
-    radial-gradient(circle at 12% 8%, rgb(197 160 89 / 10%), transparent 28rem),
-    linear-gradient(180deg, rgb(251 248 244 / 65%), rgb(255 255 255 / 92%));
+  --journal-bg: #fbf7f3;
+  --journal-surface: #fff;
+  --journal-surface-soft: #f5ede8;
+  --journal-text: #2f231e;
+  --journal-muted: #7a6760;
+  --journal-accent: #d9a6ad;
+  --journal-accent-dark: #8a4f57;
+  --journal-line: rgb(47 35 30 / 12%);
+  --journal-shadow: 0 18px 40px rgb(35 24 20 / 10%);
+
+  background:
+    radial-gradient(circle at 5% 0%, rgb(217 166 173 / 18%), transparent 35rem),
+    linear-gradient(180deg, var(--journal-bg) 0%, #fff 32%, var(--journal-bg) 100%);
+  color: var(--journal-text);
 }
 
 .blog-page .blog-hero {
-  padding-bottom: 2rem;
+  background:
+    linear-gradient(180deg, rgb(251 247 243 / 52%), rgb(251 247 243 / 36%)),
+    image-set(
+      url("/images/backgrounds/sections/dark-cloth.avif") type("image/avif"),
+      url("/images/backgrounds/sections/dark-cloth.webp") type("image/webp"),
+      url("/images/backgrounds/sections/dark-cloth.png") type("image/png")
+    );
+  background-color: var(--journal-bg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: clamp(1.5rem, 3vw, 2.5rem);
 }
 
+.blog-journal-eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.77rem;
+  color: var(--journal-accent-dark);
+}
+
+.blog-journal-subtitle,
 .blog-intro,
 .blog-single-summary {
-  color: var(--text-muted);
+  color: var(--journal-muted);
   max-width: 68ch;
+}
+
+.blog-journal-subtitle {
+  margin: 0;
+  font-size: clamp(0.94rem, 1.22vw, 1.08rem);
+  line-height: 1.56;
+  color: rgb(47 35 30 / 82%);
+  max-width: 56ch;
+}
+
+.blog-intro-card {
+  margin-top: 1.2rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--journal-line);
+  border-radius: 1.1rem;
+  background: linear-gradient(145deg, rgb(255 255 255 / 90%), rgb(245 237 232 / 55%));
 }
 
 .blog-single-summary {
   font-size: clamp(1.08rem, 1.9vw, 1.28rem);
-  line-height: 1.75;
+  line-height: 1.72;
+  margin: 0;
+  color: #4a3831;
+  background: rgb(255 255 255 / 76%);
+  border: 1px solid var(--journal-line);
+  border-radius: 0.95rem;
+  padding: 0.85rem 1rem;
+}
+
+.blog-hero-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: clamp(1.2rem, 3vw, 3rem);
+  align-items: end;
+}
+
+.blog-hero-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.blog-display-title {
+  margin: 0;
+  line-height: 1.06;
+  letter-spacing: -0.015em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.blog-display-title-main {
+  display: block;
+  font-size: clamp(2.4rem, 5.8vw, 4.6rem);
+}
+
+.blog-display-title-sub {
+  display: block;
+  font-size: clamp(0.92rem, 1.25vw, 1.12rem);
+  line-height: 1.42;
+  letter-spacing: 0;
+  color: rgb(47 35 30 / 88%);
+  font-weight: 500;
+  text-shadow: 0 1px 0 rgb(255 255 255 / 45%);
+  max-width: 38ch;
+}
+
+.blog-kicker-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7rem 1rem;
+}
+
+.blog-category-row {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.blog-category-chip {
+  margin: 0;
+  padding: 0.3rem 0.72rem;
+  border-radius: 999px;
+  border: 1px solid var(--journal-line);
+  background: var(--journal-surface-soft);
+  color: var(--journal-accent-dark);
+  font-size: 0.84rem;
+}
+
+.blog-category-chip.is-active {
+  background: rgb(217 166 173 / 18%);
+  border-color: rgb(138 79 87 / 30%);
 }
 
 .blog-meta {
-  letter-spacing: 0.08em;
-  color: rgb(255 255 255 / 85%);
+  margin: 0;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: rgb(47 35 30 / 80%);
+  font-weight: 600;
+  text-shadow: 0 1px 0 rgb(255 255 255 / 5%);
+}
+
+.blog-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+}
+
+.blog-hero-actions .btn {
+  min-height: 2.7rem;
+  border-radius: 999px;
+}
+
+.blog-hero-actions .btn-soft {
+  background: var(--journal-surface-soft);
+  color: var(--journal-text);
+  border: 1px solid var(--journal-line);
+}
+
+.blog-hero-media {
+  justify-self: end;
+  width: min(100%, 36rem);
+}
+
+.blog-hero-image-wrap {
+  margin: 0;
+  border-radius: 1.8rem;
+  overflow: clip;
+  border: 1px solid var(--journal-line);
+  box-shadow: var(--journal-shadow);
+}
+
+.blog-hero-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  border: 0;
 }
 
 .blog-list-section {
-  padding-top: 1.5rem;
+  padding-top: 0.5rem;
+}
+
+.blog-featured-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: clamp(1rem, 2.3vw, 2rem);
+  border: 1px solid var(--journal-line);
+  background: linear-gradient(160deg, rgb(255 255 255 / 92%), rgb(245 237 232 / 52%));
+  border-radius: 1.8rem;
+  padding: clamp(1rem, 2.2vw, 1.4rem);
+  box-shadow: var(--journal-shadow);
+  margin-bottom: 1.5rem;
+}
+
+.blog-featured-media {
+  display: block;
+  border-radius: 1.2rem;
+  overflow: clip;
+  border: 1px solid var(--journal-line);
+}
+
+.blog-featured-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.blog-featured-copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.65rem;
+}
+
+.blog-post-kicker {
+  margin: 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--journal-accent-dark);
 }
 
 .blog-post-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
-  gap: 1.5rem;
+  gap: 1.25rem;
 }
 
 .blog-post-card {
-  border: 1px solid var(--card-border);
-  border-radius: 18px;
-  background: rgb(255 255 255 / 60%);
+  border: 1px solid var(--journal-line);
+  border-radius: 1.25rem;
+  background: rgb(255 255 255 / 72%);
   padding: 1rem;
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  box-shadow: 0 10px 28px rgb(52 37 31 / 8%);
+  box-shadow: 0 12px 28px rgb(52 37 31 / 8%);
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
 
+.blog-featured-card:hover,
 .blog-post-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 18px 36px rgb(52 37 31 / 12%);
+  transform: translateY(-3px);
+  box-shadow: 0 20px 38px rgb(52 37 31 / 12%);
 }
 
 .blog-post-media {
   display: block;
-  border-radius: 12px;
+  border-radius: 0.9rem;
   overflow: clip;
   background: rgb(255 255 255 / 82%);
-  border: 1px solid var(--card-border);
+  border: 1px solid var(--journal-line);
 }
 
 .blog-post-image {
@@ -2850,7 +3055,7 @@ body :where(button) {
 .blog-post-date {
   margin: 0;
   font-size: 0.9rem;
-  color: var(--text-muted);
+  color: var(--journal-muted);
 }
 
 .blog-post-title {
@@ -2860,46 +3065,47 @@ body :where(button) {
 
 .blog-post-title :where(a) {
   text-decoration: none;
+  color: var(--journal-text);
 }
 
 .blog-post-summary {
   margin: 0;
-  color: var(--text-muted);
+  color: var(--journal-muted);
   flex-grow: 1;
 }
 
 .blog-content-wrap {
   display: grid;
-  gap: 1.4rem;
-}
-
-.blog-hero-image-wrap {
-  margin: 0;
-}
-
-.blog-hero-image {
-  width: min(100%, 60rem);
-  border-radius: 18px;
-  border: 1px solid var(--card-border);
+  gap: 1.2rem;
 }
 
 .blog-audio-player {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  margin-block: 1.5rem;
-  padding: 0.75rem 1rem;
-  background: rgb(255 255 255 / 70%);
-  border: 1px solid var(--card-border);
-  border-radius: 14px;
+  gap: 1rem;
+  margin-block: 0.4rem 1.5rem;
+  padding: 0.95rem 1rem;
+  background: linear-gradient(145deg, rgb(255 255 255 / 94%), rgb(245 237 232 / 62%));
+  border: 1px solid var(--journal-line);
+  border-radius: 1rem;
   flex-wrap: wrap;
 }
 
+.blog-audio-copy {
+  min-width: min(100%, 14rem);
+}
+
 .blog-audio-label {
-  font-size: 0.9rem;
+  margin: 0;
+  font-size: 0.92rem;
   font-weight: 600;
-  white-space: nowrap;
-  color: var(--text-muted, #666);
+  color: var(--journal-text);
+}
+
+.blog-audio-description {
+  margin: 0.12rem 0 0;
+  font-size: 0.88rem;
+  color: var(--journal-muted);
 }
 
 .blog-audio-player audio {
@@ -2910,39 +3116,58 @@ body :where(button) {
 
 .blog-reading-layout {
   display: grid;
-  grid-template-columns: minmax(13rem, 15rem) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) minmax(14rem, 17rem);
   align-items: start;
-  gap: clamp(1rem, 2vw, 2rem);
+  gap: clamp(1rem, 2vw, 2.2rem);
 }
 
 .blog-toc {
-  border: 1px solid var(--card-border);
-  border-radius: 14px;
-  background: rgb(255 255 255 / 70%);
+  border: 1px solid var(--journal-line);
+  border-radius: 0.95rem;
+  background: rgb(255 255 255 / 78%);
   padding: 0.9rem 1rem;
-  position: sticky;
-  top: 1rem;
 }
 
-.blog-toc h2 {
+.blog-toc-desktop {
+  position: sticky;
+  top: 1rem;
+  order: 2;
+}
+
+.blog-toc-mobile {
+  display: none;
+}
+
+.blog-toc :where(h2) {
   margin: 0 0 0.65rem;
   font-size: 1rem;
 }
 
-.blog-toc nav ul {
+.blog-toc :where(summary) {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--journal-text);
+}
+
+.blog-toc :where(nav ul) {
   margin: 0;
   padding-left: 1.15rem;
 }
 
-.blog-toc nav li {
+.blog-toc :where(nav li) {
   margin: 0.2rem 0;
 }
 
-.blog-prose img {
+.blog-toc :where(a:any-link) {
+  color: var(--journal-accent-dark);
+  text-decoration-color: rgb(138 79 87 / 35%);
+}
+
+.blog-prose img:not(.btn-icon) {
   max-width: 100%;
   height: auto;
-  border-radius: 14px;
-  border: 1px solid var(--card-border);
+  border-radius: 0.92rem;
+  border: 1px solid var(--journal-line);
 }
 
 .blog-prose picture {
@@ -2950,11 +3175,18 @@ body :where(button) {
   max-width: 100%;
 }
 
+.blog-hero-image-wrap picture,
+.blog-featured-media picture,
+.blog-post-media picture {
+  display: block;
+}
+
 .blog-prose {
   max-width: min(74ch, 100%);
-  color: var(--text);
+  color: var(--journal-text);
   font-size: clamp(1.04rem, 1.2vw, 1.12rem);
   line-height: 1.85;
+  order: 1;
 }
 
 .blog-prose :where(p) {
@@ -2964,7 +3196,7 @@ body :where(button) {
 .blog-prose > :where(p:first-of-type) {
   font-size: clamp(1.14rem, 1.8vw, 1.3rem);
   line-height: 1.72;
-  color: var(--text-muted);
+  color: var(--journal-muted);
 }
 
 .blog-prose h2 {
@@ -2977,37 +3209,242 @@ body :where(button) {
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
   font-size: clamp(1.25rem, 2vw, 1.6rem);
-  color: var(--text);
+  color: var(--journal-text);
 }
 
-.blog-prose :where(a:any-link) {
-  color: var(--accent-strong);
+.blog-prose :where(a:any-link):not(.btn) {
+  color: var(--journal-accent-dark);
+}
+
+.blog-prose .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-prose .btn .btn-icon {
+  width: auto;
+  height: 20px;
+  max-width: none;
+  border: 0;
+  border-radius: 0;
+  margin-right: 0.5rem;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .blog-prose blockquote {
   margin: 1.25rem 0;
-  padding: 0.85rem 1rem;
-  border-left: 3px solid var(--accent-strong);
-  background: rgb(255 255 255 / 70%);
-  border-radius: 10px;
-  color: var(--text-muted);
+  padding: 0.95rem 1rem;
+  border-left: 3px solid var(--journal-accent-dark);
+  background: rgb(255 255 255 / 76%);
+  border-radius: 0.82rem;
+  color: var(--journal-muted);
+}
+
+.blog-prose h2#die-geschichte-von-rosa + p + ul {
+  list-style: none;
+  margin: 0.2rem 0 0;
+  padding: 0 0 0 1rem;
+  border-left: 1px solid var(--journal-line);
+}
+
+.blog-prose :where(h2#die-geschichte-von-rosa + p + ul li) {
+  position: relative;
+  margin: 0 0 0.95rem;
+  padding: 0.2rem 0 0.2rem 1rem;
+}
+
+.blog-prose :where(h2#die-geschichte-von-rosa + p + ul li)::before {
+  content: "";
+  position: absolute;
+  left: -1.32rem;
+  top: 0.82rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--journal-accent);
+  border: 1px solid rgb(138 79 87 / 35%);
+}
+
+.blog-prose :where(h2#drei-outfit-kapseln + ol) {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15.5rem), 1fr));
+  gap: 1rem;
+}
+
+.blog-prose :where(h2#drei-outfit-kapseln + ol > li) {
+  background: rgb(255 255 255 / 78%);
+  border: 1px solid var(--journal-line);
+  border-radius: 1rem;
+  padding: 0.9rem;
+  box-shadow: 0 10px 24px rgb(47 35 30 / 7%);
+}
+
+.blog-prose :where(h2#drei-outfit-kapseln + ol > li) :where(p:first-child) {
+  margin-bottom: 0.25rem;
+}
+
+.blog-prose :where(h2#drei-outfit-kapseln + ol > li) :where(p:first-child em) {
+  color: var(--journal-muted);
+  font-size: 0.94rem;
+}
+
+.blog-prose :where(h2#drei-outfit-kapseln + ol > li) :where(p:nth-last-child(1) a:any-link) {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.5rem;
+  padding: 0.52rem 0.88rem;
+  border-radius: 999px;
+  border: 1px solid rgb(138 79 87 / 30%);
+  background: rgb(217 166 173 / 16%);
+  text-decoration: none;
+}
+
+.blog-prose h2#welches-rosa-passt-zu-ihnen {
+  margin-top: 2.4rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--journal-line);
+}
+
+.blog-prose h2#quellen-weiterfuhrende-literatur {
+  margin-top: 2.3rem;
 }
 
 .blog-prose .footnotes {
   margin-top: 2.2rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--card-border);
-  color: var(--text-muted);
+  padding-top: 0.2rem;
+  border-top: 0;
+  color: var(--journal-muted);
   font-size: 0.95rem;
 }
 
 .blog-prose .footnotes ol {
-  padding-left: 1.1rem;
+  padding-left: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+  gap: 0.75rem;
+}
+
+.blog-prose .footnotes li {
+  margin: 0;
+  padding: 0.8rem 0.85rem;
+  border: 1px solid var(--journal-line);
+  border-radius: 0.85rem;
+  background: rgb(255 255 255 / 80%);
+}
+
+.blog-advisory-cta {
+  margin-top: 1.5rem;
+  border: 1px solid var(--journal-line);
+  border-radius: 1.35rem;
+  padding: 1.1rem 1.2rem;
+  background: linear-gradient(150deg, rgb(255 255 255 / 96%), rgb(217 166 173 / 14%));
+}
+
+.blog-advisory-cta :where(h2) {
+  margin: 0 0 0.4rem;
+}
+
+.blog-advisory-cta :where(p) {
+  margin: 0 0 0.9rem;
+  color: var(--journal-muted);
 }
 
 @media (width <= 960px) {
+  .blog-hero-shell,
+  .blog-featured-card,
   .blog-reading-layout {
     grid-template-columns: 1fr;
+  }
+
+  .blog-hero-media {
+    justify-self: stretch;
+    width: 100%;
+  }
+
+  .blog-toc-desktop {
+    display: none;
+  }
+
+  .blog-toc-mobile {
+    display: block;
+    order: 1;
+  }
+
+  .blog-prose {
+    order: 2;
+  }
+
+  .blog-prose .footnotes ol {
+    grid-template-columns: 1fr;
+  }
+
+  .blog-advisory-cta {
+    padding: 1rem;
+  }
+}
+
+@media (width <= 640px) {
+  .blog-display-title-main {
+    font-size: clamp(2rem, 9vw, 2.8rem);
+  }
+
+  .blog-display-title-sub {
+    font-size: clamp(0.9rem, 3.4vw, 1rem);
+  }
+
+  .blog-hero-actions .btn {
+    width: 100%;
+  }
+
+  .blog-category-row {
+    gap: 0.45rem;
+  }
+
+  .blog-category-chip {
+    font-size: 0.8rem;
+  }
+
+  .blog-audio-player {
+    padding: 0.9rem;
+  }
+
+  .blog-prose h2#drei-outfit-kapseln + ol {
+    grid-template-columns: 1fr;
+  }
+
+  .blog-prose h2#die-geschichte-von-rosa + p + ul {
+    padding-left: 0.65rem;
+  }
+
+  .blog-prose h2#die-geschichte-von-rosa + p + ul li::before {
+    left: -0.96rem;
+  }
+
+  .blog-featured-card {
+    padding: 0.9rem;
+  }
+
+  .blog-featured-copy {
+    gap: 0.55rem;
+  }
+
+  .blog-post-title {
+    font-size: clamp(1.25rem, 6vw, 1.56rem);
+  }
+
+  .blog-journal-subtitle {
+    font-size: 0.92rem;
+  }
+
+  .blog-intro-card {
+    padding: 0.9rem 1rem;
   }
 
   .blog-toc {

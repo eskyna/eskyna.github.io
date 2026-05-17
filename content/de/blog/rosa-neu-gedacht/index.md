@@ -5,6 +5,8 @@ draft: false
 description: "Rosa ist vielseitiger als viele denken. Entdecken Sie, wie Sie Rosa modern, stilvoll und alltagstauglich kombinieren."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."
 hero: "rosa-hero.avif"
+readingTime: 5
+ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 tags:
   - rosa
   - farbberatung
@@ -34,6 +36,10 @@ Auf Mode übertragen heißt das: Ein zartes Puderrosa wirkt ruhig und zurückhal
 
 Die wichtigste Frage lautet deshalb nicht: "Steht mir Rosa?" Sondern: Welches Rosa steht mir und an welcher Stelle im Outfit funktioniert es am besten?
 
+> **Merksatz:** Rosa wirkt nie allein. Die Wirkung entsteht aus Nuance, Material, Schnitt, Kontrast und Person.
+
+**Mini-Farbskala:** Puderrosa · Pastellrosa · Altrosa · Pink · Mauve
+
 ## Die Geschichte von Rosa
 
 Rosa wirkt heute oft selbstverständlich feminin. Historisch war diese Bedeutung jedoch deutlich wandelbarer.
@@ -58,33 +64,49 @@ Wichtige Styling-Prinzipien:
 
 ## Drei Outfit-Kapseln
 
-### Sport-Chic
+1. **Sport-Chic**
+
+Charakter: Frisch · urban · unkompliziert
 
 [![Sport-Chic Outfit mit rosa Jeans und Blazer](sport-chic.avif)](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
 
 Rosa wirkt hier unkompliziert und modern. Der graue Blazer bringt Struktur, Sneaker und Denim machen den Look alltagstauglich.
 
-[Zum Sport-Chic-Look](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
+[Sport-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
 
-### Romantic-Chic
+1. **Romantic-Chic**
+
+Charakter: Weich · feminin · zeitlos
 
 [![Romantic-Chic Outfit mit floralem Rock und rosa Tasche](romantic-chic.avif)](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
 
 Florale Details, helle Farben und leichte Formen zeigen die sanfte Seite von Rosa, romantisch, aber nicht überladen.
 
-[Zum Romantic-Chic-Look](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
+[Romantic-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
 
-### Business-Chic
+1. **Business-Chic**
+
+Charakter: Stark · modern · souverän
 
 [![Business-Chic Outfit mit rosa Hose und dunklem Blazer](business-chic.avif)](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
 Dunkles Braun, Blazer, Krawatte und Loafer erden Rosa. So entsteht ein Look, der Farbe zeigt und trotzdem professionell bleibt.
 
-[Zum Business-Chic-Look](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
+[Business-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
 ## Fazit
 
 Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung finden Sie heraus, welche Rosa-Nuancen Ihre Ausstrahlung am besten unterstützen.
+
+## Welches Rosa passt zu Ihnen?
+
+In einer persönlichen Stil- und Farbberatung finden Sie heraus, welche Farben Ihre Ausstrahlung unterstützen und wie Sie Looks zusammenstellen, die wirklich zu Ihnen passen.
+
+{{< button-icon text="Kostenloses Erstgespräch buchen" title="Kostenloses Erstgespräch buchen" targetBlank="true" >}}
+
+## Quellen & weiterführende Literatur
+
+Für diesen Beitrag wurden unter anderem Quellen aus Farbpsychologie, Modegeschichte und Personenwahrnehmung herangezogen.
 
 [^1]: [Do we feel colours? A systematic review of 128 years of psychological investigations on colour-emotion associations](https://link.springer.com/article/10.3758/s13423-024-02615-z), Springer.
 

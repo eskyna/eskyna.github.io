@@ -1,0 +1,19 @@
+{{- $href := .Get "href" | default (.Page.Params.ctaHref) | default "#" -}}
+{{- $text := .Get "text" -}}
+{{- $title := .Get "title" | default $text -}}
+{{- $class := .Get "class" | default "btn" -}}
+{{- $iconSrc := .Get "iconSrc" | default "/images/sign_black.png" -}}
+{{- $iconAlt := .Get "iconAlt" | default "Eskyna Kleeblatt-Symbol" -}}
+{{- $iconTitle := .Get "iconTitle" | default $iconAlt -}}
+{{- $targetBlank := eq (.Get "targetBlank") "true" -}}
+
+{{ partial "button-icon.html" (dict
+  "href" $href
+  "text" $text
+  "title" $title
+  "class" $class
+  "iconSrc" $iconSrc
+  "iconAlt" $iconAlt
+  "iconTitle" $iconTitle
+  "targetBlank" $targetBlank
+) }}
