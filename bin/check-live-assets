@@ -48,8 +48,9 @@ function parseArgs(argv) {
 function normalizeUrl(input) {
   const u = new URL(input);
   u.hash = "";
-  if (u.pathname !== "/" && u.pathname.endsWith("/")) {
-    u.pathname = u.pathname.slice(0, -1);
+  const hasFileExtension = /\.[a-z0-9]+$/i.test(u.pathname);
+  if (u.pathname !== "/" && !u.pathname.endsWith("/") && !hasFileExtension) {
+    u.pathname = `${u.pathname}/`;
   }
   return u.toString();
 }
