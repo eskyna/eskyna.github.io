@@ -44,6 +44,8 @@ html,
 body {
   margin: 0;
   padding: 0;
+  max-width: 100%;
+  overflow-x: clip;
 }
 
 html {
@@ -1422,8 +1424,8 @@ h1 {
 }
 
 .social-link {
-  width: 32px;
-  height: 32px;
+  width: 44px;
+  height: 44px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1444,8 +1446,8 @@ h1 {
 }
 
 .social-link svg {
-  width: 15px;
-  height: 15px;
+  width: 18px;
+  height: 18px;
   fill: currentcolor;
 }
 
@@ -2482,4 +2484,286 @@ main .hero .hero-copy {
   .reference-chip {
     padding: 1rem;
   }
+}
+
+/* --------------------------------------------------------------------------
+   Responsive hardening (component by component)
+   -------------------------------------------------------------------------- */
+
+.home-main,
+.home-main .problem-grid,
+.home-main .offers-free-grid,
+.home-main .packages-grid,
+.home-main .references-grid,
+.home-main .method-journey,
+.home-main .comparison-table-wrapper,
+.home-main .comparison-table,
+.home-main .comparison-cards,
+.home-main .comparison-card {
+  min-width: 0;
+}
+
+/* P1 Hero: ensure message and CTA are visible early on phone/tablet. */
+.home-main .hero .hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(18rem, 0.9fr);
+  align-items: center;
+  gap: clamp(2rem, 5vw, 5rem);
+}
+
+.home-main .hero .hero-copy {
+  margin-top: 0;
+  padding-right: 0;
+}
+
+.home-main .hero .hero-copy h1 {
+  font-size: clamp(2.4rem, 9vw, 5.8rem);
+  line-height: 0.95;
+  max-width: 11ch;
+}
+
+.home-main .hero .hero-copy .lead {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  max-width: 42ch;
+}
+
+@media (width <= 800px) {
+  .home-main .hero .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .home-main .hero .hero-copy {
+    order: 1;
+    margin-top: 0;
+    width: 100%;
+    text-align: left;
+  }
+
+  .home-main .hero .hero-copy h1,
+  .home-main .hero .hero-copy .lead,
+  .home-main .hero .hero-copy .lead p {
+    text-align: left;
+    margin-inline: 0;
+    max-width: 100%;
+  }
+
+  .home-main .hero .hero-copy h1 {
+    font-size: clamp(2.05rem, 8.2vw, 3.5rem);
+    line-height: 1;
+  }
+
+  .home-main .hero-actions,
+  .home-main .hero-trust {
+    justify-content: flex-start;
+  }
+
+  .home-main .hero-tools {
+    justify-content: flex-start;
+  }
+}
+
+/* P1 Problems: fluid grid from phone to desktop. */
+.home-main .problem-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  gap: clamp(1rem, 2vw, 1.5rem);
+}
+
+.home-main .problem-card {
+  min-width: 0;
+}
+
+.home-main .problem-card .ps-card-icon {
+  width: clamp(92px, 16vw, 140px);
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+}
+
+/* P1 Offers: robust multi-stage layout. */
+.home-main .offers-packages-section .packages-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(1rem, 2vw, 2rem);
+  align-items: stretch;
+}
+
+@media (width <= 1050px) {
+  .home-main .offers-packages-section .packages-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .home-main .offers-packages-section .package-card-featured {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (width <= 700px) {
+  .home-main .offers-packages-section .packages-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-main .offers-packages-section .package-card,
+  .home-main .offers-packages-section .package-card-featured {
+    grid-column: auto;
+    transform: none;
+  }
+
+  .home-main .offers-packages-section .package-card:hover,
+  .home-main .offers-packages-section .package-card-featured:hover {
+    transform: translateY(-2px);
+  }
+}
+
+/* P1 Comparison table fallback cards on phone. */
+.home-main .comparison-cards {
+  display: none;
+}
+
+@media (width <= 700px) {
+  .home-main .comparison-table-wrapper {
+    display: none;
+  }
+
+  .home-main .comparison-cards {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .home-main .comparison-card {
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 1px solid var(--card-border);
+    background: rgb(255 255 255 / 60%);
+  }
+
+  .home-main .comparison-card h4 {
+    margin: 0 0 0.8rem;
+    font-size: 1.05rem;
+    color: var(--text);
+  }
+
+  .home-main .comparison-card dl {
+    margin: 0;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.35rem 1rem;
+  }
+
+  .home-main .comparison-card dt {
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .home-main .comparison-card dd {
+    margin: 0;
+    color: var(--muted);
+  }
+}
+
+/* P2 Method: timeline style on small phones. */
+.home-main .method-journey {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: clamp(1rem, 2vw, 1.5rem);
+}
+
+@media (width <= 600px) {
+  .home-main .method-journey {
+    grid-template-columns: 1fr;
+  }
+
+  .home-main .method-step {
+    display: grid;
+    grid-template-columns: 3rem 1fr;
+    gap: 0.8rem 1rem;
+    align-items: start;
+    text-align: left;
+    padding: 0.6rem 0;
+  }
+
+  .home-main .method-step-icon {
+    width: 3rem;
+    height: 3rem;
+    margin: 0;
+    grid-row: 1 / span 2;
+  }
+
+  .home-main .method-step-img {
+    width: 2.35rem;
+    height: 2.35rem;
+  }
+
+  .home-main .method-step-badge,
+  .home-main .method-step-title,
+  .home-main .method-step-text {
+    grid-column: 2;
+    margin: 0;
+  }
+
+  .home-main .method-step-badge {
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+}
+
+/* P2 Logos: auto-fit grid that doesn't collapse too small. */
+.home-main .references-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+  gap: clamp(1rem, 2vw, 2rem);
+  align-items: center;
+}
+
+.home-main .reference-logo {
+  max-width: 100%;
+  max-height: 4rem;
+  object-fit: contain;
+}
+
+/* P2 Touch targets and link affordance. */
+body :where(a),
+body :where(button) {
+  text-underline-offset: 0.18em;
+}
+
+.home-main .btn,
+:where(.hero-tools .language-switcher a, .site-footer .site-footer-inner a) {
+  min-height: 44px;
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-main .social-links,
+.home-main .language-switcher {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* P2 Text-heavy pages. */
+.content-page {
+  width: min(100% - 2rem, 68rem);
+  margin-inline: auto;
+}
+
+.content-prose li {
+  max-width: 68ch;
+}
+
+.content-prose {
+  max-width: 68ch;
+}
+
+.content-page-title {
+  font-size: clamp(2.2rem, 8vw, 4.8rem);
+}
+
+.content-prose h2 {
+  font-size: clamp(1.6rem, 4vw, 2.8rem);
+  margin-block-start: clamp(2rem, 5vw, 4rem);
 }

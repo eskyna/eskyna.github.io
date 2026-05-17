@@ -5,6 +5,7 @@
 {{- $loading := .loading -}}
 {{- $decoding := .decoding -}}
 {{- $fetchpriority := .fetchpriority -}}
+{{- $sizes := .sizes -}}
 {{- $width := .width -}}
 {{- $height := .height -}}
 {{- $isAbsolute := or (hasPrefix $src "http://") (hasPrefix $src "https://") (hasPrefix $src "data:") -}}
@@ -13,10 +14,10 @@
 {{- $base := replaceRE "\\.[^.]+$" "" $src -}}
 {{- if $isConvertible -}}
 <picture>
-  <source srcset="{{ printf "%s.avif" $base | relURL }}" type="image/avif">
-  <source srcset="{{ printf "%s.webp" $base | relURL }}" type="image/webp">
-  <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+  <source srcset="{{ printf "%s.avif" $base | relURL }}" type="image/avif"{{ with $sizes }} sizes="{{ . }}"{{ end }}>
+  <source srcset="{{ printf "%s.webp" $base | relURL }}" type="image/webp"{{ with $sizes }} sizes="{{ . }}"{{ end }}>
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
 </picture>
 {{- else -}}
-<img src="{{ if $isAbsolute }}{{ $src | safeURL }}{{ else }}{{ $src | relURL }}{{ end }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+<img src="{{ if $isAbsolute }}{{ $src | safeURL }}{{ else }}{{ $src | relURL }}{{ end }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
 {{- end -}}

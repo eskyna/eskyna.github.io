@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "Error: Node.js is not installed or not in PATH." >&2
+  exit 127
+fi
+
+if ! command -v npm >/dev/null 2>&1; then
+  echo "Error: npm is not installed or not in PATH." >&2
+  exit 127
+fi
+
+cd "$ROOT_DIR"
+
+echo "Running CSS lint..."
+npm run lint:css
+
+echo "Rendering Hugo layout for validation..."
+hugo >/dev/null
+
+echo "Running responsive layout checks (Playwright)..."
+npm run test:responsive
+
+echo "Responsive layout rendering check completed successfully."

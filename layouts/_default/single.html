@@ -5,20 +5,20 @@
   {{ if $isLegalPage }}
   <div class="privacy-clover-column" aria-hidden="true">
     {{ range seq 1 10 }}
-    <img src="{{ "images/sign_gold.png" | relURL }}" alt="Eskyna Kleeblatt-Symbol in Gold" title="Eskyna Kleeblatt-Symbol in Gold" class="privacy-clover-mark" loading="lazy" width="960" height="963">
+    <img src="{{ "images/sign_gold.png" | relURL }}" alt="" aria-hidden="true" class="privacy-clover-mark" loading="lazy" width="960" height="963">
     {{ end }}
   </div>
   {{ end }}
   <section class="section">
-    <div class="container">
+    <div class="container content-page">
       <a class="back-link" href="/" title="Zur Startseite">Zur Startseite</a>
       <div class="page-grid">
         <div>
           {{ if not $isPrivacyPage }}
           <p class="eyebrow">{{ .Params.eyebrow }}</p>
           {{ end }}
-          <h1>{{ .Title }}</h1>
-          <div class="prose">
+          <h1 class="content-page-title">{{ .Title }}</h1>
+          <div class="prose content-prose">
             {{ .Content }}
           </div>
           {{ partial "social-links.html" . }}
@@ -38,7 +38,7 @@
             {{ $pageImageWidth = 985 }}
             {{ $pageImageHeight = 1587 }}
           {{ end }}
-          {{ partial "responsive-image.html" (dict "src" $pageImage "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "hero-image" "loading" "lazy" "width" $pageImageWidth "height" $pageImageHeight) }}
+          {{ partial "responsive-image.html" (dict "src" $pageImage "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" $pageImageWidth "height" $pageImageHeight) }}
         </div>
         {{ end }}
       </div>

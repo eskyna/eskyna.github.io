@@ -12,7 +12,7 @@
 {{ $faq := .Params.faq }}
 {{ $contact := .Params.contact }}
 {{ $ui := .Params.ui }}
-<main>
+<main class="home-main">
   <section class="hero">
     <div class="container hero-topbar">
       <p class="hero-coach-label" aria-label="Natalia Kleemann | Style- und Imagecoach">
@@ -39,7 +39,7 @@
         {{ end }}
       </div>
       <div class="hero-image-wrap">
-        {{ partial "responsive-image.html" (dict "src" $hero.image "alt" $ui.hero_image_alt "title" $ui.hero_image_alt "class" "hero-image" "loading" "eager" "fetchpriority" "high" "width" 1600 "height" 1280) }}
+        {{ partial "responsive-image.html" (dict "src" $hero.image "alt" $ui.hero_image_alt "title" $ui.hero_image_alt "class" "hero-image" "loading" "eager" "decoding" "async" "fetchpriority" "high" "sizes" "(max-width: 800px) 100vw, 50vw" "width" 1600 "height" 1280) }}
       </div>
     </div>
   </section>
@@ -54,22 +54,11 @@
         </div>
       </header>
 
-      <div class="ps-grid ps-grid-top">
-        {{ range first 3 $problems.items }}
-          <article class="ps-card">
+      <div class="ps-grid problem-grid">
+        {{ range $problems.items }}
+          <article class="ps-card problem-card">
             {{ $itemTitle := .title }}
             {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="ps-card-icon" loading="lazy" width="150" height="150">{{ end }}
-            <h3 class="ps-card-title">{{ .title }}</h3>
-            <p class="ps-card-text">{{ .text }}</p>
-          </article>
-        {{ end }}
-      </div>
-
-      <div class="ps-grid ps-grid-bottom">
-        {{ range after 3 $problems.items }}
-          <article class="ps-card ps-card-sm">
-            {{ $itemTitle := .title }}
-            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="ps-card-icon" loading="lazy" width="110" height="110">{{ end }}
             <h3 class="ps-card-title">{{ .title }}</h3>
             <p class="ps-card-text">{{ .text }}</p>
           </article>
@@ -81,7 +70,7 @@
   <section class="section coach-section">
     <div class="container intro-grid">
       <div>
-        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "card-image coach-image" "loading" "lazy") }}
+        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
       </div>
       <div>
         <h2>{{ $coach.title }}</h2>
@@ -141,7 +130,7 @@
             <article class="free-offer-card">
               {{ with .image }}
                 {{ $imagePath := . }}
-                {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (hasSuffix $imagePath "10_styling_tipps.png") " free-offer-image-contain" "")) "loading" "lazy") }}
+                {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (hasSuffix $imagePath "10_styling_tipps.png") " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
               {{ end }}
               <h4>{{ .title }}</h4>
               <p>{{ .text }}</p>
@@ -213,6 +202,21 @@
               {{ end }}
             </tbody>
           </table>
+        </div>
+        <div class="comparison-cards" aria-label="{{ .title }}">
+          {{ range .table.rows }}
+            <article class="comparison-card">
+              <h4>{{ .offer }}</h4>
+              <dl>
+                <dt>Fokus</dt>
+                <dd>{{ .focus }}</dd>
+                <dt>Für wen?</dt>
+                <dd>{{ .audience }}</dd>
+                <dt>Investition</dt>
+                <dd>{{ .investment }}</dd>
+              </dl>
+            </article>
+          {{ end }}
         </div>
       </section>
       {{ end }}
@@ -304,7 +308,7 @@
           <a class="btn" href="{{ $ui.faq_cta_href }}" title="{{ $ui.faq_cta_text }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon" loading="lazy" width="20" height="20"> {{ $ui.faq_cta_text }}</a>
         </div>
       </div>
-      {{ partial "responsive-image.html" (dict "src" $contact.photo "alt" $ui.coach_image_alt "title" $ui.coach_image_alt "class" "signature-photo" "loading" "lazy" "width" 1290 "height" 1582) }}
+      {{ partial "responsive-image.html" (dict "src" $contact.photo "alt" $ui.coach_image_alt "title" $ui.coach_image_alt "class" "signature-photo" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" 1290 "height" 1582) }}
     </div>
   </section>
 </main>

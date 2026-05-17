@@ -19,9 +19,12 @@
     "lhci:healthcheck": "lhci healthcheck",
     "translation-sync": "node bin/translation-sync",
     "translation-sync:check": "node bin/translation-sync",
-    "translation-sync:apply": "node bin/translation-sync --sync"
+    "translation-sync:apply": "node bin/translation-sync --sync",
+    "test:responsive": "playwright test tests/responsive.spec.js",
+    "test:responsive:update": "playwright test tests/responsive.spec.js --update-snapshots"
   },
   "devDependencies": {
+    "@playwright/test": "^1.55.0",
     "@lhci/cli": "^0.15.1",
     "markdownlint-cli2": "^0.22.1",
     "prettier": "^3.8.3",
