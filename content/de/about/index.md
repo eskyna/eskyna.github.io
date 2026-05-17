@@ -17,7 +17,7 @@ process:
     - title: "Stil im Alltag"
       text: "Outfits, die passen und sich richtig anfühlen."
   outro: "Der genaue Ablauf richtet sich nach dem gewählten Angebot - das Ziel bleibt immer gleich: ein Stil, der Sie im Alltag entlastet und in Ihrer Wirkung stärkt."
-  ctaText: "Kostenloses Erstgespräch buchen"
+  ctaText: "Kostenloses Erstgespräch"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 ---
 

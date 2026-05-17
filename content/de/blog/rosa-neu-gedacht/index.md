@@ -107,7 +107,7 @@ Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, w
 
 In einer persönlichen Stil- und Farbberatung finden Sie heraus, welche Farben Ihre Ausstrahlung unterstützen und wie Sie Looks zusammenstellen, die wirklich zu Ihnen passen.
 
-{{< button-icon text="Kostenloses Erstgespräch buchen" title="Kostenloses Erstgespräch buchen" targetBlank="true" >}}
+{{< button-icon text="Kostenloses Erstgespräch" title="Kostenloses Erstgespräch" targetBlank="true" >}}
 
 ## Quellen & weiterführende Literatur
 
