@@ -41,7 +41,7 @@ The site will be available at `http://localhost:1313`
 ### Build for Production
 
 ```bash
-hugo
+npm run build
 ```
 
 Static output is generated in the `public/` directory, ready for deployment to GitHub Pages or any static host.
@@ -54,11 +54,8 @@ Static output is generated in the `public/` directory, ready for deployment to G
 .
 ├── archetypes/              # Content templates
 ├── content/                 # Page content (Markdown)
-│   ├── _index.md           # Homepage (frontmatter-based sections)
-│   ├── about/              # About page
-│   ├── estyle/             # EStyle service page
-│   ├── datenschutz/        # Privacy policy
-│   └── impressum/          # Legal notice
+│   ├── de/                 # German content
+│   └── ru/                 # Russian content
 ├── layouts/                # HTML templates
 │   ├── index.html          # Homepage layout
 │   ├── _default/
@@ -83,9 +80,9 @@ Static output is generated in the `public/` directory, ready for deployment to G
 
 ### Key Content Files
 
-- `content/_index.md`: Homepage sections (hero, problems, coach, facts, services, contact)
-- `content/about/index.md`: About & coaching philosophy
-- `content/estyle/index.md`: EStyle digital offering
+- `content/de/_index.md`: Homepage sections (hero, problems, coach, facts, services, contact)
+- `content/de/about/index.md`: About & coaching philosophy
+- `content/de/estyle/index.md`: EStyle digital offering
 - `layouts/index.html`: Homepage template (sections, cards, CTA)
 - `layouts/_default/single.html`: Default page template with sidebar
 - `static/css/main.css`: Responsive design, color scheme, components
@@ -131,7 +128,7 @@ Hugo templates use Go template syntax. Key files:
 ### Local Build
 
 ```bash
-hugo
+npm run build
 # Output: public/
 ```
 

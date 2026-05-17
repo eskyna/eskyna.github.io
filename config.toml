@@ -13,7 +13,7 @@ title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
     languageCode = "de-DE"
     languageName = "Deutsch"
     weight = 1
-    contentDir = "content"
+    contentDir = "content/de"
     [languages.de.params]
       author = "Natalia Kleemann"
       description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecken Sie Ihren individuellen Stil, treten Sie sichtbar und authentisch auf. ESKYNA begleitet Sie zu mehr Stilsicherheit und Selbstvertrauen."

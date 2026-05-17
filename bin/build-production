@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+
+if ! command -v hugo >/dev/null 2>&1; then
+  echo "Error: Hugo is not installed or not in PATH." >&2
+  exit 127
+fi
+
+cd "$ROOT_DIR"
+
+echo "Running production Hugo build..."
+if [[ -n "${HUGO_BASEURL:-}" ]]; then
+  HUGO_ENVIRONMENT="${HUGO_ENVIRONMENT:-production}" \
+    hugo \
+    --minify \
+    --gc \
+    --panicOnWarning \
+    --printPathWarnings \
+    --printI18nWarnings \
+    --baseURL "$HUGO_BASEURL" \
+    "$@"
+else
+  HUGO_ENVIRONMENT="${HUGO_ENVIRONMENT:-production}" \
+    hugo \
+    --minify \
+    --gc \
+    --panicOnWarning \
+    --printPathWarnings \
+    --printI18nWarnings \
+    "$@"
+fi
+
+echo "Hugo production build completed successfully."

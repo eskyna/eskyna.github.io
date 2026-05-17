@@ -1,3 +1,4 @@
 node_modules/**
 **/*.xcf
 public/**
+**/.DS_Store
