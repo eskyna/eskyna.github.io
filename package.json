@@ -14,11 +14,15 @@
     "lint-and-format:fix": "node bin/lint-and-format --fix",
     "seo-audit": "node bin/seo-audit",
     "seo-audit:static": "node bin/seo-audit ./static/outfits",
+    "build": "hugo --minify",
+    "lhci": "lhci autorun",
+    "lhci:healthcheck": "lhci healthcheck",
     "translation-sync": "node bin/translation-sync",
     "translation-sync:check": "node bin/translation-sync",
     "translation-sync:apply": "node bin/translation-sync --sync"
   },
   "devDependencies": {
+    "@lhci/cli": "^0.15.1",
     "markdownlint-cli2": "^0.22.1",
     "prettier": "^3.8.3",
     "stylelint": "^16.25.0",

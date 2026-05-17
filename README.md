@@ -172,6 +172,9 @@ yarn format:check
 # Run individual linters
 yarn lint:css
 yarn lint:md
+
+# Run Lighthouse CI locally
+yarn lhci
 ```
 
 #### Setup
