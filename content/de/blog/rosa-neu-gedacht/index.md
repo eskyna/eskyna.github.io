@@ -38,8 +38,8 @@ Die wichtigste Frage lautet deshalb nicht: "Steht mir Rosa?" Sondern: Welches Ro
 
 Rosa wirkt heute oft selbstverständlich feminin. Historisch war diese Bedeutung jedoch deutlich wandelbarer.
 
-- 18. Jahrhundert: Rosa war in Europa unter anderem eine Farbe von Luxus, Raffinesse und modischem Geschmack.[^5]
-- 19. bis frühes 20. Jahrhundert: Die heutige Zuordnung "Rosa für Mädchen, Blau für Jungen" war lange nicht so festgelegt.[^6]
+- 18\. Jahrhundert: Rosa war in Europa unter anderem eine Farbe von Luxus, Raffinesse und modischem Geschmack.[^5]
+- 19\. bis frühes 20. Jahrhundert: Die heutige Zuordnung "Rosa für Mädchen, Blau für Jungen" war lange nicht so festgelegt.[^6]
 - 1930er Jahre: Elsa Schiaparelli machte ein intensives Pink zu ihrer Signatur.[^7][^8]
 - Heute: Rosa ist stilistisch offen und kann minimalistisch, romantisch, sportlich oder business-tauglich wirken.
 
@@ -87,10 +87,17 @@ Dunkles Braun, Blazer, Krawatte und Loafer erden Rosa. So entsteht ein Look, der
 Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung finden Sie heraus, welche Rosa-Nuancen Ihre Ausstrahlung am besten unterstützen.
 
 [^1]: [Do we feel colours? A systematic review of 128 years of psychological investigations on colour-emotion associations](https://link.springer.com/article/10.3758/s13423-024-02615-z), Springer.
+
 [^2]: [Color and psychological functioning: a review of theoretical and empirical work](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00368/full), Frontiers in Psychology.
+
 [^3]: [Color and emotion: effects of hue, saturation, and brightness](https://link.springer.com/article/10.1007/s00426-017-0880-8), Psychological Research.
+
 [^4]: [Dress is a Fundamental Component of Person Perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC10559650/), Personality and Social Psychology Review.
+
 [^5]: [Pink: The History of a Punk, Pretty, Powerful Color](https://www.fitnyc.edu/museum/exhibitions/pink.php), Museum at FIT.
+
 [^6]: [Unraveling the Colorful History of Why Girls Wear Pink and Boys Wear Blue](https://www.smithsonianmag.com/history/unraveling-the-colorful-history-of-why-girls-wear-pink-and-boys-wear-blue-1370097/), Smithsonian Magazine.
+
 [^7]: [Elsa Schiaparelli Suit, 1938-39](https://www.metmuseum.org/art/collection/search/156498), The Metropolitan Museum of Art.
+
 [^8]: [Schiaparelli Shocking Perfume Bottle](https://schiaparelli.com/en/blogs/schiaparelli-et-les-artistes/leonor-fini-flacon-du-parfum-shocking-de-schiaparelli), Maison Schiaparelli.

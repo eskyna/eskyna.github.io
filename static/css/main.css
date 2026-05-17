@@ -2858,7 +2858,7 @@ body :where(button) {
   font-size: clamp(1.35rem, 2.8vw, 1.7rem);
 }
 
-.blog-post-title a {
+.blog-post-title :where(a) {
   text-decoration: none;
 }
 
@@ -2957,11 +2957,11 @@ body :where(button) {
   line-height: 1.85;
 }
 
-.blog-prose p {
+.blog-prose :where(p) {
   margin: 0 0 1.15rem;
 }
 
-.blog-prose > p:first-of-type {
+.blog-prose > :where(p:first-of-type) {
   font-size: clamp(1.14rem, 1.8vw, 1.3rem);
   line-height: 1.72;
   color: var(--text-muted);
@@ -2980,7 +2980,7 @@ body :where(button) {
   color: var(--text);
 }
 
-.blog-prose a:any-link {
+.blog-prose :where(a:any-link) {
   color: var(--accent-strong);
 }
 
