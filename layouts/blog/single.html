@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{ $backText := "Zum Blog" }}
+{{ $tocText := "Inhalt" }}
+{{ $readingTimeText := "Min. Lesezeit" }}
+{{ $audioLabel := "Beitrag anhören" }}
+{{ if eq .Language.Lang "ru" }}
+  {{ $backText = "К блогу" }}
+  {{ $tocText = "Содержание" }}
+  {{ $readingTimeText = "мин. чтения" }}
+  {{ $audioLabel = "Слушать статью" }}
+{{ end }}
+<main class="blog-page">
+  <section class="hero-small blog-hero">
+    <div class="container">
+      <a class="back-link" href="{{ "blog" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
+      <p class="eyebrow blog-meta">{{ .Date | time.Format "2006-01-02" }} · {{ .ReadingTime }} {{ $readingTimeText }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.summary }}<p class="blog-single-summary">{{ . }}</p>{{ end }}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container blog-content-wrap">
+      {{ $heroName := or .Params.hero .Params.image }}
+      {{ if $heroName }}
+        {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
+        {{ $avif := .Resources.GetMatch (printf "%s.avif" $stem) }}
+        {{ $webp := .Resources.GetMatch (printf "%s.webp" $stem) }}
+        {{ $png  := .Resources.GetMatch (printf "%s.png"  $stem) }}
+        {{ $orig := .Resources.GetMatch $heroName }}
+        {{ $fallback := or $png $orig }}
+        {{ with $fallback }}
+          <figure class="blog-hero-image-wrap">
+            <picture>
+              {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
+              {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
+              {{ with $png  }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
+              <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="blog-hero-image" loading="lazy" width="{{ .Width }}" height="{{ .Height }}">
+            </picture>
+          </figure>
+        {{ end }}
+      {{ end }}
+
+      {{ with .Resources.GetMatch "reading.mp3" }}
+        <div class="blog-audio-player">
+          <span class="blog-audio-label">{{ $audioLabel }}</span>
+          <audio controls preload="none">
+            <source src="{{ .RelPermalink }}" type="audio/mpeg">
+          </audio>
+        </div>
+      {{ end }}
+
+      <div class="blog-reading-layout">
+        {{ if ne .TableOfContents "" }}
+          <aside class="blog-toc">
+            <h2>{{ $tocText }}</h2>
+            {{ .TableOfContents }}
+          </aside>
+        {{ end }}
+
+        <article class="prose content-prose blog-prose">
+          {{ .Content }}
+        </article>
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

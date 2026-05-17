@@ -1,0 +1,54 @@
+{{ define "main" }}
+{{ $backText := "Zur Startseite" }}
+{{ $readMoreText := "Artikel lesen" }}
+{{ $readingTimeText := "Min. Lesezeit" }}
+{{ if eq .Language.Lang "ru" }}
+  {{ $backText = "На главную" }}
+  {{ $readMoreText = "Читать статью" }}
+  {{ $readingTimeText = "мин. чтения" }}
+{{ end }}
+<main class="blog-page">
+  <section class="hero-small blog-hero">
+    <div class="container">
+      <a class="back-link" href="{{ "/" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
+      <h1>{{ .Title }}</h1>
+      <div class="blog-intro">{{ .Content }}</div>
+    </div>
+  </section>
+
+  <section class="section blog-list-section">
+    <div class="container">
+      <div class="blog-post-grid">
+        {{ range .Pages.ByDate.Reverse }}
+          {{ $post := . }}
+          <article class="blog-post-card">
+            {{ $heroName := or $post.Params.hero $post.Params.image }}
+            {{ if $heroName }}
+              {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
+              {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
+              {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
+              {{ $png  := $post.Resources.GetMatch (printf "%s.png"  $stem) }}
+              {{ $orig := $post.Resources.GetMatch $heroName }}
+              {{ $fallback := or $png $orig }}
+              {{ with $fallback }}
+                <a class="blog-post-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+                  <picture>
+                    {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
+                    {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
+                    {{ with $png  }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
+                    <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy" width="{{ .Width }}" height="{{ .Height }}">
+                  </picture>
+                </a>
+              {{ end }}
+            {{ end }}
+            <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $post.ReadingTime }} {{ $readingTimeText }}</p>
+            <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
+            {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
+            <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

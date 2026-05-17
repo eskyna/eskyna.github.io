@@ -1,0 +1,19 @@
+{{- $src := .Destination -}}
+{{- $alt := .PlainText -}}
+{{- $title := .Title -}}
+{{- $imgRes := .Page.Resources.GetMatch $src -}}
+{{- if $imgRes -}}
+  {{- $stem := strings.TrimSuffix (path.Ext $src) $src -}}
+  {{- $avif := .Page.Resources.GetMatch (printf "%s.avif" $stem) -}}
+  {{- $webp := .Page.Resources.GetMatch (printf "%s.webp" $stem) -}}
+  {{- $png  := .Page.Resources.GetMatch (printf "%s.png"  $stem) -}}
+  {{- $fallback := or $png $imgRes -}}
+  <picture>
+    {{- with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end -}}
+    {{- with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end -}}
+    {{- with $png  }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end -}}
+    <img src="{{ $fallback.RelPermalink }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }} loading="lazy" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}">
+  </picture>
+{{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }} loading="lazy">
+{{- end -}}
