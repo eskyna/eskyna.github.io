@@ -25,7 +25,7 @@
         </div>
         {{ if not $isLegalPage }}
         <div class="page-image-wrap">
-          <img src="{{ .Params.image | relURL }}" alt="Natalia Kleemann" title="Natalia Kleemann" class="hero-image">
+          {{ partial "responsive-image.html" (dict "src" .Params.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "hero-image" "loading" "lazy") }}
         </div>
         {{ end }}
       </div>

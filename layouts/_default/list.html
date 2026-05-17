@@ -15,7 +15,7 @@
         {{ range . }}
         <article class="product-card">
           <div class="product-image-wrap">
-            <img src="{{ .image }}" alt="{{ .alt }}" title="{{ .alt }}" class="product-image">
+            {{ partial "responsive-image.html" (dict "src" .image "alt" .alt "title" .alt "class" "product-image" "loading" "lazy") }}
           </div>
           <div class="product-content">
             <h3 class="product-title">{{ .title }}</h3>

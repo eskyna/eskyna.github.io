@@ -34,7 +34,11 @@ body {
     radial-gradient(circle at 86% 12%, rgb(139 94 52 / 12%), transparent 22rem),
     radial-gradient(circle at 84% 84%, rgb(44 30 22 / 9%), transparent 24rem),
     linear-gradient(rgb(255 255 255 / 68%), rgb(255 255 255 / 68%)),
-    url("/images/linen-texture-light.png");
+    image-set(
+      url("/images/linen-texture-light.avif") type("image/avif"),
+      url("/images/linen-texture-light.webp") type("image/webp"),
+      url("/images/linen-texture-light.png") type("image/png")
+    );
   background-repeat: no-repeat, no-repeat, no-repeat, repeat, repeat;
   background-size:
     auto,

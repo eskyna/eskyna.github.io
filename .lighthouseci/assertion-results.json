@@ -3,9 +3,7 @@
     "name": "minScore",
     "expected": 0.7,
     "actual": 0.65,
-    "values": [
-      0.65
-    ],
+    "values": [0.65],
     "operator": ">=",
     "passed": false,
     "auditProperty": "performance",
@@ -17,9 +15,7 @@
     "name": "minScore",
     "expected": 0.7,
     "actual": 0.67,
-    "values": [
-      0.67
-    ],
+    "values": [0.67],
     "operator": ">=",
     "passed": false,
     "auditProperty": "performance",

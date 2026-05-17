@@ -39,7 +39,7 @@
         {{ end }}
       </div>
       <div class="hero-image-wrap">
-        <img src="{{ $hero.image | relURL }}" alt="{{ $ui.hero_image_alt }}" title="{{ $ui.hero_image_alt }}" class="hero-image">
+        {{ partial "responsive-image.html" (dict "src" $hero.image "alt" $ui.hero_image_alt "title" $ui.hero_image_alt "class" "hero-image" "loading" "eager" "fetchpriority" "high") }}
       </div>
     </div>
   </section>
@@ -81,7 +81,7 @@
   <section class="section coach-section">
     <div class="container intro-grid">
       <div>
-        <img src="{{ $coach.image | relURL }}" alt="Natalia Kleemann" title="Natalia Kleemann" class="card-image coach-image">
+        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "card-image coach-image" "loading" "lazy") }}
       </div>
       <div>
         <h2>{{ $coach.title }}</h2>
@@ -141,7 +141,7 @@
             <article class="free-offer-card">
               {{ with .image }}
                 {{ $imagePath := . }}
-                <img src="{{ $imagePath | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="free-offer-image{{ if hasSuffix $imagePath "10_styling_tipps.png" }} free-offer-image-contain{{ end }}">
+                {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (hasSuffix $imagePath "10_styling_tipps.png") " free-offer-image-contain" "")) "loading" "lazy") }}
               {{ end }}
               <h4>{{ .title }}</h4>
               <p>{{ .text }}</p>
@@ -304,7 +304,7 @@
           <a class="btn" href="{{ $ui.faq_cta_href }}" title="{{ $ui.faq_cta_text }}" target="_blank" rel="noopener noreferrer"><img src="/images/sign_black.png" alt="Eskyna Kleeblatt-Symbol" title="Eskyna Kleeblatt-Symbol" class="btn-icon"> {{ $ui.faq_cta_text }}</a>
         </div>
       </div>
-      <img src="{{ $contact.photo | relURL }}" alt="{{ $ui.coach_image_alt }}" title="{{ $ui.coach_image_alt }}" class="signature-photo">
+      {{ partial "responsive-image.html" (dict "src" $contact.photo "alt" $ui.coach_image_alt "title" $ui.coach_image_alt "class" "signature-photo" "loading" "lazy") }}
     </div>
   </section>
 </main>

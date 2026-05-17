@@ -1,0 +1,22 @@
+{{- $src := .src -}}
+{{- $alt := .alt | default "" -}}
+{{- $title := .title | default $alt -}}
+{{- $class := .class -}}
+{{- $loading := .loading -}}
+{{- $decoding := .decoding -}}
+{{- $fetchpriority := .fetchpriority -}}
+{{- $width := .width -}}
+{{- $height := .height -}}
+{{- $isAbsolute := or (hasPrefix $src "http://") (hasPrefix $src "https://") (hasPrefix $src "data:") -}}
+{{- $ext := lower (path.Ext $src) -}}
+{{- $isConvertible := and (not $isAbsolute) (or (eq $ext ".png") (eq $ext ".jpg") (eq $ext ".jpeg")) -}}
+{{- $base := replaceRE "\\.[^.]+$" "" $src -}}
+{{- if $isConvertible -}}
+<picture>
+  <source srcset="{{ printf "%s.avif" $base | relURL }}" type="image/avif">
+  <source srcset="{{ printf "%s.webp" $base | relURL }}" type="image/webp">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+</picture>
+{{- else -}}
+<img src="{{ if $isAbsolute }}{{ $src | safeURL }}{{ else }}{{ $src | relURL }}{{ end }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+{{- end -}}
