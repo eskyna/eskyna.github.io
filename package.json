@@ -14,6 +14,7 @@
     "lint-and-format:fix": "node bin/lint-and-format --fix",
     "seo-audit": "node bin/seo-audit",
     "seo-audit:static": "node bin/seo-audit ./static/outfits",
+    "check:live-assets": "node bin/check-live-assets",
     "build": "./bin/build-production",
     "build:ci": "./bin/build-production --templateMetrics --templateMetricsHints",
     "lhci": "lhci autorun",

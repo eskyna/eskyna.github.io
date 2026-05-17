@@ -1,0 +1,356 @@
+#!/usr/bin/env node
+
+const DEFAULT_START_URLS = [
+  "https://eskyna.com",
+  "https://eskyna.com/estyle",
+  "https://eskyna.com/about",
+  "https://eskyna.com/impressum",
+  "https://eskyna.com/datenschutz",
+  "https://eskyna.com/shop",
+  "https://eskyna.com/blog",
+];
+
+const DEFAULT_MAX_PAGES = 300;
+const DEFAULT_CONCURRENCY = 10;
+
+function parseArgs(argv) {
+  const urls = [];
+  let maxPages = DEFAULT_MAX_PAGES;
+  let concurrency = DEFAULT_CONCURRENCY;
+
+  for (let i = 0; i < argv.length; i += 1) {
+    const arg = argv[i];
+    if (arg === "--max-pages" && argv[i + 1]) {
+      maxPages = Number(argv[i + 1]);
+      i += 1;
+      continue;
+    }
+    if (arg === "--concurrency" && argv[i + 1]) {
+      concurrency = Number(argv[i + 1]);
+      i += 1;
+      continue;
+    }
+    if (arg === "--help" || arg === "-h") {
+      console.log("Usage: node bin/check-live-assets [url ...] [--max-pages N] [--concurrency N]");
+      process.exit(0);
+    }
+    urls.push(arg);
+  }
+
+  return {
+    startUrls: urls.length > 0 ? urls : DEFAULT_START_URLS,
+    maxPages: Number.isFinite(maxPages) && maxPages > 0 ? maxPages : DEFAULT_MAX_PAGES,
+    concurrency:
+      Number.isFinite(concurrency) && concurrency > 0 ? concurrency : DEFAULT_CONCURRENCY,
+  };
+}
+
+function normalizeUrl(input) {
+  const u = new URL(input);
+  u.hash = "";
+  if (u.pathname !== "/" && u.pathname.endsWith("/")) {
+    u.pathname = u.pathname.slice(0, -1);
+  }
+  return u.toString();
+}
+
+function inScope(url, origin, allowedPrefixes) {
+  if (url.origin !== origin) return false;
+  return allowedPrefixes.some((prefix) => {
+    if (prefix === "/") return true;
+    return url.pathname === prefix || url.pathname.startsWith(`${prefix}/`);
+  });
+}
+
+function shouldSkipRef(ref) {
+  if (!ref) return true;
+  const trimmed = ref.trim();
+  if (!trimmed) return true;
+  if (trimmed.startsWith("#")) return true;
+  if (trimmed.startsWith("mailto:")) return true;
+  if (trimmed.startsWith("tel:")) return true;
+  if (trimmed.startsWith("javascript:")) return true;
+  if (trimmed.startsWith("data:")) return true;
+  if (trimmed.startsWith("blob:")) return true;
+  if (trimmed.includes("${")) return true;
+  if (trimmed.includes("livereload.js")) return true;
+  return false;
+}
+
+function isLikelyHtml(url) {
+  const path = url.pathname.toLowerCase();
+  if (path.endsWith(".html") || path.endsWith(".htm")) return true;
+  if (path.endsWith("/")) return true;
+  if (!path.includes(".")) return true;
+  return false;
+}
+
+function extractAttrValues(html, tag, attr) {
+  const values = [];
+  const re = new RegExp(
+    `<${tag}\\b[^>]*\\b${attr}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s"'=<>` + "`" + `]+))`,
+    "gi"
+  );
+  let m;
+  while ((m = re.exec(html)) !== null) {
+    values.push((m[1] || m[2] || m[3] || "").trim());
+  }
+  return values;
+}
+
+function extractSrcsetUrls(srcset) {
+  return srcset
+    .split(",")
+    .map((part) => part.trim().split(/\s+/)[0])
+    .filter(Boolean);
+}
+
+function parsePageRefs(html, pageUrl) {
+  const crawlCandidates = [];
+  const assetCandidates = [];
+
+  const aHrefs = extractAttrValues(html, "a", "href");
+  for (const ref of aHrefs) {
+    if (shouldSkipRef(ref)) continue;
+    let resolved;
+    try {
+      resolved = new URL(ref, pageUrl);
+    } catch {
+      continue;
+    }
+    const normalized = normalizeUrl(resolved.toString());
+    assetCandidates.push(normalized);
+    if (isLikelyHtml(resolved)) {
+      crawlCandidates.push(normalized);
+    }
+  }
+
+  const simpleRefs = [
+    ["img", "src"],
+    ["script", "src"],
+    ["link", "href"],
+    ["video", "src"],
+    ["video", "poster"],
+    ["audio", "src"],
+    ["source", "src"],
+    ["iframe", "src"],
+    ["embed", "src"],
+    ["object", "data"],
+  ];
+
+  for (const [tag, attr] of simpleRefs) {
+    const refs = extractAttrValues(html, tag, attr);
+    for (const ref of refs) {
+      if (shouldSkipRef(ref)) continue;
+      try {
+        assetCandidates.push(normalizeUrl(new URL(ref, pageUrl).toString()));
+      } catch {
+        // ignore parse errors
+      }
+    }
+  }
+
+  const srcsets = extractAttrValues(html, "source", "srcset").concat(
+    extractAttrValues(html, "img", "srcset")
+  );
+  for (const srcset of srcsets) {
+    for (const ref of extractSrcsetUrls(srcset)) {
+      if (shouldSkipRef(ref)) continue;
+      try {
+        assetCandidates.push(normalizeUrl(new URL(ref, pageUrl).toString()));
+      } catch {
+        // ignore parse errors
+      }
+    }
+  }
+
+  return { crawlCandidates, assetCandidates };
+}
+
+async function fetchText(url) {
+  const response = await fetch(url, {
+    method: "GET",
+    redirect: "follow",
+    headers: { "user-agent": "eskyna-link-check/1.0" },
+  });
+  const contentType = response.headers.get("content-type") || "";
+  const text = await response.text();
+  return { response, contentType, text };
+}
+
+async function checkLoadable(url) {
+  try {
+    const head = await fetch(url, {
+      method: "HEAD",
+      redirect: "follow",
+      headers: { "user-agent": "eskyna-link-check/1.0" },
+    });
+
+    if (head.ok) {
+      return { ok: true, status: head.status, method: "HEAD" };
+    }
+
+    if (head.status === 405 || head.status === 501 || head.status === 403) {
+      const getResp = await fetch(url, {
+        method: "GET",
+        redirect: "follow",
+        headers: {
+          "user-agent": "eskyna-link-check/1.0",
+          range: "bytes=0-0",
+        },
+      });
+      return { ok: getResp.ok, status: getResp.status, method: "GET" };
+    }
+
+    return { ok: false, status: head.status, method: "HEAD" };
+  } catch (error) {
+    return { ok: false, status: 0, method: "HEAD", error: String(error.message || error) };
+  }
+}
+
+async function run() {
+  const { startUrls, maxPages, concurrency } = parseArgs(process.argv.slice(2));
+
+  if (!startUrls.length) {
+    console.error("No start URLs provided.");
+    process.exit(1);
+  }
+
+  const first = new URL(startUrls[0]);
+  const origin = first.origin;
+  const allowedPrefixes = Array.from(
+    new Set(
+      startUrls.map((u) => {
+        const parsed = new URL(u);
+        if (parsed.origin !== origin) {
+          throw new Error("All start URLs must share the same origin.");
+        }
+        const path = parsed.pathname.replace(/\/$/, "") || "/";
+        return path;
+      })
+    )
+  );
+
+  const pageQueue = [];
+  const visitedPages = new Set();
+  const seenAssets = new Set();
+  const failed = [];
+
+  for (const raw of startUrls) {
+    const normalized = normalizeUrl(raw);
+    pageQueue.push(normalized);
+  }
+
+  console.log(`Checking ${startUrls.length} start URLs on ${origin}`);
+  console.log(`Scope prefixes: ${allowedPrefixes.join(", ")}`);
+
+  while (pageQueue.length > 0 && visitedPages.size < maxPages) {
+    const pageUrl = pageQueue.shift();
+    if (visitedPages.has(pageUrl)) continue;
+
+    const parsed = new URL(pageUrl);
+    if (!inScope(parsed, origin, allowedPrefixes)) continue;
+
+    visitedPages.add(pageUrl);
+    process.stdout.write(`\rCrawled pages: ${visitedPages.size}`);
+
+    let page;
+    try {
+      page = await fetchText(pageUrl);
+    } catch (error) {
+      failed.push({
+        type: "page",
+        url: pageUrl,
+        status: 0,
+        detail: String(error.message || error),
+      });
+      continue;
+    }
+
+    if (!page.response.ok) {
+      failed.push({
+        type: "page",
+        url: pageUrl,
+        status: page.response.status,
+        detail: "GET failed",
+      });
+      continue;
+    }
+
+    if (!page.contentType.toLowerCase().includes("text/html")) {
+      continue;
+    }
+
+    const { crawlCandidates, assetCandidates } = parsePageRefs(page.text, pageUrl);
+
+    for (const candidate of crawlCandidates) {
+      if (!visitedPages.has(candidate)) {
+        pageQueue.push(candidate);
+      }
+    }
+
+    for (const asset of assetCandidates) {
+      let parsedAsset;
+      try {
+        parsedAsset = new URL(asset);
+      } catch {
+        continue;
+      }
+      if (!inScope(parsedAsset, origin, allowedPrefixes)) continue;
+      seenAssets.add(asset);
+    }
+  }
+
+  console.log(`\nPages crawled: ${visitedPages.size}`);
+  console.log(`Unique in-scope URLs to check: ${seenAssets.size}`);
+
+  const assetList = Array.from(seenAssets);
+  let index = 0;
+
+  async function worker() {
+    while (index < assetList.length) {
+      const i = index;
+      index += 1;
+      const url = assetList[i];
+      const result = await checkLoadable(url);
+      if (!result.ok) {
+        failed.push({
+          type: "asset",
+          url,
+          status: result.status,
+          detail: result.error || result.method,
+        });
+      }
+      if ((i + 1) % 25 === 0 || i + 1 === assetList.length) {
+        process.stdout.write(`\rChecked assets: ${i + 1}/${assetList.length}`);
+      }
+    }
+  }
+
+  const workers = [];
+  for (let i = 0; i < concurrency; i += 1) {
+    workers.push(worker());
+  }
+  await Promise.all(workers);
+  console.log("\n");
+
+  if (failed.length === 0) {
+    console.log("All checked pages/assets are loadable.");
+    return;
+  }
+
+  failed.sort((a, b) => a.status - b.status || a.url.localeCompare(b.url));
+  console.log(`Found ${failed.length} failing URLs:`);
+  for (const item of failed) {
+    console.log(
+      `- [${item.type}] ${item.status || "ERR"} ${item.url}${item.detail ? ` (${item.detail})` : ""}`
+    );
+  }
+
+  process.exitCode = 1;
+}
+
+run().catch((error) => {
+  console.error(`Fatal error: ${error && error.message ? error.message : error}`);
+  process.exit(1);
+});
