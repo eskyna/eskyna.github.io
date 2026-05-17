@@ -73,12 +73,6 @@ body {
   line-height: 1.55;
 }
 
-.section-card {
-  background: rgb(255 255 255 / 88%);
-  backdrop-filter: blur(1px);
-  border-radius: 20px;
-}
-
 img {
   max-width: 100%;
   display: block;
@@ -276,18 +270,15 @@ h3 {
   margin-top: 0;
 }
 
-h4,
-h5,
-h6 {
+h4 {
   font-family: var(--font-headline);
   font-weight: 400;
 }
 
-.offers-intro,
+
 .references-subtitle,
 .process-intro,
-.process-outro,
-.offer-label {
+.process-outro {
   font-family: var(--font-subtitle);
 }
 
@@ -599,14 +590,6 @@ h1 {
   padding: 1.25rem;
 }
 
-.card-icon {
-  width: 100%;
-  max-width: 80px;
-  height: auto;
-  margin-bottom: 1rem;
-  display: block;
-}
-
 /* ─── Problems Section – Premium Editorial ───────────────────── */
 
 .ps-section {
@@ -632,16 +615,6 @@ h1 {
   margin-bottom: 56px;
 }
 
-.ps-eyebrow {
-  margin: 0 0 1rem;
-  font-family: var(--font-subtitle);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--accent);
-}
-
 .ps-heading {
   margin: 0 0 1.5rem;
   font-family: var(--font-headline);
@@ -665,13 +638,6 @@ h1 {
   flex: 1;
   height: 1px;
   background: linear-gradient(to right, transparent, rgb(212 191 165 / 60%), transparent);
-}
-
-.ps-divider-icon {
-  font-size: 0.7rem;
-  color: var(--accent);
-  opacity: 0.7;
-  line-height: 1;
 }
 
 /* Grids */
@@ -749,56 +715,6 @@ h1 {
 }
 
 /* CTA Strip */
-.ps-cta {
-  margin-top: 64px;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-}
-
-.ps-cta-lead {
-  margin: 0;
-  font-family: var(--font-headline);
-  font-size: clamp(1.2rem, 2.5vw, 1.6rem);
-  font-weight: 400;
-  color: var(--text);
-  letter-spacing: -0.01em;
-}
-
-.ps-cta-sub {
-  margin: 0;
-  font-size: 1rem;
-  color: var(--muted);
-  max-width: 52ch;
-  line-height: 1.6;
-}
-
-.ps-cta-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  margin-top: 16px;
-  padding: 13px 32px;
-  background: var(--text);
-  color: #fbf7f1;
-  font-family: var(--font-subtitle);
-  font-size: 0.95rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  border-radius: 999px;
-  text-decoration: none;
-  transition:
-    background 180ms ease,
-    transform 180ms ease;
-}
-
-.ps-cta-btn:hover {
-  background: var(--accent-strong);
-  color: #fff;
-  transform: translateY(-2px);
-}
 
 /* Responsive */
 @media (width <= 960px) {
@@ -862,7 +778,6 @@ h1 {
 .benefits-intro,
 .process-intro,
 .process-outro,
-.offers-intro,
 .offers-group-title {
   text-align: center;
   margin-left: auto;
@@ -891,18 +806,6 @@ h1 {
   letter-spacing: 0.01em;
   line-height: 1.28;
   color: var(--accent-strong);
-}
-
-.benefit-index {
-  margin: 0 0 0.65rem;
-  display: inline-block;
-  padding: 0.25rem 0.55rem;
-  border-radius: 999px;
-  border: 1px solid rgb(139 94 52 / 30%);
-  color: var(--accent-strong);
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
-  font-weight: 700;
 }
 
 .process-section {
@@ -955,18 +858,6 @@ h1 {
 .process-card p:last-child {
   margin: 0;
   color: var(--muted);
-}
-
-.process-index {
-  margin: 0 0 0.65rem;
-  display: inline-block;
-  padding: 0.25rem 0.55rem;
-  border-radius: 999px;
-  border: 1px solid rgb(139 94 52 / 30%);
-  color: var(--accent-strong);
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
-  font-weight: 700;
 }
 
 .process-section .btn {
@@ -1025,24 +916,6 @@ h1 {
   color: var(--accent-strong);
 }
 
-.mission-title {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  margin: 2.5rem auto 0.9rem;
-  padding: 0.35rem 0.9rem;
-  border-radius: 999px;
-  border: 1px solid rgb(255 255 255 / 20%);
-  background: rgb(255 255 255 / 12%);
-  color: var(--text);
-  font-size: 0.78rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.22em;
-  text-align: center;
-}
-
 .mission {
   position: relative;
   margin-top: 0;
@@ -1094,141 +967,12 @@ h1 {
   }
 }
 
-.offers-group {
-  margin-top: 1.8rem;
-}
-
 .offers-group-title {
   margin-bottom: 1rem;
   font-size: clamp(1.2rem, 2vw, 1.55rem);
 }
 
-.offers-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-  margin-top: 1.4rem;
-  align-items: stretch;
-}
-
-.offer-card {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  min-width: 0;
-  gap: 0.9rem;
-  padding: 1.4rem;
-  border: 1px solid var(--card-border);
-  border-radius: 16px;
-  background: rgb(249 246 240 / 70%);
-}
-
-.offer-card h3 {
-  margin: 0;
-}
-
-.offer-card h4 {
-  margin: 0;
-  font-size: 1.15rem;
-}
-
-.offer-label {
-  margin: 0;
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-size: 0.72rem;
-  color: var(--accent-strong);
-  font-weight: 700;
-}
-
-.offer-text {
-  margin: 0;
-  color: var(--muted);
-}
-
-.offer-highlights {
-  margin: 0;
-  padding-left: 1.1rem;
-  color: var(--text);
-}
-
-.offer-highlights li {
-  margin-bottom: 0.35rem;
-}
-
-.offer-note {
-  margin: 0;
-  color: var(--accent-strong);
-  font-weight: 600;
-}
-
-.offer-result {
-  margin: 0;
-  padding-top: 0.75rem;
-  border-top: 1px solid rgb(44 30 22 / 10%);
-  color: var(--text);
-}
-
-.offer-result strong {
-  color: var(--accent-strong);
-}
-
-.offer-meta {
-  margin: 0;
-  padding-left: 1.1rem;
-  color: var(--text);
-}
-
-.offer-meta li {
-  margin-bottom: 0.3rem;
-}
-
-.offer-card-actions {
-  margin-top: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  width: 100%;
-  min-width: 0;
-  gap: 0.6rem;
-}
-
-.offer-card-actions .btn {
-  align-self: stretch;
-  width: 100%;
-  max-width: 100%;
-  min-width: 0;
-  box-sizing: border-box;
-  white-space: normal;
-  text-align: center;
-  line-height: 1.2;
-  min-height: 56px;
-  height: auto;
-  padding: 14px 20px;
-  gap: 12px;
-  overflow-wrap: anywhere;
-  word-break: normal;
-}
-
-.offer-card-actions .btn .btn-icon {
-  margin-right: 0;
-}
-
-.offer-card-featured {
-  background: var(--surface-card-featured);
-  border-color: rgb(139 94 52 / 35%);
-  box-shadow: 0 12px 34px rgb(44 30 22 / 14%);
-}
-
 /* ── Neue Angebotsstruktur (3 Pakete + Kostenlos) ──────── */
-
-.offers-intro {
-  margin: 1.5rem 0 3rem;
-  max-width: 75ch;
-  color: var(--muted);
-  font-size: 1.05rem;
-  line-height: 1.7;
-}
 
 .offers-free-section {
   margin: 3rem 0 4rem;
@@ -1582,12 +1326,6 @@ h1 {
   font-size: 0.9rem;
 }
 
-.signature-block {
-  display: grid;
-  gap: 1rem;
-  justify-items: start;
-}
-
 .signature-photo {
   border-radius: 0;
   max-width: 420px;
@@ -1595,11 +1333,6 @@ h1 {
   box-shadow: none;
   width: min(100%, 420px);
   height: auto;
-}
-
-.signature-image {
-  max-width: 150px;
-  filter: contrast(1.02) saturate(1.02);
 }
 
 .page {
@@ -1763,145 +1496,6 @@ h1 {
 
 /* ── Testimonial Slider ────────────────────────────────── */
 
-.testimonials-section {
-  padding: 6rem 0;
-  background: transparent;
-}
-
-.testimonials-title {
-  text-align: center;
-  font-weight: 400;
-  letter-spacing: 0.04em;
-  margin-bottom: 3.5rem;
-  color: var(--text);
-}
-
-.testimonials-slider {
-  position: relative;
-}
-
-.testimonials-track {
-  position: relative;
-  min-height: 340px;
-}
-
-.testimonial-slide {
-  position: absolute;
-  inset: 0;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 900ms ease;
-}
-
-.testimonial-slide.is-active {
-  opacity: 1;
-  pointer-events: auto;
-  position: relative;
-}
-
-.testimonial-inner {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 4rem;
-  align-items: center;
-  max-width: 860px;
-  margin: 0 auto;
-}
-
-.testimonial-image-wrap {
-  width: 100%;
-  aspect-ratio: 4 / 5;
-  overflow: hidden;
-  border-radius: 4px;
-}
-
-.testimonial-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: top center;
-  display: block;
-  filter: grayscale(18%);
-  transition: filter 600ms ease;
-}
-
-.testimonial-slide.is-active .testimonial-image {
-  filter: grayscale(0%);
-}
-
-.testimonial-quote {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  position: relative;
-  padding-top: 2rem;
-}
-
-.testimonial-quote::before {
-  content: "\201C";
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-family: var(--font-headline);
-  font-size: 5rem;
-  line-height: 1;
-  color: var(--accent);
-  opacity: 0.45;
-}
-
-.testimonials-section .testimonial-quote p {
-  font-family: var(--font-text);
-  font-size: clamp(1rem, 1.2vw, 1.15rem);
-  line-height: 1.75;
-  color: var(--text);
-  font-style: italic;
-  margin: 0 0 1.5rem;
-}
-
-.testimonial-name {
-  font-family: var(--font-subtitle);
-  font-size: 0.82rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--accent);
-}
-
-.testimonials-nav {
-  display: flex;
-  justify-content: center;
-  gap: 0.6rem;
-  margin-top: 2.5rem;
-}
-
-.testimonials-dot {
-  appearance: none;
-  border: none;
-  background: none;
-  padding: 6px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.testimonials-dot::before {
-  content: "";
-  display: block;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: var(--card-border);
-  transition:
-    background 300ms ease,
-    transform 300ms ease;
-}
-
-.testimonials-dot.is-active::before,
-.testimonials-dot:hover::before {
-  background: var(--accent);
-  transform: scale(1.3);
-}
-
 /* ── ESKYNA Methode ────────────────────────────────────── */
 
 .method-section {
@@ -2062,86 +1656,6 @@ h1 {
 
 /* ── Praxisbeispiele (Cases) ───────────────────────────── */
 
-.cases-section {
-  padding: 6rem 0;
-  background: var(--bg);
-}
-
-.cases-title {
-  text-align: center;
-  font-weight: 400;
-  letter-spacing: 0.03em;
-  margin-bottom: 0.75rem;
-  color: var(--text);
-}
-
-.cases-subtitle {
-  text-align: center;
-  max-width: 600px;
-  margin: 0 auto 3rem;
-  color: var(--muted);
-  font-size: 1rem;
-  line-height: 1.7;
-}
-
-.cases-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.75rem;
-}
-
-.case-card {
-  background: var(--bg-soft);
-  border-radius: 4px;
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-}
-
-.case-row {
-  display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
-}
-
-.cases-section .case-row p {
-  font-family: var(--font-text);
-  font-size: 0.95rem;
-  line-height: 1.65;
-  color: var(--text);
-  margin: 0;
-}
-
-.case-tag {
-  display: inline-block;
-  font-family: var(--font-subtitle);
-  font-size: 0.68rem;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  background: var(--card-border);
-  color: var(--muted);
-  padding: 0.2rem 0.6rem;
-  border-radius: 2px;
-  align-self: flex-start;
-}
-
-.case-tag-service {
-  background: rgb(197 160 89 / 14%);
-  color: var(--accent-strong);
-}
-
-.case-row-result .case-tag {
-  background: var(--accent);
-  color: #fff;
-}
-
-.cases-section .case-row-result p {
-  font-weight: 600;
-  color: var(--accent-strong);
-}
-
 /* ── Referenz-Label ────────────────────────────────────── */
 
 .reference-label {
@@ -2251,18 +1765,12 @@ h1 {
   margin-top: 1.8rem;
 }
 
-.faq-cta {
-  text-align: center;
-  margin-top: 3rem;
-}
-
 @media (width <= 900px) {
   .hero-grid,
   .intro-grid,
   .contact-grid,
   .cards,
   .page-grid,
-  .offers-grid,
   .benefits-grid,
   .references-grid,
   .process-grid,
@@ -2333,26 +1841,6 @@ h1 {
         rgb(44 30 22 / 56%) 42%,
         rgb(44 30 22 / 12%) 100%
       );
-  }
-
-  .testimonial-inner {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-    text-align: center;
-  }
-
-  .testimonial-image-wrap {
-    width: min(100%, 260px);
-    margin: 0 auto;
-  }
-
-  .testimonial-quote::before {
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .cases-grid {
-    grid-template-columns: 1fr;
   }
 
   .method-journey {
@@ -2911,10 +2399,6 @@ main .hero .hero-copy {
 }
 
 @media (width <= 768px) {
-  .header-topbar {
-    gap: 0.5rem;
-  }
-
   .products-grid {
     grid-template-columns: 1fr;
     gap: 2rem;
