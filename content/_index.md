@@ -181,7 +181,7 @@ services:
   uncertainty:
     title: "Unsicher, welches Angebot das richtige ist?"
     text: "Wenn Sie nicht sicher sind, welches Angebot am besten zu Ihrer aktuellen Situation passt, starten Sie mit einem kostenlosen Kennenlerngespräch. Gemeinsam finden wir heraus, welcher nächste Schritt für Sie sinnvoll ist."
-    ctaText: "Kostenloses Kennenlerngespräch buchen"
+    ctaText: "Kostenloses Erstgespräch"
     ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 method:
   eyebrow: "Die ESKYNA Methode"
