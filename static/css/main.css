@@ -1020,27 +1020,27 @@ h1 {
   align-self: flex-start;
 }
 
-#angebote > div > section.offers-free-section > div > article {
+:where(.offers-free-section) :where(.free-offer-card) {
   border: none !important;
 }
 
-#angebote > div > section.offers-free-section > div > article > picture,
-#angebote > div > section.offers-free-section > div > article > picture .free-offer-image {
+:where(.offers-free-section) :where(.free-offer-card) > picture,
+:where(.offers-free-section) :where(.free-offer-card) > picture .free-offer-image {
   border: none !important;
 }
 
-#angebote > div > section.offers-free-section > div > article > picture {
+:where(.offers-free-section) :where(.free-offer-card) > picture {
   align-self: flex-start;
 }
 
-#angebote > div > section.offers-free-section > div > article > picture .free-offer-image-contain {
+:where(.offers-free-section) :where(.free-offer-card) > picture .free-offer-image-contain {
   width: 50% !important;
   aspect-ratio: auto;
   object-position: left center !important;
   margin-inline: 0;
 }
 
-#angebote > div > section.offers-free-section > div > article > picture .free-offer-image {
+:where(.offers-free-section) :where(.free-offer-card) > picture .free-offer-image {
   width: 50% !important;
 }
 
