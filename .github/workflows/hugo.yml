@@ -80,6 +80,22 @@ jobs:
           else
             hugo --minify --gc --baseURL "${{ steps.pages.outputs.base_url }}/"
           fi
+      - name: Verify links, assets and anchors
+        run: |
+          python3 -m http.server 4173 --directory public >/tmp/linkcheck-server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID' EXIT
+
+          python3 bin/check-live-assets \
+            http://localhost:4173 \
+            http://localhost:4173/estyle \
+            http://localhost:4173/about \
+            http://localhost:4173/impressum \
+            http://localhost:4173/datenschutz \
+            http://localhost:4173/shop \
+            http://localhost:4173/blog \
+            --max-pages 300 \
+            --concurrency 12
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
