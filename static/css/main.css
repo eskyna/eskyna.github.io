@@ -1015,8 +1015,33 @@ h1 {
 
 .free-offer-image-contain {
   object-fit: contain;
+  object-position: left center;
   background: rgb(255 255 255 / 80%);
-  align-self: center;
+  align-self: flex-start;
+}
+
+#angebote > div > section.offers-free-section > div > article {
+  border: none !important;
+}
+
+#angebote > div > section.offers-free-section > div > article > picture,
+#angebote > div > section.offers-free-section > div > article > picture .free-offer-image {
+  border: none !important;
+}
+
+#angebote > div > section.offers-free-section > div > article > picture {
+  align-self: flex-start;
+}
+
+#angebote > div > section.offers-free-section > div > article > picture .free-offer-image-contain {
+  width: 50% !important;
+  aspect-ratio: auto;
+  object-position: left center !important;
+  margin-inline: 0;
+}
+
+#angebote > div > section.offers-free-section > div > article > picture .free-offer-image {
+  width: 50% !important;
 }
 
 .free-offer-card h4 {

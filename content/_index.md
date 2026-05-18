@@ -89,12 +89,12 @@ services:
     items:
       - title: "Kostenloser Stiltest"
         text: "Der ideale Einstieg, wenn Sie Ihren Stil besser verstehen und erste Orientierung gewinnen möchten."
-        image: "images/stiltest.png"
+        image: "images/cover_stiltest.png"
         ctaText: "Stiltest machen"
         ctaHref: "/hannover2026/"
       - title: "10 Styling-Tipps (PDF)"
         text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stil-Sicherheit im Alltag."
-        image: "images/10_styling_tipps.png"
+        image: "images/cover_stylingtipps.png"
         ctaText: "Tipps herunterladen"
         ctaHref: "/10_Styling_Tipps.pdf"
 
