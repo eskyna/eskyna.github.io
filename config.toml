@@ -10,7 +10,7 @@ title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
 [languages]
   [languages.de]
     title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
-    languageCode = "de-DE"
+    locale = "de-DE"
     languageName = "Deutsch"
     weight = 1
     contentDir = "content/de"
@@ -20,7 +20,7 @@ title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
   
   [languages.ru]
     title = "Natalia Kleemann | Имидж- и стиль-коучинг онлайн и в Ганновере"
-    languageCode = "ru-RU"
+    locale = "ru-RU"
     languageName = "Русский"
     weight = 2
     contentDir = "content/ru"
