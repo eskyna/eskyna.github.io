@@ -1,0 +1,118 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+TARGET_DIR="${1:-$ROOT_DIR/static}"
+WEBP_QUALITY="${WEBP_QUALITY:-82}"
+AVIF_QUALITY="${AVIF_QUALITY:-56}"
+AVIF_SPEED="${AVIF_SPEED:-4}"
+
+if ! command -v cwebp >/dev/null 2>&1; then
+  echo "Error: cwebp is not installed or not in PATH." >&2
+  echo "Install WebP tools first (e.g. brew install webp)." >&2
+  exit 127
+fi
+
+if ! command -v avifenc >/dev/null 2>&1; then
+  echo "Error: avifenc is not installed or not in PATH." >&2
+  echo "Install libavif first (e.g. brew install libavif)." >&2
+  exit 127
+fi
+
+if [[ ! -d "$TARGET_DIR" ]]; then
+  echo "Error: Target directory does not exist: $TARGET_DIR" >&2
+  exit 1
+fi
+
+if [[ "$TARGET_DIR" != /* ]]; then
+  TARGET_DIR="$ROOT_DIR/$TARGET_DIR"
+fi
+
+echo "Converting PNG images under: $TARGET_DIR"
+echo "WebP quality: $WEBP_QUALITY | AVIF quality: $AVIF_QUALITY | AVIF speed: $AVIF_SPEED"
+
+processed=0
+skipped=0
+excluded=0
+failed=0
+
+while IFS= read -r -d '' png_file; do
+  rel_path="${png_file#$ROOT_DIR/}"
+
+  # Never convert assets in excluded folders.
+  if [[ "$rel_path" == static/images/original/* ||
+        "$rel_path" == static/images/method/* ||
+        "$rel_path" == static/images/problems/* ||
+        "$rel_path" == static/estylepwa/* ||
+        "$rel_path" == static/garderobencheck/* ||
+        "$rel_path" == static/farbkarte/* ||
+        "$rel_path" == static/images/references/* ||
+        "$rel_path" == static/stefan/* ||
+        "$rel_path" == static/stiltest/* ]]; then
+    excluded=$((excluded + 1))
+    continue
+  fi
+
+  if [[ "$rel_path" == static/images/apple-touch-icon.png ]]; then
+    excluded=$((excluded + 1))
+    continue
+  fi
+
+  # Never convert favicon PNG files.
+  file_name="$(basename "$png_file")"
+  lower_name="$(printf '%s' "$file_name" | tr '[:upper:]' '[:lower:]')"
+  if [[ "$lower_name" == *favicon* ]]; then
+    excluded=$((excluded + 1))
+    continue
+  fi
+
+  webp_file="${png_file%.*}.webp"
+  avif_file="${png_file%.*}.avif"
+
+  needs_webp=0
+  needs_avif=0
+
+  if [[ ! -f "$webp_file" || "$png_file" -nt "$webp_file" ]]; then
+    needs_webp=1
+  fi
+
+  if [[ ! -f "$avif_file" || "$png_file" -nt "$avif_file" ]]; then
+    needs_avif=1
+  fi
+
+  if [[ "$needs_webp" -eq 0 && "$needs_avif" -eq 0 ]]; then
+    skipped=$((skipped + 1))
+    continue
+  fi
+
+  echo "Processing: $rel_path"
+
+  if [[ "$needs_webp" -eq 1 ]]; then
+    if ! cwebp -quiet -mt -m 6 -q "$WEBP_QUALITY" "$png_file" -o "$webp_file"; then
+      echo "  Failed WebP conversion: $rel_path" >&2
+      failed=$((failed + 1))
+      continue
+    fi
+  fi
+
+  if [[ "$needs_avif" -eq 1 ]]; then
+    if ! avifenc -j all -s "$AVIF_SPEED" -q "$AVIF_QUALITY" "$png_file" "$avif_file" >/dev/null; then
+      echo "  Failed AVIF conversion: $rel_path" >&2
+      failed=$((failed + 1))
+      continue
+    fi
+  fi
+
+  processed=$((processed + 1))
+done < <(find "$TARGET_DIR" -type f \( -iname "*.png" \) -print0)
+
+echo
+echo "Done."
+echo "Processed: $processed"
+echo "Skipped (already up-to-date): $skipped"
+echo "Excluded (rules): $excluded"
+echo "Failed: $failed"
+
+if [[ "$failed" -gt 0 ]]; then
+  exit 1
+fi

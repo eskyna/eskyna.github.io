@@ -1030,18 +1030,30 @@ h1 {
 }
 
 :where(.offers-free-section) :where(.free-offer-card) > .free-offer-media-link > picture,
-:where(.offers-free-section) :where(.free-offer-card) > .free-offer-media-link > picture .free-offer-image {
+:where(.offers-free-section)
+  :where(.free-offer-card)
+  > .free-offer-media-link
+  > picture
+  .free-offer-image {
   border: none !important;
 }
 
-:where(.offers-free-section) :where(.free-offer-card) > .free-offer-media-link > picture .free-offer-image-contain {
+:where(.offers-free-section)
+  :where(.free-offer-card)
+  > .free-offer-media-link
+  > picture
+  .free-offer-image-contain {
   width: 50% !important;
   aspect-ratio: auto;
   object-position: left center !important;
   margin-inline: 0;
 }
 
-:where(.offers-free-section) :where(.free-offer-card) > .free-offer-media-link > picture .free-offer-image {
+:where(.offers-free-section)
+  :where(.free-offer-card)
+  > .free-offer-media-link
+  > picture
+  .free-offer-image {
   width: 50% !important;
 }
 

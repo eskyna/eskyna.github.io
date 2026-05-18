@@ -17,6 +17,8 @@
     "check:live-assets": "python3 bin/check-live-assets",
     "build": "./bin/build-production",
     "build:ci": "./bin/build-production --templateMetrics --templateMetricsHints",
+    "images:convert": "./bin/convert-images",
+    "images:convert:all": "./bin/convert-images .",
     "lhci": "lhci autorun",
     "lhci:healthcheck": "lhci healthcheck",
     "translation-sync": "node bin/translation-sync",
