@@ -27,8 +27,41 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
+  # Format check job (parallel)
+  format-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install Node.js dependencies
+        run: npm install
+      - name: Check code formatting (Prettier)
+        run: npm run format:check
+
+  # Lint job (parallel)
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install Node.js dependencies
+        run: npm install
+      - name: Run linters (CSS & Markdown)
+        run: npm run lint
+
+  # Build job (depends on format-check and lint)
   build:
+    needs: [format-check, lint]
     runs-on: ubuntu-latest
     steps:
       - name: Setup Hugo
@@ -51,35 +84,36 @@ jobs:
           node-version: 20
           cache: npm
       - name: Install Node.js dependencies
-        run: |
-          if [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
-            npm ci
-          elif [[ -f yarn.lock ]]; then
-            corepack enable
-            yarn install --frozen-lockfile
-          elif [[ -f package.json ]]; then
-            npm install
-          else
-            echo "No Node.js dependency manifest found. Skipping install."
-          fi
-      - name: Run linters
-        run: |
-          if [[ -f package.json ]]; then
-            npm run lint
-          else
-            echo "No package.json found. Skipping lint."
-          fi
+        run: npm install
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
+        run: npm run build:ci
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  # Link check job (depends on build)
+  link-check:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: ./artifact
+      - name: Extract artifact
         run: |
-          if [[ -f package.json ]]; then
-            npm run build:ci
-          else
-            hugo --minify --gc --baseURL "${{ steps.pages.outputs.base_url }}/"
-          fi
+          cd ./artifact
+          tar -xf artifact.tar
+          cd ..
+          mv ./artifact ./public
       - name: Verify links, assets and anchors
         run: |
           python3 -m http.server 4173 --directory public >/tmp/linkcheck-server.log 2>&1 &
@@ -96,18 +130,14 @@ jobs:
             http://localhost:4173/blog \
             --max-pages 300 \
             --concurrency 12
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: ./public
 
-  # Deployment job
+  # Deployment job (depends on build and link-check)
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: [build, link-check]
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
