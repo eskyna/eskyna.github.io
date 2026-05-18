@@ -1,357 +1,354 @@
-#!/usr/bin/env node
+#!/usr/bin/env python3
 
-const DEFAULT_START_URLS = [
-  "https://eskyna.com",
-  "https://eskyna.com/estyle",
-  "https://eskyna.com/about",
-  "https://eskyna.com/impressum",
-  "https://eskyna.com/datenschutz",
-  "https://eskyna.com/shop",
-  "https://eskyna.com/blog",
-];
+import argparse
+import concurrent.futures
+import re
+import sys
+from collections import deque
+from dataclasses import dataclass
+from html.parser import HTMLParser
+from urllib.error import HTTPError, URLError
+from urllib.parse import unquote, urldefrag, urljoin, urlparse
+from urllib.request import Request, urlopen
 
-const DEFAULT_MAX_PAGES = 300;
-const DEFAULT_CONCURRENCY = 10;
+DEFAULT_START_URLS = [
+    "https://eskyna.com",
+    "https://eskyna.com/estyle",
+    "https://eskyna.com/about",
+    "https://eskyna.com/impressum",
+    "https://eskyna.com/datenschutz",
+    "https://eskyna.com/shop",
+    "https://eskyna.com/blog",
+]
 
-function parseArgs(argv) {
-  const urls = [];
-  let maxPages = DEFAULT_MAX_PAGES;
-  let concurrency = DEFAULT_CONCURRENCY;
+USER_AGENT = "eskyna-link-check/2.0"
 
-  for (let i = 0; i < argv.length; i += 1) {
-    const arg = argv[i];
-    if (arg === "--max-pages" && argv[i + 1]) {
-      maxPages = Number(argv[i + 1]);
-      i += 1;
-      continue;
-    }
-    if (arg === "--concurrency" && argv[i + 1]) {
-      concurrency = Number(argv[i + 1]);
-      i += 1;
-      continue;
-    }
-    if (arg === "--help" || arg === "-h") {
-      console.log("Usage: node bin/check-live-assets [url ...] [--max-pages N] [--concurrency N]");
-      process.exit(0);
-    }
-    urls.push(arg);
-  }
 
-  return {
-    startUrls: urls.length > 0 ? urls : DEFAULT_START_URLS,
-    maxPages: Number.isFinite(maxPages) && maxPages > 0 ? maxPages : DEFAULT_MAX_PAGES,
-    concurrency:
-      Number.isFinite(concurrency) && concurrency > 0 ? concurrency : DEFAULT_CONCURRENCY,
-  };
-}
-
-function normalizeUrl(input) {
-  const u = new URL(input);
-  u.hash = "";
-  const hasFileExtension = /\.[a-z0-9]+$/i.test(u.pathname);
-  if (u.pathname !== "/" && !u.pathname.endsWith("/") && !hasFileExtension) {
-    u.pathname = `${u.pathname}/`;
-  }
-  return u.toString();
-}
-
-function inScope(url, origin, allowedPrefixes) {
-  if (url.origin !== origin) return false;
-  return allowedPrefixes.some((prefix) => {
-    if (prefix === "/") return true;
-    return url.pathname === prefix || url.pathname.startsWith(`${prefix}/`);
-  });
-}
-
-function shouldSkipRef(ref) {
-  if (!ref) return true;
-  const trimmed = ref.trim();
-  if (!trimmed) return true;
-  if (trimmed.startsWith("#")) return true;
-  if (trimmed.startsWith("mailto:")) return true;
-  if (trimmed.startsWith("tel:")) return true;
-  if (trimmed.startsWith("javascript:")) return true;
-  if (trimmed.startsWith("data:")) return true;
-  if (trimmed.startsWith("blob:")) return true;
-  if (trimmed.includes("${")) return true;
-  if (trimmed.includes("livereload.js")) return true;
-  return false;
-}
-
-function isLikelyHtml(url) {
-  const path = url.pathname.toLowerCase();
-  if (path.endsWith(".html") || path.endsWith(".htm")) return true;
-  if (path.endsWith("/")) return true;
-  if (!path.includes(".")) return true;
-  return false;
-}
-
-function extractAttrValues(html, tag, attr) {
-  const values = [];
-  const re = new RegExp(
-    `<${tag}\\b[^>]*\\b${attr}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s"'=<>` + "`" + `]+))`,
-    "gi"
-  );
-  let m;
-  while ((m = re.exec(html)) !== null) {
-    values.push((m[1] || m[2] || m[3] || "").trim());
-  }
-  return values;
-}
-
-function extractSrcsetUrls(srcset) {
-  return srcset
-    .split(",")
-    .map((part) => part.trim().split(/\s+/)[0])
-    .filter(Boolean);
-}
-
-function parsePageRefs(html, pageUrl) {
-  const crawlCandidates = [];
-  const assetCandidates = [];
-
-  const aHrefs = extractAttrValues(html, "a", "href");
-  for (const ref of aHrefs) {
-    if (shouldSkipRef(ref)) continue;
-    let resolved;
-    try {
-      resolved = new URL(ref, pageUrl);
-    } catch {
-      continue;
-    }
-    const normalized = normalizeUrl(resolved.toString());
-    assetCandidates.push(normalized);
-    if (isLikelyHtml(resolved)) {
-      crawlCandidates.push(normalized);
-    }
-  }
-
-  const simpleRefs = [
-    ["img", "src"],
-    ["script", "src"],
-    ["link", "href"],
-    ["video", "src"],
-    ["video", "poster"],
-    ["audio", "src"],
-    ["source", "src"],
-    ["iframe", "src"],
-    ["embed", "src"],
-    ["object", "data"],
-  ];
-
-  for (const [tag, attr] of simpleRefs) {
-    const refs = extractAttrValues(html, tag, attr);
-    for (const ref of refs) {
-      if (shouldSkipRef(ref)) continue;
-      try {
-        assetCandidates.push(normalizeUrl(new URL(ref, pageUrl).toString()));
-      } catch {
-        // ignore parse errors
-      }
-    }
-  }
-
-  const srcsets = extractAttrValues(html, "source", "srcset").concat(
-    extractAttrValues(html, "img", "srcset")
-  );
-  for (const srcset of srcsets) {
-    for (const ref of extractSrcsetUrls(srcset)) {
-      if (shouldSkipRef(ref)) continue;
-      try {
-        assetCandidates.push(normalizeUrl(new URL(ref, pageUrl).toString()));
-      } catch {
-        // ignore parse errors
-      }
-    }
-  }
-
-  return { crawlCandidates, assetCandidates };
-}
-
-async function fetchText(url) {
-  const response = await fetch(url, {
-    method: "GET",
-    redirect: "follow",
-    headers: { "user-agent": "eskyna-link-check/1.0" },
-  });
-  const contentType = response.headers.get("content-type") || "";
-  const text = await response.text();
-  return { response, contentType, text };
-}
-
-async function checkLoadable(url) {
-  try {
-    const head = await fetch(url, {
-      method: "HEAD",
-      redirect: "follow",
-      headers: { "user-agent": "eskyna-link-check/1.0" },
-    });
-
-    if (head.ok) {
-      return { ok: true, status: head.status, method: "HEAD" };
-    }
-
-    if (head.status === 405 || head.status === 501 || head.status === 403) {
-      const getResp = await fetch(url, {
-        method: "GET",
-        redirect: "follow",
-        headers: {
-          "user-agent": "eskyna-link-check/1.0",
-          range: "bytes=0-0",
-        },
-      });
-      return { ok: getResp.ok, status: getResp.status, method: "GET" };
-    }
-
-    return { ok: false, status: head.status, method: "HEAD" };
-  } catch (error) {
-    return { ok: false, status: 0, method: "HEAD", error: String(error.message || error) };
-  }
-}
-
-async function run() {
-  const { startUrls, maxPages, concurrency } = parseArgs(process.argv.slice(2));
-
-  if (!startUrls.length) {
-    console.error("No start URLs provided.");
-    process.exit(1);
-  }
-
-  const first = new URL(startUrls[0]);
-  const origin = first.origin;
-  const allowedPrefixes = Array.from(
-    new Set(
-      startUrls.map((u) => {
-        const parsed = new URL(u);
-        if (parsed.origin !== origin) {
-          throw new Error("All start URLs must share the same origin.");
-        }
-        const path = parsed.pathname.replace(/\/$/, "") || "/";
-        return path;
-      })
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Crawl selected eskyna.com sections and verify links/assets including anchors."
     )
-  );
+    parser.add_argument("urls", nargs="*", help="Optional start URLs")
+    parser.add_argument("--max-pages", type=int, default=300)
+    parser.add_argument("--concurrency", type=int, default=10)
+    return parser.parse_args()
 
-  const pageQueue = [];
-  const visitedPages = new Set();
-  const seenAssets = new Set();
-  const failed = [];
 
-  for (const raw of startUrls) {
-    const normalized = normalizeUrl(raw);
-    pageQueue.push(normalized);
-  }
+def normalize_url(raw: str) -> str:
+    parsed = urlparse(raw)
+    path = parsed.path or "/"
+    has_ext = re.search(r"\.[a-zA-Z0-9]+$", path) is not None
+    if path != "/" and not path.endswith("/") and not has_ext:
+        path = f"{path}/"
+    cleaned = parsed._replace(path=path, fragment="")
+    return cleaned.geturl()
 
-  console.log(`Checking ${startUrls.length} start URLs on ${origin}`);
-  console.log(`Scope prefixes: ${allowedPrefixes.join(", ")}`);
 
-  while (pageQueue.length > 0 && visitedPages.size < maxPages) {
-    const pageUrl = pageQueue.shift();
-    if (visitedPages.has(pageUrl)) continue;
+def in_scope(url: str, origin: str, prefixes: list[str]) -> bool:
+    parsed = urlparse(url)
+    if f"{parsed.scheme}://{parsed.netloc}" != origin:
+        return False
+    for prefix in prefixes:
+        if prefix == "/":
+            return True
+        if parsed.path == prefix or parsed.path.startswith(f"{prefix}/"):
+            return True
+    return False
 
-    const parsed = new URL(pageUrl);
-    if (!inScope(parsed, origin, allowedPrefixes)) continue;
 
-    visitedPages.add(pageUrl);
-    process.stdout.write(`\rCrawled pages: ${visitedPages.size}`);
+def should_skip_ref(ref: str) -> bool:
+    if not ref:
+        return True
+    trimmed = ref.strip()
+    if not trimmed:
+        return True
+    lower = trimmed.lower()
+    if lower.startswith("mailto:"):
+        return True
+    if lower.startswith("tel:"):
+        return True
+    if lower.startswith("javascript:"):
+        return True
+    if lower.startswith("data:"):
+        return True
+    if lower.startswith("blob:"):
+        return True
+    if "${" in trimmed:
+        return True
+    if "livereload.js" in lower:
+        return True
+    return False
 
-    let page;
-    try {
-      page = await fetchText(pageUrl);
-    } catch (error) {
-      failed.push({
-        type: "page",
-        url: pageUrl,
-        status: 0,
-        detail: String(error.message || error),
-      });
-      continue;
-    }
 
-    if (!page.response.ok) {
-      failed.push({
-        type: "page",
-        url: pageUrl,
-        status: page.response.status,
-        detail: "GET failed",
-      });
-      continue;
-    }
+def is_likely_html(url: str) -> bool:
+    path = urlparse(url).path.lower()
+    if path.endswith(".html") or path.endswith(".htm"):
+        return True
+    if path.endswith("/"):
+        return True
+    if "." not in path.rsplit("/", 1)[-1]:
+        return True
+    return False
 
-    if (!page.contentType.toLowerCase().includes("text/html")) {
-      continue;
-    }
 
-    const { crawlCandidates, assetCandidates } = parsePageRefs(page.text, pageUrl);
+def parse_srcset(value: str) -> list[str]:
+    refs: list[str] = []
+    for part in value.split(","):
+        item = part.strip().split()[0] if part.strip() else ""
+        if item:
+            refs.append(item)
+    return refs
 
-    for (const candidate of crawlCandidates) {
-      if (!visitedPages.has(candidate)) {
-        pageQueue.push(candidate);
-      }
-    }
 
-    for (const asset of assetCandidates) {
-      let parsedAsset;
-      try {
-        parsedAsset = new URL(asset);
-      } catch {
-        continue;
-      }
-      if (!inScope(parsedAsset, origin, allowedPrefixes)) continue;
-      seenAssets.add(asset);
-    }
-  }
+@dataclass(frozen=True)
+class AnchorCheck:
+    source_page: str
+    href: str
+    target_page: str
+    fragment: str
 
-  console.log(`\nPages crawled: ${visitedPages.size}`);
-  console.log(`Unique in-scope URLs to check: ${seenAssets.size}`);
 
-  const assetList = Array.from(seenAssets);
-  let index = 0;
+class LinkExtractor(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.page_links: list[str] = []
+        self.asset_links: list[str] = []
+        self.anchor_targets: set[str] = set()
 
-  async function worker() {
-    while (index < assetList.length) {
-      const i = index;
-      index += 1;
-      const url = assetList[i];
-      const result = await checkLoadable(url);
-      if (!result.ok) {
-        failed.push({
-          type: "asset",
-          url,
-          status: result.status,
-          detail: result.error || result.method,
-        });
-      }
-      if ((i + 1) % 25 === 0 || i + 1 === assetList.length) {
-        process.stdout.write(`\rChecked assets: ${i + 1}/${assetList.length}`);
-      }
-    }
-  }
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attr_map = {k.lower(): (v or "") for k, v in attrs}
 
-  const workers = [];
-  for (let i = 0; i < concurrency; i += 1) {
-    workers.push(worker());
-  }
-  await Promise.all(workers);
-  console.log("\n");
+        element_id = attr_map.get("id", "").strip()
+        if element_id:
+            self.anchor_targets.add(element_id)
 
-  if (failed.length === 0) {
-    console.log("All checked pages/assets are loadable.");
-    return;
-  }
+        if tag.lower() == "a":
+            name_attr = attr_map.get("name", "").strip()
+            if name_attr:
+                self.anchor_targets.add(name_attr)
 
-  failed.sort((a, b) => a.status - b.status || a.url.localeCompare(b.url));
-  console.log(`Found ${failed.length} failing URLs:`);
-  for (const item of failed) {
-    console.log(
-      `- [${item.type}] ${item.status || "ERR"} ${item.url}${item.detail ? ` (${item.detail})` : ""}`
-    );
-  }
+        def add_attr_ref(key: str, as_page_link: bool = False) -> None:
+            ref = attr_map.get(key, "").strip()
+            if not ref or should_skip_ref(ref):
+                return
+            if as_page_link:
+                self.page_links.append(ref)
+            else:
+                self.asset_links.append(ref)
 
-  process.exitCode = 1;
-}
+        lower_tag = tag.lower()
+        if lower_tag == "a":
+            add_attr_ref("href", as_page_link=True)
+        elif lower_tag in {"img", "script", "video", "audio", "iframe", "embed", "source"}:
+            add_attr_ref("src")
+        elif lower_tag == "video":
+            add_attr_ref("poster")
+        elif lower_tag == "object":
+            add_attr_ref("data")
+        elif lower_tag == "link":
+            add_attr_ref("href")
 
-run().catch((error) => {
-  console.error(`Fatal error: ${error && error.message ? error.message : error}`);
-  process.exit(1);
-});
+        if "srcset" in attr_map:
+            for ref in parse_srcset(attr_map["srcset"]):
+                if not should_skip_ref(ref):
+                    self.asset_links.append(ref)
+
+
+def fetch(url: str, method: str = "GET", timeout: int = 20, headers: dict | None = None):
+    all_headers = {"User-Agent": USER_AGENT}
+    if headers:
+        all_headers.update(headers)
+    req = Request(url, method=method, headers=all_headers)
+    try:
+        with urlopen(req, timeout=timeout) as resp:
+            body = resp.read()
+            content_type = resp.headers.get("Content-Type", "")
+            return resp.status, content_type, body, None
+    except HTTPError as err:
+        return err.code, err.headers.get("Content-Type", ""), b"", str(err)
+    except URLError as err:
+        return 0, "", b"", str(err)
+    except Exception as err:  # noqa: BLE001
+        return 0, "", b"", str(err)
+
+
+def decode_body(body: bytes, content_type: str) -> str:
+    charset = "utf-8"
+    match = re.search(r"charset=([a-zA-Z0-9_-]+)", content_type)
+    if match:
+        charset = match.group(1)
+    return body.decode(charset, errors="replace")
+
+
+def check_loadable(url: str) -> tuple[bool, int, str]:
+    status, _, _, err = fetch(url, method="HEAD")
+    if 200 <= status < 400:
+        return True, status, "HEAD"
+    if status in (403, 405, 501, 0):
+        status, _, _, err = fetch(url, method="GET", headers={"Range": "bytes=0-0"})
+        return 200 <= status < 400, status, err or "GET"
+    return False, status, err or "HEAD"
+
+
+def main() -> int:
+    args = parse_args()
+    start_urls = args.urls if args.urls else DEFAULT_START_URLS
+    max_pages = max(1, args.max_pages)
+    concurrency = max(1, args.concurrency)
+
+    first = urlparse(start_urls[0])
+    origin = f"{first.scheme}://{first.netloc}"
+
+    prefixes: list[str] = []
+    for raw in start_urls:
+        parsed = urlparse(raw)
+        current_origin = f"{parsed.scheme}://{parsed.netloc}"
+        if current_origin != origin:
+            print("All start URLs must share the same origin.", file=sys.stderr)
+            return 1
+        prefix = parsed.path.rstrip("/") or "/"
+        if prefix not in prefixes:
+            prefixes.append(prefix)
+
+    print(f"Checking {len(start_urls)} start URLs on {origin}")
+    print(f"Scope prefixes: {', '.join(prefixes)}")
+
+    queue: deque[str] = deque(normalize_url(u) for u in start_urls)
+    visited_pages: set[str] = set()
+    page_anchors: dict[str, set[str]] = {}
+    asset_candidates: set[str] = set()
+    anchor_checks: set[AnchorCheck] = set()
+    failures: list[dict] = []
+
+    while queue and len(visited_pages) < max_pages:
+        page_url = queue.popleft()
+        if page_url in visited_pages:
+            continue
+        if not in_scope(page_url, origin, prefixes):
+            continue
+
+        visited_pages.add(page_url)
+        sys.stdout.write(f"\rCrawled pages: {len(visited_pages)}")
+        sys.stdout.flush()
+
+        status, content_type, body, err = fetch(page_url, method="GET")
+        if not (200 <= status < 400):
+            failures.append({"type": "page", "url": page_url, "status": status, "detail": err or "GET failed"})
+            continue
+
+        if "text/html" not in content_type.lower():
+            continue
+
+        html = decode_body(body, content_type)
+        parser = LinkExtractor()
+        parser.feed(html)
+        page_anchors[page_url] = parser.anchor_targets
+
+        for ref in parser.page_links:
+            if should_skip_ref(ref):
+                continue
+
+            resolved = urljoin(page_url, ref)
+            base, fragment = urldefrag(resolved)
+            normalized_base = normalize_url(base)
+
+            if in_scope(normalized_base, origin, prefixes):
+                if is_likely_html(normalized_base):
+                    if normalized_base not in visited_pages:
+                        queue.append(normalized_base)
+                else:
+                    asset_candidates.add(normalized_base)
+
+            if fragment and in_scope(normalized_base, origin, prefixes) and is_likely_html(normalized_base):
+                anchor_checks.add(
+                    AnchorCheck(
+                        source_page=page_url,
+                        href=ref,
+                        target_page=normalized_base,
+                        fragment=unquote(fragment),
+                    )
+                )
+
+        for ref in parser.asset_links:
+            if should_skip_ref(ref):
+                continue
+            resolved = normalize_url(urljoin(page_url, urldefrag(ref)[0]))
+            if in_scope(resolved, origin, prefixes):
+                asset_candidates.add(resolved)
+
+    print(f"\nPages crawled: {len(visited_pages)}")
+    print(f"Unique in-scope assets to check: {len(asset_candidates)}")
+    print(f"Anchor references to check: {len(anchor_checks)}")
+
+    def check_one_asset(url: str):
+        ok, status, detail = check_loadable(url)
+        return url, ok, status, detail
+
+    checked = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=concurrency) as executor:
+        future_to_url = {executor.submit(check_one_asset, url): url for url in sorted(asset_candidates)}
+        for future in concurrent.futures.as_completed(future_to_url):
+            url, ok, status, detail = future.result()
+            checked += 1
+            if not ok:
+                failures.append({"type": "asset", "url": url, "status": status, "detail": detail})
+            if checked % 25 == 0 or checked == len(asset_candidates):
+                sys.stdout.write(f"\rChecked assets: {checked}/{len(asset_candidates)}")
+                sys.stdout.flush()
+    if asset_candidates:
+        print()
+
+    anchor_cache = dict(page_anchors)
+    for item in sorted(anchor_checks, key=lambda x: (x.target_page, x.fragment, x.source_page)):
+        if item.target_page not in anchor_cache:
+            status, content_type, body, err = fetch(item.target_page, method="GET")
+            if not (200 <= status < 400):
+                failures.append(
+                    {
+                        "type": "anchor",
+                        "url": f"{item.source_page} -> {item.href}",
+                        "status": status,
+                        "detail": f"target page unavailable ({err or 'GET failed'})",
+                    }
+                )
+                continue
+            if "text/html" not in content_type.lower():
+                failures.append(
+                    {
+                        "type": "anchor",
+                        "url": f"{item.source_page} -> {item.href}",
+                        "status": status,
+                        "detail": "target is not HTML",
+                    }
+                )
+                continue
+            parser = LinkExtractor()
+            parser.feed(decode_body(body, content_type))
+            anchor_cache[item.target_page] = parser.anchor_targets
+
+        if item.fragment not in anchor_cache[item.target_page]:
+            failures.append(
+                {
+                    "type": "anchor",
+                    "url": f"{item.source_page} -> {item.href}",
+                    "status": 404,
+                    "detail": f"missing anchor '#{item.fragment}' on {item.target_page}",
+                }
+            )
+
+    if not failures:
+        print("All checked pages/assets/anchors are loadable.")
+        return 0
+
+    failures.sort(key=lambda x: (x["status"], x["type"], x["url"]))
+    print(f"Found {len(failures)} failing URLs:")
+    for failure in failures:
+        status = failure["status"] if failure["status"] else "ERR"
+        detail = f" ({failure['detail']})" if failure.get("detail") else ""
+        print(f"- [{failure['type']}] {status} {failure['url']}{detail}")
+
+    return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
