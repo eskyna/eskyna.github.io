@@ -514,10 +514,9 @@
           <div class="grid">
             <div>
               <div class="eyebrow">QR-Code gestalten</div>
-              <h1>Wähle den Stil deines Auftritts.</h1>
+              <h1>ESKYNA QR Studio.</h1>
               <p class="hint">
-                Die Vorschau und der Download entstehen aus demselben Canvas. Dadurch sieht der
-                Export genau so aus wie angezeigt.
+                Wähle zuerst den Stil. Farben, Logo und Details bleiben als Feinschliff verfügbar.
               </p>
             </div>
             <div class="field">
@@ -558,7 +557,7 @@
                 >Eigenes Logo wählen<input id="logo" type="file" accept="image/*" /></label
               ><button type="button" class="secondary" id="removeLogo">Logo entfernen</button>
             </div>
-            <details open>
+            <details>
               <summary>Feinabstimmung</summary>
               <div class="inner mini">
                 <div class="field two">
@@ -649,13 +648,15 @@
                 <div class="field">
                   <label>Verzerrung</label>
                   <div class="range">
-                    <input id="warp" type="range" min="0" max="6" value="2.5" step="0.5" /><span
+                    <input id="warp" type="range" min="0" max="6" value="1.5" step="0.5" /><span
                       class="badge"
                       id="warpV"
-                      >2.5</span
+                      >1.5</span
                     >
                   </div>
-                  <p class="hint">0 = clean, 2–3 = ESKYNA-Look, 5–6 = nur nach Scan-Test.</p>
+                  <p class="hint">
+                    0 = clean, 1–2 = edel organisch, 3+ bitte mit Smartphone testen.
+                  </p>
                 </div>
                 <label class="switch"
                   ><input id="hideDots" type="checkbox" checked />QR-Code hinter Logo frei
@@ -678,11 +679,11 @@
           <div class="intro">
             <div>
               <div class="eyebrow">Vorschau</div>
-              <h1>Ein QR-Code als Designobjekt.</h1>
+              <h1>Ruhig. Wertig. Scanbar.</h1>
             </div>
             <p>
-              ESKYNA Original, Seide, Leinen, Baumwolle, Gold, Wein oder Farbpass: Jeder Stil wird
-              vollständig auf Canvas gerendert.
+              Das ESKYNA Original bleibt bewusst reduziert: weiße Fläche, braune Punkte, klare
+              Finder-Ecken und dezente organische Verzerrung.
             </p>
           </div>
           <div class="status" id="status">Bereit</div>
@@ -735,12 +736,12 @@
       const designs = {
         eskyna: {
           name: "ESKYNA Original",
-          sub: "Punkte, Logo-Mitte, organische Finder",
+          sub: "reduziert, braun, mit klaren Ecken",
           frame: "eskyna",
           dots: "dots",
           corners: "extra-rounded",
           gradient: "none",
-          warp: 2.5,
+          warp: 1.5,
           dark: "#4b2e23",
           accent: "#4b2e23",
           bg: "#ffffff",
@@ -1110,22 +1111,26 @@
       }
       function organicFinder(ctx, x, y, s, color, warp, kind) {
         ctx.save();
-        ctx.translate(x, y);
-        let rot = (kind === "tr" ? 1 : kind === "bl" ? -1 : 0.6) * warp * 0.007;
+        let shift = warp * 0.55,
+          rot = (((kind === "tr" ? 0.45 : kind === "bl" ? -0.35 : 0.25) * Math.PI) / 180) * warp;
+        ctx.translate(
+          x + (kind === "tr" ? shift : kind === "bl" ? -shift * 0.25 : -shift * 0.35),
+          y + (kind === "bl" ? shift : kind === "tr" ? -shift * 0.15 : 0)
+        );
         ctx.rotate(rot);
-        ctx.transform(1 + warp * 0.002, warp * 0.002, -warp * 0.0015, 1, 0, 0);
-        let b = s * 0.2;
+        ctx.transform(1 + warp * 0.0009, warp * 0.0012, -warp * 0.0008, 1 + warp * 0.0004, 0, 0);
+        let guard = s * 0.065;
         ctx.fillStyle = "#fff";
-        ctx.fillRect(-b, -b, s + 2 * b, s + 2 * b);
+        round(ctx, -guard, -guard, s + guard * 2, s + guard * 2, s * 0.24);
+        ctx.fill();
         ctx.fillStyle = color;
         round(ctx, 0, 0, s, s, s * 0.22);
         ctx.fill();
         ctx.fillStyle = "#fff";
-        round(ctx, s * 0.23, s * 0.23, s * 0.54, s * 0.54, s * 0.13);
+        round(ctx, s * 0.18, s * 0.18, s * 0.64, s * 0.64, s * 0.14);
         ctx.fill();
         ctx.fillStyle = color;
-        ctx.beginPath();
-        ctx.ellipse(s * 0.5, s * 0.5, s * 0.17, s * 0.19, rot * 2, 0, Math.PI * 2);
+        round(ctx, s * 0.335, s * 0.335, s * 0.33, s * 0.33, s * 0.075);
         ctx.fill();
         ctx.restore();
       }
@@ -1188,7 +1193,7 @@
         ctx.fillStyle = glow;
         ctx.fillRect(0, 0, S, S);
         drawFrame(ctx, S, frame, text);
-        let qSize = frame === "eskyna" ? S * 0.82 : S * 0.68;
+        let qSize = frame === "eskyna" ? S * 0.76 : S * 0.68;
         let qx = (S - qSize) / 2,
           qy = frame === "pass" ? S * 0.22 : (S - qSize) / 2;
         let holderPad = frame === "eskyna" ? 0 : S * 0.045;
