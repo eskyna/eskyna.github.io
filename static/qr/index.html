@@ -14,10 +14,7 @@
         --ink: #231f20;
         --muted: #756b62;
         --line: rgba(35, 31, 32, 0.13);
-        --paper: rgba(255, 253, 249, 0.82);
-        --cream: #fff8ef;
-        --sand: #f1e5d7;
-        --accent: #b99a7f;
+        --paper: rgba(255, 253, 249, 0.84);
         --shadow: 0 24px 70px rgba(57, 39, 25, 0.14);
       }
       * {
@@ -46,7 +43,7 @@
         position: fixed;
         inset: 0;
         pointer-events: none;
-        opacity: 0.3;
+        opacity: 0.28;
         background-image:
           linear-gradient(rgba(35, 31, 32, 0.04) 1px, transparent 1px),
           linear-gradient(90deg, rgba(35, 31, 32, 0.035) 1px, transparent 1px);
@@ -155,19 +152,13 @@
         z-index: 1;
       }
       .intro p {
-        max-width: 460px;
+        max-width: 500px;
         margin: 0;
         color: var(--muted);
         line-height: 1.5;
       }
-      .head {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 16px;
-        margin-bottom: 12px;
-      }
       .status {
+        justify-self: end;
         border: 1px solid var(--line);
         border-radius: 999px;
         background: rgba(255, 255, 255, 0.6);
@@ -192,6 +183,7 @@
         display: grid;
         place-items: center;
         min-height: 0;
+        margin-top: 12px;
         border: 1px solid rgba(35, 31, 32, 0.08);
         border-radius: 34px;
         background:
@@ -200,320 +192,12 @@
           rgba(255, 255, 255, 0.36);
         padding: 18px;
       }
-      .qr-card {
-        position: relative;
-        display: grid;
-        place-items: center;
-        width: min(78vh, 580px, 100%);
-        aspect-ratio: 1;
-        padding: clamp(26px, 4vw, 54px);
-        overflow: hidden;
-        color: var(--qink, #231f20);
-        background: var(--qbg, #f6ecdf);
-        box-shadow: 0 30px 82px rgba(47, 32, 21, 0.16);
-        transition: 0.2s;
-      }
-      .qr-card:before,
-      .qr-card:after {
-        content: "";
-        position: absolute;
-        pointer-events: none;
-      }
-      .qr-card:before {
-        inset: 24px;
-        border: 1px solid rgba(35, 31, 32, var(--inner, 0.08));
-        border-radius: inherit;
-      }
-      .qr-card:after {
-        right: var(--markRight, -120px);
-        bottom: var(--markBottom, 18px);
-        width: var(--markSize, 290px);
-        height: var(--markSize, 290px);
-        opacity: var(--markOpacity, 0.08);
-        background:
-          radial-gradient(circle at 50% 18%, var(--qink) 0 17%, transparent 19%),
-          radial-gradient(circle at 78% 45%, var(--qink) 0 17%, transparent 19%),
-          radial-gradient(circle at 50% 72%, var(--qink) 0 17%, transparent 19%),
-          radial-gradient(circle at 22% 45%, var(--qink) 0 17%, transparent 19%);
-        filter: blur(var(--markBlur, 10px));
-        transform: rotate(var(--markRot, -12deg));
-      }
-      .frame-soft {
-        border-radius: 42px;
-        border: 1px solid rgba(35, 31, 32, 0.12);
-      }
-      .frame-seal {
-        border-radius: 44% 56% 50% 50%;
-        border: 1px solid rgba(35, 31, 32, 0.12);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.18),
-          0 30px 82px rgba(47, 32, 21, 0.16);
-      }
-      .frame-gold {
-        border-radius: 34px;
-        border: 1px solid rgba(201, 164, 93, 0.55);
-        box-shadow:
-          inset 0 0 0 2px rgba(201, 164, 93, 0.25),
-          inset 0 0 0 18px rgba(255, 255, 255, 0.22),
-          0 30px 82px rgba(47, 32, 21, 0.16);
-      }
-      .frame-editorial {
-        border: 18px solid rgba(255, 255, 255, 0.56);
-        outline: 1px solid rgba(35, 31, 32, 0.16);
-        border-radius: 12px;
-      }
-      .frame-editorial:before {
-        inset: 0 auto 0 0;
-        width: 20px;
-        border: 0;
-        background: linear-gradient(var(--qink), var(--qink));
-        opacity: 0.12;
-      }
-      .frame-aura {
-        border-radius: 46% 54% 48% 52%;
-        border: 1px solid rgba(35, 31, 32, 0.1);
-      }
-      .frame-minimal {
-        border-radius: 0;
-        border: 1px solid rgba(35, 31, 32, 0.22);
-      }
-      .frame-eskyna {
-        border-radius: 0;
-        border: 0;
-        background: #fff;
-        box-shadow: 0 26px 70px rgba(47, 32, 21, 0.12);
-        padding: clamp(8px, 2vw, 18px);
-      }
-      .frame-eskyna:before,
-      .frame-eskyna:after {
-        display: none;
-      }
-      .frame-eskyna .qr-box {
-        background: #fff;
-        box-shadow: none;
-        padding: 0;
-        border-radius: 0;
-        overflow: visible;
-      }
-      .frame-eskyna .qr-box:before,
-      .frame-eskyna .qr-box:after {
-        display: none;
-      }
-      .frame-eskyna #qr {
-        filter: drop-shadow(0.8px 1.2px 0 rgba(75, 46, 35, 0.12));
-      }
-      .frame-eskyna #qr canvas,
-      .frame-eskyna #qr svg {
-        width: min(500px, 60vw, 60vh) !important;
-        height: min(500px, 60vw, 60vh) !important;
-      }
-      .frame-eskyna .eskyna-finder {
+      #previewCanvas {
+        width: min(78vh, 620px, 100%);
+        height: auto;
         display: block;
-      }
-      .frame-silk {
-        border-radius: 46px;
-        border: 1px solid rgba(255, 255, 255, 0.58);
-        background:
-          radial-gradient(ellipse at 18% 16%, rgba(255, 255, 255, 0.72), transparent 32%),
-          radial-gradient(ellipse at 78% 86%, rgba(205, 169, 136, 0.2), transparent 42%),
-          repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.18) 0 2px, transparent 2px 9px),
-          repeating-linear-gradient(25deg, rgba(80, 55, 42, 0.035) 0 1px, transparent 1px 12px),
-          linear-gradient(145deg, var(--qbg), #ead8c5);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.2),
-          inset 28px -28px 70px rgba(255, 255, 255, 0.22),
-          0 34px 88px rgba(47, 32, 21, 0.18);
-      }
-      .frame-silk:before {
-        inset: 26px;
-        border-color: rgba(255, 255, 255, 0.55);
-      }
-      .frame-silk .qr-box {
-        background: rgba(255, 255, 255, 0.56);
-        backdrop-filter: blur(8px);
-      }
-      .frame-linen {
-        border-radius: 30px;
-        border: 1px solid rgba(35, 31, 32, 0.15);
-        background:
-          repeating-linear-gradient(90deg, rgba(64, 47, 35, 0.07) 0 1px, transparent 1px 7px),
-          repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.26) 0 1px, transparent 1px 6px),
-          repeating-linear-gradient(45deg, rgba(64, 47, 35, 0.025) 0 1px, transparent 1px 11px),
-          linear-gradient(145deg, var(--qbg), #e9ddcf);
-        box-shadow:
-          inset 0 0 0 14px rgba(255, 255, 255, 0.15),
-          0 30px 82px rgba(47, 32, 21, 0.15);
-      }
-      .frame-linen:before {
-        inset: 22px;
-        border-color: rgba(35, 31, 32, 0.16);
-        border-style: dashed;
-      }
-      .frame-cotton {
-        border-radius: 36px;
-        border: 1px solid rgba(35, 31, 32, 0.1);
-        background:
-          radial-gradient(circle at 22% 18%, rgba(255, 255, 255, 0.68), transparent 20%),
-          radial-gradient(circle at 72% 72%, rgba(255, 255, 255, 0.34), transparent 28%),
-          repeating-radial-gradient(
-            circle at 20% 20%,
-            rgba(255, 255, 255, 0.36) 0 1px,
-            transparent 1px 8px
-          ),
-          linear-gradient(145deg, var(--qbg), #f4eadf);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.2),
-          0 30px 82px rgba(47, 32, 21, 0.14);
-      }
-      .frame-cotton:before {
-        inset: 28px;
-        border-color: rgba(255, 255, 255, 0.48);
-      }
-      .frame-cotton .qr-box {
-        background: rgba(255, 255, 255, 0.62);
-      }
-      .frame-gold {
-        border-radius: 34px;
-        border: 1px solid rgba(201, 164, 93, 0.72);
-        background:
-          radial-gradient(circle at 20% 18%, rgba(255, 255, 255, 0.5), transparent 26%),
-          linear-gradient(135deg, var(--qbg), #ead5ad);
-        box-shadow:
-          inset 0 0 0 2px rgba(201, 164, 93, 0.35),
-          inset 0 0 0 19px rgba(255, 255, 255, 0.24),
-          0 34px 90px rgba(105, 72, 28, 0.2);
-      }
-      .frame-gold:before {
-        inset: 26px;
-        border-color: rgba(201, 164, 93, 0.45);
-      }
-      .frame-wine {
-        border-radius: 38px;
-        border: 1px solid rgba(255, 255, 255, 0.16);
-        background:
-          radial-gradient(circle at 20% 16%, rgba(255, 255, 255, 0.13), transparent 26%),
-          radial-gradient(circle at 82% 88%, rgba(201, 164, 93, 0.15), transparent 34%),
-          linear-gradient(145deg, var(--qbg), #2a141b);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.055),
-          0 36px 92px rgba(45, 13, 23, 0.28);
-      }
-      .frame-wine:before {
-        inset: 28px;
-        border-color: rgba(255, 255, 255, 0.16);
-      }
-      .frame-wine .qr-box {
-        background: rgba(255, 255, 255, 0.82);
-      }
-      .frame-pass {
-        border-radius: 28px;
-        border: 1px solid rgba(35, 31, 32, 0.13);
-        background:
-          linear-gradient(
-            90deg,
-            var(--pass1, #c88f86) 0 11%,
-            var(--pass2, #d9b76f) 11% 22%,
-            var(--pass3, #9dad90) 22% 33%,
-            transparent 33%
-          ),
-          linear-gradient(145deg, var(--qbg), #fffaf4);
-        box-shadow:
-          inset 0 0 0 14px rgba(255, 255, 255, 0.18),
-          0 30px 82px rgba(47, 32, 21, 0.15);
-      }
-      .frame-pass:before {
-        inset: 32px 24px 24px;
-        border-color: rgba(35, 31, 32, 0.11);
-      }
-      .frame-pass .qr-box {
-        margin-top: 24px;
-      }
-      .qr-box {
-        position: relative;
-        display: grid;
-        place-items: center;
-        padding: clamp(16px, 4vw, 34px);
-        border-radius: 30px;
-        background: rgba(255, 255, 255, var(--box, 0.48));
-        box-shadow:
-          inset 0 0 0 1px rgba(35, 31, 32, 0.08),
-          0 18px 42px rgba(35, 31, 32, 0.08);
-        overflow: hidden;
-        transform: perspective(900px) rotateX(var(--warpX, 0deg)) rotateY(var(--warpY, 0deg))
-          skewX(var(--warpSkewX, 0deg)) skewY(var(--warpSkewY, 0deg));
-        transform-origin: center;
-      }
-      .qr-box:before {
-        content: "";
-        position: absolute;
-        inset: 14%;
-        opacity: var(--clover, 0.14);
-        filter: blur(var(--cloverBlur, 7px));
-        background:
-          radial-gradient(circle at 50% 18%, var(--qink) 0 18%, transparent 20%),
-          radial-gradient(circle at 77% 45%, var(--qink) 0 18%, transparent 20%),
-          radial-gradient(circle at 50% 72%, var(--qink) 0 18%, transparent 20%),
-          radial-gradient(circle at 23% 45%, var(--qink) 0 18%, transparent 20%);
-        transform: rotate(-12deg);
-        mix-blend-mode: multiply;
-      }
-      .qr-box:after {
-        content: "";
-        position: absolute;
-        inset: 8px;
-        border: 1px solid rgba(35, 31, 32, var(--boxLine, 0.06));
         border-radius: 24px;
-        pointer-events: none;
-      }
-      #qr {
-        position: relative;
-        z-index: 1;
-      }
-      #qr canvas,
-      #qr svg {
-        display: block;
-        width: min(390px, 54vw, 52vh) !important;
-        height: min(390px, 54vw, 52vh) !important;
-      }
-      .eskyna-finder {
-        display: none;
-        position: absolute;
-        z-index: 3;
-        width: 23.5%;
-        aspect-ratio: 1;
-        border: clamp(12px, 2.4vw, 25px) solid var(--qink);
-        background: #fff;
-        pointer-events: none;
-        box-shadow: 1px 2px 0 rgba(75, 46, 35, 0.08);
-      }
-      .eskyna-finder:before {
-        content: "";
-        position: absolute;
-        inset: 24%;
-        background: var(--qink);
-        border-radius: 30% 38% 26% 34%;
-        transform: rotate(var(--finderInner, 1deg));
-      }
-      .eskyna-finder.tl {
-        left: 0;
-        top: 0;
-        border-radius: 32% 12% 10% 14%;
-        transform: translate(calc(var(--finderShift, 0px) * -1), 0) skewX(var(--finderWarp, 0deg))
-          rotate(-1deg);
-      }
-      .eskyna-finder.tr {
-        right: 0;
-        top: 0;
-        border-radius: 12% 32% 14% 10%;
-        transform: translate(var(--finderShift, 0px), calc(var(--finderShift, 0px) * -0.25))
-          skewX(calc(var(--finderWarp, 0deg) * -1)) rotate(1deg);
-      }
-      .eskyna-finder.bl {
-        left: 0;
-        bottom: 0;
-        border-radius: 12% 10% 14% 32%;
-        transform: translate(calc(var(--finderShift, 0px) * -0.25), var(--finderShift, 0px))
-          skewY(calc(var(--finderWarp, 0deg) * -1)) rotate(1.2deg);
+        filter: drop-shadow(0 30px 70px rgba(47, 32, 21, 0.16));
       }
       .grid,
       .field,
@@ -808,10 +492,6 @@
         .preview {
           padding: 14px;
         }
-        .qr-card {
-          width: 100%;
-          padding: 20px;
-        }
         .presets {
           grid-template-columns: repeat(2, 1fr);
         }
@@ -836,8 +516,8 @@
               <div class="eyebrow">QR-Code gestalten</div>
               <h1>Wähle den Stil deines Auftritts.</h1>
               <p class="hint">
-                Mit ESKYNA Original und sechs starken Designrichtungen für bewusst gestaltete
-                QR-Codes.
+                Die Vorschau und der Download entstehen aus demselben Canvas. Dadurch sieht der
+                Export genau so aus wie angezeigt.
               </p>
             </div>
             <div class="field">
@@ -856,7 +536,7 @@
             </fieldset>
             <div class="field two">
               <div class="field">
-                <label>Hauptfarbe</label><input id="dark" type="color" value="#231f20" />
+                <label>Hauptfarbe</label><input id="dark" type="color" value="#4b2e23" />
               </div>
               <div class="field">
                 <label>Akzentfarbe</label><input id="accent" type="color" value="#b99a7f" />
@@ -864,10 +544,10 @@
             </div>
             <div class="field two">
               <div class="field">
-                <label>QR-Hintergrund</label><input id="bg" type="color" value="#fffaf4" />
+                <label>QR-Hintergrund</label><input id="bg" type="color" value="#ffffff" />
               </div>
               <div class="field">
-                <label>Kartenhintergrund</label><input id="cardBg" type="color" value="#f6ecdf" />
+                <label>Kartenhintergrund</label><input id="cardBg" type="color" value="#ffffff" />
               </div>
             </div>
             <label class="switch"
@@ -878,15 +558,15 @@
                 >Eigenes Logo wählen<input id="logo" type="file" accept="image/*" /></label
               ><button type="button" class="secondary" id="removeLogo">Logo entfernen</button>
             </div>
-            <details>
+            <details open>
               <summary>Feinabstimmung</summary>
               <div class="inner mini">
                 <div class="field two">
                   <div class="field">
                     <label>QR-Form</label
                     ><select id="dots">
-                      <option value="rounded">Weich</option>
                       <option value="dots">Punkte</option>
+                      <option value="rounded">Weich</option>
                       <option value="classy-rounded">Elegant</option>
                       <option value="extra-rounded">Sehr rund</option>
                       <option value="square">Klassisch</option>
@@ -905,9 +585,9 @@
                   <div class="field">
                     <label>Farbverlauf</label
                     ><select id="gradient">
+                      <option value="none">Ohne</option>
                       <option value="linear">Sanft</option>
                       <option value="radial">Zentriert</option>
-                      <option value="none">Ohne</option>
                     </select>
                   </div>
                   <div class="field">
@@ -923,17 +603,17 @@
                     <label>Scan-Sicherheit</label
                     ><select id="ec">
                       <option value="M">Normal</option>
-                      <option value="Q" selected>Sehr gut</option>
-                      <option value="H">Maximal</option>
+                      <option value="Q">Sehr gut</option>
+                      <option value="H" selected>Maximal</option>
                     </select>
                   </div>
                   <div class="field">
                     <label>Rand</label>
                     <div class="range">
-                      <input id="margin" type="range" min="0" max="28" value="12" /><span
+                      <input id="margin" type="range" min="0" max="28" value="0" /><span
                         class="badge"
                         id="marginV"
-                        >12</span
+                        >0</span
                       >
                     </div>
                   </div>
@@ -945,11 +625,11 @@
                       <input
                         id="size"
                         type="range"
-                        min="240"
-                        max="760"
-                        value="420"
+                        min="360"
+                        max="1200"
+                        value="900"
                         step="20"
-                      /><span class="badge" id="sizeV">420</span>
+                      /><span class="badge" id="sizeV">900</span>
                     </div>
                   </div>
                   <div class="field">
@@ -959,10 +639,10 @@
                         id="logoSize"
                         type="range"
                         min="0.12"
-                        max="0.42"
-                        value="0.22"
+                        max="0.38"
+                        value="0.25"
                         step="0.01"
-                      /><span class="badge" id="logoSizeV">22%</span>
+                      /><span class="badge" id="logoSizeV">25%</span>
                     </div>
                   </div>
                 </div>
@@ -975,7 +655,7 @@
                       >2.5</span
                     >
                   </div>
-                  <p class="hint">0 = maximal scanbar, 2–3 = ESKYNA-Look, 5–6 = experimentell.</p>
+                  <p class="hint">0 = clean, 2–3 = ESKYNA-Look, 5–6 = nur nach Scan-Test.</p>
                 </div>
                 <label class="switch"
                   ><input id="hideDots" type="checkbox" checked />QR-Code hinter Logo frei
@@ -1001,31 +681,20 @@
               <h1>Ein QR-Code als Designobjekt.</h1>
             </div>
             <p>
-              ESKYNA Original, Seide, Leinen, Baumwolle, Gold, Wein oder Farbpass: Jeder Stil
-              verändert Form, Farbe, Textur und Tiefenwirkung.
+              ESKYNA Original, Seide, Leinen, Baumwolle, Gold, Wein oder Farbpass: Jeder Stil wird
+              vollständig auf Canvas gerendert.
             </p>
           </div>
-          <div class="head">
-            <span></span>
-            <div class="status" id="status">Bereit</div>
-          </div>
-          <div class="stage">
-            <article class="qr-card frame-soft" id="qrCard">
-              <div class="qr-box" id="qrBox">
-                <span class="eskyna-finder tl"></span><span class="eskyna-finder tr"></span
-                ><span class="eskyna-finder bl"></span>
-                <div id="qr"></div>
-              </div>
-            </article>
-          </div>
+          <div class="status" id="status">Bereit</div>
+          <div class="stage"><canvas id="previewCanvas" width="1200" height="1200"></canvas></div>
         </section>
       </section>
     </main>
     <div class="toast" id="toast"></div>
     <script>
+      const ESKYNA_SIGN = "https://eskyna.com/images/sign.png";
       const dom = {
-        qr: document.getElementById("qr"),
-        qrCard: document.getElementById("qrCard"),
+        canvas: document.getElementById("previewCanvas"),
         designs: document.getElementById("designs"),
         presets: document.getElementById("presets"),
         status: document.getElementById("status"),
@@ -1059,167 +728,105 @@
         warp: document.getElementById("warp"),
         logo: document.getElementById("logo"),
       };
-      let qr,
-        logo = "",
-        activeDesign = "eskyna";
+      let activeDesign = "eskyna",
+        customLogo = "",
+        lastCanvas = null,
+        token = 0;
       const designs = {
-        eskyna: [
-          "ESKYNA Original",
-          "Punkte, echte QR-Ecken, Logo-Mitte",
-          "frame-eskyna",
-          "dots",
-          "extra-rounded",
-          "none",
-          0,
-          0,
-          1,
-          "160px",
-          "-70px",
-          "18px",
-          "4px",
-          "-8deg",
-          ".02",
-          ".04",
-          "#4b2e23",
-          "#4b2e23",
-          "#ffffff",
-          "#ffffff",
-          "eskyna",
-        ],
-        silk: [
-          "Seide",
-          "sichtbarer Seidenstoff mit weichem Glanz",
-          "frame-silk",
-          "extra-rounded",
-          "extra-rounded",
-          "radial",
-          0.13,
-          0.08,
-          0.54,
-          "340px",
-          "-130px",
-          "-80px",
-          "18px",
-          "-18deg",
-          ".08",
-          ".12",
-          "#3a2b23",
-          "#d8b893",
-          "#fff8ef",
-          "#efe0d1",
-        ],
-        linen: [
-          "Leinen",
-          "natürliche Webstruktur, ruhig und hochwertig",
-          "frame-linen",
-          "classy-rounded",
-          "square",
-          "linear",
-          0.07,
-          0.04,
-          0.44,
-          "230px",
-          "-96px",
-          "18px",
-          "5px",
-          "-8deg",
-          ".12",
-          ".12",
-          "#2c2722",
-          "#9b8068",
-          "#fbf6ef",
-          "#ede2d5",
-        ],
-        cotton: [
-          "Baumwolle",
-          "weich, hell und freundlich mit feiner Körnung",
-          "frame-cotton",
-          "rounded",
-          "extra-rounded",
-          "radial",
-          0.11,
-          0.055,
-          0.62,
-          "260px",
-          "-100px",
-          "-10px",
-          "9px",
-          "-12deg",
-          ".07",
-          ".1",
-          "#2f2a26",
-          "#b99a7f",
-          "#fffdf8",
-          "#f4eadf",
-        ],
-        gold: [
-          "Gold",
-          "edler Rahmen mit warmem Premium-Schimmer",
-          "frame-gold",
-          "extra-rounded",
-          "extra-rounded",
-          "linear",
-          0.11,
-          0.1,
-          0.46,
-          "300px",
-          "-115px",
-          "-55px",
-          "10px",
-          "-10deg",
-          ".09",
-          ".12",
-          "#2d241e",
-          "#c9a45d",
-          "#fff7e8",
-          "#f1dfbd",
-        ],
-        wine: [
-          "Wein",
-          "tiefer Wein-Ton mit elegantem Kontrast",
-          "frame-wine",
-          "classy-rounded",
-          "extra-rounded",
-          "radial",
-          0.1,
-          0.12,
-          0.84,
-          "360px",
-          "-135px",
-          "-85px",
-          "16px",
-          "-14deg",
-          ".05",
-          ".08",
-          "#3a101d",
-          "#b98a6a",
-          "#fff7f2",
-          "#471625",
-        ],
-        colorpass: [
-          "Farbpass",
-          "modernes Farbprofil für Beratung und PDFs",
-          "frame-pass",
-          "rounded",
-          "extra-rounded",
-          "linear",
-          0.08,
-          0.04,
-          0.48,
-          "240px",
-          "-90px",
-          "20px",
-          "7px",
-          "-12deg",
-          ".08",
-          ".1",
-          "#2a2724",
-          "#c56d4f",
-          "#ffffff",
-          "#f8efe5",
-        ],
+        eskyna: {
+          name: "ESKYNA Original",
+          sub: "Punkte, Logo-Mitte, organische Finder",
+          frame: "eskyna",
+          dots: "dots",
+          corners: "extra-rounded",
+          gradient: "none",
+          warp: 2.5,
+          dark: "#4b2e23",
+          accent: "#4b2e23",
+          bg: "#ffffff",
+          card: "#ffffff",
+          logo: true,
+        },
+        silk: {
+          name: "Seide",
+          sub: "sichtbarer Stoffglanz, weich und luxuriös",
+          frame: "silk",
+          dots: "extra-rounded",
+          corners: "extra-rounded",
+          gradient: "radial",
+          warp: 1.5,
+          dark: "#3a2b23",
+          accent: "#d8b893",
+          bg: "#fff8ef",
+          card: "#efe0d1",
+        },
+        linen: {
+          name: "Leinen",
+          sub: "natürliche Webstruktur, ruhig und hochwertig",
+          frame: "linen",
+          dots: "classy-rounded",
+          corners: "square",
+          gradient: "linear",
+          warp: 0.5,
+          dark: "#2c2722",
+          accent: "#9b8068",
+          bg: "#fbf6ef",
+          card: "#ede2d5",
+        },
+        cotton: {
+          name: "Baumwolle",
+          sub: "hell, weich und freundlich",
+          frame: "cotton",
+          dots: "rounded",
+          corners: "extra-rounded",
+          gradient: "radial",
+          warp: 0.5,
+          dark: "#2f2a26",
+          accent: "#b99a7f",
+          bg: "#fffdf8",
+          card: "#f4eadf",
+        },
+        gold: {
+          name: "Gold",
+          sub: "Premium-Rahmen mit warmem Schimmer",
+          frame: "gold",
+          dots: "extra-rounded",
+          corners: "extra-rounded",
+          gradient: "linear",
+          warp: 0,
+          dark: "#2d241e",
+          accent: "#c9a45d",
+          bg: "#fff7e8",
+          card: "#f1dfbd",
+        },
+        wine: {
+          name: "Wein",
+          sub: "tiefer Ton mit elegantem Kontrast",
+          frame: "wine",
+          dots: "classy-rounded",
+          corners: "extra-rounded",
+          gradient: "radial",
+          warp: 1,
+          dark: "#3a101d",
+          accent: "#b98a6a",
+          bg: "#fff7f2",
+          card: "#471625",
+        },
+        colorpass: {
+          name: "Farbpass",
+          sub: "modernes Profil für Beratung und PDFs",
+          frame: "pass",
+          dots: "rounded",
+          corners: "extra-rounded",
+          gradient: "linear",
+          warp: 0,
+          dark: "#2a2724",
+          accent: "#c56d4f",
+          bg: "#ffffff",
+          card: "#f8efe5",
+        },
       };
-      const presets = {
+      const palettes = {
         natur: ["Naturbeige", "#231f20", "#b99a7f", "#fffaf4", "#f6ecdf"],
         schwarz: ["Tiefschwarz", "#181515", "#c9a45d", "#ede2d5", "#241f1d"],
         rose: ["Altrosa", "#4a302d", "#c88f86", "#fff5f1", "#f4ded8"],
@@ -1235,25 +842,25 @@
       };
       dom.designs.innerHTML = Object.entries(designs)
         .map(
-          ([key, d], index) =>
+          ([k, d], i) =>
             '<button type="button" class="chip ' +
-            (index ? "" : "active") +
+            (i ? "" : "active") +
             '" data-design="' +
-            key +
+            k +
             '"><strong>' +
-            d[0] +
+            d.name +
             "</strong><span>" +
-            d[1] +
+            d.sub +
             "</span></button>"
         )
         .join("");
-      dom.presets.innerHTML = Object.entries(presets)
+      dom.presets.innerHTML = Object.entries(palettes)
         .map(
-          ([key, p], index) =>
+          ([k, p], i) =>
             '<button type="button" class="preset ' +
-            (index ? "" : "active") +
+            (i ? "" : "active") +
             '" data-preset="' +
-            key +
+            k +
             '" aria-label="' +
             p[0] +
             '" style="--sw:linear-gradient(135deg,' +
@@ -1265,15 +872,15 @@
             ' 70%)"></button>'
         )
         .join("");
-      function message(text) {
-        dom.toast.textContent = text;
+      function msg(t) {
+        dom.toast.textContent = t;
         dom.toast.classList.add("show");
-        clearTimeout(message.timer);
-        message.timer = setTimeout(() => dom.toast.classList.remove("show"), 2200);
+        clearTimeout(msg.t);
+        msg.t = setTimeout(() => dom.toast.classList.remove("show"), 2200);
       }
-      function showError(text) {
-        dom.error.textContent = text;
-        dom.error.classList.toggle("show", Boolean(text));
+      function error(t) {
+        dom.error.textContent = t;
+        dom.error.classList.toggle("show", Boolean(t));
       }
       function readable(hex) {
         let n = parseInt(hex.slice(1), 16),
@@ -1282,202 +889,18 @@
           b = n & 255;
         return (r * 0.2126 + g * 0.7152 + b * 0.0722) / 255 > 0.55 ? "#231f20" : "#fffaf4";
       }
-      function cleanName() {
-        let source = (f.file.value || "eskyna-qr-code").toLowerCase().trim(),
-          out = "";
-        for (const char of source) {
-          out += "abcdefghijklmnopqrstuvwxyz0123456789-_".includes(char) ? char : "-";
-        }
-        while (out.includes("--")) out = out.replaceAll("--", "-");
-        return out || "eskyna-qr-code";
-      }
-      function gradient() {
-        return f.gradient.value === "none"
-          ? undefined
-          : {
-              type: f.gradient.value,
-              rotation: Math.PI / 4,
-              colorStops: [
-                { offset: 0, color: f.dark.value },
-                { offset: 1, color: f.accent.value },
-              ],
-            };
-      }
-      function options(size = f.size.value) {
-        let design = designs[activeDesign],
-          isEskyna = design && design[20] === "eskyna",
-          centerImage = logo || (isEskyna ? "https://eskyna.com/images/sign.png" : undefined);
-        return {
-          width: Number(size),
-          height: Number(size),
-          type: "canvas",
-          data: f.data.value.trim() || "https://eskyna.com",
-          image: centerImage,
-          margin: isEskyna ? 0 : Number(f.margin.value),
-          qrOptions: {
-            typeNumber: 0,
-            mode: "Byte",
-            errorCorrectionLevel: isEskyna ? "H" : f.ec.value,
-          },
-          dotsOptions: {
-            type: f.dots.value,
-            color: f.dark.value,
-            gradient: isEskyna ? undefined : gradient(),
-          },
-          cornersSquareOptions: {
-            type: f.corners.value,
-            color: isEskyna ? "rgba(0,0,0,0)" : f.dark.value,
-          },
-          cornersDotOptions: {
-            type: f.corners.value === "square" ? "square" : "dot",
-            color: isEskyna ? "rgba(0,0,0,0)" : f.accent.value,
-          },
-          backgroundOptions: { color: f.transparent.checked ? "transparent" : f.bg.value },
-          imageOptions: {
-            crossOrigin: "anonymous",
-            margin: isEskyna ? 10 : 8,
-            imageSize: isEskyna ? 0.27 : Number(f.logoSize.value),
-            hideBackgroundDots: true,
-          },
-        };
-      }
-      function renderDesign(key) {
-        let d = designs[key];
-        dom.qrCard.className = "qr-card " + d[2];
-        dom.qrCard.style.setProperty("--clover", d[6]);
-        dom.qrCard.style.setProperty("--markOpacity", d[7]);
-        dom.qrCard.style.setProperty("--box", d[8]);
-        dom.qrCard.style.setProperty("--markSize", d[9]);
-        dom.qrCard.style.setProperty("--markRight", d[10]);
-        dom.qrCard.style.setProperty("--markBottom", d[11]);
-        dom.qrCard.style.setProperty("--markBlur", d[12]);
-        dom.qrCard.style.setProperty("--markRot", d[13]);
-        dom.qrCard.style.setProperty("--boxLine", d[14]);
-        dom.qrCard.style.setProperty("--inner", d[15]);
-        dom.qrCard.style.setProperty("--pass1", f.accent.value);
-        dom.qrCard.style.setProperty("--pass2", "#d9b76f");
-        dom.qrCard.style.setProperty("--pass3", "#9dad90");
-      }
-      function applyDesign(key) {
-        activeDesign = key;
-        let d = designs[key];
-        f.dots.value = d[3];
-        f.corners.value = d[4];
-        f.gradient.value = d[5];
-        if (d[16]) {
-          f.dark.value = d[16];
-          f.accent.value = d[17];
-          f.bg.value = d[18];
-          f.card.value = d[19];
-        }
-        if (d[20] === "eskyna") {
-          f.margin.value = 0;
-          f.ec.value = "H";
-          f.logoSize.value = 0.26;
-          f.warp.value = 2.5;
-        } else if (key === "silk") f.warp.value = 1.5;
-        else if (key === "linen") f.warp.value = 0.5;
-        else if (key === "cotton") f.warp.value = 0.5;
-        else if (key === "wine") f.warp.value = 1;
-        else f.warp.value = 0;
-        renderDesign(key);
-      }
-      function update() {
-        if (!window.QRCodeStyling) {
-          showError("Der QR-Code konnte nicht geladen werden. Bitte Seite neu laden.");
-          return;
-        }
-        showError("");
-        let warp = Number(f.warp.value || 0);
-        dom.sizeV.textContent = f.size.value;
-        dom.marginV.textContent = f.margin.value;
-        dom.logoSizeV.textContent = Math.round(Number(f.logoSize.value) * 100) + "%";
-        dom.warpV.textContent = warp;
-        dom.qrCard.style.setProperty("--qbg", f.card.value);
-        dom.qrCard.style.setProperty("--qink", readable(f.card.value));
-        dom.qrCard.style.setProperty("--warpX", warp * 0.22 + "deg");
-        dom.qrCard.style.setProperty("--warpY", -warp * 0.34 + "deg");
-        dom.qrCard.style.setProperty("--warpSkewX", -warp * 0.55 + "deg");
-        dom.qrCard.style.setProperty("--warpSkewY", warp * 0.22 + "deg");
-        dom.qrCard.style.setProperty("--finderWarp", warp * 0.55 + "deg");
-        dom.qrCard.style.setProperty("--finderShift", warp * 1.4 + "px");
-        dom.qrCard.style.setProperty("--finderInner", 1 + warp * 0.25 + "deg");
-        renderDesign(activeDesign);
-        if (qr) qr.update(options());
-        else {
-          qr = new QRCodeStyling(options());
-          qr.append(dom.qr);
-        }
-        dom.status.textContent = f.data.value.trim() ? "Bereit" : "Bitte Inhalt einfügen";
-      }
-      let timer;
-      Object.values(f).forEach((el) => {
-        if (!el) return;
-        el.addEventListener("input", () => {
-          clearTimeout(timer);
-          timer = setTimeout(update, 100);
-        });
-        el.addEventListener("change", update);
-      });
-      dom.designs.addEventListener("click", (event) => {
-        let button = event.target.closest(".chip");
-        if (!button) return;
-        dom.designs
-          .querySelectorAll(".chip")
-          .forEach((item) => item.classList.toggle("active", item === button));
-        applyDesign(button.dataset.design);
-        update();
-      });
-      dom.presets.addEventListener("click", (event) => {
-        let button = event.target.closest(".preset");
-        if (!button) return;
-        let p = presets[button.dataset.preset];
-        f.dark.value = p[1];
-        f.accent.value = p[2];
-        f.bg.value = p[3];
-        f.card.value = p[4];
-        dom.presets
-          .querySelectorAll(".preset")
-          .forEach((item) => item.classList.toggle("active", item === button));
-        update();
-      });
-      dom.downloadQr.addEventListener("click", async () => {
-        try {
-          if (!qr) update();
-          if (designs[activeDesign][20] === "eskyna") await downloadEskynaQr();
-          else await qr.download({ name: cleanName(), extension: f.type.value });
-          message("QR-Code wurde heruntergeladen.");
-        } catch (e) {
-          showError("Der Download hat nicht funktioniert. Bitte erneut versuchen.");
-        }
-      });
-      f.logo.addEventListener("change", (event) => {
-        let file = event.target.files[0];
-        if (!file) return;
-        if (!file.type.startsWith("image/")) {
-          showError("Bitte eine Bilddatei auswählen.");
-          return;
-        }
-        let reader = new FileReader();
-        reader.onload = () => {
-          logo = reader.result;
-          f.ec.value = "H";
-          update();
-          message("Logo wurde hinzugefügt.");
-        };
-        reader.readAsDataURL(file);
-      });
-      dom.removeLogo.addEventListener("click", () => {
-        logo = "";
-        f.logo.value = "";
-        update();
-        message("Logo wurde entfernt.");
-      });
-      function rgba(hex, alpha) {
+      function rgba(hex, a) {
         let n = parseInt(hex.slice(1), 16);
-        return "rgba(" + (n >> 16) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + alpha + ")";
+        return "rgba(" + (n >> 16) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + a + ")";
       }
-      function rounded(ctx, x, y, w, h, r) {
+      function name() {
+        let s = (f.file.value || "eskyna-qr-code").toLowerCase().trim(),
+          o = "";
+        for (const c of s) o += "abcdefghijklmnopqrstuvwxyz0123456789-_".includes(c) ? c : "-";
+        while (o.includes("--")) o = o.replaceAll("--", "-");
+        return o || "eskyna-qr-code";
+      }
+      function round(ctx, x, y, w, h, r) {
         ctx.beginPath();
         if (ctx.roundRect) ctx.roundRect(x, y, w, h, r);
         else {
@@ -1489,123 +912,89 @@
         }
         ctx.closePath();
       }
-      function imageFromBlob(blob) {
-        return new Promise((resolve, reject) => {
+      function loadImage(src) {
+        return new Promise((ok, no) => {
+          let img = new Image();
+          img.crossOrigin = "anonymous";
+          img.onload = () => ok(img);
+          img.onerror = no;
+          img.src = src;
+        });
+      }
+      function blobImage(blob) {
+        return new Promise((ok, no) => {
           let url = URL.createObjectURL(blob),
             img = new Image();
           img.onload = () => {
             URL.revokeObjectURL(url);
-            resolve(img);
+            ok(img);
           };
-          img.onerror = reject;
+          img.onerror = no;
           img.src = url;
         });
       }
-      function clover(ctx, x, y, size, color, alpha) {
+      function gradientOpt() {
+        return f.gradient.value === "none"
+          ? undefined
+          : {
+              type: f.gradient.value,
+              rotation: Math.PI / 4,
+              colorStops: [
+                { offset: 0, color: f.dark.value },
+                { offset: 1, color: f.accent.value },
+              ],
+            };
+      }
+      function isEskyna() {
+        return activeDesign === "eskyna";
+      }
+      function qrOptions(size) {
+        let special = isEskyna();
+        return {
+          width: size,
+          height: size,
+          type: "canvas",
+          data: f.data.value.trim() || "https://eskyna.com",
+          margin: special ? 0 : Number(f.margin.value),
+          qrOptions: {
+            typeNumber: 0,
+            mode: "Byte",
+            errorCorrectionLevel: special ? "H" : f.ec.value,
+          },
+          dotsOptions: {
+            type: f.dots.value,
+            color: f.dark.value,
+            gradient: special ? undefined : gradientOpt(),
+          },
+          cornersSquareOptions: {
+            type: f.corners.value,
+            color: special ? "rgba(0,0,0,0)" : f.dark.value,
+          },
+          cornersDotOptions: {
+            type: f.corners.value === "square" ? "square" : "dot",
+            color: special ? "rgba(0,0,0,0)" : f.accent.value,
+          },
+          backgroundOptions: { color: "rgba(255,255,255,0)" },
+          image: customLogo && !special ? customLogo : undefined,
+          imageOptions: {
+            crossOrigin: "anonymous",
+            margin: 8,
+            imageSize: Number(f.logoSize.value),
+            hideBackgroundDots: f.hideDots.checked,
+          },
+        };
+      }
+      async function makeQrImage(size) {
+        let blob = await new QRCodeStyling(qrOptions(size)).getRawData("png");
+        return blobImage(blob);
+      }
+      function fabric(ctx, S, frame, text) {
         ctx.save();
-        ctx.translate(x, y);
-        ctx.rotate(-0.18);
-        ctx.globalAlpha = alpha;
-        ctx.fillStyle = color;
-        ctx.shadowColor = color;
-        ctx.shadowBlur = size * 0.08;
-        [
-          [-0.18, -0.18, 0.23, 0.28, -0.75],
-          [0.18, -0.18, 0.23, 0.28, 0.75],
-          [0.2, 0.2, 0.23, 0.28, -0.7],
-          [-0.2, 0.2, 0.23, 0.28, 0.7],
-        ].forEach((p) => {
-          ctx.beginPath();
-          ctx.ellipse(p[0] * size, p[1] * size, p[2] * size, p[3] * size, p[4], 0, Math.PI * 2);
-          ctx.fill();
-        });
-        ctx.restore();
-      }
-      function drawWarpedQr(ctx, img, cx, cy, size, warp) {
-        ctx.save();
-        ctx.translate(cx, cy);
-        ctx.transform(1 + warp * 0.006, warp * 0.006, -warp * 0.004, 1 - warp * 0.002, 0, 0);
-        ctx.drawImage(img, -size / 2, -size / 2, size, size);
-        ctx.restore();
-      }
-      function drawEskynaFinders(ctx, x, y, size, color, warp) {
-        let s = size * 0.235,
-          b = size * 0.048;
-        function one(px, py, flip) {
-          ctx.save();
-          ctx.translate(x + px, y + py);
-          ctx.rotate((flip || 1) * warp * 0.006);
-          ctx.transform(1 + warp * 0.002, warp * 0.003 * flip, -warp * 0.002 * flip, 1, 0, 0);
-          ctx.fillStyle = "#fff";
-          ctx.fillRect(-b, -b, s + 2 * b, s + 2 * b);
-          ctx.strokeStyle = color;
-          ctx.lineWidth = b;
-          ctx.lineJoin = "round";
-          ctx.beginPath();
-          ctx.roundRect
-            ? ctx.roundRect(0, 0, s, s, [s * 0.3, s * 0.12, s * 0.13, s * 0.16])
-            : ctx.rect(0, 0, s, s);
-          ctx.stroke();
-          ctx.fillStyle = color;
-          ctx.beginPath();
-          ctx.ellipse(s * 0.5, s * 0.5, s * 0.18, s * 0.2, warp * 0.03 * flip, 0, Math.PI * 2);
-          ctx.fill();
-          ctx.restore();
-        }
-        one(0, 0, 1);
-        one(size - s, 0, -1);
-        one(0, size - s, -1);
-      }
-      function drawEskynaQr(ctx, img, cx, cy, size, warp) {
-        ctx.save();
-        ctx.translate(cx, cy);
-        ctx.transform(1 + warp * 0.006, warp * 0.006, -warp * 0.004, 1 - warp * 0.002, 0, 0);
-        ctx.drawImage(img, -size / 2, -size / 2, size, size);
-        drawEskynaFinders(ctx, -size / 2, -size / 2, size, f.dark.value, warp);
-        ctx.restore();
-      }
-      async function downloadEskynaQr() {
-        let S = Number(f.size.value),
-          canvas = document.createElement("canvas"),
-          ctx = canvas.getContext("2d"),
-          img = await imageFromBlob(
-            await new QRCodeStyling({ ...options(S), type: "canvas" }).getRawData("png")
-          ),
-          warp = Number(f.warp.value || 0);
-        canvas.width = canvas.height = S;
-        ctx.fillStyle = f.transparent.checked ? "rgba(255,255,255,0)" : "#fff";
-        ctx.fillRect(0, 0, S, S);
-        drawEskynaQr(ctx, img, S / 2, S / 2, S, warp);
-        let link = document.createElement("a");
-        if (f.type.value === "svg") {
-          let png = canvas.toDataURL("image/png"),
-            svg =
-              '<svg xmlns="http://www.w3.org/2000/svg" width="' +
-              S +
-              '" height="' +
-              S +
-              '"><image href="' +
-              png +
-              '" width="' +
-              S +
-              '" height="' +
-              S +
-              '"/></svg>';
-          link.href = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
-          link.download = cleanName() + ".svg";
-        } else {
-          link.href = canvas.toDataURL("image/png");
-          link.download = cleanName() + ".png";
-        }
-        link.click();
-      }
-      function fabric(ctx, S, type, color) {
-        ctx.save();
-        ctx.lineCap = "round";
-        if (type === "frame-silk") {
+        if (frame === "silk") {
           ctx.globalAlpha = 0.18;
+          ctx.lineCap = "round";
           for (let i = -S; i < S * 1.5; i += 28) {
-            ctx.strokeStyle = i % 56 ? rgba("#ffffff", 0.5) : rgba(color, 0.08);
+            ctx.strokeStyle = i % 56 ? rgba("#ffffff", 0.5) : rgba(text, 0.08);
             ctx.lineWidth = i % 56 ? 2 : 1;
             ctx.beginPath();
             ctx.moveTo(i, 0);
@@ -1627,10 +1016,9 @@
             );
             ctx.fill();
           }
-        } else if (type === "frame-linen") {
+        } else if (frame === "linen") {
           ctx.globalAlpha = 0.28;
-          ctx.strokeStyle = rgba(color, 0.13);
-          ctx.lineWidth = 1;
+          ctx.strokeStyle = rgba(text, 0.13);
           for (let x = 0; x < S; x += 14) {
             ctx.beginPath();
             ctx.moveTo(x, 0);
@@ -1644,21 +1032,13 @@
             ctx.lineTo(S, y);
             ctx.stroke();
           }
-          ctx.globalAlpha = 0.08;
-          ctx.strokeStyle = rgba(color, 0.5);
-          for (let x = 7; x < S; x += 42) {
-            ctx.beginPath();
-            ctx.moveTo(x, 0);
-            ctx.lineTo(x + 30, S);
-            ctx.stroke();
-          }
-        } else if (type === "frame-cotton") {
+        } else if (frame === "cotton") {
           ctx.globalAlpha = 0.16;
           for (let i = 0; i < 180; i++) {
             let x = (i * 97) % S,
               y = (i * 53) % S,
               r = 2 + (i % 7);
-            ctx.fillStyle = i % 3 ? rgba("#ffffff", 0.48) : rgba(color, 0.08);
+            ctx.fillStyle = i % 3 ? rgba("#ffffff", 0.48) : rgba(text, 0.08);
             ctx.beginPath();
             ctx.arc(x, y, r, 0, Math.PI * 2);
             ctx.fill();
@@ -1666,64 +1046,303 @@
         }
         ctx.restore();
       }
-      dom.downloadCard.addEventListener("click", async () => {
-        try {
-          let S = 1600,
-            Q = 920,
-            canvas = document.createElement("canvas"),
-            ctx = canvas.getContext("2d"),
-            text = readable(f.card.value),
-            d = designs[activeDesign];
-          canvas.width = canvas.height = S;
-          ctx.fillStyle = f.card.value;
-          ctx.fillRect(0, 0, S, S);
-          fabric(ctx, S, d[2], text);
-          let glow = ctx.createRadialGradient(360, 240, 40, 360, 240, 760);
-          glow.addColorStop(0, rgba(f.accent.value, 0.28));
-          glow.addColorStop(1, rgba(f.accent.value, 0));
-          ctx.fillStyle = glow;
-          ctx.fillRect(0, 0, S, S);
-          if (d[2] !== "frame-eskyna") {
-            ctx.strokeStyle = rgba(text, d[2] === "frame-minimal" ? 0.34 : 0.18);
-            ctx.lineWidth = d[2] === "frame-editorial" ? 36 : 4;
-            if (d[2] === "frame-aura" || d[2] === "frame-seal") {
-              ctx.beginPath();
-              ctx.ellipse(S / 2, S / 2, 680, 720, 0, 0, Math.PI * 2);
-              ctx.stroke();
-            } else if (d[2] === "frame-minimal") ctx.strokeRect(70, 70, S - 140, S - 140);
-            else {
-              rounded(ctx, 70, 70, S - 140, S - 140, d[2] === "frame-editorial" ? 24 : 110);
-              ctx.stroke();
-            }
-          }
-          let qrExport = new QRCodeStyling({ ...options(Q), type: "canvas" }),
-            qrImage = await imageFromBlob(await qrExport.getRawData("png")),
-            holder = Q + 110,
-            hx = (S - holder) / 2,
-            hy = d[2] === "frame-eskyna" ? 285 : 340;
-          ctx.fillStyle = d[2] === "frame-eskyna" ? "#ffffff" : rgba("#ffffff", 0.44);
-          rounded(ctx, hx, hy, holder, holder, d[2] === "frame-eskyna" ? 0 : 92);
-          ctx.fill();
-          if (d[2] !== "frame-eskyna") clover(ctx, S / 2, hy + holder / 2, Q * 0.72, text, d[6]);
-          ctx.strokeStyle = rgba(text, d[2] === "frame-eskyna" ? 0 : 0.1);
+      function drawFrame(ctx, S, frame, text) {
+        ctx.save();
+        if (frame === "eskyna") return ctx.restore();
+        ctx.strokeStyle = rgba(text, frame === "gold" ? 0.42 : 0.18);
+        ctx.lineWidth = frame === "gold" ? 6 : 4;
+        if (frame === "wine") {
+          ctx.strokeStyle = rgba("#ffffff", 0.18);
+        }
+        if (frame === "pass") {
+          ctx.fillStyle = f.accent.value;
+          ctx.fillRect(0, 0, S * 0.11, S);
+          ctx.fillStyle = "#d9b76f";
+          ctx.fillRect(S * 0.11, 0, S * 0.11, S);
+          ctx.fillStyle = "#9dad90";
+          ctx.fillRect(S * 0.22, 0, S * 0.11, S);
+        }
+        if (frame === "gold") {
+          round(ctx, 70, 70, S - 140, S - 140, 110);
           ctx.stroke();
-          let warp = Number(f.warp.value || 0);
-          if (d[20] === "eskyna") drawEskynaQr(ctx, qrImage, S / 2, hy + holder / 2, Q, warp);
-          else if (warp > 0) drawWarpedQr(ctx, qrImage, S / 2, hy + holder / 2, Q, warp);
-          else ctx.drawImage(qrImage, hx + 55, hy + 55, Q, Q);
-          let link = document.createElement("a");
-          link.download = cleanName() + "-karte.png";
-          link.href = canvas.toDataURL("image/png");
-          link.click();
-          message("Design-Karte wurde heruntergeladen.");
+          ctx.strokeStyle = rgba("#ffffff", 0.34);
+          ctx.lineWidth = 22;
+          round(ctx, 92, 92, S - 184, S - 184, 88);
+          ctx.stroke();
+        } else if (frame === "wine") {
+          round(ctx, 76, 76, S - 152, S - 152, 86);
+          ctx.stroke();
+        } else if (frame === "pass") {
+          round(ctx, 78, 78, S - 156, S - 156, 54);
+          ctx.stroke();
+        } else {
+          round(ctx, 78, 78, S - 156, S - 156, frame === "linen" ? 32 : 78);
+          ctx.stroke();
+        }
+        ctx.restore();
+      }
+      function drawClover(ctx, x, y, size, color, alpha) {
+        ctx.save();
+        ctx.translate(x, y);
+        ctx.rotate(-0.18);
+        ctx.globalAlpha = alpha;
+        ctx.fillStyle = color;
+        ctx.shadowColor = color;
+        ctx.shadowBlur = size * 0.08;
+        [
+          [-0.18, -0.18, 0.23, 0.28, -0.75],
+          [0.18, -0.18, 0.23, 0.28, 0.75],
+          [0.2, 0.2, 0.23, 0.28, -0.7],
+          [-0.2, 0.2, 0.23, 0.28, 0.7],
+        ].forEach((p) => {
+          ctx.beginPath();
+          ctx.ellipse(p[0] * size, p[1] * size, p[2] * size, p[3] * size, p[4], 0, Math.PI * 2);
+          ctx.fill();
+        });
+        ctx.restore();
+      }
+      function warped(ctx, cx, cy, warp, fn) {
+        ctx.save();
+        ctx.translate(cx, cy);
+        ctx.transform(1 + warp * 0.006, warp * 0.006, -warp * 0.004, 1 - warp * 0.002, 0, 0);
+        fn();
+        ctx.restore();
+      }
+      function organicFinder(ctx, x, y, s, color, warp, kind) {
+        ctx.save();
+        ctx.translate(x, y);
+        let rot = (kind === "tr" ? 1 : kind === "bl" ? -1 : 0.6) * warp * 0.007;
+        ctx.rotate(rot);
+        ctx.transform(1 + warp * 0.002, warp * 0.002, -warp * 0.0015, 1, 0, 0);
+        let b = s * 0.2;
+        ctx.fillStyle = "#fff";
+        ctx.fillRect(-b, -b, s + 2 * b, s + 2 * b);
+        ctx.fillStyle = color;
+        round(ctx, 0, 0, s, s, s * 0.22);
+        ctx.fill();
+        ctx.fillStyle = "#fff";
+        round(ctx, s * 0.23, s * 0.23, s * 0.54, s * 0.54, s * 0.13);
+        ctx.fill();
+        ctx.fillStyle = color;
+        ctx.beginPath();
+        ctx.ellipse(s * 0.5, s * 0.5, s * 0.17, s * 0.19, rot * 2, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+      }
+      async function drawLogo(ctx, cx, cy, size) {
+        let w = size * 0.27,
+          h = size * 0.12;
+        ctx.save();
+        round(ctx, cx - w * 0.62, cy - h * 0.72, w * 1.24, h * 1.44, h * 0.34);
+        ctx.fillStyle = "#fff";
+        ctx.fill();
+        try {
+          let img = customLogo ? await loadImage(customLogo) : await loadImage(ESKYNA_SIGN);
+          let scale = Math.min(w / img.naturalWidth, h / img.naturalHeight);
+          let iw = img.naturalWidth * scale,
+            ih = img.naturalHeight * scale;
+          ctx.drawImage(img, cx - iw / 2, cy - ih / 2, iw, ih);
         } catch (e) {
-          showError(
-            "Die Design-Karte konnte nicht erstellt werden. Der QR-Download funktioniert weiterhin."
+          ctx.fillStyle = f.dark.value;
+          ctx.font = "700 " + Math.round(size * 0.045) + "px Georgia";
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillText("ESKYNA", cx, cy);
+        }
+        ctx.restore();
+      }
+      async function drawQrBlock(ctx, x, y, size, qrImg, frame) {
+        let warp = Number(f.warp.value || 0);
+        let cx = x + size / 2,
+          cy = y + size / 2;
+        if (frame === "eskyna") {
+          warped(ctx, cx, cy, warp, () => {
+            ctx.drawImage(qrImg, -size / 2, -size / 2, size, size);
+            let fs = size * 0.235;
+            organicFinder(ctx, -size / 2, -size / 2, fs, f.dark.value, warp, "tl");
+            organicFinder(ctx, size / 2 - fs, -size / 2, fs, f.dark.value, warp, "tr");
+            organicFinder(ctx, -size / 2, size / 2 - fs, fs, f.dark.value, warp, "bl");
+          });
+          await drawLogo(ctx, cx, cy, size);
+          return;
+        }
+        if (warp > 0) {
+          warped(ctx, cx, cy, warp, () => ctx.drawImage(qrImg, -size / 2, -size / 2, size, size));
+        } else ctx.drawImage(qrImg, x, y, size, size);
+      }
+      async function compose(S = 1200) {
+        let frame = designs[activeDesign].frame,
+          canvas = document.createElement("canvas"),
+          ctx = canvas.getContext("2d"),
+          text = readable(f.card.value);
+        canvas.width = canvas.height = S;
+        let card =
+          f.transparent.checked && frame === "eskyna" ? "rgba(255,255,255,0)" : f.card.value;
+        ctx.clearRect(0, 0, S, S);
+        ctx.fillStyle = card;
+        ctx.fillRect(0, 0, S, S);
+        fabric(ctx, S, frame, text);
+        let glow = ctx.createRadialGradient(S * 0.22, S * 0.16, 20, S * 0.22, S * 0.16, S * 0.58);
+        glow.addColorStop(0, rgba(f.accent.value, frame === "eskyna" ? 0 : 0.26));
+        glow.addColorStop(1, rgba(f.accent.value, 0));
+        ctx.fillStyle = glow;
+        ctx.fillRect(0, 0, S, S);
+        drawFrame(ctx, S, frame, text);
+        let qSize = frame === "eskyna" ? S * 0.82 : S * 0.68;
+        let qx = (S - qSize) / 2,
+          qy = frame === "pass" ? S * 0.22 : (S - qSize) / 2;
+        let holderPad = frame === "eskyna" ? 0 : S * 0.045;
+        if (frame !== "eskyna") {
+          ctx.fillStyle = rgba("#ffffff", frame === "wine" ? 0.84 : 0.48);
+          round(
+            ctx,
+            qx - holderPad,
+            qy - holderPad,
+            qSize + holderPad * 2,
+            qSize + holderPad * 2,
+            70
+          );
+          ctx.fill();
+          drawClover(
+            ctx,
+            S / 2,
+            qy + qSize / 2,
+            qSize * 0.75,
+            text,
+            designs[activeDesign].frame === "pass" ? 0.06 : 0.1
           );
         }
+        let qrImg = await makeQrImage(Math.round(qSize));
+        await drawQrBlock(ctx, qx, qy, qSize, qrImg, frame);
+        return canvas;
+      }
+      async function render() {
+        let my = ++token;
+        if (!window.QRCodeStyling) {
+          error("Der QR-Code konnte nicht geladen werden. Bitte Seite neu laden.");
+          return;
+        }
+        error("");
+        dom.sizeV.textContent = f.size.value;
+        dom.marginV.textContent = f.margin.value;
+        dom.logoSizeV.textContent = Math.round(Number(f.logoSize.value) * 100) + "%";
+        dom.warpV.textContent = f.warp.value;
+        dom.status.textContent = f.data.value.trim() ? "Bereit" : "Bitte Inhalt einfügen";
+        try {
+          let c = await compose(1200);
+          if (my !== token) return;
+          lastCanvas = c;
+          let ctx = dom.canvas.getContext("2d");
+          ctx.clearRect(0, 0, 1200, 1200);
+          ctx.drawImage(c, 0, 0);
+        } catch (e) {
+          if (my === token) error("Vorschau konnte nicht erstellt werden. Bitte Eingabe prüfen.");
+        }
+      }
+      function applyDesign(key) {
+        activeDesign = key;
+        let d = designs[key];
+        f.dots.value = d.dots;
+        f.corners.value = d.corners;
+        f.gradient.value = d.gradient;
+        f.dark.value = d.dark;
+        f.accent.value = d.accent;
+        f.bg.value = d.bg;
+        f.card.value = d.card;
+        f.warp.value = d.warp;
+        f.ec.value = key === "eskyna" ? "H" : "Q";
+        f.margin.value = key === "eskyna" ? 0 : 12;
+        f.logoSize.value = key === "eskyna" ? 0.25 : 0.22;
+        dom.designs
+          .querySelectorAll(".chip")
+          .forEach((b) => b.classList.toggle("active", b.dataset.design === key));
+        render();
+      }
+      let timer;
+      Object.values(f).forEach((el) => {
+        if (!el) return;
+        el.addEventListener("input", () => {
+          clearTimeout(timer);
+          timer = setTimeout(render, 120);
+        });
+        el.addEventListener("change", render);
       });
-      applyDesign(activeDesign);
-      update();
+      dom.designs.addEventListener("click", (e) => {
+        let b = e.target.closest(".chip");
+        if (b) applyDesign(b.dataset.design);
+      });
+      dom.presets.addEventListener("click", (e) => {
+        let b = e.target.closest(".preset");
+        if (!b) return;
+        let p = palettes[b.dataset.preset];
+        f.dark.value = p[1];
+        f.accent.value = p[2];
+        f.bg.value = p[3];
+        f.card.value = p[4];
+        dom.presets
+          .querySelectorAll(".preset")
+          .forEach((x) => x.classList.toggle("active", x === b));
+        render();
+      });
+      f.logo.addEventListener("change", (e) => {
+        let file = e.target.files[0];
+        if (!file) return;
+        if (!file.type.startsWith("image/")) return error("Bitte eine Bilddatei auswählen.");
+        let r = new FileReader();
+        r.onload = () => {
+          customLogo = r.result;
+          render();
+          msg("Logo wurde hinzugefügt.");
+        };
+        r.readAsDataURL(file);
+      });
+      dom.removeLogo.addEventListener("click", () => {
+        customLogo = "";
+        f.logo.value = "";
+        render();
+        msg("Logo wurde entfernt.");
+      });
+      async function download(which) {
+        try {
+          let S = which === "card" ? 1600 : Number(f.size.value);
+          let c = which === "card" ? await compose(S) : lastCanvas || (await compose(1200));
+          if (which !== "card" && S !== 1200) {
+            c = await compose(S);
+          }
+          let a = document.createElement("a");
+          if (f.type.value === "svg") {
+            let png = c.toDataURL("image/png"),
+              svg =
+                '<svg xmlns="http://www.w3.org/2000/svg" width="' +
+                c.width +
+                '" height="' +
+                c.height +
+                '"><image href="' +
+                png +
+                '" width="' +
+                c.width +
+                '" height="' +
+                c.height +
+                '"/></svg>';
+            a.href = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+            a.download = name() + ".svg";
+          } else {
+            a.href = c.toDataURL("image/png");
+            a.download = name() + (which === "card" ? "-karte" : "") + ".png";
+          }
+          a.click();
+          msg(
+            which === "card"
+              ? "Design-Karte wurde heruntergeladen."
+              : "QR-Code wurde heruntergeladen."
+          );
+        } catch (e) {
+          error("Der Download hat nicht funktioniert. Bitte erneut versuchen.");
+        }
+      }
+      dom.downloadQr.addEventListener("click", () => download("qr"));
+      dom.downloadCard.addEventListener("click", () => download("card"));
+      applyDesign("eskyna");
     </script>
   </body>
 </html>
