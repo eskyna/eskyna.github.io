@@ -277,41 +277,102 @@
         border-radius: 0;
         border: 1px solid rgba(35, 31, 32, 0.22);
       }
-      .frame-arch {
-        border-radius: 50% 50% 34px 34px/38% 38% 34px 34px;
-        border: 1px solid rgba(35, 31, 32, 0.12);
+      .frame-silk {
+        border-radius: 46px;
+        border: 1px solid rgba(255, 255, 255, 0.5);
+        background:
+          radial-gradient(circle at 18% 14%, rgba(255, 255, 255, 0.62), transparent 24%),
+          linear-gradient(
+            115deg,
+            rgba(255, 255, 255, 0.42),
+            transparent 28%,
+            rgba(255, 255, 255, 0.22) 48%,
+            transparent 72%
+          ),
+          linear-gradient(145deg, var(--qbg), color-mix(in srgb, var(--qbg), #d8bfa8 22%));
         box-shadow:
-          inset 0 0 0 16px rgba(255, 255, 255, 0.2),
-          0 30px 82px rgba(47, 32, 21, 0.16);
+          inset 0 0 0 18px rgba(255, 255, 255, 0.18),
+          0 34px 88px rgba(47, 32, 21, 0.18);
       }
-      .frame-arch:before {
-        inset: 30px;
-        border-color: rgba(35, 31, 32, 0.1);
+      .frame-silk:before {
+        inset: 26px;
+        border-color: rgba(255, 255, 255, 0.48);
       }
-      .frame-ribbon {
+      .frame-silk .qr-box {
+        background: rgba(255, 255, 255, 0.54);
+        backdrop-filter: blur(8px);
+      }
+      .frame-lines {
         border-radius: 30px;
-        border: 1px solid rgba(35, 31, 32, 0.12);
+        border: 1px solid rgba(35, 31, 32, 0.16);
+        background:
+          repeating-linear-gradient(90deg, rgba(35, 31, 32, 0.045) 0 1px, transparent 1px 18px),
+          repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.22) 0 1px, transparent 1px 26px),
+          var(--qbg);
+        box-shadow:
+          inset 0 0 0 14px rgba(255, 255, 255, 0.16),
+          0 30px 82px rgba(47, 32, 21, 0.15);
       }
-      .frame-ribbon:before {
-        inset: 0;
-        border: 0;
-        border-radius: inherit;
+      .frame-lines:before {
+        inset: 22px;
+        border-color: rgba(35, 31, 32, 0.18);
+        border-style: dashed;
+      }
+      .frame-gold {
+        border-radius: 34px;
+        border: 1px solid rgba(201, 164, 93, 0.72);
+        background:
+          radial-gradient(circle at 20% 18%, rgba(255, 255, 255, 0.5), transparent 26%),
+          linear-gradient(135deg, var(--qbg), #ead5ad);
+        box-shadow:
+          inset 0 0 0 2px rgba(201, 164, 93, 0.35),
+          inset 0 0 0 19px rgba(255, 255, 255, 0.24),
+          0 34px 90px rgba(105, 72, 28, 0.2);
+      }
+      .frame-gold:before {
+        inset: 26px;
+        border-color: rgba(201, 164, 93, 0.45);
+      }
+      .frame-wine {
+        border-radius: 38px;
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        background:
+          radial-gradient(circle at 20% 16%, rgba(255, 255, 255, 0.13), transparent 26%),
+          radial-gradient(circle at 82% 88%, rgba(201, 164, 93, 0.15), transparent 34%),
+          linear-gradient(145deg, var(--qbg), #2a141b);
+        box-shadow:
+          inset 0 0 0 18px rgba(255, 255, 255, 0.055),
+          0 36px 92px rgba(45, 13, 23, 0.28);
+      }
+      .frame-wine:before {
+        inset: 28px;
+        border-color: rgba(255, 255, 255, 0.16);
+      }
+      .frame-wine .qr-box {
+        background: rgba(255, 255, 255, 0.82);
+      }
+      .frame-pass {
+        border-radius: 28px;
+        border: 1px solid rgba(35, 31, 32, 0.13);
         background:
           linear-gradient(
-            135deg,
-            transparent 0 58%,
-            rgba(255, 255, 255, 0.34) 58% 75%,
-            transparent 75%
+            90deg,
+            var(--pass1, #c88f86) 0 11%,
+            var(--pass2, #d9b76f) 11% 22%,
+            var(--pass3, #9dad90) 22% 33%,
+            transparent 33%
           ),
-          linear-gradient(90deg, rgba(35, 31, 32, 0.08), transparent 32%);
-      }
-      .frame-gallery {
-        border-radius: 26px;
-        border: 1px solid rgba(35, 31, 32, 0.14);
+          linear-gradient(145deg, var(--qbg), #fffaf4);
         box-shadow:
-          inset 0 0 0 12px rgba(255, 255, 255, 0.2),
-          inset 0 0 0 13px rgba(35, 31, 32, 0.08),
-          0 30px 82px rgba(47, 32, 21, 0.16);
+          inset 0 0 0 14px rgba(255, 255, 255, 0.18),
+          0 30px 82px rgba(47, 32, 21, 0.15);
+      }
+      .frame-pass:before {
+        inset: 32px 24px 24px;
+        border-color: rgba(35, 31, 32, 0.11);
+      }
+      .frame-pass .qr-box {
+        margin-top: 24px;
       }
       .qr-box {
         position: relative;
@@ -676,9 +737,9 @@
           <div class="grid">
             <div>
               <div class="eyebrow">QR-Code gestalten</div>
-              <h1>Für einen Auftritt, der stimmig wirkt.</h1>
+              <h1>Wähle den Stil deines Auftritts.</h1>
               <p class="hint">
-                Klar, bewusst und alltagstauglich — als QR-Code im ESKYNA Stil-System.
+                Fünf starke Designrichtungen für QR-Codes, die bewusst gestaltet wirken.
               </p>
             </div>
             <div class="field">
@@ -828,11 +889,11 @@
           <div class="intro">
             <div>
               <div class="eyebrow">Vorschau</div>
-              <h1>Ihr QR-Code als visuelles Statement.</h1>
+              <h1>Ein QR-Code als Designobjekt.</h1>
             </div>
             <p>
-              Farbwelt, Linie, Rahmen und Kleeblatt-Schatten arbeiten zusammen — ruhig, hochwertig
-              und scanbar.
+              Seide, Linien, Gold, Wein oder Farbpass: Jeder Stil verändert Form, Farbe, Textur und
+              Tiefenwirkung.
             </p>
           </div>
           <div class="head">
@@ -887,149 +948,115 @@
         logo = "",
         activeDesign = "atelier";
       const designs = {
-        essence: [
-          "Essenz-Bogen",
-          "weicher Torbogen mit Signature-Ruhe",
-          "frame-arch",
+        silk: [
+          "Seide",
+          "weicher Glanz, ruhig und luxuriös",
+          "frame-silk",
           "extra-rounded",
           "extra-rounded",
           "radial",
-          0.16,
-          0.18,
-          0.5,
-          "380px",
-          "-150px",
+          0.13,
+          0.08,
+          0.54,
+          "340px",
+          "-130px",
           "-80px",
-          "16px",
+          "18px",
           "-18deg",
-          ".09",
-          ".13",
+          ".08",
+          ".12",
+          "#3a2b23",
+          "#d8b893",
+          "#fff8ef",
+          "#efe0d1",
         ],
-        signature: [
-          "Signature Luxe",
-          "goldene Tiefe, weich und hochwertig",
+        lines: [
+          "Linien",
+          "präzise Stil-Linien wie ein Atelier-Raster",
+          "frame-lines",
+          "classy-rounded",
+          "square",
+          "linear",
+          0.06,
+          0.035,
+          0.42,
+          "220px",
+          "-95px",
+          "18px",
+          "5px",
+          "-8deg",
+          ".12",
+          ".12",
+          "#231f20",
+          "#9b8068",
+          "#ffffff",
+          "#f6efe6",
+        ],
+        gold: [
+          "Gold",
+          "edler Rahmen mit warmem Premium-Schimmer",
           "frame-gold",
           "extra-rounded",
           "extra-rounded",
           "linear",
-          0.12,
-          0.16,
-          0.44,
-          "340px",
-          "-120px",
-          "-70px",
-          "12px",
+          0.11,
+          0.1,
+          0.46,
+          "300px",
+          "-115px",
+          "-55px",
+          "10px",
           "-10deg",
-          ".1",
+          ".09",
           ".12",
+          "#2d241e",
+          "#c9a45d",
+          "#fff7e8",
+          "#f1dfbd",
         ],
-        clover: [
-          "Kleeblatt Halo",
-          "sichtbarer Glücks-Schatten im QR-Feld",
-          "frame-seal",
-          "rounded",
-          "extra-rounded",
-          "radial",
-          0.26,
-          0.22,
-          0.52,
-          "390px",
-          "-130px",
-          "-90px",
-          "18px",
-          "-16deg",
-          ".1",
-          ".14",
-        ],
-        gallery: [
-          "Style-Galerie",
-          "gerahmt wie ein hochwertiger Print",
-          "frame-gallery",
+        wine: [
+          "Wein",
+          "tiefer Wein-Ton mit elegantem Kontrast",
+          "frame-wine",
           "classy-rounded",
           "extra-rounded",
-          "linear",
+          "radial",
           0.1,
-          0.1,
-          0.42,
-          "260px",
-          "-90px",
-          "20px",
-          "8px",
-          "-10deg",
+          0.12,
+          0.84,
+          "360px",
+          "-135px",
+          "-85px",
+          "16px",
+          "-14deg",
           ".05",
           ".08",
-        ],
-        editorial: [
-          "Editorial Split",
-          "grafische Magazin-Kante mit Kontrast",
-          "frame-ribbon",
-          "classy-rounded",
-          "square",
-          "linear",
-          0.08,
-          0.2,
-          0.4,
-          "430px",
-          "-190px",
-          "-130px",
-          "20px",
-          "-24deg",
-          ".04",
-          ".06",
-        ],
-        visibility: [
-          "Visibility Aura",
-          "organisch, sichtbar und weich",
-          "frame-aura",
-          "dots",
-          "dot",
-          "radial",
-          0.2,
-          0.14,
-          0.5,
-          "330px",
-          "-120px",
-          "-40px",
-          "14px",
-          "-8deg",
-          ".1",
-          ".12",
+          "#3a101d",
+          "#b98a6a",
+          "#fff7f2",
+          "#471625",
         ],
         colorpass: [
           "Farbpass",
-          "klarer Kartenlook für Beratung & PDFs",
-          "frame-soft",
+          "modernes Farbprofil für Beratung und PDFs",
+          "frame-pass",
           "rounded",
           "extra-rounded",
           "linear",
-          0.1,
           0.08,
-          0.46,
-          "250px",
-          "-95px",
-          "28px",
+          0.04,
+          0.48,
+          "240px",
+          "-90px",
+          "20px",
           "7px",
           "-12deg",
-          ".06",
-          ".09",
-        ],
-        pure: [
-          "Pure Print",
-          "minimal, präzise und sehr scanbar",
-          "frame-minimal",
-          "square",
-          "square",
-          "none",
-          0.035,
-          0.045,
-          0.36,
-          "180px",
-          "-80px",
-          "18px",
-          "6px",
-          "-8deg",
-          ".03",
-          ".03",
+          ".08",
+          ".1",
+          "#2a2724",
+          "#c56d4f",
+          "#ffffff",
+          "#f8efe5",
         ],
       };
       const presets = {
@@ -1153,6 +1180,9 @@
         dom.qrCard.style.setProperty("--markRot", d[13]);
         dom.qrCard.style.setProperty("--boxLine", d[14]);
         dom.qrCard.style.setProperty("--inner", d[15]);
+        dom.qrCard.style.setProperty("--pass1", f.accent.value);
+        dom.qrCard.style.setProperty("--pass2", "#d9b76f");
+        dom.qrCard.style.setProperty("--pass3", "#9dad90");
       }
       function applyDesign(key) {
         activeDesign = key;
@@ -1160,6 +1190,12 @@
         f.dots.value = d[3];
         f.corners.value = d[4];
         f.gradient.value = d[5];
+        if (d[16]) {
+          f.dark.value = d[16];
+          f.accent.value = d[17];
+          f.bg.value = d[18];
+          f.card.value = d[19];
+        }
         renderDesign(key);
       }
       function update() {
