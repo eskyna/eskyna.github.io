@@ -295,6 +295,26 @@
         box-shadow:
           inset 0 0 0 1px rgba(37, 31, 29, 0.08),
           0 18px 44px rgba(37, 31, 29, 0.08);
+        position: relative;
+        overflow: hidden;
+      }
+      .qr-box:before {
+        content: "";
+        position: absolute;
+        inset: 14%;
+        opacity: 0.16;
+        filter: blur(7px);
+        background:
+          radial-gradient(circle at 50% 18%, var(--qink) 0 18%, transparent 20%),
+          radial-gradient(circle at 77% 45%, var(--qink) 0 18%, transparent 20%),
+          radial-gradient(circle at 50% 72%, var(--qink) 0 18%, transparent 20%),
+          radial-gradient(circle at 23% 45%, var(--qink) 0 18%, transparent 20%);
+        transform: rotate(-12deg);
+        mix-blend-mode: multiply;
+      }
+      #qr {
+        position: relative;
+        z-index: 1;
       }
       #qr canvas,
       #qr svg {
@@ -629,7 +649,6 @@
             <article class="qr-card frame-soft" id="qrCard">
               <img class="sig" src="https://eskyna.com/images/sign.png" alt="ESKYNA" />
               <div class="qr-box"><div id="qr"></div></div>
-              <h3 class="caption" id="captionPreview">Finde deinen Signature Style</h3>
             </article>
           </div>
         </aside>
@@ -644,10 +663,6 @@
               <p class="hint">
                 Du kannst auch Text, eine Telefonnummer oder eine E-Mail-Adresse einfügen.
               </p>
-            </div>
-            <div class="field">
-              <label for="caption">Text unter dem QR-Code</label
-              ><input id="caption" value="Finde deinen Signature Style" />
             </div>
             <fieldset class="field" style="border: 0; padding: 0; margin: 0">
               <div class="label"><span>2</span> Look</div>
@@ -804,7 +819,6 @@
         logo = "";
       const f = {
         data: $("#qrData"),
-        caption: $("#caption"),
         file: $("#file"),
         dark: $("#dark"),
         accent: $("#accent"),
@@ -918,18 +932,18 @@
         ],
       };
       const names = {
-        nude: "Nude",
-        ink: "Ink",
-        rose: "Rose",
-        sage: "Sage",
-        ivory: "Ivory",
+        nude: "Naturbeige",
+        ink: "Tiefschwarz",
+        rose: "Altrosa",
+        sage: "Salbeigrün",
+        ivory: "Elfenbein",
         champagne: "Champagner",
         espresso: "Espresso",
         plum: "Pflaume",
-        ocean: "Ocean",
-        olive: "Olive",
+        ocean: "Meeresblau",
+        olive: "Olivgrün",
         terracotta: "Terrakotta",
-        midnight: "Midnight",
+        midnight: "Mitternacht",
       };
       $("#presets").innerHTML = Object.entries(presets)
         .map(
@@ -1016,7 +1030,6 @@
         sizeV.textContent = f.size.value;
         marginV.textContent = f.margin.value;
         logoSizeV.textContent = Math.round(f.logoSize.value * 100) + "%";
-        captionPreview.textContent = f.caption.value || "Finde deinen Signature Style";
         qrCard.style.setProperty("--qbg", f.card.value);
         qrCard.style.setProperty("--qink", textColor(f.card.value));
         qrCard.className = "qr-card frame-" + f.frame.value;
@@ -1131,6 +1144,33 @@
           c.fillText("ESKYNA", x, y + 12);
         }
       }
+      function clover(c, x, y, s, col, a = 0.13) {
+        c.save();
+        c.translate(x, y);
+        c.rotate(-0.18);
+        c.globalAlpha = a;
+        c.fillStyle = col;
+        c.shadowColor = col;
+        c.shadowBlur = s * 0.08;
+        [
+          [-0.18, -0.18, 0.23, 0.28, -0.75],
+          [0.18, -0.18, 0.23, 0.28, 0.75],
+          [0.2, 0.2, 0.23, 0.28, -0.7],
+          [-0.2, 0.2, 0.23, 0.28, 0.7],
+        ].forEach((p) => {
+          c.beginPath();
+          c.ellipse(p[0] * s, p[1] * s, p[2] * s, p[3] * s, p[4], 0, Math.PI * 2);
+          c.fill();
+        });
+        c.lineWidth = s * 0.055;
+        c.lineCap = "round";
+        c.strokeStyle = col;
+        c.beginPath();
+        c.moveTo(0, s * 0.15);
+        c.quadraticCurveTo(s * 0.18, s * 0.45, s * 0.08, s * 0.66);
+        c.stroke();
+        c.restore();
+      }
       downloadCard.onclick = async () => {
         try {
           let S = 1600,
@@ -1170,25 +1210,10 @@
           ctx.fillStyle = rgba("#ffffff", 0.42);
           round(ctx, hx, hy, hs, hs, 92);
           ctx.fill();
+          clover(ctx, S / 2, hy + hs / 2, Q * 0.72, tc, 0.11);
           ctx.strokeStyle = rgba(tc, 0.1);
           ctx.stroke();
           ctx.drawImage(qi, hx + 55, hy + 55, Q, Q);
-          ctx.fillStyle = tc;
-          ctx.font = "500 70px Georgia";
-          ctx.textAlign = "center";
-          let words = (f.caption.value || "Finde deinen Signature Style").split(" "),
-            line = "",
-            y = 1328;
-          for (const w of words) {
-            let t = line ? line + " " + w : w;
-            if (ctx.measureText(t).width < 1160) line = t;
-            else {
-              ctx.fillText(line, S / 2, y);
-              line = w;
-              y += 78;
-            }
-          }
-          if (line) ctx.fillText(line, S / 2, y);
           let a = document.createElement("a");
           a.download = fileName() + "-karte.png";
           a.href = c.toDataURL("image/png");
