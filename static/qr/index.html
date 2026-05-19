@@ -277,6 +277,27 @@
         border-radius: 0;
         border: 1px solid rgba(35, 31, 32, 0.22);
       }
+      .frame-eskyna {
+        border-radius: 0;
+        border: 0;
+        background: #fff;
+        box-shadow: 0 26px 70px rgba(47, 32, 21, 0.12);
+      }
+      .frame-eskyna:before {
+        display: none;
+      }
+      .frame-eskyna:after {
+        display: none;
+      }
+      .frame-eskyna .qr-box {
+        background: #fff;
+        box-shadow: none;
+        padding: 0;
+      }
+      .frame-eskyna .qr-box:before,
+      .frame-eskyna .qr-box:after {
+        display: none;
+      }
       .frame-silk {
         border-radius: 46px;
         border: 1px solid rgba(255, 255, 255, 0.58);
@@ -760,7 +781,8 @@
               <div class="eyebrow">QR-Code gestalten</div>
               <h1>Wähle den Stil deines Auftritts.</h1>
               <p class="hint">
-                Sechs starke Designrichtungen für QR-Codes, die bewusst gestaltet wirken.
+                Mit ESKYNA Original und sechs starken Designrichtungen für bewusst gestaltete
+                QR-Codes.
               </p>
             </div>
             <div class="field">
@@ -913,8 +935,8 @@
               <h1>Ein QR-Code als Designobjekt.</h1>
             </div>
             <p>
-              Seide, Leinen, Baumwolle, Gold, Wein oder Farbpass: Jeder Stil verändert Form, Farbe,
-              Textur und Tiefenwirkung.
+              ESKYNA Original, Seide, Leinen, Baumwolle, Gold, Wein oder Farbpass: Jeder Stil
+              verändert Form, Farbe, Textur und Tiefenwirkung.
             </p>
           </div>
           <div class="head">
@@ -969,6 +991,29 @@
         logo = "",
         activeDesign = "silk";
       const designs = {
+        eskyna: [
+          "ESKYNA Original",
+          "wie dein Beispiel: Punkte, Logo-Mitte, klarer Weißraum",
+          "frame-eskyna",
+          "dots",
+          "extra-rounded",
+          "none",
+          0.035,
+          0.02,
+          0.98,
+          "160px",
+          "-70px",
+          "18px",
+          "4px",
+          "-8deg",
+          ".03",
+          ".04",
+          "#4b2e23",
+          "#4b2e23",
+          "#ffffff",
+          "#ffffff",
+          "eskyna",
+        ],
         silk: [
           "Seide",
           "sichtbarer Seidenstoff mit weichem Glanz",
@@ -1187,14 +1232,22 @@
             };
       }
       function options(size = f.size.value) {
+        let design = designs[activeDesign],
+          centerImage =
+            logo ||
+            (design && design[20] === "eskyna" ? "https://eskyna.com/images/sign.png" : undefined);
         return {
           width: Number(size),
           height: Number(size),
           type: "canvas",
           data: f.data.value.trim() || "https://eskyna.com",
-          image: logo || undefined,
+          image: centerImage,
           margin: Number(f.margin.value),
-          qrOptions: { typeNumber: 0, mode: "Byte", errorCorrectionLevel: f.ec.value },
+          qrOptions: {
+            typeNumber: 0,
+            mode: "Byte",
+            errorCorrectionLevel: design && design[20] === "eskyna" ? "H" : f.ec.value,
+          },
           dotsOptions: { type: f.dots.value, color: f.dark.value, gradient: gradient() },
           cornersSquareOptions: { type: f.corners.value, color: f.dark.value },
           cornersDotOptions: {
@@ -1204,9 +1257,9 @@
           backgroundOptions: { color: f.transparent.checked ? "transparent" : f.bg.value },
           imageOptions: {
             crossOrigin: "anonymous",
-            margin: 8,
-            imageSize: Number(f.logoSize.value),
-            hideBackgroundDots: f.hideDots.checked,
+            margin: design && design[20] === "eskyna" ? 14 : 8,
+            imageSize: design && design[20] === "eskyna" ? 0.25 : Number(f.logoSize.value),
+            hideBackgroundDots: true,
           },
         };
       }
@@ -1238,6 +1291,10 @@
           f.accent.value = d[17];
           f.bg.value = d[18];
           f.card.value = d[19];
+        }
+        if (d[20] === "eskyna") {
+          f.margin.value = 4;
+          f.ec.value = "H";
         }
         renderDesign(key);
       }
