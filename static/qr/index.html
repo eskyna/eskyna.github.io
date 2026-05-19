@@ -11,15 +11,14 @@
     <script src="https://cdn.jsdelivr.net/npm/qr-code-styling@1.9.2/lib/qr-code-styling.min.js"></script>
     <style>
       :root {
-        --ink: #221d1a;
-        --muted: #73675d;
-        --line: rgba(34, 29, 26, 0.13);
-        --paper: rgba(255, 253, 249, 0.8);
+        --ink: #231f20;
+        --muted: #756b62;
+        --line: rgba(35, 31, 32, 0.13);
+        --paper: rgba(255, 253, 249, 0.82);
         --cream: #fff8ef;
-        --sand: #f0e3d4;
+        --sand: #f1e5d7;
         --accent: #b99a7f;
-        --shadow: 0 24px 70px rgba(55, 38, 25, 0.13);
-        --r: 28px;
+        --shadow: 0 24px 70px rgba(57, 39, 25, 0.14);
       }
       * {
         box-sizing: border-box;
@@ -38,19 +37,19 @@
           "Segoe UI",
           sans-serif;
         background:
-          radial-gradient(circle at 9% 0, rgba(201, 164, 93, 0.22), transparent 26rem),
-          radial-gradient(circle at 90% 6%, rgba(184, 126, 112, 0.14), transparent 24rem),
-          linear-gradient(135deg, #fffaf4, #f4e8d9 52%, #fff9f1);
+          radial-gradient(circle at 9% 0, rgba(201, 164, 93, 0.24), transparent 25rem),
+          radial-gradient(circle at 92% 7%, rgba(200, 143, 134, 0.16), transparent 24rem),
+          linear-gradient(135deg, #fffaf4, #f4e7d8 52%, #fff9f1);
       }
       body:before {
         content: "";
         position: fixed;
         inset: 0;
         pointer-events: none;
-        opacity: 0.28;
+        opacity: 0.3;
         background-image:
-          linear-gradient(rgba(34, 29, 26, 0.04) 1px, transparent 1px),
-          linear-gradient(90deg, rgba(34, 29, 26, 0.035) 1px, transparent 1px);
+          linear-gradient(rgba(35, 31, 32, 0.04) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(35, 31, 32, 0.035) 1px, transparent 1px);
         background-size: 58px 58px;
         mask-image: linear-gradient(#000, transparent 90%);
       }
@@ -63,10 +62,10 @@
       .app {
         position: relative;
         z-index: 1;
-        min-height: 100%;
-        width: min(1480px, calc(100% - 28px));
+        width: min(1500px, calc(100% - 28px));
+        height: 100%;
         margin: auto;
-        padding: 18px 0;
+        padding: 16px 0;
       }
       .top {
         height: 62px;
@@ -81,7 +80,7 @@
         gap: 14px;
       }
       .brand img {
-        width: 145px;
+        width: 148px;
         max-width: 44vw;
         filter: drop-shadow(0 12px 22px rgba(57, 39, 25, 0.08));
       }
@@ -97,27 +96,27 @@
         padding: 10px 14px;
         border: 1px solid var(--line);
         border-radius: 999px;
-        background: rgba(255, 253, 249, 0.7);
+        background: rgba(255, 253, 249, 0.72);
         color: var(--muted);
         font-size: 0.88rem;
       }
       .studio {
-        height: calc(100vh - 98px);
-        min-height: 620px;
+        height: calc(100% - 72px);
+        min-height: 650px;
         display: grid;
-        grid-template-columns: minmax(340px, 440px) 1fr;
+        grid-template-columns: minmax(360px, 455px) 1fr;
         gap: 18px;
       }
       .panel,
       .preview {
         border: 1px solid var(--line);
-        border-radius: var(--r);
+        border-radius: 28px;
         background: var(--paper);
         box-shadow: var(--shadow);
-        backdrop-filter: blur(20px);
+        backdrop-filter: blur(22px);
       }
       .panel {
-        padding: 18px;
+        padding: 17px;
         overflow: auto;
       }
       .preview {
@@ -128,22 +127,22 @@
         overflow: hidden;
       }
       .preview:before {
-        content: "E S K Y N A";
+        content: "ESKYNA";
         position: absolute;
-        right: -48px;
-        top: 36px;
-        color: rgba(34, 29, 26, 0.045);
+        right: -22px;
+        top: 20px;
+        color: rgba(35, 31, 32, 0.045);
         font:
-          700 clamp(4rem, 9vw, 9rem) Georgia,
+          700 clamp(4rem, 10vw, 9rem) Georgia,
           serif;
-        letter-spacing: 0.16em;
+        letter-spacing: 0.18em;
         writing-mode: vertical-rl;
         pointer-events: none;
       }
       h1 {
         margin: 0;
         font:
-          500 clamp(2.1rem, 4vw, 4.6rem)/0.94 Georgia,
+          500 clamp(2rem, 4vw, 4.5rem)/0.94 Georgia,
           serif;
         letter-spacing: -0.055em;
       }
@@ -166,12 +165,12 @@
         align-items: center;
         justify-content: space-between;
         gap: 16px;
-        margin-bottom: 14px;
+        margin-bottom: 12px;
       }
       .status {
         border: 1px solid var(--line);
         border-radius: 999px;
-        background: rgba(255, 255, 255, 0.58);
+        background: rgba(255, 255, 255, 0.6);
         color: var(--muted);
         padding: 8px 12px;
         font-size: 0.84rem;
@@ -193,69 +192,109 @@
         display: grid;
         place-items: center;
         min-height: 0;
-        border: 1px solid rgba(34, 29, 26, 0.08);
+        border: 1px solid rgba(35, 31, 32, 0.08);
         border-radius: 34px;
         background:
           radial-gradient(circle at 25% 16%, rgba(201, 164, 93, 0.18), transparent 20rem),
-          radial-gradient(circle at 80% 72%, rgba(184, 126, 112, 0.12), transparent 20rem),
-          rgba(255, 255, 255, 0.34);
+          radial-gradient(circle at 80% 72%, rgba(200, 143, 134, 0.12), transparent 20rem),
+          rgba(255, 255, 255, 0.36);
         padding: 18px;
       }
       .qr-card {
         position: relative;
         display: grid;
         place-items: center;
-        width: min(78vh, 560px, 100%);
+        width: min(78vh, 580px, 100%);
         aspect-ratio: 1;
-        padding: clamp(24px, 4vw, 48px);
+        padding: clamp(26px, 4vw, 54px);
         overflow: hidden;
-        color: var(--qink, #221d1a);
+        color: var(--qink, #231f20);
         background: var(--qbg, #f6ecdf);
         box-shadow: 0 30px 82px rgba(47, 32, 21, 0.16);
         transition: 0.2s;
       }
+      .qr-card:before,
+      .qr-card:after {
+        content: "";
+        position: absolute;
+        pointer-events: none;
+      }
+      .qr-card:before {
+        inset: 24px;
+        border: 1px solid rgba(35, 31, 32, var(--inner, 0.08));
+        border-radius: inherit;
+      }
+      .qr-card:after {
+        right: var(--markRight, -120px);
+        bottom: var(--markBottom, 18px);
+        width: var(--markSize, 290px);
+        height: var(--markSize, 290px);
+        opacity: var(--markOpacity, 0.08);
+        background:
+          radial-gradient(circle at 50% 18%, var(--qink) 0 17%, transparent 19%),
+          radial-gradient(circle at 78% 45%, var(--qink) 0 17%, transparent 19%),
+          radial-gradient(circle at 50% 72%, var(--qink) 0 17%, transparent 19%),
+          radial-gradient(circle at 22% 45%, var(--qink) 0 17%, transparent 19%);
+        filter: blur(var(--markBlur, 10px));
+        transform: rotate(var(--markRot, -12deg));
+      }
       .frame-soft {
         border-radius: 42px;
-        border: 1px solid rgba(34, 29, 26, 0.12);
+        border: 1px solid rgba(35, 31, 32, 0.12);
+      }
+      .frame-seal {
+        border-radius: 44% 56% 50% 50%;
+        border: 1px solid rgba(35, 31, 32, 0.12);
+        box-shadow:
+          inset 0 0 0 18px rgba(255, 255, 255, 0.18),
+          0 30px 82px rgba(47, 32, 21, 0.16);
+      }
+      .frame-gold {
+        border-radius: 34px;
+        border: 1px solid rgba(201, 164, 93, 0.55);
+        box-shadow:
+          inset 0 0 0 2px rgba(201, 164, 93, 0.25),
+          inset 0 0 0 18px rgba(255, 255, 255, 0.22),
+          0 30px 82px rgba(47, 32, 21, 0.16);
       }
       .frame-editorial {
-        border: 18px solid rgba(255, 255, 255, 0.55);
-        outline: 1px solid rgba(34, 29, 26, 0.16);
+        border: 18px solid rgba(255, 255, 255, 0.56);
+        outline: 1px solid rgba(35, 31, 32, 0.16);
         border-radius: 12px;
+      }
+      .frame-editorial:before {
+        inset: 0 auto 0 0;
+        width: 20px;
+        border: 0;
+        background: linear-gradient(var(--qink), var(--qink));
+        opacity: 0.12;
       }
       .frame-aura {
         border-radius: 46% 54% 48% 52%;
-        border: 1px solid rgba(34, 29, 26, 0.1);
+        border: 1px solid rgba(35, 31, 32, 0.1);
       }
       .frame-minimal {
         border-radius: 0;
-        border: 1px solid rgba(34, 29, 26, 0.22);
-      }
-      .frame-luxury {
-        border-radius: 34px;
-        border: 1px solid rgba(34, 29, 26, 0.12);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.22),
-          0 30px 82px rgba(47, 32, 21, 0.16);
+        border: 1px solid rgba(35, 31, 32, 0.22);
       }
       .qr-box {
         position: relative;
         display: grid;
         place-items: center;
-        padding: clamp(16px, 4vw, 32px);
+        padding: clamp(16px, 4vw, 34px);
         border-radius: 30px;
-        background: rgba(255, 255, 255, 0.46);
+        background: rgba(255, 255, 255, var(--box, 0.48));
         box-shadow:
-          inset 0 0 0 1px rgba(34, 29, 26, 0.08),
-          0 18px 42px rgba(34, 29, 26, 0.08);
+          inset 0 0 0 1px rgba(35, 31, 32, 0.08),
+          0 18px 42px rgba(35, 31, 32, 0.08);
         overflow: hidden;
       }
       .qr-box:before {
         content: "";
         position: absolute;
-        inset: 15%;
+        inset: 14%;
         opacity: var(--clover, 0.14);
-        filter: blur(7px);
+        filter: blur(var(--cloverBlur, 7px));
         background:
           radial-gradient(circle at 50% 18%, var(--qink) 0 18%, transparent 20%),
           radial-gradient(circle at 77% 45%, var(--qink) 0 18%, transparent 20%),
@@ -263,6 +302,14 @@
           radial-gradient(circle at 23% 45%, var(--qink) 0 18%, transparent 20%);
         transform: rotate(-12deg);
         mix-blend-mode: multiply;
+      }
+      .qr-box:after {
+        content: "";
+        position: absolute;
+        inset: 8px;
+        border: 1px solid rgba(35, 31, 32, var(--boxLine, 0.06));
+        border-radius: 24px;
+        pointer-events: none;
       }
       #qr {
         position: relative;
@@ -290,7 +337,6 @@
         display: flex;
         align-items: center;
         gap: 8px;
-        margin-top: 2px;
         color: #4e433c;
         font-weight: 850;
       }
@@ -315,16 +361,16 @@
       input,
       select {
         width: 100%;
-        min-height: 44px;
+        min-height: 43px;
         padding: 0 12px;
-        border: 1px solid rgba(34, 29, 26, 0.14);
+        border: 1px solid rgba(35, 31, 32, 0.14);
         border-radius: 14px;
         background: rgba(255, 255, 255, 0.78);
         color: var(--ink);
         outline: 0;
       }
       textarea {
-        min-height: 82px;
+        min-height: 76px;
         padding: 12px;
         resize: vertical;
         line-height: 1.4;
@@ -355,41 +401,57 @@
         gap: 8px;
       }
       .designs {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
       }
       .presets {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
       }
       .chip,
       .preset {
-        min-height: 48px;
-        border: 1px solid rgba(34, 29, 26, 0.13);
+        border: 1px solid rgba(35, 31, 32, 0.13);
         border-radius: 16px;
         background: rgba(255, 255, 255, 0.58);
         cursor: pointer;
-        font-weight: 800;
         color: #4e433c;
+      }
+      .chip {
+        min-height: 58px;
+        padding: 8px 10px;
+        text-align: left;
+      }
+      .chip strong {
+        display: block;
+        font-size: 0.86rem;
+      }
+      .chip span {
+        display: block;
+        margin-top: 2px;
+        color: var(--muted);
+        font-size: 0.72rem;
+        line-height: 1.2;
       }
       .chip.active,
       .preset.active {
         outline: 3px solid rgba(185, 154, 127, 0.34);
-        border-color: rgba(34, 29, 26, 0.32);
+        border-color: rgba(35, 31, 32, 0.32);
       }
       .preset {
         position: relative;
+        min-height: 50px;
         overflow: hidden;
         background: var(--sw);
       }
       .preset:after {
         content: attr(aria-label);
         position: absolute;
-        left: 6px;
-        right: 6px;
-        bottom: 6px;
-        padding: 4px 5px;
+        left: 5px;
+        right: 5px;
+        bottom: 5px;
+        padding: 4px;
         border-radius: 999px;
-        background: rgba(255, 253, 249, 0.74);
-        font-size: 0.62rem;
+        background: rgba(255, 253, 249, 0.76);
+        font-size: 0.58rem;
+        font-weight: 850;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -401,7 +463,7 @@
         gap: 9px;
       }
       .switch {
-        min-height: 36px;
+        min-height: 34px;
         color: var(--muted);
         font-size: 0.88rem;
       }
@@ -431,9 +493,9 @@
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        min-height: 44px;
+        min-height: 43px;
         padding: 0 14px;
-        border: 1px solid rgba(34, 29, 26, 0.15);
+        border: 1px solid rgba(35, 31, 32, 0.15);
         border-radius: 999px;
         background: rgba(255, 255, 255, 0.66);
         color: var(--ink);
@@ -447,7 +509,7 @@
       button:hover,
       .file:hover {
         transform: translateY(-1px);
-        box-shadow: 0 12px 25px rgba(34, 29, 26, 0.11);
+        box-shadow: 0 12px 25px rgba(35, 31, 32, 0.11);
         background: rgba(255, 255, 255, 0.9);
       }
       .primary {
@@ -458,7 +520,7 @@
         color: var(--muted);
       }
       details {
-        border: 1px solid rgba(34, 29, 26, 0.1);
+        border: 1px solid rgba(35, 31, 32, 0.1);
         border-radius: 18px;
         background: rgba(255, 255, 255, 0.38);
         overflow: hidden;
@@ -482,7 +544,7 @@
         transform: translate(-50%, 18px);
         padding: 11px 15px;
         border-radius: 999px;
-        background: rgba(34, 29, 26, 0.92);
+        background: rgba(35, 31, 32, 0.92);
         color: #fffaf4;
         box-shadow: 0 18px 40px rgba(0, 0, 0, 0.24);
         font-size: 0.9rem;
@@ -506,9 +568,12 @@
       .error.show {
         display: block;
       }
-      @media (max-width: 980px) {
+      @media (max-width: 1050px) {
         html,
         body {
+          height: auto;
+        }
+        .app {
           height: auto;
         }
         .studio {
@@ -516,7 +581,7 @@
           grid-template-columns: 1fr;
         }
         .preview {
-          min-height: 620px;
+          min-height: 650px;
         }
         .panel {
           order: 2;
@@ -525,14 +590,13 @@
           align-items: flex-start;
           flex-direction: column;
         }
-        .designs,
         .presets {
-          grid-template-columns: repeat(2, 1fr);
+          grid-template-columns: repeat(3, 1fr);
         }
       }
       @media (max-width: 620px) {
         .app {
-          width: min(100% - 20px, 1480px);
+          width: min(100% - 20px, 1500px);
           padding-top: 12px;
         }
         .top {
@@ -543,7 +607,8 @@
         .trust {
           border-radius: 18px;
         }
-        .two {
+        .two,
+        .designs {
           grid-template-columns: 1fr;
         }
         .preview {
@@ -552,6 +617,9 @@
         .qr-card {
           width: 100%;
           padding: 20px;
+        }
+        .presets {
+          grid-template-columns: repeat(2, 1fr);
         }
         h1 {
           font-size: clamp(2.8rem, 15vw, 4rem);
@@ -572,10 +640,8 @@
           <div class="grid">
             <div>
               <div class="eyebrow">QR-Code gestalten</div>
-              <h1>Schön. Klar. Scanbar.</h1>
-              <p class="hint">
-                Für Flyer, Gutscheine, Visitenkarten, Social Media und Events im ESKYNA Look.
-              </p>
+              <h1>Schön. Klar. Besonders.</h1>
+              <p class="hint">Eine kompakte Studio-Ansicht für QR-Codes mit ESKYNA-Charakter.</p>
             </div>
             <div class="field">
               <div class="label"><span>1</span> Inhalt</div>
@@ -583,8 +649,8 @@
               ><textarea id="qrData">https://eskyna.com</textarea>
             </div>
             <fieldset class="field" style="border: 0; padding: 0; margin: 0">
-              <div class="label"><span>2</span> Designoption</div>
-              <legend>Stil auswählen</legend>
+              <div class="label"><span>2</span> Design</div>
+              <legend>ESKYNA-Stil wählen</legend>
               <div class="designs" id="designs"></div>
             </fieldset>
             <fieldset class="field" style="border: 0; padding: 0; margin: 0">
@@ -593,7 +659,7 @@
             </fieldset>
             <div class="field two">
               <div class="field">
-                <label>Hauptfarbe</label><input id="dark" type="color" value="#221d1a" />
+                <label>Hauptfarbe</label><input id="dark" type="color" value="#231f20" />
               </div>
               <div class="field">
                 <label>Akzentfarbe</label><input id="accent" type="color" value="#b99a7f" />
@@ -724,9 +790,12 @@
           <div class="intro">
             <div>
               <div class="eyebrow">Vorschau</div>
-              <h1>Ihr QR-Code im Stil-System.</h1>
+              <h1>Ein QR-Code mit Stil-System.</h1>
             </div>
-            <p>Inspiriert von ESKYNA: klar, ruhig, bewusst und alltagstauglich.</p>
+            <p>
+              Ruhige Farbwelten, feine Rahmen und ein dezenter Kleeblatt-Schatten machen den Code
+              besonders, ohne die Scanbarkeit zu stören.
+            </p>
           </div>
           <div class="head">
             <span></span>
@@ -734,7 +803,7 @@
           </div>
           <div class="stage">
             <article class="qr-card frame-soft" id="qrCard">
-              <div class="qr-box"><div id="qr"></div></div>
+              <div class="qr-box" id="qrBox"><div id="qr"></div></div>
             </article>
           </div>
         </section>
@@ -742,66 +811,146 @@
     </main>
     <div class="toast" id="toast"></div>
     <script>
-      const $ = (s) => document.querySelector(s);
+      const dom = {
+        qr: document.getElementById("qr"),
+        qrCard: document.getElementById("qrCard"),
+        designs: document.getElementById("designs"),
+        presets: document.getElementById("presets"),
+        status: document.getElementById("status"),
+        toast: document.getElementById("toast"),
+        error: document.getElementById("error"),
+        sizeV: document.getElementById("sizeV"),
+        marginV: document.getElementById("marginV"),
+        logoSizeV: document.getElementById("logoSizeV"),
+        downloadQr: document.getElementById("downloadQr"),
+        downloadCard: document.getElementById("downloadCard"),
+        removeLogo: document.getElementById("removeLogo"),
+      };
+      const f = {
+        data: document.getElementById("qrData"),
+        file: document.getElementById("file"),
+        dark: document.getElementById("dark"),
+        accent: document.getElementById("accent"),
+        bg: document.getElementById("bg"),
+        card: document.getElementById("cardBg"),
+        transparent: document.getElementById("transparent"),
+        dots: document.getElementById("dots"),
+        corners: document.getElementById("corners"),
+        gradient: document.getElementById("gradient"),
+        ec: document.getElementById("ec"),
+        size: document.getElementById("size"),
+        margin: document.getElementById("margin"),
+        logoSize: document.getElementById("logoSize"),
+        hideDots: document.getElementById("hideDots"),
+        type: document.getElementById("type"),
+        logo: document.getElementById("logo"),
+      };
       let qr,
         logo = "",
-        activeDesign = "signature";
-      const f = {
-        data: $("#qrData"),
-        file: $("#file"),
-        dark: $("#dark"),
-        accent: $("#accent"),
-        bg: $("#bg"),
-        card: $("#cardBg"),
-        transparent: $("#transparent"),
-        dots: $("#dots"),
-        corners: $("#corners"),
-        gradient: $("#gradient"),
-        ec: $("#ec"),
-        size: $("#size"),
-        margin: $("#margin"),
-        logoSize: $("#logoSize"),
-        hideDots: $("#hideDots"),
-        type: $("#type"),
-      };
+        activeDesign = "atelier";
       const designs = {
-        signature: ["Signature", "frame-soft", "rounded", "extra-rounded", "linear", 0.14],
-        minimal: ["Minimal", "frame-minimal", "square", "square", "none", 0.06],
-        boutique: ["Boutique", "frame-luxury", "extra-rounded", "extra-rounded", "linear", 0.12],
-        editorial: ["Editorial", "frame-editorial", "classy-rounded", "square", "linear", 0.08],
-        aura: ["Aura", "frame-aura", "dots", "dot", "radial", 0.16],
-        soft: ["Soft Glow", "frame-soft", "classy-rounded", "extra-rounded", "radial", 0.18],
+        atelier: [
+          "Atelier-Siegel",
+          "feiner ovaler Boutique-Look",
+          "frame-seal",
+          "classy-rounded",
+          "extra-rounded",
+          "linear",
+          0.13,
+          0.1,
+          0.48,
+        ],
+        clover: [
+          "Kleeblatt-Schatten",
+          "weicher Glücks-Schatten im Code",
+          "frame-soft",
+          "rounded",
+          "extra-rounded",
+          "radial",
+          0.22,
+          0.18,
+          0.5,
+        ],
+        gold: [
+          "Goldener Rahmen",
+          "edler Kartenrahmen mit Tiefe",
+          "frame-gold",
+          "extra-rounded",
+          "extra-rounded",
+          "linear",
+          0.12,
+          0.11,
+          0.45,
+        ],
+        editorial: [
+          "Editorial-Kante",
+          "modisch, grafisch, plakativ",
+          "frame-editorial",
+          "classy-rounded",
+          "square",
+          "linear",
+          0.08,
+          0.08,
+          0.42,
+        ],
+        aura: [
+          "Soft Aura",
+          "organisch und weich",
+          "frame-aura",
+          "dots",
+          "dot",
+          "radial",
+          0.18,
+          0.12,
+          0.5,
+        ],
+        pure: [
+          "Pure Print",
+          "minimal und sehr klar",
+          "frame-minimal",
+          "square",
+          "square",
+          "none",
+          0.04,
+          0.06,
+          0.36,
+        ],
       };
       const presets = {
-        natur: ["Naturbeige", "#221d1a", "#b99a7f", "#fffaf4", "#f6ecdf"],
+        natur: ["Naturbeige", "#231f20", "#b99a7f", "#fffaf4", "#f6ecdf"],
         schwarz: ["Tiefschwarz", "#181515", "#c9a45d", "#ede2d5", "#241f1d"],
         rose: ["Altrosa", "#4a302d", "#c88f86", "#fff5f1", "#f4ded8"],
         salbei: ["Salbeigrün", "#273025", "#9dad90", "#f7f1e8", "#e9eadf"],
         elfenbein: ["Elfenbein", "#2a2724", "#d8c7b4", "#ffffff", "#ffffff"],
         champagner: ["Champagner", "#3a2b23", "#d9b76f", "#fff7e8", "#f4e7cf"],
+        espresso: ["Espresso", "#241814", "#8d5e45", "#efe0d1", "#dbc3ae"],
         pflaume: ["Pflaume", "#321c2b", "#b87894", "#fbedf4", "#ead6df"],
         meer: ["Meeresblau", "#18323b", "#75aeb4", "#eef8f7", "#dceff0"],
         olive: ["Olivgrün", "#2e3322", "#b3a15d", "#f5f0df", "#e6dfc6"],
+        terracotta: ["Terrakotta", "#4b251f", "#c56d4f", "#fff0e7", "#f1d0c0"],
+        mitternacht: ["Mitternacht", "#111827", "#9ca3ff", "#eef2ff", "#1f2937"],
       };
-      designsEl.innerHTML = Object.entries(designs)
+      dom.designs.innerHTML = Object.entries(designs)
         .map(
-          ([k, d], i) =>
+          ([key, d], index) =>
             '<button type="button" class="chip ' +
-            (i ? "" : "active") +
+            (index ? "" : "active") +
             '" data-design="' +
-            k +
-            '">' +
+            key +
+            '"><strong>' +
             d[0] +
-            "</button>"
+            "</strong><span>" +
+            d[1] +
+            "</span></button>"
         )
         .join("");
-      presetsEl.innerHTML = Object.entries(presets)
+      dom.presets.innerHTML = Object.entries(presets)
         .map(
-          ([k, p], i) =>
+          ([key, p], index) =>
             '<button type="button" class="preset ' +
-            (i ? "" : "active") +
+            (index ? "" : "active") +
             '" data-preset="' +
-            k +
+            key +
             '" aria-label="' +
             p[0] +
             '" style="--sw:linear-gradient(135deg,' +
@@ -813,31 +962,34 @@
             ' 70%)"></button>'
         )
         .join("");
-      const msg = (t) => {
-          toast.textContent = t;
-          toast.classList.add("show");
-          clearTimeout(msg.t);
-          msg.t = setTimeout(() => toast.classList.remove("show"), 2200);
-        },
-        err = (t) => {
-          error.textContent = t;
-          error.classList.toggle("show", !!t);
-        };
-      const textColor = (h) => {
-        let n = parseInt(h.slice(1), 16),
+      function message(text) {
+        dom.toast.textContent = text;
+        dom.toast.classList.add("show");
+        clearTimeout(message.timer);
+        message.timer = setTimeout(() => dom.toast.classList.remove("show"), 2200);
+      }
+      function showError(text) {
+        dom.error.textContent = text;
+        dom.error.classList.toggle("show", Boolean(text));
+      }
+      function readable(hex) {
+        let n = parseInt(hex.slice(1), 16),
           r = n >> 16,
           g = (n >> 8) & 255,
           b = n & 255;
-        return (r * 0.2126 + g * 0.7152 + b * 0.0722) / 255 > 0.55 ? "#221d1a" : "#fffaf4";
-      };
-      const fileName = () => {
-        let s = (f.file.value || "eskyna-qr-code").toLowerCase().trim(),
-          o = "";
-        for (const c of s) o += "abcdefghijklmnopqrstuvwxyz0123456789-_".includes(c) ? c : "-";
-        return o.replaceAll("--", "-").replaceAll("--", "-") || "eskyna-qr-code";
-      };
-      const grad = () =>
-        f.gradient.value === "none"
+        return (r * 0.2126 + g * 0.7152 + b * 0.0722) / 255 > 0.55 ? "#231f20" : "#fffaf4";
+      }
+      function cleanName() {
+        let source = (f.file.value || "eskyna-qr-code").toLowerCase().trim(),
+          out = "";
+        for (const char of source) {
+          out += "abcdefghijklmnopqrstuvwxyz0123456789-_".includes(char) ? char : "-";
+        }
+        while (out.includes("--")) out = out.replaceAll("--", "-");
+        return out || "eskyna-qr-code";
+      }
+      function gradient() {
+        return f.gradient.value === "none"
           ? undefined
           : {
               type: f.gradient.value,
@@ -847,16 +999,17 @@
                 { offset: 1, color: f.accent.value },
               ],
             };
+      }
       function options(size = f.size.value) {
         return {
-          width: +size,
-          height: +size,
+          width: Number(size),
+          height: Number(size),
           type: "canvas",
           data: f.data.value.trim() || "https://eskyna.com",
           image: logo || undefined,
-          margin: +f.margin.value,
+          margin: Number(f.margin.value),
           qrOptions: { typeNumber: 0, mode: "Byte", errorCorrectionLevel: f.ec.value },
-          dotsOptions: { type: f.dots.value, color: f.dark.value, gradient: grad() },
+          dotsOptions: { type: f.dots.value, color: f.dark.value, gradient: gradient() },
           cornersSquareOptions: { type: f.corners.value, color: f.dark.value },
           cornersDotOptions: {
             type: f.corners.value === "square" ? "square" : "dot",
@@ -866,185 +1019,202 @@
           imageOptions: {
             crossOrigin: "anonymous",
             margin: 8,
-            imageSize: +f.logoSize.value,
+            imageSize: Number(f.logoSize.value),
             hideBackgroundDots: f.hideDots.checked,
           },
         };
       }
-      function applyDesign(k) {
-        activeDesign = k;
-        let d = designs[k];
-        f.dots.value = d[2];
-        f.corners.value = d[3];
-        f.gradient.value = d[4];
-        qrCard.className = "qr-card " + d[1];
-        qrCard.style.setProperty("--clover", d[5]);
+      function applyDesign(key) {
+        activeDesign = key;
+        let d = designs[key];
+        f.dots.value = d[3];
+        f.corners.value = d[4];
+        f.gradient.value = d[5];
+        dom.qrCard.className = "qr-card " + d[2];
+        dom.qrCard.style.setProperty("--clover", d[6]);
+        dom.qrCard.style.setProperty("--markOpacity", d[7]);
+        dom.qrCard.style.setProperty("--box", d[8]);
+        dom.qrCard.style.setProperty("--inner", key === "pure" ? ".03" : ".1");
       }
       function update() {
-        if (!window.QRCodeStyling)
-          return err("Der QR-Code konnte nicht geladen werden. Bitte Seite neu laden.");
-        err("");
-        sizeV.textContent = f.size.value;
-        marginV.textContent = f.margin.value;
-        logoSizeV.textContent = Math.round(f.logoSize.value * 100) + "%";
-        qrCard.style.setProperty("--qbg", f.card.value);
-        qrCard.style.setProperty("--qink", textColor(f.card.value));
+        if (!window.QRCodeStyling) {
+          showError("Der QR-Code konnte nicht geladen werden. Bitte Seite neu laden.");
+          return;
+        }
+        showError("");
+        dom.sizeV.textContent = f.size.value;
+        dom.marginV.textContent = f.margin.value;
+        dom.logoSizeV.textContent = Math.round(Number(f.logoSize.value) * 100) + "%";
+        dom.qrCard.style.setProperty("--qbg", f.card.value);
+        dom.qrCard.style.setProperty("--qink", readable(f.card.value));
         applyDesign(activeDesign);
         if (qr) qr.update(options());
         else {
           qr = new QRCodeStyling(options());
-          qr.append($("#qr"));
+          qr.append(dom.qr);
         }
-        status.textContent = f.data.value.trim() ? "Bereit" : "Bitte Inhalt einfügen";
+        dom.status.textContent = f.data.value.trim() ? "Bereit" : "Bitte Inhalt einfügen";
       }
       let timer;
-      Object.values(f).forEach(
-        (el) =>
-          el &&
-          el.addEventListener("input", () => {
-            clearTimeout(timer);
-            timer = setTimeout(update, 100);
-          })
-      );
-      Object.values(f).forEach((el) => el && el.addEventListener("change", update));
-      designsEl.onclick = (e) => {
-        let b = e.target.closest(".chip");
-        if (!b) return;
-        document.querySelectorAll(".chip").forEach((x) => x.classList.toggle("active", x === b));
-        applyDesign(b.dataset.design);
+      Object.values(f).forEach((el) => {
+        if (!el) return;
+        el.addEventListener("input", () => {
+          clearTimeout(timer);
+          timer = setTimeout(update, 100);
+        });
+        el.addEventListener("change", update);
+      });
+      dom.designs.addEventListener("click", (event) => {
+        let button = event.target.closest(".chip");
+        if (!button) return;
+        dom.designs
+          .querySelectorAll(".chip")
+          .forEach((item) => item.classList.toggle("active", item === button));
+        applyDesign(button.dataset.design);
         update();
-      };
-      presetsEl.onclick = (e) => {
-        let b = e.target.closest(".preset");
-        if (!b) return;
-        let p = presets[b.dataset.preset];
-        [f.dark.value, f.accent.value, f.bg.value, f.card.value] = [p[1], p[2], p[3], p[4]];
-        document.querySelectorAll(".preset").forEach((x) => x.classList.toggle("active", x === b));
+      });
+      dom.presets.addEventListener("click", (event) => {
+        let button = event.target.closest(".preset");
+        if (!button) return;
+        let p = presets[button.dataset.preset];
+        f.dark.value = p[1];
+        f.accent.value = p[2];
+        f.bg.value = p[3];
+        f.card.value = p[4];
+        dom.presets
+          .querySelectorAll(".preset")
+          .forEach((item) => item.classList.toggle("active", item === button));
         update();
-      };
-      downloadQr.onclick = async () => {
+      });
+      dom.downloadQr.addEventListener("click", async () => {
         try {
-          await qr.download({ name: fileName(), extension: f.type.value });
-          msg("QR-Code wurde heruntergeladen.");
-        } catch {
-          err("Der Download hat nicht funktioniert. Bitte erneut versuchen.");
+          if (!qr) update();
+          await qr.download({ name: cleanName(), extension: f.type.value });
+          message("QR-Code wurde heruntergeladen.");
+        } catch (e) {
+          showError("Der Download hat nicht funktioniert. Bitte erneut versuchen.");
         }
-      };
-      logo.onchange = (e) => {
-        let file = e.target.files[0];
+      });
+      f.logo.addEventListener("change", (event) => {
+        let file = event.target.files[0];
         if (!file) return;
-        if (!file.type.startsWith("image/")) return err("Bitte eine Bilddatei auswählen.");
-        let r = new FileReader();
-        r.onload = () => {
-          logo = r.result;
+        if (!file.type.startsWith("image/")) {
+          showError("Bitte eine Bilddatei auswählen.");
+          return;
+        }
+        let reader = new FileReader();
+        reader.onload = () => {
+          logo = reader.result;
           f.ec.value = "H";
           update();
-          msg("Logo wurde hinzugefügt.");
+          message("Logo wurde hinzugefügt.");
         };
-        r.readAsDataURL(file);
-      };
-      removeLogo.onclick = () => {
+        reader.readAsDataURL(file);
+      });
+      dom.removeLogo.addEventListener("click", () => {
         logo = "";
-        $("#logo").value = "";
+        f.logo.value = "";
         update();
-        msg("Logo wurde entfernt.");
-      };
-      const blobImg = (b) =>
-          new Promise((ok, no) => {
-            let u = URL.createObjectURL(b),
-              i = new Image();
-            i.onload = () => {
-              URL.revokeObjectURL(u);
-              ok(i);
-            };
-            i.onerror = no;
-            i.src = u;
-          }),
-        rgba = (h, a) => {
-          let n = parseInt(h.slice(1), 16);
-          return "rgba(" + (n >> 16) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + a + ")";
-        },
-        round = (c, x, y, w, h, r) => {
-          c.beginPath();
-          c.roundRect
-            ? c.roundRect(x, y, w, h, r)
-            : (c.moveTo(x + r, y),
-              c.arcTo(x + w, y, x + w, y + h, r),
-              c.arcTo(x + w, y + h, x, y + h, r),
-              c.arcTo(x, y + h, x, y, r),
-              c.arcTo(x, y, x + w, y, r));
-          c.closePath();
-        };
-      function clover(c, x, y, s, col, a) {
-        c.save();
-        c.translate(x, y);
-        c.rotate(-0.18);
-        c.globalAlpha = a;
-        c.fillStyle = col;
-        c.shadowColor = col;
-        c.shadowBlur = s * 0.08;
+        message("Logo wurde entfernt.");
+      });
+      function rgba(hex, alpha) {
+        let n = parseInt(hex.slice(1), 16);
+        return "rgba(" + (n >> 16) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + alpha + ")";
+      }
+      function rounded(ctx, x, y, w, h, r) {
+        ctx.beginPath();
+        if (ctx.roundRect) ctx.roundRect(x, y, w, h, r);
+        else {
+          ctx.moveTo(x + r, y);
+          ctx.arcTo(x + w, y, x + w, y + h, r);
+          ctx.arcTo(x + w, y + h, x, y + h, r);
+          ctx.arcTo(x, y + h, x, y, r);
+          ctx.arcTo(x, y, x + w, y, r);
+        }
+        ctx.closePath();
+      }
+      function imageFromBlob(blob) {
+        return new Promise((resolve, reject) => {
+          let url = URL.createObjectURL(blob),
+            img = new Image();
+          img.onload = () => {
+            URL.revokeObjectURL(url);
+            resolve(img);
+          };
+          img.onerror = reject;
+          img.src = url;
+        });
+      }
+      function clover(ctx, x, y, size, color, alpha) {
+        ctx.save();
+        ctx.translate(x, y);
+        ctx.rotate(-0.18);
+        ctx.globalAlpha = alpha;
+        ctx.fillStyle = color;
+        ctx.shadowColor = color;
+        ctx.shadowBlur = size * 0.08;
         [
           [-0.18, -0.18, 0.23, 0.28, -0.75],
           [0.18, -0.18, 0.23, 0.28, 0.75],
           [0.2, 0.2, 0.23, 0.28, -0.7],
           [-0.2, 0.2, 0.23, 0.28, 0.7],
         ].forEach((p) => {
-          c.beginPath();
-          c.ellipse(p[0] * s, p[1] * s, p[2] * s, p[3] * s, p[4], 0, Math.PI * 2);
-          c.fill();
+          ctx.beginPath();
+          ctx.ellipse(p[0] * size, p[1] * size, p[2] * size, p[3] * size, p[4], 0, Math.PI * 2);
+          ctx.fill();
         });
-        c.restore();
+        ctx.restore();
       }
-      downloadCard.onclick = async () => {
+      dom.downloadCard.addEventListener("click", async () => {
         try {
           let S = 1600,
             Q = 920,
-            c = document.createElement("canvas"),
-            ctx = c.getContext("2d"),
-            tc = textColor(f.card.value),
+            canvas = document.createElement("canvas"),
+            ctx = canvas.getContext("2d"),
+            text = readable(f.card.value),
             d = designs[activeDesign];
-          c.width = c.height = S;
+          canvas.width = canvas.height = S;
           ctx.fillStyle = f.card.value;
           ctx.fillRect(0, 0, S, S);
-          let g = ctx.createRadialGradient(360, 240, 40, 360, 240, 760);
-          g.addColorStop(0, rgba(f.accent.value, 0.28));
-          g.addColorStop(1, rgba(f.accent.value, 0));
-          ctx.fillStyle = g;
+          let glow = ctx.createRadialGradient(360, 240, 40, 360, 240, 760);
+          glow.addColorStop(0, rgba(f.accent.value, 0.28));
+          glow.addColorStop(1, rgba(f.accent.value, 0));
+          ctx.fillStyle = glow;
           ctx.fillRect(0, 0, S, S);
-          ctx.strokeStyle = rgba(tc, d[1] === "frame-minimal" ? 0.34 : 0.18);
-          ctx.lineWidth = d[1] === "frame-editorial" ? 36 : 4;
-          if (d[1] === "frame-aura") {
+          ctx.strokeStyle = rgba(text, d[2] === "frame-minimal" ? 0.34 : 0.18);
+          ctx.lineWidth = d[2] === "frame-editorial" ? 36 : 4;
+          if (d[2] === "frame-aura" || d[2] === "frame-seal") {
             ctx.beginPath();
             ctx.ellipse(S / 2, S / 2, 680, 720, 0, 0, Math.PI * 2);
             ctx.stroke();
-          } else if (d[1] === "frame-minimal") ctx.strokeRect(70, 70, S - 140, S - 140);
+          } else if (d[2] === "frame-minimal") ctx.strokeRect(70, 70, S - 140, S - 140);
           else {
-            round(ctx, 70, 70, S - 140, S - 140, d[1] === "frame-editorial" ? 24 : 110);
+            rounded(ctx, 70, 70, S - 140, S - 140, d[2] === "frame-editorial" ? 24 : 110);
             ctx.stroke();
           }
-          let q = new QRCodeStyling({ ...options(Q), type: "canvas" }),
-            qi = await blobImg(await q.getRawData("png")),
-            hs = Q + 110,
-            hx = (S - hs) / 2,
+          let qrExport = new QRCodeStyling({ ...options(Q), type: "canvas" }),
+            qrImage = await imageFromBlob(await qrExport.getRawData("png")),
+            holder = Q + 110,
+            hx = (S - holder) / 2,
             hy = 340;
-          ctx.fillStyle = rgba("#ffffff", 0.42);
-          round(ctx, hx, hy, hs, hs, 92);
+          ctx.fillStyle = rgba("#ffffff", 0.44);
+          rounded(ctx, hx, hy, holder, holder, 92);
           ctx.fill();
-          clover(ctx, S / 2, hy + hs / 2, Q * 0.72, tc, d[5]);
-          ctx.strokeStyle = rgba(tc, 0.1);
+          clover(ctx, S / 2, hy + holder / 2, Q * 0.72, text, d[6]);
+          ctx.strokeStyle = rgba(text, 0.1);
           ctx.stroke();
-          ctx.drawImage(qi, hx + 55, hy + 55, Q, Q);
-          let a = document.createElement("a");
-          a.download = fileName() + "-karte.png";
-          a.href = c.toDataURL("image/png");
-          a.click();
-          msg("Design-Karte wurde heruntergeladen.");
-        } catch {
-          err(
+          ctx.drawImage(qrImage, hx + 55, hy + 55, Q, Q);
+          let link = document.createElement("a");
+          link.download = cleanName() + "-karte.png";
+          link.href = canvas.toDataURL("image/png");
+          link.click();
+          message("Design-Karte wurde heruntergeladen.");
+        } catch (e) {
+          showError(
             "Die Design-Karte konnte nicht erstellt werden. Der QR-Download funktioniert weiterhin."
           );
         }
-      };
+      });
       update();
     </script>
   </body>
