@@ -679,7 +679,7 @@
         will-change: transform;
       }
 
-      /* Layered Rendering for Emboss & Materials */
+      /* Layered Rendering for Materials */
       #qr-bg {
         position: absolute;
         inset: 0;
@@ -711,23 +711,16 @@
         background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='marble'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.01 0.05' numOctaves='3' result='noise'/%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1.5 -0.2' in='noise'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23marble)' opacity='0.15'/%3E%3C/svg%3E");
       }
 
-      /* THE FIX: We render the entire QR Code as a single <img> tag for the preview. */
-      /* This completely bypasses the Safari/Chrome WebGL bug where 3D SVG geometries get cut off diagonally! */
+      /* THE FIX: Wir rendern das Endresultat (QR + Ecken + Signatur + Effekte) flach als 1 Bild */
       #qr-preview-img {
         position: relative;
         z-index: 3;
         transition: 0.2s opacity;
-        transform: translateZ(1px); /* Slight Z-push prevents any DOM plane intersecting */
+        transform: translateZ(1px);
         padding: var(--pad-internal);
         width: 100%;
         height: auto;
-        max-width: 450px; /* Maps to PREVIEW_SIZE */
-      }
-
-      /* Letterpress Emboss Effect directly on the flattened Image */
-      .effect-emboss #qr-preview-img {
-        filter: drop-shadow(-1.5px -1.5px 1px rgba(0, 0, 0, 0.35))
-          drop-shadow(1.5px 1.5px 1px rgba(255, 255, 255, 0.8));
+        max-width: 450px;
       }
 
       /* System Toasts */
@@ -1561,16 +1554,21 @@
 
         // Update UI Elements
         dom.valLogoSize.textContent = dom.logoSize.value + "%";
-        updateWarpTransform();
 
         dom.bgLayer.style.background = isTransparent ? "transparent" : bgColor;
         dom.matLayer.style.opacity = dom.material.value === "paper" && !isTransparent ? "1" : "0";
         dom.marbleLayer.style.opacity =
           dom.material.value === "marble" && !isTransparent ? "1" : "0";
 
-        // Emboss effect applied directly to the flattened image overlay
-        dom.signatureLayer.style.color = darkColor;
-        dom.signatureLayer.textContent = sigText;
+        let filters = [];
+        if (dom.emboss.checked) {
+          filters.push("drop-shadow(-1.5px -1.5px 1px rgba(0,0,0,0.35))");
+          filters.push("drop-shadow(1.5px 1.5px 1px rgba(255,255,255,0.8))");
+        }
+        if (dom.glow.checked) {
+          filters.push(`drop-shadow(0 0 15px ${hexToRgba(darkColor, 0.4)})`);
+        }
+        dom.qrPreviewImg.style.filter = filters.length > 0 ? filters.join(" ") : "none";
 
         const isCustomGradient = ["solid", "gold", "iridescent", "liquidmetal"].includes(
           dom.gradientType.value
@@ -1807,10 +1805,6 @@
               ctx.translate(-exportSize / 2, -exportSize / 2);
             }
 
-            if (hasEmboss)
-              ctx.filter =
-                "drop-shadow(-3px -3px 2px rgba(0,0,0,0.35)) drop-shadow(3px 3px 2px rgba(255,255,255,0.8))";
-
             // Original QR auf Basis zeichnen
             ctx.drawImage(srcImg, 0, 0);
 
@@ -1836,9 +1830,6 @@
               ctx.font = `500 ${exportSize * 0.06}px "Playfair Display", serif`;
               ctx.textAlign = "center";
               ctx.fillStyle = colors.outer;
-              if (hasEmboss)
-                ctx.filter =
-                  "drop-shadow(-2px -2px 1px rgba(0,0,0,0.3)) drop-shadow(2px 2px 1px rgba(255,255,255,0.8))";
               ctx.fillText(sigText, exportSize / 2, exportSize + sigHeight * 0.6);
             }
 
@@ -1868,7 +1859,6 @@
         dom.url,
         dom.signature,
         dom.dots,
-        dom.warp,
         dom.colorDark,
         dom.colorDark2,
         dom.colorBg,
