@@ -279,44 +279,65 @@
       }
       .frame-silk {
         border-radius: 46px;
-        border: 1px solid rgba(255, 255, 255, 0.5);
+        border: 1px solid rgba(255, 255, 255, 0.58);
         background:
-          radial-gradient(circle at 18% 14%, rgba(255, 255, 255, 0.62), transparent 24%),
-          linear-gradient(
-            115deg,
-            rgba(255, 255, 255, 0.42),
-            transparent 28%,
-            rgba(255, 255, 255, 0.22) 48%,
-            transparent 72%
-          ),
-          linear-gradient(145deg, var(--qbg), color-mix(in srgb, var(--qbg), #d8bfa8 22%));
+          radial-gradient(ellipse at 18% 16%, rgba(255, 255, 255, 0.72), transparent 32%),
+          radial-gradient(ellipse at 78% 86%, rgba(205, 169, 136, 0.2), transparent 42%),
+          repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.18) 0 2px, transparent 2px 9px),
+          repeating-linear-gradient(25deg, rgba(80, 55, 42, 0.035) 0 1px, transparent 1px 12px),
+          linear-gradient(145deg, var(--qbg), #ead8c5);
         box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.18),
+          inset 0 0 0 18px rgba(255, 255, 255, 0.2),
+          inset 28px -28px 70px rgba(255, 255, 255, 0.22),
           0 34px 88px rgba(47, 32, 21, 0.18);
       }
       .frame-silk:before {
         inset: 26px;
-        border-color: rgba(255, 255, 255, 0.48);
+        border-color: rgba(255, 255, 255, 0.55);
       }
       .frame-silk .qr-box {
-        background: rgba(255, 255, 255, 0.54);
+        background: rgba(255, 255, 255, 0.56);
         backdrop-filter: blur(8px);
       }
-      .frame-lines {
+      .frame-linen {
         border-radius: 30px;
-        border: 1px solid rgba(35, 31, 32, 0.16);
+        border: 1px solid rgba(35, 31, 32, 0.15);
         background:
-          repeating-linear-gradient(90deg, rgba(35, 31, 32, 0.045) 0 1px, transparent 1px 18px),
-          repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.22) 0 1px, transparent 1px 26px),
-          var(--qbg);
+          repeating-linear-gradient(90deg, rgba(64, 47, 35, 0.07) 0 1px, transparent 1px 7px),
+          repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.26) 0 1px, transparent 1px 6px),
+          repeating-linear-gradient(45deg, rgba(64, 47, 35, 0.025) 0 1px, transparent 1px 11px),
+          linear-gradient(145deg, var(--qbg), #e9ddcf);
         box-shadow:
-          inset 0 0 0 14px rgba(255, 255, 255, 0.16),
+          inset 0 0 0 14px rgba(255, 255, 255, 0.15),
           0 30px 82px rgba(47, 32, 21, 0.15);
       }
-      .frame-lines:before {
+      .frame-linen:before {
         inset: 22px;
-        border-color: rgba(35, 31, 32, 0.18);
+        border-color: rgba(35, 31, 32, 0.16);
         border-style: dashed;
+      }
+      .frame-cotton {
+        border-radius: 36px;
+        border: 1px solid rgba(35, 31, 32, 0.1);
+        background:
+          radial-gradient(circle at 22% 18%, rgba(255, 255, 255, 0.68), transparent 20%),
+          radial-gradient(circle at 72% 72%, rgba(255, 255, 255, 0.34), transparent 28%),
+          repeating-radial-gradient(
+            circle at 20% 20%,
+            rgba(255, 255, 255, 0.36) 0 1px,
+            transparent 1px 8px
+          ),
+          linear-gradient(145deg, var(--qbg), #f4eadf);
+        box-shadow:
+          inset 0 0 0 18px rgba(255, 255, 255, 0.2),
+          0 30px 82px rgba(47, 32, 21, 0.14);
+      }
+      .frame-cotton:before {
+        inset: 28px;
+        border-color: rgba(255, 255, 255, 0.48);
+      }
+      .frame-cotton .qr-box {
+        background: rgba(255, 255, 255, 0.62);
       }
       .frame-gold {
         border-radius: 34px;
@@ -739,7 +760,7 @@
               <div class="eyebrow">QR-Code gestalten</div>
               <h1>Wähle den Stil deines Auftritts.</h1>
               <p class="hint">
-                Fünf starke Designrichtungen für QR-Codes, die bewusst gestaltet wirken.
+                Sechs starke Designrichtungen für QR-Codes, die bewusst gestaltet wirken.
               </p>
             </div>
             <div class="field">
@@ -892,8 +913,8 @@
               <h1>Ein QR-Code als Designobjekt.</h1>
             </div>
             <p>
-              Seide, Linien, Gold, Wein oder Farbpass: Jeder Stil verändert Form, Farbe, Textur und
-              Tiefenwirkung.
+              Seide, Leinen, Baumwolle, Gold, Wein oder Farbpass: Jeder Stil verändert Form, Farbe,
+              Textur und Tiefenwirkung.
             </p>
           </div>
           <div class="head">
@@ -946,11 +967,11 @@
       };
       let qr,
         logo = "",
-        activeDesign = "atelier";
+        activeDesign = "silk";
       const designs = {
         silk: [
           "Seide",
-          "weicher Glanz, ruhig und luxuriös",
+          "sichtbarer Seidenstoff mit weichem Glanz",
           "frame-silk",
           "extra-rounded",
           "extra-rounded",
@@ -970,27 +991,49 @@
           "#fff8ef",
           "#efe0d1",
         ],
-        lines: [
-          "Linien",
-          "präzise Stil-Linien wie ein Atelier-Raster",
-          "frame-lines",
+        linen: [
+          "Leinen",
+          "natürliche Webstruktur, ruhig und hochwertig",
+          "frame-linen",
           "classy-rounded",
           "square",
           "linear",
-          0.06,
-          0.035,
-          0.42,
-          "220px",
-          "-95px",
+          0.07,
+          0.04,
+          0.44,
+          "230px",
+          "-96px",
           "18px",
           "5px",
           "-8deg",
           ".12",
           ".12",
-          "#231f20",
+          "#2c2722",
           "#9b8068",
-          "#ffffff",
-          "#f6efe6",
+          "#fbf6ef",
+          "#ede2d5",
+        ],
+        cotton: [
+          "Baumwolle",
+          "weich, hell und freundlich mit feiner Körnung",
+          "frame-cotton",
+          "rounded",
+          "extra-rounded",
+          "radial",
+          0.11,
+          0.055,
+          0.62,
+          "260px",
+          "-100px",
+          "-10px",
+          "9px",
+          "-12deg",
+          ".07",
+          ".1",
+          "#2f2a26",
+          "#b99a7f",
+          "#fffdf8",
+          "#f4eadf",
         ],
         gold: [
           "Gold",
@@ -1327,6 +1370,73 @@
         });
         ctx.restore();
       }
+      function fabric(ctx, S, type, color) {
+        ctx.save();
+        ctx.lineCap = "round";
+        if (type === "frame-silk") {
+          ctx.globalAlpha = 0.18;
+          for (let i = -S; i < S * 1.5; i += 28) {
+            ctx.strokeStyle = i % 56 ? rgba("#ffffff", 0.5) : rgba(color, 0.08);
+            ctx.lineWidth = i % 56 ? 2 : 1;
+            ctx.beginPath();
+            ctx.moveTo(i, 0);
+            ctx.bezierCurveTo(i + 180, S * 0.25, i - 90, S * 0.55, i + 220, S);
+            ctx.stroke();
+          }
+          ctx.globalAlpha = 0.1;
+          for (let i = 0; i < 7; i++) {
+            ctx.fillStyle = rgba("#ffffff", 0.45);
+            ctx.beginPath();
+            ctx.ellipse(
+              S * (0.18 + i * 0.1),
+              S * (0.12 + i * 0.11),
+              S * 0.17,
+              S * 0.035,
+              -0.55,
+              0,
+              Math.PI * 2
+            );
+            ctx.fill();
+          }
+        } else if (type === "frame-linen") {
+          ctx.globalAlpha = 0.28;
+          ctx.strokeStyle = rgba(color, 0.13);
+          ctx.lineWidth = 1;
+          for (let x = 0; x < S; x += 14) {
+            ctx.beginPath();
+            ctx.moveTo(x, 0);
+            ctx.lineTo(x, S);
+            ctx.stroke();
+          }
+          ctx.strokeStyle = rgba("#ffffff", 0.24);
+          for (let y = 0; y < S; y += 12) {
+            ctx.beginPath();
+            ctx.moveTo(0, y);
+            ctx.lineTo(S, y);
+            ctx.stroke();
+          }
+          ctx.globalAlpha = 0.08;
+          ctx.strokeStyle = rgba(color, 0.5);
+          for (let x = 7; x < S; x += 42) {
+            ctx.beginPath();
+            ctx.moveTo(x, 0);
+            ctx.lineTo(x + 30, S);
+            ctx.stroke();
+          }
+        } else if (type === "frame-cotton") {
+          ctx.globalAlpha = 0.16;
+          for (let i = 0; i < 180; i++) {
+            let x = (i * 97) % S,
+              y = (i * 53) % S,
+              r = 2 + (i % 7);
+            ctx.fillStyle = i % 3 ? rgba("#ffffff", 0.48) : rgba(color, 0.08);
+            ctx.beginPath();
+            ctx.arc(x, y, r, 0, Math.PI * 2);
+            ctx.fill();
+          }
+        }
+        ctx.restore();
+      }
       dom.downloadCard.addEventListener("click", async () => {
         try {
           let S = 1600,
@@ -1338,6 +1448,7 @@
           canvas.width = canvas.height = S;
           ctx.fillStyle = f.card.value;
           ctx.fillRect(0, 0, S, S);
+          fabric(ctx, S, d[2], text);
           let glow = ctx.createRadialGradient(360, 240, 40, 360, 240, 760);
           glow.addColorStop(0, rgba(f.accent.value, 0.28));
           glow.addColorStop(1, rgba(f.accent.value, 0));
@@ -1377,6 +1488,7 @@
           );
         }
       });
+      applyDesign(activeDesign);
       update();
     </script>
   </body>
