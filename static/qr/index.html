@@ -308,7 +308,7 @@
         height: min(500px, 60vw, 60vh) !important;
       }
       .frame-eskyna .eskyna-corner {
-        display: block;
+        display: none;
       }
       .frame-silk {
         border-radius: 46px;
@@ -477,39 +477,6 @@
       }
       .eskyna-corner {
         display: none;
-        position: absolute;
-        z-index: 2;
-        width: 23%;
-        aspect-ratio: 1;
-        border: clamp(12px, 2.4vw, 25px) solid var(--qink);
-        opacity: 0.98;
-        pointer-events: none;
-        filter: drop-shadow(1px 2px 0 rgba(75, 46, 35, 0.08));
-      }
-      .eskyna-corner:before {
-        content: "";
-        position: absolute;
-        inset: 22%;
-        background: var(--qink);
-        border-radius: 22% 30% 24% 34%;
-      }
-      .eskyna-corner.tl {
-        left: 0;
-        top: 0;
-        border-radius: 28% 10% 0 10%;
-        transform: skewX(2deg) skewY(1deg) rotate(-1deg);
-      }
-      .eskyna-corner.tr {
-        right: 0;
-        top: 0;
-        border-radius: 10% 28% 10% 0;
-        transform: skewX(-2deg) skewY(-1deg) rotate(1deg);
-      }
-      .eskyna-corner.bl {
-        left: 0;
-        bottom: 0;
-        border-radius: 10% 0 10% 28%;
-        transform: skewX(-1.6deg) skewY(-2deg) rotate(1deg);
       }
       .grid,
       .field,
@@ -1007,11 +974,7 @@
           </div>
           <div class="stage">
             <article class="qr-card frame-soft" id="qrCard">
-              <div class="qr-box" id="qrBox">
-                <span class="eskyna-corner tl"></span><span class="eskyna-corner tr"></span
-                ><span class="eskyna-corner bl"></span>
-                <div id="qr"></div>
-              </div>
+              <div class="qr-box" id="qrBox"><div id="qr"></div></div>
             </article>
           </div>
         </section>
@@ -1061,7 +1024,7 @@
       const designs = {
         eskyna: [
           "ESKYNA Original",
-          "Punkte, verzerrte Ecken, Logo-Mitte",
+          "Punkte, echte QR-Ecken, Logo-Mitte",
           "frame-eskyna",
           "dots",
           "extra-rounded",
@@ -1517,15 +1480,6 @@
         ctx.drawImage(img, -size / 2, -size / 2, size, size);
         ctx.restore();
       }
-      function distortEskyna(ctx, x, y, w, h) {
-        ctx.save();
-        ctx.strokeStyle = rgba(f.dark.value, 0.16);
-        ctx.lineWidth = 2;
-        ctx.setLineDash([18, 14]);
-        ctx.strokeRect(x + 2, y + 2, w - 4, h - 4);
-        ctx.setLineDash([]);
-        ctx.restore();
-      }
       function fabric(ctx, S, type, color) {
         ctx.save();
         ctx.lineCap = "round";
@@ -1631,8 +1585,7 @@
           ctx.fillStyle = d[2] === "frame-eskyna" ? "#ffffff" : rgba("#ffffff", 0.44);
           rounded(ctx, hx, hy, holder, holder, d[2] === "frame-eskyna" ? 0 : 92);
           ctx.fill();
-          if (d[2] === "frame-eskyna") distortEskyna(ctx, hx + 55, hy + 55, Q, Q);
-          else clover(ctx, S / 2, hy + holder / 2, Q * 0.72, text, d[6]);
+          if (d[2] !== "frame-eskyna") clover(ctx, S / 2, hy + holder / 2, Q * 0.72, text, d[6]);
           ctx.strokeStyle = rgba(text, d[2] === "frame-eskyna" ? 0 : 0.1);
           ctx.stroke();
           let warp = Number(f.warp.value || 0);
