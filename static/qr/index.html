@@ -80,9 +80,9 @@
         gap: 14px;
       }
       .brand img {
-        width: 148px;
-        max-width: 44vw;
-        filter: drop-shadow(0 12px 22px rgba(57, 39, 25, 0.08));
+        width: 50px;
+        max-width: 18vw;
+        filter: drop-shadow(0 8px 14px rgba(57, 39, 25, 0.08));
       }
       .brand span,
       .eyebrow {
@@ -276,6 +276,42 @@
       .frame-minimal {
         border-radius: 0;
         border: 1px solid rgba(35, 31, 32, 0.22);
+      }
+      .frame-arch {
+        border-radius: 50% 50% 34px 34px/38% 38% 34px 34px;
+        border: 1px solid rgba(35, 31, 32, 0.12);
+        box-shadow:
+          inset 0 0 0 16px rgba(255, 255, 255, 0.2),
+          0 30px 82px rgba(47, 32, 21, 0.16);
+      }
+      .frame-arch:before {
+        inset: 30px;
+        border-color: rgba(35, 31, 32, 0.1);
+      }
+      .frame-ribbon {
+        border-radius: 30px;
+        border: 1px solid rgba(35, 31, 32, 0.12);
+      }
+      .frame-ribbon:before {
+        inset: 0;
+        border: 0;
+        border-radius: inherit;
+        background:
+          linear-gradient(
+            135deg,
+            transparent 0 58%,
+            rgba(255, 255, 255, 0.34) 58% 75%,
+            transparent 75%
+          ),
+          linear-gradient(90deg, rgba(35, 31, 32, 0.08), transparent 32%);
+      }
+      .frame-gallery {
+        border-radius: 26px;
+        border: 1px solid rgba(35, 31, 32, 0.14);
+        box-shadow:
+          inset 0 0 0 12px rgba(255, 255, 255, 0.2),
+          inset 0 0 0 13px rgba(35, 31, 32, 0.08),
+          0 30px 82px rgba(47, 32, 21, 0.16);
       }
       .qr-box {
         position: relative;
@@ -640,8 +676,10 @@
           <div class="grid">
             <div>
               <div class="eyebrow">QR-Code gestalten</div>
-              <h1>Schön. Klar. Besonders.</h1>
-              <p class="hint">Eine kompakte Studio-Ansicht für QR-Codes mit ESKYNA-Charakter.</p>
+              <h1>Für einen Auftritt, der stimmig wirkt.</h1>
+              <p class="hint">
+                Klar, bewusst und alltagstauglich — als QR-Code im ESKYNA Stil-System.
+              </p>
             </div>
             <div class="field">
               <div class="label"><span>1</span> Inhalt</div>
@@ -790,11 +828,11 @@
           <div class="intro">
             <div>
               <div class="eyebrow">Vorschau</div>
-              <h1>Ein QR-Code mit Stil-System.</h1>
+              <h1>Ihr QR-Code als visuelles Statement.</h1>
             </div>
             <p>
-              Ruhige Farbwelten, feine Rahmen und ein dezenter Kleeblatt-Schatten machen den Code
-              besonders, ohne die Scanbarkeit zu stören.
+              Farbwelt, Linie, Rahmen und Kleeblatt-Schatten arbeiten zusammen — ruhig, hochwertig
+              und scanbar.
             </p>
           </div>
           <div class="head">
@@ -849,71 +887,149 @@
         logo = "",
         activeDesign = "atelier";
       const designs = {
-        atelier: [
-          "Atelier-Siegel",
-          "feiner ovaler Boutique-Look",
-          "frame-seal",
-          "classy-rounded",
+        essence: [
+          "Essenz-Bogen",
+          "weicher Torbogen mit Signature-Ruhe",
+          "frame-arch",
           "extra-rounded",
-          "linear",
-          0.13,
-          0.1,
-          0.48,
-        ],
-        clover: [
-          "Kleeblatt-Schatten",
-          "weicher Glücks-Schatten im Code",
-          "frame-soft",
-          "rounded",
           "extra-rounded",
           "radial",
-          0.22,
+          0.16,
           0.18,
           0.5,
+          "380px",
+          "-150px",
+          "-80px",
+          "16px",
+          "-18deg",
+          ".09",
+          ".13",
         ],
-        gold: [
-          "Goldener Rahmen",
-          "edler Kartenrahmen mit Tiefe",
+        signature: [
+          "Signature Luxe",
+          "goldene Tiefe, weich und hochwertig",
           "frame-gold",
           "extra-rounded",
           "extra-rounded",
           "linear",
           0.12,
-          0.11,
-          0.45,
+          0.16,
+          0.44,
+          "340px",
+          "-120px",
+          "-70px",
+          "12px",
+          "-10deg",
+          ".1",
+          ".12",
+        ],
+        clover: [
+          "Kleeblatt Halo",
+          "sichtbarer Glücks-Schatten im QR-Feld",
+          "frame-seal",
+          "rounded",
+          "extra-rounded",
+          "radial",
+          0.26,
+          0.22,
+          0.52,
+          "390px",
+          "-130px",
+          "-90px",
+          "18px",
+          "-16deg",
+          ".1",
+          ".14",
+        ],
+        gallery: [
+          "Style-Galerie",
+          "gerahmt wie ein hochwertiger Print",
+          "frame-gallery",
+          "classy-rounded",
+          "extra-rounded",
+          "linear",
+          0.1,
+          0.1,
+          0.42,
+          "260px",
+          "-90px",
+          "20px",
+          "8px",
+          "-10deg",
+          ".05",
+          ".08",
         ],
         editorial: [
-          "Editorial-Kante",
-          "modisch, grafisch, plakativ",
-          "frame-editorial",
+          "Editorial Split",
+          "grafische Magazin-Kante mit Kontrast",
+          "frame-ribbon",
           "classy-rounded",
           "square",
           "linear",
           0.08,
-          0.08,
-          0.42,
+          0.2,
+          0.4,
+          "430px",
+          "-190px",
+          "-130px",
+          "20px",
+          "-24deg",
+          ".04",
+          ".06",
         ],
-        aura: [
-          "Soft Aura",
-          "organisch und weich",
+        visibility: [
+          "Visibility Aura",
+          "organisch, sichtbar und weich",
           "frame-aura",
           "dots",
           "dot",
           "radial",
-          0.18,
-          0.12,
+          0.2,
+          0.14,
           0.5,
+          "330px",
+          "-120px",
+          "-40px",
+          "14px",
+          "-8deg",
+          ".1",
+          ".12",
+        ],
+        colorpass: [
+          "Farbpass",
+          "klarer Kartenlook für Beratung & PDFs",
+          "frame-soft",
+          "rounded",
+          "extra-rounded",
+          "linear",
+          0.1,
+          0.08,
+          0.46,
+          "250px",
+          "-95px",
+          "28px",
+          "7px",
+          "-12deg",
+          ".06",
+          ".09",
         ],
         pure: [
           "Pure Print",
-          "minimal und sehr klar",
+          "minimal, präzise und sehr scanbar",
           "frame-minimal",
           "square",
           "square",
           "none",
-          0.04,
-          0.06,
+          0.035,
+          0.045,
           0.36,
+          "180px",
+          "-80px",
+          "18px",
+          "6px",
+          "-8deg",
+          ".03",
+          ".03",
         ],
       };
       const presets = {
@@ -1024,17 +1140,27 @@
           },
         };
       }
+      function renderDesign(key) {
+        let d = designs[key];
+        dom.qrCard.className = "qr-card " + d[2];
+        dom.qrCard.style.setProperty("--clover", d[6]);
+        dom.qrCard.style.setProperty("--markOpacity", d[7]);
+        dom.qrCard.style.setProperty("--box", d[8]);
+        dom.qrCard.style.setProperty("--markSize", d[9]);
+        dom.qrCard.style.setProperty("--markRight", d[10]);
+        dom.qrCard.style.setProperty("--markBottom", d[11]);
+        dom.qrCard.style.setProperty("--markBlur", d[12]);
+        dom.qrCard.style.setProperty("--markRot", d[13]);
+        dom.qrCard.style.setProperty("--boxLine", d[14]);
+        dom.qrCard.style.setProperty("--inner", d[15]);
+      }
       function applyDesign(key) {
         activeDesign = key;
         let d = designs[key];
         f.dots.value = d[3];
         f.corners.value = d[4];
         f.gradient.value = d[5];
-        dom.qrCard.className = "qr-card " + d[2];
-        dom.qrCard.style.setProperty("--clover", d[6]);
-        dom.qrCard.style.setProperty("--markOpacity", d[7]);
-        dom.qrCard.style.setProperty("--box", d[8]);
-        dom.qrCard.style.setProperty("--inner", key === "pure" ? ".03" : ".1");
+        renderDesign(key);
       }
       function update() {
         if (!window.QRCodeStyling) {
@@ -1047,7 +1173,7 @@
         dom.logoSizeV.textContent = Math.round(Number(f.logoSize.value) * 100) + "%";
         dom.qrCard.style.setProperty("--qbg", f.card.value);
         dom.qrCard.style.setProperty("--qink", readable(f.card.value));
-        applyDesign(activeDesign);
+        renderDesign(activeDesign);
         if (qr) qr.update(options());
         else {
           qr = new QRCodeStyling(options());
