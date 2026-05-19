@@ -1,4 +1,4 @@
-import { STORAGE_KEY } from './config.js';
+import { STORAGE_KEY } from "./config.js";
 
 const DEFAULT_PROGRESS = { tutorialDone: false, unlocked: 1, bestClarity: 0 };
 

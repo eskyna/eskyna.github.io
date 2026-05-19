@@ -1,170 +1,327 @@
 <!doctype html>
 <html lang="de">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>ESKYNA Stil-Kleeblatt</title>
-<link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-<div class="app">
-  <header class="topbar">
-    <div class="brand"><img src="https://eskyna.com/images/sign.png" alt="ESKYNA Sign"><span>ESKYNA</span></div>
-    <div class="top-actions"><span class="pill">ESKYNA Stil-Kleeblatt</span><span class="pill">EStyle Mini-Game</span></div>
-  </header>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ESKYNA Stil-Kleeblatt</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="brand">
+          <img src="https://eskyna.com/images/sign.png" alt="ESKYNA Sign" /><span>ESKYNA</span>
+        </div>
+        <div class="top-actions">
+          <span class="pill">ESKYNA Stil-Kleeblatt</span><span class="pill">EStyle Mini-Game</span>
+        </div>
+      </header>
 
-  <main id="intro" class="screen active">
-    <section class="hero">
-      <div class="hero-copy">
-        <div class="kicker">Stil-Klarheit spielerisch trainieren</div>
-        <h1>ESKYNA Stil-Kleeblatt <span>Stil ist kein Glück.</span></h1>
-        <p class="lead" id="introLead">Fünf Level mit steigender Herausforderung: Ordnen Sie Stil-Signale im ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe filtern Sie über den Style-Filter.</p>
-        <p class="claim" id="introClaim">In wenigen Minuten mehr Überblick im Kleiderschrank – weniger Fehlkäufe, schnellere Outfit-Entscheidungen, mehr Stil-Sicherheit.</p>
-        <div class="learn-box">
-          <h2 class="learn-title">Was Sie hier lernen</h2>
-          <ul class="learn-list" id="learnList"></ul>
-        </div>
-        <div class="buttons">
-          <button class="btn" id="btnPlay" type="button">Spiel starten</button>
-          <button class="btn secondary" id="btnLevels" type="button">Level wählen</button>
-          <button class="btn secondary" id="btnIntroTutorial" type="button">Anleitung</button>
-        </div>
-        <div class="level-select" id="introLevelSelect" hidden></div>
-      </div>
-      <div class="visual">
-        <div class="halo"></div>
-        <img class="clover-bg" src="https://eskyna.com/images/sign.png" alt="ESKYNA Kleeblatt">
-        <img class="natalia" src="https://eskyna.com/images/Natalia_white_hero.png" alt="Natalia Kleemann">
-        <div class="quote-card">Das Kleeblatt ist kein Quiz – es ist ein <b>Entscheidungs-System</b>. Wer es kennt, kauft gezielter, kombiniert schneller und wirkt stimmiger.</div>
-      </div>
-    </section>
-  </main>
-
-  <main id="game" class="screen">
-    <div class="game-wrap">
-      <aside class="panel side">
-        <div>
-          <h2>ESKYNA Stil-Kleeblatt</h2>
-          <p>Jede Karte ist eine Mini-Übung für echte Entscheidungen: Was passt zu mir – Farbe, Form, Wirkung oder Alltag? Was lasse ich bewusst los?</p>
-          <div class="stat"><span>Level</span><b id="levelLabel">1 · Kennenlernen</b></div>
-          <div class="stat"><span>Ziel</span><b id="goalLabel">0 / 8</b></div>
-          <div class="goal-bar" aria-hidden="true"><span id="goalBar"></span></div>
-          <div class="stat"><span>Stil-Klarheit</span><b id="clarity">0%</b></div>
-          <div class="stat"><span>Score</span><b id="score">0</b></div>
-          <div class="stat"><span>Gesamt</span><b id="totalScore">0</b></div>
-          <div class="stat"><span>Zeit</span><b id="time">60</b></div>
-          <div class="stat"><span>Serie</span><b id="streak">0</b></div>
-          <p class="combo-badge" id="comboBadge">Serie: 0</p>
-          <div class="mini-rule" id="levelHint">Fünf Level – vom Kleeblatt lernen bis zur sicheren Kaufentscheidung. Tasten 1–4 und L.</div>
-        </div>
-        <div>
-          <div class="legend">
-            <div class="legend-item"><span class="key"><span data-icon-slot="color" data-icon-size="20"></span><span class="key-num">1</span></span><span><b>Farbe</b><br>Farbtyp, Farbpass, Farbharmonie</span></div>
-            <div class="legend-item"><span class="key"><span data-icon-slot="form" data-icon-size="20"></span><span class="key-num">2</span></span><span><b>Form</b><br>Schnitte, Linien, Proportionen</span></div>
-            <div class="legend-item"><span class="key"><span data-icon-slot="impact" data-icon-size="20"></span><span class="key-num">3</span></span><span><b>Wirkung</b><br>Auftritt, Beruf, Sichtbarkeit</span></div>
-            <div class="legend-item"><span class="key"><span data-icon-slot="life" data-icon-size="20"></span><span class="key-num">4</span></span><span><b>Alltag</b><br>Kombinieren, Garderobe, Termine</span></div>
-            <div class="legend-item"><span class="key"><span data-icon-slot="letgo" data-icon-size="20"></span><span class="key-num">L</span></span><span><b>Style-Filter</b><br>Loslassen statt Fehlkauf</span></div>
+      <main id="intro" class="screen active">
+        <section class="hero">
+          <div class="hero-copy">
+            <div class="kicker">Stil-Klarheit spielerisch trainieren</div>
+            <h1>ESKYNA Stil-Kleeblatt <span>Stil ist kein Glück.</span></h1>
+            <p class="lead" id="introLead">
+              Fünf Level mit steigender Herausforderung: Ordnen Sie Stil-Signale im ESKYNA-Kleeblatt
+              – Farbe, Form, Wirkung und Alltag. Fehlkäufe filtern Sie über den Style-Filter.
+            </p>
+            <p class="claim" id="introClaim">
+              In wenigen Minuten mehr Überblick im Kleiderschrank – weniger Fehlkäufe, schnellere
+              Outfit-Entscheidungen, mehr Stil-Sicherheit.
+            </p>
+            <div class="learn-box">
+              <h2 class="learn-title">Was Sie hier lernen</h2>
+              <ul class="learn-list" id="learnList"></ul>
+            </div>
+            <div class="buttons">
+              <button class="btn" id="btnPlay" type="button">Spiel starten</button>
+              <button class="btn secondary" id="btnLevels" type="button">Level wählen</button>
+              <button class="btn secondary" id="btnIntroTutorial" type="button">Anleitung</button>
+            </div>
+            <div class="level-select" id="introLevelSelect" hidden></div>
           </div>
-          <p class="mobile-note">Auf Mobilgeräten die Buttons unten nutzen.</p>
-        </div>
-      </aside>
+          <div class="visual">
+            <div class="halo"></div>
+            <img
+              class="clover-bg"
+              src="https://eskyna.com/images/sign.png"
+              alt="ESKYNA Kleeblatt"
+            />
+            <img
+              class="natalia"
+              src="https://eskyna.com/images/Natalia_white_hero.png"
+              alt="Natalia Kleemann"
+            />
+            <div class="quote-card">
+              Das Kleeblatt ist kein Quiz – es ist ein <b>Entscheidungs-System</b>. Wer es kennt,
+              kauft gezielter, kombiniert schneller und wirkt stimmiger.
+            </div>
+          </div>
+        </section>
+      </main>
 
-      <section class="stage" aria-label="ESKYNA Stil-Kleeblatt Spielfeld">
-        <div class="toast" id="toast">Richtig</div>
-        <div class="stage-grid"></div>
-        <img class="stage-logo" src="https://eskyna.com/images/sign.png" alt="ESKYNA Kleeblatt">
-        <div class="clover-board" id="board">
-          <div class="orbit"></div>
-          <div class="axis"></div><div class="axis h"></div>
+      <main id="game" class="screen">
+        <div class="game-wrap">
+          <aside class="panel side">
+            <div>
+              <h2>ESKYNA Stil-Kleeblatt</h2>
+              <p>
+                Jede Karte ist eine Mini-Übung für echte Entscheidungen: Was passt zu mir – Farbe,
+                Form, Wirkung oder Alltag? Was lasse ich bewusst los?
+              </p>
+              <div class="stat"><span>Level</span><b id="levelLabel">1 · Kennenlernen</b></div>
+              <div class="stat"><span>Ziel</span><b id="goalLabel">0 / 8</b></div>
+              <div class="goal-bar" aria-hidden="true"><span id="goalBar"></span></div>
+              <div class="stat"><span>Stil-Klarheit</span><b id="clarity">0%</b></div>
+              <div class="stat"><span>Score</span><b id="score">0</b></div>
+              <div class="stat"><span>Gesamt</span><b id="totalScore">0</b></div>
+              <div class="stat"><span>Zeit</span><b id="time">60</b></div>
+              <div class="stat"><span>Serie</span><b id="streak">0</b></div>
+              <p class="combo-badge" id="comboBadge">Serie: 0</p>
+              <div class="mini-rule" id="levelHint">
+                Fünf Level – vom Kleeblatt lernen bis zur sicheren Kaufentscheidung. Tasten 1–4 und
+                L.
+              </div>
+            </div>
+            <div>
+              <div class="legend">
+                <div class="legend-item">
+                  <span class="key"
+                    ><span data-icon-slot="color" data-icon-size="20"></span
+                    ><span class="key-num">1</span></span
+                  ><span><b>Farbe</b><br />Farbtyp, Farbpass, Farbharmonie</span>
+                </div>
+                <div class="legend-item">
+                  <span class="key"
+                    ><span data-icon-slot="form" data-icon-size="20"></span
+                    ><span class="key-num">2</span></span
+                  ><span><b>Form</b><br />Schnitte, Linien, Proportionen</span>
+                </div>
+                <div class="legend-item">
+                  <span class="key"
+                    ><span data-icon-slot="impact" data-icon-size="20"></span
+                    ><span class="key-num">3</span></span
+                  ><span><b>Wirkung</b><br />Auftritt, Beruf, Sichtbarkeit</span>
+                </div>
+                <div class="legend-item">
+                  <span class="key"
+                    ><span data-icon-slot="life" data-icon-size="20"></span
+                    ><span class="key-num">4</span></span
+                  ><span><b>Alltag</b><br />Kombinieren, Garderobe, Termine</span>
+                </div>
+                <div class="legend-item">
+                  <span class="key"
+                    ><span data-icon-slot="letgo" data-icon-size="20"></span
+                    ><span class="key-num">L</span></span
+                  ><span><b>Style-Filter</b><br />Loslassen statt Fehlkauf</span>
+                </div>
+              </div>
+              <p class="mobile-note">Auf Mobilgeräten die Buttons unten nutzen.</p>
+            </div>
+          </aside>
 
-          <div class="leaf-zone top" id="leaf-color" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="color" data-icon-size="26"></span><span class="num">1</span><b>Farbe</b><small>Was steht mir?</small><em id="cnt-color">0 Signale</em></div></div>
-          <div class="leaf-zone left" id="leaf-form" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="form" data-icon-size="26"></span><span class="num">2</span><b>Form</b><small>Welche Linie?</small><em id="cnt-form">0 Signale</em></div></div>
-          <div class="leaf-zone right" id="leaf-impact" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="impact" data-icon-size="26"></span><span class="num">3</span><b>Wirkung</b><small>Wie werde ich sichtbar?</small><em id="cnt-impact">0 Signale</em></div></div>
-          <div class="leaf-zone bottom" id="leaf-life" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="life" data-icon-size="26"></span><span class="num">4</span><b>Alltag</b><small>Was funktioniert?</small><em id="cnt-life">0 Signale</em></div></div>
+          <section class="stage" aria-label="ESKYNA Stil-Kleeblatt Spielfeld">
+            <div class="toast" id="toast">Richtig</div>
+            <div class="stage-grid"></div>
+            <img
+              class="stage-logo"
+              src="https://eskyna.com/images/sign.png"
+              alt="ESKYNA Kleeblatt"
+            />
+            <div class="clover-board" id="board">
+              <div class="orbit"></div>
+              <div class="axis"></div>
+              <div class="axis h"></div>
 
-          <div class="diamond-node left" aria-hidden="true"></div>
-          <div class="diamond-node right" aria-hidden="true"></div>
-          <div class="center-system"><div class="center-diamond"></div><div class="center-label">EStyle<br>ID</div></div>
-          <div class="style-filter" id="filter"><span class="filter-icon" data-icon-slot="letgo" data-icon-size="28"></span><b>Loslassen</b><small>Fehlkauf vermeiden</small></div>
-          <div class="token" id="token"><span class="facet">Style-Signal</span><div class="icon"><span data-icon-slot="ready" data-icon-size="44"></span></div><b>Bereit?</b><small>Starten Sie das Spiel.</small></div>
-        </div>
-        <div class="controls">
-          <button class="leaf-btn" data-answer="color"><span data-icon-slot="color" data-icon-size="18"></span><span>1 Farbe</span></button>
-          <button class="leaf-btn" data-answer="form"><span data-icon-slot="form" data-icon-size="18"></span><span>2 Form</span></button>
-          <button class="leaf-btn" data-answer="impact"><span data-icon-slot="impact" data-icon-size="18"></span><span>3 Wirkung</span></button>
-          <button class="leaf-btn" data-answer="life"><span data-icon-slot="life" data-icon-size="18"></span><span>4 Alltag</span></button>
-          <button class="leaf-btn leave-btn" data-answer="letgo"><span data-icon-slot="letgo" data-icon-size="18"></span><span>L Loslassen</span></button>
-        </div>
-      </section>
+              <div class="leaf-zone top" id="leaf-color" style="--fill: 0">
+                <div class="inner">
+                  <span class="leaf-icon" data-icon-slot="color" data-icon-size="26"></span
+                  ><span class="num">1</span><b>Farbe</b><small>Was steht mir?</small
+                  ><em id="cnt-color">0 Signale</em>
+                </div>
+              </div>
+              <div class="leaf-zone left" id="leaf-form" style="--fill: 0">
+                <div class="inner">
+                  <span class="leaf-icon" data-icon-slot="form" data-icon-size="26"></span
+                  ><span class="num">2</span><b>Form</b><small>Welche Linie?</small
+                  ><em id="cnt-form">0 Signale</em>
+                </div>
+              </div>
+              <div class="leaf-zone right" id="leaf-impact" style="--fill: 0">
+                <div class="inner">
+                  <span class="leaf-icon" data-icon-slot="impact" data-icon-size="26"></span
+                  ><span class="num">3</span><b>Wirkung</b><small>Wie werde ich sichtbar?</small
+                  ><em id="cnt-impact">0 Signale</em>
+                </div>
+              </div>
+              <div class="leaf-zone bottom" id="leaf-life" style="--fill: 0">
+                <div class="inner">
+                  <span class="leaf-icon" data-icon-slot="life" data-icon-size="26"></span
+                  ><span class="num">4</span><b>Alltag</b><small>Was funktioniert?</small
+                  ><em id="cnt-life">0 Signale</em>
+                </div>
+              </div>
 
-      <aside class="panel coach">
-        <h3>Natalia als digitaler Coach</h3>
-        <p>Natalia begleitet Sie mit Impulsen zu Farbe, Form, Wirkung und Alltag – Schritt für Schritt zu mehr Stil-Klarheit.</p>
-        <div class="speech" id="coachText"><strong>Natalia:</strong><br>Jede Karte ist eine Lektion: Lesen Sie Facette und Untertitel – so trainieren Sie Ihr Stil-System, nicht nur Ihre Reaktion.</div>
-        <div class="diamonds">
-          <div class="diamond-row"><div class="mini-diamond"></div><span>Analyse</span><div class="progress"><div class="bar" id="barA"></div></div><b id="aPct">0%</b></div>
-          <div class="diamond-row"><div class="mini-diamond"></div><span>Empfehlung</span><div class="progress"><div class="bar" id="barB"></div></div><b id="bPct">0%</b></div>
+              <div class="diamond-node left" aria-hidden="true"></div>
+              <div class="diamond-node right" aria-hidden="true"></div>
+              <div class="center-system">
+                <div class="center-diamond"></div>
+                <div class="center-label">EStyle<br />ID</div>
+              </div>
+              <div class="style-filter" id="filter">
+                <span class="filter-icon" data-icon-slot="letgo" data-icon-size="28"></span
+                ><b>Loslassen</b><small>Fehlkauf vermeiden</small>
+              </div>
+              <div class="token" id="token">
+                <span class="facet">Style-Signal</span>
+                <div class="icon"><span data-icon-slot="ready" data-icon-size="44"></span></div>
+                <b>Bereit?</b><small>Starten Sie das Spiel.</small>
+              </div>
+            </div>
+            <div class="controls">
+              <button class="leaf-btn" data-answer="color">
+                <span data-icon-slot="color" data-icon-size="18"></span><span>1 Farbe</span>
+              </button>
+              <button class="leaf-btn" data-answer="form">
+                <span data-icon-slot="form" data-icon-size="18"></span><span>2 Form</span>
+              </button>
+              <button class="leaf-btn" data-answer="impact">
+                <span data-icon-slot="impact" data-icon-size="18"></span><span>3 Wirkung</span>
+              </button>
+              <button class="leaf-btn" data-answer="life">
+                <span data-icon-slot="life" data-icon-size="18"></span><span>4 Alltag</span>
+              </button>
+              <button class="leaf-btn leave-btn" data-answer="letgo">
+                <span data-icon-slot="letgo" data-icon-size="18"></span><span>L Loslassen</span>
+              </button>
+            </div>
+          </section>
+
+          <aside class="panel coach">
+            <h3>Natalia als digitaler Coach</h3>
+            <p>
+              Natalia begleitet Sie mit Impulsen zu Farbe, Form, Wirkung und Alltag – Schritt für
+              Schritt zu mehr Stil-Klarheit.
+            </p>
+            <div class="speech" id="coachText">
+              <strong>Natalia:</strong><br />Jede Karte ist eine Lektion: Lesen Sie Facette und
+              Untertitel – so trainieren Sie Ihr Stil-System, nicht nur Ihre Reaktion.
+            </div>
+            <div class="diamonds">
+              <div class="diamond-row">
+                <div class="mini-diamond"></div>
+                <span>Analyse</span>
+                <div class="progress"><div class="bar" id="barA"></div></div>
+                <b id="aPct">0%</b>
+              </div>
+              <div class="diamond-row">
+                <div class="mini-diamond"></div>
+                <span>Empfehlung</span>
+                <div class="progress"><div class="bar" id="barB"></div></div>
+                <b id="bPct">0%</b>
+              </div>
+            </div>
+            <div class="insight">
+              <h4>Ihr Lernfortschritt</h4>
+              <div class="insight-list">
+                <div class="insight-row"><span>Balance</span><b id="balanceTxt">0/4</b></div>
+                <div class="insight-row">
+                  <span>Fehlkäufe vermieden</span><b id="avoidTxt">0</b>
+                </div>
+                <div class="insight-row"><span>Stärkstes Blatt</span><b id="strongTxt">-</b></div>
+              </div>
+            </div>
+            <img src="https://eskyna.com/images/Natalia_white_hero.png" alt="Natalia Kleemann" />
+          </aside>
         </div>
-        <div class="insight">
-          <h4>Ihr Lernfortschritt</h4>
-          <div class="insight-list">
-            <div class="insight-row"><span>Balance</span><b id="balanceTxt">0/4</b></div>
-            <div class="insight-row"><span>Fehlkäufe vermieden</span><b id="avoidTxt">0</b></div>
-            <div class="insight-row"><span>Stärkstes Blatt</span><b id="strongTxt">-</b></div>
+      </main>
+
+      <main id="end" class="screen end">
+        <div class="result-card panel">
+          <div>
+            <div class="kicker">Ihre Auswertung</div>
+            <h2 id="endHeadline">Ihre Stil-Klarheit</h2>
+            <div class="score-big" id="finalScore">0%</div>
+            <p class="end-learn" id="endLearn"></p>
+            <p id="endMessage">
+              Sie haben Stil-Signale eingeordnet. Mit EStyle wird daraus eine persönliche
+              Stil-Matrix.
+            </p>
+            <div class="metrics">
+              <div class="metric"><span>Fehlkauf-Risiko</span><b id="risk">–</b></div>
+              <div class="metric"><span>Kombinationsgefühl</span><b id="combo">–</b></div>
+              <div class="metric"><span>Diamant-Status</span><b id="diamondState">–</b></div>
+              <div class="metric"><span>Gesamtpunkte</span><b id="endTotalScore">0</b></div>
+              <div class="metric"><span>Beste Serie</span><b id="endBestStreak">0</b></div>
+              <div class="metric"><span>Level</span><b id="endLevelTitle">–</b></div>
+            </div>
+            <div class="leaf-summary">
+              <div class="leaf-mini">
+                <span class="leaf-mini-head"
+                  ><span data-icon-slot="color" data-icon-size="20"></span>Farbe</span
+                ><b id="sumColor">0</b>
+              </div>
+              <div class="leaf-mini">
+                <span class="leaf-mini-head"
+                  ><span data-icon-slot="form" data-icon-size="20"></span>Form</span
+                ><b id="sumForm">0</b>
+              </div>
+              <div class="leaf-mini">
+                <span class="leaf-mini-head"
+                  ><span data-icon-slot="impact" data-icon-size="20"></span>Wirkung</span
+                ><b id="sumImpact">0</b>
+              </div>
+              <div class="leaf-mini">
+                <span class="leaf-mini-head"
+                  ><span data-icon-slot="life" data-icon-size="20"></span>Alltag</span
+                ><b id="sumLife">0</b>
+              </div>
+            </div>
+            <div class="cta-row">
+              <button class="btn" type="button" id="btnEndPrimary">Weiter</button>
+              <button
+                class="btn secondary"
+                type="button"
+                onclick="window.open('https://eskyna.com/estyle/', '_blank')"
+              >
+                EStyle entdecken
+              </button>
+              <button class="btn secondary" type="button" id="btnRestart">
+                Nochmal von Level 1
+              </button>
+              <button class="btn secondary" type="button" id="btnEndLevels">Level wählen</button>
+              <button class="btn secondary" type="button" id="btnTutorial">Anleitung</button>
+            </div>
+          </div>
+          <div class="result-logo">
+            <img src="https://eskyna.com/images/sign.png" alt="ESKYNA Kleeblatt" />
           </div>
         </div>
-        <img src="https://eskyna.com/images/Natalia_white_hero.png" alt="Natalia Kleemann">
-      </aside>
-    </div>
-  </main>
+      </main>
 
-  <main id="end" class="screen end">
-    <div class="result-card panel">
-      <div>
-        <div class="kicker">Ihre Auswertung</div>
-        <h2 id="endHeadline">Ihre Stil-Klarheit</h2>
-        <div class="score-big" id="finalScore">0%</div>
-        <p class="end-learn" id="endLearn"></p><p id="endMessage">Sie haben Stil-Signale eingeordnet. Mit EStyle wird daraus eine persönliche Stil-Matrix.</p>
-        <div class="metrics">
-          <div class="metric"><span>Fehlkauf-Risiko</span><b id="risk">–</b></div>
-          <div class="metric"><span>Kombinationsgefühl</span><b id="combo">–</b></div>
-          <div class="metric"><span>Diamant-Status</span><b id="diamondState">–</b></div>
-          <div class="metric"><span>Gesamtpunkte</span><b id="endTotalScore">0</b></div>
-          <div class="metric"><span>Beste Serie</span><b id="endBestStreak">0</b></div>
-          <div class="metric"><span>Level</span><b id="endLevelTitle">–</b></div>
-        </div>
-        <div class="leaf-summary">
-          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="color" data-icon-size="20"></span>Farbe</span><b id="sumColor">0</b></div>
-          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="form" data-icon-size="20"></span>Form</span><b id="sumForm">0</b></div>
-          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="impact" data-icon-size="20"></span>Wirkung</span><b id="sumImpact">0</b></div>
-          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="life" data-icon-size="20"></span>Alltag</span><b id="sumLife">0</b></div>
-        </div>
-        <div class="cta-row">
-          <button class="btn" type="button" id="btnEndPrimary">Weiter</button>
-          <button class="btn secondary" type="button" onclick="window.open('https://eskyna.com/estyle/','_blank')">EStyle entdecken</button>
-          <button class="btn secondary" type="button" id="btnRestart">Nochmal von Level 1</button>
-          <button class="btn secondary" type="button" id="btnEndLevels">Level wählen</button>
-          <button class="btn secondary" type="button" id="btnTutorial">Anleitung</button>
+      <div
+        class="tutorial-overlay"
+        id="tutorialOverlay"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="tutorialTitle"
+      >
+        <div class="tutorial-card">
+          <div class="tutorial-steps" aria-hidden="true">
+            <span></span><span></span><span></span><span></span><span></span>
+          </div>
+          <h2 id="tutorialTitle">Spielanleitung</h2>
+          <p id="tutorialBody"></p>
+          <div class="tutorial-visual" id="tutorialVisual"></div>
+          <div class="tutorial-actions">
+            <button type="button" class="btn-link" id="tutorialSkip">Überspringen</button>
+            <button type="button" class="btn-link" id="tutorialBack">Zurück</button>
+            <button type="button" class="btn" id="tutorialNext">Weiter</button>
+          </div>
         </div>
       </div>
-      <div class="result-logo"><img src="https://eskyna.com/images/sign.png" alt="ESKYNA Kleeblatt"></div>
     </div>
-  </main>
-
-  <div class="tutorial-overlay" id="tutorialOverlay" role="dialog" aria-modal="true" aria-labelledby="tutorialTitle">
-    <div class="tutorial-card">
-      <div class="tutorial-steps" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
-      <h2 id="tutorialTitle">Spielanleitung</h2>
-      <p id="tutorialBody"></p>
-      <div class="tutorial-visual" id="tutorialVisual"></div>
-      <div class="tutorial-actions">
-        <button type="button" class="btn-link" id="tutorialSkip">Überspringen</button>
-        <button type="button" class="btn-link" id="tutorialBack">Zurück</button>
-        <button type="button" class="btn" id="tutorialNext">Weiter</button>
-      </div>
-    </div>
-  </div>
-</div>
-<script type="module" src="js/main.js"></script>
-</body>
+    <script type="module" src="js/main.js"></script>
+  </body>
 </html>

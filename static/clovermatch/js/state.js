@@ -1,6 +1,6 @@
-import { LEVELS } from './data.js';
-import { LEAF_IDS } from './config.js';
-import { loadProgress } from './storage.js';
+import { LEVELS } from "./data.js";
+import { LEAF_IDS } from "./config.js";
+import { loadProgress } from "./storage.js";
 
 /** Mutable runtime state for the active session. */
 export const game = {
@@ -20,7 +20,7 @@ export const game = {
   mistakes: 0,
   tutorialStep: 0,
   campaignComplete: false,
-  lastEndState: { won: false, allDone: false, bonus: 0, failMsg: '', perfect: false },
+  lastEndState: { won: false, allDone: false, bonus: 0, failMsg: "", perfect: false },
 };
 
 export function getLevel() {
@@ -34,14 +34,16 @@ export function resetRoundState() {
   game.mistakes = 0;
   game.correctTotal = 0;
   game.counts = { color: 0, form: 0, impact: 0, life: 0, letgo: 0 };
-  ['color', 'form', 'impact', 'life'].forEach((k) => {
-    document.getElementById(LEAF_IDS[k]).style.setProperty('--fill', 0);
-    document.getElementById('cnt-' + k).textContent = '0 Signale';
+  ["color", "form", "impact", "life"].forEach((k) => {
+    document.getElementById(LEAF_IDS[k]).style.setProperty("--fill", 0);
+    document.getElementById("cnt-" + k).textContent = "0 Signale";
   });
 }
 
 export function correctCount() {
-  return game.counts.color + game.counts.form + game.counts.impact + game.counts.life + game.counts.letgo;
+  return (
+    game.counts.color + game.counts.form + game.counts.impact + game.counts.life + game.counts.letgo
+  );
 }
 
 export function leafMin() {
@@ -56,5 +58,5 @@ export function strongestLeaf() {
     life: game.counts.life,
   };
   const entries = Object.entries(vals).sort((a, b) => b[1] - a[1]);
-  return entries[0][1] > 0 ? entries[0][0] : '';
+  return entries[0][1] > 0 ? entries[0][0] : "";
 }

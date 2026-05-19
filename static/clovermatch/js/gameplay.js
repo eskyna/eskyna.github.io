@@ -1,10 +1,10 @@
-import { LABELS } from './config.js';
-import { ITEMS } from './data.js';
-import { iconForItem } from './icons.js';
-import { $, setCoach, toast, updateStats } from './dom.js';
-import { animateToken, flash, sparkles } from './effects.js';
-import { goalMet } from './goals.js';
-import { game, getLevel } from './state.js';
+import { LABELS } from "./config.js";
+import { ITEMS } from "./data.js";
+import { iconForItem } from "./icons.js";
+import { $, setCoach, toast, updateStats } from "./dom.js";
+import { animateToken, flash, sparkles } from "./effects.js";
+import { goalMet } from "./goals.js";
+import { game, getLevel } from "./state.js";
 
 export function pickItem() {
   const lv = getLevel();
@@ -27,16 +27,17 @@ export function pickItem() {
 export function nextToken() {
   if (!game.running) return;
   game.current = pickItem();
-  const token = $('token');
-  token.className = 'token' + (game.current.hazard ? ' hazard' : '');
-  token.innerHTML =
-    `<span class="facet">${game.current.facet}</span><div class="icon">${iconForItem(game.current, 44)}</div><b>${game.current.text}</b><small>${game.current.sub}</small>`;
-  token.style.opacity = '1';
+  const token = $("token");
+  token.className = "token" + (game.current.hazard ? " hazard" : "");
+  token.innerHTML = `<span class="facet">${game.current.facet}</span><div class="icon">${iconForItem(game.current, 44)}</div><b>${game.current.text}</b><small>${game.current.sub}</small>`;
+  token.style.opacity = "1";
 }
 
 function gainFor(type) {
-  if (type === 'letgo') return 6;
-  const filled = [game.counts.color, game.counts.form, game.counts.impact, game.counts.life].filter((v) => v > 0).length;
+  if (type === "letgo") return 6;
+  const filled = [game.counts.color, game.counts.form, game.counts.impact, game.counts.life].filter(
+    (v) => v > 0
+  ).length;
   return filled >= 3 ? 8 : 7;
 }
 
@@ -51,7 +52,7 @@ export function answer(type, onGoalMet) {
   if (!game.running || !game.current) return;
   const right = type === game.current.type;
   if (right) {
-    const base = game.current.type === 'letgo' ? 130 : 110;
+    const base = game.current.type === "letgo" ? 130 : 110;
     const mult = 1 + Math.min(game.streak, 6) * 0.08;
     const gained = Math.round((base + balanceBonus()) * mult);
     game.score += gained;
@@ -61,7 +62,7 @@ export function answer(type, onGoalMet) {
     game.bestStreak = Math.max(game.bestStreak, game.streak);
     game.counts[game.current.type]++;
     game.correctTotal++;
-    toast('Richtig: ' + LABELS[game.current.type] + ' (+' + gained + ')', false);
+    toast("Richtig: " + LABELS[game.current.type] + " (+" + gained + ")", false);
     animateToken(game.current.type);
     flash(game.current.type, true);
     sparkles();
@@ -76,9 +77,9 @@ export function answer(type, onGoalMet) {
     game.clarity = Math.max(0, game.clarity - 7);
     game.streak = 0;
     game.mistakes++;
-    toast('Gehört zu ' + LABELS[game.current.type], true);
+    toast("Gehört zu " + LABELS[game.current.type], true);
     flash(type, false);
-    setCoach('Dieses Signal gehört zu ' + LABELS[game.current.type] + '.');
+    setCoach("Dieses Signal gehört zu " + LABELS[game.current.type] + ".");
   }
   updateStats();
   setTimeout(nextToken, 340);
