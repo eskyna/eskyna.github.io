@@ -307,8 +307,8 @@
         width: min(500px, 60vw, 60vh) !important;
         height: min(500px, 60vw, 60vh) !important;
       }
-      .frame-eskyna .eskyna-corner {
-        display: none;
+      .frame-eskyna .eskyna-finder {
+        display: block;
       }
       .frame-silk {
         border-radius: 46px;
@@ -475,8 +475,45 @@
         width: min(390px, 54vw, 52vh) !important;
         height: min(390px, 54vw, 52vh) !important;
       }
-      .eskyna-corner {
+      .eskyna-finder {
         display: none;
+        position: absolute;
+        z-index: 3;
+        width: 23.5%;
+        aspect-ratio: 1;
+        border: clamp(12px, 2.4vw, 25px) solid var(--qink);
+        background: #fff;
+        pointer-events: none;
+        box-shadow: 1px 2px 0 rgba(75, 46, 35, 0.08);
+      }
+      .eskyna-finder:before {
+        content: "";
+        position: absolute;
+        inset: 24%;
+        background: var(--qink);
+        border-radius: 30% 38% 26% 34%;
+        transform: rotate(var(--finderInner, 1deg));
+      }
+      .eskyna-finder.tl {
+        left: 0;
+        top: 0;
+        border-radius: 32% 12% 10% 14%;
+        transform: translate(calc(var(--finderShift, 0px) * -1), 0) skewX(var(--finderWarp, 0deg))
+          rotate(-1deg);
+      }
+      .eskyna-finder.tr {
+        right: 0;
+        top: 0;
+        border-radius: 12% 32% 14% 10%;
+        transform: translate(var(--finderShift, 0px), calc(var(--finderShift, 0px) * -0.25))
+          skewX(calc(var(--finderWarp, 0deg) * -1)) rotate(1deg);
+      }
+      .eskyna-finder.bl {
+        left: 0;
+        bottom: 0;
+        border-radius: 12% 10% 14% 32%;
+        transform: translate(calc(var(--finderShift, 0px) * -0.25), var(--finderShift, 0px))
+          skewY(calc(var(--finderWarp, 0deg) * -1)) rotate(1.2deg);
       }
       .grid,
       .field,
@@ -974,7 +1011,11 @@
           </div>
           <div class="stage">
             <article class="qr-card frame-soft" id="qrCard">
-              <div class="qr-box" id="qrBox"><div id="qr"></div></div>
+              <div class="qr-box" id="qrBox">
+                <span class="eskyna-finder tl"></span><span class="eskyna-finder tr"></span
+                ><span class="eskyna-finder bl"></span>
+                <div id="qr"></div>
+              </div>
             </article>
           </div>
         </section>
@@ -1283,10 +1324,13 @@
             color: f.dark.value,
             gradient: isEskyna ? undefined : gradient(),
           },
-          cornersSquareOptions: { type: f.corners.value, color: f.dark.value },
+          cornersSquareOptions: {
+            type: f.corners.value,
+            color: isEskyna ? "rgba(0,0,0,0)" : f.dark.value,
+          },
           cornersDotOptions: {
             type: f.corners.value === "square" ? "square" : "dot",
-            color: isEskyna ? f.dark.value : f.accent.value,
+            color: isEskyna ? "rgba(0,0,0,0)" : f.accent.value,
           },
           backgroundOptions: { color: f.transparent.checked ? "transparent" : f.bg.value },
           imageOptions: {
@@ -1351,10 +1395,13 @@
         dom.warpV.textContent = warp;
         dom.qrCard.style.setProperty("--qbg", f.card.value);
         dom.qrCard.style.setProperty("--qink", readable(f.card.value));
-        dom.qrCard.style.setProperty("--warpX", warp * 0.16 + "deg");
-        dom.qrCard.style.setProperty("--warpY", -warp * 0.24 + "deg");
-        dom.qrCard.style.setProperty("--warpSkewX", -warp * 0.32 + "deg");
-        dom.qrCard.style.setProperty("--warpSkewY", warp * 0.12 + "deg");
+        dom.qrCard.style.setProperty("--warpX", warp * 0.22 + "deg");
+        dom.qrCard.style.setProperty("--warpY", -warp * 0.34 + "deg");
+        dom.qrCard.style.setProperty("--warpSkewX", -warp * 0.55 + "deg");
+        dom.qrCard.style.setProperty("--warpSkewY", warp * 0.22 + "deg");
+        dom.qrCard.style.setProperty("--finderWarp", warp * 0.55 + "deg");
+        dom.qrCard.style.setProperty("--finderShift", warp * 1.4 + "px");
+        dom.qrCard.style.setProperty("--finderInner", 1 + warp * 0.25 + "deg");
         renderDesign(activeDesign);
         if (qr) qr.update(options());
         else {
@@ -1397,7 +1444,8 @@
       dom.downloadQr.addEventListener("click", async () => {
         try {
           if (!qr) update();
-          await qr.download({ name: cleanName(), extension: f.type.value });
+          if (designs[activeDesign][20] === "eskyna") await downloadEskynaQr();
+          else await qr.download({ name: cleanName(), extension: f.type.value });
           message("QR-Code wurde heruntergeladen.");
         } catch (e) {
           showError("Der Download hat nicht funktioniert. Bitte erneut versuchen.");
@@ -1476,9 +1524,80 @@
       function drawWarpedQr(ctx, img, cx, cy, size, warp) {
         ctx.save();
         ctx.translate(cx, cy);
-        ctx.transform(1 + warp * 0.003, warp * 0.003, -warp * 0.002, 1 - warp * 0.001, 0, 0);
+        ctx.transform(1 + warp * 0.006, warp * 0.006, -warp * 0.004, 1 - warp * 0.002, 0, 0);
         ctx.drawImage(img, -size / 2, -size / 2, size, size);
         ctx.restore();
+      }
+      function drawEskynaFinders(ctx, x, y, size, color, warp) {
+        let s = size * 0.235,
+          b = size * 0.048;
+        function one(px, py, flip) {
+          ctx.save();
+          ctx.translate(x + px, y + py);
+          ctx.rotate((flip || 1) * warp * 0.006);
+          ctx.transform(1 + warp * 0.002, warp * 0.003 * flip, -warp * 0.002 * flip, 1, 0, 0);
+          ctx.fillStyle = "#fff";
+          ctx.fillRect(-b, -b, s + 2 * b, s + 2 * b);
+          ctx.strokeStyle = color;
+          ctx.lineWidth = b;
+          ctx.lineJoin = "round";
+          ctx.beginPath();
+          ctx.roundRect
+            ? ctx.roundRect(0, 0, s, s, [s * 0.3, s * 0.12, s * 0.13, s * 0.16])
+            : ctx.rect(0, 0, s, s);
+          ctx.stroke();
+          ctx.fillStyle = color;
+          ctx.beginPath();
+          ctx.ellipse(s * 0.5, s * 0.5, s * 0.18, s * 0.2, warp * 0.03 * flip, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.restore();
+        }
+        one(0, 0, 1);
+        one(size - s, 0, -1);
+        one(0, size - s, -1);
+      }
+      function drawEskynaQr(ctx, img, cx, cy, size, warp) {
+        ctx.save();
+        ctx.translate(cx, cy);
+        ctx.transform(1 + warp * 0.006, warp * 0.006, -warp * 0.004, 1 - warp * 0.002, 0, 0);
+        ctx.drawImage(img, -size / 2, -size / 2, size, size);
+        drawEskynaFinders(ctx, -size / 2, -size / 2, size, f.dark.value, warp);
+        ctx.restore();
+      }
+      async function downloadEskynaQr() {
+        let S = Number(f.size.value),
+          canvas = document.createElement("canvas"),
+          ctx = canvas.getContext("2d"),
+          img = await imageFromBlob(
+            await new QRCodeStyling({ ...options(S), type: "canvas" }).getRawData("png")
+          ),
+          warp = Number(f.warp.value || 0);
+        canvas.width = canvas.height = S;
+        ctx.fillStyle = f.transparent.checked ? "rgba(255,255,255,0)" : "#fff";
+        ctx.fillRect(0, 0, S, S);
+        drawEskynaQr(ctx, img, S / 2, S / 2, S, warp);
+        let link = document.createElement("a");
+        if (f.type.value === "svg") {
+          let png = canvas.toDataURL("image/png"),
+            svg =
+              '<svg xmlns="http://www.w3.org/2000/svg" width="' +
+              S +
+              '" height="' +
+              S +
+              '"><image href="' +
+              png +
+              '" width="' +
+              S +
+              '" height="' +
+              S +
+              '"/></svg>';
+          link.href = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+          link.download = cleanName() + ".svg";
+        } else {
+          link.href = canvas.toDataURL("image/png");
+          link.download = cleanName() + ".png";
+        }
+        link.click();
       }
       function fabric(ctx, S, type, color) {
         ctx.save();
@@ -1589,7 +1708,8 @@
           ctx.strokeStyle = rgba(text, d[2] === "frame-eskyna" ? 0 : 0.1);
           ctx.stroke();
           let warp = Number(f.warp.value || 0);
-          if (warp > 0) drawWarpedQr(ctx, qrImage, S / 2, hy + holder / 2, Q, warp);
+          if (d[20] === "eskyna") drawEskynaQr(ctx, qrImage, S / 2, hy + holder / 2, Q, warp);
+          else if (warp > 0) drawWarpedQr(ctx, qrImage, S / 2, hy + holder / 2, Q, warp);
           else ctx.drawImage(qrImage, hx + 55, hy + 55, Q, Q);
           let link = document.createElement("a");
           link.download = cleanName() + "-karte.png";
