@@ -23,22 +23,22 @@
       :root {
         /* ESKYNA Specific Palette */
         --ink: #231f20;
-        --muted: #756b62;
-        --line: rgba(35, 31, 32, 0.13);
-        --paper: rgba(255, 253, 249, 0.82);
-        --cream: #fff8ef;
+        --muted: #8c8279;
+        --line: rgba(35, 31, 32, 0.08);
+        --paper: #ffffff;
+        --cream: #fcfbf9;
         --sand: #f1e5d7;
         --accent: #b99a7f;
 
         --brand-dark: #231f20;
         --brand-accent: #b99a7f;
 
-        --shadow-soft: 0 12px 34px rgba(57, 39, 25, 0.06);
-        --shadow-hover: 0 30px 70px rgba(57, 39, 25, 0.14);
+        --shadow-soft: 0 10px 30px rgba(57, 39, 25, 0.04);
+        --shadow-hover: 0 20px 50px rgba(57, 39, 25, 0.08);
 
         --radius-sm: 8px;
-        --radius-md: 18px;
-        --radius-lg: 28px;
+        --radius-md: 16px;
+        --radius-lg: 24px;
         --warp-val: 2.5;
       }
 
@@ -55,31 +55,16 @@
           -apple-system,
           sans-serif;
         color: var(--ink);
-        /* ESKYNA Signature Background */
-        background:
-          radial-gradient(circle at 9% 0, rgba(201, 164, 93, 0.24), transparent 25rem),
-          radial-gradient(circle at 92% 7%, rgba(200, 143, 134, 0.16), transparent 24rem),
-          linear-gradient(135deg, #fffaf4, #f4e7d8 52%, #fff9f1);
+        /* Clean, luxurious Eskyna Background */
+        background-color: var(--cream);
+        background-image:
+          radial-gradient(circle at 15% 0%, rgba(185, 154, 127, 0.08) 0%, transparent 40%),
+          radial-gradient(circle at 85% 100%, rgba(185, 154, 127, 0.1) 0%, transparent 50%);
         background-attachment: fixed;
         min-height: 100vh;
         display: flex;
         flex-direction: column;
         position: relative;
-      }
-
-      /* Subtle Paper Grain Overlay */
-      body:before {
-        content: "";
-        position: fixed;
-        inset: 0;
-        pointer-events: none;
-        opacity: 0.3;
-        background-image:
-          linear-gradient(rgba(35, 31, 32, 0.04) 1px, transparent 1px),
-          linear-gradient(90deg, rgba(35, 31, 32, 0.035) 1px, transparent 1px);
-        background-size: 58px 58px;
-        mask-image: linear-gradient(#000, transparent 90%);
-        z-index: -1;
       }
 
       .app-container {
@@ -99,10 +84,36 @@
         justify-content: space-between;
         align-items: center;
         padding: 12px 24px;
-        background: rgba(255, 253, 249, 0.72);
+        background: rgba(255, 255, 255, 0.8);
         backdrop-filter: blur(20px);
         border: 1px solid var(--line);
         border-radius: 999px;
+      }
+
+      .header-left {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .back-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        padding: 8px 16px 8px 12px;
+        border-radius: 999px;
+        background: transparent;
+        color: var(--muted);
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+      }
+      .back-link:hover {
+        background: var(--paper);
+        color: var(--ink);
+        box-shadow: var(--shadow-soft);
       }
 
       .brand {
@@ -111,19 +122,19 @@
         gap: 14px;
       }
       .brand img {
-        width: 50px;
-        filter: drop-shadow(0 8px 14px rgba(57, 39, 25, 0.08));
+        width: 44px;
+        filter: drop-shadow(0 4px 8px rgba(57, 39, 25, 0.05));
       }
       .brand span {
         text-transform: uppercase;
-        letter-spacing: 0.14em;
-        font-weight: 600;
-        color: var(--muted);
+        letter-spacing: 0.15em;
+        font-weight: 500;
+        color: var(--ink);
         font-size: 0.85rem;
       }
 
       .btn-inspire {
-        background: linear-gradient(135deg, #d9b76f, #b99a7f);
+        background: var(--ink);
         color: #fff;
         border: none;
         padding: 10px 22px;
@@ -131,7 +142,7 @@
         font-weight: 500;
         font-size: 0.85rem;
         cursor: pointer;
-        box-shadow: 0 8px 20px rgba(185, 154, 127, 0.25);
+        box-shadow: 0 8px 20px rgba(35, 31, 32, 0.15);
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
@@ -139,14 +150,14 @@
       }
       .btn-inspire:hover {
         transform: translateY(-1px);
-        box-shadow: 0 10px 25px rgba(185, 154, 127, 0.35);
-        filter: brightness(1.05);
+        box-shadow: 0 10px 25px rgba(35, 31, 32, 0.25);
+        background: #000;
       }
 
       .workspace {
         display: grid;
         grid-template-columns: 500px 1fr;
-        gap: 28px;
+        gap: 32px;
         flex-grow: 1;
         align-items: start;
       }
@@ -154,20 +165,19 @@
       /* --- CONTROLS --- */
       .controls-panel {
         background: var(--paper);
-        backdrop-filter: blur(22px);
         border: 1px solid var(--line);
         border-radius: var(--radius-lg);
-        padding: 34px;
-        box-shadow: var(--shadow-hover);
+        padding: 36px;
+        box-shadow: var(--shadow-soft);
         display: flex;
         flex-direction: column;
-        gap: 26px;
+        gap: 28px;
         height: calc(100vh - 120px);
         overflow-y: auto;
       }
 
       .controls-panel::-webkit-scrollbar {
-        width: 6px;
+        width: 4px;
       }
       .controls-panel::-webkit-scrollbar-thumb {
         background: rgba(35, 31, 32, 0.1);
@@ -176,11 +186,11 @@
 
       .panel-header .eyebrow {
         text-transform: uppercase;
-        letter-spacing: 0.14em;
+        letter-spacing: 0.15em;
         font-weight: 600;
         color: var(--accent);
-        font-size: 0.75rem;
-        margin-bottom: 8px;
+        font-size: 0.7rem;
+        margin-bottom: 10px;
         display: block;
       }
       .panel-header h1 {
@@ -201,7 +211,7 @@
       .tabs {
         display: flex;
         gap: 6px;
-        background: rgba(35, 31, 32, 0.06);
+        background: rgba(35, 31, 32, 0.04);
         padding: 6px;
         border-radius: 999px;
         margin-bottom: 8px;
@@ -213,7 +223,7 @@
         border: none;
         background: transparent;
         font-size: 0.85rem;
-        font-weight: 600;
+        font-weight: 500;
         color: var(--muted);
         cursor: pointer;
         transition: 0.3s;
@@ -221,7 +231,8 @@
       .tab-btn.active {
         background: #fff;
         color: var(--ink);
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        font-weight: 600;
       }
       .tab-content {
         display: none;
@@ -251,10 +262,10 @@
       .form-group > label {
         font-size: 0.75rem;
         font-weight: 600;
-        letter-spacing: 0.06em;
+        letter-spacing: 0.08em;
         text-transform: uppercase;
         color: var(--muted);
-        margin-bottom: 2px;
+        margin-bottom: 4px;
       }
 
       .form-row {
@@ -271,9 +282,9 @@
       select {
         width: 100%;
         padding: 14px 16px;
-        border: 1px solid rgba(35, 31, 32, 0.14);
-        border-radius: 14px;
-        background: rgba(255, 255, 255, 0.78);
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        background: #faf9f7;
         font-family: "Inter", sans-serif;
         font-size: 0.95rem;
         color: var(--ink);
@@ -288,9 +299,9 @@
       input:focus,
       textarea:focus,
       select:focus {
-        border-color: rgba(94, 64, 45, 0.44);
-        box-shadow: 0 0 0 4px rgba(185, 154, 127, 0.18);
-        background: rgba(255, 255, 255, 0.95);
+        border-color: var(--accent);
+        background: #fff;
+        box-shadow: 0 0 0 3px rgba(185, 154, 127, 0.1);
       }
 
       /* Custom Sliders */
@@ -298,7 +309,7 @@
         -webkit-appearance: none;
         width: 100%;
         height: 4px;
-        background: rgba(35, 31, 32, 0.1);
+        background: rgba(35, 31, 32, 0.08);
         border-radius: 5px;
         outline: none;
         margin: 10px 0;
@@ -312,7 +323,7 @@
         background: var(--accent);
         cursor: pointer;
         transition: 0.2s;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       }
       input[type="range"]::-webkit-slider-thumb:hover {
         transform: scale(1.15);
@@ -327,7 +338,7 @@
       }
       .range-val {
         font-size: 0.8rem;
-        background: rgba(255, 255, 255, 0.6);
+        background: #faf9f7;
         border: 1px solid var(--line);
         padding: 3px 10px;
         border-radius: 999px;
@@ -342,24 +353,22 @@
         gap: 12px;
       }
       .design-card {
-        padding: 14px;
+        padding: 16px 14px;
         border: 1px solid var(--line);
         border-radius: var(--radius-md);
-        background: rgba(255, 255, 255, 0.58);
+        background: #faf9f7;
         cursor: pointer;
         transition: 0.2s;
         text-align: left;
-        color: #4e433c;
+        color: var(--ink);
       }
       .design-card:hover {
-        border-color: rgba(35, 31, 32, 0.32);
-        transform: translateY(-2px);
-        box-shadow: var(--shadow-soft);
-        background: rgba(255, 255, 255, 0.9);
+        border-color: rgba(35, 31, 32, 0.2);
+        background: #fff;
       }
       .design-card.active {
-        outline: 3px solid rgba(185, 154, 127, 0.34);
-        border-color: rgba(35, 31, 32, 0.32);
+        outline: 2px solid var(--accent);
+        border-color: transparent;
         background: #fff;
       }
       .design-card strong {
@@ -388,7 +397,7 @@
         border: 1px solid var(--line);
         cursor: pointer;
         transition: transform 0.2s;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
         position: relative;
       }
       .color-swatch:hover {
@@ -410,17 +419,17 @@
         display: flex;
         align-items: center;
         gap: 10px;
-        background: rgba(255, 255, 255, 0.6);
+        background: #faf9f7;
         padding: 8px 14px;
         border: 1px solid var(--line);
-        border-radius: 14px;
+        border-radius: 12px;
         transition: 0.2s;
       }
       .color-picker-wrap input[type="color"] {
         -webkit-appearance: none;
         border: none;
-        width: 24px;
-        height: 24px;
+        width: 22px;
+        height: 22px;
         border-radius: 50%;
         cursor: pointer;
         padding: 0;
@@ -437,7 +446,7 @@
       .color-picker-wrap span {
         font-size: 0.85rem;
         font-weight: 500;
-        color: #4e433c;
+        color: var(--ink);
       }
       .color-picker-wrap.disabled {
         opacity: 0.4;
@@ -451,15 +460,12 @@
         display: flex;
         align-items: center;
         gap: 10px;
-        font-size: 0.88rem;
-        font-weight: 500;
-        color: var(--muted);
-        cursor: pointer;
-        padding: 8px 0;
-        transition: color 0.2s;
-      }
-      .checkbox-wrap:hover {
+        font-size: 0.9rem;
+        font-weight: 400;
         color: var(--ink);
+        cursor: pointer;
+        padding: 6px 0;
+        transition: color 0.2s;
       }
       .checkbox-wrap input[type="checkbox"] {
         width: 18px;
@@ -486,24 +492,25 @@
       .btn-primary {
         background: var(--ink);
         color: #fffaf4;
-        box-shadow: 0 12px 25px rgba(35, 31, 32, 0.11);
+        box-shadow: 0 8px 20px rgba(35, 31, 32, 0.15);
       }
       .btn-primary:hover {
         background: #000;
         transform: translateY(-2px);
-        box-shadow: 0 16px 30px rgba(35, 31, 32, 0.2);
+        box-shadow: 0 12px 25px rgba(35, 31, 32, 0.25);
       }
       .btn-secondary {
-        background: rgba(255, 255, 255, 0.66);
+        background: #faf9f7;
         color: var(--ink);
-        border: 1px solid rgba(35, 31, 32, 0.15);
+        border: 1px solid var(--line);
         font-size: 0.85rem;
         padding: 10px 18px;
       }
       .btn-secondary:hover {
-        background: rgba(255, 255, 255, 0.9);
+        background: #fff;
         transform: translateY(-1px);
-        box-shadow: 0 12px 25px rgba(35, 31, 32, 0.08);
+        box-shadow: 0 4px 12px rgba(35, 31, 32, 0.05);
+        border-color: rgba(35, 31, 32, 0.2);
       }
 
       #export-format {
@@ -514,29 +521,29 @@
         appearance: none;
         background: url('data:image/svg+xml;utf8,<svg fill="%23231f20" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>')
           no-repeat right 12px center / 24px;
-        background-color: rgba(255, 255, 255, 0.66);
-        border: 1px solid rgba(35, 31, 32, 0.15);
+        background-color: #faf9f7;
+        border: 1px solid var(--line);
         font-family: "Inter", sans-serif;
       }
       #export-format:hover {
-        background-color: rgba(255, 255, 255, 0.9);
+        background-color: #fff;
       }
 
       /* Advanced Settings Collapsible */
       .advanced-settings {
         border: 1px solid var(--line);
         border-radius: var(--radius-md);
-        background: rgba(255, 255, 255, 0.4);
+        background: #faf9f7;
         transition: all 0.3s ease;
         margin-top: 8px;
       }
       .advanced-settings[open] {
-        background: rgba(255, 255, 255, 0.7);
+        background: #ffffff;
         box-shadow: var(--shadow-soft);
       }
       .advanced-settings summary {
         padding: 16px 20px;
-        font-weight: 600;
+        font-weight: 500;
         color: var(--ink);
         cursor: pointer;
         list-style: none;
@@ -564,111 +571,86 @@
         padding: 0 20px 24px;
         display: flex;
         flex-direction: column;
-        gap: 22px;
-        border-top: 1px solid rgba(35, 31, 32, 0.05);
+        gap: 24px;
+        border-top: 1px solid var(--line);
         margin-top: 4px;
-        padding-top: 20px;
+        padding-top: 24px;
       }
 
-      /* --- PREVIEW STAGE --- */
+      /* --- STYLISH PREVIEW STAGE --- */
       .preview-stage {
         position: sticky;
         top: 24px;
-        background: transparent;
         height: calc(100vh - 120px);
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         perspective: 1400px;
-        overflow: visible;
+        overflow: hidden;
+
+        /* Veredelte Bühne */
+        background: radial-gradient(
+          circle at 50% 50%,
+          rgba(255, 255, 255, 0.9) 0%,
+          rgba(241, 229, 215, 0.4) 100%
+        );
+        border: 1px solid rgba(255, 255, 255, 0.9);
+        border-radius: var(--radius-lg);
+        box-shadow:
+          inset 0 0 60px rgba(255, 255, 255, 0.8),
+          0 20px 40px rgba(57, 39, 25, 0.03);
       }
 
+      /* Schwebende atmosphärische Licht-Orbs (sehr subtil) */
+      .stage-orb {
+        position: absolute;
+        border-radius: 50%;
+        filter: blur(50px);
+        opacity: 0.3;
+        z-index: 0;
+        pointer-events: none;
+        animation: floatOrb 15s infinite alternate ease-in-out;
+      }
+      .orb-1 {
+        width: 350px;
+        height: 350px;
+        background: rgba(201, 164, 93, 0.2);
+        top: 5%;
+        left: 5%;
+      }
+      .orb-2 {
+        width: 450px;
+        height: 450px;
+        background: rgba(255, 255, 255, 0.5);
+        bottom: -10%;
+        right: -5%;
+        animation-delay: -5s;
+      }
+
+      @keyframes floatOrb {
+        0% {
+          transform: translate(0, 0) scale(1);
+        }
+        100% {
+          transform: translate(30px, -20px) scale(1.05);
+        }
+      }
+
+      /* Der innere Container, der sanft schwebt */
       .qr-frame {
         position: relative;
-        background: #fff;
+        background: transparent;
         padding: 40px;
-        border-radius: 40px;
-        box-shadow: 0 40px 100px rgba(58, 34, 24, 0.15);
         display: flex;
         justify-content: center;
         align-items: center;
-        transition:
-          transform 0.1s ease-out,
-          border-radius 0.5s ease,
-          background 0.5s ease,
-          backdrop-filter 0.5s ease;
-        transform-style: preserve-3d;
-        will-change: transform;
-      }
-
-      /* 3D Glare Reflection (Spot UV Feel) */
-      .qr-frame::after {
-        content: "";
-        position: absolute;
-        inset: 0;
-        border-radius: inherit;
-        background: radial-gradient(
-          circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
-          rgba(255, 255, 255, 0.7) 0%,
-          transparent 50%
-        );
-        opacity: 0;
-        transition: opacity 0.3s;
-        pointer-events: none;
         z-index: 10;
-        mix-blend-mode: overlay;
-      }
-      .preview-stage:hover .qr-frame::after {
-        opacity: 1;
-      }
-
-      /* Themes */
-      .style-eskyna {
-        border-radius: 0;
-        padding: 24px;
-        background: #ffffff;
-      }
-      .style-silk {
-        border-radius: 46px;
-        background: linear-gradient(145deg, #fffaf4, #ead8c5);
-        border: 1px solid rgba(255, 255, 255, 0.6);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.2),
-          0 34px 88px rgba(47, 32, 21, 0.18);
-      }
-      .style-linen {
-        border-radius: 30px;
-        background:
-          repeating-linear-gradient(45deg, rgba(64, 47, 35, 0.02) 0 1px, transparent 1px 11px),
-          #f5efeb;
-        box-shadow:
-          inset 0 0 0 14px rgba(255, 255, 255, 0.4),
-          0 30px 82px rgba(47, 32, 21, 0.15);
-      }
-      .style-wine {
-        border-radius: 38px;
-        background: linear-gradient(145deg, #471625, #2a141b);
-        box-shadow:
-          inset 0 0 0 18px rgba(255, 255, 255, 0.05),
-          0 36px 92px rgba(45, 13, 23, 0.3);
-        padding: 48px;
-      }
-      .style-glass {
-        border-radius: 32px;
-        background: rgba(255, 255, 255, 0.2);
-        backdrop-filter: blur(24px);
-        -webkit-backdrop-filter: blur(24px);
-        border: 1px solid rgba(255, 255, 255, 0.5);
-        box-shadow:
-          inset 0 0 0 1px rgba(255, 255, 255, 0.6),
-          0 30px 70px rgba(58, 34, 24, 0.1);
-        padding: 36px;
       }
 
       #qr-wrapper {
         position: relative;
-        /* FIX: Verwendung einer flachen 2D-Matrix anstelle von 3D-CSS, um WebKit-Clipping-Bugs auszuschließen */
+        /* Flache 2D-Matrix vermeidet WebKit-Clipping-Bugs vollständig */
         transform: matrix(1, 0.05, -0.025, 0.9125, 0, 0);
         transform-origin: center;
         transition: transform 0.1s linear;
@@ -677,6 +659,11 @@
         flex-direction: column;
         align-items: center;
         will-change: transform;
+
+        /* Basis-Schatten für das Papierobjekt */
+        box-shadow:
+          0 40px 80px rgba(58, 34, 24, 0.12),
+          inset 0 0 0 1px rgba(255, 255, 255, 0.5);
       }
 
       /* Layered Rendering for Materials */
@@ -711,7 +698,7 @@
         background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='marble'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.01 0.05' numOctaves='3' result='noise'/%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1.5 -0.2' in='noise'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23marble)' opacity='0.15'/%3E%3C/svg%3E");
       }
 
-      /* THE FIX: Wir rendern das Endresultat (QR + Ecken + Signatur + Effekte) flach als 1 Bild */
+      /* Das flache Preview-Image verhindert WebKit-3D-Bugs */
       #qr-preview-img {
         position: relative;
         z-index: 3;
@@ -721,6 +708,33 @@
         width: 100%;
         height: auto;
         max-width: 450px;
+      }
+
+      /* Themes (Internal variables only now, physical styling is on wrapper) */
+      .style-eskyna {
+        --rad-internal: 0px;
+        --bg-internal: #ffffff;
+      }
+      .style-silk {
+        --rad-internal: 46px;
+        --bg-internal: linear-gradient(145deg, #fffaf4, #ead8c5);
+      }
+      .style-linen {
+        --rad-internal: 30px;
+        --bg-internal:
+          repeating-linear-gradient(45deg, rgba(64, 47, 35, 0.02) 0 1px, transparent 1px 11px),
+          #f5efeb;
+      }
+      .style-wine {
+        --rad-internal: 38px;
+        --bg-internal: linear-gradient(145deg, #471625, #2a141b);
+      }
+      .style-glass {
+        --rad-internal: 32px;
+        --bg-internal: rgba(255, 255, 255, 0.4);
+        backdrop-filter: blur(24px);
+        -webkit-backdrop-filter: blur(24px);
+        border: 1px solid rgba(255, 255, 255, 0.6);
       }
 
       /* System Toasts */
@@ -751,7 +765,7 @@
         display: flex;
         align-items: center;
         gap: 14px;
-        background: rgba(255, 255, 255, 0.6);
+        background: #faf9f7;
         border: 1px dashed rgba(185, 154, 127, 0.6);
         border-radius: 16px;
         padding: 12px;
@@ -761,7 +775,7 @@
       .logo-upload-container:hover {
         border-style: solid;
         border-color: var(--accent);
-        background: rgba(255, 255, 255, 0.9);
+        background: #fff;
       }
       .logo-preview-box {
         width: 52px;
@@ -800,22 +814,40 @@
   <body>
     <div class="app-container">
       <header>
-        <div class="brand">
-          <img src="https://eskyna.com/images/sign.png" alt="ESKYNA Logo" />
-          <span>QR-Atelier</span>
+        <div class="header-left">
+          <a href="https://eskyna.com" class="back-link" title="Zurück zu ESKYNA">
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <line x1="19" y1="12" x2="5" y2="12"></line>
+              <polyline points="12 19 5 12 12 5"></polyline>
+            </svg>
+            eskyna.com
+          </a>
+          <div class="brand">
+            <img src="https://eskyna.com/images/sign.png" alt="ESKYNA Logo" />
+            <span>QR-Atelier</span>
+          </div>
         </div>
-        <button class="btn-inspire" id="btn-inspire">✨ Inspiriere mich</button>
+        <button class="btn-inspire" id="btn-inspire">✨ Inspiration</button>
       </header>
 
       <div class="workspace">
         <!-- Controls -->
         <aside class="controls-panel">
           <div class="panel-header">
-            <span class="eyebrow">QR-Code Gestalten</span>
+            <span class="eyebrow">Dein persönlicher QR-Code</span>
             <h1>Design-Objekt</h1>
             <p>
-              Erschaffe einen faszinierenden, markengerechten QR-Code. Ideal für Webseiten, digitale
-              Visitenkarten oder WLAN.
+              Gestalte einen eleganten QR-Code für deine Webseite, digitale Visitenkarte oder dein
+              Netzwerk – perfekt abgestimmt auf deine Marke.
             </p>
           </div>
 
@@ -864,7 +896,7 @@
           </div>
 
           <div class="form-group">
-            <label>Marken-Signatur (Optional)</label>
+            <label>Marken-Signatur (Optionaler Text)</label>
             <input
               type="text"
               id="inp-signature"
@@ -876,8 +908,8 @@
           <div
             class="form-group"
             style="
-              background: rgba(255, 255, 255, 0.4);
-              padding: 18px;
+              background: rgba(251, 249, 245, 0.6);
+              padding: 20px;
               border-radius: var(--radius-md);
               border: 1px solid var(--line);
             "
@@ -903,7 +935,7 @@
           </div>
 
           <div class="form-group">
-            <label>Atelier Rahmenstil</label>
+            <label>Design-Thema</label>
             <div class="design-grid">
               <button class="design-card active" data-style="eskyna">
                 <strong>ESKYNA Original</strong><span>Blüten-Ecken, minimalistisch</span>
@@ -918,13 +950,13 @@
                 <strong>Wein</strong><span>Tiefer Kontrast, luxuriös</span>
               </button>
               <button class="design-card" data-style="glass">
-                <strong>Acrylglas</strong><span>Transluzent, Frosted-Glass</span>
+                <strong>Acrylglas</strong><span>Transluzent, moderner Look</span>
               </button>
             </div>
           </div>
 
           <div class="form-group">
-            <label>Luxuriöse Paletten</label>
+            <label>Farbwelt</label>
             <div class="color-presets" id="preset-grid">
               <!-- Populated via JS -->
             </div>
@@ -936,7 +968,7 @@
               </div>
               <div class="color-picker-wrap">
                 <input type="color" id="inp-color-bg" value="#ffffff" /><span
-                  >Papierfarbe (Hinten)</span
+                  >Hintergrund (Papier)</span
                 >
               </div>
             </div>
@@ -944,22 +976,26 @@
 
           <!-- COLLAPSIBLE ADVANCED SETTINGS -->
           <details class="advanced-settings">
-            <summary>✨ Exklusive Detailoptionen</summary>
+            <summary>✨ Feinschliff & Veredelung</summary>
             <div class="advanced-settings-content">
               <div class="form-group">
-                <label>Exklusive Design-Elemente</label>
+                <label>Zusätzliche Details</label>
                 <div style="display: grid; grid-template-columns: 1fr; gap: 10px">
                   <label class="checkbox-wrap"
-                    ><input type="checkbox" id="inp-two-tone" /> Zweifarbige Blüten (Two-Tone
-                    Ecken)</label
+                    ><input type="checkbox" id="inp-passepartout" /> Passepartout (Feiner
+                    Innenrahmen)</label
+                  >
+                  <label class="checkbox-wrap"
+                    ><input type="checkbox" id="inp-two-tone" /> Zweifarbige Akzente in den
+                    Ecken</label
                   >
                 </div>
               </div>
 
               <div class="form-group" style="margin-top: 6px">
-                <label>Logo-Feinabstimmung</label>
+                <label>Logo-Anpassung</label>
                 <div class="range-label-wrap" style="margin-top: 0">
-                  <span style="font-size: 0.8rem; color: var(--muted); font-weight: 500"
+                  <span style="font-size: 0.85rem; color: var(--ink); font-weight: 400"
                     >Logo-Größe</span
                   >
                   <span class="range-val" id="val-logo-size">28%</span>
@@ -967,38 +1003,38 @@
                 <input type="range" id="inp-logo-size" min="10" max="45" step="1" value="28" />
                 <label class="checkbox-wrap" style="margin-top: 6px">
                   <input type="checkbox" id="inp-hide-dots" checked /> QR-Punkte hinter dem Logo
-                  ausblenden
+                  ausblenden (Freistellen)
                 </label>
               </div>
 
               <div class="form-row">
                 <div class="form-group">
-                  <label>Form & Architektur</label>
+                  <label>Punkt-Design</label>
                   <select id="inp-dots">
                     <option value="dots">ESKYNA Punkte</option>
-                    <option value="rounded">Weich</option>
+                    <option value="rounded">Weich abgerundet</option>
                     <option value="classy-rounded">Elegant</option>
-                    <option value="square">Klassisch</option>
+                    <option value="square">Klassisch eckig</option>
                   </select>
                 </div>
                 <div class="form-group">
-                  <label>Material & Finish</label>
+                  <label>Hintergrund-Effekt</label>
                   <select id="inp-material">
-                    <option value="clean">Klar / Digital</option>
-                    <option value="paper">Fine Art Papier (Körnung)</option>
-                    <option value="marble">Marmor (Liquid Marble)</option>
+                    <option value="clean">Klassisch glatt</option>
+                    <option value="paper">Edles Naturpapier</option>
+                    <option value="marble">Marmor-Textur</option>
                   </select>
                 </div>
               </div>
 
               <div class="form-group">
-                <label>Spezialverläufe & Folien</label>
+                <label>Farbveredelung & Folien</label>
                 <div class="form-row">
                   <select id="inp-gradient-type" style="font-size: 0.9rem">
                     <option value="solid">Einfarbig</option>
                     <option value="linear">Sanfter linearer Verlauf</option>
                     <option value="radial">Radialer Glanz</option>
-                    <option value="gold">✨ Goldfolie</option>
+                    <option value="gold">✨ Goldprägung</option>
                     <option value="iridescent">✨ Holografische Folie</option>
                     <option value="liquidmetal">✨ Flüssiges Metall</option>
                   </select>
@@ -1016,44 +1052,52 @@
               </div>
 
               <div class="form-group">
-                <label>Spezial-Effekte</label>
+                <label>Besondere Effekte</label>
                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px">
                   <label class="checkbox-wrap" style="padding-top: 0"
-                    ><input type="checkbox" id="inp-emboss" /> Letterpress</label
+                    ><input type="checkbox" id="inp-emboss" /> Letterpress (Prägung)</label
                   >
                   <label class="checkbox-wrap" style="padding-top: 0"
-                    ><input type="checkbox" id="inp-glow" /> Aura-Glanz</label
+                    ><input type="checkbox" id="inp-glow" /> Sanftes Leuchten (Aura)</label
                   >
                   <label class="checkbox-wrap" style="padding-top: 0; grid-column: span 2"
                     ><input type="checkbox" id="inp-transparent" /> Transparenter Hintergrund</label
                   >
                 </div>
-                <div class="range-label-wrap" style="margin-top: 12px">
+                <div class="range-label-wrap" style="margin-top: 16px">
                   <label
                     style="
                       color: var(--ink);
-                      font-weight: 600;
+                      font-weight: 500;
                       text-transform: none;
                       margin-bottom: 0;
                     "
-                    >Perspektivische Neigung</label
+                    >Räumliche Darstellung</label
                   >
                   <span class="range-val" id="val-warp">2.5</span>
                 </div>
                 <input type="range" id="inp-warp" min="0" max="6" step="0.1" value="2.5" />
-                <span style="font-size: 0.8rem; color: var(--muted); line-height: 1.4"
-                  >Erzeugt beim Export ein isometrisches Mockup.</span
+                <span
+                  style="
+                    font-size: 0.8rem;
+                    color: var(--muted);
+                    line-height: 1.4;
+                    margin-top: 4px;
+                    display: block;
+                  "
+                  >Verleiht dem Code eine elegante, dreidimensionale Wirkung für
+                  Präsentationen.</span
                 >
               </div>
             </div>
           </details>
 
-          <div class="form-group" style="margin-top: 14px; margin-bottom: 20px">
-            <label>HQ-Objekt exportieren</label>
+          <div class="form-group" style="margin-top: 14px; margin-bottom: 10px">
+            <label>Herunterladen</label>
             <div style="display: flex; gap: 12px; height: 54px">
               <select id="export-format">
-                <option value="png">PNG HD (Druck)</option>
-                <option value="svg">SVG Vektor</option>
+                <option value="png">Bild (PNG) - Optimal für Druck & Web</option>
+                <option value="svg">Vektor (SVG) - Für Grafiker</option>
               </select>
               <button id="btn-download" class="btn btn-primary" style="flex-grow: 1">
                 <svg
@@ -1071,14 +1115,18 @@
                   <polyline points="7 10 12 15 17 10"></polyline>
                   <line x1="12" y1="15" x2="12" y2="3"></line>
                 </svg>
-                Herunterladen
+                Speichern
               </button>
             </div>
           </div>
         </aside>
 
-        <!-- Preview -->
+        <!-- Stylish Preview Stage -->
         <main class="preview-stage" id="preview-stage">
+          <!-- Floating Ambient Orbs -->
+          <div class="stage-orb orb-1"></div>
+          <div class="stage-orb orb-2"></div>
+
           <div class="qr-frame style-eskyna" id="qr-frame">
             <div id="qr-wrapper">
               <div id="qr-bg"></div>
@@ -1098,7 +1146,7 @@
       // System Constants
       const ESKYNA_LOGO_URL = "https://eskyna.com/images/sign.png";
       let customLogoURL = null;
-      const PREVIEW_SIZE = 600; // Increased resolution for sharp preview rendering
+      const PREVIEW_SIZE = 600;
       let currentStyle = "eskyna";
       let activeTab = "tab-url";
       let previewDebounceTimer = null;
@@ -1127,6 +1175,7 @@
         glow: document.getElementById("inp-glow"),
         emboss: document.getElementById("inp-emboss"),
         twoTone: document.getElementById("inp-two-tone"),
+        passepartout: document.getElementById("inp-passepartout"),
 
         // vCard Inputs
         vcFirst: document.getElementById("inp-vc-first"),
@@ -1382,6 +1431,35 @@
         return `<path fill="${colorOuter}" fill-rule="evenodd" d="${outer} ${inner}" /><path fill="${colorInner}" d="${dot}" />`;
       }
 
+      // Elegant Passepartout Generators
+      function drawPassepartout(ctx, size, color) {
+        const p = size * 0.035;
+        const p2 = p + size * 0.01;
+        const r = size * 0.04;
+        const r2 = r - size * 0.01;
+        ctx.strokeStyle = color;
+        ctx.lineWidth = Math.max(1, size * 0.002);
+        ctx.beginPath();
+        if (ctx.roundRect) ctx.roundRect(p, p, size - p * 2, size - p * 2, r);
+        else ctx.rect(p, p, size - p * 2, size - p * 2);
+        ctx.stroke();
+        ctx.lineWidth = Math.max(0.5, size * 0.001);
+        ctx.beginPath();
+        if (ctx.roundRect) ctx.roundRect(p2, p2, size - p2 * 2, size - p2 * 2, r2);
+        else ctx.rect(p2, p2, size - p2 * 2, size - p2 * 2);
+        ctx.stroke();
+      }
+
+      function getPassepartoutSVG(size, color) {
+        const p = size * 0.035;
+        const p2 = p + size * 0.01;
+        const r = size * 0.04;
+        const r2 = r - size * 0.01;
+        const lw1 = Math.max(1, size * 0.002);
+        const lw2 = Math.max(0.5, size * 0.001);
+        return `<rect x="${p}" y="${p}" width="${size - p * 2}" height="${size - p * 2}" rx="${r}" fill="none" stroke="${color}" stroke-width="${lw1}" opacity="0.8"/><rect x="${p2}" y="${p2}" width="${size - p2 * 2}" height="${size - p2 * 2}" rx="${r2}" fill="none" stroke="${color}" stroke-width="${lw2}" opacity="0.6"/>`;
+      }
+
       function buildQROptions(
         data,
         darkColor,
@@ -1464,6 +1542,7 @@
       }
 
       function applyThemeSettings(style) {
+        // Internal variables only now, physical styling is mapped cleanly to the wrapper
         if (style === "wine") {
           dom.colorDark.value = "#ffffff";
           dom.colorBg.value = "#471625";
@@ -1532,13 +1611,12 @@
       function updateWarpTransform() {
         const w = parseFloat(dom.warp.value) || 0;
         dom.valWarp.textContent = w;
-        // Exakte 2D-Affine-Matrix, die 1:1 der Canvas-Export-Logik entspricht (ohne 3D-Bugs)
         dom.wrapper.style.transform = `matrix(1, ${w * 0.02}, ${w * -0.01}, ${1 - w * 0.035}, 0, 0)`;
       }
 
       async function renderPreviewLogic() {
-        const currentRunId = ++renderCounter; // Guard against race conditions
-        dom.qrPreviewImg.style.opacity = 0.5; // Visual feedback that it's loading
+        const currentRunId = ++renderCounter;
+        dom.qrPreviewImg.style.opacity = 0.5;
 
         const data = getQRData();
         const darkColor = dom.colorDark.value;
@@ -1546,13 +1624,12 @@
         const bgColor = dom.colorBg.value;
         const typeNumber = getOptimalTypeNumber(data.length);
         const isTransparent = dom.transparent.checked;
-        const logoScale = parseInt(dom.logoSize.value) / 100;
         const sigText = dom.signature.value.trim();
+        const hasPassepartout = dom.passepartout.checked;
 
         const sigHeight = sigText ? PREVIEW_SIZE * 0.15 : 0;
         const totalHeight = PREVIEW_SIZE + sigHeight;
 
-        // Update UI Elements
         dom.valLogoSize.textContent = dom.logoSize.value + "%";
 
         dom.bgLayer.style.background = isTransparent ? "transparent" : bgColor;
@@ -1565,9 +1642,7 @@
           filters.push("drop-shadow(-1.5px -1.5px 1px rgba(0,0,0,0.35))");
           filters.push("drop-shadow(1.5px 1.5px 1px rgba(255,255,255,0.8))");
         }
-        if (dom.glow.checked) {
-          filters.push(`drop-shadow(0 0 15px ${hexToRgba(darkColor, 0.4)})`);
-        }
+        if (dom.glow.checked) filters.push(`drop-shadow(0 0 15px ${hexToRgba(darkColor, 0.4)})`);
         dom.qrPreviewImg.style.filter = filters.length > 0 ? filters.join(" ") : "none";
 
         const isCustomGradient = ["solid", "gold", "iridescent", "liquidmetal"].includes(
@@ -1585,12 +1660,9 @@
         );
 
         try {
-          // DIE LÖSUNG: Wir warten auf das finale, berechnete Blob-Bild der Library,
-          // statt mit 'setTimeout' zu raten, wann sie fertig ist.
           const qrGen = new QRCodeStyling(options);
           const blob = await qrGen.getRawData("png");
-
-          if (currentRunId !== renderCounter) return; // Veralteten Render abbrechen
+          if (currentRunId !== renderCounter) return;
 
           const srcImg = await blobToImage(blob);
 
@@ -1599,13 +1671,13 @@
           cvs.height = totalHeight;
           const ctx = cvs.getContext("2d");
 
-          // Draw QR
+          let colors = getSpecialColors();
+          if (hasPassepartout) drawPassepartout(ctx, PREVIEW_SIZE, colors.outer);
+
           ctx.drawImage(srcImg, 0, 0);
 
-          // Draw Custom Overlays
           const moduleCount = typeNumber * 4 + 17;
           const finderSize = (PREVIEW_SIZE / moduleCount) * 7;
-          let colors = getSpecialColors();
 
           ctx.save();
           drawEskynaPetalFinder(ctx, "tl", finderSize, colors.outer, colors.inner);
@@ -1619,7 +1691,6 @@
           drawEskynaPetalFinder(ctx, "bl", finderSize, colors.outer, colors.inner);
           ctx.restore();
 
-          // Signature Text
           if (sigText) {
             ctx.font = `500 ${PREVIEW_SIZE * 0.06}px "Playfair Display", serif`;
             ctx.textAlign = "center";
@@ -1627,7 +1698,6 @@
             ctx.fillText(sigText, PREVIEW_SIZE / 2, PREVIEW_SIZE + sigHeight * 0.6);
           }
 
-          // Convert to Data URL and push to image
           dom.qrPreviewImg.src = cvs.toDataURL("image/png");
           dom.qrPreviewImg.style.opacity = 1;
         } catch (err) {
@@ -1654,8 +1724,8 @@
           const hasEmboss = dom.emboss.checked;
           const hasPaper = dom.material.value === "paper";
           const hasMarble = dom.material.value === "marble";
-          const logoScale = parseInt(dom.logoSize.value) / 100;
           const sigText = dom.signature.value.trim();
+          const hasPassepartout = dom.passepartout.checked;
 
           const exportSize = format === "png" ? 2000 : 1000;
           const sigHeight = sigText ? exportSize * 0.15 : 0;
@@ -1674,7 +1744,7 @@
           let colors = getSpecialColors();
 
           if (format === "svg") {
-            // --- SVG Export ---
+            // --- Elegant Affine SVG Export ---
             const svgBlob = await tempQR.getRawData("svg");
             let svgText = await svgBlob.text();
 
@@ -1701,7 +1771,6 @@
 
             svgText = svgText.replace("</svg>", pathTL + pathTR + pathBL + "</svg>");
 
-            // Adjust SVG boundaries for signature
             if (sigText) {
               svgText = svgText.replace(/height="(\d+)"/, `height="${totalHeight}"`);
               svgText = svgText.replace(
@@ -1731,6 +1800,10 @@
               ? `<filter id="embossFilter"><feDropShadow dx="-2" dy="-2" stdDeviation="2" flood-color="#000" flood-opacity="0.35"/><feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#fff" flood-opacity="0.8"/></filter>`
               : "";
 
+            let passepartoutNode = hasPassepartout
+              ? getPassepartoutSVG(exportSize, colors.outer)
+              : "";
+
             let textNode = "";
             if (sigText) {
               textNode = `<text x="${exportSize / 2}" y="${exportSize + sigHeight * 0.6}" font-family="Playfair Display, serif" font-size="${exportSize * 0.06}" fill="${colors.outer}" text-anchor="middle" letter-spacing="0.15em">${sigText}</text>`;
@@ -1740,7 +1813,7 @@
               /(<svg[^>]*>)/,
               `$1<defs>${embossFilter}</defs>${bgRect}${matFilter}<g ${contentTransform} filter="${hasEmboss ? "url(#embossFilter)" : ""}">`
             );
-            svgText = svgText.replace("</svg>", `</g>${textNode}</svg>`);
+            svgText = svgText.replace("</svg>", `${passepartoutNode}</g>${textNode}</svg>`);
 
             const link = document.createElement("a");
             link.download = `eskyna-qr-luxury.svg`;
@@ -1748,7 +1821,6 @@
             link.click();
           } else {
             // --- Elegant Affine PNG Export ---
-            // DIE LÖSUNG (Export): Absolut sauberes Warten auf das finale Bild
             const blob = await tempQR.getRawData("png");
             const srcImg = await blobToImage(blob);
 
@@ -1805,7 +1877,12 @@
               ctx.translate(-exportSize / 2, -exportSize / 2);
             }
 
-            // Original QR auf Basis zeichnen
+            if (hasEmboss)
+              ctx.filter =
+                "drop-shadow(-3px -3px 2px rgba(0,0,0,0.35)) drop-shadow(3px 3px 2px rgba(255,255,255,0.8))";
+
+            if (hasPassepartout) drawPassepartout(ctx, exportSize, colors.outer);
+
             ctx.drawImage(srcImg, 0, 0);
 
             const moduleCount = typeNumber * 4 + 17;
@@ -1825,11 +1902,13 @@
 
             ctx.restore();
 
-            // Draw Signature Text
             if (sigText) {
               ctx.font = `500 ${exportSize * 0.06}px "Playfair Display", serif`;
               ctx.textAlign = "center";
               ctx.fillStyle = colors.outer;
+              if (hasEmboss)
+                ctx.filter =
+                  "drop-shadow(-2px -2px 1px rgba(0,0,0,0.3)) drop-shadow(2px 2px 1px rgba(255,255,255,0.8))";
               ctx.fillText(sigText, exportSize / 2, exportSize + sigHeight * 0.6);
             }
 
@@ -1846,12 +1925,11 @@
           console.error(err);
           alert("Fehler beim Exportieren. Bitte stelle sicher, dass das Logo unterstützt wird.");
         } finally {
-          dom.btnDownload.innerHTML = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg> Herunterladen`;
+          dom.btnDownload.innerHTML = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg> Speichern`;
           dom.btnDownload.disabled = false;
         }
       });
 
-      // Direkte, flüssige Transform-Updates bei Slider-Bewegung
       dom.warp.addEventListener("input", updateWarpTransform);
 
       // --- UI Event Listeners ---
@@ -1870,6 +1948,7 @@
         dom.logoSize,
         dom.hideDots,
         dom.twoTone,
+        dom.passepartout,
         dom.vcFirst,
         dom.vcLast,
         dom.vcOrg,
@@ -1949,6 +2028,7 @@
         const mats = ["clean", "paper", "marble"];
         dom.material.value = mats[Math.floor(Math.random() * mats.length)];
         dom.twoTone.checked = Math.random() > 0.6;
+        dom.passepartout.checked = Math.random() > 0.8;
         dom.logoSize.value = Math.floor(Math.random() * 15) + 20;
 
         updateWarpTransform();
