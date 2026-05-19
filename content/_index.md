@@ -7,9 +7,6 @@ hero:
   ctaText: "Kostenloses Erstgespräch"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   image: "images/Natalia_white_hero.png"
-  trust:
-    - "Online & vor Ort"
-    - "Mit System"
 problems:
   title: "Erkennen Sie sich hier wieder?"
   items:
@@ -188,7 +185,7 @@ method:
   title: "Mehr als Stilberatung: eine Methode mit System"
   intro: "Mit der ESKYNA Methode entwickelt Natalia Kleemann einen Stil nicht nur nach Geschmack, sondern nach Persönlichkeit, Wirkung und Lebensrealität. In sechs Schritten entsteht ein Auftritt, der klar, authentisch und tragfähig ist."
   tagline: "Essenz — Signale — Kernsprache — Your Signature — Neue Garderobenlogik — Aktivierung"
-  quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen — als sichtbaren Ausdruck von Persönlichkeit, Präsenz und Selbstvertrauen."
+  quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen."
   steps:
     - letter: "E"
       title: "Essenz"

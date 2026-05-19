@@ -1108,14 +1108,6 @@ h1 {
   line-height: 1.3;
 }
 
-.free-offer-signature {
-  width: 40px;
-  height: auto;
-  place-self: start end;
-  margin: 0;
-  object-fit: contain;
-}
-
 .free-offer-icon {
   width: 88px;
   height: 88px;
@@ -1146,7 +1138,7 @@ h1 {
 .offers-free-section .offers-free-grid > .free-offer-card:is(:first-child, :nth-child(2)) {
   display: grid;
   grid-template-columns: minmax(220px, 40%) 1fr;
-  grid-template-rows: min-content min-content min-content min-content;
+  grid-template-rows: min-content min-content min-content;
   gap: 0.3rem 1rem;
   align-items: start;
   align-content: start;
@@ -1160,25 +1152,15 @@ h1 {
   > .free-offer-card:is(:first-child, :nth-child(2))
   > .free-offer-media-link {
   grid-column: 1;
-  grid-row: 1 / span 4;
+  grid-row: 1 / span 3;
   align-self: start;
-}
-
-:where(
-  .offers-free-section
-    .offers-free-grid
-    > .free-offer-card:is(:first-child, :nth-child(2))
-    > .free-offer-signature
-) {
-  grid-column: 2;
-  grid-row: 1;
 }
 
 :where(
   .offers-free-section .offers-free-grid > .free-offer-card:is(:first-child, :nth-child(2)) > h4
 ) {
   grid-column: 2;
-  grid-row: 2;
+  grid-row: 1;
   font-size: 2.25rem;
   line-height: 1.2;
   margin-bottom: 0.2rem;
@@ -1203,14 +1185,14 @@ h1 {
   .offers-free-section .offers-free-grid > .free-offer-card:is(:first-child, :nth-child(2)) > p
 ) {
   grid-column: 2;
-  grid-row: 3;
+  grid-row: 2;
 }
 
 :where(
   .offers-free-section .offers-free-grid > .free-offer-card:is(:first-child, :nth-child(2)) > .btn
 ) {
   grid-column: 2;
-  grid-row: 4;
+  grid-row: 3;
   margin-top: 0;
 }
 
@@ -1271,12 +1253,6 @@ h1 {
   }
 
   :where(
-    .offers-free-section
-      .offers-free-grid
-      > .free-offer-card:is(:first-child, :nth-child(2))
-      > .free-offer-signature
-  ),
-  :where(
     .offers-free-section .offers-free-grid > .free-offer-card:is(:first-child, :nth-child(2)) > h4
   ),
   :where(
@@ -1302,10 +1278,6 @@ h1 {
       .free-offer-image-contain
   ) {
     max-height: 260px;
-  }
-
-  .free-offer-signature {
-    width: 40px;
   }
 }
 

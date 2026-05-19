@@ -134,7 +134,6 @@
                   {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
                 </a>
               {{ end }}
-              {{ if lt $idx 2 }}<img src="{{ "images/sign_black.png" | relURL }}" alt="" class="free-offer-signature" loading="lazy" aria-hidden="true" width="40" height="14">{{ end }}
               <h4>{{ $item.title }}</h4>
               <p>{{ $item.text }}</p>
               <a class="btn" href="{{ $ctaHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>

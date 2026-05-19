@@ -4,58 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ESKYNA Stil-Kleeblatt</title>
-<style>
-:root{
-  --deep:#080706;
-  --ink:#17120d;
-  --cream:#f7f0e4;
-  --soft:#e7dcc9;
-  --muted:#a99b86;
-  --gold:#c9a24e;
-  --gold2:#f2d98d;
-  --gold3:#ffefba;
-  --danger:#d67d59;
-  --ok:#d9be72;
-  --glass:rgba(255,255,255,.065);
-  --glass2:rgba(255,255,255,.11);
-  --line:rgba(242,217,141,.25);
-  --line2:rgba(242,217,141,.45);
-  --shadow:0 30px 90px rgba(0,0,0,.42);
-}
-*{box-sizing:border-box}
-html,body{height:100%;margin:0;background:var(--deep);color:var(--cream);font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;}
-body{overflow-x:hidden}
-button{font:inherit}
-.app{min-height:100%;position:relative;background:
-  radial-gradient(circle at 74% 22%, rgba(242,217,141,.23), transparent 24rem),
-  radial-gradient(circle at 12% 85%, rgba(201,162,78,.17), transparent 25rem),
-  linear-gradient(140deg,#070605 0%,#15110d 48%,#090807 100%);}
-.app:before{content:"";position:fixed;inset:0;pointer-events:none;background-image:
-  linear-gradient(rgba(255,255,255,.025) 1px,transparent 1px),
-  linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-size:44px 44px;mask-image:radial-gradient(circle at 50% 50%, black, transparent 82%);}
-.app:after{content:"";position:fixed;inset:auto -12vw -26vw auto;width:62vw;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,rgba(242,217,141,.14),transparent 62%);pointer-events:none;}
-.topbar{height:72px;display:flex;align-items:center;justify-content:space-between;padding:0 34px;border-bottom:1px solid rgba(255,255,255,.08);background:rgba(8,7,6,.36);backdrop-filter:blur(18px);position:relative;z-index:20}
-.brand{display:flex;align-items:center;gap:12px;letter-spacing:.22em;text-transform:uppercase;font-size:13px;font-weight:800;color:var(--gold2)}
-.brand img{width:36px;height:36px;object-fit:contain;filter:drop-shadow(0 0 18px rgba(242,217,141,.22))}
-.top-actions{display:flex;gap:10px;align-items:center}.pill{border:1px solid var(--line);border-radius:999px;padding:8px 12px;color:var(--soft);font-size:13px;background:rgba(255,255,255,.04)}
-.screen{display:none!important;visibility:hidden!important;pointer-events:none!important}.screen.active{display:block!important;visibility:visible!important;pointer-events:auto!important;min-height:calc(100vh - 72px)}.screen.end.active{display:grid!important}
-.hero{display:grid;grid-template-columns:minmax(340px,1.06fr) minmax(320px,.94fr);gap:26px;align-items:center;min-height:calc(100vh - 72px);padding:48px 58px 36px}.hero-copy{max-width:780px}.kicker{color:var(--gold2);text-transform:uppercase;letter-spacing:.22em;font-size:13px;font-weight:900;margin-bottom:15px}.hero h1{font-family:Georgia,"Times New Roman",serif;font-weight:500;letter-spacing:-.045em;font-size:clamp(46px,7vw,88px);line-height:.9;margin:0 0 24px}.hero h1 span{display:block;color:var(--gold2)}.lead{font-size:20px;line-height:1.56;color:#efe5d3;max-width:660px}.claim{font-family:Georgia,"Times New Roman",serif;font-size:30px;line-height:1.2;margin:28px 0 0}.buttons{display:flex;flex-wrap:wrap;gap:12px;margin-top:31px}.btn{appearance:none;border:0;border-radius:999px;padding:15px 22px;background:linear-gradient(135deg,var(--gold),var(--gold2));color:#17100a;font-weight:900;cursor:pointer;box-shadow:0 18px 52px rgba(201,162,78,.24);transition:.18s transform,.18s box-shadow}.btn:hover{transform:translateY(-1px);box-shadow:0 22px 60px rgba(201,162,78,.30)}.btn.secondary{background:rgba(255,255,255,.08);border:1px solid var(--line);box-shadow:none;color:var(--cream)}
-.visual{position:relative;min-height:620px;display:flex;align-items:center;justify-content:center}.natalia{position:absolute;right:0;bottom:0;width:min(62vw,520px);max-height:660px;object-fit:contain;filter:drop-shadow(0 42px 85px rgba(0,0,0,.66));z-index:3}.halo{position:absolute;right:7%;top:3%;width:min(55vw,570px);aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,rgba(242,217,141,.14),transparent 66%);border:1px solid rgba(242,217,141,.10)}.clover-bg{position:absolute;left:-1%;top:50px;width:min(44vw,440px);opacity:.29;filter:drop-shadow(0 0 32px rgba(242,217,141,.26));transform:rotate(-8deg)}.quote-card{position:absolute;left:0;bottom:55px;z-index:5;width:min(410px,84vw);border:1px solid var(--line);background:rgba(9,8,7,.64);backdrop-filter:blur(18px);border-radius:28px;padding:22px;box-shadow:var(--shadow);line-height:1.45}.quote-card b{color:var(--gold2)}
-.game-wrap{display:grid;grid-template-columns:320px minmax(520px,1fr) 360px;gap:22px;padding:24px;min-height:calc(100vh - 72px)}.panel{border:1px solid rgba(242,217,141,.18);background:rgba(255,255,255,.055);border-radius:30px;padding:22px;box-shadow:0 22px 76px rgba(0,0,0,.24);backdrop-filter:blur(18px)}.panel h2,.panel h3{font-family:Georgia,"Times New Roman",serif;font-weight:500;margin:0 0 12px}.panel p{line-height:1.5;color:#ded2bf}.stat{display:grid;grid-template-columns:1fr auto;gap:8px;border-bottom:1px solid rgba(255,255,255,.08);padding:12px 0;color:#e7ddcd}.stat b{color:var(--gold2)}.mini-rule{margin-top:14px;border:1px solid rgba(242,217,141,.16);border-radius:20px;padding:14px;background:rgba(0,0,0,.18);font-size:14px;line-height:1.45;color:#e6dccb}.legend{display:grid;gap:9px;margin-top:16px}.legend-item{display:flex;gap:10px;align-items:flex-start;font-size:14px;color:#efe5d5}.key{width:32px;height:32px;border:1px solid var(--line);border-radius:10px;display:grid;place-items:center;color:var(--gold2);background:rgba(0,0,0,.24);font-weight:900;flex:0 0 auto}.facet-panel{display:grid;gap:10px;margin-top:17px}.facet-chip{display:grid;grid-template-columns:auto 1fr;gap:9px;align-items:center;border:1px solid rgba(242,217,141,.16);background:rgba(0,0,0,.18);border-radius:17px;padding:10px 12px;color:#e9dfcf;font-size:13px}.facet-chip span:first-child{width:10px;height:10px;border-radius:50%;background:linear-gradient(135deg,var(--gold),var(--gold2));box-shadow:0 0 16px rgba(242,217,141,.33)}
-.stage{position:relative;border:1px solid rgba(242,217,141,.21);background:
-  radial-gradient(circle at 50% 50%,rgba(242,217,141,.10),transparent 23rem),
-  linear-gradient(180deg,rgba(255,255,255,.085),rgba(255,255,255,.035));border-radius:36px;min-height:740px;overflow:hidden;display:grid;place-items:center;box-shadow:inset 0 1px 0 rgba(255,255,255,.05)}.stage:before{content:"";position:absolute;inset:22px;border:1px solid rgba(242,217,141,.13);border-radius:28px}.stage-logo{position:absolute;width:min(72%,640px);opacity:.125;filter:drop-shadow(0 0 28px rgba(242,217,141,.35));z-index:0}.stage-grid{position:absolute;inset:0;opacity:.32;background-image:radial-gradient(circle at center, rgba(242,217,141,.12) 0 1px, transparent 1px);background-size:36px 36px;mask-image:radial-gradient(circle, black, transparent 70%)}
-.clover-board{position:relative;width:min(92vw,640px);height:640px;z-index:2}.orbit{position:absolute;inset:58px;border:1px solid rgba(242,217,141,.16);border-radius:50%;box-shadow:inset 0 0 30px rgba(242,217,141,.04)}.orbit:before,.orbit:after{content:"";position:absolute;inset:70px;border:1px dashed rgba(242,217,141,.12);border-radius:50%}.orbit:after{inset:140px;border-style:solid;opacity:.55}.axis{position:absolute;left:50%;top:50%;width:2px;height:520px;background:linear-gradient(transparent,rgba(242,217,141,.20),transparent);transform:translate(-50%,-50%)}.axis.h{width:520px;height:2px}.leaf-zone{position:absolute;width:195px;height:195px;border:1px solid rgba(242,217,141,.42);background:linear-gradient(160deg,rgba(255,255,255,.10),rgba(0,0,0,.20));box-shadow:inset 0 0 0 1px rgba(255,255,255,.035),0 20px 55px rgba(0,0,0,.28);display:flex;align-items:center;justify-content:center;text-align:center;overflow:hidden;transition:.28s transform,.28s background,.28s box-shadow,.28s border-color}.leaf-zone:before{content:"";position:absolute;inset:12px;border:1px solid rgba(242,217,141,.16);border-radius:inherit}.leaf-zone:after{content:"";position:absolute;left:0;right:0;bottom:0;height:calc(var(--fill,0) * 1%);background:linear-gradient(0deg,rgba(242,217,141,.22),rgba(242,217,141,.05));transition:.4s;height:calc(var(--fill,0) * 1%)}.leaf-zone .inner{position:relative;z-index:2;padding:20px}.leaf-zone .num{font-weight:900;color:#1a1209;background:linear-gradient(135deg,var(--gold),var(--gold2));width:34px;height:34px;border-radius:999px;display:grid;place-items:center;margin:0 auto 10px;box-shadow:0 0 22px rgba(242,217,141,.25)}.leaf-zone b{display:block;color:var(--gold2);letter-spacing:.09em;text-transform:uppercase;font-size:16px}.leaf-zone small{display:block;color:#dfd3c1;margin-top:6px;line-height:1.25}.leaf-zone em{display:block;margin-top:8px;font-style:normal;color:#bba889;font-size:12px}.leaf-zone.top{left:50%;top:25px;transform:translateX(-50%) rotate(45deg);border-radius:70% 45% 70% 45%}.leaf-zone.top .inner{transform:rotate(-45deg)}.leaf-zone.right{right:25px;top:50%;transform:translateY(-50%) rotate(45deg);border-radius:45% 70% 45% 70%}.leaf-zone.right .inner{transform:rotate(-45deg)}.leaf-zone.bottom{left:50%;bottom:25px;transform:translateX(-50%) rotate(45deg);border-radius:70% 45% 70% 45%}.leaf-zone.bottom .inner{transform:rotate(-45deg)}.leaf-zone.left{left:25px;top:50%;transform:translateY(-50%) rotate(45deg);border-radius:45% 70% 45% 70%}.leaf-zone.left .inner{transform:rotate(-45deg)}
-.leaf-zone.flash{background:linear-gradient(160deg,rgba(242,217,141,.24),rgba(0,0,0,.18));border-color:rgba(255,239,186,.76);box-shadow:0 0 56px rgba(242,217,141,.28),inset 0 0 38px rgba(242,217,141,.08)}.leaf-zone.bad{animation:shake .25s linear;border-color:rgba(214,125,89,.62)}.leaf-zone.top.flash{transform:translateX(-50%) rotate(45deg) scale(1.08)}.leaf-zone.right.flash{transform:translateY(-50%) rotate(45deg) scale(1.08)}.leaf-zone.bottom.flash{transform:translateX(-50%) rotate(45deg) scale(1.08)}.leaf-zone.left.flash{transform:translateY(-50%) rotate(45deg) scale(1.08)}@keyframes shake{0%,100%{margin-left:0}25%{margin-left:-5px}75%{margin-left:5px}}
-.center-system{position:absolute;left:50%;top:50%;width:190px;height:190px;transform:translate(-50%,-50%);display:grid;place-items:center;z-index:5}.center-diamond{width:118px;height:118px;border-radius:18px;transform:rotate(45deg);background:linear-gradient(135deg,var(--gold),var(--gold3));box-shadow:0 0 46px rgba(242,217,141,.33),inset -10px -10px 28px rgba(106,70,10,.24);position:relative}.center-diamond:before,.center-diamond:after{content:"";position:absolute;background:rgba(23,16,10,.22)}.center-diamond:before{left:50%;top:0;bottom:0;width:1px}.center-diamond:after{top:50%;left:0;right:0;height:1px}.center-label{position:absolute;text-align:center;color:#17100a;font-weight:1000;letter-spacing:.08em;line-height:1.05;text-transform:uppercase;font-size:14px}.center-label span{display:block;font-size:11px;font-weight:800;opacity:.74;letter-spacing:.15em;margin-top:4px}.diamond-node{position:absolute;width:52px;height:52px;border-radius:10px;transform:rotate(45deg);background:rgba(0,0,0,.34);border:1px solid rgba(242,217,141,.44);box-shadow:0 0 28px rgba(242,217,141,.15);z-index:4}.diamond-node:after{content:"";position:absolute;inset:10px;border-radius:6px;background:linear-gradient(135deg,var(--gold),var(--gold2));opacity:.9}.diamond-node.left{left:185px;top:50%;margin-top:-26px}.diamond-node.right{right:185px;top:50%;margin-top:-26px}
-.style-filter{position:absolute;right:48px;bottom:46px;width:146px;min-height:78px;border:1px solid rgba(214,125,89,.45);background:rgba(65,22,12,.30);border-radius:24px;padding:14px;text-align:center;z-index:6;box-shadow:0 18px 48px rgba(0,0,0,.30);transition:.24s}.style-filter b{display:block;color:#f1baa5;text-transform:uppercase;letter-spacing:.1em;font-size:13px}.style-filter small{color:#e6c5b6}.style-filter.flash{transform:scale(1.08);box-shadow:0 0 46px rgba(214,125,89,.24)}
-.token{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:248px;min-height:156px;border:1px solid rgba(242,217,141,.45);border-radius:28px;background:rgba(10,8,7,.86);box-shadow:0 28px 78px rgba(0,0,0,.52);z-index:8;text-align:center;padding:18px;transition:.28s ease;backdrop-filter:blur(13px)}.token:before{content:"";position:absolute;inset:8px;border:1px solid rgba(242,217,141,.12);border-radius:22px;pointer-events:none}.token .facet{display:inline-flex;gap:7px;align-items:center;border:1px solid rgba(242,217,141,.20);border-radius:999px;padding:6px 10px;color:#dacbb2;font-size:12px;background:rgba(255,255,255,.05);margin-bottom:9px}.token .icon{font-size:29px;color:var(--gold2);line-height:1}.token b{display:block;font-size:22px;margin:8px 0 4px;color:var(--cream)}.token small{display:block;color:#dacdbb;line-height:1.35}.token.hazard{border-color:rgba(214,125,89,.60);background:rgba(39,18,13,.88)}.token.hazard .icon{color:#f0a384}.token.fly-color{transform:translate(-50%,-255%) scale(.35);opacity:0}.token.fly-form{transform:translate(-255%,-50%) scale(.35);opacity:0}.token.fly-impact{transform:translate(155%,-50%) scale(.35);opacity:0}.token.fly-life{transform:translate(-50%,155%) scale(.35);opacity:0}.token.fly-letgo{transform:translate(165%,155%) scale(.35);opacity:0}.particle{position:absolute;width:8px;height:8px;border-radius:50%;background:var(--gold2);box-shadow:0 0 18px var(--gold2);z-index:9;pointer-events:none;animation:spark .7s ease forwards}@keyframes spark{to{transform:translate(var(--x),var(--y)) scale(.2);opacity:0}}
-.controls{position:absolute;left:18px;right:18px;bottom:18px;display:flex;gap:10px;justify-content:center;z-index:12}.leaf-btn{border:1px solid rgba(242,217,141,.28);background:rgba(0,0,0,.36);color:var(--cream);border-radius:16px;padding:12px 13px;font-weight:900;cursor:pointer;min-width:92px;transition:.18s}.leaf-btn:hover{background:rgba(242,217,141,.13);transform:translateY(-1px)}.leave-btn{border-color:rgba(214,125,89,.55)}.toast{position:absolute;left:50%;top:20px;transform:translateX(-50%);padding:10px 16px;border:1px solid rgba(242,217,141,.32);border-radius:999px;background:rgba(0,0,0,.52);color:var(--gold2);font-weight:800;z-index:15;opacity:0;transition:.2s;box-shadow:0 12px 38px rgba(0,0,0,.28)}.toast.show{opacity:1}
-.coach{position:relative;overflow:hidden;min-height:650px;padding-bottom:230px}.coach:before{content:"";position:absolute;right:-90px;bottom:-110px;width:360px;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,rgba(242,217,141,.16),transparent 66%)}.coach img{position:absolute;right:-60px;bottom:0;width:365px;filter:drop-shadow(0 34px 66px rgba(0,0,0,.66));z-index:1}.speech{border:1px solid rgba(242,217,141,.25);background:rgba(0,0,0,.29);border-radius:24px;padding:18px;margin-top:14px;position:relative;z-index:2}.speech strong{color:var(--gold2)}.diamonds{display:grid;gap:13px;margin-top:18px;position:relative;z-index:2}.diamond-row{display:grid;grid-template-columns:30px 92px 1fr auto;gap:10px;align-items:center;font-size:14px;color:#e4dac9}.mini-diamond{width:24px;height:24px;border-radius:5px;transform:rotate(45deg);background:linear-gradient(135deg,var(--gold),var(--gold2));box-shadow:0 0 18px rgba(242,217,141,.28)}.progress{height:10px;border:1px solid rgba(242,217,141,.25);border-radius:999px;overflow:hidden;background:rgba(0,0,0,.26)}.bar{height:100%;width:0%;background:linear-gradient(90deg,var(--gold),var(--gold2));transition:.35s}.insight{margin-top:18px;border:1px solid rgba(242,217,141,.16);background:rgba(0,0,0,.17);border-radius:22px;padding:15px;position:relative;z-index:2}.insight h4{margin:0 0 10px;color:var(--gold2);font-size:14px;text-transform:uppercase;letter-spacing:.12em}.insight-list{display:grid;gap:8px}.insight-row{display:flex;justify-content:space-between;gap:10px;font-size:13px;color:#e2d7c6}.mobile-note{display:none}
-.tutorial-overlay,.level-overlay{position:fixed;inset:0;z-index:100;display:none;place-items:center;padding:20px;background:rgba(4,3,2,.78);backdrop-filter:blur(14px)}.tutorial-overlay.open,.level-overlay.open{display:grid}.tutorial-card,.level-overlay-card{width:min(560px,94vw);border:1px solid var(--line);border-radius:32px;padding:28px 28px 24px;background:linear-gradient(160deg,rgba(28,22,16,.97),rgba(10,8,7,.98));box-shadow:var(--shadow)}.tutorial-card h2,.level-overlay-card h2{font-family:Georgia,"Times New Roman",serif;font-weight:500;margin:0 0 10px;font-size:clamp(26px,4vw,34px)}.tutorial-card p,.level-overlay-card p{color:#ded2bf;line-height:1.55;margin:0 0 18px}.tutorial-steps{display:flex;gap:8px;margin-bottom:20px}.tutorial-steps span{flex:1;height:5px;border-radius:999px;background:rgba(255,255,255,.12)}.tutorial-steps span.on{background:linear-gradient(90deg,var(--gold),var(--gold2))}.tutorial-visual{border:1px solid rgba(242,217,141,.18);border-radius:22px;padding:18px;margin-bottom:18px;background:rgba(0,0,0,.22)}.tutorial-keys{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-top:12px}.tutorial-keys kbd{display:grid;place-items:center;border:1px solid var(--line);border-radius:12px;padding:10px 6px;font-size:12px;font-weight:800;color:var(--gold2);background:rgba(0,0,0,.28)}.tutorial-actions,.level-overlay-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-end}.tutorial-actions .btn-link,.level-overlay-actions .btn-link{background:none;border:0;color:var(--soft);cursor:pointer;padding:12px 8px;font-weight:700}.level-select{display:grid;gap:10px;margin:18px 0}.level-pick{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;border:1px solid rgba(242,217,141,.16);border-radius:18px;padding:14px 16px;background:rgba(0,0,0,.18);cursor:pointer;text-align:left;color:inherit;transition:.18s}.level-pick:hover:not(:disabled){border-color:rgba(242,217,141,.42);background:rgba(242,217,141,.08)}.level-pick:disabled{opacity:.45;cursor:not-allowed}.level-pick.active{border-color:rgba(242,217,141,.55);box-shadow:0 0 28px rgba(242,217,141,.12)}.level-pick .num{width:36px;height:36px;border-radius:999px;display:grid;place-items:center;font-weight:900;color:#1a1209;background:linear-gradient(135deg,var(--gold),var(--gold2))}.level-pick small{display:block;color:#bba889;margin-top:3px}.level-pick .state{font-size:12px;font-weight:800;color:var(--gold2);text-transform:uppercase;letter-spacing:.08em}.goal-bar{margin-top:12px;height:8px;border:1px solid rgba(242,217,141,.2);border-radius:999px;overflow:hidden;background:rgba(0,0,0,.28)}.goal-bar span{display:block;height:100%;width:0%;background:linear-gradient(90deg,var(--gold),var(--gold2));transition:.35s}.combo-badge{display:inline-flex;align-items:center;gap:6px;margin-top:10px;padding:6px 12px;border-radius:999px;border:1px solid rgba(242,217,141,.22);background:rgba(0,0,0,.2);font-size:13px;color:#e8dcc9}.combo-badge.hot{border-color:rgba(242,217,141,.55);color:var(--gold2);box-shadow:0 0 24px rgba(242,217,141,.15)}.end{display:grid;place-items:center;min-height:calc(100vh - 72px);padding:36px}.result-card{width:min(980px,94vw);display:grid;grid-template-columns:1fr 300px;gap:26px}.score-big{font-family:Georgia,"Times New Roman",serif;color:var(--gold2);font-size:86px;line-height:.95;margin:8px 0}.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:22px 0}@media(min-width:900px){.end .metrics{grid-template-columns:repeat(3,1fr)}}.metric{border:1px solid rgba(242,217,141,.18);border-radius:21px;padding:16px;background:rgba(0,0,0,.20)}.metric b{display:block;color:var(--gold2);font-size:26px;margin-top:4px}.leaf-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:18px 0}.leaf-mini{border:1px solid rgba(242,217,141,.17);border-radius:16px;padding:12px;background:rgba(0,0,0,.15);font-size:13px}.leaf-mini b{display:block;color:var(--gold2);font-size:18px}.result-logo{display:grid;place-items:center;position:relative}.result-logo img{width:245px;opacity:.93;filter:drop-shadow(0 0 44px rgba(242,217,141,.22))}.cta-row{display:flex;gap:10px;flex-wrap:wrap}.subtle-link{color:#f2d98d;text-decoration:none;border-bottom:1px solid rgba(242,217,141,.35)}
-@media(max-width:1200px){.game-wrap{grid-template-columns:1fr}.coach{display:none}.stage{min-height:720px}.mobile-note{display:block}.panel.side{display:grid;grid-template-columns:1fr 1fr;gap:18px}.facet-panel{margin-top:0}.clover-board{width:min(92vw,620px);height:620px}.result-card{grid-template-columns:1fr}.result-logo{display:none}}
-@media(max-width:760px){.topbar{padding:0 16px}.top-actions .pill:nth-child(1){display:none}.hero{grid-template-columns:1fr;padding:28px 20px}.visual{min-height:470px}.clover-bg{width:270px}.natalia{width:360px}.quote-card{left:0;bottom:20px}.game-wrap{padding:14px}.panel.side{display:block}.stage{min-height:700px;border-radius:28px}.clover-board{width:420px;height:590px;transform:scale(.86)}.leaf-zone{width:158px;height:158px}.leaf-zone.top{top:45px}.leaf-zone.bottom{bottom:80px}.leaf-zone.left{left:18px}.leaf-zone.right{right:18px}.diamond-node{display:none}.token{width:218px;min-height:144px}.style-filter{right:42px;bottom:70px;width:124px}.controls{display:grid;grid-template-columns:repeat(2,1fr);left:14px;right:14px}.leaf-btn{min-width:0;padding:10px}.metrics,.leaf-summary{grid-template-columns:1fr 1fr}.score-big{font-size:66px}}
-</style>
+<link rel="stylesheet" href="styles.css" />
 </head>
 <body>
 <div class="app">
@@ -67,10 +16,14 @@ button{font:inherit}
   <main id="intro" class="screen active">
     <section class="hero">
       <div class="hero-copy">
-        <div class="kicker">Stil-Klarheit spielerisch entdecken</div>
+        <div class="kicker">Stil-Klarheit spielerisch trainieren</div>
         <h1>ESKYNA Stil-Kleeblatt <span>Stil ist kein Glück.</span></h1>
-        <p class="lead">Fünf Level mit steigender Herausforderung: Ordnen Sie Stil-Signale im ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe filtern Sie über den Style-Filter.</p>
-        <p class="claim">In wenigen Minuten mehr Überblick im Kleiderschrank – weniger Fehlkäufe, schnellere Outfit-Entscheidungen, mehr Stil-Sicherheit.</p>
+        <p class="lead" id="introLead">Fünf Level mit steigender Herausforderung: Ordnen Sie Stil-Signale im ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe filtern Sie über den Style-Filter.</p>
+        <p class="claim" id="introClaim">In wenigen Minuten mehr Überblick im Kleiderschrank – weniger Fehlkäufe, schnellere Outfit-Entscheidungen, mehr Stil-Sicherheit.</p>
+        <div class="learn-box">
+          <h2 class="learn-title">Was Sie hier lernen</h2>
+          <ul class="learn-list" id="learnList"></ul>
+        </div>
         <div class="buttons">
           <button class="btn" id="btnPlay" type="button">Spiel starten</button>
           <button class="btn secondary" id="btnLevels" type="button">Level wählen</button>
@@ -82,7 +35,7 @@ button{font:inherit}
         <div class="halo"></div>
         <img class="clover-bg" src="https://eskyna.com/images/sign.png" alt="ESKYNA Kleeblatt">
         <img class="natalia" src="https://eskyna.com/images/Natalia_white_hero.png" alt="Natalia Kleemann">
-        <div class="quote-card">Das ESKYNA-Kleeblatt ist Ihr Style-Kompass. Jedes richtige Signal lässt ein Blatt aufleuchten.</div>
+        <div class="quote-card">Das Kleeblatt ist kein Quiz – es ist ein <b>Entscheidungs-System</b>. Wer es kennt, kauft gezielter, kombiniert schneller und wirkt stimmiger.</div>
       </div>
     </section>
   </main>
@@ -92,7 +45,7 @@ button{font:inherit}
       <aside class="panel side">
         <div>
           <h2>ESKYNA Stil-Kleeblatt</h2>
-          <p>Ordnen Sie jedes Signal dem passenden Blatt zu. Fehlkäufe, Trenddruck und reine Sale-Impulse gehen in den Style-Filter.</p>
+          <p>Jede Karte ist eine Mini-Übung für echte Entscheidungen: Was passt zu mir – Farbe, Form, Wirkung oder Alltag? Was lasse ich bewusst los?</p>
           <div class="stat"><span>Level</span><b id="levelLabel">1 · Kennenlernen</b></div>
           <div class="stat"><span>Ziel</span><b id="goalLabel">0 / 8</b></div>
           <div class="goal-bar" aria-hidden="true"><span id="goalBar"></span></div>
@@ -102,20 +55,15 @@ button{font:inherit}
           <div class="stat"><span>Zeit</span><b id="time">60</b></div>
           <div class="stat"><span>Serie</span><b id="streak">0</b></div>
           <p class="combo-badge" id="comboBadge">Serie: 0</p>
-          <div class="mini-rule" id="levelHint">Fünf Level mit steigender Herausforderung. Tasten 1–4 und L.</div>
+          <div class="mini-rule" id="levelHint">Fünf Level – vom Kleeblatt lernen bis zur sicheren Kaufentscheidung. Tasten 1–4 und L.</div>
         </div>
         <div>
           <div class="legend">
-            <div class="legend-item"><span class="key">1</span><span><b>Farbe</b><br>Farbtyp, Farbpass, Farbharmonie</span></div>
-            <div class="legend-item"><span class="key">2</span><span><b>Form</b><br>Schnitte, Linien, Proportionen</span></div>
-            <div class="legend-item"><span class="key">3</span><span><b>Wirkung</b><br>Auftritt, Beruf, Sichtbarkeit</span></div>
-            <div class="legend-item"><span class="key">4</span><span><b>Alltag</b><br>Kombinieren, Garderobe, Termine</span></div>
-            <div class="legend-item"><span class="key">L</span><span><b>Style-Filter</b><br>Loslassen statt Fehlkauf</span></div>
-          </div>
-          <div class="facet-panel">
-            <div class="facet-chip"><span></span><span>Facette: Klarheit</span></div>
-            <div class="facet-chip"><span></span><span>Facette: Garderobenlogik</span></div>
-            <div class="facet-chip"><span></span><span>Facette: Sichtbarkeit</span></div>
+            <div class="legend-item"><span class="key"><span data-icon-slot="color" data-icon-size="20"></span><span class="key-num">1</span></span><span><b>Farbe</b><br>Farbtyp, Farbpass, Farbharmonie</span></div>
+            <div class="legend-item"><span class="key"><span data-icon-slot="form" data-icon-size="20"></span><span class="key-num">2</span></span><span><b>Form</b><br>Schnitte, Linien, Proportionen</span></div>
+            <div class="legend-item"><span class="key"><span data-icon-slot="impact" data-icon-size="20"></span><span class="key-num">3</span></span><span><b>Wirkung</b><br>Auftritt, Beruf, Sichtbarkeit</span></div>
+            <div class="legend-item"><span class="key"><span data-icon-slot="life" data-icon-size="20"></span><span class="key-num">4</span></span><span><b>Alltag</b><br>Kombinieren, Garderobe, Termine</span></div>
+            <div class="legend-item"><span class="key"><span data-icon-slot="letgo" data-icon-size="20"></span><span class="key-num">L</span></span><span><b>Style-Filter</b><br>Loslassen statt Fehlkauf</span></div>
           </div>
           <p class="mobile-note">Auf Mobilgeräten die Buttons unten nutzen.</p>
         </div>
@@ -129,36 +77,36 @@ button{font:inherit}
           <div class="orbit"></div>
           <div class="axis"></div><div class="axis h"></div>
 
-          <div class="leaf-zone top" id="leaf-color" style="--fill:0"><div class="inner"><span class="num">1</span><b>Farbe</b><small>Was steht mir?</small><em id="cnt-color">0 Signale</em></div></div>
-          <div class="leaf-zone left" id="leaf-form" style="--fill:0"><div class="inner"><span class="num">2</span><b>Form</b><small>Welche Linie?</small><em id="cnt-form">0 Signale</em></div></div>
-          <div class="leaf-zone right" id="leaf-impact" style="--fill:0"><div class="inner"><span class="num">3</span><b>Wirkung</b><small>Wie werde ich sichtbar?</small><em id="cnt-impact">0 Signale</em></div></div>
-          <div class="leaf-zone bottom" id="leaf-life" style="--fill:0"><div class="inner"><span class="num">4</span><b>Alltag</b><small>Was funktioniert?</small><em id="cnt-life">0 Signale</em></div></div>
+          <div class="leaf-zone top" id="leaf-color" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="color" data-icon-size="26"></span><span class="num">1</span><b>Farbe</b><small>Was steht mir?</small><em id="cnt-color">0 Signale</em></div></div>
+          <div class="leaf-zone left" id="leaf-form" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="form" data-icon-size="26"></span><span class="num">2</span><b>Form</b><small>Welche Linie?</small><em id="cnt-form">0 Signale</em></div></div>
+          <div class="leaf-zone right" id="leaf-impact" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="impact" data-icon-size="26"></span><span class="num">3</span><b>Wirkung</b><small>Wie werde ich sichtbar?</small><em id="cnt-impact">0 Signale</em></div></div>
+          <div class="leaf-zone bottom" id="leaf-life" style="--fill:0"><div class="inner"><span class="leaf-icon" data-icon-slot="life" data-icon-size="26"></span><span class="num">4</span><b>Alltag</b><small>Was funktioniert?</small><em id="cnt-life">0 Signale</em></div></div>
 
           <div class="diamond-node left" aria-hidden="true"></div>
           <div class="diamond-node right" aria-hidden="true"></div>
           <div class="center-system"><div class="center-diamond"></div><div class="center-label">EStyle<br>ID</div></div>
-          <div class="style-filter" id="filter"><b>Loslassen</b><small>Fehlkauf vermeiden</small></div>
-          <div class="token" id="token"><span class="facet">Style-Signal</span><div class="icon">&#9670;</div><b>Bereit?</b><small>Starten Sie das Spiel.</small></div>
+          <div class="style-filter" id="filter"><span class="filter-icon" data-icon-slot="letgo" data-icon-size="28"></span><b>Loslassen</b><small>Fehlkauf vermeiden</small></div>
+          <div class="token" id="token"><span class="facet">Style-Signal</span><div class="icon"><span data-icon-slot="ready" data-icon-size="44"></span></div><b>Bereit?</b><small>Starten Sie das Spiel.</small></div>
         </div>
         <div class="controls">
-          <button class="leaf-btn" onclick="answer('color')">1 Farbe</button>
-          <button class="leaf-btn" onclick="answer('form')">2 Form</button>
-          <button class="leaf-btn" onclick="answer('impact')">3 Wirkung</button>
-          <button class="leaf-btn" onclick="answer('life')">4 Alltag</button>
-          <button class="leaf-btn leave-btn" onclick="answer('letgo')">L Loslassen</button>
+          <button class="leaf-btn" data-answer="color"><span data-icon-slot="color" data-icon-size="18"></span><span>1 Farbe</span></button>
+          <button class="leaf-btn" data-answer="form"><span data-icon-slot="form" data-icon-size="18"></span><span>2 Form</span></button>
+          <button class="leaf-btn" data-answer="impact"><span data-icon-slot="impact" data-icon-size="18"></span><span>3 Wirkung</span></button>
+          <button class="leaf-btn" data-answer="life"><span data-icon-slot="life" data-icon-size="18"></span><span>4 Alltag</span></button>
+          <button class="leaf-btn leave-btn" data-answer="letgo"><span data-icon-slot="letgo" data-icon-size="18"></span><span>L Loslassen</span></button>
         </div>
       </section>
 
       <aside class="panel coach">
         <h3>Natalia als digitaler Coach</h3>
         <p>Natalia begleitet Sie mit Impulsen zu Farbe, Form, Wirkung und Alltag – Schritt für Schritt zu mehr Stil-Klarheit.</p>
-        <div class="speech" id="coachText"><strong>Natalia:</strong><br>Sortieren Sie nicht nach Trend, sondern nach dem, was zu Ihnen passt.</div>
+        <div class="speech" id="coachText"><strong>Natalia:</strong><br>Jede Karte ist eine Lektion: Lesen Sie Facette und Untertitel – so trainieren Sie Ihr Stil-System, nicht nur Ihre Reaktion.</div>
         <div class="diamonds">
           <div class="diamond-row"><div class="mini-diamond"></div><span>Analyse</span><div class="progress"><div class="bar" id="barA"></div></div><b id="aPct">0%</b></div>
           <div class="diamond-row"><div class="mini-diamond"></div><span>Empfehlung</span><div class="progress"><div class="bar" id="barB"></div></div><b id="bPct">0%</b></div>
         </div>
         <div class="insight">
-          <h4>EStyle Facetten</h4>
+          <h4>Ihr Lernfortschritt</h4>
           <div class="insight-list">
             <div class="insight-row"><span>Balance</span><b id="balanceTxt">0/4</b></div>
             <div class="insight-row"><span>Fehlkäufe vermieden</span><b id="avoidTxt">0</b></div>
@@ -176,7 +124,7 @@ button{font:inherit}
         <div class="kicker">Ihre Auswertung</div>
         <h2 id="endHeadline">Ihre Stil-Klarheit</h2>
         <div class="score-big" id="finalScore">0%</div>
-        <p id="endMessage">Sie haben Stil-Signale eingeordnet. Mit EStyle wird daraus eine persönliche Stil-Matrix.</p>
+        <p class="end-learn" id="endLearn"></p><p id="endMessage">Sie haben Stil-Signale eingeordnet. Mit EStyle wird daraus eine persönliche Stil-Matrix.</p>
         <div class="metrics">
           <div class="metric"><span>Fehlkauf-Risiko</span><b id="risk">–</b></div>
           <div class="metric"><span>Kombinationsgefühl</span><b id="combo">–</b></div>
@@ -186,10 +134,10 @@ button{font:inherit}
           <div class="metric"><span>Level</span><b id="endLevelTitle">–</b></div>
         </div>
         <div class="leaf-summary">
-          <div class="leaf-mini"><span>Farbe</span><b id="sumColor">0</b></div>
-          <div class="leaf-mini"><span>Form</span><b id="sumForm">0</b></div>
-          <div class="leaf-mini"><span>Wirkung</span><b id="sumImpact">0</b></div>
-          <div class="leaf-mini"><span>Alltag</span><b id="sumLife">0</b></div>
+          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="color" data-icon-size="20"></span>Farbe</span><b id="sumColor">0</b></div>
+          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="form" data-icon-size="20"></span>Form</span><b id="sumForm">0</b></div>
+          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="impact" data-icon-size="20"></span>Wirkung</span><b id="sumImpact">0</b></div>
+          <div class="leaf-mini"><span class="leaf-mini-head"><span data-icon-slot="life" data-icon-size="20"></span>Alltag</span><b id="sumLife">0</b></div>
         </div>
         <div class="cta-row">
           <button class="btn" type="button" id="btnEndPrimary">Weiter</button>
@@ -216,515 +164,7 @@ button{font:inherit}
       </div>
     </div>
   </div>
-  <div class="level-overlay" id="levelOverlay" role="dialog" aria-modal="true" aria-labelledby="levelOverlayTitle">
-    <div class="level-overlay-card panel">
-      <h2 id="levelOverlayTitle">Level geschafft</h2>
-      <p id="levelOverlayBody"></p>
-      <div class="level-overlay-actions">
-        <button type="button" class="btn" id="levelOverlayNext">Weiter</button>
-      </div>
-    </div>
-  </div>
-
 </div>
-<script>
-const STORAGE_KEY = "eskyna-stil-kleeblatt-v2";
-const items = [
-  {text:'Digitaler Farbpass', sub:'Farbentscheidung ohne Raten', type:'color', facet:'Klarheit', icon:'&#9670;', coach:'Farbe gibt Orientierung. Der Farbpass macht Entscheidungen einfacher.'},
-  {text:'Creme statt Reinweiß', sub:'weicher, harmonischer Eindruck', type:'color', facet:'Farbtyp', icon:'&#9670;', coach:'Eine Farbe ist nicht nur schön. Sie verändert Frische und Präsenz.'},
-  {text:'Kobaltblau im Meeting', sub:'bewusstes Farbsignal', type:'color', facet:'Sichtbarkeit', icon:'&#10022;', coach:'Sichtbarkeit beginnt oft mit einem klaren Farbsignal.'},
-  {text:'Schmale Linie', sub:'Schnitt und Proportion', type:'form', facet:'Silhouette', icon:'&#9671;', coach:'Die richtige Linie bringt Ruhe in den Look.'},
-  {text:'Blazer-Silhouette', sub:'Struktur statt Zufall', type:'form', facet:'Struktur', icon:'&#9671;', coach:'Formen zeigen, ob ein Outfit klar oder beliebig wirkt.'},
-  {text:'Weicher Fall', sub:'Material und Bewegung', type:'form', facet:'Material', icon:'&#9671;', coach:'Nicht nur Schnitt, auch Material transportiert Wirkung.'},
-  {text:'Kundentermin', sub:'kompetent und nahbar wirken', type:'impact', facet:'Business', icon:'&#10022;', coach:'Im Beruf zählt nicht mehr Kleidung, sondern stimmige Wirkung.'},
-  {text:'LinkedIn-Shooting', sub:'visueller Personal Brand', type:'impact', facet:'Visibility', icon:'&#10022;', coach:'Ein Bild braucht ein klares visuelles Signal.'},
-  {text:'Speaker-Auftritt', sub:'Präsenz auf Distanz', type:'impact', facet:'Auftritt', icon:'&#10022;', coach:'Auftritt entsteht, wenn Farbe, Form und Haltung zusammenspielen.'},
-  {text:'Kita + Meeting', sub:'realistisches Outfit', type:'life', facet:'Alltag', icon:'&#9675;', coach:'Guter Stil funktioniert im echten Alltag.'},
-  {text:'Lieblingsteil neu kombiniert', sub:'nutzen statt neu kaufen', type:'life', facet:'Garderobe', icon:'&#9675;', coach:'Garderobenlogik macht vorhandene Teile wieder wertvoll.'},
-  {text:'Reisekapsel', sub:'wenige Teile, viele Looks', type:'life', facet:'Capsule', icon:'&#9675;', coach:'Kombinierbarkeit ist ein echter Stil-Booster.'},
-  {text:'Sale -70%', sub:'passt nicht zur Stil-Matrix', type:'letgo', facet:'Fehlkauf', icon:'!', hazard:true, coach:'Nicht jeder Rabatt ist ein Gewinn. Fehlkäufe entstehen oft unter Druck.'},
-  {text:'Trenddruck', sub:'alle tragen es, aber es passt nicht', type:'letgo', facet:'Impuls', icon:'!', hazard:true, coach:'Ihr Stil ist kein Trend-Reflex. Er braucht einen roten Faden.'},
-  {text:'Noch ein schwarzes Basic', sub:'schon fünfmal vorhanden', type:'letgo', facet:'Chaos', icon:'!', hazard:true, coach:'Mehr vom Gleichen löst kein Garderoben-Chaos.'},
-  {text:'Passt nur zu einem Teil', sub:'kaum kombinierbar', type:'letgo', facet:'Prüfung', icon:'!', hazard:true, coach:'Ein guter Kauf verbindet sich mit dem, was schon da ist.'},
-  {text:'Influencer-Look', sub:'wirkt fremd auf mich', type:'letgo', facet:'Trend', icon:'!', hazard:true, coach:'Was online funktioniert, muss nicht zu Ihnen passen.'},
-  {text:'Schnäppchen ohne Plan', sub:'kein Platz im Schrank', type:'letgo', facet:'Druck', icon:'!', hazard:true, coach:'Kaufen mit System spart Zeit und Geld.'},
-];
-const LEVELS = [
-  {id:1, name:'Kennenlernen', hint:'Lernen Sie die vier Blätter kennen.', duration:75, hazard:0.18, goal:{type:'correct', target:8}, bonus:80},
-  {id:2, name:'Morgenroutine', hint:'Erreichen Sie 45 % Stil-Klarheit.', duration:65, hazard:0.28, goal:{type:'clarity', target:45}, bonus:120},
-  {id:3, name:'Meeting-fit', hint:'Mindestens 2 Signale pro Blatt.', duration:60, hazard:0.34, goal:{type:'balance', target:2}, bonus:150},
-  {id:4, name:'Capsule-Modus', hint:'Filtern Sie 4 Fehlkäufe korrekt.', duration:55, hazard:0.42, goal:{type:'letgo', target:4}, bonus:180},
-  {id:5, name:'EStyle Flow', hint:'Serie von 4 oder 1.200 Punkte.', duration:50, hazard:0.5, goal:{type:'mastery', target:4, score:1200}, bonus:220},
-];
-const TUTORIAL = [
-  {title:'Willkommen beim ESKYNA Stil-Kleeblatt', body:'In fünf Leveln ordnen Sie Stil-Signale dem Kleeblatt zu – für mehr Klarheit im Kleiderschrank.', visual:'<p><b>Ziel:</b> Richtig sortieren, Fehlkäufe loslassen, Level für Level besser werden.</p>'},
-  {title:'Die vier Blätter', body:'Jedes Signal gehört zu genau einem Bereich. Nutzen Sie die Tasten 1–4 oder die Buttons unten.', visual:'<div class="tutorial-keys"><kbd>1<br>Farbe</kbd><kbd>2<br>Form</kbd><kbd>3<br>Wirkung</kbd><kbd>4<br>Alltag</kbd><kbd>L<br>Filter</kbd></div>'},
-  {title:'Style-Filter: Loslassen', body:'Sale-Druck, Trends und Fehlkäufe gehören nicht ins Kleeblatt. Tippen Sie <b>L</b> oder den orangenen Filter.', visual:'<p>Signale mit <b>!</b> fast immer in den Style-Filter – Ausnahmen gibt es nicht.</p>'},
-  {title:'Punkte & Serien', body:'Richtige Antworten erhöhen Score und Stil-Klarheit. Serien geben Extra-Punkte. Alle vier Blätter gleichmäßig füllen = Balance-Bonus.', visual:'<p><b>Tipp:</b> Lesen Sie Facette und Untertitel – sie helfen bei der Entscheidung.</p>'},
-  {title:'Fünf Level', body:'Jedes Level hat ein eigenes Ziel und weniger Zeit. Nach jedem Level sehen Sie Ihre Auswertung – auch wenn es nicht geklappt hat.', visual:'<p>Bereit? Viel Erfolg – Natalia begleitet Sie am Spielfeldrand.</p>'},
-];
-const leafIds = {color:'leaf-color', form:'leaf-form', impact:'leaf-impact', life:'leaf-life'};
-const labels = {color:'Farbe', form:'Form', impact:'Wirkung', life:'Alltag', letgo:'Loslassen'};
-
-let progress = loadProgress();
-let levelIndex = 0;
-let running = false;
-let score = 0;
-let campaignScore = 0;
-let clarity = 0;
-let streak = 0;
-let bestStreak = 0;
-let seconds = 60;
-let current = null;
-let timer = null;
-let lastIndex = -1;
-let counts = {color:0, form:0, impact:0, life:0, letgo:0};
-let correctTotal = 0;
-let mistakes = 0;
-let tutorialStep = 0;
-let campaignComplete = false;
-let lastEndState = { won: false, allDone: false, bonus: 0, failMsg: '', perfect: false };
-
-const token = document.getElementById('token');
-const tutorialOverlay = document.getElementById('tutorialOverlay');
-const levelOverlay = document.getElementById('levelOverlay');
-
-function loadProgress() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return {tutorialDone:false, unlocked:1, bestClarity:0};
-    return Object.assign({tutorialDone:false, unlocked:1, bestClarity:0}, JSON.parse(raw));
-  } catch (_) {
-    return {tutorialDone:false, unlocked:1, bestClarity:0};
-  }
-}
-function saveProgress() {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(progress)); } catch (_) {}
-}
-function getLevel() { return LEVELS[levelIndex]; }
-function show(screenId) {
-  document.querySelectorAll('.screen').forEach((s) => {
-    s.classList.remove('active');
-    s.setAttribute('aria-hidden', 'true');
-  });
-  const screen = document.getElementById(screenId);
-  screen.classList.add('active');
-  screen.setAttribute('aria-hidden', 'false');
-  window.scrollTo(0, 0);
-}
-function escapeHtml(str) {
-  return String(str).replace(/[&<>"]/g, (s) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[s]));
-}
-function setCoach(msg) {
-  document.getElementById('coachText').innerHTML = '<strong>Natalia:</strong><br>' + escapeHtml(msg);
-}
-function toast(msg, bad) {
-  const t = document.getElementById('toast');
-  t.textContent = msg;
-  t.style.color = bad ? '#f0b39b' : '#f2d98d';
-  t.classList.add('show');
-  setTimeout(() => t.classList.remove('show'), 900);
-}
-function correctCount() {
-  return counts.color + counts.form + counts.impact + counts.life + counts.letgo;
-}
-function leafMin() {
-  return Math.min(counts.color, counts.form, counts.impact, counts.life);
-}
-function goalProgress() {
-  const g = getLevel().goal;
-  if (g.type === 'correct') return {cur: correctTotal, max: g.target};
-  if (g.type === 'clarity') return {cur: clarity, max: g.target};
-  if (g.type === 'balance') return {cur: leafMin(), max: g.target};
-  if (g.type === 'letgo') return {cur: counts.letgo, max: g.target};
-  if (g.type === 'mastery') {
-    const cur = Math.max(streak, Math.min(g.score, score));
-    const max = streak >= g.target ? g.target : g.score;
-    return {cur, max, dual: true, streakOk: streak >= g.target, scoreOk: score >= g.score};
-  }
-  return {cur:0, max:1};
-}
-function goalMet() {
-  const g = getLevel().goal;
-  if (g.type === 'correct') return correctTotal >= g.target;
-  if (g.type === 'clarity') return clarity >= g.target;
-  if (g.type === 'balance') return leafMin() >= g.target;
-  if (g.type === 'letgo') return counts.letgo >= g.target;
-  if (g.type === 'mastery') return streak >= g.target || score >= g.score;
-  return false;
-}
-function formatGoalLabel() {
-  const g = getLevel().goal;
-  const p = goalProgress();
-  if (g.type === 'correct') return p.cur + ' / ' + p.max + ' richtig';
-  if (g.type === 'clarity') return p.cur + ' % / ' + p.max + ' %';
-  if (g.type === 'balance') return p.cur + ' / ' + p.max + ' pro Blatt';
-  if (g.type === 'letgo') return p.cur + ' / ' + p.max + ' gefiltert';
-  if (g.type === 'mastery') {
-    if (p.streakOk) return 'Serie ' + streak + ' ✓';
-    return score + ' / ' + g.score + ' Pkt.';
-  }
-  return '';
-}
-function renderIntroLevels() {
-  const box = document.getElementById('introLevelSelect');
-  box.innerHTML = LEVELS.map((lv, i) => {
-    const locked = i > progress.unlocked - 1;
-    const done = i < progress.unlocked - 1 || (i === LEVELS.length - 1 && progress.unlocked > LEVELS.length);
-    const state = locked ? 'Gesperrt' : (i === progress.unlocked - 1 && !campaignComplete ? 'Aktuell' : 'Geschafft');
-    return `<button type="button" class="level-pick${locked ? '' : ' active'}" data-level="${i}" ${locked ? 'disabled' : ''}>
-      <span class="num">${lv.id}</span>
-      <span><b>${lv.name}</b><small>${lv.hint}</small></span>
-      <span class="state">${state}</span>
-    </button>`;
-  }).join('');
-  box.querySelectorAll('.level-pick:not([disabled])').forEach((btn) => {
-    btn.addEventListener('click', () => startCampaign(Number(btn.dataset.level)));
-  });
-}
-function openTutorial(fromIntro) {
-  tutorialStep = 0;
-  renderTutorialStep();
-  tutorialOverlay.classList.add('open');
-  tutorialOverlay.dataset.fromIntro = fromIntro ? '1' : '0';
-}
-function closeTutorial() {
-  tutorialOverlay.classList.remove('open');
-  progress.tutorialDone = true;
-  saveProgress();
-}
-function renderTutorialStep() {
-  const step = TUTORIAL[tutorialStep];
-  document.getElementById('tutorialTitle').textContent = step.title;
-  document.getElementById('tutorialBody').innerHTML = step.body;
-  document.getElementById('tutorialVisual').innerHTML = step.visual.replace(/motion\.div/g, 'div');
-  document.querySelectorAll('.tutorial-steps span').forEach((el, i) => el.classList.toggle('on', i <= tutorialStep));
-  document.getElementById('tutorialBack').style.visibility = tutorialStep === 0 ? 'hidden' : 'visible';
-  document.getElementById('tutorialNext').textContent = tutorialStep === TUTORIAL.length - 1 ? 'Level 1 starten' : 'Weiter';
-}
-function beginPlay() {
-  if (!progress.tutorialDone) openTutorial(true);
-  else startCampaign(Math.min(progress.unlocked, LEVELS.length) - 1);
-}
-function toggleLevelSelect() {
-  const box = document.getElementById('introLevelSelect');
-  const open = box.hidden;
-  if (open) renderIntroLevels();
-  box.hidden = !open;
-}
-function resetRoundState() {
-  score = 0;
-  clarity = 0;
-  streak = 0;
-  mistakes = 0;
-  correctTotal = 0;
-  counts = {color:0, form:0, impact:0, life:0, letgo:0};
-  lastIndex = -1;
-  ['color','form','impact','life'].forEach((k) => {
-    document.getElementById(leafIds[k]).style.setProperty('--fill', 0);
-    document.getElementById('cnt-' + k).textContent = '0 Signale';
-  });
-}
-function startCampaign(idx) {
-  levelIndex = idx;
-  campaignScore = 0;
-  campaignComplete = false;
-  document.getElementById('introLevelSelect').hidden = true;
-  startLevel();
-}
-function startLevel() {
-  resetRoundState();
-  const lv = getLevel();
-  seconds = lv.duration;
-  running = true;
-  show('game');
-  document.getElementById('levelLabel').textContent = lv.id + ' · ' + lv.name;
-  document.getElementById('levelHint').textContent = lv.hint;
-  setCoach('Level ' + lv.id + ': ' + lv.hint);
-  updateStats();
-  nextToken();
-  clearInterval(timer);
-  timer = setInterval(() => {
-    seconds--;
-    updateStats();
-    if (seconds <= 0) {
-      if (goalMet()) completeLevel();
-      else failLevel('Die Zeit ist um – versuchen Sie es noch einmal.');
-    }
-  }, 1000);
-}
-function pickItem() {
-  const lv = getLevel();
-  const hazards = items.filter((i) => i.hazard);
-  const safe = items.filter((i) => !i.hazard);
-  if (Math.random() < lv.hazard && hazards.length) {
-    let idx;
-    do { idx = Math.floor(Math.random() * hazards.length); } while (hazards.length > 1 && hazards[idx] === current);
-    return hazards[idx];
-  }
-  let idx;
-  do { idx = Math.floor(Math.random() * safe.length); } while (safe.length > 1 && safe[idx] === current);
-  return safe[idx];
-}
-function nextToken() {
-  if (!running) return;
-  current = pickItem();
-  token.className = 'token' + (current.hazard ? ' hazard' : '');
-  token.innerHTML = `<span class="facet">${current.facet}</span><div class="icon">${current.icon}</div><b>${current.text}</b><small>${current.sub}</small>`;
-  token.style.opacity = '1';
-}
-function answer(type) {
-  if (!running || !current) return;
-  const right = type === current.type;
-  if (right) {
-    const base = current.type === 'letgo' ? 130 : 110;
-    const mult = 1 + Math.min(streak, 6) * 0.08;
-    const gained = Math.round((base + balanceBonus()) * mult);
-    score += gained;
-    campaignScore += gained;
-    clarity = Math.min(100, clarity + gainFor(current.type));
-    streak++;
-    bestStreak = Math.max(bestStreak, streak);
-    counts[current.type]++;
-    correctTotal++;
-    toast('Richtig: ' + labels[current.type] + ' (+' + gained + ')', false);
-    animateToken(current.type);
-    flash(current.type, true);
-    sparkles();
-    setCoach(current.coach);
-    updateStats();
-    if (goalMet()) { completeLevel(); return; }
-  } else {
-    score = Math.max(0, score - 45);
-    clarity = Math.max(0, clarity - 7);
-    streak = 0;
-    mistakes++;
-    toast('Gehört zu ' + labels[current.type], true);
-    flash(type, false);
-    setCoach('Dieses Signal gehört zu ' + labels[current.type] + '.');
-  }
-  updateStats();
-  setTimeout(nextToken, 340);
-}
-function gainFor(type) {
-  if (type === 'letgo') return 6;
-  const filled = [counts.color, counts.form, counts.impact, counts.life].filter((v) => v > 0).length;
-  return filled >= 3 ? 8 : 7;
-}
-function balanceBonus() {
-  const vals = [counts.color, counts.form, counts.impact, counts.life];
-  const min = Math.min(...vals);
-  const max = Math.max(...vals);
-  return min > 0 && max - min <= 1 ? 45 : 0;
-}
-function animateToken(type) {
-  token.classList.add('fly-' + type);
-  setTimeout(() => { token.className = 'token' + (current && current.hazard ? ' hazard' : ''); }, 310);
-}
-function flash(type, good) {
-  if (type === 'letgo') {
-    const f = document.getElementById('filter');
-    f.classList.add('flash');
-    setTimeout(() => f.classList.remove('flash'), 300);
-    return;
-  }
-  const id = leafIds[type];
-  if (!id) return;
-  const el = document.getElementById(id);
-  el.classList.add(good ? 'flash' : 'bad');
-  setTimeout(() => el.classList.remove('flash', 'bad'), 310);
-}
-function sparkles() {
-  const board = document.getElementById('board');
-  for (let i = 0; i < 14; i++) {
-    const p = document.createElement('span');
-    p.className = 'particle';
-    p.style.left = '50%';
-    p.style.top = '50%';
-    const a = Math.random() * Math.PI * 2;
-    const d = 80 + Math.random() * 150;
-    p.style.setProperty('--x', Math.cos(a) * d + 'px');
-    p.style.setProperty('--y', Math.sin(a) * d + 'px');
-    board.appendChild(p);
-    setTimeout(() => p.remove(), 750);
-  }
-}
-function strongestLeaf() {
-  const vals = {color: counts.color, form: counts.form, impact: counts.impact, life: counts.life};
-  const entries = Object.entries(vals).sort((a, b) => b[1] - a[1]);
-  return entries[0][1] > 0 ? entries[0][0] : '';
-}
-function updateStats() {
-  const lv = getLevel();
-  document.getElementById('clarity').textContent = clarity + '%';
-  document.getElementById('score').textContent = score;
-  document.getElementById('totalScore').textContent = campaignScore;
-  document.getElementById('time').textContent = seconds;
-  document.getElementById('streak').textContent = streak;
-  document.getElementById('goalLabel').textContent = formatGoalLabel();
-  const gp = goalProgress();
-  const pct = gp.dual
-    ? (gp.streakOk ? 100 : Math.min(100, (score / lv.goal.score) * 100))
-    : Math.min(100, (gp.cur / gp.max) * 100);
-  document.getElementById('goalBar').style.width = pct + '%';
-  const badge = document.getElementById('comboBadge');
-  badge.textContent = 'Serie: ' + streak + (streak >= 3 ? ' · Bonus aktiv' : '');
-  badge.classList.toggle('hot', streak >= 3);
-  ['color','form','impact','life'].forEach((k) => {
-    const fill = Math.min(100, counts[k] * 18);
-    document.getElementById(leafIds[k]).style.setProperty('--fill', fill);
-    document.getElementById('cnt-' + k).textContent = counts[k] + ' Signale';
-  });
-  const analysis = Math.min(100, Math.round(correctCount() * 8));
-  const recommendation = Math.min(100, Math.round(clarity * 0.72 + counts.letgo * 7 + streak * 1.5));
-  document.getElementById('barA').style.width = analysis + '%';
-  document.getElementById('barB').style.width = recommendation + '%';
-  document.getElementById('aPct').textContent = analysis + '%';
-  document.getElementById('bPct').textContent = recommendation + '%';
-  const balanced = [counts.color, counts.form, counts.impact, counts.life].filter((v) => v > 0).length;
-  document.getElementById('balanceTxt').textContent = balanced + '/4';
-  document.getElementById('avoidTxt').textContent = counts.letgo;
-  const best = strongestLeaf();
-  document.getElementById('strongTxt').textContent = best ? labels[best] : '-';
-}
-function completeLevel() {
-  const lv = getLevel();
-  const timeBonus = Math.round(seconds * 4);
-  const perfect = mistakes === 0;
-  const bonus = lv.bonus + timeBonus + (perfect ? 100 : 0);
-  campaignScore += bonus;
-  if (levelIndex + 1 >= progress.unlocked) progress.unlocked = levelIndex + 2;
-  showLevelEvaluation(true, { bonus, perfect });
-}
-function failLevel(msg) {
-  showLevelEvaluation(false, { failMsg: msg });
-}
-function updateEndActions() {
-  const btn = document.getElementById('btnEndPrimary');
-  const st = lastEndState;
-  if (st.won && st.allDone) {
-    btn.textContent = 'Nochmal alle Level';
-  } else if (st.won) {
-    btn.textContent = 'Level ' + (levelIndex + 2) + ' starten';
-  } else {
-    btn.textContent = 'Nochmal versuchen';
-  }
-}
-function continueFromEvaluation() {
-  const st = lastEndState;
-  if (st.won && !st.allDone) {
-    levelIndex++;
-    startLevel();
-    return;
-  }
-  if (st.won && st.allDone) {
-    restartCampaign();
-    return;
-  }
-  startLevel();
-}
-function showLevelEvaluation(won, opts) {
-  running = false;
-  clearInterval(timer);
-  const lv = getLevel();
-  const allDone = won && levelIndex >= LEVELS.length - 1;
-  if (won) {
-    progress.bestClarity = Math.max(progress.bestClarity, clarity);
-    saveProgress();
-    if (allDone) campaignComplete = true;
-  }
-  lastEndState = {
-    won,
-    allDone,
-    bonus: opts.bonus || 0,
-    failMsg: opts.failMsg || '',
-    perfect: !!opts.perfect,
-  };
-  document.getElementById('endHeadline').textContent = allDone
-    ? 'Alle Level gemeistert'
-    : won
-      ? 'Level ' + lv.id + ' geschafft'
-      : 'Level ' + lv.id + ' nicht geschafft';
-  document.getElementById('finalScore').textContent = clarity + '%';
-  document.getElementById('endLevelTitle').textContent = 'Level ' + lv.id + ' · ' + lv.name;
-  document.getElementById('risk').textContent =
-    counts.letgo >= 4 && mistakes < 4 ? 'niedrig' : clarity > 55 ? 'mittel' : 'hoch';
-  document.getElementById('combo').textContent =
-    clarity > 75 ? 'stark' : clarity > 45 ? 'wachsend' : 'Start';
-  const diamondOk =
-    clarity > 70 &&
-    [counts.color, counts.form, counts.impact, counts.life].filter((v) => v > 0).length >= 3;
-  document.getElementById('diamondState').textContent = diamondOk ? 'verbunden' : 'offen';
-  document.getElementById('sumColor').textContent = counts.color;
-  document.getElementById('sumForm').textContent = counts.form;
-  document.getElementById('sumImpact').textContent = counts.impact;
-  document.getElementById('sumLife').textContent = counts.life;
-  document.getElementById('endTotalScore').textContent = campaignScore;
-  document.getElementById('endBestStreak').textContent = bestStreak;
-  let txt;
-  if (won && allDone) {
-    txt =
-      'Sie haben alle fünf Level mit ' +
-      campaignScore +
-      ' Gesamtpunkten abgeschlossen. EStyle kann daraus eine persönliche Stil-Matrix machen.';
-  } else if (won) {
-    txt =
-      '„' +
-      lv.name +
-      '“ abgeschlossen. Bonus: +' +
-      opts.bonus +
-      ' Punkte' +
-      (opts.perfect ? ' (ohne Fehler)' : '') +
-      '. Ihre Stil-Klarheit in diesem Level: ' +
-      clarity +
-      '%.';
-  } else {
-    txt = (opts.failMsg || 'Level nicht geschafft.') + ' Ziel: ' + lv.hint;
-    if (clarity > 0) txt += ' Aktuelle Stil-Klarheit: ' + clarity + '%.';
-  }
-  document.getElementById('endMessage').textContent = txt;
-  updateEndActions();
-  show('end');
-}
-function restartCampaign() {
-  startCampaign(0);
-}
-
-document.getElementById('btnPlay').addEventListener('click', beginPlay);
-document.getElementById('btnLevels').addEventListener('click', toggleLevelSelect);
-document.getElementById('btnIntroTutorial').addEventListener('click', () => openTutorial(false));
-document.getElementById('btnTutorial').addEventListener('click', () => openTutorial(false));
-document.getElementById('tutorialSkip').addEventListener('click', () => {
-  closeTutorial();
-  if (tutorialOverlay.dataset.fromIntro === '1') startCampaign(0);
-});
-document.getElementById('tutorialBack').addEventListener('click', () => {
-  if (tutorialStep > 0) { tutorialStep--; renderTutorialStep(); }
-});
-document.getElementById('tutorialNext').addEventListener('click', () => {
-  if (tutorialStep < TUTORIAL.length - 1) { tutorialStep++; renderTutorialStep(); }
-  else { closeTutorial(); startCampaign(0); }
-});
-document.getElementById('btnEndPrimary').addEventListener('click', continueFromEvaluation);
-document.getElementById('btnRestart').addEventListener('click', restartCampaign);
-document.getElementById('btnEndLevels').addEventListener('click', () => {
-  show('intro');
-  const box = document.getElementById('introLevelSelect');
-  renderIntroLevels();
-  box.hidden = false;
-});
-
-document.addEventListener('keydown', (e) => {
-  if (tutorialOverlay.classList.contains('open')) return;
-  if (e.key === '1') answer('color');
-  if (e.key === '2') answer('form');
-  if (e.key === '3') answer('impact');
-  if (e.key === '4') answer('life');
-  if (e.key.toLowerCase() === 'l') answer('letgo');
-});
-
-renderIntroLevels();
-
-</script>
+<script type="module" src="js/main.js"></script>
 </body>
 </html>

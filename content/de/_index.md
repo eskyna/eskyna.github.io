@@ -7,9 +7,6 @@ hero:
   ctaText: "Kostenloses Erstgespräch"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   image: "images/Natalia_white_hero.png"
-  trust:
-    - "Online & vor Ort"
-    - "Mit System"
 problems:
   title: "Erkennen Sie sich hier wieder?"
   items:

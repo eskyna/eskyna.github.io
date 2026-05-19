@@ -7,10 +7,6 @@ hero:
   ctaText: "Узнайте о моих услугах"
   ctaHref: "#angebote"
   image: "images/Natalia_white_hero.png"
-  trust:
-    - "Онлайн и очно"
-    - "Индивидуальный подход"
-    - "Системный метод"
 problems:
   title: "Вы узнаёте себя?"
   items:
