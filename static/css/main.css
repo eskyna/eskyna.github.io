@@ -338,6 +338,16 @@ h1 {
   border: 1px solid var(--accent);
   border-radius: 10px;
   color: #2c1e16;
+.btn:hover {
+  color: #2c1e16;
+  background-color: rgb(197 160 89 / 86%);
+  box-shadow: 0 2px 12px rgb(197 160 89 / 28%);
+}
+.btn-icon {
+  height: 20px;
+  width: auto;
+  margin-right: 0.5rem;
+}
   font-weight: 600;
   font-size: 0.95rem;
   line-height: 1;
