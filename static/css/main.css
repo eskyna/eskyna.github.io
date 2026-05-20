@@ -338,16 +338,6 @@ h1 {
   border: 1px solid var(--accent);
   border-radius: 10px;
   color: #2c1e16;
-.btn:hover {
-  color: #2c1e16;
-  background-color: rgb(197 160 89 / 86%);
-  box-shadow: 0 2px 12px rgb(197 160 89 / 28%);
-}
-.btn-icon {
-  height: 20px;
-  width: auto;
-  margin-right: 0.5rem;
-}
   font-weight: 600;
   font-size: 0.95rem;
   line-height: 1;
@@ -357,6 +347,18 @@ h1 {
     background-color 0.2s ease,
     box-shadow 0.2s ease;
   background-color: var(--accent);
+}
+
+.btn:hover {
+  color: #2c1e16;
+  background-color: rgb(197 160 89 / 86%);
+  box-shadow: 0 2px 12px rgb(197 160 89 / 28%);
+}
+
+.btn-icon {
+  height: 20px;
+  width: auto;
+  margin-right: 0.5rem;
 }
 
 .hero-actions {
@@ -382,22 +384,10 @@ h1 {
   filter: brightness(0) invert(1);
 }
 
-.btn:hover {
-  color: #2c1e16;
-  background-color: rgb(197 160 89 / 86%);
-  box-shadow: 0 2px 12px rgb(197 160 89 / 28%);
-}
-
 .btn-secondary {
   border-color: rgb(139 94 52 / 35%);
   color: var(--text);
   background-color: transparent;
-}
-
-.btn-icon {
-  height: 20px;
-  width: auto;
-  margin-right: 0.5rem;
 }
 
 .btn-secondary:hover {
@@ -874,7 +864,7 @@ h1 {
   justify-self: center;
 }
 
-.benefit-card {
+.benefit-card.benefit-card.benefit-card {
   border: 1px solid var(--card-border);
   border-radius: 16px;
   padding: 1.3rem;
@@ -938,12 +928,12 @@ h1 {
   font-size: 1.05rem;
 }
 
-.process-card p:last-child {
+.process-card.process-card.process-card.process-card p:last-child {
   margin: 0;
   color: var(--muted);
 }
 
-.process-section .btn {
+.process-section.process-section .btn.btn {
   margin-top: 1.2rem;
 }
 
@@ -1208,7 +1198,7 @@ h1 {
   line-height: 1.6;
 }
 
-.free-offer-card .btn {
+.free-offer-card.free-offer-card .btn.btn {
   align-self: flex-start;
   margin-top: auto;
   padding: 0.75rem 1.5rem;
@@ -1519,7 +1509,7 @@ h1 {
   align-items: center;
 }
 
-.package-cta .btn {
+.package-cta.package-cta .btn.btn {
   width: 100%;
   justify-content: center;
   min-height: 48px;
@@ -1606,7 +1596,7 @@ h1 {
   line-height: 1.7;
 }
 
-.offers-uncertainty-section .btn {
+.offers-uncertainty-section.offers-uncertainty-section .btn.btn {
   margin: 0 auto;
 }
 
@@ -1697,7 +1687,7 @@ h1 {
   align-items: end;
 }
 
-.page-grid > div:first-child {
+.page-grid.page-grid.page-grid > div:first-child {
   grid-area: content;
   min-width: 0;
 }
@@ -1724,10 +1714,9 @@ h1 {
 
 .page-image-wrap {
   grid-area: image;
-  align-self: end;
+  place-self: end end;
   display: flex;
   align-items: flex-end;
-  justify-self: end;
   height: 100%;
   width: min(100%, 420px);
 }
@@ -1978,7 +1967,7 @@ h1 {
   border: none;
 }
 
-.method-section .method-quote p {
+.method-section.method-section.method-section.method-section blockquote.method-quote p {
   font-family: var(--font-text);
   font-style: italic;
   font-size: 1.05rem;
@@ -2051,7 +2040,6 @@ h1 {
   border-radius: 16px;
   background: rgb(255 255 255 / 28%);
   backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
   box-shadow: 0 10px 24px rgb(44 30 22 / 10%);
   overflow: hidden;
 }
@@ -2102,7 +2090,7 @@ h1 {
   padding: 0 1.2rem 1.2rem;
 }
 
-.faq-section .faq-answer p {
+.faq-section.faq-section.faq-section.faq-section div.faq-answer p {
   font-family: var(--font-text);
   font-size: 0.97rem;
   line-height: 1.75;
@@ -2110,7 +2098,7 @@ h1 {
   margin: 0;
 }
 
-.hero-copy .lead p + p {
+.hero-copy.hero-copy.hero-copy.hero-copy .lead p + p {
   margin-top: 1.8rem;
 }
 
@@ -2943,7 +2931,7 @@ main .hero .hero-copy {
   grid-column: span 3;
 }
 
-.home-main .problem-card {
+.home-main .problem-card.problem-card.problem-card {
   min-width: 0;
 }
 
@@ -3118,7 +3106,7 @@ body :where(button) {
   text-underline-offset: 0.18em;
 }
 
-.home-main .btn,
+.home-main.home-main.home-main.home-main .btn.btn,
 :where(.hero-tools .language-switcher a, .site-footer .site-footer-inner a) {
   min-height: 44px;
   min-width: 44px;
@@ -3338,7 +3326,7 @@ body :where(button) {
   gap: 0.7rem;
 }
 
-.blog-hero-actions .btn {
+.blog-hero-actions.blog-hero-actions.blog-hero-actions.blog-hero-actions .btn.btn {
   min-height: 2.7rem;
   border-radius: 999px;
 }
@@ -3658,13 +3646,13 @@ body :where(button) {
   color: var(--journal-accent-dark);
 }
 
-.blog-prose .btn {
+.blog-prose.blog-prose.blog-prose.blog-prose .btn.btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
 }
 
-.blog-prose .btn .btn-icon {
+.blog-prose.blog-prose.blog-prose.blog-prose .btn.btn .btn-icon.btn-icon {
   width: auto;
   height: 20px;
   max-width: none;
