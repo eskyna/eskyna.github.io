@@ -65,5 +65,45 @@
     </div>
   </section>
   {{ end }}
+
+  {{ with .Params.facts }}
+  <section class="section section-dark">
+    <div class="container">
+      <h2>{{ .title }}</h2>
+      <ul class="facts-list">
+        {{ range .items }}
+          <li>{{ . | markdownify }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ with .Params.method }}
+  <section class="section method-section" id="methode">
+    <div class="container">
+      <p class="eyebrow method-eyebrow">{{ .eyebrow }}</p>
+      <h2 class="method-heading">{{ .title }}</h2>
+      <p class="method-intro">{{ .intro }}</p>
+      <p class="method-tagline">{{ .tagline }}</p>
+      <div class="method-journey">
+        {{ range .steps }}
+        <article class="method-step">
+          <div class="method-step-icon">
+            <img src="{{ .icon | relURL }}" alt="Symbol für {{ .title }}" title="Symbol für {{ .title }}" class="method-step-img" aria-hidden="true" loading="lazy" width="72" height="72">
+          </div>
+          <p class="method-step-badge">{{ .letter }}</p>
+          <h3 class="method-step-title">{{ .title }}</h3>
+          <p class="method-step-text">{{ .text }}</p>
+        </article>
+        {{ end }}
+      </div>
+      <blockquote class="method-quote">
+        <p>{{ .quote }}</p>
+        <footer>— Natalia Kleemann</footer>
+      </blockquote>
+    </div>
+  </section>
+  {{ end }}
 </main>
 {{ end }}

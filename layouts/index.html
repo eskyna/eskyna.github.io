@@ -15,10 +15,9 @@
 <main class="home-main">
   <section class="hero">
     <div class="container hero-topbar">
-      <p class="hero-coach-label" aria-label="Natalia Kleemann | Style- und Imagecoach">
+      <p class="hero-coach-label" aria-label="Natalia Kleemann">
         <span class="hero-coach-name">Natalia Kleemann</span>
-        <span class="hero-coach-separator" aria-hidden="true"></span>
-        <span class="hero-coach-title">Style- und<br>Imagecoach</span>
+        <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol in Gold" class="hero-coach-sign" aria-hidden="true">
       </p>
       <div class="hero-tools">
         {{ partial "social-links.html" . }}
@@ -73,8 +72,11 @@
         {{ partial "responsive-image.html" (dict "src" $coach.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
       </div>
       <div>
-        <h2>{{ $coach.title }}</h2>
+        <h2>{{ $coach.title | safeHTML }}</h2>
         <p>{{ $coach.text }}</p>
+        {{ with $facts.mission }}
+        <div class="coach-mission">{{ . | markdownify }}</div>
+        {{ end }}
         <div class="coach-actions">
           {{ partial "button-icon.html" (dict "href" $coach.buttonHref "text" $coach.buttonText "title" $coach.buttonText "targetBlank" true) }}
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
@@ -85,22 +87,9 @@
     </div>
   </section>
 
-  <section class="section section-dark">
-    <div class="container">
-      <h2>{{ $facts.title }}</h2>
-      <ul class="facts-list">
-        {{ range $facts.items }}
-          <li>{{ . | markdownify }}</li>
-        {{ end }}
-      </ul>
-      <div class="mission">{{ $facts.mission | markdownify | safeHTML }}</div>
-    </div>
-  </section>
-
   <section class="section benefits-section">
     <div class="container">
       <h2>{{ $results.title }}</h2>
-      <p class="benefits-intro">{{ $ui.benefits_intro }}</p>
       <div class="benefits-grid">
         {{ range $results.items }}
           <article class="benefit-card">
@@ -255,33 +244,6 @@
     </div>
   </section>
 
-  {{ with $method }}
-  <section class="section method-section" id="methode">
-    <div class="container">
-      <p class="eyebrow method-eyebrow">{{ .eyebrow }}</p>
-      <h2 class="method-heading">{{ .title }}</h2>
-      <p class="method-intro">{{ .intro }}</p>
-      <p class="method-tagline">{{ .tagline }}</p>
-      <div class="method-journey">
-        {{ range .steps }}
-        <article class="method-step">
-          <div class="method-step-icon">
-            <img src="{{ .icon | relURL }}" alt="Symbol für {{ .title }}" title="Symbol für {{ .title }}" class="method-step-img" aria-hidden="true" loading="lazy" width="72" height="72">
-          </div>
-          <p class="method-step-badge">{{ .letter }}</p>
-          <h3 class="method-step-title">{{ .title }}</h3>
-          <p class="method-step-text">{{ .text }}</p>
-        </article>
-        {{ end }}
-      </div>
-      <blockquote class="method-quote">
-        <p>{{ .quote }}</p>
-        <footer>— Natalia Kleemann</footer>
-      </blockquote>
-    </div>
-  </section>
-  {{ end }}
-
   <section class="section references-section" id="referenzen">
     <div class="container">
       <h2>{{ $references.title }}</h2>
@@ -321,7 +283,7 @@
     <div class="container contact-grid">
       <div>
         <h2>{{ $contact.title }}</h2>
-        <p>{{ $contact.text }}</p>
+        <p>{{ $contact.text | markdownify }}</p>
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}" title="{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
         <div class="contact-faq-cta">
