@@ -12,6 +12,8 @@
 {{ $faq := .Params.faq }}
 {{ $contact := .Params.contact }}
 {{ $ui := .Params.ui }}
+{{ $contactBlogHintText := $contact.blogHintText }}
+{{ $contactBlogLinkText := $contact.blogLinkText }}
 <main class="home-main">
   <section class="hero">
     <div class="container hero-topbar">
@@ -296,6 +298,15 @@
         {{ partial "social-links.html" . }}
         <div class="contact-faq-cta">
           {{ partial "button-icon.html" (dict "href" $ui.faq_cta_href "text" $ui.faq_cta_text "title" $ui.faq_cta_text "targetBlank" true) }}
+        </div>
+        <div class="contact-blog-teaser">
+          <div class="contact-blog-icon-wrap" aria-hidden="true">
+            <img src="{{ "/images/book.svg" | relURL }}" alt="" class="contact-blog-icon" width="32" height="32">
+          </div>
+          <p class="contact-blog-copy">
+            {{ $contactBlogHintText }}<br />
+            <a href="{{ "blog" | relLangURL }}" title="{{ $contactBlogLinkText }}">→ {{ $contactBlogLinkText }}</a>
+          </p>
         </div>
       </div>
       {{ partial "responsive-image.html" (dict "src" $contact.photo "alt" $ui.coach_image_alt "title" $ui.coach_image_alt "class" "signature-photo" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" 1290 "height" 1582) }}

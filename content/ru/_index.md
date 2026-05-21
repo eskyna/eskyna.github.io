@@ -275,6 +275,8 @@ faq:
 contact:
   title: "Давайте поговорим о вашем новом имидже"
   text: "Запишитесь на бесплатную первую встречу, и мы вместе посмотрим, какой формат коучинга вам подходит."
+  blogHintText: "Больше деталей о стиле, впечатлении и осознанном гардеробе вы найдете в моем блоге"
+  blogLinkText: "К блогу"
   email: "natalia@eskyna.com"
   photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"

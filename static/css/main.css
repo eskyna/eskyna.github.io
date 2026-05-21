@@ -2751,6 +2751,55 @@ main .hero .hero-copy {
   margin-top: 1.5rem;
 }
 
+.contact-blog-teaser {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0;
+}
+
+.contact-blog-icon-wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 999px;
+  border: 1px solid rgb(44 30 22 / 92%);
+  background: transparent;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.contact-blog-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.contact-blog-copy {
+  margin: 0;
+  color: var(--text);
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+
+#kontakt .contact-blog-teaser .contact-blog-copy a:any-link {
+  font-weight: 700;
+  white-space: nowrap;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.22rem;
+}
+
+#kontakt .contact-blog-teaser .contact-blog-copy a:any-link::after {
+  content: "";
+  width: 6.3rem;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 999px;
+}
+
 @media (width <= 768px) {
   .products-grid {
     grid-template-columns: 1fr;
@@ -2782,6 +2831,10 @@ main .hero .hero-copy {
   .contact-faq-cta .btn {
     width: 100%;
     justify-content: center;
+  }
+
+  .contact-blog-teaser {
+    align-items: flex-start;
   }
 
   .offers-comparison-section,

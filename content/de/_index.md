@@ -240,7 +240,9 @@ faq:
   icon: "images/icons/garderoben-chaos.svg"
 contact:
   title: "Lass uns über deinen neuen Auftritt sprechen"
-  text: "Buche ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu dir passt. Wenn du mehr Details zu Stil haben willst, schau auf meinem [Blog](/blog/) vorbei."
+  text: "Buche ein unverbindliches Erstgespräch und wir schauen gemeinsam, welches Coaching zu dir passt."
+  blogHintText: "Mehr Details zu Stil, Wirkung und bewusster Garderobe finden Sie in meinem Blog"
+  blogLinkText: "Zum Blog"
   email: "natalia@eskyna.com"
   photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"
