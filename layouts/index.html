@@ -17,7 +17,7 @@
     <div class="container hero-topbar">
       <p class="hero-coach-label" aria-label="Natalia Kleemann">
         <span class="hero-coach-name">Natalia Kleemann</span>
-        <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol in Gold" class="hero-coach-sign" aria-hidden="true">
+        <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
       </p>
       <div class="hero-tools">
         {{ partial "social-links.html" . }}
@@ -38,7 +38,15 @@
         {{ end }}
       </div>
       <div class="hero-image-wrap">
-        {{ partial "responsive-image.html" (dict "src" $hero.image "alt" $ui.hero_image_alt "title" $ui.hero_image_alt "class" "hero-image" "loading" "eager" "decoding" "async" "fetchpriority" "high" "sizes" "(max-width: 800px) 100vw, 50vw" "width" 1600 "height" 1280) }}
+        <picture>
+          <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_combined.avif" | relURL }}" type="image/avif">
+          <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_combined.webp" | relURL }}" type="image/webp">
+          <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_combined.png" | relURL }}" type="image/png">
+          <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_combined.avif" | relURL }}" type="image/avif">
+          <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_combined.webp" | relURL }}" type="image/webp">
+          <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_combined.png" | relURL }}" type="image/png">
+          <img src="{{ "/images/backgrounds/hero/new_hero_landscape_combined.png" | relURL }}" alt="{{ $ui.hero_image_alt }}" title="{{ $ui.hero_image_alt }}" class="hero-image" loading="eager" decoding="async" fetchpriority="high">
+        </picture>
       </div>
     </div>
   </section>
