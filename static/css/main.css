@@ -1669,9 +1669,12 @@ h1 {
 }
 
 .reference-chip {
-  display: grid;
-  place-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
   min-height: 86px;
+  height: 100%;
   border: 1px solid var(--card-border);
   border-radius: 14px;
   background: var(--surface-card-soft);
@@ -1682,14 +1685,22 @@ h1 {
 }
 
 .reference-logo {
-  max-height: 28px;
-  width: auto;
+  width: min(100%, 120px);
+  height: 2.6rem;
+  max-height: 2.6rem;
+  flex: 0 0 2.6rem;
   object-fit: contain;
 }
 
 .reference-name {
   margin: 0;
   font-size: 0.9rem;
+  line-height: 1.3;
+  min-height: calc(1.3em * 2);
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 .signature-photo {
@@ -2046,6 +2057,11 @@ h1 {
   text-transform: uppercase;
   color: var(--accent);
   margin: 0.15rem 0 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  hyphens: auto;
+  line-height: 1.35;
 }
 
 /* ── FAQ Akkordeon ─────────────────────────────────────── */
@@ -3037,6 +3053,14 @@ main .hero .hero-copy {
 
 .home-main .problem-card.problem-card.problem-card {
   min-width: 0;
+  background: rgb(255 255 255 / 56%);
+  backdrop-filter: blur(7px) saturate(112%);
+  -webkit-backdrop-filter: blur(7px) saturate(112%);
+  border-color: rgb(70 45 30 / 24%);
+}
+
+.home-main .problem-card .ps-card-text {
+  color: rgb(44 30 22 / 92%);
 }
 
 .home-main .problem-card .ps-card-icon {
@@ -3195,7 +3219,7 @@ main .hero .hero-copy {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
   gap: clamp(1rem, 2vw, 2rem);
-  align-items: center;
+  align-items: stretch;
 }
 
 .home-main .reference-logo {

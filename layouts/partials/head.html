@@ -235,10 +235,14 @@
   {{ end }}
 </style>
 
-{{ $mainCSSMin := resources.FromString "css/main.css" (readFile "static/css/main.css") | minify }}
-<link rel="preload" href="{{ $mainCSSMin.RelPermalink }}" as="style">
-<link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}"></noscript>
+{{ if hugo.IsProduction }}
+  {{ $mainCSSMin := resources.FromString "css/main.css" (readFile "static/css/main.css") | minify }}
+  <link rel="preload" href="{{ $mainCSSMin.RelPermalink }}" as="style">
+  <link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}"></noscript>
+{{ else }}
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{ end }}
 
 {{ if .IsHome }}
   {{ range .AllTranslations -}}
