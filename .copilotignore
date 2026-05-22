@@ -1,0 +1,13 @@
+# Exclude local preview workspace from Copilot context.
+preview/
+
+# Exclude generated site output.
+public/
+
+# Exclude GIMP project files.
+*.xcf
+*.XCF
+*.xcf.gz
+*.XCF.GZ
+*.xcf.bz2
+*.XCF.BZ2
