@@ -82,7 +82,7 @@ def parse_template_for_params(content: str) -> set[str]:
     """
     Simple tokenizer/state machine that scans Hugo template blocks
     and extracts .Params.<tag>, .Page.Params.<tag>, .Site.Params.<tag>,
-    and .Description usages without regex parsing.
+    built-in fields (.Title, .Date, .Draft, .Description), and other usages.
     """
     tags: set[str] = set()
     in_tag = False
@@ -113,9 +113,11 @@ def parse_template_for_params(content: str) -> set[str]:
                     except (ValueError, IndexError):
                         pass
                 
-                # Match .Description
-                if clean_token == ".Description":
-                    tags.add("description")
+                # Match built-in fields: .Title, .Date, .Draft, .Description
+                builtin_fields = {".Title": "title", ".Date": "date", ".Draft": "draft", ".Description": "description"}
+                for field, tag_name in builtin_fields.items():
+                    if clean_token == field:
+                        tags.add(tag_name)
 
             buffer = ""
             i += 2
@@ -149,14 +151,7 @@ def get_layout_tags(layouts_dir: Path) -> set[str]:
 def get_markdown_tags(content_dir: Path) -> dict[Path, dict[str, int]]:
     """Read top-level YAML front matter keys and their line numbers from all .md files under content."""
     md_files: dict[Path, dict[str, int]] = {}
-    ignored_tags = {
-        "title",
-        "date",
-        "draft",
-        "slug",
-        "url",
-        "aliases",
-    }
+
 
     def extract_top_level_yaml_keys_with_lines(content: str) -> dict[str, int]:
         keys: dict[str, int] = {}
@@ -205,7 +200,7 @@ def get_markdown_tags(content_dir: Path) -> dict[Path, dict[str, int]]:
             try:
                 content = path.read_text(encoding="utf-8")
                 key_lines = extract_top_level_yaml_keys_with_lines(content)
-                file_tags = {k: line_no for k, line_no in key_lines.items() if k not in ignored_tags}
+                file_tags = {k: line_no for k, line_no in key_lines.items()}
                 md_files[path] = file_tags
             except Exception as exc:
                 print(f"Error reading {path}: {exc}", file=sys.stderr)
