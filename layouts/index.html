@@ -108,6 +108,7 @@
           </article>
         {{ end }}
       </div>
+      {{ with $results.outro }}<p class="benefits-intro benefits-outro">{{ . | safeHTML }}</p>{{ end }}
     </div>
   </section>
 
@@ -262,9 +263,10 @@
       <p class="references-subtitle">{{ $references.subtitle }}</p>
       <div class="references-grid">
         {{ range $item := $references.items }}
-          <article class="reference-chip">
+          {{ $tooltip := or $item.hoverText $item.label $item.name }}
+          <article class="reference-chip" title="{{ $tooltip }}">
             {{ with $item.logo }}
-              <img src="{{ if or (hasPrefix . "http") (hasPrefix . "data:") }}{{ . | safeURL }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" title="Logo {{ $item.name }}" class="reference-logo" loading="lazy" width="120" height="28">
+              <img src="{{ if or (hasPrefix . "http") (hasPrefix . "data:") }}{{ . | safeURL }}{{ else }}{{ . | relURL }}{{ end }}" alt="Logo {{ $item.name }}" title="{{ $tooltip }}" class="reference-logo" loading="lazy" width="120" height="28">
             {{ end }}
             <p class="reference-name">{{ $item.name }}</p>
             {{ with $item.label }}<p class="reference-label">{{ . }}</p>{{ end }}
@@ -294,7 +296,7 @@
   <section class="section" id="kontakt">
     <div class="container contact-grid">
       <div>
-        <h2>{{ $contact.title }}</h2>
+        <h2>{{ $contact.title | safeHTML }}</h2>
         <p>{{ $contact.text | markdownify }}</p>
         <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}" title="{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}

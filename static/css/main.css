@@ -530,11 +530,11 @@ h1 {
 
 #kontakt {
   background-image:
-    linear-gradient(180deg, rgb(246 241 234 / 56%), rgb(246 241 234 / 70%)),
+    linear-gradient(180deg, rgb(255 255 255 / 72%), rgb(255 255 255 / 72%)),
     image-set(
-      url("/images/backgrounds/sections/linen-shapes.avif") type("image/avif"),
-      url("/images/backgrounds/sections/linen-shapes.webp") type("image/webp"),
-      url("/images/backgrounds/sections/linen-shapes.png") type("image/png")
+      url("/images/backgrounds/sections/silk_light.avif") type("image/avif"),
+      url("/images/backgrounds/sections/silk_light.webp") type("image/webp"),
+      url("/images/backgrounds/sections/silk_light.png") type("image/png")
     );
   background-size: cover;
   background-position: center;
@@ -542,6 +542,21 @@ h1 {
   padding-bottom: 0;
   position: relative;
   overflow: hidden;
+}
+
+#kontakt h2 {
+  position: relative;
+  padding-bottom: 0.55rem;
+}
+
+#kontakt h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 2px;
+  background-color: rgb(197 160 89 / 32%);
 }
 
 #angebote {
@@ -866,6 +881,15 @@ h1 {
   color: rgb(44 30 22 / 86%);
 }
 
+.benefits-outro {
+  margin-top: 1.4rem;
+  font-size: 1.1rem;
+  line-height: 1.75;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: rgb(44 30 22 / 96%);
+}
+
 .benefits-intro,
 .process-intro,
 .process-outro,
@@ -888,8 +912,7 @@ h1 {
 }
 
 .benefits-grid > .benefit-card:nth-child(n + 4) {
-  grid-column: span 6;
-  justify-self: center;
+  grid-column: span 4;
 }
 
 .benefit-card.benefit-card.benefit-card {
