@@ -76,13 +76,15 @@ facts:
     - "Mama von 2 stilbewussten Jungs"
     - "Ich denke Stilberatung neu; als Gründerin von [EStyle](/estyle/)"
   mission: |
-    *„Meine Mission ist es, Menschen durch Stil mehr Sicherheit,
-    Leichtigkeit und bewusste Entscheidungen zu geben."*
+    Meine Mission ist es, Stil einfacher, bewusster und wirkungsvoller zu machen:
+
+    - weniger Fehlkäufe
+    - mehr Qualität
+    - eine Garderobe, die langfristig funktioniert
 services:
   title: "Finde den Stil, der wirklich zu dir passt"
 
   free:
-    subtitle: "Bevor du dich für eine persönliche Stilberatung entscheidest, kannst du ESKYNA kostenlos kennenlernen. Nutze das Kennenlerngespräch, den Stiltest oder die Styling-Tipps als ersten Impuls für mehr Klarheit in deinem Stil."
     items:
       - title: "Kostenloser Stiltest"
         text: "Der ideale Einstieg, wenn du deinen Stil besser verstehen und erste Orientierung gewinnen möchtest."

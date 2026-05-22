@@ -90,7 +90,7 @@
         <div class="coach-actions">
           {{ partial "button-icon.html" (dict "href" $coach.buttonHref "text" $coach.buttonText "title" $coach.buttonText "targetBlank" true) }}
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
-          {{ partial "button-icon.html" (dict "href" ($ui.coach_about_cta_href | relURL) "text" $ui.coach_about_cta_text "title" $ui.coach_about_cta_text "class" "btn btn-secondary") }}
+          {{ partial "button-icon.html" (dict "href" ($ui.coach_about_cta_href | relURL) "text" $ui.coach_about_cta_text "title" $ui.coach_about_cta_text "class" "btn btn-secondary btn-secondary-light" "noIcon" true) }}
           {{ end }}
         </div>
       </div>
@@ -119,7 +119,9 @@
       <!-- Kostenlose Angebote -->
       <section class="offers-free-section">
         {{ with $services.free.title }}<h3 class="offers-group-title">{{ . }}</h3>{{ end }}
-        <p class="offers-free-intro">{{ $services.free.subtitle }}</p>
+         {{ with $services.free.subtitle }}
+         <p class="offers-free-intro">{{ . }}</p>
+         {{ end }}
         <div class="offers-free-grid">
           {{ range $idx, $item := $services.free.items }}
             {{ $itemTitle := $item.title }}
