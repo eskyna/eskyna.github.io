@@ -111,6 +111,16 @@
 
         <article class="prose content-prose blog-prose">
           {{ .Content }}
+          {{ with .Params.tags }}
+            <footer class="blog-tags">
+              <div class="blog-tags-label">Tags:</div>
+              <div class="blog-tags-list">
+                {{ range . }}
+                  <a href="{{ ("blog" | relLangURL) }}" class="blog-tag-chip">{{ . }}</a>
+                {{ end }}
+              </div>
+            </footer>
+          {{ end }}
         </article>
       </div>
     </div>

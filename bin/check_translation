@@ -81,7 +81,8 @@ def parse_args() -> argparse.Namespace:
 def parse_template_for_params(content: str) -> set[str]:
     """
     Simple tokenizer/state machine that scans Hugo template blocks
-    and extracts .Params.<tag> usages without regex parsing.
+    and extracts .Params.<tag>, .Page.Params.<tag>, .Site.Params.<tag>,
+    and .Description usages without regex parsing.
     """
     tags: set[str] = set()
     in_tag = False
@@ -101,10 +102,20 @@ def parse_template_for_params(content: str) -> set[str]:
             tokens = buffer.split()
             for token in tokens:
                 clean_token = token.strip("()\"',")
-                if clean_token.startswith(".Params."):
-                    parts = clean_token.split(".")
-                    if len(parts) >= 3:
-                        tags.add(parts[2])
+                parts = clean_token.split(".")
+                
+                # Match .Params.<tag>, .Page.Params.<tag>, .Site.Params.<tag>
+                if "Params" in parts:
+                    try:
+                        params_idx = parts.index("Params")
+                        if params_idx + 1 < len(parts):
+                            tags.add(parts[params_idx + 1])
+                    except (ValueError, IndexError):
+                        pass
+                
+                # Match .Description
+                if clean_token == ".Description":
+                    tags.add("description")
 
             buffer = ""
             i += 2
