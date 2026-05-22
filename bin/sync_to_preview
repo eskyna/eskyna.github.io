@@ -1,0 +1,98 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+# Sync this repo into ../eskyna-preview.
+# Default mode is dry-run. Use --apply to perform changes.
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SOURCE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+TARGET_DIR_DEFAULT="preview"
+TARGET_DIR="$TARGET_DIR_DEFAULT"
+DO_APPLY=0
+
+usage() {
+  cat <<EOF
+Usage: $(basename "$0") [--apply] [--target PATH]
+
+Options:
+  --apply         Perform the sync (default is dry-run).
+  --target PATH   Target directory (default: preview)
+  -h, --help      Show this help.
+
+Examples:
+  ./bin/sync-to-preview
+  ./bin/sync-to-preview --apply
+  ./bin/sync-to-preview --apply --target preview
+EOF
+}
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --apply)
+      DO_APPLY=1
+      shift
+      ;;
+    --target)
+      [[ $# -ge 2 ]] || {
+        echo "Fehler: --target benötigt einen Pfad." >&2
+        exit 1
+      }
+      TARGET_DIR="$2"
+      shift 2
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    *)
+      echo "Unbekannte Option: $1" >&2
+      usage >&2
+      exit 1
+      ;;
+  esac
+done
+
+if ! command -v rsync >/dev/null 2>&1; then
+  echo "Fehler: rsync ist nicht installiert." >&2
+  exit 1
+fi
+
+mkdir -p "$TARGET_DIR"
+
+if [[ ! -d "$TARGET_DIR/.git" ]]; then
+  echo "Fehler: Ziel ist kein Git-Repo: $TARGET_DIR" >&2
+  echo "Bitte zuerst im Ziel 'git init' oder ein Remote klonen." >&2
+  exit 1
+fi
+
+RSYNC_FLAGS=(
+  -av
+  --delete
+  --exclude=.git/
+  --exclude=.DS_Store
+  --exclude=node_modules/
+  --exclude=public/
+  --exclude=resources/_gen/
+  --exclude=test-results/
+)
+
+if [[ "$DO_APPLY" -eq 0 ]]; then
+  RSYNC_FLAGS+=(--dry-run)
+  echo "[DRY-RUN] Zeige geplante Änderungen von:"
+else
+  echo "[APPLY] Synchronisiere Änderungen von:"
+fi
+
+echo "  Quelle: $SOURCE_DIR/"
+echo "  Ziel:   $TARGET_DIR/"
+
+rsync "${RSYNC_FLAGS[@]}" "$SOURCE_DIR/" "$TARGET_DIR/"
+
+if [[ "$DO_APPLY" -eq 0 ]]; then
+  echo
+  echo "Dry-run abgeschlossen. Für echten Sync: ./bin/sync-to-preview --apply"
+else
+  echo
+  echo "Sync abgeschlossen. Nächster Schritt im Zielrepo: git status"
+fi
