@@ -10,9 +10,9 @@ import sys
 from pathlib import Path
 
 try:
-    import yaml as pyyaml
+    import yaml
 except ModuleNotFoundError:
-    pyyaml = None
+    yaml = None
 
 
 class C:
@@ -135,26 +135,55 @@ def get_layout_tags(layouts_dir: Path) -> set[str]:
     return layout_tags
 
 
-def get_markdown_tags(content_dir: Path) -> dict[Path, set[str]]:
-    """Read YAML front matter from all .md files under content."""
-    md_files: dict[Path, set[str]] = {}
-    ignored_tags = {"title", "date", "draft", "slug", "url", "aliases"}
+def get_markdown_tags(content_dir: Path) -> dict[Path, dict[str, int]]:
+    """Read top-level YAML front matter keys and their line numbers from all .md files under content."""
+    md_files: dict[Path, dict[str, int]] = {}
+    ignored_tags = {
+        "title",
+        "date",
+        "draft",
+        "slug",
+        "url",
+        "aliases",
+    }
 
-    def extract_top_level_yaml_keys(yaml_content: str) -> set[str]:
-        keys: set[str] = set()
-        for raw_line in yaml_content.splitlines():
-            line = raw_line.rstrip()
-            if not line or line.lstrip().startswith("#"):
+    def extract_top_level_yaml_keys_with_lines(content: str) -> dict[str, int]:
+        keys: dict[str, int] = {}
+        lines = content.splitlines()
+        if not lines or lines[0].strip() != "---":
+            return keys
+
+        # Front matter starts after first --- and ends at next ---.
+        end_idx = -1
+        for idx in range(1, len(lines)):
+            if lines[idx].strip() == "---":
+                end_idx = idx
+                break
+        if end_idx == -1:
+            return keys
+
+        yaml_lines = lines[1:end_idx]
+        yaml_content = "\n".join(yaml_lines)
+        if not yaml_content.strip():
+            return keys
+
+        try:
+            node = yaml.compose(yaml_content)
+        except yaml.YAMLError:
+            return keys
+
+        if not isinstance(node, yaml.MappingNode):
+            return keys
+
+        # The first line of YAML content maps to file line 2.
+        base_line = 2
+        for key_node, _value_node in node.value:
+            if not isinstance(key_node, yaml.ScalarNode):
                 continue
-            # Only top-level keys (no indentation)
-            if line.startswith((" ", "\t")):
-                continue
-            if ":" not in line:
-                continue
-            key = line.split(":", 1)[0].strip()
+            key = str(key_node.value).strip()
             if not key or key.startswith("-"):
                 continue
-            keys.add(key)
+            keys[key] = base_line + int(key_node.start_mark.line)
         return keys
 
     for root, _, files in os.walk(content_dir):
@@ -164,21 +193,8 @@ def get_markdown_tags(content_dir: Path) -> dict[Path, set[str]]:
             path = Path(root) / file_name
             try:
                 content = path.read_text(encoding="utf-8")
-                if not content.startswith("---"):
-                    continue
-                parts = content.split("---", 2)
-                if len(parts) < 3:
-                    continue
-                yaml_content = parts[1]
-                if pyyaml is not None:
-                    data = pyyaml.safe_load(yaml_content) or {}
-                    if not isinstance(data, dict):
-                        continue
-                    candidate_keys = set(data.keys())
-                else:
-                    candidate_keys = extract_top_level_yaml_keys(yaml_content)
-
-                file_tags = {k for k in candidate_keys if k not in ignored_tags}
+                key_lines = extract_top_level_yaml_keys_with_lines(content)
+                file_tags = {k: line_no for k, line_no in key_lines.items() if k not in ignored_tags}
                 md_files[path] = file_tags
             except Exception as exc:
                 print(f"Error reading {path}: {exc}", file=sys.stderr)
@@ -199,16 +215,14 @@ def validate_template_vs_content(root_dir: Path) -> int:
     layout_tags = get_layout_tags(layouts_path)
 
     print(info("Reading markdown front matter..."))
-    if pyyaml is None:
-        print(warn("Info: PyYAML not installed, using fallback front matter key parser."))
     markdown_files = get_markdown_tags(content_path)
 
-    warnings_by_file: dict[Path, list[str]] = {}
+    warnings_by_file: dict[Path, list[tuple[str, int]]] = {}
 
     for file_path, md_tags in sorted(markdown_files.items()):
-        for tag in sorted(md_tags):
+        for tag in sorted(md_tags.keys()):
             if tag not in layout_tags:
-                warnings_by_file.setdefault(file_path, []).append(tag)
+                warnings_by_file.setdefault(file_path, []).append((tag, md_tags[tag]))
 
     print()
     print(info(f"Checked {len(markdown_files)} markdown files against {len(layout_tags)} template tags."))
@@ -221,8 +235,8 @@ def validate_template_vs_content(root_dir: Path) -> int:
         for file_path in sorted(warnings_by_file):
             rel_path = rel_to_root(file_path, root_dir)
             print(f"{warn('•')} {color(rel_path, C.BOLD)}")
-            for tag in warnings_by_file[file_path]:
-                print(f"  {warn('-')} unused tag: {color(tag, C.YELLOW)}")
+            for tag, line_no in warnings_by_file[file_path]:
+                print(f"  {warn('-')} line {color(str(line_no), C.DIM)}: unused tag {color(tag, C.YELLOW)}")
             print()
         print(err("Unused tags found."))
         return 1
@@ -235,6 +249,10 @@ def main() -> int:
     args = parse_args()
     script_path = Path(__file__).resolve()
     root_dir = script_path.parent.parent
+
+    if yaml is None:
+        print(err("Error: PyYAML is required. Install with 'pip install pyyaml'."), file=sys.stderr)
+        return 2
 
     hugo_bin = shutil.which("hugo")
     if not hugo_bin:

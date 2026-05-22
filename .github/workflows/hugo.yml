@@ -59,9 +59,23 @@ jobs:
       - name: Run linters (CSS & Markdown)
         run: npm run lint
 
+  # Translation/template consistency check (parallel)
+  check-translation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.160.0"
+          extended: true
+      - name: Run translation check
+        run: ./bin/check_translation
+
   # Build job (depends on format-check and lint)
   build:
-    needs: [format-check, lint]
+    needs: [format-check, lint, check-translation]
     runs-on: ubuntu-latest
     steps:
       - name: Setup Hugo
