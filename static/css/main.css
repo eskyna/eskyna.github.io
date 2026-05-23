@@ -244,9 +244,9 @@ h2 {
       rgb(44 30 22 / 08%) 100%
     ),
     image-set(
-      url("/images/backgrounds/hero/new_hero_landscape_combined.avif") type("image/avif"),
-      url("/images/backgrounds/hero/new_hero_landscape_combined.webp") type("image/webp"),
-      url("/images/backgrounds/hero/new_hero_landscape_combined.png") type("image/png")
+        url("/images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
+        url("/images/backgrounds/hero/new_hero_landscape_bright_combined.webp") type("image/webp"),
+        url("/images/backgrounds/hero/new_hero_landscape_bright_combined.png") type("image/png")
     );
   background-size: cover;
   background-position: center right;
@@ -2288,9 +2288,9 @@ h1 {
         rgb(44 30 22 / 54%) 100%
       ),
       image-set(
-        url("/images/backgrounds/hero/new_hero_portrait_combined.avif") type("image/avif"),
-        url("/images/backgrounds/hero/new_hero_portrait_combined.webp") type("image/webp"),
-        url("/images/backgrounds/hero/new_hero_portrait_combined.png") type("image/png")
+        url("/images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
+        url("/images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
+        url("/images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
       );
     background-position: center center;
   }
@@ -2378,9 +2378,9 @@ h1 {
 @media (orientation: portrait) {
   .hero {
     background-image: image-set(
-      url("/images/backgrounds/hero/new_hero_portrait_combined.avif") type("image/avif"),
-      url("/images/backgrounds/hero/new_hero_portrait_combined.webp") type("image/webp"),
-      url("/images/backgrounds/hero/new_hero_portrait_combined.png") type("image/png")
+      url("/images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
     );
     background-position: center center;
   }
@@ -2576,9 +2576,9 @@ main .hero {
       rgb(44 30 22 / 12%) 100%
     ),
     image-set(
-      url("/images/backgrounds/hero/new_hero_landscape_combined.avif") type("image/avif"),
-      url("/images/backgrounds/hero/new_hero_landscape_combined.webp") type("image/webp"),
-      url("/images/backgrounds/hero/new_hero_landscape_combined.png") type("image/png")
+      url("/images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/new_hero_landscape_bright_combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/new_hero_landscape_bright_combined.png") type("image/png")
     );
   background-position: center center;
   background-size: cover;
@@ -2605,9 +2605,9 @@ main .hero .hero-copy {
 @media (orientation: portrait) {
   main .hero {
     background-image: image-set(
-      url("/images/backgrounds/hero/new_hero_portrait_combined.avif") type("image/avif"),
-      url("/images/backgrounds/hero/new_hero_portrait_combined.webp") type("image/webp"),
-      url("/images/backgrounds/hero/new_hero_portrait_combined.png") type("image/png")
+      url("/images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
     );
     background-position: center center;
     background-size: cover;
@@ -2651,9 +2651,9 @@ main .hero .hero-copy {
 @media (width <= 900px) and (1 / 1 <= aspect-ratio <= 6 / 5) {
   main .hero {
     background-image: image-set(
-      url("/images/backgrounds/hero/new_hero_landscape_combined.avif") type("image/avif"),
-      url("/images/backgrounds/hero/new_hero_landscape_combined.webp") type("image/webp"),
-      url("/images/backgrounds/hero/new_hero_landscape_combined.png") type("image/png")
+      url("/images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
+      url("/images/backgrounds/hero/new_hero_landscape_bright_combined.webp") type("image/webp"),
+      url("/images/backgrounds/hero/new_hero_landscape_bright_combined.png") type("image/png")
     );
   }
 }
