@@ -3,9 +3,20 @@ title: "Natalia Kleemann"
 hero:
   eyebrow: "Natalia Kleemann | Style- und Imagecoach"
   headline: "Kleidung, die zu deinem Leben passt."
-  text: "Mehr Stilgefühl.\nWeniger Fehlkäufe.\n\nFür Frauen und Männer,\ndie Qualität und Wirkung schätzen.\n\nLass uns gemeinsam starten."
+  text: |
+    Mehr <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-stilgefuehl">Stilgefühl</button><span id="tooltip-stilgefuehl" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Stilgefühl</strong><strong class="inline-term-tooltip-lead">Du möchtest dich gut anziehen, aber dir fehlt ein klarer roter Faden.</strong><span class="inline-term-tooltip-text">Stilgefühl bedeutet, zu erkennen, was wirklich zu dir passt - unabhängig von Trends oder spontanen Impulsen. Es verbindet deine Farben, Schnitte, Proportionen und Vorlieben zu einem Look, der sich stimmig und authentisch anfühlt.</span></span></span>.
+    Weniger <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-fehlkaeufe">Fehlkäufe</button><span id="tooltip-fehlkaeufe" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Fehlkäufe</strong><strong class="inline-term-tooltip-lead">Dein Kleiderschrank ist voll, aber viele Teile fühlen sich nicht wirklich nach dir an.</strong><span class="inline-term-tooltip-text">Fehlkäufe entstehen oft, wenn Kleidung zwar schön aussieht, aber nicht zu deinem Alltag, deiner Figur, deinen Farben oder deinem Stilgefühl passt. So sammeln sich Einzelteile, aus denen trotzdem keine stimmigen Outfits entstehen.</span></span></span>.
+
+    Für Frauen und Männer,
+    die Qualität und Wirkung schätzen.
+
+    Lass uns gemeinsam starten.
   ctaText: "Kostenloses Erstgespräch"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+  ctaTooltip:
+    title: "Kostenlos & unverbindlich"
+    lead: "Wir schauen gemeinsam auf deine Stilfragen, deine Wünsche und mögliche nächste Schritte."
+    text: "Du bekommst ein erstes Gefühl dafür, ob ESKYNA zu dir passt. 25 Minuten Zeit mit dem vollen Fokus auf dir."
   image: "images/Natalia_white_hero.png"
 problems:
   title: "Erkennst du dich hier wieder?"
