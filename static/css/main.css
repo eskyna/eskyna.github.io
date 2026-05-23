@@ -2053,10 +2053,10 @@ h1 {
   transform: translateY(-1px);
 }
 
-.social-link svg {
+.social-icon {
   width: 18px;
   height: 18px;
-  fill: currentcolor;
+  fill: currentColor;
 }
 
 .hero-tools .social-links {
@@ -2066,7 +2066,7 @@ h1 {
 .hero-tools .social-link {
   border: none;
   background: transparent;
-  color: rgb(255 255 255 / 82%);
+  color: var(--accent);
 }
 
 .hero-tools .social-link:hover {
