@@ -852,61 +852,251 @@ h1 {
   background: transparent;
 }
 
-.coach-section .intro-grid > div:first-child {
-  display: flex;
-  align-items: flex-end;
+.coach-section .intro-grid {
+  grid-template-columns: minmax(280px, 0.92fr) minmax(360px, 1.08fr);
+  gap: clamp(2rem, 4vw, 4.5rem);
+  align-items: center;
 }
 
-.coach-section .intro-grid > div:last-child {
+.coach-section .coach-visual-column {
+  display: flex;
+  align-items: stretch;
+}
+
+.coach-section .coach-copy-column {
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: #2c211c;
 }
 
-.coach-section .intro-grid > div:last-child > p {
-  max-width: 38ch;
+.coach-section .coach-intro-title {
+  margin: 0.2rem 0 0;
+  color: #2c211c;
+  font-family: var(--font-headline);
+  font-size: clamp(2rem, 5vw, 3.6rem);
+  font-weight: 500;
+  line-height: 1.08;
+}
+
+.coach-section .coach-intro-kicker {
+  margin: 0;
+  color: #6f5748;
+  font-family: var(--font-subtitle);
+  font-size: clamp(0.82rem, 1.5vw, 0.98rem);
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.04em;
+}
+
+.coach-section .coach-intro-copy {
+  margin: 0.65rem 0 0;
+  max-width: 34ch;
+  color: #6f5748;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+
+.coach-section .coach-heading {
+  margin: 1.05rem auto 0;
+  color: #2c211c;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: clamp(1.35rem, 2.2vw, 1.95rem);
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  width: fit-content;
 }
 
 .coach-section .coach-image {
   display: block;
-  margin-top: auto;
-  width: min(100%, 56%);
-  max-width: 560px;
-}
-
-.coach-section .intro-grid > div:last-child .coach-mission {
-  margin-top: 1rem;
-  max-width: 42ch;
-  padding: 0;
-}
-
-.coach-section .intro-grid > div:last-child .coach-mission p {
+  width: min(100%, 96%);
+  max-width: 640px;
   margin: 0;
-  color: #6a3f28;
+  border-radius: 0;
+}
+
+.coach-section .coach-statement-wrap {
+  position: relative;
+  margin-top: 0.7rem;
+  display: inline-block;
+  padding: 0.45rem 0.85rem;
+  align-self: center;
+  margin-inline: auto;
+}
+
+.coach-section .coach-quote {
+  position: absolute;
+  width: clamp(64px, 8.5vw, 110px);
+  height: auto;
+  opacity: 0.72;
+  pointer-events: none;
+  user-select: none;
+  z-index: 3;
+  filter: brightness(0.72) saturate(0.92) drop-shadow(0 1px 2px rgb(44 33 28 / 18%));
+}
+
+.coach-section .coach-quote-open {
+  top: -0.7rem;
+  left: -0.95rem;
+}
+
+.coach-section .coach-quote-close {
+  right: -0.95rem;
+  bottom: -0.8rem;
+}
+
+.coach-section .coach-mission {
+  margin: 0 auto;
+  max-width: min(100%, 22rem);
+  padding: 0;
+  border: 0;
+  background: transparent;
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+
+.coach-section .coach-mission-main,
+.coach-section .coach-mission-main p,
+.coach-section .coach-mission-main li {
+  margin: 0;
+  color: #2c211c;
   font-style: italic;
-  font-size: 1.08rem;
-  font-weight: 700;
-  line-height: 1.6;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: clamp(1rem, 1.55vw, 1.34rem);
+  font-weight: 500;
+  line-height: 1.08;
   text-wrap: balance;
+  position: relative;
+  z-index: 4;
 }
 
-.coach-section .intro-grid > div:last-child .coach-mission ul {
-  margin: 0.35rem 0 0;
-  padding-left: 1.2rem;
-  color: #6a3f28;
+.coach-section .coach-mission-main ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  max-width: min(100%, 22rem);
+  margin-inline: auto;
+}
+
+.coach-section .coach-mission-sub {
+  max-width: min(100%, 22rem);
+  margin: 0.85rem auto 0;
+  color: #2c211c;
+  font-size: clamp(1rem, 1.55vw, 1.34rem);
+  line-height: 1.08;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-weight: 500;
   font-style: italic;
-  font-size: 1.08rem;
-  font-weight: 700;
-  line-height: 1.6;
+  position: relative;
+  z-index: 4;
+  text-align: center;
 }
 
-.coach-section .intro-grid > div:last-child .coach-mission li {
-  color: inherit;
-  font: inherit;
+.coach-section .coach-mission-sub::before {
+  content: "";
+  display: block;
+  width: 56px;
+  height: 2px;
+  margin: 0 auto 0.7rem;
+  border-radius: 999px;
+  background: #c9a24e;
 }
 
-.coach-section .intro-grid > div:last-child .coach-mission em {
-  font-style: italic;
+.coach-section .coach-divider {
+  width: 146px;
+  height: auto;
+  margin: 0.8rem 0 0.45rem;
+  opacity: 0.7;
+}
+
+.coach-section .coach-signature {
+  width: clamp(118px, 14vw, 162px);
+  height: auto;
+  align-self: center;
+}
+
+.coach-section .coach-signoff {
+  display: grid;
+  gap: 0.08rem;
+  margin: 0.35rem auto 0;
+  color: #2c211c;
+  line-height: 1.2;
+  text-align: center;
+  justify-items: center;
+  width: fit-content;
+}
+
+.coach-section .coach-signoff strong {
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.coach-section .coach-signoff span {
+  font-size: 0.72rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #6f5748;
+}
+
+@media (max-width: 1024px) {
+  .coach-section .intro-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .coach-section .coach-visual-column {
+    justify-content: center;
+  }
+
+  .coach-section .coach-image {
+    width: min(100%, 72%);
+    margin-inline: auto;
+  }
+
+  .coach-section .coach-copy-column {
+    align-items: center;
+    text-align: center;
+  }
+
+  .coach-section .coach-intro-kicker {
+    font-size: clamp(0.8rem, 2.1vw, 0.92rem);
+  }
+
+  .coach-section .coach-intro-copy {
+    max-width: 36ch;
+  }
+
+  .coach-section .coach-heading {
+    margin-top: 0.9rem;
+    font-size: clamp(1.25rem, 3.2vw, 1.65rem);
+  }
+
+  .coach-section .coach-mission,
+  .coach-section .coach-mission-main ul {
+    max-width: min(100%, 24rem);
+  }
+
+  .coach-section .coach-mission-sub {
+    max-width: min(100%, 24rem);
+  }
+
+  .coach-section .coach-mission-sub::before {
+    margin-inline: auto;
+  }
+
+  .coach-section .coach-quote-open {
+    left: 1.2rem;
+  }
+
+  .coach-section .coach-quote-close {
+    right: 1.2rem;
+  }
 }
 
 .coach-actions {
@@ -2431,7 +2621,25 @@ h1 {
   }
 
   .coach-section .coach-image {
-    width: min(100%, 68%);
+    width: min(100%, 82%);
+    margin-inline: auto;
+  }
+
+  .coach-section .coach-copy-column {
+    align-items: center;
+    text-align: center;
+  }
+
+  .coach-section .coach-statement-copy {
+    max-width: 32ch;
+  }
+
+  .coach-section .coach-quote-open {
+    left: 0;
+  }
+
+  .coach-section .coach-quote-close {
+    right: 0;
   }
 
   .hero-topbar {
@@ -2500,6 +2708,34 @@ h1 {
   .page:not(.page-privacy) .page-image-wrap {
     justify-self: end;
     width: min(100%, 320px);
+  }
+}
+
+@media (max-width: 640px) {
+  .coach-section .coach-quote {
+    display: none;
+  }
+
+  .coach-section .coach-intro-kicker {
+    font-size: 0.82rem;
+  }
+
+  .coach-section .coach-intro-copy {
+    font-size: 0.96rem;
+  }
+
+  .coach-section .coach-heading {
+    font-size: clamp(1.1rem, 6vw, 1.3rem);
+  }
+
+  .coach-section .coach-mission-main,
+  .coach-section .coach-mission-main p,
+  .coach-section .coach-mission-main li {
+    font-size: clamp(0.95rem, 4.1vw, 1.14rem);
+  }
+
+  .coach-section .coach-mission-sub {
+    font-size: clamp(0.95rem, 4.1vw, 1.14rem);
   }
 }
 

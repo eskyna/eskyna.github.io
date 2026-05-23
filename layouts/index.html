@@ -100,15 +100,38 @@
 
   <section class="section coach-section">
     <div class="container intro-grid">
-      <div>
+      <div class="coach-visual-column">
         {{ partial "responsive-image.html" (dict "src" $coach.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
       </div>
-      <div>
-        <h2>{{ $coach.title | safeHTML }}</h2>
-        <p>{{ $coach.text }}</p>
-        {{ with $facts.mission }}
-        <div class="coach-mission">{{ . | markdownify }}</div>
-        {{ end }}
+      <div class="coach-copy-column">
+        {{ $coachName := or $coach.name "Natalia Kleemann" }}
+        {{ $coachPromiseHeading := or $coach.promiseHeading "Natalias Stilversprechen" }}
+        {{ $coachStatement := $coach.statement }}
+        {{ $coachStatementCopy := or $coach.statementCopy $coach.text }}
+        {{ $coachSignatureName := or $coach.signatureName $coachName }}
+        {{ $coachSignatureRole := or $coach.signatureRole "Style- & Imagecoach" }}
+        {{ $coachIntroLabel := or $coach.introLabel "Professioneller<br>Style- und Imagecoach" }}
+        <p class="coach-intro-kicker">{{ $coachIntroLabel | safeHTML }}</p>
+        <h2 class="coach-intro-title">{{ $coachName }}</h2>
+        <p class="coach-intro-copy">{{ $coach.text }}</p>
+        <h2 class="coach-heading">{{ $coachPromiseHeading }}</h2>
+        <div class="coach-statement-wrap">
+          <img src="{{ "images/stylecoach/quote-mark-open.svg" | relURL }}" alt="" class="coach-quote coach-quote-open" loading="lazy" width="136" height="128" aria-hidden="true">
+          <img src="{{ "images/stylecoach/quote-mark-close.svg" | relURL }}" alt="" class="coach-quote coach-quote-close" loading="lazy" width="136" height="128" aria-hidden="true">
+          <blockquote class="coach-mission">
+            {{ if $coachStatement }}
+            <p class="coach-mission-main">{{ $coachStatement | safeHTML }}</p>
+            {{ else if $facts.mission }}
+            <div class="coach-mission-main">{{ $facts.mission | markdownify }}</div>
+            {{ end }}
+            <p class="coach-mission-sub">{{ $coachStatementCopy }}</p>
+          </blockquote>
+        </div>
+        <img src="{{ "images/signature.png" | relURL }}" alt="Signatur Natalia" class="coach-signature" loading="lazy" width="220" height="78">
+        <p class="coach-signoff">
+          <strong>{{ $coachSignatureName }}</strong>
+          <span>{{ $coachSignatureRole }}</span>
+        </p>
         <div class="coach-actions">
           {{ partial "button-icon.html" (dict "href" $coach.buttonHref "text" $coach.buttonText "title" $coach.buttonText "targetBlank" true) }}
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}

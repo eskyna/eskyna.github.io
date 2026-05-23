@@ -69,6 +69,13 @@ process:
       text: "Outfits, die passen und sich richtig anfühlen."
   outro: "Der genaue Ablauf richtet sich nach dem gewählten Angebot - das Ziel bleibt immer gleich: ein Stil, der dich im Alltag entlastet und in deiner Wirkung stärkt."
 coach:
+  promiseHeading: "Mission & Stilversprechen"
+  eyebrow: "Persönlicher Style- und Imagecoach"
+  name: "Natalia Kleemann"
+  statement: "Weniger Fehlkäufe.<br>Mehr Qualität.<br>Eine Garderobe, die langfristig funktioniert."
+  statementCopy: "Ich mache Stil einfacher, bewusster und wirkungsvoller - damit du dich in deiner Kleidung sicher fühlst."
+  signatureName: "Natalia Kleemann"
+  signatureRole: "Style- & Imagecoach"
   title: "Professioneller<br>Style- und Imagecoach<br>Natalia Kleemann"
   text: "Ich helfe dir dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch"
