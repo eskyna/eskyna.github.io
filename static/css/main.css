@@ -2263,6 +2263,20 @@ h1 {
   color: var(--accent);
 }
 
+/* Hide secondary social links (Telegram, Email) on smaller screens */
+@media (max-width: 767px) {
+  .hero-tools .social-link-secondary {
+    display: none;
+  }
+}
+
+/* Hide all social links on very small screens */
+@media (max-width: 479px) {
+  .hero-tools .social-links {
+    display: none;
+  }
+}
+
 /* ── Praxisbeispiele (Cases) ───────────────────────────── */
 
 /* ── Referenz-Label ────────────────────────────────────── */
