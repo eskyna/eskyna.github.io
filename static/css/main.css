@@ -469,7 +469,8 @@ h1 {
   z-index: 30;
   left: 50%;
   top: calc(100% + 0.7rem);
-  width: min(34rem, calc(100vw - 2rem));
+  width: min(32rem, calc(100vw - 2rem));
+  max-height: 80vh;
   padding: 0.95rem 1rem;
   border-radius: 0.9rem;
   border: 1px solid var(--tooltip-border);
@@ -481,6 +482,7 @@ h1 {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
+  overflow-wrap: break-word;
   transition:
     opacity 0.2s ease,
     transform 0.2s ease,
@@ -494,6 +496,7 @@ h1 {
   font-weight: 700;
   letter-spacing: 0.02em;
   color: var(--on-dark);
+  overflow-wrap: break-word;
 }
 
 .inline-term-tooltip-lead {
@@ -502,6 +505,7 @@ h1 {
   font-size: 0.92rem;
   line-height: 1.45;
   font-weight: 700;
+  overflow-wrap: break-word;
 }
 
 .inline-term-tooltip-text {
@@ -509,6 +513,7 @@ h1 {
   font-size: 0.9rem;
   line-height: 1.5;
   color: var(--tooltip-text-soft);
+  overflow-wrap: break-word;
 }
 
 .inline-term-tooltip-start .inline-term-tooltip-panel {
@@ -535,7 +540,8 @@ h1 {
 @media (width <= 640px) {
   .inline-term-tooltip-panel {
     left: 0;
-    width: min(28rem, calc(100vw - 2rem));
+    width: min(calc(100vw - 2rem), 26rem);
+    max-height: 60vh;
   }
 
   .inline-term-tooltip-start .inline-term-tooltip-panel,
@@ -612,7 +618,8 @@ h1 {
   left: 0;
   top: auto;
   bottom: calc(100% + 0.7rem);
-  width: min(36rem, calc(100vw - 2rem));
+  width: min(32rem, calc(100vw - 2rem));
+  max-height: 80vh;
   padding: 0.95rem 1rem;
   border-radius: 0.9rem;
   border: 1px solid var(--tooltip-border);
@@ -624,6 +631,7 @@ h1 {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
+  overflow-wrap: break-word;
   transition:
     opacity 0.2s ease,
     transform 0.2s ease,
@@ -637,6 +645,7 @@ h1 {
   font-weight: 700;
   letter-spacing: 0.02em;
   color: var(--on-dark);
+  overflow-wrap: break-word;
 }
 
 .hero-cta-tooltip-lead {
@@ -645,6 +654,7 @@ h1 {
   font-size: 0.92rem;
   line-height: 1.45;
   font-weight: 700;
+  overflow-wrap: break-word;
 }
 
 .hero-cta-tooltip-text {
@@ -652,6 +662,7 @@ h1 {
   font-size: 0.9rem;
   line-height: 1.5;
   color: var(--tooltip-text-soft);
+  overflow-wrap: break-word;
 }
 
 .hero-cta-tooltip:hover .hero-cta-tooltip-panel,
@@ -3465,8 +3476,6 @@ main .hero .hero-copy {
   }
 }
 
-/* Super-breites Layout für niedrige Landscape-Viewports (z. B. Pixel 8 quer) */
-
 /* Pixel 8 / schmale Landscape-Viewports */
 @media screen and (orientation: landscape) and (width >= 740px) and (height <= 520px) {
   main .hero {
@@ -3479,12 +3488,34 @@ main .hero .hero-copy {
       url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.png")
         type("image/png")
     );
-    background-size: 104% auto;
-    background-position: right top;
+    background-size: 100vw auto;
+    background-position: left top;
     background-repeat: no-repeat;
     background-color: #b9977c;
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
+  }
 
-    --hero-left-axis: clamp(0.8rem, 2vw, 1.4rem);
+  /* weicher Gradient statt hartem linken Block */
+  main .hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background: linear-gradient(
+      90deg,
+      rgb(185 151 124 / 88%) 0%,
+      rgb(185 151 124 / 70%) 20%,
+      rgb(185 151 124 / 28%) 40%,
+      rgb(185 151 124 / 0%) 62%
+    );
+  }
+
+  main .hero > * {
+    position: relative;
+    z-index: 1;
   }
 
   main .hero .hero-topbar {
@@ -3505,24 +3536,24 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-copy-column {
+    max-width: min(46vw, 27rem);
     gap: clamp(0.25rem, 1vh, 0.55rem);
-    max-width: min(100%, 42rem);
   }
 
   main .hero .hero-headline {
-    font-size: clamp(1.2rem, 2.4vw, 1.7rem);
-    line-height: 1.02;
+    font-size: clamp(1.35rem, 4.4vw, 2.05rem);
+    line-height: 1.04;
     margin-bottom: 0.12rem;
   }
 
   main .hero .hero-details {
-    max-width: min(100%, 44ch);
+    max-width: 44ch;
     margin-top: 0;
   }
 
   main .hero .hero-details .hero-detail {
-    font-size: clamp(0.72rem, 1.25vw, 0.84rem);
-    line-height: 1.24;
+    font-size: clamp(0.78rem, 2vw, 0.95rem);
+    line-height: 1.25;
     margin-top: 0.14rem;
   }
 
@@ -3531,13 +3562,62 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-actions {
-    margin-top: 0;
+    margin-top: 0.25rem;
   }
 
   main .hero .hero-actions .btn {
     min-height: 38px;
     padding: 0.52rem 1.1rem;
     font-size: 0.8rem;
+  }
+
+  /* Tooltip positioning for super-wide landscape */
+  main .hero .inline-term-tooltip-panel {
+    top: auto;
+    bottom: calc(100% + 0.7rem);
+    width: min(26rem, calc(100vw - 1rem));
+    max-height: 50vh;
+    padding: 0.8rem 0.9rem;
+    overflow-wrap: break-word;
+  }
+
+  main .hero .inline-term-tooltip-title {
+    font-size: 0.88rem;
+    margin-bottom: 0.35rem;
+    overflow-wrap: break-word;
+  }
+
+  main .hero .inline-term-tooltip-lead {
+    font-size: 0.85rem;
+    margin-bottom: 0.4rem;
+    overflow-wrap: break-word;
+  }
+
+  main .hero .inline-term-tooltip-text {
+    font-size: 0.82rem;
+    line-height: 1.45;
+    overflow-wrap: break-word;
+  }
+
+  main .hero .inline-term-tooltip-start .inline-term-tooltip-panel {
+    transform: translate(0, 0.35rem);
+  }
+
+  main .hero .inline-term-tooltip-start:hover .inline-term-tooltip-panel,
+  main .hero .inline-term-tooltip-start:focus-within .inline-term-tooltip-panel {
+    transform: translate(0, 0);
+  }
+
+  main .hero .inline-term-tooltip:not(.inline-term-tooltip-start) .inline-term-tooltip-panel {
+    transform: translate(-50%, 0.35rem);
+  }
+
+  main .hero .inline-term-tooltip:not(.inline-term-tooltip-start):hover .inline-term-tooltip-panel,
+  main
+    .hero
+    .inline-term-tooltip:not(.inline-term-tooltip-start):focus-within
+    .inline-term-tooltip-panel {
+    transform: translate(-50%, 0);
   }
 }
 
