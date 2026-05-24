@@ -76,7 +76,7 @@ tags:
 
 [Смотреть образ Sport-Chic](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
 
-2. **Romantic-Chic**
+1. **Romantic-Chic**
 
 Характер: мягко · женственно · вне времени
 
@@ -86,7 +86,7 @@ tags:
 
 [Смотреть образ Romantic-Chic](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
 
-3. **Business-Chic**
+1. **Business-Chic**
 
 Характер: уверенно · современно · статусно
 
