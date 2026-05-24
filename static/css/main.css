@@ -663,6 +663,11 @@ h1 {
 }
 
 @media (max-width: 799px) and (orientation: portrait) {
+  .hero .hero-actions .btn {
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+  }
+
   .inline-term-tooltip-panel,
   .hero-cta-tooltip-panel {
     position: fixed;
@@ -698,6 +703,10 @@ h1 {
   border-color: #7a4e34;
   background-color: #7a4e34;
   color: #fff;
+  transition:
+    background-color 0.2s ease,
+    box-shadow 0.2s ease,
+    padding 0.35s ease;
 }
 
 .hero .hero-actions .btn:hover {
