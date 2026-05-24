@@ -1006,7 +1006,7 @@ h1 {
 }
 
 .coach-section .coach-intro-title {
-  margin: 0.2rem 0 0;
+  margin: 0.2rem 0 1.1rem;
   color: #2c211c;
   font-family: var(--font-headline);
   font-size: clamp(2rem, 5vw, 3.6rem);
@@ -1155,7 +1155,7 @@ h1 {
 .coach-section .coach-signoff {
   display: grid;
   gap: 0.08rem;
-  margin: 0.35rem auto 0;
+  margin: 0.35rem auto 1.4rem;
   color: #2c211c;
   line-height: 1.2;
   text-align: center;
