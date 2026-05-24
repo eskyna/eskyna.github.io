@@ -281,4 +281,12 @@ ui:
       link: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
       description: "Buche direkt einen kostenlosen Kennenlerntermin."
       external: true
+  hero_coach_name: "Natalia Kleemann"
+  hero_coach_title: "Style- und Imagecoach"
+  hero_coach_label: "Natalia Kleemann"
+  free_highlights_title: "Vorteile der kostenlosen Angebote"
+  free_highlight_1: "Für mehr Klarheit in Ihrem Stil"
+  free_highlight_2: "Praxisnah & sofort anwendbar"
+  free_highlight_3: "Von Personal Stylistin Natalia Kleemann"
+  free_highlight_4: "100% kostenlos & unverbindlich"
 ---

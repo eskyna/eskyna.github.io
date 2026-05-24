@@ -300,4 +300,12 @@ ui:
       link: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
       description: "Сразу забронируйте бесплатную встречу."
       external: true
+  hero_coach_name: "Natalia Kleemann"
+  hero_coach_title: "Стилист и имидж-коуч"
+  hero_coach_label: "Natalia Kleemann"
+  free_highlights_title: "Преимущества бесплатных предложений"
+  free_highlight_1: "Для большей ясности в вашем стиле"
+  free_highlight_2: "Практично и сразу применимо"
+  free_highlight_3: "От стилиста Натальи Клеманн"
+  free_highlight_4: "100% бесплатно и без обязательств"
 ---

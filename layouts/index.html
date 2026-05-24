@@ -17,11 +17,11 @@
 <main class="home-main">
   <section class="hero">
     <div class="container hero-topbar">
-      <p class="hero-coach-label" aria-label="Natalia Kleemann" tabindex="0">
+      <p class="hero-coach-label" aria-label="{{ $ui.hero_coach_label }}" tabindex="0">
         <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
         <span class="hero-coach-copy">
-          <span class="hero-coach-name">Natalia Kleemann</span>
-          <span class="hero-coach-title">Style- und Imagecoach</span>
+          <span class="hero-coach-name">{{ $ui.hero_coach_name }}</span>
+          <span class="hero-coach-title">{{ $ui.hero_coach_title }}</span>
         </span>
       </p>
       <div class="hero-tools">
@@ -187,22 +187,22 @@
             </article>
           {{ end }}
         </div>
-        <div class="offers-free-highlights" aria-label="Vorteile der kostenlosen Angebote">
+        <div class="offers-free-highlights" aria-label="{{ $ui.free_highlights_title }}">
           <article class="offers-free-highlight-item">
             <img src="{{ "images/klarheit_stern.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>Für mehr Klarheit in Ihrem Stil</p>
+            <p>{{ $ui.free_highlight_1 }}</p>
           </article>
           <article class="offers-free-highlight-item">
             <img src="{{ "images/praxisnah_herz.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>Praxisnah &amp; sofort anwendbar</p>
+            <p>{{ $ui.free_highlight_2 }}</p>
           </article>
           <article class="offers-free-highlight-item">
             <img src="{{ "images/personal_stylistin_diamant.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>Von Personal Stylistin Natalia Kleemann</p>
+            <p>{{ $ui.free_highlight_3 }}</p>
           </article>
           <article class="offers-free-highlight-item">
             <img src="{{ "images/kostenlos_geschenk.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>100% kostenlos &amp; unverbindlich</p>
+            <p>{{ $ui.free_highlight_4 }}</p>
           </article>
         </div>
       </section>
