@@ -75,7 +75,7 @@ coach:
   text: "Я помогаю вам решать эти задачи точно и со вкусом."
   buttonText: "Бесплатная первая консультация"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/portraits/natalia-coach-portrait.png"
+  image: "images/natalia.PNG"
 facts:
   title: "Немного фактов обо мне"
   items:

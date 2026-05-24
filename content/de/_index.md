@@ -75,7 +75,7 @@ coach:
   text: "Ich helfe dir dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/portraits/natalia-coach-portrait.png"
+  image: "images/natalia.PNG"
 facts:
   title: "Ein paar Fakten über mich"
   items:
