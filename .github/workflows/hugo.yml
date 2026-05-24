@@ -8,6 +8,15 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      deploy_mode:
+        description: "Deploy mode: live | preview"
+        required: false
+        default: live
+        type: choice
+        options:
+          - live
+          - preview
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -77,6 +86,7 @@ jobs:
   build:
     needs: [format-check, lint, check-translation]
     runs-on: ubuntu-latest
+    environment: gh_pages
     steps:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -92,6 +102,43 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
+      - name: Prepare preview banner metadata
+        run: |
+          BASE_URL="${{ steps.pages.outputs.base_url }}"
+          MODE_INPUT="${{ github.event.inputs.deploy_mode || '' }}"
+          MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
+          LAST_UPDATED="$(git log -1 --date=format:'%Y-%m-%d %H:%M UTC' --pretty=format:'%cd')"
+          VERSION="$(git rev-parse --short HEAD)"
+          COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | paste -sd ' || ' -)"
+
+          MODE="$MODE_INPUT"
+          if [[ -z "$MODE" ]]; then
+            MODE="$MODE_VAR"
+          fi
+          if [[ -z "$MODE" ]]; then
+            MODE="live"
+          fi
+
+          BUILD_BASEURL="${BASE_URL%/}/"
+
+          if [[ "$MODE" == "preview" ]]; then
+            echo "HUGO_PREVIEW_BANNER=true" >> "$GITHUB_ENV"
+            if [[ "$BASE_URL" == *"/preview" ]]; then
+              BUILD_BASEURL="${BASE_URL%/}/"
+            else
+              BUILD_BASEURL="${BASE_URL%/}/preview/"
+            fi
+          else
+            echo "HUGO_PREVIEW_BANNER=false" >> "$GITHUB_ENV"
+            BUILD_BASEURL="${BASE_URL%/}/"
+            MODE="live"
+          fi
+
+          echo "HUGO_PREVIEW_VERSION=$VERSION" >> "$GITHUB_ENV"
+          echo "HUGO_PREVIEW_LAST_UPDATED=$LAST_UPDATED" >> "$GITHUB_ENV"
+          echo "HUGO_PREVIEW_COMMITS=$COMMITS" >> "$GITHUB_ENV"
+          echo "HUGO_BUILD_BASEURL=$BUILD_BASEURL" >> "$GITHUB_ENV"
+          echo "DEPLOY_MODE_EFFECTIVE=$MODE" >> "$GITHUB_ENV"
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
@@ -103,7 +150,11 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
+          HUGO_BASEURL: ${{ env.HUGO_BUILD_BASEURL }}
+          HUGO_PREVIEW_BANNER: ${{ env.HUGO_PREVIEW_BANNER }}
+          HUGO_PREVIEW_VERSION: ${{ env.HUGO_PREVIEW_VERSION }}
+          HUGO_PREVIEW_LAST_UPDATED: ${{ env.HUGO_PREVIEW_LAST_UPDATED }}
+          HUGO_PREVIEW_COMMITS: ${{ env.HUGO_PREVIEW_COMMITS }}
         run: npm run build:ci
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
@@ -114,6 +165,7 @@ jobs:
   link-check:
     needs: build
     runs-on: ubuntu-latest
+    environment: gh_pages
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -133,11 +185,34 @@ jobs:
           mv ./artifact ./public
       - name: Verify links, assets and anchors
         run: |
+          BASE_URL="${{ steps.pages.outputs.base_url }}"
+          MODE_INPUT="${{ github.event.inputs.deploy_mode || '' }}"
+          MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
+
+          MODE="$MODE_INPUT"
+          if [[ -z "$MODE" ]]; then
+            MODE="$MODE_VAR"
+          fi
+          if [[ -z "$MODE" ]]; then
+            MODE="live"
+          fi
+
+          CHECK_BASE_URL="${BASE_URL%/}/"
+          if [[ "$MODE" == "preview" ]]; then
+            if [[ "$BASE_URL" == *"/preview" ]]; then
+              CHECK_BASE_URL="${BASE_URL%/}/"
+            else
+              CHECK_BASE_URL="${BASE_URL%/}/preview/"
+            fi
+          else
+            CHECK_BASE_URL="${BASE_URL%/}/"
+          fi
+
           BASE_PATH=$(python3 - <<'PY'
           from urllib.parse import urlparse
           import os
 
-          parsed = urlparse(os.environ["PAGES_BASE_URL"])
+          parsed = urlparse(os.environ["CHECK_BASE_URL"])
           path = parsed.path.rstrip("/")
           print(path)
           PY
@@ -166,7 +241,7 @@ jobs:
             --max-pages 300 \
             --concurrency 12
         env:
-          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+          CHECK_BASE_URL: ${{ steps.pages.outputs.base_url }}
 
   # Deployment job (depends on build and link-check)
   deploy:

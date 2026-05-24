@@ -1,0 +1,73 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$ROOT_DIR"
+
+if ! command -v hugo >/dev/null 2>&1; then
+  echo "Fehler: 'hugo' wurde nicht gefunden." >&2
+  exit 1
+fi
+
+if ! command -v git >/dev/null 2>&1; then
+  echo "Fehler: 'git' wurde nicht gefunden." >&2
+  exit 1
+fi
+
+if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  echo "Fehler: Dieses Verzeichnis ist kein Git-Repository." >&2
+  exit 1
+fi
+
+export HUGO_PREVIEW_BANNER=true
+export HUGO_PREVIEW_VERSION="$(git rev-parse --short HEAD)"
+export HUGO_PREVIEW_LAST_UPDATED="$(git log -1 --date=format:'%Y-%m-%d %H:%M UTC' --pretty=format:'%cd')"
+export HUGO_PREVIEW_COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | paste -sd ' || ' -)"
+
+# Build once and derive checked-link count from check-live-assets output.
+if hugo >/dev/null 2>&1; then
+  if command -v python3 >/dev/null 2>&1 && [[ -f "bin/check-live-assets" ]]; then
+    LINKCHECK_LOG="$(mktemp)"
+    python3 -m http.server 4173 --directory public >/tmp/hugo-preview-linkcheck-server.log 2>&1 &
+    SERVER_PID=$!
+
+    cleanup_linkcheck() {
+      kill "$SERVER_PID" >/dev/null 2>&1 || true
+      rm -f "$LINKCHECK_LOG"
+    }
+
+    trap cleanup_linkcheck EXIT
+
+    python3 bin/check-live-assets \
+      "http://localhost:4173/" \
+      "http://localhost:4173/estyle" \
+      "http://localhost:4173/about" \
+      "http://localhost:4173/impressum" \
+      "http://localhost:4173/datenschutz" \
+      "http://localhost:4173/shop" \
+      "http://localhost:4173/blog" \
+      --max-pages 300 \
+      --concurrency 12 >"$LINKCHECK_LOG" 2>&1 || true
+
+    HUGO_PREVIEW_LINKS_CHECKED="$(grep -Eo 'Unique in-scope assets to check: [0-9]+' "$LINKCHECK_LOG" | tail -1 | awk '{print $NF}')"
+
+    trap - EXIT
+    cleanup_linkcheck
+  else
+    HUGO_PREVIEW_LINKS_CHECKED=""
+  fi
+else
+  HUGO_PREVIEW_LINKS_CHECKED=""
+fi
+
+export HUGO_PREVIEW_LINKS_CHECKED
+
+echo "Starte Hugo Preview-Server mit Banner-Metadaten..."
+echo "Version: $HUGO_PREVIEW_VERSION"
+echo "Letzte Anderung: $HUGO_PREVIEW_LAST_UPDATED"
+if [[ -n "${HUGO_PREVIEW_LINKS_CHECKED:-}" ]]; then
+  echo "Geprufte Links: $HUGO_PREVIEW_LINKS_CHECKED"
+fi
+
+exec hugo server -D "$@"
