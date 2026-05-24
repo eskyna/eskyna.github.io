@@ -279,7 +279,7 @@ h2 {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 /* Portrait layout (mobile) */
@@ -3187,6 +3187,7 @@ main .hero {
   );
   background-position: center center;
   background-size: cover;
+  background-attachment: scroll;
 }
 
 main .hero::before,
@@ -3496,6 +3497,7 @@ main .hero .hero-copy {
     background-size: 100vw auto;
     background-position: left top;
     background-repeat: no-repeat;
+    background-attachment: scroll;
     background-color: #b9977c;
     position: relative;
     overflow: hidden;
