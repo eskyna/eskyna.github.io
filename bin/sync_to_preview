@@ -72,6 +72,7 @@ RSYNC_FLAGS=(
   --exclude=.git/
   --exclude=.DS_Store
   --exclude=node_modules/
+  --exclude=preview/
   --exclude=public/
   --exclude=resources/_gen/
   --exclude=test-results/
