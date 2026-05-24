@@ -3465,6 +3465,77 @@ main .hero .hero-copy {
   }
 }
 
+/* Super-breites Layout für niedrige Landscape-Viewports (z. B. Pixel 8 quer) */
+@media (orientation: landscape) and (width >= 850px) and (height <= 460px) {
+  main .hero {
+    min-height: 100svh;
+    background-image: image-set(
+      url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.avif")
+        type("image/avif"),
+      url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.webp")
+        type("image/webp"),
+      url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.png")
+        type("image/png")
+    );
+    background-position: center right;
+
+    --hero-left-axis: clamp(0.8rem, 2vw, 1.4rem);
+  }
+
+  main .hero .hero-topbar {
+    padding-top: max(0.45rem, env(safe-area-inset-top));
+    padding-bottom: 0;
+    gap: 0.5rem;
+  }
+
+  main .hero .hero-coach-label {
+    font-size: clamp(0.62rem, 1.2vw, 0.72rem);
+    line-height: 1.2;
+  }
+
+  main .hero .hero-content-grid {
+    align-items: center;
+    padding-top: clamp(0.2rem, 0.9vh, 0.5rem);
+    padding-bottom: clamp(0.25rem, 1vh, 0.6rem);
+  }
+
+  main .hero .hero-copy-column {
+    gap: clamp(0.25rem, 1vh, 0.55rem);
+    max-width: min(100%, 42rem);
+  }
+
+  main .hero .hero-headline {
+    font-size: clamp(1.2rem, 2.4vw, 1.7rem);
+    line-height: 1.02;
+    margin-bottom: 0.12rem;
+  }
+
+  main .hero .hero-details {
+    max-width: min(100%, 44ch);
+    margin-top: 0;
+  }
+
+  main .hero .hero-details .hero-detail {
+    font-size: clamp(0.72rem, 1.25vw, 0.84rem);
+    line-height: 1.24;
+    margin-top: 0.14rem;
+  }
+
+  main .hero .hero-details .hero-detail br {
+    display: none;
+  }
+
+  main .hero .hero-actions {
+    margin-top: 0;
+  }
+
+  main .hero .hero-actions .btn {
+    min-height: 38px;
+    padding: 0.52rem 1.1rem;
+    font-size: 0.8rem;
+  }
+}
+
 .shop-page .hero-small h1 {
   color: white;
   font-size: clamp(2rem, 5vw, 3rem);
