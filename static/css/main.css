@@ -3479,8 +3479,8 @@ main .hero .hero-copy {
       url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.png")
         type("image/png")
     );
-    background-size: auto 100svh;
-    background-position: right bottom;
+    background-size: 104% auto;
+    background-position: right top;
     background-repeat: no-repeat;
     background-color: #b9977c;
 
