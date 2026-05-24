@@ -6,6 +6,16 @@
   --muted: rgb(44 30 22 / 72%);
   --accent: #c5a059; /* Muted Gold */
   --accent-strong: #8b5e34; /* Warm Cocoa */
+  --on-dark: #fff;
+  --on-dark-muted: rgb(255 255 255 / 88%);
+  --hero-cta-bg: #7a4e34;
+  --hero-cta-bg-hover: #69412b;
+  --hero-cta-shadow: rgb(122 78 52 / 35%);
+  --tooltip-border: rgb(255 255 255 / 38%);
+  --tooltip-bg: linear-gradient(165deg, rgb(30 20 14 / 94%), rgb(47 31 23 / 92%));
+  --tooltip-shadow: 0 12px 30px rgb(14 9 6 / 42%);
+  --tooltip-text: rgb(255 248 240 / 96%);
+  --tooltip-text-soft: rgb(255 239 226 / 94%);
   --card-border: rgb(44 30 22 / 16%);
   --section-bg-dark: linear-gradient(180deg, rgb(227 213 200 / 75%), rgb(227 213 200 / 45%));
   --section-bg-muted: linear-gradient(180deg, rgb(243 235 226 / 42%), rgb(243 235 226 / 24%));
@@ -60,7 +70,7 @@ html {
 
 body {
   font-family: var(--font-text);
-  background-color: #f6f1ea;
+  background-color: var(--page-wash);
   background-image:
     linear-gradient(rgb(255 255 255 / 72%), rgb(255 255 255 / 72%)),
     image-set(
@@ -99,6 +109,10 @@ a:hover {
   clip-path: inset(50%);
   white-space: nowrap;
   border: 0;
+}
+
+.no-break {
+  white-space: nowrap;
 }
 
 .container {
@@ -143,7 +157,7 @@ h2 {
 
 .hero-coach-label {
   margin: 0;
-  color: rgb(255 255 255 / 88%);
+  color: var(--on-dark-muted);
   font-family: var(--font-subtitle);
   font-size: 0.78rem;
   letter-spacing: 0.11em;
@@ -184,7 +198,7 @@ h2 {
   position: absolute;
   top: calc(100% + 0.28rem);
   left: 0;
-  color: #fff;
+  color: var(--on-dark);
   font-size: clamp(0.84rem, 1.2vw, 0.96rem);
   letter-spacing: 0.03em;
   line-height: 1.15;
@@ -458,10 +472,10 @@ h1 {
   width: min(34rem, calc(100vw - 2rem));
   padding: 0.95rem 1rem;
   border-radius: 0.9rem;
-  border: 1px solid rgb(255 255 255 / 38%);
-  background: linear-gradient(165deg, rgb(30 20 14 / 94%), rgb(47 31 23 / 92%));
-  box-shadow: 0 12px 30px rgb(14 9 6 / 42%);
-  color: rgb(255 248 240 / 96%);
+  border: 1px solid var(--tooltip-border);
+  background: var(--tooltip-bg);
+  box-shadow: var(--tooltip-shadow);
+  color: var(--tooltip-text);
   text-align: left;
   transform: translate(-50%, -0.35rem);
   opacity: 0;
@@ -479,7 +493,7 @@ h1 {
   font-size: 0.95rem;
   font-weight: 700;
   letter-spacing: 0.02em;
-  color: #fff;
+  color: var(--on-dark);
 }
 
 .inline-term-tooltip-lead {
@@ -494,7 +508,7 @@ h1 {
   display: block;
   font-size: 0.9rem;
   line-height: 1.5;
-  color: rgb(255 239 226 / 94%);
+  color: var(--tooltip-text-soft);
 }
 
 .inline-term-tooltip-start .inline-term-tooltip-panel {
@@ -563,7 +577,7 @@ h1 {
   min-height: 52px;
   border: 1px solid var(--accent);
   border-radius: 10px;
-  color: #2c1e16;
+  color: var(--text);
   font-weight: 600;
   font-size: 0.95rem;
   line-height: 1;
@@ -576,7 +590,7 @@ h1 {
 }
 
 .btn:hover {
-  color: #2c1e16;
+  color: var(--text);
   background-color: rgb(197 160 89 / 86%);
   box-shadow: 0 2px 12px rgb(197 160 89 / 28%);
 }
@@ -601,10 +615,10 @@ h1 {
   width: min(36rem, calc(100vw - 2rem));
   padding: 0.95rem 1rem;
   border-radius: 0.9rem;
-  border: 1px solid rgb(255 255 255 / 38%);
-  background: linear-gradient(165deg, rgb(30 20 14 / 94%), rgb(47 31 23 / 92%));
-  box-shadow: 0 12px 30px rgb(14 9 6 / 42%);
-  color: rgb(255 248 240 / 96%);
+  border: 1px solid var(--tooltip-border);
+  background: var(--tooltip-bg);
+  box-shadow: var(--tooltip-shadow);
+  color: var(--tooltip-text);
   text-align: left;
   transform: translateY(0.35rem);
   opacity: 0;
@@ -622,7 +636,7 @@ h1 {
   font-size: 0.95rem;
   font-weight: 700;
   letter-spacing: 0.02em;
-  color: #fff;
+  color: var(--on-dark);
 }
 
 .hero-cta-tooltip-lead {
@@ -637,7 +651,7 @@ h1 {
   display: block;
   font-size: 0.9rem;
   line-height: 1.5;
-  color: rgb(255 239 226 / 94%);
+  color: var(--tooltip-text-soft);
 }
 
 .hero-cta-tooltip:hover .hero-cta-tooltip-panel,
@@ -697,9 +711,9 @@ h1 {
 }
 
 .hero .hero-actions .btn {
-  border-color: #7a4e34;
-  background-color: #7a4e34;
-  color: #fff;
+  border-color: var(--hero-cta-bg);
+  background-color: var(--hero-cta-bg);
+  color: var(--on-dark);
   transition:
     background-color 0.2s ease,
     box-shadow 0.2s ease,
@@ -707,10 +721,10 @@ h1 {
 }
 
 .hero .hero-actions .btn:hover {
-  border-color: #69412b;
-  background-color: #69412b;
-  color: #fff;
-  box-shadow: 0 2px 12px rgb(122 78 52 / 35%);
+  border-color: var(--hero-cta-bg-hover);
+  background-color: var(--hero-cta-bg-hover);
+  color: var(--on-dark);
+  box-shadow: 0 2px 12px var(--hero-cta-shadow);
 }
 
 .hero .hero-actions .btn .btn-icon {
@@ -729,16 +743,16 @@ h1 {
 }
 
 .coach-section .btn-secondary {
-  border-color: #7a4e34;
-  color: #fff;
-  background-color: #7a4e34;
+  border-color: var(--hero-cta-bg);
+  color: var(--on-dark);
+  background-color: var(--hero-cta-bg);
 }
 
 .coach-section .btn-secondary:hover {
-  border-color: #69412b;
-  color: #fff;
-  background-color: #69412b;
-  box-shadow: 0 2px 12px rgb(122 78 52 / 35%);
+  border-color: var(--hero-cta-bg-hover);
+  color: var(--on-dark);
+  background-color: var(--hero-cta-bg-hover);
+  box-shadow: 0 2px 12px var(--hero-cta-shadow);
 }
 
 .coach-section .coach-actions .btn-secondary-light {
