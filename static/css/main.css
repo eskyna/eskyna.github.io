@@ -3413,14 +3413,13 @@ main .hero .hero-copy {
     inset: 0;
     z-index: 1;
     pointer-events: none;
-    background:
-      linear-gradient(
-        180deg,
-        rgb(24 15 10 / 42%) 0%,
-        rgb(24 15 10 / 20%) 34%,
-        rgb(24 15 10 / 32%) 100%
-      ),
-      radial-gradient(circle at 50% 70%, rgb(22 14 10 / 30%) 0%, transparent 56%);
+    background: linear-gradient(
+      180deg,
+      rgb(24 15 10 / 0%) 0%,
+      rgb(24 15 10 / 0%) 40%,
+      rgb(24 15 10 / 15%) 65%,
+      rgb(24 15 10 / 38%) 100%
+    );
   }
 
   main .hero .hero-topbar,
@@ -3438,11 +3437,12 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-details .hero-detail {
-    color: rgb(255 250 243 / 92%);
-    -webkit-text-stroke: 0.25px rgb(32 20 14 / 40%);
+    color: rgb(255 250 243 / 98%);
+    -webkit-text-stroke: 0.4px rgb(32 20 14 / 55%);
     text-shadow:
-      0 1px 4px rgb(0 0 0 / 48%),
-      0 5px 14px rgb(0 0 0 / 25%);
+      0 2px 6px rgb(0 0 0 / 68%),
+      0 8px 20px rgb(0 0 0 / 45%),
+      0 12px 28px rgb(0 0 0 / 28%);
   }
 }
 
