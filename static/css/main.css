@@ -469,7 +469,7 @@ h1 {
   z-index: 30;
   left: 50%;
   top: calc(100% + 0.7rem);
-  width: min(32rem, calc(100vw - 2rem));
+  width: min(28rem, calc(100vw - 2rem));
   max-height: 80vh;
   padding: 0.95rem 1rem;
   border-radius: 0.9rem;
@@ -483,6 +483,8 @@ h1 {
   visibility: hidden;
   pointer-events: none;
   overflow-wrap: break-word;
+  white-space: normal;
+  hyphens: auto;
   transition:
     opacity 0.2s ease,
     transform 0.2s ease,
@@ -497,6 +499,7 @@ h1 {
   letter-spacing: 0.02em;
   color: var(--on-dark);
   overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .inline-term-tooltip-lead {
@@ -506,6 +509,7 @@ h1 {
   line-height: 1.45;
   font-weight: 700;
   overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .inline-term-tooltip-text {
@@ -514,6 +518,7 @@ h1 {
   line-height: 1.5;
   color: var(--tooltip-text-soft);
   overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .inline-term-tooltip-start .inline-term-tooltip-panel {
@@ -3575,28 +3580,32 @@ main .hero .hero-copy {
   main .hero .inline-term-tooltip-panel {
     top: auto;
     bottom: calc(100% + 0.7rem);
-    width: min(26rem, calc(100vw - 1rem));
+    width: min(24rem, calc(100vw - 1rem));
     max-height: 50vh;
     padding: 0.8rem 0.9rem;
     overflow-wrap: break-word;
+    hyphens: auto;
   }
 
   main .hero .inline-term-tooltip-title {
     font-size: 0.88rem;
     margin-bottom: 0.35rem;
     overflow-wrap: break-word;
+    hyphens: auto;
   }
 
   main .hero .inline-term-tooltip-lead {
     font-size: 0.85rem;
     margin-bottom: 0.4rem;
     overflow-wrap: break-word;
+    hyphens: auto;
   }
 
   main .hero .inline-term-tooltip-text {
     font-size: 0.82rem;
     line-height: 1.45;
     overflow-wrap: break-word;
+    hyphens: auto;
   }
 
   main .hero .inline-term-tooltip-start .inline-term-tooltip-panel {
