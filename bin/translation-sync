@@ -135,10 +135,11 @@ class TranslationSyncAgent {
 
       if (!ruFile) {
         this.results.missing++;
+        const deRelPath = deFile.relPath.replace(/^de[/\\]/, "");
         this.issues.push({
           type: "MISSING",
           deFile: deFile.relPath,
-          ruFile: deFile.relPath,
+          ruFile: deRelPath,
           severity: "warning",
         });
         return;
@@ -153,15 +154,28 @@ class TranslationSyncAgent {
       if (JSON.stringify(deFrontmatter) === JSON.stringify(ruFrontmatter)) {
         this.results.unchanged++;
       } else {
-        this.results.outOfSync++;
-        this.analyzeChanges(deFile, ruFile, deFrontmatter, ruFrontmatter, deContent, ruContent);
+        const hasIssues = this.analyzeChanges(
+          deFile,
+          ruFile,
+          deFrontmatter,
+          ruFrontmatter,
+          deContent,
+          ruContent
+        );
+
+        if (hasIssues) {
+          this.results.outOfSync++;
+        } else {
+          this.results.unchanged++;
+        }
       }
     });
   }
 
   findCorrespondingRuFile(deFile, ruFiles) {
+    const deRelPath = deFile.relPath.replace(/^de[/\\]/, "");
     return ruFiles.find((rf) => {
-      return rf.relPath === deFile.relPath;
+      return rf.relPath === deRelPath;
     });
   }
 
@@ -208,6 +222,7 @@ class TranslationSyncAgent {
   analyzeChanges(deFile, ruFile, deFrontmatter, ruFrontmatter, deContent, ruContent) {
     const deMeta = this.extractMetadata(deFile.path);
     const ruMeta = this.extractMetadata(ruFile.path);
+    let hasIssues = false;
 
     // Check for structural differences (image paths, sections, etc.)
     const imagePathsDE = (deContent.match(/images\/[a-zA-Z0-9_\-/.]+/g) || []).sort();
@@ -217,6 +232,7 @@ class TranslationSyncAgent {
     const extraImages = imagePathsRU.filter((img) => !imagePathsDE.includes(img));
 
     if (missingImages.length > 0 || extraImages.length > 0) {
+      hasIssues = true;
       this.issues.push({
         type: "IMAGE_MISMATCH",
         deFile: deFile.relPath,
@@ -232,6 +248,7 @@ class TranslationSyncAgent {
     const ruSections = (ruContent.match(/^## /gm) || []).length;
 
     if (deSections !== ruSections) {
+      hasIssues = true;
       this.issues.push({
         type: "SECTION_COUNT",
         deFile: deFile.relPath,
@@ -246,6 +263,8 @@ class TranslationSyncAgent {
     if (this.mode === "SYNC") {
       this.syncFrontmatter(ruFile.path, deContent, ruContent);
     }
+
+    return hasIssues;
   }
 
   extractMetadata(filePath) {

@@ -216,7 +216,7 @@ h2 {
 }
 
 /* Landscape: show social links */
-@media (min-width: 800px) {
+@media (width >= 800px) {
   .hero-tools-social {
     display: flex;
   }
@@ -236,6 +236,7 @@ h2 {
   color: var(--accent-strong);
 }
 
+/* stylelint-disable-next-line no-descending-specificity */
 .language-divider {
   color: var(--card-border);
 }
@@ -268,7 +269,7 @@ h2 {
 }
 
 /* Portrait layout (mobile) */
-@media (max-width: 799px) {
+@media (width <= 799px) {
   .hero {
     background-image:
       linear-gradient(
@@ -286,7 +287,7 @@ h2 {
 }
 
 /* Landscape layout (tablet/desktop) */
-@media (min-width: 800px) {
+@media (width >= 800px) {
   .hero {
     background-image: image-set(
       url("../images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
@@ -303,12 +304,13 @@ h2 {
   padding: clamp(1.5rem, 4vw, 3rem);
   padding-top: clamp(1rem, 3vw, 2rem);
   align-items: center;
+
   /* Portrait: single column */
   grid-template-columns: 1fr;
 }
 
 /* Landscape: two columns */
-@media (min-width: 800px) {
+@media (width >= 800px) {
   .hero-content-grid {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
@@ -346,7 +348,7 @@ h2 {
 .hero-detail {
   font-size: clamp(0.92rem, 1.55vw, 1.07rem);
   line-height: 1.58;
-  margin: 0.5rem 0 0 0;
+  margin: 0.5rem 0 0;
   color: rgb(255 255 255 / 88%);
   font-family: var(--font-text);
   text-wrap: pretty;
@@ -356,7 +358,7 @@ h2 {
   margin-top: 0;
 }
 
-@media (max-width: 799px) {
+@media (width <= 799px) {
   .hero-headline {
     font-size: clamp(2.1rem, 8.4vw, 3.4rem);
     font-weight: 700;
@@ -371,6 +373,9 @@ h2 {
 }
 
 .hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
   margin-top: clamp(0.25rem, 0.9vw, 0.55rem);
 }
 
@@ -582,12 +587,6 @@ h1 {
   margin-right: 0.5rem;
 }
 
-.hero-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-}
-
 .hero-cta-tooltip {
   position: relative;
   display: inline-flex;
@@ -662,7 +661,7 @@ h1 {
   }
 }
 
-@media (max-width: 799px) and (orientation: portrait) {
+@media (width <= 799px) and (orientation: portrait) {
   .hero .hero-actions .btn {
     padding-left: 1.1rem;
     padding-right: 1.1rem;
@@ -672,10 +671,8 @@ h1 {
   .hero-cta-tooltip-panel {
     position: fixed;
     z-index: 80;
-    left: max(0.75rem, env(safe-area-inset-left));
-    right: max(0.75rem, env(safe-area-inset-right));
-    top: auto;
-    bottom: max(0.75rem, env(safe-area-inset-bottom));
+    inset: auto max(0.75rem, env(safe-area-inset-right)) max(0.75rem, env(safe-area-inset-bottom))
+      max(0.75rem, env(safe-area-inset-left));
     width: auto;
     max-width: none;
     max-height: min(56svh, 24rem);
@@ -1021,7 +1018,6 @@ h1 {
   line-height: 1.55;
 }
 
-
 .coach-section .coach-heading {
   margin: 1.05rem auto 0;
   color: #2c211c;
@@ -1167,7 +1163,7 @@ h1 {
   color: #6f5748;
 }
 
-@media (max-width: 1024px) {
+@media (width <= 1024px) {
   .coach-section .intro-grid {
     grid-template-columns: 1fr;
     gap: 2rem;
@@ -2369,7 +2365,7 @@ h1 {
 .social-icon {
   width: 18px;
   height: 18px;
-  fill: currentColor;
+  fill: currentcolor;
 }
 
 .hero-tools .social-links {
@@ -2577,14 +2573,14 @@ h1 {
 }
 
 /* Hide secondary social links (Telegram, Email) on smaller screens */
-@media (max-width: 767px) {
+@media (width <= 767px) {
   .hero-tools .social-link-secondary {
     display: none;
   }
 }
 
 /* Hide all social links on very small screens */
-@media (max-width: 479px) {
+@media (width <= 479px) {
   .hero-tools .social-links {
     display: none;
   }
@@ -2834,7 +2830,7 @@ h1 {
   }
 }
 
-@media (max-width: 640px) {
+@media (width <= 640px) {
   .coach-section .coach-quote {
     display: none;
   }
@@ -3337,7 +3333,7 @@ main .hero .hero-copy {
 }
 
 /* Keep hero hierarchy strict on portrait/mobile: headline must stay larger than detail copy */
-@media (max-width: 799px) {
+@media (width <= 799px) {
   main .hero {
     display: grid;
     grid-template-rows: auto 1fr;
@@ -3380,7 +3376,7 @@ main .hero .hero-copy {
   }
 }
 
-@media (max-width: 799px) and (orientation: portrait) {
+@media (width <= 799px) and (orientation: portrait) {
   main .hero::after {
     content: "";
     position: absolute;
@@ -3420,7 +3416,7 @@ main .hero .hero-copy {
   }
 }
 
-@media (min-width: 800px) and (orientation: landscape) {
+@media (width >= 800px) and (orientation: landscape) {
   main .hero {
     --hero-left-axis: clamp(1.25rem, 3vw, 2.75rem);
   }
@@ -4019,6 +4015,7 @@ body :where(button) {
   justify-content: center;
 }
 
+/* stylelint-disable-next-line no-descending-specificity */
 .hero-tools .language-switcher a {
   min-height: auto;
   min-width: 0;
