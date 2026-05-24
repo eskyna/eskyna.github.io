@@ -23,7 +23,7 @@ fi
 export HUGO_PREVIEW_BANNER=true
 export HUGO_PREVIEW_VERSION="$(git rev-parse --short HEAD)"
 export HUGO_PREVIEW_LAST_UPDATED="$(git log -1 --date=format:'%Y-%m-%d %H:%M UTC' --pretty=format:'%cd')"
-export HUGO_PREVIEW_COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | paste -sd ' || ' -)"
+export HUGO_PREVIEW_COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | awk 'NR==1{printf "%s", $0} NR>1{printf " || %s", $0}')"
 
 # Build once and derive checked-link count from check-live-assets output.
 if hugo >/dev/null 2>&1; then

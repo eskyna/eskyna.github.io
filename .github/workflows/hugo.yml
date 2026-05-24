@@ -10,11 +10,12 @@ on:
   workflow_dispatch:
     inputs:
       deploy_mode:
-        description: "Deploy mode: live | preview"
+        description: "Deploy mode override: environment | live | preview"
         required: false
-        default: live
+        default: environment
         type: choice
         options:
+          - environment
           - live
           - preview
 
@@ -99,6 +100,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           submodules: recursive
+          fetch-depth: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
@@ -109,14 +111,28 @@ jobs:
           MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
           LAST_UPDATED="$(git log -1 --date=format:'%Y-%m-%d %H:%M UTC' --pretty=format:'%cd')"
           VERSION="$(git rev-parse --short HEAD)"
-          COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | paste -sd ' || ' -)"
+          COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | awk 'NR==1{printf "%s", $0} NR>1{printf " || %s", $0}')"
 
-          MODE="$MODE_INPUT"
-          if [[ -z "$MODE" ]]; then
+          if [[ -z "$MODE_VAR" ]]; then
+            echo "Fehler: Environment-Variable DEPLOY_MODE ist nicht gesetzt (expected: live oder preview)." >&2
+            exit 1
+          fi
+
+          if [[ "$MODE_VAR" != "live" && "$MODE_VAR" != "preview" ]]; then
+            echo "Fehler: Ungueltiger DEPLOY_MODE='$MODE_VAR' (erlaubt: live, preview)." >&2
+            exit 1
+          fi
+
+          MODE=""
+          if [[ -n "$MODE_INPUT" && "$MODE_INPUT" != "environment" ]]; then
+            MODE="$MODE_INPUT"
+          else
             MODE="$MODE_VAR"
           fi
-          if [[ -z "$MODE" ]]; then
-            MODE="live"
+
+          if [[ "$MODE" != "live" && "$MODE" != "preview" ]]; then
+            echo "Fehler: Effektiver deploy_mode '$MODE' ist ungueltig (erlaubt: live, preview)." >&2
+            exit 1
           fi
 
           BUILD_BASEURL="${BASE_URL%/}/"
@@ -139,6 +155,10 @@ jobs:
           echo "HUGO_PREVIEW_COMMITS=$COMMITS" >> "$GITHUB_ENV"
           echo "HUGO_BUILD_BASEURL=$BUILD_BASEURL" >> "$GITHUB_ENV"
           echo "DEPLOY_MODE_EFFECTIVE=$MODE" >> "$GITHUB_ENV"
+
+          echo "Resolved deploy mode: $MODE"
+          echo "Resolved base URL: $BUILD_BASEURL"
+          echo "Preview banner: $(grep -E '^HUGO_PREVIEW_BANNER=' "$GITHUB_ENV" | tail -1 | cut -d= -f2-)"
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
@@ -189,8 +209,10 @@ jobs:
           MODE_INPUT="${{ github.event.inputs.deploy_mode || '' }}"
           MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
 
-          MODE="$MODE_INPUT"
-          if [[ -z "$MODE" ]]; then
+          MODE=""
+          if [[ -n "$MODE_INPUT" && "$MODE_INPUT" != "environment" ]]; then
+            MODE="$MODE_INPUT"
+          else
             MODE="$MODE_VAR"
           fi
           if [[ -z "$MODE" ]]; then
@@ -207,6 +229,8 @@ jobs:
           else
             CHECK_BASE_URL="${BASE_URL%/}/"
           fi
+
+          export CHECK_BASE_URL
 
           BASE_PATH=$(python3 - <<'PY'
           from urllib.parse import urlparse
@@ -230,7 +254,7 @@ jobs:
           SERVER_PID=$!
           trap 'kill $SERVER_PID; rm -rf "$SERVE_DIR"' EXIT
 
-          python3 bin/check-live-assets \
+          LINKS_CHECKED=$(python3 bin/check-live-assets \
             "http://localhost:4173${BASE_PATH}" \
             "http://localhost:4173${BASE_PATH}/estyle" \
             "http://localhost:4173${BASE_PATH}/about" \
@@ -239,7 +263,8 @@ jobs:
             "http://localhost:4173${BASE_PATH}/shop" \
             "http://localhost:4173${BASE_PATH}/blog" \
             --max-pages 300 \
-            --concurrency 12
+            --concurrency 12 2>&1 | grep -oP '(?<=checked: )\d+' | tail -1 || echo "0")
+          echo "Links checked in build: $LINKS_CHECKED"
         env:
           CHECK_BASE_URL: ${{ steps.pages.outputs.base_url }}
 
