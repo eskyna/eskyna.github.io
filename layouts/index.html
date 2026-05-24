@@ -16,7 +16,8 @@
 {{ $contactBlogLinkText := $contact.blogLinkText }}
 <main class="home-main">
   <section class="hero">
-    <div class="container hero-topbar">
+    <!-- Hero Topbar: Logo + Name | Language & Social Links -->
+    <div class="hero-topbar">
       <p class="hero-coach-label" aria-label="{{ $ui.hero_coach_label }}" tabindex="0">
         <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
         <span class="hero-coach-copy">
@@ -25,14 +26,24 @@
         </span>
       </p>
       <div class="hero-tools">
-        {{ partial "social-links.html" . }}
+        <!-- Social links visible only on landscape (>= 800px) -->
+        <div class="hero-tools-social">
+          {{ partial "social-links.html" . }}
+        </div>
         {{ partial "language-switcher.html" . }}
       </div>
     </div>
-    <div class="container hero-grid">
-      <div class="hero-copy">
-        <h1>{{ $hero.headline }}</h1>
-        <div class="lead">{{ $hero.text | markdownify }}</div>
+
+    <!-- Hero Content Grid: Portrait = single column, Landscape = two columns -->
+    <div class="hero-content-grid">
+      <!-- Hero Copy Column -->
+      <div class="hero-copy-column">
+        <h1 class="hero-headline">{{ $hero.headline }}</h1>
+        <div class="hero-details">
+          <p class="hero-detail">{{ $hero.detail_1 | safeHTML }}</p>
+          <p class="hero-detail">{{ $hero.detail_2 | safeHTML }}</p>
+          <p class="hero-detail">{{ $hero.detail_3 | safeHTML }}</p>
+        </div>
         <div class="hero-actions">
           {{ with $hero.ctaTooltip }}
             {{ $ctaTooltipId := printf "hero-cta-tooltip-%s" $.Language.Lang }}
@@ -48,30 +59,10 @@
             {{ partial "button-icon.html" (dict "href" $hero.ctaHref "text" $hero.ctaText "title" $hero.ctaText) }}
           {{ end }}
         </div>
-        {{ with $hero.trust }}
-        <div class="hero-trust">
-          {{ range . }}<span class="hero-trust-item">{{ . }}</span>{{ end }}
-        </div>
-        {{ end }}
       </div>
-      <div class="hero-image-wrap">
-        <picture>
-          <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_combined.avif" | relURL }}" type="image/avif">
-          <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_combined.webp" | relURL }}" type="image/webp">
-          <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_combined.png" | relURL }}" type="image/png">
-          <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_combined.avif" | relURL }}" type="image/avif">
-          <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_combined.webp" | relURL }}" type="image/webp">
-          <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_combined.png" | relURL }}" type="image/png">
-          <img src="{{ "/images/backgrounds/hero/new_hero_landscape_combined.png" | relURL }}" alt="{{ $ui.hero_image_alt }}" title="{{ $ui.hero_image_alt }}" class="hero-image" loading="eager" decoding="async" fetchpriority="high">
-            <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_bright_combined.avif" | relURL }}" type="image/avif">
-            <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_bright_combined.webp" | relURL }}" type="image/webp">
-            <source media="(max-width: 799px)" srcset="{{ "/images/backgrounds/hero/new_hero_portrait_bright_combined.png" | relURL }}" type="image/png">
-            <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_bright_combined.avif" | relURL }}" type="image/avif">
-            <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_bright_combined.webp" | relURL }}" type="image/webp">
-            <source media="(min-width: 800px)" srcset="{{ "/images/backgrounds/hero/new_hero_landscape_bright_combined.png" | relURL }}" type="image/png">
-            <img src="{{ "/images/backgrounds/hero/new_hero_landscape_bright_combined.png" | relURL }}" alt="{{ $ui.hero_image_alt }}" title="{{ $ui.hero_image_alt }}" class="hero-image" loading="eager" decoding="async" fetchpriority="high">
-        </picture>
-      </div>
+
+      <!-- Hero Image Column (visible only on landscape) -->
+      <div class="hero-image-column"></div>
     </div>
   </section>
 
