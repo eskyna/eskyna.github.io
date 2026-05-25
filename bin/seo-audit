@@ -161,13 +161,6 @@ function auditFile(filePath) {
         });
       }
 
-      if (!attrs.match(/\btitle\s*=/i)) {
-        issues.imagesNoTitle.push({
-          file: relativePath,
-          img: match[0].substring(0, 80) + (match[0].length > 80 ? "..." : ""),
-        });
-      }
-
       // Check for empty alt text
       const altMatch = attrs.match(/\balt\s*=\s*["']([^"']*)["']/i);
       if (altMatch && !altMatch[1].trim()) {
@@ -290,13 +283,6 @@ function generateReport() {
     if (issues.imagesNoAlt.length > 5) {
       log(`   ... and ${issues.imagesNoAlt.length - 5} more`, "warning");
     }
-  }
-
-  // Images without title
-  if (issues.imagesNoTitle.length > 0) {
-    totalIssues += issues.imagesNoTitle.length;
-    log(`\n⚠️  Images without TITLE attribute: ${issues.imagesNoTitle.length}`, "warning");
-    log(`   (Consider adding titles for better UX)`, "info");
   }
 
   // Empty alt text
