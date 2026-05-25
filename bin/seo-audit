@@ -27,6 +27,7 @@ const EXCLUDED_DIRS = new Set([
   "public/spiel",
   "public/shop",
   "public/stefan",
+  "public/de",
 ]);
 
 // Issue tracking
@@ -179,7 +180,7 @@ function auditFile(filePath) {
 
     // Check meta description in head (only for index files)
     if (filePath.includes("index.html")) {
-      if (!/<meta\s+name\s*=\s*["']description["']/i.test(content)) {
+      if (!/<meta\s+name\s*=\s*["']?description["']?/i.test(content)) {
         issues.missingMetaDesc.push(relativePath);
       }
 
