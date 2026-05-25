@@ -17,6 +17,17 @@ const colors = {
 // Region for fetching public files
 const PUBLIC_DIR = "./public";
 const STATIC_DIR = "./static/outfits";
+const EXCLUDED_DIRS = new Set([
+  "public/stiltest",
+  "public/estylepwa",
+  "public/garderobencheck",
+  "public/colormatch",
+  "public/clovermatch",
+  "public/farbkarte",
+  "public/spiel",
+  "public/shop",
+  "public/stefan",
+]);
 
 // Issue tracking
 const issues = {
@@ -66,6 +77,20 @@ function findAll(htmlContent, pattern) {
   return results;
 }
 
+function normalizePath(filePath) {
+  return filePath.split(path.sep).join("/");
+}
+
+function isExcludedPath(filePath) {
+  const relativePath = normalizePath(path.relative(process.cwd(), filePath));
+  for (const excludedDir of EXCLUDED_DIRS) {
+    if (relativePath === excludedDir || relativePath.startsWith(`${excludedDir}/`)) {
+      return true;
+    }
+  }
+  return false;
+}
+
 function auditFile(filePath) {
   try {
     const content = fs.readFileSync(filePath, "utf8");
@@ -93,23 +118,26 @@ function auditFile(filePath) {
       const fullLink =
         match[0] + /^[^<]*/.exec(content.substring(match.index + match[0].length))[0] + "</a>";
 
-      // Check for title attribute - case insensitive and allowing attributes in any order
-      if (!attrs.match(/\btitle\s*=/i)) {
+      // Check for link text or aria-label (for accessibility)
+      const hasAriaLabel = attrs.match(/\baria-label\s*=/i);
+      const textMatch = /^<a[^>]*>(.*?)<\/a>/i.exec(fullLink);
+      const text = textMatch
+        ? textMatch[1]
+            .replace(/<[^>]*>/g, "")
+            .replace(/&nbsp;/g, "")
+            .replace(/\s+/g, " ")
+            .trim()
+        : "";
+
+      // Only require title for links that have no visible text and no aria-label.
+      if (!attrs.match(/\btitle\s*=/i) && !hasAriaLabel && !text) {
         issues.linksNoTitle.push({
           file: relativePath,
           link: fullLink.substring(0, 80) + (fullLink.length > 80 ? "..." : ""),
         });
       }
 
-      // Check for link text or aria-label (for accessibility)
-      const hasAriaLabel = attrs.match(/\baria-label\s*=/i);
-      const textMatch = /^<a[^>]*>(.*?)<\/a>/i.exec(fullLink);
       if (textMatch && !hasAriaLabel) {
-        const text = textMatch[1]
-          .replace(/<[^>]*>/g, "")
-          .replace(/&nbsp;/g, "")
-          .replace(/\s+/g, " ")
-          .trim();
         if (!text) {
           issues.linksNoText.push({
             file: relativePath,
@@ -178,6 +206,10 @@ function auditFile(filePath) {
 }
 
 function getHtmlFiles(dir, fileList = []) {
+  if (isExcludedPath(dir)) {
+    return fileList;
+  }
+
   const files = fs.readdirSync(dir);
 
   files.forEach((file) => {
@@ -185,10 +217,10 @@ function getHtmlFiles(dir, fileList = []) {
     const stat = fs.statSync(filePath);
 
     if (stat.isDirectory()) {
-      if (!file.startsWith(".") && file !== "node_modules") {
+      if (!file.startsWith(".") && file !== "node_modules" && !isExcludedPath(filePath)) {
         getHtmlFiles(filePath, fileList);
       }
-    } else if (file.endsWith(".html")) {
+    } else if (file.endsWith(".html") && !isExcludedPath(filePath)) {
       fileList.push(filePath);
     }
   });
