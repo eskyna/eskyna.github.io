@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "Error: Node.js is not installed or not in PATH." >&2
+  echo "Install Node.js first, then run: yarn install" >&2
+  exit 127
+fi
+
+if ! command -v yarn >/dev/null 2>&1; then
+  echo "Error: yarn is not installed or not in PATH." >&2
+  echo "Install yarn, then run: yarn install" >&2
+  exit 127
+fi
+
+cd "$ROOT_DIR"
+
+echo "==> Convert images..."
+./bin/convert-images
+
+echo "==> Check live assets..."
+python3 ./bin/check-live-assets
+
+echo "==> Check translation..."
+./bin/check_translation
+
+echo "==> Build production..."
+./bin/build-production
+
+echo "==> Format (Prettier)..."
+yarn format
+
+echo "==> Lint (CSS & Markdown)..."
+yarn lint
+
+echo "==> SEO Audit..."
+yarn seo-audit
+
+echo ""
+echo "All CI checks passed."
