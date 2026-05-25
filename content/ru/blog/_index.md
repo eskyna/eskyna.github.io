@@ -1,5 +1,5 @@
 ---
-title: "Блог"
+title: "Блог ESKYNA"
 description: "Статьи ESKYNA о стиле, цвете и практичных образах."
 ---
 

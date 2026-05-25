@@ -1,5 +1,5 @@
 ---
-title: "Rosa neu gedacht: 3 Outfit-Ideen für Sport-Chic, Romantic-Chic und Business-Chic"
+title: "Rosa kombinieren – 3 Looks"
 date: 2026-05-15
 description: "Rosa ist vielseitiger als viele denken. Entdecken Sie, wie Sie Rosa modern, stilvoll und alltagstauglich kombinieren."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."

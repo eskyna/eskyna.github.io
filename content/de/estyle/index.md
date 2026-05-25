@@ -1,5 +1,5 @@
 ---
-title: "EStyle - Dein digitaler Stilberater"
+title: "EStyle – Dein Stilberater"
 eyebrow: "Digitales Angebot von Natalia Kleemann"
 image: "images/estyle-app.png"
 ---
