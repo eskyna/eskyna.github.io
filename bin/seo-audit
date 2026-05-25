@@ -82,12 +82,11 @@ function auditFile(filePath) {
     links.forEach((match) => {
       const attrs = match[1];
 
-      // Skip anchor/hash links and empty hrefs
-      if (
-        !attrs.includes("href") ||
-        attrs.includes('href=""') ||
-        attrs.match(/href\s*=\s*["']#["']/)
-      ) {
+      const hrefMatch = attrs.match(/\bhref\s*=\s*["']?([^"'\s>]+)["']?/i);
+      const hrefValue = hrefMatch ? hrefMatch[1].trim() : "";
+
+      // Ignore links without href, empty href and in-page fragment links (#...)
+      if (!attrs.includes("href") || !hrefValue || hrefValue.startsWith("#")) {
         return;
       }
 
