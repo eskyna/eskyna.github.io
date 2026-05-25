@@ -64,7 +64,7 @@
             {{ $orig := $post.Resources.GetMatch $heroName }}
             {{ $fallback := or $png $orig }}
             {{ with $fallback }}
-              <a class="blog-featured-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+              <a class="blog-featured-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}" aria-label="{{ $post.Title }}">
                 <picture>
                   {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
                   {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}

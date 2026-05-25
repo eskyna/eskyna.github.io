@@ -102,9 +102,10 @@ function auditFile(filePath) {
         });
       }
 
-      // Check for link text
+      // Check for link text or aria-label (for accessibility)
+      const hasAriaLabel = attrs.match(/\baria-label\s*=/i);
       const textMatch = /^<a[^>]*>(.*?)<\/a>/i.exec(fullLink);
-      if (textMatch) {
+      if (textMatch && !hasAriaLabel) {
         const text = textMatch[1]
           .replace(/<[^>]*>/g, "")
           .replace(/&nbsp;/g, "")
