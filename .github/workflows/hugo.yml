@@ -176,6 +176,63 @@ jobs:
           HUGO_PREVIEW_LAST_UPDATED: ${{ env.HUGO_PREVIEW_LAST_UPDATED }}
           HUGO_PREVIEW_COMMITS: ${{ env.HUGO_PREVIEW_COMMITS }}
         run: npm run build:ci
+      - name: Compute links checked for preview banner
+        if: env.HUGO_PREVIEW_BANNER == 'true'
+        run: |
+          BUILD_BASEURL="${{ env.HUGO_BUILD_BASEURL }}"
+          export BUILD_BASEURL
+
+          BASE_PATH=$(python3 - <<'PY'
+          from urllib.parse import urlparse
+          import os
+
+          parsed = urlparse(os.environ["BUILD_BASEURL"])
+          path = parsed.path.rstrip("/")
+          print(path)
+          PY
+          )
+
+          SERVE_DIR=$(mktemp -d)
+          if [ -n "$BASE_PATH" ]; then
+            mkdir -p "$SERVE_DIR$BASE_PATH"
+            cp -R public/. "$SERVE_DIR$BASE_PATH/"
+          else
+            cp -R public/. "$SERVE_DIR/"
+          fi
+
+          python3 -m http.server 4173 --directory "$SERVE_DIR" >/tmp/banner-linkcheck-server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID; rm -rf "$SERVE_DIR"' EXIT
+
+          LINKS_CHECKED=$(python3 bin/check-live-assets \
+            "http://localhost:4173${BASE_PATH}" \
+            "http://localhost:4173${BASE_PATH}/estyle" \
+            "http://localhost:4173${BASE_PATH}/about" \
+            "http://localhost:4173${BASE_PATH}/impressum" \
+            "http://localhost:4173${BASE_PATH}/datenschutz" \
+            "http://localhost:4173${BASE_PATH}/shop" \
+            "http://localhost:4173${BASE_PATH}/blog" \
+            --max-pages 300 \
+            --concurrency 12 2>&1 | grep -oP '(?<=checked: )\d+' | tail -1 || echo "0")
+
+          if [[ -z "$LINKS_CHECKED" ]]; then
+            LINKS_CHECKED="0"
+          fi
+
+          echo "HUGO_PREVIEW_LINKS_CHECKED=$LINKS_CHECKED" >> "$GITHUB_ENV"
+          echo "Preview banner links checked: $LINKS_CHECKED"
+      - name: Rebuild with preview link count
+        if: env.HUGO_PREVIEW_BANNER == 'true'
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+          HUGO_BASEURL: ${{ env.HUGO_BUILD_BASEURL }}
+          HUGO_PREVIEW_BANNER: ${{ env.HUGO_PREVIEW_BANNER }}
+          HUGO_PREVIEW_VERSION: ${{ env.HUGO_PREVIEW_VERSION }}
+          HUGO_PREVIEW_LAST_UPDATED: ${{ env.HUGO_PREVIEW_LAST_UPDATED }}
+          HUGO_PREVIEW_COMMITS: ${{ env.HUGO_PREVIEW_COMMITS }}
+          HUGO_PREVIEW_LINKS_CHECKED: ${{ env.HUGO_PREVIEW_LINKS_CHECKED }}
+        run: npm run build:ci
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

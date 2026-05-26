@@ -8,9 +8,9 @@
   --accent-strong: #8b5e34; /* Warm Cocoa */
   --on-dark: #fff;
   --on-dark-muted: rgb(255 255 255 / 88%);
-  --hero-cta-bg: #7a4e34;
-  --hero-cta-bg-hover: #69412b;
-  --hero-cta-shadow: rgb(122 78 52 / 35%);
+  --hero-cta-bg: #4a3426;
+  --hero-cta-bg-hover: #3f2c20;
+  --hero-cta-shadow: rgb(74 52 38 / 35%);
   --tooltip-border: rgb(255 255 255 / 38%);
   --tooltip-bg: linear-gradient(165deg, rgb(30 20 14 / 94%), rgb(47 31 23 / 92%));
   --tooltip-shadow: 0 12px 30px rgb(14 9 6 / 42%);
@@ -346,7 +346,7 @@ h2 {
 
 .hero-headline {
   font-size: clamp(1.95rem, 5.4vw, 3.45rem);
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.06;
   margin: 0;
   color: rgb(255 255 255 / 96%);
@@ -360,7 +360,7 @@ h2 {
 }
 
 .hero-detail {
-  font-size: clamp(0.92rem, 1.55vw, 1.07rem);
+  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
   line-height: 1.58;
   margin: 0.5rem 0 0;
   color: rgb(255 255 255 / 88%);
@@ -372,10 +372,20 @@ h2 {
   margin-top: 0;
 }
 
+.hero-second-line {
+  display: block;
+  margin-top: 0.45rem;
+  margin-left: 2.1rem;
+}
+
+.hero-detail-brown {
+  color: rgb(255 255 255 / 92%);
+}
+
 @media (width <= 799px) {
   .hero-headline {
     font-size: clamp(2.1rem, 8.4vw, 3.4rem);
-    font-weight: 700;
+    font-weight: 400;
     line-height: 1.03;
   }
 
@@ -524,6 +534,27 @@ h1 {
 .inline-term-tooltip-start .inline-term-tooltip-panel {
   left: 0;
   transform: translate(0, -0.35rem);
+}
+
+.hero-detail-brown .inline-term-tooltip-trigger {
+  color: inherit;
+}
+
+.hero-detail-brown .inline-term-tooltip-trigger:focus-visible {
+  outline: 2px solid rgb(74 52 38 / 72%);
+}
+
+.hero-detail-brown .inline-term-tooltip-panel {
+  border: 1px solid rgb(139 107 82 / 45%);
+  background: linear-gradient(165deg, rgb(248 239 229 / 98%), rgb(240 227 211 / 96%));
+  box-shadow: 0 12px 28px rgb(74 52 38 / 18%);
+  color: #4a3426;
+}
+
+.hero-detail-brown .inline-term-tooltip-title,
+.hero-detail-brown .inline-term-tooltip-lead,
+.hero-detail-brown .inline-term-tooltip-text {
+  color: #4a3426;
 }
 
 .inline-term-tooltip-start:hover .inline-term-tooltip-panel,
@@ -1042,21 +1073,21 @@ h1 {
 
 .coach-section .coach-intro-copy {
   margin: 0.65rem 0 0;
-  max-width: 34ch;
+  max-width: 42ch;
   color: #6f5748;
-  font-size: 1rem;
+  font-size: clamp(1.24rem, 1.95vw, 1.48rem);
   line-height: 1.55;
 }
 
 .coach-section .coach-heading {
-  margin: 1.05rem auto 0;
+  margin: 3.4rem 0 0;
   color: #2c211c;
   font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
   font-size: clamp(1.35rem, 2.2vw, 1.95rem);
   font-weight: 500;
   line-height: 1;
-  text-align: center;
-  width: fit-content;
+  text-align: left;
+  width: auto;
 }
 
 .coach-section .coach-image {
@@ -1065,15 +1096,6 @@ h1 {
   max-width: 640px;
   margin: 0;
   border-radius: 0;
-}
-
-.coach-section .coach-statement-wrap {
-  position: relative;
-  margin-top: 0.7rem;
-  display: inline-block;
-  padding: 0.45rem 0.85rem;
-  align-self: center;
-  margin-inline: auto;
 }
 
 .coach-section .coach-quote {
@@ -1098,14 +1120,18 @@ h1 {
 }
 
 .coach-section .coach-mission {
-  margin: 0 auto;
+  margin: 1.8rem 0 0;
+  margin-left: 0;
+  margin-right: 0;
   max-width: min(100%, 22rem);
-  padding: 0;
+  padding: 0.45rem 0;
   border: 0;
   background: transparent;
   position: relative;
   z-index: 2;
-  text-align: center;
+  text-align: left;
+  align-self: flex-start;
+  margin-inline: 0;
 }
 
 .coach-section .coach-mission-main,
@@ -1128,12 +1154,12 @@ h1 {
   padding: 0;
   list-style: none;
   max-width: min(100%, 22rem);
-  margin-inline: auto;
+  margin-inline: 0;
 }
 
 .coach-section .coach-mission-sub {
   max-width: min(100%, 22rem);
-  margin: 0.85rem auto 0;
+  margin: 0.85rem 0 0;
   color: #2c211c;
   font-size: clamp(1rem, 1.55vw, 1.34rem);
   line-height: 1.08;
@@ -1142,7 +1168,7 @@ h1 {
   font-style: italic;
   position: relative;
   z-index: 4;
-  text-align: center;
+  text-align: left;
 }
 
 .coach-section .coach-mission-sub::before {
@@ -1150,7 +1176,7 @@ h1 {
   display: block;
   width: 56px;
   height: 2px;
-  margin: 0 auto 0.7rem;
+  margin: 0 0 0.7rem;
   border-radius: 999px;
   background: #c9a24e;
 }
@@ -1165,18 +1191,19 @@ h1 {
 .coach-section .coach-signature {
   width: clamp(118px, 14vw, 162px);
   height: auto;
-  align-self: center;
+  align-self: flex-start;
+  margin: 1.5rem 0 1rem 12rem;
 }
 
 .coach-section .coach-signoff {
   display: grid;
   gap: 0.08rem;
-  margin: 0.35rem auto 1.4rem;
+  margin: 0.1rem 0 1.8rem 12rem;
   color: #2c211c;
   line-height: 1.2;
-  text-align: center;
-  justify-items: center;
-  width: fit-content;
+  text-align: left;
+  justify-items: start;
+  width: auto;
 }
 
 .coach-section .coach-signoff strong {
@@ -1209,8 +1236,8 @@ h1 {
   }
 
   .coach-section .coach-copy-column {
-    align-items: center;
-    text-align: center;
+    align-items: flex-start;
+    text-align: left;
   }
 
   .coach-section .coach-intro-kicker {
@@ -1218,11 +1245,11 @@ h1 {
   }
 
   .coach-section .coach-intro-copy {
-    max-width: 36ch;
+    max-width: 42ch;
   }
 
   .coach-section .coach-heading {
-    margin-top: 0.9rem;
+    margin-top: 2.6rem;
     font-size: clamp(1.25rem, 3.2vw, 1.65rem);
   }
 
@@ -1236,7 +1263,7 @@ h1 {
   }
 
   .coach-section .coach-mission-sub::before {
-    margin-inline: auto;
+    margin-inline: 0;
   }
 
   .coach-section .coach-quote-open {
@@ -2775,8 +2802,8 @@ h1 {
   }
 
   .coach-section .coach-copy-column {
-    align-items: center;
-    text-align: center;
+    align-items: flex-start;
+    text-align: left;
   }
 
   .coach-section .coach-statement-copy {
@@ -3387,12 +3414,12 @@ main .hero .hero-copy {
 
   main .hero .hero-headline {
     font-size: clamp(2.05rem, 8.4vw, 3.2rem) !important;
-    font-weight: 700 !important;
+    font-weight: 400 !important;
     line-height: 1.04;
   }
 
   main .hero .hero-details .hero-detail {
-    font-size: clamp(0.86rem, 3.1vw, 0.99rem) !important;
+    font-size: clamp(0.98rem, 3.45vw, 1.14rem) !important;
     font-weight: 500;
     line-height: 1.46;
   }
@@ -3453,8 +3480,13 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-topbar {
-    padding-left: var(--hero-left-axis);
+    padding-left: calc(var(--hero-left-axis) + 10rem);
     padding-right: var(--hero-left-axis);
+  }
+
+  main .hero .hero-coach-label {
+    transform: scale(1.3);
+    transform-origin: left center;
   }
 
   main .hero .hero-content-grid {
@@ -3465,6 +3497,7 @@ main .hero .hero-copy {
   main .hero .hero-copy-column {
     align-items: flex-start;
     max-width: min(100%, 33rem);
+    margin-left: 10rem;
   }
 
   main .hero .hero-headline,
@@ -3473,12 +3506,20 @@ main .hero .hero-copy {
     margin-left: 0;
   }
 
+  main .hero .hero-headline-smaller {
+    font-size: clamp(2rem, 5vw, 3.6rem) !important;
+  }
+
   main .hero .hero-details {
     max-width: min(100%, 31ch);
   }
 
   main .hero .hero-actions {
     align-self: flex-start;
+  }
+
+  .hero-second-line {
+    margin-left: 2.1rem;
   }
 }
 
@@ -3534,6 +3575,8 @@ main .hero .hero-copy {
   main .hero .hero-coach-label {
     font-size: clamp(0.62rem, 1.2vw, 0.72rem);
     line-height: 1.2;
+    transform: scale(1.5);
+    transform-origin: left center;
   }
 
   main .hero .hero-content-grid {
@@ -3559,8 +3602,8 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-details .hero-detail {
-    font-size: clamp(0.78rem, 2vw, 0.95rem);
-    line-height: 1.25;
+    font-size: clamp(0.9rem, 2.35vw, 1.08rem);
+    line-height: 1.33;
     margin-top: 0.14rem;
   }
 

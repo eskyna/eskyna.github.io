@@ -38,11 +38,11 @@
     <div class="hero-content-grid">
       <!-- Hero Copy Column -->
       <div class="hero-copy-column">
-        <h1 class="hero-headline">{{ $hero.headline }}</h1>
+        <h1 class="hero-headline hero-headline-smaller"><span class="no-break">Mehr Stilgefühl.</span> <span class="no-break hero-second-line">Weniger Fehlkäufe.</span></h1>
         <div class="hero-details">
-          <p class="hero-detail">{{ $hero.detail_1 | safeHTML }}</p>
+          <p class="hero-detail hero-detail-brown">{{ $hero.detail_1 | safeHTML }}</p>
           <p class="hero-detail">{{ $hero.detail_2 | safeHTML }}</p>
-          <p class="hero-detail">{{ $hero.detail_3 | safeHTML }}</p>
+          <p class="hero-detail hero-detail-brown">{{ $hero.detail_3 | safeHTML }}</p>
         </div>
         <div class="hero-actions">
           {{ with $hero.ctaTooltip }}
@@ -98,26 +98,21 @@
         {{ $coachName := or $coach.name "Natalia Kleemann" }}
         {{ $coachPromiseHeading := or $coach.promiseHeading "Natalias Stilversprechen" }}
         {{ $coachStatement := $coach.statement }}
-        {{ $coachStatementCopy := or $coach.statementCopy $coach.text }}
+        {{ $coachStatementCopy := $coach.statementCopy }}
         {{ $coachSignatureName := or $coach.signatureName $coachName }}
         {{ $coachSignatureRole := or $coach.signatureRole "Style- & Imagecoach" }}
-        {{ $coachIntroLabel := or $coach.introLabel "Professioneller<br>Style- und Imagecoach" }}
-        <p class="coach-intro-kicker">{{ $coachIntroLabel | safeHTML }}</p>
-        <h2 class="coach-intro-title">{{ $coachName }}</h2>
         <p class="coach-intro-copy">{{ $coach.text }}</p>
         <h2 class="coach-heading">{{ $coachPromiseHeading }}</h2>
-        <div class="coach-statement-wrap">
-          <img src="{{ "images/stylecoach/quote-mark-open.svg" | relURL }}" alt="Anführungszeichen oben" class="coach-quote coach-quote-open" loading="lazy" width="136" height="128" aria-hidden="true">
-          <img src="{{ "images/stylecoach/quote-mark-close.svg" | relURL }}" alt="Anführungszeichen unten" class="coach-quote coach-quote-close" loading="lazy" width="136" height="128" aria-hidden="true">
-          <blockquote class="coach-mission">
-            {{ if $coachStatement }}
-            <p class="coach-mission-main">{{ $coachStatement | safeHTML }}</p>
-            {{ else if $facts.mission }}
-            <div class="coach-mission-main">{{ $facts.mission | markdownify }}</div>
-            {{ end }}
-            <p class="coach-mission-sub">{{ $coachStatementCopy }}</p>
-          </blockquote>
-        </div>
+        <blockquote class="coach-mission">
+          {{ if $coachStatement }}
+          <p class="coach-mission-main">{{ $coachStatement | safeHTML }}</p>
+          {{ else if $facts.mission }}
+          <div class="coach-mission-main">{{ $facts.mission | markdownify }}</div>
+          {{ end }}
+          {{ with $coachStatementCopy }}
+          <p class="coach-mission-sub">{{ . }}</p>
+          {{ end }}
+        </blockquote>
         <img src="{{ "images/signature.png" | relURL }}" alt="Signatur Natalia" class="coach-signature" loading="lazy" width="220" height="78">
         <p class="coach-signoff">
           <strong>{{ $coachSignatureName }}</strong>
