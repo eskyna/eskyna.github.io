@@ -22,7 +22,12 @@
         <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
         <span class="hero-coach-copy">
           <span class="hero-coach-name">{{ $ui.hero_coach_name }}</span>
-          <span class="hero-coach-title">{{ $ui.hero_coach_title }}</span>
+          <span class="hero-coach-title">
+            <span class="hero-coach-title-main">{{ $ui.hero_coach_title }}</span>
+            {{ if eq .Language.Lang "de" }}
+              <span class="hero-coach-title-extra">Online &amp; Vor-Ort</span>
+            {{ end }}
+          </span>
         </span>
       </p>
       <div class="hero-tools">
@@ -80,7 +85,7 @@
         {{ range $problems.items }}
           <article class="ps-card problem-card">
             {{ $itemTitle := .title }}
-            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" title="{{ $itemTitle }}" class="ps-card-icon" loading="lazy" width="150" height="150">{{ end }}
+            {{ with .icon }}<img src="{{ . | relURL }}" alt="{{ $itemTitle }}" class="ps-card-icon" loading="lazy" width="150" height="150">{{ end }}
             <h3 class="ps-card-title">{{ .title }}</h3>
             <p class="ps-card-text">{{ .text }}</p>
           </article>
@@ -129,17 +134,14 @@
   </section>
 
   <section class="section benefits-section">
-    <div class="container">
-      <h2>{{ $results.title }}</h2>
-      <div class="benefits-grid">
+    <div class="container benefits-shell">
+      <h2 class="benefits-title">{{ $results.title }}</h2>
+      <ul class="benefits-list" role="list">
         {{ range $results.items }}
-          <article class="benefit-card">
-            <h3>{{ .title }}</h3>
-            <p>{{ .text }}</p>
-          </article>
+          <li class="benefits-list-item">{{ .title }}</li>
         {{ end }}
-      </div>
-      {{ with $results.outro }}<p class="benefits-intro benefits-outro">{{ . | safeHTML }}</p>{{ end }}
+      </ul>
+      {{ with $results.outro }}<p class="benefits-outro">{{ . | safeHTML }}</p>{{ end }}
     </div>
   </section>
 
@@ -329,7 +331,6 @@
       <div>
         <h2>{{ $contact.title | safeHTML }}</h2>
         <p>{{ $contact.text | markdownify }}</p>
-        <p><strong>{{ $ui.contact_email_label }}</strong> <a href="mailto:{{ $contact.email }}" title="{{ $contact.email }}">{{ $contact.email }}</a></p>
         {{ partial "social-links.html" . }}
         <div class="contact-faq-cta">
           {{ partial "button-icon.html" (dict "href" $ui.faq_cta_href "text" $ui.faq_cta_text "title" $ui.faq_cta_text "targetBlank" true) }}
