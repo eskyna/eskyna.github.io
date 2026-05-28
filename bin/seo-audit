@@ -156,6 +156,11 @@ function auditFile(filePath) {
     images.forEach((match) => {
       const attrs = match[1];
 
+      // Skip decorative images that are explicitly hidden from assistive technology
+      if (attrs.match(/\baria-hidden\s*=\s*["']?true["']?/i)) {
+        return;
+      }
+
       if (!attrs.match(/\balt\s*=/i)) {
         issues.imagesNoAlt.push({
           file: relativePath,

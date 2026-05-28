@@ -129,11 +129,9 @@ jobs:
             exit 1
           fi
 
-          MODE=""
+          MODE="$MODE_VAR"
           if [[ -n "$MODE_INPUT" && "$MODE_INPUT" != "environment" ]]; then
             MODE="$MODE_INPUT"
-          else
-            MODE="$MODE_VAR"
           fi
 
           if [[ "$MODE" != "live" && "$MODE" != "preview" ]]; then
@@ -142,25 +140,23 @@ jobs:
           fi
 
           BUILD_BASEURL="${BASE_URL%/}/"
-
-          if [[ "$MODE" == "preview" ]]; then
-            echo "HUGO_PREVIEW_BANNER=true" >> "$GITHUB_ENV"
-            if [[ "$BASE_URL" == *"/preview" ]]; then
-              BUILD_BASEURL="${BASE_URL%/}/"
-            else
-              BUILD_BASEURL="${BASE_URL%/}/preview/"
-            fi
-          else
-            echo "HUGO_PREVIEW_BANNER=false" >> "$GITHUB_ENV"
-            BUILD_BASEURL="${BASE_URL%/}/"
-            MODE="live"
+          if [[ "$MODE" == "preview" && "$BASE_URL" != *"/preview" ]]; then
+            BUILD_BASEURL="${BASE_URL%/}/preview/"
           fi
 
-          echo "HUGO_PREVIEW_VERSION=$VERSION" >> "$GITHUB_ENV"
-          echo "HUGO_PREVIEW_LAST_UPDATED=$LAST_UPDATED" >> "$GITHUB_ENV"
-          echo "HUGO_PREVIEW_COMMITS=$COMMITS" >> "$GITHUB_ENV"
-          echo "HUGO_BUILD_BASEURL=$BUILD_BASEURL" >> "$GITHUB_ENV"
-          echo "DEPLOY_MODE_EFFECTIVE=$MODE" >> "$GITHUB_ENV"
+          PREVIEW_BANNER="false"
+          if [[ "$MODE" == "preview" ]]; then
+            PREVIEW_BANNER="true"
+          fi
+
+          {
+            echo "HUGO_PREVIEW_BANNER=$PREVIEW_BANNER"
+            echo "HUGO_PREVIEW_VERSION=$VERSION"
+            echo "HUGO_PREVIEW_LAST_UPDATED=$LAST_UPDATED"
+            echo "HUGO_PREVIEW_COMMITS=$COMMITS"
+            echo "HUGO_BUILD_BASEURL=$BUILD_BASEURL"
+            echo "DEPLOY_MODE_EFFECTIVE=$MODE"
+          } >> "$GITHUB_ENV"
 
           echo "Resolved deploy mode: $MODE"
           echo "Resolved base URL: $BUILD_BASEURL"
@@ -210,7 +206,7 @@ jobs:
           SERVER_PID=$!
           trap 'kill $SERVER_PID; rm -rf "$SERVE_DIR"' EXIT
 
-          LINKS_CHECKED=$(python3 bin/check-live-assets \
+          RAW_LINK_OUTPUT="$(python3 bin/check-live-assets \
             "http://localhost:4173${BASE_PATH}" \
             "http://localhost:4173${BASE_PATH}/estyle" \
             "http://localhost:4173${BASE_PATH}/about" \
@@ -219,13 +215,14 @@ jobs:
             "http://localhost:4173${BASE_PATH}/shop" \
             "http://localhost:4173${BASE_PATH}/blog" \
             --max-pages 300 \
-            --concurrency 12 2>&1 | grep -oP '(?<=checked: )\d+' | tail -1 || echo "0")
+            --concurrency 12 2>&1 || true)"
 
-          if [[ -z "$LINKS_CHECKED" ]]; then
+          LINKS_CHECKED="$(printf '%s\n' "$RAW_LINK_OUTPUT" | sed -nE 's/.*checked: ([0-9]+).*/\1/p' | tail -1)"
+          if [[ ! "$LINKS_CHECKED" =~ ^[0-9]+$ ]]; then
             LINKS_CHECKED="0"
           fi
 
-          echo "HUGO_PREVIEW_LINKS_CHECKED=$LINKS_CHECKED" >> "$GITHUB_ENV"
+          printf 'HUGO_PREVIEW_LINKS_CHECKED=%s\n' "$LINKS_CHECKED" >> "$GITHUB_ENV"
           echo "Preview banner links checked: $LINKS_CHECKED"
       - name: Rebuild with preview link count
         if: env.HUGO_PREVIEW_BANNER == 'true'

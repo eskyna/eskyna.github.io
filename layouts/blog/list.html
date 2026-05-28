@@ -99,14 +99,14 @@
                 {{ $orig := $post.Resources.GetMatch $heroName }}
                 {{ $fallback := or $png $orig }}
                 {{ with $fallback }}
-                  <a class="blog-post-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+                  <div class="blog-post-media" aria-hidden="true">
                     <picture>
                       {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
                       {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
                       {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
                       <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy">
                     </picture>
-                  </a>
+                  </div>
                 {{ end }}
               {{ end }}
               <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>

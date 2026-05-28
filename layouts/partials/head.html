@@ -2,7 +2,7 @@
 {{ $description := $rawDescription | plainify | truncate 155 }}
 {{ $keywords := .Site.Params.keywords | default "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching" }}
 {{ $siteTitle := .Site.Title | default "ESKYNA Style & Image Coaching" }}
-{{ $pageTitle := .Title | default $siteTitle }}
+{{ $pageTitle := .Params.seoTitle | default .Title | default $siteTitle }}
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">

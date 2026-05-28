@@ -138,7 +138,12 @@
       <h2 class="benefits-title">{{ $results.title }}</h2>
       <ul class="benefits-list" role="list">
         {{ range $results.items }}
-          <li class="benefits-list-item">{{ .title }}</li>
+          <li class="benefits-list-item">
+            <div class="benefits-tag">
+              <img src="{{ "images/benefits/haekchen_transparent.svg" | relURL }}" alt="" class="benefits-tag-icon" loading="lazy" width="24" height="24" aria-hidden="true">
+              <span class="benefits-tag-text">{{ .title }}</span>
+            </div>
+          </li>
         {{ end }}
       </ul>
       {{ with $results.outro }}<p class="benefits-outro">{{ . | safeHTML }}</p>{{ end }}

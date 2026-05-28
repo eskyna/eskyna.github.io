@@ -249,7 +249,7 @@ contact:
   blogHintText: "Mehr Details zu Stil, Wirkung und bewusster Garderobe findest du in meinem Blog"
   blogLinkText: "Zum Blog"
   email: "natalia@eskyna.com"
-  photo: "images/portraits/natalia-about-portrait.png"
+  photo: "images/portraits/natalia-schreibtisch.png"
   icon: "images/icons/das-gewisse-etwas.svg"
 ui:
   hero_image_alt: "Porträt von Natalia Kleemann"
