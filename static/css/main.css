@@ -310,9 +310,9 @@ h2 {
         rgb(44 30 22 / 72%) 100%
       ),
       image-set(
-        url("../images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
-        url("../images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
-        url("../images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
+        url("../images/backgrounds/hero/portrait.avif") type("image/avif"),
+        url("../images/backgrounds/hero/portrait.webp") type("image/webp"),
+        url("../images/backgrounds/hero/portrait.png") type("image/png")
       );
   }
 }
@@ -321,9 +321,9 @@ h2 {
 @media (width >= 800px) {
   .hero {
     background-image: image-set(
-      url("../images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
-      url("../images/backgrounds/hero/new_hero_landscape_bright_combined.webp") type("image/webp"),
-      url("../images/backgrounds/hero/new_hero_landscape_bright_combined.png") type("image/png")
+      url("../images/backgrounds/hero/landscape.avif") type("image/avif"),
+      url("../images/backgrounds/hero/landscape.webp") type("image/webp"),
+      url("../images/backgrounds/hero/landscape.png") type("image/png")
     );
     background-position: center right;
   }
@@ -1016,6 +1016,34 @@ h1 {
 .references-section > * {
   position: relative;
   z-index: 1;
+}
+
+@media (width <= 1180px) {
+  .section-dark,
+  .ps-section,
+  .benefits-section,
+  .references-section {
+    background-attachment: scroll;
+  }
+
+  .ps-section {
+    background-position: 70% center;
+    background-size: auto 112%;
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  .section-dark,
+  .ps-section,
+  .benefits-section,
+  .references-section {
+    background-attachment: scroll;
+  }
+
+  .ps-section {
+    background-position: 68% center;
+    background-size: auto 114%;
+  }
 }
 
 .hero + .section,
@@ -2123,11 +2151,15 @@ h1 {
   margin: 4rem 0;
 }
 
+.offers-packages-section .offers-group-title {
+  margin-bottom: 2.4rem;
+}
+
 .packages-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
   gap: 2rem;
-  margin-top: 2rem;
+  margin-top: 3.2rem;
 }
 
 .package-card {
@@ -2137,11 +2169,10 @@ h1 {
   padding: 2rem;
   padding-top: 2rem;
   display: grid;
-  grid-template-rows: auto auto minmax(3.9rem, auto) minmax(7.4rem, auto) 1fr auto;
+  grid-template-rows: 2.6rem 4.8rem minmax(3.9rem, auto) 12.6rem 1fr auto;
   gap: 0.75rem;
-  align-items: start;
+  place-items: start stretch;
   align-content: start;
-  justify-items: stretch;
   position: relative;
   overflow: visible;
   transition:
@@ -2272,8 +2303,8 @@ h1 {
   font-size: 1rem;
   line-height: 1.6;
   font-weight: 500;
-  min-height: 7.4rem;
-  align-self: start;
+  min-height: 12.6rem;
+  align-self: stretch;
 }
 
 .package-result-label {
@@ -2283,7 +2314,7 @@ h1 {
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.8rem;
 }
 
 .package-cta {
@@ -3083,9 +3114,9 @@ h1 {
         rgb(44 30 22 / 54%) 100%
       ),
       image-set(
-        url("../images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
-        url("../images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
-        url("../images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
+        url("../images/backgrounds/hero/portrait.avif") type("image/avif"),
+        url("../images/backgrounds/hero/portrait.webp") type("image/webp"),
+        url("../images/backgrounds/hero/portrait.png") type("image/png")
       );
     background-position: center center;
   }
@@ -3173,9 +3204,9 @@ h1 {
 @media (orientation: portrait) {
   .hero {
     background-image: image-set(
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
+      url("../images/backgrounds/hero/portrait.avif") type("image/avif"),
+      url("../images/backgrounds/hero/portrait.webp") type("image/webp"),
+      url("../images/backgrounds/hero/portrait.png") type("image/png")
     );
     background-position: center center;
   }
@@ -3364,9 +3395,9 @@ h1 {
    -------------------------------------------------------------------------- */
 main .hero {
   background-image: image-set(
-    url("../images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
-    url("../images/backgrounds/hero/new_hero_landscape_bright_combined.webp") type("image/webp"),
-    url("../images/backgrounds/hero/new_hero_landscape_bright_combined.png") type("image/png")
+    url("../images/backgrounds/hero/landscape.avif") type("image/avif"),
+    url("../images/backgrounds/hero/landscape.webp") type("image/webp"),
+    url("../images/backgrounds/hero/landscape.png") type("image/png")
   );
   background-position: center center;
   background-size: cover;
@@ -3394,9 +3425,9 @@ main .hero .hero-copy {
 @media (orientation: portrait) {
   main .hero {
     background-image: image-set(
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined.avif") type("image/avif"),
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined.webp") type("image/webp"),
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined.png") type("image/png")
+      url("../images/backgrounds/hero/portrait.avif") type("image/avif"),
+      url("../images/backgrounds/hero/portrait.webp") type("image/webp"),
+      url("../images/backgrounds/hero/portrait.png") type("image/png")
     );
     background-position: center center;
     background-size: cover;
@@ -3512,9 +3543,9 @@ main .hero .hero-copy {
 @media (width <= 900px) and (1 / 1 <= aspect-ratio <= 6 / 5) {
   main .hero {
     background-image: image-set(
-      url("../images/backgrounds/hero/new_hero_landscape_bright_combined.avif") type("image/avif"),
-      url("../images/backgrounds/hero/new_hero_landscape_bright_combined.webp") type("image/webp"),
-      url("../images/backgrounds/hero/new_hero_landscape_bright_combined.png") type("image/png")
+      url("../images/backgrounds/hero/landscape.avif") type("image/avif"),
+      url("../images/backgrounds/hero/landscape.webp") type("image/webp"),
+      url("../images/backgrounds/hero/landscape.png") type("image/png")
     );
   }
 }
@@ -3684,12 +3715,9 @@ main .hero .hero-copy {
   main .hero {
     min-height: 100svh;
     background-image: image-set(
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.avif")
-        type("image/avif"),
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.webp")
-        type("image/webp"),
-      url("../images/backgrounds/hero/new_hero_portrait_bright_combined_extrawide.png")
-        type("image/png")
+      url("../images/backgrounds/hero/landscape_extrawide.avif") type("image/avif"),
+      url("../images/backgrounds/hero/landscape_extrawide.webp") type("image/webp"),
+      url("../images/backgrounds/hero/landscape_extrawide.png") type("image/png")
     );
     background-size: 100vw auto;
     background-position: left top;
@@ -4249,6 +4277,14 @@ main .hero .hero-copy {
 }
 
 /* P1 Offers: robust multi-stage layout. */
+.home-main .offers-packages-section > .offers-group-title {
+  margin-bottom: 0;
+}
+
+.home-main .offers-packages-section > .packages-grid {
+  margin-top: clamp(3.2rem, 4.5vw, 4.6rem);
+}
+
 .home-main .offers-packages-section .packages-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -4267,6 +4303,10 @@ main .hero .hero-copy {
 }
 
 @media (width <= 700px) {
+  .home-main .offers-packages-section > .packages-grid {
+    margin-top: 2rem;
+  }
+
   .home-main .offers-packages-section .packages-grid {
     grid-template-columns: 1fr;
   }
@@ -4275,7 +4315,7 @@ main .hero .hero-copy {
   .home-main .offers-packages-section .package-card-featured {
     grid-column: auto;
     transform: none;
-    grid-template-rows: auto auto auto auto 1fr auto;
+    grid-template-rows: 2.6rem 4.8rem auto 12.6rem 1fr auto;
   }
 
   .home-main .offers-packages-section .package-card:hover,

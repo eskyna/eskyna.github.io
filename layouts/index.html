@@ -150,10 +150,53 @@
     </div>
   </section>
 
-  <section class="section" id="angebote">
+  <section class="section offers-free-section-wrapper" id="angebote">
     <div class="container">
       <h2>{{ $services.title }}</h2>
       {{ with $services.intro }}<p class="offers-intro">{{ . }}</p>{{ end }}
+      <section class="offers-free-section">
+        {{ with $services.free.title }}<h3 class="offers-group-title">{{ . }}</h3>{{ end }}
+        {{ with $services.free.subtitle }}
+        <p class="offers-free-intro">{{ . }}</p>
+        {{ end }}
+        <div class="offers-free-grid">
+          {{ range $idx, $item := $services.free.items }}
+            {{ $itemTitle := $item.title }}
+            {{ $ctaHref := or $item.ctaHref "#kontakt" }}
+            {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
+            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+            <article class="free-offer-card">
+              {{ with $item.image }}
+                {{ $imagePath := . }}
+                <a class="free-offer-media-link" href="{{ $ctaHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
+                </a>
+              {{ end }}
+              <h4>{{ $item.title }}</h4>
+              <p>{{ $item.text }}</p>
+              <a class="btn" href="{{ $ctaHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
+            </article>
+          {{ end }}
+        </div>
+        <div class="offers-free-highlights" aria-label="{{ $ui.free_highlights_title }}">
+          <article class="offers-free-highlight-item">
+            <img src="{{ "images/klarheit_stern.svg" | relURL }}" alt="Klarheit im Stil" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <p>{{ $ui.free_highlight_1 }}</p>
+          </article>
+          <article class="offers-free-highlight-item">
+            <img src="{{ "images/praxisnah_herz.svg" | relURL }}" alt="Praxisnah und sofort anwendbar" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <p>{{ $ui.free_highlight_2 }}</p>
+          </article>
+          <article class="offers-free-highlight-item">
+            <img src="{{ "images/personal_stylistin_diamant.svg" | relURL }}" alt="Personal Styling" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <p>{{ $ui.free_highlight_3 }}</p>
+          </article>
+          <article class="offers-free-highlight-item">
+            <img src="{{ "images/kostenlos_geschenk.svg" | relURL }}" alt="Kostenloses Angebot" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <p>{{ $ui.free_highlight_4 }}</p>
+          </article>
+        </div>
+      </section>
       
       <!-- Hauptpakete -->
       <section class="offers-packages-section">
@@ -260,52 +303,6 @@
       {{ end }}
     </div>
   </section>
-
-  <!-- Kostenlose Angebote - neu positioniert nach den bezahlten Angeboten -->
-  <section class="section offers-free-section-wrapper">
-    <div class="container">
-      <section class="offers-free-section">
-        {{ with $services.free.title }}<h3 class="offers-group-title">{{ . }}</h3>{{ end }}
-         {{ with $services.free.subtitle }}
-         <p class="offers-free-intro">{{ . }}</p>
-         {{ end }}
-        <div class="offers-free-grid">
-          {{ range $idx, $item := $services.free.items }}
-            {{ $itemTitle := $item.title }}
-            {{ $ctaHref := or $item.ctaHref "#kontakt" }}
-            {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
-            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-            <article class="free-offer-card">
-              {{ with $item.image }}
-                {{ $imagePath := . }}
-                <a class="free-offer-media-link" href="{{ $ctaHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
-                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
-                </a>
-              {{ end }}
-              <h4>{{ $item.title }}</h4>
-              <p>{{ $item.text }}</p>
-              <a class="btn" href="{{ $ctaHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
-            </article>
-          {{ end }}
-        </div>
-        <div class="offers-free-highlights" aria-label="{{ $ui.free_highlights_title }}">
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/klarheit_stern.svg" | relURL }}" alt="Klarheit im Stil" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>{{ $ui.free_highlight_1 }}</p>
-          </article>
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/praxisnah_herz.svg" | relURL }}" alt="Praxisnah und sofort anwendbar" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>{{ $ui.free_highlight_2 }}</p>
-          </article>
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/personal_stylistin_diamant.svg" | relURL }}" alt="Personal Styling" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>{{ $ui.free_highlight_3 }}</p>
-          </article>
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/kostenlos_geschenk.svg" | relURL }}" alt="Kostenloses Angebot" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
-            <p>{{ $ui.free_highlight_4 }}</p>
-          </article>
-        </div>
 
   <section class="section references-section" id="referenzen">
     <div class="container">
