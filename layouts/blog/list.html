@@ -5,7 +5,7 @@
 {{ $readingTimeText := or $ui.reading_time_text "Min. Lesezeit" }}
 {{ $journalTitle := or $ui.journal_title "ESKYNA Journal" }}
 {{ $journalEyebrow := or $ui.journal_eyebrow "Journal" }}
-{{ $journalSubtitle := or $ui.journal_subtitle "Fundierte Stilbeiträge, Farbtheorie und Outfit-Ideen für einen Kleiderschrank, der wirklich zu dir passt." }}
+{{ $journalSubtitle := or $ui.journal_subtitle "Stilbeiträge, Farbtheorie und Outfit-Ideen" }}
 {{ $featuredText := or $ui.featured_text "Aktueller Editorial-Beitrag" }}
 {{ $advisoryTitle := or $ui.advisory_title "Mehr Klarheit für deinen Stil" }}
 {{ $advisoryBody := or $ui.advisory_body "Entdecke, welche Farben, Schnitte und Kombinationen zu dir passen." }}
@@ -32,7 +32,7 @@
         <span class="blog-category-chip">{{ $chipBusiness }}</span>
         <span class="blog-category-chip">{{ $chipConsulting }}</span>
       </div>
-      <div class="blog-intro-card">{{ .Content }}</div>
+      {{ with .Content }}<div class="blog-intro-card">{{ . }}</div>{{ end }}
     </div>
   </section>
 
@@ -96,10 +96,12 @@
                   </div>
                 {{ end }}
               {{ end }}
-              <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
-              <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
-              {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
-              <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+              <div class="blog-post-copy">
+                <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
+                <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
+                {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
+                <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+              </div>
             </article>
           {{ end }}
         </div>

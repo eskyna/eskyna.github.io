@@ -3811,7 +3811,7 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-details .hero-detail br {
-  display: none;
+    display: none;
   }
 
   main .hero .hero-actions {
@@ -4768,7 +4768,7 @@ body :where(button) {
 
 .blog-post-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+  grid-template-columns: 1fr;
   gap: 1.25rem;
 }
 
@@ -4777,13 +4777,20 @@ body :where(button) {
   border-radius: 1.25rem;
   background: rgb(255 255 255 / 72%);
   padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
+  display: grid;
+  grid-template-columns: minmax(220px, 34%) minmax(0, 1fr);
+  gap: 1rem;
+  align-items: center;
   box-shadow: 0 12px 28px rgb(52 37 31 / 8%);
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
+}
+
+.blog-post-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
 }
 
 .blog-featured-card:hover,
@@ -4798,12 +4805,17 @@ body :where(button) {
   overflow: clip;
   background: rgb(255 255 255 / 82%);
   border: 1px solid var(--journal-line);
+  height: 100%;
+}
+
+.blog-post-card:nth-child(even) .blog-post-media {
+  order: 2;
 }
 
 .blog-post-image {
   width: 100%;
-  height: auto;
-  max-height: min(52vw, 20rem);
+  height: 100%;
+  max-height: min(24vw, 14rem);
   object-fit: contain;
   display: block;
   margin-inline: auto;
@@ -4834,6 +4846,22 @@ body :where(button) {
   margin: 0;
   color: var(--journal-muted);
   flex-grow: 1;
+}
+
+@media (width <= 860px) {
+  .blog-post-card {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .blog-post-card:nth-child(even) .blog-post-media {
+    order: 0;
+  }
+
+  .blog-post-image {
+    height: auto;
+    max-height: min(52vw, 20rem);
+  }
 }
 
 .blog-content-wrap {

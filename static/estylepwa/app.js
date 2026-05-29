@@ -91,9 +91,7 @@ function updateInstallHintForDevice() {
 
   const isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   if (isiOS) {
-    setInstallHint(
-      "iPhone/iPad: Tippen Du auf Teilen und wähle anschließend Zum Home-Bildschirm."
-    );
+    setInstallHint("iPhone/iPad: Tippen Du auf Teilen und wähle anschließend Zum Home-Bildschirm.");
   } else {
     setInstallHint(
       "Android: Öffne das Browser-Menü und wähle App installieren oder Zum Startbildschirm hinzufügen."
