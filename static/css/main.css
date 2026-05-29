@@ -1504,7 +1504,7 @@ h1 {
   padding: 0;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.9rem 1rem;
+  gap: 1.8rem 1.5rem;
 }
 
 .benefits-list-item {
@@ -1520,7 +1520,7 @@ h1 {
   align-items: center;
   min-height: 96px;
   padding: 1.05rem 1.15rem;
-  background-image: url("/images/benefits/preisetikett.png");
+  background-image: url("../images/benefits/preisetikett.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
@@ -1563,7 +1563,7 @@ h1 {
 }
 
 .benefits-outro {
-  margin-top: 1.35rem;
+  margin-top: 2.5rem;
   text-align: center;
   max-width: 70ch;
   margin-left: auto;
@@ -1572,6 +1572,7 @@ h1 {
   line-height: 1.75;
   font-weight: 600;
   letter-spacing: 0.01em;
+  font-style: italic;
   color: rgb(44 30 22 / 96%);
 }
 
@@ -1588,6 +1589,11 @@ h1 {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+.offers-intro {
+  margin-top: 1.35rem;
+  white-space: pre-line;
 }
 
 .benefits-grid {
@@ -2129,6 +2135,7 @@ h1 {
   border-radius: 20px;
   background: rgb(255 255 255 / 72%);
   padding: 2rem;
+  padding-top: 3.5rem;
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
@@ -2137,6 +2144,17 @@ h1 {
     transform 200ms ease,
     box-shadow 200ms ease,
     border-color 200ms ease;
+  min-height: 480px;
+}
+
+.package-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.package-card-link:focus-visible {
+  outline: 3px solid rgb(197 160 89 / 55%);
+  outline-offset: 3px;
 }
 
 .package-card:hover {
@@ -2149,15 +2167,17 @@ h1 {
   border: 2px solid var(--accent);
   background: linear-gradient(135deg, rgb(255 255 255 / 92%), rgb(250 241 226 / 88%));
   box-shadow: 0 20px 64px rgb(197 160 89 / 16%);
-  transform: scale(1.02);
 }
 
 .package-card-featured:hover {
   box-shadow: 0 24px 72px rgb(197 160 89 / 24%);
-  transform: scale(1.025) translateY(-4px);
+  transform: translateY(-4px);
 }
 
 .package-badge {
+  position: absolute;
+  top: 1rem;
+  left: 2rem;
   display: inline-block;
   padding: 0.5rem 1rem;
   border-radius: 999px;
@@ -2168,8 +2188,7 @@ h1 {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin-bottom: 0.5rem;
-  align-self: flex-start;
+  margin: 0;
 }
 
 .package-name {
@@ -2233,17 +2252,25 @@ h1 {
 }
 
 .package-result {
-  margin: 1rem 0 0;
-  padding-top: 1rem;
-  border-top: 1px solid rgb(44 30 22 / 12%);
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, rgb(197 160 89 / 12%), rgb(197 160 89 / 6%));
+  border: 2px solid var(--accent);
+  border-radius: 12px;
   color: var(--text);
-  font-size: 0.92rem;
+  font-size: 1rem;
   line-height: 1.6;
+  font-weight: 500;
 }
 
 .package-result-label {
+  display: block;
   color: var(--accent-strong);
   font-weight: 700;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
 }
 
 .package-cta {
@@ -2254,6 +2281,13 @@ h1 {
 }
 
 .package-cta.package-cta .btn.btn {
+  width: 100%;
+  justify-content: center;
+  min-height: 48px;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.package-cta.package-cta .btn {
   width: 100%;
   justify-content: center;
   min-height: 48px;
@@ -2898,14 +2932,6 @@ h1 {
   .benefits-grid > .benefit-card:nth-child(n + 4) {
     grid-column: auto;
     justify-self: auto;
-  }
-
-  .package-card-featured {
-    transform: scale(1);
-  }
-
-  .package-card-featured:hover {
-    transform: translateY(-4px);
   }
 
   .hero {
@@ -5144,5 +5170,349 @@ body :where(button) {
 
   .blog-toc {
     position: static;
+  }
+}
+
+/* Offer Detail Pages */
+.page-offer {
+  margin: 0;
+  padding: 0;
+}
+
+/* stylelint-disable no-descending-specificity */
+.offer-hero {
+  background-color: var(--bg-soft);
+  padding: 3rem 1rem;
+}
+
+.offer-hero .container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.offer-hero-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+@media (width >= 900px) {
+  .offer-hero-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+  }
+}
+
+.offer-hero-headline {
+  font-family: var(--font-headline);
+  font-size: clamp(1.75rem, 8vw, 2.5rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 1rem;
+  color: var(--text);
+}
+
+.offer-hero-subheadline {
+  font-family: var(--font-subtitle);
+  font-size: clamp(1.15rem, 5vw, 1.4rem);
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--accent-strong);
+  margin: 0 0 1.5rem;
+}
+
+.offer-hero-intro {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.offer-hero-intro p {
+  margin: 0 0 1rem;
+}
+
+.offer-hero-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.offer-hero-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.offer-hero-price {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--accent-strong);
+  margin: 0;
+}
+
+.offer-hero-badge {
+  display: inline-block;
+  background-color: var(--accent);
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin: 0;
+  width: fit-content;
+}
+
+.offer-hero-image {
+  display: none;
+}
+
+@media (width >= 900px) {
+  .offer-hero-image {
+    display: block;
+  }
+}
+
+.offer-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.offer-problem-section,
+.offer-what-section,
+.offer-questions-section,
+.offer-intro-section,
+.offer-services-section,
+.offer-variants-section,
+.offer-for-whom-section,
+.offer-result-section,
+.offer-cta-section,
+.offer-back-section {
+  padding: 3rem 1rem;
+  background-color: var(--page-wash);
+}
+
+.offer-problem-section h2,
+.offer-what-section h2,
+.offer-questions-section h2,
+.offer-intro-section h2,
+.offer-services-section h2,
+.offer-variants-section h2,
+.offer-for-whom-section h2,
+.offer-result-section h2,
+.offer-cta-section h2,
+.offer-back-section h2 {
+  font-family: var(--font-headline);
+  font-size: clamp(1.5rem, 6vw, 2rem);
+  font-weight: 700;
+  margin: 0 0 1.5rem;
+  color: var(--text);
+}
+
+.offer-questions-list,
+.offer-for-whom-list,
+.offer-result-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.offer-questions-list li,
+.offer-for-whom-list li,
+.offer-result-list li {
+  padding: 1rem;
+  background-color: var(--surface-card-soft);
+  border-radius: 8px;
+  border: 1px solid var(--card-border);
+}
+
+.offer-questions-list li::before,
+.offer-for-whom-list li::before {
+  content: "✓ ";
+  color: var(--accent-strong);
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.offer-services-grid,
+.offer-variants-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.offer-service-card,
+.offer-variant-card {
+  padding: 2rem;
+  background-color: white;
+  border-radius: 12px;
+  border: 1px solid var(--card-border);
+  background-image: var(--surface-card-featured);
+}
+
+.offer-service-card h3,
+.offer-variant-card h3 {
+  font-family: var(--font-headline);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+  color: var(--accent-strong);
+}
+
+.offer-service-includes,
+.variant-includes {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+}
+
+.offer-service-includes li,
+.variant-includes li {
+  padding-left: 1.5rem;
+  position: relative;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.offer-service-includes li::before,
+.variant-includes li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: bold;
+}
+
+.offer-service-note,
+.variant-note {
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+.variant-price {
+  font-size: 1.1rem;
+  color: var(--accent-strong);
+  margin: -0.5rem 0 1rem;
+}
+
+.result-intro,
+.result-summary {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.offer-result-section {
+  background: linear-gradient(135deg, rgb(197 160 89 / 8%), rgb(197 160 89 / 4%)) !important;
+  border-top: 3px solid var(--accent);
+  border-bottom: 3px solid var(--accent);
+}
+
+.offer-result-section h2 {
+  color: var(--accent-strong);
+  font-size: clamp(1.5rem, 6vw, 2.2rem);
+}
+
+.offer-result-list li {
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 12px;
+  border: 2px solid var(--accent);
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.5;
+  box-shadow: 0 4px 12px rgb(197 160 89 / 10%);
+  transition: all 200ms ease;
+}
+
+.offer-result-list li:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgb(197 160 89 / 15%);
+  border-color: var(--accent-strong);
+}
+
+.offer-result-list li::before {
+  content: "✓";
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  background-color: var(--accent);
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 28px;
+  font-weight: bold;
+  margin-right: 1rem;
+  flex-shrink: 0;
+  font-size: 1.1rem;
+}
+
+.result-summary {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  border: none;
+  border-left: none;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  box-shadow: 0 12px 32px rgb(197 160 89 / 20%);
+  margin-top: 2rem;
+}
+
+.offer-cta-button {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.offer-back-section {
+  text-align: center;
+}
+
+/* stylelint-enable no-descending-specificity */
+.prose ul li::before {
+  content: "–";
+  margin-right: 0.5rem;
+  color: var(--accent-strong);
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.page-offer .prose ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+
+.page-offer .prose ul li::before {
+  content: none;
+}
+
+@media (width <= 768px) {
+  .offer-hero {
+    padding: 2rem 1rem;
+  }
+
+  .offer-hero-grid {
+    gap: 2rem;
+  }
+
+  .offer-problem-section,
+  .offer-what-section,
+  .offer-questions-section,
+  .offer-intro-section,
+  .offer-services-section,
+  .offer-variants-section,
+  .offer-for-whom-section,
+  .offer-result-section,
+  .offer-cta-section,
+  .offer-back-section {
+    padding: 2rem 1rem;
   }
 }

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+PUBLIC_DIR="$ROOT_DIR/public"
+
+if [[ ! -d "$PUBLIC_DIR" ]]; then
+  echo "Error: public/ directory not found. Run build first (e.g. ./bin/build-production)." >&2
+  exit 1
+fi
+
+echo "Checking generated HTML for empty href links (href=\"#\")..."
+
+if grep -RIn --include="*.html" 'href="#"' "$PUBLIC_DIR"; then
+  echo ""
+  echo "Error: Found empty hash links (href=\"#\") in generated HTML." >&2
+  echo "Please replace placeholders with valid URLs or anchors." >&2
+  exit 1
+fi
+
+echo "No empty hash links found."

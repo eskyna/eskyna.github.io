@@ -1,0 +1,125 @@
+#!/usr/bin/env python3
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urlsplit
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+PUBLIC_DIR = ROOT_DIR / "public"
+
+IMAGE_EXTENSIONS = {
+    ".png",
+    ".jpg",
+    ".jpeg",
+    ".webp",
+    ".avif",
+    ".svg",
+    ".gif",
+    ".ico",
+    ".bmp",
+    ".tif",
+    ".tiff",
+}
+
+URL_FUNCTION_RE = re.compile(r"url\(([^)]+)\)", re.IGNORECASE)
+ATTR_RE = re.compile(r"(?:src|href|poster)=[\"']([^\"']+)[\"']", re.IGNORECASE)
+SRCSET_RE = re.compile(r"srcset=[\"']([^\"']+)[\"']", re.IGNORECASE)
+
+
+def is_ignorable(ref: str) -> bool:
+    lower = ref.lower()
+    return (
+        not ref
+        or lower.startswith("http://")
+        or lower.startswith("https://")
+        or lower.startswith("//")
+        or lower.startswith("data:")
+        or lower.startswith("blob:")
+        or lower.startswith("mailto:")
+        or lower.startswith("tel:")
+        or lower.startswith("javascript:")
+    )
+
+
+def is_image_ref(ref: str) -> bool:
+    parsed = urlsplit(ref)
+    suffix = Path(parsed.path).suffix.lower()
+    return suffix in IMAGE_EXTENSIONS
+
+
+def normalize_ref(ref: str) -> str:
+    parsed = urlsplit(ref.strip())
+    return parsed.path
+
+
+def resolve_public_path(source_file: Path, ref: str) -> Path:
+    clean = normalize_ref(ref)
+    if clean.startswith("/"):
+        return PUBLIC_DIR / clean.lstrip("/")
+    return (source_file.parent / clean).resolve()
+
+
+def extract_refs(file_path: Path) -> list[str]:
+    text = file_path.read_text(encoding="utf-8", errors="ignore")
+    refs: list[str] = []
+
+    refs.extend(URL_FUNCTION_RE.findall(text))
+
+    for raw in ATTR_RE.findall(text):
+        refs.append(raw)
+
+    for raw_srcset in SRCSET_RE.findall(text):
+        for part in raw_srcset.split(","):
+            candidate = part.strip().split(" ")[0].strip()
+            if candidate:
+                refs.append(candidate)
+
+    cleaned = []
+    for ref in refs:
+        value = ref.strip().strip("\"'")
+        if value:
+            cleaned.append(value)
+    return cleaned
+
+
+def main() -> int:
+    if not PUBLIC_DIR.is_dir():
+        print("Error: public/ directory not found. Run build first (./bin/build-production).", file=sys.stderr)
+        return 1
+
+    print("Checking all local image references in generated public output...")
+
+    missing: list[tuple[Path, str, Path]] = []
+    files = sorted(PUBLIC_DIR.rglob("*.html")) + sorted(PUBLIC_DIR.rglob("*.css"))
+
+    for file_path in files:
+        refs = extract_refs(file_path)
+        for ref in refs:
+            if is_ignorable(ref):
+                continue
+            if not is_image_ref(ref):
+                continue
+
+            resolved = resolve_public_path(file_path, ref)
+            if not resolved.is_file():
+                missing.append((file_path, ref, resolved))
+
+    if missing:
+        print("", file=sys.stderr)
+        print("Error: Found image references that would return 404.", file=sys.stderr)
+        print("Missing image files:", file=sys.stderr)
+        for source, ref, resolved in missing[:200]:
+            rel_source = source.relative_to(ROOT_DIR)
+            rel_target = resolved.relative_to(ROOT_DIR) if str(resolved).startswith(str(ROOT_DIR)) else resolved
+            print(f"- {rel_source}: {ref} -> {rel_target}", file=sys.stderr)
+        if len(missing) > 200:
+            print(f"... and {len(missing) - 200} more", file=sys.stderr)
+        return 1
+
+    print("All local image references resolve to existing files.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

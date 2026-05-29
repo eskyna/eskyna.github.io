@@ -29,6 +29,12 @@ echo "==> Check translation..."
 echo "==> Build production..."
 ./bin/build-production
 
+echo "==> Check empty hash links..."
+bash ./bin/check-empty-hash-links
+
+echo "==> Check image references (404 guard)..."
+python3 ./bin/check-image-references
+
 echo "==> Format (Prettier)..."
 yarn format
 

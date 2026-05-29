@@ -11,7 +11,11 @@
 {{- $rel := .rel | default "noopener noreferrer" -}}
 {{- $ariaDescribedBy := .ariaDescribedBy -}}
 {{- $ariaLabel := .ariaLabel | default $text -}}
-<a class="{{ $class }}" href="{{ $href }}"{{ if not $ariaDescribedBy }} title="{{ $title }}"{{ end }}{{ with $ariaDescribedBy }} aria-describedby="{{ . }}"{{ end }}{{ if $text }} aria-label="{{ $ariaLabel }}"{{ end }}{{ if $targetBlank }} target="_blank" rel="{{ $rel }}"{{ end }}>
+{{- $isExternal := or (hasPrefix $href "http://") (hasPrefix $href "https://") (hasPrefix $href "mailto:") (hasPrefix $href "tel:") -}}
+{{- $isAnchor := hasPrefix $href "#" -}}
+{{- $normalizedHref := strings.TrimPrefix "/" $href -}}
+{{- $resolvedHref := cond (or $isExternal $isAnchor) $href ($normalizedHref | relURL) -}}
+<a class="{{ $class }}" href="{{ $resolvedHref }}"{{ if not $ariaDescribedBy }} title="{{ $title }}"{{ end }}{{ with $ariaDescribedBy }} aria-describedby="{{ . }}"{{ end }}{{ if $text }} aria-label="{{ $ariaLabel }}"{{ end }}{{ if $targetBlank }} target="_blank" rel="{{ $rel }}"{{ end }}>
   {{- if not $noIcon -}}
   <img src="{{ $iconSrc }}" alt="{{ $iconAlt }}"{{ if not $ariaDescribedBy }} title="{{ $iconTitle }}"{{ end }} class="{{ $iconClass }}" loading="lazy" width="20" height="20"> {{ $text }}
   {{- else -}}

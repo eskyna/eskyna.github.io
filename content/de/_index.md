@@ -53,7 +53,7 @@ results:
       text: "Dein Kleiderschrank enthält nur Teile, die du wirklich trägst."
     - title: "Mehr Ausstrahlung und Selbstsicherheit"
       text: "Du wirkst stimmiger und selbstbewusster."
-  outro: "Dein Stil unterstreicht deine Persönlichkeit:<br>im Beruf, im Alltag und bei besonderen Anlässen."
+  outro: "<em>Dein Stil unterstreicht deine Persönlichkeit:<br>im Beruf, im Alltag und bei besonderen Anlässen.</em>"
 process:
   title: "Wie läuft die Zusammenarbeit mit mir ab?"
   intro: "Jede Zusammenarbeit beginnt mit einem klaren Blick auf deine aktuelle Situation, deine Ziele und deinen Alltag. Daraus entsteht Schritt für Schritt ein Stil, der wirklich zu dir passt - persönlich, tragbar und mit System."
@@ -98,7 +98,8 @@ facts:
     - mehr Qualität
     - eine Garderobe, die langfristig funktioniert
 services:
-  title: "Finde den Stil, der wirklich zu dir passt"
+  title: "Angebote für mehr Stilgefühl und sichere Entscheidungen"
+  subtitle: "Du brauchst nicht mehr Kleidung. Du brauchst mehr Klarheit darüber, was wirklich zu dir passt."
 
   free:
     items:
@@ -116,87 +117,81 @@ services:
   packages:
     title: "Wähle das Angebot, das zu deinem nächsten Schritt passt"
     items:
-      - name: "ESKYNA Basic"
-        headline: "Dein Stil-Kompass für mehr Klarheit im Alltag"
-        description: "ESKYNA Basic ist der ideale Einstieg in eine bewusste Stilberatung für Frauen und Männer. Du erhältst eine klare Orientierung zu Farben, Schnitten, Proportionen und Stilrichtungen, die wirklich zu dir passen. So triffst du morgens schneller Entscheidungen, vermeidest Fehlkäufe und entwickelst mehr Sicherheit in deinem persönlichen Auftreten."
-        price: "390 €"
-        highlights:
-          - "Persönliche Stil- und Wirkungsanalyse"
-          - "Farbberatung inklusive digitalem Farbpass"
-          - "Analyse von Proportionen, Linien und passenden Schnitten"
-          - "Konkrete Empfehlungen für Alltag, Beruf und besondere Anlässe"
-          - "Persönliche Stilimpulse nach der ESKYNA Methode"
-          - "Digitaler Mini-Style-Guide mit den wichtigsten Empfehlungen"
-        result: "Nach ESKYNA Basic weißt du, welche Farben, Schnitte und Stilrichtungen zu dir passen. Du kannst Kleidung bewusster auswählen, Fehlkäufe vermeiden und deinen Stil gezielter entwickeln."
-        ctaText: "ESKYNA Basic buchen"
-        ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+      - name: "Stilfrage an Natalia"
+        headline: "Für konkrete Stilentscheidungen: auch live beim Einkaufen"
+        price: "ab 49 €"
+        result: "Du entscheidest sicherer, kaufst bewusster und weißt, warum etwas funktioniert oder warum nicht."
+        ctaText: "Stilfrage stellen"
+        ctaHref: "/stilfrage/"
         featured: false
 
-      - name: "ESKYNA Signature"
-        headline: "Dein persönlicher Stil — klar, tragbar und unverwechselbar"
-        description: "ESKYNA Signature ist die umfassende Stilberatung für Menschen, die ihren Look nicht dem Zufall überlassen möchten. Gemeinsam entwickeln wir deinen persönlichen Signature Style — passend zu deiner Persönlichkeit, deinem Körper, deinem Alltag und deiner gewünschten Wirkung. Dein Kleiderschrank wird neu betrachtet, vorhandene Kleidung wird sinnvoll kombiniert und es entsteht ein klares System für Outfits, die wirklich funktionieren."
+      - name: "ESKYNA Stilgefühl"
+        headline: "Für mehr Klarheit darüber, was dir wirklich steht"
+        price: "390 €"
+        result: "Du kaufst bewusster, kombinierst sicherer und entwickelst mehr Vertrauen in deinen Stil."
+        ctaText: "ESKYNA Stilgefühl ansehen"
+        ctaHref: "/stilgefuehl/"
+        featured: false
+
+      - name: "ESKYNA Stilgarderobe"
+        headline: "Für einen Kleiderschrank, der zu dir und deinem Leben passt"
         price: "890 €"
         badge: "Beliebteste Wahl"
-        highlights:
-          - "Vollständige Farb-, Stil- und Wirkungsanalyse"
-          - "Entwicklung des persönlichen Signature Styles"
-          - "Garderoben-Check mit Outfit-Kombinationen"
-          - "Neue Kombinationen aus vorhandener Kleidung"
-          - "Empfehlungen: behalten, kombinieren, ergänzen oder loslassen"
-          - "Individuelle Einkaufsliste für sinnvolle Ergänzungen"
-          - "Persönlicher Style-Guide"
-          - "Optional: Shoppingbegleitung online oder vor Ort"
-        result: "Nach ESKYNA Signature hast du mehr Klarheit im Kleiderschrank, stimmigere Outfits und ein Stil-System, das im Alltag funktioniert. Du weißt, was zu dir passt, was du brauchst und wie du dich sicherer kleidest."
-        ctaText: "ESKYNA Signature buchen"
-        ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+        result: "Mehr tragbare Outfits, mehr Klarheit und weniger Stress vor dem Schrank."
+        ctaText: "ESKYNA Stilgarderobe ansehen"
+        ctaHref: "/stilgarderobe/"
         featured: true
 
-      - name: "ESKYNA Visibility"
-        headline: "Dein Auftritt, der sichtbar macht, wer du bist"
-        description: "ESKYNA Visibility ist das Angebot für alle, die professionell, authentisch und sichtbar auftreten möchten. Gemeinsam entwickeln wir ein Styling- und Image-Konzept, das deine Persönlichkeit, Kompetenz und Ausstrahlung klar transportiert. Das eignet sich besonders für berufliche Sichtbarkeit, Personal Branding, Fotoshootings, Website-Bilder, LinkedIn, Social Media oder einen neuen professionellen Auftritt."
+      - name: "ESKYNA Präsenz"
+        headline: "Für deinen professionellen Auftritt"
         price: "1.490 €"
-        highlights:
-          - "Image- und Wirkungsanalyse"
-          - "Entwicklung eines klaren visuellen Auftritts"
-          - "Styling-Konzept für Business, Website, LinkedIn oder Social Media"
-          - "Outfit-Auswahl für Fotos, Bühne oder öffentliche Auftritte"
-          - "Vorbereitung auf ein professionelles Fotoshooting"
-          - "Abstimmung von Kleidung, Farben, Accessoires, Frisur und Make-up"
-          - "Optional: Koordination mit Fotograf:in"
-          - "Bild- und Auftrittsstrategie für die wichtigsten Kanäle"
-        note: "Fotoshooting und Fotograf:in sind optional und separat buchbar."
-        result: "Nach ESKYNA Visibility hast du einen professionellen, authentischen und stimmigen Auftritt, der deine Persönlichkeit und Kompetenz sichtbar macht."
-        ctaText: "ESKYNA Visibility anfragen"
-        ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+        result: "Ein Auftritt, der zeigt, wer du bist und wofür du stehst."
+        ctaText: "ESKYNA Präsenz ansehen"
+        ctaHref: "/praesenz/"
+        featured: false
+
+      - name: "ESKYNA Gutschein"
+        headline: "Stilberatung verschenken"
+        price: "ab 149 €"
+        result: "Ein Geschenk, das nicht im Schrank liegt, sondern den Alltag leichter macht."
+        ctaText: "ESKYNA Gutschein ansehen"
+        ctaHref: "/gutschein/"
         featured: false
 
   comparison:
     title: "Welches Angebot passt zu dir?"
-    intro: "Ein kurzer Überblick über die Unterschiede der drei ESKYNA Pakete."
+    intro: "Hier findest du eine schnelle Übersicht."
     table:
       headers:
-        - "Angebot"
-        - "Fokus"
-        - "Für wen?"
-        - "Investition"
+        - "Du möchtest …"
+        - "Passendes Angebot"
       rows:
-        - offer: "ESKYNA Basic"
-          focus: "Farben, Schnitte, Stilrichtung"
-          audience: "Für den klaren Einstieg"
-          investment: "390 €"
-        - offer: "ESKYNA Signature"
-          focus: "Garderobe, Outfits, Stil-System"
-          audience: "Für nachhaltige Veränderung"
-          investment: "890 €"
-        - offer: "ESKYNA Visibility"
-          focus: "Image, Business, Fotos, Sichtbarkeit"
-          audience: "Für professionellen Auftritt"
-          investment: "1.490 €"
+        - situation: "eine konkrete Stilfrage beantwortet bekommen"
+          offer: "Stilfrage an Natalia"
+        - situation: "wissen, was dir wirklich steht"
+          offer: "ESKYNA Stilgefühl"
+        - situation: "deinen Kleiderschrank neu strukturieren"
+          offer: "ESKYNA Stilgarderobe"
+        - situation: "beruflich stimmiger und professioneller auftreten"
+          offer: "ESKYNA Präsenz"
+        - situation: "Stilberatung verschenken"
+          offer: "ESKYNA Gutschein"
+
+  after:
+    title: "Was sich nach der Beratung verändert"
+    text: "Nach der Zusammenarbeit mit Natalia weißt du nicht nur, was dir steht. Du verstehst auch, warum."
+    items:
+      - "Du erkennst, welche Farben, Schnitte und Kombinationen dich stärken"
+      - "Du nutzt vorhandene Kleidung bewusster"
+      - "Du kaufst gezielter ein"
+      - "Du triffst morgens schneller Entscheidungen"
+      - "Und dein Stil fühlt sich nicht nach Verkleidung an, sondern nach dir"
+    summary: "Dein Kleiderschrank wird klarer. Deine Outfits werden stimmiger. Dein Auftreten wird sicherer."
 
   uncertainty:
-    title: "Unsicher, welches Angebot das richtige ist?"
-    text: "Wenn du nicht sicher bist, welches Angebot am besten zu deiner aktuellen Situation passt, starte mit einem kostenlosen Kennenlerngespräch. Gemeinsam finden wir heraus, welcher nächste Schritt für dich sinnvoll ist."
-    ctaText: "Kostenloses Erstgespräch"
+    title: "Unsicher, welches Angebot zu dir passt?"
+    text: "Dann starte mit einem kostenlosen Erstgespräch. Gemeinsam schaut Natalia auf deine aktuelle Situation, deine Wünsche und den sinnvollsten nächsten Schritt."
+    ctaText: "Kostenloses Erstgespräch buchen"
     ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 references:
   title: "Referenzen und Auszeichnungen"

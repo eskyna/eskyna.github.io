@@ -76,8 +76,6 @@ Charakter: Frisch · urban · unkompliziert
 
 Rosa wirkt hier unkompliziert und modern. Der graue Blazer bringt Struktur, Sneaker und Denim machen den Look alltagstauglich.
 
-[Sport-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
-
 1. **Romantic-Chic**
 
 Charakter: Weich · feminin · zeitlos
@@ -88,8 +86,6 @@ Charakter: Weich · feminin · zeitlos
 
 Florale Details, helle Farben und leichte Formen zeigen die sanfte Seite von Rosa, romantisch, aber nicht überladen.
 
-[Romantic-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
-
 1. **Business-Chic**
 
 Charakter: Stark · modern · souverän
@@ -99,8 +95,6 @@ Charakter: Stark · modern · souverän
 [Business-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
 Dunkles Braun, Blazer, Krawatte und Loafer erden Rosa. So entsteht ein Look, der Farbe zeigt und trotzdem professionell bleibt.
-
-[Business-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
 Der passende Instagram-Beitrag zum Artikel: [Rosa neu gedacht auf Instagram](https://www.instagram.com/p/DYR7JL1iobn/?img_index=1).
 

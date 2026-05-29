@@ -1,0 +1,229 @@
+{{ $offer := .Params.offer }}
+{{ $problem := .Params.problem }}
+{{ $whatItIs := .Params.what_it_is }}
+{{ $whatItIs2 := .Params.what_it_is_2 }}
+{{ $services := .Params.services }}
+{{ $forWhom := .Params.for_whom }}
+{{ $result := .Params.result }}
+{{ $ctaSection := .Params.cta_section }}
+{{ $typicalQuestions := .Params.typical_questions }}
+{{ $variants := .Params.variants }}
+{{ $introSection := .Params.intro_section }}
+{{ $offersHref := or .Params.offers_back.href "#angebote" }}
+{{ $offersLabel := or .Params.offers_back.label "Back to offers" }}
+{{ $variantsHeading := or .Params.variants_heading "Choose the right format" }}
+{{ $normalizedOffersHref := strings.TrimPrefix "/" $offersHref }}
+{{ $resolvedOffersHref := cond (hasPrefix $offersHref "#") $offersHref ($normalizedOffersHref | relURL) }}
+
+<main class="page page-offer">
+  <section class="offer-hero">
+    <div class="container">
+      <a class="back-link" href="{{ $resolvedOffersHref }}" title="{{ $offersLabel }}">{{ $offersLabel }}</a>
+
+      <div class="offer-hero-grid">
+        <div class="offer-hero-copy">
+          <h1 class="offer-hero-headline">{{ $offer.headline }}</h1>
+          <p class="offer-hero-subheadline">{{ $offer.subheadline }}</p>
+
+          <div class="offer-hero-intro">
+            {{ $offer.intro | markdownify }}
+          </div>
+
+          <div class="offer-hero-meta">
+            <p class="offer-hero-price"><strong>{{ $offer.price }}</strong></p>
+            {{ if $offer.badge }}
+              <p class="offer-hero-badge">{{ $offer.badge }}</p>
+            {{ end }}
+          </div>
+
+          <div class="offer-hero-cta">
+            {{ partial "button-icon.html" (dict "href" "https://calendar.app.google/sPZWYZT6vfK9NMim7" "text" $offer.cta "title" $offer.cta) }}
+          </div>
+        </div>
+
+        {{ if $offer.image }}
+        <div class="offer-hero-image">
+          {{ partial "responsive-image.html" (dict "src" $offer.image "alt" $offer.headline "title" $offer.headline "class" "offer-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  {{ if $problem }}
+  <section class="section offer-problem-section">
+    <div class="container">
+      <h2>{{ $problem.title }}</h2>
+      <div class="prose">
+        {{ $problem.text | markdownify }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $whatItIs }}
+  <section class="section offer-what-section">
+    <div class="container">
+      <h2>{{ $whatItIs.title }}</h2>
+      <div class="prose">
+        {{ $whatItIs.text | markdownify }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $whatItIs2 }}
+  <section class="section offer-what-section">
+    <div class="container">
+      <h2>{{ $whatItIs2.title }}</h2>
+      <div class="prose">
+        {{ $whatItIs2.text | markdownify }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $typicalQuestions }}
+  <section class="section offer-questions-section">
+    <div class="container">
+      <h2>{{ $typicalQuestions.title }}</h2>
+      <ul class="offer-questions-list">
+        {{ range $typicalQuestions.items }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $introSection }}
+  <section class="section offer-intro-section">
+    <div class="container">
+      <h2>{{ $introSection.title }}</h2>
+      <div class="prose">
+        {{ $introSection.text | markdownify }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $services }}
+  <section class="section offer-services-section">
+    <div class="container">
+      <h2>{{ $services.title }}</h2>
+      <div class="offer-services-grid">
+        {{ range $services.items }}
+          <article class="offer-service-card">
+            <h3>{{ .title }}</h3>
+            {{ if .description }}
+              <div class="prose">
+                {{ .description | markdownify }}
+              </div>
+            {{ end }}
+            {{ if .description2 }}
+              <div class="prose">
+                {{ .description2 | markdownify }}
+              </div>
+            {{ end }}
+            {{ if .includes }}
+              <ul class="offer-service-includes">
+                {{ range .includes }}
+                  <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+            {{ if .note }}
+              <p class="offer-service-note">{{ .note }}</p>
+            {{ end }}
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $variants }}
+  <section class="section offer-variants-section">
+    <div class="container">
+      <h2>{{ $variantsHeading }}</h2>
+      <div class="offer-variants-grid">
+        {{ range $variants }}
+          <article class="offer-variant-card">
+            <h3>{{ .title }}</h3>
+            <p class="variant-price"><strong>{{ .price }}</strong></p>
+            {{ if .description }}
+              <div class="prose">
+                {{ .description | markdownify }}
+              </div>
+            {{ end }}
+            {{ if .includes }}
+              <ul class="variant-includes">
+                {{ range .includes }}
+                  <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+            {{ if .note }}
+              <p class="variant-note">{{ .note }}</p>
+            {{ end }}
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $forWhom }}
+  <section class="section offer-for-whom-section">
+    <div class="container">
+      <h2>{{ $forWhom.title }}</h2>
+      <ul class="offer-for-whom-list">
+        {{ range $forWhom.items }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $result }}
+  <section class="section offer-result-section">
+    <div class="container">
+      <h2>{{ $result.title }}</h2>
+      {{ if $result.text }}
+        <p class="result-intro">{{ $result.text }}</p>
+      {{ end }}
+      {{ if $result.items }}
+        <ul class="offer-result-list">
+          {{ range $result.items }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      {{ if $result.summary }}
+        <p class="result-summary"><strong>{{ $result.summary }}</strong></p>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $ctaSection }}
+  <section class="section offer-cta-section">
+    <div class="container">
+      <h2>{{ $ctaSection.title }}</h2>
+      {{ if $ctaSection.text }}
+        <p>{{ $ctaSection.text }}</p>
+      {{ end }}
+      <div class="offer-cta-button">
+        {{ partial "button-icon.html" (dict "href" "https://calendar.app.google/sPZWYZT6vfK9NMim7" "text" $ctaSection.button "title" $ctaSection.button) }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+
+  <section class="section offer-back-section">
+    <div class="container">
+      <a class="btn btn-secondary" href="{{ $resolvedOffersHref }}" title="{{ $offersLabel }}">{{ $offersLabel }}</a>
+    </div>
+  </section>
+</main>

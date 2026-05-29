@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ if .Params.offer }}
+{{ partial "offer-page.html" . }}
+{{ else }}
 {{ $isPrivacyPage := in .RelPermalink "/datenschutz/" }}
 {{ $isLegalPage := or $isPrivacyPage (in .RelPermalink "/impressum/") }}
 <main class="page{{ if $isLegalPage }} page-privacy{{ end }}">
@@ -106,4 +109,5 @@
   </section>
   {{ end }}
 </main>
+{{ end }}
 {{ end }}

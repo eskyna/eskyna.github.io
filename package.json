@@ -12,6 +12,7 @@
     "lint-and-format": "node bin/lint-and-format",
     "lint-and-format:check": "node bin/lint-and-format",
     "lint-and-format:fix": "node bin/lint-and-format --fix",
+    "check:empty-hash-links": "bash ./bin/check-empty-hash-links",
     "seo-audit": "node bin/seo-audit",
     "seo-audit:static": "node bin/seo-audit ./static/outfits",
     "check:live-assets": "python3 bin/check-live-assets",
