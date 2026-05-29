@@ -392,7 +392,7 @@ h2 {
 .hero-second-line {
   display: block;
   margin-top: 0.45rem;
-  margin-left: 2.1rem;
+  margin-left: 0;
 }
 
 .hero-detail-brown {
@@ -3710,8 +3710,27 @@ main .hero .hero-copy {
   }
 }
 
+@media (orientation: portrait) {
+  main .hero .hero-copy-column {
+    align-items: center;
+    text-align: center;
+  }
+
+  main .hero .hero-headline {
+    text-align: center;
+  }
+
+  main .hero .hero-details {
+    text-align: center;
+  }
+
+  main .hero .hero-second-line {
+    margin-left: 0;
+  }
+}
+
 /* Pixel 8 / schmale Landscape-Viewports */
-@media screen and (orientation: landscape) and (width >= 740px) and (height <= 520px) {
+@media (orientation: landscape) and (width >= 740px) and (height <= 520px) {
   main .hero {
     min-height: 100svh;
     background-image: image-set(
@@ -3792,7 +3811,7 @@ main .hero .hero-copy {
   }
 
   main .hero .hero-details .hero-detail br {
-    display: none;
+  display: none;
   }
 
   main .hero .hero-actions {
@@ -5569,5 +5588,233 @@ body :where(button) {
   .offer-cta-section,
   .offer-back-section {
     padding: 2rem 1rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   ESKYNA HERO FINAL CLEAN
+   Portrait: centered headline.
+   Landscape: second headline line never wraps.
+   -------------------------------------------------------------------------- */
+
+/* Shared headline structure */
+main .hero .hero-headline {
+  margin-inline: 0;
+}
+
+main .hero .hero-headline-line {
+  display: block;
+}
+
+/* -------------------------
+   Portrait
+   ------------------------- */
+
+@media (orientation: portrait) {
+  main .hero .hero-content-grid {
+    justify-items: center !important;
+  }
+
+  main .hero .hero-copy-column {
+    align-items: center !important;
+    text-align: center !important;
+    margin-inline: auto !important;
+    width: 100% !important;
+    max-width: min(100%, 38ch) !important;
+  }
+
+  main .hero .hero-headline {
+    display: grid !important;
+    justify-items: center !important;
+    text-align: center !important;
+    width: max-content !important;
+    max-width: none !important;
+    margin-inline: auto !important;
+  }
+
+  main .hero .hero-headline-line {
+    width: auto;
+    text-align: center !important;
+    white-space: nowrap !important;
+  }
+
+  main .hero .hero-headline-second {
+    white-space: nowrap !important;
+  }
+
+  main .hero .hero-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-inline: auto !important;
+    width: 100%;
+    max-width: min(100%, 32ch) !important;
+    text-align: center !important;
+  }
+
+  main .hero .hero-detail {
+    text-align: center !important;
+  }
+
+  main .hero .hero-actions {
+    align-self: center !important;
+    justify-content: center !important;
+    margin-inline: auto !important;
+  }
+}
+
+/* -------------------------
+   Normal landscape
+   ------------------------- */
+
+@media (width >= 800px) and (orientation: landscape) {
+  main .hero {
+    --hero-x: clamp(4rem, 7vw, 7rem);
+    --hero-copy-width: min(43vw, 38rem);
+
+    background-image: image-set(
+      url("../images/backgrounds/hero/landscape.avif") type("image/avif"),
+      url("../images/backgrounds/hero/landscape.webp") type("image/webp"),
+      url("../images/backgrounds/hero/landscape.png") type("image/png")
+    );
+    background-position: 72% center !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  main .hero .hero-topbar {
+    padding-left: var(--hero-x) !important;
+    padding-right: var(--hero-x) !important;
+    padding-top: clamp(1.1rem, 2.2vw, 2rem);
+  }
+
+  main .hero .hero-coach-label {
+    transform: none !important;
+    transform-origin: left center;
+  }
+
+  main .hero .hero-coach-sign {
+    height: clamp(2.1rem, 3vw, 2.9rem);
+  }
+
+  main .hero .hero-coach-name {
+    font-size: clamp(1.55rem, 2.35vw, 2.25rem);
+  }
+
+  main .hero .hero-content-grid {
+    grid-template-columns: minmax(0, var(--hero-copy-width)) minmax(0, 1fr) !important;
+    padding-left: var(--hero-x) !important;
+    padding-right: var(--hero-x) !important;
+  }
+
+  main .hero .hero-copy-column {
+    grid-column: 1;
+    width: 100%;
+    max-width: var(--hero-copy-width) !important;
+    margin-left: 0 !important;
+    align-items: flex-start !important;
+    text-align: left !important;
+  }
+
+  main .hero .hero-headline {
+    display: grid !important;
+    justify-items: start !important;
+    width: max-content !important;
+    max-width: none !important;
+    font-size: clamp(2.35rem, 3.45vw, 3.65rem) !important;
+    line-height: 1.05;
+    text-align: left !important;
+  }
+
+  main .hero .hero-headline-line,
+  main .hero .hero-headline-second {
+    display: block !important;
+    white-space: nowrap !important;
+    text-align: left !important;
+  }
+
+  main .hero .hero-details {
+    max-width: 33ch;
+    text-align: left !important;
+  }
+
+  main .hero .hero-actions {
+    align-self: flex-start !important;
+    justify-content: flex-start !important;
+  }
+}
+
+/* Critical middle landscape range */
+@media (width >= 1000px) and (width <= 1500px) and (orientation: landscape) {
+  main .hero {
+    --hero-x: clamp(3.5rem, 7vw, 6rem);
+    --hero-copy-width: min(45vw, 36rem);
+
+    background-position: 72% center !important;
+  }
+
+  main .hero .hero-headline {
+    font-size: clamp(2.15rem, 3vw, 3.15rem) !important;
+  }
+
+  main .hero .hero-headline-line,
+  main .hero .hero-headline-second {
+    white-space: nowrap !important;
+  }
+}
+
+/* Short landscape phones */
+@media (orientation: landscape) and (width >= 740px) and (height <= 520px) {
+  main .hero {
+    --hero-x: clamp(0.9rem, 2.4vw, 1.4rem);
+    --hero-copy-width: min(48vw, 24rem);
+
+    background-image: image-set(
+      url("../images/backgrounds/hero/landscape_extrawide.avif") type("image/avif"),
+      url("../images/backgrounds/hero/landscape_extrawide.webp") type("image/webp"),
+      url("../images/backgrounds/hero/landscape_extrawide.png") type("image/png")
+    );
+    background-position: 42% center !important;
+    background-size: cover;
+  }
+
+  main .hero .hero-topbar,
+  main .hero .hero-content-grid {
+    padding-left: var(--hero-x) !important;
+    padding-right: var(--hero-x) !important;
+  }
+
+  main .hero .hero-coach-sign {
+    height: 1.6rem;
+  }
+
+  main .hero .hero-coach-name {
+    font-size: clamp(0.95rem, 2.1vw, 1.25rem);
+  }
+
+  main .hero .hero-copy-column {
+    max-width: var(--hero-copy-width) !important;
+  }
+
+  main .hero .hero-headline {
+    width: max-content !important;
+    max-width: none !important;
+    font-size: clamp(1.15rem, 3vw, 1.65rem) !important;
+    line-height: 1.04;
+  }
+
+  main .hero .hero-headline-line,
+  main .hero .hero-headline-second {
+    display: block !important;
+    white-space: nowrap !important;
+  }
+
+  main .hero .hero-details .hero-detail {
+    font-size: clamp(0.82rem, 2vw, 0.96rem);
+    line-height: 1.32;
+  }
+
+  main .hero .hero-details .hero-detail br {
+    display: none;
   }
 }
