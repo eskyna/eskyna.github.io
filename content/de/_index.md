@@ -150,6 +150,14 @@ services:
         ctaHref: "/praesenz/"
         featured: false
 
+      - name: "ESKYNA Begleitung"
+        headline: "Für persönliche Stilfragen im Alltag und einen Auftritt, der mit dir wächst"
+        price: "Individuell auf Anfrage"
+        result: "Du musst Stilentscheidungen nicht mehr allein treffen. Deine Garderobe entwickelt sich bewusster, klarer und mit deinem Leben mit."
+        ctaText: "ESKYNA Begleitung anfragen"
+        ctaHref: "/begleitung/"
+        featured: false
+
       - name: "ESKYNA Gutschein"
         headline: "Stilberatung verschenken"
         price: "ab 149 €"
