@@ -3,7 +3,7 @@ title: "Natalia Kleemann"
 hero:
   eyebrow: "Natalia Kleemann | Style- und Imagecoach"
   headline: ""
-  detail_1: '<span class="no-break">Individuelle Stilberatung für Frauen und Männer,</span> <span class="no-break">die <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-qualitaet">Qualität</button><span id="tooltip-qualitaet" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Qualität</strong><strong class="inline-term-tooltip-lead">Weniger Fehlkäufe schaffen Raum für bessere Kleidung.</strong><span class="inline-term-tooltip-text">Wenn Sie wissen, was wirklich zu Ihnen passt, kaufen Sie automatisch weniger und investieren bewusster in hochwertige Stoffe, gute Verarbeitung und langlebige Lieblingsstücke.</span></span></span> und <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-wirkung">Wirkung</button><span id="tooltip-wirkung" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Wirkung</strong><strong class="inline-term-tooltip-lead">Der erste Eindruck entsteht, bevor Sie Ihr erstes Argument genannt haben.</strong><span class="inline-term-tooltip-text">Auftreten sendet Signale, bevor Sie sprechen. Kleidung, Farben und Stil beeinflussen, ob Sie souverän, sympathisch, kompetent oder authentisch wahrgenommen werden.</span></span></span> schätzen.</span>'
+  detail_1: '<span class="no-break">Individuelle Stilberatung für Frauen und Männer,</span> <span class="no-break">die <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-qualitaet">Qualität</button><span id="tooltip-qualitaet" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Qualität</strong><strong class="inline-term-tooltip-lead">Weniger Fehlkäufe schaffen Raum für bessere Kleidung.</strong><span class="inline-term-tooltip-text">Wenn du weißt, was wirklich zu dir passt, kaufst du automatisch weniger und investierst bewusster in hochwertige Stoffe, gute Verarbeitung und langlebige Lieblingsstücke.</span></span></span> und <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-wirkung">Wirkung</button><span id="tooltip-wirkung" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Wirkung</strong><strong class="inline-term-tooltip-lead">Der erste Eindruck entsteht, bevor du dein erstes Argument genannt hast.</strong><span class="inline-term-tooltip-text">Auftreten sendet Signale, bevor du sprichst. Kleidung, Farben und Stil beeinflussen, ob du souverän, sympathisch, kompetent oder authentisch wahrgenommen wirst.</span></span></span> schätzen.</span>'
   detail_2: ""
   detail_3: "<br><br>Lass uns gemeinsam starten."
   ctaText: "Kostenloses Erstgespräch"
@@ -255,6 +255,12 @@ contact:
   photo: "images/portraits/natalia-schreibtisch.png"
   icon: "images/icons/das-gewisse-etwas.svg"
 ui:
+  hero_headline_first: "Mehr Stilgefühl."
+  hero_headline_second: "Weniger Fehlkäufe."
+  hero_coach_title_extra: "Online & Vor-Ort"
+  clover_symbol_alt: "Eskyna Kleeblatt-Symbol"
+  coach_image_title: "Natalia Kleemann"
+  coach_promise_heading_default: "Natalias Stilversprechen"
   hero_image_alt: "Porträt von Natalia Kleemann"
   coach_image_alt: "Natalia Kleemann"
   signature_alt: "Unterschrift von Natalia Kleemann"
@@ -289,7 +295,7 @@ ui:
   hero_coach_title: "Style- und Imagecoach"
   hero_coach_label: "Natalia Kleemann"
   free_highlights_title: "Vorteile der kostenlosen Angebote"
-  free_highlight_1: "Für mehr Klarheit in Ihrem Stil"
+  free_highlight_1: "Für mehr Klarheit in deinem Stil"
   free_highlight_2: "Praxisnah & sofort anwendbar"
   free_highlight_3: "Von Personal Stylistin Natalia Kleemann"
   free_highlight_4: "100% kostenlos & unverbindlich"

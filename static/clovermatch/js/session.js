@@ -30,7 +30,7 @@ export function startLevel() {
     updateStats();
     if (game.seconds <= 0) {
       if (goalMet()) completeLevel();
-      else failLevel("Die Zeit ist um – versuchen Sie es noch einmal.");
+      else failLevel("Die Zeit ist um – versuchen Du es noch einmal.");
     }
   }, 1000);
 }

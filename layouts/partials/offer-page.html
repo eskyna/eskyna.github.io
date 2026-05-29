@@ -9,9 +9,10 @@
 {{ $typicalQuestions := .Params.typical_questions }}
 {{ $variants := .Params.variants }}
 {{ $introSection := .Params.intro_section }}
+{{ $ui := .Params.ui }}
 {{ $offersHref := or .Params.offers_back.href "#angebote" }}
-{{ $offersLabel := or .Params.offers_back.label "Back to offers" }}
-{{ $variantsHeading := or .Params.variants_heading "Choose the right format" }}
+{{ $offersLabel := or .Params.offers_back.label (or $ui.offers_back_label "Back to offers") }}
+{{ $variantsHeading := or .Params.variants_heading (or $ui.variants_heading "Choose the right format") }}
 {{ $normalizedOffersHref := strings.TrimPrefix "/" $offersHref }}
 {{ $resolvedOffersHref := cond (hasPrefix $offersHref "#") $offersHref ($normalizedOffersHref | relURL) }}
 

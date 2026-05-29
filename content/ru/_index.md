@@ -258,6 +258,12 @@ contact:
   photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"
 ui:
+  hero_headline_first: "Больше чувства стиля."
+  hero_headline_second: "Меньше неудачных покупок."
+  hero_coach_title_extra: "Онлайн и офлайн"
+  clover_symbol_alt: "Символ клевера ESKYNA"
+  coach_image_title: "Natalia Kleemann"
+  coach_promise_heading_default: "Стилевое обещание Наталии"
   hero_image_alt: "Портрет Natalia Kleemann"
   coach_image_alt: "Natalia Kleemann"
   signature_alt: "Подпись Natalia Kleemann"

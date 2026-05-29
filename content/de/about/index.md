@@ -42,6 +42,12 @@ method:
       title: "Aktivierung"
       text: "Wie du deinen Stil sicher und selbstverständlich lebst."
       icon: "images/method/A_aktivierung.png"
+ui:
+  back_to_home_text: "Zur Startseite"
+  privacy_clover_alt: "ESKYNA Kleeblatt"
+  page_image_title: "Natalia Kleemann"
+  method_symbol_prefix: "Symbol für"
+  method_quote_author: "Natalia Kleemann"
 ---
 
 Ich bin **Natalia Kleemann**, Style- und Image-Coach mit Fokus auf einen Auftritt,

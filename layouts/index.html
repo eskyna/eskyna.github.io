@@ -14,18 +14,25 @@
 {{ $ui := .Params.ui }}
 {{ $contactBlogHintText := $contact.blogHintText }}
 {{ $contactBlogLinkText := $contact.blogLinkText }}
+{{ $heroHeadlineFirst := or $ui.hero_headline_first "Mehr Stilgefühl." }}
+{{ $heroHeadlineSecond := or $ui.hero_headline_second "Weniger Fehlkäufe." }}
+{{ $heroCoachTitleExtra := $ui.hero_coach_title_extra }}
+{{ $cloverSymbolAlt := or $ui.clover_symbol_alt "Eskyna Kleeblatt-Symbol" }}
+{{ $coachImageTitle := or $ui.coach_image_title "Natalia Kleemann" }}
+{{ $coachPromiseHeadingDefault := or $ui.coach_promise_heading_default "Natalias Stilversprechen" }}
+{{ $coachSignatureAlt := or $ui.signature_alt "Signatur Natalia" }}
 <main class="home-main">
   <section class="hero">
     <!-- Hero Topbar: Logo + Name | Language & Social Links -->
     <div class="hero-topbar">
       <p class="hero-coach-label" aria-label="{{ $ui.hero_coach_label }}" tabindex="0">
-        <img src="/images/sign_gold.png" alt="Eskyna Kleeblatt-Symbol" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
+        <img src="/images/sign_gold.png" alt="{{ $cloverSymbolAlt }}" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
         <span class="hero-coach-copy">
           <span class="hero-coach-name">{{ $ui.hero_coach_name }}</span>
           <span class="hero-coach-title">
             <span class="hero-coach-title-main">{{ $ui.hero_coach_title }}</span>
-            {{ if eq .Language.Lang "de" }}
-              <span class="hero-coach-title-extra">Online &amp; Vor-Ort</span>
+            {{ with $heroCoachTitleExtra }}
+              <span class="hero-coach-title-extra">{{ . }}</span>
             {{ end }}
           </span>
         </span>
@@ -44,8 +51,8 @@
       <!-- Hero Copy Column -->
       <div class="hero-copy-column">
         <h1 class="hero-headline hero-headline-smaller">
-          <span class="hero-headline-line hero-headline-first">Mehr Stilgefühl.</span>
-          <span class="hero-headline-line hero-headline-second">Weniger Fehlkäufe.</span>
+          <span class="hero-headline-line hero-headline-first">{{ $heroHeadlineFirst }}</span>
+          <span class="hero-headline-line hero-headline-second">{{ $heroHeadlineSecond }}</span>
         </h1>
         <div class="hero-details">
           <p class="hero-detail hero-detail-brown">{{ $hero.detail_1 | safeHTML }}</p>
@@ -100,11 +107,11 @@
   <section class="section coach-section">
     <div class="container intro-grid">
       <div class="coach-visual-column">
-        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
+        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" $coachImageTitle "title" $coachImageTitle "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
       </div>
       <div class="coach-copy-column">
         {{ $coachName := or $coach.name "Natalia Kleemann" }}
-        {{ $coachPromiseHeading := or $coach.promiseHeading "Natalias Stilversprechen" }}
+        {{ $coachPromiseHeading := or $coach.promiseHeading $coachPromiseHeadingDefault }}
         {{ $coachStatement := $coach.statement }}
         {{ $coachStatementCopy := $coach.statementCopy }}
         {{ $coachSignatureName := or $coach.signatureName $coachName }}
@@ -121,7 +128,7 @@
           <p class="coach-mission-sub">{{ . }}</p>
           {{ end }}
         </blockquote>
-        <img src="{{ "images/signature.png" | relURL }}" alt="Signatur Natalia" class="coach-signature" loading="lazy" width="220" height="78">
+        <img src="{{ "images/signature.png" | relURL }}" alt="{{ $coachSignatureAlt }}" class="coach-signature" loading="lazy" width="220" height="78">
         <p class="coach-signoff">
           <strong>{{ $coachSignatureName }}</strong>
           <span>{{ $coachSignatureRole }}</span>

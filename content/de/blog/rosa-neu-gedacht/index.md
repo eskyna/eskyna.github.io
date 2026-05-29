@@ -1,7 +1,7 @@
 ---
 title: "Rosa kombinieren – 3 Looks"
 date: 2026-05-15
-description: "Rosa ist vielseitiger als viele denken. Entdecken Sie, wie Sie Rosa modern, stilvoll und alltagstauglich kombinieren."
+description: "Rosa ist vielseitiger als viele denken. Entdecke, wie Du Rosa modern, stilvoll und alltagstauglich kombinieren."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."
 hero: "rosa-hero.avif"
 readingTime: 5
@@ -14,7 +14,7 @@ tags:
   - stilberatung
 ---
 
-Rosa ist nicht nur romantisch. Richtig kombiniert wirkt die Farbe sportlich, elegant, modern oder sogar souverän im Business-Kontext. In diesem Beitrag finden Sie die Theorie hinter der Farbe und drei tragbare Outfit-Kapseln für den Alltag.
+Rosa ist nicht nur romantisch. Richtig kombiniert wirkt die Farbe sportlich, elegant, modern oder sogar souverän im Business-Kontext. In diesem Beitrag findest du die Theorie hinter der Farbe und drei tragbare Outfit-Kapseln für den Alltag.
 
 ## Die Theorie hinter Rosa
 
@@ -100,11 +100,11 @@ Der passende Instagram-Beitrag zum Artikel: [Rosa neu gedacht auf Instagram](htt
 
 ## Fazit
 
-Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung finden Sie heraus, welche Rosa-Nuancen Ihre Ausstrahlung am besten unterstützen.
+Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung findest du heraus, welche Rosa-Nuancen Deine Ausstrahlung am besten unterstützen.
 
-## Welches Rosa passt zu Ihnen?
+## Welches Rosa passt zu dir?
 
-In einer persönlichen Stil- und Farbberatung finden Sie heraus, welche Farben Ihre Ausstrahlung unterstützen und wie Sie Looks zusammenstellen, die wirklich zu Ihnen passen.
+In einer persönlichen Stil- und Farbberatung findest du heraus, welche Farben Deine Ausstrahlung unterstützen und wie Du Looks zusammenstellen, die wirklich zu dir passen.
 
 {{< button-icon text="Kostenloses Erstgespräch" title="Kostenloses Erstgespräch" targetBlank="true" >}}
 

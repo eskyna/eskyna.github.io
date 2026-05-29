@@ -42,6 +42,12 @@ method:
       title: "Активация"
       text: "Как жить своим стилем уверенно и естественно каждый день."
       icon: "images/method/A_aktivierung.png"
+ui:
+  back_to_home_text: "На главную"
+  privacy_clover_alt: "Клевер ESKYNA"
+  page_image_title: "Natalia Kleemann"
+  method_symbol_prefix: "Символ для"
+  method_quote_author: "Natalia Kleemann"
 ---
 
 Я, **Наталия Клеманн**, стилист и имидж-коуч с фокусом на образ,

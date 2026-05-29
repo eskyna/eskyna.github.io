@@ -4,17 +4,23 @@
 {{ else }}
 {{ $isPrivacyPage := in .RelPermalink "/datenschutz/" }}
 {{ $isLegalPage := or $isPrivacyPage (in .RelPermalink "/impressum/") }}
+{{ $ui := .Params.ui }}
+{{ $backToHomeText := or $ui.back_to_home_text "Zur Startseite" }}
+{{ $privacyCloverAlt := or $ui.privacy_clover_alt "ESKYNA Kleeblatt" }}
+{{ $pageImageTitle := or $ui.page_image_title "Natalia Kleemann" }}
+{{ $methodSymbolPrefix := or $ui.method_symbol_prefix "Symbol für" }}
+{{ $methodQuoteAuthor := or $ui.method_quote_author "Natalia Kleemann" }}
 <main class="page{{ if $isLegalPage }} page-privacy{{ end }}">
   {{ if $isLegalPage }}
   <div class="privacy-clover-column" aria-hidden="true">
     {{ range seq 1 10 }}
-    <img src="{{ "images/sign_gold.png" | relURL }}" alt="ESKYNA Kleeblatt" aria-hidden="true" class="privacy-clover-mark" loading="lazy" width="960" height="963">
+    <img src="{{ "images/sign_gold.png" | relURL }}" alt="{{ $privacyCloverAlt }}" aria-hidden="true" class="privacy-clover-mark" loading="lazy" width="960" height="963">
     {{ end }}
   </div>
   {{ end }}
   <section class="section">
     <div class="container content-page">
-      <a class="back-link" href="/" title="Zur Startseite">Zur Startseite</a>
+      <a class="back-link" href="/" title="{{ $backToHomeText }}">{{ $backToHomeText }}</a>
       <div class="page-grid">
         <div>
           {{ if not $isPrivacyPage }}
@@ -41,7 +47,7 @@
             {{ $pageImageWidth = 985 }}
             {{ $pageImageHeight = 1587 }}
           {{ end }}
-          {{ partial "responsive-image.html" (dict "src" $pageImage "alt" "Natalia Kleemann" "title" "Natalia Kleemann" "class" "hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" $pageImageWidth "height" $pageImageHeight) }}
+          {{ partial "responsive-image.html" (dict "src" $pageImage "alt" $pageImageTitle "title" $pageImageTitle "class" "hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" $pageImageWidth "height" $pageImageHeight) }}
         </div>
         {{ end }}
       </div>
@@ -93,7 +99,7 @@
         {{ range .steps }}
         <article class="method-step">
           <div class="method-step-icon">
-            <img src="{{ .icon | relURL }}" alt="Symbol für {{ .title }}" title="Symbol für {{ .title }}" class="method-step-img" aria-hidden="true" loading="lazy" width="72" height="72">
+            <img src="{{ .icon | relURL }}" alt="{{ $methodSymbolPrefix }} {{ .title }}" title="{{ $methodSymbolPrefix }} {{ .title }}" class="method-step-img" aria-hidden="true" loading="lazy" width="72" height="72">
           </div>
           <p class="method-step-badge">{{ .letter }}</p>
           <h3 class="method-step-title">{{ .title }}</h3>
@@ -103,7 +109,7 @@
       </div>
       <blockquote class="method-quote">
         <p>{{ .quote }}</p>
-        <footer>— Natalia Kleemann</footer>
+        <footer>— {{ $methodQuoteAuthor }}</footer>
       </blockquote>
     </div>
   </section>

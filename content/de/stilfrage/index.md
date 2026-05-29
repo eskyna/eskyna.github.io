@@ -6,6 +6,9 @@ offers_back:
   href: "/#angebote"
   label: "Zu den Angeboten"
 variants_heading: "Wähle die passende Form"
+ui:
+  offers_back_label: "Zu den Angeboten"
+  variants_heading: "Wähle die passende Form"
 
 offer:
   headline: "Stilfrage an Natalia"

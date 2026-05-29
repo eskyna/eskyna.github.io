@@ -3,15 +3,15 @@
  */
 
 export const INTRO_COPY = {
-  lead: "In wenigen Minuten trainieren Sie, wie echte Stil-Entscheidungen funktionieren: nicht nach Trend oder Rabatt, sondern nach dem ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe erkennen Sie bewusst im Style-Filter.",
+  lead: "In wenigen Minuten trainieren Du, wie echte Stil-Entscheidungen funktionieren: nicht nach Trend oder Rabatt, sondern nach dem ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe erkennen Du bewusst im Style-Filter.",
   claim:
-    "Sie lernen ein System, das Sie morgens, beim Shoppen und vor dem nächsten Kauf sofort anwenden können.",
+    "Du lernen ein System, das Du morgens, beim Shoppen und vor dem nächsten Kauf sofort anwenden können.",
 };
 
 export const LEARN_POINTS = [
   {
     title: "Entscheidungs-System statt Bauchgefühl",
-    text: "Sie üben, jedes Stil-Signal einem der vier Kleeblatt-Blätter zuzuordnen – die Grundlage für EStyle und Ihre persönliche Stil-Matrix.",
+    text: "Du üben, jedes Stil-Signal einem der vier Kleeblatt-Blätter zuzuordnen – die Grundlage für EStyle und Deine persönliche Stil-Matrix.",
   },
   {
     title: "Schneller erkennen, was wirklich passt",
@@ -19,11 +19,11 @@ export const LEARN_POINTS = [
   },
   {
     title: "Fehlkäufe früh stoppen",
-    text: "Sale, Trends und „Must-haves“ trainieren Sie im Style-Filter auszusortieren – bevor sie im Schrank landen.",
+    text: "Sale, Trends und „Must-haves“ trainieren Du im Style-Filter auszusortieren – bevor sie im Schrank landen.",
   },
   {
     title: "Garderobe als System verstehen",
-    text: "Balance und Kombinierbarkeit werden spürbar. Sie sehen, welche Bereiche Sie schon sicher beherrschen – und wo noch Lücken sind.",
+    text: "Balance und Kombinierbarkeit werden spürbar. Du sehen, welche Bereiche Du schon sicher beherrschen – und wo noch Lücken sind.",
   },
 ];
 
@@ -31,18 +31,18 @@ export const LEVEL_LEARNING = [
   {
     practice: "Die vier Blätter unterscheiden und Signale sicher zuordnen.",
     takeaway:
-      "Sie haben die Sprache des Kleeblatts verinnerlicht – die Basis für jede weitere Stil-Entscheidung.",
+      "Du hast die Sprache des Kleeblatts verinnerlicht – die Basis für jede weitere Stil-Entscheidung.",
   },
   {
     practice:
       "Unter Zeitdruck Prioritäten setzen: Was zählt zuerst – Farbe, Form, Wirkung oder Alltag?",
     takeaway:
-      "Stil-Klarheit wächst, wenn Sie nicht alles gleichzeitig optimieren, sondern das Richtige zuerst.",
+      "Stil-Klarheit wächst, wenn Du nicht alles gleichzeitig optimieren, sondern das Richtige zuerst.",
   },
   {
-    practice: "Alle vier Bereiche gleichmäßig bedenken – nicht nur Ihre Lieblingskategorie.",
+    practice: "Alle vier Bereiche gleichmäßig bedenken – nicht nur Deine Lieblingskategorie.",
     takeaway:
-      "Ausgewogene Signale bedeuten: Ihr Kleiderschrank funktioniert in mehr Situationen, nicht nur in einer.",
+      "Ausgewogene Signale bedeuten: Dein Kleiderschrank funktioniert in mehr Situationen, nicht nur in einer.",
   },
   {
     practice: "Kaufimpulse erkennen, bevor sie zur Entscheidung werden.",
@@ -52,7 +52,7 @@ export const LEVEL_LEARNING = [
   {
     practice: "Alles verbinden: Serien, Kombination und Klarheit unter Druck.",
     takeaway:
-      "Sie denken Stil in Systemen – bereit, das mit EStyle dauerhaft auf Ihre Garderobe zu übertragen.",
+      "Du denken Stil in Systemen – bereit, das mit EStyle dauerhaft auf Deine Garderobe zu übertragen.",
   },
 ];
 
@@ -68,11 +68,11 @@ export function buildEvaluationMessage(levelIndex, won, stats, opts = {}) {
 
   if (won && allDone) {
     return (
-      "Sie haben alle fünf Level mit " +
+      "Du hast alle fünf Level mit " +
       stats.campaignScore +
       " Punkten abgeschlossen. " +
       learn.takeaway +
-      " Mit EStyle wird aus Ihrem Spielprofil eine persönliche Stil-Matrix – für Kauf, Kombination und Auftritt."
+      " Mit EStyle wird aus deinem Spielprofil eine persönliche Stil-Matrix – für Kauf, Kombination und Auftritt."
     );
   }
 
@@ -95,11 +95,11 @@ export function buildEvaluationMessage(levelIndex, won, stats, opts = {}) {
   msg += "Geübt wurde: " + learn.practice + " ";
   if (stats.clarity > 0) {
     msg +=
-      "Ihre aktuelle Stil-Klarheit: " +
+      "Deine aktuelle Stil-Klarheit: " +
       stats.clarity +
       "% – jeder Versuch schärft das Gefühl für das Kleeblatt.";
   } else {
-    msg += "Lesen Sie Facette und Untertitel – sie verraten oft das richtige Blatt.";
+    msg += "Lesen Du Facette und Untertitel – sie verraten oft das richtige Blatt.";
   }
   return msg;
 }

@@ -6,6 +6,9 @@ offers_back:
   href: "/ru/#angebote"
   label: "К предложениям"
 variants_heading: "Выберите подходящий формат"
+ui:
+  offers_back_label: "К предложениям"
+  variants_heading: "Выберите подходящий формат"
 
 offer:
   headline: "Вопрос о стиле Наталье"
