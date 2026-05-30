@@ -3,8 +3,8 @@ title: "Natalia Kleemann"
 hero:
   eyebrow: "Natalia Kleemann | Коуч по стилю и имиджу"
   headline: "Одежда, которая подходит именно к вашей жизни."
-  detail_1: 'Больше <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-stilgefuehl">чувства стиля</button><span id="tooltip-stilgefuehl" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Чувство стиля</strong><strong class="inline-term-tooltip-lead">Вы хотите одеваться хорошо, но не хватает понятной системы.</strong><span class="inline-term-tooltip-text">Чувство стиля — это умение понимать, что действительно вам подходит, независимо от трендов и спонтанных импульсов. Оно объединяет цвета, силуэты, пропорции и ваши предпочтения в цельный и аутентичный образ.</span></span></span>. Меньше <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-fehlkaeufe">неудачных покупок</button><span id="tooltip-fehlkaeufe" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Неудачные покупки</strong><strong class="inline-term-tooltip-lead">Шкаф полон, но многие вещи не ощущаются как «ваши».</strong><span class="inline-term-tooltip-text">Неудачные покупки часто возникают, когда вещь выглядит красиво, но не подходит к вашему ритму жизни, фигуре, цветам или стилю. Так накапливаются отдельные вещи без рабочих комплектов.</span></span></span>.'
-  detail_2: 'Для женщин и мужчин, которые ценят <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-qualitaet">качество</button><span id="tooltip-qualitaet" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Качество</strong><strong class="inline-term-tooltip-lead">Меньше ошибочных покупок — больше места для действительно хороших вещей.</strong><span class="inline-term-tooltip-text">Когда вы понимаете, что вам действительно подходит, вы покупаете меньше и осознаннее инвестируете в качественные ткани, хорошую посадку и долговечные любимые вещи.</span></span></span> и <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-wirkung">впечатление</button><span id="tooltip-wirkung" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Впечатление</strong><strong class="inline-term-tooltip-lead">Первое впечатление формируется раньше, чем вы озвучите первый аргумент.</strong><span class="inline-term-tooltip-text">Ваш образ подает сигналы еще до того, как вы заговорите. Одежда, цвета и стиль влияют на то, воспринимают ли вас уверенно, симпатично, компетентно и аутентично.</span></span></span>.'
+  detail_1: 'Больше <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-stilgefuehl">чувства стиля</button><span id="tooltip-stilgefuehl" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Чувство стиля</strong><strong class="inline-term-tooltip-lead">Вы хотите хорошо одеваться, но вам не хватает понятной системы.</strong><span class="inline-term-tooltip-text">Чувство стиля — это умение понимать, что действительно вам подходит, независимо от трендов и спонтанных импульсов. Оно объединяет цвета, силуэты, пропорции и ваши предпочтения в цельный и аутентичный образ.</span></span></span>. Меньше <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-fehlkaeufe">неудачных покупок</button><span id="tooltip-fehlkaeufe" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Неудачные покупки</strong><strong class="inline-term-tooltip-lead">Шкаф полон, но многие вещи не ощущаются как «ваши».</strong><span class="inline-term-tooltip-text">Неудачные покупки часто возникают, когда вещь выглядит красиво, но не подходит к вашему ритму жизни, фигуре, цветам или стилю. Так накапливаются отдельные вещи без рабочих комплектов.</span></span></span>.'
+  detail_2: 'Для женщин и мужчин, которые ценят <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-qualitaet">качество</button><span id="tooltip-qualitaet" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Качество</strong><strong class="inline-term-tooltip-lead">Меньше ошибочных покупок — больше места для действительно хороших вещей.</strong><span class="inline-term-tooltip-text">Когда вы понимаете, что вам действительно подходит, вы покупаете меньше и осознаннее инвестируете в качественные ткани, хорошую посадку и долговечные любимые вещи.</span></span></span> и <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-wirkung">впечатление</button><span id="tooltip-wirkung" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Впечатление</strong><strong class="inline-term-tooltip-lead">Первое впечатление формируется раньше, чем вы озвучите первый аргумент.</strong><span class="inline-term-tooltip-text">Одежда, цвета и стиль влияют на то, насколько уверенно, располагающе, компетентно и аутентично вы воспринимаетесь.</span></span></span>.'
   detail_3: "<br><br>Давайте начнем вместе."
   ctaText: "Бесплатная первая консультация"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
@@ -118,8 +118,8 @@ services:
   packages:
     title: "Выберите предложение, которое соответствует вашему следующему шагу"
     items:
-      - name: "Вопрос о стиле Наталье"
-        headline: "Для конкретных решений в стиле — даже во время покупок"
+      - name: "Вопрос стилисту"
+        headline: "Для конкретных стилевых решений — в том числе во время покупок"
         price: "от 49 €"
         result: "Вы решаете увереннее, покупаете осознаннее и понимаете, почему что-то работает — или почему нет."
         ctaText: "Задать вопрос о стиле"
@@ -146,7 +146,7 @@ services:
       - name: "ESKYNA Präsenz"
         headline: "Для вашего профессионального позиционирования"
         price: "1.490 €"
-        result: "Позиционирование, которое показывает, кто вы и за что вы стоите."
+        result: "Образ, который показывает, кто вы, какую экспертизу представляете и какие ценности транслируете."
         ctaText: "Узнать больше об ESKYNA Präsenz"
         ctaHref: "/ru/praesenz/"
         featured: false
@@ -176,10 +176,10 @@ services:
         - "Подходящее предложение"
       rows:
         - situation: "получить ответ на конкретный вопрос о стиле"
-          offer: "Вопрос о стиле Наталье"
+          offer: "Вопрос стилисту"
         - situation: "узнать, что вам действительно подходит"
           offer: "ESKYNA Stilgefühl"
-        - situation: "переструктурировать свой гардероб"
+        - situation: "пересобрать свой гардероб"
           offer: "ESKYNA Stilgarderobe"
         - situation: "выглядеть профессиональнее"
           offer: "ESKYNA Präsenz"
@@ -263,6 +263,9 @@ ui:
   hero_coach_title_extra: "Онлайн и офлайн"
   clover_symbol_alt: "Символ клевера ESKYNA"
   coach_image_title: "Natalia Kleemann"
+  back_to_home_text: "На главную"
+  privacy_clover_alt: "Клевер ESKYNA"
+  method_symbol_prefix: "Символ для"
   coach_promise_heading_default: "Стилевое обещание Наталии"
   hero_image_alt: "Портрет Natalia Kleemann"
   coach_image_alt: "Natalia Kleemann"
@@ -298,7 +301,7 @@ ui:
   hero_coach_title: "Коуч по стилю и имиджу"
   hero_coach_label: "Natalia Kleemann"
   free_highlights_title: "Преимущества бесплатных предложений"
-  free_highlight_1: "Для большей ясности в вашем стиле"
+  free_highlight_1: "Чтобы лучше понять свой стиль"
   free_highlight_2: "Практично и сразу применимо"
   free_highlight_3: "От персонального стилиста Natalia Kleemann"
   free_highlight_4: "100% бесплатно и без обязательств"

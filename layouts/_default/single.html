@@ -20,7 +20,7 @@
   {{ end }}
   <section class="section">
     <div class="container content-page">
-      <a class="back-link" href="/" title="{{ $backToHomeText }}">{{ $backToHomeText }}</a>
+      <a class="back-link" href="{{ "/" | relLangURL }}" title="{{ $backToHomeText }}">{{ $backToHomeText }}</a>
       <div class="page-grid">
         <div>
           {{ if not $isPrivacyPage }}

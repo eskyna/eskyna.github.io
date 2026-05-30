@@ -42,7 +42,7 @@ Styling ist die Frage: Was soll mein Auftreten über mich erzählen, bevor ich e
 
 ## Styling ist Kommunikation
 
-Kleidung ist ein visuelles Signal. Sie spricht, bevor wir sprechen. Forschung zur Personenwahrnehmung beschreibt Kleidung als wichtigen Bestandteil des ersten Eindrucks: Menschen leiten aus Dress unter anderem soziale Zugehörigkeit, Status, innere Zustände und ästhetische Vorlieben ab. Das bedeutet nicht, dass Kleidung unsere Persönlichkeit vollständig erklärt. Aber sie liefert Hinweise, aus denen andere innerhalb kürzester Zeit erste Annahmen bilden.
+Kleidung ist ein visuelles Signal. Sie spricht, bevor wir sprechen. Forschung zur Personenwahrnehmung beschreibt Kleidung als wichtigen Bestandteil des ersten Eindrucks: Menschen leiten aus Kleidung unter anderem soziale Zugehörigkeit, Status, innere Zustände und ästhetische Vorlieben ab. Das bedeutet nicht, dass Kleidung unsere Persönlichkeit vollständig erklärt. Aber sie liefert Hinweise, aus denen andere innerhalb kürzester Zeit erste Annahmen bilden.
 
 Auch die sogenannte Thin-Slice-Forschung zeigt, dass Menschen aus sehr kurzen Beobachtungen bereits Eindrücke ableiten. Solche Momentaufnahmen sind nicht unfehlbar, aber sie prägen, wie wir eine Person einordnen - besonders in beruflichen, sozialen und digitalen Kontexten.
 

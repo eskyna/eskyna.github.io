@@ -175,7 +175,8 @@
             {{ $ctaHref := or $item.ctaHref "#kontakt" }}
             {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($ctaHref | relURL) }}
+            {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
             <article class="free-offer-card">
               {{ with $item.image }}
                 {{ $imagePath := . }}
@@ -191,19 +192,19 @@
         </div>
         <div class="offers-free-highlights" aria-label="{{ $ui.free_highlights_title }}">
           <article class="offers-free-highlight-item">
-            <img src="{{ "images/klarheit_stern.svg" | relURL }}" alt="Klarheit im Stil" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <img src="{{ "images/klarheit_stern.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
             <p>{{ $ui.free_highlight_1 }}</p>
           </article>
           <article class="offers-free-highlight-item">
-            <img src="{{ "images/praxisnah_herz.svg" | relURL }}" alt="Praxisnah und sofort anwendbar" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <img src="{{ "images/praxisnah_herz.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
             <p>{{ $ui.free_highlight_2 }}</p>
           </article>
           <article class="offers-free-highlight-item">
-            <img src="{{ "images/personal_stylistin_diamant.svg" | relURL }}" alt="Personal Styling" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <img src="{{ "images/personal_stylistin_diamant.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
             <p>{{ $ui.free_highlight_3 }}</p>
           </article>
           <article class="offers-free-highlight-item">
-            <img src="{{ "images/kostenlos_geschenk.svg" | relURL }}" alt="Kostenloses Angebot" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
+            <img src="{{ "images/kostenlos_geschenk.svg" | relURL }}" alt="" class="offers-free-highlight-icon" loading="lazy" aria-hidden="true" width="56" height="56">
             <p>{{ $ui.free_highlight_4 }}</p>
           </article>
         </div>
@@ -217,7 +218,9 @@
             {{ $ctaHref := or .ctaHref "#kontakt" }}
             {{ $ctaText := or .ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-            <a class="package-card package-card-link {{ if .featured }}package-card-featured{{ end }}" href="{{ $ctaHref | relURL }}" title="{{ $ctaText }}" aria-label="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+            {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            <a class="package-card package-card-link {{ if .featured }}package-card-featured{{ end }}" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
               {{ if .badge }}
                 <div class="package-badge">{{ .badge }}</div>
               {{ end }}
