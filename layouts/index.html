@@ -175,16 +175,17 @@
             {{ $ctaHref := or $item.ctaHref "#kontakt" }}
             {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($ctaHref | relURL) }}
             <article class="free-offer-card">
               {{ with $item.image }}
                 {{ $imagePath := . }}
-                <a class="free-offer-media-link" href="{{ $ctaHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+                <a class="free-offer-media-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
                   {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
                 </a>
               {{ end }}
               <h4>{{ $item.title }}</h4>
               <p>{{ $item.text }}</p>
-              <a class="btn" href="{{ $ctaHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
+              <a class="btn" href="{{ $resolvedHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
             </article>
           {{ end }}
         </div>

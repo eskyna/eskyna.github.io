@@ -108,7 +108,7 @@ services:
         text: "Идеальный старт, если вы хотите лучше понять свой стиль и получить первые ориентиры."
         image: "images/cover_stiltest.png"
         ctaText: "Пройти тест"
-        ctaHref: "/preview/ru/hannover2026/"
+        ctaHref: "/ru/hannover2026/"
       - title: "10 советов по стилю (PDF)"
         text: "Краткий бесплатный гид с десятью практичными советами, которые можно применить сразу."
         image: "images/cover_stylingtipps.png"
@@ -123,7 +123,7 @@ services:
         price: "от 49 €"
         result: "Вы решаете увереннее, покупаете осознаннее и понимаете, почему что-то работает — или почему нет."
         ctaText: "Задать вопрос о стиле"
-        ctaHref: "/preview/ru/stilfrage/"
+        ctaHref: "/ru/stilfrage/"
         featured: false
 
       - name: "ESKYNA Stilgefühl"
@@ -131,7 +131,7 @@ services:
         price: "390 €"
         result: "Вы покупаете осознаннее, комбинируете увереннее и развиваете большее доверие к своему стилю."
         ctaText: "Узнать больше об ESKYNA Stilgefühl"
-        ctaHref: "/preview/ru/stilgefuehl/"
+        ctaHref: "/ru/stilgefuehl/"
         featured: false
 
       - name: "ESKYNA Stilgarderobe"
@@ -140,7 +140,7 @@ services:
         badge: "Самый популярный выбор"
         result: "Больше работающих образов, больше ясности и меньше стресса перед шкафом."
         ctaText: "Узнать больше об ESKYNA Stilgarderobe"
-        ctaHref: "/preview/ru/stilgarderobe/"
+        ctaHref: "/ru/stilgarderobe/"
         featured: true
 
       - name: "ESKYNA Präsenz"
@@ -148,7 +148,7 @@ services:
         price: "1.490 €"
         result: "Позиционирование, которое показывает, кто вы и за что вы стоите."
         ctaText: "Узнать больше об ESKYNA Präsenz"
-        ctaHref: "/preview/ru/praesenz/"
+        ctaHref: "/ru/praesenz/"
         featured: false
 
       - name: "ESKYNA Begleitung"
@@ -156,7 +156,7 @@ services:
         price: "Индивидуально по запросу"
         result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гармоничнее."
         ctaText: "Запросить ESKYNA Begleitung"
-        ctaHref: "/preview/ru/begleitung/"
+        ctaHref: "/ru/begleitung/"
         featured: false
 
       - name: "ESKYNA Gutschein"
@@ -164,7 +164,7 @@ services:
         price: "от 149 €"
         result: "Подарок, который не лежит в шкафу — а облегчает повседневную жизнь."
         ctaText: "Узнать больше об ESKYNA Gutschein"
-        ctaHref: "/preview/ru/gutschein/"
+        ctaHref: "/ru/gutschein/"
         featured: false
 
   comparison:

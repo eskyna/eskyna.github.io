@@ -109,7 +109,7 @@ services:
         ctaText: "Stiltest machen"
         ctaHref: "/hannover2026/"
       - title: "10 Styling-Tipps (PDF)"
-        text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stil-Sicherheit im Alltag."
+        text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stilsicherheit im Alltag."
         image: "images/cover_stylingtipps.png"
         ctaText: "Tipps herunterladen"
         ctaHref: "/10_Styling_Tipps.pdf"

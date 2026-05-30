@@ -90,6 +90,15 @@ echo "  Ziel:   $TARGET_DIR/"
 
 rsync "${RSYNC_FLAGS[@]}" "$SOURCE_DIR/" "$TARGET_DIR/"
 
+if [[ "$DO_APPLY" -eq 1 ]]; then
+  # Update baseURL in the preview config so Hugo-generated links include /preview/
+  PREVIEW_CONFIG="$TARGET_DIR/config.toml"
+  if [[ -f "$PREVIEW_CONFIG" ]]; then
+    sed -i '' 's|^baseURL = "https://eskyna.com/"|baseURL = "https://eskyna.com/preview/"|' "$PREVIEW_CONFIG"
+    echo "baseURL in $PREVIEW_CONFIG auf https://eskyna.com/preview/ gesetzt."
+  fi
+fi
+
 if [[ "$DO_APPLY" -eq 0 ]]; then
   echo
   echo "Dry-run abgeschlossen. Für echten Sync: ./bin/sync-to-preview --apply"
