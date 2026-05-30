@@ -100,7 +100,7 @@ facts:
 services:
   title: "Предложения для большего понимания стиля и уверенных решений"
   subtitle: "Вам нужна не больше одежды. Вам нужна больше ясности в том, что вам действительно подходит."
-  intro: "Наталья Климан помогает вам лучше понять свой стиль, избежать ненужных покупок и создать образы, которые соответствуют вашему образу жизни, личности и впечатлению. Будь то конкретный вопрос о стиле, персональная консультация, проверка гардероба или профессиональное позиционирование — здесь вы найдете подходящий шаг."
+  intro: "Наталия Клеманн помогает вам лучше понять свой стиль, избежать ненужных покупок и создать образы, которые соответствуют вашему образу жизни, личности и впечатлению. Будь то конкретный вопрос о стиле, персональная консультация, проверка гардероба или профессиональное позиционирование — здесь вы найдете подходящий шаг."
 
   free:
     items:
@@ -108,7 +108,7 @@ services:
         text: "Идеальный старт, если вы хотите лучше понять свой стиль и получить первые ориентиры."
         image: "images/cover_stiltest.png"
         ctaText: "Пройти тест"
-        ctaHref: "/ru/hannover2026/"
+        ctaHref: "/preview/ru/hannover2026/"
       - title: "10 советов по стилю (PDF)"
         text: "Краткий бесплатный гид с десятью практичными советами, которые можно применить сразу."
         image: "images/cover_stylingtipps.png"
@@ -123,7 +123,7 @@ services:
         price: "от 49 €"
         result: "Вы решаете увереннее, покупаете осознаннее и понимаете, почему что-то работает — или почему нет."
         ctaText: "Задать вопрос о стиле"
-        ctaHref: "/ru/stilfrage/"
+        ctaHref: "/preview/ru/stilfrage/"
         featured: false
 
       - name: "ESKYNA Stilgefühl"
@@ -131,7 +131,7 @@ services:
         price: "390 €"
         result: "Вы покупаете осознаннее, комбинируете увереннее и развиваете большее доверие к своему стилю."
         ctaText: "Узнать больше об ESKYNA Stilgefühl"
-        ctaHref: "/ru/stilgefuehl/"
+        ctaHref: "/preview/ru/stilgefuehl/"
         featured: false
 
       - name: "ESKYNA Stilgarderobe"
@@ -140,7 +140,7 @@ services:
         badge: "Самый популярный выбор"
         result: "Больше работающих образов, больше ясности и меньше стресса перед шкафом."
         ctaText: "Узнать больше об ESKYNA Stilgarderobe"
-        ctaHref: "/ru/stilgarderobe/"
+        ctaHref: "/preview/ru/stilgarderobe/"
         featured: true
 
       - name: "ESKYNA Präsenz"
@@ -148,15 +148,15 @@ services:
         price: "1.490 €"
         result: "Позиционирование, которое показывает, кто вы и за что вы стоите."
         ctaText: "Узнать больше об ESKYNA Präsenz"
-        ctaHref: "/ru/praesenz/"
+        ctaHref: "/preview/ru/praesenz/"
         featured: false
 
       - name: "ESKYNA Begleitung"
-        headline: "Для повседневных вопросов о стиле и образа, который растет вместе с вами"
+        headline: "Для повседневных вопросов о стиле и образе, который развивается вместе с вами"
         price: "Индивидуально по запросу"
-        result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гарманичнее."
+        result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гармоничнее."
         ctaText: "Запросить ESKYNA Begleitung"
-        ctaHref: "/ru/begleitung/"
+        ctaHref: "/preview/ru/begleitung/"
         featured: false
 
       - name: "ESKYNA Gutschein"
@@ -164,7 +164,7 @@ services:
         price: "от 149 €"
         result: "Подарок, который не лежит в шкафу — а облегчает повседневную жизнь."
         ctaText: "Узнать больше об ESKYNA Gutschein"
-        ctaHref: "/ru/gutschein/"
+        ctaHref: "/preview/ru/gutschein/"
         featured: false
 
   comparison:
