@@ -6,3 +6,4 @@ public/**
 preview
 **/__pycache__
 test-results/
+.secret

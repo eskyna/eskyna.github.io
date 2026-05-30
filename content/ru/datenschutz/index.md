@@ -2,6 +2,9 @@
 title: "Политика конфиденциальности"
 eyebrow: "Защита данных"
 image: "images/sign.png"
+ui:
+  back_to_home_text: "На главную"
+  privacy_clover_alt: "Символ клевера ESKYNA"
 ---
 
 ## Преамбула

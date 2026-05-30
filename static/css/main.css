@@ -2555,9 +2555,23 @@ h1 {
   width: min(100%, 420px);
 }
 
+.content-page .page-image-wrap {
+  place-self: start end;
+  align-self: start;
+  height: auto;
+  width: min(100%, 380px);
+}
+
 .page-image-wrap picture,
 .page-image-wrap img {
   display: block;
+}
+
+.content-page .page-image-wrap .hero-image {
+  width: 100%;
+  max-height: min(85vh, 740px);
+  object-fit: cover;
+  object-position: center top;
 }
 
 .prose {
@@ -4484,6 +4498,10 @@ body :where(button) {
   margin-inline: auto;
 }
 
+.content-page .page-grid {
+  align-items: start;
+}
+
 /* stylelint-disable-next-line no-descending-specificity */
 .content-prose li {
   max-width: 68ch;
@@ -5282,6 +5300,7 @@ body :where(button) {
 .offer-hero {
   background-color: var(--bg-soft);
   padding: 3rem 1rem;
+  overflow: hidden;
 }
 
 .offer-hero .container {
@@ -5297,9 +5316,18 @@ body :where(button) {
 }
 
 @media (width >= 900px) {
+  .offer-hero {
+    padding-bottom: 0;
+  }
+
   .offer-hero-grid {
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
+    align-items: end;
+  }
+
+  .offer-hero-copy {
+    padding-bottom: 3rem;
   }
 }
 
@@ -5366,14 +5394,27 @@ body :where(button) {
 
 @media (width >= 900px) {
   .offer-hero-image {
-    display: block;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    align-self: stretch;
+    line-height: 0;
+    overflow: hidden;
+    margin-bottom: 0;
   }
 }
 
 .offer-image {
-  width: 100%;
+  width: 68%;
+  max-width: 520px;
   height: auto;
+  display: block;
   border-radius: 12px;
+  object-fit: contain;
+  object-position: center bottom;
+  transform: scaleX(-1) translateY(5%);
+  transform-origin: center bottom;
+  align-self: flex-end;
 }
 
 .offer-problem-section,

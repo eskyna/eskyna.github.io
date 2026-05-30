@@ -43,9 +43,12 @@
           {{ else if hasSuffix $pageImage "images/estyle-app.png" }}
             {{ $pageImageWidth = 489 }}
             {{ $pageImageHeight = 1000 }}
-          {{ else if or (hasSuffix $pageImage "images/portraits/natalia-garderobencheck-portrait.png") (hasSuffix $pageImage "images/portraits/natalia-about-portrait.png") }}
+          {{ else if hasSuffix $pageImage "images/portraits/natalia-garderobencheck-portrait.png" }}
             {{ $pageImageWidth = 985 }}
             {{ $pageImageHeight = 1587 }}
+          {{ else if hasSuffix $pageImage "images/portraits/natalia-about-portrait.png" }}
+            {{ $pageImageWidth = 1290 }}
+            {{ $pageImageHeight = 1582 }}
           {{ end }}
           {{ partial "responsive-image.html" (dict "src" $pageImage "alt" $pageImageTitle "title" $pageImageTitle "class" "hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" $pageImageWidth "height" $pageImageHeight) }}
         </div>

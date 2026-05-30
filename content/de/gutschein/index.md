@@ -64,8 +64,8 @@ result:
   title: "Was die beschenkte Person mitnimmt"
   text: "Die beschenkte Person bekommt keine Standardtipps, sondern eine persönliche Einschätzung."
   items:
-    - "Du versteht besser, was zu ihr passt"
-    - "Du bekommt neue Impulse für Kleidung, Stil oder Wirkung"
+    - "Die beschenkte Person versteht besser, was zu ihr passt"
+    - "Sie bekommt neue Impulse für Kleidung, Stil und Wirkung"
     - "Und sie geht mit mehr Sicherheit in die nächsten Outfitentscheidungen"
   summary: "Ein Geschenk, das nicht im Schrank liegt, sondern den Alltag leichter macht."
 

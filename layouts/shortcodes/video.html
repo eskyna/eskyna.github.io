@@ -1,6 +1,6 @@
 {{- $src := .Get "src" -}}
 {{- $poster := .Get "poster" -}}
-{{- $videoFallbackText := or site.Params.ui.video_fallback_text "Dein Browser unterstützt kein Video." -}}
+{{- $videoFallbackText := or .Page.Params.ui.video_fallback_text site.Params.ui.video_fallback_text "Dein Browser unterstützt kein Video." -}}
 <video controls preload="metadata" playsinline {{ if $poster }}poster="{{ $poster }}"{{ end }} style="width:100%;height:auto;border-radius:12px;margin:0 0 1.25rem 0;">
   <source src="./{{ $src }}" type="video/mp4">
   {{ $videoFallbackText }}

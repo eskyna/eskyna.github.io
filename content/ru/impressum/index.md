@@ -2,6 +2,9 @@
 title: "Правовая информация"
 eyebrow: "Юридическая информация"
 image: "images/sign.png"
+ui:
+  back_to_home_text: "На главную"
+  privacy_clover_alt: "Символ клевера ESKYNA"
 ---
 
 ## Информация согласно § 5 DDG
