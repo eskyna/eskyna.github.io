@@ -89,7 +89,7 @@ facts:
     - "Ich begleite Frauen und Männer online und vor Ort"
     - "Internationale Stil-Erfahrung von Sibirien bis Leipzig"
     - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"
-    - "Mama von 2 stilbewussten Jungs"
+    - "Mama von zwei stilbewussten Jungs"
     - "Ich denke Stilberatung neu; als Gründerin von [EStyle](/estyle/)"
   mission: |
     Meine Mission ist es, Stil einfacher, bewusster und wirkungsvoller zu machen:
@@ -241,7 +241,7 @@ faq:
       a: "Genau dafür ist das kostenlose Erstgespräch da. Dort klären wir, ob ein Stiltest, eine Styleanalyse, ein Garderoben-Check oder eine Shoppingbegleitung für deine Situation sinnvoll ist."
     - q: "Muss ich dafür meinen kompletten Kleiderschrank austauschen?"
       a: "Nein. In vielen Fällen lässt sich schon mit vorhandenen Teilen deutlich mehr herausholen. Neue Käufe werden nur dort empfohlen, wo sie deinen Stil sinnvoll ergänzen."
-    - q: "Was ist besser für mich – online oder vor Ort?"
+    - q: "Was ist besser für mich? Online oder vor Ort?"
       a: "Online ist ideal, wenn du flexibel und ortsunabhängig beraten werden möchtest. Vor Ort ist besonders hilfreich, wenn es um deinen Kleiderschrank, konkrete Outfitkombinationen oder persönliche Begleitung beim Shopping geht."
     - q: "Ist die Beratung auch für den beruflichen Kontext sinnvoll?"
       a: "Ja. Wenn dein Auftritt im Beruf eine wichtige Rolle spielt, hilft die Beratung dabei, Kompetenz, Persönlichkeit und Präsenz sichtbarer zu machen. Das ist besonders wertvoll für Meetings, Kundentermine, Vorträge und Führungsrollen."

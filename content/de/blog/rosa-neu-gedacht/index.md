@@ -1,5 +1,5 @@
 ---
-title: "Rosa kombinieren – 3 Looks"
+title: "Rosa kombinieren - 3 Looks"
 date: 2026-05-15
 description: "Rosa ist vielseitiger als viele denken. Entdecke, wie du Rosa modern, stilvoll und alltagstauglich kombinieren kannst."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."
@@ -12,6 +12,19 @@ tags:
   - farbberatung
   - outfit
   - stilberatung
+ui:
+  color_scale_aria_label: "Rosa-Farbskala"
+  color_scale_swatches:
+    - name: "Powder Pink"
+      hex: "#ffc8d9"
+    - name: "Pastel Pink"
+      hex: "#ffb3c1"
+    - name: "Dusty Rose"
+      hex: "#d4879a"
+    - name: "Bright Pink"
+      hex: "#ff69b4"
+    - name: "Dusty Mauve"
+      hex: "#c684a5"
 ---
 
 Rosa ist nicht nur romantisch. Richtig kombiniert wirkt die Farbe sportlich, elegant, modern oder sogar souverän im Business-Kontext. In diesem Beitrag findest du die Theorie hinter der Farbe und drei tragbare Outfit-Kapseln für den Alltag.
@@ -53,7 +66,7 @@ Rosa wirkt heute oft selbstverständlich feminin. Historisch war diese Bedeutung
 
 ## Wie Rosa professionell wirkt
 
-Kleidung kommuniziert. Forschung zur Personenwahrnehmung beschreibt Kleidung als wichtigen Bestandteil des ersten Eindrucks: Menschen leiten aus Dress unter anderem soziale Identität, Status und ästhetische Präferenzen ab.[^4]
+Kleidung kommuniziert. Forschung zur Personenwahrnehmung beschreibt Kleidung als wichtigen Bestandteil des ersten Eindrucks: Menschen leiten aus Kleidung unter anderem soziale Identität, Status und ästhetische Präferenzen ab.[^4]
 
 Wichtige Styling-Prinzipien:
 

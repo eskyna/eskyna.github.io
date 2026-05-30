@@ -1,26 +1,18 @@
 {{ define "main" }}
-{{ $backText := "Zum Blog" }}
-{{ $tocText := "Inhalt" }}
-{{ $tocToggleText := "Inhalt anzeigen" }}
-{{ $readingTimeText := "Min. Lesezeit" }}
-{{ $audioLabel := "Beitrag anhören" }}
-{{ $audioDescription := "\"Rosa neu gedacht\" als Audio-Version" }}
-{{ $categoryText := "Farbe & Stil" }}
-{{ $looksText := "Looks ansehen" }}
-{{ $looksAnchor := "drei-outfit-kapseln" }}
-{{ $instagramText := "Instagram-Beitrag" }}
-{{ if eq .Language.Lang "ru" }}
-  {{ $backText = "К блогу" }}
-  {{ $tocText = "Содержание" }}
-  {{ $tocToggleText = "Показать содержание" }}
-  {{ $readingTimeText = "мин. чтения" }}
-  {{ $audioLabel = "Слушать статью" }}
-  {{ $audioDescription = "\"Rosa neu gedacht\" в аудиоверсии" }}
-  {{ $categoryText = "Цвет и стиль" }}
-  {{ $looksText = "Смотреть образы" }}
-  {{ $looksAnchor = "три-капсулы-образов" }}
-  {{ $instagramText = "Пост в Instagram" }}
-{{ end }}
+{{ $pageUI := .Params.ui }}
+{{ $sectionUI := dict }}
+{{ with .CurrentSection }}{{ $sectionUI = .Params.ui }}{{ end }}
+{{ $homeUI := .Site.Home.Params.ui }}
+{{ $backText := or $pageUI.back_to_blog_text $sectionUI.back_to_blog_text $homeUI.back_to_blog_text "Zum Blog" }}
+{{ $tocText := or $pageUI.toc_text $sectionUI.toc_text $homeUI.toc_text "Inhalt" }}
+{{ $tocToggleText := or $pageUI.toc_toggle_text $sectionUI.toc_toggle_text $homeUI.toc_toggle_text "Inhalt anzeigen" }}
+{{ $readingTimeText := or $pageUI.reading_time_text $sectionUI.reading_time_text $homeUI.reading_time_text "Min. Lesezeit" }}
+{{ $audioLabel := or $pageUI.audio_label $sectionUI.audio_label $homeUI.audio_label "Beitrag anhören" }}
+{{ $audioDescription := or $pageUI.audio_description $sectionUI.audio_description $homeUI.audio_description "Diesen Beitrag als Audio-Version" }}
+{{ $categoryText := or $pageUI.category_text $sectionUI.category_text $homeUI.category_text "Farbe & Stil" }}
+{{ $looksText := or $pageUI.looks_text $sectionUI.looks_text $homeUI.looks_text "Looks ansehen" }}
+{{ $looksAnchor := or $pageUI.looks_anchor $sectionUI.looks_anchor $homeUI.looks_anchor "drei-outfit-kapseln" }}
+{{ $instagramText := or $pageUI.instagram_text $sectionUI.instagram_text $homeUI.instagram_text "Instagram-Beitrag" }}
 {{ $audioRes := .Resources.GetMatch "reading.mp3" }}
 {{ $displayReadingTime := .ReadingTime }}
 {{ with .Params.readingTime }}{{ $displayReadingTime = . }}{{ end }}

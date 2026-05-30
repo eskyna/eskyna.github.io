@@ -35,7 +35,7 @@ Und auch nicht immer, weil sie klassisch "perfekt" aussehen.
 
 Sondern weil ihre Wirkung stimmt.
 
-Man spürt Präsenz. Klarheit. Selbstverständlichkeit. Etwas, das schwer zu greifen ist - aber sofort wahrgenommen wird. Genau hier beginnen die echten Styling Secrets.
+Man spürt Präsenz. Klarheit. Selbstverständlichkeit. Etwas, das schwer zu greifen ist, aber sofort wahrgenommen wird. Genau hier beginnen die echten Styling Secrets.
 
 Styling ist nicht einfach die Frage: "Was ziehe ich an?"
 Styling ist die Frage: Was soll mein Auftreten über mich erzählen, bevor ich ein Wort sage?

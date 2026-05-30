@@ -9,14 +9,14 @@ facts:
     - "Ich begleite Frauen und Männer online und vor Ort"
     - "Internationale Stil-Erfahrung von Sibirien bis Leipzig"
     - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"
-    - "Mama von 2 stilbewussten Jungs"
+    - "Mama von zwei stilbewussten Jungs"
     - "Ich denke Stilberatung neu; als Gründerin von [EStyle](/estyle/)"
 method:
   eyebrow: "Die ESKYNA Methode"
   title: "Mehr als Stilberatung: eine Methode mit System"
   intro: "Mit der ESKYNA Methode entwickelt Natalia Kleemann einen Stil nicht nur nach Geschmack, sondern nach Persönlichkeit, Wirkung und Lebensrealität. In sechs Schritten entsteht ein Auftritt, der klar, authentisch und tragfähig ist."
   tagline: "Essenz — Signale — Kernsprache — Your Signature — Neue Garderobenlogik — Aktivierung"
-  quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen — als sichtbaren Ausdruck von Persönlichkeit, Präsenz und Selbstvertrauen."
+  quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen; als sichtbaren Ausdruck von Persönlichkeit, Präsenz und Selbstvertrauen."
   steps:
     - letter: "E"
       title: "Essenz"
@@ -54,7 +54,7 @@ Ich bin **Natalia Kleemann**, Style- und Image-Coach mit Fokus auf einen Auftrit
 der sich nach dir anfühlt und gleichzeitig professionell wirkt.
 
 Seit vielen Jahren begleite ich Frauen und Männer dabei, ihren persönlichen Stil zu schärfen,
-selbstsicher aufzutreten und ihre Ausstrahlung bewusst einzusetzen - im Alltag,
+selbstsicher aufzutreten und ihre Ausstrahlung bewusst einzusetzen: im Alltag,
 im Business und auf der Bühne.
 
 ## Wie ich arbeite
