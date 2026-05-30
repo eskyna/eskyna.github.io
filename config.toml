@@ -32,6 +32,9 @@ title = "ESKYNA | Style & Image Coaching"
   author = "Natalia Kleemann"
   description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecken Sie Ihren individuellen Stil, treten Sie sichtbar und authentisch auf. ESKYNA begleitet Sie zu mehr Stilsicherheit und Selbstvertrauen."
   keywords = "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching"
+  contact_endpoint = "https://contact-api.eskyna-style.workers.dev"
+  contact_fallback_email = "natalia@eskyna.com"
+  turnstile_site_key = "0x4AAAAAADZwJxWSmKaRT7a5"
   [params.preview_banner]
     enabled = false
     label = "Preview"

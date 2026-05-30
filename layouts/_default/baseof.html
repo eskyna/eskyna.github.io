@@ -5,7 +5,130 @@
 </head>
 <body>
   {{ block "main" . }}{{ end }}
+  {{ partial "contact-modal.html" . }}
   {{ partial "preview-banner.html" . }}
   {{ partial "footer.html" . }}
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <script>
+    (function () {
+      function resetTurnstileForForm(form) {
+        if (!window.turnstile) return;
+        var widget = form.querySelector(".cf-turnstile iframe");
+        if (!widget) {
+          window.turnstile.reset();
+          return;
+        }
+        var widgetContainer = form.querySelector(".cf-turnstile");
+        if (widgetContainer && widgetContainer.id) {
+          window.turnstile.reset(widgetContainer.id);
+          return;
+        }
+        window.turnstile.reset();
+      }
+
+      function bindContactForms() {
+        var forms = document.querySelectorAll(".js-contact-form");
+        if (!forms.length) return;
+
+        for (var i = 0; i < forms.length; i += 1) {
+          (function (form) {
+            var statusEl = form.querySelector("[data-contact-status]");
+            var endpoint = form.getAttribute("data-contact-endpoint");
+            var sendingText = form.getAttribute("data-status-sending") || "Wird gesendet ...";
+            var successText = form.getAttribute("data-status-success") || "Danke! Ihre Anfrage wurde gesendet.";
+            var errorText = form.getAttribute("data-status-error") || "Leider gab es ein Problem.";
+            var turnstileText = form.getAttribute("data-status-turnstile") || "Bitte bestätigen Sie die Turnstile-Prüfung.";
+
+            form.addEventListener("submit", async function (event) {
+              event.preventDefault();
+
+              if (statusEl) {
+                statusEl.textContent = sendingText;
+              }
+
+              var formData = new FormData(form);
+              var payload = Object.fromEntries(formData.entries());
+              if (!payload["cf-turnstile-response"]) {
+                if (statusEl) {
+                  statusEl.textContent = turnstileText;
+                }
+                return;
+              }
+
+              try {
+                var response = await fetch(endpoint, {
+                  method: "POST",
+                  headers: {
+                    "Content-Type": "application/json"
+                  },
+                  body: JSON.stringify(payload)
+                });
+
+                var result = await response.json();
+                if (!response.ok || !result.ok) {
+                  throw new Error(result.error || "Die Anfrage konnte nicht gesendet werden.");
+                }
+
+                form.reset();
+                resetTurnstileForForm(form);
+                if (statusEl) {
+                  statusEl.textContent = successText;
+                }
+              } catch (error) {
+                if (statusEl) {
+                  statusEl.textContent = errorText;
+                }
+              }
+            });
+          })(forms[i]);
+        }
+      }
+
+      function setModalOpen(modal, shouldOpen) {
+        if (!modal) return;
+        if (shouldOpen) {
+          modal.hidden = false;
+          document.body.classList.add("contact-modal-open");
+          var firstField = modal.querySelector("input, textarea, select, button");
+          if (firstField) {
+            firstField.focus();
+          }
+          return;
+        }
+        modal.hidden = true;
+        document.body.classList.remove("contact-modal-open");
+      }
+
+      function bindContactModal() {
+        var modal = document.querySelector("[data-contact-modal]");
+        if (!modal) return;
+
+        var openers = document.querySelectorAll("[data-contact-open]");
+        for (var i = 0; i < openers.length; i += 1) {
+          openers[i].addEventListener("click", function () {
+            setModalOpen(modal, true);
+          });
+        }
+
+        var closers = modal.querySelectorAll("[data-contact-close]");
+        for (var j = 0; j < closers.length; j += 1) {
+          closers[j].addEventListener("click", function () {
+            setModalOpen(modal, false);
+          });
+        }
+
+        document.addEventListener("keydown", function (event) {
+          if (event.key === "Escape") {
+            setModalOpen(modal, false);
+          }
+        });
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        bindContactForms();
+        bindContactModal();
+      });
+    })();
+  </script>
 </body>
 </html>

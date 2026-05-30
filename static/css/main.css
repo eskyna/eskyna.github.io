@@ -2646,6 +2646,123 @@ h1 {
   color: rgb(255 255 255 / 95%);
 }
 
+.social-link-contact {
+  display: none;
+}
+
+.hero .social-link-contact,
+.home-main #kontakt .social-link-contact {
+  display: inline-flex;
+}
+
+.contact-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 120;
+}
+
+.contact-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgb(25 17 12 / 55%);
+}
+
+.contact-modal-dialog {
+  position: relative;
+  width: min(92vw, 640px);
+  max-height: 90vh;
+  overflow-y: auto;
+  margin: 4vh auto;
+  border-radius: 14px;
+  border: 1px solid rgb(44 30 22 / 18%);
+  background: #f9f6f0;
+  padding: 1.3rem 1.2rem 1.2rem;
+  box-shadow: 0 22px 50px rgb(28 19 14 / 34%);
+}
+
+.contact-modal-close {
+  position: absolute;
+  top: 0.45rem;
+  right: 0.65rem;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.85rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.contact-modal-open {
+  overflow: hidden;
+}
+
+.eskyna-contact-form {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.4rem;
+  padding: 1.15rem;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  background: rgb(255 255 255 / 64%);
+  backdrop-filter: blur(2px);
+}
+
+.eskyna-contact-form label {
+  display: grid;
+  gap: 0.42rem;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.eskyna-contact-form input,
+.eskyna-contact-form select,
+.eskyna-contact-form textarea {
+  width: 100%;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgb(44 30 22 / 20%);
+  border-radius: 12px;
+  font: inherit;
+  color: var(--text);
+  background: rgb(255 255 255 / 92%);
+}
+
+.eskyna-contact-form textarea {
+  resize: vertical;
+  min-height: 9rem;
+}
+
+.eskyna-contact-form .privacy-check {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-weight: 400;
+}
+
+.eskyna-contact-form .privacy-check input {
+  width: auto;
+  margin-top: 0.22rem;
+}
+
+.eskyna-contact-form .cf-turnstile {
+  min-height: 65px;
+}
+
+.contact-status {
+  min-height: 1.5rem;
+  margin: 0;
+  color: var(--accent-strong);
+  font-weight: 600;
+}
+
+.contact-fallback {
+  margin-top: 0.7rem;
+  color: var(--muted);
+}
+
+.offer-contact-inline {
+  margin-top: 1.5rem;
+}
+
 .site-footer {
   border-top: 1px solid var(--card-border);
   padding: 1.1rem 0 1.6rem;

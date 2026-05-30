@@ -1,0 +1,65 @@
+{{ $page := .page }}
+{{ $isRu := eq $page.Language.Lang "ru" }}
+{{ $formId := or .formId "eskyna-contact-form" }}
+{{ $statusId := printf "%s-status" $formId }}
+{{ $offerValue := or .offer (cond $isRu "Общий запрос" "Allgemeine Anfrage") }}
+{{ $siteKey := or $page.Site.Params.turnstile_site_key "0x4AAAAAADZwJxWSmKaRT7a5" }}
+{{ $endpoint := or $page.Site.Params.contact_endpoint "https://contact-api.eskyna-style.workers.dev" }}
+{{ $fallbackEmail := or $page.Site.Params.contact_fallback_email "eskyna.app@gmail.com" }}
+{{ $nameLabel := cond $isRu "Имя *" "Name *" }}
+{{ $emailLabel := cond $isRu "E-Mail *" "E-Mail *" }}
+{{ $phoneLabel := cond $isRu "Телефон" "Telefon" }}
+{{ $prefLabel := cond $isRu "Предпочтительный контакт" "Bevorzugter Kontakt" }}
+{{ $messageLabel := cond $isRu "Сообщение *" "Nachricht *" }}
+{{ $messagePlaceholder := cond $isRu "Коротко опишите, чем мы можем вам помочь." "Beschreiben Sie kurz, wobei wir Sie unterstützen können." }}
+{{ $privacyText := cond $isRu "Я ознакомился(-ась) с политикой конфиденциальности и согласен(-на) на обратную связь." "Ich habe die Datenschutzerklärung gelesen und bin mit der Kontaktaufnahme einverstanden." }}
+{{ $sendButtonDefault := cond $isRu "Отправить запрос" "Anfrage senden" }}
+{{ $sendButton := or .submitText $sendButtonDefault }}
+{{ $contactByEmailText := cond $isRu "Или напишите напрямую на E-Mail:" "Oder schreiben Sie direkt per E-Mail:" }}
+{{ $statusSending := cond $isRu "Отправка ..." "Wird gesendet ..." }}
+{{ $statusSuccess := cond $isRu "Спасибо! Ваш запрос отправлен." "Danke! Ihre Anfrage wurde gesendet." }}
+{{ $statusError := cond $isRu (printf "К сожалению, произошла ошибка. Напишите напрямую на %s." $fallbackEmail) (printf "Leider gab es ein Problem. Bitte schreiben Sie direkt an %s." $fallbackEmail) }}
+{{ $statusTurnstile := cond $isRu "Пожалуйста, подтвердите проверку Turnstile." "Bitte bestätigen Sie die Turnstile-Prüfung." }}
+
+<form id="{{ $formId }}" class="eskyna-contact-form js-contact-form" data-contact-endpoint="{{ $endpoint }}" data-status-sending="{{ $statusSending }}" data-status-success="{{ $statusSuccess }}" data-status-error="{{ $statusError }}" data-status-turnstile="{{ $statusTurnstile }}" novalidate>
+  <input type="hidden" name="offer" value="{{ $offerValue }}">
+
+  <label for="{{ $formId }}-name">{{ $nameLabel }}
+    <input id="{{ $formId }}-name" type="text" name="name" required maxlength="120" autocomplete="name">
+  </label>
+
+  <label for="{{ $formId }}-email">{{ $emailLabel }}
+    <input id="{{ $formId }}-email" type="email" name="email" required maxlength="160" autocomplete="email">
+  </label>
+
+  <label for="{{ $formId }}-phone">{{ $phoneLabel }}
+    <input id="{{ $formId }}-phone" type="tel" name="phone" maxlength="80" autocomplete="tel">
+  </label>
+
+  <label for="{{ $formId }}-preferred">{{ $prefLabel }}
+    <select id="{{ $formId }}-preferred" name="preferred_contact">
+      <option value="email">{{ cond $isRu "E-Mail" "E-Mail" }}</option>
+      <option value="phone">{{ cond $isRu "Телефон" "Telefon" }}</option>
+    </select>
+  </label>
+
+  <label for="{{ $formId }}-message">{{ $messageLabel }}
+    <textarea id="{{ $formId }}-message" name="message" required maxlength="2000" rows="6" placeholder="{{ $messagePlaceholder }}"></textarea>
+  </label>
+
+  <label class="privacy-check" for="{{ $formId }}-privacy">
+    <input id="{{ $formId }}-privacy" type="checkbox" name="privacy" value="true" required>
+    <span>{{ $privacyText }}</span>
+  </label>
+
+  <div class="cf-turnstile" data-sitekey="{{ $siteKey }}"></div>
+
+  <button type="submit" class="btn">{{ $sendButton }}</button>
+
+  <p id="{{ $statusId }}" class="contact-status" role="status" aria-live="polite" data-contact-status></p>
+</form>
+
+<p class="contact-fallback">
+  {{ $contactByEmailText }}
+  <a href="mailto:{{ $fallbackEmail }}">{{ $fallbackEmail }}</a>
+</p>

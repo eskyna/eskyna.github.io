@@ -38,7 +38,7 @@
           </div>
 
           <div class="offer-hero-cta">
-            {{ partial "button-icon.html" (dict "href" "https://calendar.app.google/sPZWYZT6vfK9NMim7" "text" $offer.cta "title" $offer.cta) }}
+            {{ partial "button-icon.html" (dict "href" "#offer-kontakt" "text" $offer.cta "title" $offer.cta) }}
           </div>
         </div>
 
@@ -215,8 +215,8 @@
       {{ if $ctaSection.text }}
         <p>{{ $ctaSection.text }}</p>
       {{ end }}
-      <div class="offer-cta-button">
-        {{ partial "button-icon.html" (dict "href" "https://calendar.app.google/sPZWYZT6vfK9NMim7" "text" $ctaSection.button "title" $ctaSection.button) }}
+      <div class="offer-contact-inline" id="offer-kontakt">
+        {{ partial "contact-form.html" (dict "page" . "formId" "offer-contact-form" "offer" $offer.headline "submitText" $ctaSection.button) }}
       </div>
     </div>
   </section>
