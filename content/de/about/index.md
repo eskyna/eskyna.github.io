@@ -5,7 +5,7 @@ image: "images/portraits/natalia-about-portrait.png"
 facts:
   title: "Ein paar Fakten über mich"
   items:
-    - "seit 2019 lebe ich, was ich liebe"
+    - "Seit 2019 lebe ich, was ich liebe"
     - "Ich begleite Frauen und Männer online und vor Ort"
     - "Internationale Stil-Erfahrung von Sibirien bis Leipzig"
     - "Nachhaltigkeit ist fester Bestandteil meiner Arbeit"

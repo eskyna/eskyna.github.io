@@ -1,7 +1,7 @@
 ---
 title: "Rosa kombinieren – 3 Looks"
 date: 2026-05-15
-description: "Rosa ist vielseitiger als viele denken. Entdecke, wie Du Rosa modern, stilvoll und alltagstauglich kombinieren."
+description: "Rosa ist vielseitiger als viele denken. Entdecke, wie du Rosa modern, stilvoll und alltagstauglich kombinieren kannst."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."
 hero: "rosa-hero.avif"
 readingTime: 5
@@ -100,11 +100,11 @@ Der passende Instagram-Beitrag zum Artikel: [Rosa neu gedacht auf Instagram](htt
 
 ## Fazit
 
-Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung findest du heraus, welche Rosa-Nuancen Deine Ausstrahlung am besten unterstützen.
+Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung findest du heraus, welche Rosa-Nuancen deine Ausstrahlung am besten unterstützen.
 
 ## Welches Rosa passt zu dir?
 
-In einer persönlichen Stil- und Farbberatung findest du heraus, welche Farben Deine Ausstrahlung unterstützen und wie Du Looks zusammenstellen, die wirklich zu dir passen.
+In einer persönlichen Stil- und Farbberatung findest du heraus, welche Farben deine Ausstrahlung unterstützen und wie du Looks zusammenstellst, die wirklich zu dir, deinem Alltag und deiner Wirkung passen.
 
 {{< button-icon text="Kostenloses Erstgespräch" title="Kostenloses Erstgespräch" targetBlank="true" >}}
 

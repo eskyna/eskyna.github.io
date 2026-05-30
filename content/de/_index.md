@@ -297,6 +297,6 @@ ui:
   free_highlights_title: "Vorteile der kostenlosen Angebote"
   free_highlight_1: "Für mehr Klarheit in deinem Stil"
   free_highlight_2: "Praxisnah & sofort anwendbar"
-  free_highlight_3: "Von Personal Stylistin Natalia Kleemann"
+  free_highlight_3: "Von Natalia Kleemann, Personal-Stylistin"
   free_highlight_4: "100% kostenlos & unverbindlich"
 ---

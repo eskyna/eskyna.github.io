@@ -4,11 +4,10 @@ eyebrow: "Digitales Angebot von Natalia Kleemann"
 image: "images/estyle-app.png"
 ---
 
-**EStyle** ist mein digitales Angebot für alle, die sich mehr Stil-Sicherheit im Alltag wünschen -
+**EStyle** ist mein digitales Angebot für alle, die sich mehr Stilsicherheit im Alltag wünschen -
 schnell, verständlich und ohne Fehlkäufe.
 
-Die Idee hinter EStyle: professionelle Stil- und Farbberatung aus dem 1:1-Coaching in eine
-skalierbare App zu bringen. So wird Stilkompetenz für deutlich mehr Menschen zugänglich.
+Die Idee hinter EStyle: professionelle Stil- und Farbberatung aus dem 1:1-Coaching digital zugänglich zu machen. So wird Stilkompetenz für deutlich mehr Menschen erreichbar.
 
 ## Was EStyle leistet
 

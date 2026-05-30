@@ -2489,17 +2489,14 @@ h1 {
   height: 100%;
   object-fit: cover;
   object-position: center top;
-  mask-image:
-    linear-gradient(
-      to right,
-      transparent 0%,
-      transparent 10%,
-      rgb(0 0 0 / 92%) 34%,
-      rgb(0 0 0 / 92%) 86%,
-      transparent 100%
-    ),
-    linear-gradient(to bottom, transparent 0%, black 18%);
-  mask-composite: intersect;
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    transparent 10%,
+    rgb(0 0 0 / 92%) 34%,
+    rgb(0 0 0 / 92%) 86%,
+    transparent 100%
+  );
   mask-repeat: no-repeat;
   mask-size: 100% 100%;
 }
