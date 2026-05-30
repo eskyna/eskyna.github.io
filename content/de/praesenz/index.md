@@ -16,7 +16,7 @@ offer:
     Mit ESKYNA Präsenz entwickelt Natalia ein Styling- und Image-Konzept für Business, Fotos, Website, LinkedIn, Social Media oder Bühne: klar, professionell und authentisch.
   price: "1.490 €"
   cta: "ESKYNA Präsenz anfragen"
-  image: "images/praesenz-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Wenn dein Auftritt noch nicht zeigt, was du ausstrahlen möchtest"

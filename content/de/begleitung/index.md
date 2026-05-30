@@ -15,7 +15,7 @@ offer:
     Mit ESKYNA Begleitung hast du Natalia Kleemann als persönliche Stil- und Imageberaterin an deiner Seite — für Business-Outfits, Kaufentscheidungen, wiederkehrende Stilfragen und die Entwicklung deiner Garderobe.
   price: "Individuell auf Anfrage"
   cta: "ESKYNA Begleitung anfragen"
-  image: "images/begleitung-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Wenn Stilsicherheit im Alltag entsteht"

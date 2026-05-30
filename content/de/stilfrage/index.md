@@ -15,13 +15,13 @@ offer:
   subheadline: "Für konkrete Stilentscheidungen: auch live beim Einkaufen"
   intro: |
     Du bist unsicher, ob ein Kleidungsstück wirklich zu dir passt?
-    Du stehst in der Umkleide und fragst dich: kaufen oder lieber lassen?
+    Du stehst in der Umkleide und fragst dich: kaufen oder lieber hängen lassen?
     Oder du möchtest wissen, wie du ein Teil kombinieren kannst, das schon in deinem Schrank hängt?
 
     Mit der Stilfrage an Natalia bekommst du eine persönliche Einschätzung zu genau deiner Situation. Klar, ehrlich und alltagstauglich.
   price: "ab 49 €"
   cta: "Stilfrage stellen"
-  image: "images/stilfrage-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Wenn du schnell eine ehrliche Einschätzung brauchst"
@@ -39,7 +39,7 @@ typical_questions:
   items:
     - Steht mir diese Farbe?
     - Passt dieser Schnitt zu meiner Figur?
-    - Soll ich dieses Teil kaufen oder lieber lassen?
+    - Soll ich dieses Teil kaufen oder lieber nicht?
     - Welches von zwei Teilen passt besser zu mir?
     - Wie kann ich dieses Kleidungsstück kombinieren?
     - Ist dieses Outfit passend für den Anlass?

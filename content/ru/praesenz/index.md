@@ -16,7 +16,7 @@ offer:
     С ESKYNA Präsenz Наталья разрабатывает для вас концепцию стиля и имиджа для бизнеса, фото, сайта, LinkedIn, соцсетей или сцены: ясно, профессионально и аутентично.
   price: "1.490 €"
   cta: "Отправить запрос на ESKYNA Präsenz"
-  image: "images/praesenz-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Когда ваш образ пока не показывает то, что вы хотите транслировать"

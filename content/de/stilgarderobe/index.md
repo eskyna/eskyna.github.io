@@ -17,7 +17,7 @@ offer:
   price: "890 €"
   badge: "Beliebteste Wahl"
   cta: "ESKYNA Stilgarderobe buchen"
-  image: "images/stilgarderobe-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Wenn viele Teile noch kein Outfit ergeben"

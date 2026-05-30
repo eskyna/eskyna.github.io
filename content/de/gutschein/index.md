@@ -16,7 +16,7 @@ offer:
     Mit dem ESKYNA Gutschein verschenkst du Zeit mit Natalia und damit mehr Klarheit, Stilgefühl und Sicherheit bei Kleidung, Einkauf und Auftritt.
   price: "ab 149 €"
   cta: "Gutschein anfragen"
-  image: "images/gutschein-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 intro_section:
   title: "Ein Geschenk, das im Alltag weiterwirkt"

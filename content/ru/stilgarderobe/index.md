@@ -17,7 +17,7 @@ offer:
   price: "890 €"
   badge: "Самый популярный выбор"
   cta: "Забронировать ESKYNA Stilgarderobe"
-  image: "images/stilgarderobe-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Когда много вещей еще не дают готовых образов"

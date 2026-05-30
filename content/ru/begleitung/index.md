@@ -15,7 +15,7 @@ offer:
     С ESKYNA Begleitung у вас есть Наталья Клеманн как персональная консультантка по стилю и имиджу — для деловых образов, решений о покупках, повседневных вопросов о стиле и развития вашего гардероба.
   price: "Индивидуально по запросу"
   cta: "Запросить ESKYNA Begleitung"
-  image: "images/begleitung-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Когда уверенность в стиле возникает в повседневной жизни"

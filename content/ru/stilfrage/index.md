@@ -21,7 +21,7 @@ offer:
     С сервисом "Вопрос о стиле" вы получаете персональную оценку именно вашей ситуации: ясно, честно и практично.
   price: "от 49 €"
   cta: "Задать вопрос о стиле"
-  image: "images/stilfrage-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Когда вам нужна быстрая и честная оценка"

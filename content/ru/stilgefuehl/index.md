@@ -18,7 +18,7 @@ offer:
     С ESKYNA Stilgefühl вы формируете ясное понимание того, какая одежда вас усиливает и почему.
   price: "390 €"
   cta: "Забронировать ESKYNA Stilgefühl"
-  image: "images/stilgefuehl-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Когда стиль пока работает скорее случайно"

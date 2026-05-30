@@ -18,7 +18,7 @@ offer:
     Mit ESKYNA Stilgefühl entwickelst du ein klares Verständnis dafür, welche Kleidung dich stärkt und warum.
   price: "390 €"
   cta: "ESKYNA Stilgefühl buchen"
-  image: "images/stilgefuehl-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 problem:
   title: "Wenn Stil bisher eher Zufall ist"

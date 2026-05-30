@@ -16,7 +16,7 @@ offer:
     С ESKYNA Gutschein вы дарите время с Натальей, а вместе с ним — больше ясности, чувства стиля и уверенности в одежде, покупках и внешнем образе.
   price: "от 149 €"
   cta: "Запросить Gutschein"
-  image: "images/gutschein-hero.jpg"
+  image: "images/portraits/natalia-coach-portrait.png"
 
 intro_section:
   title: "Подарок, который продолжает работать в повседневности"
