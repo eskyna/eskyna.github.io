@@ -24,7 +24,7 @@ tags:
   - ESKYNA
   - EskynaStyle
 ui:
-   video_fallback_text: "Ваш браузер не поддерживает видео."
+  video_fallback_text: "Ваш браузер не поддерживает видео."
 ---
 
 {{< video src="styling_secrets.mp4" poster="styling-secrets-poster.jpg" >}}
