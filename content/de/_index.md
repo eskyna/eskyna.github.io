@@ -185,17 +185,6 @@ services:
         - situation: "Stilberatung verschenken"
           offer: "ESKYNA Gutschein"
 
-  after:
-    title: "Was sich nach der Beratung verändert"
-    text: "Nach der Zusammenarbeit mit Natalia weißt du nicht nur, was dir steht. Du verstehst auch, warum."
-    items:
-      - "Du erkennst, welche Farben, Schnitte und Kombinationen dich stärken"
-      - "Du nutzt vorhandene Kleidung bewusster"
-      - "Du kaufst gezielter ein"
-      - "Du triffst morgens schneller Entscheidungen"
-      - "Und dein Stil fühlt sich nicht nach Verkleidung an, sondern nach dir"
-    summary: "Dein Kleiderschrank wird klarer. Deine Outfits werden stimmiger. Dein Auftreten wird sicherer."
-
   uncertainty:
     title: "Unsicher, welches Angebot zu dir passt?"
     text: "Dann starte mit einem kostenlosen Erstgespräch. Gemeinsam schaut Natalia auf deine aktuelle Situation, deine Wünsche und den sinnvollsten nächsten Schritt."

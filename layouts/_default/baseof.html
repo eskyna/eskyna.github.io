@@ -38,6 +38,22 @@
             var successText = form.getAttribute("data-status-success") || "Danke! Ihre Anfrage wurde gesendet.";
             var errorText = form.getAttribute("data-status-error") || "Leider gab es ein Problem.";
             var turnstileText = form.getAttribute("data-status-turnstile") || "Bitte bestätigen Sie die Turnstile-Prüfung.";
+            var privacyCheckbox = form.querySelector('input[name="privacy"]');
+            var submitButton = form.querySelector('button[type="submit"]');
+
+            function updateSubmitButton() {
+              if (submitButton && privacyCheckbox) {
+                submitButton.disabled = !privacyCheckbox.checked;
+              }
+            }
+
+            if (privacyCheckbox && submitButton) {
+              updateSubmitButton();
+              privacyCheckbox.addEventListener("change", updateSubmitButton);
+              form.addEventListener("reset", function () {
+                setTimeout(updateSubmitButton, 0);
+              });
+            }
 
             form.addEventListener("submit", async function (event) {
               event.preventDefault();
