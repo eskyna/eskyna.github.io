@@ -16,7 +16,9 @@
 <meta name="page-topic" content="Style und Image Coaching">
 <meta name="revisit-after" content="7 days">
 <meta http-equiv="Expires" content="Thu, 31 Dec 2037 23:55:55 GMT">
-{{ if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
+{{ if .IsHome }}
+  <title>{{ .Params.seoTitle | default $siteTitle }}</title>
+{{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
   <title>{{ $pageTitle }} | {{ $siteTitle }}</title>
 {{ else }}
   <title>{{ $siteTitle }}</title>

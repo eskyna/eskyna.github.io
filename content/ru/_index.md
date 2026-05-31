@@ -1,5 +1,6 @@
 ---
 title: "Natalia Kleemann"
+seoTitle: "ESKYNA | Стиль и имидж-коучинг онлайн"
 hero:
   eyebrow: "Natalia Kleemann | Коуч по стилю и имиджу"
   headline: "Одежда, которая подходит именно к вашей жизни."
@@ -257,6 +258,25 @@ contact:
   email: "natalia@eskyna.com"
   photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"
+contact_form:
+  privacy_href: "/ru/datenschutz/"
+  name_label: "Имя *"
+  email_label: "E-Mail *"
+  phone_label: "Телефон"
+  preferred_label: "Предпочтительный контакт"
+  preferred_email: "E-Mail"
+  preferred_phone: "Телефон"
+  message_label: "Сообщение *"
+  message_placeholder: "Коротко опишите, чем мы можем вам помочь."
+  privacy_text_before: "Я ознакомился(-ась) с"
+  privacy_link_text: "политикой конфиденциальности"
+  privacy_text_after: "и согласен(-на) на обратную связь."
+  submit_text_default: "Отправить запрос"
+  fallback_email_text: "Или напишите напрямую на E-Mail:"
+  status_sending: "Отправка ..."
+  status_success: "Спасибо! Ваш запрос отправлен."
+  status_error: "К сожалению, произошла ошибка. Напишите напрямую на natalia@eskyna.com."
+  status_turnstile: "Пожалуйста, подтвердите проверку Turnstile."
 ui:
   hero_headline_first: "Больше чувства стиля."
   hero_headline_second: "Меньше неудачных покупок."
