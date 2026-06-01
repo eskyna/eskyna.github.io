@@ -7,7 +7,7 @@ import sys
 
 def main() -> int:
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    cmd = [sys.executable, os.path.join(script_dir, "check-assets.py"), "--mode", "live", *sys.argv[1:]]
+    cmd = [sys.executable, os.path.join(script_dir, "check-assets.py"), "--mode", "local", *sys.argv[1:]]
     result = subprocess.run(cmd, check=False)
     return result.returncode
 

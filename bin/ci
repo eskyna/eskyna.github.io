@@ -20,8 +20,41 @@ cd "$ROOT_DIR"
 echo "==> Convert images..."
 ./bin/convert-images
 
-echo "==> Check live assets..."
-python3 ./bin/check-live-assets
+echo "==> Check local assets..."
+HUGO_PORT="$(python3 - <<'PY'
+import socket
+
+with socket.socket() as sock:
+    sock.bind(("127.0.0.1", 0))
+    print(sock.getsockname()[1])
+PY
+)"
+
+./bin/hugo_preview --port "$HUGO_PORT" >/tmp/ci-hugo-preview.log 2>&1 &
+HUGO_PID=$!
+cleanup_hugo() {
+  if kill -0 "$HUGO_PID" >/dev/null 2>&1; then
+    kill "$HUGO_PID" >/dev/null 2>&1 || true
+  fi
+}
+trap cleanup_hugo EXIT
+
+for _ in {1..30}; do
+  if HUGO_PORT="$HUGO_PORT" python3 - <<'PY' >/dev/null 2>&1
+import urllib.request
+import os
+
+urllib.request.urlopen(f"http://localhost:{os.environ['HUGO_PORT']}/", timeout=1)
+PY
+  then
+    break
+  fi
+  sleep 1
+done
+
+HUGO_PORT="$HUGO_PORT" python3 ./bin/check-local-assets --port "$HUGO_PORT"
+cleanup_hugo
+trap - EXIT
 
 echo "==> Check translation..."
 ./bin/check_translation
@@ -30,10 +63,10 @@ echo "==> Build production..."
 ./bin/build-production
 
 echo "==> Check empty hash links..."
-bash ./bin/check-empty-hash-links
+./bin/check-empty-hash-links
 
 echo "==> Check image references (404 guard)..."
-python3 ./bin/check-image-references
+./bin/check-image-references
 
 echo "==> Format (Prettier)..."
 yarn format

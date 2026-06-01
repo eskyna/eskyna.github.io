@@ -1,0 +1,382 @@
+#!/usr/bin/env python3
+
+import argparse
+import concurrent.futures
+import re
+import sys
+from collections import deque
+from dataclasses import dataclass
+from html.parser import HTMLParser
+from urllib.error import HTTPError, URLError
+from urllib.parse import unquote, urldefrag, urljoin, urlparse
+from urllib.request import Request, urlopen
+
+DEFAULT_LIVE_ORIGIN = "https://eskyna.com"
+DEFAULT_PATHS = ["/", "/estyle", "/about", "/impressum", "/datenschutz", "/shop", "/blog"]
+USER_AGENT = "eskyna-link-check/2.0"
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Crawl pages and verify links/assets including anchors."
+    )
+    parser.add_argument("urls", nargs="*", help="Optional start URLs")
+    parser.add_argument("--mode", choices=["live", "local"], default="live")
+    parser.add_argument("--origin", help="Override origin, e.g. https://eskyna.com or http://localhost:1313")
+    parser.add_argument("--port", type=int, default=1313, help="Local mode port (default: 1313)")
+    parser.add_argument("--max-pages", type=int, default=300)
+    parser.add_argument("--concurrency", type=int, default=10)
+    return parser.parse_args()
+
+
+def normalize_url(raw: str) -> str:
+    parsed = urlparse(raw)
+    path = parsed.path or "/"
+    has_ext = re.search(r"\.[a-zA-Z0-9]+$", path) is not None
+    if path != "/" and not path.endswith("/") and not has_ext:
+        path = f"{path}/"
+    cleaned = parsed._replace(path=path, fragment="")
+    return cleaned.geturl()
+
+
+def in_scope(url: str, origin: str, prefixes: list[str]) -> bool:
+    parsed = urlparse(url)
+    if f"{parsed.scheme}://{parsed.netloc}" != origin:
+        return False
+    for prefix in prefixes:
+        if prefix == "/":
+            return True
+        if parsed.path == prefix or parsed.path.startswith(f"{prefix}/"):
+            return True
+    return False
+
+
+def should_skip_ref(ref: str) -> bool:
+    if not ref:
+        return True
+    trimmed = ref.strip()
+    if not trimmed:
+        return True
+    lower = trimmed.lower()
+    if lower.startswith("mailto:"):
+        return True
+    if lower.startswith("tel:"):
+        return True
+    if lower.startswith("javascript:"):
+        return True
+    if lower.startswith("data:"):
+        return True
+    if lower.startswith("blob:"):
+        return True
+    if "${" in trimmed:
+        return True
+    if "livereload.js" in lower:
+        return True
+    return False
+
+
+def is_likely_html(url: str) -> bool:
+    path = urlparse(url).path.lower()
+    if path.endswith(".html") or path.endswith(".htm"):
+        return True
+    if path.endswith("/"):
+        return True
+    if "." not in path.rsplit("/", 1)[-1]:
+        return True
+    return False
+
+
+def parse_srcset(value: str) -> list[str]:
+    refs: list[str] = []
+    for part in value.split(","):
+        item = part.strip().split()[0] if part.strip() else ""
+        if item:
+            refs.append(item)
+    return refs
+
+
+@dataclass(frozen=True)
+class AnchorCheck:
+    source_page: str
+    href: str
+    target_page: str
+    fragment: str
+
+
+class LinkExtractor(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.page_links: list[str] = []
+        self.asset_links: list[str] = []
+        self.anchor_targets: set[str] = set()
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attr_map = {k.lower(): (v or "") for k, v in attrs}
+
+        element_id = attr_map.get("id", "").strip()
+        if element_id:
+            self.anchor_targets.add(element_id)
+
+        if tag.lower() == "a":
+            name_attr = attr_map.get("name", "").strip()
+            if name_attr:
+                self.anchor_targets.add(name_attr)
+
+        def add_attr_ref(key: str, as_page_link: bool = False) -> None:
+            ref = attr_map.get(key, "").strip()
+            if not ref or should_skip_ref(ref):
+                return
+            if as_page_link:
+                self.page_links.append(ref)
+            else:
+                self.asset_links.append(ref)
+
+        lower_tag = tag.lower()
+        if lower_tag == "a":
+            add_attr_ref("href", as_page_link=True)
+        elif lower_tag in {"img", "script", "video", "audio", "iframe", "embed", "source"}:
+            add_attr_ref("src")
+        elif lower_tag == "video":
+            add_attr_ref("poster")
+        elif lower_tag == "object":
+            add_attr_ref("data")
+        elif lower_tag == "link":
+            add_attr_ref("href")
+
+        if "srcset" in attr_map:
+            for ref in parse_srcset(attr_map["srcset"]):
+                if not should_skip_ref(ref):
+                    self.asset_links.append(ref)
+
+
+def fetch(url: str, method: str = "GET", timeout: int = 20, headers: dict | None = None):
+    all_headers = {"User-Agent": USER_AGENT}
+    if headers:
+        all_headers.update(headers)
+    req = Request(url, method=method, headers=all_headers)
+    try:
+        with urlopen(req, timeout=timeout) as resp:
+            body = resp.read()
+            content_type = resp.headers.get("Content-Type", "")
+            return resp.status, content_type, body, None
+    except HTTPError as err:
+        return err.code, err.headers.get("Content-Type", ""), b"", str(err)
+    except URLError as err:
+        return 0, "", b"", str(err)
+    except Exception as err:  # noqa: BLE001
+        return 0, "", b"", str(err)
+
+
+def decode_body(body: bytes, content_type: str) -> str:
+    charset = "utf-8"
+    match = re.search(r"charset=([a-zA-Z0-9_-]+)", content_type)
+    if match:
+        charset = match.group(1)
+    return body.decode(charset, errors="replace")
+
+
+def check_loadable(url: str) -> tuple[bool, int, str]:
+    status, _, _, err = fetch(url, method="HEAD")
+    if 200 <= status < 400:
+        return True, status, "HEAD"
+    if status in (403, 405, 501, 0):
+        status, _, _, err = fetch(url, method="GET", headers={"Range": "bytes=0-0"})
+        return 200 <= status < 400, status, err or "GET"
+    return False, status, err or "HEAD"
+
+
+def build_start_urls(origin: str) -> list[str]:
+    start_urls: list[str] = []
+    for path in DEFAULT_PATHS:
+        if path == "/":
+            start_urls.append(origin)
+        else:
+            start_urls.append(f"{origin}{path}")
+    return start_urls
+
+
+def resolve_start_urls(args: argparse.Namespace) -> list[str]:
+    if args.urls:
+        return args.urls
+
+    if args.origin:
+        origin = args.origin.rstrip("/")
+    elif args.mode == "local":
+        origin = f"http://localhost:{args.port}"
+    else:
+        origin = DEFAULT_LIVE_ORIGIN
+
+    if args.mode == "local" and not args.urls:
+        status, _, _, _ = fetch(f"{origin}/", timeout=5)
+        if status != 200:
+            print(f"Error: Server not running on {origin}/", file=sys.stderr)
+            print("Start Hugo preview with: ./bin/hugo_preview", file=sys.stderr)
+            raise SystemExit(1)
+
+    return build_start_urls(origin)
+
+
+def main() -> int:
+    args = parse_args()
+    start_urls = resolve_start_urls(args)
+    max_pages = max(1, args.max_pages)
+    concurrency = max(1, args.concurrency)
+
+    first = urlparse(start_urls[0])
+    origin = f"{first.scheme}://{first.netloc}"
+
+    prefixes: list[str] = []
+    for raw in start_urls:
+        parsed = urlparse(raw)
+        current_origin = f"{parsed.scheme}://{parsed.netloc}"
+        if current_origin != origin:
+            print("All start URLs must share the same origin.", file=sys.stderr)
+            return 1
+        prefix = parsed.path.rstrip("/") or "/"
+        if prefix not in prefixes:
+            prefixes.append(prefix)
+
+    print(f"Checking {len(start_urls)} start URLs on {origin}")
+    print(f"Scope prefixes: {', '.join(prefixes)}")
+
+    queue: deque[str] = deque(normalize_url(u) for u in start_urls)
+    visited_pages: set[str] = set()
+    page_anchors: dict[str, set[str]] = {}
+    asset_candidates: set[str] = set()
+    anchor_checks: set[AnchorCheck] = set()
+    failures: list[dict] = []
+
+    while queue and len(visited_pages) < max_pages:
+        page_url = queue.popleft()
+        if page_url in visited_pages:
+            continue
+        if not in_scope(page_url, origin, prefixes):
+            continue
+
+        visited_pages.add(page_url)
+        sys.stdout.write(f"\rCrawled pages: {len(visited_pages)}")
+        sys.stdout.flush()
+
+        status, content_type, body, err = fetch(page_url, method="GET")
+        if not (200 <= status < 400):
+            failures.append({"type": "page", "url": page_url, "status": status, "detail": err or "GET failed"})
+            continue
+
+        if "text/html" not in content_type.lower():
+            continue
+
+        html = decode_body(body, content_type)
+        parser = LinkExtractor()
+        parser.feed(html)
+        page_anchors[page_url] = parser.anchor_targets
+
+        for ref in parser.page_links:
+            if should_skip_ref(ref):
+                continue
+
+            resolved = urljoin(page_url, ref)
+            base, fragment = urldefrag(resolved)
+            normalized_base = normalize_url(base)
+
+            if in_scope(normalized_base, origin, prefixes):
+                if is_likely_html(normalized_base):
+                    if normalized_base not in visited_pages:
+                        queue.append(normalized_base)
+                else:
+                    asset_candidates.add(normalized_base)
+
+            if fragment and in_scope(normalized_base, origin, prefixes) and is_likely_html(normalized_base):
+                anchor_checks.add(
+                    AnchorCheck(
+                        source_page=page_url,
+                        href=ref,
+                        target_page=normalized_base,
+                        fragment=unquote(fragment),
+                    )
+                )
+
+        for ref in parser.asset_links:
+            if should_skip_ref(ref):
+                continue
+            resolved = normalize_url(urljoin(page_url, urldefrag(ref)[0]))
+            if in_scope(resolved, origin, prefixes):
+                asset_candidates.add(resolved)
+
+    print(f"\nPages crawled: {len(visited_pages)}")
+    print(f"Unique in-scope assets to check: {len(asset_candidates)}")
+    print(f"Anchor references to check: {len(anchor_checks)}")
+    total_checked = len(visited_pages) + len(asset_candidates) + len(anchor_checks)
+    print(f"checked: {total_checked}")
+
+    def check_one_asset(url: str):
+        ok, status, detail = check_loadable(url)
+        return url, ok, status, detail
+
+    checked = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=concurrency) as executor:
+        future_to_url = {executor.submit(check_one_asset, url): url for url in sorted(asset_candidates)}
+        for future in concurrent.futures.as_completed(future_to_url):
+            url, ok, status, detail = future.result()
+            checked += 1
+            if not ok:
+                failures.append({"type": "asset", "url": url, "status": status, "detail": detail})
+            if checked % 25 == 0 or checked == len(asset_candidates):
+                sys.stdout.write(f"\rChecked assets: {checked}/{len(asset_candidates)}")
+                sys.stdout.flush()
+    if asset_candidates:
+        print()
+
+    anchor_cache = dict(page_anchors)
+    for item in sorted(anchor_checks, key=lambda x: (x.target_page, x.fragment, x.source_page)):
+        if item.target_page not in anchor_cache:
+            status, content_type, body, err = fetch(item.target_page, method="GET")
+            if not (200 <= status < 400):
+                failures.append(
+                    {
+                        "type": "anchor",
+                        "url": f"{item.source_page} -> {item.href}",
+                        "status": status,
+                        "detail": f"target page unavailable ({err or 'GET failed'})",
+                    }
+                )
+                continue
+            if "text/html" not in content_type.lower():
+                failures.append(
+                    {
+                        "type": "anchor",
+                        "url": f"{item.source_page} -> {item.href}",
+                        "status": status,
+                        "detail": "target is not HTML",
+                    }
+                )
+                continue
+            parser = LinkExtractor()
+            parser.feed(decode_body(body, content_type))
+            anchor_cache[item.target_page] = parser.anchor_targets
+
+        if item.fragment not in anchor_cache[item.target_page]:
+            failures.append(
+                {
+                    "type": "anchor",
+                    "url": f"{item.source_page} -> {item.href}",
+                    "status": 404,
+                    "detail": f"missing anchor '#{item.fragment}' on {item.target_page}",
+                }
+            )
+
+    if not failures:
+        print("All checked pages/assets/anchors are loadable.")
+        return 0
+
+    failures.sort(key=lambda x: (x["status"], x["type"], x["url"]))
+    print(f"Found {len(failures)} failing URLs:")
+    for failure in failures:
+        status = failure["status"] if failure["status"] else "ERR"
+        detail = f" ({failure['detail']})" if failure.get("detail") else ""
+        print(f"- [{failure['type']}] {status} {failure['url']}{detail}")
+
+    return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
