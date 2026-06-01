@@ -11,7 +11,7 @@ title = "ESKYNA | Style & Image Coaching"
   [languages.de]
     title = "ESKYNA | Style & Image Coaching"
     locale = "de-DE"
-    languageName = "Deutsch"
+    label = "Deutsch"
     weight = 1
     contentDir = "content/de"
     [languages.de.params]
@@ -21,7 +21,7 @@ title = "ESKYNA | Style & Image Coaching"
   [languages.ru]
     title = "ESKYNA | Имидж-коучинг"
     locale = "ru-RU"
-    languageName = "Русский"
+    label = "Русский"
     weight = 2
     contentDir = "content/ru"
     [languages.ru.params]
