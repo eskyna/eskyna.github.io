@@ -1,0 +1,79 @@
+# Contact form defaults
+[cf_offer_default]
+other = "Общий запрос"
+
+[cf_privacy_href]
+other = "/ru/datenschutz/"
+
+[cf_name_label]
+other = "Имя *"
+
+[cf_email_label]
+other = "Эл. почта *"
+
+[cf_phone_label]
+other = "Телефон"
+
+[cf_preferred_label]
+other = "Предпочтительный способ связи"
+
+[cf_preferred_email]
+other = "Эл. почта"
+
+[cf_preferred_phone]
+other = "Телефон"
+
+[cf_message_label]
+other = "Сообщение *"
+
+[cf_message_placeholder]
+other = "Коротко опишите, чем мы можем вам помочь."
+
+[cf_privacy_text_before]
+other = "Я ознакомлен(а) с"
+
+[cf_privacy_link_text]
+other = "политикой конфиденциальности"
+
+[cf_privacy_text_after]
+other = "и согласен(согласна) на обработку данных для ответа на мой запрос."
+
+[cf_submit_default]
+other = "Отправить запрос"
+
+[cf_fallback_email_text]
+other = "Или напишите напрямую на эл. почту:"
+
+[cf_status_sending]
+other = "Отправка ..."
+
+[cf_status_success]
+other = "Спасибо! Ваш запрос отправлен."
+
+[cf_status_error]
+other = "К сожалению, произошла ошибка. Напишите напрямую на {{ . }}."
+
+[cf_status_turnstile]
+other = "Пожалуйста, подтвердите проверку Turnstile."
+
+[cf_email_invalid]
+other = "Пожалуйста, введите корректный адрес электронной почты."
+
+# Contact modal
+[contact_modal_close]
+other = "Закрыть форму"
+
+[contact_modal_title]
+other = "Сообщение для Наталии"
+
+# Footer
+[footer_a11y]
+other = "Доступность Специальные возможности Экранный диктор Управление с клавиатуры A11Y"
+
+# Social links
+[contact_form_label]
+other = "Контактная форма"
+
+# Alias page
+[alias_keywords]
+other = "Доступность, Специальные возможности, Экранный диктор, Управление с клавиатуры, A11Y"

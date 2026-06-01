@@ -1,0 +1,79 @@
+# Contact form defaults
+[cf_offer_default]
+other = "Allgemeine Anfrage"
+
+[cf_privacy_href]
+other = "/datenschutz/"
+
+[cf_name_label]
+other = "Name *"
+
+[cf_email_label]
+other = "E-Mail *"
+
+[cf_phone_label]
+other = "Telefon"
+
+[cf_preferred_label]
+other = "Bevorzugter Kontakt"
+
+[cf_preferred_email]
+other = "E-Mail"
+
+[cf_preferred_phone]
+other = "Telefon"
+
+[cf_message_label]
+other = "Nachricht *"
+
+[cf_message_placeholder]
+other = "Beschreibe kurz, wobei ich dich unterstützen kann."
+
+[cf_privacy_text_before]
+other = "Ich habe die"
+
+[cf_privacy_link_text]
+other = "Datenschutzerklärung"
+
+[cf_privacy_text_after]
+other = "gelesen und bin mit der Kontaktaufnahme einverstanden."
+
+[cf_submit_default]
+other = "Anfrage senden"
+
+[cf_fallback_email_text]
+other = "Oder schreib mir direkt per E-Mail:"
+
+[cf_status_sending]
+other = "Wird gesendet ..."
+
+[cf_status_success]
+other = "Danke! Deine Anfrage wurde gesendet."
+
+[cf_status_error]
+other = "Leider gab es ein Problem. Bitte schreib direkt an {{ . }}."
+
+[cf_status_turnstile]
+other = "Bitte bestätige die Turnstile-Prüfung."
+
+[cf_email_invalid]
+other = "Bitte gib eine gültige E-Mail-Adresse ein."
+
+# Contact modal
+[contact_modal_close]
+other = "Kontaktformular schließen"
+
+[contact_modal_title]
+other = "Nachricht an Natalia"
+
+# Footer
+[footer_a11y]
+other = "Barrierefreiheit Accessibility Screenreader Tastaturbedienung A11Y"
+
+# Social links
+[contact_form_label]
+other = "Kontaktformular"
+
+# Alias page
+[alias_keywords]
+other = "Barrierefreiheit, Accessibility, Screenreader, Tastaturbedienung, A11Y"

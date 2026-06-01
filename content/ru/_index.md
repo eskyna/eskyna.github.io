@@ -1,13 +1,13 @@
 ---
 title: "Natalia Kleemann"
-seoTitle: "ESKYNA | Стиль и имидж-коучинг онлайн"
+seoTitle: "ESKYNA | Консультации по стилю и имиджу онлайн"
 hero:
-  eyebrow: "Natalia Kleemann | Коуч по стилю и имиджу"
-  headline: "Одежда, которая подходит именно к вашей жизни."
-  detail_1: 'Больше <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-stilgefuehl">чувства стиля</button><span id="tooltip-stilgefuehl" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Чувство стиля</strong><strong class="inline-term-tooltip-lead">Вы хотите хорошо одеваться, но вам не хватает понятной системы.</strong><span class="inline-term-tooltip-text">Чувство стиля — это умение понимать, что действительно вам подходит, независимо от трендов и спонтанных импульсов. Оно объединяет цвета, силуэты, пропорции и ваши предпочтения в цельный и аутентичный образ.</span></span></span>. Меньше <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-fehlkaeufe">неудачных покупок</button><span id="tooltip-fehlkaeufe" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Неудачные покупки</strong><strong class="inline-term-tooltip-lead">Шкаф полон, но многие вещи не ощущаются как «ваши».</strong><span class="inline-term-tooltip-text">Неудачные покупки часто возникают, когда вещь выглядит красиво, но не подходит к вашему ритму жизни, фигуре, цветам или стилю. Так накапливаются отдельные вещи без рабочих комплектов.</span></span></span>.'
-  detail_2: 'Для женщин и мужчин, которые ценят <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-qualitaet">качество</button><span id="tooltip-qualitaet" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Качество</strong><strong class="inline-term-tooltip-lead">Меньше ошибочных покупок — больше места для действительно хороших вещей.</strong><span class="inline-term-tooltip-text">Когда вы понимаете, что вам действительно подходит, вы покупаете меньше и осознаннее инвестируете в качественные ткани, хорошую посадку и долговечные любимые вещи.</span></span></span> и <span class="inline-term-tooltip inline-term-tooltip-start"><button class="inline-term-tooltip-trigger" type="button" aria-describedby="tooltip-wirkung">впечатление</button><span id="tooltip-wirkung" class="inline-term-tooltip-panel" role="tooltip"><strong class="inline-term-tooltip-title">Впечатление</strong><strong class="inline-term-tooltip-lead">Первое впечатление формируется раньше, чем вы озвучите первый аргумент.</strong><span class="inline-term-tooltip-text">Одежда, цвета и стиль влияют на то, насколько уверенно, располагающе, компетентно и аутентично вы воспринимаетесь.</span></span></span>.'
-  detail_3: "<br><br>Давайте начнем вместе."
-  ctaText: "Бесплатная первая консультация"
+  eyebrow: "Natalia Kleemann | Консультации по стилю и имиджу"
+  headline: "Больше уверенности в стиле."
+  detail_1: "Меньше неудачных покупок."
+  detail_2: "Онлайн- и офлайн-консультации по стилю и имиджу для женщин и мужчин, которые ценят качество, ясность и уверенное впечатление."
+  detail_3: ""
+  ctaText: "Забронировать бесплатную первую консультацию"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   ctaTooltip:
     title: "Бесплатно и без обязательств"
@@ -39,7 +39,7 @@ problems:
       text: "Вы все еще ищете идеальную прическу и макияж для своего типа."
       icon: "images/problems/svg/DasGewisseEtwas.svg"
 results:
-  title: "Что вы получите благодаря сотрудничеству со мной"
+  title: "Что вы получите после консультации"
   background: "images/editorial/style-background.png"
   items:
     - title: "Образы, которые действительно вам подходят"
@@ -71,7 +71,7 @@ process:
       text: "Образы, которые подходят и ощущаются «вашими»."
   outro: "Точный процесс зависит от выбранного предложения, но цель всегда одна: стиль, который облегчает повседневность и усиливает ваше впечатление."
 coach:
-  promiseHeading: "Миссия и стиль-обещание"
+  promiseHeading: "Миссия ESKYNA"
   eyebrow: "Персональный коуч по стилю и имиджу"
   name: "Natalia Kleemann"
   statement: "Меньше неудачных покупок.<br>Больше качества.<br>Гардероб, который работает в долгую."
@@ -120,45 +120,45 @@ services:
         price: "от 49 €"
         ctaText: "Задать вопрос о стиле"
         ctaHref: "/ru/stilfrage/"
-      - title: "ESKYNA Gutschein"
+      - title: "Подарочный сертификат ESKYNA"
         text: "Подарить консультацию по стилю: личный подарок для большей ясности, чувства стиля и уверенных решений в повседневной жизни."
         price: "от 149 €"
-        ctaText: "Узнать больше об ESKYNA Gutschein"
+        ctaText: "Подробнее о подарочном сертификате"
         ctaHref: "/ru/gutschein/"
 
   packages:
     title: "Выберите предложение, которое соответствует вашему следующему шагу"
     items:
-      - name: "ESKYNA Stilgefühl"
+      - name: "ESKYNA Stilgefühl — Чувство стиля"
         headline: "Для большей ясности в том, что вам действительно подходит"
         price: "390 €"
         result: "Вы покупаете осознаннее, комбинируете увереннее и развиваете большее доверие к своему стилю."
-        ctaText: "Узнать больше об ESKYNA Stilgefühl"
+        ctaText: "Подробнее о программе «Чувство стиля»"
         ctaHref: "/ru/stilgefuehl/"
         featured: false
 
-      - name: "ESKYNA Stilgarderobe"
+      - name: "ESKYNA Stilgarderobe — Стильный гардероб"
         headline: "Для гардероба, который соответствует вам и вашей жизни"
         price: "890 €"
         badge: "Самый популярный выбор"
         result: "Больше работающих образов, больше ясности и меньше стресса перед шкафом."
-        ctaText: "Узнать больше об ESKYNA Stilgarderobe"
+        ctaText: "Подробнее о программе «Стильный гардероб»"
         ctaHref: "/ru/stilgarderobe/"
         featured: true
 
-      - name: "ESKYNA Präsenz"
+      - name: "ESKYNA Präsenz — Профессиональный образ"
         headline: "Для вашего профессионального позиционирования"
         price: "1.490 €"
         result: "Образ, который показывает, кто вы, какую экспертизу представляете и какие ценности транслируете."
-        ctaText: "Узнать больше об ESKYNA Präsenz"
+        ctaText: "Подробнее о программе «Профессиональный образ»"
         ctaHref: "/ru/praesenz/"
         featured: false
 
-      - name: "ESKYNA Begleitung"
+      - name: "ESKYNA Begleitung — Сопровождение"
         headline: "Для повседневных вопросов о стиле и образе, который развивается вместе с вами"
         price: "Индивидуально по запросу"
         result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гармоничнее."
-        ctaText: "Запросить ESKYNA Begleitung"
+        ctaText: "Запросить сопровождение"
         ctaHref: "/ru/begleitung/"
         featured: false
 
@@ -173,19 +173,19 @@ services:
         - situation: "получить ответ на конкретный вопрос о стиле"
           offer: "Вопрос стилисту"
         - situation: "узнать, что вам действительно подходит"
-          offer: "ESKYNA Stilgefühl"
+          offer: "Чувство стиля"
         - situation: "пересобрать свой гардероб"
-          offer: "ESKYNA Stilgarderobe"
+          offer: "Стильный гардероб"
         - situation: "выглядеть профессиональнее"
-          offer: "ESKYNA Präsenz"
+          offer: "Профессиональный образ"
         - situation: "получить постоянную поддержку в стилевых вопросах"
-          offer: "ESKYNA Begleitung"
+          offer: "Сопровождение"
         - situation: "подарить консультацию по стилю"
-          offer: "ESKYNA Gutschein"
+          offer: "Подарочный сертификат"
 
   after:
     title: "Что изменится после консультации"
-    text: "После работы с Натальей вы знаете не только, что вам подходит — вы также понимаете, почему."
+    text: "После работы с Наталией вы знаете не только, что вам подходит — вы также понимаете, почему."
     items:
       - "Вы узнаете, какие цвета, силуэты и комбинации вас усиливают"
       - "Вы используете имеющуюся одежду осознаннее"
@@ -196,11 +196,11 @@ services:
 
   uncertainty:
     title: "Не уверены, какое предложение выбрать?"
-    text: "Начните с бесплатной первой консультации. Вместе Наталья посмотрит на вашу ситуацию, ваши желания и наиболее подходящий следующий шаг."
+    text: "Начните с бесплатной первой консультации. Вместе Наталия посмотрит на вашу ситуацию, ваши желания и наиболее подходящий следующий шаг."
     ctaText: "Забронировать бесплатную консультацию"
     ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 references:
-  title: "Рекомендации и достижения"
+  title: "Партнеры, программы и достижения"
   subtitle: "Доверие через опыт."
   items:
     - name: "EXIST Women 2025"
@@ -255,25 +255,25 @@ contact:
 contact_form:
   privacy_href: "/ru/datenschutz/"
   name_label: "Имя *"
-  email_label: "E-Mail *"
+  email_label: "Эл. почта *"
   phone_label: "Телефон"
-  preferred_label: "Предпочтительный контакт"
-  preferred_email: "E-Mail"
+  preferred_label: "Предпочтительный способ связи"
+  preferred_email: "Эл. почта"
   preferred_phone: "Телефон"
   message_label: "Сообщение *"
   message_placeholder: "Коротко опишите, чем мы можем вам помочь."
-  privacy_text_before: "Я ознакомился(-ась) с"
+  privacy_text_before: "Я ознакомлен(а) с"
   privacy_link_text: "политикой конфиденциальности"
-  privacy_text_after: "и согласен(-на) на обратную связь."
+  privacy_text_after: "и согласен(согласна) на обработку данных для ответа на мой запрос."
   submit_text_default: "Отправить запрос"
-  fallback_email_text: "Или напишите напрямую на E-Mail:"
-  status_sending: "Отправка ..."
+  fallback_email_text: "Или напишите напрямую на эл. почту:"
+  status_sending: "Отправка..."
   status_success: "Спасибо! Ваш запрос отправлен."
   status_error: "К сожалению, произошла ошибка. Напишите напрямую на natalia@eskyna.com."
   email_invalid: "Пожалуйста, введите корректный адрес электронной почты (например, name@example.com)."
   status_turnstile: "Пожалуйста, подтвердите проверку Turnstile."
 ui:
-  hero_headline_first: "Больше чувства стиля."
+  hero_headline_first: "Больше уверенности в стиле."
   hero_headline_second: "Меньше неудачных покупок."
   hero_coach_title_extra: "Онлайн и офлайн"
   clover_symbol_alt: "Символ клевера ESKYNA"
@@ -282,10 +282,10 @@ ui:
   privacy_clover_alt: "Клевер ESKYNA"
   method_symbol_prefix: "Символ для"
   coach_promise_heading_default: "Стилевое обещание Наталии"
-  hero_image_alt: "Портрет Natalia Kleemann"
-  coach_image_alt: "Natalia Kleemann"
-  signature_alt: "Подпись Natalia Kleemann"
-  contact_email_label: "E-mail:"
+  hero_image_alt: "Портрет Наталии Клеманн"
+  coach_image_alt: "Наталия Клеманн"
+  signature_alt: "Подпись Наталии Клеманн"
+  contact_email_label: "Эл. почта:"
   free_tier_name: "Начать бесплатно"
   offers_intro: "Выберите формат старта, который подходит вашей текущей ситуации. Предложения разделены на понятные уровни."
   result_label: "Результат:"
@@ -318,6 +318,6 @@ ui:
   free_highlights_title: "Преимущества бесплатных предложений"
   free_highlight_1: "Чтобы лучше понять свой стиль"
   free_highlight_2: "Практично и сразу применимо"
-  free_highlight_3: "От персонального стилиста Natalia Kleemann"
+  free_highlight_3: "От персонального стилиста Наталии Клеманн"
   free_highlight_4: "100% бесплатно и без обязательств"
 ---
