@@ -11,7 +11,7 @@
 {{ $audioDescription := or $pageUI.audio_description $sectionUI.audio_description $homeUI.audio_description "Diesen Beitrag als Audio-Version" }}
 {{ $categoryText := or $pageUI.category_text $sectionUI.category_text $homeUI.category_text "Farbe & Stil" }}
 {{ $looksText := or $pageUI.looks_text $sectionUI.looks_text $homeUI.looks_text "Looks ansehen" }}
-{{ $looksAnchor := or $pageUI.looks_anchor $sectionUI.looks_anchor $homeUI.looks_anchor "drei-outfit-kapseln" }}
+{{ $looksAnchor := or $pageUI.looks_anchor $sectionUI.looks_anchor $homeUI.looks_anchor "" }}
 {{ $instagramText := or $pageUI.instagram_text $sectionUI.instagram_text $homeUI.instagram_text "Instagram-Beitrag" }}
 {{ $audioRes := .Resources.GetMatch "reading.mp3" }}
 {{ $displayReadingTime := .ReadingTime }}
@@ -48,7 +48,9 @@
           {{ with $audioRes }}
             <a class="btn" href="{{ .RelPermalink }}" title="{{ $audioLabel }}">{{ $audioLabel }}</a>
           {{ end }}
-          <a class="btn btn-soft" href="#{{ $looksAnchor }}" title="{{ $looksText }}">{{ $looksText }}</a>
+          {{ if $looksAnchor }}
+            <a class="btn btn-soft" href="#{{ $looksAnchor }}" title="{{ $looksText }}">{{ $looksText }}</a>
+          {{ end }}
         </div>
       </div>
 

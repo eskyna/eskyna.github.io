@@ -13,6 +13,7 @@ tags:
   - образ
   - консультация_по_стилю
 ui:
+  looks_anchor: "три-капсулы-образов"
   color_scale_aria_label: "Шкала оттенков розового"
   color_scale_swatches:
     - name: "Пудрово-розовый"

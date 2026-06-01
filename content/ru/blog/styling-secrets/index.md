@@ -9,20 +9,20 @@ category: "Стиль и впечатление"
 readingTime: 8
 instagramHref: "https://www.instagram.com/p/DYg0QTuKc6z/"
 tags:
-   - Секреты стиля
-   - Консультация по стилю
-   - Style Coach
-   - Image Coach
-   - Personal Style
-   - Харизма
-   - Personal Branding
-   - Business Style
-   - Капсульный гардероб
-   - Minimal Style
-   - Mens Style
-   - Fashion Psychology
-   - ESKYNA
-   - EskynaStyle
+  - Секреты стиля
+  - Консультация по стилю
+  - Style Coach
+  - Image Coach
+  - Personal Style
+  - Харизма
+  - Personal Branding
+  - Business Style
+  - Капсульный гардероб
+  - Minimal Style
+  - Mens Style
+  - Fashion Psychology
+  - ESKYNA
+  - EskynaStyle
 ui:
   video_fallback_text: "Ваш браузер не поддерживает видео."
 ---

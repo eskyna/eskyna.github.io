@@ -13,6 +13,7 @@ tags:
   - outfit
   - stilberatung
 ui:
+  looks_anchor: "drei-outfit-kapseln"
   color_scale_aria_label: "Rosa-Farbskala"
   color_scale_swatches:
     - name: "Powder Pink"
