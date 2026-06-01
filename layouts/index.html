@@ -21,6 +21,8 @@
 {{ $coachImageTitle := or $ui.coach_image_title "Natalia Kleemann" }}
 {{ $coachPromiseHeadingDefault := or $ui.coach_promise_heading_default "Natalias Stilversprechen" }}
 {{ $coachSignatureAlt := or $ui.signature_alt "Signatur Natalia" }}
+{{ $priceLabelFinal := i18n "price_label_final" }}
+{{ $priceLabelTooltip := i18n "price_label_tooltip" }}
 <main class="home-main">
   <section class="hero">
     <!-- Hero Topbar: Logo + Name | Language & Social Links -->
@@ -192,7 +194,8 @@
                 </div>
               {{ end }}
               <h4>{{ $item.title }}</h4>
-              {{ if $item.price }}<p class="free-offer-price">{{ $item.price }}</p>{{ end }}
+              {{ $showPriceLabel := and $item.price (not (in $item.price "Individuell auf Anfrage")) (not (in $item.price "Индивидуально по запросу")) }}
+              {{ if $item.price }}<p class="free-offer-price">{{ $item.price }}{{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>{{ end }}
               <p>{{ $item.text }}</p>
               <span class="btn">{{ $ctaText }}</span>
             </a>
@@ -221,7 +224,8 @@
                 </div>
               {{ end }}
               <h4>{{ $item.title }}</h4>
-              {{ if $item.price }}<p class="free-offer-price">{{ $item.price }}</p>{{ end }}
+              {{ $showPriceLabel := and $item.price (not (in $item.price "Individuell auf Anfrage")) (not (in $item.price "Индивидуально по запросу")) }}
+              {{ if $item.price }}<p class="free-offer-price">{{ $item.price }}{{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>{{ end }}
               <p>{{ $item.text }}</p>
               <span class="btn">{{ $ctaText }}</span>
             </a>
@@ -239,12 +243,13 @@
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
             {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
             {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            {{ $showPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
             <a class="package-card package-card-link {{ if .featured }}package-card-featured{{ end }}" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
               {{ if .badge }}
                 <div class="package-badge">{{ .badge }}</div>
               {{ end }}
               <p class="package-name">{{ .name }}</p>
-              <p class="package-price">{{ .price }}</p>
+              <p class="package-price">{{ .price }}{{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>
               <h4 class="package-headline">{{ .headline }}</h4>
               {{ with .description }}
                 <p class="package-description">{{ . }}</p>

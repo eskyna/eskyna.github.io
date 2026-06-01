@@ -77,3 +77,10 @@ other = "Kontaktformular"
 # Alias page
 [alias_keywords]
 other = "Barrierefreiheit, Accessibility, Screenreader, Tastaturbedienung, A11Y"
+
+# Pricing
+[price_label_final]
+other = "Endpreis"
+
+[price_label_tooltip]
+other = "Die angegebenen Preise sind Endpreise für die beschriebenen Leistungen. Aufgrund der Umsatzsteuerbefreiung nach § 19 UStG erfolgt kein Ausweis von Umsatzsteuer."

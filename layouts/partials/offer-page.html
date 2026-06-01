@@ -15,6 +15,9 @@
 {{ $variantsHeading := or .Params.variants_heading (or $ui.variants_heading "Choose the right format") }}
 {{ $normalizedOffersHref := strings.TrimPrefix "/" $offersHref }}
 {{ $resolvedOffersHref := cond (hasPrefix $offersHref "#") $offersHref ($normalizedOffersHref | relURL) }}
+{{ $priceLabelFinal := i18n "price_label_final" }}
+{{ $priceLabelTooltip := i18n "price_label_tooltip" }}
+{{ $showOfferPriceLabel := and $offer.price (not (in $offer.price "Individuell auf Anfrage")) (not (in $offer.price "Индивидуально по запросу")) }}
 
 <main class="page page-offer">
   <section class="offer-hero">
@@ -31,7 +34,7 @@
           </div>
 
           <div class="offer-hero-meta">
-            <p class="offer-hero-price"><strong>{{ $offer.price }}</strong></p>
+            <p class="offer-hero-price"><strong>{{ $offer.price }}</strong>{{ if $showOfferPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>
             {{ if $offer.badge }}
               <p class="offer-hero-badge">{{ $offer.badge }}</p>
             {{ end }}
@@ -149,9 +152,10 @@
       <h2>{{ $variantsHeading }}</h2>
       <div class="offer-variants-grid">
         {{ range $variants }}
+          {{ $showVariantPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
           <article class="offer-variant-card">
             <h3>{{ .title }}</h3>
-            <p class="variant-price"><strong>{{ .price }}</strong></p>
+            <p class="variant-price"><strong>{{ .price }}</strong>{{ if $showVariantPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>
             {{ if .description }}
               <div class="prose">
                 {{ .description | markdownify }}
