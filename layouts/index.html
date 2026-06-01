@@ -170,43 +170,62 @@
         <p class="offers-free-intro">{{ . }}</p>
         {{ end }}
         <div class="offers-free-grid">
-          {{ range $idx, $item := $services.free.items }}
+          {{ range $idx, $item := first 2 $services.free.items }}
             {{ $itemTitle := $item.title }}
             {{ $ctaHref := or $item.ctaHref "#kontakt" }}
             {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
             {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
             {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
-            <article class="free-offer-card">
-              {{ with $item.image }}
-                {{ $imagePath := . }}
-                <a class="free-offer-media-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
-                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
-                </a>
+            {{ $imagePath := $item.image }}
+            {{ if not $imagePath }}
+              {{ if in $itemTitle "Stilfrage" }}
+                {{ $imagePath = "images/Stilfrage.png" }}
+              {{ else if in $itemTitle "Gutschein" }}
+                {{ $imagePath = "images/Gutschein.png" }}
+              {{ end }}
+            {{ end }}
+            <a class="free-offer-card free-offer-card-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+              {{ if $imagePath }}
+                <div class="free-offer-media">
+                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png") (hasSuffix $imagePath "Stilfrage.png") (hasSuffix $imagePath "Gutschein.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
+                </div>
               {{ end }}
               <h4>{{ $item.title }}</h4>
+              {{ if $item.price }}<p class="free-offer-price">{{ $item.price }}</p>{{ end }}
               <p>{{ $item.text }}</p>
-              <a class="btn" href="{{ $resolvedHref }}" title="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $ctaText }}</a>
-            </article>
+              <span class="btn">{{ $ctaText }}</span>
+            </a>
           {{ end }}
         </div>
-        <div class="offers-free-highlights" aria-label="{{ $ui.free_highlights_title }}">
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/klarheit_stern.svg" | relURL }}" alt="Klarheit Symbol" class="offers-free-highlight-icon" loading="lazy" width="56" height="56">
-            <p>{{ $ui.free_highlight_1 }}</p>
-          </article>
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/praxisnah_herz.svg" | relURL }}" alt="Praxisnah Symbol" class="offers-free-highlight-icon" loading="lazy" width="56" height="56">
-            <p>{{ $ui.free_highlight_2 }}</p>
-          </article>
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/personal_stylistin_diamant.svg" | relURL }}" alt="Personal Stylistin Symbol" class="offers-free-highlight-icon" loading="lazy" width="56" height="56">
-            <p>{{ $ui.free_highlight_3 }}</p>
-          </article>
-          <article class="offers-free-highlight-item">
-            <img src="{{ "images/kostenlos_geschenk.svg" | relURL }}" alt="Kostenlos Geschenk Symbol" class="offers-free-highlight-icon" loading="lazy" width="56" height="56">
-            <p>{{ $ui.free_highlight_4 }}</p>
-          </article>
+        <div class="offers-free-grid offers-free-grid-secondary">
+          {{ range $idx, $item := after 2 $services.free.items }}
+            {{ $itemTitle := $item.title }}
+            {{ $ctaHref := or $item.ctaHref "#kontakt" }}
+            {{ $ctaText := or $item.ctaText $ui.default_cta_text }}
+            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+            {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            {{ $imagePath := $item.image }}
+            {{ if not $imagePath }}
+              {{ if in $itemTitle "Stilfrage" }}
+                {{ $imagePath = "images/Stilfrage.png" }}
+              {{ else if in $itemTitle "Gutschein" }}
+                {{ $imagePath = "images/Gutschein.png" }}
+              {{ end }}
+            {{ end }}
+            <a class="free-offer-card free-offer-card-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+              {{ if $imagePath }}
+                <div class="free-offer-media">
+                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png") (hasSuffix $imagePath "Stilfrage.png") (hasSuffix $imagePath "Gutschein.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
+                </div>
+              {{ end }}
+              <h4>{{ $item.title }}</h4>
+              {{ if $item.price }}<p class="free-offer-price">{{ $item.price }}</p>{{ end }}
+              <p>{{ $item.text }}</p>
+              <span class="btn">{{ $ctaText }}</span>
+            </a>
+          {{ end }}
         </div>
       </section>
       

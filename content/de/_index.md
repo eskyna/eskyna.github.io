@@ -113,18 +113,20 @@ services:
         image: "images/cover_stylingtipps.png"
         ctaText: "Tipps herunterladen"
         ctaHref: "/10_Styling_Tipps.pdf"
+      - title: "Stilfrage an Natalia"
+        text: "Für konkrete Stilentscheidungen: auch live beim Einkaufen. Schnell, persönlich und direkt auf deine Situation bezogen."
+        price: "ab 49 €"
+        ctaText: "Stilfrage stellen"
+        ctaHref: "/stilfrage/"
+      - title: "ESKYNA Gutschein"
+        text: "Stilberatung verschenken: ein persönliches Geschenk für mehr Klarheit, Stilgefühl und sichere Entscheidungen im Alltag."
+        price: "ab 149 €"
+        ctaText: "ESKYNA Gutschein ansehen"
+        ctaHref: "/gutschein/"
 
   packages:
     title: "Wähle das Angebot, das zu deinem nächsten Schritt passt"
     items:
-      - name: "Stilfrage an Natalia"
-        headline: "Für konkrete Stilentscheidungen: auch live beim Einkaufen"
-        price: "ab 49 €"
-        result: "Du entscheidest sicherer, kaufst bewusster und weißt, warum etwas funktioniert oder warum nicht."
-        ctaText: "Stilfrage stellen"
-        ctaHref: "/stilfrage/"
-        featured: false
-
       - name: "ESKYNA Stilgefühl"
         headline: "Für mehr Klarheit darüber, was dir wirklich steht"
         price: "390 €"
@@ -156,14 +158,6 @@ services:
         result: "Du musst Stilentscheidungen nicht mehr allein treffen. Deine Garderobe entwickelt sich bewusster, klarer und mit deinem Leben mit."
         ctaText: "ESKYNA Begleitung anfragen"
         ctaHref: "/begleitung/"
-        featured: false
-
-      - name: "ESKYNA Gutschein"
-        headline: "Stilberatung verschenken"
-        price: "ab 149 €"
-        result: "Ein Geschenk, das nicht im Schrank liegt, sondern den Alltag leichter macht."
-        ctaText: "ESKYNA Gutschein ansehen"
-        ctaHref: "/gutschein/"
         featured: false
 
   comparison:
@@ -305,9 +299,4 @@ ui:
   hero_coach_name: "Natalia Kleemann"
   hero_coach_title: "Style- und Imagecoach"
   hero_coach_label: "Natalia Kleemann"
-  free_highlights_title: "Vorteile der kostenlosen Angebote"
-  free_highlight_1: "Für mehr Klarheit in deinem Stil"
-  free_highlight_2: "Praxisnah & sofort anwendbar"
-  free_highlight_3: "Von Natalia Kleemann, Personal-Stylistin"
-  free_highlight_4: "100% kostenlos & unverbindlich"
 ---

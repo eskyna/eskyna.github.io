@@ -115,18 +115,20 @@ services:
         image: "images/cover_stylingtipps.png"
         ctaText: "Скачать советы"
         ctaHref: "/10_Styling_Tipps.pdf"
+      - title: "Вопрос стилисту"
+        text: "Для конкретных решений по стилю, в том числе прямо во время покупок. Быстро, лично и по вашей ситуации."
+        price: "от 49 €"
+        ctaText: "Задать вопрос о стиле"
+        ctaHref: "/ru/stilfrage/"
+      - title: "ESKYNA Gutschein"
+        text: "Подарить консультацию по стилю: личный подарок для большей ясности, чувства стиля и уверенных решений в повседневной жизни."
+        price: "от 149 €"
+        ctaText: "Узнать больше об ESKYNA Gutschein"
+        ctaHref: "/ru/gutschein/"
 
   packages:
     title: "Выберите предложение, которое соответствует вашему следующему шагу"
     items:
-      - name: "Вопрос стилисту"
-        headline: "Для конкретных стилевых решений — в том числе во время покупок"
-        price: "от 49 €"
-        result: "Вы решаете увереннее, покупаете осознаннее и понимаете, почему что-то работает — или почему нет."
-        ctaText: "Задать вопрос о стиле"
-        ctaHref: "/ru/stilfrage/"
-        featured: false
-
       - name: "ESKYNA Stilgefühl"
         headline: "Для большей ясности в том, что вам действительно подходит"
         price: "390 €"
@@ -158,14 +160,6 @@ services:
         result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гармоничнее."
         ctaText: "Запросить ESKYNA Begleitung"
         ctaHref: "/ru/begleitung/"
-        featured: false
-
-      - name: "ESKYNA Gutschein"
-        headline: "Подарить консультацию по стилю"
-        price: "от 149 €"
-        result: "Подарок, который не лежит в шкафу — а облегчает повседневную жизнь."
-        ctaText: "Узнать больше об ESKYNA Gutschein"
-        ctaHref: "/ru/gutschein/"
         featured: false
 
   comparison:
