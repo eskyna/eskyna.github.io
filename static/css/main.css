@@ -5116,6 +5116,7 @@ body :where(button) {
 }
 
 .blog-toc-desktop {
+  display: block;
   position: sticky;
   top: 1rem;
   order: 2;

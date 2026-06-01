@@ -13,7 +13,7 @@ ui:
   category_text: "Цвет и стиль"
   looks_text: "Смотреть образы"
   instagram_text: "Пост в Instagram"
-  journal_title: "ESKYNA Journal"
+  journal_title: "Журнал ESKYNA"
   journal_eyebrow: "Журнал"
   journal_subtitle: "Практика стиля, теория цвета и готовые идеи образов для гардероба, который действительно подходит именно вам."
   featured_text: "Текущий редакционный материал"

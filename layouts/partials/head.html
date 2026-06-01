@@ -2,7 +2,8 @@
 {{ $description := $rawDescription | plainify | truncate 155 }}
 {{ $keywords := .Site.Params.keywords | default "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching" }}
 {{ $siteTitle := .Site.Title | default "ESKYNA Style & Image Coaching" }}
-{{ $pageTitle := .Params.seoTitle | default .Title | default $siteTitle }}
+{{ $pageTitle := replace (.Params.seoTitle | default .Title | default $siteTitle) "Categories" (i18n "taxonomy_categories_title") }}
+{{ $pageTitleHasBrand := in $pageTitle "ESKYNA" }}
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
@@ -19,7 +20,11 @@
 {{ if .IsHome }}
   <title>{{ .Params.seoTitle | default $siteTitle }}</title>
 {{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
-  <title>{{ $pageTitle }} | {{ $siteTitle }}</title>
+  {{ if $pageTitleHasBrand }}
+    <title>{{ $pageTitle }}</title>
+  {{ else }}
+    <title>{{ $pageTitle }} | {{ $siteTitle }}</title>
+  {{ end }}
 {{ else }}
   <title>{{ $siteTitle }}</title>
 {{ end }}

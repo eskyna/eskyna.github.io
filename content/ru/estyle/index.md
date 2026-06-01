@@ -1,6 +1,6 @@
 ---
 title: "EStyle — Ваш стиль-консультант"
-eyebrow: "Цифровое предложение от Natalia Kleemann"
+eyebrow: "Цифровое предложение от Наталии Клеманн"
 image: "images/estyle-app.png"
 ui:
   back_to_home_text: "На главную"

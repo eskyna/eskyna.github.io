@@ -4,6 +4,7 @@
   "https://t.me/Natalia_Klee"
 }}
 {{ $description := (.Description | default .Site.Params.description | plainify) }}
+{{ $pageName := replace (.Params.seoTitle | default .Title) "Categories" (i18n "taxonomy_categories_title") }}
 {{ $website := dict
   "@context" "https://schema.org"
   "@type" "WebSite"
@@ -32,7 +33,7 @@
 {{ $page := dict
   "@context" "https://schema.org"
   "@type" "WebPage"
-  "name" .Title
+  "name" $pageName
   "url" .Permalink
   "description" $description
   "inLanguage" .Site.Language.Lang

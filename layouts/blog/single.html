@@ -40,7 +40,7 @@
           {{ end }}
         </div>
         <h1 class="blog-display-title">
-          <span class="blog-display-title-main">{{ $titleMain }}</span>
+          <span class="blog-display-title-main">{{ $titleMain }}{{ with $titleSub }}:{{ end }}</span>
           {{ with $titleSub }}<span class="blog-display-title-sub">{{ . }}</span>{{ end }}
         </h1>
         {{ with .Params.summary }}<p class="blog-single-summary">{{ . }}</p>{{ end }}
@@ -99,7 +99,7 @@
             {{ .TableOfContents }}
           </aside>
 
-          <details class="blog-toc blog-toc-mobile">
+          <details class="blog-toc blog-toc-mobile" aria-label="{{ $tocToggleText }}">
             <summary>{{ $tocToggleText }}</summary>
             {{ .TableOfContents }}
           </details>
@@ -109,7 +109,7 @@
           {{ .Content }}
           {{ with .Params.tags }}
             <footer class="blog-tags">
-              <div class="blog-tags-label">Tags:</div>
+              <div class="blog-tags-label">{{ if eq $.Language.Lang "ru" }}Темы:{{ else }}Tags:{{ end }}</div>
               <div class="blog-tags-list">
                 {{ range . }}
                   <a href="{{ ("blog" | relLangURL) }}" class="blog-tag-chip">{{ . }}</a>

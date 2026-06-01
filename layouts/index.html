@@ -57,9 +57,9 @@
           <span class="hero-headline-line hero-headline-second">{{ $heroHeadlineSecond }}</span>
         </h1>
         <div class="hero-details">
-          <p class="hero-detail hero-detail-brown">{{ $hero.detail_1 | safeHTML }}</p>
-          <p class="hero-detail">{{ $hero.detail_2 | safeHTML }}</p>
-          <p class="hero-detail hero-detail-brown">{{ $hero.detail_3 | safeHTML }}</p>
+          {{ with $hero.detail_1 }}<p class="hero-detail hero-detail-brown">{{ . | safeHTML }}</p>{{ end }}
+          {{ with $hero.detail_2 }}<p class="hero-detail">{{ . | safeHTML }}</p>{{ end }}
+          {{ with $hero.detail_3 }}<p class="hero-detail hero-detail-brown">{{ . | safeHTML }}</p>{{ end }}
         </div>
         <div class="hero-actions">
           {{ with $hero.ctaTooltip }}

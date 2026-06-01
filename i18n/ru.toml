@@ -68,7 +68,7 @@ other = "Сообщение для Наталии"
 
 # Footer
 [footer_a11y]
-other = "Доступность Специальные возможности Экранный диктор Управление с клавиатуры A11Y"
+other = "Доступность"
 
 # Social links
 [contact_form_label]
@@ -76,7 +76,11 @@ other = "Контактная форма"
 
 # Alias page
 [alias_keywords]
-other = "Доступность, Специальные возможности, Экранный диктор, Управление с клавиатуры, A11Y"
+other = "Доступность, Специальные возможности, Экранный диктор, Управление с клавиатуры"
+
+# Taxonomy
+[taxonomy_categories_title]
+other = "Категории"
 
 # Pricing
 [price_label_final]

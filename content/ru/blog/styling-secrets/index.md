@@ -11,16 +11,16 @@ instagramHref: "https://www.instagram.com/p/DYg0QTuKc6z/"
 tags:
   - Секреты стиля
   - Консультация по стилю
-  - Style Coach
-  - Image Coach
-  - Personal Style
+   - коуч по стилю
+   - имидж-коуч
+   - персональный стиль
   - Харизма
-  - Personal Branding
-  - Business Style
+   - личный бренд
+   - деловой стиль
   - Капсульный гардероб
-  - Minimal Style
-  - Mens Style
-  - Fashion Psychology
+   - минималистичный стиль
+   - мужской стиль
+   - психология моды
   - ESKYNA
   - EskynaStyle
 ui:

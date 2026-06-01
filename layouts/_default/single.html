@@ -5,7 +5,8 @@
 {{ $isPrivacyPage := in .RelPermalink "/datenschutz/" }}
 {{ $isLegalPage := or $isPrivacyPage (in .RelPermalink "/impressum/") }}
 {{ $ui := .Params.ui }}
-{{ $backToHomeText := or $ui.back_to_home_text "Zur Startseite" }}
+{{ $homeUI := .Site.Home.Params.ui }}
+{{ $backToHomeText := or $ui.back_to_home_text $homeUI.back_to_home_text "Zur Startseite" }}
 {{ $privacyCloverAlt := or $ui.privacy_clover_alt "ESKYNA Kleeblatt" }}
 {{ $pageImageTitle := or $ui.page_image_title "Natalia Kleemann" }}
 {{ $methodSymbolPrefix := or $ui.method_symbol_prefix "Symbol für" }}

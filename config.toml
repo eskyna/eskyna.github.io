@@ -25,7 +25,7 @@ title = "ESKYNA | Style & Image Coaching"
     weight = 2
     contentDir = "content/ru"
     [languages.ru.params]
-      author = "Natalia Kleemann"
+      author = "Наталия Клеманн"
       description = "Персональный имидж- и стиль-коучинг в Ганновере и онлайн. Развивайте свой стиль, уверенность и аутентичность с методом ESKYNA. Трансформируйте образ и становитесь заметным, стильным и уверенным профессионалом."
 
 [params]

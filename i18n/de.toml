@@ -68,7 +68,7 @@ other = "Nachricht an Natalia"
 
 # Footer
 [footer_a11y]
-other = "Barrierefreiheit Accessibility Screenreader Tastaturbedienung A11Y"
+other = "Barrierefreiheit Accessibility Screenreader Tastaturbedienung"
 
 # Social links
 [contact_form_label]
@@ -76,7 +76,11 @@ other = "Kontaktformular"
 
 # Alias page
 [alias_keywords]
-other = "Barrierefreiheit, Accessibility, Screenreader, Tastaturbedienung, A11Y"
+other = "Barrierefreiheit, Accessibility, Screenreader, Tastaturbedienung"
+
+# Taxonomy
+[taxonomy_categories_title]
+other = "Kategorien"
 
 # Pricing
 [price_label_final]

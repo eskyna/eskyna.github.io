@@ -1,6 +1,6 @@
 ---
 title: "Обо мне"
-eyebrow: "Natalia Kleemann"
+eyebrow: "Наталия Клеманн"
 image: "images/portraits/natalia-about-portrait.png"
 facts:
   title: "Несколько фактов обо мне"
@@ -45,9 +45,9 @@ method:
 ui:
   back_to_home_text: "На главную"
   privacy_clover_alt: "Клевер ESKYNA"
-  page_image_title: "Natalia Kleemann"
+  page_image_title: "Наталия Клеманн"
   method_symbol_prefix: "Символ для"
-  method_quote_author: "Natalia Kleemann"
+  method_quote_author: "Наталия Клеманн"
 ---
 
 Я, **Наталия Клеманн**, стилист и имидж-коуч с фокусом на образ,

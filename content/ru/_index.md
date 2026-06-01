@@ -1,11 +1,11 @@
 ---
-title: "Natalia Kleemann"
+title: "Наталия Клеманн"
 seoTitle: "ESKYNA | Консультации по стилю и имиджу онлайн"
 hero:
-  eyebrow: "Natalia Kleemann | Консультации по стилю и имиджу"
+  eyebrow: "Наталия Клеманн | Консультации по стилю и имиджу"
   headline: "Больше уверенности в стиле."
-  detail_1: "Меньше неудачных покупок."
-  detail_2: "Онлайн- и офлайн-консультации по стилю и имиджу для женщин и мужчин, которые ценят качество, ясность и уверенное впечатление."
+  detail_1: "для женщин и мужчин, которые ценят качество, ясность и уверенное впечатление."
+  detail_2: ""
   detail_3: ""
   ctaText: "Забронировать бесплатную первую консультацию"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
@@ -73,12 +73,12 @@ process:
 coach:
   promiseHeading: "Миссия ESKYNA"
   eyebrow: "Персональный коуч по стилю и имиджу"
-  name: "Natalia Kleemann"
+  name: "Наталия Клеманн"
   statement: "Меньше неудачных покупок.<br>Больше качества.<br>Гардероб, который работает в долгую."
   statementCopy: "Я делаю стиль проще, осознаннее и эффективнее — чтобы вы чувствовали себя уверенно в своей одежде."
-  signatureName: "Natalia Kleemann"
+  signatureName: "Наталия Клеманн"
   signatureRole: "Коуч по стилю и имиджу"
-  title: "Профессиональный<br>коуч по стилю и имиджу<br>Natalia Kleemann"
+  title: "Профессиональный<br>коуч по стилю и имиджу<br>Наталия Клеманн"
   text: "Я помогаю вам решать эти задачи точно и со вкусом."
   buttonText: "Бесплатная первая консультация"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
@@ -129,7 +129,7 @@ services:
   packages:
     title: "Выберите предложение, которое соответствует вашему следующему шагу"
     items:
-      - name: "ESKYNA Stilgefühl — Чувство стиля"
+      - name: "Чувство стиля"
         headline: "Для большей ясности в том, что вам действительно подходит"
         price: "390 €"
         result: "Вы покупаете осознаннее, комбинируете увереннее и развиваете большее доверие к своему стилю."
@@ -137,7 +137,7 @@ services:
         ctaHref: "/ru/stilgefuehl/"
         featured: false
 
-      - name: "ESKYNA Stilgarderobe — Стильный гардероб"
+      - name: "Стильный гардероб"
         headline: "Для гардероба, который соответствует вам и вашей жизни"
         price: "890 €"
         badge: "Самый популярный выбор"
@@ -146,7 +146,7 @@ services:
         ctaHref: "/ru/stilgarderobe/"
         featured: true
 
-      - name: "ESKYNA Präsenz — Профессиональный образ"
+      - name: "Профессиональный образ"
         headline: "Для вашего профессионального позиционирования"
         price: "1.490 €"
         result: "Образ, который показывает, кто вы, какую экспертизу представляете и какие ценности транслируете."
@@ -154,7 +154,7 @@ services:
         ctaHref: "/ru/praesenz/"
         featured: false
 
-      - name: "ESKYNA Begleitung — Сопровождение"
+      - name: "Сопровождение"
         headline: "Для повседневных вопросов о стиле и образе, который развивается вместе с вами"
         price: "Индивидуально по запросу"
         result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гармоничнее."
@@ -201,7 +201,7 @@ services:
     ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 references:
   title: "Партнеры, программы и достижения"
-  subtitle: "Доверие через опыт."
+  subtitle: "Доверие, подкрепленное опытом."
   items:
     - name: "EXIST Women 2025"
       label: "Программа поддержки"
@@ -277,7 +277,7 @@ ui:
   hero_headline_second: "Меньше неудачных покупок."
   hero_coach_title_extra: "Онлайн и офлайн"
   clover_symbol_alt: "Символ клевера ESKYNA"
-  coach_image_title: "Natalia Kleemann"
+  coach_image_title: "Наталия Клеманн"
   back_to_home_text: "На главную"
   privacy_clover_alt: "Клевер ESKYNA"
   method_symbol_prefix: "Символ для"
@@ -299,6 +299,7 @@ ui:
   case_result_label: "Результат"
   social_links_label: "Ссылки на соцсети"
   footer_about_text: "Обо мне"
+  footer_blog_text: "Блог"
   footer_estyle_text: "EStyle"
   footer_imprint_text: "Правовая информация"
   footer_privacy_text: "Политика конфиденциальности"
@@ -312,9 +313,9 @@ ui:
       link: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
       description: "Сразу забронируйте бесплатную ознакомительную встречу."
       external: true
-  hero_coach_name: "Natalia Kleemann"
+  hero_coach_name: "Наталия Клеманн"
   hero_coach_title: "Коуч по стилю и имиджу"
-  hero_coach_label: "Natalia Kleemann"
+  hero_coach_label: "Наталия Клеманн"
   free_highlights_title: "Преимущества бесплатных предложений"
   free_highlight_1: "Чтобы лучше понять свой стиль"
   free_highlight_2: "Практично и сразу применимо"

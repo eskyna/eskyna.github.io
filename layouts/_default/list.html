@@ -1,9 +1,12 @@
 {{ define "main" }}
+{{ $homeUI := .Site.Home.Params.ui }}
+{{ $backToHomeText := or $homeUI.back_to_home_text "Zur Startseite" }}
+{{ $pageTitle := replace .Title "Categories" (i18n "taxonomy_categories_title") }}
 <main class="shop-page">
   <section class="hero-small">
     <div class="container">
-      <a class="back-link" href="/" title="Zur Startseite">Zur Startseite</a>
-      <h1>{{ .Title }}</h1>
+      <a class="back-link" href="{{ "/" | relLangURL }}" title="{{ $backToHomeText }}">{{ $backToHomeText }}</a>
+      <h1>{{ $pageTitle }}</h1>
       <p class="shop-intro">{{ .Content }}</p>
     </div>
   </section>
