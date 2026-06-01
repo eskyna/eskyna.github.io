@@ -256,6 +256,7 @@ contact_form:
   status_success: "Danke! Deine Anfrage wurde gesendet."
   status_error: "Leider gab es ein Problem. Bitte schreib direkt an natalia@eskyna.com."
   status_turnstile: "Bitte bestätige die Turnstile-Prüfung."
+  email_invalid: "Bitte gib eine gültige E-Mail-Adresse ein (z.\u00a0B. name@beispiel.de)."
 ui:
   hero_headline_first: "Mehr Stilgefühl."
   hero_headline_second: "Weniger Fehlkäufe."

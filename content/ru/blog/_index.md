@@ -12,7 +12,7 @@ ui:
   audio_description: "Аудиоверсия этой статьи"
   category_text: "Цвет и стиль"
   looks_text: "Смотреть образы"
-  looks_anchor: "три-капсулы-образов"
+  looks_anchor: "secret-6-меньше-вещей-больше-комбинаций"
   instagram_text: "Пост в Instagram"
   journal_title: "ESKYNA Journal"
   journal_eyebrow: "Журнал"

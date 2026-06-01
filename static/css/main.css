@@ -2783,6 +2783,23 @@ h1 {
   font-weight: 600;
 }
 
+.contact-field-error {
+  margin-top: 0.3rem;
+  color: #c0392b;
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+.contact-field-error[hidden] {
+  display: none !important;
+}
+
+.eskyna-contact-form input[aria-invalid="true"] {
+  border-color: #c0392b;
+  outline: none;
+  box-shadow: 0 0 0 2px rgb(192 57 43 / 18%);
+}
+
 .contact-fallback {
   margin-top: 0.7rem;
   color: var(--muted);

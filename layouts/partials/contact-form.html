@@ -26,6 +26,7 @@
 {{ $statusSuccess := or $cf.status_success (cond $isRu "Спасибо! Ваш запрос отправлен." "Danke! Deine Anfrage wurde gesendet.") }}
 {{ $statusError := or $cf.status_error (cond $isRu (printf "К сожалению, произошла ошибка. Напишите напрямую на %s." $fallbackEmail) (printf "Leider gab es ein Problem. Bitte schreib direkt an %s." $fallbackEmail)) }}
 {{ $statusTurnstile := or $cf.status_turnstile (cond $isRu "Пожалуйста, подтвердите проверку Turnstile." "Bitte bestätige die Turnstile-Prüfung.") }}
+{{ $emailInvalid := or $cf.email_invalid (cond $isRu "Пожалуйста, введите корректный адрес электронной почты." "Bitte gib eine gültige E-Mail-Adresse ein.") }}
 
 <form id="{{ $formId }}" class="eskyna-contact-form js-contact-form" data-contact-endpoint="{{ $endpoint }}" data-status-sending="{{ $statusSending }}" data-status-success="{{ $statusSuccess }}" data-status-error="{{ $statusError }}" data-status-turnstile="{{ $statusTurnstile }}" novalidate>
   <input type="hidden" name="offer" value="{{ $offerValue }}">
@@ -35,7 +36,8 @@
   </label>
 
   <label for="{{ $formId }}-email">{{ $emailLabel }}
-    <input id="{{ $formId }}-email" type="email" name="email" required maxlength="160" autocomplete="email">
+    <input id="{{ $formId }}-email" type="email" name="email" required maxlength="160" autocomplete="email" aria-describedby="{{ $formId }}-email-error">
+    <span id="{{ $formId }}-email-error" class="contact-field-error" role="alert" aria-live="polite" data-email-error hidden>{{ $emailInvalid }}</span>
   </label>
 
   <label for="{{ $formId }}-phone">{{ $phoneLabel }}

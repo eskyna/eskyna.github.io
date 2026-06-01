@@ -40,16 +40,72 @@
             var turnstileText = form.getAttribute("data-status-turnstile") || "Bitte bestätigen Sie die Turnstile-Prüfung.";
             var privacyCheckbox = form.querySelector('input[name="privacy"]');
             var submitButton = form.querySelector('button[type="submit"]');
+            var nameInput = form.querySelector('input[name="name"]');
+            var emailInput = form.querySelector('input[name="email"]');
+            var emailError = form.querySelector('[data-email-error]');
+
+            function isStrictEmail(value) {
+              return /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(value);
+            }
+
+            function validateEmail() {
+              if (!emailInput || !emailError) return true;
+              var value = emailInput.value.trim();
+              emailInput.setCustomValidity("");
+              var valid = value.length > 0 && isStrictEmail(value);
+              if (!valid && value.length > 0) {
+                emailInput.setCustomValidity(" ");
+              }
+              emailInput.setAttribute('aria-invalid', valid ? 'false' : 'true');
+              emailError.hidden = valid;
+              return valid;
+            }
+
+            function hasValidName() {
+              if (!nameInput) return true;
+              return nameInput.value.trim().length > 0;
+            }
+
+            function hasValidEmail() {
+              if (!emailInput) return true;
+              var value = emailInput.value.trim();
+              if (!value) return false;
+              return isStrictEmail(value);
+            }
+
+            function canSubmit() {
+              var privacyOk = privacyCheckbox ? privacyCheckbox.checked : true;
+              return privacyOk && hasValidName() && hasValidEmail();
+            }
+
+            if (emailInput) {
+              emailInput.addEventListener('blur', function () {
+                validateEmail();
+                updateSubmitButton();
+              });
+              emailInput.addEventListener('input', function () {
+                validateEmail();
+                updateSubmitButton();
+              });
+            }
 
             function updateSubmitButton() {
-              if (submitButton && privacyCheckbox) {
-                submitButton.disabled = !privacyCheckbox.checked;
+              if (submitButton) {
+                submitButton.disabled = !canSubmit();
               }
             }
 
-            if (privacyCheckbox && submitButton) {
+            if (submitButton) {
               updateSubmitButton();
-              privacyCheckbox.addEventListener("change", updateSubmitButton);
+              if (privacyCheckbox) {
+                privacyCheckbox.addEventListener("change", updateSubmitButton);
+              }
+              if (nameInput) {
+                nameInput.addEventListener("input", updateSubmitButton);
+              }
+              if (emailInput) {
+                emailInput.addEventListener("input", updateSubmitButton);
+              }
               form.addEventListener("reset", function () {
                 setTimeout(updateSubmitButton, 0);
               });
@@ -57,6 +113,11 @@
 
             form.addEventListener("submit", async function (event) {
               event.preventDefault();
+
+              if (!validateEmail()) {
+                emailInput.focus();
+                return;
+              }
 
               if (statusEl) {
                 statusEl.textContent = sendingText;

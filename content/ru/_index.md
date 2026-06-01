@@ -270,6 +270,7 @@ contact_form:
   status_sending: "Отправка ..."
   status_success: "Спасибо! Ваш запрос отправлен."
   status_error: "К сожалению, произошла ошибка. Напишите напрямую на natalia@eskyna.com."
+  email_invalid: "Пожалуйста, введите корректный адрес электронной почты (например, name@example.com)."
   status_turnstile: "Пожалуйста, подтвердите проверку Turnstile."
 ui:
   hero_headline_first: "Больше чувства стиля."
