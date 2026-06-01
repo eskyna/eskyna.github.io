@@ -2,6 +2,7 @@ const API_BASE_URL = "https://api.eskyna-style.workers.dev";
 const API_URL = `${API_BASE_URL.replace(/\/$/, "")}/v1/images`;
 const MAX_IMAGE_EDGE = 1600;
 const JPEG_QUALITY = 0.88;
+const SAFE_IMAGE_MIME_TYPES = new Set(["image/jpeg", "image/png", "image/webp", "image/heic"]);
 
 const els = {
   input: document.querySelector("#photoInput"),
@@ -144,10 +145,14 @@ function formatBytes(bytes) {
   return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
 }
 
+function isSafeImageType(file) {
+  return Boolean(file?.type && SAFE_IMAGE_MIME_TYPES.has(file.type));
+}
+
 function pickFile(file) {
   if (!file) return;
-  if (!file.type.startsWith("image/")) {
-    setError("Bitte wähle eine Bilddatei aus.");
+  if (!isSafeImageType(file)) {
+    setError("Bitte wähle ein JPG-, PNG-, WEBP- oder HEIC-Bild aus.");
     return;
   }
 
@@ -179,11 +184,7 @@ function loadImage(file) {
 }
 
 async function prepareImage(file) {
-  if (
-    !file.type.startsWith("image/") ||
-    file.type === "image/gif" ||
-    file.type === "image/svg+xml"
-  ) {
+  if (!isSafeImageType(file)) {
     return file;
   }
 
