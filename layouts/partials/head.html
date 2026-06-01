@@ -2,11 +2,11 @@
 {{ $description := $rawDescription | plainify | truncate 155 }}
 {{ $keywords := .Site.Params.keywords | default "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching" }}
 {{ $siteTitle := .Site.Title | default "ESKYNA Style & Image Coaching" }}
-{{ $pageTitle := .Title | default $siteTitle }}
+{{ $pageTitle := .Params.seoTitle | default .Title | default $siteTitle }}
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-src 'none'; form-action 'self'; upgrade-insecure-requests;">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://contact-api.eskyna-style.workers.dev; object-src 'none'; base-uri 'self'; frame-src https://challenges.cloudflare.com; form-action 'self'; upgrade-insecure-requests;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{{ $description }}">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -16,7 +16,9 @@
 <meta name="page-topic" content="Style und Image Coaching">
 <meta name="revisit-after" content="7 days">
 <meta http-equiv="Expires" content="Thu, 31 Dec 2037 23:55:55 GMT">
-{{ if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
+{{ if .IsHome }}
+  <title>{{ .Params.seoTitle | default $siteTitle }}</title>
+{{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
   <title>{{ $pageTitle }} | {{ $siteTitle }}</title>
 {{ else }}
   <title>{{ $siteTitle }}</title>
@@ -220,6 +222,28 @@
       color: #fff;
     }
 
+    .inline-term-tooltip-panel,
+    .hero-cta-tooltip-panel {
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      transform: translateY(-0.35rem);
+    }
+
+    .inline-term-tooltip-panel {
+      transform: translate(-50%, -0.35rem);
+    }
+
+    .inline-term-tooltip-start .inline-term-tooltip-panel {
+      transform: translate(0, -0.35rem);
+    }
+
+    .hero-coach-title {
+      opacity: 0;
+      transform: translateY(-0.18rem);
+      pointer-events: none;
+    }
+
     .hero .lead {
       margin: 0 0 1.25rem;
       max-width: 52ch;
@@ -235,10 +259,14 @@
   {{ end }}
 </style>
 
-{{ $mainCSSMin := resources.FromString "css/main.css" (readFile "static/css/main.css") | minify }}
-<link rel="preload" href="{{ $mainCSSMin.RelPermalink }}" as="style">
-<link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}"></noscript>
+{{ if hugo.IsProduction }}
+  {{ $mainCSSMin := resources.FromString "css/main.css" (readFile "static/css/main.css") | minify }}
+  <link rel="preload" href="{{ $mainCSSMin.RelPermalink }}" as="style">
+  <link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}"></noscript>
+{{ else }}
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{ end }}
 
 {{ if .IsHome }}
   {{ range .AllTranslations -}}

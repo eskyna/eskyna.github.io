@@ -1,6 +1,30 @@
 ---
 title: "Blog"
 description: "Stilwissen, Farbtheorie und tragbare Outfit-Ideen von ESKYNA."
+ui:
+  back_text: "Zur Startseite"
+  read_more_text: "Artikel lesen"
+  reading_time_text: "Min. Lesezeit"
+  back_to_blog_text: "Zum Blog"
+  toc_text: "Inhalt"
+  toc_toggle_text: "Inhalt anzeigen"
+  audio_label: "Beitrag anhören"
+  audio_description: "Diesen Beitrag als Audio-Version"
+  category_text: "Farbe & Stil"
+  looks_text: "Looks ansehen"
+  looks_anchor: "drei-outfit-kapseln"
+  instagram_text: "Instagram-Beitrag"
+  journal_title: "ESKYNA Journal"
+  journal_eyebrow: "Journal"
+  journal_subtitle: "Stilbeiträge, Farbtheorie und Outfit-Ideen"
+  featured_text: "Aktueller Editorial-Beitrag"
+  advisory_title: "Mehr Klarheit für deinen Stil"
+  advisory_body: "Entdecke, welche Farben, Schnitte und Kombinationen zu dir passen."
+  advisory_cta: "Stilberatung entdecken"
+  categories_aria_label: "Kategorien"
+  chip_all: "Alle"
+  chip_colors: "Farben"
+  chip_capsule: "Capsule Wardrobe"
+  chip_business: "Business-Chic"
+  chip_consulting: "Stilberatung"
 ---
-
-Im ESKYNA Blog finden Sie fundierte Stilbeiträge mit praktischen Ideen für Ihren Alltag.

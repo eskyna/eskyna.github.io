@@ -1,8 +1,7 @@
 ---
-title: "Rosa neu gedacht: 3 Outfit-Ideen für Sport-Chic, Romantic-Chic und Business-Chic"
+title: "Rosa kombinieren - 3 Looks"
 date: 2026-05-15
-draft: false
-description: "Rosa ist vielseitiger als viele denken. Entdecken Sie, wie Sie Rosa modern, stilvoll und alltagstauglich kombinieren."
+description: "Rosa ist vielseitiger als viele denken. Entdecke, wie du Rosa modern, stilvoll und alltagstauglich kombinieren kannst."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."
 hero: "rosa-hero.avif"
 readingTime: 5
@@ -13,9 +12,22 @@ tags:
   - farbberatung
   - outfit
   - stilberatung
+ui:
+  color_scale_aria_label: "Rosa-Farbskala"
+  color_scale_swatches:
+    - name: "Powder Pink"
+      hex: "#ffc8d9"
+    - name: "Pastel Pink"
+      hex: "#ffb3c1"
+    - name: "Dusty Rose"
+      hex: "#d4879a"
+    - name: "Bright Pink"
+      hex: "#ff69b4"
+    - name: "Dusty Mauve"
+      hex: "#c684a5"
 ---
 
-Rosa ist nicht nur romantisch. Richtig kombiniert wirkt die Farbe sportlich, elegant, modern oder sogar souverän im Business-Kontext. In diesem Beitrag finden Sie die Theorie hinter der Farbe und drei tragbare Outfit-Kapseln für den Alltag.
+Rosa ist nicht nur romantisch. Richtig kombiniert wirkt die Farbe sportlich, elegant, modern oder sogar souverän im Business-Kontext. In diesem Beitrag findest du die Theorie hinter der Farbe und drei tragbare Outfit-Kapseln für den Alltag.
 
 ## Die Theorie hinter Rosa
 
@@ -54,7 +66,7 @@ Rosa wirkt heute oft selbstverständlich feminin. Historisch war diese Bedeutung
 
 ## Wie Rosa professionell wirkt
 
-Kleidung kommuniziert. Forschung zur Personenwahrnehmung beschreibt Kleidung als wichtigen Bestandteil des ersten Eindrucks: Menschen leiten aus Dress unter anderem soziale Identität, Status und ästhetische Präferenzen ab.[^4]
+Kleidung kommuniziert. Forschung zur Personenwahrnehmung beschreibt Kleidung als wichtigen Bestandteil des ersten Eindrucks: Menschen leiten aus Kleidung unter anderem soziale Identität, Status und ästhetische Präferenzen ab.[^4]
 
 Wichtige Styling-Prinzipien:
 
@@ -71,41 +83,41 @@ Wichtige Styling-Prinzipien:
 
 Charakter: Frisch · urban · unkompliziert
 
-[![Sport-Chic Outfit mit rosa Jeans und Blazer](sport-chic.avif)](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
+![Sport-Chic Outfit mit rosa Jeans und Blazer](sport-chic.avif)
+
+[Sport-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
 
 Rosa wirkt hier unkompliziert und modern. Der graue Blazer bringt Struktur, Sneaker und Denim machen den Look alltagstauglich.
-
-[Sport-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
 
 1. **Romantic-Chic**
 
 Charakter: Weich · feminin · zeitlos
 
-[![Romantic-Chic Outfit mit floralem Rock und rosa Tasche](romantic-chic.avif)](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
+![Romantic-Chic Outfit mit floralem Rock und rosa Tasche](romantic-chic.avif)
+
+[Romantic-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
 
 Florale Details, helle Farben und leichte Formen zeigen die sanfte Seite von Rosa, romantisch, aber nicht überladen.
-
-[Romantic-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
 
 1. **Business-Chic**
 
 Charakter: Stark · modern · souverän
 
-[![Business-Chic Outfit mit rosa Hose und dunklem Blazer](business-chic.avif)](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
+![Business-Chic Outfit mit rosa Hose und dunklem Blazer](business-chic.avif)
+
+[Business-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
 Dunkles Braun, Blazer, Krawatte und Loafer erden Rosa. So entsteht ein Look, der Farbe zeigt und trotzdem professionell bleibt.
-
-[Business-Chic-Look ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
 Der passende Instagram-Beitrag zum Artikel: [Rosa neu gedacht auf Instagram](https://www.instagram.com/p/DYR7JL1iobn/?img_index=1).
 
 ## Fazit
 
-Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung finden Sie heraus, welche Rosa-Nuancen Ihre Ausstrahlung am besten unterstützen.
+Eine Outfit-Kapsel kann inspirieren. Wirklich stimmig wird ein Look aber dann, wenn Farbe, Schnitt, Figurtyp und persönlicher Stil zusammenpassen. In einer Stil- und Farbberatung findest du heraus, welche Rosa-Nuancen deine Ausstrahlung am besten unterstützen.
 
-## Welches Rosa passt zu Ihnen?
+## Welches Rosa passt zu dir?
 
-In einer persönlichen Stil- und Farbberatung finden Sie heraus, welche Farben Ihre Ausstrahlung unterstützen und wie Sie Looks zusammenstellen, die wirklich zu Ihnen passen.
+In einer persönlichen Stil- und Farbberatung findest du heraus, welche Farben deine Ausstrahlung unterstützen und wie du Looks zusammenstellst, die wirklich zu dir, deinem Alltag und deiner Wirkung passen.
 
 {{< button-icon text="Kostenloses Erstgespräch" title="Kostenloses Erstgespräch" targetBlank="true" >}}
 

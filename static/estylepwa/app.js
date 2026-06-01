@@ -84,19 +84,17 @@ function updateInstallHintForDevice() {
 
   if (deferredInstallPrompt) {
     setInstallHint(
-      "Installieren Sie die App jetzt auf Ihrem Smartphone und starten Sie die Analyse direkt vom Home-Bildschirm."
+      "Installiere die App jetzt auf deinem Smartphone und starte die Analyse direkt vom Home-Bildschirm."
     );
     return;
   }
 
   const isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   if (isiOS) {
-    setInstallHint(
-      "iPhone/iPad: Tippen Sie auf Teilen und wählen Sie anschließend Zum Home-Bildschirm."
-    );
+    setInstallHint("iPhone/iPad: Tippen Du auf Teilen und wähle anschließend Zum Home-Bildschirm.");
   } else {
     setInstallHint(
-      "Android: Öffnen Sie das Browser-Menü und wählen Sie App installieren oder Zum Startbildschirm hinzufügen."
+      "Android: Öffne das Browser-Menü und wähle App installieren oder Zum Startbildschirm hinzufügen."
     );
   }
 }
@@ -108,7 +106,7 @@ async function triggerInstallFlow() {
     deferredInstallPrompt = null;
     toggleHeaderInstallButton(false);
     setInstallHint(
-      "Vielen Dank. Sie können die Analyse jetzt jederzeit direkt auf Ihrem Smartphone starten."
+      "Vielen Dank. Du kannst die Analyse jetzt jederzeit direkt auf deinem Smartphone starten."
     );
     return;
   }
@@ -130,11 +128,11 @@ async function triggerInstallFlow() {
 
   if (isiOS) {
     setInstallHint(
-      "iPhone/iPad: Öffnen Sie Teilen und wählen Sie Zum Home-Bildschirm. Danach ist die App direkt auf Ihrem Startbildschirm verfügbar."
+      "iPhone/iPad: Öffne Teilen und wähle Zum Home-Bildschirm. Danach ist die App direkt auf deinem Startbildschirm verfügbar."
     );
   } else {
     setInstallHint(
-      "Android: Öffnen Sie das Browser-Menü und wählen Sie App installieren oder Zum Startbildschirm hinzufügen."
+      "Android: Öffne das Browser-Menü und wähle App installieren oder Zum Startbildschirm hinzufügen."
     );
   }
 }
@@ -149,7 +147,7 @@ function formatBytes(bytes) {
 function pickFile(file) {
   if (!file) return;
   if (!file.type.startsWith("image/")) {
-    setError("Bitte wählen Sie eine Bilddatei aus.");
+    setError("Bitte wähle eine Bilddatei aus.");
     return;
   }
 
@@ -253,7 +251,7 @@ async function analyzeSelectedPhoto() {
     console.error(error);
     els.emptyState.hidden = true;
     setError(error.message || "Die Analyse konnte nicht abgeschlossen werden.");
-    setStatus("Analyse fehlgeschlagen. Bitte prüfen Sie Verbindung, CORS-Freigabe und Bildformat.");
+    setStatus("Analyse fehlgeschlagen. Bitte prüfen Du Verbindung, CORS-Freigabe und Bildformat.");
   } finally {
     setBusy(false);
   }
@@ -487,7 +485,7 @@ if (els.installPromoButton) {
 
 window.addEventListener("appinstalled", () => {
   toggleHeaderInstallButton(false);
-  setInstallHint("Die App ist installiert und auf Ihrem Startbildschirm verfügbar.");
+  setInstallHint("Die App ist installiert und auf deinem Startbildschirm verfügbar.");
 });
 
 updateInstallHintForDevice();

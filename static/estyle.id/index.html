@@ -6,8 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="audience" content="all" />
     <meta name="copyright" content="© 2026 Natalia Kleemann, Stefan Rohe" />
-    <title>ESKYNA | EStyle ID Auswertung</title>
+    <title>ESKYNA | EStyle ID – Stilprofil auswerten</title>
     <meta name="robots" content="noindex, nofollow" />
+    <meta
+      name="description"
+      content="EStyle ID auswerten – Dein persönliches Stilprofil auf Basis deiner ESKYNA EStyle ID."
+    />
     <style>
       :root {
         --accent: #b98878;
@@ -463,8 +467,8 @@
         <span class="section-eyebrow">Stilprofil abrufen</span>
         <h1>EStyle ID auswerten</h1>
         <p>
-          Geben Sie Ihre EStyle ID ein, um Ihr gespeichertes Stilprofil anzuzeigen und zu verstehen,
-          welche Stilrichtungen in Ihnen stecken.
+          Gib Deine EStyle ID ein, um dein gespeichertes Stilprofil anzuzeigen und zu verstehen,
+          welche Stilrichtungen in dir stecken.
         </p>
         <div class="id-input-row">
           <input
@@ -494,14 +498,14 @@
             <p class="id-meta" id="displayMeta"></p>
           </div>
           <div id="genderBadge" class="gender-badge"></div>
-          <span class="section-eyebrow" style="margin-top: 4px">Ihr Stilprofil</span>
+          <span class="section-eyebrow" style="margin-top: 4px">Dein Stilprofil</span>
           <h2 id="mainTypeName"></h2>
           <p id="mainTypeShort"></p>
         </div>
 
         <!-- Primary type full card -->
         <div class="card">
-          <span class="section-eyebrow">Ihr Haupttyp</span>
+          <span class="section-eyebrow">Dein Haupttyp</span>
           <div class="result-primary" id="primaryCard">
             <img
               id="primaryImg"
@@ -516,6 +520,7 @@
                 margin-bottom: 14px;
                 background: rgba(255, 255, 255, 0.65);
               "
+              alt="Primaerer Stiltyp"
               title="Primärer Stiltyp"
               loading="lazy"
             />
@@ -531,16 +536,16 @@
 
         <!-- Side types -->
         <div class="card" id="sideTypesCard">
-          <span class="section-eyebrow">Ihre Nebentypen</span>
-          <h3 style="margin-bottom: 14px">Diese Stilrichtungen ergänzen Ihr Profil</h3>
+          <span class="section-eyebrow">Deine Nebentypen</span>
+          <h3 style="margin-bottom: 14px">Diese Stilrichtungen ergänzen dein Profil</h3>
           <div id="sideTypesContainer"></div>
         </div>
 
         <!-- Answer recap -->
         <div class="card" id="answersCard">
-          <span class="section-eyebrow">Ihre Antworten</span>
-          <h3 style="margin-bottom: 6px">So haben Sie geantwortet</h3>
-          <p>Ihre gewählten Antworten haben das Stilprofil ergeben.</p>
+          <span class="section-eyebrow">Deine Antworten</span>
+          <h3 style="margin-bottom: 6px">So haben Du geantwortet</h3>
+          <p>Deine gewählten Antworten haben das Stilprofil ergeben.</p>
           <div class="answers-grid" id="answersGrid"></div>
         </div>
 
@@ -562,31 +567,31 @@
         dramatic: {
           label: "Dramatic Chic",
           short:
-            "Sie lieben Ausdruck und starke Akzente. Ihr Stil ist kraftvoll, mutig und unvergesslich. Sie wollen auffallen - und das mit Absicht. Typisch für Sie: Schwarz-Rot-Kontraste, Statement-Pieces, asymmetrische Schnitte, High Heels, Oversize-Blazer, Leder.",
-          insight: "Sie lieben Ausdruck und starke Akzente.",
+            "Du liebst Ausdruck und starke Akzente. Dein Stil ist kraftvoll, mutig und unvergesslich. Du willst auffallen - und das mit Absicht. Typisch für dich: Schwarz-Rot-Kontraste, Statement-Pieces, asymmetrische Schnitte, High Heels, Oversize-Blazer, Leder.",
+          insight: "Du liebst Ausdruck und starke Akzente.",
           vibe: "charismatisch, selbstbewusst, unvergesslich",
           image: "/images/style/women/drama.png",
         },
         business: {
           label: "Business Chic",
           short:
-            "Klassik trifft Qualität: Ihr Look ist zeitlos und professionell - ob im Meeting, beim Netzwerken oder im Alltag. Typisch für Sie: Blazer, Stoffhosen, Bleistiftröcke, dezenter Schmuck, hochwertige Basics, gedeckte Farbtöne.",
-          insight: "Klassik trifft Qualität: Ihr Look ist zeitlos und professionell.",
+            "Klassik trifft Qualität: Dein Look ist zeitlos und professionell - ob im Meeting, beim Netzwerken oder im Alltag. Typisch für dich: Blazer, Stoffhosen, Bleistiftröcke, dezenter Schmuck, hochwertige Basics, gedeckte Farbtöne.",
+          insight: "Klassik trifft Qualität: Dein Look ist zeitlos und professionell.",
           vibe: "souverän, organisiert, vertrauenswürdig",
           image: "/images/style/women/business.png",
         },
         romantic: {
           label: "Romantic Chic",
           short:
-            "Feminine Leichtigkeit pur: Ihr Stil wirkt sanft, verspielt und elegant - perfekt für ästhetische Statements. Typisch für Sie: Kleider mit Volants, florale Muster, Pastelltöne, zarte Materialien, Perlen- oder Schleifendetails.",
-          insight: "Feminine Leichtigkeit pur: Ihr Stil wirkt sanft, verspielt und elegant.",
+            "Feminine Leichtigkeit pur: Dein Stil wirkt sanft, verspielt und elegant - perfekt für ästhetische Statements. Typisch für dich: Kleider mit Volants, florale Muster, Pastelltöne, zarte Materialien, Perlen- oder Schleifendetails.",
+          insight: "Feminine Leichtigkeit pur: Dein Stil wirkt sanft, verspielt und elegant.",
           vibe: "herzlich, einfühlsam, romantisch",
           image: "/images/style/women/romantic.png",
         },
         casual: {
           label: "Casual Chic",
           short:
-            "Unkomplizierter Stil mit Tiefgang: Ihr Alltag ist minimalistisch, aber bewusst - funktional und gut angezogen. Typisch für Sie: Jeans, Strick, Layering, Naturtöne, schlichte Accessoires, bequeme Schuhe.",
+            "Unkomplizierter Stil mit Tiefgang: Dein Alltag ist minimalistisch, aber bewusst - funktional und gut angezogen. Typisch für dich: Jeans, Strick, Layering, Naturtöne, schlichte Accessoires, bequeme Schuhe.",
           insight:
             "Unkomplizierter Stil mit Tiefgang: minimalistisch, bewusst und alltagstauglich.",
           vibe: "authentisch, sympathisch, geerdet",
@@ -595,8 +600,8 @@
         sport: {
           label: "Sporty Chic",
           short:
-            "Dynamisch, modern und aktiv: Ihr Stil verbindet Komfort mit Stil - für Frauen, die in Bewegung bleiben. Typisch für Sie: Sneaker, Jogginghosen, cleane Schnitte, Athleisure-Looks, klare Farben.",
-          insight: "Dynamisch, modern und aktiv: Komfort und Stil gehen bei Ihnen zusammen.",
+            "Dynamisch, modern und aktiv: Dein Stil verbindet Komfort mit Stil - für Frauen, die in Bewegung bleiben. Typisch für dich: Sneaker, Jogginghosen, cleane Schnitte, Athleisure-Looks, klare Farben.",
+          insight: "Dynamisch, modern und aktiv: Komfort und Stil gehen bei dir zusammen.",
           vibe: "energiegeladen, selbstbewusst, flexibel",
           image: "/images/style/women/sporty.png",
         },
@@ -633,7 +638,7 @@
 
       const FEMALE_QUESTIONS = [
         {
-          text: "Was inspiriert Sie am stärksten für Ihr Styling?",
+          text: "Was inspiriert Du am stärksten für Dein Styling?",
           options: [
             { text: "Modenschauen, Pinterest und starke Persönlichkeiten", type: "dramatic" },
             { text: "Hochwertige Labels und souveräne Business-Looks", type: "business" },
@@ -643,7 +648,7 @@
           ],
         },
         {
-          text: "Welcher Satz beschreibt Sie am ehesten?",
+          text: "Welcher Satz beschreibt Du am ehesten?",
           options: [
             { text: "Ich liebe es, aufzufallen und Akzente zu setzen", type: "dramatic" },
             { text: "Ich möchte professionell und stilvoll wirken", type: "business" },
@@ -653,7 +658,7 @@
           ],
         },
         {
-          text: "Wie sieht Ihr Lieblingsoutfit aus?",
+          text: "Wie sieht Dein Lieblingsoutfit aus?",
           options: [
             {
               text: "Ein auffälliges Kleid oder ein stilvoller Look mit Wow-Effekt",
@@ -666,7 +671,7 @@
           ],
         },
         {
-          text: "Wie gestalten Sie Ihr Make-up am liebsten?",
+          text: "Wie gestalten Du Dein Make-up am liebsten?",
           options: [
             { text: "Markante Augen oder Lippen - gerne mit mutigen Akzenten", type: "dramatic" },
             { text: "Dezent, edel und sauber ausgearbeitet", type: "business" },
@@ -676,7 +681,7 @@
           ],
         },
         {
-          text: "Welche Farben tragen Sie besonders gern im Alltag?",
+          text: "Welche Farben tragen Du besonders gern im Alltag?",
           options: [
             { text: "Kräftige Kontraste wie Schwarz-Weiß oder Rot-Weiß", type: "dramatic" },
             { text: "Klassische Töne wie Beige, Marine, Grau oder Off-White", type: "business" },
@@ -686,7 +691,7 @@
           ],
         },
         {
-          text: "Welche Schuhe greifen Sie spontan am häufigsten?",
+          text: "Welche Schuhe greifen Du spontan am häufigsten?",
           options: [
             {
               text: "Absatzschuhe oder besondere Designs mit Statement-Charakter",
@@ -699,7 +704,7 @@
           ],
         },
         {
-          text: "Welche Accessoires passen am besten zu Ihnen?",
+          text: "Welche Accessoires passen am besten zu dir?",
           options: [
             { text: "Statement-Schmuck, große Taschen und auffällige Details", type: "dramatic" },
             {
@@ -712,7 +717,7 @@
           ],
         },
         {
-          text: "Was findet sich in Ihrem Kleiderschrank besonders oft?",
+          text: "Was findet sich in deinem Kleiderschrank besonders oft?",
           options: [
             { text: "Extravagante Teile mit besonderen Schnitten", type: "dramatic" },
             { text: "Blusen, Stoffhosen und verlässliche Business-Basics", type: "business" },
@@ -722,7 +727,7 @@
           ],
         },
         {
-          text: "Worauf legen Sie bei Kleidung den größten Wert?",
+          text: "Worauf legen Du bei Kleidung den größten Wert?",
           options: [
             { text: "Auf Ausdruck und starke Präsenz", type: "dramatic" },
             { text: "Auf Qualität, Eleganz und Souveränität", type: "business" },
@@ -732,7 +737,7 @@
           ],
         },
         {
-          text: "Wie würden Sie Ihre Ausstrahlung spontan beschreiben?",
+          text: "Wie würden Du Deine Ausstrahlung spontan beschreiben?",
           options: [
             { text: "Selbstbewusst und präsent", type: "dramatic" },
             { text: "Souverän und stilvoll", type: "business" },
@@ -864,7 +869,7 @@
           return {
             ok: false,
             error:
-              "Die EStyle ID enthält einen ungültigen Prüfwert. Bitte prüfen Sie die ID auf Tippfehler.",
+              "Die EStyle ID enthält einen ungültigen Prüfwert. Bitte prüfen Du die ID auf Tippfehler.",
           };
         }
 
@@ -1042,7 +1047,7 @@
       function tryDecode(value) {
         clearError();
         if (!value.trim()) {
-          showError("Bitte geben Sie eine EStyle ID ein.");
+          showError("Bitte geben Du eine EStyle ID ein.");
           return;
         }
         const parsed = parseEStyleId(value);

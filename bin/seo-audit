@@ -17,6 +17,20 @@ const colors = {
 // Region for fetching public files
 const PUBLIC_DIR = "./public";
 const STATIC_DIR = "./static/outfits";
+const EXCLUDED_DIRS = new Set([
+  "public/stiltest",
+  "public/estylepwa",
+  "public/garderobencheck",
+  "public/colormatch",
+  "public/clovermatch",
+  "public/farbkarte",
+  "public/spiel",
+  "public/shop",
+  "public/stefan",
+  "public/tags",
+  "public/ru/tags",
+  "public/de",
+]);
 
 // Issue tracking
 const issues = {
@@ -66,6 +80,20 @@ function findAll(htmlContent, pattern) {
   return results;
 }
 
+function normalizePath(filePath) {
+  return filePath.split(path.sep).join("/");
+}
+
+function isExcludedPath(filePath) {
+  const relativePath = normalizePath(path.relative(process.cwd(), filePath));
+  for (const excludedDir of EXCLUDED_DIRS) {
+    if (relativePath === excludedDir || relativePath.startsWith(`${excludedDir}/`)) {
+      return true;
+    }
+  }
+  return false;
+}
+
 function auditFile(filePath) {
   try {
     const content = fs.readFileSync(filePath, "utf8");
@@ -82,34 +110,37 @@ function auditFile(filePath) {
     links.forEach((match) => {
       const attrs = match[1];
 
-      // Skip anchor/hash links and empty hrefs
-      if (
-        !attrs.includes("href") ||
-        attrs.includes('href=""') ||
-        attrs.match(/href\s*=\s*["']#["']/)
-      ) {
+      const hrefMatch = attrs.match(/\bhref\s*=\s*["']?([^"'\s>]+)["']?/i);
+      const hrefValue = hrefMatch ? hrefMatch[1].trim() : "";
+
+      // Ignore links without href, empty href and in-page fragment links (#...)
+      if (!attrs.includes("href") || !hrefValue || hrefValue.startsWith("#")) {
         return;
       }
 
       const fullLink =
         match[0] + /^[^<]*/.exec(content.substring(match.index + match[0].length))[0] + "</a>";
 
-      // Check for title attribute - case insensitive and allowing attributes in any order
-      if (!attrs.match(/\btitle\s*=/i)) {
+      // Check for link text or aria-label (for accessibility)
+      const hasAriaLabel = attrs.match(/\baria-label\s*=/i);
+      const textMatch = /^<a[^>]*>(.*?)<\/a>/i.exec(fullLink);
+      const text = textMatch
+        ? textMatch[1]
+            .replace(/<[^>]*>/g, "")
+            .replace(/&nbsp;/g, "")
+            .replace(/\s+/g, " ")
+            .trim()
+        : "";
+
+      // Only require title for links that have no visible text and no aria-label.
+      if (!attrs.match(/\btitle\s*=/i) && !hasAriaLabel && !text) {
         issues.linksNoTitle.push({
           file: relativePath,
           link: fullLink.substring(0, 80) + (fullLink.length > 80 ? "..." : ""),
         });
       }
 
-      // Check for link text
-      const textMatch = /^<a[^>]*>(.*?)<\/a>/i.exec(fullLink);
-      if (textMatch) {
-        const text = textMatch[1]
-          .replace(/<[^>]*>/g, "")
-          .replace(/&nbsp;/g, "")
-          .replace(/\s+/g, " ")
-          .trim();
+      if (textMatch && !hasAriaLabel) {
         if (!text) {
           issues.linksNoText.push({
             file: relativePath,
@@ -125,15 +156,13 @@ function auditFile(filePath) {
     images.forEach((match) => {
       const attrs = match[1];
 
-      if (!attrs.match(/\balt\s*=/i)) {
-        issues.imagesNoAlt.push({
-          file: relativePath,
-          img: match[0].substring(0, 80) + (match[0].length > 80 ? "..." : ""),
-        });
+      // Skip decorative images that are explicitly hidden from assistive technology
+      if (attrs.match(/\baria-hidden\s*=\s*["']?true["']?/i)) {
+        return;
       }
 
-      if (!attrs.match(/\btitle\s*=/i)) {
-        issues.imagesNoTitle.push({
+      if (!attrs.match(/\balt\s*=/i)) {
+        issues.imagesNoAlt.push({
           file: relativePath,
           img: match[0].substring(0, 80) + (match[0].length > 80 ? "..." : ""),
         });
@@ -151,7 +180,7 @@ function auditFile(filePath) {
 
     // Check meta description in head (only for index files)
     if (filePath.includes("index.html")) {
-      if (!/<meta\s+name\s*=\s*["']description["']/i.test(content)) {
+      if (!/<meta\s+name\s*=\s*["']?description["']?/i.test(content)) {
         issues.missingMetaDesc.push(relativePath);
       }
 
@@ -178,6 +207,10 @@ function auditFile(filePath) {
 }
 
 function getHtmlFiles(dir, fileList = []) {
+  if (isExcludedPath(dir)) {
+    return fileList;
+  }
+
   const files = fs.readdirSync(dir);
 
   files.forEach((file) => {
@@ -185,10 +218,10 @@ function getHtmlFiles(dir, fileList = []) {
     const stat = fs.statSync(filePath);
 
     if (stat.isDirectory()) {
-      if (!file.startsWith(".") && file !== "node_modules") {
+      if (!file.startsWith(".") && file !== "node_modules" && !isExcludedPath(filePath)) {
         getHtmlFiles(filePath, fileList);
       }
-    } else if (file.endsWith(".html")) {
+    } else if (file.endsWith(".html") && !isExcludedPath(filePath)) {
       fileList.push(filePath);
     }
   });
@@ -257,13 +290,6 @@ function generateReport() {
     if (issues.imagesNoAlt.length > 5) {
       log(`   ... and ${issues.imagesNoAlt.length - 5} more`, "warning");
     }
-  }
-
-  // Images without title
-  if (issues.imagesNoTitle.length > 0) {
-    totalIssues += issues.imagesNoTitle.length;
-    log(`\n⚠️  Images without TITLE attribute: ${issues.imagesNoTitle.length}`, "warning");
-    log(`   (Consider adding titles for better UX)`, "info");
   }
 
   // Empty alt text

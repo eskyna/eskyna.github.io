@@ -1,0 +1,73 @@
+{{ $page := .page }}
+{{ $isRu := eq $page.Language.Lang "ru" }}
+{{ $cf := or $page.Params.contact_form $page.Site.Home.Params.contact_form }}
+{{ $formId := or .formId "eskyna-contact-form" }}
+{{ $statusId := printf "%s-status" $formId }}
+{{ $offerValue := or .offer (cond $isRu "Общий запрос" "Allgemeine Anfrage") }}
+{{ $siteKey := or $page.Site.Params.turnstile_site_key "0x4AAAAAADZwJxWSmKaRT7a5" }}
+{{ $endpoint := or $page.Site.Params.contact_endpoint "https://contact-api.eskyna-style.workers.dev" }}
+{{ $fallbackEmail := or $page.Site.Params.contact_fallback_email "eskyna.app@gmail.com" }}
+{{ $privacyHref := or $cf.privacy_href (cond $isRu "/ru/datenschutz/" "/datenschutz/") }}
+{{ $nameLabel := or $cf.name_label (cond $isRu "Имя *" "Name *") }}
+{{ $emailLabel := or $cf.email_label (cond $isRu "E-Mail *" "E-Mail *") }}
+{{ $phoneLabel := or $cf.phone_label (cond $isRu "Телефон" "Telefon") }}
+{{ $prefLabel := or $cf.preferred_label (cond $isRu "Предпочтительный контакт" "Bevorzugter Kontakt") }}
+{{ $preferredEmailText := or $cf.preferred_email (cond $isRu "E-Mail" "E-Mail") }}
+{{ $preferredPhoneText := or $cf.preferred_phone (cond $isRu "Телефон" "Telefon") }}
+{{ $messageLabel := or $cf.message_label (cond $isRu "Сообщение *" "Nachricht *") }}
+{{ $messagePlaceholder := or $cf.message_placeholder (cond $isRu "Коротко опишите, чем мы можем вам помочь." "Beschreibe kurz, wobei ich dich unterstützen kann.") }}
+{{ $privacyText := or $cf.privacy_text_before (cond $isRu "Я ознакомился(-ась) с" "Ich habe die") }}
+{{ $privacyLinkText := or $cf.privacy_link_text (cond $isRu "политикой конфиденциальности" "Datenschutzerklärung") }}
+{{ $privacyTextAfter := or $cf.privacy_text_after (cond $isRu "и согласен(-на) на обратную связь." "gelesen und bin mit der Kontaktaufnahme einverstanden.") }}
+{{ $sendButtonDefault := or $cf.submit_text_default (cond $isRu "Отправить запрос" "Anfrage senden") }}
+{{ $sendButton := or .submitText $sendButtonDefault }}
+{{ $contactByEmailText := or $cf.fallback_email_text (cond $isRu "Или напишите напрямую на E-Mail:" "Oder schreib mir direkt per E-Mail:") }}
+{{ $statusSending := or $cf.status_sending (cond $isRu "Отправка ..." "Wird gesendet ...") }}
+{{ $statusSuccess := or $cf.status_success (cond $isRu "Спасибо! Ваш запрос отправлен." "Danke! Deine Anfrage wurde gesendet.") }}
+{{ $statusError := or $cf.status_error (cond $isRu (printf "К сожалению, произошла ошибка. Напишите напрямую на %s." $fallbackEmail) (printf "Leider gab es ein Problem. Bitte schreib direkt an %s." $fallbackEmail)) }}
+{{ $statusTurnstile := or $cf.status_turnstile (cond $isRu "Пожалуйста, подтвердите проверку Turnstile." "Bitte bestätige die Turnstile-Prüfung.") }}
+
+<form id="{{ $formId }}" class="eskyna-contact-form js-contact-form" data-contact-endpoint="{{ $endpoint }}" data-status-sending="{{ $statusSending }}" data-status-success="{{ $statusSuccess }}" data-status-error="{{ $statusError }}" data-status-turnstile="{{ $statusTurnstile }}" novalidate>
+  <input type="hidden" name="offer" value="{{ $offerValue }}">
+
+  <label for="{{ $formId }}-name">{{ $nameLabel }}
+    <input id="{{ $formId }}-name" type="text" name="name" required maxlength="120" autocomplete="name">
+  </label>
+
+  <label for="{{ $formId }}-email">{{ $emailLabel }}
+    <input id="{{ $formId }}-email" type="email" name="email" required maxlength="160" autocomplete="email">
+  </label>
+
+  <label for="{{ $formId }}-phone">{{ $phoneLabel }}
+    <input id="{{ $formId }}-phone" type="tel" name="phone" maxlength="80" autocomplete="tel">
+  </label>
+
+  <fieldset class="contact-preferred-fieldset">
+    <legend>{{ $prefLabel }}</legend>
+    <div class="contact-preferred-options">
+      <label class="contact-preferred-option" for="{{ $formId }}-preferred-email">
+        <input id="{{ $formId }}-preferred-email" type="radio" name="preferred_contact" value="email" checked>
+        <span>{{ $preferredEmailText }}</span>
+      </label>
+      <label class="contact-preferred-option" for="{{ $formId }}-preferred-phone">
+        <input id="{{ $formId }}-preferred-phone" type="radio" name="preferred_contact" value="phone">
+        <span>{{ $preferredPhoneText }}</span>
+      </label>
+    </div>
+  </fieldset>
+
+  <label for="{{ $formId }}-message">{{ $messageLabel }}
+    <textarea id="{{ $formId }}-message" name="message" required maxlength="2000" rows="6" placeholder="{{ $messagePlaceholder }}"></textarea>
+  </label>
+
+  <label class="privacy-check" for="{{ $formId }}-privacy">
+    <input id="{{ $formId }}-privacy" type="checkbox" name="privacy" value="true" required>
+    <span>{{ $privacyText }} <a href="{{ $privacyHref | relLangURL }}" title="{{ $privacyLinkText }}" target="_blank" rel="noopener noreferrer">{{ $privacyLinkText }}</a> {{ $privacyTextAfter }}</span>
+  </label>
+
+  <div class="cf-turnstile" data-sitekey="{{ $siteKey }}"></div>
+
+  <button type="submit" class="btn">{{ $sendButton }}</button>
+
+  <p id="{{ $statusId }}" class="contact-status" role="status" aria-live="polite" data-contact-status></p>
+</form>

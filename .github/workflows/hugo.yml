@@ -8,6 +8,16 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      deploy_mode:
+        description: "Deploy mode override: environment | live | preview"
+        required: false
+        default: environment
+        type: choice
+        options:
+          - environment
+          - live
+          - preview
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -59,10 +69,31 @@ jobs:
       - name: Run linters (CSS & Markdown)
         run: npm run lint
 
+  # Translation/template consistency check (parallel)
+  check-translation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip pyyaml
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.160.0"
+          extended: true
+      - name: Run translation check
+        run: ./bin/check_translation
+
   # Build job (depends on format-check and lint)
   build:
-    needs: [format-check, lint]
+    needs: [format-check, lint, check-translation]
     runs-on: ubuntu-latest
+    environment: gh_pages
     steps:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -75,9 +106,61 @@ jobs:
         uses: actions/checkout@v6
         with:
           submodules: recursive
+          fetch-depth: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
+      - name: Prepare preview banner metadata
+        run: |
+          BASE_URL="${{ steps.pages.outputs.base_url }}"
+          MODE_INPUT="${{ github.event.inputs.deploy_mode || '' }}"
+          MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
+          LAST_UPDATED="$(git log -1 --date=format:'%Y-%m-%d %H:%M UTC' --pretty=format:'%cd')"
+          VERSION="$(git rev-parse --short HEAD)"
+          COMMITS="$(git log -n 5 --pretty=format:'%s' | sed 's/|/-/g' | awk 'NR==1{printf "%s", $0} NR>1{printf " || %s", $0}')"
+
+          if [[ -z "$MODE_VAR" ]]; then
+            echo "Fehler: Environment-Variable DEPLOY_MODE ist nicht gesetzt (expected: live oder preview)." >&2
+            exit 1
+          fi
+
+          if [[ "$MODE_VAR" != "live" && "$MODE_VAR" != "preview" ]]; then
+            echo "Fehler: Ungueltiger DEPLOY_MODE='$MODE_VAR' (erlaubt: live, preview)." >&2
+            exit 1
+          fi
+
+          MODE="$MODE_VAR"
+          if [[ -n "$MODE_INPUT" && "$MODE_INPUT" != "environment" ]]; then
+            MODE="$MODE_INPUT"
+          fi
+
+          if [[ "$MODE" != "live" && "$MODE" != "preview" ]]; then
+            echo "Fehler: Effektiver deploy_mode '$MODE' ist ungueltig (erlaubt: live, preview)." >&2
+            exit 1
+          fi
+
+          BUILD_BASEURL="${BASE_URL%/}/"
+          if [[ "$MODE" == "preview" && "$BASE_URL" != *"/preview" ]]; then
+            BUILD_BASEURL="${BASE_URL%/}/preview/"
+          fi
+
+          PREVIEW_BANNER="false"
+          if [[ "$MODE" == "preview" ]]; then
+            PREVIEW_BANNER="true"
+          fi
+
+          {
+            echo "HUGO_PREVIEW_BANNER=$PREVIEW_BANNER"
+            echo "HUGO_PREVIEW_VERSION=$VERSION"
+            echo "HUGO_PREVIEW_LAST_UPDATED=$LAST_UPDATED"
+            echo "HUGO_PREVIEW_COMMITS=$COMMITS"
+            echo "HUGO_BUILD_BASEURL=$BUILD_BASEURL"
+            echo "DEPLOY_MODE_EFFECTIVE=$MODE"
+          } >> "$GITHUB_ENV"
+
+          echo "Resolved deploy mode: $MODE"
+          echo "Resolved base URL: $BUILD_BASEURL"
+          echo "Preview banner: $(grep -E '^HUGO_PREVIEW_BANNER=' "$GITHUB_ENV" | tail -1 | cut -d= -f2-)"
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
@@ -89,7 +172,69 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
+          HUGO_BASEURL: ${{ env.HUGO_BUILD_BASEURL }}
+          HUGO_PREVIEW_BANNER: ${{ env.HUGO_PREVIEW_BANNER }}
+          HUGO_PREVIEW_VERSION: ${{ env.HUGO_PREVIEW_VERSION }}
+          HUGO_PREVIEW_LAST_UPDATED: ${{ env.HUGO_PREVIEW_LAST_UPDATED }}
+          HUGO_PREVIEW_COMMITS: ${{ env.HUGO_PREVIEW_COMMITS }}
+        run: npm run build:ci
+      - name: Compute links checked for preview banner
+        if: env.HUGO_PREVIEW_BANNER == 'true'
+        run: |
+          BUILD_BASEURL="${{ env.HUGO_BUILD_BASEURL }}"
+          export BUILD_BASEURL
+
+          BASE_PATH=$(python3 - <<'PY'
+          from urllib.parse import urlparse
+          import os
+
+          parsed = urlparse(os.environ["BUILD_BASEURL"])
+          path = parsed.path.rstrip("/")
+          print(path)
+          PY
+          )
+
+          SERVE_DIR=$(mktemp -d)
+          if [ -n "$BASE_PATH" ]; then
+            mkdir -p "$SERVE_DIR$BASE_PATH"
+            cp -R public/. "$SERVE_DIR$BASE_PATH/"
+          else
+            cp -R public/. "$SERVE_DIR/"
+          fi
+
+          python3 -m http.server 4173 --directory "$SERVE_DIR" >/tmp/banner-linkcheck-server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID; rm -rf "$SERVE_DIR"' EXIT
+
+          RAW_LINK_OUTPUT="$(python3 bin/check-live-assets \
+            "http://localhost:4173${BASE_PATH}" \
+            "http://localhost:4173${BASE_PATH}/estyle" \
+            "http://localhost:4173${BASE_PATH}/about" \
+            "http://localhost:4173${BASE_PATH}/impressum" \
+            "http://localhost:4173${BASE_PATH}/datenschutz" \
+            "http://localhost:4173${BASE_PATH}/shop" \
+            "http://localhost:4173${BASE_PATH}/blog" \
+            --max-pages 300 \
+            --concurrency 12 2>&1 || true)"
+
+          LINKS_CHECKED="$(printf '%s\n' "$RAW_LINK_OUTPUT" | sed -nE 's/.*checked: ([0-9]+).*/\1/p' | tail -1)"
+          if [[ ! "$LINKS_CHECKED" =~ ^[0-9]+$ ]]; then
+            LINKS_CHECKED="0"
+          fi
+
+          printf 'HUGO_PREVIEW_LINKS_CHECKED=%s\n' "$LINKS_CHECKED" >> "$GITHUB_ENV"
+          echo "Preview banner links checked: $LINKS_CHECKED"
+      - name: Rebuild with preview link count
+        if: env.HUGO_PREVIEW_BANNER == 'true'
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+          HUGO_BASEURL: ${{ env.HUGO_BUILD_BASEURL }}
+          HUGO_PREVIEW_BANNER: ${{ env.HUGO_PREVIEW_BANNER }}
+          HUGO_PREVIEW_VERSION: ${{ env.HUGO_PREVIEW_VERSION }}
+          HUGO_PREVIEW_LAST_UPDATED: ${{ env.HUGO_PREVIEW_LAST_UPDATED }}
+          HUGO_PREVIEW_COMMITS: ${{ env.HUGO_PREVIEW_COMMITS }}
+          HUGO_PREVIEW_LINKS_CHECKED: ${{ env.HUGO_PREVIEW_LINKS_CHECKED }}
         run: npm run build:ci
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
@@ -100,9 +245,13 @@ jobs:
   link-check:
     needs: build
     runs-on: ubuntu-latest
+    environment: gh_pages
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
       - name: Download artifact
         uses: actions/download-artifact@v8
         with:
@@ -116,28 +265,105 @@ jobs:
           mv ./artifact ./public
       - name: Verify links, assets and anchors
         run: |
-          python3 -m http.server 4173 --directory public >/tmp/linkcheck-server.log 2>&1 &
+          BASE_URL="${{ steps.pages.outputs.base_url }}"
+          MODE_INPUT="${{ github.event.inputs.deploy_mode || '' }}"
+          MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
+
+          MODE=""
+          if [[ -n "$MODE_INPUT" && "$MODE_INPUT" != "environment" ]]; then
+            MODE="$MODE_INPUT"
+          else
+            MODE="$MODE_VAR"
+          fi
+          if [[ -z "$MODE" ]]; then
+            MODE="live"
+          fi
+
+          CHECK_BASE_URL="${BASE_URL%/}/"
+          if [[ "$MODE" == "preview" ]]; then
+            if [[ "$BASE_URL" == *"/preview" ]]; then
+              CHECK_BASE_URL="${BASE_URL%/}/"
+            else
+              CHECK_BASE_URL="${BASE_URL%/}/preview/"
+            fi
+          else
+            CHECK_BASE_URL="${BASE_URL%/}/"
+          fi
+
+          export CHECK_BASE_URL
+
+          BASE_PATH=$(python3 - <<'PY'
+          from urllib.parse import urlparse
+          import os
+
+          parsed = urlparse(os.environ["CHECK_BASE_URL"])
+          path = parsed.path.rstrip("/")
+          print(path)
+          PY
+          )
+
+          SERVE_DIR=$(mktemp -d)
+          if [ -n "$BASE_PATH" ]; then
+            mkdir -p "$SERVE_DIR$BASE_PATH"
+            cp -R public/. "$SERVE_DIR$BASE_PATH/"
+          else
+            cp -R public/. "$SERVE_DIR/"
+          fi
+
+          python3 -m http.server 4173 --directory "$SERVE_DIR" >/tmp/linkcheck-server.log 2>&1 &
           SERVER_PID=$!
-          trap 'kill $SERVER_PID' EXIT
+          trap 'kill $SERVER_PID; rm -rf "$SERVE_DIR"' EXIT
 
-          python3 bin/check-live-assets \
-            http://localhost:4173 \
-            http://localhost:4173/estyle \
-            http://localhost:4173/about \
-            http://localhost:4173/impressum \
-            http://localhost:4173/datenschutz \
-            http://localhost:4173/shop \
-            http://localhost:4173/blog \
+          LINKS_CHECKED=$(python3 bin/check-live-assets \
+            "http://localhost:4173${BASE_PATH}" \
+            "http://localhost:4173${BASE_PATH}/estyle" \
+            "http://localhost:4173${BASE_PATH}/about" \
+            "http://localhost:4173${BASE_PATH}/impressum" \
+            "http://localhost:4173${BASE_PATH}/datenschutz" \
+            "http://localhost:4173${BASE_PATH}/shop" \
+            "http://localhost:4173${BASE_PATH}/blog" \
             --max-pages 300 \
-            --concurrency 12
+            --concurrency 12 2>&1 | grep -oP '(?<=checked: )\d+' | tail -1 || echo "0")
+          echo "Links checked in build: $LINKS_CHECKED"
+        env:
+          CHECK_BASE_URL: ${{ steps.pages.outputs.base_url }}
 
-  # Deployment job (depends on build and link-check)
+  # SEO audit job (depends on build)
+  seo-audit:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: gh_pages
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install Node.js dependencies
+        run: npm install
+      - name: Download artifact
+        uses: actions/download-artifact@v8
+        with:
+          name: github-pages
+          path: ./artifact
+      - name: Extract artifact
+        run: |
+          cd ./artifact
+          tar -xf artifact.tar
+          cd ..
+          mv ./artifact ./public
+      - name: Run SEO audit
+        run: npm run seo-audit
+
+  # Deployment job (depends on build, link-check and seo-audit)
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: [build, link-check]
+    needs: [build, link-check, seo-audit]
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

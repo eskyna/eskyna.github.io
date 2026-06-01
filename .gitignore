@@ -3,4 +3,7 @@ node_modules/**
 public/**
 **/.DS_Store
 .tmp
+preview
 **/__pycache__
+test-results/
+.secret

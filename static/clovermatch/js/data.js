@@ -12,7 +12,7 @@ export const ITEMS = [
     sub: "weicher, harmonischer Eindruck",
     type: "color",
     facet: "Farbtyp",
-    coach: "Eine Farbe ist nicht nur schön. Sie verändert Frische und Präsenz.",
+    coach: "Eine Farbe ist nicht nur schön. Du verändert Frische und Präsenz.",
   },
   {
     text: "Kobaltblau im Meeting",
@@ -98,7 +98,7 @@ export const ITEMS = [
     type: "letgo",
     facet: "Impuls",
     hazard: true,
-    coach: "Ihr Stil ist kein Trend-Reflex. Er braucht einen roten Faden.",
+    coach: "Dein Stil ist kein Trend-Reflex. Er braucht einen roten Faden.",
   },
   {
     text: "Noch ein schwarzes Basic",
@@ -122,7 +122,7 @@ export const ITEMS = [
     type: "letgo",
     facet: "Trend",
     hazard: true,
-    coach: "Was online funktioniert, muss nicht zu Ihnen passen.",
+    coach: "Was online funktioniert, muss nicht zu dir passen.",
   },
   {
     text: "Schnäppchen ohne Plan",
@@ -315,11 +315,11 @@ export const ITEMS = [
   },
   {
     text: "„Must-have“ der Saison",
-    sub: "Medienhype, nicht Ihr Stil",
+    sub: "Medienhype, nicht Dein Stil",
     type: "letgo",
     facet: "Impuls",
     hazard: true,
-    coach: "Must-have ist oft must-for-others. Prüfen Sie Ihre Matrix.",
+    coach: "Must-have ist oft must-for-others. Prüfen Du Deine Matrix.",
   },
   {
     text: "Drittes ähnliches Kleid",
@@ -351,7 +351,7 @@ export const ITEMS = [
     type: "letgo",
     facet: "Prüfung",
     hazard: true,
-    coach: "Stil muss zu Ihnen passen – nicht nur gefallen.",
+    coach: "Stil muss zu dir passen – nicht nur gefallen.",
   },
   {
     text: "Outlet ohne Liste",
@@ -367,7 +367,7 @@ export const ITEMS = [
     type: "letgo",
     facet: "Prüfung",
     hazard: true,
-    coach: "Einzelstücke brauchen Anschluss an Ihre Garderobe.",
+    coach: "Einzelstücke brauchen Anschluss an Deine Garderobe.",
   },
 ];
 
@@ -422,29 +422,29 @@ export const LEVELS = [
 export const TUTORIAL = [
   {
     title: "Warum dieses Spiel?",
-    body: "Shopping und Outfit-Entscheidungen sind selten ein Talent – meist fehlt ein System. Hier üben Sie das ESKYNA-Kleeblatt spielerisch, bevor es Geld und Schrankplatz kostet.",
+    body: "Shopping und Outfit-Entscheidungen sind selten ein Talent – meist fehlt ein System. Hier üben Du das ESKYNA-Kleeblatt spielerisch, bevor es Geld und Schrankplatz kostet.",
     visual:
-      "<p><b>Sie lernen:</b> Signale lesen, Blätter unterscheiden, Fehlkäufe stoppen – in unter zehn Minuten spürbar.</p>",
+      "<p><b>Du lernen:</b> Signale lesen, Blätter unterscheiden, Fehlkäufe stoppen – in unter zehn Minuten spürbar.</p>",
   },
   {
     title: "Die vier Blätter",
-    body: "Jedes Kleidungsstück, jeder Kauf und jeder Look-Impuls lässt sich in genau eine Kategorie denken. Das entlastet – Sie müssen nicht „alles“ gleichzeitig lösen.",
+    body: "Jedes Kleidungsstück, jeder Kauf und jeder Look-Impuls lässt sich in genau eine Kategorie denken. Das entlastet – Du musst nicht „alles“ gleichzeitig lösen.",
     visual:
       '<div class="tutorial-keys"><kbd>1<br>Farbe</kbd><kbd>2<br>Form</kbd><kbd>3<br>Wirkung</kbd><kbd>4<br>Alltag</kbd><kbd>L<br>Filter</kbd></div><p><small>Farbe = passt zu mir? Form = Schnitt & Material? Wirkung = Auftritt? Alltag = kombinierbar?</small></p>',
   },
   {
     title: "Style-Filter: Loslassen",
-    body: "Nicht jedes attraktive Angebot gehört in Ihre Garderobe. Der Filter trainiert die wichtigste Alltagsfähigkeit: Nein sagen, bevor es ein Fehlkauf wird.",
+    body: "Nicht jedes attraktive Angebot gehört in Deine Garderobe. Der Filter trainiert die wichtigste Alltagsfähigkeit: Nein sagen, bevor es ein Fehlkauf wird.",
     visual: "<p>Impulse mit <b>!</b> fast immer filtern – Sale, Trend, Druck, Duplikat.</p>",
   },
   {
     title: "Was sich einprägt",
-    body: "Jede Karte festigt ein Muster: „Das ist Farbe“, „das ist Form“ – bis Sie im echten Schrank und Shop schneller entscheiden. Serien und Balance belohnen ganzheitliches Denken.",
+    body: "Jede Karte festigt ein Muster: „Das ist Farbe“, „das ist Form“ – bis Du im echten Schrank und Shop schneller entscheiden. Serien und Balance belohnen ganzheitliches Denken.",
     visual: "<p><b>Merksatz:</b> Erst Kleeblatt, dann Kauf. Erst System, dann Schnäppchen.</p>",
   },
   {
     title: "Fünf Level – fünf Kompetenzen",
-    body: "Vom Kennenlernen bis zum EStyle-Flow steigert sich der Anspruch. Nach jedem Level sehen Sie, was Sie geübt haben – auch wenn es nicht geschafft wurde.",
-    visual: "<p>Bereit? Natalia erklärt jede Karte – nutzen Sie die Impulse als Mini-Lektion.</p>",
+    body: "Vom Kennenlernen bis zum EStyle-Flow steigert sich der Anspruch. Nach jedem Level sehen Du, was Du geübt haben – auch wenn es nicht geschafft wurde.",
+    visual: "<p>Bereit? Natalia erklärt jede Karte – nutzen Du die Impulse als Mini-Lektion.</p>",
   },
 ];

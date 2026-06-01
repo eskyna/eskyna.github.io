@@ -5,13 +5,13 @@ disableHugoGeneratorInject = true
 cleanDestinationDir = true
 [minify]
   minifyOutput = true
-title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
+title = "ESKYNA | Style & Image Coaching"
 
 [languages]
   [languages.de]
-    title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
+    title = "ESKYNA | Style & Image Coaching"
     locale = "de-DE"
-    languageName = "Deutsch"
+    label = "Deutsch"
     weight = 1
     contentDir = "content/de"
     [languages.de.params]
@@ -19,9 +19,9 @@ title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
       description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecken Sie Ihren individuellen Stil, treten Sie sichtbar und authentisch auf. ESKYNA begleitet Sie zu mehr Stilsicherheit und Selbstvertrauen."
   
   [languages.ru]
-    title = "Natalia Kleemann | Имидж- и стиль-коучинг онлайн и в Ганновере"
+    title = "ESKYNA | Имидж-коучинг"
     locale = "ru-RU"
-    languageName = "Русский"
+    label = "Русский"
     weight = 2
     contentDir = "content/ru"
     [languages.ru.params]
@@ -32,6 +32,16 @@ title = "Natalia Kleemann | Style & Image Coaching Vor-Ort & Online"
   author = "Natalia Kleemann"
   description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecken Sie Ihren individuellen Stil, treten Sie sichtbar und authentisch auf. ESKYNA begleitet Sie zu mehr Stilsicherheit und Selbstvertrauen."
   keywords = "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching"
+  contact_endpoint = "https://contact-api.eskyna-style.workers.dev"
+  contact_fallback_email = "natalia@eskyna.com"
+  turnstile_site_key = "0x4AAAAAADZwJxWSmKaRT7a5"
+  [params.preview_banner]
+    enabled = false
+    label = "Preview"
+    version = ""
+    last_updated = ""
+    commits = ""
+    links_checked = ""
 
 [markup]
   [markup.goldmark]

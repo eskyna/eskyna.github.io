@@ -1,0 +1,200 @@
+{{ $previewEnabledEnv := lower (getenv "HUGO_PREVIEW_BANNER") }}
+{{ $previewEnabled := or hugo.IsServer .Site.Params.preview_banner.enabled (eq $previewEnabledEnv "1") (eq $previewEnabledEnv "true") }}
+{{ if $previewEnabled }}
+  {{ $previewLabelRaw := .Site.Params.preview_banner.label | default "Preview" }}
+  {{ $previewVersionRaw := .Site.Params.preview_banner.version | default (getenv "HUGO_PREVIEW_VERSION") }}
+  {{ $previewLastUpdatedRaw := .Site.Params.preview_banner.last_updated | default (getenv "HUGO_PREVIEW_LAST_UPDATED") }}
+  {{ $previewCommitsRaw := .Site.Params.preview_banner.commits | default (getenv "HUGO_PREVIEW_COMMITS") }}
+  {{ $previewLinksCheckedRaw := .Site.Params.preview_banner.links_checked | default (getenv "HUGO_PREVIEW_LINKS_CHECKED") }}
+
+  {{ $previewLabel := $previewLabelRaw | replaceRE `^["']+|["']+$` "" | strings.TrimSpace }}
+  {{ $previewVersion := $previewVersionRaw | replaceRE `^["']+|["']+$` "" | strings.TrimSpace }}
+  {{ $previewLastUpdated := $previewLastUpdatedRaw | replaceRE `^["']+|["']+$` "" | strings.TrimSpace }}
+  {{ $previewLinksChecked := $previewLinksCheckedRaw | replaceRE `^["']+|["']+$` "" | strings.TrimSpace }}
+  {{ $previewPagesCount := len .Site.RegularPages }}
+  {{ $previewBlogPostsCount := len (where .Site.RegularPages "Section" "blog") }}
+
+  <style>
+    #preview-banner {
+      position: fixed;
+      right: 1rem;
+      bottom: 1rem;
+      z-index: 10000;
+      display: inline-flex;
+      flex-direction: column;
+      align-items: flex-end;
+      font-family: system-ui, sans-serif;
+    }
+
+    #preview-banner .preview-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.65rem 1.25rem;
+      border-radius: 999px;
+      border: 1px solid rgb(255 255 255 / 25%);
+      background: linear-gradient(135deg, rgb(209 132 62 / 95%), rgb(181 98 39 / 95%));
+      box-shadow: 0 10px 24px rgb(0 0 0 / 32%);
+      color: #fff;
+      font-size: 0.92rem;
+      font-weight: 700;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+      cursor: help;
+      backdrop-filter: blur(3px);
+    }
+
+    #preview-banner .preview-badge:focus-visible {
+      outline: 2px solid rgb(255 255 255 / 72%);
+      outline-offset: 2px;
+    }
+
+    #preview-banner .preview-tooltip {
+      position: absolute;
+      right: 0;
+      bottom: calc(100% + 0.7rem);
+      width: min(30rem, calc(100vw - 1.5rem));
+      padding: 0.8rem 0.9rem;
+      border-radius: 0.72rem;
+      border: 1px solid rgb(255 255 255 / 14%);
+      background: linear-gradient(180deg, rgb(34 27 22 / 97%), rgb(22 17 14 / 97%));
+      box-shadow: 0 14px 30px rgb(0 0 0 / 35%);
+      color: #fff;
+      font-size: 0.8rem;
+      line-height: 1.4;
+      letter-spacing: 0.01em;
+      white-space: normal;
+      overflow-wrap: break-word;
+      opacity: 0;
+      transform: translateY(6px);
+      transition: opacity 0.2s ease, transform 0.2s ease;
+      pointer-events: none;
+    }
+
+    #preview-banner:hover .preview-tooltip,
+    #preview-banner:focus-within .preview-tooltip {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    #preview-banner .preview-title {
+      margin: 0 0 0.2rem;
+      font-size: 0.84rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    #preview-banner .preview-intro {
+      margin: 0 0 0.55rem;
+      color: rgb(255 255 255 / 85%);
+    }
+
+    #preview-banner .preview-stats {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0 0 0.55rem;
+      font-size: 0.78rem;
+    }
+
+    #preview-banner .preview-stats th,
+    #preview-banner .preview-stats td {
+      text-align: left;
+      padding: 0.1rem 0;
+      vertical-align: top;
+    }
+
+    #preview-banner .preview-stats th {
+      width: 42%;
+      padding-right: 0.6rem;
+      color: rgb(255 255 255 / 72%);
+      font-weight: 600;
+    }
+
+    #preview-banner .preview-stats td {
+      color: #fff;
+      font-weight: 500;
+    }
+
+    #preview-banner .preview-commits-title {
+      margin: 0 0 0.3rem;
+      color: rgb(255 255 255 / 88%);
+      font-weight: 650;
+    }
+
+    #preview-banner .preview-commits {
+      margin: 0;
+      padding-left: 1.05rem;
+      display: grid;
+      gap: 0.2rem;
+      color: rgb(255 255 255 / 82%);
+    }
+
+    #preview-banner .preview-commits li {
+      list-style: disc;
+    }
+  </style>
+
+  <div id="preview-banner">
+    <div
+      class="preview-badge"
+      role="button"
+      tabindex="0"
+      aria-describedby="preview-tooltip"
+      aria-label="Preview-Hinweis anzeigen"
+    >
+      {{ $previewLabel }}
+    </div>
+
+    <div id="preview-tooltip" class="preview-tooltip" role="tooltip">
+      <p class="preview-title">Vor-Version</p>
+      <p class="preview-intro">Diese Version ist noch nicht live.</p>
+
+      <table class="preview-stats">
+        <tbody>
+          <tr>
+            <th>Version</th>
+            <td>{{ if ne $previewVersion "" }}{{ $previewVersion }}{{ else }}n/a{{ end }}</td>
+          </tr>
+          <tr>
+            <th>Letzte Anderung</th>
+            <td>{{ if ne $previewLastUpdated "" }}{{ $previewLastUpdated }}{{ else }}n/a{{ end }}</td>
+          </tr>
+          <tr>
+            <th>Seiten</th>
+            <td>{{ $previewPagesCount }}</td>
+          </tr>
+          <tr>
+            <th>Geprufte Links</th>
+            <td>{{ if ne $previewLinksChecked "" }}{{ $previewLinksChecked }}{{ else }}n/a{{ end }}</td>
+          </tr>
+          <tr>
+            <th>Blog-Posts</th>
+            <td>{{ $previewBlogPostsCount }}</td>
+          </tr>
+        </tbody>
+      </table>
+
+      {{ $commitItems := split $previewCommitsRaw " || " }}
+      {{ if gt (len $commitItems) 0 }}
+        {{ $hasCommit := false }}
+        {{ range first 5 $commitItems }}
+          {{ if ne (. | replaceRE `^["']+|["']+$` "" | strings.TrimSpace) "" }}
+            {{ $hasCommit = true }}
+          {{ end }}
+        {{ end }}
+        {{ if $hasCommit }}
+          <p class="preview-commits-title">Letzte Commits</p>
+          <ul class="preview-commits">
+            {{ range first 5 $commitItems }}
+              {{ $commit := . | replaceRE `^["']+|["']+$` "" | strings.TrimSpace }}
+              {{ if ne $commit "" }}
+                <li>{{ $commit }}</li>
+              {{ end }}
+            {{ end }}
+          </ul>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

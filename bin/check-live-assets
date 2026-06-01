@@ -279,6 +279,9 @@ def main() -> int:
     print(f"\nPages crawled: {len(visited_pages)}")
     print(f"Unique in-scope assets to check: {len(asset_candidates)}")
     print(f"Anchor references to check: {len(anchor_checks)}")
+    # Stable summary line for CI parsing (workflow extracts this value for preview badge).
+    total_checked = len(visited_pages) + len(asset_candidates) + len(anchor_checks)
+    print(f"checked: {total_checked}")
 
     def check_one_asset(url: str):
         ok, status, detail = check_loadable(url)

@@ -1,0 +1,286 @@
+#!/usr/bin/env python3
+
+from __future__ import annotations
+
+import argparse
+import os
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
+try:
+    import yaml
+except ModuleNotFoundError:
+    yaml = None
+
+
+class C:
+    RESET = "\033[0m"
+    BOLD = "\033[1m"
+    DIM = "\033[2m"
+    RED = "\033[31m"
+    GREEN = "\033[32m"
+    YELLOW = "\033[33m"
+    BLUE = "\033[34m"
+    CYAN = "\033[36m"
+
+
+def use_color() -> bool:
+    if os.environ.get("NO_COLOR") is not None:
+        return False
+    return sys.stdout.isatty()
+
+
+COLOR = use_color()
+
+
+def color(text: str, code: str) -> str:
+    if not COLOR:
+        return text
+    return f"{code}{text}{C.RESET}"
+
+
+def h1(text: str) -> str:
+    return color(text, C.BOLD + C.BLUE)
+
+
+def ok(text: str) -> str:
+    return color(text, C.GREEN)
+
+
+def warn(text: str) -> str:
+    return color(text, C.YELLOW)
+
+
+def err(text: str) -> str:
+    return color(text, C.RED)
+
+
+def info(text: str) -> str:
+    return color(text, C.CYAN)
+
+
+def rel_to_root(path: Path, root_dir: Path) -> str:
+    try:
+        return str(path.relative_to(root_dir))
+    except ValueError:
+        return str(path)
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Checks Hugo i18n warnings and template/content tag usage.")
+    parser.add_argument(
+        "hugo_args",
+        nargs="*",
+        help="Optional extra Hugo args (e.g. --printPathWarnings).",
+    )
+    return parser.parse_args()
+
+
+def parse_template_for_params(content: str) -> set[str]:
+    """
+    Simple tokenizer/state machine that scans Hugo template blocks
+    and extracts .Params.<tag>, .Page.Params.<tag>, .Site.Params.<tag>,
+    built-in fields (.Title, .Date, .Draft, .Description), and other usages.
+    """
+    tags: set[str] = set()
+    in_tag = False
+    buffer = ""
+
+    i = 0
+    length = len(content)
+
+    while i < length - 1:
+        if not in_tag and content[i : i + 2] == "{{":
+            in_tag = True
+            i += 2
+            continue
+
+        if in_tag and content[i : i + 2] == "}}":
+            in_tag = False
+            tokens = buffer.split()
+            for token in tokens:
+                clean_token = token.strip("()\"',")
+                parts = clean_token.split(".")
+                
+                # Match .Params.<tag>, .Page.Params.<tag>, .Site.Params.<tag>
+                if "Params" in parts:
+                    try:
+                        params_idx = parts.index("Params")
+                        if params_idx + 1 < len(parts):
+                            tags.add(parts[params_idx + 1])
+                    except (ValueError, IndexError):
+                        pass
+                
+                # Match built-in fields: .Title, .Date, .Draft, .Description
+                builtin_fields = {".Title": "title", ".Date": "date", ".Draft": "draft", ".Description": "description"}
+                for field, tag_name in builtin_fields.items():
+                    if clean_token == field:
+                        tags.add(tag_name)
+
+            buffer = ""
+            i += 2
+            continue
+
+        if in_tag:
+            buffer += content[i]
+
+        i += 1
+
+    return tags
+
+
+def get_layout_tags(layouts_dir: Path) -> set[str]:
+    """Walk all .html files in layouts and collect .Params tags."""
+    layout_tags: set[str] = set()
+    for root, _, files in os.walk(layouts_dir):
+        for file_name in files:
+            if not file_name.endswith(".html"):
+                continue
+            path = Path(root) / file_name
+            try:
+                content = path.read_text(encoding="utf-8")
+                tags = parse_template_for_params(content)
+                layout_tags.update(tags)
+            except Exception as exc:
+                print(f"Error reading {path}: {exc}", file=sys.stderr)
+    return layout_tags
+
+
+def get_markdown_tags(content_dir: Path) -> dict[Path, dict[str, int]]:
+    """Read top-level YAML front matter keys and their line numbers from all .md files under content."""
+    md_files: dict[Path, dict[str, int]] = {}
+
+
+    def extract_top_level_yaml_keys_with_lines(content: str) -> dict[str, int]:
+        keys: dict[str, int] = {}
+        lines = content.splitlines()
+        if not lines or lines[0].strip() != "---":
+            return keys
+
+        # Front matter starts after first --- and ends at next ---.
+        end_idx = -1
+        for idx in range(1, len(lines)):
+            if lines[idx].strip() == "---":
+                end_idx = idx
+                break
+        if end_idx == -1:
+            return keys
+
+        yaml_lines = lines[1:end_idx]
+        yaml_content = "\n".join(yaml_lines)
+        if not yaml_content.strip():
+            return keys
+
+        try:
+            node = yaml.compose(yaml_content)
+        except yaml.YAMLError:
+            return keys
+
+        if not isinstance(node, yaml.MappingNode):
+            return keys
+
+        # The first line of YAML content maps to file line 2.
+        base_line = 2
+        for key_node, _value_node in node.value:
+            if not isinstance(key_node, yaml.ScalarNode):
+                continue
+            key = str(key_node.value).strip()
+            if not key or key.startswith("-"):
+                continue
+            keys[key] = base_line + int(key_node.start_mark.line)
+        return keys
+
+    for root, _, files in os.walk(content_dir):
+        for file_name in files:
+            if not file_name.endswith(".md"):
+                continue
+            path = Path(root) / file_name
+            try:
+                content = path.read_text(encoding="utf-8")
+                key_lines = extract_top_level_yaml_keys_with_lines(content)
+                file_tags = {k: line_no for k, line_no in key_lines.items()}
+                md_files[path] = file_tags
+            except Exception as exc:
+                print(f"Error reading {path}: {exc}", file=sys.stderr)
+
+    return md_files
+
+
+def validate_template_vs_content(root_dir: Path) -> int:
+    layouts_path = root_dir / "layouts"
+    content_path = root_dir / "content"
+
+    if not layouts_path.exists() or not content_path.exists():
+        print("Error: 'layouts' or 'content' folder not found. Run this in Hugo root.", file=sys.stderr)
+        return 1
+
+    print(h1("Template/Frontmatter Validation"))
+    print(info("Reading templates..."))
+    layout_tags = get_layout_tags(layouts_path)
+
+    print(info("Reading markdown front matter..."))
+    markdown_files = get_markdown_tags(content_path)
+
+    warnings_by_file: dict[Path, list[tuple[str, int]]] = {}
+
+    for file_path, md_tags in sorted(markdown_files.items()):
+        for tag in sorted(md_tags.keys()):
+            if tag not in layout_tags:
+                warnings_by_file.setdefault(file_path, []).append((tag, md_tags[tag]))
+
+    print()
+    print(info(f"Checked {len(markdown_files)} markdown files against {len(layout_tags)} template tags."))
+
+    print()
+    if warnings_by_file:
+        total_warnings = sum(len(tags) for tags in warnings_by_file.values())
+        print(warn(f"Found {total_warnings} warning(s) in {len(warnings_by_file)} file(s):"))
+        print()
+        for file_path in sorted(warnings_by_file):
+            rel_path = rel_to_root(file_path, root_dir)
+            print(f"{warn('•')} {color(rel_path, C.BOLD)}")
+            for tag, line_no in warnings_by_file[file_path]:
+                print(f"  {warn('-')} line {color(str(line_no), C.DIM)}: unused tag {color(tag, C.YELLOW)}")
+            print()
+        print(err("Unused tags found."))
+        return 1
+
+    print(ok("All clean. No unused tags found."))
+    return 0
+
+
+def main() -> int:
+    args = parse_args()
+    script_path = Path(__file__).resolve()
+    root_dir = script_path.parent.parent
+
+    if yaml is None:
+        print(err("Error: PyYAML is required. Install with 'pip install pyyaml'."), file=sys.stderr)
+        return 2
+
+    hugo_bin = shutil.which("hugo")
+    if not hugo_bin:
+        print(err("Error: Hugo is not installed or not in PATH."), file=sys.stderr)
+        return 127
+
+    layout_files = sorted((root_dir / "layouts").glob("**/*.html"))
+    markdown_files = sorted((root_dir / "content").glob("**/*.md"))
+
+    print(h1("Hugo i18n Check"))
+    print(info("Running Hugo i18n warning check..."))
+    print(info(f"Scope: {len(layout_files)} layout files and {len(markdown_files)} markdown files"))
+
+    result = subprocess.run([hugo_bin, "--printI18nWarnings", *args.hugo_args], cwd=root_dir)
+    if result.returncode != 0:
+        print(err("Hugo i18n warning check failed."), file=sys.stderr)
+        return result.returncode
+    print(ok("Hugo i18n warning check completed."))
+    print()
+
+    return validate_template_vs_content(root_dir)
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

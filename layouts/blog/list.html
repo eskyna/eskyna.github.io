@@ -1,51 +1,38 @@
 {{ define "main" }}
-{{ $backText := "Zur Startseite" }}
-{{ $readMoreText := "Artikel lesen" }}
-{{ $readingTimeText := "Min. Lesezeit" }}
-{{ $journalTitle := "ESKYNA Journal" }}
-{{ $journalSubtitle := "Fundierte Stilbeiträge, Farbtheorie und Outfit-Ideen für einen Kleiderschrank, der wirklich zu Ihnen passt." }}
-{{ $featuredText := "Aktueller Editorial-Beitrag" }}
-{{ $advisoryTitle := "Mehr Klarheit für Ihren Stil" }}
-{{ $advisoryBody := "Entdecken Sie, welche Farben, Schnitte und Kombinationen zu Ihnen passen." }}
-{{ $advisoryCta := "Stilberatung entdecken" }}
-{{ $chipAll := "Alle" }}
-{{ $chipColors := "Farben" }}
-{{ $chipCapsule := "Capsule Wardrobe" }}
-{{ $chipBusiness := "Business-Chic" }}
-{{ $chipConsulting := "Stilberatung" }}
-{{ if eq .Language.Lang "ru" }}
-  {{ $backText = "На главную" }}
-  {{ $readMoreText = "Читать статью" }}
-  {{ $readingTimeText = "мин. чтения" }}
-  {{ $journalTitle = "ESKYNA Journal" }}
-  {{ $journalSubtitle = "Практика стиля, теория цвета и готовые идеи образов для гардероба, который действительно подходит именно вам." }}
-  {{ $featuredText = "Текущий редакционный материал" }}
-  {{ $advisoryTitle = "Больше ясности в вашем стиле" }}
-  {{ $advisoryBody = "Узнайте, какие цвета, силуэты и сочетания подходят именно вам." }}
-  {{ $advisoryCta = "Открыть консультацию" }}
-  {{ $chipAll = "Все" }}
-  {{ $chipColors = "Цвет" }}
-  {{ $chipCapsule = "Капсульный гардероб" }}
-  {{ $chipBusiness = "Бизнес-шик" }}
-  {{ $chipConsulting = "Консультация по стилю" }}
-{{ end }}
+{{ $ui := .Params.ui }}
+{{ $backText := or $ui.back_text "Zur Startseite" }}
+{{ $readMoreText := or $ui.read_more_text "Artikel lesen" }}
+{{ $readingTimeText := or $ui.reading_time_text "Min. Lesezeit" }}
+{{ $journalTitle := or $ui.journal_title "ESKYNA Journal" }}
+{{ $journalEyebrow := or $ui.journal_eyebrow "Journal" }}
+{{ $journalSubtitle := or $ui.journal_subtitle "Stilbeiträge, Farbtheorie und Outfit-Ideen" }}
+{{ $featuredText := or $ui.featured_text "Aktueller Editorial-Beitrag" }}
+{{ $advisoryTitle := or $ui.advisory_title "Mehr Klarheit für deinen Stil" }}
+{{ $advisoryBody := or $ui.advisory_body "Entdecke, welche Farben, Schnitte und Kombinationen zu dir passen." }}
+{{ $advisoryCta := or $ui.advisory_cta "Stilberatung entdecken" }}
+{{ $categoriesAriaLabel := or $ui.categories_aria_label "Kategorien" }}
+{{ $chipAll := or $ui.chip_all "Alle" }}
+{{ $chipColors := or $ui.chip_colors "Farben" }}
+{{ $chipCapsule := or $ui.chip_capsule "Capsule Wardrobe" }}
+{{ $chipBusiness := or $ui.chip_business "Business-Chic" }}
+{{ $chipConsulting := or $ui.chip_consulting "Stilberatung" }}
 {{ $posts := .Pages.ByDate.Reverse }}
 {{ $featured := index $posts 0 }}
 <main class="blog-page">
   <section class="hero-small blog-hero">
     <div class="container">
       <a class="back-link" href="{{ "/" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
-      <p class="blog-journal-eyebrow">Journal</p>
+      <p class="blog-journal-eyebrow">{{ $journalEyebrow }}</p>
       <h1>{{ $journalTitle }}</h1>
       <p class="blog-journal-subtitle">{{ $journalSubtitle }}</p>
-      <div class="blog-category-row" aria-label="Kategorien">
+      <div class="blog-category-row" aria-label="{{ $categoriesAriaLabel }}">
         <span class="blog-category-chip is-active">{{ $chipAll }}</span>
         <span class="blog-category-chip">{{ $chipColors }}</span>
         <span class="blog-category-chip">{{ $chipCapsule }}</span>
         <span class="blog-category-chip">{{ $chipBusiness }}</span>
         <span class="blog-category-chip">{{ $chipConsulting }}</span>
       </div>
-      <div class="blog-intro-card">{{ .Content }}</div>
+      {{ with .Content }}<div class="blog-intro-card">{{ . }}</div>{{ end }}
     </div>
   </section>
 
@@ -64,7 +51,7 @@
             {{ $orig := $post.Resources.GetMatch $heroName }}
             {{ $fallback := or $png $orig }}
             {{ with $fallback }}
-              <a class="blog-featured-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+              <a class="blog-featured-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}" aria-label="{{ $post.Title }}">
                 <picture>
                   {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
                   {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
@@ -99,20 +86,22 @@
                 {{ $orig := $post.Resources.GetMatch $heroName }}
                 {{ $fallback := or $png $orig }}
                 {{ with $fallback }}
-                  <a class="blog-post-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">
+                  <div class="blog-post-media" aria-hidden="true">
                     <picture>
                       {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
                       {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
                       {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
                       <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy">
                     </picture>
-                  </a>
+                  </div>
                 {{ end }}
               {{ end }}
-              <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
-              <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
-              {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
-              <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+              <div class="blog-post-copy">
+                <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
+                <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
+                {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
+                <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+              </div>
             </article>
           {{ end }}
         </div>

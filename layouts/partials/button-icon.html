@@ -6,8 +6,19 @@
 {{- $iconAlt := .iconAlt | default "Eskyna Kleeblatt-Symbol" -}}
 {{- $iconTitle := .iconTitle | default $iconAlt -}}
 {{- $iconClass := .iconClass | default "btn-icon" -}}
+{{- $noIcon := .noIcon | default false -}}
 {{- $targetBlank := .targetBlank | default false -}}
 {{- $rel := .rel | default "noopener noreferrer" -}}
-<a class="{{ $class }}" href="{{ $href }}" title="{{ $title }}"{{ if $targetBlank }} target="_blank" rel="{{ $rel }}"{{ end }}>
-  <img src="{{ $iconSrc }}" alt="{{ $iconAlt }}" title="{{ $iconTitle }}" class="{{ $iconClass }}" loading="lazy" width="20" height="20"> {{ $text }}
+{{- $ariaDescribedBy := .ariaDescribedBy -}}
+{{- $ariaLabel := .ariaLabel | default $text -}}
+{{- $isExternal := or (hasPrefix $href "http://") (hasPrefix $href "https://") (hasPrefix $href "mailto:") (hasPrefix $href "tel:") -}}
+{{- $isAnchor := hasPrefix $href "#" -}}
+{{- $normalizedHref := strings.TrimPrefix "/" $href -}}
+{{- $resolvedHref := cond (or $isExternal $isAnchor) $href ($normalizedHref | relURL) -}}
+<a class="{{ $class }}" href="{{ $resolvedHref }}"{{ if not $ariaDescribedBy }} title="{{ $title }}"{{ end }}{{ with $ariaDescribedBy }} aria-describedby="{{ . }}"{{ end }}{{ if $text }} aria-label="{{ $ariaLabel }}"{{ end }}{{ if $targetBlank }} target="_blank" rel="{{ $rel }}"{{ end }}>
+  {{- if not $noIcon -}}
+  <img src="{{ $iconSrc }}" alt="{{ $iconAlt }}"{{ if not $ariaDescribedBy }} title="{{ $iconTitle }}"{{ end }} class="{{ $iconClass }}" loading="lazy" width="20" height="20"> {{ $text }}
+  {{- else -}}
+  {{ $text }}
+  {{- end -}}
 </a>

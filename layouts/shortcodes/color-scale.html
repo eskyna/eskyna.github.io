@@ -1,11 +1,13 @@
-{{- $swatches := slice
-  (dict "name" "Puderrosa"   "hex" "#f0bec4")
-  (dict "name" "Pastellrosa" "hex" "#f9d6db")
-  (dict "name" "Altrosa"     "hex" "#b07882")
-  (dict "name" "Pink"        "hex" "#d9416a")
-  (dict "name" "Mauve"       "hex" "#9e6278")
+{{- $defaultSwatches := slice
+  (dict "name" "Powder Pink"  "hex" "#f0bec4")
+  (dict "name" "Pastel Pink"  "hex" "#f9d6db")
+  (dict "name" "Dusty Pink"   "hex" "#b07882")
+  (dict "name" "Bright Pink"  "hex" "#d9416a")
+  (dict "name" "Dusty Mauve"  "hex" "#9e6278")
 -}}
-<div class="color-scale" role="list" aria-label="Mini-Farbskala">
+{{- $swatches := or .Page.Params.ui.color_scale_swatches $defaultSwatches -}}
+{{- $ariaLabel := or .Page.Params.ui.color_scale_aria_label "Color scale" -}}
+<div class="color-scale" role="list" aria-label="{{ $ariaLabel }}">
   {{- range $swatches }}
   <div class="color-scale-item" role="listitem">
     <span class="color-scale-swatch" style="background:{{ .hex }};" aria-hidden="true"></span>
