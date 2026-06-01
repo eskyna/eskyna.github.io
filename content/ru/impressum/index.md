@@ -13,6 +13,12 @@ Natalia Kleemann
 Wilhelm-Michel-Straße 10  
 04249 Leipzig, Deutschland
 
+## Ответственный за редакционное содержание (§ 18 Abs. 2 MStV)
+
+Natalia Kleemann  
+Wilhelm-Michel-Straße 10  
+04249 Leipzig, Deutschland
+
 ## Контакт
 
 Электронная почта: [natalia@eskyna.com](mailto:natalia@eskyna.com)
