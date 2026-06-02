@@ -181,9 +181,9 @@
             {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
             {{ $imagePath := $item.image }}
             {{ if not $imagePath }}
-              {{ if in $itemTitle "Stilfrage" }}
+              {{ if or (in $normalizedHref "stilfrage") (in $normalizedHref "stilfrage/") }}
                 {{ $imagePath = "images/Stilfrage.png" }}
-              {{ else if in $itemTitle "Gutschein" }}
+              {{ else if or (in $normalizedHref "gutschein") (in $normalizedHref "gutschein/") }}
                 {{ $imagePath = "images/Gutschein.png" }}
               {{ end }}
             {{ end }}
@@ -211,9 +211,9 @@
             {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
             {{ $imagePath := $item.image }}
             {{ if not $imagePath }}
-              {{ if in $itemTitle "Stilfrage" }}
+              {{ if or (in $normalizedHref "stilfrage") (in $normalizedHref "stilfrage/") }}
                 {{ $imagePath = "images/Stilfrage.png" }}
-              {{ else if in $itemTitle "Gutschein" }}
+              {{ else if or (in $normalizedHref "gutschein") (in $normalizedHref "gutschein/") }}
                 {{ $imagePath = "images/Gutschein.png" }}
               {{ end }}
             {{ end }}

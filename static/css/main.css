@@ -2009,6 +2009,7 @@ h1 {
   padding: 0.75rem 1.5rem;
   font-size: 0.9rem;
   color: #fff;
+  max-width: 100%;
 }
 
 /* Erste und zweite Free-Offer-Karte: Bild links, Inhalt rechts */
@@ -2039,6 +2040,12 @@ h1 {
   padding-bottom: 0.55rem;
   border-bottom: none;
   position: relative;
+}
+
+:where(.offers-free-section .offers-free-grid > .free-offer-card > h4),
+:where(.offers-free-section .offers-free-grid > .free-offer-card > p),
+:where(.offers-free-section .offers-free-grid > .free-offer-card > .btn) {
+  min-width: 0;
 }
 
 :where(.offers-free-section .offers-free-grid > .free-offer-card > h4)::after {
@@ -2079,6 +2086,60 @@ h1 {
   min-height: 0;
   object-fit: contain;
   border-radius: 14px;
+}
+
+.offers-free-section .offers-free-grid-secondary > .free-offer-card {
+  grid-template-columns: minmax(200px, 34%) 1fr;
+  gap: 0.6rem 1.25rem;
+}
+
+.offers-free-section .offers-free-grid-secondary > .free-offer-card > .free-offer-media {
+  grid-column: 1;
+  grid-row: 1 / span 4;
+}
+
+:where(.offers-free-section .offers-free-grid-secondary > .free-offer-card > h4) {
+  grid-column: 2;
+  grid-row: 1;
+  font-size: clamp(1.75rem, 2vw, 2.1rem);
+}
+
+:where(.offers-free-section .offers-free-grid-secondary > .free-offer-card > .free-offer-price) {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+:where(
+  .offers-free-section .offers-free-grid-secondary > .free-offer-card > p:not(.free-offer-price)
+) {
+  grid-column: 2;
+  grid-row: 3;
+}
+
+:where(.offers-free-section .offers-free-grid-secondary > .free-offer-card > .btn) {
+  grid-column: 2;
+  grid-row: 4;
+  width: 100%;
+  white-space: normal;
+  line-height: 1.25;
+}
+
+@media (width <= 1200px) {
+  .offers-free-section .offers-free-grid-secondary > .free-offer-card {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+
+  .offers-free-section .offers-free-grid-secondary > .free-offer-card > .free-offer-media,
+  :where(.offers-free-section .offers-free-grid-secondary > .free-offer-card > h4),
+  :where(.offers-free-section .offers-free-grid-secondary > .free-offer-card > .free-offer-price),
+  :where(
+    .offers-free-section .offers-free-grid-secondary > .free-offer-card > p:not(.free-offer-price)
+  ),
+  :where(.offers-free-section .offers-free-grid-secondary > .free-offer-card > .btn) {
+    grid-column: auto;
+    grid-row: auto;
+  }
 }
 
 @media (width <= 900px) {
@@ -2128,18 +2189,15 @@ h1 {
   background: rgb(255 255 255 / 72%);
   padding: 2rem;
   padding-top: 2rem;
-  display: grid;
-  grid-template-rows: 2.6rem 4.8rem minmax(3.9rem, auto) 12.6rem 1fr auto;
-  gap: 0.75rem;
-  place-items: start stretch;
-  align-content: start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
   position: relative;
   overflow: visible;
   transition:
     transform 200ms ease,
     box-shadow 200ms ease,
     border-color 200ms ease;
-  min-height: 480px;
 }
 
 .package-card-link {
@@ -2194,7 +2252,6 @@ h1 {
   font-weight: 600;
   color: var(--text);
   letter-spacing: -0.01em;
-  min-height: 2.15em;
   align-self: start;
 }
 
@@ -2205,7 +2262,6 @@ h1 {
   font-weight: 400;
   color: var(--accent-strong);
   line-height: 1.1;
-  min-height: 4.4rem;
   align-self: start;
 }
 
@@ -2216,7 +2272,6 @@ h1 {
   font-weight: 500;
   color: var(--text);
   line-height: 1.25;
-  min-height: 6rem;
   align-self: start;
 }
 
@@ -2263,7 +2318,6 @@ h1 {
   font-size: 1rem;
   line-height: 1.6;
   font-weight: 500;
-  min-height: 12.6rem;
   align-self: stretch;
 }
 
@@ -2278,17 +2332,20 @@ h1 {
 }
 
 .package-cta {
-  margin-top: 0;
-  padding-top: 0;
+  margin-top: auto;
+  padding-top: 0.3rem;
   display: flex;
-  align-items: center;
-  align-self: end;
+  align-items: stretch;
+  align-self: stretch;
 }
 
 .package-cta.package-cta .btn.btn {
   width: 100%;
   justify-content: center;
   min-height: 48px;
+  white-space: normal;
+  line-height: 1.25;
+  text-align: center;
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
@@ -2296,6 +2353,9 @@ h1 {
   width: 100%;
   justify-content: center;
   min-height: 48px;
+  white-space: normal;
+  line-height: 1.25;
+  text-align: center;
 }
 
 /* ── Vergleichstabelle ─────────────────────────────────– */
@@ -4504,6 +4564,34 @@ main .hero .hero-copy {
   align-items: stretch;
 }
 
+/* RU copy is consistently longer in package cards: use wider columns and tighter type rhythm. */
+html[lang^="ru"] .home-main .offers-packages-section .packages-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+html[lang^="ru"] .package-card {
+  gap: 0.65rem;
+}
+
+html[lang^="ru"] .package-name {
+  font-size: 1.42rem;
+}
+
+html[lang^="ru"] .package-price {
+  font-size: 1.8rem;
+}
+
+html[lang^="ru"] .package-headline {
+  font-size: 1.15rem;
+  line-height: 1.32;
+}
+
+html[lang^="ru"] .package-result {
+  padding: 1.1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 @media (width <= 1050px) {
   .home-main .offers-packages-section .packages-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -4511,6 +4599,12 @@ main .hero .hero-copy {
 
   .home-main .offers-packages-section .package-card-featured {
     grid-column: 1 / -1;
+  }
+}
+
+@media (width <= 760px) {
+  html[lang^="ru"] .home-main .offers-packages-section .packages-grid {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -4527,7 +4621,6 @@ main .hero .hero-copy {
   .home-main .offers-packages-section .package-card-featured {
     grid-column: auto;
     transform: none;
-    grid-template-rows: 2.6rem 4.8rem auto 12.6rem 1fr auto;
   }
 
   .home-main .offers-packages-section .package-card:hover,

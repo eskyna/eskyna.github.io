@@ -3,7 +3,9 @@
 {{ $keywords := .Site.Params.keywords | default "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching" }}
 {{ $siteTitle := .Site.Title | default "ESKYNA Style & Image Coaching" }}
 {{ $pageTitle := replace (.Params.seoTitle | default .Title | default $siteTitle) "Categories" (i18n "taxonomy_categories_title") }}
-{{ $pageTitleHasBrand := in $pageTitle "ESKYNA" }}
+{{ $pageTitleHasSeparator := in $pageTitle " | " }}
+{{ $siteTitleSuffix := replace $siteTitle "ESKYNA | " "" }}
+{{ $pageTitleStartsWithBrand := hasPrefix $pageTitle "ESKYNA " }}
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
@@ -20,8 +22,10 @@
 {{ if .IsHome }}
   <title>{{ .Params.seoTitle | default $siteTitle }}</title>
 {{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
-  {{ if $pageTitleHasBrand }}
+  {{ if $pageTitleHasSeparator }}
     <title>{{ $pageTitle }}</title>
+  {{ else if and $pageTitleStartsWithBrand (ne $siteTitleSuffix $siteTitle) }}
+    <title>{{ $pageTitle }} | {{ $siteTitleSuffix }}</title>
   {{ else }}
     <title>{{ $pageTitle }} | {{ $siteTitle }}</title>
   {{ end }}
