@@ -23,10 +23,20 @@
         <h1 class="machn-hero-title">{{ $hero.headline }}</h1>
         <p class="machn-subline">{{ $hero.subline }}</p>
 
-        <div class="machn-price-box">
-          <p class="machn-price-label">{{ $hero.festival_label }}</p>
-          <p class="machn-price">{{ $hero.price }}</p>
-          <p class="machn-price-regular">{{ $hero.regular_price }}</p>
+        <div class="machn-hero-meta-grid">
+          <div class="machn-price-box">
+            <p class="machn-price-label">{{ $hero.festival_label }}</p>
+            <p class="machn-price">{{ $hero.price }}</p>
+            <p class="machn-price-regular">{{ $hero.regular_price }}</p>
+          </div>
+          {{ $heroLogoPng := or $hero.logo "images/machn/v3/machn-logo/machn-logo26-white-transparent.png" }}
+          {{ $heroLogoWebp := or $hero.logo_webp $heroLogoPng }}
+          <div class="machn-logo-card" aria-label="{{ $hero.logo_alt | default "MACHN Festival 2026 Logo" }}">
+            <picture>
+              <source srcset="{{ $heroLogoWebp | relURL }}" type="image/webp">
+              <img src="{{ $heroLogoPng | relURL }}" alt="{{ $hero.logo_alt | default "MACHN Festival 2026 Logo" }}" title="{{ $hero.logo_alt | default "MACHN Festival 2026 Logo" }}" class="machn-logo-image" loading="eager" decoding="async">
+            </picture>
+          </div>
         </div>
 
         <div class="machn-hero-cta">
@@ -39,11 +49,15 @@
 
       <div class="machn-hero-media">
         <span class="machn-claim-badge">{{ $hero.badge }}</span>
-        {{ $heroDesktop := or $hero.image "images/machn/photos/natalia_cutout_full_900w.png" }}
-        {{ $heroMobile := or $hero.image_mobile $heroDesktop }}
+        {{ $heroDesktopPng := or $hero.image "images/machn/v3/people/natalia.png" }}
+        {{ $heroDesktopWebp := or $hero.image_webp $heroDesktopPng }}
+        {{ $heroMobilePng := or $hero.image_mobile $heroDesktopPng }}
+        {{ $heroMobileWebp := or $hero.image_mobile_webp $heroDesktopWebp }}
         <picture>
-          <source media="(max-width: 760px)" srcset="{{ $heroMobile | relURL }}">
-          <img src="{{ $heroDesktop | relURL }}" alt="{{ $hero.image_alt }}" title="{{ $hero.image_alt }}" class="machn-hero-image" loading="lazy" decoding="async">
+          <source media="(max-width: 700px)" srcset="{{ $heroMobileWebp | relURL }}" type="image/webp">
+          <source srcset="{{ $heroDesktopWebp | relURL }}" type="image/webp">
+          <source media="(max-width: 700px)" srcset="{{ $heroMobilePng | relURL }}">
+          <img src="{{ $heroDesktopPng | relURL }}" alt="{{ $hero.image_alt }}" title="{{ $hero.image_alt }}" class="machn-hero-image" loading="eager" decoding="async">
         </picture>
       </div>
     </div>
@@ -69,11 +83,15 @@
       <div class="machn-expectations-grid">
         {{ range $expectations.cards }}
         <article class="machn-expectation-card">
-          {{ $cardDesktop := .image }}
-          {{ $cardMobile := or .image_mobile $cardDesktop }}
+          {{ $cardDesktopPng := .image }}
+          {{ $cardDesktopWebp := or .image_webp $cardDesktopPng }}
+          {{ $cardMobilePng := or .image_mobile $cardDesktopPng }}
+          {{ $cardMobileWebp := or .image_mobile_webp $cardDesktopWebp }}
           <picture>
-            <source media="(max-width: 760px)" srcset="{{ $cardMobile | relURL }}">
-            <img src="{{ $cardDesktop | relURL }}" alt="{{ .alt }}" title="{{ .alt }}" class="machn-expectation-image" loading="lazy" decoding="async">
+            <source media="(max-width: 700px)" srcset="{{ $cardMobileWebp | relURL }}" type="image/webp">
+            <source srcset="{{ $cardDesktopWebp | relURL }}" type="image/webp">
+            <source media="(max-width: 700px)" srcset="{{ $cardMobilePng | relURL }}">
+            <img src="{{ $cardDesktopPng | relURL }}" alt="{{ .alt }}" title="{{ .alt }}" class="machn-expectation-image" loading="lazy" decoding="async">
           </picture>
           <div class="machn-expectation-body">
             <h3 class="machn-expectation-title">{{ .title }}</h3>
@@ -90,12 +108,16 @@
       <h2 class="machn-result-title">{{ $result.title }}</h2>
       <p class="machn-section-subtitle">{{ $result.subtitle }}</p>
       {{ with $result.image }}
-      {{ $resultDesktop := . }}
-      {{ $resultMobile := or $result.image_mobile $resultDesktop }}
+      {{ $resultDesktopPng := . }}
+      {{ $resultDesktopWebp := or $result.image_webp $resultDesktopPng }}
+      {{ $resultMobilePng := or $result.image_mobile $resultDesktopPng }}
+      {{ $resultMobileWebp := or $result.image_mobile_webp $resultDesktopWebp }}
       <div class="machn-result-visual">
         <picture>
-          <source media="(max-width: 760px)" srcset="{{ $resultMobile | relURL }}">
-          <img src="{{ $resultDesktop | relURL }}" alt="{{ $result.image_alt | default $result.title }}" title="{{ $result.image_alt | default $result.title }}" class="machn-result-image" loading="lazy" decoding="async">
+          <source media="(max-width: 700px)" srcset="{{ $resultMobileWebp | relURL }}" type="image/webp">
+          <source srcset="{{ $resultDesktopWebp | relURL }}" type="image/webp">
+          <source media="(max-width: 700px)" srcset="{{ $resultMobilePng | relURL }}">
+          <img src="{{ $resultDesktopPng | relURL }}" alt="{{ $result.image_alt | default $result.title }}" title="{{ $result.image_alt | default $result.title }}" class="machn-result-image" loading="lazy" decoding="async">
         </picture>
       </div>
       {{ end }}
@@ -110,6 +132,14 @@
   <section class="machn-offer section">
     <div class="container">
       <article class="machn-offer-card">
+        {{ $offerLogoPng := or $offerCard.logo "images/machn/v3/machn-logo/machn-logo26-white-transparent.png" }}
+        {{ $offerLogoWebp := or $offerCard.logo_webp $offerLogoPng }}
+        <div class="machn-offer-logo" aria-label="{{ $offerCard.logo_alt | default "MACHN Festival 2026 Logo" }}">
+          <picture>
+            <source srcset="{{ $offerLogoWebp | relURL }}" type="image/webp">
+            <img src="{{ $offerLogoPng | relURL }}" alt="{{ $offerCard.logo_alt | default "MACHN Festival 2026 Logo" }}" title="{{ $offerCard.logo_alt | default "MACHN Festival 2026 Logo" }}" loading="lazy" decoding="async">
+          </picture>
+        </div>
         <p class="machn-offer-eyebrow">{{ $offerCard.title }}</p>
         <h3 class="machn-offer-title">{{ $offerCard.subtitle }}</h3>
         <p class="machn-offer-price">{{ $offerCard.price }}</p>
@@ -131,11 +161,15 @@
         <p>{{ $about.text_2 }}</p>
       </div>
       <div>
-        {{ $aboutDesktop := or $about.image "images/machn/photos/natalia_desk_900w.png" }}
-        {{ $aboutMobile := or $about.image_mobile $aboutDesktop }}
+        {{ $aboutDesktopPng := or $about.image "images/machn/v3/people/natalia_schreibtisch.png" }}
+        {{ $aboutDesktopWebp := or $about.image_webp $aboutDesktopPng }}
+        {{ $aboutMobilePng := or $about.image_mobile $aboutDesktopPng }}
+        {{ $aboutMobileWebp := or $about.image_mobile_webp $aboutDesktopWebp }}
         <picture>
-          <source media="(max-width: 760px)" srcset="{{ $aboutMobile | relURL }}">
-          <img src="{{ $aboutDesktop | relURL }}" alt="{{ $about.image_alt }}" title="{{ $about.image_alt }}" class="machn-about-image" loading="lazy" decoding="async">
+          <source media="(max-width: 700px)" srcset="{{ $aboutMobileWebp | relURL }}" type="image/webp">
+          <source srcset="{{ $aboutDesktopWebp | relURL }}" type="image/webp">
+          <source media="(max-width: 700px)" srcset="{{ $aboutMobilePng | relURL }}">
+          <img src="{{ $aboutDesktopPng | relURL }}" alt="{{ $about.image_alt }}" title="{{ $about.image_alt }}" class="machn-about-image" loading="lazy" decoding="async">
         </picture>
       </div>
     </div>

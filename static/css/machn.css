@@ -2,16 +2,23 @@
 .machn-page {
   --machn-navy: #07142e;
   --machn-gold: #b38a4a;
-  --machn-gold-dark: #9b6c2f;
-  --machn-ivory: #f8f5ef;
-  --machn-cream: #f1e8dd;
-  --machn-sand: #e5d7c7;
-  --machn-line: #e5d7c7;
-  --machn-text: #07122f;
-  --machn-muted: #8a8076;
-  --machn-border: rgb(222 210 195 / 85%);
+  --machn-gold-dark: #98713a;
+  --machn-ivory: #faf7f1;
+  --machn-cream: #f3ece2;
+  --machn-card: #fffdf9;
+  --machn-line: #e8ddcc;
+  --machn-text: #07142e;
+  --machn-muted: #746d65;
+  --machn-border: rgb(232 221 204 / 95%);
 
   color: var(--machn-text);
+  background: var(--machn-ivory);
+  overflow-x: clip;
+}
+
+.machn-page img {
+  max-width: 100%;
+  height: auto;
 }
 
 .machn-page .machn-hero.section,
@@ -44,13 +51,15 @@
 }
 
 .machn-hero {
-  background: linear-gradient(165deg, var(--machn-ivory), var(--machn-cream));
+  background:
+    radial-gradient(circle at 86% 15%, rgb(179 138 74 / 11%), transparent 28%),
+    linear-gradient(90deg, var(--machn-ivory) 0%, #fff 52%, var(--machn-cream) 100%);
 }
 
 .machn-hero-grid {
   display: grid;
-  grid-template-columns: 46% 54%;
-  gap: clamp(1.5rem, 3vw, 2.6rem);
+  grid-template-columns: minmax(0, 1.06fr) minmax(340px, 0.94fr);
+  gap: clamp(2rem, 5vw, 4.6rem);
   align-items: center;
 }
 
@@ -77,14 +86,21 @@
   max-width: 38ch;
 }
 
+.machn-hero-meta-grid {
+  display: grid;
+  grid-template-columns: auto minmax(0, 240px);
+  gap: 1.1rem;
+  align-items: center;
+  margin-block: 1rem 0.5rem;
+}
+
 .machn-price-box {
-  border: 1px solid var(--machn-border);
-  border-radius: 1.1rem;
-  background: rgb(255 255 255 / 92%);
-  padding: 1rem 1.2rem;
+  border-left: 2px solid var(--machn-gold);
+  border-radius: 0;
+  background: transparent;
+  padding: 0 0 0 1rem;
   width: fit-content;
-  min-width: 210px;
-  box-shadow: 0 12px 24px rgb(44 30 22 / 10%);
+  min-width: 130px;
 }
 
 .machn-price-label {
@@ -98,13 +114,26 @@
   font-size: clamp(2rem, 3.3vw, 2.8rem);
   font-weight: 700;
   line-height: 1;
-  color: var(--machn-navy);
+  color: var(--machn-gold-dark);
+  font-family: var(--font-headline);
 }
 
 .machn-price-regular {
   margin: 0;
-  color: var(--machn-gold-dark);
-  font-weight: 700;
+  color: var(--machn-muted);
+  font-weight: 600;
+}
+
+.machn-logo-card {
+  background: var(--machn-navy);
+  border: 1px solid rgb(179 138 74 / 24%);
+  box-shadow: 0 18px 50px rgb(7 20 46 / 6%);
+  padding: 0.95rem 1rem;
+}
+
+.machn-logo-image {
+  width: min(100%, 230px);
+  margin-inline: auto;
 }
 
 .machn-hero-cta {
@@ -126,6 +155,7 @@
   text-transform: uppercase;
   letter-spacing: 0.09em;
   font-weight: 700;
+  min-width: 0;
 }
 
 .machn-page .machn-btn::after {
@@ -151,67 +181,69 @@
 }
 
 .machn-hero-image {
-  width: auto;
-  max-width: 100%;
-  max-height: 620px;
-  border-radius: 1.3rem;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: contain;
+  object-position: center bottom;
+  border-radius: 0;
   border: 1px solid var(--machn-border);
-  box-shadow: 0 20px 38px rgb(14 24 50 / 12%);
-  background: linear-gradient(180deg, #fff, #f8f3ec);
+  box-shadow: 0 18px 50px rgb(7 20 46 / 6%);
+  background: var(--machn-card);
 }
 
 .machn-claim-badge {
   position: absolute;
   z-index: 2;
-  bottom: 1.2rem;
-  left: 50%;
-  transform: translateX(-50%);
-  width: max-content;
-  max-width: calc(100% - 2rem);
-  background: rgb(7 20 46 / 82%);
-  color: #fff;
-  font-weight: 700;
-  font-size: clamp(0.74rem, 1.2vw, 0.84rem);
-  line-height: 1.2;
-  text-align: center;
-  white-space: nowrap;
-  padding: 0.85rem 1rem;
-  border-radius: 0.9rem;
-  border: 1px solid rgb(179 138 74 / 38%);
-  box-shadow: 0 10px 24px rgb(17 15 9 / 24%);
+  right: 0.9rem;
+  bottom: clamp(1rem, 6vw, 3rem);
+  width: min(260px, 52%);
+  max-width: calc(100% - 1.8rem);
+  background: rgb(250 247 241 / 94%);
+  color: var(--machn-navy);
+  font-weight: 600;
+  font-size: clamp(0.92rem, 1.3vw, 1.15rem);
+  line-height: 1.36;
+  padding: 1rem;
+  border-radius: 0;
+  border: 1px solid rgb(179 138 74 / 42%);
+  box-shadow: 0 15px 45px rgb(7 20 46 / 8%);
 }
 
 .machn-use-cases {
-  background: var(--machn-cream);
+  background: var(--machn-card);
+  border-top: 1px solid var(--machn-line);
+  border-bottom: 1px solid var(--machn-line);
 }
 
 .machn-use-cases-grid {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 0.95rem;
+  gap: clamp(1rem, 2vw, 1.8rem);
 }
 
 .machn-use-case-card {
-  background: rgb(255 255 255 / 88%);
-  border: 1px solid var(--machn-border);
-  border-radius: 0.85rem;
-  padding: 1rem 0.78rem;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0.4rem 0.45rem;
   text-align: center;
 }
 
-.machn-use-case-icon {
-  width: 72px;
-  height: 72px;
+.machn-page .machn-use-case-icon {
+  width: 88px;
+  height: 88px;
   margin: 0 auto 0.55rem;
+  object-fit: contain;
 }
 
 .machn-use-case-card p {
   margin: 0;
-  font-size: 0.94rem;
+  font-size: clamp(0.72rem, 0.88vw, 0.84rem);
   line-height: 1.38;
   font-weight: 600;
   color: var(--machn-text);
-  text-wrap: balance;
+  text-transform: uppercase;
+  letter-spacing: 0.055em;
 }
 
 .machn-section-subtitle {
@@ -229,11 +261,12 @@
 }
 
 .machn-expectation-card {
-  background: #fffaf4;
+  background: var(--machn-card);
   border: 1px solid var(--machn-border);
-  border-radius: 1.2rem;
+  border-radius: 0;
   padding: 0 0 1.4rem;
   overflow: hidden;
+  box-shadow: 0 10px 36px rgb(7 20 46 / 3.5%);
 }
 
 .machn-expectation-image {
@@ -244,7 +277,7 @@
 }
 
 .machn-expectation-body {
-  padding: 1.1rem 1.15rem 0;
+  padding: 1.25rem 1.25rem 0;
 }
 
 .machn-expectation-title {
@@ -295,12 +328,23 @@
 .machn-offer-card {
   max-width: 640px;
   margin: 0 auto;
-  background: linear-gradient(165deg, #fff, #fff9ef);
+  background: var(--machn-card);
   border: 1px solid rgb(201 166 70 / 58%);
-  border-radius: 1.2rem;
+  border-radius: 0;
   padding: 1.5rem;
   text-align: center;
-  box-shadow: 0 18px 34px rgb(44 30 22 / 14%);
+  box-shadow: 0 10px 36px rgb(7 20 46 / 3.5%);
+}
+
+.machn-offer-logo {
+  background: var(--machn-navy);
+  padding: 1rem;
+  margin: 0 auto 1.4rem;
+  max-width: 280px;
+}
+
+.machn-offer-logo img {
+  width: 100%;
 }
 
 .machn-offer-eyebrow {
@@ -354,10 +398,10 @@
 }
 
 .machn-about-image {
-  border-radius: 1rem;
+  border-radius: 0;
   border: 1px solid var(--machn-border);
-  box-shadow: 0 16px 30px rgb(14 24 50 / 12%);
-  background: linear-gradient(180deg, #fff, #f8f3ec);
+  box-shadow: 0 18px 50px rgb(7 20 46 / 6%);
+  background: var(--machn-card);
 }
 
 .machn-quote blockquote {
@@ -401,17 +445,40 @@
   margin-top: 1.7rem;
 }
 
-@media (width <= 1080px) {
+@media (width <= 1100px) {
   .machn-hero-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1.06fr) minmax(300px, 0.94fr);
   }
 
   .machn-use-cases-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .machn-page .machn-use-case-icon {
+    width: 80px;
+    height: 80px;
+  }
+
   .machn-expectations-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .machn-hero-image {
+    max-height: 700px;
+  }
+}
+
+@media (width <= 900px) {
+  .machn-hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .machn-hero-media {
+    justify-content: center;
+  }
+
+  .machn-hero-media picture {
+    width: min(100%, 560px);
   }
 
   .machn-about-grid {
@@ -419,7 +486,7 @@
   }
 }
 
-@media (width <= 760px) {
+@media (width <= 700px) {
   .machn-page .machn-hero.section,
   .machn-page .machn-use-cases.section,
   .machn-page .machn-expectations.section,
@@ -431,32 +498,47 @@
     padding-block: 2.8rem;
   }
 
-  .machn-claim-badge {
-    bottom: 0.75rem;
-    max-width: calc(100% - 1rem);
-    padding: 0.7rem 0.8rem;
-    font-size: 0.64rem;
+  .machn-hero-meta-grid {
+    grid-template-columns: 1fr;
   }
 
-  .machn-hero-media {
-    justify-content: center;
+  .machn-logo-card {
+    width: min(100%, 300px);
+  }
+
+  .machn-claim-badge {
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 0.9rem;
+    margin-bottom: 0;
   }
 
   .machn-hero-image {
-    max-height: 440px;
+    aspect-ratio: 1 / 1.05;
   }
 
   .machn-use-cases-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .machn-use-case-icon {
-    width: 64px;
-    height: 64px;
+  .machn-page .machn-use-case-icon {
+    width: 74px;
+    height: 74px;
   }
 
   .machn-expectations-grid {
     grid-template-columns: 1fr;
+  }
+
+  .machn-page .machn-btn {
+    width: 100%;
+    min-height: 54px;
+    padding-inline: 1rem;
+  }
+
+  .machn-closing-cta {
+    display: block;
   }
 
   .machn-offer-card {
