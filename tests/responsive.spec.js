@@ -1,6 +1,6 @@
 const { test, expect } = require("@playwright/test");
 
-const pages = ["/", "/about/", "/estyle/", "/impressum/", "/datenschutz/", "/ru/"];
+const pages = ["/", "/about/", "/estyle/", "/impressum/", "/datenschutz/", "/rus/"];
 const heroOnlyPage = "/";
 
 const viewports = [

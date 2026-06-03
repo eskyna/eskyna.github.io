@@ -3,7 +3,7 @@
 other = "Общий запрос"
 
 [cf_privacy_href]
-other = "/ru/datenschutz/"
+other = "/rus/datenschutz/"
 
 [cf_name_label]
 other = "Имя *"

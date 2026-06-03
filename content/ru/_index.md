@@ -91,7 +91,7 @@ facts:
     - "Международный опыт в стиле: от Сибири до Лейпцига"
     - "Осознанность и устойчивость — неотъемлемая часть моей работы"
     - "Мама двух стильных мальчиков"
-    - "Я переосмысляю консультации по стилю; как основательница [EStyle](/ru/estyle/)"
+    - "Я переосмысляю консультации по стилю; как основательница [EStyle](/rus/estyle/)"
   mission: |
     Моя миссия — сделать стиль проще, осознаннее и эффективнее:
 
@@ -109,7 +109,7 @@ services:
         text: "Идеальный старт, если вы хотите лучше понять свой стиль и получить первые ориентиры."
         image: "images/cover_stiltest.png"
         ctaText: "Пройти тест"
-        ctaHref: "/ru/hannover2026/"
+        ctaHref: "/rus/hannover2026/"
       - title: "10 советов по стилю (PDF)"
         text: "Краткий бесплатный гид с десятью практичными советами, которые можно применить сразу."
         image: "images/cover_stylingtipps.png"
@@ -119,12 +119,12 @@ services:
         text: "Для конкретных решений по стилю, в том числе прямо во время покупок. Быстро, лично и по вашей ситуации."
         price: "от 49 €"
         ctaText: "Задать вопрос о стиле"
-        ctaHref: "/ru/stilfrage/"
+        ctaHref: "/rus/stilfrage/"
       - title: "Подарочный сертификат ESKYNA"
         text: "Подарить консультацию по стилю: личный подарок для большей ясности, чувства стиля и уверенных решений в повседневной жизни."
         price: "от 149 €"
         ctaText: "Подробнее о подарочном сертификате"
-        ctaHref: "/ru/gutschein/"
+        ctaHref: "/rus/gutschein/"
 
   packages:
     title: "Выберите предложение, которое соответствует вашему следующему шагу"
@@ -134,7 +134,7 @@ services:
         price: "390 €"
         result: "Вы покупаете осознаннее, комбинируете увереннее и развиваете большее доверие к своему стилю."
         ctaText: "Подробнее о программе «Чувство стиля»"
-        ctaHref: "/ru/stilgefuehl/"
+        ctaHref: "/rus/stilgefuehl/"
         featured: false
 
       - name: "Стильный гардероб"
@@ -143,7 +143,7 @@ services:
         badge: "Самый популярный выбор"
         result: "Больше работающих образов, больше ясности и меньше стресса перед шкафом."
         ctaText: "Подробнее о программе «Стильный гардероб»"
-        ctaHref: "/ru/stilgarderobe/"
+        ctaHref: "/rus/stilgarderobe/"
         featured: true
 
       - name: "Профессиональный образ"
@@ -151,7 +151,7 @@ services:
         price: "1.490 €"
         result: "Образ, который показывает, кто вы, какую экспертизу представляете и какие ценности транслируете."
         ctaText: "Подробнее о программе «Профессиональный образ»"
-        ctaHref: "/ru/praesenz/"
+        ctaHref: "/rus/praesenz/"
         featured: false
 
       - name: "Сопровождение"
@@ -159,7 +159,7 @@ services:
         price: "Индивидуально по запросу"
         result: "Ваш гардероб развивается вместе с вашей жизнью — четче, осознаннее и гармоничнее."
         ctaText: "Запросить сопровождение"
-        ctaHref: "/ru/begleitung/"
+        ctaHref: "/rus/begleitung/"
         featured: false
 
   comparison:
@@ -242,7 +242,7 @@ contact:
   photo: "images/portraits/natalia-about-portrait.png"
   icon: "images/icons/das-gewisse-etwas.svg"
 contact_form:
-  privacy_href: "/ru/datenschutz/"
+  privacy_href: "/rus/datenschutz/"
   name_label: "Имя *"
   email_label: "Эл. почта *"
   phone_label: "Телефон"
@@ -280,7 +280,7 @@ ui:
   result_label: "Результат:"
   default_cta_text: "Запросить консультацию"
   coach_about_cta_text: "Обо мне"
-  coach_about_cta_href: "/ru/about/"
+  coach_about_cta_href: "/rus/about/"
   faq_cta_text: "Бесплатная первая консультация"
   faq_cta_href: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
   case_situation_label: "Исходная ситуация"
@@ -295,7 +295,7 @@ ui:
   quicklinks_title: "Быстрый доступ"
   quicklinks:
     - title: "Тест стиля"
-      link: "/ru/hannover2026/"
+      link: "/rus/hannover2026/"
       description: "Первые инсайты о вашем стиле за несколько минут."
       external: true
     - title: "Бесплатная первая консультация"

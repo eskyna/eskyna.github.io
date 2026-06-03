@@ -28,7 +28,8 @@ const EXCLUDED_DIRS = new Set([
   "public/shop",
   "public/stefan",
   "public/tags",
-  "public/ru/tags",
+  "public/rus/tags",
+  "public/rus",
   "public/de",
 ]);
 
