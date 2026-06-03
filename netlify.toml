@@ -6,11 +6,19 @@
   from = "/ru"
   to = "/"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "/ru/"
+  to = "/"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/ru/*"
   to = "/rus/:splat"
   status = 301
+  force = true
 
 [[headers]]
   for = "/*"
