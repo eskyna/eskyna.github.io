@@ -2,7 +2,7 @@
 title: "MACHN Special"
 seoTitle: "MACHN Special | Farb- & Stilanalyse für Pitches | ESKYNA"
 description: "Festivalangebot für MACHN-Teilnehmer:innen: Farb- und Stilanalyse mit Natalia Kleemann für einen souveränen, authentischen Pitch-Auftritt."
-image: "images/machn/09_open_graph_machn_1200x630.png"
+image: "images/machn/v4/photos/natalia-machn-pitch-og-1200x630-eskyna-toned.webp"
 eyebrow: "MACHN SPECIAL"
 hero:
   headline: "Dein Pitch-Auftritt, der wirkt."
@@ -23,6 +23,17 @@ hero:
   logo: "images/machn/v3/machn-logo/machn-logo26-white-transparent.png"
   logo_webp: "images/machn/v3/machn-logo/machn-logo26-white-transparent.webp"
   logo_alt: "MACHN Festival 2026 Logo"
+live_proof:
+  eyebrow: "Live vom MACHN Festival"
+  title: "Natalia zeigt auf der Bühne, wie ein Pitch-Auftritt wirkt."
+  text: "Beim MACHN Festival wird sichtbar, worum es beim ESKYNA Special geht: klar auftreten, authentisch wirken und die eigene Idee mit Persönlichkeit präsentieren."
+  image: "images/machn/v4/photos/natalia-machn-pitch-wide-1600x760-eskyna-toned.webp"
+  image_tablet: "images/machn/v4/photos/natalia-machn-pitch-tablet-1200x900-eskyna-toned.webp"
+  image_mobile: "images/machn/v4/photos/natalia-machn-pitch-mobile-900x1200-eskyna-toned.webp"
+  image_alt: "Natalia Kleemann präsentiert auf dem MACHN Festival vor Publikum."
+  logo: "images/machn/v4/logos/machn-logo26-white.png"
+  logo_webp: "images/machn/v4/logos/machn-logo26-white.webp"
+  logo_alt: "MACHN Festival Logo"
 use_cases:
   title: "Use Cases"
   items:

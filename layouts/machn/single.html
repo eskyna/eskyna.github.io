@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $hero := .Params.hero }}
+{{ $liveProof := .Params.live_proof }}
 {{ $useCases := .Params.use_cases }}
 {{ $expectations := .Params.expectations }}
 {{ $result := .Params.result }}
@@ -62,6 +63,34 @@
       </div>
     </div>
   </section>
+
+  {{ with $liveProof }}
+  <section class="machn-live-proof section" aria-labelledby="machn-live-proof-title">
+    <div class="container machn-live-proof-wrap">
+      {{ $liveDesktop := or .image "images/machn/v4/photos/natalia-machn-pitch-wide-1600x760-eskyna-toned.webp" }}
+      {{ $liveTablet := or .image_tablet $liveDesktop }}
+      {{ $liveMobile := or .image_mobile $liveTablet }}
+      <picture class="machn-live-proof-media">
+        <source media="(max-width: 700px)" srcset="{{ $liveMobile | relURL }}" type="image/webp">
+        <source media="(max-width: 1100px)" srcset="{{ $liveTablet | relURL }}" type="image/webp">
+        <img src="{{ $liveDesktop | relURL }}" alt="{{ .image_alt | default "Natalia Kleemann präsentiert auf dem MACHN Festival vor Publikum." }}" title="{{ .image_alt | default "Natalia Kleemann präsentiert auf dem MACHN Festival vor Publikum." }}" loading="lazy" decoding="async">
+      </picture>
+      <div class="machn-live-proof-copy">
+        <p class="machn-live-proof-eyebrow">{{ .eyebrow }}</p>
+        <h2 id="machn-live-proof-title" class="machn-live-proof-title">{{ .title }}</h2>
+        <p class="machn-live-proof-text">{{ .text }}</p>
+        {{ $liveLogoPng := or .logo "images/machn/v4/logos/machn-logo26-white.png" }}
+        {{ $liveLogoWebp := or .logo_webp $liveLogoPng }}
+        <div class="machn-live-proof-logo" aria-label="{{ .logo_alt | default "MACHN Festival Logo" }}">
+          <picture>
+            <source srcset="{{ $liveLogoWebp | relURL }}" type="image/webp">
+            <img src="{{ $liveLogoPng | relURL }}" alt="{{ .logo_alt | default "MACHN Festival Logo" }}" title="{{ .logo_alt | default "MACHN Festival Logo" }}" loading="lazy" decoding="async">
+          </picture>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
 
   <section class="machn-use-cases section">
     <div class="container">
