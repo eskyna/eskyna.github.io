@@ -16,6 +16,9 @@
   <section class="machn-hero section">
     <div class="container machn-hero-grid">
       <div class="machn-hero-copy">
+        <div class="machn-brand-mark">
+          {{ partial "responsive-image.html" (dict "src" "images/machn/eskyna_symbol_gold_official.png" "alt" "ESKYNA Symbol" "title" "ESKYNA Symbol" "class" "machn-brand-symbol" "loading" "eager" "decoding" "async" "sizes" "72px") }}
+        </div>
         <p class="machn-label">{{ .Params.eyebrow }}</p>
         <h1 class="machn-hero-title">{{ $hero.headline }}</h1>
         <p class="machn-subline">{{ $hero.subline }}</p>
@@ -36,7 +39,12 @@
 
       <div class="machn-hero-media">
         <span class="machn-claim-badge">{{ $hero.badge }}</span>
-        {{ partial "responsive-image.html" (dict "src" $hero.image "alt" $hero.image_alt "title" $hero.image_alt "class" "machn-hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 960px) 100vw, 54vw") }}
+        {{ $heroDesktop := or $hero.image "images/machn/photos/natalia_cutout_full_900w.png" }}
+        {{ $heroMobile := or $hero.image_mobile $heroDesktop }}
+        <picture>
+          <source media="(max-width: 760px)" srcset="{{ $heroMobile | relURL }}">
+          <img src="{{ $heroDesktop | relURL }}" alt="{{ $hero.image_alt }}" title="{{ $hero.image_alt }}" class="machn-hero-image" loading="lazy" decoding="async">
+        </picture>
       </div>
     </div>
   </section>
@@ -61,9 +69,16 @@
       <div class="machn-expectations-grid">
         {{ range $expectations.cards }}
         <article class="machn-expectation-card">
-          {{ partial "responsive-image.html" (dict "src" .image "alt" .alt "title" .alt "class" "machn-expectation-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 960px) 100vw, 25vw") }}
-          <h3 class="machn-expectation-title">{{ .title }}</h3>
-          <p>{{ .text }}</p>
+          {{ $cardDesktop := .image }}
+          {{ $cardMobile := or .image_mobile $cardDesktop }}
+          <picture>
+            <source media="(max-width: 760px)" srcset="{{ $cardMobile | relURL }}">
+            <img src="{{ $cardDesktop | relURL }}" alt="{{ .alt }}" title="{{ .alt }}" class="machn-expectation-image" loading="lazy" decoding="async">
+          </picture>
+          <div class="machn-expectation-body">
+            <h3 class="machn-expectation-title">{{ .title }}</h3>
+            <p>{{ .text }}</p>
+          </div>
         </article>
         {{ end }}
       </div>
@@ -74,6 +89,16 @@
     <div class="container">
       <h2 class="machn-result-title">{{ $result.title }}</h2>
       <p class="machn-section-subtitle">{{ $result.subtitle }}</p>
+      {{ with $result.image }}
+      {{ $resultDesktop := . }}
+      {{ $resultMobile := or $result.image_mobile $resultDesktop }}
+      <div class="machn-result-visual">
+        <picture>
+          <source media="(max-width: 760px)" srcset="{{ $resultMobile | relURL }}">
+          <img src="{{ $resultDesktop | relURL }}" alt="{{ $result.image_alt | default $result.title }}" title="{{ $result.image_alt | default $result.title }}" class="machn-result-image" loading="lazy" decoding="async">
+        </picture>
+      </div>
+      {{ end }}
       <ul class="machn-result-list">
         {{ range $result.items }}
         <li>{{ . }}</li>
@@ -89,7 +114,10 @@
         <h3 class="machn-offer-title">{{ $offerCard.subtitle }}</h3>
         <p class="machn-offer-price">{{ $offerCard.price }}</p>
         <p class="machn-offer-regular">{{ $offerCard.regular_price }}</p>
-        <p class="machn-offer-note">{{ $offerCard.note }}</p>
+        <p class="machn-offer-note">
+          {{ partial "responsive-image.html" (dict "src" "images/machn/icons/calendar.svg" "alt" "Kalender Symbol" "title" "Kalender Symbol" "class" "machn-offer-note-icon" "loading" "lazy" "decoding" "async" "sizes" "20px") }}
+          <span>{{ $offerCard.note }}</span>
+        </p>
         {{ partial "button-icon.html" (dict "href" "#machn-kontakt" "text" $offerCard.cta_text "title" $offerCard.cta_text "noIcon" true "class" "btn machn-btn") }}
       </article>
     </div>
@@ -103,7 +131,12 @@
         <p>{{ $about.text_2 }}</p>
       </div>
       <div>
-        {{ partial "responsive-image.html" (dict "src" $about.image "alt" $about.image_alt "title" $about.image_alt "class" "machn-about-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 960px) 100vw, 40vw") }}
+        {{ $aboutDesktop := or $about.image "images/machn/photos/natalia_desk_900w.png" }}
+        {{ $aboutMobile := or $about.image_mobile $aboutDesktop }}
+        <picture>
+          <source media="(max-width: 760px)" srcset="{{ $aboutMobile | relURL }}">
+          <img src="{{ $aboutDesktop | relURL }}" alt="{{ $about.image_alt }}" title="{{ $about.image_alt }}" class="machn-about-image" loading="lazy" decoding="async">
+        </picture>
       </div>
     </div>
   </section>
@@ -135,15 +168,17 @@
   (function () {
     var form = document.getElementById("machn-contact");
     if (!form) return;
+    var prefillMessage = {{ $prefillMessage | jsonify | safeJS }};
+    var successText = {{ $successText | jsonify | safeJS }};
 
     var message = form.querySelector('textarea[name="message"]');
     if (message && !message.value) {
-      message.value = {{ $prefillMessage | jsonify }};
+      message.value = prefillMessage || "";
     }
 
     var status = form.querySelector("[data-contact-status]");
     if (status) {
-      form.setAttribute("data-status-success", {{ $successText | jsonify }});
+      form.setAttribute("data-status-success", successText || "");
     }
   })();
 </script>
