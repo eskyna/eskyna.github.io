@@ -1,0 +1,150 @@
+{{ define "main" }}
+{{ $hero := .Params.hero }}
+{{ $useCases := .Params.use_cases }}
+{{ $expectations := .Params.expectations }}
+{{ $result := .Params.result }}
+{{ $offerCard := .Params.offer_card }}
+{{ $about := .Params.about }}
+{{ $quote := .Params.quote }}
+{{ $closing := .Params.closing }}
+{{ $form := .Params.contact_form }}
+{{ $offerValue := or $form.offer_label "MACHN Special" }}
+{{ $prefillMessage := or $form.prefill_message "Ich war beim MACHN Festival und interessiere mich für das ESKYNA MACHN Special." }}
+{{ $successText := or $form.success_message "Danke für deine Anfrage. Natalia meldet sich zeitnah bei dir, um deinen Termin für das MACHN Special abzustimmen." }}
+
+<main class="machn-page">
+  <section class="machn-hero section">
+    <div class="container machn-hero-grid">
+      <div class="machn-hero-copy">
+        <p class="machn-label">{{ .Params.eyebrow }}</p>
+        <h1 class="machn-hero-title">{{ $hero.headline }}</h1>
+        <p class="machn-subline">{{ $hero.subline }}</p>
+
+        <div class="machn-price-box">
+          <p class="machn-price-label">{{ $hero.festival_label }}</p>
+          <p class="machn-price">{{ $hero.price }}</p>
+          <p class="machn-price-regular">{{ $hero.regular_price }}</p>
+        </div>
+
+        <div class="machn-hero-cta">
+          {{ partial "button-icon.html" (dict "href" $hero.cta_href "text" $hero.cta_text "title" $hero.cta_text "noIcon" true "class" "btn machn-btn") }}
+        </div>
+
+        <p class="machn-meta">{{ $hero.meta_1 }}</p>
+        <p class="machn-meta">{{ $hero.meta_2 }}</p>
+      </div>
+
+      <div class="machn-hero-media">
+        <span class="machn-claim-badge">{{ $hero.badge }}</span>
+        {{ partial "responsive-image.html" (dict "src" $hero.image "alt" $hero.image_alt "title" $hero.image_alt "class" "machn-hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 960px) 100vw, 54vw") }}
+      </div>
+    </div>
+  </section>
+
+  <section class="machn-use-cases section">
+    <div class="container">
+      <div class="machn-use-cases-grid">
+        {{ range $useCases.items }}
+        <article class="machn-use-case-card">
+          {{ partial "responsive-image.html" (dict "src" .icon "alt" .title "title" .title "class" "machn-use-case-icon" "loading" "lazy" "decoding" "async" "sizes" "64px") }}
+          <p>{{ .title }}</p>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="machn-expectations section">
+    <div class="container">
+      <h2 class="machn-expectations-title">{{ $expectations.title }}</h2>
+      <p class="machn-section-subtitle">{{ $expectations.subtitle }}</p>
+      <div class="machn-expectations-grid">
+        {{ range $expectations.cards }}
+        <article class="machn-expectation-card">
+          {{ partial "responsive-image.html" (dict "src" .image "alt" .alt "title" .alt "class" "machn-expectation-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 960px) 100vw, 25vw") }}
+          <h3 class="machn-expectation-title">{{ .title }}</h3>
+          <p>{{ .text }}</p>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="machn-result section">
+    <div class="container">
+      <h2 class="machn-result-title">{{ $result.title }}</h2>
+      <p class="machn-section-subtitle">{{ $result.subtitle }}</p>
+      <ul class="machn-result-list">
+        {{ range $result.items }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  <section class="machn-offer section">
+    <div class="container">
+      <article class="machn-offer-card">
+        <p class="machn-offer-eyebrow">{{ $offerCard.title }}</p>
+        <h3 class="machn-offer-title">{{ $offerCard.subtitle }}</h3>
+        <p class="machn-offer-price">{{ $offerCard.price }}</p>
+        <p class="machn-offer-regular">{{ $offerCard.regular_price }}</p>
+        <p class="machn-offer-note">{{ $offerCard.note }}</p>
+        {{ partial "button-icon.html" (dict "href" "#machn-kontakt" "text" $offerCard.cta_text "title" $offerCard.cta_text "noIcon" true "class" "btn machn-btn") }}
+      </article>
+    </div>
+  </section>
+
+  <section class="machn-about section">
+    <div class="container machn-about-grid">
+      <div>
+        <h2>{{ $about.title }}</h2>
+        <p>{{ $about.text_1 }}</p>
+        <p>{{ $about.text_2 }}</p>
+      </div>
+      <div>
+        {{ partial "responsive-image.html" (dict "src" $about.image "alt" $about.image_alt "title" $about.image_alt "class" "machn-about-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 960px) 100vw, 40vw") }}
+      </div>
+    </div>
+  </section>
+
+  <section class="machn-quote section">
+    <div class="container">
+      <blockquote>
+        <p class="machn-quote-text">"{{ $quote.text }}"</p>
+        <footer class="machn-quote-footer">{{ $quote.author }}<br>{{ $quote.role }}</footer>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="machn-closing section" id="machn-kontakt">
+    <div class="container">
+      <h2 class="machn-closing-title">{{ $closing.title }}</h2>
+      <p>{{ $closing.text }}</p>
+      <div class="machn-closing-cta">
+        {{ partial "button-icon.html" (dict "href" "#machn-contact-form" "text" $closing.cta_text "title" $closing.cta_text "noIcon" true "class" "btn machn-btn") }}
+      </div>
+      <div class="offer-contact-inline machn-contact-inline" id="machn-contact-form">
+        {{ partial "contact-form.html" (dict "page" . "formId" "machn-contact" "offer" $offerValue "submitText" $closing.cta_text) }}
+      </div>
+    </div>
+  </section>
+</main>
+
+<script>
+  (function () {
+    var form = document.getElementById("machn-contact");
+    if (!form) return;
+
+    var message = form.querySelector('textarea[name="message"]');
+    if (message && !message.value) {
+      message.value = {{ $prefillMessage | jsonify }};
+    }
+
+    var status = form.querySelector("[data-contact-status]");
+    if (status) {
+      form.setAttribute("data-status-success", {{ $successText | jsonify }});
+    }
+  })();
+</script>
+{{ end }}

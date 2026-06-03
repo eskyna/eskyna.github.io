@@ -39,6 +39,9 @@
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
 <link rel="apple-touch-startup-image" href="{{ "images/apple-startup-icon.png" | relURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
+{{ if eq .RelPermalink "/machn/" }}
+  <link rel="stylesheet" href="{{ "css/machn.css" | relURL }}">
+{{ end }}
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | absURL }}">
 <script>
   (function () {
