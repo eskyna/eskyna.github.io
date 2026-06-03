@@ -7,11 +7,23 @@
       name="description"
       content="Diese Adresse wurde auf die deutsche ESKYNA-Startseite umgestellt. Sie werden automatisch weitergeleitet."
     />
-    <meta http-equiv="refresh" content="0; url=/" />
+    <meta http-equiv="refresh" content="1; url=/" />
     <link rel="canonical" href="https://eskyna.com/" />
     <title>Weiterleitung zur ESKYNA Startseite</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-540127833"></script>
     <script>
-      window.location.replace("/");
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-540127833", {
+        page_path: "/ru/",
+      });
+
+      window.setTimeout(function () {
+        window.location.replace("/");
+      }, 150);
     </script>
   </head>
   <body>
