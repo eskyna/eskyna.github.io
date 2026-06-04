@@ -174,7 +174,7 @@
         <p class="machn-offer-price">{{ $offerCard.price }}</p>
         <p class="machn-offer-regular">{{ $offerCard.regular_price }}</p>
         <p class="machn-offer-note">
-          {{ partial "responsive-image.html" (dict "src" "images/machn/icons/calendar.svg" "alt" "Kalender Symbol" "title" "Kalender Symbol" "class" "machn-offer-note-icon" "loading" "lazy" "decoding" "async" "sizes" "20px") }}
+          {{ partial "responsive-image.html" (dict "src" "images/machn/calendar.svg" "alt" "Kalender Symbol" "title" "Kalender Symbol" "class" "machn-offer-note-icon" "loading" "lazy" "decoding" "async" "sizes" "20px") }}
           <span>{{ $offerCard.note }}</span>
         </p>
         {{ partial "button-icon.html" (dict "href" "#machn-kontakt" "text" $offerCard.cta_text "title" $offerCard.cta_text "noIcon" true "class" "btn machn-btn") }}
