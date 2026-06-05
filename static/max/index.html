@@ -6,18 +6,9 @@
     <title>Max in Kaliningrad: Aktivitätenkarte | ESKYNA</title>
     <meta
       name="description"
-      content="Interaktive Aktivitätenkarte für zwei Wochen in Kaliningrad: Speed, Schießen-Alternativen, Wasser, Outdoor, Technik und Abendprogramm für Max."
+      content="Premium Offline-Aktivitätenkarte mit Zoom für zwei Wochen in Kaliningrad: Speed, Schießen-Alternativen, Wasser, Outdoor, Technik und Abendprogramm für Max."
     />
     <meta name="theme-color" content="#7f8f7a" />
-    <link rel="icon" type="image/svg+xml" href="/max/assets/max-logo-minimal-badge.svg" />
-    <link rel="preconnect" href="https://unpkg.com" crossorigin />
-    <link rel="preconnect" href="https://tile.openstreetmap.org" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-      integrity="sha256-p4NxAoJBhIINfQ0xCJ0Xqb+sVr2lmxv8fq6U4DCAkts="
-      crossorigin=""
-    />
     <style>
       :root {
         --ink: #2f2a25;
@@ -88,18 +79,44 @@
         align-items: center;
         gap: 12px;
         text-decoration: none;
-      }
-      .brand-wordmark {
-        display: block;
-        width: min(210px, 42vw);
-        height: auto;
-      }
-      .brand-meta {
-        color: var(--muted);
-        font-size: 12px;
-        letter-spacing: 0.12em;
-        text-transform: uppercase;
+        letter-spacing: 0.04em;
         font-weight: 700;
+        text-transform: uppercase;
+        font-size: 14px;
+      }
+      .clover {
+        width: 34px;
+        height: 34px;
+        position: relative;
+        display: inline-block;
+        transform: rotate(45deg);
+      }
+      .clover span {
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        border-radius: 50% 50% 50% 8px;
+        background: var(--sage);
+        box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+      }
+      .clover span:nth-child(1) {
+        left: 1px;
+        top: 1px;
+      }
+      .clover span:nth-child(2) {
+        right: 1px;
+        top: 1px;
+        transform: rotate(90deg);
+      }
+      .clover span:nth-child(3) {
+        left: 1px;
+        bottom: 1px;
+        transform: rotate(-90deg);
+      }
+      .clover span:nth-child(4) {
+        right: 1px;
+        bottom: 1px;
+        transform: rotate(180deg);
       }
       .top-actions {
         display: flex;
@@ -162,12 +179,6 @@
         border-radius: var(--radius-lg);
         padding: 24px;
         box-shadow: var(--shadow);
-      }
-      .hero-logo {
-        display: block;
-        width: min(100%, 230px);
-        height: auto;
-        margin: 0 0 18px;
       }
       .stat-grid {
         display: grid;
@@ -373,51 +384,156 @@
         width: 100%;
         height: 720px;
         min-height: 720px;
+        position: relative;
+        overflow: hidden;
+        background:
+          radial-gradient(circle at 20% 18%, rgba(255, 255, 255, 0.72), transparent 21rem),
+          radial-gradient(circle at 80% 78%, rgba(185, 140, 98, 0.16), transparent 26rem),
+          linear-gradient(135deg, #d7e7e6 0%, #eaf2ee 34%, #f3eadf 68%, #e4d6c5 100%);
+        isolation: isolate;
+        touch-action: none;
       }
-      .map-legend {
+      #map::after {
+        content: "";
         position: absolute;
-        right: 18px;
-        bottom: 18px;
-        z-index: 450;
-        background: rgba(255, 250, 246, 0.92);
-        border: 1px solid rgba(47, 42, 37, 0.1);
-        border-radius: 18px;
-        padding: 12px 14px;
-        box-shadow: 0 12px 30px rgba(47, 42, 37, 0.12);
+        inset: 0;
+        pointer-events: none;
+        z-index: 0;
+        background:
+          linear-gradient(90deg, rgba(255, 255, 255, 0.2) 1px, transparent 1px),
+          linear-gradient(0deg, rgba(255, 255, 255, 0.18) 1px, transparent 1px),
+          radial-gradient(circle at center, transparent 40%, rgba(47, 42, 37, 0.1) 100%);
+        background-size:
+          80px 80px,
+          80px 80px,
+          auto;
+        mix-blend-mode: soft-light;
+      }
+      .map-stage {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 1600px;
+        height: 1100px;
+        transform-origin: 0 0;
+        z-index: 2;
+        will-change: transform;
+        cursor: grab;
+        user-select: none;
+      }
+      .map-stage.is-smooth {
+        transition: transform 0.28s cubic-bezier(0.22, 0.61, 0.36, 1);
+      }
+      .map-stage.is-dragging {
+        cursor: grabbing;
+      }
+      .map-art {
+        position: absolute;
+        inset: 0;
+        width: 1600px;
+        height: 1100px;
+        z-index: 1;
+        pointer-events: none;
+        filter: drop-shadow(0 30px 55px rgba(47, 42, 37, 0.1));
+      }
+      .place-labels-layer {
+        position: absolute;
+        inset: 0;
+        z-index: 6;
+        pointer-events: none;
+      }
+      .place-label {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        padding: 5px 8px 6px;
+        border-radius: 12px;
+        background: rgba(255, 250, 246, 0.78);
+        border: 1px solid rgba(47, 42, 37, 0.09);
+        box-shadow: 0 8px 18px rgba(47, 42, 37, 0.08);
+        color: rgba(47, 42, 37, 0.8);
+        line-height: 1.08;
+        white-space: nowrap;
+        backdrop-filter: blur(8px);
+      }
+      .place-label strong {
+        display: block;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 18px;
+        letter-spacing: -0.02em;
+      }
+      .place-label span {
+        display: block;
+        margin-top: 2px;
+        color: rgba(47, 42, 37, 0.57);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+      }
+      .place-label.small strong {
+        font-size: 15px;
+      }
+      .place-label.small span {
+        font-size: 10px;
+      }
+      .place-label.water {
+        background: transparent;
+        border: 0;
+        box-shadow: none;
+        color: rgba(63, 100, 112, 0.76);
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.44);
+      }
+      .place-label.water strong {
+        font-size: 24px;
+        font-weight: 500;
+      }
+      .place-label.water span {
+        color: rgba(63, 100, 112, 0.62);
         font-size: 12px;
-        color: var(--muted);
-        max-width: 270px;
       }
-      .legend-row {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        margin: 6px 0;
+      .pins-layer {
+        position: absolute;
+        inset: 0;
+        z-index: 12;
+        pointer-events: none;
       }
-      .dot {
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        display: inline-block;
-      }
-
-      .custom-marker {
-        width: 34px;
-        height: 34px;
-        border-radius: 50% 50% 50% 9px;
-        transform: rotate(-45deg);
+      .map-pin {
+        position: absolute;
+        width: 40px;
+        height: 40px;
         border: 2px solid #fffaf2;
-        box-shadow: 0 8px 20px rgba(47, 42, 37, 0.28);
+        border-radius: 50% 50% 50% 10px;
+        transform: translate(-50%, -100%) rotate(-45deg);
+        box-shadow:
+          0 14px 32px rgba(47, 42, 37, 0.34),
+          0 0 0 4px rgba(255, 250, 242, 0.38);
         display: grid;
         place-items: center;
+        cursor: pointer;
+        transition:
+          transform 0.16s ease,
+          opacity 0.16s ease,
+          filter 0.16s ease,
+          box-shadow 0.16s ease;
         color: white;
-        font-size: 15px;
-        font-weight: 800;
+        z-index: 30;
+        pointer-events: auto;
       }
-      .custom-marker span {
+      .map-pin span {
         transform: rotate(45deg);
         display: block;
         line-height: 1;
+        font-size: 15px;
+      }
+      .map-pin:hover,
+      .map-pin.active {
+        transform: translate(-50%, -100%) rotate(-45deg) scale(1.16);
+        z-index: 80;
+        box-shadow: 0 18px 42px rgba(47, 42, 37, 0.32);
+      }
+      .map-pin.is-hidden {
+        opacity: 0.13;
+        filter: grayscale(0.7);
+        pointer-events: none;
       }
       .cat-speed {
         background: #9d6048;
@@ -440,34 +556,144 @@
       .cat-sight {
         background: #8d7b6a;
       }
-
-      .leaflet-popup-content-wrapper {
-        border-radius: 18px;
-        background: #fffaf6;
+      .map-title {
+        position: absolute;
+        left: 24px;
+        top: 22px;
+        z-index: 12;
+        max-width: 375px;
+        padding: 15px 17px;
+        border-radius: 20px;
+        background: rgba(255, 250, 246, 0.82);
+        border: 1px solid rgba(47, 42, 37, 0.09);
+        backdrop-filter: blur(12px);
+        box-shadow: 0 14px 36px rgba(47, 42, 37, 0.12);
+      }
+      .map-title b {
+        display: block;
+        font-family: Georgia, serif;
+        font-size: 24px;
+        letter-spacing: -0.02em;
+      }
+      .map-title span {
+        display: block;
+        margin-top: 5px;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.4;
+      }
+      .map-note {
+        position: absolute;
+        left: 24px;
+        top: 126px;
+        z-index: 12;
+        max-width: 355px;
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.42;
+        padding: 11px 13px;
+        border-radius: 16px;
+        background: rgba(255, 250, 246, 0.7);
+        border: 1px solid rgba(47, 42, 37, 0.07);
+        backdrop-filter: blur(10px);
+      }
+      .map-controls {
+        position: absolute;
+        right: 18px;
+        top: 18px;
+        z-index: 14;
+        display: grid;
+        gap: 8px;
+      }
+      .map-control-btn {
+        width: 42px;
+        height: 42px;
+        border-radius: 14px;
+        border: 1px solid rgba(47, 42, 37, 0.12);
+        background: rgba(255, 250, 246, 0.92);
+        box-shadow: 0 10px 24px rgba(47, 42, 37, 0.11);
         color: var(--ink);
-        box-shadow: 0 18px 45px rgba(47, 42, 37, 0.22);
+        font-weight: 850;
+        font-size: 19px;
+        cursor: pointer;
       }
-      .leaflet-popup-content {
-        margin: 16px 17px;
-        min-width: 250px;
+      .map-control-btn.small {
+        font-size: 12px;
+        letter-spacing: 0.02em;
       }
-      .popup h3 {
+      .zoom-hint {
+        position: absolute;
+        right: 70px;
+        top: 21px;
+        z-index: 13;
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.35;
+        padding: 10px 12px;
+        border-radius: 15px;
+        background: rgba(255, 250, 246, 0.72);
+        border: 1px solid rgba(47, 42, 37, 0.07);
+        backdrop-filter: blur(10px);
+        max-width: 205px;
+      }
+      .map-legend {
+        position: absolute;
+        right: 18px;
+        bottom: 18px;
+        z-index: 13;
+        background: rgba(255, 250, 246, 0.92);
+        border: 1px solid rgba(47, 42, 37, 0.1);
+        border-radius: 18px;
+        padding: 12px 14px;
+        box-shadow: 0 12px 30px rgba(47, 42, 37, 0.12);
+        font-size: 12px;
+        color: var(--muted);
+        max-width: 270px;
+        backdrop-filter: blur(10px);
+      }
+      .legend-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin: 6px 0;
+      }
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        display: inline-block;
+      }
+      .map-detail {
+        position: absolute;
+        left: 22px;
+        bottom: 22px;
+        z-index: 14;
+        width: min(520px, calc(100% - 330px));
+        border-radius: 24px;
+        background: rgba(255, 250, 246, 0.95);
+        border: 1px solid rgba(47, 42, 37, 0.1);
+        box-shadow: 0 18px 45px rgba(47, 42, 37, 0.18);
+        padding: 18px;
+        backdrop-filter: blur(12px);
+      }
+      .map-detail h3 {
         margin: 0 0 8px;
-        font-size: 18px;
+        font-size: 20px;
         line-height: 1.22;
       }
-      .popup p {
+      .map-detail p {
         margin: 7px 0;
         color: var(--muted);
         line-height: 1.38;
+        font-size: 13px;
       }
-      .popup .buttons {
+      .map-detail .buttons {
         display: flex;
         gap: 8px;
         flex-wrap: wrap;
         margin-top: 12px;
       }
-      .popup a {
+      .map-detail a {
         text-decoration: none;
         border-radius: 999px;
         padding: 8px 10px;
@@ -476,10 +702,73 @@
         border: 1px solid rgba(47, 42, 37, 0.12);
         background: rgba(242, 233, 220, 0.72);
       }
-      .popup a.primary {
+      .map-detail a.primary {
         color: #fffaf2;
         background: var(--ink);
         border-color: var(--ink);
+      }
+      .map-detail-placeholder {
+        color: var(--muted);
+        line-height: 1.45;
+        font-size: 14px;
+      }
+
+      @media (max-width: 980px) {
+        .map-wrap,
+        #map {
+          min-height: 640px;
+          height: 640px;
+        }
+        .map-title {
+          left: 14px;
+          right: 14px;
+          max-width: none;
+        }
+        .map-note {
+          left: 14px;
+          right: 14px;
+          top: 104px;
+          max-width: none;
+        }
+        .zoom-hint {
+          display: none;
+        }
+        .map-detail {
+          left: 14px;
+          right: 14px;
+          bottom: 14px;
+          width: auto;
+        }
+      }
+      @media (max-width: 640px) {
+        .map-wrap,
+        #map {
+          min-height: 620px;
+          height: 620px;
+        }
+        .map-legend {
+          left: 14px;
+          right: 14px;
+          bottom: 164px;
+          max-width: none;
+        }
+        .map-controls {
+          top: 170px;
+          right: 14px;
+        }
+
+        .map-section {
+          display: grid;
+          grid-template-columns: 1fr;
+        }
+
+        .map-wrap {
+          order: 1;
+        }
+
+        .panel {
+          order: 2;
+        }
       }
 
       .plan {
@@ -566,22 +855,38 @@
         }
         .map-wrap,
         #map {
-          min-height: 620px;
-          height: 620px;
+          min-height: 640px;
+          height: 640px;
+        }
+        .city-inset {
+          width: calc(100% - 28px);
+          left: 14px;
+          right: 14px;
+          top: 160px;
+          height: 230px;
+        }
+        .map-title {
+          left: 14px;
+          right: 14px;
+          max-width: none;
+        }
+        .map-note {
+          left: 14px;
+          right: 14px;
+          top: 96px;
+          max-width: none;
+        }
+        .map-detail {
+          left: 14px;
+          right: 14px;
+          bottom: 14px;
+          width: auto;
         }
       }
       @media (max-width: 640px) {
         .topbar-inner {
           align-items: flex-start;
           flex-direction: column;
-        }
-        .brand {
-          flex-direction: column;
-          align-items: flex-start;
-          gap: 8px;
-        }
-        .brand-wordmark {
-          width: min(200px, 72vw);
         }
         .top-actions {
           justify-content: flex-start;
@@ -595,12 +900,22 @@
         }
         .map-wrap,
         #map {
-          min-height: 560px;
-          height: 560px;
+          min-height: 620px;
+          height: 620px;
+        }
+        .city-inset {
+          top: 176px;
+          height: 235px;
         }
         .map-legend {
-          position: static;
-          margin: 12px;
+          left: 14px;
+          right: 14px;
+          bottom: 162px;
+          max-width: none;
+        }
+
+        .cards {
+          max-height: 300px;
         }
       }
     </style>
@@ -610,8 +925,10 @@
       <header class="topbar">
         <div class="topbar-inner">
           <a class="brand" href="https://eskyna.com" aria-label="Zur Eskyna Startseite">
-            <img class="brand-wordmark" src="/max/assets/max-logo-minimal-wordmark.svg" alt="MAX" />
-            <span class="brand-meta">ESKYNA Edition</span>
+            <span class="clover" aria-hidden="true"
+              ><span></span><span></span><span></span><span></span
+            ></span>
+            <span>ESKYNA / MAX</span>
           </a>
           <nav class="top-actions" aria-label="Schnellnavigation">
             <a class="ghost-link" href="#karte">Karte</a>
@@ -627,16 +944,12 @@
             <p class="eyebrow">Kaliningrad mit Teenager</p>
             <h1 id="hero-title">Mehr Action. Weniger Langeweile.</h1>
             <p class="lead">
-              Eine interaktive Karte für Natalia und Max: Speed, Schießen-Alternativen, Wasser,
-              Outdoor, Technik und Abendprogramm für zwei Wochen in und um Kaliningrad.
+              Eine stabile, zoomfähige Offline-Karte für Natalia und Max: Speed,
+              Schießen-Alternativen, Wasser, Outdoor, Technik und Abendprogramm für zwei Wochen in
+              und um Kaliningrad.
             </p>
           </div>
           <aside class="hero-card" aria-label="Kurzer Überblick">
-            <img
-              class="hero-logo"
-              src="/max/assets/max-logo-minimal-lockup.svg"
-              alt="MAX Kaliningrad Lockup"
-            />
             <div class="stat-grid">
               <div class="stat">
                 <strong id="countAll">24</strong><span>Orte & Aktivitäten auf der Karte</span>
@@ -700,7 +1013,241 @@
           </aside>
 
           <div class="map-wrap">
-            <div id="map" role="application" aria-label="Interaktive Karte Kaliningrad"></div>
+            <div
+              id="map"
+              role="application"
+              aria-label="Interaktive Offline-Aktivitätenkarte Kaliningrad"
+            >
+              <div class="map-stage" id="mapStage">
+                <svg
+                  class="map-art"
+                  viewBox="0 0 1600 1100"
+                  aria-hidden="true"
+                  preserveAspectRatio="none"
+                >
+                  <defs>
+                    <linearGradient id="premiumSea" x1="0" x2="1" y1="0" y2="1">
+                      <stop offset="0" stop-color="#bdd8dc" />
+                      <stop offset=".55" stop-color="#a6c6cf" />
+                      <stop offset="1" stop-color="#8fb3c0" />
+                    </linearGradient>
+                    <linearGradient id="premiumLand" x1="0" x2="1" y1="0" y2="1">
+                      <stop offset="0" stop-color="#fbf3e7" />
+                      <stop offset=".55" stop-color="#eadfcd" />
+                      <stop offset="1" stop-color="#d9c8b2" />
+                    </linearGradient>
+                    <linearGradient id="lagoon" x1="0" x2="1" y1="0" y2="1">
+                      <stop offset="0" stop-color="#cbdfe0" />
+                      <stop offset="1" stop-color="#a8c7cc" />
+                    </linearGradient>
+                    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+                      <feDropShadow
+                        dx="0"
+                        dy="16"
+                        stdDeviation="18"
+                        flood-color="#2f2a25"
+                        flood-opacity=".13"
+                      />
+                    </filter>
+                    <pattern id="paperGrain" patternUnits="userSpaceOnUse" width="72" height="72">
+                      <path
+                        d="M0 24 H72 M24 0 V72"
+                        stroke="#ffffff"
+                        stroke-opacity=".13"
+                        stroke-width="1"
+                      />
+                      <circle cx="14" cy="18" r="1" fill="#2f2a25" opacity=".035" />
+                      <circle cx="58" cy="49" r="1.2" fill="#2f2a25" opacity=".03" />
+                    </pattern>
+                  </defs>
+
+                  <rect width="1600" height="1100" fill="url(#premiumSea)" />
+                  <rect width="1600" height="1100" fill="url(#paperGrain)" opacity=".8" />
+
+                  <!-- Curonian Lagoon and Vistula Lagoon as soft water masses -->
+                  <path
+                    d="M585 448 C695 395 865 388 1038 435 C1190 476 1330 570 1455 610 C1508 627 1558 624 1600 612 L1600 1100 L800 1100 C720 1010 675 900 655 770 C638 660 620 550 585 448 Z"
+                    fill="url(#lagoon)"
+                    opacity=".78"
+                  />
+                  <path
+                    d="M0 740 C145 705 270 720 400 784 C525 845 655 880 780 850 C720 940 670 1015 650 1100 L0 1100 Z"
+                    fill="url(#lagoon)"
+                    opacity=".56"
+                  />
+
+                  <!-- Region land silhouette -->
+                  <path
+                    filter="url(#softShadow)"
+                    d="M0 455 C130 410 250 370 395 398 C520 421 630 455 756 425 C905 390 1025 310 1162 282 C1320 250 1470 277 1600 245 L1600 1100 L0 1100 Z"
+                    fill="url(#premiumLand)"
+                  />
+                  <path
+                    d="M0 455 C130 410 250 370 395 398 C520 421 630 455 756 425 C905 390 1025 310 1162 282 C1320 250 1470 277 1600 245"
+                    fill="none"
+                    stroke="#fffaf2"
+                    stroke-width="9"
+                    opacity=".55"
+                  />
+                  <path
+                    d="M0 485 C135 450 246 420 390 444 C530 468 640 500 760 472 C900 440 1020 365 1168 330 C1322 294 1472 315 1600 292"
+                    fill="none"
+                    stroke="#b98c62"
+                    stroke-width="3"
+                    opacity=".32"
+                  />
+
+                  <!-- Curonian Spit and Baltic Spit -->
+                  <path
+                    d="M1006 160 C1035 272 1052 401 1061 548 C1069 692 1055 838 1015 1058"
+                    fill="none"
+                    stroke="#f8efd9"
+                    stroke-width="34"
+                    stroke-linecap="round"
+                    opacity=".95"
+                  />
+                  <path
+                    d="M1030 166 C1056 300 1068 432 1072 560 C1077 700 1062 842 1026 1056"
+                    fill="none"
+                    stroke="#6d865d"
+                    stroke-width="4"
+                    stroke-linecap="round"
+                    opacity=".38"
+                  />
+                  <path
+                    d="M186 596 C128 662 87 737 44 842"
+                    fill="none"
+                    stroke="#f8efd9"
+                    stroke-width="28"
+                    stroke-linecap="round"
+                    opacity=".92"
+                  />
+                  <path
+                    d="M188 599 C126 680 86 762 52 848"
+                    fill="none"
+                    stroke="#b98c62"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    opacity=".34"
+                  />
+
+                  <!-- Relief / forest texture -->
+                  <g opacity=".22" fill="none" stroke="#6d865d" stroke-width="2">
+                    <path d="M305 575 C380 540 480 535 560 570 C620 596 690 602 765 575" />
+                    <path d="M825 505 C900 465 1010 455 1100 492 C1186 528 1285 540 1392 505" />
+                    <path d="M360 690 C455 650 565 660 680 710 C780 752 875 760 980 712" />
+                    <path d="M985 735 C1090 695 1210 706 1340 770 C1440 820 1525 805 1600 766" />
+                    <path d="M125 880 C240 828 340 845 460 910 C560 965 650 980 760 936" />
+                  </g>
+
+                  <!-- Roads / routes -->
+                  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path
+                      d="M520 635 C620 614 717 610 815 638 C910 666 1005 665 1122 638 C1245 608 1380 598 1536 620"
+                      stroke="#fffaf2"
+                      stroke-width="14"
+                      opacity=".72"
+                    />
+                    <path
+                      d="M520 635 C620 614 717 610 815 638 C910 666 1005 665 1122 638 C1245 608 1380 598 1536 620"
+                      stroke="#b98c62"
+                      stroke-width="3"
+                      opacity=".35"
+                      stroke-dasharray="10 12"
+                    />
+                    <path
+                      d="M510 634 C410 668 325 704 250 770 C175 836 118 905 66 994"
+                      stroke="#fffaf2"
+                      stroke-width="12"
+                      opacity=".60"
+                    />
+                    <path
+                      d="M510 634 C410 668 325 704 250 770 C175 836 118 905 66 994"
+                      stroke="#7f8f7a"
+                      stroke-width="3"
+                      opacity=".35"
+                    />
+                    <path
+                      d="M515 636 C545 742 575 830 625 900 C694 998 800 1038 942 1050"
+                      stroke="#fffaf2"
+                      stroke-width="10"
+                      opacity=".52"
+                    />
+                    <path
+                      d="M515 636 C545 742 575 830 625 900 C694 998 800 1038 942 1050"
+                      stroke="#7f8f7a"
+                      stroke-width="2.5"
+                      opacity=".30"
+                    />
+                  </g>
+
+                  <!-- City area -->
+                  <ellipse cx="515" cy="635" rx="86" ry="54" fill="#fffaf2" opacity=".52" />
+                  <ellipse
+                    cx="515"
+                    cy="635"
+                    rx="108"
+                    ry="68"
+                    fill="none"
+                    stroke="#2f2a25"
+                    stroke-opacity=".10"
+                    stroke-width="2"
+                    stroke-dasharray="5 8"
+                  />
+                  <path
+                    d="M432 658 C470 632 520 628 592 647"
+                    fill="none"
+                    stroke="#638fa6"
+                    stroke-width="8"
+                    stroke-linecap="round"
+                    opacity=".38"
+                  />
+
+                  <!-- Decorative water and landscape labels are rendered as HTML above, so they stay crisp while zooming. -->
+                </svg>
+                <div class="place-labels-layer" id="placeLabels"></div>
+                <div class="pins-layer" id="markersLayer"></div>
+              </div>
+              <div class="map-note">
+                Schematische Orientierungskarte: die Pins liegen über der Karte und bleiben
+                anklickbar. Für exakte Navigation beim Ort Google Maps, Yandex oder OSM öffnen.
+              </div>
+              <div class="zoom-hint">
+                Scrollen oder Pinch zum Zoomen. Karte ziehen zum Verschieben.
+              </div>
+              <div class="map-controls" aria-label="Kartensteuerung">
+                <button
+                  class="map-control-btn"
+                  type="button"
+                  id="zoomIn"
+                  aria-label="Karte vergrößern"
+                >
+                  +
+                </button>
+                <button
+                  class="map-control-btn"
+                  type="button"
+                  id="zoomOut"
+                  aria-label="Karte verkleinern"
+                >
+                  −
+                </button>
+                <button
+                  class="map-control-btn small"
+                  type="button"
+                  id="zoomReset"
+                  aria-label="Karte zurücksetzen"
+                >
+                  Reset
+                </button>
+              </div>
+              <div class="map-detail" id="mapDetail">
+                <div class="map-detail-placeholder">
+                  <b>Ort anklicken</b><br />Wähle links eine Aktivität oder direkt einen Marker auf
+                  der Karte.
+                </div>
+              </div>
+            </div>
             <div class="map-legend">
               <b>Legende</b>
               <div class="legend-row"><span class="dot cat-speed"></span> Speed / Fahren</div>
@@ -765,12 +1312,6 @@
         </div>
       </footer>
     </div>
-
-    <script
-      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-      crossorigin=""
-    ></script>
     <script>
       const activities = [
         {
@@ -986,7 +1527,7 @@
           lat: 54.7064,
           lng: 20.5028,
           city: "Kaliningrad",
-          address: "Peter-der-Große-Ufer 1 / наб. Петра Великого, 1",
+          address: "Peter-der-Grosse-Ufer 1 / наб. Петра Великого, 1",
           pitch:
             "Echtes U-Boot, Schiffe, Technik, Marine-Vibe. Sehr stark für einen ruhigeren Tag.",
           note: "Mehrere Objekte, daher Zeitfenster vorher planen.",
@@ -1219,17 +1760,250 @@
         evening: "Abend / Indoor",
       };
 
-      const map = L.map("map", { scrollWheelZoom: true, zoomControl: true }).setView(
-        [54.8, 20.45],
-        8
-      );
-      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        maxZoom: 18,
-        attribution: "&copy; OpenStreetMap-Mitwirkende",
-      }).addTo(map);
+      const categoryClasses = {
+        speed: "cat-speed",
+        shooting: "cat-shooting",
+        water: "cat-water",
+        outdoor: "cat-outdoor",
+        tech: "cat-tech",
+        evening: "cat-evening",
+        sight: "cat-sight",
+      };
 
+      const placeLabels = [
+        {
+          de: "Ostsee",
+          ru: "\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u043e\u0435 \u043c\u043e\u0440\u0435",
+          x: 185,
+          y: 170,
+          type: "water",
+        },
+        {
+          de: "Kurisches Haff",
+          ru: "\u041a\u0443\u0440\u0448\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432",
+          x: 1250,
+          y: 755,
+          type: "water",
+        },
+        {
+          de: "Frisches Haff",
+          ru: "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432",
+          x: 270,
+          y: 925,
+          type: "water",
+        },
+        {
+          de: "Kurische Nehrung",
+          ru: "\u041a\u0443\u0440\u0448\u0441\u043a\u0430\u044f \u043a\u043e\u0441\u0430",
+          lat: 55.13,
+          lng: 20.8,
+          type: "small",
+          dx: 36,
+          dy: -28,
+        },
+        {
+          de: "Baltische Nehrung",
+          ru: "\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0430\u044f \u043a\u043e\u0441\u0430",
+          lat: 54.615,
+          lng: 19.9,
+          type: "small",
+          dx: 52,
+          dy: 28,
+        },
+        {
+          de: "Kaliningrad",
+          ru: "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434 · K\u00f6nigsberg",
+          lat: 54.7104,
+          lng: 20.4522,
+          type: "city",
+          dx: -78,
+          dy: -56,
+        },
+        {
+          de: "Selenogradsk",
+          ru: "\u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434\u0441\u043a",
+          lat: 54.9606,
+          lng: 20.475,
+          type: "small",
+          dx: -70,
+          dy: -36,
+        },
+        {
+          de: "Swetlogorsk",
+          ru: "\u0421\u0432\u0435\u0442\u043b\u043e\u0433\u043e\u0440\u0441\u043a",
+          lat: 54.9436,
+          lng: 20.1519,
+          type: "small",
+          dx: -60,
+          dy: -32,
+        },
+        {
+          de: "Jantarny",
+          ru: "\u042f\u043d\u0442\u0430\u0440\u043d\u044b\u0439",
+          lat: 54.871,
+          lng: 19.9402,
+          type: "small",
+          dx: -56,
+          dy: -26,
+        },
+        {
+          de: "Baltiysk",
+          ru: "\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a",
+          lat: 54.6437,
+          lng: 19.8882,
+          type: "small",
+          dx: -54,
+          dy: -30,
+        },
+        {
+          de: "Rybatschij",
+          ru: "\u0420\u044b\u0431\u0430\u0447\u0438\u0439",
+          lat: 55.16,
+          lng: 20.852,
+          type: "small",
+          dx: 62,
+          dy: -6,
+        },
+        {
+          de: "Morskoje",
+          ru: "\u041c\u043e\u0440\u0441\u043a\u043e\u0435",
+          lat: 55.226,
+          lng: 20.914,
+          type: "small",
+          dx: 66,
+          dy: -22,
+        },
+        {
+          de: "Neman",
+          ru: "\u041d\u0435\u043c\u0430\u043d · Ragnit",
+          lat: 55.0371,
+          lng: 22.0276,
+          type: "small",
+          dx: 42,
+          dy: -32,
+        },
+        {
+          de: "Tschernjachowsk",
+          ru: "\u0427\u0435\u0440\u043d\u044f\u0445\u043e\u0432\u0441\u043a · Insterburg",
+          lat: 54.632,
+          lng: 21.814,
+          type: "small",
+          dx: 72,
+          dy: 34,
+        },
+      ];
+
+      let activeFilter = "all";
       const markers = new Map();
-      const group = L.featureGroup().addTo(map);
+      const cardsEl = document.getElementById("cards");
+      const searchEl = document.getElementById("search");
+      const countAll = document.getElementById("countAll");
+      const mapEl = document.getElementById("map");
+      const mapStageEl = document.getElementById("mapStage");
+      const markersLayerEl = document.getElementById("markersLayer");
+      const placeLabelsEl = document.getElementById("placeLabels");
+      const mapDetailEl = document.getElementById("mapDetail");
+      countAll.textContent = activities.length;
+
+      const mapBounds = { latMin: 54.46, latMax: 55.35, lngMin: 19.52, lngMax: 22.18 };
+      const sceneSize = { width: 1600, height: 1100 };
+      const mapView = { scale: 0.68, x: 0, y: -8, minScale: 0.46, maxScale: 2.65 };
+
+      function normalize(s) {
+        return (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+      }
+
+      function projectOnMap(a) {
+        const x =
+          ((a.lng - mapBounds.lngMin) / (mapBounds.lngMax - mapBounds.lngMin)) * sceneSize.width;
+        const y =
+          ((mapBounds.latMax - a.lat) / (mapBounds.latMax - mapBounds.latMin)) * sceneSize.height;
+        return {
+          x: Math.max(44, Math.min(sceneSize.width - 44, x)),
+          y: Math.max(70, Math.min(sceneSize.height - 52, y)),
+        };
+      }
+
+      function createPlaceLabels() {
+        placeLabelsEl.innerHTML = "";
+        placeLabels.forEach((label) => {
+          const pos = label.x !== undefined ? { x: label.x, y: label.y } : projectOnMap(label);
+          const el = document.createElement("div");
+          el.className = `place-label ${label.type || ""}`.trim();
+          el.style.left = `${pos.x + (label.dx || 0)}px`;
+          el.style.top = `${pos.y + (label.dy || 0)}px`;
+          el.innerHTML = `<strong>${label.de}</strong><span>${label.ru}</span>`;
+          placeLabelsEl.appendChild(el);
+        });
+      }
+
+      function clampMapView() {
+        const rect = mapEl.getBoundingClientRect();
+        const scaledW = sceneSize.width * mapView.scale;
+        const scaledH = sceneSize.height * mapView.scale;
+        const minX = Math.min(0, rect.width - scaledW);
+        const minY = Math.min(0, rect.height - scaledH);
+        mapView.x = Math.min(42, Math.max(minX - 42, mapView.x));
+        mapView.y = Math.min(42, Math.max(minY - 42, mapView.y));
+      }
+
+      let transformFrame = 0;
+
+      function applyMapView(options = {}) {
+        if (options.clamp !== false) clampMapView();
+        if (options.smooth) {
+          mapStageEl.classList.add("is-smooth");
+          window.setTimeout(() => mapStageEl.classList.remove("is-smooth"), 300);
+        }
+        mapStageEl.style.transform = `translate3d(${mapView.x}px, ${mapView.y}px, 0) scale(${mapView.scale})`;
+      }
+
+      function scheduleMapView(options = {}) {
+        if (transformFrame) return;
+        transformFrame = requestAnimationFrame(() => {
+          transformFrame = 0;
+          applyMapView(options);
+        });
+      }
+
+      function panToWorld(x, y, nextScale = mapView.scale) {
+        const rect = mapEl.getBoundingClientRect();
+        const newScale = Math.max(mapView.minScale, Math.min(mapView.maxScale, nextScale));
+        mapView.scale = newScale;
+        mapView.x = rect.width / 2 - x * newScale;
+        mapView.y = rect.height * 0.42 - y * newScale;
+        applyMapView({ smooth: true });
+      }
+
+      function setZoom(nextScale, originX, originY, smooth = false) {
+        const rect = mapEl.getBoundingClientRect();
+        const ox = originX ?? rect.width / 2;
+        const oy = originY ?? rect.height / 2;
+        const oldScale = mapView.scale;
+        const newScale = Math.max(mapView.minScale, Math.min(mapView.maxScale, nextScale));
+        if (Math.abs(newScale - oldScale) < 0.001) return;
+        const worldX = (ox - mapView.x) / oldScale;
+        const worldY = (oy - mapView.y) / oldScale;
+        mapView.scale = newScale;
+        mapView.x = ox - worldX * newScale;
+        mapView.y = oy - worldY * newScale;
+        applyMapView({ smooth });
+      }
+
+      function filteredActivities() {
+        const q = normalize(searchEl.value);
+        return activities.filter((a) => {
+          const matchesFilter = activeFilter === "all" || a.category === activeFilter;
+          const haystack = normalize(
+            [a.title, a.category, a.city, a.address, a.pitch, a.note, a.score, a.age].join(" ")
+          );
+          return matchesFilter && (!q || haystack.includes(q));
+        });
+      }
+
+      function googleMapsLink(a) {
+        return `https://www.google.com/maps/search/?api=1&query=${a.lat},${a.lng}`;
+      }
 
       function yandexLink(a) {
         const q = encodeURIComponent(`${a.title} ${a.address} ${a.city}`);
@@ -1237,75 +2011,75 @@
       }
 
       function osmLink(a) {
-        return `https://www.openstreetmap.org/?mlat=${a.lat}&mlon=${a.lng}#map=15/${a.lat}/${a.lng}`;
+        return `https://www.openstreetmap.org/?mlat=${a.lat}&mlon=${a.lng}#map=14/${a.lat}/${a.lng}`;
       }
 
-      function markerIcon(a) {
-        return L.divIcon({
-          className: "",
-          html: `<div class="custom-marker cat-${a.category}" title="${a.title}"><span>${a.icon}</span></div>`,
-          iconSize: [34, 34],
-          iconAnchor: [17, 34],
-          popupAnchor: [0, -32],
-        });
+      function sourceLink(a) {
+        return a.source || googleMapsLink(a);
       }
 
-      function popupHtml(a) {
+      function detailHtml(a) {
         const warning =
-          a.age && a.age.includes("18") ? '<span class="tag warn">Altersgrenze prüfen</span>' : "";
+          a.age && (a.age.includes("18") || a.age.includes("klären"))
+            ? '<span class="tag warn">Altersgrenze prüfen</span>'
+            : "";
         return `
-        <div class="popup">
-          <h3>${a.icon} ${a.title}</h3>
-          <p><b>${categoryLabels[a.category]}</b> · ${a.city}</p>
-          <p>${a.pitch}</p>
-          <p><b>Adresse:</b> ${a.address}</p>
-          <p><b>Dauer:</b> ${a.duration} · <b>Alter:</b> ${a.age}</p>
-          <div class="tag-row"><span class="tag">${a.score}</span>${warning}</div>
-          <p>${a.note}</p>
-          <div class="buttons">
-            <a class="primary" href="${yandexLink(a)}" target="_blank" rel="noopener">Route suchen</a>
-            <a href="${a.source}" target="_blank" rel="noopener">Quelle/Anbieter</a>
-            <a href="${osmLink(a)}" target="_blank" rel="noopener">OSM</a>
-          </div>
+        <h3>${a.icon} ${a.title}</h3>
+        <p><b>${categoryLabels[a.category]}</b> · ${a.city}</p>
+        <p>${a.pitch}</p>
+        <p><b>Adresse:</b> ${a.address}</p>
+        <p><b>Dauer:</b> ${a.duration} · <b>Alter:</b> ${a.age}</p>
+        <div class="tag-row"><span class="tag">${a.score}</span>${warning}</div>
+        <p>${a.note}</p>
+        <div class="buttons">
+          <a class="primary" href="${googleMapsLink(a)}" target="_blank" rel="noopener">Google Maps</a>
+          <a href="${yandexLink(a)}" target="_blank" rel="noopener">Yandex Route</a>
+          <a href="${osmLink(a)}" target="_blank" rel="noopener">OSM</a>
+          <a href="${sourceLink(a)}" target="_blank" rel="noopener">Quelle/Anbieter</a>
         </div>`;
       }
 
-      activities.forEach((a) => {
-        const marker = L.marker([a.lat, a.lng], { icon: markerIcon(a), title: a.title }).bindPopup(
-          popupHtml(a)
-        );
-        marker.addTo(group);
-        markers.set(a.id, marker);
-      });
-      requestAnimationFrame(() => {
-        map.invalidateSize();
-        map.fitBounds(group.getBounds().pad(0.1));
-      });
-      window.addEventListener("load", () => map.invalidateSize());
-      window.addEventListener("resize", () => map.invalidateSize());
-
-      const cardsEl = document.getElementById("cards");
-      const searchEl = document.getElementById("search");
-      const countAll = document.getElementById("countAll");
-      countAll.textContent = activities.length;
-      let activeFilter = "all";
-
-      function normalize(s) {
-        return (s || "")
-          .toLowerCase()
-          .normalize("NFD")
-          .replace(/[\u0300-\u036f]/g, "");
+      function createMarkers() {
+        const collisionOffsets = [
+          [0, 0],
+          [18, -10],
+          [-18, 10],
+          [22, 12],
+          [-22, -12],
+          [0, 22],
+          [0, -22],
+          [34, 0],
+          [-34, 0],
+          [28, -24],
+          [-28, 24],
+          [42, 18],
+          [-42, -18],
+        ];
+        activities.forEach((a, index) => {
+          const pos = projectOnMap(a);
+          const pin = document.createElement("button");
+          pin.type = "button";
+          pin.className = `map-pin ${categoryClasses[a.category] || "cat-sight"}`;
+          pin.dataset.id = a.id;
+          pin.setAttribute("aria-label", `${a.title} anzeigen`);
+          pin.title = a.title;
+          const isKaliningradCluster =
+            a.lat >= 54.675 && a.lat <= 54.76 && a.lng >= 20.455 && a.lng <= 20.69;
+          const offset = isKaliningradCluster
+            ? collisionOffsets[index % collisionOffsets.length]
+            : [0, 0];
+          pin.style.left = `${pos.x + offset[0]}px`;
+          pin.style.top = `${pos.y + offset[1]}px`;
+          pin.innerHTML = `<span>${a.icon}</span>`;
+          pin.addEventListener("click", () => focusActivity(a.id, true));
+          markersLayerEl.appendChild(pin);
+          markers.set(a.id, pin);
+        });
       }
 
       function render() {
-        const q = normalize(searchEl.value);
-        const filtered = activities.filter((a) => {
-          const matchesFilter = activeFilter === "all" || a.category === activeFilter;
-          const haystack = normalize(
-            [a.title, a.category, a.city, a.address, a.pitch, a.note, a.score, a.age].join(" ")
-          );
-          return matchesFilter && (!q || haystack.includes(q));
-        });
+        const filtered = filteredActivities();
+        const visibleIds = new Set(filtered.map((a) => a.id));
 
         cardsEl.innerHTML = filtered.length
           ? filtered
@@ -1327,14 +2101,169 @@
               .join("")
           : '<p class="meta" style="padding: 20px;">Keine Treffer. Suche anders oder wähle „Alle“.</p>';
 
-        group.clearLayers();
-        filtered.forEach((a) => group.addLayer(markers.get(a.id)));
-        if (filtered.length)
-          map.fitBounds(
-            L.featureGroup(filtered.map((a) => markers.get(a.id)))
-              .getBounds()
-              .pad(0.12)
+        activities.forEach((a) => {
+          const marker = markers.get(a.id);
+          if (marker) marker.classList.toggle("is-hidden", !visibleIds.has(a.id));
+        });
+      }
+
+      function focusActivity(id, fromMarker = false) {
+        const a = activities.find((x) => x.id === id);
+        if (!a) return;
+        document
+          .querySelectorAll(".activity-card")
+          .forEach((c) => c.classList.toggle("active", c.dataset.id === id));
+        document
+          .querySelectorAll(".map-pin")
+          .forEach((p) => p.classList.toggle("active", p.dataset.id === id));
+        mapDetailEl.innerHTML = detailHtml(a);
+        if (!fromMarker) {
+          const pos = projectOnMap(a);
+          const isMobile = window.matchMedia("(max-width: 640px)").matches;
+          panToWorld(pos.x, pos.y, Math.max(mapView.scale, isMobile ? 0.82 : 0.96));
+        }
+        const marker = markers.get(id);
+        if (marker) marker.classList.add("active");
+      }
+
+      function setupPanZoom() {
+        document
+          .getElementById("zoomIn")
+          .addEventListener("click", () =>
+            setZoom(mapView.scale * 1.24, undefined, undefined, true)
           );
+        document
+          .getElementById("zoomOut")
+          .addEventListener("click", () =>
+            setZoom(mapView.scale / 1.24, undefined, undefined, true)
+          );
+        document.getElementById("zoomReset").addEventListener("click", () => {
+          mapView.scale = window.matchMedia("(max-width: 640px)").matches ? 0.62 : 0.68;
+          mapView.x = 0;
+          mapView.y = -8;
+          applyMapView({ smooth: true });
+        });
+
+        mapEl.addEventListener(
+          "wheel",
+          (e) => {
+            e.preventDefault();
+            const rect = mapEl.getBoundingClientRect();
+            const factor = Math.exp(-e.deltaY * 0.0016);
+            setZoom(mapView.scale * factor, e.clientX - rect.left, e.clientY - rect.top);
+          },
+          { passive: false }
+        );
+
+        const pointers = new Map();
+        let dragStart = null;
+        let pinchStart = null;
+        let didMove = false;
+
+        function localPoint(e) {
+          const rect = mapEl.getBoundingClientRect();
+          return { x: e.clientX - rect.left, y: e.clientY - rect.top };
+        }
+
+        function pointerDistance(a, b) {
+          return Math.hypot(a.x - b.x, a.y - b.y);
+        }
+
+        function pointerCenter(a, b) {
+          return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 };
+        }
+
+        mapEl.addEventListener("pointerdown", (e) => {
+          if (
+            e.target.closest(
+              ".map-pin, .map-control-btn, .map-detail, .map-legend, .map-title, .map-note, a, button"
+            )
+          )
+            return;
+          mapStageEl.classList.remove("is-smooth");
+          mapEl.setPointerCapture(e.pointerId);
+          pointers.set(e.pointerId, localPoint(e));
+          didMove = false;
+
+          if (pointers.size === 1) {
+            dragStart = { x: e.clientX, y: e.clientY, mapX: mapView.x, mapY: mapView.y };
+            pinchStart = null;
+            mapStageEl.classList.add("is-dragging");
+          } else if (pointers.size === 2) {
+            const [p1, p2] = Array.from(pointers.values());
+            const center = pointerCenter(p1, p2);
+            pinchStart = {
+              distance: pointerDistance(p1, p2),
+              center,
+              scale: mapView.scale,
+              x: mapView.x,
+              y: mapView.y,
+            };
+            dragStart = null;
+          }
+        });
+
+        mapEl.addEventListener(
+          "pointermove",
+          (e) => {
+            if (!pointers.has(e.pointerId)) return;
+            pointers.set(e.pointerId, localPoint(e));
+
+            if (pointers.size >= 2 && pinchStart) {
+              e.preventDefault();
+              didMove = true;
+              const [p1, p2] = Array.from(pointers.values());
+              const center = pointerCenter(p1, p2);
+              const dist = Math.max(20, pointerDistance(p1, p2));
+              const newScale = Math.max(
+                mapView.minScale,
+                Math.min(mapView.maxScale, pinchStart.scale * (dist / pinchStart.distance))
+              );
+              const worldX = (pinchStart.center.x - pinchStart.x) / pinchStart.scale;
+              const worldY = (pinchStart.center.y - pinchStart.y) / pinchStart.scale;
+              mapView.scale = newScale;
+              mapView.x = center.x - worldX * newScale;
+              mapView.y = center.y - worldY * newScale;
+              scheduleMapView({ clamp: false });
+              return;
+            }
+
+            if (pointers.size === 1 && dragStart) {
+              const dx = e.clientX - dragStart.x;
+              const dy = e.clientY - dragStart.y;
+              if (Math.hypot(dx, dy) > 3) didMove = true;
+              mapView.x = dragStart.mapX + dx;
+              mapView.y = dragStart.mapY + dy;
+              scheduleMapView({ clamp: false });
+            }
+          },
+          { passive: false }
+        );
+
+        function endPointer(e) {
+          pointers.delete(e.pointerId);
+          try {
+            mapEl.releasePointerCapture(e.pointerId);
+          } catch (_) {}
+          if (pointers.size === 0) {
+            dragStart = null;
+            pinchStart = null;
+            mapStageEl.classList.remove("is-dragging");
+            applyMapView({ smooth: didMove });
+          } else if (pointers.size === 1) {
+            dragStart = null;
+            pinchStart = null;
+          }
+        }
+
+        mapEl.addEventListener("pointerup", endPointer);
+        mapEl.addEventListener("pointercancel", endPointer);
+        mapEl.addEventListener("dblclick", (e) => {
+          if (e.target.closest(".map-pin, .map-detail")) return;
+          const rect = mapEl.getBoundingClientRect();
+          setZoom(mapView.scale * 1.35, e.clientX - rect.left, e.clientY - rect.top, true);
+        });
+        window.addEventListener("resize", () => applyMapView({ smooth: true }));
       }
 
       cardsEl.addEventListener("click", (e) => {
@@ -1342,6 +2271,7 @@
         if (!card) return;
         focusActivity(card.dataset.id);
       });
+
       cardsEl.addEventListener("keydown", (e) => {
         const card = e.target.closest(".activity-card");
         if (!card) return;
@@ -1351,21 +2281,6 @@
         }
       });
 
-      function focusActivity(id) {
-        const a = activities.find((x) => x.id === id);
-        const marker = markers.get(id);
-        if (!a || !marker) return;
-        document
-          .querySelectorAll(".activity-card")
-          .forEach((c) => c.classList.toggle("active", c.dataset.id === id));
-        map.setView(
-          [a.lat, a.lng],
-          a.category === "outdoor" && ["efa", "dancing-forest"].includes(a.id) ? 11 : 13,
-          { animate: true }
-        );
-        setTimeout(() => marker.openPopup(), 260);
-      }
-
       document.querySelectorAll(".filter-btn").forEach((btn) => {
         btn.addEventListener("click", () => {
           document.querySelectorAll(".filter-btn").forEach((b) => b.classList.remove("active"));
@@ -1374,8 +2289,16 @@
           render();
         });
       });
+
       searchEl.addEventListener("input", render);
+      if (window.matchMedia("(max-width: 640px)").matches) mapView.scale = 0.62;
+      setupPanZoom();
+      applyMapView();
+      createPlaceLabels();
+      createMarkers();
       render();
+      const first = activities.find((a) => a.id === "extreme39") || activities[0];
+      if (first) focusActivity(first.id);
     </script>
   </body>
 </html>
