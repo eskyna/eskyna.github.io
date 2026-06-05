@@ -1,0 +1,1381 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Max in Kaliningrad: Aktivitätenkarte | ESKYNA</title>
+    <meta
+      name="description"
+      content="Interaktive Aktivitätenkarte für zwei Wochen in Kaliningrad: Speed, Schießen-Alternativen, Wasser, Outdoor, Technik und Abendprogramm für Max."
+    />
+    <meta name="theme-color" content="#7f8f7a" />
+    <link rel="icon" type="image/svg+xml" href="/max/assets/max-logo-minimal-badge.svg" />
+    <link rel="preconnect" href="https://unpkg.com" crossorigin />
+    <link rel="preconnect" href="https://tile.openstreetmap.org" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQ0xCJ0Xqb+sVr2lmxv8fq6U4DCAkts="
+      crossorigin=""
+    />
+    <style>
+      :root {
+        --ink: #2f2a25;
+        --muted: #746d64;
+        --paper: #fbf6ee;
+        --paper-2: #f2e9dc;
+        --sage: #7f8f7a;
+        --sage-dark: #52624d;
+        --gold: #b98c62;
+        --rose: #d9a79b;
+        --blue: #6d8fa3;
+        --red: #a35d4b;
+        --shadow: 0 22px 60px rgba(47, 42, 37, 0.12);
+        --radius-lg: 28px;
+        --radius-md: 18px;
+        --radius-sm: 12px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        margin: 0;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 8% 4%, rgba(217, 167, 155, 0.22), transparent 30rem),
+          radial-gradient(circle at 92% 10%, rgba(127, 143, 122, 0.2), transparent 28rem),
+          linear-gradient(180deg, var(--paper), #fffaf2 55%, #f6eee2);
+        font-family:
+          Inter,
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+      }
+
+      a {
+        color: inherit;
+      }
+      .site-shell {
+        min-height: 100vh;
+      }
+
+      .topbar {
+        position: sticky;
+        top: 0;
+        z-index: 500;
+        border-bottom: 1px solid rgba(47, 42, 37, 0.08);
+        background: rgba(251, 246, 238, 0.88);
+        backdrop-filter: blur(18px);
+      }
+      .topbar-inner {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 14px 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+      }
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        text-decoration: none;
+      }
+      .brand-wordmark {
+        display: block;
+        width: min(210px, 42vw);
+        height: auto;
+      }
+      .brand-meta {
+        color: var(--muted);
+        font-size: 12px;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        font-weight: 700;
+      }
+      .top-actions {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+      .pill-link,
+      .ghost-link {
+        border: 1px solid rgba(47, 42, 37, 0.12);
+        border-radius: 999px;
+        padding: 10px 14px;
+        font-size: 13px;
+        font-weight: 650;
+        text-decoration: none;
+        background: rgba(255, 255, 255, 0.55);
+      }
+      .pill-link {
+        background: var(--ink);
+        color: #fffaf2;
+        border-color: var(--ink);
+      }
+
+      .hero {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 62px 0 30px;
+        display: grid;
+        grid-template-columns: 1.1fr 0.9fr;
+        gap: 32px;
+        align-items: end;
+      }
+      .eyebrow {
+        color: var(--sage-dark);
+        font-weight: 750;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+        font-size: 12px;
+        margin: 0 0 16px;
+      }
+      h1 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(42px, 6vw, 82px);
+        line-height: 0.93;
+        letter-spacing: -0.045em;
+        max-width: 780px;
+      }
+      .lead {
+        margin: 22px 0 0;
+        font-size: clamp(17px, 2vw, 21px);
+        line-height: 1.58;
+        color: var(--muted);
+        max-width: 680px;
+      }
+      .hero-card {
+        background: rgba(255, 255, 255, 0.62);
+        border: 1px solid rgba(47, 42, 37, 0.08);
+        border-radius: var(--radius-lg);
+        padding: 24px;
+        box-shadow: var(--shadow);
+      }
+      .hero-logo {
+        display: block;
+        width: min(100%, 230px);
+        height: auto;
+        margin: 0 0 18px;
+      }
+      .stat-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+      .stat {
+        padding: 16px;
+        border-radius: 18px;
+        background: rgba(242, 233, 220, 0.8);
+        min-height: 106px;
+      }
+      .stat strong {
+        display: block;
+        font-family: Georgia, serif;
+        font-size: 31px;
+        line-height: 1;
+      }
+      .stat span {
+        display: block;
+        margin-top: 9px;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.35;
+      }
+
+      .notice {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto 22px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+      }
+      .notice-card {
+        background: rgba(255, 255, 255, 0.66);
+        border: 1px solid rgba(47, 42, 37, 0.09);
+        border-radius: 20px;
+        padding: 16px 18px;
+        display: flex;
+        gap: 12px;
+        align-items: flex-start;
+      }
+      .notice-icon {
+        font-size: 21px;
+        line-height: 1;
+      }
+      .notice-card b {
+        display: block;
+        margin-bottom: 4px;
+      }
+      .notice-card p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.45;
+        font-size: 14px;
+      }
+
+      .map-section {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto 34px;
+        display: grid;
+        grid-template-columns: 390px 1fr;
+        gap: 18px;
+        align-items: stretch;
+      }
+      .panel,
+      .map-wrap {
+        background: rgba(255, 255, 255, 0.72);
+        border: 1px solid rgba(47, 42, 37, 0.09);
+        border-radius: var(--radius-lg);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+      .panel {
+        min-height: 720px;
+        display: flex;
+        flex-direction: column;
+      }
+      .panel-head {
+        padding: 20px;
+        border-bottom: 1px solid rgba(47, 42, 37, 0.08);
+      }
+      .panel-head h2 {
+        margin: 0 0 10px;
+        font-family: Georgia, serif;
+        font-size: 29px;
+        letter-spacing: -0.02em;
+      }
+      .search {
+        width: 100%;
+        border: 1px solid rgba(47, 42, 37, 0.14);
+        border-radius: 999px;
+        padding: 13px 16px;
+        background: #fffaf6;
+        color: var(--ink);
+        font-size: 15px;
+        outline: none;
+      }
+      .search:focus {
+        border-color: var(--sage);
+        box-shadow: 0 0 0 4px rgba(127, 143, 122, 0.14);
+      }
+      .filters {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        padding: 14px 20px 2px;
+      }
+      .filter-btn {
+        border: 1px solid rgba(47, 42, 37, 0.11);
+        background: rgba(242, 233, 220, 0.55);
+        color: var(--ink);
+        border-radius: 999px;
+        padding: 9px 12px;
+        font-size: 13px;
+        font-weight: 700;
+        cursor: pointer;
+        transition:
+          transform 0.18s ease,
+          background 0.18s ease,
+          color 0.18s ease;
+      }
+      .filter-btn:hover {
+        transform: translateY(-1px);
+      }
+      .filter-btn.active {
+        background: var(--sage-dark);
+        border-color: var(--sage-dark);
+        color: white;
+      }
+      .cards {
+        padding: 10px 14px 18px;
+        overflow: auto;
+        max-height: 612px;
+      }
+      .activity-card {
+        border: 1px solid rgba(47, 42, 37, 0.08);
+        border-radius: 18px;
+        padding: 14px;
+        background: rgba(255, 250, 246, 0.78);
+        margin: 10px 0;
+        cursor: pointer;
+        transition:
+          transform 0.18s ease,
+          box-shadow 0.18s ease,
+          border 0.18s ease;
+      }
+      .activity-card:hover,
+      .activity-card.active {
+        transform: translateY(-2px);
+        border-color: rgba(127, 143, 122, 0.55);
+        box-shadow: 0 12px 30px rgba(47, 42, 37, 0.1);
+      }
+      .card-top {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        align-items: flex-start;
+      }
+      .activity-card h3 {
+        margin: 0;
+        font-size: 16px;
+        line-height: 1.25;
+      }
+      .score {
+        flex: 0 0 auto;
+        border-radius: 999px;
+        padding: 5px 8px;
+        background: rgba(185, 140, 98, 0.14);
+        color: #805533;
+        font-weight: 750;
+        font-size: 12px;
+      }
+      .meta {
+        margin: 9px 0 0;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.45;
+      }
+      .tag-row {
+        display: flex;
+        gap: 6px;
+        flex-wrap: wrap;
+        margin-top: 11px;
+      }
+      .tag {
+        border-radius: 999px;
+        padding: 5px 8px;
+        background: rgba(127, 143, 122, 0.13);
+        color: var(--sage-dark);
+        font-size: 12px;
+        font-weight: 700;
+      }
+      .tag.warn {
+        background: rgba(163, 93, 75, 0.12);
+        color: var(--red);
+      }
+      .map-wrap {
+        position: relative;
+        min-height: 720px;
+      }
+      #map {
+        width: 100%;
+        height: 720px;
+        min-height: 720px;
+      }
+      .map-legend {
+        position: absolute;
+        right: 18px;
+        bottom: 18px;
+        z-index: 450;
+        background: rgba(255, 250, 246, 0.92);
+        border: 1px solid rgba(47, 42, 37, 0.1);
+        border-radius: 18px;
+        padding: 12px 14px;
+        box-shadow: 0 12px 30px rgba(47, 42, 37, 0.12);
+        font-size: 12px;
+        color: var(--muted);
+        max-width: 270px;
+      }
+      .legend-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin: 6px 0;
+      }
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        display: inline-block;
+      }
+
+      .custom-marker {
+        width: 34px;
+        height: 34px;
+        border-radius: 50% 50% 50% 9px;
+        transform: rotate(-45deg);
+        border: 2px solid #fffaf2;
+        box-shadow: 0 8px 20px rgba(47, 42, 37, 0.28);
+        display: grid;
+        place-items: center;
+        color: white;
+        font-size: 15px;
+        font-weight: 800;
+      }
+      .custom-marker span {
+        transform: rotate(45deg);
+        display: block;
+        line-height: 1;
+      }
+      .cat-speed {
+        background: #9d6048;
+      }
+      .cat-shooting {
+        background: #7b6754;
+      }
+      .cat-water {
+        background: #638fa6;
+      }
+      .cat-outdoor {
+        background: #6d865d;
+      }
+      .cat-tech {
+        background: #6f6b8f;
+      }
+      .cat-evening {
+        background: #b98c62;
+      }
+      .cat-sight {
+        background: #8d7b6a;
+      }
+
+      .leaflet-popup-content-wrapper {
+        border-radius: 18px;
+        background: #fffaf6;
+        color: var(--ink);
+        box-shadow: 0 18px 45px rgba(47, 42, 37, 0.22);
+      }
+      .leaflet-popup-content {
+        margin: 16px 17px;
+        min-width: 250px;
+      }
+      .popup h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        line-height: 1.22;
+      }
+      .popup p {
+        margin: 7px 0;
+        color: var(--muted);
+        line-height: 1.38;
+      }
+      .popup .buttons {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-top: 12px;
+      }
+      .popup a {
+        text-decoration: none;
+        border-radius: 999px;
+        padding: 8px 10px;
+        font-size: 12px;
+        font-weight: 800;
+        border: 1px solid rgba(47, 42, 37, 0.12);
+        background: rgba(242, 233, 220, 0.72);
+      }
+      .popup a.primary {
+        color: #fffaf2;
+        background: var(--ink);
+        border-color: var(--ink);
+      }
+
+      .plan {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto 64px;
+        display: grid;
+        grid-template-columns: 0.92fr 1.08fr;
+        gap: 18px;
+      }
+      .plan-card {
+        background: rgba(255, 255, 255, 0.66);
+        border: 1px solid rgba(47, 42, 37, 0.09);
+        border-radius: var(--radius-lg);
+        padding: 26px;
+        box-shadow: var(--shadow);
+      }
+      .plan-card h2,
+      .plan-card h3 {
+        font-family: Georgia, serif;
+        letter-spacing: -0.02em;
+      }
+      .plan-card h2 {
+        margin: 0 0 12px;
+        font-size: 32px;
+      }
+      .plan-card h3 {
+        margin: 0 0 8px;
+        font-size: 22px;
+      }
+      .plan-card p,
+      .plan-card li {
+        color: var(--muted);
+        line-height: 1.55;
+      }
+      .week-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+      .day {
+        background: rgba(242, 233, 220, 0.58);
+        border-radius: 16px;
+        padding: 12px;
+        border: 1px solid rgba(47, 42, 37, 0.07);
+      }
+      .day b {
+        display: block;
+        margin-bottom: 4px;
+      }
+      .day span {
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.38;
+      }
+      .footer {
+        border-top: 1px solid rgba(47, 42, 37, 0.08);
+        background: rgba(242, 233, 220, 0.42);
+        padding: 28px 0 40px;
+      }
+      .footer-inner {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.55;
+      }
+      .footer-inner a {
+        color: var(--ink);
+        font-weight: 650;
+      }
+
+      @media (max-width: 980px) {
+        .hero,
+        .notice,
+        .map-section,
+        .plan {
+          grid-template-columns: 1fr;
+        }
+        .panel {
+          min-height: auto;
+        }
+        .cards {
+          max-height: 440px;
+        }
+        .map-wrap,
+        #map {
+          min-height: 620px;
+          height: 620px;
+        }
+      }
+      @media (max-width: 640px) {
+        .topbar-inner {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+        .brand {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 8px;
+        }
+        .brand-wordmark {
+          width: min(200px, 72vw);
+        }
+        .top-actions {
+          justify-content: flex-start;
+        }
+        .hero {
+          padding-top: 38px;
+        }
+        .stat-grid,
+        .week-grid {
+          grid-template-columns: 1fr;
+        }
+        .map-wrap,
+        #map {
+          min-height: 560px;
+          height: 560px;
+        }
+        .map-legend {
+          position: static;
+          margin: 12px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <div class="topbar-inner">
+          <a class="brand" href="https://eskyna.com" aria-label="Zur Eskyna Startseite">
+            <img class="brand-wordmark" src="/max/assets/max-logo-minimal-wordmark.svg" alt="MAX" />
+            <span class="brand-meta">ESKYNA Edition</span>
+          </a>
+          <nav class="top-actions" aria-label="Schnellnavigation">
+            <a class="ghost-link" href="#karte">Karte</a>
+            <a class="ghost-link" href="#plan">2-Wochen-Idee</a>
+            <a class="pill-link" href="https://eskyna.com">eskyna.com</a>
+          </nav>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="hero-title">
+          <div>
+            <p class="eyebrow">Kaliningrad mit Teenager</p>
+            <h1 id="hero-title">Mehr Action. Weniger Langeweile.</h1>
+            <p class="lead">
+              Eine interaktive Karte für Natalia und Max: Speed, Schießen-Alternativen, Wasser,
+              Outdoor, Technik und Abendprogramm für zwei Wochen in und um Kaliningrad.
+            </p>
+          </div>
+          <aside class="hero-card" aria-label="Kurzer Überblick">
+            <img
+              class="hero-logo"
+              src="/max/assets/max-logo-minimal-lockup.svg"
+              alt="MAX Kaliningrad Lockup"
+            />
+            <div class="stat-grid">
+              <div class="stat">
+                <strong id="countAll">24</strong><span>Orte & Aktivitäten auf der Karte</span>
+              </div>
+              <div class="stat">
+                <strong>6</strong><span>Kategorien für Wetter, Energie und Laune</span>
+              </div>
+              <div class="stat">
+                <strong>16</strong><span>Jahre: Hinweise zu Alter & Sicherheit</span>
+              </div>
+              <div class="stat"><strong>2</strong><span>Wochen als flexibler Baukasten</span></div>
+            </div>
+          </aside>
+        </section>
+
+        <section class="notice" aria-label="Wichtige Hinweise">
+          <div class="notice-card">
+            <div class="notice-icon" aria-hidden="true">⚠️</div>
+            <div>
+              <b>Scharfes Schießen</b>
+              <p>
+                Bei echten Pistolen/Gewehren unbedingt vorher anrufen. Mehrere Anbieter nennen 18+;
+                für Max sind Bogen, Armbrust, Laser Tag oder Paintball realistischer.
+              </p>
+            </div>
+          </div>
+          <div class="notice-card">
+            <div class="notice-icon" aria-hidden="true">🏎️</div>
+            <div>
+              <b>Driften</b>
+              <p>
+                Selbst fahren ist mit 16 eher unwahrscheinlich. Suche nach Drift-Events,
+                Drift-Taxi/Beifahreroption oder nimm Karting und Quad als starke Alternativen.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section class="map-section" id="karte" aria-label="Aktivitätenkarte">
+          <aside class="panel">
+            <div class="panel-head">
+              <h2>Aktivitäten</h2>
+              <input
+                id="search"
+                class="search"
+                type="search"
+                placeholder="Suchen: Karting, Wasser, Fort, VR ..."
+                aria-label="Aktivitäten suchen"
+              />
+            </div>
+            <div class="filters" role="toolbar" aria-label="Kategorie filtern">
+              <button class="filter-btn active" data-filter="all">Alle</button>
+              <button class="filter-btn" data-filter="speed">Speed</button>
+              <button class="filter-btn" data-filter="shooting">Schießen</button>
+              <button class="filter-btn" data-filter="water">Wasser</button>
+              <button class="filter-btn" data-filter="outdoor">Outdoor</button>
+              <button class="filter-btn" data-filter="tech">Technik</button>
+              <button class="filter-btn" data-filter="evening">Abend</button>
+            </div>
+            <div class="cards" id="cards" aria-live="polite"></div>
+          </aside>
+
+          <div class="map-wrap">
+            <div id="map" role="application" aria-label="Interaktive Karte Kaliningrad"></div>
+            <div class="map-legend">
+              <b>Legende</b>
+              <div class="legend-row"><span class="dot cat-speed"></span> Speed / Fahren</div>
+              <div class="legend-row">
+                <span class="dot cat-shooting"></span> Schießen / Treffer
+              </div>
+              <div class="legend-row"><span class="dot cat-water"></span> Wasser / Meer</div>
+              <div class="legend-row"><span class="dot cat-outdoor"></span> Outdoor / Natur</div>
+              <div class="legend-row"><span class="dot cat-tech"></span> Technik / Museum</div>
+              <div class="legend-row"><span class="dot cat-evening"></span> Abend / Indoor</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="plan" id="plan" aria-label="Zwei Wochen Baukasten">
+          <div class="plan-card">
+            <ul>
+              <li><b>Bei gutem Wetter:</b> Quad, Wakeboard, Kurische Nehrung, Baltiysk.</li>
+              <li><b>Bei Regen:</b> VR, Bowling, Klettern, U-Boot, Fort/Museum.</li>
+              <li>
+                <b>Wenn mehr Action gebraucht wird:</b> kurze Challenges mit Rundenzeit, Treffern,
+                Höhenmetern oder Foto-/Video-Aufgabe.
+              </li>
+            </ul>
+          </div>
+          <div class="plan-card">
+            <h3>14-Tage-Rhythmus als Idee</h3>
+            <div class="week-grid">
+              <div class="day">
+                <b>Tag 1</b><span>Ankommen, kurze Stadt, abends VR oder Bowling.</span>
+              </div>
+              <div class="day"><b>Tag 2</b><span>Karting: erste Rundenzeit setzen.</span></div>
+              <div class="day"><b>Tag 3</b><span>Großeltern + Bogen/Armbrust.</span></div>
+              <div class="day"><b>Tag 4</b><span>U-Boot B-413 + Museum des Weltozeans.</span></div>
+              <div class="day"><b>Tag 5</b><span>Quad/ATV oder Offroad.</span></div>
+              <div class="day"><b>Tag 6</b><span>Kurische Nehrung: Efa + Meer.</span></div>
+              <div class="day"><b>Tag 7</b><span>Paintball/Laser Tag oder Axe Point.</span></div>
+              <div class="day"><b>Tag 8</b><span>Puffer: Park, Familie, Abendprogramm.</span></div>
+              <div class="day"><b>Tag 9</b><span>Baltiysk + Baltische Nehrung + Fort.</span></div>
+              <div class="day"><b>Tag 10</b><span>Wakeboard, SUP oder Kajak.</span></div>
+              <div class="day">
+                <b>Tag 11</b><span>Fort 11 und ggf. Schieß-Check für Natalia.</span>
+              </div>
+              <div class="day">
+                <b>Tag 12</b><span>Yantarny: Tagebau, Strand, ggf. Unterwasserpark.</span>
+              </div>
+              <div class="day"><b>Tag 13</b><span>Zweites Karting: Zeit verbessern.</span></div>
+              <div class="day"><b>Tag 14</b><span>Max wählt den Abschluss.</span></div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <div class="footer-inner">
+          <p>
+            <b>Hinweis:</b> Koordinaten sind für Reiseplanung und Orientierung gedacht.
+            Öffnungszeiten, Preise, Altersgrenzen und Dokumente bitte direkt beim Anbieter prüfen.
+            Besonders für Schießen, Quad, Wakeboard, Paragliding/Extremangebote und
+            Grenz-/Militärorte wie Baltiysk gilt: vorher telefonisch bestätigen.
+          </p>
+        </div>
+      </footer>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script>
+      const activities = [
+        {
+          id: "extreme39",
+          title: "Karting Extreme39",
+          category: "speed",
+          icon: "🏎️",
+          score: "Max 10/10",
+          lat: 54.7028,
+          lng: 20.5432,
+          city: "Kaliningrad",
+          address: "Sonnenboulevard 25B / Солнечный бульвар, 25Б",
+          pitch:
+            "Indoor/Outdoor-Speed nahe Rostech Arena. Gut als Drift-Ersatz und für Rundenzeit-Challenges.",
+          note: "Öffnungszeiten laut Tourismusportal: 12:00-23:00, Montag geschlossen. Vorher reservieren.",
+          age: "Teenager geeignet, Details prüfen",
+          duration: "1-2 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/ekstrim/karting-tsentr-extreme39/",
+        },
+        {
+          id: "leader",
+          title: "Kart-Club Lider",
+          category: "speed",
+          icon: "🏁",
+          score: "Max 10/10",
+          lat: 54.7319,
+          lng: 20.6781,
+          city: "Pribrezhnoe",
+          address: "Gurjewskij rajon, pos. Pribrezhnoe",
+          pitch:
+            "Klassischer Karting-Club mit elektronischer Zeitnahme. Perfekt als zweiter Termin zum Verbessern der Rundenzeit.",
+          note: "Auf der offiziellen Seite werden mehrere Karttypen und Zeitnahme genannt.",
+          age: "ab 7/120 cm laut Tourismusportal",
+          duration: "1-2 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/ekstrim/karting-klub-lider/",
+        },
+        {
+          id: "drift-events",
+          title: "Drift-/Autosport-Events checken",
+          category: "speed",
+          icon: "💨",
+          score: "Max 9/10",
+          lat: 54.7028,
+          lng: 20.5432,
+          city: "Kaliningrad",
+          address: "oft rund um Motorsport-/Karting-Locations; Termine variieren",
+          pitch:
+            "Nicht selbst fahren, sondern Event, Drift-Taxi oder Zuschauerplatz suchen. Der beste Weg, Max’ Drift-Wunsch legaler zu bedienen.",
+          note: "AutoAfisha39 sammelt Drift, Drag-Racing, Autoslalom, Offroad und Autocross in der Region.",
+          age: "Beifahrer/Eintritt klären",
+          duration: "halb- bis ganztags",
+          source: "https://t.me/autoafisha39",
+        },
+        {
+          id: "maxdrive",
+          title: "Maxdrive Quad/ATV",
+          category: "speed",
+          icon: "🛞",
+          score: "Max 9/10",
+          lat: 54.7302,
+          lng: 20.5031,
+          city: "Kaliningrad",
+          address: "Jubilejnaja 2 / Юбилейная, 2",
+          pitch: "Offroad, Schlamm, Geschwindigkeit und echtes Selbermachen-Gefühl.",
+          note: "Touren mit Helm, Brille, Handschuhen und Schutzkleidung; Alter und Dokumente für Max vorher klären.",
+          age: "16+ möglich anfragen",
+          duration: "2-4 h",
+          source: "https://visit-kaliningrad.ru/entertainment/activities/ekstrim/maxdrive/",
+        },
+        {
+          id: "sila",
+          title: "Sila v kvadrate Quad-Tour",
+          category: "speed",
+          icon: "🧭",
+          score: "Max 9/10",
+          lat: 54.5718,
+          lng: 20.1727,
+          city: "Ladushkin",
+          address: "Sadovaja 2v / ул. Садовая 2в",
+          pitch:
+            "Quad-Verleih mit Tourcharakter, gut als Tagesausflug südwestlich von Kaliningrad.",
+          note: "Touren können laut Portal auch mit nur einem gemieteten Quad stattfinden; vorher anmelden.",
+          age: "Alter/Dokumente klären",
+          duration: "2-5 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/ekstrim/sila-v-kvadrate-prokat-kvadrotsiklov/",
+        },
+        {
+          id: "traektoriya",
+          title: "Traektoriya Strel: Bogen & Armbrust",
+          category: "shooting",
+          icon: "🎯",
+          score: "Max 8/10",
+          lat: 54.7095,
+          lng: 20.5249,
+          city: "Kaliningrad",
+          address: "Frunze 28, Souterrain / ул. Фрунзе, 28",
+          pitch: "Treffer-Feeling ohne scharfe Waffen: Bogen, Armbrust, Ziele, Instruktoren.",
+          note: "Vorherige Anmeldung wird genannt. Sehr guter Ersatz für Max’ Schießwunsch.",
+          age: "deutlich realistischer als Pistole",
+          duration: "1-2 h",
+          source: "https://visit-kaliningrad.ru/entertainment/activities/traektoriya-strel-/",
+        },
+        {
+          id: "tir39",
+          title: "TIR39 / ЦПП Schießstand",
+          category: "shooting",
+          icon: "⚠️",
+          score: "Natalia",
+          lat: 54.7138,
+          lng: 20.4964,
+          city: "Kaliningrad",
+          address: "General-Feldmarschall Rumjanzew 25 / ул. Генерал-Фельдмаршала Румянцева, 25",
+          pitch:
+            "Echter Schießstand für Erwachsene. Für Max nur telefonisch klären, wahrscheinlich nicht geeignet.",
+          note: "Auf der Kursseite steht 18+. Nur legal, mit Anbieterbestätigung und Dokumenten.",
+          age: "18+ laut Kursinfo",
+          duration: "1-2 h",
+          source: "https://www.tir39.ru/",
+        },
+        {
+          id: "axe",
+          title: "Axe Point: Axtwerfen",
+          category: "shooting",
+          icon: "🪓",
+          score: "Max 8/10",
+          lat: 54.7001,
+          lng: 20.4781,
+          city: "Kaliningrad",
+          address: "Bassejnaja 59B, 2. Etage / ул. Бассейная 59Б",
+          pitch: "Zielwerfen, Wettbewerb, ungewöhnliches Abendprogramm mit Instruktor.",
+          note: "Tourismusportal nennt Kinder ab 8 Jahren; trotzdem Regeln vor Ort bestätigen.",
+          age: "ab 8 laut Portal",
+          duration: "1-2 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/entertainment/shou-i-attraktsii/klub-metaniya-toporov-axe-point/",
+        },
+        {
+          id: "western-front",
+          title: "Zapadny Front: Paintball/Laser Tag",
+          category: "shooting",
+          icon: "🔫",
+          score: "Max 8/10",
+          lat: 54.7417,
+          lng: 20.4226,
+          city: "Kaliningrad",
+          address: "Kaliningrad, genaue Spielfläche bei Buchung bestätigen",
+          pitch: "Teamspiel, Bewegung und Waffen-Feeling ohne echte Schusswaffen.",
+          note: "Outdoor- und Indoor-Spielflächen werden genannt. Ideal mit Freunden/Cousins.",
+          age: "bei Buchung klären",
+          duration: "2-3 h",
+          source: "https://visit-kaliningrad.ru/entertainment/activities/zapadnyy-front/",
+        },
+        {
+          id: "wake",
+          title: "Awesome Wake Park",
+          category: "water",
+          icon: "🏄",
+          score: "Max 9/10",
+          lat: 54.7001,
+          lng: 20.6509,
+          city: "Kaliningrad",
+          address: "Moskowskij Prospekt 375, beim Hotel Baltika",
+          pitch: "Wakeboard, SUP und Sprünge auf dem Wasser. Einer der besten Sommer-Action-Tage.",
+          note: "Anfängertraining und Betreuung werden genannt. Wetter und Saison prüfen.",
+          age: "Alter/Schwimmen klären",
+          duration: "2-4 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/ekstrim/veyk-park-awesome-park/",
+        },
+        {
+          id: "kayak",
+          title: "Kajak/SUP auf der Pregolja",
+          category: "water",
+          icon: "🛶",
+          score: "Max 7/10",
+          lat: 54.7059,
+          lng: 20.505,
+          city: "Kaliningrad",
+          address: "Start häufig nahe Museum des Weltozeans / Pregolja-Ufer",
+          pitch: "Stadt aus Wasserperspektive: Dom, Fischerdorf, Schiffe, Brücken.",
+          note: "Bei Wind/Wetter prüfen. Gute Aktivität, wenn Großeltern tagsüber Pause brauchen.",
+          age: "Schwimmweste Pflicht",
+          duration: "1.5-3 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/boat-trips/kayaking-klub-v-kaliningrade/",
+        },
+        {
+          id: "underwater-yantarny",
+          title: "Unterwasserpark Yantarny",
+          category: "water",
+          icon: "🤿",
+          score: "Max 7/10",
+          lat: 54.8534,
+          lng: 19.9469,
+          city: "Yantarny",
+          address: "Ozyornaja / ул. Озерная",
+          pitch: "Diving-Spot in einem ehemaligen Bernstein-Tagebau mit Unterwasserobjekten.",
+          note: "Nur mit passender Ausbildung/Anbieter. Sonst als Aussicht/Strandtag kombinieren.",
+          age: "Diving-Regeln prüfen",
+          duration: "halbtägig",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/water-tourism/podvodnyy-park-yantarnyy/",
+        },
+        {
+          id: "ocean",
+          title: "Museum des Weltozeans & U-Boot B-413",
+          category: "tech",
+          icon: "🚢",
+          score: "Max 8/10",
+          lat: 54.7064,
+          lng: 20.5028,
+          city: "Kaliningrad",
+          address: "Peter-der-Große-Ufer 1 / наб. Петра Великого, 1",
+          pitch:
+            "Echtes U-Boot, Schiffe, Technik, Marine-Vibe. Sehr stark für einen ruhigeren Tag.",
+          note: "Mehrere Objekte, daher Zeitfenster vorher planen.",
+          age: "familientauglich",
+          duration: "2-5 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/culture/museums/muzej-mirovogo-okeana/",
+        },
+        {
+          id: "fort11",
+          title: "Fort XI Doenhoff",
+          category: "tech",
+          icon: "🏰",
+          score: "Max 8/10",
+          lat: 54.6916,
+          lng: 20.6336,
+          city: "Kaliningrad",
+          address: "Energetikow 12 / ул. Энергетиков, 12",
+          pitch: "Festung, dunkle Gänge, Militärgeschichte. Als Abenteuer statt Museum verkaufen.",
+          note: "Geöffnet als Museum, Führungen/Veranstaltungen prüfen.",
+          age: "familientauglich",
+          duration: "1.5-3 h",
+          source: "https://visit-kaliningrad.ru/en/entertainment/fort-no-11-donhoff/",
+        },
+        {
+          id: "fort-west",
+          title: "Baltiysk + Baltische Nehrung + Fort Zapadny",
+          category: "outdoor",
+          icon: "🌊",
+          score: "Max 8/10",
+          lat: 54.6244,
+          lng: 19.8857,
+          city: "Baltiysk",
+          address: "Baltische Nehrung / Балтийская коса",
+          pitch: "Meer, Fähre, westlichster Russland-Vibe, Fort und rauer Wind.",
+          note: "Grenz-/Militärregion: Zugangsregeln und Ausweise vorher klären.",
+          age: "Dokumente mitnehmen",
+          duration: "ganztags",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/sights/forty-i-bastiony/fort-zapadnyy/",
+        },
+        {
+          id: "amber-quarry",
+          title: "Yantarny: Bernstein-Tagebau",
+          category: "outdoor",
+          icon: "🟡",
+          score: "Max 7/10",
+          lat: 54.8711,
+          lng: 19.9388,
+          city: "Yantarny",
+          address: "Datschnaja 3 / ул. Дачная, 3",
+          pitch: "Industrie, Aussicht, riesiger Tagebau und Strand danach.",
+          note: "Guter Tagesausflug mit Bade- oder Foto-Pause.",
+          age: "familientauglich",
+          duration: "3-6 h",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/culture/museums/smotrovaya-ploshchadka-yantarnogo-kombinata/",
+        },
+        {
+          id: "efa",
+          title: "Kurische Nehrung: Höhe Efa",
+          category: "outdoor",
+          icon: "⛰️",
+          score: "Max 8/10",
+          lat: 55.2243,
+          lng: 20.9139,
+          city: "Kurische Nehrung",
+          address: "42. km, bei Morskoje",
+          pitch: "Dünen, Meer, Haff und Fotos. Naturtag, der nicht wie Spaziergang wirken muss.",
+          note: "Offizielle Route ca. 2,4 km; Wetter, Wind und Parkregeln beachten.",
+          age: "familientauglich",
+          duration: "ganztags",
+          source: "https://park-kosa.ru/vysota-efa-28ekologicheskaya-tropa29",
+        },
+        {
+          id: "dancing-forest",
+          title: "Kurische Nehrung: Tanzender Wald",
+          category: "outdoor",
+          icon: "🌲",
+          score: "Max 6/10",
+          lat: 55.178,
+          lng: 20.859,
+          city: "Kurische Nehrung",
+          address: "bei Rybachy / Рыбачий",
+          pitch: "Kurzer, merkwürdiger Foto-Stopp mit verdrehten Kiefern. Gut als Kombi mit Efa.",
+          note: "Auf Stegen bleiben; empfindliche Natur.",
+          age: "familientauglich",
+          duration: "30-60 min",
+          source:
+            "https://visit-kaliningrad.ru/excursions/kurshskaya-kosa-i-zelenogradsk-idealnyy-den-na-baltike-/",
+        },
+        {
+          id: "zelenogradsk-bike",
+          title: "Zelenogradsk: Bike/Meer/Promenade",
+          category: "outdoor",
+          icon: "🚲",
+          score: "Max 7/10",
+          lat: 54.9606,
+          lng: 20.475,
+          city: "Zelenogradsk",
+          address: "Promenade / Start am Meer",
+          pitch:
+            "Fahrrad, Strand, Katzenstadt, Essen am Meer. Gut für einen nicht zu schweren Tag.",
+          note: "Kombinierbar mit der Küste Richtung Primorje und dem Riesenrad.",
+          age: "familientauglich",
+          duration: "halb- bis ganztags",
+          source:
+            "https://visit-kaliningrad.ru/entertainment/activities/bicycle/velomarshrut-ot-zelenogradska-do-primorya/",
+        },
+        {
+          id: "anvio",
+          title: "ANVIO VR Park",
+          category: "evening",
+          icon: "🥽",
+          score: "Max 8/10",
+          lat: 54.7006,
+          lng: 20.5945,
+          city: "Kaliningrad",
+          address: "Moskowskij Prospekt 257, TC Gigant",
+          pitch: "Kabellose VR-Arena, Shooter, Horror, Teamspiele. Perfekt für Regenabende.",
+          note: "Offizielle Seite nennt freie Bewegung auf über 100 m².",
+          age: "Alter je Spiel prüfen",
+          duration: "1-2 h",
+          source: "https://kld.anvio.com/",
+        },
+        {
+          id: "warpoint",
+          title: "WARPOINT VR",
+          category: "evening",
+          icon: "🎮",
+          score: "Max 8/10",
+          lat: 54.7373,
+          lng: 20.5128,
+          city: "Kaliningrad",
+          address: "Chelnokowa 25 / alternativ Plaza, Leninskij 30",
+          pitch: "VR-Arena als zweite Indoor-Option, falls ANVIO ausgebucht ist.",
+          note: "Zwei Adressen werden auf der offiziellen Seite genannt.",
+          age: "Alter je Spiel prüfen",
+          duration: "1-2 h",
+          source: "https://kaliningrad.warpoint.ru/",
+        },
+        {
+          id: "baza",
+          title: "Kletterhalle SkB Baza",
+          category: "evening",
+          icon: "🧗",
+          score: "Max 7/10",
+          lat: 54.772,
+          lng: 20.5882,
+          city: "Kutuzovo",
+          address: "Promyschlennaja 3 / ул. Промышленная, 3",
+          pitch: "Bouldern/Klettern als körperlicher Ausgleich, besonders bei schlechtem Wetter.",
+          note: "Erstbesuch mit Trainer ist sinnvoll.",
+          age: "Anfänger willkommen",
+          duration: "1.5-2.5 h",
+          source: "https://skalodrombaza.ru/",
+        },
+        {
+          id: "bowling",
+          title: "Bowling Epitsentr",
+          category: "evening",
+          icon: "🎳",
+          score: "Max 6/10",
+          lat: 54.7215,
+          lng: 20.5085,
+          city: "Kaliningrad",
+          address: "Gorkogo 2 / ул. Горького, 2",
+          pitch: "Einfacher Abendanker, auch mit Großeltern möglich.",
+          note: "Großer Bowlingcenter; Wochenende besser reservieren.",
+          age: "familientauglich",
+          duration: "1.5-2 h",
+          source: "https://300-003.ru/bowling",
+        },
+        {
+          id: "yunost",
+          title: "Park Yunost",
+          category: "evening",
+          icon: "🎡",
+          score: "Max 6/10",
+          lat: 54.729,
+          lng: 20.5112,
+          city: "Kaliningrad",
+          address: "Telmana 3 / ул. Тельмана, 3",
+          pitch: "Lockerer Familienabend mit Attraktionen, Essen, Spaziergang und ggf. Eisbahn.",
+          note: "Gut als Puffer ohne große Anfahrt.",
+          age: "familientauglich",
+          duration: "1-3 h",
+          source: "https://visit-kaliningrad.ru/entertainment/family/park-yunost/",
+        },
+        {
+          id: "ragnit",
+          title: "Schloss Ragnit / Neman",
+          category: "tech",
+          icon: "🧱",
+          score: "Max 7/10",
+          lat: 55.0371,
+          lng: 22.0276,
+          city: "Neman",
+          address: "Ragnit-Burg / замок Рагнит",
+          pitch: "Ruinen-/Festungsatmosphäre, gut als Lost-Place-Feeling mit Führung.",
+          note: "Mit Sowetsk/Neman als Tagesausflug kombinieren.",
+          age: "Führung prüfen",
+          duration: "ganztags",
+          source: "https://visit-kaliningrad.ru/entertainment/sights/castles/zamok-ragnit/",
+        },
+        {
+          id: "patriot",
+          title: "Militärpark Patriot Chernyakhovsk",
+          category: "tech",
+          icon: "🪖",
+          score: "Max 7/10",
+          lat: 54.632,
+          lng: 21.814,
+          city: "Chernyakhovsk",
+          address: "Gagarina 13 / ул. Гагарина, 13",
+          pitch: "Militär-/Technikthema als Tagesausflug in den Osten der Region.",
+          note: "Vorher prüfen, was tatsächlich geöffnet ist.",
+          age: "familientauglich",
+          duration: "halb- bis ganztags",
+          source: "https://visit-kaliningrad.ru/entertainment/family/parki-i-zooparki/",
+        },
+      ];
+
+      const categoryLabels = {
+        speed: "Speed / Fahren",
+        shooting: "Schießen / Treffer",
+        water: "Wasser / Meer",
+        outdoor: "Outdoor / Natur",
+        tech: "Technik / Geschichte",
+        evening: "Abend / Indoor",
+      };
+
+      const map = L.map("map", { scrollWheelZoom: true, zoomControl: true }).setView(
+        [54.8, 20.45],
+        8
+      );
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 18,
+        attribution: "&copy; OpenStreetMap-Mitwirkende",
+      }).addTo(map);
+
+      const markers = new Map();
+      const group = L.featureGroup().addTo(map);
+
+      function yandexLink(a) {
+        const q = encodeURIComponent(`${a.title} ${a.address} ${a.city}`);
+        return `https://yandex.ru/maps/?text=${q}`;
+      }
+
+      function osmLink(a) {
+        return `https://www.openstreetmap.org/?mlat=${a.lat}&mlon=${a.lng}#map=15/${a.lat}/${a.lng}`;
+      }
+
+      function markerIcon(a) {
+        return L.divIcon({
+          className: "",
+          html: `<div class="custom-marker cat-${a.category}" title="${a.title}"><span>${a.icon}</span></div>`,
+          iconSize: [34, 34],
+          iconAnchor: [17, 34],
+          popupAnchor: [0, -32],
+        });
+      }
+
+      function popupHtml(a) {
+        const warning =
+          a.age && a.age.includes("18") ? '<span class="tag warn">Altersgrenze prüfen</span>' : "";
+        return `
+        <div class="popup">
+          <h3>${a.icon} ${a.title}</h3>
+          <p><b>${categoryLabels[a.category]}</b> · ${a.city}</p>
+          <p>${a.pitch}</p>
+          <p><b>Adresse:</b> ${a.address}</p>
+          <p><b>Dauer:</b> ${a.duration} · <b>Alter:</b> ${a.age}</p>
+          <div class="tag-row"><span class="tag">${a.score}</span>${warning}</div>
+          <p>${a.note}</p>
+          <div class="buttons">
+            <a class="primary" href="${yandexLink(a)}" target="_blank" rel="noopener">Route suchen</a>
+            <a href="${a.source}" target="_blank" rel="noopener">Quelle/Anbieter</a>
+            <a href="${osmLink(a)}" target="_blank" rel="noopener">OSM</a>
+          </div>
+        </div>`;
+      }
+
+      activities.forEach((a) => {
+        const marker = L.marker([a.lat, a.lng], { icon: markerIcon(a), title: a.title }).bindPopup(
+          popupHtml(a)
+        );
+        marker.addTo(group);
+        markers.set(a.id, marker);
+      });
+      requestAnimationFrame(() => {
+        map.invalidateSize();
+        map.fitBounds(group.getBounds().pad(0.1));
+      });
+      window.addEventListener("load", () => map.invalidateSize());
+      window.addEventListener("resize", () => map.invalidateSize());
+
+      const cardsEl = document.getElementById("cards");
+      const searchEl = document.getElementById("search");
+      const countAll = document.getElementById("countAll");
+      countAll.textContent = activities.length;
+      let activeFilter = "all";
+
+      function normalize(s) {
+        return (s || "")
+          .toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "");
+      }
+
+      function render() {
+        const q = normalize(searchEl.value);
+        const filtered = activities.filter((a) => {
+          const matchesFilter = activeFilter === "all" || a.category === activeFilter;
+          const haystack = normalize(
+            [a.title, a.category, a.city, a.address, a.pitch, a.note, a.score, a.age].join(" ")
+          );
+          return matchesFilter && (!q || haystack.includes(q));
+        });
+
+        cardsEl.innerHTML = filtered.length
+          ? filtered
+              .map(
+                (a) => `
+        <article class="activity-card" data-id="${a.id}" tabindex="0" role="button" aria-label="${a.title} auf Karte anzeigen">
+          <div class="card-top">
+            <h3>${a.icon} ${a.title}</h3>
+            <span class="score">${a.score}</span>
+          </div>
+          <p class="meta"><b>${a.city}</b> · ${a.duration}<br>${a.pitch}</p>
+          <div class="tag-row">
+            <span class="tag">${categoryLabels[a.category]}</span>
+            <span class="tag${a.age.includes("18") || a.age.includes("klären") ? " warn" : ""}">${a.age}</span>
+          </div>
+        </article>
+      `
+              )
+              .join("")
+          : '<p class="meta" style="padding: 20px;">Keine Treffer. Suche anders oder wähle „Alle“.</p>';
+
+        group.clearLayers();
+        filtered.forEach((a) => group.addLayer(markers.get(a.id)));
+        if (filtered.length)
+          map.fitBounds(
+            L.featureGroup(filtered.map((a) => markers.get(a.id)))
+              .getBounds()
+              .pad(0.12)
+          );
+      }
+
+      cardsEl.addEventListener("click", (e) => {
+        const card = e.target.closest(".activity-card");
+        if (!card) return;
+        focusActivity(card.dataset.id);
+      });
+      cardsEl.addEventListener("keydown", (e) => {
+        const card = e.target.closest(".activity-card");
+        if (!card) return;
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          focusActivity(card.dataset.id);
+        }
+      });
+
+      function focusActivity(id) {
+        const a = activities.find((x) => x.id === id);
+        const marker = markers.get(id);
+        if (!a || !marker) return;
+        document
+          .querySelectorAll(".activity-card")
+          .forEach((c) => c.classList.toggle("active", c.dataset.id === id));
+        map.setView(
+          [a.lat, a.lng],
+          a.category === "outdoor" && ["efa", "dancing-forest"].includes(a.id) ? 11 : 13,
+          { animate: true }
+        );
+        setTimeout(() => marker.openPopup(), 260);
+      }
+
+      document.querySelectorAll(".filter-btn").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".filter-btn").forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+          activeFilter = btn.dataset.filter;
+          render();
+        });
+      });
+      searchEl.addEventListener("input", render);
+      render();
+    </script>
+  </body>
+</html>
