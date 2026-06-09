@@ -3361,6 +3361,12 @@ h1 {
   }
 }
 
+@media (width <= 799px) and (orientation: portrait) {
+  .coach-section {
+    background-position: 76% center;
+  }
+}
+
 @media (width <= 680px) {
   .hero {
     min-height: 720px;
