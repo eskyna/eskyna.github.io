@@ -3316,14 +3316,20 @@ h1 {
   }
 
   .page:not(.page-privacy) .page-grid {
-    grid-template-columns: minmax(0, 1.15fr) minmax(220px, 0.85fr);
-    grid-template-areas: "content image";
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "content"
+      "image";
     gap: 1.5rem;
   }
 
   .page:not(.page-privacy) .page-image-wrap {
-    justify-self: end;
+    justify-self: center;
     width: min(100%, 320px);
+  }
+
+  .page:not(.page-privacy) .page-image-wrap .hero-image {
+    max-height: min(62svh, 560px);
   }
 }
 
