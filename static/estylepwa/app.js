@@ -92,7 +92,7 @@ function updateInstallHintForDevice() {
 
   const isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   if (isiOS) {
-    setInstallHint("iPhone/iPad: Tippen Du auf Teilen und wähle anschließend Zum Home-Bildschirm.");
+    setInstallHint("iPhone/iPad: Tippe auf Teilen und wähle anschließend Zum Home-Bildschirm.");
   } else {
     setInstallHint(
       "Android: Öffne das Browser-Menü und wähle App installieren oder Zum Startbildschirm hinzufügen."
@@ -252,7 +252,9 @@ async function analyzeSelectedPhoto() {
     console.error(error);
     els.emptyState.hidden = true;
     setError(error.message || "Die Analyse konnte nicht abgeschlossen werden.");
-    setStatus("Analyse fehlgeschlagen. Bitte prüfen Du Verbindung, CORS-Freigabe und Bildformat.");
+    setStatus(
+      "Analyse fehlgeschlagen. Bitte prüfe deine Verbindung, die CORS-Freigabe und das Bildformat."
+    );
   } finally {
     setBusy(false);
   }

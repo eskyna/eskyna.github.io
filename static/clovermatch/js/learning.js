@@ -3,15 +3,15 @@
  */
 
 export const INTRO_COPY = {
-  lead: "In wenigen Minuten trainieren Du, wie echte Stil-Entscheidungen funktionieren: nicht nach Trend oder Rabatt, sondern nach dem ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe erkennen Du bewusst im Style-Filter.",
+  lead: "In wenigen Minuten trainierst du, wie echte Stil-Entscheidungen funktionieren: nicht nach Trend oder Rabatt, sondern nach dem ESKYNA-Kleeblatt – Farbe, Form, Wirkung und Alltag. Fehlkäufe erkennst du bewusst im Style-Filter.",
   claim:
-    "Du lernen ein System, das Du morgens, beim Shoppen und vor dem nächsten Kauf sofort anwenden können.",
+    "Du lernst ein System, das du morgens, beim Shoppen und vor dem nächsten Kauf sofort anwenden kannst.",
 };
 
 export const LEARN_POINTS = [
   {
     title: "Entscheidungs-System statt Bauchgefühl",
-    text: "Du üben, jedes Stil-Signal einem der vier Kleeblatt-Blätter zuzuordnen – die Grundlage für EStyle und Deine persönliche Stil-Matrix.",
+    text: "Du übst, jedes Stil-Signal einem der vier Kleeblatt-Blätter zuzuordnen – die Grundlage für EStyle und deine persönliche Stil-Matrix.",
   },
   {
     title: "Schneller erkennen, was wirklich passt",
@@ -19,11 +19,11 @@ export const LEARN_POINTS = [
   },
   {
     title: "Fehlkäufe früh stoppen",
-    text: "Sale, Trends und „Must-haves“ trainieren Du im Style-Filter auszusortieren – bevor sie im Schrank landen.",
+    text: "Sale, Trends und „Must-haves“ trainierst du im Style-Filter auszusortieren – bevor sie im Schrank landen.",
   },
   {
     title: "Garderobe als System verstehen",
-    text: "Balance und Kombinierbarkeit werden spürbar. Du sehen, welche Bereiche Du schon sicher beherrschen – und wo noch Lücken sind.",
+    text: "Balance und Kombinierbarkeit werden spürbar. Du siehst, welche Bereiche du schon sicher beherrschst – und wo noch Lücken sind.",
   },
 ];
 
@@ -37,10 +37,10 @@ export const LEVEL_LEARNING = [
     practice:
       "Unter Zeitdruck Prioritäten setzen: Was zählt zuerst – Farbe, Form, Wirkung oder Alltag?",
     takeaway:
-      "Stil-Klarheit wächst, wenn Du nicht alles gleichzeitig optimieren, sondern das Richtige zuerst.",
+      "Stil-Klarheit wächst, wenn du nicht alles gleichzeitig optimierst, sondern das Richtige zuerst angehst.",
   },
   {
-    practice: "Alle vier Bereiche gleichmäßig bedenken – nicht nur Deine Lieblingskategorie.",
+    practice: "Alle vier Bereiche gleichmäßig bedenken – nicht nur deine Lieblingskategorie.",
     takeaway:
       "Ausgewogene Signale bedeuten: Dein Kleiderschrank funktioniert in mehr Situationen, nicht nur in einer.",
   },
@@ -52,7 +52,7 @@ export const LEVEL_LEARNING = [
   {
     practice: "Alles verbinden: Serien, Kombination und Klarheit unter Druck.",
     takeaway:
-      "Du denken Stil in Systemen – bereit, das mit EStyle dauerhaft auf Deine Garderobe zu übertragen.",
+      "Du denkst Stil in Systemen – bereit, das mit EStyle dauerhaft auf deine Garderobe zu übertragen.",
   },
 ];
 
@@ -99,7 +99,7 @@ export function buildEvaluationMessage(levelIndex, won, stats, opts = {}) {
       stats.clarity +
       "% – jeder Versuch schärft das Gefühl für das Kleeblatt.";
   } else {
-    msg += "Lesen Du Facette und Untertitel – sie verraten oft das richtige Blatt.";
+    msg += "Lies Facette und Untertitel – sie verraten oft das richtige Blatt.";
   }
   return msg;
 }

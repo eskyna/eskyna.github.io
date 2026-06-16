@@ -1,20 +1,20 @@
 ---
-title: "Garderoben Check"
+title: "Garderoben-Check"
 eyebrow: "Dein Basic-Wardrobe-Check"
 image: "images/portraits/natalia-garderobencheck-portrait.png"
 ---
 
-Mit diesem **Garderoben Check** findest du schnell heraus, ob Du eine solide Basis haben - und welche
-Teile dir (wirklich) noch fehlen. Ziel: **weniger Fehlkäufe**, **mehr Kombinationsmöglichkeiten**,
+Mit diesem **Garderoben-Check** findest du schnell heraus, ob du eine solide Basis hast und welche
+Teile dir wirklich noch fehlen. Ziel: **weniger Fehlkäufe**, **mehr Kombinationsmöglichkeiten**,
 und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 
-## So nutzen Du den Check
+## So nutzt du den Check
 
-- Nehmen Du sich 10 Minuten.
-- Gehen Du Punkt für Punkt durch und haken Du ab, was Du bereits besitzen.
-- Markieren Du am Ende **maximal 3 Lücken**, die Deine Outfits aktuell am stärksten bremsen.
+- Nimm dir 10 Minuten.
+- Gehe Punkt für Punkt durch und hake ab, was du bereits besitzt.
+- Markiere am Ende **maximal 3 Lücken**, die deine Outfits aktuell am stärksten bremsen.
 
-## Basic Wardrobe - Checkliste
+## Basic Wardrobe – Checkliste
 
 ### Oberteile
 
@@ -25,9 +25,9 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 
 ### Unterteile
 
-- [ ] 1 gut sitzende Jeans (Dein Lieblingsschnitt)
+- [ ] 1 gut sitzende Jeans (dein Lieblingsschnitt)
 - [ ] 1 Stoffhose (Business-tauglich)
-- [ ] 1 Rock oder Alternative, die Du wirklich tragen
+- [ ] 1 Rock oder eine Alternative, die du wirklich trägst
 
 ### Kleider & Einteiler
 
@@ -43,7 +43,7 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 ### Schuhe
 
 - [ ] 1 Paar bequeme Alltagsschuhe (clean)
-- [ ] 1 Paar „angezogen“ (Loafer/Boot/Heel - je nach Stil)
+- [ ] 1 Paar „angezogen“ (Loafer/Boot/Heel – je nach Stil)
 - [ ] 1 Paar wetterfest (Regen/Winter)
 
 ### Taschen & Accessoires
@@ -51,14 +51,14 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 - [ ] 1 Alltagstasche (praktisch, hochwertig)
 - [ ] 1 kleine Tasche/Clutch
 - [ ] Gürtel (mind. 1, passend zu Schuhen)
-- [ ] Schmuck-Basics (die Du wirklich nutzen)
+- [ ] Schmuck-Basics (die du wirklich nutzt)
 
 ## Erste Erkenntnisse (Mini-Auswertung)
 
-Wenn Du in **2 oder mehr Bereichen** große Lücken haben, lohnt sich meist ein strukturierter
-Wardrobe-Refresh: erst Basis stabilisieren, dann gezielt „Wow“-Teile ergänzen.
+Wenn du in **2 oder mehr Bereichen** große Lücken hast, lohnt sich meist ein strukturierter
+Wardrobe-Refresh: erst die Basis stabilisieren, dann gezielt „Wow“-Teile ergänzen.
 
-Wenn Du möchtest, schauen wir gemeinsam darauf - und ich mache dir einen klaren Plan, was du brauchst
-und was Du sich sparen können.
+Wenn du möchtest, schauen wir gemeinsam darauf – und ich mache dir einen klaren Plan, was du brauchst
+und was du dir sparen kannst.
 
 **Termin buchen:** [Kostenloses Kennenlerngespräch](https://calendar.app.google/yxftEwKaef4UJL6b7)

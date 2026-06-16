@@ -20,7 +20,7 @@ offer:
 problem:
   title: "Wenn Stilsicherheit im Alltag entsteht"
   text: |
-    Stilentscheidungen entstehen nicht immer im Beratungszimmer. Sie entstehen, wenn du wichtig auftreten möchtest, beim nächsten Einkauf, vor einem neuen Kapitel deines Lebens oder wenn du plötzlich nicht weißt, wie deine bisherigen Lieblingsachen noch zu deinem aktuellen Style passen.
+    Stilentscheidungen entstehen nicht immer im Beratungszimmer. Sie entstehen, wenn du wichtig auftreten möchtest, beim nächsten Einkauf, vor einem neuen Kapitel deines Lebens oder wenn du plötzlich nicht weißt, wie deine bisherigen Lieblingssachen noch zu deinem aktuellen Style passen.
 
     Genau dann brauchst du jemanden, der dich kennt und dir Orientierung gibt — immer wieder und im Kontext deines echten Lebens.
 
@@ -29,7 +29,7 @@ what_it_is:
   text: |
     Mit der ESKYNA Begleitung erkennst du dich selbst in deinem Stil besser. Du lernst, welche Entscheidungen zu dir passen, und du hast jemanden an deiner Seite, wenn es im Alltag unklar wird.
 
-    Die Begleitung ist flexibel und passt sich deinem Leben an — ob regelmäßige Termine, spontane Fragen zum Einkaufen oder intensive Phasen der Garderobentwicklung.
+    Die Begleitung ist flexibel und passt sich deinem Leben an — ob regelmäßige Termine, spontane Fragen zum Einkaufen oder intensive Phasen der Garderobenentwicklung.
 
 typical_questions:
   title: "Typische Themen der Begleitung"
@@ -59,7 +59,7 @@ services:
   title: "Was du bekommst"
   items:
     - title: "Regelmäßige persönliche Beratungstermine"
-      description: "Nach vereinbarter Terminstaffeln erhältst du kontinuierliche Unterstützung und Beratung."
+      description: "Je nach vereinbarter Terminstaffel erhältst du kontinuierliche Unterstützung und Beratung."
 
     - title: "Kurze Einschätzungen zu konkreten Stilfragen"
       description: "Du kannst Natalia auch zwischen Terminen zu spontanen Fragen im Alltag kontaktieren — beim Einkaufen, vor wichtigen Events oder bei Unsicherheiten."
@@ -68,7 +68,7 @@ services:
       description: "Natalia hilft dir, passende Outfits für deine beruflichen und privaten Anlässe zu entwickeln."
 
     - title: "Beratung zu Kaufentscheidungen"
-      description: "Beim Online-Shopping oder vor Ort: Du bekommst schnelle, ehrliche Einschätzung zu neuen Teilen."
+      description: "Beim Online-Shopping oder vor Ort: Du bekommst eine schnelle, ehrliche Einschätzung zu neuen Teilen."
 
     - title: "Empfehlungen für sinnvolle Ergänzungen"
       description: "Durch regelmäßige Begleitung weiß Natalia genau, welche Teile in deine Garderobe passen und Sinn machen."
@@ -76,7 +76,7 @@ services:
     - title: "Feedback zu neuen Kombinationen"
       description: "Entdecke neue Outfitmöglichkeiten, die zu dir passen — und warum sie funktionieren."
 
-    - title: "Kontinuierliche Garderobentwicklung"
+    - title: "Kontinuierliche Garderobenentwicklung"
       description: "Deine Garderobe entwickelt sich über mehrere Wochen oder Monate mit dir weiter — immer passend zu deinem aktuellen Leben."
 
     - title: "Individuelle Abstimmung"

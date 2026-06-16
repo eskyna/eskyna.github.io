@@ -634,7 +634,7 @@ h1 {
   min-height: 52px;
   border: 1px solid var(--accent);
   border-radius: 10px;
-  color: var(--text);
+  color: var(--on-dark);
   font-weight: 600;
   font-size: 0.95rem;
   line-height: 1;
@@ -647,7 +647,7 @@ h1 {
 }
 
 .btn:hover {
-  color: var(--text);
+  color: var(--on-dark);
   background-color: rgb(197 160 89 / 86%);
   box-shadow: 0 2px 12px rgb(197 160 89 / 28%);
 }
@@ -656,6 +656,7 @@ h1 {
   height: 20px;
   width: auto;
   margin-right: 0.5rem;
+  filter: brightness(0) invert(1);
 }
 
 .hero-cta-tooltip {
@@ -2590,7 +2591,7 @@ h1 {
 .content-page .page-image-wrap .hero-image {
   width: 100%;
   max-height: min(85vh, 740px);
-  object-fit: cover;
+  object-fit: contain;
   object-position: center top;
 }
 

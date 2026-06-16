@@ -1,7 +1,7 @@
 ---
 title: "Über mich"
 eyebrow: "Natalia Kleemann"
-image: "images/portraits/natalia-about-portrait.png"
+image: "images/portraits/natalia-schreibtisch.png"
 facts:
   title: "Ein paar Fakten über mich"
   items:
@@ -14,9 +14,9 @@ facts:
 method:
   eyebrow: "Die ESKYNA Methode"
   title: "Mehr als Stilberatung: eine Methode mit System"
-  intro: "Mit der ESKYNA Methode entwickelt Natalia Kleemann einen Stil nicht nur nach Geschmack, sondern nach Persönlichkeit, Wirkung und Lebensrealität. In sechs Schritten entsteht ein Auftritt, der klar, authentisch und tragfähig ist."
+  intro: "Mit der ESKYNA Methode entwickelt Natalia Kleemann einen Stil nicht nur nach Geschmack, sondern nach Persönlichkeit, Wirkung und Lebensrealität. In sechs Schritten entsteht ein Auftritt, der authentisch und tragfähig ist."
   tagline: "Essenz — Signale — Kernsprache — Your Signature — Neue Garderobenlogik — Aktivierung"
-  quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen; als sichtbaren Ausdruck von Persönlichkeit, Präsenz und Selbstvertrauen."
+  quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen."
   steps:
     - letter: "E"
       title: "Essenz"
@@ -36,7 +36,7 @@ method:
       icon: "images/method/Y_your_signature.png"
     - letter: "N"
       title: "Neue Garderobenlogik"
-      text: "Wie deine Garderobe klar und funktional wird."
+      text: "Wie deine Garderobe klar wird."
       icon: "images/method/N_neue_garderobe.png"
     - letter: "A"
       title: "Aktivierung"
@@ -77,3 +77,9 @@ Für Frauen und Männer, die:
 - bei Kunden, im Team oder in der Öffentlichkeit präsent auftreten wollen
 
 Starte jetzt mit einem kostenlosen Erstgespräch zu deinem persönlichen Stil.
+
+<!-- markdownlint-disable MD034 -->
+
+{{< button-icon href="https://calendar.app.google/sPZWYZT6vfK9NMim7" text="Kostenloses Erstgespräch" title="Kostenloses Erstgespräch" targetBlank="true" >}}
+
+<!-- markdownlint-enable MD034 -->

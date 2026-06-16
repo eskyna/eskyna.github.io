@@ -50,6 +50,9 @@
           {{ else if hasSuffix $pageImage "images/portraits/natalia-about-portrait.png" }}
             {{ $pageImageWidth = 1290 }}
             {{ $pageImageHeight = 1582 }}
+          {{ else if hasSuffix $pageImage "images/portraits/natalia-schreibtisch.png" }}
+            {{ $pageImageWidth = 1174 }}
+            {{ $pageImageHeight = 1340 }}
           {{ end }}
           {{ partial "responsive-image.html" (dict "src" $pageImage "alt" $pageImageTitle "title" $pageImageTitle "class" "hero-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 420px" "width" $pageImageWidth "height" $pageImageHeight) }}
         </div>
