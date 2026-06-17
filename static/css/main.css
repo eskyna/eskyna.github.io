@@ -415,7 +415,8 @@ h2 {
 
 .hero-actions {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
+  align-items: flex-start;
   gap: 0.75rem;
   margin-top: clamp(0.25rem, 0.9vw, 0.55rem);
 }
@@ -789,6 +790,48 @@ h1 {
 }
 
 .hero .hero-actions .btn .btn-icon {
+  filter: brightness(0) invert(1);
+}
+
+.hero .hero-actions .hero-beta-btn {
+  gap: 0.65rem;
+  border-color: rgb(255 255 255 / 72%);
+  color: var(--hero-cta-bg);
+  background: rgb(255 255 255 / 88%);
+  box-shadow: 0 10px 24px rgb(74 52 38 / 16%);
+}
+
+.hero .hero-actions .hero-beta-btn:hover {
+  border-color: rgb(255 255 255 / 92%);
+  color: var(--hero-cta-bg-hover);
+  background: rgb(255 255 255 / 96%);
+  box-shadow: 0 12px 28px rgb(74 52 38 / 22%);
+}
+
+.hero-beta-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.22rem 0.5rem;
+  border-radius: 999px;
+  color: var(--on-dark);
+  background: var(--accent-strong);
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#kontakt .contact-faq-cta .btn {
+  color: var(--on-dark);
+}
+
+#kontakt .contact-faq-cta .btn:hover {
+  color: var(--on-dark);
+}
+
+#kontakt .contact-faq-cta .btn .btn-icon {
   filter: brightness(0) invert(1);
 }
 
@@ -4369,6 +4412,10 @@ main .hero .hero-copy {
   .contact-faq-cta .btn {
     width: 100%;
     justify-content: center;
+  }
+
+  .hero-actions .hero-cta-tooltip {
+    width: 100%;
   }
 
   .contact-blog-teaser {
