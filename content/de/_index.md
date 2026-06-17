@@ -8,6 +8,10 @@ hero:
   detail_3: "<br><br>Lass uns gemeinsam starten."
   ctaText: "Kostenloses Erstgespräch"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+  betaCtaText: "ESKYNA digital"
+  betaCtaHref: "https://t.me/eskyna_bot"
+  betaCtaTitle: "ESKYNA digital als Beta-Dienst auf Telegram testen"
+  betaCtaBadge: "Beta"
   ctaTooltip:
     title: "Kostenlos & unverbindlich"
     lead: "Wir schauen gemeinsam auf deine Stilfragen, deine Wünsche und mögliche nächste Schritte."

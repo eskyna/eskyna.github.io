@@ -9,6 +9,10 @@ hero:
   detail_3: ""
   ctaText: "Забронировать бесплатную первую консультацию"
   ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
+  betaCtaText: "ESKYNA digital"
+  betaCtaHref: "https://t.me/eskyna_bot"
+  betaCtaTitle: "Протестировать ESKYNA digital как Beta-сервис в Telegram"
+  betaCtaBadge: "Beta"
   ctaTooltip:
     title: "Бесплатно и без обязательств"
     lead: "Мы вместе разберем ваши вопросы по стилю, цели и возможные следующие шаги."
