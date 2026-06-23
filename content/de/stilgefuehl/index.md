@@ -3,7 +3,7 @@ title: "ESKYNA Stilgefühl"
 description: "Entwickle mehr Sicherheit bei Farben, Schnitten, Proportionen und Stilrichtung. ESKYNA Stilgefühl mit Natalia Kleemann."
 
 offers_back:
-  href: "/#angebote"
+  href: "/angebote/"
   label: "Zu den Angeboten"
 variants_heading: "Wähle die passende Form"
 

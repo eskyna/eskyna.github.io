@@ -3,7 +3,7 @@ title: "ESKYNA Gutschein"
 description: "Verschenke persönliche Stilberatung: Der ESKYNA Gutschein für mehr Stilgefühl, Klarheit und sichere Outfitentscheidungen."
 
 offers_back:
-  href: "/#angebote"
+  href: "/angebote/"
   label: "Zu den Angeboten"
 variants_heading: "Wähle die passende Form"
 

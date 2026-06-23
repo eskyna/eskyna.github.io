@@ -1860,6 +1860,15 @@ h1 {
   margin: 3rem 0 4rem;
 }
 
+.offers-home-section .offers-free-section {
+  margin-bottom: 1.5rem;
+}
+
+.offers-home-actions {
+  display: flex;
+  justify-content: center;
+}
+
 .offers-free-intro {
   margin: 0.8rem 0 1.5rem;
   max-width: 75ch;

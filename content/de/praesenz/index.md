@@ -3,7 +3,7 @@ title: "ESKYNA Präsenz"
 description: "Styling- und Image-Konzept für Business, Fotos, Website, LinkedIn, Fotoshooting und Bühne. ESKYNA Präsenz mit Natalia Kleemann."
 
 offers_back:
-  href: "/#angebote"
+  href: "/angebote/"
   label: "Zu den Angeboten"
 variants_heading: "Wähle die passende Form"
 

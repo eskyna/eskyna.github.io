@@ -3,7 +3,7 @@ title: "ESKYNA Begleitung"
 description: "Professionelle Stil- und Imageberatung für wiederkehrende Stilfragen, Business-Outfits und die Weiterentwicklung deiner Garderobe im Alltag."
 
 offers_back:
-  href: "/#angebote"
+  href: "/angebote/"
   label: "Zu den Angeboten"
 
 offer:
