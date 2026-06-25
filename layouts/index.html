@@ -170,41 +170,34 @@
     </div>
   </section>
 
-  <section class="section benefits-section offers-home-section" id="angebote">
+  <section class="section stilfrage-section" id="stilfrage">
+    <div class="stilfrage-bg">
+      {{ partial "responsive-image.html" (dict "src" "images/backgrounds/sections/natalia_desk.png" "alt" "" "class" "stilfrage-bg-img" "loading" "lazy" "decoding" "async") }}
+    </div>
     <div class="container">
-      <h2>Stilfrage an Natalia</h2>
-      <p class="offers-intro">Starten Sie mit einer konkreten Stilfrage oder sehen Sie sich alle Angebote in der Übersicht an.</p>
-      <section class="offers-free-section">
-        <div class="offers-free-grid">
+      <div class="stilfrage-copy-column">
+        <p class="coach-intro-copy">Für Momente,<br>in denen du dir nicht sicher bist.</p>
+        <h2 class="coach-heading">Stilfrage an Natalia</h2>
+        <blockquote class="coach-mission">
+          <p class="coach-mission-main">Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten.</p>
+        </blockquote>
+        <div class="coach-actions">
           {{ range $services.free.items }}
             {{ $normalizedHref := replaceRE "^/" "" (or .ctaHref "") }}
             {{ if or (in $normalizedHref "stilfrage") (in $normalizedHref "stilfrage/") }}
-            {{ $itemTitle := .title }}
-            {{ $ctaHref := or .ctaHref "#kontakt" }}
-            {{ $ctaText := or .ctaText $ui.default_cta_text }}
-            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
-            {{ $imagePath := or .image "images/Stilfrage.png" }}
-            {{ $showPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
-            <a class="free-offer-card free-offer-card-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
-              {{ if $imagePath }}
-                <div class="free-offer-media">
-                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (hasSuffix $imagePath "Stilfrage.png") " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
-                </div>
-              {{ end }}
-              <h4>{{ .title }}</h4>
-              {{ if .price }}<p class="free-offer-price">{{ .price }}{{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>{{ end }}
-              <p>{{ .text }}</p>
-              <span class="btn">{{ $ctaText }}</span>
-            </a>
+              {{ $ctaHref := or .ctaHref "#kontakt" }}
+              {{ $ctaText := or .ctaText $ui.default_cta_text }}
+              {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+              {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+              {{ partial "button-icon.html" (dict "href" $resolvedHref "text" $ctaText "title" $ctaText "targetBlank" $openInNewTab) }}
             {{ end }}
           {{ end }}
         </div>
-      </section>
+      </div>
     </div>
   </section>
 
-  <section class="section offers-free-section-wrapper">
+  <section class="section ps-section offers-free-section-wrapper">
     <div class="container">
       <h2>Meine Angebote</h2>
       <section class="offers-free-section">
@@ -238,7 +231,10 @@
         </div>
       </section>
       <div class="offers-home-actions">
-        <a class="btn" href="{{ "angebote" | relLangURL }}" title="weitere Angebote">weitere Angebote</a>
+        <a class="offers-home-tag" href="{{ "angebote" | relLangURL }}" title="weitere Angebote">
+          <img src="{{ "images/benefits/haekchen_transparent.svg" | relURL }}" alt="" class="benefits-tag-icon" loading="lazy" width="24" height="24" aria-hidden="true">
+          <span class="benefits-tag-text">weitere Angebote</span>
+        </a>
       </div>
     </div>
   </section>
