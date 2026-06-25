@@ -1,20 +1,21 @@
 ---
-title: "Angebote"
+title: "Meine Angebote"
 description: "Alle ESKYNA Angebote im Überblick: Gutschein, Stilgefühl, Stilgarderobe, Präsenz und Begleitung."
-
-intro: "Wählen Sie das Angebot, das zu Ihrem nächsten Schritt passt."
 
 services:
   free:
+    title: "Weitere Angebote"
     items:
       - title: "ESKYNA Gutschein"
-        text: "Stilberatung verschenken: ein persönliches Geschenk für mehr Klarheit, Stilgefühl und sichere Entscheidungen im Alltag."
+        subheading: "Für Menschen, die dir am Herzen liegen"
+        text: "Das schönste Geschenk ist das gute Gefühl, endlich zu wissen, was wirklich zu einem passt."
         price: "ab 149 €"
         image: "images/Gutschein.png"
         ctaText: "ESKYNA Gutschein ansehen"
         ctaHref: "/gutschein/"
       - title: "Stilfrage an Natalia"
-        text: "Für konkrete Stilentscheidungen: auch live beim Einkaufen. Schnell, persönlich und direkt auf deine Situation bezogen."
+        subheading: "Du bist dir nicht sicher?"
+        text: "Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten."
         price: "ab 49 €"
         image: "images/Stilfrage.png"
         ctaText: "Stilfrage stellen"
@@ -66,14 +67,19 @@ services:
       rows:
         - situation: "eine konkrete Stilfrage beantwortet bekommen"
           offer: "Stilfrage an Natalia"
+          offerHref: "/stilfrage/"
         - situation: "wissen, was dir wirklich steht"
           offer: "ESKYNA Stilgefühl"
+          offerHref: "/stilgefuehl/"
         - situation: "deinen Kleiderschrank neu strukturieren"
           offer: "ESKYNA Stilgarderobe"
+          offerHref: "/stilgarderobe/"
         - situation: "beruflich stimmiger und professioneller auftreten"
           offer: "ESKYNA Präsenz"
+          offerHref: "/praesenz/"
         - situation: "Stilberatung verschenken"
           offer: "ESKYNA Gutschein"
+          offerHref: "/gutschein/"
 
   uncertainty:
     title: "Unsicher, welches Angebot zu dir passt?"

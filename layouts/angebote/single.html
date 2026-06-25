@@ -12,44 +12,8 @@
       <h1>{{ .Title }}</h1>
       {{ with .Params.intro }}<p class="offers-intro">{{ . }}</p>{{ end }}
 
-      {{ with $services.free.items }}
-      <section class="offers-free-section">
-        <div class="offers-free-grid">
-          {{ range . }}
-            {{ $itemTitle := .title }}
-            {{ $ctaHref := or .ctaHref "#kontakt" }}
-            {{ $ctaText := or .ctaText $ui.default_cta_text }}
-            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
-            {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
-            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
-            {{ $imagePath := .image }}
-            {{ if not $imagePath }}
-              {{ if or (in $normalizedHref "stilfrage") (in $normalizedHref "stilfrage/") }}
-                {{ $imagePath = "images/Stilfrage.png" }}
-              {{ else if or (in $normalizedHref "gutschein") (in $normalizedHref "gutschein/") }}
-                {{ $imagePath = "images/Gutschein.png" }}
-              {{ end }}
-            {{ end }}
-            {{ $showPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
-            <a class="free-offer-card free-offer-card-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
-              {{ if $imagePath }}
-                <div class="free-offer-media">
-                  {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png") (hasSuffix $imagePath "Stilfrage.png") (hasSuffix $imagePath "Gutschein.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
-                </div>
-              {{ end }}
-              <h4>{{ .title }}</h4>
-              {{ if .price }}<p class="free-offer-price">{{ .price }}{{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>{{ end }}
-              <p>{{ .text }}</p>
-              <span class="btn">{{ $ctaText }}</span>
-            </a>
-          {{ end }}
-        </div>
-      </section>
-      {{ end }}
-
       {{ with $services.packages }}
       <section class="offers-packages-section">
-        <h2 class="offers-group-title">{{ .title }}</h2>
         <div class="packages-grid">
           {{ range .items }}
             {{ $ctaHref := or .ctaHref "#kontakt" }}
@@ -77,6 +41,44 @@
       </section>
       {{ end }}
 
+      {{ with $services.free.items }}
+      <section class="offers-free-section offers-secondary-section">
+        <div class="offers-free-grid">
+          {{ range . }}
+            {{ $itemTitle := .title }}
+            {{ $ctaHref := or .ctaHref "#kontakt" }}
+            {{ $ctaText := or .ctaText $ui.default_cta_text }}
+            {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
+            {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            {{ $imagePath := .image }}
+            {{ if not $imagePath }}
+              {{ if or (in $normalizedHref "stilfrage") (in $normalizedHref "stilfrage/") }}
+                {{ $imagePath = "images/Stilfrage.png" }}
+              {{ else if or (in $normalizedHref "gutschein") (in $normalizedHref "gutschein/") }}
+                {{ $imagePath = "images/Gutschein.png" }}
+              {{ end }}
+            {{ end }}
+            {{ $showPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
+            <div class="offers-free-item">
+              {{ with .subheading }}<h3 class="offers-free-subheading">{{ . }}</h3>{{ end }}
+              <a class="free-offer-card free-offer-card-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+                {{ if $imagePath }}
+                  <div class="free-offer-media">
+                    {{ partial "responsive-image.html" (dict "src" $imagePath "alt" $itemTitle "title" $itemTitle "class" (printf "free-offer-image%s" (cond (or (hasSuffix $imagePath "10_styling_tipps.png") (hasSuffix $imagePath "stiltest.png") (hasSuffix $imagePath "cover_stylingtipps.png") (hasSuffix $imagePath "cover_stiltest.png") (hasSuffix $imagePath "Stilfrage.png") (hasSuffix $imagePath "Gutschein.png")) " free-offer-image-contain" "")) "loading" "lazy" "decoding" "async" "sizes" "(max-width: 700px) 100vw, (max-width: 1200px) 50vw, 33vw") }}
+                  </div>
+                {{ end }}
+                <h4>{{ .title }}</h4>
+                {{ if .price }}<p class="free-offer-price">{{ .price }}{{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}</p>{{ end }}
+                <p>{{ .text }}</p>
+                <span class="btn">{{ $ctaText }}</span>
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
       {{ with $services.comparison }}
       <section class="offers-comparison-section">
         <h2 class="offers-group-title">{{ .title }}</h2>
@@ -94,19 +96,14 @@
               {{ range .table.rows }}
               <tr>
                 <td><strong>{{ .situation }}</strong></td>
-                <td>{{ .offer }}</td>
+                {{ $offerHref := or .offerHref "" }}
+                {{ $normalizedOfferHref := replaceRE "^/" "" $offerHref }}
+                {{ $resolvedOfferHref := cond (eq $offerHref "") "" ($normalizedOfferHref | relURL) }}
+                <td>{{ if $resolvedOfferHref }}<a href="{{ $resolvedOfferHref }}" title="{{ .offer }}">{{ .offer }}</a>{{ else }}{{ .offer }}{{ end }}</td>
               </tr>
               {{ end }}
             </tbody>
           </table>
-        </div>
-        <div class="comparison-cards" aria-label="{{ .title }}">
-          {{ range .table.rows }}
-          <article class="comparison-card">
-            <h3>{{ .situation }}</h3>
-            <p><strong>→ {{ .offer }}</strong></p>
-          </article>
-          {{ end }}
         </div>
       </section>
       {{ end }}
