@@ -172,14 +172,18 @@
 
   <section class="section stilfrage-section" id="stilfrage">
     <div class="stilfrage-bg">
-      {{ partial "responsive-image.html" (dict "src" "images/backgrounds/sections/natalia_desk.png" "alt" "Natalia am Schreibtisch" "class" "stilfrage-bg-img" "loading" "lazy" "decoding" "async") }}
+      {{ $stilfrageBgAlt := or $ui.stilfrage_background_alt "Natalia am Schreibtisch" }}
+      {{ partial "responsive-image.html" (dict "src" "images/backgrounds/sections/natalia_desk.png" "alt" $stilfrageBgAlt "class" "stilfrage-bg-img" "loading" "lazy" "decoding" "async") }}
     </div>
     <div class="container">
       <div class="stilfrage-copy-column">
-        <p class="coach-intro-copy">Für Momente,<br>in denen du dir nicht sicher bist.</p>
-        <h2 class="coach-heading">Stilfrage an Natalia</h2>
+        {{ $stilfrageIntroCopy := or $ui.stilfrage_intro_copy "Für Momente,<br>in denen du dir nicht sicher bist." }}
+        <p class="coach-intro-copy">{{ $stilfrageIntroCopy | safeHTML }}</p>
+        {{ $stilfrageTitle := or $ui.stilfrage_title "Stilfrage an Natalia" }}
+        <h2 class="coach-heading">{{ $stilfrageTitle }}</h2>
         <blockquote class="coach-mission">
-          <p class="coach-mission-main">Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten.</p>
+          {{ $stilfrageMissionMain := or $ui.stilfrage_mission_main "Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten." }}
+          <p class="coach-mission-main">{{ $stilfrageMissionMain }}</p>
         </blockquote>
         <div class="coach-actions">
           {{ range $services.free.items }}
@@ -199,7 +203,8 @@
 
   <section class="section ps-section offers-free-section-wrapper">
     <div class="container">
-      <h2>Meine Angebote</h2>
+      {{ $offersHomeTitle := or $ui.offers_home_title "Meine Angebote" }}
+      <h2>{{ $offersHomeTitle }}</h2>
       <section class="offers-free-section">
         <div class="offers-free-grid">
           {{ range $idx, $item := first 2 $services.free.items }}
@@ -231,8 +236,9 @@
         </div>
       </section>
       <div class="offers-home-actions">
-        <a class="offers-home-tag" href="{{ "angebote" | relLangURL }}" title="Weitere Angebote" aria-label="Weitere Angebote">
-          <span class="benefits-tag-text">Weitere Angebote</span>
+        {{ $offersMoreText := or $ui.offers_more_text "Weitere Angebote" }}
+        <a class="offers-home-tag" href="{{ "angebote" | relLangURL }}" title="{{ $offersMoreText }}" aria-label="{{ $offersMoreText }}">
+          <span class="benefits-tag-text">{{ $offersMoreText }}</span>
           <img src="{{ "images/sign_black.png" | relURL }}" alt="" class="offers-home-tag-sign" loading="lazy" width="42" height="42" aria-hidden="true">
         </a>
       </div>

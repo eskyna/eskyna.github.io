@@ -3,6 +3,13 @@
 {{ $ui := .Site.Home.Params.ui }}
 {{ $priceLabelFinal := i18n "price_label_final" }}
 {{ $priceLabelTooltip := i18n "price_label_tooltip" }}
+{{ $bot := .Params.bot | default (dict) }}
+{{ $botKicker := or $bot.kicker "ESKYNA digital" }}
+{{ $botProfileAlt := or $bot.profile_alt "Profilbild ESKYNA digital" }}
+{{ $botTitle := or $bot.title "Stil beginnt jetzt direkt im Chat." }}
+{{ $botLead := or $bot.lead "Dein ESKYNA Telegram-Bot gibt dir schnelle Stil-Impulse genau dort, wo du sowieso schreibst. Aktuell läuft ESKYNA digital als Beta und wird laufend weiterentwickelt." }}
+{{ $botPrimaryText := or $bot.primary_text "Telegram-Bot testen" }}
+{{ $botSecondaryText := or $bot.secondary_text "Mehr über ESKYNA digital" }}
 <main class="page page-angebote">
   <section class="section offers-free-section-wrapper" id="angebote">
     <div class="container">
@@ -120,16 +127,16 @@
 
         <section class="offers-bot-section" aria-labelledby="eskyna-digital-title">
           <div class="offers-bot-shell">
-            <aside class="offers-bot-visual" aria-label="Profilbild ESKYNA digital">
-              {{ partial "responsive-image.html" (dict "src" "images/eskyna_telegram.png" "alt" "Profilbild ESKYNA digital" "class" "offers-bot-profile" "loading" "lazy" "decoding" "async") }}
+            <aside class="offers-bot-visual" aria-label="{{ $botProfileAlt }}">
+              {{ partial "responsive-image.html" (dict "src" "images/eskyna_telegram.png" "alt" $botProfileAlt "class" "offers-bot-profile" "loading" "lazy" "decoding" "async") }}
             </aside>
             <div class="offers-bot-copy">
-              <p class="offers-bot-kicker">ESKYNA digital</p>
-              <h2 id="eskyna-digital-title">Stil beginnt jetzt direkt im Chat.</h2>
-              <p class="offers-bot-lead">Dein ESKYNA Telegram-Bot gibt dir schnelle Stil-Impulse genau dort, wo du sowieso schreibst. Aktuell läuft ESKYNA digital als Beta und wird laufend weiterentwickelt.</p>
+              <p class="offers-bot-kicker">{{ $botKicker }}</p>
+              <h2 id="eskyna-digital-title">{{ $botTitle }}</h2>
+              <p class="offers-bot-lead">{{ $botLead }}</p>
               <div class="offers-bot-actions">
-                {{ partial "button-icon.html" (dict "href" "https://t.me/eskyna_bot" "text" "Telegram-Bot testen" "title" "Telegram-Bot testen" "targetBlank" true) }}
-                {{ partial "button-icon.html" (dict "href" ("estyle" | relLangURL) "text" "Mehr über ESKYNA digital" "title" "Mehr über ESKYNA digital" "class" "btn btn-secondary") }}
+                {{ partial "button-icon.html" (dict "href" "https://t.me/eskyna_bot" "text" $botPrimaryText "title" $botPrimaryText "targetBlank" true) }}
+                {{ partial "button-icon.html" (dict "href" ("estyle" | relLangURL) "text" $botSecondaryText "title" $botSecondaryText "class" "btn btn-secondary") }}
               </div>
             </div>
           </div>
