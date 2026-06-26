@@ -1,15 +1,29 @@
 :root {
-  --bg: #f9f6f0; /* Warm Alabaster */
-  --bg-soft: #e3d5c8; /* Soft Sand */
-  --page-wash: #f6f1ea;
-  --text: #2c1e16; /* Espresso Brown */
+  /*
+   * ESKYNA design tokens.
+   * This block is the runtime source of truth for the website palette.
+   * Machine readable reference: data/design_tokens.yaml
+   */
+  --color-warm-alabaster: #f9f6f0;
+  --color-soft-sand: #e3d5c8;
+  --color-page-wash: #f6f1ea;
+  --color-muted-gold: #c5a059;
+  --color-warm-cocoa: #8b5e34;
+  --color-espresso-brown: #2c1e16;
+  --color-deep-cocoa: #4a3426;
+  --color-deep-cocoa-hover: #3f2c20;
+  --color-white: #fff;
+  --bg: var(--color-warm-alabaster);
+  --bg-soft: var(--color-soft-sand);
+  --page-wash: var(--color-page-wash);
+  --text: var(--color-espresso-brown);
   --muted: rgb(44 30 22 / 72%);
-  --accent: #c5a059; /* Muted Gold */
-  --accent-strong: #8b5e34; /* Warm Cocoa */
-  --on-dark: #fff;
+  --accent: var(--color-muted-gold);
+  --accent-strong: var(--color-warm-cocoa);
+  --on-dark: var(--color-white);
   --on-dark-muted: rgb(255 255 255 / 88%);
-  --hero-cta-bg: #4a3426;
-  --hero-cta-bg-hover: #3f2c20;
+  --hero-cta-bg: var(--color-deep-cocoa);
+  --hero-cta-bg-hover: var(--color-deep-cocoa-hover);
   --hero-cta-shadow: rgb(74 52 38 / 35%);
   --tooltip-border: rgb(255 255 255 / 38%);
   --tooltip-bg: linear-gradient(165deg, rgb(30 20 14 / 94%), rgb(47 31 23 / 92%));
@@ -40,6 +54,11 @@
   --surface-card-soft: rgb(249 246 240 / 85%);
   --surface-card-problem: rgb(255 255 255 / 45%);
   --surface-card-featured: linear-gradient(170deg, rgb(197 160 89 / 26%), rgb(227 213 200 / 48%));
+  --shadow-soft: 0 18px 50px rgb(44 30 22 / 8%);
+  --shadow-card: 0 18px 44px rgb(44 30 22 / 10%);
+  --radius-pill: 999px;
+  --radius-card: 1.4rem;
+  --radius-soft: 1rem;
   --max-width: 1120px;
   --font-headline: "Montserrat", "Helvetica Neue", helvetica, arial, sans-serif;
   --font-subtitle: "Lato", "Helvetica Neue", helvetica, arial, sans-serif;

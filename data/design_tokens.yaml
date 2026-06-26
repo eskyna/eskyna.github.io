@@ -1,0 +1,51 @@
+brand:
+  name: ESKYNA
+  feel:
+    - warm
+    - clear
+    - refined
+    - personal
+colors:
+  warm_alabaster:
+    hex: "#f9f6f0"
+    css: "--color-warm-alabaster"
+    role: "Main background"
+  soft_sand:
+    hex: "#e3d5c8"
+    css: "--color-soft-sand"
+    role: "Secondary background"
+  page_wash:
+    hex: "#f6f1ea"
+    css: "--color-page-wash"
+    role: "Body background"
+  muted_gold:
+    hex: "#c5a059"
+    css: "--color-muted-gold"
+    role: "Primary accent"
+  warm_cocoa:
+    hex: "#8b5e34"
+    css: "--color-warm-cocoa"
+    role: "Strong accent"
+  espresso_brown:
+    hex: "#2c1e16"
+    css: "--color-espresso-brown"
+    role: "Text"
+  deep_cocoa:
+    hex: "#4a3426"
+    css: "--color-deep-cocoa"
+    role: "Hero CTA background"
+semantic_aliases:
+  bg: "--color-warm-alabaster"
+  bg_soft: "--color-soft-sand"
+  page_wash: "--color-page-wash"
+  text: "--color-espresso-brown"
+  accent: "--color-muted-gold"
+  accent_strong: "--color-warm-cocoa"
+typography:
+  headline: "Montserrat"
+  subtitle: "Lato"
+  text: "Open Sans"
+copy:
+  german_address: "du"
+  russian_address: "вы"
+  avoid_long_dashes_in_german_marketing_copy: true

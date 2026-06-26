@@ -1,0 +1,121 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+
+const root = process.cwd();
+
+const scanRoots = [
+  "content/de",
+  "config.toml",
+  "i18n/de.toml",
+  "layouts",
+  "README.md",
+  "docs",
+  ".github/copilot-instructions.md",
+  ".github/prompts",
+];
+
+const excludedPathParts = [
+  "content/de/datenschutz",
+  "content/de/impressum",
+  "node_modules",
+  "public",
+  "preview",
+  ".lighthouseci",
+  "docs/BRAND_STYLEGUIDE.md",
+  ".github/copilot-instructions.md",
+  ".github/prompts/update-german-copy.prompt.md",
+];
+
+const textExtensions = new Set([".md", ".toml", ".html", ".css", ".js", ".json", ".yaml", ".yml"]);
+
+const formalAddressPatterns = [
+  /\bStarten Sie\b/g,
+  /\bWenn Sie\b/g,
+  /\bWas Sie\b/g,
+  /\bEntdecken Sie\b/g,
+  /\berhalten Sie\b/g,
+  /\bbekommen Sie\b/g,
+  /\bkönnen Sie\b/g,
+  /\bmöchten Sie\b/g,
+  /\bhaben Sie\b/g,
+  /\bzu Ihnen\b/g,
+  /\bfür Sie\b/g,
+  /\bIhnen\b/g,
+  /\bIhren individuellen Stil\b/g,
+  /\bIhr Stilberater\b/g,
+  /\bIhrer Garderobe\b/g,
+];
+
+const issues = [];
+
+function shouldSkip(relPath) {
+  return excludedPathParts.some((part) => relPath === part || relPath.startsWith(`${part}/`));
+}
+
+function collectFiles(target, files = []) {
+  const abs = path.join(root, target);
+  if (!fs.existsSync(abs)) return files;
+
+  const stat = fs.statSync(abs);
+  if (stat.isDirectory()) {
+    for (const entry of fs.readdirSync(abs)) {
+      collectFiles(path.join(target, entry), files);
+    }
+    return files;
+  }
+
+  const rel = target.replace(/\\/g, "/");
+  if (shouldSkip(rel)) return files;
+  if (!textExtensions.has(path.extname(rel))) return files;
+  files.push(rel);
+  return files;
+}
+
+function addIssue(file, lineNumber, rule, text) {
+  issues.push({
+    file,
+    lineNumber,
+    rule,
+    text: text.trim(),
+  });
+}
+
+function checkFile(file) {
+  const abs = path.join(root, file);
+  const content = fs.readFileSync(abs, "utf8");
+  const lines = content.split(/\r?\n/);
+
+  lines.forEach((line, index) => {
+    const lineNumber = index + 1;
+
+    if (/[\u2013\u2014]/.test(line)) {
+      addIssue(file, lineNumber, "no-long-dash", line);
+    }
+
+    for (const pattern of formalAddressPatterns) {
+      pattern.lastIndex = 0;
+      if (pattern.test(line)) {
+        addIssue(file, lineNumber, "german-du-form", line);
+      }
+    }
+  });
+}
+
+for (const target of scanRoots) {
+  for (const file of collectFiles(target)) {
+    checkFile(file);
+  }
+}
+
+if (issues.length > 0) {
+  console.error("Copy style check failed. Please fix these lines:\n");
+  for (const issue of issues) {
+    console.error(`${issue.file}:${issue.lineNumber} [${issue.rule}] ${issue.text}`);
+  }
+  console.error("\nRules: German marketing copy uses Du Form and avoids em dashes or en dashes.");
+  process.exit(1);
+}
+
+console.log("Copy style check passed.");

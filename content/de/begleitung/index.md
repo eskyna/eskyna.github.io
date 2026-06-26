@@ -12,7 +12,7 @@ offer:
   intro: |
     Manche Stilentscheidungen entstehen nicht in einem Beratungstermin, sondern mitten im Alltag: vor einem wichtigen Kundentermin, beim Online-Shopping, beim Packen für eine Geschäftsreise oder wenn sich deine Rolle, dein Stil oder deine Garderobe weiterentwickeln.
 
-    Mit ESKYNA Begleitung hast du Natalia Kleemann als persönliche Stil- und Imageberaterin an deiner Seite — für Business-Outfits, Kaufentscheidungen, wiederkehrende Stilfragen und die Entwicklung deiner Garderobe.
+    Mit ESKYNA Begleitung hast du Natalia Kleemann als persönliche Stil- und Imageberaterin an deiner Seite. Sie unterstützt dich bei Business-Outfits, Kaufentscheidungen, wiederkehrenden Stilfragen und der Entwicklung deiner Garderobe.
   price: "ab 4.399 €"
   cta: "ESKYNA Begleitung anfragen"
   image: "images/portraits/natalia-coach-portrait.png"
@@ -22,14 +22,14 @@ problem:
   text: |
     Stilentscheidungen entstehen nicht immer im Beratungszimmer. Sie entstehen, wenn du wichtig auftreten möchtest, beim nächsten Einkauf, vor einem neuen Kapitel deines Lebens oder wenn du plötzlich nicht weißt, wie deine bisherigen Lieblingssachen noch zu deinem aktuellen Style passen.
 
-    Genau dann brauchst du jemanden, der dich kennt und dir Orientierung gibt — immer wieder und im Kontext deines echten Lebens.
+    Genau dann brauchst du jemanden, der dich kennt und dir Orientierung gibt. Immer wieder und im Kontext deines echten Lebens.
 
 what_it_is:
   title: "Kontinuierliche Begleitung statt einzelner Beratungstermin"
   text: |
     Mit der ESKYNA Begleitung erkennst du dich selbst in deinem Stil besser. Du lernst, welche Entscheidungen zu dir passen, und du hast jemanden an deiner Seite, wenn es im Alltag unklar wird.
 
-    Die Begleitung ist flexibel und passt sich deinem Leben an — ob regelmäßige Termine, spontane Fragen zum Einkaufen oder intensive Phasen der Garderobenentwicklung.
+    Die Begleitung ist flexibel und passt sich deinem Leben an: mit regelmäßigen Terminen, spontanen Fragen zum Einkaufen oder intensiven Phasen der Garderobenentwicklung.
 
 typical_questions:
   title: "Typische Themen der Begleitung"
@@ -62,7 +62,7 @@ services:
       description: "Je nach vereinbarter Terminstaffel erhältst du kontinuierliche Unterstützung und Beratung."
 
     - title: "Kurze Einschätzungen zu konkreten Stilfragen"
-      description: "Du kannst Natalia auch zwischen Terminen zu spontanen Fragen im Alltag kontaktieren — beim Einkaufen, vor wichtigen Events oder bei Unsicherheiten."
+      description: "Du kannst Natalia auch zwischen Terminen zu spontanen Fragen im Alltag kontaktieren: beim Einkaufen, vor wichtigen Events oder bei Unsicherheiten."
 
     - title: "Unterstützung bei Business- und Anlass-Outfits"
       description: "Natalia hilft dir, passende Outfits für deine beruflichen und privaten Anlässe zu entwickeln."
@@ -74,23 +74,23 @@ services:
       description: "Durch regelmäßige Begleitung weiß Natalia genau, welche Teile in deine Garderobe passen und Sinn machen."
 
     - title: "Feedback zu neuen Kombinationen"
-      description: "Entdecke neue Outfitmöglichkeiten, die zu dir passen — und warum sie funktionieren."
+      description: "Entdecke neue Outfitmöglichkeiten, die zu dir passen. Und du verstehst, warum sie funktionieren."
 
     - title: "Kontinuierliche Garderobenentwicklung"
-      description: "Deine Garderobe entwickelt sich über mehrere Wochen oder Monate mit dir weiter — immer passend zu deinem aktuellen Leben."
+      description: "Deine Garderobe entwickelt sich über mehrere Wochen oder Monate mit dir weiter. Immer passend zu deinem aktuellen Leben."
 
     - title: "Individuelle Abstimmung"
       description: "Alles wird persönlich abgestimmt auf deine berufliche Rolle, deinen Alltag und deine gewünschte Wirkung."
 
 result:
   title: "Was sich danach ändert"
-  text: "Deine Garderobe entwickelt sich mit deinem Leben mit — klarer, bewusster und stimmiger."
+  text: "Deine Garderobe entwickelt sich mit deinem Leben mit. Klarer, bewusster und stimmiger."
   items:
     - "Du musst Stilentscheidungen nicht mehr allein treffen"
     - "Du kaufst bewusster und sparst Zeit"
     - "Dein Auftritt wirkt klarer und stimmiger"
     - "Du gewinnst Sicherheit, dass neue Teile wirklich zu dir passen"
-  summary: "ESKYNA Begleitung gibt dir kontinuierliche Orientierung — damit dein Stil nicht nur einmal definiert wird, sondern im Alltag lebendig bleibt."
+  summary: "ESKYNA Begleitung gibt dir kontinuierliche Orientierung. Dein Stil wird nicht nur einmal definiert, sondern bleibt im Alltag lebendig."
 
 cta_section:
   title: "Du möchtest regelmäßig begleitet werden?"

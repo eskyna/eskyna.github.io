@@ -14,11 +14,11 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 - Gehe Punkt für Punkt durch und hake ab, was du bereits besitzt.
 - Markiere am Ende **maximal 3 Lücken**, die deine Outfits aktuell am stärksten bremsen.
 
-## Basic Wardrobe – Checkliste
+## Basic Wardrobe Checkliste
 
 ### Oberteile
 
-- [ ] 2–3 hochwertige T-Shirts/Longsleeves (neutral)
+- [ ] 2 bis 3 hochwertige T-Shirts/Longsleeves (neutral)
 - [ ] 1 weiße Bluse/Hemd (clean, gut sitzend)
 - [ ] 1 Strickteil (Cardigan oder Pullover)
 - [ ] 1 Top/Body (als Layering-Basis)
@@ -43,7 +43,7 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 ### Schuhe
 
 - [ ] 1 Paar bequeme Alltagsschuhe (clean)
-- [ ] 1 Paar „angezogen“ (Loafer/Boot/Heel – je nach Stil)
+- [ ] 1 Paar „angezogen“ (Loafer, Boot oder Heel, je nach Stil)
 - [ ] 1 Paar wetterfest (Regen/Winter)
 
 ### Taschen & Accessoires
@@ -58,7 +58,7 @@ und Outfits, die sich jeden Tag leicht zusammenstellen lassen.
 Wenn du in **2 oder mehr Bereichen** große Lücken hast, lohnt sich meist ein strukturierter
 Wardrobe-Refresh: erst die Basis stabilisieren, dann gezielt „Wow“-Teile ergänzen.
 
-Wenn du möchtest, schauen wir gemeinsam darauf – und ich mache dir einen klaren Plan, was du brauchst
+Wenn du möchtest, schauen wir gemeinsam darauf. Ich mache dir einen klaren Plan, was du brauchst
 und was du dir sparen kannst.
 
 **Termin buchen:** [Kostenloses Kennenlerngespräch](https://calendar.app.google/yxftEwKaef4UJL6b7)

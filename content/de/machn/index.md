@@ -14,7 +14,7 @@ hero:
   cta_href: "#machn-kontakt"
   meta_1: "Für Teilnehmer:innen des MACHN Festivals"
   meta_2: "Buchbar bis 30.06.2026"
-  badge: "Zeig, was in dir und deiner Idee steckt – auch nach außen."
+  badge: "Zeig, was in dir und deiner Idee steckt. Auch nach außen."
   image: "images/machn/v3/people/natalia.png"
   image_webp: "images/machn/v3/people/natalia.webp"
   image_mobile: "images/machn/v3/people/natalia.png"
@@ -54,7 +54,7 @@ expectations:
   subtitle: "Dein Auftritt. Deine Wirkung. Dein Vorteil."
   cards:
     - title: "Farb- und Wirkungsanalyse"
-      text: "Wir finden heraus, welche Farben dich frisch, präsent und klar wirken lassen – und welche Wirkung sie in deinem beruflichen Kontext erzeugen."
+      text: "Wir finden heraus, welche Farben dich frisch, präsent und klar wirken lassen. Du verstehst, welche Wirkung sie in deinem beruflichen Kontext erzeugen."
       image: "images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.png"
       image_webp: "images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.webp"
       image_mobile: "images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.png"
@@ -92,7 +92,7 @@ result:
   items:
     - "Du wirkst souverän, klar und authentisch."
     - "Du weißt, welche Farben deine Präsenz stärken."
-    - "Dein Outfit unterstützt deine Botschaft – nicht umgekehrt."
+    - "Dein Outfit unterstützt deine Botschaft. Nicht umgekehrt."
     - "Du überzeugst vom ersten Moment an."
     - "Für Bühne, Kamera, Pitch und Business."
 offer_card:
@@ -115,9 +115,9 @@ about:
   image_mobile_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
   image_alt: "Natalia Kleemann, Style- und Imagecoach von ESKYNA"
 quote:
-  text: "Ich helfe Gründer:innen, ihre Persönlichkeit sichtbar zu machen – damit sie nicht nur eine gute Idee präsentieren, sondern auch die richtige Wirkung hinterlassen."
+  text: "Ich helfe Gründer:innen, ihre Persönlichkeit sichtbar zu machen. So präsentieren sie nicht nur eine gute Idee, sondern hinterlassen auch die richtige Wirkung."
   author: "Natalia Kleemann"
-  role: "ESKYNA – Style & Image"
+  role: "ESKYNA Style & Image"
 closing:
   title: "Bereit für deinen nächsten starken Auftritt?"
   text: "Mach deinen Pitch nicht nur inhaltlich klar. Mach ihn sichtbar stimmig."

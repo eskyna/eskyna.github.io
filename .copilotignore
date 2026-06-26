@@ -1,13 +1,36 @@
-# Exclude local preview workspace from Copilot context.
-preview/
-
-# Exclude generated site output.
+# Generated output
 public/
+preview/
+.tmp/
+test-results/
+playwright-report/
 
-# Exclude GIMP project files.
+# Dependency and lock noise
+node_modules/
+package-lock.json
+yarn.lock
+
+# Lighthouse reports
+.lighthouseci/
+
+# Local and secret files
+.env
+*.local
+
+# Compiled Flutter apps. Keep their source projects outside this generated site when possible.
+static/garderobencheck/
+static/stiltest/
+
+# Large binary design files
 *.xcf
 *.XCF
 *.xcf.gz
 *.XCF.GZ
 *.xcf.bz2
 *.XCF.BZ2
+
+# Common generated maps and archives
+*.map
+*.zip
+*.tar
+*.tar.gz

@@ -112,7 +112,7 @@ fi
 <title>Willkommen auf der ESKYNAWebsite - Ihre Stilberatung für Hannover und Online</title>
 
 <!-- Optimal ✅ -->
-<title>ESKYNA – Stilberatung Hannover & Online</title>
+<title>ESKYNA: Stilberatung Hannover und Online</title>
 ```
 
 ## 🎯 Ziele für dieses Projekt

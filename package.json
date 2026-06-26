@@ -6,7 +6,7 @@
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "npm run lint:css && npm run lint:md",
+    "lint": "npm run lint:css && npm run lint:md && npm run lint:copy",
     "lint:css": "stylelint \"static/css/**/*.css\"",
     "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#public\"",
     "lint-and-format": "node bin/lint-and-format",
@@ -26,7 +26,8 @@
     "translation-sync:check": "node bin/translation-sync",
     "translation-sync:apply": "node bin/translation-sync --sync",
     "test:responsive": "playwright test tests/responsive.spec.js",
-    "test:responsive:update": "playwright test tests/responsive.spec.js --update-snapshots"
+    "test:responsive:update": "playwright test tests/responsive.spec.js --update-snapshots",
+    "lint:copy": "node bin/check-copy-style"
   },
   "devDependencies": {
     "@playwright/test": "^1.61.0",
@@ -36,8 +37,12 @@
     "stylelint": "^16.25.0",
     "stylelint-config-standard": "^39.0.1"
   },
+  "resolutions": {
+    "uuid": "^11.1.1"
+  },
   "overrides": {
     "tmp": ">=0.2.6",
-    "uuid": ">=11.1.1"
+    "uuid": ">=11.1.1",
+    "markdown-it": ">=14.2.0"
   }
 }

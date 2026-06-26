@@ -1,5 +1,5 @@
 ---
-title: "EStyle — ваш стиль-консультант"
+title: "EStyle: ваш цифровой стиль-консультант"
 eyebrow: "Цифровое предложение от Наталии Клеманн"
 image: "images/estyle-app.png"
 ui:

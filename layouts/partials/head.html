@@ -167,9 +167,14 @@
 
 <style>
   :root {
-    --text: #2c1e16;
-    --accent: #c5a059;
-    --accent-strong: #8b5e34;
+    --color-espresso-brown: #2c1e16;
+    --color-muted-gold: #c5a059;
+    --color-warm-cocoa: #8b5e34;
+    --color-page-wash: #f6f1ea;
+    --text: var(--color-espresso-brown);
+    --accent: var(--color-muted-gold);
+    --accent-strong: var(--color-warm-cocoa);
+    --page-wash: var(--color-page-wash);
     --max-width: 1120px;
   }
 
@@ -186,7 +191,7 @@
   body {
     font-family: "Open Sans", "Helvetica Neue", helvetica, arial, sans-serif;
     color: var(--text);
-    background: #f6f1ea;
+    background: var(--page-wash);
     line-height: 1.55;
   }
 
