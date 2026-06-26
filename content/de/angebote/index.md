@@ -51,7 +51,7 @@ services:
 
       - name: "ESKYNA Begleitung"
         headline: "Für persönliche Stilfragen im Alltag und einen Auftritt, der mit dir wächst"
-        price: "Individuell auf Anfrage"
+        price: "ab 4.399 €"
         result: "Du musst Stilentscheidungen nicht mehr allein treffen. Deine Garderobe entwickelt sich bewusster, klarer und mit deinem Leben mit."
         ctaText: "ESKYNA Begleitung anfragen"
         ctaHref: "/begleitung/"
