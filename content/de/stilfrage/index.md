@@ -3,7 +3,7 @@ title: "Stilfrage an Natalia"
 description: "Du bist unsicher bei einem Kleidungsstück, Outfit oder Kauf? Stelle Natalia deine Stilfrage, auch live beim Einkaufen."
 
 offers_back:
-  href: "/#angebote"
+  href: "/angebote/"
   label: "Zu den Angeboten"
 variants_heading: "Wähle die passende Form"
 ui:

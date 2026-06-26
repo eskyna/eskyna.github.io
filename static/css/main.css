@@ -1860,6 +1860,93 @@ h1 {
   margin: 3rem 0 4rem;
 }
 
+.offers-home-section .offers-free-section {
+  margin-bottom: 0.45rem;
+}
+
+.offers-home-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.55rem;
+  margin-bottom: 0.15rem;
+}
+
+.offers-home-tag {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 3.2rem;
+  column-gap: 1rem;
+  align-items: center;
+  aspect-ratio: 3 / 2;
+  min-height: 0;
+  height: auto;
+  padding: 1.55rem 2.2rem;
+  background-image: image-set(
+    url("../images/preisettikett_grau.avif") type("image/avif"),
+    url("../images/preisettikett_grau.webp") type("image/webp"),
+    url("../images/preisettikett_grau.png") type("image/png")
+  );
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease;
+  transform: none;
+  width: min(100%, 340px);
+  min-width: 255px;
+  max-width: 340px;
+  padding-inline: clamp(1.5rem, 4vw, 2.1rem);
+}
+
+.offers-home-tag:hover {
+  transform: translateY(-2px);
+  color: inherit;
+}
+
+.offers-home-tag .benefits-tag-text {
+  position: relative;
+  z-index: 1;
+  grid-column: 1;
+  margin-left: clamp(2.1rem, 4.8vw, 2.9rem);
+  color: #3f2a1a;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-shadow: none;
+}
+
+.offers-home-tag-sign {
+  position: relative;
+  z-index: 1;
+  grid-column: 2;
+  justify-self: center;
+  width: 1.85rem;
+  height: 1.85rem;
+  object-fit: contain;
+}
+
+@media (width <= 560px) {
+  .offers-home-tag {
+    min-width: 0;
+    width: min(100%, 16rem);
+    aspect-ratio: 3 / 2;
+    padding: 0.8rem 1.25rem;
+    grid-template-columns: minmax(0, 1fr) 1.95rem;
+  }
+
+  .offers-home-tag .benefits-tag-text {
+    font-size: 0.86rem;
+    margin-left: 1.35rem;
+  }
+
+  .offers-home-tag-sign {
+    width: 1.55rem;
+    height: 1.55rem;
+  }
+}
+
 .offers-free-intro {
   margin: 0.8rem 0 1.5rem;
   max-width: 75ch;
@@ -1874,6 +1961,229 @@ h1 {
   gap: 1.5rem;
   margin-top: 1.5rem;
 }
+
+.offers-free-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.offers-free-subheading {
+  margin: 0;
+  font-family: var(--font-headline);
+  font-size: clamp(1.15rem, 1.8vw, 1.35rem);
+  line-height: 1.25;
+  color: var(--text);
+}
+
+/* stylelint-disable no-descending-specificity */
+
+/* Page-specific overrides for secondary offers require specificity that supersedes global grid rules */
+.page-angebote .offers-secondary-section .offers-free-grid {
+  grid-template-columns: 1fr;
+  gap: 6.5rem;
+}
+
+.page-angebote .offers-secondary-section .offers-free-subheading {
+  font-size: clamp(1.7rem, 3.1vw, 2.25rem);
+  margin: 0.7rem 0 2rem;
+  line-height: 1.12;
+}
+
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 36%) 1fr;
+  grid-template-rows: min-content min-content min-content min-content;
+  gap: 0.4rem 1.1rem;
+  align-items: start;
+  border: 1px solid var(--card-border) !important;
+  border-radius: 20px;
+  background: rgb(255 255 255 / 70%);
+}
+
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > .free-offer-media {
+  grid-column: 1;
+  grid-row: 1 / span 4;
+  align-self: start;
+}
+
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > h4,
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > p,
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > .btn {
+  grid-column: 2;
+  min-width: 0;
+}
+
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > h4 {
+  grid-row: 1;
+}
+
+.page-angebote
+  .offers-secondary-section
+  .offers-free-item
+  > .free-offer-card
+  > p:not(.free-offer-price) {
+  grid-row: 3;
+  color: #6f5748;
+  font-style: italic;
+}
+
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > .free-offer-price {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > .btn {
+  grid-row: 4;
+  margin-top: 0;
+}
+
+@media (width <= 900px) {
+  .page-angebote .offers-secondary-section .offers-free-item > .free-offer-card {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+
+  .page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > .free-offer-media,
+  .page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > h4,
+  .page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > p,
+  .page-angebote .offers-secondary-section .offers-free-item > .free-offer-card > .btn {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .page-angebote .offers-secondary-section .offers-free-subheading {
+    margin-top: 0.3rem;
+  }
+}
+
+.page-angebote .offers-packages-section .packages-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.offers-bot-section {
+  margin: clamp(1.1rem, 2.7vw, 2.1rem) 0 clamp(1.8rem, 3.2vw, 2.7rem);
+}
+
+.offers-bot-shell {
+  display: grid;
+  grid-template-columns: minmax(190px, 280px) minmax(0, 1fr);
+  gap: clamp(0.8rem, 1.8vw, 1.35rem);
+  align-items: center;
+  padding: clamp(1.1rem, 2.2vw, 1.9rem);
+  border: 1px solid rgb(44 30 22 / 16%);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 95% 8%, rgb(197 160 89 / 12%), rgb(249 246 240 / 0%) 38%),
+    linear-gradient(180deg, rgb(249 246 240 / 86%), rgb(255 255 255 / 74%));
+}
+
+.offers-bot-kicker {
+  margin: 0;
+  font-family: var(--font-subtitle);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6e4f33;
+}
+
+.offers-bot-copy > h2 {
+  text-align: left !important;
+  margin: 0.5rem 0 0.9rem;
+  font-size: clamp(1.55rem, 2.5vw, 2.35rem);
+  line-height: 1.1;
+}
+
+.offers-bot-lead {
+  margin: 0;
+  max-width: 62ch;
+  color: rgb(44 30 22 / 84%);
+  font-size: clamp(1rem, 1.35vw, 1.08rem);
+  line-height: 1.63;
+}
+
+.offers-bot-beta {
+  margin: 0.9rem 0 0;
+  max-width: 62ch;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid rgb(139 94 52 / 30%);
+  border-radius: 12px;
+  background: rgb(255 255 255 / 62%);
+  color: rgb(44 30 22 / 88%);
+  font-size: 0.96rem;
+  line-height: 1.58;
+}
+
+.offers-bot-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.1rem;
+}
+
+.offers-bot-visual {
+  display: grid;
+  justify-items: start;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.offers-bot-profile {
+  width: min(100%, 280px);
+  height: auto;
+  object-fit: contain;
+  border-radius: 0;
+  border: 1px solid rgb(44 30 22 / 14%);
+  box-shadow: 0 16px 32px rgb(44 30 22 / 15%);
+  background: #e8dfd4;
+}
+
+.offers-bot-meta {
+  display: grid;
+  justify-items: center;
+  gap: 0.18rem;
+}
+
+.offers-bot-name {
+  margin: 0;
+  font-family: var(--font-headline);
+  font-size: 1.15rem;
+  color: #2c1e16;
+}
+
+.offers-bot-status {
+  margin: 0;
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #6e4f33;
+}
+
+@media (width <= 900px) {
+  .offers-bot-shell {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .offers-bot-copy > h2,
+  .offers-bot-lead,
+  .offers-bot-beta {
+    max-width: none;
+  }
+
+  .offers-bot-copy > h2 {
+    text-align: left !important;
+  }
+
+  .offers-bot-visual {
+    justify-items: start;
+  }
+
+  .offers-bot-meta {
+    justify-items: start;
+  }
+}
+/* stylelint-enable no-descending-specificity */
 
 .offers-free-grid-secondary {
   margin-top: 2.25rem;
@@ -1919,6 +2229,9 @@ h1 {
   color: var(--text);
 }
 
+/* stylelint-disable no-descending-specificity */
+
+/* Global offer styles that are overridden by page-specific .page-angebote rules */
 .free-offer-card {
   border: 1px solid var(--card-border);
   border-radius: 18px;
@@ -2225,7 +2538,9 @@ h1 {
   grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
   gap: 2rem;
   margin-top: 3.2rem;
+  align-items: stretch;
 }
+/* stylelint-enable no-descending-specificity */
 
 .package-card {
   border: 1px solid var(--card-border);
@@ -2317,6 +2632,7 @@ h1 {
   color: var(--text);
   line-height: 1.25;
   align-self: start;
+  min-height: 6.5rem;
 }
 
 .package-description {
@@ -4481,6 +4797,7 @@ main .hero .hero-copy {
    Responsive hardening (component by component)
    -------------------------------------------------------------------------- */
 
+/* stylelint-disable no-descending-specificity */
 .home-main,
 .home-main .problem-grid,
 .home-main .offers-free-grid,
@@ -4493,6 +4810,7 @@ main .hero .hero-copy {
 .home-main .comparison-card {
   min-width: 0;
 }
+/* stylelint-enable no-descending-specificity */
 
 /* P1 Hero: ensure message and CTA are visible early on phone/tablet. */
 .home-main .hero .hero-grid {
@@ -4643,6 +4961,7 @@ html[lang^="ru"] .package-price {
 
 html[lang^="ru"] .package-headline {
   font-size: 1.15rem;
+  text-shadow: 0 1px 3px rgb(0 0 0 / 40%);
   line-height: 1.32;
 }
 
@@ -6212,5 +6531,199 @@ main .hero .hero-headline-line {
 
   main .hero .hero-details .hero-detail br {
     display: none;
+  }
+}
+
+/* ── Stilfrage Section ───────────────────────────────────── */
+
+.stilfrage-section {
+  position: relative;
+  border-top: 1px solid var(--card-border);
+  border-bottom: 1px solid var(--card-border);
+  overflow: hidden;
+  padding: 0;
+}
+
+.stilfrage-bg {
+  position: relative;
+  width: 100%;
+  line-height: 0;
+}
+
+.stilfrage-bg-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.stilfrage-section .container {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  margin: 0 auto;
+  padding-inline: clamp(1rem, 3vw, 2.25rem);
+}
+
+.stilfrage-copy-column {
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 2.5rem 0;
+  margin-left: 0;
+}
+
+.stilfrage-section .coach-intro-copy {
+  margin: 0.65rem 0 0;
+  max-width: 42ch;
+  color: #6f5748;
+  font-size: clamp(1.24rem, 1.95vw, 1.48rem);
+  line-height: 1.55;
+}
+
+.stilfrage-section .coach-heading {
+  margin: 3.4rem 0 0;
+  color: #2c211c;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: clamp(1.35rem, 2.2vw, 1.95rem);
+  font-weight: 500;
+  line-height: 1;
+  text-align: left;
+  width: auto;
+}
+
+.stilfrage-section .coach-mission {
+  margin: 1.8rem 0 0;
+  max-width: min(100%, 22rem);
+  padding: 0.45rem 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+}
+
+.stilfrage-section .coach-mission-main {
+  margin: 0;
+  color: #2c211c;
+  font-style: italic;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: clamp(1rem, 1.55vw, 1.34rem);
+  font-weight: 500;
+  line-height: 1.08;
+  text-wrap: balance;
+}
+
+.stilfrage-section .coach-actions {
+  margin-top: 2.5rem;
+}
+
+@media (width <= 1200px) {
+  .stilfrage-copy-column {
+    max-width: 58%;
+    margin-left: 0;
+  }
+}
+
+@media (width <= 900px) {
+  .stilfrage-section .container {
+    position: relative;
+    inset: auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .stilfrage-section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .stilfrage-bg {
+    order: -1;
+  }
+
+  .stilfrage-copy-column {
+    max-width: 100%;
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
+@media (orientation: portrait), (width <= 1024px) {
+  .stilfrage-bg {
+    min-height: clamp(24rem, 62vh, 40rem);
+    background-image:
+      linear-gradient(
+        180deg,
+        rgb(44 30 22 / 48%) 0%,
+        rgb(44 30 22 / 62%) 54%,
+        rgb(44 30 22 / 76%) 100%
+      ),
+      image-set(
+        url("../images/backgrounds/sections/natalia_desk_portrait.avif") type("image/avif"),
+        url("../images/backgrounds/sections/natalia_desk_portrait.webp") type("image/webp"),
+        url("../images/backgrounds/sections/natalia_desk_portrait.png") type("image/png")
+      );
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .stilfrage-bg-img {
+    display: none;
+  }
+
+  .stilfrage-section .container {
+    position: absolute;
+    inset: 0;
+    padding: clamp(1.5rem, 6vw, 2.5rem);
+    align-items: center;
+  }
+
+  .stilfrage-copy-column {
+    width: 100%;
+    max-width: min(100%, 34ch);
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+  }
+
+  .stilfrage-section .coach-intro-copy {
+    margin-top: 0;
+    color: rgb(255 255 255 / 92%);
+    font-size: clamp(1.02rem, 3.8vw, 1.2rem);
+    font-weight: 600;
+    line-height: 1.5;
+    text-shadow: 0 2px 18px rgb(20 12 8 / 36%);
+  }
+
+  .stilfrage-section .coach-heading {
+    margin-top: 1.3rem;
+    color: rgb(255 255 255 / 96%);
+    font-size: clamp(1.65rem, 7vw, 2.25rem);
+    text-align: center;
+    text-shadow: 0 2px 18px rgb(20 12 8 / 34%);
+  }
+
+  .stilfrage-section .coach-mission {
+    margin-top: 1.2rem;
+    max-width: min(100%, 31ch);
+    text-align: center;
+  }
+
+  .stilfrage-section .coach-mission-main {
+    color: rgb(255 255 255 / 88%);
+    font-family: var(--font-text);
+    font-size: clamp(0.98rem, 3.5vw, 1.08rem);
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.5;
+    text-wrap: pretty;
+    text-shadow: 0 2px 18px rgb(20 12 8 / 32%);
+  }
+
+  .stilfrage-section .coach-actions {
+    margin-top: 1.8rem;
+    justify-content: center;
   }
 }

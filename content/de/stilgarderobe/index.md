@@ -3,7 +3,7 @@ title: "ESKYNA Stilgarderobe"
 description: "Mehr tragbare Outfits, weniger Fehlkäufe und ein Kleiderschrank, der zu dir passt. ESKYNA Stilgarderobe mit Natalia Kleemann."
 
 offers_back:
-  href: "/#angebote"
+  href: "/angebote/"
   label: "Zu den Angeboten"
 variants_heading: "Wähle die passende Form"
 
