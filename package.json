@@ -29,7 +29,7 @@
     "test:responsive:update": "playwright test tests/responsive.spec.js --update-snapshots"
   },
   "devDependencies": {
-    "@playwright/test": "^1.55.0",
+    "@playwright/test": "^1.61.0",
     "@lhci/cli": "^0.15.1",
     "markdownlint-cli2": "^0.22.1",
     "prettier": "^3.8.4",
