@@ -1583,7 +1583,7 @@ h1 {
   background-image: url("../images/benefits/preisetikett.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
+  background-size: contain;
 }
 
 .benefits-tag-icon {
@@ -1861,79 +1861,90 @@ h1 {
 }
 
 .offers-home-section .offers-free-section {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.45rem;
 }
 
 .offers-home-actions {
   display: flex;
   justify-content: center;
-  margin-top: 2rem;
+  margin-top: 0.55rem;
+  margin-bottom: 0.15rem;
 }
 
 .offers-home-tag {
   position: relative;
   display: grid;
-  grid-template-columns: 2rem minmax(0, 1fr) 3.8rem;
-  column-gap: 0.75rem;
+  grid-template-columns: minmax(0, 1fr) 3.2rem;
+  column-gap: 1rem;
   align-items: center;
-  min-height: 120px;
-  padding: 1.2rem 1.8rem;
-  background-image: url("../images/benefits/preisetikett.png");
+  aspect-ratio: 3 / 2;
+  min-height: 0;
+  height: auto;
+  padding: 1.55rem 2.2rem;
+  background-image: image-set(
+    url("../images/preisettikett_grau.avif") type("image/avif"),
+    url("../images/preisettikett_grau.webp") type("image/webp"),
+    url("../images/preisettikett_grau.png") type("image/png")
+  );
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
+  background-size: contain;
   text-decoration: none;
   color: inherit;
   transition: transform 0.2s ease;
-  transform: translateX(-12px);
-  min-width: 380px;
-  max-width: 480px;
-  filter: grayscale(1) sepia(0.08) saturate(0.55) brightness(1.18) contrast(0.9);
-}
-
-.offers-home-tag::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background-image:
-    linear-gradient(rgb(255 255 255 / 26%), rgb(235 235 235 / 26%)),
-    image-set(
-      url("/images/linen-texture-light.avif") type("image/avif"),
-      url("/images/linen-texture-light.webp") type("image/webp"),
-      url("/images/linen-texture-light.png") type("image/png")
-    );
-  background-size:
-    100% 100%,
-    240px 240px;
-  background-repeat: no-repeat, repeat;
-  mask-image: url("../images/benefits/preisetikett.png");
-  mask-size: 100% 100%;
-  mask-repeat: no-repeat;
-  mask-position: center;
-  mix-blend-mode: multiply;
-  opacity: 0.5;
-  pointer-events: none;
+  transform: none;
+  width: min(100%, 340px);
+  min-width: 255px;
+  max-width: 340px;
+  padding-inline: clamp(1.5rem, 4vw, 2.1rem);
 }
 
 .offers-home-tag:hover {
-  transform: translate(-12px, -2px);
+  transform: translateY(-2px);
   color: inherit;
-  filter: grayscale(1) sepia(0.08) saturate(0.55) brightness(1.08) contrast(0.92);
-}
-
-.offers-home-tag .benefits-tag-icon {
-  position: relative;
-  z-index: 1;
-  filter: brightness(0.38) sepia(0.45) saturate(1.2);
 }
 
 .offers-home-tag .benefits-tag-text {
   position: relative;
   z-index: 1;
+  grid-column: 1;
+  margin-left: clamp(2.1rem, 4.8vw, 2.9rem);
   color: #3f2a1a;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
   text-shadow: none;
+}
+
+.offers-home-tag-sign {
+  position: relative;
+  z-index: 1;
+  grid-column: 2;
+  justify-self: center;
+  width: 1.85rem;
+  height: 1.85rem;
+  object-fit: contain;
+}
+
+@media (width <= 560px) {
+  .offers-home-tag {
+    min-width: 0;
+    width: min(100%, 16rem);
+    aspect-ratio: 3 / 2;
+    padding: 0.8rem 1.25rem;
+    grid-template-columns: minmax(0, 1fr) 1.95rem;
+  }
+
+  .offers-home-tag .benefits-tag-text {
+    font-size: 0.86rem;
+    margin-left: 1.35rem;
+  }
+
+  .offers-home-tag-sign {
+    width: 1.55rem;
+    height: 1.55rem;
+  }
 }
 
 .offers-free-intro {
@@ -2048,6 +2059,129 @@ h1 {
 
 .page-angebote .offers-packages-section .packages-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.offers-bot-section {
+  margin: clamp(1.1rem, 2.7vw, 2.1rem) 0 clamp(1.8rem, 3.2vw, 2.7rem);
+}
+
+.offers-bot-shell {
+  display: grid;
+  grid-template-columns: minmax(190px, 280px) minmax(0, 1fr);
+  gap: clamp(0.8rem, 1.8vw, 1.35rem);
+  align-items: center;
+  padding: clamp(1.1rem, 2.2vw, 1.9rem);
+  border: 1px solid rgb(44 30 22 / 16%);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 95% 8%, rgb(197 160 89 / 12%), rgb(249 246 240 / 0%) 38%),
+    linear-gradient(180deg, rgb(249 246 240 / 86%), rgb(255 255 255 / 74%));
+}
+
+.offers-bot-kicker {
+  margin: 0;
+  font-family: var(--font-subtitle);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6e4f33;
+}
+
+.offers-bot-copy > h2 {
+  text-align: left !important;
+  margin: 0.5rem 0 0.9rem;
+  font-size: clamp(1.55rem, 2.5vw, 2.35rem);
+  line-height: 1.1;
+}
+
+.offers-bot-lead {
+  margin: 0;
+  max-width: 62ch;
+  color: rgb(44 30 22 / 84%);
+  font-size: clamp(1rem, 1.35vw, 1.08rem);
+  line-height: 1.63;
+}
+
+.offers-bot-beta {
+  margin: 0.9rem 0 0;
+  max-width: 62ch;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid rgb(139 94 52 / 30%);
+  border-radius: 12px;
+  background: rgb(255 255 255 / 62%);
+  color: rgb(44 30 22 / 88%);
+  font-size: 0.96rem;
+  line-height: 1.58;
+}
+
+.offers-bot-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.1rem;
+}
+
+.offers-bot-visual {
+  display: grid;
+  justify-items: start;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.offers-bot-profile {
+  width: min(100%, 280px);
+  height: auto;
+  object-fit: contain;
+  border-radius: 0;
+  border: 1px solid rgb(44 30 22 / 14%);
+  box-shadow: 0 16px 32px rgb(44 30 22 / 15%);
+  background: #e8dfd4;
+}
+
+.offers-bot-meta {
+  display: grid;
+  justify-items: center;
+  gap: 0.18rem;
+}
+
+.offers-bot-name {
+  margin: 0;
+  font-family: var(--font-headline);
+  font-size: 1.15rem;
+  color: #2c1e16;
+}
+
+.offers-bot-status {
+  margin: 0;
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #6e4f33;
+}
+
+@media (width <= 900px) {
+  .offers-bot-shell {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .offers-bot-copy > h2,
+  .offers-bot-lead,
+  .offers-bot-beta {
+    max-width: none;
+  }
+
+  .offers-bot-copy > h2 {
+    text-align: left !important;
+  }
+
+  .offers-bot-visual {
+    justify-items: start;
+  }
+
+  .offers-bot-meta {
+    justify-items: start;
+  }
 }
 /* stylelint-enable no-descending-specificity */
 
@@ -6429,6 +6563,7 @@ main .hero .hero-headline-line {
   align-items: center;
   z-index: 1;
   margin: 0 auto;
+  padding-inline: clamp(1rem, 3vw, 2.25rem);
 }
 
 .stilfrage-copy-column {
@@ -6437,7 +6572,7 @@ main .hero .hero-headline-line {
   flex-direction: column;
   gap: 0;
   padding: 2.5rem 0;
-  margin-left: -2.25rem;
+  margin-left: 0;
 }
 
 .stilfrage-section .coach-intro-copy {
@@ -6486,7 +6621,7 @@ main .hero .hero-headline-line {
 @media (width <= 1200px) {
   .stilfrage-copy-column {
     max-width: 58%;
-    margin-left: -1.5rem;
+    margin-left: 0;
   }
 }
 
@@ -6510,5 +6645,85 @@ main .hero .hero-headline-line {
     max-width: 100%;
     padding-left: 0;
     margin-left: 0;
+  }
+}
+
+@media (orientation: portrait), (width <= 1024px) {
+  .stilfrage-bg {
+    min-height: clamp(24rem, 62vh, 40rem);
+    background-image:
+      linear-gradient(
+        180deg,
+        rgb(44 30 22 / 48%) 0%,
+        rgb(44 30 22 / 62%) 54%,
+        rgb(44 30 22 / 76%) 100%
+      ),
+      image-set(
+        url("../images/backgrounds/sections/natalia_desk_portrait.avif") type("image/avif"),
+        url("../images/backgrounds/sections/natalia_desk_portrait.webp") type("image/webp"),
+        url("../images/backgrounds/sections/natalia_desk_portrait.png") type("image/png")
+      );
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .stilfrage-bg-img {
+    display: none;
+  }
+
+  .stilfrage-section .container {
+    position: absolute;
+    inset: 0;
+    padding: clamp(1.5rem, 6vw, 2.5rem);
+    align-items: center;
+  }
+
+  .stilfrage-copy-column {
+    width: 100%;
+    max-width: min(100%, 34ch);
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+  }
+
+  .stilfrage-section .coach-intro-copy {
+    margin-top: 0;
+    color: rgb(255 255 255 / 92%);
+    font-size: clamp(1.02rem, 3.8vw, 1.2rem);
+    font-weight: 600;
+    line-height: 1.5;
+    text-shadow: 0 2px 18px rgb(20 12 8 / 36%);
+  }
+
+  .stilfrage-section .coach-heading {
+    margin-top: 1.3rem;
+    color: rgb(255 255 255 / 96%);
+    font-size: clamp(1.65rem, 7vw, 2.25rem);
+    text-align: center;
+    text-shadow: 0 2px 18px rgb(20 12 8 / 34%);
+  }
+
+  .stilfrage-section .coach-mission {
+    margin-top: 1.2rem;
+    max-width: min(100%, 31ch);
+    text-align: center;
+  }
+
+  .stilfrage-section .coach-mission-main {
+    color: rgb(255 255 255 / 88%);
+    font-family: var(--font-text);
+    font-size: clamp(0.98rem, 3.5vw, 1.08rem);
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.5;
+    text-wrap: pretty;
+    text-shadow: 0 2px 18px rgb(20 12 8 / 32%);
+  }
+
+  .stilfrage-section .coach-actions {
+    margin-top: 1.8rem;
+    justify-content: center;
   }
 }

@@ -118,6 +118,23 @@
       </section>
       {{ end }}
 
+        <section class="offers-bot-section" aria-labelledby="eskyna-digital-title">
+          <div class="offers-bot-shell">
+            <aside class="offers-bot-visual" aria-label="Profilbild ESKYNA digital">
+              {{ partial "responsive-image.html" (dict "src" "images/eskyna_telegram.png" "alt" "Profilbild ESKYNA digital" "class" "offers-bot-profile" "loading" "lazy" "decoding" "async") }}
+            </aside>
+            <div class="offers-bot-copy">
+              <p class="offers-bot-kicker">ESKYNA digital</p>
+              <h2 id="eskyna-digital-title">Stil beginnt jetzt direkt im Chat.</h2>
+              <p class="offers-bot-lead">Dein ESKYNA Telegram-Bot gibt dir schnelle Stil-Impulse genau dort, wo du sowieso schreibst. Aktuell läuft ESKYNA digital als Beta und wird laufend weiterentwickelt.</p>
+              <div class="offers-bot-actions">
+                {{ partial "button-icon.html" (dict "href" "https://t.me/eskyna_bot" "text" "Telegram-Bot testen" "title" "Telegram-Bot testen" "targetBlank" true) }}
+                {{ partial "button-icon.html" (dict "href" ("estyle" | relLangURL) "text" "Mehr über ESKYNA digital" "title" "Mehr über ESKYNA digital" "class" "btn btn-secondary") }}
+              </div>
+            </div>
+          </div>
+        </section>
+
       {{ with $services.free_bottom }}
       <section class="offers-free-section">
         <h2 class="offers-group-title">{{ .title }}</h2>
