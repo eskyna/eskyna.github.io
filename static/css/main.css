@@ -1583,7 +1583,7 @@ h1 {
   background-image: url("../images/benefits/preisetikett.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: 100% 100%;
 }
 
 .benefits-tag-icon {
