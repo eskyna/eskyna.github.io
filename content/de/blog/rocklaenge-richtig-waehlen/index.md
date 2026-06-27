@@ -4,7 +4,6 @@ seoTitle: "Rocklänge richtig wählen | ESKYNA"
 date: 2026-06-20
 description: "Welche Rocklänge lässt Beine länger wirken? Tipps für Knie, Wade und Knöchel, damit Röcke und Kleider leichter, moderner und stimmiger wirken."
 summary: "So findest du die passende Rocklänge für harmonische Proportionen, von Knie über Wade bis Knöchel."
-slug: "rocklaenge-richtig-waehlen"
 hero: "rocklaenge-titel.png"
 category: "Stil & Proportionen"
 readingTime: 5

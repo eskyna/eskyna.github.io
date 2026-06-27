@@ -4,7 +4,6 @@ seoTitle: "Sommerstoffe, die atmen und kühlen | ESKYNA"
 date: 2026-06-27
 description: "Welche Stoffe sind bei Hitze angenehm? Erfahre, warum Leinen, Baumwolle, Viskose und Seide besser funktionieren als viele synthetische Materialien und wie du sie stilvoll kombinierst."
 summary: "Sommerstoffe richtig wählen: Leinen, Baumwolle, Viskose und Seide im Praxischeck plus Stylingtipps für heiße Tage."
-slug: "sommerstoffe-die-atmen-und-kuehlen"
 hero: "sommerstoffe-hero.png"
 category: "Stil & Garderobe"
 readingTime: 6
