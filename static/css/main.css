@@ -1893,9 +1893,9 @@ h1 {
 .offers-home-tag {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 3.2rem;
-  column-gap: 1rem;
-  align-items: center;
+  grid-template-columns: minmax(0, 1fr);
+  column-gap: 0;
+  place-items: center;
   aspect-ratio: 3 / 2;
   min-height: 0;
   height: auto;
@@ -1927,23 +1927,15 @@ h1 {
   position: relative;
   z-index: 1;
   grid-column: 1;
-  margin-left: clamp(2.1rem, 4.8vw, 2.9rem);
+  margin: 0;
+  transform: translateY(-0.32rem);
   color: #3f2a1a;
-  font-size: 1.05rem;
-  font-weight: 700;
+  font-size: 1.22rem;
+  font-weight: 500;
   line-height: 1.2;
-  white-space: nowrap;
+  white-space: normal;
+  text-align: center;
   text-shadow: none;
-}
-
-.offers-home-tag-sign {
-  position: relative;
-  z-index: 1;
-  grid-column: 2;
-  justify-self: center;
-  width: 1.85rem;
-  height: 1.85rem;
-  object-fit: contain;
 }
 
 @media (width <= 560px) {
@@ -1952,17 +1944,12 @@ h1 {
     width: min(100%, 16rem);
     aspect-ratio: 3 / 2;
     padding: 0.8rem 1.25rem;
-    grid-template-columns: minmax(0, 1fr) 1.95rem;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .offers-home-tag .benefits-tag-text {
-    font-size: 0.86rem;
-    margin-left: 1.35rem;
-  }
-
-  .offers-home-tag-sign {
-    width: 1.55rem;
-    height: 1.55rem;
+    font-size: 0.98rem;
+    transform: translateY(-0.24rem);
   }
 }
 
