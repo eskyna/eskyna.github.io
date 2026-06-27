@@ -15,22 +15,25 @@ Mobile-first PWA fuer die ESKYNA/EStyle Color-ID Fotoanalyse. Das Design orienti
 - `.htaccess` - optionale Apache-Konfiguration fuer eskyna.com
 - `sample-api-response.json` - Beispielantwort fuer Demo-/Frontendtests
 
-## Deployment auf https://eskyna.com
+## Deployment auf https://eskyna.com/estyleapp/
 
-1. Den Inhalt dieses Ordners in das Webroot von `https://eskyna.com` hochladen.
+1. Auf dem Server den Ordner `estyleapp` anlegen und den Inhalt dieses Ordners nach `https://eskyna.com/estyleapp/` hochladen.
 2. `config.js` ist bereits auf denselben Analysedienst wie `https://eskyna.com/estylepwa/` eingestellt.
 3. Die Firebase Web-App-Konfiguration fuer `eskyna-style` ist bereits eingetragen.
 4. In Firebase Authentication nur den Provider `Google` aktivieren. `Email/Password` deaktiviert lassen. Die PWA enthaelt keine E-Mail-Registrierung, kein Passwortfeld und keinen `createUserWithEmailAndPassword`-Flow.
 5. In Firebase unter den autorisierten Domains `eskyna.com` hinterlegen. Falls lokal getestet wird, auch `localhost` erlauben.
 6. Die App muss ueber HTTPS laufen, sonst verweigern Browser Kamera, PWA-Installation und Push.
-7. Nach Aenderungen an gecachten Dateien ggf. in `sw.js` `CACHE_NAME` erhoehen, damit bestehende Installationen die neue Version laden. In dieser Version steht der Cache auf `eskyna-estyle-pwa-v9`.
+7. Nach Aenderungen an gecachten Dateien ggf. in `sw.js` `CACHE_NAME` erhoehen, damit bestehende Installationen die neue Version laden. In dieser Version steht der Cache auf `eskyna-estyle-pwa-v10`.
+8. Wichtig fuer die Installation: `manifest.webmanifest` ist fest auf `id`, `start_url` und `scope` unter `/estyleapp/` eingestellt. Dadurch wird beim Installieren `https://eskyna.com/estyleapp/` statt `https://eskyna.com/` als PWA verwendet.
 
-Wenn die PWA nicht im Root, sondern z. B. unter `/app/` liegt, muessen `start_url`, `scope` im Manifest sowie die Pfade im Service Worker entsprechend angepasst werden.
+Wenn die PWA spaeter in einen anderen Ordner umzieht, muessen `appBasePath` in `config.js`, `id`, `start_url`, `scope` im Manifest sowie die Service-Worker-Registrierung angepasst werden.
 
 ## Aktuelle `config.js`
 
 ```js
 window.ESKYNA_CONFIG = {
+  appBasePath: "/estyleapp/",
+  pwaStartUrl: "/estyleapp/#welcome",
   apiEndpoint: "https://api.eskyna-style.workers.dev/v1/images",
   demoMode: false,
   uploadMode: "binary",
@@ -193,6 +196,20 @@ Wenn der Worker Mehrbild-Analyse serverseitig nutzen soll, muss er `photos[]` au
 ### Detektionsdetails
 
 Auf dem Ergebnisbild gibt es einen kleinen `i`-Button. Er oeffnet ein Bottom Sheet mit technischen Detektionsdetails aus der API-Antwort, z. B. Gesicht erkannt, Confidence, Fotoqualitaet, Licht, Hintergrund oder andere Felder, die Begriffe wie `detection`, `face`, `quality`, `confidence`, `lighting`, `skin`, `pose` usw. enthalten. Die komplette API-Antwort ist weiterhin unter `Rohdaten` sichtbar.
+
+### Installation gezielt fuer `/estyleapp/`
+
+Diese Version ist bewusst nicht fuer das Domain-Root konfiguriert. Das Manifest enthaelt:
+
+```json
+{
+  "id": "/estyleapp/",
+  "start_url": "/estyleapp/#welcome",
+  "scope": "/estyleapp/"
+}
+```
+
+Der Service Worker wird mit Scope `/estyleapp/` registriert. Falls bereits eine alte Root-PWA installiert wurde, diese auf dem Smartphone entfernen und die neue Version ueber `https://eskyna.com/estyleapp/` neu installieren.
 
 ### PWA Installation
 

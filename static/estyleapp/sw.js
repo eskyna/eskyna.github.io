@@ -1,4 +1,4 @@
-const CACHE_NAME = "eskyna-estyle-pwa-v9";
+const CACHE_NAME = "eskyna-estyle-pwa-v10";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -28,7 +28,11 @@ let firebaseMessagingReady = false;
 
 self.addEventListener("notificationclick", (event) => {
   event.notification.close();
-  const targetUrl = new URL(event.notification.data?.url || "./#welcome", self.location.href).href;
+  const configuredStartUrl = self.ESKYNA_CONFIG?.pwaStartUrl || "/estyleapp/#welcome";
+  const targetUrl = new URL(
+    event.notification.data?.url || configuredStartUrl,
+    self.location.origin
+  ).href;
   event.waitUntil(
     self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((clients) => {
       for (const client of clients) {
@@ -79,7 +83,7 @@ try {
         tag: data.tag || "eskyna-patchnotes",
         renotify: data.renotify === "true" || data.renotify === true,
         data: {
-          url: data.url || data.link || "./#welcome",
+          url: data.url || data.link || self.ESKYNA_CONFIG?.pwaStartUrl || "/estyleapp/#welcome",
         },
       };
 

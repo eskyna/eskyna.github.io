@@ -1727,12 +1727,33 @@ function registerServiceWorker() {
   });
 }
 
+function getAppBasePath() {
+  const configuredPath = CONFIG.appBasePath || "/estyleapp/";
+  return configuredPath.endsWith("/") ? configuredPath : `${configuredPath}/`;
+}
+
 async function getServiceWorkerRegistration() {
   if (!("serviceWorker" in navigator))
     throw new Error("Service Worker werden von diesem Browser nicht unterstützt.");
   if (state.serviceWorkerRegistration) return state.serviceWorkerRegistration;
-  const existing = await navigator.serviceWorker.getRegistration();
-  state.serviceWorkerRegistration = existing || (await navigator.serviceWorker.register("sw.js"));
+
+  const appBasePath = getAppBasePath();
+  const appScopeUrl = new URL(appBasePath, location.origin);
+  const swScriptUrl = new URL("sw.js", appScopeUrl);
+  const registrations = await navigator.serviceWorker.getRegistrations();
+  const existing = registrations.find((registration) => {
+    try {
+      return new URL(registration.scope).pathname === appScopeUrl.pathname;
+    } catch (error) {
+      return false;
+    }
+  });
+
+  state.serviceWorkerRegistration =
+    existing ||
+    (await navigator.serviceWorker.register(swScriptUrl.pathname, {
+      scope: appScopeUrl.pathname,
+    }));
   return state.serviceWorkerRegistration;
 }
 

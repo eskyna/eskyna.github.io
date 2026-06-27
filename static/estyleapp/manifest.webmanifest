@@ -2,8 +2,8 @@
   "name": "EStyle Color ID",
   "short_name": "EStyle",
   "description": "Digitale Farbtypanalyse per Foto für ESKYNA Kundinnen und Kunden.",
-  "start_url": "/#welcome",
-  "scope": "/",
+  "start_url": "/estyleapp/#welcome",
+  "scope": "/estyleapp/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f6f2ee",
@@ -28,5 +28,6 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "id": "/estyleapp/"
 }

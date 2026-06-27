@@ -3,6 +3,8 @@
 // Diese Datei ist absichtlich sowohl im Browser als auch im Service Worker ladbar.
 (function initEskynaConfig(globalScope) {
   const config = {
+    appBasePath: "/estyleapp/",
+    pwaStartUrl: "/estyleapp/#welcome",
     apiEndpoint: "https://api.eskyna-style.workers.dev/v1/images",
     // Auf true setzen, wenn die UI ohne Backend mit sample-api-response.json getestet werden soll.
     demoMode: false,
