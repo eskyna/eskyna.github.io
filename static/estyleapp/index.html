@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f6f2ee" />
+    <meta name="description" content="EStyle Color ID - digitale Farbtypanalyse per Foto." />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="EStyle" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <title>EStyle Color ID</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="assets/icon-180.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <noscript
+      >Diese App benötigt JavaScript, damit Kamera, Upload und Analyse funktionieren.</noscript
+    >
+
+    <main class="app-shell" id="appShell">
+      <section class="view view-welcome is-active" id="view-welcome" aria-labelledby="welcomeTitle">
+        <img class="welcome-bg" src="assets/welcome-bg.webp" alt="" decoding="async" />
+        <div class="welcome-gradient" aria-hidden="true"></div>
+        <div class="welcome-content">
+          <div class="welcome-brand">
+            <img src="assets/logo-white.png" alt="" class="welcome-logo" width="86" height="86" />
+            <h1 id="welcomeTitle">EStyle</h1>
+            <p>Dein digitaler Stylist</p>
+          </div>
+          <div class="welcome-actions">
+            <button type="button" class="btn btn-glass" data-route="login">Loslegen</button>
+            <button type="button" class="btn btn-text-light" data-route="create">
+              Color ID ansehen
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="view login-view" id="view-login" aria-labelledby="loginTitle">
+        <div class="login-inner">
+          <button
+            type="button"
+            class="back-link"
+            data-route="welcome"
+            aria-label="Zurück zur Startseite"
+          >
+            ‹
+          </button>
+          <div class="brand-lockup">
+            <img src="assets/logo-gold.png" alt="" class="brand-mark" width="74" height="74" />
+            <h1>EStyle</h1>
+          </div>
+
+          <form class="login-form" id="loginForm">
+            <h2 id="loginTitle">Erstelle einen Account</h2>
+            <p>Gib deine Email ein, um einen Account zu erstellen</p>
+            <label class="sr-only" for="emailInput">Email</label>
+            <input
+              id="emailInput"
+              name="email"
+              inputmode="email"
+              autocomplete="email"
+              placeholder="email@domain.com"
+              type="email"
+              required
+            />
+            <button type="submit" class="btn btn-primary">Continue</button>
+          </form>
+
+          <div class="divider" aria-hidden="true"><span></span><em>or</em><span></span></div>
+
+          <div class="oauth-stack">
+            <button type="button" class="oauth-button" data-action="oauth-placeholder">
+              <span class="google-icon" aria-hidden="true">G</span>
+              <span>Continue with Google</span>
+            </button>
+            <button type="button" class="oauth-button" data-action="oauth-placeholder">
+              <span class="apple-icon" aria-hidden="true">●</span>
+              <span>Continue with Apple</span>
+            </button>
+          </div>
+
+          <p class="legal-copy">
+            By clicking continue, you agree to our <a href="#">Terms of Service</a><br />and
+            <a href="#">Privacy Policy</a>
+          </p>
+        </div>
+      </section>
+
+      <section class="view app-view" id="view-create" aria-labelledby="createTitle">
+        <div class="app-bg"></div>
+        <header class="top-bar">
+          <button
+            type="button"
+            class="icon-button"
+            data-action="open-menu"
+            aria-label="Menü öffnen"
+          >
+            <span></span>
+          </button>
+          <h1 id="createTitle">EStyle Id erstellen</h1>
+          <button
+            type="button"
+            class="avatar-button"
+            data-route="result"
+            aria-label="Profil öffnen"
+          >
+            <img src="assets/avatar.webp" alt="" />
+          </button>
+        </header>
+
+        <div class="scroll-area create-scroll">
+          <article class="light-card">
+            <h2>Natürliches Licht</h2>
+            <p>
+              Foto bei Tageslicht machen, am besten vor einem Fenster (kein Blitz, keine direkte
+              Sonne)
+            </p>
+          </article>
+
+          <div class="good-photo-wrap" aria-label="Beispiel für ein geeignetes Foto">
+            <img src="assets/photo-good.webp" alt="Frontales Gesicht bei neutralem Licht" />
+            <span class="check-badge" aria-hidden="true"></span>
+          </div>
+
+          <article class="rules-card" aria-label="Foto-Regeln">
+            <div class="rule-item">
+              <div class="rule-image">
+                <img src="assets/photo-bad-1.webp" alt="Beispiel mit Make-up" /><span
+                  class="x-badge"
+                  aria-hidden="true"
+                ></span>
+              </div>
+              <div>
+                <h3>1. Gesicht pur &amp; sichtbar</h3>
+                <p>
+                  Kein Make-up, keine Brille, keine Filter. Haare offen oder nach hinten gelegt.
+                </p>
+              </div>
+            </div>
+            <div class="rule-item">
+              <div class="rule-image">
+                <img src="assets/photo-bad-2.webp" alt="Beispiel mit unruhigem Hintergrund" /><span
+                  class="x-badge"
+                  aria-hidden="true"
+                ></span>
+              </div>
+              <div>
+                <h3>2. Neutraler Hintergrund</h3>
+                <p>
+                  Heller, einfarbiger Hintergrund ohne sichtbare Gegenstände oder andere Personen.
+                </p>
+              </div>
+            </div>
+            <div class="rule-item">
+              <div class="rule-image">
+                <img src="assets/photo-bad-3.webp" alt="Beispiel seitliche Haltung" /><span
+                  class="x-badge"
+                  aria-hidden="true"
+                ></span>
+              </div>
+              <div>
+                <h3>3. Kamera &amp; Haltung</h3>
+                <p>In die Kamera blicken, Kopf gerade halten. Abstand ca. 30-40 cm.</p>
+              </div>
+            </div>
+            <div class="rule-item">
+              <div class="rule-image">
+                <img src="assets/photo-bad-4.webp" alt="Beispiel mit Accessoires" /><span
+                  class="x-badge"
+                  aria-hidden="true"
+                ></span>
+              </div>
+              <div>
+                <h3>4. Kleidung</h3>
+                <p>Weißes, schlichtes Oberteil ohne Muster oder Accessoires</p>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="sticky-action">
+          <button type="button" class="btn btn-brand" data-route="camera">
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" />EStyle ID erstellen
+          </button>
+        </div>
+        <nav class="tab-bar" aria-label="Hauptnavigation">
+          <button class="tab-item active" type="button" data-route="create">
+            <span class="tab-color" aria-hidden="true"></span><small>Color ID</small>
+          </button>
+          <button class="tab-item" type="button">
+            <span class="tab-closet" aria-hidden="true"></span><small>Schrank</small>
+          </button>
+          <button class="tab-item" type="button">
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" /><small>KI-Stylist</small>
+          </button>
+          <button class="tab-item" type="button">
+            <span class="tab-shop" aria-hidden="true"></span><small>Mein Shop</small>
+          </button>
+          <button class="tab-item" type="button">
+            <span class="tab-profile" aria-hidden="true"></span><small>Profil</small>
+          </button>
+        </nav>
+      </section>
+
+      <section class="view app-view" id="view-camera" aria-labelledby="cameraTitle">
+        <div class="app-bg"></div>
+        <header class="top-bar">
+          <button
+            type="button"
+            class="icon-button back-menu"
+            data-route="create"
+            aria-label="Zurück"
+          >
+            <span></span>
+          </button>
+          <h1 id="cameraTitle">Foto aufnehmen</h1>
+          <button
+            type="button"
+            class="avatar-button"
+            data-route="result"
+            aria-label="Profil öffnen"
+          >
+            <img src="assets/avatar.webp" alt="" />
+          </button>
+        </header>
+
+        <div class="scroll-area camera-scroll">
+          <article class="camera-tip">
+            <strong>Bereit für deine Analyse?</strong>
+            <span>Nutze Tageslicht, ein weißes Oberteil und einen ruhigen Hintergrund.</span>
+          </article>
+
+          <div class="camera-card" id="cameraCard">
+            <video id="cameraVideo" autoplay playsinline muted></video>
+            <img id="photoPreview" alt="Aufgenommenes Foto" hidden />
+            <canvas id="captureCanvas" hidden></canvas>
+            <div class="camera-empty" id="cameraEmpty">
+              <img src="assets/logo-gold.png" alt="" aria-hidden="true" />
+              <strong>Kamera starten</strong>
+              <span>Die Aufnahme wird nur an deine Analyse-API gesendet.</span>
+            </div>
+          </div>
+
+          <div class="camera-actions" id="cameraActions">
+            <button type="button" class="btn btn-outline" data-action="start-camera">
+              Kamera starten
+            </button>
+            <button type="button" class="btn btn-outline" data-action="switch-camera">
+              Kamera wechseln
+            </button>
+            <button
+              type="button"
+              class="capture-button"
+              data-action="capture-photo"
+              aria-label="Foto aufnehmen"
+            >
+              <span></span>
+            </button>
+            <button type="button" class="btn btn-outline" data-action="pick-file">
+              Foto auswählen
+            </button>
+            <input id="fileInput" type="file" accept="image/*" capture="user" hidden />
+          </div>
+
+          <div class="review-actions" id="reviewActions" hidden>
+            <button type="button" class="btn btn-outline" data-action="retake-photo">
+              Neu aufnehmen
+            </button>
+            <button type="button" class="btn btn-brand btn-wide" data-action="send-photo">
+              <img src="assets/logo-gold.png" alt="" aria-hidden="true" />Analyse starten
+            </button>
+          </div>
+
+          <p class="api-note" id="cameraMessage" role="status"></p>
+        </div>
+      </section>
+
+      <section class="view app-view" id="view-result" aria-labelledby="resultTitle">
+        <div class="app-bg"></div>
+        <header class="top-bar">
+          <button
+            type="button"
+            class="icon-button"
+            data-action="open-menu"
+            aria-label="Menü öffnen"
+          >
+            <span></span>
+          </button>
+          <h1 id="resultTitle">EStyle Id</h1>
+          <button
+            type="button"
+            class="avatar-button"
+            data-route="result"
+            aria-label="Profil öffnen"
+          >
+            <img src="assets/avatar.webp" alt="" />
+          </button>
+        </header>
+
+        <div class="scroll-area result-scroll">
+          <article class="result-card">
+            <div class="result-head">
+              <img
+                id="resultPortrait"
+                src="assets/portrait-default.webp"
+                alt="Analysiertes Portrait"
+                class="result-portrait"
+              />
+              <div class="result-label">
+                <span>Farbtyp:</span>
+                <strong id="colorTypeText">Noch keine Analyse</strong>
+                <div class="dot-row" aria-hidden="true"><i></i><i></i><i></i></div>
+              </div>
+            </div>
+
+            <section class="palette-section" id="baseSection">
+              <h2>Deine Grundfarben</h2>
+              <div class="swatch-row" id="baseColors"></div>
+            </section>
+
+            <section class="palette-section" id="accentSection">
+              <h2>Deine Akzentfarben</h2>
+              <div class="swatch-row" id="accentColors"></div>
+            </section>
+
+            <section class="palette-section" id="noGoSection">
+              <h2>No-Go- Farben</h2>
+              <div class="swatch-row compact" id="noGoColors"></div>
+              <p class="no-go-copy" id="noGoText">
+                Mache zuerst ein Foto, damit deine persönlichen Farben angezeigt werden.
+              </p>
+            </section>
+
+            <details class="raw-response" id="rawResponse" hidden>
+              <summary>Rohdaten der API anzeigen</summary>
+              <pre id="rawJson"></pre>
+            </details>
+          </article>
+        </div>
+
+        <div class="sticky-action">
+          <button type="button" class="btn btn-brand" data-action="style-question">
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" />Stell mir eine Style-Frage
+          </button>
+        </div>
+        <nav class="tab-bar" aria-label="Hauptnavigation">
+          <button class="tab-item active" type="button" data-route="result">
+            <span class="tab-color" aria-hidden="true"></span><small>Color ID</small>
+          </button>
+          <button class="tab-item" type="button">
+            <span class="tab-closet" aria-hidden="true"></span><small>Schrank</small>
+          </button>
+          <button class="tab-item" type="button">
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" /><small>KI-Stylist</small>
+          </button>
+          <button class="tab-item" type="button">
+            <span class="tab-shop" aria-hidden="true"></span><small>Mein Shop</small>
+          </button>
+          <button class="tab-item" type="button">
+            <span class="tab-profile" aria-hidden="true"></span><small>Profil</small>
+          </button>
+        </nav>
+      </section>
+
+      <div class="menu-overlay" id="menuOverlay" hidden>
+        <button
+          type="button"
+          class="menu-backdrop"
+          data-action="close-menu"
+          aria-label="Menü schließen"
+        ></button>
+        <aside class="side-menu" aria-label="Menü">
+          <div class="menu-brand">
+            <img src="assets/logo-gold.png" alt="" /><strong>EStyle</strong>
+          </div>
+          <button type="button" data-route="create">Color ID erstellen</button>
+          <button type="button" data-route="camera">Fotoanalyse starten</button>
+          <button type="button" data-route="result">Meine Analyse</button>
+          <button type="button" data-action="install-app" id="installButton" hidden>
+            App installieren
+          </button>
+          <button type="button" data-action="close-menu">Schließen</button>
+        </aside>
+      </div>
+
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </main>
+
+    <script src="config.js"></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
