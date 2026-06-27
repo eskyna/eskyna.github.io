@@ -1,5 +1,6 @@
 ---
 title: "Rocklänge richtig wählen: Welche Länge lässt Beine länger wirken?"
+seoTitle: "Rocklänge richtig wählen | ESKYNA"
 date: 2026-06-20
 description: "Welche Rocklänge lässt Beine länger wirken? Tipps für Knie, Wade und Knöchel, damit Röcke und Kleider leichter, moderner und stimmiger wirken."
 summary: "So findest du die passende Rocklänge für harmonische Proportionen, von Knie über Wade bis Knöchel."
@@ -166,11 +167,9 @@ Achte dabei auf drei Fragen:
 
 1. **Wo bleibt der Blick hängen?**
 
-Wenn dein Auge sofort auf den Saum fällt, kann die Länge unruhig wirken.
-2. **Wirkt das Bein unterbrochen oder verlängert?**
+Wenn dein Auge sofort auf den Saum fällt, kann die Länge unruhig wirken. 2. **Wirkt das Bein unterbrochen oder verlängert?**
 
-Eine gute Länge führt den Blick weiter, statt ihn hart zu stoppen.
-3. **Entsteht Leichtigkeit im Look?**
+Eine gute Länge führt den Blick weiter, statt ihn hart zu stoppen. 3. **Entsteht Leichtigkeit im Look?**
 
 Besonders im Sommer darf ein Outfit atmen. Sichtbare schmale Stellen, Bewegung und fließende Linien helfen dabei.
 

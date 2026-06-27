@@ -5417,6 +5417,10 @@ body :where(button) {
   border: 1px solid var(--journal-line);
 }
 
+.blog-featured-card.featured-media-right .blog-featured-media {
+  order: 2;
+}
+
 .blog-featured-image {
   width: 100%;
   height: auto;
@@ -5865,6 +5869,10 @@ body :where(button) {
   .blog-hero-media {
     justify-self: stretch;
     width: 100%;
+  }
+
+  .blog-featured-card.featured-media-right .blog-featured-media {
+    order: 0;
   }
 
   .blog-toc-desktop {

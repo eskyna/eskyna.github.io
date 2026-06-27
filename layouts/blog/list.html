@@ -41,7 +41,7 @@
       {{ with $featured }}
         {{ $post := . }}
         {{ $postReadingTime := default $post.ReadingTime $post.Params.readingTime }}
-        <article class="blog-featured-card">
+        <article class="blog-featured-card{{ if $post.Params.featuredImageRight }} featured-media-right{{ end }}">
           {{ $heroName := or $post.Params.hero $post.Params.image }}
           {{ if $heroName }}
             {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}

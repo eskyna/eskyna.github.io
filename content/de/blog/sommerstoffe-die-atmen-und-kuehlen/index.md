@@ -8,6 +8,7 @@ slug: "sommerstoffe-die-atmen-und-kuehlen"
 hero: "sommerstoffe-hero.png"
 category: "Stil & Garderobe"
 readingTime: 6
+featuredImageRight: true
 instagramHref: "https://www.instagram.com/p/DaF9IvWCnMK/?img_index=1"
 tags:
   - Sommerstoffe
@@ -36,7 +37,7 @@ Wenn Kleidung bei Hitze unangenehm wird, liegt das oft nicht am Schnitt allein. 
 
 ![Zwei sommerlich gekleidete Personen in hellen, lockeren Stoffen vor heller Wand mit dem Text Sommerstoffe die atmen und kühlen.](sommerstoffe-hero.png)
 
-*Leichte Stoffe, helle Farben und lockere Schnitte machen Sommerlooks angenehm und stilvoll zugleich.*
+_Leichte Stoffe, helle Farben und lockere Schnitte machen Sommerlooks angenehm und stilvoll zugleich._
 
 ## Inhalt
 
@@ -62,7 +63,7 @@ Offizielle Empfehlungen zur Hitzeprävention nennen leichte, locker sitzende und
 
 ![Übersicht mit Sommerstoffen wie Leinen, Baumwolle, Viskose und Seide sowie weniger hitzefreundlichen Materialien wie Polyester, Acryl, Nylon und synthetischem Satin.](sommerstoffe-overview.png)
 
-*Der Unterschied liegt im Material. Manche Stoffe lassen Luft und Feuchtigkeit besser zirkulieren, andere speichern Wärme schneller.*
+_Der Unterschied liegt im Material. Manche Stoffe lassen Luft und Feuchtigkeit besser zirkulieren, andere speichern Wärme schneller._
 
 ## Die besten Sommerstoffe für heiße Tage
 
@@ -85,7 +86,7 @@ Leinen knittert. Genau das gehört zu seiner entspannten Eleganz. Im Sommer darf
 
 ![Sommerliches rosafarbenes Leinen-Set mit lockerem Oberteil, Shorts, Goldschmuck und geflochtener Tasche.](sommerstoffe-women-1.png)
 
-*Monochrome Sommerlooks wirken besonders hochwertig, wenn Material, Farbe und Accessoires bewusst zusammenspielen.*
+_Monochrome Sommerlooks wirken besonders hochwertig, wenn Material, Farbe und Accessoires bewusst zusammenspielen._
 
 ### 2. Baumwolle: unkompliziert, hautfreundlich, vielseitig
 
@@ -106,7 +107,7 @@ Styling-Tipp: Baumwolle wirkt schnell sehr casual. Mit Gürtel, Schmuck, Sonnenb
 
 ![Frau in weißer Bluse mit schwarzen Punkten, weißer Hose, schwarzem Gürtel und schwarzer Tasche.](sommerstoffe-women-2.png)
 
-*Eine leichte Bluse in Weiß wirkt frisch. Schwarze Accessoires geben dem Sommerlook sofort mehr Kontur.*
+_Eine leichte Bluse in Weiß wirkt frisch. Schwarze Accessoires geben dem Sommerlook sofort mehr Kontur._
 
 ### 3. Viskose: weich, fließend, elegant
 
@@ -167,7 +168,7 @@ Das bedeutet nicht, dass Schwarz im Sommer verboten ist. Wenn du schnell überhi
 
 ![Frau in einem weißen, locker fallenden ärmellosen Sommerkleid mit kleiner geflochtener Tasche.](sommerstoffe-women-3.png)
 
-*Helle Farben, A-Linie und Abstand zur Haut. Ein einfacher Sommerlook kann genau deshalb so angenehm wirken.*
+_Helle Farben, A-Linie und Abstand zur Haut. Ein einfacher Sommerlook kann genau deshalb so angenehm wirken._
 
 ## Styling-Tipp: Locker sitzt besser
 
@@ -185,7 +186,7 @@ So bleibt der Look stilvoll, ohne dass er streng oder überladen wirkt.
 
 ![Mann in hellem kurzärmligem Leinenhemd und weißer Hose.](sommerstoffe-men.png)
 
-*Sommerliche Eleganz für Herren. Ein helles Leinenhemd wirkt entspannt, gepflegt und hitzetauglich.*
+_Sommerliche Eleganz für Herren. Ein helles Leinenhemd wirkt entspannt, gepflegt und hitzetauglich._
 
 ## Outfit-Ideen aus der Bildstrecke
 
