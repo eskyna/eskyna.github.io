@@ -9,7 +9,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-title" content="EStyle" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <title>EStyle Color ID</title>
+    <title>EStyle Color ID | Digitale Farbtypanalyse online</title>
     <link rel="manifest" href="manifest.webmanifest" />
     <link rel="apple-touch-icon" href="assets/icon-180.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png" />
@@ -22,11 +22,22 @@
 
     <main class="app-shell" id="appShell">
       <section class="view view-welcome is-active" id="view-welcome" aria-labelledby="welcomeTitle">
-        <img class="welcome-bg" src="assets/welcome-bg.webp" alt="" decoding="async" />
+        <img
+          class="welcome-bg"
+          src="assets/welcome-bg.webp"
+          alt="Sanfter Hintergrund in warmen Farbtoenen"
+          decoding="async"
+        />
         <div class="welcome-gradient" aria-hidden="true"></div>
         <div class="welcome-content">
           <div class="welcome-brand">
-            <img src="assets/logo-white.png" alt="" class="welcome-logo" width="86" height="86" />
+            <img
+              src="assets/logo-white.png"
+              alt="EStyle Logo in Weiss"
+              class="welcome-logo"
+              width="86"
+              height="86"
+            />
             <h1 id="welcomeTitle">EStyle</h1>
             <p>Dein digitaler Stylist</p>
           </div>
@@ -47,7 +58,13 @@
             ‹
           </button>
           <div class="brand-lockup">
-            <img src="assets/logo-gold.png" alt="" class="brand-mark" width="74" height="74" />
+            <img
+              src="assets/logo-gold.png"
+              alt="EStyle Logo in Gold"
+              class="brand-mark"
+              width="74"
+              height="74"
+            />
             <h1>EStyle</h1>
           </div>
 
@@ -102,7 +119,7 @@
             data-route="result"
             aria-label="Profil öffnen"
           >
-            <img src="assets/avatar.webp" alt="" />
+            <img src="assets/avatar.webp" alt="Profilbild" />
           </button>
         </header>
 
@@ -178,7 +195,7 @@
 
         <div class="sticky-action">
           <button type="button" class="btn btn-brand" data-route="camera">
-            <img src="assets/logo-gold.png" alt="" aria-hidden="true" />EStyle ID erstellen
+            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />EStyle ID erstellen
           </button>
         </div>
         <nav class="tab-bar" aria-label="Hauptnavigation">
@@ -189,7 +206,7 @@
             <span class="tab-closet" aria-hidden="true"></span><small>Schrank</small>
           </button>
           <button class="tab-item" type="button">
-            <img src="assets/logo-gold.png" alt="" aria-hidden="true" /><small>KI-Stylist</small>
+            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" /><small>KI-Stylist</small>
           </button>
           <button class="tab-item" type="button">
             <span class="tab-shop" aria-hidden="true"></span><small>Mein Shop</small>
@@ -218,7 +235,7 @@
             data-route="result"
             aria-label="Profil öffnen"
           >
-            <img src="assets/avatar.webp" alt="" />
+            <img src="assets/avatar.webp" alt="Profilbild" />
           </button>
         </header>
 
@@ -233,7 +250,7 @@
             <img id="photoPreview" alt="Aufgenommenes Foto" hidden />
             <canvas id="captureCanvas" hidden></canvas>
             <div class="camera-empty" id="cameraEmpty">
-              <img src="assets/logo-gold.png" alt="" aria-hidden="true" />
+              <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />
               <strong>Kamera starten</strong>
               <span>Die Aufnahme wird nur an deine Analyse-API gesendet.</span>
             </div>
@@ -265,7 +282,7 @@
               Neu aufnehmen
             </button>
             <button type="button" class="btn btn-brand btn-wide" data-action="send-photo">
-              <img src="assets/logo-gold.png" alt="" aria-hidden="true" />Analyse starten
+              <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />Analyse starten
             </button>
           </div>
 
@@ -291,7 +308,7 @@
             data-route="result"
             aria-label="Profil öffnen"
           >
-            <img src="assets/avatar.webp" alt="" />
+            <img src="assets/avatar.webp" alt="Profilbild" />
           </button>
         </header>
 
@@ -338,7 +355,7 @@
 
         <div class="sticky-action">
           <button type="button" class="btn btn-brand" data-action="style-question">
-            <img src="assets/logo-gold.png" alt="" aria-hidden="true" />Stell mir eine Style-Frage
+            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />Stell mir eine Style-Frage
           </button>
         </div>
         <nav class="tab-bar" aria-label="Hauptnavigation">
@@ -349,7 +366,7 @@
             <span class="tab-closet" aria-hidden="true"></span><small>Schrank</small>
           </button>
           <button class="tab-item" type="button">
-            <img src="assets/logo-gold.png" alt="" aria-hidden="true" /><small>KI-Stylist</small>
+            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" /><small>KI-Stylist</small>
           </button>
           <button class="tab-item" type="button">
             <span class="tab-shop" aria-hidden="true"></span><small>Mein Shop</small>
@@ -369,10 +386,10 @@
         ></button>
         <aside class="side-menu" aria-label="Menü">
           <div class="menu-brand">
-            <img src="assets/logo-gold.png" alt="" /><strong>EStyle</strong>
+            <img src="assets/logo-gold.png" alt="EStyle Logo" /><strong>EStyle</strong>
           </div>
           <div class="menu-user" id="menuUser" hidden>
-            <img id="menuUserAvatar" src="assets/avatar.webp" alt="" width="42" height="42" />
+            <img id="menuUserAvatar" src="assets/avatar.webp" alt="Profilbild" width="42" height="42" />
             <div>
               <strong id="menuUserName">EStyle Nutzerin</strong>
               <span id="menuUserEmail"></span>
