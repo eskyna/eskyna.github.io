@@ -7,13 +7,30 @@ const DEFAULT_CONFIG = {
   maxUploadWidth: 1600,
   jpegQuality: 0.88,
   timeoutMs: 45000,
+  auth: {
+    enabled: true,
+    required: true,
+    provider: "firebase",
+    firebaseSdkVersion: "10.12.4",
+    allowedProviders: ["google"],
+    redirectAfterLogin: "create",
+    attachIdTokenToAnalysisRequest: false,
+    firebaseConfig: {
+      apiKey: "",
+      authDomain: "",
+      projectId: "",
+      appId: "",
+    },
+  },
 };
 
-const CONFIG = { ...DEFAULT_CONFIG, ...(window.ESKYNA_CONFIG || {}) };
+const CONFIG = mergeConfig(DEFAULT_CONFIG, window.ESKYNA_CONFIG || {});
 const STORAGE_KEYS = {
-  email: "eskyna:email",
+  authUser: "eskyna:authUser",
+  authReturnRoute: "eskyna:authReturnRoute",
   analysis: "eskyna:lastAnalysis",
 };
+const PROTECTED_ROUTES = new Set(["create", "camera", "result"]);
 
 const SAMPLE_ANALYSIS = {
   colorType: "SANFT- KALT",
@@ -52,6 +69,15 @@ const state = {
   latestAnalysis: null,
   latestRaw: null,
   deferredInstallPrompt: null,
+  returnRoute: CONFIG.auth?.redirectAfterLogin || "create",
+  auth: {
+    status: "idle",
+    user: null,
+    idToken: "",
+    error: "",
+    initPromise: null,
+    firebase: null,
+  },
 };
 
 const $ = (selector, root = document) => root.querySelector(selector);
@@ -59,11 +85,17 @@ const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 
 const els = {
   views: $$(".view"),
-  loginForm: $("#loginForm"),
-  emailInput: $("#emailInput"),
+  authStatus: $("#authStatus"),
+  loginButtons: $$("[data-provider]"),
   menuOverlay: $("#menuOverlay"),
+  menuUser: $("#menuUser"),
+  menuUserAvatar: $("#menuUserAvatar"),
+  menuUserName: $("#menuUserName"),
+  menuUserEmail: $("#menuUserEmail"),
+  logoutButton: $("#logoutButton"),
   installButton: $("#installButton"),
   toast: $("#toast"),
+  avatarImages: $$(".avatar-button img"),
   cameraVideo: $("#cameraVideo"),
   cameraCard: $("#cameraCard"),
   cameraEmpty: $("#cameraEmpty"),
@@ -88,11 +120,21 @@ init();
 function init() {
   restoreUserState();
   bindEvents();
+  renderAuthState();
   renderResult(state.latestAnalysis, state.latestRaw);
   registerServiceWorker();
 
   const initialRoute = sanitizeRoute(location.hash.replace("#", "")) || "welcome";
+  state.returnRoute = PROTECTED_ROUTES.has(initialRoute)
+    ? initialRoute
+    : CONFIG.auth?.redirectAfterLogin || "create";
   navigate(initialRoute, { replace: true, silent: true });
+  initAuth().catch((error) => {
+    console.error(error);
+    state.auth.status = "error";
+    state.auth.error = authErrorMessage(error);
+    renderAuthState();
+  });
 }
 
 function bindEvents() {
@@ -137,8 +179,11 @@ function bindEvents() {
       case "send-photo":
         await sendPhotoForAnalysis(actionButton);
         break;
-      case "oauth-placeholder":
-        showToast("Google/Apple Login kann mit deinem Auth-Provider verbunden werden.");
+      case "login-google":
+        await signInWithProvider("google", actionButton);
+        break;
+      case "logout":
+        await signOutUser();
         break;
       case "style-question":
         showToast("Der KI-Stylist kann hier später mit deinem Chat-Endpunkt verbunden werden.");
@@ -149,14 +194,6 @@ function bindEvents() {
       default:
         break;
     }
-  });
-
-  els.loginForm.addEventListener("submit", (event) => {
-    event.preventDefault();
-    const email = els.emailInput.value.trim();
-    if (!email) return;
-    safeLocalStorageSet(STORAGE_KEYS.email, email);
-    navigate("create");
   });
 
   els.fileInput.addEventListener("change", async (event) => {
@@ -187,8 +224,14 @@ function bindEvents() {
 }
 
 function restoreUserState() {
-  const email = safeLocalStorageGet(STORAGE_KEYS.email);
-  if (email) els.emailInput.value = email;
+  const storedUser = safeJsonParse(safeLocalStorageGet(STORAGE_KEYS.authUser));
+  if (storedUser?.uid) {
+    state.auth.user = storedUser;
+    state.auth.status = "cached";
+  }
+
+  const storedReturnRoute = sanitizeRoute(safeSessionStorageGet(STORAGE_KEYS.authReturnRoute));
+  if (storedReturnRoute) state.returnRoute = storedReturnRoute;
 
   const storedAnalysis = safeJsonParse(safeLocalStorageGet(STORAGE_KEYS.analysis));
   if (storedAnalysis?.analysis) {
@@ -203,8 +246,16 @@ function sanitizeRoute(route) {
 }
 
 function navigate(route, options = {}) {
-  const nextRoute = sanitizeRoute(route) || "welcome";
+  let nextRoute = sanitizeRoute(route) || "welcome";
   const { replace = false, silent = false } = options;
+
+  if (authRequiredFor(nextRoute) && !isAuthenticated()) {
+    state.returnRoute = nextRoute;
+    safeSessionStorageSet(STORAGE_KEYS.authReturnRoute, nextRoute);
+    nextRoute = "login";
+  } else if (nextRoute === "login" && isAuthenticated()) {
+    nextRoute = sanitizeRoute(state.returnRoute) || CONFIG.auth?.redirectAfterLogin || "create";
+  }
 
   if (state.view === "camera" && nextRoute !== "camera") stopCamera();
 
@@ -226,6 +277,291 @@ function navigate(route, options = {}) {
   if (nextRoute === "result") {
     renderResult(state.latestAnalysis, state.latestRaw);
   }
+}
+
+function authIsEnabled() {
+  return CONFIG.auth?.enabled !== false;
+}
+
+function authRequiredFor(route) {
+  return authIsEnabled() && CONFIG.auth?.required !== false && PROTECTED_ROUTES.has(route);
+}
+
+function isAuthenticated() {
+  return Boolean(state.auth.user?.uid);
+}
+
+async function initAuth() {
+  if (!authIsEnabled()) {
+    state.auth.status = "disabled";
+    renderAuthState();
+    return;
+  }
+
+  if ((CONFIG.auth?.provider || "firebase") !== "firebase") {
+    state.auth.status = "error";
+    state.auth.error = "Der konfigurierte Auth-Provider wird von dieser PWA nicht unterstützt.";
+    renderAuthState();
+    return;
+  }
+
+  if (!hasFirebaseConfig()) {
+    state.auth.status = "missing-config";
+    state.auth.error = "Firebase-Konfiguration fehlt. Bitte in config.js eintragen.";
+    renderAuthState();
+    return;
+  }
+
+  state.auth.status = state.auth.user ? "cached" : "initializing";
+  state.auth.error = "";
+  renderAuthState();
+
+  state.auth.initPromise = setupFirebaseAuth();
+  await state.auth.initPromise;
+}
+
+async function setupFirebaseAuth() {
+  const sdkVersion = CONFIG.auth?.firebaseSdkVersion || DEFAULT_CONFIG.auth.firebaseSdkVersion;
+  const baseUrl = `https://www.gstatic.com/firebasejs/${encodeURIComponent(sdkVersion)}`;
+
+  const [appModule, authModule] = await Promise.all([
+    import(`${baseUrl}/firebase-app.js`),
+    import(`${baseUrl}/firebase-auth.js`),
+  ]);
+
+  const app = appModule.initializeApp(getFirebaseConfig());
+  const auth = authModule.getAuth(app);
+  auth.languageCode = "de";
+
+  if (authModule.browserLocalPersistence && authModule.setPersistence) {
+    await authModule
+      .setPersistence(auth, authModule.browserLocalPersistence)
+      .catch(() => undefined);
+  }
+
+  state.auth.firebase = { auth, authModule };
+
+  try {
+    await authModule.getRedirectResult(auth);
+  } catch (error) {
+    console.error(error);
+    state.auth.error = authErrorMessage(error);
+    showToast(state.auth.error);
+  }
+
+  authModule.onAuthStateChanged(auth, async (user) => {
+    if (user) {
+      await applyFirebaseUser(user);
+      const targetRoute =
+        sanitizeRoute(safeSessionStorageGet(STORAGE_KEYS.authReturnRoute)) ||
+        sanitizeRoute(state.returnRoute) ||
+        CONFIG.auth?.redirectAfterLogin ||
+        "create";
+      safeSessionStorageRemove(STORAGE_KEYS.authReturnRoute);
+      if (state.view === "login" || authRequiredFor(state.view)) {
+        navigate(targetRoute, { replace: true });
+      }
+      return;
+    }
+
+    clearAuthUser();
+    state.auth.status = "signed-out";
+    renderAuthState();
+    if (authRequiredFor(state.view)) navigate("login", { replace: true });
+  });
+}
+
+async function applyFirebaseUser(user) {
+  const normalized = normalizeFirebaseUser(user);
+  state.auth.user = normalized;
+  state.auth.status = "authenticated";
+  state.auth.error = "";
+  state.auth.idToken = await user.getIdToken().catch(() => "");
+  safeLocalStorageSet(STORAGE_KEYS.authUser, JSON.stringify(normalized));
+  renderAuthState();
+}
+
+function normalizeFirebaseUser(user) {
+  const providerData = Array.isArray(user.providerData) ? user.providerData : [];
+  const providerId = providerData[0]?.providerId || "";
+  const email = user.email || providerData.find((item) => item.email)?.email || "";
+  return {
+    uid: user.uid,
+    displayName:
+      user.displayName ||
+      providerData.find((item) => item.displayName)?.displayName ||
+      email.split("@")[0] ||
+      "EStyle Nutzerin",
+    email,
+    photoURL: user.photoURL || providerData.find((item) => item.photoURL)?.photoURL || "",
+    providerId,
+    signedInAt: new Date().toISOString(),
+  };
+}
+
+async function signInWithProvider(providerName, button) {
+  if (!authIsEnabled()) {
+    navigate(CONFIG.auth?.redirectAfterLogin || "create");
+    return;
+  }
+
+  const allowedProviders = CONFIG.auth?.allowedProviders || DEFAULT_CONFIG.auth.allowedProviders;
+  if (!allowedProviders.includes(providerName)) {
+    showToast("Dieser Login-Anbieter ist deaktiviert.");
+    return;
+  }
+
+  if (!hasFirebaseConfig()) {
+    state.auth.status = "missing-config";
+    state.auth.error = "Firebase-Konfiguration fehlt. Bitte zuerst config.js ausfüllen.";
+    renderAuthState();
+    showToast(state.auth.error);
+    return;
+  }
+
+  setBusy(button, true, "Weiterleitung...");
+  try {
+    if (!state.auth.firebase) {
+      if (!state.auth.initPromise) state.auth.initPromise = setupFirebaseAuth();
+      await state.auth.initPromise;
+    }
+
+    const { auth, authModule } = state.auth.firebase;
+    const provider = createFirebaseProvider(providerName, authModule);
+    safeSessionStorageSet(
+      STORAGE_KEYS.authReturnRoute,
+      sanitizeRoute(state.returnRoute) || CONFIG.auth?.redirectAfterLogin || "create"
+    );
+    await authModule.signInWithRedirect(auth, provider);
+  } catch (error) {
+    console.error(error);
+    state.auth.status = "error";
+    state.auth.error = authErrorMessage(error);
+    renderAuthState();
+    showToast(state.auth.error);
+    setBusy(button, false);
+  }
+}
+
+function createFirebaseProvider(providerName, authModule) {
+  if (providerName === "google") {
+    const provider = new authModule.GoogleAuthProvider();
+    provider.addScope("email");
+    provider.addScope("profile");
+    provider.setCustomParameters({ prompt: "select_account" });
+    return provider;
+  }
+
+  throw new Error("Unbekannter Login-Anbieter.");
+}
+
+async function signOutUser() {
+  closeMenu();
+  try {
+    if (state.auth.firebase?.authModule?.signOut) {
+      await state.auth.firebase.authModule.signOut(state.auth.firebase.auth);
+    }
+  } catch (error) {
+    console.error(error);
+  }
+  clearAuthUser();
+  state.auth.status = "signed-out";
+  renderAuthState();
+  navigate("login", { replace: true });
+}
+
+function clearAuthUser() {
+  state.auth.user = null;
+  state.auth.idToken = "";
+  safeLocalStorageRemove(STORAGE_KEYS.authUser);
+}
+
+async function getCurrentIdToken() {
+  if (!authIsEnabled()) return "";
+  if (state.auth.firebase?.auth?.currentUser) {
+    state.auth.idToken = await state.auth.firebase.auth.currentUser
+      .getIdToken()
+      .catch(() => state.auth.idToken || "");
+  }
+  return state.auth.idToken || "";
+}
+
+function renderAuthState() {
+  const allowedProviders = CONFIG.auth?.allowedProviders || DEFAULT_CONFIG.auth.allowedProviders;
+  els.loginButtons.forEach((button) => {
+    const provider = button.dataset.provider;
+    button.hidden = !allowedProviders.includes(provider);
+    button.disabled = state.auth.status === "initializing";
+  });
+
+  const user = state.auth.user;
+  document.body.classList.toggle("is-authenticated", Boolean(user));
+
+  if (els.authStatus) {
+    els.authStatus.classList.remove("error", "success");
+    if (!authIsEnabled()) {
+      els.authStatus.textContent = "Login ist aktuell deaktiviert.";
+    } else if (state.auth.status === "initializing") {
+      els.authStatus.textContent = "Login wird vorbereitet...";
+    } else if (state.auth.status === "missing-config") {
+      els.authStatus.textContent = "Firebase Auth ist noch nicht konfiguriert.";
+      els.authStatus.classList.add("error");
+    } else if (state.auth.error) {
+      els.authStatus.textContent = state.auth.error;
+      els.authStatus.classList.add("error");
+    } else if (user) {
+      els.authStatus.textContent = `Angemeldet als ${user.displayName || user.email || "EStyle Nutzerin"}.`;
+      els.authStatus.classList.add("success");
+    } else {
+      els.authStatus.textContent = "Bitte mit Google anmelden.";
+    }
+  }
+
+  if (els.logoutButton) els.logoutButton.hidden = !user;
+  if (els.menuUser) els.menuUser.hidden = !user;
+  if (user) {
+    const displayName = user.displayName || "EStyle Nutzerin";
+    const email = user.email || providerLabel(user.providerId);
+    const avatarSrc = user.photoURL || "assets/avatar.webp";
+    if (els.menuUserName) els.menuUserName.textContent = displayName;
+    if (els.menuUserEmail) els.menuUserEmail.textContent = email;
+    if (els.menuUserAvatar) els.menuUserAvatar.src = avatarSrc;
+    els.avatarImages.forEach((image) => {
+      image.src = avatarSrc;
+    });
+  } else {
+    if (els.menuUserAvatar) els.menuUserAvatar.src = "assets/avatar.webp";
+    els.avatarImages.forEach((image) => {
+      image.src = "assets/avatar.webp";
+    });
+  }
+}
+
+function hasFirebaseConfig() {
+  const firebaseConfig = getFirebaseConfig();
+  return Boolean(firebaseConfig.apiKey && firebaseConfig.authDomain && firebaseConfig.projectId);
+}
+
+function getFirebaseConfig() {
+  return CONFIG.auth?.firebaseConfig || CONFIG.auth?.firebase || CONFIG.firebase || {};
+}
+
+function providerLabel(providerId = "") {
+  if (providerId.includes("google")) return "Google Login";
+  return "Social Login";
+}
+
+function authErrorMessage(error) {
+  const code = error?.code || "";
+  if (code.includes("popup-closed-by-user") || code.includes("cancelled-popup-request"))
+    return "Login wurde abgebrochen.";
+  if (code.includes("unauthorized-domain"))
+    return "Diese Domain ist im Auth-Provider noch nicht freigeschaltet.";
+  if (code.includes("network-request-failed"))
+    return "Netzwerkfehler beim Login. Bitte erneut versuchen.";
+  if (code.includes("operation-not-allowed"))
+    return "Dieser Login-Anbieter ist in Firebase noch nicht aktiviert.";
+  return error?.message || "Login fehlgeschlagen. Bitte erneut versuchen.";
 }
 
 function openMenu() {
@@ -405,6 +741,13 @@ function loadImage(file) {
 }
 
 async function sendPhotoForAnalysis(button) {
+  if (authRequiredFor("camera") && !isAuthenticated()) {
+    setCameraMessage("Bitte melde dich zuerst mit Google an.", "error");
+    state.returnRoute = "camera";
+    navigate("login");
+    return;
+  }
+
   if (!state.selectedPhotoBlob) {
     setCameraMessage("Nimm zuerst ein Foto auf oder wähle eines aus.", "error");
     return;
@@ -440,6 +783,8 @@ async function postPhotoToApi() {
   );
   const uploadMode = CONFIG.uploadMode || "binary";
   const headers = { Accept: "application/json" };
+  const authToken = CONFIG.auth?.attachIdTokenToAnalysisRequest ? await getCurrentIdToken() : "";
+  if (authToken) headers.Authorization = `Bearer ${authToken}`;
   let body;
 
   if (uploadMode === "multipart") {
@@ -449,10 +794,14 @@ async function postPhotoToApi() {
       state.selectedPhotoBlob,
       normalizeFileName(state.selectedPhotoName)
     );
-    formData.append("email", safeLocalStorageGet(STORAGE_KEYS.email) || "");
     formData.append("client", "eskyna-pwa");
     formData.append("capturedAt", new Date().toISOString());
     formData.append("facingMode", state.facingMode);
+    if (state.auth.user?.uid) {
+      formData.append("userId", state.auth.user.uid);
+      formData.append("email", state.auth.user.email || "");
+      formData.append("authProvider", state.auth.user.providerId || "");
+    }
     body = formData;
   } else {
     body = state.selectedPhotoBlob;
@@ -754,17 +1103,15 @@ function setCameraMessage(message, type) {
 function setBusy(button, busy, label = "") {
   if (!button) return;
   if (busy) {
-    button.dataset.originalText = button.textContent;
+    if (!button.dataset.originalHtml) button.dataset.originalHtml = button.innerHTML;
     button.disabled = true;
-    button.lastChild.nodeValue = label;
+    const labelNode = button.querySelector("span:last-child") || button;
+    labelNode.textContent = label || "Bitte warten...";
   } else {
     button.disabled = false;
-    if (button.dataset.originalText) {
-      const img = button.querySelector("img");
-      button.textContent = "";
-      if (img) button.append(img);
-      button.append(document.createTextNode(button.dataset.originalText.trim()));
-      delete button.dataset.originalText;
+    if (button.dataset.originalHtml) {
+      button.innerHTML = button.dataset.originalHtml;
+      delete button.dataset.originalHtml;
     }
   }
 }
@@ -813,6 +1160,38 @@ function safeLocalStorageSet(key, value) {
   }
 }
 
+function safeLocalStorageRemove(key) {
+  try {
+    localStorage.removeItem(key);
+  } catch (_) {
+    /* Storage may be blocked. */
+  }
+}
+
+function safeSessionStorageGet(key) {
+  try {
+    return sessionStorage.getItem(key);
+  } catch (_) {
+    return "";
+  }
+}
+
+function safeSessionStorageSet(key, value) {
+  try {
+    sessionStorage.setItem(key, value);
+  } catch (_) {
+    /* Storage may be blocked. */
+  }
+}
+
+function safeSessionStorageRemove(key) {
+  try {
+    sessionStorage.removeItem(key);
+  } catch (_) {
+    /* Storage may be blocked. */
+  }
+}
+
 function safeJsonParse(value) {
   if (!value) return null;
   try {
@@ -820,4 +1199,27 @@ function safeJsonParse(value) {
   } catch (_) {
     return null;
   }
+}
+
+function mergeConfig(base, override) {
+  if (!override || typeof override !== "object") return base;
+  const output = Array.isArray(base) ? [...base] : { ...base };
+  for (const [key, value] of Object.entries(override)) {
+    const baseValue = output[key];
+    if (
+      value &&
+      typeof value === "object" &&
+      !Array.isArray(value) &&
+      baseValue &&
+      typeof baseValue === "object" &&
+      !Array.isArray(baseValue)
+    ) {
+      output[key] = mergeConfig(baseValue, value);
+    } else if (Array.isArray(value)) {
+      output[key] = [...value];
+    } else {
+      output[key] = value;
+    }
+  }
+  return output;
 }

@@ -209,12 +209,12 @@ noscript {
   flex: 1;
   flex-direction: column;
   align-items: center;
-  padding: max(52px, calc(env(safe-area-inset-top) + 42px)) 32px
+  padding: max(30px, calc(env(safe-area-inset-top) + 20px)) 32px
     max(34px, calc(env(safe-area-inset-bottom) + 24px));
 }
 .welcome-brand {
   width: 100%;
-  margin-top: min(9svh, 96px);
+  margin-top: min(2.8svh, 30px);
   text-align: center;
   text-shadow: 0 4px 24px rgba(0, 0, 0, 0.32);
 }
@@ -291,6 +291,47 @@ noscript {
   font-weight: 280;
   letter-spacing: -0.055em;
 }
+.login-copy {
+  margin-top: min(8svh, 72px);
+  text-align: center;
+}
+.login-copy h2 {
+  margin: 0 0 10px;
+  color: #17110f;
+  font-size: 1.08rem;
+  font-style: italic;
+  font-weight: 750;
+  letter-spacing: -0.01em;
+}
+.login-copy p {
+  margin: 0 auto;
+  max-width: 19rem;
+  color: #3d3531;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+.auth-status {
+  min-height: 1.3rem;
+  margin: 24px 0 14px;
+  color: var(--eskyna-muted);
+  text-align: center;
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+.auth-status.error {
+  color: var(--eskyna-burgundy);
+}
+.auth-status.success {
+  color: #38624c;
+}
+.login-security-note {
+  margin: 18px auto 0;
+  max-width: 18rem;
+  color: #8a8581;
+  text-align: center;
+  font-size: 0.76rem;
+  line-height: 1.45;
+}
 .login-form {
   margin-top: min(8svh, 72px);
   text-align: center;
@@ -361,6 +402,21 @@ noscript {
   background: #eeeeee;
   color: #050505;
   font-weight: 600;
+}
+.oauth-button:focus-visible {
+  outline: 3px solid rgba(117, 8, 10, 0.18);
+  outline-offset: 3px;
+}
+.oauth-button[disabled] {
+  opacity: 0.55;
+  cursor: wait;
+}
+.oauth-button-apple {
+  color: #fff;
+  background: #050505;
+}
+.oauth-button-apple .apple-icon {
+  color: #fff;
 }
 .google-icon {
   display: inline-grid;
@@ -1069,6 +1125,40 @@ noscript {
 .menu-brand img {
   width: 42px;
   height: 42px;
+}
+.menu-user {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  align-items: center;
+  gap: 10px;
+  margin: -4px 0 12px;
+  padding: 10px;
+  border: 1px solid rgba(117, 8, 10, 0.08);
+  border-radius: 16px;
+  background: rgba(246, 242, 238, 0.72);
+}
+.menu-user img {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #fff;
+}
+.menu-user strong,
+.menu-user span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.menu-user strong {
+  color: var(--eskyna-brown);
+  font-size: 0.92rem;
+}
+.menu-user span {
+  margin-top: 2px;
+  color: var(--eskyna-muted);
+  font-size: 0.76rem;
 }
 .side-menu button {
   min-height: 46px;

@@ -1,4 +1,4 @@
-const CACHE_NAME = "eskyna-estyle-pwa-v2";
+const CACHE_NAME = "eskyna-estyle-pwa-v5";
 const CORE_ASSETS = [
   "./",
   "./index.html",

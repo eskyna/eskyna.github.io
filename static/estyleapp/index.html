@@ -9,7 +9,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-title" content="EStyle" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <title>EStyle Color ID | Digitale Farbtypanalyse online</title>
+    <title>EStyle Color ID</title>
     <link rel="manifest" href="manifest.webmanifest" />
     <link rel="apple-touch-icon" href="assets/icon-180.png" />
     <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png" />
@@ -22,30 +22,16 @@
 
     <main class="app-shell" id="appShell">
       <section class="view view-welcome is-active" id="view-welcome" aria-labelledby="welcomeTitle">
-        <img
-          class="welcome-bg"
-          src="assets/welcome-bg.webp"
-          alt="Sanfter Hintergrund in warmen Farbtoenen"
-          decoding="async"
-        />
+        <img class="welcome-bg" src="assets/welcome-bg.webp" alt="" decoding="async" />
         <div class="welcome-gradient" aria-hidden="true"></div>
         <div class="welcome-content">
           <div class="welcome-brand">
-            <img
-              src="assets/logo-white.png"
-              alt="EStyle Logo in Weiss"
-              class="welcome-logo"
-              width="86"
-              height="86"
-            />
+            <img src="assets/logo-white.png" alt="" class="welcome-logo" width="86" height="86" />
             <h1 id="welcomeTitle">EStyle</h1>
             <p>Dein digitaler Stylist</p>
           </div>
           <div class="welcome-actions">
-            <button type="button" class="btn btn-glass" data-route="login">Loslegen</button>
-            <button type="button" class="btn btn-text-light" data-route="create">
-              Color ID ansehen
-            </button>
+            <button type="button" class="btn btn-glass" data-route="create">Loslegen</button>
           </div>
         </div>
       </section>
@@ -61,48 +47,39 @@
             ‹
           </button>
           <div class="brand-lockup">
-            <img
-              src="assets/logo-gold.png"
-              alt="EStyle Logo in Gold"
-              class="brand-mark"
-              width="74"
-              height="74"
-            />
+            <img src="assets/logo-gold.png" alt="" class="brand-mark" width="74" height="74" />
             <h1>EStyle</h1>
           </div>
 
-          <form class="login-form" id="loginForm">
-            <h2 id="loginTitle">Erstelle einen Account</h2>
-            <p>Gib deine Email ein, um einen Account zu erstellen</p>
-            <label class="sr-only" for="emailInput">Email</label>
-            <input
-              id="emailInput"
-              name="email"
-              inputmode="email"
-              autocomplete="email"
-              placeholder="email@domain.com"
-              type="email"
-              required
-            />
-            <button type="submit" class="btn btn-primary">Continue</button>
-          </form>
+          <div class="login-copy" id="loginPanel">
+            <h2 id="loginTitle">Mit EStyle anmelden</h2>
+            <p id="loginHint">
+              Melde dich mit Google an. Es wird kein separater E-Mail-Account in dieser App
+              erstellt.
+            </p>
+          </div>
 
-          <div class="divider" aria-hidden="true"><span></span><em>or</em><span></span></div>
+          <p class="auth-status" id="authStatus" role="status" aria-live="polite"></p>
 
-          <div class="oauth-stack">
-            <button type="button" class="oauth-button" data-action="oauth-placeholder">
+          <div class="oauth-stack" aria-describedby="loginHint authStatus">
+            <button
+              type="button"
+              class="oauth-button"
+              data-action="login-google"
+              data-provider="google"
+            >
               <span class="google-icon" aria-hidden="true">G</span>
-              <span>Continue with Google</span>
-            </button>
-            <button type="button" class="oauth-button" data-action="oauth-placeholder">
-              <span class="apple-icon" aria-hidden="true">●</span>
-              <span>Continue with Apple</span>
+              <span>Mit Google fortfahren</span>
             </button>
           </div>
 
+          <p class="login-security-note">
+            Dein Login läuft über Google. E-Mail-/Passwort-Registrierung ist deaktiviert.
+          </p>
+
           <p class="legal-copy">
-            By clicking continue, you agree to our <a href="#">Terms of Service</a><br />and
-            <a href="#">Privacy Policy</a>
+            Mit dem Fortfahren akzeptierst du unsere <a href="#">Nutzungsbedingungen</a><br />und
+            <a href="#">Datenschutzhinweise</a>.
           </p>
         </div>
       </section>
@@ -125,7 +102,7 @@
             data-route="result"
             aria-label="Profil öffnen"
           >
-            <img src="assets/avatar.webp" alt="Profilbild" />
+            <img src="assets/avatar.webp" alt="" />
           </button>
         </header>
 
@@ -201,8 +178,7 @@
 
         <div class="sticky-action">
           <button type="button" class="btn btn-brand" data-route="camera">
-            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />EStyle ID
-            erstellen
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" />EStyle ID erstellen
           </button>
         </div>
         <nav class="tab-bar" aria-label="Hauptnavigation">
@@ -213,9 +189,7 @@
             <span class="tab-closet" aria-hidden="true"></span><small>Schrank</small>
           </button>
           <button class="tab-item" type="button">
-            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" /><small
-              >KI-Stylist</small
-            >
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" /><small>KI-Stylist</small>
           </button>
           <button class="tab-item" type="button">
             <span class="tab-shop" aria-hidden="true"></span><small>Mein Shop</small>
@@ -244,7 +218,7 @@
             data-route="result"
             aria-label="Profil öffnen"
           >
-            <img src="assets/avatar.webp" alt="Profilbild" />
+            <img src="assets/avatar.webp" alt="" />
           </button>
         </header>
 
@@ -259,7 +233,7 @@
             <img id="photoPreview" alt="Aufgenommenes Foto" hidden />
             <canvas id="captureCanvas" hidden></canvas>
             <div class="camera-empty" id="cameraEmpty">
-              <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />
+              <img src="assets/logo-gold.png" alt="" aria-hidden="true" />
               <strong>Kamera starten</strong>
               <span>Die Aufnahme wird nur an deine Analyse-API gesendet.</span>
             </div>
@@ -291,7 +265,7 @@
               Neu aufnehmen
             </button>
             <button type="button" class="btn btn-brand btn-wide" data-action="send-photo">
-              <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />Analyse starten
+              <img src="assets/logo-gold.png" alt="" aria-hidden="true" />Analyse starten
             </button>
           </div>
 
@@ -317,7 +291,7 @@
             data-route="result"
             aria-label="Profil öffnen"
           >
-            <img src="assets/avatar.webp" alt="Profilbild" />
+            <img src="assets/avatar.webp" alt="" />
           </button>
         </header>
 
@@ -364,8 +338,7 @@
 
         <div class="sticky-action">
           <button type="button" class="btn btn-brand" data-action="style-question">
-            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />Stell mir eine
-            Style-Frage
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" />Stell mir eine Style-Frage
           </button>
         </div>
         <nav class="tab-bar" aria-label="Hauptnavigation">
@@ -376,9 +349,7 @@
             <span class="tab-closet" aria-hidden="true"></span><small>Schrank</small>
           </button>
           <button class="tab-item" type="button">
-            <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" /><small
-              >KI-Stylist</small
-            >
+            <img src="assets/logo-gold.png" alt="" aria-hidden="true" /><small>KI-Stylist</small>
           </button>
           <button class="tab-item" type="button">
             <span class="tab-shop" aria-hidden="true"></span><small>Mein Shop</small>
@@ -398,7 +369,14 @@
         ></button>
         <aside class="side-menu" aria-label="Menü">
           <div class="menu-brand">
-            <img src="assets/logo-gold.png" alt="EStyle Logo" /><strong>EStyle</strong>
+            <img src="assets/logo-gold.png" alt="" /><strong>EStyle</strong>
+          </div>
+          <div class="menu-user" id="menuUser" hidden>
+            <img id="menuUserAvatar" src="assets/avatar.webp" alt="" width="42" height="42" />
+            <div>
+              <strong id="menuUserName">EStyle Nutzerin</strong>
+              <span id="menuUserEmail"></span>
+            </div>
           </div>
           <button type="button" data-route="create">Color ID erstellen</button>
           <button type="button" data-route="camera">Fotoanalyse starten</button>
@@ -406,6 +384,7 @@
           <button type="button" data-action="install-app" id="installButton" hidden>
             App installieren
           </button>
+          <button type="button" data-action="logout" id="logoutButton" hidden>Abmelden</button>
           <button type="button" data-action="close-menu">Schließen</button>
         </aside>
       </div>
