@@ -78,10 +78,26 @@
           {{ with $hero.betaCtaText }}
             {{ $betaHref := $hero.betaCtaHref }}
             {{ $betaTitle := or $hero.betaCtaTitle . }}
-            <a class="btn hero-beta-btn" href="{{ $betaHref }}" title="{{ $betaTitle }}" aria-label="{{ $betaTitle }}" target="_blank" rel="noopener noreferrer">
-              <span class="hero-beta-btn-text">{{ . }}</span>
-              {{ with $hero.betaCtaBadge }}<span class="hero-beta-badge">{{ . }}</span>{{ end }}
-            </a>
+            {{ $betaTooltipTitle := "ESKYNA digital" }}
+            {{ $betaTooltipLead := "Erprobe das digitale Angebot von ESKYNA." }}
+            {{ $betaTooltipText := "Aktuell verfuegbar als Telegram-Bot. Innovation im Stil." }}
+            {{ with $hero.betaCtaTooltip }}
+              {{ $betaTooltipTitle = or .title $betaTooltipTitle }}
+              {{ $betaTooltipLead = or .lead $betaTooltipLead }}
+              {{ $betaTooltipText = or .text $betaTooltipText }}
+            {{ end }}
+            {{ $betaTooltipId := printf "hero-beta-tooltip-%s" $.Language.Lang }}
+            <div class="hero-cta-tooltip">
+              <a class="btn hero-beta-btn" href="{{ $betaHref }}" title="{{ $betaTitle }}" aria-label="{{ $betaTitle }}" aria-describedby="{{ $betaTooltipId }}" target="_blank" rel="noopener noreferrer">
+                <span class="hero-beta-btn-text">{{ $hero.betaCtaText }}</span>
+                {{ with $hero.betaCtaBadge }}<span class="hero-beta-badge">{{ . }}</span>{{ end }}
+              </a>
+              <span id="{{ $betaTooltipId }}" class="hero-cta-tooltip-panel" role="tooltip">
+                <strong class="hero-cta-tooltip-title">{{ $betaTooltipTitle }}</strong>
+                <strong class="hero-cta-tooltip-lead">{{ $betaTooltipLead }}</strong>
+                <span class="hero-cta-tooltip-text">{{ $betaTooltipText }}</span>
+              </span>
+            </div>
           {{ end }}
         </div>
       </div>
@@ -172,18 +188,14 @@
 
   <section class="section stilfrage-section" id="stilfrage">
     <div class="stilfrage-bg">
-      {{ $stilfrageBgAlt := or $ui.stilfrage_background_alt "Natalia am Schreibtisch" }}
-      {{ partial "responsive-image.html" (dict "src" "images/backgrounds/sections/natalia_desk.png" "alt" $stilfrageBgAlt "class" "stilfrage-bg-img" "loading" "lazy" "decoding" "async") }}
+      {{ partial "responsive-image.html" (dict "src" "images/backgrounds/sections/natalia_desk.png" "alt" "Natalia am Schreibtisch" "class" "stilfrage-bg-img" "loading" "lazy" "decoding" "async") }}
     </div>
     <div class="container">
       <div class="stilfrage-copy-column">
-        {{ $stilfrageIntroCopy := or $ui.stilfrage_intro_copy "Für Momente,<br>in denen du dir nicht sicher bist." }}
-        <p class="coach-intro-copy">{{ $stilfrageIntroCopy | safeHTML }}</p>
-        {{ $stilfrageTitle := or $ui.stilfrage_title "Stilfrage an Natalia" }}
-        <h2 class="coach-heading">{{ $stilfrageTitle }}</h2>
+        <p class="coach-intro-copy">Für Momente,<br>in denen du dir nicht sicher bist.</p>
+        <h2 class="coach-heading">Stilfrage an Natalia</h2>
         <blockquote class="coach-mission">
-          {{ $stilfrageMissionMain := or $ui.stilfrage_mission_main "Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten." }}
-          <p class="coach-mission-main">{{ $stilfrageMissionMain }}</p>
+          <p class="coach-mission-main">Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten.</p>
         </blockquote>
         <div class="coach-actions">
           {{ range $services.free.items }}
@@ -203,8 +215,7 @@
 
   <section class="section ps-section offers-free-section-wrapper">
     <div class="container">
-      {{ $offersHomeTitle := or $ui.offers_home_title "Meine Angebote" }}
-      <h2>{{ $offersHomeTitle }}</h2>
+      <h2>Meine Angebote</h2>
       <section class="offers-free-section">
         <div class="offers-free-grid">
           {{ range $idx, $item := first 2 $services.free.items }}
@@ -236,9 +247,8 @@
         </div>
       </section>
       <div class="offers-home-actions">
-        {{ $offersMoreText := or $ui.offers_more_text "Weitere Angebote" }}
-        <a class="offers-home-tag" href="{{ "angebote" | relLangURL }}" title="{{ $offersMoreText }}" aria-label="{{ $offersMoreText }}">
-          <span class="benefits-tag-text">{{ $offersMoreText }}</span>
+        <a class="offers-home-tag" href="{{ "angebote" | relLangURL }}" title="Weitere Angebote" aria-label="Weitere Angebote">
+          <span class="benefits-tag-text">Weitere Angebote</span>
           <img src="{{ "images/sign_black.png" | relURL }}" alt="" class="offers-home-tag-sign" loading="lazy" width="42" height="42" aria-hidden="true">
         </a>
       </div>

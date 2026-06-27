@@ -12,6 +12,10 @@ hero:
   betaCtaHref: "https://t.me/eskyna_bot"
   betaCtaTitle: "ESKYNA digital als Beta-Dienst auf Telegram testen"
   betaCtaBadge: "Beta"
+  betaCtaTooltip:
+    title: "ESKYNA digital"
+    lead: "Erprobe das digitale Angebot von ESKYNA."
+    text: "Aktuell als Telegram-Bot verfügbar. Innovation im Stil."
   ctaTooltip:
     title: "Kostenlos & unverbindlich"
     lead: "Wir schauen gemeinsam auf deine Stilfragen, deine Wünsche und mögliche nächste Schritte."

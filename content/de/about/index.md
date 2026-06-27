@@ -15,7 +15,7 @@ method:
   eyebrow: "Die ESKYNA Methode"
   title: "Mehr als Stilberatung: eine Methode mit System"
   intro: "Mit der ESKYNA Methode entwickelt Natalia Kleemann einen Stil nicht nur nach Geschmack, sondern nach Persönlichkeit, Wirkung und Lebensrealität. In sechs Schritten entsteht ein Auftritt, der authentisch und tragfähig ist."
-  tagline: "Essenz — Signale — Kernsprache — Your Signature — Neue Garderobenlogik — Aktivierung"
+  tagline: "Essenz, Signale und Kernsprache. Your Signature, neue Garderobenlogik und Aktivierung."
   quote: "Ich habe die ESKYNA Methode entwickelt, um Stil von etwas Zufälligem zu etwas Klarem zu machen."
   steps:
     - letter: "E"
