@@ -1,4 +1,4 @@
-const CACHE_NAME = "eskyna-estyle-pwa-v5";
+const CACHE_NAME = "eskyna-estyle-pwa-v9";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -10,6 +10,7 @@ const CORE_ASSETS = [
   "./assets/welcome-bg.webp",
   "./assets/logo-gold.png",
   "./assets/logo-white.png",
+  "./assets/sign_gold.png",
   "./assets/icon-180.png",
   "./assets/icon-192.png",
   "./assets/icon-512.png",
@@ -22,6 +23,76 @@ const CORE_ASSETS = [
   "./assets/photo-bad-3.webp",
   "./assets/photo-bad-4.webp",
 ];
+
+let firebaseMessagingReady = false;
+
+self.addEventListener("notificationclick", (event) => {
+  event.notification.close();
+  const targetUrl = new URL(event.notification.data?.url || "./#welcome", self.location.href).href;
+  event.waitUntil(
+    self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((clients) => {
+      for (const client of clients) {
+        if ("focus" in client) {
+          client.navigate(targetUrl).catch(() => undefined);
+          return client.focus();
+        }
+      }
+      return self.clients.openWindow(targetUrl);
+    })
+  );
+});
+
+try {
+  importScripts("./config.js");
+  const eskynaConfig = self.ESKYNA_CONFIG || {};
+  const firebaseConfig = eskynaConfig.auth?.firebaseConfig || {};
+  const pushConfig = eskynaConfig.push || {};
+  const sdkVersion = eskynaConfig.auth?.firebaseSdkVersion || "12.15.0";
+
+  if (
+    pushConfig.enabled !== false &&
+    (pushConfig.provider || "firebase-cloud-messaging") === "firebase-cloud-messaging" &&
+    firebaseConfig.apiKey &&
+    firebaseConfig.projectId &&
+    firebaseConfig.messagingSenderId
+  ) {
+    importScripts(
+      `https://www.gstatic.com/firebasejs/${encodeURIComponent(sdkVersion)}/firebase-app-compat.js`
+    );
+    importScripts(
+      `https://www.gstatic.com/firebasejs/${encodeURIComponent(sdkVersion)}/firebase-messaging-compat.js`
+    );
+
+    firebase.initializeApp(firebaseConfig);
+    const messaging = firebase.messaging();
+    firebaseMessagingReady = true;
+
+    messaging.onBackgroundMessage((payload) => {
+      const notification = payload.notification || {};
+      const data = payload.data || {};
+      const title = notification.title || data.title || "EStyle Update";
+      const options = {
+        body: notification.body || data.body || "Es gibt Neuigkeiten in deiner EStyle App.",
+        icon: notification.icon || data.icon || "./assets/icon-192.png",
+        badge: data.badge || "./assets/sign_gold.png",
+        image: notification.image || data.image,
+        tag: data.tag || "eskyna-patchnotes",
+        renotify: data.renotify === "true" || data.renotify === true,
+        data: {
+          url: data.url || data.link || "./#welcome",
+        },
+      };
+
+      self.registration.showNotification(title, options);
+    });
+  }
+} catch (error) {
+  // Die App-Shell soll auch dann installierbar bleiben, wenn Firebase Messaging beim ersten Laden nicht verfuegbar ist.
+  console.warn(
+    "Firebase Cloud Messaging konnte im Service Worker nicht initialisiert werden:",
+    error
+  );
+}
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

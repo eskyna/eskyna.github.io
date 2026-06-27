@@ -6,13 +6,25 @@ const DEFAULT_CONFIG = {
   credentials: "same-origin",
   maxUploadWidth: 1600,
   jpegQuality: 0.88,
-  timeoutMs: 45000,
+  timeoutMs: 60000,
+  maxPhotos: 4,
+  multiPhotoUploadMode: "multipart",
+  push: {
+    enabled: true,
+    provider: "firebase-cloud-messaging",
+    fcmVapidKey: "",
+    registerTokenEndpoint: "/api/fcm/register",
+    unregisterTokenEndpoint: "/api/fcm/unregister",
+    topic: "patchnotes",
+    attachIdTokenToRegisterRequest: true,
+  },
   auth: {
     enabled: true,
     required: true,
     provider: "firebase",
-    firebaseSdkVersion: "10.12.4",
+    firebaseSdkVersion: "12.15.0",
     allowedProviders: ["google"],
+    signInMode: "popup",
     redirectAfterLogin: "create",
     attachIdTokenToAnalysisRequest: false,
     firebaseConfig: {
@@ -29,6 +41,8 @@ const STORAGE_KEYS = {
   authUser: "eskyna:authUser",
   authReturnRoute: "eskyna:authReturnRoute",
   analysis: "eskyna:lastAnalysis",
+  pushSubscription: "eskyna:pushSubscription",
+  fcmToken: "eskyna:fcmToken",
 };
 const PROTECTED_ROUTES = new Set(["create", "camera", "result"]);
 
@@ -66,10 +80,25 @@ const state = {
   selectedPhotoBlob: null,
   selectedPhotoDataUrl: "",
   selectedPhotoName: "",
+  photos: [],
+  activePhotoIndex: -1,
+  analysisTimer: null,
+  analysisStartedAt: 0,
   latestAnalysis: null,
   latestRaw: null,
   deferredInstallPrompt: null,
+  serviceWorkerRegistration: null,
   returnRoute: CONFIG.auth?.redirectAfterLogin || "create",
+  lastStartAt: 0,
+  push: {
+    status: "idle",
+    subscription: null,
+    token: "",
+    messaging: null,
+    messagingModule: null,
+    foregroundListenerReady: false,
+    error: "",
+  },
   auth: {
     status: "idle",
     user: null,
@@ -87,6 +116,7 @@ const els = {
   views: $$(".view"),
   authStatus: $("#authStatus"),
   loginButtons: $$("[data-provider]"),
+  startButton: $("#startButton"),
   menuOverlay: $("#menuOverlay"),
   menuUser: $("#menuUser"),
   menuUserAvatar: $("#menuUserAvatar"),
@@ -94,6 +124,7 @@ const els = {
   menuUserEmail: $("#menuUserEmail"),
   logoutButton: $("#logoutButton"),
   installButton: $("#installButton"),
+  installButtons: $$('[data-action="install-app"]'),
   toast: $("#toast"),
   avatarImages: $$(".avatar-button img"),
   cameraVideo: $("#cameraVideo"),
@@ -104,6 +135,9 @@ const els = {
   fileInput: $("#fileInput"),
   cameraActions: $("#cameraActions"),
   reviewActions: $("#reviewActions"),
+  photoTray: $("#photoTray"),
+  photoThumbs: $("#photoThumbs"),
+  photoCount: $("#photoCount"),
   cameraMessage: $("#cameraMessage"),
   resultPortrait: $("#resultPortrait"),
   colorTypeText: $("#colorTypeText"),
@@ -113,6 +147,15 @@ const els = {
   noGoText: $("#noGoText"),
   rawResponse: $("#rawResponse"),
   rawJson: $("#rawJson"),
+  resultInfoButton: $("#resultInfoButton"),
+  detectionSheet: $("#detectionSheet"),
+  detectionDetailsList: $("#detectionDetailsList"),
+  detectionRawJson: $("#detectionRawJson"),
+  analysisOverlay: $("#analysisOverlay"),
+  analysisElapsed: $("#analysisElapsed"),
+  analysisPhotoCount: $("#analysisPhotoCount"),
+  pushButton: $("#pushButton"),
+  pushStatus: $("#pushStatus"),
 };
 
 init();
@@ -121,8 +164,11 @@ function init() {
   restoreUserState();
   bindEvents();
   renderAuthState();
+  updateInstallButtons();
+  updatePhotoUI();
   renderResult(state.latestAnalysis, state.latestRaw);
   registerServiceWorker();
+  refreshPushState().catch(() => undefined);
 
   const initialRoute = sanitizeRoute(location.hash.replace("#", "")) || "welcome";
   state.returnRoute = PROTECTED_ROUTES.has(initialRoute)
@@ -138,6 +184,16 @@ function init() {
 }
 
 function bindEvents() {
+  if (els.startButton) {
+    const handleStartActivation = (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      startApp();
+    };
+    els.startButton.addEventListener("click", handleStartActivation);
+    els.startButton.addEventListener("touchend", handleStartActivation, { passive: false });
+  }
+
   document.addEventListener("click", async (event) => {
     const routeButton = event.target.closest("[data-route]");
     if (routeButton) {
@@ -176,6 +232,15 @@ function bindEvents() {
       case "retake-photo":
         await retakePhoto();
         break;
+      case "add-photo":
+        await addAnotherPhoto();
+        break;
+      case "remove-photo":
+        removePhoto(Number(actionButton.dataset.photoIndex));
+        break;
+      case "select-photo":
+        selectPhoto(Number(actionButton.dataset.photoIndex));
+        break;
       case "send-photo":
         await sendPhotoForAnalysis(actionButton);
         break;
@@ -188,8 +253,17 @@ function bindEvents() {
       case "style-question":
         showToast("Der KI-Stylist kann hier später mit deinem Chat-Endpunkt verbunden werden.");
         break;
+      case "open-detection-details":
+        openDetectionDetails();
+        break;
+      case "close-detection-details":
+        closeDetectionDetails();
+        break;
       case "install-app":
         await promptInstall();
+        break;
+      case "enable-push":
+        await enablePushNotifications(actionButton);
         break;
       default:
         break;
@@ -197,9 +271,11 @@ function bindEvents() {
   });
 
   els.fileInput.addEventListener("change", async (event) => {
-    const [file] = event.target.files || [];
-    if (!file) return;
-    await handleFile(file);
+    const files = [...(event.target.files || [])];
+    if (!files.length) return;
+    for (const file of files) {
+      await handleFile(file);
+    }
     event.target.value = "";
   });
 
@@ -211,7 +287,13 @@ function bindEvents() {
   window.addEventListener("beforeinstallprompt", (event) => {
     event.preventDefault();
     state.deferredInstallPrompt = event;
-    if (els.installButton) els.installButton.hidden = false;
+    updateInstallButtons();
+  });
+
+  window.addEventListener("appinstalled", () => {
+    state.deferredInstallPrompt = null;
+    showToast("EStyle wurde installiert.");
+    updateInstallButtons();
   });
 
   document.addEventListener("visibilitychange", () => {
@@ -238,11 +320,41 @@ function restoreUserState() {
     state.latestAnalysis = storedAnalysis.analysis;
     state.latestRaw = storedAnalysis.raw || storedAnalysis.analysis;
   }
+
+  const storedFcmToken = safeLocalStorageGet(STORAGE_KEYS.fcmToken);
+  if (storedFcmToken) {
+    state.push.token = storedFcmToken;
+    state.push.status = "subscribed";
+  } else {
+    const storedPushSubscription = safeJsonParse(
+      safeLocalStorageGet(STORAGE_KEYS.pushSubscription)
+    );
+    if (storedPushSubscription?.endpoint) {
+      safeLocalStorageRemove(STORAGE_KEYS.pushSubscription);
+    }
+  }
 }
 
 function sanitizeRoute(route) {
   const allowed = new Set(["welcome", "login", "create", "camera", "result"]);
   return allowed.has(route) ? route : "";
+}
+
+function startApp() {
+  const now = Date.now();
+  if (now - state.lastStartAt < 600) return;
+  state.lastStartAt = now;
+
+  const targetRoute = CONFIG.auth?.redirectAfterLogin || "create";
+  state.returnRoute = sanitizeRoute(targetRoute) || "create";
+  safeSessionStorageSet(STORAGE_KEYS.authReturnRoute, state.returnRoute);
+
+  if (!authIsEnabled() || isAuthenticated()) {
+    navigate(state.returnRoute);
+    return;
+  }
+
+  navigate("login");
 }
 
 function navigate(route, options = {}) {
@@ -272,7 +384,9 @@ function navigate(route, options = {}) {
 
   if (nextRoute === "camera") {
     prepareCameraView();
-    startCamera().catch(() => undefined);
+    if (!state.selectedPhotoBlob && state.photos.length === 0) {
+      startCamera().catch(() => undefined);
+    }
   }
   if (nextRoute === "result") {
     renderResult(state.latestAnalysis, state.latestRaw);
@@ -321,6 +435,8 @@ async function initAuth() {
 }
 
 async function setupFirebaseAuth() {
+  if (state.auth.firebase?.auth && state.auth.firebase?.authModule) return state.auth.firebase;
+
   const sdkVersion = CONFIG.auth?.firebaseSdkVersion || DEFAULT_CONFIG.auth.firebaseSdkVersion;
   const baseUrl = `https://www.gstatic.com/firebasejs/${encodeURIComponent(sdkVersion)}`;
 
@@ -329,7 +445,9 @@ async function setupFirebaseAuth() {
     import(`${baseUrl}/firebase-auth.js`),
   ]);
 
-  const app = appModule.initializeApp(getFirebaseConfig());
+  const app = appModule.getApps?.().length
+    ? appModule.getApp()
+    : appModule.initializeApp(getFirebaseConfig());
   const auth = authModule.getAuth(app);
   auth.languageCode = "de";
 
@@ -339,36 +457,86 @@ async function setupFirebaseAuth() {
       .catch(() => undefined);
   }
 
-  state.auth.firebase = { auth, authModule };
+  state.auth.firebase = { app, appModule, auth, authModule };
+  state.auth.status = state.auth.user ? "cached" : "checking-session";
+  state.auth.error = "";
+  renderAuthState();
 
   try {
-    await authModule.getRedirectResult(auth);
+    const redirectResult = await authModule.getRedirectResult(auth);
+    if (redirectResult?.user) {
+      await handleAuthenticatedFirebaseUser(redirectResult.user, { source: "redirect" });
+    } else if (auth.currentUser) {
+      await handleAuthenticatedFirebaseUser(auth.currentUser, { source: "currentUser" });
+    }
   } catch (error) {
     console.error(error);
     state.auth.error = authErrorMessage(error);
     showToast(state.auth.error);
   }
 
-  authModule.onAuthStateChanged(auth, async (user) => {
-    if (user) {
-      await applyFirebaseUser(user);
-      const targetRoute =
-        sanitizeRoute(safeSessionStorageGet(STORAGE_KEYS.authReturnRoute)) ||
-        sanitizeRoute(state.returnRoute) ||
-        CONFIG.auth?.redirectAfterLogin ||
-        "create";
-      safeSessionStorageRemove(STORAGE_KEYS.authReturnRoute);
-      if (state.view === "login" || authRequiredFor(state.view)) {
-        navigate(targetRoute, { replace: true });
+  await new Promise((resolve) => {
+    let resolved = false;
+    const finish = () => {
+      if (!resolved) {
+        resolved = true;
+        resolve();
       }
-      return;
-    }
+    };
 
-    clearAuthUser();
-    state.auth.status = "signed-out";
-    renderAuthState();
-    if (authRequiredFor(state.view)) navigate("login", { replace: true });
+    authModule.onAuthStateChanged(
+      auth,
+      async (user) => {
+        try {
+          if (user) {
+            await handleAuthenticatedFirebaseUser(user, { source: "state" });
+          } else if (!state.auth.user?.uid) {
+            clearAuthUser();
+            state.auth.status = "signed-out";
+            renderAuthState();
+            if (authRequiredFor(state.view)) navigate("login", { replace: true });
+          }
+        } finally {
+          finish();
+        }
+      },
+      (error) => {
+        console.error(error);
+        state.auth.status = "error";
+        state.auth.error = authErrorMessage(error);
+        renderAuthState();
+        finish();
+      }
+    );
+
+    window.setTimeout(finish, 3500);
   });
+
+  return state.auth.firebase;
+}
+
+async function handleAuthenticatedFirebaseUser(user, options = {}) {
+  await applyFirebaseUser(user);
+  const targetRoute = getPostLoginRoute();
+  safeSessionStorageRemove(STORAGE_KEYS.authReturnRoute);
+  updatePushUI();
+
+  if (
+    state.view === "login" ||
+    authRequiredFor(state.view) ||
+    options.forceNavigation ||
+    options.source === "redirect"
+  ) {
+    navigate(targetRoute, { replace: true });
+  }
+}
+
+function getPostLoginRoute() {
+  const storedRoute = sanitizeRoute(safeSessionStorageGet(STORAGE_KEYS.authReturnRoute));
+  const stateRoute = sanitizeRoute(state.returnRoute);
+  const configuredRoute = sanitizeRoute(CONFIG.auth?.redirectAfterLogin) || "create";
+  const targetRoute = storedRoute || stateRoute || configuredRoute;
+  return targetRoute === "login" || targetRoute === "welcome" ? configuredRoute : targetRoute;
 }
 
 async function applyFirebaseUser(user) {
@@ -419,7 +587,14 @@ async function signInWithProvider(providerName, button) {
     return;
   }
 
-  setBusy(button, true, "Weiterleitung...");
+  const returnRoute = getPostLoginRoute();
+  safeSessionStorageSet(STORAGE_KEYS.authReturnRoute, returnRoute);
+  state.returnRoute = returnRoute;
+  state.auth.status = "signing-in";
+  state.auth.error = "";
+  renderAuthState();
+
+  setBusy(button, true, "Google öffnen...");
   try {
     if (!state.auth.firebase) {
       if (!state.auth.initPromise) state.auth.initPromise = setupFirebaseAuth();
@@ -428,10 +603,26 @@ async function signInWithProvider(providerName, button) {
 
     const { auth, authModule } = state.auth.firebase;
     const provider = createFirebaseProvider(providerName, authModule);
-    safeSessionStorageSet(
-      STORAGE_KEYS.authReturnRoute,
-      sanitizeRoute(state.returnRoute) || CONFIG.auth?.redirectAfterLogin || "create"
-    );
+    const signInMode = CONFIG.auth?.signInMode || DEFAULT_CONFIG.auth.signInMode || "popup";
+
+    if (signInMode !== "redirect" && authModule.signInWithPopup) {
+      try {
+        const popupResult = await authModule.signInWithPopup(auth, provider);
+        const user = popupResult?.user || auth.currentUser;
+        if (!user)
+          throw new Error(
+            "Google Login wurde abgeschlossen, aber Firebase hat keinen Nutzer zurückgegeben."
+          );
+        await handleAuthenticatedFirebaseUser(user, { source: "popup", forceNavigation: true });
+        setBusy(button, false);
+        return;
+      } catch (popupError) {
+        if (!shouldFallbackToRedirect(popupError)) throw popupError;
+        console.warn("Popup-Login nicht möglich, fallback auf Redirect:", popupError);
+      }
+    }
+
+    setBusy(button, true, "Weiterleitung...");
     await authModule.signInWithRedirect(auth, provider);
   } catch (error) {
     console.error(error);
@@ -441,6 +632,17 @@ async function signInWithProvider(providerName, button) {
     showToast(state.auth.error);
     setBusy(button, false);
   }
+}
+
+function shouldFallbackToRedirect(error) {
+  const code = error?.code || "";
+  return (
+    code.includes("popup-blocked") ||
+    code.includes("cancelled-popup-request") ||
+    code.includes("operation-not-supported-in-this-environment") ||
+    code.includes("web-storage-unsupported") ||
+    code.includes("internal-error")
+  );
 }
 
 function createFirebaseProvider(providerName, authModule) {
@@ -491,7 +693,9 @@ function renderAuthState() {
   els.loginButtons.forEach((button) => {
     const provider = button.dataset.provider;
     button.hidden = !allowedProviders.includes(provider);
-    button.disabled = state.auth.status === "initializing";
+    button.disabled = ["initializing", "checking-session", "signing-in"].includes(
+      state.auth.status
+    );
   });
 
   const user = state.auth.user;
@@ -501,8 +705,10 @@ function renderAuthState() {
     els.authStatus.classList.remove("error", "success");
     if (!authIsEnabled()) {
       els.authStatus.textContent = "Login ist aktuell deaktiviert.";
-    } else if (state.auth.status === "initializing") {
-      els.authStatus.textContent = "Login wird vorbereitet...";
+    } else if (state.auth.status === "initializing" || state.auth.status === "checking-session") {
+      els.authStatus.textContent = "Anmeldung wird geprüft...";
+    } else if (state.auth.status === "signing-in") {
+      els.authStatus.textContent = "Google Login wird geöffnet...";
     } else if (state.auth.status === "missing-config") {
       els.authStatus.textContent = "Firebase Auth ist noch nicht konfiguriert.";
       els.authStatus.classList.add("error");
@@ -555,12 +761,17 @@ function authErrorMessage(error) {
   const code = error?.code || "";
   if (code.includes("popup-closed-by-user") || code.includes("cancelled-popup-request"))
     return "Login wurde abgebrochen.";
+  if (code.includes("configuration-not-found"))
+    return "Firebase Authentication ist im Projekt noch nicht fertig eingerichtet. Bitte in Firebase unter Authentication > Get started den Anbieter Google aktivieren und eskyna.com als autorisierte Domain eintragen.";
   if (code.includes("unauthorized-domain"))
-    return "Diese Domain ist im Auth-Provider noch nicht freigeschaltet.";
+    return "Diese Domain ist in Firebase Authentication noch nicht freigeschaltet. Bitte eskyna.com unter Authorized domains eintragen.";
+  if (code.includes("popup-blocked"))
+    return "Das Google Login-Fenster wurde blockiert. Bitte Pop-ups für eskyna.com erlauben oder erneut versuchen.";
+  if (code.includes("popup-closed-by-user")) return "Login wurde abgebrochen.";
   if (code.includes("network-request-failed"))
     return "Netzwerkfehler beim Login. Bitte erneut versuchen.";
   if (code.includes("operation-not-allowed"))
-    return "Dieser Login-Anbieter ist in Firebase noch nicht aktiviert.";
+    return "Google Login ist in Firebase Authentication noch nicht aktiviert.";
   return error?.message || "Login fehlgeschlagen. Bitte erneut versuchen.";
 }
 
@@ -574,12 +785,33 @@ function closeMenu() {
 
 function prepareCameraView() {
   setCameraMessage("", "");
-  if (!state.selectedPhotoBlob) {
-    els.cameraActions.hidden = false;
-    els.reviewActions.hidden = true;
-    els.photoPreview.hidden = true;
-    els.cameraCard.classList.remove("has-photo");
+  if (state.selectedPhotoBlob) {
+    showSelectedPhotoPreview();
+  } else if (state.photos.length) {
+    selectPhoto(state.photos.length - 1, { silent: true });
+  } else {
+    showCameraCaptureControls();
   }
+  updatePhotoUI();
+}
+
+function showCameraCaptureControls() {
+  if (els.cameraActions) els.cameraActions.hidden = false;
+  if (els.reviewActions) els.reviewActions.hidden = true;
+  if (els.photoPreview) {
+    els.photoPreview.hidden = true;
+    els.photoPreview.removeAttribute("src");
+  }
+  els.cameraCard?.classList.remove("has-photo");
+}
+
+function showSelectedPhotoPreview() {
+  if (!state.selectedPhotoDataUrl) return;
+  els.photoPreview.src = state.selectedPhotoDataUrl;
+  els.photoPreview.hidden = false;
+  els.cameraCard.classList.add("has-photo", "is-live");
+  els.cameraActions.hidden = true;
+  els.reviewActions.hidden = false;
 }
 
 async function startCamera() {
@@ -591,7 +823,8 @@ async function startCamera() {
     return;
   }
 
-  clearCapturedPhoto(false);
+  clearSelectedPhoto(false);
+  showCameraCaptureControls();
   stopCamera();
   setCameraMessage("Kamera wird gestartet...", "");
 
@@ -639,9 +872,10 @@ async function capturePhoto() {
   }
 
   const { blob, dataUrl } = await drawMediaToJpeg(els.cameraVideo);
-  setCapturedPhoto(blob, dataUrl, `estyle-color-id-${Date.now()}.jpg`);
-  stopCamera();
-  setCameraMessage("Foto bereit. Starte jetzt die Analyse.", "success");
+  if (setCapturedPhoto(blob, dataUrl, `estyle-color-id-${Date.now()}.jpg`)) {
+    stopCamera();
+    setCameraMessage(photoReadyMessage(), "success");
+  }
 }
 
 async function handleFile(file) {
@@ -650,13 +884,22 @@ async function handleFile(file) {
     return;
   }
 
+  if (state.photos.length >= getMaxPhotos()) {
+    setCameraMessage(
+      `Maximal ${getMaxPhotos()} Fotos pro Analyse. Entferne ein Foto oder starte die Analyse.`,
+      "error"
+    );
+    return;
+  }
+
   setCameraMessage("Foto wird vorbereitet...", "");
   try {
     const image = await loadImage(file);
     const { blob, dataUrl } = await drawMediaToJpeg(image);
-    setCapturedPhoto(blob, dataUrl, file.name || `estyle-color-id-${Date.now()}.jpg`);
-    stopCamera();
-    setCameraMessage("Foto bereit. Starte jetzt die Analyse.", "success");
+    if (setCapturedPhoto(blob, dataUrl, file.name || `estyle-color-id-${Date.now()}.jpg`)) {
+      stopCamera();
+      setCameraMessage(photoReadyMessage(), "success");
+    }
   } catch (error) {
     console.error(error);
     setCameraMessage("Das Foto konnte nicht gelesen werden. Bitte versuche es erneut.", "error");
@@ -664,32 +907,136 @@ async function handleFile(file) {
 }
 
 async function retakePhoto() {
-  clearCapturedPhoto(true);
+  clearAllPhotos(true);
+  await startCamera();
+}
+
+async function addAnotherPhoto() {
+  if (state.photos.length >= getMaxPhotos()) {
+    setCameraMessage(
+      `Du hast bereits ${getMaxPhotos()} Fotos ausgewählt. Entferne eines, um ein anderes hinzuzufügen.`,
+      "error"
+    );
+    return;
+  }
+  clearSelectedPhoto(true);
   await startCamera();
 }
 
 function setCapturedPhoto(blob, dataUrl, name) {
-  state.selectedPhotoBlob = blob;
-  state.selectedPhotoDataUrl = dataUrl;
-  state.selectedPhotoName = name;
-  els.photoPreview.src = dataUrl;
-  els.photoPreview.hidden = false;
-  els.cameraCard.classList.add("has-photo", "is-live");
-  els.cameraActions.hidden = true;
-  els.reviewActions.hidden = false;
+  if (state.photos.length >= getMaxPhotos()) {
+    setCameraMessage(`Maximal ${getMaxPhotos()} Fotos pro Analyse.`, "error");
+    return false;
+  }
+
+  const photo = {
+    id: createId(),
+    blob,
+    dataUrl,
+    name,
+    capturedAt: new Date().toISOString(),
+  };
+  state.photos.push(photo);
+  selectPhoto(state.photos.length - 1, { silent: true });
+  updatePhotoUI();
+  return true;
 }
 
-function clearCapturedPhoto(clearPreview) {
+function selectPhoto(index, options = {}) {
+  if (!Number.isInteger(index) || index < 0 || index >= state.photos.length) return;
+  const photo = state.photos[index];
+  state.activePhotoIndex = index;
+  state.selectedPhotoBlob = photo.blob;
+  state.selectedPhotoDataUrl = photo.dataUrl;
+  state.selectedPhotoName = photo.name;
+  stopCamera();
+  showSelectedPhotoPreview();
+  updatePhotoUI();
+  if (!options.silent) setCameraMessage(`Foto ${index + 1} ausgewählt.`, "success");
+}
+
+function removePhoto(index) {
+  if (!Number.isInteger(index) || index < 0 || index >= state.photos.length) return;
+  state.photos.splice(index, 1);
+  if (!state.photos.length) {
+    clearSelectedPhoto(true);
+    showCameraCaptureControls();
+    setCameraMessage("Foto entfernt. Nimm ein neues Foto auf oder wähle eines aus.", "");
+  } else {
+    selectPhoto(Math.min(index, state.photos.length - 1), { silent: true });
+    setCameraMessage(photoReadyMessage(), "success");
+  }
+  updatePhotoUI();
+}
+
+function clearSelectedPhoto(clearPreview) {
   state.selectedPhotoBlob = null;
   state.selectedPhotoDataUrl = "";
   state.selectedPhotoName = "";
-  els.cameraActions.hidden = false;
-  els.reviewActions.hidden = true;
-  els.cameraCard.classList.remove("has-photo");
-  if (clearPreview) {
+  state.activePhotoIndex = -1;
+  if (clearPreview && els.photoPreview) {
     els.photoPreview.removeAttribute("src");
     els.photoPreview.hidden = true;
   }
+  els.cameraCard?.classList.remove("has-photo");
+}
+
+function clearAllPhotos(clearPreview) {
+  state.photos = [];
+  clearSelectedPhoto(clearPreview);
+  updatePhotoUI();
+}
+
+function updatePhotoUI() {
+  const count = state.photos.length;
+  if (els.photoTray) els.photoTray.hidden = count === 0;
+  if (els.photoCount)
+    els.photoCount.textContent = count === 1 ? "1 Foto bereit" : `${count} Fotos bereit`;
+
+  if (els.photoThumbs) {
+    els.photoThumbs.innerHTML = "";
+    state.photos.forEach((photo, index) => {
+      const item = document.createElement("div");
+      item.className = `photo-thumb${index === state.activePhotoIndex ? " active" : ""}`;
+
+      const select = document.createElement("button");
+      select.type = "button";
+      select.dataset.action = "select-photo";
+      select.dataset.photoIndex = String(index);
+      select.setAttribute("aria-label", `Foto ${index + 1} anzeigen`);
+      const image = document.createElement("img");
+      image.src = photo.dataUrl;
+      image.alt = `Foto ${index + 1}`;
+      select.append(image);
+
+      const remove = document.createElement("button");
+      remove.type = "button";
+      remove.className = "photo-remove";
+      remove.dataset.action = "remove-photo";
+      remove.dataset.photoIndex = String(index);
+      remove.setAttribute("aria-label", `Foto ${index + 1} entfernen`);
+      remove.textContent = "×";
+
+      item.append(select, remove);
+      els.photoThumbs.append(item);
+    });
+  }
+
+  const sendButtonLabel = document.querySelector('[data-action="send-photo"] span:last-child');
+  if (sendButtonLabel)
+    sendButtonLabel.textContent =
+      count > 1 ? `Analyse mit ${count} Fotos starten` : "Analyse starten";
+}
+
+function getMaxPhotos() {
+  return Math.max(1, Math.min(8, Number(CONFIG.maxPhotos) || DEFAULT_CONFIG.maxPhotos));
+}
+
+function photoReadyMessage() {
+  const count = state.photos.length;
+  if (count <= 1)
+    return "Foto bereit. Du kannst die Analyse starten oder ein weiteres Foto hinzufügen.";
+  return `${count} Fotos bereit. Je mehr gute Bilder, desto genauer kann die Erkennung werden.`;
 }
 
 async function drawMediaToJpeg(media) {
@@ -748,13 +1095,14 @@ async function sendPhotoForAnalysis(button) {
     return;
   }
 
-  if (!state.selectedPhotoBlob) {
+  if (!state.photos.length || !state.selectedPhotoBlob) {
     setCameraMessage("Nimm zuerst ein Foto auf oder wähle eines aus.", "error");
     return;
   }
 
   setBusy(button, true, "Analyse läuft...");
   setCameraMessage("Foto wird sicher an die Analyse-API gesendet...", "");
+  showAnalysisOverlay(state.photos.length);
 
   try {
     const raw = CONFIG.demoMode ? await getDemoResponse() : await postPhotoToApi();
@@ -768,8 +1116,11 @@ async function sendPhotoForAnalysis(button) {
   } catch (error) {
     console.error(error);
     setCameraMessage(error.message || "Analyse fehlgeschlagen. Bitte versuche es erneut.", "error");
+    showToast(error.message || "Analyse fehlgeschlagen.");
   } finally {
+    hideAnalysisOverlay();
     setBusy(button, false);
+    updatePhotoUI();
   }
 }
 
@@ -781,34 +1132,14 @@ async function postPhotoToApi() {
     () => controller.abort(),
     Number(CONFIG.timeoutMs) || DEFAULT_CONFIG.timeoutMs
   );
-  const uploadMode = CONFIG.uploadMode || "binary";
   const headers = { Accept: "application/json" };
   const authToken = CONFIG.auth?.attachIdTokenToAnalysisRequest ? await getCurrentIdToken() : "";
   if (authToken) headers.Authorization = `Bearer ${authToken}`;
-  let body;
-
-  if (uploadMode === "multipart") {
-    const formData = new FormData();
-    formData.append(
-      CONFIG.requestFieldName || "photo",
-      state.selectedPhotoBlob,
-      normalizeFileName(state.selectedPhotoName)
-    );
-    formData.append("client", "eskyna-pwa");
-    formData.append("capturedAt", new Date().toISOString());
-    formData.append("facingMode", state.facingMode);
-    if (state.auth.user?.uid) {
-      formData.append("userId", state.auth.user.uid);
-      formData.append("email", state.auth.user.email || "");
-      formData.append("authProvider", state.auth.user.providerId || "");
-    }
-    body = formData;
-  } else {
-    body = state.selectedPhotoBlob;
-    headers["Content-Type"] = CONFIG.contentType || "application/octet-stream";
-  }
 
   try {
+    const { body, isMultipart } = buildAnalysisRequestBody();
+    if (!isMultipart) headers["Content-Type"] = CONFIG.contentType || "application/octet-stream";
+
     const response = await fetch(CONFIG.apiEndpoint, {
       method: "POST",
       headers,
@@ -838,6 +1169,75 @@ async function postPhotoToApi() {
   } finally {
     window.clearTimeout(timeout);
   }
+}
+
+function buildAnalysisRequestBody() {
+  const photos = state.photos.length
+    ? state.photos
+    : [
+        {
+          blob: state.selectedPhotoBlob,
+          name: state.selectedPhotoName,
+          capturedAt: new Date().toISOString(),
+        },
+      ];
+  const uploadMode = CONFIG.uploadMode || "binary";
+  const multiMode = CONFIG.multiPhotoUploadMode || DEFAULT_CONFIG.multiPhotoUploadMode;
+  const shouldSendMultipart =
+    uploadMode === "multipart" || (photos.length > 1 && multiMode === "multipart");
+
+  if (shouldSendMultipart) {
+    const formData = new FormData();
+    photos.forEach((photo, index) => {
+      const fieldName = photos.length > 1 ? "photos[]" : CONFIG.requestFieldName || "photo";
+      formData.append(
+        fieldName,
+        photo.blob,
+        normalizeFileName(photo.name || `estyle-color-id-${index + 1}.jpg`)
+      );
+    });
+    formData.append("client", "eskyna-pwa");
+    formData.append("photoCount", String(photos.length));
+    formData.append("capturedAt", new Date().toISOString());
+    formData.append("facingMode", state.facingMode);
+    formData.append("uploadMode", photos.length > 1 ? "multi-photo" : "single-photo");
+    if (state.auth.user?.uid) {
+      formData.append("userId", state.auth.user.uid);
+      formData.append("email", state.auth.user.email || "");
+      formData.append("authProvider", state.auth.user.providerId || "");
+    }
+    return { body: formData, isMultipart: true };
+  }
+
+  const activePhoto = photos[state.activePhotoIndex] || photos[photos.length - 1] || photos[0];
+  return { body: activePhoto.blob, isMultipart: false };
+}
+
+function showAnalysisOverlay(photoCount) {
+  if (!els.analysisOverlay) return;
+  const countText = photoCount === 1 ? "1 Foto" : `${photoCount} Fotos`;
+  if (els.analysisPhotoCount) {
+    els.analysisPhotoCount.textContent = `Wir analysieren ${countText}. Das dauert meist etwa 30 Sekunden. Bitte bleibe auf dieser Seite.`;
+  }
+  state.analysisStartedAt = Date.now();
+  updateAnalysisElapsed();
+  window.clearInterval(state.analysisTimer);
+  state.analysisTimer = window.setInterval(updateAnalysisElapsed, 1000);
+  els.analysisOverlay.hidden = false;
+  document.body.classList.add("is-analyzing");
+}
+
+function hideAnalysisOverlay() {
+  window.clearInterval(state.analysisTimer);
+  state.analysisTimer = null;
+  if (els.analysisOverlay) els.analysisOverlay.hidden = true;
+  document.body.classList.remove("is-analyzing");
+}
+
+function updateAnalysisElapsed() {
+  if (!els.analysisElapsed || !state.analysisStartedAt) return;
+  const seconds = Math.max(0, Math.round((Date.now() - state.analysisStartedAt) / 1000));
+  els.analysisElapsed.textContent = `${seconds} Sekunden`;
 }
 
 async function getDemoResponse() {
@@ -1056,6 +1456,7 @@ function renderResult(analysis = null, raw = null, portraitOverride = "") {
     data.imageUrl ||
     state.selectedPhotoDataUrl ||
     "assets/portrait-default.webp";
+  if (els.resultInfoButton) els.resultInfoButton.hidden = !raw;
 
   if (raw) {
     els.rawResponse.hidden = false;
@@ -1085,6 +1486,158 @@ function renderPalette(container, colors, compact = false) {
     swatch.setAttribute("aria-label", `${color.name} ${color.hex}`);
     container.append(swatch);
   });
+}
+
+function openDetectionDetails() {
+  if (!state.latestRaw) {
+    showToast("Noch keine Detektionsdetails verfügbar.");
+    return;
+  }
+  renderDetectionDetails(state.latestRaw);
+  if (els.detectionSheet) els.detectionSheet.hidden = false;
+}
+
+function closeDetectionDetails() {
+  if (els.detectionSheet) els.detectionSheet.hidden = true;
+}
+
+function renderDetectionDetails(raw) {
+  const details = getDetectionDetails(raw);
+  if (els.detectionDetailsList) {
+    els.detectionDetailsList.innerHTML = "";
+    if (!details.length) {
+      const message = document.createElement("div");
+      message.className = "details-empty";
+      message.textContent = "Die API hat keine separaten Detektionsdetails geliefert.";
+      els.detectionDetailsList.append(message);
+    } else {
+      details.forEach((item) => {
+        const dt = document.createElement("dt");
+        dt.textContent = item.label;
+        const dd = document.createElement("dd");
+        dd.textContent = item.value;
+        els.detectionDetailsList.append(dt, dd);
+      });
+    }
+  }
+  if (els.detectionRawJson) els.detectionRawJson.textContent = JSON.stringify(raw, null, 2);
+}
+
+function getDetectionDetails(raw) {
+  const details = [];
+  const photoCount =
+    state.photos.length ||
+    pick(raw, ["photoCount", "analysis.photoCount", "result.photoCount", "data.photoCount"]);
+  if (photoCount) details.push({ label: "Verwendete Fotos", value: String(photoCount) });
+  const receivedAt =
+    state.latestAnalysis?.receivedAt ||
+    pick(raw, ["receivedAt", "analysis.receivedAt", "createdAt", "timestamp"]);
+  if (receivedAt) details.push({ label: "Analysezeit", value: formatDetailValue(receivedAt) });
+
+  const explicitPaths = [
+    "detection.faceDetected",
+    "detection.faces",
+    "detection.faceCount",
+    "detection.confidence",
+    "detection.quality",
+    "face.detected",
+    "face.count",
+    "face.confidence",
+    "face.quality",
+    "image.quality",
+    "image.brightness",
+    "image.sharpness",
+    "image.lighting",
+    "analysis.detection.faceDetected",
+    "analysis.detection.confidence",
+    "analysis.quality",
+    "result.detection.faceDetected",
+    "result.detection.confidence",
+    "data.detection.confidence",
+  ];
+
+  explicitPaths.forEach((path) => {
+    const value = getPath(raw, path);
+    if (value !== undefined && value !== null && value !== "") {
+      details.push({ label: formatDetailLabel(path), value: formatDetailValue(value) });
+    }
+  });
+
+  const seen = new Set(details.map((item) => `${item.label}:${item.value}`));
+  flattenObject(raw)
+    .filter((item) => isDetectionKey(item.path))
+    .slice(0, 24)
+    .forEach((item) => {
+      const detail = { label: formatDetailLabel(item.path), value: formatDetailValue(item.value) };
+      const key = `${detail.label}:${detail.value}`;
+      if (!seen.has(key)) {
+        details.push(detail);
+        seen.add(key);
+      }
+    });
+
+  return details.slice(0, 28);
+}
+
+function flattenObject(value, prefix = "", depth = 0, output = []) {
+  if (depth > 4 || value === null || value === undefined) return output;
+  if (Array.isArray(value)) {
+    if (value.length && value.every((item) => typeof item !== "object" || item === null)) {
+      output.push({ path: prefix, value });
+    } else {
+      value
+        .slice(0, 8)
+        .forEach((item, index) => flattenObject(item, `${prefix}[${index}]`, depth + 1, output));
+    }
+    return output;
+  }
+  if (typeof value === "object") {
+    Object.entries(value).forEach(([key, nested]) => {
+      const path = prefix ? `${prefix}.${key}` : key;
+      if (nested && typeof nested === "object") flattenObject(nested, path, depth + 1, output);
+      else output.push({ path, value: nested });
+    });
+    return output;
+  }
+  output.push({ path: prefix, value });
+  return output;
+}
+
+function isDetectionKey(path) {
+  return /(detect|face|gesicht|quality|qualit|score|confidence|confiden|light|brightness|illum|skin|undertone|eye|hair|blur|sharp|pose|angle|exposure|contrast|background|neutral|model)/i.test(
+    path
+  );
+}
+
+function formatDetailLabel(path) {
+  return String(path)
+    .replace(/\[(\d+)\]/g, " $1")
+    .split(".")
+    .filter(Boolean)
+    .slice(-3)
+    .join(" / ")
+    .replace(/([a-z])([A-Z])/g, "$1 $2")
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+function formatDetailValue(value) {
+  if (value === null || value === undefined) return "—";
+  if (typeof value === "boolean") return value ? "Ja" : "Nein";
+  if (typeof value === "number") {
+    if (value > 0 && value <= 1) return `${Math.round(value * 100)} %`;
+    return Number.isInteger(value) ? String(value) : value.toFixed(2);
+  }
+  if (Array.isArray(value)) return value.map(formatDetailValue).join(", ");
+  if (typeof value === "object") return JSON.stringify(value);
+  const raw = String(value);
+  const date = Date.parse(raw);
+  if (!Number.isNaN(date) && /\d{4}-\d{2}-\d{2}|T\d{2}:\d{2}/.test(raw)) {
+    return new Intl.DateTimeFormat("de-DE", { dateStyle: "short", timeStyle: "short" }).format(
+      new Date(date)
+    );
+  }
+  return raw.length > 160 ? `${raw.slice(0, 157)}...` : raw;
 }
 
 function persistAnalysis(analysis, raw) {
@@ -1124,24 +1677,319 @@ function showToast(message) {
 }
 
 async function promptInstall() {
-  if (!state.deferredInstallPrompt) {
-    showToast("Installation: In Safari über Teilen > Zum Home-Bildschirm hinzufügen.");
+  if (state.deferredInstallPrompt) {
+    state.deferredInstallPrompt.prompt();
+    await state.deferredInstallPrompt.userChoice.catch(() => undefined);
+    state.deferredInstallPrompt = null;
+    updateInstallButtons();
     return;
   }
-  state.deferredInstallPrompt.prompt();
-  await state.deferredInstallPrompt.userChoice.catch(() => undefined);
-  state.deferredInstallPrompt = null;
-  if (els.installButton) els.installButton.hidden = true;
+
+  if (isStandaloneDisplay()) {
+    showToast("EStyle ist bereits als App geöffnet.");
+    return;
+  }
+
+  const isiOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+  if (isiOS) {
+    showToast("Installation: Teilen-Button öffnen und „Zum Home-Bildschirm“ wählen.");
+  } else {
+    showToast("Installation: Browser-Menü öffnen und „App installieren“ wählen.");
+  }
+}
+
+function updateInstallButtons() {
+  const installed = isStandaloneDisplay();
+  els.installButtons.forEach((button) => {
+    button.hidden = false;
+    button.disabled = installed;
+    button.textContent = installed ? "App installiert" : "App installieren";
+  });
+}
+
+function isStandaloneDisplay() {
+  return (
+    window.matchMedia?.("(display-mode: standalone)").matches ||
+    window.navigator.standalone === true
+  );
 }
 
 function registerServiceWorker() {
-  if (!("serviceWorker" in navigator)) return;
+  if (!("serviceWorker" in navigator)) {
+    updatePushUI("Push benötigt Service Worker-Unterstützung.");
+    return;
+  }
   if (!["http:", "https:"].includes(location.protocol)) return;
   window.addEventListener("load", () => {
-    navigator.serviceWorker
-      .register("sw.js")
-      .catch((error) => console.warn("Service Worker konnte nicht registriert werden:", error));
+    getServiceWorkerRegistration().catch((error) =>
+      console.warn("Service Worker konnte nicht registriert werden:", error)
+    );
   });
+}
+
+async function getServiceWorkerRegistration() {
+  if (!("serviceWorker" in navigator))
+    throw new Error("Service Worker werden von diesem Browser nicht unterstützt.");
+  if (state.serviceWorkerRegistration) return state.serviceWorkerRegistration;
+  const existing = await navigator.serviceWorker.getRegistration();
+  state.serviceWorkerRegistration = existing || (await navigator.serviceWorker.register("sw.js"));
+  return state.serviceWorkerRegistration;
+}
+
+async function refreshPushState() {
+  if (!pushSupported()) {
+    updatePushUI(pushUnavailableMessage());
+    return;
+  }
+
+  if (Notification?.permission === "denied") {
+    state.push.status = "denied";
+    updatePushUI(
+      "Push wurde im Browser blockiert. Bitte in den Website-Einstellungen wieder erlauben."
+    );
+    return;
+  }
+
+  const storedToken = safeLocalStorageGet(STORAGE_KEYS.fcmToken);
+  if (storedToken) {
+    state.push.token = storedToken;
+    state.push.status = "subscribed";
+    updatePushUI("Patchnotes sind auf diesem Gerät aktiviert.");
+    setupForegroundMessaging().catch(() => undefined);
+    return;
+  }
+
+  state.push.status = "idle";
+  updatePushUI();
+}
+
+function pushSupported() {
+  const firebaseConfig = getFirebaseConfig();
+  return Boolean(
+    CONFIG.push?.enabled &&
+    (CONFIG.push.provider || "firebase-cloud-messaging") === "firebase-cloud-messaging" &&
+    "Notification" in window &&
+    "serviceWorker" in navigator &&
+    firebaseConfig.apiKey &&
+    firebaseConfig.projectId &&
+    firebaseConfig.messagingSenderId
+  );
+}
+
+function pushUnavailableMessage() {
+  if (!CONFIG.push?.enabled) return "Pushnachrichten sind in config.js deaktiviert.";
+  if ((CONFIG.push.provider || "firebase-cloud-messaging") !== "firebase-cloud-messaging")
+    return "Push ist nicht auf Firebase Cloud Messaging konfiguriert.";
+  if (!("Notification" in window) || !("serviceWorker" in navigator))
+    return "Dieser Browser unterstützt Web Push nicht.";
+  const firebaseConfig = getFirebaseConfig();
+  if (!firebaseConfig.messagingSenderId) return "Firebase messagingSenderId fehlt in config.js.";
+  return "Push ist auf diesem Gerät nicht verfügbar.";
+}
+
+function getFcmVapidKey() {
+  return CONFIG.push?.fcmVapidKey || CONFIG.push?.vapidPublicKey || "";
+}
+
+async function enablePushNotifications(button) {
+  closeMenu();
+  if (!CONFIG.push?.enabled) {
+    showToast("Pushnachrichten sind in config.js deaktiviert.");
+    return;
+  }
+  if (!pushSupported()) {
+    const message = pushUnavailableMessage();
+    showToast(message);
+    updatePushUI(message);
+    return;
+  }
+  if (!isAuthenticated()) {
+    showToast("Bitte zuerst mit Google anmelden.");
+    navigate("login");
+    return;
+  }
+  if (!getFcmVapidKey()) {
+    const message =
+      "FCM Web Push Key fehlt. Bitte in Firebase unter Project settings > Cloud Messaging > Web Push certificates erzeugen und in config.js als fcmVapidKey eintragen.";
+    updatePushUI(message);
+    showToast("FCM Web Push Key fehlt noch.");
+    return;
+  }
+
+  setBusy(button, true, "Aktiviere...");
+  try {
+    const permission = await Notification.requestPermission();
+    if (permission !== "granted") {
+      state.push.status = permission === "denied" ? "denied" : "idle";
+      updatePushUI(
+        permission === "denied" ? "Push wurde im Browser blockiert." : "Push wurde nicht aktiviert."
+      );
+      return;
+    }
+
+    const token = await getFcmRegistrationToken();
+    if (!token)
+      throw new Error(
+        "Firebase hat kein FCM Token zurückgegeben. Bitte Push-Key und Domain-Konfiguration prüfen."
+      );
+
+    await sendFcmTokenToServer(token);
+    state.push.token = token;
+    state.push.status = "subscribed";
+    safeLocalStorageSet(STORAGE_KEYS.fcmToken, token);
+    await setupForegroundMessaging();
+    updatePushUI("Patchnotes sind aktiviert.");
+    showToast("Patchnotes aktiviert.");
+  } catch (error) {
+    console.error(error);
+    state.push.status = "error";
+    state.push.error = fcmErrorMessage(error);
+    updatePushUI(state.push.error);
+    showToast(state.push.error);
+  } finally {
+    setBusy(button, false);
+    updatePushUI();
+  }
+}
+
+async function setupFirebaseMessaging() {
+  if (state.push.messaging && state.push.messagingModule)
+    return { messaging: state.push.messaging, messagingModule: state.push.messagingModule };
+
+  if (!state.auth.firebase?.app) {
+    if (state.auth.initPromise) await state.auth.initPromise;
+    if (!state.auth.firebase?.app) await setupFirebaseAuth();
+  }
+
+  const sdkVersion = CONFIG.auth?.firebaseSdkVersion || DEFAULT_CONFIG.auth.firebaseSdkVersion;
+  const baseUrl = `https://www.gstatic.com/firebasejs/${encodeURIComponent(sdkVersion)}`;
+  const messagingModule = await import(`${baseUrl}/firebase-messaging.js`);
+
+  if (messagingModule.isSupported) {
+    const supported = await messagingModule.isSupported().catch(() => false);
+    if (!supported)
+      throw new Error("Firebase Cloud Messaging wird von diesem Browser nicht unterstützt.");
+  }
+
+  const messaging = messagingModule.getMessaging(state.auth.firebase.app);
+  state.push.messaging = messaging;
+  state.push.messagingModule = messagingModule;
+  return { messaging, messagingModule };
+}
+
+async function getFcmRegistrationToken() {
+  const registration = await getServiceWorkerRegistration();
+  await navigator.serviceWorker.ready.catch(() => undefined);
+  const { messaging, messagingModule } = await setupFirebaseMessaging();
+  return messagingModule.getToken(messaging, {
+    vapidKey: getFcmVapidKey(),
+    serviceWorkerRegistration: registration,
+  });
+}
+
+async function setupForegroundMessaging() {
+  if (state.push.foregroundListenerReady) return;
+  if (!pushSupported() || Notification?.permission !== "granted") return;
+
+  const { messaging, messagingModule } = await setupFirebaseMessaging();
+  if (!messagingModule.onMessage) return;
+
+  messagingModule.onMessage(messaging, (payload) => {
+    const notification = payload.notification || {};
+    const data = payload.data || {};
+    const title = notification.title || data.title || "EStyle Update";
+    const body = notification.body || data.body || "Es gibt Neuigkeiten in deiner EStyle App.";
+    showToast(`${title}: ${body}`);
+  });
+  state.push.foregroundListenerReady = true;
+}
+
+async function sendFcmTokenToServer(token) {
+  const endpoint = CONFIG.push?.registerTokenEndpoint;
+  if (!endpoint) return;
+
+  const payload = {
+    token,
+    provider: "firebase-cloud-messaging",
+    topic: CONFIG.push.topic || "patchnotes",
+    user: state.auth.user
+      ? {
+          uid: state.auth.user.uid,
+          email: state.auth.user.email || "",
+          providerId: state.auth.user.providerId || "",
+        }
+      : null,
+    createdAt: new Date().toISOString(),
+    notificationPermission: Notification.permission,
+    userAgent: navigator.userAgent,
+  };
+  const headers = { "Content-Type": "application/json", Accept: "application/json" };
+  if (CONFIG.push?.attachIdTokenToRegisterRequest !== false) {
+    const authToken = await getCurrentIdToken();
+    if (authToken) headers.Authorization = `Bearer ${authToken}`;
+  }
+
+  const response = await fetch(endpoint, {
+    method: "POST",
+    headers,
+    body: JSON.stringify(payload),
+    credentials: CONFIG.credentials || "same-origin",
+    cache: "no-store",
+  });
+  if (!response.ok) {
+    throw new Error(
+      `FCM Token erstellt, aber Server-Speicherung fehlgeschlagen (${response.status}).`
+    );
+  }
+}
+
+function updatePushUI(message = "") {
+  if (!els.pushButton && !els.pushStatus) return;
+  let label = "Patchnotes aktivieren";
+  let status = message;
+
+  if (!CONFIG.push?.enabled) {
+    label = "Push deaktiviert";
+    status ||= "Pushnachrichten sind deaktiviert.";
+  } else if (!pushSupported()) {
+    label = "Push nicht verfügbar";
+    status ||= pushUnavailableMessage();
+  } else if (!getFcmVapidKey()) {
+    label = "Patchnotes aktivieren";
+    status ||= "FCM Web Push Key fehlt noch in config.js.";
+  } else if (state.push.status === "subscribed") {
+    label = "Patchnotes aktiviert";
+    status ||= "Du erhältst Pushnachrichten für Updates.";
+  } else if (state.push.status === "denied") {
+    label = "Push blockiert";
+    status ||= "Bitte Push im Browser erlauben.";
+  } else if (state.push.status === "error") {
+    label = "Erneut versuchen";
+    status ||= state.push.error || "Push konnte nicht aktiviert werden.";
+  } else if (!isAuthenticated()) {
+    status ||= "Patchnotes können nach dem Login aktiviert werden.";
+  } else {
+    status ||= "Aktiviere Patchnotes über Firebase Cloud Messaging.";
+  }
+
+  if (els.pushButton) {
+    els.pushButton.textContent = label;
+    els.pushButton.disabled = state.push.status === "subscribed" || state.push.status === "denied";
+  }
+  if (els.pushStatus) els.pushStatus.textContent = status;
+}
+
+function fcmErrorMessage(error) {
+  const code = error?.code || "";
+  if (code.includes("messaging/permission-blocked"))
+    return "Push wurde im Browser blockiert. Bitte in den Website-Einstellungen erlauben.";
+  if (code.includes("messaging/token-subscribe-failed"))
+    return "FCM konnte kein Token erstellen. Bitte Web Push Key und autorisierte Domain prüfen.";
+  if (code.includes("messaging/unsupported-browser"))
+    return "Firebase Cloud Messaging wird von diesem Browser nicht unterstützt.";
+  if (code.includes("messaging/failed-service-worker-registration"))
+    return "Der Service Worker konnte nicht für FCM registriert werden.";
+  return error?.message || "Push konnte nicht aktiviert werden.";
 }
 
 function safeLocalStorageGet(key) {
@@ -1156,7 +2004,7 @@ function safeLocalStorageSet(key, value) {
   try {
     localStorage.setItem(key, value);
   } catch (_) {
-    /* Storage may be blocked. */
+    /* Storage kann in privaten Browserfenstern blockiert sein. */
   }
 }
 
@@ -1164,7 +2012,7 @@ function safeLocalStorageRemove(key) {
   try {
     localStorage.removeItem(key);
   } catch (_) {
-    /* Storage may be blocked. */
+    /* Storage kann in privaten Browserfenstern blockiert sein. */
   }
 }
 
@@ -1180,7 +2028,7 @@ function safeSessionStorageSet(key, value) {
   try {
     sessionStorage.setItem(key, value);
   } catch (_) {
-    /* Storage may be blocked. */
+    /* Storage kann in privaten Browserfenstern blockiert sein. */
   }
 }
 
@@ -1188,7 +2036,7 @@ function safeSessionStorageRemove(key) {
   try {
     sessionStorage.removeItem(key);
   } catch (_) {
-    /* Storage may be blocked. */
+    /* Storage kann in privaten Browserfenstern blockiert sein. */
   }
 }
 

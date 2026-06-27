@@ -42,7 +42,21 @@
             <p>Dein digitaler Stylist</p>
           </div>
           <div class="welcome-actions">
-            <button type="button" class="btn btn-glass" data-route="create">Loslegen</button>
+            <a
+              href="#login"
+              class="btn btn-glass welcome-start"
+              id="startButton"
+              data-route="create"
+              role="button"
+              >Loslegen</a
+            >
+            <button
+              type="button"
+              class="btn btn-text-light welcome-install"
+              data-action="install-app"
+            >
+              App installieren
+            </button>
           </div>
         </div>
       </section>
@@ -277,15 +291,28 @@
             <button type="button" class="btn btn-outline" data-action="pick-file">
               Foto auswählen
             </button>
-            <input id="fileInput" type="file" accept="image/*" capture="user" hidden />
+            <input id="fileInput" type="file" accept="image/*" capture="user" multiple hidden />
+          </div>
+
+          <div class="photo-tray" id="photoTray" hidden>
+            <div class="photo-tray-head">
+              <strong id="photoCount">0 Fotos bereit</strong>
+              <span>Je mehr Bilder, desto genauer kann die Erkennung werden.</span>
+            </div>
+            <div class="photo-thumbs" id="photoThumbs" aria-label="Ausgewählte Fotos"></div>
           </div>
 
           <div class="review-actions" id="reviewActions" hidden>
+            <button type="button" class="btn btn-outline" data-action="add-photo">
+              Weiteres Foto hinzufügen
+            </button>
             <button type="button" class="btn btn-outline" data-action="retake-photo">
-              Neu aufnehmen
+              Alle neu aufnehmen
             </button>
             <button type="button" class="btn btn-brand btn-wide" data-action="send-photo">
-              <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />Analyse starten
+              <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" /><span
+                >Analyse starten</span
+              >
             </button>
           </div>
 
@@ -318,12 +345,24 @@
         <div class="scroll-area result-scroll">
           <article class="result-card">
             <div class="result-head">
-              <img
-                id="resultPortrait"
-                src="assets/portrait-default.webp"
-                alt="Analysiertes Portrait"
-                class="result-portrait"
-              />
+              <div class="result-image-wrap">
+                <img
+                  id="resultPortrait"
+                  src="assets/portrait-default.webp"
+                  alt="Analysiertes Portrait"
+                  class="result-portrait"
+                />
+                <button
+                  type="button"
+                  class="info-button"
+                  id="resultInfoButton"
+                  data-action="open-detection-details"
+                  aria-label="Detektionsdetails anzeigen"
+                  hidden
+                >
+                  i
+                </button>
+              </div>
               <div class="result-label">
                 <span>Farbtyp:</span>
                 <strong id="colorTypeText">Noch keine Analyse</strong>
@@ -356,7 +395,10 @@
           </article>
         </div>
 
-        <div class="sticky-action">
+        <div class="sticky-action result-actions">
+          <button type="button" class="btn btn-outline btn-wide" data-route="camera">
+            Weiteres Foto hochladen
+          </button>
           <button type="button" class="btn btn-brand" data-action="style-question">
             <img src="assets/logo-gold.png" alt="EStyle Logo" aria-hidden="true" />Stell mir eine
             Style-Frage
@@ -410,12 +452,57 @@
           <button type="button" data-route="create">Color ID erstellen</button>
           <button type="button" data-route="camera">Fotoanalyse starten</button>
           <button type="button" data-route="result">Meine Analyse</button>
-          <button type="button" data-action="install-app" id="installButton" hidden>
+          <button type="button" data-action="install-app" id="installButton">
             App installieren
           </button>
+          <button type="button" data-action="enable-push" id="pushButton">
+            Patchnotes aktivieren
+          </button>
+          <p class="menu-status" id="pushStatus"></p>
           <button type="button" data-action="logout" id="logoutButton" hidden>Abmelden</button>
           <button type="button" data-action="close-menu">Schließen</button>
         </aside>
+      </div>
+
+      <div class="analysis-overlay" id="analysisOverlay" hidden>
+        <div class="analysis-card" role="status" aria-live="polite">
+          <div class="analysis-mark-wrap" aria-hidden="true">
+            <img src="assets/sign_gold.png" alt="Signatur in Gold" class="analysis-mark" />
+          </div>
+          <strong>Deine Farb-ID wird erstellt</strong>
+          <p id="analysisPhotoCount">Die Analyse läuft. Das dauert meist etwa 30 Sekunden.</p>
+          <div class="analysis-progress" aria-hidden="true"><span></span></div>
+          <small id="analysisElapsed">0 Sekunden</small>
+        </div>
+      </div>
+
+      <div class="details-sheet" id="detectionSheet" hidden>
+        <button
+          type="button"
+          class="details-backdrop"
+          data-action="close-detection-details"
+          aria-label="Details schließen"
+        ></button>
+        <section class="details-panel" aria-labelledby="detectionTitle">
+          <button
+            type="button"
+            class="details-close"
+            data-action="close-detection-details"
+            aria-label="Details schließen"
+          >
+            ×
+          </button>
+          <h2 id="detectionTitle">Detektionsdetails</h2>
+          <p>
+            Hier siehst du die technischen Hinweise, die die API zur Foto- und Gesichtserkennung
+            zurückgegeben hat.
+          </p>
+          <dl class="details-list" id="detectionDetailsList"></dl>
+          <details class="raw-response detection-raw">
+            <summary>Komplette API-Antwort anzeigen</summary>
+            <pre id="detectionRawJson"></pre>
+          </details>
+        </section>
       </div>
 
       <div class="toast" id="toast" role="status" aria-live="polite"></div>
