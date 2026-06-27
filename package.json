@@ -30,7 +30,7 @@
     "lint:copy": "node bin/check-copy-style"
   },
   "devDependencies": {
-    "@playwright/test": "^1.61.0",
+    "@playwright/test": "^1.61.1",
     "@lhci/cli": "^0.15.1",
     "markdownlint-cli2": "^0.22.1",
     "prettier": "^3.8.4",
