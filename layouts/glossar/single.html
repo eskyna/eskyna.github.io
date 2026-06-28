@@ -1,0 +1,59 @@
+{{ define "main" }}
+{{ $pageUI := .Params.ui }}
+{{ $sectionUI := dict }}
+{{ with .CurrentSection }}{{ $sectionUI = .Params.ui }}{{ end }}
+{{ $homeUI := .Site.Home.Params.ui }}
+{{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
+{{ $relatedText := or $pageUI.related_text $sectionUI.related_text $homeUI.related_text "Verwandte Begriffe" }}
+
+<main class="glossar-page">
+  <section class="hero-small glossar-hero">
+    <div class="container glossar-hero-shell">
+      <div class="glossar-hero-copy">
+        <a class="back-link" href="{{ "glossar" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
+        
+        {{ with .Params.category }}
+        <p class="eyebrow glossar-category">{{ . }}</p>
+        {{ end }}
+        
+        <h1 class="glossar-display-title">{{ .Title }}</h1>
+        
+        {{ with .Description }}
+        <p class="glossar-hero-description">{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossar-content-section">
+    <div class="container glossar-content-shell">
+      <article class="glossar-single">
+        <div class="glossar-body">
+          {{ .Content }}
+        </div>
+
+        {{ with .Params.relatedTerms }}
+        <aside class="glossar-related">
+          <h3>{{ $relatedText }}</h3>
+          <ul class="glossar-related-list">
+            {{ range . }}
+            <li>
+              <a href="{{ .url }}">{{ .title }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </aside>
+        {{ end }}
+
+        {{ with .Params.cta }}
+        <div class="glossar-cta">
+          {{ .content | safeHTML }}
+        </div>
+        {{ end }}
+      </article>
+    </div>
+  </section>
+
+  {{ partial "contact-modal.html" . }}
+</main>
+{{ end }}

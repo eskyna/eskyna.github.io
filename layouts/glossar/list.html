@@ -1,0 +1,214 @@
+{{ define "main" }}
+{{ $sectionUI := .Params.ui }}
+{{ $homeUI := .Site.Home.Params.ui }}
+{{ $byAlphabetText := or $sectionUI.by_alphabet_text $homeUI.by_alphabet_text "Nach Alphabet" }}
+{{ $byCategoryText := or $sectionUI.by_category_text $homeUI.by_category_text "Nach Kategorie" }}
+{{ $searchPlaceholderText := or $sectionUI.search_placeholder $homeUI.search_placeholder "Begriff suchen..." }}
+
+<main class="glossar-list-page">
+  <section class="hero-small glossar-list-hero">
+    <div class="container">
+      <div class="glossar-list-hero-copy">
+        <h1 class="glossar-list-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="glossar-list-description">{{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossar-navigation-section">
+    <div class="container glossar-navigation-shell">
+      <!-- Suchfeld -->
+      <div class="glossar-search-box">
+        <input 
+          type="search" 
+          id="glossar-search" 
+          class="glossar-search-input" 
+          placeholder="{{ $searchPlaceholderText }}"
+          aria-label="{{ $searchPlaceholderText }}"
+        >
+      </div>
+
+      <!-- Tab-Navigation: A-Z vs. Kategorien -->
+      <div class="glossar-tabs" role="tablist">
+        <button 
+          class="glossar-tab active" 
+          id="glossar-tab-alphabet" 
+          role="tab"
+          aria-selected="true" 
+          aria-controls="glossar-panel-alphabet"
+        >
+          {{ $byAlphabetText }}
+        </button>
+        <button 
+          class="glossar-tab" 
+          id="glossar-tab-categories" 
+          role="tab"
+          aria-selected="false" 
+          aria-controls="glossar-panel-categories"
+        >
+          {{ $byCategoryText }}
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- PANEL 1: Alphabetische Ansicht -->
+  <section 
+    class="glossar-panel active" 
+    id="glossar-panel-alphabet" 
+    role="tabpanel"
+    aria-labelledby="glossar-tab-alphabet"
+  >
+    <div class="container glossar-content-shell">
+      <div class="glossar-alphabet-view">
+        {{ $glossarPages := where (where .Site.AllPages "Type" "glossar") "Kind" "page" }}
+        {{ $glossarTerms := sort $glossarPages "Title" "asc" }}
+        
+        <!-- A-Z Index für schnelle Navigation -->
+        <div class="glossar-alphabet-index">
+          {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+          {{ range $letters }}
+            {{ $letter := . }}
+            {{ $letterLower := lower . }}
+            {{ $found := false }}
+            {{ range $glossarTerms }}
+              {{ if eq (substr (lower .Title) 0 1) $letterLower }}
+                {{ $found = true }}
+              {{ end }}
+            {{ end }}
+            {{ if $found }}
+              <a href="#letter-{{ $letterLower }}" class="glossar-letter-link">{{ . }}</a>
+            {{ else }}
+              <span class="glossar-letter-link glossar-letter-inactive">{{ . }}</span>
+            {{ end }}
+          {{ end }}
+        </div>
+
+        <!-- Glossarbegriffe gruppiert nach Anfangsbuchstaben -->
+        {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+        {{ range $letters }}
+          {{ $letter := . }}
+          {{ $letterLower := lower . }}
+          {{ $hasTerms := false }}
+          {{ range $glossarTerms }}
+            {{ if eq (substr (lower .Title) 0 1) $letterLower }}
+              {{ $hasTerms = true }}
+            {{ end }}
+          {{ end }}
+          {{ if $hasTerms }}
+            <div class="glossar-letter-group" id="letter-{{ $letterLower }}">
+              <h2 class="glossar-letter-heading">{{ . }}</h2>
+              <ul class="glossar-term-list">
+                {{ range $glossarTerms }}
+                  {{ if eq (substr (lower .Title) 0 1) $letterLower }}
+                    <li class="glossar-term-item">
+                      <a href="{{ .RelPermalink }}" class="glossar-term-link">
+                        <span class="glossar-term-title">{{ .Title }}</span>
+                        {{ with .Description }}
+                          <span class="glossar-term-excerpt">{{ . }}</span>
+                        {{ end }}
+                      </a>
+                    </li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <!-- PANEL 2: Kategorische Ansicht -->
+  <section 
+    class="glossar-panel" 
+    id="glossar-panel-categories" 
+    role="tabpanel"
+    aria-labelledby="glossar-tab-categories"
+    hidden
+  >
+    <div class="container glossar-content-shell">
+      <div class="glossar-category-view">
+        {{ $glossarPages := where (where .Site.AllPages "Type" "glossar") "Kind" "page" }}
+        
+        {{ $categories := slice 
+          "Stil & Wirkung" 
+          "Farbberatung & Farbe"
+          "Schnitt, Proportion & Passform"
+          "Garderobe & Alltag"
+          "Materialien & Details"
+          "Farb-Lexikon"
+        }}
+        
+        {{ range $categories }}
+          {{ $category := . }}
+          {{ $termsInCategory := where $glossarPages "Params.category" $category }}
+          {{ if $termsInCategory }}
+            <div class="glossar-category-group">
+              <h2 class="glossar-category-heading">{{ $category }}</h2>
+              <ul class="glossar-term-list">
+                {{ range sort $termsInCategory "Title" "asc" }}
+                  <li class="glossar-term-item">
+                    <a href="{{ .RelPermalink }}" class="glossar-term-link">
+                      <span class="glossar-term-title">{{ .Title }}</span>
+                      {{ with .Description }}
+                        <span class="glossar-term-excerpt">{{ . }}</span>
+                      {{ end }}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  {{ partial "contact-modal.html" . }}
+</main>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Tab-Navigation
+  const tabs = document.querySelectorAll('[role="tab"]');
+  const panels = document.querySelectorAll('[role="tabpanel"]');
+  
+  tabs.forEach(tab => {
+    tab.addEventListener('click', function() {
+      tabs.forEach(t => {
+        t.classList.remove('active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      panels.forEach(p => p.hidden = true);
+      
+      this.classList.add('active');
+      this.setAttribute('aria-selected', 'true');
+      document.getElementById(this.getAttribute('aria-controls')).hidden = false;
+    });
+  });
+
+  // Suchfunktion
+  const searchInput = document.getElementById('glossar-search');
+  if (searchInput) {
+    searchInput.addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      const terms = document.querySelectorAll('.glossar-term-item');
+      
+      terms.forEach(term => {
+        const title = term.querySelector('.glossar-term-title').textContent.toLowerCase();
+        const excerpt = term.querySelector('.glossar-term-excerpt')?.textContent.toLowerCase() || '';
+        
+        if (title.includes(query) || excerpt.includes(query)) {
+          term.style.display = '';
+        } else {
+          term.style.display = 'none';
+        }
+      });
+    });
+  }
+});
+</script>
+{{ end }}
