@@ -293,6 +293,7 @@ ui:
   social_links_label: "Social Media Links"
   footer_about_text: "Über mich"
   footer_estyle_text: "EStyle"
+  footer_glossar_text: "Glossar"
   footer_imprint_text: "Impressum"
   footer_privacy_text: "Datenschutzerklärung"
   quicklinks_title: "Schnellzugriff"

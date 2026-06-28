@@ -299,6 +299,7 @@ ui:
   footer_about_text: Обо мне
   footer_blog_text: Блог
   footer_estyle_text: EStyle
+  footer_glossar_text: Глоссарий
   footer_imprint_text: Правовая информация
   footer_privacy_text: Политика конфиденциальности
   quicklinks_title: Быстрый доступ

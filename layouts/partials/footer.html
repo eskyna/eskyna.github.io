@@ -5,11 +5,13 @@
     {{ $aboutText := or $pageUI.footer_about_text $homeUI.footer_about_text "Über mich" }}
     {{ $blogText := or $pageUI.footer_blog_text $homeUI.footer_blog_text "Blog" }}
     {{ $estyleText := or $pageUI.footer_estyle_text $homeUI.footer_estyle_text "EStyle" }}
+    {{ $glossarText := or $pageUI.footer_glossar_text $homeUI.footer_glossar_text "Glossar" }}
     {{ $imprintText := or $pageUI.footer_imprint_text $homeUI.footer_imprint_text "Impressum" }}
     {{ $privacyText := or $pageUI.footer_privacy_text $homeUI.footer_privacy_text "Datenschutzerklärung" }}
     <a href="{{ "about/" | relLangURL }}" title="{{ $aboutText }}">{{ $aboutText }}</a>
     <a href="{{ "blog/" | relLangURL }}" title="{{ $blogText }}">{{ $blogText }}</a>
     <a href="{{ "estyle/" | relLangURL }}" title="{{ $estyleText }}">{{ $estyleText }}</a>
+    <a href="{{ "glossar/" | relLangURL }}" title="{{ $glossarText }}">{{ $glossarText }}</a>
     <a href="{{ "impressum/" | relLangURL }}" title="{{ $imprintText }}">{{ $imprintText }}</a>
     <a href="{{ "datenschutz/" | relLangURL }}" title="{{ $privacyText }}">{{ $privacyText }}</a>
     <span class="visually-hidden">{{ i18n "footer_a11y" }}</span>
