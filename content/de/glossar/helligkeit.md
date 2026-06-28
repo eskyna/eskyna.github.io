@@ -7,7 +7,7 @@ tags: ["helligkeit", "farbe", "kontrast", "farbberatung"]
 keywords: ["helligkeit farbe", "hell dunkel kontrast", "farben kombinieren"]
 glossar_order: "h"
 weight: 20
-draft: false
+
 image: "images/glossar/helligkeit.svg"
 image_alt: "Editoriale Grafik zum Glossarbegriff Helligkeit mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:

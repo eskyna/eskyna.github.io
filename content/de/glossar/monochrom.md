@@ -7,7 +7,6 @@ tags: ["monochrom", "ton in ton", "farbberatung", "styling"]
 keywords: ["monochrom outfit", "monochrom kleidung", "ton in ton look", "farben kombinieren"]
 glossar_order: "m"
 weight: 21
-draft: false
 image: "images/glossar/monochrom.svg"
 image_alt: "Editoriale Grafik zum Glossarbegriff Monochrom mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:

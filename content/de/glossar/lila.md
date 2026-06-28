@@ -8,7 +8,6 @@ tags: ["lila", "violett", "flieder", "farbe"]
 keywords: ["lila kleidung", "lila kombinieren", "violett farbberatung", "flieder kleidung"]
 glossar_order: "l"
 weight: 15
-draft: false
 image: "images/glossar/lila.svg"
 image_alt: "Editoriale Grafik mit Lila-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:

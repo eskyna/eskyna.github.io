@@ -8,7 +8,6 @@ tags: ["creme", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["creme kleidung", "creme kombinieren", "creme farbberatung", "creme statt weiß"]
 glossar_order: "c"
 weight: 11
-draft: false
 image: "images/glossar/creme.svg"
 image_alt: "Editoriale Grafik mit Creme-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:

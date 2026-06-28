@@ -8,7 +8,7 @@ keywords:
   ["neutrale farben", "basisfarben garderobe", "farben kombinieren", "capsule wardrobe farben"]
 glossar_order: "n"
 weight: 24
-draft: false
+
 image: "images/glossar/neutrale-farben.svg"
 image_alt: "Editoriale Grafik zum Glossarbegriff Neutrale Farben mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:

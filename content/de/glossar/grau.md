@@ -8,7 +8,7 @@ tags: ["grau", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["grau kleidung", "grau kombinieren", "anthrazit", "grau farbberatung"]
 glossar_order: "g"
 weight: 12
-draft: false
+
 image: "images/glossar/grau.svg"
 image_alt: "Editoriale Grafik mit Grau-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:

@@ -9,7 +9,7 @@ keywords:
   ["terracotta kleidung", "terracotta kombinieren", "erdige farben", "farbberatung terracotta"]
 glossar_order: "t"
 weight: 17
-draft: false
+
 image: "images/glossar/terracotta.svg"
 image_alt: "Editoriale Grafik mit Terracotta-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:
