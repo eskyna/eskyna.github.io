@@ -1998,37 +1998,9 @@ async function setupForegroundMessaging() {
 }
 
 async function sendFcmTokenToServer(token) {
-  const storageMode = CONFIG.push?.tokenStorage || "firestore";
-  if (storageMode !== "endpoint") {
-    await saveFcmTokenToFirestore(token);
-    return;
-  }
-
-  const endpoint = CONFIG.push?.registerTokenEndpoint;
-  if (!endpoint) {
-    await saveFcmTokenToFirestore(token);
-    return;
-  }
-
-  const payload = buildFcmTokenPayload(token);
-  const headers = { "Content-Type": "application/json", Accept: "application/json" };
-  if (CONFIG.push?.attachIdTokenToRegisterRequest !== false) {
-    const authToken = await getCurrentIdToken();
-    if (authToken) headers.Authorization = `Bearer ${authToken}`;
-  }
-
-  const response = await fetch(endpoint, {
-    method: "POST",
-    headers,
-    body: JSON.stringify(payload),
-    credentials: CONFIG.credentials || "same-origin",
-    cache: "no-store",
-  });
-  if (!response.ok) {
-    throw new Error(
-      `FCM Token erstellt, aber Server-Speicherung fehlgeschlagen (${response.status}).`
-    );
-  }
+  // EStyle PWA stores FCM tokens directly in Firestore.
+  // This avoids endpoint dependencies that do not exist on GitHub Pages.
+  await saveFcmTokenToFirestore(token);
 }
 
 function buildFcmTokenPayload(token) {
