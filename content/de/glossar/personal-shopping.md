@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Personal Shopping?"
+title: "Personal Shopping"
 term: "Personal Shopping"
 description: "Personal Shopping ist eine begleitete oder kuratierte Einkaufserfahrung mit Fokus auf passende Kleidung."
 category: "Stil & Wirkung"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Einkaufsliste?"
+title: "Einkaufsliste"
 term: "Einkaufsliste"
 description: "Eine Einkaufsliste übersetzt Garderobenlücken in konkrete, sinnvolle Anschaffungen."
 category: "Garderobe & Alltag"

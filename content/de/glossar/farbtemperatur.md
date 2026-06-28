@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Farbtemperatur?"
+title: "Farbtemperatur"
 term: "Farbtemperatur"
 description: "Farbtemperatur beschreibt, ob Farben warm, kühl oder neutral wirken und wie sie mit Haut, Haaren und Augen zusammenspielen."
 category: "Farbberatung & Farbe"

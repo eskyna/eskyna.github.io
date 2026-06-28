@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Reisegarderobe?"
+title: "Reisegarderobe"
 term: "Reisegarderobe"
 description: "Eine Reisegarderobe ist eine kleine, gut kombinierbare Auswahl an Kleidung für unterwegs."
 category: "Garderobe & Alltag"

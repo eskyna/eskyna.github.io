@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Imageberatung?"
+title: "Imageberatung"
 term: "Imageberatung"
 description: "Imageberatung beschäftigt sich mit der Frage, welches Bild Kleidung und Auftreten nach außen senden."
 category: "Stil & Wirkung"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Sättigung bei Farben?"
+title: "Sättigung"
 term: "Sättigung"
 description: "Sättigung beschreibt, wie intensiv oder gedämpft eine Farbe wirkt und wie stark sie im Outfit sichtbar wird."
 category: "Farbberatung & Farbe"

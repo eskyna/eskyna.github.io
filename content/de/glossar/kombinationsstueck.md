@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Kombinationsstück?"
+title: "Kombinationsstück"
 term: "Kombinationsstück"
 description: "Ein Kombinationsstück ist ein Teil, das besonders viele Outfits ermöglicht und andere Kleidungsstücke verbindet."
 category: "Garderobe & Alltag"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Knee-High Boots?"
+title: "Knee-High Boots"
 term: "Knee-High Boots"
 description: "Knee-High Boots sind Stiefel, die bis zum Knie reichen und eine starke vertikale Linie erzeugen."
 category: "Garderobe & Alltag"

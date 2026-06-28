@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Nadelstreifen?"
+title: "Nadelstreifen"
 term: "Nadelstreifen"
 description: "Nadelstreifen sind sehr feine, schmale Streifen, die besonders bei Anzügen und Businessstoffen vorkommen."
 category: "Materialien & Details"

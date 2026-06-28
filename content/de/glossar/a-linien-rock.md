@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet A-Linien-Rock?"
+title: "A-Linien-Rock"
 term: "A-Linien-Rock"
 description: "Ein A-Linien-Rock sitzt meist schmaler an Taille oder Hüfte und wird zum Saum hin weiter."
 category: "Garderobe & Alltag"

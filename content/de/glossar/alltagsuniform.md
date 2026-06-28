@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Alltagsuniform?"
+title: "Alltagsuniform"
 term: "Alltagsuniform"
 description: "Eine Alltagsuniform ist eine persönliche Outfitformel, die regelmäßig funktioniert und Entscheidungen erleichtert."
 category: "Garderobe & Alltag"

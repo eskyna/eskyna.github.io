@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Nachhaltige Garderobe?"
+title: "Nachhaltige Garderobe"
 term: "Nachhaltige Garderobe"
 description: "Eine nachhaltige Garderobe setzt auf bewusste Auswahl, gute Qualität, lange Nutzung und weniger Fehlkäufe."
 category: "Garderobe & Alltag"

@@ -1,5 +1,5 @@
 ---
-title: "Was ist ein Mary Jane Schuh?"
+title: "Mary Jane Schuh"
 term: "Mary Jane"
 description: "Mary Janes sind Schuhe mit Riemchen über dem Spann und wirken je nach Form klassisch, feminin oder modern."
 category: "Schuhe"

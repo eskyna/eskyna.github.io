@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Outfit-Formel?"
+title: "Outfit-Formel"
 term: "Outfit-Formel"
 description: "Eine Outfit-Formel ist eine wiederholbare Kombination, die im Alltag funktioniert und Stilentscheidungen leichter macht."
 category: "Garderobe & Alltag"

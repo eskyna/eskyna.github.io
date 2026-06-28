@@ -1,5 +1,5 @@
 ---
-title: "Was ist ein Hut im Styling?"
+title: "Hut"
 term: "Hut"
 description: "Ein Hut ist eine Kopfbedeckung mit Krempe, die Gesicht, Silhouette und Gesamtwirkung eines Outfits stark verändert."
 category: "Materialien & Details"

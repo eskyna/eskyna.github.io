@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Paperbag-Hose?"
+title: "Paperbag-Hose"
 term: "Paperbag-Hose"
 description: "Eine Paperbag-Hose hat einen hohen, gerafften Bund, der die Taille betont und dem Outfit Volumen gibt."
 category: "Garderobe & Alltag"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Struktur bei Kleidung?"
+title: "Struktur"
 term: "Struktur"
 description: "Struktur beschreibt sichtbare oder fühlbare Oberflächen in Stoffen und gibt ruhigen Outfits Tiefe, Charakter und Qualität."
 category: "Materialien & Details"

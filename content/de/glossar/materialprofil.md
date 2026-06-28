@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Materialprofil?"
+title: "Materialprofil"
 term: "Materialprofil"
 description: "Ein Materialprofil beschreibt Stoffe und Oberflächen, die zur Person, zur Wirkung und zum Alltag passen."
 category: "Stil & Wirkung"

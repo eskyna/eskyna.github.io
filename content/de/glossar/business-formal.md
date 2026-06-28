@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Business Formal?"
+title: "Business Formal"
 term: "Business Formal"
 description: "Business Formal bezeichnet klassische, formelle Businesskleidung mit klaren Schnitten, ruhigen Farben und hoher Verbindlichkeit."
 category: "Garderobe & Alltag"

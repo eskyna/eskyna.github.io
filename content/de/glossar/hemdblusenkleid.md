@@ -1,5 +1,5 @@
 ---
-title: "Was ist ein Hemdblusenkleid?"
+title: "Hemdblusenkleid"
 term: "Hemdblusenkleid"
 description: "Ein Hemdblusenkleid verbindet die Elemente eines Hemdes oder einer Bluse mit der Form eines Kleides."
 category: "Kleider & Röcke"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Utility Jacket?"
+title: "Utility Jacket"
 term: "Utility Jacket"
 description: "Eine Utility Jacket ist eine funktional inspirierte Jacke mit klaren Taschen, robustem Stoff und lässiger Struktur."
 category: "Garderobe & Alltag"

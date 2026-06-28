@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Old Money Style?"
+title: "Old Money Style"
 term: "Old Money Style"
 description: "Old Money Style beschreibt einen klassisch hochwertigen Stil mit ruhigen Farben, guten Materialien und zurückhaltender Wirkung."
 category: "Stil & Wirkung"

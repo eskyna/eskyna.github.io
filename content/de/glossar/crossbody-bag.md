@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Crossbody Bag?"
+title: "Crossbody Bag"
 term: "Crossbody Bag"
 description: "Eine Crossbody Bag wird quer über dem Körper getragen und verbindet Bewegungsfreiheit mit klarer Linienführung."
 category: "Materialien & Details"

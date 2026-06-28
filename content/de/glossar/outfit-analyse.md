@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Outfit-Analyse?"
+title: "Outfit-Analyse"
 term: "Outfit-Analyse"
 description: "Eine Outfit-Analyse erklärt, warum ein Look funktioniert, unruhig wirkt oder noch nicht stimmig ist."
 category: "Stil & Wirkung"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Chemische Reinigung?"
+title: "Chemische Reinigung"
 term: "Chemische Reinigung"
 description: "Chemische Reinigung ist eine professionelle Reinigungsart für empfindliche oder strukturierte Kleidungsstücke."
 category: "Materialien & Details"

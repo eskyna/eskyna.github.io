@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Your Signature?"
+title: "Your Signature"
 term: "Your Signature"
 description: "Your Signature ist der individuelle Stilcode, der eine Person wiedererkennbar und stimmig sichtbar macht."
 category: "Stil & Wirkung"

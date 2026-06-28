@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Ton-in-Ton-Muster?"
+title: "Ton-in-Ton-Muster"
 term: "Ton-in-Ton-Muster"
 description: "Ein Ton-in-Ton-Muster nutzt ähnliche Farben und wirkt dadurch ruhiger als ein stark kontrastierender Print."
 category: "Materialien & Details"

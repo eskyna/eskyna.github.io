@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Business Casual?"
+title: "Business Casual"
 term: "Business Casual"
 description: "Business Casual beschreibt einen gepflegten beruflichen Stil, der professionell wirkt und trotzdem weniger formell ist."
 category: "Garderobe & Alltag"

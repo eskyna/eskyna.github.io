@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Bundfaltenhose?"
+title: "Bundfaltenhose"
 term: "Bundfaltenhose"
 description: "Eine Bundfaltenhose hat Falten am Bund, die Weite, Fall und eine gepflegte Wirkung erzeugen."
 category: "Garderobe & Alltag"

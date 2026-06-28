@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Atmungsaktivität?"
+title: "Atmungsaktivität"
 term: "Atmungsaktivität"
 description: "Atmungsaktivität beschreibt, wie gut ein Material Luft und Feuchtigkeit reguliert."
 category: "Materialien & Details"

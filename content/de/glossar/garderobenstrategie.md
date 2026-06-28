@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Garderobenstrategie?"
+title: "Garderobenstrategie"
 term: "Garderobenstrategie"
 description: "Eine Garderobenstrategie ist ein klarer Plan für Aufbau, Pflege und Weiterentwicklung des eigenen Kleiderschranks."
 category: "Stil & Wirkung"

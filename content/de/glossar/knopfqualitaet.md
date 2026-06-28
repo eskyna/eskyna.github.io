@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Knopfqualität?"
+title: "Knopfqualität"
 term: "Knopfqualität"
 description: "Knopfqualität beschreibt Material, Gewicht, Befestigung und Wirkung von Knöpfen."
 category: "Materialien & Details"

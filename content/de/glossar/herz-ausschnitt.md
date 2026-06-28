@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Herz-Ausschnitt?"
+title: "Herz-Ausschnitt"
 term: "Herz-Ausschnitt"
 description: "Ein Herz-Ausschnitt hat eine geschwungene, herzförmige Linie und wirkt weicher und femininer."
 category: "Materialien & Details"

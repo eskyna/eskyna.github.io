@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Reise-Capsule?"
+title: "Reise-Capsule"
 term: "Reise-Capsule"
 description: "Eine Reise-Capsule ist eine kleine, gut kombinierbare Garderobe für eine Reise."
 category: "Garderobe & Alltag"

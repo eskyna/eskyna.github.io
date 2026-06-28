@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Parisian Chic?"
+title: "Parisian Chic"
 term: "Parisian Chic"
 description: "Parisian Chic beschreibt einen unangestrengt eleganten Stil mit klassischen Teilen, Reduktion und feinen Details."
 category: "Stil & Wirkung"

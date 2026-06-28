@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Capsule Wardrobe?"
+title: "Capsule Wardrobe"
 term: "Capsule Wardrobe"
 description: "Eine Capsule Wardrobe ist eine bewusst aufgebaute Garderobe aus Teilen, die sich vielseitig kombinieren lassen."
 category: "Garderobe & Alltag"

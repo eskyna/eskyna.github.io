@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Kleiderschrank-Lücke?"
+title: "Kleiderschrank-Lücke"
 term: "Kleiderschrank-Lücke"
 description: "Eine Kleiderschrank-Lücke ist ein fehlendes Teil, das mehrere vorhandene Outfits sinnvoll vervollständigen würde."
 category: "Garderobe & Alltag"

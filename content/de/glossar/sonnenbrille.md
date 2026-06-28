@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Sonnenbrille im Styling?"
+title: "Sonnenbrille"
 term: "Sonnenbrille"
 description: "Eine Sonnenbrille schützt die Augen und prägt zugleich Gesicht, Haltung und Stilrichtung eines Looks."
 category: "Materialien & Details"

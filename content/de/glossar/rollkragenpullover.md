@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Rollkragenpullover?"
+title: "Rollkragenpullover"
 term: "Rollkragenpullover"
 description: "Ein Rollkragenpullover ist ein Pullover mit hohem, umgeschlagenem Kragen und ruhiger, geschlossener Wirkung."
 category: "Materialien & Details"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Cost per Wear?"
+title: "Cost per Wear"
 term: "Cost per Wear"
 description: "Cost per Wear beschreibt die Kosten eines Kleidungsstücks pro tatsächlichem Tragen."
 category: "Garderobe & Alltag"

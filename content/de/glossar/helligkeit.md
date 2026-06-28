@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Helligkeit bei Farben?"
+title: "Helligkeit"
 term: "Helligkeit"
 description: "Helligkeit beschreibt, wie hell oder dunkel eine Farbe wirkt und wie stark sie Kontrast und Proportionen beeinflusst."
 category: "Farbberatung & Farbe"

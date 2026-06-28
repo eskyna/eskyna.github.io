@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Maskuliner Stil?"
+title: "Maskuliner Stil"
 term: "Maskuliner Stil"
 description: "Ein maskuliner Stil nutzt klare Linien, Hemden, Blazer, gerade Schnitte und strukturierte Materialien."
 category: "Stil & Wirkung"

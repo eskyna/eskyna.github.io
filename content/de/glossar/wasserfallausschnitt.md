@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Wasserfallausschnitt?"
+title: "Wasserfallausschnitt"
 term: "Wasserfallausschnitt"
 description: "Ein Wasserfallausschnitt ist ein drapierter Ausschnitt mit weich fallendem Stoff."
 category: "Materialien & Details"

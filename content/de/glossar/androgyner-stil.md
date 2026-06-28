@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Androgyner Stil?"
+title: "Androgyner Stil"
 term: "Androgyner Stil"
 description: "Ein androgyner Stil verbindet feminine und maskuline Elemente zu einer klaren, weniger festgelegten Wirkung."
 category: "Stil & Wirkung"

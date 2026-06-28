@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Personal Style?"
+title: "Personal Style"
 term: "Personal Style"
 description: "Personal Style ist der individuelle Stil einer Person, geprägt durch Alltag, Persönlichkeit, Körpergefühl und gewünschte Wirkung."
 category: "Stil & Wirkung"

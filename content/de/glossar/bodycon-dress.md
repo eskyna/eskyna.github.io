@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Bodycon Dress?"
+title: "Bodycon Dress"
 term: "Bodycon Dress"
 description: "Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körperlinie stark nachzeichnet."
 category: "Garderobe & Alltag"

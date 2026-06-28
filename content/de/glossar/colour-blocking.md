@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Colour Blocking?"
+title: "Colour Blocking"
 term: "Colour Blocking"
 description: "Colour Blocking kombiniert klar abgegrenzte Farbflächen und erzeugt grafische Spannung im Outfit."
 category: "Materialien & Details"

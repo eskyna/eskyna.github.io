@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Abendgarderobe?"
+title: "Abendgarderobe"
 term: "Abendgarderobe"
 description: "Abendgarderobe umfasst formelle oder festliche Kleidung für Abendveranstaltungen."
 category: "Garderobe & Alltag"

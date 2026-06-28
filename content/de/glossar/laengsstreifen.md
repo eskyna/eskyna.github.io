@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Längsstreifen?"
+title: "Längsstreifen"
 term: "Längsstreifen"
 description: "Längsstreifen verlaufen vertikal und können eine klare, streckende Linie erzeugen."
 category: "Materialien & Details"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Bewerbungsgespräch?"
+title: "Bewerbungsgespräch"
 term: "Bewerbungsgespräch"
 description: "Kleidung für ein Bewerbungsgespräch soll Professionalität, Klarheit und Persönlichkeit angemessen verbinden."
 category: "Garderobe & Alltag"

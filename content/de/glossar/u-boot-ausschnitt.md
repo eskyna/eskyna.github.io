@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet U-Boot-Ausschnitt?"
+title: "U-Boot-Ausschnitt"
 term: "U-Boot-Ausschnitt"
 description: "Ein U-Boot-Ausschnitt verläuft breit und horizontal nahe am Schlüsselbein und betont die Schulterlinie."
 category: "Materialien & Details"

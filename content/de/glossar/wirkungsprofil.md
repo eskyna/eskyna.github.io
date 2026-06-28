@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Wirkungsprofil?"
+title: "Wirkungsprofil"
 term: "Wirkungsprofil"
 description: "Ein Wirkungsprofil beschreibt, wie eine Person durch Kleidung und Auftreten wahrgenommen werden möchte."
 category: "Stil & Wirkung"

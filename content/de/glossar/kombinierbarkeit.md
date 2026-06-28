@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Kombinierbarkeit?"
+title: "Kombinierbarkeit"
 term: "Kombinierbarkeit"
 description: "Kombinierbarkeit beschreibt, wie gut ein Kleidungsstück mit anderen Teilen der Garderobe funktioniert."
 category: "Garderobe & Alltag"

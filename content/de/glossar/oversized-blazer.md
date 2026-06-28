@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Oversized-Blazer?"
+title: "Oversized-Blazer"
 term: "Oversized-Blazer"
 description: "Ein Oversized-Blazer ist ein bewusst weiter geschnittener Blazer mit großzügiger Schulter und moderner Silhouette."
 category: "Garderobe & Alltag"

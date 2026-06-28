@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Standesamt-Look?"
+title: "Standesamt-Look"
 term: "Standesamt-Look"
 description: "Ein Standesamt-Look ist ein eleganter, oft etwas reduzierter Look für eine standesamtliche Trauung."
 category: "Garderobe & Alltag"

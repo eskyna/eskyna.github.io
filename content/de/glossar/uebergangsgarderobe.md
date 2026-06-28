@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Übergangsgarderobe?"
+title: "Übergangsgarderobe"
 term: "Übergangsgarderobe"
 description: "Eine Übergangsgarderobe funktioniert zwischen den Jahreszeiten und lebt von Layering, leichten Jacken und flexiblen Materialien."
 category: "Garderobe & Alltag"

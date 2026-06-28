@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Kontrast in der Mode?"
+title: "Kontrast"
 term: "Kontrast"
 description: "Kontrast beschreibt Unterschiede zwischen hell und dunkel, warm und kühl oder ruhig und stark im Outfit."
 category: "Farbberatung & Farbe"

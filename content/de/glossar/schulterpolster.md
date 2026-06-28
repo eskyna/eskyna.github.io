@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Schulterpolster?"
+title: "Schulterpolster"
 term: "Schulterpolster"
 description: "Schulterpolster formen die Schulterpartie und beeinflussen Präsenz, Breite und Struktur eines Looks."
 category: "Materialien & Details"

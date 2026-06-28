@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Kleiderschrank-Check?"
+title: "Kleiderschrank-Check"
 term: "Kleiderschrank-Check"
 description: "Ein Kleiderschrank-Check analysiert vorhandene Kleidung und klärt, was passt, fehlt oder nicht mehr unterstützt."
 category: "Stil & Wirkung"

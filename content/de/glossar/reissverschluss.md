@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Reißverschluss?"
+title: "Reißverschluss"
 term: "Reißverschluss"
 description: "Ein Reißverschluss ist ein funktionales Verschlussdetail, das Komfort, Haltbarkeit und Optik beeinflusst."
 category: "Materialien & Details"

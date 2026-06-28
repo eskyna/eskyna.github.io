@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Stilentwicklung?"
+title: "Stilentwicklung"
 term: "Stilentwicklung"
 description: "Stilentwicklung ist die bewusste Veränderung oder Verfeinerung des eigenen Stils im Laufe der Zeit."
 category: "Stil & Wirkung"

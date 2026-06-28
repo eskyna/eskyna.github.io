@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet A-Linien-Kleid?"
+title: "A-Linien-Kleid"
 term: "A-Linien-Kleid"
 description: "Ein A-Linien-Kleid ist oben schmaler und wird zum Saum hin weiter, wodurch eine ruhige, feminine Form entsteht."
 category: "Garderobe & Alltag"

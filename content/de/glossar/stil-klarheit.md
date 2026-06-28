@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Stil-Klarheit?"
+title: "Stil-Klarheit"
 term: "Stil-Klarheit"
 description: "Stil-Klarheit ist die Sicherheit darüber, was passt, warum es passt und welche Entscheidungen den eigenen Stil stärken."
 category: "Stil & Wirkung"

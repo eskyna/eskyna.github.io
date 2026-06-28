@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Lieblingsstück?"
+title: "Lieblingsstück"
 term: "Lieblingsstück"
 description: "Ein Lieblingsstück ist ein Kleidungsstück, das häufig getragen wird, sich gut anfühlt und zur eigenen Stilidentität passt."
 category: "Stil & Wirkung"

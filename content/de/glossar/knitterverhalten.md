@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Knitterverhalten?"
+title: "Knitterverhalten"
 term: "Knitterverhalten"
 description: "Knitterverhalten beschreibt, wie stark ein Stoff Falten bildet und wie gepflegt er im Alltag bleibt."
 category: "Materialien & Details"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Brille im Stil?"
+title: "Brille im Stil"
 term: "Brille"
 description: "Eine Brille rahmt das Gesicht und wirkt wie ein dauerhaft sichtbares Accessoire mit großer stilistischer Bedeutung."
 category: "Materialien & Details"

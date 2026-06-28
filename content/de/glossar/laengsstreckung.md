@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Längsstreckung?"
+title: "Längsstreckung"
 term: "Längsstreckung"
 description: "Längsstreckung beschreibt optische Effekte, die eine Linie länger, ruhiger oder vertikaler wirken lassen."
 category: "Stil & Wirkung"

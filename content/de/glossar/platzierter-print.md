@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Platzierter Print?"
+title: "Platzierter Print"
 term: "Platzierter Print"
 description: "Ein platzierter Print sitzt bewusst an einer bestimmten Stelle und lenkt den Blick gezielt."
 category: "Materialien & Details"

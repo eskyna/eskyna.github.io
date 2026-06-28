@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet eine Uhr im Stil?"
+title: "eine Uhr im Stil"
 term: "Uhr"
 description: "Eine Uhr ist funktionales Accessoire und Stilzeichen zugleich, weil sie Material, Metallton und Haltung sichtbar macht."
 category: "Materialien & Details"

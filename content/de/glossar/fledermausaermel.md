@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Fledermausärmel?"
+title: "Fledermausärmel"
 term: "Fledermausärmel"
 description: "Ein Fledermausärmel ist weit geschnitten und fließt weich vom Körper in den Ärmel über."
 category: "Schnitt, Proportion & Passform"

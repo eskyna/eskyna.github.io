@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Saisonwechsel?"
+title: "Saisonwechsel"
 term: "Saisonwechsel"
 description: "Saisonwechsel beschreibt die Umstellung der Garderobe auf Temperatur, Licht, Materialien und Alltag einer neuen Jahreszeit."
 category: "Garderobe & Alltag"

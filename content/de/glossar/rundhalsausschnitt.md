@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Rundhalsausschnitt?"
+title: "Rundhalsausschnitt"
 term: "Rundhalsausschnitt"
 description: "Ein Rundhalsausschnitt ist ein runder, geschlossener Ausschnitt mit schlichter und oft ruhiger Wirkung."
 category: "Materialien & Details"

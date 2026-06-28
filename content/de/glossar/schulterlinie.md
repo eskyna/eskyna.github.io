@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Schulterlinie?"
+title: "Schulterlinie"
 term: "Schulterlinie"
 description: "Die Schulterlinie beschreibt Sitz und Form der Schulterpartie und prägt die Struktur eines Oberteils oder Blazers."
 category: "Schnitt, Proportion & Passform"

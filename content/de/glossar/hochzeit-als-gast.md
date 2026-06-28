@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Hochzeit als Gast?"
+title: "Hochzeit als Gast"
 term: "Hochzeit als Gast"
 description: "Ein Outfit für eine Hochzeit als Gast sollte festlich, respektvoll und auf Ort, Tageszeit und Dresscode abgestimmt sein."
 category: "Garderobe & Alltag"

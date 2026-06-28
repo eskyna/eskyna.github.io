@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Investitionsteil?"
+title: "Investitionsteil"
 term: "Investitionsteil"
 description: "Ein Investitionsteil ist ein hochwertiges Kleidungsstück, das langfristig getragen werden soll."
 category: "Garderobe & Alltag"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Allover-Print?"
+title: "Allover-Print"
 term: "Allover-Print"
 description: "Ein Allover-Print bedeckt die gesamte Stofffläche und prägt die Wirkung eines Kleidungsstücks stark."
 category: "Materialien & Details"

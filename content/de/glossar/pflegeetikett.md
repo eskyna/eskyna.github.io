@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Pflegeetikett?"
+title: "Pflegeetikett"
 term: "Pflegeetikett"
 description: "Das Pflegeetikett gibt Hinweise zur Reinigung und Pflege eines Kleidungsstücks."
 category: "Materialien & Details"

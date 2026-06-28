@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Bretonstreifen?"
+title: "Bretonstreifen"
 term: "Bretonstreifen"
 description: "Bretonstreifen sind klassische maritime Streifen, meist in Blau-Weiß oder Schwarz-Weiß."
 category: "Materialien & Details"

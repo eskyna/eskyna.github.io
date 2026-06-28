@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Carré-Ausschnitt?"
+title: "Carré-Ausschnitt"
 term: "Carré-Ausschnitt"
 description: "Ein Carré-Ausschnitt ist ein eckiger Ausschnitt, der dem Oberkörper eine klare grafische Linie gibt."
 category: "Materialien & Details"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Stilentscheidung?"
+title: "Stilentscheidung"
 term: "Stilentscheidung"
 description: "Eine Stilentscheidung ist eine bewusste Wahl für oder gegen ein Teil, eine Farbe oder eine Kombination."
 category: "Stil & Wirkung"

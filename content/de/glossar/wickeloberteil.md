@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Wickeloberteil?"
+title: "Wickeloberteil"
 term: "Wickeloberteil"
 description: "Ein Wickeloberteil wird vorne überkreuzt oder seitlich gebunden und erzeugt eine weiche diagonale Linie."
 category: "Materialien & Details"

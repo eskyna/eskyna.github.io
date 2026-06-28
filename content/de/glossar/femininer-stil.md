@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Femininer Stil?"
+title: "Femininer Stil"
 term: "Femininer Stil"
 description: "Ein femininer Stil arbeitet oft mit weichen Linien, Taille, Schmuck, Farbe, fließenden Stoffen oder feinen Details."
 category: "Stil & Wirkung"

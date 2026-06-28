@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Innenverarbeitung?"
+title: "Innenverarbeitung"
 term: "Innenverarbeitung"
 description: "Innenverarbeitung beschreibt die Qualität der nicht sichtbaren Details eines Kleidungsstücks."
 category: "Materialien & Details"

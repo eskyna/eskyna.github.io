@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Komplementärfarben?"
+title: "Komplementärfarben"
 term: "Komplementärfarben"
 description: "Komplementärfarben liegen sich im Farbkreis gegenüber und erzeugen starke, lebendige Kontraste."
 category: "Farbberatung & Farbe"

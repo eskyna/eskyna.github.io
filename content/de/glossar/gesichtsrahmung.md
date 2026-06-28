@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Gesichtsrahmung?"
+title: "Gesichtsrahmung"
 term: "Gesichtsrahmung"
 description: "Gesichtsrahmung beschreibt, wie Farben, Kragen, Schmuck, Brille und Haare den Bereich um das Gesicht optisch beeinflussen."
 category: "Materialien & Details"

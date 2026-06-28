@@ -1,5 +1,5 @@
 ---
-title: "Was ist eine Cap im Styling?"
+title: "Cap"
 term: "Cap"
 description: "Eine Cap ist eine sportliche Kopfbedeckung mit Schirm, die einem Outfit Lässigkeit, Kontrast oder urbane Ruhe geben kann."
 category: "Materialien & Details"

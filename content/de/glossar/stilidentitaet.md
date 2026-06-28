@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Stilidentität?"
+title: "Stilidentität"
 term: "Stilidentität"
 description: "Stilidentität verbindet Persönlichkeit, Lebensrealität und äußere Wirkung zu einem wiedererkennbaren Ausdruck."
 category: "Stil & Wirkung"

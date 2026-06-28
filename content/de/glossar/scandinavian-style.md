@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Scandinavian Style?"
+title: "Scandinavian Style"
 term: "Scandinavian Style"
 description: "Scandinavian Style steht für klare Formen, Funktionalität, ruhige Farben und reduzierte Kombinationen."
 category: "Stil & Wirkung"

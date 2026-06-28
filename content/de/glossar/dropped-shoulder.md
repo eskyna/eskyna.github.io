@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Dropped Shoulder?"
+title: "Dropped Shoulder"
 term: "Dropped Shoulder"
 description: "Dropped Shoulder bezeichnet eine überschnittene Schulter, bei der die Naht unterhalb der natürlichen Schulterkante liegt."
 category: "Schnitt, Proportion & Passform"

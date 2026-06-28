@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Schnittprofil?"
+title: "Schnittprofil"
 term: "Schnittprofil"
 description: "Ein Schnittprofil beschreibt Formen, Linien, Längen und Proportionen, die zur Person und ihrem Alltag passen."
 category: "Stil & Wirkung"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Garderobenplanung?"
+title: "Garderobenplanung"
 term: "Garderobenplanung"
 description: "Garderobenplanung ist der systematische Aufbau eines Kleiderschranks nach Alltag, Stil, Farben und Anlässen."
 category: "Stil & Wirkung"

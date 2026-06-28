@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Wochenendlook?"
+title: "Wochenendlook"
 term: "Wochenendlook"
 description: "Ein Wochenendlook ist ein entspannter Alltagslook, der bequem ist und trotzdem bewusst wirken kann."
 category: "Garderobe & Alltag"

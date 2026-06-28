@@ -1,5 +1,5 @@
 ---
-title: "Was ist ein Statement-Piece?"
+title: "Statement-Piece"
 term: "Statement-Piece"
 description: "Ein Statement-Piece ist ein bewusst auffälliges Kleidungsstück oder Accessoire, das den Look prägt."
 category: "Stil & Wirkung"

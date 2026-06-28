@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Volumenverteilung?"
+title: "Volumenverteilung"
 term: "Volumenverteilung"
 description: "Volumenverteilung beschreibt, wo Weite im Outfit eingesetzt wird und wie sie die Silhouette beeinflusst."
 category: "Stil & Wirkung"

@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Fusselrasierer?"
+title: "Fusselrasierer"
 term: "Fusselrasierer"
 description: "Ein Fusselrasierer entfernt Pilling und kann Strick oder Wollteile optisch deutlich auffrischen."
 category: "Materialien & Details"

@@ -1,0 +1,31 @@
+---
+title: "Узкое коктейльное платье"
+term: "Коктейльное платье"
+description: "Коктейльное платье — это облегающее платье, подчёркивающее силуэт и создающее элегантный вид."
+category: "Стиль и воздействие"
+tags:
+  - "etuikleid"
+  - "kleid"
+  - "business"
+  - "passform"
+keywords:
+  - "etuikleid"
+  - "was ist ein etuikleid"
+  - "etuikleid kombinieren"
+glossar_order: "e"
+weight: 5
+image: "images/glossar/etuikleid.svg"
+image_alt: "Editoriale Grafik mit stilisiertem Etuikleid, klarer schmaler Linie und ruhiger Fläche"
+relatedTerms:
+  - title: "Узкое коктейльное платье"
+    url: "/ru/glossar/business-casual/"
+  - title: "Узкое коктейльное платье"
+    url: "/ru/glossar/passform/"
+  - title: "Узкое коктейльное платье"
+    url: "/ru/glossar/silhouette/"
+  - title: "Узкое коктейльное платье"
+    url: "/ru/glossar/blazer/"
+  - title: "Узкое коктейльное платье"
+    url: "/ru/glossar/pumps/"
+---
+

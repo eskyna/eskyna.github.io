@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Taillenbetonung?"
+title: "Taillenbetonung"
 term: "Taillenbetonung"
 description: "Taillenbetonung macht die Körpermitte sichtbar und beeinflusst Proportion, Silhouette und Wirkung."
 category: "Stil & Wirkung"

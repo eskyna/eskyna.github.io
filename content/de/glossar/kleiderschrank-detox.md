@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Kleiderschrank-Detox?"
+title: "Kleiderschrank-Detox"
 term: "Kleiderschrank-Detox"
 description: "Ein Kleiderschrank-Detox ist das bewusste Aussortieren, Ordnen und Klären vorhandener Kleidung."
 category: "Garderobe & Alltag"

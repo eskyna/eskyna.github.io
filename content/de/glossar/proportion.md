@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Proportion in der Mode?"
+title: "Proportion"
 term: "Proportion"
 description: "Proportion beschreibt das Verhältnis von Längen, Breiten und Volumen im Outfit und macht Looks stimmig."
 category: "Schnitt, Proportion & Passform"

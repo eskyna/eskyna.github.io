@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet Saumverarbeitung?"
+title: "Saumverarbeitung"
 term: "Saumverarbeitung"
 description: "Saumverarbeitung beschreibt, wie sauber und haltbar der untere Abschluss eines Kleidungsstücks gearbeitet ist."
 category: "Materialien & Details"
