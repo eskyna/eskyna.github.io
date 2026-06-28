@@ -1,4 +1,4 @@
-const CACHE_NAME = "eskyna-estyle-pwa-v12";
+const CACHE_NAME = "eskyna-estyle-pwa-v13";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -128,6 +128,25 @@ self.addEventListener("fetch", (event) => {
 
   if (request.mode === "navigate") {
     event.respondWith(fetch(request).catch(() => caches.match("./index.html")));
+    return;
+  }
+
+  // config.js should always prefer the latest network version to avoid stale runtime settings.
+  if (
+    url.origin === self.location.origin &&
+    url.pathname.endsWith("/config.js")
+  ) {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.ok) {
+            const responseClone = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, responseClone));
+          }
+          return response;
+        })
+        .catch(() => caches.match(request))
+    );
     return;
   }
 
