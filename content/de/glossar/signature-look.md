@@ -1,5 +1,5 @@
 ---
-title: "Was ist ein Signature Look?"
+title: "Signature Look erklärt"
 description: "Ein Signature Look ist dein wiedererkennbarer Stilcode. Gemacht aus Farben, Schnitten oder Details, die dich unverwechselbar machen."
 category: "Stil & Wirkung"
 tags: ["signature look", "stil", "personal style", "wiedererkennung"]

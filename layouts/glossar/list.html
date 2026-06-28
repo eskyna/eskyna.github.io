@@ -104,7 +104,7 @@
                 {{ range $glossarTerms }}
                   {{ if eq (substr (lower .Title) 0 1) $letterLower }}
                     <li class="glossar-term-item">
-                      <a href="{{ .RelPermalink }}" class="glossar-term-link">
+                      <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ .Title | plainify }}" aria-label="{{ .Title | plainify }}">
                         <span class="glossar-term-title">{{ .Title }}</span>
                         {{ with .Description }}
                           <span class="glossar-term-excerpt">{{ . }}</span>
@@ -151,7 +151,7 @@
               <ul class="glossar-term-list">
                 {{ range sort $termsInCategory "Params.weight" "asc" }}
                   <li class="glossar-term-item">
-                    <a href="{{ .RelPermalink }}" class="glossar-term-link">
+                    <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ .Title | plainify }}" aria-label="{{ .Title | plainify }}">
                       <span class="glossar-term-title">{{ .Title }}</span>
                       {{ with .Description }}
                         <span class="glossar-term-excerpt">{{ . }}</span>
