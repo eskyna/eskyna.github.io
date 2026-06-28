@@ -20,6 +20,7 @@ title = "ESKYNA | Style & Image Coaching"
   
   [languages.rus]
     title = "ESKYNA | Имидж-коучинг"
+    lang = "ru"
     locale = "ru-RU"
     label = "Русский"
     weight = 2

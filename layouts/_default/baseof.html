@@ -1,5 +1,9 @@
 <!doctype html>
-<html lang="{{ .Language.Lang }}">
+{{ $htmlLang := .Language.Lang }}
+{{ if eq $htmlLang "rus" }}
+  {{ $htmlLang = "ru" }}
+{{ end }}
+<html lang="{{ $htmlLang }}">
 <head>
   {{ partial "head.html" . }}
 </head>

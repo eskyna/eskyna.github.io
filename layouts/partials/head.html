@@ -300,7 +300,11 @@
 
 {{ if .IsHome }}
   {{ range .AllTranslations -}}
-    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+    {{ $hrefLang := .Language.Lang }}
+    {{ if eq $hrefLang "rus" }}
+      {{ $hrefLang = "ru" }}
+    {{ end }}
+    <link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}" />
   {{ end -}}
   <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
 {{ end -}}
