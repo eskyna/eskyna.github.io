@@ -16,6 +16,10 @@
         <p class="eyebrow glossar-category">{{ . }}</p>
         {{ end }}
         
+        {{ with .Params.color_hex }}
+        <div class="glossar-color-swatch" style="background-color: {{ . }};" title="{{ . }}"></div>
+        {{ end }}
+        
         <h1 class="glossar-display-title">{{ .Title }}</h1>
         
         {{ with .Description }}

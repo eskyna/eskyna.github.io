@@ -6808,6 +6808,15 @@ main .hero .hero-headline-line {
   margin: 0;
 }
 
+.glossar-color-swatch {
+  width: 3rem;
+  height: 3rem;
+  border-radius: var(--radius-soft);
+  margin: 1rem 0;
+  border: 1px solid var(--card-border);
+  box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+}
+
 .glossar-content-section {
   flex: 1;
   padding: clamp(2rem, 8vw, 3.5rem) 0;

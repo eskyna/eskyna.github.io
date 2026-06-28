@@ -64,7 +64,7 @@
     <div class="container glossar-content-shell">
       <div class="glossar-alphabet-view">
         {{ $glossarPages := where (where .Site.AllPages "Type" "glossar") "Kind" "page" }}
-        {{ $glossarTerms := sort $glossarPages "Title" "asc" }}
+        {{ $glossarTerms := sort $glossarPages "Params.glossar_order" "asc" }}
         
         <!-- A-Z Index für schnelle Navigation -->
         <div class="glossar-alphabet-index">
@@ -149,7 +149,7 @@
             <div class="glossar-category-group">
               <h2 class="glossar-category-heading">{{ $category }}</h2>
               <ul class="glossar-term-list">
-                {{ range sort $termsInCategory "Title" "asc" }}
+                {{ range sort $termsInCategory "Params.weight" "asc" }}
                   <li class="glossar-term-item">
                     <a href="{{ .RelPermalink }}" class="glossar-term-link">
                       <span class="glossar-term-title">{{ .Title }}</span>
