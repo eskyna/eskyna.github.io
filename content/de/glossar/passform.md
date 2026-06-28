@@ -20,7 +20,7 @@ relatedTerms:
 
 ## Definition
 
-**Passform** beschreibt, wie ein Kleidungsstück am Körper sitzt und fällt. Sie entscheidet oft stärker über die Wirkung als der Preis oder die Marke – ein schlichtes Teil mit guter Passform wirkt hochwertiger als ein teures Teil, das nicht richtig sitzt.
+**Passform** beschreibt, wie ein Kleidungsstück am Körper sitzt und fällt. Sie entscheidet oft stärker über die Wirkung als der Preis oder die Marke. Ein schlichtes Teil mit guter Passform wirkt hochwertiger als ein teures Teil, das nicht richtig sitzt.
 
 ## Einfach erklärt
 
@@ -39,7 +39,7 @@ Zudem: Gute Passform wirkt automatisch hochwertiger. Das ist nicht Magie, es ist
 ## Typische Missverständnisse
 
 **Missverständnis:** Gute Passform bedeutet, eng zu sitzen.  
-**Besser:** Gute Passform bedeutet, dass das Teil an den richtigen Stellen sitzt – ohne zu zwicken, aber auch ohne zu schlabbern. Es muss Raum für Bewegung geben, aber den Körper nicht verstecken.
+**Besser:** Gute Passform bedeutet, dass das Teil an den richtigen Stellen sitzt. Es darf nicht zwicken, aber auch nicht schlabbern. Es muss Raum für Bewegung geben, aber den Körper nicht verstecken.
 
 **Missverständnis:** Passform ist eine Frage der Größe.  
 **Besser:** Passform ist eine Frage von Größe, Längen, Breiten und wie Materialien am Körper fallen. Eine Größe 38 sitzt nicht automatisch bei allen Menschen, die Größe 38 tragen, gleich.

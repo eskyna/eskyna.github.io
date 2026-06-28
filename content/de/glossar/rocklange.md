@@ -50,7 +50,7 @@ Wirkt: jugendlich, modern, legere, spielerisch, aktiv
 Wirkt: klassisch, elegant, tragbar, zeitlos, bodenständig
 
 - Funktioniert in: Business, Alltag, formale Anlässe, Eleganz
-- Vorteil: Die vielseitigste Länge – fast zu jedem Anlass geeignet
+- Vorteil: Die vielseitigste Länge. Fast zu jedem Anlass geeignet
 - Tipp: Diese Länge streckt die Beine und wirkt proportional am ausgewogensten
 
 ### Midi (Mitte Wade bis Knöchel)
@@ -66,7 +66,7 @@ Wirkt: elegant, modern, raffiniert, saisonal, trendbewusst
 Wirkt: elegant, zeitlos, großzügig, manchmal romantisch oder hippie-mäßig (je nach Material/Schnitt)
 
 - Funktioniert in: Abends-Events, elegante Casual-Looks, Strand und Urlaub
-- Besonderheit: Maxi braucht sichere Proportionen – falsche Länge kann stauchen
+- Besonderheit: Maxi braucht sichere Proportionen. Falsche Länge kann stauchen
 - Tipp: Maxi mit schmaler Silhouette wirkt elegant, Maxi mit A-Linie wirkt weicher
 
 ## Rocklänge und Proportion
@@ -101,7 +101,7 @@ Knielang oder Midi wirken am elegantesten. Maxi kann sehr elegant sein, wenn der
 **Besser:** Es kommt auf Proportion, Kontext und Selbstsicherheit an. Eine Person mit 50 Jahren kann in einem perfekt sitzenden, hochwertigen kurzen Rock sehr elegant wirken.
 
 **Missverständnis:** Es gibt eine "richtige" Rocklänge.  
-**Besser:** Es gibt unterschiedliche Rocklängen für unterschiedliche Körper, Kontexte und Ziele. Die richtige Frage ist: Was funktioniert für dich – optisch, praktisch und emotional?
+**Besser:** Es gibt unterschiedliche Rocklängen für unterschiedliche Körper, Kontexte und Ziele. Die richtige Frage ist: Was funktioniert für dich? Optisch, praktisch und emotional?
 
 ## Checkliste: Die richtige Rocklänge finden
 
@@ -113,7 +113,7 @@ Knielang oder Midi wirken am elegantesten. Maxi kann sehr elegant sein, wenn der
 
 ## ESKYNA-Merksatz
 
-Rocklänge ist nicht Trend – Rocklänge ist Handwerk. Die richtige Länge macht einen Rock tragbar, elegant und stimmig. Die falsche Länge macht einen schönen Schnitt unglücklich.
+Rocklänge ist nicht Trend. Rocklänge ist Handwerk. Die richtige Länge macht einen Rock tragbar, elegant und stimmig. Die falsche Länge macht einen schönen Schnitt unglücklich.
 
 ---
 

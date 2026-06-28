@@ -21,7 +21,7 @@ relatedTerms:
 
 ## Das Besondere an Rosa
 
-Rosa ist eine aufgehellte Form von Rot – aber es wirkt je nach Nuance, Material und Styling völlig unterschiedlich. Rosa kann romantisch wirken, aber auch sportlich, elegant, modern oder sogar business-tauglich. Die Frage ist nicht: „Steht mir Rosa?" Sondern: „Welches Rosa und wo im Outfit funktioniert es für meine Wirkung?"
+Rosa ist eine aufgehellte Form von Rot. Aber es wirkt je nach Nuance, Material und Styling völlig unterschiedlich. Rosa kann romantisch wirken, aber auch sportlich, elegant, modern oder sogar business-tauglich. Die Frage ist nicht: „Steht mir Rosa?" Sondern: „Welches Rosa und wo im Outfit funktioniert es für meine Wirkung?"
 
 ## Wie Rosa wirkt
 

@@ -1,4 +1,4 @@
-# ESKYNA Glossar – Richtlinien für Schreiber und Designer
+# ESKYNA Glossar. Richtlinien für Schreiber und Designer
 
 Das ESKYNA Glossar ist kein trockenes Lexikon, sondern ein **stilvolles Beratungsformat**. Es hilft Nutzerinnen und Nutzern, ihr Stilverständnis zu vertiefen und Fehlkäufe zu vermeiden.
 
@@ -38,9 +38,9 @@ ESKYNA arbeitet nicht mit Unsicherheit, sondern mit Klarheit.
 
 ---
 
-## 1.1 Interpunktion und Wording – Die ESKYNA Regel
+## 1.1 Interpunktion und Wording. Die ESKYNA Regel
 
-ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich" – den Gedankenstrich (– oder —), der KI-generierte Texte kennzeichnet.
+ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich": den Gedankenstrich (en-dash und em-dash), der KI-generierte Texte kennzeichnet.
 
 **Regel: Keine Gedankenstriche im Marketing-Text verwenden.**
 
@@ -48,9 +48,9 @@ ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich" – den Gedankenstr
 
 **❌ Falsch (ChatGPT-Stil):**
 
-> „Eine gute Passform bedeutet – nicht zu eng, aber auch nicht zu locker – die richtige Balance zu finden."
+> „Eine gute Passform bedeutet, nicht zu eng, aber auch nicht zu locker, die richtige Balance zu finden."
 >
-> „15–20 Kombinationen möglich."
+> „15 bis 20 Kombinationen möglich."
 
 **✅ Richtig (ESKYNA-Stil):**
 
@@ -60,12 +60,12 @@ ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich" – den Gedankenstr
 
 ### Konkrete Ersetzungen
 
-| ❌ Vermeiden             | ✅ Verwenden                                            |
-| ------------------------ | ------------------------------------------------------- |
-| `Text – weitere Info`    | `Text. Weitere Info` oder `Text, weitere Info`          |
-| `5–10 Teile`             | `5 bis 10 Teile`                                        |
-| `Text – also richtig`    | `Text. Das bedeutet: richtig` oder `Text, also richtig` |
-| `Punkt – nicht schlecht` | `Punkt. Nicht schlecht` oder `Punkt, nicht schlecht`    |
+| ❌ Vermeiden                   | ✅ Verwenden                                            |
+| ------------------------------ | ------------------------------------------------------- |
+| `Text &ndash; weitere Info`    | `Text. Weitere Info` oder `Text, weitere Info`          |
+| `5 bis 10 Teile`               | `5 bis 10 Teile`                                        |
+| `Text &ndash; also richtig`    | `Text. Das bedeutet: richtig` oder `Text, also richtig` |
+| `Punkt &ndash; nicht schlecht` | `Punkt. Nicht schlecht` oder `Punkt, nicht schlecht`    |
 
 **Warum?** Gedankenstriche wirken maschinell geschrieben. ESKYNA-Texte sind menschlich, direkt und eigenwillig.
 
@@ -113,7 +113,7 @@ Stellen Sie direkt nach der Überschrift eine klare, einfache Definition bereit.
 
 **Beispiel:**
 
-> **Passform** beschreibt, wie ein Kleidungsstück am Körper sitzt und fällt. Sie entscheidet oft stärker über die Wirkung als der Preis oder die Marke – ein schlichtes Teil mit guter Passform wirkt hochwertiger als ein teures Teil, das nicht richtig sitzt.
+> **Passform** beschreibt, wie ein Kleidungsstück am Körper sitzt und fällt. Sie entscheidet oft stärker über die Wirkung als der Preis oder die Marke. Ein schlichtes Teil mit guter Passform wirkt hochwertiger als ein teures Teil, das nicht richtig sitzt.
 
 ### 2.4 Einfach erklärt (ca. 2-4 Absätze)
 
@@ -142,10 +142,10 @@ Dieser Abschnitt macht die Texte professionell und hilfreich.
 ```text
 **Missverständnis:** Gute Passform bedeutet, eng zu sitzen.
 
-**Besser:** Gute Passform bedeutet, dass das Teil an den richtigen Stellen sitzt – ohne zu zwicken, aber auch ohne zu schlabbern.
+**Besser:** Gute Passform bedeutet, dass das Teil an den richtigen Stellen sitzt. Ohne zu zwicken, aber auch ohne zu schlabbern.
 ```
 
-Nutzen Sie bis zu 2–3 Missverständnisse pro Beitrag.
+Nutzen Sie bis zu 2 bis 3 Missverständnisse pro Beitrag.
 
 ### 2.7 Praktisches Beispiel oder Checkliste
 
@@ -173,7 +173,7 @@ Ein kurzer, eleganter Satz am Ende des Haupttexts.
 
 ### 2.9 Verwandte Begriffe
 
-Interne Links zu 3–5 verwandten Glossar-Begriffen (am Ende des Inhalts).
+Interne Links zu 3 bis 5 verwandten Glossar-Begriffen (am Ende des Inhalts).
 
 **Format:**
 
@@ -224,7 +224,7 @@ Nicht mit „Die Farbe X bedeutet ..." beginnen. Stattdessen: Eine Beobachtung o
 
 **Gut:**
 
-> Rosa ist eine aufgehellte Form von Rot – aber es wirkt je nach Nuance, Material und Styling völlig unterschiedlich. Rosa kann romantisch, sportlich, elegant, modern oder sogar business-tauglich wirken.
+> Rosa ist eine aufgehellte Form von Rot. Aber es wirkt je nach Nuance, Material und Styling völlig unterschiedlich. Rosa kann romantisch, sportlich, elegant, modern oder sogar business-tauglich wirken.
 
 **Nicht gut:**
 
@@ -248,10 +248,10 @@ Zeigen Sie, wie die Farbe in verschiedenen Tönen wirkt.
 
 **Beispiel:**
 
-> - **Puderrosa**: Zart, hell, weich – eignet sich für romantische oder pastellige Looks
-> - **Altrosa**: Gedämpfter, erwachsener – harmoniert mit Neutral- und Naturfarben
-> - **Fuchsia**: Kräftig und präsent – braucht Ruhe im Rest des Outfits
-> - **Mauve**: Gedämpft mit Grauanteil – wirkt modern und ruhig
+> - **Puderrosa**: Zart, hell, weich. Eignet sich für romantische oder pastellige Looks
+> - **Altrosa**: Gedämpfter, erwachsener. Harmoniert mit Neutral- und Naturfarben
+> - **Fuchsia**: Kräftig und präsent. Braucht Ruhe im Rest des Outfits
+> - **Mauve**: Gedämpft mit Grauanteil. Wirkt modern und ruhig
 
 #### Material und Schnitt (ca. 1 Absatz)
 
@@ -281,7 +281,7 @@ Adressieren Sie: Kann ich die Farbe im Business tragen? Wie?
 
 **Beispiel:**
 
-> Rosa im Business wirkt am stärksten, wenn der Schnitt klar bleibt. Eine rosafarbene Bluse unter einem dunklen Blazer ist im Meeting tragbar. Ein komplett rosafarbenes Outfit wirkt eher nach Event. Rosa als Accessoire – Tasche, Schuh, Schal – funktioniert in fast jedem Business-Kontext.
+> Rosa im Business wirkt am stärksten, wenn der Schnitt klar bleibt. Eine rosafarbene Bluse unter einem dunklen Blazer ist im Meeting tragbar. Ein komplett rosafarbenes Outfit wirkt eher nach Event. Rosa als Accessoire (Tasche, Schuh, Schal) funktioniert in fast jedem Business-Kontext.
 
 #### Für wen und wo im Outfit (ca. 1 Absatz)
 

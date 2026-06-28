@@ -24,7 +24,7 @@ Der **Farbtyp** beschreibt, welche Farbtemperaturen, Helligkeiten und Kontraste 
 
 Die bessere Frage lautet nicht: „Welche Farben sind schön?" Sondern: „Welche Farben stärken meine natürliche Ausstrahlung?"
 
-Das ist der Unterschied zwischen Geschmack und Harmonie. Du kannst Fuchsia lieben – wenn es aber deine Haut ergraut wirken lässt, wird es dich nicht stärken.
+Das ist der Unterschied zwischen Geschmack und Harmonie. Du kannst Fuchsia lieben. Wenn es aber deine Haut ergraut wirken lässt, wird es dich nicht stärken.
 
 Ein Farbtyp erklärt, warum eine Farbe bei dir fantastisch wirkt und bei deiner Freundin weniger. Es ist nicht Willkür. Es ist Physik und Psychologie.
 
@@ -88,4 +88,4 @@ Das ist keine Pseudowissenschaft. Das ist einfache Farbharmonie.
 
 ## ESKYNA-Merksatz
 
-Der Farbtyp ist nicht Regel – er ist Klarheit. Mit Klarheit kaufst du besser ein, und mit besseren Farben strahlst du stärker.
+Der Farbtyp ist nicht Regel. Der Farbtyp ist Klarheit. Mit Klarheit kaufst du besser ein, und mit besseren Farben strahlst du stärker.

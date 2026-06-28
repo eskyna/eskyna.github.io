@@ -20,7 +20,7 @@ relatedTerms:
 
 ## Definition
 
-Ein **Signature Look** ist ein wiedererkennbarer Stilcode. Er kann durch bestimmte Farben, Schnitte, Accessoires, Materialien oder eine besondere Kombination entstehen. Ein Signature Look macht dich sichtbar – nicht nur dein Outfit, sondern **deine Präsenz** wird wiedererkannt.
+Ein **Signature Look** ist ein wiedererkennbarer Stilcode. Er kann durch bestimmte Farben, Schnitte, Accessoires, Materialien oder eine besondere Kombination entstehen. Ein Signature Look macht dich sichtbar. Nicht nur dein Outfit, sondern **deine Präsenz** wird wiedererkannt.
 
 ## Einfach erklärt
 
@@ -53,7 +53,7 @@ Du trägst immer eine bestimmte Tasche oder Schmuck in Gold-Tönen? Das wird zu 
 Du liebst Seide, Leder und feine Stoffe? Das prägt deinen Look automatisch.
 
 **Details:**  
-Ein Schal, ein Ring, eine Brille – wiederholte Details machen dich erkennbar.
+Ein Schal, ein Ring, eine Brille. Wiederholte Details machen dich erkennbar.
 
 **Kombination:**  
 Die Kombination aus allem: „Gerade Schnitte + warme Farben + Lederzubehör + dezenter Schmuck" = Dein Signature Look.
@@ -106,13 +106,13 @@ Wieder: Unterschiedlich, aber derselbe Stil.
 ## Typische Missverständnisse
 
 **Missverständnis:** Ein Signature Look bedeutet, jeden Tag das Gleiche zu tragen.  
-**Besser:** Ein Signature Look bedeutet, dass die Grundelemente sich wiederholen – die Kombinationen können variieren.
+**Besser:** Ein Signature Look bedeutet, dass sich die Grundelemente wiederholen. Die Kombinationen können variieren.
 
 **Missverständnis:** Ein Signature Look ist einengend.  
 **Besser:** Ein Signature Look gibt Freiheit, weil du eine Grundorientierung hast. Du kannst noch experimentieren, aber mit Richtung.
 
 **Missverständnis:** Signature Looks sind nur für sehr stilsichere Menschen.  
-**Besser:** Jeder hat einen Signature Look – du hast ihn vielleicht nur noch nicht bewusst wahrgenommen. Ein Signature Look ist da, um ihn zu erkennen und zu verstärken.
+**Besser:** Jeder hat einen Signature Look. Du hast ihn vielleicht nur noch nicht bewusst wahrgenommen. Ein Signature Look ist da, um ihn zu erkennen und zu verstärken.
 
 ## Wie du deinen Signature Look findest
 

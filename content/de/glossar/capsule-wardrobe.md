@@ -56,10 +56,10 @@ Und drittens: Eine bewusste Garderobe ist oft günstiger als eine chaotische. De
 
 ## Ein konkretes Beispiel
 
-Ein marineblauer Blazer, eine gerade Jeans, ein cremefarbenes Shirt und Loafer – das ist eine kleine Outfit-Formel. Mit einem Seidentuch, einer farbigen Tasche oder farbigem Schmuck bekommt der Look Persönlichkeit. Ohne diese Teile bleibt er klassisch. In 20 Minuten hast du morgens ein vollständiges, stimmiges Outfit.
+Ein marineblauer Blazer, eine gerade Jeans, ein cremefarbenes Shirt und Loafer. Das ist eine kleine Outfit-Formel. Mit einem Seidentuch, einer farbigen Tasche oder farbigem Schmuck bekommt der Look Persönlichkeit. Ohne diese Teile bleibt er klassisch. In 20 Minuten hast du morgens ein vollständiges, stimmiges Outfit.
 
 Das ist Capsule Wardrobe im Kleinen: Kein Chaos, keine Überraschungen, aber auch keine Langeweile.
 
 ## ESKYNA-Merksatz
 
-Eine gute Garderobe ist nicht voller. Sie ist klarer. Und mit Klarheit kommt weniger Stress – und mehr Stil.
+Eine gute Garderobe ist nicht voller. Sie ist klarer. Und mit Klarheit kommt weniger Stress. Mehr Stil.
