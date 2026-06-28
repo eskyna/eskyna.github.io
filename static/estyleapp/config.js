@@ -24,7 +24,7 @@
       provider: "firebase-cloud-messaging",
       // Oeffentlicher Web-Push-Zertifikatsschluessel aus Firebase Console > Project settings > Cloud Messaging.
       // Er ist kein Secret und darf im Frontend stehen. Ohne diesen Key kann die App kein FCM Token erstellen.
-      fcmVapidKey: "",
+      fcmVapidKey: "BHGkQCNERhQvQrVdDR7Vx2zJeolxpnGePy3vEj3j5FmTY0_GjHLZ8ibaupvVShX3OIA95yKDg6BNbWDnmUOJrH0",
       registerTokenEndpoint: "/api/fcm/register",
       unregisterTokenEndpoint: "/api/fcm/unregister",
       topic: "patchnotes",
