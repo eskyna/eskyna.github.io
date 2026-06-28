@@ -63,7 +63,7 @@
   >
     <div class="container glossar-content-shell">
       <div class="glossar-alphabet-view">
-        {{ $glossarPages := where (where .Site.AllPages "Type" "glossar") "Kind" "page" }}
+        {{ $glossarPages := where (where site.Pages "Type" "glossar") "Kind" "page" }}
         {{ $glossarTerms := sort $glossarPages "Params.glossar_order" "asc" }}
         
         <!-- A-Z Index für schnelle Navigation -->
@@ -131,7 +131,7 @@
   >
     <div class="container glossar-content-shell">
       <div class="glossar-category-view">
-        {{ $glossarPages := where (where .Site.AllPages "Type" "glossar") "Kind" "page" }}
+        {{ $glossarPages := where (where site.Pages "Type" "glossar") "Kind" "page" }}
         
         {{ $categories := slice 
           "Stil & Wirkung" 
