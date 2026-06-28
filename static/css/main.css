@@ -865,6 +865,10 @@ h1 {
   background-color: rgb(227 213 200 / 55%);
 }
 
+.is-filter-hidden {
+  display: none !important;
+}
+
 .coach-section .btn-secondary {
   border-color: var(--hero-cta-bg);
   color: var(--on-dark);
@@ -5316,11 +5320,22 @@ body :where(button) {
   background: var(--journal-surface-soft);
   color: var(--journal-accent-dark);
   font-size: 0.84rem;
+  font-family: inherit;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.blog-category-chip:hover {
+  background: rgb(217 166 173 / 12%);
 }
 
 .blog-category-chip.is-active {
   background: rgb(217 166 173 / 18%);
   border-color: rgb(138 79 87 / 30%);
+}
+
+.blog-filter-empty {
+  margin-top: 1rem;
 }
 
 .blog-meta {
@@ -5396,6 +5411,10 @@ body :where(button) {
 
 .blog-list-section {
   padding-top: 0.5rem;
+}
+
+[data-blog-card][hidden] {
+  display: none !important;
 }
 
 .blog-featured-card {

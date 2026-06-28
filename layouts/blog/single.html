@@ -112,7 +112,7 @@
               <div class="blog-tags-label">{{ if or (eq $.Language.Lang "ru") (eq $.Language.Lang "rus") }}Темы:{{ else }}Tags:{{ end }}</div>
               <div class="blog-tags-list">
                 {{ range . }}
-                  <a href="{{ ("blog" | relLangURL) }}" class="blog-tag-chip">{{ . }}</a>
+                  <a href="{{ (printf "tags/%s/" (urlize .)) | relLangURL }}" class="blog-tag-chip">{{ . }}</a>
                 {{ end }}
               </div>
             </footer>

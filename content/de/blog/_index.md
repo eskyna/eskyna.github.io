@@ -22,8 +22,8 @@ ui:
   advisory_cta: "Stilberatung entdecken"
   categories_aria_label: "Kategorien"
   chip_all: "Alle"
-  chip_colors: "Farben"
-  chip_capsule: "Capsule Wardrobe"
-  chip_business: "Business-Chic"
-  chip_consulting: "Stilberatung"
+  chip_palette: "Farbberatung"
+  chip_materials: "Materialien & Saison"
+  chip_proportions: "Proportionen & Schnitt"
+  chip_impact: "Stilberatung & Wirkung"
 ---

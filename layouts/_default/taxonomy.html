@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+{{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $backText := cond $isRu "К блогу" "Zum Blog" }}
+{{ $emptyText := cond $isRu "Для этого тега пока нет публикаций." "Zu diesem Tag gibt es noch keine Beiträge." }}
+{{ $readMoreText := cond $isRu "Читать" "Artikel lesen" }}
+{{ $readingTimeText := cond $isRu "мин чтения" "Min. Lesezeit" }}
+
+<main class="blog-page">
+  <section class="hero-small blog-hero">
+    <div class="container">
+      <a class="back-link" href="{{ "blog/" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}<div class="blog-intro-card">{{ . }}</div>{{ end }}
+    </div>
+  </section>
+
+  <section class="section blog-list-section">
+    <div class="container">
+      {{ if gt (len .Pages) 0 }}
+        <div class="blog-post-grid">
+          {{ range .Pages.ByDate.Reverse }}
+            {{ $post := . }}
+            {{ $postReadingTime := default $post.ReadingTime $post.Params.readingTime }}
+            <article class="blog-post-card">
+              {{ $heroName := or $post.Params.hero $post.Params.image }}
+              {{ if $heroName }}
+                {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
+                {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
+                {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
+                {{ $png := $post.Resources.GetMatch (printf "%s.png" $stem) }}
+                {{ $orig := $post.Resources.GetMatch $heroName }}
+                {{ $fallback := or $png $orig }}
+                {{ with $fallback }}
+                  <div class="blog-post-media" aria-hidden="true">
+                    <picture>
+                      {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
+                      {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
+                      {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
+                      <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy">
+                    </picture>
+                  </div>
+                {{ end }}
+              {{ end }}
+              <div class="blog-post-copy">
+                <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
+                <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
+                {{ with $post.Params.summary }}<p class="blog-post-summary">{{ . }}</p>{{ end }}
+                <a class="btn" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $readMoreText }}</a>
+              </div>
+            </article>
+          {{ end }}
+        </div>
+      {{ else }}
+        <p class="shop-intro">{{ $emptyText }}</p>
+      {{ end }}
+    </div>
+  </section>
+</main>
+{{ end }}

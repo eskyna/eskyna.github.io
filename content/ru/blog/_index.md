@@ -23,10 +23,10 @@ ui:
   advisory_cta: "Открыть консультацию"
   categories_aria_label: "Категории"
   chip_all: "Все"
-  chip_colors: "Цвет"
-  chip_capsule: "Капсульные образы"
-  chip_business: "Бизнес-шик"
-  chip_consulting: "Консультация по стилю"
+  chip_palette: "Цвет и палитра"
+  chip_materials: "Ткани и сезон"
+  chip_proportions: "Пропорции и крой"
+  chip_impact: "Стиль и позиционирование"
 ---
 
 В блоге ESKYNA публикуются материалы о стиле, цвете и практичных образах для повседневной жизни.
