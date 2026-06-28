@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Signature Look erklärt</title>
+  <desc id="desc">Wiederkehrende Farben, Linien und Accessoire-Formen bilden einen persönlichen Stilcode.</desc>
+  <rect width="1200" height="800" fill="#F6F0E8"/>
+  <rect x="100" y="92" width="1000" height="616" rx="36" fill="#FFF9F2" stroke="#D4C3B3" stroke-width="2"/>
+  <rect x="185" y="175" width="240" height="390" rx="120" fill="#1F2D3D"/>
+  <rect x="480" y="175" width="240" height="390" rx="120" fill="#E7D7C5"/>
+  <rect x="775" y="175" width="240" height="390" rx="120" fill="#5B3A29"/>
+  <circle cx="305" cy="385" r="70" fill="#FFF9F2" opacity="0.9"/>
+  <circle cx="600" cy="385" r="70" fill="#B99873" opacity="0.84"/>
+  <circle cx="895" cy="385" r="70" fill="#D9A5B2" opacity="0.86"/>
+  <path d="M260 620 C365 570 445 570 550 620 C660 672 770 672 890 620" fill="none" stroke="#C8B7A8" stroke-width="6" stroke-linecap="round"/>
+</svg>

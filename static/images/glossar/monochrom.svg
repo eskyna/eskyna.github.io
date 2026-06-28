@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Monochrom im Stil-Glossar</title>
+  <desc id="desc">Editoriale Grafik zum Glossarbegriff Monochrom mit ruhigen Farbfeldern und klarer Linienführung</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="90" y="80" width="1020" height="640" rx="48" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <circle cx="245" cy="175" r="145" fill="#EFE4D8" opacity="0.58"/>
+  <circle cx="970" cy="620" r="180" fill="#D7C7B7" opacity="0.34"/>
+  <rect x="300" y="190" width="135" height="360" rx="34" fill="#F1E7D8"/>
+  <rect x="455" y="190" width="135" height="360" rx="34" fill="#DFCBB4"/>
+  <rect x="610" y="190" width="135" height="360" rx="34" fill="#C7A98B"/>
+  <rect x="765" y="190" width="135" height="360" rx="34" fill="#8A654A"/>
+  <path d="M280 598 C440 660 760 660 920 598" fill="none" stroke="#B88762" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Monochrom</text>
+</svg>

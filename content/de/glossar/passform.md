@@ -1,58 +1,63 @@
 ---
 title: "Was ist Passform?"
-description: "Passform entscheidet über die Wirkung eines Kleidungsstücks oft stärker als Preis oder Marke."
+term: "Passform"
+description: "Passform beschreibt, wie ein Kleidungsstück am Körper sitzt und warum Stimmigkeit oft wichtiger ist als die Größe."
 category: "Schnitt, Proportion & Passform"
 tags: ["passform", "schnitt", "proportionen", "größe"]
+keywords: ["passform", "kleidung sitzt richtig", "schnitt", "stilberatung"]
 glossar_order: "p"
 weight: 1
+image: "images/glossar/passform.svg"
+image_alt: "Grafik eines Blazers mit Linien zur Erklärung von Passform"
 relatedTerms:
   - title: "Silhouette"
     url: "/glossar/silhouette/"
   - title: "Proportion"
     url: "/glossar/proportion/"
+  - title: "Taillierung"
+    url: "/glossar/taillierung/"
   - title: "Saumlänge"
     url: "/glossar/saumlange/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: "Materialfall"
+    url: "/glossar/materialfall/"
 ---
 
 ## Definition
 
-**Passform** beschreibt, wie ein Kleidungsstück am Körper sitzt und fällt. Sie entscheidet oft stärker über die Wirkung als der Preis oder die Marke. Ein schlichtes Teil mit guter Passform wirkt hochwertiger als ein teures Teil, das nicht richtig sitzt.
+**Passform** beschreibt, wie ein Kleidungsstück am Körper sitzt, sich bewegt und fällt. Sie entscheidet oft stärker über die Wirkung als Preis, Marke oder Trend.
 
 ## Einfach erklärt
 
-Es geht nicht um Perfektion, sondern um Stimmigkeit. Eine gute Passform bedeutet: Die Schultern sitzen richtig, der Armausschnitt erlaubt Bewegung, die Längen sind harmonisch, und der Stoff fällt elegant, nicht verknittert.
+Passform ist nicht dasselbe wie Größe. Zwei Blazer in derselben Größe können völlig unterschiedlich sitzen. Einer rahmt die Schulter präzise, der andere zieht am Rücken oder wirkt zu breit.
 
-Bei Hosen sitzt eine gute Passform in der Taille, ohne zu zwicken. Der Oberschenkel hat ein wenig Bewegungsfreiheit, ohne zu schlabbern. Die Saumlänge reicht bis zur Ferse oder sitzt elegant auf dem Schuh.
+Gute Passform bedeutet Stimmigkeit. Die Schulternaht sitzt an der richtigen Stelle. Der Stoff fällt ruhig. Der Armausschnitt erlaubt Bewegung. Hosen sitzen am Bund ohne zu zwicken und haben genug Raum am Oberschenkel.
 
-Bei Blusen und Shirts: Die Schultern sollen exakt dort enden, wo deine Schulterkante ist. Zu breite Schultern lassen dich schmaler wirken. Zu enge Schultern wirken unbequem und schnell billig.
+Ein Teil muss nicht eng sein, um gut zu passen. Auch ein weiter Mantel oder ein Oversized-Blazer braucht Passform. Dann stimmen Schulter, Länge, Volumen und Materialfall.
 
 ## Warum Passform wichtig ist
 
-Wenn du deine Passform-Standards kennst, erkennst du schneller, welche Teile wirklich zu dir passen. Das reduziert Fehlkäufe dramatisch. Eine schlechte Passform können keine teuren Stoffe oder bekannte Designer-Namen ausgleichen.
+Passform macht Kleidung glaubwürdig. Ein schlichtes Shirt mit guter Linie wirkt gepflegter als ein teures Teil, das an der falschen Stelle spannt oder hängt.
 
-Zudem: Gute Passform wirkt automatisch hochwertiger. Das ist nicht Magie, es ist Biologie. Ein Teil, das korrekt sitzt, wird von Auge und Gehirn als „gut gemacht" gelesen.
+Wer gute Passform erkennt, kauft bewusster. Der Blick geht nicht nur auf Farbe oder Marke, sondern auf die Frage: Arbeitet dieses Kleidungsstück mit meinem Körper, meinem Alltag und meiner Wirkung?
 
 ## Typische Missverständnisse
 
-**Missverständnis:** Gute Passform bedeutet, eng zu sitzen.  
-**Besser:** Gute Passform bedeutet, dass das Teil an den richtigen Stellen sitzt. Es darf nicht zwicken, aber auch nicht schlabbern. Es muss Raum für Bewegung geben, aber den Körper nicht verstecken.
+**Missverständnis:** Wenn etwas nicht passt, brauche ich einfach eine andere Größe.
 
-**Missverständnis:** Passform ist eine Frage der Größe.  
-**Besser:** Passform ist eine Frage von Größe, Längen, Breiten und wie Materialien am Körper fallen. Eine Größe 38 sitzt nicht automatisch bei allen Menschen, die Größe 38 tragen, gleich.
+**Besser:** Manchmal ist die Größe richtig, aber der Schnitt passt nicht zur Körperlinie. Dann hilft keine Nummer größer oder kleiner.
 
-## Checkliste: Gute Passform erkennst du an…
+**Missverständnis:** Gute Passform bedeutet figurbetont.
 
-- **Schultern:** Die Naht endet exakt an der Schulterkante, nicht davor oder dahinter
-- **Ärmel:** Enden knapp über dem Handgelenk (bei langen Ärmeln); kurze Ärmel sitzen auf Höhe der Oberarmmitte
-- **Taille:** Sitzt an der richtigen anatomischen Stelle, erlaubt zwei Finger Platz zum Zwicken
-- **Länge:** Harmonisch zur Körpergröße (nicht künstlich zu kurz oder zu lang)
-- **Bewegung:** Du kannst dich beugen und greifen, ohne dass das Teil zwickt oder verrutscht
-- **Stoff:** Fällt elegant am Körper, nicht steif oder zu knitterig
+**Besser:** Gute Passform kann körpernah, gerade oder weit sein. Entscheidend ist, ob das Kleidungsstück bewusst sitzt.
+
+## Checkliste für gute Passform
+
+- Schultern sitzen ruhig und nicht zufällig breit.
+- Der Stoff zieht nicht über Brust, Rücken oder Hüfte.
+- Die Länge passt zur Körpergröße und zum Schuh.
+- Du kannst dich bewegen, ohne dass der Look verrutscht.
+- Das Kleidungsstück wirkt angezogen, nicht nur getragen.
 
 ## ESKYNA-Merksatz
 
-Ein schlichtes Teil mit guter Passform wirkt wertiger als ein teures Teil, das nicht richtig sitzt.
+Passform ist nicht Größe. Passform ist Stimmigkeit am Körper.

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Glanzgrad</title>
+  <desc id="desc">Ruhige ESKYNA Glossar-Grafik zum Begriff Glanzgrad</desc>
+  <rect width="1200" height="800" fill="#F7F2EA"/>
+  <rect x="86" y="86" width="1028" height="628" rx="44" fill="#FFFFFF" opacity="0.52"/>
+  <circle cx="975" cy="160" r="82" fill="#D9C8B1" opacity="0.34"/>
+  <circle cx="165" cy="648" r="96" fill="#D9C8B1" opacity="0.26"/>
+  <path d="M140 602 C312 548 456 664 650 596 C820 538 913 570 1054 516" fill="none" stroke="#D9C8B1" stroke-width="3" opacity="0.58"/>
+
+  <rect x="340" y="248" width="210" height="300" rx="32" fill="#D9C8B1" stroke="#2C2926" stroke-width="7"/>
+  <rect x="620" y="248" width="210" height="300" rx="32" fill="#FFFFFF" stroke="#2C2926" stroke-width="7" opacity="0.82"/>
+  <path d="M666 298 L778 500" stroke="#B08E63" stroke-width="12" stroke-linecap="round" opacity="0.78"/>
+  <path d="M694 290 L794 470" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.95"/>
+  <circle cx="910" cy="256" r="32" fill="#B08E63" opacity="0.8"/>
+  <path d="M910 178 L910 214 M910 298 L910 338 M830 256 L866 256 M954 256 L996 256" stroke="#B08E63" stroke-width="8" stroke-linecap="round" opacity="0.72"/>
+
+  <text x="600" y="706" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#2C2926">Glanzgrad</text>
+  <text x="600" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#B08E63" opacity="0.82">ESKYNA GLOSSAR</text>
+</svg>

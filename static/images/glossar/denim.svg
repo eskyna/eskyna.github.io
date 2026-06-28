@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Denim im Stil-Glossar</title>
+  <desc id="desc">Denimstruktur mit diagonaler Webung, Tasche und blauer Farbwelt.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="246" y="160" width="708" height="460" rx="34" fill="#28496A"/>
+  <g opacity="0.22" stroke="#BFD4E5" stroke-width="5">
+    <line x1="246" y1="202" x2="664" y2="620"/>
+    <line x1="246" y1="282" x2="584" y2="620"/>
+    <line x1="246" y1="362" x2="504" y2="620"/>
+    <line x1="326" y1="160" x2="786" y2="620"/>
+    <line x1="426" y1="160" x2="886" y2="620"/>
+    <line x1="526" y1="160" x2="954" y2="588"/>
+    <line x1="626" y1="160" x2="954" y2="488"/>
+    <line x1="726" y1="160" x2="954" y2="388"/>
+  </g>
+  <path d="M492 244 L708 244 L690 454 C642 504 558 504 510 454 Z" fill="#315679" stroke="#D7B57D" stroke-width="6"/>
+  <path d="M522 288 C570 318 630 318 678 288" fill="none" stroke="#D7B57D" stroke-width="5"/>
+  <circle cx="600" cy="252" r="12" fill="#D7B57D"/>
+  <circle cx="332" cy="504" r="70" fill="#1F3856" opacity="0.82"/>
+  <circle cx="870" cy="258" r="70" fill="#6E89A6" opacity="0.7"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Denim</text>
+</svg>

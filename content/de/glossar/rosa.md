@@ -1,22 +1,34 @@
 ---
 title: "Rosa im Stil erklärt"
+term: "Rosa"
 description: "Rosa wirkt je nach Nuance, Material und Styling sportlich, elegant, modern oder business-tauglich."
 category: "Farb-Lexikon"
-tags: ["rosa", "farbe", "farbberatung", "farbwirkung"]
-glossar_order: "r"
-weight: 1
 color_hex: "#D9A5B2"
+tags: ["rosa", "farbe", "farbberatung", "farbwirkung"]
+keywords: ["rosa kleidung", "rosa kombinieren", "farbberatung", "stilberatung"]
+glossar_order: "r"
+weight: 9
+image: "images/glossar/rosa.svg"
+image_alt: "Editoriale Grafik mit Rosa-Nuancen, feinen Stoffflächen und ruhigen Kombinationsfarben"
 relatedTerms:
+  - title: "Rot"
+    url: "/glossar/rot/"
+  - title: "Bordeaux"
+    url: "/glossar/bordeaux/"
   - title: "Farbtyp"
     url: "/glossar/farbtyp/"
   - title: "Unterton"
     url: "/glossar/unterton/"
-  - title: "Sättigung"
-    url: "/glossar/sattigung/"
+  - title: "Kontrast"
+    url: "/glossar/kontrast/"
   - title: "Pink"
     url: "/glossar/pink/"
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
+  - title: "Lila"
+    url: "/glossar/lila/"
+  - title: "Fuchsia"
+    url: "/glossar/fuchsia/"
+  - title: "Roségold"
+    url: "/glossar/rosegold/"
 ---
 
 ## Das Besondere an Rosa

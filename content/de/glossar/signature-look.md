@@ -1,21 +1,25 @@
 ---
 title: "Signature Look erklärt"
-description: "Ein Signature Look ist dein wiedererkennbarer Stilcode. Gemacht aus Farben, Schnitten oder Details, die dich unverwechselbar machen."
+term: "Signature Look"
+description: "Ein Signature Look ist dein wiedererkennbarer Stilcode aus Farben, Schnitten, Details und Wirkung."
 category: "Stil & Wirkung"
 tags: ["signature look", "stil", "personal style", "wiedererkennung"]
+keywords: ["signature look", "personal style", "stilcode", "stilberatung"]
 glossar_order: "s"
-weight: 1
+weight: 3
+image: "images/glossar/signature-look.svg"
+image_alt: "Editoriale Grafik mit wiederkehrenden Stil-Elementen als Symbol für einen Signature Look"
 relatedTerms:
-  - title: "Personal Style"
-    url: "/glossar/personal-style/"
-  - title: "Stil"
-    url: "/glossar/stil/"
-  - title: "Image"
-    url: "/glossar/image/"
+  - title: "Stilbruch"
+    url: "/glossar/stilbruch/"
+  - title: "Quiet Luxury"
+    url: "/glossar/quiet-luxury/"
   - title: "Key-Piece"
     url: "/glossar/key-piece/"
   - title: "Statement-Piece"
     url: "/glossar/statement-piece/"
+  - title: "Garderobenlogik"
+    url: "/glossar/garderobenlogik/"
 ---
 
 ## Definition
@@ -44,7 +48,7 @@ Ein Signature Look entsteht aus einer oder mehreren dieser Komponenten:
 Du trägst immer Navy, Weiß und Beige? Das ist bereits ein Signature Look. Er wirkt harmonisch, weil es kein Durcheinander gibt.
 
 **Schnitte:**  
-Du bevorzugst gerade Linien, tailierte Blazer und klassische Hosen? Das ist erkennbar.
+Du bevorzugst gerade Linien, taillierte Blazer und klassische Hosen? Das ist erkennbar.
 
 **Accessoires:**  
 Du trägst immer eine bestimmte Tasche oder Schmuck in Gold-Tönen? Das wird zu deinem Merkzeichen.

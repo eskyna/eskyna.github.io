@@ -13,6 +13,6 @@ ui:
 
 Das ESKYNA Glossar ist dein Nachschlagewerk für Stilwissen. Hier erklären wir Begriffe aus Stilberatung, Farbtheorie, Schnitt und Garderobe. Nicht als trockenes Lexikon, sondern als praktische Stilberatung.
 
-Egal, ob du verstehen möchtest, was „Passform" wirkt, wie Farben zusammenpassen, oder was „Capsule Wardrobe" wirklich bedeutet: Das Glossar hilft dir, deinen persönlichen Stil klarer zu verstehen und Fehlkäufe zu vermeiden.
+Egal, ob du verstehen möchtest, wie „Passform" wirkt, wie Farben zusammenpassen, oder was „Capsule Wardrobe" wirklich bedeutet: Das Glossar hilft dir, deinen persönlichen Stil klarer zu verstehen und Fehlkäufe zu vermeiden.
 
 **Lass dich durch die Begriffe navigieren. Wähle: alphabetisch oder nach Thema:**

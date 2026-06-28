@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Accessoire im ESKYNA Glossar</title>
+  <desc id="desc">Editoriale Grafik mit Tasche, Schmuckkreis, Gürtel und ruhigen Akzentflächen</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="180" y="145" width="840" height="500" rx="46" fill="#FFF8F0" stroke="#D1C0AF" stroke-width="4"/><path d="M325 360 C325 285 385 240 455 260 C525 280 545 360 520 480 L305 480 C285 420 300 385 325 360 Z" fill="#B99670" stroke="#6F5B4A" stroke-width="5"/><path d="M360 315 C385 245 475 245 500 315" fill="none" stroke="#6F5B4A" stroke-width="7"/><circle cx="675" cy="365" r="82" fill="none" stroke="#8E3D3D" stroke-width="9"/><circle cx="760" cy="365" r="82" fill="none" stroke="#D9B7A4" stroke-width="9"/><path d="M590 535 C675 505 760 505 845 535" fill="none" stroke="#2E4057" stroke-width="12" stroke-linecap="round"/><rect x="590" y="525" width="260" height="34" rx="17" fill="#2E4057" opacity="0.2"/><g fill="#6F5B4A" opacity="0.45"><circle cx="920" cy="270" r="26"/><circle cx="940" cy="330" r="15"/><circle cx="895" cy="330" r="12"/></g>
+  <text x="600" y="724" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Accessoire</text>
+</svg>

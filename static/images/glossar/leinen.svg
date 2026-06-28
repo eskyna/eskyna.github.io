@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Leinen im Stil-Glossar</title>
+  <desc id="desc">Eine stilisierte Leinenstruktur mit Stoffbahn und ruhigen Naturtönen.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <path d="M250 210 C380 150 500 190 610 230 C730 274 840 220 950 168 L950 598 C820 660 694 624 574 580 C448 534 344 568 250 618 Z" fill="#DCC8AE" opacity="0.88"/>
+  <g opacity="0.35" stroke="#8F7256" stroke-width="3">
+    <line x1="278" y1="230" x2="928" y2="550"/>
+    <line x1="260" y1="298" x2="920" y2="618"/>
+    <line x1="318" y1="186" x2="970" y2="506"/>
+    <line x1="330" y1="604" x2="936" y2="220"/>
+    <line x1="248" y1="544" x2="864" y2="154"/>
+    <line x1="410" y1="636" x2="952" y2="294"/>
+  </g>
+  <g opacity="0.42" stroke="#FFF8EF" stroke-width="5">
+    <path d="M280 288 C420 244 492 266 612 312 C732 358 842 318 928 268" fill="none"/>
+    <path d="M280 406 C420 362 502 392 616 436 C740 484 840 438 928 392" fill="none"/>
+    <path d="M280 526 C416 474 510 508 616 546 C744 592 840 552 928 502" fill="none"/>
+  </g>
+  <circle cx="300" cy="390" r="82" fill="#C9B08E" opacity="0.72"/>
+  <circle cx="900" cy="390" r="82" fill="#F0E4D5" stroke="#B79A7C" stroke-width="4"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Leinen</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Seide im Stil-Glossar</title>
+  <desc id="desc">Eine schimmernde Seidenbahn mit feinen Lichtkanten und ruhigen Farbfeldern.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <defs>
+    <linearGradient id="silk" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F6E8D7"/>
+      <stop offset="0.38" stop-color="#D8BFA9"/>
+      <stop offset="0.62" stop-color="#FFF4E9"/>
+      <stop offset="1" stop-color="#B99580"/>
+    </linearGradient>
+  </defs>
+  <path d="M260 230 C388 158 500 220 600 276 C714 340 826 340 940 258 L940 590 C800 654 706 598 596 548 C470 492 376 540 260 610 Z" fill="url(#silk)" opacity="0.96"/>
+  <path d="M316 244 C428 212 506 254 600 304 C706 360 800 358 894 312" fill="none" stroke="#FFF8F0" stroke-width="12" opacity="0.66"/>
+  <path d="M312 410 C438 360 502 404 600 456 C720 520 810 500 902 454" fill="none" stroke="#FFF8F0" stroke-width="10" opacity="0.48"/>
+  <path d="M270 548 C406 498 502 526 608 574 C708 620 824 606 932 548" fill="none" stroke="#6E5042" stroke-width="4" opacity="0.2"/>
+  <circle cx="300" cy="344" r="68" fill="#F7E9DB" opacity="0.72"/>
+  <circle cx="912" cy="440" r="70" fill="#C8A58E" opacity="0.42"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Seide</text>
+</svg>

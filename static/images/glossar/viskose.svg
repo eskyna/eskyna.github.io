@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Viskose im Stil-Glossar</title>
+  <desc id="desc">Fließende Stoffbahnen mit weichen Linien als Symbol für Viskose.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <path d="M292 176 C420 250 470 346 420 464 C382 552 438 628 560 646 C704 666 820 588 816 478 C812 372 704 340 732 248 C754 172 866 150 942 206" fill="none" stroke="#BDAAC8" stroke-width="84" stroke-linecap="round" opacity="0.72"/>
+  <path d="M292 176 C420 250 470 346 420 464 C382 552 438 628 560 646 C704 666 820 588 816 478 C812 372 704 340 732 248 C754 172 866 150 942 206" fill="none" stroke="#FFF7F1" stroke-width="24" stroke-linecap="round" opacity="0.62"/>
+  <path d="M336 214 C444 286 462 362 438 444 C410 540 474 602 586 610 C684 616 760 566 758 482 C756 408 688 370 700 294" fill="none" stroke="#7C617E" stroke-width="4" opacity="0.34"/>
+  <circle cx="306" cy="554" r="78" fill="#ECE2D6" opacity="0.9"/>
+  <circle cx="894" cy="278" r="72" fill="#C5A7B7" opacity="0.58"/>
+  <rect x="230" y="210" width="84" height="390" rx="42" fill="#E8D7DF" opacity="0.52"/>
+  <rect x="886" y="202" width="84" height="390" rx="42" fill="#E8D7DF" opacity="0.52"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Viskose</text>
+</svg>

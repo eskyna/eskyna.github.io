@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">T-Shirt im Stil-Glossar</title>
+  <desc id="desc">Ein schlichtes T-Shirt mit Jersey-Struktur und Farbfeldern.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  
+  <path d="M438 190 L535 150 L600 215 L665 150 L762 190 L728 318 L674 298 L674 610 L526 610 L526 298 L472 318 Z" fill="#F7F1EA" stroke="#8E745F" stroke-width="5"/>
+  <path d="M535 150 C552 214 648 214 665 150" fill="none" stroke="#8E745F" stroke-width="5" opacity="0.58"/>
+  <g opacity="0.25" stroke="#C7A27C" stroke-width="5">
+    <line x1="530" y1="352" x2="670" y2="352"/>
+    <line x1="530" y1="420" x2="670" y2="420"/>
+    <line x1="530" y1="488" x2="670" y2="488"/>
+  </g>
+  <rect x="170" y="198" width="178" height="382" rx="28" fill="#2E4057" opacity="0.18"/>
+  <rect x="852" y="198" width="178" height="382" rx="28" fill="#D7C7B7" opacity="0.72"/>
+
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">T-Shirt</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Hemd im Stil-Glossar</title>
+  <desc id="desc">Ein stilisiertes Hemd mit Kragen und Knopfleiste.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  
+  <path d="M420 184 L520 142 L600 218 L680 142 L780 184 L746 616 L454 616 Z" fill="#F7F1EA" stroke="#8E745F" stroke-width="5"/>
+  <path d="M520 142 L600 218 L560 268 L492 182 Z" fill="#E1D2C3"/>
+  <path d="M680 142 L600 218 L640 268 L708 182 Z" fill="#E1D2C3"/>
+  <line x1="600" y1="220" x2="600" y2="602" stroke="#8E745F" stroke-width="4" opacity="0.46"/>
+  <circle cx="600" cy="310" r="7" fill="#8E745F" opacity="0.6"/>
+  <circle cx="600" cy="390" r="7" fill="#8E745F" opacity="0.6"/>
+  <circle cx="600" cy="470" r="7" fill="#8E745F" opacity="0.6"/>
+  <rect x="176" y="190" width="166" height="380" rx="26" fill="#2E4057" opacity="0.18"/>
+  <rect x="858" y="190" width="166" height="380" rx="26" fill="#C7A27C" opacity="0.52"/>
+
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Hemd</text>
+</svg>

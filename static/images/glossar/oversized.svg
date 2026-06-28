@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Oversized im Stil-Glossar</title>
+  <desc id="desc">Eine großzügige Oversized-Silhouette mit Körperrahmen, Volumen und ruhigen Flächen.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="170" y="160" width="220" height="460" rx="34" fill="#EFE4D8"/>
+  <rect x="810" y="160" width="220" height="460" rx="34" fill="#EFE4D8"/>
+  <path d="M448 198 C500 146 700 146 752 198 L842 324 L772 626 L428 626 L358 324 Z" fill="#A7896A"/>
+  <path d="M500 214 C540 250 660 250 700 214" fill="none" stroke="#F7EFE5" stroke-width="6" opacity="0.72"/>
+  <path d="M500 214 L428 626" fill="none" stroke="#F7EFE5" stroke-width="5" opacity="0.42"/>
+  <path d="M700 214 L772 626" fill="none" stroke="#F7EFE5" stroke-width="5" opacity="0.42"/>
+  <rect x="536" y="266" width="128" height="262" rx="64" fill="none" stroke="#3A2B25" stroke-width="4" opacity="0.32"/>
+  <circle cx="600" cy="224" r="34" fill="none" stroke="#3A2B25" stroke-width="4" opacity="0.32"/>
+  <g fill="none" stroke="#C8A889" stroke-width="4" opacity="0.88">
+    <path d="M324 324 C272 414 276 504 340 586"/>
+    <path d="M876 324 C928 414 924 504 860 586"/>
+  </g>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Oversized</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Straight Leg im Stil-Glossar</title>
+  <desc id="desc">Eine gerade geschnittene Hose mit klaren vertikalen Linien.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="164" y="158" width="230" height="462" rx="32" fill="#EFE7DE"/>
+  <rect x="806" y="158" width="230" height="462" rx="32" fill="#EFE7DE"/>
+  <path d="M488 150 L712 150 L736 642 L632 642 L608 300 L592 300 L568 642 L464 642 Z" fill="#6B7580"/>
+  <path d="M488 150 C536 190 664 190 712 150" fill="none" stroke="#F4EFE8" stroke-width="6" opacity="0.7"/>
+  <line x1="568" y1="218" x2="568" y2="642" stroke="#F4EFE8" stroke-width="5" opacity="0.55"/>
+  <line x1="632" y1="218" x2="632" y2="642" stroke="#F4EFE8" stroke-width="5" opacity="0.55"/>
+  <line x1="464" y1="642" x2="568" y2="642" stroke="#3A4148" stroke-width="5" opacity="0.4"/>
+  <line x1="632" y1="642" x2="736" y2="642" stroke="#3A4148" stroke-width="5" opacity="0.4"/>
+  <g stroke="#B99670" stroke-width="4" fill="none" opacity="0.9">
+    <line x1="414" y1="188" x2="414" y2="620"/>
+    <line x1="786" y1="188" x2="786" y2="620"/>
+    <path d="M398 188 L430 188"/>
+    <path d="M398 620 L430 620"/>
+    <path d="M770 188 L802 188"/>
+    <path d="M770 620 L802 620"/>
+  </g>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Straight Leg</text>
+</svg>

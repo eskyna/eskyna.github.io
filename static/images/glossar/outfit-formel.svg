@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Outfit-Formel im Stil-Glossar</title>
+  <desc id="desc">Modulare Kleidungsbausteine ergeben eine ruhige Outfit-Formel.</desc>
+  <rect width="1200" height="800" fill="#F7F1EA"/>
+  <rect x="86" y="78" width="1028" height="644" rx="44" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="150" y="250" width="186" height="260" rx="28" fill="#EFE2D1" stroke="#C6AA88" stroke-width="3"/>
+  <path d="M212 300 L243 362 L274 300 L302 344 L302 470 L184 470 L184 344 Z" fill="#B89975"/>
+  <rect x="435" y="250" width="186" height="260" rx="28" fill="#F5EEE6" stroke="#C6AA88" stroke-width="3"/>
+  <path d="M490 304 C510 326 546 326 566 304 L586 468 L470 468 Z" fill="#2E4057" opacity="0.88"/>
+  <rect x="720" y="250" width="186" height="260" rx="28" fill="#EFE2D1" stroke="#C6AA88" stroke-width="3"/>
+  <path d="M788 306 L838 306 L858 468 L820 468 L813 370 L806 468 L768 468 Z" fill="#8B6B4F"/>
+  <text x="384" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#8B5E34">+</text>
+  <text x="670" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#8B5E34">+</text>
+  <text x="960" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#8B5E34">=</text>
+  <circle cx="1032" cy="400" r="48" fill="#C5A059" opacity="0.88"/>
+  <path d="M1010 400 L1027 418 L1056 382" fill="none" stroke="#FFFDF9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Outfit-Formel</text>
+  <text x="600" y="628" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#7A5F49">WIEDERHOLBAR UND STIMMIG</text>
+</svg>

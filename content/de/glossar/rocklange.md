@@ -1,21 +1,24 @@
 ---
 title: "Rocklänge: Wie wirkt sie?"
+term: "Rocklänge"
 description: "Rocklänge ist eine der wichtigsten Designentscheidungen. Sie prägt Proportionen, Wirkung und Alltagstauglichkeit."
 category: "Schnitt, Proportion & Passform"
 tags: ["rocklänge", "rock", "schnitt", "proportionen", "saumlänge", "längen"]
 glossar_order: "r"
 weight: 2
+image: "images/glossar/rocklange.svg"
+image_alt: "Editoriale Grafik mit unterschiedlichen Rocklängen und ruhigen Proportionslinien"
 relatedTerms:
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
+  - title: "Kontrast"
+    url: "/glossar/kontrast/"
   - title: "Proportion"
     url: "/glossar/proportion/"
   - title: "Silhouette"
     url: "/glossar/silhouette/"
   - title: "Passform"
     url: "/glossar/passform/"
-  - title: "A-Linie"
-    url: "/glossar/a-linie/"
+  - title: "Outfit-Formel"
+    url: "/glossar/outfit-formel/"
 cta:
   content: '<p>Tiefer einsteigen? Unser Blog-Beitrag <strong>"Rocklänge und Wirkung: Das Komplette Guide"</strong> erklärt, welche Rocklängen zu welchem Typ und welcher Situation passen.</p><p><a href="/blog/rocklange-wirkung/" class="btn btn-small">Zum Blog-Beitrag</a></p>'
 ---

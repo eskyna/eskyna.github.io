@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Marlenehose im Stil-Glossar</title>
+  <desc id="desc">Eine stilisierte Marlenehose mit hoher Taille, weiter Beinlinie und elegantem Fall.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="166" y="158" width="230" height="462" rx="34" fill="#EFE4D8"/>
+  <rect x="804" y="158" width="230" height="462" rx="34" fill="#EFE4D8"/>
+  <path d="M482 134 L718 134 L790 646 L642 646 L600 250 L558 646 L410 646 Z" fill="#7A604E"/>
+  <rect x="480" y="118" width="240" height="54" rx="20" fill="#5D473A"/>
+  <path d="M600 172 L600 646" stroke="#F8EFE6" stroke-width="5" opacity="0.36"/>
+  <path d="M512 178 L448 646" stroke="#F8EFE6" stroke-width="4" opacity="0.22"/>
+  <path d="M688 178 L752 646" stroke="#F8EFE6" stroke-width="4" opacity="0.22"/>
+  <path d="M474 236 C520 266 560 278 600 278 C640 278 680 266 726 236" fill="none" stroke="#C9B39D" stroke-width="5" opacity="0.58"/>
+  <path d="M426 646 L560 646" stroke="#5D473A" stroke-width="8" opacity="0.52"/>
+  <path d="M640 646 L774 646" stroke="#5D473A" stroke-width="8" opacity="0.52"/>
+  <circle cx="281" cy="389" r="74" fill="#D1B497" opacity="0.82"/>
+  <circle cx="919" cy="389" r="74" fill="#7A604E" opacity="0.84"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Marlenehose</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Anlassgarderobe im ESKYNA Glossar</title>
+  <desc id="desc">Editoriale Grafik mit drei Outfit-Kapseln für Alltag, Business und Event</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="150" y="145" width="250" height="470" rx="38" fill="#F2E8DD"/><rect x="475" y="145" width="250" height="470" rx="38" fill="#E3D4C3"/><rect x="800" y="145" width="250" height="470" rx="38" fill="#F2E8DD"/><path d="M275 230 L315 345 L235 345 Z" fill="#2E4057" opacity="0.9"/><path d="M560 230 L640 230 L665 515 L535 515 Z" fill="#B99670"/><path d="M905 225 C950 290 955 430 905 520 C855 430 860 290 905 225 Z" fill="#8E3D3D" opacity="0.82"/><g stroke="#6F5B4A" stroke-width="5" opacity="0.55"><line x1="205" y1="560" x2="345" y2="560"/><line x1="530" y1="560" x2="670" y2="560"/><line x1="855" y1="560" x2="995" y2="560"/></g><g fill="#6F5B4A" opacity="0.65"><circle cx="275" cy="650" r="10"/><circle cx="600" cy="650" r="10"/><circle cx="925" cy="650" r="10"/></g>
+  <text x="600" y="724" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Anlassgarderobe</text>
+</svg>

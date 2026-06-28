@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Jeans im Stil-Glossar</title>
+  <desc id="desc">Eine stilisierte Jeans mit Nähten, Tasche und Denim-Farbwelt.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <path d="M462 150 L738 150 L790 642 L682 642 L616 300 L542 642 L434 642 Z" fill="#335B7E"/>
+  <path d="M462 150 C520 192 680 192 738 150" fill="none" stroke="#D8B36F" stroke-width="6" opacity="0.78"/>
+  <path d="M600 174 L616 300" stroke="#D8B36F" stroke-width="5" opacity="0.66"/>
+  <path d="M494 222 C526 256 558 270 600 274" fill="none" stroke="#D8B36F" stroke-width="5" opacity="0.72"/>
+  <path d="M706 222 C674 256 642 270 600 274" fill="none" stroke="#D8B36F" stroke-width="5" opacity="0.72"/>
+  <g opacity="0.22" stroke="#C6D7E6" stroke-width="4">
+    <line x1="458" y1="252" x2="716" y2="510"/>
+    <line x1="438" y1="348" x2="724" y2="634"/>
+    <line x1="540" y1="158" x2="786" y2="404"/>
+    <line x1="658" y1="158" x2="762" y2="262"/>
+  </g>
+  <path d="M302 236 L384 194 L390 556 L310 602 Z" fill="#E7DDCF" opacity="0.7"/>
+  <path d="M898 236 L816 194 L810 556 L890 602 Z" fill="#E7DDCF" opacity="0.7"/>
+  <circle cx="306" cy="410" r="70" fill="#6E89A6" opacity="0.72"/>
+  <circle cx="894" cy="410" r="70" fill="#203A56" opacity="0.88"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Jeans</text>
+</svg>

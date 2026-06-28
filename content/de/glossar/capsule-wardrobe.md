@@ -1,65 +1,63 @@
 ---
-title: "Capsule Wardrobe erklärt"
-description: "Eine Capsule Wardrobe ist eine bewusst reduzierte Garderobe aus Teilen, die sich vielseitig kombinieren lassen."
+title: "Was ist eine Capsule Wardrobe?"
+term: "Capsule Wardrobe"
+description: "Eine Capsule Wardrobe ist eine bewusst aufgebaute Garderobe aus Teilen, die sich vielseitig kombinieren lassen."
 category: "Garderobe & Alltag"
 tags: ["capsule wardrobe", "garderobe", "fehlkäufe", "basics"]
+keywords: ["capsule wardrobe", "garderobe", "kombinierbare kleidung", "stilberatung"]
 glossar_order: "c"
-weight: 2
+weight: 1
+image: "images/glossar/capsule-wardrobe.svg"
+image_alt: "Editoriale Grafik einer reduzierten Garderobe mit Farbfeldern und Outfit-Karten"
 relatedTerms:
   - title: "Garderobenlogik"
     url: "/glossar/garderobenlogik/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
   - title: "Basic"
     url: "/glossar/basic/"
+  - title: "Key-Piece"
+    url: "/glossar/key-piece/"
   - title: "Outfit-Formel"
     url: "/glossar/outfit-formel/"
   - title: "Fehlkauf"
     url: "/glossar/fehlkauf/"
+  - title: "Farbpalette"
+    url: "/glossar/farbpalette/"
+  - title: "Neutrale Farben"
+    url: "/glossar/neutrale-farben/"
 ---
 
 ## Definition
 
-Eine **Capsule Wardrobe** ist eine bewusst reduzierte Garderobe aus gut kombinierbaren Kleidungsstücken. Nicht aus Mangel, sondern aus System: Jedes Teil hat eine Aufgabe, passt zu mindestens zwei anderen Teilen und reflektiert deinen persönlichen Stil.
+Eine **Capsule Wardrobe** ist eine bewusst aufgebaute Garderobe aus Kleidungsstücken, die sich vielseitig kombinieren lassen. Es geht nicht darum, möglichst wenig zu besitzen. Es geht darum, dass jedes Teil eine klare Aufgabe hat.
 
 ## Einfach erklärt
 
-Es geht nicht darum, möglichst wenig zu besitzen. Es geht darum, dass jedes Teil eine Aufgabe hat. Eine gute Capsule Wardrobe nimmt Entscheidungen ab, statt neue Regeln aufzubauen.
+Eine Capsule Wardrobe funktioniert wie ein ruhiges System. Farben wiederholen sich. Schnitte passen zusammen. Materialien fühlen sich im Alltag richtig an. Einzelne Teile stehen nicht isoliert im Schrank, sondern ergeben mehrere stimmige Outfits.
 
-Das bedeutet konkret: Du öffnest deinen Kleiderschrank und findest nicht hundert Kombinationen, sondern etwa 15 bis 20 durchdachte Outfit-Optionen, die sich anfühlen wie: „Ja, das passt."
+Der Vorteil liegt in der Entscheidung. Du öffnest den Kleiderschrank und siehst nicht lauter Möglichkeiten, die nicht zusammenpassen. Du erkennst Kombinationen. Ein Blazer passt zur Hose, zur Jeans und zum Kleid. Eine Bluse funktioniert im Meeting und am Wochenende. Ein Mantel verbindet mehrere Looks, statt nur einen Anlass zu bedienen.
 
-Eine Capsule Wardrobe funktioniert wie ein System aus wiederkehrenden Elementen. Zum Beispiel:
-
-- Farben, die sich wiederholen (z.B. Navy, Weiß, Beige, Bordeaux)
-- Schnitte, die zu dir passen (z.B. gerade Hosen, tailierte Blazer)
-- Materialien, mit denen du gut lebst
-- Teile, die du wirklich magst und nicht nur kaufst, weil es gerade trendy ist
+Eine gute Capsule Wardrobe darf Farbe haben. Sie muss nicht nur aus Schwarz, Weiß, Beige und Navy bestehen. Entscheidend ist, dass die Farben zueinander und zu dir passen.
 
 ## Warum Capsule Wardrobe wichtig ist
 
-Eine strukturierte Garderobe reduziert Fehlkäufe radikal. Wenn du weißt, dass du hauptsächlich Blau, Beige und Bordeaux trägst, und dass du eher eng geschnittene, klassische Kleidung magst, dann wirst du nicht mehr impulsiv ein oversized Neon-Teil kaufen.
+Eine Capsule Wardrobe reduziert Fehlkäufe, weil sie vor jedem Kauf eine einfache Frage stellt: Passt dieses Teil in mein System? Wenn es nur auf dem Bügel schön aussieht, aber mit nichts zusammenarbeitet, wird es wahrscheinlich selten getragen.
 
-Zudem spart eine Capsule Wardrobe Zeit: Morgens öffnest du den Schrank und weißt: „Das passt zusammen." Keine Ratlosigkeit. Keine Zeitverschwendung.
-
-Und drittens: Eine bewusste Garderobe ist oft günstiger als eine chaotische. Denn du kaufst nicht viel, sondern gezielt und hochwertig.
+Sie spart auch Zeit. Nicht, weil der Stil kleiner wird, sondern weil er klarer wird. Wiederkehrende Farben, gute Passformen und vertraute Silhouetten machen das Anziehen leichter.
 
 ## Typische Missverständnisse
 
-**Missverständnis:** Eine Capsule Wardrobe besteht immer aus neutralen Farben.  
-**Besser:** Sie besteht aus Farben, die zu dir passen und sich gut miteinander verbinden. Das können auch Rosa, Grün oder Bordeaux sein.
+**Missverständnis:** Eine Capsule Wardrobe besteht aus einer festen Anzahl von Teilen.
 
-**Missverständnis:** Eine Capsule Wardrobe hat exakt 33 Teile, nicht mehr, nicht weniger.  
-**Besser:** Die Größe ist egal. Eine Capsule Wardrobe für dich könnte 20 Teile sein, für jemand anderen 50. Wichtig ist der System-Gedanke, nicht die Zahl.
+**Besser:** Die Zahl ist weniger wichtig als die Logik. Eine kleine Garderobe kann chaotisch sein. Eine größere Garderobe kann klar funktionieren.
 
-**Missverständnis:** Wenn ich eine Capsule Wardrobe habe, kann ich nie wieder spontan etwas Neues kaufen.  
-**Besser:** Natürlich kannst du. Du wirst es nur bewusster tun und vorher fragen: „Passt das zu 2 bis 3 anderen Teilen, die ich schon habe?"
+**Missverständnis:** Eine Capsule Wardrobe ist immer minimalistisch.
 
-## Ein konkretes Beispiel
+**Besser:** Sie kann minimalistisch wirken, muss es aber nicht. Auch ein farbiger, femininer oder kreativer Stil kann als Capsule Wardrobe aufgebaut sein.
 
-Ein marineblauer Blazer, eine gerade Jeans, ein cremefarbenes Shirt und Loafer. Das ist eine kleine Outfit-Formel. Mit einem Seidentuch, einer farbigen Tasche oder farbigem Schmuck bekommt der Look Persönlichkeit. Ohne diese Teile bleibt er klassisch. In 20 Minuten hast du morgens ein vollständiges, stimmiges Outfit.
+## Praktisches Beispiel
 
-Das ist Capsule Wardrobe im Kleinen: Kein Chaos, keine Überraschungen, aber auch keine Langeweile.
+Ein marineblauer Blazer, eine gerade Jeans, eine cremefarbene Bluse, eine Chino, Loafer und ein feiner Strick ergeben bereits mehrere Looks. Mit einem Seidentuch oder einer Tasche in Akzentfarbe bekommt das System Persönlichkeit.
 
 ## ESKYNA-Merksatz
 
-Eine gute Garderobe ist nicht voller. Sie ist klarer. Und mit Klarheit kommt weniger Stress. Mehr Stil.
+Eine gute Garderobe ist nicht voller. Sie ist klarer. Capsule Wardrobe bedeutet weniger Zufall und mehr Stilgefühl.

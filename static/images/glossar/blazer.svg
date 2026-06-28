@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Blazer im Stil-Glossar</title>
+  <desc id="desc">Ein stilisierter Blazer mit Revers, klarer Schulterlinie und neutralen Farbfeldern.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="160" y="158" width="222" height="452" rx="34" fill="#EFE4D8"/>
+  <rect x="818" y="158" width="222" height="452" rx="34" fill="#EFE4D8"/>
+  <path d="M438 178 L762 178 L826 640 L374 640 Z" fill="#293344"/>
+  <path d="M438 178 L552 178 L600 330 L480 454 Z" fill="#3C485C"/>
+  <path d="M762 178 L648 178 L600 330 L720 454 Z" fill="#3C485C"/>
+  <path d="M552 178 L600 330 L648 178 L600 226 Z" fill="#F3EEE8"/>
+  <path d="M474 640 L552 178" stroke="#151B26" stroke-width="6" opacity="0.35"/>
+  <path d="M726 640 L648 178" stroke="#151B26" stroke-width="6" opacity="0.35"/>
+  <path d="M600 330 L600 640" stroke="#151B26" stroke-width="5" opacity="0.3"/>
+  <circle cx="600" cy="438" r="13" fill="#C9B39D"/>
+  <circle cx="600" cy="506" r="13" fill="#C9B39D"/>
+  <path d="M438 178 C478 146 522 130 600 130 C678 130 722 146 762 178" fill="none" stroke="#C9B39D" stroke-width="5" opacity="0.75"/>
+  <circle cx="270" cy="388" r="72" fill="#C9B39D" opacity="0.82"/>
+  <circle cx="930" cy="388" r="72" fill="#56657A" opacity="0.82"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Blazer</text>
+</svg>

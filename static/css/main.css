@@ -1418,7 +1418,7 @@ h1 {
   padding: 1.25rem;
 }
 
-/* ─── Problems Section – Premium Editorial ───────────────────── */
+/* --- Problems Section - Premium Editorial --------------------- */
 
 .ps-section {
   padding: 96px 24px;
@@ -1877,7 +1877,7 @@ h1 {
   font-size: clamp(1.2rem, 2vw, 1.55rem);
 }
 
-/* ── Neue Angebotsstruktur (3 Pakete + Kostenlos) ──────── */
+/* -- Neue Angebotsstruktur (3 Pakete + Kostenlos) -------- */
 
 .offers-free-section {
   margin: 3rem 0 4rem;
@@ -2533,7 +2533,7 @@ h1 {
   }
 }
 
-/* ── Hauptpakete ───────────────────────────────────────── */
+/* -- Hauptpakete ----------------------------------------- */
 
 .offers-packages-section {
   margin: 4rem 0;
@@ -2728,7 +2728,7 @@ h1 {
   text-align: center;
 }
 
-/* ── Vergleichstabelle ─────────────────────────────────– */
+/* -- Vergleichstabelle ---------------------------------- */
 
 .offers-comparison-section {
   margin: 4rem 0;
@@ -2782,7 +2782,7 @@ h1 {
   font-weight: 600;
 }
 
-/* ── Unsicherheits-Abfang ──────────────────────────────– */
+/* -- Unsicherheits-Abfang ------------------------------- */
 
 .offers-uncertainty-section {
   margin: 3rem 0;
@@ -3287,9 +3287,9 @@ h1 {
   color: var(--accent-strong);
 }
 
-/* ── Testimonial Slider ────────────────────────────────── */
+/* -- Testimonial Slider ---------------------------------- */
 
-/* ── ESKYNA Methode ────────────────────────────────────── */
+/* -- ESKYNA Methode -------------------------------------- */
 
 .method-section {
   position: relative;
@@ -3461,9 +3461,9 @@ h1 {
   }
 }
 
-/* ── Praxisbeispiele (Cases) ───────────────────────────── */
+/* -- Praxisbeispiele (Cases) ----------------------------- */
 
-/* ── Referenz-Label ────────────────────────────────────── */
+/* -- Referenz-Label -------------------------------------- */
 
 .reference-label {
   font-family: var(--font-subtitle);
@@ -3478,7 +3478,7 @@ h1 {
   line-height: 1.35;
 }
 
-/* ── FAQ Akkordeon ─────────────────────────────────────── */
+/* -- FAQ Akkordeon --------------------------------------- */
 
 .faq-section {
   padding: 6rem 0;
@@ -6567,7 +6567,7 @@ main .hero .hero-headline-line {
   }
 }
 
-/* ── Stilfrage Section ───────────────────────────────────── */
+/* -- Stilfrage Section ------------------------------------- */
 
 .stilfrage-section {
   position: relative;
@@ -6775,13 +6775,30 @@ main .hero .hero-headline-line {
 }
 
 .glossar-hero-shell {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: clamp(1.5rem, 5vw, 3rem);
   align-items: center;
   min-height: 0;
 }
 
 .glossar-hero-copy {
   width: 100%;
+}
+
+.glossar-hero-visual {
+  width: 100%;
+  align-self: stretch;
+}
+
+.glossar-hero-image {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border: 1px solid rgb(44 30 22 / 12%);
+  border-radius: clamp(1rem, 3vw, 1.6rem);
+  box-shadow: 0 20px 46px rgb(44 30 22 / 14%);
+  background: var(--bg-soft);
 }
 
 .glossar-display-title {
@@ -7204,6 +7221,28 @@ main .hero .hero-headline-line {
   overflow: hidden;
 }
 
+.glossar-term-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border: 1px solid rgb(44 30 22 / 10%);
+  border-radius: 0.55rem;
+  background: var(--bg-soft);
+  margin-bottom: 0.3rem;
+}
+
+.glossar-term-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 240ms ease;
+}
+
+.glossar-term-link:hover .glossar-term-thumb img {
+  transform: scale(1.025);
+}
+
 .glossar-term-link::before {
   content: "";
   position: absolute;
@@ -7256,6 +7295,10 @@ main .hero .hero-headline-line {
   .glossar-content-shell {
     max-width: 56rem;
     padding: 0 2rem;
+  }
+
+  .glossar-hero-shell {
+    grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.78fr);
   }
 
   .glossar-term-list {

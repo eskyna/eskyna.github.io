@@ -1,0 +1,61 @@
+---
+title: "Was ist ein Statement-Piece?"
+term: "Statement-Piece"
+description: "Ein Statement-Piece ist ein bewusst auffälliges Kleidungsstück oder Accessoire, das den Look prägt."
+category: "Stil & Wirkung"
+tags: ["statement-piece", "stil", "accessoires", "wirkung"]
+keywords: ["statement-piece", "statement teil", "stilbruch", "outfit akzent"]
+glossar_order: "s"
+weight: 4
+image: "images/glossar/statement-piece.svg"
+image_alt: "Editoriale Grafik mit ruhigen neutralen Flächen und einem klaren Akzent als Symbol für ein Statement-Piece"
+relatedTerms:
+  - title: "Statement-Schmuck"
+    url: "/glossar/statement-schmuck/"
+  - title: "Basic"
+    url: "/glossar/basic/"
+  - title: "Key-Piece"
+    url: "/glossar/key-piece/"
+  - title: "Glanzgrad"
+    url: "/glossar/glanzgrad/"
+  - title: "Outfit-Formel"
+    url: "/glossar/outfit-formel/"
+  - title: "Signature Look"
+    url: "/glossar/signature-look/"
+---
+
+## Definition
+
+Ein **Statement-Piece** ist ein Kleidungsstück oder Accessoire, das bewusst auffällt und den Look prägt. Das kann ein farbiger Mantel, eine besondere Tasche, ein markanter Schuh, großer Schmuck oder ein ungewöhnlicher Schnitt sein.
+
+## Einfach erklärt
+
+Ein Statement-Piece zieht den Blick an. Es sagt: Hier liegt der Fokus. Genau deshalb braucht es Ruhe um sich herum. Wenn zu viele Teile gleichzeitig sprechen, wirkt der Look schnell unklar.
+
+Ein gutes Statement-Piece passt trotzdem zur Person. Es wirkt nicht wie ein Kostüm, sondern wie eine bewusste Entscheidung. Es kann laut sein, aber es sollte nicht zufällig wirken.
+
+## Warum ein Statement-Piece wichtig ist
+
+Statement-Pieces geben einfachen Outfits Charakter. Eine ruhige Basis aus Schwarz, Navy, Creme oder Denim kann durch eine starke Tasche, einen roten Schuh oder ein besonderes Tuch sofort persönlicher werden.
+
+Für ESKYNA ist ein Statement-Piece kein Trick. Es ist ein Stil-Signal. Es zeigt, worauf der Blick gelenkt werden soll und welche Wirkung der Look bekommt.
+
+## So setzt du ein Statement-Piece ein
+
+- Wähle einen klaren Fokus im Outfit.
+- Halte Farben und Schnitte im restlichen Look ruhiger.
+- Wiederhole eine Farbe oder ein Material, wenn der Look stimmiger wirken soll.
+- Achte auf Passform. Ein auffälliges Teil verzeiht schlechte Proportionen selten.
+- Nutze Accessoires, wenn ein großes Kleidungsstück zu dominant wirkt.
+
+## Typische Missverständnisse
+
+**Missverständnis:** Ein Statement-Piece muss extrem auffällig sein.  
+**Besser:** Auch ein perfekt geschnittener weißer Blazer oder eine besondere Brosche kann ein Statement sein.
+
+**Missverständnis:** Statement-Pieces sind nur für mutige Menschen.  
+**Besser:** Die Dosierung entscheidet. Ein kleiner Akzent kann genauso wirksam sein wie ein großer Auftritt.
+
+## ESKYNA-Merksatz
+
+Ein Statement-Piece braucht nicht mehr Lautstärke. Es braucht den richtigen Rahmen.

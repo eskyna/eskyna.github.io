@@ -19,33 +19,31 @@
 
   <section class="glossar-navigation-section">
     <div class="container glossar-navigation-shell">
-      <!-- Suchfeld -->
       <div class="glossar-search-box">
-        <input 
-          type="search" 
-          id="glossar-search" 
-          class="glossar-search-input" 
+        <input
+          type="search"
+          id="glossar-search"
+          class="glossar-search-input"
           placeholder="{{ $searchPlaceholderText }}"
           aria-label="{{ $searchPlaceholderText }}"
         >
       </div>
 
-      <!-- Tab-Navigation: A-Z vs. Kategorien -->
       <div class="glossar-tabs" role="tablist">
-        <button 
-          class="glossar-tab active" 
-          id="glossar-tab-alphabet" 
+        <button
+          class="glossar-tab active"
+          id="glossar-tab-alphabet"
           role="tab"
-          aria-selected="true" 
+          aria-selected="true"
           aria-controls="glossar-panel-alphabet"
         >
           {{ $byAlphabetText }}
         </button>
-        <button 
-          class="glossar-tab" 
-          id="glossar-tab-categories" 
+        <button
+          class="glossar-tab"
+          id="glossar-tab-categories"
           role="tab"
-          aria-selected="false" 
+          aria-selected="false"
           aria-controls="glossar-panel-categories"
         >
           {{ $byCategoryText }}
@@ -54,10 +52,9 @@
     </div>
   </section>
 
-  <!-- PANEL 1: Alphabetische Ansicht -->
-  <section 
-    class="glossar-panel active" 
-    id="glossar-panel-alphabet" 
+  <section
+    class="glossar-panel active"
+    id="glossar-panel-alphabet"
     role="tabpanel"
     aria-labelledby="glossar-tab-alphabet"
   >
@@ -65,47 +62,52 @@
       <div class="glossar-alphabet-view">
         {{ $glossarPages := where (where site.Pages "Type" "glossar") "Kind" "page" }}
         {{ $glossarTerms := sort $glossarPages "Params.glossar_order" "asc" }}
-        
-        <!-- A-Z Index für schnelle Navigation -->
+        {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+
         <div class="glossar-alphabet-index">
-          {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
           {{ range $letters }}
             {{ $letter := . }}
             {{ $letterLower := lower . }}
             {{ $found := false }}
             {{ range $glossarTerms }}
-              {{ if eq (substr (lower .Title) 0 1) $letterLower }}
+              {{ $termTitle := .Params.term | default .Title }}
+              {{ if eq (substr (lower $termTitle) 0 1) $letterLower }}
                 {{ $found = true }}
               {{ end }}
             {{ end }}
             {{ if $found }}
-              <a href="#letter-{{ $letterLower }}" class="glossar-letter-link">{{ . }}</a>
+              <a href="#letter-{{ $letterLower }}" class="glossar-letter-link">{{ $letter }}</a>
             {{ else }}
-              <span class="glossar-letter-link glossar-letter-inactive">{{ . }}</span>
+              <span class="glossar-letter-link glossar-letter-inactive">{{ $letter }}</span>
             {{ end }}
           {{ end }}
         </div>
 
-        <!-- Glossarbegriffe gruppiert nach Anfangsbuchstaben -->
-        {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
         {{ range $letters }}
           {{ $letter := . }}
           {{ $letterLower := lower . }}
           {{ $hasTerms := false }}
           {{ range $glossarTerms }}
-            {{ if eq (substr (lower .Title) 0 1) $letterLower }}
+            {{ $termTitle := .Params.term | default .Title }}
+            {{ if eq (substr (lower $termTitle) 0 1) $letterLower }}
               {{ $hasTerms = true }}
             {{ end }}
           {{ end }}
           {{ if $hasTerms }}
             <div class="glossar-letter-group" id="letter-{{ $letterLower }}">
-              <h2 class="glossar-letter-heading">{{ . }}</h2>
+              <h2 class="glossar-letter-heading">{{ $letter }}</h2>
               <ul class="glossar-term-list">
                 {{ range $glossarTerms }}
-                  {{ if eq (substr (lower .Title) 0 1) $letterLower }}
+                  {{ $termTitle := .Params.term | default .Title }}
+                  {{ if eq (substr (lower $termTitle) 0 1) $letterLower }}
                     <li class="glossar-term-item">
-                      <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ .Title | plainify }}" aria-label="{{ .Title | plainify }}">
-                        <span class="glossar-term-title">{{ .Title }}</span>
+                      <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+                        {{ with .Params.image }}
+                          <span class="glossar-term-thumb">
+                            <img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">
+                          </span>
+                        {{ end }}
+                        <span class="glossar-term-title">{{ $termTitle }}</span>
                         {{ with .Description }}
                           <span class="glossar-term-excerpt">{{ . }}</span>
                         {{ end }}
@@ -121,10 +123,9 @@
     </div>
   </section>
 
-  <!-- PANEL 2: Kategorische Ansicht -->
-  <section 
-    class="glossar-panel" 
-    id="glossar-panel-categories" 
+  <section
+    class="glossar-panel"
+    id="glossar-panel-categories"
     role="tabpanel"
     aria-labelledby="glossar-tab-categories"
     hidden
@@ -132,16 +133,15 @@
     <div class="container glossar-content-shell">
       <div class="glossar-category-view">
         {{ $glossarPages := where (where site.Pages "Type" "glossar") "Kind" "page" }}
-        
-        {{ $categories := slice 
-          "Stil & Wirkung" 
+        {{ $categories := slice
+          "Stil & Wirkung"
           "Farbberatung & Farbe"
           "Schnitt, Proportion & Passform"
           "Garderobe & Alltag"
           "Materialien & Details"
           "Farb-Lexikon"
         }}
-        
+
         {{ range $categories }}
           {{ $category := . }}
           {{ $termsInCategory := where $glossarPages "Params.category" $category }}
@@ -150,9 +150,15 @@
               <h2 class="glossar-category-heading">{{ $category }}</h2>
               <ul class="glossar-term-list">
                 {{ range sort $termsInCategory "Params.weight" "asc" }}
+                  {{ $termTitle := .Params.term | default .Title }}
                   <li class="glossar-term-item">
-                    <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ .Title | plainify }}" aria-label="{{ .Title | plainify }}">
-                      <span class="glossar-term-title">{{ .Title }}</span>
+                    <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+                      {{ with .Params.image }}
+                        <span class="glossar-term-thumb">
+                          <img src="{{ . | relURL }}" alt="" loading="lazy" decoding="async">
+                        </span>
+                      {{ end }}
+                      <span class="glossar-term-title">{{ $termTitle }}</span>
                       {{ with .Description }}
                         <span class="glossar-term-excerpt">{{ . }}</span>
                       {{ end }}
@@ -172,7 +178,6 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // Tab-Navigation
   const tabs = document.querySelectorAll('[role="tab"]');
   const panels = document.querySelectorAll('[role="tabpanel"]');
   
@@ -182,15 +187,21 @@ document.addEventListener('DOMContentLoaded', function() {
         t.classList.remove('active');
         t.setAttribute('aria-selected', 'false');
       });
-      panels.forEach(p => p.hidden = true);
+      panels.forEach(p => {
+        p.hidden = true;
+        p.classList.remove('active');
+      });
       
       this.classList.add('active');
       this.setAttribute('aria-selected', 'true');
-      document.getElementById(this.getAttribute('aria-controls')).hidden = false;
+      const activePanel = document.getElementById(this.getAttribute('aria-controls'));
+      if (activePanel) {
+        activePanel.hidden = false;
+        activePanel.classList.add('active');
+      }
     });
   });
 
-  // Suchfunktion
   const searchInput = document.getElementById('glossar-search');
   if (searchInput) {
     searchInput.addEventListener('input', function(e) {

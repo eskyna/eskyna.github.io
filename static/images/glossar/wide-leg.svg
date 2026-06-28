@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Wide Leg im Stil-Glossar</title>
+  <desc id="desc">Eine weit fallende Hose mit großzügigem Volumen und fließenden Linien.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="160" y="160" width="230" height="460" rx="34" fill="#EFE4D8"/>
+  <rect x="810" y="160" width="230" height="460" rx="34" fill="#EFE4D8"/>
+  <path d="M486 150 L714 150 L824 642 L664 642 L608 304 L592 304 L536 642 L376 642 Z" fill="#8B6F5A"/>
+  <path d="M486 150 C536 192 664 192 714 150" fill="none" stroke="#F6EFE7" stroke-width="6" opacity="0.72"/>
+  <path d="M600 176 L600 304" stroke="#F6EFE7" stroke-width="5" opacity="0.5"/>
+  <path d="M512 228 C548 260 576 278 600 304" fill="none" stroke="#F6EFE7" stroke-width="4" opacity="0.45"/>
+  <path d="M688 228 C652 260 624 278 600 304" fill="none" stroke="#F6EFE7" stroke-width="4" opacity="0.45"/>
+  <g fill="none" stroke="#C8A889" stroke-width="4" opacity="0.86">
+    <path d="M392 280 C326 398 326 512 376 642"/>
+    <path d="M808 280 C874 398 874 512 824 642"/>
+  </g>
+  <circle cx="278" cy="390" r="70" fill="#D8C1A5" opacity="0.72"/>
+  <circle cx="922" cy="390" r="70" fill="#A7896A" opacity="0.7"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Wide Leg</text>
+</svg>

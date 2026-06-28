@@ -5,6 +5,7 @@
 {{ $homeUI := .Site.Home.Params.ui }}
 {{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
 {{ $relatedText := or $pageUI.related_text $sectionUI.related_text $homeUI.related_text "Verwandte Begriffe" }}
+{{ $imageAlt := .Params.image_alt | default .Title }}
 
 <main class="glossar-page">
   <section class="hero-small glossar-hero">
@@ -26,6 +27,20 @@
         <p class="glossar-hero-description">{{ . }}</p>
         {{ end }}
       </div>
+
+      {{ with .Params.image }}
+      <div class="glossar-hero-visual">
+        <img
+          class="glossar-hero-image"
+          src="{{ . | relURL }}"
+          alt="{{ $imageAlt | plainify }}"
+          width="1200"
+          height="800"
+          decoding="async"
+          fetchpriority="high"
+        >
+      </div>
+      {{ end }}
     </div>
   </section>
 

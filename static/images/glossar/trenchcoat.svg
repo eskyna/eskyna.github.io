@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Trenchcoat im Stil-Glossar</title>
+  <desc id="desc">Ein stilisierter Trenchcoat mit Gürtel, Revers und beigen Farbfeldern.</desc>
+  <rect width="1200" height="800" fill="#F8F3EC"/>
+  <rect x="84" y="74" width="1032" height="652" rx="46" fill="#FFFDF9" stroke="#D7C7B7" stroke-width="3"/>
+  <rect x="170" y="158" width="206" height="450" rx="34" fill="#EFE6DC"/>
+  <rect x="824" y="158" width="206" height="450" rx="34" fill="#EFE6DC"/>
+  <path d="M460 142 L740 142 L820 646 L380 646 Z" fill="#C8A57C"/>
+  <path d="M460 142 L564 142 L600 306 L486 414 Z" fill="#D6B994"/>
+  <path d="M740 142 L636 142 L600 306 L714 414 Z" fill="#D6B994"/>
+  <path d="M564 142 L600 306 L636 142 L600 202 Z" fill="#FFF7EC" opacity="0.82"/>
+  <rect x="452" y="424" width="296" height="34" rx="17" fill="#9F7C57" opacity="0.78"/>
+  <path d="M452 442 C392 474 368 512 392 546 C430 520 470 494 524 458" fill="none" stroke="#9F7C57" stroke-width="13" stroke-linecap="round" opacity="0.72"/>
+  <path d="M748 442 C808 474 832 512 808 546 C770 520 730 494 676 458" fill="none" stroke="#9F7C57" stroke-width="13" stroke-linecap="round" opacity="0.72"/>
+  <path d="M600 306 L600 646" stroke="#8B6848" stroke-width="5" opacity="0.36"/>
+  <g fill="#8B6848" opacity="0.75">
+    <circle cx="566" cy="348" r="10"/>
+    <circle cx="634" cy="348" r="10"/>
+    <circle cx="566" cy="394" r="10"/>
+    <circle cx="634" cy="394" r="10"/>
+  </g>
+  <path d="M460 142 C498 122 538 112 600 112 C662 112 702 122 740 142" fill="none" stroke="#A98560" stroke-width="5" opacity="0.65"/>
+  <circle cx="273" cy="383" r="70" fill="#D8C1A5" opacity="0.88"/>
+  <circle cx="927" cy="383" r="70" fill="#A98560" opacity="0.86"/>
+  <text x="600" y="704" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#3A2B25">Trenchcoat</text>
+</svg>
