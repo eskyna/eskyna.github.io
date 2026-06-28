@@ -13,8 +13,10 @@ const DEFAULT_CONFIG = {
     enabled: true,
     provider: "firebase-cloud-messaging",
     fcmVapidKey: "",
-    registerTokenEndpoint: "/api/fcm/register",
-    unregisterTokenEndpoint: "/api/fcm/unregister",
+    tokenStorage: "firestore",
+    fcmTokensCollection: "fcmTokens",
+    registerTokenEndpoint: "",
+    unregisterTokenEndpoint: "",
     topic: "patchnotes",
     attachIdTokenToRegisterRequest: true,
   },
@@ -88,6 +90,9 @@ const state = {
   latestRaw: null,
   deferredInstallPrompt: null,
   serviceWorkerRegistration: null,
+  waitingServiceWorker: null,
+  updateRefreshing: false,
+  updateBannerDismissed: false,
   returnRoute: CONFIG.auth?.redirectAfterLogin || "create",
   lastStartAt: 0,
   push: {
@@ -96,6 +101,8 @@ const state = {
     token: "",
     messaging: null,
     messagingModule: null,
+    firestore: null,
+    firestoreModule: null,
     foregroundListenerReady: false,
     error: "",
   },
@@ -126,6 +133,7 @@ const els = {
   installButton: $("#installButton"),
   installButtons: $$('[data-action="install-app"]'),
   toast: $("#toast"),
+  updateBanner: $("#updateBanner"),
   avatarImages: $$(".avatar-button img"),
   cameraVideo: $("#cameraVideo"),
   cameraCard: $("#cameraCard"),
@@ -264,6 +272,12 @@ function bindEvents() {
         break;
       case "enable-push":
         await enablePushNotifications(actionButton);
+        break;
+      case "apply-update":
+        applyAppUpdate();
+        break;
+      case "dismiss-update":
+        dismissAppUpdate();
         break;
       default:
         break;
@@ -1720,10 +1734,20 @@ function registerServiceWorker() {
     return;
   }
   if (!["http:", "https:"].includes(location.protocol)) return;
+
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (state.updateRefreshing) return;
+    state.updateRefreshing = true;
+    window.location.reload();
+  });
+
   window.addEventListener("load", () => {
-    getServiceWorkerRegistration().catch((error) =>
-      console.warn("Service Worker konnte nicht registriert werden:", error)
-    );
+    getServiceWorkerRegistration()
+      .then((registration) => {
+        watchServiceWorkerRegistration(registration);
+        registration.update?.().catch(() => undefined);
+      })
+      .catch((error) => console.warn("Service Worker konnte nicht registriert werden:", error));
   });
 }
 
@@ -1753,8 +1777,56 @@ async function getServiceWorkerRegistration() {
     existing ||
     (await navigator.serviceWorker.register(swScriptUrl.pathname, {
       scope: appScopeUrl.pathname,
+      updateViaCache: "none",
     }));
   return state.serviceWorkerRegistration;
+}
+
+function watchServiceWorkerRegistration(registration) {
+  if (!registration) return;
+
+  if (registration.waiting && navigator.serviceWorker.controller) {
+    showUpdateBanner(registration.waiting);
+  }
+
+  registration.addEventListener("updatefound", () => {
+    const installingWorker = registration.installing;
+    if (!installingWorker) return;
+
+    installingWorker.addEventListener("statechange", () => {
+      if (installingWorker.state === "installed" && navigator.serviceWorker.controller) {
+        showUpdateBanner(installingWorker);
+      }
+    });
+  });
+}
+
+function showUpdateBanner(worker) {
+  if (!worker || state.updateBannerDismissed) return;
+  state.waitingServiceWorker = worker;
+  if (els.updateBanner) els.updateBanner.hidden = false;
+}
+
+function dismissAppUpdate() {
+  state.updateBannerDismissed = true;
+  if (els.updateBanner) els.updateBanner.hidden = true;
+  showToast("Update wird beim nächsten Neustart der App geladen.");
+}
+
+function applyAppUpdate() {
+  const worker = state.waitingServiceWorker || state.serviceWorkerRegistration?.waiting;
+  if (!worker) {
+    window.location.reload();
+    return;
+  }
+
+  if (els.updateBanner) els.updateBanner.hidden = true;
+  showToast("EStyle wird aktualisiert...");
+  worker.postMessage({ type: "SKIP_WAITING" });
+
+  window.setTimeout(() => {
+    if (!state.updateRefreshing) window.location.reload();
+  }, 1800);
 }
 
 async function refreshPushState() {
@@ -1926,24 +1998,20 @@ async function setupForegroundMessaging() {
 }
 
 async function sendFcmTokenToServer(token) {
-  const endpoint = CONFIG.push?.registerTokenEndpoint;
-  if (!endpoint) return;
+  const storageMode =
+    CONFIG.push?.tokenStorage || (CONFIG.push?.registerTokenEndpoint ? "endpoint" : "firestore");
+  if (storageMode === "firestore") {
+    await saveFcmTokenToFirestore(token);
+    return;
+  }
 
-  const payload = {
-    token,
-    provider: "firebase-cloud-messaging",
-    topic: CONFIG.push.topic || "patchnotes",
-    user: state.auth.user
-      ? {
-          uid: state.auth.user.uid,
-          email: state.auth.user.email || "",
-          providerId: state.auth.user.providerId || "",
-        }
-      : null,
-    createdAt: new Date().toISOString(),
-    notificationPermission: Notification.permission,
-    userAgent: navigator.userAgent,
-  };
+  const endpoint = CONFIG.push?.registerTokenEndpoint;
+  if (!endpoint) {
+    await saveFcmTokenToFirestore(token);
+    return;
+  }
+
+  const payload = buildFcmTokenPayload(token);
   const headers = { "Content-Type": "application/json", Accept: "application/json" };
   if (CONFIG.push?.attachIdTokenToRegisterRequest !== false) {
     const authToken = await getCurrentIdToken();
@@ -1962,6 +2030,90 @@ async function sendFcmTokenToServer(token) {
       `FCM Token erstellt, aber Server-Speicherung fehlgeschlagen (${response.status}).`
     );
   }
+}
+
+function buildFcmTokenPayload(token) {
+  return {
+    token,
+    provider: "firebase-cloud-messaging",
+    topic: CONFIG.push.topic || "patchnotes",
+    uid: state.auth.user?.uid || "",
+    user: state.auth.user
+      ? {
+          uid: state.auth.user.uid,
+          email: state.auth.user.email || "",
+          displayName: state.auth.user.displayName || "",
+          providerId: state.auth.user.providerId || "",
+        }
+      : null,
+    createdAt: new Date().toISOString(),
+    updatedAt: new Date().toISOString(),
+    notificationPermission: Notification.permission,
+    userAgent: navigator.userAgent,
+    app: {
+      basePath: CONFIG.appBasePath || "/estyleapp/",
+      startUrl: CONFIG.pwaStartUrl || "/estyleapp/#welcome",
+    },
+  };
+}
+
+async function setupFirebaseFirestore() {
+  if (state.push.firestore && state.push.firestoreModule) {
+    return { firestore: state.push.firestore, firestoreModule: state.push.firestoreModule };
+  }
+
+  if (!state.auth.firebase?.app) {
+    if (state.auth.initPromise) await state.auth.initPromise;
+    if (!state.auth.firebase?.app) await setupFirebaseAuth();
+  }
+
+  const sdkVersion = CONFIG.auth?.firebaseSdkVersion || DEFAULT_CONFIG.auth.firebaseSdkVersion;
+  const baseUrl = `https://www.gstatic.com/firebasejs/${encodeURIComponent(sdkVersion)}`;
+  const firestoreModule = await import(`${baseUrl}/firebase-firestore.js`);
+  const firestore = firestoreModule.getFirestore(state.auth.firebase.app);
+
+  state.push.firestore = firestore;
+  state.push.firestoreModule = firestoreModule;
+  return { firestore, firestoreModule };
+}
+
+async function saveFcmTokenToFirestore(token) {
+  if (!state.auth.user?.uid) {
+    throw new Error("FCM Token erstellt, aber Speichern in Firestore erfordert einen Login.");
+  }
+
+  const { firestore, firestoreModule } = await setupFirebaseFirestore();
+  const collectionName = CONFIG.push?.fcmTokensCollection || "fcmTokens";
+  const tokenHash = await sha256Hex(token);
+  const documentId = `${state.auth.user.uid}_${tokenHash}`;
+  const payload = buildFcmTokenPayload(token);
+
+  await firestoreModule.setDoc(
+    firestoreModule.doc(firestore, collectionName, documentId),
+    {
+      ...payload,
+      tokenHash,
+      uid: state.auth.user.uid,
+      lastSeenAt: firestoreModule.serverTimestamp(),
+      updatedAt: firestoreModule.serverTimestamp(),
+    },
+    { merge: true }
+  );
+}
+
+async function removeFcmTokenFromFirestore(token) {
+  if (!state.auth.user?.uid || !token) return;
+  const { firestore, firestoreModule } = await setupFirebaseFirestore();
+  const collectionName = CONFIG.push?.fcmTokensCollection || "fcmTokens";
+  const tokenHash = await sha256Hex(token);
+  const documentId = `${state.auth.user.uid}_${tokenHash}`;
+  await firestoreModule.deleteDoc(firestoreModule.doc(firestore, collectionName, documentId));
+}
+
+async function sha256Hex(value) {
+  const data = new TextEncoder().encode(value);
+  const digest = await crypto.subtle.digest("SHA-256", data);
+  return [...new Uint8Array(digest)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
 }
 
 function updatePushUI(message = "") {
@@ -2010,6 +2162,10 @@ function fcmErrorMessage(error) {
     return "Firebase Cloud Messaging wird von diesem Browser nicht unterstützt.";
   if (code.includes("messaging/failed-service-worker-registration"))
     return "Der Service Worker konnte nicht für FCM registriert werden.";
+  if (code.includes("firestore/permission-denied") || code.includes("permission-denied"))
+    return "FCM Token erstellt, aber Firestore hat das Speichern blockiert. Bitte Firestore und die Security Rules prüfen.";
+  if (code.includes("firestore/unavailable") || code.includes("unavailable"))
+    return "FCM Token erstellt, aber Firestore ist gerade nicht erreichbar.";
   return error?.message || "Push konnte nicht aktiviert werden.";
 }
 

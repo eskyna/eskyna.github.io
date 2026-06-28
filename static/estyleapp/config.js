@@ -26,8 +26,12 @@
       // Er ist kein Secret und darf im Frontend stehen. Ohne diesen Key kann die App kein FCM Token erstellen.
       fcmVapidKey:
         "BHGkQCNERhQvQrVdDR7Vx2zJeolxpnGePy3vEj3j5FmTY0_GjHLZ8ibaupvVShX3OIA95yKDg6BNbWDnmUOJrH0",
-      registerTokenEndpoint: "/api/fcm/register",
-      unregisterTokenEndpoint: "/api/fcm/unregister",
+      // GitHub Pages kann keine /api/fcm/register POST-Endpunkte ausfuehren.
+      // Deshalb speichert die App FCM Tokens direkt in Cloud Firestore.
+      tokenStorage: "firestore",
+      fcmTokensCollection: "fcmTokens",
+      registerTokenEndpoint: "",
+      unregisterTokenEndpoint: "",
       topic: "patchnotes",
       attachIdTokenToRegisterRequest: true,
     },

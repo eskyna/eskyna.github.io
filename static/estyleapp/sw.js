@@ -1,4 +1,4 @@
-const CACHE_NAME = "eskyna-estyle-pwa-v10";
+const CACHE_NAME = "eskyna-estyle-pwa-v12";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -98,13 +98,14 @@ try {
   );
 }
 
+self.addEventListener("message", (event) => {
+  if (event.data?.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
+
 self.addEventListener("install", (event) => {
-  event.waitUntil(
-    caches
-      .open(CACHE_NAME)
-      .then((cache) => cache.addAll(CORE_ASSETS))
-      .then(() => self.skipWaiting())
-  );
+  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(CORE_ASSETS)));
 });
 
 self.addEventListener("activate", (event) => {

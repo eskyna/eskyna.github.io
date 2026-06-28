@@ -23,7 +23,7 @@ Mobile-first PWA fuer die ESKYNA/EStyle Color-ID Fotoanalyse. Das Design orienti
 4. In Firebase Authentication nur den Provider `Google` aktivieren. `Email/Password` deaktiviert lassen. Die PWA enthaelt keine E-Mail-Registrierung, kein Passwortfeld und keinen `createUserWithEmailAndPassword`-Flow.
 5. In Firebase unter den autorisierten Domains `eskyna.com` hinterlegen. Falls lokal getestet wird, auch `localhost` erlauben.
 6. Die App muss ueber HTTPS laufen, sonst verweigern Browser Kamera, PWA-Installation und Push.
-7. Nach Aenderungen an gecachten Dateien ggf. in `sw.js` `CACHE_NAME` erhoehen, damit bestehende Installationen die neue Version laden. In dieser Version steht der Cache auf `eskyna-estyle-pwa-v10`.
+7. Nach Aenderungen an gecachten Dateien ggf. in `sw.js` `CACHE_NAME` erhoehen, damit bestehende Installationen die neue Version laden. In dieser Version steht der Cache auf `eskyna-estyle-pwa-v12`.
 8. Wichtig fuer die Installation: `manifest.webmanifest` ist fest auf `id`, `start_url` und `scope` unter `/estyleapp/` eingestellt. Dadurch wird beim Installieren `https://eskyna.com/estyleapp/` statt `https://eskyna.com/` als PWA verwendet.
 
 Wenn die PWA spaeter in einen anderen Ordner umzieht, muessen `appBasePath` in `config.js`, `id`, `start_url`, `scope` im Manifest sowie die Service-Worker-Registrierung angepasst werden.
@@ -48,8 +48,10 @@ window.ESKYNA_CONFIG = {
     enabled: true,
     provider: "firebase-cloud-messaging",
     fcmVapidKey: "",
-    registerTokenEndpoint: "/api/fcm/register",
-    unregisterTokenEndpoint: "/api/fcm/unregister",
+    tokenStorage: "firestore",
+    fcmTokensCollection: "fcmTokens",
+    registerTokenEndpoint: "",
+    unregisterTokenEndpoint: "",
     topic: "patchnotes",
     attachIdTokenToRegisterRequest: true,
   },
@@ -119,8 +121,8 @@ Clientseitig umgesetzt:
 - Firebase Messaging SDK
 - `getToken()` mit dem Service Worker `sw.js`
 - Speicherung des FCM Tokens in `localStorage`
-- Uebertragung des Tokens an `push.registerTokenEndpoint`
-- optionaler `Authorization: Bearer <firebase-id-token>` Header fuer den Register-Endpunkt
+- Speicherung des FCM Tokens direkt in Cloud Firestore, weil GitHub Pages keine `/api/...`-POST-Endpunkte ausfuehren kann
+- Sammlung: `fcmTokens`
 - Empfang von Vordergrund-Nachrichten per `onMessage()`
 - Empfang von Hintergrund-Nachrichten per Service Worker und `onBackgroundMessage()`
 - Klick auf Pushnachricht oeffnet die konfigurierte URL wieder in der PWA
@@ -138,37 +140,53 @@ push: {
 }
 ```
 
-5. Backend-Endpunkt `/api/fcm/register` bereitstellen, um Tokens zu speichern.
+5. Cloud Firestore aktivieren, weil GitHub Pages keine serverseitigen `POST /api/...`-Routen ausfuehren kann. Die App speichert FCM Tokens deshalb direkt in Firestore.
 
-### Register-Endpunkt
+### Firestore fuer FCM Tokens aktivieren
 
-Die PWA sendet an `/api/fcm/register`:
+1. Firebase Console > Firestore Database > Create database.
+2. Region auswaehlen und starten.
+3. Security Rules setzen, z. B.:
 
-```json
-{
-  "token": "FCM_REGISTRATION_TOKEN",
-  "provider": "firebase-cloud-messaging",
-  "topic": "patchnotes",
-  "user": {
-    "uid": "firebase-user-id",
-    "email": "kundin@example.com",
-    "providerId": "google.com"
-  },
-  "createdAt": "2026-...",
-  "notificationPermission": "granted",
-  "userAgent": "..."
+```txt
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /fcmTokens/{tokenId} {
+      allow create, update: if request.auth != null
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.provider == 'firebase-cloud-messaging'
+        && request.resource.data.token is string;
+
+      allow delete: if request.auth != null
+        && resource.data.uid == request.auth.uid;
+
+      allow read: if false;
+    }
+  }
 }
 ```
 
-Im Ordner `server-examples/` liegt ein Beispiel fuer einen Cloudflare Worker, der Tokens in KV speichert, sowie ein Node-Beispiel fuer den Versand mit Firebase Admin SDK. Produktionsseitig sollte der Register-Endpunkt den Firebase ID Token pruefen und Tokens userbezogen speichern.
+Nach Klick auf `Patchnotes aktivieren` sollte in Firestore eine Sammlung `fcmTokens` mit Dokumenten erscheinen. Jedes Dokument enthaelt Token, User-ID, Topic, User-Agent und Zeitstempel.
+
+Die relevanten Einstellungen in `config.js` sind:
+
+```js
+push: {
+  tokenStorage: "firestore",
+  fcmTokensCollection: "fcmTokens",
+  registerTokenEndpoint: "",
+  unregisterTokenEndpoint: ""
+}
+```
 
 ### Patchnotes senden
 
 Optionen:
 
 - Firebase Console > Messaging: Testnachricht an ein einzelnes FCM Token senden.
-- Eigenes Backend mit Firebase Admin SDK: gespeicherte Tokens laden und mit `sendEachForMulticast()` anschreiben.
-- Spaeter optional: Topics/Segmente serverseitig verwalten, wenn ihr Patchnotes nicht an alle schicken wollt.
+- GitHub Actions: Manuelles Workflow-Dispatch-Script liest `fcmTokens` aus Firestore und sendet ueber Firebase Admin SDK. Beispiel liegt in `server-examples/`.
+- Cloudflare Worker: Alternative, falls spaeter ein eigener API-Endpunkt gewuenscht ist.
 
 Server-/Private Keys gehoeren nicht ins Repo:
 
@@ -269,3 +287,13 @@ Dieser Fehler bedeutet in der Regel, dass Firebase Authentication im Projekt noc
 - `Push wurde blockiert`: Browser-/Website-Einstellungen oeffnen und Benachrichtigungen fuer `eskyna.com` erlauben.
 - `Server-Speicherung fehlgeschlagen`: `/api/fcm/register` ist noch nicht bereitgestellt oder gibt keinen 2xx-Status zurueck.
 - Keine Hintergrundnachricht: Service Worker muss aktualisiert sein. Auf dem Handy die PWA komplett schliessen und neu oeffnen.
+
+## Update-Hinweis für installierte PWAs
+
+Diese Version enthält einen eingebauten Update-Hinweis. Wenn nach einem Deployment ein neuer Service Worker erkannt wird, zeigt die App ein Banner:
+
+- **Neue EStyle Version verfügbar**
+- Button **Jetzt aktualisieren** aktiviert den neuen Service Worker per `SKIP_WAITING` und lädt die App neu.
+- Button **Später** versteckt den Hinweis; die neue Version wird dann beim nächsten kompletten Neustart der App aktiv.
+
+Für jedes Release bitte den Cache-Namen in `sw.js` erhöhen, z. B. `eskyna-estyle-pwa-v12` → `eskyna-estyle-pwa-v13`.

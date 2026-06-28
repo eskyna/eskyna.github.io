@@ -1,0 +1,64 @@
+name: EStyle Patchnotes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - static/estyleapp/**
+  workflow_dispatch:
+    inputs:
+      title:
+        description: Push title (optional)
+        required: false
+        default: ""
+      body:
+        description: Push message (optional)
+        required: false
+        default: ""
+      url:
+        description: URL to open (optional)
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+concurrency:
+  group: estyleapp-patchnotes
+  cancel-in-progress: true
+
+jobs:
+  send:
+    name: Send Patchnote Push
+    runs-on: ubuntu-latest
+    env:
+      FIREBASE_PROJECT_ID: eskyna-style
+      FIREBASE_SERVICE_ACCOUNT_BASE64: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_BASE64 }}
+      PATCH_TITLE: ${{ github.event.inputs.title || 'EStyle Update' }}
+      PATCH_BODY: ${{ github.event.inputs.body || 'Neue Verbesserungen in Ihrer EStyle App sind verfuegbar.' }}
+      PATCH_URL: ${{ github.event.inputs.url || 'https://eskyna.com/estyleapp/#welcome' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Check required secret
+        run: |
+          if [ -z "${FIREBASE_SERVICE_ACCOUNT_BASE64}" ]; then
+            echo "FIREBASE_SERVICE_ACCOUNT_BASE64 ist nicht gesetzt."
+            echo "Der Versand wird uebersprungen."
+          fi
+
+      - name: Setup Node.js
+        if: env.FIREBASE_SERVICE_ACCOUNT_BASE64 != ''
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install firebase-admin
+        if: env.FIREBASE_SERVICE_ACCOUNT_BASE64 != ''
+        run: npm install --no-save firebase-admin
+
+      - name: Send push via Firestore tokens
+        if: env.FIREBASE_SERVICE_ACCOUNT_BASE64 != ''
+        run: node static/estyleapp/server-examples/send-patchnote-firestore.mjs

@@ -27,12 +27,12 @@ const message = {
     body: "Neue Verbesserungen in deiner EStyle Analyse sind verfuegbar.",
   },
   data: {
-    url: "https://eskyna.com/#welcome",
+    url: "https://eskyna.com/estyleapp/#welcome",
     tag: `patchnotes-${new Date().toISOString().slice(0, 10)}`,
   },
   webpush: {
     fcmOptions: {
-      link: "https://eskyna.com/#welcome",
+      link: "https://eskyna.com/estyleapp/#welcome",
     },
   },
 };

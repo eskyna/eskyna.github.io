@@ -1182,6 +1182,55 @@ noscript {
   text-align: left;
   background: rgba(246, 242, 238, 0.76);
 }
+
+.update-banner {
+  position: absolute;
+  z-index: 48;
+  left: 18px;
+  right: 18px;
+  bottom: calc(76px + env(safe-area-inset-bottom));
+  display: grid;
+  gap: 12px;
+  padding: 15px;
+  border: 1px solid rgba(190, 142, 63, 0.35);
+  border-radius: 22px;
+  background: rgba(255, 252, 247, 0.96);
+  box-shadow: 0 18px 42px rgba(42, 22, 16, 0.22);
+  backdrop-filter: blur(14px);
+}
+.update-banner[hidden] {
+  display: none;
+}
+.update-copy strong {
+  display: block;
+  color: var(--eskyna-brown);
+  font-size: 0.98rem;
+}
+.update-copy p {
+  margin: 4px 0 0;
+  color: var(--eskyna-muted);
+  font-size: 0.84rem;
+  line-height: 1.35;
+}
+.update-actions {
+  display: grid;
+  grid-template-columns: 1fr 0.62fr;
+  gap: 8px;
+}
+.btn-small {
+  min-height: 42px;
+  padding: 0 14px;
+  font-size: 0.86rem;
+}
+@media (min-width: 460px) {
+  .update-banner {
+    left: 50%;
+    right: auto;
+    width: min(410px, calc(100% - 36px));
+    transform: translateX(-50%);
+  }
+}
+
 .toast {
   position: absolute;
   z-index: 50;
