@@ -11,7 +11,9 @@
  * GitHub Actions:
  *   Service-Account JSON als Base64 in FIREBASE_SERVICE_ACCOUNT_BASE64 speichern.
  */
-import admin from "firebase-admin";
+import { applicationDefault, cert, initializeApp } from "firebase-admin/app";
+import { getFirestore } from "firebase-admin/firestore";
+import { getMessaging } from "firebase-admin/messaging";
 
 const projectId = process.env.FIREBASE_PROJECT_ID || "eskyna-style";
 const collectionName = process.env.FCM_TOKENS_COLLECTION || "fcmTokens";
@@ -19,9 +21,9 @@ const title = process.env.PATCH_TITLE || "EStyle Update";
 const body = process.env.PATCH_BODY || "Neue Verbesserungen in deiner EStyle App sind verfuegbar.";
 const link = process.env.PATCH_URL || "https://eskyna.com/estyleapp/#welcome";
 
-initializeFirebaseAdmin(projectId);
-
-const db = admin.firestore();
+const app = initializeFirebaseAdmin(projectId);
+const db = getFirestore(app);
+const messaging = getMessaging(app);
 const snapshot = await db.collection(collectionName).get();
 const docs = snapshot.docs
   .map((doc) => ({ id: doc.id, ...doc.data() }))
@@ -37,7 +39,7 @@ let failureCount = 0;
 const staleDocumentIds = [];
 
 for (const batch of chunk(docs, 500)) {
-  const response = await admin.messaging().sendEachForMulticast({
+  const response = await messaging.sendEachForMulticast({
     tokens: batch.map((entry) => entry.token),
     notification: { title, body },
     data: {
@@ -82,15 +84,14 @@ function initializeFirebaseAdmin(projectId) {
     const json = Buffer.from(process.env.FIREBASE_SERVICE_ACCOUNT_BASE64, "base64").toString(
       "utf8"
     );
-    admin.initializeApp({
-      credential: admin.credential.cert(JSON.parse(json)),
+    return initializeApp({
+      credential: cert(JSON.parse(json)),
       projectId,
     });
-    return;
   }
 
-  admin.initializeApp({
-    credential: admin.credential.applicationDefault(),
+  return initializeApp({
+    credential: applicationDefault(),
     projectId,
   });
 }
