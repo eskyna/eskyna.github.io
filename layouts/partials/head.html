@@ -298,14 +298,14 @@
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 {{ end }}
 
+{{ range .AllTranslations -}}
+  {{ $hrefLang := .Language.Lang }}
+  {{ if eq $hrefLang "rus" }}
+    {{ $hrefLang = "ru" }}
+  {{ end }}
+  <link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}" />
+{{ end -}}
 {{ if .IsHome }}
-  {{ range .AllTranslations -}}
-    {{ $hrefLang := .Language.Lang }}
-    {{ if eq $hrefLang "rus" }}
-      {{ $hrefLang = "ru" }}
-    {{ end }}
-    <link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}" />
-  {{ end -}}
   <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
 {{ end -}}
 
