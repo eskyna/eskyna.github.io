@@ -132,10 +132,7 @@ self.addEventListener("fetch", (event) => {
   }
 
   // config.js should always prefer the latest network version to avoid stale runtime settings.
-  if (
-    url.origin === self.location.origin &&
-    url.pathname.endsWith("/config.js")
-  ) {
+  if (url.origin === self.location.origin && url.pathname.endsWith("/config.js")) {
     event.respondWith(
       fetch(request)
         .then((response) => {
