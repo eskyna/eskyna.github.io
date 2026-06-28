@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Клатч: вечерняя сумка"
     url: "/ru/glossar/glanzgrad/"
 ---
-

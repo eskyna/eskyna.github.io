@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Деним: прочная ткань"
     url: "/ru/glossar/jeansjacke/"
 ---
-

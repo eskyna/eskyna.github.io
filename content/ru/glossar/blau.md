@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Синий цвет в режиме"
     url: "/ru/glossar/petrol/"
 ---
-

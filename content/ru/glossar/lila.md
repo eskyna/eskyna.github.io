@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Fuchsia"
     url: "/ru/glossar/fuchsia/"
 ---
-

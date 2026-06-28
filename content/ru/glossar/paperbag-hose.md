@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Bluse"
     url: "/ru/glossar/bluse/"
 ---
-

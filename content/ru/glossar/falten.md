@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Складки в дизайне"
     url: "/ru/glossar/accessoire/"
 ---
-

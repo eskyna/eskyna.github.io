@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Коктейльный стиль"
     url: "/ru/glossar/fehlkauf/"
 ---
-

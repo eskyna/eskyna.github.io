@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Rocklänge"
     url: "/ru/glossar/rocklange/"
 ---
-

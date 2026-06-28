@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Как одеться на собеседование"
     url: "/ru/glossar/fehlkauf/"
 ---
-

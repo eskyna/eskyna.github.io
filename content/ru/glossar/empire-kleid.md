@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Платье в стиле Ампир"
     url: "/ru/glossar/fehlkauf/"
 ---
-

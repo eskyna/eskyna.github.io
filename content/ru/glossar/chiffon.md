@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Шифон: лёгкая ткань"
     url: "/ru/glossar/accessoire/"
 ---
-

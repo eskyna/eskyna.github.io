@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Terracotta"
     url: "/ru/glossar/terracotta/"
 ---
-

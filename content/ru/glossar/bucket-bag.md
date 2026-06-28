@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Сумка-ведро в аксессуарах"
     url: "/ru/glossar/materialfall/"
 ---
-

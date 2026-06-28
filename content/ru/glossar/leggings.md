@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Sneaker"
     url: "/ru/glossar/sneaker/"
 ---
-

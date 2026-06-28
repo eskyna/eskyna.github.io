@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Цвет в образе"
     url: "/ru/glossar/akzentfarbe/"
 ---
-

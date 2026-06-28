@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Fehlkauf"
     url: "/ru/glossar/fehlkauf/"
 ---
-

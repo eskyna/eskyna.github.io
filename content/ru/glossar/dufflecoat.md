@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Дуффельное пальто: классическое пальто"
     url: "/ru/glossar/fehlkauf/"
 ---
-

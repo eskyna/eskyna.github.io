@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Senfgelb"
     url: "/ru/glossar/senfgelb/"
 ---
-

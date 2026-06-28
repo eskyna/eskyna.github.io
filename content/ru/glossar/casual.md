@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Casual-стиль: расслабленный и удобный"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

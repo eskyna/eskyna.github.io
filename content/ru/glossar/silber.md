@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Glanzgrad"
     url: "/ru/glossar/glanzgrad/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Proportion"
     url: "/ru/glossar/proportion/"
 ---
-

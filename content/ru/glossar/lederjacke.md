@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Boots"
     url: "/ru/glossar/chelsea-boots/"
 ---
-

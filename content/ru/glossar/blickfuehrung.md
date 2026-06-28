@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Направление взгляда в стайлинге"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

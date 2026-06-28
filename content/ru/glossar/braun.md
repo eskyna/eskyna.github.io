@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Коричневый цвет в гардеробе"
     url: "/ru/glossar/terracotta/"
 ---
-

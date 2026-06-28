@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Layering"
     url: "/ru/glossar/layering/"
 ---
-

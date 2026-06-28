@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Карго-брюки с карманами"
     url: "/ru/glossar/sneaker/"
 ---
-

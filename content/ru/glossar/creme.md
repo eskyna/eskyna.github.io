@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Кремовый цвет"
     url: "/ru/glossar/rosegold/"
 ---
-

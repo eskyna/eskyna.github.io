@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Военные ботинки"
     url: "/ru/glossar/lederjacke/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Farbpalette"
     url: "/ru/glossar/farbpalette/"
 ---
-

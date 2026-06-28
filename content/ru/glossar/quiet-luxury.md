@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Navy"
     url: "/ru/glossar/navy/"
 ---
-

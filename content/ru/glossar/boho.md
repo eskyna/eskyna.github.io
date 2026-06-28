@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Бохо-стиль: свободный и творческий"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

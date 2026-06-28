@@ -25,4 +25,3 @@ relatedTerms:
   - title: "Капсульный гардероб: основа стиля"
     url: "/ru/glossar/neutrale-farben/"
 ---
-

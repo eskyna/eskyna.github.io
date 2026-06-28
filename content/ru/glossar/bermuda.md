@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Бермуды в летнем гардеробе"
     url: "/ru/glossar/loafer/"
 ---
-

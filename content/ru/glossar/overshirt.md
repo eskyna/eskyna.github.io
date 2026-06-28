@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Jeans"
     url: "/ru/glossar/jeans/"
 ---
-

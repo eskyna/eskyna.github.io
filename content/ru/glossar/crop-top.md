@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Кроп-топ: укороченный верх"
     url: "/ru/glossar/accessoire/"
 ---
-

@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Блокировка цвета: комбинация контрастов"
     url: "/ru/glossar/accessoire/"
 ---
-

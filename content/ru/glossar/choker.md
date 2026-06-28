@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Чокер: тесное ожерелье"
     url: "/ru/glossar/gesichtsrahmung/"
 ---
-

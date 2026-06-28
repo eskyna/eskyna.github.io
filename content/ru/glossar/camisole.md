@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Камисоль: нежная блузка"
     url: "/ru/glossar/accessoire/"
 ---
-

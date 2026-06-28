@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Бейсболка в аксессуарах"
     url: "/ru/glossar/smart-casual/"
 ---
-

@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Брюки со складками в посадке"
     url: "/ru/glossar/t-shirt/"
 ---
-

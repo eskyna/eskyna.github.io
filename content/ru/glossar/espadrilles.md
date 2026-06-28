@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Эспадрильи: летняя обувь"
     url: "/ru/glossar/kleid/"
 ---
-

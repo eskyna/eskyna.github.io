@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Halstuch"
     url: "/ru/glossar/halstuch/"
 ---
-

@@ -32,4 +32,3 @@ relatedTerms:
   - title: "Silber"
     url: "/ru/glossar/silber/"
 ---
-

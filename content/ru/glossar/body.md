@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Боди в гардеробе"
     url: "/ru/glossar/accessoire/"
 ---
-

@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Pink"
     url: "/ru/glossar/pink/"
 ---
-

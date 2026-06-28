@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Сиреневый цвет"
     url: "/ru/glossar/helligkeit/"
 ---
-

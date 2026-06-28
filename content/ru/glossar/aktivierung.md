@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Активизация цвета в консультации"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

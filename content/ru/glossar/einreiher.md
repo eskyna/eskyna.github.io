@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Однобортный пиджак"
     url: "/ru/glossar/fehlkauf/"
 ---
-

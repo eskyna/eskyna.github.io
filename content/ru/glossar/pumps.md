@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Loafer"
     url: "/ru/glossar/loafer/"
 ---
-

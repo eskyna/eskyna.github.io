@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Sättigung"
     url: "/ru/glossar/saettigung/"
 ---
-

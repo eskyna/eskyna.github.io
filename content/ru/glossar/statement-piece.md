@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Signature Look"
     url: "/ru/glossar/signature-look/"
 ---
-

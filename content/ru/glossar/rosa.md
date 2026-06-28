@@ -30,4 +30,3 @@ relatedTerms:
   - title: "Roségold"
     url: "/ru/glossar/rosegold/"
 ---
-

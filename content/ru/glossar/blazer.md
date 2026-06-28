@@ -24,4 +24,3 @@ relatedTerms:
   - title: "Блейзер: основа делового стиля"
     url: "/ru/glossar/weste/"
 ---
-

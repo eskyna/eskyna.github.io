@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Neutrale Farben"
     url: "/ru/glossar/neutrale-farben/"
 ---
-

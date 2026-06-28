@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Qualität"
     url: "/ru/glossar/qualitaet/"
 ---
-

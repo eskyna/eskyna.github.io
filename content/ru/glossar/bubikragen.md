@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Воротник-пузырь: объёмная деталь"
     url: "/ru/glossar/accessoire/"
 ---
-

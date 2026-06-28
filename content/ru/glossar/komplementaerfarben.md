@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Akzentfarbe"
     url: "/ru/glossar/akzentfarbe/"
 ---
-

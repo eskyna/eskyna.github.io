@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Straight Leg"
     url: "/ru/glossar/straight-leg/"
 ---
-

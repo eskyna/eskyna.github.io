@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Рукав летучая мышь"
     url: "/ru/glossar/taillierung/"
 ---
-

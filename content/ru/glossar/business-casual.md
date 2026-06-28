@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Business Casual: баланс формальности"
     url: "/ru/glossar/pumps/"
 ---
-

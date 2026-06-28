@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Образ для особого события"
     url: "/ru/glossar/fehlkauf/"
 ---
-

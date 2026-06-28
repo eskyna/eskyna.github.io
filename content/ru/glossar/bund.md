@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Пояс: важная деталь посадки"
     url: "/ru/glossar/taillierung/"
 ---
-

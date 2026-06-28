@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Farbtemperatur"
     url: "/ru/glossar/farbtemperatur/"
 ---
-

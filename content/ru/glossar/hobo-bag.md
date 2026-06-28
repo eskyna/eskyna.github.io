@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Smart Casual"
     url: "/ru/glossar/smart-casual/"
 ---
-

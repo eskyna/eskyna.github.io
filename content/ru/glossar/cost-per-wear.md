@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Стоимость за носку: расчёт инвестиции"
     url: "/ru/glossar/fehlkauf/"
 ---
-

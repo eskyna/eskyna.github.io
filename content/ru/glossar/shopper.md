@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Anlassgarderobe"
     url: "/ru/glossar/anlassgarderobe/"
 ---
-

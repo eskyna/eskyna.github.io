@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Chinos"
     url: "/ru/glossar/chinos/"
 ---
-

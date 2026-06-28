@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Батик: искусство расписания ткани"
     url: "/ru/glossar/accessoire/"
 ---
-

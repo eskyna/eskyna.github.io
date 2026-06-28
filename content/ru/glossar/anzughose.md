@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Брюки костюма в посадке"
     url: "/ru/glossar/loafer/"
 ---
-

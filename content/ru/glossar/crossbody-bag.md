@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Сумка через плечо"
     url: "/ru/glossar/proportion/"
 ---
-

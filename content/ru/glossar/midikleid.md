@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Stiefelette"
     url: "/ru/glossar/stiefelette/"
 ---
-

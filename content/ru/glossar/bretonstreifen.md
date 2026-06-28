@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Бретонская полоска: классический узор"
     url: "/ru/glossar/accessoire/"
 ---
-

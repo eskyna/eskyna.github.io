@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Slip Dress"
     url: "/ru/glossar/slip-dress/"
 ---
-

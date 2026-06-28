@@ -24,4 +24,3 @@ relatedTerms:
   - title: "Jeansjacke"
     url: "/ru/glossar/jeansjacke/"
 ---
-

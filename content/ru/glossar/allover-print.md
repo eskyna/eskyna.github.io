@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Принт по всей поверхности"
     url: "/ru/glossar/accessoire/"
 ---
-

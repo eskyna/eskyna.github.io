@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Излучение и аура в стайлинге"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

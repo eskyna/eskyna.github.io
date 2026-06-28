@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Rosa"
     url: "/ru/glossar/rosa/"
 ---
-

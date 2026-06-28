@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Baumwolle"
     url: "/ru/glossar/baumwolle/"
 ---
-

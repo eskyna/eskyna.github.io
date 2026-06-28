@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Температура цвета"
     url: "/ru/glossar/farbpalette/"
 ---
-

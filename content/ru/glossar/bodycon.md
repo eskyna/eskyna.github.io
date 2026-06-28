@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Облегающий силуэт в посадке"
     url: "/ru/glossar/taillierung/"
 ---
-

@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Джинсы Boyfriend: удобный стиль"
     url: "/ru/glossar/slingback/"
 ---
-

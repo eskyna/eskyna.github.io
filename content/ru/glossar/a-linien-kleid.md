@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Платье A-силуэта в стайлинге"
     url: "/ru/glossar/fehlkauf/"
 ---
-

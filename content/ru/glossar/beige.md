@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Бежевый цвет в гардеробе"
     url: "/ru/glossar/grau/"
 ---
-

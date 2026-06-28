@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Эссенциальные вещи"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

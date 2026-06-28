@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Taillierung"
     url: "/ru/glossar/taillierung/"
 ---
-

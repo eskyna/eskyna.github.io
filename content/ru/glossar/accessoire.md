@@ -37,4 +37,3 @@ relatedTerms:
   - title: "Аксессуары в стайлинге"
     url: "/ru/glossar/silber/"
 ---
-

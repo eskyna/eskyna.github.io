@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Образ для формального ужина"
     url: "/ru/glossar/fehlkauf/"
 ---
-

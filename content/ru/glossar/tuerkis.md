@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Unterton"
     url: "/ru/glossar/unterton/"
 ---
-

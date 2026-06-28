@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Beige"
     url: "/ru/glossar/beige/"
 ---
-

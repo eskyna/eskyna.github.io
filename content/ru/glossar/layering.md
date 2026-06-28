@@ -25,4 +25,3 @@ relatedTerms:
   - title: "Weste"
     url: "/ru/glossar/weste/"
 ---
-

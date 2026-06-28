@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Midirock"
     url: "/ru/glossar/midirock/"
 ---
-

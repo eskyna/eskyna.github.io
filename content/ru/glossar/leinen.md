@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Trenchcoat"
     url: "/ru/glossar/trenchcoat/"
 ---
-

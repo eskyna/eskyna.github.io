@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Морское пальто: классика стиля"
     url: "/ru/glossar/fehlkauf/"
 ---
-

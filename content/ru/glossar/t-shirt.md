@@ -25,4 +25,3 @@ relatedTerms:
   - title: "Tanktop"
     url: "/ru/glossar/tanktop/"
 ---
-

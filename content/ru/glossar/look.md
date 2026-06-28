@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Outfit-Formel"
     url: "/ru/glossar/outfit-formel/"
 ---
-

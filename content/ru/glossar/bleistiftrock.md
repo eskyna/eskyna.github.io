@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Юбка-карандаш в офисном стайле"
     url: "/ru/glossar/pumps/"
 ---
-

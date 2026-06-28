@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Saumlänge"
     url: "/ru/glossar/saumlange/"
 ---
-

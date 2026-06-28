@@ -25,4 +25,3 @@ relatedTerms:
   - title: "Monochrom"
     url: "/ru/glossar/monochrom/"
 ---
-

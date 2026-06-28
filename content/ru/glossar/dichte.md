@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Плотность ткани"
     url: "/ru/glossar/qualitaet/"
 ---
-

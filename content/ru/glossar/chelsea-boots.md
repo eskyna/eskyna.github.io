@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Челси ботинки"
     url: "/ru/glossar/business-casual/"
 ---
-

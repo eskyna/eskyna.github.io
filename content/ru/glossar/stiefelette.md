@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Kleid"
     url: "/ru/glossar/kleid/"
 ---
-

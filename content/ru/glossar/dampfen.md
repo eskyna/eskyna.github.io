@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Отпаривание: деликатный уход"
     url: "/ru/glossar/qualitaet/"
 ---
-

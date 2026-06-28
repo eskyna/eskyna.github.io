@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Ballerina"
     url: "/ru/glossar/ballerina/"
 ---
-

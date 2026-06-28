@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Образ для романтического свидания"
     url: "/ru/glossar/fehlkauf/"
 ---
-

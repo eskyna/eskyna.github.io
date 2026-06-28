@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Бочкообразные брюки в моде"
     url: "/ru/glossar/basic/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Косуха в стайлинге"
     url: "/ru/glossar/fehlkauf/"
 ---
-

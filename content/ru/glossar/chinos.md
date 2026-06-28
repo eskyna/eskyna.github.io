@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Чинос: повседневные брюки"
     url: "/ru/glossar/loafer/"
 ---
-

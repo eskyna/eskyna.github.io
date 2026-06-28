@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Пиджак в стайлинге"
     url: "/ru/glossar/fehlkauf/"
 ---
-

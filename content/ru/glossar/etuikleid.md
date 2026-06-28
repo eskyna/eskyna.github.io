@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Узкое коктейльное платье"
     url: "/ru/glossar/pumps/"
 ---
-

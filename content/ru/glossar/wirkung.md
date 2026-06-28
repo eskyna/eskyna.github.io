@@ -17,4 +17,3 @@ relatedTerms:
   - title: "Garderobenlogik"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

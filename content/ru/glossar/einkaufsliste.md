@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Список покупок гардероба"
     url: "/ru/glossar/fehlkauf/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Business Formal: строгий дресс-код"
     url: "/ru/glossar/fehlkauf/"
 ---
-

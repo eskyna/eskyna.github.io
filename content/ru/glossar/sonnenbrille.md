@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Quiet Luxury"
     url: "/ru/glossar/quiet-luxury/"
 ---
-

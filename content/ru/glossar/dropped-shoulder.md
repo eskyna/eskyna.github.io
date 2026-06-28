@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Спущенное плечо в посадке"
     url: "/ru/glossar/taillierung/"
 ---
-

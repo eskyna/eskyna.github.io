@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Дресс-код: правила одежды"
     url: "/ru/glossar/signature-look/"
 ---
-

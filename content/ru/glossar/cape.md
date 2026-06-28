@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Накидка: драпирующийся верх"
     url: "/ru/glossar/fehlkauf/"
 ---
-

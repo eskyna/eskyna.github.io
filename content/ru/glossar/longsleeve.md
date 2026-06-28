@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Cardigan"
     url: "/ru/glossar/cardigan/"
 ---
-

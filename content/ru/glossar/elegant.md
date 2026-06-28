@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Элегантный стиль"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

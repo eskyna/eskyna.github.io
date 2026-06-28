@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Business-стиль на работе"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Пуховик: теплая куртка"
     url: "/ru/glossar/fehlkauf/"
 ---
-

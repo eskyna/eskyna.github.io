@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Ткань букле: текстурированный материал"
     url: "/ru/glossar/accessoire/"
 ---
-

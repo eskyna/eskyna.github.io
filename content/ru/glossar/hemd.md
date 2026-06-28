@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Overshirt"
     url: "/ru/glossar/overshirt/"
 ---
-

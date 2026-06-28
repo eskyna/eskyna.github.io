@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Аналогичные цвета в цветовой теории"
     url: "/ru/glossar/akzentfarbe/"
 ---
-

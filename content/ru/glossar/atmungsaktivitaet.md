@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Воздухопроницаемость ткани"
     url: "/ru/glossar/qualitaet/"
 ---
-

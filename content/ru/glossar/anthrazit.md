@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Антрацит в цветовом словаре"
     url: "/ru/glossar/kontrast/"
 ---
-

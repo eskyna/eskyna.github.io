@@ -28,4 +28,3 @@ relatedTerms:
   - title: "T-Shirt"
     url: "/ru/glossar/t-shirt/"
 ---
-

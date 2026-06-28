@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Облегающее платье в моде"
     url: "/ru/glossar/fehlkauf/"
 ---
-

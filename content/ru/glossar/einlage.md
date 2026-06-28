@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Подкладка в одежде"
     url: "/ru/glossar/qualitaet/"
 ---
-

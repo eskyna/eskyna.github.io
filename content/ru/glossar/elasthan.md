@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Эластан: растяжимая ткань"
     url: "/ru/glossar/accessoire/"
 ---
-

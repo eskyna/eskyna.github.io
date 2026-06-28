@@ -17,4 +17,3 @@ relatedTerms:
   - title: "Lederjacke"
     url: "/ru/glossar/lederjacke/"
 ---
-

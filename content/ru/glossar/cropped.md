@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Укороченный крой"
     url: "/ru/glossar/taillierung/"
 ---
-

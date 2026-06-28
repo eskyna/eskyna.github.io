@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Khaki"
     url: "/ru/glossar/khaki/"
 ---
-

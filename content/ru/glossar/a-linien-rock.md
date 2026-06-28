@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Юбка A-силуэта в модном стайлинге"
     url: "/ru/glossar/fehlkauf/"
 ---
-

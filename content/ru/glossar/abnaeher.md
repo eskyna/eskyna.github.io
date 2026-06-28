@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Вытачки в шитье и посадке"
     url: "/ru/glossar/taillierung/"
 ---
-

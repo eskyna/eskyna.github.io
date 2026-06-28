@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Квадратный каблук в обуви"
     url: "/ru/glossar/saumlange/"
 ---
-

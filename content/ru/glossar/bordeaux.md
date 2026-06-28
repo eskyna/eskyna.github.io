@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Бордовый цвет в гардеробе"
     url: "/ru/glossar/unterton/"
 ---
-

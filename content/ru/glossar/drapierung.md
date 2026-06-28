@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Драпировка в дизайне"
     url: "/ru/glossar/accessoire/"
 ---
-

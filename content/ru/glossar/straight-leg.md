@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Wide Leg"
     url: "/ru/glossar/wide-leg/"
 ---
-

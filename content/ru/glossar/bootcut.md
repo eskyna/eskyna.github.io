@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Брюки Bootcut в посадке"
     url: "/ru/glossar/saumlange/"
 ---
-

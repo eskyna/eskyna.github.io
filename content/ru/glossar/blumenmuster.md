@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Цветочный орнамент в текстиле"
     url: "/ru/glossar/accessoire/"
 ---
-

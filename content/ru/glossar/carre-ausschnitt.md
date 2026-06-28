@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Квадратный вырез в посадке"
     url: "/ru/glossar/accessoire/"
 ---
-

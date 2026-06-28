@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Направление нити в ткани"
     url: "/ru/glossar/qualitaet/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Баланс в пропорциях"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Oversized"
     url: "/ru/glossar/oversized/"
 ---
-

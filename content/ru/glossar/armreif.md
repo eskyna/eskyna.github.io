@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Браслет в аксессуарах"
     url: "/ru/glossar/accessoire/"
 ---
-

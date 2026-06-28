@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Ежедневный гардероб в стайлинге"
     url: "/ru/glossar/fehlkauf/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Key-Piece"
     url: "/ru/glossar/key-piece/"
 ---
-

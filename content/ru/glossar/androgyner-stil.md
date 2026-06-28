@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Андрогинный стиль в моде"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

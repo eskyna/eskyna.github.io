@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Круглые серьги-креолки"
     url: "/ru/glossar/gesichtsrahmung/"
 ---
-

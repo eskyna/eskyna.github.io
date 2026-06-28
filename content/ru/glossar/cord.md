@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Вельветовая ткань"
     url: "/ru/glossar/accessoire/"
 ---
-

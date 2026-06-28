@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Капри: брюки до колена"
     url: "/ru/glossar/proportion/"
 ---
-

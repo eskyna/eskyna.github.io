@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Химическая чистка"
     url: "/ru/glossar/qualitaet/"
 ---
-

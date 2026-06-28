@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Определение цветотипа"
     url: "/ru/glossar/farbpalette/"
 ---
-

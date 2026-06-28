@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Двубортный пиджак"
     url: "/ru/glossar/fehlkauf/"
 ---
-

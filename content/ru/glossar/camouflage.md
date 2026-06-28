@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Камуфляж: военный принт в моде"
     url: "/ru/glossar/accessoire/"
 ---
-

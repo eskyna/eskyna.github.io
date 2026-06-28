@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Базовые вещи в гардеробе"
     url: "/ru/glossar/fehlkauf/"
 ---
-

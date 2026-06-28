@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Дерзкий стиль"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

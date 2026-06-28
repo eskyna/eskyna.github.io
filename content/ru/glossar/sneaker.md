@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Business Casual"
     url: "/ru/glossar/business-casual/"
 ---
-

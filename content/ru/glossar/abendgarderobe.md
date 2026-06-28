@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Вечерний гардероб"
     url: "/ru/glossar/fehlkauf/"
 ---
-

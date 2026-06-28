@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Праздничная одежда"
     url: "/ru/glossar/fehlkauf/"
 ---
-

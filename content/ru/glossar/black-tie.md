@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Black Tie: самый формальный дресс-код"
     url: "/ru/glossar/fehlkauf/"
 ---
-

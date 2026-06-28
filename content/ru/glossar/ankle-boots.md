@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Ботинки по щиколотку в стайлинге"
     url: "/ru/glossar/fehlkauf/"
 ---
-

@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Sandale"
     url: "/ru/glossar/sandale/"
 ---
-

@@ -27,4 +27,3 @@ relatedTerms:
   - title: "Anthrazit"
     url: "/ru/glossar/anthrazit/"
 ---
-

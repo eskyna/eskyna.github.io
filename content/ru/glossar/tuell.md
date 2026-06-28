@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Accessoire"
     url: "/ru/glossar/accessoire/"
 ---
-

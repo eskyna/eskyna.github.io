@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Bordeaux"
     url: "/ru/glossar/bordeaux/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Очки как аксессуар стайла"
     url: "/ru/glossar/proportion/"
 ---
-

@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Животный принт в образе"
     url: "/ru/glossar/accessoire/"
 ---
-

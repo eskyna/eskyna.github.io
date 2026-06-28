@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Ваша цветовая палитра"
     url: "/ru/glossar/capsule-wardrobe/"
 ---
-

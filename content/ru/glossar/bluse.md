@@ -23,4 +23,3 @@ relatedTerms:
   - title: "Блуза: универсальный предмет"
     url: "/ru/glossar/camisole/"
 ---
-

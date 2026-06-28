@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Statement-Piece"
     url: "/ru/glossar/statement-piece/"
 ---
-

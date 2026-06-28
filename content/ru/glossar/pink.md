@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Violett"
     url: "/ru/glossar/violett/"
 ---
-

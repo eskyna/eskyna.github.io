@@ -27,4 +27,3 @@ relatedTerms:
   - title: "Акцентный цвет в образе"
     url: "/ru/glossar/metallic/"
 ---
-

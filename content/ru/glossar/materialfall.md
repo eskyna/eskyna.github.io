@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Silhouette"
     url: "/ru/glossar/silhouette/"
 ---
-

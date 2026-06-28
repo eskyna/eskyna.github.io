@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Вечернее платье в стайлинге"
     url: "/ru/glossar/seide/"
 ---
-

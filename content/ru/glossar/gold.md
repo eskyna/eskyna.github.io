@@ -26,4 +26,3 @@ relatedTerms:
   - title: "Braun"
     url: "/ru/glossar/braun/"
 ---
-

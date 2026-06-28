@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Куртка-бомбер в современном стайле"
     url: "/ru/glossar/statement-piece/"
 ---
-

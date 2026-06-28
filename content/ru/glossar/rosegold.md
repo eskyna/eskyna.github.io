@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Creme"
     url: "/ru/glossar/creme/"
 ---
-

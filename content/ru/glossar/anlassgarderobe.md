@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Гардероб для торжественных случаев"
     url: "/ru/glossar/key-piece/"
 ---
-

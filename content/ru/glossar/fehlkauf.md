@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Как избежать ошибок покупок"
     url: "/ru/glossar/outfit-formel/"
 ---
-

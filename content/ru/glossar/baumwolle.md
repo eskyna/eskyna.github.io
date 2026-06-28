@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Хлопок: натуральная ткань"
     url: "/ru/glossar/materialfall/"
 ---
-

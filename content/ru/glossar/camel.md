@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Верблюжий: классический цвет"
     url: "/ru/glossar/neutrale-farben/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Объёмный рукав в посадке"
     url: "/ru/glossar/taillierung/"
 ---
-

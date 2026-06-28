@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Passform"
     url: "/ru/glossar/passform/"
 ---
-

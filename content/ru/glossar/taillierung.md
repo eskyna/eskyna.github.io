@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Blazer"
     url: "/ru/glossar/blazer/"
 ---
-

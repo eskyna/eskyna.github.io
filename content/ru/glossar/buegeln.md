@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Глажка и уход за одеждой"
     url: "/ru/glossar/qualitaet/"
 ---
-

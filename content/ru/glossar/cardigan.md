@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Кардиган: универсальный верх"
     url: "/ru/glossar/proportion/"
 ---
-

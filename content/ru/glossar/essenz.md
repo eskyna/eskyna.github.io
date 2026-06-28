@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Сущность стиля"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

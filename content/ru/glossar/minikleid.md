@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Chelsea Boots"
     url: "/ru/glossar/chelsea-boots/"
 ---
-

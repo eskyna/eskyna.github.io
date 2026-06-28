@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Консультация по цвету"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Кюлот: широкие юбка-брюки"
     url: "/ru/glossar/chinos/"
 ---
-

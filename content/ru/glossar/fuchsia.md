@@ -22,4 +22,3 @@ relatedTerms:
   - title: "Kontrast"
     url: "/ru/glossar/kontrast/"
 ---
-

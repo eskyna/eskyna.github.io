@@ -28,4 +28,3 @@ relatedTerms:
   - title: "Materialfall"
     url: "/ru/glossar/materialfall/"
 ---
-

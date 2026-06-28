@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Профиль цвета"
     url: "/ru/glossar/garderobenlogik/"
 ---
-

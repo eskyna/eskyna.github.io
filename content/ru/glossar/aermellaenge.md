@@ -21,4 +21,3 @@ relatedTerms:
   - title: "Длина рукава в посадке"
     url: "/ru/glossar/taillierung/"
 ---
-

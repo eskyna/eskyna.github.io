@@ -21,4 +21,3 @@ relatedTerms:
   - title: "A-силуэт в стайлинге"
     url: "/ru/glossar/culotte/"
 ---
-

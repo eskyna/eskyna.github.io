@@ -19,4 +19,3 @@ relatedTerms:
   - title: "Коктейльное платье"
     url: "/ru/glossar/slingback/"
 ---
-
