@@ -7,11 +7,11 @@
     {{ $estyleText := or $pageUI.footer_estyle_text $homeUI.footer_estyle_text "EStyle" }}
     {{ $imprintText := or $pageUI.footer_imprint_text $homeUI.footer_imprint_text "Impressum" }}
     {{ $privacyText := or $pageUI.footer_privacy_text $homeUI.footer_privacy_text "Datenschutzerklärung" }}
-    <a href="{{ "about" | relLangURL }}" title="{{ $aboutText }}">{{ $aboutText }}</a>
-    <a href="{{ "blog" | relLangURL }}" title="{{ $blogText }}">{{ $blogText }}</a>
-    <a href="{{ "estyle" | relLangURL }}" title="{{ $estyleText }}">{{ $estyleText }}</a>
-    <a href="{{ "impressum" | relLangURL }}" title="{{ $imprintText }}">{{ $imprintText }}</a>
-    <a href="{{ "datenschutz" | relLangURL }}" title="{{ $privacyText }}">{{ $privacyText }}</a>
+    <a href="{{ "about/" | relLangURL }}" title="{{ $aboutText }}">{{ $aboutText }}</a>
+    <a href="{{ "blog/" | relLangURL }}" title="{{ $blogText }}">{{ $blogText }}</a>
+    <a href="{{ "estyle/" | relLangURL }}" title="{{ $estyleText }}">{{ $estyleText }}</a>
+    <a href="{{ "impressum/" | relLangURL }}" title="{{ $imprintText }}">{{ $imprintText }}</a>
+    <a href="{{ "datenschutz/" | relLangURL }}" title="{{ $privacyText }}">{{ $privacyText }}</a>
     <span class="visually-hidden">{{ i18n "footer_a11y" }}</span>
   </div>
 </footer>
