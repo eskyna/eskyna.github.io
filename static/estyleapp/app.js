@@ -1998,9 +1998,8 @@ async function setupForegroundMessaging() {
 }
 
 async function sendFcmTokenToServer(token) {
-  const storageMode =
-    CONFIG.push?.tokenStorage || (CONFIG.push?.registerTokenEndpoint ? "endpoint" : "firestore");
-  if (storageMode === "firestore") {
+  const storageMode = CONFIG.push?.tokenStorage || "firestore";
+  if (storageMode !== "endpoint") {
     await saveFcmTokenToFirestore(token);
     return;
   }
