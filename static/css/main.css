@@ -6762,6 +6762,7 @@ main .hero .hero-headline-line {
 }
 
 /* ============ GLOSSAR STYLES ============ */
+/* stylelint-disable no-descending-specificity */
 
 .glossar-page {
   display: flex;
@@ -6830,39 +6831,39 @@ main .hero .hero-headline-line {
   font-size: 1.02rem;
 }
 
-.glossar-body h2 {
+.glossar-page .glossar-body h2 {
   font-size: clamp(1.3rem, 3vw, 1.5rem);
   font-weight: 700;
   margin: 1.8rem 0 0.8rem;
   color: var(--text);
 }
 
-.glossar-body h2:first-child {
+.glossar-page .glossar-body h2:first-child {
   margin-top: 0;
 }
 
-.glossar-body h3 {
+.glossar-page .glossar-body h3 {
   font-size: 1.1rem;
   font-weight: 600;
   margin: 1.3rem 0 0.5rem;
   color: var(--text);
 }
 
-.glossar-body p {
+.glossar-page .glossar-body p {
   margin: 0 0 1rem;
 }
 
-.glossar-body ul,
-.glossar-body ol {
+.glossar-page .glossar-body ul,
+.glossar-page .glossar-body ol {
   margin: 1rem 0;
   padding-left: 1.5rem;
 }
 
-.glossar-body li {
+.glossar-page .glossar-body li {
   margin-bottom: 0.5rem;
 }
 
-.glossar-body strong {
+.glossar-page .glossar-body strong {
   font-weight: 700;
   color: var(--text);
 }
@@ -6889,11 +6890,11 @@ main .hero .hero-headline-line {
   gap: 0.75rem;
 }
 
-.glossar-related-list li {
+.glossar-page .glossar-related-list li {
   margin: 0;
 }
 
-.glossar-related-list a {
+.glossar-page .glossar-related-list a {
   display: inline-block;
   padding: 0.5rem 1rem;
   background: var(--bg-soft);
@@ -6905,7 +6906,7 @@ main .hero .hero-headline-line {
   border: 1px solid transparent;
 }
 
-.glossar-related-list a:hover {
+.glossar-page .glossar-related-list a:hover {
   background: var(--accent);
   color: var(--on-dark);
 }
@@ -6913,7 +6914,7 @@ main .hero .hero-headline-line {
 .glossar-cta {
   margin-top: 2rem;
   padding: 1.5rem;
-  background: rgba(197, 160, 89, 0.08);
+  background: rgb(197 160 89 / 8%);
   border-left: 3px solid var(--accent);
   border-radius: 0.25rem;
 }
@@ -6927,13 +6928,13 @@ main .hero .hero-headline-line {
 
 .glossar-list-hero {
   background-image:
-    linear-gradient(135deg, rgba(249, 246, 240, 0.75) 0%, rgba(227, 213, 200, 0.65) 100%),
+    linear-gradient(135deg, rgb(249 246 240 / 75%) 0%, rgb(227 213 200 / 65%) 100%),
     url("/images/backgrounds/sections/problems.png");
   background-size: auto, cover;
   background-position: center;
   background-attachment: scroll;
   padding: clamp(3.5rem, 12vw, 5rem) 0;
-  border-bottom: 1px solid rgba(139, 94, 52, 0.12);
+  border-bottom: 1px solid rgb(139 94 52 / 12%);
 }
 
 .glossar-list-hero-copy {
@@ -6959,8 +6960,8 @@ main .hero .hero-headline-line {
 
 .glossar-navigation-section {
   padding: clamp(2.5rem, 6vw, 3.5rem) 0;
-  background: linear-gradient(180deg, var(--bg) 0%, rgba(249, 246, 240, 0.6) 100%);
-  border-bottom: 1px solid rgba(139, 94, 52, 0.12);
+  background: linear-gradient(180deg, var(--bg) 0%, rgb(249 246 240 / 60%) 100%);
+  border-bottom: 1px solid rgb(139 94 52 / 12%);
 }
 
 .glossar-navigation-shell {
@@ -6982,7 +6983,7 @@ main .hero .hero-headline-line {
   background: var(--bg);
   color: var(--text);
   transition: all 200ms ease;
-  box-shadow: 0 2px 8px rgba(44, 30, 22, 0.06);
+  box-shadow: 0 2px 8px rgb(44 30 22 / 6%);
 }
 
 .glossar-search-input::placeholder {
@@ -6991,13 +6992,13 @@ main .hero .hero-headline-line {
 
 .glossar-search-input:hover {
   border-color: var(--accent);
-  box-shadow: 0 4px 12px rgba(197, 160, 89, 0.12);
+  box-shadow: 0 4px 12px rgb(197 160 89 / 12%);
 }
 
 .glossar-search-input:focus {
   outline: none;
   border-color: var(--accent-strong);
-  box-shadow: 0 0 0 3px rgba(139, 94, 52, 0.15);
+  box-shadow: 0 0 0 3px rgb(139 94 52 / 15%);
 }
 
 .glossar-tabs {
@@ -7024,32 +7025,33 @@ main .hero .hero-headline-line {
 
 .glossar-tab:hover {
   color: var(--text);
-  background: rgba(197, 160, 89, 0.06);
+  background: rgb(197 160 89 / 6%);
 }
 
 .glossar-tab.active {
   color: var(--text);
   border-bottom-color: var(--accent-strong);
-  background: rgba(197, 160, 89, 0.08);
+  background: rgb(197 160 89 / 8%);
 }
 
 .glossar-panel {
   padding: clamp(2.5rem, 8vw, 4.5rem) 0;
   background-image:
-    linear-gradient(135deg, rgba(249, 246, 240, 0.78) 0%, rgba(243, 235, 226, 0.7) 100%),
+    linear-gradient(135deg, rgb(249 246 240 / 78%) 0%, rgb(243 235 226 / 70%) 100%),
     url("/images/backgrounds/sections/problems.png");
   background-size: auto, cover;
   background-position: center;
   background-attachment: scroll;
   display: none;
-  animation: fadeIn 300ms ease;
+  animation: fade-in 300ms ease;
   position: relative;
 }
 
-@keyframes fadeIn {
+@keyframes fade-in {
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }
@@ -7088,7 +7090,7 @@ main .hero .hero-headline-line {
   border-radius: 0.4rem;
   transition: all 200ms ease;
   cursor: pointer;
-  box-shadow: 0 2px 6px rgba(44, 30, 22, 0.06);
+  box-shadow: 0 2px 6px rgb(44 30 22 / 6%);
 }
 
 .glossar-letter-link:hover {
@@ -7096,7 +7098,7 @@ main .hero .hero-headline-line {
   color: var(--on-dark);
   border-color: var(--accent);
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(197, 160, 89, 0.2);
+  box-shadow: 0 4px 12px rgb(197 160 89 / 20%);
 }
 
 .glossar-letter-link.glossar-letter-inactive {
@@ -7188,7 +7190,7 @@ main .hero .hero-headline-line {
   border: 1.5px solid var(--card-border);
   border-radius: 0.6rem;
   transition: all 220ms cubic-bezier(0.23, 1, 0.32, 1);
-  box-shadow: 0 2px 8px rgba(44, 30, 22, 0.08);
+  box-shadow: 0 2px 8px rgb(44 30 22 / 8%);
   position: relative;
   overflow: hidden;
 }
@@ -7200,7 +7202,7 @@ main .hero .hero-headline-line {
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(197, 160, 89, 0.1), transparent);
+  background: linear-gradient(90deg, transparent, rgb(197 160 89 / 10%), transparent);
   transition: left 300ms ease;
   pointer-events: none;
 }
@@ -7210,17 +7212,17 @@ main .hero .hero-headline-line {
 }
 
 .glossar-term-link:hover {
-  background: linear-gradient(135deg, var(--accent) 0%, rgba(197, 160, 89, 0.92) 100%);
+  background: linear-gradient(135deg, var(--accent) 0%, rgb(197 160 89 / 92%) 100%);
   color: var(--on-dark);
   border-color: var(--accent);
   transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(197, 160, 89, 0.28);
+  box-shadow: 0 8px 24px rgb(197 160 89 / 28%);
 }
 
 .glossar-term-title {
   font-size: 1.12rem;
   font-weight: 700;
-  color: currentColor;
+  color: currentcolor;
   letter-spacing: -0.01em;
   line-height: 1.3;
 }
@@ -7231,7 +7233,7 @@ main .hero .hero-headline-line {
 
 .glossar-term-excerpt {
   font-size: 0.96rem;
-  color: currentColor;
+  color: currentcolor;
   line-height: 1.55;
   opacity: 0.92;
 }
@@ -7241,7 +7243,7 @@ main .hero .hero-headline-line {
 }
 
 /* Responsive adjustments */
-@media (min-width: 48rem) {
+@media (width >= 48rem) {
   .glossar-content-shell {
     max-width: 56rem;
     padding: 0 2rem;
@@ -7253,7 +7255,7 @@ main .hero .hero-headline-line {
   }
 
   .glossar-term-link {
-    padding: 1.75rem 1.75rem;
+    padding: 1.75rem;
   }
 
   .glossar-body {
@@ -7279,7 +7281,7 @@ main .hero .hero-headline-line {
   }
 }
 
-@media (min-width: 64rem) {
+@media (width >= 64rem) {
   .glossar-term-list {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -7300,3 +7302,4 @@ main .hero .hero-headline-line {
     flex-shrink: 0;
   }
 }
+/* stylelint-enable no-descending-specificity */

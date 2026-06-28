@@ -44,7 +44,7 @@ ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich" – den Gedankenstr
 
 **Regel: Keine Gedankenstriche im Marketing-Text verwenden.**
 
-### So ersetzt du Gedankenstriche:
+### So ersetzt du Gedankenstriche
 
 **❌ Falsch (ChatGPT-Stil):**
 
@@ -58,7 +58,7 @@ ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich" – den Gedankenstr
 >
 > „15 bis 20 Kombinationen möglich."
 
-### Konkrete Ersetzungen:
+### Konkrete Ersetzungen
 
 | ❌ Vermeiden             | ✅ Verwenden                                            |
 | ------------------------ | ------------------------------------------------------- |
@@ -139,7 +139,7 @@ Dieser Abschnitt macht die Texte professionell und hilfreich.
 
 **Format:**
 
-```
+```text
 **Missverständnis:** Gute Passform bedeutet, eng zu sitzen.
 
 **Besser:** Gute Passform bedeutet, dass das Teil an den richtigen Stellen sitzt – ohne zu zwicken, aber auch ohne zu schlabbern.
@@ -177,7 +177,7 @@ Interne Links zu 3–5 verwandten Glossar-Begriffen (am Ende des Inhalts).
 
 **Format:**
 
-```
+```text
 **Verwandte Begriffe:**
 [Silhouette](/glossar/silhouette/),
 [Proportion](/glossar/proportion/),
@@ -305,8 +305,8 @@ Stattdessen: Wo im Outfit kann die Farbe trotzdem funktionieren?
 
 - **Farbfeld / Farbskala**: Die verschiedenen Nuancen nebeneinander
 - **Materialbeispiele**: Wie wirkt die Farbe in verschiedenen Stoffen? (Seide, Leinen, Denim, Strick, Wolle)
-- **Kombinationskarten**: 3–5 funktionierende Farbkombinationen
-- **Outfit-Kapseln** (optional): 2–3 kleine Outfit-Ideen (z.B. Casual, Elegant, Business)
+- **Kombinationskarten**: 3 bis 5 funktionierende Farbkombinationen
+- **Outfit-Kapseln** (optional): 2 bis 3 kleine Outfit-Ideen (z.B. Casual, Elegant, Business)
 
 ---
 
@@ -329,8 +329,8 @@ Vor jedem Glossarbeitrag durchführen:
 
 ## 5. Länge und Umfang
 
-**Standard-Glossarbeiträge:** 250–400 Wörter  
-**Farb-Lexikon-Beiträge:** 300–500 Wörter  
+**Standard-Glossarbeiträge:** 250 bis 400 Wörter  
+**Farb-Lexikon-Beiträge:** 300 bis 500 Wörter  
 **Minimale Länge:** 150 Wörter  
 **Maximale Länge:** 600 Wörter (eher Ausnahme)
 
@@ -343,11 +343,11 @@ Kurz ist besser. ESKYNA-Texte sind präzise.
 ### Suchmaschinen-Optimierung
 
 - **Title:** Nutzen Sie Frageformat für bessere Featured Snippets: „Was ist X?" / „Wie wirkt X?"
-- **Description:** 155–160 Zeichen, klare Definition, kein Clickbait
+- **Description:** 155 bis 160 Zeichen, klare Definition, kein Clickbait
 - **Slug:** Einfach und aussagekräftig (`/glossar/passform/`, nicht `/glossar/was-ist-passform-definition/`)
 - **Überschriften:** H2 und H3 nutzen, aber nicht überladend
 
-### Frontmatter-Beispiel für SEO:
+### Frontmatter-Beispiel für SEO
 
 ```yaml
 title: "Was ist Passform?"
@@ -398,7 +398,7 @@ tags: ["passform", "schnitt", "proportionen", "silhouette"]
 
 Glossarbeiträge sind miteinander verlinkt. Nutzen Sie diese Struktur:
 
-- **Verwandte Begriffe am Ende:** 3–5 Links
+- **Verwandte Begriffe am Ende:** 3 bis 5 Links
 - **Interne Links im Text:** Wo ein anderer Begriff erwähnt wird, verlinken Sie ihn (keine Überoptimierung)
 
 **Beispiel:**
@@ -419,7 +419,7 @@ Glossarbeiträge sind miteinander verlinkt. Nutzen Sie diese Struktur:
 
 - Nutzen Sie durchgehend die **вы-Form** (Höflichkeitsform)
 - Mischen Sie nie ты und вы
-- Übersetzen Sie nicht mechanisch – lokalisieren Sie den Inhalt
+- Übersetzen Sie nicht mechanisch. Lokalisieren Sie den Inhalt
 
 ---
 
@@ -429,13 +429,13 @@ Glossarbeiträge sind miteinander verlinkt. Nutzen Sie diese Struktur:
 A: Nein. ESKYNA arbeitet mit Orientierung, nicht mit Regeln. Nutzen Sie „kann", „wirkt oft", „funktioniert besonders dann, wenn..."
 
 **F: Wie lang sollte ein Beitrag sein?**  
-A: 250–400 Wörter für Standard-Begriffe. Farbseiten bis 500 Wörter. Qualität vor Quantität.
+A: 250 bis 400 Wörter für Standard-Begriffe. Farbseiten bis 500 Wörter. Qualität vor Quantität.
 
 **F: Kann ich Emojis nutzen?**  
 A: Nein. ESKYNA wirkt elegant und editorialer als mit Emojis.
 
 **F: Wie oft sollte ich verlinken?**  
-A: Im Text: 0–3 Links pro Beitrag. Am Ende: 3–5 verwandte Begriffe.
+A: Im Text: 0 bis 3 Links pro Beitrag. Am Ende: 3 bis 5 verwandte Begriffe.
 
 **F: Was ist, wenn ich mir unsicher bin?**  
 A: Lesen Sie den Rosa-Beitrag nochmal durch. Kopieren Sie seinen Ton, nicht seinen Wortlaut.
@@ -459,26 +459,26 @@ Diese Beiträge sollten zuerst veröffentlicht werden (in dieser Reihenfolge):
 
 ### Phase 2: Farben & Grundlagen (10 Beiträge)
 
-9. Schwarz
-10. Weiß
-11. Navy
-12. Beige
-13. Braun
-14. Blau
-15. Grün
-16. Rot
-17. Rosa
-18. Bordeaux
+1. Schwarz
+2. Weiß
+3. Navy
+4. Beige
+5. Braun
+6. Blau
+7. Grün
+8. Rot
+9. Rosa
+10. Bordeaux
 
 ### Phase 3: Stil & Alltag (7 Beiträge)
 
-19. Stilbruch
-20. Quiet Luxury
-21. Signature Look
-22. Key-Piece
-23. Outfit-Formel
-24. Business Casual
-25. Statement-Piece
+1. Stilbruch
+2. Quiet Luxury
+3. Signature Look
+4. Key-Piece
+5. Outfit-Formel
+6. Business Casual
+7. Statement-Piece
 
 ---
 
@@ -488,7 +488,7 @@ Das Glossar sollte visuell ruhig und hochwertig wirken: viel Weißraum, klare Ty
 
 ### Layout-Prinzipien
 
-- **Übersichtsseite:** A-Z-Navigation, Kategorie-Filter, 5–8 empfohlene Einstiege
+- **Übersichtsseite:** A-Z-Navigation, Kategorie-Filter, 5 bis 8 empfohlene Einstiege
 - **Einzelseite:** Titel + Definition oben, klare Inhaltsstruktur, verwandte Begriffe unten
 - **Farbseiten zusätzlich:** Farbfeld/Skala, Materialbeispiele, Kombinationskarten
 - **Weißraum:** Großzügig nutzen. Nicht zu voll wirken.
@@ -505,7 +505,7 @@ Das Glossar sollte visuell ruhig und hochwertig wirken: viel Weißraum, klare Ty
 
 ### Content-Struktur
 
-```
+```text
 content/de/glossar/
 ├── _index.md                  (Glossar-Übersichtsseite)
 ├── passform.md
@@ -533,7 +533,7 @@ content/ru/glossar/            (Russische Übersetzungen)
 ```yaml
 ---
 title: "Was ist [Begriff]?"
-description: "Kurze, prägnante Definition (155–160 Zeichen)."
+description: "Kurze, prägnante Definition (155 bis 160 Zeichen)."
 category: "[Hauptkategorie]"
 tags: ["tag1", "tag2", "tag3"]
 glossar_order: "[A-Z]"
