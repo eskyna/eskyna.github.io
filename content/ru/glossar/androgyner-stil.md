@@ -7,7 +7,7 @@ tags: ["androgyner stil", "stil"]
 keywords: ["androgyner stil", "was bedeutet androgyner stil", "androgyner stil stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/androgyner-stil.svg"
+image: "images/glossar/androgyner-stil.png"
 image_alt: "Editoriale Glossar-Grafik zu Androgyner Stil mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Андрогинный стиль в моде"

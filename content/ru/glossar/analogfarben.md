@@ -7,7 +7,7 @@ tags: ["analogfarben", "farbberatung"]
 keywords: ["analogfarben", "was bedeutet analogfarben", "analogfarben stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/analogfarben.svg"
+image: "images/glossar/analogfarben.png"
 image_alt: "Editoriale Glossar-Grafik zu Analogfarben mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Аналогичные цвета в цветовой теории"

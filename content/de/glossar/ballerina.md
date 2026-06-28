@@ -14,7 +14,7 @@ keywords:
   - "ballerinas kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/ballerina.svg"
+image: "images/glossar/ballerina.png"
 image_alt: "Editoriale Grafik mit stilisiertem Ballerina-Schuh, flacher Form und feiner Schleife"
 relatedTerms:
   - title: "Slingback"

@@ -7,7 +7,7 @@ tags: ["ausstrahlung", "stil"]
 keywords: ["ausstrahlung", "was bedeutet ausstrahlung", "ausstrahlung stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/ausstrahlung.svg"
+image: "images/glossar/ausstrahlung.png"
 image_alt: "Editoriale Glossar-Grafik zu Ausstrahlung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Излучение и аура в стайлинге"

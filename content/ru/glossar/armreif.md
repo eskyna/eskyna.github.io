@@ -7,7 +7,7 @@ tags: ["armreif", "materialien"]
 keywords: ["armreif", "was bedeutet armreif", "armreif stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/armreif.svg"
+image: "images/glossar/armreif.png"
 image_alt: "Editoriale Glossar-Grafik zu Armreif mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Браслет в аксессуарах"

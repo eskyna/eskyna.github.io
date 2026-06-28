@@ -7,7 +7,7 @@ tags: ["ankle boots", "garderobe"]
 keywords: ["ankle boots", "was bedeutet ankle boots", "ankle boots stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/ankle-boots.svg"
+image: "images/glossar/ankle-boots.png"
 image_alt: "Editoriale Glossar-Grafik zu Ankle Boots mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

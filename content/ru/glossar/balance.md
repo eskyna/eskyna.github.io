@@ -7,7 +7,7 @@ tags: ["balance", "stil"]
 keywords: ["balance", "was bedeutet balance", "balance stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/balance.svg"
+image: "images/glossar/balance.png"
 image_alt: "Editoriale Glossar-Grafik zu Balance mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Баланс в пропорциях"

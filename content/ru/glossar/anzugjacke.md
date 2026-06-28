@@ -7,7 +7,7 @@ tags: ["anzugjacke", "garderobe"]
 keywords: ["anzugjacke", "was bedeutet anzugjacke", "anzugjacke stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/anzugjacke.svg"
+image: "images/glossar/anzugjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Anzugjacke mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Пиджак в стайлинге"

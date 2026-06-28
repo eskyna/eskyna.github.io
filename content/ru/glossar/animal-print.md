@@ -7,7 +7,7 @@ tags: ["animal print", "materialien"]
 keywords: ["animal print", "was bedeutet animal print", "animal print stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/animal-print.svg"
+image: "images/glossar/animal-print.png"
 image_alt: "Editoriale Glossar-Grafik zu Animal Print mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Животный принт в образе"
