@@ -7,7 +7,7 @@ tags: ["akzentfarbe", "farbe", "styling", "accessoire"]
 keywords: ["akzentfarbe", "farben kombinieren", "farbe als akzent", "stilberatung"]
 glossar_order: "a"
 weight: 23
-image: "images/glossar/akzentfarbe.svg"
+image: "images/glossar/akzentfarbe.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Akzentfarbe mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:
   - title: "Акцентный цвет в образе"

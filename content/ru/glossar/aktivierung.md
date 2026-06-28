@@ -7,7 +7,7 @@ tags: ["aktivierung", "stil"]
 keywords: ["aktivierung", "was bedeutet aktivierung", "aktivierung stilberatung"]
 glossar_order: "a"
 weight: 1
-image: "images/glossar/aktivierung.svg"
+image: "images/glossar/aktivierung.png"
 image_alt: "Editoriale Glossar-Grafik zu Aktivierung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Активизация цвета в консультации"

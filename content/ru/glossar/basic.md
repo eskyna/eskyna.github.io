@@ -7,7 +7,7 @@ tags: ["basic", "garderobe", "capsule wardrobe", "key-piece", "outfit"]
 keywords: ["basic kleidung", "was ist ein basic", "garderobe basics", "basics kombinieren"]
 glossar_order: "b"
 weight: 8
-image: "images/glossar/basic.svg"
+image: "images/glossar/basic.png"
 image_alt: "Editoriale Grafik mit schlichtem Shirt, ruhigem Farbfeld und klaren Garderobenlinien"
 relatedTerms:
   - title: "Базовые вещи в гардеробе"

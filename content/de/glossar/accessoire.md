@@ -7,7 +7,7 @@ tags: ["accessoire", "schmuck", "tasche", "gürtel", "styling"]
 keywords: ["accessoire", "was ist ein accessoire", "accessoires kombinieren", "outfit accessoires"]
 glossar_order: "a"
 weight: 7
-image: "images/glossar/accessoire.svg"
+image: "images/glossar/accessoire.png"
 image_alt: "Editoriale Grafik mit Tasche, Schmuckkreis, Gürtel und ruhigen Akzentflächen"
 relatedTerms:
   - title: "Feinschmuck"
