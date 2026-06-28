@@ -47,23 +47,25 @@ ESKYNA-Texte vermeiden den typischen „ChatGPT-Bindestrich" – den Gedankenstr
 ### So ersetzt du Gedankenstriche:
 
 **❌ Falsch (ChatGPT-Stil):**
+
 > „Eine gute Passform bedeutet – nicht zu eng, aber auch nicht zu locker – die richtige Balance zu finden."
-> 
+>
 > „15–20 Kombinationen möglich."
 
 **✅ Richtig (ESKYNA-Stil):**
+
 > „Eine gute Passform bedeutet, die richtige Balance zu finden. Nicht zu eng, aber auch nicht zu locker."
-> 
+>
 > „15 bis 20 Kombinationen möglich."
 
 ### Konkrete Ersetzungen:
 
-| ❌ Vermeiden | ✅ Verwenden |
-|---|---|
-| `Text – weitere Info` | `Text. Weitere Info` oder `Text, weitere Info` |
-| `5–10 Teile` | `5 bis 10 Teile` |
-| `Text – also richtig` | `Text. Das bedeutet: richtig` oder `Text, also richtig` |
-| `Punkt – nicht schlecht` | `Punkt. Nicht schlecht` oder `Punkt, nicht schlecht` |
+| ❌ Vermeiden             | ✅ Verwenden                                            |
+| ------------------------ | ------------------------------------------------------- |
+| `Text – weitere Info`    | `Text. Weitere Info` oder `Text, weitere Info`          |
+| `5–10 Teile`             | `5 bis 10 Teile`                                        |
+| `Text – also richtig`    | `Text. Das bedeutet: richtig` oder `Text, also richtig` |
+| `Punkt – nicht schlecht` | `Punkt. Nicht schlecht` oder `Punkt, nicht schlecht`    |
 
 **Warum?** Gedankenstriche wirken maschinell geschrieben. ESKYNA-Texte sind menschlich, direkt und eigenwillig.
 
@@ -82,11 +84,12 @@ description: "Passform entscheidet über die Wirkung eines Kleidungsstücks oft 
 category: "Schnitt & Proportionen"
 tags: ["passform", "schnitt", "proportionen"]
 weight: 25
-glossar_order: "p"  # Für alphabetische Sortierung
+glossar_order: "p" # Für alphabetische Sortierung
 ---
 ```
 
 **Wichtig:**
+
 - `category`: Nutzen Sie die festen Kategorien (siehe Abschnitt 7: Kategorien und Taxonomie)
 - `glossar_order`: Einzelner Buchstabe für A-Z-Sortierung
 - `weight`: Für Seiten-Reihenfolge innerhalb einer Kategorie (höher = weiter oben)
@@ -100,6 +103,7 @@ Kurz und suchmaschinenfreundlich. Nutzen Sie Frageformat:
 - „Wie wirkt Passform?"
 
 **Nicht:**
+
 - Nur der Begriff: „Passform"
 - Zu lang: „Alles, was du über Passform wissen musst"
 
@@ -150,6 +154,7 @@ Ein konkretes Alltagsbeispiel macht den Begriff sichtbar.
 **Beispiel:**
 
 > **Checkliste gute Passform:**
+>
 > - Schultern: Naht endet genau an der Schulterkante
 > - Ärmel: Enden knapp über dem Handgelenk
 > - Taille: Sitzt an der richtigen Stelle, erlaubt zwei Finger Platz
@@ -357,21 +362,27 @@ keywords: ["passform", "schnitt", "größe", "kleidung", "stilberatung"]
 Das Glossar ist in diese Hauptkategorien unterteilt:
 
 ### Stil & Wirkung
+
 Begriffe wie Stil, Mode, Personal Style, Signature Look, Image, Wirkung, Stilbruch, Quiet Luxury, Minimalismus, Statement-Piece
 
 ### Farbberatung & Farbe
+
 Farbtyp, Unterton, Farbtemperatur, Sättigung, Helligkeit, Kontrast, Monochrom, Ton-in-Ton, Akzentfarbe, Neutrale Farben + alle Farb-Lexikon-Beiträge
 
 ### Schnitt, Proportion & Passform
+
 Passform, Silhouette, Proportion, Taillierung, A-Linie, H-Linie, V-Linie, Oversized, Layering, Saumlänge
 
 ### Garderobe & Alltag
+
 Capsule Wardrobe, Basic, Key-Piece, Garderobenlogik, Fehlkauf, Outfit-Formel, Anlassgarderobe, Business Casual, Smart Casual, Dresscode
 
 ### Materialien & Details
+
 Materialfall, Struktur, Glanzgrad, Leinen, Baumwolle, Viskose, Seide, Denim, Accessoire, Styling
 
 ### Farb-Lexikon (Unterkategorie)
+
 Schwarz, Weiß, Creme, Grau, Beige, Camel, Braun, Navy, Blau, Grün, Rot, Rosa, Pink, Lila, Orange, Terracotta, Bordeaux, usw.
 
 **Im Frontmatter nutzen:**
@@ -436,6 +447,7 @@ A: Lesen Sie den Rosa-Beitrag nochmal durch. Kopieren Sie seinen Ton, nicht sein
 Diese Beiträge sollten zuerst veröffentlicht werden (in dieser Reihenfolge):
 
 ### Phase 1: Fundament (8 Beiträge)
+
 1. Farbtyp
 2. Unterton
 3. Kontrast
@@ -446,6 +458,7 @@ Diese Beiträge sollten zuerst veröffentlicht werden (in dieser Reihenfolge):
 8. Garderobenlogik
 
 ### Phase 2: Farben & Grundlagen (10 Beiträge)
+
 9. Schwarz
 10. Weiß
 11. Navy
@@ -458,6 +471,7 @@ Diese Beiträge sollten zuerst veröffentlicht werden (in dieser Reihenfolge):
 18. Bordeaux
 
 ### Phase 3: Stil & Alltag (7 Beiträge)
+
 19. Stilbruch
 20. Quiet Luxury
 21. Signature Look

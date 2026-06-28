@@ -29,6 +29,7 @@ Es geht nicht darum, möglichst wenig zu besitzen. Es geht darum, dass jedes Tei
 Das bedeutet konkret: Du öffnest deinen Kleiderschrank und findest nicht hundert Kombinationen, sondern etwa 15 bis 20 durchdachte Outfit-Optionen, die sich anfühlen wie: „Ja, das passt."
 
 Eine Capsule Wardrobe funktioniert wie ein System aus wiederkehrenden Elementen. Zum Beispiel:
+
 - Farben, die sich wiederholen (z.B. Navy, Weiß, Beige, Bordeaux)
 - Schnitte, die zu dir passen (z.B. gerade Hosen, tailierte Blazer)
 - Materialien, mit denen du gut lebst

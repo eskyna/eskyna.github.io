@@ -70,11 +70,13 @@ Das Muster: Je stärker die Rosa-Nuance, desto ruhiger sollten die Partner sein.
 Ja, Rosa funktioniert auch im Business. Mit der richtigen Strategie.
 
 **Was funktioniert:**
+
 - Eine rosafarbene Bluse unter einem dunklen Navy- oder Grau-Blazer
 - Ein dezentes Rosa-Accessoire (Tasche, Schal, Schmuck)
 - Rosa in gedeckter Nuance (Altrosa) in einem klaren Schnitt
 
 **Was schwächer wirkt:**
+
 - Ein komplett rosafarbenes Outfit im Meeting
 - Zu viel Rosa auf einmal (Rosa-Bluse + Rosa-Hose + Rosa-Accessoires)
 - Sehr helles oder sehr knalliges Rosa direkt neben dem Gesicht, wenn es nicht deine Farbe ist
@@ -86,6 +88,7 @@ Die Regel: Je professioneller der Kontext, desto mehr sollte Rosa ein Akzent sei
 Hier ist ein wichtiger ESKYNA-Punkt: **Nicht „Diese Farbe steht dir nicht" denken.**
 
 Wenn Rosa nahe am Gesicht zu blass wirkt oder zu laut wirkt, kann es **immer noch funktionieren**:
+
 - Als Hose
 - Als Accessoire (Tasche, Schuh, Gürtel)
 - Als Schal nahe am Gesicht

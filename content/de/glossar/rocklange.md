@@ -17,7 +17,7 @@ relatedTerms:
   - title: "A-Linie"
     url: "/glossar/a-linie/"
 cta:
-  content: "<p>Tiefer einsteigen? Unser Blog-Beitrag <strong>\"Rocklänge und Wirkung: Das Komplette Guide\"</strong> erklärt, welche Rocklängen zu welchem Typ und welcher Situation passen.</p><p><a href=\"/blog/rocklange-wirkung/\" class=\"btn btn-small\">Zum Blog-Beitrag</a></p>"
+  content: '<p>Tiefer einsteigen? Unser Blog-Beitrag <strong>"Rocklänge und Wirkung: Das Komplette Guide"</strong> erklärt, welche Rocklängen zu welchem Typ und welcher Situation passen.</p><p><a href="/blog/rocklange-wirkung/" class="btn btn-small">Zum Blog-Beitrag</a></p>'
 ---
 
 ## Definition
@@ -74,6 +74,7 @@ Wirkt: elegant, zeitlos, großzügig, manchmal romantisch oder hippie-mäßig (j
 Das ist entscheidend: **Rocklänge verändert optische Proportionen massiv.**
 
 **Beispiel:**
+
 - Kurzer Rock mit langem Oberteil: wirkt unten betont, kann die Beine kürzer wirken lassen
 - Knielanger Rock mit kurzem Oberteil: wirkt balanciert und streckt die Beine
 - Langer Rock mit langem Oberteil: wirkt fließend und groß, muss aber die Taillenposition gut sichtbar machen

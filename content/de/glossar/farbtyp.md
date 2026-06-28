@@ -45,6 +45,7 @@ Die meisten Farbtyp-Systeme nutzen diese Dimensionen:
 Wenn du deinen Farbtyp kennst, kaufst du nicht mehr Kleidung, die „schön" ist, sondern Kleidung, die **dich schön macht**.
 
 Das hat praktische Folgen:
+
 - Weniger Fehlkäufe (weil du weißt, welche Farben wirklich zu dir passen)
 - Mehr Sicherheit beim Einkaufen (du hast ein System)
 - Bessere Ausstrahlung (weil Farben deine Augen zum Leuchten bringen oder deine Haut frischer wirken lassen)
@@ -54,6 +55,7 @@ Und ehrlich: Es fühlt sich gut an, sich zu sehen.
 ## Ein konkretes Beispiel
 
 Stell dir zwei Menschen vor:
+
 - Person A: Warme Haut, blonde Haare, niedriger Kontrast
 - Person B: Kühle Haut, dunkelbraune Haare, hoher Kontrast
 

@@ -6926,7 +6926,7 @@ main .hero .hero-headline-line {
 }
 
 .glossar-list-hero {
-  background-image: 
+  background-image:
     linear-gradient(135deg, rgba(249, 246, 240, 0.75) 0%, rgba(227, 213, 200, 0.65) 100%),
     url("/images/backgrounds/sections/problems.png");
   background-size: auto, cover;
@@ -7035,7 +7035,7 @@ main .hero .hero-headline-line {
 
 .glossar-panel {
   padding: clamp(2.5rem, 8vw, 4.5rem) 0;
-  background-image: 
+  background-image:
     linear-gradient(135deg, rgba(249, 246, 240, 0.78) 0%, rgba(243, 235, 226, 0.7) 100%),
     url("/images/backgrounds/sections/problems.png");
   background-size: auto, cover;
@@ -7130,7 +7130,7 @@ main .hero .hero-headline-line {
 }
 
 .glossar-letter-heading::before {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -3px;
   left: 0;
@@ -7155,7 +7155,7 @@ main .hero .hero-headline-line {
 }
 
 .glossar-category-heading::before {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -3px;
   left: 0;
@@ -7194,7 +7194,7 @@ main .hero .hero-headline-line {
 }
 
 .glossar-term-link::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: -100%;

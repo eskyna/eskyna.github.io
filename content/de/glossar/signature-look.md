@@ -27,6 +27,7 @@ Ein **Signature Look** ist ein wiedererkennbarer Stilcode. Er kann durch bestimm
 Ein Signature Look ist nicht eine Uniform. Es ist ein System aus Elementen, die zusammen dich ergeben.
 
 Denk an Menschen, die du kennst:
+
 - Die Freundin, die immer elegante Loafer trägt
 - Der Kollege, der klassische Poloshirts im selben Farbton kombiniert
 - Die Person, die immer ein Tuch im Nacken trägt
@@ -77,6 +78,7 @@ Ein Signature Look, der zu dir passt, fühlt sich nicht erzwungen an. Er wirkt w
 ## Ein konkretes Beispiel
 
 **Signature Look A:**
+
 - Farben: Schwarz, Weiß, Navy, Grau
 - Schnitte: Gerade Linie, minimalistisch, tailiert
 - Materialien: Wolle, Baumwolle, hochwertige Basics
@@ -84,11 +86,12 @@ Ein Signature Look, der zu dir passt, fühlt sich nicht erzwungen an. Er wirkt w
 - Wirkung: Souverän, modern, professionell
 
 Outfit am Montag: Schwarze Hose, weißes Shirt, schwarzer Blazer, Silber-Ohrringe  
-Outfit am Mittwoch: Navy-Hose, weiße Bluse, grauer Cardigan, Silber-Armband  
+Outfit am Mittwoch: Navy-Hose, weiße Bluse, grauer Cardigan, Silber-Armband
 
 Unterschiedliche Kombinationen, aber derselbe Stil. Das ist erkennbar. Das ist Signature Look.
 
 **Signature Look B:**
+
 - Farben: Camel, Creme, Bordeaux, Gold-Töne
 - Schnitte: Weich, elegant, gerade
 - Materialien: Seide, Leinen, fein gestrickt
