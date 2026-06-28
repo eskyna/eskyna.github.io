@@ -15,16 +15,17 @@ import { applicationDefault, cert, initializeApp } from "firebase-admin/app";
 import { getFirestore } from "firebase-admin/firestore";
 import { getMessaging } from "firebase-admin/messaging";
 
-const projectId = process.env.FIREBASE_PROJECT_ID || "eskyna-style";
+const serviceAccount = parseServiceAccountFromEnv();
+const projectId = process.env.FIREBASE_PROJECT_ID || serviceAccount?.project_id || "eskyna-style";
 const collectionName = process.env.FCM_TOKENS_COLLECTION || "fcmTokens";
 const title = process.env.PATCH_TITLE || "EStyle Update";
 const body = process.env.PATCH_BODY || "Neue Verbesserungen in deiner EStyle App sind verfuegbar.";
 const link = process.env.PATCH_URL || "https://eskyna.com/estyleapp/#welcome";
 
-const app = initializeFirebaseAdmin(projectId);
+const app = initializeFirebaseAdmin(projectId, serviceAccount);
 const db = getFirestore(app);
 const messaging = getMessaging(app);
-const snapshot = await db.collection(collectionName).get();
+const snapshot = await getTokenSnapshot(db, collectionName, projectId);
 const docs = snapshot.docs
   .map((doc) => ({ id: doc.id, ...doc.data() }))
   .filter((entry) => typeof entry.token === "string" && entry.token.length > 20);
@@ -79,13 +80,10 @@ console.log(
   `Gesendet: ${successCount}, Fehler: ${failureCount}, geloeschte stale Tokens: ${staleDocumentIds.length}`
 );
 
-function initializeFirebaseAdmin(projectId) {
-  if (process.env.FIREBASE_SERVICE_ACCOUNT_BASE64) {
-    const json = Buffer.from(process.env.FIREBASE_SERVICE_ACCOUNT_BASE64, "base64").toString(
-      "utf8"
-    );
+function initializeFirebaseAdmin(projectId, serviceAccount) {
+  if (serviceAccount) {
     return initializeApp({
-      credential: cert(JSON.parse(json)),
+      credential: cert(serviceAccount),
       projectId,
     });
   }
@@ -94,6 +92,36 @@ function initializeFirebaseAdmin(projectId) {
     credential: applicationDefault(),
     projectId,
   });
+}
+
+function parseServiceAccountFromEnv() {
+  const base64 = process.env.FIREBASE_SERVICE_ACCOUNT_BASE64;
+  if (!base64) return null;
+
+  try {
+    const json = Buffer.from(base64, "base64").toString("utf8");
+    return JSON.parse(json);
+  } catch (error) {
+    throw new Error("FIREBASE_SERVICE_ACCOUNT_BASE64 ist ungueltig (kein valides Base64-JSON).");
+  }
+}
+
+async function getTokenSnapshot(db, collectionName, projectId) {
+  try {
+    return await db.collection(collectionName).get();
+  } catch (error) {
+    const code = String(error?.code || "");
+    const notFound = code === "5" || String(error?.message || "").includes("NOT_FOUND");
+    if (notFound) {
+      throw new Error(
+        `Firestore NOT_FOUND fuer Projekt '${projectId}'. Pruefen Sie: ` +
+          "1) FIREBASE_PROJECT_ID passt zum Service Account, " +
+          "2) Cloud Firestore ist im Projekt angelegt (Native Mode, Datenbank '(default)'), " +
+          "3) Firestore API ist aktiviert."
+      );
+    }
+    throw error;
+  }
 }
 
 function chunk(items, size) {
