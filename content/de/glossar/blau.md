@@ -8,7 +8,7 @@ tags: ["blau", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["blau kleidung", "blau kombinieren", "hellblau navy", "stilberatung"]
 glossar_order: "b"
 weight: 6
-image: "images/glossar/blau.svg"
+image: "images/glossar/blau.png"
 image_alt: "Editoriale Grafik mit Blau-Nuancen, Denimflächen und klaren Farbkombinationen"
 relatedTerms:
   - title: "Navy"

@@ -7,7 +7,7 @@ tags: ["blickfuehrung", "stil"]
 keywords: ["blickführung", "was bedeutet blickführung", "blickführung stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/blickfuehrung.svg"
+image: "images/glossar/blickfuehrung.png"
 image_alt: "Editoriale Glossar-Grafik zu Blickführung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

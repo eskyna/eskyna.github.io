@@ -7,7 +7,7 @@ tags: ["blockabsatz", "absatz", "schuhe", "pumps"]
 keywords: ["blockabsatz", "was ist ein blockabsatz", "breiter absatz"]
 glossar_order: "b"
 weight: 17
-image: "images/glossar/blockabsatz.svg"
+image: "images/glossar/blockabsatz.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Blockabsatz mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Pumps"

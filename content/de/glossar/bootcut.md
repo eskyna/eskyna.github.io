@@ -14,7 +14,7 @@ keywords:
   - "bootcut jeans kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/bootcut.svg"
+image: "images/glossar/bootcut.png"
 image_alt: "Editoriale Grafik zu Bootcut mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Jeans"

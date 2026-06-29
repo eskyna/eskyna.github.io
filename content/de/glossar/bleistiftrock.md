@@ -14,7 +14,7 @@ keywords:
   - "bleistiftrock kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/bleistiftrock.svg"
+image: "images/glossar/bleistiftrock.png"
 image_alt: "Editoriale Grafik mit stilisiertem Bleistiftrock, gerader Linie und dezentem Schlitz"
 relatedTerms:
   - title: "Business Casual"

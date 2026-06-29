@@ -7,7 +7,7 @@ tags: ["body", "materialien"]
 keywords: ["body", "was bedeutet body", "body stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/body.svg"
+image: "images/glossar/body.png"
 image_alt: "Editoriale Glossar-Grafik zu Body mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

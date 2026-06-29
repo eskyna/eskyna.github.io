@@ -7,7 +7,7 @@ tags: ["bikerjacke", "garderobe"]
 keywords: ["bikerjacke", "was bedeutet bikerjacke", "bikerjacke stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/bikerjacke.svg"
+image: "images/glossar/bikerjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Bikerjacke mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

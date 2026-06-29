@@ -8,7 +8,7 @@ keywords:
   ["bewerbungsgespräch", "was bedeutet bewerbungsgespräch", "bewerbungsgespräch stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/bewerbungsgespraech.svg"
+image: "images/glossar/bewerbungsgespraech.png"
 image_alt: "Editoriale Glossar-Grafik zu Bewerbungsgespräch mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"
