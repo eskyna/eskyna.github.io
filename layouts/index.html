@@ -133,7 +133,7 @@
   <section class="section coach-section">
     <div class="container intro-grid">
       <div class="coach-visual-column">
-        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" $coachImageTitle "title" $coachImageTitle "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 900px) 100vw, 50vw") }}
+        {{ partial "responsive-image.html" (dict "src" $coach.image "alt" $coachImageTitle "title" $coachImageTitle "class" "card-image coach-image" "loading" "lazy" "decoding" "async" "fetchpriority" "high" "sizes" "(max-width: 900px) 100vw, 50vw") }}
       </div>
       <div class="coach-copy-column">
         {{ $coachName := or $coach.name "Natalia Kleemann" }}

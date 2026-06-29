@@ -13,6 +13,17 @@
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://contact-api.eskyna-style.workers.dev; object-src 'none'; base-uri 'self'; frame-src https://challenges.cloudflare.com; form-action 'self'; upgrade-insecure-requests;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Performance: Preload Hero Images -->
+{{ if .IsHome }}
+  <link rel="preload" href="{{ "images/backgrounds/hero/portrait.avif" | relURL }}" as="image" media="(max-width: 799px)" type="image/avif">
+  <link rel="preload" href="{{ "images/backgrounds/hero/landscape.avif" | relURL }}" as="image" media="(min-width: 800px)" type="image/avif">
+{{ end }}
+<!-- Performance: DNS Prefetch & Preconnect -->
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://challenges.cloudflare.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://contact-api.eskyna-style.workers.dev">
 <meta name="description" content="{{ $description }}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ $siteTitle }}">
@@ -297,6 +308,29 @@
 {{ else }}
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 {{ end }}
+
+<!-- Performance: Lazy Load Script -->
+<script>
+  if ("IntersectionObserver" in window && "requestIdleCallback" in window) {
+    window.addEventListener("load", function() {
+      requestIdleCallback(function() {
+        var lazyImages = document.querySelectorAll("img[loading='lazy']");
+        for (var i = 0; i < lazyImages.length; i++) {
+          var img = lazyImages[i];
+          if (img.getAttribute("data-optimized")) continue;
+          img.setAttribute("data-optimized", "true");
+          new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+              if (entry.isIntersecting) {
+                entry.target.setAttribute("decoding", "async");
+              }
+            });
+          }).observe(img);
+        }
+      });
+    });
+  }
+</script>
 
 {{ range .AllTranslations -}}
   {{ $hrefLang := .Language.Lang }}
