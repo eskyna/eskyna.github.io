@@ -30,16 +30,26 @@
 
       {{ with .Params.image }}
       <div class="glossar-hero-visual">
-        <img
-          class="glossar-hero-image"
-          src="{{ . | relURL }}"
-          alt="{{ $imageAlt | plainify }}"
-          width="1200"
-          height="800"
-          decoding="async"
-          fetchpriority="high"
+        <button
+          class="glossar-lightbox-trigger"
+          aria-label="Bild vergrößern: {{ $imageAlt | plainify }}"
+          data-src="{{ . | relURL }}"
+          data-alt="{{ $imageAlt | plainify }}"
         >
+          <img
+            class="glossar-hero-image"
+            src="{{ . | relURL }}"
+            alt="{{ $imageAlt | plainify }}"
+            decoding="async"
+            fetchpriority="high"
+          >
+        </button>
       </div>
+
+      <dialog class="glossar-lightbox" id="glossar-lightbox" aria-modal="true" aria-label="{{ $imageAlt | plainify }}">
+        <button class="glossar-lightbox-close" aria-label="Schließen">&times;</button>
+        <img class="glossar-lightbox-img" src="" alt="">
+      </dialog>
       {{ end }}
     </div>
   </section>
@@ -75,4 +85,34 @@
 
   {{ partial "contact-modal.html" . }}
 </main>
+
+{{ with .Params.image }}
+<script>
+(function () {
+  var dialog = document.getElementById('glossar-lightbox');
+  if (!dialog || !dialog.showModal) return;
+
+  var img = dialog.querySelector('.glossar-lightbox-img');
+  var closeBtn = dialog.querySelector('.glossar-lightbox-close');
+
+  document.querySelectorAll('.glossar-lightbox-trigger').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      img.src = btn.dataset.src;
+      img.alt = btn.dataset.alt;
+      dialog.showModal();
+    });
+  });
+
+  closeBtn.addEventListener('click', function () { dialog.close(); });
+
+  dialog.addEventListener('click', function (e) {
+    if (e.target === dialog) dialog.close();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && dialog.open) dialog.close();
+  });
+}());
+</script>
+{{ end }}
 {{ end }}
