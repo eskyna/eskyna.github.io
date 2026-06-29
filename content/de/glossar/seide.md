@@ -7,7 +7,7 @@ tags: ["seide", "material", "naturfaser", "glanz", "eleganz"]
 keywords: ["seide", "was ist seide", "seide kleidung", "seidenbluse"]
 glossar_order: "s"
 weight: 4
-image: "images/glossar/seide.svg"
+image: "images/glossar/seide.png"
 image_alt: "Editoriale Grafik mit schimmernder Seidenbahn, feiner Lichtkante und ruhigen Farbfeldern"
 relatedTerms:
   - title: "Glanzgrad"

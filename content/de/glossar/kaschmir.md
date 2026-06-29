@@ -7,7 +7,7 @@ tags: ["kaschmir", "materialien"]
 keywords: ["kaschmir", "was bedeutet kaschmir", "kaschmir stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kaschmir.svg"
+image: "images/glossar/kaschmir.png"
 image_alt: "Editoriale Glossar-Grafik zu Kaschmir mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

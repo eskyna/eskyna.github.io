@@ -14,7 +14,7 @@ keywords:
   - "barrel leg jeans"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/barrel-leg.svg"
+image: "images/glossar/barrel-leg.png"
 image_alt: "Editoriale Grafik zu Barrel Leg mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Silhouette"

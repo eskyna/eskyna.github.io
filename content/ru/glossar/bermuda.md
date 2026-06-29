@@ -14,7 +14,7 @@ keywords:
   - "bermuda shorts kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/bermuda.svg"
+image: "images/glossar/bermuda.png"
 image_alt: "Editoriale Grafik zu Bermuda mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Бермуды в летнем гардеробе"

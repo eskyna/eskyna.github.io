@@ -7,7 +7,7 @@ tags: ["ballonaermel", "schnitt proportion"]
 keywords: ["ballonärmel", "was bedeutet ballonärmel", "ballonärmel stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/ballonaermel.svg"
+image: "images/glossar/ballonaermel.png"
 image_alt: "Editoriale Glossar-Grafik zu Ballonärmel mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

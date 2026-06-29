@@ -7,7 +7,7 @@ tags: ["materialien", "satin"]
 keywords: ["satin", "was bedeutet satin", "satin stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/satin.svg"
+image: "images/glossar/satin.png"
 image_alt: "Editoriale Glossar-Grafik zu Satin mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"
