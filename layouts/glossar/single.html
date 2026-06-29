@@ -48,7 +48,7 @@
 
       <dialog class="glossar-lightbox" id="glossar-lightbox" aria-modal="true" aria-label="{{ $imageAlt | plainify }}">
         <button class="glossar-lightbox-close" aria-label="Schließen">&times;</button>
-        <img class="glossar-lightbox-img" src="" alt="">
+        <img class="glossar-lightbox-img" src="{{ . | relURL }}" alt="{{ $imageAlt | plainify }}">
       </dialog>
       {{ end }}
     </div>
