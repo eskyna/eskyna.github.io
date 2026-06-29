@@ -7,7 +7,7 @@ tags: ["boho", "stil"]
 keywords: ["boho", "was bedeutet boho", "boho stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/boho.svg"
+image: "images/glossar/boho.png"
 image_alt: "Editoriale Glossar-Grafik zu Boho mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Бохо-стиль: свободный и творческий"

@@ -7,7 +7,7 @@ tags: ["farbberatung", "stil"]
 keywords: ["farbberatung", "was bedeutet farbberatung", "farbberatung stilberatung"]
 glossar_order: "f"
 weight: 1
-image: "images/glossar/farbberatung.svg"
+image: "images/glossar/farbberatung.png"
 image_alt: "Editoriale Glossar-Grafik zu Farbberatung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Консультация по цвету"

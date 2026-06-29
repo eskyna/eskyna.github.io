@@ -7,7 +7,7 @@ tags: ["kernsprache", "stil"]
 keywords: ["kernsprache", "was bedeutet kernsprache", "kernsprache stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kernsprache.svg"
+image: "images/glossar/kernsprache.png"
 image_alt: "Editoriale Glossar-Grafik zu Kernsprache mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

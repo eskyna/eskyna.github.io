@@ -14,7 +14,7 @@ keywords:
   - "bomberjacke kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/bomberjacke.svg"
+image: "images/glossar/bomberjacke.png"
 image_alt: "Editoriale Grafik mit stilisierter Bomberjacke, Rundbündchen und kompakter Silhouette"
 relatedTerms:
   - title: "Куртка-бомбер в современном стайле"

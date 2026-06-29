@@ -7,7 +7,7 @@ tags: ["bretonstreifen", "materialien"]
 keywords: ["bretonstreifen", "was bedeutet bretonstreifen", "bretonstreifen stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/bretonstreifen.svg"
+image: "images/glossar/bretonstreifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Bretonstreifen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

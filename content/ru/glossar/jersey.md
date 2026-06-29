@@ -7,7 +7,7 @@ tags: ["jersey", "materialien"]
 keywords: ["jersey", "was bedeutet jersey", "jersey stilberatung"]
 glossar_order: "j"
 weight: 1
-image: "images/glossar/jersey.svg"
+image: "images/glossar/jersey.png"
 image_alt: "Editoriale Glossar-Grafik zu Jersey mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

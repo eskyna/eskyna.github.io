@@ -14,7 +14,7 @@ keywords:
   - "cargohose kombinieren"
 glossar_order: "c"
 weight: 5
-image: "images/glossar/cargohose.svg"
+image: "images/glossar/cargohose.png"
 image_alt: "Editoriale Grafik zu Cargohose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Khaki"

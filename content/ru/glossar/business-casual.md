@@ -7,7 +7,7 @@ tags: ["business casual", "dresscode", "office look", "stilberatung"]
 keywords: ["business casual", "business casual damen", "office outfit", "dresscode"]
 glossar_order: "b"
 weight: 5
-image: "images/glossar/business-casual.svg"
+image: "images/glossar/business-casual.png"
 image_alt: "Editoriale Grafik mit Blazer, Chino-Form und ruhigen Business-Elementen für Business Casual"
 relatedTerms:
   - title: "Business Casual: баланс формальности"

@@ -7,7 +7,7 @@ tags: ["farbtemperatur", "farbberatung", "unterton", "farbe"]
 keywords: ["farbtemperatur", "warme farben", "kühle farben", "farbberatung"]
 glossar_order: "f"
 weight: 18
-image: "images/glossar/farbtemperatur.svg"
+image: "images/glossar/farbtemperatur.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Farbtemperatur mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:
   - title: "Температура цвета"

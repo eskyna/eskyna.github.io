@@ -7,7 +7,7 @@ tags: ["empire kleid", "garderobe"]
 keywords: ["empire-kleid", "was bedeutet empire-kleid", "empire-kleid stilberatung"]
 glossar_order: "e"
 weight: 1
-image: "images/glossar/empire-kleid.svg"
+image: "images/glossar/empire-kleid.png"
 image_alt: "Editoriale Glossar-Grafik zu Empire-Kleid mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Платье в стиле Ампир"

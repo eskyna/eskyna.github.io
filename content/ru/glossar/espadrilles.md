@@ -7,7 +7,7 @@ tags: ["espadrilles", "schuhe", "sommer", "leinen"]
 keywords: ["espadrilles", "was sind espadrilles", "sommerschuhe"]
 glossar_order: "e"
 weight: 8
-image: "images/glossar/espadrilles.svg"
+image: "images/glossar/espadrilles.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Espadrilles mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Эспадрильи: летняя обувь"

@@ -7,7 +7,7 @@ tags: ["elegant", "stil"]
 keywords: ["elegant", "was bedeutet elegant", "elegant stilberatung"]
 glossar_order: "e"
 weight: 1
-image: "images/glossar/elegant.svg"
+image: "images/glossar/elegant.png"
 image_alt: "Editoriale Glossar-Grafik zu Elegant mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Элегантный стиль"

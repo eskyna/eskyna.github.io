@@ -8,7 +8,7 @@ tags: ["braun", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["braun kleidung", "braun kombinieren", "espresso farbe", "stilberatung"]
 glossar_order: "b"
 weight: 5
-image: "images/glossar/braun.svg"
+image: "images/glossar/braun.png"
 image_alt: "Editoriale Grafik mit Braun-Nuancen, Lederakzenten und warmen Kombinationsfarben"
 relatedTerms:
   - title: "Коричневый цвет в гардеробе"

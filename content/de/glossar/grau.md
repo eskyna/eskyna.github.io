@@ -9,7 +9,7 @@ keywords: ["grau kleidung", "grau kombinieren", "anthrazit", "grau farbberatung"
 glossar_order: "g"
 weight: 12
 
-image: "images/glossar/grau.svg"
+image: "images/glossar/grau.png"
 image_alt: "Editoriale Grafik mit Grau-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:
   - title: "Schwarz"

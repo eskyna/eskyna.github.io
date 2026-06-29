@@ -7,7 +7,7 @@ tags: ["cord", "materialien"]
 keywords: ["cord", "was bedeutet cord", "cord stilberatung"]
 glossar_order: "c"
 weight: 1
-image: "images/glossar/cord.svg"
+image: "images/glossar/cord.png"
 image_alt: "Editoriale Glossar-Grafik zu Cord mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["dropped shoulder", "schnitt proportion"]
 keywords: ["dropped shoulder", "was bedeutet dropped shoulder", "dropped shoulder stilberatung"]
 glossar_order: "d"
 weight: 1
-image: "images/glossar/dropped-shoulder.svg"
+image: "images/glossar/dropped-shoulder.png"
 image_alt: "Editoriale Glossar-Grafik zu Dropped Shoulder mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

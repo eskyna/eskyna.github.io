@@ -7,7 +7,7 @@ tags: ["kette", "materialien"]
 keywords: ["kette", "was bedeutet kette", "kette stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kette.svg"
+image: "images/glossar/kette.png"
 image_alt: "Editoriale Glossar-Grafik zu Kette mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

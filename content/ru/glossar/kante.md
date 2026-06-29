@@ -7,7 +7,7 @@ tags: ["kante", "materialien"]
 keywords: ["kante", "was bedeutet kante", "kante stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kante.svg"
+image: "images/glossar/kante.png"
 image_alt: "Editoriale Glossar-Grafik zu Kante mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -14,7 +14,7 @@ keywords:
   - "caprihose kombinieren"
 glossar_order: "c"
 weight: 5
-image: "images/glossar/caprihose.svg"
+image: "images/glossar/caprihose.png"
 image_alt: "Editoriale Grafik zu Caprihose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Капри: брюки до колена"

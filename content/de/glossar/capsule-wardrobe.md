@@ -7,7 +7,7 @@ tags: ["capsule wardrobe", "garderobe", "fehlkäufe", "basics"]
 keywords: ["capsule wardrobe", "garderobe", "kombinierbare kleidung", "stilberatung"]
 glossar_order: "c"
 weight: 1
-image: "images/glossar/capsule-wardrobe.svg"
+image: "images/glossar/capsule-wardrobe.png"
 image_alt: "Editoriale Grafik einer reduzierten Garderobe mit Farbfeldern und Outfit-Karten"
 relatedTerms:
   - title: "Garderobenlogik"

@@ -7,7 +7,7 @@ tags: ["herz ausschnitt", "materialien"]
 keywords: ["herz-ausschnitt", "was bedeutet herz-ausschnitt", "herz-ausschnitt stilberatung"]
 glossar_order: "h"
 weight: 1
-image: "images/glossar/herz-ausschnitt.svg"
+image: "images/glossar/herz-ausschnitt.png"
 image_alt: "Editoriale Glossar-Grafik zu Herz-Ausschnitt mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

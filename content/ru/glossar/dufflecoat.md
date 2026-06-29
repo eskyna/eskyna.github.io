@@ -7,7 +7,7 @@ tags: ["dufflecoat", "garderobe"]
 keywords: ["dufflecoat", "was bedeutet dufflecoat", "dufflecoat stilberatung"]
 glossar_order: "d"
 weight: 1
-image: "images/glossar/dufflecoat.svg"
+image: "images/glossar/dufflecoat.png"
 image_alt: "Editoriale Glossar-Grafik zu Dufflecoat mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Дуффельное пальто: классическое пальто"

@@ -7,7 +7,7 @@ tags: ["bodycon", "schnitt proportion"]
 keywords: ["bodycon", "was bedeutet bodycon", "bodycon stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/bodycon.svg"
+image: "images/glossar/bodycon.png"
 image_alt: "Editoriale Glossar-Grafik zu Bodycon mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"
