@@ -1,5 +1,5 @@
 <div class="language-switcher">{{- $current := .Language.Lang -}}
-  {{- if eq $current "de" -}}<span class="language-current" lang="de">de</span><span class="language-divider">|</span><a href="rus/" lang="ru" class="language-link" data-lang="rus" title="Русский">ru</a>
-  {{- else -}}<a href="../../" lang="de" class="language-link" data-lang="de" title="Deutsch">de</a><span class="language-divider">|</span><span class="language-current" lang="ru">ru</span>
+  {{- if eq $current "de" -}}<span class="language-current" lang="de">de</span><span class="language-divider">|</span><a href="rus/" lang="ru" class="language-link" data-lang="rus" title="Русский" onclick="window.localStorage && window.localStorage.setItem('eskynaPreferredLanguage', 'ru')">ru</a>
+  {{- else -}}<a href="../../" lang="de" class="language-link" data-lang="de" title="Deutsch" onclick="window.localStorage && window.localStorage.setItem('eskynaPreferredLanguage', 'de')">de</a><span class="language-divider">|</span><span class="language-current" lang="ru">ru</span>
   {{- end -}}
 </div>

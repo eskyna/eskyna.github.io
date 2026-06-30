@@ -7,6 +7,7 @@ set -e
 IMAGES_DIR="static/images"
 WEBP_QUALITY="${WEBP_QUALITY:-82}"
 AVIF_QUALITY="${AVIF_QUALITY:-56}"
+JOBS="${JOBS:-$(nproc 2>/dev/null || sysctl -n hw.ncpu 2>/dev/null || echo 4)}"
 
 if [ ! -d "$IMAGES_DIR" ]; then
   echo "Images directory not found: $IMAGES_DIR"
@@ -22,7 +23,7 @@ if [ "$webp_count" -gt 0 ] && [ "$avif_count" -gt 0 ]; then
   exit 0
 fi
 
-echo "Converting all PNG images to WebP and AVIF..."
+echo "Converting all PNG images to WebP and AVIF (${JOBS} parallel jobs)..."
 
 png_count=$(find "$IMAGES_DIR" -name "*.png" | wc -l)
 if [ "$png_count" -eq 0 ]; then
@@ -32,23 +33,24 @@ fi
 
 echo "Found $png_count PNG files"
 
-# Convert to WebP
-find "$IMAGES_DIR" -name "*.png" | while read png; do
-  webp="${png%.png}.webp"
+# Convert to WebP and AVIF in parallel using xargs
+# Both formats are processed concurrently for each image
+convert_one() {
+  local png="$1"
+  local webp="${png%.png}.webp"
+  local avif="${png%.png}.avif"
   if [ ! -f "$webp" ]; then
-    echo "  Converting to WebP: $png"
     cwebp -q "$WEBP_QUALITY" "$png" -o "$webp" 2>/dev/null || true
   fi
-done
-
-# Convert to AVIF
-find "$IMAGES_DIR" -name "*.png" | while read png; do
-  avif="${png%.png}.avif"
   if [ ! -f "$avif" ]; then
-    echo "  Converting to AVIF: $png"
     avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif" 2>/dev/null || true
   fi
-done
+}
+
+export -f convert_one
+export WEBP_QUALITY AVIF_QUALITY
+
+find "$IMAGES_DIR" -name "*.png" | xargs -P "$JOBS" -I{} bash -c 'convert_one "$@"' _ {}
 
 webp_final=$(find "$IMAGES_DIR" -name "*.webp" | wc -l)
 avif_final=$(find "$IMAGES_DIR" -name "*.avif" | wc -l)
