@@ -8,6 +8,14 @@
   Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://www.facebook.com/tr/ https://*.telegram.org; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https: wss:; frame-src 'self' https://challenges.cloudflare.com https://calendar.app.google/ https://t.me/; frame-ancestors 'self'
 
+# Cache HTML pages (5 minutes, allows stale-while-revalidate)
+/index.html
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+/ru/index.html
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+/*
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
 # Cache images for 1 year (immutable)
 /images/*
   Cache-Control: public, max-age=31536000, immutable

@@ -23,6 +23,10 @@
 <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 <link rel="dns-prefetch" href="https://challenges.cloudflare.com">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<!-- Performance: Preload Critical Fonts -->
+<link rel="preload" href="{{ "fonts/S6uyw4BMUTPHvxk.ttf" | relURL }}" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="{{ "fonts/S6u9w4BMUTPHh6UVew8.ttf" | relURL }}" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="{{ "fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf" | relURL }}" as="font" type="font/ttf" crossorigin>
 <link rel="preconnect" href="https://contact-api.eskyna-style.workers.dev">
 <meta name="description" content="{{ $description }}">
 <meta property="og:type" content="website">
@@ -302,9 +306,7 @@
 
 {{ if hugo.IsProduction }}
   {{ $mainCSSMin := resources.FromString "css/main.css" (readFile "static/css/main.css") | minify }}
-  <link rel="preload" href="{{ $mainCSSMin.RelPermalink }}" as="style">
-  <link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}"></noscript>
+  <link rel="stylesheet" href="{{ $mainCSSMin.RelPermalink }}">
 {{ else }}
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 {{ end }}
