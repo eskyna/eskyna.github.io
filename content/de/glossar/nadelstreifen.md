@@ -7,7 +7,7 @@ tags: ["materialien", "nadelstreifen"]
 keywords: ["nadelstreifen", "was bedeutet nadelstreifen", "nadelstreifen stilberatung"]
 glossar_order: "n"
 weight: 1
-image: "images/glossar/nadelstreifen.svg"
+image: "images/glossar/nadelstreifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Nadelstreifen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

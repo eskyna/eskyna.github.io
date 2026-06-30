@@ -7,7 +7,7 @@ tags: ["stilbruch", "styling", "stil", "wirkung", "outfit"]
 keywords: ["stilbruch", "stilbruch mode", "outfit kombinieren", "stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stilbruch.svg"
+image: "images/glossar/stilbruch.png"
 image_alt: "Editoriale Grafik mit kontrastierenden Formen als Symbol für einen bewussten Stilbruch"
 relatedTerms:
   - title: "Quiet Luxury"

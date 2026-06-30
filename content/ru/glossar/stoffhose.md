@@ -14,7 +14,7 @@ keywords:
   - "stoffhose kombinieren"
 glossar_order: "s"
 weight: 5
-image: "images/glossar/stoffhose.svg"
+image: "images/glossar/stoffhose.png"
 image_alt: "Editoriale Grafik zu Stoffhose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Chinos"

@@ -7,7 +7,7 @@ tags: ["stil", "styling"]
 keywords: ["styling", "was bedeutet styling", "styling stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/styling.svg"
+image: "images/glossar/styling.png"
 image_alt: "Editoriale Glossar-Grafik zu Styling mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

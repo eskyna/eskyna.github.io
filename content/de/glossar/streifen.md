@@ -7,7 +7,7 @@ tags: ["materialien", "streifen"]
 keywords: ["streifen", "was bedeutet streifen", "streifen stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/streifen.svg"
+image: "images/glossar/streifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Streifen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

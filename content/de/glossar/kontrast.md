@@ -7,7 +7,7 @@ tags: ["kontrast", "farbberatung", "farbe", "wirkung"]
 keywords: ["kontrast mode", "farbkontrast", "hell dunkel kontrast", "stilberatung"]
 glossar_order: "k"
 weight: 3
-image: "images/glossar/kontrast.svg"
+image: "images/glossar/kontrast.png"
 image_alt: "Grafik mit hellen und dunklen Flächen zur Erklärung von Kontrast im Outfit"
 relatedTerms:
   - title: "Farbtyp"

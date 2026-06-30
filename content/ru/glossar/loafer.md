@@ -7,7 +7,7 @@ tags: ["loafer", "schuhe", "business casual", "accessoire", "styling"]
 keywords: ["loafer", "was sind loafer", "loafer kombinieren", "schlupfschuhe"]
 glossar_order: "l"
 weight: 9
-image: "images/glossar/loafer.svg"
+image: "images/glossar/loafer.png"
 image_alt: "Editoriale Grafik mit stilisiertem Loafer, klarer Schuhform und ruhigen Farbfeldern"
 relatedTerms:
   - title: "Business Casual"

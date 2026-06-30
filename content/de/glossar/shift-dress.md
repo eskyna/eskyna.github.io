@@ -7,7 +7,7 @@ tags: ["garderobe", "shift dress"]
 keywords: ["shift dress", "was bedeutet shift dress", "shift dress stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/shift-dress.svg"
+image: "images/glossar/shift-dress.png"
 image_alt: "Editoriale Glossar-Grafik zu Shift Dress mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

@@ -7,7 +7,7 @@ tags: ["garderobe", "longblazer"]
 keywords: ["longblazer", "was bedeutet longblazer", "longblazer stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/longblazer.svg"
+image: "images/glossar/longblazer.png"
 image_alt: "Editoriale Glossar-Grafik zu Longblazer mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

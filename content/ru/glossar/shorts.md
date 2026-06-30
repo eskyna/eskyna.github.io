@@ -14,7 +14,7 @@ keywords:
   - "shorts kombinieren"
 glossar_order: "s"
 weight: 5
-image: "images/glossar/shorts.svg"
+image: "images/glossar/shorts.png"
 image_alt: "Editoriale Grafik zu Shorts mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Bermuda"

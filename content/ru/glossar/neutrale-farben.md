@@ -9,7 +9,7 @@ keywords:
 glossar_order: "n"
 weight: 24
 
-image: "images/glossar/neutrale-farben.svg"
+image: "images/glossar/neutrale-farben.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Neutrale Farben mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:
   - title: "Farbpalette"

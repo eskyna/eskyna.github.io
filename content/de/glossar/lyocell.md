@@ -7,7 +7,7 @@ tags: ["lyocell", "materialien"]
 keywords: ["lyocell", "was bedeutet lyocell", "lyocell stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/lyocell.svg"
+image: "images/glossar/lyocell.png"
 image_alt: "Editoriale Glossar-Grafik zu Lyocell mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

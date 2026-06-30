@@ -14,7 +14,7 @@ keywords:
   - "leggings kombinieren"
 glossar_order: "l"
 weight: 5
-image: "images/glossar/leggings.svg"
+image: "images/glossar/leggings.png"
 image_alt: "Editoriale Grafik zu Leggings mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Layering"

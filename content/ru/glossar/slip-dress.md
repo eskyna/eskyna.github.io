@@ -14,7 +14,7 @@ keywords:
   - "slip dress kombinieren"
 glossar_order: "s"
 weight: 5
-image: "images/glossar/slip-dress.svg"
+image: "images/glossar/slip-dress.png"
 image_alt: "Editoriale Grafik mit stilisiertem Slip Dress, feinen Trägern und fließendem Glanz"
 relatedTerms:
   - title: "Seide"

@@ -14,7 +14,7 @@ keywords:
   - "paperbag hose kombinieren"
 glossar_order: "p"
 weight: 5
-image: "images/glossar/paperbag-hose.svg"
+image: "images/glossar/paperbag-hose.png"
 image_alt: "Editoriale Grafik zu Paperbag-Hose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Taillierung"

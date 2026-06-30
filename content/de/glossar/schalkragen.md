@@ -7,7 +7,7 @@ tags: ["materialien", "schalkragen"]
 keywords: ["schalkragen", "was bedeutet schalkragen", "schalkragen stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/schalkragen.svg"
+image: "images/glossar/schalkragen.png"
 image_alt: "Editoriale Glossar-Grafik zu Schalkragen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

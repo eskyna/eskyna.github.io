@@ -7,7 +7,7 @@ tags: ["materialien", "stretch"]
 keywords: ["stretch", "was bedeutet stretch", "stretch stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stretch.svg"
+image: "images/glossar/stretch.png"
 image_alt: "Editoriale Glossar-Grafik zu Stretch mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

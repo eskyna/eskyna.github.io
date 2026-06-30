@@ -7,7 +7,7 @@ tags: ["garderobe", "shacket"]
 keywords: ["shacket", "was bedeutet shacket", "shacket stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/shacket.svg"
+image: "images/glossar/shacket.png"
 image_alt: "Editoriale Glossar-Grafik zu Shacket mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

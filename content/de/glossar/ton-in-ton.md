@@ -7,7 +7,7 @@ tags: ["ton in ton", "farbe", "styling", "farbpalette"]
 keywords: ["ton in ton outfit", "ton in ton kombinieren", "farbberatung", "monochrom"]
 glossar_order: "t"
 weight: 22
-image: "images/glossar/ton-in-ton.svg"
+image: "images/glossar/ton-in-ton.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Ton-in-Ton mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:
   - title: "Monochrom"

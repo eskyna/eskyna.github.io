@@ -14,7 +14,7 @@ keywords:
   - "langarmshirt kombinieren"
 glossar_order: "l"
 weight: 6
-image: "images/glossar/longsleeve.svg"
+image: "images/glossar/longsleeve.png"
 image_alt: "Editoriale Grafik mit stilisiertem Longsleeve, langen Ärmeln und ruhigen Farbfeldern"
 relatedTerms:
   - title: "T-Shirt"

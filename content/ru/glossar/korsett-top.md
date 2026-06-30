@@ -7,7 +7,7 @@ tags: ["korsett top", "materialien"]
 keywords: ["korsett-top", "was bedeutet korsett-top", "korsett-top stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/korsett-top.svg"
+image: "images/glossar/korsett-top.png"
 image_alt: "Editoriale Glossar-Grafik zu Korsett-Top mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

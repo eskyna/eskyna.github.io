@@ -7,7 +7,7 @@ tags: ["midirock", "rock", "saumlänge", "proportion"]
 keywords: ["midirock", "was ist ein midirock", "midirock kombinieren"]
 glossar_order: "m"
 weight: 9
-image: "images/glossar/midirock.svg"
+image: "images/glossar/midirock.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Midirock mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Rocklänge"

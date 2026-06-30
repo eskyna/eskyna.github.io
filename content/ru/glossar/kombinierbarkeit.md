@@ -7,7 +7,7 @@ tags: ["garderobe", "kombinierbarkeit"]
 keywords: ["kombinierbarkeit", "was bedeutet kombinierbarkeit", "kombinierbarkeit stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kombinierbarkeit.svg"
+image: "images/glossar/kombinierbarkeit.png"
 image_alt: "Editoriale Glossar-Grafik zu Kombinierbarkeit mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

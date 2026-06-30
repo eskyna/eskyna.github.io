@@ -7,7 +7,7 @@ tags: ["garderobe", "strickjacke"]
 keywords: ["strickjacke", "was bedeutet strickjacke", "strickjacke stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/strickjacke.svg"
+image: "images/glossar/strickjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Strickjacke mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

@@ -7,7 +7,7 @@ tags: ["materialien", "punkte"]
 keywords: ["punkte", "was bedeutet punkte", "punkte stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/punkte.svg"
+image: "images/glossar/punkte.png"
 image_alt: "Editoriale Glossar-Grafik zu Punkte mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["garderobe", "schuhspitze"]
 keywords: ["schuhspitze", "was bedeutet schuhspitze", "schuhspitze stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/schuhspitze.svg"
+image: "images/glossar/schuhspitze.png"
 image_alt: "Editoriale Glossar-Grafik zu Schuhspitze mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

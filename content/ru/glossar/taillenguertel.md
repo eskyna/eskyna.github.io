@@ -7,7 +7,7 @@ tags: ["taillengürtel", "gürtel", "taillierung", "silhouette", "accessoire"]
 keywords: ["taillengürtel", "was ist ein taillengürtel", "taillengürtel kombinieren"]
 glossar_order: "t"
 weight: 9
-image: "images/glossar/taillenguertel.svg"
+image: "images/glossar/taillenguertel.png"
 image_alt: "Editoriale Grafik zu Taillengürtel mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
 relatedTerms:
   - title: "Gürtel"

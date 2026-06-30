@@ -7,7 +7,7 @@ tags: ["maxirock", "rock", "saumlänge", "proportion"]
 keywords: ["maxirock", "was ist ein maxirock", "maxirock kombinieren"]
 glossar_order: "m"
 weight: 8
-image: "images/glossar/maxirock.svg"
+image: "images/glossar/maxirock.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxirock mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Rocklänge"

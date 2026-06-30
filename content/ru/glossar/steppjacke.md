@@ -7,7 +7,7 @@ tags: ["garderobe", "steppjacke"]
 keywords: ["steppjacke", "was bedeutet steppjacke", "steppjacke stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/steppjacke.svg"
+image: "images/glossar/steppjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Steppjacke mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

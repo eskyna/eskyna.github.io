@@ -7,7 +7,7 @@ tags: ["minimalismus", "stil"]
 keywords: ["minimalismus", "was bedeutet minimalismus", "minimalismus stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/minimalismus.svg"
+image: "images/glossar/minimalismus.png"
 image_alt: "Editoriale Glossar-Grafik zu Minimalismus mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

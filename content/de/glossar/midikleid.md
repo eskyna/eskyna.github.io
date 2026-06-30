@@ -7,7 +7,7 @@ tags: ["midikleid", "kleid", "saumlänge", "proportion"]
 keywords: ["midikleid", "was ist ein midikleid", "midikleid kombinieren"]
 glossar_order: "m"
 weight: 6
-image: "images/glossar/midikleid.svg"
+image: "images/glossar/midikleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Midikleid mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Kleid"

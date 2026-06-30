@@ -14,7 +14,7 @@ keywords:
   - "pumps kombinieren"
 glossar_order: "p"
 weight: 5
-image: "images/glossar/pumps.svg"
+image: "images/glossar/pumps.png"
 image_alt: "Editoriale Grafik mit stilisiertem Pumps, Absatz und klarer Schuhlinie"
 relatedTerms:
   - title: "Business Casual"

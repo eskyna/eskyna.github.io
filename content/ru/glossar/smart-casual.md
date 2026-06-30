@@ -7,7 +7,7 @@ tags: ["smart casual", "dresscode", "business casual", "outfit", "stil"]
 keywords: ["smart casual", "was bedeutet smart casual", "smart casual outfit", "smart casual damen"]
 glossar_order: "s"
 weight: 13
-image: "images/glossar/smart-casual.svg"
+image: "images/glossar/smart-casual.png"
 image_alt: "Editoriale Grafik mit Blazer, Loafer und ruhiger Kombination aus gepflegten und lässigen Formen"
 relatedTerms:
   - title: "Business Casual"

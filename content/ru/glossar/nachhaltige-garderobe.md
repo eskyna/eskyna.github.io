@@ -12,7 +12,7 @@ keywords:
   ]
 glossar_order: "n"
 weight: 1
-image: "images/glossar/nachhaltige-garderobe.svg"
+image: "images/glossar/nachhaltige-garderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Nachhaltige Garderobe mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

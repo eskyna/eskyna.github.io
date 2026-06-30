@@ -7,7 +7,7 @@ tags: ["materialien", "schulterpolster"]
 keywords: ["schulterpolster", "was bedeutet schulterpolster", "schulterpolster stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/schulterpolster.svg"
+image: "images/glossar/schulterpolster.png"
 image_alt: "Editoriale Glossar-Grafik zu Schulterpolster mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["minirock", "rock", "saumlänge", "proportion"]
 keywords: ["minirock", "was ist ein minirock", "kurzer rock"]
 glossar_order: "m"
 weight: 10
-image: "images/glossar/minirock.svg"
+image: "images/glossar/minirock.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Minirock mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Rocklänge"

@@ -7,7 +7,7 @@ tags: ["silhouette", "schnitt", "proportionen", "passform"]
 keywords: ["silhouette mode", "schnittform", "proportionen", "stilberatung"]
 glossar_order: "s"
 weight: 2
-image: "images/glossar/silhouette.svg"
+image: "images/glossar/silhouette.png"
 image_alt: "Grafik mit mehreren Outfit-Silhouetten in klaren Linien"
 relatedTerms:
   - title: "Proportion"

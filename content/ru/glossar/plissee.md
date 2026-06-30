@@ -7,7 +7,7 @@ tags: ["materialien", "plissee"]
 keywords: ["plissee", "was bedeutet plissee", "plissee stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/plissee.svg"
+image: "images/glossar/plissee.png"
 image_alt: "Editoriale Glossar-Grafik zu Plissee mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

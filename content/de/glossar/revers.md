@@ -7,7 +7,7 @@ tags: ["materialien", "revers"]
 keywords: ["revers", "was bedeutet revers", "revers stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/revers.svg"
+image: "images/glossar/revers.png"
 image_alt: "Editoriale Glossar-Grafik zu Revers mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

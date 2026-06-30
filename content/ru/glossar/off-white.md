@@ -8,7 +8,7 @@ tags: ["off-white", "weiss", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["off-white kleidung", "off-white kombinieren", "weissnuancen", "farbberatung"]
 glossar_order: "o"
 weight: 18
-image: "images/glossar/off-white.svg"
+image: "images/glossar/off-white.png"
 image_alt: "Editoriale Grafik zu Off-White mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Weiß"

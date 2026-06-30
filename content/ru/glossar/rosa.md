@@ -8,7 +8,7 @@ tags: ["rosa", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["rosa kleidung", "rosa kombinieren", "farbberatung", "stilberatung"]
 glossar_order: "r"
 weight: 9
-image: "images/glossar/rosa.svg"
+image: "images/glossar/rosa.png"
 image_alt: "Editoriale Grafik mit Rosa-Nuancen, feinen Stoffflächen und ruhigen Kombinationsfarben"
 relatedTerms:
   - title: "Rot"

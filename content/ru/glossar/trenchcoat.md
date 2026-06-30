@@ -7,7 +7,7 @@ tags: ["trenchcoat", "mantel", "klassiker", "key-piece", "beige"]
 keywords: ["trenchcoat", "was ist ein trenchcoat", "trenchcoat kombinieren", "mantel klassiker"]
 glossar_order: "t"
 weight: 8
-image: "images/glossar/trenchcoat.svg"
+image: "images/glossar/trenchcoat.png"
 image_alt: "Editoriale Grafik mit stilisiertem Trenchcoat, Gürtel und beigen Farbfeldern"
 relatedTerms:
   - title: "Key-Piece"

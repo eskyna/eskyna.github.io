@@ -7,7 +7,7 @@ tags: ["materialien", "stehkragen"]
 keywords: ["stehkragen", "was bedeutet stehkragen", "stehkragen stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stehkragen.svg"
+image: "images/glossar/stehkragen.png"
 image_alt: "Editoriale Glossar-Grafik zu Stehkragen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

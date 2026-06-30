@@ -7,7 +7,7 @@ tags: ["leo print", "materialien"]
 keywords: ["leo-print", "was bedeutet leo-print", "leo-print stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/leo-print.svg"
+image: "images/glossar/leo-print.png"
 image_alt: "Editoriale Glossar-Grafik zu Leo-Print mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["slim fit", "passform", "schnitt", "hose", "silhouette"]
 keywords: ["slim fit", "was bedeutet slim fit", "slim fit hose", "schmale passform"]
 glossar_order: "s"
 weight: 15
-image: "images/glossar/slim-fit.svg"
+image: "images/glossar/slim-fit.png"
 image_alt: "Editoriale Grafik mit schmal geschnittener Hose, Passformlinien und ruhiger Komposition"
 relatedTerms:
   - title: "Passform"

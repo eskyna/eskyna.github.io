@@ -7,7 +7,7 @@ tags: ["schlitz", "schnitt proportion"]
 keywords: ["schlitz", "was bedeutet schlitz", "schlitz stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/schlitz.svg"
+image: "images/glossar/schlitz.png"
 image_alt: "Editoriale Glossar-Grafik zu Schlitz mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

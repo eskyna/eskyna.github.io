@@ -7,7 +7,7 @@ tags: ["garderobe", "peacoat"]
 keywords: ["peacoat", "was bedeutet peacoat", "peacoat stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/peacoat.svg"
+image: "images/glossar/peacoat.png"
 image_alt: "Editoriale Glossar-Grafik zu Peacoat mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

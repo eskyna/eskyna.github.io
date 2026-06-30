@@ -7,7 +7,7 @@ tags: ["kunstleder", "materialien"]
 keywords: ["kunstleder", "was bedeutet kunstleder", "kunstleder stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kunstleder.svg"
+image: "images/glossar/kunstleder.png"
 image_alt: "Editoriale Glossar-Grafik zu Kunstleder mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

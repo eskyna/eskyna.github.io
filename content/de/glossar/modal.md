@@ -7,7 +7,7 @@ tags: ["materialien", "modal"]
 keywords: ["modal", "was bedeutet modal", "modal stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/modal.svg"
+image: "images/glossar/modal.png"
 image_alt: "Editoriale Glossar-Grafik zu Modal mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["garderobe", "oversized blazer"]
 keywords: ["oversized-blazer", "was bedeutet oversized-blazer", "oversized-blazer stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/oversized-blazer.svg"
+image: "images/glossar/oversized-blazer.png"
 image_alt: "Editoriale Glossar-Grafik zu Oversized-Blazer mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

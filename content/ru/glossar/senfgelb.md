@@ -8,7 +8,7 @@ tags: ["senfgelb", "gelb", "farbe", "warme farben", "farbberatung"]
 keywords: ["senfgelb kleidung", "senfgelb kombinieren", "senfgelbe hose", "farbberatung"]
 glossar_order: "s"
 weight: 27
-image: "images/glossar/senfgelb.svg"
+image: "images/glossar/senfgelb.png"
 image_alt: "Editoriale Grafik zu Senfgelb mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Gelb"

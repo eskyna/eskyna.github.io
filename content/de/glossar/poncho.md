@@ -7,7 +7,7 @@ tags: ["garderobe", "poncho"]
 keywords: ["poncho", "was bedeutet poncho", "poncho stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/poncho.svg"
+image: "images/glossar/poncho.png"
 image_alt: "Editoriale Glossar-Grafik zu Poncho mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

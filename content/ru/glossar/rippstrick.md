@@ -7,7 +7,7 @@ tags: ["materialien", "rippstrick"]
 keywords: ["rippstrick", "was bedeutet rippstrick", "rippstrick stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/rippstrick.svg"
+image: "images/glossar/rippstrick.png"
 image_alt: "Editoriale Glossar-Grafik zu Rippstrick mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

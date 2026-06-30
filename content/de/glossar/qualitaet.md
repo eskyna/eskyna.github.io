@@ -7,7 +7,7 @@ tags: ["garderobe", "qualitaet"]
 keywords: ["qualität", "was bedeutet qualität", "qualität stilberatung"]
 glossar_order: "q"
 weight: 1
-image: "images/glossar/qualitaet.svg"
+image: "images/glossar/qualitaet.png"
 image_alt: "Editoriale Glossar-Grafik zu Qualität mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

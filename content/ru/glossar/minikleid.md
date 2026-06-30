@@ -7,7 +7,7 @@ tags: ["minikleid", "kleid", "saumlänge", "silhouette"]
 keywords: ["minikleid", "was ist ein minikleid", "kurzes kleid"]
 glossar_order: "m"
 weight: 7
-image: "images/glossar/minikleid.svg"
+image: "images/glossar/minikleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Minikleid mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Kleid"

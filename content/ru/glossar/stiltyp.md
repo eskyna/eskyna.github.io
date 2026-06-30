@@ -7,7 +7,7 @@ tags: ["stil", "stiltyp"]
 keywords: ["stiltyp", "was bedeutet stiltyp", "stiltyp stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stiltyp.svg"
+image: "images/glossar/stiltyp.png"
 image_alt: "Editoriale Glossar-Grafik zu Stiltyp mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

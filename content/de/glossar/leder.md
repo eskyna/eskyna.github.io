@@ -7,7 +7,7 @@ tags: ["leder", "materialien"]
 keywords: ["leder", "was bedeutet leder", "leder stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/leder.svg"
+image: "images/glossar/leder.png"
 image_alt: "Editoriale Glossar-Grafik zu Leder mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

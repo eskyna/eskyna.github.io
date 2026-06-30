@@ -7,7 +7,7 @@ tags: ["materialien", "print"]
 keywords: ["print", "was bedeutet print", "print stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/print.svg"
+image: "images/glossar/print.png"
 image_alt: "Editoriale Glossar-Grafik zu Print mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

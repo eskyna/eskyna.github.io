@@ -7,7 +7,7 @@ tags: ["garderobe", "kurzblazer"]
 keywords: ["kurzblazer", "was bedeutet kurzblazer", "kurzblazer stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kurzblazer.svg"
+image: "images/glossar/kurzblazer.png"
 image_alt: "Editoriale Glossar-Grafik zu Kurzblazer mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"
