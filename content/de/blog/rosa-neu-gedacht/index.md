@@ -3,7 +3,7 @@ title: "Rosa kombinieren - 3 Looks"
 date: 2026-05-15
 description: "Rosa ist vielseitiger als viele denken. Entdecke, wie du Rosa modern, stilvoll und alltagstauglich kombinieren kannst."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."
-hero: "rosa-hero.avif"
+hero: "rosa-hero.png"
 readingTime: 5
 ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
 instagramHref: "https://www.instagram.com/p/DYR7JL1iobn/?img_index=1"
@@ -76,7 +76,7 @@ Wichtige Styling-Prinzipien:
 3. Kontrast: Dunkelbraun, Schwarz, Anthrazit oder Navy geben Rosa Tiefe und nehmen ihm das Süßliche.
 4. Platzierung: Wenn Rosa am Gesicht nicht ideal ist, funktioniert es oft besser als Hose, Tasche, Schuh oder Accessoire.
 
-![Übersicht von drei rosa Outfit-Kapseln](rosa-overview.avif)
+![Übersicht von drei rosa Outfit-Kapseln](rosa-overview.png)
 
 ## Drei Outfit-Kapseln
 
@@ -84,7 +84,7 @@ Wichtige Styling-Prinzipien:
 
 Charakter: Frisch · urban · unkompliziert
 
-![Sport-Chic Outfit mit rosa Jeans und Blazer](sport-chic.avif)
+![Sport-Chic Outfit mit rosa Jeans und Blazer](sport-chic.png)
 
 [Sport-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
 
@@ -94,7 +94,7 @@ Rosa wirkt hier unkompliziert und modern. Der graue Blazer bringt Struktur, Snea
 
 Charakter: Weich · feminin · zeitlos
 
-![Romantic-Chic Outfit mit floralem Rock und rosa Tasche](romantic-chic.avif)
+![Romantic-Chic Outfit mit floralem Rock und rosa Tasche](romantic-chic.png)
 
 [Romantic-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
 
@@ -104,7 +104,7 @@ Florale Details, helle Farben und leichte Formen zeigen die sanfte Seite von Ros
 
 Charakter: Stark · modern · souverän
 
-![Business-Chic Outfit mit rosa Hose und dunklem Blazer](business-chic.avif)
+![Business-Chic Outfit mit rosa Hose und dunklem Blazer](business-chic.png)
 
 [Business-Chic Outfit ansehen](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
 
