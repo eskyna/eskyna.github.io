@@ -7,7 +7,7 @@ set -e
 IMAGES_DIR="static/images"
 WEBP_QUALITY="${WEBP_QUALITY:-82}"
 AVIF_QUALITY="${AVIF_QUALITY:-56}"
-JOBS="${JOBS:-$(nproc 2>/dev/null || sysctl -n hw.ncpu 2>/dev/null || echo 4)}"
+JOBS="${JOBS:-$(( ($(nproc 2>/dev/null || sysctl -n hw.ncpu 2>/dev/null || echo 4)) * 2 ))}"
 
 # Large images that need responsive srcset variants (width in px)
 # Format: "path/to/image.png:w1,w2,w3"
@@ -25,19 +25,15 @@ webp_count=$(find "$IMAGES_DIR" -name "*.webp" 2>/dev/null | wc -l)
 avif_count=$(find "$IMAGES_DIR" -name "*.avif" 2>/dev/null | wc -l)
 
 if [ "$webp_count" -gt 0 ] && [ "$avif_count" -gt 0 ]; then
-  echo "✓ WebP/AVIF already converted ($webp_count WebP, $avif_count AVIF)"
   exit 0
 fi
 
-echo "Converting all PNG images to WebP and AVIF (${JOBS} parallel jobs)..."
+echo "Converting PNG images to WebP/AVIF..."
 
 png_count=$(find "$IMAGES_DIR" -name "*.png" | wc -l)
 if [ "$png_count" -eq 0 ]; then
-  echo "No PNG files found in $IMAGES_DIR"
   exit 0
 fi
-
-echo "Found $png_count PNG files"
 
 # Convert to WebP and AVIF in parallel using xargs
 # Both formats are processed concurrently for each image
@@ -70,11 +66,9 @@ if command -v cwebp >/dev/null 2>&1 && command -v avifenc >/dev/null 2>&1; then
       webp_out="${stem}-${w}.webp"
       avif_out="${stem}-${w}.avif"
       if [ ! -f "$webp_out" ]; then
-        echo "  Responsive WebP ${w}px: $png"
         cwebp -q "$WEBP_QUALITY" -resize "$w" 0 "$png" -o "$webp_out" 2>/dev/null || true
       fi
       if [ ! -f "$avif_out" ]; then
-        echo "  Responsive AVIF ${w}px: $png"
         avifenc -s 4 -c aom -q "$AVIF_QUALITY" --target-size "$w" 0 "$png" "$avif_out" 2>/dev/null || \
         avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif_out" 2>/dev/null || true
       fi
@@ -84,6 +78,4 @@ fi
 
 webp_final=$(find "$IMAGES_DIR" -name "*.webp" | wc -l)
 avif_final=$(find "$IMAGES_DIR" -name "*.avif" | wc -l)
-
-echo "✓ Conversion complete: $webp_final WebP, $avif_final AVIF"
 
