@@ -73,11 +73,37 @@
       {{- $stem := strings.TrimSuffix $ext $src -}}
       {{- $webpSrc := printf "%s.webp" $stem -}}
       {{- $avifSrc := printf "%s.avif" $stem -}}
-      <picture>
-        <source srcset="{{ $avifSrc | relURL }}" type="image/avif">
-        <source srcset="{{ $webpSrc | relURL }}" type="image/webp">
-        <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
-      </picture>
+
+      {{- /* Responsive srcset für Bilder mit generierten Größenvarianten */ -}}
+      {{- $responsiveWidths := slice 640 960 1200 1600 -}}
+      {{- $hasResponsive := false -}}
+      {{- /* Prüfe ob mindestens eine Responsive-Variante existiert */ -}}
+      {{- $testPath := printf "%s-%d.webp" $stem (index $responsiveWidths 0) -}}
+      {{- if (fileExists (printf "static/%s" $testPath)) -}}
+        {{- $hasResponsive = true -}}
+      {{- end -}}
+
+      {{- if $hasResponsive -}}
+        {{- $avifSrcset := slice -}}
+        {{- $webpSrcset := slice -}}
+        {{- range $responsiveWidths -}}
+          {{- $wAvif := printf "%s-%d.avif" $stem . -}}
+          {{- $wWebp := printf "%s-%d.webp" $stem . -}}
+          {{- $avifSrcset = $avifSrcset | append (printf "%s %dw" ($wAvif | relURL) .) -}}
+          {{- $webpSrcset = $webpSrcset | append (printf "%s %dw" ($wWebp | relURL) .) -}}
+        {{- end -}}
+        <picture>
+          <source srcset="{{ delimit $avifSrcset ", " }}" sizes="{{ $sizes }}" type="image/avif">
+          <source srcset="{{ delimit $webpSrcset ", " }}" sizes="{{ $sizes }}" type="image/webp">
+          <img src="{{ $avifSrc | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+        </picture>
+      {{- else -}}
+        <picture>
+          <source srcset="{{ $avifSrc | relURL }}" type="image/avif">
+          <source srcset="{{ $webpSrc | relURL }}" type="image/webp">
+          <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+        </picture>
+      {{- end -}}
     {{- end -}}
   {{- else -}}
     {{- /* Andere Formate (webp, avif, gif, svg): einfach anzeigen */ -}}
