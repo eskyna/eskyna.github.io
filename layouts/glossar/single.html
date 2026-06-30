@@ -36,19 +36,13 @@
           data-src="{{ . | relURL }}"
           data-alt="{{ $imageAlt | plainify }}"
         >
-          <img
-            class="glossar-hero-image"
-            src="{{ . | relURL }}"
-            alt="{{ $imageAlt | plainify }}"
-            decoding="async"
-            fetchpriority="high"
-          >
+          {{- partial "responsive-image.html" (dict "src" . "alt" $imageAlt "class" "glossar-hero-image" "decoding" "async" "fetchpriority" "high") -}}
         </button>
       </div>
 
       <dialog class="glossar-lightbox" id="glossar-lightbox" aria-modal="true" aria-label="{{ $imageAlt | plainify }}">
         <button class="glossar-lightbox-close" aria-label="Schließen">&times;</button>
-        <img class="glossar-lightbox-img" src="{{ . | relURL }}" alt="{{ $imageAlt | plainify }}">
+        {{- partial "responsive-image.html" (dict "src" . "alt" $imageAlt "class" "glossar-lightbox-img") -}}
       </dialog>
       {{ end }}
     </div>

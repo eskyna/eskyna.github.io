@@ -1,27 +1,86 @@
+{{- /*
+  Responsive Image Partial mit Hugo Image Processing
+  
+  Parameter:
+  - src: Bild-Pfad (relativ von /static oder /content)
+  - alt: Alt-Text (erforderlich)
+  - title: Title-Attribut (optional)
+  - sizes: CSS Media Query Sizes (optional, default: responsive)
+  - loading: lazy | eager (optional)
+  - class: CSS-Klasse (optional)
+  - decoding: async | auto (optional)
+  - fetchpriority: high | low | auto (optional)
+  - maxWidth: maximale Breite in px (optional)
+*/ -}}
+
 {{- $src := .src -}}
 {{- $alt := .alt | default "" -}}
 {{- $title := .title | default $alt -}}
 {{- $class := .class -}}
-{{- $loading := .loading -}}
+{{- $loading := .loading | default "lazy" -}}
 {{- $decoding := .decoding -}}
 {{- $fetchpriority := .fetchpriority -}}
-{{- $sizes := .sizes -}}
+{{- $sizes := .sizes | default "(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 1200px" -}}
 {{- $width := .width -}}
 {{- $height := .height -}}
+{{- $maxWidth := .maxWidth | default 1200 -}}
+
+{{- /* Externe URLs nicht verarbeiten */ -}}
 {{- $isAbsolute := or (hasPrefix $src "http://") (hasPrefix $src "https://") (hasPrefix $src "data:") -}}
-{{- $ext := lower (path.Ext $src) -}}
-{{- $isConvertible := and (not $isAbsolute) (or (eq $ext ".png") (eq $ext ".jpg") (eq $ext ".jpeg")) -}}
-{{- $base := replaceRE "\\.[^.]+$" "" $src -}}
-{{- $relativeSrc := replaceRE "^/" "" $src -}}
-{{- $relativeBase := replaceRE "\\.[^.]+$" "" $relativeSrc -}}
-{{- $hasAvif := fileExists (printf "static/%s.avif" $relativeBase) -}}
-{{- $hasWebp := fileExists (printf "static/%s.webp" $relativeBase) -}}
-{{- if and $isConvertible (or $hasAvif $hasWebp) -}}
-<picture>
-  {{- if $hasAvif -}}<source srcset="{{ printf "%s.avif" $base | relURL }}" type="image/avif"{{ with $sizes }} sizes="{{ . }}"{{ end }}>{{- end }}
-  {{- if $hasWebp -}}<source srcset="{{ printf "%s.webp" $base | relURL }}" type="image/webp"{{ with $sizes }} sizes="{{ . }}"{{ end }}>{{- end }}
-  <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
-</picture>
+
+{{- if $isAbsolute -}}
+  {{- /* Externe Bilder: einfach anzeigen */ -}}
+  <img src="{{ $src | safeURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }} width="{{ $width }}" height="{{ $height }}">
 {{- else -}}
-<img src="{{ if $isAbsolute }}{{ $src | safeURL }}{{ else }}{{ $src | relURL }}{{ end }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+  {{- /* Lokale Bilder */ -}}
+  {{- $ext := lower (path.Ext $src) -}}
+  {{- $isPNG := or (eq $ext ".png") (eq $ext ".jpg") (eq $ext ".jpeg") -}}
+
+  {{- if $isPNG -}}
+    {{- /* Versuche als Page Resource zu laden (für Content-Bilder) */ -}}
+    {{- $img := .Page.Resources.GetMatch $src -}}
+
+    {{- if $img -}}
+      {{- /* Generiere responsive Größen via Hugo Image Processing */ -}}
+      {{- $imgSizes := slice 320 640 960 1200 1600 2000 -}}
+      {{- $srcset := slice -}}
+      {{- $srcsetWebp := slice -}}
+      {{- $srcsetAvif := slice -}}
+      {{- $imgWidth := $img.Width -}}
+      {{- $imgHeight := $img.Height -}}
+
+      {{- range $imgSizes -}}
+        {{- if le . $imgWidth -}}
+          {{- $scaledHeight := math.Round (div (mul . $imgHeight) $imgWidth) -}}
+          {{- $resizeDim := printf "%dx%d" . (int $scaledHeight) -}}
+          {{- $png := $img.Resize $resizeDim -}}
+          {{- $srcset = $srcset | append (printf "%s %dw" $png.RelPermalink .) -}}
+          {{- $webp := $img.Resize (printf "%s webp" $resizeDim) -}}
+          {{- $srcsetWebp = $srcsetWebp | append (printf "%s %dw" $webp.RelPermalink .) -}}
+          {{- $avif := $img.Resize (printf "%s avif" $resizeDim) -}}
+          {{- $srcsetAvif = $srcsetAvif | append (printf "%s %dw" $avif.RelPermalink .) -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $pngFallback := $img.Resize (printf "%dx auto" $maxWidth) -}}
+      <picture>
+        <source srcset="{{ delimit $srcsetAvif ", " }}" sizes="{{ $sizes }}" type="image/avif">
+        <source srcset="{{ delimit $srcsetWebp ", " }}" sizes="{{ $sizes }}" type="image/webp">
+        <img src="{{ $pngFallback.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }} width="{{ $pngFallback.Width }}" height="{{ $pngFallback.Height }}">
+      </picture>
+    {{- else -}}
+      {{- /* Statisches Bild: nutze vorkonvertierte WebP/AVIF aus convert-images-build */ -}}
+      {{- $stem := strings.TrimSuffix $ext $src -}}
+      {{- $webpSrc := printf "%s.webp" $stem -}}
+      {{- $avifSrc := printf "%s.avif" $stem -}}
+      <picture>
+        <source srcset="{{ $avifSrc | relURL }}" type="image/avif">
+        <source srcset="{{ $webpSrc | relURL }}" type="image/webp">
+        <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+      </picture>
+    {{- end -}}
+  {{- else -}}
+    {{- /* Andere Formate (webp, avif, gif, svg): einfach anzeigen */ -}}
+    <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+  {{- end -}}
 {{- end -}}

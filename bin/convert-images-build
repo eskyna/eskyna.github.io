@@ -1,0 +1,57 @@
+#!/bin/bash
+# Convert all PNG images to WebP and AVIF during build
+# Output goes to static/ for Hugo to copy to public/
+
+set -e
+
+IMAGES_DIR="static/images"
+WEBP_QUALITY="${WEBP_QUALITY:-82}"
+AVIF_QUALITY="${AVIF_QUALITY:-56}"
+
+if [ ! -d "$IMAGES_DIR" ]; then
+  echo "Images directory not found: $IMAGES_DIR"
+  exit 1
+fi
+
+# Count existing conversions
+webp_count=$(find "$IMAGES_DIR" -name "*.webp" 2>/dev/null | wc -l)
+avif_count=$(find "$IMAGES_DIR" -name "*.avif" 2>/dev/null | wc -l)
+
+if [ "$webp_count" -gt 0 ] && [ "$avif_count" -gt 0 ]; then
+  echo "✓ WebP/AVIF already converted ($webp_count WebP, $avif_count AVIF)"
+  exit 0
+fi
+
+echo "Converting all PNG images to WebP and AVIF..."
+
+png_count=$(find "$IMAGES_DIR" -name "*.png" | wc -l)
+if [ "$png_count" -eq 0 ]; then
+  echo "No PNG files found in $IMAGES_DIR"
+  exit 0
+fi
+
+echo "Found $png_count PNG files"
+
+# Convert to WebP
+find "$IMAGES_DIR" -name "*.png" | while read png; do
+  webp="${png%.png}.webp"
+  if [ ! -f "$webp" ]; then
+    echo "  Converting to WebP: $png"
+    cwebp -q "$WEBP_QUALITY" "$png" -o "$webp" 2>/dev/null || true
+  fi
+done
+
+# Convert to AVIF
+find "$IMAGES_DIR" -name "*.png" | while read png; do
+  avif="${png%.png}.avif"
+  if [ ! -f "$avif" ]; then
+    echo "  Converting to AVIF: $png"
+    avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif" 2>/dev/null || true
+  fi
+done
+
+webp_final=$(find "$IMAGES_DIR" -name "*.webp" | wc -l)
+avif_final=$(find "$IMAGES_DIR" -name "*.avif" | wc -l)
+
+echo "✓ Conversion complete: $webp_final WebP, $avif_final AVIF"
+

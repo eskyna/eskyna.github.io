@@ -7,3 +7,6 @@ preview
 **/__pycache__
 test-results/
 .secret*
+# Generated image formats (build-time only) - only PNGs in repo
+static/images/**/*.webp
+static/images/**/*.avif

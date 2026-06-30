@@ -17,9 +17,6 @@ fi
 
 cd "$ROOT_DIR"
 
-echo "==> Convert images..."
-./bin/convert-images
-
 echo "==> Check local assets..."
 HUGO_PORT="$(python3 - <<'PY'
 import socket

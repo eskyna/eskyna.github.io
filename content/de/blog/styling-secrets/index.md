@@ -4,7 +4,7 @@ seoTitle: "Styling Secrets Wirkung"
 date: 2026-05-21
 description: "Styling ist mehr als Mode. Erfahre, wie Kleidung, Farben, Passform und persönliche Signatur deine Ausstrahlung stärken - wissenschaftlich fundiert und alltagstauglich."
 summary: "Warum Wirkung kein Zufall ist und wie du sie mit Klarheit, Passform, Farbe und Signature-Look gezielt gestalten kannst."
-hero: "styling_secrets.png"
+hero: "secrets.png"
 category: "Stil & Wirkung"
 readingTime: 8
 instagramHref: "https://www.instagram.com/p/DYg0QTuKc6z/"
