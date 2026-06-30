@@ -154,7 +154,7 @@
           <p class="coach-mission-sub">{{ . }}</p>
           {{ end }}
         </blockquote>
-        <img src="{{ "images/signature.png" | relURL }}" alt="{{ $coachSignatureAlt }}" class="coach-signature" loading="lazy" width="220" height="78">
+        {{ partial "responsive-image.html" (dict "src" "images/signature.png" "alt" $coachSignatureAlt "class" "coach-signature" "loading" "lazy" "width" 220 "height" 78) }}
         <p class="coach-signoff">
           <strong>{{ $coachSignatureName }}</strong>
           <span>{{ $coachSignatureRole }}</span>
