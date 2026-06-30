@@ -1603,7 +1603,11 @@ h1 {
   align-items: center;
   min-height: 96px;
   padding: 1.05rem 1.15rem;
-  background-image: url("../images/benefits/preisetikett.png");
+  background-image: image-set(
+    url("../images/benefits/preisetikett.avif") type("image/avif"),
+    url("../images/benefits/preisetikett.webp") type("image/webp"),
+    url("../images/benefits/preisetikett.png") type("image/png")
+  );
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
@@ -7020,7 +7024,11 @@ main .hero .hero-headline-line {
 .glossar-list-hero {
   background-image:
     linear-gradient(135deg, rgb(249 246 240 / 75%) 0%, rgb(227 213 200 / 65%) 100%),
-    url("/images/backgrounds/sections/problems.png");
+    image-set(
+      url("/images/backgrounds/sections/problems.avif") type("image/avif"),
+      url("/images/backgrounds/sections/problems.webp") type("image/webp"),
+      url("/images/backgrounds/sections/problems.png") type("image/png")
+    );
   background-size: auto, cover;
   background-position: center;
   background-attachment: scroll;
@@ -7129,7 +7137,11 @@ main .hero .hero-headline-line {
   padding: clamp(2.5rem, 8vw, 4.5rem) 0;
   background-image:
     linear-gradient(135deg, rgb(249 246 240 / 78%) 0%, rgb(243 235 226 / 70%) 100%),
-    url("/images/backgrounds/sections/problems.png");
+    image-set(
+      url("/images/backgrounds/sections/problems.avif") type("image/avif"),
+      url("/images/backgrounds/sections/problems.webp") type("image/webp"),
+      url("/images/backgrounds/sections/problems.png") type("image/png")
+    );
   background-size: auto, cover;
   background-position: center;
   background-attachment: scroll;
