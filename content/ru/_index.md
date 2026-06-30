@@ -28,7 +28,7 @@ hero:
     title: Бесплатно и без обязательств
     lead: Мы вместе посмотрим на ваши вопросы по стилю, пожелания и возможные следующие шаги.
     text: Вы получите первое ощущение, подходит ли вам ESKYNA. 25 минут времени с полным фокусом на вас.
-  image: images/Natalia_white_hero.png
+  image: images/natalia_white_hero.png
 problems:
   title: Узнаете себя в этом?
   items:
@@ -99,7 +99,7 @@ coach:
   text: Я помогаю вам решать эти задачи точно и со вкусом.
   buttonText: Бесплатная первая консультация
   buttonHref: https://calendar.app.google/sPZWYZT6vfK9NMim7
-  image: images/natalia.PNG
+  image: images/natalia.png
 facts:
   title: Немного фактов обо мне
   items:

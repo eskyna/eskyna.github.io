@@ -10,6 +10,11 @@ fi
 
 cd "$ROOT_DIR"
 
+# Konvertiere PNGs aus /static zu WebP/AVIF (für statische Assets)
+# Hugo Image Processing wird für Content-Bilder genutzt
+echo "Preparing static image formats (WebP/AVIF)..."
+bash ./bin/convert-images-build
+
 echo "Running production Hugo build..."
 if [[ -n "${HUGO_BASEURL:-}" ]]; then
   HUGO_ENVIRONMENT="${HUGO_ENVIRONMENT:-production}" \

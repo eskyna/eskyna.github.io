@@ -20,7 +20,7 @@ hero:
     title: "Kostenlos & unverbindlich"
     lead: "Wir schauen gemeinsam auf deine Stilfragen, deine Wünsche und mögliche nächste Schritte."
     text: "Du bekommst ein erstes Gefühl dafür, ob ESKYNA zu dir passt. 25 Minuten Zeit mit dem vollen Fokus auf dir."
-  image: "images/Natalia_white_hero.png"
+  image: "images/natalia_white_hero.png"
 problems:
   title: "Erkennst du dich hier wieder?"
   items:
@@ -89,7 +89,7 @@ coach:
   text: "Ich helfe dir dabei, diese Herausforderungen gezielt und stilvoll zu lösen."
   buttonText: "Kostenloses Erstgespräch"
   buttonHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-  image: "images/natalia.PNG"
+  image: "images/natalia.png"
 facts:
   title: "Ein paar Fakten über mich"
   items:

@@ -9,14 +9,14 @@ services:
         subheading: Для людей, которые вам дороги
         text: Самый красивый подарок — это хорошее чувство наконец-то знать, что действительно подходит именно тебе.
         price: от 149 €
-        image: images/Gutschein.png
+        image: images/gutschein.png
         ctaText: Посмотреть сертификат ESKYNA
         ctaHref: /rus/gutschein/
       - title: Вопрос стилисту Наталии
         subheading: Вы не уверены?
         text: Иногда достаточно честного второго мнения. Задайте свой вопрос о стиле и принимайте уверенные решения при покупке, сочетании вещей и своем образе.
         price: от 49 €
-        image: images/Stilfrage.png
+        image: images/stilfrage.png
         ctaText: Задать вопрос о стиле
         ctaHref: /rus/stilfrage/
   packages:

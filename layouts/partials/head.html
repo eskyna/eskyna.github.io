@@ -6,7 +6,7 @@
 {{ $pageTitleHasSeparator := in $pageTitle " | " }}
 {{ $siteTitleSuffix := replace $siteTitle "ESKYNA | " "" }}
 {{ $pageTitleStartsWithBrand := hasPrefix $pageTitle "ESKYNA " }}
-{{ $shareImage := .Params.image | default "images/natalia.PNG" }}
+{{ $shareImage := .Params.image | default "images/natalia.png" }}
 {{ $shareImageAbs := $shareImage | absURL }}
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">

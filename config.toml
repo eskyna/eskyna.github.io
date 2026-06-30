@@ -44,6 +44,19 @@ title = "ESKYNA | Style & Image Coaching"
     commits = ""
     links_checked = ""
 
+[imaging]
+  # Qualität für JPEG und WebP
+  quality = 90
+  # Anzahl der Worker-Prozesse
+  hint = "picture"
+  bgColor = "#ffffff"
+
+[imaging.exif]
+  disableDate = false
+  disableLatLong = false
+  excludeFields = ""
+  includeFields = ""
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

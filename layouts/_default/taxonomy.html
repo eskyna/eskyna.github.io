@@ -25,20 +25,10 @@
             <article class="blog-post-card">
               {{ $heroName := or $post.Params.hero $post.Params.image }}
               {{ if $heroName }}
-                {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
-                {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
-                {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
-                {{ $png := $post.Resources.GetMatch (printf "%s.png" $stem) }}
                 {{ $orig := $post.Resources.GetMatch $heroName }}
-                {{ $fallback := or $png $orig }}
-                {{ with $fallback }}
+                {{ with $orig }}
                   <div class="blog-post-media" aria-hidden="true">
-                    <picture>
-                      {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
-                      {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
-                      {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
-                      <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy">
-                    </picture>
+                    <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy" decoding="async" width="{{ .Width }}" height="{{ .Height }}">
                   </div>
                 {{ end }}
               {{ end }}

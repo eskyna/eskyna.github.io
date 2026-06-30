@@ -51,20 +51,11 @@
         <article class="blog-featured-card{{ if $post.Params.featuredImageRight }} featured-media-right{{ end }}" data-blog-card data-blog-tags="{{ delimit $tagSlugs "," }}">
           {{ $heroName := or $post.Params.hero $post.Params.image }}
           {{ if $heroName }}
-            {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
-            {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
-            {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
-            {{ $png := $post.Resources.GetMatch (printf "%s.png" $stem) }}
             {{ $orig := $post.Resources.GetMatch $heroName }}
-            {{ $fallback := or $png $orig }}
-            {{ with $fallback }}
+            {{ with $orig }}
+              {{- /* Verwende Originalbilder für Featured Card */ -}}
               <a class="blog-featured-media" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}" aria-label="{{ $post.Title }}">
-                <picture>
-                  {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
-                  {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
-                  {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
-                  <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-featured-image" loading="eager">
-                </picture>
+                <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-featured-image" loading="eager" width="{{ .Width }}" height="{{ .Height }}" decoding="async">
               </a>
             {{ end }}
           {{ end }}
@@ -86,25 +77,16 @@
             {{ $tagSlugs := slice }}
             {{ with $post.Params.tags }}{{ range . }}{{ $tagSlugs = $tagSlugs | append (urlize .) }}{{ end }}{{ end }}
             <article class="blog-post-card" data-blog-card data-blog-tags="{{ delimit $tagSlugs "," }}">
-              {{ $heroName := or $post.Params.hero $post.Params.image }}
-              {{ if $heroName }}
-                {{ $stem := strings.TrimSuffix (path.Ext $heroName) $heroName }}
-                {{ $avif := $post.Resources.GetMatch (printf "%s.avif" $stem) }}
-                {{ $webp := $post.Resources.GetMatch (printf "%s.webp" $stem) }}
-                {{ $png := $post.Resources.GetMatch (printf "%s.png" $stem) }}
-                {{ $orig := $post.Resources.GetMatch $heroName }}
-                {{ $fallback := or $png $orig }}
-                {{ with $fallback }}
-                  <div class="blog-post-media" aria-hidden="true">
-                    <picture>
-                      {{ with $avif }}<source srcset="{{ .RelPermalink }}" type="image/avif">{{ end }}
-                      {{ with $webp }}<source srcset="{{ .RelPermalink }}" type="image/webp">{{ end }}
-                      {{ with $png }}<source srcset="{{ .RelPermalink }}" type="image/png">{{ end }}
-                      <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy">
-                    </picture>
-                  </div>
-                {{ end }}
-              {{ end }}
+          {{ $heroName := or $post.Params.hero $post.Params.image }}
+          {{ if $heroName }}
+            {{ $orig := $post.Resources.GetMatch $heroName }}
+            {{ with $orig }}
+              {{- /* Verwende Originalbilder (Responsive via Markdown renderer) */ -}}
+              <div class="blog-post-media" aria-hidden="true">
+                <img src="{{ .RelPermalink }}" alt="{{ $post.Title }}" class="blog-post-image" loading="lazy" width="{{ .Width }}" height="{{ .Height }}" decoding="async">
+              </div>
+            {{ end }}
+          {{ end }}
               <div class="blog-post-copy">
                 <p class="blog-post-date">{{ $post.Date | time.Format "2006-01-02" }} · {{ $postReadingTime }} {{ $readingTimeText }}</p>
                 <h2 class="blog-post-title"><a href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a></h2>
