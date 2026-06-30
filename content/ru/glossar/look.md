@@ -7,7 +7,7 @@ tags: ["look", "stil"]
 keywords: ["look", "was bedeutet look", "look stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/look.svg"
+image: "images/glossar/look.png"
 image_alt: "Editoriale Glossar-Grafik zu Look mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

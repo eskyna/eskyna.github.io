@@ -7,7 +7,7 @@ tags: ["garderobe", "parka"]
 keywords: ["parka", "was bedeutet parka", "parka stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/parka.svg"
+image: "images/glossar/parka.png"
 image_alt: "Editoriale Glossar-Grafik zu Parka mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

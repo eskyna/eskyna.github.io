@@ -7,7 +7,7 @@ tags: ["puffaermel", "schnitt proportion"]
 keywords: ["puffärmel", "was bedeutet puffärmel", "puffärmel stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/puffaermel.svg"
+image: "images/glossar/puffaermel.png"
 image_alt: "Editoriale Glossar-Grafik zu Puffärmel mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

@@ -7,7 +7,7 @@ tags: ["cocktail", "garderobe"]
 keywords: ["cocktail", "was bedeutet cocktail", "cocktail stilberatung"]
 glossar_order: "c"
 weight: 1
-image: "images/glossar/cocktail.svg"
+image: "images/glossar/cocktail.png"
 image_alt: "Editoriale Glossar-Grafik zu Cocktail mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Коктейльный стиль"

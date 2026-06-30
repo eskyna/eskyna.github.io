@@ -7,7 +7,7 @@ tags: ["viskose", "material", "stoff", "materialfall", "silhouette"]
 keywords: ["viskose", "was ist viskose", "viskose kleidung", "viskose stoff"]
 glossar_order: "v"
 weight: 3
-image: "images/glossar/viskose.svg"
+image: "images/glossar/viskose.png"
 image_alt: "Editoriale Grafik mit fließender Stoffbahn und weichen Linien für Viskose"
 relatedTerms:
   - title: "Materialfall"

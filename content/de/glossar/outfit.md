@@ -7,7 +7,7 @@ tags: ["outfit", "stil"]
 keywords: ["outfit", "was bedeutet outfit", "outfit stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/outfit.svg"
+image: "images/glossar/outfit.png"
 image_alt: "Editoriale Glossar-Grafik zu Outfit mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

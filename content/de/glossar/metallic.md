@@ -8,7 +8,7 @@ tags: ["metallic", "gold", "silber", "accessoire", "farbberatung"]
 keywords: ["metallic kleidung", "metallic kombinieren", "gold silber mode", "farbberatung"]
 glossar_order: "m"
 weight: 31
-image: "images/glossar/metallic.svg"
+image: "images/glossar/metallic.png"
 image_alt: "Editoriale Grafik zu Metallic mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Gold"

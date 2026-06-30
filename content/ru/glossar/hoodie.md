@@ -14,7 +14,7 @@ keywords:
   - "hoodie kombinieren"
 glossar_order: "h"
 weight: 5
-image: "images/glossar/hoodie.svg"
+image: "images/glossar/hoodie.png"
 image_alt: "Editoriale Grafik mit stilisiertem Hoodie, Kapuze und weicher Sweatstruktur"
 relatedTerms:
   - title: "Sweatshirt"

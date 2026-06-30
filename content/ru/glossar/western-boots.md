@@ -7,7 +7,7 @@ tags: ["western boots", "boots", "schuhe", "stilbruch"]
 keywords: ["western boots", "cowboy boots", "western stiefel"]
 glossar_order: "w"
 weight: 15
-image: "images/glossar/western-boots.svg"
+image: "images/glossar/western-boots.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Western Boots mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Statement-Piece"

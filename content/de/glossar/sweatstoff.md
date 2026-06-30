@@ -7,7 +7,7 @@ tags: ["materialien", "sweatstoff"]
 keywords: ["sweatstoff", "was bedeutet sweatstoff", "sweatstoff stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/sweatstoff.svg"
+image: "images/glossar/sweatstoff.png"
 image_alt: "Editoriale Glossar-Grafik zu Sweatstoff mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

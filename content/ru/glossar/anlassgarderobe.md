@@ -8,7 +8,7 @@ keywords:
   ["anlassgarderobe", "garderobe für anlässe", "outfits für anlässe", "kleiderschrank planen"]
 glossar_order: "a"
 weight: 15
-image: "images/glossar/anlassgarderobe.svg"
+image: "images/glossar/anlassgarderobe.png"
 image_alt: "Editoriale Grafik mit drei Outfit-Kapseln für Alltag, Business und Event"
 relatedTerms:
   - title: "Гардероб для торжественных случаев"

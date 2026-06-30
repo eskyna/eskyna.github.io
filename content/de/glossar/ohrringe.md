@@ -7,7 +7,7 @@ tags: ["materialien", "ohrringe"]
 keywords: ["ohrringe", "was bedeutet ohrringe", "ohrringe stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/ohrringe.svg"
+image: "images/glossar/ohrringe.png"
 image_alt: "Editoriale Glossar-Grafik zu Ohrringe mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

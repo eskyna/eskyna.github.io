@@ -7,7 +7,7 @@ tags: ["schnitt proportion", "schulterlinie"]
 keywords: ["schulterlinie", "was bedeutet schulterlinie", "schulterlinie stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/schulterlinie.svg"
+image: "images/glossar/schulterlinie.png"
 image_alt: "Editoriale Glossar-Grafik zu Schulterlinie mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

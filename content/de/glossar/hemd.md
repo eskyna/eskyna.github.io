@@ -7,7 +7,7 @@ tags: ["hemd", "oberteil", "business casual", "baumwolle", "passform"]
 keywords: ["hemd", "was ist ein hemd", "hemd kombinieren", "hemd passform"]
 glossar_order: "h"
 weight: 14
-image: "images/glossar/hemd.svg"
+image: "images/glossar/hemd.png"
 image_alt: "Editoriale Grafik mit stilisiertem Hemd, Kragen, Knopfleiste und ruhigen Farbfeldern"
 relatedTerms:
   - title: "Bluse"

@@ -7,7 +7,7 @@ tags: ["materialien", "reissverschluss"]
 keywords: ["reißverschluss", "was bedeutet reißverschluss", "reißverschluss stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/reissverschluss.svg"
+image: "images/glossar/reissverschluss.png"
 image_alt: "Editoriale Glossar-Grafik zu Reißverschluss mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["schnitt proportion", "volumen"]
 keywords: ["volumen", "was bedeutet volumen", "volumen stilberatung"]
 glossar_order: "v"
 weight: 1
-image: "images/glossar/volumen.svg"
+image: "images/glossar/volumen.png"
 image_alt: "Editoriale Glossar-Grafik zu Volumen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

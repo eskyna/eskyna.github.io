@@ -7,7 +7,7 @@ tags: ["knopfleiste", "materialien"]
 keywords: ["knopfleiste", "was bedeutet knopfleiste", "knopfleiste stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/knopfleiste.svg"
+image: "images/glossar/knopfleiste.png"
 image_alt: "Editoriale Glossar-Grafik zu Knopfleiste mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

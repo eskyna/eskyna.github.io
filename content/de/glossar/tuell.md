@@ -7,7 +7,7 @@ tags: ["materialien", "tuell"]
 keywords: ["tüll", "was bedeutet tüll", "tüll stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/tuell.svg"
+image: "images/glossar/tuell.png"
 image_alt: "Editoriale Glossar-Grafik zu Tüll mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

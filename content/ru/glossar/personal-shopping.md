@@ -7,7 +7,7 @@ tags: ["personal shopping", "stil"]
 keywords: ["personal shopping", "was bedeutet personal shopping", "personal shopping stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/personal-shopping.svg"
+image: "images/glossar/personal-shopping.png"
 image_alt: "Editoriale Glossar-Grafik zu Personal Shopping mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

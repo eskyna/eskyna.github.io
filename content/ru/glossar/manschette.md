@@ -7,7 +7,7 @@ tags: ["manschette", "schnitt proportion"]
 keywords: ["manschette", "was bedeutet manschette", "manschette stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/manschette.svg"
+image: "images/glossar/manschette.png"
 image_alt: "Editoriale Glossar-Grafik zu Manschette mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

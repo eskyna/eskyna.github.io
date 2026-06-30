@@ -7,7 +7,7 @@ tags: ["cocktailkleid", "kleid", "dresscode", "abend"]
 keywords: ["cocktailkleid", "was ist ein cocktailkleid", "dresscode cocktail"]
 glossar_order: "c"
 weight: 9
-image: "images/glossar/cocktailkleid.svg"
+image: "images/glossar/cocktailkleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Cocktailkleid mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Коктейльное платье"

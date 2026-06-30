@@ -7,7 +7,7 @@ tags: ["garderobe", "hochzeit als gast"]
 keywords: ["hochzeit als gast", "was bedeutet hochzeit als gast", "hochzeit als gast stilberatung"]
 glossar_order: "h"
 weight: 1
-image: "images/glossar/hochzeit-als-gast.svg"
+image: "images/glossar/hochzeit-als-gast.png"
 image_alt: "Editoriale Glossar-Grafik zu Hochzeit als Gast mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

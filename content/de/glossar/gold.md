@@ -8,7 +8,7 @@ tags: ["gold", "metallic", "farbe", "accessoire", "farbberatung"]
 keywords: ["gold kleidung", "gold kombinieren", "goldschmuck farbberatung", "metallic"]
 glossar_order: "g"
 weight: 32
-image: "images/glossar/gold.svg"
+image: "images/glossar/gold.png"
 image_alt: "Editoriale Grafik zu Gold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Feinschmuck"

@@ -7,7 +7,7 @@ tags: ["stil", "stilentscheidung"]
 keywords: ["stilentscheidung", "was bedeutet stilentscheidung", "stilentscheidung stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stilentscheidung.svg"
+image: "images/glossar/stilentscheidung.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilentscheidung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

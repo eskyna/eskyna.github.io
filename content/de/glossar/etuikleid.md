@@ -14,7 +14,7 @@ keywords:
   - "etuikleid kombinieren"
 glossar_order: "e"
 weight: 5
-image: "images/glossar/etuikleid.svg"
+image: "images/glossar/etuikleid.png"
 image_alt: "Editoriale Grafik mit stilisiertem Etuikleid, klarer schmaler Linie und ruhiger Fläche"
 relatedTerms:
   - title: "Business Casual"

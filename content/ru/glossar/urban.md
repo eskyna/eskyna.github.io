@@ -7,7 +7,7 @@ tags: ["stil", "urban"]
 keywords: ["urban", "was bedeutet urban", "urban stilberatung"]
 glossar_order: "u"
 weight: 1
-image: "images/glossar/urban.svg"
+image: "images/glossar/urban.png"
 image_alt: "Editoriale Glossar-Grafik zu Urban mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

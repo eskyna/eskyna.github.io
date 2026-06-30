@@ -7,7 +7,7 @@ tags: ["stil", "wirkungsprofil"]
 keywords: ["wirkungsprofil", "was bedeutet wirkungsprofil", "wirkungsprofil stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/wirkungsprofil.svg"
+image: "images/glossar/wirkungsprofil.png"
 image_alt: "Editoriale Glossar-Grafik zu Wirkungsprofil mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

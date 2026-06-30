@@ -7,7 +7,7 @@ tags: ["stil", "typberatung"]
 keywords: ["typberatung", "was bedeutet typberatung", "typberatung stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/typberatung.svg"
+image: "images/glossar/typberatung.png"
 image_alt: "Editoriale Glossar-Grafik zu Typberatung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

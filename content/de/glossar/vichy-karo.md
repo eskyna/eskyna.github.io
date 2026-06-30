@@ -7,7 +7,7 @@ tags: ["materialien", "vichy karo"]
 keywords: ["vichy-karo", "was bedeutet vichy-karo", "vichy-karo stilberatung"]
 glossar_order: "v"
 weight: 1
-image: "images/glossar/vichy-karo.svg"
+image: "images/glossar/vichy-karo.png"
 image_alt: "Editoriale Glossar-Grafik zu Vichy-Karo mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

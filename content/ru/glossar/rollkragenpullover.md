@@ -8,7 +8,7 @@ keywords:
   ["rollkragenpullover", "was bedeutet rollkragenpullover", "rollkragenpullover stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/rollkragenpullover.svg"
+image: "images/glossar/rollkragenpullover.png"
 image_alt: "Editoriale Glossar-Grafik zu Rollkragenpullover mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

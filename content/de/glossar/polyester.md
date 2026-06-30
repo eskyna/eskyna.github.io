@@ -7,7 +7,7 @@ tags: ["materialien", "polyester"]
 keywords: ["polyester", "was bedeutet polyester", "polyester stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/polyester.svg"
+image: "images/glossar/polyester.png"
 image_alt: "Editoriale Glossar-Grafik zu Polyester mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

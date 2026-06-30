@@ -7,7 +7,7 @@ tags: ["materialien", "ton in ton muster"]
 keywords: ["ton-in-ton-muster", "was bedeutet ton-in-ton-muster", "ton-in-ton-muster stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/ton-in-ton-muster.svg"
+image: "images/glossar/ton-in-ton-muster.png"
 image_alt: "Editoriale Glossar-Grafik zu Ton-in-Ton-Muster mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

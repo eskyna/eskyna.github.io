@@ -8,7 +8,7 @@ keywords:
   ["kleiderschrank-detox", "was bedeutet kleiderschrank-detox", "kleiderschrank-detox stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kleiderschrank-detox.svg"
+image: "images/glossar/kleiderschrank-detox.png"
 image_alt: "Editoriale Glossar-Grafik zu Kleiderschrank-Detox mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

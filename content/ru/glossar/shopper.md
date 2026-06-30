@@ -7,7 +7,7 @@ tags: ["shopper", "tasche", "accessoire", "alltag", "garderobe"]
 keywords: ["shopper", "was ist ein shopper", "shopper tasche"]
 glossar_order: "s"
 weight: 11
-image: "images/glossar/shopper.svg"
+image: "images/glossar/shopper.png"
 image_alt: "Editoriale Grafik zu Shopper mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
 relatedTerms:
   - title: "Tote Bag"

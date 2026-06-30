@@ -7,7 +7,7 @@ tags: ["garderobe", "zehenkappe"]
 keywords: ["zehenkappe", "was bedeutet zehenkappe", "zehenkappe stilberatung"]
 glossar_order: "z"
 weight: 1
-image: "images/glossar/zehenkappe.svg"
+image: "images/glossar/zehenkappe.png"
 image_alt: "Editoriale Glossar-Grafik zu Zehenkappe mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

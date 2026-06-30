@@ -7,7 +7,7 @@ tags: ["daunenjacke", "garderobe"]
 keywords: ["daunenjacke", "was bedeutet daunenjacke", "daunenjacke stilberatung"]
 glossar_order: "d"
 weight: 1
-image: "images/glossar/daunenjacke.svg"
+image: "images/glossar/daunenjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Daunenjacke mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Пуховик: теплая куртка"

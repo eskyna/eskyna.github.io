@@ -7,7 +7,7 @@ tags: ["femininer stil", "stil"]
 keywords: ["femininer stil", "was bedeutet femininer stil", "femininer stil stilberatung"]
 glossar_order: "f"
 weight: 1
-image: "images/glossar/femininer-stil.svg"
+image: "images/glossar/femininer-stil.png"
 image_alt: "Editoriale Glossar-Grafik zu Femininer Stil mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

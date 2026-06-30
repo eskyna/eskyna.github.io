@@ -7,7 +7,7 @@ tags: ["materialien", "pflegeetikett"]
 keywords: ["pflegeetikett", "was bedeutet pflegeetikett", "pflegeetikett stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/pflegeetikett.svg"
+image: "images/glossar/pflegeetikett.png"
 image_alt: "Editoriale Glossar-Grafik zu Pflegeetikett mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

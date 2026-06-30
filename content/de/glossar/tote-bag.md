@@ -7,7 +7,7 @@ tags: ["tote bag", "tasche", "accessoire", "garderobe", "alltag"]
 keywords: ["tote bag", "was ist eine tote bag", "tote bag kombinieren"]
 glossar_order: "t"
 weight: 10
-image: "images/glossar/tote-bag.svg"
+image: "images/glossar/tote-bag.png"
 image_alt: "Editoriale Grafik zu Tote Bag mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
 relatedTerms:
   - title: "Accessoire"

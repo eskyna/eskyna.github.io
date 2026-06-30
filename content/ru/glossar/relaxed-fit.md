@@ -7,7 +7,7 @@ tags: ["relaxed fit", "schnitt proportion"]
 keywords: ["relaxed fit", "was bedeutet relaxed fit", "relaxed fit stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/relaxed-fit.svg"
+image: "images/glossar/relaxed-fit.png"
 image_alt: "Editoriale Glossar-Grafik zu Relaxed Fit mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

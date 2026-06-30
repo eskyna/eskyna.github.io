@@ -7,7 +7,7 @@ tags: ["mid waist", "schnitt proportion"]
 keywords: ["mid waist", "was bedeutet mid waist", "mid waist stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/mid-waist.svg"
+image: "images/glossar/mid-waist.png"
 image_alt: "Editoriale Glossar-Grafik zu Mid Waist mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

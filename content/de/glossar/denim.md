@@ -7,7 +7,7 @@ tags: ["denim", "jeans", "baumwolle", "material", "casual"]
 keywords: ["denim", "was ist denim", "denim stoff", "jeansstoff"]
 glossar_order: "d"
 weight: 5
-image: "images/glossar/denim.svg"
+image: "images/glossar/denim.png"
 image_alt: "Editoriale Grafik mit Denimstruktur, Jeanstasche und blauen Stoffflächen"
 relatedTerms:
   - title: "Jeans"

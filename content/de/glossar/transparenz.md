@@ -7,7 +7,7 @@ tags: ["materialien", "transparenz"]
 keywords: ["transparenz", "was bedeutet transparenz", "transparenz stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/transparenz.svg"
+image: "images/glossar/transparenz.png"
 image_alt: "Editoriale Glossar-Grafik zu Transparenz mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

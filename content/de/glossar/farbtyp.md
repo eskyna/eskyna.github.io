@@ -7,7 +7,7 @@ tags: ["farbtyp", "farbberatung", "farben", "farbharmonie"]
 keywords: ["farbtyp", "farbberatung", "farben", "stilberatung"]
 glossar_order: "f"
 weight: 1
-image: "images/glossar/farbtyp.svg"
+image: "images/glossar/farbtyp.png"
 image_alt: "Editoriale Grafik mit Farbfeldern für Farbtyp und Farbharmonie"
 relatedTerms:
   - title: "Gesichtsrahmung"

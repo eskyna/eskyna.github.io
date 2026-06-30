@@ -7,7 +7,7 @@ tags: ["black tie", "garderobe"]
 keywords: ["black tie", "was bedeutet black tie", "black tie stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/black-tie.svg"
+image: "images/glossar/black-tie.png"
 image_alt: "Editoriale Glossar-Grafik zu Black Tie mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Black Tie: самый формальный дресс-код"

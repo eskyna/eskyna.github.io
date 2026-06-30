@@ -7,7 +7,7 @@ tags: ["materialien", "ruesche"]
 keywords: ["rüsche", "was bedeutet rüsche", "rüsche stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/ruesche.svg"
+image: "images/glossar/ruesche.png"
 image_alt: "Editoriale Glossar-Grafik zu Rüsche mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

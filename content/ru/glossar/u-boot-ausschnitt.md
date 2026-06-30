@@ -7,7 +7,7 @@ tags: ["materialien", "u boot ausschnitt"]
 keywords: ["u-boot-ausschnitt", "was bedeutet u-boot-ausschnitt", "u-boot-ausschnitt stilberatung"]
 glossar_order: "u"
 weight: 1
-image: "images/glossar/u-boot-ausschnitt.svg"
+image: "images/glossar/u-boot-ausschnitt.png"
 image_alt: "Editoriale Glossar-Grafik zu U-Boot-Ausschnitt mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

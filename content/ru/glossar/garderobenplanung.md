@@ -7,7 +7,7 @@ tags: ["garderobenplanung", "stil"]
 keywords: ["garderobenplanung", "was bedeutet garderobenplanung", "garderobenplanung stilberatung"]
 glossar_order: "g"
 weight: 1
-image: "images/glossar/garderobenplanung.svg"
+image: "images/glossar/garderobenplanung.png"
 image_alt: "Editoriale Glossar-Grafik zu Garderobenplanung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

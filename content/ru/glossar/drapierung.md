@@ -7,7 +7,7 @@ tags: ["drapierung", "materialien"]
 keywords: ["drapierung", "was bedeutet drapierung", "drapierung stilberatung"]
 glossar_order: "d"
 weight: 1
-image: "images/glossar/drapierung.svg"
+image: "images/glossar/drapierung.png"
 image_alt: "Editoriale Glossar-Grafik zu Drapierung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Драпировка в дизайне"

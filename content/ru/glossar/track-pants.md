@@ -14,7 +14,7 @@ keywords:
   - "track pants kombinieren"
 glossar_order: "t"
 weight: 5
-image: "images/glossar/track-pants.svg"
+image: "images/glossar/track-pants.png"
 image_alt: "Editoriale Grafik zu Track Pants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Stilbruch"

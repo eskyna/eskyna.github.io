@@ -7,7 +7,7 @@ tags: ["bustier", "materialien"]
 keywords: ["bustier", "was bedeutet bustier", "bustier stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/bustier.svg"
+image: "images/glossar/bustier.png"
 image_alt: "Editoriale Glossar-Grafik zu Bustier mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Бюстье в гардеробе"

@@ -7,7 +7,7 @@ tags: ["materialfall", "stoff", "material", "qualität", "silhouette"]
 keywords: ["materialfall", "stoff fällt", "kleidung materialfall", "stoffwirkung"]
 glossar_order: "m"
 weight: 20
-image: "images/glossar/materialfall.svg"
+image: "images/glossar/materialfall.png"
 image_alt: "Editoriale Grafik mit fließendem Stoff, klarer Stoffkante und ruhigen Materialflächen"
 relatedTerms:
   - title: "Viskose"

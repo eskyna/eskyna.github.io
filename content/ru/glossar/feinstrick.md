@@ -7,7 +7,7 @@ tags: ["feinstrick", "materialien"]
 keywords: ["feinstrick", "was bedeutet feinstrick", "feinstrick stilberatung"]
 glossar_order: "f"
 weight: 1
-image: "images/glossar/feinstrick.svg"
+image: "images/glossar/feinstrick.png"
 image_alt: "Editoriale Glossar-Grafik zu Feinstrick mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

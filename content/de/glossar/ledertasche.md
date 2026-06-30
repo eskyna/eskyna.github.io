@@ -7,7 +7,7 @@ tags: ["ledertasche", "materialien"]
 keywords: ["ledertasche", "was bedeutet ledertasche", "ledertasche stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/ledertasche.svg"
+image: "images/glossar/ledertasche.png"
 image_alt: "Editoriale Glossar-Grafik zu Ledertasche mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

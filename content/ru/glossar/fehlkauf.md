@@ -8,7 +8,7 @@ keywords:
   ["fehlkauf kleidung", "fehlkäufe vermeiden", "kleiderschrank fehlkauf", "bewusst einkaufen"]
 glossar_order: "f"
 weight: 9
-image: "images/glossar/fehlkauf.svg"
+image: "images/glossar/fehlkauf.png"
 image_alt: "Editoriale Grafik mit leerem Kleiderbügel, markiertem Etikett und ruhiger Garderobenstruktur"
 relatedTerms:
   - title: "Как избежать ошибок покупок"

@@ -7,7 +7,7 @@ tags: ["parisian chic", "stil"]
 keywords: ["parisian chic", "was bedeutet parisian chic", "parisian chic stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/parisian-chic.svg"
+image: "images/glossar/parisian-chic.png"
 image_alt: "Editoriale Glossar-Grafik zu Parisian Chic mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

@@ -8,7 +8,7 @@ tags: ["orange", "farbe", "farbberatung", "warme farben"]
 keywords: ["orange kleidung", "orange kombinieren", "orange farbberatung", "warme farben"]
 glossar_order: "o"
 weight: 16
-image: "images/glossar/orange.svg"
+image: "images/glossar/orange.png"
 image_alt: "Editoriale Grafik mit Orange-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:
   - title: "Rot"

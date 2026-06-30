@@ -7,7 +7,7 @@ tags: ["sportlich", "stil"]
 keywords: ["sportlich", "was bedeutet sportlich", "sportlich stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/sportlich.svg"
+image: "images/glossar/sportlich.png"
 image_alt: "Editoriale Glossar-Grafik zu Sportlich mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

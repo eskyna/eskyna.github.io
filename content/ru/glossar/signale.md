@@ -7,7 +7,7 @@ tags: ["signale", "stil"]
 keywords: ["signale", "was bedeutet signale", "signale stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/signale.svg"
+image: "images/glossar/signale.png"
 image_alt: "Editoriale Glossar-Grafik zu Signale mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

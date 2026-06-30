@@ -7,7 +7,7 @@ tags: ["laessig", "stil"]
 keywords: ["lässig", "was bedeutet lässig", "lässig stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/laessig.svg"
+image: "images/glossar/laessig.png"
 image_alt: "Editoriale Glossar-Grafik zu Lässig mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

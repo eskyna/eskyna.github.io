@@ -7,7 +7,7 @@ tags: ["o linie", "schnitt proportion"]
 keywords: ["o-linie", "was bedeutet o-linie", "o-linie stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/o-linie.svg"
+image: "images/glossar/o-linie.png"
 image_alt: "Editoriale Glossar-Grafik zu O-Linie mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

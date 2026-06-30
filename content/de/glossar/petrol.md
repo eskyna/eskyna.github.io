@@ -8,7 +8,7 @@ tags: ["petrol", "blaugruen", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["petrol kleidung", "petrol kombinieren", "petrol farbe", "farbberatung"]
 glossar_order: "p"
 weight: 22
-image: "images/glossar/petrol.svg"
+image: "images/glossar/petrol.png"
 image_alt: "Editoriale Grafik zu Petrol mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Türkis"

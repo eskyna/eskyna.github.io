@@ -7,7 +7,7 @@ tags: ["materialien", "raffung"]
 keywords: ["raffung", "was bedeutet raffung", "raffung stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/raffung.svg"
+image: "images/glossar/raffung.png"
 image_alt: "Editoriale Glossar-Grafik zu Raffung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

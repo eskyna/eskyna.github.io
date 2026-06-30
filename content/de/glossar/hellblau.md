@@ -8,7 +8,7 @@ tags: ["hellblau", "blau", "farbe", "farbberatung", "business"]
 keywords: ["hellblau kleidung", "hellblau kombinieren", "hellblaue bluse", "farbberatung"]
 glossar_order: "h"
 weight: 20
-image: "images/glossar/hellblau.svg"
+image: "images/glossar/hellblau.png"
 image_alt: "Editoriale Grafik zu Hellblau mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Blau"

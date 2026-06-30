@@ -7,7 +7,7 @@ tags: ["loose fit", "schnitt proportion"]
 keywords: ["loose fit", "was bedeutet loose fit", "loose fit stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/loose-fit.svg"
+image: "images/glossar/loose-fit.png"
 image_alt: "Editoriale Glossar-Grafik zu Loose Fit mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

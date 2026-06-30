@@ -7,7 +7,7 @@ tags: ["essenz", "stil"]
 keywords: ["essenz", "was bedeutet essenz", "essenz stilberatung"]
 glossar_order: "e"
 weight: 1
-image: "images/glossar/essenz.svg"
+image: "images/glossar/essenz.png"
 image_alt: "Editoriale Glossar-Grafik zu Essenz mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Сущность стиля"

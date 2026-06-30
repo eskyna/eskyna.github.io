@@ -7,7 +7,7 @@ tags: ["materialien", "pilling"]
 keywords: ["pilling", "was bedeutet pilling", "pilling stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/pilling.svg"
+image: "images/glossar/pilling.png"
 image_alt: "Editoriale Glossar-Grafik zu Pilling mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

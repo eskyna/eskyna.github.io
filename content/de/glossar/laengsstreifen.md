@@ -7,7 +7,7 @@ tags: ["laengsstreifen", "materialien"]
 keywords: ["längsstreifen", "was bedeutet längsstreifen", "längsstreifen stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/laengsstreifen.svg"
+image: "images/glossar/laengsstreifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Längsstreifen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

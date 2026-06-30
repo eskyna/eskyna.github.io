@@ -7,7 +7,7 @@ tags: ["materialien", "naht"]
 keywords: ["naht", "was bedeutet naht", "naht stilberatung"]
 glossar_order: "n"
 weight: 1
-image: "images/glossar/naht.svg"
+image: "images/glossar/naht.png"
 image_alt: "Editoriale Glossar-Grafik zu Naht mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["business formal", "garderobe"]
 keywords: ["business formal", "was bedeutet business formal", "business formal stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/business-formal.svg"
+image: "images/glossar/business-formal.png"
 image_alt: "Editoriale Glossar-Grafik zu Business Formal mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

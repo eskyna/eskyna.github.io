@@ -7,7 +7,7 @@ tags: ["materialien", "spitze"]
 keywords: ["spitze", "was bedeutet spitze", "spitze stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/spitze.svg"
+image: "images/glossar/spitze.png"
 image_alt: "Editoriale Glossar-Grafik zu Spitze mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

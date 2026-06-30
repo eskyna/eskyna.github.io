@@ -7,7 +7,7 @@ tags: ["outfit analyse", "stil"]
 keywords: ["outfit-analyse", "was bedeutet outfit-analyse", "outfit-analyse stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/outfit-analyse.svg"
+image: "images/glossar/outfit-analyse.png"
 image_alt: "Editoriale Glossar-Grafik zu Outfit-Analyse mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

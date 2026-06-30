@@ -7,7 +7,7 @@ tags: ["bubikragen", "materialien"]
 keywords: ["bubikragen", "was bedeutet bubikragen", "bubikragen stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/bubikragen.svg"
+image: "images/glossar/bubikragen.png"
 image_alt: "Editoriale Glossar-Grafik zu Bubikragen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Воротник-пузырь: объёмная деталь"

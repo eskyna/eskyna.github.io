@@ -7,7 +7,7 @@ tags: ["statement-piece", "stil", "accessoires", "wirkung"]
 keywords: ["statement-piece", "statement teil", "stilbruch", "outfit akzent"]
 glossar_order: "s"
 weight: 4
-image: "images/glossar/statement-piece.svg"
+image: "images/glossar/statement-piece.png"
 image_alt: "Editoriale Grafik mit ruhigen neutralen Flächen und einem klaren Akzent als Symbol für ein Statement-Piece"
 relatedTerms:
   - title: "Statement-Schmuck"

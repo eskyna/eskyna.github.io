@@ -14,7 +14,7 @@ keywords:
   - "stiefeletten kombinieren"
 glossar_order: "s"
 weight: 5
-image: "images/glossar/stiefelette.svg"
+image: "images/glossar/stiefelette.png"
 image_alt: "Editoriale Grafik zu Stiefelette mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Chelsea Boots"

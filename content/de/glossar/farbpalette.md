@@ -8,7 +8,7 @@ keywords:
   ["farbpalette garderobe", "farbpalette erstellen", "farben kombinieren", "stilberatung farben"]
 glossar_order: "f"
 weight: 25
-image: "images/glossar/farbpalette.svg"
+image: "images/glossar/farbpalette.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Farbpalette mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:
   - title: "Farbtyp"

@@ -7,7 +7,7 @@ tags: ["garderobe", "reisegarderobe"]
 keywords: ["reisegarderobe", "was bedeutet reisegarderobe", "reisegarderobe stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/reisegarderobe.svg"
+image: "images/glossar/reisegarderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Reisegarderobe mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

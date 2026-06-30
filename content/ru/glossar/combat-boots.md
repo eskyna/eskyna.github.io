@@ -7,7 +7,7 @@ tags: ["combat boots", "boots", "schuhe", "stilbruch"]
 keywords: ["combat boots", "was sind combat boots", "derbe boots"]
 glossar_order: "c"
 weight: 14
-image: "images/glossar/combat-boots.svg"
+image: "images/glossar/combat-boots.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Combat Boots mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Военные ботинки"

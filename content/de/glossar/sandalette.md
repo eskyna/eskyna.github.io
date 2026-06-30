@@ -7,7 +7,7 @@ tags: ["garderobe", "sandalette"]
 keywords: ["sandalette", "was bedeutet sandalette", "sandalette stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/sandalette.svg"
+image: "images/glossar/sandalette.png"
 image_alt: "Editoriale Glossar-Grafik zu Sandalette mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

@@ -7,7 +7,7 @@ tags: ["blumenmuster", "materialien"]
 keywords: ["blumenmuster", "was bedeutet blumenmuster", "blumenmuster stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/blumenmuster.svg"
+image: "images/glossar/blumenmuster.png"
 image_alt: "Editoriale Glossar-Grafik zu Blumenmuster mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Цветочный орнамент в текстиле"

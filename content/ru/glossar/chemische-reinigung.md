@@ -8,7 +8,7 @@ keywords:
   ["chemische reinigung", "was bedeutet chemische reinigung", "chemische reinigung stilberatung"]
 glossar_order: "c"
 weight: 1
-image: "images/glossar/chemische-reinigung.svg"
+image: "images/glossar/chemische-reinigung.png"
 image_alt: "Editoriale Glossar-Grafik zu Chemische Reinigung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Химическая чистка"

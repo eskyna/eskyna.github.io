@@ -7,7 +7,7 @@ tags: ["mode", "stil"]
 keywords: ["mode", "was bedeutet mode", "mode stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/mode.svg"
+image: "images/glossar/mode.png"
 image_alt: "Editoriale Glossar-Grafik zu Mode mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

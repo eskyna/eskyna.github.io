@@ -7,7 +7,7 @@ tags: ["essential", "stil"]
 keywords: ["essential", "was bedeutet essential", "essential stilberatung"]
 glossar_order: "e"
 weight: 1
-image: "images/glossar/essential.svg"
+image: "images/glossar/essential.png"
 image_alt: "Editoriale Glossar-Grafik zu Essential mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

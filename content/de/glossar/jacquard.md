@@ -7,7 +7,7 @@ tags: ["jacquard", "materialien"]
 keywords: ["jacquard", "was bedeutet jacquard", "jacquard stilberatung"]
 glossar_order: "j"
 weight: 1
-image: "images/glossar/jacquard.svg"
+image: "images/glossar/jacquard.png"
 image_alt: "Editoriale Glossar-Grafik zu Jacquard mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

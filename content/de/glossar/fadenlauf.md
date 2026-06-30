@@ -7,7 +7,7 @@ tags: ["fadenlauf", "materialien"]
 keywords: ["fadenlauf", "was bedeutet fadenlauf", "fadenlauf stilberatung"]
 glossar_order: "f"
 weight: 1
-image: "images/glossar/fadenlauf.svg"
+image: "images/glossar/fadenlauf.png"
 image_alt: "Editoriale Glossar-Grafik zu Fadenlauf mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

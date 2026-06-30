@@ -14,7 +14,7 @@ keywords:
   - "bundfaltenhose kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/bundfaltenhose.svg"
+image: "images/glossar/bundfaltenhose.png"
 image_alt: "Editoriale Grafik zu Bundfaltenhose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Anzughose"

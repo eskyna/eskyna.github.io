@@ -7,7 +7,7 @@ tags: ["garderobe", "kombinationsstueck"]
 keywords: ["kombinationsstück", "was bedeutet kombinationsstück", "kombinationsstück stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/kombinationsstueck.svg"
+image: "images/glossar/kombinationsstueck.png"
 image_alt: "Editoriale Glossar-Grafik zu Kombinationsstück mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

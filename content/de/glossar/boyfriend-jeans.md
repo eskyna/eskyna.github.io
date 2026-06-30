@@ -14,7 +14,7 @@ keywords:
   - "boyfriend jeans kombinieren"
 glossar_order: "b"
 weight: 5
-image: "images/glossar/boyfriend-jeans.svg"
+image: "images/glossar/boyfriend-jeans.png"
 image_alt: "Editoriale Grafik zu Boyfriend Jeans mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Jeans"

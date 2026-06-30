@@ -7,7 +7,7 @@ tags: ["preppy", "stil"]
 keywords: ["preppy", "was bedeutet preppy", "preppy stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/preppy.svg"
+image: "images/glossar/preppy.png"
 image_alt: "Editoriale Glossar-Grafik zu Preppy mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

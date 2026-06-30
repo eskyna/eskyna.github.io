@@ -8,7 +8,7 @@ keywords:
   ["rundhalsausschnitt", "was bedeutet rundhalsausschnitt", "rundhalsausschnitt stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/rundhalsausschnitt.svg"
+image: "images/glossar/rundhalsausschnitt.png"
 image_alt: "Editoriale Glossar-Grafik zu Rundhalsausschnitt mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

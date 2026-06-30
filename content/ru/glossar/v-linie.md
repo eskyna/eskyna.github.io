@@ -7,7 +7,7 @@ tags: ["schnitt proportion", "v linie"]
 keywords: ["v-linie", "was bedeutet v-linie", "v-linie stilberatung"]
 glossar_order: "v"
 weight: 1
-image: "images/glossar/v-linie.svg"
+image: "images/glossar/v-linie.png"
 image_alt: "Editoriale Glossar-Grafik zu V-Linie mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Passform"

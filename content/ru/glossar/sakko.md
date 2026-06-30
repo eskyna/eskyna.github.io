@@ -7,7 +7,7 @@ tags: ["garderobe", "sakko"]
 keywords: ["sakko", "was bedeutet sakko", "sakko stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/sakko.svg"
+image: "images/glossar/sakko.png"
 image_alt: "Editoriale Glossar-Grafik zu Sakko mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

@@ -14,7 +14,7 @@ keywords:
   - "jogpants kombinieren"
 glossar_order: "j"
 weight: 5
-image: "images/glossar/jogpants.svg"
+image: "images/glossar/jogpants.png"
 image_alt: "Editoriale Grafik zu Jogpants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Tapered Fit"

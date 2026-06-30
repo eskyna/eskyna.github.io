@@ -8,7 +8,7 @@ keywords: ["sättigung farbe", "gedämpfte farben", "kräftige farben", "farbber
 glossar_order: "s"
 weight: 19
 
-image: "images/glossar/saettigung.svg"
+image: "images/glossar/saettigung.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Sättigung mit ruhigen Farbfeldern und klarer Linienführung"
 relatedTerms:
   - title: "Kontrast"

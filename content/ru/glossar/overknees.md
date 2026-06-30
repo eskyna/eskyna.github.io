@@ -7,7 +7,7 @@ tags: ["garderobe", "overknees"]
 keywords: ["overknees", "was bedeutet overknees", "overknees stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/overknees.svg"
+image: "images/glossar/overknees.png"
 image_alt: "Editoriale Glossar-Grafik zu Overknees mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

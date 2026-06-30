@@ -7,7 +7,7 @@ tags: ["garderobe", "mantel"]
 keywords: ["mantel", "was bedeutet mantel", "mantel stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/mantel.svg"
+image: "images/glossar/mantel.png"
 image_alt: "Editoriale Glossar-Grafik zu Mantel mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

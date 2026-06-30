@@ -7,7 +7,7 @@ tags: ["materialien", "wickeloberteil"]
 keywords: ["wickeloberteil", "was bedeutet wickeloberteil", "wickeloberteil stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/wickeloberteil.svg"
+image: "images/glossar/wickeloberteil.png"
 image_alt: "Editoriale Glossar-Grafik zu Wickeloberteil mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

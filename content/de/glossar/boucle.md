@@ -7,7 +7,7 @@ tags: ["boucle", "materialien"]
 keywords: ["bouclé", "was bedeutet bouclé", "bouclé stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/boucle.svg"
+image: "images/glossar/boucle.png"
 image_alt: "Editoriale Glossar-Grafik zu Bouclé mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

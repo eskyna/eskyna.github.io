@@ -7,7 +7,7 @@ tags: ["materialien", "muster"]
 keywords: ["muster", "was bedeutet muster", "muster stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/muster.svg"
+image: "images/glossar/muster.png"
 image_alt: "Editoriale Glossar-Grafik zu Muster mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

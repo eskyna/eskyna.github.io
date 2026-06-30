@@ -7,7 +7,7 @@ tags: ["maskuliner stil", "stil"]
 keywords: ["maskuliner stil", "was bedeutet maskuliner stil", "maskuliner stil stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/maskuliner-stil.svg"
+image: "images/glossar/maskuliner-stil.png"
 image_alt: "Editoriale Glossar-Grafik zu Maskuliner Stil mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

@@ -10,7 +10,7 @@ keywords:
 glossar_order: "t"
 weight: 17
 
-image: "images/glossar/terracotta.svg"
+image: "images/glossar/terracotta.png"
 image_alt: "Editoriale Grafik mit Terracotta-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:
   - title: "Orange"

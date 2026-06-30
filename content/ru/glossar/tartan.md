@@ -7,7 +7,7 @@ tags: ["materialien", "tartan"]
 keywords: ["tartan", "was bedeutet tartan", "tartan stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/tartan.svg"
+image: "images/glossar/tartan.png"
 image_alt: "Editoriale Glossar-Grafik zu Tartan mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

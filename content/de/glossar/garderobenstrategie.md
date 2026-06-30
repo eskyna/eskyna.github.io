@@ -8,7 +8,7 @@ keywords:
   ["garderobenstrategie", "was bedeutet garderobenstrategie", "garderobenstrategie stilberatung"]
 glossar_order: "g"
 weight: 1
-image: "images/glossar/garderobenstrategie.svg"
+image: "images/glossar/garderobenstrategie.png"
 image_alt: "Editoriale Glossar-Grafik zu Garderobenstrategie mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

@@ -7,7 +7,7 @@ tags: ["stil", "stilkompass"]
 keywords: ["stilkompass", "was bedeutet stilkompass", "stilkompass stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stilkompass.svg"
+image: "images/glossar/stilkompass.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilkompass mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

@@ -7,7 +7,7 @@ tags: ["stil", "volumenverteilung"]
 keywords: ["volumenverteilung", "was bedeutet volumenverteilung", "volumenverteilung stilberatung"]
 glossar_order: "v"
 weight: 1
-image: "images/glossar/volumenverteilung.svg"
+image: "images/glossar/volumenverteilung.png"
 image_alt: "Editoriale Glossar-Grafik zu Volumenverteilung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

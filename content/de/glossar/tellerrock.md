@@ -7,7 +7,7 @@ tags: ["garderobe", "tellerrock"]
 keywords: ["tellerrock", "was bedeutet tellerrock", "tellerrock stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/tellerrock.svg"
+image: "images/glossar/tellerrock.png"
 image_alt: "Editoriale Glossar-Grafik zu Tellerrock mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

@@ -7,7 +7,7 @@ tags: ["garderobe", "saisonwechsel"]
 keywords: ["saisonwechsel", "was bedeutet saisonwechsel", "saisonwechsel stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/saisonwechsel.svg"
+image: "images/glossar/saisonwechsel.png"
 image_alt: "Editoriale Glossar-Grafik zu Saisonwechsel mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

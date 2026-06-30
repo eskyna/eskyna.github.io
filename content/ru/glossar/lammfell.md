@@ -7,7 +7,7 @@ tags: ["lammfell", "materialien"]
 keywords: ["lammfell", "was bedeutet lammfell", "lammfell stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/lammfell.svg"
+image: "images/glossar/lammfell.png"
 image_alt: "Editoriale Glossar-Grafik zu Lammfell mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

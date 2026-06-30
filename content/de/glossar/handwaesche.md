@@ -7,7 +7,7 @@ tags: ["handwaesche", "materialien"]
 keywords: ["handwäsche", "was bedeutet handwäsche", "handwäsche stilberatung"]
 glossar_order: "h"
 weight: 1
-image: "images/glossar/handwaesche.svg"
+image: "images/glossar/handwaesche.png"
 image_alt: "Editoriale Glossar-Grafik zu Handwäsche mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

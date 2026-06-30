@@ -7,7 +7,7 @@ tags: ["materialien", "stoffgewicht"]
 keywords: ["stoffgewicht", "was bedeutet stoffgewicht", "stoffgewicht stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stoffgewicht.svg"
+image: "images/glossar/stoffgewicht.png"
 image_alt: "Editoriale Glossar-Grafik zu Stoffgewicht mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

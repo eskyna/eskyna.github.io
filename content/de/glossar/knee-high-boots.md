@@ -7,7 +7,7 @@ tags: ["garderobe", "knee high boots"]
 keywords: ["knee-high boots", "was bedeutet knee-high boots", "knee-high boots stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/knee-high-boots.svg"
+image: "images/glossar/knee-high-boots.png"
 image_alt: "Editoriale Glossar-Grafik zu Knee-High Boots mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

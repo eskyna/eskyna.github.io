@@ -7,7 +7,7 @@ tags: ["materialien", "modeschmuck"]
 keywords: ["modeschmuck", "was bedeutet modeschmuck", "modeschmuck stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/modeschmuck.svg"
+image: "images/glossar/modeschmuck.png"
 image_alt: "Editoriale Glossar-Grafik zu Modeschmuck mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

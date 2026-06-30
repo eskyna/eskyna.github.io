@@ -7,7 +7,7 @@ tags: ["garderobe", "white tie"]
 keywords: ["white tie", "was bedeutet white tie", "white tie stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/white-tie.svg"
+image: "images/glossar/white-tie.png"
 image_alt: "Editoriale Glossar-Grafik zu White Tie mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

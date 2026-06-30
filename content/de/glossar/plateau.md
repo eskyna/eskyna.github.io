@@ -7,7 +7,7 @@ tags: ["garderobe", "plateau"]
 keywords: ["plateau", "was bedeutet plateau", "plateau stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/plateau.svg"
+image: "images/glossar/plateau.png"
 image_alt: "Editoriale Glossar-Grafik zu Plateau mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

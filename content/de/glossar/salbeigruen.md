@@ -8,7 +8,7 @@ tags: ["salbeigruen", "salbeigrün", "gruen", "farbe", "farbberatung"]
 keywords: ["salbeigrün kleidung", "salbeigrün kombinieren", "gedämpftes grün", "farbberatung"]
 glossar_order: "s"
 weight: 23
-image: "images/glossar/salbeigruen.svg"
+image: "images/glossar/salbeigruen.png"
 image_alt: "Editoriale Grafik zu Salbeigrün mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Grün"

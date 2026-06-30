@@ -14,7 +14,7 @@ keywords:
   - "palazzo hose kombinieren"
 glossar_order: "p"
 weight: 5
-image: "images/glossar/palazzo-hose.svg"
+image: "images/glossar/palazzo-hose.png"
 image_alt: "Editoriale Grafik zu Palazzo-Hose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Wide Leg"

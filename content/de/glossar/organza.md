@@ -7,7 +7,7 @@ tags: ["materialien", "organza"]
 keywords: ["organza", "was bedeutet organza", "organza stilberatung"]
 glossar_order: "o"
 weight: 1
-image: "images/glossar/organza.svg"
+image: "images/glossar/organza.png"
 image_alt: "Editoriale Glossar-Grafik zu Organza mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

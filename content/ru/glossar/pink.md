@@ -8,7 +8,7 @@ tags: ["pink", "farbe", "rosa", "farbberatung"]
 keywords: ["pink kleidung", "pink kombinieren", "fuchsia", "pink im business"]
 glossar_order: "p"
 weight: 14
-image: "images/glossar/pink.svg"
+image: "images/glossar/pink.png"
 image_alt: "Editoriale Grafik mit Pink-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:
   - title: "Rosa"

@@ -7,7 +7,7 @@ tags: ["laengsstreckung", "stil"]
 keywords: ["längsstreckung", "was bedeutet längsstreckung", "längsstreckung stilberatung"]
 glossar_order: "l"
 weight: 1
-image: "images/glossar/laengsstreckung.svg"
+image: "images/glossar/laengsstreckung.png"
 image_alt: "Editoriale Glossar-Grafik zu Längsstreckung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

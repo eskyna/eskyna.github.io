@@ -7,7 +7,7 @@ tags: ["unterton", "farbberatung", "farbtemperatur", "farben"]
 keywords: ["unterton", "warme farben", "kühle farben", "farbberatung"]
 glossar_order: "u"
 weight: 2
-image: "images/glossar/unterton.svg"
+image: "images/glossar/unterton.png"
 image_alt: "Grafik mit warmen, neutralen und kühlen Farbtönen zur Erklärung des Untertons"
 relatedTerms:
   - title: "Farbtyp"

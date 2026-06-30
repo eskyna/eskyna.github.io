@@ -8,7 +8,7 @@ tags: ["camel", "farbe", "braun", "neutrale farben"]
 keywords: ["camel kleidung", "camel kombinieren", "camel mantel", "farbberatung camel"]
 glossar_order: "c"
 weight: 13
-image: "images/glossar/camel.svg"
+image: "images/glossar/camel.png"
 image_alt: "Editoriale Grafik mit Camel-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
 relatedTerms:
   - title: "Beige"

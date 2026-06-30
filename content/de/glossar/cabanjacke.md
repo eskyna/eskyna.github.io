@@ -7,7 +7,7 @@ tags: ["cabanjacke", "garderobe"]
 keywords: ["cabanjacke", "was bedeutet cabanjacke", "cabanjacke stilberatung"]
 glossar_order: "c"
 weight: 1
-image: "images/glossar/cabanjacke.svg"
+image: "images/glossar/cabanjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Cabanjacke mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

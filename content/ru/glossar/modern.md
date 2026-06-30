@@ -7,7 +7,7 @@ tags: ["modern", "stil"]
 keywords: ["modern", "was bedeutet modern", "modern stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/modern.svg"
+image: "images/glossar/modern.png"
 image_alt: "Editoriale Glossar-Grafik zu Modern mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

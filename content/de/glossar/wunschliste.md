@@ -7,7 +7,7 @@ tags: ["garderobe", "wunschliste"]
 keywords: ["wunschliste", "was bedeutet wunschliste", "wunschliste stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/wunschliste.svg"
+image: "images/glossar/wunschliste.png"
 image_alt: "Editoriale Glossar-Grafik zu Wunschliste mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

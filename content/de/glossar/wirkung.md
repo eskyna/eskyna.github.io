@@ -7,7 +7,7 @@ tags: ["stil", "wirkung"]
 keywords: ["wirkung", "was bedeutet wirkung", "wirkung stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/wirkung.svg"
+image: "images/glossar/wirkung.png"
 image_alt: "Editoriale Glossar-Grafik zu Wirkung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

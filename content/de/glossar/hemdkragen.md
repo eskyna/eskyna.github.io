@@ -7,7 +7,7 @@ tags: ["hemdkragen", "materialien"]
 keywords: ["hemdkragen", "was bedeutet hemdkragen", "hemdkragen stilberatung"]
 glossar_order: "h"
 weight: 1
-image: "images/glossar/hemdkragen.svg"
+image: "images/glossar/hemdkragen.png"
 image_alt: "Editoriale Glossar-Grafik zu Hemdkragen mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

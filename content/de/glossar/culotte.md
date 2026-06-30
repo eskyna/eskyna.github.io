@@ -7,7 +7,7 @@ tags: ["culotte", "hose", "proportion", "silhouette", "passform"]
 keywords: ["culotte", "was ist eine culotte", "culotte kombinieren", "weite hose"]
 glossar_order: "c"
 weight: 11
-image: "images/glossar/culotte.svg"
+image: "images/glossar/culotte.png"
 image_alt: "Editoriale Grafik mit stilisierter Culotte, weiter Beinlinie und ruhigen Proportionsfeldern"
 relatedTerms:
   - title: "Passform"

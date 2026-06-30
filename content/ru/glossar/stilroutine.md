@@ -7,7 +7,7 @@ tags: ["garderobe", "stilroutine"]
 keywords: ["stilroutine", "was bedeutet stilroutine", "stilroutine stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stilroutine.svg"
+image: "images/glossar/stilroutine.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilroutine mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

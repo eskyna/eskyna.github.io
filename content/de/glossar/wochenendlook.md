@@ -7,7 +7,7 @@ tags: ["garderobe", "wochenendlook"]
 keywords: ["wochenendlook", "was bedeutet wochenendlook", "wochenendlook stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/wochenendlook.svg"
+image: "images/glossar/wochenendlook.png"
 image_alt: "Editoriale Glossar-Grafik zu Wochenendlook mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

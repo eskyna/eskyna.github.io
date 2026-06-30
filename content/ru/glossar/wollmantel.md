@@ -7,7 +7,7 @@ tags: ["garderobe", "wollmantel"]
 keywords: ["wollmantel", "was bedeutet wollmantel", "wollmantel stilberatung"]
 glossar_order: "w"
 weight: 1
-image: "images/glossar/wollmantel.svg"
+image: "images/glossar/wollmantel.png"
 image_alt: "Editoriale Glossar-Grafik zu Wollmantel mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

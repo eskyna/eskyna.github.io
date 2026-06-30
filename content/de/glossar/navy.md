@@ -8,7 +8,7 @@ tags: ["navy", "dunkelblau", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["navy kleidung", "dunkelblau kombinieren", "farbberatung", "stilberatung"]
 glossar_order: "n"
 weight: 3
-image: "images/glossar/navy.svg"
+image: "images/glossar/navy.png"
 image_alt: "Editoriale Grafik mit Navy-Farbfeldern, hellen Akzenten und ruhigen Stofflagen"
 relatedTerms:
   - title: "Blau"

@@ -7,7 +7,7 @@ tags: ["buegeln", "materialien"]
 keywords: ["bügeln", "was bedeutet bügeln", "bügeln stilberatung"]
 glossar_order: "b"
 weight: 1
-image: "images/glossar/buegeln.svg"
+image: "images/glossar/buegeln.png"
 image_alt: "Editoriale Glossar-Grafik zu Bügeln mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Глажка и уход за одеждой"

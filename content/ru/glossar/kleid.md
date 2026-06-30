@@ -14,7 +14,7 @@ keywords:
   - "kleiderformen"
 glossar_order: "k"
 weight: 5
-image: "images/glossar/kleid.svg"
+image: "images/glossar/kleid.png"
 image_alt: "Editoriale Grafik zu Kleid mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
 relatedTerms:
   - title: "Etuikleid"

@@ -7,7 +7,7 @@ tags: ["doppelreiher", "garderobe"]
 keywords: ["doppelreiher", "was bedeutet doppelreiher", "doppelreiher stilberatung"]
 glossar_order: "d"
 weight: 1
-image: "images/glossar/doppelreiher.svg"
+image: "images/glossar/doppelreiher.png"
 image_alt: "Editoriale Glossar-Grafik zu Doppelreiher mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Двубортный пиджак"

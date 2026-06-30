@@ -8,7 +8,7 @@ keywords:
   ["komplementärfarben", "was bedeutet komplementärfarben", "komplementärfarben stilberatung"]
 glossar_order: "k"
 weight: 1
-image: "images/glossar/komplementaerfarben.svg"
+image: "images/glossar/komplementaerfarben.png"
 image_alt: "Editoriale Glossar-Grafik zu Komplementärfarben mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Farbtyp"

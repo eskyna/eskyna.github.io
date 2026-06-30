@@ -14,7 +14,7 @@ keywords:
   - "sweatshirt kombinieren"
 glossar_order: "s"
 weight: 5
-image: "images/glossar/sweatshirt.svg"
+image: "images/glossar/sweatshirt.png"
 image_alt: "Editoriale Grafik mit stilisiertem Sweatshirt, Rundhals und weicher Stofffläche"
 relatedTerms:
   - title: "Hoodie"

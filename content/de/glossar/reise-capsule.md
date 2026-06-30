@@ -7,7 +7,7 @@ tags: ["garderobe", "reise capsule"]
 keywords: ["reise-capsule", "was bedeutet reise-capsule", "reise-capsule stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/reise-capsule.svg"
+image: "images/glossar/reise-capsule.png"
 image_alt: "Editoriale Glossar-Grafik zu Reise-Capsule mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

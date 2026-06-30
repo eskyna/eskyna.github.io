@@ -7,7 +7,7 @@ tags: ["strickkleid", "kleid", "strick", "pullover"]
 keywords: ["strickkleid", "was ist ein strickkleid", "strickkleid kombinieren"]
 glossar_order: "s"
 weight: 8
-image: "images/glossar/strickkleid.svg"
+image: "images/glossar/strickkleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Strickkleid mit ruhigen Formen und feinen Farbfeldern"
 relatedTerms:
   - title: "Pullover"

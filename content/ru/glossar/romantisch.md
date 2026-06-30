@@ -7,7 +7,7 @@ tags: ["romantisch", "stil"]
 keywords: ["romantisch", "was bedeutet romantisch", "romantisch stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/romantisch.svg"
+image: "images/glossar/romantisch.png"
 image_alt: "Editoriale Glossar-Grafik zu Romantisch mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

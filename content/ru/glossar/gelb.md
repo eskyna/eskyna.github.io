@@ -8,7 +8,7 @@ tags: ["gelb", "farbe", "akzentfarbe", "farbberatung", "farbwirkung"]
 keywords: ["gelb kleidung", "gelb kombinieren", "gelbe bluse", "farbberatung"]
 glossar_order: "g"
 weight: 26
-image: "images/glossar/gelb.svg"
+image: "images/glossar/gelb.png"
 image_alt: "Editoriale Grafik zu Gelb mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Senfgelb"

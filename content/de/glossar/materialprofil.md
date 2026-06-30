@@ -7,7 +7,7 @@ tags: ["materialprofil", "stil"]
 keywords: ["materialprofil", "was bedeutet materialprofil", "materialprofil stilberatung"]
 glossar_order: "m"
 weight: 1
-image: "images/glossar/materialprofil.svg"
+image: "images/glossar/materialprofil.png"
 image_alt: "Editoriale Glossar-Grafik zu Materialprofil mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

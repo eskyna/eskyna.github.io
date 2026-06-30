@@ -7,7 +7,7 @@ tags: ["event look", "garderobe"]
 keywords: ["event-look", "was bedeutet event-look", "event-look stilberatung"]
 glossar_order: "e"
 weight: 1
-image: "images/glossar/event-look.svg"
+image: "images/glossar/event-look.png"
 image_alt: "Editoriale Glossar-Grafik zu Event-Look mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

@@ -8,7 +8,7 @@ tags: ["weiß", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["weiß kleidung", "weiß kombinieren", "off white", "farbberatung"]
 glossar_order: "w"
 weight: 2
-image: "images/glossar/weiss.svg"
+image: "images/glossar/weiss.png"
 image_alt: "Editoriale Grafik mit hellen Weißnuancen, Stofflagen und feinen Schatten"
 relatedTerms:
   - title: "Schwarz"

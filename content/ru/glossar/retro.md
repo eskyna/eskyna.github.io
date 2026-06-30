@@ -7,7 +7,7 @@ tags: ["retro", "stil"]
 keywords: ["retro", "was bedeutet retro", "retro stilberatung"]
 glossar_order: "r"
 weight: 1
-image: "images/glossar/retro.svg"
+image: "images/glossar/retro.png"
 image_alt: "Editoriale Glossar-Grafik zu Retro mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

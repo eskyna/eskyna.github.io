@@ -7,7 +7,7 @@ tags: ["stil", "stilgefuehl"]
 keywords: ["stilgefühl", "was bedeutet stilgefühl", "stilgefühl stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/stilgefuehl.svg"
+image: "images/glossar/stilgefuehl.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilgefühl mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Signature Look"

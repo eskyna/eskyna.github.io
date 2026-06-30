@@ -7,7 +7,7 @@ tags: ["materialien", "polka dots"]
 keywords: ["polka dots", "was bedeutet polka dots", "polka dots stilberatung"]
 glossar_order: "p"
 weight: 1
-image: "images/glossar/polka-dots.svg"
+image: "images/glossar/polka-dots.png"
 image_alt: "Editoriale Glossar-Grafik zu Polka Dots mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

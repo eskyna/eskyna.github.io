@@ -7,7 +7,7 @@ tags: ["materialien", "samt"]
 keywords: ["samt", "was bedeutet samt", "samt stilberatung"]
 glossar_order: "s"
 weight: 1
-image: "images/glossar/samt.svg"
+image: "images/glossar/samt.png"
 image_alt: "Editoriale Glossar-Grafik zu Samt mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

@@ -7,7 +7,7 @@ tags: ["crossbody bag", "tasche", "accessoire", "styling", "alltag"]
 keywords: ["crossbody bag", "was ist eine crossbody bag", "umhängetasche quer tragen"]
 glossar_order: "c"
 weight: 12
-image: "images/glossar/crossbody-bag.svg"
+image: "images/glossar/crossbody-bag.png"
 image_alt: "Editoriale Grafik zu Crossbody Bag mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
 relatedTerms:
   - title: "Сумка через плечо"

@@ -7,7 +7,7 @@ tags: ["key-piece", "garderobe", "stilberatung", "kombinieren"]
 keywords: ["key-piece", "garderobe aufbauen", "kleidung kombinieren", "stilberatung"]
 glossar_order: "k"
 weight: 3
-image: "images/glossar/key-piece.svg"
+image: "images/glossar/key-piece.png"
 image_alt: "Editoriale Grafik mit einem zentralen Kleidungsstück und ruhigen Kombinationsflächen als Symbol für ein Key-Piece"
 relatedTerms:
   - title: "Blazer"
