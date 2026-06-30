@@ -7,7 +7,7 @@ tags: ["materialien", "tweed"]
 keywords: ["tweed", "was bedeutet tweed", "tweed stilberatung"]
 glossar_order: "t"
 weight: 1
-image: "images/glossar/tweed.svg"
+image: "images/glossar/tweed.png"
 image_alt: "Editoriale Glossar-Grafik zu Tweed mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Materialfall"

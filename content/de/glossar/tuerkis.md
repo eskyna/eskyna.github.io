@@ -8,7 +8,7 @@ tags: ["tuerkis", "türkis", "farbe", "blaugruen", "farbberatung"]
 keywords: ["türkis kleidung", "türkis kombinieren", "blaugrün", "farbberatung"]
 glossar_order: "t"
 weight: 21
-image: "images/glossar/tuerkis.svg"
+image: "images/glossar/tuerkis.png"
 image_alt: "Editoriale Grafik zu Türkis mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
 relatedTerms:
   - title: "Blau"

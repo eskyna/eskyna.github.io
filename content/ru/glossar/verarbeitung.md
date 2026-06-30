@@ -7,7 +7,7 @@ tags: ["garderobe", "verarbeitung"]
 keywords: ["verarbeitung", "was bedeutet verarbeitung", "verarbeitung stilberatung"]
 glossar_order: "v"
 weight: 1
-image: "images/glossar/verarbeitung.svg"
+image: "images/glossar/verarbeitung.png"
 image_alt: "Editoriale Glossar-Grafik zu Verarbeitung mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

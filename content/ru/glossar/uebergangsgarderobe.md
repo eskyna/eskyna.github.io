@@ -8,7 +8,7 @@ keywords:
   ["übergangsgarderobe", "was bedeutet übergangsgarderobe", "übergangsgarderobe stilberatung"]
 glossar_order: "u"
 weight: 1
-image: "images/glossar/uebergangsgarderobe.svg"
+image: "images/glossar/uebergangsgarderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Übergangsgarderobe mit ruhigen Farbfeldern und feiner Linienführung"
 relatedTerms:
   - title: "Capsule Wardrobe"

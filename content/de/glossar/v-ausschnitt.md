@@ -8,7 +8,7 @@ keywords:
   ["v-ausschnitt", "was ist ein v-ausschnitt", "v-ausschnitt styling", "v-ausschnitt kombinieren"]
 glossar_order: "v"
 weight: 29
-image: "images/glossar/v-ausschnitt.svg"
+image: "images/glossar/v-ausschnitt.png"
 image_alt: "Editoriale Grafik zu V-Ausschnitt mit stilisierter Ausschnittlinie, Halsrahmung und ruhigen Farbfeldern"
 relatedTerms:
   - title: "Bluse"
