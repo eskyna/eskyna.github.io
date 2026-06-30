@@ -102,6 +102,8 @@ jobs:
           extended: true
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+      - name: Install image conversion tools (cwebp, avifenc)
+        run: sudo apt-get update && sudo apt-get install -y webp libavif-bin
       - name: Checkout
         uses: actions/checkout@v7
         with:
