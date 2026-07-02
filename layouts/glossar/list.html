@@ -7,12 +7,16 @@
 
 <main class="glossar-list-page">
   <section class="hero-small glossar-list-hero">
-    <div class="container">
+    <div class="container glossar-list-hero-shell">
       <div class="glossar-list-hero-copy">
         <h1 class="glossar-list-title">{{ .Title }}</h1>
         {{ with .Description }}
         <p class="glossar-list-description">{{ . }}</p>
         {{ end }}
+      </div>
+
+      <div class="glossar-list-hero-visual">
+        {{ partial "responsive-image.html" (dict "src" "images/glossar/_index.png" "alt" .Title "title" .Title "class" "glossar-list-hero-image" "loading" "eager" "decoding" "async" "fetchpriority" "high" "sizes" "(max-width: 900px) 100vw, 420px") }}
       </div>
     </div>
   </section>

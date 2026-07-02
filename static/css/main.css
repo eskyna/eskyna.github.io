@@ -7022,22 +7022,35 @@ main .hero .hero-headline-line {
 }
 
 .glossar-list-hero {
-  background-image:
-    linear-gradient(135deg, rgb(249 246 240 / 75%) 0%, rgb(227 213 200 / 65%) 100%),
-    image-set(
-      url("/images/backgrounds/sections/problems.avif") type("image/avif"),
-      url("/images/backgrounds/sections/problems.webp") type("image/webp"),
-      url("/images/backgrounds/sections/problems.png") type("image/png")
-    );
-  background-size: auto, cover;
-  background-position: center;
-  background-attachment: scroll;
+  background: linear-gradient(135deg, rgb(249 246 240 / 92%) 0%, rgb(227 213 200 / 72%) 100%);
   padding: clamp(3.5rem, 12vw, 5rem) 0;
   border-bottom: 1px solid rgb(139 94 52 / 12%);
 }
 
+.glossar-list-hero-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(280px, 420px);
+  gap: clamp(1.5rem, 5vw, 3rem);
+  align-items: center;
+}
+
 .glossar-list-hero-copy {
   width: 100%;
+}
+
+.glossar-list-hero-visual {
+  width: 100%;
+  min-width: 0;
+}
+
+.glossar-list-hero-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid rgb(44 30 22 / 12%);
+  border-radius: clamp(1rem, 3vw, 1.6rem);
+  box-shadow: 0 20px 46px rgb(44 30 22 / 14%);
+  background: var(--bg-soft);
 }
 
 .glossar-list-title {
@@ -7071,6 +7084,12 @@ main .hero .hero-headline-line {
 
 .glossar-search-box {
   margin-bottom: 2rem;
+}
+
+@media (width <= 900px) {
+  .glossar-list-hero-shell {
+    grid-template-columns: 1fr;
+  }
 }
 
 .glossar-search-input {
