@@ -105,7 +105,7 @@
                       <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
                         {{ with .Params.image }}
                           <span class="glossar-term-thumb">
-                            <img src="{{ . | relURL }}" alt="{{ $imageAlt }}" loading="lazy" decoding="async">
+                            {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "72px") }}
                           </span>
                         {{ end }}
                         <span class="glossar-term-title">{{ $termTitle }}</span>
@@ -157,7 +157,7 @@
                     <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
                       {{ with .Params.image }}
                         <span class="glossar-term-thumb">
-                          <img src="{{ . | relURL }}" alt="{{ $imageAlt }}" loading="lazy" decoding="async">
+                          {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "72px") }}
                         </span>
                       {{ end }}
                       <span class="glossar-term-title">{{ $termTitle }}</span>
