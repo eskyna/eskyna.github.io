@@ -2,7 +2,7 @@
 title: MACHN Special
 seoTitle: MACHN Special | Анализ цвета и стиля для питчей | ESKYNA
 description: "Фестивальное предложение для участников MACHN: анализ цвета и стиля с Наталией Клеманн для уверенного, аутентичного выступления на питче."
-image: images/machn/v4/photos/natalia-machn-pitch-og-1200x630-eskyna-toned.webp
+image: images/machn/photos/natalia_desk_900w.webp
 eyebrow: MACHN SPECIAL
 hero:
   headline: Ваш pitch-образ, который работает.
@@ -27,9 +27,9 @@ live_proof:
   eyebrow: Live с MACHN Festival
   title: Наталия показывает на сцене, как работает образ для питча.
   text: "На MACHN Festival становится видно, в чем суть ESKYNA Special: выступать ясно, выглядеть аутентично и презентовать свою идею через личность."
-  image: images/machn/v4/photos/natalia-machn-pitch-wide-1600x760-eskyna-toned.webp
-  image_tablet: images/machn/v4/photos/natalia-machn-pitch-tablet-1200x900-eskyna-toned.webp
-  image_mobile: images/machn/v4/photos/natalia-machn-pitch-mobile-900x1200-eskyna-toned.webp
+  image: images/machn/photos/natalia_desk_900w.webp
+  image_tablet: images/machn/photos/natalia_desk_900w.webp
+  image_mobile: images/machn/photos/natalia_desk_560w.webp
   image_alt: Наталия Клеманн выступает на MACHN Festival перед аудиторией.
   logo: images/machn/v4/logos/machn-logo26-white.png
   logo_webp: images/machn/v4/logos/machn-logo26-white.webp
