@@ -7,6 +7,7 @@ ui:
   all_terms_text: "Alle Begriffe"
   by_alphabet_text: "Nach Alphabet"
   by_category_text: "Nach Kategorie"
+  by_relevance_text: "Nach Relevanz"
   search_placeholder: "Begriff suchen..."
   no_results: "Keine Ergebnisse gefunden."
 ---

@@ -7,6 +7,7 @@ ui:
   all_terms_text: "Все термины"
   by_alphabet_text: "По алфавиту"
   by_category_text: "По категориям"
+  by_relevance_text: "По релевантности"
   search_placeholder: "Поиск по термину..."
   no_results: "Результатов не найдено."
 ---

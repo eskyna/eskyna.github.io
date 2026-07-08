@@ -7,6 +7,8 @@ tags: ["образ для камеры", "образ", "впечатление",
 keywords: ["образ для камеры", "что надеть в кадр", "образ для деловой фотосъёмки"]
 glossar_order: "k"
 weight: 9
+image: "images/glossar/kamera-look.png"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для камеры"
 relatedTerms:
   - title: "Образ для фотосъёмки"
     url: "/ru/glossar/fotoshooting-outfit/"

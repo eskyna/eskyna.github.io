@@ -1,0 +1,106 @@
+{{ define "main" }}
+{{ $pageUI := .Params.ui }}
+{{ $sectionUI := dict }}
+{{ with .CurrentSection }}{{ $sectionUI = .Params.ui }}{{ end }}
+{{ $homeUI := .Site.Home.Params.ui }}
+{{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
+{{ $category := .Params.glossar_category | default .Title }}
+{{ $allGlossarPages := where .CurrentSection.RegularPages "Params.is_glossar_category" "ne" true }}
+{{ $terms := sort (where $allGlossarPages "Params.category" $category) "Title" "asc" }}
+{{ $heroImage := .Params.image }}
+{{ $categoryImageMap := dict
+  "garderob-i-povsednevnost" "images/glossar/kategorie/garderobe-alltag.png"
+  "konsultatsiya-po-tsvetu-i-tsvet" "images/glossar/kategorie/farbberatung-farbe.png"
+  "kroy-proportsii-i-posadka" "images/glossar/kategorie/schnitt-proportion-passform.png"
+  "materialy-i-detali" "images/glossar/kategorie/materialien-details.png"
+  "obuv" "images/glossar/kategorie/schuhe.png"
+  "platya-i-yubki" "images/glossar/kategorie/kleider-roecke.png"
+  "stil-und-vozdeystvie" "images/glossar/kategorie/stil-wirkung.png"
+  "tsvetovoy-slovar" "images/glossar/kategorie/farb-lexikon.png"
+}}
+{{ if not $heroImage }}
+  {{ with .File }}
+    {{ with index $categoryImageMap .BaseFileName }}
+      {{ $heroImage = . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $heroImage }}
+  {{ with .File }}
+    {{ $candidatePng := printf "images/glossar/kategorie/%s.png" .BaseFileName }}
+    {{ $candidateWebp := printf "images/glossar/kategorie/%s.webp" .BaseFileName }}
+    {{ $candidateAvif := printf "images/glossar/kategorie/%s.avif" .BaseFileName }}
+    {{ if fileExists (printf "static/%s" $candidatePng) }}
+      {{ $heroImage = $candidatePng }}
+    {{ else if fileExists (printf "static/%s" $candidateWebp) }}
+      {{ $heroImage = $candidateWebp }}
+    {{ else if fileExists (printf "static/%s" $candidateAvif) }}
+      {{ $heroImage = $candidateAvif }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $heroImage }}
+  {{ $heroImage = "images/glossar/kategorie/_index.png" }}
+{{ end }}
+
+<main class="glossar-list-page">
+  <section class="hero-small glossar-list-hero">
+    <div class="container glossar-list-hero-shell">
+      <div class="glossar-list-hero-copy">
+        <a class="back-link" href="{{ "glossar" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
+        <h1 class="glossar-list-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="glossar-list-description">{{ . }}</p>
+        {{ end }}
+        {{ with .Content }}
+        <div class="glossar-list-description">{{ . }}</div>
+        {{ end }}
+      </div>
+
+      <div class="glossar-list-hero-visual">
+        {{ partial "responsive-image.html" (dict "src" $heroImage "alt" ($category | plainify) "title" ($category | plainify) "class" "glossar-list-hero-image" "loading" "eager" "decoding" "async" "fetchpriority" "high" "sizes" "(max-width: 900px) 100vw, 420px") }}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossar-panel active">
+    <div class="container glossar-content-shell">
+      <div class="glossar-category-view">
+        <div class="glossar-category-group">
+          <h2 class="glossar-category-heading">{{ $category }} <span class="glossar-group-count">{{ len $terms }}</span></h2>
+          <ul class="glossar-term-list">
+            {{ range $terms }}
+              {{ $termTitle := .Params.term | default .Title }}
+              {{ $imageAlt := .Params.image_alt | default $termTitle }}
+              {{ $entryImage := .Params.image }}
+              {{ if not $entryImage }}
+                {{ with .File }}
+                  {{ $candidate := printf "images/glossar/%s.png" .BaseFileName }}
+                  {{ if fileExists (printf "static/%s" $candidate) }}
+                    {{ $entryImage = $candidate }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+              <li class="glossar-term-item">
+                <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+                  {{ with $entryImage }}
+                    <span class="glossar-term-thumb">
+                      {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 160px, 176px" "width" "400" "height" "500") }}
+                    </span>
+                  {{ end }}
+                  <span class="glossar-term-title">{{ $termTitle }}</span>
+                  {{ with .Description }}
+                    <span class="glossar-term-excerpt">{{ . }}</span>
+                  {{ end }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{ partial "contact-modal.html" . }}
+</main>
+{{ end }}

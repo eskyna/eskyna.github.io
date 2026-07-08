@@ -47,6 +47,10 @@
 <meta http-equiv="Expires" content="Thu, 31 Dec 2037 23:55:55 GMT">
 {{ if .IsHome }}
   <title>{{ .Params.seoTitle | default $siteTitle }}</title>
+{{ else if eq .Section "glossar" }}
+  {{ $glossarSuffix := " | Begriff im Glossar | ESKYNA" }}
+  {{ $glossarBase := $pageTitle | plainify | truncate 30 "" }}
+  <title>{{ printf "%s%s" $glossarBase $glossarSuffix }}</title>
 {{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
   {{ if $pageTitleHasSeparator }}
     <title>{{ $pageTitle }}</title>

@@ -3,7 +3,22 @@
 {{ $homeUI := .Site.Home.Params.ui }}
 {{ $byAlphabetText := or $sectionUI.by_alphabet_text $homeUI.by_alphabet_text "Nach Alphabet" }}
 {{ $byCategoryText := or $sectionUI.by_category_text $homeUI.by_category_text "Nach Kategorie" }}
+{{ $byRelevanceText := or $sectionUI.by_relevance_text $homeUI.by_relevance_text "Nach Relevanz" }}
 {{ $searchPlaceholderText := or $sectionUI.search_placeholder $homeUI.search_placeholder "Begriff suchen..." }}
+{{ $noResultsText := or $sectionUI.no_results $homeUI.no_results "Keine Ergebnisse gefunden." }}
+{{ $termCountLabel := cond (eq .Site.Language.Lang "ru") "терминов" "Begriffe" }}
+{{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
+{{ $glossarPages := (where .RegularPages "Params.is_glossar_category" "ne" true).ByTitle }}
+{{ $letters := slice }}
+{{ range $glossarPages }}
+  {{ $termTitle := .Params.term | default .Title }}
+  {{ if gt (len $termTitle) 0 }}
+    {{ $letter := upper (substr (lower $termTitle) 0 1) }}
+    {{ if not (in $letters $letter) }}
+      {{ $letters = $letters | append $letter }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <main class="glossar-list-page">
   <section class="hero-small glossar-list-hero">
@@ -31,59 +46,61 @@
           placeholder="{{ $searchPlaceholderText }}"
           aria-label="{{ $searchPlaceholderText }}"
         >
+        <div class="glossar-search-feedback" aria-live="polite">
+          <p class="glossar-results-count" id="glossar-results-count">
+            <span class="glossar-results-number">{{ len $glossarPages }}</span>
+            <span class="glossar-results-label">{{ $termCountLabel }}</span>
+          </p>
+          <p class="glossar-no-results" id="glossar-no-results" hidden>{{ $noResultsText }}</p>
+        </div>
       </div>
 
       <div class="glossar-tabs" role="tablist">
         <button
           class="glossar-tab active"
-          id="glossar-tab-alphabet"
+          id="glossar-tab-categories"
           role="tab"
           aria-selected="true"
+          aria-controls="glossar-panel-categories"
+        >
+          {{ $byCategoryText }}
+        </button>
+        <button
+          class="glossar-tab"
+          id="glossar-tab-alphabet"
+          role="tab"
+          aria-selected="false"
           aria-controls="glossar-panel-alphabet"
         >
           {{ $byAlphabetText }}
         </button>
         <button
           class="glossar-tab"
-          id="glossar-tab-categories"
+          id="glossar-tab-relevance"
           role="tab"
           aria-selected="false"
-          aria-controls="glossar-panel-categories"
+          aria-controls="glossar-panel-relevance"
         >
-          {{ $byCategoryText }}
+          {{ $byRelevanceText }}
         </button>
       </div>
     </div>
   </section>
 
   <section
-    class="glossar-panel active"
+    class="glossar-panel"
     id="glossar-panel-alphabet"
     role="tabpanel"
     aria-labelledby="glossar-tab-alphabet"
+    hidden
   >
     <div class="container glossar-content-shell">
       <div class="glossar-alphabet-view">
-        {{ $glossarPages := where (where site.Pages "Type" "glossar") "Kind" "page" }}
-        {{ $glossarTerms := sort $glossarPages "Params.glossar_order" "asc" }}
-        {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
-
         <div class="glossar-alphabet-index">
           {{ range $letters }}
             {{ $letter := . }}
             {{ $letterLower := lower . }}
-            {{ $found := false }}
-            {{ range $glossarTerms }}
-              {{ $termTitle := .Params.term | default .Title }}
-              {{ if eq (substr (lower $termTitle) 0 1) $letterLower }}
-                {{ $found = true }}
-              {{ end }}
-            {{ end }}
-            {{ if $found }}
-              <a href="#letter-{{ $letterLower }}" class="glossar-letter-link">{{ $letter }}</a>
-            {{ else }}
-              <span class="glossar-letter-link glossar-letter-inactive">{{ $letter }}</span>
-            {{ end }}
+            <a href="#letter-{{ $letterLower }}" class="glossar-letter-link">{{ $letter }}</a>
           {{ end }}
         </div>
 
@@ -91,25 +108,36 @@
           {{ $letter := . }}
           {{ $letterLower := lower . }}
           {{ $hasTerms := false }}
-          {{ range $glossarTerms }}
+          {{ $letterCount := 0 }}
+          {{ range $glossarPages }}
             {{ $termTitle := .Params.term | default .Title }}
-            {{ if eq (substr (lower $termTitle) 0 1) $letterLower }}
+            {{ if and (gt (len $termTitle) 0) (eq (substr (lower $termTitle) 0 1) $letterLower) }}
               {{ $hasTerms = true }}
+              {{ $letterCount = add $letterCount 1 }}
             {{ end }}
           {{ end }}
           {{ if $hasTerms }}
             <div class="glossar-letter-group" id="letter-{{ $letterLower }}">
-              <h2 class="glossar-letter-heading">{{ $letter }}</h2>
+              <h2 class="glossar-letter-heading">{{ $letter }} <span class="glossar-group-count">{{ $letterCount }}</span></h2>
               <ul class="glossar-term-list">
-                {{ range $glossarTerms }}
+                {{ range $glossarPages }}
                   {{ $termTitle := .Params.term | default .Title }}
                   {{ $imageAlt := .Params.image_alt | default $termTitle }}
-                  {{ if eq (substr (lower $termTitle) 0 1) $letterLower }}
+                  {{ $entryImage := .Params.image }}
+                  {{ if not $entryImage }}
+                    {{ with .File }}
+                      {{ $candidate := printf "images/glossar/%s.png" .BaseFileName }}
+                      {{ if fileExists (printf "static/%s" $candidate) }}
+                        {{ $entryImage = $candidate }}
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                  {{ if and (gt (len $termTitle) 0) (eq (substr (lower $termTitle) 0 1) $letterLower) }}
                     <li class="glossar-term-item">
                       <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
-                        {{ with .Params.image }}
+                        {{ with $entryImage }}
                           <span class="glossar-term-thumb">
-                            {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "72px") }}
+                            {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 160px, 176px" "width" "400" "height" "500") }}
                           </span>
                         {{ end }}
                         <span class="glossar-term-title">{{ $termTitle }}</span>
@@ -129,52 +157,109 @@
   </section>
 
   <section
-    class="glossar-panel"
+    class="glossar-panel active"
     id="glossar-panel-categories"
     role="tabpanel"
     aria-labelledby="glossar-tab-categories"
+  >
+    <div class="container glossar-content-shell">
+      <div class="glossar-category-overview">
+        <ul class="glossar-category-overview-list">
+          {{ range sort $categoryLandingPages "Title" "asc" }}
+            {{ $categoryLabel := .Params.glossar_category | default .Title }}
+            {{ $categoryImage := .Params.image }}
+            {{ $categoryImageMap := dict
+              "garderob-i-povsednevnost" "images/glossar/kategorie/garderobe-alltag.png"
+              "konsultatsiya-po-tsvetu-i-tsvet" "images/glossar/kategorie/farbberatung-farbe.png"
+              "kroy-proportsii-i-posadka" "images/glossar/kategorie/schnitt-proportion-passform.png"
+              "materialy-i-detali" "images/glossar/kategorie/materialien-details.png"
+              "obuv" "images/glossar/kategorie/schuhe.png"
+              "platya-i-yubki" "images/glossar/kategorie/kleider-roecke.png"
+              "stil-und-vozdeystvie" "images/glossar/kategorie/stil-wirkung.png"
+              "tsvetovoy-slovar" "images/glossar/kategorie/farb-lexikon.png"
+            }}
+            {{ if not $categoryImage }}
+              {{ with .File }}
+                {{ with index $categoryImageMap .BaseFileName }}
+                  {{ $categoryImage = . }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if not $categoryImage }}
+              {{ with .File }}
+                {{ $candidatePng := printf "images/glossar/kategorie/%s.png" .BaseFileName }}
+                {{ $candidateWebp := printf "images/glossar/kategorie/%s.webp" .BaseFileName }}
+                {{ $candidateAvif := printf "images/glossar/kategorie/%s.avif" .BaseFileName }}
+                {{ if fileExists (printf "static/%s" $candidatePng) }}
+                  {{ $categoryImage = $candidatePng }}
+                {{ else if fileExists (printf "static/%s" $candidateWebp) }}
+                  {{ $categoryImage = $candidateWebp }}
+                {{ else if fileExists (printf "static/%s" $candidateAvif) }}
+                  {{ $categoryImage = $candidateAvif }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if not $categoryImage }}
+              {{ $categoryImage = "images/glossar/kategorie/_index.png" }}
+            {{ end }}
+            <li class="glossar-category-card-item">
+              <a href="{{ .RelPermalink }}" class="glossar-category-card-link" title="{{ $categoryLabel | plainify }}" aria-label="{{ $categoryLabel | plainify }}">
+                <span class="glossar-category-card-thumb">
+                  {{ partial "responsive-image.html" (dict "src" $categoryImage "alt" $categoryLabel "title" $categoryLabel "class" "glossar-category-card-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 40vw, 320px" "width" "800" "height" "1000") }}
+                </span>
+                <span class="glossar-category-card-title">{{ $categoryLabel }}</span>
+                {{ with .Description }}
+                  <span class="glossar-category-card-excerpt">{{ . }}</span>
+                {{ end }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section
+    class="glossar-panel"
+    id="glossar-panel-relevance"
+    role="tabpanel"
+    aria-labelledby="glossar-tab-relevance"
     hidden
   >
     <div class="container glossar-content-shell">
-      <div class="glossar-category-view">
-        {{ $glossarPages := where (where site.Pages "Type" "glossar") "Kind" "page" }}
-        {{ $categories := slice
-          "Stil & Wirkung"
-          "Farbberatung & Farbe"
-          "Schnitt, Proportion & Passform"
-          "Garderobe & Alltag"
-          "Materialien & Details"
-          "Farb-Lexikon"
-        }}
-
-        {{ range $categories }}
-          {{ $category := . }}
-          {{ $termsInCategory := where $glossarPages "Params.category" $category }}
-          {{ if $termsInCategory }}
-            <div class="glossar-category-group">
-              <h2 class="glossar-category-heading">{{ $category }}</h2>
-              <ul class="glossar-term-list">
-                {{ range sort $termsInCategory "Params.weight" "asc" }}
-                  {{ $termTitle := .Params.term | default .Title }}
-                  {{ $imageAlt := .Params.image_alt | default $termTitle }}
-                  <li class="glossar-term-item">
-                    <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
-                      {{ with .Params.image }}
-                        <span class="glossar-term-thumb">
-                          {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "72px") }}
-                        </span>
-                      {{ end }}
-                      <span class="glossar-term-title">{{ $termTitle }}</span>
-                      {{ with .Description }}
-                        <span class="glossar-term-excerpt">{{ . }}</span>
-                      {{ end }}
-                    </a>
-                  </li>
+      <div class="glossar-relevance-view">
+        {{ $relevanceTerms := sort (sort $glossarPages "Title" "asc") "Params.weight" "asc" }}
+        <div class="glossar-relevance-group">
+          <h2 class="glossar-category-heading">{{ $byRelevanceText }} <span class="glossar-group-count">{{ len $relevanceTerms }}</span></h2>
+          <ul class="glossar-term-list">
+            {{ range $index, $term := $relevanceTerms }}
+              {{ $termTitle := $term.Params.term | default $term.Title }}
+              {{ $imageAlt := $term.Params.image_alt | default $termTitle }}
+              {{ $entryImage := $term.Params.image }}
+              {{ if not $entryImage }}
+                {{ with $term.File }}
+                  {{ $candidate := printf "images/glossar/%s.png" .BaseFileName }}
+                  {{ if fileExists (printf "static/%s" $candidate) }}
+                    {{ $entryImage = $candidate }}
+                  {{ end }}
                 {{ end }}
-              </ul>
-            </div>
-          {{ end }}
-        {{ end }}
+              {{ end }}
+              <li class="glossar-term-item">
+                <a href="{{ $term.RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+                  {{ with $entryImage }}
+                    <span class="glossar-term-thumb">
+                      {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 160px, 176px" "width" "400" "height" "500") }}
+                    </span>
+                  {{ end }}
+                  <span class="glossar-term-title"><span class="glossar-relevance-rank">{{ add $index 1 }}</span>{{ $termTitle }}</span>
+                  {{ with $term.Description }}
+                    <span class="glossar-term-excerpt">{{ . }}</span>
+                  {{ end }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
     </div>
   </section>
@@ -186,6 +271,42 @@
 document.addEventListener('DOMContentLoaded', function() {
   const tabs = document.querySelectorAll('[role="tab"]');
   const panels = document.querySelectorAll('[role="tabpanel"]');
+  const searchInput = document.getElementById('glossar-search');
+  const resultCount = document.getElementById('glossar-results-count');
+  const resultNumber = document.querySelector('.glossar-results-number');
+  const noResults = document.getElementById('glossar-no-results');
+
+  function updateSearchView(query) {
+    const activePanel = document.querySelector('.glossar-panel.active');
+    const terms = activePanel ? activePanel.querySelectorAll('.glossar-term-item, .glossar-category-card-item') : [];
+    let visibleCount = 0;
+
+    terms.forEach(term => {
+      const title = term.querySelector('.glossar-term-title, .glossar-category-card-title')?.textContent.toLowerCase() || '';
+      const excerpt = term.querySelector('.glossar-term-excerpt, .glossar-category-card-excerpt')?.textContent.toLowerCase() || '';
+      const matches = title.includes(query) || excerpt.includes(query);
+      term.style.display = matches ? '' : 'none';
+      if (matches) {
+        visibleCount += 1;
+      }
+    });
+
+    const groups = activePanel ? activePanel.querySelectorAll('.glossar-letter-group, .glossar-category-group, .glossar-relevance-group, .glossar-category-overview-list') : [];
+    groups.forEach(group => {
+      const visibleTerms = group.querySelectorAll('.glossar-term-item:not([style*="display: none"]), .glossar-category-card-item:not([style*="display: none"])').length;
+      group.style.display = visibleTerms > 0 ? '' : 'none';
+    });
+
+    if (resultNumber) {
+      resultNumber.textContent = String(visibleCount);
+    }
+    if (resultCount) {
+      resultCount.hidden = visibleCount === 0;
+    }
+    if (noResults) {
+      noResults.hidden = visibleCount !== 0;
+    }
+  }
   
   tabs.forEach(tab => {
     tab.addEventListener('click', function() {
@@ -205,27 +326,20 @@ document.addEventListener('DOMContentLoaded', function() {
         activePanel.hidden = false;
         activePanel.classList.add('active');
       }
+
+      const query = (searchInput?.value || '').toLowerCase().trim();
+      updateSearchView(query);
     });
   });
 
-  const searchInput = document.getElementById('glossar-search');
   if (searchInput) {
     searchInput.addEventListener('input', function(e) {
-      const query = e.target.value.toLowerCase();
-      const terms = document.querySelectorAll('.glossar-term-item');
-      
-      terms.forEach(term => {
-        const title = term.querySelector('.glossar-term-title').textContent.toLowerCase();
-        const excerpt = term.querySelector('.glossar-term-excerpt')?.textContent.toLowerCase() || '';
-        
-        if (title.includes(query) || excerpt.includes(query)) {
-          term.style.display = '';
-        } else {
-          term.style.display = 'none';
-        }
-      });
+      const query = e.target.value.toLowerCase().trim();
+      updateSearchView(query);
     });
   }
+
+  updateSearchView('');
 });
 </script>
 {{ end }}

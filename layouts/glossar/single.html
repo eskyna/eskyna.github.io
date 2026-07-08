@@ -5,6 +5,15 @@
 {{ $homeUI := .Site.Home.Params.ui }}
 {{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
 {{ $relatedText := or $pageUI.related_text $sectionUI.related_text $homeUI.related_text "Verwandte Begriffe" }}
+{{ $displayImage := .Params.image }}
+{{ if not $displayImage }}
+  {{ with .File }}
+    {{ $candidate := printf "images/glossar/%s.png" .BaseFileName }}
+    {{ if fileExists (printf "static/%s" $candidate) }}
+      {{ $displayImage = $candidate }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 {{ $imageAlt := .Params.image_alt | default .Title }}
 
 <main class="glossar-page">
@@ -28,7 +37,7 @@
         {{ end }}
       </div>
 
-      {{ with .Params.image }}
+      {{ with $displayImage }}
       <div class="glossar-hero-visual">
         <button
           class="glossar-lightbox-trigger"
@@ -80,7 +89,7 @@
   {{ partial "contact-modal.html" . }}
 </main>
 
-{{ with .Params.image }}
+{{ with $displayImage }}
 <script>
 (function () {
   var dialog = document.getElementById('glossar-lightbox');
