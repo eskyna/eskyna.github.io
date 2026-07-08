@@ -1,23 +1,23 @@
 ---
-title: "Proportion"
-term: "Proportion"
-description: "Proportion beschreibt das Verhältnis von Längen, Breiten und Volumen im Outfit und macht Looks stimmig."
+title: "Что означают пропорции?"
+term: "Пропорции"
+description: "Пропорции описывают соотношение длин, ширин и объёмов в образе и делают его визуально цельным."
 category: "Крой, пропорции и посадка"
-tags: ["proportion", "schnitt", "silhouette", "passform"]
-keywords: ["proportion mode", "proportionen outfit", "schnitt", "stilberatung"]
+tags: ["пропорции", "крой", "силуэт", "посадка"]
+keywords: ["пропорции в одежде", "пропорции образа", "крой", "консультация по стилю"]
 glossar_order: "p"
 weight: 3
 image: "images/glossar/proportion.png"
-image_alt: "Grafik mit Outfit-Linien und Flächen zur Erklärung von Proportion"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пропорции"
 relatedTerms:
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Layering"
+  - title: "Многослойность"
     url: "/ru/glossar/layering/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

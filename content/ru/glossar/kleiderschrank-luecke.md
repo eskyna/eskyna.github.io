@@ -1,24 +1,23 @@
 ---
-title: "Kleiderschrank-Lücke"
-term: "Kleiderschrank-Lücke"
-description: "Eine Kleiderschrank-Lücke ist ein fehlendes Teil, das mehrere vorhandene Outfits sinnvoll vervollständigen würde."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "kleiderschrank luecke"]
-keywords:
-  ["kleiderschrank-lücke", "was bedeutet kleiderschrank-lücke", "kleiderschrank-lücke stilberatung"]
+title: "Что означает пробел в гардеробе?"
+term: "Пробел в гардеробе"
+description: "Пробел в гардеробе это недостающая вещь, которая могла бы осмысленно завершить сразу несколько уже существующих образов."
+category: "Гардероб и повседневность"
+tags: ["гардероб", "пробел в гардеробе"]
+keywords: ["пробел в гардеробе", "чего не хватает в гардеробе", "недостающая вещь"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-luecke.png"
-image_alt: "Editoriale Glossar-Grafik zu Kleiderschrank-Lücke mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пробел в гардеробе"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Mantel?"
-term: "Mantel"
-description: "Ein Mantel ist eine längere Jacke für kühlere Tage und prägt die Außenwirkung eines Outfits besonders stark."
+title: "Что означает пальто?"
+term: "Пальто"
+description: "Пальто это удлинённая верхняя одежда для прохладной погоды, которая сильно влияет на общее впечатление от образа."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "mantel"]
-keywords: ["mantel", "was bedeutet mantel", "mantel stilberatung"]
+tags: ["гардероб", "пальто"]
+keywords: ["пальто", "виды пальто", "как выбрать пальто"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/mantel.png"
-image_alt: "Editoriale Glossar-Grafik zu Mantel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пальто"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

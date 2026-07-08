@@ -1,23 +1,23 @@
 ---
-title: "Oversized-Blazer"
-term: "Oversized-Blazer"
-description: "Ein Oversized-Blazer ist ein bewusst weiter geschnittener Blazer mit großzügiger Schulter und moderner Silhouette."
+title: "Что означает oversized blazer?"
+term: "Oversized blazer"
+description: "Oversized blazer это пиджак с намеренно свободным кроем, широкой линией плеч и современной силуэтной формой."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "oversized blazer"]
-keywords: ["oversized-blazer", "was bedeutet oversized-blazer", "oversized-blazer stilberatung"]
+tags: ["гардероб", "oversized blazer"]
+keywords: ["oversized blazer", "свободный пиджак", "как носить oversized blazer"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/oversized-blazer.png"
-image_alt: "Editoriale Glossar-Grafik zu Oversized-Blazer mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Oversized blazer"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

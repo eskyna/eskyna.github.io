@@ -4,11 +4,11 @@ term: "Профиль цвета"
 description: "Профиль цвета — это персональный анализ цветотипа и рекомендуемых оттенков."
 category: "Консультация по цвету и цвет"
 tags: ["farbprofil", "stil"]
-keywords: ["farbprofil", "was bedeutet farbprofil", "farbprofil stilberatung"]
+keywords: ["farbprofil", "что означает farbprofil", "farbprofil stilberatung"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/farbprofil.png"
-image_alt: "Editoriale Glossar-Grafik zu Farbprofil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль цвета"
 relatedTerms:
   - title: "Профиль цвета"
     url: "/ru/glossar/signature-look/"

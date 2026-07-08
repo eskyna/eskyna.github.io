@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Griff?"
-term: "Griff"
-description: "Der Griff beschreibt, wie sich ein Material anfühlt, etwa glatt, trocken, weich, fest oder körnig."
+title: "Что означает тактильность материала?"
+term: "Тактильность материала"
+description: "Тактильность материала описывает, как ткань ощущается на ощупь, например гладкой, сухой, мягкой, плотной или зернистой."
 category: "Материалы и детали"
-tags: ["griff", "materialien"]
-keywords: ["griff", "was bedeutet griff", "griff stilberatung"]
+tags: ["тактильность", "материалы"]
+keywords: ["тактильность материала", "ощущение ткани", "как материал чувствуется на ощупь"]
 glossar_order: "g"
 weight: 1
 image: "images/glossar/griff.png"
-image_alt: "Editoriale Glossar-Grafik zu Griff mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Тактильность материала"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

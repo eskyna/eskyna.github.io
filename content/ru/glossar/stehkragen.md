@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Stehkragen?"
-term: "Stehkragen"
-description: "Ein Stehkragen steht aufrecht am Hals und wirkt klarer und reduzierter als ein Hemdkragen."
+title: "Что означает воротник-стойка?"
+term: "Воротник-стойка"
+description: "Воротник-стойка прилегает к шее и воспринимается более чётко и лаконично, чем классический рубашечный воротник."
 category: "Материалы и детали"
-tags: ["materialien", "stehkragen"]
-keywords: ["stehkragen", "was bedeutet stehkragen", "stehkragen stilberatung"]
+tags: ["материалы", "воротник-стойка"]
+keywords: ["воротник-стойка", "что означает воротник-стойка", "воротник-стойка в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stehkragen.png"
-image_alt: "Editoriale Glossar-Grafik zu Stehkragen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Воротник-стойка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

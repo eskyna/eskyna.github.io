@@ -1,23 +1,23 @@
 ---
-title: "Schulterpolster"
-term: "Schulterpolster"
-description: "Schulterpolster formen die Schulterpartie und beeinflussen Präsenz, Breite und Struktur eines Looks."
+title: "Что означают подплечники?"
+term: "Подплечники"
+description: "Подплечники формируют плечевую зону и влияют на присутствие, ширину и структуру образа."
 category: "Материалы и детали"
-tags: ["materialien", "schulterpolster"]
-keywords: ["schulterpolster", "was bedeutet schulterpolster", "schulterpolster stilberatung"]
+tags: ["материалы", "подплечники"]
+keywords: ["подплечники", "что означают подплечники", "подплечники в стиле"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schulterpolster.png"
-image_alt: "Editoriale Glossar-Grafik zu Schulterpolster mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Подплечники"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

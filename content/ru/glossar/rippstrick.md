@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Rippstrick?"
-term: "Rippstrick"
-description: "Rippstrick ist Strick mit sichtbarer Rippenstruktur, der elastisch und körpernah wirken kann."
+title: "Что означает рибана?"
+term: "Рибана"
+description: "Рибана это трикотаж с выраженной рубчиковой структурой, который может быть эластичным и более прилегающим к телу."
 category: "Материалы и детали"
-tags: ["materialien", "rippstrick"]
-keywords: ["rippstrick", "was bedeutet rippstrick", "rippstrick stilberatung"]
+tags: ["материалы", "рибана"]
+keywords: ["рибана", "трикотаж в рубчик", "рибана в одежде"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/rippstrick.png"
-image_alt: "Editoriale Glossar-Grafik zu Rippstrick mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Рибана"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

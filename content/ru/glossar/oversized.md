@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Oversized?"
+title: "Что означает oversized?"
 term: "Oversized"
-description: "Oversized beschreibt bewusst großzügig geschnittene Kleidung, die Volumen, Lässigkeit und moderne Proportionen schafft."
+description: "Oversized описывает одежду с намеренно свободным кроем, которая создаёт объём, расслабленность и современные пропорции."
 category: "Крой, пропорции и посадка"
-tags: ["oversized", "schnitt", "silhouette", "proportion", "passform"]
-keywords: ["oversized", "was bedeutet oversized", "oversized blazer", "oversized schnitt"]
+tags: ["oversized", "крой", "силуэт", "пропорции", "посадка"]
+keywords: ["oversized", "что означает oversized", "oversized blazer", "свободный крой"]
 glossar_order: "o"
 weight: 16
 image: "images/glossar/oversized.png"
-image_alt: "Editoriale Grafik mit großzügiger Oversized-Silhouette, Körperrahmen und ruhigen Volumenflächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Oversized"
 relatedTerms:
-  - title: "Layering"
+  - title: "Многослойность"
     url: "/ru/glossar/layering/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
-  - title: "Blazer"
+  - title: "Пиджак"
     url: "/ru/glossar/blazer/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
 ---

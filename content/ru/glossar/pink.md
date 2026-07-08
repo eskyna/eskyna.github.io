@@ -1,28 +1,28 @@
 ---
-title: "Pink im Stil erklärt"
+title: "Pink в контексте стиля"
 term: "Pink"
-description: "Pink wirkt sichtbar, modern und selbstbewusst. Entscheidend sind Sättigung, Dosierung und die Ruhe im restlichen Outfit."
+description: "Pink выглядит заметно, современно и уверенно. Важны насыщенность, дозировка и спокойный баланс остального образа."
 category: "Цветовой словарь"
 color_hex: "#D94B8A"
-tags: ["pink", "farbe", "rosa", "farbberatung"]
-keywords: ["pink kleidung", "pink kombinieren", "fuchsia", "pink im business"]
+tags: ["pink", "цвет", "розовый", "цветовая консультация"]
+keywords: ["одежда pink", "с чем сочетать pink", "fuchsia", "pink в бизнес-образе"]
 glossar_order: "p"
 weight: 14
 image: "images/glossar/pink.png"
-image_alt: "Editoriale Grafik mit Pink-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Pink"
 relatedTerms:
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
-  - title: "Rot"
+  - title: "Красный"
     url: "/ru/glossar/rot/"
-  - title: "Lila"
+  - title: "Лиловый"
     url: "/ru/glossar/lila/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
-  - title: "Sättigung"
+  - title: "Насыщенность"
     url: "/ru/glossar/saettigung/"
   - title: "Fuchsia"
     url: "/ru/glossar/fuchsia/"
-  - title: "Violett"
+  - title: "Фиолетовый"
     url: "/ru/glossar/violett/"
 ---

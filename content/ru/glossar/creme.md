@@ -9,7 +9,7 @@ keywords: ["creme kleidung", "creme kombinieren", "creme farbberatung", "creme s
 glossar_order: "c"
 weight: 11
 image: "images/glossar/creme.png"
-image_alt: "Editoriale Grafik mit Creme-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Крем"
 relatedTerms:
   - title: "Кремовый цвет"
     url: "/ru/glossar/weiss/"

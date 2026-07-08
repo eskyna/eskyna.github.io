@@ -4,11 +4,11 @@ term: "Аналогичные цвета"
 description: "Аналогичные цвета расположены рядом на цветовом колесе и создают гармоничные, согласованные комбинации."
 category: "Консультация по цвету и цвет"
 tags: ["analogfarben", "farbberatung"]
-keywords: ["analogfarben", "was bedeutet analogfarben", "analogfarben stilberatung"]
+keywords: ["analogfarben", "что означает analogfarben", "analogfarben stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/analogfarben.png"
-image_alt: "Editoriale Glossar-Grafik zu Analogfarben mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Аналогичные цвета"
 relatedTerms:
   - title: "Аналогичные цвета в цветовой теории"
     url: "/ru/glossar/farbtyp/"

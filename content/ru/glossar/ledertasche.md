@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Ledertasche?"
-term: "Ledertasche"
-description: "Eine Ledertasche wirkt je nach Form, Farbe und Oberfläche klassisch, weich, modern oder streng."
+title: "Что означает кожаная сумка?"
+term: "Кожаная сумка"
+description: "Кожаная сумка в зависимости от формы, цвета и поверхности может выглядеть классически, мягко, современно или строго."
 category: "Материалы и детали"
-tags: ["ledertasche", "materialien"]
-keywords: ["ledertasche", "was bedeutet ledertasche", "ledertasche stilberatung"]
+tags: ["кожаная сумка", "материалы"]
+keywords: ["кожаная сумка", "сумка из кожи", "как выбрать кожаную сумку"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/ledertasche.png"
-image_alt: "Editoriale Glossar-Grafik zu Ledertasche mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кожаная сумка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

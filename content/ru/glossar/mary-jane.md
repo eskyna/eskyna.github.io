@@ -1,21 +1,21 @@
 ---
-title: "Mary Jane Schuh"
-term: "Mary Jane"
-description: "Mary Janes sind Schuhe mit Riemchen über dem Spann und wirken je nach Form klassisch, feminin oder modern."
-category: "Schuhe"
-tags: ["mary jane", "schuhe", "ballerina", "riemen"]
-keywords: ["mary jane schuh", "was sind mary janes", "riemchenschuh"]
+title: "Что такое mary jane?"
+term: "Mary jane"
+description: "Mary jane это обувь с ремешком на подъёме, которая в зависимости от формы может выглядеть классически, женственно или современно."
+category: "Обувь"
+tags: ["mary jane", "обувь", "балетки", "ремешок"]
+keywords: ["mary jane", "обувь mary jane", "туфли с ремешком"]
 glossar_order: "m"
 weight: 11
 image: "images/glossar/mary-jane.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Mary Jane mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Mary jane"
 relatedTerms:
-  - title: "Ballerina"
+  - title: "Балетки"
     url: "/ru/glossar/ballerina/"
-  - title: "Pumps"
+  - title: "Лодочки"
     url: "/ru/glossar/pumps/"
   - title: "Loafer"
     url: "/ru/glossar/loafer/"
-  - title: "Kleid"
+  - title: "Платье"
     url: "/ru/glossar/kleid/"
 ---

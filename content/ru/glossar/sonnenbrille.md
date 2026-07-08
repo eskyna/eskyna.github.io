@@ -1,23 +1,24 @@
 ---
-title: "Sonnenbrille"
-term: "Sonnenbrille"
-description: "Eine Sonnenbrille schützt die Augen und prägt zugleich Gesicht, Haltung und Stilrichtung eines Looks."
+title: "Что такое солнцезащитные очки?"
+term: "Солнцезащитные очки"
+description: "Солнцезащитные очки защищают глаза и одновременно влияют на восприятие лица, осанки и стилевого направления образа."
 category: "Материалы и детали"
-tags: ["sonnenbrille", "brille", "accessoire", "gesichtsrahmung", "styling"]
-keywords: ["sonnenbrille styling", "sonnenbrille gesichtsform", "sonnenbrille kombinieren"]
+tags: ["солнцезащитные очки", "очки", "аксессуар", "рамка лица", "стилизация"]
+keywords:
+  ["стилизация солнцезащитных очков", "очки и форма лица", "с чем сочетать солнцезащитные очки"]
 glossar_order: "s"
 weight: 19
 image: "images/glossar/sonnenbrille.png"
-image_alt: "Editoriale Grafik zu Sonnenbrille mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Солнцезащитные очки"
 relatedTerms:
-  - title: "Brille"
+  - title: "Очки"
     url: "/ru/glossar/brille/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Gesichtsrahmung"
+  - title: "Рамка лица"
     url: "/ru/glossar/gesichtsrahmung/"
-  - title: "Statement-Piece"
+  - title: "Акцентная вещь"
     url: "/ru/glossar/statement-piece/"
-  - title: "Quiet Luxury"
+  - title: "Тихая роскошь"
     url: "/ru/glossar/quiet-luxury/"
 ---

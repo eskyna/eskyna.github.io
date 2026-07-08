@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Kernsprache?"
-term: "Kernsprache"
-description: "Kernsprache beschreibt die persönliche visuelle Sprache, die Farben, Formen, Materialien und Details verbindet."
+title: "Что означает ядро визуального языка?"
+term: "Ядро визуального языка"
+description: "Ядро визуального языка описывает личную систему стиля, которая связывает цвета, формы, материалы и детали."
 category: "Стиль и воздействие"
-tags: ["kernsprache", "stil"]
-keywords: ["kernsprache", "was bedeutet kernsprache", "kernsprache stilberatung"]
+tags: ["ядро визуального языка", "стиль"]
+keywords: ["ядро визуального языка", "личный визуальный язык", "база стилистического образа"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kernsprache.png"
-image_alt: "Editoriale Glossar-Grafik zu Kernsprache mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ядро визуального языка"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

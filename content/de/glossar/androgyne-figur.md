@@ -1,14 +1,20 @@
 ---
 title: "Was bedeutet androgyne Figur?"
 term: "Androgyne Figur"
-description: "Eine androgyne Figur beschreibt eine eher gerade, weniger stark kurvige Linienfuehrung, die mit Schnitt und Proportion sehr unterschiedlich inszeniert werden kann."
+description: "Eine androgyne Figur beschreibt eine eher gerade, weniger stark kurvige Linienführung, die mit Schnitt und Proportion sehr unterschiedlich inszeniert werden kann."
 category: "Schnitt, Proportion & Passform"
-tags: ["androgyne figur", "koerperform", "proportion", "silhouette"]
-keywords: ["androgyne figur", "androgyner koerperbau", "androgyne frauen merkmale", "was bedeutet androgyne figur"]
+tags: ["androgyne figur", "körperform", "proportion", "silhouette"]
+keywords:
+  [
+    "androgyne figur",
+    "androgyner körperbau",
+    "androgyne frauen merkmale",
+    "was bedeutet androgyne figur",
+  ]
 glossar_order: "a"
 weight: 3
 relatedTerms:
-  - title: "Koerperform"
+  - title: "Körperform"
     url: "/glossar/koerperform/"
   - title: "Silhouette"
     url: "/glossar/silhouette/"
@@ -22,19 +28,19 @@ relatedTerms:
 
 ## Definition
 
-Eine **androgyne Figur** beschreibt eine eher gerade Linienfuehrung im Koerperbild. Schultern, Taille und Huefte wirken oft weniger stark kontrastiert. Der Begriff ist beschreibend gemeint, nicht wertend.
+Eine **androgyne Figur** beschreibt eine eher gerade Linienführung im Körperbild. Schultern, Taille und Hüfte wirken oft weniger stark kontrastiert. Der Begriff ist beschreibend gemeint, nicht wertend.
 
-## Einfach erklaert
+## Einfach erklärt
 
-Nicht jede Figur lebt von starker Taillenbetonung oder von deutlichen Kurven. Bei einer androgynen Figur entsteht Wirkung haeufig durch Klarheit, Laenge, Struktur oder bewusst gesetztes Volumen.
+Nicht jede Figur lebt von starker Taillenbetonung oder von deutlichen Kurven. Bei einer androgynen Figur entsteht Wirkung haeufig durch Klarheit, Länge, Struktur oder bewusst gesetztes Volumen.
 
 Wichtig ist: Androgyn ist keine Einschraenkung. Es ist eine Form von Linie. Je nach Styling kann sie minimalistisch, sportlich, elegant, ruhig, modern oder sehr praegnant wirken.
 
-Statt vermeintlich etwas ausgleichen zu muessen, lohnt es sich, mit den vorhandenen Linien zu arbeiten. Gerade Schnitte, praezise Schultern, klare Saeume oder ruhige Farbkontraste koennen hier besonders stark sein.
+Statt vermeintlich etwas ausgleichen zu müssen, lohnt es sich, mit den vorhandenen Linien zu arbeiten. Gerade Schnitte, präzise Schultern, klare Säume oder ruhige Farbkontraste können hier besonders stark sein.
 
 ## Warum der Begriff wichtig ist
 
-Wer die eigene Linienfuehrung versteht, kauft gezielter ein. Das gilt auch fuer eine androgyne Figur. Manche Teile wirken sofort stimmig, andere bleiben trotz guter Qualitaet seltsam unentschieden.
+Wer die eigene Linienführung versteht, kauft gezielter ein. Das gilt auch für eine androgyne Figur. Manche Teile wirken sofort stimmig, andere bleiben trotz guter Qualität seltsam unentschieden.
 
 Mit diesem Verstaendnis wird deutlicher, ob ein Look mehr Struktur, mehr Taillierung oder mehr Weite braucht. So entsteht keine starre Regel, sondern eine bessere Entscheidungsgrundlage.
 
@@ -43,30 +49,30 @@ Mit diesem Verstaendnis wird deutlicher, ob ein Look mehr Struktur, mehr Taillie
 - klare Schultern und saubere Proportionen
 - bewusst gesetzte Taillierung statt beliebiger Form
 - Stoffe mit gutem Fall oder klarer Struktur
-- Laengen, die Linie schaffen statt zu unterbrechen
-- Volumen gezielt einsetzen, nicht zufaellig
+- Längen, die Linie schaffen statt zu unterbrechen
+- Volumen gezielt einsetzen, nicht zufällig
 
-## Typische Missverstaendnisse
+## Typische Missverständnisse
 
-**Missverstaendnis:** Eine androgyne Figur wirkt automatisch maskulin.
+**Missverständnis:** Eine androgyne Figur wirkt automatisch maskulin.
 
-**Besser:** Die Wirkung entsteht durch das Styling. Dieselbe Linienfuehrung kann weich, elegant, sachlich oder sehr feminin interpretiert werden.
+**Besser:** Die Wirkung entsteht durch das Styling. Dieselbe Linienführung kann weich, elegant, sachlich oder sehr feminin interpretiert werden.
 
-**Missverstaendnis:** Bei einer androgynen Figur muss immer Taille erzeugt werden.
+**Missverständnis:** Bei einer androgynen Figur muss immer Taille erzeugt werden.
 
-**Besser:** Taillierung kann schoen sein, ist aber kein Muss. Oft wirkt eine klare, gerade Linie sogar staerker.
+**Besser:** Taillierung kann schön sein, ist aber kein Muss. Oft wirkt eine klare, gerade Linie sogar stärker.
 
 ## Praktisches Beispiel
 
-Ein gerader Blazer mit praeziser Schulter, ein glattes Top und eine Hose mit ruhigem Fall koennen auf einer androgynen Figur sehr klar und hochwertig wirken. Ein stark gerafftes Oberteil mit unentschiedener Laenge dagegen kann die Linie schnell unruhig machen.
+Ein gerader Blazer mit präziser Schulter, ein glattes Top und eine Hose mit ruhigem Fall können auf einer androgynen Figur sehr klar und hochwertig wirken. Ein stark gerafftes Oberteil mit unentschiedener Länge dagegen kann die Linie schnell unruhig machen.
 
 ## ESKYNA-Merksatz
 
-Eine androgyne Figur braucht keine Korrektur. Sie gewinnt durch klare Linie, bewusste Proportion und praezises Styling.
+Eine androgyne Figur braucht keine Korrektur. Sie gewinnt durch klare Linie, bewusste Proportion und präzises Styling.
 
 ## Verwandte Begriffe
 
-- [Koerperform](/glossar/koerperform/)
+- [Körperform](/glossar/koerperform/)
 - [Silhouette](/glossar/silhouette/)
 - [Proportion](/glossar/proportion/)
 - [Androgyner Stil](/glossar/androgyner-stil/)

@@ -1,20 +1,20 @@
 ---
-title: "Was ist eine Silhouette?"
-term: "Silhouette"
-description: "Die Silhouette ist die äußere Linie eines Outfits und prägt, ob ein Look klar, weich, modern oder voluminös wirkt."
+title: "Что такое силуэт?"
+term: "Силуэт"
+description: "Силуэт это внешняя линия образа, которая определяет, воспринимается ли комплект как чёткий, мягкий, современный или объёмный."
 category: "Крой, пропорции и посадка"
-tags: ["silhouette", "schnitt", "proportionen", "passform"]
-keywords: ["silhouette mode", "schnittform", "proportionen", "stilberatung"]
+tags: ["силуэт", "крой", "пропорции", "посадка"]
+keywords: ["силуэт в моде", "форма кроя", "пропорции", "консультация по стилю"]
 glossar_order: "s"
 weight: 2
 image: "images/glossar/silhouette.png"
-image_alt: "Grafik mit mehreren Outfit-Silhouetten in klaren Linien"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Силуэт"
 relatedTerms:
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "A-Linie"
+  - title: "А-силуэт"
     url: "/ru/glossar/a-linie/"
   - title: "Oversized"
     url: "/ru/glossar/oversized/"

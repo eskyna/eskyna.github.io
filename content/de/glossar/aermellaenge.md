@@ -3,7 +3,7 @@ title: "Was bedeutet Ärmellänge?"
 term: "Ärmellänge"
 description: "Die Ärmellänge beschreibt, wo ein Ärmel endet und wie stark Handgelenk, Arm und Proportion sichtbar werden."
 category: "Schnitt, Proportion & Passform"
-tags: ["aermellaenge", "schnitt proportion"]
+tags: ["aermellänge", "schnitt proportion"]
 keywords: ["ärmellänge", "was bedeutet ärmellänge", "ärmellänge stilberatung"]
 glossar_order: "a"
 weight: 1

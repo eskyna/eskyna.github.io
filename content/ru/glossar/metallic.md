@@ -1,24 +1,30 @@
 ---
-title: "Metallic im Stil erklärt"
-term: "Metallic"
-description: "Metallic beschreibt glänzende Metalltöne wie Gold, Silber, Bronze oder Roségold. Die Wirkung entsteht durch Farbe und Licht."
+title: "Металлик в контексте стиля"
+term: "Металлик"
+description: "Металлик описывает блестящие металлические оттенки, например золото, серебро, бронзу или розовое золото. Впечатление создаётся цветом и светом."
 category: "Цветовой словарь"
 color_hex: "#B9B1A5"
-tags: ["metallic", "gold", "silber", "accessoire", "farbberatung"]
-keywords: ["metallic kleidung", "metallic kombinieren", "gold silber mode", "farbberatung"]
+tags: ["металлик", "золото", "серебро", "аксессуар", "цветовая консультация"]
+keywords:
+  [
+    "одежда в металлике",
+    "с чем сочетать металлик",
+    "золото и серебро в образе",
+    "цветовая консультация",
+  ]
 glossar_order: "m"
 weight: 31
 image: "images/glossar/metallic.png"
-image_alt: "Editoriale Grafik zu Metallic mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Металлик"
 relatedTerms:
-  - title: "Gold"
+  - title: "Золото"
     url: "/ru/glossar/gold/"
-  - title: "Silber"
+  - title: "Серебро"
     url: "/ru/glossar/silber/"
-  - title: "Roségold"
+  - title: "Розовое золото"
     url: "/ru/glossar/rosegold/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

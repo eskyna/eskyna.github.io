@@ -4,11 +4,11 @@ term: "Элегантный"
 description: "Элегантный стиль — это утонченный, изящный стиль, выражающий вкус и благородство."
 category: "Стиль и воздействие"
 tags: ["elegant", "stil"]
-keywords: ["elegant", "was bedeutet elegant", "elegant stilberatung"]
+keywords: ["elegant", "что означает elegant", "elegant stilberatung"]
 glossar_order: "e"
 weight: 1
 image: "images/glossar/elegant.png"
-image_alt: "Editoriale Glossar-Grafik zu Elegant mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Элегантный"
 relatedTerms:
   - title: "Элегантный стиль"
     url: "/ru/glossar/signature-look/"

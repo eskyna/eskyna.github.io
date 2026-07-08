@@ -1,23 +1,23 @@
 ---
-title: "Materialprofil"
-term: "Materialprofil"
-description: "Ein Materialprofil beschreibt Stoffe und Oberflächen, die zur Person, zur Wirkung und zum Alltag passen."
+title: "Что означает профиль материалов?"
+term: "Профиль материалов"
+description: "Профиль материалов описывает ткани и поверхности, которые подходят человеку, желаемому впечатлению и повседневности."
 category: "Стиль и воздействие"
-tags: ["materialprofil", "stil"]
-keywords: ["materialprofil", "was bedeutet materialprofil", "materialprofil stilberatung"]
+tags: ["профиль материалов", "стиль"]
+keywords: ["профиль материалов", "подходящие ткани", "материалы под личный стиль"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/materialprofil.png"
-image_alt: "Editoriale Glossar-Grafik zu Materialprofil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль материалов"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

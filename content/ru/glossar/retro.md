@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Retro?"
+title: "Что означает retro?"
 term: "Retro"
-description: "Retro ist die Neuinterpretation vergangener Modestile in einem heutigen Kontext."
+description: "Retro это современная интерпретация модных стилей прошлых эпох в актуальном контексте."
 category: "Стиль и воздействие"
-tags: ["retro", "stil"]
-keywords: ["retro", "was bedeutet retro", "retro stilberatung"]
+tags: ["retro", "стиль"]
+keywords: ["retro", "что означает retro", "retro в стиле"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/retro.png"
-image_alt: "Editoriale Glossar-Grafik zu Retro mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Retro"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

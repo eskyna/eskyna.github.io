@@ -1,22 +1,21 @@
 ---
-title: "Wasserfallausschnitt"
-term: "Wasserfallausschnitt"
-description: "Ein Wasserfallausschnitt ist ein drapierter Ausschnitt mit weich fallendem Stoff."
+title: "Вырез водопад"
+term: "Вырез водопад"
+description: "Вырез водопад это драпированный вырез с мягко ниспадающей тканью."
 category: "Материалы и детали"
-tags: ["materialien", "wasserfallausschnitt"]
-keywords:
-  ["wasserfallausschnitt", "was bedeutet wasserfallausschnitt", "wasserfallausschnitt stilberatung"]
+tags: ["материалы", "вырез водопад"]
+keywords: ["вырез водопад", "что означает вырез водопад", "вырез водопад в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wasserfallausschnitt.png"
-image_alt: "Editoriale Glossar-Grafik zu Wasserfallausschnitt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Вырез водопад"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

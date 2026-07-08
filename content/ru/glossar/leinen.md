@@ -1,23 +1,23 @@
 ---
-title: "Was ist Leinen?"
-term: "Leinen"
-description: "Leinen ist eine Naturfaser mit sichtbarer Struktur, die luftig, ruhig und sommerlich wirkt."
+title: "Что такое лён?"
+term: "Лён"
+description: "Лён это натуральное волокно с заметной фактурой, которое выглядит воздушно, спокойно и по-летнему."
 category: "Материалы и детали"
-tags: ["leinen", "material", "sommerstoffe", "naturfaser", "stilberatung"]
-keywords: ["leinen", "was ist leinen", "leinen kleidung", "leinen kombinieren"]
+tags: ["лён", "материал", "летние ткани", "натуральное волокно", "стиль"]
+keywords: ["лён", "что такое лён", "льняная одежда", "с чем сочетать лён"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/leinen.png"
-image_alt: "Editoriale Grafik mit stilisierter Leinenstruktur, Stoffbahn und ruhigen Naturtönen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Лён"
 relatedTerms:
-  - title: "Baumwolle"
+  - title: "Хлопок"
     url: "/ru/glossar/baumwolle/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Trenchcoat"
+  - title: "Тренч"
     url: "/ru/glossar/trenchcoat/"
 ---

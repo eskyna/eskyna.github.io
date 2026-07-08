@@ -3,12 +3,12 @@ title: "Двубортный пиджак"
 term: "Двубортный"
 description: "Двубортный — это стиль с двумя рядами пуговиц, создающий более формальный вид."
 category: "Материалы и детали"
-tags: ["doppelreiher", "garderobe"]
-keywords: ["doppelreiher", "was bedeutet doppelreiher", "doppelreiher stilberatung"]
+tags: ["doppelreiher", "гардероб"]
+keywords: ["doppelreiher", "что означает doppelreiher", "doppelreiher stilberatung"]
 glossar_order: "d"
 weight: 1
 image: "images/glossar/doppelreiher.png"
-image_alt: "Editoriale Glossar-Grafik zu Doppelreiher mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Двубортный"
 relatedTerms:
   - title: "Двубортный пиджак"
     url: "/ru/glossar/capsule-wardrobe/"

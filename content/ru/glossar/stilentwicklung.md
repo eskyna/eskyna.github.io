@@ -1,23 +1,23 @@
 ---
-title: "Stilentwicklung"
-term: "Stilentwicklung"
-description: "Stilentwicklung ist die bewusste Veränderung oder Verfeinerung des eigenen Stils im Laufe der Zeit."
+title: "Развитие стиля"
+term: "Развитие стиля"
+description: "Развитие стиля это осознанное изменение или уточнение личного стиля с течением времени."
 category: "Стиль и воздействие"
-tags: ["stil", "stilentwicklung"]
-keywords: ["stilentwicklung", "was bedeutet stilentwicklung", "stilentwicklung stilberatung"]
+tags: ["стиль", "развитие стиля"]
+keywords: ["развитие стиля", "что означает развитие стиля", "эволюция личного стиля"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilentwicklung.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilentwicklung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Развитие стиля"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

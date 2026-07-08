@@ -10,12 +10,12 @@ tags:
   - "hose"
 keywords:
   - "bermuda"
-  - "was ist eine bermuda"
+  - "что такое bermuda"
   - "bermuda shorts kombinieren"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/bermuda.png"
-image_alt: "Editoriale Grafik zu Bermuda mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бермуды"
 relatedTerms:
   - title: "Бермуды в летнем гардеробе"
     url: "/ru/glossar/shorts/"

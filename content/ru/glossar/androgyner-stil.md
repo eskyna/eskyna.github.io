@@ -4,11 +4,11 @@ term: "Андрогинный стиль"
 description: "Андрогинный стиль сочетает мужские и женские элементы, создавая нейтральный и оригинальный образ."
 category: "Стиль и воздействие"
 tags: ["androgyner stil", "stil"]
-keywords: ["androgyner stil", "was bedeutet androgyner stil", "androgyner stil stilberatung"]
+keywords: ["androgyner stil", "что означает androgyner stil", "androgyner stil stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/androgyner-stil.png"
-image_alt: "Editoriale Glossar-Grafik zu Androgyner Stil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Андрогинный стиль"
 relatedTerms:
   - title: "Андрогинный стиль в моде"
     url: "/ru/glossar/signature-look/"

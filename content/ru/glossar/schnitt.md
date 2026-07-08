@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Schnitt?"
-term: "Schnitt"
-description: "Der Schnitt beschreibt die konstruktive Form eines Kleidungsstücks und entscheidet, wie es am Körper fällt."
+title: "Что означает крой?"
+term: "Крой"
+description: "Крой описывает конструктивную форму вещи и определяет, как она ложится на тело."
 category: "Крой, пропорции и посадка"
-tags: ["schnitt", "schnitt proportion"]
-keywords: ["schnitt", "was bedeutet schnitt", "schnitt stilberatung"]
+tags: ["крой", "пропорции"]
+keywords: ["крой", "что означает крой", "крой в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schnitt.png"
-image_alt: "Editoriale Glossar-Grafik zu Schnitt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Крой"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

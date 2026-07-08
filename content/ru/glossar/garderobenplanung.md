@@ -1,23 +1,23 @@
 ---
-title: "Garderobenplanung"
-term: "Garderobenplanung"
-description: "Garderobenplanung ist der systematische Aufbau eines Kleiderschranks nach Alltag, Stil, Farben und Anlässen."
+title: "Что означает планирование гардероба?"
+term: "Планирование гардероба"
+description: "Планирование гардероба это системный подход к построению шкафа с учётом повседневности, стиля, цветов и поводов."
 category: "Стиль и воздействие"
-tags: ["garderobenplanung", "stil"]
-keywords: ["garderobenplanung", "was bedeutet garderobenplanung", "garderobenplanung stilberatung"]
+tags: ["планирование гардероба", "стиль"]
+keywords: ["планирование гардероба", "как собрать гардероб", "структура гардероба"]
 glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobenplanung.png"
-image_alt: "Editoriale Glossar-Grafik zu Garderobenplanung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Планирование гардероба"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

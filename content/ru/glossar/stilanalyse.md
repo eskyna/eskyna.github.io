@@ -1,21 +1,21 @@
 ---
-title: "Was ist eine Stilanalyse?"
-term: "Stilanalyse"
-description: "Eine Stilanalyse macht sichtbar, welche Farben, Schnitte, Materialien und Stilcodes deine Wirkung klar und stimmig machen."
+title: "Что означает анализ стиля?"
+term: "Анализ стиля"
+description: "Анализ стиля показывает, какие цвета, силуэты, материалы и стилевые коды делают образ человека ясным и цельным."
 category: "Стиль и воздействие"
-tags: ["stilanalyse", "style analyse", "stil", "wirkung"]
-keywords: ["stilanalyse", "style analyse", "style analyse bedeutung", "style analyse stilberatung"]
+tags: ["анализ стиля", "стиль", "впечатление", "стилевые коды"]
+keywords: ["анализ стиля", "разбор стиля", "стилевой анализ", "консультация по стилю"]
 glossar_order: "s"
 weight: 2
 relatedTerms:
-  - title: "Stil"
+  - title: "Стиль"
     url: "/ru/glossar/stil/"
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Outfit-Analyse"
+  - title: "Анализ образа"
     url: "/ru/glossar/outfit-analyse/"
-  - title: "Typberatung"
+  - title: "Типажная консультация"
     url: "/ru/glossar/typberatung/"
 ---

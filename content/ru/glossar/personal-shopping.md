@@ -1,23 +1,23 @@
 ---
-title: "Personal Shopping"
-term: "Personal Shopping"
-description: "Personal Shopping ist eine begleitete oder kuratierte Einkaufserfahrung mit Fokus auf passende Kleidung."
+title: "Что означает personal shopping?"
+term: "Personal shopping"
+description: "Personal shopping это сопровождаемый или кураторский шопинг с фокусом на действительно подходящую одежду."
 category: "Стиль и воздействие"
-tags: ["personal shopping", "stil"]
-keywords: ["personal shopping", "was bedeutet personal shopping", "personal shopping stilberatung"]
+tags: ["personal shopping", "стиль"]
+keywords: ["personal shopping", "сопровождаемый шопинг", "шопинг со стилистом"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/personal-shopping.png"
-image_alt: "Editoriale Glossar-Grafik zu Personal Shopping mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Personal shopping"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

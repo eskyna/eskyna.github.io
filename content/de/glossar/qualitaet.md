@@ -3,7 +3,7 @@ title: "Was bedeutet Qualität?"
 term: "Qualität"
 description: "Qualität entsteht durch Material, Schnitt, Verarbeitung, Passform und die Frage, wie lange ein Teil wirklich funktioniert."
 category: "Garderobe & Alltag"
-tags: ["garderobe", "qualitaet"]
+tags: ["garderobe", "qualität"]
 keywords: ["qualität", "was bedeutet qualität", "qualität stilberatung"]
 glossar_order: "q"
 weight: 1

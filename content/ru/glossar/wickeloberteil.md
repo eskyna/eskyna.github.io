@@ -1,21 +1,21 @@
 ---
-title: "Wickeloberteil"
-term: "Wickeloberteil"
-description: "Ein Wickeloberteil wird vorne überkreuzt oder seitlich gebunden und erzeugt eine weiche diagonale Linie."
+title: "Топ с запахом"
+term: "Топ с запахом"
+description: "Топ с запахом перекрещивается спереди или завязывается сбоку и создаёт мягкую диагональную линию."
 category: "Материалы и детали"
-tags: ["materialien", "wickeloberteil"]
-keywords: ["wickeloberteil", "was bedeutet wickeloberteil", "wickeloberteil stilberatung"]
+tags: ["материалы", "топ с запахом"]
+keywords: ["топ с запахом", "что означает топ с запахом", "топ с запахом в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wickeloberteil.png"
-image_alt: "Editoriale Glossar-Grafik zu Wickeloberteil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Топ с запахом"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

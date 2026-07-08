@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stoffgewicht?"
-term: "Stoffgewicht"
-description: "Stoffgewicht beschreibt, wie schwer ein Material ist und wie fest, weich oder fließend es wirkt."
+title: "Что означает плотность ткани?"
+term: "Плотность ткани"
+description: "Плотность ткани описывает, насколько материал тяжёлый, и как он держит форму, мягкость или текучесть."
 category: "Материалы и детали"
-tags: ["materialien", "stoffgewicht"]
-keywords: ["stoffgewicht", "was bedeutet stoffgewicht", "stoffgewicht stilberatung"]
+tags: ["материалы", "плотность ткани"]
+keywords: ["плотность ткани", "что означает плотность ткани", "плотность ткани в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stoffgewicht.png"
-image_alt: "Editoriale Glossar-Grafik zu Stoffgewicht mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Плотность ткани"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

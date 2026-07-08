@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Punkte?"
-term: "Punkte"
-description: "Punkte sind runde, wiederkehrende Muster, die je nach Größe verspielt, grafisch oder elegant wirken."
+title: "Что означает узор в горошек?"
+term: "Узор в горошек"
+description: "Узор в горошек состоит из повторяющихся круглых элементов и в зависимости от размера может выглядеть игриво, графично или элегантно."
 category: "Материалы и детали"
-tags: ["materialien", "punkte"]
-keywords: ["punkte", "was bedeutet punkte", "punkte stilberatung"]
+tags: ["материалы", "узор в горошек"]
+keywords: ["узор в горошек", "горошек в одежде", "как работает горошек в образе"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/punkte.png"
-image_alt: "Editoriale Glossar-Grafik zu Punkte mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Узор в горошек"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

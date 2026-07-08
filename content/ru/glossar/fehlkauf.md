@@ -3,13 +3,13 @@ title: "Как избежать ошибок покупок"
 term: "Ошибка покупки"
 description: "Ошибка покупки — это приобретение предмета, который не подходит гардеробу или не носится."
 category: "Гардероб и повседневность"
-tags: ["fehlkauf", "garderobe", "shopping", "stilberatung", "klarheit"]
+tags: ["fehlkauf", "гардероб", "shopping", "stilberatung", "klarheit"]
 keywords:
   ["fehlkauf kleidung", "fehlkäufe vermeiden", "kleiderschrank fehlkauf", "bewusst einkaufen"]
 glossar_order: "f"
 weight: 9
 image: "images/glossar/fehlkauf.png"
-image_alt: "Editoriale Grafik mit leerem Kleiderbügel, markiertem Etikett und ruhiger Garderobenstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ошибка покупки"
 relatedTerms:
   - title: "Как избежать ошибок покупок"
     url: "/ru/glossar/garderobenlogik/"

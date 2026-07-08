@@ -3,12 +3,12 @@ title: "Браслет в аксессуарах"
 term: "Браслет"
 description: "Браслет — это украшение на запястье, которое дополняет наряд и выражает личный стиль."
 category: "Материалы и детали"
-tags: ["armreif", "materialien"]
-keywords: ["armreif", "was bedeutet armreif", "armreif stilberatung"]
+tags: ["armreif", "материалы"]
+keywords: ["armreif", "что означает armreif", "armreif stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/armreif.png"
-image_alt: "Editoriale Glossar-Grafik zu Armreif mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Браслет"
 relatedTerms:
   - title: "Браслет в аксессуарах"
     url: "/ru/glossar/materialfall/"

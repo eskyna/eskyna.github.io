@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Nahtbild?"
-term: "Nahtbild"
-description: "Das Nahtbild zeigt, wie sauber, gerade und haltbar die Nähte eines Kleidungsstücks gearbeitet sind."
+title: "Что означает качество швов?"
+term: "Качество швов"
+description: "Качество швов показывает, насколько аккуратно, ровно и надёжно выполнены швы изделия."
 category: "Материалы и детали"
-tags: ["materialien", "nahtbild"]
-keywords: ["nahtbild", "was bedeutet nahtbild", "nahtbild stilberatung"]
+tags: ["материалы", "качество швов"]
+keywords: ["качество швов", "аккуратность шва", "надёжность швов"]
 glossar_order: "n"
 weight: 1
 image: "images/glossar/nahtbild.png"
-image_alt: "Editoriale Glossar-Grafik zu Nahtbild mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Качество швов"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

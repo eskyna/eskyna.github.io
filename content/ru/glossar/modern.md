@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Modern?"
-term: "Modern"
-description: "Modern beschreibt einen zeitgemäßen Stil mit klarer Haltung, aktuellen Proportionen oder bewusster Reduktion."
+title: "Что означает современный стиль?"
+term: "Современный стиль"
+description: "Современный стиль описывает актуальную визуальную подачу с ясной позицией, актуальными пропорциями и осознанной редукцией деталей."
 category: "Стиль и воздействие"
-tags: ["modern", "stil"]
-keywords: ["modern", "was bedeutet modern", "modern stilberatung"]
+tags: ["современный стиль", "стиль"]
+keywords: ["современный стиль", "актуальный стиль", "современная визуальная подача"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/modern.png"
-image_alt: "Editoriale Glossar-Grafik zu Modern mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Современный стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

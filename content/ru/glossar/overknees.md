@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Overknees?"
+title: "Что означает overknees?"
 term: "Overknees"
-description: "Overknees sind Stiefel, die über das Knie reichen und besonders stark über Proportion und Material wirken."
+description: "Overknees это сапоги выше колена, которые особенно сильно влияют на пропорции и материал образа."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "overknees"]
-keywords: ["overknees", "was bedeutet overknees", "overknees stilberatung"]
+tags: ["гардероб", "overknees"]
+keywords: ["overknees", "сапоги выше колена", "overknees в образе"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/overknees.png"
-image_alt: "Editoriale Glossar-Grafik zu Overknees mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Overknees"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

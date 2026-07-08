@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Hemdkragen?"
-term: "Hemdkragen"
-description: "Ein Hemdkragen ist der klassische Kragen an Hemden und Blusen und wirkt gepflegt und strukturiert."
+title: "Что означает рубашечный воротник?"
+term: "Рубашечный воротник"
+description: "Рубашечный воротник это классический воротник на рубашках и блузах, который выглядит собранно и структурно."
 category: "Материалы и детали"
-tags: ["hemdkragen", "materialien"]
-keywords: ["hemdkragen", "was bedeutet hemdkragen", "hemdkragen stilberatung"]
+tags: ["рубашечный воротник", "материалы"]
+keywords: ["рубашечный воротник", "классический воротник", "воротник рубашки"]
 glossar_order: "h"
 weight: 1
 image: "images/glossar/hemdkragen.png"
-image_alt: "Editoriale Glossar-Grafik zu Hemdkragen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Рубашечный воротник"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

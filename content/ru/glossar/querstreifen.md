@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Querstreifen?"
-term: "Querstreifen"
-description: "Querstreifen verlaufen horizontal und können einem Look Ruhe, Breite oder grafische Klarheit geben."
+title: "Что означают горизонтальные полосы?"
+term: "Горизонтальные полосы"
+description: "Горизонтальные полосы идут поперёк и могут добавить образу спокойствие, визуальную ширину или графичную ясность."
 category: "Материалы и детали"
-tags: ["materialien", "querstreifen"]
-keywords: ["querstreifen", "was bedeutet querstreifen", "querstreifen stilberatung"]
+tags: ["материалы", "горизонтальные полосы"]
+keywords: ["горизонтальные полосы", "поперечные полосы в одежде", "полосы в стилизации"]
 glossar_order: "q"
 weight: 1
 image: "images/glossar/querstreifen.png"
-image_alt: "Editoriale Glossar-Grafik zu Querstreifen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Горизонтальные полосы"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

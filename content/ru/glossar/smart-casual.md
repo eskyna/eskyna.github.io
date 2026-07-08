@@ -1,25 +1,26 @@
 ---
-title: "Was bedeutet Smart Casual?"
-term: "Smart Casual"
-description: "Smart Casual beschreibt einen gepflegten Look zwischen elegant und entspannt, bei dem hochwertige und lässige Elemente bewusst verbunden werden."
+title: "Что означает smart casual?"
+term: "Smart casual"
+description: "Smart casual это аккуратный образ между элегантным и расслабленным стилем, где осознанно сочетают качественные и более непринуждённые элементы."
 category: "Гардероб и повседневность"
-tags: ["smart casual", "dresscode", "business casual", "outfit", "stil"]
-keywords: ["smart casual", "was bedeutet smart casual", "smart casual outfit", "smart casual damen"]
+tags: ["smart casual", "дресс-код", "business casual", "образ", "стиль"]
+keywords:
+  ["smart casual", "что означает smart casual", "образ smart casual", "smart casual для женщин"]
 glossar_order: "s"
 weight: 13
 image: "images/glossar/smart-casual.png"
-image_alt: "Editoriale Grafik mit Blazer, Loafer und ruhiger Kombination aus gepflegten und lässigen Formen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Smart casual"
 relatedTerms:
-  - title: "Business Casual"
+  - title: "Business casual"
     url: "/ru/glossar/business-casual/"
-  - title: "Dresscode"
+  - title: "Дресс-код"
     url: "/ru/glossar/dresscode/"
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
   - title: "Chinos"
     url: "/ru/glossar/chinos/"
-  - title: "Loafer"
+  - title: "Лоферы"
     url: "/ru/glossar/loafer/"
-  - title: "Ballerina"
+  - title: "Балетки"
     url: "/ru/glossar/ballerina/"
 ---

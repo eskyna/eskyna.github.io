@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Sportlich?"
-term: "Sportlich"
-description: "Sportlich beschreibt Kleidung mit Bewegung, Komfort, Funktionalität und dynamischer Wirkung."
+title: "Что означает спортивный стиль?"
+term: "Спортивный стиль"
+description: "Спортивный стиль описывает одежду с акцентом на движение, комфорт, функциональность и динамичное впечатление."
 category: "Стиль и воздействие"
-tags: ["sportlich", "stil"]
-keywords: ["sportlich", "was bedeutet sportlich", "sportlich stilberatung"]
+tags: ["спортивный стиль", "стиль"]
+keywords: ["спортивный стиль", "что означает спортивный стиль", "спортивный стиль в гардеробе"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/sportlich.png"
-image_alt: "Editoriale Glossar-Grafik zu Sportlich mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Спортивный стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

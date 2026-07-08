@@ -1,21 +1,21 @@
 ---
-title: "Herz-Ausschnitt"
-term: "Herz-Ausschnitt"
-description: "Ein Herz-Ausschnitt hat eine geschwungene, herzförmige Linie und wirkt weicher und femininer."
+title: "Что означает вырез сердечком?"
+term: "Вырез сердечком"
+description: "Вырез сердечком имеет плавную линию в форме сердца и выглядит мягче и женственнее."
 category: "Материалы и детали"
-tags: ["herz ausschnitt", "materialien"]
-keywords: ["herz-ausschnitt", "was bedeutet herz-ausschnitt", "herz-ausschnitt stilberatung"]
+tags: ["вырез сердечком", "материалы"]
+keywords: ["вырез сердечком", "сердцевидный вырез", "мягкий женственный вырез"]
 glossar_order: "h"
 weight: 1
 image: "images/glossar/herz-ausschnitt.png"
-image_alt: "Editoriale Glossar-Grafik zu Herz-Ausschnitt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Вырез сердечком"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

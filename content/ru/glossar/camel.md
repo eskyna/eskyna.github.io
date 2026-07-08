@@ -9,7 +9,7 @@ keywords: ["camel kleidung", "camel kombinieren", "camel mantel", "farbberatung 
 glossar_order: "c"
 weight: 13
 image: "images/glossar/camel.png"
-image_alt: "Editoriale Grafik mit Camel-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Верблюжий цвет"
 relatedTerms:
   - title: "Верблюжий: классический цвет"
     url: "/ru/glossar/beige/"

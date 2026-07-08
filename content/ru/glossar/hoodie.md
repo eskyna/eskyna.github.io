@@ -1,7 +1,7 @@
 ---
-title: "Was ist ein Hoodie?"
+title: "Что такое hoodie?"
 term: "Hoodie"
-description: "Ein Hoodie ist ein Sweatshirt mit Kapuze, das sportlich wirkt und durch Material, Farbe und Kombination erwachsen gestylt werden kann."
+description: "Hoodie это свитшот с капюшоном, который выглядит спортивно и при грамотной комбинации может смотреться собранно и взрослo."
 category: "Гардероб и повседневность"
 tags:
   - "hoodie"
@@ -10,12 +10,12 @@ tags:
   - "layering"
 keywords:
   - "hoodie"
-  - "was ist ein hoodie"
-  - "hoodie kombinieren"
+  - "что такое hoodie"
+  - "с чем сочетать hoodie"
 glossar_order: "h"
 weight: 5
 image: "images/glossar/hoodie.png"
-image_alt: "Editoriale Grafik mit stilisiertem Hoodie, Kapuze und weicher Sweatstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Hoodie"
 relatedTerms:
   - title: "Sweatshirt"
     url: "/ru/glossar/sweatshirt/"

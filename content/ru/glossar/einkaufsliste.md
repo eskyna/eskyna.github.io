@@ -3,12 +3,12 @@ title: "Список покупок гардероба"
 term: "Список покупок"
 description: "Список покупок — это планомерный перечень необходимых вещей для пополнения гардероба."
 category: "Гардероб и повседневность"
-tags: ["einkaufsliste", "garderobe"]
-keywords: ["einkaufsliste", "was bedeutet einkaufsliste", "einkaufsliste stilberatung"]
+tags: ["einkaufsliste", "гардероб"]
+keywords: ["einkaufsliste", "что означает einkaufsliste", "einkaufsliste stilberatung"]
 glossar_order: "e"
 weight: 1
 image: "images/glossar/einkaufsliste.png"
-image_alt: "Editoriale Glossar-Grafik zu Einkaufsliste mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Список покупок"
 relatedTerms:
   - title: "Список покупок гардероба"
     url: "/ru/glossar/capsule-wardrobe/"

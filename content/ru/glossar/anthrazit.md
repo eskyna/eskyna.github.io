@@ -9,7 +9,7 @@ keywords: ["anthrazit kleidung", "anthrazit kombinieren", "dunkelgrau", "neutral
 glossar_order: "a"
 weight: 19
 image: "images/glossar/anthrazit.png"
-image_alt: "Editoriale Grafik zu Anthrazit mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Антрацит"
 relatedTerms:
   - title: "Антрацит в цветовом словаре"
     url: "/ru/glossar/grau/"

@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Halstuch?"
-term: "Halstuch"
-description: "Ein Halstuch ist ein kleineres Tuch am Hals, das Farbe, Muster und Gesichtsrahmung in ein Outfit bringt."
+title: "Что такое шейный платок?"
+term: "Шейный платок"
+description: "Шейный платок это небольшой платок на шею, который добавляет в образ цвет, рисунок и обрамление лица."
 category: "Материалы и детали"
-tags: ["halstuch", "accessoire", "farbe", "gesichtsrahmung", "styling"]
-keywords: ["halstuch", "was ist ein halstuch", "halstuch kombinieren"]
+tags: ["шейный платок", "аксессуар", "цвет", "обрамление лица", "стайлинг"]
+keywords: ["шейный платок", "как носить шейный платок", "платок у лица"]
 glossar_order: "h"
 weight: 18
 image: "images/glossar/halstuch.png"
-image_alt: "Editoriale Grafik zu Halstuch mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шейный платок"
 relatedTerms:
-  - title: "Schal"
+  - title: "Шарф"
     url: "/ru/glossar/schal/"
-  - title: "Seidentuch"
+  - title: "Шёлковый платок"
     url: "/ru/glossar/seidentuch/"
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

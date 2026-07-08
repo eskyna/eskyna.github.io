@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Farbtypologie?"
-term: "Farbtypologie"
-description: "Farbtypologie ordnet Farben nach Temperatur, Helligkeit, Saettigung und Kontrast, damit passende Nuancen leichter erkennbar werden."
+title: "Что означает типология цветов?"
+term: "Типология цветов"
+description: "Типология цветов распределяет оттенки по температуре, светлоте, насыщенности и контрасту, чтобы подходящие нюансы было легче распознавать."
 category: "Консультация по цвету и цвет"
-tags: ["farbtypologie", "farbtyp", "farbberatung", "unterton"]
-keywords: ["farbtypologie", "was bedeutet farbtypologie", "farbtypologie farbberatung"]
+tags: ["типология цветов", "цветотип", "цветовая консультация", "подтон"]
+keywords: ["типология цветов", "система цветотипов", "анализ цвета"]
 glossar_order: "f"
 weight: 6
 relatedTerms:
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Farbtemperatur"
+  - title: "Цветовая температура"
     url: "/ru/glossar/farbtemperatur/"
-  - title: "Saettigung"
+  - title: "Насыщенность"
     url: "/ru/glossar/saettigung/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
 ---

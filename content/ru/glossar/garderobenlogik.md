@@ -1,27 +1,27 @@
 ---
-title: "Was ist Garderobenlogik?"
-term: "Garderobenlogik"
-description: "Garderobenlogik beschreibt das System hinter einem Kleiderschrank, in dem Farben, Schnitte und Anlässe zusammenarbeiten."
+title: "Что означает логика гардероба?"
+term: "Логика гардероба"
+description: "Логика гардероба описывает систему внутри шкафа, в которой цвета, силуэты и поводы работают вместе."
 category: "Гардероб и повседневность"
-tags: ["garderobenlogik", "garderobe", "capsule wardrobe", "stilberatung"]
+tags: ["garderobenlogik", "гардероб", "capsule wardrobe", "stilberatung"]
 keywords: ["garderobenlogik", "kleiderschrank system", "capsule wardrobe", "fehlkäufe"]
 glossar_order: "g"
 weight: 2
 image: "images/glossar/garderobenlogik.png"
-image_alt: "Grafik mit Garderoben-Matrix, Farbfeldern und verbundenen Outfit-Elementen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Логика гардероба"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Basic"
+  - title: "Базовая вещь"
     url: "/ru/glossar/basic/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Farbpalette"
+  - title: "Цветовая палитра"
     url: "/ru/glossar/farbpalette/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
 ---

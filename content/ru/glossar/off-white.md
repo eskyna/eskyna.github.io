@@ -1,24 +1,25 @@
 ---
-title: "Off-White im Stil erklärt"
-term: "Off-White"
-description: "Off-White ist ein weicher Weißton. Er wirkt heller als Creme, aber ruhiger und weniger hart als reines Weiß."
+title: "Off-white в контексте стиля"
+term: "Off-white"
+description: "Off-white это мягкий оттенок белого. Он выглядит светлее кремового, но спокойнее и менее контрастно, чем чистый белый."
 category: "Цветовой словарь"
 color_hex: "#F3EBDD"
-tags: ["off-white", "weiss", "farbe", "farbberatung", "neutrale farben"]
-keywords: ["off-white kleidung", "off-white kombinieren", "weissnuancen", "farbberatung"]
+tags: ["off-white", "белый", "цвет", "цветовая консультация", "нейтральные цвета"]
+keywords:
+  ["одежда off-white", "с чем сочетать off-white", "оттенки белого", "цветовая консультация"]
 glossar_order: "o"
 weight: 18
 image: "images/glossar/off-white.png"
-image_alt: "Editoriale Grafik zu Off-White mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Off-white"
 relatedTerms:
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
-  - title: "Creme"
+  - title: "Кремовый"
     url: "/ru/glossar/creme/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
 ---

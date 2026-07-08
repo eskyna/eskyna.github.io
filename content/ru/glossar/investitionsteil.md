@@ -1,23 +1,23 @@
 ---
-title: "Investitionsteil"
-term: "Investitionsteil"
-description: "Ein Investitionsteil ist ein hochwertiges Kleidungsstück, das langfristig getragen werden soll."
+title: "Что означает инвестиционная вещь?"
+term: "Инвестиционная вещь"
+description: "Инвестиционная вещь это качественный предмет одежды, который задуман для долгой носки."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "investitionsteil"]
-keywords: ["investitionsteil", "was bedeutet investitionsteil", "investitionsteil stilberatung"]
+tags: ["гардероб", "инвестиционная вещь"]
+keywords: ["инвестиционная вещь", "долговечная базовая вещь", "стоит ли инвестировать в одежду"]
 glossar_order: "i"
 weight: 1
 image: "images/glossar/investitionsteil.png"
-image_alt: "Editoriale Glossar-Grafik zu Investitionsteil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Инвестиционная вещь"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

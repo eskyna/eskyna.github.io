@@ -1,23 +1,24 @@
 ---
-title: "Was ist Saumlänge?"
-term: "Saumlänge"
-description: "Saumlänge beschreibt, wo ein Kleidungsstück endet und wie stark diese Linie Proportion, Schuhwahl und Wirkung beeinflusst."
-category: "Schnitt, Proportion & Passform"
-tags: ["saumlänge", "rocklänge", "hose", "proportion", "passform"]
-keywords: ["saumlänge", "was ist saumlänge", "richtige hosenlänge", "richtige rocklänge"]
+title: "Что означает длина низа?"
+term: "Длина низа"
+description: "Длина низа описывает, где заканчивается вещь, и насколько эта линия влияет на пропорции, выбор обуви и впечатление образа."
+category: "Крой, пропорции и посадка"
+tags: ["длина низа", "длина юбки", "брюки", "пропорции", "посадка"]
+keywords:
+  ["длина низа", "что означает длина низа", "правильная длина брюк", "правильная длина юбки"]
 glossar_order: "s"
 weight: 19
 image: "images/glossar/saumlange.png"
-image_alt: "Editoriale Grafik mit Rock und Hose, markierten Saumlinien und feinen Proportionslinien"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Длина низа"
 relatedTerms:
-  - title: "Rocklänge"
+  - title: "Длина юбки"
     url: "/ru/glossar/rocklange/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Layering"
+  - title: "Многослойность"
     url: "/ru/glossar/layering/"
 ---

@@ -9,7 +9,7 @@ keywords: ["blau kleidung", "blau kombinieren", "hellblau navy", "stilberatung"]
 glossar_order: "b"
 weight: 6
 image: "images/glossar/blau.png"
-image_alt: "Editoriale Grafik mit Blau-Nuancen, Denimflächen und klaren Farbkombinationen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Синий"
 relatedTerms:
   - title: "Синий цвет в режиме"
     url: "/ru/glossar/navy/"

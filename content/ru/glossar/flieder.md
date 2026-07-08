@@ -9,7 +9,7 @@ keywords: ["flieder kleidung", "flieder kombinieren", "helles lila", "farbberatu
 glossar_order: "f"
 weight: 29
 image: "images/glossar/flieder.png"
-image_alt: "Editoriale Grafik zu Flieder mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Сирень"
 relatedTerms:
   - title: "Сиреневый цвет"
     url: "/ru/glossar/lila/"

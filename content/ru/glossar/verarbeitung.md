@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Verarbeitung?"
-term: "Verarbeitung"
-description: "Verarbeitung beschreibt Nähte, Futter, Knöpfe, Schnittdetails und die handwerkliche Qualität eines Kleidungsstücks."
+title: "Что означает качество пошива?"
+term: "Качество пошива"
+description: "Качество пошива описывает швы, подкладку, пуговицы, детали кроя и ремесленный уровень исполнения вещи."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "verarbeitung"]
-keywords: ["verarbeitung", "was bedeutet verarbeitung", "verarbeitung stilberatung"]
+tags: ["гардероб", "качество пошива"]
+keywords: ["качество пошива", "что означает качество пошива", "качество пошива в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/verarbeitung.png"
-image_alt: "Editoriale Glossar-Grafik zu Verarbeitung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Качество пошива"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

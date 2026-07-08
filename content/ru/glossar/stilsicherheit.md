@@ -1,21 +1,22 @@
 ---
-title: "Was bedeutet Stilsicherheit?"
-term: "Stilsicherheit"
-description: "Stilsicherheit bedeutet, Kleidung bewusst und passend zu Wirkung, Anlass und eigener Linie zu waehlen."
+title: "Что означает уверенность в стиле?"
+term: "Уверенность в стиле"
+description: "Уверенность в стиле означает осознанно выбирать одежду так, чтобы она подходила к впечатлению, ситуации и собственной линии."
 category: "Стиль и воздействие"
-tags: ["stilsicherheit", "stil", "wirkung", "kombinieren"]
-keywords: ["stilsicherheit", "was bedeutet stilsicherheit", "stilsicherheit stilberatung"]
+tags: ["уверенность в стиле", "стиль", "впечатление", "сочетаемость"]
+keywords:
+  ["уверенность в стиле", "ясность в стиле", "как уверенно одеваться", "консультация по стилю"]
 glossar_order: "s"
 weight: 4
 relatedTerms:
-  - title: "Stil"
+  - title: "Стиль"
     url: "/ru/glossar/stil/"
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Kombinierbarkeit"
+  - title: "Сочетаемость"
     url: "/ru/glossar/kombinierbarkeit/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilgefuehl"
+  - title: "Чувство стиля"
     url: "/ru/glossar/stilgefuehl/"
 ---

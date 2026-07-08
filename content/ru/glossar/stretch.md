@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Stretch?"
+title: "Что означает stretch?"
 term: "Stretch"
-description: "Stretch bezeichnet dehnbares Material, das durch Faser, Webart oder Elasthan mehr Beweglichkeit bekommt."
+description: "Stretch обозначает эластичный материал, который благодаря волокну, переплетению или эластану даёт больше свободы движения."
 category: "Материалы и детали"
-tags: ["materialien", "stretch"]
-keywords: ["stretch", "was bedeutet stretch", "stretch stilberatung"]
+tags: ["материалы", "stretch"]
+keywords: ["stretch", "что означает stretch", "эластичный материал"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stretch.png"
-image_alt: "Editoriale Glossar-Grafik zu Stretch mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Stretch"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

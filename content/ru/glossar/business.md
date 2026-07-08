@@ -4,11 +4,11 @@ term: "Business-стиль"
 description: "Business-стиль — это профессиональный дресс-код для деловой среды, выражающий компетентность."
 category: "Стиль и воздействие"
 tags: ["business", "stil"]
-keywords: ["business", "was bedeutet business", "business stilberatung"]
+keywords: ["business", "что означает business", "business stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/business.png"
-image_alt: "Editoriale Glossar-Grafik zu Business mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Business-стиль"
 relatedTerms:
   - title: "Business-стиль на работе"
     url: "/ru/glossar/signature-look/"

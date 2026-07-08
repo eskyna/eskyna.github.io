@@ -1,30 +1,36 @@
 ---
-title: "Grün im Stil erklärt"
-term: "Grün"
-description: "Grün wirkt natürlich, lebendig und ausgleichend. Die Nuance entscheidet zwischen weich, frisch, erdig und elegant."
-category: "Farb-Lexikon"
+title: "Зелёный в контексте стиля"
+term: "Зелёный"
+description: "Зелёный выглядит естественно, живо и уравновешенно. Оттенок решает, будет ли он мягким, свежим, землистым или элегантным."
+category: "Цветовой словарь"
 color_hex: "#6F8062"
-tags: ["grün", "gruen", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["grün kleidung", "gruen kombinieren", "oliv salbei smaragd", "stilberatung"]
+tags: ["зелёный", "цвет", "цветовая консультация", "влияние цвета"]
+keywords:
+  [
+    "зелёная одежда",
+    "с чем сочетать зелёный",
+    "оливковый шалфейный изумрудный",
+    "цветовая консультация",
+  ]
 glossar_order: "g"
 weight: 7
 image: "images/glossar/gruen.png"
-image_alt: "Editoriale Grafik mit Grün-Nuancen, Naturtönen und eleganten Kombinationsflächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Зелёный"
 relatedTerms:
-  - title: "Blau"
+  - title: "Синий"
     url: "/ru/glossar/blau/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Braun"
+  - title: "Коричневый"
     url: "/ru/glossar/braun/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Salbeigrün"
+  - title: "Шалфейный"
     url: "/ru/glossar/salbeigruen/"
-  - title: "Oliv"
+  - title: "Оливковый"
     url: "/ru/glossar/oliv/"
-  - title: "Khaki"
+  - title: "Хаки"
     url: "/ru/glossar/khaki/"
 ---

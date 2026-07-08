@@ -1,23 +1,23 @@
 ---
-title: "eine Uhr im Stil"
+title: "Часы в образе"
 term: "Uhr"
-description: "Eine Uhr ist funktionales Accessoire und Stilzeichen zugleich, weil sie Material, Metallton und Haltung sichtbar macht."
+description: "Часы это одновременно функциональный аксессуар и стилевой знак, потому что они показывают материал, оттенок металла и характер подачи."
 category: "Материалы и детали"
-tags: ["uhr", "accessoire", "schmuck", "metall", "styling"]
-keywords: ["uhr styling", "uhr als accessoire", "uhr kombinieren"]
+tags: ["часы", "аксессуар", "украшения", "металл", "стилизация"]
+keywords: ["стилизация часов", "часы как аксессуар", "с чем сочетать часы"]
 glossar_order: "u"
 weight: 25
 image: "images/glossar/uhr.png"
-image_alt: "Editoriale Grafik zu Uhr mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Uhr"
 relatedTerms:
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Feinschmuck"
+  - title: "Ювелирные украшения"
     url: "/ru/glossar/feinschmuck/"
-  - title: "Gold"
+  - title: "Золотой"
     url: "/ru/glossar/gold/"
-  - title: "Silber"
+  - title: "Серебряный"
     url: "/ru/glossar/silber/"
-  - title: "Quiet Luxury"
+  - title: "Тихая роскошь"
     url: "/ru/glossar/quiet-luxury/"
 ---

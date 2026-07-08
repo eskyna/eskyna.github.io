@@ -3,12 +3,12 @@ title: "Кардиган: универсальный верх"
 term: "Кардиган"
 description: "Кардиган — это удобный, многофункциональный предмет, идеальный для слоистых образов и холодной погоды."
 category: "Стиль и воздействие"
-tags: ["cardigan", "strickjacke", "layering", "pullover", "garderobe"]
-keywords: ["cardigan", "was ist ein cardigan", "cardigan kombinieren", "strickjacke"]
+tags: ["cardigan", "strickjacke", "layering", "pullover", "гардероб"]
+keywords: ["cardigan", "что такое cardigan", "cardigan kombinieren", "strickjacke"]
 glossar_order: "c"
 weight: 18
 image: "images/glossar/cardigan.png"
-image_alt: "Editoriale Grafik mit offenem Cardigan, Knopfleiste, Strickstruktur und warmen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кардиган"
 relatedTerms:
   - title: "Кардиган: универсальный верх"
     url: "/ru/glossar/pullover/"

@@ -1,21 +1,27 @@
 ---
-title: "Was bedeutet androgyne Figur?"
-term: "Androgyne Figur"
-description: "Eine androgyne Figur beschreibt eine eher gerade, weniger stark kurvige Linienfuehrung, die mit Schnitt und Proportion sehr unterschiedlich inszeniert werden kann."
+title: "Что означает андрогинная фигура?"
+term: "Андрогинная фигура"
+description: "Андрогинная фигура описывает более прямые и менее выраженно изогнутые линии тела, которые можно по-разному подчеркнуть кроем и пропорциями."
 category: "Крой, пропорции и посадка"
 tags: ["androgyne figur", "koerperform", "proportion", "silhouette"]
-keywords: ["androgyne figur", "androgyner koerperbau", "androgyne frauen merkmale", "was bedeutet androgyne figur"]
+keywords:
+  [
+    "androgyne figur",
+    "androgyner koerperbau",
+    "androgyne frauen merkmale",
+    "что означает androgyne figur",
+  ]
 glossar_order: "a"
 weight: 3
 relatedTerms:
-  - title: "Koerperform"
+  - title: "Телосложение"
     url: "/ru/glossar/koerperform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Androgyner Stil"
+  - title: "Андрогинный стиль"
     url: "/ru/glossar/androgyner-stil/"
-  - title: "Balance"
+  - title: "Баланс"
     url: "/ru/glossar/balance/"
 ---

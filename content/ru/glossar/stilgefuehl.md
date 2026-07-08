@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stilgefühl?"
-term: "Stilgefühl"
-description: "Stilgefühl ist die Fähigkeit, stimmige Kleidung, Proportionen, Farben und Wirkungen für sich selbst zu erkennen."
-category: "Stil & Wirkung"
-tags: ["stil", "stilgefuehl"]
-keywords: ["stilgefühl", "was bedeutet stilgefühl", "stilgefühl stilberatung"]
+title: "Что означает чувство стиля?"
+term: "Чувство стиля"
+description: "Чувство стиля это способность замечать, какие вещи, пропорции, цвета и впечатления подходят именно вам."
+category: "Стиль и воздействие"
+tags: ["стиль", "чувство стиля"]
+keywords: ["чувство стиля", "что означает чувство стиля", "чувство стиля и консультация"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilgefuehl.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilgefühl mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Чувство стиля"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

@@ -1,23 +1,24 @@
 ---
-title: "Outfit-Formel"
-term: "Outfit-Formel"
-description: "Eine Outfit-Formel ist eine wiederholbare Kombination, die im Alltag funktioniert und Stilentscheidungen leichter macht."
+title: "Что означает формула образа?"
+term: "Формула образа"
+description: "Формула образа это повторяемая комбинация, которая работает в повседневности и облегчает стилевые решения."
 category: "Гардероб и повседневность"
-tags: ["outfit-formel", "garderobe", "kombinieren", "stilroutine"]
-keywords: ["outfit-formel", "outfits kombinieren", "garderobe planen", "stilberatung"]
+tags: ["формула образа", "гардероб", "сочетание", "стилевая рутина"]
+keywords:
+  ["формула образа", "как сочетать образы", "планирование гардероба", "стилевая консультация"]
 glossar_order: "o"
 weight: 4
 image: "images/glossar/outfit-formel.png"
-image_alt: "Editoriale Grafik mit modularen Outfit-Bausteinen als visuelle Formel für einen stimmigen Look"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Формула образа"
 relatedTerms:
-  - title: "Basic"
+  - title: "База"
     url: "/ru/glossar/basic/"
-  - title: "Smart Casual"
+  - title: "Smart casual"
     url: "/ru/glossar/smart-casual/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
 ---

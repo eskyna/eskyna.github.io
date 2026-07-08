@@ -1,23 +1,23 @@
 ---
-title: "Was ist Materialfall?"
-term: "Materialfall"
-description: "Materialfall beschreibt, wie ein Stoff am Körper fällt und ob ein Kleidungsstück weich, fließend, klar oder strukturiert wirkt."
+title: "Что такое пластика материала?"
+term: "Пластика материала"
+description: "Пластика материала описывает, как ткань ложится по телу и выглядит ли вещь мягко, текуче, чётко или структурно."
 category: "Материалы и детали"
-tags: ["materialfall", "stoff", "material", "qualität", "silhouette"]
-keywords: ["materialfall", "stoff fällt", "kleidung materialfall", "stoffwirkung"]
+tags: ["пластика материала", "ткань", "материал", "качество", "силуэт"]
+keywords: ["пластика материала", "как падает ткань", "поведение ткани в одежде", "эффект ткани"]
 glossar_order: "m"
 weight: 20
 image: "images/glossar/materialfall.png"
-image_alt: "Editoriale Grafik mit fließendem Stoff, klarer Stoffkante und ruhigen Materialflächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пластика материала"
 relatedTerms:
-  - title: "Viskose"
+  - title: "Вискоза"
     url: "/ru/glossar/viskose/"
-  - title: "Seide"
+  - title: "Шёлк"
     url: "/ru/glossar/seide/"
-  - title: "Leinen"
+  - title: "Лён"
     url: "/ru/glossar/leinen/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
 ---

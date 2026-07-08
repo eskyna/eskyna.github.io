@@ -1,23 +1,23 @@
 ---
-title: "Knitterverhalten"
-term: "Knitterverhalten"
-description: "Knitterverhalten beschreibt, wie stark ein Stoff Falten bildet und wie gepflegt er im Alltag bleibt."
+title: "Что означает сминаемость ткани?"
+term: "Сминаемость ткани"
+description: "Сминаемость ткани описывает, насколько сильно материал образует заломы и как опрятно вещь выглядит в течение дня."
 category: "Материалы и детали"
-tags: ["knitterverhalten", "materialien"]
-keywords: ["knitterverhalten", "was bedeutet knitterverhalten", "knitterverhalten stilberatung"]
+tags: ["сминаемость ткани", "материалы"]
+keywords: ["сминаемость ткани", "как мнётся ткань", "устойчивость к заломам"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/knitterverhalten.png"
-image_alt: "Editoriale Glossar-Grafik zu Knitterverhalten mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Сминаемость ткани"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

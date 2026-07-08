@@ -1,23 +1,23 @@
 ---
-title: "Fusselrasierer"
-term: "Fusselrasierer"
-description: "Ein Fusselrasierer entfernt Pilling und kann Strick oder Wollteile optisch deutlich auffrischen."
+title: "Что такое машинка для удаления катышков?"
+term: "Машинка для удаления катышков"
+description: "Машинка для удаления катышков убирает катышки и помогает визуально освежить трикотаж и шерстяные вещи."
 category: "Материалы и детали"
-tags: ["fusselrasierer", "materialien"]
-keywords: ["fusselrasierer", "was bedeutet fusselrasierer", "fusselrasierer stilberatung"]
+tags: ["машинка для удаления катышков", "материалы"]
+keywords: ["машинка для удаления катышков", "удаление катышков", "уход за трикотажем"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/fusselrasierer.png"
-image_alt: "Editoriale Glossar-Grafik zu Fusselrasierer mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Машинка для удаления катышков"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

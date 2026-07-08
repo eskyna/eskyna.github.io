@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Satinrock?"
-term: "Satinrock"
-description: "Ein Satinrock ist ein glatt glänzender Rock mit fließender Wirkung, der durch Kontrast besonders modern kombiniert werden kann."
-category: "Kleider & Röcke"
-tags: ["satinrock", "satin", "rock", "glanzgrad"]
-keywords: ["satinrock", "was ist ein satinrock", "satinrock kombinieren"]
+title: "Что такое сатиновая юбка?"
+term: "Сатиновая юбка"
+description: "Сатиновая юбка это юбка с гладким блеском и текучей пластикой, которую особенно современно сочетать через контраст фактур."
+category: "Гардероб и повседневность"
+tags: ["сатиновая юбка", "сатин", "юбка", "степень блеска"]
+keywords: ["сатиновая юбка", "что такое сатиновая юбка", "с чем носить сатиновую юбку"]
 glossar_order: "s"
 weight: 7
 image: "images/glossar/satinrock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Satinrock mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Сатиновая юбка"
 relatedTerms:
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Seide"
+  - title: "Шёлк"
     url: "/ru/glossar/seide/"
-  - title: "Midirock"
+  - title: "Юбка миди"
     url: "/ru/glossar/midirock/"
 ---

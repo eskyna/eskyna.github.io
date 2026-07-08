@@ -1,24 +1,23 @@
 ---
-title: "Garderobenstrategie"
-term: "Garderobenstrategie"
-description: "Eine Garderobenstrategie ist ein klarer Plan für Aufbau, Pflege und Weiterentwicklung des eigenen Kleiderschranks."
+title: "Что означает стратегия гардероба?"
+term: "Стратегия гардероба"
+description: "Стратегия гардероба это ясный план по формированию, уходу и развитию собственного шкафа."
 category: "Стиль и воздействие"
-tags: ["garderobenstrategie", "stil"]
-keywords:
-  ["garderobenstrategie", "was bedeutet garderobenstrategie", "garderobenstrategie stilberatung"]
+tags: ["стратегия гардероба", "стиль"]
+keywords: ["стратегия гардероба", "развитие гардероба", "план обновления гардероба"]
 glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobenstrategie.png"
-image_alt: "Editoriale Glossar-Grafik zu Garderobenstrategie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стратегия гардероба"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

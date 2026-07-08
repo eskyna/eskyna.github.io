@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Regular Fit?"
-term: "Regular Fit"
-description: "Regular Fit ist ein klassischer, normaler Schnitt, der weder sehr eng noch deutlich weit sitzt."
+title: "Что означает regular fit?"
+term: "Regular fit"
+description: "Regular fit это классический стандартный крой, который не сидит ни слишком узко, ни заметно свободно."
 category: "Крой, пропорции и посадка"
-tags: ["regular fit", "schnitt proportion"]
-keywords: ["regular fit", "was bedeutet regular fit", "regular fit stilberatung"]
+tags: ["regular fit", "крой", "пропорции"]
+keywords: ["regular fit", "что означает regular fit", "regular fit в стилизации"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/regular-fit.png"
-image_alt: "Editoriale Glossar-Grafik zu Regular Fit mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Regular fit"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

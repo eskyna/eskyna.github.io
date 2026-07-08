@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Schlitz?"
-term: "Schlitz"
-description: "Ein Schlitz ist eine Öffnung in Rock, Kleid, Ärmel oder Mantel, die Bewegung und Linienführung beeinflusst."
+title: "Что означает разрез?"
+term: "Разрез"
+description: "Разрез это открытая часть в юбке, платье, рукаве или пальто, которая влияет на движение и направление линий."
 category: "Крой, пропорции и посадка"
-tags: ["schlitz", "schnitt proportion"]
-keywords: ["schlitz", "was bedeutet schlitz", "schlitz stilberatung"]
+tags: ["разрез", "крой", "пропорции"]
+keywords: ["разрез", "что означает разрез", "разрез в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schlitz.png"
-image_alt: "Editoriale Glossar-Grafik zu Schlitz mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Разрез"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

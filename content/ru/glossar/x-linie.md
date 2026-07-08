@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet X-Linie?"
-term: "X-Linie"
-description: "Die X-Linie betont die Taille und schafft Balance zwischen Schulterbereich und Saumweite."
+title: "Что означает X-линия?"
+term: "X-линия"
+description: "X-линия подчёркивает талию и создаёт баланс между зоной плеч и шириной низа."
 category: "Крой, пропорции и посадка"
-tags: ["schnitt proportion", "x linie"]
-keywords: ["x-linie", "was bedeutet x-linie", "x-linie stilberatung"]
+tags: ["крой и пропорции", "x-линия"]
+keywords: ["x-линия", "что означает x-линия", "x-линия в стилизации"]
 glossar_order: "x"
 weight: 1
 image: "images/glossar/x-linie.png"
-image_alt: "Editoriale Glossar-Grafik zu X-Linie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина X-линия"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

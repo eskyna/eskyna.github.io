@@ -3,12 +3,12 @@ title: "Коктейльный стиль"
 term: "Коктейль"
 description: "Коктейльный стиль — это полуформальный дресс-код для вечеров."
 category: "Гардероб и повседневность"
-tags: ["cocktail", "garderobe"]
-keywords: ["cocktail", "was bedeutet cocktail", "cocktail stilberatung"]
+tags: ["cocktail", "гардероб"]
+keywords: ["cocktail", "что означает cocktail", "cocktail stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/cocktail.png"
-image_alt: "Editoriale Glossar-Grafik zu Cocktail mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Коктейль"
 relatedTerms:
   - title: "Коктейльный стиль"
     url: "/ru/glossar/capsule-wardrobe/"

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Feinstrick?"
-term: "Feinstrick"
-description: "Feinstrick ist ein dünner, glatter Strick, der weich fällt und oft eleganter wirkt als grober Strick."
+title: "Что означает тонкий трикотаж?"
+term: "Тонкий трикотаж"
+description: "Тонкий трикотаж это гладкий и лёгкий вязаный материал, который мягко ложится и часто выглядит элегантнее, чем грубая вязка."
 category: "Материалы и детали"
-tags: ["feinstrick", "materialien"]
-keywords: ["feinstrick", "was bedeutet feinstrick", "feinstrick stilberatung"]
+tags: ["тонкий трикотаж", "материалы"]
+keywords: ["тонкий трикотаж", "гладкий трикотаж", "мягкий тонкий knit"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/feinstrick.png"
-image_alt: "Editoriale Glossar-Grafik zu Feinstrick mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Тонкий трикотаж"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Innenverarbeitung"
-term: "Innenverarbeitung"
-description: "Innenverarbeitung beschreibt die Qualität der nicht sichtbaren Details eines Kleidungsstücks."
+title: "Что означает внутренняя обработка?"
+term: "Внутренняя обработка"
+description: "Внутренняя обработка описывает качество невидимых деталей изделия."
 category: "Материалы и детали"
-tags: ["innenverarbeitung", "materialien"]
-keywords: ["innenverarbeitung", "was bedeutet innenverarbeitung", "innenverarbeitung stilberatung"]
+tags: ["внутренняя обработка", "материалы"]
+keywords: ["внутренняя обработка", "качество изнанки", "обработка изделия внутри"]
 glossar_order: "i"
 weight: 1
 image: "images/glossar/innenverarbeitung.png"
-image_alt: "Editoriale Glossar-Grafik zu Innenverarbeitung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Внутренняя обработка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

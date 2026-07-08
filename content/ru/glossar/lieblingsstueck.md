@@ -1,21 +1,21 @@
 ---
-title: "Lieblingsstück"
-term: "Lieblingsstück"
-description: "Ein Lieblingsstück ist ein Kleidungsstück, das häufig getragen wird, sich gut anfühlt und zur eigenen Stilidentität passt."
-category: "Stil & Wirkung"
-tags: ["lieblingsstueck", "stil"]
-keywords: ["lieblingsstück", "was bedeutet lieblingsstück", "lieblingsstück stilberatung"]
+title: "Что означает любимая вещь?"
+term: "Любимая вещь"
+description: "Любимая вещь это предмет одежды, который часто носится, ощущается комфортно и соответствует личной стилевой идентичности."
+category: "Стиль и воздействие"
+tags: ["любимая вещь", "стиль"]
+keywords: ["любимая вещь", "опорная вещь в гардеробе", "вещь по личному стилю"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/lieblingsstueck.png"
-image_alt: "Editoriale Glossar-Grafik zu Lieblingsstück mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Любимая вещь"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

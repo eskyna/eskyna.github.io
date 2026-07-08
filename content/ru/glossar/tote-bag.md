@@ -1,23 +1,23 @@
 ---
-title: "Was ist eine Tote Bag?"
+title: "Что такое tote bag?"
 term: "Tote Bag"
-description: "Eine Tote Bag ist eine geräumige Tragetasche mit zwei Henkeln, die je nach Material casual, elegant oder beruflich wirken kann."
+description: "Tote bag это вместительная сумка с двумя ручками, которая в зависимости от материала может выглядеть casual, элегантно или более делово."
 category: "Материалы и детали"
-tags: ["tote bag", "tasche", "accessoire", "garderobe", "alltag"]
-keywords: ["tote bag", "was ist eine tote bag", "tote bag kombinieren"]
+tags: ["tote bag", "сумка", "аксессуар", "гардероб", "повседневность"]
+keywords: ["tote bag", "что такое tote bag", "с чем сочетать tote bag"]
 glossar_order: "t"
 weight: 10
 image: "images/glossar/tote-bag.png"
-image_alt: "Editoriale Grafik zu Tote Bag mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Tote Bag"
 relatedTerms:
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
   - title: "Shopper"
     url: "/ru/glossar/shopper/"
-  - title: "Business Casual"
+  - title: "Business casual"
     url: "/ru/glossar/business-casual/"
-  - title: "Smart Casual"
+  - title: "Smart casual"
     url: "/ru/glossar/smart-casual/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

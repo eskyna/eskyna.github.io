@@ -8,7 +8,7 @@ keywords: ["akzentfarbe", "farben kombinieren", "farbe als akzent", "stilberatun
 glossar_order: "a"
 weight: 23
 image: "images/glossar/akzentfarbe.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Akzentfarbe mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Акцентный цвет"
 relatedTerms:
   - title: "Акцентный цвет в образе"
     url: "/ru/glossar/farbpalette/"

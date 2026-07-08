@@ -3,7 +3,7 @@ title: "Was bedeutet Körperform?"
 term: "Körperform"
 description: "Körperform beschreibt die individuelle Körperstruktur ohne Bewertung und hilft, Schnitt und Proportion bewusster zu wählen."
 category: "Stil & Wirkung"
-tags: ["koerperform", "stil"]
+tags: ["körperform", "stil"]
 keywords: ["körperform", "was bedeutet körperform", "körperform stilberatung"]
 glossar_order: "k"
 weight: 1

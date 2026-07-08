@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Styling?"
-term: "Styling"
-description: "Styling ist die bewusste Art, Kleidungsstücke, Farben, Materialien und Details miteinander zu kombinieren."
+title: "Что означает стилизация?"
+term: "Стилизация"
+description: "Стилизация это осознанный способ сочетать между собой вещи, цвета, материалы и детали."
 category: "Стиль и воздействие"
-tags: ["stil", "styling"]
-keywords: ["styling", "was bedeutet styling", "styling stilberatung"]
+tags: ["стиль", "стилизация"]
+keywords: ["стилизация", "что означает стилизация", "стилизация и консультация по стилю"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/styling.png"
-image_alt: "Editoriale Glossar-Grafik zu Styling mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилизация"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
 ---

@@ -4,11 +4,11 @@ term: "Чинос"
 description: "Чинос — это хлопковые брюки среднего облегания, идеальные для casual-стиля."
 category: "Крой, пропорции и посадка"
 tags: ["chinos", "hose", "baumwolle", "business casual", "passform"]
-keywords: ["chinos", "was sind chinos", "chino hose", "chinos kombinieren"]
+keywords: ["chinos", "что такое chinos", "chino hose", "chinos kombinieren"]
 glossar_order: "c"
 weight: 6
 image: "images/glossar/chinos.png"
-image_alt: "Editoriale Grafik mit stilisierter Chino-Hose, Twill-Struktur und ruhigen neutralen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Чинос"
 relatedTerms:
   - title: "Чинос: повседневные брюки"
     url: "/ru/glossar/business-casual/"

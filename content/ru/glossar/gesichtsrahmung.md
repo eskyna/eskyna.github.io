@@ -1,23 +1,23 @@
 ---
-title: "Gesichtsrahmung"
-term: "Gesichtsrahmung"
-description: "Gesichtsrahmung beschreibt, wie Farben, Kragen, Schmuck, Brille und Haare den Bereich um das Gesicht optisch beeinflussen."
+title: "Что означает обрамление лица?"
+term: "Обрамление лица"
+description: "Обрамление лица описывает, как цвета, воротники, украшения, очки и волосы визуально влияют на зону вокруг лица."
 category: "Материалы и детали"
-tags: ["gesichtsrahmung", "farbe", "accessoire", "stilberatung", "wirkung"]
-keywords: ["gesichtsrahmung", "was bedeutet gesichtsrahmung", "farben nahe am gesicht"]
+tags: ["обрамление лица", "цвет", "аксессуар", "консультация по стилю", "впечатление"]
+keywords: ["обрамление лица", "цвета рядом с лицом", "что подчёркивает лицо"]
 glossar_order: "g"
 weight: 28
 image: "images/glossar/gesichtsrahmung.png"
-image_alt: "Editoriale Grafik zu Gesichtsrahmung mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Обрамление лица"
 relatedTerms:
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Brille"
+  - title: "Очки"
     url: "/ru/glossar/brille/"
-  - title: "Sonnenbrille"
+  - title: "Солнечные очки"
     url: "/ru/glossar/sonnenbrille/"
-  - title: "Schal"
+  - title: "Шарф"
     url: "/ru/glossar/schal/"
-  - title: "Halstuch"
+  - title: "Платок на шею"
     url: "/ru/glossar/halstuch/"
 ---

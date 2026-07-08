@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Ledergürtel?"
-term: "Ledergürtel"
-description: "Ein Ledergürtel ist ein klassisches Accessoire, das Hose, Rock oder Kleid strukturiert und den Look abschließt."
-category: "Materialien & Details"
-tags: ["lederguertel", "materialien"]
-keywords: ["ledergürtel", "was bedeutet ledergürtel", "ledergürtel stilberatung"]
+title: "Что означает кожаный ремень?"
+term: "Кожаный ремень"
+description: "Кожаный ремень это классический аксессуар, который структурирует брюки, юбку или платье и завершает образ."
+category: "Материалы и детали"
+tags: ["кожаный ремень", "материалы"]
+keywords: ["кожаный ремень", "ремень в образе", "как выбрать кожаный ремень"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/lederguertel.png"
-image_alt: "Editoriale Glossar-Grafik zu Ledergürtel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кожаный ремень"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

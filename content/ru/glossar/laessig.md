@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Lässig?"
-term: "Lässig"
-description: "Lässig wirkt ein Outfit, wenn es entspannt, unangestrengt und trotzdem bewusst kombiniert ist."
-category: "Stil & Wirkung"
-tags: ["laessig", "stil"]
-keywords: ["lässig", "was bedeutet lässig", "lässig stilberatung"]
+title: "Что означает расслабленный стиль?"
+term: "Расслабленный стиль"
+description: "Образ выглядит расслабленно, когда он воспринимается свободно и непринуждённо, но при этом собран осознанно."
+category: "Стиль и воздействие"
+tags: ["расслабленный стиль", "стиль"]
+keywords: ["расслабленный стиль", "непринуждённый образ", "как создать расслабленный стиль"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/laessig.png"
-image_alt: "Editoriale Glossar-Grafik zu Lässig mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Расслабленный стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

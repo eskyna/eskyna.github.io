@@ -8,7 +8,7 @@ keywords: ["business casual", "business casual damen", "office outfit", "dressco
 glossar_order: "b"
 weight: 5
 image: "images/glossar/business-casual.png"
-image_alt: "Editoriale Grafik mit Blazer, Chino-Form und ruhigen Business-Elementen für Business Casual"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Business Casual"
 relatedTerms:
   - title: "Business Casual: баланс формальности"
     url: "/ru/glossar/smart-casual/"

@@ -1,24 +1,24 @@
 ---
-title: "Helligkeit"
-term: "Helligkeit"
-description: "Helligkeit beschreibt, wie hell oder dunkel eine Farbe wirkt und wie stark sie Kontrast und Proportionen beeinflusst."
+title: "Что означает светлота?"
+term: "Светлота"
+description: "Светлота описывает, насколько светлым или тёмным выглядит цвет и как сильно это влияет на контраст и пропорции."
 category: "Консультация по цвету и цвет"
-tags: ["helligkeit", "farbe", "kontrast", "farbberatung"]
-keywords: ["helligkeit farbe", "hell dunkel kontrast", "farben kombinieren"]
+tags: ["светлота", "цвет", "контраст", "цветовая консультация"]
+keywords: ["светлота цвета", "контраст светлого и тёмного", "как сочетать цвета"]
 glossar_order: "h"
 weight: 20
 
 image: "images/glossar/helligkeit.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Helligkeit mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Светлота"
 relatedTerms:
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Sättigung"
+  - title: "Насыщенность"
     url: "/ru/glossar/saettigung/"
-  - title: "Farbtemperatur"
+  - title: "Цветовая температура"
     url: "/ru/glossar/farbtemperatur/"
-  - title: "Monochrom"
+  - title: "Монохром"
     url: "/ru/glossar/monochrom/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
 ---

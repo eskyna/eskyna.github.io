@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Paisley?"
+title: "Что означает paisley?"
 term: "Paisley"
-description: "Paisley ist ein ornamentales, tropfenförmiges Muster mit weicher, dekorativer Wirkung."
+description: "Paisley это орнаментальный узор каплевидной формы с мягким декоративным впечатлением."
 category: "Материалы и детали"
-tags: ["materialien", "paisley"]
-keywords: ["paisley", "was bedeutet paisley", "paisley stilberatung"]
+tags: ["материалы", "paisley"]
+keywords: ["paisley", "узор paisley", "каплевидный орнамент"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/paisley.png"
-image_alt: "Editoriale Glossar-Grafik zu Paisley mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Paisley"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

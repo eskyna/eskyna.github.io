@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Korsett-Top?"
-term: "Korsett-Top"
-description: "Ein Korsett-Top ist ein Oberteil mit formender Struktur, sichtbaren Nähten oder korsettartiger Linienführung."
+title: "Что означает корсетный топ?"
+term: "Корсетный топ"
+description: "Корсетный топ это верх с формообразующей конструкцией, заметными швами или корсетной линией."
 category: "Материалы и детали"
-tags: ["korsett top", "materialien"]
-keywords: ["korsett-top", "was bedeutet korsett-top", "korsett-top stilberatung"]
+tags: ["корсетный топ", "материалы"]
+keywords: ["корсетный топ", "структурный топ", "топ с корсетной линией"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/korsett-top.png"
-image_alt: "Editoriale Glossar-Grafik zu Korsett-Top mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Корсетный топ"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

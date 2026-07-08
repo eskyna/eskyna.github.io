@@ -1,24 +1,24 @@
 ---
-title: "Türkis im Stil erklärt"
-term: "Türkis"
-description: "Türkis liegt zwischen Blau und Grün. Die Farbe wirkt frisch und lebendig, braucht aber die richtige Nuance."
-category: "Farb-Lexikon"
+title: "Бирюзовый в контексте стиля"
+term: "Бирюзовый"
+description: "Бирюзовый находится между синим и зелёным. Цвет выглядит свежо и выразительно, но требует правильного оттенка."
+category: "Цветовой словарь"
 color_hex: "#2FA6A0"
-tags: ["tuerkis", "türkis", "farbe", "blaugruen", "farbberatung"]
-keywords: ["türkis kleidung", "türkis kombinieren", "blaugrün", "farbberatung"]
+tags: ["бирюзовый", "цвет", "сине-зелёный", "цветовая консультация"]
+keywords: ["бирюзовая одежда", "с чем сочетать бирюзовый", "сине-зелёный", "цветовая консультация"]
 glossar_order: "t"
 weight: 21
 image: "images/glossar/tuerkis.png"
-image_alt: "Editoriale Grafik zu Türkis mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бирюзовый"
 relatedTerms:
-  - title: "Blau"
+  - title: "Синий"
     url: "/ru/glossar/blau/"
-  - title: "Grün"
+  - title: "Зелёный"
     url: "/ru/glossar/gruen/"
   - title: "Petrol"
     url: "/ru/glossar/petrol/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
 ---

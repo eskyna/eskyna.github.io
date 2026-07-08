@@ -1,23 +1,23 @@
 ---
-title: "Hut"
-term: "Hut"
-description: "Ein Hut ist eine Kopfbedeckung mit Krempe, die Gesicht, Silhouette und Gesamtwirkung eines Outfits stark verändert."
+title: "Шляпа"
+term: "Шляпа"
+description: "Шляпа это головной убор с полями, который заметно меняет восприятие лица, силуэта и общего впечатления образа."
 category: "Материалы и детали"
 tags: ["hut", "accessoire", "kopfbedeckung", "silhouette", "styling"]
-keywords: ["hut styling", "was ist ein hut", "hut kombinieren"]
+keywords: ["стилизация со шляпой", "что такое шляпа", "с чем сочетать шляпу"]
 glossar_order: "h"
 weight: 26
 image: "images/glossar/hut.png"
-image_alt: "Editoriale Grafik zu Hut mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шляпа"
 relatedTerms:
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Cap"
+  - title: "Кепка"
     url: "/ru/glossar/cap/"
-  - title: "Sonnenbrille"
+  - title: "Солнечные очки"
     url: "/ru/glossar/sonnenbrille/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Statement-Piece"
+  - title: "Акцентная вещь"
     url: "/ru/glossar/statement-piece/"
 ---

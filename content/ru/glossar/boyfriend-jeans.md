@@ -10,12 +10,12 @@ tags:
   - "casual"
 keywords:
   - "boyfriend jeans"
-  - "was sind boyfriend jeans"
+  - "что такое boyfriend jeans"
   - "boyfriend jeans kombinieren"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/boyfriend-jeans.png"
-image_alt: "Editoriale Grafik zu Boyfriend Jeans mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Джинсы Boyfriend"
 relatedTerms:
   - title: "Джинсы Boyfriend: удобный стиль"
     url: "/ru/glossar/jeans/"

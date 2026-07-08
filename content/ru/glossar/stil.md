@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stil?"
-term: "Stil"
-description: "Stil ist die persönliche Art, Kleidung, Farben, Formen und Details zu einem stimmigen Gesamtbild zu verbinden."
+title: "Что означает стиль?"
+term: "Стиль"
+description: "Стиль это личный способ соединять одежду, цвета, формы и детали в цельный образ."
 category: "Стиль и воздействие"
-tags: ["stil"]
-keywords: ["stil", "was bedeutet stil", "stil stilberatung"]
+tags: ["стиль"]
+keywords: ["стиль", "личный стиль", "что такое стиль", "стилевая консультация"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stil.png"
-image_alt: "Editoriale Glossar-Grafik zu Stil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
 ---

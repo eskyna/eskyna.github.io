@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet High Waist?"
-term: "High Waist"
-description: "High Waist beschreibt einen hohen Bund, der oberhalb der natürlichen Hüfte sitzt."
+title: "Что означает высокая посадка?"
+term: "Высокая посадка"
+description: "Высокая посадка описывает пояс, который располагается выше естественной линии бёдер."
 category: "Крой, пропорции и посадка"
-tags: ["high waist", "schnitt proportion"]
-keywords: ["high waist", "was bedeutet high waist", "high waist stilberatung"]
+tags: ["высокая посадка", "крой", "пропорции"]
+keywords: ["высокая посадка", "брюки с высокой посадкой", "юбка с высокой талией"]
 glossar_order: "h"
 weight: 1
 image: "images/glossar/high-waist.png"
-image_alt: "Editoriale Glossar-Grafik zu High Waist mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Высокая посадка"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Акцент на талии"
     url: "/ru/glossar/taillierung/"
 ---

@@ -1,24 +1,30 @@
 ---
-title: "Roségold im Stil erklärt"
-term: "Roségold"
-description: "Roségold ist ein weicher Metallic-Ton zwischen Gold und Rosa. Es wirkt warm, fein und weniger klassisch als Gelbgold."
-category: "Farb-Lexikon"
+title: "Розовое золото в контексте стиля"
+term: "Розовое золото"
+description: "Розовое золото это мягкий metallic-оттенок между золотым и розовым. Он выглядит тёпло, деликатно и менее классически, чем жёлтое золото."
+category: "Цветовой словарь"
 color_hex: "#C99A8A"
-tags: ["rosegold", "roségold", "metallic", "rosa", "farbberatung"]
-keywords: ["roségold kombinieren", "rosegold schmuck", "roségold kleidung", "metallic"]
+tags: ["розовое золото", "rosegold", "metallic", "розовый", "цветовая консультация"]
+keywords:
+  [
+    "с чем сочетать розовое золото",
+    "украшения rosegold",
+    "одежда в оттенке розового золота",
+    "metallic",
+  ]
 glossar_order: "r"
 weight: 34
 image: "images/glossar/rosegold.png"
-image_alt: "Editoriale Grafik zu Roségold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Розовое золото"
 relatedTerms:
   - title: "Metallic"
     url: "/ru/glossar/metallic/"
-  - title: "Gold"
+  - title: "Золотой"
     url: "/ru/glossar/gold/"
-  - title: "Silber"
+  - title: "Серебряный"
     url: "/ru/glossar/silber/"
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
-  - title: "Creme"
+  - title: "Кремовый"
     url: "/ru/glossar/creme/"
 ---

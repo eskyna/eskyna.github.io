@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Klassiker?"
-term: "Klassiker"
-description: "Ein Klassiker ist ein zeitloses Kleidungsstück, das über mehrere Saisons hinweg relevant und tragbar bleibt."
+title: "Что означает классика?"
+term: "Классика"
+description: "Классика это вневременная вещь, которая остаётся актуальной и носибельной на протяжении многих сезонов."
 category: "Стиль и воздействие"
-tags: ["klassiker", "stil"]
-keywords: ["klassiker", "was bedeutet klassiker", "klassiker stilberatung"]
+tags: ["классика", "стиль"]
+keywords: ["классика", "вневременная вещь", "классика в гардеробе"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/klassiker.png"
-image_alt: "Editoriale Glossar-Grafik zu Klassiker mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Классика"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

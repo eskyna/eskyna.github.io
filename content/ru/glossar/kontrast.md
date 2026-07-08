@@ -1,27 +1,28 @@
 ---
-title: "Kontrast"
-term: "Kontrast"
-description: "Kontrast beschreibt Unterschiede zwischen hell und dunkel, warm und kühl oder ruhig und stark im Outfit."
+title: "Что означает контраст?"
+term: "Контраст"
+description: "Контраст описывает различия между светлым и тёмным, тёплым и холодным, спокойным и выразительным в образе."
 category: "Консультация по цвету и цвет"
-tags: ["kontrast", "farbberatung", "farbe", "wirkung"]
-keywords: ["kontrast mode", "farbkontrast", "hell dunkel kontrast", "stilberatung"]
+tags: ["контраст", "цветовая консультация", "цвет", "впечатление"]
+keywords:
+  ["контраст в одежде", "цветовой контраст", "контраст светлого и тёмного", "контраст образа"]
 glossar_order: "k"
 weight: 3
 image: "images/glossar/kontrast.png"
-image_alt: "Grafik mit hellen und dunklen Flächen zur Erklärung von Kontrast im Outfit"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Контраст"
 relatedTerms:
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Helligkeit"
+  - title: "Светлота"
     url: "/ru/glossar/helligkeit/"
-  - title: "Sättigung"
+  - title: "Насыщенность"
     url: "/ru/glossar/saettigung/"
-  - title: "Monochrom"
+  - title: "Монохром"
     url: "/ru/glossar/monochrom/"
 ---

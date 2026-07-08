@@ -4,11 +4,11 @@ term: "Баланс"
 description: "Баланс — это гармоничное распределение объёмов и визуального веса в образе для создания сбалансированного силуэта."
 category: "Крой, пропорции и посадка"
 tags: ["balance", "stil"]
-keywords: ["balance", "was bedeutet balance", "balance stilberatung"]
+keywords: ["balance", "что означает balance", "balance stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/balance.png"
-image_alt: "Editoriale Glossar-Grafik zu Balance mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Баланс"
 relatedTerms:
   - title: "Баланс в пропорциях"
     url: "/ru/glossar/signature-look/"

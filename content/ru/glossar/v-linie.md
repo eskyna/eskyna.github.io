@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet V-Linie?"
-term: "V-Linie"
-description: "Die V-Linie entsteht durch Ausschnitt, Revers oder Linienführung, die optisch nach unten öffnet."
+title: "Что означает V-линия?"
+term: "V-линия"
+description: "V-линия формируется вырезом, лацканами или линиями кроя, которые визуально открывают силуэт вниз."
 category: "Крой, пропорции и посадка"
-tags: ["schnitt proportion", "v linie"]
-keywords: ["v-linie", "was bedeutet v-linie", "v-linie stilberatung"]
+tags: ["крой и пропорции", "v-линия"]
+keywords: ["v-линия", "что означает v-линия", "v-линия в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/v-linie.png"
-image_alt: "Editoriale Glossar-Grafik zu V-Linie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина V-линия"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

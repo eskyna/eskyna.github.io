@@ -1,7 +1,7 @@
 ---
 title: "Was bedeutet Stilsicherheit?"
 term: "Stilsicherheit"
-description: "Stilsicherheit bedeutet, Kleidung bewusst und passend zu Wirkung, Anlass und eigener Linie zu waehlen."
+description: "Stilsicherheit bedeutet, Kleidung bewusst und passend zu Wirkung, Anlass und eigener Linie zu wählen."
 category: "Stil & Wirkung"
 tags: ["stilsicherheit", "stil", "wirkung", "kombinieren"]
 keywords: ["stilsicherheit", "was bedeutet stilsicherheit", "stilsicherheit stilberatung"]
@@ -16,43 +16,43 @@ relatedTerms:
     url: "/glossar/kombinierbarkeit/"
   - title: "Wirkung"
     url: "/glossar/wirkung/"
-  - title: "Stilgefuehl"
+  - title: "Stilgefühl"
     url: "/glossar/stilgefuehl/"
 ---
 
 ## Definition
 
-**Stilsicherheit** bedeutet, Kleidung so zu waehlen und zu kombinieren, dass sie zu dir, zum Anlass und zu deiner gewuenschten Wirkung passt. Sie zeigt sich nicht in moeglichst vielen Trends, sondern in Klarheit, Wiedererkennbarkeit und guten Entscheidungen.
+**Stilsicherheit** bedeutet, Kleidung so zu wählen und zu kombinieren, dass sie zu dir, zum Anlass und zu deiner gewünschten Wirkung passt. Sie zeigt sich nicht in möglichst vielen Trends, sondern in Klarheit, Wiedererkennbarkeit und guten Entscheidungen.
 
-## Einfach erklaert
+## Einfach erklärt
 
 Stilsicherheit heisst nicht, immer perfekt angezogen zu sein. Sie bedeutet, dass du deine Sprache in Kleidung kennst.
 
-Du weisst, welche Schnitte dich staerken. Du erkennst schneller, welche Farben nah am Gesicht funktionieren. Du merkst, wann ein Teil zwar schoen ist, aber nicht in deine Garderobe passt.
+Du weisst, welche Schnitte dich stärken. Du erkennst schneller, welche Farben nah am Gesicht funktionieren. Du merkst, wann ein Teil zwar schön ist, aber nicht in deine Garderobe passt.
 
-Stilsicherheit wirkt oft ruhig. Sie muss nicht laut sein. Gerade reduzierte Outfits koennen sehr stark wirken, wenn alles bewusst gesetzt ist.
+Stilsicherheit wirkt oft ruhig. Sie muss nicht laut sein. Gerade reduzierte Outfits können sehr stark wirken, wenn alles bewusst gesetzt ist.
 
 ## Warum Stilsicherheit wichtig ist
 
 Mit Stilsicherheit triffst du schneller Entscheidungen. Das betrifft Einkaeufe genauso wie Kombinationen am Morgen.
 
-Sie hilft auch dabei, sich in unterschiedlichen Situationen treu zu bleiben. Im Alltag, im Business oder bei besonderen Anlaessen veraendert sich das Outfit. Die eigene Linie bleibt trotzdem erkennbar.
+Sie hilft auch dabei, sich in unterschiedlichen Situationen treu zu bleiben. Im Alltag, im Business oder bei besonderen Anlässen verändert sich das Outfit. Die eigene Linie bleibt trotzdem erkennbar.
 
 ## Woran du Stilsicherheit erkennst
 
-- Outfits wirken konsistent statt zufaellig
+- Outfits wirken konsistent statt zufällig
 - Farben und Proportionen wiederholen sich bewusst
 - neue Teile lassen sich leicht integrieren
 - Fehlkaeufe werden seltener
-- du wirkst praesent, ohne dich zu verkleiden
+- du wirkst präsent, ohne dich zu verkleiden
 
-## Typische Missverstaendnisse
+## Typische Missverständnisse
 
-**Missverstaendnis:** Stilsicherheit ist angeboren.
+**Missverständnis:** Stilsicherheit ist angeboren.
 
-**Besser:** Stilsicherheit entsteht durch Beobachtung, Klarheit und Wiederholung. Sie laesst sich entwickeln.
+**Besser:** Stilsicherheit entsteht durch Beobachtung, Klarheit und Wiederholung. Sie lässt sich entwickeln.
 
-**Missverstaendnis:** Stilsicherheit bedeutet, nie zu experimentieren.
+**Missverständnis:** Stilsicherheit bedeutet, nie zu experimentieren.
 
 **Besser:** Wer stilsicher ist, kann bewusst experimentieren, weil die eigene Basis klar ist.
 
@@ -70,4 +70,4 @@ Stilsicherheit ist nicht Strenge. Sie ist die Ruhe, mit der du gute Stilentschei
 - [Signature Look](/glossar/signature-look/)
 - [Kombinierbarkeit](/glossar/kombinierbarkeit/)
 - [Wirkung](/glossar/wirkung/)
-- [Stilgefuehl](/glossar/stilgefuehl/)
+- [Stilgefühl](/glossar/stilgefuehl/)

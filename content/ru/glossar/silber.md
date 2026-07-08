@@ -1,28 +1,28 @@
 ---
-title: "Silber im Stil erklärt"
-term: "Silber"
-description: "Silber ist ein kühler Metallic-Ton. Es wirkt klar, modern und besonders gut zu kühlen Farben und Grau."
+title: "Серебряный в контексте стиля"
+term: "Серебряный"
+description: "Серебряный это холодный оттенок metallic. Он выглядит чётко и современно и особенно хорошо сочетается с холодными цветами и серым."
 category: "Цветовой словарь"
 color_hex: "#C7C9CC"
-tags: ["silber", "metallic", "farbe", "accessoire", "farbberatung"]
-keywords: ["silber kleidung", "silber kombinieren", "silberschmuck farbberatung", "metallic"]
+tags: ["серебряный", "metallic", "цвет", "аксессуар", "цветовая консультация"]
+keywords: ["серебряная одежда", "с чем сочетать серебряный", "серебряные украшения", "metallic"]
 glossar_order: "s"
 weight: 33
 image: "images/glossar/silber.png"
-image_alt: "Editoriale Grafik zu Silber mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Серебряный"
 relatedTerms:
-  - title: "Feinschmuck"
+  - title: "Ювелирные украшения"
     url: "/ru/glossar/feinschmuck/"
-  - title: "Creolen"
+  - title: "Серьги-кольца"
     url: "/ru/glossar/creolen/"
   - title: "Metallic"
     url: "/ru/glossar/metallic/"
-  - title: "Gold"
+  - title: "Золотой"
     url: "/ru/glossar/gold/"
-  - title: "Grau"
+  - title: "Серый"
     url: "/ru/glossar/grau/"
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
 ---

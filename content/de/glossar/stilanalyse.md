@@ -26,11 +26,11 @@ Eine **Stilanalyse** untersucht, welche Farben, Schnitte, Materialien und Detail
 
 ## Einfach erklärt
 
-Eine Stilanalyse ist mehr als Geschmack. Sie schaut nicht nur darauf, was dir gefaellt, sondern auch darauf, wie Kleidung an dir wirkt.
+Eine Stilanalyse ist mehr als Geschmack. Sie schaut nicht nur darauf, was dir gefällt, sondern auch darauf, wie Kleidung an dir wirkt.
 
-Dabei geht es um Linien, Proportionen, Oberflaechen, Kontraste, Wiederholungen und die Frage, ob dein Outfit das ausstrahlt, was du zeigen moechtest. Elegant, klar, kreativ, ruhig, praezise oder praesent.
+Dabei geht es um Linien, Proportionen, Oberflächen, Kontraste, Wiederholungen und die Frage, ob dein Outfit das ausstrahlt, was du zeigen möchtest. Elegant, klar, kreativ, ruhig, präzise oder präsent.
 
-Im Unterschied zur schnellen Outfit-Bewertung arbeitet eine Stilanalyse grundsaetzlicher. Sie sucht Muster. Welche Schnitte staerken dich. Welche Materialien wirken hochwertig an dir. Welche Farbwelt dich frischer, klarer oder souveraener erscheinen laesst.
+Im Unterschied zur schnellen Outfit-Bewertung arbeitet eine Stilanalyse grundsätzlicher. Sie sucht Muster. Welche Schnitte stärken dich. Welche Materialien wirken hochwertig an dir. Welche Farbwelt dich frischer, klarer oder souveräner erscheinen lässt.
 
 ## Warum eine Stilanalyse wichtig ist
 
@@ -42,27 +42,27 @@ Das spart Geld, reduziert Fehlkaeufe und macht das Anziehen leichter. Statt jede
 
 - Farben und Untertoene
 - Schnitte, Linien und Proportionen
-- Materialien und Oberflaechen
-- Grad von Kontrast, Struktur und Praesenz
+- Materialien und Oberflächen
+- Grad von Kontrast, Struktur und Präsenz
 - Wiederkehrende Stilthemen in deiner Garderobe
 
-## Typische Missverstaendnisse
+## Typische Missverständnisse
 
-**Missverstaendnis:** Eine Stilanalyse sagt dir, was du tragen musst.
+**Missverständnis:** Eine Stilanalyse sagt dir, was du tragen musst.
 
-**Besser:** Eine gute Stilanalyse gibt Orientierung. Sie nimmt dir nicht die Persoenlichkeit, sondern macht sie klarer.
+**Besser:** Eine gute Stilanalyse gibt Orientierung. Sie nimmt dir nicht die Persönlichkeit, sondern macht sie klarer.
 
-**Missverstaendnis:** Eine Stilanalyse ist nur fuer modeinteressierte Menschen relevant.
+**Missverständnis:** Eine Stilanalyse ist nur für modeinteressierte Menschen relevant.
 
 **Besser:** Gerade im Alltag ist sie hilfreich, weil sie Entscheidungen vereinfacht und deinen Kleiderschrank stimmiger macht.
 
 ## Praktisches Beispiel
 
-Wenn du immer wieder zu soften Farben, ruhigen Stoffen und klaren Schnitten greifst, aber gleichzeitig auffaellige Trendteile kaufst, zeigt eine Stilanalyse oft den Kern des Problems: Die Einzelteile sind nicht schlecht. Sie gehoeren nur nicht zur selben Stilrichtung.
+Wenn du immer wieder zu soften Farben, ruhigen Stoffen und klaren Schnitten greifst, aber gleichzeitig auffällige Trendteile kaufst, zeigt eine Stilanalyse oft den Kern des Problems: Die Einzelteile sind nicht schlecht. Sie gehören nur nicht zur selben Stilrichtung.
 
 ## ESKYNA-Merksatz
 
-Eine Stilanalyse ordnet nicht deinen Geschmack. Sie schaerft deinen Blick fuer das, was dich wirklich stimmig wirken laesst.
+Eine Stilanalyse ordnet nicht deinen Geschmack. Sie schärft deinen Blick für das, was dich wirklich stimmig wirken lässt.
 
 ## Verwandte Begriffe
 

@@ -1,23 +1,23 @@
 ---
-title: "Utility Jacket"
-term: "Utility Jacket"
-description: "Eine Utility Jacket ist eine funktional inspirierte Jacke mit klaren Taschen, robustem Stoff und lässiger Struktur."
+title: "Что такое utility jacket?"
+term: "Utility jacket"
+description: "Utility jacket это куртка с утилитарным характером, заметными карманами, плотной тканью и расслабленной структурой."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "utility jacket"]
-keywords: ["utility jacket", "was bedeutet utility jacket", "utility jacket stilberatung"]
+tags: ["гардероб", "utility jacket"]
+keywords: ["utility jacket", "что означает utility jacket", "utility jacket в стилизации"]
 glossar_order: "u"
 weight: 1
 image: "images/glossar/utility-jacket.png"
-image_alt: "Editoriale Glossar-Grafik zu Utility Jacket mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Utility jacket"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

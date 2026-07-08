@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stilroutine?"
-term: "Stilroutine"
-description: "Eine Stilroutine ist eine wiederholbare Entscheidungshilfe, die das Anziehen leichter und klarer macht."
+title: "Что означает стилевая рутина?"
+term: "Стилевая рутина"
+description: "Стилевая рутина это повторяемая опора для решений, которая делает процесс одевания легче и яснее."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "stilroutine"]
-keywords: ["stilroutine", "was bedeutet stilroutine", "stilroutine stilberatung"]
+tags: ["гардероб", "стилевая рутина"]
+keywords: ["стилевая рутина", "что означает стилевая рутина", "как выстроить рутину в стиле"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilroutine.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilroutine mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевая рутина"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

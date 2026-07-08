@@ -4,11 +4,11 @@ term: "Casual-стиль"
 description: "Casual-стиль — это свободный, комфортный дресс-код для повседневных ситуаций и неофициальных встреч."
 category: "Стиль и воздействие"
 tags: ["casual", "stil"]
-keywords: ["casual", "was bedeutet casual", "casual stilberatung"]
+keywords: ["casual", "что означает casual", "casual stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/casual.png"
-image_alt: "Editoriale Glossar-Grafik zu Casual mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Casual-стиль"
 relatedTerms:
   - title: "Casual-стиль: расслабленный и удобный"
     url: "/ru/glossar/signature-look/"

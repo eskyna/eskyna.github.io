@@ -1,28 +1,29 @@
 ---
-title: "Schwarz im Stil erklärt"
-term: "Schwarz"
-description: "Schwarz wirkt klar, grafisch und souverän. Entscheidend sind Nuance, Material, Kontrast und bewusste Dosierung."
+title: "Чёрный в контексте стиля"
+term: "Чёрный"
+description: "Чёрный выглядит чётко, графично и уверенно. Ключевыми остаются оттенок, материал, контраст и осознанная дозировка."
 category: "Цветовой словарь"
 color_hex: "#111111"
-tags: ["schwarz", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["schwarz kleidung", "schwarz kombinieren", "farbberatung", "stilberatung"]
+tags: ["чёрный", "цвет", "цветовая консультация", "цветовое впечатление"]
+keywords:
+  ["чёрная одежда", "с чем сочетать чёрный", "цветовая консультация", "консультация по стилю"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schwarz.png"
-image_alt: "Editoriale Grafik mit schwarzen Stoffflächen, Kontrastlinien und warmen Akzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Чёрный"
 relatedTerms:
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
   - title: "Navy"
     url: "/ru/glossar/navy/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Grau"
+  - title: "Серый"
     url: "/ru/glossar/grau/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
 ---

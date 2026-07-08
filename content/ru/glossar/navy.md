@@ -1,28 +1,28 @@
 ---
-title: "Navy im Stil erklärt"
+title: "Navy в контексте стиля"
 term: "Navy"
-description: "Navy wirkt souverän, ruhig und professionell. Die dunkle Blaunuance ist eine elegante Alternative zu Schwarz."
+description: "Navy выглядит уверенно, спокойно и профессионально. Этот тёмно-синий оттенок часто становится элегантной альтернативой чёрному."
 category: "Цветовой словарь"
 color_hex: "#1F2D3D"
-tags: ["navy", "dunkelblau", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["navy kleidung", "dunkelblau kombinieren", "farbberatung", "stilberatung"]
+tags: ["navy", "тёмно-синий", "цвет", "цветовая консультация", "цветовое впечатление"]
+keywords: ["одежда navy", "с чем сочетать тёмно-синий", "цветовая консультация", "navy в образе"]
 glossar_order: "n"
 weight: 3
 image: "images/glossar/navy.png"
-image_alt: "Editoriale Grafik mit Navy-Farbfeldern, hellen Akzenten und ruhigen Stofflagen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Navy"
 relatedTerms:
-  - title: "Blau"
+  - title: "Синий"
     url: "/ru/glossar/blau/"
-  - title: "Schwarz"
+  - title: "Чёрный"
     url: "/ru/glossar/schwarz/"
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Grau"
+  - title: "Серый"
     url: "/ru/glossar/grau/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
 ---

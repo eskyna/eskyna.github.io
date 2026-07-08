@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Mule?"
+title: "Что такое mule?"
 term: "Mule"
-description: "Mules sind Schuhe ohne Fersenpartie, die je nach Form lässig, elegant oder sommerlich wirken können."
-category: "Schuhe"
-tags: ["mule", "schuhe", "slingback", "sandale"]
-keywords: ["mule schuh", "was sind mules", "pantoletten"]
+description: "Mule это обувь без задника, которая в зависимости от формы может выглядеть расслабленно, элегантно или по-летнему."
+category: "Обувь"
+tags: ["mule", "обувь", "slingback", "сандалии"]
+keywords: ["mule", "обувь mule", "мюли"]
 glossar_order: "m"
 weight: 12
 image: "images/glossar/mule.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Mule mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Mule"
 relatedTerms:
   - title: "Slingback"
     url: "/ru/glossar/slingback/"
-  - title: "Sandale"
+  - title: "Сандалии"
     url: "/ru/glossar/sandale/"
-  - title: "Pumps"
+  - title: "Лодочки"
     url: "/ru/glossar/pumps/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
 ---

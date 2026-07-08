@@ -3,13 +3,13 @@ title: "Химическая чистка"
 term: "Химическая чистка"
 description: "Химическая чистка — это профессиональный метод очистки деликатных тканей."
 category: "Материалы и детали"
-tags: ["chemische reinigung", "materialien"]
+tags: ["chemische reinigung", "материалы"]
 keywords:
-  ["chemische reinigung", "was bedeutet chemische reinigung", "chemische reinigung stilberatung"]
+  ["chemische reinigung", "что означает chemische reinigung", "chemische reinigung stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/chemische-reinigung.png"
-image_alt: "Editoriale Glossar-Grafik zu Chemische Reinigung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Химическая чистка"
 relatedTerms:
   - title: "Химическая чистка"
     url: "/ru/glossar/materialfall/"

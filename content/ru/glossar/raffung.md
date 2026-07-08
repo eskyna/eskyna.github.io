@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Raffung?"
-term: "Raffung"
-description: "Raffung entsteht, wenn Stoff zusammengezogen wird und dadurch Volumen, Struktur oder Form erhält."
+title: "Что означает сборка ткани?"
+term: "Сборка ткани"
+description: "Сборка ткани возникает, когда материал стягивается и получает дополнительный объём, фактуру или форму."
 category: "Материалы и детали"
-tags: ["materialien", "raffung"]
-keywords: ["raffung", "was bedeutet raffung", "raffung stilberatung"]
+tags: ["материалы", "сборка ткани"]
+keywords: ["сборка ткани", "драпированная сборка", "сборка в одежде"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/raffung.png"
-image_alt: "Editoriale Glossar-Grafik zu Raffung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Сборка ткани"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

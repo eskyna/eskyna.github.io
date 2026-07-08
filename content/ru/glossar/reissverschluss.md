@@ -1,23 +1,23 @@
 ---
-title: "Reißverschluss"
-term: "Reißverschluss"
-description: "Ein Reißverschluss ist ein funktionales Verschlussdetail, das Komfort, Haltbarkeit und Optik beeinflusst."
-category: "Materialien & Details"
-tags: ["materialien", "reissverschluss"]
-keywords: ["reißverschluss", "was bedeutet reißverschluss", "reißverschluss stilberatung"]
+title: "Что означает молния?"
+term: "Молния"
+description: "Молния это функциональная застёжка, которая влияет на удобство, долговечность и внешний вид изделия."
+category: "Материалы и детали"
+tags: ["материалы", "молния"]
+keywords: ["молния", "что означает молния", "молния в одежде"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/reissverschluss.png"
-image_alt: "Editoriale Glossar-Grafik zu Reißverschluss mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Молния"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

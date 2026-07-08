@@ -10,12 +10,12 @@ tags:
   - "passform"
 keywords:
   - "etuikleid"
-  - "was ist ein etuikleid"
+  - "что такое etuikleid"
   - "etuikleid kombinieren"
 glossar_order: "e"
 weight: 5
 image: "images/glossar/etuikleid.png"
-image_alt: "Editoriale Grafik mit stilisiertem Etuikleid, klarer schmaler Linie und ruhiger Fläche"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Коктейльное платье"
 relatedTerms:
   - title: "Узкое коктейльное платье"
     url: "/ru/glossar/business-casual/"

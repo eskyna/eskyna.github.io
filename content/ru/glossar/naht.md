@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Naht?"
-term: "Naht"
-description: "Eine Naht verbindet Stoffteile und kann rein funktional oder bewusst gestalterisch eingesetzt sein."
+title: "Что означает шов?"
+term: "Шов"
+description: "Шов соединяет части ткани и может выполнять как чисто функциональную, так и осознанно декоративную роль."
 category: "Материалы и детали"
-tags: ["materialien", "naht"]
-keywords: ["naht", "was bedeutet naht", "naht stilberatung"]
+tags: ["материалы", "шов"]
+keywords: ["шов", "виды швов", "шов как деталь изделия"]
 glossar_order: "n"
 weight: 1
 image: "images/glossar/naht.png"
-image_alt: "Editoriale Glossar-Grafik zu Naht mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шов"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

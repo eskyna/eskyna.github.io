@@ -9,7 +9,7 @@ keywords: ["bordeaux kleidung", "weinrot kombinieren", "bordeaux farbe", "stilbe
 glossar_order: "b"
 weight: 10
 image: "images/glossar/bordeaux.png"
-image_alt: "Editoriale Grafik mit Bordeaux-Nuancen, dunklen Stoffflächen und eleganten Kombinationsfarben"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бордовый"
 relatedTerms:
   - title: "Бордовый цвет в гардеробе"
     url: "/ru/glossar/rot/"

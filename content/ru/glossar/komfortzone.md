@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Komfortzone?"
-term: "Komfortzone"
-description: "Die Komfortzone beschreibt den Stilbereich, der vertraut wirkt und in dem man sich sicher fühlt."
+title: "Что означает зона комфорта в стиле?"
+term: "Зона комфорта"
+description: "Зона комфорта описывает привычный стиль, в котором человек чувствует себя безопасно и уверенно."
 category: "Стиль и воздействие"
-tags: ["komfortzone", "stil"]
-keywords: ["komfortzone", "was bedeutet komfortzone", "komfortzone stilberatung"]
+tags: ["зона комфорта", "стиль"]
+keywords: ["зона комфорта в стиле", "привычный стиль", "как выйти из зоны комфорта в одежде"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/komfortzone.png"
-image_alt: "Editoriale Glossar-Grafik zu Komfortzone mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Зона комфорта"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

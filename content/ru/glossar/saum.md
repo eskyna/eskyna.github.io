@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Saum?"
-term: "Saum"
-description: "Der Saum ist der untere Abschluss eines Kleidungsstücks und beeinflusst Länge, Fall und Qualitätseindruck."
+title: "Что означает подол?"
+term: "Подол"
+description: "Подол это нижний край изделия, который влияет на длину, пластику и общее впечатление качества."
 category: "Материалы и детали"
-tags: ["materialien", "saum"]
-keywords: ["saum", "was bedeutet saum", "saum stilberatung"]
+tags: ["материалы", "подол"]
+keywords: ["подол", "что означает подол", "обработка подола"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/saum.png"
-image_alt: "Editoriale Glossar-Grafik zu Saum mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Подол"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

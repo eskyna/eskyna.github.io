@@ -1,25 +1,25 @@
 ---
-title: "Was ist Viskose?"
-term: "Viskose"
-description: "Viskose ist eine weich fallende Faser, die Bewegung, Leichtigkeit und einen fließenden Materialfall in Kleidung bringt."
+title: "Что такое вискоза?"
+term: "Вискоза"
+description: "Вискоза это мягко драпирующееся волокно, которое добавляет одежде движение, лёгкость и текучую пластику материала."
 category: "Материалы и детали"
-tags: ["viskose", "material", "stoff", "materialfall", "silhouette"]
-keywords: ["viskose", "was ist viskose", "viskose kleidung", "viskose stoff"]
+tags: ["вискоза", "материал", "ткань", "пластика материала", "силуэт"]
+keywords: ["вискоза", "что такое вискоза", "одежда из вискозы", "ткань вискоза"]
 glossar_order: "v"
 weight: 3
 image: "images/glossar/viskose.png"
-image_alt: "Editoriale Grafik mit fließender Stoffbahn und weichen Linien für Viskose"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Вискоза"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Seide"
+  - title: "Шёлк"
     url: "/ru/glossar/seide/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Slip Dress"
+  - title: "Slip dress"
     url: "/ru/glossar/slip-dress/"
 ---

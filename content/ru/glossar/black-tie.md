@@ -3,12 +3,12 @@ title: "Black Tie: самый формальный дресс-код"
 term: "Black Tie"
 description: "Black Tie — это самый формальный дресс-код, требующий смокинга или вечернего платья."
 category: "Гардероб и повседневность"
-tags: ["black tie", "garderobe"]
-keywords: ["black tie", "was bedeutet black tie", "black tie stilberatung"]
+tags: ["black tie", "гардероб"]
+keywords: ["black tie", "что означает black tie", "black tie stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/black-tie.png"
-image_alt: "Editoriale Glossar-Grafik zu Black Tie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Black Tie"
 relatedTerms:
   - title: "Black Tie: самый формальный дресс-код"
     url: "/ru/glossar/capsule-wardrobe/"

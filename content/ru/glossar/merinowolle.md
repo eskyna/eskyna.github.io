@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Merinowolle?"
-term: "Merinowolle"
-description: "Merinowolle ist eine besonders feine, weiche Wolle, die leicht wärmt und oft angenehm auf der Haut liegt."
+title: "Что означает шерсть мериноса?"
+term: "Шерсть мериноса"
+description: "Шерсть мериноса это особенно тонкая и мягкая шерсть, которая легко согревает и обычно приятна к коже."
 category: "Материалы и детали"
-tags: ["materialien", "merinowolle"]
-keywords: ["merinowolle", "was bedeutet merinowolle", "merinowolle stilberatung"]
+tags: ["материалы", "шерсть мериноса"]
+keywords: ["шерсть мериноса", "тонкая мягкая шерсть", "одежда из мериноса"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/merinowolle.png"
-image_alt: "Editoriale Glossar-Grafik zu Merinowolle mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шерсть мериноса"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

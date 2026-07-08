@@ -1,23 +1,23 @@
 ---
-title: "Was ist eine Hobo Bag?"
+title: "Что такое hobo bag?"
 term: "Hobo Bag"
-description: "Eine Hobo Bag ist eine weiche Schultertasche mit rundlicher Form, die lässig, weich und oft sehr alltagstauglich wirkt."
+description: "Hobo bag это мягкая сумка на плечо округлой формы, которая выглядит расслабленно и удобна для повседневности."
 category: "Материалы и детали"
 tags: ["hobo bag", "tasche", "accessoire", "alltag", "silhouette"]
-keywords: ["hobo bag", "was ist eine hobo bag", "hobo tasche"]
+keywords: ["hobo bag", "что такое hobo bag", "сумка hobo"]
 glossar_order: "h"
 weight: 14
 image: "images/glossar/hobo-bag.png"
-image_alt: "Editoriale Grafik zu Hobo Bag mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Hobo Bag"
 relatedTerms:
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
   - title: "Shopper"
     url: "/ru/glossar/shopper/"
-  - title: "Tote Bag"
+  - title: "Tote bag"
     url: "/ru/glossar/tote-bag/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Smart Casual"
+  - title: "Smart casual"
     url: "/ru/glossar/smart-casual/"
 ---

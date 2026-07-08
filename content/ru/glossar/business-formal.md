@@ -3,12 +3,12 @@ title: "Business Formal: строгий дресс-код"
 term: "Business Formal"
 description: "Business Formal — это самый строгий дресс-код для офиса, требующий костюма и формальных аксессуаров."
 category: "Гардероб и повседневность"
-tags: ["business formal", "garderobe"]
-keywords: ["business formal", "was bedeutet business formal", "business formal stilberatung"]
+tags: ["business formal", "гардероб"]
+keywords: ["business formal", "что означает business formal", "business formal stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/business-formal.png"
-image_alt: "Editoriale Glossar-Grafik zu Business Formal mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Business Formal"
 relatedTerms:
   - title: "Business Formal: строгий дресс-код"
     url: "/ru/glossar/capsule-wardrobe/"

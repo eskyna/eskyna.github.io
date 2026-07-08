@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Look?"
-term: "Look"
-description: "Ein Look beschreibt den sichtbaren Gesamteindruck eines Outfits und die Wirkung, die daraus entsteht."
+title: "Что означает образ?"
+term: "Образ"
+description: "Образ описывает видимое общее впечатление от комплекта и эффект, который из этого возникает."
 category: "Стиль и воздействие"
-tags: ["look", "stil"]
-keywords: ["look", "was bedeutet look", "look stilberatung"]
+tags: ["образ", "стиль"]
+keywords: ["образ", "общее впечатление от комплекта", "визуальный эффект образа"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/look.png"
-image_alt: "Editoriale Glossar-Grafik zu Look mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Образ"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
 ---

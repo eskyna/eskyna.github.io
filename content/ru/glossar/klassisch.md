@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Klassisch?"
-term: "Klassisch"
-description: "Klassisch beschreibt einen zeitlosen, gepflegten Stil mit klaren Formen, ruhigen Farben und langlebigen Elementen."
+title: "Что означает классический стиль?"
+term: "Классический стиль"
+description: "Классический стиль описывает вневременное, собранное направление с ясными формами, спокойными цветами и долговечными элементами."
 category: "Стиль и воздействие"
-tags: ["klassisch", "stil"]
-keywords: ["klassisch", "was bedeutet klassisch", "klassisch stilberatung"]
+tags: ["классический стиль", "стиль"]
+keywords: ["классический стиль", "вневременный стиль", "собранный стиль"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/klassisch.png"
-image_alt: "Editoriale Glossar-Grafik zu Klassisch mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Классический стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

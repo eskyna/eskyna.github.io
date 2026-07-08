@@ -1,24 +1,24 @@
 ---
-title: "Übergangsgarderobe"
-term: "Übergangsgarderobe"
-description: "Eine Übergangsgarderobe funktioniert zwischen den Jahreszeiten und lebt von Layering, leichten Jacken und flexiblen Materialien."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "uebergangsgarderobe"]
+title: "Межсезонный гардероб"
+term: "Межсезонный гардероб"
+description: "Межсезонный гардероб работает между сезонами и строится на layering, лёгких куртках и гибких материалах."
+category: "Гардероб и повседневность"
+tags: ["гардероб", "межсезонный гардероб"]
 keywords:
-  ["übergangsgarderobe", "was bedeutet übergangsgarderobe", "übergangsgarderobe stilberatung"]
+  ["межсезонный гардероб", "что означает межсезонный гардероб", "межсезонный гардероб в стилизации"]
 glossar_order: "u"
 weight: 1
 image: "images/glossar/uebergangsgarderobe.png"
-image_alt: "Editoriale Glossar-Grafik zu Übergangsgarderobe mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Межсезонный гардероб"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

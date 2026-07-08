@@ -3,12 +3,12 @@ title: "Образ для формального ужина"
 term: "Образ для ужина"
 description: "Образ для ужина — это элегантный, полуформальный наряд для вечернего мероприятия."
 category: "Гардероб и повседневность"
-tags: ["dinner look", "garderobe"]
-keywords: ["dinner-look", "was bedeutet dinner-look", "dinner-look stilberatung"]
+tags: ["dinner look", "гардероб"]
+keywords: ["dinner-look", "что означает dinner-look", "dinner-look stilberatung"]
 glossar_order: "d"
 weight: 1
 image: "images/glossar/dinner-look.png"
-image_alt: "Editoriale Glossar-Grafik zu Dinner-Look mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для ужина"
 relatedTerms:
   - title: "Образ для формального ужина"
     url: "/ru/glossar/capsule-wardrobe/"

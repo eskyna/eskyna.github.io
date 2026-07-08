@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Pilling?"
+title: "Что означает pilling?"
 term: "Pilling"
-description: "Pilling bezeichnet kleine Knötchen auf Stoffoberflächen, die durch Reibung und Materialqualität entstehen können."
+description: "Pilling это мелкие катышки на поверхности ткани, которые могут возникать из-за трения и качества материала."
 category: "Материалы и детали"
-tags: ["materialien", "pilling"]
-keywords: ["pilling", "was bedeutet pilling", "pilling stilberatung"]
+tags: ["материалы", "pilling"]
+keywords: ["pilling", "катышки на ткани", "как уменьшить pilling"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/pilling.png"
-image_alt: "Editoriale Glossar-Grafik zu Pilling mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Pilling"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Lyocell?"
+title: "Что означает lyocell?"
 term: "Lyocell"
-description: "Lyocell ist eine Zellulosefaser mit glatter Oberfläche, weichem Fall und oft fließender Wirkung."
+description: "Lyocell это волокно на основе целлюлозы с гладкой поверхностью, мягким падением и часто текучим визуальным эффектом."
 category: "Материалы и детали"
-tags: ["lyocell", "materialien"]
-keywords: ["lyocell", "was bedeutet lyocell", "lyocell stilberatung"]
+tags: ["lyocell", "материалы"]
+keywords: ["lyocell", "целлюлозное волокно", "ткань lyocell"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/lyocell.png"
-image_alt: "Editoriale Glossar-Grafik zu Lyocell mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Lyocell"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

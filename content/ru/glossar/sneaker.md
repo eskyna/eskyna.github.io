@@ -1,23 +1,23 @@
 ---
-title: "Was sind Sneaker?"
+title: "Что такое sneaker?"
 term: "Sneaker"
-description: "Sneaker sind sportlich inspirierte Alltagsschuhe, die je nach Form, Material und Farbe lässig oder sehr klar wirken können."
+description: "Sneaker это повседневная обувь со спортивным происхождением, которая в зависимости от формы, материала и цвета может выглядеть расслабленно или очень чётко."
 category: "Гардероб и повседневность"
-tags: ["sneaker", "schuhe", "smart casual", "jeans", "chinos"]
-keywords: ["sneaker", "was sind sneaker", "sneaker kombinieren", "klare sneaker"]
+tags: ["sneaker", "обувь", "smart casual", "джинсы", "chinos"]
+keywords: ["sneaker", "что такое sneaker", "с чем сочетать sneaker", "лаконичные sneaker"]
 glossar_order: "s"
 weight: 19
 image: "images/glossar/sneaker.png"
-image_alt: "Editoriale Grafik mit stilisiertem Sneaker, klarer Sohle und neutralen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Sneaker"
 relatedTerms:
-  - title: "Loafer"
+  - title: "Лоферы"
     url: "/ru/glossar/loafer/"
-  - title: "Smart Casual"
+  - title: "Smart casual"
     url: "/ru/glossar/smart-casual/"
-  - title: "Jeans"
+  - title: "Джинсы"
     url: "/ru/glossar/jeans/"
   - title: "Chinos"
     url: "/ru/glossar/chinos/"
-  - title: "Business Casual"
+  - title: "Business casual"
     url: "/ru/glossar/business-casual/"
 ---

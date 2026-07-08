@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stiletto?"
+title: "Что означает stiletto?"
 term: "Stiletto"
-description: "Ein Stiletto ist ein sehr schmaler, hoher Absatz mit eleganter, aber auch sehr präsenter Wirkung."
+description: "Stiletto это очень узкий высокий каблук с элегантным, но одновременно очень заметным эффектом."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "stiletto"]
-keywords: ["stiletto", "was bedeutet stiletto", "stiletto stilberatung"]
+tags: ["гардероб", "stiletto"]
+keywords: ["stiletto", "что означает stiletto", "обувь на каблуке stiletto"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stiletto.png"
-image_alt: "Editoriale Glossar-Grafik zu Stiletto mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Stiletto"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

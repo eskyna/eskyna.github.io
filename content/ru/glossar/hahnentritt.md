@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Hahnentritt?"
-term: "Hahnentritt"
-description: "Hahnentritt ist ein grafisches, gezacktes Muster, das klar, klassisch und auffällig wirken kann."
+title: "Что означает узор гусиная лапка?"
+term: "Гусиная лапка"
+description: "Гусиная лапка это графичный ломаный узор, который может выглядеть чётко, классически и заметно."
 category: "Материалы и детали"
-tags: ["hahnentritt", "materialien"]
-keywords: ["hahnentritt", "was bedeutet hahnentritt", "hahnentritt stilberatung"]
+tags: ["гусиная лапка", "материалы"]
+keywords: ["гусиная лапка", "ломаная клетка", "классический графичный узор"]
 glossar_order: "h"
 weight: 1
 image: "images/glossar/hahnentritt.png"
-image_alt: "Editoriale Glossar-Grafik zu Hahnentritt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Гусиная лапка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

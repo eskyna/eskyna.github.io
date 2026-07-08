@@ -8,7 +8,7 @@ keywords: ["farbtemperatur", "warme farben", "kühle farben", "farbberatung"]
 glossar_order: "f"
 weight: 18
 image: "images/glossar/farbtemperatur.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Farbtemperatur mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Температура цвета"
 relatedTerms:
   - title: "Температура цвета"
     url: "/ru/glossar/unterton/"

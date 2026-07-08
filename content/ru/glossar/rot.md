@@ -1,27 +1,28 @@
 ---
-title: "Rot im Stil erklärt"
-term: "Rot"
-description: "Rot wirkt präsent, lebendig und kraftvoll. Entscheidend sind Nuance, Material und bewusste Dosierung im Look."
+title: "Красный в контексте стиля"
+term: "Красный"
+description: "Красный выглядит ярко, живо и энергично. Ключевые факторы это оттенок, материал и осознанная дозировка в образе."
 category: "Цветовой словарь"
 color_hex: "#B03A2E"
-tags: ["rot", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["rot kleidung", "rot kombinieren", "farbberatung", "stilberatung"]
+tags: ["красный", "цвет", "цветовая консультация", "цветовое впечатление"]
+keywords:
+  ["красная одежда", "с чем сочетать красный", "цветовая консультация", "консультация по стилю"]
 glossar_order: "r"
 weight: 8
 image: "images/glossar/rot.png"
-image_alt: "Editoriale Grafik mit roten Farbfeldern, Kontrastflächen und ruhigen Stofflagen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Красный"
 relatedTerms:
-  - title: "Bordeaux"
+  - title: "Бордовый"
     url: "/ru/glossar/bordeaux/"
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
-  - title: "Schwarz"
+  - title: "Чёрный"
     url: "/ru/glossar/schwarz/"
   - title: "Navy"
     url: "/ru/glossar/navy/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Orange"
+  - title: "Оранжевый"
     url: "/ru/glossar/orange/"
   - title: "Pink"
     url: "/ru/glossar/pink/"

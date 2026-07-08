@@ -1,23 +1,24 @@
 ---
-title: "Volumenverteilung"
-term: "Volumenverteilung"
-description: "Volumenverteilung beschreibt, wo Weite im Outfit eingesetzt wird und wie sie die Silhouette beeinflusst."
+title: "Распределение объёма"
+term: "Распределение объёма"
+description: "Распределение объёма описывает, где в образе используется ширина и как она влияет на силуэт."
 category: "Стиль и воздействие"
-tags: ["stil", "volumenverteilung"]
-keywords: ["volumenverteilung", "was bedeutet volumenverteilung", "volumenverteilung stilberatung"]
+tags: ["стиль", "распределение объёма"]
+keywords:
+  ["распределение объёма", "что означает распределение объёма", "распределение объёма в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/volumenverteilung.png"
-image_alt: "Editoriale Glossar-Grafik zu Volumenverteilung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Распределение объёма"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

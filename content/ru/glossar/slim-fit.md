@@ -1,22 +1,22 @@
 ---
-title: "Was bedeutet Slim Fit?"
-term: "Slim Fit"
-description: "Slim Fit bezeichnet eine schmale Passform, die körpernah sitzt, aber nicht so eng sein muss wie Skinny."
+title: "Что означает slim fit?"
+term: "Slim fit"
+description: "Slim fit обозначает узкую посадку по фигуре, но не обязательно такую плотную, как skinny."
 category: "Крой, пропорции и посадка"
-tags: ["slim fit", "passform", "schnitt", "hose", "silhouette"]
-keywords: ["slim fit", "was bedeutet slim fit", "slim fit hose", "schmale passform"]
+tags: ["slim fit", "посадка", "крой", "брюки", "силуэт"]
+keywords: ["slim fit", "что означает slim fit", "брюки slim fit", "узкая посадка"]
 glossar_order: "s"
 weight: 15
 image: "images/glossar/slim-fit.png"
-image_alt: "Editoriale Grafik mit schmal geschnittener Hose, Passformlinien und ruhiger Komposition"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Slim fit"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Straight Leg"
+  - title: "Straight leg"
     url: "/ru/glossar/straight-leg/"
-  - title: "Jeans"
+  - title: "Джинсы"
     url: "/ru/glossar/jeans/"
   - title: "Chinos"
     url: "/ru/glossar/chinos/"

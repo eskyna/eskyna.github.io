@@ -1,23 +1,23 @@
 ---
-title: "Taillenbetonung"
-term: "Taillenbetonung"
-description: "Taillenbetonung macht die Körpermitte sichtbar und beeinflusst Proportion, Silhouette und Wirkung."
+title: "Акцент на талии"
+term: "Акцент на талии"
+description: "Акцент на талии визуально выделяет центр фигуры и влияет на пропорции, силуэт и впечатление."
 category: "Стиль и воздействие"
-tags: ["stil", "taillenbetonung"]
-keywords: ["taillenbetonung", "was bedeutet taillenbetonung", "taillenbetonung stilberatung"]
+tags: ["стиль", "акцент на талии"]
+keywords: ["акцент на талии", "что означает акцент на талии", "акцент на талии в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/taillenbetonung.png"
-image_alt: "Editoriale Glossar-Grafik zu Taillenbetonung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Акцент на талии"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

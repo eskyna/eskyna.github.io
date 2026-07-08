@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Ring?"
-term: "Ring"
-description: "Ein Ring ist ein Schmuckstück für die Finger und kann dezent, grafisch, klassisch oder statementhaft wirken."
+title: "Что означает кольцо?"
+term: "Кольцо"
+description: "Кольцо это украшение для пальцев, которое может выглядеть сдержанно, графично, классически или акцентно."
 category: "Материалы и детали"
-tags: ["materialien", "ring"]
-keywords: ["ring", "was bedeutet ring", "ring stilberatung"]
+tags: ["материалы", "кольцо"]
+keywords: ["кольцо", "что означает кольцо", "кольца в стилизации"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/ring.png"
-image_alt: "Editoriale Glossar-Grafik zu Ring mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кольцо"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

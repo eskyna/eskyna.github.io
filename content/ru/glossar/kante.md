@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Kante?"
-term: "Kante"
-description: "Eine Kante ist eine sichtbare Abschlusslinie an Kleidung oder Accessoires und prägt die Präzision eines Looks."
+title: "Что означает край?"
+term: "Край"
+description: "Край это видимая завершающая линия на одежде или аксессуарах, которая влияет на точность и собранность образа."
 category: "Материалы и детали"
-tags: ["kante", "materialien"]
-keywords: ["kante", "was bedeutet kante", "kante stilberatung"]
+tags: ["край", "материалы"]
+keywords: ["край", "обработка края", "чёткая линия в одежде"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kante.png"
-image_alt: "Editoriale Glossar-Grafik zu Kante mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Край"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

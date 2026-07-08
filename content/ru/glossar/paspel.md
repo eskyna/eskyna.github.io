@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Paspel?"
-term: "Paspel"
-description: "Eine Paspel ist eine schmale eingefasste Kante, die Linien und Details präzise betont."
+title: "Что означает кант?"
+term: "Кант"
+description: "Кант это узкая обработанная кромка, которая точно подчёркивает линии и детали изделия."
 category: "Материалы и детали"
-tags: ["materialien", "paspel"]
-keywords: ["paspel", "was bedeutet paspel", "paspel stilberatung"]
+tags: ["материалы", "кант"]
+keywords: ["кант", "что означает кант", "кант в стилизации"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/paspel.png"
-image_alt: "Editoriale Glossar-Grafik zu Paspel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кант"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

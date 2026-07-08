@@ -1,23 +1,23 @@
 ---
-title: "Saumverarbeitung"
-term: "Saumverarbeitung"
-description: "Saumverarbeitung beschreibt, wie sauber und haltbar der untere Abschluss eines Kleidungsstücks gearbeitet ist."
+title: "Что означает обработка подола?"
+term: "Обработка подола"
+description: "Обработка подола описывает, насколько аккуратно и надёжно выполнен нижний край изделия."
 category: "Материалы и детали"
-tags: ["materialien", "saumverarbeitung"]
-keywords: ["saumverarbeitung", "was bedeutet saumverarbeitung", "saumverarbeitung stilberatung"]
+tags: ["материалы", "обработка подола"]
+keywords: ["обработка подола", "что означает обработка подола", "качество обработки подола"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/saumverarbeitung.png"
-image_alt: "Editoriale Glossar-Grafik zu Saumverarbeitung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Обработка подола"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

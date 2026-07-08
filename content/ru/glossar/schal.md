@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Schal?"
-term: "Schal"
-description: "Ein Schal ist ein längliches Tuch oder Strickstück, das wärmt, rahmt und die Wirkung nahe am Gesicht verändert."
+title: "Что такое шарф?"
+term: "Шарф"
+description: "Шарф это длинный текстильный или вязаный аксессуар, который согревает, обрамляет лицо и заметно влияет на впечатление."
 category: "Материалы и детали"
-tags: ["schal", "accessoire", "farbe", "gesichtsrahmung", "material"]
-keywords: ["schal", "was ist ein schal", "schal kombinieren"]
+tags: ["шарф", "аксессуар", "цвет", "обрамление лица", "материал"]
+keywords: ["шарф", "что такое шарф", "с чем сочетать шарф"]
 glossar_order: "s"
 weight: 16
 image: "images/glossar/schal.png"
-image_alt: "Editoriale Grafik zu Schal mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шарф"
 relatedTerms:
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Seidentuch"
+  - title: "Шёлковый платок"
     url: "/ru/glossar/seidentuch/"
-  - title: "Halstuch"
+  - title: "Платок на шею"
     url: "/ru/glossar/halstuch/"
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
 ---

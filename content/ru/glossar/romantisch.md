@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Romantisch?"
-term: "Romantisch"
-description: "Romantisch wirkt ein Stil durch weiche Linien, zarte Farben, fließende Stoffe oder dekorative Details."
+title: "Что означает романтический стиль?"
+term: "Романтический стиль"
+description: "Романтический стиль создаётся мягкими линиями, деликатной палитрой, струящимися тканями и декоративными деталями."
 category: "Стиль и воздействие"
-tags: ["romantisch", "stil"]
-keywords: ["romantisch", "was bedeutet romantisch", "romantisch stilberatung"]
+tags: ["романтический стиль", "стиль"]
+keywords: ["романтический стиль", "что означает романтический стиль", "романтическая стилизация"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/romantisch.png"
-image_alt: "Editoriale Glossar-Grafik zu Romantisch mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Романтический стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

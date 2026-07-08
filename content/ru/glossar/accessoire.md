@@ -4,11 +4,11 @@ term: "Аксессуар"
 description: "Аксессуары — это украшающие предметы, которые дополняют наряд и выражают личный стиль."
 category: "Гардероб и повседневность"
 tags: ["accessoire", "schmuck", "tasche", "gürtel", "styling"]
-keywords: ["accessoire", "was ist ein accessoire", "accessoires kombinieren", "outfit accessoires"]
+keywords: ["accessoire", "что такое accessoire", "accessoires kombinieren", "outfit accessoires"]
 glossar_order: "a"
 weight: 7
 image: "images/glossar/accessoire.png"
-image_alt: "Editoriale Grafik mit Tasche, Schmuckkreis, Gürtel und ruhigen Akzentflächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Аксессуар"
 relatedTerms:
   - title: "Аксессуары в стайлинге"
     url: "/ru/glossar/feinschmuck/"

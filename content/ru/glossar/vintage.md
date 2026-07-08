@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Vintage?"
+title: "Что означает vintage?"
 term: "Vintage"
-description: "Vintage beschreibt ältere Kleidungsstücke oder Stilreferenzen, die durch Zeit, Qualität oder Charakter besonders wirken."
+description: "Vintage описывает вещи или стилевые коды прошлых десятилетий, которые выделяются качеством, возрастом и характером."
 category: "Стиль и воздействие"
-tags: ["stil", "vintage"]
-keywords: ["vintage", "was bedeutet vintage", "vintage stilberatung"]
+tags: ["стиль", "vintage"]
+keywords: ["vintage", "что означает vintage", "vintage в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/vintage.png"
-image_alt: "Editoriale Glossar-Grafik zu Vintage mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Vintage"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

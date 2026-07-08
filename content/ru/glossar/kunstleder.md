@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Kunstleder?"
-term: "Kunstleder"
-description: "Kunstleder ist ein lederähnliches synthetisches Material, dessen Wirkung stark von Qualität und Oberfläche abhängt."
+title: "Что означает искусственная кожа?"
+term: "Искусственная кожа"
+description: "Искусственная кожа это синтетический материал с кожеподобной поверхностью, чьё впечатление сильно зависит от качества и фактуры."
 category: "Материалы и детали"
-tags: ["kunstleder", "materialien"]
-keywords: ["kunstleder", "was bedeutet kunstleder", "kunstleder stilberatung"]
+tags: ["искусственная кожа", "материалы"]
+keywords: ["искусственная кожа", "синтетическая кожа", "фактура искусственной кожи"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kunstleder.png"
-image_alt: "Editoriale Glossar-Grafik zu Kunstleder mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Искусственная кожа"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Maxikleid?"
-term: "Maxikleid"
-description: "Ein Maxikleid ist ein langes Kleid, das meist bis zum Knöchel oder Boden reicht und je nach Material lässig oder elegant wirken kann."
-category: "Kleider & Röcke"
-tags: ["maxikleid", "kleid", "saumlänge", "silhouette"]
-keywords: ["maxikleid", "was ist ein maxikleid", "maxikleid kombinieren"]
+title: "Что такое макси-платье?"
+term: "Макси-платье"
+description: "Макси-платье это длинное платье, которое обычно доходит до щиколотки или пола и в зависимости от материала может выглядеть расслабленно или элегантно."
+category: "Платья и юбки"
+tags: ["макси-платье", "платье", "длина края", "силуэт"]
+keywords: ["макси-платье", "что такое макси-платье", "с чем носить макси-платье"]
 glossar_order: "m"
 weight: 5
 image: "images/glossar/maxikleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxikleid mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Макси-платье"
 relatedTerms:
-  - title: "Kleid"
+  - title: "Платье"
     url: "/ru/glossar/kleid/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
 ---

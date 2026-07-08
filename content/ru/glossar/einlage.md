@@ -3,12 +3,12 @@ title: "Подкладка в одежде"
 term: "Подкладка"
 description: "Подкладка — это внутренний слой ткани, обеспечивающий комфорт и структуру одежды."
 category: "Материалы и детали"
-tags: ["einlage", "materialien"]
-keywords: ["einlage", "was bedeutet einlage", "einlage stilberatung"]
+tags: ["einlage", "материалы"]
+keywords: ["einlage", "что означает einlage", "einlage stilberatung"]
 glossar_order: "e"
 weight: 1
 image: "images/glossar/einlage.png"
-image_alt: "Editoriale Glossar-Grafik zu Einlage mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Подкладка"
 relatedTerms:
   - title: "Подкладка в одежде"
     url: "/ru/glossar/materialfall/"

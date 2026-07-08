@@ -3,7 +3,7 @@ title: "Was bedeutet Stilgefühl?"
 term: "Stilgefühl"
 description: "Stilgefühl ist die Fähigkeit, stimmige Kleidung, Proportionen, Farben und Wirkungen für sich selbst zu erkennen."
 category: "Stil & Wirkung"
-tags: ["stil", "stilgefuehl"]
+tags: ["stil", "stilgefühl"]
 keywords: ["stilgefühl", "was bedeutet stilgefühl", "stilgefühl stilberatung"]
 glossar_order: "s"
 weight: 1

@@ -1,28 +1,28 @@
 ---
-title: "Gold im Stil erklärt"
-term: "Gold"
-description: "Gold ist ein warmer Metallic-Ton. Es wirkt weich, luxuriös und besonders schön in Accessoires und Details."
+title: "Золото в контексте стиля"
+term: "Золото"
+description: "Золото это тёплый металлический оттенок. Оно выглядит мягко, роскошно и особенно красиво работает в аксессуарах и деталях."
 category: "Цветовой словарь"
 color_hex: "#C5A059"
-tags: ["gold", "metallic", "farbe", "accessoire", "farbberatung"]
-keywords: ["gold kleidung", "gold kombinieren", "goldschmuck farbberatung", "metallic"]
+tags: ["золото", "металлик", "цвет", "аксессуар", "цветовая консультация"]
+keywords: ["золотой цвет в одежде", "с чем сочетать золото", "золотые украшения", "металлик"]
 glossar_order: "g"
 weight: 32
 image: "images/glossar/gold.png"
-image_alt: "Editoriale Grafik zu Gold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Золото"
 relatedTerms:
-  - title: "Feinschmuck"
+  - title: "Изящные украшения"
     url: "/ru/glossar/feinschmuck/"
-  - title: "Creolen"
+  - title: "Серьги-кольца"
     url: "/ru/glossar/creolen/"
-  - title: "Metallic"
+  - title: "Металлик"
     url: "/ru/glossar/metallic/"
-  - title: "Silber"
+  - title: "Серебро"
     url: "/ru/glossar/silber/"
-  - title: "Roségold"
+  - title: "Розовое золото"
     url: "/ru/glossar/rosegold/"
-  - title: "Camel"
+  - title: "Кэмел"
     url: "/ru/glossar/camel/"
-  - title: "Braun"
+  - title: "Коричневый"
     url: "/ru/glossar/braun/"
 ---

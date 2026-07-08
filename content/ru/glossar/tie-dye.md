@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Tie-Dye?"
+title: "Что означает tie-dye?"
 term: "Tie-Dye"
-description: "Tie-Dye ist eine modische Batikvariante mit sichtbaren Farbverläufen und entspanntem Charakter."
+description: "Tie-dye это модная вариация батик-окраски с видимыми цветовыми переходами и расслабленным характером."
 category: "Материалы и детали"
-tags: ["materialien", "tie dye"]
-keywords: ["tie-dye", "was bedeutet tie-dye", "tie-dye stilberatung"]
+tags: ["материалы", "tie-dye"]
+keywords: ["tie-dye", "что означает tie-dye", "tie-dye в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/tie-dye.png"
-image_alt: "Editoriale Glossar-Grafik zu Tie-Dye mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Tie-Dye"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

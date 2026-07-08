@@ -1,29 +1,29 @@
 ---
-title: "Grau im Stil erklärt"
-term: "Grau"
-description: "Grau wirkt ruhig, sachlich und modern. Die richtige Nuance macht den Unterschied zwischen müde und elegant."
+title: "Серый в контексте стиля"
+term: "Серый"
+description: "Серый выглядит спокойно, сдержанно и современно. Правильный оттенок решает, будет ли образ казаться уставшим или элегантным."
 category: "Цветовой словарь"
 color_hex: "#8F8F8F"
-tags: ["grau", "farbe", "farbberatung", "neutrale farben"]
-keywords: ["grau kleidung", "grau kombinieren", "anthrazit", "grau farbberatung"]
+tags: ["серый", "цвет", "цветовая консультация", "нейтральные цвета"]
+keywords: ["серая одежда", "с чем сочетать серый", "антрацит", "цветовая консультация"]
 glossar_order: "g"
 weight: 12
 
 image: "images/glossar/grau.png"
-image_alt: "Editoriale Grafik mit Grau-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Серый"
 relatedTerms:
-  - title: "Schwarz"
+  - title: "Чёрный"
     url: "/ru/glossar/schwarz/"
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
-  - title: "Navy"
+  - title: "Тёмно-синий"
     url: "/ru/glossar/navy/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Anthrazit"
+  - title: "Антрацит"
     url: "/ru/glossar/anthrazit/"
-  - title: "Silber"
+  - title: "Серебро"
     url: "/ru/glossar/silber/"
 ---

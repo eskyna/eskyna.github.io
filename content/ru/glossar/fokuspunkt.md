@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Fokuspunkt?"
-term: "Fokuspunkt"
-description: "Ein Fokuspunkt ist die Stelle im Outfit, die zuerst Aufmerksamkeit zieht."
+title: "Что означает фокусная точка?"
+term: "Фокусная точка"
+description: "Фокусная точка это место в образе, которое первым притягивает внимание."
 category: "Стиль и воздействие"
-tags: ["fokuspunkt", "stil"]
-keywords: ["fokuspunkt", "was bedeutet fokuspunkt", "fokuspunkt stilberatung"]
+tags: ["фокусная точка", "стиль"]
+keywords: ["фокусная точка", "акцент в образе", "что притягивает взгляд"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/fokuspunkt.png"
-image_alt: "Editoriale Glossar-Grafik zu Fokuspunkt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Фокусная точка"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

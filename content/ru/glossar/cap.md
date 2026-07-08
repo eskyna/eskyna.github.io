@@ -4,11 +4,11 @@ term: "Бейсболка"
 description: "Бейсболка — это практичный, молодежный аксессуар, идеальный для casual и спортивных образов."
 category: "Материалы и детали"
 tags: ["cap", "accessoire", "kopfbedeckung", "sportlich", "styling"]
-keywords: ["cap styling", "was ist eine cap", "cap kombinieren"]
+keywords: ["cap styling", "что такое cap", "cap kombinieren"]
 glossar_order: "c"
 weight: 27
 image: "images/glossar/cap.png"
-image_alt: "Editoriale Grafik zu Cap mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бейсболка"
 relatedTerms:
   - title: "Бейсболка в аксессуарах"
     url: "/ru/glossar/hut/"

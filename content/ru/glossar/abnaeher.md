@@ -4,11 +4,11 @@ term: "Вытачки"
 description: "Вытачки — это швы, которые создают форму одежды, подчёркивая контуры фигуры и обеспечивая идеальную посадку."
 category: "Материалы и детали"
 tags: ["abnaeher", "schnitt proportion"]
-keywords: ["abnäher", "was bedeutet abnäher", "abnäher stilberatung"]
+keywords: ["abnäher", "что означает abnäher", "abnäher stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/abnaeher.png"
-image_alt: "Editoriale Glossar-Grafik zu Abnäher mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Вытачки"
 relatedTerms:
   - title: "Вытачки в шитье и посадке"
     url: "/ru/glossar/passform/"

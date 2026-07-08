@@ -1,23 +1,23 @@
 ---
-title: "Stil-Klarheit"
-term: "Stil-Klarheit"
-description: "Stil-Klarheit ist die Sicherheit darüber, was passt, warum es passt und welche Entscheidungen den eigenen Stil stärken."
+title: "Ясность стиля"
+term: "Ясность стиля"
+description: "Ясность стиля это уверенность в том, что вам подходит, почему это подходит и какие решения усиливают ваш личный стиль."
 category: "Стиль и воздействие"
-tags: ["stil", "stil klarheit"]
-keywords: ["stil-klarheit", "was bedeutet stil-klarheit", "stil-klarheit stilberatung"]
+tags: ["стиль", "ясность стиля"]
+keywords: ["ясность стиля", "что означает ясность стиля", "уверенность в стиле"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stil-klarheit.png"
-image_alt: "Editoriale Glossar-Grafik zu Stil-Klarheit mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ясность стиля"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

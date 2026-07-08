@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Leder?"
-term: "Leder"
-description: "Leder ist ein robustes Naturmaterial mit charaktervoller Oberfläche, das je nach Verarbeitung weich oder kantig wirkt."
+title: "Что означает кожа?"
+term: "Кожа"
+description: "Кожа это прочный натуральный материал с выразительной поверхностью, который в зависимости от обработки может выглядеть мягко или графично."
 category: "Материалы и детали"
-tags: ["leder", "materialien"]
-keywords: ["leder", "was bedeutet leder", "leder stilberatung"]
+tags: ["кожа", "материалы"]
+keywords: ["кожа", "натуральная кожа", "фактура кожи в одежде"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/leder.png"
-image_alt: "Editoriale Glossar-Grafik zu Leder mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кожа"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Relaxed Fit?"
-term: "Relaxed Fit"
-description: "Relaxed Fit bezeichnet einen lockereren Schnitt mit mehr Bewegungsfreiheit und entspannter Wirkung."
+title: "Что означает relaxed fit?"
+term: "Relaxed fit"
+description: "Relaxed fit обозначает более свободный крой с большей свободой движения и расслабленным визуальным эффектом."
 category: "Крой, пропорции и посадка"
-tags: ["relaxed fit", "schnitt proportion"]
-keywords: ["relaxed fit", "was bedeutet relaxed fit", "relaxed fit stilberatung"]
+tags: ["relaxed fit", "крой", "пропорции"]
+keywords: ["relaxed fit", "что означает relaxed fit", "свободный крой relaxed fit"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/relaxed-fit.png"
-image_alt: "Editoriale Glossar-Grafik zu Relaxed Fit mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Relaxed fit"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

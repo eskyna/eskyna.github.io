@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Vichy-Karo?"
-term: "Vichy-Karo"
-description: "Vichy-Karo ist ein kleines, gleichmäßiges Karomuster mit frischer und oft sommerlicher Wirkung."
+title: "Что означает клетка виши?"
+term: "Клетка виши"
+description: "Клетка виши это мелкий ровный клетчатый принт со свежим и часто летним характером."
 category: "Материалы и детали"
-tags: ["materialien", "vichy karo"]
-keywords: ["vichy-karo", "was bedeutet vichy-karo", "vichy-karo stilberatung"]
+tags: ["материалы", "клетка виши"]
+keywords: ["клетка виши", "что означает клетка виши", "клетка виши в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/vichy-karo.png"
-image_alt: "Editoriale Glossar-Grafik zu Vichy-Karo mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Клетка виши"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

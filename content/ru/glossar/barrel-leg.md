@@ -10,12 +10,12 @@ tags:
   - "schnitt"
 keywords:
   - "barrel leg"
-  - "was bedeutet barrel leg"
+  - "что означает barrel leg"
   - "barrel leg jeans"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/barrel-leg.png"
-image_alt: "Editoriale Grafik zu Barrel Leg mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бочкообразные брюки"
 relatedTerms:
   - title: "Бочкообразные брюки в моде"
     url: "/ru/glossar/silhouette/"

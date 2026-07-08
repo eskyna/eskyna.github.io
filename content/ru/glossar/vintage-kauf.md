@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Vintage-Kauf?"
-term: "Vintage-Kauf"
-description: "Ein Vintage-Kauf ist der Kauf älterer Kleidungsstücke mit besonderem Stil, Material oder Charakter."
+title: "Что означает покупка vintage?"
+term: "Покупка vintage"
+description: "Покупка vintage это выбор вещей прошлых десятилетий с особым стилем, материалом и характером."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "vintage kauf"]
-keywords: ["vintage-kauf", "was bedeutet vintage-kauf", "vintage-kauf stilberatung"]
+tags: ["гардероб", "покупка vintage"]
+keywords: ["покупка vintage", "что означает покупка vintage", "покупка vintage в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/vintage-kauf.png"
-image_alt: "Editoriale Glossar-Grafik zu Vintage-Kauf mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Покупка vintage"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

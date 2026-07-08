@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Signale?"
-term: "Signale"
-description: "Signale sind stilistische Elemente, die eine bestimmte Wirkung senden, etwa Nähe, Klarheit, Ruhe oder Präsenz."
+title: "Что означают сигналы стиля?"
+term: "Сигналы стиля"
+description: "Сигналы стиля это элементы образа, которые передают конкретное впечатление, например близость, ясность, спокойствие или присутствие."
 category: "Стиль и воздействие"
-tags: ["signale", "stil"]
-keywords: ["signale", "was bedeutet signale", "signale stilberatung"]
+tags: ["сигналы стиля", "стиль"]
+keywords: ["сигналы стиля", "что означают сигналы стиля", "сигналы в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/signale.png"
-image_alt: "Editoriale Glossar-Grafik zu Signale mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Сигналы стиля"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

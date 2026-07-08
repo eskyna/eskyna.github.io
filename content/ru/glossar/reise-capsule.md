@@ -1,23 +1,23 @@
 ---
-title: "Reise-Capsule"
-term: "Reise-Capsule"
-description: "Eine Reise-Capsule ist eine kleine, gut kombinierbare Garderobe für eine Reise."
+title: "Что означает travel capsule?"
+term: "Travel capsule"
+description: "Travel capsule это компактный гардероб для поездки, где вещи легко сочетаются между собой."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "reise capsule"]
-keywords: ["reise-capsule", "was bedeutet reise-capsule", "reise-capsule stilberatung"]
+tags: ["гардероб", "travel capsule"]
+keywords: ["travel capsule", "капсула в поездку", "капсульный гардероб для путешествия"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/reise-capsule.png"
-image_alt: "Editoriale Glossar-Grafik zu Reise-Capsule mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Travel capsule"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

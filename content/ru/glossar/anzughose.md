@@ -10,12 +10,12 @@ tags:
   - "stoffhose"
 keywords:
   - "anzughose"
-  - "was ist eine anzughose"
+  - "что такое anzughose"
   - "anzughose kombinieren"
 glossar_order: "a"
 weight: 5
 image: "images/glossar/anzughose.png"
-image_alt: "Editoriale Grafik zu Anzughose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки костюма"
 relatedTerms:
   - title: "Брюки костюма в посадке"
     url: "/ru/glossar/stoffhose/"

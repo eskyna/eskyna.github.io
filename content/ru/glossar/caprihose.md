@@ -10,12 +10,12 @@ tags:
   - "sommer"
 keywords:
   - "caprihose"
-  - "was ist eine caprihose"
+  - "что такое caprihose"
   - "caprihose kombinieren"
 glossar_order: "c"
 weight: 5
 image: "images/glossar/caprihose.png"
-image_alt: "Editoriale Grafik zu Caprihose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Капри"
 relatedTerms:
   - title: "Капри: брюки до колена"
     url: "/ru/glossar/saumlange/"

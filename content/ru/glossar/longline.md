@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Longline?"
+title: "Что означает longline?"
 term: "Longline"
-description: "Longline bezeichnet verlängerte Schnitte, die eine ruhigere, vertikalere Linie erzeugen."
+description: "Longline обозначает удлинённые силуэты, которые создают более спокойную и вертикальную линию."
 category: "Крой, пропорции и посадка"
-tags: ["longline", "schnitt proportion"]
-keywords: ["longline", "was bedeutet longline", "longline stilberatung"]
+tags: ["longline", "крой", "пропорции"]
+keywords: ["longline", "удлинённый силуэт", "вертикальная линия в крое"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/longline.png"
-image_alt: "Editoriale Glossar-Grafik zu Longline mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Longline"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Акцент на талии"
     url: "/ru/glossar/taillierung/"
 ---

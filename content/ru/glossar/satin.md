@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Satin?"
-term: "Satin"
-description: "Satin ist eine Webart mit glatter, oft glänzender Oberfläche und fließender Wirkung."
+title: "Что означает сатин?"
+term: "Сатин"
+description: "Сатин это тип переплетения с гладкой, часто блестящей поверхностью и текучим визуальным эффектом."
 category: "Материалы и детали"
-tags: ["materialien", "satin"]
-keywords: ["satin", "was bedeutet satin", "satin stilberatung"]
+tags: ["материалы", "сатин"]
+keywords: ["сатин", "что означает сатин", "сатин в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/satin.png"
-image_alt: "Editoriale Glossar-Grafik zu Satin mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Сатин"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

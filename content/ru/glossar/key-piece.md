@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Key-Piece?"
-term: "Key-Piece"
-description: "Ein Key-Piece ist ein zentrales Kleidungsstück, das viele Looks trägt und deiner Garderobe Richtung gibt."
+title: "Что такое ключевая вещь?"
+term: "Ключевая вещь"
+description: "Ключевая вещь это центральный предмет одежды, который поддерживает много образов и задаёт направление гардеробу."
 category: "Гардероб и повседневность"
-tags: ["key-piece", "garderobe", "stilberatung", "kombinieren"]
-keywords: ["key-piece", "garderobe aufbauen", "kleidung kombinieren", "stilberatung"]
+tags: ["ключевая вещь", "гардероб", "стиль", "сочетания"]
+keywords: ["ключевая вещь", "как собрать гардероб", "с чем сочетать одежду", "опорная вещь"]
 glossar_order: "k"
 weight: 3
 image: "images/glossar/key-piece.png"
-image_alt: "Editoriale Grafik mit einem zentralen Kleidungsstück und ruhigen Kombinationsflächen als Symbol für ein Key-Piece"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ключевая вещь"
 relatedTerms:
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
-  - title: "Trenchcoat"
+  - title: "Тренч"
     url: "/ru/glossar/trenchcoat/"
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
 ---

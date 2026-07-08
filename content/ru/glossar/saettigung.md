@@ -1,24 +1,24 @@
 ---
-title: "Sättigung"
-term: "Sättigung"
-description: "Sättigung beschreibt, wie intensiv oder gedämpft eine Farbe wirkt und wie stark sie im Outfit sichtbar wird."
-category: "Farbberatung & Farbe"
-tags: ["sättigung", "farbe", "farbberatung", "kontrast"]
-keywords: ["sättigung farbe", "gedämpfte farben", "kräftige farben", "farbberatung"]
+title: "Что означает насыщенность цвета?"
+term: "Насыщенность цвета"
+description: "Насыщенность описывает, насколько интенсивным или приглушённым выглядит цвет и как сильно он заметен в образе."
+category: "Консультация по цвету и цвет"
+tags: ["насыщенность", "цвет", "цветовая консультация", "контраст"]
+keywords: ["насыщенность цвета", "приглушённые цвета", "яркие цвета", "цветовая консультация"]
 glossar_order: "s"
 weight: 19
 
 image: "images/glossar/saettigung.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Sättigung mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Насыщенность цвета"
 relatedTerms:
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Farbtemperatur"
+  - title: "Цветовая температура"
     url: "/ru/glossar/farbtemperatur/"
-  - title: "Helligkeit"
+  - title: "Светлота"
     url: "/ru/glossar/helligkeit/"
   - title: "Pink"
     url: "/ru/glossar/pink/"
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
 ---

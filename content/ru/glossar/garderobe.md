@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Garderobe?"
-term: "Garderobe"
-description: "Die Garderobe umfasst alle Kleidungsstücke, Schuhe und Accessoires, die eine Person regelmäßig oder anlassbezogen nutzt."
+title: "Что означает гардероб?"
+term: "Гардероб"
+description: "Гардероб включает всю одежду, обувь и аксессуары, которыми человек пользуется регулярно или по особым поводам."
 category: "Стиль и воздействие"
-tags: ["garderobe", "stil"]
-keywords: ["garderobe", "was bedeutet garderobe", "garderobe stilberatung"]
+tags: ["гардероб", "стиль"]
+keywords: ["гардероб", "структура гардероба", "основа личного гардероба"]
 glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobe.png"
-image_alt: "Editoriale Glossar-Grafik zu Garderobe mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Гардероб"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
 ---

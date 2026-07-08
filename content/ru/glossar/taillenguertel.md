@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Taillengürtel?"
-term: "Taillengürtel"
-description: "Ein Taillengürtel sitzt bewusst in der Körpermitte und formt Kleider, Blazer, Mäntel oder weite Silhouetten."
-category: "Materialien & Details"
-tags: ["taillengürtel", "gürtel", "taillierung", "silhouette", "accessoire"]
-keywords: ["taillengürtel", "was ist ein taillengürtel", "taillengürtel kombinieren"]
+title: "Что такое пояс на талию?"
+term: "Пояс на талию"
+description: "Пояс на талию осознанно фиксируется в центре фигуры и формирует платья, блейзеры, пальто или более объёмные силуэты."
+category: "Материалы и детали"
+tags: ["пояс на талию", "пояс", "приталивание", "силуэт", "аксессуар"]
+keywords: ["пояс на талию", "что такое пояс на талию", "с чем сочетать пояс на талию"]
 glossar_order: "t"
 weight: 9
 image: "images/glossar/taillenguertel.png"
-image_alt: "Editoriale Grafik zu Taillengürtel mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пояс на талию"
 relatedTerms:
-  - title: "Gürtel"
+  - title: "Пояс"
     url: "/ru/glossar/guertel/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Kleid"
+  - title: "Платье"
     url: "/ru/glossar/kleid/"
 ---

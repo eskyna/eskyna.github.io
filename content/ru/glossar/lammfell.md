@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Lammfell?"
-term: "Lammfell"
-description: "Lammfell ist ein warmes Fellmaterial oder Fellimitat mit weicher, winterlicher Wirkung."
+title: "Что означает овчина?"
+term: "Овчина"
+description: "Овчина это тёплый натуральный материал или его имитация с мягкой зимней фактурой."
 category: "Материалы и детали"
-tags: ["lammfell", "materialien"]
-keywords: ["lammfell", "was bedeutet lammfell", "lammfell stilberatung"]
+tags: ["овчина", "материалы"]
+keywords: ["овчина", "материал овчина", "мягкая зимняя фактура"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/lammfell.png"
-image_alt: "Editoriale Glossar-Grafik zu Lammfell mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Овчина"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

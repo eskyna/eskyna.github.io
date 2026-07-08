@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Poloshirt?"
-term: "Poloshirt"
-description: "Ein Poloshirt ist ein Shirt mit Kragen und kurzer Knopfleiste, das sportliche und gepflegte Elemente verbindet."
+title: "Что означает polo shirt?"
+term: "Polo shirt"
+description: "Polo shirt это футболка с воротником и короткой планкой на пуговицах, которая сочетает спортивность и аккуратность."
 category: "Материалы и детали"
-tags: ["materialien", "poloshirt"]
-keywords: ["poloshirt", "was bedeutet poloshirt", "poloshirt stilberatung"]
+tags: ["материалы", "polo shirt"]
+keywords: ["polo shirt", "поло", "как носить polo shirt"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/poloshirt.png"
-image_alt: "Editoriale Glossar-Grafik zu Poloshirt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Polo shirt"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

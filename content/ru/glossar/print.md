@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Print?"
+title: "Что означает print?"
 term: "Print"
-description: "Ein Print ist ein aufgedrucktes Muster oder Motiv, das Farbe, Fläche und Stilrichtung eines Kleidungsstücks prägt."
+description: "Print это нанесённый узор или мотив, который формирует цветовое поле и стилевое направление вещи."
 category: "Материалы и детали"
-tags: ["materialien", "print"]
-keywords: ["print", "was bedeutet print", "print stilberatung"]
+tags: ["материалы", "print"]
+keywords: ["print", "принт", "принт в стилизации"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/print.png"
-image_alt: "Editoriale Glossar-Grafik zu Print mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Print"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

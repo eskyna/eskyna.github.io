@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Körperform?"
-term: "Körperform"
-description: "Körperform beschreibt die individuelle Körperstruktur ohne Bewertung und hilft, Schnitt und Proportion bewusster zu wählen."
-category: "Stil & Wirkung"
-tags: ["koerperform", "stil"]
-keywords: ["körperform", "was bedeutet körperform", "körperform stilberatung"]
+title: "Что означает форма тела?"
+term: "Форма тела"
+description: "Форма тела описывает индивидуальную телесную структуру без оценки и помогает осознаннее выбирать крой и пропорции."
+category: "Стиль и воздействие"
+tags: ["форма тела", "стиль"]
+keywords: ["форма тела", "как учитывать форму тела", "крой и пропорции"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/koerperform.png"
-image_alt: "Editoriale Glossar-Grafik zu Körperform mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Форма тела"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

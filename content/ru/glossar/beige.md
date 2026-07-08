@@ -9,7 +9,7 @@ keywords: ["beige kleidung", "beige kombinieren", "neutrale farben", "stilberatu
 glossar_order: "b"
 weight: 4
 image: "images/glossar/beige.png"
-image_alt: "Editoriale Grafik mit Beige-Nuancen, Naturtönen und feinen Stoffflächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бежевый"
 relatedTerms:
   - title: "Бежевый цвет в гардеробе"
     url: "/ru/glossar/weiss/"

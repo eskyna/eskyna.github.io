@@ -1,19 +1,19 @@
 ---
-title: "Was bedeutet Wirkung?"
-term: "Wirkung"
-description: "Wirkung beschreibt den Eindruck, den Kleidung, Farben, Formen und Auftreten im Zusammenspiel erzeugen."
+title: "Что означает впечатление?"
+term: "Впечатление"
+description: "Впечатление описывает эффект, который вместе создают одежда, цвет, формы и манера держаться."
 category: "Стиль и воздействие"
 tags: ["stil", "wirkung"]
-keywords: ["wirkung", "was bedeutet wirkung", "wirkung stilberatung"]
+keywords: ["впечатление", "что означает впечатление", "впечатление в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wirkung.png"
-image_alt: "Editoriale Glossar-Grafik zu Wirkung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Впечатление"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

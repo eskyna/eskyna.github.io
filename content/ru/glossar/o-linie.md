@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet O-Linie?"
-term: "O-Linie"
-description: "Die O-Linie beschreibt eine rundere, voluminösere Silhouette mit weicher, geschlossener Form."
+title: "Что означает O-силуэт?"
+term: "O-силуэт"
+description: "O-силуэт описывает более округлую и объёмную форму с мягким, цельным контуром."
 category: "Крой, пропорции и посадка"
-tags: ["o linie", "schnitt proportion"]
-keywords: ["o-linie", "was bedeutet o-linie", "o-linie stilberatung"]
+tags: ["o-силуэт", "крой", "пропорции"]
+keywords: ["o-силуэт", "объёмный силуэт", "округлая форма в одежде"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/o-linie.png"
-image_alt: "Editoriale Glossar-Grafik zu O-Linie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина O-силуэт"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

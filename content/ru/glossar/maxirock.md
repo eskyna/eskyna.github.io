@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Maxirock?"
-term: "Maxirock"
-description: "Ein Maxirock ist ein langer Rock, der viel Fläche bildet und deshalb besonders bewusst kombiniert werden sollte."
-category: "Kleider & Röcke"
-tags: ["maxirock", "rock", "saumlänge", "proportion"]
-keywords: ["maxirock", "was ist ein maxirock", "maxirock kombinieren"]
+title: "Что такое макси-юбка?"
+term: "Макси-юбка"
+description: "Макси-юбка это длинная юбка с большой площадью ткани, поэтому её особенно важно осознанно сочетать по пропорциям."
+category: "Платья и юбки"
+tags: ["макси-юбка", "юбка", "длина края", "пропорции"]
+keywords: ["макси-юбка", "что такое макси-юбка", "с чем носить макси-юбку"]
 glossar_order: "m"
 weight: 8
 image: "images/glossar/maxirock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxirock mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Макси-юбка"
 relatedTerms:
-  - title: "Rocklänge"
+  - title: "Длина юбки"
     url: "/ru/glossar/rocklange/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
 ---

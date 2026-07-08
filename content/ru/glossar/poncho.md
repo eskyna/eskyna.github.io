@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Poncho?"
-term: "Poncho"
-description: "Ein Poncho ist ein weiter Überwurf, oft aus Strick oder Wolle, der weich, großzügig und unkompliziert wirkt."
+title: "Что означает пончо?"
+term: "Пончо"
+description: "Пончо это свободная накидка, часто из трикотажа или шерсти, которая выглядит мягко, объёмно и непринуждённо."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "poncho"]
-keywords: ["poncho", "was bedeutet poncho", "poncho stilberatung"]
+tags: ["гардероб", "пончо"]
+keywords: ["пончо", "что означает пончо", "как носить пончо"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/poncho.png"
-image_alt: "Editoriale Glossar-Grafik zu Poncho mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пончо"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

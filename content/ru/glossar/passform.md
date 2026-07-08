@@ -1,23 +1,23 @@
 ---
-title: "Was ist Passform?"
-term: "Passform"
-description: "Passform beschreibt, wie ein Kleidungsstück am Körper sitzt und warum Stimmigkeit oft wichtiger ist als die Größe."
+title: "Что означает посадка?"
+term: "Посадка"
+description: "Посадка описывает, как вещь сидит на теле и почему гармония образа часто важнее размера на ярлыке."
 category: "Крой, пропорции и посадка"
-tags: ["passform", "schnitt", "proportionen", "größe"]
-keywords: ["passform", "kleidung sitzt richtig", "schnitt", "stilberatung"]
+tags: ["посадка", "крой", "пропорции", "размер"]
+keywords: ["посадка", "как должна сидеть одежда", "крой", "консультация по стилю"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/passform.png"
-image_alt: "Grafik eines Blazers mit Linien zur Erklärung von Passform"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Посадка"
 relatedTerms:
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
 ---

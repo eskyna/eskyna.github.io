@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Low Waist?"
-term: "Low Waist"
-description: "Low Waist beschreibt einen tief sitzenden Bund auf oder unterhalb der Hüfte."
+title: "Что означает низкая посадка?"
+term: "Низкая посадка"
+description: "Низкая посадка описывает пояс, который располагается на линии бёдер или ниже неё."
 category: "Крой, пропорции и посадка"
-tags: ["low waist", "schnitt proportion"]
-keywords: ["low waist", "was bedeutet low waist", "low waist stilberatung"]
+tags: ["низкая посадка", "крой", "пропорции"]
+keywords: ["низкая посадка", "брюки с низкой посадкой", "юбка с низкой посадкой"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/low-waist.png"
-image_alt: "Editoriale Glossar-Grafik zu Low Waist mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Низкая посадка"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Акцент на талии"
     url: "/ru/glossar/taillierung/"
 ---

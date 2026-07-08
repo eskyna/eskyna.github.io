@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Manschette?"
-term: "Manschette"
-description: "Eine Manschette ist der Abschluss am Ärmel und kann schlicht, geknöpft, weich oder sehr strukturiert wirken."
+title: "Что означает манжета?"
+term: "Манжета"
+description: "Манжета это завершение рукава, которое может выглядеть лаконично, застёгнуто, мягко или структурно."
 category: "Крой, пропорции и посадка"
-tags: ["manschette", "schnitt proportion"]
-keywords: ["manschette", "was bedeutet manschette", "manschette stilberatung"]
+tags: ["манжета", "крой", "пропорции"]
+keywords: ["манжета", "манжета рукава", "виды манжет"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/manschette.png"
-image_alt: "Editoriale Glossar-Grafik zu Manschette mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Манжета"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Акцент на талии"
     url: "/ru/glossar/taillierung/"
 ---

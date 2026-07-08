@@ -3,12 +3,12 @@ title: "Однобортный пиджак"
 term: "Однобортный"
 description: "Однобортный — это стиль с одним рядом пуговиц, создающий более легкий вид."
 category: "Материалы и детали"
-tags: ["einreiher", "garderobe"]
-keywords: ["einreiher", "was bedeutet einreiher", "einreiher stilberatung"]
+tags: ["einreiher", "гардероб"]
+keywords: ["einreiher", "что означает einreiher", "einreiher stilberatung"]
 glossar_order: "e"
 weight: 1
 image: "images/glossar/einreiher.png"
-image_alt: "Editoriale Glossar-Grafik zu Einreiher mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Однобортный"
 relatedTerms:
   - title: "Однобортный пиджак"
     url: "/ru/glossar/capsule-wardrobe/"

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Pflege?"
-term: "Pflege"
-description: "Pflege beschreibt den richtigen Umgang mit Kleidung, damit Material, Form und Wirkung lange erhalten bleiben."
+title: "Что означает уход за одеждой?"
+term: "Уход за одеждой"
+description: "Уход описывает правильное обращение с одеждой, чтобы материал, форма и впечатление сохранялись как можно дольше."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "pflege"]
-keywords: ["pflege", "was bedeutet pflege", "pflege stilberatung"]
+tags: ["гардероб", "уход"]
+keywords: ["уход за одеждой", "правильный уход", "как продлить срок службы вещей"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/pflege.png"
-image_alt: "Editoriale Glossar-Grafik zu Pflege mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Уход за одеждой"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Handwäsche?"
-term: "Handwäsche"
-description: "Handwäsche ist eine schonende Reinigungsart für empfindliche Materialien und feine Kleidungsstücke."
-category: "Materialien & Details"
-tags: ["handwaesche", "materialien"]
-keywords: ["handwäsche", "was bedeutet handwäsche", "handwäsche stilberatung"]
+title: "Что означает ручная стирка?"
+term: "Ручная стирка"
+description: "Ручная стирка это щадящий способ ухода за деликатными материалами и тонкими вещами."
+category: "Материалы и детали"
+tags: ["ручная стирка", "материалы"]
+keywords: ["ручная стирка", "деликатный уход", "как стирать вручную"]
 glossar_order: "h"
 weight: 1
 image: "images/glossar/handwaesche.png"
-image_alt: "Editoriale Glossar-Grafik zu Handwäsche mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ручная стирка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

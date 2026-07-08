@@ -1,27 +1,27 @@
 ---
-title: "Was ist Layering?"
+title: "Что такое layering?"
 term: "Layering"
-description: "Layering bedeutet, mehrere Kleidungsschichten bewusst zu kombinieren, damit ein Look Tiefe, Funktion und klare Proportion bekommt."
+description: "Layering означает осознанное сочетание нескольких слоёв одежды, чтобы образ получал глубину, функциональность и ясные пропорции."
 category: "Крой, пропорции и посадка"
-tags: ["layering", "schichten", "proportion", "silhouette", "styling"]
-keywords: ["layering", "was ist layering", "layering mode", "kleidung schichten kombinieren"]
+tags: ["layering", "слои", "пропорции", "силуэт", "стайлинг"]
+keywords: ["layering", "многослойность в одежде", "как сочетать слои", "многослойный образ"]
 glossar_order: "l"
 weight: 18
 image: "images/glossar/layering.png"
-image_alt: "Editoriale Grafik mit übereinanderliegenden Stoffschichten, Längenlinien und ruhigen neutralen Flächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Layering"
 relatedTerms:
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
   - title: "Oversized"
     url: "/ru/glossar/oversized/"
   - title: "Overshirt"
     url: "/ru/glossar/overshirt/"
-  - title: "Weste"
+  - title: "Жилет"
     url: "/ru/glossar/weste/"
 ---

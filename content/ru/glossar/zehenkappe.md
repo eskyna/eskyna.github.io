@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Zehenkappe?"
-term: "Zehenkappe"
-description: "Die Zehenkappe ist der vordere Bereich eines Schuhs und beeinflusst Form, Komfort und optische Wirkung."
+title: "Что означает носок обуви?"
+term: "Носок обуви"
+description: "Носок обуви это передняя часть обуви, которая влияет на форму, комфорт и визуальное впечатление."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "zehenkappe"]
-keywords: ["zehenkappe", "was bedeutet zehenkappe", "zehenkappe stilberatung"]
+tags: ["гардероб", "носок обуви"]
+keywords: ["носок обуви", "что означает носок обуви", "форма носка обуви"]
 glossar_order: "z"
 weight: 1
 image: "images/glossar/zehenkappe.png"
-image_alt: "Editoriale Glossar-Grafik zu Zehenkappe mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Носок обуви"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

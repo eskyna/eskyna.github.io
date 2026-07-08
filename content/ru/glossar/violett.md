@@ -1,24 +1,30 @@
 ---
-title: "Violett im Stil erklärt"
-term: "Violett"
-description: "Violett ist ein intensiver Ton zwischen Blau und Rot. Es wirkt kreativ, tief und ungewöhnlicher als klassische Farben."
+title: "Фиолетовый в контексте стиля"
+term: "Фиолетовый"
+description: "Фиолетовый это интенсивный оттенок между синим и красным. Он выглядит креативно, глубоко и менее привычно, чем классические цвета."
 category: "Цветовой словарь"
 color_hex: "#5D3B8C"
-tags: ["violett", "lila", "farbe", "farbberatung", "akzentfarbe"]
-keywords: ["violett kleidung", "violett kombinieren", "lila violett", "farbberatung"]
+tags: ["фиолетовый", "лиловый", "цвет", "цветовая консультация", "акцентный цвет"]
+keywords:
+  [
+    "фиолетовая одежда",
+    "с чем сочетать фиолетовый",
+    "лиловый и фиолетовый",
+    "цветовая консультация",
+  ]
 glossar_order: "v"
 weight: 30
 image: "images/glossar/violett.png"
-image_alt: "Editoriale Grafik zu Violett mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Фиолетовый"
 relatedTerms:
-  - title: "Lila"
+  - title: "Лиловый"
     url: "/ru/glossar/lila/"
-  - title: "Flieder"
+  - title: "Сиреневый"
     url: "/ru/glossar/flieder/"
   - title: "Fuchsia"
     url: "/ru/glossar/fuchsia/"
-  - title: "Bordeaux"
+  - title: "Бордовый"
     url: "/ru/glossar/bordeaux/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
 ---

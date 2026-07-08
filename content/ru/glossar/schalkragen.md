@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Schalkragen?"
-term: "Schalkragen"
-description: "Ein Schalkragen ist ein weich gerundeter Kragen ohne harte Kante und wirkt ruhiger als ein klassisches Revers."
+title: "Что означает шалевый воротник?"
+term: "Шалевый воротник"
+description: "Шалевый воротник это мягко округлый ворот без жёсткого угла, который выглядит спокойнее, чем классический лацкан."
 category: "Материалы и детали"
-tags: ["materialien", "schalkragen"]
-keywords: ["schalkragen", "was bedeutet schalkragen", "schalkragen stilberatung"]
+tags: ["материалы", "шалевый воротник"]
+keywords: ["шалевый воротник", "что означает шалевый воротник", "шалевый воротник в одежде"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schalkragen.png"
-image_alt: "Editoriale Glossar-Grafik zu Schalkragen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шалевый воротник"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

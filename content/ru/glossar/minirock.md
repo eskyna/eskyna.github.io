@@ -1,20 +1,20 @@
 ---
-title: "Was ist ein Minirock?"
-term: "Minirock"
-description: "Ein Minirock ist ein kurzer Rock oberhalb des Knies und braucht eine bewusste Balance aus Länge, Material und Oberteil."
-category: "Kleider & Röcke"
-tags: ["minirock", "rock", "saumlänge", "proportion"]
-keywords: ["minirock", "was ist ein minirock", "kurzer rock"]
+title: "Что такое мини-юбка?"
+term: "Мини-юбка"
+description: "Мини-юбка это короткая юбка выше колена, для которой важен осознанный баланс длины, материала и верха."
+category: "Платья и юбки"
+tags: ["мини-юбка", "юбка", "длина края", "пропорции"]
+keywords: ["мини-юбка", "что такое мини-юбка", "короткая юбка"]
 glossar_order: "m"
 weight: 10
 image: "images/glossar/minirock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Minirock mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Мини-юбка"
 relatedTerms:
-  - title: "Rocklänge"
+  - title: "Длина юбки"
     url: "/ru/glossar/rocklange/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
   - title: "Loafer"
     url: "/ru/glossar/loafer/"

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stilkompass?"
-term: "Stilkompass"
-description: "Ein Stilkompass ist ein Orientierungssystem für Kleidung, Farbe, Form, Wirkung und Alltag."
+title: "Что означает стилевой компас?"
+term: "Стилевой компас"
+description: "Стилевой компас это система ориентиров для одежды, цвета, формы, впечатления и повседневной жизни."
 category: "Стиль и воздействие"
-tags: ["stil", "stilkompass"]
-keywords: ["stilkompass", "was bedeutet stilkompass", "stilkompass stilberatung"]
+tags: ["стиль", "стилевой компас"]
+keywords: ["стилевой компас", "что означает стилевой компас", "ориентиры в стиле"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilkompass.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilkompass mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевой компас"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

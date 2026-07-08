@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Veloursleder?"
-term: "Veloursleder"
-description: "Veloursleder ist raues, weiches Leder mit matter Oberfläche und warmer, samtiger Wirkung."
+title: "Что означает велюр?"
+term: "Велюр"
+description: "Велюр это мягкая матовая кожа с бархатистой поверхностью и тёплым визуальным эффектом."
 category: "Материалы и детали"
-tags: ["materialien", "veloursleder"]
-keywords: ["veloursleder", "was bedeutet veloursleder", "veloursleder stilberatung"]
+tags: ["материалы", "велюр"]
+keywords: ["велюр", "что означает велюр", "велюр в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/veloursleder.png"
-image_alt: "Editoriale Glossar-Grafik zu Veloursleder mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Велюр"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

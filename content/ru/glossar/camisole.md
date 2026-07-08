@@ -10,12 +10,12 @@ tags:
   - "satin"
 keywords:
   - "camisole"
-  - "was ist ein camisole"
+  - "что такое camisole"
   - "seidentop kombinieren"
 glossar_order: "c"
 weight: 5
 image: "images/glossar/camisole.png"
-image_alt: "Editoriale Grafik mit stilisiertem Camisole, feinen Trägern und leicht glänzender Fläche"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Камисоль"
 relatedTerms:
   - title: "Камисоль: нежная блузка"
     url: "/ru/glossar/seide/"

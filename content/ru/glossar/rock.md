@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Rock?"
-term: "Rock"
-description: "Ein Rock ist ein Kleidungsstück für den Unterkörper ohne Beineinteilung, dessen Wirkung stark von Länge, Material und Form abhängt."
+title: "Что означает юбка?"
+term: "Юбка"
+description: "Юбка это предмет одежды для нижней части тела без разделения на штанины, и её эффект сильно зависит от длины, материала и формы."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "rock"]
-keywords: ["rock", "was bedeutet rock", "rock stilberatung"]
+tags: ["гардероб", "юбка"]
+keywords: ["юбка", "что означает юбка", "юбка в стилизации"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/rock.png"
-image_alt: "Editoriale Glossar-Grafik zu Rock mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

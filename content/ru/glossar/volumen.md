@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Volumen?"
-term: "Volumen"
-description: "Volumen beschreibt die Weite, Fülle oder räumliche Präsenz eines Kleidungsstücks im Outfit."
+title: "Что означает объём?"
+term: "Объём"
+description: "Объём описывает ширину, полноту и пространственное присутствие вещи внутри образа."
 category: "Крой, пропорции и посадка"
-tags: ["schnitt proportion", "volumen"]
-keywords: ["volumen", "was bedeutet volumen", "volumen stilberatung"]
+tags: ["крой и пропорции", "объём"]
+keywords: ["объём", "что означает объём", "объём в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/volumen.png"
-image_alt: "Editoriale Glossar-Grafik zu Volumen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Объём"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

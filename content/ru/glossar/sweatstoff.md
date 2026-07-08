@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Sweatstoff?"
-term: "Sweatstoff"
-description: "Sweatstoff ist ein weiches, sportlich geprägtes Material für Sweatshirts, Hoodies und entspannte Alltagslooks."
+title: "Что означает sweat fabric?"
+term: "Sweat fabric"
+description: "Sweat fabric это мягкий материал со спортивным характером для sweatshirt, hoodie и расслабленных повседневных образов."
 category: "Материалы и детали"
-tags: ["materialien", "sweatstoff"]
-keywords: ["sweatstoff", "was bedeutet sweatstoff", "sweatstoff stilberatung"]
+tags: ["материалы", "sweat fabric"]
+keywords: ["sweat fabric", "что означает sweat fabric", "материал для sweatshirt"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/sweatstoff.png"
-image_alt: "Editoriale Glossar-Grafik zu Sweatstoff mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Sweat fabric"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

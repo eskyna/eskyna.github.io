@@ -1,20 +1,20 @@
 ---
-title: "Was bedeutet Ton-in-Ton?"
-term: "Ton-in-Ton"
-description: "Ton-in-Ton beschreibt die Kombination ähnlicher Farbtöne. Der Look wirkt harmonisch, ruhig und zugleich lebendiger als streng monochrom."
+title: "Что означает тон в тон?"
+term: "Тон в тон"
+description: "Тон в тон описывает сочетание близких оттенков. Такой образ выглядит гармонично и спокойно, но живее, чем строго монохромный."
 category: "Консультация по цвету и цвет"
-tags: ["ton in ton", "farbe", "styling", "farbpalette"]
-keywords: ["ton in ton outfit", "ton in ton kombinieren", "farbberatung", "monochrom"]
+tags: ["тон в тон", "цвет", "стилизация", "цветовая палитра"]
+keywords: ["образ тон в тон", "как сочетать тон в тон", "цветовая консультация", "монохром"]
 glossar_order: "t"
 weight: 22
 image: "images/glossar/ton-in-ton.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Ton-in-Ton mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Тон в тон"
 relatedTerms:
-  - title: "Monochrom"
+  - title: "Монохром"
     url: "/ru/glossar/monochrom/"
-  - title: "Farbpalette"
+  - title: "Цветовая палитра"
     url: "/ru/glossar/farbpalette/"
-  - title: "Helligkeit"
+  - title: "Светлота"
     url: "/ru/glossar/helligkeit/"
   - title: "Creme"
     url: "/ru/glossar/creme/"

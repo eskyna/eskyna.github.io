@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Wolle?"
-term: "Wolle"
-description: "Wolle ist eine wärmende Naturfaser, die je nach Qualität fein, robust, weich oder strukturiert wirken kann."
+title: "Что означает шерсть?"
+term: "Шерсть"
+description: "Шерсть это тёплое натуральное волокно, которое в зависимости от качества может выглядеть тонко, плотно, мягко или фактурно."
 category: "Материалы и детали"
-tags: ["materialien", "wolle"]
-keywords: ["wolle", "was bedeutet wolle", "wolle stilberatung"]
+tags: ["материалы", "шерсть"]
+keywords: ["шерсть", "что означает шерсть", "шерсть в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wolle.png"
-image_alt: "Editoriale Glossar-Grafik zu Wolle mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шерсть"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---
