@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Jersey?"
-term: "Jersey"
-description: "Jersey ist eine elastische Maschenware, die häufig für T-Shirts, Kleider und bequeme Alltagskleidung verwendet wird."
+title: "Что означает джерси?"
+term: "Джерси"
+description: "Джерси это эластичное трикотажное полотно, которое часто используют для футболок, платьев и удобной повседневной одежды."
 category: "Материалы и детали"
-tags: ["jersey", "materialien"]
-keywords: ["jersey", "was bedeutet jersey", "jersey stilberatung"]
+tags: ["джерси", "материалы"]
+keywords: ["джерси", "эластичный трикотаж", "ткань джерси"]
 glossar_order: "j"
 weight: 1
 image: "images/glossar/jersey.png"
-image_alt: "Editoriale Glossar-Grafik zu Jersey mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Джерси"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

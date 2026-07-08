@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Kitten Heel?"
-term: "Kitten Heel"
-description: "Ein Kitten Heel ist ein niedriger, feiner Absatz, der Eleganz gibt, ohne hoch oder dominant zu wirken."
-category: "Schuhe"
-tags: ["kitten heel", "absatz", "pumps", "slingback"]
-keywords: ["kitten heel", "was ist ein kitten heel", "kleiner absatz"]
+title: "Что такое kitten heel?"
+term: "Kitten heel"
+description: "Kitten heel это невысокий, изящный каблук, который добавляет образу элегантность без доминирующего эффекта."
+category: "Обувь"
+tags: ["kitten heel", "каблук", "лодочки", "slingback"]
+keywords: ["kitten heel", "невысокий каблук", "изящный маленький каблук"]
 glossar_order: "k"
 weight: 16
 image: "images/glossar/kitten-heel.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Kitten Heel mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Kitten heel"
 relatedTerms:
-  - title: "Pumps"
+  - title: "Лодочки"
     url: "/ru/glossar/pumps/"
   - title: "Slingback"
     url: "/ru/glossar/slingback/"
-  - title: "Mule"
+  - title: "Мюли"
     url: "/ru/glossar/mule/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
 ---

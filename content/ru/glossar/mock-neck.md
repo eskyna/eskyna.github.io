@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Mock Neck?"
-term: "Mock Neck"
-description: "Mock Neck bezeichnet einen kurzen Stehkragen, der höher als ein Rundhals, aber niedriger als ein Rollkragen ist."
+title: "Что означает mock neck?"
+term: "Mock neck"
+description: "Mock neck обозначает невысокий воротник-стойку, который выше круглого выреза, но ниже полноценной водолазки."
 category: "Материалы и детали"
-tags: ["materialien", "mock neck"]
-keywords: ["mock neck", "was bedeutet mock neck", "mock neck stilberatung"]
+tags: ["материалы", "mock neck"]
+keywords: ["mock neck", "низкая стойка", "воротник mock neck"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/mock-neck.png"
-image_alt: "Editoriale Glossar-Grafik zu Mock Neck mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Mock neck"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

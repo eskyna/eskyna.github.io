@@ -5,17 +5,17 @@ description: "Балетки — это мягкая, комфортная об�
 category: "Материалы и детали"
 tags:
   - "ballerina"
-  - "schuhe"
+  - "обувь"
   - "flache schuhe"
   - "casual chic"
 keywords:
   - "ballerina"
-  - "was ist eine ballerina"
+  - "что такое ballerina"
   - "ballerinas kombinieren"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/ballerina.png"
-image_alt: "Editoriale Grafik mit stilisiertem Ballerina-Schuh, flacher Form und feiner Schleife"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Балетки"
 relatedTerms:
   - title: "Балетки в обуви"
     url: "/ru/glossar/slingback/"

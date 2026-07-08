@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Kaschmir?"
-term: "Kaschmir"
-description: "Kaschmir ist eine sehr feine, weiche Luxusfaser mit leichtem Gewicht und warmer, ruhiger Wirkung."
+title: "Что означает кашемир?"
+term: "Кашемир"
+description: "Кашемир это очень тонкое, мягкое и тёплое волокно премиального уровня с лёгким весом и спокойным впечатлением."
 category: "Материалы и детали"
-tags: ["kaschmir", "materialien"]
-keywords: ["kaschmir", "was bedeutet kaschmir", "kaschmir stilberatung"]
+tags: ["кашемир", "материалы"]
+keywords: ["кашемир", "мягкое тёплое волокно", "кашемировая ткань"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kaschmir.png"
-image_alt: "Editoriale Glossar-Grafik zu Kaschmir mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кашемир"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

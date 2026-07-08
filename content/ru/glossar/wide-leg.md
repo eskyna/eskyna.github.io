@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Wide Leg?"
-term: "Wide Leg"
-description: "Wide Leg bezeichnet Hosen mit weiter Beinlinie, die Volumen, Bewegung und eine moderne Silhouette in den Look bringen."
+title: "Что означает wide leg?"
+term: "Wide leg"
+description: "Wide leg обозначает брюки с широкой линией штанины, которые добавляют образу объём, движение и современный силуэт."
 category: "Крой, пропорции и посадка"
-tags: ["wide leg", "hose", "silhouette", "proportion", "schnitt"]
-keywords: ["wide leg", "was bedeutet wide leg", "wide leg hose", "weite hose"]
+tags: ["wide leg", "брюки", "силуэт", "пропорции", "крой"]
+keywords: ["wide leg", "что означает wide leg", "брюки wide leg", "широкие брюки"]
 glossar_order: "w"
 weight: 14
 image: "images/glossar/wide-leg.png"
-image_alt: "Editoriale Grafik mit weit fallender Hose, fließenden Linien und ruhigen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Wide leg"
 relatedTerms:
-  - title: "Marlenehose"
+  - title: "Брюки марлен"
     url: "/ru/glossar/marlenehose/"
   - title: "Culotte"
     url: "/ru/glossar/culotte/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Straight Leg"
+  - title: "Straight leg"
     url: "/ru/glossar/straight-leg/"
 ---

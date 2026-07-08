@@ -4,11 +4,11 @@ term: "Объёмный рукав"
 description: "Объёмный рукав — это рукав с дополнительным объёмом на плече, создающий выразительный и женственный силуэт."
 category: "Крой, пропорции и посадка"
 tags: ["ballonaermel", "schnitt proportion"]
-keywords: ["ballonärmel", "was bedeutet ballonärmel", "ballonärmel stilberatung"]
+keywords: ["ballonärmel", "что означает ballonärmel", "ballonärmel stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/ballonaermel.png"
-image_alt: "Editoriale Glossar-Grafik zu Ballonärmel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Объёмный рукав"
 relatedTerms:
   - title: "Объёмный рукав в посадке"
     url: "/ru/glossar/passform/"

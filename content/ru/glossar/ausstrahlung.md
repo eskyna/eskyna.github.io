@@ -4,11 +4,11 @@ term: "Излучение"
 description: "Излучение — это энергия и харизма, которые человек проявляет через свой стиль и выражение лица."
 category: "Стиль и воздействие"
 tags: ["ausstrahlung", "stil"]
-keywords: ["ausstrahlung", "was bedeutet ausstrahlung", "ausstrahlung stilberatung"]
+keywords: ["ausstrahlung", "что означает ausstrahlung", "ausstrahlung stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/ausstrahlung.png"
-image_alt: "Editoriale Glossar-Grafik zu Ausstrahlung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Излучение"
 relatedTerms:
   - title: "Излучение и аура в стайлинге"
     url: "/ru/glossar/signature-look/"

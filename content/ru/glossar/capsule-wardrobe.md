@@ -3,12 +3,12 @@ title: "Капсульный гардероб: основа стиля"
 term: "Капсульный гардероб"
 description: "Капсульный гардероб — это тщательно подобранная коллекция базовых вещей, которые легко комбинируются."
 category: "Гардероб и повседневность"
-tags: ["capsule wardrobe", "garderobe", "fehlkäufe", "basics"]
-keywords: ["capsule wardrobe", "garderobe", "kombinierbare kleidung", "stilberatung"]
+tags: ["capsule wardrobe", "гардероб", "fehlkäufe", "basics"]
+keywords: ["capsule wardrobe", "гардероб", "kombinierbare kleidung", "stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/capsule-wardrobe.png"
-image_alt: "Editoriale Grafik einer reduzierten Garderobe mit Farbfeldern und Outfit-Karten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Капсульный гардероб"
 relatedTerms:
   - title: "Капсульный гардероб: основа стиля"
     url: "/ru/glossar/garderobenlogik/"

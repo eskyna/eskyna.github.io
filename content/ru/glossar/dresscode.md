@@ -4,11 +4,11 @@ term: "Дресс-код"
 description: "Дресс-код — это установленные правила для соответствующей одежды на конкретном мероприятии."
 category: "Гардероб и повседневность"
 tags: ["dresscode", "anlass", "business casual", "smart casual", "wirkung"]
-keywords: ["dresscode", "was ist ein dresscode", "dresscode verstehen", "kleidung anlass"]
+keywords: ["dresscode", "что такое dresscode", "dresscode verstehen", "kleidung anlass"]
 glossar_order: "d"
 weight: 14
 image: "images/glossar/dresscode.png"
-image_alt: "Editoriale Grafik mit Einladungskarte, Kleiderrahmen und ruhigen Farbfeldern für unterschiedliche Anlässe"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Дресс-код"
 relatedTerms:
   - title: "Дресс-код: правила одежды"
     url: "/ru/glossar/business-casual/"

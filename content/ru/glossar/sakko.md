@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Sakko?"
+title: "Что означает sakko?"
 term: "Sakko"
-description: "Ein Sakko ist eine strukturierte Jacke mit Revers, ursprünglich aus der Herrengarderobe, heute vielseitig einsetzbar."
+description: "Sakko это структурированный пиджак с лацканами, исторически из мужского гардероба, а сегодня универсальный для разных образов."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "sakko"]
-keywords: ["sakko", "was bedeutet sakko", "sakko stilberatung"]
+tags: ["гардероб", "sakko"]
+keywords: ["sakko", "что означает sakko", "как носить sakko"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/sakko.png"
-image_alt: "Editoriale Glossar-Grafik zu Sakko mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Sakko"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

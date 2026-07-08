@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Leo-Print?"
-term: "Leo-Print"
-description: "Leo-Print ist ein Leopardenmuster, das als kleiner Akzent edel oder als große Fläche sehr präsent wirken kann."
+title: "Что означает leo-print?"
+term: "Leo-print"
+description: "Leo-print это леопардовый рисунок, который как небольшой акцент может выглядеть благородно, а крупной площадью очень заметно."
 category: "Материалы и детали"
-tags: ["leo print", "materialien"]
-keywords: ["leo-print", "was bedeutet leo-print", "leo-print stilberatung"]
+tags: ["leo-print", "материалы"]
+keywords: ["leo-print", "леопардовый принт", "акцентный анималистичный рисунок"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/leo-print.png"
-image_alt: "Editoriale Glossar-Grafik zu Leo-Print mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Leo-print"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

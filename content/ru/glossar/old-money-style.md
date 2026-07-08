@@ -1,21 +1,21 @@
 ---
-title: "Old Money Style"
-term: "Old Money Style"
-description: "Old Money Style beschreibt einen klassisch hochwertigen Stil mit ruhigen Farben, guten Materialien und zurückhaltender Wirkung."
+title: "Что означает old money style?"
+term: "Old money style"
+description: "Old money style описывает классический статусный стиль со спокойными цветами, качественными материалами и сдержанным впечатлением."
 category: "Стиль и воздействие"
-tags: ["old money style", "stil"]
-keywords: ["old money style", "was bedeutet old money style", "old money style stilberatung"]
+tags: ["old money style", "стиль"]
+keywords: ["old money style", "эстетика old money", "сдержанный статусный стиль"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/old-money-style.png"
-image_alt: "Editoriale Glossar-Grafik zu Old Money Style mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Old money style"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

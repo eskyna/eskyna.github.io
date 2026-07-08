@@ -1,23 +1,24 @@
 ---
-title: "Längsstreckung"
-term: "Längsstreckung"
-description: "Längsstreckung beschreibt optische Effekte, die eine Linie länger, ruhiger oder vertikaler wirken lassen."
-category: "Stil & Wirkung"
-tags: ["laengsstreckung", "stil"]
-keywords: ["längsstreckung", "was bedeutet längsstreckung", "längsstreckung stilberatung"]
+title: "Что означает визуальное вытяжение силуэта?"
+term: "Визуальное вытяжение силуэта"
+description: "Визуальное вытяжение силуэта описывает оптические эффекты, из-за которых линия выглядит длиннее, спокойнее и более вертикально."
+category: "Стиль и воздействие"
+tags: ["визуальное вытяжение", "стиль"]
+keywords:
+  ["визуальное вытяжение силуэта", "как визуально вытянуть силуэт", "вертикальная линия в образе"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/laengsstreckung.png"
-image_alt: "Editoriale Glossar-Grafik zu Längsstreckung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Визуальное вытяжение силуэта"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

@@ -1,23 +1,24 @@
 ---
-title: "Stilidentität"
-term: "Stilidentität"
-description: "Stilidentität verbindet Persönlichkeit, Lebensrealität und äußere Wirkung zu einem wiedererkennbaren Ausdruck."
-category: "Stil & Wirkung"
-tags: ["stil", "stilidentitaet"]
-keywords: ["stilidentität", "was bedeutet stilidentität", "stilidentität stilberatung"]
+title: "Что означает стилевая идентичность?"
+term: "Стилевая идентичность"
+description: "Стилевая идентичность соединяет характер, образ жизни и внешнее впечатление в узнаваемое выражение."
+category: "Стиль и воздействие"
+tags: ["стиль", "стилевая идентичность"]
+keywords:
+  ["стилевая идентичность", "что означает стилевая идентичность", "личная стилевая идентичность"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilidentitaet.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilidentität mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевая идентичность"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

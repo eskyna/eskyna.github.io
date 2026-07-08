@@ -1,22 +1,21 @@
 ---
-title: "Scandinavian Style"
-term: "Scandinavian Style"
-description: "Scandinavian Style steht für klare Formen, Funktionalität, ruhige Farben und reduzierte Kombinationen."
+title: "Что означает scandinavian style?"
+term: "Scandinavian style"
+description: "Scandinavian style это чёткие формы, функциональность, спокойная палитра и лаконичные сочетания."
 category: "Стиль и воздействие"
-tags: ["scandinavian style", "stil"]
-keywords:
-  ["scandinavian style", "was bedeutet scandinavian style", "scandinavian style stilberatung"]
+tags: ["scandinavian style", "стиль"]
+keywords: ["scandinavian style", "что означает scandinavian style", "скандинавский стиль"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/scandinavian-style.png"
-image_alt: "Editoriale Glossar-Grafik zu Scandinavian Style mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Scandinavian style"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

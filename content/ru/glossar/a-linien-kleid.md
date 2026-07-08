@@ -3,12 +3,12 @@ title: "Платье A-силуэта в стайлинге"
 term: "Платье A-силуэта"
 description: "Платье A-силуэта расширяется от груди и скрывает объемные бёдра, создавая сбалансированный силуэт."
 category: "Крой, пропорции и посадка"
-tags: ["a linien kleid", "garderobe"]
-keywords: ["a-linien-kleid", "was bedeutet a-linien-kleid", "a-linien-kleid stilberatung"]
+tags: ["a linien kleid", "гардероб"]
+keywords: ["a-linien-kleid", "что означает a-linien-kleid", "a-linien-kleid stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/a-linien-kleid.png"
-image_alt: "Editoriale Glossar-Grafik zu A-Linien-Kleid mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Платье A-силуэта"
 relatedTerms:
   - title: "Платье A-силуэта в стайлинге"
     url: "/ru/glossar/capsule-wardrobe/"

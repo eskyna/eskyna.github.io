@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Rüsche?"
-term: "Rüsche"
-description: "Eine Rüsche ist eine dekorative, geraffte Stoffkante mit weicher oder romantischer Wirkung."
-category: "Materialien & Details"
-tags: ["materialien", "ruesche"]
-keywords: ["rüsche", "was bedeutet rüsche", "rüsche stilberatung"]
+title: "Что означает рюша?"
+term: "Рюша"
+description: "Рюша это декоративный присборенный край ткани с мягким или романтичным эффектом."
+category: "Материалы и детали"
+tags: ["материалы", "рюша"]
+keywords: ["рюша", "что означает рюша", "рюша в стилизации"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/ruesche.png"
-image_alt: "Editoriale Glossar-Grafik zu Rüsche mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Рюша"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

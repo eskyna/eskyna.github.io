@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Shopper?"
+title: "Что такое shopper?"
 term: "Shopper"
-description: "Ein Shopper ist eine große Alltagstasche, die viel Platz bietet und je nach Form entspannt oder sehr gepflegt wirken kann."
+description: "Shopper это большая повседневная сумка с хорошей вместимостью, которая в зависимости от формы может выглядеть расслабленно или аккуратно."
 category: "Материалы и детали"
-tags: ["shopper", "tasche", "accessoire", "alltag", "garderobe"]
-keywords: ["shopper", "was ist ein shopper", "shopper tasche"]
+tags: ["shopper", "сумка", "аксессуар", "повседневность", "гардероб"]
+keywords: ["shopper", "что такое shopper", "сумка shopper"]
 glossar_order: "s"
 weight: 11
 image: "images/glossar/shopper.png"
-image_alt: "Editoriale Grafik zu Shopper mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Shopper"
 relatedTerms:
-  - title: "Tote Bag"
+  - title: "Tote bag"
     url: "/ru/glossar/tote-bag/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Crossbody Bag"
+  - title: "Crossbody bag"
     url: "/ru/glossar/crossbody-bag/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Anlassgarderobe"
+  - title: "Гардероб по случаю"
     url: "/ru/glossar/anlassgarderobe/"
 ---

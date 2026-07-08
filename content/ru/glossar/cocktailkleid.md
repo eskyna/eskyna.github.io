@@ -4,11 +4,11 @@ term: "Коктейльное платье"
 description: "Коктейльное платье — это элегантное полуформальное платье для вечерних событий."
 category: "Стиль и воздействие"
 tags: ["cocktailkleid", "kleid", "dresscode", "abend"]
-keywords: ["cocktailkleid", "was ist ein cocktailkleid", "dresscode cocktail"]
+keywords: ["cocktailkleid", "что такое cocktailkleid", "dresscode cocktail"]
 glossar_order: "c"
 weight: 9
 image: "images/glossar/cocktailkleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Cocktailkleid mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Коктейльное платье"
 relatedTerms:
   - title: "Коктейльное платье"
     url: "/ru/glossar/dresscode/"

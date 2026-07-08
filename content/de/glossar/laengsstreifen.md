@@ -3,7 +3,7 @@ title: "Längsstreifen"
 term: "Längsstreifen"
 description: "Längsstreifen verlaufen vertikal und können eine klare, streckende Linie erzeugen."
 category: "Materialien & Details"
-tags: ["laengsstreifen", "materialien"]
+tags: ["längsstreifen", "materialien"]
 keywords: ["längsstreifen", "was bedeutet längsstreifen", "längsstreifen stilberatung"]
 glossar_order: "l"
 weight: 1

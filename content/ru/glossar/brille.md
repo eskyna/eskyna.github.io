@@ -8,7 +8,7 @@ keywords: ["brille styling", "brille als accessoire", "brillenform"]
 glossar_order: "b"
 weight: 20
 image: "images/glossar/brille.png"
-image_alt: "Editoriale Grafik zu Brille mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Очки"
 relatedTerms:
   - title: "Очки как аксессуар стайла"
     url: "/ru/glossar/sonnenbrille/"

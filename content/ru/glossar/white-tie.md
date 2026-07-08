@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet White Tie?"
+title: "Что означает white tie?"
 term: "White Tie"
-description: "White Tie ist der höchste formelle Abenddresscode und wird nur bei besonders festlichen Anlässen erwartet."
+description: "White tie это самый высокий уровень вечернего дресс-кода, который ожидают только на особенно торжественных мероприятиях."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "white tie"]
-keywords: ["white tie", "was bedeutet white tie", "white tie stilberatung"]
+tags: ["гардероб", "white tie"]
+keywords: ["white tie", "что означает white tie", "white tie дресс-код"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/white-tie.png"
-image_alt: "Editoriale Glossar-Grafik zu White Tie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина White Tie"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

@@ -1,14 +1,16 @@
 ---
-title: "Длина юбки: как она влияет на стиль?"
-description: "Длина юбки — одно из самых важных решений в дизайне: она определяет пропорции, восприятие и практичность."
+title: "Что означает длина юбки?"
+term: "Длина юбки"
+description: "Длина юбки это одна из ключевых переменных образа, которая определяет пропорции, визуальное впечатление и практичность."
 image: "images/glossar/rocklange.png"
-image_alt: "rocklange - Glossarbegriff"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Длина юбки"
 category: "Крой, пропорции и посадка"
-tags: ["длина юбки", "юбка", "крой", "пропорции", "длина подола"]
-glossar_order: "d"
+tags: ["длина юбки", "юбка", "крой", "пропорции", "длина низа"]
+keywords: ["длина юбки", "какая длина юбки подходит", "длина юбки и пропорции"]
+glossar_order: "r"
 weight: 2
 relatedTerms:
-  - title: "Длина подола"
+  - title: "Длина низа"
     url: "/rus/glossar/dlina-podola/"
   - title: "Пропорции"
     url: "/rus/glossar/proporcii/"
@@ -16,7 +18,7 @@ relatedTerms:
     url: "/rus/glossar/siluet/"
   - title: "Посадка"
     url: "/rus/glossar/posadka/"
-  - title: "А-образный силуэт"
+  - title: "A-силуэт"
     url: "/rus/glossar/a-obraznyj-siluet/"
 cta:
   content: '<p>Углубиться в тему? Наша статья блога <strong>"Длина юбки и её влияние: Полное руководство"</strong> объясняет, какая длина подходит какому типу фигуры и ситуации.</p><p><a href="/rus/blog/dlina-yubki-vliyanie/" class="btn btn-small">К статье блога</a></p>'

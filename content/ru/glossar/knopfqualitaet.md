@@ -1,23 +1,23 @@
 ---
-title: "Knopfqualität"
-term: "Knopfqualität"
-description: "Knopfqualität beschreibt Material, Gewicht, Befestigung und Wirkung von Knöpfen."
-category: "Materialien & Details"
-tags: ["knopfqualitaet", "materialien"]
-keywords: ["knopfqualität", "was bedeutet knopfqualität", "knopfqualität stilberatung"]
+title: "Что означает качество пуговиц?"
+term: "Качество пуговиц"
+description: "Качество пуговиц описывает материал, вес, способ крепления и визуальное впечатление пуговиц."
+category: "Материалы и детали"
+tags: ["качество пуговиц", "материалы"]
+keywords: ["качество пуговиц", "материал пуговиц", "надёжное крепление пуговиц"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/knopfqualitaet.png"
-image_alt: "Editoriale Glossar-Grafik zu Knopfqualität mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Качество пуговиц"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

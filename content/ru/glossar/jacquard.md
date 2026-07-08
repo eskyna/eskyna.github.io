@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Jacquard?"
-term: "Jacquard"
-description: "Jacquard ist ein Stoff mit eingewebtem Muster, das durch die Webtechnik statt durch Druck entsteht."
+title: "Что означает жаккард?"
+term: "Жаккард"
+description: "Жаккард это ткань с вытканным узором, который возникает благодаря технике ткачества, а не за счёт печати."
 category: "Материалы и детали"
-tags: ["jacquard", "materialien"]
-keywords: ["jacquard", "was bedeutet jacquard", "jacquard stilberatung"]
+tags: ["жаккард", "материалы"]
+keywords: ["жаккард", "ткань с вытканным узором", "жаккардовая ткань"]
 glossar_order: "j"
 weight: 1
 image: "images/glossar/jacquard.png"
-image_alt: "Editoriale Glossar-Grafik zu Jacquard mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Жаккард"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

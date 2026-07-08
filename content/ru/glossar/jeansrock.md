@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Jeansrock?"
-term: "Jeansrock"
-description: "Ein Jeansrock ist ein Rock aus Denim und verbindet die Robustheit der Jeans mit der Linie eines Rocks."
-category: "Kleider & Röcke"
-tags: ["jeansrock", "denim", "rock", "casual"]
-keywords: ["jeansrock", "was ist ein jeansrock", "jeansrock kombinieren"]
+title: "Что такое джинсовая юбка?"
+term: "Джинсовая юбка"
+description: "Джинсовая юбка это юбка из денима, которая соединяет прочность джинсовой ткани с линией юбки."
+category: "Платья и юбки"
+tags: ["джинсовая юбка", "деним", "юбка", "casual"]
+keywords: ["джинсовая юбка", "что такое джинсовая юбка", "с чем носить джинсовую юбку"]
 glossar_order: "j"
 weight: 7
 image: "images/glossar/jeansrock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Jeansrock mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Джинсовая юбка"
 relatedTerms:
-  - title: "Denim"
+  - title: "Деним"
     url: "/ru/glossar/denim/"
-  - title: "Jeans"
+  - title: "Джинсы"
     url: "/ru/glossar/jeans/"
-  - title: "Rocklänge"
+  - title: "Длина юбки"
     url: "/ru/glossar/rocklange/"
-  - title: "Sneaker"
+  - title: "Кроссовки"
     url: "/ru/glossar/sneaker/"
 ---

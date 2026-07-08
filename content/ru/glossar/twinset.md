@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Twinset?"
+title: "Что означает twinset?"
 term: "Twinset"
-description: "Ein Twinset ist eine Kombination aus Strickoberteil und passender Strickjacke, meist in derselben Farbe oder Qualität."
+description: "Twinset это комплект из трикотажного верха и подходящего кардигана, чаще всего в одном цвете или одной фактуре."
 category: "Материалы и детали"
-tags: ["materialien", "twinset"]
-keywords: ["twinset", "was bedeutet twinset", "twinset stilberatung"]
+tags: ["материалы", "twinset"]
+keywords: ["twinset", "что означает twinset", "twinset в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/twinset.png"
-image_alt: "Editoriale Glossar-Grafik zu Twinset mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Twinset"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

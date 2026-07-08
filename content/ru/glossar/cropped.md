@@ -4,11 +4,11 @@ term: "Укороченный"
 description: "Укороченный крой — это укороченная длина предмета одежды выше нормального уровня."
 category: "Крой, пропорции и посадка"
 tags: ["cropped", "schnitt proportion"]
-keywords: ["cropped", "was bedeutet cropped", "cropped stilberatung"]
+keywords: ["cropped", "что означает cropped", "cropped stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/cropped.png"
-image_alt: "Editoriale Glossar-Grafik zu Cropped mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Укороченный"
 relatedTerms:
   - title: "Укороченный крой"
     url: "/ru/glossar/passform/"

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Stilberatung?"
-term: "Stilberatung"
-description: "Stilberatung hilft, Kleidung, Farben, Schnitte und Wirkung bewusster auf die eigene Person abzustimmen."
+title: "Что означает консультация по стилю?"
+term: "Консультация по стилю"
+description: "Консультация по стилю помогает точнее подбирать одежду, цвет, силуэты и впечатление под конкретного человека."
 category: "Стиль и воздействие"
-tags: ["stil", "stilberatung"]
-keywords: ["stilberatung", "was bedeutet stilberatung", "stilberatung stilberatung"]
+tags: ["стиль", "консультация по стилю"]
+keywords: ["консультация по стилю", "подбор стиля", "работа со стилем", "стилевая консультация"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilberatung.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilberatung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Консультация по стилю"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

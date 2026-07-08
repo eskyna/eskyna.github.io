@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Ohrringe?"
-term: "Ohrringe"
-description: "Ohrringe rahmen das Gesicht und beeinflussen die Wirkung von Hals, Haaren, Farbe und Gesichtsform."
+title: "Что означают серьги?"
+term: "Серьги"
+description: "Серьги обрамляют лицо и влияют на впечатление от шеи, волос, цвета и формы лица."
 category: "Материалы и детали"
-tags: ["materialien", "ohrringe"]
-keywords: ["ohrringe", "was bedeutet ohrringe", "ohrringe stilberatung"]
+tags: ["материалы", "серьги"]
+keywords: ["серьги", "как выбрать серьги", "серьги в стилизации"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/ohrringe.png"
-image_alt: "Editoriale Glossar-Grafik zu Ohrringe mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Серьги"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

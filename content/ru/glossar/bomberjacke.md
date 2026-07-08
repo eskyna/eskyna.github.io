@@ -10,12 +10,12 @@ tags:
   - "silhouette"
 keywords:
   - "bomberjacke"
-  - "was ist eine bomberjacke"
+  - "что такое bomberjacke"
   - "bomberjacke kombinieren"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/bomberjacke.png"
-image_alt: "Editoriale Grafik mit stilisierter Bomberjacke, Rundbündchen und kompakter Silhouette"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бомбер"
 relatedTerms:
   - title: "Куртка-бомбер в современном стайле"
     url: "/ru/glossar/silhouette/"

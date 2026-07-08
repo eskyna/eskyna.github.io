@@ -1,23 +1,23 @@
 ---
-title: "Reisegarderobe"
-term: "Reisegarderobe"
-description: "Eine Reisegarderobe ist eine kleine, gut kombinierbare Auswahl an Kleidung für unterwegs."
+title: "Что означает travel wardrobe?"
+term: "Travel wardrobe"
+description: "Travel wardrobe это небольшая и легко сочетаемая подборка вещей для поездок."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "reisegarderobe"]
-keywords: ["reisegarderobe", "was bedeutet reisegarderobe", "reisegarderobe stilberatung"]
+tags: ["гардероб", "travel wardrobe"]
+keywords: ["travel wardrobe", "гардероб для поездки", "капсула в дорогу"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/reisegarderobe.png"
-image_alt: "Editoriale Glossar-Grafik zu Reisegarderobe mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Travel wardrobe"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

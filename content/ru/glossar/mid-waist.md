@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Mid Waist?"
-term: "Mid Waist"
-description: "Mid Waist beschreibt einen mittelhohen Bund, der zwischen Hüfte und Taille sitzt."
+title: "Что означает средняя посадка?"
+term: "Средняя посадка"
+description: "Средняя посадка описывает пояс средней высоты, который находится между линией бёдер и талией."
 category: "Крой, пропорции и посадка"
-tags: ["mid waist", "schnitt proportion"]
-keywords: ["mid waist", "was bedeutet mid waist", "mid waist stilberatung"]
+tags: ["средняя посадка", "крой", "пропорции"]
+keywords: ["средняя посадка", "брюки со средней посадкой", "юбка со средней посадкой"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/mid-waist.png"
-image_alt: "Editoriale Glossar-Grafik zu Mid Waist mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Средняя посадка"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Акцент на талии"
     url: "/ru/glossar/taillierung/"
 ---

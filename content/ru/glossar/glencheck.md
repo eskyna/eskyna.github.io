@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Glencheck?"
-term: "Glencheck"
-description: "Glencheck ist ein feines, klassisches Karomuster mit strukturierter und oft britisch wirkender Anmutung."
+title: "Что означает узор гленчек?"
+term: "Гленчек"
+description: "Гленчек это тонкий классический клетчатый узор со структурным и часто слегка британским настроением."
 category: "Материалы и детали"
-tags: ["glencheck", "materialien"]
-keywords: ["glencheck", "was bedeutet glencheck", "glencheck stilberatung"]
+tags: ["гленчек", "материалы"]
+keywords: ["гленчек", "клетка гленчек", "классический клетчатый узор"]
 glossar_order: "g"
 weight: 1
 image: "images/glossar/glencheck.png"
-image_alt: "Editoriale Glossar-Grafik zu Glencheck mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Гленчек"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

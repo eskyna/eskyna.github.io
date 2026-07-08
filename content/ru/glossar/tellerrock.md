@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Tellerrock?"
-term: "Tellerrock"
-description: "Ein Tellerrock ist ein weit schwingender Rock mit viel Stoff und deutlicher Bewegung."
+title: "Что означает юбка-солнце?"
+term: "Юбка-солнце"
+description: "Юбка-солнце это юбка с широким расклёшенным объёмом и заметной динамикой в движении."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "tellerrock"]
-keywords: ["tellerrock", "was bedeutet tellerrock", "tellerrock stilberatung"]
+tags: ["гардероб", "юбка-солнце"]
+keywords: ["юбка-солнце", "что означает юбка-солнце", "как стилизовать юбку-солнце"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/tellerrock.png"
-image_alt: "Editoriale Glossar-Grafik zu Tellerrock mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка-солнце"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

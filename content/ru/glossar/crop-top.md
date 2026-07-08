@@ -3,12 +3,12 @@ title: "Кроп-топ: укороченный верх"
 term: "Кроп-топ"
 description: "Кроп-топ — это укороченная блуза, оставляющая середину открытой."
 category: "Стиль и воздействие"
-tags: ["crop top", "materialien"]
-keywords: ["crop top", "was bedeutet crop top", "crop top stilberatung"]
+tags: ["crop top", "материалы"]
+keywords: ["crop top", "что означает crop top", "crop top stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/crop-top.png"
-image_alt: "Editoriale Glossar-Grafik zu Crop Top mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кроп-топ"
 relatedTerms:
   - title: "Кроп-топ: укороченный верх"
     url: "/ru/glossar/materialfall/"

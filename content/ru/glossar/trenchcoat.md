@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Trenchcoat?"
+title: "Что такое trenchcoat?"
 term: "Trenchcoat"
-description: "Ein Trenchcoat ist ein klassischer Mantel mit Gürtel, Revers und klarer Linienführung, der leicht und gepflegt wirkt."
+description: "Trenchcoat это классическое пальто с поясом, лацканами и чёткой линией силуэта, которое выглядит легко и аккуратно."
 category: "Гардероб и повседневность"
-tags: ["trenchcoat", "mantel", "klassiker", "key-piece", "beige"]
-keywords: ["trenchcoat", "was ist ein trenchcoat", "trenchcoat kombinieren", "mantel klassiker"]
+tags: ["trenchcoat", "пальто", "классика", "key-piece", "бежевый"]
+keywords: ["trenchcoat", "что такое trenchcoat", "с чем сочетать trenchcoat", "классическое пальто"]
 glossar_order: "t"
 weight: 8
 image: "images/glossar/trenchcoat.png"
-image_alt: "Editoriale Grafik mit stilisiertem Trenchcoat, Gürtel und beigen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Trenchcoat"
 relatedTerms:
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Business Casual"
+  - title: "Business casual"
     url: "/ru/glossar/business-casual/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Baumwolle"
+  - title: "Хлопок"
     url: "/ru/glossar/baumwolle/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
 ---

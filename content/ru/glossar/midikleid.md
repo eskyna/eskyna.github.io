@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Midikleid?"
-term: "Midikleid"
-description: "Ein Midikleid endet zwischen Knie und Knöchel und wirkt je nach Schnitt elegant, modern oder alltagstauglich."
-category: "Kleider & Röcke"
-tags: ["midikleid", "kleid", "saumlänge", "proportion"]
-keywords: ["midikleid", "was ist ein midikleid", "midikleid kombinieren"]
+title: "Что такое миди-платье?"
+term: "Миди-платье"
+description: "Миди-платье заканчивается между коленом и щиколоткой и в зависимости от кроя может выглядеть элегантно, современно или повседневно."
+category: "Платья и юбки"
+tags: ["миди-платье", "платье", "длина края", "пропорции"]
+keywords: ["миди-платье", "что такое миди-платье", "с чем носить миди-платье"]
 glossar_order: "m"
 weight: 6
 image: "images/glossar/midikleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Midikleid mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Миди-платье"
 relatedTerms:
-  - title: "Kleid"
+  - title: "Платье"
     url: "/ru/glossar/kleid/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Stiefelette"
+  - title: "Ботильоны"
     url: "/ru/glossar/stiefelette/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Streifen?"
-term: "Streifen"
-description: "Streifen sind lineare Muster, die je nach Richtung, Breite und Kontrast sehr unterschiedlich wirken."
+title: "Что означают полосы?"
+term: "Полосы"
+description: "Полосы это линейный принт, который по-разному работает в зависимости от направления, ширины и контраста."
 category: "Материалы и детали"
-tags: ["materialien", "streifen"]
-keywords: ["streifen", "was bedeutet streifen", "streifen stilberatung"]
+tags: ["материалы", "полосы"]
+keywords: ["полосы", "что означают полосы", "полосы в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/streifen.png"
-image_alt: "Editoriale Glossar-Grafik zu Streifen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Полосы"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

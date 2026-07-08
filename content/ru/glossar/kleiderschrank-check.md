@@ -1,24 +1,23 @@
 ---
-title: "Kleiderschrank-Check"
-term: "Kleiderschrank-Check"
-description: "Ein Kleiderschrank-Check analysiert vorhandene Kleidung und klärt, was passt, fehlt oder nicht mehr unterstützt."
+title: "Что означает разбор гардероба?"
+term: "Разбор гардероба"
+description: "Разбор гардероба анализирует уже имеющиеся вещи и помогает понять, что подходит, чего не хватает и что больше не работает."
 category: "Стиль и воздействие"
-tags: ["kleiderschrank check", "stil"]
-keywords:
-  ["kleiderschrank-check", "was bedeutet kleiderschrank-check", "kleiderschrank-check stilberatung"]
+tags: ["разбор гардероба", "стиль"]
+keywords: ["разбор гардероба", "что означает разбор гардероба", "анализ гардероба"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-check.png"
-image_alt: "Editoriale Glossar-Grafik zu Kleiderschrank-Check mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Разбор гардероба"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

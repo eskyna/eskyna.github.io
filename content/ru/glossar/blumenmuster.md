@@ -3,12 +3,12 @@ title: "Цветочный орнамент в текстиле"
 term: "Цветочный орнамент"
 description: "Цветочный орнамент — это уютный, женственный узор, который добавляет романтичность и весеннее настроение."
 category: "Материалы и детали"
-tags: ["blumenmuster", "materialien"]
-keywords: ["blumenmuster", "was bedeutet blumenmuster", "blumenmuster stilberatung"]
+tags: ["blumenmuster", "материалы"]
+keywords: ["blumenmuster", "что означает blumenmuster", "blumenmuster stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/blumenmuster.png"
-image_alt: "Editoriale Glossar-Grafik zu Blumenmuster mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Цветочный орнамент"
 relatedTerms:
   - title: "Цветочный орнамент в текстиле"
     url: "/ru/glossar/materialfall/"

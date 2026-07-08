@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Rollkragen?"
-term: "Rollkragen"
-description: "Ein Rollkragen ist ein hoher, umgeschlagener Kragen, der Hals und Gesicht stark rahmt."
+title: "Что означает воротник-стойка с отворотом?"
+term: "Воротник-стойка с отворотом"
+description: "Воротник-стойка с отворотом это высокий ворот, который сильно обрамляет шею и лицо."
 category: "Материалы и детали"
-tags: ["materialien", "rollkragen"]
-keywords: ["rollkragen", "was bedeutet rollkragen", "rollkragen stilberatung"]
+tags: ["материалы", "воротник-стойка"]
+keywords: ["воротник-стойка", "высокий ворот", "воротник с отворотом"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/rollkragen.png"
-image_alt: "Editoriale Glossar-Grafik zu Rollkragen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Воротник-стойка с отворотом"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,24 +1,30 @@
 ---
-title: "Hellblau im Stil erklärt"
-term: "Hellblau"
-description: "Hellblau wirkt frisch, klar und leicht. Es bringt Ruhe in den Look und ist besonders nah am Gesicht interessant."
+title: "Светло-голубой в контексте стиля"
+term: "Светло-голубой"
+description: "Светло-голубой выглядит свежо, ясно и легко. Он добавляет образу спокойствие и особенно интересно работает рядом с лицом."
 category: "Цветовой словарь"
 color_hex: "#A7C7E7"
-tags: ["hellblau", "blau", "farbe", "farbberatung", "business"]
-keywords: ["hellblau kleidung", "hellblau kombinieren", "hellblaue bluse", "farbberatung"]
+tags: ["светло-голубой", "синий", "цвет", "цветовая консультация", "бизнес"]
+keywords:
+  [
+    "светло-голубая одежда",
+    "с чем сочетать светло-голубой",
+    "светло-голубая блуза",
+    "цветовая консультация",
+  ]
 glossar_order: "h"
 weight: 20
 image: "images/glossar/hellblau.png"
-image_alt: "Editoriale Grafik zu Hellblau mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Светло-голубой"
 relatedTerms:
-  - title: "Blau"
+  - title: "Синий"
     url: "/ru/glossar/blau/"
-  - title: "Navy"
+  - title: "Тёмно-синий"
     url: "/ru/glossar/navy/"
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
-  - title: "Business Casual"
+  - title: "Деловой повседневный стиль"
     url: "/ru/glossar/business-casual/"
-  - title: "Farbtemperatur"
+  - title: "Цветовая температура"
     url: "/ru/glossar/farbtemperatur/"
 ---

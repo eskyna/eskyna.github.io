@@ -1,23 +1,23 @@
 ---
-title: "Saisonwechsel"
-term: "Saisonwechsel"
-description: "Saisonwechsel beschreibt die Umstellung der Garderobe auf Temperatur, Licht, Materialien und Alltag einer neuen Jahreszeit."
+title: "Что означает смена сезона?"
+term: "Смена сезона"
+description: "Смена сезона описывает адаптацию гардероба к температуре, свету, материалам и ритму новой поры года."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "saisonwechsel"]
-keywords: ["saisonwechsel", "was bedeutet saisonwechsel", "saisonwechsel stilberatung"]
+tags: ["гардероб", "смена сезона"]
+keywords: ["смена сезона", "что означает смена сезона", "сезонная адаптация гардероба"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/saisonwechsel.png"
-image_alt: "Editoriale Glossar-Grafik zu Saisonwechsel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Смена сезона"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

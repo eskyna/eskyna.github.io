@@ -10,12 +10,12 @@ tags:
   - "utility"
 keywords:
   - "cargohose"
-  - "was ist eine cargohose"
+  - "что такое cargohose"
   - "cargohose kombinieren"
 glossar_order: "c"
 weight: 5
 image: "images/glossar/cargohose.png"
-image_alt: "Editoriale Grafik zu Cargohose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Карго-брюки"
 relatedTerms:
   - title: "Карго-брюки с карманами"
     url: "/ru/glossar/khaki/"

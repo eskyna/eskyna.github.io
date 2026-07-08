@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Spontankauf?"
-term: "Spontankauf"
-description: "Ein Spontankauf ist ein ungeplanter Kauf, der oft aus Stimmung, Verfügbarkeit oder kurzfristigem Wunsch entsteht."
+title: "Что означает импульсная покупка?"
+term: "Импульсная покупка"
+description: "Импульсная покупка это незапланированная покупка, которая часто возникает из настроения, доступности вещи или краткого желания."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "spontankauf"]
-keywords: ["spontankauf", "was bedeutet spontankauf", "spontankauf stilberatung"]
+tags: ["гардероб", "импульсная покупка"]
+keywords: ["импульсная покупка", "что означает импульсная покупка", "покупка без плана"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/spontankauf.png"
-image_alt: "Editoriale Glossar-Grafik zu Spontankauf mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Импульсная покупка"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

@@ -1,22 +1,22 @@
 ---
-title: "Was bedeutet Quiet Luxury?"
-term: "Quiet Luxury"
-description: "Quiet Luxury beschreibt zurückhaltende Eleganz mit guten Materialien, klaren Schnitten und ruhiger Farbwelt."
+title: "Что означает quiet luxury?"
+term: "Quiet luxury"
+description: "Quiet luxury описывает сдержанную элегантность с качественными материалами, чистым кроем и спокойной цветовой палитрой."
 category: "Стиль и воздействие"
-tags: ["quiet luxury", "stil", "eleganz", "hochwertigkeit", "minimalismus"]
-keywords: ["quiet luxury", "leiser luxus", "eleganter stil", "stilberatung"]
+tags: ["quiet luxury", "стиль", "элегантность", "качество", "минимализм"]
+keywords: ["quiet luxury", "тихая роскошь", "элегантный стиль", "консультация по стилю"]
 glossar_order: "q"
 weight: 2
 image: "images/glossar/quiet-luxury.png"
-image_alt: "Editoriale Grafik mit ruhigen Naturfarben, klaren Linien und hochwertigen Materialflächen"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Quiet luxury"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Braun"
+  - title: "Коричневый"
     url: "/ru/glossar/braun/"
   - title: "Navy"
     url: "/ru/glossar/navy/"

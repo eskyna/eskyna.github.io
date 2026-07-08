@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Shift Dress?"
-term: "Shift Dress"
-description: "Ein Shift Dress ist ein gerade geschnittenes Kleid ohne starke Taillierung und mit klarer, reduzierter Wirkung."
+title: "Что означает shift dress?"
+term: "Shift dress"
+description: "Shift dress это платье прямого кроя без выраженного приталивания с чётким и лаконичным визуальным эффектом."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "shift dress"]
-keywords: ["shift dress", "was bedeutet shift dress", "shift dress stilberatung"]
+tags: ["гардероб", "shift dress"]
+keywords: ["shift dress", "что означает shift dress", "как носить shift dress"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/shift-dress.png"
-image_alt: "Editoriale Glossar-Grafik zu Shift Dress mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Shift dress"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

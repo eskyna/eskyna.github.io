@@ -3,12 +3,12 @@ title: "Шифон: лёгкая ткань"
 term: "Шифон"
 description: "Шифон — это легкая, воздушная ткань, создающая романтичные образы."
 category: "Материалы и детали"
-tags: ["chiffon", "materialien"]
-keywords: ["chiffon", "was bedeutet chiffon", "chiffon stilberatung"]
+tags: ["chiffon", "материалы"]
+keywords: ["chiffon", "что означает chiffon", "chiffon stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/chiffon.png"
-image_alt: "Editoriale Glossar-Grafik zu Chiffon mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шифон"
 relatedTerms:
   - title: "Шифон: лёгкая ткань"
     url: "/ru/glossar/materialfall/"

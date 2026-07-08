@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Tweed?"
+title: "Что означает tweed?"
 term: "Tweed"
-description: "Tweed ist ein strukturierter Wollstoff mit klassischer, oft britisch geprägter Wirkung."
+description: "Tweed это фактурная шерстяная ткань с классическим, часто британским характером."
 category: "Материалы и детали"
-tags: ["materialien", "tweed"]
-keywords: ["tweed", "was bedeutet tweed", "tweed stilberatung"]
+tags: ["материалы", "tweed"]
+keywords: ["tweed", "что означает tweed", "tweed в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/tweed.png"
-image_alt: "Editoriale Glossar-Grafik zu Tweed mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Tweed"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

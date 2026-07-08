@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Karomuster?"
-term: "Karomuster"
-description: "Karomuster entstehen durch sich kreuzende Linien und können klassisch, rustikal, grafisch oder modern wirken."
+title: "Что означает клетчатый узор?"
+term: "Клетчатый узор"
+description: "Клетчатые узоры возникают из пересекающихся линий и могут выглядеть классически, графично, деревенски или современно."
 category: "Материалы и детали"
-tags: ["karomuster", "materialien"]
-keywords: ["karomuster", "was bedeutet karomuster", "karomuster stilberatung"]
+tags: ["клетчатый узор", "материалы"]
+keywords: ["клетчатый узор", "клетка в одежде", "графичный узор"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/karomuster.png"
-image_alt: "Editoriale Glossar-Grafik zu Karomuster mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Клетчатый узор"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

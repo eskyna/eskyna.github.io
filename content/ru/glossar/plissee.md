@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Plissee?"
-term: "Plissee"
-description: "Plissee bezeichnet sehr gleichmäßige, schmale Falten, die Stoff beweglich und grafisch wirken lassen."
+title: "Что означает плиссе?"
+term: "Плиссе"
+description: "Плиссе это равномерные узкие складки, которые делают ткань подвижной и графичной."
 category: "Материалы и детали"
-tags: ["materialien", "plissee"]
-keywords: ["plissee", "was bedeutet plissee", "plissee stilberatung"]
+tags: ["материалы", "плиссе"]
+keywords: ["плиссе", "плиссированная фактура", "плиссе в одежде"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/plissee.png"
-image_alt: "Editoriale Glossar-Grafik zu Plissee mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Плиссе"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

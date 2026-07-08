@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet monochrom?"
-term: "Monochrom"
-description: "Monochrom bedeutet, einen Look aus einer Farbfamilie aufzubauen. Das wirkt ruhig, langgezogen und oft sehr elegant."
+title: "Что означает монохром?"
+term: "Монохром"
+description: "Монохром означает построение образа в пределах одной цветовой семьи. Такой подход выглядит спокойно, вытянуто и часто очень элегантно."
 category: "Консультация по цвету и цвет"
-tags: ["monochrom", "ton in ton", "farbberatung", "styling"]
-keywords: ["monochrom outfit", "monochrom kleidung", "ton in ton look", "farben kombinieren"]
+tags: ["монохром", "тон в тон", "цветовая консультация", "стайлинг"]
+keywords: ["монохромный образ", "монохромная одежда", "образ тон в тон", "как сочетать цвета"]
 glossar_order: "m"
 weight: 21
 image: "images/glossar/monochrom.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Monochrom mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Монохром"
 relatedTerms:
-  - title: "Ton-in-Ton"
+  - title: "Тон в тон"
     url: "/ru/glossar/ton-in-ton/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
-  - title: "Farbpalette"
+  - title: "Цветовая палитра"
     url: "/ru/glossar/farbpalette/"
-  - title: "Helligkeit"
+  - title: "Светлота"
     url: "/ru/glossar/helligkeit/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
 ---

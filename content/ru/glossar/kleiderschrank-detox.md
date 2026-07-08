@@ -1,24 +1,23 @@
 ---
-title: "Kleiderschrank-Detox"
-term: "Kleiderschrank-Detox"
-description: "Ein Kleiderschrank-Detox ist das bewusste Aussortieren, Ordnen und Klären vorhandener Kleidung."
+title: "Что означает детокс гардероба?"
+term: "Детокс гардероба"
+description: "Детокс гардероба это осознанное расхламление, упорядочивание и прояснение того, что уже есть в шкафу."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "kleiderschrank detox"]
-keywords:
-  ["kleiderschrank-detox", "was bedeutet kleiderschrank-detox", "kleiderschrank-detox stilberatung"]
+tags: ["гардероб", "детокс гардероба"]
+keywords: ["детокс гардероба", "что означает детокс гардероба", "расхламление гардероба"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-detox.png"
-image_alt: "Editoriale Glossar-Grafik zu Kleiderschrank-Detox mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Детокс гардероба"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

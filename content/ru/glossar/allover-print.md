@@ -3,12 +3,12 @@ title: "Принт по всей поверхности"
 term: "Принт по всей поверхности"
 description: "Принт по всей поверхности — это узор или орнамент, покрывающий весь предмет одежды равномерно."
 category: "Материалы и детали"
-tags: ["allover print", "materialien"]
-keywords: ["allover-print", "was bedeutet allover-print", "allover-print stilberatung"]
+tags: ["allover print", "материалы"]
+keywords: ["allover-print", "что означает allover-print", "allover-print stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/allover-print.png"
-image_alt: "Editoriale Glossar-Grafik zu Allover-Print mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Принт по всей поверхности"
 relatedTerms:
   - title: "Принт по всей поверхности"
     url: "/ru/glossar/materialfall/"

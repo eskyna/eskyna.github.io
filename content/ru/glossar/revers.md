@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Revers?"
-term: "Revers"
-description: "Das Revers ist die umgeschlagene Kragenpartie an Blazer, Sakko oder Mantel."
+title: "Что означает лацкан?"
+term: "Лацкан"
+description: "Лацкан это отложная часть воротника у пиджака, жакета или пальто."
 category: "Материалы и детали"
-tags: ["materialien", "revers"]
-keywords: ["revers", "was bedeutet revers", "revers stilberatung"]
+tags: ["материалы", "лацкан"]
+keywords: ["лацкан", "что означает лацкан", "лацканы в одежде"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/revers.png"
-image_alt: "Editoriale Glossar-Grafik zu Revers mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Лацкан"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

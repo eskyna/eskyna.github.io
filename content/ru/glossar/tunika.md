@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Tunika?"
-term: "Tunika"
-description: "Eine Tunika ist ein locker geschnittenes, oft längeres Oberteil mit weichem Fall und entspannter Wirkung."
+title: "Что означает туника?"
+term: "Туника"
+description: "Туника это свободный, часто более длинный верх с мягкой пластикой и расслабленным впечатлением."
 category: "Материалы и детали"
-tags: ["materialien", "tunika"]
-keywords: ["tunika", "was bedeutet tunika", "tunika stilberatung"]
+tags: ["материалы", "туника"]
+keywords: ["туника", "что означает туника", "туника в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/tunika.png"
-image_alt: "Editoriale Glossar-Grafik zu Tunika mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Туника"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

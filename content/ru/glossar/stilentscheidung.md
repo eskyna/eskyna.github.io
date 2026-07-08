@@ -1,23 +1,23 @@
 ---
-title: "Stilentscheidung"
-term: "Stilentscheidung"
-description: "Eine Stilentscheidung ist eine bewusste Wahl für oder gegen ein Teil, eine Farbe oder eine Kombination."
+title: "Стилевое решение"
+term: "Стилевое решение"
+description: "Стилевое решение это осознанный выбор вещи, цвета или комбинации в пользу нужного впечатления."
 category: "Стиль и воздействие"
-tags: ["stil", "stilentscheidung"]
-keywords: ["stilentscheidung", "was bedeutet stilentscheidung", "stilentscheidung stilberatung"]
+tags: ["стиль", "стилевое решение"]
+keywords: ["стилевое решение", "что означает стилевое решение", "решения в стиле"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilentscheidung.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilentscheidung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевое решение"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

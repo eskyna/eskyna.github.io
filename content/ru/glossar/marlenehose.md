@@ -1,24 +1,29 @@
 ---
-title: "Was ist eine Marlenehose?"
-term: "Marlenehose"
-description: "Eine Marlenehose ist eine weite, oft hoch geschnittene Hose mit elegantem Fall und klarer, langer Beinlinie."
+title: "Что такое брюки Марлен?"
+term: "Брюки Марлен"
+description: "Брюки Марлен это широкие, часто высоко посаженные брюки с элегантным падением и длинной прямой линией ног."
 category: "Крой, пропорции и посадка"
-tags: ["marlenehose", "weite hose", "proportion", "silhouette", "business casual"]
+tags: ["брюки марлен", "широкие брюки", "пропорции", "силуэт", "business casual"]
 keywords:
-  ["marlenehose", "was ist eine marlenehose", "marlenehose kombinieren", "weite elegante hose"]
+  [
+    "брюки марлен",
+    "что такое брюки марлен",
+    "с чем носить брюки марлен",
+    "широкие элегантные брюки",
+  ]
 glossar_order: "m"
 weight: 12
 image: "images/glossar/marlenehose.png"
-image_alt: "Editoriale Grafik mit stilisierter Marlenehose, hoher Taille und langer weiter Beinlinie"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки Марлен"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
-  - title: "Business Casual"
+  - title: "Деловой повседневный стиль"
     url: "/ru/glossar/business-casual/"
 ---

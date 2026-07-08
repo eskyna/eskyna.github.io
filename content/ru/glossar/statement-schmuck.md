@@ -1,23 +1,23 @@
 ---
-title: "Was ist Statement-Schmuck?"
-term: "Statement-Schmuck"
-description: "Statement-Schmuck ist auffälliger Schmuck, der den Fokus eines Looks setzt und deshalb Ruhe im restlichen Outfit braucht."
+title: "Что такое акцентные украшения?"
+term: "Акцентные украшения"
+description: "Акцентные украшения это выразительные украшения, которые становятся фокусом образа и требуют более спокойной базы в остальном комплекте."
 category: "Материалы и детали"
-tags: ["statement-schmuck", "schmuck", "accessoire", "statement-piece", "styling"]
-keywords: ["statement schmuck", "was ist statement-schmuck", "auffälliger schmuck"]
+tags: ["акцентные украшения", "украшения", "аксессуар", "statement piece", "стилизация"]
+keywords: ["акцентные украшения", "что такое акцентные украшения", "выразительные украшения"]
 glossar_order: "s"
 weight: 23
 image: "images/glossar/statement-schmuck.png"
-image_alt: "Editoriale Grafik zu Statement-Schmuck mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Акцентные украшения"
 relatedTerms:
-  - title: "Statement-Piece"
+  - title: "Акцентная вещь"
     url: "/ru/glossar/statement-piece/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Feinschmuck"
+  - title: "Ювелирные украшения"
     url: "/ru/glossar/feinschmuck/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
 ---

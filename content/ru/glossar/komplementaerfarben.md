@@ -1,24 +1,23 @@
 ---
-title: "Komplementärfarben"
-term: "Komplementärfarben"
-description: "Komplementärfarben liegen sich im Farbkreis gegenüber und erzeugen starke, lebendige Kontraste."
-category: "Farbberatung & Farbe"
-tags: ["farbberatung", "komplementaerfarben"]
-keywords:
-  ["komplementärfarben", "was bedeutet komplementärfarben", "komplementärfarben stilberatung"]
+title: "Что означают комплементарные цвета?"
+term: "Комплементарные цвета"
+description: "Комплементарные цвета располагаются напротив друг друга на цветовом круге и создают сильный, живой контраст."
+category: "Консультация по цвету и цвет"
+tags: ["цветовая консультация", "комплементарные цвета"]
+keywords: ["комплементарные цвета", "цвета напротив на цветовом круге", "контрастные пары цветов"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/komplementaerfarben.png"
-image_alt: "Editoriale Glossar-Grafik zu Komplementärfarben mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Комплементарные цвета"
 relatedTerms:
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Farbpalette"
+  - title: "Цветовая палитра"
     url: "/ru/glossar/farbpalette/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
 ---

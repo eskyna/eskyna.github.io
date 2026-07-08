@@ -3,12 +3,12 @@ title: "Ежедневный гардероб в стайлинге"
 term: "Ежедневный гардероб"
 description: "Ежедневный гардероб — это набор базовых и универсальных вещей, которые легко комбинируются для повседневной жизни."
 category: "Гардероб и повседневность"
-tags: ["alltagsuniform", "garderobe"]
-keywords: ["alltagsuniform", "was bedeutet alltagsuniform", "alltagsuniform stilberatung"]
+tags: ["alltagsuniform", "гардероб"]
+keywords: ["alltagsuniform", "что означает alltagsuniform", "alltagsuniform stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/alltagsuniform.png"
-image_alt: "Editoriale Glossar-Grafik zu Alltagsuniform mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ежедневный гардероб"
 relatedTerms:
   - title: "Ежедневный гардероб в стайлинге"
     url: "/ru/glossar/capsule-wardrobe/"

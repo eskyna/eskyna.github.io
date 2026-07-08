@@ -3,12 +3,12 @@ title: "Облегающее платье в моде"
 term: "Облегающее платье"
 description: "Облегающее платье подчёркивает формы тела, создавая смелый и женственный образ."
 category: "Крой, пропорции и посадка"
-tags: ["bodycon dress", "garderobe"]
-keywords: ["bodycon dress", "was bedeutet bodycon dress", "bodycon dress stilberatung"]
+tags: ["bodycon dress", "гардероб"]
+keywords: ["bodycon dress", "что означает bodycon dress", "bodycon dress stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/bodycon-dress.png"
-image_alt: "Editoriale Glossar-Grafik zu Bodycon Dress mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Облегающее платье"
 relatedTerms:
   - title: "Облегающее платье в моде"
     url: "/ru/glossar/capsule-wardrobe/"

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Wickelrock?"
-term: "Wickelrock"
-description: "Ein Wickelrock wird überlappend geschlossen und erzeugt eine diagonale Linie im Outfit."
+title: "Что означает юбка с запахом?"
+term: "Юбка с запахом"
+description: "Юбка с запахом закрывается внахлёст и формирует диагональную линию в образе."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "wickelrock"]
-keywords: ["wickelrock", "was bedeutet wickelrock", "wickelrock stilberatung"]
+tags: ["гардероб", "юбка с запахом"]
+keywords: ["юбка с запахом", "что означает юбка с запахом", "юбка с запахом в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wickelrock.png"
-image_alt: "Editoriale Glossar-Grafik zu Wickelrock mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка с запахом"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

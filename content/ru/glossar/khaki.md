@@ -1,24 +1,24 @@
 ---
-title: "Khaki im Stil erklärt"
-term: "Khaki"
-description: "Khaki liegt zwischen Beige, Grün und Braun. Es wirkt natürlich, funktional und zurückhaltend."
+title: "Хаки в контексте стиля"
+term: "Хаки"
+description: "Хаки находится между бежевым, зелёным и коричневым. Этот цвет выглядит естественно, функционально и сдержанно."
 category: "Цветовой словарь"
 color_hex: "#B7A77A"
-tags: ["khaki", "beige", "gruen", "farbe", "farbberatung"]
-keywords: ["khaki kleidung", "khaki kombinieren", "khaki farbe", "farbberatung"]
+tags: ["хаки", "бежевый", "зелёный", "цвет", "цветовая консультация"]
+keywords: ["одежда цвета хаки", "с чем сочетать хаки", "цвет хаки", "цветовая консультация"]
 glossar_order: "k"
 weight: 25
 image: "images/glossar/khaki.png"
-image_alt: "Editoriale Grafik zu Khaki mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Хаки"
 relatedTerms:
-  - title: "Oliv"
+  - title: "Оливковый"
     url: "/ru/glossar/oliv/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Chinos"
+  - title: "Чиносы"
     url: "/ru/glossar/chinos/"
-  - title: "Trenchcoat"
+  - title: "Тренч"
     url: "/ru/glossar/trenchcoat/"
-  - title: "Neutrale Farben"
+  - title: "Нейтральные цвета"
     url: "/ru/glossar/neutrale-farben/"
 ---

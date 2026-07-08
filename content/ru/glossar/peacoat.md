@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Peacoat?"
+title: "Что означает peacoat?"
 term: "Peacoat"
-description: "Peacoat ist die englische Bezeichnung für eine kurze, doppelreihige Wolljacke mit klassischer, kompakter Silhouette."
+description: "Peacoat это короткое двубортное шерстяное пальто с классическим и компактным силуэтом."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "peacoat"]
-keywords: ["peacoat", "was bedeutet peacoat", "peacoat stilberatung"]
+tags: ["гардероб", "peacoat"]
+keywords: ["peacoat", "двубортное короткое пальто", "как носить peacoat"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/peacoat.png"
-image_alt: "Editoriale Glossar-Grafik zu Peacoat mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Peacoat"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

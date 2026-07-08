@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Polyamid?"
-term: "Polyamid"
-description: "Polyamid ist eine synthetische Faser, die robust, leicht und oft elastisch verarbeitet wird."
+title: "Что означает полиамид?"
+term: "Полиамид"
+description: "Полиамид это синтетическое волокно, которое обычно отличается прочностью, лёгкостью и часто эластичностью."
 category: "Материалы и детали"
-tags: ["materialien", "polyamid"]
-keywords: ["polyamid", "was bedeutet polyamid", "polyamid stilberatung"]
+tags: ["материалы", "полиамид"]
+keywords: ["полиамид", "свойства полиамида", "полиамид в одежде"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/polyamid.png"
-image_alt: "Editoriale Glossar-Grafik zu Polyamid mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Полиамид"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

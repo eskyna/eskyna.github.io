@@ -1,23 +1,23 @@
 ---
-title: "Your Signature"
-term: "Your Signature"
-description: "Your Signature ist der individuelle Stilcode, der eine Person wiedererkennbar und stimmig sichtbar macht."
+title: "Your signature"
+term: "Your signature"
+description: "Your signature это индивидуальный стилевой код, который делает образ человека узнаваемым и цельным."
 category: "Стиль и воздействие"
 tags: ["stil", "your signature"]
-keywords: ["your signature", "was bedeutet your signature", "your signature stilberatung"]
+keywords: ["your signature", "что означает your signature", "your signature в стилизации"]
 glossar_order: "y"
 weight: 1
 image: "images/glossar/your-signature.png"
-image_alt: "Editoriale Glossar-Grafik zu Your Signature mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Your signature"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

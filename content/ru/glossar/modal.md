@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Modal?"
+title: "Что означает modal?"
 term: "Modal"
-description: "Modal ist eine weiche Zellulosefaser, die häufig für Shirts, Wäsche und fließende Basics verwendet wird."
+description: "Modal это мягкое целлюлозное волокно, которое часто используют для футболок, белья и базовых текучих вещей."
 category: "Материалы и детали"
-tags: ["materialien", "modal"]
-keywords: ["modal", "was bedeutet modal", "modal stilberatung"]
+tags: ["материалы", "modal"]
+keywords: ["modal", "целлюлозное волокно modal", "ткань modal"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/modal.png"
-image_alt: "Editoriale Glossar-Grafik zu Modal mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Modal"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

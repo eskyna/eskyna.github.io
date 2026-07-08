@@ -1,23 +1,24 @@
 ---
-title: "Wirkungsprofil"
-term: "Wirkungsprofil"
-description: "Ein Wirkungsprofil beschreibt, wie eine Person durch Kleidung und Auftreten wahrgenommen werden möchte."
+title: "Что означает профиль впечатления?"
+term: "Профиль впечатления"
+description: "Профиль впечатления описывает, как человек хочет восприниматься через одежду и манеру держаться."
 category: "Стиль и воздействие"
 tags: ["stil", "wirkungsprofil"]
-keywords: ["wirkungsprofil", "was bedeutet wirkungsprofil", "wirkungsprofil stilberatung"]
+keywords:
+  ["профиль впечатления", "что означает профиль впечатления", "профиль впечатления в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wirkungsprofil.png"
-image_alt: "Editoriale Glossar-Grafik zu Wirkungsprofil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль впечатления"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

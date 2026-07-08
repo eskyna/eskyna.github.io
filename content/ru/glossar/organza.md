@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Organza?"
-term: "Organza"
-description: "Organza ist ein transparenter, eher steifer Stoff, der Volumen und klare Form erzeugen kann."
+title: "Что означает органза?"
+term: "Органза"
+description: "Органза это прозрачная и скорее жёсткая ткань, которая может создавать объём и чёткую форму."
 category: "Материалы и детали"
-tags: ["materialien", "organza"]
-keywords: ["organza", "was bedeutet organza", "organza stilberatung"]
+tags: ["материалы", "органза"]
+keywords: ["органза", "ткань органза", "органза в стилизации"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/organza.png"
-image_alt: "Editoriale Glossar-Grafik zu Organza mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Органза"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

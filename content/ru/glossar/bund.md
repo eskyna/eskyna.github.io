@@ -4,11 +4,11 @@ term: "Пояс"
 description: "Пояс — это край брюк или юбки, который определяет положение на талии и влияет на комфорт и посадку."
 category: "Материалы и детали"
 tags: ["bund", "schnitt proportion"]
-keywords: ["bund", "was bedeutet bund", "bund stilberatung"]
+keywords: ["bund", "что означает bund", "bund stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/bund.png"
-image_alt: "Editoriale Glossar-Grafik zu Bund mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Пояс"
 relatedTerms:
   - title: "Пояс: важная деталь посадки"
     url: "/ru/glossar/passform/"

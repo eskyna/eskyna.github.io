@@ -1,23 +1,23 @@
 ---
-title: "Pflegeetikett"
-term: "Pflegeetikett"
-description: "Das Pflegeetikett gibt Hinweise zur Reinigung und Pflege eines Kleidungsstücks."
+title: "Что означает ярлык по уходу?"
+term: "Ярлык по уходу"
+description: "Ярлык по уходу содержит рекомендации по чистке и уходу за конкретной вещью."
 category: "Материалы и детали"
-tags: ["materialien", "pflegeetikett"]
-keywords: ["pflegeetikett", "was bedeutet pflegeetikett", "pflegeetikett stilberatung"]
+tags: ["материалы", "ярлык по уходу"]
+keywords: ["ярлык по уходу", "знаки на ярлыке", "уход за одеждой"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/pflegeetikett.png"
-image_alt: "Editoriale Glossar-Grafik zu Pflegeetikett mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Ярлык по уходу"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

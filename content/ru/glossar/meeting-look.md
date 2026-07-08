@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Meeting-Look?"
-term: "Meeting-Look"
-description: "Ein Meeting-Look ist bewusst auf Präsenz, Klarheit und professionelle Wirkung ausgerichtet."
+title: "Что означает образ для встречи?"
+term: "Образ для встречи"
+description: "Образ для встречи осознанно выстраивают вокруг присутствия, ясности и профессионального впечатления."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "meeting look"]
-keywords: ["meeting-look", "was bedeutet meeting-look", "meeting-look stilberatung"]
+tags: ["гардероб", "meeting look"]
+keywords: ["meeting-look", "образ для встречи", "одежда для деловой встречи"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/meeting-look.png"
-image_alt: "Editoriale Glossar-Grafik zu Meeting-Look mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для встречи"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

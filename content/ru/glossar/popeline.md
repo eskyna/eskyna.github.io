@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Popeline?"
-term: "Popeline"
-description: "Popeline ist ein glatter, dichter Baumwollstoff, der häufig für Hemden und Blusen verwendet wird."
+title: "Что означает поплин?"
+term: "Поплин"
+description: "Поплин это гладкая плотная хлопковая ткань, которую часто используют для рубашек и блузок."
 category: "Материалы и детали"
-tags: ["materialien", "popeline"]
-keywords: ["popeline", "was bedeutet popeline", "popeline stilberatung"]
+tags: ["материалы", "поплин"]
+keywords: ["поплин", "ткань поплин", "поплин в рубашках и блузках"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/popeline.png"
-image_alt: "Editoriale Glossar-Grafik zu Popeline mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Поплин"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

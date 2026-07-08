@@ -1,21 +1,21 @@
 ---
-title: "Platzierter Print"
-term: "Platzierter Print"
-description: "Ein platzierter Print sitzt bewusst an einer bestimmten Stelle und lenkt den Blick gezielt."
+title: "Что означает размещённый принт?"
+term: "Размещённый принт"
+description: "Размещённый принт расположен намеренно в конкретной зоне и целенаправленно направляет взгляд."
 category: "Материалы и детали"
-tags: ["materialien", "platzierter print"]
-keywords: ["platzierter print", "was bedeutet platzierter print", "platzierter print stilberatung"]
+tags: ["материалы", "размещённый принт"]
+keywords: ["размещённый принт", "локальный принт", "принт с акцентным размещением"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/platzierter-print.png"
-image_alt: "Editoriale Glossar-Grafik zu Platzierter Print mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Размещённый принт"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

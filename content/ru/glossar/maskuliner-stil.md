@@ -1,21 +1,21 @@
 ---
-title: "Maskuliner Stil"
-term: "Maskuliner Stil"
-description: "Ein maskuliner Stil nutzt klare Linien, Hemden, Blazer, gerade Schnitte und strukturierte Materialien."
+title: "Что означает маскулинный стиль?"
+term: "Маскулинный стиль"
+description: "Маскулинный стиль использует чёткие линии, рубашки, блейзеры, прямые силуэты и структурные материалы."
 category: "Стиль и воздействие"
-tags: ["maskuliner stil", "stil"]
-keywords: ["maskuliner stil", "was bedeutet maskuliner stil", "maskuliner stil stilberatung"]
+tags: ["маскулинный стиль", "стиль"]
+keywords: ["маскулинный стиль", "маскулинная стилистика", "прямой структурный стиль"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/maskuliner-stil.png"
-image_alt: "Editoriale Glossar-Grafik zu Maskuliner Stil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Маскулинный стиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

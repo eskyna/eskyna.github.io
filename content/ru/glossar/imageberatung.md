@@ -1,23 +1,23 @@
 ---
-title: "Imageberatung"
-term: "Imageberatung"
-description: "Imageberatung beschäftigt sich mit der Frage, welches Bild Kleidung und Auftreten nach außen senden."
+title: "Что означает имидж-консультация?"
+term: "Имидж-консультация"
+description: "Имидж-консультация помогает понять, какой образ одежда и манера держаться транслируют вовне."
 category: "Стиль и воздействие"
-tags: ["imageberatung", "stil"]
-keywords: ["imageberatung", "was bedeutet imageberatung", "imageberatung stilberatung"]
+tags: ["имидж-консультация", "стиль"]
+keywords: ["имидж-консультация", "что означает имидж-консультация", "консультация по имиджу"]
 glossar_order: "i"
 weight: 1
 image: "images/glossar/imageberatung.png"
-image_alt: "Editoriale Glossar-Grafik zu Imageberatung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Имидж-консультация"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

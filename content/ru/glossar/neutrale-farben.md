@@ -1,29 +1,34 @@
 ---
-title: "Was sind neutrale Farben?"
-term: "Neutrale Farben"
-description: "Neutrale Farben wie Schwarz, Weiß, Creme, Grau, Beige, Navy und Braun bilden die ruhige Basis vieler Garderoben."
+title: "Что такое нейтральные цвета?"
+term: "Нейтральные цвета"
+description: "Нейтральные цвета, такие как чёрный, белый, кремовый, серый, бежевый, navy и коричневый, формируют спокойную базу многих гардеробов."
 category: "Консультация по цвету и цвет"
-tags: ["neutrale farben", "basisfarben", "farbpalette", "garderobe"]
+tags: ["нейтральные цвета", "базовые цвета", "цветовая палитра", "гардероб"]
 keywords:
-  ["neutrale farben", "basisfarben garderobe", "farben kombinieren", "capsule wardrobe farben"]
+  [
+    "нейтральные цвета",
+    "базовые цвета гардероба",
+    "как сочетать цвета",
+    "цвета для capsule wardrobe",
+  ]
 glossar_order: "n"
 weight: 24
 
 image: "images/glossar/neutrale-farben.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Neutrale Farben mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Нейтральные цвета"
 relatedTerms:
-  - title: "Farbpalette"
+  - title: "Цветовая палитра"
     url: "/ru/glossar/farbpalette/"
-  - title: "Schwarz"
+  - title: "Чёрный"
     url: "/ru/glossar/schwarz/"
-  - title: "Weiß"
+  - title: "Белый"
     url: "/ru/glossar/weiss/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
   - title: "Navy"
     url: "/ru/glossar/navy/"
-  - title: "Off-White"
+  - title: "Off-white"
     url: "/ru/glossar/off-white/"
-  - title: "Anthrazit"
+  - title: "Антрацит"
     url: "/ru/glossar/anthrazit/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Hemdblusenkleid"
-term: "Hemdblusenkleid"
-description: "Ein Hemdblusenkleid verbindet die Elemente eines Hemdes oder einer Bluse mit der Form eines Kleides."
-category: "Kleider & Röcke"
-tags: ["hemdblusenkleid", "kleid", "hemd", "bluse"]
-keywords: ["hemdblusenkleid", "was ist ein hemdblusenkleid", "hemdkleid"]
+title: "Что такое платье-рубашка?"
+term: "Платье-рубашка"
+description: "Платье-рубашка соединяет элементы рубашки или блузы с формой платья."
+category: "Платья и юбки"
+tags: ["платье-рубашка", "платье", "рубашка", "блуза"]
+keywords: ["платье-рубашка", "что такое платье-рубашка", "рубашечное платье"]
 glossar_order: "h"
 weight: 8
 image: "images/glossar/hemdblusenkleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Hemdblusenkleid mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Платье-рубашка"
 relatedTerms:
-  - title: "Hemd"
+  - title: "Рубашка"
     url: "/ru/glossar/hemd/"
-  - title: "Bluse"
+  - title: "Блуза"
     url: "/ru/glossar/bluse/"
-  - title: "Kleid"
+  - title: "Платье"
     url: "/ru/glossar/kleid/"
-  - title: "Baumwolle"
+  - title: "Хлопок"
     url: "/ru/glossar/baumwolle/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Volant?"
-term: "Volant"
-description: "Ein Volant ist ein angesetzter, schwingender Stoffteil, der Bewegung und Weichheit schafft."
+title: "Что означает волан?"
+term: "Волан"
+description: "Волан это притачная волнистая деталь из ткани, которая добавляет образу движение и мягкость."
 category: "Материалы и детали"
-tags: ["materialien", "volant"]
-keywords: ["volant", "was bedeutet volant", "volant stilberatung"]
+tags: ["материалы", "волан"]
+keywords: ["волан", "что означает волан", "волан в стилизации"]
 glossar_order: "v"
 weight: 1
 image: "images/glossar/volant.png"
-image_alt: "Editoriale Glossar-Grafik zu Volant mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Волан"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Samt?"
-term: "Samt"
-description: "Samt ist ein weicher Stoff mit kurzem Flor, der Licht aufnimmt und besonders tief wirken kann."
+title: "Что означает бархат?"
+term: "Бархат"
+description: "Бархат это мягкая ткань с коротким ворсом, которая поглощает свет и может создавать особенно глубокий визуальный эффект."
 category: "Материалы и детали"
-tags: ["materialien", "samt"]
-keywords: ["samt", "was bedeutet samt", "samt stilberatung"]
+tags: ["материалы", "бархат"]
+keywords: ["бархат", "что означает бархат", "бархат в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/samt.png"
-image_alt: "Editoriale Glossar-Grafik zu Samt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бархат"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

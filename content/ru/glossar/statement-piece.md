@@ -1,25 +1,25 @@
 ---
-title: "Statement-Piece"
-term: "Statement-Piece"
-description: "Ein Statement-Piece ist ein bewusst auffälliges Kleidungsstück oder Accessoire, das den Look prägt."
+title: "Что такое statement piece?"
+term: "Statement piece"
+description: "Statement piece это намеренно заметная вещь или аксессуар, который задаёт характер всему образу."
 category: "Стиль и воздействие"
-tags: ["statement-piece", "stil", "accessoires", "wirkung"]
-keywords: ["statement-piece", "statement teil", "stilbruch", "outfit akzent"]
+tags: ["statement piece", "стиль", "аксессуары", "впечатление"]
+keywords: ["statement piece", "акцентная вещь", "стилевой контраст", "акцент в образе"]
 glossar_order: "s"
 weight: 4
 image: "images/glossar/statement-piece.png"
-image_alt: "Editoriale Grafik mit ruhigen neutralen Flächen und einem klaren Akzent als Symbol für ein Statement-Piece"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Statement piece"
 relatedTerms:
-  - title: "Statement-Schmuck"
+  - title: "Акцентные украшения"
     url: "/ru/glossar/statement-schmuck/"
-  - title: "Basic"
+  - title: "База"
     url: "/ru/glossar/basic/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
 ---

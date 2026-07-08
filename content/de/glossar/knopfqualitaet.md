@@ -3,7 +3,7 @@ title: "Knopfqualität"
 term: "Knopfqualität"
 description: "Knopfqualität beschreibt Material, Gewicht, Befestigung und Wirkung von Knöpfen."
 category: "Materialien & Details"
-tags: ["knopfqualitaet", "materialien"]
+tags: ["knopfqualität", "materialien"]
 keywords: ["knopfqualität", "was bedeutet knopfqualität", "knopfqualität stilberatung"]
 glossar_order: "k"
 weight: 1

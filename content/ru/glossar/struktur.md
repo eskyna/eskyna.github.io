@@ -1,23 +1,23 @@
 ---
-title: "Struktur"
-term: "Struktur"
-description: "Struktur beschreibt sichtbare oder fühlbare Oberflächen in Stoffen und gibt ruhigen Outfits Tiefe, Charakter und Qualität."
+title: "Что означает фактура?"
+term: "Фактура"
+description: "Фактура описывает видимую или ощутимую поверхность ткани и добавляет спокойным образам глубину, характер и качество."
 category: "Материалы и детали"
-tags: ["struktur", "stoff", "material", "tweed", "strick"]
-keywords: ["struktur kleidung", "stoffstruktur", "strukturierte stoffe", "materialwirkung"]
+tags: ["фактура", "ткань", "материал", "tweed", "трикотаж"]
+keywords: ["фактура одежды", "фактура ткани", "фактурные ткани", "впечатление материала"]
 glossar_order: "s"
 weight: 21
 image: "images/glossar/struktur.png"
-image_alt: "Editoriale Grafik mit Stoffraster, gewebter Struktur und feinen haptischen Linien"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Фактура"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Leinen"
+  - title: "Лён"
     url: "/ru/glossar/leinen/"
   - title: "Denim"
     url: "/ru/glossar/denim/"
-  - title: "Baumwolle"
+  - title: "Хлопок"
     url: "/ru/glossar/baumwolle/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
 ---

@@ -1,23 +1,24 @@
 ---
-title: "Was ist ein Stilbruch?"
-term: "Stilbruch"
-description: "Ein Stilbruch verbindet bewusst unterschiedliche Stilrichtungen und macht Looks moderner, wenn die Balance stimmt."
+title: "Что такое стилевой контраст?"
+term: "Стилевой контраст"
+description: "Стилевой контраст это осознанное соединение разных стилевых направлений, которое делает образ современнее при сохранении баланса."
 category: "Стиль и воздействие"
-tags: ["stilbruch", "styling", "stil", "wirkung", "outfit"]
-keywords: ["stilbruch", "stilbruch mode", "outfit kombinieren", "stilberatung"]
+tags: ["стилевой контраст", "стилизация", "стиль", "впечатление", "образ"]
+keywords:
+  ["стилевой контраст", "контраст стилей", "как сочетать разные стили", "консультация по стилю"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilbruch.png"
-image_alt: "Editoriale Grafik mit kontrastierenden Formen als Symbol für einen bewussten Stilbruch"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевой контраст"
 relatedTerms:
-  - title: "Quiet Luxury"
+  - title: "Тихая роскошь"
     url: "/ru/glossar/quiet-luxury/"
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Statement-Piece"
+  - title: "Акцентная вещь"
     url: "/ru/glossar/statement-piece/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
 ---

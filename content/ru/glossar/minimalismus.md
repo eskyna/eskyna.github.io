@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Minimalismus?"
-term: "Minimalismus"
-description: "Minimalismus in der Mode bedeutet reduzierte Formen, klare Linien, ruhige Farben und bewusst gewählte Details."
+title: "Что означает минимализм?"
+term: "Минимализм"
+description: "Минимализм в моде означает редуцированные формы, чёткие линии, спокойные цвета и осознанно выбранные детали."
 category: "Стиль и воздействие"
-tags: ["minimalismus", "stil"]
-keywords: ["minimalismus", "was bedeutet minimalismus", "minimalismus stilberatung"]
+tags: ["минимализм", "стиль"]
+keywords: ["минимализм", "минимализм в одежде", "минималистичный стиль"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/minimalismus.png"
-image_alt: "Editoriale Glossar-Grafik zu Minimalismus mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Минимализм"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

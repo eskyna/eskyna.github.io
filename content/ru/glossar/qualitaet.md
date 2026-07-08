@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Qualität?"
-term: "Qualität"
-description: "Qualität entsteht durch Material, Schnitt, Verarbeitung, Passform und die Frage, wie lange ein Teil wirklich funktioniert."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "qualitaet"]
-keywords: ["qualität", "was bedeutet qualität", "qualität stilberatung"]
+title: "Что означает качество?"
+term: "Качество"
+description: "Качество определяется материалом, кроем, обработкой, посадкой и тем, насколько долго вещь действительно работает в гардеробе."
+category: "Гардероб и повседневность"
+tags: ["гардероб", "качество"]
+keywords: ["качество", "что означает качество", "качество в консультации по стилю"]
 glossar_order: "q"
 weight: 1
 image: "images/glossar/qualitaet.png"
-image_alt: "Editoriale Glossar-Grafik zu Qualität mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Качество"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

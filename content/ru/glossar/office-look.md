@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Office Look?"
-term: "Office Look"
-description: "Ein Office Look ist ein Outfit für den Arbeitsalltag, das professionell wirkt und zum Umfeld passt."
+title: "Что означает office look?"
+term: "Office look"
+description: "Office look это образ для рабочих будней, который выглядит профессионально и соответствует вашему окружению."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "office look"]
-keywords: ["office look", "was bedeutet office look", "office look stilberatung"]
+tags: ["гардероб", "office look"]
+keywords: ["office look", "офисный образ", "деловой повседневный стиль"]
 glossar_order: "o"
 weight: 1
 image: "images/glossar/office-look.png"
-image_alt: "Editoriale Glossar-Grafik zu Office Look mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Office look"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

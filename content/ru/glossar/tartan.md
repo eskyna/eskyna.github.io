@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Tartan?"
+title: "Что означает tartan?"
 term: "Tartan"
-description: "Tartan ist ein schottisch inspiriertes Karomuster mit mehreren Farben und starker Musterpräsenz."
+description: "Tartan это клетчатый узор с шотландскими корнями, в котором обычно сочетаются несколько цветов и заметная графика."
 category: "Материалы и детали"
-tags: ["materialien", "tartan"]
-keywords: ["tartan", "was bedeutet tartan", "tartan stilberatung"]
+tags: ["материалы", "tartan"]
+keywords: ["tartan", "что означает tartan", "tartan в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/tartan.png"
-image_alt: "Editoriale Glossar-Grafik zu Tartan mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Tartan"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

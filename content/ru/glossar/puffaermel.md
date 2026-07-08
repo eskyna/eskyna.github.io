@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Puffärmel?"
-term: "Puffärmel"
-description: "Ein Puffärmel hat Volumen an der Schulter oder am Oberarm und verändert die Balance des Oberkörpers."
-category: "Schnitt, Proportion & Passform"
-tags: ["puffaermel", "schnitt proportion"]
-keywords: ["puffärmel", "was bedeutet puffärmel", "puffärmel stilberatung"]
+title: "Что означает рукав-буф?"
+term: "Рукав-буф"
+description: "Рукав-буф даёт объём в плечевой зоне или на верхней части руки и заметно меняет баланс верхней части тела."
+category: "Крой, пропорции и посадка"
+tags: ["рукав-буф", "крой", "пропорции"]
+keywords: ["рукав-буф", "объёмный рукав", "как работает рукав-буф"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/puffaermel.png"
-image_alt: "Editoriale Glossar-Grafik zu Puffärmel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Рукав-буф"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

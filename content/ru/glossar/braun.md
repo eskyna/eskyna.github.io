@@ -9,7 +9,7 @@ keywords: ["braun kleidung", "braun kombinieren", "espresso farbe", "stilberatun
 glossar_order: "b"
 weight: 5
 image: "images/glossar/braun.png"
-image_alt: "Editoriale Grafik mit Braun-Nuancen, Lederakzenten und warmen Kombinationsfarben"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Коричневый"
 relatedTerms:
   - title: "Коричневый цвет в гардеробе"
     url: "/ru/glossar/beige/"

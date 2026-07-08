@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Preppy?"
+title: "Что означает preppy?"
 term: "Preppy"
-description: "Preppy ist ein gepflegter Collegestil mit Blazer, Poloshirt, Strick, Loafer und klassischen Farben."
+description: "Preppy это аккуратный колледж-стиль с пиджаком, polo shirt, трикотажем, лоферами и классической палитрой."
 category: "Стиль и воздействие"
-tags: ["preppy", "stil"]
-keywords: ["preppy", "was bedeutet preppy", "preppy stilberatung"]
+tags: ["preppy", "стиль"]
+keywords: ["preppy", "эстетика preppy", "колледж-стиль"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/preppy.png"
-image_alt: "Editoriale Glossar-Grafik zu Preppy mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Preppy"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Webstoff?"
-term: "Webstoff"
-description: "Webstoff ist gewebtes Material mit klarer Struktur und meist weniger natürlicher Elastizität als Strick oder Jersey."
+title: "Что означает тканое полотно?"
+term: "Тканое полотно"
+description: "Тканое полотно это материал с чёткой структурой и обычно меньшей естественной эластичностью, чем трикотаж или jersey."
 category: "Материалы и детали"
-tags: ["materialien", "webstoff"]
-keywords: ["webstoff", "was bedeutet webstoff", "webstoff stilberatung"]
+tags: ["материалы", "тканое полотно"]
+keywords: ["тканое полотно", "что означает тканое полотно", "тканое полотно в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/webstoff.png"
-image_alt: "Editoriale Glossar-Grafik zu Webstoff mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Тканое полотно"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

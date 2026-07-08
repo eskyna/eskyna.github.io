@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Straight Leg?"
-term: "Straight Leg"
-description: "Straight Leg beschreibt eine gerade Hosenform, die vom Oberschenkel bis zum Saum ruhig und gleichmäßig fällt."
+title: "Что означает straight leg?"
+term: "Straight leg"
+description: "Straight leg описывает прямую форму брюк, которая ровно спускается от бедра до низа."
 category: "Крой, пропорции и посадка"
-tags: ["straight leg", "hose", "jeans", "schnitt", "passform"]
-keywords: ["straight leg", "was bedeutet straight leg", "straight leg jeans", "gerade hose"]
+tags: ["straight leg", "брюки", "джинсы", "крой", "посадка"]
+keywords: ["straight leg", "что означает straight leg", "джинсы straight leg", "прямые брюки"]
 glossar_order: "s"
 weight: 13
 image: "images/glossar/straight-leg.png"
-image_alt: "Editoriale Grafik mit gerade fallender Hose und klaren vertikalen Linien"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Straight leg"
 relatedTerms:
-  - title: "Jeans"
+  - title: "Джинсы"
     url: "/ru/glossar/jeans/"
   - title: "Denim"
     url: "/ru/glossar/denim/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Slim Fit"
+  - title: "Slim fit"
     url: "/ru/glossar/slim-fit/"
-  - title: "Wide Leg"
+  - title: "Wide leg"
     url: "/ru/glossar/wide-leg/"
 ---

@@ -1,19 +1,19 @@
 ---
-title: "Was ist ein Mokassin?"
-term: "Mokassin"
-description: "Ein Mokassin ist ein weicher Schlupfschuh mit charakteristischer Nahtführung und entspannter, gepflegter Wirkung."
-category: "Schuhe"
-tags: ["mokassin", "schuhe", "loafer", "leder"]
-keywords: ["mokassin", "was ist ein mokassin", "mokassins kombinieren"]
+title: "Что такое мокасины?"
+term: "Мокасины"
+description: "Мокасины это мягкая обувь без шнуровки с характерной строчкой, создающая расслабленное и аккуратное впечатление."
+category: "Обувь"
+tags: ["мокасины", "обувь", "loafer", "кожа"]
+keywords: ["мокасины", "что такое мокасины", "с чем носить мокасины"]
 glossar_order: "m"
 weight: 13
 image: "images/glossar/mokassin.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Mokassin mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Мокасины"
 relatedTerms:
   - title: "Loafer"
     url: "/ru/glossar/loafer/"
-  - title: "Chinos"
+  - title: "Чиносы"
     url: "/ru/glossar/chinos/"
-  - title: "Lederjacke"
+  - title: "Кожаная куртка"
     url: "/ru/glossar/lederjacke/"
 ---

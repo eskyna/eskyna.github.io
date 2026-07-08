@@ -4,11 +4,11 @@ term: "Бохо-стиль"
 description: "Бохо-стиль — это свободный, творческий стиль с этническими элементами, создающий расслабленный образ."
 category: "Стиль и воздействие"
 tags: ["boho", "stil"]
-keywords: ["boho", "was bedeutet boho", "boho stilberatung"]
+keywords: ["boho", "что означает boho", "boho stilberatung"]
 glossar_order: "b"
 weight: 1
 image: "images/glossar/boho.png"
-image_alt: "Editoriale Glossar-Grafik zu Boho mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бохо-стиль"
 relatedTerms:
   - title: "Бохо-стиль: свободный и творческий"
     url: "/ru/glossar/signature-look/"

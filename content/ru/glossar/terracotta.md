@@ -1,30 +1,35 @@
 ---
-title: "Terracotta im Stil erklärt"
+title: "Терракотовый в контексте стиля"
 term: "Terracotta"
-description: "Terracotta ist ein erdiger Orange-Braunton, der warm, natürlich und erwachsen wirkt."
+description: "Terracotta это землистый оранжево-коричневый оттенок, который выглядит тёпло, естественно и зрело."
 category: "Цветовой словарь"
 color_hex: "#B66A4A"
-tags: ["terracotta", "farbe", "orange", "braun"]
+tags: ["terracotta", "цвет", "оранжевый", "коричневый"]
 keywords:
-  ["terracotta kleidung", "terracotta kombinieren", "erdige farben", "farbberatung terracotta"]
+  [
+    "одежда terracotta",
+    "с чем сочетать terracotta",
+    "землистые оттенки",
+    "цветовая консультация terracotta",
+  ]
 glossar_order: "t"
 weight: 17
 
 image: "images/glossar/terracotta.png"
-image_alt: "Editoriale Grafik mit Terracotta-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Terracotta"
 relatedTerms:
-  - title: "Orange"
+  - title: "Оранжевый"
     url: "/ru/glossar/orange/"
-  - title: "Braun"
+  - title: "Коричневый"
     url: "/ru/glossar/braun/"
   - title: "Camel"
     url: "/ru/glossar/camel/"
   - title: "Beige"
     url: "/ru/glossar/beige/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Senfgelb"
+  - title: "Горчичный"
     url: "/ru/glossar/senfgelb/"
-  - title: "Oliv"
+  - title: "Оливковый"
     url: "/ru/glossar/oliv/"
 ---

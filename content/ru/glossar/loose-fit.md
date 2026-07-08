@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Loose Fit?"
-term: "Loose Fit"
-description: "Loose Fit ist ein weiter, lockerer Schnitt, der bewusst Abstand zum Körper lässt."
+title: "Что означает loose fit?"
+term: "Loose fit"
+description: "Loose fit это свободный крой, который осознанно оставляет расстояние до тела."
 category: "Крой, пропорции и посадка"
-tags: ["loose fit", "schnitt proportion"]
-keywords: ["loose fit", "was bedeutet loose fit", "loose fit stilberatung"]
+tags: ["loose fit", "крой", "пропорции"]
+keywords: ["loose fit", "свободный крой", "посадка loose fit"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/loose-fit.png"
-image_alt: "Editoriale Glossar-Grafik zu Loose Fit mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Loose fit"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Акцент на талии"
     url: "/ru/glossar/taillierung/"
 ---

@@ -3,12 +3,12 @@ title: "Воздухопроницаемость ткани"
 term: "Воздухопроницаемость"
 description: "Воздухопроницаемость — это способность ткани пропускать воздух, обеспечивая комфорт и терморегуляцию."
 category: "Материалы и детали"
-tags: ["atmungsaktivitaet", "materialien"]
-keywords: ["atmungsaktivität", "was bedeutet atmungsaktivität", "atmungsaktivität stilberatung"]
+tags: ["atmungsaktivitaet", "материалы"]
+keywords: ["atmungsaktivität", "что означает atmungsaktivität", "atmungsaktivität stilberatung"]
 glossar_order: "a"
 weight: 1
 image: "images/glossar/atmungsaktivitaet.png"
-image_alt: "Editoriale Glossar-Grafik zu Atmungsaktivität mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Воздухопроницаемость"
 relatedTerms:
   - title: "Воздухопроницаемость ткани"
     url: "/ru/glossar/materialfall/"

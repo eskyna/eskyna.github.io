@@ -3,12 +3,12 @@ title: "Образ для особого события"
 term: "Образ для события"
 description: "Образ для события — это тщательно продуманный наряд для конкретного мероприятия."
 category: "Гардероб и повседневность"
-tags: ["event look", "garderobe"]
-keywords: ["event-look", "was bedeutet event-look", "event-look stilberatung"]
+tags: ["event look", "гардероб"]
+keywords: ["event-look", "что означает event-look", "event-look stilberatung"]
 glossar_order: "e"
 weight: 1
 image: "images/glossar/event-look.png"
-image_alt: "Editoriale Glossar-Grafik zu Event-Look mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для события"
 relatedTerms:
   - title: "Образ для особого события"
     url: "/ru/glossar/capsule-wardrobe/"

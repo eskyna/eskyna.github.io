@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Urban?"
+title: "Что означает urban?"
 term: "Urban"
-description: "Urban beschreibt einen städtischen, modernen Stil mit klaren Formen, praktischen Elementen und oft etwas kantiger Wirkung."
+description: "Urban описывает городской современный стиль с чёткими формами, практичными элементами и более графичным впечатлением."
 category: "Стиль и воздействие"
-tags: ["stil", "urban"]
-keywords: ["urban", "was bedeutet urban", "urban stilberatung"]
+tags: ["стиль", "urban"]
+keywords: ["urban", "что означает urban", "urban в стилизации"]
 glossar_order: "u"
 weight: 1
 image: "images/glossar/urban.png"
-image_alt: "Editoriale Glossar-Grafik zu Urban mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Urban"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

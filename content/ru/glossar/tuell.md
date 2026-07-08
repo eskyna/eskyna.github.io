@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Tüll?"
-term: "Tüll"
-description: "Tüll ist ein netzartiger, transparenter Stoff, der Volumen, Leichtigkeit oder festliche Wirkung erzeugt."
-category: "Materialien & Details"
-tags: ["materialien", "tuell"]
-keywords: ["tüll", "was bedeutet tüll", "tüll stilberatung"]
+title: "Что означает тюль?"
+term: "Тюль"
+description: "Тюль это сетчатая прозрачная ткань, которая создаёт объём, лёгкость или праздничное впечатление."
+category: "Материалы и детали"
+tags: ["материалы", "тюль"]
+keywords: ["тюль", "что означает тюль", "тюль в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/tuell.png"
-image_alt: "Editoriale Glossar-Grafik zu Tüll mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Тюль"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

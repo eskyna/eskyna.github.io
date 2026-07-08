@@ -1,24 +1,24 @@
 ---
-title: "Was ist ein T-Shirt?"
-term: "T-Shirt"
-description: "Ein T-Shirt ist ein meist kurzärmeliges Oberteil aus Jersey, das als Basic schlicht, modern oder sehr bewusst wirken kann."
+title: "Что такое T-shirt?"
+term: "T-shirt"
+description: "T-shirt это чаще всего футболка с коротким рукавом из jersey, которая в роли базы может выглядеть минималистично, современно или очень осознанно."
 category: "Гардероб и повседневность"
-tags: ["t-shirt", "basic", "baumwolle", "jersey", "passform"]
-keywords: ["t-shirt", "was ist ein t-shirt", "t-shirt kombinieren", "basic t-shirt"]
+tags: ["t-shirt", "база", "хлопок", "jersey", "посадка"]
+keywords: ["t-shirt", "что такое t-shirt", "с чем сочетать t-shirt", "базовая t-shirt"]
 glossar_order: "t"
 weight: 16
 image: "images/glossar/t-shirt.png"
-image_alt: "Editoriale Grafik mit stilisiertem T-Shirt, Jersey-Struktur und neutralen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина T-shirt"
 relatedTerms:
-  - title: "Basic"
+  - title: "База"
     url: "/ru/glossar/basic/"
-  - title: "Baumwolle"
+  - title: "Хлопок"
     url: "/ru/glossar/baumwolle/"
-  - title: "Jeans"
+  - title: "Джинсы"
     url: "/ru/glossar/jeans/"
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
   - title: "Longsleeve"
     url: "/ru/glossar/longsleeve/"

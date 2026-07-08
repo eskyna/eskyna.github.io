@@ -1,23 +1,23 @@
 ---
-title: "Kombinationsstück"
-term: "Kombinationsstück"
-description: "Ein Kombinationsstück ist ein Teil, das besonders viele Outfits ermöglicht und andere Kleidungsstücke verbindet."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "kombinationsstueck"]
-keywords: ["kombinationsstück", "was bedeutet kombinationsstück", "kombinationsstück stilberatung"]
+title: "Что означает комбинаторная вещь?"
+term: "Комбинаторная вещь"
+description: "Комбинаторная вещь это предмет одежды, который помогает создавать особенно много образов и связывает другие вещи между собой."
+category: "Гардероб и повседневность"
+tags: ["гардероб", "комбинаторная вещь"]
+keywords: ["комбинаторная вещь", "базовая вещь для сочетаний", "вещь для многих образов"]
 glossar_order: "k"
 weight: 1
 image: "images/glossar/kombinationsstueck.png"
-image_alt: "Editoriale Glossar-Grafik zu Kombinationsstück mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Комбинаторная вещь"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

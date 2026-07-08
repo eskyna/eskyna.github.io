@@ -1,22 +1,22 @@
 ---
-title: "Rollkragenpullover"
-term: "Rollkragenpullover"
-description: "Ein Rollkragenpullover ist ein Pullover mit hohem, umgeschlagenem Kragen und ruhiger, geschlossener Wirkung."
+title: "Что означает свитер с воротником-стойкой?"
+term: "Свитер с воротником-стойкой"
+description: "Свитер с воротником-стойкой это свитер с высоким отворотным воротом и спокойным, собранным характером."
 category: "Материалы и детали"
-tags: ["materialien", "rollkragenpullover"]
+tags: ["материалы", "свитер с воротником-стойкой"]
 keywords:
-  ["rollkragenpullover", "was bedeutet rollkragenpullover", "rollkragenpullover stilberatung"]
+  ["свитер с воротником-стойкой", "высокий ворот в свитере", "как носить свитер с высоким воротом"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/rollkragenpullover.png"
-image_alt: "Editoriale Glossar-Grafik zu Rollkragenpullover mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Свитер с воротником-стойкой"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

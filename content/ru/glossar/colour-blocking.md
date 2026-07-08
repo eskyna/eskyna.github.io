@@ -3,12 +3,12 @@ title: "Блокировка цвета: комбинация контрасто
 term: "Блокировка цвета"
 description: "Блокировка цвета — это техника использования ярких контрастных цветов рядом друг с другом."
 category: "Консультация по цвету и цвет"
-tags: ["colour blocking", "materialien"]
-keywords: ["colour blocking", "was bedeutet colour blocking", "colour blocking stilberatung"]
+tags: ["colour blocking", "материалы"]
+keywords: ["colour blocking", "что означает colour blocking", "colour blocking stilberatung"]
 glossar_order: "c"
 weight: 1
 image: "images/glossar/colour-blocking.png"
-image_alt: "Editoriale Glossar-Grafik zu Colour Blocking mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Блокировка цвета"
 relatedTerms:
   - title: "Блокировка цвета: комбинация контрастов"
     url: "/ru/glossar/materialfall/"

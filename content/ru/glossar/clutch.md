@@ -4,11 +4,11 @@ term: "Клатч"
 description: "Клатч — это маленькая, элегантная сумка без ручек."
 category: "Материалы и детали"
 tags: ["clutch", "tasche", "accessoire", "abendgarderobe", "festlich"]
-keywords: ["clutch", "was ist eine clutch", "clutch tasche kombinieren"]
+keywords: ["clutch", "что такое clutch", "clutch tasche kombinieren"]
 glossar_order: "c"
 weight: 13
 image: "images/glossar/clutch.png"
-image_alt: "Editoriale Grafik zu Clutch mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Клатч"
 relatedTerms:
   - title: "Клатч: вечерняя сумка"
     url: "/ru/glossar/accessoire/"

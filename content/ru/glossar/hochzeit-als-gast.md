@@ -1,23 +1,23 @@
 ---
-title: "Hochzeit als Gast"
-term: "Hochzeit als Gast"
-description: "Ein Outfit für eine Hochzeit als Gast sollte festlich, respektvoll und auf Ort, Tageszeit und Dresscode abgestimmt sein."
+title: "Свадьба в роли гостя"
+term: "Свадьба в роли гостя"
+description: "Образ для свадьбы в роли гостя должен быть торжественным, уместным и согласованным с местом, временем дня и дресс-кодом."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "hochzeit als gast"]
-keywords: ["hochzeit als gast", "was bedeutet hochzeit als gast", "hochzeit als gast stilberatung"]
+tags: ["гардероб", "свадьба в роли гостя"]
+keywords: ["свадьба в роли гостя", "что означает свадьба в роли гостя", "образ гостя на свадьбу"]
 glossar_order: "h"
 weight: 1
 image: "images/glossar/hochzeit-als-gast.png"
-image_alt: "Editoriale Glossar-Grafik zu Hochzeit als Gast mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Свадьба в роли гостя"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

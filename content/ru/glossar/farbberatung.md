@@ -4,11 +4,11 @@ term: "Консультация по цвету"
 description: "Консультация по цвету — это профессиональная услуга, помогающая найти идеальные цвета для внешности."
 category: "Консультация по цвету и цвет"
 tags: ["farbberatung", "stil"]
-keywords: ["farbberatung", "was bedeutet farbberatung", "farbberatung stilberatung"]
+keywords: ["farbberatung", "что означает farbberatung", "farbberatung stilberatung"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/farbberatung.png"
-image_alt: "Editoriale Glossar-Grafik zu Farbberatung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Консультация по цвету"
 relatedTerms:
   - title: "Консультация по цвету"
     url: "/ru/glossar/signature-look/"

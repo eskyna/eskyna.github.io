@@ -1,21 +1,21 @@
 ---
-title: "Parisian Chic"
-term: "Parisian Chic"
-description: "Parisian Chic beschreibt einen unangestrengt eleganten Stil mit klassischen Teilen, Reduktion und feinen Details."
+title: "Что означает parisian chic?"
+term: "Parisian chic"
+description: "Parisian chic описывает непринуждённо элегантный стиль с классическими вещами, минимализмом и тонкими деталями."
 category: "Стиль и воздействие"
-tags: ["parisian chic", "stil"]
-keywords: ["parisian chic", "was bedeutet parisian chic", "parisian chic stilberatung"]
+tags: ["parisian chic", "стиль"]
+keywords: ["parisian chic", "эстетика parisian chic", "французский элегантный стиль"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/parisian-chic.png"
-image_alt: "Editoriale Glossar-Grafik zu Parisian Chic mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Parisian chic"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

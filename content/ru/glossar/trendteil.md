@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Trendteil?"
-term: "Trendteil"
-description: "Ein Trendteil ist ein modisches Kleidungsstück, das eine aktuelle Richtung aufgreift und einem Look Zeitgeist geben kann."
+title: "Что означает трендовая вещь?"
+term: "Трендовая вещь"
+description: "Трендовая вещь это элемент гардероба, который отражает актуальное направление и добавляет образу ощущение времени."
 category: "Стиль и воздействие"
-tags: ["stil", "trendteil"]
-keywords: ["trendteil", "was bedeutet trendteil", "trendteil stilberatung"]
+tags: ["стиль", "трендовая вещь"]
+keywords: ["трендовая вещь", "что означает трендовая вещь", "трендовая вещь в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/trendteil.png"
-image_alt: "Editoriale Glossar-Grafik zu Trendteil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Трендовая вещь"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Schuhspitze?"
-term: "Schuhspitze"
-description: "Die Schuhspitze beschreibt die vordere Form eines Schuhs, etwa rund, spitz, eckig oder mandelförmig."
+title: "Что означает форма носка обуви?"
+term: "Форма носка обуви"
+description: "Форма носка обуви описывает переднюю часть обуви, например круглую, острую, квадратную или миндалевидную."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "schuhspitze"]
-keywords: ["schuhspitze", "was bedeutet schuhspitze", "schuhspitze stilberatung"]
+tags: ["гардероб", "форма носка обуви"]
+keywords: ["форма носка обуви", "что означает носок обуви", "выбор формы носка"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schuhspitze.png"
-image_alt: "Editoriale Glossar-Grafik zu Schuhspitze mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Форма носка обуви"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

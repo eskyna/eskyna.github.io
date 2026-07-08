@@ -4,11 +4,11 @@ term: "Кюлот"
 description: "Кюлот — это свободные брюки, похожие на юбку, идеальные для летних образов."
 category: "Крой, пропорции и посадка"
 tags: ["culotte", "hose", "proportion", "silhouette", "passform"]
-keywords: ["culotte", "was ist eine culotte", "culotte kombinieren", "weite hose"]
+keywords: ["culotte", "что такое culotte", "culotte kombinieren", "weite hose"]
 glossar_order: "c"
 weight: 11
 image: "images/glossar/culotte.png"
-image_alt: "Editoriale Grafik mit stilisierter Culotte, weiter Beinlinie und ruhigen Proportionsfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кюлот"
 relatedTerms:
   - title: "Кюлот: широкие юбка-брюки"
     url: "/ru/glossar/passform/"

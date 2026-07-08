@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Shacket?"
+title: "Что означает shacket?"
 term: "Shacket"
-description: "Ein Shacket ist eine Mischung aus Shirt und Jacket und wirkt wie eine leichte Hemdjacke."
+description: "Shacket это гибрид shirt и jacket, который воспринимается как лёгкая рубашка-куртка."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "shacket"]
-keywords: ["shacket", "was bedeutet shacket", "shacket stilberatung"]
+tags: ["гардероб", "shacket"]
+keywords: ["shacket", "что означает shacket", "как носить shacket"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/shacket.png"
-image_alt: "Editoriale Glossar-Grafik zu Shacket mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Shacket"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

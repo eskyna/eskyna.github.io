@@ -1,23 +1,23 @@
 ---
-title: "Was sind Loafer?"
+title: "Что такое loafer?"
 term: "Loafer"
-description: "Loafer sind flache Schlupfschuhe ohne Schnürung, die zwischen klassisch, modern und lässig wirken können."
+description: "Loafer это плоская обувь без шнуровки, которая может выглядеть и классически, и современно, и расслабленно."
 category: "Гардероб и повседневность"
-tags: ["loafer", "schuhe", "business casual", "accessoire", "styling"]
-keywords: ["loafer", "was sind loafer", "loafer kombinieren", "schlupfschuhe"]
+tags: ["loafer", "обувь", "business casual", "аксессуар", "стайлинг"]
+keywords: ["loafer", "что такое loafer", "с чем носить loafer", "обувь без шнуровки"]
 glossar_order: "l"
 weight: 9
 image: "images/glossar/loafer.png"
-image_alt: "Editoriale Grafik mit stilisiertem Loafer, klarer Schuhform und ruhigen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Loafer"
 relatedTerms:
-  - title: "Business Casual"
+  - title: "Деловой повседневный стиль"
     url: "/ru/glossar/business-casual/"
-  - title: "Chinos"
+  - title: "Чиносы"
     url: "/ru/glossar/chinos/"
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
 ---

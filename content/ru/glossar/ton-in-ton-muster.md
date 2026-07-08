@@ -1,21 +1,21 @@
 ---
-title: "Ton-in-Ton-Muster"
-term: "Ton-in-Ton-Muster"
-description: "Ein Ton-in-Ton-Muster nutzt ähnliche Farben und wirkt dadurch ruhiger als ein stark kontrastierender Print."
+title: "Узор тон в тон"
+term: "Узор тон в тон"
+description: "Узор тон в тон использует близкие оттенки и выглядит спокойнее, чем принт с сильным контрастом."
 category: "Материалы и детали"
-tags: ["materialien", "ton in ton muster"]
-keywords: ["ton-in-ton-muster", "was bedeutet ton-in-ton-muster", "ton-in-ton-muster stilberatung"]
+tags: ["материалы", "узор тон в тон"]
+keywords: ["узор тон в тон", "что означает узор тон в тон", "узор тон в тон в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/ton-in-ton-muster.png"
-image_alt: "Editoriale Glossar-Grafik zu Ton-in-Ton-Muster mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Узор тон в тон"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Parka?"
+title: "Что означает parka?"
 term: "Parka"
-description: "Ein Parka ist eine längere, funktionale Jacke mit Kapuze, oft mit sportlicher oder urbaner Wirkung."
+description: "Parka это удлинённая функциональная куртка с капюшоном, часто со спортивным или городским характером."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "parka"]
-keywords: ["parka", "was bedeutet parka", "parka stilberatung"]
+tags: ["гардероб", "parka"]
+keywords: ["parka", "что означает parka", "как носить parka"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/parka.png"
-image_alt: "Editoriale Glossar-Grafik zu Parka mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Parka"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

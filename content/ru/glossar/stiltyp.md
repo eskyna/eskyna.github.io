@@ -1,19 +1,19 @@
 ---
-title: "Was bedeutet Stiltyp?"
-term: "Stiltyp"
-description: "Ein Stiltyp beschreibt wiederkehrende stilistische Vorlieben, etwa klassisch, modern, romantisch, lässig oder elegant."
+title: "Что означает стилевой тип?"
+term: "Стилевой тип"
+description: "Стилевой тип описывает повторяющиеся стилевые предпочтения, например классические, современные, романтичные, расслабленные или элегантные."
 category: "Стиль и воздействие"
-tags: ["stil", "stiltyp"]
-keywords: ["stiltyp", "was bedeutet stiltyp", "stiltyp stilberatung"]
+tags: ["стиль", "стилевой тип"]
+keywords: ["стилевой тип", "что означает стилевой тип", "стилевой тип в консультации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stiltyp.png"
-image_alt: "Editoriale Glossar-Grafik zu Stiltyp mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевой тип"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

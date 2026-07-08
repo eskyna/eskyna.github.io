@@ -1,22 +1,21 @@
 ---
-title: "Rundhalsausschnitt"
-term: "Rundhalsausschnitt"
-description: "Ein Rundhalsausschnitt ist ein runder, geschlossener Ausschnitt mit schlichter und oft ruhiger Wirkung."
+title: "Что означает круглый вырез?"
+term: "Круглый вырез"
+description: "Круглый вырез это закрытая округлая линия горловины со сдержанным и спокойным визуальным эффектом."
 category: "Материалы и детали"
-tags: ["materialien", "rundhalsausschnitt"]
-keywords:
-  ["rundhalsausschnitt", "was bedeutet rundhalsausschnitt", "rundhalsausschnitt stilberatung"]
+tags: ["материалы", "круглый вырез"]
+keywords: ["круглый вырез", "вырез crew neck", "как работает круглый вырез"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/rundhalsausschnitt.png"
-image_alt: "Editoriale Glossar-Grafik zu Rundhalsausschnitt mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Круглый вырез"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

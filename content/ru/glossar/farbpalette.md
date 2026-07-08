@@ -3,13 +3,13 @@ title: "Ваша цветовая палитра"
 term: "Цветовая палитра"
 description: "Цветовая палитра — это набор цветов, которые идеально подчёркивают вашу естественную красоту."
 category: "Консультация по цвету и цвет"
-tags: ["farbpalette", "farbberatung", "capsule wardrobe", "garderobe"]
+tags: ["farbpalette", "farbberatung", "capsule wardrobe", "гардероб"]
 keywords:
   ["farbpalette garderobe", "farbpalette erstellen", "farben kombinieren", "stilberatung farben"]
 glossar_order: "f"
 weight: 25
 image: "images/glossar/farbpalette.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Farbpalette mit ruhigen Farbfeldern und klarer Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Цветовая палитра"
 relatedTerms:
   - title: "Ваша цветовая палитра"
     url: "/ru/glossar/farbtyp/"

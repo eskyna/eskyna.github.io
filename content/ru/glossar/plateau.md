@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Plateau?"
-term: "Plateau"
-description: "Plateau bezeichnet eine erhöhte Sohle unter dem Vorderfuß oder dem gesamten Schuh."
+title: "Что означает платформа?"
+term: "Платформа"
+description: "Платформа обозначает приподнятую подошву под передней частью стопы или по всей длине обуви."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "plateau"]
-keywords: ["plateau", "was bedeutet plateau", "plateau stilberatung"]
+tags: ["гардероб", "платформа"]
+keywords: ["платформа", "обувь на платформе", "как носить платформу"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/plateau.png"
-image_alt: "Editoriale Glossar-Grafik zu Plateau mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Платформа"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

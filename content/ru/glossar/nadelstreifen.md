@@ -1,21 +1,21 @@
 ---
-title: "Nadelstreifen"
-term: "Nadelstreifen"
-description: "Nadelstreifen sind sehr feine, schmale Streifen, die besonders bei Anzügen und Businessstoffen vorkommen."
+title: "Что означает тонкая полоска?"
+term: "Тонкая полоска"
+description: "Тонкая полоска это очень узкие линии, которые особенно часто встречаются в костюмных и деловых тканях."
 category: "Материалы и детали"
-tags: ["materialien", "nadelstreifen"]
-keywords: ["nadelstreifen", "was bedeutet nadelstreifen", "nadelstreifen stilberatung"]
+tags: ["материалы", "тонкая полоска"]
+keywords: ["тонкая полоска", "полоска pinstripe", "костюмная полоска"]
 glossar_order: "n"
 weight: 1
 image: "images/glossar/nadelstreifen.png"
-image_alt: "Editoriale Glossar-Grafik zu Nadelstreifen mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Тонкая полоска"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Peplum-Top?"
-term: "Peplum-Top"
-description: "Ein Peplum-Top ist ein tailliertes Oberteil mit ausgestelltem Volant unterhalb der Taille."
+title: "Что означает peplum top?"
+term: "Peplum top"
+description: "Peplum top это приталенный верх с расклешённым воланом ниже линии талии."
 category: "Материалы и детали"
-tags: ["materialien", "peplum top"]
-keywords: ["peplum-top", "was bedeutet peplum-top", "peplum-top stilberatung"]
+tags: ["материалы", "peplum top"]
+keywords: ["peplum top", "топ с баской", "приталенный верх с воланом"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/peplum-top.png"
-image_alt: "Editoriale Glossar-Grafik zu Peplum-Top mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Peplum top"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

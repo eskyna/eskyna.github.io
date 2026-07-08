@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Stilprofil?"
-term: "Stilprofil"
-description: "Ein Stilprofil fasst die wichtigsten Stilrichtungen, Farben, Formen und Wirkungsziele einer Person zusammen."
+title: "Что означает стилевой профиль?"
+term: "Стилевой профиль"
+description: "Стилевой профиль объединяет главные стилевые направления, цвета, формы и цели впечатления одного человека."
 category: "Стиль и воздействие"
-tags: ["stil", "stilprofil"]
-keywords: ["stilprofil", "was bedeutet stilprofil", "stilprofil stilberatung"]
+tags: ["стиль", "стилевой профиль"]
+keywords: ["стилевой профиль", "что означает стилевой профиль", "персональный стилевой профиль"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/stilprofil.png"
-image_alt: "Editoriale Glossar-Grafik zu Stilprofil mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевой профиль"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

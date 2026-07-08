@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Transparenz?"
-term: "Transparenz"
-description: "Transparenz beschreibt, wie stark Licht, Haut oder darunterliegende Kleidung durch einen Stoff sichtbar werden."
+title: "Что означает прозрачность?"
+term: "Прозрачность"
+description: "Прозрачность описывает, насколько через ткань видны свет, кожа или нижний слой одежды."
 category: "Материалы и детали"
-tags: ["materialien", "transparenz"]
-keywords: ["transparenz", "was bedeutet transparenz", "transparenz stilberatung"]
+tags: ["материалы", "прозрачность"]
+keywords: ["прозрачность", "что означает прозрачность", "прозрачность в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/transparenz.png"
-image_alt: "Editoriale Glossar-Grafik zu Transparenz mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Прозрачность"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

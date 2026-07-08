@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Wollmantel?"
-term: "Wollmantel"
-description: "Ein Wollmantel ist ein Mantel aus Wolle oder Wollmischung mit wärmender, strukturierter und oft eleganter Wirkung."
+title: "Что означает шерстяное пальто?"
+term: "Шерстяное пальто"
+description: "Шерстяное пальто это пальто из шерсти или смесовой шерстяной ткани с тёплым, структурным и часто элегантным впечатлением."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "wollmantel"]
-keywords: ["wollmantel", "was bedeutet wollmantel", "wollmantel stilberatung"]
+tags: ["гардероб", "шерстяное пальто"]
+keywords: ["шерстяное пальто", "что означает шерстяное пальто", "шерстяное пальто в стилизации"]
 glossar_order: "w"
 weight: 1
 image: "images/glossar/wollmantel.png"
-image_alt: "Editoriale Glossar-Grafik zu Wollmantel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шерстяное пальто"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

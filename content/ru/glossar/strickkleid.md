@@ -1,21 +1,22 @@
 ---
-title: "Was ist ein Strickkleid?"
-term: "Strickkleid"
-description: "Ein Strickkleid ist ein Kleid aus Maschenware und verbindet Komfort mit einer weichen, körpernahen oder lockeren Silhouette."
-category: "Kleider & Röcke"
-tags: ["strickkleid", "kleid", "strick", "pullover"]
-keywords: ["strickkleid", "was ist ein strickkleid", "strickkleid kombinieren"]
+title: "Что такое трикотажное платье?"
+term: "Трикотажное платье"
+description: "Трикотажное платье это платье из вязаного полотна, которое сочетает комфорт с мягким, прилегающим или более свободным силуэтом."
+category: "Гардероб и повседневность"
+tags: ["трикотажное платье", "платье", "трикотаж", "пуловер"]
+keywords:
+  ["трикотажное платье", "что такое трикотажное платье", "с чем сочетать трикотажное платье"]
 glossar_order: "s"
 weight: 8
 image: "images/glossar/strickkleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Strickkleid mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Трикотажное платье"
 relatedTerms:
-  - title: "Pullover"
+  - title: "Пуловер"
     url: "/ru/glossar/pullover/"
-  - title: "Cardigan"
+  - title: "Кардиган"
     url: "/ru/glossar/cardigan/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
 ---

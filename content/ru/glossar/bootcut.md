@@ -10,12 +10,12 @@ tags:
   - "passform"
 keywords:
   - "bootcut"
-  - "was bedeutet bootcut"
+  - "что означает bootcut"
   - "bootcut jeans kombinieren"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/bootcut.png"
-image_alt: "Editoriale Grafik zu Bootcut mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бутcut"
 relatedTerms:
   - title: "Брюки Bootcut в посадке"
     url: "/ru/glossar/jeans/"

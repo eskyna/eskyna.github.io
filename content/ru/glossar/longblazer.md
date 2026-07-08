@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Longblazer?"
-term: "Longblazer"
-description: "Ein Longblazer ist ein länger geschnittener Blazer, der Hüfte oder Oberschenkel bedeckt und eine klare vertikale Linie erzeugt."
+title: "Что означает удлинённый блейзер?"
+term: "Удлинённый блейзер"
+description: "Удлинённый блейзер это блейзер увеличенной длины, который закрывает бёдра или часть бедра и создаёт чёткую вертикальную линию."
 category: "Гардероб и повседневность"
-tags: ["garderobe", "longblazer"]
-keywords: ["longblazer", "was bedeutet longblazer", "longblazer stilberatung"]
+tags: ["гардероб", "удлинённый блейзер"]
+keywords: ["удлинённый блейзер", "блейзер увеличенной длины", "как носить удлинённый блейзер"]
 glossar_order: "l"
 weight: 1
 image: "images/glossar/longblazer.png"
-image_alt: "Editoriale Glossar-Grafik zu Longblazer mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Удлинённый блейзер"
 relatedTerms:
-  - title: "Capsule Wardrobe"
+  - title: "Капсульный гардероб"
     url: "/ru/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
+  - title: "Формула образа"
     url: "/ru/glossar/outfit-formel/"
-  - title: "Key-Piece"
+  - title: "Ключевая вещь"
     url: "/ru/glossar/key-piece/"
-  - title: "Fehlkauf"
+  - title: "Неудачная покупка"
     url: "/ru/glossar/fehlkauf/"
 ---

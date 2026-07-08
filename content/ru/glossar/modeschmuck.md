@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Modeschmuck?"
-term: "Modeschmuck"
-description: "Modeschmuck ist Schmuck ohne Anspruch auf Edelmetall oder Edelstein und wird vor allem als Stilakzent eingesetzt."
+title: "Что означает бижутерия?"
+term: "Бижутерия"
+description: "Бижутерия это украшения без претензии на драгоценные металлы и камни, которые прежде всего работают как стилевой акцент."
 category: "Материалы и детали"
-tags: ["materialien", "modeschmuck"]
-keywords: ["modeschmuck", "was bedeutet modeschmuck", "modeschmuck stilberatung"]
+tags: ["материалы", "бижутерия"]
+keywords: ["бижутерия", "что такое бижутерия", "акцентные украшения"]
 glossar_order: "m"
 weight: 1
 image: "images/glossar/modeschmuck.png"
-image_alt: "Editoriale Glossar-Grafik zu Modeschmuck mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Бижутерия"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

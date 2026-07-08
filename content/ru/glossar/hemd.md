@@ -1,24 +1,24 @@
 ---
-title: "Was ist ein Hemd?"
-term: "Hemd"
-description: "Ein Hemd ist ein Oberteil mit Kragen und Knopfleiste, das je nach Schnitt klassisch, lässig oder modern wirken kann."
+title: "Что такое рубашка?"
+term: "Рубашка"
+description: "Рубашка это верх с воротником и планкой на пуговицах, который в зависимости от кроя может выглядеть классически, расслабленно или современно."
 category: "Гардероб и повседневность"
-tags: ["hemd", "oberteil", "business casual", "baumwolle", "passform"]
-keywords: ["hemd", "was ist ein hemd", "hemd kombinieren", "hemd passform"]
+tags: ["рубашка", "верх", "business casual", "хлопок", "посадка"]
+keywords: ["рубашка", "как носить рубашку", "сочетание рубашки", "посадка рубашки"]
 glossar_order: "h"
 weight: 14
 image: "images/glossar/hemd.png"
-image_alt: "Editoriale Grafik mit stilisiertem Hemd, Kragen, Knopfleiste und ruhigen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Рубашка"
 relatedTerms:
-  - title: "Bluse"
+  - title: "Блуза"
     url: "/ru/glossar/bluse/"
-  - title: "T-Shirt"
+  - title: "Футболка"
     url: "/ru/glossar/t-shirt/"
-  - title: "Business Casual"
+  - title: "Деловой повседневный стиль"
     url: "/ru/glossar/business-casual/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Baumwolle"
+  - title: "Хлопок"
     url: "/ru/glossar/baumwolle/"
   - title: "Overshirt"
     url: "/ru/glossar/overshirt/"

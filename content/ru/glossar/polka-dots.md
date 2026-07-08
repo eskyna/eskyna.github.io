@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Polka Dots?"
-term: "Polka Dots"
-description: "Polka Dots sind klassische Punktemuster mit regelmäßiger Anordnung und oft femininer oder retrohafter Wirkung."
+title: "Что означает polka dots?"
+term: "Polka dots"
+description: "Polka dots это классический узор в горошек с регулярным ритмом, который часто создаёт женственное или ретро-впечатление."
 category: "Материалы и детали"
-tags: ["materialien", "polka dots"]
-keywords: ["polka dots", "was bedeutet polka dots", "polka dots stilberatung"]
+tags: ["материалы", "polka dots"]
+keywords: ["polka dots", "узор в горошек", "горошек в стилизации"]
 glossar_order: "p"
 weight: 1
 image: "images/glossar/polka-dots.png"
-image_alt: "Editoriale Glossar-Grafik zu Polka Dots mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Polka dots"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

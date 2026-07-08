@@ -1,21 +1,21 @@
 ---
-title: "Was ist ein Midirock?"
-term: "Midirock"
-description: "Ein Midirock endet zwischen Knie und Knöchel und ist eine vielseitige Rocklänge für Alltag, Business und Anlass."
-category: "Kleider & Röcke"
-tags: ["midirock", "rock", "saumlänge", "proportion"]
-keywords: ["midirock", "was ist ein midirock", "midirock kombinieren"]
+title: "Что такое миди-юбка?"
+term: "Миди-юбка"
+description: "Миди-юбка заканчивается между коленом и щиколоткой и остаётся универсальной длиной для повседневных, деловых и особых выходов."
+category: "Платья и юбки"
+tags: ["миди-юбка", "юбка", "длина края", "пропорции"]
+keywords: ["миди-юбка", "что такое миди-юбка", "с чем носить миди-юбку"]
 glossar_order: "m"
 weight: 9
 image: "images/glossar/midirock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Midirock mit ruhigen Formen und feinen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Миди-юбка"
 relatedTerms:
-  - title: "Rocklänge"
+  - title: "Длина юбки"
     url: "/ru/glossar/rocklange/"
-  - title: "Plisseerock"
+  - title: "Плиссированная юбка"
     url: "/ru/glossar/plisseerock/"
-  - title: "Bleistiftrock"
+  - title: "Юбка-карандаш"
     url: "/ru/glossar/bleistiftrock/"
-  - title: "Saumlänge"
+  - title: "Длина края"
     url: "/ru/glossar/saumlange/"
 ---

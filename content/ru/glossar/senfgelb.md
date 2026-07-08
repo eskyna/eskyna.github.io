@@ -1,24 +1,25 @@
 ---
-title: "Senfgelb im Stil erklärt"
-term: "Senfgelb"
-description: "Senfgelb ist ein warmes, gedämpftes Gelb. Es wirkt erdiger und erwachsener als klares Gelb."
+title: "Горчичный в контексте стиля"
+term: "Горчичный"
+description: "Горчичный это тёплый приглушённый жёлтый. Он выглядит более землистым и взрослым, чем чистый жёлтый."
 category: "Цветовой словарь"
 color_hex: "#B78A2A"
-tags: ["senfgelb", "gelb", "farbe", "warme farben", "farbberatung"]
-keywords: ["senfgelb kleidung", "senfgelb kombinieren", "senfgelbe hose", "farbberatung"]
+tags: ["горчичный", "жёлтый", "цвет", "тёплые цвета", "цветовая консультация"]
+keywords:
+  ["горчичная одежда", "с чем сочетать горчичный", "горчичные брюки", "цветовая консультация"]
 glossar_order: "s"
 weight: 27
 image: "images/glossar/senfgelb.png"
-image_alt: "Editoriale Grafik zu Senfgelb mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Горчичный"
 relatedTerms:
-  - title: "Gelb"
+  - title: "Жёлтый"
     url: "/ru/glossar/gelb/"
   - title: "Camel"
     url: "/ru/glossar/camel/"
-  - title: "Braun"
+  - title: "Коричневый"
     url: "/ru/glossar/braun/"
-  - title: "Oliv"
+  - title: "Оливковый"
     url: "/ru/glossar/oliv/"
-  - title: "Terracotta"
+  - title: "Терракотовый"
     url: "/ru/glossar/terracotta/"
 ---

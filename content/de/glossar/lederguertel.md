@@ -3,7 +3,7 @@ title: "Was bedeutet Ledergürtel?"
 term: "Ledergürtel"
 description: "Ein Ledergürtel ist ein klassisches Accessoire, das Hose, Rock oder Kleid strukturiert und den Look abschließt."
 category: "Materialien & Details"
-tags: ["lederguertel", "materialien"]
+tags: ["ledergürtel", "materialien"]
 keywords: ["ledergürtel", "was bedeutet ledergürtel", "ledergürtel stilberatung"]
 glossar_order: "l"
 weight: 1

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Taillierung?"
-term: "Taillierung"
-description: "Taillierung beschreibt, wie Kleidung die Körpermitte formt oder betont, durch Schnitt, Abnäher, Gürtel oder Styling."
+title: "Что означает приталивание?"
+term: "Приталивание"
+description: "Приталивание описывает, как одежда формирует или подчёркивает центр фигуры через крой, вытачки, пояс или стилизацию."
 category: "Крой, пропорции и посадка"
-tags: ["taillierung", "schnitt", "passform", "silhouette", "proportion"]
-keywords: ["taillierung", "was bedeutet taillierung", "taillierter schnitt", "taille betonen"]
+tags: ["приталивание", "крой", "посадка", "силуэт", "пропорции"]
+keywords: ["приталивание", "что означает приталивание", "приталенный крой", "как подчеркнуть талию"]
 glossar_order: "t"
 weight: 14
 image: "images/glossar/taillierung.png"
-image_alt: "Editoriale Grafik mit taillierter Silhouette, Gürtel und feinen Linien zur Körpermitte"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Приталивание"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "A-Linie"
+  - title: "А-силуэт"
     url: "/ru/glossar/a-linie/"
-  - title: "Blazer"
+  - title: "Блейзер"
     url: "/ru/glossar/blazer/"
 ---

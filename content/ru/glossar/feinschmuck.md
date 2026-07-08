@@ -1,23 +1,23 @@
 ---
-title: "Was ist Feinschmuck?"
-term: "Feinschmuck"
-description: "Feinschmuck beschreibt zurückhaltenden, oft hochwertigen Schmuck, der leise wirkt und einen Look präzise verfeinert."
+title: "Что такое изящные украшения?"
+term: "Изящные украшения"
+description: "Изящные украшения описывают сдержанные, часто качественные украшения, которые выглядят деликатно и точно завершают образ."
 category: "Материалы и детали"
-tags: ["feinschmuck", "schmuck", "accessoire", "gold", "silber"]
-keywords: ["feinschmuck", "was ist feinschmuck", "feinen schmuck kombinieren"]
+tags: ["изящные украшения", "украшения", "аксессуар", "золото", "серебро"]
+keywords: ["изящные украшения", "деликатные украшения", "как сочетать тонкие украшения"]
 glossar_order: "f"
 weight: 22
 image: "images/glossar/feinschmuck.png"
-image_alt: "Editoriale Grafik zu Feinschmuck mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Изящные украшения"
 relatedTerms:
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Gold"
+  - title: "Золото"
     url: "/ru/glossar/gold/"
-  - title: "Silber"
+  - title: "Серебро"
     url: "/ru/glossar/silber/"
-  - title: "Creolen"
+  - title: "Серьги-кольца"
     url: "/ru/glossar/creolen/"
-  - title: "Quiet Luxury"
+  - title: "Тихая роскошь"
     url: "/ru/glossar/quiet-luxury/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Spitze?"
-term: "Spitze"
-description: "Spitze ist ein durchbrochenes, dekoratives Material, das je nach Einsatz zart, festlich oder modern wirken kann."
+title: "Что означает кружево?"
+term: "Кружево"
+description: "Кружево это ажурный декоративный материал, который в зависимости от подачи может выглядеть нежно, празднично или современно."
 category: "Материалы и детали"
-tags: ["materialien", "spitze"]
-keywords: ["spitze", "was bedeutet spitze", "spitze stilberatung"]
+tags: ["материалы", "кружево"]
+keywords: ["кружево", "что означает кружево", "кружево в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/spitze.png"
-image_alt: "Editoriale Glossar-Grafik zu Spitze mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Кружево"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

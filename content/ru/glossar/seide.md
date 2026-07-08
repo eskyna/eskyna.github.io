@@ -1,27 +1,27 @@
 ---
-title: "Was ist Seide?"
-term: "Seide"
-description: "Seide ist eine feine Naturfaser mit edlem Glanz, weichem Fall und einer besonders ruhigen, hochwertigen Wirkung."
+title: "Что такое шёлк?"
+term: "Шёлк"
+description: "Шёлк это тонкое натуральное волокно с благородным блеском, мягкой пластикой и особенно спокойным премиальным впечатлением."
 category: "Материалы и детали"
-tags: ["seide", "material", "naturfaser", "glanz", "eleganz"]
-keywords: ["seide", "was ist seide", "seide kleidung", "seidenbluse"]
+tags: ["шёлк", "материал", "натуральное волокно", "блеск", "элегантность"]
+keywords: ["шёлк", "что такое шёлк", "шёлковая одежда", "шёлковая блуза"]
 glossar_order: "s"
 weight: 4
 image: "images/glossar/seide.png"
-image_alt: "Editoriale Grafik mit schimmernder Seidenbahn, feiner Lichtkante und ruhigen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шёлк"
 relatedTerms:
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Viskose"
+  - title: "Вискоза"
     url: "/ru/glossar/viskose/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
   - title: "Camisole"
     url: "/ru/glossar/camisole/"
-  - title: "Slip Dress"
+  - title: "Slip dress"
     url: "/ru/glossar/slip-dress/"
 ---

@@ -1,24 +1,30 @@
 ---
-title: "Fuchsia im Stil erklärt"
-term: "Fuchsia"
-description: "Fuchsia ist ein intensiver Ton zwischen Pink und Violett. Die Farbe wirkt präsent, modern und selbstbewusst."
+title: "Фуксия в контексте стиля"
+term: "Фуксия"
+description: "Фуксия это насыщенный оттенок между розовым и фиолетовым. Этот цвет выглядит заметно, современно и уверенно."
 category: "Цветовой словарь"
 color_hex: "#C21873"
-tags: ["fuchsia", "pink", "rosa", "violett", "farbberatung"]
-keywords: ["fuchsia kleidung", "fuchsia kombinieren", "pink violett", "farbberatung"]
+tags: ["фуксия", "розовый", "фиолетовый", "цветовая консультация"]
+keywords:
+  [
+    "одежда цвета фуксии",
+    "с чем сочетать фуксию",
+    "розово-фиолетовый оттенок",
+    "цветовая консультация",
+  ]
 glossar_order: "f"
 weight: 28
 image: "images/glossar/fuchsia.png"
-image_alt: "Editoriale Grafik zu Fuchsia mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Фуксия"
 relatedTerms:
-  - title: "Pink"
+  - title: "Розовый"
     url: "/ru/glossar/pink/"
-  - title: "Rosa"
+  - title: "Пастельно-розовый"
     url: "/ru/glossar/rosa/"
-  - title: "Violett"
+  - title: "Фиолетовый"
     url: "/ru/glossar/violett/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
 ---

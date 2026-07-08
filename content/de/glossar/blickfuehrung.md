@@ -3,7 +3,7 @@ title: "Was bedeutet Blickführung?"
 term: "Blickführung"
 description: "Blickführung beschreibt, wie Linien, Farben, Kontraste und Details den Blick im Outfit lenken."
 category: "Stil & Wirkung"
-tags: ["blickfuehrung", "stil"]
+tags: ["blickführung", "stil"]
 keywords: ["blickführung", "was bedeutet blickführung", "blickführung stilberatung"]
 glossar_order: "b"
 weight: 1

@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Raglanärmel?"
-term: "Raglanärmel"
-description: "Ein Raglanärmel verläuft diagonal vom Halsbereich zur Achsel und wirkt weicher als eine klassische Schulternaht."
-category: "Schnitt, Proportion & Passform"
-tags: ["raglanaermel", "schnitt proportion"]
-keywords: ["raglanärmel", "was bedeutet raglanärmel", "raglanärmel stilberatung"]
+title: "Что означает рукав реглан?"
+term: "Рукав реглан"
+description: "Рукав реглан идёт по диагонали от зоны шеи к подмышке и выглядит мягче, чем классический плечевой шов."
+category: "Крой, пропорции и посадка"
+tags: ["рукав реглан", "крой", "пропорции"]
+keywords: ["рукав реглан", "что означает реглан", "реглан в одежде"]
 glossar_order: "r"
 weight: 1
 image: "images/glossar/raglanaermel.png"
-image_alt: "Editoriale Glossar-Grafik zu Raglanärmel mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Рукав реглан"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

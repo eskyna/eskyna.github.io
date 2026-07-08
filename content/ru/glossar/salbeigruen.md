@@ -1,24 +1,30 @@
 ---
-title: "Salbeigrün im Stil erklärt"
-term: "Salbeigrün"
-description: "Salbeigrün ist ein gedämpftes Grün mit Grauanteil. Es wirkt ruhig, modern und natürlich."
-category: "Farb-Lexikon"
+title: "Шалфейно-зелёный в контексте стиля"
+term: "Шалфейно-зелёный"
+description: "Шалфейно-зелёный это приглушённый зелёный с серым подтоном. Он выглядит спокойно, современно и естественно."
+category: "Цветовой словарь"
 color_hex: "#A0A990"
-tags: ["salbeigruen", "salbeigrün", "gruen", "farbe", "farbberatung"]
-keywords: ["salbeigrün kleidung", "salbeigrün kombinieren", "gedämpftes grün", "farbberatung"]
+tags: ["шалфейно-зелёный", "зелёный", "цвет", "цветовая консультация"]
+keywords:
+  [
+    "одежда шалфейно-зелёного цвета",
+    "с чем сочетать шалфейно-зелёный",
+    "приглушённый зелёный",
+    "цветовая консультация",
+  ]
 glossar_order: "s"
 weight: 23
 image: "images/glossar/salbeigruen.png"
-image_alt: "Editoriale Grafik zu Salbeigrün mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Шалфейно-зелёный"
 relatedTerms:
-  - title: "Grün"
+  - title: "Зелёный"
     url: "/ru/glossar/gruen/"
-  - title: "Oliv"
+  - title: "Оливковый"
     url: "/ru/glossar/oliv/"
-  - title: "Beige"
+  - title: "Бежевый"
     url: "/ru/glossar/beige/"
-  - title: "Creme"
+  - title: "Кремовый"
     url: "/ru/glossar/creme/"
-  - title: "Sättigung"
+  - title: "Насыщенность цвета"
     url: "/ru/glossar/saettigung/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Top?"
+title: "Что означает top?"
 term: "Top"
-description: "Ein Top ist ein leichtes Oberteil, meist ohne Ärmel oder mit schmalen Trägern, das solo oder unter Jacken getragen wird."
+description: "Top это лёгкий верх, чаще без рукавов или на тонких бретелях, который носят отдельно или под жакеты и куртки."
 category: "Материалы и детали"
-tags: ["materialien", "top"]
-keywords: ["top", "was bedeutet top", "top stilberatung"]
+tags: ["материалы", "top"]
+keywords: ["top", "что означает top", "top в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/top.png"
-image_alt: "Editoriale Glossar-Grafik zu Top mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Top"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

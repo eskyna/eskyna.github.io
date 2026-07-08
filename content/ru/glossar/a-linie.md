@@ -4,11 +4,11 @@ term: "A-силуэт"
 description: "A-силуэт — это форма одежды, которая расширяется от плеч к низу, как буква A, создавая гармоничные пропорции."
 category: "Крой, пропорции и посадка"
 tags: ["a-linie", "schnitt", "silhouette", "proportion", "kleid"]
-keywords: ["a-linie", "was bedeutet a-linie", "a-linien kleid", "a-linien rock"]
+keywords: ["a-linie", "что означает a-linie", "a-linien kleid", "a-linien rock"]
 glossar_order: "a"
 weight: 6
 image: "images/glossar/a-linie.png"
-image_alt: "Editoriale Grafik mit stilisierter A-Linie als Kleidform und feinen Proportionslinien"
+image_alt: "Иллюстрация глоссария ESKYNA для термина A-силуэт"
 relatedTerms:
   - title: "A-силуэт в стайлинге"
     url: "/ru/glossar/silhouette/"

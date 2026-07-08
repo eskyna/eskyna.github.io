@@ -4,11 +4,11 @@ term: "Цвет"
 description: "Цвет — это один из главных инструментов для выражения стиля и создания гармоничного образа."
 category: "Консультация по цвету и цвет"
 tags: ["farbberatung", "farbe"]
-keywords: ["farbe", "was bedeutet farbe", "farbe stilberatung"]
+keywords: ["farbe", "что означает farbe", "farbe stilberatung"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/farbe.png"
-image_alt: "Editoriale Glossar-Grafik zu Farbe mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Цвет"
 relatedTerms:
   - title: "Цвет в образе"
     url: "/ru/glossar/farbtyp/"

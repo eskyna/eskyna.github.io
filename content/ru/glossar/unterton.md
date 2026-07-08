@@ -1,23 +1,23 @@
 ---
-title: "Was ist ein Unterton?"
-term: "Unterton"
-description: "Der Unterton zeigt, ob eine Farbe warm, kühl oder neutral wirkt und warum Nuancen am Gesicht so unterschiedlich aussehen."
+title: "Что такое подтон?"
+term: "Подтон"
+description: "Подтон показывает, воспринимается ли цвет как тёплый, холодный или нейтральный, и объясняет, почему оттенки у лица выглядят по-разному."
 category: "Консультация по цвету и цвет"
-tags: ["unterton", "farbberatung", "farbtemperatur", "farben"]
-keywords: ["unterton", "warme farben", "kühle farben", "farbberatung"]
+tags: ["подтон", "цветовая консультация", "цветовая температура", "цвета"]
+keywords: ["подтон", "тёплые цвета", "холодные цвета", "цветовая консультация"]
 glossar_order: "u"
 weight: 2
 image: "images/glossar/unterton.png"
-image_alt: "Grafik mit warmen, neutralen und kühlen Farbtönen zur Erklärung des Untertons"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Подтон"
 relatedTerms:
-  - title: "Farbtyp"
+  - title: "Цветотип"
     url: "/ru/glossar/farbtyp/"
-  - title: "Kontrast"
+  - title: "Контраст"
     url: "/ru/glossar/kontrast/"
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
-  - title: "Farbtemperatur"
+  - title: "Цветовая температура"
     url: "/ru/glossar/farbtemperatur/"
-  - title: "Sättigung"
+  - title: "Насыщенность"
     url: "/ru/glossar/saettigung/"
 ---

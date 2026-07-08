@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Futter?"
-term: "Futter"
-description: "Futter ist die innere Stofflage in Jacken, Mänteln, Röcken oder Kleidern und beeinflusst Fall, Komfort und Qualität."
+title: "Что означает подкладка?"
+term: "Подкладка"
+description: "Подкладка это внутренний слой ткани в жакетах, пальто, юбках или платьях, который влияет на посадку, комфорт и качество вещи."
 category: "Материалы и детали"
-tags: ["futter", "materialien"]
-keywords: ["futter", "was bedeutet futter", "futter stilberatung"]
+tags: ["подкладка", "материалы"]
+keywords: ["подкладка", "внутренний слой ткани", "качество подкладки"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/futter.png"
-image_alt: "Editoriale Glossar-Grafik zu Futter mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Подкладка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
-  - title: "Qualität"
+  - title: "Качество"
     url: "/ru/glossar/qualitaet/"
 ---

@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Grobstrick?"
-term: "Grobstrick"
-description: "Grobstrick ist ein sichtbarer, voluminöser Strick mit Struktur und einer weicheren, gemütlicheren Wirkung."
+title: "Что означает грубая вязка?"
+term: "Грубая вязка"
+description: "Грубая вязка это заметный объёмный трикотаж с выраженной фактурой и более мягким, уютным впечатлением."
 category: "Материалы и детали"
-tags: ["grobstrick", "materialien"]
-keywords: ["grobstrick", "was bedeutet grobstrick", "grobstrick stilberatung"]
+tags: ["грубая вязка", "материалы"]
+keywords: ["грубая вязка", "объёмный трикотаж", "фактурная вязка"]
 glossar_order: "g"
 weight: 1
 image: "images/glossar/grobstrick.png"
-image_alt: "Editoriale Glossar-Grafik zu Grobstrick mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Грубая вязка"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

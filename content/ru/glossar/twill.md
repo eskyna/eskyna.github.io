@@ -1,21 +1,21 @@
 ---
-title: "Was bedeutet Twill?"
+title: "Что означает twill?"
 term: "Twill"
-description: "Twill ist ein Gewebe mit diagonaler Struktur, das bei Chinos, Trenchcoats und robusteren Stoffen vorkommt."
+description: "Twill это переплетение с диагональной фактурой, которое встречается в chinos, trenchcoat и более плотных тканях."
 category: "Материалы и детали"
-tags: ["materialien", "twill"]
-keywords: ["twill", "was bedeutet twill", "twill stilberatung"]
+tags: ["материалы", "twill"]
+keywords: ["twill", "что означает twill", "twill в стилизации"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/twill.png"
-image_alt: "Editoriale Glossar-Grafik zu Twill mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Twill"
 relatedTerms:
-  - title: "Materialfall"
+  - title: "Пластика материала"
     url: "/ru/glossar/materialfall/"
-  - title: "Struktur"
+  - title: "Фактура"
     url: "/ru/glossar/struktur/"
-  - title: "Glanzgrad"
+  - title: "Степень блеска"
     url: "/ru/glossar/glanzgrad/"
-  - title: "Accessoire"
+  - title: "Аксессуар"
     url: "/ru/glossar/accessoire/"
 ---

@@ -10,12 +10,12 @@ tags:
   - "schnitt"
 keywords:
   - "bundfaltenhose"
-  - "was ist eine bundfaltenhose"
+  - "что такое bundfaltenhose"
   - "bundfaltenhose kombinieren"
 glossar_order: "b"
 weight: 5
 image: "images/glossar/bundfaltenhose.png"
-image_alt: "Editoriale Grafik zu Bundfaltenhose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки со складками"
 relatedTerms:
   - title: "Брюки со складками в посадке"
     url: "/ru/glossar/anzughose/"

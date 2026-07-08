@@ -1,23 +1,23 @@
 ---
-title: "Was bedeutet Typberatung?"
-term: "Typberatung"
-description: "Typberatung verbindet Stil, Farbe, Form und Auftreten zu einer ganzheitlichen Orientierung."
+title: "Что означает типажная консультация?"
+term: "Типажная консультация"
+description: "Типажная консультация соединяет стиль, цвет, форму и манеру держаться в целостную систему ориентиров."
 category: "Стиль и воздействие"
-tags: ["stil", "typberatung"]
-keywords: ["typberatung", "was bedeutet typberatung", "typberatung stilberatung"]
+tags: ["типажная консультация", "стиль", "цвет", "форма"]
+keywords: ["типажная консультация", "разбор типажа", "цвет и форма", "консультация по стилю"]
 glossar_order: "t"
 weight: 1
 image: "images/glossar/typberatung.png"
-image_alt: "Editoriale Glossar-Grafik zu Typberatung mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Типажная консультация"
 relatedTerms:
-  - title: "Signature Look"
+  - title: "Фирменный образ"
     url: "/ru/glossar/signature-look/"
-  - title: "Wirkung"
+  - title: "Впечатление"
     url: "/ru/glossar/wirkung/"
-  - title: "Stilberatung"
+  - title: "Консультация по стилю"
     url: "/ru/glossar/stilberatung/"
-  - title: "Personal Style"
+  - title: "Личный стиль"
     url: "/ru/glossar/personal-style/"
-  - title: "Garderobenlogik"
+  - title: "Логика гардероба"
     url: "/ru/glossar/garderobenlogik/"
 ---

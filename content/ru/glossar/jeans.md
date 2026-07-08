@@ -1,26 +1,25 @@
 ---
-title: "Was ist eine Jeans?"
-term: "Jeans"
-description: "Eine Jeans ist eine Hose aus Denim, deren Wirkung stark von Schnitt, Waschung, Bundhöhe und Passform abhängt."
+title: "Что такое джинсы?"
+term: "Джинсы"
+description: "Джинсы это брюки из денима, чьё впечатление сильно зависит от кроя, варки, высоты пояса и посадки."
 category: "Гардероб и повседневность"
-tags: ["jeans", "denim", "hose", "passform", "garderobe"]
-keywords: ["jeans", "was ist eine jeans", "jeans schnitte", "jeans passform"]
+tags: ["джинсы", "деним", "брюки", "посадка", "гардероб"]
+keywords: ["джинсы", "виды джинсов", "посадка джинсов", "деним"]
 glossar_order: "j"
 weight: 10
 image: "images/glossar/jeans.png"
-image_alt: "Editoriale Grafik mit stilisierter Jeans, Tasche, Nähten und Denim-Farbwelt"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Джинсы"
 relatedTerms:
-  - title: "Denim"
+  - title: "Деним"
     url: "/ru/glossar/denim/"
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
   - title: "Straight Leg"
     url: "/ru/glossar/straight-leg/"
   - title: "Wide Leg"
     url: "/ru/glossar/wide-leg/"
-  - title: "Chinos"
+  - title: "Чиносы"
     url: "/ru/glossar/chinos/"
-
-  - title: "Jeansjacke"
+  - title: "Джинсовая куртка"
     url: "/ru/glossar/jeansjacke/"
 ---

@@ -1,30 +1,30 @@
 ---
-title: "Lila im Stil erklärt"
-term: "Lila"
-description: "Lila reicht von zartem Flieder bis zu tiefem Violett und wirkt je nach Nuance weich, kreativ oder elegant."
+title: "Лиловый в контексте стиля"
+term: "Лиловый"
+description: "Лиловый включает диапазон от нежной сирени до глубокого фиолетового и в зависимости от оттенка выглядит мягко, креативно или элегантно."
 category: "Цветовой словарь"
 color_hex: "#8F6BAE"
-tags: ["lila", "violett", "flieder", "farbe"]
-keywords: ["lila kleidung", "lila kombinieren", "violett farbberatung", "flieder kleidung"]
+tags: ["лиловый", "фиолетовый", "сиреневый", "цвет"]
+keywords: ["лиловая одежда", "с чем сочетать лиловый", "фиолетовый в стиле", "сиреневая одежда"]
 glossar_order: "l"
 weight: 15
 image: "images/glossar/lila.png"
-image_alt: "Editoriale Grafik mit Lila-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Лиловый"
 relatedTerms:
-  - title: "Pink"
+  - title: "Розовый"
     url: "/ru/glossar/pink/"
-  - title: "Rosa"
+  - title: "Розовый"
     url: "/ru/glossar/rosa/"
-  - title: "Blau"
+  - title: "Синий"
     url: "/ru/glossar/blau/"
-  - title: "Farbtemperatur"
+  - title: "Цветовая температура"
     url: "/ru/glossar/farbtemperatur/"
-  - title: "Sättigung"
+  - title: "Насыщенность"
     url: "/ru/glossar/saettigung/"
-  - title: "Flieder"
+  - title: "Сиреневый"
     url: "/ru/glossar/flieder/"
-  - title: "Violett"
+  - title: "Фиолетовый"
     url: "/ru/glossar/violett/"
-  - title: "Fuchsia"
+  - title: "Фуксия"
     url: "/ru/glossar/fuchsia/"
 ---

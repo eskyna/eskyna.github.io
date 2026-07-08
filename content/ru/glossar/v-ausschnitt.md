@@ -1,24 +1,29 @@
 ---
-title: "Was ist ein V-Ausschnitt?"
-term: "V-Ausschnitt"
-description: "Ein V-Ausschnitt öffnet den Oberkörper optisch und kann Halslinie, Schmuck und Proportionen klarer wirken lassen."
+title: "Что такое V-образный вырез?"
+term: "V-образный вырез"
+description: "V-образный вырез визуально открывает верхнюю часть корпуса и делает линию шеи, украшения и пропорции более чёткими."
 category: "Материалы и детали"
-tags: ["v-ausschnitt", "ausschnitt", "oberteil", "proportion", "gesichtsrahmung"]
+tags: ["v-образный вырез", "вырез", "верх", "пропорции", "рамка лица"]
 keywords:
-  ["v-ausschnitt", "was ist ein v-ausschnitt", "v-ausschnitt styling", "v-ausschnitt kombinieren"]
+  [
+    "v-образный вырез",
+    "что такое v-образный вырез",
+    "стилизация v-образного выреза",
+    "с чем сочетать v-образный вырез",
+  ]
 glossar_order: "v"
 weight: 29
 image: "images/glossar/v-ausschnitt.png"
-image_alt: "Editoriale Grafik zu V-Ausschnitt mit stilisierter Ausschnittlinie, Halsrahmung und ruhigen Farbfeldern"
+image_alt: "Иллюстрация глоссария ESKYNA для термина V-образный вырез"
 relatedTerms:
-  - title: "Bluse"
+  - title: "Блуза"
     url: "/ru/glossar/bluse/"
-  - title: "Hemd"
+  - title: "Рубашка"
     url: "/ru/glossar/hemd/"
   - title: "Choker"
     url: "/ru/glossar/choker/"
-  - title: "Gesichtsrahmung"
+  - title: "Рамка лица"
     url: "/ru/glossar/gesichtsrahmung/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
 ---

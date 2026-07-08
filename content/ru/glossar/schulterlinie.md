@@ -1,23 +1,23 @@
 ---
-title: "Schulterlinie"
-term: "Schulterlinie"
-description: "Die Schulterlinie beschreibt Sitz und Form der Schulterpartie und prägt die Struktur eines Oberteils oder Blazers."
+title: "Что означает линия плеч?"
+term: "Линия плеч"
+description: "Линия плеч описывает посадку и форму плечевой зоны и формирует структуру верха или пиджака."
 category: "Крой, пропорции и посадка"
-tags: ["schnitt proportion", "schulterlinie"]
-keywords: ["schulterlinie", "was bedeutet schulterlinie", "schulterlinie stilberatung"]
+tags: ["крой", "пропорции", "линия плеч"]
+keywords: ["линия плеч", "что означает линия плеч", "линия плеч в стилизации"]
 glossar_order: "s"
 weight: 1
 image: "images/glossar/schulterlinie.png"
-image_alt: "Editoriale Glossar-Grafik zu Schulterlinie mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Линия плеч"
 relatedTerms:
-  - title: "Passform"
+  - title: "Посадка"
     url: "/ru/glossar/passform/"
-  - title: "Silhouette"
+  - title: "Силуэт"
     url: "/ru/glossar/silhouette/"
-  - title: "Proportion"
+  - title: "Пропорции"
     url: "/ru/glossar/proportion/"
-  - title: "Saumlänge"
+  - title: "Длина низа"
     url: "/ru/glossar/saumlange/"
-  - title: "Taillierung"
+  - title: "Приталивание"
     url: "/ru/glossar/taillierung/"
 ---

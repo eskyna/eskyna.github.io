@@ -3,12 +3,12 @@ title: "Складки в дизайне"
 term: "Складки"
 description: "Складки — это структурные элементы, создающие объём и интерес в дизайне одежды."
 category: "Материалы и детали"
-tags: ["falten", "materialien"]
-keywords: ["falten", "was bedeutet falten", "falten stilberatung"]
+tags: ["falten", "материалы"]
+keywords: ["falten", "что означает falten", "falten stilberatung"]
 glossar_order: "f"
 weight: 1
 image: "images/glossar/falten.png"
-image_alt: "Editoriale Glossar-Grafik zu Falten mit ruhigen Farbfeldern und feiner Linienführung"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Складки"
 relatedTerms:
   - title: "Складки в дизайне"
     url: "/ru/glossar/materialfall/"

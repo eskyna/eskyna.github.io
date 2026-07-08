@@ -1,28 +1,34 @@
 ---
-title: "Orange im Stil erklärt"
-term: "Orange"
-description: "Orange wirkt warm, aktiv und sichtbar. In der richtigen Nuance kann es frisch, natürlich oder sehr modern erscheinen."
+title: "Оранжевый в контексте стиля"
+term: "Оранжевый"
+description: "Оранжевый выглядит тёпло, активно и заметно. В правильном оттенке он может казаться свежим, естественным или очень современным."
 category: "Цветовой словарь"
 color_hex: "#E67E3A"
-tags: ["orange", "farbe", "farbberatung", "warme farben"]
-keywords: ["orange kleidung", "orange kombinieren", "orange farbberatung", "warme farben"]
+tags: ["оранжевый", "цвет", "цветовая консультация", "тёплые цвета"]
+keywords:
+  [
+    "оранжевая одежда",
+    "с чем сочетать оранжевый",
+    "оранжевый в цветовой консультации",
+    "тёплые цвета",
+  ]
 glossar_order: "o"
 weight: 16
 image: "images/glossar/orange.png"
-image_alt: "Editoriale Grafik mit Orange-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image_alt: "Иллюстрация глоссария ESKYNA для термина Оранжевый"
 relatedTerms:
-  - title: "Rot"
+  - title: "Красный"
     url: "/ru/glossar/rot/"
-  - title: "Terracotta"
+  - title: "Терракотовый"
     url: "/ru/glossar/terracotta/"
-  - title: "Braun"
+  - title: "Коричневый"
     url: "/ru/glossar/braun/"
-  - title: "Akzentfarbe"
+  - title: "Акцентный цвет"
     url: "/ru/glossar/akzentfarbe/"
-  - title: "Unterton"
+  - title: "Подтон"
     url: "/ru/glossar/unterton/"
-  - title: "Gelb"
+  - title: "Жёлтый"
     url: "/ru/glossar/gelb/"
-  - title: "Senfgelb"
+  - title: "Горчичный"
     url: "/ru/glossar/senfgelb/"
 ---
