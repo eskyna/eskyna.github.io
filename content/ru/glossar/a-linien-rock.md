@@ -5,7 +5,6 @@ description: "Юбка A-силуэта расширяется от талии �
 category: "Крой, пропорции и посадка"
 tags: ["a linien rock", "гардероб"]
 keywords: ["a-linien-rock", "что означает a-linien-rock", "a-linien-rock stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/a-linien-rock.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка A-силуэта"

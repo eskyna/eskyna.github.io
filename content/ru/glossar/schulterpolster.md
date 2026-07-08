@@ -5,7 +5,6 @@ description: "Подплечники формируют плечевую зон�
 category: "Материалы и детали"
 tags: ["материалы", "подплечники"]
 keywords: ["подплечники", "что означают подплечники", "подплечники в стиле"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schulterpolster.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Подплечники"

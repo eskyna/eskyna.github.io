@@ -5,7 +5,6 @@ description: "Eine Uhr ist funktionales Accessoire und Stilzeichen zugleich, wei
 category: "Materialien & Details"
 tags: ["uhr", "accessoire", "schmuck", "metall", "styling"]
 keywords: ["uhr styling", "uhr als accessoire", "uhr kombinieren"]
-glossar_order: "u"
 weight: 25
 image: "images/glossar/uhr.png"
 image_alt: "Editoriale Grafik zu Uhr mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

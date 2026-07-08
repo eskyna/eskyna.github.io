@@ -5,7 +5,6 @@ description: "Ein Oversized-Blazer ist ein bewusst weiter geschnittener Blazer m
 category: "Garderobe & Alltag"
 tags: ["garderobe", "oversized blazer"]
 keywords: ["oversized-blazer", "was bedeutet oversized-blazer", "oversized-blazer stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/oversized-blazer.png"
 image_alt: "Editoriale Glossar-Grafik zu Oversized-Blazer mit ruhigen Farbfeldern und feiner Linienführung"

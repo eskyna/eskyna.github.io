@@ -5,7 +5,6 @@ description: "Ein Ring ist ein Schmuckstück für die Finger und kann dezent, gr
 category: "Materialien & Details"
 tags: ["materialien", "ring"]
 keywords: ["ring", "was bedeutet ring", "ring stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/ring.png"
 image_alt: "Editoriale Glossar-Grafik zu Ring mit ruhigen Farbfeldern und feiner Linienführung"

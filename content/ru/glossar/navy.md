@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#1F2D3D"
 tags: ["navy", "тёмно-синий", "цвет", "цветовая консультация", "цветовое впечатление"]
 keywords: ["одежда navy", "с чем сочетать тёмно-синий", "цветовая консультация", "navy в образе"]
-glossar_order: "n"
 weight: 3
 image: "images/glossar/navy.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Navy"

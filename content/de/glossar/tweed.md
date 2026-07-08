@@ -5,7 +5,6 @@ description: "Tweed ist ein strukturierter Wollstoff mit klassischer, oft britis
 category: "Materialien & Details"
 tags: ["materialien", "tweed"]
 keywords: ["tweed", "was bedeutet tweed", "tweed stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tweed.png"
 image_alt: "Editoriale Glossar-Grafik zu Tweed mit ruhigen Farbfeldern und feiner Linienführung"

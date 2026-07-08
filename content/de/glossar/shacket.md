@@ -5,7 +5,6 @@ description: "Ein Shacket ist eine Mischung aus Shirt und Jacket und wirkt wie e
 category: "Garderobe & Alltag"
 tags: ["garderobe", "shacket"]
 keywords: ["shacket", "was bedeutet shacket", "shacket stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/shacket.png"
 image_alt: "Editoriale Glossar-Grafik zu Shacket mit ruhigen Farbfeldern und feiner Linienführung"

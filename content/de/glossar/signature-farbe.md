@@ -5,7 +5,6 @@ description: "Eine Signature-Farbe ist eine wiederkehrende Farbe, die zur Person
 category: "Farbberatung & Farbe"
 tags: ["signature farbe", "farbe", "personal branding", "wiedererkennung"]
 keywords: ["signature-farbe", "signaturfarbe", "wiedererkennbare farbe"]
-glossar_order: "s"
 weight: 13
 relatedTerms:
   - title: "Signature Look"

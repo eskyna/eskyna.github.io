@@ -5,7 +5,6 @@ description: "Upcycling verwandelt vorhandene Kleidung oder Materialien in neue,
 category: "Garderobe & Alltag"
 tags: ["upcycling", "nachhaltigkeit", "deadstock", "reparatur"]
 keywords: ["upcycling", "deadstock", "kleidung neu verarbeiten"]
-glossar_order: "u"
 weight: 50
 relatedTerms:
   - title: "Circular Fashion"

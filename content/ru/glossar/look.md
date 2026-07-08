@@ -5,7 +5,6 @@ description: "Образ описывает видимое общее впеча
 category: "Стиль и воздействие"
 tags: ["образ", "стиль"]
 keywords: ["образ", "общее впечатление от комплекта", "визуальный эффект образа"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/look.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Образ"

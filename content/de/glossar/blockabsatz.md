@@ -5,7 +5,6 @@ description: "Ein Blockabsatz ist ein breiter, stabiler Absatz, der Höhe gibt u
 category: "Schuhe"
 tags: ["blockabsatz", "absatz", "schuhe", "pumps"]
 keywords: ["blockabsatz", "was ist ein blockabsatz", "breiter absatz"]
-glossar_order: "b"
 weight: 17
 image: "images/glossar/blockabsatz.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Blockabsatz mit ruhigen Formen und feinen Farbfeldern"

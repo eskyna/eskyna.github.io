@@ -5,7 +5,6 @@ description: "Der Frühlingstyp ist ein warmer, meist heller und klarer Farbtyp,
 category: "Farbberatung & Farbe"
 tags: ["frühlingstyp", "farbtyp", "farbberatung", "spring type"]
 keywords: ["frühlingstyp", "light spring", "clear spring", "warm spring", "frühling farbtyp"]
-glossar_order: "f"
 weight: 7
 relatedTerms:
   - title: "Farbtyp"

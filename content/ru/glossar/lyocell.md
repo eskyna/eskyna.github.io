@@ -5,7 +5,6 @@ description: "Lyocell это волокно на основе целлюлозы
 category: "Материалы и детали"
 tags: ["lyocell", "материалы"]
 keywords: ["lyocell", "целлюлозное волокно", "ткань lyocell"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/lyocell.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Lyocell"

@@ -5,7 +5,6 @@ description: "Curvy styling описывает нейтральный по от�
 category: "Крой, пропорции и посадка"
 tags: ["curvy styling", "форма тела", "посадка", "пропорции"]
 keywords: ["curvy styling", "стиль для выразительных форм", "нейтральный подход к телу"]
-glossar_order: "c"
 weight: 31
 relatedTerms:
   - title: "Форма тела"

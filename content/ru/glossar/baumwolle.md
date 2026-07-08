@@ -5,7 +5,6 @@ description: "Хлопок — это натуральная, воздухопр
 category: "Материалы и детали"
 tags: ["baumwolle", "material", "naturfaser", "qualität", "stoff"]
 keywords: ["baumwolle", "что такое baumwolle", "baumwolle kleidung", "baumwollstoff"]
-glossar_order: "b"
 weight: 2
 image: "images/glossar/baumwolle.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Хлопок"

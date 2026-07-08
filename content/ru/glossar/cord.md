@@ -5,7 +5,6 @@ description: "Корд — это вельветовая ткань с хара�
 category: "Материалы и детали"
 tags: ["cord", "материалы"]
 keywords: ["cord", "что означает cord", "cord stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cord.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Корд"

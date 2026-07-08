@@ -5,7 +5,6 @@ description: "Tenue de ville это классический дневной др
 category: "Гардероб и повседневность"
 tags: ["tenue de ville", "дресс-код", "день", "формально"]
 keywords: ["tenue de ville", "дресс-код tenue de ville", "дневной дресс-код"]
-glossar_order: "t"
 weight: 22
 relatedTerms:
   - title: "Дресс-код"

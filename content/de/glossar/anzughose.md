@@ -12,7 +12,6 @@ keywords:
   - "anzughose"
   - "was ist eine anzughose"
   - "anzughose kombinieren"
-glossar_order: "a"
 weight: 5
 image: "images/glossar/anzughose.png"
 image_alt: "Editoriale Grafik zu Anzughose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

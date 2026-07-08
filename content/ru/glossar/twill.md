@@ -5,7 +5,6 @@ description: "Twill это переплетение с диагональной 
 category: "Материалы и детали"
 tags: ["материалы", "twill"]
 keywords: ["twill", "что означает twill", "twill в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/twill.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Twill"

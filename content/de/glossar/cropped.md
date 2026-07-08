@@ -5,7 +5,6 @@ description: "Cropped bedeutet verkürzt geschnitten, etwa bei Hosen, Jacken, Pu
 category: "Schnitt, Proportion & Passform"
 tags: ["cropped", "schnitt proportion"]
 keywords: ["cropped", "was bedeutet cropped", "cropped stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cropped.png"
 image_alt: "Editoriale Glossar-Grafik zu Cropped mit ruhigen Farbfeldern und feiner Linienführung"

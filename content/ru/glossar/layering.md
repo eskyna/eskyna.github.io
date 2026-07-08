@@ -5,7 +5,6 @@ description: "Layering означает осознанное сочетание 
 category: "Крой, пропорции и посадка"
 tags: ["layering", "слои", "пропорции", "силуэт", "стайлинг"]
 keywords: ["layering", "многослойность в одежде", "как сочетать слои", "многослойный образ"]
-glossar_order: "l"
 weight: 18
 image: "images/glossar/layering.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Layering"

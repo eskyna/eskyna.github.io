@@ -5,7 +5,6 @@ description: "Сумка через плечо — это практичная �
 category: "Материалы и детали"
 tags: ["crossbody bag", "tasche", "accessoire", "styling", "alltag"]
 keywords: ["crossbody bag", "что такое crossbody bag", "umhängetasche quer tragen"]
-glossar_order: "c"
 weight: 12
 image: "images/glossar/crossbody-bag.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сумка через плечо"

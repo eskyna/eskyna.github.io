@@ -5,7 +5,6 @@ description: "Tall styling работает с одеждой для высок�
 category: "Крой, пропорции и посадка"
 tags: ["tall styling", "пропорции", "силуэт", "стилизация"]
 keywords: ["tall styling", "стилизация для высокого роста", "пропорции при высоком росте"]
-glossar_order: "t"
 weight: 30
 relatedTerms:
   - title: "Вертикальная линия"

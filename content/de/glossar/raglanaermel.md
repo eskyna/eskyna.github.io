@@ -5,7 +5,6 @@ description: "Ein Raglanärmel verläuft diagonal vom Halsbereich zur Achsel und
 category: "Schnitt, Proportion & Passform"
 tags: ["raglanaermel", "schnitt proportion"]
 keywords: ["raglanärmel", "was bedeutet raglanärmel", "raglanärmel stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/raglanaermel.png"
 image_alt: "Editoriale Glossar-Grafik zu Raglanärmel mit ruhigen Farbfeldern und feiner Linienführung"

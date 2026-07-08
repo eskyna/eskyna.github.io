@@ -5,7 +5,6 @@ description: "Воздухопроницаемость — это способн
 category: "Материалы и детали"
 tags: ["atmungsaktivitaet", "материалы"]
 keywords: ["atmungsaktivität", "что означает atmungsaktivität", "atmungsaktivität stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/atmungsaktivitaet.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Воздухопроницаемость"

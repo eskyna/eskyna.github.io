@@ -5,7 +5,6 @@ description: "Вырез сердечком имеет плавную линию
 category: "Материалы и детали"
 tags: ["вырез сердечком", "материалы"]
 keywords: ["вырез сердечком", "сердцевидный вырез", "мягкий женственный вырез"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/herz-ausschnitt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Вырез сердечком"

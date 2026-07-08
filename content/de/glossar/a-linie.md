@@ -5,7 +5,6 @@ description: "Die A-Linie ist eine Schnittform, die oben schmaler beginnt und na
 category: "Schnitt, Proportion & Passform"
 tags: ["a-linie", "schnitt", "silhouette", "proportion", "kleid"]
 keywords: ["a-linie", "was bedeutet a-linie", "a-linien kleid", "a-linien rock"]
-glossar_order: "a"
 weight: 6
 image: "images/glossar/a-linie.png"
 image_alt: "Editoriale Grafik mit stilisierter A-Linie als Kleidform und feinen Proportionslinien"

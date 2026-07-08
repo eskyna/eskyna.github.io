@@ -5,7 +5,6 @@ description: "Личная униформа это осознанно повто
 category: "Гардероб и повседневность"
 tags: ["personal uniform", "формула образа", "signature look", "гардероб"]
 keywords: ["personal uniform", "личная униформа", "формула личного стиля"]
-glossar_order: "p"
 weight: 14
 relatedTerms:
   - title: "Фирменный образ"

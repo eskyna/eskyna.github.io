@@ -5,7 +5,6 @@ description: "Баланс — это гармоничное распредел�
 category: "Крой, пропорции и посадка"
 tags: ["balance", "stil"]
 keywords: ["balance", "что означает balance", "balance stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/balance.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Баланс"

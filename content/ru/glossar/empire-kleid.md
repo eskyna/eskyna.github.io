@@ -5,7 +5,6 @@ description: "Платье Ампир — это платье с завышен�
 category: "Крой, пропорции и посадка"
 tags: ["empire kleid", "гардероб"]
 keywords: ["empire-kleid", "что означает empire-kleid", "empire-kleid stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/empire-kleid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Платье Ампир"

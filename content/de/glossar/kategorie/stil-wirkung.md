@@ -7,4 +7,4 @@ glossar_category: "Stil & Wirkung"
 url: "/glossar/kategorie/stil-wirkung/"
 ---
 
-Hier finden Sie Begriffe rund um Ausstrahlung, Stilidentität und sichtbare Wirkung. Die Einträge helfen Ihnen, bewusster zu steuern, wie Sie im beruflichen und privaten Kontext wahrgenommen werden.
+Hier findest du Begriffe rund um Ausstrahlung, Stilidentität und sichtbare Wirkung. Die Einträge helfen dir, bewusster zu steuern, wie du im beruflichen und privaten Kontext wahrgenommen wirst.

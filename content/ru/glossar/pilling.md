@@ -5,7 +5,6 @@ description: "Pilling это мелкие катышки на поверхнос
 category: "Материалы и детали"
 tags: ["материалы", "pilling"]
 keywords: ["pilling", "катышки на ткани", "как уменьшить pilling"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/pilling.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Pilling"

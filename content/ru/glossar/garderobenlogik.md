@@ -5,7 +5,6 @@ description: "Логика гардероба описывает систему 
 category: "Гардероб и повседневность"
 tags: ["garderobenlogik", "гардероб", "capsule wardrobe", "stilberatung"]
 keywords: ["garderobenlogik", "kleiderschrank system", "capsule wardrobe", "fehlkäufe"]
-glossar_order: "g"
 weight: 2
 image: "images/glossar/garderobenlogik.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Логика гардероба"

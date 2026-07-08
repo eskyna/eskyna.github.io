@@ -5,7 +5,6 @@ description: "Эспадрильи — это легкая, удобная об�
 category: "Материалы и детали"
 tags: ["espadrilles", "обувь", "sommer", "leinen"]
 keywords: ["espadrilles", "что такое espadrilles", "sommerschuhe"]
-glossar_order: "e"
 weight: 8
 image: "images/glossar/espadrilles.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Эспадрильи"

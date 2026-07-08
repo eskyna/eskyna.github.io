@@ -6,7 +6,6 @@ category: "Garderobe & Alltag"
 tags: ["anlassgarderobe", "dresscode", "garderobe", "outfit-formel", "stilberatung"]
 keywords:
   ["anlassgarderobe", "garderobe für anlässe", "outfits für anlässe", "kleiderschrank planen"]
-glossar_order: "a"
 weight: 15
 image: "images/glossar/anlassgarderobe.png"
 image_alt: "Editoriale Grafik mit drei Outfit-Kapseln für Alltag, Business und Event"

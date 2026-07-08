@@ -5,7 +5,6 @@ description: "Длина слоёв в layering описывает, как ме�
 category: "Крой, пропорции и посадка"
 tags: ["длина слоёв", "layering", "пропорции", "длины"]
 keywords: ["длина слоёв в layering", "длины слоёв в образе", "пропорции многослойности"]
-glossar_order: "l"
 weight: 46
 relatedTerms:
   - title: "Layering"

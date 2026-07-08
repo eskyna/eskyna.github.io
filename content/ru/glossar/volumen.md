@@ -5,7 +5,6 @@ description: "Объём описывает ширину, полноту и пр
 category: "Крой, пропорции и посадка"
 tags: ["крой и пропорции", "объём"]
 keywords: ["объём", "что означает объём", "объём в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/volumen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Объём"

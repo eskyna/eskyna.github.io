@@ -5,7 +5,6 @@ description: "Die Garderobe umfasst alle Kleidungsstücke, Schuhe und Accessoire
 category: "Stil & Wirkung"
 tags: ["garderobe", "stil"]
 keywords: ["garderobe", "was bedeutet garderobe", "garderobe stilberatung"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Garderobe mit ruhigen Farbfeldern und feiner Linienführung"

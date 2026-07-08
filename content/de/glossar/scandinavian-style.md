@@ -6,7 +6,6 @@ category: "Stil & Wirkung"
 tags: ["scandinavian style", "stil"]
 keywords:
   ["scandinavian style", "was bedeutet scandinavian style", "scandinavian style stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/scandinavian-style.png"
 image_alt: "Editoriale Glossar-Grafik zu Scandinavian Style mit ruhigen Farbfeldern und feiner Linienführung"

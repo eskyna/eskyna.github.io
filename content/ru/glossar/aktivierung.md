@@ -5,7 +5,6 @@ description: "Активизация — это правильное приме�
 category: "Консультация по цвету и цвет"
 tags: ["aktivierung", "stil"]
 keywords: ["aktivierung", "что означает aktivierung", "aktivierung stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/aktivierung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Активизация цвета"

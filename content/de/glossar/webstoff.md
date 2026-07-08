@@ -5,7 +5,6 @@ description: "Webstoff ist gewebtes Material mit klarer Struktur und meist wenig
 category: "Materialien & Details"
 tags: ["materialien", "webstoff"]
 keywords: ["webstoff", "was bedeutet webstoff", "webstoff stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/webstoff.png"
 image_alt: "Editoriale Glossar-Grafik zu Webstoff mit ruhigen Farbfeldern und feiner Linienführung"

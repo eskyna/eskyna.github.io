@@ -12,7 +12,6 @@ keywords:
   - "stoffhose"
   - "was ist eine stoffhose"
   - "stoffhose kombinieren"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/stoffhose.png"
 image_alt: "Editoriale Grafik zu Stoffhose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

@@ -5,7 +5,6 @@ description: "Eine Personal Uniform ist eine bewusst wiederholte Outfitformel, d
 category: "Garderobe & Alltag"
 tags: ["personal uniform", "outfit formel", "signature look", "garderobe"]
 keywords: ["personal uniform", "outfit formel", "uniform stil"]
-glossar_order: "p"
 weight: 14
 relatedTerms:
   - title: "Signature Look"

@@ -5,7 +5,6 @@ description: "Базовые вещи — это простые, универс�
 category: "Гардероб и повседневность"
 tags: ["basic", "гардероб", "capsule wardrobe", "key-piece", "outfit"]
 keywords: ["basic kleidung", "что такое basic", "garderobe basics", "basics kombinieren"]
-glossar_order: "b"
 weight: 8
 image: "images/glossar/basic.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Базовый предмет"

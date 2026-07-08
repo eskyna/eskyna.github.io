@@ -5,7 +5,6 @@ description: "Ein Minimalist Wedge ist eine reduzierte Keilsandalette, die Höhe
 category: "Schuhe"
 tags: ["minimalist wedge", "keilsandalette", "schuhe", "sommer"]
 keywords: ["minimalist wedge", "keilsandalette", "minimalistische keilschuhe"]
-glossar_order: "m"
 weight: 22
 relatedTerms:
   - title: "Plateau"

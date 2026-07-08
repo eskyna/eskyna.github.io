@@ -5,7 +5,6 @@ description: "Sweat fabric это мягкий материал со спорт�
 category: "Материалы и детали"
 tags: ["материалы", "sweat fabric"]
 keywords: ["sweat fabric", "что означает sweat fabric", "материал для sweatshirt"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/sweatstoff.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Sweat fabric"

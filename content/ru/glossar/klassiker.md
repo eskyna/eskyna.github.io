@@ -5,7 +5,6 @@ description: "Классика это вневременная вещь, кот�
 category: "Стиль и воздействие"
 tags: ["классика", "стиль"]
 keywords: ["классика", "вневременная вещь", "классика в гардеробе"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/klassiker.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Классика"

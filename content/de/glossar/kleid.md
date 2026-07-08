@@ -12,7 +12,6 @@ keywords:
   - "kleid"
   - "was ist ein kleid"
   - "kleiderformen"
-glossar_order: "k"
 weight: 5
 image: "images/glossar/kleid.png"
 image_alt: "Editoriale Grafik zu Kleid mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

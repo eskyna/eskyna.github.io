@@ -5,7 +5,6 @@ description: "Eine Reise-Capsule ist eine kleine, gut kombinierbare Garderobe f√
 category: "Garderobe & Alltag"
 tags: ["garderobe", "reise capsule"]
 keywords: ["reise-capsule", "was bedeutet reise-capsule", "reise-capsule stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/reise-capsule.png"
 image_alt: "Editoriale Glossar-Grafik zu Reise-Capsule mit ruhigen Farbfeldern und feiner Linienf√ºhrung"

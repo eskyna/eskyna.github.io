@@ -5,7 +5,6 @@ description: "Dressy casual соединяет расслабленную оде
 category: "Гардероб и повседневность"
 tags: ["dressy casual", "dresscode", "alltag", "smart"]
 keywords: ["dressy casual", "dressy casual outfit", "gepflegt casual"]
-glossar_order: "d"
 weight: 18
 relatedTerms:
   - title: "Smart casual"

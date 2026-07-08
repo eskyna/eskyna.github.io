@@ -5,7 +5,6 @@ description: "Die Dreieck-Silhouette beschreibt eine Form, bei der der Hüftbere
 category: "Schnitt, Proportion & Passform"
 tags: ["dreieck silhouette", "silhouette", "proportion", "balance"]
 keywords: ["dreieck-silhouette", "triangle silhouette", "hüfte breiter als schultern"]
-glossar_order: "d"
 weight: 35
 relatedTerms:
   - title: "Silhouette"

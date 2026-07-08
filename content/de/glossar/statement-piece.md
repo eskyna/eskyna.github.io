@@ -5,7 +5,6 @@ description: "Ein Statement-Piece ist ein bewusst auffälliges Kleidungsstück o
 category: "Stil & Wirkung"
 tags: ["statement-piece", "stil", "accessoires", "wirkung"]
 keywords: ["statement-piece", "statement teil", "stilbruch", "outfit akzent"]
-glossar_order: "s"
 weight: 4
 image: "images/glossar/statement-piece.png"
 image_alt: "Editoriale Grafik mit ruhigen neutralen Flächen und einem klaren Akzent als Symbol für ein Statement-Piece"

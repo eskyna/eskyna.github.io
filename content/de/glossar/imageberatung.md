@@ -5,7 +5,6 @@ description: "Imageberatung beschäftigt sich mit der Frage, welches Bild Kleidu
 category: "Stil & Wirkung"
 tags: ["imageberatung", "stil"]
 keywords: ["imageberatung", "was bedeutet imageberatung", "imageberatung stilberatung"]
-glossar_order: "i"
 weight: 1
 image: "images/glossar/imageberatung.png"
 image_alt: "Editoriale Glossar-Grafik zu Imageberatung mit ruhigen Farbfeldern und feiner Linienführung"

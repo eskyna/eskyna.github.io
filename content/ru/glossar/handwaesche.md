@@ -5,7 +5,6 @@ description: "Ручная стирка это щадящий способ ух�
 category: "Материалы и детали"
 tags: ["ручная стирка", "материалы"]
 keywords: ["ручная стирка", "деликатный уход", "как стирать вручную"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/handwaesche.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ручная стирка"

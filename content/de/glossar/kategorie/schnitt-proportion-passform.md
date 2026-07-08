@@ -7,4 +7,4 @@ glossar_category: "Schnitt, Proportion & Passform"
 url: "/glossar/kategorie/schnitt-proportion-passform/"
 ---
 
-Die Begriffe unterstützen Sie bei Fragen zu Balance, Streckung und Passform. Damit erkennen Sie schneller, welche Formen Ihnen stehen und warum ein Teil im Outfit stimmig wirkt.
+Die Begriffe unterstützen dich bei Fragen zu Balance, Streckung und Passform. Damit erkennst du schneller, welche Formen dir stehen und warum ein Teil im Outfit stimmig wirkt.

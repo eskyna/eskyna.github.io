@@ -5,7 +5,6 @@ description: "Layering bedeutet, mehrere Kleidungsschichten bewusst zu kombinier
 category: "Schnitt, Proportion & Passform"
 tags: ["layering", "schichten", "proportion", "silhouette", "styling"]
 keywords: ["layering", "was ist layering", "layering mode", "kleidung schichten kombinieren"]
-glossar_order: "l"
 weight: 18
 image: "images/glossar/layering.png"
 image_alt: "Editoriale Grafik mit übereinanderliegenden Stoffschichten, Längenlinien und ruhigen neutralen Flächen"

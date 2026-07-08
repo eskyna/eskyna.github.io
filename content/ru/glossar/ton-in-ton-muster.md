@@ -5,7 +5,6 @@ description: "Узор тон в тон использует близкие от
 category: "Материалы и детали"
 tags: ["материалы", "узор тон в тон"]
 keywords: ["узор тон в тон", "что означает узор тон в тон", "узор тон в тон в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/ton-in-ton-muster.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Узор тон в тон"

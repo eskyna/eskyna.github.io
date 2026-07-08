@@ -5,7 +5,6 @@ description: "Имидж это образ, который другие восп
 category: "Стиль и воздействие"
 tags: ["имидж", "стиль"]
 keywords: ["имидж", "что означает имидж", "имидж и стиль"]
-glossar_order: "i"
 weight: 1
 image: "images/glossar/image.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Имидж"

@@ -5,7 +5,6 @@ description: "Der Sommertyp ist ein kühler, oft gedämpfter Farbtyp, der mit we
 category: "Farbberatung & Farbe"
 tags: ["sommertyp", "farbtyp", "farbberatung", "summer type"]
 keywords: ["sommertyp", "light summer", "soft summer", "cool summer", "sommer farbtyp"]
-glossar_order: "s"
 weight: 8
 relatedTerms:
   - title: "Farbtyp"

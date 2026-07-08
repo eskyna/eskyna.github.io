@@ -5,7 +5,6 @@ description: "Шерсть без mulesing получают от овец, пр�
 category: "Материалы и детали"
 tags: ["шерсть без mulesing", "шерсть", "материал", "устойчивость"]
 keywords: ["шерсть без mulesing", "mulesing free", "этичная шерсть"]
-glossar_order: "m"
 weight: 29
 relatedTerms:
   - title: "Шерсть"

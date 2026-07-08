@@ -5,7 +5,6 @@ description: "Gedämpfte Farben haben weniger Leuchtkraft und wirken weicher, ru
 category: "Farbberatung & Farbe"
 tags: ["gedämpfte farben", "farbe", "farbtyp", "weich"]
 keywords: ["gedämpfte farben", "soft colors", "ruhige farben"]
-glossar_order: "g"
 weight: 16
 relatedTerms:
   - title: "Klare Farben"

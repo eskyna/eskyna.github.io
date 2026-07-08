@@ -5,7 +5,6 @@ description: "V-линия формируется вырезом, лацкана
 category: "Крой, пропорции и посадка"
 tags: ["крой и пропорции", "v-линия"]
 keywords: ["v-линия", "что означает v-линия", "v-линия в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/v-linie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина V-линия"

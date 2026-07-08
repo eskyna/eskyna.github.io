@@ -5,7 +5,6 @@ description: "Первое впечатление это то, что возни
 category: "Стиль и воздействие"
 tags: ["first impression", "erster eindruck", "wirkung", "image"]
 keywords: ["first impression", "erster eindruck kleidung", "wirkung erster eindruck"]
-glossar_order: "f"
 weight: 9
 relatedTerms:
   - title: "Имидж"

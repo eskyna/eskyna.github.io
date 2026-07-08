@@ -5,7 +5,6 @@ description: "Волан это притачная волнистая детал
 category: "Материалы и детали"
 tags: ["материалы", "волан"]
 keywords: ["волан", "что означает волан", "волан в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/volant.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Волан"

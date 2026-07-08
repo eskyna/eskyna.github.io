@@ -5,7 +5,6 @@ description: "Longline bezeichnet verlängerte Schnitte, die eine ruhigere, vert
 category: "Schnitt, Proportion & Passform"
 tags: ["longline", "schnitt proportion"]
 keywords: ["longline", "was bedeutet longline", "longline stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/longline.png"
 image_alt: "Editoriale Glossar-Grafik zu Longline mit ruhigen Farbfeldern und feiner Linienführung"

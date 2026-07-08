@@ -5,7 +5,6 @@ description: "Ein Cape ist ein ärmelloser Überwurf, der Schultern und Oberkör
 category: "Garderobe & Alltag"
 tags: ["cape", "garderobe"]
 keywords: ["cape", "was bedeutet cape", "cape stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cape.png"
 image_alt: "Editoriale Glossar-Grafik zu Cape mit ruhigen Farbfeldern und feiner Linienführung"

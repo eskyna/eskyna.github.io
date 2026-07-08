@@ -5,7 +5,6 @@ description: "Chelsea Boots sind knöchelhohe Stiefeletten mit seitlichem Elasti
 category: "Garderobe & Alltag"
 tags: ["chelsea boots", "stiefeletten", "schuhe", "jeans", "trenchcoat"]
 keywords: ["chelsea boots", "was sind chelsea boots", "chelsea boots kombinieren", "stiefeletten"]
-glossar_order: "c"
 weight: 20
 image: "images/glossar/chelsea-boots.png"
 image_alt: "Editoriale Grafik mit stilisiertem Chelsea Boot, Elastikeinsatz und ruhigen Lederfarben"

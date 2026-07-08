@@ -5,7 +5,6 @@ description: "Saumlänge beschreibt, wo ein Kleidungsstück endet und wie stark 
 category: "Schnitt, Proportion & Passform"
 tags: ["saumlänge", "rocklänge", "hose", "proportion", "passform"]
 keywords: ["saumlänge", "was ist saumlänge", "richtige hosenlänge", "richtige rocklänge"]
-glossar_order: "s"
 weight: 19
 image: "images/glossar/saumlange.png"
 image_alt: "Editoriale Grafik mit Rock und Hose, markierten Saumlinien und feinen Proportionslinien"

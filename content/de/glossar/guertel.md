@@ -5,7 +5,6 @@ description: "Ein Gürtel hält nicht nur Kleidung, sondern kann Taille, Proport
 category: "Materialien & Details"
 tags: ["gürtel", "accessoire", "taillierung", "proportion", "styling"]
 keywords: ["gürtel", "was ist ein gürtel", "gürtel kombinieren", "gürtel outfit"]
-glossar_order: "g"
 weight: 8
 image: "images/glossar/guertel.png"
 image_alt: "Editoriale Grafik zu Gürtel mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

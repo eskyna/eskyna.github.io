@@ -5,7 +5,6 @@ description: "Passform beschreibt, wie ein Kleidungsstück am Körper sitzt und 
 category: "Schnitt, Proportion & Passform"
 tags: ["passform", "schnitt", "proportionen", "größe"]
 keywords: ["passform", "kleidung sitzt richtig", "schnitt", "stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/passform.png"
 image_alt: "Grafik eines Blazers mit Linien zur Erklärung von Passform"

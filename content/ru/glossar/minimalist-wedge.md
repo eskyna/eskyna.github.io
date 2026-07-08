@@ -5,7 +5,6 @@ description: "Minimalist wedge это лаконичная босоножка н
 category: "Обувь"
 tags: ["minimalist wedge", "босоножка на танкетке", "обувь", "лето"]
 keywords: ["minimalist wedge", "танкетка", "минималистичная обувь на танкетке"]
-glossar_order: "m"
 weight: 22
 relatedTerms:
   - title: "Платформа"

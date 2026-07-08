@@ -5,7 +5,6 @@ description: "Urban описывает городской современный
 category: "Стиль и воздействие"
 tags: ["стиль", "urban"]
 keywords: ["urban", "что означает urban", "urban в стилизации"]
-glossar_order: "u"
 weight: 1
 image: "images/glossar/urban.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Urban"

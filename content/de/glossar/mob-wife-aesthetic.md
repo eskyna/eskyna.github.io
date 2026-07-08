@@ -5,7 +5,6 @@ description: "Mob Wife Aesthetic beschreibt einen lauten, glamourösen Stil mit 
 category: "Stil & Wirkung"
 tags: ["mob wife aesthetic", "glamour", "animal print", "stil"]
 keywords: ["mob wife aesthetic", "mob wife style", "lauter glamour look"]
-glossar_order: "m"
 weight: 20
 relatedTerms:
   - title: "Animal Print"

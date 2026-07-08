@@ -12,7 +12,6 @@ keywords:
   - "sweatshirt"
   - "что такое sweatshirt"
   - "с чем сочетать sweatshirt"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/sweatshirt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Sweatshirt"

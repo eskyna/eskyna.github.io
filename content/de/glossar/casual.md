@@ -5,7 +5,6 @@ description: "Casual bezeichnet einen freizeitlichen, unkomplizierten Kleidungss
 category: "Stil & Wirkung"
 tags: ["casual", "stil"]
 keywords: ["casual", "was bedeutet casual", "casual stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/casual.png"
 image_alt: "Editoriale Glossar-Grafik zu Casual mit ruhigen Farbfeldern und feiner Linienführung"

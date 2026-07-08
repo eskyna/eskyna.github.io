@@ -5,7 +5,6 @@ description: "H-силуэт описывает прямую, слабо при�
 category: "Крой, пропорции и посадка"
 tags: ["H-силуэт", "крой", "пропорции"]
 keywords: ["H-силуэт", "прямой силуэт", "слабо приталенная форма"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/h-linie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина H-силуэт"

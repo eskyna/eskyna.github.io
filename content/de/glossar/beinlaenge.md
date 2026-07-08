@@ -5,7 +5,6 @@ description: "Beinlänge beschreibt die sichtbare Länge der Beine im Verhältni
 category: "Schnitt, Proportion & Passform"
 tags: ["beinlänge", "proportion", "saum", "bundhöhe"]
 keywords: ["beinlänge", "optisch lange beine", "schuh saum beziehung", "taillenposition"]
-glossar_order: "b"
 weight: 38
 relatedTerms:
   - title: "Saumlänge"

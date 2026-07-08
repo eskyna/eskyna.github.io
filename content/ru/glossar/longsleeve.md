@@ -12,7 +12,6 @@ keywords:
   - "longsleeve"
   - "что такое longsleeve"
   - "с чем носить лонгслив"
-glossar_order: "l"
 weight: 6
 image: "images/glossar/longsleeve.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Longsleeve"

@@ -5,7 +5,6 @@ description: "Сминаемость ткани описывает, наскол
 category: "Материалы и детали"
 tags: ["сминаемость ткани", "материалы"]
 keywords: ["сминаемость ткани", "как мнётся ткань", "устойчивость к заломам"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/knitterverhalten.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сминаемость ткани"

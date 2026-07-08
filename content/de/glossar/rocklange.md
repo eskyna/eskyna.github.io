@@ -4,7 +4,6 @@ term: "Rocklänge"
 description: "Rocklänge ist eine der wichtigsten Designentscheidungen. Sie prägt Proportionen, Wirkung und Alltagstauglichkeit."
 category: "Schnitt, Proportion & Passform"
 tags: ["rocklänge", "rock", "schnitt", "proportionen", "saumlänge", "längen"]
-glossar_order: "r"
 weight: 2
 image: "images/glossar/rocklange.png"
 image_alt: "Editoriale Grafik mit unterschiedlichen Rocklängen und ruhigen Proportionslinien"

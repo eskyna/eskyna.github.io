@@ -12,7 +12,6 @@ keywords:
   - "bootcut"
   - "was bedeutet bootcut"
   - "bootcut jeans kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/bootcut.png"
 image_alt: "Editoriale Grafik zu Bootcut mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

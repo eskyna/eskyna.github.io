@@ -5,7 +5,6 @@ description: "Качество определяется материалом, к
 category: "Гардероб и повседневность"
 tags: ["гардероб", "качество"]
 keywords: ["качество", "что означает качество", "качество в консультации по стилю"]
-glossar_order: "q"
 weight: 1
 image: "images/glossar/qualitaet.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Качество"

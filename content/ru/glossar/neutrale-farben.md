@@ -11,7 +11,6 @@ keywords:
     "как сочетать цвета",
     "цвета для capsule wardrobe",
   ]
-glossar_order: "n"
 weight: 24
 
 image: "images/glossar/neutrale-farben.png"

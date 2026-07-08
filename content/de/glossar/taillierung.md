@@ -5,7 +5,6 @@ description: "Taillierung beschreibt, wie Kleidung die Körpermitte formt oder b
 category: "Schnitt, Proportion & Passform"
 tags: ["taillierung", "schnitt", "passform", "silhouette", "proportion"]
 keywords: ["taillierung", "was bedeutet taillierung", "taillierter schnitt", "taille betonen"]
-glossar_order: "t"
 weight: 14
 image: "images/glossar/taillierung.png"
 image_alt: "Editoriale Grafik mit taillierter Silhouette, Gürtel und feinen Linien zur Körpermitte"

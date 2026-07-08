@@ -5,7 +5,6 @@ description: "Signale sind stilistische Elemente, die eine bestimmte Wirkung sen
 category: "Stil & Wirkung"
 tags: ["signale", "stil"]
 keywords: ["signale", "was bedeutet signale", "signale stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/signale.png"
 image_alt: "Editoriale Glossar-Grafik zu Signale mit ruhigen Farbfeldern und feiner Linienführung"

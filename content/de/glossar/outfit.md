@@ -5,7 +5,6 @@ description: "Ein Outfit ist die vollständige Kombination aus Kleidung, Schuhen
 category: "Stil & Wirkung"
 tags: ["outfit", "stil"]
 keywords: ["outfit", "was bedeutet outfit", "outfit stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/outfit.png"
 image_alt: "Editoriale Glossar-Grafik zu Outfit mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Ежедневный гардероб — это набор баз
 category: "Гардероб и повседневность"
 tags: ["alltagsuniform", "гардероб"]
 keywords: ["alltagsuniform", "что означает alltagsuniform", "alltagsuniform stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/alltagsuniform.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ежедневный гардероб"

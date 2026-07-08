@@ -5,7 +5,6 @@ description: "Ein Allover-Print bedeckt die gesamte Stofffläche und prägt die 
 category: "Materialien & Details"
 tags: ["allover print", "materialien"]
 keywords: ["allover-print", "was bedeutet allover-print", "allover-print stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/allover-print.png"
 image_alt: "Editoriale Glossar-Grafik zu Allover-Print mit ruhigen Farbfeldern und feiner Linienführung"

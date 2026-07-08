@@ -5,7 +5,6 @@ description: "Eine Wunschliste sammelt Kleidungsstücke, die bewusst geplant wer
 category: "Garderobe & Alltag"
 tags: ["garderobe", "wunschliste"]
 keywords: ["wunschliste", "was bedeutet wunschliste", "wunschliste stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wunschliste.png"
 image_alt: "Editoriale Glossar-Grafik zu Wunschliste mit ruhigen Farbfeldern und feiner Linienführung"

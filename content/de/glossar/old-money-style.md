@@ -5,7 +5,6 @@ description: "Old Money Style beschreibt einen klassisch hochwertigen Stil mit r
 category: "Stil & Wirkung"
 tags: ["old money style", "stil"]
 keywords: ["old money style", "was bedeutet old money style", "old money style stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/old-money-style.png"
 image_alt: "Editoriale Glossar-Grafik zu Old Money Style mit ruhigen Farbfeldern und feiner Linienführung"

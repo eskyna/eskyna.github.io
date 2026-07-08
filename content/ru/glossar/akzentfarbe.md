@@ -5,7 +5,6 @@ description: "Акцентный цвет добавляет образу дин
 category: "Консультация по цвету и цвет"
 tags: ["akzentfarbe", "farbe", "styling", "accessoire"]
 keywords: ["akzentfarbe", "farben kombinieren", "farbe als akzent", "stilberatung"]
-glossar_order: "a"
 weight: 23
 image: "images/glossar/akzentfarbe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Акцентный цвет"

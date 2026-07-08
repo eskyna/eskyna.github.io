@@ -5,7 +5,6 @@ description: "Outfit это полная комбинация одежды, об
 category: "Стиль и воздействие"
 tags: ["outfit", "стиль"]
 keywords: ["outfit", "что входит в outfit", "сборка образа"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/outfit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Outfit"

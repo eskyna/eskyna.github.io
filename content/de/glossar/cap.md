@@ -5,7 +5,6 @@ description: "Eine Cap ist eine sportliche Kopfbedeckung mit Schirm, die einem O
 category: "Materialien & Details"
 tags: ["cap", "accessoire", "kopfbedeckung", "sportlich", "styling"]
 keywords: ["cap styling", "was ist eine cap", "cap kombinieren"]
-glossar_order: "c"
 weight: 27
 image: "images/glossar/cap.png"
 image_alt: "Editoriale Grafik zu Cap mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

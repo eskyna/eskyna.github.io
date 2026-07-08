@@ -12,7 +12,6 @@ keywords:
   - "weste"
   - "was ist eine weste"
   - "weste kombinieren"
-glossar_order: "w"
 weight: 5
 image: "images/glossar/weste.png"
 image_alt: "Editoriale Grafik mit stilisierter Weste, Knopfleiste und klarer vertikaler Linie"

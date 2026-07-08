@@ -5,7 +5,6 @@ description: "Quiet Luxury beschreibt zurückhaltende Eleganz mit guten Material
 category: "Stil & Wirkung"
 tags: ["quiet luxury", "stil", "eleganz", "hochwertigkeit", "minimalismus"]
 keywords: ["quiet luxury", "leiser luxus", "eleganter stil", "stilberatung"]
-glossar_order: "q"
 weight: 2
 image: "images/glossar/quiet-luxury.png"
 image_alt: "Editoriale Grafik mit ruhigen Naturfarben, klaren Linien und hochwertigen Materialflächen"

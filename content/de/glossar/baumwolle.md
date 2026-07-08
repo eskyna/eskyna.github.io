@@ -5,7 +5,6 @@ description: "Baumwolle ist eine vielseitige Naturfaser, die je nach Webart spor
 category: "Materialien & Details"
 tags: ["baumwolle", "material", "naturfaser", "qualität", "stoff"]
 keywords: ["baumwolle", "was ist baumwolle", "baumwolle kleidung", "baumwollstoff"]
-glossar_order: "b"
 weight: 2
 image: "images/glossar/baumwolle.png"
 image_alt: "Editoriale Grafik mit Baumwollblüte, gewebtem Stoff und neutralen Farbfeldern"

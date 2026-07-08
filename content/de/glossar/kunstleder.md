@@ -5,7 +5,6 @@ description: "Kunstleder ist ein lederähnliches synthetisches Material, dessen 
 category: "Materialien & Details"
 tags: ["kunstleder", "materialien"]
 keywords: ["kunstleder", "was bedeutet kunstleder", "kunstleder stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kunstleder.png"
 image_alt: "Editoriale Glossar-Grafik zu Kunstleder mit ruhigen Farbfeldern und feiner Linienführung"

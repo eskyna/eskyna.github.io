@@ -5,7 +5,6 @@ description: "Körperform beschreibt die individuelle Körperstruktur ohne Bewer
 category: "Stil & Wirkung"
 tags: ["körperform", "stil"]
 keywords: ["körperform", "was bedeutet körperform", "körperform stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/koerperform.png"
 image_alt: "Editoriale Glossar-Grafik zu Körperform mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Подкладка это внутренний слой ткани
 category: "Материалы и детали"
 tags: ["подкладка", "материалы"]
 keywords: ["подкладка", "внутренний слой ткани", "качество подкладки"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/futter.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Подкладка"

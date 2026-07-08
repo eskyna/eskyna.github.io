@@ -5,7 +5,6 @@ description: "Raffia bag это сумка из рафии, лыка или по
 category: "Материалы и детали"
 tags: ["raffia bag", "сумка", "сумка из рафии", "лето"]
 keywords: ["raffia bag", "сумка из рафии", "сумка из натурального материала"]
-glossar_order: "r"
 weight: 20
 relatedTerms:
   - title: "Shopper"

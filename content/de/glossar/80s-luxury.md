@@ -5,7 +5,6 @@ description: "80s Luxury beschreibt luxuriöse, markante Stilcodes der 1980er-Ja
 category: "Stil & Wirkung"
 tags: ["80s luxury", "achtziger", "luxus", "power dressing"]
 keywords: ["80s luxury", "80er luxus", "power suit stil"]
-glossar_order: "8"
 weight: 17
 relatedTerms:
   - title: "Schulterpolster"

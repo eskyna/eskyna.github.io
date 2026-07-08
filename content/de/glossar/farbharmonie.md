@@ -5,7 +5,6 @@ description: "Farbharmonie beschreibt, warum bestimmte Farben zusammen ruhig, st
 category: "Farbberatung & Farbe"
 tags: ["farbharmonie", "farbe", "kombinieren", "farbberatung"]
 keywords: ["farbharmonie", "farben kombinieren", "harmonische farben"]
-glossar_order: "f"
 weight: 14
 relatedTerms:
   - title: "Farbpalette"

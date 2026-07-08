@@ -5,7 +5,6 @@ description: "Parka это удлинённая функциональная к�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "parka"]
 keywords: ["parka", "что означает parka", "как носить parka"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/parka.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Parka"

@@ -5,7 +5,6 @@ description: "Längsstreifen verlaufen vertikal und können eine klare, strecken
 category: "Materialien & Details"
 tags: ["längsstreifen", "materialien"]
 keywords: ["längsstreifen", "was bedeutet längsstreifen", "längsstreifen stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/laengsstreifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Längsstreifen mit ruhigen Farbfeldern und feiner Linienführung"

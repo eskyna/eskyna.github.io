@@ -5,7 +5,6 @@ description: "Shift dress это платье прямого кроя без в�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "shift dress"]
 keywords: ["shift dress", "что означает shift dress", "как носить shift dress"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/shift-dress.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Shift dress"

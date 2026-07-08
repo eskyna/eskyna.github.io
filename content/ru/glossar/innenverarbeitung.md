@@ -5,7 +5,6 @@ description: "Внутренняя обработка описывает кач�
 category: "Материалы и детали"
 tags: ["внутренняя обработка", "материалы"]
 keywords: ["внутренняя обработка", "качество изнанки", "обработка изделия внутри"]
-glossar_order: "i"
 weight: 1
 image: "images/glossar/innenverarbeitung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Внутренняя обработка"

@@ -5,7 +5,6 @@ description: "Вырез водопад это драпированный выр
 category: "Материалы и детали"
 tags: ["материалы", "вырез водопад"]
 keywords: ["вырез водопад", "что означает вырез водопад", "вырез водопад в стилизации"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wasserfallausschnitt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Вырез водопад"

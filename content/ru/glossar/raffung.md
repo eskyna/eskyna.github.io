@@ -5,7 +5,6 @@ description: "Сборка ткани возникает, когда матер�
 category: "Материалы и детали"
 tags: ["материалы", "сборка ткани"]
 keywords: ["сборка ткани", "драпированная сборка", "сборка в одежде"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/raffung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сборка ткани"

@@ -5,7 +5,6 @@ description: "Die Ärmellänge beschreibt, wo ein Ärmel endet und wie stark Han
 category: "Schnitt, Proportion & Passform"
 tags: ["aermellänge", "schnitt proportion"]
 keywords: ["ärmellänge", "was bedeutet ärmellänge", "ärmellänge stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/aermellaenge.png"
 image_alt: "Editoriale Glossar-Grafik zu Ärmellänge mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Stilberatung hilft, Kleidung, Farben, Schnitte und Wirkung bewusst
 category: "Stil & Wirkung"
 tags: ["stil", "stilberatung"]
 keywords: ["stilberatung", "was bedeutet stilberatung", "stilberatung stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilberatung.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilberatung mit ruhigen Farbfeldern und feiner Linienführung"

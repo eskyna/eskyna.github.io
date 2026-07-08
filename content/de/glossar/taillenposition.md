@@ -5,7 +5,6 @@ description: "Die Taillenposition zeigt, wo die Körpermitte optisch sitzt und w
 category: "Schnitt, Proportion & Passform"
 tags: ["taillenposition", "proportion", "bundhöhe", "silhouette"]
 keywords: ["taillenposition", "körpermitte optisch", "drop waist", "high waist"]
-glossar_order: "t"
 weight: 39
 relatedTerms:
   - title: "High Waist"

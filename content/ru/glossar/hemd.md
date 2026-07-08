@@ -5,7 +5,6 @@ description: "Рубашка это верх с воротником и план
 category: "Гардероб и повседневность"
 tags: ["рубашка", "верх", "business casual", "хлопок", "посадка"]
 keywords: ["рубашка", "как носить рубашку", "сочетание рубашки", "посадка рубашки"]
-glossar_order: "h"
 weight: 14
 image: "images/glossar/hemd.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Рубашка"

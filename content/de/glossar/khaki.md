@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#B7A77A"
 tags: ["khaki", "beige", "gruen", "farbe", "farbberatung"]
 keywords: ["khaki kleidung", "khaki kombinieren", "khaki farbe", "farbberatung"]
-glossar_order: "k"
 weight: 25
 image: "images/glossar/khaki.png"
 image_alt: "Editoriale Grafik zu Khaki mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

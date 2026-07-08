@@ -5,7 +5,6 @@ description: "Pocket vest это жилет с несколькими замет
 category: "Гардероб и повседневность"
 tags: ["pocket vest", "жилет", "utility", "карманы"]
 keywords: ["pocket vest", "жилет с карманами", "utility жилет"]
-glossar_order: "p"
 weight: 28
 relatedTerms:
   - title: "Жилет"

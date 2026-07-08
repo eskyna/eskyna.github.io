@@ -5,7 +5,6 @@ description: "Light Academia ist die hellere Variante akademischer Stilcodes mit
 category: "Stil & Wirkung"
 tags: ["light academia", "akademisch", "stil", "vintage"]
 keywords: ["light academia", "light academia style", "helle akademische ästhetik"]
-glossar_order: "l"
 weight: 26
 relatedTerms:
   - title: "Dark Academia"

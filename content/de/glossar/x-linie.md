@@ -5,7 +5,6 @@ description: "Die X-Linie betont die Taille und schafft Balance zwischen Schulte
 category: "Schnitt, Proportion & Passform"
 tags: ["schnitt proportion", "x linie"]
 keywords: ["x-linie", "was bedeutet x-linie", "x-linie stilberatung"]
-glossar_order: "x"
 weight: 1
 image: "images/glossar/x-linie.png"
 image_alt: "Editoriale Glossar-Grafik zu X-Linie mit ruhigen Farbfeldern und feiner Linienführung"

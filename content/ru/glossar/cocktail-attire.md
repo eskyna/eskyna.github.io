@@ -5,7 +5,6 @@ description: "Коктейльный дресс-код это междунаро
 category: "Гардероб и повседневность"
 tags: ["cocktail attire", "dresscode", "abend", "festlich"]
 keywords: ["cocktail attire", "cocktail attire dresscode", "cocktail kleidung"]
-glossar_order: "c"
 weight: 16
 relatedTerms:
   - title: "Коктейльный формат"

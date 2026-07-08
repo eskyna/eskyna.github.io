@@ -5,7 +5,6 @@ description: "Eine Kleiderschrank-Inventur erfasst, was vorhanden ist, was getra
 category: "Garderobe & Alltag"
 tags: ["kleiderschrank inventur", "garderobe", "analyse", "ordnung"]
 keywords: ["kleiderschrank-inventur", "kleiderschrank inventur", "garderobe erfassen"]
-glossar_order: "k"
 weight: 53
 relatedTerms:
   - title: "Wardrobe Audit"

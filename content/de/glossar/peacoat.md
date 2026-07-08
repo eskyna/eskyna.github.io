@@ -5,7 +5,6 @@ description: "Peacoat ist die englische Bezeichnung für eine kurze, doppelreihi
 category: "Garderobe & Alltag"
 tags: ["garderobe", "peacoat"]
 keywords: ["peacoat", "was bedeutet peacoat", "peacoat stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/peacoat.png"
 image_alt: "Editoriale Glossar-Grafik zu Peacoat mit ruhigen Farbfeldern und feiner Linienführung"

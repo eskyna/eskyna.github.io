@@ -5,7 +5,6 @@ description: "Tenue de Ville ist ein klassischer Tagesdresscode für gepflegte, 
 category: "Garderobe & Alltag"
 tags: ["tenue de ville", "dresscode", "tag", "formell"]
 keywords: ["tenue de ville", "tenue de ville dresscode", "tagesdresscode"]
-glossar_order: "t"
 weight: 22
 relatedTerms:
   - title: "Dresscode"

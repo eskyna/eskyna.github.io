@@ -5,7 +5,6 @@ description: "Travel capsule это компактный гардероб для
 category: "Гардероб и повседневность"
 tags: ["гардероб", "travel capsule"]
 keywords: ["travel capsule", "капсула в поездку", "капсульный гардероб для путешествия"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/reise-capsule.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Travel capsule"

@@ -5,7 +5,6 @@ description: "Travel wardrobe это небольшая и легко сочет
 category: "Гардероб и повседневность"
 tags: ["гардероб", "travel wardrobe"]
 keywords: ["travel wardrobe", "гардероб для поездки", "капсула в дорогу"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/reisegarderobe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Travel wardrobe"

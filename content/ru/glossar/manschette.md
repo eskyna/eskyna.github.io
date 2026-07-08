@@ -5,7 +5,6 @@ description: "Манжета это завершение рукава, кото�
 category: "Крой, пропорции и посадка"
 tags: ["манжета", "крой", "пропорции"]
 keywords: ["манжета", "манжета рукава", "виды манжет"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/manschette.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Манжета"

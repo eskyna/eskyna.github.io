@@ -5,7 +5,6 @@ description: "Sättigung beschreibt, wie intensiv oder gedämpft eine Farbe wirk
 category: "Farbberatung & Farbe"
 tags: ["sättigung", "farbe", "farbberatung", "kontrast"]
 keywords: ["sättigung farbe", "gedämpfte farben", "kräftige farben", "farbberatung"]
-glossar_order: "s"
 weight: 19
 
 image: "images/glossar/saettigung.png"

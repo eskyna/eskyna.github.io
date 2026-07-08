@@ -5,7 +5,6 @@ description: "Тонкий трикотаж это гладкий и лёгки�
 category: "Материалы и детали"
 tags: ["тонкий трикотаж", "материалы"]
 keywords: ["тонкий трикотаж", "гладкий трикотаж", "мягкий тонкий knit"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/feinstrick.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Тонкий трикотаж"

@@ -5,7 +5,6 @@ description: "Минимализм в моде означает редуциро
 category: "Стиль и воздействие"
 tags: ["минимализм", "стиль"]
 keywords: ["минимализм", "минимализм в одежде", "минималистичный стиль"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/minimalismus.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Минимализм"

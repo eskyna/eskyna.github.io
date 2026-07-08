@@ -5,7 +5,6 @@ description: "Semi Formal ist ein gehobener Dresscode zwischen Cocktail und form
 category: "Garderobe & Alltag"
 tags: ["semi formal", "dresscode", "anlass", "abend"]
 keywords: ["semi formal", "semi formal dresscode", "gehobene kleidung"]
-glossar_order: "s"
 weight: 15
 relatedTerms:
   - title: "Dresscode"

@@ -5,7 +5,6 @@ description: "Die O-Linie beschreibt eine rundere, voluminösere Silhouette mit 
 category: "Schnitt, Proportion & Passform"
 tags: ["o linie", "schnitt proportion"]
 keywords: ["o-linie", "was bedeutet o-linie", "o-linie stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/o-linie.png"
 image_alt: "Editoriale Glossar-Grafik zu O-Linie mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Kombinierbarkeit beschreibt, wie gut ein Kleidungsstück mit ander
 category: "Garderobe & Alltag"
 tags: ["garderobe", "kombinierbarkeit"]
 keywords: ["kombinierbarkeit", "was bedeutet kombinierbarkeit", "kombinierbarkeit stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kombinierbarkeit.png"
 image_alt: "Editoriale Glossar-Grafik zu Kombinierbarkeit mit ruhigen Farbfeldern und feiner Linienführung"

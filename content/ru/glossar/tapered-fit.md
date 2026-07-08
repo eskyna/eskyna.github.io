@@ -12,7 +12,6 @@ keywords:
   - "tapered fit"
   - "что означает tapered fit"
   - "брюки tapered fit"
-glossar_order: "t"
 weight: 5
 image: "images/glossar/tapered-fit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Tapered fit"

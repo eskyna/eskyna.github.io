@@ -5,7 +5,6 @@ description: "Eine Cabanjacke ist eine kurze, meist doppelreihige Wolljacke mit 
 category: "Garderobe & Alltag"
 tags: ["cabanjacke", "garderobe"]
 keywords: ["cabanjacke", "was bedeutet cabanjacke", "cabanjacke stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cabanjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Cabanjacke mit ruhigen Farbfeldern und feiner Linienführung"

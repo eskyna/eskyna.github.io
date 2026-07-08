@@ -5,7 +5,6 @@ description: "Poetcore ist eine romantisch-intellektuelle Stilästhetik mit weic
 category: "Stil & Wirkung"
 tags: ["poetcore", "stil", "aesthetic", "vintage"]
 keywords: ["poetcore", "poet core", "poet aesthetic", "romantisch intellektueller stil"]
-glossar_order: "p"
 weight: 15
 relatedTerms:
   - title: "Dark Academia"

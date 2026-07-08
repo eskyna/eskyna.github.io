@@ -5,7 +5,6 @@ description: "Трикотаж это вязаное полотно, котор�
 category: "Материалы и детали"
 tags: ["материалы", "трикотаж"]
 keywords: ["трикотаж", "что означает трикотаж", "трикотаж в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/strick.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Трикотаж"

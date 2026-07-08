@@ -5,7 +5,6 @@ description: "Ein Seidentuch ist ein feines Accessoire mit Glanz und fließendem
 category: "Materialien & Details"
 tags: ["seidentuch", "accessoire", "seide", "farbe", "styling"]
 keywords: ["seidentuch", "was ist ein seidentuch", "seidentuch binden"]
-glossar_order: "s"
 weight: 17
 image: "images/glossar/seidentuch.png"
 image_alt: "Editoriale Grafik zu Seidentuch mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

@@ -5,7 +5,6 @@ description: "Ein Ledergürtel ist ein klassisches Accessoire, das Hose, Rock od
 category: "Materialien & Details"
 tags: ["ledergürtel", "materialien"]
 keywords: ["ledergürtel", "was bedeutet ledergürtel", "ledergürtel stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/lederguertel.png"
 image_alt: "Editoriale Glossar-Grafik zu Ledergürtel mit ruhigen Farbfeldern und feiner Linienführung"

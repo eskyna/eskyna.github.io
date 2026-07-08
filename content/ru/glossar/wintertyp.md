@@ -6,7 +6,6 @@ category: "Консультация по цвету и цвет"
 tags: ["зимний цветотип", "цветотип", "цветовая консультация", "winter type"]
 keywords:
   ["зимний цветотип", "cool winter", "clear winter", "deep winter", "холодный контрастный цветотип"]
-glossar_order: "w"
 weight: 10
 relatedTerms:
   - title: "Цветотип"

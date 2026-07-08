@@ -5,7 +5,6 @@ description: "Ein Armreif ist ein fester Schmuck für das Handgelenk, der einem 
 category: "Materialien & Details"
 tags: ["armreif", "materialien"]
 keywords: ["armreif", "was bedeutet armreif", "armreif stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/armreif.png"
 image_alt: "Editoriale Glossar-Grafik zu Armreif mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Organza ist ein transparenter, eher steifer Stoff, der Volumen und
 category: "Materialien & Details"
 tags: ["materialien", "organza"]
 keywords: ["organza", "was bedeutet organza", "organza stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/organza.png"
 image_alt: "Editoriale Glossar-Grafik zu Organza mit ruhigen Farbfeldern und feiner Linienführung"

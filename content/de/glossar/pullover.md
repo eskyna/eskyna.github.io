@@ -5,7 +5,6 @@ description: "Ein Pullover ist ein über den Kopf gezogenes Oberteil, das durch 
 category: "Garderobe & Alltag"
 tags: ["pullover", "strick", "oberteil", "layering", "passform"]
 keywords: ["pullover", "was ist ein pullover", "pullover kombinieren", "strickpullover"]
-glossar_order: "p"
 weight: 17
 image: "images/glossar/pullover.png"
 image_alt: "Editoriale Grafik mit stilisiertem Pullover, Strickstruktur und warmen ruhigen Farbfeldern"

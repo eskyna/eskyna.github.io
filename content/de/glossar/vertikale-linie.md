@@ -5,7 +5,6 @@ description: "Eine vertikale Linie lenkt den Blick von oben nach unten und kann 
 category: "Schnitt, Proportion & Passform"
 tags: ["vertikale linie", "optische streckung", "proportion", "blickführung"]
 keywords: ["vertikale linie", "optische streckung", "länger wirken styling"]
-glossar_order: "v"
 weight: 41
 relatedTerms:
   - title: "Blickführung"

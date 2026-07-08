@@ -10,7 +10,6 @@ keywords:
     "was bedeutet nachhaltige garderobe",
     "nachhaltige garderobe stilberatung",
   ]
-glossar_order: "n"
 weight: 1
 image: "images/glossar/nachhaltige-garderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Nachhaltige Garderobe mit ruhigen Farbfeldern und feiner Linienführung"

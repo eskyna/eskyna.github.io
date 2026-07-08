@@ -5,7 +5,6 @@ description: "Сумка с бусинами это сумка, украшенн
 category: "Материалы и детали"
 tags: ["beaded bag", "tasche", "perlen", "abend"]
 keywords: ["beaded bag", "perlentasche", "tasche mit perlen"]
-glossar_order: "b"
 weight: 22
 relatedTerms:
   - title: "Клатч"

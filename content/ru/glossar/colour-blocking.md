@@ -5,7 +5,6 @@ description: "Блокировка цвета — это техника испо
 category: "Консультация по цвету и цвет"
 tags: ["colour blocking", "материалы"]
 keywords: ["colour blocking", "что означает colour blocking", "colour blocking stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/colour-blocking.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Блокировка цвета"

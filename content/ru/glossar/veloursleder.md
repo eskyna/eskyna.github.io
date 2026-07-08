@@ -5,7 +5,6 @@ description: "Велюр это мягкая матовая кожа с барх
 category: "Материалы и детали"
 tags: ["материалы", "велюр"]
 keywords: ["велюр", "что означает велюр", "велюр в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/veloursleder.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Велюр"

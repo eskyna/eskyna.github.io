@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#D94B8A"
 tags: ["pink", "цвет", "розовый", "цветовая консультация"]
 keywords: ["одежда pink", "с чем сочетать pink", "fuchsia", "pink в бизнес-образе"]
-glossar_order: "p"
 weight: 14
 image: "images/glossar/pink.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Pink"

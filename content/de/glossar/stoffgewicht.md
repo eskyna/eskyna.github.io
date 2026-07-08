@@ -5,7 +5,6 @@ description: "Stoffgewicht beschreibt, wie schwer ein Material ist und wie fest,
 category: "Materialien & Details"
 tags: ["materialien", "stoffgewicht"]
 keywords: ["stoffgewicht", "was bedeutet stoffgewicht", "stoffgewicht stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stoffgewicht.png"
 image_alt: "Editoriale Glossar-Grafik zu Stoffgewicht mit ruhigen Farbfeldern und feiner Linienführung"

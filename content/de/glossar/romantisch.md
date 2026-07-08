@@ -5,7 +5,6 @@ description: "Romantisch wirkt ein Stil durch weiche Linien, zarte Farben, flie√
 category: "Stil & Wirkung"
 tags: ["romantisch", "stil"]
 keywords: ["romantisch", "was bedeutet romantisch", "romantisch stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/romantisch.png"
 image_alt: "Editoriale Glossar-Grafik zu Romantisch mit ruhigen Farbfeldern und feiner Linienf√ºhrung"

@@ -5,7 +5,6 @@ description: "Ein Einreiher ist eine Jacke, ein Blazer oder Mantel mit einer Kno
 category: "Garderobe & Alltag"
 tags: ["einreiher", "garderobe"]
 keywords: ["einreiher", "was bedeutet einreiher", "einreiher stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/einreiher.png"
 image_alt: "Editoriale Glossar-Grafik zu Einreiher mit ruhigen Farbfeldern und feiner Linienführung"

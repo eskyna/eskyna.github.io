@@ -5,7 +5,6 @@ description: "Resort Casual ist ein gepflegter, entspannter Urlaubsstil mit leic
 category: "Garderobe & Alltag"
 tags: ["resort casual", "urlaub", "dresscode", "sommer"]
 keywords: ["resort casual", "resort casual outfit", "urlaub elegant"]
-glossar_order: "r"
 weight: 21
 relatedTerms:
   - title: "Beach Formal"

@@ -5,7 +5,6 @@ description: "Подкладка — это внутренний слой тка
 category: "Материалы и детали"
 tags: ["einlage", "материалы"]
 keywords: ["einlage", "что означает einlage", "einlage stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/einlage.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Подкладка"

@@ -12,7 +12,6 @@ keywords:
   - "barrel leg"
   - "что означает barrel leg"
   - "barrel leg jeans"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/barrel-leg.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бочкообразные брюки"

@@ -5,7 +5,6 @@ description: "Букле — это текстурированная ткань 
 category: "Материалы и детали"
 tags: ["boucle", "материалы"]
 keywords: ["bouclé", "что означает bouclé", "bouclé stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/boucle.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Букле"

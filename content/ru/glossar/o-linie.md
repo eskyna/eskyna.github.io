@@ -5,7 +5,6 @@ description: "O-силуэт описывает более округлую и �
 category: "Крой, пропорции и посадка"
 tags: ["o-силуэт", "крой", "пропорции"]
 keywords: ["o-силуэт", "объёмный силуэт", "округлая форма в одежде"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/o-linie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина O-силуэт"

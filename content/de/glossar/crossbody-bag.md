@@ -5,7 +5,6 @@ description: "Eine Crossbody Bag wird quer über dem Körper getragen und verbin
 category: "Materialien & Details"
 tags: ["crossbody bag", "tasche", "accessoire", "styling", "alltag"]
 keywords: ["crossbody bag", "was ist eine crossbody bag", "umhängetasche quer tragen"]
-glossar_order: "c"
 weight: 12
 image: "images/glossar/crossbody-bag.png"
 image_alt: "Editoriale Grafik zu Crossbody Bag mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

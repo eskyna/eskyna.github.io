@@ -5,7 +5,6 @@ description: "Облегающее платье подчёркивает фор�
 category: "Крой, пропорции и посадка"
 tags: ["bodycon dress", "гардероб"]
 keywords: ["bodycon dress", "что означает bodycon dress", "bodycon dress stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bodycon-dress.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Облегающее платье"

@@ -5,7 +5,6 @@ description: "Ein Schnittprofil beschreibt Formen, Linien, Längen und Proportio
 category: "Stil & Wirkung"
 tags: ["schnittprofil", "stil"]
 keywords: ["schnittprofil", "was bedeutet schnittprofil", "schnittprofil stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schnittprofil.png"
 image_alt: "Editoriale Glossar-Grafik zu Schnittprofil mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Straight Leg beschreibt eine gerade Hosenform, die vom Oberschenke
 category: "Schnitt, Proportion & Passform"
 tags: ["straight leg", "hose", "jeans", "schnitt", "passform"]
 keywords: ["straight leg", "was bedeutet straight leg", "straight leg jeans", "gerade hose"]
-glossar_order: "s"
 weight: 13
 image: "images/glossar/straight-leg.png"
 image_alt: "Editoriale Grafik mit gerade fallender Hose und klaren vertikalen Linien"

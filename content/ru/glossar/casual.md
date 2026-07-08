@@ -5,7 +5,6 @@ description: "Casual-стиль — это свободный, комфортн�
 category: "Стиль и воздействие"
 tags: ["casual", "stil"]
 keywords: ["casual", "что означает casual", "casual stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/casual.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Casual-стиль"

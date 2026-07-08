@@ -5,7 +5,6 @@ description: "Espadrilles sind leichte Sommerschuhe mit Bast oder Jutesohle und 
 category: "Schuhe"
 tags: ["espadrilles", "schuhe", "sommer", "leinen"]
 keywords: ["espadrilles", "was sind espadrilles", "sommerschuhe"]
-glossar_order: "e"
 weight: 8
 image: "images/glossar/espadrilles.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Espadrilles mit ruhigen Formen und feinen Farbfeldern"

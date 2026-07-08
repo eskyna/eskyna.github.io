@@ -5,7 +5,6 @@ description: "Ein Body ist ein körpernahes Oberteil, das im Schritt geschlossen
 category: "Materialien & Details"
 tags: ["body", "materialien"]
 keywords: ["body", "was bedeutet body", "body stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/body.png"
 image_alt: "Editoriale Glossar-Grafik zu Body mit ruhigen Farbfeldern und feiner Linienführung"

@@ -12,7 +12,6 @@ keywords:
   - "bleistiftrock"
   - "что такое bleistiftrock"
   - "bleistiftrock kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/bleistiftrock.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка-карандаш"

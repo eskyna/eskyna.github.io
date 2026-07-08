@@ -7,4 +7,4 @@ glossar_category: "Garderobe & Alltag"
 url: "/glossar/kategorie/garderobe-alltag/"
 ---
 
-Sie finden hier Themen von Kaufkriterien bis Garderobenlogik. Das hilft Ihnen, Fehlkäufe zu reduzieren und Outfits effizienter für Alltag, Beruf und besondere Termine zu planen.
+Du findest hier Themen von Kaufkriterien bis Garderobenlogik. Das hilft dir, Fehlkäufe zu reduzieren und Outfits effizienter für Alltag, Beruf und besondere Termine zu planen.

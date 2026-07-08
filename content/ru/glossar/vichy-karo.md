@@ -5,7 +5,6 @@ description: "Клетка виши это мелкий ровный клетч�
 category: "Материалы и детали"
 tags: ["материалы", "клетка виши"]
 keywords: ["клетка виши", "что означает клетка виши", "клетка виши в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/vichy-karo.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Клетка виши"

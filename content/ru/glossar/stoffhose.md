@@ -12,7 +12,6 @@ keywords:
   - "брюки из ткани"
   - "что такое брюки из ткани"
   - "с чем сочетать брюки из ткани"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/stoffhose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки из ткани"

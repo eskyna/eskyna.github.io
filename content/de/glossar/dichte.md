@@ -5,7 +5,6 @@ description: "Dichte beschreibt, wie eng ein Stoff gewebt oder gestrickt ist und
 category: "Materialien & Details"
 tags: ["dichte", "materialien"]
 keywords: ["dichte", "was bedeutet dichte", "dichte stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dichte.png"
 image_alt: "Editoriale Glossar-Grafik zu Dichte mit ruhigen Farbfeldern und feiner Linienführung"

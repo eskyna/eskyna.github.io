@@ -5,7 +5,6 @@ description: "Лидерский стиль описывает визуальн�
 category: "Стиль и воздействие"
 tags: ["leadership style", "руководство", "впечатление", "бизнес"]
 keywords: ["leadership style", "одежда для лидерской роли", "authority dressing"]
-glossar_order: "l"
 weight: 9
 relatedTerms:
   - title: "Лидерское присутствие"

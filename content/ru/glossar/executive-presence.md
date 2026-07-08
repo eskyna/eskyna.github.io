@@ -5,7 +5,6 @@ description: "Лидерское присутствие это уверенно�
 category: "Стиль и воздействие"
 tags: ["executive presence", "wirkung", "fuehrung", "business"]
 keywords: ["executive presence", "fuehrungsausstrahlung", "praesenz im business"]
-glossar_order: "e"
 weight: 7
 relatedTerms:
   - title: "Впечатление"

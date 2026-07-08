@@ -5,7 +5,6 @@ description: "Hobo bag это мягкая сумка на плечо округ
 category: "Материалы и детали"
 tags: ["hobo bag", "tasche", "accessoire", "alltag", "silhouette"]
 keywords: ["hobo bag", "что такое hobo bag", "сумка hobo"]
-glossar_order: "h"
 weight: 14
 image: "images/glossar/hobo-bag.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Hobo Bag"

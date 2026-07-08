@@ -5,7 +5,6 @@ description: "Die Schuh-Saum-Beziehung beschreibt, wie Hosen- oder Rocksaum und 
 category: "Schnitt, Proportion & Passform"
 tags: ["schuh saum beziehung", "saum", "schuhe", "beinlänge"]
 keywords: ["schuh-saum-beziehung", "hose schuh länge", "beinlinie schuh saum"]
-glossar_order: "s"
 weight: 47
 relatedTerms:
   - title: "Saumlänge"

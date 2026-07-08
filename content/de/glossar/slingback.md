@@ -12,7 +12,6 @@ keywords:
   - "slingback"
   - "was ist ein slingback"
   - "slingbacks kombinieren"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/slingback.png"
 image_alt: "Editoriale Grafik mit stilisiertem Slingback, offenem Fersenriemen und kleinem Absatz"

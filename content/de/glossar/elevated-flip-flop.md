@@ -5,7 +5,6 @@ description: "Elevated Flip-Flops sind hochwertige oder absatznahe Varianten kla
 category: "Schuhe"
 tags: ["elevated flip flop", "zehentrenner", "schuhe", "minimalistisch"]
 keywords: ["elevated flip flop", "edler zehentrenner", "eleganter flip flop"]
-glossar_order: "e"
 weight: 24
 relatedTerms:
   - title: "Sandale"

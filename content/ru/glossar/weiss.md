@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#F8F4ED"
 tags: ["белый", "цвет", "цветовая консультация", "впечатление цвета"]
 keywords: ["белая одежда", "с чем сочетать белый", "off white", "цветовая консультация"]
-glossar_order: "w"
 weight: 2
 image: "images/glossar/weiss.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Белый"

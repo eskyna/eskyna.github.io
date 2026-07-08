@@ -5,7 +5,6 @@ description: "Ein Investitionsteil ist ein hochwertiges Kleidungsstück, das lan
 category: "Garderobe & Alltag"
 tags: ["garderobe", "investitionsteil"]
 keywords: ["investitionsteil", "was bedeutet investitionsteil", "investitionsteil stilberatung"]
-glossar_order: "i"
 weight: 1
 image: "images/glossar/investitionsteil.png"
 image_alt: "Editoriale Glossar-Grafik zu Investitionsteil mit ruhigen Farbfeldern und feiner Linienführung"

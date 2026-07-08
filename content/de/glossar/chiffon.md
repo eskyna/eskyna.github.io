@@ -5,7 +5,6 @@ description: "Chiffon ist ein sehr leichter, transparenter Stoff mit zartem, bew
 category: "Materialien & Details"
 tags: ["chiffon", "materialien"]
 keywords: ["chiffon", "was bedeutet chiffon", "chiffon stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/chiffon.png"
 image_alt: "Editoriale Glossar-Grafik zu Chiffon mit ruhigen Farbfeldern und feiner Linienführung"

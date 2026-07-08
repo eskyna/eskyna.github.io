@@ -12,7 +12,6 @@ keywords:
   - "plisseerock"
   - "was ist ein plisseerock"
   - "plisseerock kombinieren"
-glossar_order: "p"
 weight: 5
 image: "images/glossar/plisseerock.png"
 image_alt: "Editoriale Grafik mit stilisiertem Plisseerock, feinen Falten und fließender Bewegung"

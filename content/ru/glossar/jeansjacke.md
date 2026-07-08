@@ -12,7 +12,6 @@ keywords:
   - "джинсовая куртка"
   - "что такое джинсовая куртка"
   - "с чем носить джинсовую куртку"
-glossar_order: "j"
 weight: 5
 image: "images/glossar/jeansjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Джинсовая куртка"

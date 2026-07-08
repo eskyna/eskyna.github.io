@@ -5,7 +5,6 @@ description: "Clean girl aesthetic описывает собранный, ухо
 category: "Стиль и воздействие"
 tags: ["clean girl aesthetic", "minimalismus", "stil", "neutral"]
 keywords: ["clean girl aesthetic", "clean girl style", "gepflegter minimalistischer look"]
-glossar_order: "c"
 weight: 18
 relatedTerms:
   - title: "Минимализм"

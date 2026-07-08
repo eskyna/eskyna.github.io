@@ -5,7 +5,6 @@ description: "Стоимость за носку — это метод расч�
 category: "Гардероб и повседневность"
 tags: ["cost per wear", "гардероб"]
 keywords: ["cost per wear", "что означает cost per wear", "cost per wear stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cost-per-wear.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Стоимость за носку"

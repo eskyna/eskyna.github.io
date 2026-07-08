@@ -5,7 +5,6 @@ description: "Ein Reißverschluss ist ein funktionales Verschlussdetail, das Kom
 category: "Materialien & Details"
 tags: ["materialien", "reissverschluss"]
 keywords: ["reißverschluss", "was bedeutet reißverschluss", "reißverschluss stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/reissverschluss.png"
 image_alt: "Editoriale Glossar-Grafik zu Reißverschluss mit ruhigen Farbfeldern und feiner Linienführung"

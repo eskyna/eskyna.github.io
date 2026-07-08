@@ -5,7 +5,6 @@ description: "Vintage описывает вещи или стилевые код
 category: "Стиль и воздействие"
 tags: ["стиль", "vintage"]
 keywords: ["vintage", "что означает vintage", "vintage в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/vintage.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Vintage"

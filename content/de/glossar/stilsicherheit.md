@@ -5,7 +5,6 @@ description: "Stilsicherheit bedeutet, Kleidung bewusst und passend zu Wirkung, 
 category: "Stil & Wirkung"
 tags: ["stilsicherheit", "stil", "wirkung", "kombinieren"]
 keywords: ["stilsicherheit", "was bedeutet stilsicherheit", "stilsicherheit stilberatung"]
-glossar_order: "s"
 weight: 4
 relatedTerms:
   - title: "Stil"

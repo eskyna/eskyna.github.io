@@ -5,7 +5,6 @@ description: "Farbtemperatur beschreibt, ob Farben warm, kühl oder neutral wirk
 category: "Farbberatung & Farbe"
 tags: ["farbtemperatur", "farbberatung", "unterton", "farbe"]
 keywords: ["farbtemperatur", "warme farben", "kühle farben", "farbberatung"]
-glossar_order: "f"
 weight: 18
 image: "images/glossar/farbtemperatur.png"
 image_alt: "Editoriale Grafik zum Glossarbegriff Farbtemperatur mit ruhigen Farbfeldern und klarer Linienführung"

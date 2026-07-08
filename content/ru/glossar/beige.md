@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#D8C4B3"
 tags: ["beige", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["beige kleidung", "beige kombinieren", "neutrale farben", "stilberatung"]
-glossar_order: "b"
 weight: 4
 image: "images/glossar/beige.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бежевый"

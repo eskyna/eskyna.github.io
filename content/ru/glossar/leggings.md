@@ -12,7 +12,6 @@ keywords:
   - "leggings"
   - "что такое leggings"
   - "с чем носить leggings"
-glossar_order: "l"
 weight: 5
 image: "images/glossar/leggings.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Leggings"

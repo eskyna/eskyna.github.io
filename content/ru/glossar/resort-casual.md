@@ -5,7 +5,6 @@ description: "Resort casual это аккуратный и расслаблен�
 category: "Гардероб и повседневность"
 tags: ["resort casual", "отпуск", "дресс-код", "лето"]
 keywords: ["resort casual", "образ resort casual", "элегантный отпускной стиль"]
-glossar_order: "r"
 weight: 21
 relatedTerms:
   - title: "Beach formal"

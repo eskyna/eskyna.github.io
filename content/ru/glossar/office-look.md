@@ -5,7 +5,6 @@ description: "Office look это образ для рабочих будней, 
 category: "Гардероб и повседневность"
 tags: ["гардероб", "office look"]
 keywords: ["office look", "офисный образ", "деловой повседневный стиль"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/office-look.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Office look"

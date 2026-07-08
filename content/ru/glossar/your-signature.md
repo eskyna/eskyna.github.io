@@ -5,7 +5,6 @@ description: "Your signature это индивидуальный стилево�
 category: "Стиль и воздействие"
 tags: ["stil", "your signature"]
 keywords: ["your signature", "что означает your signature", "your signature в стилизации"]
-glossar_order: "y"
 weight: 1
 image: "images/glossar/your-signature.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Your signature"

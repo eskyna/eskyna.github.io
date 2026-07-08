@@ -5,7 +5,6 @@ description: "Рюша это декоративный присборенный 
 category: "Материалы и детали"
 tags: ["материалы", "рюша"]
 keywords: ["рюша", "что означает рюша", "рюша в стилизации"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/ruesche.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Рюша"

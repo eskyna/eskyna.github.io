@@ -5,7 +5,6 @@ description: "Preppy это аккуратный колледж-стиль с п
 category: "Стиль и воздействие"
 tags: ["preppy", "стиль"]
 keywords: ["preppy", "эстетика preppy", "колледж-стиль"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/preppy.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Preppy"

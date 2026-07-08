@@ -5,7 +5,6 @@ description: "Органза это прозрачная и скорее жёс�
 category: "Материалы и детали"
 tags: ["материалы", "органза"]
 keywords: ["органза", "ткань органза", "органза в стилизации"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/organza.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Органза"

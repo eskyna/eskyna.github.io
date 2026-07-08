@@ -5,7 +5,6 @@ description: "Materialqualität beschreibt Faser, Dichte, Griff, Fall, Oberfläc
 category: "Materialien & Details"
 tags: ["materialqualität", "qualität", "stoff", "material"]
 keywords: ["materialqualität", "stoffqualität", "griff fall haltbarkeit"]
-glossar_order: "m"
 weight: 26
 relatedTerms:
   - title: "Qualität"

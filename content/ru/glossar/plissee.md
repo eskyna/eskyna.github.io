@@ -5,7 +5,6 @@ description: "Плиссе это равномерные узкие складк
 category: "Материалы и детали"
 tags: ["материалы", "плиссе"]
 keywords: ["плиссе", "плиссированная фактура", "плиссе в одежде"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/plissee.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Плиссе"

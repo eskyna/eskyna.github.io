@@ -5,7 +5,6 @@ description: "Secondhand обозначает одежду из вторых р�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "secondhand"]
 keywords: ["secondhand", "что означает secondhand", "secondhand в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/secondhand.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Secondhand"

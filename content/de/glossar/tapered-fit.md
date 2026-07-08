@@ -12,7 +12,6 @@ keywords:
   - "tapered fit"
   - "was bedeutet tapered fit"
   - "tapered hose"
-glossar_order: "t"
 weight: 5
 image: "images/glossar/tapered-fit.png"
 image_alt: "Editoriale Grafik zu Tapered Fit mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

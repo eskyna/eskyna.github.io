@@ -78,6 +78,12 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+HUGO_RESERVED_FRONTMATTER_TAGS = {
+    "layout",
+    "url",
+}
+
+
 def parse_template_for_params(content: str) -> set[str]:
     """
     Simple tokenizer/state machine that scans Hugo template blocks
@@ -227,6 +233,8 @@ def validate_template_vs_content(root_dir: Path) -> int:
 
     for file_path, md_tags in sorted(markdown_files.items()):
         for tag in sorted(md_tags.keys()):
+            if tag in HUGO_RESERVED_FRONTMATTER_TAGS:
+                continue
             if tag not in layout_tags:
                 warnings_by_file.setdefault(file_path, []).append((tag, md_tags[tag]))
 

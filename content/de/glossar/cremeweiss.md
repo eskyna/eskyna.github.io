@@ -5,7 +5,6 @@ description: "Cremeweiß ist ein warmes, weiches Weiß mit Gelb- oder Beigenuanc
 category: "Farbberatung & Farbe"
 tags: ["cremeweiss", "weiss", "farbe", "farbberatung"]
 keywords: ["cremeweiss", "cremeweiss farbe", "warmes weiss"]
-glossar_order: "c"
 weight: 18
 relatedTerms:
   - title: "Creme"

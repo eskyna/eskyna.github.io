@@ -5,7 +5,6 @@ description: "Stilgefühl ist die Fähigkeit, stimmige Kleidung, Proportionen, F
 category: "Stil & Wirkung"
 tags: ["stil", "stilgefühl"]
 keywords: ["stilgefühl", "was bedeutet stilgefühl", "stilgefühl stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilgefuehl.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilgefühl mit ruhigen Farbfeldern und feiner Linienführung"

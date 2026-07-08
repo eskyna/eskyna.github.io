@@ -5,7 +5,6 @@ description: "Аналогичные цвета расположены рядо�
 category: "Консультация по цвету и цвет"
 tags: ["analogfarben", "farbberatung"]
 keywords: ["analogfarben", "что означает analogfarben", "analogfarben stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/analogfarben.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Аналогичные цвета"

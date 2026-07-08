@@ -5,7 +5,6 @@ description: "Präsenz ist die wahrnehmbare Ausstrahlung einer Person im Raum, d
 category: "Stil & Wirkung"
 tags: ["präsenz", "wirkung", "ausstrahlung", "image"]
 keywords: ["präsenz", "präsenz im raum", "ausstrahlung kleidung"]
-glossar_order: "p"
 weight: 12
 relatedTerms:
   - title: "Ausstrahlung"

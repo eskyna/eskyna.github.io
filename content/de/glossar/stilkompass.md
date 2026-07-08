@@ -5,7 +5,6 @@ description: "Ein Stilkompass ist ein Orientierungssystem für Kleidung, Farbe, 
 category: "Stil & Wirkung"
 tags: ["stil", "stilkompass"]
 keywords: ["stilkompass", "was bedeutet stilkompass", "stilkompass stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilkompass.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilkompass mit ruhigen Farbfeldern und feiner Linienführung"

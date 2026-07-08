@@ -12,7 +12,6 @@ keywords:
   - "ankle boots"
   - "что такое ankle boots"
   - "с чем сочетать ankle boots"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/stiefelette.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ankle boots"

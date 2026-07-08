@@ -5,7 +5,6 @@ description: "Эссенциальные вещи — это базовые, н�
 category: "Гардероб и повседневность"
 tags: ["essential", "stil"]
 keywords: ["essential", "что означает essential", "essential stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/essential.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Эссенциал"

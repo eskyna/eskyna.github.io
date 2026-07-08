@@ -5,7 +5,6 @@ description: "Creolen sind runde Ohrringe, die je nach Größe, Material und Gla
 category: "Materialien & Details"
 tags: ["creolen", "ohrringe", "schmuck", "accessoire", "gesichtsrahmung"]
 keywords: ["creolen", "was sind creolen", "creolen kombinieren"]
-glossar_order: "c"
 weight: 21
 image: "images/glossar/creolen.png"
 image_alt: "Editoriale Grafik zu Creolen mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

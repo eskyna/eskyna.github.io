@@ -5,7 +5,6 @@ description: "White Canvas Sneaker sind leichte, weiße Stoff-Sneaker mit sportl
 category: "Schuhe"
 tags: ["white canvas sneaker", "sneaker", "canvas", "weiss"]
 keywords: ["white canvas sneaker", "weisser canvas sneaker", "stoff sneaker weiss"]
-glossar_order: "w"
 weight: 25
 relatedTerms:
   - title: "Sneaker"

@@ -5,7 +5,6 @@ description: "Эластан — это синтетический эласти�
 category: "Материалы и детали"
 tags: ["elasthan", "материалы"]
 keywords: ["elasthan", "что означает elasthan", "elasthan stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/elasthan.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Эластан"

@@ -5,7 +5,6 @@ description: "Ein Muster ist eine wiederkehrende optische Gestaltung auf Stoff, 
 category: "Materialien & Details"
 tags: ["materialien", "muster"]
 keywords: ["muster", "was bedeutet muster", "muster stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/muster.png"
 image_alt: "Editoriale Glossar-Grafik zu Muster mit ruhigen Farbfeldern und feiner Linienführung"

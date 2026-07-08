@@ -5,7 +5,6 @@ description: "Eine Bucket Bag ist eine beutelförmige Tasche mit rundlichem Bode
 category: "Materialien & Details"
 tags: ["bucket bag", "tasche", "accessoire", "alltag", "styling"]
 keywords: ["bucket bag", "was ist eine bucket bag", "beuteltasche"]
-glossar_order: "b"
 weight: 15
 image: "images/glossar/bucket-bag.png"
 image_alt: "Editoriale Grafik zu Bucket Bag mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

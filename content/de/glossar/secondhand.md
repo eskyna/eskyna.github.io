@@ -5,7 +5,6 @@ description: "Secondhand bezeichnet Kleidung aus zweiter Hand und kann Nachhalti
 category: "Garderobe & Alltag"
 tags: ["garderobe", "secondhand"]
 keywords: ["secondhand", "was bedeutet secondhand", "secondhand stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/secondhand.png"
 image_alt: "Editoriale Glossar-Grafik zu Secondhand mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Wirkungskompetenz ist die Fähigkeit, die eigene aeussere Wirkung 
 category: "Stil & Wirkung"
 tags: ["wirkungskompetenz", "wirkung", "image", "stilberatung"]
 keywords: ["wirkungskompetenz", "aussere wirkung", "wirkung bewusst steuern"]
-glossar_order: "w"
 weight: 8
 relatedTerms:
   - title: "Wirkung"

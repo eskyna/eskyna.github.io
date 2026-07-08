@@ -5,7 +5,6 @@ description: "Polyamid ist eine synthetische Faser, die robust, leicht und oft e
 category: "Materialien & Details"
 tags: ["materialien", "polyamid"]
 keywords: ["polyamid", "was bedeutet polyamid", "polyamid stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/polyamid.png"
 image_alt: "Editoriale Glossar-Grafik zu Polyamid mit ruhigen Farbfeldern und feiner Linienführung"

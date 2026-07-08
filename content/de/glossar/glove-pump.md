@@ -5,7 +5,6 @@ description: "Ein Glove Pump ist ein fußnaher Pumps mit weicher, handschuhartig
 category: "Schuhe"
 tags: ["glove pump", "pumps", "schuhe", "elegant"]
 keywords: ["glove pump", "weicher pumps", "handschuhartiger pumps"]
-glossar_order: "g"
 weight: 19
 relatedTerms:
   - title: "Pumps"

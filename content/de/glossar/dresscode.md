@@ -5,7 +5,6 @@ description: "Ein Dresscode beschreibt Kleidungserwartungen für einen Anlass un
 category: "Garderobe & Alltag"
 tags: ["dresscode", "anlass", "business casual", "smart casual", "wirkung"]
 keywords: ["dresscode", "was ist ein dresscode", "dresscode verstehen", "kleidung anlass"]
-glossar_order: "d"
 weight: 14
 image: "images/glossar/dresscode.png"
 image_alt: "Editoriale Grafik mit Einladungskarte, Kleiderrahmen und ruhigen Farbfeldern für unterschiedliche Anlässe"

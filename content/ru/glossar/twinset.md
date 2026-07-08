@@ -5,7 +5,6 @@ description: "Twinset это комплект из трикотажного ве
 category: "Материалы и детали"
 tags: ["материалы", "twinset"]
 keywords: ["twinset", "что означает twinset", "twinset в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/twinset.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Twinset"

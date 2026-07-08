@@ -5,7 +5,6 @@ description: "Квадратный каблук — это прочный, уд�
 category: "Материалы и детали"
 tags: ["blockabsatz", "absatz", "обувь", "pumps"]
 keywords: ["blockabsatz", "что такое blockabsatz", "breiter absatz"]
-glossar_order: "b"
 weight: 17
 image: "images/glossar/blockabsatz.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Квадратный каблук"

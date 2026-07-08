@@ -5,7 +5,6 @@ description: "Мокасины это мягкая обувь без шнуро�
 category: "Обувь"
 tags: ["мокасины", "обувь", "loafer", "кожа"]
 keywords: ["мокасины", "что такое мокасины", "с чем носить мокасины"]
-glossar_order: "m"
 weight: 13
 image: "images/glossar/mokassin.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Мокасины"

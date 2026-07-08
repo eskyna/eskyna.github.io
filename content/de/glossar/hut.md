@@ -5,7 +5,6 @@ description: "Ein Hut ist eine Kopfbedeckung mit Krempe, die Gesicht, Silhouette
 category: "Materialien & Details"
 tags: ["hut", "accessoire", "kopfbedeckung", "silhouette", "styling"]
 keywords: ["hut styling", "was ist ein hut", "hut kombinieren"]
-glossar_order: "h"
 weight: 26
 image: "images/glossar/hut.png"
 image_alt: "Editoriale Grafik zu Hut mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

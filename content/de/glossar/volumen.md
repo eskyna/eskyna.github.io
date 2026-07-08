@@ -5,7 +5,6 @@ description: "Volumen beschreibt die Weite, Fülle oder räumliche Präsenz eine
 category: "Schnitt, Proportion & Passform"
 tags: ["schnitt proportion", "volumen"]
 keywords: ["volumen", "was bedeutet volumen", "volumen stilberatung"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/volumen.png"
 image_alt: "Editoriale Glossar-Grafik zu Volumen mit ruhigen Farbfeldern und feiner Linienführung"

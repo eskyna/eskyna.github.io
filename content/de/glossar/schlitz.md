@@ -5,7 +5,6 @@ description: "Ein Schlitz ist eine Öffnung in Rock, Kleid, Ärmel oder Mantel, 
 category: "Schnitt, Proportion & Passform"
 tags: ["schlitz", "schnitt proportion"]
 keywords: ["schlitz", "was bedeutet schlitz", "schlitz stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schlitz.png"
 image_alt: "Editoriale Glossar-Grafik zu Schlitz mit ruhigen Farbfeldern und feiner Linienführung"

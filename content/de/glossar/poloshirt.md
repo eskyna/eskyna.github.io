@@ -5,7 +5,6 @@ description: "Ein Poloshirt ist ein Shirt mit Kragen und kurzer Knopfleiste, das
 category: "Materialien & Details"
 tags: ["materialien", "poloshirt"]
 keywords: ["poloshirt", "was bedeutet poloshirt", "poloshirt stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/poloshirt.png"
 image_alt: "Editoriale Glossar-Grafik zu Poloshirt mit ruhigen Farbfeldern und feiner Linienführung"

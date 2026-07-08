@@ -5,7 +5,6 @@ description: "Farbtypologie ordnet Farben nach Temperatur, Helligkeit, Sättigun
 category: "Farbberatung & Farbe"
 tags: ["farbtypologie", "farbtyp", "farbberatung", "unterton"]
 keywords: ["farbtypologie", "was bedeutet farbtypologie", "farbtypologie farbberatung"]
-glossar_order: "f"
 weight: 6
 relatedTerms:
   - title: "Farbtyp"

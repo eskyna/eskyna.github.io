@@ -5,7 +5,6 @@ description: "Ein Wickelrock wird überlappend geschlossen und erzeugt eine diag
 category: "Garderobe & Alltag"
 tags: ["garderobe", "wickelrock"]
 keywords: ["wickelrock", "was bedeutet wickelrock", "wickelrock stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wickelrock.png"
 image_alt: "Editoriale Glossar-Grafik zu Wickelrock mit ruhigen Farbfeldern und feiner Linienführung"

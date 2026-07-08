@@ -5,7 +5,6 @@ description: "Ein Taillengürtel sitzt bewusst in der Körpermitte und formt Kle
 category: "Materialien & Details"
 tags: ["taillengürtel", "gürtel", "taillierung", "silhouette", "accessoire"]
 keywords: ["taillengürtel", "was ist ein taillengürtel", "taillengürtel kombinieren"]
-glossar_order: "t"
 weight: 9
 image: "images/glossar/taillenguertel.png"
 image_alt: "Editoriale Grafik zu Taillengürtel mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

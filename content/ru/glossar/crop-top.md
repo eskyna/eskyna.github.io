@@ -5,7 +5,6 @@ description: "Кроп-топ — это укороченная блуза, ос
 category: "Стиль и воздействие"
 tags: ["crop top", "материалы"]
 keywords: ["crop top", "что означает crop top", "crop top stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/crop-top.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кроп-топ"

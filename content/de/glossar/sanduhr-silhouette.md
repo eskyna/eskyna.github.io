@@ -5,7 +5,6 @@ description: "Die Sanduhr-Silhouette beschreibt eine Form mit sichtbarer Taille 
 category: "Schnitt, Proportion & Passform"
 tags: ["sanduhr silhouette", "silhouette", "proportion", "taillierung"]
 keywords: ["sanduhr-silhouette", "hourglass silhouette", "sichtbare taille"]
-glossar_order: "s"
 weight: 33
 relatedTerms:
   - title: "Silhouette"

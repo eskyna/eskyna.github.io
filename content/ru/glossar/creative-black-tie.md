@@ -5,7 +5,6 @@ description: "Creative black tie допускает в очень формаль
 category: "Гардероб и повседневность"
 tags: ["creative black tie", "dresscode", "abend", "festlich"]
 keywords: ["creative black tie", "creative black tie dresscode", "formal mit twist"]
-glossar_order: "c"
 weight: 24
 relatedTerms:
   - title: "Дресс-код black tie"

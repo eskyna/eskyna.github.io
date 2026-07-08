@@ -5,7 +5,6 @@ description: "Пробел в гардеробе это недостающая �
 category: "Гардероб и повседневность"
 tags: ["гардероб", "пробел в гардеробе"]
 keywords: ["пробел в гардеробе", "чего не хватает в гардеробе", "недостающая вещь"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-luecke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Пробел в гардеробе"

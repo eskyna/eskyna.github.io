@@ -5,7 +5,6 @@ description: "Loose fit это свободный крой, который ос�
 category: "Крой, пропорции и посадка"
 tags: ["loose fit", "крой", "пропорции"]
 keywords: ["loose fit", "свободный крой", "посадка loose fit"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/loose-fit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Loose fit"

@@ -5,7 +5,6 @@ description: "Vintage beschreibt ältere Kleidungsstücke oder Stilreferenzen, d
 category: "Stil & Wirkung"
 tags: ["stil", "vintage"]
 keywords: ["vintage", "was bedeutet vintage", "vintage stilberatung"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/vintage.png"
 image_alt: "Editoriale Glossar-Grafik zu Vintage mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Платье-рубашка соединяет элементы р
 category: "Платья и юбки"
 tags: ["платье-рубашка", "платье", "рубашка", "блуза"]
 keywords: ["платье-рубашка", "что такое платье-рубашка", "рубашечное платье"]
-glossar_order: "h"
 weight: 8
 image: "images/glossar/hemdblusenkleid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Платье-рубашка"

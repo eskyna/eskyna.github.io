@@ -5,7 +5,6 @@ description: "Stilidentität verbindet Persönlichkeit, Lebensrealität und äu�
 category: "Stil & Wirkung"
 tags: ["stil", "stilidentitaet"]
 keywords: ["stilidentität", "was bedeutet stilidentität", "stilidentität stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilidentitaet.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilidentität mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Loafer это плоская обувь без шнуровки, �
 category: "Гардероб и повседневность"
 tags: ["loafer", "обувь", "business casual", "аксессуар", "стайлинг"]
 keywords: ["loafer", "что такое loafer", "с чем носить loafer", "обувь без шнуровки"]
-glossar_order: "l"
 weight: 9
 image: "images/glossar/loafer.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Loafer"

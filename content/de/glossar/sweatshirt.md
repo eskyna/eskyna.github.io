@@ -12,7 +12,6 @@ keywords:
   - "sweatshirt"
   - "was ist ein sweatshirt"
   - "sweatshirt kombinieren"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/sweatshirt.png"
 image_alt: "Editoriale Grafik mit stilisiertem Sweatshirt, Rundhals und weicher Stofffläche"

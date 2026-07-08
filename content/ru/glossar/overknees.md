@@ -5,7 +5,6 @@ description: "Overknees это сапоги выше колена, которы�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "overknees"]
 keywords: ["overknees", "сапоги выше колена", "overknees в образе"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/overknees.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Overknees"

@@ -5,7 +5,6 @@ description: "Ein U-Boot-Ausschnitt verläuft breit und horizontal nahe am Schl�
 category: "Materialien & Details"
 tags: ["materialien", "u boot ausschnitt"]
 keywords: ["u-boot-ausschnitt", "was bedeutet u-boot-ausschnitt", "u-boot-ausschnitt stilberatung"]
-glossar_order: "u"
 weight: 1
 image: "images/glossar/u-boot-ausschnitt.png"
 image_alt: "Editoriale Glossar-Grafik zu U-Boot-Ausschnitt mit ruhigen Farbfeldern und feiner Linienführung"

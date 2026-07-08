@@ -5,7 +5,6 @@ description: "Drop Waist beschreibt eine tiefer gesetzte Taille, die den Oberkö
 category: "Schnitt, Proportion & Passform"
 tags: ["drop waist", "taillenposition", "proportion", "kleid"]
 keywords: ["drop waist", "tiefer taillenansatz", "drop waist kleid"]
-glossar_order: "d"
 weight: 40
 relatedTerms:
   - title: "Taillenposition"

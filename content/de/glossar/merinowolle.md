@@ -5,7 +5,6 @@ description: "Merinowolle ist eine besonders feine, weiche Wolle, die leicht wä
 category: "Materialien & Details"
 tags: ["materialien", "merinowolle"]
 keywords: ["merinowolle", "was bedeutet merinowolle", "merinowolle stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/merinowolle.png"
 image_alt: "Editoriale Glossar-Grafik zu Merinowolle mit ruhigen Farbfeldern und feiner Linienführung"

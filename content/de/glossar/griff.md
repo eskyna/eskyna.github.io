@@ -5,7 +5,6 @@ description: "Der Griff beschreibt, wie sich ein Material anfühlt, etwa glatt, 
 category: "Materialien & Details"
 tags: ["griff", "materialien"]
 keywords: ["griff", "was bedeutet griff", "griff stilberatung"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/griff.png"
 image_alt: "Editoriale Glossar-Grafik zu Griff mit ruhigen Farbfeldern und feiner Linienführung"

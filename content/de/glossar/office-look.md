@@ -5,7 +5,6 @@ description: "Ein Office Look ist ein Outfit für den Arbeitsalltag, das profess
 category: "Garderobe & Alltag"
 tags: ["garderobe", "office look"]
 keywords: ["office look", "was bedeutet office look", "office look stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/office-look.png"
 image_alt: "Editoriale Glossar-Grafik zu Office Look mit ruhigen Farbfeldern und feiner Linienführung"

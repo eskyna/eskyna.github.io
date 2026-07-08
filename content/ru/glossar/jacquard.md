@@ -5,7 +5,6 @@ description: "Жаккард это ткань с вытканным узоро�
 category: "Материалы и детали"
 tags: ["жаккард", "материалы"]
 keywords: ["жаккард", "ткань с вытканным узором", "жаккардовая ткань"]
-glossar_order: "j"
 weight: 1
 image: "images/glossar/jacquard.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Жаккард"

@@ -5,7 +5,6 @@ description: "Summer clutch это небольшая летняя сумка в
 category: "Материалы и детали"
 tags: ["summer clutch", "clutch", "сумка", "лето"]
 keywords: ["summer clutch", "летняя clutch", "лёгкая clutch"]
-glossar_order: "s"
 weight: 23
 relatedTerms:
   - title: "Clutch"

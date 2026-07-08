@@ -5,7 +5,6 @@ description: "Bügeln glättet Stoff durch Hitze, Druck und Dampf und verändert
 category: "Materialien & Details"
 tags: ["buegeln", "materialien"]
 keywords: ["bügeln", "was bedeutet bügeln", "bügeln stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/buegeln.png"
 image_alt: "Editoriale Glossar-Grafik zu Bügeln mit ruhigen Farbfeldern und feiner Linienführung"

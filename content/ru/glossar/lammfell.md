@@ -5,7 +5,6 @@ description: "Овчина это тёплый натуральный матер
 category: "Материалы и детали"
 tags: ["овчина", "материалы"]
 keywords: ["овчина", "материал овчина", "мягкая зимняя фактура"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/lammfell.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Овчина"

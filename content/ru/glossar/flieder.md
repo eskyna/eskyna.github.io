@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#C8A2C8"
 tags: ["flieder", "lila", "farbe", "pastell", "farbberatung"]
 keywords: ["flieder kleidung", "flieder kombinieren", "helles lila", "farbberatung"]
-glossar_order: "f"
 weight: 29
 image: "images/glossar/flieder.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сирень"

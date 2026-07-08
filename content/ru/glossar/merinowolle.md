@@ -5,7 +5,6 @@ description: "Шерсть мериноса это особенно тонкая
 category: "Материалы и детали"
 tags: ["материалы", "шерсть мериноса"]
 keywords: ["шерсть мериноса", "тонкая мягкая шерсть", "одежда из мериноса"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/merinowolle.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Шерсть мериноса"

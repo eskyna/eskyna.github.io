@@ -5,7 +5,6 @@ description: "Top это лёгкий верх, чаще без рукавов �
 category: "Материалы и детали"
 tags: ["материалы", "top"]
 keywords: ["top", "что означает top", "top в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/top.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Top"

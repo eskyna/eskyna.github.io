@@ -5,7 +5,6 @@ description: "Eine Beaded Bag ist eine Tasche mit Perlen, Pailletten oder plasti
 category: "Materialien & Details"
 tags: ["beaded bag", "tasche", "perlen", "abend"]
 keywords: ["beaded bag", "perlentasche", "tasche mit perlen"]
-glossar_order: "b"
 weight: 22
 relatedTerms:
   - title: "Clutch"

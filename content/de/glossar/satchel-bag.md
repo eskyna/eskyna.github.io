@@ -5,7 +5,6 @@ description: "Eine Satchel Bag ist eine strukturierte Umhängetasche mit Schulra
 category: "Materialien & Details"
 tags: ["satchel bag", "tasche", "messenger", "preppy"]
 keywords: ["satchel bag", "messenger satchel", "strukturierte umhaengetasche"]
-glossar_order: "s"
 weight: 24
 relatedTerms:
   - title: "Crossbody Bag"

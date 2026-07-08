@@ -5,7 +5,6 @@ description: "Sneaker sind sportlich inspirierte Alltagsschuhe, die je nach Form
 category: "Garderobe & Alltag"
 tags: ["sneaker", "schuhe", "smart casual", "jeans", "chinos"]
 keywords: ["sneaker", "was sind sneaker", "sneaker kombinieren", "klare sneaker"]
-glossar_order: "s"
 weight: 19
 image: "images/glossar/sneaker.png"
 image_alt: "Editoriale Grafik mit stilisiertem Sneaker, klarer Sohle und neutralen Farbfeldern"

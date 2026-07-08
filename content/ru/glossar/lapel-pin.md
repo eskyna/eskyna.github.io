@@ -5,7 +5,6 @@ description: "Lapel pin это небольшая булавка на лацка
 category: "Материалы и детали"
 tags: ["lapel pin", "булавка на лацкан", "аксессуар", "блейзер"]
 keywords: ["lapel pin", "булавка на лацкан", "значок на лацкане"]
-glossar_order: "l"
 weight: 25
 relatedTerms:
   - title: "Брошь"

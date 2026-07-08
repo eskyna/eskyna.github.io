@@ -5,7 +5,6 @@ description: "Ein Dinner-Look ist ein gepflegtes Outfit für Restaurant, Einladu
 category: "Garderobe & Alltag"
 tags: ["dinner look", "garderobe"]
 keywords: ["dinner-look", "was bedeutet dinner-look", "dinner-look stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dinner-look.png"
 image_alt: "Editoriale Glossar-Grafik zu Dinner-Look mit ruhigen Farbfeldern und feiner Linienführung"

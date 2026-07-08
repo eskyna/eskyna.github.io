@@ -5,7 +5,6 @@ description: "Straight leg описывает прямую форму брюк, 
 category: "Крой, пропорции и посадка"
 tags: ["straight leg", "брюки", "джинсы", "крой", "посадка"]
 keywords: ["straight leg", "что означает straight leg", "джинсы straight leg", "прямые брюки"]
-glossar_order: "s"
 weight: 13
 image: "images/glossar/straight-leg.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Straight leg"

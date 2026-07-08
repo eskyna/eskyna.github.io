@@ -5,7 +5,6 @@ description: "Western boots это ботинки в ковбойской эст
 category: "Гардероб и повседневность"
 tags: ["western boots", "boots", "обувь", "стилевой контраст"]
 keywords: ["western boots", "cowboy boots", "вестерн-ботинки"]
-glossar_order: "w"
 weight: 15
 image: "images/glossar/western-boots.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Western boots"

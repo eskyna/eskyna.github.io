@@ -5,7 +5,6 @@ description: "Драпировка — это техника создания м
 category: "Крой, пропорции и посадка"
 tags: ["drapierung", "материалы"]
 keywords: ["drapierung", "что означает drapierung", "drapierung stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/drapierung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Драпировка"

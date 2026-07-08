@@ -5,7 +5,6 @@ description: "Taillenbetonung macht die Körpermitte sichtbar und beeinflusst Pr
 category: "Stil & Wirkung"
 tags: ["stil", "taillenbetonung"]
 keywords: ["taillenbetonung", "was bedeutet taillenbetonung", "taillenbetonung stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/taillenbetonung.png"
 image_alt: "Editoriale Glossar-Grafik zu Taillenbetonung mit ruhigen Farbfeldern und feiner Linienführung"

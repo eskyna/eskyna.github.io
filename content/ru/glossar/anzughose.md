@@ -12,7 +12,6 @@ keywords:
   - "anzughose"
   - "что такое anzughose"
   - "anzughose kombinieren"
-glossar_order: "a"
 weight: 5
 image: "images/glossar/anzughose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки костюма"

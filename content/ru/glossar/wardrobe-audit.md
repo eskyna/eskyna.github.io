@@ -5,7 +5,6 @@ description: "Wardrobe audit это системный разбор гардер
 category: "Гардероб и повседневность"
 tags: ["wardrobe audit", "гардероб", "анализ", "система гардероба"]
 keywords: ["wardrobe audit", "анализ гардероба", "инвентаризация гардероба"]
-glossar_order: "w"
 weight: 52
 relatedTerms:
   - title: "Проверка гардероба"

@@ -5,7 +5,6 @@ description: "Cocktail Attire ist die internationale Bezeichnung für elegante, 
 category: "Garderobe & Alltag"
 tags: ["cocktail attire", "dresscode", "abend", "festlich"]
 keywords: ["cocktail attire", "cocktail attire dresscode", "cocktail kleidung"]
-glossar_order: "c"
 weight: 16
 relatedTerms:
   - title: "Cocktail"

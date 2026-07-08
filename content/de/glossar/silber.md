@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#C7C9CC"
 tags: ["silber", "metallic", "farbe", "accessoire", "farbberatung"]
 keywords: ["silber kleidung", "silber kombinieren", "silberschmuck farbberatung", "metallic"]
-glossar_order: "s"
 weight: 33
 image: "images/glossar/silber.png"
 image_alt: "Editoriale Grafik zu Silber mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

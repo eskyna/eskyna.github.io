@@ -5,7 +5,6 @@ description: "Atmungsaktivität beschreibt, wie gut ein Material Luft und Feucht
 category: "Materialien & Details"
 tags: ["atmungsaktivitaet", "materialien"]
 keywords: ["atmungsaktivität", "was bedeutet atmungsaktivität", "atmungsaktivität stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/atmungsaktivitaet.png"
 image_alt: "Editoriale Glossar-Grafik zu Atmungsaktivität mit ruhigen Farbfeldern und feiner Linienführung"

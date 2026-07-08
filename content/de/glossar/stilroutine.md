@@ -5,7 +5,6 @@ description: "Eine Stilroutine ist eine wiederholbare Entscheidungshilfe, die da
 category: "Garderobe & Alltag"
 tags: ["garderobe", "stilroutine"]
 keywords: ["stilroutine", "was bedeutet stilroutine", "stilroutine stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilroutine.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilroutine mit ruhigen Farbfeldern und feiner Linienführung"

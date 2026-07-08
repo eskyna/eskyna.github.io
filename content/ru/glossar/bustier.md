@@ -5,7 +5,6 @@ description: "Бюстье — это лифчик без спинки, кото
 category: "Материалы и детали"
 tags: ["bustier", "материалы"]
 keywords: ["bustier", "что означает bustier", "bustier stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bustier.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бюстье"

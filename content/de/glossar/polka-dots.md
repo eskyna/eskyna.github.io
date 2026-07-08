@@ -5,7 +5,6 @@ description: "Polka Dots sind klassische Punktemuster mit regelmäßiger Anordnu
 category: "Materialien & Details"
 tags: ["materialien", "polka dots"]
 keywords: ["polka dots", "was bedeutet polka dots", "polka dots stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/polka-dots.png"
 image_alt: "Editoriale Glossar-Grafik zu Polka Dots mit ruhigen Farbfeldern und feiner Linienführung"

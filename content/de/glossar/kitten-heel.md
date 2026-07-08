@@ -5,7 +5,6 @@ description: "Ein Kitten Heel ist ein niedriger, feiner Absatz, der Eleganz gibt
 category: "Schuhe"
 tags: ["kitten heel", "absatz", "pumps", "slingback"]
 keywords: ["kitten heel", "was ist ein kitten heel", "kleiner absatz"]
-glossar_order: "k"
 weight: 16
 image: "images/glossar/kitten-heel.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Kitten Heel mit ruhigen Formen und feinen Farbfeldern"

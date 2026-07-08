@@ -5,7 +5,6 @@ description: "Coastal grandmother это расслабленный стиль �
 category: "Стиль и воздействие"
 tags: ["coastal grandmother", "maritim", "stil", "leinen"]
 keywords: ["coastal grandmother", "coastal grandmother style", "maritim elegante aesthetik"]
-glossar_order: "c"
 weight: 21
 relatedTerms:
   - title: "Тёмно-синий"

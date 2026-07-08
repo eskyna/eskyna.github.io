@@ -5,7 +5,6 @@ description: "Stiletto это очень узкий высокий каблук 
 category: "Гардероб и повседневность"
 tags: ["гардероб", "stiletto"]
 keywords: ["stiletto", "что означает stiletto", "обувь на каблуке stiletto"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stiletto.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Stiletto"

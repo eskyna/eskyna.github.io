@@ -5,7 +5,6 @@ description: "Прямоугольный силуэт описывает бол�
 category: "Крой, пропорции и посадка"
 tags: ["прямоугольный силуэт", "силуэт", "пропорции", "прямая линия"]
 keywords: ["прямоугольный силуэт", "rectangle silhouette", "прямая фигура"]
-glossar_order: "r"
 weight: 34
 relatedTerms:
   - title: "Силуэт"

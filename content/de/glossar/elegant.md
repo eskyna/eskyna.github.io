@@ -5,7 +5,6 @@ description: "Elegant wirkt ein Stil, wenn Material, Schnitt, Farbe und Haltung 
 category: "Stil & Wirkung"
 tags: ["elegant", "stil"]
 keywords: ["elegant", "was bedeutet elegant", "elegant stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/elegant.png"
 image_alt: "Editoriale Glossar-Grafik zu Elegant mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Bretonstreifen sind klassische maritime Streifen, meist in Blau-We
 category: "Materialien & Details"
 tags: ["bretonstreifen", "materialien"]
 keywords: ["bretonstreifen", "was bedeutet bretonstreifen", "bretonstreifen stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bretonstreifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Bretonstreifen mit ruhigen Farbfeldern und feiner Linienführung"

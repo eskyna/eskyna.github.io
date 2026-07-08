@@ -5,7 +5,6 @@ description: "Beach Formal beschreibt festliche Kleidung für Strandhochzeiten o
 category: "Garderobe & Alltag"
 tags: ["beach formal", "dresscode", "sommer", "hochzeit"]
 keywords: ["beach formal", "strandhochzeit dresscode", "formal am strand"]
-glossar_order: "b"
 weight: 20
 relatedTerms:
   - title: "Garden Party Attire"

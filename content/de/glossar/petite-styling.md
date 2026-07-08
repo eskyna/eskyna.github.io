@@ -5,7 +5,6 @@ description: "Petite Styling beschreibt Stylingprinzipien für kleinere Körperg
 category: "Schnitt, Proportion & Passform"
 tags: ["petite styling", "proportion", "silhouette", "styling"]
 keywords: ["petite styling", "kleine körpergröße styling", "proportion petite"]
-glossar_order: "p"
 weight: 29
 relatedTerms:
   - title: "Saumlänge"

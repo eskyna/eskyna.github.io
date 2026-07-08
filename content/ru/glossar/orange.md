@@ -12,7 +12,6 @@ keywords:
     "оранжевый в цветовой консультации",
     "тёплые цвета",
   ]
-glossar_order: "o"
 weight: 16
 image: "images/glossar/orange.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Оранжевый"

@@ -5,7 +5,6 @@ description: "Ein Empire-Kleid hat eine hohe Taillennaht direkt unter der Brust 
 category: "Garderobe & Alltag"
 tags: ["empire kleid", "garderobe"]
 keywords: ["empire-kleid", "was bedeutet empire-kleid", "empire-kleid stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/empire-kleid.png"
 image_alt: "Editoriale Glossar-Grafik zu Empire-Kleid mit ruhigen Farbfeldern und feiner Linienführung"

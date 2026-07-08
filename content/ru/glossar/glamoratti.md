@@ -5,7 +5,6 @@ description: "Glamoratti означает новую тягу к эффектн�
 category: "Стиль и воздействие"
 tags: ["glamoratti", "гламур", "люкс", "стиль"]
 keywords: ["glamoratti", "эффектный роскошный стиль", "роскошь 80-х"]
-glossar_order: "g"
 weight: 16
 relatedTerms:
   - title: "Роскошь 80-х"

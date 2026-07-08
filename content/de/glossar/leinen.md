@@ -5,7 +5,6 @@ description: "Leinen ist eine Naturfaser mit sichtbarer Struktur, die luftig, ru
 category: "Materialien & Details"
 tags: ["leinen", "material", "sommerstoffe", "naturfaser", "stilberatung"]
 keywords: ["leinen", "was ist leinen", "leinen kleidung", "leinen kombinieren"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/leinen.png"
 image_alt: "Editoriale Grafik mit stilisierter Leinenstruktur, Stoffbahn und ruhigen Naturtönen"

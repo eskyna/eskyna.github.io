@@ -12,7 +12,6 @@ keywords:
   - "кожаная куртка"
   - "что такое кожаная куртка"
   - "с чем носить кожаную куртку"
-glossar_order: "l"
 weight: 5
 image: "images/glossar/lederjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кожаная куртка"

@@ -5,7 +5,6 @@ description: "Grobstrick ist ein sichtbarer, voluminöser Strick mit Struktur un
 category: "Materialien & Details"
 tags: ["grobstrick", "materialien"]
 keywords: ["grobstrick", "was bedeutet grobstrick", "grobstrick stilberatung"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/grobstrick.png"
 image_alt: "Editoriale Glossar-Grafik zu Grobstrick mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Положение талии показывает, где виз�
 category: "Крой, пропорции и посадка"
 tags: ["положение талии", "пропорции", "высота посадки", "силуэт"]
 keywords: ["положение талии", "визуальный центр фигуры", "drop waist", "high waist"]
-glossar_order: "t"
 weight: 39
 relatedTerms:
   - title: "High waist"

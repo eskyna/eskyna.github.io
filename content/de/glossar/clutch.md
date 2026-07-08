@@ -5,7 +5,6 @@ description: "Eine Clutch ist eine kleine Tasche ohne klassischen Henkel, die be
 category: "Materialien & Details"
 tags: ["clutch", "tasche", "accessoire", "abendgarderobe", "festlich"]
 keywords: ["clutch", "was ist eine clutch", "clutch tasche kombinieren"]
-glossar_order: "c"
 weight: 13
 image: "images/glossar/clutch.png"
 image_alt: "Editoriale Grafik zu Clutch mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

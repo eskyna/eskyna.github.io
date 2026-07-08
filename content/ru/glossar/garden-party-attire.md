@@ -5,7 +5,6 @@ description: "Garden party attire это летний элегантный др�
 category: "Гардероб и повседневность"
 tags: ["garden party attire", "дресс-код", "лето", "празднично"]
 keywords: ["garden party attire", "дресс-код для садового праздника", "летний элегантный образ"]
-glossar_order: "g"
 weight: 19
 relatedTerms:
   - title: "Праздничная одежда"

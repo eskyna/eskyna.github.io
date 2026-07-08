@@ -5,7 +5,6 @@ description: "Ein Minikleid endet oberhalb des Knies und wirkt je nach Schnitt, 
 category: "Kleider & Röcke"
 tags: ["minikleid", "kleid", "saumlänge", "silhouette"]
 keywords: ["minikleid", "was ist ein minikleid", "kurzes kleid"]
-glossar_order: "m"
 weight: 7
 image: "images/glossar/minikleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Minikleid mit ruhigen Formen und feinen Farbfeldern"

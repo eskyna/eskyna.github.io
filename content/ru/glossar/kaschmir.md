@@ -5,7 +5,6 @@ description: "Кашемир это очень тонкое, мягкое и т�
 category: "Материалы и детали"
 tags: ["кашемир", "материалы"]
 keywords: ["кашемир", "мягкое тёплое волокно", "кашемировая ткань"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kaschmir.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кашемир"

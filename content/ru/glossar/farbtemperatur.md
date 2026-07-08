@@ -5,7 +5,6 @@ description: "Температура цвета — это свойство цв
 category: "Консультация по цвету и цвет"
 tags: ["farbtemperatur", "farbberatung", "unterton", "farbe"]
 keywords: ["farbtemperatur", "warme farben", "kühle farben", "farbberatung"]
-glossar_order: "f"
 weight: 18
 image: "images/glossar/farbtemperatur.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Температура цвета"

@@ -5,7 +5,6 @@ description: "Ausstrahlung entsteht im Zusammenspiel von Person, Kleidung, Haltu
 category: "Stil & Wirkung"
 tags: ["ausstrahlung", "stil"]
 keywords: ["ausstrahlung", "was bedeutet ausstrahlung", "ausstrahlung stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/ausstrahlung.png"
 image_alt: "Editoriale Glossar-Grafik zu Ausstrahlung mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Ein Proportionsbruch entsteht, wenn Längen oder Volumen bewusst u
 category: "Schnitt, Proportion & Passform"
 tags: ["proportionsbruch", "proportion", "oversized", "styling"]
 keywords: ["proportionsbruch", "ungewöhnliche proportion outfit", "drop waist"]
-glossar_order: "p"
 weight: 44
 relatedTerms:
   - title: "Proportion"

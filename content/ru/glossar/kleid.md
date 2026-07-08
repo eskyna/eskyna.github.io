@@ -12,7 +12,6 @@ keywords:
   - "платье"
   - "что такое платье"
   - "формы платьев"
-glossar_order: "k"
 weight: 5
 image: "images/glossar/kleid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Платье"

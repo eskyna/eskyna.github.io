@@ -5,7 +5,6 @@ description: "Eine Reisegarderobe ist eine kleine, gut kombinierbare Auswahl an 
 category: "Garderobe & Alltag"
 tags: ["garderobe", "reisegarderobe"]
 keywords: ["reisegarderobe", "was bedeutet reisegarderobe", "reisegarderobe stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/reisegarderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Reisegarderobe mit ruhigen Farbfeldern und feiner Linienführung"

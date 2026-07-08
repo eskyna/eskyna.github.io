@@ -5,7 +5,6 @@ description: "Modern beschreibt einen zeitgemäßen Stil mit klarer Haltung, akt
 category: "Stil & Wirkung"
 tags: ["modern", "stil"]
 keywords: ["modern", "was bedeutet modern", "modern stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/modern.png"
 image_alt: "Editoriale Glossar-Grafik zu Modern mit ruhigen Farbfeldern und feiner Linienführung"

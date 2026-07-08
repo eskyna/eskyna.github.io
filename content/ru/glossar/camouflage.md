@@ -5,7 +5,6 @@ description: "Камуфляж — это военный принт в кори�
 category: "Материалы и детали"
 tags: ["camouflage", "материалы"]
 keywords: ["camouflage", "что означает camouflage", "camouflage stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/camouflage.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Камуфляж"

@@ -12,7 +12,6 @@ keywords:
   - "flared pants"
   - "расклёшенные брюки"
   - "с чем носить flared pants"
-glossar_order: "f"
 weight: 5
 image: "images/glossar/flared-pants.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Flared pants"

@@ -5,7 +5,6 @@ description: "Stretch bezeichnet dehnbares Material, das durch Faser, Webart ode
 category: "Materialien & Details"
 tags: ["materialien", "stretch"]
 keywords: ["stretch", "was bedeutet stretch", "stretch stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stretch.png"
 image_alt: "Editoriale Glossar-Grafik zu Stretch mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Поплин это гладкая плотная хлопкова
 category: "Материалы и детали"
 tags: ["материалы", "поплин"]
 keywords: ["поплин", "ткань поплин", "поплин в рубашках и блузках"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/popeline.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Поплин"

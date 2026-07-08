@@ -5,7 +5,6 @@ description: "Business beschreibt einen professionellen Kleidungsstil, der Kompe
 category: "Stil & Wirkung"
 tags: ["business", "stil"]
 keywords: ["business", "was bedeutet business", "business stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/business.png"
 image_alt: "Editoriale Glossar-Grafik zu Business mit ruhigen Farbfeldern und feiner Linienführung"

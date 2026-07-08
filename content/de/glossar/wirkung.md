@@ -5,7 +5,6 @@ description: "Wirkung beschreibt den Eindruck, den Kleidung, Farben, Formen und 
 category: "Stil & Wirkung"
 tags: ["stil", "wirkung"]
 keywords: ["wirkung", "was bedeutet wirkung", "wirkung stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wirkung.png"
 image_alt: "Editoriale Glossar-Grafik zu Wirkung mit ruhigen Farbfeldern und feiner Linienführung"

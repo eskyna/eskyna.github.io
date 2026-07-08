@@ -5,7 +5,6 @@ description: "Осенний цветотип это тёплый, чаще пр
 category: "Консультация по цвету и цвет"
 tags: ["осенний цветотип", "цветотип", "цветовая консультация", "autumn type"]
 keywords: ["осенний цветотип", "soft autumn", "warm autumn", "deep autumn", "тёплый осенний тип"]
-glossar_order: "h"
 weight: 9
 relatedTerms:
   - title: "Цветотип"

@@ -5,7 +5,6 @@ description: "Eine T-Strap Sandale hat einen Riemen in T-Form über dem Spann un
 category: "Schuhe"
 tags: ["t-strap sandale", "sandale", "schuhe", "retro"]
 keywords: ["t-strap sandale", "t steg sandale", "retro sandale"]
-glossar_order: "t"
 weight: 20
 relatedTerms:
   - title: "Sandale"

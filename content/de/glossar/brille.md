@@ -5,7 +5,6 @@ description: "Eine Brille rahmt das Gesicht und wirkt wie ein dauerhaft sichtbar
 category: "Materialien & Details"
 tags: ["brille", "accessoire", "gesichtsrahmung", "farbe", "proportion"]
 keywords: ["brille styling", "brille als accessoire", "brillenform"]
-glossar_order: "b"
 weight: 20
 image: "images/glossar/brille.png"
 image_alt: "Editoriale Grafik zu Brille mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

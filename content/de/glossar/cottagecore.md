@@ -5,7 +5,6 @@ description: "Cottagecore beschreibt eine romantische Naturästhetik mit Blumenm
 category: "Stil & Wirkung"
 tags: ["cottagecore", "romantisch", "natur", "stil"]
 keywords: ["cottagecore", "cottagecore style", "romantische natur ästhetik"]
-glossar_order: "c"
 weight: 22
 relatedTerms:
   - title: "Romantisch"

@@ -5,7 +5,6 @@ description: "Рукав реглан идёт по диагонали от зо
 category: "Крой, пропорции и посадка"
 tags: ["рукав реглан", "крой", "пропорции"]
 keywords: ["рукав реглан", "что означает реглан", "реглан в одежде"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/raglanaermel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Рукав реглан"

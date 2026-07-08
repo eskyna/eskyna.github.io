@@ -5,7 +5,6 @@ description: "Ein Materialprofil beschreibt Stoffe und Oberflächen, die zur Per
 category: "Stil & Wirkung"
 tags: ["materialprofil", "stil"]
 keywords: ["materialprofil", "was bedeutet materialprofil", "materialprofil stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/materialprofil.png"
 image_alt: "Editoriale Glossar-Grafik zu Materialprofil mit ruhigen Farbfeldern und feiner Linienführung"

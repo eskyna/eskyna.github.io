@@ -5,7 +5,6 @@ description: "Das Revers ist die umgeschlagene Kragenpartie an Blazer, Sakko ode
 category: "Materialien & Details"
 tags: ["materialien", "revers"]
 keywords: ["revers", "was bedeutet revers", "revers stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/revers.png"
 image_alt: "Editoriale Glossar-Grafik zu Revers mit ruhigen Farbfeldern und feiner Linienführung"

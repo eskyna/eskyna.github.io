@@ -5,7 +5,6 @@ description: "Узор это повторяющаяся визуальная с
 category: "Материалы и детали"
 tags: ["материалы", "узор"]
 keywords: ["узор", "рисунок на ткани", "узор в одежде"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/muster.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Узор"

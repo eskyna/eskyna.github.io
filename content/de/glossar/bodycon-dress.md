@@ -5,7 +5,6 @@ description: "Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körper
 category: "Garderobe & Alltag"
 tags: ["bodycon dress", "garderobe"]
 keywords: ["bodycon dress", "was bedeutet bodycon dress", "bodycon dress stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bodycon-dress.png"
 image_alt: "Editoriale Glossar-Grafik zu Bodycon Dress mit ruhigen Farbfeldern und feiner Linienführung"

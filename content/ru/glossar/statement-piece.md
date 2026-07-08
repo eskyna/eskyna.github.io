@@ -5,7 +5,6 @@ description: "Statement piece это намеренно заметная вещ�
 category: "Стиль и воздействие"
 tags: ["statement piece", "стиль", "аксессуары", "впечатление"]
 keywords: ["statement piece", "акцентная вещь", "стилевой контраст", "акцент в образе"]
-glossar_order: "s"
 weight: 4
 image: "images/glossar/statement-piece.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Statement piece"

@@ -5,7 +5,6 @@ description: "Light academia это более светлая версия ак�
 category: "Стиль и воздействие"
 tags: ["light academia", "академичный стиль", "стиль", "винтаж"]
 keywords: ["light academia", "стиль light academia", "светлая академическая эстетика"]
-glossar_order: "l"
 weight: 26
 relatedTerms:
   - title: "Dark academia"

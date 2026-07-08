@@ -5,7 +5,6 @@ description: "T-strap sandal это сандалии с ремешком в фо
 category: "Гардероб и повседневность"
 tags: ["t-strap sandal", "сандалии", "обувь", "ретро"]
 keywords: ["t-strap sandal", "сандалии с T-ремешком", "ретро-сандалии"]
-glossar_order: "t"
 weight: 20
 relatedTerms:
   - title: "Сандалии"

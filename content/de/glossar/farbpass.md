@@ -5,7 +5,6 @@ description: "Ein Farbpass ist eine kompakte Auswahl persönlicher Farben, die b
 category: "Farbberatung & Farbe"
 tags: ["farbpass", "farbberatung", "farbtyp", "farbkarte"]
 keywords: ["farbpass", "persönliche farben", "farbkarte farbberatung"]
-glossar_order: "f"
 weight: 11
 relatedTerms:
   - title: "Farbkarte"

@@ -5,7 +5,6 @@ description: "Ein Stiltyp beschreibt wiederkehrende stilistische Vorlieben, etwa
 category: "Stil & Wirkung"
 tags: ["stil", "stiltyp"]
 keywords: ["stiltyp", "was bedeutet stiltyp", "stiltyp stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stiltyp.png"
 image_alt: "Editoriale Glossar-Grafik zu Stiltyp mit ruhigen Farbfeldern und feiner Linienführung"

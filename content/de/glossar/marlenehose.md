@@ -6,7 +6,6 @@ category: "Schnitt, Proportion & Passform"
 tags: ["marlenehose", "weite hose", "proportion", "silhouette", "business casual"]
 keywords:
   ["marlenehose", "was ist eine marlenehose", "marlenehose kombinieren", "weite elegante hose"]
-glossar_order: "m"
 weight: 12
 image: "images/glossar/marlenehose.png"
 image_alt: "Editoriale Grafik mit stilisierter Marlenehose, hoher Taille und langer weiter Beinlinie"

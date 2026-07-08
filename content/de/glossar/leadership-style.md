@@ -5,7 +5,6 @@ description: "Leadership Style beschreibt den visuellen Stil einer Führungspers
 category: "Stil & Wirkung"
 tags: ["leadership style", "führung", "wirkung", "business"]
 keywords: ["leadership style", "führungsstil kleidung", "authority dressing"]
-glossar_order: "l"
 weight: 9
 relatedTerms:
   - title: "Executive Presence"

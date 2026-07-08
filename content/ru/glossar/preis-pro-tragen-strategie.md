@@ -5,7 +5,6 @@ description: "Стратегия цены за носку использует �
 category: "Гардероб и повседневность"
 tags: ["цена за носку", "cost per wear", "гардероб", "критерии покупки"]
 keywords: ["стратегия цены за носку", "cost per wear стратегия", "цена за носку"]
-glossar_order: "p"
 weight: 55
 relatedTerms:
   - title: "Cost per wear"

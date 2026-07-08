@@ -5,7 +5,6 @@ description: "T-shirt это чаще всего футболка с корот�
 category: "Гардероб и повседневность"
 tags: ["t-shirt", "база", "хлопок", "jersey", "посадка"]
 keywords: ["t-shirt", "что такое t-shirt", "с чем сочетать t-shirt", "базовая t-shirt"]
-glossar_order: "t"
 weight: 16
 image: "images/glossar/t-shirt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина T-shirt"

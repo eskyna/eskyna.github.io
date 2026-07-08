@@ -5,7 +5,6 @@ description: "Polo shirt это футболка с воротником и ко
 category: "Материалы и детали"
 tags: ["материалы", "polo shirt"]
 keywords: ["polo shirt", "поло", "как носить polo shirt"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/poloshirt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Polo shirt"

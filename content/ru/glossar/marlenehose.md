@@ -11,7 +11,6 @@ keywords:
     "с чем носить брюки марлен",
     "широкие элегантные брюки",
   ]
-glossar_order: "m"
 weight: 12
 image: "images/glossar/marlenehose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки Марлен"

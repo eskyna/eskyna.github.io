@@ -5,7 +5,6 @@ description: "Бретонская полоска — это классичес�
 category: "Материалы и детали"
 tags: ["bretonstreifen", "материалы"]
 keywords: ["bretonstreifen", "что означает bretonstreifen", "bretonstreifen stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bretonstreifen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бретонская полоска"

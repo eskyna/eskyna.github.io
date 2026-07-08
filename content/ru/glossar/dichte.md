@@ -5,7 +5,6 @@ description: "Плотность ткани — это характеристи�
 category: "Материалы и детали"
 tags: ["dichte", "материалы"]
 keywords: ["dichte", "что означает dichte", "dichte stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dichte.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Плотность"

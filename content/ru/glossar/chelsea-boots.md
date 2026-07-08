@@ -5,7 +5,6 @@ description: "Челси ботинки — это классические бо
 category: "Материалы и детали"
 tags: ["chelsea boots", "stiefeletten", "обувь", "jeans", "trenchcoat"]
 keywords: ["chelsea boots", "что такое chelsea boots", "chelsea boots kombinieren", "stiefeletten"]
-glossar_order: "c"
 weight: 20
 image: "images/glossar/chelsea-boots.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Челси ботинки"

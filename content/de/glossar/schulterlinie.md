@@ -5,7 +5,6 @@ description: "Die Schulterlinie beschreibt Sitz und Form der Schulterpartie und 
 category: "Schnitt, Proportion & Passform"
 tags: ["schnitt proportion", "schulterlinie"]
 keywords: ["schulterlinie", "was bedeutet schulterlinie", "schulterlinie stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schulterlinie.png"
 image_alt: "Editoriale Glossar-Grafik zu Schulterlinie mit ruhigen Farbfeldern und feiner Linienführung"

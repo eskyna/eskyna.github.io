@@ -5,7 +5,6 @@ description: "Animal Print imitiert Tiermuster und wirkt je nach Farbe und Fläc
 category: "Materialien & Details"
 tags: ["animal print", "materialien"]
 keywords: ["animal print", "was bedeutet animal print", "animal print stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/animal-print.png"
 image_alt: "Editoriale Glossar-Grafik zu Animal Print mit ruhigen Farbfeldern und feiner Linienführung"

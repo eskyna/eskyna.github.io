@@ -5,7 +5,6 @@ description: "Женственный стиль выражает женстве�
 category: "Стиль и воздействие"
 tags: ["femininer stil", "stil"]
 keywords: ["femininer stil", "что означает femininer stil", "femininer stil stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/femininer-stil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Женственный стиль"

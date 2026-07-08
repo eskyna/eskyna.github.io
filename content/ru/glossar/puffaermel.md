@@ -5,7 +5,6 @@ description: "Рукав-буф даёт объём в плечевой зоне
 category: "Крой, пропорции и посадка"
 tags: ["рукав-буф", "крой", "пропорции"]
 keywords: ["рукав-буф", "объёмный рукав", "как работает рукав-буф"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/puffaermel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Рукав-буф"

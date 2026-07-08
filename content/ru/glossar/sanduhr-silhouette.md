@@ -5,7 +5,6 @@ description: "Силуэт песочные часы описывает форм
 category: "Крой, пропорции и посадка"
 tags: ["силуэт песочные часы", "силуэт", "пропорции", "приталивание"]
 keywords: ["силуэт песочные часы", "hourglass silhouette", "выраженная талия"]
-glossar_order: "s"
 weight: 33
 relatedTerms:
   - title: "Силуэт"

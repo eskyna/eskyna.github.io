@@ -5,7 +5,6 @@ description: "Качество пуговиц описывает материа�
 category: "Материалы и детали"
 tags: ["качество пуговиц", "материалы"]
 keywords: ["качество пуговиц", "материал пуговиц", "надёжное крепление пуговиц"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/knopfqualitaet.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Качество пуговиц"

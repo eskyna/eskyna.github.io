@@ -5,7 +5,6 @@ description: "Tie accessories это галстуки, банты, ленты и
 category: "Материалы и детали"
 tags: ["tie accessories", "галстук", "бант", "аксессуар"]
 keywords: ["tie accessories", "завязанные аксессуары", "стилизация с галстуком и бантом"]
-glossar_order: "t"
 weight: 26
 relatedTerms:
   - title: "Poetcore"

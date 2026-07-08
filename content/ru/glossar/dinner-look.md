@@ -5,7 +5,6 @@ description: "Образ для ужина — это элегантный, по
 category: "Гардероб и повседневность"
 tags: ["dinner look", "гардероб"]
 keywords: ["dinner-look", "что означает dinner-look", "dinner-look stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dinner-look.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для ужина"

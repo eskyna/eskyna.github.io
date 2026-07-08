@@ -5,7 +5,6 @@ description: "Полосы это линейный принт, который п
 category: "Материалы и детали"
 tags: ["материалы", "полосы"]
 keywords: ["полосы", "что означают полосы", "полосы в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/streifen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Полосы"

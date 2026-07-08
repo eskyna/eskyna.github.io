@@ -5,7 +5,6 @@ description: "Glove pump это плотно сидящая лодочка с м
 category: "Обувь"
 tags: ["glove pump", "лодочки", "обувь", "элегантность"]
 keywords: ["glove pump", "мягкие лодочки", "лодочки с перчаточной посадкой"]
-glossar_order: "g"
 weight: 19
 relatedTerms:
   - title: "Лодочки"

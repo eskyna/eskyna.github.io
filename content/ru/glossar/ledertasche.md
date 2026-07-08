@@ -5,7 +5,6 @@ description: "Кожаная сумка в зависимости от форм�
 category: "Материалы и детали"
 tags: ["кожаная сумка", "материалы"]
 keywords: ["кожаная сумка", "сумка из кожи", "как выбрать кожаную сумку"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/ledertasche.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кожаная сумка"

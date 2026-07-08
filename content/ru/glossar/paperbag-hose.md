@@ -12,7 +12,6 @@ keywords:
   - "брюки paperbag"
   - "что такое paperbag"
   - "с чем носить брюки paperbag"
-glossar_order: "p"
 weight: 5
 image: "images/glossar/paperbag-hose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки paperbag"

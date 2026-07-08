@@ -5,7 +5,6 @@ description: "Образ для публичности это комплект, 
 category: "Гардероб и повседневность"
 tags: ["образ для публичности", "присутствие", "personal branding", "камера"]
 keywords: ["образ для публичности", "образ для видимости", "business outfit для соцсетей"]
-glossar_order: "s"
 weight: 14
 relatedTerms:
   - title: "Персональный бренд"

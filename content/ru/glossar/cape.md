@@ -5,7 +5,6 @@ description: "Накидка — это воздушная, драпирующа
 category: "Стиль и воздействие"
 tags: ["cape", "гардероб"]
 keywords: ["cape", "что означает cape", "cape stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cape.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Накидка"

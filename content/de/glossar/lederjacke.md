@@ -12,7 +12,6 @@ keywords:
   - "lederjacke"
   - "was ist eine lederjacke"
   - "lederjacke kombinieren"
-glossar_order: "l"
 weight: 5
 image: "images/glossar/lederjacke.png"
 image_alt: "Editoriale Grafik mit stilisierter Lederjacke, Reissverschlussdetails und dunkler Struktur"

@@ -12,7 +12,6 @@ keywords:
     "светло-голубая блуза",
     "цветовая консультация",
   ]
-glossar_order: "h"
 weight: 20
 image: "images/glossar/hellblau.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Светло-голубой"

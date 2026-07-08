@@ -5,7 +5,6 @@ description: "Plateau bezeichnet eine erhöhte Sohle unter dem Vorderfuß oder d
 category: "Garderobe & Alltag"
 tags: ["garderobe", "plateau"]
 keywords: ["plateau", "was bedeutet plateau", "plateau stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/plateau.png"
 image_alt: "Editoriale Glossar-Grafik zu Plateau mit ruhigen Farbfeldern und feiner Linienführung"

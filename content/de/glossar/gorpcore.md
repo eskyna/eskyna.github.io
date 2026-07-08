@@ -5,7 +5,6 @@ description: "Gorpcore überträgt Outdoor- und Funktionskleidung in den Alltag 
 category: "Stil & Wirkung"
 tags: ["gorpcore", "outdoor", "utility", "streetwear"]
 keywords: ["gorpcore", "gorpcore style", "outdoor im alltag"]
-glossar_order: "g"
 weight: 23
 relatedTerms:
   - title: "Utility Jacket"

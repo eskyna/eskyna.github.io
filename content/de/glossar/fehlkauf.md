@@ -6,7 +6,6 @@ category: "Garderobe & Alltag"
 tags: ["fehlkauf", "garderobe", "shopping", "stilberatung", "klarheit"]
 keywords:
   ["fehlkauf kleidung", "fehlkäufe vermeiden", "kleiderschrank fehlkauf", "bewusst einkaufen"]
-glossar_order: "f"
 weight: 9
 image: "images/glossar/fehlkauf.png"
 image_alt: "Editoriale Grafik mit leerem Kleiderbügel, markiertem Etikett und ruhiger Garderobenstruktur"

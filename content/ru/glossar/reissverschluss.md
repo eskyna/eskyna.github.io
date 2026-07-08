@@ -5,7 +5,6 @@ description: "Молния это функциональная застёжка,
 category: "Материалы и детали"
 tags: ["материалы", "молния"]
 keywords: ["молния", "что означает молния", "молния в одежде"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/reissverschluss.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Молния"

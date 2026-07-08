@@ -5,7 +5,6 @@ description: "Ein Twinset ist eine Kombination aus Strickoberteil und passender 
 category: "Materialien & Details"
 tags: ["materialien", "twinset"]
 keywords: ["twinset", "was bedeutet twinset", "twinset stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/twinset.png"
 image_alt: "Editoriale Glossar-Grafik zu Twinset mit ruhigen Farbfeldern und feiner Linienführung"

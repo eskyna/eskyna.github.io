@@ -5,7 +5,6 @@ description: "Eine Outfit-Analyse erklärt, warum ein Look funktioniert, unruhig
 category: "Stil & Wirkung"
 tags: ["outfit analyse", "stil"]
 keywords: ["outfit-analyse", "was bedeutet outfit-analyse", "outfit-analyse stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/outfit-analyse.png"
 image_alt: "Editoriale Glossar-Grafik zu Outfit-Analyse mit ruhigen Farbfeldern und feiner Linienführung"

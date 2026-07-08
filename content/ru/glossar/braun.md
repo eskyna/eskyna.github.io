@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#8B4513"
 tags: ["braun", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["braun kleidung", "braun kombinieren", "espresso farbe", "stilberatung"]
-glossar_order: "b"
 weight: 5
 image: "images/glossar/braun.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Коричневый"

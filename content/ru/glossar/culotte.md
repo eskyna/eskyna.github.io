@@ -5,7 +5,6 @@ description: "Кюлот — это свободные брюки, похожи�
 category: "Крой, пропорции и посадка"
 tags: ["culotte", "hose", "proportion", "silhouette", "passform"]
 keywords: ["culotte", "что такое culotte", "culotte kombinieren", "weite hose"]
-glossar_order: "c"
 weight: 11
 image: "images/glossar/culotte.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кюлот"

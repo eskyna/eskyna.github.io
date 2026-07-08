@@ -5,7 +5,6 @@ description: "Стилизация с брошами описывает осоз
 category: "Материалы и детали"
 tags: ["brooched", "brosche", "accessoire", "styling"]
 keywords: ["brooched", "broschen styling", "brosche am blazer", "lapel pin"]
-glossar_order: "b"
 weight: 19
 relatedTerms:
   - title: "Аксессуар"

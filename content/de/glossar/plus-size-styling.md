@@ -5,7 +5,6 @@ description: "Plus-Size-Styling beschreibt Stylingansätze für größere Konfek
 category: "Schnitt, Proportion & Passform"
 tags: ["plus size styling", "passform", "körperform", "proportion"]
 keywords: ["plus-size-styling", "plus size styling", "größere größen styling"]
-glossar_order: "p"
 weight: 32
 relatedTerms:
   - title: "Curvy Styling"

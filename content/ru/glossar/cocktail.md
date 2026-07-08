@@ -5,7 +5,6 @@ description: "Коктейльный стиль — это полуформал�
 category: "Гардероб и повседневность"
 tags: ["cocktail", "гардероб"]
 keywords: ["cocktail", "что означает cocktail", "cocktail stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cocktail.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Коктейль"

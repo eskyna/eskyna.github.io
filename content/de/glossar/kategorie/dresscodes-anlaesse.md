@@ -7,4 +7,4 @@ glossar_category: "Dresscodes & Anlässe"
 url: "/glossar/kategorie/dresscodes-anlaesse/"
 ---
 
-Hier finden Sie Klarheit zu Begriffen wie Black Tie, Cocktail oder Business Formal. So können Sie schneller entscheiden, welches Outfit bei Einladungen, Events und beruflichen Terminen angemessen ist.
+Hier findest du Klarheit zu Begriffen wie Black Tie, Cocktail oder Business Formal. So kannst du schneller entscheiden, welches Outfit bei Einladungen, Events und beruflichen Terminen angemessen ist.

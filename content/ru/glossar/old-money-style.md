@@ -5,7 +5,6 @@ description: "Old money style описывает классический ста
 category: "Стиль и воздействие"
 tags: ["old money style", "стиль"]
 keywords: ["old money style", "эстетика old money", "сдержанный статусный стиль"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/old-money-style.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Old money style"

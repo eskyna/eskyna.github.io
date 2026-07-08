@@ -5,7 +5,6 @@ description: "Разбор гардероба анализирует уже им
 category: "Стиль и воздействие"
 tags: ["разбор гардероба", "стиль"]
 keywords: ["разбор гардероба", "что означает разбор гардероба", "анализ гардероба"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-check.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Разбор гардероба"

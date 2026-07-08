@@ -5,7 +5,6 @@ description: "Struktur beschreibt sichtbare oder fühlbare Oberflächen in Stoff
 category: "Materialien & Details"
 tags: ["struktur", "stoff", "material", "tweed", "strick"]
 keywords: ["struktur kleidung", "stoffstruktur", "strukturierte stoffe", "materialwirkung"]
-glossar_order: "s"
 weight: 21
 image: "images/glossar/struktur.png"
 image_alt: "Editoriale Grafik mit Stoffraster, gewebter Struktur und feinen haptischen Linien"

@@ -5,7 +5,6 @@ description: "Eine Anzugjacke ist die Jacke eines Anzugs oder wirkt durch Schnit
 category: "Garderobe & Alltag"
 tags: ["anzugjacke", "garderobe"]
 keywords: ["anzugjacke", "was bedeutet anzugjacke", "anzugjacke stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/anzugjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Anzugjacke mit ruhigen Farbfeldern und feiner Linienführung"

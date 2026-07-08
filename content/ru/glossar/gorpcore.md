@@ -5,7 +5,6 @@ description: "Gorpcore переносит outdoor- и функциональну
 category: "Стиль и воздействие"
 tags: ["gorpcore", "outdoor", "utility", "streetwear"]
 keywords: ["gorpcore", "gorpcore style", "outdoor в повседневности"]
-glossar_order: "g"
 weight: 23
 relatedTerms:
   - title: "Куртка utility"

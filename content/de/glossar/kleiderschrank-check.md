@@ -6,7 +6,6 @@ category: "Stil & Wirkung"
 tags: ["kleiderschrank check", "stil"]
 keywords:
   ["kleiderschrank-check", "was bedeutet kleiderschrank-check", "kleiderschrank-check stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-check.png"
 image_alt: "Editoriale Glossar-Grafik zu Kleiderschrank-Check mit ruhigen Farbfeldern und feiner Linienführung"

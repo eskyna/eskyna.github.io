@@ -5,7 +5,6 @@ description: "Saisonwechsel beschreibt die Umstellung der Garderobe auf Temperat
 category: "Garderobe & Alltag"
 tags: ["garderobe", "saisonwechsel"]
 keywords: ["saisonwechsel", "was bedeutet saisonwechsel", "saisonwechsel stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/saisonwechsel.png"
 image_alt: "Editoriale Glossar-Grafik zu Saisonwechsel mit ruhigen Farbfeldern und feiner Linienführung"

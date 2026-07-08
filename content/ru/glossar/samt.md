@@ -5,7 +5,6 @@ description: "Бархат это мягкая ткань с коротким в
 category: "Материалы и детали"
 tags: ["материалы", "бархат"]
 keywords: ["бархат", "что означает бархат", "бархат в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/samt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бархат"

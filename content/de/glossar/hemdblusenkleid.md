@@ -5,7 +5,6 @@ description: "Ein Hemdblusenkleid verbindet die Elemente eines Hemdes oder einer
 category: "Kleider & Röcke"
 tags: ["hemdblusenkleid", "kleid", "hemd", "bluse"]
 keywords: ["hemdblusenkleid", "was ist ein hemdblusenkleid", "hemdkleid"]
-glossar_order: "h"
 weight: 8
 image: "images/glossar/hemdblusenkleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Hemdblusenkleid mit ruhigen Formen und feinen Farbfeldern"

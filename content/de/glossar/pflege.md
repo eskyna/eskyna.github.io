@@ -5,7 +5,6 @@ description: "Pflege beschreibt den richtigen Umgang mit Kleidung, damit Materia
 category: "Garderobe & Alltag"
 tags: ["garderobe", "pflege"]
 keywords: ["pflege", "was bedeutet pflege", "pflege stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/pflege.png"
 image_alt: "Editoriale Glossar-Grafik zu Pflege mit ruhigen Farbfeldern und feiner Linienführung"

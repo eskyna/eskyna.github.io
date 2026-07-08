@@ -5,7 +5,6 @@ description: "Qualität entsteht durch Material, Schnitt, Verarbeitung, Passform
 category: "Garderobe & Alltag"
 tags: ["garderobe", "qualität"]
 keywords: ["qualität", "was bedeutet qualität", "qualität stilberatung"]
-glossar_order: "q"
 weight: 1
 image: "images/glossar/qualitaet.png"
 image_alt: "Editoriale Glossar-Grafik zu Qualität mit ruhigen Farbfeldern und feiner Linienführung"

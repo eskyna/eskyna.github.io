@@ -5,7 +5,6 @@ description: "Кардиган — это удобный, многофункци
 category: "Стиль и воздействие"
 tags: ["cardigan", "strickjacke", "layering", "pullover", "гардероб"]
 keywords: ["cardigan", "что такое cardigan", "cardigan kombinieren", "strickjacke"]
-glossar_order: "c"
 weight: 18
 image: "images/glossar/cardigan.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кардиган"

@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#800020"
 tags: ["bordeaux", "weinrot", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["bordeaux kleidung", "weinrot kombinieren", "bordeaux farbe", "stilberatung"]
-glossar_order: "b"
 weight: 10
 image: "images/glossar/bordeaux.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бордовый"

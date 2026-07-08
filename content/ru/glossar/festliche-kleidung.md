@@ -6,7 +6,6 @@ category: "Гардероб и повседневность"
 tags: ["festliche kleidung", "гардероб"]
 keywords:
   ["festliche kleidung", "что означает festliche kleidung", "festliche kleidung stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/festliche-kleidung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Праздничная одежда"

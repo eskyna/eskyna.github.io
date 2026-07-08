@@ -5,7 +5,6 @@ description: "Блейзер — это приталенный пиджак, к�
 category: "Стиль и воздействие"
 tags: ["blazer", "jacke", "business casual", "key-piece", "passform"]
 keywords: ["blazer", "что такое blazer", "blazer kombinieren", "blazer stilberatung"]
-glossar_order: "b"
 weight: 7
 image: "images/glossar/blazer.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Блейзер"

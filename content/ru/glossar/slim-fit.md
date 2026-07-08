@@ -5,7 +5,6 @@ description: "Slim fit обозначает узкую посадку по фи�
 category: "Крой, пропорции и посадка"
 tags: ["slim fit", "посадка", "крой", "брюки", "силуэт"]
 keywords: ["slim fit", "что означает slim fit", "брюки slim fit", "узкая посадка"]
-glossar_order: "s"
 weight: 15
 image: "images/glossar/slim-fit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Slim fit"

@@ -5,7 +5,6 @@ description: "Das Nahtbild zeigt, wie sauber, gerade und haltbar die Nähte eine
 category: "Materialien & Details"
 tags: ["materialien", "nahtbild"]
 keywords: ["nahtbild", "was bedeutet nahtbild", "nahtbild stilberatung"]
-glossar_order: "n"
 weight: 1
 image: "images/glossar/nahtbild.png"
 image_alt: "Editoriale Glossar-Grafik zu Nahtbild mit ruhigen Farbfeldern und feiner Linienführung"

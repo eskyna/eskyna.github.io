@@ -5,7 +5,6 @@ description: "Мода описывает актуальные тренды, к�
 category: "Стиль и воздействие"
 tags: ["мода", "стиль"]
 keywords: ["мода", "актуальные модные тренды", "мода и личный стиль"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/mode.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Мода"

@@ -5,7 +5,6 @@ description: "Oversized blazer это пиджак с намеренно сво�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "oversized blazer"]
 keywords: ["oversized blazer", "свободный пиджак", "как носить oversized blazer"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/oversized-blazer.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Oversized blazer"

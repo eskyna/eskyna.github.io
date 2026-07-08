@@ -5,7 +5,6 @@ description: "Cloud Dancer ist ein sehr heller, weicher Weißton, der milder und
 category: "Farbberatung & Farbe"
 tags: ["cloud dancer", "weiss", "farbe", "farbberatung"]
 keywords: ["cloud dancer", "cloud dancer farbe", "weicher weisston"]
-glossar_order: "c"
 weight: 19
 relatedTerms:
   - title: "Cremeweiss"

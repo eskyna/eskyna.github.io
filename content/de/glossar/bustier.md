@@ -5,7 +5,6 @@ description: "Ein Bustier ist ein kurzes, körpernahes Oberteil mit strukturiert
 category: "Materialien & Details"
 tags: ["bustier", "materialien"]
 keywords: ["bustier", "was bedeutet bustier", "bustier stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bustier.png"
 image_alt: "Editoriale Glossar-Grafik zu Bustier mit ruhigen Farbfeldern und feiner Linienführung"

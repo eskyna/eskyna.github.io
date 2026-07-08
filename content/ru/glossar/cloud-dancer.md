@@ -5,7 +5,6 @@ description: "Cloud Dancer это очень светлый мягкий отт�
 category: "Консультация по цвету и цвет"
 tags: ["cloud dancer", "weiss", "farbe", "farbberatung"]
 keywords: ["cloud dancer", "cloud dancer farbe", "weicher weisston"]
-glossar_order: "c"
 weight: 19
 relatedTerms:
   - title: "Кремово-белый"

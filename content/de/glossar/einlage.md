@@ -5,7 +5,6 @@ description: "Eine Einlage ist ein verstärkendes Material in Blazer, Mantel ode
 category: "Materialien & Details"
 tags: ["einlage", "materialien"]
 keywords: ["einlage", "was bedeutet einlage", "einlage stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/einlage.png"
 image_alt: "Editoriale Glossar-Grafik zu Einlage mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Ein Tellerrock ist ein weit schwingender Rock mit viel Stoff und d
 category: "Garderobe & Alltag"
 tags: ["garderobe", "tellerrock"]
 keywords: ["tellerrock", "was bedeutet tellerrock", "tellerrock stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tellerrock.png"
 image_alt: "Editoriale Glossar-Grafik zu Tellerrock mit ruhigen Farbfeldern und feiner Linienführung"

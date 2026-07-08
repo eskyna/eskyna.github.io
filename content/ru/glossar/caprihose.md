@@ -12,7 +12,6 @@ keywords:
   - "caprihose"
   - "что такое caprihose"
   - "caprihose kombinieren"
-glossar_order: "c"
 weight: 5
 image: "images/glossar/caprihose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Капри"

@@ -5,7 +5,6 @@ description: "Sportlich beschreibt Kleidung mit Bewegung, Komfort, Funktionalit√
 category: "Stil & Wirkung"
 tags: ["sportlich", "stil"]
 keywords: ["sportlich", "was bedeutet sportlich", "sportlich stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/sportlich.png"
 image_alt: "Editoriale Glossar-Grafik zu Sportlich mit ruhigen Farbfeldern und feiner Linienf√ºhrung"

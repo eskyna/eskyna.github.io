@@ -5,7 +5,6 @@ description: "Glamoratti steht für eine neue Lust an Opulenz mit Gold, starken 
 category: "Stil & Wirkung"
 tags: ["glamoratti", "glamour", "luxus", "stil"]
 keywords: ["glamoratti", "opulenter stil", "80s luxury"]
-glossar_order: "g"
 weight: 16
 relatedTerms:
   - title: "80s Luxury"

@@ -5,7 +5,6 @@ description: "Ein Midirock endet zwischen Knie und Knöchel und ist eine vielsei
 category: "Kleider & Röcke"
 tags: ["midirock", "rock", "saumlänge", "proportion"]
 keywords: ["midirock", "was ist ein midirock", "midirock kombinieren"]
-glossar_order: "m"
 weight: 9
 image: "images/glossar/midirock.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Midirock mit ruhigen Formen und feinen Farbfeldern"

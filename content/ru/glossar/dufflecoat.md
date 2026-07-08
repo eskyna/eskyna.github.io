@@ -5,7 +5,6 @@ description: "Дуффельное пальто — это классическ�
 category: "Стиль и воздействие"
 tags: ["dufflecoat", "гардероб"]
 keywords: ["dufflecoat", "что означает dufflecoat", "dufflecoat stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dufflecoat.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Дуффельное пальто"

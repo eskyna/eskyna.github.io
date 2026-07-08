@@ -5,7 +5,6 @@ description: "Деним — это прочная хлопковая ткань
 category: "Материалы и детали"
 tags: ["denim", "jeans", "baumwolle", "material", "casual"]
 keywords: ["denim", "что такое denim", "denim stoff", "jeansstoff"]
-glossar_order: "d"
 weight: 5
 image: "images/glossar/denim.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Деним"

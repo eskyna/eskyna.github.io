@@ -12,7 +12,6 @@ keywords:
   - "hoodie"
   - "что такое hoodie"
   - "с чем сочетать hoodie"
-glossar_order: "h"
 weight: 5
 image: "images/glossar/hoodie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Hoodie"

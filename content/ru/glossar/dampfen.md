@@ -5,7 +5,6 @@ description: "Отпаривание — это метод удаления мо
 category: "Материалы и детали"
 tags: ["dampfen", "материалы"]
 keywords: ["dampfen", "что означает dampfen", "dampfen stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dampfen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Отпаривание"

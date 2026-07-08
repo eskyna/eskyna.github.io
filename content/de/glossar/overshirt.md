@@ -12,7 +12,6 @@ keywords:
   - "overshirt"
   - "was ist ein overshirt"
   - "hemdjacke kombinieren"
-glossar_order: "o"
 weight: 5
 image: "images/glossar/overshirt.png"
 image_alt: "Editoriale Grafik mit stilisiertem Overshirt, Taschen und klarer Hemdjackenform"

@@ -5,7 +5,6 @@ description: "Рукав летучая мышь — это широкий ру�
 category: "Материалы и детали"
 tags: ["fledermausaermel", "schnitt proportion"]
 keywords: ["fledermausärmel", "что означает fledermausärmel", "fledermausärmel stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/fledermausaermel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Рукав летучая мышь"

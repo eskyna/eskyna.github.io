@@ -5,7 +5,6 @@ description: "Чистые цвета это яркие, незамутнённ�
 category: "Консультация по цвету и цвет"
 tags: ["чистые цвета", "цвет", "цветотип", "контраст"]
 keywords: ["чистые цвета", "яркие цвета", "clear colors"]
-glossar_order: "k"
 weight: 15
 relatedTerms:
   - title: "Приглушённые цвета"

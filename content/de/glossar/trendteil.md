@@ -5,7 +5,6 @@ description: "Ein Trendteil ist ein modisches Kleidungsstück, das eine aktuelle
 category: "Stil & Wirkung"
 tags: ["stil", "trendteil"]
 keywords: ["trendteil", "was bedeutet trendteil", "trendteil stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/trendteil.png"
 image_alt: "Editoriale Glossar-Grafik zu Trendteil mit ruhigen Farbfeldern und feiner Linienführung"

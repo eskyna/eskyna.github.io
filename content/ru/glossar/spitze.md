@@ -5,7 +5,6 @@ description: "Кружево это ажурный декоративный ма
 category: "Материалы и детали"
 tags: ["материалы", "кружево"]
 keywords: ["кружево", "что означает кружево", "кружево в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/spitze.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кружево"

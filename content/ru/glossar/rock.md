@@ -5,7 +5,6 @@ description: "Юбка это предмет одежды для нижней ч
 category: "Гардероб и повседневность"
 tags: ["гардероб", "юбка"]
 keywords: ["юбка", "что означает юбка", "юбка в стилизации"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/rock.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка"

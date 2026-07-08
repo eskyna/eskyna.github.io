@@ -5,7 +5,6 @@ description: "Ein Stilprofil fasst die wichtigsten Stilrichtungen, Farben, Forme
 category: "Stil & Wirkung"
 tags: ["stil", "stilprofil"]
 keywords: ["stilprofil", "was bedeutet stilprofil", "stilprofil stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilprofil.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilprofil mit ruhigen Farbfeldern und feiner Linienführung"

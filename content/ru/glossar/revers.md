@@ -5,7 +5,6 @@ description: "Лацкан это отложная часть воротника
 category: "Материалы и детали"
 tags: ["материалы", "лацкан"]
 keywords: ["лацкан", "что означает лацкан", "лацканы в одежде"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/revers.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Лацкан"

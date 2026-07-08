@@ -5,7 +5,6 @@ description: "Ohrringe rahmen das Gesicht und beeinflussen die Wirkung von Hals,
 category: "Materialien & Details"
 tags: ["materialien", "ohrringe"]
 keywords: ["ohrringe", "was bedeutet ohrringe", "ohrringe stilberatung"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/ohrringe.png"
 image_alt: "Editoriale Glossar-Grafik zu Ohrringe mit ruhigen Farbfeldern und feiner Linienführung"

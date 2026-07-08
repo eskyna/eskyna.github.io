@@ -5,7 +5,6 @@ description: "Ein Fotoshooting-Outfit ist ein Look, der für Kamera, Licht, Bild
 category: "Garderobe & Alltag"
 tags: ["fotoshooting outfit", "kamera", "sichtbarkeit", "image"]
 keywords: ["fotoshooting-outfit", "outfit business shooting", "markenfotos kleidung"]
-glossar_order: "f"
 weight: 10
 relatedTerms:
   - title: "Kamera-Look"

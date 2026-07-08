@@ -5,7 +5,6 @@ description: "Eine Brand Wardrobe ist eine Garderobe, die zur persönlichen oder
 category: "Garderobe & Alltag"
 tags: ["brand wardrobe", "garderobe", "personal branding", "sichtbarkeit"]
 keywords: ["brand wardrobe", "markengarderobe", "garderobe personal branding"]
-glossar_order: "b"
 weight: 13
 relatedTerms:
   - title: "Personal Branding"

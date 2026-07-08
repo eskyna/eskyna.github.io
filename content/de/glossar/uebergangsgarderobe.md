@@ -6,7 +6,6 @@ category: "Garderobe & Alltag"
 tags: ["garderobe", "übergangsgarderobe"]
 keywords:
   ["übergangsgarderobe", "was bedeutet übergangsgarderobe", "übergangsgarderobe stilberatung"]
-glossar_order: "u"
 weight: 1
 image: "images/glossar/uebergangsgarderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Übergangsgarderobe mit ruhigen Farbfeldern und feiner Linienführung"

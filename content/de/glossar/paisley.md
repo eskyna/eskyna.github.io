@@ -5,7 +5,6 @@ description: "Paisley ist ein ornamentales, tropfenförmiges Muster mit weicher,
 category: "Materialien & Details"
 tags: ["materialien", "paisley"]
 keywords: ["paisley", "was bedeutet paisley", "paisley stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/paisley.png"
 image_alt: "Editoriale Glossar-Grafik zu Paisley mit ruhigen Farbfeldern und feiner Linienführung"

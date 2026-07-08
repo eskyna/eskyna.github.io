@@ -5,7 +5,6 @@ description: "Ein Klassiker ist ein zeitloses Kleidungsstück, das über mehrere
 category: "Stil & Wirkung"
 tags: ["klassiker", "stil"]
 keywords: ["klassiker", "was bedeutet klassiker", "klassiker stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/klassiker.png"
 image_alt: "Editoriale Glossar-Grafik zu Klassiker mit ruhigen Farbfeldern und feiner Linienführung"

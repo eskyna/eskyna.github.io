@@ -5,7 +5,6 @@ description: "Das umgekehrte Dreieck beschreibt eine Silhouette mit stärkerer S
 category: "Schnitt, Proportion & Passform"
 tags: ["umgekehrtes dreieck", "silhouette", "proportion", "schultern"]
 keywords: ["umgekehrtes dreieck", "inverted triangle silhouette", "schultern breiter als hüfte"]
-glossar_order: "u"
 weight: 36
 relatedTerms:
   - title: "Silhouette"

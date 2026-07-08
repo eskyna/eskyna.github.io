@@ -5,7 +5,6 @@ description: "Однобортный — это стиль с одним ряд�
 category: "Материалы и детали"
 tags: ["einreiher", "гардероб"]
 keywords: ["einreiher", "что означает einreiher", "einreiher stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/einreiher.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Однобортный"

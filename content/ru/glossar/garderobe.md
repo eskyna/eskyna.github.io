@@ -5,7 +5,6 @@ description: "Гардероб включает всю одежду, обувь 
 category: "Стиль и воздействие"
 tags: ["гардероб", "стиль"]
 keywords: ["гардероб", "структура гардероба", "основа личного гардероба"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Гардероб"

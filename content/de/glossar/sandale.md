@@ -12,7 +12,6 @@ keywords:
   - "sandale"
   - "was ist eine sandale"
   - "sandalen kombinieren"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/sandale.png"
 image_alt: "Editoriale Grafik zu Sandale mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

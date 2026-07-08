@@ -5,7 +5,6 @@ description: "Stretch обозначает эластичный материал
 category: "Материалы и детали"
 tags: ["материалы", "stretch"]
 keywords: ["stretch", "что означает stretch", "эластичный материал"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stretch.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Stretch"

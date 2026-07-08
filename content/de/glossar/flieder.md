@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#C8A6D8"
 tags: ["flieder", "lila", "farbe", "pastell", "farbberatung"]
 keywords: ["flieder kleidung", "flieder kombinieren", "helles lila", "farbberatung"]
-glossar_order: "f"
 weight: 29
 image: "images/glossar/flieder.png"
 image_alt: "Editoriale Grafik zu Flieder mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

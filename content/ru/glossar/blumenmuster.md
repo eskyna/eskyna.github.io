@@ -5,7 +5,6 @@ description: "Цветочный орнамент — это уютный, же�
 category: "Материалы и детали"
 tags: ["blumenmuster", "материалы"]
 keywords: ["blumenmuster", "что означает blumenmuster", "blumenmuster stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/blumenmuster.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Цветочный орнамент"

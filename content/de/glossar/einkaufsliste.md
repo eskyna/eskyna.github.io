@@ -5,7 +5,6 @@ description: "Eine Einkaufsliste übersetzt Garderobenlücken in konkrete, sinnv
 category: "Garderobe & Alltag"
 tags: ["einkaufsliste", "garderobe"]
 keywords: ["einkaufsliste", "was bedeutet einkaufsliste", "einkaufsliste stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/einkaufsliste.png"
 image_alt: "Editoriale Glossar-Grafik zu Einkaufsliste mit ruhigen Farbfeldern und feiner Linienführung"

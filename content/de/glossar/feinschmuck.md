@@ -5,7 +5,6 @@ description: "Feinschmuck beschreibt zurückhaltenden, oft hochwertigen Schmuck,
 category: "Materialien & Details"
 tags: ["feinschmuck", "schmuck", "accessoire", "gold", "silber"]
 keywords: ["feinschmuck", "was ist feinschmuck", "feinen schmuck kombinieren"]
-glossar_order: "f"
 weight: 22
 image: "images/glossar/feinschmuck.png"
 image_alt: "Editoriale Grafik zu Feinschmuck mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

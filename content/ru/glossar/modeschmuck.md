@@ -5,7 +5,6 @@ description: "Бижутерия это украшения без претенз
 category: "Материалы и детали"
 tags: ["материалы", "бижутерия"]
 keywords: ["бижутерия", "что такое бижутерия", "акцентные украшения"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/modeschmuck.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бижутерия"

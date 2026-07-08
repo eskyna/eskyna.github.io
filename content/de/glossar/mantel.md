@@ -5,7 +5,6 @@ description: "Ein Mantel ist eine längere Jacke für kühlere Tage und prägt d
 category: "Garderobe & Alltag"
 tags: ["garderobe", "mantel"]
 keywords: ["mantel", "was bedeutet mantel", "mantel stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/mantel.png"
 image_alt: "Editoriale Glossar-Grafik zu Mantel mit ruhigen Farbfeldern und feiner Linienführung"

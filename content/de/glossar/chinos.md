@@ -5,7 +5,6 @@ description: "Chinos sind leichte Baumwollhosen aus Twill, die zwischen Jeans un
 category: "Garderobe & Alltag"
 tags: ["chinos", "hose", "baumwolle", "business casual", "passform"]
 keywords: ["chinos", "was sind chinos", "chino hose", "chinos kombinieren"]
-glossar_order: "c"
 weight: 6
 image: "images/glossar/chinos.png"
 image_alt: "Editoriale Grafik mit stilisierter Chino-Hose, Twill-Struktur und ruhigen neutralen Farbfeldern"

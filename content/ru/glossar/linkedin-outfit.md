@@ -5,7 +5,6 @@ description: "Образ для LinkedIn это продуманная одеж�
 category: "Гардероб и повседневность"
 tags: ["linkedin outfit", "бизнес", "имидж", "personal branding"]
 keywords: ["linkedin-outfit", "образ для фото профиля", "одежда для деловой фотосъёмки"]
-glossar_order: "l"
 weight: 11
 relatedTerms:
   - title: "Персональный бренд"

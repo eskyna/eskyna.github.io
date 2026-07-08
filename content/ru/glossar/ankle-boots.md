@@ -5,7 +5,6 @@ description: "Ботинки по щиколотку — универсальн�
 category: "Материалы и детали"
 tags: ["ankle boots", "гардероб"]
 keywords: ["ankle boots", "что означает ankle boots", "ankle boots stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/ankle-boots.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ботинки по щиколотку"

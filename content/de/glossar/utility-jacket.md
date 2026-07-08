@@ -5,7 +5,6 @@ description: "Eine Utility Jacket ist eine funktional inspirierte Jacke mit klar
 category: "Garderobe & Alltag"
 tags: ["garderobe", "utility jacket"]
 keywords: ["utility jacket", "was bedeutet utility jacket", "utility jacket stilberatung"]
-glossar_order: "u"
 weight: 1
 image: "images/glossar/utility-jacket.png"
 image_alt: "Editoriale Glossar-Grafik zu Utility Jacket mit ruhigen Farbfeldern und feiner Linienführung"

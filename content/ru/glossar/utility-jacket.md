@@ -5,7 +5,6 @@ description: "Utility jacket это куртка с утилитарным ха�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "utility jacket"]
 keywords: ["utility jacket", "что означает utility jacket", "utility jacket в стилизации"]
-glossar_order: "u"
 weight: 1
 image: "images/glossar/utility-jacket.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Utility jacket"

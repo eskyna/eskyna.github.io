@@ -5,7 +5,6 @@ description: "Клатч — это маленькая, элегантная с�
 category: "Материалы и детали"
 tags: ["clutch", "tasche", "accessoire", "abendgarderobe", "festlich"]
 keywords: ["clutch", "что такое clutch", "clutch tasche kombinieren"]
-glossar_order: "c"
 weight: 13
 image: "images/glossar/clutch.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Клатч"

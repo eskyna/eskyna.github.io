@@ -12,7 +12,6 @@ keywords:
     "приглушённый зелёный",
     "цветовая консультация",
   ]
-glossar_order: "s"
 weight: 23
 image: "images/glossar/salbeigruen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Шалфейно-зелёный"

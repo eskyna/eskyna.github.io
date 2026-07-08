@@ -5,7 +5,6 @@ description: "Punkte sind runde, wiederkehrende Muster, die je nach Größe vers
 category: "Materialien & Details"
 tags: ["materialien", "punkte"]
 keywords: ["punkte", "was bedeutet punkte", "punkte stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/punkte.png"
 image_alt: "Editoriale Glossar-Grafik zu Punkte mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Business Cocktail beschreibt elegante Abendkleidung für beruflich
 category: "Garderobe & Alltag"
 tags: ["business cocktail", "dresscode", "business", "abend"]
 keywords: ["business cocktail", "business cocktail dresscode", "empfang outfit"]
-glossar_order: "b"
 weight: 26
 relatedTerms:
   - title: "Cocktail Attire"

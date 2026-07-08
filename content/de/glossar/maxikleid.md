@@ -5,7 +5,6 @@ description: "Ein Maxikleid ist ein langes Kleid, das meist bis zum Knöchel ode
 category: "Kleider & Röcke"
 tags: ["maxikleid", "kleid", "saumlänge", "silhouette"]
 keywords: ["maxikleid", "was ist ein maxikleid", "maxikleid kombinieren"]
-glossar_order: "m"
 weight: 5
 image: "images/glossar/maxikleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxikleid mit ruhigen Formen und feinen Farbfeldern"

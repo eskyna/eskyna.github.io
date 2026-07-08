@@ -5,7 +5,6 @@ description: "Eine Farbkarte zeigt passende Nuancen eines Farbprofils und hilft,
 category: "Farbberatung & Farbe"
 tags: ["farbkarte", "farbberatung", "farbpass", "farbprofil"]
 keywords: ["farbkarte", "farbkarte farbberatung", "persönliche farbkarte"]
-glossar_order: "f"
 weight: 12
 relatedTerms:
   - title: "Farbpass"

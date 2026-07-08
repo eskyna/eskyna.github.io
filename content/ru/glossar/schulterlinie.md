@@ -5,7 +5,6 @@ description: "Линия плеч описывает посадку и форм�
 category: "Крой, пропорции и посадка"
 tags: ["крой", "пропорции", "линия плеч"]
 keywords: ["линия плеч", "что означает линия плеч", "линия плеч в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schulterlinie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Линия плеч"

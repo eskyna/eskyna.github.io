@@ -5,7 +5,6 @@ description: "Adventure streetwear соединяет элементы outdoor, 
 category: "Стиль и воздействие"
 tags: ["adventure streetwear", "utility", "streetwear", "outdoor"]
 keywords: ["adventure streetwear", "utility streetwear", "outdoor street style"]
-glossar_order: "a"
 weight: 27
 relatedTerms:
   - title: "Эстетика gorpcore"

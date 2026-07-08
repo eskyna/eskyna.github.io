@@ -5,7 +5,6 @@ description: "Сатин это тип переплетения с гладко�
 category: "Материалы и детали"
 tags: ["материалы", "сатин"]
 keywords: ["сатин", "что означает сатин", "сатин в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/satin.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сатин"

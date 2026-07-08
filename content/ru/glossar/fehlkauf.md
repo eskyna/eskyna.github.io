@@ -6,7 +6,6 @@ category: "Гардероб и повседневность"
 tags: ["fehlkauf", "гардероб", "shopping", "stilberatung", "klarheit"]
 keywords:
   ["fehlkauf kleidung", "fehlkäufe vermeiden", "kleiderschrank fehlkauf", "bewusst einkaufen"]
-glossar_order: "f"
 weight: 9
 image: "images/glossar/fehlkauf.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ошибка покупки"

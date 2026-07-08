@@ -5,7 +5,6 @@ description: "Чувство стиля это способность замеч
 category: "Стиль и воздействие"
 tags: ["стиль", "чувство стиля"]
 keywords: ["чувство стиля", "что означает чувство стиля", "чувство стиля и консультация"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilgefuehl.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Чувство стиля"

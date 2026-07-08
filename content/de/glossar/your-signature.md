@@ -5,7 +5,6 @@ description: "Your Signature ist der individuelle Stilcode, der eine Person wied
 category: "Stil & Wirkung"
 tags: ["stil", "your signature"]
 keywords: ["your signature", "was bedeutet your signature", "your signature stilberatung"]
-glossar_order: "y"
 weight: 1
 image: "images/glossar/your-signature.png"
 image_alt: "Editoriale Glossar-Grafik zu Your Signature mit ruhigen Farbfeldern und feiner Linienführung"

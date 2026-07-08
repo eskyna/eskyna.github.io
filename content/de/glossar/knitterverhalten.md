@@ -5,7 +5,6 @@ description: "Knitterverhalten beschreibt, wie stark ein Stoff Falten bildet und
 category: "Materialien & Details"
 tags: ["knitterverhalten", "materialien"]
 keywords: ["knitterverhalten", "was bedeutet knitterverhalten", "knitterverhalten stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/knitterverhalten.png"
 image_alt: "Editoriale Glossar-Grafik zu Knitterverhalten mit ruhigen Farbfeldern und feiner Linienführung"

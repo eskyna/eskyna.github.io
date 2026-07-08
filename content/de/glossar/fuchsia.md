@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#C21873"
 tags: ["fuchsia", "pink", "rosa", "violett", "farbberatung"]
 keywords: ["fuchsia kleidung", "fuchsia kombinieren", "pink violett", "farbberatung"]
-glossar_order: "f"
 weight: 28
 image: "images/glossar/fuchsia.png"
 image_alt: "Editoriale Grafik zu Fuchsia mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

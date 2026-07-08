@@ -5,7 +5,6 @@ description: "Low Waist beschreibt einen tief sitzenden Bund auf oder unterhalb 
 category: "Schnitt, Proportion & Passform"
 tags: ["low waist", "schnitt proportion"]
 keywords: ["low waist", "was bedeutet low waist", "low waist stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/low-waist.png"
 image_alt: "Editoriale Glossar-Grafik zu Low Waist mit ruhigen Farbfeldern und feiner Linienführung"

@@ -12,7 +12,6 @@ keywords:
   - "stiefelette"
   - "was ist eine stiefelette"
   - "stiefeletten kombinieren"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/stiefelette.png"
 image_alt: "Editoriale Grafik zu Stiefelette mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

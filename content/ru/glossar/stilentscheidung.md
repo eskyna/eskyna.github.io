@@ -5,7 +5,6 @@ description: "Стилевое решение это осознанный выб
 category: "Стиль и воздействие"
 tags: ["стиль", "стилевое решение"]
 keywords: ["стилевое решение", "что означает стилевое решение", "решения в стиле"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilentscheidung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевое решение"

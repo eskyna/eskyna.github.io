@@ -5,7 +5,6 @@ description: "Balance im Outfit beschreibt das stimmige Verhältnis von Volumen,
 category: "Stil & Wirkung"
 tags: ["balance", "stil"]
 keywords: ["balance", "was bedeutet balance", "balance stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/balance.png"
 image_alt: "Editoriale Glossar-Grafik zu Balance mit ruhigen Farbfeldern und feiner Linienführung"

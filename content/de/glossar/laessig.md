@@ -5,7 +5,6 @@ description: "Lässig wirkt ein Outfit, wenn es entspannt, unangestrengt und tro
 category: "Stil & Wirkung"
 tags: ["lässig", "stil"]
 keywords: ["lässig", "was bedeutet lässig", "lässig stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/laessig.png"
 image_alt: "Editoriale Glossar-Grafik zu Lässig mit ruhigen Farbfeldern und feiner Linienführung"

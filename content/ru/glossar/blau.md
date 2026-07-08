@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#2E5090"
 tags: ["blau", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["blau kleidung", "blau kombinieren", "hellblau navy", "stilberatung"]
-glossar_order: "b"
 weight: 6
 image: "images/glossar/blau.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Синий"

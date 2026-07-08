@@ -12,7 +12,6 @@ keywords:
   - "bomberjacke"
   - "что такое bomberjacke"
   - "bomberjacke kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/bomberjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бомбер"

@@ -5,7 +5,6 @@ description: "Sneaker это повседневная обувь со спорт
 category: "Гардероб и повседневность"
 tags: ["sneaker", "обувь", "smart casual", "джинсы", "chinos"]
 keywords: ["sneaker", "что такое sneaker", "с чем сочетать sneaker", "лаконичные sneaker"]
-glossar_order: "s"
 weight: 19
 image: "images/glossar/sneaker.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Sneaker"

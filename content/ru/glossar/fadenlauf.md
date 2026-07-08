@@ -5,7 +5,6 @@ description: "Направление нити — это направление 
 category: "Материалы и детали"
 tags: ["fadenlauf", "материалы"]
 keywords: ["fadenlauf", "что означает fadenlauf", "fadenlauf stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/fadenlauf.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Направление нити"

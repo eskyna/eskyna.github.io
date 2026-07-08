@@ -5,7 +5,6 @@ description: "Ein Abendkleid ist ein formelles, elegantes Kleid für festliche A
 category: "Dresscodes & Anlässe"
 tags: ["abendkleid", "kleid", "dresscode", "festlich"]
 keywords: ["abendkleid", "was ist ein abendkleid", "festliches kleid"]
-glossar_order: "a"
 weight: 10
 image: "images/glossar/abendkleid.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Abendkleid mit ruhigen Formen und feinen Farbfeldern"

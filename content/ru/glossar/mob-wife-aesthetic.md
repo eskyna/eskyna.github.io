@@ -5,7 +5,6 @@ description: "Mob wife aesthetic описывает яркий гламурны�
 category: "Стиль и воздействие"
 tags: ["mob wife aesthetic", "гламур", "animal print", "стиль"]
 keywords: ["mob wife aesthetic", "стиль mob wife", "яркий гламурный образ"]
-glossar_order: "m"
 weight: 20
 relatedTerms:
   - title: "Animal print"

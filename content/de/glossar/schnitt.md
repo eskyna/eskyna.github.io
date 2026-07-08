@@ -5,7 +5,6 @@ description: "Der Schnitt beschreibt die konstruktive Form eines Kleidungsstück
 category: "Schnitt, Proportion & Passform"
 tags: ["schnitt", "schnitt proportion"]
 keywords: ["schnitt", "was bedeutet schnitt", "schnitt stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schnitt.png"
 image_alt: "Editoriale Glossar-Grafik zu Schnitt mit ruhigen Farbfeldern und feiner Linienführung"

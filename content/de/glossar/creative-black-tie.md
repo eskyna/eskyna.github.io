@@ -5,7 +5,6 @@ description: "Creative Black Tie erlaubt innerhalb eines sehr formellen Rahmens 
 category: "Garderobe & Alltag"
 tags: ["creative black tie", "dresscode", "abend", "festlich"]
 keywords: ["creative black tie", "creative black tie dresscode", "formal mit twist"]
-glossar_order: "c"
 weight: 24
 relatedTerms:
   - title: "Black Tie"

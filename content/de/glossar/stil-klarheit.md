@@ -5,7 +5,6 @@ description: "Stil-Klarheit ist die Sicherheit darüber, was passt, warum es pas
 category: "Stil & Wirkung"
 tags: ["stil", "stil klarheit"]
 keywords: ["stil-klarheit", "was bedeutet stil-klarheit", "stil-klarheit stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stil-klarheit.png"
 image_alt: "Editoriale Glossar-Grafik zu Stil-Klarheit mit ruhigen Farbfeldern und feiner Linienführung"

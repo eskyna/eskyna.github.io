@@ -5,7 +5,6 @@ description: "Raffung entsteht, wenn Stoff zusammengezogen wird und dadurch Volu
 category: "Materialien & Details"
 tags: ["materialien", "raffung"]
 keywords: ["raffung", "was bedeutet raffung", "raffung stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/raffung.png"
 image_alt: "Editoriale Glossar-Grafik zu Raffung mit ruhigen Farbfeldern und feiner Linienführung"

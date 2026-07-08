@@ -5,7 +5,6 @@ description: "Leo-Print ist ein Leopardenmuster, das als kleiner Akzent edel ode
 category: "Materialien & Details"
 tags: ["leo print", "materialien"]
 keywords: ["leo-print", "was bedeutet leo-print", "leo-print stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/leo-print.png"
 image_alt: "Editoriale Glossar-Grafik zu Leo-Print mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Ein Parka ist eine längere, funktionale Jacke mit Kapuze, oft mit
 category: "Garderobe & Alltag"
 tags: ["garderobe", "parka"]
 keywords: ["parka", "was bedeutet parka", "parka stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/parka.png"
 image_alt: "Editoriale Glossar-Grafik zu Parka mit ruhigen Farbfeldern und feiner Linienführung"

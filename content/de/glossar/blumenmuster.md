@@ -5,7 +5,6 @@ description: "Ein Blumenmuster ist ein floraler Print, der je nach Größe, Farb
 category: "Materialien & Details"
 tags: ["blumenmuster", "materialien"]
 keywords: ["blumenmuster", "was bedeutet blumenmuster", "blumenmuster stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/blumenmuster.png"
 image_alt: "Editoriale Glossar-Grafik zu Blumenmuster mit ruhigen Farbfeldern und feiner Linienführung"

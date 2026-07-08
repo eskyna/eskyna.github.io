@@ -5,7 +5,6 @@ description: "Batik ist ein unregelmäßiges Färbemuster mit weichen Verläufen
 category: "Materialien & Details"
 tags: ["batik", "materialien"]
 keywords: ["batik", "was bedeutet batik", "batik stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/batik.png"
 image_alt: "Editoriale Glossar-Grafik zu Batik mit ruhigen Farbfeldern und feiner Linienführung"

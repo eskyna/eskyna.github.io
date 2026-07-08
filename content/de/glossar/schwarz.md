@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#111111"
 tags: ["schwarz", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["schwarz kleidung", "schwarz kombinieren", "farbberatung", "stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schwarz.png"
 image_alt: "Editoriale Grafik mit schwarzen Stoffflächen, Kontrastlinien und warmen Akzenten"

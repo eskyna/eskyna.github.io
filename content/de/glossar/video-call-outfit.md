@@ -5,7 +5,6 @@ description: "Ein Video-Call-Outfit ist ein Look für digitale Meetings, bei dem
 category: "Garderobe & Alltag"
 tags: ["video call outfit", "meeting", "business", "sichtbarkeit"]
 keywords: ["video-call-outfit", "zoom outfit", "digitales meeting outfit"]
-glossar_order: "v"
 weight: 10
 relatedTerms:
   - title: "Meeting-Look"

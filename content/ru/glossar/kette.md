@@ -5,7 +5,6 @@ description: "Цепочка это украшение на шею, которо
 category: "Материалы и детали"
 tags: ["цепочка", "материалы"]
 keywords: ["цепочка", "украшение на шею", "как влияет цепочка на образ"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kette.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Цепочка"

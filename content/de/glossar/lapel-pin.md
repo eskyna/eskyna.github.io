@@ -5,7 +5,6 @@ description: "Ein Lapel Pin ist ein kleiner Anstecker am Revers, der Individuali
 category: "Materialien & Details"
 tags: ["lapel pin", "reversnadel", "accessoire", "blazer"]
 keywords: ["lapel pin", "reversnadel", "anstecker am revers"]
-glossar_order: "l"
 weight: 25
 relatedTerms:
   - title: "Brooched"

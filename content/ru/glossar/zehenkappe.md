@@ -5,7 +5,6 @@ description: "Носок обуви это передняя часть обув�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "носок обуви"]
 keywords: ["носок обуви", "что означает носок обуви", "форма носка обуви"]
-glossar_order: "z"
 weight: 1
 image: "images/glossar/zehenkappe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Носок обуви"

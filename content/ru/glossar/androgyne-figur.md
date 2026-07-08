@@ -11,7 +11,6 @@ keywords:
     "androgyne frauen merkmale",
     "что означает androgyne figur",
   ]
-glossar_order: "a"
 weight: 3
 relatedTerms:
   - title: "Телосложение"

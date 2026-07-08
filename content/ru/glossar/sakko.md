@@ -5,7 +5,6 @@ description: "Sakko это структурированный пиджак с л
 category: "Гардероб и повседневность"
 tags: ["гардероб", "sakko"]
 keywords: ["sakko", "что означает sakko", "как носить sakko"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/sakko.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Sakko"

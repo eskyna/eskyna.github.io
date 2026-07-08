@@ -5,7 +5,6 @@ description: "Querstreifen verlaufen horizontal und können einem Look Ruhe, Bre
 category: "Materialien & Details"
 tags: ["materialien", "querstreifen"]
 keywords: ["querstreifen", "was bedeutet querstreifen", "querstreifen stilberatung"]
-glossar_order: "q"
 weight: 1
 image: "images/glossar/querstreifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Querstreifen mit ruhigen Farbfeldern und feiner Linienführung"

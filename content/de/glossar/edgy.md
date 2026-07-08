@@ -5,7 +5,6 @@ description: "Edgy beschreibt einen kantigeren Stil mit markanten Formen, Kontra
 category: "Stil & Wirkung"
 tags: ["edgy", "stil"]
 keywords: ["edgy", "was bedeutet edgy", "edgy stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/edgy.png"
 image_alt: "Editoriale Glossar-Grafik zu Edgy mit ruhigen Farbfeldern und feiner Linienführung"

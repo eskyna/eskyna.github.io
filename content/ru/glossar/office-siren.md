@@ -5,7 +5,6 @@ description: "Office siren это чувственная деловая эсте
 category: "Стиль и воздействие"
 tags: ["office siren", "бизнес", "стиль", "90-е"]
 keywords: ["office siren", "office siren aesthetic", "чувственная деловая эстетика"]
-glossar_order: "o"
 weight: 19
 relatedTerms:
   - title: "Юбка-карандаш"

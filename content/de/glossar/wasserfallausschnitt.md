@@ -6,7 +6,6 @@ category: "Materialien & Details"
 tags: ["materialien", "wasserfallausschnitt"]
 keywords:
   ["wasserfallausschnitt", "was bedeutet wasserfallausschnitt", "wasserfallausschnitt stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wasserfallausschnitt.png"
 image_alt: "Editoriale Glossar-Grafik zu Wasserfallausschnitt mit ruhigen Farbfeldern und feiner Linienführung"

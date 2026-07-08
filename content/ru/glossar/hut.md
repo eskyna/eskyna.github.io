@@ -5,7 +5,6 @@ description: "Шляпа это головной убор с полями, ко�
 category: "Материалы и детали"
 tags: ["hut", "accessoire", "kopfbedeckung", "silhouette", "styling"]
 keywords: ["стилизация со шляпой", "что такое шляпа", "с чем сочетать шляпу"]
-glossar_order: "h"
 weight: 26
 image: "images/glossar/hut.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Шляпа"

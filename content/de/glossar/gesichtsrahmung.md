@@ -5,7 +5,6 @@ description: "Gesichtsrahmung beschreibt, wie Farben, Kragen, Schmuck, Brille un
 category: "Materialien & Details"
 tags: ["gesichtsrahmung", "farbe", "accessoire", "stilberatung", "wirkung"]
 keywords: ["gesichtsrahmung", "was bedeutet gesichtsrahmung", "farben nahe am gesicht"]
-glossar_order: "g"
 weight: 28
 image: "images/glossar/gesichtsrahmung.png"
 image_alt: "Editoriale Grafik zu Gesichtsrahmung mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

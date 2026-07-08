@@ -5,7 +5,6 @@ description: "Oversized описывает одежду с намеренно с
 category: "Крой, пропорции и посадка"
 tags: ["oversized", "крой", "силуэт", "пропорции", "посадка"]
 keywords: ["oversized", "что означает oversized", "oversized blazer", "свободный крой"]
-glossar_order: "o"
 weight: 16
 image: "images/glossar/oversized.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Oversized"

@@ -5,7 +5,6 @@ description: "Ein Crop Top ist ein verkürztes Oberteil, das oberhalb der Taille
 category: "Materialien & Details"
 tags: ["crop top", "materialien"]
 keywords: ["crop top", "was bedeutet crop top", "crop top stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/crop-top.png"
 image_alt: "Editoriale Glossar-Grafik zu Crop Top mit ruhigen Farbfeldern und feiner Linienführung"

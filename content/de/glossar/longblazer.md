@@ -5,7 +5,6 @@ description: "Ein Longblazer ist ein länger geschnittener Blazer, der Hüfte od
 category: "Garderobe & Alltag"
 tags: ["garderobe", "longblazer"]
 keywords: ["longblazer", "was bedeutet longblazer", "longblazer stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/longblazer.png"
 image_alt: "Editoriale Glossar-Grafik zu Longblazer mit ruhigen Farbfeldern und feiner Linienführung"

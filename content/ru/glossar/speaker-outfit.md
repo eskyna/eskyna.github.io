@@ -5,7 +5,6 @@ description: "Образ спикера поддерживает роль выс
 category: "Гардероб и повседневность"
 tags: ["speaker outfit", "сцена", "business", "впечатление"]
 keywords: ["speaker outfit", "образ спикера", "сценический бизнес-образ"]
-glossar_order: "s"
 weight: 13
 relatedTerms:
   - title: "Сценический образ"

@@ -5,7 +5,6 @@ description: "Drapierung bezeichnet bewusst geführten Stoff, der weich fällt u
 category: "Materialien & Details"
 tags: ["drapierung", "materialien"]
 keywords: ["drapierung", "was bedeutet drapierung", "drapierung stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/drapierung.png"
 image_alt: "Editoriale Glossar-Grafik zu Drapierung mit ruhigen Farbfeldern und feiner Linienführung"

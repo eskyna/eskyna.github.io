@@ -12,7 +12,6 @@ keywords:
   - "брюки palazzo"
   - "что такое palazzo"
   - "с чем носить брюки palazzo"
-glossar_order: "p"
 weight: 5
 image: "images/glossar/palazzo-hose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки palazzo"

@@ -5,7 +5,6 @@ description: "Боди — это облегающий предмет одежд
 category: "Материалы и детали"
 tags: ["body", "материалы"]
 keywords: ["body", "что означает body", "body stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/body.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Боди"

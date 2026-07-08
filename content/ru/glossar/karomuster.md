@@ -5,7 +5,6 @@ description: "Клетчатые узоры возникают из пересе
 category: "Материалы и детали"
 tags: ["клетчатый узор", "материалы"]
 keywords: ["клетчатый узор", "клетка в одежде", "графичный узор"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/karomuster.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Клетчатый узор"

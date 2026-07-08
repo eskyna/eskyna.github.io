@@ -5,7 +5,6 @@ description: "Oberkörperlänge beschreibt, wie lang der Oberkörper im Verhält
 category: "Schnitt, Proportion & Passform"
 tags: ["oberkörperlänge", "proportion", "taillenposition", "silhouette"]
 keywords: ["oberkörperlänge", "oberkörper wirkt lang", "verhältnis beine oberkörper"]
-glossar_order: "o"
 weight: 48
 relatedTerms:
   - title: "Taillenposition"

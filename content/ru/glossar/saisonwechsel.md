@@ -5,7 +5,6 @@ description: "Смена сезона описывает адаптацию га
 category: "Гардероб и повседневность"
 tags: ["гардероб", "смена сезона"]
 keywords: ["смена сезона", "что означает смена сезона", "сезонная адаптация гардероба"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/saisonwechsel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Смена сезона"

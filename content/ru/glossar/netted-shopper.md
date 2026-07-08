@@ -5,7 +5,6 @@ description: "Netted shopper это сумка сетчатой структур
 category: "Материалы и детали"
 tags: ["netted shopper", "сумка", "shopper", "сетка"]
 keywords: ["netted shopper", "сетчатая сумка", "сетчатый shopper"]
-glossar_order: "n"
 weight: 21
 relatedTerms:
   - title: "Shopper"

@@ -5,7 +5,6 @@ description: "Knee-High Boots sind Stiefel, die bis zum Knie reichen und eine st
 category: "Garderobe & Alltag"
 tags: ["garderobe", "knee high boots"]
 keywords: ["knee-high boots", "was bedeutet knee-high boots", "knee-high boots stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/knee-high-boots.png"
 image_alt: "Editoriale Glossar-Grafik zu Knee-High Boots mit ruhigen Farbfeldern und feiner Linienführung"

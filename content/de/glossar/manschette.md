@@ -5,7 +5,6 @@ description: "Eine Manschette ist der Abschluss am Ärmel und kann schlicht, gek
 category: "Schnitt, Proportion & Passform"
 tags: ["manschette", "schnitt proportion"]
 keywords: ["manschette", "was bedeutet manschette", "manschette stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/manschette.png"
 image_alt: "Editoriale Glossar-Grafik zu Manschette mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Очки — это не только оптический при�
 category: "Материалы и детали"
 tags: ["brille", "accessoire", "gesichtsrahmung", "farbe", "proportion"]
 keywords: ["brille styling", "brille als accessoire", "brillenform"]
-glossar_order: "b"
 weight: 20
 image: "images/glossar/brille.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Очки"

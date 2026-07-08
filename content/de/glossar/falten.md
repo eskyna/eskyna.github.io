@@ -5,7 +5,6 @@ description: "Falten sind gelegte oder genähte Stoffbrüche, die Volumen, Beweg
 category: "Materialien & Details"
 tags: ["falten", "materialien"]
 keywords: ["falten", "was bedeutet falten", "falten stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/falten.png"
 image_alt: "Editoriale Glossar-Grafik zu Falten mit ruhigen Farbfeldern und feiner Linienführung"

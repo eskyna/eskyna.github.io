@@ -5,7 +5,6 @@ description: "Тонкая полоска это очень узкие лини�
 category: "Материалы и детали"
 tags: ["материалы", "тонкая полоска"]
 keywords: ["тонкая полоска", "полоска pinstripe", "костюмная полоска"]
-glossar_order: "n"
 weight: 1
 image: "images/glossar/nadelstreifen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Тонкая полоска"

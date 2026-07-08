@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#B8865C"
 tags: ["camel", "farbe", "braun", "neutrale farben"]
 keywords: ["camel kleidung", "camel kombinieren", "camel mantel", "farbberatung camel"]
-glossar_order: "c"
 weight: 13
 image: "images/glossar/camel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Верблюжий цвет"

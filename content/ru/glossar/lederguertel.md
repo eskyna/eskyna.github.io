@@ -5,7 +5,6 @@ description: "Кожаный ремень это классический акс
 category: "Материалы и детали"
 tags: ["кожаный ремень", "материалы"]
 keywords: ["кожаный ремень", "ремень в образе", "как выбрать кожаный ремень"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/lederguertel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кожаный ремень"

@@ -5,7 +5,6 @@ description: "Ankle Boots sind knöchelhohe Boots, die zwischen Stiefelette und 
 category: "Garderobe & Alltag"
 tags: ["ankle boots", "garderobe"]
 keywords: ["ankle boots", "was bedeutet ankle boots", "ankle boots stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/ankle-boots.png"
 image_alt: "Editoriale Glossar-Grafik zu Ankle Boots mit ruhigen Farbfeldern und feiner Linienführung"

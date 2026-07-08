@@ -5,7 +5,6 @@ description: "Aktivierung bedeutet, Stilwissen in konkrete Outfits, Routinen und
 category: "Stil & Wirkung"
 tags: ["aktivierung", "stil"]
 keywords: ["aktivierung", "was bedeutet aktivierung", "aktivierung stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/aktivierung.png"
 image_alt: "Editoriale Glossar-Grafik zu Aktivierung mit ruhigen Farbfeldern und feiner Linienführung"

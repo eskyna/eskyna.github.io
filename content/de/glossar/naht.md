@@ -5,7 +5,6 @@ description: "Eine Naht verbindet Stoffteile und kann rein funktional oder bewus
 category: "Materialien & Details"
 tags: ["materialien", "naht"]
 keywords: ["naht", "was bedeutet naht", "naht stilberatung"]
-glossar_order: "n"
 weight: 1
 image: "images/glossar/naht.png"
 image_alt: "Editoriale Glossar-Grafik zu Naht mit ruhigen Farbfeldern und feiner Linienführung"

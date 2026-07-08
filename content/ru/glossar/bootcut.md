@@ -12,7 +12,6 @@ keywords:
   - "bootcut"
   - "что означает bootcut"
   - "bootcut jeans kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/bootcut.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бутcut"

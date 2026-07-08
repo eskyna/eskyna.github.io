@@ -5,7 +5,6 @@ description: "Рибана это трикотаж с выраженной ру�
 category: "Материалы и детали"
 tags: ["материалы", "рибана"]
 keywords: ["рибана", "трикотаж в рубчик", "рибана в одежде"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/rippstrick.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Рибана"

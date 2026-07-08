@@ -5,7 +5,6 @@ description: "Polka dots это классический узор в горош�
 category: "Материалы и детали"
 tags: ["материалы", "polka dots"]
 keywords: ["polka dots", "узор в горошек", "горошек в стилизации"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/polka-dots.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Polka dots"

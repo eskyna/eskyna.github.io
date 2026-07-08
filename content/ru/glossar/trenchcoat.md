@@ -5,7 +5,6 @@ description: "Trenchcoat это классическое пальто с поя�
 category: "Гардероб и повседневность"
 tags: ["trenchcoat", "пальто", "классика", "key-piece", "бежевый"]
 keywords: ["trenchcoat", "что такое trenchcoat", "с чем сочетать trenchcoat", "классическое пальто"]
-glossar_order: "t"
 weight: 8
 image: "images/glossar/trenchcoat.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Trenchcoat"

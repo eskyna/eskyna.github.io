@@ -5,7 +5,6 @@ description: "Кожа это прочный натуральный матери
 category: "Материалы и детали"
 tags: ["кожа", "материалы"]
 keywords: ["кожа", "натуральная кожа", "фактура кожи в одежде"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/leder.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кожа"

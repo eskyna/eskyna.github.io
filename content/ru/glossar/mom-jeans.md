@@ -12,7 +12,6 @@ keywords:
   - "mom jeans"
   - "что такое mom jeans"
   - "с чем носить mom jeans"
-glossar_order: "m"
 weight: 5
 image: "images/glossar/mom-jeans.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Mom jeans"

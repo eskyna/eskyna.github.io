@@ -12,7 +12,6 @@ keywords:
   - "wickelkleid"
   - "что такое платье с запахом"
   - "с чем сочетать платье с запахом"
-glossar_order: "w"
 weight: 5
 image: "images/glossar/wickelkleid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Платье с запахом"

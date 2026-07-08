@@ -5,7 +5,6 @@ description: "Waschsymbole sind standardisierte Zeichen, die zeigen, wie ein Kle
 category: "Materialien & Details"
 tags: ["waschsymbole", "pflege", "pflegeetikett", "material"]
 keywords: ["waschsymbole", "waschzeichen kleidung", "pflegezeichen"]
-glossar_order: "w"
 weight: 27
 relatedTerms:
   - title: "Pflegeetikett"

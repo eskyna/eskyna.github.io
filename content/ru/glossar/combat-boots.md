@@ -5,7 +5,6 @@ description: "Военные ботинки — это прочные, функ�
 category: "Материалы и детали"
 tags: ["combat boots", "boots", "обувь", "stilbruch"]
 keywords: ["combat boots", "что такое combat boots", "derbe boots"]
-glossar_order: "c"
 weight: 14
 image: "images/glossar/combat-boots.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Военные ботинки"

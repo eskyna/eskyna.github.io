@@ -5,7 +5,6 @@ description: "Вечернее платье — это элегантный и �
 category: "Стиль и воздействие"
 tags: ["abendkleid", "kleid", "dresscode", "festlich"]
 keywords: ["abendkleid", "что такое abendkleid", "festliches kleid"]
-glossar_order: "a"
 weight: 10
 image: "images/glossar/abendkleid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Вечернее платье"

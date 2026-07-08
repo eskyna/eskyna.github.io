@@ -5,7 +5,6 @@ description: "Покупка vintage это выбор вещей прошлых
 category: "Гардероб и повседневность"
 tags: ["гардероб", "покупка vintage"]
 keywords: ["покупка vintage", "что означает покупка vintage", "покупка vintage в стилизации"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/vintage-kauf.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Покупка vintage"

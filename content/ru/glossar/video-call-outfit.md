@@ -5,7 +5,6 @@ description: "Образ для видеозвонка это комплект �
 category: "Гардероб и повседневность"
 tags: ["video call outfit", "meeting", "business", "sichtbarkeit"]
 keywords: ["video-call-outfit", "zoom outfit", "образ для онлайн-встречи"]
-glossar_order: "v"
 weight: 10
 relatedTerms:
   - title: "Образ для встречи"

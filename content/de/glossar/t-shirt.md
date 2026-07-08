@@ -5,7 +5,6 @@ description: "Ein T-Shirt ist ein meist kurzärmeliges Oberteil aus Jersey, das 
 category: "Garderobe & Alltag"
 tags: ["t-shirt", "basic", "baumwolle", "jersey", "passform"]
 keywords: ["t-shirt", "was ist ein t-shirt", "t-shirt kombinieren", "basic t-shirt"]
-glossar_order: "t"
 weight: 16
 image: "images/glossar/t-shirt.png"
 image_alt: "Editoriale Grafik mit stilisiertem T-Shirt, Jersey-Struktur und neutralen Farbfeldern"

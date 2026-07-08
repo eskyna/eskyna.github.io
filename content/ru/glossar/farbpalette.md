@@ -6,7 +6,6 @@ category: "Консультация по цвету и цвет"
 tags: ["farbpalette", "farbberatung", "capsule wardrobe", "гардероб"]
 keywords:
   ["farbpalette garderobe", "farbpalette erstellen", "farben kombinieren", "stilberatung farben"]
-glossar_order: "f"
 weight: 25
 image: "images/glossar/farbpalette.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Цветовая палитра"

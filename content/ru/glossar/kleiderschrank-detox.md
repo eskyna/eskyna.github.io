@@ -5,7 +5,6 @@ description: "Детокс гардероба это осознанное рас
 category: "Гардероб и повседневность"
 tags: ["гардероб", "детокс гардероба"]
 keywords: ["детокс гардероба", "что означает детокс гардероба", "расхламление гардероба"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kleiderschrank-detox.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Детокс гардероба"

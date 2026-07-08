@@ -5,7 +5,6 @@ description: "Сумка satchel это структурированная су�
 category: "Материалы и детали"
 tags: ["satchel bag", "tasche", "messenger", "preppy"]
 keywords: ["satchel bag", "messenger satchel", "структурированная сумка через плечо"]
-glossar_order: "s"
 weight: 24
 relatedTerms:
   - title: "Сумка crossbody"

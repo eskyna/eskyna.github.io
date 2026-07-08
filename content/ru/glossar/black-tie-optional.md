@@ -5,7 +5,6 @@ description: "Black tie optional означает, что формат black tie
 category: "Гардероб и повседневность"
 tags: ["black tie optional", "dresscode", "abend", "formell"]
 keywords: ["black tie optional", "black tie optional dresscode", "black tie optional damen"]
-glossar_order: "b"
 weight: 23
 relatedTerms:
   - title: "Дресс-код black tie"

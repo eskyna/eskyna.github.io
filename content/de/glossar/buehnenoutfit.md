@@ -5,7 +5,6 @@ description: "Ein Bühnenoutfit ist Kleidung für Vortraege, Moderation oder Auf
 category: "Garderobe & Alltag"
 tags: ["bühnenoutfit", "speaker", "sichtbarkeit", "wirkung"]
 keywords: ["bühnenoutfit", "vortrag outfit", "auftritt kleidung"]
-glossar_order: "b"
 weight: 12
 relatedTerms:
   - title: "Speaker-Outfit"

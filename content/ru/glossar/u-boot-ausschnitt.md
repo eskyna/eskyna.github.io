@@ -5,7 +5,6 @@ description: "Вырез лодочка идёт широко и почти го
 category: "Материалы и детали"
 tags: ["материалы", "вырез лодочка"]
 keywords: ["вырез лодочка", "что означает вырез лодочка", "вырез лодочка в стилизации"]
-glossar_order: "u"
 weight: 1
 image: "images/glossar/u-boot-ausschnitt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Вырез лодочка"

@@ -12,7 +12,6 @@ keywords:
   - "jeansjacke"
   - "was ist eine jeansjacke"
   - "jeansjacke kombinieren"
-glossar_order: "j"
 weight: 5
 image: "images/glossar/jeansjacke.png"
 image_alt: "Editoriale Grafik mit stilisierter Jeansjacke, Denimnaht und Brusttaschen"

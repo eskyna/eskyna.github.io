@@ -5,7 +5,6 @@ description: "Косуха — это классическая кожаная к
 category: "Стиль и воздействие"
 tags: ["bikerjacke", "гардероб"]
 keywords: ["bikerjacke", "что означает bikerjacke", "bikerjacke stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bikerjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Косуха"

@@ -5,7 +5,6 @@ description: "Sneakerina это гибрид sneaker и балеток с пло
 category: "Гардероб и повседневность"
 tags: ["sneakerina", "обувь", "балетки", "sneaker"]
 keywords: ["sneakerina", "гибрид sneaker и балеток", "гибридная обувь"]
-glossar_order: "s"
 weight: 18
 relatedTerms:
   - title: "Балетки"

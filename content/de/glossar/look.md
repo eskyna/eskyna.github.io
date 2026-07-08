@@ -5,7 +5,6 @@ description: "Ein Look beschreibt den sichtbaren Gesamteindruck eines Outfits un
 category: "Stil & Wirkung"
 tags: ["look", "stil"]
 keywords: ["look", "was bedeutet look", "look stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/look.png"
 image_alt: "Editoriale Glossar-Grafik zu Look mit ruhigen Farbfeldern und feiner Linienführung"

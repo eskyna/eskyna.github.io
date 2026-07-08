@@ -5,7 +5,6 @@ description: "Kaufkriterien sind bewusste Maßstäbe für neue Kleidung, etwa Fa
 category: "Garderobe & Alltag"
 tags: ["kaufkriterien", "garderobe", "fehlkauf", "qualität"]
 keywords: ["kaufkriterien", "bewusst einkaufen kleidung", "kaufentscheidung mode"]
-glossar_order: "k"
 weight: 54
 relatedTerms:
   - title: "Fehlkauf"

@@ -5,7 +5,6 @@ description: "Jelly sandals это гибкие пластиковые санд�
 category: "Обувь"
 tags: ["jelly sandals", "обувь", "сандалии", "лето"]
 keywords: ["jelly sandals", "jelly flats", "пластиковые сандалии"]
-glossar_order: "j"
 weight: 21
 relatedTerms:
   - title: "Сандалии"

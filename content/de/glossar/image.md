@@ -5,7 +5,6 @@ description: "Image ist das Bild, das andere durch Auftreten, Kleidung, Farben, 
 category: "Stil & Wirkung"
 tags: ["image", "stil"]
 keywords: ["image", "was bedeutet image", "image stilberatung"]
-glossar_order: "i"
 weight: 1
 image: "images/glossar/image.png"
 image_alt: "Editoriale Glossar-Grafik zu Image mit ruhigen Farbfeldern und feiner Linienführung"

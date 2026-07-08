@@ -5,7 +5,6 @@ description: "Пиджак — это основной элемент делов
 category: "Стиль и воздействие"
 tags: ["anzugjacke", "гардероб"]
 keywords: ["anzugjacke", "что означает anzugjacke", "anzugjacke stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/anzugjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Пиджак"

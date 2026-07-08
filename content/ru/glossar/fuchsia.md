@@ -12,7 +12,6 @@ keywords:
     "розово-фиолетовый оттенок",
     "цветовая консультация",
   ]
-glossar_order: "f"
 weight: 28
 image: "images/glossar/fuchsia.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Фуксия"

@@ -5,7 +5,6 @@ description: "Die Komfortzone beschreibt den Stilbereich, der vertraut wirkt und
 category: "Stil & Wirkung"
 tags: ["komfortzone", "stil"]
 keywords: ["komfortzone", "was bedeutet komfortzone", "komfortzone stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/komfortzone.png"
 image_alt: "Editoriale Glossar-Grafik zu Komfortzone mit ruhigen Farbfeldern und feiner Linienführung"

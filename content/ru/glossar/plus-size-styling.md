@@ -5,7 +5,6 @@ description: "Plus-size styling описывает подходы к стили�
 category: "Крой, пропорции и посадка"
 tags: ["plus-size styling", "посадка", "форма тела", "пропорции"]
 keywords: ["plus-size styling", "стилизация для больших размеров", "plus size и пропорции"]
-glossar_order: "p"
 weight: 32
 relatedTerms:
   - title: "Curvy styling"

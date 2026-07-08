@@ -12,7 +12,6 @@ keywords:
   - "юбка-плиссе"
   - "что такое юбка-плиссе"
   - "с чем носить юбку-плиссе"
-glossar_order: "p"
 weight: 5
 image: "images/glossar/plisseerock.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Юбка-плиссе"

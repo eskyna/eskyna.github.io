@@ -5,7 +5,6 @@ description: "Der Wintertyp ist ein kühler, kontrastreicher Farbtyp, der klare 
 category: "Farbberatung & Farbe"
 tags: ["wintertyp", "farbtyp", "farbberatung", "winter type"]
 keywords: ["wintertyp", "cool winter", "clear winter", "deep winter", "winter farbtyp"]
-glossar_order: "w"
 weight: 10
 relatedTerms:
   - title: "Farbtyp"

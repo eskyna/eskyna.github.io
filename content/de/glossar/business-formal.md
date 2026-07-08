@@ -5,7 +5,6 @@ description: "Business Formal bezeichnet klassische, formelle Businesskleidung m
 category: "Garderobe & Alltag"
 tags: ["business formal", "garderobe"]
 keywords: ["business formal", "was bedeutet business formal", "business formal stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/business-formal.png"
 image_alt: "Editoriale Glossar-Grafik zu Business Formal mit ruhigen Farbfeldern und feiner Linienführung"

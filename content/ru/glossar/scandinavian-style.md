@@ -5,7 +5,6 @@ description: "Scandinavian style это чёткие формы, функцио�
 category: "Стиль и воздействие"
 tags: ["scandinavian style", "стиль"]
 keywords: ["scandinavian style", "что означает scandinavian style", "скандинавский стиль"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/scandinavian-style.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Scandinavian style"

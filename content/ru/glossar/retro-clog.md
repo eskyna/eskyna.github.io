@@ -5,7 +5,6 @@ description: "Retro clog это массивная обувь, часто с п�
 category: "Обувь"
 tags: ["retro clog", "clog", "обувь", "подошва под дерево"]
 keywords: ["retro clog", "clog", "обувь с деревянной подошвой"]
-glossar_order: "r"
 weight: 23
 relatedTerms:
   - title: "Mule"

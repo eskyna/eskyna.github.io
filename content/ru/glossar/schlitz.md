@@ -5,7 +5,6 @@ description: "Разрез это открытая часть в юбке, пл�
 category: "Крой, пропорции и посадка"
 tags: ["разрез", "крой", "пропорции"]
 keywords: ["разрез", "что означает разрез", "разрез в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schlitz.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Разрез"

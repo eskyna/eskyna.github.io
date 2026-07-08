@@ -5,7 +5,6 @@ description: "Джерси это эластичное трикотажное п
 category: "Материалы и детали"
 tags: ["джерси", "материалы"]
 keywords: ["джерси", "эластичный трикотаж", "ткань джерси"]
-glossar_order: "j"
 weight: 1
 image: "images/glossar/jersey.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Джерси"

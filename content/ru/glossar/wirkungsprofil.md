@@ -6,7 +6,6 @@ category: "Стиль и воздействие"
 tags: ["stil", "wirkungsprofil"]
 keywords:
   ["профиль впечатления", "что означает профиль впечатления", "профиль впечатления в стилизации"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wirkungsprofil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль впечатления"

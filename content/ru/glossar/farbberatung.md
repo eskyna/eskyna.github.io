@@ -5,7 +5,6 @@ description: "Консультация по цвету — это професс
 category: "Консультация по цвету и цвет"
 tags: ["farbberatung", "stil"]
 keywords: ["farbberatung", "что означает farbberatung", "farbberatung stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/farbberatung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Консультация по цвету"

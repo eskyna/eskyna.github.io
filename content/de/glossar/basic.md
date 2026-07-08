@@ -5,7 +5,6 @@ description: "Ein Basic ist ein schlichtes, vielseitiges Kleidungsstück, das vi
 category: "Garderobe & Alltag"
 tags: ["basic", "garderobe", "capsule wardrobe", "key-piece", "outfit"]
 keywords: ["basic kleidung", "was ist ein basic", "garderobe basics", "basics kombinieren"]
-glossar_order: "b"
 weight: 8
 image: "images/glossar/basic.png"
 image_alt: "Editoriale Grafik mit schlichtem Shirt, ruhigem Farbfeld und klaren Garderobenlinien"

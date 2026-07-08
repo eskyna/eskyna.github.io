@@ -5,7 +5,6 @@ description: "Гардероб бренда это гардероб, котор�
 category: "Гардероб и повседневность"
 tags: ["brand wardrobe", "гардероб", "personal branding", "sichtbarkeit"]
 keywords: ["brand wardrobe", "markengarderobe", "garderobe personal branding"]
-glossar_order: "b"
 weight: 13
 relatedTerms:
   - title: "Персональный бренд"

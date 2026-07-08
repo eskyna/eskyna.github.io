@@ -5,7 +5,6 @@ description: "Curvy Styling beschreibt eine body-neutrale Stilberatung für kurv
 category: "Schnitt, Proportion & Passform"
 tags: ["curvy styling", "körperform", "passform", "proportion"]
 keywords: ["curvy styling", "kurvige figur styling", "body neutral styling"]
-glossar_order: "c"
 weight: 31
 relatedTerms:
   - title: "Körperform"

@@ -12,7 +12,6 @@ keywords:
   - "camisole"
   - "was ist ein camisole"
   - "seidentop kombinieren"
-glossar_order: "c"
 weight: 5
 image: "images/glossar/camisole.png"
 image_alt: "Editoriale Grafik mit stilisiertem Camisole, feinen Trägern und leicht glänzender Fläche"

@@ -5,7 +5,6 @@ description: "Tweed это фактурная шерстяная ткань с �
 category: "Материалы и детали"
 tags: ["материалы", "tweed"]
 keywords: ["tweed", "что означает tweed", "tweed в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tweed.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Tweed"

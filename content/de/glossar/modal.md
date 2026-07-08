@@ -5,7 +5,6 @@ description: "Modal ist eine weiche Zellulosefaser, die häufig für Shirts, Wä
 category: "Materialien & Details"
 tags: ["materialien", "modal"]
 keywords: ["modal", "was bedeutet modal", "modal stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/modal.png"
 image_alt: "Editoriale Glossar-Grafik zu Modal mit ruhigen Farbfeldern und feiner Linienführung"

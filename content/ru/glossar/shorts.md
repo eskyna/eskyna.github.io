@@ -12,7 +12,6 @@ keywords:
   - "shorts"
   - "что такое shorts"
   - "с чем сочетать shorts"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/shorts.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Shorts"

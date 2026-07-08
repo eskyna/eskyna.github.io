@@ -5,7 +5,6 @@ description: "Tote bag это вместительная сумка с двум�
 category: "Материалы и детали"
 tags: ["tote bag", "сумка", "аксессуар", "гардероб", "повседневность"]
 keywords: ["tote bag", "что такое tote bag", "с чем сочетать tote bag"]
-glossar_order: "t"
 weight: 10
 image: "images/glossar/tote-bag.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Tote Bag"

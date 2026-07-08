@@ -5,7 +5,6 @@ description: "Tie Accessories sind Krawatten, Schleifen, Bänder oder gebundene 
 category: "Materialien & Details"
 tags: ["tie accessories", "krawatte", "schleife", "accessoire"]
 keywords: ["tie accessories", "gebundene accessoires", "schleife krawatte styling"]
-glossar_order: "t"
 weight: 26
 relatedTerms:
   - title: "Poetcore"

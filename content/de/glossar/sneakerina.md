@@ -5,7 +5,6 @@ description: "Eine Sneakerina ist ein Hybrid aus Sneaker und Ballerina mit flach
 category: "Schuhe"
 tags: ["sneakerina", "schuhe", "ballerina", "sneaker"]
 keywords: ["sneakerina", "sneaker ballerina", "hybrid schuh"]
-glossar_order: "s"
 weight: 18
 relatedTerms:
   - title: "Ballerina"

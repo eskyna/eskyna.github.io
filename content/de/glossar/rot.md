@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#B03A2E"
 tags: ["rot", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["rot kleidung", "rot kombinieren", "farbberatung", "stilberatung"]
-glossar_order: "r"
 weight: 8
 image: "images/glossar/rot.png"
 image_alt: "Editoriale Grafik mit roten Farbfeldern, Kontrastflächen und ruhigen Stofflagen"

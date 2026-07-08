@@ -5,7 +5,6 @@ description: "Сумка-ведро — это практичная, вмест�
 category: "Материалы и детали"
 tags: ["bucket bag", "tasche", "accessoire", "alltag", "styling"]
 keywords: ["bucket bag", "что такое bucket bag", "beuteltasche"]
-glossar_order: "b"
 weight: 15
 image: "images/glossar/bucket-bag.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сумка-ведро"

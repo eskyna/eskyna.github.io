@@ -5,7 +5,6 @@ description: "Sandalette это более элегантная сандалия
 category: "Гардероб и повседневность"
 tags: ["гардероб", "sandalette"]
 keywords: ["sandalette", "что означает sandalette", "как носить sandalette"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/sandalette.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Sandalette"

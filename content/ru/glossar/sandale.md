@@ -12,7 +12,6 @@ keywords:
   - "сандалии"
   - "что такое сандалии"
   - "с чем сочетать сандалии"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/sandale.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сандалии"

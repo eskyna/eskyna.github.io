@@ -12,7 +12,6 @@ keywords:
   - "ballerina"
   - "что такое ballerina"
   - "ballerinas kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/ballerina.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Балетки"

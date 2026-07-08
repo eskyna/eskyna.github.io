@@ -5,7 +5,6 @@ description: "Popeline ist ein glatter, dichter Baumwollstoff, der häufig für 
 category: "Materialien & Details"
 tags: ["materialien", "popeline"]
 keywords: ["popeline", "was bedeutet popeline", "popeline stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/popeline.png"
 image_alt: "Editoriale Glossar-Grafik zu Popeline mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Длина рукава — это важный элемент п�
 category: "Крой, пропорции и посадка"
 tags: ["aermellaenge", "schnitt proportion"]
 keywords: ["ärmellänge", "что означает ärmellänge", "ärmellänge stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/aermellaenge.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Длина рукава"

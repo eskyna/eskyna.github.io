@@ -5,7 +5,6 @@ description: "Die Schuhspitze beschreibt die vordere Form eines Schuhs, etwa run
 category: "Garderobe & Alltag"
 tags: ["garderobe", "schuhspitze"]
 keywords: ["schuhspitze", "was bedeutet schuhspitze", "schuhspitze stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schuhspitze.png"
 image_alt: "Editoriale Glossar-Grafik zu Schuhspitze mit ruhigen Farbfeldern und feiner Linienführung"

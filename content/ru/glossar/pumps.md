@@ -12,7 +12,6 @@ keywords:
   - "pumps"
   - "что такое pumps"
   - "с чем сочетать pumps"
-glossar_order: "p"
 weight: 5
 image: "images/glossar/pumps.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Pumps"

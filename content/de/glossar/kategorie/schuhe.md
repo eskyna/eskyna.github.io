@@ -7,4 +7,4 @@ glossar_category: "Schuhe"
 url: "/glossar/kategorie/schuhe/"
 ---
 
-Sie finden hier Begriffe von Absatzformen bis Schuhspitzen und Stiefelhöhen. Das hilft Ihnen, Schuhe gezielter mit Saumlängen, Dresscodes und Stilzielen zu kombinieren.
+Du findest hier Begriffe von Absatzformen bis Schuhspitzen und Stiefelhöhen. Das hilft dir, Schuhe gezielter mit Saumlängen, Dresscodes und Stilzielen zu kombinieren.

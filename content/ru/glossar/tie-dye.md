@@ -5,7 +5,6 @@ description: "Tie-dye это модная вариация батик-окрас
 category: "Материалы и детали"
 tags: ["материалы", "tie-dye"]
 keywords: ["tie-dye", "что означает tie-dye", "tie-dye в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tie-dye.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Tie-Dye"

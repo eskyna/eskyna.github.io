@@ -5,7 +5,6 @@ description: "Ein Jeansrock ist ein Rock aus Denim und verbindet die Robustheit 
 category: "Kleider & Röcke"
 tags: ["jeansrock", "denim", "rock", "casual"]
 keywords: ["jeansrock", "was ist ein jeansrock", "jeansrock kombinieren"]
-glossar_order: "j"
 weight: 7
 image: "images/glossar/jeansrock.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Jeansrock mit ruhigen Formen und feinen Farbfeldern"

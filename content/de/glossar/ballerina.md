@@ -12,7 +12,6 @@ keywords:
   - "ballerina"
   - "was ist eine ballerina"
   - "ballerinas kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/ballerina.png"
 image_alt: "Editoriale Grafik mit stilisiertem Ballerina-Schuh, flacher Form und feiner Schleife"

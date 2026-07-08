@@ -5,7 +5,6 @@ description: "Circular Fashion beschreibt Mode, die möglichst lange genutzt, re
 category: "Garderobe & Alltag"
 tags: ["circular fashion", "nachhaltigkeit", "reparatur", "upcycling"]
 keywords: ["circular fashion", "kreislauf mode", "mode wiederverwertung"]
-glossar_order: "c"
 weight: 49
 relatedTerms:
   - title: "Slow Fashion"

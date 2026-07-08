@@ -5,7 +5,6 @@ description: "Пальто это удлинённая верхняя одежд
 category: "Гардероб и повседневность"
 tags: ["гардероб", "пальто"]
 keywords: ["пальто", "виды пальто", "как выбрать пальто"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/mantel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Пальто"

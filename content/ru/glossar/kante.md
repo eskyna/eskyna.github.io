@@ -5,7 +5,6 @@ description: "Край это видимая завершающая линия �
 category: "Материалы и детали"
 tags: ["край", "материалы"]
 keywords: ["край", "обработка края", "чёткая линия в одежде"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kante.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Край"

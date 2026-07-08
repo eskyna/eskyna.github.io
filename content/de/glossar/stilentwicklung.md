@@ -5,7 +5,6 @@ description: "Stilentwicklung ist die bewusste Veränderung oder Verfeinerung de
 category: "Stil & Wirkung"
 tags: ["stil", "stilentwicklung"]
 keywords: ["stilentwicklung", "was bedeutet stilentwicklung", "stilentwicklung stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilentwicklung.png"
 image_alt: "Editoriale Glossar-Grafik zu Stilentwicklung mit ruhigen Farbfeldern und feiner Linienführung"

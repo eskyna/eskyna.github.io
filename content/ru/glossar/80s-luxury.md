@@ -5,7 +5,6 @@ description: "Роскошь 80-х описывает выразительные
 category: "Стиль и воздействие"
 tags: ["роскошь 80-х", "восьмидесятые", "люкс", "power dressing"]
 keywords: ["роскошь 80-х", "люкс 80-х", "power suit", "стиль 80-х"]
-glossar_order: "8"
 weight: 17
 relatedTerms:
   - title: "Подплечники"

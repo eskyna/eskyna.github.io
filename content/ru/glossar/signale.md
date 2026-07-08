@@ -5,7 +5,6 @@ description: "Сигналы стиля это элементы образа, к
 category: "Стиль и воздействие"
 tags: ["сигналы стиля", "стиль"]
 keywords: ["сигналы стиля", "что означают сигналы стиля", "сигналы в стилизации"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/signale.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сигналы стиля"

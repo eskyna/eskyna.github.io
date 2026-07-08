@@ -7,7 +7,6 @@ color_hex: "#F3EBDD"
 tags: ["off-white", "белый", "цвет", "цветовая консультация", "нейтральные цвета"]
 keywords:
   ["одежда off-white", "с чем сочетать off-white", "оттенки белого", "цветовая консультация"]
-glossar_order: "o"
 weight: 18
 image: "images/glossar/off-white.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Off-white"

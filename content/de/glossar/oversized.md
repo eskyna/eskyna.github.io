@@ -5,7 +5,6 @@ description: "Oversized beschreibt bewusst großzügig geschnittene Kleidung, di
 category: "Schnitt, Proportion & Passform"
 tags: ["oversized", "schnitt", "silhouette", "proportion", "passform"]
 keywords: ["oversized", "was bedeutet oversized", "oversized blazer", "oversized schnitt"]
-glossar_order: "o"
 weight: 16
 image: "images/glossar/oversized.png"
 image_alt: "Editoriale Grafik mit großzügiger Oversized-Silhouette, Körperrahmen und ruhigen Volumenflächen"

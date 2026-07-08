@@ -5,7 +5,6 @@ description: "Saumverarbeitung beschreibt, wie sauber und haltbar der untere Abs
 category: "Materialien & Details"
 tags: ["materialien", "saumverarbeitung"]
 keywords: ["saumverarbeitung", "was bedeutet saumverarbeitung", "saumverarbeitung stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/saumverarbeitung.png"
 image_alt: "Editoriale Glossar-Grafik zu Saumverarbeitung mit ruhigen Farbfeldern und feiner Linienführung"

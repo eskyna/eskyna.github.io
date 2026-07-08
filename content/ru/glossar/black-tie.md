@@ -5,7 +5,6 @@ description: "Black Tie — это самый формальный дресс-к
 category: "Гардероб и повседневность"
 tags: ["black tie", "гардероб"]
 keywords: ["black tie", "что означает black tie", "black tie stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/black-tie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Black Tie"

@@ -5,7 +5,6 @@ description: "Eine Daunenjacke ist eine gefütterte Jacke mit Volumen, die Wärm
 category: "Garderobe & Alltag"
 tags: ["daunenjacke", "garderobe"]
 keywords: ["daunenjacke", "was bedeutet daunenjacke", "daunenjacke stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/daunenjacke.png"
 image_alt: "Editoriale Glossar-Grafik zu Daunenjacke mit ruhigen Farbfeldern und feiner Linienführung"

@@ -6,7 +6,6 @@ category: "Стиль и воздействие"
 tags: ["bewerbungsgespraech", "гардероб"]
 keywords:
   ["bewerbungsgespräch", "что означает bewerbungsgespräch", "bewerbungsgespräch stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bewerbungsgespraech.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Интервью при приёме на работу"

@@ -5,7 +5,6 @@ description: "Die H-Linie beschreibt eine gerade, wenig taillierte Silhouette mi
 category: "Schnitt, Proportion & Passform"
 tags: ["h linie", "schnitt proportion"]
 keywords: ["h-linie", "was bedeutet h-linie", "h-linie stilberatung"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/h-linie.png"
 image_alt: "Editoriale Glossar-Grafik zu H-Linie mit ruhigen Farbfeldern und feiner Linienführung"

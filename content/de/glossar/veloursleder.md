@@ -5,7 +5,6 @@ description: "Veloursleder ist raues, weiches Leder mit matter Oberfläche und w
 category: "Materialien & Details"
 tags: ["materialien", "veloursleder"]
 keywords: ["veloursleder", "was bedeutet veloursleder", "veloursleder stilberatung"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/veloursleder.png"
 image_alt: "Editoriale Glossar-Grafik zu Veloursleder mit ruhigen Farbfeldern und feiner Linienführung"

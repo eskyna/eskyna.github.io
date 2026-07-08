@@ -5,7 +5,6 @@ description: "Вечерний гардероб — это тщательно п
 category: "Гардероб и повседневность"
 tags: ["abendgarderobe", "гардероб"]
 keywords: ["abendgarderobe", "что означает abendgarderobe", "abendgarderobe stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/abendgarderobe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Вечерний гардероб"

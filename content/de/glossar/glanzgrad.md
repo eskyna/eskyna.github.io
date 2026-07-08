@@ -5,7 +5,6 @@ description: "Glanzgrad beschreibt, ob ein Material matt, seidig, glänzend oder
 category: "Materialien & Details"
 tags: ["glanzgrad", "material", "seide", "satin", "struktur"]
 keywords: ["glanzgrad", "glänzende stoffe", "matte stoffe", "materialwirkung kleidung"]
-glossar_order: "g"
 weight: 22
 image: "images/glossar/glanzgrad.png"
 image_alt: "Editoriale Grafik mit matten und glänzenden Stoffflächen, Lichtreflex und feiner Materialkante"

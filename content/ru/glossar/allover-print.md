@@ -5,7 +5,6 @@ description: "Принт по всей поверхности — это узо�
 category: "Материалы и детали"
 tags: ["allover print", "материалы"]
 keywords: ["allover-print", "что означает allover-print", "allover-print stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/allover-print.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Принт по всей поверхности"

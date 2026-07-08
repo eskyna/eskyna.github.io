@@ -5,7 +5,6 @@ description: "Летний цветотип это холодный, часто 
 category: "Консультация по цвету и цвет"
 tags: ["летний цветотип", "цветотип", "цветовая консультация", "summer type"]
 keywords: ["летний цветотип", "light summer", "soft summer", "cool summer", "холодный цветотип"]
-glossar_order: "s"
 weight: 8
 relatedTerms:
   - title: "Цветотип"

@@ -12,7 +12,6 @@ keywords:
   - "mom jeans"
   - "was sind mom jeans"
   - "mom jeans kombinieren"
-glossar_order: "m"
 weight: 5
 image: "images/glossar/mom-jeans.png"
 image_alt: "Editoriale Grafik zu Mom Jeans mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

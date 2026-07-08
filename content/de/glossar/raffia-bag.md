@@ -5,7 +5,6 @@ description: "Eine Raffia Bag ist eine Tasche aus Bast, Raffia oder ähnlichen N
 category: "Materialien & Details"
 tags: ["raffia bag", "tasche", "basttasche", "sommer"]
 keywords: ["raffia bag", "basttasche", "naturmaterial tasche"]
-glossar_order: "r"
 weight: 20
 relatedTerms:
   - title: "Shopper"

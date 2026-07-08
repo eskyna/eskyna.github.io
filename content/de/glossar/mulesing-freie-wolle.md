@@ -5,7 +5,6 @@ description: "Mulesing-freie Wolle stammt von Schafen, bei deren Haltung auf das
 category: "Materialien & Details"
 tags: ["mulesing freie wolle", "wolle", "material", "nachhaltigkeit"]
 keywords: ["mulesing-freie wolle", "mulesing frei", "ethische wolle"]
-glossar_order: "m"
 weight: 29
 relatedTerms:
   - title: "Wolle"

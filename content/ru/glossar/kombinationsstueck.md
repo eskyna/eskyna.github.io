@@ -5,7 +5,6 @@ description: "Комбинаторная вещь это предмет одеж
 category: "Гардероб и повседневность"
 tags: ["гардероб", "комбинаторная вещь"]
 keywords: ["комбинаторная вещь", "базовая вещь для сочетаний", "вещь для многих образов"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kombinationsstueck.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Комбинаторная вещь"

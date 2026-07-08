@@ -5,7 +5,6 @@ description: "Abnäher sind genähte Falten, die Stoff formen und einem Kleidung
 category: "Schnitt, Proportion & Passform"
 tags: ["abnäher", "schnitt proportion"]
 keywords: ["abnäher", "was bedeutet abnäher", "abnäher stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/abnaeher.png"
 image_alt: "Editoriale Glossar-Grafik zu Abnäher mit ruhigen Farbfeldern und feiner Linienführung"

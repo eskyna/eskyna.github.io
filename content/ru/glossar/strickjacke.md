@@ -5,7 +5,6 @@ description: "Кардиган это открытая или застёгива
 category: "Гардероб и повседневность"
 tags: ["гардероб", "кардиган"]
 keywords: ["кардиган", "что означает кардиган", "как носить кардиган"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/strickjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кардиган"

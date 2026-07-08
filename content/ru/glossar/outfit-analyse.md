@@ -5,7 +5,6 @@ description: "Анализ outfit объясняет, почему образ р
 category: "Стиль и воздействие"
 tags: ["анализ outfit", "стиль"]
 keywords: ["анализ outfit", "разбор образа", "почему образ работает"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/outfit-analyse.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Анализ outfit"

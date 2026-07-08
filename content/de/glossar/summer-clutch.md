@@ -5,7 +5,6 @@ description: "Eine Summer Clutch ist eine kleine, handgetragene Sommertasche aus
 category: "Materialien & Details"
 tags: ["summer clutch", "clutch", "tasche", "sommer"]
 keywords: ["summer clutch", "sommertasche clutch", "leichte clutch"]
-glossar_order: "s"
 weight: 23
 relatedTerms:
   - title: "Clutch"

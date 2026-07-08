@@ -5,7 +5,6 @@ description: "Longline обозначает удлинённые силуэты,
 category: "Крой, пропорции и посадка"
 tags: ["longline", "крой", "пропорции"]
 keywords: ["longline", "удлинённый силуэт", "вертикальная линия в крое"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/longline.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Longline"

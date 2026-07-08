@@ -5,7 +5,6 @@ description: "Black Tie ist ein sehr formeller Abenddresscode mit klaren Erwartu
 category: "Garderobe & Alltag"
 tags: ["black tie", "garderobe"]
 keywords: ["black tie", "was bedeutet black tie", "black tie stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/black-tie.png"
 image_alt: "Editoriale Glossar-Grafik zu Black Tie mit ruhigen Farbfeldern und feiner Linienführung"

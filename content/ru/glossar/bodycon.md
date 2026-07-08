@@ -5,7 +5,6 @@ description: "Облегающий силуэт подчёркивает кон�
 category: "Крой, пропорции и посадка"
 tags: ["bodycon", "schnitt proportion"]
 keywords: ["bodycon", "что означает bodycon", "bodycon stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bodycon.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Облегающий силуэт"

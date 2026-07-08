@@ -5,7 +5,6 @@ description: "Туника это свободный, часто более дл
 category: "Материалы и детали"
 tags: ["материалы", "туника"]
 keywords: ["туника", "что означает туника", "туника в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tunika.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Туника"

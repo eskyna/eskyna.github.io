@@ -5,7 +5,6 @@ description: "Ein Rock ist ein Kleidungsstück für den Unterkörper ohne Beinei
 category: "Garderobe & Alltag"
 tags: ["garderobe", "rock"]
 keywords: ["rock", "was bedeutet rock", "rock stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/rock.png"
 image_alt: "Editoriale Glossar-Grafik zu Rock mit ruhigen Farbfeldern und feiner Linienführung"

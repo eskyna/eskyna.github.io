@@ -5,7 +5,6 @@ description: "Грубая вязка это заметный объёмный �
 category: "Материалы и детали"
 tags: ["грубая вязка", "материалы"]
 keywords: ["грубая вязка", "объёмный трикотаж", "фактурная вязка"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/grobstrick.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Грубая вязка"

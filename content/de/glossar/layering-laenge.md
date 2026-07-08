@@ -5,7 +5,6 @@ description: "Layering-Länge beschreibt, wie die sichtbaren Längen mehrerer Kl
 category: "Schnitt, Proportion & Passform"
 tags: ["layering länge", "layering", "proportion", "längen"]
 keywords: ["layering-länge", "schichten längen outfit", "layering proportion"]
-glossar_order: "l"
 weight: 46
 relatedTerms:
   - title: "Layering"

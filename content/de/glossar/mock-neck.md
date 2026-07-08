@@ -5,7 +5,6 @@ description: "Mock Neck bezeichnet einen kurzen Stehkragen, der höher als ein R
 category: "Materialien & Details"
 tags: ["materialien", "mock neck"]
 keywords: ["mock neck", "was bedeutet mock neck", "mock neck stilberatung"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/mock-neck.png"
 image_alt: "Editoriale Glossar-Grafik zu Mock Neck mit ruhigen Farbfeldern und feiner Linienführung"

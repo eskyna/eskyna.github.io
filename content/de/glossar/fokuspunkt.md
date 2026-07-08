@@ -5,7 +5,6 @@ description: "Ein Fokuspunkt ist die Stelle im Outfit, die zuerst Aufmerksamkeit
 category: "Stil & Wirkung"
 tags: ["fokuspunkt", "stil"]
 keywords: ["fokuspunkt", "was bedeutet fokuspunkt", "fokuspunkt stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/fokuspunkt.png"
 image_alt: "Editoriale Glossar-Grafik zu Fokuspunkt mit ruhigen Farbfeldern und feiner Linienführung"

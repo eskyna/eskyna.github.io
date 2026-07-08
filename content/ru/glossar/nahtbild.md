@@ -5,7 +5,6 @@ description: "Качество швов показывает, насколько
 category: "Материалы и детали"
 tags: ["материалы", "качество швов"]
 keywords: ["качество швов", "аккуратность шва", "надёжность швов"]
-glossar_order: "n"
 weight: 1
 image: "images/glossar/nahtbild.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Качество швов"

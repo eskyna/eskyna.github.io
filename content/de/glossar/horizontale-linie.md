@@ -5,7 +5,6 @@ description: "Eine horizontale Linie lenkt den Blick zur Seite und kann Breite, 
 category: "Schnitt, Proportion & Passform"
 tags: ["horizontale linie", "proportion", "blickführung", "saum"]
 keywords: ["horizontale linie", "breite im outfit", "unterbrechung styling"]
-glossar_order: "h"
 weight: 42
 relatedTerms:
   - title: "Saumlänge"

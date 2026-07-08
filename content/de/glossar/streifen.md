@@ -5,7 +5,6 @@ description: "Streifen sind lineare Muster, die je nach Richtung, Breite und Kon
 category: "Materialien & Details"
 tags: ["materialien", "streifen"]
 keywords: ["streifen", "was bedeutet streifen", "streifen stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/streifen.png"
 image_alt: "Editoriale Glossar-Grafik zu Streifen mit ruhigen Farbfeldern und feiner Linienführung"

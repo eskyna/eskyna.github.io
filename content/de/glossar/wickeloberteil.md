@@ -5,7 +5,6 @@ description: "Ein Wickeloberteil wird vorne überkreuzt oder seitlich gebunden u
 category: "Materialien & Details"
 tags: ["materialien", "wickeloberteil"]
 keywords: ["wickeloberteil", "was bedeutet wickeloberteil", "wickeloberteil stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wickeloberteil.png"
 image_alt: "Editoriale Glossar-Grafik zu Wickeloberteil mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "A-силуэт — это форма одежды, которая 
 category: "Крой, пропорции и посадка"
 tags: ["a-linie", "schnitt", "silhouette", "proportion", "kleid"]
 keywords: ["a-linie", "что означает a-linie", "a-linien kleid", "a-linien rock"]
-glossar_order: "a"
 weight: 6
 image: "images/glossar/a-linie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина A-силуэт"

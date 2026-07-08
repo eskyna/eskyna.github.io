@@ -6,7 +6,6 @@ category: "Консультация по цвету и цвет"
 tags: ["весенний цветотип", "цветотип", "цветовая консультация", "spring type"]
 keywords:
   ["весенний цветотип", "light spring", "clear spring", "warm spring", "тёплый весенний тип"]
-glossar_order: "f"
 weight: 7
 relatedTerms:
   - title: "Цветотип"

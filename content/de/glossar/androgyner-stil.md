@@ -5,7 +5,6 @@ description: "Ein androgyner Stil verbindet feminine und maskuline Elemente zu e
 category: "Stil & Wirkung"
 tags: ["androgyner stil", "stil"]
 keywords: ["androgyner stil", "was bedeutet androgyner stil", "androgyner stil stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/androgyner-stil.png"
 image_alt: "Editoriale Glossar-Grafik zu Androgyner Stil mit ruhigen Farbfeldern und feiner Linienführung"

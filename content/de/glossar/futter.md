@@ -5,7 +5,6 @@ description: "Futter ist die innere Stofflage in Jacken, Mänteln, Röcken oder 
 category: "Materialien & Details"
 tags: ["futter", "materialien"]
 keywords: ["futter", "was bedeutet futter", "futter stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/futter.png"
 image_alt: "Editoriale Glossar-Grafik zu Futter mit ruhigen Farbfeldern und feiner Linienführung"

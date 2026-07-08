@@ -5,7 +5,6 @@ description: "Гусиная лапка это графичный ломаный
 category: "Материалы и детали"
 tags: ["гусиная лапка", "материалы"]
 keywords: ["гусиная лапка", "ломаная клетка", "классический графичный узор"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/hahnentritt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Гусиная лапка"

@@ -5,7 +5,6 @@ description: "Eine Sonnenbrille schützt die Augen und prägt zugleich Gesicht, 
 category: "Materialien & Details"
 tags: ["sonnenbrille", "brille", "accessoire", "gesichtsrahmung", "styling"]
 keywords: ["sonnenbrille styling", "sonnenbrille gesichtsform", "sonnenbrille kombinieren"]
-glossar_order: "s"
 weight: 19
 image: "images/glossar/sonnenbrille.png"
 image_alt: "Editoriale Grafik zu Sonnenbrille mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

@@ -5,7 +5,6 @@ description: "Mule это обувь без задника, которая в з
 category: "Обувь"
 tags: ["mule", "обувь", "slingback", "сандалии"]
 keywords: ["mule", "обувь mule", "мюли"]
-glossar_order: "m"
 weight: 12
 image: "images/glossar/mule.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Mule"

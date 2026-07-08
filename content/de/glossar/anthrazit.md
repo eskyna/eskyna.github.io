@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#3E4247"
 tags: ["anthrazit", "grau", "farbe", "neutrale farben", "farbberatung"]
 keywords: ["anthrazit kleidung", "anthrazit kombinieren", "dunkelgrau", "neutrale farben"]
-glossar_order: "a"
 weight: 19
 image: "images/glossar/anthrazit.png"
 image_alt: "Editoriale Grafik zu Anthrazit mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

@@ -5,7 +5,6 @@ description: "Strick ist Maschenware, die je nach Garn, Dichte und Oberfläche w
 category: "Materialien & Details"
 tags: ["materialien", "strick"]
 keywords: ["strick", "was bedeutet strick", "strick stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/strick.png"
 image_alt: "Editoriale Glossar-Grafik zu Strick mit ruhigen Farbfeldern und feiner Linienführung"

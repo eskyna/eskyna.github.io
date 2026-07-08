@@ -5,7 +5,6 @@ description: "High Waist beschreibt einen hohen Bund, der oberhalb der natürlic
 category: "Schnitt, Proportion & Passform"
 tags: ["high waist", "schnitt proportion"]
 keywords: ["high waist", "was bedeutet high waist", "high waist stilberatung"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/high-waist.png"
 image_alt: "Editoriale Glossar-Grafik zu High Waist mit ruhigen Farbfeldern und feiner Linienführung"

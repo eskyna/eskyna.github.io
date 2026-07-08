@@ -12,7 +12,6 @@ keywords:
   - "bundfaltenhose"
   - "что такое bundfaltenhose"
   - "bundfaltenhose kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/bundfaltenhose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Брюки со складками"

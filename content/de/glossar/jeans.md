@@ -5,7 +5,6 @@ description: "Eine Jeans ist eine Hose aus Denim, deren Wirkung stark von Schnit
 category: "Garderobe & Alltag"
 tags: ["jeans", "denim", "hose", "passform", "garderobe"]
 keywords: ["jeans", "was ist eine jeans", "jeans schnitte", "jeans passform"]
-glossar_order: "j"
 weight: 10
 image: "images/glossar/jeans.png"
 image_alt: "Editoriale Grafik mit stilisierter Jeans, Tasche, Nähten und Denim-Farbwelt"

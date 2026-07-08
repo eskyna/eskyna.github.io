@@ -5,7 +5,6 @@ description: "Ein Farbprofil beschreibt die Farben, Kontraste und Nuancen, die e
 category: "Stil & Wirkung"
 tags: ["farbprofil", "stil"]
 keywords: ["farbprofil", "was bedeutet farbprofil", "farbprofil stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/farbprofil.png"
 image_alt: "Editoriale Glossar-Grafik zu Farbprofil mit ruhigen Farbfeldern und feiner Linienführung"

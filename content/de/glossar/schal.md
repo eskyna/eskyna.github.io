@@ -5,7 +5,6 @@ description: "Ein Schal ist ein längliches Tuch oder Strickstück, das wärmt, 
 category: "Materialien & Details"
 tags: ["schal", "accessoire", "farbe", "gesichtsrahmung", "material"]
 keywords: ["schal", "was ist ein schal", "schal kombinieren"]
-glossar_order: "s"
 weight: 16
 image: "images/glossar/schal.png"
 image_alt: "Editoriale Grafik zu Schal mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

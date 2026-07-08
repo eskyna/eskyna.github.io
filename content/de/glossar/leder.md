@@ -5,7 +5,6 @@ description: "Leder ist ein robustes Naturmaterial mit charaktervoller Oberfläc
 category: "Materialien & Details"
 tags: ["leder", "materialien"]
 keywords: ["leder", "was bedeutet leder", "leder stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/leder.png"
 image_alt: "Editoriale Glossar-Grafik zu Leder mit ruhigen Farbfeldern und feiner Linienführung"

@@ -7,7 +7,6 @@ color_hex: "#B66A4A"
 tags: ["terracotta", "farbe", "orange", "braun"]
 keywords:
   ["terracotta kleidung", "terracotta kombinieren", "erdige farben", "farbberatung terracotta"]
-glossar_order: "t"
 weight: 17
 
 image: "images/glossar/terracotta.png"

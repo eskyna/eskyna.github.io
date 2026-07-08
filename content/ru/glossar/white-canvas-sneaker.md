@@ -5,7 +5,6 @@ description: "White canvas sneaker это лёгкие белые кеды из 
 category: "Гардероб и повседневность"
 tags: ["white canvas sneaker", "sneaker", "canvas", "белый"]
 keywords: ["white canvas sneaker", "белые canvas-кеды", "белые тканевые кеды"]
-glossar_order: "w"
 weight: 25
 relatedTerms:
   - title: "Sneaker"

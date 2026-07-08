@@ -12,7 +12,6 @@ keywords:
     "лиловый и фиолетовый",
     "цветовая консультация",
   ]
-glossar_order: "v"
 weight: 30
 image: "images/glossar/violett.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Фиолетовый"

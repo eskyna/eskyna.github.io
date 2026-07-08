@@ -5,7 +5,6 @@ description: "Personal shopping это сопровождаемый или ку�
 category: "Стиль и воздействие"
 tags: ["personal shopping", "стиль"]
 keywords: ["personal shopping", "сопровождаемый шопинг", "шопинг со стилистом"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/personal-shopping.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Personal shopping"

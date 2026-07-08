@@ -5,7 +5,6 @@ description: "Ein Ballonärmel ist ein voluminöser Ärmel mit gerafftem oder ge
 category: "Schnitt, Proportion & Passform"
 tags: ["ballonaermel", "schnitt proportion"]
 keywords: ["ballonärmel", "was bedeutet ballonärmel", "ballonärmel stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/ballonaermel.png"
 image_alt: "Editoriale Glossar-Grafik zu Ballonärmel mit ruhigen Farbfeldern und feiner Linienführung"

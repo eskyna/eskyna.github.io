@@ -5,7 +5,6 @@ description: "Ein Essential ist ein zentrales Kleidungsstück, das eine Garderob
 category: "Stil & Wirkung"
 tags: ["essential", "stil"]
 keywords: ["essential", "was bedeutet essential", "essential stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/essential.png"
 image_alt: "Editoriale Glossar-Grafik zu Essential mit ruhigen Farbfeldern und feiner Linienführung"

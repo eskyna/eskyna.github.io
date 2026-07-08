@@ -5,7 +5,6 @@ description: "Twill ist ein Gewebe mit diagonaler Struktur, das bei Chinos, Tren
 category: "Materialien & Details"
 tags: ["materialien", "twill"]
 keywords: ["twill", "was bedeutet twill", "twill stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/twill.png"
 image_alt: "Editoriale Glossar-Grafik zu Twill mit ruhigen Farbfeldern und feiner Linienführung"

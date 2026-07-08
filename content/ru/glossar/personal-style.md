@@ -5,7 +5,6 @@ description: "Личный стиль это индивидуальная ман
 category: "Стиль и воздействие"
 tags: ["personal style", "стиль"]
 keywords: ["personal style", "личный стиль", "консультация по личному стилю"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/personal-style.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Личный стиль"

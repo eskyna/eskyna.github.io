@@ -5,7 +5,6 @@ description: "Ein Doppelreiher ist eine Jacke, ein Blazer oder Mantel mit zwei s
 category: "Garderobe & Alltag"
 tags: ["doppelreiher", "garderobe"]
 keywords: ["doppelreiher", "was bedeutet doppelreiher", "doppelreiher stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/doppelreiher.png"
 image_alt: "Editoriale Glossar-Grafik zu Doppelreiher mit ruhigen Farbfeldern und feiner Linienführung"

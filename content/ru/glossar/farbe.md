@@ -5,7 +5,6 @@ description: "Цвет — это один из главных инструме�
 category: "Консультация по цвету и цвет"
 tags: ["farbberatung", "farbe"]
 keywords: ["farbe", "что означает farbe", "farbe stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/farbe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Цвет"

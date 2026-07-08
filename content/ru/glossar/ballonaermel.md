@@ -5,7 +5,6 @@ description: "Объёмный рукав — это рукав с дополн�
 category: "Крой, пропорции и посадка"
 tags: ["ballonaermel", "schnitt proportion"]
 keywords: ["ballonärmel", "что означает ballonärmel", "ballonärmel stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/ballonaermel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Объёмный рукав"

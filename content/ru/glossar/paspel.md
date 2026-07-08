@@ -5,7 +5,6 @@ description: "Кант это узкая обработанная кромка, 
 category: "Материалы и детали"
 tags: ["материалы", "кант"]
 keywords: ["кант", "что означает кант", "кант в стилизации"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/paspel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кант"

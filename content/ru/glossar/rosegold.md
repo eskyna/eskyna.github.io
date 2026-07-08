@@ -12,7 +12,6 @@ keywords:
     "одежда в оттенке розового золота",
     "metallic",
   ]
-glossar_order: "r"
 weight: 34
 image: "images/glossar/rosegold.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Розовое золото"

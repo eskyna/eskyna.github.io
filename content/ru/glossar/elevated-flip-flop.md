@@ -5,7 +5,6 @@ description: "Refined flip-flop это более качественная ил�
 category: "Обувь"
 tags: ["refined flip-flop", "вьетнамки", "обувь", "минимализм"]
 keywords: ["refined flip-flop", "элегантные вьетнамки", "минималистичная летняя обувь"]
-glossar_order: "e"
 weight: 24
 relatedTerms:
   - title: "Сандалии"

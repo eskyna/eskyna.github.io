@@ -5,7 +5,6 @@ description: "Квадратный вырез — это вырез прямоу
 category: "Материалы и детали"
 tags: ["carre ausschnitt", "материалы"]
 keywords: ["carré-ausschnitt", "что означает carré-ausschnitt", "carré-ausschnitt stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/carre-ausschnitt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Квадратный вырез"

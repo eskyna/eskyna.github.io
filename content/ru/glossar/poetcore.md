@@ -5,7 +5,6 @@ description: "Poetcore это романтично-интеллектуальн�
 category: "Стиль и воздействие"
 tags: ["poetcore", "стиль", "aesthetic", "vintage"]
 keywords: ["poetcore", "poet core", "poet aesthetic", "романтично-интеллектуальный стиль"]
-glossar_order: "p"
 weight: 15
 relatedTerms:
   - title: "Dark academia"

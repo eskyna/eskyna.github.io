@@ -5,7 +5,6 @@ description: "Camouflage ist ein Tarnmuster mit funktionalem Ursprung und urbane
 category: "Materialien & Details"
 tags: ["camouflage", "materialien"]
 keywords: ["camouflage", "was bedeutet camouflage", "camouflage stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/camouflage.png"
 image_alt: "Editoriale Glossar-Grafik zu Camouflage mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Маскулинный стиль использует чётки�
 category: "Стиль и воздействие"
 tags: ["маскулинный стиль", "стиль"]
 keywords: ["маскулинный стиль", "маскулинная стилистика", "прямой структурный стиль"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/maskuliner-stil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Маскулинный стиль"

@@ -5,7 +5,6 @@ description: "Retro это современная интерпретация м�
 category: "Стиль и воздействие"
 tags: ["retro", "стиль"]
 keywords: ["retro", "что означает retro", "retro в стиле"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/retro.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Retro"

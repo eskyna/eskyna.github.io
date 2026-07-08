@@ -5,7 +5,6 @@ description: "Knopfqualität beschreibt Material, Gewicht, Befestigung und Wirku
 category: "Materialien & Details"
 tags: ["knopfqualität", "materialien"]
 keywords: ["knopfqualität", "was bedeutet knopfqualität", "knopfqualität stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/knopfqualitaet.png"
 image_alt: "Editoriale Glossar-Grafik zu Knopfqualität mit ruhigen Farbfeldern und feiner Linienführung"

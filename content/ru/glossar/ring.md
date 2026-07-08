@@ -5,7 +5,6 @@ description: "Кольцо это украшение для пальцев, ко
 category: "Материалы и детали"
 tags: ["материалы", "кольцо"]
 keywords: ["кольцо", "что означает кольцо", "кольца в стилизации"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/ring.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Кольцо"

@@ -5,7 +5,6 @@ description: "Батик — это техника окрашивания тка
 category: "Материалы и детали"
 tags: ["batik", "материалы"]
 keywords: ["batik", "что означает batik", "batik stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/batik.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Батик"

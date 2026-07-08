@@ -5,7 +5,6 @@ description: "Schulter-Hüft-Balance beschreibt das optische Verhältnis von Obe
 category: "Schnitt, Proportion & Passform"
 tags: ["schulter hüft balance", "proportion", "silhouette", "balance"]
 keywords: ["schulter-hüft-balance", "oberkörper unterkörper balance", "proportion outfit"]
-glossar_order: "s"
 weight: 37
 relatedTerms:
   - title: "Balance"

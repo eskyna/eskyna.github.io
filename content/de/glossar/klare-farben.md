@@ -5,7 +5,6 @@ description: "Klare Farben sind reine, leuchtende Farben mit wenig Grauanteil un
 category: "Farbberatung & Farbe"
 tags: ["klare farben", "farbe", "farbtyp", "kontrast"]
 keywords: ["klare farben", "leuchtende farben", "clear colors"]
-glossar_order: "k"
 weight: 15
 relatedTerms:
   - title: "Gedämpfte Farben"

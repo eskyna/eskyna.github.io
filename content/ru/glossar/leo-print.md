@@ -5,7 +5,6 @@ description: "Leo-print это леопардовый рисунок, котор
 category: "Материалы и детали"
 tags: ["leo-print", "материалы"]
 keywords: ["leo-print", "леопардовый принт", "акцентный анималистичный рисунок"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/leo-print.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Leo-print"

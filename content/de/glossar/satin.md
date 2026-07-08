@@ -5,7 +5,6 @@ description: "Satin ist eine Webart mit glatter, oft glänzender Oberfläche und
 category: "Materialien & Details"
 tags: ["materialien", "satin"]
 keywords: ["satin", "was bedeutet satin", "satin stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/satin.png"
 image_alt: "Editoriale Glossar-Grafik zu Satin mit ruhigen Farbfeldern und feiner Linienführung"

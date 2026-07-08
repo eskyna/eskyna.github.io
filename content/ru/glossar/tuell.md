@@ -5,7 +5,6 @@ description: "Тюль это сетчатая прозрачная ткань, 
 category: "Материалы и детали"
 tags: ["материалы", "тюль"]
 keywords: ["тюль", "что означает тюль", "тюль в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tuell.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Тюль"

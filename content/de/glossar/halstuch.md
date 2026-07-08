@@ -5,7 +5,6 @@ description: "Ein Halstuch ist ein kleineres Tuch am Hals, das Farbe, Muster und
 category: "Materialien & Details"
 tags: ["halstuch", "accessoire", "farbe", "gesichtsrahmung", "styling"]
 keywords: ["halstuch", "was ist ein halstuch", "halstuch kombinieren"]
-glossar_order: "h"
 weight: 18
 image: "images/glossar/halstuch.png"
 image_alt: "Editoriale Grafik zu Halstuch mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

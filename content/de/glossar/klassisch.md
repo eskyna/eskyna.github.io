@@ -5,7 +5,6 @@ description: "Klassisch beschreibt einen zeitlosen, gepflegten Stil mit klaren F
 category: "Stil & Wirkung"
 tags: ["klassisch", "stil"]
 keywords: ["klassisch", "was bedeutet klassisch", "klassisch stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/klassisch.png"
 image_alt: "Editoriale Glossar-Grafik zu Klassisch mit ruhigen Farbfeldern und feiner Linienführung"

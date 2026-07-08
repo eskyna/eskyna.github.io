@@ -5,7 +5,6 @@ description: "Ein Stehkragen steht aufrecht am Hals und wirkt klarer und reduzie
 category: "Materialien & Details"
 tags: ["materialien", "stehkragen"]
 keywords: ["stehkragen", "was bedeutet stehkragen", "stehkragen stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stehkragen.png"
 image_alt: "Editoriale Glossar-Grafik zu Stehkragen mit ruhigen Farbfeldern und feiner Linienführung"

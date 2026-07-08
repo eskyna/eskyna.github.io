@@ -5,7 +5,6 @@ description: "Зона комфорта описывает привычный с
 category: "Стиль и воздействие"
 tags: ["зона комфорта", "стиль"]
 keywords: ["зона комфорта в стиле", "привычный стиль", "как выйти из зоны комфорта в одежде"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/komfortzone.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Зона комфорта"

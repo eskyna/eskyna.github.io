@@ -12,7 +12,6 @@ keywords:
     "золото и серебро в образе",
     "цветовая консультация",
   ]
-glossar_order: "m"
 weight: 31
 image: "images/glossar/metallic.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Металлик"

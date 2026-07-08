@@ -12,7 +12,6 @@ keywords:
   - "tanktop"
   - "что такое tanktop"
   - "с чем сочетать tanktop"
-glossar_order: "t"
 weight: 6
 image: "images/glossar/tanktop.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Tanktop"

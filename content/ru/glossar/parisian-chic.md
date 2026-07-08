@@ -5,7 +5,6 @@ description: "Parisian chic описывает непринуждённо эле
 category: "Стиль и воздействие"
 tags: ["parisian chic", "стиль"]
 keywords: ["parisian chic", "эстетика parisian chic", "французский элегантный стиль"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/parisian-chic.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Parisian chic"

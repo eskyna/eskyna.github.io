@@ -5,7 +5,6 @@ description: "Ein Sichtbarkeitslook ist ein Outfit, das bewusst für öffentlich
 category: "Garderobe & Alltag"
 tags: ["sichtbarkeitslook", "präsenz", "personal branding", "kamera"]
 keywords: ["sichtbarkeitslook", "outfit sichtbarkeit", "social media outfit business"]
-glossar_order: "s"
 weight: 14
 relatedTerms:
   - title: "Personal Branding"

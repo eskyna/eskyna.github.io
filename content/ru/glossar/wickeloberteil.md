@@ -5,7 +5,6 @@ description: "Топ с запахом перекрещивается спере
 category: "Материалы и детали"
 tags: ["материалы", "топ с запахом"]
 keywords: ["топ с запахом", "что означает топ с запахом", "топ с запахом в стилизации"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wickeloberteil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Топ с запахом"

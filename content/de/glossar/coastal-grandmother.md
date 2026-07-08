@@ -5,7 +5,6 @@ description: "Coastal Grandmother ist ein entspannter, maritim-eleganter Stil mi
 category: "Stil & Wirkung"
 tags: ["coastal grandmother", "maritim", "stil", "leinen"]
 keywords: ["coastal grandmother", "coastal grandmother style", "maritim elegante ästhetik"]
-glossar_order: "c"
 weight: 21
 relatedTerms:
   - title: "Navy"

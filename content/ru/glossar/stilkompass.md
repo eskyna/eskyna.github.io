@@ -5,7 +5,6 @@ description: "Стилевой компас это система ориенти
 category: "Стиль и воздействие"
 tags: ["стиль", "стилевой компас"]
 keywords: ["стилевой компас", "что означает стилевой компас", "ориентиры в стиле"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilkompass.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Стилевой компас"

@@ -5,7 +5,6 @@ description: "Eine Pocket Vest ist eine Weste mit mehreren sichtbaren Taschen, d
 category: "Garderobe & Alltag"
 tags: ["pocket vest", "weste", "utility", "taschen"]
 keywords: ["pocket vest", "taschenweste", "utility weste"]
-glossar_order: "p"
 weight: 28
 relatedTerms:
   - title: "Weste"

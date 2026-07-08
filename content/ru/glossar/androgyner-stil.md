@@ -5,7 +5,6 @@ description: "Андрогинный стиль сочетает мужские 
 category: "Стиль и воздействие"
 tags: ["androgyner stil", "stil"]
 keywords: ["androgyner stil", "что означает androgyner stil", "androgyner stil stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/androgyner-stil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Андрогинный стиль"

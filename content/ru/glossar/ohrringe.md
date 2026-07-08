@@ -5,7 +5,6 @@ description: "Серьги обрамляют лицо и влияют на вп
 category: "Материалы и детали"
 tags: ["материалы", "серьги"]
 keywords: ["серьги", "как выбрать серьги", "серьги в стилизации"]
-glossar_order: "o"
 weight: 1
 image: "images/glossar/ohrringe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Серьги"

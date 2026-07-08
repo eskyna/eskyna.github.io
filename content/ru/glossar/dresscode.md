@@ -5,7 +5,6 @@ description: "Дресс-код — это установленные прави
 category: "Гардероб и повседневность"
 tags: ["dresscode", "anlass", "business casual", "smart casual", "wirkung"]
 keywords: ["dresscode", "что такое dresscode", "dresscode verstehen", "kleidung anlass"]
-glossar_order: "d"
 weight: 14
 image: "images/glossar/dresscode.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Дресс-код"

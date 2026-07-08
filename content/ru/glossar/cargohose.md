@@ -12,7 +12,6 @@ keywords:
   - "cargohose"
   - "что такое cargohose"
   - "cargohose kombinieren"
-glossar_order: "c"
 weight: 5
 image: "images/glossar/cargohose.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Карго-брюки"

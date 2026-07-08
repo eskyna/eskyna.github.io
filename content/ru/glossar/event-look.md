@@ -5,7 +5,6 @@ description: "Образ для события — это тщательно п�
 category: "Гардероб и повседневность"
 tags: ["event look", "гардероб"]
 keywords: ["event-look", "что означает event-look", "event-look stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/event-look.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для события"

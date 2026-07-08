@@ -5,7 +5,6 @@ description: "Корсетный топ это верх с формообраз�
 category: "Материалы и детали"
 tags: ["корсетный топ", "материалы"]
 keywords: ["корсетный топ", "структурный топ", "топ с корсетной линией"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/korsett-top.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Корсетный топ"

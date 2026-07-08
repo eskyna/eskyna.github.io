@@ -5,7 +5,6 @@ description: "Сочетаемость описывает, насколько х
 category: "Гардероб и повседневность"
 tags: ["гардероб", "сочетаемость"]
 keywords: ["сочетаемость", "как сочетать вещи", "сочетаемость в гардеробе"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kombinierbarkeit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сочетаемость"

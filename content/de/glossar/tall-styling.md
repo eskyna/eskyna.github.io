@@ -5,7 +5,6 @@ description: "Tall Styling beschäftigt sich mit Kleidung für große Körpergr�
 category: "Schnitt, Proportion & Passform"
 tags: ["tall styling", "proportion", "silhouette", "styling"]
 keywords: ["tall styling", "grosse körpergröße styling", "proportion gross"]
-glossar_order: "t"
 weight: 30
 relatedTerms:
   - title: "Vertikale Linie"

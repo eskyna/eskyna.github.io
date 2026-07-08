@@ -5,7 +5,6 @@ description: "Reinweiß ist ein klares, kühles Weiß, das sehr frisch und kontr
 category: "Farbberatung & Farbe"
 tags: ["reinweiss", "weiss", "farbe", "farbberatung"]
 keywords: ["reinweiss", "reines weiss", "kühles weiss"]
-glossar_order: "r"
 weight: 17
 relatedTerms:
   - title: "Weiss"

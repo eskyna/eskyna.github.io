@@ -5,7 +5,6 @@ description: "Полиамид это синтетическое волокно,
 category: "Материалы и детали"
 tags: ["материалы", "полиамид"]
 keywords: ["полиамид", "свойства полиамида", "полиамид в одежде"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/polyamid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Полиамид"

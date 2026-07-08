@@ -5,7 +5,6 @@ description: "Укороченный крой — это укороченная 
 category: "Крой, пропорции и посадка"
 tags: ["cropped", "schnitt proportion"]
 keywords: ["cropped", "что означает cropped", "cropped stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cropped.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Укороченный"

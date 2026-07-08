@@ -5,7 +5,6 @@ description: "Развитие стиля это осознанное измен
 category: "Стиль и воздействие"
 tags: ["стиль", "развитие стиля"]
 keywords: ["развитие стиля", "что означает развитие стиля", "эволюция личного стиля"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stilentwicklung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Развитие стиля"

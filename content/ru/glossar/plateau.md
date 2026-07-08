@@ -5,7 +5,6 @@ description: "Платформа обозначает приподнятую п�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "платформа"]
 keywords: ["платформа", "обувь на платформе", "как носить платформу"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/plateau.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Платформа"

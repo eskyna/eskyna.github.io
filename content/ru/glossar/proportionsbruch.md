@@ -5,7 +5,6 @@ description: "Контраст пропорций возникает, когда
 category: "Крой, пропорции и посадка"
 tags: ["контраст пропорций", "пропорции", "oversized", "стилизация"]
 keywords: ["контраст пропорций", "необычные пропорции образа", "drop waist"]
-glossar_order: "p"
 weight: 44
 relatedTerms:
   - title: "Пропорции"

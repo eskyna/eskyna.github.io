@@ -5,7 +5,6 @@ description: "Стиль это личный способ соединять о�
 category: "Стиль и воздействие"
 tags: ["стиль"]
 keywords: ["стиль", "личный стиль", "что такое стиль", "стилевая консультация"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Стиль"

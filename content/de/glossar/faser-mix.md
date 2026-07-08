@@ -5,7 +5,6 @@ description: "Ein Faser-Mix kombiniert mehrere Fasern in einem Material und beei
 category: "Materialien & Details"
 tags: ["faser mix", "material", "naturfaser", "kunstfaser"]
 keywords: ["faser-mix", "naturfaser kunstfaser", "mischgewebe"]
-glossar_order: "f"
 weight: 28
 relatedTerms:
   - title: "Baumwolle"

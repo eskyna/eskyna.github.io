@@ -6,7 +6,6 @@ category: "Farbberatung & Farbe"
 tags: ["neutrale farben", "basisfarben", "farbpalette", "garderobe"]
 keywords:
   ["neutrale farben", "basisfarben garderobe", "farben kombinieren", "capsule wardrobe farben"]
-glossar_order: "n"
 weight: 24
 
 image: "images/glossar/neutrale-farben.png"

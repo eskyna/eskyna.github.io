@@ -5,7 +5,6 @@ description: "Прозрачность описывает, насколько ч
 category: "Материалы и детали"
 tags: ["материалы", "прозрачность"]
 keywords: ["прозрачность", "что означает прозрачность", "прозрачность в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/transparenz.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Прозрачность"

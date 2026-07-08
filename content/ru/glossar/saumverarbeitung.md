@@ -5,7 +5,6 @@ description: "Обработка подола описывает, насколь
 category: "Материалы и детали"
 tags: ["материалы", "обработка подола"]
 keywords: ["обработка подола", "что означает обработка подола", "качество обработки подола"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/saumverarbeitung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Обработка подола"

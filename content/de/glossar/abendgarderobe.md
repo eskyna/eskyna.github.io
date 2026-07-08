@@ -5,7 +5,6 @@ description: "Abendgarderobe umfasst formelle oder festliche Kleidung für Abend
 category: "Garderobe & Alltag"
 tags: ["abendgarderobe", "garderobe"]
 keywords: ["abendgarderobe", "was bedeutet abendgarderobe", "abendgarderobe stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/abendgarderobe.png"
 image_alt: "Editoriale Glossar-Grafik zu Abendgarderobe mit ruhigen Farbfeldern und feiner Linienführung"

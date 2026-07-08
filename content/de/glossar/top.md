@@ -5,7 +5,6 @@ description: "Ein Top ist ein leichtes Oberteil, meist ohne Ärmel oder mit schm
 category: "Materialien & Details"
 tags: ["materialien", "top"]
 keywords: ["top", "was bedeutet top", "top stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/top.png"
 image_alt: "Editoriale Glossar-Grafik zu Top mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Профиль кроя описывает формы, линии,
 category: "Стиль и воздействие"
 tags: ["профиль кроя", "стиль"]
 keywords: ["профиль кроя", "что означает профиль кроя", "профиль кроя в стиле"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/schnittprofil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль кроя"

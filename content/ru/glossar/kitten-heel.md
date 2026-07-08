@@ -5,7 +5,6 @@ description: "Kitten heel это невысокий, изящный каблук
 category: "Обувь"
 tags: ["kitten heel", "каблук", "лодочки", "slingback"]
 keywords: ["kitten heel", "невысокий каблук", "изящный маленький каблук"]
-glossar_order: "k"
 weight: 16
 image: "images/glossar/kitten-heel.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Kitten heel"

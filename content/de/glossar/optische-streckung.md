@@ -5,7 +5,6 @@ description: "Optische Streckung beschreibt Stylingeffekte, die eine Person län
 category: "Schnitt, Proportion & Passform"
 tags: ["optische streckung", "vertikale linie", "proportion", "blickführung"]
 keywords: ["optische streckung", "länger wirken styling", "vertikaler look"]
-glossar_order: "o"
 weight: 49
 relatedTerms:
   - title: "Vertikale Linie"

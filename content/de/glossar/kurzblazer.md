@@ -5,7 +5,6 @@ description: "Ein Kurzblazer endet oberhalb oder auf Höhe der Taille und betont
 category: "Garderobe & Alltag"
 tags: ["garderobe", "kurzblazer"]
 keywords: ["kurzblazer", "was bedeutet kurzblazer", "kurzblazer stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kurzblazer.png"
 image_alt: "Editoriale Glossar-Grafik zu Kurzblazer mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Bouclé ist ein strukturierter Stoff mit schlingiger Oberfläche u
 category: "Materialien & Details"
 tags: ["boucle", "materialien"]
 keywords: ["bouclé", "was bedeutet bouclé", "bouclé stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/boucle.png"
 image_alt: "Editoriale Glossar-Grafik zu Bouclé mit ruhigen Farbfeldern und feiner Linienführung"

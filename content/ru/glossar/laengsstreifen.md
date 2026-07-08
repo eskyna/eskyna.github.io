@@ -5,7 +5,6 @@ description: "Продольные полосы идут по вертикали
 category: "Материалы и детали"
 tags: ["продольные полосы", "материалы"]
 keywords: ["продольные полосы", "вертикальные полосы в одежде", "вытягивающая линия"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/laengsstreifen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Продольные полосы"

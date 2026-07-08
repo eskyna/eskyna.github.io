@@ -5,7 +5,6 @@ description: "Аксессуары — это украшающие предме�
 category: "Гардероб и повседневность"
 tags: ["accessoire", "schmuck", "tasche", "gürtel", "styling"]
 keywords: ["accessoire", "что такое accessoire", "accessoires kombinieren", "outfit accessoires"]
-glossar_order: "a"
 weight: 7
 image: "images/glossar/accessoire.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Аксессуар"

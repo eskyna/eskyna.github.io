@@ -5,7 +5,6 @@ description: "Ясность стиля это уверенность в том,
 category: "Стиль и воздействие"
 tags: ["стиль", "ясность стиля"]
 keywords: ["ясность стиля", "что означает ясность стиля", "уверенность в стиле"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stil-klarheit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ясность стиля"

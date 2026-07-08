@@ -5,7 +5,6 @@ description: "Slow fashion это осознанное потребление с
 category: "Гардероб и повседневность"
 tags: ["slow fashion", "устойчивость", "качество", "гардероб"]
 keywords: ["slow fashion", "осознанное потребление в моде", "долговечный гардероб"]
-glossar_order: "s"
 weight: 48
 relatedTerms:
   - title: "Circular fashion"

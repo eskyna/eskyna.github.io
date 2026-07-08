@@ -5,7 +5,6 @@ description: "Print это нанесённый узор или мотив, ко
 category: "Материалы и детали"
 tags: ["материалы", "print"]
 keywords: ["print", "принт", "принт в стилизации"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/print.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Print"

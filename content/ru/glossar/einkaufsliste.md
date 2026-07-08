@@ -5,7 +5,6 @@ description: "Список покупок — это планомерный пе
 category: "Гардероб и повседневность"
 tags: ["einkaufsliste", "гардероб"]
 keywords: ["einkaufsliste", "что означает einkaufsliste", "einkaufsliste stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/einkaufsliste.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Список покупок"

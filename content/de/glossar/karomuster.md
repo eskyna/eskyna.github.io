@@ -5,7 +5,6 @@ description: "Karomuster entstehen durch sich kreuzende Linien und können klass
 category: "Materialien & Details"
 tags: ["karomuster", "materialien"]
 keywords: ["karomuster", "was bedeutet karomuster", "karomuster stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/karomuster.png"
 image_alt: "Editoriale Glossar-Grafik zu Karomuster mit ruhigen Farbfeldern und feiner Linienführung"

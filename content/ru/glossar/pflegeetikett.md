@@ -5,7 +5,6 @@ description: "Ярлык по уходу содержит рекомендаци
 category: "Материалы и детали"
 tags: ["материалы", "ярлык по уходу"]
 keywords: ["ярлык по уходу", "знаки на ярлыке", "уход за одеждой"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/pflegeetikett.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Ярлык по уходу"

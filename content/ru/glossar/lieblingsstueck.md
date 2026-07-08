@@ -5,7 +5,6 @@ description: "Любимая вещь это предмет одежды, кот
 category: "Стиль и воздействие"
 tags: ["любимая вещь", "стиль"]
 keywords: ["любимая вещь", "опорная вещь в гардеробе", "вещь по личному стилю"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/lieblingsstueck.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Любимая вещь"

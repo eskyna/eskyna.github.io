@@ -5,7 +5,6 @@ description: "Relaxed fit обозначает более свободный к�
 category: "Крой, пропорции и посадка"
 tags: ["relaxed fit", "крой", "пропорции"]
 keywords: ["relaxed fit", "что означает relaxed fit", "свободный крой relaxed fit"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/relaxed-fit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Relaxed fit"

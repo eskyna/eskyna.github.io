@@ -5,7 +5,6 @@ description: "Die Silhouette ist die äußere Linie eines Outfits und prägt, ob
 category: "Schnitt, Proportion & Passform"
 tags: ["silhouette", "schnitt", "proportionen", "passform"]
 keywords: ["silhouette mode", "schnittform", "proportionen", "stilberatung"]
-glossar_order: "s"
 weight: 2
 image: "images/glossar/silhouette.png"
 image_alt: "Grafik mit mehreren Outfit-Silhouetten in klaren Linien"

@@ -5,7 +5,6 @@ description: "Глажка — это важная часть ухода за г
 category: "Материалы и детали"
 tags: ["buegeln", "материалы"]
 keywords: ["bügeln", "что означает bügeln", "bügeln stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/buegeln.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Глажка"

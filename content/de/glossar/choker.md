@@ -5,7 +5,6 @@ description: "Ein Choker ist eine eng am Hals anliegende Kette oder ein Band, da
 category: "Materialien & Details"
 tags: ["choker", "kette", "schmuck", "accessoire", "ausschnitt"]
 keywords: ["choker", "was ist ein choker", "choker kette kombinieren"]
-glossar_order: "c"
 weight: 24
 image: "images/glossar/choker.png"
 image_alt: "Editoriale Grafik zu Choker mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"

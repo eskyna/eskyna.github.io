@@ -5,7 +5,6 @@ description: "Der Unterton zeigt, ob eine Farbe warm, kühl oder neutral wirkt u
 category: "Farbberatung & Farbe"
 tags: ["unterton", "farbberatung", "farbtemperatur", "farben"]
 keywords: ["unterton", "warme farben", "kühle farben", "farbberatung"]
-glossar_order: "u"
 weight: 2
 image: "images/glossar/unterton.png"
 image_alt: "Grafik mit warmen, neutralen und kühlen Farbtönen zur Erklärung des Untertons"

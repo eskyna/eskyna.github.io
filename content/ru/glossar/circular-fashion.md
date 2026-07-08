@@ -5,7 +5,6 @@ description: "Circular fashion описывает моду, которую ст�
 category: "Гардероб и повседневность"
 tags: ["circular fashion", "устойчивость", "ремонт", "апсайклинг"]
 keywords: ["circular fashion", "цикличная мода", "повторное использование одежды"]
-glossar_order: "c"
 weight: 49
 relatedTerms:
   - title: "Медленная мода"

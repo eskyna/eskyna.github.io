@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#5D3B8C"
 tags: ["violett", "lila", "farbe", "farbberatung", "akzentfarbe"]
 keywords: ["violett kleidung", "violett kombinieren", "lila violett", "farbberatung"]
-glossar_order: "v"
 weight: 30
 image: "images/glossar/violett.png"
 image_alt: "Editoriale Grafik zu Violett mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

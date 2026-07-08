@@ -5,7 +5,6 @@ description: "Блуза — это универсальный предмет, �
 category: "Стиль и воздействие"
 tags: ["bluse", "oberteil", "viskose", "seide", "business casual"]
 keywords: ["bluse", "что такое bluse", "bluse kombinieren", "bluse material"]
-glossar_order: "b"
 weight: 15
 image: "images/glossar/bluse.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Блуза"

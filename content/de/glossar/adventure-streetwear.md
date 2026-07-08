@@ -5,7 +5,6 @@ description: "Adventure Streetwear verbindet Outdoor-, Utility- und Streetwear-E
 category: "Stil & Wirkung"
 tags: ["adventure streetwear", "utility", "streetwear", "outdoor"]
 keywords: ["adventure streetwear", "utility streetwear", "outdoor street style"]
-glossar_order: "a"
 weight: 27
 relatedTerms:
   - title: "Gorpcore"

@@ -5,7 +5,6 @@ description: "Профиль материалов описывает ткани 
 category: "Стиль и воздействие"
 tags: ["профиль материалов", "стиль"]
 keywords: ["профиль материалов", "подходящие ткани", "материалы под личный стиль"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/materialprofil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль материалов"

@@ -5,7 +5,6 @@ description: "Дерзкий стиль — это смелый, совреме�
 category: "Стиль и воздействие"
 tags: ["edgy", "stil"]
 keywords: ["edgy", "что означает edgy", "edgy stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/edgy.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Дерзкий"

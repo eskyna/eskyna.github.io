@@ -5,7 +5,6 @@ description: "Eine Ledertasche wirkt je nach Form, Farbe und Oberfläche klassis
 category: "Materialien & Details"
 tags: ["ledertasche", "materialien"]
 keywords: ["ledertasche", "was bedeutet ledertasche", "ledertasche stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/ledertasche.png"
 image_alt: "Editoriale Glossar-Grafik zu Ledertasche mit ruhigen Farbfeldern und feiner Linienführung"

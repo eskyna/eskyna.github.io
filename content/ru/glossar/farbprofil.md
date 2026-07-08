@@ -5,7 +5,6 @@ description: "Профиль цвета — это персональный ан
 category: "Консультация по цвету и цвет"
 tags: ["farbprofil", "stil"]
 keywords: ["farbprofil", "что означает farbprofil", "farbprofil stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/farbprofil.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Профиль цвета"

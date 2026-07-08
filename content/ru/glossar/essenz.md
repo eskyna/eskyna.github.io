@@ -5,7 +5,6 @@ description: "Сущность стиля — это основная идея, 
 category: "Стиль и воздействие"
 tags: ["essenz", "stil"]
 keywords: ["essenz", "что означает essenz", "essenz stilberatung"]
-glossar_order: "e"
 weight: 1
 image: "images/glossar/essenz.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Сущность"

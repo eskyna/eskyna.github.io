@@ -5,7 +5,6 @@ description: "Ein Satinrock ist ein glatt glänzender Rock mit fließender Wirku
 category: "Kleider & Röcke"
 tags: ["satinrock", "satin", "rock", "glanzgrad"]
 keywords: ["satinrock", "was ist ein satinrock", "satinrock kombinieren"]
-glossar_order: "s"
 weight: 7
 image: "images/glossar/satinrock.png"
 image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Satinrock mit ruhigen Formen und feinen Farbfeldern"

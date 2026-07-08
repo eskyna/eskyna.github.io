@@ -5,7 +5,6 @@ description: "Шов соединяет части ткани и может вы
 category: "Материалы и детали"
 tags: ["материалы", "шов"]
 keywords: ["шов", "виды швов", "шов как деталь изделия"]
-glossar_order: "n"
 weight: 1
 image: "images/glossar/naht.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Шов"

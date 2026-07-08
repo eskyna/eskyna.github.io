@@ -5,7 +5,6 @@ description: "Стратегия гардероба это ясный план �
 category: "Стиль и воздействие"
 tags: ["стратегия гардероба", "стиль"]
 keywords: ["стратегия гардероба", "развитие гардероба", "план обновления гардероба"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobenstrategie.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Стратегия гардероба"

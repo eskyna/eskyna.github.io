@@ -5,7 +5,6 @@ description: "Eine Image-Strategie legt fest, welche Wirkung eine Person berufli
 category: "Stil & Wirkung"
 tags: ["image strategie", "image", "wirkung", "positionierung"]
 keywords: ["image-strategie", "image strategie", "wirkung positionierung"]
-glossar_order: "i"
 weight: 8
 relatedTerms:
   - title: "Image"

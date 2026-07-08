@@ -5,7 +5,6 @@ description: "Eine Paspel ist eine schmale eingefasste Kante, die Linien und Det
 category: "Materialien & Details"
 tags: ["materialien", "paspel"]
 keywords: ["paspel", "was bedeutet paspel", "paspel stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/paspel.png"
 image_alt: "Editoriale Glossar-Grafik zu Paspel mit ruhigen Farbfeldern und feiner Linienführung"

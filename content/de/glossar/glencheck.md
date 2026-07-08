@@ -5,7 +5,6 @@ description: "Glencheck ist ein feines, klassisches Karomuster mit strukturierte
 category: "Materialien & Details"
 tags: ["glencheck", "materialien"]
 keywords: ["glencheck", "was bedeutet glencheck", "glencheck stilberatung"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/glencheck.png"
 image_alt: "Editoriale Glossar-Grafik zu Glencheck mit ruhigen Farbfeldern und feiner Linienführung"

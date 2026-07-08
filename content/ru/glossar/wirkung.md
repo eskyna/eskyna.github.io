@@ -5,7 +5,6 @@ description: "Впечатление описывает эффект, котор
 category: "Стиль и воздействие"
 tags: ["stil", "wirkung"]
 keywords: ["впечатление", "что означает впечатление", "впечатление в стилизации"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wirkung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Впечатление"

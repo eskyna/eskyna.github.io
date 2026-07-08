@@ -5,7 +5,6 @@ description: "Stil ist die persönliche Art, Kleidung, Farben, Formen und Detail
 category: "Stil & Wirkung"
 tags: ["stil"]
 keywords: ["stil", "was bedeutet stil", "stil stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stil.png"
 image_alt: "Editoriale Glossar-Grafik zu Stil mit ruhigen Farbfeldern und feiner Linienführung"

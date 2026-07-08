@@ -5,7 +5,6 @@ description: "Чокер — это короткое ожерелье, плот�
 category: "Материалы и детали"
 tags: ["choker", "kette", "schmuck", "accessoire", "ausschnitt"]
 keywords: ["choker", "что такое choker", "choker kette kombinieren"]
-glossar_order: "c"
 weight: 24
 image: "images/glossar/choker.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Чокер"

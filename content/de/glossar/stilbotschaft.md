@@ -5,7 +5,6 @@ description: "Eine Stilbotschaft ist die Aussage, die ein Outfit über Persönli
 category: "Stil & Wirkung"
 tags: ["stilbotschaft", "wirkung", "stil", "image"]
 keywords: ["stilbotschaft", "outfit botschaft", "wirkung kleidung"]
-glossar_order: "s"
 weight: 10
 relatedTerms:
   - title: "Wirkung"

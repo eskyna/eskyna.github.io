@@ -5,7 +5,6 @@ description: "Eine Outfit-Formel ist eine wiederholbare Kombination, die im Allt
 category: "Garderobe & Alltag"
 tags: ["outfit-formel", "garderobe", "kombinieren", "stilroutine"]
 keywords: ["outfit-formel", "outfits kombinieren", "garderobe planen", "stilberatung"]
-glossar_order: "o"
 weight: 4
 image: "images/glossar/outfit-formel.png"
 image_alt: "Editoriale Grafik mit modularen Outfit-Bausteinen als visuelle Formel für einen stimmigen Look"

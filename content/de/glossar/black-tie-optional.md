@@ -5,7 +5,6 @@ description: "Black Tie Optional bedeutet, dass Black Tie erwünscht ist, aber a
 category: "Garderobe & Alltag"
 tags: ["black tie optional", "dresscode", "abend", "formell"]
 keywords: ["black tie optional", "black tie optional dresscode", "black tie optional damen"]
-glossar_order: "b"
 weight: 23
 relatedTerms:
   - title: "Black Tie"

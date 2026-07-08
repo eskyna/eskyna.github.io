@@ -6,7 +6,6 @@ category: "Гардероб и повседневность"
 tags: ["anlassgarderobe", "dresscode", "гардероб", "outfit-formel", "stilberatung"]
 keywords:
   ["anlassgarderobe", "garderobe für anlässe", "outfits für anlässe", "kleiderschrank planen"]
-glossar_order: "a"
 weight: 15
 image: "images/glossar/anlassgarderobe.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Гардероб для случаев"

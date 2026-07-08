@@ -5,7 +5,6 @@ description: "Ein Vintage-Kauf ist der Kauf älterer Kleidungsstücke mit besond
 category: "Garderobe & Alltag"
 tags: ["garderobe", "vintage kauf"]
 keywords: ["vintage-kauf", "was bedeutet vintage-kauf", "vintage-kauf stilberatung"]
-glossar_order: "v"
 weight: 1
 image: "images/glossar/vintage-kauf.png"
 image_alt: "Editoriale Glossar-Grafik zu Vintage-Kauf mit ruhigen Farbfeldern und feiner Linienführung"

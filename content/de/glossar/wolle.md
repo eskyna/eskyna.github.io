@@ -5,7 +5,6 @@ description: "Wolle ist eine wärmende Naturfaser, die je nach Qualität fein, r
 category: "Materialien & Details"
 tags: ["materialien", "wolle"]
 keywords: ["wolle", "was bedeutet wolle", "wolle stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wolle.png"
 image_alt: "Editoriale Glossar-Grafik zu Wolle mit ruhigen Farbfeldern und feiner Linienführung"

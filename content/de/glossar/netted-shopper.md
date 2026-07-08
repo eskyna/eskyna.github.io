@@ -5,7 +5,6 @@ description: "Ein Netted Shopper ist eine netzartige Tasche, die luftig, casual 
 category: "Materialien & Details"
 tags: ["netted shopper", "tasche", "shopper", "netz"]
 keywords: ["netted shopper", "netztasche", "netz shopper"]
-glossar_order: "n"
 weight: 21
 relatedTerms:
   - title: "Shopper"

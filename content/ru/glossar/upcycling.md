@@ -5,7 +5,6 @@ description: "Upcycling превращает существующую одежд
 category: "Гардероб и повседневность"
 tags: ["upcycling", "устойчивость", "deadstock", "ремонт"]
 keywords: ["upcycling", "deadstock", "переработка одежды"]
-glossar_order: "u"
 weight: 50
 relatedTerms:
   - title: "Circular fashion"

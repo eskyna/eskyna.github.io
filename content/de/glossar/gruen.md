@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#6F8062"
 tags: ["grün", "gruen", "farbe", "farbberatung", "farbwirkung"]
 keywords: ["grün kleidung", "gruen kombinieren", "oliv salbei smaragd", "stilberatung"]
-glossar_order: "g"
 weight: 7
 image: "images/glossar/gruen.png"
 image_alt: "Editoriale Grafik mit Grün-Nuancen, Naturtönen und eleganten Kombinationsflächen"

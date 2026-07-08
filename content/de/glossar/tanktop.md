@@ -12,7 +12,6 @@ keywords:
   - "tanktop"
   - "was ist ein tanktop"
   - "tanktop kombinieren"
-glossar_order: "t"
 weight: 6
 image: "images/glossar/tanktop.png"
 image_alt: "Editoriale Grafik mit stilisiertem Tanktop, breiten Trägern und klarer Form"

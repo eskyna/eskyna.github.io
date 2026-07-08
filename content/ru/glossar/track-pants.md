@@ -12,7 +12,6 @@ keywords:
   - "track pants"
   - "что такое track pants"
   - "с чем сочетать track pants"
-glossar_order: "t"
 weight: 5
 image: "images/glossar/track-pants.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Track Pants"

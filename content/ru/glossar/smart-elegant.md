@@ -5,7 +5,6 @@ description: "Smart elegant находится между smart casual и пра
 category: "Гардероб и повседневность"
 tags: ["smart elegant", "дресс-код", "стиль", "повод"]
 keywords: ["smart elegant", "образ smart elegant", "аккуратно и элегантно"]
-glossar_order: "s"
 weight: 27
 relatedTerms:
   - title: "Smart casual"

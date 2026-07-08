@@ -5,7 +5,6 @@ description: "Dark academia это тёмная академическая эс�
 category: "Стиль и воздействие"
 tags: ["dark academia", "akademisch", "stil", "vintage"]
 keywords: ["dark academia", "dark academia style", "akademische aesthetik"]
-glossar_order: "d"
 weight: 25
 relatedTerms:
   - title: "Эстетика poetcore"

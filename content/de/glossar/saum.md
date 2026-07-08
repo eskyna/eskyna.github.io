@@ -5,7 +5,6 @@ description: "Der Saum ist der untere Abschluss eines Kleidungsstücks und beein
 category: "Materialien & Details"
 tags: ["materialien", "saum"]
 keywords: ["saum", "was bedeutet saum", "saum stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/saum.png"
 image_alt: "Editoriale Glossar-Grafik zu Saum mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Paisley это орнаментальный узор каплев�
 category: "Материалы и детали"
 tags: ["материалы", "paisley"]
 keywords: ["paisley", "узор paisley", "каплевидный орнамент"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/paisley.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Paisley"

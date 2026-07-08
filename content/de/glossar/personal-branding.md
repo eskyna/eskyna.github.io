@@ -5,7 +5,6 @@ description: "Personal Branding beschreibt den bewussten Aufbau einer wiedererke
 category: "Stil & Wirkung"
 tags: ["personal branding", "image", "wirkung", "stilberatung"]
 keywords: ["personal branding", "persönliche marke", "personal branding outfit", "imageberatung"]
-glossar_order: "p"
 weight: 8
 relatedTerms:
   - title: "Image"

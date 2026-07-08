@@ -5,7 +5,6 @@ description: "Wide Leg bezeichnet Hosen mit weiter Beinlinie, die Volumen, Beweg
 category: "Schnitt, Proportion & Passform"
 tags: ["wide leg", "hose", "silhouette", "proportion", "schnitt"]
 keywords: ["wide leg", "was bedeutet wide leg", "wide leg hose", "weite hose"]
-glossar_order: "w"
 weight: 14
 image: "images/glossar/wide-leg.png"
 image_alt: "Editoriale Grafik mit weit fallender Hose, fließenden Linien und ruhigen Farbfeldern"

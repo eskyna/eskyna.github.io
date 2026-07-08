@@ -5,7 +5,6 @@ description: "Personal Style ist der individuelle Stil einer Person, geprägt du
 category: "Stil & Wirkung"
 tags: ["personal style", "stil"]
 keywords: ["personal style", "was bedeutet personal style", "personal style stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/personal-style.png"
 image_alt: "Editoriale Glossar-Grafik zu Personal Style mit ruhigen Farbfeldern und feiner Linienführung"

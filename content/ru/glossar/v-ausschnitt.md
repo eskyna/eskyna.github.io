@@ -11,7 +11,6 @@ keywords:
     "стилизация v-образного выреза",
     "с чем сочетать v-образный вырез",
   ]
-glossar_order: "v"
 weight: 29
 image: "images/glossar/v-ausschnitt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина V-образный вырез"

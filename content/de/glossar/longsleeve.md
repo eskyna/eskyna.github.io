@@ -12,7 +12,6 @@ keywords:
   - "longsleeve"
   - "was ist ein longsleeve"
   - "langarmshirt kombinieren"
-glossar_order: "l"
 weight: 6
 image: "images/glossar/longsleeve.png"
 image_alt: "Editoriale Grafik mit stilisiertem Longsleeve, langen Ärmeln und ruhigen Farbfeldern"

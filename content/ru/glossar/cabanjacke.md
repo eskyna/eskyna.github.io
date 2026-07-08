@@ -5,7 +5,6 @@ description: "Морское пальто — это классическое к
 category: "Стиль и воздействие"
 tags: ["cabanjacke", "гардероб"]
 keywords: ["cabanjacke", "что означает cabanjacke", "cabanjacke stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cabanjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Морское пальто"

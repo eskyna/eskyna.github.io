@@ -5,7 +5,6 @@ description: "Спущенное плечо — это срез рукава, р
 category: "Крой, пропорции и посадка"
 tags: ["dropped shoulder", "schnitt proportion"]
 keywords: ["dropped shoulder", "что означает dropped shoulder", "dropped shoulder stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dropped-shoulder.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Спущенное плечо"

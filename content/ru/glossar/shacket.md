@@ -5,7 +5,6 @@ description: "Shacket это гибрид shirt и jacket, который вос
 category: "Гардероб и повседневность"
 tags: ["гардероб", "shacket"]
 keywords: ["shacket", "что означает shacket", "как носить shacket"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/shacket.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Shacket"

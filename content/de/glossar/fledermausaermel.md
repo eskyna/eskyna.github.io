@@ -5,7 +5,6 @@ description: "Ein Fledermausärmel ist weit geschnitten und fließt weich vom K�
 category: "Schnitt, Proportion & Passform"
 tags: ["fledermausaermel", "schnitt proportion"]
 keywords: ["fledermausärmel", "was bedeutet fledermausärmel", "fledermausärmel stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/fledermausaermel.png"
 image_alt: "Editoriale Glossar-Grafik zu Fledermausärmel mit ruhigen Farbfeldern und feiner Linienführung"

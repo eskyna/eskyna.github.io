@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#C7C9CC"
 tags: ["серебряный", "metallic", "цвет", "аксессуар", "цветовая консультация"]
 keywords: ["серебряная одежда", "с чем сочетать серебряный", "серебряные украшения", "metallic"]
-glossar_order: "s"
 weight: 33
 image: "images/glossar/silber.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Серебряный"

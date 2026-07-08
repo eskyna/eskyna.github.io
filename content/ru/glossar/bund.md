@@ -5,7 +5,6 @@ description: "Пояс — это край брюк или юбки, котор�
 category: "Материалы и детали"
 tags: ["bund", "schnitt proportion"]
 keywords: ["bund", "что означает bund", "bund stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bund.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Пояс"

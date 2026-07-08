@@ -5,7 +5,6 @@ description: "Festive attire описывает праздничную одеж�
 category: "Гардероб и повседневность"
 tags: ["festive attire", "дресс-код", "празднично", "повод"]
 keywords: ["festive attire", "праздничный дресс-код", "праздничный образ"]
-glossar_order: "f"
 weight: 17
 relatedTerms:
   - title: "Праздничная одежда"

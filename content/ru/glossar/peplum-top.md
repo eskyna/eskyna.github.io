@@ -5,7 +5,6 @@ description: "Peplum top это приталенный верх с раскле�
 category: "Материалы и детали"
 tags: ["материалы", "peplum top"]
 keywords: ["peplum top", "топ с баской", "приталенный верх с воланом"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/peplum-top.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Peplum top"

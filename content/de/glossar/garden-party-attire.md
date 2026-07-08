@@ -5,7 +5,6 @@ description: "Garden Party Attire ist ein sommerlich-eleganter Dresscode für Fe
 category: "Garderobe & Alltag"
 tags: ["garden party attire", "dresscode", "sommer", "festlich"]
 keywords: ["garden party attire", "gartenparty dresscode", "sommerlich elegant"]
-glossar_order: "g"
 weight: 19
 relatedTerms:
   - title: "Festliche Kleidung"

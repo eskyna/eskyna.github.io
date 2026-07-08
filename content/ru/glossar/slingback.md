@@ -12,7 +12,6 @@ keywords:
   - "slingback"
   - "что такое slingback"
   - "с чем сочетать slingback"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/slingback.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Slingback"

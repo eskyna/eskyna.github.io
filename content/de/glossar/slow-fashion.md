@@ -5,7 +5,6 @@ description: "Slow Fashion steht für bewussten, langlebigen und qualitätsorien
 category: "Garderobe & Alltag"
 tags: ["slow fashion", "nachhaltigkeit", "qualität", "garderobe"]
 keywords: ["slow fashion", "bewusster modekonsum", "langlebige garderobe"]
-glossar_order: "s"
 weight: 48
 relatedTerms:
   - title: "Circular Fashion"

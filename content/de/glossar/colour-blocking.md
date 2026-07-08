@@ -5,7 +5,6 @@ description: "Colour Blocking kombiniert klar abgegrenzte Farbflächen und erzeu
 category: "Materialien & Details"
 tags: ["colour blocking", "materialien"]
 keywords: ["colour blocking", "was bedeutet colour blocking", "colour blocking stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/colour-blocking.png"
 image_alt: "Editoriale Glossar-Grafik zu Colour Blocking mit ruhigen Farbfeldern und feiner Linienführung"

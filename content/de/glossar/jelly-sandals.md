@@ -5,7 +5,6 @@ description: "Jelly Sandals sind flexible Kunststoffsandalen mit transparenter o
 category: "Schuhe"
 tags: ["jelly sandals", "schuhe", "sandale", "sommer"]
 keywords: ["jelly sandals", "jelly flats", "kunststoffsandalen"]
-glossar_order: "j"
 weight: 21
 relatedTerms:
   - title: "Sandale"

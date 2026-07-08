@@ -5,7 +5,6 @@ description: "Typberatung verbindet Stil, Farbe, Form und Auftreten zu einer gan
 category: "Stil & Wirkung"
 tags: ["stil", "typberatung"]
 keywords: ["typberatung", "was bedeutet typberatung", "typberatung stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/typberatung.png"
 image_alt: "Editoriale Glossar-Grafik zu Typberatung mit ruhigen Farbfeldern und feiner Linienführung"

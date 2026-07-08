@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#8F8F8F"
 tags: ["grau", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["grau kleidung", "grau kombinieren", "anthrazit", "grau farbberatung"]
-glossar_order: "g"
 weight: 12
 
 image: "images/glossar/grau.png"

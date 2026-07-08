@@ -12,7 +12,6 @@ keywords:
     "оливковый шалфейный изумрудный",
     "цветовая консультация",
   ]
-glossar_order: "g"
 weight: 7
 image: "images/glossar/gruen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Зелёный"

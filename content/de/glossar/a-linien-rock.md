@@ -5,7 +5,6 @@ description: "Ein A-Linien-Rock sitzt meist schmaler an Taille oder Hüfte und w
 category: "Garderobe & Alltag"
 tags: ["a linien rock", "garderobe"]
 keywords: ["a-linien-rock", "was bedeutet a-linien-rock", "a-linien-rock stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/a-linien-rock.png"
 image_alt: "Editoriale Glossar-Grafik zu A-Linien-Rock mit ruhigen Farbfeldern und feiner Linienführung"

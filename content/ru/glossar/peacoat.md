@@ -5,7 +5,6 @@ description: "Peacoat это короткое двубортное шерстя�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "peacoat"]
 keywords: ["peacoat", "двубортное короткое пальто", "как носить peacoat"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/peacoat.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Peacoat"

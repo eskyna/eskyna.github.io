@@ -5,7 +5,6 @@ description: "Коктейльное платье — это элегантно�
 category: "Стиль и воздействие"
 tags: ["cocktailkleid", "kleid", "dresscode", "abend"]
 keywords: ["cocktailkleid", "что такое cocktailkleid", "dresscode cocktail"]
-glossar_order: "c"
 weight: 9
 image: "images/glossar/cocktailkleid.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Коктейльное платье"

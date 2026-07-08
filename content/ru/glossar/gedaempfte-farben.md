@@ -5,7 +5,6 @@ description: "Приглушенные цвета обладают меньше�
 category: "Консультация по цвету и цвет"
 tags: ["gedaempfte farben", "farbe", "farbtyp", "weich"]
 keywords: ["gedaempfte farben", "soft colors", "ruhige farben"]
-glossar_order: "g"
 weight: 16
 relatedTerms:
   - title: "Чистые цвета"

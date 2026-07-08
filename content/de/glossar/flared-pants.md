@@ -12,7 +12,6 @@ keywords:
   - "flared pants"
   - "was sind flared pants"
   - "flared pants kombinieren"
-glossar_order: "f"
 weight: 5
 image: "images/glossar/flared-pants.png"
 image_alt: "Editoriale Grafik zu Flared Pants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

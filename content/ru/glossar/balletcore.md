@@ -5,7 +5,6 @@ description: "Balletcore это эстетика, вдохновлённая б�
 category: "Стиль и воздействие"
 tags: ["balletcore", "ballett", "feminin", "stil"]
 keywords: ["balletcore", "balletcore style", "ballett aesthetik"]
-glossar_order: "b"
 weight: 24
 relatedTerms:
   - title: "Балетки"

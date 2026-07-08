@@ -5,7 +5,6 @@ description: "Der Fadenlauf beschreibt die Richtung des Stoffes beim Zuschnitt u
 category: "Materialien & Details"
 tags: ["fadenlauf", "materialien"]
 keywords: ["fadenlauf", "was bedeutet fadenlauf", "fadenlauf stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/fadenlauf.png"
 image_alt: "Editoriale Glossar-Grafik zu Fadenlauf mit ruhigen Farbfeldern und feiner Linienführung"

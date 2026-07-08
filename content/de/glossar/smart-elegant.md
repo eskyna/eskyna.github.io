@@ -5,7 +5,6 @@ description: "Smart Elegant liegt zwischen Smart Casual und festlicher Kleidung 
 category: "Garderobe & Alltag"
 tags: ["smart elegant", "dresscode", "stil", "anlass"]
 keywords: ["smart elegant", "smart elegant outfit", "gepflegt elegant"]
-glossar_order: "s"
 weight: 27
 relatedTerms:
   - title: "Smart Casual"

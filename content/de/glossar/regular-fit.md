@@ -5,7 +5,6 @@ description: "Regular Fit ist ein klassischer, normaler Schnitt, der weder sehr 
 category: "Schnitt, Proportion & Passform"
 tags: ["regular fit", "schnitt proportion"]
 keywords: ["regular fit", "was bedeutet regular fit", "regular fit stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/regular-fit.png"
 image_alt: "Editoriale Glossar-Grafik zu Regular Fit mit ruhigen Farbfeldern und feiner Linienführung"

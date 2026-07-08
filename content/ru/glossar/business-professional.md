@@ -5,7 +5,6 @@ description: "Строгий деловой дресс-код это форма�
 category: "Гардероб и повседневность"
 tags: ["business professional", "business", "dresscode", "office"]
 keywords: ["business professional", "business professional dresscode", "formeller business look"]
-glossar_order: "b"
 weight: 25
 relatedTerms:
   - title: "Формальный деловой дресс-код"

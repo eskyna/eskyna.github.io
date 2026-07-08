@@ -5,7 +5,6 @@ description: "Innenverarbeitung beschreibt die Qualität der nicht sichtbaren De
 category: "Materialien & Details"
 tags: ["innenverarbeitung", "materialien"]
 keywords: ["innenverarbeitung", "was bedeutet innenverarbeitung", "innenverarbeitung stilberatung"]
-glossar_order: "i"
 weight: 1
 image: "images/glossar/innenverarbeitung.png"
 image_alt: "Editoriale Glossar-Grafik zu Innenverarbeitung mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Ein Wardrobe Audit ist die systematische Analyse des Kleiderschran
 category: "Garderobe & Alltag"
 tags: ["wardrobe audit", "kleiderschrank", "analyse", "garderobe"]
 keywords: ["wardrobe audit", "kleiderschrank analyse", "kleiderschrank inventur"]
-glossar_order: "w"
 weight: 52
 relatedTerms:
   - title: "Kleiderschrank-Check"

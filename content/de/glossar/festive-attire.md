@@ -5,7 +5,6 @@ description: "Festive Attire beschreibt festliche Kleidung mit mehr Farbe, Glanz
 category: "Garderobe & Alltag"
 tags: ["festive attire", "dresscode", "festlich", "anlass"]
 keywords: ["festive attire", "festliche kleidung dresscode", "festive outfit"]
-glossar_order: "f"
 weight: 17
 relatedTerms:
   - title: "Festliche Kleidung"

@@ -5,7 +5,6 @@ description: "Mary jane это обувь с ремешком на подъём�
 category: "Обувь"
 tags: ["mary jane", "обувь", "балетки", "ремешок"]
 keywords: ["mary jane", "обувь mary jane", "туфли с ремешком"]
-glossar_order: "m"
 weight: 11
 image: "images/glossar/mary-jane.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Mary jane"

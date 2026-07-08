@@ -5,7 +5,6 @@ description: "Цветотип — это система классификац�
 category: "Консультация по цвету и цвет"
 tags: ["farbtyp", "farbberatung", "farben", "farbharmonie"]
 keywords: ["farbtyp", "farbberatung", "farben", "stilberatung"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/farbtyp.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Цветотип"

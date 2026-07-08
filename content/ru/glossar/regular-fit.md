@@ -5,7 +5,6 @@ description: "Regular fit это классический стандартный
 category: "Крой, пропорции и посадка"
 tags: ["regular fit", "крой", "пропорции"]
 keywords: ["regular fit", "что означает regular fit", "regular fit в стилизации"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/regular-fit.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Regular fit"

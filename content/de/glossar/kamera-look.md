@@ -5,7 +5,6 @@ description: "Ein Kamera-Look ist ein Outfit, das Farbe, Kontrast, Ausschnitt, M
 category: "Garderobe & Alltag"
 tags: ["kamera look", "outfit", "wirkung", "sichtbarkeit"]
 keywords: ["kamera-look", "outfit vor der kamera", "business fotos outfit"]
-glossar_order: "k"
 weight: 9
 image: "images/glossar/kamera-look.png"
 image_alt: "Editoriale Illustration zum Begriff Kamera-Look mit ruhigen Farbfeldern"

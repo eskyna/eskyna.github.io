@@ -5,7 +5,6 @@ description: "Der Bund ist der obere Abschluss von Hose oder Rock und beeinfluss
 category: "Schnitt, Proportion & Passform"
 tags: ["bund", "schnitt proportion"]
 keywords: ["bund", "was bedeutet bund", "bund stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bund.png"
 image_alt: "Editoriale Glossar-Grafik zu Bund mit ruhigen Farbfeldern und feiner Linienführung"

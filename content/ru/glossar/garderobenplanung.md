@@ -5,7 +5,6 @@ description: "Планирование гардероба это системн�
 category: "Стиль и воздействие"
 tags: ["планирование гардероба", "стиль"]
 keywords: ["планирование гардероба", "как собрать гардероб", "структура гардероба"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/garderobenplanung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Планирование гардероба"

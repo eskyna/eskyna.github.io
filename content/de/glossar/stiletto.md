@@ -5,7 +5,6 @@ description: "Ein Stiletto ist ein sehr schmaler, hoher Absatz mit eleganter, ab
 category: "Garderobe & Alltag"
 tags: ["garderobe", "stiletto"]
 keywords: ["stiletto", "was bedeutet stiletto", "stiletto stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/stiletto.png"
 image_alt: "Editoriale Glossar-Grafik zu Stiletto mit ruhigen Farbfeldern und feiner Linienführung"

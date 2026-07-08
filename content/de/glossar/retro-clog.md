@@ -5,7 +5,6 @@ description: "Ein Retro Clog ist ein klobiger, oft holzsohlenartiger Schuh, der 
 category: "Schuhe"
 tags: ["retro clog", "clog", "schuhe", "holzsohle"]
 keywords: ["retro clog", "clog", "holzsohlen schuh"]
-glossar_order: "r"
 weight: 23
 relatedTerms:
   - title: "Mule"

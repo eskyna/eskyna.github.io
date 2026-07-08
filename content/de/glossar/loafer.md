@@ -5,7 +5,6 @@ description: "Loafer sind flache Schlupfschuhe ohne Schnürung, die zwischen kla
 category: "Garderobe & Alltag"
 tags: ["loafer", "schuhe", "business casual", "accessoire", "styling"]
 keywords: ["loafer", "was sind loafer", "loafer kombinieren", "schlupfschuhe"]
-glossar_order: "l"
 weight: 9
 image: "images/glossar/loafer.png"
 image_alt: "Editoriale Grafik mit stilisiertem Loafer, klarer Schuhform und ruhigen Farbfeldern"

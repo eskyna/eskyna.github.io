@@ -5,7 +5,6 @@ description: "Направление взгляда — это дизайнер�
 category: "Стиль и воздействие"
 tags: ["blickfuehrung", "stil"]
 keywords: ["blickführung", "что означает blickführung", "blickführung stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/blickfuehrung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Направление взгляда"

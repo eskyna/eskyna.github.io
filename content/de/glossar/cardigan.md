@@ -5,7 +5,6 @@ description: "Ein Cardigan ist eine offene Strickjacke, die als Schichtteil weic
 category: "Garderobe & Alltag"
 tags: ["cardigan", "strickjacke", "layering", "pullover", "garderobe"]
 keywords: ["cardigan", "was ist ein cardigan", "cardigan kombinieren", "strickjacke"]
-glossar_order: "c"
 weight: 18
 image: "images/glossar/cardigan.png"
 image_alt: "Editoriale Grafik mit offenem Cardigan, Knopfleiste, Strickstruktur und warmen Farbfeldern"

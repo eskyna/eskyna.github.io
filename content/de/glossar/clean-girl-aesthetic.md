@@ -5,7 +5,6 @@ description: "Clean Girl Aesthetic beschreibt einen reduzierten, gepflegten Look
 category: "Stil & Wirkung"
 tags: ["clean girl aesthetic", "minimalismus", "stil", "neutral"]
 keywords: ["clean girl aesthetic", "clean girl style", "gepflegter minimalistischer look"]
-glossar_order: "c"
 weight: 18
 relatedTerms:
   - title: "Minimalismus"

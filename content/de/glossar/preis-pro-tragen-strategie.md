@@ -5,7 +5,6 @@ description: "Die Preis-pro-Tragen-Strategie nutzt Cost per Wear als Entscheidun
 category: "Garderobe & Alltag"
 tags: ["preis pro tragen strategie", "cost per wear", "garderobe", "kaufkriterien"]
 keywords: ["preis-pro-tragen-strategie", "cost per wear strategie", "preis pro tragen"]
-glossar_order: "p"
 weight: 55
 relatedTerms:
   - title: "Cost per Wear"

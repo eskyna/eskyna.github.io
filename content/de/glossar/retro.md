@@ -5,7 +5,6 @@ description: "Retro ist die Neuinterpretation vergangener Modestile in einem heu
 category: "Stil & Wirkung"
 tags: ["retro", "stil"]
 keywords: ["retro", "was bedeutet retro", "retro stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/retro.png"
 image_alt: "Editoriale Glossar-Grafik zu Retro mit ruhigen Farbfeldern und feiner Linienführung"

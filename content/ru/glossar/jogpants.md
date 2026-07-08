@@ -12,7 +12,6 @@ keywords:
   - "jogpants"
   - "что такое jogpants"
   - "с чем носить jogpants"
-glossar_order: "j"
 weight: 5
 image: "images/glossar/jogpants.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Jogpants"

@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#8F6BAE"
 tags: ["lila", "violett", "flieder", "farbe"]
 keywords: ["lila kleidung", "lila kombinieren", "violett farbberatung", "flieder kleidung"]
-glossar_order: "l"
 weight: 15
 image: "images/glossar/lila.png"
 image_alt: "Editoriale Grafik mit Lila-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"

@@ -5,7 +5,6 @@ description: "Tartan это клетчатый узор с шотландски�
 category: "Материалы и детали"
 tags: ["материалы", "tartan"]
 keywords: ["tartan", "что означает tartan", "tartan в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/tartan.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Tartan"

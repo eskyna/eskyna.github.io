@@ -5,7 +5,6 @@ description: "Шерсть это тёплое натуральное волок
 category: "Материалы и детали"
 tags: ["материалы", "шерсть"]
 keywords: ["шерсть", "что означает шерсть", "шерсть в стилизации"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wolle.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Шерсть"

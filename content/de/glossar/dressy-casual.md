@@ -5,7 +5,6 @@ description: "Dressy Casual verbindet entspannte Kleidung mit gepflegten, elegan
 category: "Garderobe & Alltag"
 tags: ["dressy casual", "dresscode", "alltag", "smart"]
 keywords: ["dressy casual", "dressy casual outfit", "gepflegt casual"]
-glossar_order: "d"
 weight: 18
 relatedTerms:
   - title: "Smart Casual"

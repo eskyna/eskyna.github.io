@@ -5,7 +5,6 @@ description: "Eine Sandalette ist eine elegantere Sandale, oft mit Absatz und fe
 category: "Garderobe & Alltag"
 tags: ["garderobe", "sandalette"]
 keywords: ["sandalette", "was bedeutet sandalette", "sandalette stilberatung"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/sandalette.png"
 image_alt: "Editoriale Glossar-Grafik zu Sandalette mit ruhigen Farbfeldern und feiner Linienführung"

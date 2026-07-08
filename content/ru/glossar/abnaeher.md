@@ -5,7 +5,6 @@ description: "Вытачки — это швы, которые создают ф
 category: "Материалы и детали"
 tags: ["abnaeher", "schnitt proportion"]
 keywords: ["abnäher", "что означает abnäher", "abnäher stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/abnaeher.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Вытачки"

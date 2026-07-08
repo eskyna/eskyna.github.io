@@ -5,7 +5,6 @@ description: "Подол это нижний край изделия, котор
 category: "Материалы и детали"
 tags: ["материалы", "подол"]
 keywords: ["подол", "что означает подол", "обработка подола"]
-glossar_order: "s"
 weight: 1
 image: "images/glossar/saum.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Подол"

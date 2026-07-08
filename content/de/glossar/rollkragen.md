@@ -5,7 +5,6 @@ description: "Ein Rollkragen ist ein hoher, umgeschlagener Kragen, der Hals und 
 category: "Materialien & Details"
 tags: ["materialien", "rollkragen"]
 keywords: ["rollkragen", "was bedeutet rollkragen", "rollkragen stilberatung"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/rollkragen.png"
 image_alt: "Editoriale Glossar-Grafik zu Rollkragen mit ruhigen Farbfeldern und feiner Linienführung"

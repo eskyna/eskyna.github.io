@@ -5,7 +5,6 @@ description: "Излучение — это энергия и харизма, к
 category: "Стиль и воздействие"
 tags: ["ausstrahlung", "stil"]
 keywords: ["ausstrahlung", "что означает ausstrahlung", "ausstrahlung stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/ausstrahlung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Излучение"

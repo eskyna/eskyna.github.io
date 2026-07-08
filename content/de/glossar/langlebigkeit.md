@@ -5,7 +5,6 @@ description: "Langlebigkeit beschreibt, wie lange ein Kleidungsstück funktional
 category: "Garderobe & Alltag"
 tags: ["langlebigkeit", "qualität", "pflege", "reparatur"]
 keywords: ["langlebigkeit", "reparatur kleidung", "aenderungsschneiderei", "haltbare kleidung"]
-glossar_order: "l"
 weight: 51
 relatedTerms:
   - title: "Qualität"

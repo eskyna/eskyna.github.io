@@ -5,7 +5,6 @@ description: "Бейсболка — это практичный, молодеж
 category: "Материалы и детали"
 tags: ["cap", "accessoire", "kopfbedeckung", "sportlich", "styling"]
 keywords: ["cap styling", "что такое cap", "cap kombinieren"]
-glossar_order: "c"
 weight: 27
 image: "images/glossar/cap.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бейсболка"

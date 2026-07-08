@@ -5,7 +5,6 @@ description: "Гленчек это тонкий классический кле
 category: "Материалы и детали"
 tags: ["гленчек", "материалы"]
 keywords: ["гленчек", "клетка гленчек", "классический клетчатый узор"]
-glossar_order: "g"
 weight: 1
 image: "images/glossar/glencheck.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Гленчек"

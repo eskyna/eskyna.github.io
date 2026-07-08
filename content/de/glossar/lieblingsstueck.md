@@ -5,7 +5,6 @@ description: "Ein Lieblingsstück ist ein Kleidungsstück, das häufig getragen 
 category: "Stil & Wirkung"
 tags: ["lieblingsstück", "stil"]
 keywords: ["lieblingsstück", "was bedeutet lieblingsstück", "lieblingsstück stilberatung"]
-glossar_order: "l"
 weight: 1
 image: "images/glossar/lieblingsstueck.png"
 image_alt: "Editoriale Glossar-Grafik zu Lieblingsstück mit ruhigen Farbfeldern und feiner Linienführung"

@@ -5,7 +5,6 @@ description: "Signature color это повторяющийся цвет, кот
 category: "Консультация по цвету и цвет"
 tags: ["signature color", "цвет", "personal branding", "узнаваемость"]
 keywords: ["signature color", "сигнатурный цвет", "узнаваемый цвет"]
-glossar_order: "s"
 weight: 13
 relatedTerms:
   - title: "Фирменный образ"

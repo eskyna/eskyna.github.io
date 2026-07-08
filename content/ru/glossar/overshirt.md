@@ -12,7 +12,6 @@ keywords:
   - "overshirt"
   - "что такое overshirt"
   - "как сочетать рубашку-куртку"
-glossar_order: "o"
 weight: 5
 image: "images/glossar/overshirt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Overshirt"

@@ -12,7 +12,6 @@ keywords:
   - "jogpants"
   - "was sind jogpants"
   - "jogpants kombinieren"
-glossar_order: "j"
 weight: 5
 image: "images/glossar/jogpants.png"
 image_alt: "Editoriale Grafik zu Jogpants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"

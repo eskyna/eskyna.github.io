@@ -5,7 +5,6 @@ description: "Образ для свидания — это тщательно �
 category: "Гардероб и повседневность"
 tags: ["date look", "гардероб"]
 keywords: ["date-look", "что означает date-look", "date-look stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/date-look.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Образ для свидания"

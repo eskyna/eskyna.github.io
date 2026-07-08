@@ -5,7 +5,6 @@ description: "Materialfall beschreibt, wie ein Stoff am Körper fällt und ob ei
 category: "Materialien & Details"
 tags: ["materialfall", "stoff", "material", "qualität", "silhouette"]
 keywords: ["materialfall", "stoff fällt", "kleidung materialfall", "stoffwirkung"]
-glossar_order: "m"
 weight: 20
 image: "images/glossar/materialfall.png"
 image_alt: "Editoriale Grafik mit fließendem Stoff, klarer Stoffkante und ruhigen Materialflächen"

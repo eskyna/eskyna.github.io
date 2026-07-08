@@ -5,7 +5,6 @@ description: "Balletcore ist eine Ballett-inspirierte Ästhetik mit Wickelstrick
 category: "Stil & Wirkung"
 tags: ["balletcore", "ballett", "feminin", "stil"]
 keywords: ["balletcore", "balletcore style", "ballett ästhetik"]
-glossar_order: "b"
 weight: 24
 relatedTerms:
   - title: "Ballerina"

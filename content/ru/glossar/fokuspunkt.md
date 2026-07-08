@@ -5,7 +5,6 @@ description: "Фокусная точка это место в образе, к�
 category: "Стиль и воздействие"
 tags: ["фокусная точка", "стиль"]
 keywords: ["фокусная точка", "акцент в образе", "что притягивает взгляд"]
-glossar_order: "f"
 weight: 1
 image: "images/glossar/fokuspunkt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Фокусная точка"

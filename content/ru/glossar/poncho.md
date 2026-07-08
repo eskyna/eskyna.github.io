@@ -5,7 +5,6 @@ description: "Пончо это свободная накидка, часто и
 category: "Гардероб и повседневность"
 tags: ["гардероб", "пончо"]
 keywords: ["пончо", "что означает пончо", "как носить пончо"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/poncho.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Пончо"

@@ -12,7 +12,6 @@ keywords:
   - "wickelkleid"
   - "was ist ein wickelkleid"
   - "wickelkleid kombinieren"
-glossar_order: "w"
 weight: 5
 image: "images/glossar/wickelkleid.png"
 image_alt: "Editoriale Grafik mit stilisiertem Wickelkleid, überkreuzter Linie und gebundener Taille"

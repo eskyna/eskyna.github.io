@@ -5,7 +5,6 @@ description: "Пуховик — это теплая куртка с пухов�
 category: "Стиль и воздействие"
 tags: ["daunenjacke", "гардероб"]
 keywords: ["daunenjacke", "что означает daunenjacke", "daunenjacke stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/daunenjacke.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Пуховик"

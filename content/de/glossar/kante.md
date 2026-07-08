@@ -5,7 +5,6 @@ description: "Eine Kante ist eine sichtbare Abschlusslinie an Kleidung oder Acce
 category: "Materialien & Details"
 tags: ["kante", "materialien"]
 keywords: ["kante", "was bedeutet kante", "kante stilberatung"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/kante.png"
 image_alt: "Editoriale Glossar-Grafik zu Kante mit ruhigen Farbfeldern und feiner Linienführung"

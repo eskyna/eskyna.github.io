@@ -5,7 +5,6 @@ description: "Акцент на талии визуально выделяет �
 category: "Стиль и воздействие"
 tags: ["стиль", "акцент на талии"]
 keywords: ["акцент на талии", "что означает акцент на талии", "акцент на талии в стилизации"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/taillenbetonung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Акцент на талии"

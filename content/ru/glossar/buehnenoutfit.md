@@ -5,7 +5,6 @@ description: "Сценический образ это одежда для вы�
 category: "Гардероб и повседневность"
 tags: ["buehnenoutfit", "speaker", "sichtbarkeit", "wirkung"]
 keywords: ["buehnenoutfit", "vortrag outfit", "auftritt kleidung"]
-glossar_order: "b"
 weight: 12
 relatedTerms:
   - title: "Образ спикера"

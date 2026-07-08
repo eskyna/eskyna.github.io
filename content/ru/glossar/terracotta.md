@@ -12,7 +12,6 @@ keywords:
     "землистые оттенки",
     "цветовая консультация terracotta",
   ]
-glossar_order: "t"
 weight: 17
 
 image: "images/glossar/terracotta.png"

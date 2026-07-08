@@ -5,7 +5,6 @@ description: "Dark Academia ist eine akademisch-dunkle Stilästhetik mit Tweed, 
 category: "Stil & Wirkung"
 tags: ["dark academia", "akademisch", "stil", "vintage"]
 keywords: ["dark academia", "dark academia style", "akademische ästhetik"]
-glossar_order: "d"
 weight: 25
 relatedTerms:
   - title: "Poetcore"

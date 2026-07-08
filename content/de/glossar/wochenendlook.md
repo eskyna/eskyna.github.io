@@ -5,7 +5,6 @@ description: "Ein Wochenendlook ist ein entspannter Alltagslook, der bequem ist 
 category: "Garderobe & Alltag"
 tags: ["garderobe", "wochenendlook"]
 keywords: ["wochenendlook", "was bedeutet wochenendlook", "wochenendlook stilberatung"]
-glossar_order: "w"
 weight: 1
 image: "images/glossar/wochenendlook.png"
 image_alt: "Editoriale Glossar-Grafik zu Wochenendlook mit ruhigen Farbfeldern und feiner Linienführung"

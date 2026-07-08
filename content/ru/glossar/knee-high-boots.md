@@ -5,7 +5,6 @@ description: "Knee-high boots это сапоги до колена, котор�
 category: "Гардероб и повседневность"
 tags: ["гардероб", "knee-high boots"]
 keywords: ["knee-high boots", "сапоги до колена", "как носить knee-high boots"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/knee-high-boots.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Knee-high boots"

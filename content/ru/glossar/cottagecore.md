@@ -5,7 +5,6 @@ description: "Cottagecore описывает романтичную природ
 category: "Стиль и воздействие"
 tags: ["cottagecore", "romantisch", "natur", "stil"]
 keywords: ["cottagecore", "cottagecore style", "romantische natur aesthetik"]
-glossar_order: "c"
 weight: 22
 relatedTerms:
   - title: "Романтичный стиль"

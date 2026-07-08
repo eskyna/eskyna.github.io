@@ -5,7 +5,6 @@ description: "Форма тела описывает индивидуальну�
 category: "Стиль и воздействие"
 tags: ["форма тела", "стиль"]
 keywords: ["форма тела", "как учитывать форму тела", "крой и пропорции"]
-glossar_order: "k"
 weight: 1
 image: "images/glossar/koerperform.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Форма тела"

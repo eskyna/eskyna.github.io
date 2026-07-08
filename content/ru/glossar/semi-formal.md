@@ -5,7 +5,6 @@ description: "Semi formal это повышенный дресс-код межд
 category: "Гардероб и повседневность"
 tags: ["semi formal", "дресс-код", "повод", "вечер"]
 keywords: ["semi formal", "дресс-код semi formal", "нарядная одежда"]
-glossar_order: "s"
 weight: 15
 relatedTerms:
   - title: "Дресс-код"

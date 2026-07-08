@@ -12,7 +12,6 @@ keywords:
   - "slip dress"
   - "что такое slip dress"
   - "с чем сочетать slip dress"
-glossar_order: "s"
 weight: 5
 image: "images/glossar/slip-dress.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Slip dress"

@@ -5,7 +5,6 @@ description: "Dampfen glättet Kleidung mit Wasserdampf und kann schonender sein
 category: "Materialien & Details"
 tags: ["dampfen", "materialien"]
 keywords: ["dampfen", "was bedeutet dampfen", "dampfen stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/dampfen.png"
 image_alt: "Editoriale Glossar-Grafik zu Dampfen mit ruhigen Farbfeldern und feiner Linienführung"

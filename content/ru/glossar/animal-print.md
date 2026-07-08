@@ -5,7 +5,6 @@ description: "Животный принт — это узоры, имитиру�
 category: "Материалы и детали"
 tags: ["animal print", "материалы"]
 keywords: ["animal print", "что означает animal print", "animal print stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/animal-print.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Животный принт"

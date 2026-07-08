@@ -6,7 +6,6 @@ category: "Материалы и детали"
 tags: ["chemische reinigung", "материалы"]
 keywords:
   ["chemische reinigung", "что означает chemische reinigung", "chemische reinigung stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/chemische-reinigung.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Химическая чистка"

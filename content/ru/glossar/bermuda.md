@@ -12,7 +12,6 @@ keywords:
   - "bermuda"
   - "что такое bermuda"
   - "bermuda shorts kombinieren"
-glossar_order: "b"
 weight: 5
 image: "images/glossar/bermuda.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Бермуды"

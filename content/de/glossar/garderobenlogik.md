@@ -5,7 +5,6 @@ description: "Garderobenlogik beschreibt das System hinter einem Kleiderschrank,
 category: "Garderobe & Alltag"
 tags: ["garderobenlogik", "garderobe", "capsule wardrobe", "stilberatung"]
 keywords: ["garderobenlogik", "kleiderschrank system", "capsule wardrobe", "fehlkäufe"]
-glossar_order: "g"
 weight: 2
 image: "images/glossar/garderobenlogik.png"
 image_alt: "Grafik mit Garderoben-Matrix, Farbfeldern und verbundenen Outfit-Elementen"

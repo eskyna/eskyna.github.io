@@ -5,7 +5,6 @@ description: "Executive Presence ist die souveräne, glaubwürdige und führungs
 category: "Stil & Wirkung"
 tags: ["executive presence", "wirkung", "führung", "business"]
 keywords: ["executive presence", "führungsausstrahlung", "präsenz im business"]
-glossar_order: "e"
 weight: 7
 relatedTerms:
   - title: "Wirkung"

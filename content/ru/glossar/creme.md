@@ -6,7 +6,6 @@ category: "Цветовой словарь"
 color_hex: "#EFE2D1"
 tags: ["creme", "farbe", "farbberatung", "neutrale farben"]
 keywords: ["creme kleidung", "creme kombinieren", "creme farbberatung", "creme statt weiß"]
-glossar_order: "c"
 weight: 11
 image: "images/glossar/creme.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Крем"

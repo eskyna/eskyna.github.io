@@ -5,7 +5,6 @@ description: "Der Herbsttyp ist ein warmer, meist gedeckter Farbtyp mit erdigen,
 category: "Farbberatung & Farbe"
 tags: ["herbsttyp", "farbtyp", "farbberatung", "autumn type"]
 keywords: ["herbsttyp", "soft autumn", "warm autumn", "deep autumn", "herbst farbtyp"]
-glossar_order: "h"
 weight: 9
 relatedTerms:
   - title: "Farbtyp"

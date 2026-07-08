@@ -5,7 +5,6 @@ description: "Beach formal описывает нарядную одежду дл
 category: "Гардероб и повседневность"
 tags: ["beach formal", "dresscode", "sommer", "hochzeit"]
 keywords: ["beach formal", "strandhochzeit dresscode", "formal am strand"]
-glossar_order: "b"
 weight: 20
 relatedTerms:
   - title: "Наряд для садового праздника"

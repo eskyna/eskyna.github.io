@@ -5,7 +5,6 @@ description: "Business Professional ist ein formeller Business-Dresscode mit seh
 category: "Garderobe & Alltag"
 tags: ["business professional", "business", "dresscode", "office"]
 keywords: ["business professional", "business professional dresscode", "formeller business look"]
-glossar_order: "b"
 weight: 25
 relatedTerms:
   - title: "Business Formal"

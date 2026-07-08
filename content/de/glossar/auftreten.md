@@ -5,7 +5,6 @@ description: "Auftreten beschreibt das Zusammenspiel aus Kleidung, Haltung, Bewe
 category: "Stil & Wirkung"
 tags: ["auftreten", "wirkung", "präsenz", "image"]
 keywords: ["auftreten", "auftreten wirkung", "professionelles auftreten"]
-glossar_order: "a"
 weight: 11
 relatedTerms:
   - title: "Präsenz"

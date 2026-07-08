@@ -6,7 +6,6 @@ category: "Farb-Lexikon"
 color_hex: "#C99A8A"
 tags: ["rosegold", "roségold", "metallic", "rosa", "farbberatung"]
 keywords: ["roségold kombinieren", "rosegold schmuck", "roségold kleidung", "metallic"]
-glossar_order: "r"
 weight: 34
 image: "images/glossar/rosegold.png"
 image_alt: "Editoriale Grafik zu Roségold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"

@@ -5,7 +5,6 @@ description: "Ein Ton-in-Ton-Muster nutzt ähnliche Farben und wirkt dadurch ruh
 category: "Materialien & Details"
 tags: ["materialien", "ton in ton muster"]
 keywords: ["ton-in-ton-muster", "was bedeutet ton-in-ton-muster", "ton-in-ton-muster stilberatung"]
-glossar_order: "t"
 weight: 1
 image: "images/glossar/ton-in-ton-muster.png"
 image_alt: "Editoriale Glossar-Grafik zu Ton-in-Ton-Muster mit ruhigen Farbfeldern und feiner Linienführung"

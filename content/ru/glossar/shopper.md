@@ -5,7 +5,6 @@ description: "Shopper это большая повседневная сумка 
 category: "Материалы и детали"
 tags: ["shopper", "сумка", "аксессуар", "повседневность", "гардероб"]
 keywords: ["shopper", "что такое shopper", "сумка shopper"]
-glossar_order: "s"
 weight: 11
 image: "images/glossar/shopper.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Shopper"

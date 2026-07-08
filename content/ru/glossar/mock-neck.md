@@ -5,7 +5,6 @@ description: "Mock neck обозначает невысокий воротник
 category: "Материалы и детали"
 tags: ["материалы", "mock neck"]
 keywords: ["mock neck", "низкая стойка", "воротник mock neck"]
-glossar_order: "m"
 weight: 1
 image: "images/glossar/mock-neck.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Mock neck"

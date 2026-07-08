@@ -5,7 +5,6 @@ description: "Размещённый принт расположен намер�
 category: "Материалы и детали"
 tags: ["материалы", "размещённый принт"]
 keywords: ["размещённый принт", "локальный принт", "принт с акцентным размещением"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/platzierter-print.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Размещённый принт"

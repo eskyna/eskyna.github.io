@@ -5,7 +5,6 @@ description: "Hahnentritt ist ein grafisches, gezacktes Muster, das klar, klassi
 category: "Materialien & Details"
 tags: ["hahnentritt", "materialien"]
 keywords: ["hahnentritt", "was bedeutet hahnentritt", "hahnentritt stilberatung"]
-glossar_order: "h"
 weight: 1
 image: "images/glossar/hahnentritt.png"
 image_alt: "Editoriale Glossar-Grafik zu Hahnentritt mit ruhigen Farbfeldern und feiner Linienführung"

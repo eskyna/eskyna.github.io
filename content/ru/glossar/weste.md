@@ -12,7 +12,6 @@ keywords:
   - "weste"
   - "что такое жилет"
   - "с чем сочетать жилет"
-glossar_order: "w"
 weight: 5
 image: "images/glossar/weste.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Жилет"

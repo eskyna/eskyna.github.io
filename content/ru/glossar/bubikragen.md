@@ -5,7 +5,6 @@ description: "Воротник-пузырь — это объёмный воро
 category: "Материалы и детали"
 tags: ["bubikragen", "материалы"]
 keywords: ["bubikragen", "что означает bubikragen", "bubikragen stilberatung"]
-glossar_order: "b"
 weight: 1
 image: "images/glossar/bubikragen.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Воротник-пузырь"

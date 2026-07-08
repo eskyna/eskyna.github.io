@@ -5,7 +5,6 @@ description: "Полиэстер это синтетическое волокн�
 category: "Материалы и детали"
 tags: ["материалы", "полиэстер"]
 keywords: ["полиэстер", "свойства полиэстера", "полиэстер в одежде"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/polyester.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Полиэстер"

@@ -5,7 +5,6 @@ description: "Petite styling описывает принципы стилиза�
 category: "Крой, пропорции и посадка"
 tags: ["petite styling", "пропорции", "силуэт", "стилизация"]
 keywords: ["petite styling", "стилизация для невысокого роста", "petite и пропорции"]
-glossar_order: "p"
 weight: 29
 relatedTerms:
   - title: "Длина низа"

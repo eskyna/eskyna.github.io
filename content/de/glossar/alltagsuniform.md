@@ -5,7 +5,6 @@ description: "Eine Alltagsuniform ist eine persönliche Outfitformel, die regelm
 category: "Garderobe & Alltag"
 tags: ["alltagsuniform", "garderobe"]
 keywords: ["alltagsuniform", "was bedeutet alltagsuniform", "alltagsuniform stilberatung"]
-glossar_order: "a"
 weight: 1
 image: "images/glossar/alltagsuniform.png"
 image_alt: "Editoriale Glossar-Grafik zu Alltagsuniform mit ruhigen Farbfeldern und feiner Linienführung"

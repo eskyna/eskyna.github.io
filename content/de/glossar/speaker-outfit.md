@@ -5,7 +5,6 @@ description: "Ein Speaker-Outfit unterstütetzt die Rolle als Rednerin oder Redn
 category: "Garderobe & Alltag"
 tags: ["speaker outfit", "bühne", "business", "wirkung"]
 keywords: ["speaker-outfit", "redner outfit", "bühnenlook business"]
-glossar_order: "s"
 weight: 13
 relatedTerms:
   - title: "Bühnenoutfit"

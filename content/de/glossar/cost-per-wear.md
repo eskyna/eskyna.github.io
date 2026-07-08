@@ -5,7 +5,6 @@ description: "Cost per Wear beschreibt die Kosten eines Kleidungsstücks pro tat
 category: "Garderobe & Alltag"
 tags: ["cost per wear", "garderobe"]
 keywords: ["cost per wear", "was bedeutet cost per wear", "cost per wear stilberatung"]
-glossar_order: "c"
 weight: 1
 image: "images/glossar/cost-per-wear.png"
 image_alt: "Editoriale Glossar-Grafik zu Cost per Wear mit ruhigen Farbfeldern und feiner Linienführung"

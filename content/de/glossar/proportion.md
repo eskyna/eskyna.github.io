@@ -5,7 +5,6 @@ description: "Proportion beschreibt das Verhältnis von Längen, Breiten und Vol
 category: "Schnitt, Proportion & Passform"
 tags: ["proportion", "schnitt", "silhouette", "passform"]
 keywords: ["proportion mode", "proportionen outfit", "schnitt", "stilberatung"]
-glossar_order: "p"
 weight: 3
 image: "images/glossar/proportion.png"
 image_alt: "Grafik mit Outfit-Linien und Flächen zur Erklärung von Proportion"

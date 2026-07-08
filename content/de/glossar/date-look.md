@@ -5,7 +5,6 @@ description: "Ein Date-Look ist ein persönliches Outfit, das Nähe, Wohlgefühl
 category: "Garderobe & Alltag"
 tags: ["date look", "garderobe"]
 keywords: ["date-look", "was bedeutet date-look", "date-look stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/date-look.png"
 image_alt: "Editoriale Glossar-Grafik zu Date-Look mit ruhigen Farbfeldern und feiner Linienführung"

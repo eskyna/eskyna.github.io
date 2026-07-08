@@ -12,7 +12,6 @@ keywords:
   - "camisole"
   - "что такое camisole"
   - "seidentop kombinieren"
-glossar_order: "c"
 weight: 5
 image: "images/glossar/camisole.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Камисоль"

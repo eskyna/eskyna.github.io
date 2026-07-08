@@ -6,7 +6,6 @@ category: "Гардероб и повседневность"
 tags: ["smart casual", "дресс-код", "business casual", "образ", "стиль"]
 keywords:
   ["smart casual", "что означает smart casual", "образ smart casual", "smart casual для женщин"]
-glossar_order: "s"
 weight: 13
 image: "images/glossar/smart-casual.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Smart casual"

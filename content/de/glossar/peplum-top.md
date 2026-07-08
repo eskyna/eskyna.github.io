@@ -5,7 +5,6 @@ description: "Ein Peplum-Top ist ein tailliertes Oberteil mit ausgestelltem Vola
 category: "Materialien & Details"
 tags: ["materialien", "peplum top"]
 keywords: ["peplum-top", "was bedeutet peplum-top", "peplum-top stilberatung"]
-glossar_order: "p"
 weight: 1
 image: "images/glossar/peplum-top.png"
 image_alt: "Editoriale Glossar-Grafik zu Peplum-Top mit ruhigen Farbfeldern und feiner Linienführung"

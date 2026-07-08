@@ -5,7 +5,6 @@ description: "Круглый вырез это закрытая округлая
 category: "Материалы и детали"
 tags: ["материалы", "круглый вырез"]
 keywords: ["круглый вырез", "вырез crew neck", "как работает круглый вырез"]
-glossar_order: "r"
 weight: 1
 image: "images/glossar/rundhalsausschnitt.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Круглый вырез"

@@ -5,7 +5,6 @@ description: "Die Rechteck-Silhouette beschreibt eine eher gerade Körper- oder 
 category: "Schnitt, Proportion & Passform"
 tags: ["rechteck silhouette", "silhouette", "proportion", "gerade linie"]
 keywords: ["rechteck-silhouette", "rectangle silhouette", "gerade figur"]
-glossar_order: "r"
 weight: 34
 relatedTerms:
   - title: "Silhouette"

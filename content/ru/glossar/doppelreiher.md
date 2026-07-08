@@ -5,7 +5,6 @@ description: "Двубортный — это стиль с двумя ряда�
 category: "Материалы и детали"
 tags: ["doppelreiher", "гардероб"]
 keywords: ["doppelreiher", "что означает doppelreiher", "doppelreiher stilberatung"]
-glossar_order: "d"
 weight: 1
 image: "images/glossar/doppelreiher.png"
 image_alt: "Иллюстрация глоссария ESKYNA для термина Двубортный"
