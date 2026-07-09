@@ -1,40 +1,91 @@
 ---
-title: "Was bedeutet Oberkörperlänge?"
-term: "Oberkörperlänge"
-description: "Oberkörperlänge beschreibt, wie lang der Oberkörper im Verhältnis zu Beinen und Taille wirkt."
-category: "Schnitt, Proportion & Passform"
-tags: ["oberkörperlänge", "proportion", "taillenposition", "silhouette"]
-keywords: ["oberkörperlänge", "oberkörper wirkt lang", "verhältnis beine oberkörper"]
 weight: 48
+title: What does Torso Length mean?
+seoTitle: Torso Length explained | ESKYNA Glossary
+term: Torso Length
+description: Torso Length is a cut, proportion, or fit detail that helps you understand silhouette
+  and make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - torso length
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - torso length
+  - what is torso length
+  - torso length style advice
+slug: torso-length
+url: /glossary/torso-length/
+aliases:
+  - /glossar/oberkoerperlaenge/
+image_alt: Editorial glossary illustration for Torso Length
 relatedTerms:
-  - title: "Taillenposition"
-    url: "/glossar/taillenposition/"
-  - title: "Beinlänge"
-    url: "/glossar/beinlaenge/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Drop Waist"
-    url: "/glossar/drop-waist/"
-  - title: "Drittel-Regel im Outfit"
-    url: "/glossar/drittel-regel-im-outfit/"
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Drop Waist
+    url: /en/glossary/drop-waist/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Fit
+    url: /en/glossary/fit/
+  - title: Cut
+    url: /en/glossary/cut/
+faq:
+  items:
+    - q: How can I use “Torso Length” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Torso Length” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Oberkörperlänge** beschreibt im Styling, wie lang der Oberkörper im Verhältnis zu Beinen und Taille wirkt. Diese Wirkung wird stark durch Taillenposition, Oberteillänge und Bundhöhe beeinflusst.
+**Torso Length**: Torso Length is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Auch hier geht es nicht um anatomische Richtigkeit, sondern um optische Lesbarkeit. Ein Look kann den Oberkörper verlängern, verkürzen oder ausgewogener erscheinen lassen.
+Torso Length gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## ESKYNA-Merksatz
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Oberkörperlänge ist eine Proportionswirkung, keine feste Tatsache.
+## Why this matters for proportion
 
-## Verwandte Begriffe
+When you understand Torso Length, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- [Taillenposition](/glossar/taillenposition/)
-- [Beinlänge](/glossar/beinlaenge/)
-- [Proportion](/glossar/proportion/)
-- [Drop Waist](/glossar/drop-waist/)
-- [Drittel-Regel im Outfit](/glossar/drittel-regel-im-outfit/)
+With Torso Length, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
+
+## What to pay attention to
+
+- Check the role of Torso Length in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
+
+## Common misconceptions
+
+**Misconception:** Torso Length is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Torso Length works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Torso Length” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Torso Length works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Proportion](/en/glossary/proportion/)
+- [Drop Waist](/en/glossary/drop-waist/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Fit](/en/glossary/fit/)
+- [Cut](/en/glossary/cut/)

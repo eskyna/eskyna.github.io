@@ -1,62 +1,94 @@
 ---
-title: "Was ist ein Hoodie?"
-term: "Hoodie"
-description: "Ein Hoodie ist ein Sweatshirt mit Kapuze, das sportlich wirkt und durch Material, Farbe und Kombination erwachsen gestylt werden kann."
-category: "Garderobe & Alltag"
-tags:
-  - "hoodie"
-  - "sweatshirt"
-  - "casual"
-  - "layering"
-keywords:
-  - "hoodie"
-  - "was ist ein hoodie"
-  - "hoodie kombinieren"
 weight: 5
-image: "images/glossar/hoodie.png"
-image_alt: "Editoriale Grafik mit stilisiertem Hoodie, Kapuze und weicher Sweatstruktur"
+image: images/glossar/hoodie.png
+title: What does Hoodie mean?
+seoTitle: Hoodie explained | ESKYNA Glossary
+term: Hoodie
+description:
+  Hoodie is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - hoodie
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - hoodie
+  - what is hoodie
+  - hoodie style advice
+slug: hoodie
+url: /glossary/hoodie/
+aliases:
+  - /glossar/hoodie/
+image_alt: Editorial glossary illustration for Hoodie
 relatedTerms:
-  - title: "Sweatshirt"
-    url: "/glossar/sweatshirt/"
-  - title: "Sneaker"
-    url: "/glossar/sneaker/"
-  - title: "Layering"
-    url: "/glossar/layering/"
-  - title: "Casual"
-    url: "/glossar/smart-casual/"
-  - title: "Oversized"
-    url: "/glossar/oversized/"
+  - title: Sweatshirt
+    url: /en/glossary/sweatshirt/
+  - title: Sneaker
+    url: /en/glossary/sneaker/
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Smart Casual
+    url: /en/glossary/smart-casual/
+  - title: Oversized
+    url: /en/glossary/oversized/
+faq:
+  items:
+    - q: How can I use “Hoodie” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Hoodie” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Hoodie** ist ein Sweatshirt mit Kapuze. Er kommt ursprünglich aus der Sport- und Freizeitkleidung, kann aber je nach Schnitt, Farbe und Material deutlich erwachsener wirken.
+**Hoodie**: Hoodie is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein grauer Hoodie mit Sneakern wirkt casual. Ein einfarbiger Hoodie unter einem Wollmantel kann modern und urban aussehen. Ein sehr weiter Hoodie verändert die Silhouette stärker als ein schmaler, glatter Schnitt.
+Hoodie gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Kapuze ist das prägende Detail. Sie bringt Volumen in den Schulter- und Nackenbereich und muss deshalb gut mit Mantel, Jacke oder Blazer zusammenspielen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters in your wardrobe
 
-Ein Hoodie kann Komfort und Modernität verbinden. Für ESKYNA ist er interessant, wenn er nicht zufällig getragen wird, sondern als bewusstes Stilmittel in einer klaren Outfit-Formel funktioniert.
+When you understand Hoodie, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Hoodie, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-- Wähle ruhige Farben, wenn der Hoodie erwachsener wirken soll.
-- Achte auf eine Kapuze, die nicht zu schwer fällt.
-- Kombiniere ihn mit klaren Teilen, wenn der Look gepflegt bleiben soll.
-- Prüfe die Länge zu Hose, Rock oder Mantel.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Hoodie in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ein Hoodie ist automatisch nachlässig.  
-**Besser:** Ein hochwertiger Hoodie kann sehr bewusst und modern wirken.
+## Common misconceptions
 
-**Missverständnis:** Hoodies funktionieren nur sportlich.  
-**Besser:** Mit Mantel, Blazer oder Chinos können sie einen spannenden Stilbruch erzeugen.
+**Misconception:** Hoodie is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Hoodie works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Hoodie bleibt lässig. Die Frage ist, ob diese Lässigkeit zufällig oder bewusst wirkt.
+## Quick mirror check
+
+Look at “Hoodie” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Hoodie works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Sweatshirt](/en/glossary/sweatshirt/)
+- [Sneaker](/en/glossary/sneaker/)
+- [Layering](/en/glossary/layering/)
+- [Smart Casual](/en/glossary/smart-casual/)
+- [Oversized](/en/glossary/oversized/)

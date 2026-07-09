@@ -1,62 +1,92 @@
 ---
-title: "Was bedeutet Karomuster?"
-term: "Karomuster"
-description: "Karomuster entstehen durch sich kreuzende Linien und können klassisch, rustikal, grafisch oder modern wirken."
-category: "Materialien & Details"
-tags: ["karomuster", "materialien"]
-keywords: ["karomuster", "was bedeutet karomuster", "karomuster stilberatung"]
 weight: 1
-image: "images/glossar/karomuster.png"
-image_alt: "Editoriale Glossar-Grafik zu Karomuster mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/karomuster.png
+title: What does Check Pattern mean?
+seoTitle: Check Pattern explained | ESKYNA Glossary
+term: Check Pattern
+description: Check Pattern is a material or detail term that influences quality, comfort, texture,
+  and the overall impression of an outfit.
+category: Materials & Details
+tags:
+  - check pattern
+  - materials & details
+  - style glossary
+keywords:
+  - check pattern
+  - what is check pattern
+  - check pattern style advice
+slug: check-pattern
+url: /glossary/check-pattern/
+aliases:
+  - /glossar/karomuster/
+image_alt: Editorial glossary illustration for Check Pattern
 relatedTerms:
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+  - title: Care
+    url: /en/glossary/care/
+  - title: Quality
+    url: /en/glossary/quality/
+faq:
+  items:
+    - q: How can I use “Check Pattern” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Check Pattern” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Karomuster**: Karomuster entstehen durch sich kreuzende Linien und können klassisch, rustikal, grafisch oder modern wirken.
+**Check Pattern**: Check Pattern is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Muster bringen Bewegung in einen Look. Entscheidend sind Größe, Kontrast, Platzierung und die Frage, ob das Muster eine ruhige Ergänzung oder der Fokus des Outfits sein soll.
+Check Pattern gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Karomuster wichtig ist
+## Why this matters for quality
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Check Pattern, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Karomuster, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Check Pattern, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Karomuster im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Check Pattern in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Karomuster ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Check Pattern is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Karomuster funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Check Pattern works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Karomuster wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Check Pattern” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Check Pattern works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)
+- [Care](/en/glossary/care/)
+- [Quality](/en/glossary/quality/)

@@ -1,22 +1,41 @@
 ---
-title: "Was ist ein Cocktailkleid?"
-term: "Cocktailkleid"
-description: "Ein Cocktailkleid ist ein elegantes Kleid für festliche Anlässe, die nicht so formell sind wie ein großer Abenddresscode."
-category: "Dresscodes & Anlässe"
-tags: ["cocktailkleid", "kleid", "dresscode", "abend"]
-keywords: ["cocktailkleid", "was ist ein cocktailkleid", "dresscode cocktail"]
+title: Was ist ein Cocktailkleid?
+term: Cocktailkleid
+description: Ein Cocktailkleid ist ein elegantes Kleid für festliche Anlässe, die nicht so formell
+  sind wie ein großer Abenddresscode.
+category: Dresscodes & Anlässe
+tags:
+  - cocktailkleid
+  - kleid
+  - dresscode
+  - abend
+keywords:
+  - cocktailkleid
+  - was ist ein cocktailkleid
+  - dresscode cocktail
 weight: 9
-image: "images/glossar/cocktailkleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Cocktailkleid mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/cocktailkleid.png
+image_alt: Editoriale ESKYNA Grafik zum Glossarbegriff Cocktailkleid mit ruhigen Formen und feinen
+  Farbfeldern
 relatedTerms:
-  - title: "Dresscode"
-    url: "/glossar/dresscode/"
-  - title: "Kleid"
-    url: "/glossar/kleid/"
-  - title: "Pumps"
-    url: "/glossar/pumps/"
-  - title: "Slingback"
-    url: "/glossar/slingback/"
+  - title: Dresscode
+    url: /glossar/dresscode/
+  - title: Kleid
+    url: /glossar/kleid/
+  - title: Pumps
+    url: /glossar/pumps/
+  - title: Slingback
+    url: /glossar/slingback/
+faq:
+  items:
+    - q: Wie nutze ich „Cocktailkleid“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Anlass, Formalität und Rolle. Entscheidend ist, ob er zu
+        deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Cocktailkleid“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -48,6 +67,24 @@ Das Cocktailkleid hilft, bei Einladungen, Feiern oder Events sicher gekleidet zu
 **Missverständnis:** Cocktail bedeutet immer kurz.  
 **Besser:** Auch Midilängen können sehr passend sein.
 
+## Mini-Test vor dem Spiegel
+
+Betrachte „Cocktailkleid“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
+
 ## ESKYNA-Merksatz
 
 Ein gutes Cocktailkleid wirkt festlich, aber nicht überinszeniert.
+
+## Praxischeck
+
+Wenn du den Begriff **Cocktailkleid** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Dresscode übersetzt Situation, Gastgeber, Raum und Tageszeit in Kleidung. Er soll Sicherheit geben, nicht Persönlichkeit verstecken.
+
+- Kläre zuerst Anlass, Uhrzeit, Ort und erwartete Formalität.
+- Wähle dann ein Outfit, das angemessen ist und trotzdem nach dir aussieht.
+- Plane Schuhe, Tasche, Mantel und Schmuck mit, nicht erst am Ende.
+
+## Beratungsblick
+
+In der Beratung ist **Cocktailkleid** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Dresscodes & Anlässe](/glossar/kategorie/dresscodes-anlaesse/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).

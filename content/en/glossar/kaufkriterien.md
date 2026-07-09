@@ -1,40 +1,93 @@
 ---
-title: "Was bedeutet Kaufkriterien?"
-term: "Kaufkriterien"
-description: "Kaufkriterien sind bewusste Maßstäbe für neue Kleidung, etwa Farbe, Schnitt, Material, Anlass, Kombinierbarkeit und Pflege."
-category: "Garderobe & Alltag"
-tags: ["kaufkriterien", "garderobe", "fehlkauf", "qualität"]
-keywords: ["kaufkriterien", "bewusst einkaufen kleidung", "kaufentscheidung mode"]
 weight: 54
+title: What does Buying Criteria mean?
+seoTitle: Buying Criteria explained | ESKYNA Glossary
+term: Buying Criteria
+description:
+  Buying Criteria is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - buying criteria
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - buying criteria
+  - what is buying criteria
+  - buying criteria style advice
+slug: buying-criteria
+url: /glossary/buying-criteria/
+aliases:
+  - /glossar/kaufkriterien/
+image_alt: Editorial glossary illustration for Buying Criteria
 relatedTerms:
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
-  - title: "Kombinierbarkeit"
-    url: "/glossar/kombinierbarkeit/"
-  - title: "Qualität"
-    url: "/glossar/qualitaet/"
-  - title: "Wardrobe Audit"
-    url: "/glossar/wardrobe-audit/"
-  - title: "Preis-pro-Tragen-Strategie"
-    url: "/glossar/preis-pro-tragen-strategie/"
+  - title: Wardrobe Audit
+    url: /en/glossary/wardrobe-audit/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Buying Criteria” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Buying Criteria” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Kaufkriterien** sind bewusste Massstaebe für neue Kleidung. Dazu gehören Farbe, Schnitt, Material, Anlass, Kombinierbarkeit, Pflege und Budget.
+**Buying Criteria**: Buying Criteria is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Klare Kaufkriterien reduzieren spontane Fehlkaeufe, weil sie ein Teil nicht nur nach Gefallen, sondern nach Funktion pruefen.
+Buying Criteria gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## ESKYNA-Merksatz
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Kaufkriterien machen aus Reiz eine Entscheidung.
+## Why this matters in your wardrobe
 
-## Verwandte Begriffe
+When you understand Buying Criteria, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- [Fehlkauf](/glossar/fehlkauf/)
-- [Kombinierbarkeit](/glossar/kombinierbarkeit/)
-- [Qualität](/glossar/qualitaet/)
-- [Wardrobe Audit](/glossar/wardrobe-audit/)
-- [Preis-pro-Tragen-Strategie](/glossar/preis-pro-tragen-strategie/)
+With Buying Criteria, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
+
+## What to pay attention to
+
+- Check the role of Buying Criteria in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
+
+## Common misconceptions
+
+**Misconception:** Buying Criteria is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Buying Criteria works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Buying Criteria” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Buying Criteria works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Wardrobe Audit](/en/glossary/wardrobe-audit/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

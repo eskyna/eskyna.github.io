@@ -1,62 +1,94 @@
 ---
-title: "Flieder im Stil erklärt"
-term: "Flieder"
-description: "Flieder ist ein heller Lilaton. Er wirkt weich und frisch, braucht aber klare Kombinationen, damit er nicht zu lieblich wird."
-category: "Farb-Lexikon"
-color_hex: "#C8A6D8"
-tags: ["flieder", "lila", "farbe", "pastell", "farbberatung"]
-keywords: ["flieder kleidung", "flieder kombinieren", "helles lila", "farbberatung"]
 weight: 29
-image: "images/glossar/flieder.png"
-image_alt: "Editoriale Grafik zu Flieder mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/flieder.png
+color_hex: "#C8A6D8"
+title: What does Lilac mean?
+seoTitle: Lilac explained | ESKYNA Glossary
+term: Lilac
+description: Lilac is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - lilac
+  - color lexicon
+  - style glossary
+keywords:
+  - lilac
+  - what is lilac
+  - lilac style advice
+slug: lilac
+url: /glossary/lilac/
+aliases:
+  - /glossar/flieder/
+image_alt: Editorial glossary illustration for Lilac
 relatedTerms:
-  - title: "Lila"
-    url: "/glossar/lila/"
-  - title: "Violett"
-    url: "/glossar/violett/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Helligkeit"
-    url: "/glossar/helligkeit/"
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Contrast
+    url: /en/glossary/contrast/
+faq:
+  items:
+    - q: How can I use “Lilac” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Lilac” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Flieder
+## Definition
 
-Flieder ist die helle, sanfte Seite von Lila. Die Farbe wirkt leicht und frisch, kann aber schnell zu lieblich werden, wenn Schnitt und Kombination nicht klar sind.
+**Lilac**: Lilac is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Flieder wirkt
+## In simple words
 
-Flieder bringt Weichheit in den Look. Es wirkt zarter als Violett und weniger romantisch als Rosa. Mit modernen Materialien, klaren Linien und ruhigen Neutralfarben kann Flieder sehr erwachsen aussehen.
+Lilac gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Flieder
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Kühler Flieder:** Klarer und frischer, schön zu Silber und Grau.
-- **Warmer Flieder:** Weicher, mit leicht rosigem Anteil.
-- **Grauflieder:** Gedämpfter und moderner.
-- **Pastellflieder:** Sehr hell und zart, braucht oft Struktur im Look.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Lilac, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Strick wirkt Flieder weich. In Baumwolle wirkt es frisch. In Seide wird es feiner. In klaren Hosen, Blazern oder Hemdblusen bekommt Flieder eine moderne Richtung.
+With Lilac, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Flieder kombinieren
+## What to pay attention to
 
-- **Flieder + Grau:** ruhig und modern
-- **Flieder + Weiß:** hell und frisch
-- **Flieder + Navy:** klarer und erwachsener
-- **Flieder + Salbeigrün:** weich und harmonisch
-- **Flieder + Denim:** entspannt und alltagstauglich
+- Check the role of Lilac in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Flieder im Business und Alltag
+## Common misconceptions
 
-Flieder funktioniert im Business gut als Bluse, Feinstrick oder Akzent. Mit Navy, Grau oder Anthrazit wird die Farbe klarer und weniger verspielt.
+**Misconception:** Lilac is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Flieder funktioniert
+**Misconception:** Lilac works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Flieder kann nahe am Gesicht sehr sanft wirken. Wenn es zu blass macht, hilft ein stärkerer Rahmen durch Kragen, Schmuck, Lippenfarbe oder dunklere Kombinationsfarben.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Lilac” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Flieder braucht Klarheit. Dann wirkt die Farbe fein, frisch und erwachsen.
+## ESKYNA note
+
+Lilac works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)
+- [Contrast](/en/glossary/contrast/)

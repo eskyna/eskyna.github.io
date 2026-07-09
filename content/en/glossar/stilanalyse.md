@@ -1,72 +1,151 @@
 ---
-title: "Was ist eine Stilanalyse?"
-term: "Stilanalyse"
-description: "Eine Stilanalyse macht sichtbar, welche Farben, Schnitte, Materialien und Stilcodes deine Wirkung klar und stimmig machen."
-category: "Stil & Wirkung"
-tags: ["stilanalyse", "style analyse", "stil", "wirkung"]
-keywords: ["stilanalyse", "style analyse", "style analyse bedeutung", "style analyse stilberatung"]
 weight: 2
+title: What does Style Analysis mean?
+seoTitle: Style Analysis explained | ESKYNA Glossary
+term: Style Analysis
+description:
+  A Style Analysis reveals which colors, cuts, materials, and impact patterns already carry your personal
+  style.
+category: Style & Impact
+tags:
+  - style analysis
+  - style & impact
+  - style glossary
+keywords:
+  - style analysis
+  - what is style analysis
+  - style analysis style advice
+slug: style-analysis
+url: /glossary/style-analysis/
+aliases:
+  - /glossar/stilanalyse/
+image_alt: Editorial glossary illustration for Style Analysis
 relatedTerms:
-  - title: "Stil"
-    url: "/glossar/stil/"
-  - title: "Signature Look"
-    url: "/glossar/signature-look/"
-  - title: "Wirkung"
-    url: "/glossar/wirkung/"
-  - title: "Outfit-Analyse"
-    url: "/glossar/outfit-analyse/"
-  - title: "Typberatung"
-    url: "/glossar/typberatung/"
+  - title: Signature Look
+    url: /en/glossary/signature-look/
+  - title: Outfit Analysis
+    url: /en/glossary/outfit-analysis/
+  - title: Personal Style
+    url: /en/glossary/personal-style/
+  - title: Impact
+    url: /en/glossary/impact/
+  - title: Style Consultation
+    url: /en/glossary/style-consultation/
+featured_glossar: true
+featured_weight: 16
+content_level: commercial-pillar
+lastmod: "2026-07-09"
+faq:
+  items:
+    - q: What do I need for a Style Analysis?
+      a: Photos, favorite pieces, questions, and honest examples from everyday life are very helpful.
+    - q: Is a Style Analysis useful without buying new clothes?
+      a: Yes. It often shows first how existing pieces can be used better.
+    - q: Will I get a style type afterward?
+      a: Possibly, but concrete style principles you can apply are more important.
+commercial_intent: true
+commercial_cluster: style
+editorial_depth: mini-case-offer-bridge
+offer_bridge:
+  kicker: Relevant ESKYNA offer
+  title: Turn style knowledge into a personal look
+  text:
+    When you want to translate the term into your personality, roles, and wardrobe, a clear style logic helps
+    more than another isolated rule.
+  bullets:
+    - name your style direction
+    - connect favorite pieces
+    - make outfits more recognizable
+  primary_label: Explore ESKYNA Style Sense
+  primary_url: /en/style-sense/
+  secondary_label: Ask a style question
+  secondary_url: /en/style-question/
+commercial_weight: 10
+consulting_questions:
+  - Which style direction feels authentic and still looks clear?
+  - Which existing pieces already show the desired line?
+  - Which details make the look recognizable instead of generic?
+consulting_focus:
+  Style Analysis becomes especially relevant in consultation when a concept needs to turn into a
+  concrete decision for clothing, impact, or wardrobe planning.
 ---
 
 ## Definition
 
-Eine **Stilanalyse** untersucht, welche Farben, Schnitte, Materialien und Details bei dir stimmig wirken. Sie schafft Klarheit darüber, warum bestimmte Outfits selbstverständlich aussehen und andere trotz guter Einzelteile nicht ganz zusammenfinden.
+**Style Analysis**: Style Analysis is the structured evaluation of your current clothing, preferences, proportions, colors, and style goals. It reveals which patterns already work and which elements make your wardrobe unclear.
 
-## Einfach erklärt
+## In simple words
 
-Eine Stilanalyse ist mehr als Geschmack. Sie schaut nicht nur darauf, was dir gefällt, sondern auch darauf, wie Kleidung an dir wirkt.
+A Style Analysis is not about putting you into a box. It gathers clues: which outfits do you repeat, which pieces stay unworn, and which impact do you want to show more clearly? From this, a style direction becomes visible.
 
-Dabei geht es um Linien, Proportionen, Oberflächen, Kontraste, Wiederholungen und die Frage, ob dein Outfit das ausstrahlt, was du zeigen möchtest. Elegant, klar, kreativ, ruhig, präzise oder präsent.
+## Why Style Analysis matters
 
-Im Unterschied zur schnellen Outfit-Bewertung arbeitet eine Stilanalyse grundsätzlicher. Sie sucht Muster. Welche Schnitte stärken dich. Welche Materialien wirken hochwertig an dir. Welche Farbwelt dich frischer, klarer oder souveräner erscheinen lässt.
+Without analysis, you often buy from mood. A Style Analysis makes decisions understandable. It shows which cuts, colors, and materials suit you and which pieces create only short-term excitement.
 
-## Warum eine Stilanalyse wichtig ist
+## ESKYNA perspective
 
-Viele Menschen kaufen nicht zu wenig, sondern zu uneinheitlich. Eine Stilanalyse hilft, diese Streuung zu beenden. Du erkennst schneller, welche Teile zu deinem Stilcode passen und welche nur kurz interessant wirken.
+At ESKYNA, I connect Style Analysis with implementation. Observations become style words, color logic, cut preferences, and buying criteria. The result should work in everyday life, not only look beautiful as a moodboard.
 
-Das spart Geld, reduziert Fehlkaeufe und macht das Anziehen leichter. Statt jeden Morgen neu zu raten, baust du auf einer klaren Linie auf.
+## How to use this idea
 
-## Was in einer Stilanalyse betrachtet wird
+- Place favorite outfits and shopping mistakes next to each other.
+- Describe not only colors, but the desired impression.
+- Look for repetitions in cut, material, and detail.
+- Turn the findings into three to five clear style principles.
 
-- Farben und Untertoene
-- Schnitte, Linien und Proportionen
-- Materialien und Oberflächen
-- Grad von Kontrast, Struktur und Präsenz
-- Wiederkehrende Stilthemen in deiner Garderobe
+## Everyday example
 
-## Typische Missverständnisse
+In a Style Analysis, favorite outfits and shopping mistakes sit next to each other. Suddenly it becomes visible that the favorite looks often have clear lines, calm colors, and interesting textures, while the mistakes are too colorful, too stiff, or too playful. A feeling becomes a pattern.
 
-**Missverständnis:** Eine Stilanalyse sagt dir, was du tragen musst.
+## When consultation helps
 
-**Besser:** Eine gute Stilanalyse gibt Orientierung. Sie nimmt dir nicht die Persönlichkeit, sondern macht sie klarer.
+Consultation becomes useful when you have collected many impressions but see no order. A Style Analysis sorts not only clothing, but also wishes, roles, and desired effects. That creates a style image that can be used in everyday life.
 
-**Missverständnis:** Eine Stilanalyse ist nur für modeinteressierte Menschen relevant.
+## Common misunderstanding
 
-**Besser:** Gerade im Alltag ist sie hilfreich, weil sie Entscheidungen vereinfacht und deinen Kleiderschrank stimmiger macht.
+Style Analysis is sometimes understood as criticism. It is actually translation. It shows what is already good, what does not yet connect, and which decisions create the biggest difference.
 
-## Praktisches Beispiel
+## Difference from related terms
 
-Wenn du immer wieder zu soften Farben, ruhigen Stoffen und klaren Schnitten greifst, aber gleichzeitig auffällige Trendteile kaufst, zeigt eine Stilanalyse oft den Kern des Problems: Die Einzelteile sind nicht schlecht. Sie gehören nur nicht zur selben Stilrichtung.
+Style Analysis is the diagnostic part of style consultation. Style consultation uses the analysis to improve outfits, wardrobe, and shopping in a concrete way.
 
-## ESKYNA-Merksatz
+## Next step
 
-Eine Stilanalyse ordnet nicht deinen Geschmack. Sie schärft deinen Blick für das, was dich wirklich stimmig wirken lässt.
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Stil](/glossar/stil/)
-- [Signature Look](/glossar/signature-look/)
-- [Wirkung](/glossar/wirkung/)
-- [Outfit-Analyse](/glossar/outfit-analyse/)
-- [Typberatung](/glossar/typberatung/)
+A good Style Analysis gives words to what you often only feel in the mirror.
+
+<!-- commercial-depth-start -->
+
+## Real consulting situation
+
+A style analysis separates symptoms from causes. An outfit may feel “somehow wrong” although color, size, and occasion seem fine at first glance. Then it is worth looking at lines, visual weight, fabric behavior, contrast, and personal style message.
+
+## Mini case: from doubt to decision
+
+A mini case: a pair of trousers seems to be the problem, although the length is good. The real break comes from a top that is too short and a shoe that cuts the line. With another top and a calmer shoe, the trousers stay and the look immediately feels more coherent.
+
+## Decision filter before your next purchase
+
+Understand whether uncertainty comes from color, cut, proportion, material, or impact. Use this short filter before you buy, remove pieces, or plan an outfit for an important situation.
+
+- Judge an outfit as a whole before changing individual pieces.
+- Ask whether the issue is color, cut, length, material, or occasion.
+- Test one change at a time so the real cause becomes visible.
+- Photograph before-and-after versions from the same angle.
+
+## Signs this topic needs support
+
+Support becomes useful when you collect a lot of inspiration but it does not turn into reliable decisions. One sign is copying outfits and still not feeling like yourself in them. In consultation, no style is imposed on you. The work reveals which lines, colors, and details can carry your personality repeatedly.
+
+<!-- commercial-depth-end -->
+
+## Related Terms
+
+- [Signature Look](/en/glossary/signature-look/)
+- [Outfit Analysis](/en/glossary/outfit-analysis/)
+- [Personal Style](/en/glossary/personal-style/)
+- [Impact](/en/glossary/impact/)
+- [Style Consultation](/en/glossary/style-consultation/)

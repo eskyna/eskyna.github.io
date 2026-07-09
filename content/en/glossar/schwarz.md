@@ -1,68 +1,94 @@
 ---
-title: "Schwarz im Stil erklärt"
-term: "Schwarz"
-description: "Schwarz wirkt klar, grafisch und souverän. Entscheidend sind Nuance, Material, Kontrast und bewusste Dosierung."
-category: "Farb-Lexikon"
-color_hex: "#111111"
-tags: ["schwarz", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["schwarz kleidung", "schwarz kombinieren", "farbberatung", "stilberatung"]
 weight: 1
-image: "images/glossar/schwarz.png"
-image_alt: "Editoriale Grafik mit schwarzen Stoffflächen, Kontrastlinien und warmen Akzenten"
+image: images/glossar/schwarz.png
+color_hex: "#111111"
+title: What does Black mean?
+seoTitle: Black explained | ESKYNA Glossary
+term: Black
+description: Black is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - black
+  - color lexicon
+  - style glossary
+keywords:
+  - black
+  - what is black
+  - black style advice
+slug: black
+url: /glossary/black/
+aliases:
+  - /glossar/schwarz/
+image_alt: Editorial glossary illustration for Black
 relatedTerms:
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Black” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Black” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Schwarz
+## Definition
 
-Schwarz ist eine der stärksten Farben in der Garderobe. Es wirkt klar, grafisch, reduziert und oft sehr souverän. Gleichzeitig ist Schwarz nicht automatisch die beste neutrale Farbe für jede Person.
+**Black**: Black is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Schwarz wirkt
+## In simple words
 
-Schwarz rahmt. Es zieht Linien schärfer, macht Formen deutlicher und bringt sofort mehr Kontrast in ein Outfit. Ein schwarzer Blazer wirkt strukturiert. Ein schwarzes Kleid kann elegant oder streng wirken. Eine schwarze Jeans wirkt ruhiger als ein helles Denim, aber weniger formell als eine schwarze Stoffhose.
+Black gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Wirkung hängt stark vom Kontext ab. Schwarz mit glattem Stoff wirkt präzise. Schwarz in weichem Strick wirkt entspannter. Schwarz in Leder wirkt urban und stärker. Schwarz in Seide oder Satin bekommt Tiefe und Glanz.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Schwarz
+## Why this matters in color styling
 
-Nicht jedes Schwarz ist gleich.
+When you understand Black, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- **Tiefschwarz:** Klar, stark und kontrastreich. Besonders wirkungsvoll bei präzisen Schnitten.
-- **Gewaschenes Schwarz:** Weicher und lässiger. Häufig bei Denim oder Baumwolle.
-- **Anthrazit:** Dunkel, aber weniger hart. Eine gute Alternative, wenn Schwarz zu schwer wirkt.
-- **Schwarzbraun:** Wärmer und tiefer. Besonders schön zu Creme, Camel und Gold.
+With Black, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Schwarz kombinieren
+## What to pay attention to
 
-- **Schwarz + Weiß:** Grafisch, klar und sehr kontrastreich
-- **Schwarz + Creme:** Weicher und eleganter als Schwarz mit Reinweiß
-- **Schwarz + Denim:** Alltagstauglich und modern
-- **Schwarz + Braun:** Ruhig, erwachsen und hochwertig, wenn die Materialien stimmen
-- **Schwarz + Rosa:** Weichheit trifft auf Struktur
+- Check the role of Black in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Schwarz im Business und Alltag
+## Common misconceptions
 
-Im Business wirkt Schwarz am stärksten, wenn der Schnitt klar bleibt und das Material hochwertig ist. Ein schwarzer Blazer, eine schwarze Hose oder ein schwarzer Schuh können einen Look sofort professioneller machen.
+**Misconception:** Black is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Im Alltag braucht Schwarz oft etwas Lebendigkeit. Das kann durch Struktur, Schmuck, einen helleren Ausschnitt, Lippenfarbe oder ein weicheres Material entstehen.
+**Misconception:** Black works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## Für wen und wo Schwarz funktioniert
+## Quick mirror check
 
-Wenn Schwarz nahe am Gesicht zu hart wirkt, muss es nicht aus der Garderobe verschwinden. Es kann als Hose, Rock, Tasche, Schuh oder Gürtel sehr gut funktionieren. Nahe am Gesicht können Anthrazit, Navy, Espresso oder dunkles Braun stimmiger sein.
+Look at “Black” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## ESKYNA-Merksatz
+## ESKYNA note
 
-Schwarz wirkt stark, wenn es bewusst eingesetzt wird. Es ist keine Sicherheitsfarbe, sondern eine klare Stilentscheidung.
+Black works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

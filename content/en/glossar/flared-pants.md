@@ -1,61 +1,93 @@
 ---
-title: "Was sind Flared Pants?"
-term: "Flared Pants"
-description: "Flared Pants sind Hosen mit deutlich ausgestelltem Bein, die Bewegung, Retro-Anmutung und optische Länge in einen Look bringen."
-category: "Garderobe & Alltag"
-tags:
-  - "flared pants"
-  - "hose"
-  - "silhouette"
-  - "proportion"
-keywords:
-  - "flared pants"
-  - "was sind flared pants"
-  - "flared pants kombinieren"
 weight: 5
-image: "images/glossar/flared-pants.png"
-image_alt: "Editoriale Grafik zu Flared Pants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image: images/glossar/flared-pants.png
+title: What does Flared Pants mean?
+seoTitle: Flared Pants explained | ESKYNA Glossary
+term: Flared Pants
+description: Flared Pants is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - flared pants
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - flared pants
+  - what is flared pants
+  - flared pants style advice
+slug: flared-pants
+url: /glossary/flared-pants/
+aliases:
+  - /glossar/flared-pants/
+image_alt: Editorial glossary illustration for Flared Pants
 relatedTerms:
-  - title: "Bootcut"
-    url: "/glossar/bootcut/"
-  - title: "Wide Leg"
-    url: "/glossar/wide-leg/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
+  - title: Bootcut
+    url: /en/glossary/bootcut/
+  - title: Wide Leg
+    url: /en/glossary/wide-leg/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Flared Pants” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Flared Pants” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Flared Pants** sind Hosen, die ab Knie oder Oberschenkel deutlich weiter werden. Die ausgestellte Linie erinnert an die Siebzigerjahre, kann aber je nach Material sehr modern, elegant oder casual wirken.
+**Flared Pants**: Flared Pants is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Der Unterschied zu Bootcut liegt im Volumen. Flared Pants sind sichtbarer ausgestellt und prägen die Silhouette stärker. Dadurch werden sie schnell zum zentralen Element des Outfits.
-In Jersey wirken sie weich und entspannt. In Anzugstoff wirken sie klarer. In Denim bekommen sie eine lässige Retro-Note.
+Flared Pants gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum dieser Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Flared Pants verändern Proportionen sofort. Sie können das Bein optisch verlängern, wenn Bundhöhe, Saumlänge und Schuh stimmen. Gleichzeitig brauchen sie Ruhe im Styling, damit der Look nicht kostümiert wirkt.
+## Why this matters in your wardrobe
 
-## Worauf du achten solltest
+When you understand Flared Pants, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- Ein hoher Bund unterstützt die streckende Wirkung.
-- Der Saum sollte nicht zu kurz sein.
-- Ruhige Oberteile lassen die Hosenform wirken.
-- Fließende Stoffe wirken eleganter als sehr steife Materialien.
+With Flared Pants, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Flared Pants sind nur etwas für große Menschen.  
-**Besser:** Die Form kann auch bei kleinerer Körpergröße funktionieren, wenn Länge und Schuh bewusst gewählt sind.
+- Check the role of Flared Pants in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Flared Pants müssen retro wirken.  
-**Besser:** Mit klaren Farben, schlichten Oberteilen und modernen Schuhen wirken sie zeitgemäß.
+## Common misconceptions
 
-## ESKYNA-Merksatz
+**Misconception:** Flared Pants is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Flared Pants bringen Bewegung in die Silhouette. Ihre Eleganz entsteht durch Länge, Ruhe und klare Proportionen.
+**Misconception:** Flared Pants works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Flared Pants” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Flared Pants works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Bootcut](/en/glossary/bootcut/)
+- [Wide Leg](/en/glossary/wide-leg/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Proportion](/en/glossary/proportion/)
+- [Wardrobe](/en/glossary/wardrobe/)

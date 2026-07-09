@@ -1,0 +1,173 @@
+#!/usr/bin/env node
+"use strict";
+
+const fs = require("fs");
+const path = require("path");
+
+const root = process.cwd();
+const terms = [
+  "farbberatung",
+  "stilberatung",
+  "imageberatung",
+  "personal-style",
+  "signature-look",
+  "kleiderschrank-check",
+  "capsule-wardrobe",
+  "personal-shopping",
+  "garderobenlogik",
+  "stilanalyse",
+  "typberatung",
+  "stil-klarheit",
+  "business-casual",
+  "business-professional",
+  "bewerbungsgespraech",
+  "buehnenoutfit",
+  "farbtyp",
+  "farbtemperatur",
+  "unterton",
+  "kontrast",
+  "proportion",
+  "passform",
+  "schnitt",
+  "wirkung",
+  "ausstrahlung",
+  "praesenz",
+  "personal-branding",
+  "office-look",
+  "business-formal",
+  "linkedin-outfit",
+  "kamera-look",
+  "speaker-outfit",
+  "garderobenstrategie",
+  "garderobenplanung",
+  "reisegarderobe",
+  "anlassgarderobe",
+  "nachhaltige-garderobe",
+  "cost-per-wear",
+  "investitionsteil",
+  "einkaufsliste",
+  "signature-farbe",
+  "farbpalette",
+  "farbprofil",
+  "farbharmonie",
+  "schnittprofil",
+  "wirkungskompetenz",
+  "wirkungsprofil",
+  "alltagsuniform",
+  "garderobe",
+  "farbpass",
+];
+const langs = ["de", "en", "ru"];
+const headings = {
+  de: [
+    "## Beratungssituation im echten Leben",
+    "## Mini-Case: vom Zweifel zur Entscheidung",
+    "## Entscheidungshilfe vor dem nächsten Kauf",
+  ],
+  en: [
+    "## Real consulting situation",
+    "## Mini case: from doubt to decision",
+    "## Decision filter before your next purchase",
+  ],
+  ru: [
+    "## Ситуация из консультации",
+    "## Мини-кейс: от сомнения к решению",
+    "## Фильтр решения перед покупкой",
+  ],
+};
+const minimumWords = { de: 540, en: 540, ru: 540 };
+const issues = [];
+const stats = [];
+
+function splitFrontmatter(text) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (!match) return { fm: "", body: text };
+  return { fm: match[1], body: match[2] };
+}
+
+function wordCount(text) {
+  const normalized = text
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/https?:\/\/\S+/g, " ");
+  const words = normalized.match(/[\p{L}\p{N}][\p{L}\p{N}'’-]*/gu);
+  return words ? words.length : 0;
+}
+
+function hasYamlField(fm, field) {
+  return new RegExp(`^\\s*${field}:`, "m").test(fm);
+}
+
+function getYamlNumber(fm, field) {
+  const match = fm.match(new RegExp(`^${field}:\\s*(\\d+)\\s*$`, "m"));
+  return match ? Number(match[1]) : null;
+}
+
+for (const lang of langs) {
+  const counts = [];
+  const weights = new Set();
+  for (const term of terms) {
+    const rel = path.join("content", lang, "glossar", `${term}.md`);
+    const file = path.join(root, rel);
+    if (!fs.existsSync(file)) {
+      issues.push(`${lang}: missing ${rel}`);
+      continue;
+    }
+    const text = fs.readFileSync(file, "utf8");
+    const { fm, body } = splitFrontmatter(text);
+    const wc = wordCount(body);
+    counts.push(wc);
+    if (wc < minimumWords[lang]) issues.push(`${lang}: ${rel} has only ${wc} words`);
+    if (!/^commercial_intent:\s*true\s*$/m.test(fm))
+      issues.push(`${lang}: ${rel} missing commercial_intent: true`);
+    if (!/^content_level:\s*commercial-pillar\s*$/m.test(fm))
+      issues.push(`${lang}: ${rel} missing content_level: commercial-pillar`);
+    if (!/^editorial_depth:\s*mini-case-offer-bridge\s*$/m.test(fm))
+      issues.push(`${lang}: ${rel} missing editorial_depth`);
+    const weight = getYamlNumber(fm, "commercial_weight");
+    if (!weight) issues.push(`${lang}: ${rel} missing numeric commercial_weight`);
+    else weights.add(weight);
+    for (const field of [
+      "commercial_cluster",
+      "consulting_focus",
+      "consulting_questions",
+      "offer_bridge",
+      "primary_url",
+      "secondary_url",
+      "primary_label",
+      "secondary_label",
+    ]) {
+      if (!hasYamlField(fm, field)) issues.push(`${lang}: ${rel} missing ${field}`);
+    }
+    const questionBlock = fm.match(/^consulting_questions:\n((?:\s*-\s+.*\n?)+)/m);
+    const questionCount = questionBlock ? (questionBlock[1].match(/^\s*-\s+/gm) || []).length : 0;
+    if (questionCount < 3) issues.push(`${lang}: ${rel} has fewer than 3 consulting questions`);
+    if (
+      !body.includes("<!-- commercial-depth-start -->") ||
+      !body.includes("<!-- commercial-depth-end -->")
+    ) {
+      issues.push(`${lang}: ${rel} missing commercial depth markers`);
+    }
+    for (const heading of headings[lang]) {
+      if (!body.includes(heading)) issues.push(`${lang}: ${rel} missing heading ${heading}`);
+    }
+  }
+  if (weights.size < terms.length)
+    issues.push(`${lang}: commercial_weight values are not unique across all commercial terms`);
+  const min = Math.min(...counts);
+  const avg = counts.reduce((sum, val) => sum + val, 0) / counts.length;
+  stats.push({ lang, pages: counts.length, min, avg: Number(avg.toFixed(1)) });
+}
+
+console.log("Commercial glossary stats");
+console.table(stats);
+
+if (issues.length) {
+  console.error(`\nCommercial glossary check failed with ${issues.length} issue(s):`);
+  for (const issue of issues.slice(0, 100)) console.error(`- ${issue}`);
+  if (issues.length > 100) console.error(`- ... ${issues.length - 100} more`);
+  process.exit(1);
+}
+
+console.log("\nCommercial glossary check passed.");

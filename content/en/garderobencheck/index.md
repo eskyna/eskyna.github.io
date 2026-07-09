@@ -1,7 +1,10 @@
 ---
-title: "Wardrobe check"
-eyebrow: "Your basic wardrobe check"
-image: "images/portraits/natalia-garderobencheck-portrait.png"
+title: Wardrobe check
+eyebrow: Your basic wardrobe check
+image: images/portraits/natalia-garderobencheck-portrait.png
+url: /wardrobe-check/
+aliases:
+  - /garderobencheck/
 ---
 
 With this **wardrobe check**, you can quickly find out whether you have a solid foundation and which

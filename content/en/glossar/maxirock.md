@@ -1,53 +1,93 @@
 ---
-title: "Was ist ein Maxirock?"
-term: "Maxirock"
-description: "Ein Maxirock ist ein langer Rock, der viel Fläche bildet und deshalb besonders bewusst kombiniert werden sollte."
-category: "Kleider & Röcke"
-tags: ["maxirock", "rock", "saumlänge", "proportion"]
-keywords: ["maxirock", "was ist ein maxirock", "maxirock kombinieren"]
 weight: 8
-image: "images/glossar/maxirock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxirock mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/maxirock.png
+title: What does Maxi Skirt mean?
+seoTitle: Maxi Skirt explained | ESKYNA Glossary
+term: Maxi Skirt
+description:
+  Maxi Skirt describes a dress or skirt shape, length, or styling cue that changes proportion
+  and occasion impact.
+category: Dresses & Skirts
+tags:
+  - maxi skirt
+  - dresses & skirts
+  - style glossary
+keywords:
+  - maxi skirt
+  - what is maxi skirt
+  - maxi skirt style advice
+slug: maxi-skirt
+url: /glossary/maxi-skirt/
+aliases:
+  - /glossar/maxirock/
+image_alt: Editorial glossary illustration for Maxi Skirt
 relatedTerms:
-  - title: "Rocklänge"
-    url: "/glossar/rocklange/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Dress
+    url: /en/glossary/dress/
+  - title: Skirt
+    url: /en/glossary/skirt/
+  - title: Skirt Length
+    url: /en/glossary/skirt-length/
+  - title: Hem Length
+    url: /en/glossary/hem-length/
+faq:
+  items:
+    - q: How can I use “Maxi Skirt” in real outfits?
+      a: Use it as a checkpoint for length, silhouette, movement, and occasion. Use it to check how
+        a dress or skirt changes proportion, comfort, and the overall mood of the look.
+    - q: Does “Maxi Skirt” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Maxirock**: Ein Maxirock ist ein langer Rock, der meist bis zum Knöchel oder Boden reicht. Er kann schmal, ausgestellt, fließend oder strukturiert sein. Seine Wirkung entsteht durch Länge, Material und Volumen.
+**Maxi Skirt**: Maxi Skirt describes a dress or skirt shape, length, or styling cue that changes proportion and occasion impact.
 
-## Einfach erklärt
+## In simple words
 
-Ein Maxirock bildet eine große Fläche im Outfit. Deshalb wirkt die Farbe besonders stark. Ein schwarzer Maxirock wirkt klar und grafisch. Ein beiger Leinenrock wirkt natürlich. Ein Satinrock in Maxilänge wirkt weicher und eleganter.
+Maxi Skirt gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Proportion entscheidet, ob der Look leicht oder schwer wirkt. Kürzere Oberteile, eingesteckte Shirts oder taillierte Jacken können dem langen Rock mehr Struktur geben.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Maxirock wichtig ist
+## Why this matters for dresses and skirts
 
-Maxiröcke sind wertvoll, wenn ein Look Bewegung und Länge bekommen soll. Sie können sehr feminin wirken, aber auch reduziert und modern, wenn die Linien klar bleiben.
+When you understand Maxi Skirt, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Maxi Skirt, length, fabric, waist position, and shoe choice decide whether the line feels light, grounded, feminine, formal, or modern.
 
-- Achte darauf, dass der Rock beim Gehen nicht stört.
-- Kombiniere viel Länge mit einem klaren Oberteil.
-- Prüfe, ob der Bund an der richtigen Stelle sitzt.
-- Wähle Schuhe, die unter dem Saum bewusst wirken.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Maxi Skirt in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Maxiröcke sind immer romantisch.  
-**Besser:** In klaren Farben und glatten Materialien können sie sehr modern wirken.
+## Common misconceptions
 
-**Missverständnis:** Ein langer Rock braucht immer Absatz.  
-**Besser:** Auch Loafer, Sandalen oder Sneaker können funktionieren, wenn die Länge stimmt.
+**Misconception:** Maxi Skirt is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Maxi Skirt works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Maxirock bringt Länge in den Look. Damit sie elegant wirkt, braucht sie klare Proportionen.
+## Quick mirror check
+
+Look at “Maxi Skirt” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Maxi Skirt works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Proportion](/en/glossary/proportion/)
+- [Dress](/en/glossary/dress/)
+- [Skirt](/en/glossary/skirt/)
+- [Skirt Length](/en/glossary/skirt-length/)
+- [Hem Length](/en/glossary/hem-length/)

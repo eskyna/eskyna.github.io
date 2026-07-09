@@ -13,6 +13,13 @@
 {{ $offersHref := or .Params.offers_back.href "#angebote" }}
 {{ $offersLabel := or .Params.offers_back.label (or $ui.offers_back_label "Back to offers") }}
 {{ $variantsHeading := or .Params.variants_heading (or $ui.variants_heading "Choose the right format") }}
+{{ $variantItems := $variants }}
+{{ if and $variants (reflect.IsMap $variants) (isset $variants "items") }}
+  {{ $variantItems = $variants.items }}
+{{ end }}
+{{ if and (eq $variantsHeading (or $ui.variants_heading "Choose the right format")) $variants (reflect.IsMap $variants) (isset $variants "title") $variants.title }}
+  {{ $variantsHeading = $variants.title }}
+{{ end }}
 {{ $normalizedOffersHref := strings.TrimPrefix "/" $offersHref }}
 {{ $resolvedOffersHref := cond (hasPrefix $offersHref "#") $offersHref ($normalizedOffersHref | relLangURL) }}
 {{ $priceLabelFinal := i18n "price_label_final" }}
@@ -146,12 +153,12 @@
   </section>
   {{ end }}
 
-  {{ if $variants }}
+  {{ if $variantItems }}
   <section class="section offer-variants-section">
     <div class="container">
       <h2>{{ $variantsHeading }}</h2>
       <div class="offer-variants-grid">
-        {{ range $variants }}
+        {{ range $variantItems }}
           {{ $showVariantPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
           <article class="offer-variant-card">
             <h3>{{ .title }}</h3>

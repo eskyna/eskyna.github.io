@@ -1,62 +1,94 @@
 ---
-title: "Was ist ein Overshirt?"
-term: "Overshirt"
-description: "Ein Overshirt ist eine Hemdjacke zwischen Hemd und leichter Jacke und eignet sich gut für Layering und Übergangslooks."
-category: "Garderobe & Alltag"
-tags:
-  - "overshirt"
-  - "hemdjacke"
-  - "layering"
-  - "jacke"
-keywords:
-  - "overshirt"
-  - "was ist ein overshirt"
-  - "hemdjacke kombinieren"
 weight: 5
-image: "images/glossar/overshirt.png"
-image_alt: "Editoriale Grafik mit stilisiertem Overshirt, Taschen und klarer Hemdjackenform"
+image: images/glossar/overshirt.png
+title: What does Overshirt mean?
+seoTitle: Overshirt explained | ESKYNA Glossary
+term: Overshirt
+description:
+  Overshirt is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - overshirt
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - overshirt
+  - what is overshirt
+  - overshirt style advice
+slug: overshirt
+url: /glossary/overshirt/
+aliases:
+  - /glossar/overshirt/
+image_alt: Editorial glossary illustration for Overshirt
 relatedTerms:
-  - title: "Hemd"
-    url: "/glossar/hemd/"
-  - title: "Layering"
-    url: "/glossar/layering/"
-  - title: "Jacke"
-    url: "/glossar/blazer/"
-  - title: "T-Shirt"
-    url: "/glossar/t-shirt/"
-  - title: "Jeans"
-    url: "/glossar/jeans/"
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: T-Shirt
+    url: /en/glossary/t-shirt/
+  - title: Jeans
+    url: /en/glossary/jeans/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Overshirt” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Overshirt” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Overshirt** ist eine Hemdjacke. Es ist stärker und oft dicker als ein Hemd, aber leichter als eine klassische Jacke. Dadurch eignet es sich besonders gut für Layering.
+**Overshirt**: Overshirt is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Overshirt kann offen über T-Shirt, Longsleeve oder Pullover getragen werden. Es bringt Struktur, ohne so formell wie ein Blazer zu wirken. Je nach Material kann es casual, workwear-inspiriert oder sehr reduziert erscheinen.
+Overshirt gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Typisch sind eine Knopfleiste, Hemdkragen und oft Brusttaschen. Die Länge liegt meist zwischen Hemd und Jacke.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters in your wardrobe
 
-Für ESKYNA ist das Overshirt ein praktisches Übergangsteil. Es verbindet Komfort mit Struktur und kann einem einfachen Outfit sofort mehr Tiefe geben.
+When you understand Overshirt, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Overshirt, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-- Achte darauf, dass genug Platz für eine Schicht darunter bleibt.
-- Wähle Material und Farbe passend zur gewünschten Wirkung.
-- Brusttaschen machen den Look funktionaler und lässiger.
-- Die Länge sollte zur Hose oder zum Rock passen.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Overshirt in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ein Overshirt ist nur ein zu großes Hemd.  
-**Besser:** Ein gutes Overshirt ist als leichte Jacke konstruiert und hat mehr Stand.
+## Common misconceptions
 
-**Missverständnis:** Overshirts sind immer casual.  
-**Besser:** In Wolle, Twill oder ruhigen Farben können sie sehr gepflegt wirken.
+**Misconception:** Overshirt is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Overshirt works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Overshirt ist Struktur ohne Strenge. Genau darin liegt seine Stärke.
+## Quick mirror check
+
+Look at “Overshirt” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Overshirt works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Layering](/en/glossary/layering/)
+- [Blazer](/en/glossary/blazer/)
+- [T-Shirt](/en/glossary/t-shirt/)
+- [Jeans](/en/glossary/jeans/)
+- [Wardrobe](/en/glossary/wardrobe/)

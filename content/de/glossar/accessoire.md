@@ -1,40 +1,60 @@
 ---
-title: "Was ist ein Accessoire?"
-term: "Accessoire"
-description: "Ein Accessoire ist ein ergänzendes Detail wie Tasche, Gürtel, Schmuck, Tuch, Schuh oder Brille."
-category: "Materialien & Details"
-tags: ["accessoire", "schmuck", "tasche", "gürtel", "styling"]
-keywords: ["accessoire", "was ist ein accessoire", "accessoires kombinieren", "outfit accessoires"]
+title: Was ist ein Accessoire?
+term: Accessoire
+description: Ein Accessoire ist ein ergänzendes Detail wie Tasche, Gürtel, Schmuck, Tuch, Schuh oder
+  Brille.
+category: Materialien & Details
+tags:
+  - accessoire
+  - schmuck
+  - tasche
+  - gürtel
+  - styling
+keywords:
+  - accessoire
+  - was ist ein accessoire
+  - accessoires kombinieren
+  - outfit accessoires
 weight: 7
-image: "images/glossar/accessoire.png"
-image_alt: "Editoriale Grafik mit Tasche, Schmuckkreis, Gürtel und ruhigen Akzentflächen"
+image: images/glossar/accessoire.png
+image_alt: Editoriale Grafik mit Tasche, Schmuckkreis, Gürtel und ruhigen Akzentflächen
 relatedTerms:
-  - title: "Feinschmuck"
-    url: "/glossar/feinschmuck/"
-  - title: "Brille"
-    url: "/glossar/brille/"
-  - title: "Schal"
-    url: "/glossar/schal/"
-  - title: "Tote Bag"
-    url: "/glossar/tote-bag/"
-  - title: "Gürtel"
-    url: "/glossar/guertel/"
-  - title: "Statement-Piece"
-    url: "/glossar/statement-piece/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Quiet Luxury"
-    url: "/glossar/quiet-luxury/"
-  - title: "Metallic"
-    url: "/glossar/metallic/"
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Silber"
-    url: "/glossar/silber/"
+  - title: Feinschmuck
+    url: /glossar/feinschmuck/
+  - title: Brille
+    url: /glossar/brille/
+  - title: Schal
+    url: /glossar/schal/
+  - title: Tote Bag
+    url: /glossar/tote-bag/
+  - title: Gürtel
+    url: /glossar/guertel/
+  - title: Statement-Piece
+    url: /glossar/statement-piece/
+  - title: Outfit-Formel
+    url: /glossar/outfit-formel/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Farbtyp
+    url: /glossar/farbtyp/
+  - title: Quiet Luxury
+    url: /glossar/quiet-luxury/
+  - title: Metallic
+    url: /glossar/metallic/
+  - title: Gold
+    url: /glossar/gold/
+  - title: Silber
+    url: /glossar/silber/
+faq:
+  items:
+    - q: Wie nutze ich „Accessoire“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Accessoire“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -72,3 +92,17 @@ Für ESKYNA sind Accessoires die feinen Signale eines Looks. Sie zeigen, ob etwa
 ## ESKYNA-Merksatz
 
 Accessoires sind die Satzzeichen eines Outfits. Sie machen sichtbar, wie der Look gelesen werden soll.
+
+## Praxischeck
+
+Wenn du den Begriff **Accessoire** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+
+- Fühle Griff, Gewicht und Stand des Materials.
+- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
+- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+
+## Beratungsblick
+
+In der Beratung ist **Accessoire** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

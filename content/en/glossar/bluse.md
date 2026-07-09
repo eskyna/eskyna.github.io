@@ -1,60 +1,94 @@
 ---
-title: "Was ist eine Bluse?"
-term: "Bluse"
-description: "Eine Bluse ist ein gewebtes Oberteil, das je nach Stoff, Schnitt und Detail weich, klar, feminin oder modern wirken kann."
-category: "Garderobe & Alltag"
-tags: ["bluse", "oberteil", "viskose", "seide", "business casual"]
-keywords: ["bluse", "was ist eine bluse", "bluse kombinieren", "bluse material"]
 weight: 15
-image: "images/glossar/bluse.png"
-image_alt: "Editoriale Grafik mit weich fallender Bluse, Kragenlinie und feinen Materialflächen"
+image: images/glossar/bluse.png
+title: What does Blouse mean?
+seoTitle: Blouse explained | ESKYNA Glossary
+term: Blouse
+description:
+  Blouse is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - blouse
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - blouse
+  - what is blouse
+  - blouse style advice
+slug: blouse
+url: /glossary/blouse/
+aliases:
+  - /glossar/bluse/
+image_alt: Editorial glossary illustration for Blouse
 relatedTerms:
-  - title: "Hemd"
-    url: "/glossar/hemd/"
-  - title: "Seide"
-    url: "/glossar/seide/"
-  - title: "Viskose"
-    url: "/glossar/viskose/"
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Camisole"
-    url: "/glossar/camisole/"
+  - title: Business Casual
+    url: /en/glossary/business-casual/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+  - title: Buying Criteria
+    url: /en/glossary/buying-criteria/
+faq:
+  items:
+    - q: How can I use “Blouse” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Blouse” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Bluse** ist ein gewebtes Oberteil, das in vielen Formen vorkommt: mit Kragen, ohne Kragen, mit Knopfleiste, mit Schleife, mit Volumenärmeln oder ganz reduziert. Sie wirkt je nach Stoff und Schnitt weich, klar, feminin oder modern.
+**Blouse**: Blouse is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Eine Bluse unterscheidet sich vom T-Shirt vor allem durch das Material. Sie ist meist aus Webstoff und fällt dadurch anders. Baumwolle wirkt frischer und strukturierter. Viskose wirkt weicher und fließender. Seide bringt Glanz und Eleganz. Satin kann festlicher wirken, Popeline klarer.
+Blouse gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Blusen können sehr unterschiedlich gelesen werden. Eine weiße Hemdbluse wirkt präzise. Eine fließende Bluse in Creme wirkt weich. Eine Bluse mit Schleife wirkt romantischer. Eine schlichte Bluse in Navy kann sehr professionell wirken.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Blusen wichtig sind
+## Why this matters in your wardrobe
 
-Eine Bluse kann einem Outfit sofort mehr Bewusstsein geben. Sie ist eine gute Brücke zwischen Alltag und Anlass, weil sie mit Jeans, Chinos, Rock, Marlenehose oder Blazer funktioniert.
+When you understand Blouse, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA sind Blusen besonders spannend, weil sie nahe am Gesicht liegen. Farbe, Ausschnitt, Kragenform und Material beeinflussen die Wirkung unmittelbar.
+With Blouse, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei Blusen achten solltest
+## What to pay attention to
 
-- Der Stoff sollte fallen, ohne zu ziehen oder durchsichtig zu wirken.
-- Die Farbe nahe am Gesicht sollte deine Ausstrahlung unterstützen.
-- Der Ausschnitt entscheidet, ob der Look offen, weich oder streng wirkt.
-- Ärmel und Manschetten prägen die Eleganz des Oberteils.
-- Die Länge sollte zu Hose, Rock und Styling passen.
+- Check the role of Blouse in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Blusen sind immer feminin oder verspielt.  
-**Besser:** Blusen können auch minimalistisch, grafisch, souverän oder sehr modern wirken.
+**Misconception:** Blouse is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Eine weiße Bluse passt immer.  
-**Besser:** Weißnuance, Stoffdichte und Schnitt entscheiden, ob sie frisch oder zu hart wirkt.
+**Misconception:** Blouse works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Eine Bluse wirkt nicht nur durch ihre Form. Sie wirkt durch Nähe zum Gesicht, Material und Bewegung.
+Look at “Blouse” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Blouse works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Business Casual](/en/glossary/business-casual/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)
+- [Buying Criteria](/en/glossary/buying-criteria/)

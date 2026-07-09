@@ -1,31 +1,49 @@
 ---
-title: "Blau im Stil erklärt"
-term: "Blau"
-description: "Blau wirkt ruhig, klar und vielseitig. Je nach Nuance kann es frisch, sachlich, weich oder souverän erscheinen."
-category: "Farb-Lexikon"
+title: Blau im Stil erklärt
+term: Blau
+description: Blau wirkt ruhig, klar und vielseitig. Je nach Nuance kann es frisch, sachlich, weich
+  oder souverän erscheinen.
+category: Farb-Lexikon
 color_hex: "#547EA8"
-tags: ["blau", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["blau kleidung", "blau kombinieren", "hellblau navy", "stilberatung"]
+tags:
+  - blau
+  - farbe
+  - farbberatung
+  - farbwirkung
+keywords:
+  - blau kleidung
+  - blau kombinieren
+  - hellblau navy
+  - stilberatung
 weight: 6
-image: "images/glossar/blau.png"
-image_alt: "Editoriale Grafik mit Blau-Nuancen, Denimflächen und klaren Farbkombinationen"
+image: images/glossar/blau.png
+image_alt: Editoriale Grafik mit Blau-Nuancen, Denimflächen und klaren Farbkombinationen
 relatedTerms:
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Hellblau"
-    url: "/glossar/hellblau/"
-  - title: "Türkis"
-    url: "/glossar/tuerkis/"
-  - title: "Petrol"
-    url: "/glossar/petrol/"
+  - title: Navy
+    url: /glossar/navy/
+  - title: Weiß
+    url: /glossar/weiss/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Unterton
+    url: /glossar/unterton/
+  - title: Farbtyp
+    url: /glossar/farbtyp/
+  - title: Hellblau
+    url: /glossar/hellblau/
+  - title: Türkis
+    url: /glossar/tuerkis/
+  - title: Petrol
+    url: /glossar/petrol/
+faq:
+  items:
+    - q: Wie nutze ich „Blau“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Blau“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Blau
@@ -61,6 +79,10 @@ Im Business ist Blau besonders tragfähig. Hellblaue Hemden, navyfarbene Blazer 
 ## Für wen und wo Blau funktioniert
 
 Blau kann kühl, klar, gedeckt oder fast neutral wirken. Deshalb lohnt sich der Blick auf Helligkeit, Sättigung und [Kontrast](/glossar/kontrast/). Wenn ein klares Blau zu stark wirkt, kann ein gedämpftes Blau oder Denim besser funktionieren. Wenn ein weiches Blau zu blass wirkt, hilft eine intensivere Nuance.
+
+## Mini-Test vor dem Spiegel
+
+Betrachte „Blau“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
 
 ## ESKYNA-Merksatz
 

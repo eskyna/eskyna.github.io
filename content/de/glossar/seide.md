@@ -1,28 +1,49 @@
 ---
-title: "Was ist Seide?"
-term: "Seide"
-description: "Seide ist eine feine Naturfaser mit edlem Glanz, weichem Fall und einer besonders ruhigen, hochwertigen Wirkung."
-category: "Materialien & Details"
-tags: ["seide", "material", "naturfaser", "glanz", "eleganz"]
-keywords: ["seide", "was ist seide", "seide kleidung", "seidenbluse"]
+title: Was ist Seide?
+term: Seide
+description:
+  Seide ist eine feine Naturfaser mit edlem Glanz, weichem Fall und einer besonders ruhigen,
+  hochwertigen Wirkung.
+category: Materialien & Details
+tags:
+  - seide
+  - material
+  - naturfaser
+  - glanz
+  - eleganz
+keywords:
+  - seide
+  - was ist seide
+  - seide kleidung
+  - seidenbluse
 weight: 4
-image: "images/glossar/seide.png"
-image_alt: "Editoriale Grafik mit schimmernder Seidenbahn, feiner Lichtkante und ruhigen Farbfeldern"
+image: images/glossar/seide.png
+image_alt: Editoriale Grafik mit schimmernder Seidenbahn, feiner Lichtkante und ruhigen Farbfeldern
 relatedTerms:
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Viskose"
-    url: "/glossar/viskose/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Camisole"
-    url: "/glossar/camisole/"
-  - title: "Slip Dress"
-    url: "/glossar/slip-dress/"
+  - title: Glanzgrad
+    url: /glossar/glanzgrad/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Viskose
+    url: /glossar/viskose/
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Camisole
+    url: /glossar/camisole/
+  - title: Slip Dress
+    url: /glossar/slip-dress/
+faq:
+  items:
+    - q: Wie nutze ich „Seide“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Seide“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -60,3 +81,17 @@ Für ESKYNA ist Seide ein Material für bewusste Akzente. Nicht jedes Outfit bra
 ## ESKYNA-Merksatz
 
 Seide ist leise Wertigkeit. Sie wirkt am schönsten, wenn Glanz, Farbe und Schnitt bewusst dosiert sind.
+
+## Praxischeck
+
+Wenn du den Begriff **Seide** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+
+- Fühle Griff, Gewicht und Stand des Materials.
+- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
+- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+
+## Beratungsblick
+
+In der Beratung ist **Seide** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

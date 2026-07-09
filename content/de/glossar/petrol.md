@@ -1,25 +1,44 @@
 ---
-title: "Petrol im Stil erklärt"
-term: "Petrol"
-description: "Petrol ist ein tiefer Blaugrün-Ton. Er wirkt farbig, aber ruhig und oft eleganter als Türkis."
-category: "Farb-Lexikon"
+title: Petrol im Stil erklärt
+term: Petrol
+description: Petrol ist ein tiefer Blaugrün-Ton. Er wirkt farbig, aber ruhig und oft eleganter als
+  Türkis.
+category: Farb-Lexikon
 color_hex: "#1F5F63"
-tags: ["petrol", "blaugruen", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["petrol kleidung", "petrol kombinieren", "petrol farbe", "farbberatung"]
+tags:
+  - petrol
+  - blaugruen
+  - farbe
+  - farbberatung
+  - farbwirkung
+keywords:
+  - petrol kleidung
+  - petrol kombinieren
+  - petrol farbe
+  - farbberatung
 weight: 22
-image: "images/glossar/petrol.png"
-image_alt: "Editoriale Grafik zu Petrol mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/petrol.png
+image_alt: Editoriale Grafik zu Petrol mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Türkis"
-    url: "/glossar/tuerkis/"
-  - title: "Blau"
-    url: "/glossar/blau/"
-  - title: "Grün"
-    url: "/glossar/gruen/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
+  - title: Türkis
+    url: /glossar/tuerkis/
+  - title: Blau
+    url: /glossar/blau/
+  - title: Grün
+    url: /glossar/gruen/
+  - title: Navy
+    url: /glossar/navy/
+  - title: Bordeaux
+    url: /glossar/bordeaux/
+faq:
+  items:
+    - q: Wie nutze ich „Petrol“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Petrol“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Petrol
@@ -60,3 +79,17 @@ Petrol ist oft leichter zu tragen als sehr helle Blaugrün-Töne. Wenn die Farbe
 ## ESKYNA-Merksatz
 
 Petrol ist Farbe mit Tiefe. Präsent genug für Persönlichkeit und ruhig genug für Eleganz.
+
+## Praxischeck
+
+Wenn du den Begriff **Petrol** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Petrol** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

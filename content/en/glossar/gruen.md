@@ -1,67 +1,94 @@
 ---
-title: "Grün im Stil erklärt"
-term: "Grün"
-description: "Grün wirkt natürlich, lebendig und ausgleichend. Die Nuance entscheidet zwischen weich, frisch, erdig und elegant."
-category: "Farb-Lexikon"
-color_hex: "#6F8062"
-tags: ["grün", "gruen", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["grün kleidung", "gruen kombinieren", "oliv salbei smaragd", "stilberatung"]
 weight: 7
-image: "images/glossar/gruen.png"
-image_alt: "Editoriale Grafik mit Grün-Nuancen, Naturtönen und eleganten Kombinationsflächen"
+image: images/glossar/gruen.png
+color_hex: "#6F8062"
+title: What does Green mean?
+seoTitle: Green explained | ESKYNA Glossary
+term: Green
+description: Green is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - green
+  - color lexicon
+  - style glossary
+keywords:
+  - green
+  - what is green
+  - green style advice
+slug: green
+url: /glossary/green/
+aliases:
+  - /glossar/gruen/
+image_alt: Editorial glossary illustration for Green
 relatedTerms:
-  - title: "Blau"
-    url: "/glossar/blau/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Braun"
-    url: "/glossar/braun/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Salbeigrün"
-    url: "/glossar/salbeigruen/"
-  - title: "Oliv"
-    url: "/glossar/oliv/"
-  - title: "Khaki"
-    url: "/glossar/khaki/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Green” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Green” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Grün
+## Definition
 
-Grün wirkt natürlich, lebendig und ausgleichend. Es kann weich, frisch, sportlich, erdig oder sehr elegant erscheinen. Keine andere Wirkung zeigt so deutlich, wie wichtig die genaue Nuance ist.
+**Green**: Green is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Grün wirkt
+## In simple words
 
-Ein helles, klares Grün wirkt wach und energetisch. Salbeigrün wirkt ruhig und modern. Oliv wirkt erdig und urban. Smaragdgrün wirkt luxuriöser und stärker. Tannengrün wirkt tief und erwachsen.
+Green gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Material und Schnitt bestimmen, ob Grün natürlich oder elegant gelesen wird. Grün in Leinen wirkt entspannt. Grün in Seide wirkt edel. Grün in Wolle wirkt warm und tief. Grün in einem klaren Blazerstoff kann sehr souverän aussehen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Grün
+## Why this matters in color styling
 
-- **Salbeigrün:** Gedämpft, weich und modern. Schön zu Creme, Beige und Gold.
-- **Oliv:** Erdiger und urbaner. Funktioniert gut mit Schwarz, Denim und Cognac.
-- **Smaragdgrün:** Tief, klar und präsent. Wirkt besonders stark in Seide, Samt oder Wolle.
-- **Tannengrün:** Dunkel, ruhig und erwachsen. Eine elegante Alternative zu Navy oder Schwarz.
-- **Grasgrün:** Frisch und energiegeladen. Am besten bewusst dosiert.
+When you understand Green, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Grün kombinieren
+With Green, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-- **Grün + Creme:** Ruhig, hell und natürlich
-- **Grün + Braun:** Warm, geerdet und hochwertig
-- **Grün + Navy:** Klar, erwachsen und elegant
-- **Grün + Denim:** Entspannt und modern
-- **Grün + Gold:** Wärmer, feiner und etwas festlicher
+## What to pay attention to
 
-## Grün im Business und Alltag
+- Check the role of Green in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-Im Business funktioniert Grün besonders gut in gedämpften oder dunklen Nuancen. Salbei, Oliv, Tanne oder tiefes Smaragd wirken ruhiger als ein sehr klares Grün. Im Alltag kann Grün über Strick, Blusen, Hosen, Taschen oder Tücher viel Persönlichkeit in neutrale Garderoben bringen.
+## Common misconceptions
 
-## Für wen und wo Grün funktioniert
+**Misconception:** Green is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Grün kann warm, kühl, hell, dunkel, klar oder gedämpft sein. Deshalb ist der [Unterton](/glossar/unterton/) entscheidend. Wenn Grün nahe am Gesicht schwierig wirkt, kann es als Hose, Rock, Tasche, Schuh oder Muster trotzdem sehr schön funktionieren.
+**Misconception:** Green works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Grün ist Natürlichkeit mit Präsenz. Die richtige Nuance macht es ruhig, modern oder außergewöhnlich.
+Look at “Green” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Green works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

@@ -1,58 +1,92 @@
 ---
-title: "Was ist eine Culotte?"
-term: "Culotte"
-description: "Eine Culotte ist eine verkürzte, weit geschnittene Hose, die zwischen Hose und Rock wirkt und klare Proportionen braucht."
-category: "Schnitt, Proportion & Passform"
-tags: ["culotte", "hose", "proportion", "silhouette", "passform"]
-keywords: ["culotte", "was ist eine culotte", "culotte kombinieren", "weite hose"]
 weight: 11
-image: "images/glossar/culotte.png"
-image_alt: "Editoriale Grafik mit stilisierter Culotte, weiter Beinlinie und ruhigen Proportionsfeldern"
+image: images/glossar/culotte.png
+title: What does Culotte mean?
+seoTitle: Culotte explained | ESKYNA Glossary
+term: Culotte
+description: Culotte is a cut, proportion, or fit detail that helps you understand silhouette and
+  make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - culotte
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - culotte
+  - what is culotte
+  - culotte style advice
+slug: culotte
+url: /glossary/culotte/
+aliases:
+  - /glossar/culotte/
+image_alt: Editorial glossary illustration for Culotte
 relatedTerms:
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Loafer"
-    url: "/glossar/loafer/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Loafer
+    url: /en/glossary/loafer/
+  - title: Chinos
+    url: /en/glossary/chinos/
+  - title: Fit
+    url: /en/glossary/fit/
+faq:
+  items:
+    - q: How can I use “Culotte” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Culotte” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Culotte** ist eine verkürzte, weit geschnittene Hose. Sie endet meist zwischen Knie und Wade oder kurz über dem Knöchel. Durch die Weite kann sie fast wie ein Rock wirken, bleibt aber eine Hose.
+**Culotte**: Culotte is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Die Culotte lebt von Luft und Bewegung. Sie ist nicht eng, sondern bewusst weit. Genau deshalb braucht sie klare Proportionen. Die Länge, der Schuh und das Oberteil entscheiden, ob sie elegant, modern oder eher schwer wirkt.
+Culotte gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Eine Culotte aus fließender Viskose wirkt weich und feminin. Eine Culotte aus Baumwolle oder Twill wirkt klarer und lässiger. In Schwarz, Navy oder Creme kann sie sehr ruhig aussehen. In Muster oder kräftiger Farbe wird sie stärker zum Blickfang.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum eine Culotte wichtig ist
+## Why this matters for proportion
 
-Die Culotte ist eine gute Alternative zu Rock, Kleid oder klassischer Hose. Sie bietet Bewegungsfreiheit und kann dennoch gepflegt wirken. Besonders in warmen Monaten oder in kreativen Business-Umfeldern kann sie ein starker Baustein sein.
+When you understand Culotte, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist die Culotte ein gutes Beispiel für Proportion. Sie kann wunderbar strecken, wenn Länge und Schuh stimmen. Sie kann aber auch stauchen, wenn der Saum an einer ungünstigen Stelle endet.
+With Culotte, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-## Worauf du bei einer Culotte achten solltest
+## What to pay attention to
 
-- Der Saum sollte an einer stimmigen Stelle des Beins enden.
-- Ein höherer Bund kann die Beinlinie verlängern.
-- Schmale oder klare Schuhe geben der Weite mehr Ruhe.
-- Das Oberteil sollte die Proportion bewusst ausgleichen.
-- Der Stofffall entscheidet, ob die Culotte weich oder architektonisch wirkt.
+- Check the role of Culotte in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Culottes sind schwierig zu tragen.  
-**Besser:** Culottes brauchen nur eine bewusste Längenentscheidung und passende Schuhe.
+**Misconception:** Culotte is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Weite Hosen machen den Look automatisch voluminös.  
-**Besser:** Weite kann sehr elegant wirken, wenn Taille, Saum und Material stimmig sind.
+**Misconception:** Culotte works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Eine Culotte ist keine halbe Hose. Sie ist eine bewusste Silhouette, die durch Proportion elegant wird.
+Look at “Culotte” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Culotte works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Proportion](/en/glossary/proportion/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Loafer](/en/glossary/loafer/)
+- [Chinos](/en/glossary/chinos/)
+- [Fit](/en/glossary/fit/)

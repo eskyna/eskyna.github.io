@@ -1,53 +1,93 @@
 ---
-title: "Was ist ein Maxikleid?"
-term: "Maxikleid"
-description: "Ein Maxikleid ist ein langes Kleid, das meist bis zum Knöchel oder Boden reicht und je nach Material lässig oder elegant wirken kann."
-category: "Kleider & Röcke"
-tags: ["maxikleid", "kleid", "saumlänge", "silhouette"]
-keywords: ["maxikleid", "was ist ein maxikleid", "maxikleid kombinieren"]
 weight: 5
-image: "images/glossar/maxikleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxikleid mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/maxikleid.png
+title: What does Maxi Dress mean?
+seoTitle: Maxi Dress explained | ESKYNA Glossary
+term: Maxi Dress
+description:
+  Maxi Dress describes a dress or skirt shape, length, or styling cue that changes proportion
+  and occasion impact.
+category: Dresses & Skirts
+tags:
+  - maxi dress
+  - dresses & skirts
+  - style glossary
+keywords:
+  - maxi dress
+  - what is maxi dress
+  - maxi dress style advice
+slug: maxi-dress
+url: /glossary/maxi-dress/
+aliases:
+  - /glossar/maxikleid/
+image_alt: Editorial glossary illustration for Maxi Dress
 relatedTerms:
-  - title: "Kleid"
-    url: "/glossar/kleid/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Dress
+    url: /en/glossary/dress/
+  - title: Skirt
+    url: /en/glossary/skirt/
+  - title: Skirt Length
+    url: /en/glossary/skirt-length/
+  - title: Hem Length
+    url: /en/glossary/hem-length/
+faq:
+  items:
+    - q: How can I use “Maxi Dress” in real outfits?
+      a: Use it as a checkpoint for length, silhouette, movement, and occasion. Use it to check how
+        a dress or skirt changes proportion, comfort, and the overall mood of the look.
+    - q: Does “Maxi Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Maxikleid**: Ein Maxikleid ist ein langes Kleid, das meist bis zum Knöchel oder bis zum Boden reicht. Es kann sommerlich, festlich, bohemienhaft oder sehr reduziert wirken. Entscheidend sind Material, Schnitt und die Frage, wie viel Volumen das Kleid hat.
+**Maxi Dress**: Maxi Dress describes a dress or skirt shape, length, or styling cue that changes proportion and occasion impact.
 
-## Einfach erklärt
+## In simple words
 
-Maxikleider wirken oft fließend und großzügig. Ein Modell aus Leinen oder Baumwolle wirkt entspannt und natürlich. Ein Maxikleid aus Seide, Satin oder Viskose kann deutlich eleganter erscheinen.
+Maxi Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Wichtig ist die Länge. Sie sollte nicht zufällig wirken und nicht am Boden schleifen. Besonders schön wird ein Maxikleid, wenn Schuhe, Saum und Proportion zusammengedacht werden.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Maxikleid wichtig ist
+## Why this matters for dresses and skirts
 
-Maxikleider sind hilfreich, wenn ein Outfit mit einem einzigen Kleidungsstück fertig wirken soll. Sie brauchen wenig Styling, aber klare Entscheidungen bei Schuhen, Tasche und Schmuck.
+When you understand Maxi Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Maxi Dress, length, fabric, waist position, and shoe choice decide whether the line feels light, grounded, feminine, formal, or modern.
 
-- Achte darauf, dass der Saum sauber fällt.
-- Wähle fließende Stoffe, wenn das Kleid weich wirken soll.
-- Setze bei viel Länge auf klare Accessoires.
-- Prüfe, ob die Taille definiert werden soll oder nicht.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Maxi Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Maxikleider sind nur für den Sommer.  
-**Besser:** Je nach Material können Maxikleider auch im Herbst oder bei Abendanlässen funktionieren.
+## Common misconceptions
 
-**Missverständnis:** Lange Kleider müssen immer flach getragen werden.  
-**Besser:** Auch Absatz, Stiefelette oder Loafer können funktionieren, wenn die Länge stimmt.
+**Misconception:** Maxi Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Maxi Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Maxikleid wirkt am stärksten, wenn Länge, Material und Bewegung eine ruhige Linie bilden.
+## Quick mirror check
+
+Look at “Maxi Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Maxi Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Silhouette](/en/glossary/silhouette/)
+- [Dress](/en/glossary/dress/)
+- [Skirt](/en/glossary/skirt/)
+- [Skirt Length](/en/glossary/skirt-length/)
+- [Hem Length](/en/glossary/hem-length/)

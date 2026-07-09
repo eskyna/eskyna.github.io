@@ -1,60 +1,94 @@
 ---
-title: "Statement-Piece"
-term: "Statement-Piece"
-description: "Ein Statement-Piece ist ein bewusst auffälliges Kleidungsstück oder Accessoire, das den Look prägt."
-category: "Stil & Wirkung"
-tags: ["statement-piece", "stil", "accessoires", "wirkung"]
-keywords: ["statement-piece", "statement teil", "stilbruch", "outfit akzent"]
 weight: 4
-image: "images/glossar/statement-piece.png"
-image_alt: "Editoriale Grafik mit ruhigen neutralen Flächen und einem klaren Akzent als Symbol für ein Statement-Piece"
+image: images/glossar/statement-piece.png
+title: What does Statement Piece mean?
+seoTitle: Statement Piece explained | ESKYNA Glossary
+term: Statement Piece
+description:
+  Statement Piece is a style concept that helps you understand presence and make more conscious
+  styling decisions.
+category: Style & Impact
+tags:
+  - statement piece
+  - style & impact
+  - style glossary
+keywords:
+  - statement piece
+  - what is statement piece
+  - statement piece style advice
+slug: statement-piece
+url: /glossary/statement-piece/
+aliases:
+  - /glossar/statement-piece/
+image_alt: Editorial glossary illustration for Statement Piece
 relatedTerms:
-  - title: "Statement-Schmuck"
-    url: "/glossar/statement-schmuck/"
-  - title: "Basic"
-    url: "/glossar/basic/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Signature Look"
-    url: "/glossar/signature-look/"
+  - title: Basic
+    url: /en/glossary/basic/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Personal Style
+    url: /en/glossary/personal-style/
+  - title: Signature Look
+    url: /en/glossary/signature-look/
+faq:
+  items:
+    - q: How can I use “Statement Piece” in real outfits?
+      a:
+        Use it as a checkpoint for presence, personality, and visual message. Use it to make your appearance
+        feel more coherent, precise, and authentic.
+    - q: Does “Statement Piece” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Statement-Piece** ist ein Kleidungsstück oder Accessoire, das bewusst auffällt und den Look prägt. Das kann ein farbiger Mantel, eine besondere Tasche, ein markanter Schuh, großer Schmuck oder ein ungewöhnlicher Schnitt sein.
+**Statement Piece**: Statement Piece is a style concept that helps you understand presence and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Statement-Piece zieht den Blick an. Es sagt: Hier liegt der Fokus. Genau deshalb braucht es Ruhe um sich herum. Wenn zu viele Teile gleichzeitig sprechen, wirkt der Look schnell unklar.
+Statement Piece gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Ein gutes Statement-Piece passt trotzdem zur Person. Es wirkt nicht wie ein Kostüm, sondern wie eine bewusste Entscheidung. Es kann laut sein, aber es sollte nicht zufällig wirken.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum ein Statement-Piece wichtig ist
+## Why this matters for your image
 
-Statement-Pieces geben einfachen Outfits Charakter. Eine ruhige Basis aus Schwarz, Navy, Creme oder Denim kann durch eine starke Tasche, einen roten Schuh oder ein besonderes Tuch sofort persönlicher werden.
+When you understand Statement Piece, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist ein Statement-Piece kein Trick. Es ist ein Stil-Signal. Es zeigt, worauf der Blick gelenkt werden soll und welche Wirkung der Look bekommt.
+With Statement Piece, the important question is what it communicates. A strong look is not only attractive; it also supports the role, mood, and presence you want to show.
 
-## So setzt du ein Statement-Piece ein
+## What to pay attention to
 
-- Wähle einen klaren Fokus im Outfit.
-- Halte Farben und Schnitte im restlichen Look ruhiger.
-- Wiederhole eine Farbe oder ein Material, wenn der Look stimmiger wirken soll.
-- Achte auf Passform. Ein auffälliges Teil verzeiht schlechte Proportionen selten.
-- Nutze Accessoires, wenn ein großes Kleidungsstück zu dominant wirkt.
+- Check the role of Statement Piece in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Ein Statement-Piece muss extrem auffällig sein.  
-**Besser:** Auch ein perfekt geschnittener weißer Blazer oder eine besondere Brosche kann ein Statement sein.
+**Misconception:** Statement Piece is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Statement-Pieces sind nur für mutige Menschen.  
-**Besser:** Die Dosierung entscheidet. Ein kleiner Akzent kann genauso wirksam sein wie ein großer Auftritt.
+**Misconception:** Statement Piece works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein Statement-Piece braucht nicht mehr Lautstärke. Es braucht den richtigen Rahmen.
+Look at “Statement Piece” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Statement Piece works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Basic](/en/glossary/basic/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Personal Style](/en/glossary/personal-style/)
+- [Signature Look](/en/glossary/signature-look/)

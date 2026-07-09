@@ -1,18 +1,19 @@
 ---
-title: "Shop"
-description: "ESKYNA Shop - Exklusive Produkte und Merchandise"
+title: Shop
+description: ESKYNA Shop - selected products and merchandise
+url: /shop/
 products:
-  - title: "ESKYNA Kleeblatt als 3D Skulptur"
-    image: "/images/sign.png"
-    alt: "ESKYNA Kleeblatt als 3D Skulptur in weißer Farbe, 17 cm groß"
-    description: "Ein wunderschönes ESKYNA Kleeblatt als handgefertigte 3D Skulptur. Das perfekte Accessoire für deinen Arbeitsplatz oder Zuhause."
+  - title: ESKYNA clover as a 3D sculpture
+    image: /images/sign.png
+    alt: White ESKYNA clover as a 17 cm 3D sculpture
+    description: A beautiful handmade ESKYNA clover sculpture. A refined accessory for your desk, studio, or home.
     specs:
-      - "Material: Premium-Kunstharz"
-      - "Größe: 17 cm"
-      - "Hochdetaillierte Oberfläche"
-    price: "20 EUR"
-    ctaText: "Jetzt kaufen"
-    ctaHref: "https://buy.stripe.com/test_9B6fZj2QY1hqaGz8H94ko00"
+      - "Material: premium resin"
+      - "Size: 17 cm"
+      - Highly detailed surface
+    price: 20 EUR
+    ctaText: Buy now
+    ctaHref: https://buy.stripe.com/test_9B6fZj2QY1hqaGz8H94ko00
 ---
 
-Entdecke exklusive ESKYNA Produkte und Merchandise. Sorgfältig ausgewählt für Menschen, die Wert auf Qualität und Authentizität legen.
+Discover selected ESKYNA products and merchandise for people who value quality, clarity, and authentic presence.

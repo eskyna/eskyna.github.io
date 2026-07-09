@@ -1,25 +1,43 @@
 ---
-title: "Sättigung"
-term: "Sättigung"
-description: "Sättigung beschreibt, wie intensiv oder gedämpft eine Farbe wirkt und wie stark sie im Outfit sichtbar wird."
-category: "Farbberatung & Farbe"
-tags: ["sättigung", "farbe", "farbberatung", "kontrast"]
-keywords: ["sättigung farbe", "gedämpfte farben", "kräftige farben", "farbberatung"]
+title: Sättigung
+term: Sättigung
+description: Sättigung beschreibt, wie intensiv oder gedämpft eine Farbe wirkt und wie stark sie im
+  Outfit sichtbar wird.
+category: Farbberatung & Farbe
+tags:
+  - sättigung
+  - farbe
+  - farbberatung
+  - kontrast
+keywords:
+  - sättigung farbe
+  - gedämpfte farben
+  - kräftige farben
+  - farbberatung
 weight: 19
-
-image: "images/glossar/saettigung.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Sättigung mit ruhigen Farbfeldern und klarer Linienführung"
+image: images/glossar/saettigung.png
+image_alt: Editoriale Grafik zum Glossarbegriff Sättigung mit ruhigen Farbfeldern und klarer Linienführung
 relatedTerms:
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Helligkeit"
-    url: "/glossar/helligkeit/"
-  - title: "Pink"
-    url: "/glossar/pink/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Farbtemperatur
+    url: /glossar/farbtemperatur/
+  - title: Helligkeit
+    url: /glossar/helligkeit/
+  - title: Pink
+    url: /glossar/pink/
+  - title: Rosa
+    url: /glossar/rosa/
+faq:
+  items:
+    - q: Wie nutze ich „Sättigung“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Unterton, Kontrast und persönliche Farbrichtung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Sättigung“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -53,3 +71,17 @@ Rosa, Pink und Fuchsia zeigen Sättigung sehr gut. Puderrosa wirkt weich. Altros
 ## ESKYNA-Merksatz
 
 Sättigung ist die Lautstärke einer Farbe. Gute Stilentscheidungen beginnen damit, diese Lautstärke bewusst zu wählen.
+
+## Praxischeck
+
+Wenn du den Begriff **Sättigung** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Farbe wirkt zuerst am Gesicht. Entscheidend sind Temperatur, Helligkeit, Kontrast und die Frage, ob eine Nuance dich frischer oder härter erscheinen lässt.
+
+- Halte die Farbe einmal nah ans Gesicht und einmal weiter weg im Outfit.
+- Vergleiche eine warme, kühle, helle und gedeckte Variante.
+- Prüfe, ob Schmuck, Brille oder Lippenfarbe die gleiche Richtung unterstützen.
+
+## Beratungsblick
+
+In der Beratung ist **Sättigung** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farbberatung & Farbe](/glossar/kategorie/farbberatung-farbe/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

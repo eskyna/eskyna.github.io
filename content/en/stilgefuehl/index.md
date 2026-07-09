@@ -1,94 +1,96 @@
 ---
-title: "ESKYNA Stilgefühl"
-description: "Entwickle mehr Sicherheit bei Farben, Schnitten, Proportionen und Stilrichtung. ESKYNA Stilgefühl mit Natalia Kleemann."
-
+title: ESKYNA Style Sense
+description:
+  Develop more confidence with colors, cuts, proportions, and personal style direction. ESKYNA Style
+  Sense with Natalia Kleemann.
+url: /style-sense/
+aliases:
+  - /stilgefuehl/
 offers_back:
-  href: "/angebote/"
-  label: "Zu den Angeboten"
-variants_heading: "Wähle die passende Form"
-
+  href: /en/offers/
+  label: Back to offers
+variants_heading: Choose the right format
 offer:
-  headline: "ESKYNA Stilgefühl"
-  subheadline: "Für mehr Klarheit darüber, was dir wirklich steht"
+  headline: ESKYNA Style Sense
+  subheadline: For more clarity about what truly suits you
   intro: |
-    Du möchtest wissen, welche Farben, Schnitte und Stilrichtungen zu dir passen?
-    Du willst beim Einkaufen sicherer werden und Fehlkäufe vermeiden?
-    Oder du spürst, dass dein Stil noch nicht ganz ausdrückt, wer du bist?
+    Do you want to know which colors, cuts, and style directions suit you?
+    Do you want to feel more confident when shopping and avoid bad purchases?
+    Or do you sense that your current style does not fully express who you are?
 
-    Mit ESKYNA Stilgefühl entwickelst du ein klares Verständnis dafür, welche Kleidung dich stärkt und warum.
-  price: "390 €"
-  cta: "ESKYNA Stilgefühl buchen"
-  image: "images/portraits/natalia-coach-portrait.png"
-
+    With ESKYNA Style Sense, you develop a clear understanding of which clothes strengthen you and why.
+  price: €390
+  cta: Book ESKYNA Style Sense
+  image: images/portraits/natalia-coach-portrait.png
 problem:
-  title: "Wenn Stil bisher eher Zufall ist"
+  title: When style still feels accidental
   text: |
-    Viele Menschen kaufen Kleidung, die einzeln schön ist. Aber zu Hause passt sie nicht richtig in den Alltag, lässt sich schwer kombinieren oder fühlt sich nicht nach ihnen an.
+    Many people buy clothes that look beautiful on their own. At home, however, those pieces often do not fit everyday life, are hard to combine, or simply do not feel like them.
 
-    Dann entstehen Fragen wie:
-    - "Welche Farben stehen mir wirklich?"
-    - "Welche Schnitte passen zu meinem Körper?"
-    - "Warum fühle ich mich in manchen Outfits verkleidet?"
-    - "Was sollte ich beim Einkaufen beachten?"
-    - "Wie finde ich eine Stilrichtung, die zu mir passt?"
+    Typical questions are:
+    - "Which colors really suit me?"
+    - "Which cuts work for my body?"
+    - "Why do some outfits make me feel disguised?"
+    - "What should I pay attention to when shopping?"
+    - "How do I find a style direction that feels like me?"
 
-    ESKYNA Stilgefühl gibt dir darauf eine persönliche Antwort.
-
+    ESKYNA Style Sense gives you a personal answer.
 what_it_is:
-  title: "Mehr als Farbberatung"
+  title: More than color consultation
   text: |
-    ESKYNA Stilgefühl ist keine Standard-Farbberatung.
-    Die Farben sind wichtig, aber sie sind nur ein Teil des Ganzen.
+    ESKYNA Style Sense is not a standard color consultation.
+    Colors matter, but they are only one part of the full picture.
 
-    Natalia schaut auf dich als Person: deine Ausstrahlung, deinen Alltag, deine Proportionen, deine Vorlieben und die Wirkung, die du erzielen möchtest.
+    Natalia looks at you as a person: your presence, your daily life, your proportions, your preferences, and the impact you want to create.
 
-    So entsteht kein starres Regelwerk, sondern ein klares Stilgefühl, das du im Alltag anwenden kannst.
-
+    The result is not a rigid rulebook, but a clear style sense that you can use in real life.
 services:
-  title: "Das ist enthalten"
+  title: What is included
   items:
-    - title: "Persönliche Stil- und Wirkungsanalyse"
-      description: "Natalia analysiert, welche Wirkung du aktuell erzeugst und welche Wirkung du dir wünschst. Dabei geht es um Alltag, Beruf, Persönlichkeit und Stilziele."
-
-    - title: "Farbberatung mit digitalem Farbpass"
-      description: "Du erfährst, welche Farbrichtungen dich stärken und wie du sie im Alltag einsetzen kannst. Der digitale Farbpass hilft dir später beim Einkaufen und Kombinieren."
-
-    - title: "Analyse von Proportionen, Linien und Schnitten"
-      description: "Du verstehst, welche Schnitte, Längen, Linien und Formen zu dir passen. Nicht als starre Figurregel, sondern als praktische Orientierung für Kleidung, die harmonisch wirkt."
-
-    - title: "Persönliche Stilrichtung"
-      description: "Natalia entwickelt mit dir eine Stilrichtung, die zu deiner Persönlichkeit, deinem Alltag und deiner gewünschten Wirkung passt."
-
-    - title: "Konkrete Empfehlungen für Alltag und Beruf"
-      description: "Du bekommst praktische Hinweise, worauf du bei Kleidung, Kombinationen und zukünftigen Käufen achten solltest."
-
-    - title: "Digitaler Mini-Style-Guide"
-      description: "Die wichtigsten Erkenntnisse werden für dich zusammengefasst: Farben, Schnitte, Stilimpulse und Empfehlungen für deine nächsten Entscheidungen."
-
+    - title: Personal style and impact analysis
+      description:
+        Natalia analyzes the impression you currently create and the impression you want to create. The
+        focus is on everyday life, work, personality, and style goals.
+    - title: Color consultation with digital color passport
+      description:
+        You learn which color directions strengthen you and how to use them in daily outfits. The digital
+        color passport supports you later when shopping and combining clothes.
+    - title: Analysis of proportions, lines, and cuts
+      description:
+        You understand which cuts, lengths, lines, and shapes suit you. Not as a rigid body rule, but as
+        practical orientation for clothing that feels harmonious.
+    - title: Personal style direction
+      description:
+        Natalia develops a style direction with you that fits your personality, daily life, and desired
+        impact.
+    - title: Concrete recommendations for everyday life and work
+      description: You receive practical guidance for clothing, combinations, and future purchases.
+    - title: Digital mini style guide
+      description:
+        "Your key insights are summarized for you: colors, cuts, style impulses, and recommendations for
+        your next decisions."
 for_whom:
-  title: "ESKYNA Stilgefühl ist passend für dich, wenn du …"
+  title: ESKYNA Style Sense is right for you if you …
   items:
-    - "deinen Stil besser verstehen möchtest"
-    - "wissen willst, welche Farben dich stärken"
-    - "beim Einkaufen sicherer entscheiden willst"
-    - "Fehlkäufe vermeiden möchtest"
-    - "dich hochwertiger und stimmiger kleiden möchtest"
-    - "eine klare persönliche Stilrichtung suchst"
-    - "deinen Auftritt bewusster gestalten möchtest"
-    - "einen guten Einstieg in persönliche Stilberatung suchst"
-
+    - want to understand your personal style better
+    - want to know which colors strengthen you
+    - want to make shopping decisions with more confidence
+    - want to avoid bad purchases
+    - want to dress in a more coherent and high-quality way
+    - are looking for a clear personal style direction
+    - want to shape your presence more consciously
+    - want a strong entry point into personal style coaching
 result:
-  title: "Was sich danach verändert"
-  text: "Nach ESKYNA Stilgefühl weißt du, worauf du achten solltest."
+  title: What changes afterwards
+  text: After ESKYNA Style Sense, you know what to pay attention to.
   items:
-    - "Du erkennst Farben, die dich frisch und präsent wirken lassen"
-    - "Du verstehst, welche Schnitte und Proportionen zu dir passen"
-    - "Du kannst Kleidung bewusster auswählen"
-    - "Und du entwickelst ein besseres Gefühl dafür, was wirklich zu dir gehört"
-  summary: "Mehr Sicherheit beim Kaufen, Kombinieren und Auftreten."
-
+    - You recognize colors that make you look fresh and present
+    - You understand which cuts and proportions work for you
+    - You choose clothes more consciously
+    - You develop a better feeling for what truly belongs to you
+  summary: More confidence when shopping, combining, and showing up.
 cta_section:
-  title: "Bereit für mehr Stilgefühl?"
-  text: "Dann starte mit deiner persönlichen Stilberatung."
-  button: "ESKYNA Stilgefühl buchen"
+  title: Ready for more style confidence?
+  text: Start with your personal style consultation.
+  button: Book ESKYNA Style Sense
 ---

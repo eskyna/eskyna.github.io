@@ -1,61 +1,94 @@
 ---
-title: "Was ist ein Blazer?"
-term: "Blazer"
-description: "Ein Blazer ist eine strukturierte Jacke mit klarer Form, die Outfits sofort gepflegter und souveräner wirken lässt."
-category: "Garderobe & Alltag"
-tags: ["blazer", "jacke", "business casual", "key-piece", "passform"]
-keywords: ["blazer", "was ist ein blazer", "blazer kombinieren", "blazer stilberatung"]
 weight: 7
-image: "images/glossar/blazer.png"
-image_alt: "Editoriale Grafik mit stilisiertem Blazer, Revers und ruhigen neutralen Farbfeldern"
+image: images/glossar/blazer.png
+title: What does Blazer mean?
+seoTitle: Blazer explained | ESKYNA Glossary
+term: Blazer
+description:
+  Blazer is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - blazer
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - blazer
+  - what is blazer
+  - blazer style advice
+slug: blazer
+url: /glossary/blazer/
+aliases:
+  - /glossar/blazer/
+image_alt: Editorial glossary illustration for Blazer
 relatedTerms:
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Smart Casual"
-    url: "/glossar/smart-casual/"
-  - title: "Dresscode"
-    url: "/glossar/dresscode/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Taillierung"
-    url: "/glossar/taillierung/"
-
-  - title: "Weste"
-    url: "/glossar/weste/"
+  - title: Business Casual
+    url: /en/glossary/business-casual/
+  - title: Smart Casual
+    url: /en/glossary/smart-casual/
+  - title: Dress Code
+    url: /en/glossary/dress-code/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Blazer” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Blazer” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Blazer** ist eine strukturierte Jacke mit Revers, Knöpfen und oft einer klaren Schulterlinie. Er kann formell, modern, lässig oder elegant wirken. Entscheidend sind Schnitt, Material, Farbe und Passform.
+**Blazer**: Blazer is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Blazer ist nicht automatisch ein Business-Teil. Ein schmaler schwarzer Blazer wirkt anders als ein weiter Wollblazer in Beige oder ein kurzer Blazer aus Leinen. Die Form bestimmt, ob der Look streng, weich, urban oder entspannt erscheint.
+Blazer gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Ein guter Blazer rahmt den Oberkörper. Er gibt einem einfachen Shirt mehr Struktur, macht eine Jeans gepflegter und bringt Ruhe in Kombinationen mit weiten Hosen, Kleidern oder Röcken. Besonders stark wirkt er, wenn Schulter, Länge und Material zur Person passen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum ein Blazer wichtig ist
+## Why this matters in your wardrobe
 
-Der Blazer ist eines der wichtigsten Key-Pieces in einer Garderobe. Er verändert die Wirkung eines Outfits sofort, ohne dass der Look kompliziert werden muss. Gerade in Business Casual Situationen kann er Kompetenz zeigen, ohne zu formell zu wirken.
+When you understand Blazer, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist der Blazer ein gutes Beispiel dafür, wie Kleidung Haltung sichtbar macht. Er kann Klarheit geben, aber auch weich wirken, wenn Farbe und Stoff entsprechend gewählt sind.
+With Blazer, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei einem Blazer achten solltest
+## What to pay attention to
 
-- Die Schulter sollte bewusst sitzen: exakt, leicht überschnitten oder klar oversized.
-- Die Länge sollte zur Hose, zum Rock oder Kleid passen.
-- Das Revers beeinflusst die Gesichtsrahmung und die vertikale Linie.
-- Der Stoff entscheidet, ob der Blazer streng, weich oder lässig wirkt.
-- Die Knopfhöhe verändert die optische Taille.
+- Check the role of Blazer in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Ein Blazer muss immer formell wirken.  
-**Besser:** Ein Blazer kann auch lässig sein, wenn Material, Farbe und Kombination entspannter gewählt sind.
+**Misconception:** Blazer is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Oversized-Blazer sind einfach nur größer.  
-**Besser:** Ein guter Oversized-Blazer ist bewusst konstruiert. Die Proportion muss stimmen, damit er modern wirkt.
+**Misconception:** Blazer works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein Blazer gibt einem Look Struktur. Seine Wirkung entsteht nicht durch den Namen, sondern durch Passform, Material und Haltung.
+Look at “Blazer” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Blazer works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Business Casual](/en/glossary/business-casual/)
+- [Smart Casual](/en/glossary/smart-casual/)
+- [Dress Code](/en/glossary/dress-code/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

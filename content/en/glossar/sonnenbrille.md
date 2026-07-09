@@ -1,54 +1,92 @@
 ---
-title: "Sonnenbrille"
-term: "Sonnenbrille"
-description: "Eine Sonnenbrille schützt die Augen und prägt zugleich Gesicht, Haltung und Stilrichtung eines Looks."
-category: "Materialien & Details"
-tags: ["sonnenbrille", "brille", "accessoire", "gesichtsrahmung", "styling"]
-keywords: ["sonnenbrille styling", "sonnenbrille gesichtsform", "sonnenbrille kombinieren"]
 weight: 19
-image: "images/glossar/sonnenbrille.png"
-image_alt: "Editoriale Grafik zu Sonnenbrille mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image: images/glossar/sonnenbrille.png
+title: What does Sunglasses mean?
+seoTitle: Sunglasses explained | ESKYNA Glossary
+term: Sunglasses
+description: Sunglasses is a material or detail term that influences quality, comfort, texture, and
+  the overall impression of an outfit.
+category: Materials & Details
+tags:
+  - sunglasses
+  - materials & details
+  - style glossary
+keywords:
+  - sunglasses
+  - what is sunglasses
+  - sunglasses style advice
+slug: sunglasses
+url: /glossary/sunglasses/
+aliases:
+  - /glossar/sonnenbrille/
+image_alt: Editorial glossary illustration for Sunglasses
 relatedTerms:
-  - title: "Brille"
-    url: "/glossar/brille/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
-  - title: "Gesichtsrahmung"
-    url: "/glossar/gesichtsrahmung/"
-  - title: "Statement-Piece"
-    url: "/glossar/statement-piece/"
-  - title: "Quiet Luxury"
-    url: "/glossar/quiet-luxury/"
+  - title: Statement Piece
+    url: /en/glossary/statement-piece/
+  - title: Quiet Luxury
+    url: /en/glossary/quiet-luxury/
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+faq:
+  items:
+    - q: How can I use “Sunglasses” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Sunglasses” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Sonnenbrille** ist ein funktionales Accessoire zum Schutz vor Licht. Im Styling ist sie zugleich ein starker Rahmen für das Gesicht und ein sichtbares Stilzeichen.
+**Sunglasses**: Sunglasses is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Die Form entscheidet viel: rund wirkt weicher, eckig klarer, Cat Eye femininer, Aviator lässiger. Die Farbe des Rahmens und der Gläser beeinflusst, ob die Brille ruhig, grafisch oder modisch wirkt.
+Sunglasses gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Sonnenbrillen können einen schlichten Look sofort komplettieren. Sie funktionieren aber nur wirklich gut, wenn Größe, Form und Material zum Gesicht und zur Garderobe passen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters for quality
 
-Eine Sonnenbrille sitzt mitten im Blickfeld. Sie prägt die Wirkung fast so stark wie Frisur, Schmuck oder Lippenfarbe.
+When you understand Sunglasses, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Sunglasses, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-- Achte auf Proportion zum Gesicht.
-- Wähle Rahmenfarbe passend zu Haaren, Haut und Garderobe.
-- Prüfe, ob die Form die gewünschte Wirkung unterstützt.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Sunglasses in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Sonnenbrillen sind nur praktisch.  
-**Besser:** Sie sind eines der sichtbarsten Accessoires überhaupt.
+## Common misconceptions
 
-**Missverständnis:** Eine schwarze Sonnenbrille passt immer.  
-**Besser:** Braun, Havanna, Grau oder transparente Rahmen können oft harmonischer wirken.
+**Misconception:** Sunglasses is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Sunglasses works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Eine Sonnenbrille ist Schutz und Stilrahmen zugleich. Sie verändert den ersten Eindruck sofort.
+## Quick mirror check
+
+Look at “Sunglasses” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Sunglasses works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Statement Piece](/en/glossary/statement-piece/)
+- [Quiet Luxury](/en/glossary/quiet-luxury/)
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)

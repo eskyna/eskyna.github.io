@@ -256,7 +256,8 @@
         </div>
       </section>
       <div class="offers-home-actions">
-        <a class="offers-home-tag" href="{{ "angebote" | relLangURL }}" title="{{ $offersMoreText }}" aria-label="{{ $offersMoreText }}">
+        {{ $offersHref := "angebote" | relLangURL }}{{ with .Site.GetPage "angebote" }}{{ $offersHref = .RelPermalink }}{{ end }}
+        <a class="offers-home-tag" href="{{ $offersHref }}" title="{{ $offersMoreText }}" aria-label="{{ $offersMoreText }}">
           {{ if $isRu }}
             <span class="benefits-tag-text">Другие<br>предложения</span>
           {{ else }}

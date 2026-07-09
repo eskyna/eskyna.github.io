@@ -1,61 +1,94 @@
 ---
-title: "Was sind Shorts?"
-term: "Shorts"
-description: "Shorts sind kurze Hosen, deren Wirkung stark von Länge, Material, Schnitt und Styling abhängt."
-category: "Garderobe & Alltag"
-tags:
-  - "shorts"
-  - "kurze hose"
-  - "sommer"
-  - "hose"
-keywords:
-  - "shorts"
-  - "was sind shorts"
-  - "shorts kombinieren"
 weight: 5
-image: "images/glossar/shorts.png"
-image_alt: "Editoriale Grafik zu Shorts mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image: images/glossar/shorts.png
+title: What does Shorts mean?
+seoTitle: Shorts explained | ESKYNA Glossary
+term: Shorts
+description:
+  Shorts is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - shorts
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - shorts
+  - what is shorts
+  - shorts style advice
+slug: shorts
+url: /glossary/shorts/
+aliases:
+  - /glossar/shorts/
+image_alt: Editorial glossary illustration for Shorts
 relatedTerms:
-  - title: "Bermuda"
-    url: "/glossar/bermuda/"
-  - title: "Leinen"
-    url: "/glossar/leinen/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Sandale"
-    url: "/glossar/sandale/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+  - title: Buying Criteria
+    url: /en/glossary/buying-criteria/
+faq:
+  items:
+    - q: How can I use “Shorts” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Shorts” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Shorts** sind kurze Hosen. Sie können sportlich, casual, sommerlich oder sogar elegant wirken, je nachdem wie lang sie sind und aus welchem Material sie bestehen.
+**Shorts**: Shorts is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Shorts sind nicht automatisch Strandkleidung. Eine Jeansshorts wirkt anders als eine Shorts aus Leinen oder Anzugstoff. Auch Bundhöhe, Beinweite und Saum verändern die Wirkung.
-Im Alltag wirken Shorts am besten, wenn sie nicht nur praktisch, sondern bewusst gestylt sind. Schuhe und Oberteil entscheiden stark mit.
+Shorts gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum dieser Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Shorts sind wichtig, weil sie im Sommer oft getragen werden, aber schnell zu zufällig wirken können. Eine gute Shorts sollte zur Garderobe passen, nicht nur zur Temperatur.
+## Why this matters in your wardrobe
 
-## Worauf du achten solltest
+When you understand Shorts, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- Achte auf eine Länge, in der du dich sicher fühlst.
-- Leinen und Baumwolle wirken natürlicher als sehr glänzende Stoffe.
-- Mit Hemd oder Bluse wird die Shorts ruhiger.
-- Der Schuh entscheidet, ob der Look sportlich oder gepflegt wirkt.
+With Shorts, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Shorts sind immer lässig.  
-**Besser:** In hochwertigem Stoff und klarer Form können sie sehr gepflegt wirken.
+- Check the role of Shorts in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Je kürzer, desto sommerlicher.  
-**Besser:** Eine stimmige Länge wirkt oft eleganter als maximale Kürze.
+## Common misconceptions
 
-## ESKYNA-Merksatz
+**Misconception:** Shorts is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Shorts brauchen genauso viel Stilentscheidung wie lange Hosen. Länge, Material und Schuh machen den Unterschied.
+**Misconception:** Shorts works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Shorts” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Shorts works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)
+- [Buying Criteria](/en/glossary/buying-criteria/)

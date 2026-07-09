@@ -1,65 +1,93 @@
 ---
-title: "Was bedeutet Dinner-Look?"
-term: "Dinner-Look"
-description: "Ein Dinner-Look ist ein gepflegtes Outfit für Restaurant, Einladung oder Abendtermin."
-category: "Garderobe & Alltag"
-tags: ["dinner look", "garderobe"]
-keywords: ["dinner-look", "was bedeutet dinner-look", "dinner-look stilberatung"]
 weight: 1
-image: "images/glossar/dinner-look.png"
-image_alt: "Editoriale Glossar-Grafik zu Dinner-Look mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/dinner-look.png
+title: What does Dinner Look mean?
+seoTitle: Dinner Look explained | ESKYNA Glossary
+term: Dinner Look
+description: Dinner Look is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - dinner look
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - dinner look
+  - what is dinner look
+  - dinner look style advice
+slug: dinner-look
+url: /glossary/dinner-look/
+aliases:
+  - /glossar/dinner-look/
+image_alt: Editorial glossary illustration for Dinner Look
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Dinner Look” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Dinner Look” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Dinner-Look**: Ein Dinner-Look ist ein gepflegtes Outfit für Restaurant, Einladung oder Abendtermin.
+**Dinner Look**: Dinner Look is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann.
+Dinner Look gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Dinner-Look wichtig ist
+## Why this matters in your wardrobe
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Dinner Look, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Dinner-Look, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Dinner Look, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Dinner-Look im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Dinner Look in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Dinner-Look ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Dinner Look is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Dinner-Look funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Dinner Look works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Dinner-Look wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Dinner Look” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+Dinner Look works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

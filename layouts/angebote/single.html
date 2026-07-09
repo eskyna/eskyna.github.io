@@ -5,15 +5,15 @@
 {{ $priceLabelTooltip := i18n "price_label_tooltip" }}
 {{ $bot := .Params.bot | default (dict) }}
 {{ $botKicker := or $bot.kicker "ESKYNA digital" }}
-{{ $botProfileAlt := or $bot.profile_alt "Profilbild ESKYNA digital" }}
-{{ $botTitle := or $bot.title "Stil beginnt jetzt direkt im Chat." }}
-{{ $botLead := or $bot.lead "Dein ESKYNA Telegram-Bot gibt dir schnelle Stil-Impulse genau dort, wo du sowieso schreibst. Aktuell läuft ESKYNA digital als Beta und wird laufend weiterentwickelt." }}
-{{ $botPrimaryText := or $bot.primary_text "Telegram-Bot testen" }}
-{{ $botSecondaryText := or $bot.secondary_text "Mehr über ESKYNA digital" }}
+{{ $botProfileAlt := or $bot.profile_alt (cond (or (eq .Language.Lang "ru") (eq .Language.Lang "rus")) "Профильное изображение ESKYNA digital" (cond (eq .Language.Lang "en") "ESKYNA digital profile image" "Profilbild ESKYNA digital")) }}
+{{ $botTitle := or $bot.title (cond (or (eq .Language.Lang "ru") (eq .Language.Lang "rus")) "Стиль начинается прямо в чате." (cond (eq .Language.Lang "en") "Style starts right in the chat." "Stil beginnt jetzt direkt im Chat.")) }}
+{{ $botLead := or $bot.lead (cond (or (eq .Language.Lang "ru") (eq .Language.Lang "rus")) "Telegram-бот ESKYNA дает быстрые стилевые импульсы там, где вы и так переписываетесь. Сейчас ESKYNA digital работает как beta-сервис и постоянно развивается." (cond (eq .Language.Lang "en") "Your ESKYNA Telegram bot gives you quick style prompts exactly where you already write. ESKYNA digital is currently running as a beta service and is being developed continuously." "Dein ESKYNA Telegram-Bot gibt dir schnelle Stil-Impulse genau dort, wo du sowieso schreibst. Aktuell läuft ESKYNA digital als Beta und wird laufend weiterentwickelt.")) }}
+{{ $botPrimaryText := or $bot.primary_text (cond (or (eq .Language.Lang "ru") (eq .Language.Lang "rus")) "Протестировать Telegram-бот" (cond (eq .Language.Lang "en") "Try the Telegram bot" "Telegram-Bot testen")) }}
+{{ $botSecondaryText := or $bot.secondary_text (cond (or (eq .Language.Lang "ru") (eq .Language.Lang "rus")) "Подробнее об ESKYNA digital" (cond (eq .Language.Lang "en") "More about ESKYNA digital" "Mehr über ESKYNA digital")) }}
 <main class="page page-angebote">
   <section class="section offers-free-section-wrapper" id="angebote">
     <div class="container">
-      {{ $backToHomeText := or $ui.back_to_home_text "Zur Startseite" }}
+      {{ $backToHomeText := or $ui.back_to_home_text (cond (or (eq .Language.Lang "ru") (eq .Language.Lang "rus")) "На главную" (cond (eq .Language.Lang "en") "Back to home" "Zur Startseite")) }}
       <a class="back-link" href="{{ "/" | relLangURL }}" title="{{ $backToHomeText }}">{{ $backToHomeText }}</a>
 
       <h1>{{ .Title }}</h1>

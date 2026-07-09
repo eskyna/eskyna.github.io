@@ -1,73 +1,94 @@
 ---
-title: "Weiß im Stil erklärt"
-term: "Weiß"
-description: "Weiß bringt Licht, Klarheit und Frische in ein Outfit. Die richtige Nuance entscheidet zwischen weich und streng."
-category: "Farb-Lexikon"
-color_hex: "#F8F4ED"
-tags: ["weiß", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["weiß kleidung", "weiß kombinieren", "off white", "farbberatung"]
 weight: 2
-image: "images/glossar/weiss.png"
-image_alt: "Editoriale Grafik mit hellen Weißnuancen, Stofflagen und feinen Schatten"
+image: images/glossar/weiss.png
+color_hex: "#F8F4ED"
+title: What does White mean?
+seoTitle: White explained | ESKYNA Glossary
+term: White
+description: White is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - white
+  - color lexicon
+  - style glossary
+keywords:
+  - white
+  - what is white
+  - white style advice
+slug: white
+url: /glossary/white/
+aliases:
+  - /glossar/weiss/
+image_alt: Editorial glossary illustration for White
 relatedTerms:
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Creme"
-    url: "/glossar/creme/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
-  - title: "Off-White"
-    url: "/glossar/off-white/"
-  - title: "Silber"
-    url: "/glossar/silber/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “White” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “White” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Weiß
+## Definition
 
-Weiß bringt Licht in ein Outfit. Es wirkt frisch, klar und gepflegt. Gleichzeitig ist Weiß nicht nur eine Farbe, sondern eine ganze Familie aus Nuancen, die sehr unterschiedlich auf Haut, Haar und Material reagieren.
+**White**: White is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Weiß wirkt
+## In simple words
 
-Reines Weiß wirkt grafisch und kühl. Es macht Kontraste sichtbar und kann sehr modern aussehen. Cremeweiß wirkt weicher, wärmer und zugänglicher. Off-White wirkt ruhiger als Reinweiß, bleibt aber hell und elegant.
+White gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Weiß kann sportlich, klassisch oder sehr edel wirken. Ein weißes T-Shirt aus Baumwolle wirkt unkompliziert. Eine weiße Popeline-Bluse wirkt frisch und präzise. Eine weiße Seidenbluse wirkt weich und hochwertig. Ein weißer Leinenanzug wirkt sommerlich und leicht.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Weiß
+## Why this matters in color styling
 
-- **Reinweiß:** Klar, hell und kontrastreich. Besonders stark zu Navy, Schwarz oder klarem Blau.
-- **Off-White:** Etwas gebrochener und weniger hart. Sehr vielseitig für elegante Alltagslooks.
-- **Cremeweiß:** Wärmer und weicher. Schön zu Beige, Camel, Braun und Gold.
-- **Ecru:** Natürlich, ruhig und leicht erdig. Besonders passend zu Leinen, Strick und Denim.
-- **Wollweiß:** Warm, weich und hochwertig, vor allem bei Mänteln und Strick.
+When you understand White, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Weiß kombinieren
+With White, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-- **Weiß + Navy:** Klassisch, frisch und professionell
-- **Weiß + Beige:** Ruhig, hell und natürlich
-- **Weiß + Braun:** Warm und hochwertig
-- **Weiß + Denim:** Entspannt und alltagstauglich
-- **Weiß + Schwarz:** Klar, grafisch und stark
+## What to pay attention to
 
-## Weiß im Business und Alltag
+- Check the role of White in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-Im Business ist Weiß besonders stark, wenn es präzise verarbeitet ist. Ein weißes Hemd, eine klare Bluse oder ein helles Shirt unter einem Blazer wirken sofort gepflegt.
+## Common misconceptions
 
-Im Alltag darf Weiß weicher werden. Off-White, Ecru oder Creme wirken weniger streng und lassen sich leichter mit Naturtönen kombinieren.
+**Misconception:** White is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Weiß funktioniert
+**Misconception:** White works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Wenn Reinweiß nah am Gesicht zu hart wirkt, kann eine weichere Nuance besser sein. Creme, Ecru oder Off-White geben Licht, ohne das Gesicht zu überstrahlen. Als Hose, Rock, Sneaker oder Tasche funktioniert Weiß oft auch dann, wenn es als Oberteil nicht ideal ist.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “White” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Weiß ist Klarheit. Die richtige Weißnuance entscheidet, ob ein Look frisch, weich oder streng wirkt.
+## ESKYNA note
+
+White works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

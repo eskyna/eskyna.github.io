@@ -1,62 +1,93 @@
 ---
-title: "Was ist ein Slip Dress?"
-term: "Slip Dress"
-description: "Ein Slip Dress ist ein schmal fallendes Kleid mit feinen Trägern, oft aus Satin, Seide oder Viskose."
-category: "Garderobe & Alltag"
-tags:
-  - "slip dress"
-  - "kleid"
-  - "seide"
-  - "satin"
-keywords:
-  - "slip dress"
-  - "was ist ein slip dress"
-  - "slip dress kombinieren"
 weight: 5
-image: "images/glossar/slip-dress.png"
-image_alt: "Editoriale Grafik mit stilisiertem Slip Dress, feinen Trägern und fließendem Glanz"
+image: images/glossar/slip-dress.png
+title: What does Slip Dress mean?
+seoTitle: Slip Dress explained | ESKYNA Glossary
+term: Slip Dress
+description: Slip Dress is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - slip dress
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - slip dress
+  - what is slip dress
+  - slip dress style advice
+slug: slip-dress
+url: /glossary/slip-dress/
+aliases:
+  - /glossar/slip-dress/
+image_alt: Editorial glossary illustration for Slip Dress
 relatedTerms:
-  - title: "Seide"
-    url: "/glossar/seide/"
-  - title: "Viskose"
-    url: "/glossar/viskose/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Camisole"
-    url: "/glossar/camisole/"
-  - title: "Layering"
-    url: "/glossar/layering/"
+  - title: Camisole
+    url: /en/glossary/camisole/
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Slip Dress” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Slip Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Slip Dress** ist ein schmal fallendes Kleid mit feinen Trägern. Es erinnert an ein Unterkleid, wird aber als eigenständiges Kleid getragen, oft aus Satin, Seide oder fließender Viskose.
+**Slip Dress**: Slip Dress is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Slip Dress wirkt durch Glanz, Materialfall und Bewegung. Es kann elegant, minimalistisch, sinnlich oder sehr modern erscheinen. Der Kontext entscheidet, ob es abendlich oder alltagstauglich gelesen wird.
+Slip Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Mit Blazer wird es klarer, mit Strick weicher, mit T-Shirt darunter lässiger. Genau diese Wandelbarkeit macht es interessant.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters in your wardrobe
 
-Für ESKYNA ist das Slip Dress ein gutes Beispiel für Balance. Es braucht Ruhe, gute Proportion und passende Schichten, damit es elegant statt zufällig wirkt.
+When you understand Slip Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Slip Dress, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-- Achte auf einen Stoff, der fließt und nicht klebt.
-- Die Trägerlänge muss sauber sitzen.
-- Ein matterer Satin wirkt oft alltagstauglicher.
-- Layering kann das Kleid tragbarer machen.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Slip Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ein Slip Dress ist nur für den Abend.  
-**Besser:** Mit Strick, T-Shirt, Blazer oder flachen Schuhen kann es auch tagsüber funktionieren.
+## Common misconceptions
 
-**Missverständnis:** Glänzende Kleider wirken immer elegant.  
-**Besser:** Glanz braucht Qualität und ruhige Kombinationen.
+**Misconception:** Slip Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Slip Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Slip Dress ist Leichtigkeit als Kleid. Es wirkt stark, wenn Material und Styling Ruhe geben.
+## Quick mirror check
+
+Look at “Slip Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Slip Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Camisole](/en/glossary/camisole/)
+- [Layering](/en/glossary/layering/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

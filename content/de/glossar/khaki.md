@@ -1,25 +1,43 @@
 ---
-title: "Khaki im Stil erklärt"
-term: "Khaki"
-description: "Khaki liegt zwischen Beige, Grün und Braun. Es wirkt natürlich, funktional und zurückhaltend."
-category: "Farb-Lexikon"
+title: Khaki im Stil erklärt
+term: Khaki
+description: Khaki liegt zwischen Beige, Grün und Braun. Es wirkt natürlich, funktional und zurückhaltend.
+category: Farb-Lexikon
 color_hex: "#B7A77A"
-tags: ["khaki", "beige", "gruen", "farbe", "farbberatung"]
-keywords: ["khaki kleidung", "khaki kombinieren", "khaki farbe", "farbberatung"]
+tags:
+  - khaki
+  - beige
+  - gruen
+  - farbe
+  - farbberatung
+keywords:
+  - khaki kleidung
+  - khaki kombinieren
+  - khaki farbe
+  - farbberatung
 weight: 25
-image: "images/glossar/khaki.png"
-image_alt: "Editoriale Grafik zu Khaki mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/khaki.png
+image_alt: Editoriale Grafik zu Khaki mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Oliv"
-    url: "/glossar/oliv/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-  - title: "Trenchcoat"
-    url: "/glossar/trenchcoat/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
+  - title: Oliv
+    url: /glossar/oliv/
+  - title: Beige
+    url: /glossar/beige/
+  - title: Chinos
+    url: /glossar/chinos/
+  - title: Trenchcoat
+    url: /glossar/trenchcoat/
+  - title: Neutrale Farben
+    url: /glossar/neutrale-farben/
+faq:
+  items:
+    - q: Wie nutze ich „Khaki“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Khaki“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Khaki
@@ -60,3 +78,17 @@ Khaki braucht den richtigen [Unterton](/glossar/unterton/). Wenn es am Gesicht z
 ## ESKYNA-Merksatz
 
 Khaki ist eine ruhige Naturfarbe. Elegant wird sie durch klare Linien und gute Materialien.
+
+## Praxischeck
+
+Wenn du den Begriff **Khaki** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Khaki** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

@@ -1,65 +1,94 @@
 ---
-title: "Was bedeutet Wollmantel?"
-term: "Wollmantel"
-description: "Ein Wollmantel ist ein Mantel aus Wolle oder Wollmischung mit wärmender, strukturierter und oft eleganter Wirkung."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "wollmantel"]
-keywords: ["wollmantel", "was bedeutet wollmantel", "wollmantel stilberatung"]
 weight: 1
-image: "images/glossar/wollmantel.png"
-image_alt: "Editoriale Glossar-Grafik zu Wollmantel mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/wollmantel.png
+title: What does Wool Coat mean?
+seoTitle: Wool Coat explained | ESKYNA Glossary
+term: Wool Coat
+description:
+  Wool Coat is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - wool coat
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - wool coat
+  - what is wool coat
+  - wool coat style advice
+slug: wool-coat
+url: /glossary/wool-coat/
+aliases:
+  - /glossar/wollmantel/
+image_alt: Editorial glossary illustration for Wool Coat
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Wool Coat” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Wool Coat” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Wollmantel**: Ein Wollmantel ist ein Mantel aus Wolle oder Wollmischung mit wärmender, strukturierter und oft eleganter Wirkung.
+**Wool Coat**: Wool Coat is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+Wool Coat gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Wollmantel wichtig ist
+## Why this matters in your wardrobe
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Wool Coat, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Wollmantel, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Wool Coat, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Wollmantel im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Wool Coat in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Wollmantel ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Wool Coat is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Wollmantel funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Wool Coat works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Wollmantel wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Wool Coat” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+Wool Coat works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

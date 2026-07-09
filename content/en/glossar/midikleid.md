@@ -1,53 +1,93 @@
 ---
-title: "Was ist ein Midikleid?"
-term: "Midikleid"
-description: "Ein Midikleid endet zwischen Knie und Knöchel und wirkt je nach Schnitt elegant, modern oder alltagstauglich."
-category: "Kleider & Röcke"
-tags: ["midikleid", "kleid", "saumlänge", "proportion"]
-keywords: ["midikleid", "was ist ein midikleid", "midikleid kombinieren"]
 weight: 6
-image: "images/glossar/midikleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Midikleid mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/midikleid.png
+title: What does Midi Dress mean?
+seoTitle: Midi Dress explained | ESKYNA Glossary
+term: Midi Dress
+description:
+  Midi Dress describes a dress or skirt shape, length, or styling cue that changes proportion
+  and occasion impact.
+category: Dresses & Skirts
+tags:
+  - midi dress
+  - dresses & skirts
+  - style glossary
+keywords:
+  - midi dress
+  - what is midi dress
+  - midi dress style advice
+slug: midi-dress
+url: /glossary/midi-dress/
+aliases:
+  - /glossar/midikleid/
+image_alt: Editorial glossary illustration for Midi Dress
 relatedTerms:
-  - title: "Kleid"
-    url: "/glossar/kleid/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Stiefelette"
-    url: "/glossar/stiefelette/"
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Dress
+    url: /en/glossary/dress/
+  - title: Skirt
+    url: /en/glossary/skirt/
+  - title: Skirt Length
+    url: /en/glossary/skirt-length/
+  - title: Hem Length
+    url: /en/glossary/hem-length/
+faq:
+  items:
+    - q: How can I use “Midi Dress” in real outfits?
+      a: Use it as a checkpoint for length, silhouette, movement, and occasion. Use it to check how
+        a dress or skirt changes proportion, comfort, and the overall mood of the look.
+    - q: Does “Midi Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Midikleid**: Ein Midikleid ist ein Kleid mit mittlerer Länge. Es endet meist unterhalb des Knies und oberhalb des Knöchels. Genau diese Zwischenlänge macht es vielseitig, aber auch anspruchsvoll in der Proportion.
+**Midi Dress**: Midi Dress describes a dress or skirt shape, length, or styling cue that changes proportion and occasion impact.
 
-## Einfach erklärt
+## In simple words
 
-Midikleider können schmal, gerade, tailliert, fließend oder ausgestellt sein. Die Wirkung hängt stark davon ab, wo der Saum endet. Ein Saum knapp an der schmalsten Stelle der Wade wirkt oft leichter als ein Saum an der breitesten Stelle.
+Midi Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Mit Boots wirkt ein Midikleid moderner. Mit Pumps eleganter. Mit Sneakern entspannter. Die Schuhe entscheiden stark, ob der Look beruflich, casual oder festlich gelesen wird.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Midikleid wichtig ist
+## Why this matters for dresses and skirts
 
-Das Midikleid ist ein wichtiger Garderobenbaustein, weil es viele Anlässe abdeckt. Es kann im Büro funktionieren, beim Dinner, auf Reisen oder als ruhiges Alltagskleid.
+When you understand Midi Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Midi Dress, length, fabric, waist position, and shoe choice decide whether the line feels light, grounded, feminine, formal, or modern.
 
-- Prüfe, wo der Saum an deiner Wade endet.
-- Achte auf genügend Bewegung beim Gehen.
-- Wähle Schuhe, die die Linie fortführen.
-- Nutze Gürtel oder Jacke, wenn die Proportion mehr Struktur braucht.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Midi Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Midilänge ist automatisch schwierig.  
-**Besser:** Midilänge braucht nur eine bewusste Saumhöhe und passende Schuhe.
+## Common misconceptions
 
-**Missverständnis:** Midikleider wirken immer erwachsen.  
-**Besser:** Mit Denim, Sneakern oder modernen Accessoires können sie sehr leicht wirken.
+**Misconception:** Midi Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Midi Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Midikleid lebt von der richtigen Saumlänge. Wenige Zentimeter verändern die ganze Wirkung.
+## Quick mirror check
+
+Look at “Midi Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Midi Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Proportion](/en/glossary/proportion/)
+- [Dress](/en/glossary/dress/)
+- [Skirt](/en/glossary/skirt/)
+- [Skirt Length](/en/glossary/skirt-length/)
+- [Hem Length](/en/glossary/hem-length/)

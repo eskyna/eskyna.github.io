@@ -1,26 +1,47 @@
 ---
-title: "Was ist Denim?"
-term: "Denim"
-description: "Denim ist ein robuster Baumwollstoff mit diagonaler Struktur, der Jeans und casual Looks ihre typische Wirkung gibt."
-category: "Materialien & Details"
-tags: ["denim", "jeans", "baumwolle", "material", "casual"]
-keywords: ["denim", "was ist denim", "denim stoff", "jeansstoff"]
+title: Was ist Denim?
+term: Denim
+description:
+  Denim ist ein robuster Baumwollstoff mit diagonaler Struktur, der Jeans und casual Looks
+  ihre typische Wirkung gibt.
+category: Materialien & Details
+tags:
+  - denim
+  - jeans
+  - baumwolle
+  - material
+  - casual
+keywords:
+  - denim
+  - was ist denim
+  - denim stoff
+  - jeansstoff
 weight: 5
-image: "images/glossar/denim.png"
-image_alt: "Editoriale Grafik mit Denimstruktur, Jeanstasche und blauen Stoffflächen"
+image: images/glossar/denim.png
+image_alt: Editoriale Grafik mit Denimstruktur, Jeanstasche und blauen Stoffflächen
 relatedTerms:
-  - title: "Jeans"
-    url: "/glossar/jeans/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Jeansjacke"
-    url: "/glossar/jeansjacke/"
+  - title: Jeans
+    url: /glossar/jeans/
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Chinos
+    url: /glossar/chinos/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Jeansjacke
+    url: /glossar/jeansjacke/
+faq:
+  items:
+    - q: Wie nutze ich „Denim“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Denim“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -58,3 +79,17 @@ Für ESKYNA ist Denim interessant, weil er Stilbruch leicht macht. Er nimmt form
 ## ESKYNA-Merksatz
 
 Denim erdet ein Outfit. Seine Stärke liegt darin, Eleganz tragbarer und Alltag klarer wirken zu lassen.
+
+## Praxischeck
+
+Wenn du den Begriff **Denim** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+
+- Fühle Griff, Gewicht und Stand des Materials.
+- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
+- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+
+## Beratungsblick
+
+In der Beratung ist **Denim** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

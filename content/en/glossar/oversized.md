@@ -1,58 +1,92 @@
 ---
-title: "Was bedeutet Oversized?"
-term: "Oversized"
-description: "Oversized beschreibt bewusst großzügig geschnittene Kleidung, die Volumen, Lässigkeit und moderne Proportionen schafft."
-category: "Schnitt, Proportion & Passform"
-tags: ["oversized", "schnitt", "silhouette", "proportion", "passform"]
-keywords: ["oversized", "was bedeutet oversized", "oversized blazer", "oversized schnitt"]
 weight: 16
-image: "images/glossar/oversized.png"
-image_alt: "Editoriale Grafik mit großzügiger Oversized-Silhouette, Körperrahmen und ruhigen Volumenflächen"
+image: images/glossar/oversized.png
+title: What does Oversized mean?
+seoTitle: Oversized explained | ESKYNA Glossary
+term: Oversized
+description: Oversized is a cut, proportion, or fit detail that helps you understand silhouette and
+  make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - oversized
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - oversized
+  - what is oversized
+  - oversized style advice
+slug: oversized
+url: /glossary/oversized/
+aliases:
+  - /glossar/oversized/
+image_alt: Editorial glossary illustration for Oversized
 relatedTerms:
-  - title: "Layering"
-    url: "/glossar/layering/"
-  - title: "Taillierung"
-    url: "/glossar/taillierung/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Fit
+    url: /en/glossary/fit/
+faq:
+  items:
+    - q: How can I use “Oversized” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Oversized” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Oversized** beschreibt Kleidung, die bewusst größer, weiter oder voluminöser geschnitten ist. Der Schnitt ist nicht einfach eine Nummer zu groß, sondern Teil der Gestaltung.
+**Oversized**: Oversized is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Oversized-Blazer hat oft breitere Schultern, mehr Weite im Körper und eine längere Form. Ein Oversized-Hemd fällt lockerer und wirkt entspannter. Ein Oversized-Mantel gibt dem Look mehr Fläche und Präsenz.
+Oversized gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Wichtig ist die Absicht. Oversized wirkt modern, wenn die Proportionen kontrolliert sind. Wenn Schultern, Ärmel, Länge oder Stoff nicht stimmen, sieht ein Teil schnell nur zu groß aus.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Oversized wichtig ist
+## Why this matters for proportion
 
-Oversized kann einem Outfit Lässigkeit, Ruhe und eine moderne Silhouette geben. Der Stil wirkt weniger angepasst und oft selbstverständlicher. Gleichzeitig braucht Volumen Balance.
+When you understand Oversized, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Oversized besonders spannend, weil der Begriff zeigt, dass gute Passform nicht immer körpernah bedeutet. Auch Weite kann perfekt passen, wenn sie zur Person, zur Haltung und zum Rest des Looks passt.
+With Oversized, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-## Worauf du bei Oversized achten solltest
+## What to pay attention to
 
-- Ein Punkt im Outfit sollte Struktur geben, zum Beispiel Taille, Schuh oder Tasche.
-- Die Länge sollte bewusst wirken und nicht zufällig.
-- Der Stoff braucht genug Qualität, damit Volumen schön fällt.
-- Ärmel und Schultern dürfen großzügig sein, sollten aber nicht stören.
-- Die restliche Silhouette sollte das Volumen ausbalancieren.
+- Check the role of Oversized in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Oversized heißt, einfach eine größere Größe zu kaufen.  
-**Besser:** Ein guter Oversized-Schnitt ist konstruiert. Er hat Absicht, Linie und Balance.
+**Misconception:** Oversized is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Oversized wirkt immer lässig.  
-**Besser:** In Wolle, Seide oder klarem Blazerstoff kann Oversized sehr elegant und souverän wirken.
+**Misconception:** Oversized works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Oversized ist nicht zu groß. Oversized ist Volumen mit Haltung.
+Look at “Oversized” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Oversized works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Layering](/en/glossary/layering/)
+- [Blazer](/en/glossary/blazer/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Proportion](/en/glossary/proportion/)
+- [Fit](/en/glossary/fit/)

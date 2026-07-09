@@ -1,24 +1,44 @@
 ---
-title: "Was sind Sneaker?"
-term: "Sneaker"
-description: "Sneaker sind sportlich inspirierte Alltagsschuhe, die je nach Form, Material und Farbe lässig oder sehr klar wirken können."
-category: "Garderobe & Alltag"
-tags: ["sneaker", "schuhe", "smart casual", "jeans", "chinos"]
-keywords: ["sneaker", "was sind sneaker", "sneaker kombinieren", "klare sneaker"]
+title: Was sind Sneaker?
+term: Sneaker
+description: Sneaker sind sportlich inspirierte Alltagsschuhe, die je nach Form, Material und Farbe
+  lässig oder sehr klar wirken können.
+category: Garderobe & Alltag
+tags:
+  - sneaker
+  - schuhe
+  - smart casual
+  - jeans
+  - chinos
+keywords:
+  - sneaker
+  - was sind sneaker
+  - sneaker kombinieren
+  - klare sneaker
 weight: 19
-image: "images/glossar/sneaker.png"
-image_alt: "Editoriale Grafik mit stilisiertem Sneaker, klarer Sohle und neutralen Farbfeldern"
+image: images/glossar/sneaker.png
+image_alt: Editoriale Grafik mit stilisiertem Sneaker, klarer Sohle und neutralen Farbfeldern
 relatedTerms:
-  - title: "Loafer"
-    url: "/glossar/loafer/"
-  - title: "Smart Casual"
-    url: "/glossar/smart-casual/"
-  - title: "Jeans"
-    url: "/glossar/jeans/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
+  - title: Loafer
+    url: /glossar/loafer/
+  - title: Smart Casual
+    url: /glossar/smart-casual/
+  - title: Jeans
+    url: /glossar/jeans/
+  - title: Chinos
+    url: /glossar/chinos/
+  - title: Business Casual
+    url: /glossar/business-casual/
+faq:
+  items:
+    - q: Wie nutze ich „Sneaker“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Sneaker“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +76,17 @@ Für ESKYNA sind Sneaker keine Notlösung. Sie sind ein bewusstes Stilmittel, we
 ## ESKYNA-Merksatz
 
 Sneaker bringen Leichtigkeit in den Look. Gepflegt wirken sie nur, wenn sie bewusst gewählt sind.
+
+## Praxischeck
+
+Wenn du den Begriff **Sneaker** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+
+- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
+- Achte auf Wiederholungen in Farbe, Material und Silhouette.
+- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+
+## Beratungsblick
+
+In der Beratung ist **Sneaker** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).

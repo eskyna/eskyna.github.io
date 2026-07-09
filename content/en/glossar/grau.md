@@ -1,65 +1,94 @@
 ---
-title: "Grau im Stil erklärt"
-term: "Grau"
-description: "Grau wirkt ruhig, sachlich und modern. Die richtige Nuance macht den Unterschied zwischen müde und elegant."
-category: "Farb-Lexikon"
-color_hex: "#8F8F8F"
-tags: ["grau", "farbe", "farbberatung", "neutrale farben"]
-keywords: ["grau kleidung", "grau kombinieren", "anthrazit", "grau farbberatung"]
 weight: 12
-
-image: "images/glossar/grau.png"
-image_alt: "Editoriale Grafik mit Grau-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image: images/glossar/grau.png
+color_hex: "#8F8F8F"
+title: What does Gray mean?
+seoTitle: Gray explained | ESKYNA Glossary
+term: Gray
+description: Gray is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - gray
+  - color lexicon
+  - style glossary
+keywords:
+  - gray
+  - what is gray
+  - gray style advice
+slug: gray
+url: /glossary/gray/
+aliases:
+  - /glossar/grau/
+image_alt: Editorial glossary illustration for Gray
 relatedTerms:
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Anthrazit"
-    url: "/glossar/anthrazit/"
-  - title: "Silber"
-    url: "/glossar/silber/"
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Gray” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Gray” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Grau
+## Definition
 
-Grau ist eine der ruhigsten Basisfarben in der Garderobe. Es wirkt sachlich, modern und zurückhaltend. Gleichzeitig ist Grau anspruchsvoll, weil es ohne Materialtiefe schnell flach oder müde erscheinen kann.
+**Gray**: Gray is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-Die Stärke von Grau liegt in seiner Zurückhaltung. Es lässt Formen, Strukturen und andere Farben deutlicher sprechen. Deshalb ist Grau besonders interessant für minimalistische, professionelle und urbane Looks.
+## In simple words
 
-## Wie Grau wirkt
+Gray gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Hellgrau wirkt weich und leicht. Mittelgrau wirkt neutral und sachlich. Anthrazit wirkt erwachsen, klar und oft weicher als Schwarz. Ein kühles Grau kann sehr präzise wirken. Ein warmes Greige wirkt natürlicher und weniger streng.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Grau braucht oft einen bewussten Partner. Creme macht es weicher, Weiß frischer, Schwarz grafischer, Navy professioneller und Rosa zugänglicher.
+## Why this matters in color styling
 
-## Nuancen und Materialien
+When you understand Gray, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- **Hellgrau:** Leicht, weich und freundlich.
-- **Mittelgrau:** Sachlich und vielseitig.
-- **Anthrazit:** Dunkel, souverän und elegant.
-- **Greige:** Grau mit Beige-Anteil, wärmer und natürlicher.
+With Gray, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-Grau in Flanell wirkt klassisch. Grau in Strick wirkt weich. Grau in glattem Anzugstoff wirkt professionell. Grau in Denim wirkt modern und etwas urbaner.
+## What to pay attention to
 
-## Kombinationen, die funktionieren
+- Check the role of Gray in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- Grau + Weiß: klar und frisch
-- Grau + Creme: weich und gepflegt
-- Grau + Rosa: modern und zugänglich
-- Grau + Navy: professionell und ruhig
-- Grau + Silber: kühl und präzise
+## Common misconceptions
 
-## Im Business und Alltag
+**Misconception:** Gray is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Grau ist im Business sehr wertvoll, weil es Kompetenz zeigt, ohne dominant zu wirken. Ein grauer Blazer, eine graue Hose oder ein grauer Mantel kann eine Garderobe stark beruhigen. Im Alltag wirkt Grau besonders gut mit Struktur, zum Beispiel Strick, Denim, Wolle oder Tweed.
+**Misconception:** Gray works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Grau ist nicht langweilig. Grau ist eine Bühne für Material, Linie und Haltung.
+Look at “Gray” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Gray works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

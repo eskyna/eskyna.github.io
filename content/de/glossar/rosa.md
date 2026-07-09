@@ -1,33 +1,50 @@
 ---
-title: "Rosa im Stil erklärt"
-term: "Rosa"
-description: "Rosa wirkt je nach Nuance, Material und Styling sportlich, elegant, modern oder business-tauglich."
-category: "Farb-Lexikon"
+title: Rosa im Stil erklärt
+term: Rosa
+description: Rosa wirkt je nach Nuance, Material und Styling sportlich, elegant, modern oder business-tauglich.
+category: Farb-Lexikon
 color_hex: "#D9A5B2"
-tags: ["rosa", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["rosa kleidung", "rosa kombinieren", "farbberatung", "stilberatung"]
+tags:
+  - rosa
+  - farbe
+  - farbberatung
+  - farbwirkung
+keywords:
+  - rosa kleidung
+  - rosa kombinieren
+  - farbberatung
+  - stilberatung
 weight: 9
-image: "images/glossar/rosa.png"
-image_alt: "Editoriale Grafik mit Rosa-Nuancen, feinen Stoffflächen und ruhigen Kombinationsfarben"
+image: images/glossar/rosa.png
+image_alt: Editoriale Grafik mit Rosa-Nuancen, feinen Stoffflächen und ruhigen Kombinationsfarben
 relatedTerms:
-  - title: "Rot"
-    url: "/glossar/rot/"
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Pink"
-    url: "/glossar/pink/"
-  - title: "Lila"
-    url: "/glossar/lila/"
-  - title: "Fuchsia"
-    url: "/glossar/fuchsia/"
-  - title: "Roségold"
-    url: "/glossar/rosegold/"
+  - title: Rot
+    url: /glossar/rot/
+  - title: Bordeaux
+    url: /glossar/bordeaux/
+  - title: Farbtyp
+    url: /glossar/farbtyp/
+  - title: Unterton
+    url: /glossar/unterton/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Pink
+    url: /glossar/pink/
+  - title: Lila
+    url: /glossar/lila/
+  - title: Fuchsia
+    url: /glossar/fuchsia/
+  - title: Roségold
+    url: /glossar/rosegold/
+faq:
+  items:
+    - q: Wie nutze ich „Rosa“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Rosa“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Rosa

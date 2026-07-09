@@ -4,6 +4,14 @@
 {{ with .CurrentSection }}{{ $sectionUI = .Params.ui }}{{ end }}
 {{ $homeUI := .Site.Home.Params.ui }}
 {{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isRuLang := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $glossaryHref := "glossar" | relLangURL }}
+{{ with .CurrentSection }}{{ $glossaryHref = .RelPermalink }}{{ end }}
+{{ $colorWheelHeading := cond $isRuLang "Выберите цвет" (cond (eq $lang "en") "Choose colors directly" "Farben direkt wählen") }}
+{{ $colorWheelIntro := cond $isRuLang "Выберите оттенок на цветовом круге и перейдите сразу к подходящему термину." (cond (eq $lang "en") "Select a shade in the color wheel and jump directly to the matching term." "Wähle im Farbkreis eine Nuance und springe direkt zum passenden Begriff.") }}
+{{ $colorWheelLabel := cond $isRuLang "Выбор цвета" (cond (eq $lang "en") "Color selection" "Farbauswahl") }}
+{{ $colorWheelCenter := cond $isRuLang "Цветовой круг" (cond (eq $lang "en") "Color wheel" "Farbkreis") }}
 {{ $category := .Params.glossar_category | default .Title }}
 {{ $allGlossarPages := where .CurrentSection.RegularPages "Params.is_glossar_category" "ne" true }}
 {{ $terms := sort (where $allGlossarPages "Params.category" $category) "Title" "asc" }}
@@ -81,7 +89,7 @@
   <section class="hero-small glossar-list-hero">
     <div class="container glossar-list-hero-shell">
       <div class="glossar-list-hero-copy">
-        <a class="back-link" href="{{ "glossar" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
+        <a class="back-link" href="{{ $glossaryHref }}" title="{{ $backText }}">{{ $backText }}</a>
         <h1 class="glossar-list-title">{{ .Title }}</h1>
         {{ with .Description }}
         <p class="glossar-list-description">{{ . }}</p>
@@ -102,9 +110,9 @@
       <div class="glossar-category-view">
         {{ if and $isColorLexicon (gt (len $wheelTerms) 0) }}
           <section class="glossar-color-wheel-block" aria-labelledby="glossar-color-wheel-heading">
-            <h2 id="glossar-color-wheel-heading" class="glossar-color-wheel-heading">Farben direkt wählen</h2>
-            <p class="glossar-color-wheel-intro">Wähle im Farbkreis eine Nuance und springe direkt zum passenden Begriff.</p>
-            <div class="glossar-color-wheel" role="list" aria-label="Farbauswahl">
+            <h2 id="glossar-color-wheel-heading" class="glossar-color-wheel-heading">{{ $colorWheelHeading }}</h2>
+            <p class="glossar-color-wheel-intro">{{ $colorWheelIntro }}</p>
+            <div class="glossar-color-wheel" role="list" aria-label="{{ $colorWheelLabel }}">
               {{ range $index, $term := $wheelTerms }}
                 {{ $termTitle := $term.Params.term | default $term.Title }}
                 {{ $termId := printf "term-%s" $term.File.BaseFileName }}
@@ -121,7 +129,7 @@
                   <span class="glossar-color-wheel-dot-label">{{ $termTitle }}</span>
                 </a>
               {{ end }}
-              <span class="glossar-color-wheel-center" aria-live="polite" aria-atomic="true">Farbkreis</span>
+              <span class="glossar-color-wheel-center" aria-live="polite" aria-atomic="true">{{ $colorWheelCenter }}</span>
             </div>
           </section>
         {{ end }}
@@ -161,7 +169,6 @@
     </div>
   </section>
 
-  {{ partial "contact-modal.html" . }}
 </main>
 {{ if and $isColorLexicon (gt (len $wheelTerms) 0) }}
 <script>

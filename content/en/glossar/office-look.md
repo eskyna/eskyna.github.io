@@ -1,65 +1,143 @@
 ---
-title: "Was bedeutet Office Look?"
-term: "Office Look"
-description: "Ein Office Look ist ein Outfit für den Arbeitsalltag, das professionell wirkt und zum Umfeld passt."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "office look"]
-keywords: ["office look", "was bedeutet office look", "office look stilberatung"]
 weight: 1
-image: "images/glossar/office-look.png"
-image_alt: "Editoriale Glossar-Grafik zu Office Look mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/office-look.png
+title: What does Office Look mean?
+seoTitle: Office Look explained | ESKYNA Glossary
+term: Office Look
+description:
+  Office Look is a wardrobe or everyday styling concept that helps you understand daily outfits and make
+  more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - office look
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - office look
+  - what is office look
+  - office look style advice
+slug: office-look
+url: /glossary/office-look/
+aliases:
+  - /glossar/office-look/
+image_alt: Editorial glossary illustration for Office Look
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Office Look” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether a piece will
+        actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Office Look” work the same way for everyone?
+      a: No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style direction.
+    - q: Is Office Look only a fashion topic?
+      a: No. Office Look becomes useful when it leads to concrete decisions for clothing, impact, and daily life.
+lastmod: "2026-07-09"
+commercial_intent: true
+commercial_weight: 28
+commercial_cluster: business
+editorial_depth: mini-case-offer-bridge
+content_level: commercial-pillar
+consulting_questions:
+  - Which role, situation, or stage does the outfit need to cover?
+  - How much formality does the moment need without feeling like a costume?
+  - Which details show professionalism while staying personal?
+consulting_focus:
+  Office Look becomes especially relevant in consultation when a concept needs to turn into a concrete
+  decision for clothing, impact, or wardrobe planning.
+offer_bridge:
+  kicker: Relevant ESKYNA offer
+  title: Guide professional impact with more clarity
+  text:
+    When the term is connected to work, visibility, or important appointments, clothing becomes a strategic
+    decision for presence and credibility.
+  bullets:
+    - translate dress codes safely
+    - connect role and personality
+    - plan looks for meetings, stage, or camera
+  primary_label: Explore ESKYNA Presence
+  primary_url: /en/presence/
+  secondary_label: Ask a style question
+  secondary_url: /en/style-question/
 ---
 
 ## Definition
 
-**Office Look**: Ein Office Look ist ein Outfit für den Arbeitsalltag, das professionell wirkt und zum Umfeld passt.
+**Office Look**: Office Look is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann.
+Office Look gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Office Look wichtig ist
+## Why this matters in your wardrobe
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Office Look, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Office Look, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Office Look, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Office Look im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Office Look in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Office Look ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Office Look is only a fashion word.
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Office Look funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Office Look works the same way for everyone.
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Office Look wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Office Look” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+Office Look works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)
+
+<!-- commercial-depth-start -->
+
+## Real consulting situation
+
+With **Office Look**, the consulting question becomes practical when a beautiful definition has to become a real decision: what stays, what is combined differently, what is worth buying, and what can be left out? Often the issue is not one garment, but the missing logic behind it.
+
+## Mini case: from doubt to decision
+
+A typical client may understand **Office Look** in theory, yet still lack a reliable filter in front of the mirror. We check existing pieces, compare alternatives, and translate the idea into two or three clear rules for daily life, work, and special occasions. This turns uncertainty into a decision you can repeat.
+
+## Decision filter before your next purchase
+
+- Does the decision support your intended impact?
+- Does it work with color, cut, proportion, and your existing wardrobe?
+- Can you combine it with at least three pieces you already own?
+- Does it still feel right after a long day?
+
+## How to know that support would help
+
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Office Look** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Presence](/en/presence/) if you want to turn this idea into a clear style decision.
+
+<!-- commercial-depth-end -->

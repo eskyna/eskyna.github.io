@@ -6,13 +6,34 @@
 {{ $byRelevanceText := or $sectionUI.by_relevance_text $homeUI.by_relevance_text "Nach Relevanz" }}
 {{ $searchPlaceholderText := or $sectionUI.search_placeholder $homeUI.search_placeholder "Begriff suchen..." }}
 {{ $noResultsText := or $sectionUI.no_results $homeUI.no_results "Keine Ergebnisse gefunden." }}
-{{ $termCountLabel := cond (eq .Site.Language.Lang "ru") "терминов" (cond (eq .Site.Language.Lang "en") "terms" "Begriffe") }}
-{{ $dailyTermKicker := or $sectionUI.daily_term_kicker (cond (eq .Site.Language.Lang "ru") "Стиль дня" (cond (eq .Site.Language.Lang "en") "Style of the day" "Stil-Impuls des Tages")) }}
-{{ $dailyTermText := or $sectionUI.daily_term_text (cond (eq .Site.Language.Lang "ru") "Стиль и мода полны красивых нюансов. Откройте новый термин и найдите вдохновение для своего образа." (cond (eq .Site.Language.Lang "en") "Style and fashion are full of beautiful details. Discover one new term and pick up fresh inspiration for your look." "Mode und Stil haben so viele schöne Facetten. Entdecke neue Begriffe und finde frische Inspiration für deinen Auftritt.")) }}
-{{ $dailyTermButtonText := or $sectionUI.daily_term_button_text (cond (eq .Site.Language.Lang "ru") "Удивите меня стилем" (cond (eq .Site.Language.Lang "en") "Surprise me with style" "Überrasch mich mit Stilwissen")) }}
-{{ $dailyTermSurpriseText := or $sectionUI.daily_term_surprise_text (cond (eq .Site.Language.Lang "ru") "Jeden Tag wartet ein neuer стиль-импульс." (cond (eq .Site.Language.Lang "en") "A new style surprise is waiting every day." "Jeden Tag wartet ein neuer Stilimpuls auf dich.")) }}
+{{ $isRuLang := or (eq .Site.Language.Lang "ru") (eq .Site.Language.Lang "rus") }}
+{{ $termCountLabel := cond $isRuLang "терминов" (cond (eq .Site.Language.Lang "en") "terms" "Begriffe") }}
+{{ $categoryCountLabel := cond $isRuLang "категорий" (cond (eq .Site.Language.Lang "en") "categories" "Kategorien") }}
+{{ $dailyTermKicker := or $sectionUI.daily_term_kicker (cond $isRuLang "Стиль дня" (cond (eq .Site.Language.Lang "en") "Style of the day" "Stil-Impuls des Tages")) }}
+{{ $dailyTermText := or $sectionUI.daily_term_text (cond $isRuLang "Стиль и мода полны красивых нюансов. Откройте новый термин и найдите вдохновение для своего образа." (cond (eq .Site.Language.Lang "en") "Style and fashion are full of beautiful details. Discover one new term and pick up fresh inspiration for your look." "Mode und Stil haben so viele schöne Facetten. Entdecke neue Begriffe und finde frische Inspiration für deinen Auftritt.")) }}
+{{ $dailyTermButtonText := or $sectionUI.daily_term_button_text (cond $isRuLang "Удивите меня стилем" (cond (eq .Site.Language.Lang "en") "Surprise me with style" "Überrasch mich mit Stilwissen")) }}
+{{ $dailyTermSurpriseText := or $sectionUI.daily_term_surprise_text (cond $isRuLang "Каждый день вас ждет новый стильный импульс." (cond (eq .Site.Language.Lang "en") "A new style surprise is waiting every day." "Jeden Tag wartet ein neuer Stilimpuls auf dich.")) }}
 {{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
 {{ $glossarPages := (where .RegularPages "Params.is_glossar_category" "ne" true).ByTitle }}
+{{ $featuredTermsRaw := where $glossarPages "Params.featured_glossar" true }}
+{{ $featuredTerms := first 12 (sort (sort $featuredTermsRaw "Title" "asc") "Params.featured_weight" "asc") }}
+{{ $featuredHeading := or $sectionUI.featured_heading (cond $isRuLang "Ключевые понятия для начала" (cond (eq .Site.Language.Lang "en") "Key style terms to start with" "Zentrale Stilbegriffe zum Einstieg")) }}
+{{ $featuredIntro := or $sectionUI.featured_intro (cond $isRuLang "Эти понятия помогают понять основу цвета, стиля, впечатления и гардероба." (cond (eq .Site.Language.Lang "en") "Start with the terms that shape color, style, impact, and wardrobe planning." "Starte mit den Begriffen, die Farbe, Stil, Wirkung und Garderobe besonders gut verbinden.")) }}
+{{ $commercialTermsRaw := where $glossarPages "Params.commercial_intent" true }}
+{{ $commercialTerms := first 18 (sort (sort $commercialTermsRaw "Title" "asc") "Params.commercial_weight" "asc") }}
+{{ $commercialHeading := or $sectionUI.commercial_heading (cond $isRuLang "Темы, которые часто приводят к консультации" (cond (eq .Site.Language.Lang "en") "Terms that often lead to a consultation" "Begriffe mit hoher Beratungsrelevanz")) }}
+{{ $commercialIntro := or $sectionUI.commercial_intro (cond $isRuLang "Эти понятия особенно часто становятся конкретными решениями для цвета, стиля, гардероба, покупок и профессионального образа." (cond (eq .Site.Language.Lang "en") "These terms often turn into concrete decisions about color, style, wardrobe, shopping, and professional presence." "Diese Begriffe werden besonders häufig zu konkreten Entscheidungen für Farbe, Stil, Garderobe, Einkauf und professionelle Wirkung.")) }}
+{{ $commercialKicker := cond $isRuLang "консультация" (cond (eq .Site.Language.Lang "en") "consultation topic" "Beratungsthema") }}
+{{ $commercialClusterLabels := dict "color" "Farbe" "style" "Stil" "image" "Wirkung" "wardrobe" "Garderobe" "shopping" "Einkauf" "fit" "Passform" "business" "Business" }}
+{{ if eq .Site.Language.Lang "en" }}
+  {{ $commercialClusterLabels = dict "color" "color" "style" "style" "image" "impact" "wardrobe" "wardrobe" "shopping" "shopping" "fit" "fit" "business" "business" }}
+{{ else if $isRuLang }}
+  {{ $commercialClusterLabels = dict "color" "цвет" "style" "стиль" "image" "впечатление" "wardrobe" "гардероб" "shopping" "покупки" "fit" "посадка" "business" "профессия" }}
+{{ end }}
+{{ $topicPathways := slice }}
+{{ with $sectionUI.topic_pathways }}{{ $topicPathways = . }}{{ end }}
+{{ $topicPathwaysHeading := or $sectionUI.topic_pathways_heading (cond $isRuLang "Навигация по стилевой задаче" (cond (eq .Site.Language.Lang "en") "Browse by style question" "Orientierung nach Stilfrage")) }}
+{{ $topicPathwaysIntro := or $sectionUI.topic_pathways_intro (cond $isRuLang "Выберите вход в тему, который соответствует вашему текущему вопросу." (cond (eq .Site.Language.Lang "en") "Choose the entry point that matches your current decision." "Wähle den Einstieg, der zu deiner aktuellen Frage passt.")) }}
 {{ $dailyTermLinks := slice }}
 {{ range $glossarPages }}
   {{ $dailyTermLinks = $dailyTermLinks | append .RelPermalink }}
@@ -36,6 +57,9 @@
         {{ with .Description }}
         <p class="glossar-list-description">{{ . }}</p>
         {{ end }}
+        {{ with .Content }}
+        <div class="glossar-list-intro">{{ . }}</div>
+        {{ end }}
 
         {{ if gt (len $glossarPages) 0 }}
         <div class="glossar-daily-cta" data-daily-term data-daily-term-links="{{ delimit $dailyTermLinks "|" }}" data-daily-term-surprise="{{ $dailyTermSurpriseText }}">
@@ -56,6 +80,82 @@
     </div>
   </section>
 
+  {{ if gt (len $topicPathways) 0 }}
+  <section class="glossar-pathways-section" aria-labelledby="glossar-pathways-heading">
+    <div class="container glossar-pathways-shell">
+      <div class="glossar-pathways-copy">
+        <h2 id="glossar-pathways-heading" class="glossar-pathways-heading">{{ $topicPathwaysHeading }}</h2>
+        <p class="glossar-pathways-intro">{{ $topicPathwaysIntro }}</p>
+      </div>
+      <ul class="glossar-pathways-list">
+        {{ range $topicPathways }}
+          <li class="glossar-pathway-card">
+            <a href="{{ .href | relURL }}" class="glossar-pathway-link" title="{{ .title | plainify }}">
+              <span class="glossar-pathway-title">{{ .title }}</span>
+              <span class="glossar-pathway-text">{{ .text }}</span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if gt (len $featuredTerms) 0 }}
+  <section class="glossar-featured-section" aria-labelledby="glossar-featured-heading">
+    <div class="container glossar-featured-shell">
+      <div class="glossar-featured-copy">
+        <h2 id="glossar-featured-heading" class="glossar-featured-heading">{{ $featuredHeading }}</h2>
+        <p class="glossar-featured-intro">{{ $featuredIntro }}</p>
+      </div>
+      <ul class="glossar-featured-list">
+        {{ range $featuredTerms }}
+          {{ $termTitle := .Params.term | default .Title }}
+          <li class="glossar-featured-item">
+            <a class="glossar-featured-link" href="{{ .RelPermalink }}" title="{{ $termTitle | plainify }}">
+              <span class="glossar-featured-title">{{ $termTitle }}</span>
+              {{ with .Description }}
+                <span class="glossar-featured-excerpt">{{ . }}</span>
+              {{ end }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if gt (len $commercialTerms) 0 }}
+  <section class="glossar-commercial-section" aria-labelledby="glossar-commercial-heading">
+    <div class="container glossar-commercial-shell">
+      <div class="glossar-commercial-copy">
+        <p class="glossar-commercial-kicker">{{ $commercialKicker }}</p>
+        <h2 id="glossar-commercial-heading" class="glossar-commercial-heading">{{ $commercialHeading }}</h2>
+        <p class="glossar-commercial-intro">{{ $commercialIntro }}</p>
+      </div>
+      <ul class="glossar-commercial-list">
+        {{ range $commercialTerms }}
+          {{ $termTitle := .Params.term | default .Title }}
+          {{ $cluster := .Params.commercial_cluster | default "" }}
+          {{ $clusterLabel := $cluster }}
+          {{ with index $commercialClusterLabels $cluster }}{{ $clusterLabel = . }}{{ end }}
+          <li class="glossar-commercial-item">
+            <a class="glossar-commercial-link" href="{{ .RelPermalink }}" title="{{ $termTitle | plainify }}">
+              <span class="glossar-commercial-meta">{{ printf "%02d" (.Params.commercial_weight | default .Params.weight | default 0) }} · {{ $clusterLabel }}</span>
+              <span class="glossar-commercial-title">{{ $termTitle }}</span>
+              {{ with .Params.consulting_focus }}
+                <span class="glossar-commercial-excerpt">{{ . }}</span>
+              {{ else with .Description }}
+                <span class="glossar-commercial-excerpt">{{ . }}</span>
+              {{ end }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
   <section class="glossar-navigation-section">
     <div class="container glossar-navigation-shell">
       <div class="glossar-search-box">
@@ -67,7 +167,7 @@
           aria-label="{{ $searchPlaceholderText }}"
         >
         <div class="glossar-search-feedback" aria-live="polite">
-          <p class="glossar-results-count" id="glossar-results-count">
+          <p class="glossar-results-count" id="glossar-results-count" data-term-count-label="{{ $termCountLabel }}" data-category-count-label="{{ $categoryCountLabel }}">
             <span class="glossar-results-number">{{ len $glossarPages }}</span>
             <span class="glossar-results-label">{{ $termCountLabel }}</span>
           </p>
@@ -284,7 +384,6 @@
     </div>
   </section>
 
-  {{ partial "contact-modal.html" . }}
 </main>
 
 <script>
@@ -294,6 +393,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const searchInput = document.getElementById('glossar-search');
   const resultCount = document.getElementById('glossar-results-count');
   const resultNumber = document.querySelector('.glossar-results-number');
+  const resultLabel = document.querySelector('.glossar-results-label');
   const noResults = document.getElementById('glossar-no-results');
   const dailyTermWrap = document.querySelector('[data-daily-term]');
 
@@ -320,8 +420,16 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  function updateResultLabel(activePanel) {
+    if (!resultCount || !resultLabel) return;
+    const termLabel = resultCount.getAttribute('data-term-count-label') || resultLabel.textContent;
+    const categoryLabel = resultCount.getAttribute('data-category-count-label') || termLabel;
+    resultLabel.textContent = activePanel && activePanel.id === 'glossar-panel-categories' ? categoryLabel : termLabel;
+  }
+
   function updateSearchView(query) {
     const activePanel = document.querySelector('.glossar-panel.active');
+    updateResultLabel(activePanel);
     const terms = activePanel ? activePanel.querySelectorAll('.glossar-term-item, .glossar-category-card-item') : [];
     let visibleCount = 0;
 
@@ -351,34 +459,46 @@ document.addEventListener('DOMContentLoaded', function() {
       noResults.hidden = visibleCount !== 0;
     }
   }
-  
+
+  function activateTab(tab) {
+    if (!tab) return;
+
+    tabs.forEach(t => {
+      t.classList.remove('active');
+      t.setAttribute('aria-selected', 'false');
+    });
+    panels.forEach(p => {
+      p.hidden = true;
+      p.classList.remove('active');
+    });
+
+    tab.classList.add('active');
+    tab.setAttribute('aria-selected', 'true');
+    const activePanel = document.getElementById(tab.getAttribute('aria-controls'));
+    if (activePanel) {
+      activePanel.hidden = false;
+      activePanel.classList.add('active');
+    }
+
+    const query = (searchInput?.value || '').toLowerCase().trim();
+    updateSearchView(query);
+  }
+
   tabs.forEach(tab => {
     tab.addEventListener('click', function() {
-      tabs.forEach(t => {
-        t.classList.remove('active');
-        t.setAttribute('aria-selected', 'false');
-      });
-      panels.forEach(p => {
-        p.hidden = true;
-        p.classList.remove('active');
-      });
-      
-      this.classList.add('active');
-      this.setAttribute('aria-selected', 'true');
-      const activePanel = document.getElementById(this.getAttribute('aria-controls'));
-      if (activePanel) {
-        activePanel.hidden = false;
-        activePanel.classList.add('active');
-      }
-
-      const query = (searchInput?.value || '').toLowerCase().trim();
-      updateSearchView(query);
+      activateTab(this);
     });
   });
 
   if (searchInput) {
     searchInput.addEventListener('input', function(e) {
       const query = e.target.value.toLowerCase().trim();
+      const activePanel = document.querySelector('.glossar-panel.active');
+      const alphabetTab = document.getElementById('glossar-tab-alphabet');
+      if (query && activePanel && activePanel.id === 'glossar-panel-categories' && alphabetTab) {
+        activateTab(alphabetTab);
+        return;
+      }
       updateSearchView(query);
     });
   }

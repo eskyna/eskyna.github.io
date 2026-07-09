@@ -1,62 +1,94 @@
 ---
-title: "Anthrazit im Stil erklärt"
-term: "Anthrazit"
-description: "Anthrazit ist ein dunkles Grau. Es wirkt klar und professionell, aber meist weicher und moderner als Schwarz."
-category: "Farb-Lexikon"
-color_hex: "#3E4247"
-tags: ["anthrazit", "grau", "farbe", "neutrale farben", "farbberatung"]
-keywords: ["anthrazit kleidung", "anthrazit kombinieren", "dunkelgrau", "neutrale farben"]
 weight: 19
-image: "images/glossar/anthrazit.png"
-image_alt: "Editoriale Grafik zu Anthrazit mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/anthrazit.png
+color_hex: "#3E4247"
+title: What does Anthracite mean?
+seoTitle: Anthracite explained | ESKYNA Glossary
+term: Anthracite
+description: Anthracite is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - anthracite
+  - color lexicon
+  - style glossary
+keywords:
+  - anthracite
+  - what is anthracite
+  - anthracite style advice
+slug: anthracite
+url: /glossary/anthracite/
+aliases:
+  - /glossar/anthrazit/
+image_alt: Editorial glossary illustration for Anthracite
 relatedTerms:
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Anthracite” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Anthracite” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Anthrazit
+## Definition
 
-Anthrazit ist die dunkle, erwachsene Seite von Grau. Es bringt Tiefe in einen Look, ohne so hart zu wirken wie Schwarz.
+**Anthracite**: Anthracite is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Anthrazit wirkt
+## In simple words
 
-Anthrazit wirkt ruhig, seriös und strukturiert. Die Farbe eignet sich besonders für Blazer, Hosen, Mäntel, Strick und Schuhe. Sie schafft eine klare Linie, bleibt aber zurückhaltend. In vielen Garderoben ist Anthrazit eine elegante Basisfarbe, weil sie Schwarz ersetzen kann, ohne an Wirkung zu verlieren.
+Anthracite gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Anthrazit
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Kühles Anthrazit:** Wirkt klar und grafisch. Schön zu Weiß, Silber und Blau.
-- **Warmes Anthrazit:** Hat einen leichten Braunanteil und wirkt weicher.
-- **Meliertes Anthrazit:** Besonders bei Strick und Wolle interessant, weil die Oberfläche Tiefe bekommt.
-- **Fast Schwarz:** Sehr dunkel, aber mit grauer Ruhe statt schwarzer Härte.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Anthracite, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In glatter Wolle wirkt Anthrazit formell und hochwertig. In Strick wird es weicher. In Denim wirkt es urban. In Leder bekommt es eine moderne, etwas kantige Note.
+With Anthracite, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Anthrazit kombinieren
+## What to pay attention to
 
-- **Anthrazit + Off-White:** klar und weich
-- **Anthrazit + Hellblau:** frisch und professionell
-- **Anthrazit + Bordeaux:** tief und elegant
-- **Anthrazit + Rosa:** modern und fein
-- **Anthrazit + Schwarz:** tonal und urban
+- Check the role of Anthracite in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Anthrazit im Business und Alltag
+## Common misconceptions
 
-Anthrazit ist ideal für professionelle Looks. Ein anthrazitfarbener Anzug oder Mantel wirkt souverän, aber weniger streng als Schwarz. Mit hellen Oberteilen entsteht ein ruhiger, klarer Business-Look.
+**Misconception:** Anthracite is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Anthrazit funktioniert
+**Misconception:** Anthracite works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Anthrazit funktioniert besonders gut, wenn Schwarz zu schwer wirkt. Nahe am Gesicht kann es weicher sein als Schwarz, braucht aber oft etwas Licht durch Schmuck, Kragen, Schal oder Lippenfarbe.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Anthracite” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Anthrazit ist die leise Alternative zu Schwarz. Stark, aber nicht hart.
+## ESKYNA note
+
+Anthracite works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

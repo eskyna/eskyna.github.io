@@ -1,65 +1,94 @@
 ---
-title: "Was bedeutet Look?"
-term: "Look"
-description: "Ein Look beschreibt den sichtbaren Gesamteindruck eines Outfits und die Wirkung, die daraus entsteht."
-category: "Stil & Wirkung"
-tags: ["look", "stil"]
-keywords: ["look", "was bedeutet look", "look stilberatung"]
 weight: 1
-image: "images/glossar/look.png"
-image_alt: "Editoriale Glossar-Grafik zu Look mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/look.png
+title: What does Look mean?
+seoTitle: Look explained | ESKYNA Glossary
+term: Look
+description:
+  Look is a style concept that helps you understand presence and make more conscious styling
+  decisions.
+category: Style & Impact
+tags:
+  - look
+  - style & impact
+  - style glossary
+keywords:
+  - look
+  - what is look
+  - look style advice
+slug: look
+url: /glossary/look/
+aliases:
+  - /glossar/look/
+image_alt: Editorial glossary illustration for Look
 relatedTerms:
-  - title: "Signature Look"
-    url: "/glossar/signature-look/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
+  - title: Signature Look
+    url: /en/glossary/signature-look/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Personal Style
+    url: /en/glossary/personal-style/
+  - title: Impact
+    url: /en/glossary/impact/
+faq:
+  items:
+    - q: How can I use “Look” in real outfits?
+      a:
+        Use it as a checkpoint for presence, personality, and visual message. Use it to make your appearance
+        feel more coherent, precise, and authentic.
+    - q: Does “Look” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Look**: Ein Look beschreibt den sichtbaren Gesamteindruck eines Outfits und die Wirkung, die daraus entsteht.
+**Look**: Look is a style concept that helps you understand presence and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Look gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Look wichtig ist
+## Why this matters for your image
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Look, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Look, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Look, the important question is what it communicates. A strong look is not only attractive; it also supports the role, mood, and presence you want to show.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Look im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Look in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Look ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Look is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Look funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Look works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Look wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Look” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Signature Look](/glossar/signature-look/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Passform](/glossar/passform/)
-- [Silhouette](/glossar/silhouette/)
-- [Outfit-Formel](/glossar/outfit-formel/)
+Look works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Signature Look](/en/glossary/signature-look/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Personal Style](/en/glossary/personal-style/)
+- [Impact](/en/glossary/impact/)

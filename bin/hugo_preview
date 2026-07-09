@@ -70,4 +70,4 @@ if [[ -n "${HUGO_PREVIEW_LINKS_CHECKED:-}" ]]; then
   echo "Geprufte Links: $HUGO_PREVIEW_LINKS_CHECKED"
 fi
 
-exec hugo server -D "$@"
+exec hugo server -D --renderToMemory --cleanDestinationDir=false "$@"

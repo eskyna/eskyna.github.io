@@ -1,33 +1,35 @@
 ---
-title: "EStyle: Dein digitaler Stilberater"
-seoTitle: "EStyle | Digitale Stilberatung"
-eyebrow: "Digitales Angebot von Natalia Kleemann"
-image: "images/estyle-app.png"
+title: "EStyle: your digital style advisor"
+seoTitle: EStyle digital style advisor | ESKYNA
+description: EStyle gives you digital style guidance for colors, outfits, wardrobe decisions, and smarter shopping.
+url: /estyle/
+image: images/estyle-app.png
 ---
 
-**EStyle** bringt dir digitale Stilberatung in einen klaren, schnellen Ablauf.
-Statt allgemeiner Mode-Tipps bekommst du konkrete Orientierung für deinen Alltag: Was passt zu dir, was lässt sich sinnvoll kombinieren und was kannst du beim Kauf weglassen.
+**EStyle** turns digital style advice into a clear and practical process.
 
-## Was du konkret bekommst
+Instead of generic fashion tips, you receive concrete orientation for your everyday life: what suits you, what can be combined well, and what you can leave out when shopping.
 
-- **Schnelle Stil-Impulse im Chat:** kurze, direkte Empfehlungen ohne lange Vorbereitung
-- **Farb- und Stil-Orientierung:** klarere Entscheidungen bei Outfit und Einkauf
-- **Kombinationsideen für vorhandene Teile:** mehr aus deiner Garderobe herausholen statt ständig neu kaufen
-- **Weniger Fehlkäufe:** bessere Trefferquote durch stimmigere Auswahl
+## What you get
 
-## Für wen EStyle besonders hilfreich ist
+- **Color and style orientation:** clearer decisions for outfits and shopping
+- **Combination ideas for existing pieces:** get more out of your wardrobe instead of constantly buying new things
+- **Fewer bad purchases:** better choices through a more coherent selection
+- **Fast digital access:** ideal when you want a first impulse without booking a full consultation
 
-EStyle ist für Menschen, die im Beruf und Alltag sicher auftreten möchten und sich beim Shoppen eine klare, praktische Entscheidungshilfe wünschen.
+## Who EStyle is especially helpful for
 
-## Aktueller Stand
+EStyle is for people who want to appear confident in work and everyday life and want a clear, practical decision aid while shopping or planning outfits.
 
-EStyle läuft aktuell als **Beta-Version** und wird laufend weiterentwickelt.
+It is also useful for teams, founders, and brands that want to explore digital style guidance in a structured way.
 
-## Jetzt Beta in Telegram testen
+## Beta version
 
-Starte direkt im Telegram-Chat:
+EStyle is currently available as a **beta version** and is being developed continuously.
 
-**[ESKYNA digital auf Telegram öffnen →](https://t.me/eskyna_bot)**
+The digital offer does not replace a personal consultation with Natalia, but it can help you make first decisions more consciously.
 
-Wenn du Fragen zu EStyle oder zur B2B-Nutzung hast:
-**[estyle@eskyna.com](mailto:estyle@eskyna.com)**
+**[Open ESKYNA digital on Telegram →](https://t.me/eskyna_bot)**
+
+For questions about EStyle or B2B use, write to:
+[natalia@eskyna.com](mailto:natalia@eskyna.com)

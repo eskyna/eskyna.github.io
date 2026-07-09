@@ -3,7 +3,7 @@
 other = "Общий запрос"
 
 [cf_privacy_href]
-other = "/rus/datenschutz/"
+other = "/rus/politika-konfidentsialnosti/"
 
 [cf_name_label]
 other = "Имя *"
@@ -142,3 +142,22 @@ other = "Запишитесь на бесплатную первичную ко�
 
 [glossar_consult_cta_button]
 other = "Записаться на бесплатную консультацию"
+
+# Footer localized labels
+[footer_glossar_text]
+other = "Глоссарий"
+
+[footer_about_text]
+other = "Обо мне"
+
+[footer_blog_text]
+other = "Блог"
+
+[footer_estyle_text]
+other = "EStyle"
+
+[footer_imprint_text]
+other = "Правовая информация"
+
+[footer_privacy_text]
+other = "Политика конфиденциальности"

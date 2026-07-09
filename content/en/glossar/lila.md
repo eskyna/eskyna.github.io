@@ -1,66 +1,94 @@
 ---
-title: "Lila im Stil erklärt"
-term: "Lila"
-description: "Lila reicht von zartem Flieder bis zu tiefem Violett und wirkt je nach Nuance weich, kreativ oder elegant."
-category: "Farb-Lexikon"
-color_hex: "#8F6BAE"
-tags: ["lila", "violett", "flieder", "farbe"]
-keywords: ["lila kleidung", "lila kombinieren", "violett farbberatung", "flieder kleidung"]
 weight: 15
-image: "images/glossar/lila.png"
-image_alt: "Editoriale Grafik mit Lila-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image: images/glossar/lila.png
+color_hex: "#8F6BAE"
+title: What does Purple mean?
+seoTitle: Purple explained | ESKYNA Glossary
+term: Purple
+description: Purple is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - purple
+  - color lexicon
+  - style glossary
+keywords:
+  - purple
+  - what is purple
+  - purple style advice
+slug: purple
+url: /glossary/purple/
+aliases:
+  - /glossar/lila/
+image_alt: Editorial glossary illustration for Purple
 relatedTerms:
-  - title: "Pink"
-    url: "/glossar/pink/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Blau"
-    url: "/glossar/blau/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
-  - title: "Flieder"
-    url: "/glossar/flieder/"
-  - title: "Violett"
-    url: "/glossar/violett/"
-  - title: "Fuchsia"
-    url: "/glossar/fuchsia/"
+  - title: Pink
+    url: /en/glossary/pink/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Purple” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Purple” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Lila
+## Definition
 
-Lila liegt zwischen Rot und Blau. Genau diese Mischung macht die Farbe interessant: Sie kann weich, kreativ, geheimnisvoll oder sehr elegant wirken. Die Nuance entscheidet fast alles.
+**Purple**: Purple is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-Flieder wirkt hell und sanft. Violett wirkt tiefer und präsenter. Aubergine wirkt erwachsen und luxuriös. Ein zu süßliches Lila kann schnell romantisch wirken, ein klarer Schnitt macht die Farbe sofort moderner.
+## In simple words
 
-## Wie Lila wirkt
+Purple gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Lila ist weniger klassisch als Navy, Schwarz oder Beige. Deshalb wirkt es oft individueller. In kleinen Dosen kann Lila einem neutralen Outfit Tiefe geben. Als große Fläche braucht es Materialqualität und eine klare Form.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Kühle Lilatöne wirken präziser. Wärmere Lilatöne mit Rotanteil wirken weicher und sinnlicher. Gedämpfte Töne sind leichter zu tragen als sehr grelle Varianten.
+## Why this matters in color styling
 
-## Nuancen und Materialien
+When you understand Purple, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- **Flieder:** Hell, weich und leicht.
-- **Lavendel:** Kühl, zart und modern.
-- **Violett:** Klarer und präsenter.
-- **Aubergine:** Dunkel, tief und elegant.
+With Purple, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-Lila in Seide wirkt raffiniert. Lila in Strick wirkt weich. Lila in Leder wirkt modisch. Lila in Wolle wirkt zurückhaltender und hochwertig.
+## What to pay attention to
 
-## Kombinationen, die funktionieren
+- Check the role of Purple in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- Lila + Grau: modern und ruhig
-- Lila + Creme: weich und elegant
-- Lila + Navy: tief und professionell
-- Lila + Silber: kühl und klar
-- Lila + Braun: unerwartet und warm
+## Common misconceptions
 
-## Im Business und Alltag
+**Misconception:** Purple is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Im Business wirkt Lila am stärksten in gedeckten Nuancen: als Bluse, Stricktop, Tuch oder Accessoire. Aubergine kann eine schöne Alternative zu Bordeaux oder Dunkelbraun sein. Im Alltag funktioniert Flieder besonders gut mit Denim, Creme und Grau.
+**Misconception:** Purple works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Lila ist sensibel. Die richtige Nuance macht es elegant, die falsche Richtung schnell zu lieblich.
+Look at “Purple” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Purple works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Pink](/en/glossary/pink/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

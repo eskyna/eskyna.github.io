@@ -1,67 +1,143 @@
 ---
-title: "Was ist eine Stilanalyse?"
-term: "Stilanalyse"
-description: "Eine Stilanalyse macht sichtbar, welche Farben, Schnitte, Materialien und Stilcodes deine Wirkung klar und stimmig machen."
-category: "Stil & Wirkung"
-tags: ["stilanalyse", "style analyse", "stil", "wirkung"]
-keywords: ["stilanalyse", "style analyse", "style analyse bedeutung", "style analyse stilberatung"]
+title: Was ist eine Stilanalyse?
+term: Stilanalyse
+description:
+  Eine Stilanalyse macht sichtbar, welche Farben, Schnitte, Materialien und Wirkungsmerkmale deinen persönlichen
+  Stil tragen.
+category: Stil & Wirkung
+tags:
+  - stilanalyse
+  - style analyse
+  - stil
+  - wirkung
+keywords:
+  - stilanalyse
+  - style analyse
+  - style analyse bedeutung
+  - style analyse stilberatung
 weight: 2
 relatedTerms:
-  - title: "Stil"
-    url: "/glossar/stil/"
-  - title: "Signature Look"
-    url: "/glossar/signature-look/"
-  - title: "Wirkung"
-    url: "/glossar/wirkung/"
-  - title: "Outfit-Analyse"
-    url: "/glossar/outfit-analyse/"
-  - title: "Typberatung"
-    url: "/glossar/typberatung/"
+  - title: Stil
+    url: /glossar/stil/
+  - title: Signature Look
+    url: /glossar/signature-look/
+  - title: Wirkung
+    url: /glossar/wirkung/
+  - title: Outfit-Analyse
+    url: /glossar/outfit-analyse/
+  - title: Typberatung
+    url: /glossar/typberatung/
+featured_glossar: true
+featured_weight: 16
+content_level: commercial-pillar
+lastmod: "2026-07-09"
+faq:
+  items:
+    - q: Was brauche ich für eine Stilanalyse?
+      a: Fotos, Lieblingsstücke, Fragen und ehrliche Beispiele aus deinem Alltag helfen sehr.
+    - q: Ist eine Stilanalyse auch ohne neue Kleidung sinnvoll?
+      a: Ja. Oft zeigt sie zuerst, wie vorhandene Teile besser genutzt werden können.
+    - q: Bekomme ich danach einen Stiltyp?
+      a: Möglich, aber wichtiger sind konkrete Stilprinzipien, die du wirklich anwenden kannst.
+seoTitle: Stilanalyse erklärt | ESKYNA Glossar
+commercial_intent: true
+commercial_cluster: style
+editorial_depth: mini-case-offer-bridge
+offer_bridge:
+  kicker: Passendes ESKYNA-Angebot
+  title: Aus Stilwissen wird ein persönlicher Look
+  text:
+    Wenn du den Begriff auf deine Persönlichkeit, deine Rollen und deine Garderobe übertragen möchtest, hilft
+    eine klare Stilübersetzung statt weiterer Einzelregeln.
+  bullets:
+    - Stilrichtung präziser benennen
+    - Lieblingsteile zu einer Linie verbinden
+    - Outfits wiedererkennbarer machen
+  primary_label: ESKYNA Stilgefühl ansehen
+  primary_url: /stilgefuehl/
+  secondary_label: Stilfrage stellen
+  secondary_url: /stilfrage/
+commercial_weight: 10
+consulting_questions:
+  - Welche Stilrichtung fühlt sich authentisch an und wirkt trotzdem klar?
+  - Welche vorhandenen Teile zeigen bereits die gewünschte Linie?
+  - Welche Details machen den Look wiedererkennbar statt beliebig?
+consulting_focus:
+  Stilanalyse wird in der Beratung besonders relevant, wenn aus einem Begriff eine konkrete Entscheidung
+  für Kleidung, Wirkung oder Garderobe werden soll.
 ---
 
 ## Definition
 
-Eine **Stilanalyse** untersucht, welche Farben, Schnitte, Materialien und Details bei dir stimmig wirken. Sie schafft Klarheit darüber, warum bestimmte Outfits selbstverständlich aussehen und andere trotz guter Einzelteile nicht ganz zusammenfinden.
+**Stilanalyse**: Stilanalyse ist die strukturierte Auswertung deiner bisherigen Kleidung, Vorlieben, Proportionen, Farben und Stilziele. Sie zeigt, welche Muster bereits funktionieren und welche Elemente deine Garderobe unklar machen.
 
 ## Einfach erklärt
 
-Eine Stilanalyse ist mehr als Geschmack. Sie schaut nicht nur darauf, was dir gefällt, sondern auch darauf, wie Kleidung an dir wirkt.
+Bei einer Stilanalyse geht es nicht darum, dich in eine Schublade zu stecken. Sie sammelt Hinweise: Welche Outfits wiederholst du? Welche Teile hängen nur im Schrank? Welche Wirkung möchtest du stärker zeigen? Daraus entsteht eine klare Stilrichtung.
 
-Dabei geht es um Linien, Proportionen, Oberflächen, Kontraste, Wiederholungen und die Frage, ob dein Outfit das ausstrahlt, was du zeigen möchtest. Elegant, klar, kreativ, ruhig, präzise oder präsent.
+## Warum Stilanalyse wichtig ist
 
-Im Unterschied zur schnellen Outfit-Bewertung arbeitet eine Stilanalyse grundsätzlicher. Sie sucht Muster. Welche Schnitte stärken dich. Welche Materialien wirken hochwertig an dir. Welche Farbwelt dich frischer, klarer oder souveräner erscheinen lässt.
+Ohne Analyse kaufst du oft aus Stimmung heraus. Eine Stilanalyse macht Entscheidungen nachvollziehbar. Sie zeigt, welche Schnitte, Farben und Materialien zu dir passen und welche Stücke nur kurzfristig begeistern.
 
-## Warum eine Stilanalyse wichtig ist
+## Blick aus der Beratung
 
-Viele Menschen kaufen nicht zu wenig, sondern zu uneinheitlich. Eine Stilanalyse hilft, diese Streuung zu beenden. Du erkennst schneller, welche Teile zu deinem Stilcode passen und welche nur kurz interessant wirken.
+Bei ESKYNA verbinde ich Stilanalyse mit konkreter Umsetzung. Aus Beobachtungen werden Stilworte, Farblogik, Schnittpräferenzen und Einkaufskriterien. Das Ergebnis soll im Alltag funktionieren, nicht nur als Moodboard schön aussehen.
 
-Das spart Geld, reduziert Fehlkaeufe und macht das Anziehen leichter. Statt jeden Morgen neu zu raten, baust du auf einer klaren Linie auf.
+## So nutzt du den Begriff praktisch
 
-## Was in einer Stilanalyse betrachtet wird
+- Sammle Lieblingsoutfits und Fehlkäufe nebeneinander.
+- Beschreibe nicht nur Farben, sondern die gewünschte Wirkung.
+- Suche Wiederholungen bei Schnitt, Material und Detail.
+- Leite daraus drei bis fünf klare Stilprinzipien ab.
 
-- Farben und Untertoene
-- Schnitte, Linien und Proportionen
-- Materialien und Oberflächen
-- Grad von Kontrast, Struktur und Präsenz
-- Wiederkehrende Stilthemen in deiner Garderobe
+## Beispiel aus dem Alltag
 
-## Typische Missverständnisse
+In einer Stilanalyse liegen Lieblingsoutfits und Fehlkäufe nebeneinander. Plötzlich wird sichtbar, dass die Lieblingslooks oft klare Linien, ruhige Farben und besondere Texturen haben, während Fehlkäufe zu bunt, zu steif oder zu verspielt sind. Aus Bauchgefühl wird ein Muster.
 
-**Missverständnis:** Eine Stilanalyse sagt dir, was du tragen musst.
+## Wann Beratung sinnvoll wird
 
-**Besser:** Eine gute Stilanalyse gibt Orientierung. Sie nimmt dir nicht die Persönlichkeit, sondern macht sie klarer.
+Beratung wird sinnvoll, wenn du viele Eindrücke gesammelt hast, aber keine Ordnung erkennst. Eine Stilanalyse sortiert nicht nur Kleidung, sondern auch Wünsche, Rollen und Wirkungen. Dadurch entsteht ein Stilbild, das sich im Alltag anwenden lässt.
 
-**Missverständnis:** Eine Stilanalyse ist nur für modeinteressierte Menschen relevant.
+## Typisches Missverständnis
 
-**Besser:** Gerade im Alltag ist sie hilfreich, weil sie Entscheidungen vereinfacht und deinen Kleiderschrank stimmiger macht.
+Stilanalyse wird manchmal als Kritik verstanden. Sie ist aber eine Übersetzung. Sie zeigt, was schon gut ist, was noch nicht zusammenpasst und welche Entscheidungen den größten Unterschied machen.
 
-## Praktisches Beispiel
+## Abgrenzung zu ähnlichen Begriffen
 
-Wenn du immer wieder zu soften Farben, ruhigen Stoffen und klaren Schnitten greifst, aber gleichzeitig auffällige Trendteile kaufst, zeigt eine Stilanalyse oft den Kern des Problems: Die Einzelteile sind nicht schlecht. Sie gehören nur nicht zur selben Stilrichtung.
+Stilanalyse ist der diagnostische Teil der Stilberatung. Stilberatung nutzt die Analyse, um Outfits, Garderobe und Shopping konkret zu verbessern.
+
+## Nächster Schritt
+
+Wenn du den Begriff auf deine Garderobe übertragen möchtest, findest du einen passenden Einstieg bei den [ESKYNA Angeboten](/angebote/).
 
 ## ESKYNA-Merksatz
 
-Eine Stilanalyse ordnet nicht deinen Geschmack. Sie schärft deinen Blick für das, was dich wirklich stimmig wirken lässt.
+Eine gute Stilanalyse gibt dir Worte für das, was du im Spiegel oft nur fühlst.
+
+<!-- commercial-depth-start -->
+
+## Beratungssituation im echten Leben
+
+Eine Stilanalyse trennt Symptome von Ursachen. Ein Outfit kann „irgendwie falsch“ wirken, obwohl Farbe, Größe und Anlass auf den ersten Blick stimmen. Dann lohnt sich der Blick auf Linien, Schwerpunkt, Stoffstand, Kontrast und persönliche Stilbotschaft.
+
+## Mini-Case: vom Zweifel zur Entscheidung
+
+Ein Mini-Case: Eine Hose wird als Problem empfunden, dabei ist die Länge gut. Der eigentliche Bruch liegt im zu kurzen Oberteil und im Schuh, der die Linie abschneidet. Mit anderem Top und ruhigerem Schuh bleibt die Hose und der Look wirkt sofort stimmiger.
+
+## Entscheidungshilfe vor dem nächsten Kauf
+
+Erkennen, ob Unsicherheit aus Farbe, Schnitt, Proportion, Material oder Wirkung kommt. Nutze dafür einen kurzen Filter, bevor du kaufst, aussortierst oder ein Outfit für einen wichtigen Anlass planst.
+
+- Bewerte ein Outfit zuerst als Gesamtbild, bevor du einzelne Teile austauschst.
+- Frage: Ist das Problem Farbe, Schnitt, Länge, Material oder Anlass?
+- Teste eine Änderung nach der anderen, damit du die Ursache erkennst.
+- Fotografiere Vorher-Nachher-Varianten aus derselben Perspektive.
+
+## Woran du erkennst, dass du Unterstützung brauchst
+
+Unterstützung wird sinnvoll, wenn du viel Inspiration sammelst, aber daraus keine verlässlichen Entscheidungen entstehen. Ein Zeichen dafür ist, dass du Outfits nachkaufst, dich darin aber nicht wie du selbst fühlst. In der Beratung wird nicht ein Stil übergestülpt, sondern sichtbar gemacht, welche Linien, Farben und Details deine Persönlichkeit zuverlässig tragen.
+
+<!-- commercial-depth-end -->
 
 ## Verwandte Begriffe
 

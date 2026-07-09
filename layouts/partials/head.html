@@ -1,6 +1,8 @@
 {{ $rawDescription := .Description | default .Site.Params.description }}
 {{ $description := $rawDescription | plainify | truncate 155 }}
-{{ $keywords := .Site.Params.keywords | default "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching" }}
+{{ $metaLang := .Site.Language.Lang }}
+{{ $isMetaRu := or (eq $metaLang "ru") (eq $metaLang "rus") }}
+{{ $keywords := .Site.Params.keywords | default (cond $isMetaRu "консультация по стилю, имидж-консультация, персональный стиль, консультация по цвету, онлайн-коучинг" (cond (eq $metaLang "en") "style consulting, image consulting, personal styling, color consultation, online coaching" "Styleberatung, Imageberatung, Personal Styling, Farbberatung, Hannover, Online Coaching")) }}
 {{ $siteTitle := .Site.Title | default "ESKYNA Style & Image Coaching" }}
 {{ $pageTitle := replace (.Params.seoTitle | default .Title | default $siteTitle) "Categories" (i18n "taxonomy_categories_title") }}
 {{ $pageTitleHasSeparator := in $pageTitle " | " }}
@@ -8,35 +10,33 @@
 {{ $pageTitleStartsWithBrand := hasPrefix $pageTitle "ESKYNA " }}
 {{ $shareImage := .Params.image | default "images/natalia.png" }}
 {{ $shareImageAbs := $shareImage | absURL }}
+{{ $isGlossarPage := eq .Section "glossar" }}
+{{ $isNoindex := (.Params.noindex | default false) }}
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://contact-api.eskyna-style.workers.dev https://www.google-analytics.com https://region1.google-analytics.com; object-src 'none'; base-uri 'self'; frame-src https://challenges.cloudflare.com; form-action 'self'; upgrade-insecure-requests;">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https://www.googletagmanager.com https://www.google-analytics.com; connect-src 'self' https://contact-api.eskyna-style.workers.dev https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com; object-src 'none'; base-uri 'self'; frame-src https://challenges.cloudflare.com https://www.googletagmanager.com; form-action 'self'; upgrade-insecure-requests;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{{ with .Site.Params.ga_measurement_id }}
+<meta name="theme-color" content="#f6f1ea">
+{{ with .Site.Params.gtm_container_id }}
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){ window.dataLayer.push(arguments); }
-  window.gtag = window.gtag || gtag;
-  window.gtag("consent", "default", {
+  window.dataLayer.push({
+    event: "eskyna_consent_default",
     analytics_storage: "denied",
     ad_storage: "denied",
     ad_user_data: "denied",
     ad_personalization: "denied"
   });
 
-  window.eskynaLoadAnalytics = function () {
-    if (window.__eskynaGaLoaded) return;
-    window.__eskynaGaLoaded = true;
-    var script = document.createElement("script");
-    script.async = true;
-    script.src = "https://www.googletagmanager.com/gtag/js?id={{ . }}";
-    document.head.appendChild(script);
-
-    window.gtag("js", new Date());
-    window.gtag("config", "{{ . }}", {
-      anonymize_ip: true
-    });
+  window.eskynaLoadGtm = function () {
+    if (window.__eskynaGtmLoaded) return;
+    window.__eskynaGtmLoaded = true;
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','{{ . }}');
   };
 </script>
 {{ end }}
@@ -47,7 +47,6 @@
 {{ end }}
 <!-- Performance: DNS Prefetch & Preconnect -->
 <link rel="dns-prefetch" href="https://challenges.cloudflare.com">
-<link rel="preconnect" href="https://fonts.googleapis.com">
 <!-- Performance: Preload Critical Fonts -->
 <link rel="preload" href="{{ "fonts/S6uyw4BMUTPHvxk.ttf" | relURL }}" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="{{ "fonts/S6u9w4BMUTPHh6UVew8.ttf" | relURL }}" as="font" type="font/ttf" crossorigin>
@@ -61,23 +60,50 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:image" content="{{ $shareImageAbs }}">
 <meta property="og:image:alt" content="{{ $pageTitle }}">
+{{ $ogLocale := cond $isMetaRu "ru_RU" (cond (eq $metaLang "en") "en_US" "de_DE") }}
+<meta property="og:locale" content="{{ $ogLocale }}">
+{{ range .AllTranslations }}
+  {{ if ne .Language.Lang $metaLang }}
+    {{ $alternateLocale := cond (eq .Language.Lang "rus") "ru_RU" (cond (eq .Language.Lang "en") "en_US" "de_DE") }}
+    <meta property="og:locale:alternate" content="{{ $alternateLocale }}">
+  {{ end }}
+{{ end }}
+{{ if not .Lastmod.IsZero }}
+<meta property="og:updated_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ end }}
+<meta name="twitter:image:alt" content="{{ $pageTitle }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ $pageTitle }}">
 <meta name="twitter:description" content="{{ $description }}">
 <meta name="twitter:image" content="{{ $shareImageAbs }}">
+{{ if $isNoindex }}
+<meta name="robots" content="noindex, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{{ else }}
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{{ end }}
 <meta name="keywords" content="{{ $keywords }}">
 <meta name="copyright" content="© 2026 Natalia Kleemann, Stefan Rohe">
 <meta name="audience" content="all">
-<meta name="page-topic" content="Style und Image Coaching">
+<meta name="page-topic" content="{{ cond $isMetaRu "Стиль и имидж-коучинг" (cond (eq $metaLang "en") "Style and image coaching" "Style und Image Coaching") }}">
 <meta name="revisit-after" content="7 days">
 <meta http-equiv="Expires" content="Thu, 31 Dec 2037 23:55:55 GMT">
 {{ if .IsHome }}
   <title>{{ .Params.seoTitle | default $siteTitle }}</title>
 {{ else if eq .Section "glossar" }}
-  {{ $glossarSuffix := " | Begriff im Glossar | ESKYNA" }}
-  {{ $glossarBase := $pageTitle | plainify | truncate 30 "" }}
-  <title>{{ printf "%s%s" $glossarBase $glossarSuffix }}</title>
+  {{ $lang := .Site.Language.Lang }}
+  {{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+  {{ $glossarWord := cond $isRu "Глоссарий" (cond (eq $lang "en") "Glossary" "Glossar") }}
+  {{ $termTitle := .Params.term | default .Title | plainify }}
+  {{ if .Params.is_glossar_category }}
+    {{ $categoryTitle := .Params.glossar_category | default .Title | replaceRE "^Kategorie:[[:space:]]*" "" | plainify }}
+    <title>{{ .Params.seoTitle | default (cond $isRu (printf "%s | %s ESKYNA" $categoryTitle $glossarWord) (cond (eq $lang "en") (printf "%s in the %s | ESKYNA" $categoryTitle $glossarWord) (printf "%s im %s | ESKYNA" $categoryTitle $glossarWord))) }}</title>
+  {{ else if eq .Kind "section" }}
+    {{ $defaultGlossarTitle := cond $isRu "Глоссарий стиля, цвета и гардероба | ESKYNA" (cond (eq $lang "en") "Style, Color & Wardrobe Glossary | ESKYNA" "Glossar für Stilberatung, Farbe & Garderobe | ESKYNA") }}
+    <title>{{ .Params.seoTitle | default $defaultGlossarTitle }}</title>
+  {{ else }}
+    {{ $defaultTermTitle := cond $isRu (printf "%s: значение | ESKYNA" $termTitle) (cond (eq $lang "en") (printf "%s explained | ESKYNA Glossary" $termTitle) (printf "%s erklärt | ESKYNA Glossar" $termTitle)) }}
+    <title>{{ .Params.seoTitle | default $defaultTermTitle }}</title>
+  {{ end }}
 {{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
   {{ if $pageTitleHasSeparator }}
     <title>{{ $pageTitle }}</title>

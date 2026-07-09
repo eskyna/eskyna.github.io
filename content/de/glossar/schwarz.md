@@ -1,29 +1,47 @@
 ---
-title: "Schwarz im Stil erklärt"
-term: "Schwarz"
-description: "Schwarz wirkt klar, grafisch und souverän. Entscheidend sind Nuance, Material, Kontrast und bewusste Dosierung."
-category: "Farb-Lexikon"
+title: Schwarz im Stil erklärt
+term: Schwarz
+description: Schwarz wirkt klar, grafisch und souverän. Entscheidend sind Nuance, Material, Kontrast
+  und bewusste Dosierung.
+category: Farb-Lexikon
 color_hex: "#111111"
-tags: ["schwarz", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["schwarz kleidung", "schwarz kombinieren", "farbberatung", "stilberatung"]
+tags:
+  - schwarz
+  - farbe
+  - farbberatung
+  - farbwirkung
+keywords:
+  - schwarz kleidung
+  - schwarz kombinieren
+  - farbberatung
+  - stilberatung
 weight: 1
-image: "images/glossar/schwarz.png"
-image_alt: "Editoriale Grafik mit schwarzen Stoffflächen, Kontrastlinien und warmen Akzenten"
+image: images/glossar/schwarz.png
+image_alt: Editoriale Grafik mit schwarzen Stoffflächen, Kontrastlinien und warmen Akzenten
 relatedTerms:
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
+  - title: Weiß
+    url: /glossar/weiss/
+  - title: Navy
+    url: /glossar/navy/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Unterton
+    url: /glossar/unterton/
+  - title: Farbtyp
+    url: /glossar/farbtyp/
+  - title: Grau
+    url: /glossar/grau/
+  - title: Neutrale Farben
+    url: /glossar/neutrale-farben/
+faq:
+  items:
+    - q: Wie nutze ich „Schwarz“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Schwarz“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Schwarz
@@ -62,6 +80,10 @@ Im Alltag braucht Schwarz oft etwas Lebendigkeit. Das kann durch Struktur, Schmu
 ## Für wen und wo Schwarz funktioniert
 
 Wenn Schwarz nahe am Gesicht zu hart wirkt, muss es nicht aus der Garderobe verschwinden. Es kann als Hose, Rock, Tasche, Schuh oder Gürtel sehr gut funktionieren. Nahe am Gesicht können Anthrazit, Navy, Espresso oder dunkles Braun stimmiger sein.
+
+## Mini-Test vor dem Spiegel
+
+Betrachte „Schwarz“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
 
 ## ESKYNA-Merksatz
 

@@ -1,54 +1,94 @@
 ---
-title: "Was bedeutet Ton-in-Ton?"
-term: "Ton-in-Ton"
-description: "Ton-in-Ton beschreibt die Kombination ähnlicher Farbtöne. Der Look wirkt harmonisch, ruhig und zugleich lebendiger als streng monochrom."
-category: "Farbberatung & Farbe"
-tags: ["ton in ton", "farbe", "styling", "farbpalette"]
-keywords: ["ton in ton outfit", "ton in ton kombinieren", "farbberatung", "monochrom"]
 weight: 22
-image: "images/glossar/ton-in-ton.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Ton-in-Ton mit ruhigen Farbfeldern und klarer Linienführung"
+image: images/glossar/ton-in-ton.png
+title: What does Tone-on-Tone mean?
+seoTitle: Tone-on-Tone explained | ESKYNA Glossary
+term: Tone-on-Tone
+description:
+  Tone-on-Tone is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - tone on tone
+  - color consultation & color
+  - style glossary
+keywords:
+  - tone-on-tone
+  - what is tone-on-tone
+  - tone-on-tone style advice
+slug: tone-on-tone
+url: /glossary/tone-on-tone/
+aliases:
+  - /glossar/ton-in-ton/
+image_alt: Editorial glossary illustration for Tone-on-Tone
 relatedTerms:
-  - title: "Monochrom"
-    url: "/glossar/monochrom/"
-  - title: "Farbpalette"
-    url: "/glossar/farbpalette/"
-  - title: "Helligkeit"
-    url: "/glossar/helligkeit/"
-  - title: "Creme"
-    url: "/glossar/creme/"
-  - title: "Beige"
-    url: "/glossar/beige/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Tone-on-Tone” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Tone-on-Tone” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Ton-in-Ton** bedeutet, ähnliche Farbtöne miteinander zu kombinieren. Die Farben liegen nah beieinander, sind aber nicht zwingend identisch.
+**Tone-on-Tone**: Tone-on-Tone is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Ein Ton-in-Ton-Look ist etwas freier als ein streng monochromer Look. Du kannst zum Beispiel Creme, Beige, Camel und Braun kombinieren. Oder Hellblau, Mittelblau, Denim und Navy.
+Tone-on-Tone gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Der Effekt ist ruhig, aber nicht flach. Das Auge erkennt eine klare Farbfamilie, bekommt aber genug Nuance, damit der Look lebendig bleibt.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Ton-in-Ton wichtig ist
+## Why this matters in color consultation
 
-Ton-in-Ton ist eine der einfachsten Strategien für elegante Outfits. Du brauchst nicht viele Farben. Du brauchst eine gute Farbfamilie und ein Gefühl für Helligkeit, Material und Proportion.
+When you understand Tone-on-Tone, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Besonders in einer Capsule Wardrobe ist Ton-in-Ton hilfreich, weil die Teile häufiger miteinander funktionieren. Eine gut gewählte Farbpalette reduziert Fehlkäufe und macht Kombinationen leichter.
+In color consultation, Tone-on-Tone becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Ton-in-Ton heißt, alles muss perfekt gleich sein.  
-**Besser:** Kleine Unterschiede machen den Look natürlicher und hochwertiger.
+- Check the role of Tone-on-Tone in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ton-in-Ton ist nur beige.  
-**Besser:** Jede Farbfamilie kann Ton-in-Ton gedacht werden, auch Blau, Grün, Grau oder Bordeaux.
+## Common misconceptions
 
-## Praktisches Beispiel
+**Misconception:** Tone-on-Tone is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Eine dunkelblaue Hose, ein hellblaues Hemd, ein Navy-Blazer und Loafer in Dunkelbraun ergeben einen ruhigen Ton-in-Ton-Look mit genug Tiefe. Der Look wirkt professionell, ohne streng zu sein.
+**Misconception:** Tone-on-Tone works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ton-in-Ton ist Harmonie mit Bewegung. Die Nuancen halten den Look lebendig.
+Look at “Tone-on-Tone” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Tone-on-Tone works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)

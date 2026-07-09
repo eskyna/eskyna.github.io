@@ -1,0 +1,137 @@
+#!/usr/bin/env node
+"use strict";
+
+const fs = require("fs");
+const path = require("path");
+
+const root = process.cwd();
+const langs = {
+  de: { termMin: 280, categoryMin: 100, label: "DE" },
+  en: { termMin: 280, categoryMin: 100, label: "EN" },
+  ru: { termMin: 280, categoryMin: 100, label: "RU" },
+};
+
+function walk(dir) {
+  if (!fs.existsSync(dir)) return [];
+  const out = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) out.push(...walk(full));
+    else if (entry.isFile() && entry.name.endsWith(".md")) out.push(full);
+  }
+  return out;
+}
+
+function splitFrontmatter(text) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (!match) return { fm: "", body: text };
+  return { fm: match[1], body: match[2] };
+}
+
+function getFrontmatterValue(fm, key) {
+  const match = fm.match(new RegExp(`^${key}:\\s*(.+)$`, "m"));
+  return match ? match[1].trim().replace(/^['"]|['"]$/g, "") : "";
+}
+
+function wordCount(text) {
+  const normalized = text
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/https?:\/\/\S+/g, " ");
+  const words = normalized.match(/[\p{L}\p{N}][\p{L}\p{N}'’-]*/gu);
+  return words ? words.length : 0;
+}
+
+function percentile(values, p) {
+  if (!values.length) return 0;
+  const sorted = [...values].sort((a, b) => a - b);
+  const idx = Math.min(sorted.length - 1, Math.max(0, Math.floor((sorted.length - 1) * p)));
+  return sorted[idx];
+}
+
+const issues = [];
+const stats = [];
+
+for (const [lang, cfg] of Object.entries(langs)) {
+  const glossarDir = path.join(root, "content", lang, "glossar");
+  const files = walk(glossarDir);
+  const termCounts = [];
+  const categoryCounts = [];
+  const seenTerms = new Map();
+
+  const indexFile = path.join(glossarDir, "_index.md");
+  if (!fs.existsSync(indexFile)) {
+    issues.push(`${cfg.label}: missing glossary index ${path.relative(root, indexFile)}`);
+  } else {
+    const indexText = fs.readFileSync(indexFile, "utf8");
+    const { fm, body } = splitFrontmatter(indexText);
+    if (!/topic_pathways\s*=|topic_pathways\s*:/.test(fm)) {
+      issues.push(`${cfg.label}: glossary index has no topic_pathways frontmatter`);
+    }
+    if (wordCount(body) < 35) {
+      issues.push(`${cfg.label}: glossary index body is too short (${wordCount(body)} words)`);
+    }
+  }
+
+  for (const file of files) {
+    const rel = path.relative(root, file);
+    if (path.basename(file) === "_index.md") continue;
+    const text = fs.readFileSync(file, "utf8");
+    const { fm, body } = splitFrontmatter(text);
+    const isCategory = /^is_glossar_category:\s*true\s*$/m.test(fm);
+    const wc = wordCount(body);
+
+    if (isCategory) {
+      categoryCounts.push(wc);
+      if (wc < cfg.categoryMin) {
+        issues.push(`${cfg.label}: category page below ${cfg.categoryMin} words (${wc}) - ${rel}`);
+      }
+      const glossarCategory = getFrontmatterValue(fm, "glossar_category");
+      if (!glossarCategory)
+        issues.push(`${cfg.label}: category page has no glossar_category - ${rel}`);
+    } else {
+      termCounts.push(wc);
+      if (wc < cfg.termMin) {
+        issues.push(`${cfg.label}: term page below ${cfg.termMin} words (${wc}) - ${rel}`);
+      }
+      const term = getFrontmatterValue(fm, "term") || getFrontmatterValue(fm, "title");
+      const category = getFrontmatterValue(fm, "category");
+      const description = getFrontmatterValue(fm, "description");
+      if (!term) issues.push(`${cfg.label}: term page has no term/title - ${rel}`);
+      if (!category) issues.push(`${cfg.label}: term page has no category - ${rel}`);
+      if (!description) issues.push(`${cfg.label}: term page has no description - ${rel}`);
+      const termKey = term.toLocaleLowerCase(lang === "ru" ? "ru" : lang);
+      if (seenTerms.has(termKey)) {
+        issues.push(
+          `${cfg.label}: duplicate term '${term}' - ${rel} and ${seenTerms.get(termKey)}`
+        );
+      } else if (term) {
+        seenTerms.set(termKey, rel);
+      }
+    }
+  }
+
+  const sum = termCounts.reduce((a, b) => a + b, 0);
+  const avg = termCounts.length ? sum / termCounts.length : 0;
+  stats.push({
+    lang: cfg.label,
+    terms: termCounts.length,
+    termMin: Math.min(...termCounts),
+    termP10: percentile(termCounts, 0.1),
+    termAvg: Number(avg.toFixed(1)),
+    categories: categoryCounts.length,
+    categoryMin: Math.min(...categoryCounts),
+  });
+}
+
+console.log("Glossary quality stats");
+console.table(stats);
+
+if (issues.length) {
+  console.error(`\nGlossary quality check failed with ${issues.length} issue(s):`);
+  for (const issue of issues.slice(0, 80)) console.error(`- ${issue}`);
+  if (issues.length > 80) console.error(`- ... ${issues.length - 80} more`);
+  process.exit(1);
+}
+
+console.log("\nGlossary quality check passed.");

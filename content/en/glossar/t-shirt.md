@@ -1,62 +1,94 @@
 ---
-title: "Was ist ein T-Shirt?"
-term: "T-Shirt"
-description: "Ein T-Shirt ist ein meist kurzärmeliges Oberteil aus Jersey, das als Basic schlicht, modern oder sehr bewusst wirken kann."
-category: "Garderobe & Alltag"
-tags: ["t-shirt", "basic", "baumwolle", "jersey", "passform"]
-keywords: ["t-shirt", "was ist ein t-shirt", "t-shirt kombinieren", "basic t-shirt"]
 weight: 16
-image: "images/glossar/t-shirt.png"
-image_alt: "Editoriale Grafik mit stilisiertem T-Shirt, Jersey-Struktur und neutralen Farbfeldern"
+image: images/glossar/t-shirt.png
+title: What does T-Shirt mean?
+seoTitle: T-Shirt explained | ESKYNA Glossary
+term: T-Shirt
+description:
+  T-Shirt is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - t shirt
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - t-shirt
+  - what is t-shirt
+  - t-shirt style advice
+slug: t-shirt
+url: /glossary/t-shirt/
+aliases:
+  - /glossar/t-shirt/
+image_alt: Editorial glossary illustration for T-Shirt
 relatedTerms:
-  - title: "Basic"
-    url: "/glossar/basic/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Jeans"
-    url: "/glossar/jeans/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Longsleeve"
-    url: "/glossar/longsleeve/"
-  - title: "Tanktop"
-    url: "/glossar/tanktop/"
+  - title: Basic
+    url: /en/glossary/basic/
+  - title: Jeans
+    url: /en/glossary/jeans/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “T-Shirt” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “T-Shirt” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **T-Shirt** ist ein meist kurzärmeliges Oberteil aus Jersey. Es gehört zu den bekanntesten Basics, kann aber sehr unterschiedlich wirken: sportlich, schlicht, hochwertig, lässig oder modern.
+**T-Shirt**: T-Shirt is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-T-Shirts unterscheiden sich stärker, als man auf den ersten Blick denkt. Ein dünnes Shirt mit weichem Fall wirkt anders als ein dichtes, schwereres Baumwollshirt. Ein Rundhalsausschnitt wirkt geschlossener. Ein V-Ausschnitt öffnet optisch. Ein boxy geschnittenes T-Shirt wirkt moderner, ein schmaler Schnitt klassischer.
+T-Shirt gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Auch die Farbe ist entscheidend. Weiß kann frisch wirken, aber auch hart. Creme ist weicher. Navy, Braun oder Schwarz wirken ruhiger und oft eleganter. Ein farbiges T-Shirt kann als Akzent funktionieren, wenn die restliche Kombination klar bleibt.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum T-Shirts wichtig sind
+## Why this matters in your wardrobe
 
-Ein gutes T-Shirt ist eine stille Grundlage. Es kann unter Blazer, Cardigan, Trenchcoat oder Hemd getragen werden und macht viele Looks alltagstauglicher.
+When you understand T-Shirt, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist das T-Shirt interessant, weil es zeigt, wie viel Wirkung in einfachen Teilen steckt. Gerade bei schlichten Basics sieht man sofort, ob Passform, Material und Farbe stimmig sind.
+With T-Shirt, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei T-Shirts achten solltest
+## What to pay attention to
 
-- Der Stoff sollte nicht durchsichtig oder verzogen wirken.
-- Die Schulternaht sollte bewusst sitzen, klassisch oder leicht überschnitten.
-- Der Ausschnitt sollte zur Gesichtsform und zum Styling passen.
-- Die Länge entscheidet, ob das Shirt eingesteckt, locker oder unter Blazer gut funktioniert.
-- Die Farbe sollte nicht nur schön sein, sondern deine Garderobe verbinden.
+- Check the role of T-Shirt in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Ein T-Shirt ist immer casual.  
-**Besser:** Mit Blazer, klarer Hose und guten Schuhen kann ein T-Shirt sehr gepflegt wirken.
+**Misconception:** T-Shirt is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Weiße T-Shirts sind die beste Basis.  
-**Besser:** Für manche Garderoben sind Creme, Navy, Grau, Braun oder Schwarz die stärkeren Basics.
+**Misconception:** T-Shirt works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein T-Shirt ist einfach. Aber einfach wirkt nur dann hochwertig, wenn Schnitt, Stoff und Farbe stimmen.
+Look at “T-Shirt” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+T-Shirt works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Basic](/en/glossary/basic/)
+- [Jeans](/en/glossary/jeans/)
+- [Blazer](/en/glossary/blazer/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

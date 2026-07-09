@@ -11,6 +11,10 @@
 # Cache HTML pages (5 minutes, allows stale-while-revalidate)
 /index.html
   Cache-Control: public, max-age=300, stale-while-revalidate=86400
+/en/index.html
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+/rus/index.html
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
 /ru/index.html
   Cache-Control: public, max-age=300, stale-while-revalidate=86400
 /*

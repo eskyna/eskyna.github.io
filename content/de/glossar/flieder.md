@@ -1,25 +1,45 @@
 ---
-title: "Flieder im Stil erklärt"
-term: "Flieder"
-description: "Flieder ist ein heller Lilaton. Er wirkt weich und frisch, braucht aber klare Kombinationen, damit er nicht zu lieblich wird."
-category: "Farb-Lexikon"
+title: Flieder im Stil erklärt
+term: Flieder
+description:
+  Flieder ist ein heller Lilaton. Er wirkt weich und frisch, braucht aber klare Kombinationen,
+  damit er nicht zu lieblich wird.
+category: Farb-Lexikon
 color_hex: "#C8A6D8"
-tags: ["flieder", "lila", "farbe", "pastell", "farbberatung"]
-keywords: ["flieder kleidung", "flieder kombinieren", "helles lila", "farbberatung"]
+tags:
+  - flieder
+  - lila
+  - farbe
+  - pastell
+  - farbberatung
+keywords:
+  - flieder kleidung
+  - flieder kombinieren
+  - helles lila
+  - farbberatung
 weight: 29
-image: "images/glossar/flieder.png"
-image_alt: "Editoriale Grafik zu Flieder mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/flieder.png
+image_alt: Editoriale Grafik zu Flieder mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Lila"
-    url: "/glossar/lila/"
-  - title: "Violett"
-    url: "/glossar/violett/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Helligkeit"
-    url: "/glossar/helligkeit/"
+  - title: Lila
+    url: /glossar/lila/
+  - title: Violett
+    url: /glossar/violett/
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Grau
+    url: /glossar/grau/
+  - title: Helligkeit
+    url: /glossar/helligkeit/
+faq:
+  items:
+    - q: Wie nutze ich „Flieder“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Flieder“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Flieder
@@ -60,3 +80,17 @@ Flieder kann nahe am Gesicht sehr sanft wirken. Wenn es zu blass macht, hilft ei
 ## ESKYNA-Merksatz
 
 Flieder braucht Klarheit. Dann wirkt die Farbe fein, frisch und erwachsen.
+
+## Praxischeck
+
+Wenn du den Begriff **Flieder** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Flieder** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

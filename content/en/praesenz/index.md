@@ -1,93 +1,93 @@
 ---
-title: "ESKYNA Präsenz"
-description: "Styling- und Image-Konzept für Business, Fotos, Website, LinkedIn, Fotoshooting und Bühne. ESKYNA Präsenz mit Natalia Kleemann."
-
+title: ESKYNA Presence
+description:
+  Styling and image concept for business, photos, websites, LinkedIn, photo shoots, and stage appearances.
+  ESKYNA Presence with Natalia Kleemann.
+url: /presence/
+aliases:
+  - /praesenz/
 offers_back:
-  href: "/angebote/"
-  label: "Zu den Angeboten"
-variants_heading: "Wähle die passende Form"
-
+  href: /en/offers/
+  label: Back to offers
+variants_heading: Choose the right format
 offer:
-  headline: "ESKYNA Präsenz"
-  subheadline: "Für deinen professionellen Auftritt"
+  headline: ESKYNA Presence
+  subheadline: For your professional visual presence
   intro: |
-    Dein äußerer Auftritt soll zeigen, wer du bist, wofür du stehst und welche Kompetenz du mitbringst.
+    Your outer appearance should show who you are, what you stand for, and which expertise you bring.
 
-    Mit ESKYNA Präsenz entwickelt Natalia ein Styling- und Image-Konzept für Business, Fotos, Website, LinkedIn, Social Media oder Bühne: klar, professionell und authentisch.
-  price: "1.490 €"
-  cta: "ESKYNA Präsenz anfragen"
-  image: "images/portraits/natalia-coach-portrait.png"
-
+    With ESKYNA Presence, Natalia develops a styling and image concept for business, photos, websites, LinkedIn, social media, or the stage: clear, professional, and authentic.
+  price: €1,490
+  cta: Request ESKYNA Presence
+  image: images/portraits/natalia-coach-portrait.png
 problem:
-  title: "Wenn dein Auftritt noch nicht zeigt, was du ausstrahlen möchtest"
+  title: When your appearance does not yet show what you want to express
   text: |
-    Vielleicht bist du fachlich längst klar positioniert.
-    Aber deine Bilder, Outfits oder dein visueller Auftritt zeigen das noch nicht.
+    Maybe your expertise is already clearly positioned.
+    But your photos, outfits, or visual presence do not yet show it.
 
-    - Du planst neue Website-Fotos und weißt nicht, was du tragen sollst
-    - Dein LinkedIn-Auftritt wirkt nicht so professionell, wie du bist
-    - Du stehst vor Kundschaft, Team oder Publikum und möchtest souveräner wirken
-    - Oder du willst sichtbar werden, ohne dich zu verkleiden
+    - You are planning new website photos and do not know what to wear
+    - Your LinkedIn presence does not look as professional as you are
+    - You speak to clients, teams, or audiences and want to appear more confident
+    - Or you want to become visible without feeling disguised
 
-    Genau dafür ist ESKYNA Präsenz da.
-
+    That is exactly what ESKYNA Presence is for.
 what_it_is:
-  title: "Ein visuelles Konzept für deine Wirkung"
+  title: A visual concept for your impact
   text: |
-    ESKYNA Präsenz verbindet Stilberatung, Imageberatung und Auftrittskonzept.
+    ESKYNA Presence combines style coaching, image consulting, and a clear presence concept.
 
-    Natalia schaut nicht nur auf Kleidung, sondern auf die gesamte Wirkung: Farben, Schnitte, Materialien, Accessoires, Frisur, Make-up, Bildsprache und beruflicher Kontext.
+    Natalia looks not only at clothing, but at the full impression: colors, cuts, materials, accessories, hair, make-up, imagery, and professional context.
 
-    So entsteht ein Auftritt, der Persönlichkeit und Kompetenz sichtbar macht.
-
+    The result is a presence that makes personality and competence visible.
 services:
-  title: "Das ist enthalten"
+  title: What is included
   items:
-    - title: "Image- und Wirkungsanalyse"
-      description: "Natalia analysiert, wie du wirken möchtest und welche Botschaft dein Auftritt transportieren soll: souverän, nahbar, kreativ, kompetent, modern, hochwertig oder präsent."
-
-    - title: "Visuelles Auftrittskonzept"
-      description: "Du bekommst eine klare Richtung für Farben, Stil, Silhouetten, Materialien und wiedererkennbare Elemente deines professionellen Auftritts."
-
-    - title: "Styling-Konzept für Business, Website, LinkedIn oder Social Media"
-      description: "Natalia entwickelt Looks, die zu deiner Rolle, deiner Zielgruppe und deinen Kanälen passen."
-
-    - title: "Outfit-Auswahl für Fotos, Bühne oder öffentliche Auftritte"
-      description: "Du erhältst konkrete Empfehlungen für Outfits, die vor der Kamera, auf der Bühne oder in beruflichen Situationen funktionieren."
-
-    - title: "Vorbereitung auf ein Fotoshooting"
-      description: "Wenn ein Shooting geplant ist, hilft Natalia bei der Outfitplanung und sorgt dafür, dass Kleidung, Wirkung und Bildidee zusammenpassen."
-
-    - title: "Abstimmung von Kleidung, Accessoires, Frisur und Make-up"
-      description: "Der Auftritt wird ganzheitlich gedacht, damit kein Detail zufällig wirkt."
-
-    - title: "Optional: Koordination mit Fotograf:in"
-      description: "Bei Bedarf kann die Abstimmung mit Fotograf:in oder Team eingebunden werden. Fotoshooting und Fotograf:in sind separat zu planen."
-
+    - title: Image and impact analysis
+      description:
+        "Natalia analyzes how you want to be perceived and which message your appearance should communicate:
+        confident, approachable, creative, competent, modern, premium, or present."
+    - title: Visual presence concept
+      description:
+        You receive a clear direction for colors, style, silhouettes, materials, and recognizable elements
+        of your professional appearance.
+    - title: Styling concept for business, website, LinkedIn, or social media
+      description: Natalia develops looks that fit your role, audience, and channels.
+    - title: Outfit selection for photos, stage, or public appearances
+      description:
+        You receive concrete recommendations for outfits that work on camera, on stage, and in professional
+        situations.
+    - title: Preparation for a photo shoot
+      description:
+        If a shoot is planned, Natalia supports outfit planning and makes sure clothing, impact, and image
+        idea fit together.
+    - title: Coordination of clothing, accessories, hair, and make-up
+      description: Your appearance is considered as a whole, so no detail feels random.
+    - title: "Optional: coordination with photographer or team"
+      description:
+        If needed, Natalia can coordinate with your photographer or team. Photo shoot and photographer
+        are booked separately.
 for_whom:
-  title: "ESKYNA Präsenz ist passend für dich, wenn du …"
+  title: ESKYNA Presence is right for you if you …
   items:
-    - "selbstständig bist"
-    - "als Expertin oder Experte sichtbar bist"
-    - "neue Website- oder LinkedIn-Bilder brauchst"
-    - "einen professionelleren Auftritt möchtest"
-    - "vor Kundschaft, Team oder Publikum stehst"
-    - "auf Social Media, Bühne oder Kamera sichtbar bist"
-    - "deine Personal Brand stärken möchtest"
-    - "Kompetenz und Persönlichkeit stimmig zeigen willst"
-
+    - are self-employed or visible as an expert
+    - need new website or LinkedIn images
+    - want a more professional visual presence
+    - speak to clients, teams, or audiences
+    - are visible on social media, stage, or camera
+    - want to strengthen your personal brand
+    - want competence and personality to appear coherent
 result:
-  title: "Was sich danach verändert"
-  text: "Nach ESKYNA Präsenz weißt du, wie dein professioneller Auftritt aussehen soll."
+  title: What changes afterwards
+  text: After ESKYNA Presence, you know how your professional appearance should look.
   items:
-    - "Du hast passende Looks für Fotos, Business und Sichtbarkeit"
-    - "Du trittst klarer, souveräner und stimmiger auf"
-    - "Du weißt, welche Kleidung deine Kompetenz unterstützt"
-    - "Und dein äußerer Eindruck passt besser zu dem, was du beruflich verkörperst"
-  summary: "Ein Auftritt, der zeigt, wer du bist und wofür du stehst."
-
+    - You have suitable looks for photos, business, and visibility
+    - You show up with more clarity and confidence
+    - You know which clothing supports your competence
+    - Your outer impression fits better with what you represent professionally
+  summary: A visual presence that shows who you are and what you stand for.
 cta_section:
-  title: "Bereit für mehr Präsenz?"
-  text: "Dann entwickle mit Natalia deinen professionellen Auftritt."
-  button: "ESKYNA Präsenz anfragen"
+  title: Ready for more presence?
+  text: Develop your professional appearance with Natalia.
+  button: Request ESKYNA Presence
 ---

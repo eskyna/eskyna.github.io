@@ -1,58 +1,94 @@
 ---
-title: "Was ist ein Pullover?"
-term: "Pullover"
-description: "Ein Pullover ist ein über den Kopf gezogenes Oberteil, das durch Strick, Volumen und Material viel Wirkung erzeugt."
-category: "Garderobe & Alltag"
-tags: ["pullover", "strick", "oberteil", "layering", "passform"]
-keywords: ["pullover", "was ist ein pullover", "pullover kombinieren", "strickpullover"]
 weight: 17
-image: "images/glossar/pullover.png"
-image_alt: "Editoriale Grafik mit stilisiertem Pullover, Strickstruktur und warmen ruhigen Farbfeldern"
+image: images/glossar/pullover.png
+title: What does Sweater mean?
+seoTitle: Sweater explained | ESKYNA Glossary
+term: Sweater
+description:
+  Sweater is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - sweater
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - sweater
+  - what is sweater
+  - sweater style advice
+slug: sweater
+url: /glossary/sweater/
+aliases:
+  - /glossar/pullover/
+image_alt: Editorial glossary illustration for Sweater
 relatedTerms:
-  - title: "Cardigan"
-    url: "/glossar/cardigan/"
-  - title: "Layering"
-    url: "/glossar/layering/"
-  - title: "Oversized"
-    url: "/glossar/oversized/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
+  - title: Cardigan
+    url: /en/glossary/cardigan/
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Oversized
+    url: /en/glossary/oversized/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Sweater” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Sweater” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Pullover** ist ein Oberteil, das über den Kopf gezogen wird. Er kann aus feinem Strick, grobem Strick, Baumwolle, Wolle, Kaschmir oder Mischgewebe bestehen. Seine Wirkung entsteht durch Material, Volumen, Ausschnitt und Länge.
+**Sweater**: Sweater is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein feiner Pullover wirkt ruhiger und eleganter als grober Strick. Ein Rollkragen gibt mehr Rahmen. Ein Rundhals wirkt klassisch. Ein V-Ausschnitt öffnet den Oberkörper. Ein oversized Pullover wirkt modern, braucht aber eine gute Proportion zum Unterteil.
+Sweater gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Pullover sind nicht nur gemütlich. Sie können Business Casual Looks weicher machen, ein Kleid saisonal tragbarer machen oder einer Jeans mehr Ruhe geben.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Pullover wichtig sind
+## Why this matters in your wardrobe
 
-Ein Pullover bringt Fläche, Struktur und Wärme in ein Outfit. Gerade in reduzierten Looks entscheidet der Strick über Tiefe. Ein guter Pullover kann ein Key-Piece sein, wenn Farbe, Material und Schnitt zur Garderobe passen.
+When you understand Sweater, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist der Pullover ein wichtiges Balance-Teil. Er kann Strenge aus einem Look nehmen oder einem schlichten Outfit Wertigkeit geben.
+With Sweater, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei Pullovern achten solltest
+## What to pay attention to
 
-- Der Ausschnitt sollte zur Gesichtsrahmung passen.
-- Die Schulterlinie entscheidet, ob der Look klassisch oder entspannt wirkt.
-- Die Länge muss zu Hose, Rock oder Kleid passen.
-- Das Material sollte angenehm sein und nicht sofort pillinganfällig wirken.
-- Das Volumen sollte bewusst verteilt werden.
+- Check the role of Sweater in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Pullover sind nur bequem.  
-**Besser:** Ein feiner Pullover kann sehr elegant wirken, besonders in klarer Farbe und guter Qualität.
+**Misconception:** Sweater is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Großer Strick ist automatisch lässig.  
-**Besser:** Grober Strick braucht gute Proportionen, sonst wirkt er schnell schwer.
+**Misconception:** Sweater works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein Pullover ist mehr als Wärme. Er gibt einem Look Oberfläche, Ruhe und Volumen.
+Look at “Sweater” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Sweater works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Cardigan](/en/glossary/cardigan/)
+- [Layering](/en/glossary/layering/)
+- [Oversized](/en/glossary/oversized/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

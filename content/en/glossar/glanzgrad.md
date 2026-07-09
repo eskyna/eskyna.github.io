@@ -1,68 +1,92 @@
 ---
-title: "Was ist Glanzgrad?"
-term: "Glanzgrad"
-description: "Glanzgrad beschreibt, ob ein Material matt, seidig, glänzend oder spiegelnd wirkt und wie stark es Licht im Outfit lenkt."
-category: "Materialien & Details"
-tags: ["glanzgrad", "material", "seide", "satin", "struktur"]
-keywords: ["glanzgrad", "glänzende stoffe", "matte stoffe", "materialwirkung kleidung"]
 weight: 22
-image: "images/glossar/glanzgrad.png"
-image_alt: "Editoriale Grafik mit matten und glänzenden Stoffflächen, Lichtreflex und feiner Materialkante"
+image: images/glossar/glanzgrad.png
+title: What does Sheen Level mean?
+seoTitle: Sheen Level explained | ESKYNA Glossary
+term: Sheen Level
+description: Sheen Level is a material or detail term that influences quality, comfort, texture, and
+  the overall impression of an outfit.
+category: Materials & Details
+tags:
+  - sheen level
+  - materials & details
+  - style glossary
+keywords:
+  - sheen level
+  - what is sheen level
+  - sheen level style advice
+slug: sheen-level
+url: /glossary/sheen-level/
+aliases:
+  - /glossar/glanzgrad/
+image_alt: Editorial glossary illustration for Sheen Level
 relatedTerms:
-  - title: "Seide"
-    url: "/glossar/seide/"
-  - title: "Viskose"
-    url: "/glossar/viskose/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Statement-Piece"
-    url: "/glossar/statement-piece/"
-  - title: "Metallic"
-    url: "/glossar/metallic/"
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Silber"
-    url: "/glossar/silber/"
-  - title: "Slip Dress"
-    url: "/glossar/slip-dress/"
-  - title: "Camisole"
-    url: "/glossar/camisole/"
+  - title: Statement Piece
+    url: /en/glossary/statement-piece/
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+  - title: Care
+    url: /en/glossary/care/
+faq:
+  items:
+    - q: How can I use “Sheen Level” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Sheen Level” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Glanzgrad** beschreibt, wie stark ein Material Licht reflektiert. Ein Stoff kann matt, leicht seidig, glänzend oder stark spiegelnd wirken. Dieser Unterschied verändert die Wirkung eines Outfits deutlich.
+**Sheen Level**: Sheen Level is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Matte Stoffe wirken oft ruhiger, natürlicher und zurückhaltender. Baumwolle, Denim, Wolle oder Leinen haben häufig eine eher matte Oberfläche. Seide, Satin oder Lackleder reflektieren mehr Licht und ziehen dadurch stärker Aufmerksamkeit an.
+Sheen Level gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Glanz kann ein Outfit eleganter, festlicher oder moderner machen. Zu viel Glanz kann aber auch schnell sehr präsent wirken. Deshalb ist die Dosierung wichtig: Eine Seidenbluse unter einem Blazer wirkt anders als ein komplett glänzender Look.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Glanzgrad wichtig ist
+## Why this matters for quality
 
-Glanz lenkt den Blick. Er betont Flächen, Bewegung und Licht. In der Nähe des Gesichts kann ein leichter Schimmer Frische geben. Auf großen Flächen kann Glanz sehr dominant werden, besonders bei hellen Farben oder körpernahen Schnitten.
+When you understand Sheen Level, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Glanzgrad ein Werkzeug für Wirkung. Er hilft zu entscheiden, ob ein Outfit ruhig, weich, festlich, sinnlich oder klar erscheinen soll.
+With Sheen Level, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-## Worauf du beim Glanzgrad achten solltest
+## What to pay attention to
 
-- Matte Stoffe wirken oft zurückhaltender und alltagstauglicher.
-- Leichter Seidenglanz kann einen Look veredeln.
-- Starker Glanz braucht einfache Schnitte und ruhige Kombinationen.
-- Glänzende Stoffe zeigen Falten und Spannung oft deutlicher.
-- Accessoires eignen sich gut, um Glanz kontrolliert einzusetzen.
+- Check the role of Sheen Level in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Glanz ist automatisch festlich.  
-**Besser:** Glanz kann auch modern und alltagstauglich wirken, wenn Schnitt und Kombination ruhig bleiben.
+**Misconception:** Sheen Level is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Matte Stoffe sind weniger elegant.  
-**Besser:** Matte Stoffe können sehr hochwertig wirken, besonders in guter Qualität und klarer Form.
+**Misconception:** Sheen Level works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Glanz ist Licht im Outfit. Die Frage ist, wie viel davon deine Wirkung tragen soll.
+Look at “Sheen Level” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Sheen Level works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Statement Piece](/en/glossary/statement-piece/)
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)
+- [Care](/en/glossary/care/)

@@ -1,25 +1,43 @@
 ---
-title: "Salbeigrün im Stil erklärt"
-term: "Salbeigrün"
-description: "Salbeigrün ist ein gedämpftes Grün mit Grauanteil. Es wirkt ruhig, modern und natürlich."
-category: "Farb-Lexikon"
+title: Salbeigrün im Stil erklärt
+term: Salbeigrün
+description: Salbeigrün ist ein gedämpftes Grün mit Grauanteil. Es wirkt ruhig, modern und natürlich.
+category: Farb-Lexikon
 color_hex: "#A0A990"
-tags: ["salbeigruen", "salbeigrün", "gruen", "farbe", "farbberatung"]
-keywords: ["salbeigrün kleidung", "salbeigrün kombinieren", "gedämpftes grün", "farbberatung"]
+tags:
+  - salbeigruen
+  - salbeigrün
+  - gruen
+  - farbe
+  - farbberatung
+keywords:
+  - salbeigrün kleidung
+  - salbeigrün kombinieren
+  - gedämpftes grün
+  - farbberatung
 weight: 23
-image: "images/glossar/salbeigruen.png"
-image_alt: "Editoriale Grafik zu Salbeigrün mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/salbeigruen.png
+image_alt: Editoriale Grafik zu Salbeigrün mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Grün"
-    url: "/glossar/gruen/"
-  - title: "Oliv"
-    url: "/glossar/oliv/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Creme"
-    url: "/glossar/creme/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
+  - title: Grün
+    url: /glossar/gruen/
+  - title: Oliv
+    url: /glossar/oliv/
+  - title: Beige
+    url: /glossar/beige/
+  - title: Creme
+    url: /glossar/creme/
+  - title: Sättigung
+    url: /glossar/saettigung/
+faq:
+  items:
+    - q: Wie nutze ich „Salbeigrün“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Salbeigrün“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Salbeigrün
@@ -60,3 +78,17 @@ Salbeigrün kann nahe am Gesicht sehr sanft wirken. Wenn es zu blass macht, hilf
 ## ESKYNA-Merksatz
 
 Salbeigrün ist Zurückhaltung mit Charakter. Es wirkt leise, aber nicht beliebig.
+
+## Praxischeck
+
+Wenn du den Begriff **Salbeigrün** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Salbeigrün** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

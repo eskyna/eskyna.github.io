@@ -1,78 +1,91 @@
 ---
-title: "Was bedeutet androgyne Figur?"
-term: "Androgyne Figur"
-description: "Eine androgyne Figur beschreibt eine eher gerade, weniger stark kurvige Linienführung, die mit Schnitt und Proportion sehr unterschiedlich inszeniert werden kann."
-category: "Schnitt, Proportion & Passform"
-tags: ["androgyne figur", "körperform", "proportion", "silhouette"]
-keywords:
-  [
-    "androgyne figur",
-    "androgyner körperbau",
-    "androgyne frauen merkmale",
-    "was bedeutet androgyne figur",
-  ]
 weight: 3
+title: What does Androgynous Body Shape mean?
+seoTitle: Androgynous Body Shape explained | ESKYNA Glossary
+term: Androgynous Body Shape
+description: Androgynous Body Shape is a cut, proportion, or fit detail that helps you understand
+  silhouette and make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - androgynous body shape
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - androgynous body shape
+  - what is androgynous body shape
+  - androgynous body shape style advice
+slug: androgynous-body-shape
+url: /glossary/androgynous-body-shape/
+aliases:
+  - /glossar/androgyne-figur/
+image_alt: Editorial glossary illustration for Androgynous Body Shape
 relatedTerms:
-  - title: "Körperform"
-    url: "/glossar/koerperform/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Androgyner Stil"
-    url: "/glossar/androgyner-stil/"
-  - title: "Balance"
-    url: "/glossar/balance/"
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Balance
+    url: /en/glossary/balance/
+  - title: Fit
+    url: /en/glossary/fit/
+  - title: Cut
+    url: /en/glossary/cut/
+faq:
+  items:
+    - q: How can I use “Androgynous Body Shape” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Androgynous Body Shape” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **androgyne Figur** beschreibt eine eher gerade Linienführung im Körperbild. Schultern, Taille und Hüfte wirken oft weniger stark kontrastiert. Der Begriff ist beschreibend gemeint, nicht wertend.
+**Androgynous Body Shape**: Androgynous Body Shape is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Nicht jede Figur lebt von starker Taillenbetonung oder von deutlichen Kurven. Bei einer androgynen Figur entsteht Wirkung haeufig durch Klarheit, Länge, Struktur oder bewusst gesetztes Volumen.
+Androgynous Body Shape gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Wichtig ist: Androgyn ist keine Einschraenkung. Es ist eine Form von Linie. Je nach Styling kann sie minimalistisch, sportlich, elegant, ruhig, modern oder sehr praegnant wirken.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Statt vermeintlich etwas ausgleichen zu müssen, lohnt es sich, mit den vorhandenen Linien zu arbeiten. Gerade Schnitte, präzise Schultern, klare Säume oder ruhige Farbkontraste können hier besonders stark sein.
+## Why this matters for proportion
 
-## Warum der Begriff wichtig ist
+When you understand Androgynous Body Shape, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Wer die eigene Linienführung versteht, kauft gezielter ein. Das gilt auch für eine androgyne Figur. Manche Teile wirken sofort stimmig, andere bleiben trotz guter Qualität seltsam unentschieden.
+With Androgynous Body Shape, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-Mit diesem Verstaendnis wird deutlicher, ob ein Look mehr Struktur, mehr Taillierung oder mehr Weite braucht. So entsteht keine starre Regel, sondern eine bessere Entscheidungsgrundlage.
+## What to pay attention to
 
-## Worauf du achten kannst
+- Check the role of Androgynous Body Shape in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- klare Schultern und saubere Proportionen
-- bewusst gesetzte Taillierung statt beliebiger Form
-- Stoffe mit gutem Fall oder klarer Struktur
-- Längen, die Linie schaffen statt zu unterbrechen
-- Volumen gezielt einsetzen, nicht zufällig
+## Common misconceptions
 
-## Typische Missverständnisse
+**Misconception:** Androgynous Body Shape is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Eine androgyne Figur wirkt automatisch maskulin.
+**Misconception:** Androgynous Body Shape works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-**Besser:** Die Wirkung entsteht durch das Styling. Dieselbe Linienführung kann weich, elegant, sachlich oder sehr feminin interpretiert werden.
+## Quick mirror check
 
-**Missverständnis:** Bei einer androgynen Figur muss immer Taille erzeugt werden.
+Look at “Androgynous Body Shape” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-**Besser:** Taillierung kann schön sein, ist aber kein Muss. Oft wirkt eine klare, gerade Linie sogar stärker.
+## ESKYNA note
 
-## Praktisches Beispiel
+Androgynous Body Shape works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
 
-Ein gerader Blazer mit präziser Schulter, ein glattes Top und eine Hose mit ruhigem Fall können auf einer androgynen Figur sehr klar und hochwertig wirken. Ein stark gerafftes Oberteil mit unentschiedener Länge dagegen kann die Linie schnell unruhig machen.
+## Related terms
 
-## ESKYNA-Merksatz
-
-Eine androgyne Figur braucht keine Korrektur. Sie gewinnt durch klare Linie, bewusste Proportion und präzises Styling.
-
-## Verwandte Begriffe
-
-- [Körperform](/glossar/koerperform/)
-- [Silhouette](/glossar/silhouette/)
-- [Proportion](/glossar/proportion/)
-- [Androgyner Stil](/glossar/androgyner-stil/)
-- [Balance](/glossar/balance/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Proportion](/en/glossary/proportion/)
+- [Balance](/en/glossary/balance/)
+- [Fit](/en/glossary/fit/)
+- [Cut](/en/glossary/cut/)

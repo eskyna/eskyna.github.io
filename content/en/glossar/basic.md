@@ -1,58 +1,93 @@
 ---
-title: "Was ist ein Basic?"
-term: "Basic"
-description: "Ein Basic ist ein schlichtes, vielseitiges Kleidungsstück, das viele Outfits trägt, ohne sich in den Vordergrund zu drängen."
-category: "Garderobe & Alltag"
-tags: ["basic", "garderobe", "capsule wardrobe", "key-piece", "outfit"]
-keywords: ["basic kleidung", "was ist ein basic", "garderobe basics", "basics kombinieren"]
 weight: 8
-image: "images/glossar/basic.png"
-image_alt: "Editoriale Grafik mit schlichtem Shirt, ruhigem Farbfeld und klaren Garderobenlinien"
+image: images/glossar/basic.png
+title: What does Basic mean?
+seoTitle: Basic explained | ESKYNA Glossary
+term: Basic
+description: Basic is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - basic
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - basic
+  - what is basic
+  - basic style advice
+slug: basic
+url: /glossary/basic/
+aliases:
+  - /glossar/basic/
+image_alt: Editorial glossary illustration for Basic
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Basic” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Basic” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Basic** ist ein schlichtes, vielseitiges Kleidungsstück, das viele Outfits unterstützt. Es fällt nicht unbedingt zuerst auf, aber es macht Kombinationen leichter, ruhiger und tragbarer.
+**Basic**: Basic is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Basic kann ein T-Shirt, eine Bluse, eine Hose, ein Pullover, ein Top oder ein Blazer sein. Entscheidend ist nicht die Kategorie, sondern die Funktion im Kleiderschrank. Ein gutes Basic verbindet sich mit vielen anderen Teilen und gibt dem Look eine klare Grundlage.
+Basic gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Basics sind oft ruhig in Farbe, Schnitt und Detail. Das bedeutet aber nicht, dass sie langweilig sein müssen. Ein weißes Shirt aus guter Baumwolle, ein dunkelblauer Feinstrickpullover oder eine gerade schwarze Hose können sehr hochwertig wirken, wenn Material, Passform und Farbe stimmen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Basics wichtig sind
+## Why this matters in your wardrobe
 
-Basics machen eine Garderobe kombinierbar. Sie verhindern, dass jedes Outfit neu erfunden werden muss. Wer gute Basics besitzt, kann Statement-Pieces, Farben oder besondere Schnitte leichter integrieren, weil die Grundlage bereits stimmt.
+When you understand Basic, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA sind Basics keine Notlösung, sondern stille Stilträger. Sie bringen Ruhe in den Kleiderschrank und helfen, Fehlkäufe zu erkennen: Wenn ein neues Teil zu keinem guten Basic passt, fehlt oft die Garderobenlogik.
+With Basic, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei Basics achten solltest
+## What to pay attention to
 
-- Die Farbe sollte zu deiner persönlichen Farbwelt passen.
-- Die Passform sollte präzise sein, nicht zufällig.
-- Das Material sollte sich angenehm anfühlen und gut fallen.
-- Der Schnitt sollte vielseitig kombinierbar bleiben.
-- Das Basic sollte zu deinem Alltag passen, nicht zu einem Wunschbild.
+- Check the role of Basic in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Basics sind immer neutral und schlicht.  
-**Besser:** Basics können auch Farbe haben. Entscheidend ist, dass sie in deiner Garderobe oft einsetzbar sind.
+**Misconception:** Basic is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Ein Basic ist automatisch günstig.  
-**Besser:** Gerade einfache Teile zeigen Qualität sehr deutlich. Stoff, Naht und Form entscheiden.
+**Misconception:** Basic works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein gutes Basic ist nicht unsichtbar. Es hält den Look zusammen, ohne um Aufmerksamkeit zu kämpfen.
+Look at “Basic” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Basic works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

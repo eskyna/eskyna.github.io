@@ -1,61 +1,94 @@
 ---
-title: "Was sind Jogpants?"
-term: "Jogpants"
-description: "Jogpants sind bequeme, sportlich inspirierte Hosen, die mit guter Passform auch gepflegt wirken können."
-category: "Garderobe & Alltag"
-tags:
-  - "jogpants"
-  - "hose"
-  - "casual"
-  - "komfort"
-keywords:
-  - "jogpants"
-  - "was sind jogpants"
-  - "jogpants kombinieren"
 weight: 5
-image: "images/glossar/jogpants.png"
-image_alt: "Editoriale Grafik zu Jogpants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image: images/glossar/jogpants.png
+title: What does Jogpants mean?
+seoTitle: Jogpants explained | ESKYNA Glossary
+term: Jogpants
+description:
+  Jogpants is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - jogpants
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - jogpants
+  - what is jogpants
+  - jogpants style advice
+slug: jogpants
+url: /glossary/jogpants/
+aliases:
+  - /glossar/jogpants/
+image_alt: Editorial glossary illustration for Jogpants
 relatedTerms:
-  - title: "Tapered Fit"
-    url: "/glossar/tapered-fit/"
-  - title: "Sneaker"
-    url: "/glossar/sneaker/"
-  - title: "Stilbruch"
-    url: "/glossar/stilbruch/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
+  - title: Tapered Fit
+    url: /en/glossary/tapered-fit/
+  - title: Sneaker
+    url: /en/glossary/sneaker/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Jogpants” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Jogpants” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Jogpants** sind bequeme, sportlich inspirierte Hosen mit weichem Bund, oft mit Tunnelzug oder elastischem Abschluss. Sie sind komfortorientiert, können aber je nach Material deutlich gepflegter wirken als klassische Jogginghosen.
+**Jogpants**: Jogpants is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Der Unterschied liegt oft im Stoff. Eine Jogpants aus Sweatstoff wirkt sportlich. Eine Jogpants aus fließendem oder glattem Material kann alltagstauglich und sogar smart wirken.
-Die Form ist häufig locker und zum Saum hin etwas schmaler. Dadurch kann sie bequem sein, ohne völlig formlos zu wirken.
+Jogpants gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum dieser Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Jogpants sind wichtig, weil moderne Garderoben Komfort und Wirkung verbinden müssen. Die Frage ist nicht, ob eine Hose bequem ist, sondern ob sie bewusst aussieht.
+## Why this matters in your wardrobe
 
-## Worauf du achten solltest
+When you understand Jogpants, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- Wähle einen Stoff, der nicht ausbeult.
-- Ein klarer Schuh hebt die Jogpants sofort an.
-- Mit Blazer entsteht ein moderner Stilbruch.
-- Der Bund sollte nicht wie reine Sportkleidung wirken, wenn der Look gepflegt sein soll.
+With Jogpants, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Jogpants sind immer Jogginghosen.  
-**Besser:** Jogpants können sportlich sein, aber auch aus eleganteren Materialien bestehen.
+- Check the role of Jogpants in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Bequeme Hosen wirken nie angezogen.  
-**Besser:** Mit gutem Material und klaren Gegenspielern können sie sehr modern wirken.
+## Common misconceptions
 
-## ESKYNA-Merksatz
+**Misconception:** Jogpants is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Jogpants zeigen, dass Komfort Stil haben kann. Aber nur, wenn Material und Kombination bewusst gewählt sind.
+**Misconception:** Jogpants works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Jogpants” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Jogpants works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Tapered Fit](/en/glossary/tapered-fit/)
+- [Sneaker](/en/glossary/sneaker/)
+- [Blazer](/en/glossary/blazer/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

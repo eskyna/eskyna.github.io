@@ -1,59 +1,93 @@
 ---
-title: "Was ist eine Marlenehose?"
-term: "Marlenehose"
-description: "Eine Marlenehose ist eine weite, oft hoch geschnittene Hose mit elegantem Fall und klarer, langer Beinlinie."
-category: "Schnitt, Proportion & Passform"
-tags: ["marlenehose", "weite hose", "proportion", "silhouette", "business casual"]
-keywords:
-  ["marlenehose", "was ist eine marlenehose", "marlenehose kombinieren", "weite elegante hose"]
 weight: 12
-image: "images/glossar/marlenehose.png"
-image_alt: "Editoriale Grafik mit stilisierter Marlenehose, hoher Taille und langer weiter Beinlinie"
+image: images/glossar/marlenehose.png
+title: What does Wide-Leg Trousers mean?
+seoTitle: Wide-Leg Trousers explained | ESKYNA Glossary
+term: Wide-Leg Trousers
+description:
+  Wide-Leg Trousers is a cut, proportion, or fit detail that helps you understand silhouette
+  and make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - wide leg trousers
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - wide-leg trousers
+  - what is wide-leg trousers
+  - wide-leg trousers style advice
+slug: wide-leg-trousers
+url: /glossary/wide-leg-trousers/
+aliases:
+  - /glossar/marlenehose/
+image_alt: Editorial glossary illustration for Wide-Leg Trousers
 relatedTerms:
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: Business Casual
+    url: /en/glossary/business-casual/
+  - title: Fit
+    url: /en/glossary/fit/
+faq:
+  items:
+    - q: How can I use “Wide-Leg Trousers” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Wide-Leg Trousers” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Marlenehose** ist eine weit geschnittene, oft hoch taillierte Hose mit langer, fließender Beinlinie. Sie wirkt elegant, souverän und etwas angezogen, ohne zwingend formell zu sein.
+**Wide-Leg Trousers**: Wide-Leg Trousers is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Die Marlenehose hat ihren Ausdruck durch Weite und Fall. Sie sitzt häufig in der Taille und fällt von dort aus gerade oder leicht fließend nach unten. Dadurch entsteht eine lange, ruhige Linie.
+Wide-Leg Trousers gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Sie unterscheidet sich von einer einfachen Wide-Leg-Hose durch ihre oft elegantere Anmutung. Materialien wie Wolle, Viskosemischungen, Gabardine oder feiner Twill unterstützen diesen Eindruck. In Kombination mit Blazer wirkt sie professionell. Mit Strick wird sie weicher. Mit T-Shirt und flachem Schuh wird sie moderner.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum eine Marlenehose wichtig ist
+## Why this matters for proportion
 
-Eine Marlenehose kann einem Outfit sofort Länge und Ruhe geben. Sie ist eine gute Alternative zur engen Hose, weil sie Präsenz hat, ohne körpernah zu sein. Besonders für Business Casual und gehobene Alltagslooks ist sie sehr vielseitig.
+When you understand Wide-Leg Trousers, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist die Marlenehose ein Beispiel dafür, dass Eleganz nicht eng sitzen muss. Sie entsteht durch Linie, Material, Fall und Haltung.
+With Wide-Leg Trousers, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-## Worauf du bei einer Marlenehose achten solltest
+## What to pay attention to
 
-- Der Bund sollte ruhig sitzen und die Taille nicht einschneiden.
-- Die Beinweite sollte zum Stoff passen.
-- Der Stoff braucht genug Gewicht, damit die Hose schön fällt.
-- Die Länge sollte auf den Schuh abgestimmt sein.
-- Das Oberteil sollte die Weite bewusst ausbalancieren.
+- Check the role of Wide-Leg Trousers in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Eine Marlenehose braucht immer Absatz.  
-**Besser:** Absatz kann die Linie verlängern. Mit Loafern, spitzen Flats oder klaren Sneakern kann sie ebenfalls modern wirken.
+**Misconception:** Wide-Leg Trousers is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Weite Hosen sind automatisch lässig.  
-**Besser:** Eine Marlenehose kann sehr angezogen wirken, wenn Stoff, Bund und Länge hochwertig gewählt sind.
+**Misconception:** Wide-Leg Trousers works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Die Marlenehose zeigt, dass Eleganz durch Linie entsteht. Nicht durch Enge, sondern durch Fall und Proportion.
+Look at “Wide-Leg Trousers” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Wide-Leg Trousers works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Proportion](/en/glossary/proportion/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Blazer](/en/glossary/blazer/)
+- [Business Casual](/en/glossary/business-casual/)
+- [Fit](/en/glossary/fit/)

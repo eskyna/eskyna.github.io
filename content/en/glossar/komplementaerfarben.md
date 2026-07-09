@@ -1,66 +1,93 @@
 ---
-title: "Komplementärfarben"
-term: "Komplementärfarben"
-description: "Komplementärfarben liegen sich im Farbkreis gegenüber und erzeugen starke, lebendige Kontraste."
-category: "Farbberatung & Farbe"
-tags: ["farbberatung", "komplementaerfarben"]
-keywords:
-  ["komplementärfarben", "was bedeutet komplementärfarben", "komplementärfarben stilberatung"]
 weight: 1
-image: "images/glossar/komplementaerfarben.png"
-image_alt: "Editoriale Glossar-Grafik zu Komplementärfarben mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/komplementaerfarben.png
+title: What does Complementary Colors mean?
+seoTitle: Complementary Colors explained | ESKYNA Glossary
+term: Complementary Colors
+description: Complementary Colors is a color-consultation term that helps you understand undertone,
+  contrast, harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - complementary colors
+  - color consultation & color
+  - style glossary
+keywords:
+  - complementary colors
+  - what is complementary colors
+  - complementary colors style advice
+slug: complementary-colors
+url: /glossary/complementary-colors/
+aliases:
+  - /glossar/komplementaerfarben/
+image_alt: Editorial glossary illustration for Complementary Colors
 relatedTerms:
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Farbpalette"
-    url: "/glossar/farbpalette/"
-  - title: "Akzentfarbe"
-    url: "/glossar/akzentfarbe/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Complementary Colors” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Complementary Colors” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Komplementärfarben**: Komplementärfarben liegen sich im Farbkreis gegenüber und erzeugen starke, lebendige Kontraste.
+**Complementary Colors**: Complementary Colors is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Farbe wirkt nie isoliert. Sie verändert sich durch Helligkeit, Sättigung, Material und die Farben daneben.
+Complementary Colors gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist dieser Begriff wichtig, weil Farbentscheidungen leichter werden, wenn man nicht nur Namen, sondern Beziehungen zwischen Farben versteht.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Komplementärfarben wichtig ist
+## Why this matters in color consultation
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Complementary Colors, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Komplementärfarben, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+In color consultation, Complementary Colors becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Komplementärfarben im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Complementary Colors in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Komplementärfarben ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Complementary Colors is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Komplementärfarben funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Complementary Colors works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Komplementärfarben wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Complementary Colors” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Farbtyp](/glossar/farbtyp/)
-- [Unterton](/glossar/unterton/)
-- [Kontrast](/glossar/kontrast/)
-- [Farbpalette](/glossar/farbpalette/)
-- [Akzentfarbe](/glossar/akzentfarbe/)
+Complementary Colors works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

@@ -1,62 +1,94 @@
 ---
-title: "Off-White im Stil erklärt"
-term: "Off-White"
-description: "Off-White ist ein weicher Weißton. Er wirkt heller als Creme, aber ruhiger und weniger hart als reines Weiß."
-category: "Farb-Lexikon"
-color_hex: "#F3EBDD"
-tags: ["off-white", "weiss", "farbe", "farbberatung", "neutrale farben"]
-keywords: ["off-white kleidung", "off-white kombinieren", "weissnuancen", "farbberatung"]
 weight: 18
-image: "images/glossar/off-white.png"
-image_alt: "Editoriale Grafik zu Off-White mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/off-white.png
+color_hex: "#F3EBDD"
+title: What does Off-White mean?
+seoTitle: Off-White explained | ESKYNA Glossary
+term: Off-White
+description: Off-White is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - off white
+  - color lexicon
+  - style glossary
+keywords:
+  - off-white
+  - what is off-white
+  - off-white style advice
+slug: off-white
+url: /glossary/off-white/
+aliases:
+  - /glossar/off-white/
+image_alt: Editorial glossary illustration for Off-White
 relatedTerms:
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Creme"
-    url: "/glossar/creme/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Off-White” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Off-White” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Off-White
+## Definition
 
-Off-White ist die weichere Lesart von Weiß. Die Farbe bringt Helligkeit in ein Outfit, wirkt aber weniger grafisch und weniger streng als reines Weiß.
+**Off-White**: Off-White is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Off-White wirkt
+## In simple words
 
-Off-White wirkt klar, gepflegt und ruhig. Es kann einen Look aufhellen, ohne einen sehr starken Kontrast zu erzeugen. Besonders in Blusen, Shirts, Strick, Hosen und Mänteln wirkt Off-White hochwertig, wenn Material und Schnitt sauber bleiben.
+Off-White gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Off-White
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Ecru:** Naturweiß mit einem leichten Beigeanteil. Wirkt weich und natürlich.
-- **Ivory:** Ein feiner Elfenbeinton. Eleganter und wärmer als Reinweiß.
-- **Knochenweiß:** Ruhig, etwas kühler und weniger cremig.
-- **Warmes Off-White:** Besonders schön zu Camel, Braun und Gold.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Off-White, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Baumwolle wirkt Off-White frisch und unkompliziert. In Seide oder Satin wird es feiner. In Wolle oder Kaschmir wirkt es weich und luxuriös. Bei sehr dünnen Stoffen ist Qualität wichtig, damit die Farbe nicht durchsichtig oder zufällig erscheint.
+With Off-White, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Off-White kombinieren
+## What to pay attention to
 
-- **Off-White + Navy:** klassisch, klar und professionell
-- **Off-White + Camel:** warm, hochwertig und weich
-- **Off-White + Braun:** ruhig und elegant
-- **Off-White + Denim:** frisch und alltagstauglich
-- **Off-White + Schwarz:** grafisch, aber weicher als Reinweiß
+- Check the role of Off-White in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Off-White im Business und Alltag
+## Common misconceptions
 
-Im Business ist Off-White eine starke Alternative zu Weiß. Eine Bluse, ein Shirt unter dem Blazer oder eine helle Hose wirken gepflegt, ohne sehr streng zu sein. Besonders gut funktioniert Off-White, wenn die Stoffe blickdicht und die Linien klar sind.
+**Misconception:** Off-White is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Off-White funktioniert
+**Misconception:** Off-White works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Off-White ist hilfreich, wenn Reinweiß nah am Gesicht zu hart wirkt. Je nach [Unterton](/glossar/unterton/) kann ein wärmeres oder kühleres Off-White harmonischer sein. Als Oberteil, Schal oder Tasche bringt es sofort Licht in den Look.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Off-White” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Off-White ist Licht mit Weichheit. Die Farbe wirkt am besten, wenn sie bewusst von Creme und Reinweiß unterschieden wird.
+## ESKYNA note
+
+Off-White works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

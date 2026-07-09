@@ -2,11 +2,14 @@
 {{ if .Params.offer }}
 {{ partial "offer-page.html" . }}
 {{ else }}
-{{ $isPrivacyPage := in .RelPermalink "/datenschutz/" }}
-{{ $isLegalPage := or $isPrivacyPage (in .RelPermalink "/impressum/") }}
+{{ $isPrivacyPage := or (in .RelPermalink "/datenschutz/") (in .RelPermalink "/privacy-policy/") }}
+{{ $isLegalPage := or $isPrivacyPage (or (in .RelPermalink "/impressum/") (in .RelPermalink "/legal-notice/")) }}
 {{ $ui := .Params.ui }}
 {{ $homeUI := .Site.Home.Params.ui }}
-{{ $backToHomeText := or $ui.back_to_home_text $homeUI.back_to_home_text "Zur Startseite" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $isEn := eq $lang "en" }}
+{{ $backToHomeText := or $ui.back_to_home_text $homeUI.back_to_home_text (cond $isRu "На главную" (cond $isEn "Back to home" "Zur Startseite")) }}
 {{ $privacyCloverAlt := or $ui.privacy_clover_alt "ESKYNA Kleeblatt" }}
 {{ $pageImageTitle := or $ui.page_image_title "Natalia Kleemann" }}
 {{ $methodSymbolPrefix := or $ui.method_symbol_prefix "Symbol für" }}

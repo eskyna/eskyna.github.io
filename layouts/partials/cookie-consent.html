@@ -3,7 +3,8 @@
     <h2 id="cookie-consent-title">{{ i18n "cookie_banner_title" }}</h2>
     <p>{{ i18n "cookie_banner_text" }}</p>
     <p class="cookie-consent-links">
-      <a href="{{ "datenschutz/" | relLangURL }}" title="{{ i18n "cookie_banner_privacy_link" }}">{{ i18n "cookie_banner_privacy_link" }}</a>
+      {{ $cookiePrivacyHref := i18n "cf_privacy_href" }}{{ if not $cookiePrivacyHref }}{{ $cookiePrivacyHref = "datenschutz/" | relLangURL }}{{ end }}
+      <a href="{{ $cookiePrivacyHref }}" title="{{ i18n "cookie_banner_privacy_link" }}">{{ i18n "cookie_banner_privacy_link" }}</a>
     </p>
 
     <div class="cookie-consent-actions">

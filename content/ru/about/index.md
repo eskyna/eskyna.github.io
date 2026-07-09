@@ -1,53 +1,56 @@
 ---
-title: "Обо мне"
-eyebrow: "Наталия Клеманн"
-image: "images/portraits/natalia-schreibtisch.png"
+title: Обо мне
+eyebrow: Наталия Клеманн
+image: images/portraits/natalia-schreibtisch.png
 facts:
-  title: "Несколько фактов обо мне"
+  title: Несколько фактов обо мне
   items:
-    - "с 2019 года я занимаюсь тем, что действительно люблю"
-    - "Я сопровождаю женщин и мужчин онлайн и очно"
+    - с 2019 года я занимаюсь тем, что действительно люблю
+    - Я сопровождаю женщин и мужчин онлайн и очно
     - "Международный опыт в стиле: от Сибири до Лейпцига"
-    - "Осознанность и устойчивость — важная часть моей работы"
-    - "Мама двух стильных мальчиков"
-    - "Я переосмысляю консультации по стилю как основательница [EStyle](/rus/estyle/)"
+    - Осознанность и устойчивость — важная часть моей работы
+    - Мама двух стильных мальчиков
+    - Я переосмысляю консультации по стилю как основательница [EStyle](/rus/estyle/)
 method:
-  eyebrow: "Метод ESKYNA"
+  eyebrow: Метод ESKYNA
   title: "Больше, чем консультация по стилю: метод с системой"
-  intro: "Метод ESKYNA помогает формировать стиль не только по вкусу, но и по личности, впечатлению и реальности вашей жизни. В шесть шагов вы получаете образ, который аутентичен и устойчив в повседневности."
-  tagline: "Суть — Сигналы — Ядро стиля — Your Signature — Новая логика гардероба — Активация"
-  quote: "Я создала метод ESKYNA, чтобы превратить стиль из случайности в ясную систему."
+  intro:
+    Метод ESKYNA помогает формировать стиль не только по вкусу, но и по личности, впечатлению и реальности
+    вашей жизни. В шесть шагов вы получаете образ, который аутентичен и устойчив в повседневности.
+  tagline: Суть — Сигналы — Ядро стиля — Your Signature — Новая логика гардероба — Активация
+  quote: Я создала метод ESKYNA, чтобы превратить стиль из случайности в ясную систему.
   steps:
-    - letter: "E"
-      title: "Суть"
-      text: "Кто вы и какое впечатление хотите производить."
-      icon: "images/method/e_essenz.png"
-    - letter: "S"
-      title: "Сигналы"
-      text: "Что ваш текущий стиль транслирует уже сегодня."
-      icon: "images/method/s_signale.png"
-    - letter: "K"
-      title: "Ядро стиля"
-      text: "Какие цвета, линии и формы усиливают вашу внешность и харизму."
-      icon: "images/method/k_kernsprache.png"
-    - letter: "Y"
-      title: "Your Signature"
-      text: "Как выглядит ваш узнаваемый личный стиль."
-      icon: "images/method/y_your_signature.png"
-    - letter: "N"
-      title: "Новая логика гардероба"
-      text: "Как сделать гардероб понятным."
-      icon: "images/method/n_neue_garderobe.png"
-    - letter: "A"
-      title: "Активация"
-      text: "Как жить своим стилем уверенно и естественно каждый день."
-      icon: "images/method/a_aktivierung.png"
+    - letter: E
+      title: Суть
+      text: Кто вы и какое впечатление хотите производить.
+      icon: images/method/e_essenz.png
+    - letter: S
+      title: Сигналы
+      text: Что ваш текущий стиль транслирует уже сегодня.
+      icon: images/method/s_signale.png
+    - letter: K
+      title: Ядро стиля
+      text: Какие цвета, линии и формы усиливают вашу внешность и харизму.
+      icon: images/method/k_kernsprache.png
+    - letter: Y
+      title: Your Signature
+      text: Как выглядит ваш узнаваемый личный стиль.
+      icon: images/method/y_your_signature.png
+    - letter: N
+      title: Новая логика гардероба
+      text: Как сделать гардероб понятным.
+      icon: images/method/n_neue_garderobe.png
+    - letter: A
+      title: Активация
+      text: Как жить своим стилем уверенно и естественно каждый день.
+      icon: images/method/a_aktivierung.png
 ui:
-  back_to_home_text: "На главную"
-  privacy_clover_alt: "Клевер ESKYNA"
-  page_image_title: "Наталия Клеманн"
-  method_symbol_prefix: "Символ для"
-  method_quote_author: "Наталия Клеманн"
+  back_to_home_text: На главную
+  privacy_clover_alt: Клевер ESKYNA
+  page_image_title: Наталия Клеманн
+  method_symbol_prefix: Символ для
+  method_quote_author: Наталия Клеманн
+url: /rus/obo-mne/
 ---
 
 Я, **Наталия Клеманн**, стилист и имидж-коуч с фокусом на образ,

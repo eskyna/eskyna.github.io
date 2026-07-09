@@ -1,61 +1,94 @@
 ---
-title: "Was ist eine Cargohose?"
-term: "Cargohose"
-description: "Eine Cargohose ist eine funktional inspirierte Hose mit aufgesetzten Taschen und sportlich-urbaner Wirkung."
-category: "Garderobe & Alltag"
-tags:
-  - "cargohose"
-  - "hose"
-  - "casual"
-  - "utility"
-keywords:
-  - "cargohose"
-  - "was ist eine cargohose"
-  - "cargohose kombinieren"
 weight: 5
-image: "images/glossar/cargohose.png"
-image_alt: "Editoriale Grafik zu Cargohose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image: images/glossar/cargohose.png
+title: What does Cargo Trousers mean?
+seoTitle: Cargo Trousers explained | ESKYNA Glossary
+term: Cargo Trousers
+description:
+  Cargo Trousers is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - cargo trousers
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - cargo trousers
+  - what is cargo trousers
+  - cargo trousers style advice
+slug: cargo-trousers
+url: /glossary/cargo-trousers/
+aliases:
+  - /glossar/cargohose/
+image_alt: Editorial glossary illustration for Cargo Trousers
 relatedTerms:
-  - title: "Khaki"
-    url: "/glossar/khaki/"
-  - title: "Oliv"
-    url: "/glossar/oliv/"
-  - title: "Stilbruch"
-    url: "/glossar/stilbruch/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Sneaker"
-    url: "/glossar/sneaker/"
+  - title: Khaki
+    url: /en/glossary/khaki/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: Sneaker
+    url: /en/glossary/sneaker/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Cargo Trousers” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Cargo Trousers” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Cargohose** ist eine Hose mit aufgesetzten Taschen, meist an den Oberschenkeln. Sie kommt ursprünglich aus funktionaler Kleidung und wirkt deshalb sportlich, praktisch und oft urban.
+**Cargo Trousers**: Cargo Trousers is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Cargohosen können schmal, gerade oder weit geschnitten sein. In Baumwolle oder Twill wirken sie robust. In fließenden Materialien werden sie weicher und modischer.
-Die Taschen sind das prägende Detail. Je größer und auffälliger sie sind, desto stärker wird die Utility-Wirkung.
+Cargo Trousers gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum dieser Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Cargohosen sind wichtig, weil sie einem Look sofort Lässigkeit und Funktionalität geben. Damit sie nicht zu praktisch wirken, braucht das Styling bewusst gewählte Gegenspieler.
+## Why this matters in your wardrobe
 
-## Worauf du achten solltest
+When you understand Cargo Trousers, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- Mit Blazer entsteht ein moderner Stilbruch.
-- Schlichte Oberteile lassen die Taschen ruhiger wirken.
-- Oliv, Khaki und Schwarz wirken klassisch, Creme oder Braun weicher.
-- Achte darauf, dass die Taschen nicht ungünstig abstehen.
+With Cargo Trousers, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Cargohosen sind immer sportlich.  
-**Besser:** In ruhigen Farben und guter Passform können sie sehr modern wirken.
+- Check the role of Cargo Trousers in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Mehr Taschen bedeuten mehr Stil.  
-**Besser:** Zu viele Details machen den Look schnell unruhig.
+## Common misconceptions
 
-## ESKYNA-Merksatz
+**Misconception:** Cargo Trousers is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Die Cargohose bringt Funktion in den Look. Elegant wird sie durch Ruhe, Passform und klare Kombinationen.
+**Misconception:** Cargo Trousers works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Cargo Trousers” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Cargo Trousers works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Khaki](/en/glossary/khaki/)
+- [Blazer](/en/glossary/blazer/)
+- [Sneaker](/en/glossary/sneaker/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

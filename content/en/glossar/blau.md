@@ -1,67 +1,94 @@
 ---
-title: "Blau im Stil erklärt"
-term: "Blau"
-description: "Blau wirkt ruhig, klar und vielseitig. Je nach Nuance kann es frisch, sachlich, weich oder souverän erscheinen."
-category: "Farb-Lexikon"
-color_hex: "#547EA8"
-tags: ["blau", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["blau kleidung", "blau kombinieren", "hellblau navy", "stilberatung"]
 weight: 6
-image: "images/glossar/blau.png"
-image_alt: "Editoriale Grafik mit Blau-Nuancen, Denimflächen und klaren Farbkombinationen"
+image: images/glossar/blau.png
+color_hex: "#547EA8"
+title: What does Blue mean?
+seoTitle: Blue explained | ESKYNA Glossary
+term: Blue
+description: Blue is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - blue
+  - color lexicon
+  - style glossary
+keywords:
+  - blue
+  - what is blue
+  - blue style advice
+slug: blue
+url: /glossary/blue/
+aliases:
+  - /glossar/blau/
+image_alt: Editorial glossary illustration for Blue
 relatedTerms:
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Hellblau"
-    url: "/glossar/hellblau/"
-  - title: "Türkis"
-    url: "/glossar/tuerkis/"
-  - title: "Petrol"
-    url: "/glossar/petrol/"
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Blue” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Blue” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Blau
+## Definition
 
-Blau gehört zu den vielseitigsten Farben in der Garderobe. Es kann ruhig, klar, frisch, sachlich oder sehr elegant wirken. Die genaue Nuance entscheidet, ob Blau eher leicht, sportlich, professionell oder tief erscheint.
+**Blue**: Blue is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Blau wirkt
+## In simple words
 
-Blau bringt Ruhe in ein Outfit. Hellblau wirkt offen und frisch. Mittelblau wirkt unkompliziert. Königsblau wirkt präsent. Dunkelblau wirkt souverän und professionell. Durch diese Spannweite eignet sich Blau für Alltag, Business und besondere Anlässe.
+Blue gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Auch das Material verändert die Wirkung deutlich. Blau in Popeline wirkt gepflegt und frisch. Blau in Denim wirkt lässig. Blau in Seide wirkt edler. Blau in Strick wirkt weich und zugänglich.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Blau
+## Why this matters in color styling
 
-- **Hellblau:** Frisch, leicht und sauber. Besonders stark bei Hemden und Blusen.
-- **Mittelblau:** Alltagstauglich und entspannt. Häufig bei Denim und Baumwolle.
-- **Königsblau:** Klar, intensiv und präsent. Braucht Ruhe im restlichen Look.
-- **Jeansblau:** Lässig, vertraut und unkompliziert. Verbindet elegante Teile mit Alltag.
-- **Navy:** Dunkel, ruhig und professionell. Eine Alternative zu Schwarz.
+When you understand Blue, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Blau kombinieren
+With Blue, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-- **Blau + Weiß:** Frisch, klar und klassisch
-- **Blau + Creme:** Weicher und eleganter
-- **Blau + Braun:** Modern, warm und erwachsen
-- **Blau + Grau:** Ruhig und sachlich
-- **Blau + Grün:** Natürlich und lebendig, wenn die Nuancen harmonieren
+## What to pay attention to
 
-## Blau im Business und Alltag
+- Check the role of Blue in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-Im Business ist Blau besonders tragfähig. Hellblaue Hemden, navyfarbene Blazer und dunkelblaue Hosen wirken professionell, ohne sehr hart zu sein. Im Alltag verbindet Blau viele Stilrichtungen, vor allem über Denim, Strick und leichte Blusen.
+## Common misconceptions
 
-## Für wen und wo Blau funktioniert
+**Misconception:** Blue is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Blau kann kühl, klar, gedeckt oder fast neutral wirken. Deshalb lohnt sich der Blick auf Helligkeit, Sättigung und [Kontrast](/glossar/kontrast/). Wenn ein klares Blau zu stark wirkt, kann ein gedämpftes Blau oder Denim besser funktionieren. Wenn ein weiches Blau zu blass wirkt, hilft eine intensivere Nuance.
+**Misconception:** Blue works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Blau ist Ruhe mit vielen Stimmen. Die Nuance entscheidet, ob der Look frisch, weich oder souverän wirkt.
+Look at “Blue” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Blue works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

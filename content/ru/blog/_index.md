@@ -1,32 +1,34 @@
 ---
-title: "Блог ESKYNA"
-seoTitle: "Блог о стиле и имидже | ESKYNA"
-description: "Статьи ESKYNA о стиле, цвете и практичных образах для повседневной жизни и работы."
+title: Блог ESKYNA
+seoTitle: Блог о стиле и имидже | ESKYNA
+description: Статьи ESKYNA о стиле, цвете и практичных образах для повседневной жизни и работы.
 ui:
-  back_text: "На главную"
-  read_more_text: "Читать статью"
-  reading_time_text: "мин. чтения"
-  back_to_blog_text: "К блогу"
-  toc_text: "Содержание"
-  toc_toggle_text: "Показать содержание"
-  audio_label: "Слушать статью"
-  audio_description: "Аудиоверсия этой статьи"
-  category_text: "Цвет и стиль"
-  looks_text: "Смотреть образы"
-  instagram_text: "Пост в Instagram"
-  journal_title: "Журнал ESKYNA"
-  journal_eyebrow: "Журнал"
-  journal_subtitle: "Практика стиля, теория цвета и готовые идеи образов для гардероба, который действительно подходит именно вам."
-  featured_text: "Текущий редакционный материал"
-  advisory_title: "Больше ясности в вашем стиле"
-  advisory_body: "Узнайте, какие цвета, силуэты и сочетания подходят именно вам."
-  advisory_cta: "Открыть консультацию"
-  categories_aria_label: "Категории"
-  chip_all: "Все"
-  chip_palette: "Цвет и палитра"
-  chip_materials: "Ткани и сезон"
-  chip_proportions: "Пропорции и крой"
-  chip_impact: "Стиль и позиционирование"
+  back_text: На главную
+  read_more_text: Читать статью
+  reading_time_text: мин. чтения
+  back_to_blog_text: К блогу
+  toc_text: Содержание
+  toc_toggle_text: Показать содержание
+  audio_label: Слушать статью
+  audio_description: Аудиоверсия этой статьи
+  category_text: Цвет и стиль
+  looks_text: Смотреть образы
+  instagram_text: Пост в Instagram
+  journal_title: Журнал ESKYNA
+  journal_eyebrow: Журнал
+  journal_subtitle:
+    Практика стиля, теория цвета и готовые идеи образов для гардероба, который действительно подходит
+    именно вам.
+  featured_text: Текущий редакционный материал
+  advisory_title: Больше ясности в вашем стиле
+  advisory_body: Узнайте, какие цвета, силуэты и сочетания подходят именно вам.
+  advisory_cta: Открыть консультацию
+  categories_aria_label: Категории
+  chip_all: Все
+  chip_palette: Цвет и палитра
+  chip_materials: Ткани и сезон
+  chip_proportions: Пропорции и крой
+  chip_impact: Стиль и позиционирование
 ---
 
 В блоге ESKYNA публикуются материалы о стиле, цвете и практичных образах для повседневной жизни.

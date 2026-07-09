@@ -1,65 +1,93 @@
 ---
-title: "Was bedeutet Secondhand?"
-term: "Secondhand"
-description: "Secondhand bezeichnet Kleidung aus zweiter Hand und kann Nachhaltigkeit, Individualität und Qualität verbinden."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "secondhand"]
-keywords: ["secondhand", "was bedeutet secondhand", "secondhand stilberatung"]
 weight: 1
-image: "images/glossar/secondhand.png"
-image_alt: "Editoriale Glossar-Grafik zu Secondhand mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/secondhand.png
+title: What does Secondhand mean?
+seoTitle: Secondhand explained | ESKYNA Glossary
+term: Secondhand
+description: Secondhand is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - secondhand
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - secondhand
+  - what is secondhand
+  - secondhand style advice
+slug: secondhand
+url: /glossary/secondhand/
+aliases:
+  - /glossar/secondhand/
+image_alt: Editorial glossary illustration for Secondhand
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Secondhand” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Secondhand” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Secondhand**: Secondhand bezeichnet Kleidung aus zweiter Hand und kann Nachhaltigkeit, Individualität und Qualität verbinden.
+**Secondhand**: Secondhand is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Dieser Begriff gehört zur praktischen Seite des Stils. Er hilft, den Kleiderschrank nicht als Ansammlung einzelner Teile zu sehen, sondern als System.
+Secondhand gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist Garderobenlogik ein Schlüssel zu weniger Fehlkäufen. Gute Entscheidungen entstehen, wenn ein Teil eine klare Funktion hat.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Secondhand wichtig ist
+## Why this matters in your wardrobe
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Secondhand, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Secondhand, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Secondhand, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Secondhand im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Secondhand in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Secondhand ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Secondhand is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Secondhand funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Secondhand works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Secondhand wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Secondhand” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+Secondhand works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

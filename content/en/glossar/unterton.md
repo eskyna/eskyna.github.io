@@ -1,58 +1,147 @@
 ---
-title: "Was ist ein Unterton?"
-term: "Unterton"
-description: "Der Unterton zeigt, ob eine Farbe warm, kühl oder neutral wirkt und warum Nuancen am Gesicht so unterschiedlich aussehen."
-category: "Farbberatung & Farbe"
-tags: ["unterton", "farbberatung", "farbtemperatur", "farben"]
-keywords: ["unterton", "warme farben", "kühle farben", "farbberatung"]
 weight: 2
-image: "images/glossar/unterton.png"
-image_alt: "Grafik mit warmen, neutralen und kühlen Farbtönen zur Erklärung des Untertons"
+image: images/glossar/unterton.png
+title: What does Undertone mean?
+seoTitle: Undertone explained | ESKYNA Glossary
+term: Undertone
+description:
+  Undertone describes the warm, cool, neutral, or olive quality of the skin and is an important basis
+  for color decisions.
+category: Color Consultation & Color
+tags:
+  - undertone
+  - color consultation & color
+  - style glossary
+keywords:
+  - undertone
+  - what is undertone
+  - undertone style advice
+slug: undertone
+url: /glossary/undertone/
+aliases:
+  - /glossar/unterton/
+image_alt: Editorial glossary illustration for Undertone
 relatedTerms:
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+featured_glossar: true
+featured_weight: 11
+content_level: commercial-pillar
+lastmod: "2026-07-09"
+faq:
+  items:
+    - q: Can deep skin have a cool undertone?
+      a: Yes. Depth and undertone are different characteristics.
+    - q: Can my undertone be neutral?
+      a: Yes. Many people sit between warm and cool or need very balanced shades.
+    - q: Is an online undertone test enough?
+      a: It can give hints, but it rarely replaces comparison with real fabric colors near the face.
+commercial_intent: true
+commercial_weight: 19
+commercial_cluster: color
+editorial_depth: mini-case-offer-bridge
+consulting_questions:
+  - Which shade supports the face and the intended impact best?
+  - "Where does this idea work best: near the face, as an accent, or as a base?"
+  - How can it combine with existing colors without creating new buying mistakes?
+consulting_focus:
+  Undertone becomes especially relevant in consultation when a concept needs to turn into a concrete
+  decision for clothing, impact, or wardrobe planning.
+offer_bridge:
+  kicker: Relevant ESKYNA offer
+  title: Turn color knowledge into outfits
+  text:
+    When the term should become usable in daily life, ESKYNA connects color with impact, cut, and your existing
+    wardrobe.
+  bullets:
+    - recognize your color direction
+    - combine shades with more ease
+    - reduce color-related buying mistakes
+  primary_label: Explore ESKYNA Style Sense
+  primary_url: /en/style-sense/
+  secondary_label: Ask a style question
+  secondary_url: /en/style-question/
 ---
 
 ## Definition
 
-Der **Unterton** beschreibt, ob eine Farbe eher warm, kühl oder neutral wirkt. Warme Töne enthalten oft Gelb, Gold, Orange oder Braun. Kühle Töne wirken bläulicher, silbriger oder klarer.
+**Undertone**: Undertone is the subtle color direction perceived beneath the surface of the skin. It may appear warm, cool, neutral, or olive. Undertone influences which colors, metals, and make-up shades harmonize with the face.
 
-## Einfach erklärt
+## In simple words
 
-Zwei Farben können auf den ersten Blick gleich heißen und trotzdem völlig unterschiedlich wirken. Es gibt nicht nur Blau, Rosa oder Beige. Es gibt warme und kühle Varianten davon.
+Undertone is not about whether your skin is light or deep. Two people with similar depth can have completely different undertones. That is why the same lipstick can look fresh on one person and harsh on another.
 
-Ein warmes Rosa kann einen Hauch Apricot enthalten. Ein kühles Rosa wirkt stärker bläulich. Ein warmes Beige geht Richtung Sand oder Camel. Ein kühles Beige wirkt eher wie Greige oder Taupe.
+## Why Undertone matters
 
-Der Unterton ist besonders wichtig bei Kleidung, die nah am Gesicht liegt. Bluse, Shirt, Schal, Schmuck und Brille verändern sofort, wie frisch Haut, Augen und Haare wirken.
+Undertone matters most in colors worn close to the face. Blouses, turtlenecks, scarves, jewelry, glasses, and make-up react directly with the complexion. If the temperature is off, a look can quickly seem uneven or tired even when cut and quality are good.
 
-## Warum der Unterton wichtig ist
+## ESKYNA perspective
 
-Viele Fehlkäufe entstehen nicht, weil eine Farbe grundsätzlich falsch ist, sondern weil ihr Unterton nicht passt. Die Farbe wirkt dann ein wenig daneben. Nicht auffällig falsch, aber auch nicht stimmig.
+In consultation, I do not look at undertone in isolation. I compare it with contrast, eye color, hair color, and desired impact. For some people, the undertone is clear. Others need neutral or softly broken shades.
 
-Wenn du deinen Unterton kennst, findest du leichter die richtige Version einer Farbe. Vielleicht ist Rosa gut, aber nicht jedes Rosa. Vielleicht ist Beige schön, aber nur in einer kühleren oder wärmeren Nuance.
+## How to use this idea
 
-## Typische Missverständnisse
+- Compare gold and silver in daylight.
+- Test warm and cool whites directly near the face.
+- Notice whether redness becomes stronger or calmer.
+- Do not rely only on vein tests, but on the overall effect.
 
-**Missverständnis:** Warme Farben sind immer kräftig und kühle Farben immer hart.
+## Everyday example
 
-**Besser:** Auch warme Farben können sehr weich wirken. Auch kühle Farben können ruhig und elegant sein. Entscheidend ist die Nuance.
+Undertone often becomes visible through jewelry or make-up. Silver may make the face clearer, gold may warm it or look too yellow, and rose gold may create a soft bridge. The same effect happens with fabric colors close to the face.
 
-**Missverständnis:** Schwarz und Weiß sind neutral und passen deshalb immer.
+## When consultation helps
 
-**Besser:** Auch neutrale Farben haben Wirkung. Reinweiß kann sehr kühl sein. Creme wirkt wärmer. Schwarz kann stark rahmen, aber auch hart erscheinen.
+Consultation helps when you fluctuate between warm and cool or do not recognize yourself in standard tests. Undertone is often more subtle than a quick rule. Comparing real fabrics and metals shows more than asking what color your veins are.
 
-## Praktisches Beispiel
+## Common misunderstanding
 
-Halte einmal Cremeweiß und Reinweiß ans Gesicht. Creme kann weicher und wärmer wirken. Reinweiß kann frischer, aber auch strenger erscheinen. Der bessere Ton ist der, der das Gesicht klarer macht und nicht die Farbe in den Vordergrund stellt.
+Many online tests oversimplify undertone. Vein color or tanning behavior is rarely enough. What matters is how colors change your face and whether the total impression stays calm, clear, and coherent.
 
-## ESKYNA-Merksatz
+## Difference from related terms
 
-Der Unterton ist die leise Temperatur einer Farbe. Er entscheidet oft, ob ein Look harmonisch oder nur beinahe richtig wirkt.
+Undertone describes you, while Color Temperature describes the color. A Color Type only appears when undertone, contrast, brightness, and saturation are viewed together.
+
+## Next step
+
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+
+## ESKYNA note
+
+Undertone is quiet, but it often decides whether a color feels harmonious or foreign.
+
+<!-- commercial-depth-start -->
+
+## Real consulting situation
+
+With **Undertone**, the consulting question becomes practical when a beautiful definition has to become a real decision: what stays, what is combined differently, what is worth buying, and what can be left out? Often the issue is not one garment, but the missing logic behind it.
+
+## Mini case: from doubt to decision
+
+A typical client may understand **Undertone** in theory, yet still lack a reliable filter in front of the mirror. We check existing pieces, compare alternatives, and translate the idea into two or three clear rules for daily life, work, and special occasions. This turns uncertainty into a decision you can repeat.
+
+## Decision filter before your next purchase
+
+- Does the decision support your intended impact?
+- Does it work with color, cut, proportion, and your existing wardrobe?
+- Can you combine it with at least three pieces you already own?
+- Does it still feel right after a long day?
+
+## How to know that support would help
+
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Undertone** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Style Sense](/en/style-sense/) if you want to turn this idea into a clear style decision.
+
+<!-- commercial-depth-end -->
+
+## Related Terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Color Palette](/en/glossary/color-palette/)

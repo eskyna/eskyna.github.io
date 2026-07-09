@@ -1,24 +1,42 @@
 ---
-title: "Was ist eine Silhouette?"
-term: "Silhouette"
-description: "Die Silhouette ist die äußere Linie eines Outfits und prägt, ob ein Look klar, weich, modern oder voluminös wirkt."
-category: "Schnitt, Proportion & Passform"
-tags: ["silhouette", "schnitt", "proportionen", "passform"]
-keywords: ["silhouette mode", "schnittform", "proportionen", "stilberatung"]
+title: Was ist eine Silhouette?
+term: Silhouette
+description: Die Silhouette ist die äußere Linie eines Outfits und prägt, ob ein Look klar, weich,
+  modern oder voluminös wirkt.
+category: Schnitt, Proportion & Passform
+tags:
+  - silhouette
+  - schnitt
+  - proportionen
+  - passform
+keywords:
+  - silhouette mode
+  - schnittform
+  - proportionen
+  - stilberatung
 weight: 2
-image: "images/glossar/silhouette.png"
-image_alt: "Grafik mit mehreren Outfit-Silhouetten in klaren Linien"
+image: images/glossar/silhouette.png
+image_alt: Grafik mit mehreren Outfit-Silhouetten in klaren Linien
 relatedTerms:
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "A-Linie"
-    url: "/glossar/a-linie/"
-  - title: "Oversized"
-    url: "/glossar/oversized/"
-  - title: "Layering"
-    url: "/glossar/layering/"
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Passform
+    url: /glossar/passform/
+  - title: A-Linie
+    url: /glossar/a-linie/
+  - title: Oversized
+    url: /glossar/oversized/
+  - title: Layering
+    url: /glossar/layering/
+faq:
+  items:
+    - q: Wie nutze ich „Silhouette“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
+        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Silhouette“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +74,17 @@ Ein langer, gerader Mantel über einer schmalen Hose wirkt klar und gestreckt. D
 ## ESKYNA-Merksatz
 
 Silhouette ist der erste Eindruck eines Outfits. Sie gibt der Kleidung Form, bevor Farbe und Details sprechen.
+
+## Praxischeck
+
+Wenn du den Begriff **Silhouette** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schnitt und Passform entscheiden, ob ein Outfit ruhig, langgezogen, kompakt, weich oder präzise wirkt.
+
+- Sieh dir die Linien im Spiegel aus zwei Metern Abstand an.
+- Prüfe Schulter, Taille, Saum und Bewegungsfreiheit getrennt.
+- Kombiniere das Teil mit den Schuhen, die du tatsächlich dazu tragen würdest.
+
+## Beratungsblick
+
+In der Beratung ist **Silhouette** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

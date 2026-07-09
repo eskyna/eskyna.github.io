@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -81,6 +82,11 @@ def parse_args() -> argparse.Namespace:
 HUGO_RESERVED_FRONTMATTER_TAGS = {
     "layout",
     "url",
+    "aliases",
+    "slug",
+    "lastmod",
+    "content_level",
+    "editorial_depth",
 }
 
 
@@ -179,6 +185,19 @@ def get_markdown_tags(content_dir: Path) -> dict[Path, dict[str, int]]:
         if not yaml_content.strip():
             return keys
 
+        if yaml is None:
+            # Fallback parser for top-level YAML keys when PyYAML is not available.
+            for idx, line in enumerate(yaml_lines, start=2):
+                if not line or line[0].isspace():
+                    continue
+                stripped = line.strip()
+                if not stripped or stripped.startswith("#") or stripped.startswith("-"):
+                    continue
+                match = re.match(r"^([A-Za-z0-9_][A-Za-z0-9_-]*)\s*:", line)
+                if match:
+                    keys[match.group(1)] = idx
+            return keys
+
         try:
             node = yaml.compose(yaml_content)
         except yaml.YAMLError:
@@ -265,8 +284,7 @@ def main() -> int:
     root_dir = script_path.parent.parent
 
     if yaml is None:
-        print(err("Error: PyYAML is required. Install with 'pip install pyyaml'."), file=sys.stderr)
-        return 2
+        print(warn("PyYAML not found. Using fallback front matter parser."))
 
     hugo_bin = shutil.which("hugo")
     if not hugo_bin:

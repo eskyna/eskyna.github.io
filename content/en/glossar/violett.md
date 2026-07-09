@@ -1,62 +1,94 @@
 ---
-title: "Violett im Stil erklärt"
-term: "Violett"
-description: "Violett ist ein intensiver Ton zwischen Blau und Rot. Es wirkt kreativ, tief und ungewöhnlicher als klassische Farben."
-category: "Farb-Lexikon"
-color_hex: "#5D3B8C"
-tags: ["violett", "lila", "farbe", "farbberatung", "akzentfarbe"]
-keywords: ["violett kleidung", "violett kombinieren", "lila violett", "farbberatung"]
 weight: 30
-image: "images/glossar/violett.png"
-image_alt: "Editoriale Grafik zu Violett mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/violett.png
+color_hex: "#5D3B8C"
+title: What does Violet mean?
+seoTitle: Violet explained | ESKYNA Glossary
+term: Violet
+description: Violet is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - violet
+  - color lexicon
+  - style glossary
+keywords:
+  - violet
+  - what is violet
+  - violet style advice
+slug: violet
+url: /glossary/violet/
+aliases:
+  - /glossar/violett/
+image_alt: Editorial glossary illustration for Violet
 relatedTerms:
-  - title: "Lila"
-    url: "/glossar/lila/"
-  - title: "Flieder"
-    url: "/glossar/flieder/"
-  - title: "Fuchsia"
-    url: "/glossar/fuchsia/"
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
+  - title: Fuchsia
+    url: /en/glossary/fuchsia/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Violet” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Violet” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Violett
+## Definition
 
-Violett ist tiefer und intensiver als viele Lilatöne. Es wirkt kreativ, präsent und etwas ungewöhnlicher als klassische Farben.
+**Violet**: Violet is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Violett wirkt
+## In simple words
 
-Violett kann geheimnisvoll, elegant oder künstlerisch wirken. Die Farbe bringt Tiefe in den Look, besonders wenn sie mit ruhigen Neutralfarben kombiniert wird. Als Akzent wirkt Violett modern, als große Fläche braucht es eine klare Silhouette.
+Violet gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Violett
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Klares Violett:** Präsent, kühl und ausdrucksstark.
-- **Aubergine:** Dunkel, elegant und nah an Bordeaux.
-- **Pflaume:** Weicher und tiefer, schön zu Braun und Creme.
-- **Blauviolett:** Kühler und ruhiger.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Violet, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Samt wirkt Violett luxuriös. In Seide bekommt es Tiefe und Glanz. In Wolle oder Strick wird es tragbarer. Matte Stoffe machen Violett zurückhaltender, glänzende Stoffe stärker.
+With Violet, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Violett kombinieren
+## What to pay attention to
 
-- **Violett + Creme:** weich und elegant
-- **Violett + Anthrazit:** modern und ruhig
-- **Violett + Navy:** tief und tonal
-- **Violett + Silber:** kühl und klar
-- **Violett + Oliv:** spannend und erwachsen
+- Check the role of Violet in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Violett im Business und Alltag
+## Common misconceptions
 
-Violett ist im Business am besten in kontrollierter Fläche. Ein Top, eine Bluse, ein Tuch oder ein dunkles Kleid kann individuell wirken, ohne zu laut zu sein.
+**Misconception:** Violet is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Violett funktioniert
+**Misconception:** Violet works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Violett eignet sich gut für Menschen, die Farbe tragen möchten, aber keine klassische Signalfarbe wie Rot wählen. Wenn es nah am Gesicht zu stark wirkt, funktioniert es als Tasche, Schuh oder Rock.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Violet” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Violett ist Präsenz mit Tiefe. Elegant wird es durch Ruhe im Rest des Looks.
+## ESKYNA note
+
+Violet works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Fuchsia](/en/glossary/fuchsia/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

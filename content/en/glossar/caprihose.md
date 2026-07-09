@@ -1,61 +1,93 @@
 ---
-title: "Was ist eine Caprihose?"
-term: "Caprihose"
-description: "Eine Caprihose ist eine verkürzte Hose, die meist wadenlang endet und eine bewusste Saumlänge braucht."
-category: "Garderobe & Alltag"
-tags:
-  - "caprihose"
-  - "hose"
-  - "saumlänge"
-  - "sommer"
-keywords:
-  - "caprihose"
-  - "was ist eine caprihose"
-  - "caprihose kombinieren"
 weight: 5
-image: "images/glossar/caprihose.png"
-image_alt: "Editoriale Grafik zu Caprihose mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image: images/glossar/caprihose.png
+title: What does Capri Pants mean?
+seoTitle: Capri Pants explained | ESKYNA Glossary
+term: Capri Pants
+description: Capri Pants is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - capri pants
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - capri pants
+  - what is capri pants
+  - capri pants style advice
+slug: capri-pants
+url: /glossary/capri-pants/
+aliases:
+  - /glossar/caprihose/
+image_alt: Editorial glossary illustration for Capri Pants
 relatedTerms:
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Culotte"
-    url: "/glossar/culotte/"
-  - title: "Slingback"
-    url: "/glossar/slingback/"
-  - title: "Sandale"
-    url: "/glossar/sandale/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
+  - title: Culotte
+    url: /en/glossary/culotte/
+  - title: Slingback
+    url: /en/glossary/slingback/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Capri Pants” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Capri Pants” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Caprihose** ist eine verkürzte Hose, die meist zwischen Knie und Knöchel endet, häufig etwa auf Wadenhöhe. Sie wirkt sommerlich, kann aber durch die Länge anspruchsvoll in der Proportion sein.
+**Capri Pants**: Capri Pants is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Die Caprihose lenkt den Blick auf den unteren Beinbereich. Deshalb sind Saumlänge und Schuh besonders wichtig. Eine kleine Veränderung der Länge kann die Wirkung stark verändern.
-In schmaler Form wirkt sie klassischer, in weiter Form moderner. Mit flachen Schuhen entsteht ein entspannter Look, mit Slingbacks oder Sandalen wirkt sie eleganter.
+Capri Pants gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum dieser Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Caprihosen sind wichtig, weil verkürzte Längen oft unterschätzt werden. Sie können leicht wirken, aber auch stauchen, wenn Länge und Schuh nicht harmonieren.
+## Why this matters in your wardrobe
 
-## Worauf du achten solltest
+When you understand Capri Pants, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- Der Saum sollte nicht an der breitesten Stelle der Wade enden, wenn du strecken möchtest.
-- Ein freier Knöchel gibt Leichtigkeit.
-- Tonige Schuhe verlängern optisch.
-- Klare Oberteile halten den Look modern.
+With Capri Pants, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Caprihosen sind immer altmodisch.  
-**Besser:** Mit präziser Länge, gutem Material und modernem Schuh können sie sehr frisch wirken.
+- Check the role of Capri Pants in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Verkürzte Hosen sind immer unkompliziert.  
-**Besser:** Gerade verkürzte Längen brauchen genaue Proportionen.
+## Common misconceptions
 
-## ESKYNA-Merksatz
+**Misconception:** Capri Pants is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Die Caprihose steht und fällt mit ihrer Länge. Ein paar Zentimeter entscheiden über Leichtigkeit oder Bruch.
+**Misconception:** Capri Pants works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Capri Pants” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Capri Pants works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Culotte](/en/glossary/culotte/)
+- [Slingback](/en/glossary/slingback/)
+- [Proportion](/en/glossary/proportion/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

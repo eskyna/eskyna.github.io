@@ -1,24 +1,39 @@
 ---
-title: "Bodycon Dress"
-term: "Bodycon Dress"
-description: "Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körperlinie stark nachzeichnet."
-category: "Garderobe & Alltag"
-tags: ["bodycon dress", "garderobe"]
-keywords: ["bodycon dress", "was bedeutet bodycon dress", "bodycon dress stilberatung"]
+title: Bodycon Dress
+term: Bodycon Dress
+description: Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körperlinie stark nachzeichnet.
+category: Garderobe & Alltag
+tags:
+  - bodycon dress
+  - garderobe
+keywords:
+  - bodycon dress
+  - was bedeutet bodycon dress
+  - bodycon dress stilberatung
 weight: 1
-image: "images/glossar/bodycon-dress.png"
-image_alt: "Editoriale Glossar-Grafik zu Bodycon Dress mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/bodycon-dress.png
+image_alt: Editoriale Glossar-Grafik zu Bodycon Dress mit ruhigen Farbfeldern und feiner Linienführung
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /glossar/capsule-wardrobe/
+  - title: Garderobenlogik
+    url: /glossar/garderobenlogik/
+  - title: Outfit-Formel
+    url: /glossar/outfit-formel/
+  - title: Key-Piece
+    url: /glossar/key-piece/
+  - title: Fehlkauf
+    url: /glossar/fehlkauf/
+faq:
+  items:
+    - q: Wie nutze ich „Bodycon Dress“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Bodycon Dress“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -55,6 +70,20 @@ Gerade im Alltag hilft Bodycon Dress, schneller zu erkennen, ob ein Teil nur int
 ## ESKYNA-Merksatz
 
 Bodycon Dress wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+
+## Praxischeck
+
+Wenn du den Begriff **Bodycon Dress** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+
+- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
+- Achte auf Wiederholungen in Farbe, Material und Silhouette.
+- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+
+## Beratungsblick
+
+In der Beratung ist **Bodycon Dress** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
 ## Verwandte Begriffe
 

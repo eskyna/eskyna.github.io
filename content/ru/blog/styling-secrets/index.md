@@ -2,8 +2,12 @@
 title: "Секреты стиля: почему некоторые люди входят в комнату и сразу производят впечатление"
 seoTitle: Секреты стиля и впечатления
 date: 2026-05-21
-description: Стайлинг — это больше, чем мода. Узнайте, как одежда, цвет, посадка и личная визуальная подпись усиливают вашу харизму — научно обоснованно и применимо в повседневной жизни.
-summary: Почему впечатление — не случайность и как сознательно формировать его через ясность, посадку, цвет и фирменный образ.
+description:
+  Стайлинг — это больше, чем мода. Узнайте, как одежда, цвет, посадка и личная визуальная подпись усиливают
+  вашу харизму — научно обоснованно и применимо в повседневной жизни.
+summary:
+  Почему впечатление — не случайность и как сознательно формировать его через ясность, посадку, цвет и фирменный
+  образ.
 hero: styling_secrets.png
 category: Стиль и впечатление
 readingTime: 8
@@ -222,4 +226,4 @@ tags:
 - Elliot, A. J. - Color and psychological functioning: a review of theoretical and empirical work, Frontiers in Psychology.
 - Jonauskaite et al. - Do we feel colours? A systematic review of 128 years of psychological investigations on colour-emotion associations, Psychonomic Bulletin & Review.
 - Gorbatov, S., Khapova, S. N. & Lysova, E. I. - Personal Branding: Interdisciplinary Systematic Review and Research Agenda, Frontiers in Psychology.
-- ESKYNA - ESKYNA Methode: Essenz, Signale, Kernsprache, Your Signature, Neue Garderobenlogik, Aktivierung.
+- ESKYNA - метод ESKYNA: эссенция, сигналы, язык ядра, Your Signature, новая логика гардероба, активация.

@@ -1,44 +1,92 @@
 ---
-title: "Was ist eine Farbkarte?"
-term: "Farbkarte"
-description: "Eine Farbkarte zeigt passende Nuancen eines Farbprofils und hilft, Farben im Geschäft oder Kleiderschrank besser zu erkennen."
-category: "Farbberatung & Farbe"
-tags: ["farbkarte", "farbberatung", "farbpass", "farbprofil"]
-keywords: ["farbkarte", "farbkarte farbberatung", "persönliche farbkarte"]
 weight: 12
+title: What does Color Card mean?
+seoTitle: Color Card explained | ESKYNA Glossary
+term: Color Card
+description: Color Card is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - color card
+  - color consultation & color
+  - style glossary
+keywords:
+  - color card
+  - what is color card
+  - color card style advice
+slug: color-card
+url: /glossary/color-card/
+aliases:
+  - /glossar/farbkarte/
+image_alt: Editorial glossary illustration for Color Card
 relatedTerms:
-  - title: "Farbpass"
-    url: "/glossar/farbpass/"
-  - title: "Farbprofil"
-    url: "/glossar/farbprofil/"
-  - title: "Farbpalette"
-    url: "/glossar/farbpalette/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Color Card” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Color Card” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Farbkarte** zeigt ausgewählte Farben eines Farbprofils in kompakter Form. Sie hilft, passende Nuancen im Alltag schneller zu erkennen.
+**Color Card**: Color Card is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Anders als ein allgemeines Farbbuch ist eine Farbkarte auf einen bestimmten Farbtyp oder eine bestimmte Person zugeschnitten. Sie macht feine Unterschiede sichtbar, die im Laden sonst leicht übersehen werden.
+Color Card gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum der Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Farbkarten schaffen Übersetzung. Sie verbinden Theorie, Auge und Einkaufspraxis.
+## Why this matters in color consultation
 
-## ESKYNA-Merksatz
+When you understand Color Card, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Eine gute Farbkarte nimmt Unsicherheit aus der Farbauswahl.
+In color consultation, Color Card becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Verwandte Begriffe
+## What to pay attention to
 
-- [Farbpass](/glossar/farbpass/)
-- [Farbprofil](/glossar/farbprofil/)
-- [Farbpalette](/glossar/farbpalette/)
-- [Farbtyp](/glossar/farbtyp/)
-- [Unterton](/glossar/unterton/)
+- Check the role of Color Card in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
+
+## Common misconceptions
+
+**Misconception:** Color Card is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Color Card works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Color Card” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Color Card works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

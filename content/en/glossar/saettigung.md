@@ -1,55 +1,93 @@
 ---
-title: "Sättigung"
-term: "Sättigung"
-description: "Sättigung beschreibt, wie intensiv oder gedämpft eine Farbe wirkt und wie stark sie im Outfit sichtbar wird."
-category: "Farbberatung & Farbe"
-tags: ["sättigung", "farbe", "farbberatung", "kontrast"]
-keywords: ["sättigung farbe", "gedämpfte farben", "kräftige farben", "farbberatung"]
 weight: 19
-
-image: "images/glossar/saettigung.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Sättigung mit ruhigen Farbfeldern und klarer Linienführung"
+image: images/glossar/saettigung.png
+title: What does Saturation mean?
+seoTitle: Saturation explained | ESKYNA Glossary
+term: Saturation
+description: Saturation is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - saturation
+  - color consultation & color
+  - style glossary
+keywords:
+  - saturation
+  - what is saturation
+  - saturation style advice
+slug: saturation
+url: /glossary/saturation/
+aliases:
+  - /glossar/saettigung/
+image_alt: Editorial glossary illustration for Saturation
 relatedTerms:
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Helligkeit"
-    url: "/glossar/helligkeit/"
-  - title: "Pink"
-    url: "/glossar/pink/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
+  - title: Pink
+    url: /en/glossary/pink/
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Saturation” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Saturation” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Sättigung** beschreibt, wie intensiv eine Farbe wirkt. Ein kräftiges Pink ist stark gesättigt. Altrosa ist gedämpfter. Beide gehören zur gleichen Farbfamilie, senden aber völlig andere Signale.
+**Saturation**: Saturation is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Sättigung ist der Unterschied zwischen laut und leise in der Farbe. Eine stark gesättigte Farbe fällt schnell auf. Eine gedämpfte Farbe fügt sich ruhiger in den Look ein.
+Saturation gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Das ist wichtig, weil viele Menschen nicht an einer Farbe scheitern, sondern an ihrer Intensität. Vielleicht ist Grün grundsätzlich interessant, aber klares Grasgrün ist zu stark. Ein Salbeigrün oder Petrol kann viel stimmiger wirken.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Sättigung wichtig ist
+## Why this matters in color consultation
 
-Die Intensität einer Farbe beeinflusst, wie viel Aufmerksamkeit ein Kleidungsstück bekommt. Ein knalliges Oberteil bestimmt den Look. Eine gedämpfte Hose oder Tasche kann Farbe einbringen, ohne zu dominieren.
+When you understand Saturation, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für eine Garderobe ist Sättigung entscheidend, weil sie Kombinierbarkeit steuert. Viele gedämpfte Farben lassen sich leichter miteinander verbinden. Sehr klare Farben brauchen oft ruhigere Partner.
+In color consultation, Saturation becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Kräftige Farben sind immer mutiger.  
-**Besser:** Kräftige Farben sind sichtbarer. Stil entsteht aber durch bewusste Dosierung, nicht durch Lautstärke.
+- Check the role of Saturation in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Gedämpfte Farben sind langweilig.  
-**Besser:** Gedämpfte Farben können sehr elegant wirken, wenn Material und Schnitt präzise sind.
+## Common misconceptions
 
-## Praktisches Beispiel
+**Misconception:** Saturation is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Rosa, Pink und Fuchsia zeigen Sättigung sehr gut. Puderrosa wirkt weich. Altrosa wirkt erwachsener. Fuchsia wirkt präsent. Es ist nicht dieselbe Wirkung, nur weil alle Töne aus einer Farbfamilie kommen.
+**Misconception:** Saturation works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Sättigung ist die Lautstärke einer Farbe. Gute Stilentscheidungen beginnen damit, diese Lautstärke bewusst zu wählen.
+Look at “Saturation” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Saturation works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Pink](/en/glossary/pink/)
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)

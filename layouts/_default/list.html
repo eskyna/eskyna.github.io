@@ -1,6 +1,9 @@
 {{ define "main" }}
 {{ $homeUI := .Site.Home.Params.ui }}
-{{ $backToHomeText := or $homeUI.back_to_home_text "Zur Startseite" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $isEn := eq $lang "en" }}
+{{ $backToHomeText := or $homeUI.back_to_home_text (cond $isRu "На главную" (cond $isEn "Back to home" "Zur Startseite")) }}
 {{ $pageTitle := replace .Title "Categories" (i18n "taxonomy_categories_title") }}
 <main class="shop-page">
   <section class="hero-small">

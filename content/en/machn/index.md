@@ -1,129 +1,152 @@
 ---
-title: "MACHN Special"
-seoTitle: "MACHN Special | Farb- & Stilanalyse für Pitches | ESKYNA"
-description: "Festivalangebot für MACHN-Teilnehmer:innen: Farb- und Stilanalyse mit Natalia Kleemann für einen souveränen, authentischen Pitch-Auftritt."
-image: "images/machn/photos/natalia_desk_900w.webp"
-eyebrow: "MACHN SPECIAL"
+title: MACHN Special
+seoTitle: MACHN Special | Color & Style Analysis for Pitches | ESKYNA
+description:
+  "Festival offer for MACHN participants: color and style analysis with Natalia Kleemann for a confident,
+  authentic pitch presence."
+url: /machn-special/
+aliases:
+  - /machn/
+image: images/machn/photos/natalia_desk_900w.webp
+eyebrow: MACHN SPECIAL
 hero:
-  headline: "Dein Pitch-Auftritt, der wirkt."
-  subline: "Farb- & Stilanalyse für Gründer:innen, die beim nächsten Pitch klar, souverän und authentisch auftreten wollen."
-  festival_label: "Festivalpreis"
-  price: "290 €"
-  regular_price: "statt regulär 390 €"
-  cta_text: "MACHN Special anfragen"
+  headline: A pitch presence that works.
+  subline:
+    Color and style analysis for founders who want to appear clear, confident, and authentic in their next
+    pitch.
+  festival_label: Festival price
+  price: 290 €
+  regular_price: instead of the regular €390
+  cta_text: Request the MACHN Special
   cta_href: "#machn-kontakt"
-  meta_1: "Für Teilnehmer:innen des MACHN Festivals"
-  meta_2: "Buchbar bis 30.06.2026"
-  badge: "Zeig, was in dir und deiner Idee steckt. Auch nach außen."
-  image: "images/machn/v3/people/natalia.png"
-  image_webp: "images/machn/v3/people/natalia.webp"
-  image_mobile: "images/machn/v3/people/natalia.png"
-  image_mobile_webp: "images/machn/v3/people/natalia.webp"
-  image_alt: "Natalia Kleemann berät Gründerinnen und Gründer zu Farbwirkung und Pitch-Auftritt"
-  logo: "images/machn/v3/machn-logo/machn-logo26-white-transparent.png"
-  logo_webp: "images/machn/v3/machn-logo/machn-logo26-white-transparent.webp"
-  logo_alt: "MACHN Festival 2026 Logo"
+  meta_1: For MACHN Festival participants
+  meta_2: Bookable until 30 June 2026
+  badge: Show what is inside you and your idea. Also on the outside.
+  image: images/machn/v3/people/natalia.png
+  image_webp: images/machn/v3/people/natalia.webp
+  image_mobile: images/machn/v3/people/natalia.png
+  image_mobile_webp: images/machn/v3/people/natalia.webp
+  image_alt: Natalia Kleemann advises founders on color impact and pitch presence
+  logo: images/machn/v3/machn-logo/machn-logo26-white-transparent.png
+  logo_webp: images/machn/v3/machn-logo/machn-logo26-white-transparent.webp
+  logo_alt: MACHN Festival 2026 logo
 live_proof:
-  eyebrow: "Live vom MACHN Festival"
-  title: "Natalia zeigt auf der Bühne, wie ein Pitch-Auftritt wirkt."
-  text: "Beim MACHN Festival wird sichtbar, worum es beim ESKYNA Special geht: klar auftreten, authentisch wirken und die eigene Idee mit Persönlichkeit präsentieren."
-  image: "images/machn/photos/natalia_desk_900w.webp"
-  image_tablet: "images/machn/photos/natalia_desk_900w.webp"
-  image_mobile: "images/machn/photos/natalia_desk_560w.webp"
-  image_alt: "Natalia Kleemann präsentiert auf dem MACHN Festival vor Publikum."
-  logo: "images/machn/v4/logos/machn-logo26-white.png"
-  logo_webp: "images/machn/v4/logos/machn-logo26-white.webp"
-  logo_alt: "MACHN Festival Logo"
+  eyebrow: Live from the MACHN Festival
+  title: Natalia shows on stage how pitch presence works.
+  text:
+    "At the MACHN Festival, the idea behind the ESKYNA Special becomes visible: show up clearly, appear authentic,
+    and present your idea with personality."
+  image: images/machn/photos/natalia_desk_900w.webp
+  image_tablet: images/machn/photos/natalia_desk_900w.webp
+  image_mobile: images/machn/photos/natalia_desk_560w.webp
+  image_alt: Natalia Kleemann presents to an audience at the MACHN Festival.
+  logo: images/machn/v4/logos/machn-logo26-white.png
+  logo_webp: images/machn/v4/logos/machn-logo26-white.webp
+  logo_alt: MACHN Festival logo
 use_cases:
-  title: "Use Cases"
+  title: Use cases
   items:
-    - title: "Pitches & Bühnenauftritte"
-      icon: "images/machn/01_pitch_microphone_512_transparent.png"
-    - title: "Investor:innen & Partner"
-      icon: "images/machn/02_investor_people_512_transparent.png"
-    - title: "LinkedIn & Präsenz"
-      icon: "images/machn/03_linkedin_presence_512_transparent.png"
-    - title: "Farben, die dich stärken"
-      icon: "images/machn/04_colors_palette_512_transparent.png"
-    - title: "Stil, der zu dir & deiner Marke passt"
-      icon: "images/machn/05_style_hanger_512_transparent.png"
-    - title: "Klar. Authentisch. Überzeugend."
-      icon: "images/machn/06_clarity_target_512_transparent.png"
+    - title: Pitches & stage appearances
+      icon: images/machn/01_pitch_microphone_512_transparent.png
+    - title: Investors & partners
+      icon: images/machn/02_investor_people_512_transparent.png
+    - title: LinkedIn & visibility
+      icon: images/machn/03_linkedin_presence_512_transparent.png
+    - title: Colors that strengthen you
+      icon: images/machn/04_colors_palette_512_transparent.png
+    - title: Style that fits you and your brand
+      icon: images/machn/05_style_hanger_512_transparent.png
+    - title: Clear. Authentic. Convincing.
+      icon: images/machn/06_clarity_target_512_transparent.png
 expectations:
-  title: "Was dich erwartet"
-  subtitle: "Dein Auftritt. Deine Wirkung. Dein Vorteil."
+  title: What to expect
+  subtitle: Your presence. Your impact. Your advantage.
   cards:
-    - title: "Farb- und Wirkungsanalyse"
-      text: "Wir finden heraus, welche Farben dich frisch, präsent und klar wirken lassen. Du verstehst, welche Wirkung sie in deinem beruflichen Kontext erzeugen."
-      image: "images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.png"
-      image_webp: "images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.webp"
-      image_mobile: "images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.png"
-      image_mobile_webp: "images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.webp"
-      alt: "Farbfaecher fuer Farb- und Wirkungsanalyse"
-    - title: "Stil- und Pitch-Auftrittsanalyse"
-      text: "Wir betrachten deine Rolle, Persönlichkeit, Branche und deine Pitch-Situation. Daraus entsteht eine Stilrichtung, die deine Botschaft unterstützt."
-      image: "images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.png"
-      image_webp: "images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.webp"
-      image_mobile: "images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_640x480.png"
-      image_mobile_webp: "images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_640x480.webp"
-      alt: "Kleiderstange mit Business-Garderobe"
-    - title: "Outfit-Empfehlung für deinen nächsten Auftritt"
-      text: "Du erhältst konkrete Empfehlungen für Kleidung, Farben, Schnitte, Accessoires und Details, die auf Bühne, Kamera oder im Gespräch funktionieren."
-      image: "images/machn/v3/service-images/03_outfit_empfehlung_pitch_1200x900.png"
-      image_webp: "images/machn/v3/service-images/03_outfit_empfehlung_pitch_1200x900.webp"
-      image_mobile: "images/machn/v3/service-images/03_outfit_empfehlung_pitch_640x480.png"
-      image_mobile_webp: "images/machn/v3/service-images/03_outfit_empfehlung_pitch_640x480.webp"
-      alt: "Business-Outfit und Accessoires als Flatlay"
-    - title: "Mini-Style-Guide für Gründer:innen"
-      text: "Nach dem Termin bekommst du eine kompakte Zusammenfassung mit deinen wichtigsten Farben, Stilimpulsen und Empfehlungen für deinen Pitch-Auftritt."
-      image: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.png"
-      image_webp: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.webp"
-      image_mobile: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.png"
-      image_mobile_webp: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.webp"
-      alt: "Notizbuch und Stift fuer Mini-Style-Guide"
+    - title: Color and impact analysis
+      text:
+        We identify which colors make you look fresh, present, and clear. You understand the effect those colors
+        create in your professional context.
+      image: images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.png
+      image_webp: images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.webp
+      image_mobile: images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.png
+      image_mobile_webp: images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.webp
+      alt: Color fan for color and impact analysis
+    - title: Style and pitch-presence analysis
+      text:
+        We look at your role, personality, industry, and pitch situation. From this, a style direction emerges
+        that supports your message.
+      image: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.png
+      image_webp: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.webp
+      image_mobile: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_640x480.png
+      image_mobile_webp: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_640x480.webp
+      alt: Clothing rack with a business wardrobe
+    - title: Outfit recommendation for your next appearance
+      text:
+        You receive concrete recommendations for clothing, colors, cuts, accessories, and details that work on
+        stage, on camera, or in conversation.
+      image: images/machn/v3/service-images/03_outfit_empfehlung_pitch_1200x900.png
+      image_webp: images/machn/v3/service-images/03_outfit_empfehlung_pitch_1200x900.webp
+      image_mobile: images/machn/v3/service-images/03_outfit_empfehlung_pitch_640x480.png
+      image_mobile_webp: images/machn/v3/service-images/03_outfit_empfehlung_pitch_640x480.webp
+      alt: Business outfit and accessories as a flat lay
+    - title: Mini style guide for founders
+      text:
+        After the session, you receive a compact summary with your most important colors, style impulses, and
+        recommendations for your pitch appearance.
+      image: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.png
+      image_webp: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.webp
+      image_mobile: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.png
+      image_mobile_webp: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.webp
+      alt: Notebook and pen for a mini style guide
 result:
-  title: "Das Ergebnis"
-  subtitle: "Ein Auftritt, der zu dir und deiner Vision passt."
-  image: "images/machn/v3/people/natalia_schreibtisch.png"
-  image_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
-  image_mobile: "images/machn/v3/people/natalia_schreibtisch.png"
-  image_mobile_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
-  image_alt: "Natalia Kleemann im ESKYNA Kontext mit souveraener Business-Ausstrahlung"
+  title: The result
+  subtitle: A presence that fits you and your vision.
+  image: images/machn/v3/people/natalia_schreibtisch.png
+  image_webp: images/machn/v3/people/natalia_schreibtisch.webp
+  image_mobile: images/machn/v3/people/natalia_schreibtisch.png
+  image_mobile_webp: images/machn/v3/people/natalia_schreibtisch.webp
+  image_alt: Natalia Kleemann in the ESKYNA context with a confident business presence
   items:
-    - "Du wirkst souverän, klar und authentisch."
-    - "Du weißt, welche Farben deine Präsenz stärken."
-    - "Dein Outfit unterstützt deine Botschaft. Nicht umgekehrt."
-    - "Du überzeugst vom ersten Moment an."
-    - "Für Bühne, Kamera, Pitch und Business."
+    - You appear confident, clear, and authentic.
+    - You know which colors strengthen your presence.
+    - Your outfit supports your message, not the other way around.
+    - You convince from the first moment.
+    - For stage, camera, pitch, and business.
 offer_card:
-  title: "ESKYNA MACHN SPECIAL"
-  subtitle: "Farb- & Stilanalyse für deinen Pitch-Auftritt"
-  price: "290 €"
-  regular_price: "statt regulär 390 €"
-  note: "Buchbar bis 30.06.2026 für Teilnehmer:innen des MACHN Festivals."
-  cta_text: "MACHN Special anfragen"
-  logo: "images/machn/v3/machn-logo/machn-logo26-white-transparent.png"
-  logo_webp: "images/machn/v3/machn-logo/machn-logo26-white-transparent.webp"
-  logo_alt: "MACHN Festival 2026 Logo"
+  title: ESKYNA MACHN SPECIAL
+  subtitle: Color and style analysis for your pitch presence
+  price: 290 €
+  regular_price: instead of the regular €390
+  note: Bookable until 30 June 2026 for MACHN Festival participants.
+  cta_text: Request the MACHN Special
+  logo: images/machn/v3/machn-logo/machn-logo26-white-transparent.png
+  logo_webp: images/machn/v3/machn-logo/machn-logo26-white-transparent.webp
+  logo_alt: MACHN Festival 2026 logo
 about:
-  title: "Über Natalia Kleemann"
-  text_1: "Natalia Kleemann ist Style- & Imagecoach. Mit ESKYNA hilft sie Menschen dabei, ihren Stil bewusster, hochwertiger und wirkungsvoller zu gestalten."
-  text_2: "Ihr Ansatz verbindet Kleidung, Farben, Persönlichkeit und Wirkung. So entsteht kein verkleideter Business-Look, sondern ein Auftritt, der authentisch bleibt und trotzdem klarer, professioneller und präsenter wirkt."
-  image: "images/machn/v3/people/natalia_schreibtisch.png"
-  image_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
-  image_mobile: "images/machn/v3/people/natalia_schreibtisch.png"
-  image_mobile_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
-  image_alt: "Natalia Kleemann, Style- und Imagecoach von ESKYNA"
+  title: About Natalia Kleemann
+  text_1:
+    Natalia Kleemann is a style and image coach. With ESKYNA, she helps people shape their style more consciously,
+    with more quality and stronger impact.
+  text_2:
+    Her approach connects clothing, colors, personality, and presence. The result is not a disguised business
+    look, but an appearance that stays authentic while becoming clearer, more professional, and more present.
+  image: images/machn/v3/people/natalia_schreibtisch.png
+  image_webp: images/machn/v3/people/natalia_schreibtisch.webp
+  image_mobile: images/machn/v3/people/natalia_schreibtisch.png
+  image_mobile_webp: images/machn/v3/people/natalia_schreibtisch.webp
+  image_alt: Natalia Kleemann, ESKYNA style and image coach
 quote:
-  text: "Ich helfe Gründer:innen, ihre Persönlichkeit sichtbar zu machen. So präsentieren sie nicht nur eine gute Idee, sondern hinterlassen auch die richtige Wirkung."
-  author: "Natalia Kleemann"
-  role: "ESKYNA Style & Image"
+  text:
+    I help founders make their personality visible. That way, they do not only present a good idea; they also
+    leave the right impression.
+  author: Natalia Kleemann
+  role: ESKYNA Style & Image
 closing:
-  title: "Bereit für deinen nächsten starken Auftritt?"
-  text: "Mach deinen Pitch nicht nur inhaltlich klar. Mach ihn sichtbar stimmig."
-  cta_text: "MACHN Special anfragen"
+  title: Ready for your next strong appearance?
+  text: Make your pitch clear in content and visually coherent.
+  cta_text: Request the MACHN Special
 contact_form:
-  offer_label: "MACHN Special"
-  prefill_message: "Ich war beim MACHN Festival und interessiere mich für das ESKYNA MACHN Special."
-  success_message: "Danke für deine Anfrage. Natalia meldet sich zeitnah bei dir, um deinen Termin für das MACHN Special abzustimmen."
+  offer_label: MACHN Special
+  prefill_message: I attended the MACHN Festival and I am interested in the ESKYNA MACHN Special.
+  success_message: Thank you for your request. Natalia will contact you soon to coordinate your MACHN Special appointment.
 ---

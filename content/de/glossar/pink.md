@@ -1,29 +1,47 @@
 ---
-title: "Pink im Stil erklärt"
-term: "Pink"
-description: "Pink wirkt sichtbar, modern und selbstbewusst. Entscheidend sind Sättigung, Dosierung und die Ruhe im restlichen Outfit."
-category: "Farb-Lexikon"
+title: Pink im Stil erklärt
+term: Pink
+description: Pink wirkt sichtbar, modern und selbstbewusst. Entscheidend sind Sättigung, Dosierung
+  und die Ruhe im restlichen Outfit.
+category: Farb-Lexikon
 color_hex: "#D94B8A"
-tags: ["pink", "farbe", "rosa", "farbberatung"]
-keywords: ["pink kleidung", "pink kombinieren", "fuchsia", "pink im business"]
+tags:
+  - pink
+  - farbe
+  - rosa
+  - farbberatung
+keywords:
+  - pink kleidung
+  - pink kombinieren
+  - fuchsia
+  - pink im business
 weight: 14
-image: "images/glossar/pink.png"
-image_alt: "Editoriale Grafik mit Pink-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image: images/glossar/pink.png
+image_alt: Editoriale Grafik mit Pink-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur
 relatedTerms:
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Rot"
-    url: "/glossar/rot/"
-  - title: "Lila"
-    url: "/glossar/lila/"
-  - title: "Akzentfarbe"
-    url: "/glossar/akzentfarbe/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
-  - title: "Fuchsia"
-    url: "/glossar/fuchsia/"
-  - title: "Violett"
-    url: "/glossar/violett/"
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Rot
+    url: /glossar/rot/
+  - title: Lila
+    url: /glossar/lila/
+  - title: Akzentfarbe
+    url: /glossar/akzentfarbe/
+  - title: Sättigung
+    url: /glossar/saettigung/
+  - title: Fuchsia
+    url: /glossar/fuchsia/
+  - title: Violett
+    url: /glossar/violett/
+faq:
+  items:
+    - q: Wie nutze ich „Pink“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Pink“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Pink
@@ -62,3 +80,17 @@ Im Business funktioniert Pink am besten als gezielter Akzent: Bluse, Tuch, Lippe
 ## ESKYNA-Merksatz
 
 Pink ist kein Zufall. Pink ist eine Entscheidung, die Ruhe im Styling braucht.
+
+## Praxischeck
+
+Wenn du den Begriff **Pink** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Pink** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

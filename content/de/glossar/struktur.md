@@ -1,24 +1,45 @@
 ---
-title: "Struktur"
-term: "Struktur"
-description: "Struktur beschreibt sichtbare oder fühlbare Oberflächen in Stoffen und gibt ruhigen Outfits Tiefe, Charakter und Qualität."
-category: "Materialien & Details"
-tags: ["struktur", "stoff", "material", "tweed", "strick"]
-keywords: ["struktur kleidung", "stoffstruktur", "strukturierte stoffe", "materialwirkung"]
+title: Struktur
+term: Struktur
+description:
+  Struktur beschreibt sichtbare oder fühlbare Oberflächen in Stoffen und gibt ruhigen Outfits
+  Tiefe, Charakter und Qualität.
+category: Materialien & Details
+tags:
+  - struktur
+  - stoff
+  - material
+  - tweed
+  - strick
+keywords:
+  - struktur kleidung
+  - stoffstruktur
+  - strukturierte stoffe
+  - materialwirkung
 weight: 21
-image: "images/glossar/struktur.png"
-image_alt: "Editoriale Grafik mit Stoffraster, gewebter Struktur und feinen haptischen Linien"
+image: images/glossar/struktur.png
+image_alt: Editoriale Grafik mit Stoffraster, gewebter Struktur und feinen haptischen Linien
 relatedTerms:
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Leinen"
-    url: "/glossar/leinen/"
-  - title: "Denim"
-    url: "/glossar/denim/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Leinen
+    url: /glossar/leinen/
+  - title: Denim
+    url: /glossar/denim/
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Glanzgrad
+    url: /glossar/glanzgrad/
+faq:
+  items:
+    - q: Wie nutze ich „Struktur“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Struktur“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +77,17 @@ Für ESKYNA ist Struktur ein feines Mittel, um Persönlichkeit in reduzierte Loo
 ## ESKYNA-Merksatz
 
 Struktur gibt einem Look Tiefe, besonders dann, wenn die Farben ruhig bleiben.
+
+## Praxischeck
+
+Wenn du den Begriff **Struktur** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+
+- Fühle Griff, Gewicht und Stand des Materials.
+- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
+- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+
+## Beratungsblick
+
+In der Beratung ist **Struktur** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

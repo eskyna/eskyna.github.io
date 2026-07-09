@@ -329,9 +329,9 @@ Vor jedem Glossarbeitrag durchführen:
 
 ## 5. Länge und Umfang
 
-**Standard-Glossarbeiträge:** 250 bis 400 Wörter  
-**Farb-Lexikon-Beiträge:** 300 bis 500 Wörter  
-**Minimale Länge:** 150 Wörter  
+**Standard-Glossarbeiträge:** 250 bis 400 Wörter
+**Farb-Lexikon-Beiträge:** 300 bis 500 Wörter
+**Minimale Länge:** 150 Wörter
 **Maximale Länge:** 600 Wörter (eher Ausnahme)
 
 Kurz ist besser. ESKYNA-Texte sind präzise.
@@ -425,19 +425,19 @@ Glossarbeiträge sind miteinander verlinkt. Nutzen Sie diese Struktur:
 
 ## 10. Häufig gestellte Fragen beim Schreiben
 
-**F: Soll ich absolute Regeln aufstellen?**  
+**F: Soll ich absolute Regeln aufstellen?**
 A: Nein. ESKYNA arbeitet mit Orientierung, nicht mit Regeln. Nutzen Sie „kann", „wirkt oft", „funktioniert besonders dann, wenn..."
 
-**F: Wie lang sollte ein Beitrag sein?**  
+**F: Wie lang sollte ein Beitrag sein?**
 A: 250 bis 400 Wörter für Standard-Begriffe. Farbseiten bis 500 Wörter. Qualität vor Quantität.
 
-**F: Kann ich Emojis nutzen?**  
+**F: Kann ich Emojis nutzen?**
 A: Nein. ESKYNA wirkt elegant und editorialer als mit Emojis.
 
-**F: Wie oft sollte ich verlinken?**  
+**F: Wie oft sollte ich verlinken?**
 A: Im Text: 0 bis 3 Links pro Beitrag. Am Ende: 3 bis 5 verwandte Begriffe.
 
-**F: Was ist, wenn ich mir unsicher bin?**  
+**F: Was ist, wenn ich mir unsicher bin?**
 A: Lesen Sie den Rosa-Beitrag nochmal durch. Kopieren Sie seinen Ton, nicht seinen Wortlaut.
 
 ---
@@ -547,3 +547,65 @@ draft: false
 ## Kontakt und Fragen
 
 Für Fragen zur Glossar-Tonalität oder Struktur: Kontaktieren Sie die ESKYNA-Redaktion.
+
+---
+
+## 9. Kommerzielle Glossar-Pillars und Beratungsbrücken
+
+Ein Teil der Glossarbeiträge ist als **commercial-pillar** markiert. Diese Seiten sind keine harten Verkaufsseiten. Sie erklären Begriffe besonders praxisnah und zeigen, wann aus einem Begriff eine echte Beratungsfrage wird.
+
+### 9.1 Pflichtfelder für Commercial-Pillars
+
+```yaml
+commercial_intent: true
+commercial_weight: 1
+commercial_cluster: color
+content_level: commercial-pillar
+editorial_depth: mini-case-offer-bridge
+consulting_focus: "Kurzer Satz, warum dieser Begriff in der Beratung relevant wird."
+consulting_questions:
+  - "Welche konkrete Entscheidung klärt dieser Begriff?"
+  - "Welche Unsicherheit entsteht typischerweise im Alltag?"
+  - "Welche nächste Handlung hilft der Nutzerin oder dem Nutzer?"
+offer_bridge:
+  kicker: "Passendes ESKYNA-Angebot"
+  title: "Vom Begriff zur persönlichen Entscheidung"
+  text: "Kurzer, beratender Text ohne Verkaufsdruck."
+  bullets:
+    - "konkreter Nutzen 1"
+    - "konkreter Nutzen 2"
+    - "konkreter Nutzen 3"
+  primary_label: "ESKYNA Stilgefühl ansehen"
+  primary_url: /stilgefuehl/
+  secondary_label: "Stilfrage stellen"
+  secondary_url: /stilfrage/
+```
+
+### 9.2 Sichtbare Abschnitte im Artikel
+
+Commercial-Pillars enthalten zusätzlich einen Abschnitt zwischen den Markern:
+
+```markdown
+<!-- commercial-depth-start -->
+
+## Beratungssituation im echten Leben
+
+## Mini-Case: vom Zweifel zur Entscheidung
+
+## Entscheidungshilfe vor dem nächsten Kauf
+
+<!-- commercial-depth-end -->
+```
+
+Diese Abschnitte sind wichtig, weil sie den Begriff in eine echte Nutzersituation übersetzen. Nicht nur erklären, sondern entscheiden helfen.
+
+### 9.3 Qualitätsprüfung
+
+Vor Deployment ausführen:
+
+```bash
+npm run check:commercial-glossary
+npm run check:glossary-quality
+```
+
+`check:commercial-glossary` prüft aktuell 50 kommerzielle Glossar-Pillars in Deutsch, Englisch und Russisch. Neue kommerzielle Begriffe sollten erst live gehen, wenn alle drei Sprachen die Felder, Beratungsabschnitte, Offer-Bridge und mindestens 540 Wörter im sichtbaren Haupttext erfüllen.

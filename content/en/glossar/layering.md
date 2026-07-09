@@ -1,62 +1,92 @@
 ---
-title: "Was ist Layering?"
-term: "Layering"
-description: "Layering bedeutet, mehrere Kleidungsschichten bewusst zu kombinieren, damit ein Look Tiefe, Funktion und klare Proportion bekommt."
-category: "Schnitt, Proportion & Passform"
-tags: ["layering", "schichten", "proportion", "silhouette", "styling"]
-keywords: ["layering", "was ist layering", "layering mode", "kleidung schichten kombinieren"]
 weight: 18
-image: "images/glossar/layering.png"
-image_alt: "Editoriale Grafik mit übereinanderliegenden Stoffschichten, Längenlinien und ruhigen neutralen Flächen"
+image: images/glossar/layering.png
+title: What does Layering mean?
+seoTitle: Layering explained | ESKYNA Glossary
+term: Layering
+description: Layering is a cut, proportion, or fit detail that helps you understand silhouette and
+  make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - layering
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - layering
+  - what is layering
+  - layering style advice
+slug: layering
+url: /glossary/layering/
+aliases:
+  - /glossar/layering/
+image_alt: Editorial glossary illustration for Layering
 relatedTerms:
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Oversized"
-    url: "/glossar/oversized/"
-  - title: "Overshirt"
-    url: "/glossar/overshirt/"
-  - title: "Weste"
-    url: "/glossar/weste/"
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Oversized
+    url: /en/glossary/oversized/
+  - title: Fit
+    url: /en/glossary/fit/
+  - title: Cut
+    url: /en/glossary/cut/
+faq:
+  items:
+    - q: How can I use “Layering” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Layering” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Layering** bedeutet, mehrere Kleidungsschichten bewusst übereinander zu tragen. Es geht nicht nur um Wärme, sondern um Tiefe, Proportion, Materialkontrast und eine klare Silhouette.
+**Layering**: Layering is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein einfaches Layering kann aus Shirt, Hemdbluse und Blazer bestehen. Im Winter kommen Strick, Mantel und Schal dazu. Wichtig ist, dass die Schichten sichtbar und sinnvoll sind. Wenn alles gleich lang, gleich schwer oder gleich weit ist, wirkt der Look schnell unklar.
+Layering gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Gutes Layering arbeitet mit Längen. Ein längeres Hemd unter einem kürzeren Pullover, ein Mantel über einer geraden Hose oder ein feiner Rollkragen unter einem Blazer können dem Outfit Tiefe geben. Auch Materialien spielen eine Rolle: glatt zu strukturiert, matt zu leicht glänzend, weich zu klar.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Layering wichtig ist
+## Why this matters for proportion
 
-Layering macht eine Garderobe flexibler. Einzelne Teile können in mehreren Jahreszeiten getragen werden. Gleichzeitig entsteht mehr stilistische Tiefe, ohne dass der Look laut werden muss.
+When you understand Layering, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Layering besonders interessant, weil es Proportionen sichtbar steuert. Es kann strecken, rahmen, Volumen ausgleichen oder einem einfachen Outfit mehr Präsenz geben.
+With Layering, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-## Worauf du beim Layering achten solltest
+## What to pay attention to
 
-- Arbeite mit klaren Längenunterschieden.
-- Kombiniere nicht zu viele schwere Stoffe übereinander.
-- Halte die Farbwelt ruhig, wenn viele Schichten sichtbar sind.
-- Setze Volumen bewusst: weit oben, schmal unten oder umgekehrt.
-- Prüfe, ob der Look auch offen und in Bewegung funktioniert.
+- Check the role of Layering in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Layering bedeutet einfach viele Teile übereinander.  
-**Besser:** Layering braucht Ordnung. Jede Schicht sollte eine Funktion haben.
+**Misconception:** Layering is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Layering funktioniert nur im Herbst und Winter.  
-**Besser:** Auch leichte Sommerlooks können mit Top, Hemd und dünner Jacke gelayert werden.
+**Misconception:** Layering works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Layering gibt einem Outfit Tiefe, wenn jede Schicht eine Aufgabe hat.
+Look at “Layering” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Layering works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Silhouette](/en/glossary/silhouette/)
+- [Proportion](/en/glossary/proportion/)
+- [Oversized](/en/glossary/oversized/)
+- [Fit](/en/glossary/fit/)
+- [Cut](/en/glossary/cut/)

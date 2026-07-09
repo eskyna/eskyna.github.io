@@ -1,58 +1,92 @@
 ---
-title: "Was ist Baumwolle?"
-term: "Baumwolle"
-description: "Baumwolle ist eine vielseitige Naturfaser, die je nach Webart sportlich, klar, weich oder elegant wirken kann."
-category: "Materialien & Details"
-tags: ["baumwolle", "material", "naturfaser", "qualität", "stoff"]
-keywords: ["baumwolle", "was ist baumwolle", "baumwolle kleidung", "baumwollstoff"]
 weight: 2
-image: "images/glossar/baumwolle.png"
-image_alt: "Editoriale Grafik mit Baumwollblüte, gewebtem Stoff und neutralen Farbfeldern"
+image: images/glossar/baumwolle.png
+title: What does Cotton mean?
+seoTitle: Cotton explained | ESKYNA Glossary
+term: Cotton
+description: Cotton is a material or detail term that influences quality, comfort, texture, and the
+  overall impression of an outfit.
+category: Materials & Details
+tags:
+  - cotton
+  - materials & details
+  - style glossary
+keywords:
+  - cotton
+  - what is cotton
+  - cotton style advice
+slug: cotton
+url: /glossary/cotton/
+aliases:
+  - /glossar/baumwolle/
+image_alt: Editorial glossary illustration for Cotton
 relatedTerms:
-  - title: "Leinen"
-    url: "/glossar/leinen/"
-  - title: "Viskose"
-    url: "/glossar/viskose/"
-  - title: "Denim"
-    url: "/glossar/denim/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
+  - title: Denim
+    url: /en/glossary/denim/
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+  - title: Care
+    url: /en/glossary/care/
+faq:
+  items:
+    - q: How can I use “Cotton” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Cotton” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Baumwolle** ist eine Naturfaser, die in vielen Kleidungsstücken vorkommt: T-Shirts, Hemden, Blusen, Jeans, Chinos, Trenchcoats, Strick und Sweatshirts. Sie ist vielseitig, tragbar und je nach Verarbeitung sehr unterschiedlich in der Wirkung.
+**Cotton**: Cotton is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Baumwolle ist nicht automatisch sportlich oder schlicht. Ein Baumwollshirt aus Jersey wirkt entspannt. Popeline aus Baumwolle wirkt glatt und gepflegt. Denim aus Baumwolle wirkt robust. Ein dichter Baumwolltwill kann bei Chinos oder Trenchcoats sehr klar und erwachsen erscheinen.
+Cotton gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Wirkung entsteht durch Webart, Stoffgewicht, Dichte und Schnitt. Feine Baumwolle kann leicht und elegant sein. Grobe Baumwolle wirkt stabiler und lässiger. Stretch-Anteile können Komfort geben, verändern aber auch den Fall.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Baumwolle wichtig ist
+## Why this matters for quality
 
-Baumwolle ist eine der wichtigsten Grundlagen einer tragbaren Garderobe. Sie ist alltagstauglich, oft pflegeleichter als empfindliche Materialien und in vielen Stilrichtungen einsetzbar.
+When you understand Cotton, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Baumwolle spannend, weil sie als Basis ruhig und unaufgeregt wirkt. Gerade bei Basics entscheidet die Baumwollqualität darüber, ob ein Teil gepflegt oder schnell beliebig aussieht.
+With Cotton, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-## Worauf du bei Baumwolle achten solltest
+## What to pay attention to
 
-- Achte auf Dichte: Sehr dünne Baumwolle kann schnell ausleiern oder transparent wirken.
-- Prüfe den Griff: Gute Baumwolle fühlt sich stabil, weich oder glatt an, aber nicht leblos.
-- Beachte die Webart: Jersey, Popeline, Twill und Denim wirken sehr unterschiedlich.
-- Wähle die passende Farbe: Baumwolle zeigt helle Farben oft weicher und matte Farben ruhiger.
-- Beobachte den Fall: Nicht jede Baumwolle fällt gleich schön.
+- Check the role of Cotton in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Baumwolle ist immer basic.  
-**Besser:** Baumwolle kann sportlich, klassisch, elegant oder urban wirken. Die Verarbeitung entscheidet.
+**Misconception:** Cotton is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Je dünner Baumwolle ist, desto hochwertiger ist sie.  
-**Besser:** Hochwertigkeit zeigt sich durch Griff, Dichte, Verarbeitung und Formstabilität.
+**Misconception:** Cotton works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Baumwolle ist die stille Grundlage vieler Garderoben. Ihre Wirkung liegt nicht im Namen, sondern in Qualität, Griff und Schnitt.
+Look at “Cotton” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Cotton works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Denim](/en/glossary/denim/)
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)
+- [Care](/en/glossary/care/)

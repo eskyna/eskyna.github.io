@@ -1,62 +1,94 @@
 ---
-title: "Salbeigrün im Stil erklärt"
-term: "Salbeigrün"
-description: "Salbeigrün ist ein gedämpftes Grün mit Grauanteil. Es wirkt ruhig, modern und natürlich."
-category: "Farb-Lexikon"
-color_hex: "#A0A990"
-tags: ["salbeigruen", "salbeigrün", "gruen", "farbe", "farbberatung"]
-keywords: ["salbeigrün kleidung", "salbeigrün kombinieren", "gedämpftes grün", "farbberatung"]
 weight: 23
-image: "images/glossar/salbeigruen.png"
-image_alt: "Editoriale Grafik zu Salbeigrün mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/salbeigruen.png
+color_hex: "#A0A990"
+title: What does Sage Green mean?
+seoTitle: Sage Green explained | ESKYNA Glossary
+term: Sage Green
+description: Sage Green is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - sage green
+  - color lexicon
+  - style glossary
+keywords:
+  - sage green
+  - what is sage green
+  - sage green style advice
+slug: sage-green
+url: /glossary/sage-green/
+aliases:
+  - /glossar/salbeigruen/
+image_alt: Editorial glossary illustration for Sage Green
 relatedTerms:
-  - title: "Grün"
-    url: "/glossar/gruen/"
-  - title: "Oliv"
-    url: "/glossar/oliv/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Creme"
-    url: "/glossar/creme/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Sage Green” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Sage Green” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Salbeigrün
+## Definition
 
-Salbeigrün ist ein weiches, gedämpftes Grün. Durch den Grauanteil wirkt es ruhiger und moderner als viele frische Grüntöne.
+**Sage Green**: Sage Green is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Salbeigrün wirkt
+## In simple words
 
-Salbeigrün hat eine natürliche, zurückhaltende Wirkung. Es bringt Farbe in den Look, ohne stark in den Vordergrund zu treten. Gerade in ruhigen Garderoben mit Creme, Beige, Grau, Denim oder Braun kann Salbeigrün sehr fein wirken.
+Sage Green gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Salbeigrün
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Helles Salbeigrün:** Sanft, leicht und nah an Pastell.
-- **Graues Salbeigrün:** Besonders ruhig und modern.
-- **Warmes Salbeigrün:** Mit leicht gelblichem Unterton, schön zu Naturtönen.
-- **Dunkler Salbei:** Erwachsener und etwas strukturierter.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Sage Green, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Leinen wirkt Salbeigrün natürlich und sommerlich. In Strick wird es weich. In glatten Stoffen wirkt es moderner. Bei sehr matten Materialien braucht die Farbe oft gute Qualität, damit sie nicht stumpf erscheint.
+With Sage Green, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Salbeigrün kombinieren
+## What to pay attention to
 
-- **Salbeigrün + Creme:** weich und hochwertig
-- **Salbeigrün + Beige:** natürlich und ruhig
-- **Salbeigrün + Denim:** entspannt und modern
-- **Salbeigrün + Braun:** warm und geerdet
-- **Salbeigrün + Weiß:** frisch und leicht
+- Check the role of Sage Green in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Salbeigrün im Business und Alltag
+## Common misconceptions
 
-Salbeigrün ist im Business gut tragbar, wenn der Schnitt klar bleibt. Eine salbeigrüne Bluse, ein feiner Pullover oder ein Blazer in guter Qualität wirkt ruhig und individuell.
+**Misconception:** Sage Green is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Salbeigrün funktioniert
+**Misconception:** Sage Green works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Salbeigrün kann nahe am Gesicht sehr sanft wirken. Wenn es zu blass macht, hilft mehr Kontrast durch Schmuck, Lippenfarbe, Navy oder Braun. Als Hose oder Rock ist die Farbe besonders unkompliziert.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Sage Green” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Salbeigrün ist Zurückhaltung mit Charakter. Es wirkt leise, aber nicht beliebig.
+## ESKYNA note
+
+Sage Green works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

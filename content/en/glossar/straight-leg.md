@@ -1,58 +1,92 @@
 ---
-title: "Was bedeutet Straight Leg?"
-term: "Straight Leg"
-description: "Straight Leg beschreibt eine gerade Hosenform, die vom Oberschenkel bis zum Saum ruhig und gleichmäßig fällt."
-category: "Schnitt, Proportion & Passform"
-tags: ["straight leg", "hose", "jeans", "schnitt", "passform"]
-keywords: ["straight leg", "was bedeutet straight leg", "straight leg jeans", "gerade hose"]
 weight: 13
-image: "images/glossar/straight-leg.png"
-image_alt: "Editoriale Grafik mit gerade fallender Hose und klaren vertikalen Linien"
+image: images/glossar/straight-leg.png
+title: What does Straight Leg mean?
+seoTitle: Straight Leg explained | ESKYNA Glossary
+term: Straight Leg
+description: Straight Leg is a cut, proportion, or fit detail that helps you understand silhouette
+  and make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - straight leg
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - straight leg
+  - what is straight leg
+  - straight leg style advice
+slug: straight-leg
+url: /glossary/straight-leg/
+aliases:
+  - /glossar/straight-leg/
+image_alt: Editorial glossary illustration for Straight Leg
 relatedTerms:
-  - title: "Jeans"
-    url: "/glossar/jeans/"
-  - title: "Denim"
-    url: "/glossar/denim/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Slim Fit"
-    url: "/glossar/slim-fit/"
-  - title: "Wide Leg"
-    url: "/glossar/wide-leg/"
+  - title: Jeans
+    url: /en/glossary/jeans/
+  - title: Denim
+    url: /en/glossary/denim/
+  - title: Slim Fit
+    url: /en/glossary/slim-fit/
+  - title: Wide Leg
+    url: /en/glossary/wide-leg/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+faq:
+  items:
+    - q: How can I use “Straight Leg” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Straight Leg” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Straight Leg** bedeutet gerade geschnittenes Bein. Die Hose fällt vom Oberschenkel bis zum Saum relativ gleichmäßig nach unten und liegt weder stark an noch wird sie deutlich weiter.
+**Straight Leg**: Straight Leg is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Straight Leg ist eine der ruhigsten Hosenformen. Sie wirkt weniger eng als Slim Fit und weniger voluminös als Wide Leg. Genau deshalb ist sie für viele Garderoben so nützlich.
+Straight Leg gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Bei Jeans bedeutet Straight Leg oft: Die Hose sitzt an Hüfte und Oberschenkel angenehm und bleibt am Bein gerade. Bei Stoffhosen kann Straight Leg eleganter wirken, besonders wenn der Stoff etwas schwerer fällt und der Saum sauber auf dem Schuh sitzt.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Straight Leg wichtig ist
+## Why this matters for proportion
 
-Straight Leg schafft Balance. Die Form ist klar genug für gepflegte Looks und entspannt genug für den Alltag. Sie funktioniert mit Blazer, Pullover, Hemd, T-Shirt, Loafer, Sneaker oder Stiefelette.
+When you understand Straight Leg, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Straight Leg eine gute Ausgangsform, wenn eine Garderobe ruhiger und vielseitiger werden soll. Der Schnitt konkurriert nicht mit anderen Elementen. Er lässt Farben, Materialien und Accessoires stärker wirken.
+With Straight Leg, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-## Worauf du bei Straight Leg achten solltest
+## What to pay attention to
 
-- Der Oberschenkel sollte Bewegungsfreiheit haben.
-- Das Bein sollte gerade fallen, nicht spannen und nicht schlabbern.
-- Die Saumlänge sollte zum Schuh passen.
-- Dunkle Farben wirken ruhiger, helle Farben leichter.
-- Bei Jeans entscheidet die Waschung, ob der Look casual oder gepflegt wirkt.
+- Check the role of Straight Leg in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Straight Leg ist langweilig.  
-**Besser:** Gerade Schnitte sind oft die beste Basis für starke Materialien, schöne Farben und klare Accessoires.
+**Misconception:** Straight Leg is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Straight Leg steht zwischen allem und wirkt deshalb unscheinbar.  
-**Besser:** Gerade Hosen wirken bewusst, wenn Bundhöhe, Länge und Styling stimmen.
+**Misconception:** Straight Leg works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Straight Leg ist die ruhige Linie im Outfit. Gerade genug für Klarheit, entspannt genug für Alltag.
+Look at “Straight Leg” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Straight Leg works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Jeans](/en/glossary/jeans/)
+- [Denim](/en/glossary/denim/)
+- [Slim Fit](/en/glossary/slim-fit/)
+- [Wide Leg](/en/glossary/wide-leg/)
+- [Silhouette](/en/glossary/silhouette/)

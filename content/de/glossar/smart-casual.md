@@ -1,26 +1,47 @@
 ---
-title: "Was bedeutet Smart Casual?"
-term: "Smart Casual"
-description: "Smart Casual beschreibt einen gepflegten Look zwischen elegant und entspannt, bei dem hochwertige und lässige Elemente bewusst verbunden werden."
-category: "Garderobe & Alltag"
-tags: ["smart casual", "dresscode", "business casual", "outfit", "stil"]
-keywords: ["smart casual", "was bedeutet smart casual", "smart casual outfit", "smart casual damen"]
+title: Was bedeutet Smart Casual?
+term: Smart Casual
+description: Smart Casual beschreibt einen gepflegten Look zwischen elegant und entspannt, bei dem
+  hochwertige und lässige Elemente bewusst verbunden werden.
+category: Garderobe & Alltag
+tags:
+  - smart casual
+  - dresscode
+  - business casual
+  - outfit
+  - stil
+keywords:
+  - smart casual
+  - was bedeutet smart casual
+  - smart casual outfit
+  - smart casual damen
 weight: 13
-image: "images/glossar/smart-casual.png"
-image_alt: "Editoriale Grafik mit Blazer, Loafer und ruhiger Kombination aus gepflegten und lässigen Formen"
+image: images/glossar/smart-casual.png
+image_alt: Editoriale Grafik mit Blazer, Loafer und ruhiger Kombination aus gepflegten und lässigen
+  Formen
 relatedTerms:
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Dresscode"
-    url: "/glossar/dresscode/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-  - title: "Loafer"
-    url: "/glossar/loafer/"
-  - title: "Ballerina"
-    url: "/glossar/ballerina/"
+  - title: Business Casual
+    url: /glossar/business-casual/
+  - title: Dresscode
+    url: /glossar/dresscode/
+  - title: Blazer
+    url: /glossar/blazer/
+  - title: Chinos
+    url: /glossar/chinos/
+  - title: Loafer
+    url: /glossar/loafer/
+  - title: Ballerina
+    url: /glossar/ballerina/
+faq:
+  items:
+    - q: Wie nutze ich „Smart Casual“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Smart Casual“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -58,3 +79,17 @@ Für ESKYNA ist Smart Casual besonders wertvoll, weil der Stil Persönlichkeit z
 ## ESKYNA-Merksatz
 
 Smart Casual ist die Kunst, gepflegt zu wirken, ohne formell zu werden.
+
+## Praxischeck
+
+Wenn du den Begriff **Smart Casual** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+
+- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
+- Achte auf Wiederholungen in Farbe, Material und Silhouette.
+- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+
+## Beratungsblick
+
+In der Beratung ist **Smart Casual** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).

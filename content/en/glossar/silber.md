@@ -1,66 +1,94 @@
 ---
-title: "Silber im Stil erklärt"
-term: "Silber"
-description: "Silber ist ein kühler Metallic-Ton. Es wirkt klar, modern und besonders gut zu kühlen Farben und Grau."
-category: "Farb-Lexikon"
-color_hex: "#C7C9CC"
-tags: ["silber", "metallic", "farbe", "accessoire", "farbberatung"]
-keywords: ["silber kleidung", "silber kombinieren", "silberschmuck farbberatung", "metallic"]
 weight: 33
-image: "images/glossar/silber.png"
-image_alt: "Editoriale Grafik zu Silber mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/silber.png
+color_hex: "#C7C9CC"
+title: What does Silver mean?
+seoTitle: Silver explained | ESKYNA Glossary
+term: Silver
+description: Silver is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - silver
+  - color lexicon
+  - style glossary
+keywords:
+  - silver
+  - what is silver
+  - silver style advice
+slug: silver
+url: /glossary/silver/
+aliases:
+  - /glossar/silber/
+image_alt: Editorial glossary illustration for Silver
 relatedTerms:
-  - title: "Feinschmuck"
-    url: "/glossar/feinschmuck/"
-  - title: "Creolen"
-    url: "/glossar/creolen/"
-  - title: "Metallic"
-    url: "/glossar/metallic/"
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
+  - title: Metallic
+    url: /en/glossary/metallic/
+  - title: Gold
+    url: /en/glossary/gold/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+faq:
+  items:
+    - q: How can I use “Silver” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Silver” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Silber
+## Definition
 
-Silber ist die kühle, klare Seite von Metallic. Es bringt Licht in den Look, wirkt aber sachlicher und moderner als Gold.
+**Silver**: Silver is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Silber wirkt
+## In simple words
 
-Silber kann puristisch, futuristisch, festlich oder sehr fein wirken. Kleine Silberdetails lassen einen Look klarer erscheinen. In größerer Fläche wird Silber schnell zum Statement, besonders bei Schuhen, Taschen oder glänzenden Stoffen.
+Silver gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Silber
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Helles Silber:** Frisch, klar und sehr licht.
-- **Mattes Silber:** Ruhiger und alltagstauglicher.
-- **Chromsilber:** Glänzend, grafisch und stark.
-- **Antiksilber:** Gedämpfter und weniger kühl.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Silver, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Silber in Schmuck wirkt nah am Gesicht sauber und klar. Silbernes Leder wirkt modern. Silberne Pailletten oder Lamé wirken festlich. Matte Oberflächen sind leichter in den Alltag zu integrieren.
+With Silver, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Silber kombinieren
+## What to pay attention to
 
-- **Silber + Weiß:** klar und frisch
-- **Silber + Grau:** tonal und ruhig
-- **Silber + Schwarz:** grafisch und stark
-- **Silber + Blau:** kühl und harmonisch
-- **Silber + Flieder:** weich und modern
+- Check the role of Silver in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Silber im Business und Alltag
+## Common misconceptions
 
-Im Business funktioniert Silber besonders gut als Schmuck, Uhr, Brillenfassung oder Schnalle. Silberne Schuhe oder Taschen können modern wirken, wenn der Rest des Outfits schlicht bleibt.
+**Misconception:** Silver is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Silber funktioniert
+**Misconception:** Silver works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Silber passt oft gut zu kühlen Farbwelten. Wenn Silber zu hart wirkt, kann mattes Silber, Roségold oder ein weicherer Metallton angenehmer sein.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Silver” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Silber gibt Klarheit und Licht. Je matter die Oberfläche, desto ruhiger die Wirkung.
+## ESKYNA note
+
+Silver works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Metallic](/en/glossary/metallic/)
+- [Gold](/en/glossary/gold/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)

@@ -1,58 +1,148 @@
 ---
-title: "Was ist ein Unterton?"
-term: "Unterton"
-description: "Der Unterton zeigt, ob eine Farbe warm, kühl oder neutral wirkt und warum Nuancen am Gesicht so unterschiedlich aussehen."
-category: "Farbberatung & Farbe"
-tags: ["unterton", "farbberatung", "farbtemperatur", "farben"]
-keywords: ["unterton", "warme farben", "kühle farben", "farbberatung"]
+title: Was ist ein Unterton?
+term: Unterton
+description:
+  Der Unterton beschreibt die warme, kühle oder neutrale Grundwirkung der Haut und ist eine wichtige
+  Basis für Farbentscheidungen.
+category: Farbberatung & Farbe
+tags:
+  - unterton
+  - farbberatung
+  - farbtemperatur
+  - farben
+keywords:
+  - unterton
+  - warme farben
+  - kühle farben
+  - farbberatung
 weight: 2
-image: "images/glossar/unterton.png"
-image_alt: "Grafik mit warmen, neutralen und kühlen Farbtönen zur Erklärung des Untertons"
+image: images/glossar/unterton.png
+image_alt: Grafik mit warmen, neutralen und kühlen Farbtönen zur Erklärung des Untertons
 relatedTerms:
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
+  - title: Farbtyp
+    url: /glossar/farbtyp/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Farbtemperatur
+    url: /glossar/farbtemperatur/
+  - title: Sättigung
+    url: /glossar/saettigung/
+featured_glossar: true
+featured_weight: 11
+content_level: commercial-pillar
+lastmod: "2026-07-09"
+faq:
+  items:
+    - q: Kann dunkle Haut einen kühlen Unterton haben?
+      a: Ja. Helligkeit und Unterton sind unterschiedliche Merkmale.
+    - q: Kann mein Unterton neutral sein?
+      a: Ja. Viele Menschen liegen zwischen warm und kühl oder brauchen sehr ausgewogene Nuancen.
+    - q: Reicht ein Online-Test für den Unterton?
+      a: Er kann Hinweise geben, ersetzt aber selten den Vergleich mit echten Stofffarben am Gesicht.
+seoTitle: Unterton erklärt | ESKYNA Glossar
+commercial_intent: true
+commercial_weight: 19
+commercial_cluster: color
+editorial_depth: mini-case-offer-bridge
+consulting_questions:
+  - Welche Nuance unterstützt Gesicht und gewünschte Wirkung am besten?
+  - "Wo wirkt der Begriff am stärksten: nahe am Gesicht, als Akzent oder als Basis?"
+  - Wie lässt er sich mit vorhandenen Farben kombinieren, ohne neue Fehlkäufe zu erzeugen?
+consulting_focus:
+  Unterton wird in der Beratung besonders relevant, wenn aus einem Begriff eine konkrete Entscheidung
+  für Kleidung, Wirkung oder Garderobe werden soll.
+offer_bridge:
+  kicker: Passendes ESKYNA-Angebot
+  title: Farbe in echte Outfits übersetzen
+  text:
+    Wenn der Begriff nicht nur verstanden, sondern sicher im Alltag angewendet werden soll, verbindet ESKYNA
+    Farbe mit Wirkung, Schnitt und vorhandener Garderobe.
+  bullets:
+    - Farbrichtung sicherer erkennen
+    - Nuancen alltagstauglich kombinieren
+    - Fehlkäufe durch klare Kriterien reduzieren
+  primary_label: ESKYNA Stilgefühl ansehen
+  primary_url: /stilgefuehl/
+  secondary_label: Stilfrage stellen
+  secondary_url: /stilfrage/
 ---
 
 ## Definition
 
-Der **Unterton** beschreibt, ob eine Farbe eher warm, kühl oder neutral wirkt. Warme Töne enthalten oft Gelb, Gold, Orange oder Braun. Kühle Töne wirken bläulicher, silbriger oder klarer.
+**Unterton**: Der Unterton ist die feine Farbrichtung, die unter der Hautoberfläche wahrgenommen wird. Er kann eher warm, kühl, neutral oder oliv wirken. Der Unterton beeinflusst, welche Farben, Metalle und Make-up-Nuancen mit dem Gesicht harmonieren.
 
 ## Einfach erklärt
 
-Zwei Farben können auf den ersten Blick gleich heißen und trotzdem völlig unterschiedlich wirken. Es gibt nicht nur Blau, Rosa oder Beige. Es gibt warme und kühle Varianten davon.
+Beim Unterton geht es nicht darum, ob deine Haut hell oder dunkel ist. Zwei Menschen mit ähnlicher Helligkeit können völlig unterschiedliche Untertöne haben. Deshalb kann derselbe Lippenstift bei einer Person frisch und bei einer anderen hart wirken.
 
-Ein warmes Rosa kann einen Hauch Apricot enthalten. Ein kühles Rosa wirkt stärker bläulich. Ein warmes Beige geht Richtung Sand oder Camel. Ein kühles Beige wirkt eher wie Greige oder Taupe.
+## Warum Unterton wichtig ist
 
-Der Unterton ist besonders wichtig bei Kleidung, die nah am Gesicht liegt. Bluse, Shirt, Schal, Schmuck und Brille verändern sofort, wie frisch Haut, Augen und Haare wirken.
+Der Unterton ist besonders wichtig bei Farben nah am Gesicht. Blusen, Rollkragen, Schals, Schmuck, Brillen und Make-up reagieren direkt mit dem Teint. Wenn die Temperatur nicht stimmt, wirkt ein Look schnell unruhig oder müde, obwohl Schnitt und Qualität gut sind.
 
-## Warum der Unterton wichtig ist
+## Blick aus der Beratung
 
-Viele Fehlkäufe entstehen nicht, weil eine Farbe grundsätzlich falsch ist, sondern weil ihr Unterton nicht passt. Die Farbe wirkt dann ein wenig daneben. Nicht auffällig falsch, aber auch nicht stimmig.
+In der Beratung prüfe ich den Unterton nicht isoliert. Ich vergleiche ihn mit Kontrast, Augenfarbe, Haarfarbe und der gewünschten Wirkung. Bei manchen Menschen ist der Unterton klar, bei anderen braucht es neutrale oder gebrochene Zwischentöne.
 
-Wenn du deinen Unterton kennst, findest du leichter die richtige Version einer Farbe. Vielleicht ist Rosa gut, aber nicht jedes Rosa. Vielleicht ist Beige schön, aber nur in einer kühleren oder wärmeren Nuance.
+## So nutzt du den Begriff praktisch
 
-## Typische Missverständnisse
+- Vergleiche Gold und Silber bei Tageslicht.
+- Teste warme und kühle Weißtöne direkt am Gesicht.
+- Achte darauf, ob Rötungen stärker oder ruhiger wirken.
+- Verlasse dich nicht nur auf Venentests, sondern auf die Gesamtwirkung.
 
-**Missverständnis:** Warme Farben sind immer kräftig und kühle Farben immer hart.
+## Beispiel aus dem Alltag
 
-**Besser:** Auch warme Farben können sehr weich wirken. Auch kühle Farben können ruhig und elegant sein. Entscheidend ist die Nuance.
+Beim Unterton zeigt sich der Unterschied oft an Schmuck oder Make-up. Silber kann das Gesicht klarer wirken lassen, Gold kann wärmen oder zu gelb erscheinen, Roségold kann weich vermitteln. Der gleiche Effekt gilt für Stofffarben nah am Gesicht.
 
-**Missverständnis:** Schwarz und Weiß sind neutral und passen deshalb immer.
+## Wann Beratung sinnvoll wird
 
-**Besser:** Auch neutrale Farben haben Wirkung. Reinweiß kann sehr kühl sein. Creme wirkt wärmer. Schwarz kann stark rahmen, aber auch hart erscheinen.
+Beratung hilft, wenn du zwischen warm und kühl schwankst oder dich in Standardtests nicht wiederfindest. Unterton ist oft feiner als eine schnelle Regel. Ein Vergleich mit echten Stoffen und Metallen zeigt mehr als die Frage, welche Farbe deine Venen haben.
 
-## Praktisches Beispiel
+## Typisches Missverständnis
 
-Halte einmal Cremeweiß und Reinweiß ans Gesicht. Creme kann weicher und wärmer wirken. Reinweiß kann frischer, aber auch strenger erscheinen. Der bessere Ton ist der, der das Gesicht klarer macht und nicht die Farbe in den Vordergrund stellt.
+Viele Online-Tests vereinfachen den Unterton zu stark. Venenfarbe oder Sonnenbräune reichen selten aus. Entscheidend ist, wie Farben dein Gesicht verändern und ob die Gesamtwirkung ruhig, klar und stimmig bleibt.
+
+## Abgrenzung zu ähnlichen Begriffen
+
+Unterton beschreibt dich, Farbtemperatur beschreibt die Farbe. Der Farbtyp entsteht erst, wenn Unterton, Kontrast, Helligkeit und Sättigung gemeinsam betrachtet werden.
+
+## Nächster Schritt
+
+Wenn du den Begriff auf deine Garderobe übertragen möchtest, findest du einen passenden Einstieg bei den [ESKYNA Angeboten](/angebote/).
 
 ## ESKYNA-Merksatz
 
-Der Unterton ist die leise Temperatur einer Farbe. Er entscheidet oft, ob ein Look harmonisch oder nur beinahe richtig wirkt.
+Der Unterton ist leise, aber er entscheidet oft, ob eine Farbe harmonisch oder fremd wirkt.
+
+<!-- commercial-depth-start -->
+
+## Beratungssituation im echten Leben
+
+Bei **Unterton** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+
+## Mini-Case: vom Zweifel zur Entscheidung
+
+Typisch ist eine Kundin oder ein Kunde, der **Unterton** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+
+## Entscheidungshilfe vor dem nächsten Kauf
+
+- Passt die Entscheidung zu deiner gewünschten Wirkung?
+- Unterstützt sie Farbe, Schnitt, Proportion und vorhandene Garderobe?
+- Kannst du sie mit mindestens drei vorhandenen Teilen kombinieren?
+- Fühlt sie sich auch nach einem langen Tag noch stimmig an?
+
+## Woran du erkennst, dass du Unterstützung brauchst
+
+Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Unterton** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+
+<!-- commercial-depth-end -->
+
+## Verwandte Begriffe
+
+- [Farbtyp](/glossar/farbtyp/)
+- [Kontrast](/glossar/kontrast/)
+- [Rosa](/glossar/rosa/)
+- [Farbtemperatur](/glossar/farbtemperatur/)
+- [Sättigung](/glossar/saettigung/)

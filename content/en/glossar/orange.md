@@ -1,64 +1,94 @@
 ---
-title: "Orange im Stil erklärt"
-term: "Orange"
-description: "Orange wirkt warm, aktiv und sichtbar. In der richtigen Nuance kann es frisch, natürlich oder sehr modern erscheinen."
-category: "Farb-Lexikon"
-color_hex: "#E67E3A"
-tags: ["orange", "farbe", "farbberatung", "warme farben"]
-keywords: ["orange kleidung", "orange kombinieren", "orange farbberatung", "warme farben"]
 weight: 16
-image: "images/glossar/orange.png"
-image_alt: "Editoriale Grafik mit Orange-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image: images/glossar/orange.png
+color_hex: "#E67E3A"
+title: What does Orange mean?
+seoTitle: Orange explained | ESKYNA Glossary
+term: Orange
+description: Orange is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - orange
+  - color lexicon
+  - style glossary
+keywords:
+  - orange
+  - what is orange
+  - orange style advice
+slug: orange
+url: /glossary/orange/
+aliases:
+  - /glossar/orange/
+image_alt: Editorial glossary illustration for Orange
 relatedTerms:
-  - title: "Rot"
-    url: "/glossar/rot/"
-  - title: "Terracotta"
-    url: "/glossar/terracotta/"
-  - title: "Braun"
-    url: "/glossar/braun/"
-  - title: "Akzentfarbe"
-    url: "/glossar/akzentfarbe/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Gelb"
-    url: "/glossar/gelb/"
-  - title: "Senfgelb"
-    url: "/glossar/senfgelb/"
+  - title: Terracotta
+    url: /en/glossary/terracotta/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Orange” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Orange” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Orange
+## Definition
 
-Orange ist warm, aktiv und sichtbar. Es wirkt offener als Rot, sonniger als Braun und lebendiger als Beige. Gleichzeitig ist Orange eine Farbe, die sehr genau dosiert werden möchte.
+**Orange**: Orange is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-Ein klares Orange wirkt sportlich und energetisch. Ein gedämpftes Orange wirkt erwachsener. Terracotta oder Rost bringen die Farbe näher an Naturtöne und machen sie leichter kombinierbar.
+## In simple words
 
-## Wie Orange wirkt
+Orange gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Orange bringt Wärme in ein Outfit. Es kann frisch, kommunikativ und modern wirken. Als große Fläche ist Orange sehr präsent. Als Akzent kann es einen ruhigen Look sofort lebendiger machen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Die Farbe ist stark mit dem Unterton verbunden. Bei warmen Farbwelten kann Orange sehr harmonisch wirken. Bei kühlen Farbwelten funktioniert es oft besser als Tasche, Schuh, Gürtel oder Musterakzent.
+## Why this matters in color styling
 
-## Nuancen und Materialien
+When you understand Orange, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- **Apricot:** Hell, weich und sommerlich.
-- **Klares Orange:** Energetisch und sehr sichtbar.
-- **Rostorange:** Gedämpft, wärmer und natürlicher.
-- **Terracotta:** Erdiger, ruhiger und eleganter.
+With Orange, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-Orange in Leinen wirkt sommerlich. Orange in Wolle wirkt warm und ruhig. Orange in Seide wirkt ungewöhnlicher und eleganter. Orange in Sportstoffen wirkt dynamisch.
+## What to pay attention to
 
-## Kombinationen, die funktionieren
+- Check the role of Orange in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- Orange + Denim: frisch und unkompliziert
-- Orange + Braun: warm und geerdet
-- Orange + Creme: weich und sommerlich
-- Orange + Navy: kontrastreich und klar
-- Orange + Oliv: natürlich und modern
+## Common misconceptions
 
-## Im Business und Alltag
+**Misconception:** Orange is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Im Business wirkt Orange am besten als Akzent. Ein Tuch, eine Tasche oder ein kleines Muster kann Energie geben, ohne den Look zu dominieren. Im Alltag kann Orange stärker auftreten, besonders in Strick, Leinen oder Accessoires.
+**Misconception:** Orange works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Orange ist Wärme in Bewegung. Die Farbe wirkt stark, wenn sie bewusst dosiert wird.
+Look at “Orange” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Orange works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Terracotta](/en/glossary/terracotta/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

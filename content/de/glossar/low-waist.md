@@ -1,24 +1,38 @@
 ---
-title: "Was bedeutet Low Waist?"
-term: "Low Waist"
-description: "Low Waist beschreibt einen tief sitzenden Bund auf oder unterhalb der Hüfte."
-category: "Schnitt, Proportion & Passform"
-tags: ["low waist", "schnitt proportion"]
-keywords: ["low waist", "was bedeutet low waist", "low waist stilberatung"]
+title: Was bedeutet Low Waist?
+term: Low Waist
+description: Low Waist beschreibt einen tief sitzenden Bund auf oder unterhalb der Hüfte.
+category: Schnitt, Proportion & Passform
+tags:
+  - low waist
+  - schnitt proportion
+keywords:
+  - low waist
+  - was bedeutet low waist
+  - low waist stilberatung
 weight: 1
-image: "images/glossar/low-waist.png"
-image_alt: "Editoriale Glossar-Grafik zu Low Waist mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/low-waist.png
+image_alt: Editoriale Glossar-Grafik zu Low Waist mit ruhigen Farbfeldern und feiner Linienführung
 relatedTerms:
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Taillierung"
-    url: "/glossar/taillierung/"
+  - title: Passform
+    url: /glossar/passform/
+  - title: Silhouette
+    url: /glossar/silhouette/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Saumlänge
+    url: /glossar/saumlange/
+  - title: Taillierung
+    url: /glossar/taillierung/
+faq:
+  items:
+    - q: Wie nutze ich „Low Waist“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
+        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Low Waist“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -55,6 +69,20 @@ Gerade im Alltag hilft Low Waist, schneller zu erkennen, ob ein Teil nur interes
 ## ESKYNA-Merksatz
 
 Low Waist wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+
+## Praxischeck
+
+Wenn du den Begriff **Low Waist** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schnitt und Passform entscheiden, ob ein Outfit ruhig, langgezogen, kompakt, weich oder präzise wirkt.
+
+- Sieh dir die Linien im Spiegel aus zwei Metern Abstand an.
+- Prüfe Schulter, Taille, Saum und Bewegungsfreiheit getrennt.
+- Kombiniere das Teil mit den Schuhen, die du tatsächlich dazu tragen würdest.
+
+## Beratungsblick
+
+In der Beratung ist **Low Waist** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
 ## Verwandte Begriffe
 

@@ -1,29 +1,48 @@
 ---
-title: "Rot im Stil erklärt"
-term: "Rot"
-description: "Rot wirkt präsent, lebendig und kraftvoll. Entscheidend sind Nuance, Material und bewusste Dosierung im Look."
-category: "Farb-Lexikon"
+title: Rot im Stil erklärt
+term: Rot
+description:
+  Rot wirkt präsent, lebendig und kraftvoll. Entscheidend sind Nuance, Material und bewusste
+  Dosierung im Look.
+category: Farb-Lexikon
 color_hex: "#B03A2E"
-tags: ["rot", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["rot kleidung", "rot kombinieren", "farbberatung", "stilberatung"]
+tags:
+  - rot
+  - farbe
+  - farbberatung
+  - farbwirkung
+keywords:
+  - rot kleidung
+  - rot kombinieren
+  - farbberatung
+  - stilberatung
 weight: 8
-image: "images/glossar/rot.png"
-image_alt: "Editoriale Grafik mit roten Farbfeldern, Kontrastflächen und ruhigen Stofflagen"
+image: images/glossar/rot.png
+image_alt: Editoriale Grafik mit roten Farbfeldern, Kontrastflächen und ruhigen Stofflagen
 relatedTerms:
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Orange"
-    url: "/glossar/orange/"
-  - title: "Pink"
-    url: "/glossar/pink/"
+  - title: Bordeaux
+    url: /glossar/bordeaux/
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Schwarz
+    url: /glossar/schwarz/
+  - title: Navy
+    url: /glossar/navy/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Orange
+    url: /glossar/orange/
+  - title: Pink
+    url: /glossar/pink/
+faq:
+  items:
+    - q: Wie nutze ich „Rot“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Rot“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Rot

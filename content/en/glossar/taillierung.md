@@ -1,58 +1,92 @@
 ---
-title: "Was bedeutet Taillierung?"
-term: "Taillierung"
-description: "Taillierung beschreibt, wie Kleidung die Körpermitte formt oder betont, durch Schnitt, Abnäher, Gürtel oder Styling."
-category: "Schnitt, Proportion & Passform"
-tags: ["taillierung", "schnitt", "passform", "silhouette", "proportion"]
-keywords: ["taillierung", "was bedeutet taillierung", "taillierter schnitt", "taille betonen"]
 weight: 14
-image: "images/glossar/taillierung.png"
-image_alt: "Editoriale Grafik mit taillierter Silhouette, Gürtel und feinen Linien zur Körpermitte"
+image: images/glossar/taillierung.png
+title: What does Waist Shaping mean?
+seoTitle: Waist Shaping explained | ESKYNA Glossary
+term: Waist Shaping
+description: Waist Shaping is a cut, proportion, or fit detail that helps you understand silhouette
+  and make more conscious styling decisions.
+category: Cut, Proportion & Fit
+tags:
+  - waist shaping
+  - cut, proportion & fit
+  - style glossary
+keywords:
+  - waist shaping
+  - what is waist shaping
+  - waist shaping style advice
+slug: waist-shaping
+url: /glossary/waist-shaping/
+aliases:
+  - /glossar/taillierung/
+image_alt: Editorial glossary illustration for Waist Shaping
 relatedTerms:
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "A-Linie"
-    url: "/glossar/a-linie/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Blazer
+    url: /en/glossary/blazer/
+  - title: Fit
+    url: /en/glossary/fit/
+  - title: Cut
+    url: /en/glossary/cut/
+faq:
+  items:
+    - q: How can I use “Waist Shaping” in real outfits?
+      a: Use it as a checkpoint for line, volume, balance, and fit. Use it to see how clothing sits
+        on the body and whether it supports the full silhouette.
+    - q: Does “Waist Shaping” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Taillierung** beschreibt, wie ein Kleidungsstück die Taille formt, markiert oder optisch andeutet. Das kann durch Schnitt, Abnäher, Gürtel, Wickelung oder Styling entstehen.
+**Waist Shaping**: Waist Shaping is a cut, proportion, or fit detail that helps you understand silhouette and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Taillierung bedeutet nicht automatisch eng. Ein Blazer kann leicht tailliert sein, ohne den Körper einzuengen. Ein Kleid kann durch eine Naht, einen Gürtel oder eine Wickelform die Körpermitte betonen. Auch ein in den Bund gestecktes Shirt kann Taillierung erzeugen.
+Waist Shaping gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Wirkung hängt stark von der Linie ab. Eine weiche Taillierung wirkt feminin und natürlich. Eine sehr präzise Taillierung wirkt klarer und angezogener. Keine Taillierung kann modern und reduziert wirken, wenn Proportion und Material stimmen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Taillierung wichtig ist
+## Why this matters for proportion
 
-Taillierung beeinflusst die Silhouette. Sie kann einem Outfit Struktur geben, Längen ordnen und Volumen ausgleichen. Besonders bei Blazern, Kleidern, Mänteln und weiten Hosen entscheidet die Körpermitte oft darüber, ob der Look bewusst oder zufällig wirkt.
+When you understand Waist Shaping, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Taillierung kein Zwang. Sie ist ein Werkzeug. Man kann sie stark, subtil oder gar nicht einsetzen, je nachdem welche Wirkung entstehen soll.
+With Waist Shaping, a few centimeters can change the whole silhouette. Look at where lines start and end, which areas are emphasized, and how the fabric moves.
 
-## Worauf du bei Taillierung achten solltest
+## What to pay attention to
 
-- Die Taille muss nicht eng sitzen, um sichtbar zu sein.
-- Ein Gürtel sollte zur Proportion des Outfits passen.
-- Abnäher sollten Form geben, nicht spannen.
-- Taillierung wirkt anders bei festen und fließenden Stoffen.
-- Auch eine offene Jacke kann die Taille durch Linienführung andeuten.
+- Check the role of Waist Shaping in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Taillierung ist immer figurbetont.  
-**Besser:** Taillierung kann auch sehr subtil sein und nur Struktur geben.
+**Misconception:** Waist Shaping is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Moderne Looks brauchen keine Taille.  
-**Besser:** Moderne Looks können gerade, weit oder tailliert sein. Entscheidend ist die Stimmigkeit.
+**Misconception:** Waist Shaping works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Taillierung ist nicht Enge. Taillierung ist Ordnung in der Silhouette.
+Look at “Waist Shaping” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Waist Shaping works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Silhouette](/en/glossary/silhouette/)
+- [Proportion](/en/glossary/proportion/)
+- [Blazer](/en/glossary/blazer/)
+- [Fit](/en/glossary/fit/)
+- [Cut](/en/glossary/cut/)

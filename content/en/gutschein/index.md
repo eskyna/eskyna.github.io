@@ -1,76 +1,69 @@
 ---
-title: "ESKYNA Gutschein"
-description: "Verschenke persönliche Stilberatung: Der ESKYNA Gutschein für mehr Stilgefühl, Klarheit und sichere Outfitentscheidungen."
-
+title: ESKYNA Gift Voucher
+description:
+  "Give personal style coaching as a gift: the ESKYNA voucher for more style confidence, clarity, and
+  better outfit decisions."
+url: /gift-voucher/
+aliases:
+  - /gutschein/
 offers_back:
-  href: "/angebote/"
-  label: "Zu den Angeboten"
-variants_heading: "Wähle die passende Form"
-
+  href: /en/offers/
+  label: Back to offers
+variants_heading: Choose the right format
 offer:
-  headline: "ESKYNA Gutschein"
-  subheadline: "Stilberatung verschenken"
+  headline: ESKYNA Gift Voucher
+  subheadline: Give clarity, confidence, and personal style as a gift
   intro: |
-    Du möchtest etwas Persönliches schenken, aber kein beliebiges Produkt?
+    Do you want to give something personal, but not just another product?
 
-    Mit dem ESKYNA Gutschein verschenkst du Zeit mit Natalia und damit mehr Klarheit, Stilgefühl und Sicherheit bei Kleidung, Einkauf und Auftritt.
-  price: "ab 149 €"
-  cta: "Gutschein anfragen"
-  image: "images/portraits/natalia-coach-portrait.png"
-
-intro_section:
-  title: "Ein Geschenk, das im Alltag weiterwirkt"
+    With the ESKYNA gift voucher, you give time with Natalia and therefore more clarity, style sense, and confidence in clothing, shopping, and personal presence.
+  cta: Request a gift voucher
+  image: images/gutschein.png
+problem:
+  title: A gift that keeps working in everyday life
   text: |
-    Der ESKYNA Gutschein ist ideal für Menschen, die sich mehr Sicherheit beim Anziehen, Einkaufen oder Kombinieren wünschen.
+    The ESKYNA gift voucher is ideal for people who want to feel more confident when getting dressed, shopping, or combining outfits.
 
-    Nicht als oberflächliches Styling-Erlebnis.
-    Sondern als persönliche Beratung, die hilft, bessere Entscheidungen zu treffen.
-
+    It is not a superficial styling experience.
+    It is personal guidance that helps someone make better decisions.
 for_whom:
-  title: "Der Gutschein passt besonders gut für …"
+  title: The voucher is especially suitable for …
   items:
-    - "Geburtstag"
-    - "Weihnachten"
-    - "Jobwechsel"
-    - "Wiedereinstieg"
-    - "neuen Lebensabschnitt"
-    - "Fotoshooting"
-    - "Hochzeit als Gast"
-    - "berufliche Veränderung"
-    - "Menschen, die oft sagen: 'Ich habe nichts anzuziehen'"
-    - "Menschen, die sich selbst neu entdecken möchten"
-
+    - birthdays
+    - Christmas
+    - Mother's Day
+    - career changes
+    - "people who often say: 'I have nothing to wear'"
+    - people who want to rediscover themselves
 variants:
-  - title: "Style Moment"
-    price: "149 €"
-    description: "Eine persönliche Online-Beratung für eine konkrete Stilfrage, einen Anlass oder den Einstieg in mehr Stilgefühl."
-    includes:
-      - "60 Minuten Online-Beratung"
-      - "Eine konkrete Stilfrage oder ein Anlass"
-      - "Erste Empfehlungen zu Farbe, Schnitt, Kombination oder Wirkung"
-      - "Persönliche Impulse von Natalia"
-
-  - title: "Style Moment Plus"
-    price: "199 €"
-    description: "Die ausführlichere Gutscheinvariante mit etwas mehr Zeit und persönlicher Zusammenfassung."
-    includes:
-      - "75 Minuten Online-Beratung"
-      - "Kurze Vorabklärung"
-      - "Beratung zu Stilfrage, Outfit, Anlass oder Einkauf"
-      - "Persönliche Empfehlungen"
-      - "Kurze Zusammenfassung nach dem Termin"
-
-result:
-  title: "Was die beschenkte Person mitnimmt"
-  text: "Die beschenkte Person bekommt keine Standardtipps, sondern eine persönliche Einschätzung."
+  title: Voucher options
   items:
-    - "Die beschenkte Person versteht besser, was zu ihr passt"
-    - "Sie bekommt neue Impulse für Kleidung, Stil und Wirkung"
-    - "Und sie geht mit mehr Sicherheit in die nächsten Outfitentscheidungen"
-  summary: "Ein Geschenk, das nicht im Schrank liegt, sondern den Alltag leichter macht."
-
+    - title: Style question voucher
+      price: from €120
+      description:
+        A personal online consultation for one concrete style question, occasion, or first step into more
+        style confidence.
+      includes:
+        - One concrete style question or occasion
+        - Initial recommendations on color, cut, combination, or impact
+        - Personal impulses from Natalia
+    - title: Style consultation voucher
+      price: from €250
+      description: A more detailed voucher option with more time and a personal summary.
+      includes:
+        - Short preparation
+        - Consultation on style question, outfit, occasion, or shopping
+        - Personal recommendations
+result:
+  title: What the recipient takes away
+  text: The recipient does not receive generic tips, but a personal assessment.
+  items:
+    - They understand what suits them better
+    - They receive new impulses for clothing, style, and impact
+    - They make their next outfit decisions with more confidence
+  summary: A gift that does not stay in the closet, but makes everyday life easier.
 cta_section:
-  title: "Stilberatung verschenken"
-  text: "Wähle den passenden Gutschein und schenke mehr Stilgefühl."
-  button: "ESKYNA Gutschein anfragen"
+  title: Ready to give style confidence?
+  text: Choose the right voucher and give more clarity as a gift.
+  button: Request an ESKYNA gift voucher
 ---

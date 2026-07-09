@@ -1,29 +1,48 @@
 ---
-title: "Silber im Stil erklärt"
-term: "Silber"
-description: "Silber ist ein kühler Metallic-Ton. Es wirkt klar, modern und besonders gut zu kühlen Farben und Grau."
-category: "Farb-Lexikon"
+title: Silber im Stil erklärt
+term: Silber
+description: Silber ist ein kühler Metallic-Ton. Es wirkt klar, modern und besonders gut zu kühlen
+  Farben und Grau.
+category: Farb-Lexikon
 color_hex: "#C7C9CC"
-tags: ["silber", "metallic", "farbe", "accessoire", "farbberatung"]
-keywords: ["silber kleidung", "silber kombinieren", "silberschmuck farbberatung", "metallic"]
+tags:
+  - silber
+  - metallic
+  - farbe
+  - accessoire
+  - farbberatung
+keywords:
+  - silber kleidung
+  - silber kombinieren
+  - silberschmuck farbberatung
+  - metallic
 weight: 33
-image: "images/glossar/silber.png"
-image_alt: "Editoriale Grafik zu Silber mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/silber.png
+image_alt: Editoriale Grafik zu Silber mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Feinschmuck"
-    url: "/glossar/feinschmuck/"
-  - title: "Creolen"
-    url: "/glossar/creolen/"
-  - title: "Metallic"
-    url: "/glossar/metallic/"
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Grau"
-    url: "/glossar/grau/"
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
+  - title: Feinschmuck
+    url: /glossar/feinschmuck/
+  - title: Creolen
+    url: /glossar/creolen/
+  - title: Metallic
+    url: /glossar/metallic/
+  - title: Gold
+    url: /glossar/gold/
+  - title: Grau
+    url: /glossar/grau/
+  - title: Weiß
+    url: /glossar/weiss/
+  - title: Glanzgrad
+    url: /glossar/glanzgrad/
+faq:
+  items:
+    - q: Wie nutze ich „Silber“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Silber“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Silber
@@ -64,3 +83,17 @@ Silber passt oft gut zu kühlen Farbwelten. Wenn Silber zu hart wirkt, kann matt
 ## ESKYNA-Merksatz
 
 Silber gibt Klarheit und Licht. Je matter die Oberfläche, desto ruhiger die Wirkung.
+
+## Praxischeck
+
+Wenn du den Begriff **Silber** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Silber** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

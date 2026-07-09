@@ -1,67 +1,93 @@
 ---
-title: "Rot im Stil erklärt"
-term: "Rot"
-description: "Rot wirkt präsent, lebendig und kraftvoll. Entscheidend sind Nuance, Material und bewusste Dosierung im Look."
-category: "Farb-Lexikon"
-color_hex: "#B03A2E"
-tags: ["rot", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["rot kleidung", "rot kombinieren", "farbberatung", "stilberatung"]
 weight: 8
-image: "images/glossar/rot.png"
-image_alt: "Editoriale Grafik mit roten Farbfeldern, Kontrastflächen und ruhigen Stofflagen"
+image: images/glossar/rot.png
+color_hex: "#B03A2E"
+title: What does Red mean?
+seoTitle: Red explained | ESKYNA Glossary
+term: Red
+description: Red is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
+category: Color Lexicon
+tags:
+  - red
+  - color lexicon
+  - style glossary
+keywords:
+  - red
+  - what is red
+  - red style advice
+slug: red
+url: /glossary/red/
+aliases:
+  - /glossar/rot/
+image_alt: Editorial glossary illustration for Red
 relatedTerms:
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Orange"
-    url: "/glossar/orange/"
-  - title: "Pink"
-    url: "/glossar/pink/"
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Red” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Red” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Rot
+## Definition
 
-Rot ist eine Farbe mit Präsenz. Sie wird schnell gesehen und verändert die Wirkung eines Looks sofort. Genau deshalb braucht Rot eine bewusste Entscheidung: Welche Nuance, welches Material, welche Fläche und welcher Kontext?
+**Red**: Red is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Rot wirkt
+## In simple words
 
-Rot kann lebendig, elegant, warm, klar oder dramatisch wirken. Ein roter Mantel setzt ein starkes Zeichen. Eine rote Bluse bringt Energie nahe ans Gesicht. Rote Schuhe oder eine rote Tasche geben einem ruhigen Outfit Spannung, ohne den ganzen Look zu bestimmen.
+Red gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Wirkung hängt stark von Material und Schnitt ab. Rot in Wolle wirkt satt und erwachsen. Rot in Seide wirkt eleganter. Rot in Baumwolle erscheint frischer und alltagstauglicher. Rot in Lack, Leder oder sehr glänzendem Satin wird deutlich stärker und braucht Ruhe im restlichen Styling.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Rot
+## Why this matters in color styling
 
-- **Kirschrot:** Klar, frisch und präsent. Wirkt modern zu Weiß, Navy und Denim.
-- **Tomatenrot:** Wärmer und lebendiger. Besonders schön zu Creme, Camel und Gold.
-- **Rubinrot:** Tiefer und eleganter. Funktioniert gut für Abendlooks und klare Schnitte.
-- **Korallenrot:** Heller und wärmer. Wirkt sommerlich und leichter.
-- **Dunkelrot:** Ruhiger und erwachsener. Eine gute Brücke zu Bordeaux.
+When you understand Red, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Rot kombinieren
+With Red, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-- **Rot + Navy:** Klassisch, souverän und weniger hart als Rot mit Schwarz
-- **Rot + Creme:** Weicher, heller und eleganter
-- **Rot + Denim:** Alltagstauglich und modern
-- **Rot + Braun:** Warm, ruhig und hochwertig
-- **Rot + Rosa:** Modisch und tonal, wenn beide Nuancen sauber gewählt sind
+## What to pay attention to
 
-## Rot im Business und Alltag
+- Check the role of Red in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-Im Business funktioniert Rot besonders gut als Akzent. Eine rote Bluse unter einem dunklen Blazer, ein roter Lippenstift, ein Tuch oder eine Tasche können einem professionellen Look Energie geben. Ein komplett rotes Outfit wirkt eher nach Bühne oder Event.
+## Common misconceptions
 
-Im Alltag darf Rot leichter werden. Eine rote Strickjacke, rote Sneaker oder ein roter Rock können sehr tragbar sein, wenn Form und Material nicht zusätzlich laut sind.
+**Misconception:** Red is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Rot funktioniert
+**Misconception:** Red works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Wenn Rot nahe am Gesicht zu dominant wirkt, kann es als Hose, Rock, Schuh, Tasche, Gürtel oder Nagellack sehr gut funktionieren. Die Frage ist nicht, ob Rot grundsätzlich passt. Die wichtigere Frage lautet: Welches Rot, in welcher Menge und an welcher Stelle im Outfit?
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Red” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Rot spricht zuerst. Ein gutes Styling entscheidet, ob die Farbe stark, elegant oder zu laut wirkt.
+## ESKYNA note
+
+Red works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

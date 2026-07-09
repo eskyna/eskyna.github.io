@@ -1,31 +1,35 @@
 ---
-title: "Розовый — три образа"
+title: Розовый — три образа
 seoTitle: "Розовый в гардеробе: три стильных образа | ESKYNA"
 date: 2026-05-15
-description: "Розовый гораздо универсальнее, чем кажется. Узнайте, как сочетать его современно, стильно и практично на каждый день."
-summary: "Как розовый, в зависимости от оттенка, материала и сочетаний, может выглядеть спортивно, романтично или уместно в деловом контексте."
-hero: "rosa-hero.png"
+description:
+  Розовый гораздо универсальнее, чем кажется. Узнайте, как сочетать его современно, стильно и практично
+  на каждый день.
+summary:
+  Как розовый, в зависимости от оттенка, материала и сочетаний, может выглядеть спортивно, романтично или
+  уместно в деловом контексте.
+hero: rosa-hero.png
 readingTime: 5
-ctaHref: "https://calendar.app.google/sPZWYZT6vfK9NMim7"
-instagramHref: "https://www.instagram.com/p/DYR7JL1iobn/?img_index=1"
+ctaHref: https://calendar.app.google/sPZWYZT6vfK9NMim7
+instagramHref: https://www.instagram.com/p/DYR7JL1iobn/?img_index=1
 tags:
   - розовый
   - цветотип
   - образ
   - консультация_по_стилю
 ui:
-  looks_anchor: "три-капсулы-образов"
-  color_scale_aria_label: "Шкала оттенков розового"
+  looks_anchor: три-капсулы-образов
+  color_scale_aria_label: Шкала оттенков розового
   color_scale_swatches:
-    - name: "Пудрово-розовый"
+    - name: Пудрово-розовый
       hex: "#ffc8d9"
-    - name: "Пастельно-розовый"
+    - name: Пастельно-розовый
       hex: "#ffb3c1"
-    - name: "Пыльно-розовый"
+    - name: Пыльно-розовый
       hex: "#d4879a"
-    - name: "Ярко-розовый"
+    - name: Ярко-розовый
       hex: "#ff69b4"
-    - name: "Пыльно-лиловый"
+    - name: Пыльно-лиловый
       hex: "#c684a5"
 ---
 
@@ -81,31 +85,31 @@ ui:
 
 ## Три капсулы образов
 
-1. **Sport-Chic**
+1. **Sport-шик**
 
 Характер: свежо · городски · практично
 
-![Образ Sport-Chic с розовыми джинсами и блейзером](sport-chic.png)
+![Образ Sport-шик с розовыми джинсами и блейзером](sport-шик.png)
 
-[Смотреть образ Sport-Chic](https://eskyna.com/outfits/2026_05_14_pink/sport_chic/)
+[Смотреть образ Sport-шик](https://eskyna.com/outfits/2026_05_14_розовый/sport_chic/)
 
 Здесь розовый выглядит легко и современно. Серый блейзер добавляет структуру, кроссовки и деним делают комплект удобным на каждый день.
 
-1. **Romantic-Chic**
+1. **Romantic-шик**
 
 Характер: мягко · женственно · вне времени
 
-![Образ Romantic-Chic с цветочной юбкой и розовой сумкой](romantic-chic.png)
+![Образ Romantic-шик с цветочной юбкой и розовой сумкой](romantic-шик.png)
 
-[Смотреть образ Romantic-Chic](https://eskyna.com/outfits/2026_05_14_pink/romantic_chic/)
+[Смотреть образ Romantic-шик](https://eskyna.com/outfits/2026_05_14_розовый/romantic_chic/)
 
 Флоральные детали, светлая палитра и легкие формы показывают мягкую сторону розового — романтично, но без перегруза.
 
 1. **Бизнес-шик**
 
-![Образ «Бизнес-шик» с розовыми брюками и темным блейзером](business-chic.png)
+![Образ «Бизнес-шик» с розовыми брюками и темным блейзером](деловой шик.png)
 
-[Смотреть образ «Бизнес-шик»](https://eskyna.com/outfits/2026_05_14_pink/business_chic/)
+[Смотреть образ «Бизнес-шик»](https://eskyna.com/outfits/2026_05_14_розовый/business_chic/)
 
 Темно-коричневый, блейзер, галстук и лоферы «заземляют» розовый. Так получается образ с цветовым акцентом, который при этом выглядит профессионально.
 
@@ -133,9 +137,9 @@ Instagram-пост к статье: [Розовый в новом прочтен
 
 [^4]: [Dress is a Fundamental Component of Person Perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC10559650/), Personality and Social Psychology Review.
 
-[^5]: [Pink: The History of a Punk, Pretty, Powerful Color](https://www.fitnyc.edu/museum/exhibitions/pink.php), Museum at FIT.
+[^5]: [Розовый: The History of a Punk, Pretty, Powerful Color](https://www.fitnyc.edu/museum/exhibitions/розовый.php), Museum at FIT.
 
-[^6]: [Unraveling the Colorful History of Why Girls Wear Pink and Boys Wear Blue](https://www.smithsonianmag.com/history/unraveling-the-colorful-history-of-why-girls-wear-pink-and-boys-wear-blue-1370097/), Smithsonian Magazine.
+[^6]: [Unraveling the Colorful History of Why Girls Wear Розовый and Boys Wear Blue](https://www.smithsonianmag.com/history/unraveling-the-colorful-history-of-why-girls-wear-розовый-and-boys-wear-blue-1370097/), Smithsonian Magazine.
 
 [^7]: [Elsa Schiaparelli](https://en.wikipedia.org/wiki/Elsa_Schiaparelli), Wikipedia.
 

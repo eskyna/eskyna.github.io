@@ -1,63 +1,93 @@
 ---
-title: "Rollkragenpullover"
-term: "Rollkragenpullover"
-description: "Ein Rollkragenpullover ist ein Pullover mit hohem, umgeschlagenem Kragen und ruhiger, geschlossener Wirkung."
-category: "Materialien & Details"
-tags: ["materialien", "rollkragenpullover"]
-keywords:
-  ["rollkragenpullover", "was bedeutet rollkragenpullover", "rollkragenpullover stilberatung"]
 weight: 1
-image: "images/glossar/rollkragenpullover.png"
-image_alt: "Editoriale Glossar-Grafik zu Rollkragenpullover mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/rollkragenpullover.png
+title: What does Turtleneck Sweater mean?
+seoTitle: Turtleneck Sweater explained | ESKYNA Glossary
+term: Turtleneck Sweater
+description:
+  Turtleneck Sweater is a material or detail term that influences quality, comfort, texture,
+  and the overall impression of an outfit.
+category: Materials & Details
+tags:
+  - turtleneck sweater
+  - materials & details
+  - style glossary
+keywords:
+  - turtleneck sweater
+  - what is turtleneck sweater
+  - turtleneck sweater style advice
+slug: turtleneck-sweater
+url: /glossary/turtleneck-sweater/
+aliases:
+  - /glossar/rollkragenpullover/
+image_alt: Editorial glossary illustration for Turtleneck Sweater
 relatedTerms:
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+  - title: Care
+    url: /en/glossary/care/
+  - title: Quality
+    url: /en/glossary/quality/
+faq:
+  items:
+    - q: How can I use “Turtleneck Sweater” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Turtleneck Sweater” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Rollkragenpullover**: Ein Rollkragenpullover ist ein Pullover mit hohem, umgeschlagenem Kragen und ruhiger, geschlossener Wirkung.
+**Turtleneck Sweater**: Turtleneck Sweater is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+Turtleneck Sweater gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Rollkragenpullover wichtig ist
+## Why this matters for quality
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Turtleneck Sweater, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Rollkragenpullover, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Turtleneck Sweater, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Rollkragenpullover im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Turtleneck Sweater in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Rollkragenpullover ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Turtleneck Sweater is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Rollkragenpullover funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Turtleneck Sweater works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Rollkragenpullover wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Turtleneck Sweater” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Turtleneck Sweater works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)
+- [Care](/en/glossary/care/)
+- [Quality](/en/glossary/quality/)

@@ -1,53 +1,94 @@
 ---
-title: "Was ist ein Abendkleid?"
-term: "Abendkleid"
-description: "Ein Abendkleid ist ein formelles, elegantes Kleid für festliche Abendveranstaltungen."
-category: "Dresscodes & Anlässe"
-tags: ["abendkleid", "kleid", "dresscode", "festlich"]
-keywords: ["abendkleid", "was ist ein abendkleid", "festliches kleid"]
 weight: 10
-image: "images/glossar/abendkleid.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Abendkleid mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/abendkleid.png
+title: What does Evening Dress mean?
+seoTitle: Evening Dress explained | ESKYNA Glossary
+term: Evening Dress
+description:
+  Evening Dress is a dress-code or occasion term that helps you understand occasion dressing
+  and make more conscious styling decisions.
+category: Dress Codes & Occasions
+tags:
+  - evening dress
+  - dress codes & occasions
+  - style glossary
+keywords:
+  - evening dress
+  - what is evening dress
+  - evening dress style advice
+slug: evening-dress
+url: /glossary/evening-dress/
+aliases:
+  - /glossar/abendkleid/
+image_alt: Editorial glossary illustration for Evening Dress
 relatedTerms:
-  - title: "Dresscode"
-    url: "/glossar/dresscode/"
-  - title: "Cocktailkleid"
-    url: "/glossar/cocktailkleid/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Seide"
-    url: "/glossar/seide/"
+  - title: Dress Code
+    url: /en/glossary/dress-code/
+  - title: Business Formal
+    url: /en/glossary/business-formal/
+  - title: Cocktail Attire
+    url: /en/glossary/cocktail-attire/
+  - title: Smart Casual
+    url: /en/glossary/smart-casual/
+  - title: Black Tie
+    url: /en/glossary/black-tie/
+faq:
+  items:
+    - q: How can I use “Evening Dress” in real outfits?
+      a:
+        Use it as a checkpoint for occasion, formality, and context. Use it to check whether the outfit
+        respects the situation without hiding your personality.
+    - q: Does “Evening Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Abendkleid**: Ein Abendkleid ist ein elegantes Kleid für formelle oder festliche Abendanlässe. Es ist meist hochwertiger, länger oder besonderer gearbeitet als ein Alltags oder Cocktailkleid.
+**Evening Dress**: Evening Dress is a dress-code or occasion term that helps you understand occasion dressing and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Abendkleider können bodenlang, midi oder in moderner Form auch reduziert sein. Entscheidend ist nicht nur Länge, sondern die gesamte Wirkung: Material, Schnitt, Glanz, Schmuck, Schuhe und Anlass.
+Evening Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Samt, Seide, Satin, Chiffon oder feine Wollqualitäten können abendlich wirken. Auch eine sehr schlichte Silhouette kann festlich sein, wenn Material und Styling stimmen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Abendkleid wichtig ist
+## Why this matters for occasions
 
-Ein Abendkleid schafft Sicherheit bei formellen Anlässen. Es hilft, dem Rahmen gerecht zu werden und trotzdem persönlich zu bleiben.
+When you understand Evening Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Evening Dress, the goal is not to dress stiffly. The goal is to respect the occasion while still keeping your personality visible.
 
-- Kläre den Dresscode.
-- Achte auf Bewegungsfreiheit beim Sitzen und Gehen.
-- Prüfe Länge und Schuhe gemeinsam.
-- Wähle Schmuck und Tasche passend zur Stoffwirkung.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Evening Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ein Abendkleid muss immer bodenlang sein.  
-**Besser:** Der Anlass entscheidet, ob lang, midi oder eine moderne Alternative passend ist.
+## Common misconceptions
 
-**Missverständnis:** Mehr Glanz bedeutet mehr Eleganz.  
-**Besser:** Oft wirkt kontrollierter Glanz hochwertiger als viel Glitzer.
+**Misconception:** Evening Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Evening Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Abendkleid wirkt elegant, wenn Anlass, Material und Haltung zusammenfinden.
+## Quick mirror check
+
+Look at “Evening Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Evening Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Dress Code](/en/glossary/dress-code/)
+- [Business Formal](/en/glossary/business-formal/)
+- [Cocktail Attire](/en/glossary/cocktail-attire/)
+- [Smart Casual](/en/glossary/smart-casual/)
+- [Black Tie](/en/glossary/black-tie/)

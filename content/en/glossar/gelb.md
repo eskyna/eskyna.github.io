@@ -1,62 +1,94 @@
 ---
-title: "Gelb im Stil erklärt"
-term: "Gelb"
-description: "Gelb wirkt hell, sichtbar und energetisch. Die Farbe braucht Nuance, Dosierung und einen klaren Bezug zur Person."
-category: "Farb-Lexikon"
-color_hex: "#E6B64A"
-tags: ["gelb", "farbe", "akzentfarbe", "farbberatung", "farbwirkung"]
-keywords: ["gelb kleidung", "gelb kombinieren", "gelbe bluse", "farbberatung"]
 weight: 26
-image: "images/glossar/gelb.png"
-image_alt: "Editoriale Grafik zu Gelb mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/gelb.png
+color_hex: "#E6B64A"
+title: What does Yellow mean?
+seoTitle: Yellow explained | ESKYNA Glossary
+term: Yellow
+description: Yellow is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - yellow
+  - color lexicon
+  - style glossary
+keywords:
+  - yellow
+  - what is yellow
+  - yellow style advice
+slug: yellow
+url: /glossary/yellow/
+aliases:
+  - /glossar/gelb/
+image_alt: Editorial glossary illustration for Yellow
 relatedTerms:
-  - title: "Senfgelb"
-    url: "/glossar/senfgelb/"
-  - title: "Orange"
-    url: "/glossar/orange/"
-  - title: "Akzentfarbe"
-    url: "/glossar/akzentfarbe/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
+  - title: Orange
+    url: /en/glossary/orange/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Yellow” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Yellow” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Gelb
+## Definition
 
-Gelb ist eine der sichtbarsten Farben im Kleiderschrank. Es bringt Licht und Energie in ein Outfit, wirkt aber je nach Nuance sehr unterschiedlich.
+**Yellow**: Yellow is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Gelb wirkt
+## In simple words
 
-Gelb kann frisch, sonnig, modern oder sehr dominant wirken. Ein klares Zitronengelb wirkt anders als ein warmes Goldgelb oder ein gedämpftes Senfgelb. Deshalb ist Gelb selten eine Nebenfarbe. Es braucht eine bewusste Entscheidung.
+Yellow gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Gelb
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Zitronengelb:** Klar, hell und frisch. Eher kühl und sehr sichtbar.
-- **Pastellgelb:** Weich, leicht und sanfter.
-- **Goldgelb:** Wärmer und eleganter.
-- **Gedämpftes Gelb:** Ruhiger und oft leichter in Garderoben integrierbar.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Yellow, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Baumwolle wirkt Gelb frisch. In Seide oder Satin bekommt es mehr Eleganz. In Strick wirkt es weicher. In glatten, klaren Schnitten wirkt Gelb moderner als in sehr verspielten Details.
+With Yellow, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Gelb kombinieren
+## What to pay attention to
 
-- **Gelb + Weiß:** hell und frisch
-- **Gelb + Navy:** klar und professioneller
-- **Gelb + Grau:** modern und ruhiger
-- **Gelb + Braun:** warm und natürlich
-- **Gelb + Denim:** entspannt und alltagstauglich
+- Check the role of Yellow in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Gelb im Business und Alltag
+## Common misconceptions
 
-Im Business funktioniert Gelb oft besser als Akzent. Eine gelbe Bluse unter einem dunklen Blazer, ein Schal oder eine Tasche bringt Energie, ohne den Look zu dominieren.
+**Misconception:** Yellow is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Gelb funktioniert
+**Misconception:** Yellow works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Gelb ist nah am Gesicht anspruchsvoll, weil es stark mit Haut und Haaren reagiert. Wenn ein Gelbton nicht harmonisch wirkt, kann die Farbe als Rock, Hose, Schuh oder Tasche trotzdem sehr wirkungsvoll sein.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Yellow” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Gelb ist Licht im Outfit. Je klarer die Dosierung, desto eleganter wirkt die Farbe.
+## ESKYNA note
+
+Yellow works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Orange](/en/glossary/orange/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

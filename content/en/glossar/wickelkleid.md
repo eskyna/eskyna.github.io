@@ -1,62 +1,93 @@
 ---
-title: "Was ist ein Wickelkleid?"
-term: "Wickelkleid"
-description: "Ein Wickelkleid wird vorne überkreuzt oder gewickelt und schafft oft eine weiche V-Linie und betonte Mitte."
-category: "Garderobe & Alltag"
-tags:
-  - "wickelkleid"
-  - "kleid"
-  - "v-linie"
-  - "taillierung"
-keywords:
-  - "wickelkleid"
-  - "was ist ein wickelkleid"
-  - "wickelkleid kombinieren"
 weight: 5
-image: "images/glossar/wickelkleid.png"
-image_alt: "Editoriale Grafik mit stilisiertem Wickelkleid, überkreuzter Linie und gebundener Taille"
+image: images/glossar/wickelkleid.png
+title: What does Wrap Dress mean?
+seoTitle: Wrap Dress explained | ESKYNA Glossary
+term: Wrap Dress
+description: Wrap Dress is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - wrap dress
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - wrap dress
+  - what is wrap dress
+  - wrap dress style advice
+slug: wrap-dress
+url: /glossary/wrap-dress/
+aliases:
+  - /glossar/wickelkleid/
+image_alt: Editorial glossary illustration for Wrap Dress
 relatedTerms:
-  - title: "Taillierung"
-    url: "/glossar/taillierung/"
-  - title: "V-Linie"
-    url: "/glossar/silhouette/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Camisole"
-    url: "/glossar/camisole/"
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Camisole
+    url: /en/glossary/camisole/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Wrap Dress” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Wrap Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Wickelkleid** ist ein Kleid, das vorne überkreuzt oder tatsächlich gewickelt wird. Typisch sind eine V-Linie am Ausschnitt und eine betonte Körpermitte.
+**Wrap Dress**: Wrap Dress is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Wickelkleider können weich, feminin, business-tauglich oder sommerlich wirken. Entscheidend sind Stoff, Muster, Länge und wie stark die Taille betont wird.
+Wrap Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Ein echtes Wickelkleid wird gebunden. Viele moderne Varianten sind nur optisch gewickelt und dadurch im Alltag oft einfacher zu tragen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters in your wardrobe
 
-Das Wickelkleid ist interessant, weil es Form und Bewegung verbindet. Es kann eine schöne vertikale Linie schaffen und gleichzeitig weich fallen.
+When you understand Wrap Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Wrap Dress, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-- Achte darauf, dass der Ausschnitt sicher sitzt.
-- Die Bindestelle sollte an einer harmonischen Stelle liegen.
-- Fließende Stoffe wirken weicher, feste Stoffe strukturierter.
-- Die Saumlänge entscheidet stark über die Wirkung.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Wrap Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Wickelkleider sind automatisch vorteilhaft.  
-**Besser:** Nur wenn Ausschnitt, Taillenpunkt, Stoff und Länge stimmen, wirkt das Kleid wirklich harmonisch.
+## Common misconceptions
 
-**Missverständnis:** Ein Wickelkleid muss romantisch wirken.  
-**Besser:** In klaren Farben und ruhigen Mustern kann es sehr modern aussehen.
+**Misconception:** Wrap Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Wrap Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Wickelkleid arbeitet mit Linie und Bewegung. Es wirkt am besten, wenn es nicht zieht, sondern fließt.
+## Quick mirror check
+
+Look at “Wrap Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Wrap Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Silhouette](/en/glossary/silhouette/)
+- [Camisole](/en/glossary/camisole/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

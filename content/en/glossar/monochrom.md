@@ -1,54 +1,93 @@
 ---
-title: "Was bedeutet monochrom?"
-term: "Monochrom"
-description: "Monochrom bedeutet, einen Look aus einer Farbfamilie aufzubauen. Das wirkt ruhig, langgezogen und oft sehr elegant."
-category: "Farbberatung & Farbe"
-tags: ["monochrom", "ton in ton", "farbberatung", "styling"]
-keywords: ["monochrom outfit", "monochrom kleidung", "ton in ton look", "farben kombinieren"]
 weight: 21
-image: "images/glossar/monochrom.png"
-image_alt: "Editoriale Grafik zum Glossarbegriff Monochrom mit ruhigen Farbfeldern und klarer Linienführung"
+image: images/glossar/monochrom.png
+title: What does Monochrome mean?
+seoTitle: Monochrome explained | ESKYNA Glossary
+term: Monochrome
+description: Monochrome is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - monochrome
+  - color consultation & color
+  - style glossary
+keywords:
+  - monochrome
+  - what is monochrome
+  - monochrome style advice
+slug: monochrome
+url: /glossary/monochrome/
+aliases:
+  - /glossar/monochrom/
+image_alt: Editorial glossary illustration for Monochrome
 relatedTerms:
-  - title: "Ton-in-Ton"
-    url: "/glossar/ton-in-ton/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
-  - title: "Farbpalette"
-    url: "/glossar/farbpalette/"
-  - title: "Helligkeit"
-    url: "/glossar/helligkeit/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Monochrome” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Monochrome” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Monochrom** bedeutet, dass ein Outfit aus einer Farbfamilie aufgebaut ist. Das kann ein Look in Beige, Blau, Grau, Braun oder auch Rosa sein. Wichtig ist nicht absolute Gleichheit, sondern die ruhige Farblogik.
+**Monochrome**: Monochrome is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Ein monochromer Look wirkt oft besonders elegant, weil das Auge nicht zwischen vielen Farben springen muss. Die Silhouette wird klarer, die Linie wirkt länger und Materialien werden sichtbarer.
+Monochrome gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Monochrom heißt nicht, dass jedes Teil exakt denselben Farbton haben muss. Im Gegenteil: Kleine Unterschiede in Helligkeit, Struktur und Material machen den Look lebendig.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum monochrome Looks wichtig sind
+## Why this matters in color consultation
 
-Monochrome Outfits sind ein gutes Mittel, um Ruhe in die Garderobe zu bringen. Sie funktionieren besonders gut, wenn du morgens schnell gut angezogen sein möchtest, ohne viel nachzudenken.
+When you understand Monochrome, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Sie helfen auch dabei, hochwertige Materialien sichtbar zu machen. Ein Outfit aus Creme, Beige und Camel lebt nicht von lauter Farbe, sondern von Strick, Wolle, Leder, Seide oder Leinen.
+In color consultation, Monochrome becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Monochrom bedeutet langweilig.  
-**Besser:** Monochrom braucht Tiefe durch Material, Schnitt und Helligkeit.
+- Check the role of Monochrome in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Monochrom funktioniert nur mit neutralen Farben.  
-**Besser:** Auch Blau, Grün, Rosa oder Bordeaux können monochrom getragen werden.
+## Common misconceptions
 
-## Praktisches Beispiel
+**Misconception:** Monochrome is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Ein Look aus cremefarbenem Strick, beiger Hose, Camel-Mantel und braunen Loafern wirkt ruhig und hochwertig. Die Farben bleiben in einer Familie, aber Material und Helligkeit sorgen für Spannung.
+**Misconception:** Monochrome works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Monochrom ist Reduktion mit Tiefe. Der Look wird nicht durch viele Farben stark, sondern durch bewusste Nuancen.
+Look at “Monochrome” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Monochrome works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

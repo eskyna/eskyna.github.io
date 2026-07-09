@@ -1,24 +1,43 @@
 ---
-title: "Was ist Saumlänge?"
-term: "Saumlänge"
-description: "Saumlänge beschreibt, wo ein Kleidungsstück endet und wie stark diese Linie Proportion, Schuhwahl und Wirkung beeinflusst."
-category: "Schnitt, Proportion & Passform"
-tags: ["saumlänge", "rocklänge", "hose", "proportion", "passform"]
-keywords: ["saumlänge", "was ist saumlänge", "richtige hosenlänge", "richtige rocklänge"]
+title: Was ist Saumlänge?
+term: Saumlänge
+description: Saumlänge beschreibt, wo ein Kleidungsstück endet und wie stark diese Linie Proportion,
+  Schuhwahl und Wirkung beeinflusst.
+category: Schnitt, Proportion & Passform
+tags:
+  - saumlänge
+  - rocklänge
+  - hose
+  - proportion
+  - passform
+keywords:
+  - saumlänge
+  - was ist saumlänge
+  - richtige hosenlänge
+  - richtige rocklänge
 weight: 19
-image: "images/glossar/saumlange.png"
-image_alt: "Editoriale Grafik mit Rock und Hose, markierten Saumlinien und feinen Proportionslinien"
+image: images/glossar/saumlange.png
+image_alt: Editoriale Grafik mit Rock und Hose, markierten Saumlinien und feinen Proportionslinien
 relatedTerms:
-  - title: "Rocklänge"
-    url: "/glossar/rocklange/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Layering"
-    url: "/glossar/layering/"
+  - title: Rocklänge
+    url: /glossar/rocklange/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Silhouette
+    url: /glossar/silhouette/
+  - title: Layering
+    url: /glossar/layering/
+faq:
+  items:
+    - q: Wie nutze ich „Saumlänge“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
+        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Saumlänge“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +75,17 @@ Für ESKYNA ist Saumlänge ein präzises Styling-Werkzeug. Sie hilft, Proportion
 ## ESKYNA-Merksatz
 
 Saumlänge ist eine stille Linie. Sie entscheidet oft, ob ein Look ausgewogen wirkt.
+
+## Praxischeck
+
+Wenn du den Begriff **Saumlänge** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schnitt und Passform entscheiden, ob ein Outfit ruhig, langgezogen, kompakt, weich oder präzise wirkt.
+
+- Sieh dir die Linien im Spiegel aus zwei Metern Abstand an.
+- Prüfe Schulter, Taille, Saum und Bewegungsfreiheit getrennt.
+- Kombiniere das Teil mit den Schuhen, die du tatsächlich dazu tragen würdest.
+
+## Beratungsblick
+
+In der Beratung ist **Saumlänge** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

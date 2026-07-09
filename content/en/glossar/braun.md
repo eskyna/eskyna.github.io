@@ -1,65 +1,94 @@
 ---
-title: "Braun im Stil erklärt"
-term: "Braun"
-description: "Braun bringt Ruhe, Wärme und Tiefe in die Garderobe und ist eine weiche Alternative zu Schwarz."
-category: "Farb-Lexikon"
-color_hex: "#5B3A29"
-tags: ["braun", "farbe", "farbberatung", "neutrale farben"]
-keywords: ["braun kleidung", "braun kombinieren", "espresso farbe", "stilberatung"]
 weight: 5
-image: "images/glossar/braun.png"
-image_alt: "Editoriale Grafik mit Braun-Nuancen, Lederakzenten und warmen Kombinationsfarben"
+image: images/glossar/braun.png
+color_hex: "#5B3A29"
+title: What does Brown mean?
+seoTitle: Brown explained | ESKYNA Glossary
+term: Brown
+description: Brown is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - brown
+  - color lexicon
+  - style glossary
+keywords:
+  - brown
+  - what is brown
+  - brown style advice
+slug: brown
+url: /glossary/brown/
+aliases:
+  - /glossar/braun/
+image_alt: Editorial glossary illustration for Brown
 relatedTerms:
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Camel"
-    url: "/glossar/camel/"
-  - title: "Terracotta"
-    url: "/glossar/terracotta/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+faq:
+  items:
+    - q: How can I use “Brown” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Brown” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Braun
+## Definition
 
-Braun wirkt geerdet, warm und erwachsen. Es kann einem Outfit Tiefe geben, ohne so hart zu erscheinen wie Schwarz. In guten Materialien wirkt Braun ruhig, hochwertig und sehr modern.
+**Brown**: Brown is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Braun wirkt
+## In simple words
 
-Braun nimmt Spannung aus sehr harten Kontrasten und bringt Wärme in neutrale Looks. Ein brauner Mantel wirkt weicher als ein schwarzer. Eine braune Lederhose wirkt weniger streng als Schwarz, aber immer noch stark. Ein espressofarbener Blazer kann im Business genauso souverän wirken wie Navy oder Anthrazit.
+Brown gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Wirkung hängt stark vom Material ab. Braun in Leder wirkt urban und satt. Braun in Wolle wirkt warm und klassisch. Braun in Seide wirkt tief und elegant. Braun in Baumwolle oder Cord wirkt natürlicher und entspannter.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Braun
+## Why this matters in color styling
 
-- **Espresso:** Sehr dunkel und klar. Eine elegante Alternative zu Schwarz.
-- **Schokoladenbraun:** Tief, weich und hochwertig. Besonders schön zu Creme und Gold.
-- **Cognac:** Wärmer und lebendiger. Stark bei Leder, Schuhen und Taschen.
-- **Karamell:** Heller, goldiger und freundlicher. Schön zu Denim und Weiß.
-- **Taupe:** Gedämpft und neutraler. Gut für ruhige, moderne Looks.
+When you understand Brown, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Braun kombinieren
+With Brown, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-- **Braun + Creme:** Weich, warm und hochwertig
-- **Braun + Hellblau:** Frisch und modern
-- **Braun + Navy:** Ruhig, erwachsen und professionell
-- **Braun + Schwarz:** Stark und elegant, wenn die Materialien Tiefe haben
-- **Braun + Rosa:** Sanft, fein und zugänglich
+## What to pay attention to
 
-## Braun im Business und Alltag
+- Check the role of Brown in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-Im Business funktioniert Braun besonders gut in dunklen Nuancen wie Espresso, Schokolade oder Taupe. Der Schnitt sollte klar bleiben, damit die Farbe nicht zu gemütlich wirkt. Im Alltag darf Braun weicher werden, zum Beispiel in Strick, Wildleder, Cord oder Taschen.
+## Common misconceptions
 
-## Für wen und wo Braun funktioniert
+**Misconception:** Brown is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Braun ist wertvoll für Menschen, denen Schwarz zu hart erscheint. Die passende Nuance hängt von [Farbtyp](/glossar/farbtyp/) und Unterton ab. Warmes Cognac wirkt anders als kühles Taupe. Als Schuh, Gürtel oder Tasche kann Braun selbst sehr reduzierte Looks sofort wärmer machen.
+**Misconception:** Brown works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Braun ist Tiefe mit Wärme. Es wirkt elegant, wenn es nicht zufällig, sondern bewusst gewählt wird.
+Look at “Brown” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Brown works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)

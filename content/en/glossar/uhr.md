@@ -1,54 +1,92 @@
 ---
-title: "eine Uhr im Stil"
-term: "Uhr"
-description: "Eine Uhr ist funktionales Accessoire und Stilzeichen zugleich, weil sie Material, Metallton und Haltung sichtbar macht."
-category: "Materialien & Details"
-tags: ["uhr", "accessoire", "schmuck", "metall", "styling"]
-keywords: ["uhr styling", "uhr als accessoire", "uhr kombinieren"]
 weight: 25
-image: "images/glossar/uhr.png"
-image_alt: "Editoriale Grafik zu Uhr mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image: images/glossar/uhr.png
+title: What does Watch mean?
+seoTitle: Watch explained | ESKYNA Glossary
+term: Watch
+description: Watch is a material or detail term that influences quality, comfort, texture, and the
+  overall impression of an outfit.
+category: Materials & Details
+tags:
+  - watch
+  - materials & details
+  - style glossary
+keywords:
+  - watch
+  - what is watch
+  - watch style advice
+slug: watch
+url: /glossary/watch/
+aliases:
+  - /glossar/uhr/
+image_alt: Editorial glossary illustration for Watch
 relatedTerms:
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
-  - title: "Feinschmuck"
-    url: "/glossar/feinschmuck/"
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Silber"
-    url: "/glossar/silber/"
-  - title: "Quiet Luxury"
-    url: "/glossar/quiet-luxury/"
+  - title: Gold
+    url: /en/glossary/gold/
+  - title: Quiet Luxury
+    url: /en/glossary/quiet-luxury/
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+faq:
+  items:
+    - q: How can I use “Watch” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Watch” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Uhr** ist funktional, aber im Stil auch ein sichtbares Accessoire. Sie wirkt über Größe, Zifferblatt, Band, Metallton und Material.
+**Watch**: Watch is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Eine feine Uhr wirkt elegant und zurückhaltend. Eine große Uhr wirkt sportlicher oder präsenter. Lederband, Metallband und Textilband senden unterschiedliche Signale.
+Watch gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Uhr sitzt an der Hand und ist bei Gesten sichtbar. Deshalb sollte sie mit Schmuck, Gürtel, Tasche und allgemeiner Stilrichtung harmonieren.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters for quality
 
-Eine Uhr kann einen Look sehr erwachsen und geordnet wirken lassen. Sie ist ein kleines Detail, das oft unterschätzt wird.
+When you understand Watch, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Watch, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-- Stimme Metallton auf Schmuck ab.
-- Wähle Gehäusegröße passend zum Handgelenk.
-- Prüfe, ob die Uhr sportlich, klassisch oder elegant wirken soll.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Watch in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Uhren sind nur funktional.  
-**Besser:** Sie sind sichtbare Stilzeichen, besonders im Business.
+## Common misconceptions
 
-**Missverständnis:** Eine teure Uhr wirkt automatisch gut.  
-**Besser:** Proportion, Material und Kontext entscheiden über die Wirkung.
+**Misconception:** Watch is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Watch works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Eine Uhr zeigt nicht nur Zeit. Sie zeigt auch Ordnung, Materialgefühl und Haltung.
+## Quick mirror check
+
+Look at “Watch” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Watch works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Gold](/en/glossary/gold/)
+- [Quiet Luxury](/en/glossary/quiet-luxury/)
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)

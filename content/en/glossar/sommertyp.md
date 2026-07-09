@@ -1,46 +1,93 @@
 ---
-title: "Was bedeutet Sommertyp?"
-term: "Sommertyp"
-description: "Der Sommertyp ist ein kühler, oft gedämpfter Farbtyp, der mit weichen und ruhigen Farben harmoniert."
-category: "Farbberatung & Farbe"
-tags: ["sommertyp", "farbtyp", "farbberatung", "summer type"]
-keywords: ["sommertyp", "light summer", "soft summer", "cool summer", "sommer farbtyp"]
 weight: 8
+title: What does Summer Color Type mean?
+seoTitle: Summer Color Type explained | ESKYNA Glossary
+term: Summer Color Type
+description:
+  Summer Color Type is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - summer color type
+  - color consultation & color
+  - style glossary
+keywords:
+  - summer color type
+  - what is summer color type
+  - summer color type style advice
+slug: summer-color-type
+url: /glossary/summer-color-type/
+aliases:
+  - /glossar/sommertyp/
+image_alt: Editorial glossary illustration for Summer Color Type
 relatedTerms:
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Gedämpfte Farben"
-    url: "/glossar/gedaempfte-farben/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Farbpass"
-    url: "/glossar/farbpass/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Summer Color Type” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Summer Color Type” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Der **Sommertyp** ist ein kühler Farbtyp, dessen beste Farben oft weich, leicht rauchig und weniger hart wirken. Viele Sommertoene leben von Zurückhaltung statt von maximaler Leuchtkraft.
+**Summer Color Type**: Summer Color Type is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Typisch sind kühle Blau-, Rosa-, Mauve- und Graunuancen sowie sanfte Neutrale. Im Vergleich zum Winter wirken sie oft weicher und weniger kontrastreich.
+Summer Color Type gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Haeufige Untergruppen sind **Light Summer** für helle, zarte Varianten, **Soft Summer** für besonders weiche und gedeckte Toene und **Cool Summer** für klar kühlere Auspraegungen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum der Begriff wichtig ist
+## Why this matters in color consultation
 
-Der Sommertyp zeigt, warum zu harte oder zu warme Farben schnell unruhig wirken können, während kühle, sanfte Nuancen Ruhe und Frische bringen.
+When you understand Summer Color Type, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## ESKYNA-Merksatz
+In color consultation, Summer Color Type becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-Beim Sommertyp entsteht Wirkung oft durch Kühle mit Weichheit.
+## What to pay attention to
 
-## Verwandte Begriffe
+- Check the role of Summer Color Type in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- [Farbtyp](/glossar/farbtyp/)
-- [Unterton](/glossar/unterton/)
-- [Gedämpfte Farben](/glossar/gedaempfte-farben/)
-- [Farbtemperatur](/glossar/farbtemperatur/)
-- [Farbpass](/glossar/farbpass/)
+## Common misconceptions
+
+**Misconception:** Summer Color Type is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Summer Color Type works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Summer Color Type” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Summer Color Type works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

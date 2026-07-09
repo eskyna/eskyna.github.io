@@ -1,66 +1,94 @@
 ---
-title: "Terracotta im Stil erklärt"
-term: "Terracotta"
-description: "Terracotta ist ein erdiger Orange-Braunton, der warm, natürlich und erwachsen wirkt."
-category: "Farb-Lexikon"
-color_hex: "#B66A4A"
-tags: ["terracotta", "farbe", "orange", "braun"]
-keywords:
-  ["terracotta kleidung", "terracotta kombinieren", "erdige farben", "farbberatung terracotta"]
 weight: 17
-
-image: "images/glossar/terracotta.png"
-image_alt: "Editoriale Grafik mit Terracotta-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur"
+image: images/glossar/terracotta.png
+color_hex: "#B66A4A"
+title: What does Terracotta mean?
+seoTitle: Terracotta explained | ESKYNA Glossary
+term: Terracotta
+description: Terracotta is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - terracotta
+  - color lexicon
+  - style glossary
+keywords:
+  - terracotta
+  - what is terracotta
+  - terracotta style advice
+slug: terracotta
+url: /glossary/terracotta/
+aliases:
+  - /glossar/terracotta/
+image_alt: Editorial glossary illustration for Terracotta
 relatedTerms:
-  - title: "Orange"
-    url: "/glossar/orange/"
-  - title: "Braun"
-    url: "/glossar/braun/"
-  - title: "Camel"
-    url: "/glossar/camel/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Senfgelb"
-    url: "/glossar/senfgelb/"
-  - title: "Oliv"
-    url: "/glossar/oliv/"
+  - title: Orange
+    url: /en/glossary/orange/
+  - title: Camel
+    url: /en/glossary/camel/
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Terracotta” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Terracotta” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Terracotta
+## Definition
 
-Terracotta ist ein erdiger Ton zwischen Orange, Braun und Rost. Die Farbe wirkt warm, natürlich und erwachsen. Sie bringt Farbe in den Look, ohne so laut zu sein wie klares Orange.
+**Terracotta**: Terracotta is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-Besonders schön wirkt Terracotta in Materialien mit Struktur: Leinen, Wildleder, Strick, Wolle oder matter Baumwolle. In glatten, glänzenden Stoffen wird die Farbe sofort eleganter und etwas festlicher.
+## In simple words
 
-## Wie Terracotta wirkt
+Terracotta gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Terracotta hat Tiefe und Wärme. Es kann mediterran, natürlich oder modern wirken. Die Farbe passt besonders gut zu ruhigen Naturtönen, Denim und warmen Metallen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Im Vergleich zu Rot wirkt Terracotta weniger dramatisch. Im Vergleich zu Braun wirkt es lebendiger. Genau diese Zwischenposition macht es für viele Garderoben interessant.
+## Why this matters in color styling
 
-## Nuancen und Materialien
+When you understand Terracotta, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- **Helles Terracotta:** Sommerlicher und weicher.
-- **Rost:** Dunkler, intensiver und urbaner.
-- **Ziegelrot:** Roter und klarer.
-- **Kupferbraun:** Wärmer und metallischer in der Wirkung.
+With Terracotta, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-Terracotta in Leinen wirkt leicht und natürlich. Terracotta in Strick wirkt warm. Terracotta in Leder wirkt hochwertig. Terracotta in Seide wirkt überraschend elegant.
+## What to pay attention to
 
-## Kombinationen, die funktionieren
+- Check the role of Terracotta in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- Terracotta + Creme: weich und warm
-- Terracotta + Beige: natürlich und ruhig
-- Terracotta + Denim: entspannt und modern
-- Terracotta + Oliv: erdig und harmonisch
-- Terracotta + Gold: warm und elegant
+## Common misconceptions
 
-## Im Business und Alltag
+**Misconception:** Terracotta is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Terracotta funktioniert im Business gut in gedeckten Nuancen, zum Beispiel als Bluse, Stricktop oder Accessoire zu Navy, Grau oder Braun. Im Alltag kann die Farbe größer getragen werden, besonders in Kleidern, Hosen, Strick und Leinen.
+**Misconception:** Terracotta works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Terracotta ist Farbe mit Bodenhaftung. Warm, ruhig und deutlich erwachsener als klares Orange.
+Look at “Terracotta” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Terracotta works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Orange](/en/glossary/orange/)
+- [Camel](/en/glossary/camel/)
+- [Beige](/en/glossary/beige/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)

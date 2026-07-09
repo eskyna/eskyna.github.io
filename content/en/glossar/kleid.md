@@ -1,61 +1,93 @@
 ---
-title: "Was ist ein Kleid?"
-term: "Kleid"
-description: "Ein Kleid ist ein einteiliges Kleidungsstück, dessen Wirkung durch Schnitt, Länge, Material und Anlass bestimmt wird."
-category: "Garderobe & Alltag"
-tags:
-  - "kleid"
-  - "schnitt"
-  - "silhouette"
-  - "anlass"
-keywords:
-  - "kleid"
-  - "was ist ein kleid"
-  - "kleiderformen"
 weight: 5
-image: "images/glossar/kleid.png"
-image_alt: "Editoriale Grafik zu Kleid mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt"
+image: images/glossar/kleid.png
+title: What does Dress mean?
+seoTitle: Dress explained | ESKYNA Glossary
+term: Dress
+description: Dress is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - dress
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - dress
+  - what is dress
+  - dress style advice
+slug: dress
+url: /glossary/dress/
+aliases:
+  - /glossar/kleid/
+image_alt: Editorial glossary illustration for Dress
 relatedTerms:
-  - title: "Etuikleid"
-    url: "/glossar/etuikleid/"
-  - title: "Wickelkleid"
-    url: "/glossar/wickelkleid/"
-  - title: "Slip Dress"
-    url: "/glossar/slip-dress/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Rocklänge"
-    url: "/glossar/rocklange/"
+  - title: Slip Dress
+    url: /en/glossary/slip-dress/
+  - title: Silhouette
+    url: /en/glossary/silhouette/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Dress” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Kleid** ist ein einteiliges Kleidungsstück für Oberkörper und Unterkörper. Es kann schlicht, festlich, weich, klar, körpernah oder fließend wirken.
+**Dress**: Dress is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Das Wort Kleid sagt noch wenig über die Wirkung. Ein Etuikleid wirkt anders als ein Wickelkleid, ein Slip Dress anders als ein Strickkleid. Schnitt, Länge, Material und Ausschnitt bestimmen den Charakter.
-Ein Kleid kann ein schneller Look sein, weil Oberteil und Unterteil bereits verbunden sind. Trotzdem braucht es Styling: Schuhe, Schmuck, Jacke und Tasche entscheiden, ob es alltagstauglich, businessnah oder festlich wirkt.
+Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum dieser Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Kleider sind wichtig, weil sie Silhouette und Wirkung besonders direkt zeigen. Schon kleine Details wie Taille, Saum oder Materialfall verändern das gesamte Bild.
+## Why this matters in your wardrobe
 
-## Worauf du achten solltest
+When you understand Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- Achte darauf, wo die Taille sitzt.
-- Die Länge sollte zu Schuh und Anlass passen.
-- Fließende Stoffe wirken weicher, feste Stoffe strukturierter.
-- Ein Blazer oder Cardigan kann die Wirkung stark verändern.
+With Dress, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Typische Missverständnisse
+## What to pay attention to
 
-**Missverständnis:** Ein Kleid ist automatisch feminin.  
-**Besser:** Je nach Schnitt kann ein Kleid weich, klar, streng, modern oder sehr reduziert wirken.
+- Check the role of Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ein Kleid braucht wenig Styling.  
-**Besser:** Gerade weil es einteilig ist, entscheiden Details über die Wirkung.
+## Common misconceptions
 
-## ESKYNA-Merksatz
+**Misconception:** Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-Ein Kleid ist kein fertiger Stil. Es ist eine Silhouette, die durch Material, Länge und Styling lesbar wird.
+**Misconception:** Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Slip Dress](/en/glossary/slip-dress/)
+- [Silhouette](/en/glossary/silhouette/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

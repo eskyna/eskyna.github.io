@@ -1,53 +1,93 @@
 ---
-title: "Mary Jane Schuh"
-term: "Mary Jane"
-description: "Mary Janes sind Schuhe mit Riemchen über dem Spann und wirken je nach Form klassisch, feminin oder modern."
-category: "Schuhe"
-tags: ["mary jane", "schuhe", "ballerina", "riemen"]
-keywords: ["mary jane schuh", "was sind mary janes", "riemchenschuh"]
 weight: 11
-image: "images/glossar/mary-jane.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Mary Jane mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/mary-jane.png
+title: What does Mary Jane mean?
+seoTitle: Mary Jane explained | ESKYNA Glossary
+term: Mary Jane
+description: Mary Jane is a footwear term that influences proportion, comfort, dress code, and the
+  final mood of a look.
+category: Shoes
+tags:
+  - mary jane
+  - shoes
+  - style glossary
+keywords:
+  - mary jane
+  - what is mary jane
+  - mary jane style advice
+slug: mary-jane
+url: /glossary/mary-jane/
+aliases:
+  - /glossar/mary-jane/
+image_alt: Editorial glossary illustration for Mary Jane
 relatedTerms:
-  - title: "Ballerina"
-    url: "/glossar/ballerina/"
-  - title: "Pumps"
-    url: "/glossar/pumps/"
-  - title: "Loafer"
-    url: "/glossar/loafer/"
-  - title: "Kleid"
-    url: "/glossar/kleid/"
+  - title: Ballerina
+    url: /en/glossary/ballerina/
+  - title: Pumps
+    url: /en/glossary/pumps/
+  - title: Loafer
+    url: /en/glossary/loafer/
+  - title: Shoe-Hem Relationship
+    url: /en/glossary/shoe-hem-relationship/
+  - title: Toe Shape
+    url: /en/glossary/toe-shape/
+faq:
+  items:
+    - q: How can I use “Mary Jane” in real outfits?
+      a:
+        Use it as a checkpoint for posture, proportion, comfort, and formality. Use it to understand
+        how footwear changes the line and character of the whole outfit.
+    - q: Does “Mary Jane” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Mary Jane**: Mary Janes sind Schuhe mit einem oder mehreren Riemchen über dem Spann. Sie können flach sein, einen Blockabsatz haben oder als Pumps interpretiert werden.
+**Mary Jane**: Mary Jane is a footwear term that influences proportion, comfort, dress code, and the final mood of a look.
 
-## Einfach erklärt
+## In simple words
 
-Der Riemen ist das prägende Detail. Er gibt dem Schuh Halt und eine erkennbare Linie. Runde Formen wirken weicher und klassischer. Spitze oder eckige Formen wirken moderner.
+Mary Jane gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Mary Janes passen zu Kleidern, Röcken, Jeans und Anzughosen. Sie können einen Look femininer machen, ohne direkt festlich zu wirken.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Mary Jane wichtig ist
+## Why this matters in styling shoes
 
-Mary Janes sind interessant, weil sie zwischen Ballerina, Pumps und Alltagsschuh stehen. Sie bringen ein bewusstes Detail an den Fuß.
+When you understand Mary Jane, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Mary Jane, check the relationship between shoe shape, hem length, posture, comfort, and dress code. Shoes can make an outfit sharper or more relaxed immediately.
 
-- Achte darauf, dass der Riemen nicht einschneidet.
-- Wähle Absatzhöhe passend zum Alltag.
-- Prüfe, ob die Schuhspitze den Look weich oder klar macht.
-- Kombiniere sie mit schlichten Teilen, wenn sie stark wirken.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Mary Jane in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Mary Janes sind kindlich.  
-**Besser:** In Leder, Lack, spitzer Form oder mit Blockabsatz können sie sehr erwachsen wirken.
+## Common misconceptions
 
-**Missverständnis:** Sie passen nur zu Kleidern.  
-**Besser:** Auch mit Jeans oder Anzughose können sie modern aussehen.
+**Misconception:** Mary Jane is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Mary Jane works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Mary Janes setzen ein feines Zeichen am Fuß. Der Riemen macht den Unterschied.
+## Quick mirror check
+
+Look at “Mary Jane” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Mary Jane works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Ballerina](/en/glossary/ballerina/)
+- [Pumps](/en/glossary/pumps/)
+- [Loafer](/en/glossary/loafer/)
+- [Shoe-Hem Relationship](/en/glossary/shoe-hem-relationship/)
+- [Toe Shape](/en/glossary/toe-shape/)

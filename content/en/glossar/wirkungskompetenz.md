@@ -1,52 +1,144 @@
 ---
-title: "Was bedeutet Wirkungskompetenz?"
-term: "Wirkungskompetenz"
-description: "Wirkungskompetenz ist die Fähigkeit, die eigene aeussere Wirkung bewusst zu verstehen, zu steuern und passend einzusetzen."
-category: "Stil & Wirkung"
-tags: ["wirkungskompetenz", "wirkung", "image", "stilberatung"]
-keywords: ["wirkungskompetenz", "aussere wirkung", "wirkung bewusst steuern"]
 weight: 8
+title: What does Impact Competence mean?
+seoTitle: Impact Competence explained | ESKYNA Glossary
+term: Impact Competence
+description:
+  Impact Competence is a style concept that helps you understand presence and make more conscious styling
+  decisions.
+category: Style & Impact
+tags:
+  - impact competence
+  - style & impact
+  - style glossary
+keywords:
+  - impact competence
+  - what is impact competence
+  - impact competence style advice
+slug: impact-competence
+url: /glossary/impact-competence/
+aliases:
+  - /glossar/wirkungskompetenz/
+image_alt: Editorial glossary illustration for Impact Competence
 relatedTerms:
-  - title: "Wirkung"
-    url: "/glossar/wirkung/"
-  - title: "Wirkungsprofil"
-    url: "/glossar/wirkungsprofil/"
-  - title: "Imageberatung"
-    url: "/glossar/imageberatung/"
-  - title: "Stilanalyse"
-    url: "/glossar/stilanalyse/"
-  - title: "Auftreten"
-    url: "/glossar/auftreten/"
+  - title: Personal Style
+    url: /en/glossary/personal-style/
+  - title: Signature Look
+    url: /en/glossary/signature-look/
+  - title: Impact
+    url: /en/glossary/impact/
+  - title: Style Consultation
+    url: /en/glossary/style-consultation/
+  - title: Presence
+    url: /en/glossary/presence/
+faq:
+  items:
+    - q: How can I use “Impact Competence” in real outfits?
+      a:
+        Use it as a checkpoint for presence, personality, and visual message. Use it to make your appearance feel
+        more coherent, precise, and authentic.
+    - q: Does “Impact Competence” work the same way for everyone?
+      a: No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style direction.
+    - q: Is Impact Competence only a fashion topic?
+      a:
+        No. Impact Competence becomes useful when it leads to concrete decisions for clothing, impact, and daily
+        life.
+lastmod: "2026-07-09"
+commercial_intent: true
+commercial_weight: 46
+commercial_cluster: image
+editorial_depth: mini-case-offer-bridge
+content_level: commercial-pillar
+consulting_questions:
+  - What impact should appear in the room, on photos, or in a professional setting?
+  - Which visual signals support competence, warmth, or authority?
+  - Which clothing decisions truly strengthen your presence?
+consulting_focus:
+  Impact Competence becomes especially relevant in consultation when a concept needs to turn into
+  a concrete decision for clothing, impact, or wardrobe planning.
+offer_bridge:
+  kicker: Relevant ESKYNA offer
+  title: Shape your visual impact consciously
+  text:
+    When the term is connected to visibility, work, camera, or public presence, style becomes a clear signal
+    of competence, personality, and presence.
+  bullets:
+    - define the intended impact
+    - check professional signals
+    - connect presence and clothing
+  primary_label: Explore ESKYNA Presence
+  primary_url: /en/presence/
+  secondary_label: Ask a style question
+  secondary_url: /en/style-question/
 ---
 
 ## Definition
 
-**Wirkungskompetenz** ist die Fähigkeit, die eigene Wirkung nach aussen wahrzunehmen und bewusst zu gestalten. Dazu gehören Kleidung, Farben, Körpersprache, Stimme und Auftreten.
+**Impact Competence**: Impact Competence is a style concept that helps you understand presence and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Viele Menschen merken, dass ihre Kleidung etwas ausloest, können es aber nicht genau benennen. Wirkungskompetenz schliesst diese Luecke.
+Impact Competence gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Sie hilft zu verstehen, warum ein Look glaubwürdig, nahbar, führungsstark, weich oder unentschieden wirkt und wie sich das gezielt verändern lässt.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum der Begriff wichtig ist
+## Why this matters for your image
 
-Wirkungskompetenz macht Stil strategisch nutzbar. Nicht als Maske, sondern als klares Werkzeug für Alltag, Beruf und Sichtbarkeit.
+When you understand Impact Competence, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Typische Missverständnisse
+With Impact Competence, the important question is what it communicates. A strong look is not only attractive; it also supports the role, mood, and presence you want to show.
 
-**Missverständnis:** Wirkungskompetenz ist nur für öffentliche Rollen relevant.
+## What to pay attention to
 
-**Besser:** Sie erleichtert auch im Alltag Entscheidungen, weil die eigene Linie klarer wird.
+- Check the role of Impact Competence in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## ESKYNA-Merksatz
+## Common misconceptions
 
-Wirkungskompetenz beginnt dort, wo Stil nicht nur gefällt, sondern verstanden wird.
+**Misconception:** Impact Competence is only a fashion word.
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Verwandte Begriffe
+**Misconception:** Impact Competence works the same way for everyone.
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-- [Wirkung](/glossar/wirkung/)
-- [Wirkungsprofil](/glossar/wirkungsprofil/)
-- [Imageberatung](/glossar/imageberatung/)
-- [Stilanalyse](/glossar/stilanalyse/)
-- [Auftreten](/glossar/auftreten/)
+## Quick mirror check
+
+Look at “Impact Competence” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Impact Competence works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Personal Style](/en/glossary/personal-style/)
+- [Signature Look](/en/glossary/signature-look/)
+- [Impact](/en/glossary/impact/)
+- [Style Consultation](/en/glossary/style-consultation/)
+- [Presence](/en/glossary/presence/)
+
+<!-- commercial-depth-start -->
+
+## Real consulting situation
+
+With **Impact Competence**, the consulting question becomes practical when a beautiful definition has to become a real decision: what stays, what is combined differently, what is worth buying, and what can be left out? Often the issue is not one garment, but the missing logic behind it.
+
+## Mini case: from doubt to decision
+
+A typical client may understand **Impact Competence** in theory, yet still lack a reliable filter in front of the mirror. We check existing pieces, compare alternatives, and translate the idea into two or three clear rules for daily life, work, and special occasions. This turns uncertainty into a decision you can repeat.
+
+## Decision filter before your next purchase
+
+- Does the decision support your intended impact?
+- Does it work with color, cut, proportion, and your existing wardrobe?
+- Can you combine it with at least three pieces you already own?
+- Does it still feel right after a long day?
+
+## How to know that support would help
+
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Impact Competence** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Presence](/en/presence/) if you want to turn this idea into a clear style decision.
+
+<!-- commercial-depth-end -->

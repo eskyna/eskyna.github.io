@@ -25,7 +25,9 @@
     "translation-sync:apply": "node bin/translation-sync --sync",
     "test:responsive": "playwright test tests/responsive.spec.js",
     "test:responsive:update": "playwright test tests/responsive.spec.js --update-snapshots",
-    "lint:copy": "node bin/check-copy-style"
+    "lint:copy": "node bin/check-copy-style",
+    "check:glossary-quality": "node bin/check-glossary-quality",
+    "check:commercial-glossary": "node bin/check-commercial-glossary"
   },
   "devDependencies": {
     "@playwright/test": "^1.61.1",

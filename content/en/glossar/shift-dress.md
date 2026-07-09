@@ -1,65 +1,93 @@
 ---
-title: "Was bedeutet Shift Dress?"
-term: "Shift Dress"
-description: "Ein Shift Dress ist ein gerade geschnittenes Kleid ohne starke Taillierung und mit klarer, reduzierter Wirkung."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "shift dress"]
-keywords: ["shift dress", "was bedeutet shift dress", "shift dress stilberatung"]
 weight: 1
-image: "images/glossar/shift-dress.png"
-image_alt: "Editoriale Glossar-Grafik zu Shift Dress mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/shift-dress.png
+title: What does Shift Dress mean?
+seoTitle: Shift Dress explained | ESKYNA Glossary
+term: Shift Dress
+description: Shift Dress is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - shift dress
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - shift dress
+  - what is shift dress
+  - shift dress style advice
+slug: shift-dress
+url: /glossary/shift-dress/
+aliases:
+  - /glossar/shift-dress/
+image_alt: Editorial glossary illustration for Shift Dress
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Shift Dress” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Shift Dress” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Shift Dress**: Ein Shift Dress ist ein gerade geschnittenes Kleid ohne starke Taillierung und mit klarer, reduzierter Wirkung.
+**Shift Dress**: Shift Dress is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+Shift Dress gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Shift Dress wichtig ist
+## Why this matters in your wardrobe
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Shift Dress, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Shift Dress, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Shift Dress, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Shift Dress im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Shift Dress in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Shift Dress ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Shift Dress is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Shift Dress funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Shift Dress works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Shift Dress wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Shift Dress” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+Shift Dress works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

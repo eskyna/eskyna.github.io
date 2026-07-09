@@ -1,62 +1,94 @@
 ---
-title: "Oliv im Stil erklärt"
-term: "Oliv"
-description: "Oliv ist ein gedämpftes Grün mit Gelb- oder Braunanteil. Die Farbe wirkt natürlich, urban und geerdet."
-category: "Farb-Lexikon"
-color_hex: "#6B6A3F"
-tags: ["oliv", "gruen", "farbe", "khaki", "farbberatung"]
-keywords: ["oliv kleidung", "oliv kombinieren", "olivgrün", "farbberatung"]
 weight: 24
-image: "images/glossar/oliv.png"
-image_alt: "Editoriale Grafik zu Oliv mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/oliv.png
+color_hex: "#6B6A3F"
+title: What does Olive mean?
+seoTitle: Olive explained | ESKYNA Glossary
+term: Olive
+description: Olive is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - olive
+  - color lexicon
+  - style glossary
+keywords:
+  - olive
+  - what is olive
+  - olive style advice
+slug: olive
+url: /glossary/olive/
+aliases:
+  - /glossar/oliv/
+image_alt: Editorial glossary illustration for Olive
 relatedTerms:
-  - title: "Grün"
-    url: "/glossar/gruen/"
-  - title: "Khaki"
-    url: "/glossar/khaki/"
-  - title: "Braun"
-    url: "/glossar/braun/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
+  - title: Khaki
+    url: /en/glossary/khaki/
+  - title: Chinos
+    url: /en/glossary/chinos/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+faq:
+  items:
+    - q: How can I use “Olive” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Olive” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Oliv
+## Definition
 
-Oliv ist ein erdiges Grün mit Gelb- oder Braunanteil. Es wirkt natürlicher und urbaner als klares Grün.
+**Olive**: Olive is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Oliv wirkt
+## In simple words
 
-Oliv kann lässig, funktional und modern wirken. In Parkas, Cargohosen oder Jacken erinnert es an Utility-Stil. In Seide, Feinstrick oder einem klar geschnittenen Kleidungsstück wird Oliv deutlich eleganter. Die Farbe eignet sich gut, um einem Look Tiefe zu geben, ohne dunkel und formell zu wirken.
+Olive gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Oliv
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Gelbliches Oliv:** Wärmer und sichtbarer.
-- **Braunes Oliv:** Erdiger, ruhiger und gut zu Naturtönen.
-- **Dunkles Oliv:** Tiefer und erwachsener, schön zu Schwarz und Creme.
-- **Graues Oliv:** Gedämpfter und moderner.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Olive, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Baumwolle wirkt Oliv casual. In Leinen wird es natürlich. In Leder bekommt es eine urbane Stärke. In Seide oder Satin entsteht ein spannender Kontrast zwischen Farbe und Glanz.
+With Olive, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Oliv kombinieren
+## What to pay attention to
 
-- **Oliv + Creme:** ruhig und weich
-- **Oliv + Schwarz:** urban und klar
-- **Oliv + Denim:** entspannt und alltagstauglich
-- **Oliv + Cognac:** warm und geerdet
-- **Oliv + Gold:** wärmer und eleganter
+- Check the role of Olive in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Oliv im Business und Alltag
+## Common misconceptions
 
-Oliv ist im Business am besten in klaren Schnitten. Ein olivfarbener Blazer, eine schlichte Hose oder eine Seidenbluse wirken moderner als klassische Neutralfarben, bleiben aber tragbar.
+**Misconception:** Olive is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Oliv funktioniert
+**Misconception:** Olive works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Oliv ist besonders interessant für warme oder gedämpfte Farbwelten. Wenn es nahe am Gesicht müde wirkt, funktioniert es als Hose, Rock, Tasche oder Schuh sehr gut.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Olive” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Oliv wirkt modern, wenn es bewusst veredelt wird. Der Schnitt entscheidet, ob es funktional oder elegant erscheint.
+## ESKYNA note
+
+Olive works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Khaki](/en/glossary/khaki/)
+- [Chinos](/en/glossary/chinos/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)

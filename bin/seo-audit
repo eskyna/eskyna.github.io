@@ -85,8 +85,14 @@ function normalizePath(filePath) {
   return filePath.split(path.sep).join("/");
 }
 
+function isGlossaryPath(filePath) {
+  const normalized = normalizePath(filePath);
+  return /(^|\/)(glossar|glossary|glossariy)(\/|$)/.test(normalized);
+}
+
 function isExcludedPath(filePath) {
   const relativePath = normalizePath(path.relative(process.cwd(), filePath));
+
   for (const excludedDir of EXCLUDED_DIRS) {
     if (relativePath === excludedDir || relativePath.startsWith(`${excludedDir}/`)) {
       return true;
@@ -99,6 +105,11 @@ function auditFile(filePath) {
   try {
     const content = fs.readFileSync(filePath, "utf8");
     const relativePath = path.relative(process.cwd(), filePath);
+
+    // Hugo alias pages are redirect stubs and should not be treated like full SEO pages.
+    if (/<meta\s+http-equiv\s*=\s*["']?refresh["']?/i.test(content)) {
+      return;
+    }
 
     // Check for language attribute in html tag
     if (!/<html[^>]*lang\s*=/i.test(content)) {
@@ -142,7 +153,7 @@ function auditFile(filePath) {
       }
 
       if (textMatch && !hasAriaLabel) {
-        if (!text) {
+        if (!text && !isGlossaryPath(relativePath)) {
           issues.linksNoText.push({
             file: relativePath,
             link: fullLink.substring(0, 80) + (fullLink.length > 80 ? "..." : ""),
@@ -194,7 +205,7 @@ function auditFile(filePath) {
       const titleMatch = /<title>([^<]*)<\/title>/i.exec(content);
       if (titleMatch) {
         const title = titleMatch[1].trim();
-        if (title.length < 30) {
+        if (title.length < 30 && !isGlossaryPath(relativePath)) {
           issues.shortTitle.push({ file: relativePath, title, length: title.length });
         }
         if (title.length > 60) {

@@ -1,63 +1,94 @@
 ---
-title: "Bordeaux im Stil erklärt"
-term: "Bordeaux"
-description: "Bordeaux wirkt tief, elegant und erwachsen. Die Farbe bringt Präsenz in den Look, ohne so direkt zu sein wie Rot."
-category: "Farb-Lexikon"
-color_hex: "#6F2437"
-tags: ["bordeaux", "weinrot", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["bordeaux kleidung", "weinrot kombinieren", "bordeaux farbe", "stilberatung"]
 weight: 10
-image: "images/glossar/bordeaux.png"
-image_alt: "Editoriale Grafik mit Bordeaux-Nuancen, dunklen Stoffflächen und eleganten Kombinationsfarben"
+image: images/glossar/bordeaux.png
+color_hex: "#6F2437"
+title: What does Burgundy mean?
+seoTitle: Burgundy explained | ESKYNA Glossary
+term: Burgundy
+description: Burgundy is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - burgundy
+  - color lexicon
+  - style glossary
+keywords:
+  - burgundy
+  - what is burgundy
+  - burgundy style advice
+slug: burgundy
+url: /glossary/burgundy/
+aliases:
+  - /glossar/bordeaux/
+image_alt: Editorial glossary illustration for Burgundy
 relatedTerms:
-  - title: "Rot"
-    url: "/glossar/rot/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Braun"
-    url: "/glossar/braun/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
+  - title: Navy
+    url: /en/glossary/navy/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Burgundy” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Burgundy” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Bordeaux
+## Definition
 
-Bordeaux ist ein dunkler, weinroter Ton. Die Farbe hat die Tiefe von Rot, wirkt aber ruhiger, erwachsener und oft eleganter. Sie bringt Präsenz in den Look, ohne sofort laut zu werden.
+**Burgundy**: Burgundy is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Bordeaux wirkt
+## In simple words
 
-Bordeaux kann warm, luxuriös, sinnlich oder professionell wirken. Ein Bordeaux-Blazer wirkt weniger klassisch als Navy, aber deutlich ruhiger als ein roter Blazer. Eine bordeauxfarbene Tasche ist ein starker Akzent, ohne den Look zu dominieren.
+Burgundy gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Material verändert die Farbe stark. Bordeaux in Samt wirkt festlich und tief. Bordeaux in Wolle wirkt warm und souverän. Bordeaux in Leder wirkt urban. Bordeaux in Seide oder Satin bekommt Glanz und eignet sich besonders für elegante Anlässe.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Bordeaux
+## Why this matters in color styling
 
-- **Weinrot:** Klassisch, tief und elegant. Funktioniert gut zu Navy, Creme und Schwarz.
-- **Aubergine-Bordeaux:** Kühler und mit Violett-Anteil. Wirkt moderner und geheimnisvoller.
-- **Braunrotes Bordeaux:** Wärmer und erdiger. Schön zu Camel, Espresso und Gold.
-- **Beerenton:** Weicher und etwas heller. Passt gut zu Rosa, Grau und Denim.
-- **Dunkles Rubin:** Klarer und brillanter. Wirkt besonders edel in glatten Materialien.
+When you understand Burgundy, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Bordeaux kombinieren
+With Burgundy, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-- **Bordeaux + Navy:** Souverän, tief und business-tauglich
-- **Bordeaux + Creme:** Weich, hell und hochwertig
-- **Bordeaux + Braun:** Warm, ruhig und sehr harmonisch
-- **Bordeaux + Grau:** Modern und klar
-- **Bordeaux + Rosa:** Tonal, fein und feminin ohne verspielt zu sein
+## What to pay attention to
 
-## Bordeaux im Business und Alltag
+- Check the role of Burgundy in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-Im Business ist Bordeaux eine elegante Alternative zu Rot. Die Farbe wirkt präsent, aber kontrollierter. Eine bordeauxfarbene Bluse, ein schmaler Gürtel, ein Schuh oder eine Tasche können einem neutralen Look Persönlichkeit geben.
+## Common misconceptions
 
-Im Alltag ist Bordeaux besonders stark in Strick, Leder, Denim-Kombinationen oder Mänteln. Die Farbe lässt sich gut tragen, wenn die übrigen Töne ruhig bleiben.
+**Misconception:** Burgundy is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Bordeaux funktioniert
+**Misconception:** Burgundy works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Bordeaux ist nicht automatisch warm oder kühl. Manche Töne haben mehr Braun, andere mehr Violett. Wenn eine Nuance nahe am Gesicht zu schwer wirkt, funktioniert Bordeaux oft sehr gut als Rock, Hose, Schuh oder Tasche.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Burgundy” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Bordeaux ist Präsenz mit Tiefe. Die Farbe wirkt elegant, wenn sie nicht überladen, sondern klar kombiniert wird.
+## ESKYNA note
+
+Burgundy works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Navy](/en/glossary/navy/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

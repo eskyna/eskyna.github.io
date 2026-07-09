@@ -4,7 +4,36 @@
 {{ with .CurrentSection }}{{ $sectionUI = .Params.ui }}{{ end }}
 {{ $homeUI := .Site.Home.Params.ui }}
 {{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isRuLang := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $glossaryHref := "glossar" | relLangURL }}
+{{ with .CurrentSection }}{{ $glossaryHref = .RelPermalink }}{{ end }}
+{{ $openImageText := cond $isRuLang "Увеличить изображение" (cond (eq $lang "en") "Enlarge image" "Bild vergrößern") }}
+{{ $closeText := cond $isRuLang "Закрыть" (cond (eq $lang "en") "Close" "Schließen") }}
 {{ $relatedText := or $pageUI.related_text $sectionUI.related_text $homeUI.related_text "Verwandte Begriffe" }}
+{{ $currentCategory := .Params.category | default "" }}
+{{ $categoryPage := false }}
+{{ $categorySiblings := slice }}
+{{ if $currentCategory }}
+  {{ with .CurrentSection }}
+    {{ $categoryPages := where .RegularPages "Params.is_glossar_category" true }}
+    {{ $matchingCategoryPages := where $categoryPages "Params.glossar_category" $currentCategory }}
+    {{ if gt (len $matchingCategoryPages) 0 }}
+      {{ $categoryPage = index $matchingCategoryPages 0 }}
+    {{ end }}
+    {{ $allTerms := where .RegularPages "Params.is_glossar_category" "ne" true }}
+    {{ $sameCategoryTerms := sort (sort (where $allTerms "Params.category" $currentCategory) "Title" "asc") "Params.weight" "asc" }}
+    {{ range $sameCategoryTerms }}
+      {{ if ne .Permalink $.Permalink }}
+        {{ $categorySiblings = $categorySiblings | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $categorySiblings = first 6 $categorySiblings }}
+{{ $categoryExploreHeading := cond $isRuLang "Еще из этой категории" (cond (eq $lang "en") "More from this category" "Mehr aus dieser Kategorie") }}
+{{ $categoryExploreIntro := cond $isRuLang "Соседние понятия помогают увидеть тему в большем контексте и быстрее перейти от определения к реальным стилевым решениям." (cond (eq $lang "en") "Nearby terms help you see the topic in context and turn the definition into practical styling decisions." "Nahe Begriffe zeigen den Zusammenhang und machen aus der Definition schneller eine praktische Stilentscheidung.") }}
+{{ $categoryExploreButton := cond $isRuLang "Открыть категорию" (cond (eq $lang "en") "Open category" "Kategorie öffnen") }}
 {{ $consultCtaHref := or $pageUI.glossar_consult_cta_href $sectionUI.glossar_consult_cta_href $homeUI.glossar_consult_cta_href $homeUI.faq_cta_href $homeUI.hero.ctaHref "https://calendar.app.google/sPZWYZT6vfK9NMim7" }}
 {{ $displayImage := .Params.image }}
 {{ if not $displayImage }}
@@ -21,18 +50,22 @@
   <section class="hero-small glossar-hero">
     <div class="container glossar-hero-shell">
       <div class="glossar-hero-copy">
-        <a class="back-link" href="{{ "glossar" | relLangURL }}" title="{{ $backText }}">{{ $backText }}</a>
-        
+        <a class="back-link" href="{{ $glossaryHref }}" title="{{ $backText }}">{{ $backText }}</a>
+
         {{ with .Params.category }}
-        <p class="eyebrow glossar-category">{{ . }}</p>
+          {{ if $categoryPage }}
+          <a class="eyebrow glossar-category glossar-category-link" href="{{ $categoryPage.RelPermalink }}" title="{{ . | plainify }}">{{ . }}</a>
+          {{ else }}
+          <p class="eyebrow glossar-category">{{ . }}</p>
+          {{ end }}
         {{ end }}
-        
+
         {{ with .Params.color_hex }}
         <div class="glossar-color-swatch" style="background-color: {{ . }};" title="{{ . }}"></div>
         {{ end }}
-        
+
         <h1 class="glossar-display-title">{{ .Title }}</h1>
-        
+
         {{ with .Description }}
         <p class="glossar-hero-description">{{ . }}</p>
         {{ end }}
@@ -42,7 +75,7 @@
       <div class="glossar-hero-visual">
         <button
           class="glossar-lightbox-trigger"
-          aria-label="Bild vergrößern: {{ $imageAlt | plainify }}"
+          aria-label="{{ $openImageText }}: {{ $imageAlt | plainify }}"
           data-src="{{ . | relURL }}"
           data-alt="{{ $imageAlt | plainify }}"
         >
@@ -51,7 +84,7 @@
       </div>
 
       <dialog class="glossar-lightbox" id="glossar-lightbox" aria-modal="true" aria-label="{{ $imageAlt | plainify }}">
-        <button class="glossar-lightbox-close" aria-label="Schließen">&times;</button>
+        <button class="glossar-lightbox-close" aria-label="{{ $closeText }}">&times;</button>
         {{- partial "responsive-image.html" (dict "src" . "alt" $imageAlt "class" "glossar-lightbox-img") -}}
       </dialog>
       {{ end }}
@@ -65,17 +98,95 @@
           {{ .Content }}
         </div>
 
-        {{ with .Params.relatedTerms }}
-        <aside class="glossar-related">
-          <h3>{{ $relatedText }}</h3>
-          <ul class="glossar-related-list">
-            {{ range . }}
-            <li>
-              <a href="{{ .url }}">{{ .title }}</a>
-            </li>
-            {{ end }}
+        {{ with .Params.consulting_questions }}
+        {{ $questionsHeading := cond $isRuLang "Какие вопросы помогает прояснить этот термин?" (cond (eq $lang "en") "Which questions does this term clarify?" "Welche Fragen klärt dieser Begriff?") }}
+        {{ $questionsKicker := cond $isRuLang "Консультационный фильтр" (cond (eq $lang "en") "Consultation filter" "Beratungsfilter") }}
+        <aside class="glossar-consulting-questions" aria-labelledby="glossar-consulting-questions-heading">
+          <p class="glossar-consulting-questions-kicker">{{ $questionsKicker }}</p>
+          <h2 id="glossar-consulting-questions-heading">{{ $questionsHeading }}</h2>
+          <ul class="glossar-consulting-questions-list">
+            {{ range . }}<li>{{ . }}</li>{{ end }}
           </ul>
         </aside>
+        {{ end }}
+
+        {{ with .Params.offer_bridge }}
+        {{ $offerBridge := . }}
+        <aside class="glossar-offer-bridge" aria-labelledby="glossar-offer-bridge-heading">
+          {{ with .kicker }}<p class="glossar-offer-bridge-kicker">{{ . }}</p>{{ end }}
+          {{ with .title }}<h2 id="glossar-offer-bridge-heading">{{ . }}</h2>{{ end }}
+          {{ with .text }}<p class="glossar-offer-bridge-text">{{ . | markdownify }}</p>{{ end }}
+          {{ with .bullets }}
+          <ul class="glossar-offer-bridge-list">
+            {{ range . }}<li>{{ . }}</li>{{ end }}
+          </ul>
+          {{ end }}
+          <div class="glossar-offer-bridge-actions">
+            {{ with .primary_url }}
+              <a class="glossar-offer-bridge-primary" href="{{ . }}" title="{{ $offerBridge.primary_label | default . }}">{{ $offerBridge.primary_label | default . }}</a>
+            {{ end }}
+            {{ with .secondary_url }}
+              <a class="glossar-offer-bridge-secondary" href="{{ . }}" title="{{ $offerBridge.secondary_label | default . }}">{{ $offerBridge.secondary_label | default . }}</a>
+            {{ end }}
+          </div>
+        </aside>
+        {{ end }}
+
+        {{ with .Params.faq }}
+          {{ with .items }}
+            {{ $faqHeading := cond $isRuLang "Частые вопросы" (cond (eq $lang "en") "Frequently asked questions" "Häufige Fragen") }}
+            <section class="glossar-faq" aria-labelledby="glossar-faq-heading">
+              <h2 id="glossar-faq-heading">{{ $faqHeading }}</h2>
+              <div class="glossar-faq-list">
+                {{ range . }}
+                  <details class="glossar-faq-item">
+                    <summary>{{ .q }}</summary>
+                    <div class="glossar-faq-answer">{{ .a | markdownify }}</div>
+                  </details>
+                {{ end }}
+              </div>
+            </section>
+          {{ end }}
+        {{ end }}
+
+        {{ if gt (len $categorySiblings) 0 }}
+        <aside class="glossar-category-context" aria-labelledby="glossar-category-context-heading">
+          <div class="glossar-category-context-copy">
+            <p class="glossar-category-context-kicker">{{ .Params.category }}</p>
+            <h3 id="glossar-category-context-heading">{{ $categoryExploreHeading }}</h3>
+            <p>{{ $categoryExploreIntro }}</p>
+          </div>
+          <ul class="glossar-category-context-list">
+            {{ range $categorySiblings }}
+              {{ $siblingTitle := .Params.term | default .Title }}
+              <li>
+                <a href="{{ .RelPermalink }}" title="{{ $siblingTitle | plainify }}">
+                  <span>{{ $siblingTitle }}</span>
+                  {{ with .Description }}<small>{{ . }}</small>{{ end }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+          {{ if $categoryPage }}
+          <a class="glossar-category-context-button" href="{{ $categoryPage.RelPermalink }}" title="{{ $categoryExploreButton }}">{{ $categoryExploreButton }}</a>
+          {{ end }}
+        </aside>
+        {{ end }}
+
+        {{ $hasInlineRelated := or (in .RawContent "## Verwandte Begriffe") (in .RawContent "## Related Terms") (in .RawContent "## Связанные термины") }}
+        {{ if not $hasInlineRelated }}
+          {{ with .Params.relatedTerms }}
+          <aside class="glossar-related">
+            <h3>{{ $relatedText }}</h3>
+            <ul class="glossar-related-list">
+              {{ range . }}
+              <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </aside>
+          {{ end }}
         {{ end }}
 
         {{ with .Params.cta }}
@@ -94,7 +205,6 @@
     </div>
   </section>
 
-  {{ partial "contact-modal.html" . }}
 </main>
 
 {{ with $displayImage }}

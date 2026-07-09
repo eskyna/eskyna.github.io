@@ -1,62 +1,94 @@
 ---
-title: "Türkis im Stil erklärt"
-term: "Türkis"
-description: "Türkis liegt zwischen Blau und Grün. Die Farbe wirkt frisch und lebendig, braucht aber die richtige Nuance."
-category: "Farb-Lexikon"
-color_hex: "#2FA6A0"
-tags: ["tuerkis", "türkis", "farbe", "blaugruen", "farbberatung"]
-keywords: ["türkis kleidung", "türkis kombinieren", "blaugrün", "farbberatung"]
 weight: 21
-image: "images/glossar/tuerkis.png"
-image_alt: "Editoriale Grafik zu Türkis mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/tuerkis.png
+color_hex: "#2FA6A0"
+title: What does Turquoise mean?
+seoTitle: Turquoise explained | ESKYNA Glossary
+term: Turquoise
+description: Turquoise is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - turquoise
+  - color lexicon
+  - style glossary
+keywords:
+  - turquoise
+  - what is turquoise
+  - turquoise style advice
+slug: turquoise
+url: /glossary/turquoise/
+aliases:
+  - /glossar/tuerkis/
+image_alt: Editorial glossary illustration for Turquoise
 relatedTerms:
-  - title: "Blau"
-    url: "/glossar/blau/"
-  - title: "Grün"
-    url: "/glossar/gruen/"
-  - title: "Petrol"
-    url: "/glossar/petrol/"
-  - title: "Akzentfarbe"
-    url: "/glossar/akzentfarbe/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Contrast
+    url: /en/glossary/contrast/
+faq:
+  items:
+    - q: How can I use “Turquoise” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Turquoise” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Türkis
+## Definition
 
-Türkis sitzt zwischen Blau und Grün. Genau diese Zwischenposition macht die Farbe frisch, lebendig und manchmal anspruchsvoll.
+**Turquoise**: Turquoise is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Türkis wirkt
+## In simple words
 
-Türkis wirkt wach, klar und sommerlich. Ein helles Türkis kann sehr frisch erscheinen, ein sattes Türkis wirkt präsenter, ein gedämpftes Türkis ruhiger. In neutralen Outfits kann Türkis als Akzent sofort Energie geben, ohne so direkt zu wirken wie Rot oder Pink.
+Turquoise gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Türkis
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Helles Türkis:** Frisch, leicht und sommerlich.
-- **Klares Türkis:** Strahlend und präsent. Eignet sich gut als Akzent.
-- **Gedämpftes Türkis:** Ruhiger und leichter kombinierbar.
-- **Grünliches Türkis:** Wirkt wärmer und natürlicher als bläuliche Varianten.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Turquoise, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Leinen wirkt Türkis leicht und urlaubshaft. In Seide bekommt es Glanz und Tiefe. In Schmuck, Tüchern oder Taschen wirkt Türkis besonders gut als frischer Akzent.
+With Turquoise, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Türkis kombinieren
+## What to pay attention to
 
-- **Türkis + Weiß:** frisch und klar
-- **Türkis + Navy:** ruhig und maritim
-- **Türkis + Braun:** warm und modern
-- **Türkis + Creme:** weich und sommerlich
-- **Türkis + Silber:** kühl und klar
+- Check the role of Turquoise in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Türkis im Business und Alltag
+## Common misconceptions
 
-Im Business funktioniert Türkis am besten dosiert. Eine Bluse, ein Tuch, Schmuck oder eine Tasche können einem neutralen Look Frische geben. Ein komplettes Outfit in Türkis wirkt meist stärker und braucht einen klaren Schnitt.
+**Misconception:** Turquoise is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Türkis funktioniert
+**Misconception:** Turquoise works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Türkis ist stark von [Farbtemperatur](/glossar/farbtemperatur/) und Sättigung abhängig. Wenn ein Türkiston nahe am Gesicht zu dominant wirkt, kann er als Accessoire oder Unterteil trotzdem sehr schön funktionieren.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Turquoise” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Türkis bringt Frische in den Look. Die richtige Nuance entscheidet, ob es strahlt oder unruhig wird.
+## ESKYNA note
+
+Turquoise works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)
+- [Contrast](/en/glossary/contrast/)

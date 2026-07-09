@@ -2,19 +2,28 @@
   <div class="container site-footer-inner">
     {{ $pageUI := .Params.ui }}
     {{ $homeUI := .Site.Home.Params.ui }}
-    {{ $aboutText := or $pageUI.footer_about_text $homeUI.footer_about_text "Über mich" }}
-    {{ $blogText := or $pageUI.footer_blog_text $homeUI.footer_blog_text "Blog" }}
+    {{ $lang := .Site.Language.Lang }}
+    {{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+    {{ $isEn := eq $lang "en" }}
+    {{ $aboutText := or $pageUI.footer_about_text $homeUI.footer_about_text (cond $isRu "Обо мне" (cond $isEn "About" "Über mich")) }}
+    {{ $blogText := or $pageUI.footer_blog_text $homeUI.footer_blog_text (cond $isRu "Блог" (cond $isEn "Blog" "Blog")) }}
     {{ $estyleText := or $pageUI.footer_estyle_text $homeUI.footer_estyle_text "EStyle" }}
-    {{ $glossarText := or $pageUI.footer_glossar_text $homeUI.footer_glossar_text "Glossar" }}
-    {{ $imprintText := or $pageUI.footer_imprint_text $homeUI.footer_imprint_text "Impressum" }}
-    {{ $privacyText := or $pageUI.footer_privacy_text $homeUI.footer_privacy_text "Datenschutzerklärung" }}
+    {{ $glossarText := or $pageUI.footer_glossar_text $homeUI.footer_glossar_text (cond $isRu "Глоссарий" (cond $isEn "Glossary" "Glossar")) }}
+    {{ $imprintText := or $pageUI.footer_imprint_text $homeUI.footer_imprint_text (cond $isRu "Правовая информация" (cond $isEn "Legal notice" "Impressum")) }}
+    {{ $privacyText := or $pageUI.footer_privacy_text $homeUI.footer_privacy_text (cond $isRu "Политика конфиденциальности" (cond $isEn "Privacy policy" "Datenschutzerklärung")) }}
     {{ $cookieSettingsText := or $pageUI.footer_cookie_settings_text $homeUI.footer_cookie_settings_text (i18n "footer_cookie_settings_text") }}
-    <a href="{{ "about/" | relLangURL }}" title="{{ $aboutText }}">{{ $aboutText }}</a>
-    <a href="{{ "blog/" | relLangURL }}" title="{{ $blogText }}">{{ $blogText }}</a>
-    <a href="{{ "estyle/" | relLangURL }}" title="{{ $estyleText }}">{{ $estyleText }}</a>
-    <a href="{{ "glossar/" | relLangURL }}" title="{{ $glossarText }}">{{ $glossarText }}</a>
-    <a href="{{ "impressum/" | relLangURL }}" title="{{ $imprintText }}">{{ $imprintText }}</a>
-    <a href="{{ "datenschutz/" | relLangURL }}" title="{{ $privacyText }}">{{ $privacyText }}</a>
+    {{ $aboutHref := "about/" | relLangURL }}{{ with .Site.GetPage "about" }}{{ $aboutHref = .RelPermalink }}{{ end }}
+    {{ $blogHref := "blog/" | relLangURL }}{{ with .Site.GetPage "blog" }}{{ $blogHref = .RelPermalink }}{{ end }}
+    {{ $estyleHref := "estyle/" | relLangURL }}{{ with .Site.GetPage "estyle" }}{{ $estyleHref = .RelPermalink }}{{ end }}
+    {{ $glossarHref := "glossar/" | relLangURL }}{{ with .Site.GetPage "glossar" }}{{ $glossarHref = .RelPermalink }}{{ end }}
+    {{ $imprintHref := "impressum/" | relLangURL }}{{ with .Site.GetPage "impressum" }}{{ $imprintHref = .RelPermalink }}{{ end }}
+    {{ $privacyHref := "datenschutz/" | relLangURL }}{{ with .Site.GetPage "datenschutz" }}{{ $privacyHref = .RelPermalink }}{{ end }}
+    <a href="{{ $aboutHref }}" title="{{ $aboutText }}">{{ $aboutText }}</a>
+    <a href="{{ $blogHref }}" title="{{ $blogText }}">{{ $blogText }}</a>
+    <a href="{{ $estyleHref }}" title="{{ $estyleText }}">{{ $estyleText }}</a>
+    <a href="{{ $glossarHref }}" title="{{ $glossarText }}">{{ $glossarText }}</a>
+    <a href="{{ $imprintHref }}" title="{{ $imprintText }}">{{ $imprintText }}</a>
+    <a href="{{ $privacyHref }}" title="{{ $privacyText }}">{{ $privacyText }}</a>
     <button type="button" class="footer-cookie-settings" data-cookie-settings-open>{{ $cookieSettingsText }}</button>
     <span class="visually-hidden">{{ i18n "footer_a11y" }}</span>
   </div>

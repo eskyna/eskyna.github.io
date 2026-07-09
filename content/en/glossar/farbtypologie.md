@@ -1,71 +1,90 @@
 ---
-title: "Was bedeutet Farbtypologie?"
-term: "Farbtypologie"
-description: "Farbtypologie ordnet Farben nach Temperatur, Helligkeit, Sättigung und Kontrast, damit passende Nuancen leichter erkennbar werden."
-category: "Farbberatung & Farbe"
-tags: ["farbtypologie", "farbtyp", "farbberatung", "unterton"]
-keywords: ["farbtypologie", "was bedeutet farbtypologie", "farbtypologie farbberatung"]
 weight: 6
+title: What does Color Typology mean?
+seoTitle: Color Typology explained | ESKYNA Glossary
+term: Color Typology
+description: Color typology is a system for describing personal color directions so color choices
+  become clearer and easier to apply.
+category: Color Consultation & Color
+tags:
+  - color typology
+  - color consultation & color
+  - style glossary
+keywords:
+  - color typology
+  - what is color typology
+  - color typology style advice
+slug: color-typology
+url: /glossary/color-typology/
+aliases:
+  - /glossar/farbtypologie/
+image_alt: Editorial glossary illustration for Color Typology
 relatedTerms:
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Sättigung"
-    url: "/glossar/saettigung/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Color Typology” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Color Typology” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Farbtypologie** ist ein Ordnungssystem für Farben. Sie beschreibt, wie Nuancen nach Temperatur, Helligkeit, Sättigung und Kontrast unterschieden werden und warum manche Farben an einer Person stimmiger wirken als andere.
+**Color Typology** is a system for describing personal color directions. It can use seasonal categories, tonal groups, or individual palette characteristics such as warm, cool, soft, clear, light, deep, muted, or bright.
 
-## Einfach erklärt
+## In simple words
 
-Farbtypologie soll Farben nicht einengen. Sie soll sie lesbar machen.
+Color typology gives language to what you may already see in the mirror: some colors look harmonious, others look too harsh, too dull, too yellow, too blue, too heavy, or too weak. The system helps explain why.
 
-Wenn du verstehst, ob dich eher klare oder gedeckte, warme oder kühle, helle oder tiefe Farben stärken, erkennst du schneller die richtige Variante einer Farbe. Dann wird aus einem allgemeinen Blau ploetzlich dein Blau.
+## Why it matters
 
-Farbtypologie arbeitet deshalb nicht nur mit Farbnamen, sondern mit Nuancen. Beige ist nicht einfach Beige. Rosa ist nicht einfach Rosa. Der Unterschied liegt in Temperatur, Stärke und Tiefe.
+A typology becomes useful when it supports decisions. It helps you choose basics, accent colors, prints, metals, glasses, hair direction, and make-up. It can also make wardrobe combinations easier because your colors share a common logic.
 
-## Warum Farbtypologie wichtig ist
+## Practical use
 
-Viele Fehlkaeufe entstehen bei Farben, die fast richtig sind. Genau hier hilft Farbtypologie. Sie macht sichtbar, warum zwei ähnliche Toene am Buegel gut aussehen, am Gesicht aber ganz unterschiedlich wirken.
+A good color typology turns broad advice into a personal editing tool. It helps you decide which shades deserve space near your face and which colors can stay as small accents.
 
-Wenn du die Logik dahinter kennst, wirst du schneller präzise. Du kaufst nicht mehr irgendein Grün, sondern das Grün, das dich ruhiger, frischer oder klarer wirken lässt.
+## ESKYNA perspective
 
-## Die vier wichtigen Ebenen
+At ESKYNA, typology is a starting point, not the whole consultation. Real people are more nuanced than a label. We combine the system with observation, draping, contrast analysis, lifestyle, and the wardrobe you actually wear.
 
-- **Temperatur:** warm, kühl oder neutral
-- **Helligkeit:** hell, mittel oder tief
-- **Sättigung:** klar, weich oder gedeckt
-- **Kontrast:** ruhig oder markant im Zusammenspiel mit Gesicht, Haaren und Augen
+## What to avoid
 
-## Typische Missverständnisse
+- Forcing yourself into a label that does not feel practical
+- Ignoring personal contrast
+- Treating every color in a palette as equally useful
+- Buying new clothes before understanding your best neutrals
+- Confusing trend colors with personal colors
 
-**Missverständnis:** Farbtypologie teilt Menschen starr in Schubladen ein.
+## Common misunderstanding
 
-**Besser:** Sie ist ein Orientierungswerkzeug. Entscheidend ist, welche Nuancen dich tatsaechlich stärken.
+Color typology is not about finding one perfect category and rejecting everything else. Its value lies in the distinctions: which version of a color works, where to place it, and how to combine it.
 
-**Missverständnis:** Wenn eine Farbe grundsätzlich passt, passen alle Varianten davon.
+## Decision question
 
-**Besser:** Oft funktioniert nur ein bestimmter Bereich derselben Farbe wirklich gut.
+Ask yourself what **Color Typology** should do in the outfit. Should it calm the look, add structure, create a clearer line, support presence, or make the combination more personal? Once the task is clear, the decision becomes easier.
 
-## Praktisches Beispiel
+Compare one quieter and one more expressive option. Notice which version feels natural, works with pieces you already wear, and supports the impression you want to create. This turns **Color Typology** from a fashion word into a practical styling tool.
 
-Zwei Tuerkistoene können denselben Namen tragen. Der eine ist klar und kühl, der andere leicht gruenlich und weicher. Farbtypologie hilft zu erkennen, welcher davon bei dir lebendig wirkt und welcher die Gesichtszuege unruhig macht.
+## Related Terms
 
-## ESKYNA-Merksatz
-
-Farbtypologie macht Farben nicht enger. Sie macht sie genauer.
-
-## Verwandte Begriffe
-
-- [Farbtyp](/glossar/farbtyp/)
-- [Unterton](/glossar/unterton/)
-- [Farbtemperatur](/glossar/farbtemperatur/)
-- [Sättigung](/glossar/saettigung/)
-- [Kontrast](/glossar/kontrast/)
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Contrast](/en/glossary/contrast/)

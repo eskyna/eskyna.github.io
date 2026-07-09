@@ -1,27 +1,46 @@
 ---
-title: "Was ist ein Blazer?"
-term: "Blazer"
-description: "Ein Blazer ist eine strukturierte Jacke mit klarer Form, die Outfits sofort gepflegter und souveräner wirken lässt."
-category: "Garderobe & Alltag"
-tags: ["blazer", "jacke", "business casual", "key-piece", "passform"]
-keywords: ["blazer", "was ist ein blazer", "blazer kombinieren", "blazer stilberatung"]
+title: Was ist ein Blazer?
+term: Blazer
+description: Ein Blazer ist eine strukturierte Jacke mit klarer Form, die Outfits sofort gepflegter
+  und souveräner wirken lässt.
+category: Garderobe & Alltag
+tags:
+  - blazer
+  - jacke
+  - business casual
+  - key-piece
+  - passform
+keywords:
+  - blazer
+  - was ist ein blazer
+  - blazer kombinieren
+  - blazer stilberatung
 weight: 7
-image: "images/glossar/blazer.png"
-image_alt: "Editoriale Grafik mit stilisiertem Blazer, Revers und ruhigen neutralen Farbfeldern"
+image: images/glossar/blazer.png
+image_alt: Editoriale Grafik mit stilisiertem Blazer, Revers und ruhigen neutralen Farbfeldern
 relatedTerms:
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Smart Casual"
-    url: "/glossar/smart-casual/"
-  - title: "Dresscode"
-    url: "/glossar/dresscode/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Taillierung"
-    url: "/glossar/taillierung/"
-
-  - title: "Weste"
-    url: "/glossar/weste/"
+  - title: Business Casual
+    url: /glossar/business-casual/
+  - title: Smart Casual
+    url: /glossar/smart-casual/
+  - title: Dresscode
+    url: /glossar/dresscode/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Taillierung
+    url: /glossar/taillierung/
+  - title: Weste
+    url: /glossar/weste/
+faq:
+  items:
+    - q: Wie nutze ich „Blazer“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Blazer“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -55,6 +74,10 @@ Für ESKYNA ist der Blazer ein gutes Beispiel dafür, wie Kleidung Haltung sicht
 
 **Missverständnis:** Oversized-Blazer sind einfach nur größer.  
 **Besser:** Ein guter Oversized-Blazer ist bewusst konstruiert. Die Proportion muss stimmen, damit er modern wirkt.
+
+## Mini-Test vor dem Spiegel
+
+Betrachte „Blazer“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
 
 ## ESKYNA-Merksatz
 

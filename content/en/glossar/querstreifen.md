@@ -1,62 +1,93 @@
 ---
-title: "Was bedeutet Querstreifen?"
-term: "Querstreifen"
-description: "Querstreifen verlaufen horizontal und können einem Look Ruhe, Breite oder grafische Klarheit geben."
-category: "Materialien & Details"
-tags: ["materialien", "querstreifen"]
-keywords: ["querstreifen", "was bedeutet querstreifen", "querstreifen stilberatung"]
 weight: 1
-image: "images/glossar/querstreifen.png"
-image_alt: "Editoriale Glossar-Grafik zu Querstreifen mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/querstreifen.png
+title: What does Horizontal Stripes mean?
+seoTitle: Horizontal Stripes explained | ESKYNA Glossary
+term: Horizontal Stripes
+description:
+  Horizontal Stripes is a material or detail term that influences quality, comfort, texture,
+  and the overall impression of an outfit.
+category: Materials & Details
+tags:
+  - horizontal stripes
+  - materials & details
+  - style glossary
+keywords:
+  - horizontal stripes
+  - what is horizontal stripes
+  - horizontal stripes style advice
+slug: horizontal-stripes
+url: /glossary/horizontal-stripes/
+aliases:
+  - /glossar/querstreifen/
+image_alt: Editorial glossary illustration for Horizontal Stripes
 relatedTerms:
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+  - title: Care
+    url: /en/glossary/care/
+  - title: Quality
+    url: /en/glossary/quality/
+faq:
+  items:
+    - q: How can I use “Horizontal Stripes” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Horizontal Stripes” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Querstreifen**: Querstreifen verlaufen horizontal und können einem Look Ruhe, Breite oder grafische Klarheit geben.
+**Horizontal Stripes**: Horizontal Stripes is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Muster bringen Bewegung in einen Look. Entscheidend sind Größe, Kontrast, Platzierung und die Frage, ob das Muster eine ruhige Ergänzung oder der Fokus des Outfits sein soll.
+Horizontal Stripes gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Querstreifen wichtig ist
+## Why this matters for quality
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Horizontal Stripes, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Querstreifen, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Horizontal Stripes, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Querstreifen im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Horizontal Stripes in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Querstreifen ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Horizontal Stripes is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Querstreifen funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Horizontal Stripes works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Querstreifen wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Horizontal Stripes” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Horizontal Stripes works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)
+- [Care](/en/glossary/care/)
+- [Quality](/en/glossary/quality/)

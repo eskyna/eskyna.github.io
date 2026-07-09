@@ -1,46 +1,92 @@
 ---
-title: "Was bedeutet Poetcore?"
-term: "Poetcore"
-description: "Poetcore ist eine romantisch-intellektuelle Stilästhetik mit weichen Stoffen, Vintage-Anklängen und literarischer Anmutung."
-category: "Stil & Wirkung"
-tags: ["poetcore", "stil", "aesthetic", "vintage"]
-keywords: ["poetcore", "poet core", "poet aesthetic", "romantisch intellektueller stil"]
 weight: 15
+title: What does Potcore mean?
+seoTitle: Potcore explained | ESKYNA Glossary
+term: Potcore
+description: Potcore is a style concept that helps you understand presence and make more conscious
+  styling decisions.
+category: Style & Impact
+tags:
+  - potcore
+  - style & impact
+  - style glossary
+keywords:
+  - potcore
+  - what is potcore
+  - potcore style advice
+slug: potcore
+url: /glossary/potcore/
+aliases:
+  - /glossar/poetcore/
+image_alt: Editorial glossary illustration for Potcore
 relatedTerms:
-  - title: "Dark Academia"
-    url: "/glossar/dark-academia/"
-  - title: "Light Academia"
-    url: "/glossar/light-academia/"
-  - title: "Vintage"
-    url: "/glossar/vintage/"
-  - title: "Romantisch"
-    url: "/glossar/romantisch/"
-  - title: "Personal Style"
-    url: "/glossar/personal-style/"
+  - title: Dark Academia
+    url: /en/glossary/dark-academia/
+  - title: Light Academia
+    url: /en/glossary/light-academia/
+  - title: Vintage
+    url: /en/glossary/vintage/
+  - title: Personal Style
+    url: /en/glossary/personal-style/
+  - title: Signature Look
+    url: /en/glossary/signature-look/
+faq:
+  items:
+    - q: How can I use “Potcore” in real outfits?
+      a:
+        Use it as a checkpoint for presence, personality, and visual message. Use it to make your appearance
+        feel more coherent, precise, and authentic.
+    - q: Does “Potcore” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Poetcore** ist eine Stilästhetik mit romantischer, intellektueller und leicht nostalgischer Wirkung. Typisch sind weiche Stoffe, Rollkragen, Blazer mit Vintage-Anmutung, Taschen mit Charakter und eine ruhige, literarische Bildsprache.
+**Potcore**: Potcore is a style concept that helps you understand presence and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Poetcore wirkt nicht laut. Die Stärke liegt in Stimmung, Textur und Haltung.
+Potcore gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Der verwandte Begriff **Poet Aesthetic** meint vor allem den visuellen Eindruck dieses sensiblen, kreativen Looks.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum der Begriff wichtig ist
+## Why this matters for your image
 
-Poetcore zeigt, wie stark Stil über Atmosphaere funktioniert und nicht nur über einzelne Kleidungsstücke.
+When you understand Potcore, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## ESKYNA-Merksatz
+With Potcore, the important question is what it communicates. A strong look is not only attractive; it also supports the role, mood, and presence you want to show.
 
-Poetcore lebt von Weichheit, Tiefe und stiller Erzählung.
+## What to pay attention to
 
-## Verwandte Begriffe
+- Check the role of Potcore in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- [Dark Academia](/glossar/dark-academia/)
-- [Light Academia](/glossar/light-academia/)
-- [Vintage](/glossar/vintage/)
-- [Romantisch](/glossar/romantisch/)
-- [Personal Style](/glossar/personal-style/)
+## Common misconceptions
+
+**Misconception:** Potcore is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Potcore works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Potcore” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Potcore works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Dark Academia](/en/glossary/dark-academia/)
+- [Light Academia](/en/glossary/light-academia/)
+- [Vintage](/en/glossary/vintage/)
+- [Personal Style](/en/glossary/personal-style/)
+- [Signature Look](/en/glossary/signature-look/)

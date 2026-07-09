@@ -1,22 +1,40 @@
 ---
-title: "Was ist ein Maxirock?"
-term: "Maxirock"
-description: "Ein Maxirock ist ein langer Rock, der viel Fläche bildet und deshalb besonders bewusst kombiniert werden sollte."
-category: "Kleider & Röcke"
-tags: ["maxirock", "rock", "saumlänge", "proportion"]
-keywords: ["maxirock", "was ist ein maxirock", "maxirock kombinieren"]
+title: Was ist ein Maxirock?
+term: Maxirock
+description: Ein Maxirock ist ein langer Rock, der viel Fläche bildet und deshalb besonders bewusst
+  kombiniert werden sollte.
+category: Kleider & Röcke
+tags:
+  - maxirock
+  - rock
+  - saumlänge
+  - proportion
+keywords:
+  - maxirock
+  - was ist ein maxirock
+  - maxirock kombinieren
 weight: 8
-image: "images/glossar/maxirock.png"
-image_alt: "Editoriale ESKYNA Grafik zum Glossarbegriff Maxirock mit ruhigen Formen und feinen Farbfeldern"
+image: images/glossar/maxirock.png
+image_alt: Editoriale ESKYNA Grafik zum Glossarbegriff Maxirock mit ruhigen Formen und feinen Farbfeldern
 relatedTerms:
-  - title: "Rocklänge"
-    url: "/glossar/rocklange/"
-  - title: "Saumlänge"
-    url: "/glossar/saumlange/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
+  - title: Rocklänge
+    url: /glossar/rocklange/
+  - title: Saumlänge
+    url: /glossar/saumlange/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Materialfall
+    url: /glossar/materialfall/
+faq:
+  items:
+    - q: Wie nutze ich „Maxirock“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Silhouette, Länge, Bewegung und Anlass. Entscheidend ist,
+        ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Maxirock“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -51,3 +69,17 @@ Maxiröcke sind wertvoll, wenn ein Look Bewegung und Länge bekommen soll. Sie k
 ## ESKYNA-Merksatz
 
 Ein Maxirock bringt Länge in den Look. Damit sie elegant wirkt, braucht sie klare Proportionen.
+
+## Praxischeck
+
+Wenn du den Begriff **Maxirock** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Bei Kleidern und Röcken bestimmen Länge, Bewegung und Taille sehr stark, wie modern oder schwer ein Look wirkt.
+
+- Teste die Länge im Stehen, Sitzen und Gehen.
+- Vergleiche flache Schuhe, Absatz und Stiefel zum gleichen Saum.
+- Prüfe, ob Oberteil, Jacke oder Gürtel die Proportion unterstützen.
+
+## Beratungsblick
+
+In der Beratung ist **Maxirock** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Kleider & Röcke](/glossar/kategorie/kleider-roecke/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

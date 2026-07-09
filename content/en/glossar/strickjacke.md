@@ -1,65 +1,91 @@
 ---
-title: "Was bedeutet Strickjacke?"
-term: "Strickjacke"
-description: "Eine Strickjacke ist eine offene oder geknöpfte Jacke aus Strick, die einem Look Weichheit geben kann."
-category: "Garderobe & Alltag"
-tags: ["garderobe", "strickjacke"]
-keywords: ["strickjacke", "was bedeutet strickjacke", "strickjacke stilberatung"]
 weight: 1
-image: "images/glossar/strickjacke.png"
-image_alt: "Editoriale Glossar-Grafik zu Strickjacke mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/strickjacke.png
+title: What does Knitted Jacket mean?
+seoTitle: Knitted Jacket explained | ESKYNA Glossary
+term: Knitted Jacket
+description:
+  A knitted jacket is a cardigan-like layering piece that combines the softness of knitwear
+  with the visual role of a light jacket.
+category: Wardrobe & Everyday Style
+tags:
+  - knitted jacket
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - knitted jacket
+  - what is knitted jacket
+  - knitted jacket style advice
+slug: knitted-jacket
+url: /glossary/knitted-jacket/
+aliases:
+  - /glossar/strickjacke/
+  - /glossary/cardigan-2/
+image_alt: Editorial glossary illustration for Knitted Jacket
 relatedTerms:
-  - title: "Capsule Wardrobe"
-    url: "/glossar/capsule-wardrobe/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Key-Piece"
-    url: "/glossar/key-piece/"
-  - title: "Fehlkauf"
-    url: "/glossar/fehlkauf/"
+  - title: Cardigan
+    url: /en/glossary/cardigan/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Outfit Formula
+    url: /en/glossary/outfit-formula/
+  - title: Key Piece
+    url: /en/glossary/key-piece/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Knitted Jacket” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Knitted Jacket” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Strickjacke**: Eine Strickjacke ist eine offene oder geknöpfte Jacke aus Strick, die einem Look Weichheit geben kann.
+A **Knitted Jacket** is a soft layering piece made from knitwear that visually takes the role of a light jacket. It can look more polished than a simple cardigan while still feeling comfortable and flexible.
 
-## Einfach erklärt
+## In simple words
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+A knitted jacket sits between knitwear and tailoring. It can complete an outfit, add texture, and make casual looks feel more intentional without becoming stiff.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+## Why it matters
 
-## Warum Strickjacke wichtig ist
+This piece is useful when a blazer feels too formal but a regular cardigan feels too relaxed. Structure, buttons, pockets, trim, shoulder line, and fabric weight determine whether the knitted jacket looks elegant, casual, or conservative.
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+## How to use it
 
-Gerade im Alltag hilft Strickjacke, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+A knitted jacket can work with denim, tailored trousers, dresses, skirts, and simple base layers. It often gives an outfit an immediate frame: the neckline, shoulders, and front edge create order, while the knit keeps the mood approachable. Cropped versions work well with high-waisted pieces. Longer versions need slim, quiet layers underneath so the silhouette does not become heavy.
 
-## Worauf du achten solltest
+## Buying criteria
 
-- Prüfe, welche Aufgabe Strickjacke im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+Look at the fabric weight, recovery, buttons, sleeve shape, and shoulder line. A good knitted jacket should not collapse after a few wears. It should hold enough structure to act as a third piece, but still feel easy on the body.
 
-## Typische Missverständnisse
+## ESKYNA note
 
-**Missverständnis:** Strickjacke ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+In capsule wardrobes, a knitted jacket can be a bridge piece. It connects relaxed and polished outfits, which makes it practical for hybrid work, travel, lunches, family events, and days when a blazer feels like too much.
 
-**Missverständnis:** Strickjacke funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+## Practical check
 
-## ESKYNA-Merksatz
+When you use **Knitted Jacket** in a real outfit, do not judge the item in isolation. Look at color, line, material, and context together. The key question is whether the piece creates more useful combinations or just another isolated option.
 
-Strickjacke wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+- Check the piece in daylight and from a few steps away.
+- Compare it with pieces you already wear often.
+- Ask whether it supports the impression you want to create.
 
-## Verwandte Begriffe
+## ESKYNA perspective
 
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+**Knitted Jacket** becomes useful when it helps you make a better decision. It should reduce uncertainty, not add another rule. More context is available in the [Wardrobe & Everyday Style](/en/glossary/category/wardrobe-everyday-style/) category. For a personal decision, start with [ESKYNA Wardrobe](/en/wardrobe/).
+
+## Related Terms
+
+- [Cardigan](/en/glossary/cardigan/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Outfit Formula](/en/glossary/outfit-formula/)
+- [Key Piece](/en/glossary/key-piece/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

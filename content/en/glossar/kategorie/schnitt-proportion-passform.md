@@ -1,10 +1,27 @@
 ---
-title: "Kategorie: Schnitt, Proportion & Passform"
-description: "Diese Kategorie erklärt, wie Linien, Längen und Schnitte die Silhouette formen."
-layout: "glossar-kategorie"
+title: "Category: Cut, Proportion & Fit"
+description: Terms for silhouettes, lines, proportions, and fit details that change how clothing works on the body.
+layout: glossar-kategorie
 is_glossar_category: true
-glossar_category: "Schnitt, Proportion & Passform"
-url: "/en/glossar/kategorie/schnitt-proportion-passform/"
+glossar_category: Cut, Proportion & Fit
+url: /glossary/category/cut-proportion-fit/
+seoTitle: Cut, Proportion & Fit | ESKYNA Glossary
+aliases:
+  - /glossar/kategorie/schnitt-proportion-passform/
 ---
 
-Die Begriffe unterstützen dich bei Fragen zu Balance, Streckung und Passform. Damit erkennst du schneller, welche Formen dir stehen und warum ein Teil im Outfit stimmig wirkt.
+## What this category covers
+
+This category explains lines, lengths, silhouettes, body balance, and fit details. It helps you see why a piece elongates, shortens, softens, sharpens, emphasizes, or disrupts the overall look.
+
+## How to use these terms
+
+Look beyond size. Check where the hem ends, where the waist sits, how the shoulder line falls, and where volume appears in the outfit.
+
+## Practical focus
+
+Small changes can create a big effect: shoe height, hem length, waist shaping, or fabric structure. Fit decisions are strongest when you compare instead of deciding too quickly.
+
+## Next step
+
+Start with [Proportion](/en/glossary/proportion/), [Fit](/en/glossary/fit/), and [Silhouette](/en/glossary/silhouette/).

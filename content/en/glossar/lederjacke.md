@@ -1,62 +1,94 @@
 ---
-title: "Was ist eine Lederjacke?"
-term: "Lederjacke"
-description: "Eine Lederjacke ist eine Jacke aus Leder oder Lederoptik, die Outfits Struktur, Stärke und eine urbane Note geben kann."
-category: "Garderobe & Alltag"
-tags:
-  - "lederjacke"
-  - "jacke"
-  - "stilbruch"
-  - "struktur"
-keywords:
-  - "lederjacke"
-  - "was ist eine lederjacke"
-  - "lederjacke kombinieren"
 weight: 5
-image: "images/glossar/lederjacke.png"
-image_alt: "Editoriale Grafik mit stilisierter Lederjacke, Reissverschlussdetails und dunkler Struktur"
+image: images/glossar/lederjacke.png
+title: What does Leather Jacket mean?
+seoTitle: Leather Jacket explained | ESKYNA Glossary
+term: Leather Jacket
+description:
+  Leather Jacket is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - leather jacket
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - leather jacket
+  - what is leather jacket
+  - leather jacket style advice
+slug: leather-jacket
+url: /glossary/leather-jacket/
+aliases:
+  - /glossar/lederjacke/
+image_alt: Editorial glossary illustration for Leather Jacket
 relatedTerms:
-  - title: "Stilbruch"
-    url: "/glossar/stilbruch/"
-  - title: "Schwarz"
-    url: "/glossar/schwarz/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Jeans"
-    url: "/glossar/jeans/"
-  - title: "Boots"
-    url: "/glossar/chelsea-boots/"
+  - title: Jeans
+    url: /en/glossary/jeans/
+  - title: Chelsea Boots
+    url: /en/glossary/chelsea-boots/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Leather Jacket” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Leather Jacket” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Lederjacke** ist eine Jacke aus Leder, Veloursleder oder Lederoptik. Sie wirkt je nach Schnitt klassisch, urban, stark, weich oder sehr modern.
+**Leather Jacket**: Leather Jacket is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Die bekannteste Form ist die Bikerjacke mit asymmetrischem Reißverschluss. Es gibt aber auch kurze Lederblazer, Hemdjacken, Blousons oder weiche Velourslederjacken.
+Leather Jacket gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Leder bringt Struktur und Gewicht in ein Outfit. Es kann romantische Kleider brechen, Denim stärken oder schlichte Basics sofort charaktervoller machen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters in your wardrobe
 
-Für ESKYNA ist die Lederjacke ein gutes Stilbruch-Teil. Sie bringt Kante in weiche Looks und macht elegante Kombinationen alltagstauglicher.
+When you understand Leather Jacket, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Leather Jacket, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-- Achte auf die Schulterlinie und Ärmellänge.
-- Glattes Leder wirkt klarer, Veloursleder weicher.
-- Schwarz wirkt stärker, Braun oder Cognac wärmer.
-- Zu viele Reißverschlüsse oder Details können unruhig wirken.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Leather Jacket in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Eine Lederjacke ist immer rockig.  
-**Besser:** Schnitt, Farbe und Material können sie auch weich, elegant oder minimalistisch wirken lassen.
+## Common misconceptions
 
-**Missverständnis:** Lederjacken müssen eng sitzen.  
-**Besser:** Ein wenig Bewegungsfreiheit wirkt oft souveräner und hochwertiger.
+**Misconception:** Leather Jacket is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Leather Jacket works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Eine Lederjacke gibt einem Look Kante. Entscheidend ist, ob diese Kante zur Person passt.
+## Quick mirror check
+
+Look at “Leather Jacket” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Leather Jacket works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Jeans](/en/glossary/jeans/)
+- [Chelsea Boots](/en/glossary/chelsea-boots/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

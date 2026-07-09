@@ -1,27 +1,46 @@
 ---
-title: "Was ist eine Jeans?"
-term: "Jeans"
-description: "Eine Jeans ist eine Hose aus Denim, deren Wirkung stark von Schnitt, Waschung, Bundhöhe und Passform abhängt."
-category: "Garderobe & Alltag"
-tags: ["jeans", "denim", "hose", "passform", "garderobe"]
-keywords: ["jeans", "was ist eine jeans", "jeans schnitte", "jeans passform"]
+title: Was ist eine Jeans?
+term: Jeans
+description: Eine Jeans ist eine Hose aus Denim, deren Wirkung stark von Schnitt, Waschung, Bundhöhe
+  und Passform abhängt.
+category: Garderobe & Alltag
+tags:
+  - jeans
+  - denim
+  - hose
+  - passform
+  - garderobe
+keywords:
+  - jeans
+  - was ist eine jeans
+  - jeans schnitte
+  - jeans passform
 weight: 10
-image: "images/glossar/jeans.png"
-image_alt: "Editoriale Grafik mit stilisierter Jeans, Tasche, Nähten und Denim-Farbwelt"
+image: images/glossar/jeans.png
+image_alt: Editoriale Grafik mit stilisierter Jeans, Tasche, Nähten und Denim-Farbwelt
 relatedTerms:
-  - title: "Denim"
-    url: "/glossar/denim/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Straight Leg"
-    url: "/glossar/straight-leg/"
-  - title: "Wide Leg"
-    url: "/glossar/wide-leg/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-
-  - title: "Jeansjacke"
-    url: "/glossar/jeansjacke/"
+  - title: Denim
+    url: /glossar/denim/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Straight Leg
+    url: /glossar/straight-leg/
+  - title: Wide Leg
+    url: /glossar/wide-leg/
+  - title: Chinos
+    url: /glossar/chinos/
+  - title: Jeansjacke
+    url: /glossar/jeansjacke/
+faq:
+  items:
+    - q: Wie nutze ich „Jeans“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Jeans“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -59,3 +78,17 @@ Für ESKYNA ist die Jeans deshalb kein Nebenbei-Teil. Sie ist ein zentrales Elem
 ## ESKYNA-Merksatz
 
 Eine Jeans ist kein Zufallsteil. Sie wird stark, wenn Passform, Waschung und Proportion bewusst zusammenspielen.
+
+## Praxischeck
+
+Wenn du den Begriff **Jeans** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+
+- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
+- Achte auf Wiederholungen in Farbe, Material und Silhouette.
+- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+
+## Beratungsblick
+
+In der Beratung ist **Jeans** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).

@@ -1,62 +1,94 @@
 ---
-title: "Metallic im Stil erklärt"
-term: "Metallic"
-description: "Metallic beschreibt glänzende Metalltöne wie Gold, Silber, Bronze oder Roségold. Die Wirkung entsteht durch Farbe und Licht."
-category: "Farb-Lexikon"
-color_hex: "#B9B1A5"
-tags: ["metallic", "gold", "silber", "accessoire", "farbberatung"]
-keywords: ["metallic kleidung", "metallic kombinieren", "gold silber mode", "farbberatung"]
 weight: 31
-image: "images/glossar/metallic.png"
-image_alt: "Editoriale Grafik zu Metallic mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/metallic.png
+color_hex: "#B9B1A5"
+title: What does Metallic mean?
+seoTitle: Metallic explained | ESKYNA Glossary
+term: Metallic
+description: Metallic is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - metallic
+  - color lexicon
+  - style glossary
+keywords:
+  - metallic
+  - what is metallic
+  - metallic style advice
+slug: metallic
+url: /glossary/metallic/
+aliases:
+  - /glossar/metallic/
+image_alt: Editorial glossary illustration for Metallic
 relatedTerms:
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Silber"
-    url: "/glossar/silber/"
-  - title: "Roségold"
-    url: "/glossar/rosegold/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
+  - title: Gold
+    url: /en/glossary/gold/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Metallic” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Metallic” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Metallic
+## Definition
 
-Metallic ist keine klassische Farbe. Die Wirkung entsteht durch Farbton und Lichtreflexion. Deshalb kann Metallic ein Outfit sofort feiner, festlicher oder moderner machen.
+**Metallic**: Metallic is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Metallic wirkt
+## In simple words
 
-Gold wirkt warm, Silber klar und kühl, Bronze erdig, Roségold weich. Metallic zieht den Blick an, auch wenn die Fläche klein ist. Schon Schuhe, Gürtel, Schmuck oder eine Tasche können einem sehr schlichten Look mehr Spannung geben.
+Metallic gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Metallic
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Gold:** Warm, weich und luxuriös.
-- **Silber:** Kühl, klar und modern.
-- **Bronze:** Erdig, dunkler und weniger klassisch.
-- **Roségold:** Weich, warm und fein.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Metallic, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Metallic wirkt je nach Oberfläche sehr unterschiedlich. Gebürstetes Metall erscheint ruhiger als Spiegelglanz. Metallic-Leder wirkt modern, Pailletten wirken festlich, feiner Schmuck wirkt zurückhaltend.
+With Metallic, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Metallic kombinieren
+## What to pay attention to
 
-- **Metallic + Schwarz:** klar und abendlich
-- **Metallic + Creme:** weich und elegant
-- **Metallic + Denim:** modern und alltagstauglich
-- **Metallic + Navy:** ruhig und hochwertig
-- **Metallic + Grau:** tonal und klar
+- Check the role of Metallic in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Metallic im Business und Alltag
+## Common misconceptions
 
-Im Business funktioniert Metallic am besten als Detail. Schmuck, Uhr, Schnalle, Schuh oder kleine Tasche geben Licht, ohne den Look zu dominieren. Großflächige Metallic-Stoffe wirken eher nach Event.
+**Misconception:** Metallic is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Metallic funktioniert
+**Misconception:** Metallic works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Metallic eignet sich besonders als [Accessoire](/glossar/accessoire/), weil es Licht nah am Gesicht oder am Schuh aufnehmen kann. Entscheidend ist, ob der Metallton warm, kühl oder neutral wirkt.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Metallic” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Metallic ist Licht als Detail. Je ruhiger die Dosierung, desto eleganter die Wirkung.
+## ESKYNA note
+
+Metallic works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Gold](/en/glossary/gold/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

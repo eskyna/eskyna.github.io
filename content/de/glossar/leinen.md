@@ -1,24 +1,44 @@
 ---
-title: "Was ist Leinen?"
-term: "Leinen"
-description: "Leinen ist eine Naturfaser mit sichtbarer Struktur, die luftig, ruhig und sommerlich wirkt."
-category: "Materialien & Details"
-tags: ["leinen", "material", "sommerstoffe", "naturfaser", "stilberatung"]
-keywords: ["leinen", "was ist leinen", "leinen kleidung", "leinen kombinieren"]
+title: Was ist Leinen?
+term: Leinen
+description: Leinen ist eine Naturfaser mit sichtbarer Struktur, die luftig, ruhig und sommerlich
+  wirkt.
+category: Materialien & Details
+tags:
+  - leinen
+  - material
+  - sommerstoffe
+  - naturfaser
+  - stilberatung
+keywords:
+  - leinen
+  - was ist leinen
+  - leinen kleidung
+  - leinen kombinieren
 weight: 1
-image: "images/glossar/leinen.png"
-image_alt: "Editoriale Grafik mit stilisierter Leinenstruktur, Stoffbahn und ruhigen Naturtönen"
+image: images/glossar/leinen.png
+image_alt: Editoriale Grafik mit stilisierter Leinenstruktur, Stoffbahn und ruhigen Naturtönen
 relatedTerms:
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Trenchcoat"
-    url: "/glossar/trenchcoat/"
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Beige
+    url: /glossar/beige/
+  - title: Trenchcoat
+    url: /glossar/trenchcoat/
+faq:
+  items:
+    - q: Wie nutze ich „Leinen“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Leinen“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +76,17 @@ Für ESKYNA ist Leinen besonders interessant, weil es Alltagstauglichkeit und El
 ## ESKYNA-Merksatz
 
 Leinen ist entspannte Eleganz. Der Stoff wirkt stark, wenn seine Natürlichkeit durch klare Formen gehalten wird.
+
+## Praxischeck
+
+Wenn du den Begriff **Leinen** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+
+- Fühle Griff, Gewicht und Stand des Materials.
+- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
+- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+
+## Beratungsblick
+
+In der Beratung ist **Leinen** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

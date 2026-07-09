@@ -1,25 +1,45 @@
 ---
 title: "Rocklänge: Wie wirkt sie?"
-term: "Rocklänge"
-description: "Rocklänge ist eine der wichtigsten Designentscheidungen. Sie prägt Proportionen, Wirkung und Alltagstauglichkeit."
-category: "Schnitt, Proportion & Passform"
-tags: ["rocklänge", "rock", "schnitt", "proportionen", "saumlänge", "längen"]
+term: Rocklänge
+description:
+  Rocklänge ist eine der wichtigsten Designentscheidungen. Sie prägt Proportionen, Wirkung
+  und Alltagstauglichkeit.
+category: Schnitt, Proportion & Passform
+tags:
+  - rocklänge
+  - rock
+  - schnitt
+  - proportionen
+  - saumlänge
+  - längen
 weight: 2
-image: "images/glossar/rocklange.png"
-image_alt: "Editoriale Grafik mit unterschiedlichen Rocklängen und ruhigen Proportionslinien"
+image: images/glossar/rocklange.png
+image_alt: Editoriale Grafik mit unterschiedlichen Rocklängen und ruhigen Proportionslinien
 relatedTerms:
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Silhouette"
-    url: "/glossar/silhouette/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Silhouette
+    url: /glossar/silhouette/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Outfit-Formel
+    url: /glossar/outfit-formel/
 cta:
-  content: '<p>Tiefer einsteigen? Unser Blog-Beitrag <strong>"Rocklänge und Wirkung: Das Komplette Guide"</strong> erklärt, welche Rocklängen zu welchem Typ und welcher Situation passen.</p><p><a href="/blog/rocklange-wirkung/" class="btn btn-small">Zum Blog-Beitrag</a></p>'
+  content:
+    <p>Tiefer einsteigen? Unser Blog-Beitrag <strong>"Rocklänge richtig wählen"</strong> erklärt,
+    welche Rocklängen zu welchem Typ und welcher Situation passen.</p><p><a href="/blog/rocklaenge-richtig-waehlen/"
+    class="btn btn-small">Zum Blog-Beitrag</a></p>
+faq:
+  items:
+    - q: Wie nutze ich „Rocklänge“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
+        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Rocklänge“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition

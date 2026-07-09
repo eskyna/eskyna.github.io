@@ -1,25 +1,44 @@
 ---
-title: "Hellblau im Stil erklärt"
-term: "Hellblau"
-description: "Hellblau wirkt frisch, klar und leicht. Es bringt Ruhe in den Look und ist besonders nah am Gesicht interessant."
-category: "Farb-Lexikon"
+title: Hellblau im Stil erklärt
+term: Hellblau
+description: Hellblau wirkt frisch, klar und leicht. Es bringt Ruhe in den Look und ist besonders
+  nah am Gesicht interessant.
+category: Farb-Lexikon
 color_hex: "#A7C7E7"
-tags: ["hellblau", "blau", "farbe", "farbberatung", "business"]
-keywords: ["hellblau kleidung", "hellblau kombinieren", "hellblaue bluse", "farbberatung"]
+tags:
+  - hellblau
+  - blau
+  - farbe
+  - farbberatung
+  - business
+keywords:
+  - hellblau kleidung
+  - hellblau kombinieren
+  - hellblaue bluse
+  - farbberatung
 weight: 20
-image: "images/glossar/hellblau.png"
-image_alt: "Editoriale Grafik zu Hellblau mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/hellblau.png
+image_alt: Editoriale Grafik zu Hellblau mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Blau"
-    url: "/glossar/blau/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Weiß"
-    url: "/glossar/weiss/"
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
+  - title: Blau
+    url: /glossar/blau/
+  - title: Navy
+    url: /glossar/navy/
+  - title: Weiß
+    url: /glossar/weiss/
+  - title: Business Casual
+    url: /glossar/business-casual/
+  - title: Farbtemperatur
+    url: /glossar/farbtemperatur/
+faq:
+  items:
+    - q: Wie nutze ich „Hellblau“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Hellblau“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Hellblau
@@ -60,3 +79,17 @@ Hellblau kann nahe am Gesicht sehr aufhellend wirken. Wenn es zu kühl erscheint
 ## ESKYNA-Merksatz
 
 Hellblau ist Frische ohne Lautstärke. Die Farbe wirkt am besten, wenn sie klar und nicht zu verspielt kombiniert wird.
+
+## Praxischeck
+
+Wenn du den Begriff **Hellblau** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Hellblau** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

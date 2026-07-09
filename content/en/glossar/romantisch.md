@@ -1,62 +1,94 @@
 ---
-title: "Was bedeutet Romantisch?"
-term: "Romantisch"
-description: "Romantisch wirkt ein Stil durch weiche Linien, zarte Farben, fließende Stoffe oder dekorative Details."
-category: "Stil & Wirkung"
-tags: ["romantisch", "stil"]
-keywords: ["romantisch", "was bedeutet romantisch", "romantisch stilberatung"]
 weight: 1
-image: "images/glossar/romantisch.png"
-image_alt: "Editoriale Glossar-Grafik zu Romantisch mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/romantisch.png
+title: What does Romantic Style mean?
+seoTitle: Romantic Style explained | ESKYNA Glossary
+term: Romantic Style
+description:
+  Romantic Style is a style concept that helps you understand presence and make more conscious
+  styling decisions.
+category: Style & Impact
+tags:
+  - romantic style
+  - style & impact
+  - style glossary
+keywords:
+  - romantic style
+  - what is romantic style
+  - romantic style style advice
+slug: romantic-style
+url: /glossary/romantic-style/
+aliases:
+  - /glossar/romantisch/
+image_alt: Editorial glossary illustration for Romantic Style
 relatedTerms:
-  - title: "Signature Look"
-    url: "/glossar/signature-look/"
-  - title: "Wirkung"
-    url: "/glossar/wirkung/"
-  - title: "Personal Style"
-    url: "/glossar/personal-style/"
-  - title: "Garderobenlogik"
-    url: "/glossar/garderobenlogik/"
+  - title: Signature Look
+    url: /en/glossary/signature-look/
+  - title: Personal Style
+    url: /en/glossary/personal-style/
+  - title: Impact
+    url: /en/glossary/impact/
+  - title: Style Consultation
+    url: /en/glossary/style-consultation/
+  - title: Presence
+    url: /en/glossary/presence/
+faq:
+  items:
+    - q: How can I use “Romantic Style” in real outfits?
+      a:
+        Use it as a checkpoint for presence, personality, and visual message. Use it to make your appearance
+        feel more coherent, precise, and authentic.
+    - q: Does “Romantic Style” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Romantisch**: Romantisch wirkt ein Stil durch weiche Linien, zarte Farben, fließende Stoffe oder dekorative Details.
+**Romantic Style**: Romantic Style is a style concept that helps you understand presence and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Romantic Style gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Romantisch wichtig ist
+## Why this matters for your image
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Romantic Style, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Romantisch, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+With Romantic Style, the important question is what it communicates. A strong look is not only attractive; it also supports the role, mood, and presence you want to show.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Romantisch im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Romantic Style in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Romantisch ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Romantic Style is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Romantisch funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Romantic Style works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Romantisch wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Romantic Style” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Signature Look](/glossar/signature-look/)
-- [Wirkung](/glossar/wirkung/)
-- [Personal Style](/glossar/personal-style/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
+Romantic Style works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Signature Look](/en/glossary/signature-look/)
+- [Personal Style](/en/glossary/personal-style/)
+- [Impact](/en/glossary/impact/)
+- [Style Consultation](/en/glossary/style-consultation/)
+- [Presence](/en/glossary/presence/)

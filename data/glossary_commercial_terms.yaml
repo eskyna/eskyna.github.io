@@ -1,0 +1,152 @@
+description: Commercially relevant glossary terms surfaced on glossary hub pages and checked by bin/check-commercial-glossary.
+terms:
+  - slug: farbberatung
+    cluster: color
+    weight: 1
+  - slug: stilberatung
+    cluster: style
+    weight: 2
+  - slug: imageberatung
+    cluster: image
+    weight: 3
+  - slug: personal-style
+    cluster: style
+    weight: 4
+  - slug: signature-look
+    cluster: style
+    weight: 5
+  - slug: kleiderschrank-check
+    cluster: wardrobe
+    weight: 6
+  - slug: capsule-wardrobe
+    cluster: wardrobe
+    weight: 7
+  - slug: personal-shopping
+    cluster: shopping
+    weight: 8
+  - slug: garderobenlogik
+    cluster: wardrobe
+    weight: 9
+  - slug: stilanalyse
+    cluster: style
+    weight: 10
+  - slug: typberatung
+    cluster: style
+    weight: 11
+  - slug: stil-klarheit
+    cluster: style
+    weight: 12
+  - slug: business-casual
+    cluster: business
+    weight: 13
+  - slug: business-professional
+    cluster: business
+    weight: 14
+  - slug: bewerbungsgespraech
+    cluster: business
+    weight: 15
+  - slug: buehnenoutfit
+    cluster: business
+    weight: 16
+  - slug: farbtyp
+    cluster: color
+    weight: 17
+  - slug: farbtemperatur
+    cluster: color
+    weight: 18
+  - slug: unterton
+    cluster: color
+    weight: 19
+  - slug: kontrast
+    cluster: color
+    weight: 20
+  - slug: proportion
+    cluster: fit
+    weight: 21
+  - slug: passform
+    cluster: fit
+    weight: 22
+  - slug: schnitt
+    cluster: fit
+    weight: 23
+  - slug: wirkung
+    cluster: image
+    weight: 24
+  - slug: ausstrahlung
+    cluster: image
+    weight: 25
+  - slug: praesenz
+    cluster: image
+    weight: 26
+  - slug: personal-branding
+    cluster: image
+    weight: 27
+  - slug: office-look
+    cluster: business
+    weight: 28
+  - slug: business-formal
+    cluster: business
+    weight: 29
+  - slug: linkedin-outfit
+    cluster: business
+    weight: 30
+  - slug: kamera-look
+    cluster: business
+    weight: 31
+  - slug: speaker-outfit
+    cluster: business
+    weight: 32
+  - slug: garderobenstrategie
+    cluster: wardrobe
+    weight: 33
+  - slug: garderobenplanung
+    cluster: wardrobe
+    weight: 34
+  - slug: reisegarderobe
+    cluster: wardrobe
+    weight: 35
+  - slug: anlassgarderobe
+    cluster: wardrobe
+    weight: 36
+  - slug: nachhaltige-garderobe
+    cluster: wardrobe
+    weight: 37
+  - slug: cost-per-wear
+    cluster: shopping
+    weight: 38
+  - slug: investitionsteil
+    cluster: shopping
+    weight: 39
+  - slug: einkaufsliste
+    cluster: shopping
+    weight: 40
+  - slug: signature-farbe
+    cluster: color
+    weight: 41
+  - slug: farbpalette
+    cluster: color
+    weight: 42
+  - slug: farbprofil
+    cluster: color
+    weight: 43
+  - slug: farbharmonie
+    cluster: color
+    weight: 44
+  - slug: schnittprofil
+    cluster: fit
+    weight: 45
+  - slug: wirkungskompetenz
+    cluster: image
+    weight: 46
+  - slug: wirkungsprofil
+    cluster: image
+    weight: 47
+  - slug: alltagsuniform
+    cluster: wardrobe
+    weight: 48
+  - slug: garderobe
+    cluster: wardrobe
+    weight: 49
+  - slug: farbpass
+    cluster: color
+    weight: 50

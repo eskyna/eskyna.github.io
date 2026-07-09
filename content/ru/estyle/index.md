@@ -1,10 +1,11 @@
 ---
 title: "EStyle: ваш цифровой стиль-консультант"
-seoTitle: "EStyle | цифровой стиль-консультант"
-eyebrow: "Цифровое предложение от Наталии Клеманн"
-image: "images/estyle-app.png"
+seoTitle: EStyle | цифровой стиль-консультант
+eyebrow: Цифровое предложение от Наталии Клеманн
+image: images/estyle-app.png
 ui:
-  back_to_home_text: "На главную"
+  back_to_home_text: На главную
+url: /rus/estyle/
 ---
 
 **EStyle** переводит цифровую консультацию по стилю в ясный и быстрый процесс.

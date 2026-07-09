@@ -1,62 +1,93 @@
 ---
-title: "Was ist ein Longsleeve?"
-term: "Longsleeve"
-description: "Ein Longsleeve ist ein langärmeliges Shirt, das zwischen T-Shirt und dünnem Pullover wirkt und viele Layering-Looks trägt."
-category: "Garderobe & Alltag"
-tags:
-  - "longsleeve"
-  - "shirt"
-  - "oberteil"
-  - "layering"
-keywords:
-  - "longsleeve"
-  - "was ist ein longsleeve"
-  - "langarmshirt kombinieren"
 weight: 6
-image: "images/glossar/longsleeve.png"
-image_alt: "Editoriale Grafik mit stilisiertem Longsleeve, langen Ärmeln und ruhigen Farbfeldern"
+image: images/glossar/longsleeve.png
+title: What does Longsleeve mean?
+seoTitle: Longsleeve explained | ESKYNA Glossary
+term: Longsleeve
+description: Longsleeve is a wardrobe or everyday styling concept that helps you understand daily
+  outfits and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - longsleeve
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - longsleeve
+  - what is longsleeve
+  - longsleeve style advice
+slug: longsleeve
+url: /glossary/longsleeve/
+aliases:
+  - /glossar/longsleeve/
+image_alt: Editorial glossary illustration for Longsleeve
 relatedTerms:
-  - title: "T-Shirt"
-    url: "/glossar/t-shirt/"
-  - title: "Layering"
-    url: "/glossar/layering/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Cardigan"
-    url: "/glossar/cardigan/"
+  - title: T-Shirt
+    url: /en/glossary/t-shirt/
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Cardigan
+    url: /en/glossary/cardigan/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Longsleeve” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Longsleeve” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Longsleeve** ist ein langärmeliges Shirt, meist aus Jersey, Baumwolle oder einer weichen Mischung. Es wirkt leichter als ein Pullover, aber angezogener als ein klassisches T-Shirt. Dadurch eignet es sich gut für Übergangszeiten und Layering.
+**Longsleeve**: Longsleeve is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein Longsleeve kann schlicht, sportlich oder sehr fein wirken. Entscheidend sind Ausschnitt, Material, Körpernähe und Farbe. Ein enges Longsleeve aus feinem Jersey wirkt anders als ein lockeres Modell aus gerippter Baumwolle.
+Longsleeve gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Unter Blazer, Cardigan, Weste oder Overshirt ist ein Longsleeve eine ruhige Grundlage. Es gibt Wärme, ohne den Look schwer zu machen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters in your wardrobe
 
-Für ESKYNA ist das Longsleeve ein gutes Basic, wenn es bewusst gewählt wird. Es sollte nicht nur praktisch sein, sondern in Farbe, Ausschnitt und Passform zur Garderobe passen.
+When you understand Longsleeve, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Longsleeve, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-- Achte auf einen Ausschnitt, der zum Gesicht und zur gewünschten Wirkung passt.
-- Prüfe, ob die Ärmel lang genug sind und nicht verdrehen.
-- Wähle Stoffe, die glatt fallen und nicht sofort ausleiern.
-- Nutze Longsleeves als ruhige Schicht unter Strukturteilen.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Longsleeve in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Ein Longsleeve ist nur ein einfaches Unterziehteil.  
-**Besser:** Ein gutes Longsleeve kann sichtbar getragen werden und einen Look klarer machen.
+## Common misconceptions
 
-**Missverständnis:** Je enger, desto eleganter.  
-**Besser:** Eleganz entsteht durch Stoff, Fall und Ausschnitt. Nicht durch Enge.
+**Misconception:** Longsleeve is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Longsleeve works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Ein Longsleeve ist ein stilles Basic. Gut gewählt macht es Layering leichter und den Kleiderschrank klarer.
+## Quick mirror check
+
+Look at “Longsleeve” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Longsleeve works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [T-Shirt](/en/glossary/t-shirt/)
+- [Layering](/en/glossary/layering/)
+- [Cardigan](/en/glossary/cardigan/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)

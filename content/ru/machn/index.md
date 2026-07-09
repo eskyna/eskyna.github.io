@@ -1,7 +1,9 @@
 ---
 title: MACHN Special
 seoTitle: MACHN Special | Анализ цвета и стиля для питчей | ESKYNA
-description: "Фестивальное предложение для участников MACHN: анализ цвета и стиля с Наталией Клеманн для уверенного, аутентичного выступления на питче."
+description:
+  "Фестивальное предложение для участников MACHN: анализ цвета и стиля с Наталией Клеманн для уверенного,
+  аутентичного выступления на питче."
 image: images/machn/photos/natalia_desk_900w.webp
 eyebrow: MACHN SPECIAL
 hero:
@@ -26,7 +28,9 @@ hero:
 live_proof:
   eyebrow: Live с MACHN Festival
   title: Наталия показывает на сцене, как работает образ для питча.
-  text: "На MACHN Festival становится видно, в чем суть ESKYNA Special: выступать ясно, выглядеть аутентично и презентовать свою идею через личность."
+  text:
+    "На MACHN Festival становится видно, в чем суть ESKYNA Special: выступать ясно, выглядеть аутентично и презентовать
+    свою идею через личность."
   image: images/machn/photos/natalia_desk_900w.webp
   image_tablet: images/machn/photos/natalia_desk_900w.webp
   image_mobile: images/machn/photos/natalia_desk_560w.webp
@@ -54,33 +58,41 @@ expectations:
   subtitle: Ваш образ. Ваше впечатление. Ваше преимущество.
   cards:
     - title: Анализ цвета и впечатления
-      text: Мы определяем, какие цвета делают вас более свежими, заметными и ясными — и какое впечатление они создают в вашем профессиональном контексте.
+      text:
+        Мы определяем, какие цвета делают вас более свежими, заметными и ясными — и какое впечатление они создают
+        в вашем профессиональном контексте.
       image: images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.png
       image_webp: images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.webp
       image_mobile: images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.png
       image_mobile_webp: images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.webp
       alt: Цветовой веер для анализа цвета и впечатления
     - title: Анализ стиля и pitch-образа
-      text: Мы рассматриваем вашу роль, личность, отрасль и ситуацию питча. Из этого рождается стилевое направление, которое поддерживает ваше сообщение.
+      text:
+        Мы рассматриваем вашу роль, личность, отрасль и ситуацию питча. Из этого рождается стилевое направление,
+        которое поддерживает ваше сообщение.
       image: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.png
       image_webp: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.webp
       image_mobile: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_640x480.png
       image_mobile_webp: images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_640x480.webp
       alt: Вешалка с деловым гардеробом
     - title: Рекомендация по образу для вашего следующего выступления
-      text: Вы получите конкретные рекомендации по одежде, цветам, силуэтам, аксессуарам и деталям, которые работают на сцене, в кадре и в разговоре.
+      text:
+        Вы получите конкретные рекомендации по одежде, цветам, силуэтам, аксессуарам и деталям, которые работают
+        на сцене, в кадре и в разговоре.
       image: images/machn/v3/service-images/03_outfit_empfehlung_pitch_1200x900.png
       image_webp: images/machn/v3/service-images/03_outfit_empfehlung_pitch_1200x900.webp
       image_mobile: images/machn/v3/service-images/03_outfit_empfehlung_pitch_640x480.png
       image_mobile_webp: images/machn/v3/service-images/03_outfit_empfehlung_pitch_640x480.webp
       alt: Деловой образ и аксессуары в формате flatlay
-    - title: Mini Style Guide для основателей
-      text: После встречи вы получите компактное резюме с вашими ключевыми цветами, стилевыми импульсами и рекомендациями для вашего pitch-образа.
+    - title: Мини-гайд по стилю для основателей
+      text:
+        После встречи вы получите компактное резюме с вашими ключевыми цветами, стилевыми импульсами и рекомендациями
+        для вашего pitch-образа.
       image: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.png
       image_webp: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.webp
       image_mobile: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.png
       image_mobile_webp: images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.webp
-      alt: Блокнот и ручка для Mini Style Guide
+      alt: Блокнот и ручка для мини-гайда по стилю
 result:
   title: Результат
   subtitle: Образ, который подходит вам и вашей визии.
@@ -107,17 +119,23 @@ offer_card:
   logo_alt: Логотип MACHN Festival 2026
 about:
   title: О Наталии Клеманн
-  text_1: Наталия Клеманн — коуч по стилю и имиджу. С ESKYNA она помогает людям делать свой стиль более осознанным, качественным и эффективным.
-  text_2: Ее подход соединяет одежду, цвета, личность и впечатление. Так возникает не переодетый business look, а образ, который остается аутентичным и при этом выглядит яснее, профессиональнее и заметнее.
+  text_1:
+    Наталия Клеманн — коуч по стилю и имиджу. С ESKYNA она помогает людям делать свой стиль более осознанным,
+    качественным и эффективным.
+  text_2:
+    Ее подход соединяет одежду, цвета, личность и впечатление. Так возникает не переодетый business образ,
+    а образ, который остается аутентичным и при этом выглядит яснее, профессиональнее и заметнее.
   image: images/machn/v3/people/natalia_schreibtisch.png
   image_webp: images/machn/v3/people/natalia_schreibtisch.webp
   image_mobile: images/machn/v3/people/natalia_schreibtisch.png
   image_mobile_webp: images/machn/v3/people/natalia_schreibtisch.webp
   image_alt: Наталия Клеманн, коуч по стилю и имиджу ESKYNA
 quote:
-  text: Я помогаю основателям сделать свою личность видимой — чтобы они презентовали не только хорошую идею, но и оставляли правильное впечатление.
+  text:
+    Я помогаю основателям сделать свою личность видимой — чтобы они презентовали не только хорошую идею, но
+    и оставляли правильное впечатление.
   author: Наталия Клеманн
-  role: ESKYNA – Style & Image
+  role: ESKYNA — стиль и имидж
 closing:
   title: Готовы к своему следующему сильному выступлению?
   text: Сделайте свой питч ясным не только по содержанию. Сделайте его визуально цельным.
@@ -126,4 +144,5 @@ contact_form:
   offer_label: MACHN Special
   prefill_message: Я был(а) на MACHN Festival и интересуюсь ESKYNA MACHN Special.
   success_message: Спасибо за ваш запрос. Наталия скоро свяжется с вами, чтобы согласовать встречу для MACHN Special.
+url: /rus/machn/
 ---

@@ -1,25 +1,44 @@
 ---
-title: "Roségold im Stil erklärt"
-term: "Roségold"
-description: "Roségold ist ein weicher Metallic-Ton zwischen Gold und Rosa. Es wirkt warm, fein und weniger klassisch als Gelbgold."
-category: "Farb-Lexikon"
+title: Roségold im Stil erklärt
+term: Roségold
+description: Roségold ist ein weicher Metallic-Ton zwischen Gold und Rosa. Es wirkt warm, fein und
+  weniger klassisch als Gelbgold.
+category: Farb-Lexikon
 color_hex: "#C99A8A"
-tags: ["rosegold", "roségold", "metallic", "rosa", "farbberatung"]
-keywords: ["roségold kombinieren", "rosegold schmuck", "roségold kleidung", "metallic"]
+tags:
+  - rosegold
+  - roségold
+  - metallic
+  - rosa
+  - farbberatung
+keywords:
+  - roségold kombinieren
+  - rosegold schmuck
+  - roségold kleidung
+  - metallic
 weight: 34
-image: "images/glossar/rosegold.png"
-image_alt: "Editoriale Grafik zu Roségold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/rosegold.png
+image_alt: Editoriale Grafik zu Roségold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
-  - title: "Metallic"
-    url: "/glossar/metallic/"
-  - title: "Gold"
-    url: "/glossar/gold/"
-  - title: "Silber"
-    url: "/glossar/silber/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Creme"
-    url: "/glossar/creme/"
+  - title: Metallic
+    url: /glossar/metallic/
+  - title: Gold
+    url: /glossar/gold/
+  - title: Silber
+    url: /glossar/silber/
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Creme
+    url: /glossar/creme/
+faq:
+  items:
+    - q: Wie nutze ich „Roségold“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Roségold“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Roségold
@@ -60,3 +79,17 @@ Roségold ist eine gute Option, wenn Gold zu warm und Silber zu kühl wirkt. Als
 ## ESKYNA-Merksatz
 
 Roségold ist Wärme mit Sanftheit. Es veredelt, ohne sich in den Vordergrund zu drängen.
+
+## Praxischeck
+
+Wenn du den Begriff **Roségold** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.
+
+- Teste die Farbe als Oberteil, Accessoire und Basis im unteren Outfitbereich.
+- Vergleiche matte, glänzende, grobe und fließende Materialien.
+- Kombiniere die Nuance mit deinen wichtigsten Basisfarben.
+
+## Beratungsblick
+
+In der Beratung ist **Roségold** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).

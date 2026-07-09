@@ -1,58 +1,94 @@
 ---
-title: "Was ist ein Cardigan?"
-term: "Cardigan"
-description: "Ein Cardigan ist eine offene Strickjacke, die als Schichtteil weich, elegant, lässig oder strukturiert wirken kann."
-category: "Garderobe & Alltag"
-tags: ["cardigan", "strickjacke", "layering", "pullover", "garderobe"]
-keywords: ["cardigan", "was ist ein cardigan", "cardigan kombinieren", "strickjacke"]
 weight: 18
-image: "images/glossar/cardigan.png"
-image_alt: "Editoriale Grafik mit offenem Cardigan, Knopfleiste, Strickstruktur und warmen Farbfeldern"
+image: images/glossar/cardigan.png
+title: What does Cardigan mean?
+seoTitle: Cardigan explained | ESKYNA Glossary
+term: Cardigan
+description:
+  Cardigan is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - cardigan
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - cardigan
+  - what is cardigan
+  - cardigan style advice
+slug: cardigan
+url: /glossary/cardigan/
+aliases:
+  - /glossar/cardigan/
+image_alt: Editorial glossary illustration for Cardigan
 relatedTerms:
-  - title: "Pullover"
-    url: "/glossar/pullover/"
-  - title: "Layering"
-    url: "/glossar/layering/"
-  - title: "Basic"
-    url: "/glossar/basic/"
-  - title: "T-Shirt"
-    url: "/glossar/t-shirt/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
+  - title: Layering
+    url: /en/glossary/layering/
+  - title: Basic
+    url: /en/glossary/basic/
+  - title: T-Shirt
+    url: /en/glossary/t-shirt/
+  - title: Proportion
+    url: /en/glossary/proportion/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+faq:
+  items:
+    - q: How can I use “Cardigan” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Cardigan” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Cardigan** ist eine offene Strickjacke, meist mit Knöpfen oder offener Front. Er kann weich, gemütlich, elegant, klassisch oder modern wirken. Die Wirkung hängt stark von Länge, Material, Knopfleiste und Volumen ab.
+**Cardigan**: Cardigan is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Ein kurzer Cardigan kann taillenbetonend wirken. Ein langer Cardigan streckt eher und wirkt ruhiger. Feinstrick erscheint eleganter, Grobstrick gemütlicher. Ein Cardigan mit kleinen Knöpfen wirkt klassischer. Eine offene, reduzierte Form wirkt moderner.
+Cardigan gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Der Cardigan ist ein typisches Layering-Teil. Er kann über T-Shirt, Bluse, Kleid oder Top getragen werden und ersetzt oft eine leichte Jacke.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Cardigans wichtig sind
+## Why this matters in your wardrobe
 
-Ein Cardigan macht Outfits flexibler. Er gibt Wärme, ohne so formell zu wirken wie ein Blazer. Gleichzeitig kann er einen Look weicher machen und Farben miteinander verbinden.
+When you understand Cardigan, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist der Cardigan interessant, weil er Nähe und Ruhe ausstrahlen kann. In der richtigen Qualität wirkt er nicht nach Notlösung, sondern nach bewusstem Stilbaustein.
+With Cardigan, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei Cardigans achten solltest
+## What to pay attention to
 
-- Die Länge sollte zu deiner Proportion passen.
-- Die Knöpfe beeinflussen, ob der Look klassisch, verspielt oder modern wirkt.
-- Der Strick sollte nicht ausleiern oder schwer hängen.
-- Die Farbe sollte mit Tops, Hosen und Kleidern kombinierbar sein.
-- Das Volumen sollte nicht mit zu vielen weiten Teilen konkurrieren.
+- Check the role of Cardigan in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Cardigans wirken immer brav.  
-**Besser:** Schnitt, Material und Styling entscheiden. Ein reduzierter Cardigan kann sehr modern wirken.
+**Misconception:** Cardigan is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Eine Strickjacke ist nur praktisch.  
-**Besser:** Ein guter Cardigan kann ein Look verbinden und weicher machen.
+**Misconception:** Cardigan works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein Cardigan ist ein leises Schichtteil. Seine Stärke liegt in Wärme, Weichheit und Verbindung.
+Look at “Cardigan” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Cardigan works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Layering](/en/glossary/layering/)
+- [Basic](/en/glossary/basic/)
+- [T-Shirt](/en/glossary/t-shirt/)
+- [Proportion](/en/glossary/proportion/)
+- [Wardrobe](/en/glossary/wardrobe/)

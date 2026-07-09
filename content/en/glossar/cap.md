@@ -1,54 +1,93 @@
 ---
-title: "Cap"
-term: "Cap"
-description: "Eine Cap ist eine sportliche Kopfbedeckung mit Schirm, die einem Outfit Lässigkeit, Kontrast oder urbane Ruhe geben kann."
-category: "Materialien & Details"
-tags: ["cap", "accessoire", "kopfbedeckung", "sportlich", "styling"]
-keywords: ["cap styling", "was ist eine cap", "cap kombinieren"]
 weight: 27
-image: "images/glossar/cap.png"
-image_alt: "Editoriale Grafik zu Cap mit abstrahierten Formen, ruhigen Farbfeldern und hochwertiger Anmutung"
+image: images/glossar/cap.png
+title: What does Cap mean?
+seoTitle: Cap explained | ESKYNA Glossary
+term: Cap
+description:
+  Cap is a material or detail term that influences quality, comfort, texture, and the overall
+  impression of an outfit.
+category: Materials & Details
+tags:
+  - cap
+  - materials & details
+  - style glossary
+keywords:
+  - cap
+  - what is cap
+  - cap style advice
+slug: cap
+url: /glossary/cap/
+aliases:
+  - /glossar/cap/
+image_alt: Editorial glossary illustration for Cap
 relatedTerms:
-  - title: "Hut"
-    url: "/glossar/hut/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
-  - title: "Sneaker"
-    url: "/glossar/sneaker/"
-  - title: "Stilbruch"
-    url: "/glossar/stilbruch/"
-  - title: "Smart Casual"
-    url: "/glossar/smart-casual/"
+  - title: Sneaker
+    url: /en/glossary/sneaker/
+  - title: Smart Casual
+    url: /en/glossary/smart-casual/
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Texture
+    url: /en/glossary/texture/
+faq:
+  items:
+    - q: How can I use “Cap” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Cap” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Cap** ist eine sportliche Kopfbedeckung mit Schirm. Sie wirkt ursprünglich casual, kann aber auch als bewusster Stilbruch eingesetzt werden.
+**Cap**: Cap is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Eine Baumwoll-Cap wirkt lässig. Eine Woll-Cap wirkt ruhiger und hochwertiger. Eine Cap in Ton-in-Ton mit Mantel oder Blazer kann sehr modern aussehen.
+Cap gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Die Cap beeinflusst Gesichtsrahmung und Gesamtstimmung. Sie macht Looks entspannter und kann elegante Kleidung alltagstauglicher wirken lassen.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum dieser Begriff wichtig ist
+## Why this matters for quality
 
-Caps sind interessant, weil sie sportliche Leichtigkeit in eine Garderobe bringen. Richtig eingesetzt, wirken sie nicht nach Zufall, sondern nach Haltung.
+When you understand Cap, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## Worauf du achten solltest
+With Cap, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-- Wähle eine ruhige Farbe, wenn die Cap elegant wirken soll.
-- Achte auf Form und Höhe der Krone.
-- Nutze sie als Stilbruch zu Blazer, Mantel oder Kleid.
+## What to pay attention to
 
-## Typische Missverständnisse
+- Check the role of Cap in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-**Missverständnis:** Caps sind nur für Sportlooks.  
-**Besser:** In ruhigen Farben können sie auch moderne City-Looks ergänzen.
+## Common misconceptions
 
-**Missverständnis:** Eine Cap macht jeden Look jünger.  
-**Besser:** Sie macht ihn vor allem lässiger. Ob das stimmig ist, entscheidet der Kontext.
+**Misconception:** Cap is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## ESKYNA-Merksatz
+**Misconception:** Cap works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Eine Cap bringt Lässigkeit ins Outfit. Elegant wird sie, wenn Farbe, Material und Kontext stimmen.
+## Quick mirror check
+
+Look at “Cap” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Cap works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Sneaker](/en/glossary/sneaker/)
+- [Smart Casual](/en/glossary/smart-casual/)
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Texture](/en/glossary/texture/)

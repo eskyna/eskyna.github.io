@@ -1,66 +1,94 @@
 ---
-title: "Gold im Stil erklärt"
-term: "Gold"
-description: "Gold ist ein warmer Metallic-Ton. Es wirkt weich, luxuriös und besonders schön in Accessoires und Details."
-category: "Farb-Lexikon"
-color_hex: "#C5A059"
-tags: ["gold", "metallic", "farbe", "accessoire", "farbberatung"]
-keywords: ["gold kleidung", "gold kombinieren", "goldschmuck farbberatung", "metallic"]
 weight: 32
-image: "images/glossar/gold.png"
-image_alt: "Editoriale Grafik zu Gold mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/gold.png
+color_hex: "#C5A059"
+title: What does Gold mean?
+seoTitle: Gold explained | ESKYNA Glossary
+term: Gold
+description: Gold is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - gold
+  - color lexicon
+  - style glossary
+keywords:
+  - gold
+  - what is gold
+  - gold style advice
+slug: gold
+url: /glossary/gold/
+aliases:
+  - /glossar/gold/
+image_alt: Editorial glossary illustration for Gold
 relatedTerms:
-  - title: "Feinschmuck"
-    url: "/glossar/feinschmuck/"
-  - title: "Creolen"
-    url: "/glossar/creolen/"
-  - title: "Metallic"
-    url: "/glossar/metallic/"
-  - title: "Silber"
-    url: "/glossar/silber/"
-  - title: "Roségold"
-    url: "/glossar/rosegold/"
-  - title: "Camel"
-    url: "/glossar/camel/"
-  - title: "Braun"
-    url: "/glossar/braun/"
+  - title: Metallic
+    url: /en/glossary/metallic/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+faq:
+  items:
+    - q: How can I use “Gold” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Gold” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Gold
+## Definition
 
-Gold bringt Wärme und Licht in den Look. Als Schmuck, Schnalle, Schuh oder feines Detail kann es eine ruhige Garderobe sofort weicher und hochwertiger wirken lassen.
+**Gold**: Gold is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Gold wirkt
+## In simple words
 
-Gold wirkt weniger kühl als Silber und meist weicher als starke Farben. Es kann luxuriös, festlich oder natürlich erscheinen. Entscheidend ist der Glanzgrad: Mattes Gold wirkt ruhiger, glänzendes Gold auffälliger.
+Gold gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Gold
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Hellgold:** Leicht, fein und weniger schwer.
-- **Gelbgold:** Klassisch warm und sichtbar.
-- **Champagnergold:** Weicher, heller und eleganter.
-- **Antikgold:** Gedämpfter und etwas erdiger.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Gold, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gold als Schmuck wirkt nah am Gesicht besonders stark. Goldfarbene Schuhe oder Taschen setzen Lichtpunkte. In Stoffen wirkt Gold schnell festlich, in kleinen Details bleibt es alltagstauglicher.
+With Gold, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Gold kombinieren
+## What to pay attention to
 
-- **Gold + Creme:** weich und luxuriös
-- **Gold + Braun:** warm und geerdet
-- **Gold + Schwarz:** stark und abendlich
-- **Gold + Navy:** klassisch und hochwertig
-- **Gold + Oliv:** warm und modern
+- Check the role of Gold in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Gold im Business und Alltag
+## Common misconceptions
 
-Im Business ist Gold sehr gut als Schmuck, Uhr, Gürtel oder Tasche tragbar. Große goldene Flächen wirken schneller festlich. Feine, matte oder reduzierte Goldakzente bleiben professionell.
+**Misconception:** Gold is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Gold funktioniert
+**Misconception:** Gold works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Gold passt besonders gut zu warmen Farbwelten. Wenn Gelbgold zu warm wirkt, können Champagnergold, Roségold oder Silber harmonischer sein. Als Detail bleibt Gold fast immer steuerbar.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Gold” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Gold wärmt einen Look. Elegant wirkt es, wenn Glanz und Größe bewusst gewählt sind.
+## ESKYNA note
+
+Gold works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Metallic](/en/glossary/metallic/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)

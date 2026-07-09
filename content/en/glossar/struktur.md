@@ -1,58 +1,92 @@
 ---
-title: "Struktur"
-term: "Struktur"
-description: "Struktur beschreibt sichtbare oder fühlbare Oberflächen in Stoffen und gibt ruhigen Outfits Tiefe, Charakter und Qualität."
-category: "Materialien & Details"
-tags: ["struktur", "stoff", "material", "tweed", "strick"]
-keywords: ["struktur kleidung", "stoffstruktur", "strukturierte stoffe", "materialwirkung"]
 weight: 21
-image: "images/glossar/struktur.png"
-image_alt: "Editoriale Grafik mit Stoffraster, gewebter Struktur und feinen haptischen Linien"
+image: images/glossar/struktur.png
+title: What does Texture mean?
+seoTitle: Texture explained | ESKYNA Glossary
+term: Texture
+description: Texture is a material or detail term that influences quality, comfort, texture, and the
+  overall impression of an outfit.
+category: Materials & Details
+tags:
+  - texture
+  - materials & details
+  - style glossary
+keywords:
+  - texture
+  - what is texture
+  - texture style advice
+slug: texture
+url: /glossary/texture/
+aliases:
+  - /glossar/struktur/
+image_alt: Editorial glossary illustration for Texture
 relatedTerms:
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Leinen"
-    url: "/glossar/leinen/"
-  - title: "Denim"
-    url: "/glossar/denim/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
+  - title: Denim
+    url: /en/glossary/denim/
+  - title: Material Quality
+    url: /en/glossary/material-quality/
+  - title: Craftsmanship
+    url: /en/glossary/craftsmanship/
+  - title: Care
+    url: /en/glossary/care/
+  - title: Quality
+    url: /en/glossary/quality/
+faq:
+  items:
+    - q: How can I use “Texture” in real outfits?
+      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
+        why similar garments can look or feel completely different when worn.
+    - q: Does “Texture” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Struktur** beschreibt die sichtbare oder fühlbare Oberfläche eines Materials. Ein Stoff kann glatt, gerippt, grob gewebt, körnig, weich gebürstet, glänzend oder matt strukturiert sein.
+**Texture**: Texture is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
 
-## Einfach erklärt
+## In simple words
 
-Struktur macht Kleidung haptisch und visuell lebendiger. Leinen hat oft eine trockene, unregelmäßige Oberfläche. Denim wirkt durch seine Webung robuster. Grobstrick wirkt weich und gemütlich. Tweed oder Bouclé bringen eine klassische, texturierte Tiefe.
+Texture gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Besonders bei ruhigen Farben ist Struktur wichtig. Ein monochromer Look aus Creme wirkt spannender, wenn glatte Baumwolle, weicher Strick und ein strukturierter Mantel zusammenkommen. Ohne Struktur kann ein ruhiger Look schnell flach wirken.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Struktur wichtig ist
+## Why this matters for quality
 
-Struktur beeinflusst, wie hochwertig ein Outfit gelesen wird. Sie kann Tiefe erzeugen, ohne laute Farben oder Muster zu nutzen. Gleichzeitig verändert sie die Stilrichtung: Glatt wirkt klarer, grob wirkt natürlicher, glänzend wirkt festlicher, matt wirkt ruhiger.
+When you understand Texture, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist Struktur ein feines Mittel, um Persönlichkeit in reduzierte Looks zu bringen. Sie macht Stil sichtbar, ohne dass der Look überladen wirkt.
+With Texture, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
 
-## Worauf du bei Struktur achten solltest
+## What to pay attention to
 
-- Grobe Strukturen wirken präsenter als glatte Stoffe.
-- Feine Strukturen können sehr elegant sein.
-- Struktur nahe am Gesicht beeinflusst die Gesamtwirkung stark.
-- Mehrere Strukturen brauchen eine klare Farblogik.
-- Sehr unruhige Oberflächen sollten bewusst dosiert werden.
+- Check the role of Texture in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Struktur ist dasselbe wie Muster.  
-**Besser:** Muster ist meist optisch aufgedruckt oder eingewebt. Struktur ist die Oberfläche des Materials.
+**Misconception:** Texture is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Glatte Stoffe wirken immer eleganter.  
-**Besser:** Auch strukturierte Stoffe können sehr hochwertig wirken, wenn Schnitt und Material stimmen.
+**Misconception:** Texture works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Struktur gibt einem Look Tiefe, besonders dann, wenn die Farben ruhig bleiben.
+Look at “Texture” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Texture works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Denim](/en/glossary/denim/)
+- [Material Quality](/en/glossary/material-quality/)
+- [Craftsmanship](/en/glossary/craftsmanship/)
+- [Care](/en/glossary/care/)
+- [Quality](/en/glossary/quality/)

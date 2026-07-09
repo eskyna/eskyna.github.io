@@ -1,44 +1,92 @@
 ---
-title: "Was bedeutet Reinweiß?"
-term: "Reinweiß"
-description: "Reinweiß ist ein klares, kühles Weiß, das sehr frisch und kontrastreich wirkt, aber nicht jedem Farbtyp schmeichelt."
-category: "Farbberatung & Farbe"
-tags: ["reinweiss", "weiss", "farbe", "farbberatung"]
-keywords: ["reinweiss", "reines weiss", "kühles weiss"]
 weight: 17
+title: What does Pure White mean?
+seoTitle: Pure White explained | ESKYNA Glossary
+term: Pure White
+description: Pure White is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - pure white
+  - color consultation & color
+  - style glossary
+keywords:
+  - pure white
+  - what is pure white
+  - pure white style advice
+slug: pure-white
+url: /glossary/pure-white/
+aliases:
+  - /glossar/reinweiss/
+image_alt: Editorial glossary illustration for Pure White
 relatedTerms:
-  - title: "Weiss"
-    url: "/glossar/weiss/"
-  - title: "Creme"
-    url: "/glossar/creme/"
-  - title: "Cremeweiss"
-    url: "/glossar/cremeweiss/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Wintertyp"
-    url: "/glossar/wintertyp/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Pure White” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Pure White” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Reinweiss** ist ein klares, kühles Weiss ohne sichtbare Gelb- oder Cremenuance. Es wirkt frisch, kontrastreich und oft besonders streng oder präzise.
+**Pure White**: Pure White is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Reinweiss passt nicht automatisch jedem. Bei manchen Personen bringt es Leuchtkraft, bei anderen lässt es das Gesicht härter oder blasser erscheinen.
+Pure White gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Warum der Begriff wichtig ist
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-Die Unterscheidung zwischen Reinweiss und waermeren Weisstoenen gehört zu den wichtigsten Feinheiten in der Farbberatung.
+## Why this matters in color consultation
 
-## ESKYNA-Merksatz
+When you understand Pure White, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Reinweiss ist Klarheit in maximaler Form. Es braucht den richtigen Kontext.
+In color consultation, Pure White becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Verwandte Begriffe
+## What to pay attention to
 
-- [Weiss](/glossar/weiss/)
-- [Creme](/glossar/creme/)
-- [Cremeweiss](/glossar/cremeweiss/)
-- [Unterton](/glossar/unterton/)
-- [Wintertyp](/glossar/wintertyp/)
+- Check the role of Pure White in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
+
+## Common misconceptions
+
+**Misconception:** Pure White is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Pure White works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Pure White” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Pure White works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

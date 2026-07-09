@@ -1,46 +1,93 @@
 ---
-title: "Was bedeutet Frühlingstyp?"
-term: "Frühlingstyp"
-description: "Der Frühlingstyp ist ein warmer, meist heller und klarer Farbtyp, dem frische und lebendige Farben besonders gut stehen."
-category: "Farbberatung & Farbe"
-tags: ["frühlingstyp", "farbtyp", "farbberatung", "spring type"]
-keywords: ["frühlingstyp", "light spring", "clear spring", "warm spring", "frühling farbtyp"]
 weight: 7
+title: What does Spring Color Type mean?
+seoTitle: Spring Color Type explained | ESKYNA Glossary
+term: Spring Color Type
+description:
+  Spring Color Type is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - spring color type
+  - color consultation & color
+  - style glossary
+keywords:
+  - spring color type
+  - what is spring color type
+  - spring color type style advice
+slug: spring-color-type
+url: /glossary/spring-color-type/
+aliases:
+  - /glossar/fruehlingstyp/
+image_alt: Editorial glossary illustration for Spring Color Type
 relatedTerms:
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Farbtemperatur"
-    url: "/glossar/farbtemperatur/"
-  - title: "Klare Farben"
-    url: "/glossar/klare-farben/"
-  - title: "Farbpass"
-    url: "/glossar/farbpass/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Spring Color Type” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Spring Color Type” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Der **Frühlingstyp** ist ein warmer Farbtyp mit Tendenz zu Frische, Helligkeit und Klarheit. Besonders stimmig wirken oft warme, lichte und lebendige Nuancen.
+**Spring Color Type**: Spring Color Type is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Typisch sind Farben mit Sonnenwaerme und Leuchtkraft. Koralle, Apricot, warmes Tuerkis, klares Gruen oder helles Camel können sehr gut funktionieren.
+Spring Color Type gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Innerhalb des Frühlings werden haeufig Untergruppen unterschieden: **Light Spring** für hellere, zartere Varianten, **Clear Spring** für besonders klare und frische Farben und **Warm Spring** für Frühlinge mit deutlich waermerer Farbtemperatur.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum der Begriff wichtig ist
+## Why this matters in color consultation
 
-Der Frühlingstyp hilft zu verstehen, warum manche warme Farben frisch machen, während stumpfe oder zu dunkle Toene schnell Schwere in den Look bringen.
+When you understand Spring Color Type, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-## ESKYNA-Merksatz
+In color consultation, Spring Color Type becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-Beim Frühlingstyp wirken Farben am stärksten, wenn Waerme und Leichtigkeit zusammenkommen.
+## What to pay attention to
 
-## Verwandte Begriffe
+- Check the role of Spring Color Type in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- [Farbtyp](/glossar/farbtyp/)
-- [Unterton](/glossar/unterton/)
-- [Farbtemperatur](/glossar/farbtemperatur/)
-- [Klare Farben](/glossar/klare-farben/)
-- [Farbpass](/glossar/farbpass/)
+## Common misconceptions
+
+**Misconception:** Spring Color Type is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+
+**Misconception:** Spring Color Type works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+
+## Quick mirror check
+
+Look at “Spring Color Type” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Spring Color Type works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

@@ -3,46 +3,215 @@
   "https://www.instagram.com/natalia.kleemann/"
   "https://t.me/Natalia_Klee"
 }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $schemaLang := cond $isRu "ru" $lang }}
+{{ $glossaryUrl := ("glossar" | absLangURL) }}
+{{ with .Site.GetPage "glossar" }}{{ $glossaryUrl = .Permalink }}{{ end }}
 {{ $description := (.Description | default .Site.Params.description | plainify) }}
 {{ $pageName := replace (.Params.seoTitle | default .Title) "Categories" (i18n "taxonomy_categories_title") }}
+{{ $personJobTitle := cond $isRu "Консультант по стилю и имиджу" (cond (eq $lang "en") "Style and image coach" "Style- und Imagecoach") }}
+{{ $serviceName := cond $isRu "ESKYNA: стиль и имидж" (cond (eq $lang "en") "ESKYNA Style & Image Coaching" "ESKYNA Style & Image Coaching") }}
+{{ $homeName := cond $isRu "Главная" (cond (eq $lang "en") "Home" "Startseite") }}
+{{ $glossarName := cond $isRu "Глоссарий" (cond (eq $lang "en") "Glossary" "Glossar") }}
+{{ $isGlossaryTerm := and (eq .Section "glossar") (eq .Kind "page") (not (.Params.is_glossar_category | default false)) }}
+{{ $isGlossaryList := and (eq .Section "glossar") (or (eq .Kind "section") (.Params.is_glossar_category | default false)) }}
+{{ $termName := .Params.term | default .Title | plainify }}
+{{ $termCode := urlize $termName }}
+{{ with .File }}{{ $termCode = .BaseFileName }}{{ end }}
+{{ $termCategoryPage := false }}
+{{ if $isGlossaryTerm }}
+  {{ $currentCategory := .Params.category | default "" }}
+  {{ if $currentCategory }}
+    {{ with .CurrentSection }}
+      {{ $categoryPages := where .RegularPages "Params.is_glossar_category" true }}
+      {{ $matchingCategoryPages := where $categoryPages "Params.glossar_category" $currentCategory }}
+      {{ if gt (len $matchingCategoryPages) 0 }}
+        {{ $termCategoryPage = index $matchingCategoryPages 0 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 {{ $website := dict
   "@context" "https://schema.org"
   "@type" "WebSite"
+  "@id" (printf "%s#website" .Site.BaseURL)
   "name" .Site.Title
   "url" .Site.BaseURL
-  "inLanguage" .Site.Language.Lang
+  "inLanguage" $schemaLang
 }}
 {{ $person := dict
   "@context" "https://schema.org"
   "@type" "Person"
+  "@id" (printf "%s#natalia-kleemann" .Site.BaseURL)
   "name" (.Site.Params.author | default "Natalia Kleemann")
   "url" .Site.BaseURL
   "description" $description
-  "jobTitle" "Style- und Imagecoach"
+  "jobTitle" $personJobTitle
   "sameAs" $sameAs
 }}
 {{ $service := dict
   "@context" "https://schema.org"
   "@type" "ProfessionalService"
-  "name" "ESKYNA Style & Image Coaching"
+  "@id" (printf "%s#professional-service" .Site.BaseURL)
+  "name" $serviceName
   "url" .Site.BaseURL
   "description" $description
-  "provider" (dict "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+  "provider" (dict "@id" (printf "%s#natalia-kleemann" .Site.BaseURL) "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
   "areaServed" (slice "Hannover" "Online")
 }}
+{{ $pageType := "WebPage" }}
+{{ if $isGlossaryList }}{{ $pageType = "CollectionPage" }}{{ end }}
+{{ if $isGlossaryTerm }}{{ $pageType = slice "WebPage" "Article" }}{{ end }}
 {{ $page := dict
   "@context" "https://schema.org"
-  "@type" "WebPage"
+  "@type" $pageType
+  "@id" (printf "%s#webpage" .Permalink)
   "name" $pageName
   "url" .Permalink
   "description" $description
-  "inLanguage" .Site.Language.Lang
-  "isPartOf" (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+  "inLanguage" $schemaLang
+  "author" (dict "@id" (printf "%s#natalia-kleemann" .Site.BaseURL) "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+  "isPartOf" (dict "@id" (printf "%s#website" .Site.BaseURL) "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
 }}
+{{ if not .Lastmod.IsZero }}
+  {{ $page = merge $page (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")) }}
+{{ end }}
+{{ with .Params.image }}
+  {{ $page = merge $page (dict "image" (. | absURL)) }}
+{{ end }}
+{{ $termMentions := slice }}
+{{ if $isGlossaryTerm }}
+  {{ with .Params.relatedTerms }}
+    {{ range . }}
+      {{ $termMentions = $termMentions | append (dict "@type" "DefinedTerm" "name" (.title | plainify) "url" (.url | absURL) "inLanguage" $schemaLang) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if $isGlossaryTerm }}
+  {{ $page = merge $page (dict
+    "headline" ($pageName | plainify)
+    "articleSection" (.Params.category | default $glossarName | plainify)
+    "author" (dict "@id" (printf "%s#natalia-kleemann" .Site.BaseURL) "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+    "publisher" (dict "@type" "Organization" "name" "ESKYNA" "url" .Site.BaseURL)
+    "mainEntityOfPage" (dict "@id" (printf "%s#webpage" .Permalink))
+    "mainEntity" (dict "@id" (printf "%s#defined-term" .Permalink) "@type" "DefinedTerm" "name" $termName)
+    "about" $termName
+  ) }}
+  {{ with .Params.keywords }}
+    {{ $page = merge $page (dict "keywords" .) }}
+  {{ end }}
+  {{ if gt (len $termMentions) 0 }}
+    {{ $page = merge $page (dict "mentions" $termMentions) }}
+  {{ end }}
+{{ end }}
 <script type="application/ld+json">{{ $website | jsonify | safeJS }}</script>
 <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
 <script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
 <script type="application/ld+json">{{ $page | jsonify | safeJS }}</script>
+
+{{ if not .IsHome }}
+  {{ $breadcrumbItems := slice (dict "@type" "ListItem" "position" 1 "name" $homeName "item" .Site.Home.Permalink) }}
+  {{ if eq .Section "glossar" }}
+    {{ $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" $glossarName "item" $glossaryUrl) }}
+    {{ if and $isGlossaryTerm $termCategoryPage }}
+      {{ $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 3 "name" ($termCategoryPage.Params.glossar_category | default $termCategoryPage.Title | plainify) "item" $termCategoryPage.Permalink) }}
+      {{ $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 4 "name" ($pageName | plainify) "item" .Permalink) }}
+    {{ else if ne .Kind "section" }}
+      {{ $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 3 "name" ($pageName | plainify) "item" .Permalink) }}
+    {{ end }}
+  {{ else }}
+    {{ $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" ($pageName | plainify) "item" .Permalink) }}
+  {{ end }}
+  {{ $breadcrumb := dict
+    "@context" "https://schema.org"
+    "@type" "BreadcrumbList"
+    "itemListElement" $breadcrumbItems
+  }}
+<script type="application/ld+json">{{ $breadcrumb | jsonify | safeJS }}</script>
+{{ end }}
+
+{{ if $isGlossaryList }}
+  {{ $itemPages := slice }}
+  {{ if eq .Kind "section" }}
+    {{ $itemPages = where .RegularPages "Params.is_glossar_category" "ne" true }}
+  {{ else }}
+    {{ $categoryLabel := .Params.glossar_category | default .Title }}
+    {{ with .CurrentSection }}
+      {{ $sectionTerms := where .RegularPages "Params.is_glossar_category" "ne" true }}
+      {{ $itemPages = where $sectionTerms "Params.category" $categoryLabel }}
+    {{ end }}
+  {{ end }}
+  {{ $itemPages = sort (sort $itemPages "Title" "asc") "Params.weight" "asc" }}
+  {{ $definedTerms := slice }}
+  {{ $listItems := slice }}
+  {{ range $index, $term := first 80 $itemPages }}
+    {{ $termTitle := $term.Params.term | default $term.Title | plainify }}
+    {{ $definedTerms = $definedTerms | append (dict
+      "@type" "DefinedTerm"
+      "name" $termTitle
+      "description" ($term.Description | plainify)
+      "url" $term.Permalink
+      "inLanguage" $schemaLang
+    ) }}
+    {{ $listItems = $listItems | append (dict
+      "@type" "ListItem"
+      "position" (add $index 1)
+      "url" $term.Permalink
+      "name" $termTitle
+    ) }}
+  {{ end }}
+  {{ if gt (len $definedTerms) 0 }}
+    {{ $definedTermSet := dict
+      "@context" "https://schema.org"
+      "@type" "DefinedTermSet"
+      "@id" (printf "%s#defined-term-set" .Permalink)
+      "name" ($pageName | plainify)
+      "url" .Permalink
+      "inLanguage" $schemaLang
+      "hasDefinedTerm" $definedTerms
+    }}
+<script type="application/ld+json">{{ $definedTermSet | jsonify | safeJS }}</script>
+  {{ end }}
+  {{ if gt (len $listItems) 0 }}
+    {{ $itemList := dict
+      "@context" "https://schema.org"
+      "@type" "ItemList"
+      "@id" (printf "%s#glossary-item-list" .Permalink)
+      "name" ($pageName | plainify)
+      "inLanguage" $schemaLang
+      "numberOfItems" (len $itemPages)
+      "itemListElement" $listItems
+    }}
+<script type="application/ld+json">{{ $itemList | jsonify | safeJS }}</script>
+  {{ end }}
+{{ end }}
+
+{{ if $isGlossaryTerm }}
+  {{ $definedTermSetName := cond $isRu "Глоссарий ESKYNA" (cond (eq $lang "en") "ESKYNA Glossary" "ESKYNA Glossar") }}
+  {{ $definedTerm := dict
+    "@context" "https://schema.org"
+    "@type" "DefinedTerm"
+    "@id" (printf "%s#defined-term" .Permalink)
+    "name" $termName
+    "termCode" $termCode
+    "description" $description
+    "url" .Permalink
+    "inLanguage" $schemaLang
+    "mainEntityOfPage" (dict "@id" (printf "%s#webpage" .Permalink))
+    "inDefinedTermSet" (dict "@type" "DefinedTermSet" "name" $definedTermSetName "url" $glossaryUrl)
+  }}
+  {{ if $termCategoryPage }}
+    {{ $definedTerm = merge $definedTerm (dict
+      "subjectOf" (dict "@type" "WebPage" "name" ($termCategoryPage.Params.glossar_category | default $termCategoryPage.Title | plainify) "url" $termCategoryPage.Permalink)
+    ) }}
+  {{ end }}
+  {{ if gt (len $termMentions) 0 }}
+    {{ $definedTerm = merge $definedTerm (dict "isRelatedTo" $termMentions) }}
+  {{ end }}
+<script type="application/ld+json">{{ $definedTerm | jsonify | safeJS }}</script>
+{{ end }}
+
 {{ with .Params.faq }}
   {{ with .items }}
     {{ $mainEntity := slice }}
@@ -56,6 +225,9 @@
     {{ $faq := dict
       "@context" "https://schema.org"
       "@type" "FAQPage"
+      "@id" (printf "%s#faq" $.Permalink)
+      "inLanguage" $schemaLang
+      "mainEntityOfPage" (dict "@id" (printf "%s#webpage" $.Permalink))
       "mainEntity" $mainEntity
     }}
 <script type="application/ld+json">{{ $faq | jsonify | safeJS }}</script>

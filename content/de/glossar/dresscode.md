@@ -1,24 +1,46 @@
 ---
-title: "Was ist ein Dresscode?"
-term: "Dresscode"
-description: "Ein Dresscode beschreibt Kleidungserwartungen für einen Anlass und hilft, den passenden Rahmen für Stil und Wirkung zu finden."
-category: "Garderobe & Alltag"
-tags: ["dresscode", "anlass", "business casual", "smart casual", "wirkung"]
-keywords: ["dresscode", "was ist ein dresscode", "dresscode verstehen", "kleidung anlass"]
+title: Was ist ein Dresscode?
+term: Dresscode
+description: Ein Dresscode beschreibt Kleidungserwartungen für einen Anlass und hilft, den passenden
+  Rahmen für Stil und Wirkung zu finden.
+category: Garderobe & Alltag
+tags:
+  - dresscode
+  - anlass
+  - business casual
+  - smart casual
+  - wirkung
+keywords:
+  - dresscode
+  - was ist ein dresscode
+  - dresscode verstehen
+  - kleidung anlass
 weight: 14
-image: "images/glossar/dresscode.png"
-image_alt: "Editoriale Grafik mit Einladungskarte, Kleiderrahmen und ruhigen Farbfeldern für unterschiedliche Anlässe"
+image: images/glossar/dresscode.png
+image_alt:
+  Editoriale Grafik mit Einladungskarte, Kleiderrahmen und ruhigen Farbfeldern für unterschiedliche
+  Anlässe
 relatedTerms:
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Smart Casual"
-    url: "/glossar/smart-casual/"
-  - title: "Outfit-Formel"
-    url: "/glossar/outfit-formel/"
-  - title: "Blazer"
-    url: "/glossar/blazer/"
-  - title: "Signature Look"
-    url: "/glossar/signature-look/"
+  - title: Business Casual
+    url: /glossar/business-casual/
+  - title: Smart Casual
+    url: /glossar/smart-casual/
+  - title: Outfit-Formel
+    url: /glossar/outfit-formel/
+  - title: Blazer
+    url: /glossar/blazer/
+  - title: Signature Look
+    url: /glossar/signature-look/
+faq:
+  items:
+    - q: Wie nutze ich „Dresscode“ im Alltag?
+      a:
+        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Dresscode“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +78,17 @@ Für ESKYNA ist ein Dresscode kein Stilgefängnis. Er ist eine Bühne mit Grenze
 ## ESKYNA-Merksatz
 
 Ein Dresscode ist kein Kostüm. Er ist ein Rahmen, in dem deine Wirkung präziser werden kann.
+
+## Praxischeck
+
+Wenn du den Begriff **Dresscode** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+
+- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
+- Achte auf Wiederholungen in Farbe, Material und Silhouette.
+- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+
+## Beratungsblick
+
+In der Beratung ist **Dresscode** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).

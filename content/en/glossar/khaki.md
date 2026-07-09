@@ -1,62 +1,94 @@
 ---
-title: "Khaki im Stil erklärt"
-term: "Khaki"
-description: "Khaki liegt zwischen Beige, Grün und Braun. Es wirkt natürlich, funktional und zurückhaltend."
-category: "Farb-Lexikon"
-color_hex: "#B7A77A"
-tags: ["khaki", "beige", "gruen", "farbe", "farbberatung"]
-keywords: ["khaki kleidung", "khaki kombinieren", "khaki farbe", "farbberatung"]
 weight: 25
-image: "images/glossar/khaki.png"
-image_alt: "Editoriale Grafik zu Khaki mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten"
+image: images/glossar/khaki.png
+color_hex: "#B7A77A"
+title: What does Khaki mean?
+seoTitle: Khaki explained | ESKYNA Glossary
+term: Khaki
+description: Khaki is a color term that helps you plan outfits with clearer harmony, contrast, and
+  mood.
+category: Color Lexicon
+tags:
+  - khaki
+  - color lexicon
+  - style glossary
+keywords:
+  - khaki
+  - what is khaki
+  - khaki style advice
+slug: khaki
+url: /glossary/khaki/
+aliases:
+  - /glossar/khaki/
+image_alt: Editorial glossary illustration for Khaki
 relatedTerms:
-  - title: "Oliv"
-    url: "/glossar/oliv/"
-  - title: "Beige"
-    url: "/glossar/beige/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
-  - title: "Trenchcoat"
-    url: "/glossar/trenchcoat/"
-  - title: "Neutrale Farben"
-    url: "/glossar/neutrale-farben/"
+  - title: Beige
+    url: /en/glossary/beige/
+  - title: Chinos
+    url: /en/glossary/chinos/
+  - title: Trenchcoat
+    url: /en/glossary/trenchcoat/
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Khaki” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Khaki” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Khaki
+## Definition
 
-Khaki bewegt sich zwischen Beige, Grün und Braun. Die Farbe wirkt natürlich, funktional und oft etwas zurückhaltender als Oliv.
+**Khaki**: Khaki is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Khaki wirkt
+## In simple words
 
-Khaki kann sportlich, sommerlich oder urban wirken. Es ist eine gute Basisfarbe, wenn Beige zu weich und Oliv zu grün erscheint. Besonders bei Chinos, Trenchcoats, Hemdjacken und leichten Hosen ist Khaki sehr vielseitig.
+Khaki gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-## Die Nuancen von Khaki
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-- **Sandiges Khaki:** Heller und näher an Beige.
-- **Grünliches Khaki:** Funktionaler und sportlicher.
-- **Graues Khaki:** Ruhiger und moderner.
-- **Warmes Khaki:** Schön zu Creme, Braun und Gold.
+## Why this matters in color styling
 
-## Material und Schnitt
+When you understand Khaki, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In Baumwolltwill wirkt Khaki klassisch und praktisch. In Leinen wird es sommerlich. In einem klaren Blazerstoff wirkt die Farbe gepflegter. In sehr weichen Stoffen kann sie lässiger erscheinen.
+With Khaki, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Khaki kombinieren
+## What to pay attention to
 
-- **Khaki + Weiß:** frisch und unkompliziert
-- **Khaki + Schwarz:** klar und urban
-- **Khaki + Navy:** gepflegt und ruhig
-- **Khaki + Braun:** warm und natürlich
-- **Khaki + Rosa:** weicher und moderner
+- Check the role of Khaki in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Khaki im Business und Alltag
+## Common misconceptions
 
-Khaki kann im Business funktionieren, wenn der Schnitt elegant ist. Eine khakifarbene Chino mit Bluse und Loafer wirkt gepflegt. Sehr funktionale Taschen, derbe Stoffe oder Utility-Details machen den Look dagegen sportlicher.
+**Misconception:** Khaki is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Für wen und wo Khaki funktioniert
+**Misconception:** Khaki works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Khaki braucht den richtigen [Unterton](/glossar/unterton/). Wenn es am Gesicht zu matt wirkt, ist die Farbe als Hose, Rock, Tasche oder Mantel oft leichter tragbar.
+## Quick mirror check
 
-## ESKYNA-Merksatz
+Look at “Khaki” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Khaki ist eine ruhige Naturfarbe. Elegant wird sie durch klare Linien und gute Materialien.
+## ESKYNA note
+
+Khaki works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Beige](/en/glossary/beige/)
+- [Chinos](/en/glossary/chinos/)
+- [Trenchcoat](/en/glossary/trenchcoat/)
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)

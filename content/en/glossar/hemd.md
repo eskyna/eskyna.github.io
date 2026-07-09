@@ -1,60 +1,93 @@
 ---
-title: "Was ist ein Hemd?"
-term: "Hemd"
-description: "Ein Hemd ist ein Oberteil mit Kragen und Knopfleiste, das je nach Schnitt klassisch, lässig oder modern wirken kann."
-category: "Garderobe & Alltag"
-tags: ["hemd", "oberteil", "business casual", "baumwolle", "passform"]
-keywords: ["hemd", "was ist ein hemd", "hemd kombinieren", "hemd passform"]
 weight: 14
-image: "images/glossar/hemd.png"
-image_alt: "Editoriale Grafik mit stilisiertem Hemd, Kragen, Knopfleiste und ruhigen Farbfeldern"
+image: images/glossar/hemd.png
+title: What does Shirt mean?
+seoTitle: Shirt explained | ESKYNA Glossary
+term: Shirt
+description: Shirt is a wardrobe or everyday styling concept that helps you understand daily outfits
+  and make more conscious styling decisions.
+category: Wardrobe & Everyday Style
+tags:
+  - shirt
+  - wardrobe & everyday style
+  - style glossary
+keywords:
+  - shirt
+  - what is shirt
+  - shirt style advice
+slug: shirt
+url: /glossary/shirt/
+aliases:
+  - /glossar/hemd/
+image_alt: Editorial glossary illustration for Shirt
 relatedTerms:
-  - title: "Bluse"
-    url: "/glossar/bluse/"
-  - title: "T-Shirt"
-    url: "/glossar/t-shirt/"
-  - title: "Business Casual"
-    url: "/glossar/business-casual/"
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Baumwolle"
-    url: "/glossar/baumwolle/"
-  - title: "Overshirt"
-    url: "/glossar/overshirt/"
+  - title: T-Shirt
+    url: /en/glossary/t-shirt/
+  - title: Business Casual
+    url: /en/glossary/business-casual/
+  - title: Capsule Wardrobe
+    url: /en/glossary/capsule-wardrobe/
+  - title: Wardrobe
+    url: /en/glossary/wardrobe/
+  - title: Wardrobe Logic
+    url: /en/glossary/wardrobe-logic/
+faq:
+  items:
+    - q: How can I use “Shirt” in real outfits?
+      a:
+        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
+        a piece will actually support your daily wardrobe instead of becoming another random purchase.
+    - q: Does “Shirt” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Hemd** ist ein Oberteil mit Kragen, Knopfleiste und meist gewebtem Stoff. Es wirkt je nach Schnitt, Material und Styling klassisch, lässig, maskulin, modern oder elegant.
+**Shirt**: Shirt is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
 
-## Einfach erklärt
+## In simple words
 
-Das klassische Hemd hat eine klare Struktur. Kragen, Manschetten und Knopfleiste geben dem Oberkörper Linie. Ein weißes Popeline-Hemd wirkt frisch und präzise. Ein Oxford-Hemd wirkt lässiger. Ein Seidenhemd wirkt weicher und eleganter. Ein oversized geschnittenes Hemd kann modern und entspannt wirken.
+Shirt gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Hemd bedeutet also nicht automatisch streng. Es kommt darauf an, wie nah der Schnitt am Körper liegt, wie steif der Stoff ist und welche Teile dazu kombiniert werden.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Hemden wichtig sind
+## Why this matters in your wardrobe
 
-Ein Hemd kann einen Look sofort ordnen. Es funktioniert zu Jeans, Chinos, Blazer, Marlenehose, Rock oder Strick. Gerade in Business Casual Looks ist es eine gute Alternative zur klassischen Bluse, weil es Klarheit und Leichtigkeit verbinden kann.
+When you understand Shirt, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Für ESKYNA ist das Hemd ein starkes Strukturteil. Es bringt Ruhe und Rahmen in eine Garderobe, wenn Passform und Material stimmen.
+With Shirt, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
 
-## Worauf du bei Hemden achten solltest
+## What to pay attention to
 
-- Die Schulterlinie sollte bewusst sitzen, klassisch oder oversized.
-- Der Kragen sollte zum Gesicht und zur gewünschten Wirkung passen.
-- Die Knopfleiste darf nicht spannen.
-- Die Länge entscheidet, ob das Hemd eingesteckt, offen oder locker getragen werden kann.
-- Der Stoff sollte zur Situation passen: glatt für klar, weicher für entspannt.
+- Check the role of Shirt in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Hemden sind immer formell.  
-**Besser:** Ein Hemd kann auch lässig wirken, besonders offen getragen, in weicher Baumwolle oder zu Denim.
+**Misconception:** Shirt is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Ein Hemd muss eng sitzen, um gepflegt zu wirken.  
-**Besser:** Auch ein lockerer Schnitt kann sehr hochwertig wirken, wenn Schulter, Länge und Stofffall stimmen.
+**Misconception:** Shirt works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Ein gutes Hemd bringt Struktur in den Look, ohne die Person dahinter zu überdecken.
+Look at “Shirt” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+
+## ESKYNA note
+
+Shirt works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [T-Shirt](/en/glossary/t-shirt/)
+- [Business Casual](/en/glossary/business-casual/)
+- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
+- [Wardrobe](/en/glossary/wardrobe/)
+- [Wardrobe Logic](/en/glossary/wardrobe-logic/)

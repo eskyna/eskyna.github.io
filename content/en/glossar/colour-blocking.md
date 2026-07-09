@@ -1,62 +1,94 @@
 ---
-title: "Colour Blocking"
-term: "Colour Blocking"
-description: "Colour Blocking kombiniert klar abgegrenzte Farbflächen und erzeugt grafische Spannung im Outfit."
-category: "Materialien & Details"
-tags: ["colour blocking", "materialien"]
-keywords: ["colour blocking", "was bedeutet colour blocking", "colour blocking stilberatung"]
 weight: 1
-image: "images/glossar/colour-blocking.png"
-image_alt: "Editoriale Glossar-Grafik zu Colour Blocking mit ruhigen Farbfeldern und feiner Linienführung"
+image: images/glossar/colour-blocking.png
+title: What does Colour Blocking mean?
+seoTitle: Colour Blocking explained | ESKYNA Glossary
+term: Colour Blocking
+description:
+  Colour Blocking is a color-consultation term that helps you understand undertone, contrast,
+  harmony, and personal color choices.
+category: Color Consultation & Color
+tags:
+  - colour blocking
+  - color consultation & color
+  - style glossary
+keywords:
+  - colour blocking
+  - what is colour blocking
+  - colour blocking style advice
+slug: colour-blocking
+url: /glossary/colour-blocking/
+aliases:
+  - /glossar/colour-blocking/
+image_alt: Editorial glossary illustration for Colour Blocking
 relatedTerms:
-  - title: "Materialfall"
-    url: "/glossar/materialfall/"
-  - title: "Struktur"
-    url: "/glossar/struktur/"
-  - title: "Glanzgrad"
-    url: "/glossar/glanzgrad/"
-  - title: "Accessoire"
-    url: "/glossar/accessoire/"
+  - title: Color Consultation
+    url: /en/glossary/color-consultation/
+  - title: Color Type
+    url: /en/glossary/color-type/
+  - title: Color Temperature
+    url: /en/glossary/color-temperature/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+faq:
+  items:
+    - q: How can I use “Colour Blocking” in real outfits?
+      a:
+        Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
+        direction makes the face look clearer while another feels disconnected.
+    - q: Does “Colour Blocking” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Colour Blocking**: Colour Blocking kombiniert klar abgegrenzte Farbflächen und erzeugt grafische Spannung im Outfit.
+**Colour Blocking**: Colour Blocking is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
-## Einfach erklärt
+## In simple words
 
-Muster bringen Bewegung in einen Look. Entscheidend sind Größe, Kontrast, Platzierung und die Frage, ob das Muster eine ruhige Ergänzung oder der Fokus des Outfits sein soll.
+Colour Blocking gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Warum Colour Blocking wichtig ist
+## Why this matters in color consultation
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+When you understand Colour Blocking, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-Gerade im Alltag hilft Colour Blocking, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+In color consultation, Colour Blocking becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
-## Worauf du achten solltest
+## What to pay attention to
 
-- Prüfe, welche Aufgabe Colour Blocking im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- Check the role of Colour Blocking in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-## Typische Missverständnisse
+## Common misconceptions
 
-**Missverständnis:** Colour Blocking ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Misconception:** Colour Blocking is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Missverständnis:** Colour Blocking funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Misconception:** Colour Blocking works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-## ESKYNA-Merksatz
+## Quick mirror check
 
-Colour Blocking wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Look at “Colour Blocking” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-## Verwandte Begriffe
+## ESKYNA note
 
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Colour Blocking works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+
+## Related terms
+
+- [Color Consultation](/en/glossary/color-consultation/)
+- [Color Type](/en/glossary/color-type/)
+- [Color Temperature](/en/glossary/color-temperature/)
+- [Undertone](/en/glossary/undertone/)
+- [Color Palette](/en/glossary/color-palette/)

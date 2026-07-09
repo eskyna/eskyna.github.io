@@ -1,7 +1,10 @@
 ---
-title: "Legal notice"
-eyebrow: "Legal information"
-image: "images/sign.png"
+title: Legal notice
+eyebrow: Legal information
+image: images/sign.png
+url: /legal-notice/
+aliases:
+  - /impressum/
 ---
 
 ## Information according to section 5 DDG

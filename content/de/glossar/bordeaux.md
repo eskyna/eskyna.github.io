@@ -1,25 +1,44 @@
 ---
-title: "Bordeaux im Stil erklärt"
-term: "Bordeaux"
-description: "Bordeaux wirkt tief, elegant und erwachsen. Die Farbe bringt Präsenz in den Look, ohne so direkt zu sein wie Rot."
-category: "Farb-Lexikon"
+title: Bordeaux im Stil erklärt
+term: Bordeaux
+description: Bordeaux wirkt tief, elegant und erwachsen. Die Farbe bringt Präsenz in den Look, ohne
+  so direkt zu sein wie Rot.
+category: Farb-Lexikon
 color_hex: "#6F2437"
-tags: ["bordeaux", "weinrot", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["bordeaux kleidung", "weinrot kombinieren", "bordeaux farbe", "stilberatung"]
+tags:
+  - bordeaux
+  - weinrot
+  - farbe
+  - farbberatung
+  - farbwirkung
+keywords:
+  - bordeaux kleidung
+  - weinrot kombinieren
+  - bordeaux farbe
+  - stilberatung
 weight: 10
-image: "images/glossar/bordeaux.png"
-image_alt: "Editoriale Grafik mit Bordeaux-Nuancen, dunklen Stoffflächen und eleganten Kombinationsfarben"
+image: images/glossar/bordeaux.png
+image_alt: Editoriale Grafik mit Bordeaux-Nuancen, dunklen Stoffflächen und eleganten Kombinationsfarben
 relatedTerms:
-  - title: "Rot"
-    url: "/glossar/rot/"
-  - title: "Rosa"
-    url: "/glossar/rosa/"
-  - title: "Braun"
-    url: "/glossar/braun/"
-  - title: "Navy"
-    url: "/glossar/navy/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
+  - title: Rot
+    url: /glossar/rot/
+  - title: Rosa
+    url: /glossar/rosa/
+  - title: Braun
+    url: /glossar/braun/
+  - title: Navy
+    url: /glossar/navy/
+  - title: Unterton
+    url: /glossar/unterton/
+faq:
+  items:
+    - q: Wie nutze ich „Bordeaux“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend
+        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Bordeaux“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Das Besondere an Bordeaux
@@ -57,6 +76,10 @@ Im Alltag ist Bordeaux besonders stark in Strick, Leder, Denim-Kombinationen ode
 ## Für wen und wo Bordeaux funktioniert
 
 Bordeaux ist nicht automatisch warm oder kühl. Manche Töne haben mehr Braun, andere mehr Violett. Wenn eine Nuance nahe am Gesicht zu schwer wirkt, funktioniert Bordeaux oft sehr gut als Rock, Hose, Schuh oder Tasche.
+
+## Mini-Test vor dem Spiegel
+
+Betrachte „Bordeaux“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
 
 ## ESKYNA-Merksatz
 

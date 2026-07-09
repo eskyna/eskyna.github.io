@@ -1,24 +1,43 @@
 ---
-title: "Was bedeutet Slim Fit?"
-term: "Slim Fit"
-description: "Slim Fit bezeichnet eine schmale Passform, die körpernah sitzt, aber nicht so eng sein muss wie Skinny."
-category: "Schnitt, Proportion & Passform"
-tags: ["slim fit", "passform", "schnitt", "hose", "silhouette"]
-keywords: ["slim fit", "was bedeutet slim fit", "slim fit hose", "schmale passform"]
+title: Was bedeutet Slim Fit?
+term: Slim Fit
+description: Slim Fit bezeichnet eine schmale Passform, die körpernah sitzt, aber nicht so eng sein
+  muss wie Skinny.
+category: Schnitt, Proportion & Passform
+tags:
+  - slim fit
+  - passform
+  - schnitt
+  - hose
+  - silhouette
+keywords:
+  - slim fit
+  - was bedeutet slim fit
+  - slim fit hose
+  - schmale passform
 weight: 15
-image: "images/glossar/slim-fit.png"
-image_alt: "Editoriale Grafik mit schmal geschnittener Hose, Passformlinien und ruhiger Komposition"
+image: images/glossar/slim-fit.png
+image_alt: Editoriale Grafik mit schmal geschnittener Hose, Passformlinien und ruhiger Komposition
 relatedTerms:
-  - title: "Passform"
-    url: "/glossar/passform/"
-  - title: "Proportion"
-    url: "/glossar/proportion/"
-  - title: "Straight Leg"
-    url: "/glossar/straight-leg/"
-  - title: "Jeans"
-    url: "/glossar/jeans/"
-  - title: "Chinos"
-    url: "/glossar/chinos/"
+  - title: Passform
+    url: /glossar/passform/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Straight Leg
+    url: /glossar/straight-leg/
+  - title: Jeans
+    url: /glossar/jeans/
+  - title: Chinos
+    url: /glossar/chinos/
+faq:
+  items:
+    - q: Wie nutze ich „Slim Fit“ im Alltag?
+      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
+        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+    - q: Gilt „Slim Fit“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
+        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-09"
 ---
 
 ## Definition
@@ -56,3 +75,17 @@ Für ESKYNA ist Slim Fit ein gutes Beispiel dafür, dass schmal nicht automatisc
 ## ESKYNA-Merksatz
 
 Slim Fit wirkt gut, wenn die Linie ruhig bleibt. Schmal ist nur dann elegant, wenn der Körper darin frei bleibt.
+
+## Praxischeck
+
+Wenn du den Begriff **Slim Fit** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schnitt und Passform entscheiden, ob ein Outfit ruhig, langgezogen, kompakt, weich oder präzise wirkt.
+
+- Sieh dir die Linien im Spiegel aus zwei Metern Abstand an.
+- Prüfe Schulter, Taille, Saum und Bewegungsfreiheit getrennt.
+- Kombiniere das Teil mit den Schuhen, die du tatsächlich dazu tragen würdest.
+
+## Beratungsblick
+
+In der Beratung ist **Slim Fit** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

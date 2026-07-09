@@ -1,127 +1,94 @@
 ---
-title: "Rosa im Stil erklärt"
-term: "Rosa"
-description: "Rosa wirkt je nach Nuance, Material und Styling sportlich, elegant, modern oder business-tauglich."
-category: "Farb-Lexikon"
-color_hex: "#D9A5B2"
-tags: ["rosa", "farbe", "farbberatung", "farbwirkung"]
-keywords: ["rosa kleidung", "rosa kombinieren", "farbberatung", "stilberatung"]
 weight: 9
-image: "images/glossar/rosa.png"
-image_alt: "Editoriale Grafik mit Rosa-Nuancen, feinen Stoffflächen und ruhigen Kombinationsfarben"
+image: images/glossar/rosa.png
+color_hex: "#D9A5B2"
+title: What does Rose Pink mean?
+seoTitle: Rose Pink explained | ESKYNA Glossary
+term: Rose Pink
+description: Rose Pink is a color term that helps you plan outfits with clearer harmony, contrast,
+  and mood.
+category: Color Lexicon
+tags:
+  - rose pink
+  - color lexicon
+  - style glossary
+keywords:
+  - rose pink
+  - what is rose pink
+  - rose pink style advice
+slug: rose-pink
+url: /glossary/rose-pink/
+aliases:
+  - /glossar/rosa/
+image_alt: Editorial glossary illustration for Rose Pink
 relatedTerms:
-  - title: "Rot"
-    url: "/glossar/rot/"
-  - title: "Bordeaux"
-    url: "/glossar/bordeaux/"
-  - title: "Farbtyp"
-    url: "/glossar/farbtyp/"
-  - title: "Unterton"
-    url: "/glossar/unterton/"
-  - title: "Kontrast"
-    url: "/glossar/kontrast/"
-  - title: "Pink"
-    url: "/glossar/pink/"
-  - title: "Lila"
-    url: "/glossar/lila/"
-  - title: "Fuchsia"
-    url: "/glossar/fuchsia/"
-  - title: "Roségold"
-    url: "/glossar/rosegold/"
+  - title: Color
+    url: /en/glossary/color/
+  - title: Color Palette
+    url: /en/glossary/color-palette/
+  - title: Color Harmony
+    url: /en/glossary/color-harmony/
+  - title: Undertone
+    url: /en/glossary/undertone/
+  - title: Contrast
+    url: /en/glossary/contrast/
+faq:
+  items:
+    - q: How can I use “Rose Pink” in real outfits?
+      a:
+        Use it as a checkpoint for shade, temperature, and combination. Use it to compare similar colors
+        and decide whether the shade works near the face, as a base, or as an accent.
+    - q: Does “Rose Pink” work the same way for everyone?
+      a:
+        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
+        direction.
+lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Rosa
+## Definition
 
-Rosa ist eine aufgehellte Form von Rot. Aber es wirkt je nach Nuance, Material und Styling völlig unterschiedlich. Rosa kann romantisch wirken, aber auch sportlich, elegant, modern oder sogar business-tauglich. Die Frage ist nicht: „Steht mir Rosa?" Sondern: „Welches Rosa und wo im Outfit funktioniert es für meine Wirkung?"
+**Rose Pink**: Rose Pink is a color term that helps you plan outfits with clearer harmony, contrast, and mood.
 
-## Wie Rosa wirkt
+## In simple words
 
-Rosa kann präsent oder zurückhaltend wirken. Ein kräftiges Fuchsia wirkt selbstbewusst und modern. Ein zartes Puderrosa wirkt weicher und zugänglicher. Ein warmes Altrosa wirkt erwachsen und subtil. Ein kühles Mauve wirkt edel und zeitgenössisch.
+Rose Pink gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
-Rosa hat eine Besonderheit: Es ist eine Farbe, die Unsicherheit schnell verrät. Wenn du Rosa zaghaft trägst, wirkt es mehlig. Wenn du Rosa selbstbewusst trägst, also mit klarem Schnitt, guter Passform und sicherer Haltung, wirkt es stark.
+At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
-## Die Nuancen von Rosa
+## Why this matters in color styling
 
-Das ist entscheidend: Nicht alle Rosatöne sind gleich.
+When you understand Rose Pink, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-- **Puderrosa:** Zart und hell, wirkt weich und zugänglich. Ideal für romantische Looks oder wenn du wünschst, dass eine Farbe sanft wirkt.
-- **Altrosa:** Ein gedämpftes, warmes Rosa mit grauem Anteil. Wirkt erwachsener, weniger verspielt. Harmoniert hervorragend mit Neutraltönen.
-- **Fuchsia:** Kräftig und gesättigt, wirkt sehr präsent und modern. Braucht Ruhe im Rest des Outfits, damit der Look nicht laut wird.
-- **Mauve:** Ein Rosa mit Lila-Anteil, eher kühl und gedämpft. Wirkt editorialer und moderner als klassisches Rosa.
-- **Coral-Rosa:** Ein wärmeres, orangiertes Rosa. Wirkt energischer und sommerlicher.
+With Rose Pink, pay attention to temperature, depth, saturation, and the colors worn close to the face. A shade can look elegant in one combination and flat in another.
 
-## Rosa in Materialien
+## What to pay attention to
 
-Material verändert alles.
+- Check the role of Rose Pink in the full outfit.
+- Look at color, material, cut, proportion, and occasion together.
+- Ask whether the choice supports your desired impact.
+- Prefer clarity over random details.
+- Use the term as a decision aid when shopping or combining outfits.
 
-- **Rosa in Denim:** Wirkt sofort sportlich und unkompliziert. Macht das klassische Denim-Shirt modern.
-- **Rosa in Seide:** Wirkt elegant und raffiniert. Besonders Altrosa in Seidenbluse ist sehr hochwertig.
-- **Rosa in feinem Strick:** Wirkt weich und zugänglich, trotzdem strukturiert.
-- **Rosa in glattem Blazerstoff:** Wirkt klarer, präsenter und souveräner.
-- **Rosa in Leinen:** Wirkt sommerlich, leicht und natürlich.
+## Common misconceptions
 
-Die Botschaft: Rosa in gutem Material wirkt immer besser als Rosa in billig wirkendem Stoff. Material entscheidet mit.
+**Misconception:** Rose Pink is only a fashion word.  
+**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-## Rosa im Styling: Kombinationen, die funktionieren
+**Misconception:** Rose Pink works the same way for everyone.  
+**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
-Rosa braucht den richtigen Partner.
+## Quick mirror check
 
-- **Rosa + Denim:** Modern und entspannt, sehr tragbar im Alltag
-- **Rosa + Navy:** Klassisch und zeitlos, sehr professionell
-- **Rosa + Braun:** Warm und harmonisch, sehr hochwertig
-- **Rosa + Schwarz:** Elegant und kontrastreich, wirkt stärker
-- **Rosa + Creme:** Weich und sanft, sehr feminin
-- **Rosa + Weiß:** Frisch und hell, sehr sommerlich
-- **Rosa + Grau:** Modern und subtil, sehr balanciert
+Look at “Rose Pink” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
-Das Muster: Je stärker die Rosa-Nuance, desto ruhiger sollten die Partner sein. Ein zartes Puderrosa kann mit mehreren anderen Farben funktionieren. Ein knalliges Fuchsia braucht Schwarz, Navy oder Weiß um sich herum.
+## ESKYNA note
 
-## Rosa im Business
+Rose Pink works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
 
-Ja, Rosa funktioniert auch im Business. Mit der richtigen Strategie.
+## Related terms
 
-**Was funktioniert:**
-
-- Eine rosafarbene Bluse unter einem dunklen Navy- oder Grau-Blazer
-- Ein dezentes Rosa-Accessoire (Tasche, Schal, Schmuck)
-- Rosa in gedeckter Nuance (Altrosa) in einem klaren Schnitt
-
-**Was schwächer wirkt:**
-
-- Ein komplett rosafarbenes Outfit im Meeting
-- Zu viel Rosa auf einmal (Rosa-Bluse + Rosa-Hose + Rosa-Accessoires)
-- Sehr helles oder sehr knalliges Rosa direkt neben dem Gesicht, wenn es nicht deine Farbe ist
-
-Die Regel: Je professioneller der Kontext, desto mehr sollte Rosa ein Akzent sein, nicht die Hauptfigur.
-
-## Für wen und wo Rosa funktioniert
-
-Hier ist ein wichtiger ESKYNA-Punkt: **Nicht „Diese Farbe steht dir nicht" denken.**
-
-Wenn Rosa nahe am Gesicht zu blass wirkt oder zu laut wirkt, kann es **immer noch funktionieren**:
-
-- Als Hose
-- Als Accessoire (Tasche, Schuh, Gürtel)
-- Als Schal nahe am Gesicht
-- Als Nagellack
-- In gedämpfterer Nuance
-- Mit anderem Styling (z.B. klarer Schnitt statt romantisch)
-
-Das ist das Wichtige: Rosa ist nicht „ja oder nein". Rosa ist „ja, aber wie".
-
-## Outfit-Kapseln mit Rosa
-
-Hier sind drei funktionierende Rosa-Looks für verschiedene Anlässe:
-
-**Casual-Rosa:**  
-Rosafarbenes Denim-Shirt + weiße Jeans + Turnschuhe + Ledertasche. Wirkt cool und modern, nicht romantisch.
-
-**Business-Rosa:**  
-Creme-Bluse + Altrosa-Blazer + Navy-Hose + klassische Loafer. Wirkt kompetent, mit Farbakzent.
-
-**Elegant-Rosa:**  
-Altrosa-Seide-Bluse + schwarze Hose + Wildleder-Loafer + Statement-Ring. Wirkt edel und durchdacht.
-
-## ESKYNA-Merksatz
-
-Rosa wirkt nie allein. Es wird durch Styling lesbar. Die Frage ist nicht „Steht mir Rosa?" sondern „Welches Rosa und wo im Outfit funktioniert es für meine Wirkung?"
+- [Color](/en/glossary/color/)
+- [Color Palette](/en/glossary/color-palette/)
+- [Color Harmony](/en/glossary/color-harmony/)
+- [Undertone](/en/glossary/undertone/)
+- [Contrast](/en/glossary/contrast/)
