@@ -162,7 +162,7 @@
         <div class="coach-actions">
           {{ partial "button-icon.html" (dict "href" $coach.buttonHref "text" $coach.buttonText "title" $coach.buttonText "targetBlank" true) }}
           {{ if and (isset $ui "coach_about_cta_text") (isset $ui "coach_about_cta_href") }}
-          {{ partial "button-icon.html" (dict "href" ($ui.coach_about_cta_href | relURL) "text" $ui.coach_about_cta_text "title" $ui.coach_about_cta_text "class" "btn btn-secondary btn-secondary-light" "noIcon" true) }}
+          {{ partial "button-icon.html" (dict "href" ($ui.coach_about_cta_href | relLangURL) "text" $ui.coach_about_cta_text "title" $ui.coach_about_cta_text "class" "btn btn-secondary btn-secondary-light" "noIcon" true) }}
           {{ end }}
         </div>
       </div>
