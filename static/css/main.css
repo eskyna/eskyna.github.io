@@ -7172,6 +7172,41 @@ main .hero .hero-headline-line {
   margin-bottom: 2rem;
 }
 
+.glossar-daily-cta {
+  margin-top: 1.8rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--card-border);
+  border-radius: 0.8rem;
+  background: linear-gradient(145deg, rgb(197 160 89 / 12%), rgb(249 246 240 / 90%));
+  box-shadow: 0 8px 20px rgb(44 30 22 / 8%);
+}
+
+.glossar-daily-kicker {
+  margin: 0;
+  font-family: var(--font-subtitle);
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-strong);
+}
+
+.glossar-daily-copy {
+  margin: 0.4rem 0 0;
+  color: var(--text);
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.glossar-daily-button {
+  margin-top: 0.75rem;
+}
+
+.glossar-daily-note {
+  margin: 0.5rem 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .glossar-search-feedback {
   margin-top: 0.65rem;
   display: flex;

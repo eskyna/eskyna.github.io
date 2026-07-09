@@ -7,8 +7,16 @@
 {{ $searchPlaceholderText := or $sectionUI.search_placeholder $homeUI.search_placeholder "Begriff suchen..." }}
 {{ $noResultsText := or $sectionUI.no_results $homeUI.no_results "Keine Ergebnisse gefunden." }}
 {{ $termCountLabel := cond (eq .Site.Language.Lang "ru") "терминов" (cond (eq .Site.Language.Lang "en") "terms" "Begriffe") }}
+{{ $dailyTermKicker := or $sectionUI.daily_term_kicker (cond (eq .Site.Language.Lang "ru") "Стиль дня" (cond (eq .Site.Language.Lang "en") "Style of the day" "Stil-Impuls des Tages")) }}
+{{ $dailyTermText := or $sectionUI.daily_term_text (cond (eq .Site.Language.Lang "ru") "Стиль и мода полны красивых нюансов. Откройте новый термин и найдите вдохновение для своего образа." (cond (eq .Site.Language.Lang "en") "Style and fashion are full of beautiful details. Discover one new term and pick up fresh inspiration for your look." "Mode und Stil haben so viele schöne Facetten. Entdecke neue Begriffe und finde frische Inspiration für deinen Auftritt.")) }}
+{{ $dailyTermButtonText := or $sectionUI.daily_term_button_text (cond (eq .Site.Language.Lang "ru") "Удивите меня стилем" (cond (eq .Site.Language.Lang "en") "Surprise me with style" "Überrasch mich mit Stilwissen")) }}
+{{ $dailyTermSurpriseText := or $sectionUI.daily_term_surprise_text (cond (eq .Site.Language.Lang "ru") "Jeden Tag wartet ein neuer стиль-импульс." (cond (eq .Site.Language.Lang "en") "A new style surprise is waiting every day." "Jeden Tag wartet ein neuer Stilimpuls auf dich.")) }}
 {{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
 {{ $glossarPages := (where .RegularPages "Params.is_glossar_category" "ne" true).ByTitle }}
+{{ $dailyTermLinks := slice }}
+{{ range $glossarPages }}
+  {{ $dailyTermLinks = $dailyTermLinks | append .RelPermalink }}
+{{ end }}
 {{ $letters := slice }}
 {{ range $glossarPages }}
   {{ $termTitle := .Params.term | default .Title }}
@@ -27,6 +35,18 @@
         <h1 class="glossar-list-title">{{ .Title }}</h1>
         {{ with .Description }}
         <p class="glossar-list-description">{{ . }}</p>
+        {{ end }}
+
+        {{ if gt (len $glossarPages) 0 }}
+        <div class="glossar-daily-cta" data-daily-term data-daily-term-links="{{ delimit $dailyTermLinks "|" }}" data-daily-term-surprise="{{ $dailyTermSurpriseText }}">
+          <p class="glossar-daily-kicker">{{ $dailyTermKicker }}</p>
+          <p class="glossar-daily-copy">{{ $dailyTermText }}</p>
+          <a class="btn glossar-daily-button" href="{{ (index $glossarPages 0).RelPermalink }}" data-daily-term-link title="{{ $dailyTermButtonText }}" aria-label="{{ $dailyTermButtonText }}">
+            <img src="{{ "/images/sign_black.png" | relURL }}" alt="{{ $dailyTermKicker }}" class="btn-icon" loading="lazy" width="20" height="20">
+            <span>{{ $dailyTermButtonText }}</span>
+          </a>
+          <p class="glossar-daily-note" data-daily-term-note>{{ $dailyTermSurpriseText }}</p>
+        </div>
         {{ end }}
       </div>
 
@@ -275,6 +295,30 @@ document.addEventListener('DOMContentLoaded', function() {
   const resultCount = document.getElementById('glossar-results-count');
   const resultNumber = document.querySelector('.glossar-results-number');
   const noResults = document.getElementById('glossar-no-results');
+  const dailyTermWrap = document.querySelector('[data-daily-term]');
+
+  function initDailyGlossaryTerm() {
+    if (!dailyTermWrap) return;
+    const linksRaw = dailyTermWrap.getAttribute('data-daily-term-links') || '';
+    const links = linksRaw.split('|').map(item => item.trim()).filter(Boolean);
+    if (!links.length) return;
+
+    const linkEl = dailyTermWrap.querySelector('[data-daily-term-link]');
+    const noteEl = dailyTermWrap.querySelector('[data-daily-term-note]');
+    const surpriseText = dailyTermWrap.getAttribute('data-daily-term-surprise') || '';
+    const seedDate = new Date();
+    const daySeed = Math.floor(Date.UTC(seedDate.getFullYear(), seedDate.getMonth(), seedDate.getDate()) / 86400000);
+    const dayIndex = ((daySeed % links.length) + links.length) % links.length;
+    const selectedHref = links[dayIndex];
+
+    if (linkEl) {
+      linkEl.setAttribute('href', selectedHref);
+    }
+
+    if (noteEl && surpriseText) {
+      noteEl.textContent = surpriseText;
+    }
+  }
 
   function updateSearchView(query) {
     const activePanel = document.querySelector('.glossar-panel.active');
@@ -339,6 +383,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
+  initDailyGlossaryTerm();
   updateSearchView('');
 });
 </script>
