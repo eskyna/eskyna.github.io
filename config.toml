@@ -29,6 +29,17 @@ title = "ESKYNA | Style & Image Coaching"
       author = "Наталия Клеманн"
       description = "Персональный имидж- и стиль-коучинг в Ганновере и онлайн. Развивайте свой стиль, уверенность и аутентичность с методом ESKYNA. Трансформируйте образ и становитесь заметным, стильным и уверенным профессионалом."
 
+  [languages.en]
+    title = "ESKYNA | Style & Image Coaching"
+    lang = "en"
+    locale = "en-US"
+    label = "English"
+    weight = 3
+    contentDir = "content/en"
+    [languages.en.params]
+      author = "Natalia Kleemann"
+      description = "Personal style and image coaching in person and online. Discover your individual style and show up with clarity, confidence, and authenticity. ESKYNA helps you feel more certain about your style and more confident in your presence."
+
 [params]
   author = "Natalia Kleemann"
   description = "Persönliches Style- und Image-Coaching Vor-Ort und Online. Entdecke deinen individuellen Stil und tritt sichtbar und authentisch auf. ESKYNA begleitet dich zu mehr Stilsicherheit und Selbstvertrauen."

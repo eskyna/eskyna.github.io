@@ -27,7 +27,7 @@
             {{ $ctaText := or .ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
             {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
-            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relLangURL) }}
             {{ $showPriceLabel := and .price (not (in .price "Individuell auf Anfrage")) (not (in .price "Индивидуально по запросу")) }}
             <a class="package-card package-card-link {{ if .featured }}package-card-featured{{ end }}" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $ctaText }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
               {{ if .badge }}
@@ -57,7 +57,7 @@
             {{ $ctaText := or .ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
             {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
-            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relLangURL) }}
             {{ $imagePath := .image }}
             {{ if not $imagePath }}
               {{ if or (in $normalizedHref "stilfrage") (in $normalizedHref "stilfrage/") }}
@@ -105,7 +105,7 @@
                 <td><strong>{{ .situation }}</strong></td>
                 {{ $offerHref := or .offerHref "" }}
                 {{ $normalizedOfferHref := replaceRE "^/" "" $offerHref }}
-                {{ $resolvedOfferHref := cond (eq $offerHref "") "" ($normalizedOfferHref | relURL) }}
+                {{ $resolvedOfferHref := cond (eq $offerHref "") "" ($normalizedOfferHref | relLangURL) }}
                 <td>{{ if $resolvedOfferHref }}<a href="{{ $resolvedOfferHref }}" title="{{ .offer }}">{{ .offer }}</a>{{ else }}{{ .offer }}{{ end }}</td>
               </tr>
               {{ end }}
@@ -152,7 +152,7 @@
             {{ $ctaText := or .ctaText $ui.default_cta_text }}
             {{ $openInNewTab := or (hasPrefix $ctaHref "http") (hasSuffix $ctaHref ".pdf") }}
             {{ $normalizedHref := replaceRE "^/" "" $ctaHref }}
-            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relURL) }}
+            {{ $resolvedHref := cond (or $openInNewTab (hasPrefix $ctaHref "#")) $ctaHref ($normalizedHref | relLangURL) }}
             {{ $imagePath := .image }}
             <a class="free-offer-card free-offer-card-link" href="{{ $resolvedHref }}" title="{{ $ctaText }}" aria-label="{{ $itemTitle }}"{{ if $openInNewTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
               {{ if $imagePath }}

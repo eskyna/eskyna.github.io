@@ -6,7 +6,7 @@
 {{ $byRelevanceText := or $sectionUI.by_relevance_text $homeUI.by_relevance_text "Nach Relevanz" }}
 {{ $searchPlaceholderText := or $sectionUI.search_placeholder $homeUI.search_placeholder "Begriff suchen..." }}
 {{ $noResultsText := or $sectionUI.no_results $homeUI.no_results "Keine Ergebnisse gefunden." }}
-{{ $termCountLabel := cond (eq .Site.Language.Lang "ru") "терминов" "Begriffe" }}
+{{ $termCountLabel := cond (eq .Site.Language.Lang "ru") "терминов" (cond (eq .Site.Language.Lang "en") "terms" "Begriffe") }}
 {{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
 {{ $glossarPages := (where .RegularPages "Params.is_glossar_category" "ne" true).ByTitle }}
 {{ $letters := slice }}

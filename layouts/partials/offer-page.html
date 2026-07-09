@@ -14,7 +14,7 @@
 {{ $offersLabel := or .Params.offers_back.label (or $ui.offers_back_label "Back to offers") }}
 {{ $variantsHeading := or .Params.variants_heading (or $ui.variants_heading "Choose the right format") }}
 {{ $normalizedOffersHref := strings.TrimPrefix "/" $offersHref }}
-{{ $resolvedOffersHref := cond (hasPrefix $offersHref "#") $offersHref ($normalizedOffersHref | relURL) }}
+{{ $resolvedOffersHref := cond (hasPrefix $offersHref "#") $offersHref ($normalizedOffersHref | relLangURL) }}
 {{ $priceLabelFinal := i18n "price_label_final" }}
 {{ $priceLabelTooltip := i18n "price_label_tooltip" }}
 {{ $showOfferPriceLabel := and $offer.price (not (in $offer.price "Individuell auf Anfrage")) (not (in $offer.price "Индивидуально по запросу")) }}

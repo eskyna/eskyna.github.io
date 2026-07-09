@@ -1,5 +1,25 @@
-<div class="language-switcher">{{- $current := .Language.Lang -}}
-  {{- if eq $current "de" -}}<span class="language-current" lang="de">de</span><span class="language-divider">|</span><a href="rus/" lang="ru" class="language-link" data-lang="rus" title="Русский" onclick="window.localStorage && window.localStorage.setItem('eskynaPreferredLanguage', 'ru')">ru</a>
-  {{- else -}}<a href="../../" lang="de" class="language-link" data-lang="de" title="Deutsch" onclick="window.localStorage && window.localStorage.setItem('eskynaPreferredLanguage', 'de')">de</a><span class="language-divider">|</span><span class="language-current" lang="ru">ru</span>
+<div class="language-switcher">
+  {{- $current := .Language.Lang -}}
+  {{- $translations := .AllTranslations -}}
+  {{- $languages := slice
+    (dict "code" "de" "hrefLang" "de" "label" "de" "title" "Deutsch")
+    (dict "code" "rus" "hrefLang" "ru" "label" "ru" "title" "Русский")
+    (dict "code" "en" "hrefLang" "en" "label" "en" "title" "English")
+  -}}
+  {{- $shown := false -}}
+  {{- range $languages -}}
+    {{- $language := . -}}
+    {{- $matches := where $translations "Language.Lang" $language.code -}}
+    {{- if gt (len $matches) 0 -}}
+      {{- with index $matches 0 -}}
+        {{- if $shown -}}<span class="language-divider">|</span>{{- end -}}
+        {{- if eq $current $language.code -}}
+          <span class="language-current" lang="{{ $language.hrefLang }}">{{ $language.label }}</span>
+        {{- else -}}
+          <a href="{{ .RelPermalink }}" lang="{{ $language.hrefLang }}" class="language-link" data-lang="{{ $language.hrefLang }}" title="{{ $language.title }}" onclick="window.localStorage && window.localStorage.setItem('eskynaPreferredLanguage', '{{ $language.hrefLang }}')">{{ $language.label }}</a>
+        {{- end -}}
+        {{- $shown = true -}}
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
 </div>

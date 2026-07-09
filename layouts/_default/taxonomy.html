@@ -1,10 +1,11 @@
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
 {{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
-{{ $backText := cond $isRu "К блогу" "Zum Blog" }}
-{{ $emptyText := cond $isRu "Для этого тега пока нет публикаций." "Zu diesem Tag gibt es noch keine Beiträge." }}
-{{ $readMoreText := cond $isRu "Читать" "Artikel lesen" }}
-{{ $readingTimeText := cond $isRu "мин чтения" "Min. Lesezeit" }}
+{{ $isEn := eq $lang "en" }}
+{{ $backText := cond $isRu "К блогу" (cond $isEn "Back to blog" "Zum Blog") }}
+{{ $emptyText := cond $isRu "Для этого тега пока нет публикаций." (cond $isEn "There are no posts for this tag yet." "Zu diesem Tag gibt es noch keine Beiträge.") }}
+{{ $readMoreText := cond $isRu "Читать" (cond $isEn "Read article" "Artikel lesen") }}
+{{ $readingTimeText := cond $isRu "мин чтения" (cond $isEn "min read" "Min. Lesezeit") }}
 
 <main class="blog-page">
   <section class="hero-small blog-hero">

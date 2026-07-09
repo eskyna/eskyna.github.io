@@ -97,7 +97,12 @@
 
       preferred = "de";
       for (var i = 0; i < langs.length; i += 1) {
-        if (String(langs[i]).toLowerCase().indexOf("ru") === 0) {
+        var normalized = String(langs[i]).toLowerCase();
+        if (normalized.indexOf("en") === 0) {
+          preferred = "en";
+          break;
+        }
+        if (normalized.indexOf("ru") === 0) {
           preferred = "ru";
           break;
         }
@@ -109,6 +114,8 @@
 
     if (preferred === "ru") {
       window.location.replace("/rus/");
+    } else if (preferred === "en") {
+      window.location.replace("/en/");
     }
   })();
 </script>

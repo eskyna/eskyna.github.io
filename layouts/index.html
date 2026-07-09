@@ -187,12 +187,13 @@
   </section>
 
   {{ $isRu := or (eq .Language.Lang "ru") (eq .Language.Lang "rus") }}
-  {{ $stilfrageAlt := cond $isRu "Наталия за рабочим столом" "Natalia am Schreibtisch" }}
-  {{ $stilfrageIntro := cond $isRu "Для моментов,<br>когда вы не уверены." "Für Momente,<br>in denen du dir nicht sicher bist." }}
-  {{ $stilfrageHeading := cond $isRu "Вопрос стилисту Наталии" "Stilfrage an Natalia" }}
-  {{ $stilfrageQuote := cond $isRu "Иногда достаточно честного второго мнения. Задайте свой вопрос о стиле и принимайте уверенные решения при покупке, сочетании вещей и своем образе." "Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten." }}
-  {{ $offersHeading := cond $isRu "Мои предложения" "Meine Angebote" }}
-  {{ $offersMoreText := cond $isRu "Другие предложения" "Weitere Angebote" }}
+  {{ $isEn := eq .Language.Lang "en" }}
+  {{ $stilfrageAlt := cond $isRu "Наталия за рабочим столом" (cond $isEn "Natalia at her desk" "Natalia am Schreibtisch") }}
+  {{ $stilfrageIntro := cond $isRu "Для моментов,<br>когда вы не уверены." (cond $isEn "For moments,<br>when you are not sure." "Für Momente,<br>in denen du dir nicht sicher bist.") }}
+  {{ $stilfrageHeading := cond $isRu "Вопрос стилисту Наталии" (cond $isEn "Ask Natalia a style question" "Stilfrage an Natalia") }}
+  {{ $stilfrageQuote := cond $isRu "Иногда достаточно честного второго мнения. Задайте свой вопрос о стиле и принимайте уверенные решения при покупке, сочетании вещей и своем образе." (cond $isEn "Sometimes an honest second opinion is enough. Ask your style question and make confident decisions when shopping, combining pieces, and shaping your look." "Manchmal reicht eine ehrliche zweite Meinung. Stelle deine Stilfrage und triff sichere Entscheidungen beim Kaufen, Kombinieren und Auftreten.") }}
+  {{ $offersHeading := cond $isRu "Мои предложения" (cond $isEn "My offers" "Meine Angebote") }}
+  {{ $offersMoreText := cond $isRu "Другие предложения" (cond $isEn "More offers" "Weitere Angebote") }}
 
   <section class="section stilfrage-section" id="stilfrage">
     <div class="stilfrage-bg">

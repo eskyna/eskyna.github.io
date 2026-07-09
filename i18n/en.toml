@@ -1,0 +1,108 @@
+# Contact form defaults
+[cf_offer_default]
+other = "General inquiry"
+
+[cf_privacy_href]
+other = "/datenschutz/"
+
+[cf_name_label]
+other = "Name *"
+
+[cf_email_label]
+other = "Email *"
+
+[cf_phone_label]
+other = "Phone"
+
+[cf_preferred_label]
+other = "Preferred contact method"
+
+[cf_preferred_email]
+other = "Email"
+
+[cf_preferred_phone]
+other = "Phone"
+
+[cf_message_label]
+other = "Message *"
+
+[cf_message_placeholder]
+other = "Briefly describe how I can support you."
+
+[cf_privacy_text_before]
+other = "I have read the"
+
+[cf_privacy_link_text]
+other = "privacy policy"
+
+[cf_privacy_text_after]
+other = "and agree to be contacted."
+
+[cf_submit_default]
+other = "Send inquiry"
+
+[cf_fallback_email_text]
+other = "Or write directly by email:"
+
+[cf_status_sending]
+other = "Sending ..."
+
+[cf_status_success]
+other = "Thank you! Your inquiry has been sent."
+
+[cf_status_error]
+other = "Sorry, something went wrong. Please write directly to {{ . }}."
+
+[cf_status_turnstile]
+other = "Please complete the Turnstile check."
+
+[cf_email_invalid]
+other = "Please enter a valid email address."
+
+# Contact modal
+[contact_modal_close]
+other = "Close contact form"
+
+[contact_modal_title]
+other = "Message to Natalia"
+
+# Footer
+[footer_a11y]
+other = "Accessibility screen reader keyboard navigation"
+
+[footer_glossar_text]
+other = "Glossary"
+
+[footer_about_text]
+other = "About"
+
+[footer_blog_text]
+other = "Blog"
+
+[footer_estyle_text]
+other = "EStyle"
+
+[footer_imprint_text]
+other = "Legal notice"
+
+[footer_privacy_text]
+other = "Privacy policy"
+
+# Social links
+[contact_form_label]
+other = "Contact form"
+
+# Alias page
+[alias_keywords]
+other = "Accessibility, screen reader, keyboard navigation"
+
+# Taxonomy
+[taxonomy_categories_title]
+other = "Categories"
+
+# Pricing
+[price_label_final]
+other = "Final price"
+
+[price_label_tooltip]
+other = "The listed prices are final prices for the described services. Due to VAT exemption under section 19 of the German VAT Act, no VAT is shown."
