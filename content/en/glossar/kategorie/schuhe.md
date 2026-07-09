@@ -4,7 +4,7 @@ description: "Diese Kategorie erklärt Schuhformen, Details und ihre Wirkung im 
 layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Schuhe"
-url: "/glossar/kategorie/schuhe/"
+url: "/en/glossar/kategorie/schuhe/"
 ---
 
 Du findest hier Begriffe von Absatzformen bis Schuhspitzen und Stiefelhöhen. Das hilft dir, Schuhe gezielter mit Saumlängen, Dresscodes und Stilzielen zu kombinieren.
