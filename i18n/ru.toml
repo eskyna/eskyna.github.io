@@ -94,3 +94,39 @@ other = "Другие предложения"
 
 [offers_more_text_short]
 other = "Другие<br>предложения"
+
+[footer_cookie_settings_text]
+other = "Настройки cookie"
+
+[cookie_banner_title]
+other = "Cookie и аналитика"
+
+[cookie_banner_text]
+other = "Мы используем необходимые cookie для работы сайта. Аналитику через Google Tag Manager и Google Analytics включаем только с вашего согласия."
+
+[cookie_banner_privacy_link]
+other = "Политика конфиденциальности"
+
+[cookie_banner_accept_all]
+other = "Принять все"
+
+[cookie_banner_reject_all]
+other = "Отклонить"
+
+[cookie_banner_open_settings]
+other = "Настройки"
+
+[cookie_settings_title]
+other = "Настройки cookie"
+
+[cookie_settings_necessary]
+other = "Необходимые cookie (всегда активны)"
+
+[cookie_settings_analytics]
+other = "Аналитика (Google Tag Manager и Google Analytics)"
+
+[cookie_settings_save]
+other = "Сохранить выбор"
+
+[cookie_settings_reset]
+other = "Удалить согласие"

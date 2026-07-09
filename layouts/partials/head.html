@@ -11,8 +11,30 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self' https://contact-api.eskyna-style.workers.dev; object-src 'none'; base-uri 'self'; frame-src https://challenges.cloudflare.com; form-action 'self'; upgrade-insecure-requests;">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https://www.googletagmanager.com https://www.google-analytics.com; connect-src 'self' https://contact-api.eskyna-style.workers.dev https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com; object-src 'none'; base-uri 'self'; frame-src https://challenges.cloudflare.com https://www.googletagmanager.com; form-action 'self'; upgrade-insecure-requests;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{{ with .Site.Params.gtm_container_id }}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    event: "eskyna_consent_default",
+    analytics_storage: "denied",
+    ad_storage: "denied",
+    ad_user_data: "denied",
+    ad_personalization: "denied"
+  });
+
+  window.eskynaLoadGtm = function () {
+    if (window.__eskynaGtmLoaded) return;
+    window.__eskynaGtmLoaded = true;
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','{{ . }}');
+  };
+</script>
+{{ end }}
 <!-- Performance: Preload Hero Images -->
 {{ if .IsHome }}
   <link rel="preload" href="{{ "images/backgrounds/hero/portrait.avif" | relURL }}" as="image" media="(max-width: 799px)" type="image/avif">

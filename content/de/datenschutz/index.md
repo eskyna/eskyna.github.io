@@ -183,6 +183,25 @@ Unter dem Begriff „Cookies" werden Funktionen, die Informationen auf Endgerät
 
 - **Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung:** Wir setzen eine Einwilligungs-Management-Lösung ein, bei der die Einwilligung der Nutzer zur Verwendung von Cookies oder zu den im Rahmen der Einwilligungs-Management-Lösung genannten Verfahren und Anbietern eingeholt wird. Dieses Verfahren dient der Einholung, Protokollierung, Verwaltung und dem Widerruf von Einwilligungen, insbesondere bezogen auf den Einsatz von Cookies und vergleichbaren Technologien, die zur Speicherung, zum Auslesen und zur Verarbeitung von Informationen auf den Endgeräten der Nutzer eingesetzt werden. Im Rahmen dieses Verfahrens werden die Einwilligungen der Nutzer für die Nutzung von Cookies und die damit verbundenen Verarbeitungen von Informationen, einschließlich der im Einwilligungs-Management-Verfahren genannten spezifischen Verarbeitungen und Anbieter, eingeholt. Die Nutzer haben zudem die Möglichkeit, ihre Einwilligungen zu verwalten und zu widerrufen. Die Einwilligungserklärungen werden gespeichert, um eine erneute Abfrage zu vermeiden und den Nachweis der Einwilligung gemäß der gesetzlichen Anforderungen führen zu können. Die Speicherung erfolgt serverseitig und/oder in einem Cookie (sogenanntes Opt-In-Cookie) oder mittels vergleichbarer Technologien, um die Einwilligung einem spezifischen Nutzer oder dessen Gerät zuordnen zu können. Sofern keine spezifischen Angaben zu den Anbietern von Einwilligungs-Management-Diensten vorliegen, gelten folgende allgemeine Hinweise: Die Dauer der Speicherung der Einwilligung beträgt bis zu zwei Jahre. Dabei wird ein pseudonymer Nutzer-Identifikator erstellt, der zusammen mit dem Zeitpunkt der Einwilligung, den Angaben zum Umfang der Einwilligung (z. B. betreffende Kategorien von Cookies und/oder Diensteanbieter) sowie Informationen über den Browser, das System und das verwendete Endgerät gespeichert wird; **Rechtsgrundlagen:** Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
 
+## Google Tag Manager und Google Analytics (GA4)
+
+Wir setzen auf unserer Website den Google Tag Manager und Google Analytics 4 ein, um die Nutzung unserer Seiten zu analysieren und unser Angebot zu verbessern.
+
+- Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+- Zweck: Reichweitenmessung und Analyse des Nutzerverhaltens.
+- Rechtsgrundlage: Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO.
+
+Die Aktivierung erfolgt erst nach Ihrer Zustimmung im Cookie-Banner. Ohne Einwilligung werden keine Analytics-Tags geladen.
+
+Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über den Footer-Link **Cookie-Einstellungen** widerrufen oder anpassen.
+
+Bei aktivierter Analyse können Daten in Drittländer, insbesondere in die USA, übertragen werden. Google ist nach dem EU-US Data Privacy Framework zertifiziert.
+
+Weitere Informationen:
+
+- [Google Datenschutzerklärung](https://policies.google.com/privacy)
+- [Google Analytics Bedingungen](https://marketingplatform.google.com/about/analytics/terms/de/)
+
 ## Blogs und Publikationsmedien
 
 Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikation (nachfolgend "Publikationsmedium"). Die Daten der Leser werden für die Zwecke des Publikationsmediums nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Im Übrigen verweisen wir auf die Informationen zur Verarbeitung der Besucher unseres Publikationsmediums im Rahmen dieser Datenschutzhinweise.

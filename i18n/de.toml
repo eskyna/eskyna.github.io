@@ -94,3 +94,39 @@ other = "Weitere Angebote"
 
 [offers_more_text_short]
 other = "Weitere<br>Angebote"
+
+[footer_cookie_settings_text]
+other = "Cookie-Einstellungen"
+
+[cookie_banner_title]
+other = "Cookies und Statistik"
+
+[cookie_banner_text]
+other = "Wir verwenden notwendige Cookies für den Betrieb der Website. Statistik über Google Tag Manager und Google Analytics aktivieren wir nur mit Ihrer Einwilligung."
+
+[cookie_banner_privacy_link]
+other = "Zur Datenschutzerklärung"
+
+[cookie_banner_accept_all]
+other = "Alle akzeptieren"
+
+[cookie_banner_reject_all]
+other = "Ablehnen"
+
+[cookie_banner_open_settings]
+other = "Einstellungen"
+
+[cookie_settings_title]
+other = "Cookie-Einstellungen"
+
+[cookie_settings_necessary]
+other = "Notwendige Cookies (immer aktiv)"
+
+[cookie_settings_analytics]
+other = "Statistik (Google Tag Manager und Google Analytics)"
+
+[cookie_settings_save]
+other = "Auswahl speichern"
+
+[cookie_settings_reset]
+other = "Einwilligung löschen"

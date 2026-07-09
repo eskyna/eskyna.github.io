@@ -8,11 +8,19 @@
   {{ partial "head.html" . }}
 </head>
 <body>
+  {{ with .Site.Params.gtm_container_id }}
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ . }}"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  {{ end }}
   {{ block "main" . }}{{ end }}
   {{ partial "contact-modal.html" . }}
+  {{ partial "cookie-consent.html" . }}
   {{ partial "preview-banner.html" . }}
   {{ partial "footer.html" . }}
   <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <script src="{{ "js/consent-analytics.v20260709.js" | relURL }}" defer></script>
   <script>
     (function () {
       function resetTurnstileForForm(form) {
@@ -155,6 +163,9 @@
                 if (statusEl) {
                   statusEl.textContent = successText;
                 }
+                document.dispatchEvent(new CustomEvent("eskyna:lead", {
+                  detail: { lead_type: "contact_form" }
+                }));
               } catch (error) {
                 if (statusEl) {
                   statusEl.textContent = errorText;

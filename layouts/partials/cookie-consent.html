@@ -1,0 +1,31 @@
+<aside class="cookie-consent" data-cookie-banner hidden>
+  <div class="cookie-consent-card" role="dialog" aria-modal="true" aria-labelledby="cookie-consent-title">
+    <h2 id="cookie-consent-title">{{ i18n "cookie_banner_title" }}</h2>
+    <p>{{ i18n "cookie_banner_text" }}</p>
+    <p class="cookie-consent-links">
+      <a href="{{ "datenschutz/" | relLangURL }}" title="{{ i18n "cookie_banner_privacy_link" }}">{{ i18n "cookie_banner_privacy_link" }}</a>
+    </p>
+
+    <div class="cookie-consent-actions">
+      <button type="button" class="btn" data-cookie-accept-all>{{ i18n "cookie_banner_accept_all" }}</button>
+      <button type="button" class="btn btn-secondary" data-cookie-reject-all>{{ i18n "cookie_banner_reject_all" }}</button>
+      <button type="button" class="btn btn-secondary" data-cookie-open-settings>{{ i18n "cookie_banner_open_settings" }}</button>
+    </div>
+
+    <div class="cookie-consent-settings" data-cookie-settings hidden>
+      <h3>{{ i18n "cookie_settings_title" }}</h3>
+      <label class="cookie-consent-option">
+        <input type="checkbox" checked disabled>
+        <span>{{ i18n "cookie_settings_necessary" }}</span>
+      </label>
+      <label class="cookie-consent-option">
+        <input type="checkbox" data-cookie-analytics-toggle>
+        <span>{{ i18n "cookie_settings_analytics" }}</span>
+      </label>
+      <div class="cookie-consent-actions">
+        <button type="button" class="btn" data-cookie-save-settings>{{ i18n "cookie_settings_save" }}</button>
+        <button type="button" class="btn btn-secondary" data-cookie-reset-consent>{{ i18n "cookie_settings_reset" }}</button>
+      </div>
+    </div>
+  </div>
+</aside>

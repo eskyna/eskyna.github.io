@@ -112,3 +112,39 @@ other = "More offers"
 
 [offers_more_text_short]
 other = "More<br>offers"
+
+[footer_cookie_settings_text]
+other = "Cookie settings"
+
+[cookie_banner_title]
+other = "Cookies and analytics"
+
+[cookie_banner_text]
+other = "We use necessary cookies to run the website. We only activate analytics via Google Tag Manager and Google Analytics with your consent."
+
+[cookie_banner_privacy_link]
+other = "Privacy policy"
+
+[cookie_banner_accept_all]
+other = "Accept all"
+
+[cookie_banner_reject_all]
+other = "Reject"
+
+[cookie_banner_open_settings]
+other = "Settings"
+
+[cookie_settings_title]
+other = "Cookie settings"
+
+[cookie_settings_necessary]
+other = "Necessary cookies (always active)"
+
+[cookie_settings_analytics]
+other = "Analytics (Google Tag Manager and Google Analytics)"
+
+[cookie_settings_save]
+other = "Save selection"
+
+[cookie_settings_reset]
+other = "Delete consent"
