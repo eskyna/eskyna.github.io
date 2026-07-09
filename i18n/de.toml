@@ -88,3 +88,9 @@ other = "Endpreis"
 
 [price_label_tooltip]
 other = "Die angegebenen Preise sind Endpreise für die beschriebenen Leistungen. Aufgrund der Umsatzsteuerbefreiung nach § 19 UStG erfolgt kein Ausweis von Umsatzsteuer."
+
+[offers_more_text]
+other = "Weitere Angebote"
+
+[offers_more_text_short]
+other = "Weitere<br>Angebote"

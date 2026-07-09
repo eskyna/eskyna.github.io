@@ -106,3 +106,9 @@ other = "Final price"
 
 [price_label_tooltip]
 other = "The listed prices are final prices for the described services. Due to VAT exemption under section 19 of the German VAT Act, no VAT is shown."
+
+[offers_more_text]
+other = "More offers"
+
+[offers_more_text_short]
+other = "More<br>offers"
