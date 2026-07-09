@@ -5,6 +5,7 @@
 {{ $homeUI := .Site.Home.Params.ui }}
 {{ $backText := or $pageUI.back_text $sectionUI.back_text $homeUI.back_text "Zum Glossar" }}
 {{ $relatedText := or $pageUI.related_text $sectionUI.related_text $homeUI.related_text "Verwandte Begriffe" }}
+{{ $consultCtaHref := or $pageUI.glossar_consult_cta_href $sectionUI.glossar_consult_cta_href $homeUI.glossar_consult_cta_href $homeUI.faq_cta_href $homeUI.hero.ctaHref "https://calendar.app.google/sPZWYZT6vfK9NMim7" }}
 {{ $displayImage := .Params.image }}
 {{ if not $displayImage }}
   {{ with .File }}
@@ -82,6 +83,13 @@
           {{ .content | safeHTML }}
         </div>
         {{ end }}
+
+        <aside class="glossar-consult-cta" aria-label="{{ i18n "glossar_consult_cta_title" }}">
+          <p class="glossar-consult-kicker">{{ i18n "glossar_consult_cta_kicker" }}</p>
+          <h3 class="glossar-consult-title">{{ i18n "glossar_consult_cta_title" }}</h3>
+          <p class="glossar-consult-text">{{ i18n "glossar_consult_cta_text" }}</p>
+          {{ partial "button-icon.html" (dict "href" $consultCtaHref "text" (i18n "glossar_consult_cta_button") "title" (i18n "glossar_consult_cta_button") "targetBlank" true) }}
+        </aside>
       </article>
     </div>
   </section>

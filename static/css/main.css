@@ -7100,6 +7100,40 @@ main .hero .hero-headline-line {
   border-radius: 0.25rem;
 }
 
+.glossar-consult-cta {
+  margin-top: 2rem;
+  padding: 1.3rem;
+  border: 1px solid rgb(139 94 52 / 24%);
+  border-radius: 0.9rem;
+  background: linear-gradient(155deg, rgb(197 160 89 / 18%), rgb(249 246 240 / 96%));
+  box-shadow: 0 14px 30px rgb(44 30 22 / 10%);
+}
+
+.glossar-consult-kicker {
+  margin: 0;
+  font-family: var(--font-subtitle);
+  font-size: 0.76rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+}
+
+.glossar-consult-title {
+  margin: 0.45rem 0 0;
+  font-size: clamp(1.15rem, 2.2vw, 1.35rem);
+  line-height: 1.35;
+}
+
+.glossar-consult-text {
+  margin: 0.55rem 0 0;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.glossar-consult-cta .btn {
+  margin-top: 0.9rem;
+}
+
 /* GLOSSAR LIST PAGE */
 
 .glossar-list-page {

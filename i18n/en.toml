@@ -148,3 +148,15 @@ other = "Save selection"
 
 [cookie_settings_reset]
 other = "Delete consent"
+
+[glossar_consult_cta_kicker]
+other = "Your next step"
+
+[glossar_consult_cta_title]
+other = "Want to go deeper into this topic?"
+
+[glossar_consult_cta_text]
+other = "Book a free initial consultation with Natalia. Together you will clarify your questions, your style impact, and the next smart steps that fit your life."
+
+[glossar_consult_cta_button]
+other = "Book a free initial consultation"

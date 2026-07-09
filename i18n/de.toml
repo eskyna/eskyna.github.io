@@ -130,3 +130,15 @@ other = "Auswahl speichern"
 
 [cookie_settings_reset]
 other = "Einwilligung löschen"
+
+[glossar_consult_cta_kicker]
+other = "Nächster Schritt"
+
+[glossar_consult_cta_title]
+other = "Wenn du tiefer in dieses Thema einsteigen willst"
+
+[glossar_consult_cta_text]
+other = "Buche ein unverbindliches Erstgespräch mit Natalia. Gemeinsam schaut ihr auf deine Fragen, deine Wirkung und die nächsten stilvollen Schritte, die wirklich zu dir passen."
+
+[glossar_consult_cta_button]
+other = "Kostenloses Erstgespräch buchen"
