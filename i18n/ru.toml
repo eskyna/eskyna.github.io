@@ -102,7 +102,7 @@ other = "Настройки cookie"
 other = "Cookie и аналитика"
 
 [cookie_banner_text]
-other = "Мы используем необходимые cookie для работы сайта. Аналитику через Google Tag Manager и Google Analytics включаем только с вашего согласия."
+other = "Мы используем необходимые cookie для работы сайта. Аналитику через Google Analytics включаем только с вашего согласия."
 
 [cookie_banner_privacy_link]
 other = "Политика конфиденциальности"
@@ -123,7 +123,7 @@ other = "Настройки cookie"
 other = "Необходимые cookie (всегда активны)"
 
 [cookie_settings_analytics]
-other = "Аналитика (Google Tag Manager и Google Analytics)"
+other = "Аналитика (Google Analytics)"
 
 [cookie_settings_save]
 other = "Сохранить выбор"

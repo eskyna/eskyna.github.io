@@ -58,14 +58,14 @@
   }
 
   function updateConsentMode(analyticsGranted) {
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({
-      event: "eskyna_consent_update",
-      analytics_storage: analyticsGranted ? "granted" : "denied",
-      ad_storage: "denied",
-      ad_user_data: "denied",
-      ad_personalization: "denied",
-    });
+    if (typeof window.gtag === "function") {
+      window.gtag("consent", "update", {
+        analytics_storage: analyticsGranted ? "granted" : "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+      });
+    }
   }
 
   function applyConsent(consent) {
@@ -75,8 +75,8 @@
     );
     updateConsentMode(consent.analytics);
 
-    if (consent.analytics && typeof window.eskynaLoadGtm === "function") {
-      window.eskynaLoadGtm();
+    if (consent.analytics && typeof window.eskynaLoadAnalytics === "function") {
+      window.eskynaLoadAnalytics();
     }
 
     window.dispatchEvent(new CustomEvent("eskyna:consent-changed", { detail: consent }));

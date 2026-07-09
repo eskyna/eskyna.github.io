@@ -102,7 +102,7 @@ other = "Cookie-Einstellungen"
 other = "Cookies und Statistik"
 
 [cookie_banner_text]
-other = "Wir verwenden notwendige Cookies für den Betrieb der Website. Statistik über Google Tag Manager und Google Analytics aktivieren wir nur mit Ihrer Einwilligung."
+other = "Wir verwenden notwendige Cookies für den Betrieb der Website. Statistik über Google Analytics aktivieren wir nur mit Ihrer Einwilligung."
 
 [cookie_banner_privacy_link]
 other = "Zur Datenschutzerklärung"
@@ -123,7 +123,7 @@ other = "Cookie-Einstellungen"
 other = "Notwendige Cookies (immer aktiv)"
 
 [cookie_settings_analytics]
-other = "Statistik (Google Tag Manager und Google Analytics)"
+other = "Statistik (Google Analytics)"
 
 [cookie_settings_save]
 other = "Auswahl speichern"

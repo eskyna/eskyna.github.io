@@ -120,7 +120,7 @@ other = "Cookie settings"
 other = "Cookies and analytics"
 
 [cookie_banner_text]
-other = "We use necessary cookies to run the website. We only activate analytics via Google Tag Manager and Google Analytics with your consent."
+other = "We use necessary cookies to run the website. We only activate Google Analytics with your consent."
 
 [cookie_banner_privacy_link]
 other = "Privacy policy"
@@ -141,7 +141,7 @@ other = "Cookie settings"
 other = "Necessary cookies (always active)"
 
 [cookie_settings_analytics]
-other = "Analytics (Google Tag Manager and Google Analytics)"
+other = "Analytics (Google Analytics)"
 
 [cookie_settings_save]
 other = "Save selection"

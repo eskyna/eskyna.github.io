@@ -180,9 +180,9 @@ Wilhelm-Michel-Straße 10\
 
 Согласие можно отозвать в любое время; также можно использовать настройки браузера для ограничения cookies.
 
-## Google Tag Manager и Google Analytics (GA4)
+## Google Analytics (GA4)
 
-На этом сайте мы используем Google Tag Manager и Google Analytics 4 для анализа использования сайта и улучшения наших услуг.
+На этом сайте мы используем Google Analytics 4 для анализа использования сайта и улучшения наших услуг.
 
 - Поставщик: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
 - Цель: измерение охвата и веб-аналитика.
