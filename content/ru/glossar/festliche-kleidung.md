@@ -2,7 +2,7 @@
 title: "Праздничная одежда"
 term: "Праздничная одежда"
 description: "Праздничная одежда — это нарядные, элегантные вещи для торжественных мероприятий."
-category: "Гардероб и повседневность"
+category: "Дресс-коды и поводы"
 tags: ["festliche kleidung", "гардероб"]
 keywords:
   ["festliche kleidung", "что означает festliche kleidung", "festliche kleidung stilberatung"]

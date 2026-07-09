@@ -2,7 +2,7 @@
 title: "Festliche Kleidung"
 term: "Festliche Kleidung"
 description: "Festliche Kleidung beschreibt elegante Outfits für besondere Anlässe, ohne zwingend einem strengen Dresscode zu folgen."
-category: "Garderobe & Alltag"
+category: "Dresscodes & Anlässe"
 tags: ["festliche kleidung", "garderobe"]
 keywords:
   ["festliche kleidung", "was bedeutet festliche kleidung", "festliche kleidung stilberatung"]

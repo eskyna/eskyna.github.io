@@ -2,7 +2,7 @@
 title: "Что означает creative black tie?"
 term: "Creative black tie"
 description: "Creative black tie допускает в очень формальном формате более модные цвета, детали и аксессуары, если общий уровень элегантности сохраняется."
-category: "Гардероб и повседневность"
+category: "Дресс-коды и поводы"
 tags: ["creative black tie", "dresscode", "abend", "festlich"]
 keywords: ["creative black tie", "creative black tie dresscode", "formal mit twist"]
 weight: 24
