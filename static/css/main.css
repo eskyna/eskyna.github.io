@@ -8819,12 +8819,12 @@ main .hero .hero-headline-line {
     background-image:
       linear-gradient(
         180deg,
-        rgb(20 12 8 / 18%) 0%,
-        rgb(20 12 8 / 22%) 44%,
-        rgb(20 12 8 / 34%) 100%
+        rgb(20 12 8 / 8%) 0%,
+        rgb(20 12 8 / 10%) 44%,
+        rgb(20 12 8 / 16%) 100%
       ),
       url("../images/backgrounds/hero/portrait.png");
-    background-position: 58% 12%;
+    background-position: 58% 4%;
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -8838,12 +8838,12 @@ main .hero .hero-headline-line {
     background:
       linear-gradient(
         180deg,
-        rgb(20 12 8 / 12%) 0%,
-        rgb(20 12 8 / 8%) 34%,
-        rgb(20 12 8 / 20%) 70%,
-        rgb(20 12 8 / 34%) 100%
+        rgb(20 12 8 / 5%) 0%,
+        rgb(20 12 8 / 3%) 34%,
+        rgb(20 12 8 / 10%) 70%,
+        rgb(20 12 8 / 18%) 100%
       ),
-      radial-gradient(circle at 50% 78%, rgb(20 12 8 / 20%) 0%, rgb(20 12 8 / 0%) 52%);
+      radial-gradient(circle at 50% 78%, rgb(20 12 8 / 10%) 0%, rgb(20 12 8 / 0%) 55%);
   }
 
   main.home-main .hero::after {
@@ -8851,9 +8851,9 @@ main .hero .hero-headline-line {
     position: absolute;
     inset: auto 0 0;
     z-index: 1;
-    height: 38%;
+    height: 34%;
     pointer-events: none;
-    background: linear-gradient(180deg, rgb(20 12 8 / 0%) 0%, rgb(20 12 8 / 28%) 100%);
+    background: linear-gradient(180deg, rgb(20 12 8 / 0%) 0%, rgb(20 12 8 / 16%) 100%);
   }
 
   main.home-main .hero .hero-topbar,
@@ -8872,22 +8872,15 @@ main .hero .hero-headline-line {
     width: 100vw;
     max-width: 100vw;
     margin-inline: calc(50% - 50vw);
+    box-sizing: border-box;
     min-height: auto;
     align-items: center;
     text-align: center;
     justify-content: flex-end;
-    padding: clamp(1rem, 4.4vw, 1.45rem) max(1rem, env(safe-area-inset-right, 0px))
-      clamp(1rem, 4.4vw, 1.45rem) max(1rem, env(safe-area-inset-left, 0px));
+    padding: clamp(1rem, 4.4vw, 1.45rem) max(0.75rem, env(safe-area-inset-right, 0px))
+      clamp(1rem, 4.4vw, 1.45rem) max(0.75rem, env(safe-area-inset-left, 0px));
     border-radius: 0;
-    background:
-      linear-gradient(
-        90deg,
-        rgb(20 12 8 / 0%) 0%,
-        rgb(20 12 8 / 14%) 18%,
-        rgb(20 12 8 / 14%) 82%,
-        rgb(20 12 8 / 0%) 100%
-      ),
-      linear-gradient(180deg, rgb(20 12 8 / 10%), rgb(20 12 8 / 18%));
+    background: none;
     box-shadow: none;
     backdrop-filter: none;
     overflow: visible;
@@ -8899,10 +8892,12 @@ main .hero .hero-headline-line {
     max-width: 100% !important;
     margin-inline: auto !important;
     text-align: center !important;
+    font-size: clamp(1.95rem, 7.4vw, 2.7rem) !important;
+    line-height: 1.04;
     color: rgb(255 251 246 / 99%);
     text-shadow:
-      0 2px 8px rgb(0 0 0 / 62%),
-      0 8px 26px rgb(0 0 0 / 42%);
+      0 1px 5px rgb(0 0 0 / 42%),
+      0 6px 16px rgb(0 0 0 / 22%);
   }
 
   main.home-main .hero .hero-headline-line,
@@ -8910,7 +8905,9 @@ main .hero .hero-headline-line {
     display: block;
     width: 100%;
     text-align: center !important;
-    white-space: normal !important;
+    white-space: nowrap !important;
+    overflow-wrap: normal;
+    word-break: keep-all;
   }
 
   main.home-main .hero .hero-details {
@@ -8920,9 +8917,10 @@ main .hero .hero-headline-line {
   main.home-main .hero .hero-details .hero-detail {
     color: rgb(255 252 246 / 98%);
     font-weight: 600;
+    overflow-wrap: anywhere;
     text-shadow:
-      0 2px 7px rgb(0 0 0 / 72%),
-      0 9px 24px rgb(0 0 0 / 46%);
+      0 1px 4px rgb(0 0 0 / 50%),
+      0 6px 16px rgb(0 0 0 / 26%);
   }
 
   main.home-main .hero .hero-actions .btn,
@@ -8936,16 +8934,23 @@ main .hero .hero-headline-line {
     width: 100vw;
     max-width: 100vw;
     margin-inline: calc(50% - 50vw);
-    padding: 0.95rem max(0.95rem, env(safe-area-inset-right, 0px)) 0.95rem
-      max(0.95rem, env(safe-area-inset-left, 0px));
+    box-sizing: border-box;
+    padding: 0.9rem max(0.7rem, env(safe-area-inset-right, 0px)) 0.9rem
+      max(0.7rem, env(safe-area-inset-left, 0px));
   }
 
   main.home-main .hero .hero-headline {
-    font-size: clamp(1.85rem, 8vw, 2.65rem) !important;
+    font-size: clamp(1.78rem, 7.1vw, 2.2rem) !important;
   }
 
   main.home-main .hero .hero-details .hero-detail {
     font-size: clamp(0.94rem, 3.7vw, 1.05rem) !important;
+  }
+}
+
+@media (width <= 360px) and (orientation: portrait) {
+  main.home-main .hero .hero-headline {
+    font-size: clamp(1.62rem, 6.8vw, 1.95rem) !important;
   }
 }
 
