@@ -49,7 +49,7 @@ jobs:
           node-version: 24
           cache: npm
       - name: Install Node.js dependencies
-        run: npm install
+        run: npm ci
       - name: Check code formatting (Prettier)
         run: npm run format:check
 
@@ -65,7 +65,7 @@ jobs:
           node-version: 24
           cache: npm
       - name: Install Node.js dependencies
-        run: npm install
+        run: npm ci
       - name: Run linters (CSS & Markdown)
         run: npm run lint
 
@@ -100,15 +100,22 @@ jobs:
         with:
           hugo-version: "0.160.0"
           extended: true
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
       - name: Install image conversion tools (cwebp, avifenc)
         run: sudo apt-get update && sudo apt-get install -y webp libavif-bin
       - name: Checkout
         uses: actions/checkout@v7
         with:
           submodules: recursive
-          fetch-depth: 0
+          fetch-depth: 5
+      - name: Cache converted static image formats
+        uses: actions/cache@v4
+        with:
+          path: |
+            static/images/**/*.webp
+            static/images/**/*.avif
+          key: ${{ runner.os }}-static-image-derivatives-${{ hashFiles('static/images/**/*.png', 'bin/convert-images-build') }}
+          restore-keys: |
+            ${{ runner.os }}-static-image-derivatives-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
@@ -169,7 +176,7 @@ jobs:
           node-version: 24
           cache: npm
       - name: Install Node.js dependencies
-        run: npm install
+        run: npm ci
       - name: Generate EStyle config.js from secrets
         shell: bash
         run: |
@@ -422,7 +429,7 @@ jobs:
           node-version: 24
           cache: npm
       - name: Install Node.js dependencies
-        run: npm install
+        run: npm ci
       - name: Download artifact
         uses: actions/download-artifact@v8
         with:
