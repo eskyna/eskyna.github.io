@@ -434,6 +434,21 @@ document.addEventListener('DOMContentLoaded', function() {
   const noResults = document.getElementById('glossar-no-results');
   const dailyTermWrap = document.querySelector('[data-daily-term]');
 
+  function sanitizeDailyTermHref(rawHref) {
+    if (!rawHref) return '';
+    const candidate = rawHref.trim();
+    if (!candidate) return '';
+
+    try {
+      const parsed = new URL(candidate, window.location.origin);
+      const isHttp = parsed.protocol === 'http:' || parsed.protocol === 'https:';
+      const isSameOriginRelative = !/^[a-zA-Z][a-zA-Z\d+\-.]*:/.test(candidate) && parsed.origin === window.location.origin;
+      return (isHttp || isSameOriginRelative) ? parsed.href : '';
+    } catch (e) {
+      return '';
+    }
+  }
+
   function initDailyGlossaryTerm() {
     if (!dailyTermWrap) return;
     const linksRaw = dailyTermWrap.getAttribute('data-daily-term-links') || '';
@@ -446,9 +461,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const seedDate = new Date();
     const daySeed = Math.floor(Date.UTC(seedDate.getFullYear(), seedDate.getMonth(), seedDate.getDate()) / 86400000);
     const dayIndex = ((daySeed % links.length) + links.length) % links.length;
-    const selectedHref = links[dayIndex];
+    const selectedHref = sanitizeDailyTermHref(links[dayIndex]);
 
-    if (linkEl) {
+    if (linkEl && selectedHref) {
       linkEl.setAttribute('href', selectedHref);
     }
 
