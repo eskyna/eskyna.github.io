@@ -17,20 +17,23 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 20
-          cache: yarn
+          node-version: 24
+          cache: npm
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: latest
+          hugo-version: "0.160.0"
           extended: true
 
+      - name: Install image conversion tools (cwebp, avifenc)
+        run: sudo apt-get update && sudo apt-get install -y webp libavif-bin
+
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm ci
 
       - name: Build static site
-        run: yarn build
+        run: npm run build
 
       - name: Run Lighthouse CI
-        run: yarn lhci
+        run: npm run lhci
