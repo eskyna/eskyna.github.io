@@ -16,9 +16,10 @@ keywords:
   - what is glasses
   - glasses style advice
 slug: glasses
-url: /glossary/glasses/
+url: /en/glossary/glasses/
 aliases:
-  - /glossar/brille/
+  - /en/glossar/brille/
+  - /glossary/glasses/
 image_alt: Editorial glossary illustration for Glasses
 relatedTerms:
   - title: Proportion

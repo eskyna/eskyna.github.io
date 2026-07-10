@@ -16,9 +16,10 @@ keywords:
   - what is wardrobe gap
   - wardrobe gap style advice
 slug: wardrobe-gap
-url: /glossary/wardrobe-gap/
+url: /en/glossary/wardrobe-gap/
 aliases:
-  - /glossar/kleiderschrank-luecke/
+  - /en/glossar/kleiderschrank-luecke/
+  - /glossary/wardrobe-gap/
 image_alt: Editorial glossary illustration for Wardrobe Gap
 relatedTerms:
   - title: Capsule Wardrobe

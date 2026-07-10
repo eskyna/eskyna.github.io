@@ -16,9 +16,10 @@ keywords:
   - what is jeans
   - jeans style advice
 slug: jeans
-url: /glossary/jeans/
+url: /en/glossary/jeans/
 aliases:
-  - /glossar/jeans/
+  - /en/glossar/jeans/
+  - /glossary/jeans/
 image_alt: Editorial glossary illustration for Jeans
 relatedTerms:
   - title: Denim

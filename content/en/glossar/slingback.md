@@ -17,9 +17,10 @@ keywords:
   - what is slingback
   - slingback style advice
 slug: slingback
-url: /glossary/slingback/
+url: /en/glossary/slingback/
 aliases:
-  - /glossar/slingback/
+  - /en/glossar/slingback/
+  - /glossary/slingback/
 image_alt: Editorial glossary illustration for Slingback
 relatedTerms:
   - title: Pumps

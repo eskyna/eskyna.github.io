@@ -17,9 +17,10 @@ keywords:
   - what is khaki
   - khaki style advice
 slug: khaki
-url: /glossary/khaki/
+url: /en/glossary/khaki/
 aliases:
-  - /glossar/khaki/
+  - /en/glossar/khaki/
+  - /glossary/khaki/
 image_alt: Editorial glossary illustration for Khaki
 relatedTerms:
   - title: Beige

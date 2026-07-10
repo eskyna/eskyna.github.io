@@ -16,9 +16,10 @@ keywords:
   - what is wrap skirt
   - wrap skirt style advice
 slug: wrap-skirt
-url: /glossary/wrap-skirt/
+url: /en/glossary/wrap-skirt/
 aliases:
-  - /glossar/wickelrock/
+  - /en/glossar/wickelrock/
+  - /glossary/wrap-skirt/
 image_alt: Editorial glossary illustration for Wrap Skirt
 relatedTerms:
   - title: Capsule Wardrobe

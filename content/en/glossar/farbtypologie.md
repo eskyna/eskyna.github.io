@@ -15,9 +15,10 @@ keywords:
   - what is color typology
   - color typology style advice
 slug: color-typology
-url: /glossary/color-typology/
+url: /en/glossary/color-typology/
 aliases:
-  - /glossar/farbtypologie/
+  - /en/glossar/farbtypologie/
+  - /glossary/color-typology/
 image_alt: Editorial glossary illustration for Color Typology
 relatedTerms:
   - title: Color Consultation

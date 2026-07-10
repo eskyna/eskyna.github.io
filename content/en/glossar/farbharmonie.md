@@ -16,9 +16,10 @@ keywords:
   - what is color harmony
   - color harmony style advice
 slug: color-harmony
-url: /glossary/color-harmony/
+url: /en/glossary/color-harmony/
 aliases:
-  - /glossar/farbharmonie/
+  - /en/glossar/farbharmonie/
+  - /glossary/color-harmony/
 image_alt: Editorial glossary illustration for Color Harmony
 relatedTerms:
   - title: Color Consultation

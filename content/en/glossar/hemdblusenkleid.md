@@ -17,9 +17,10 @@ keywords:
   - what is shirt dress
   - shirt dress style advice
 slug: shirt-dress
-url: /glossary/shirt-dress/
+url: /en/glossary/shirt-dress/
 aliases:
-  - /glossar/hemdblusenkleid/
+  - /en/glossar/hemdblusenkleid/
+  - /glossary/shirt-dress/
 image_alt: Editorial glossary illustration for Shirt Dress
 relatedTerms:
   - title: Silhouette

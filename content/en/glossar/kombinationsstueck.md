@@ -16,9 +16,10 @@ keywords:
   - what is combination piece
   - combination piece style advice
 slug: combination-piece
-url: /glossary/combination-piece/
+url: /en/glossary/combination-piece/
 aliases:
-  - /glossar/kombinationsstueck/
+  - /en/glossar/kombinationsstueck/
+  - /glossary/combination-piece/
 image_alt: Editorial glossary illustration for Combination Piece
 relatedTerms:
   - title: Capsule Wardrobe

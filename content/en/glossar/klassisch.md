@@ -17,9 +17,10 @@ keywords:
   - what is classic style
   - classic style style advice
 slug: classic-style
-url: /glossary/classic-style/
+url: /en/glossary/classic-style/
 aliases:
-  - /glossar/klassisch/
+  - /en/glossar/klassisch/
+  - /glossary/classic-style/
 image_alt: Editorial glossary illustration for Classic Style
 relatedTerms:
   - title: Signature Look

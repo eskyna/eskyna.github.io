@@ -16,9 +16,10 @@ keywords:
   - what is fabric weight
   - fabric weight style advice
 slug: fabric-weight
-url: /glossary/fabric-weight/
+url: /en/glossary/fabric-weight/
 aliases:
-  - /glossar/stoffgewicht/
+  - /en/glossar/stoffgewicht/
+  - /glossary/fabric-weight/
 image_alt: Editorial glossary illustration for Fabric Weight
 relatedTerms:
   - title: Material Quality

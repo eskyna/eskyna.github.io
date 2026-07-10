@@ -28,8 +28,8 @@ relatedTerms:
     url: /rus/glossariy/belyy/
   - title: Бизнес-кэжуал
     url: /rus/glossariy/business-casual/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
 seoTitle: "Светло-голубой: значение и применение | Глоссарий ESKYNA"
 slug: svetlo-goluboy
 url: /rus/glossariy/svetlo-goluboy/
@@ -96,4 +96,4 @@ faq:
 - [Темно-синий](/rus/glossariy/temno-siniy/)
 - [Белый](/rus/glossariy/belyy/)
 - [Бизнес-кэжуал](/rus/glossariy/biznes-kezhual/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)

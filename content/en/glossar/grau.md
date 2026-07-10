@@ -17,9 +17,10 @@ keywords:
   - what is gray
   - gray style advice
 slug: gray
-url: /glossary/gray/
+url: /en/glossary/gray/
 aliases:
-  - /glossar/grau/
+  - /en/glossar/grau/
+  - /glossary/gray/
 image_alt: Editorial glossary illustration for Gray
 relatedTerms:
   - title: Navy

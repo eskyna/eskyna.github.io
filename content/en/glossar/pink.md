@@ -17,9 +17,10 @@ keywords:
   - what is pink
   - pink style advice
 slug: pink
-url: /glossary/pink/
+url: /en/glossary/pink/
 aliases:
-  - /glossar/pink/
+  - /en/glossar/pink/
+  - /glossary/pink/
 image_alt: Editorial glossary illustration for Pink
 relatedTerms:
   - title: Color

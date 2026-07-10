@@ -16,9 +16,10 @@ keywords:
   - what is denim jacket
   - denim jacket style advice
 slug: denim-jacket
-url: /glossary/denim-jacket/
+url: /en/glossary/denim-jacket/
 aliases:
-  - /glossar/jeansjacke/
+  - /en/glossar/jeansjacke/
+  - /glossary/denim-jacket/
 image_alt: Editorial glossary illustration for Denim Jacket
 relatedTerms:
   - title: Denim

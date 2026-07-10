@@ -17,9 +17,10 @@ keywords:
   - what is travel wardrobe
   - travel wardrobe style advice
 slug: travel-wardrobe
-url: /glossary/travel-wardrobe/
+url: /en/glossary/travel-wardrobe/
 aliases:
-  - /glossar/reisegarderobe/
+  - /en/glossar/reisegarderobe/
+  - /glossary/travel-wardrobe/
 image_alt: Editorial glossary illustration for Travel Wardrobe
 relatedTerms:
   - title: Capsule Wardrobe

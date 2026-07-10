@@ -16,9 +16,10 @@ keywords:
   - what is elastane
   - elastane style advice
 slug: elastane
-url: /glossary/elastane/
+url: /en/glossary/elastane/
 aliases:
-  - /glossar/elasthan/
+  - /en/glossar/elasthan/
+  - /glossary/elastane/
 image_alt: Editorial glossary illustration for Elastane
 relatedTerms:
   - title: Material Quality

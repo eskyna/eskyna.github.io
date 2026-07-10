@@ -17,9 +17,10 @@ keywords:
   - what is eye direction
   - eye direction style advice
 slug: eye-direction
-url: /glossary/eye-direction/
+url: /en/glossary/eye-direction/
 aliases:
-  - /glossar/blickfuehrung/
+  - /en/glossar/blickfuehrung/
+  - /glossary/eye-direction/
 image_alt: Editorial glossary illustration for Eye Direction
 relatedTerms:
   - title: Signature Look

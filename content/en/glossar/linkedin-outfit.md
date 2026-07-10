@@ -16,9 +16,10 @@ keywords:
   - what is linkedin outfit
   - linkedin outfit style advice
 slug: linkedin-outfit
-url: /glossary/linkedin-outfit/
+url: /en/glossary/linkedin-outfit/
 aliases:
-  - /glossar/linkedin-outfit/
+  - /en/glossar/linkedin-outfit/
+  - /glossary/linkedin-outfit/
 image_alt: Editorial glossary illustration for LinkedIn Outfit
 relatedTerms:
   - title: Personal Branding

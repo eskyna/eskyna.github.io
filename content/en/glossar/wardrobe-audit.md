@@ -16,9 +16,10 @@ keywords:
   - what is wardrobe audit
   - wardrobe audit style advice
 slug: wardrobe-audit
-url: /glossary/wardrobe-audit/
+url: /en/glossary/wardrobe-audit/
 aliases:
-  - /glossar/wardrobe-audit/
+  - /en/glossar/wardrobe-audit/
+  - /glossary/wardrobe-audit/
 image_alt: Editorial glossary illustration for Wardrobe Audit
 relatedTerms:
   - title: Capsule Wardrobe

@@ -21,8 +21,8 @@ image_alt: "Иллюстрация глоссария ESKYNA: Насыщенно
 relatedTerms:
   - title: Контраст
     url: /rus/glossariy/kontrast/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Светлота
     url: /rus/glossariy/svetlota/
   - title: Розовый
@@ -92,7 +92,7 @@ faq:
 ## Связанные термины
 
 - [Контраст](/rus/glossariy/kontrast/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Светлота](/rus/glossariy/svetlota/)
 - [Розовый](/rus/glossariy/rozovyy-pink/)
 - [Розовый](/rus/glossariy/rozovyy/)

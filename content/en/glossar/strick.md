@@ -16,9 +16,10 @@ keywords:
   - what is knitwear
   - knitwear style advice
 slug: knitwear
-url: /glossary/knitwear/
+url: /en/glossary/knitwear/
 aliases:
-  - /glossar/strick/
+  - /en/glossar/strick/
+  - /glossary/knitwear/
 image_alt: Editorial glossary illustration for Knitwear
 relatedTerms:
   - title: Material Quality

@@ -18,9 +18,10 @@ keywords:
   - what is mustard yellow
   - mustard yellow style advice
 slug: mustard-yellow
-url: /glossary/mustard-yellow/
+url: /en/glossary/mustard-yellow/
 aliases:
-  - /glossar/senfgelb/
+  - /en/glossar/senfgelb/
+  - /glossary/mustard-yellow/
 image_alt: Editorial glossary illustration for Mustard Yellow
 relatedTerms:
   - title: Camel

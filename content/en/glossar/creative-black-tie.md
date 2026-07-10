@@ -15,9 +15,10 @@ keywords:
   - what is creative black tie
   - creative black tie style advice
 slug: creative-black-tie
-url: /glossary/creative-black-tie/
+url: /en/glossary/creative-black-tie/
 aliases:
-  - /glossar/creative-black-tie/
+  - /en/glossar/creative-black-tie/
+  - /glossary/creative-black-tie/
 image_alt: Editorial glossary illustration for Creative Black Tie
 relatedTerms:
   - title: Black Tie

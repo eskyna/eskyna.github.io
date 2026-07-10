@@ -16,9 +16,10 @@ keywords:
   - what is crossbody bag
   - crossbody bag style advice
 slug: crossbody-bag
-url: /glossary/crossbody-bag/
+url: /en/glossary/crossbody-bag/
 aliases:
-  - /glossar/crossbody-bag/
+  - /en/glossar/crossbody-bag/
+  - /glossary/crossbody-bag/
 image_alt: Editorial glossary illustration for Crossbody Bag
 relatedTerms:
   - title: Shopper

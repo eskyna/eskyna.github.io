@@ -15,9 +15,10 @@ keywords:
   - what is t-strap sandal
   - t-strap sandal style advice
 slug: t-strap-sandal
-url: /glossary/t-strap-sandal/
+url: /en/glossary/t-strap-sandal/
 aliases:
-  - /glossar/t-strap-sandale/
+  - /en/glossar/t-strap-sandale/
+  - /glossary/t-strap-sandal/
 image_alt: Editorial glossary illustration for T-Strap Sandal
 relatedTerms:
   - title: Mary Jane

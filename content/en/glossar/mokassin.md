@@ -16,9 +16,10 @@ keywords:
   - what is moccasin
   - moccasin style advice
 slug: moccasin
-url: /glossary/moccasin/
+url: /en/glossary/moccasin/
 aliases:
-  - /glossar/mokassin/
+  - /en/glossar/mokassin/
+  - /glossary/moccasin/
 image_alt: Editorial glossary illustration for Moccasin
 relatedTerms:
   - title: Loafer

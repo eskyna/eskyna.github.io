@@ -16,9 +16,10 @@ keywords:
   - what is twill
   - twill style advice
 slug: twill
-url: /glossary/twill/
+url: /en/glossary/twill/
 aliases:
-  - /glossar/twill/
+  - /en/glossar/twill/
+  - /glossary/twill/
 image_alt: Editorial glossary illustration for Twill
 relatedTerms:
   - title: Material Quality

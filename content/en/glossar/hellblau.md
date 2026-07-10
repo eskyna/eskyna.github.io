@@ -17,9 +17,10 @@ keywords:
   - what is light blue
   - light blue style advice
 slug: light-blue
-url: /glossary/light-blue/
+url: /en/glossary/light-blue/
 aliases:
-  - /glossar/hellblau/
+  - /en/glossar/hellblau/
+  - /glossary/light-blue/
 image_alt: Editorial glossary illustration for Light Blue
 relatedTerms:
   - title: Navy

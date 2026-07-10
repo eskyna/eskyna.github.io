@@ -16,9 +16,10 @@ keywords:
   - what is impulse purchase
   - impulse purchase style advice
 slug: impulse-purchase
-url: /glossary/impulse-purchase/
+url: /en/glossary/impulse-purchase/
 aliases:
-  - /glossar/spontankauf/
+  - /en/glossar/spontankauf/
+  - /glossary/impulse-purchase/
 image_alt: Editorial glossary illustration for Impulse Purchase
 relatedTerms:
   - title: Capsule Wardrobe

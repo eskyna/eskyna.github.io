@@ -17,9 +17,10 @@ keywords:
   - what is o-line
   - o-line style advice
 slug: o-line
-url: /glossary/o-line/
+url: /en/glossary/o-line/
 aliases:
-  - /glossar/o-linie/
+  - /en/glossar/o-linie/
+  - /glossary/o-line/
 image_alt: Editorial glossary illustration for O-Line
 relatedTerms:
   - title: Silhouette

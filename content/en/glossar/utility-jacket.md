@@ -17,9 +17,10 @@ keywords:
   - what is utility jacket
   - utility jacket style advice
 slug: utility-jacket
-url: /glossary/utility-jacket/
+url: /en/glossary/utility-jacket/
 aliases:
-  - /glossar/utility-jacket/
+  - /en/glossar/utility-jacket/
+  - /glossary/utility-jacket/
 image_alt: Editorial glossary illustration for Utility Jacket
 relatedTerms:
   - title: Capsule Wardrobe

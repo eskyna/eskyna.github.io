@@ -16,9 +16,10 @@ keywords:
   - what is vertical elongation
   - vertical elongation style advice
 slug: vertical-elongation
-url: /glossary/vertical-elongation/
+url: /en/glossary/vertical-elongation/
 aliases:
-  - /glossar/laengsstreckung/
+  - /en/glossar/laengsstreckung/
+  - /glossary/vertical-elongation/
 image_alt: Editorial glossary illustration for Vertical Elongation
 relatedTerms:
   - title: Signature Look

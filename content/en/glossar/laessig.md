@@ -17,9 +17,10 @@ keywords:
   - what is relaxed style
   - relaxed style style advice
 slug: relaxed-style
-url: /glossary/relaxed-style/
+url: /en/glossary/relaxed-style/
 aliases:
-  - /glossar/laessig/
+  - /en/glossar/laessig/
+  - /glossary/relaxed-style/
 image_alt: Editorial glossary illustration for Relaxed Style
 relatedTerms:
   - title: Signature Look

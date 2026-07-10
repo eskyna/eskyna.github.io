@@ -17,9 +17,10 @@ keywords:
   - what is metallic
   - metallic style advice
 slug: metallic
-url: /glossary/metallic/
+url: /en/glossary/metallic/
 aliases:
-  - /glossar/metallic/
+  - /en/glossar/metallic/
+  - /glossary/metallic/
 image_alt: Editorial glossary illustration for Metallic
 relatedTerms:
   - title: Gold

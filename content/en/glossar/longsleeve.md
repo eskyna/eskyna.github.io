@@ -16,9 +16,10 @@ keywords:
   - what is longsleeve
   - longsleeve style advice
 slug: longsleeve
-url: /glossary/longsleeve/
+url: /en/glossary/longsleeve/
 aliases:
-  - /glossar/longsleeve/
+  - /en/glossar/longsleeve/
+  - /glossary/longsleeve/
 image_alt: Editorial glossary illustration for Longsleeve
 relatedTerms:
   - title: T-Shirt

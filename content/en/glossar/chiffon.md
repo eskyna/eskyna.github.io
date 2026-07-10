@@ -16,9 +16,10 @@ keywords:
   - what is chiffon
   - chiffon style advice
 slug: chiffon
-url: /glossary/chiffon/
+url: /en/glossary/chiffon/
 aliases:
-  - /glossar/chiffon/
+  - /en/glossar/chiffon/
+  - /glossary/chiffon/
 image_alt: Editorial glossary illustration for Chiffon
 relatedTerms:
   - title: Material Quality

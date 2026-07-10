@@ -16,9 +16,10 @@ keywords:
   - what is waist shaping
   - waist shaping style advice
 slug: waist-shaping
-url: /glossary/waist-shaping/
+url: /en/glossary/waist-shaping/
 aliases:
-  - /glossar/taillierung/
+  - /en/glossar/taillierung/
+  - /glossary/waist-shaping/
 image_alt: Editorial glossary illustration for Waist Shaping
 relatedTerms:
   - title: Silhouette

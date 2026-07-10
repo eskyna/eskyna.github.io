@@ -16,9 +16,10 @@ keywords:
   - what is versatility
   - versatility style advice
 slug: versatility
-url: /glossary/versatility/
+url: /en/glossary/versatility/
 aliases:
-  - /glossar/kombinierbarkeit/
+  - /en/glossar/kombinierbarkeit/
+  - /glossary/versatility/
 image_alt: Editorial glossary illustration for Versatility
 relatedTerms:
   - title: Capsule Wardrobe

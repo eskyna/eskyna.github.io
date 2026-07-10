@@ -15,9 +15,10 @@ keywords:
   - what is smart elegant
   - smart elegant style advice
 slug: smart-elegant
-url: /glossary/smart-elegant/
+url: /en/glossary/smart-elegant/
 aliases:
-  - /glossar/smart-elegant/
+  - /en/glossar/smart-elegant/
+  - /glossary/smart-elegant/
 image_alt: Editorial glossary illustration for Smart Elegant
 relatedTerms:
   - title: Smart Casual

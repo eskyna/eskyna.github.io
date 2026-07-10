@@ -16,9 +16,10 @@ keywords:
   - what is monochrome
   - monochrome style advice
 slug: monochrome
-url: /glossary/monochrome/
+url: /en/glossary/monochrome/
 aliases:
-  - /glossar/monochrom/
+  - /en/glossar/monochrom/
+  - /glossary/monochrome/
 image_alt: Editorial glossary illustration for Monochrome
 relatedTerms:
   - title: Color Consultation

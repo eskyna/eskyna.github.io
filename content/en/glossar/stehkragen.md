@@ -16,9 +16,10 @@ keywords:
   - what is stand collar
   - stand collar style advice
 slug: stand-collar
-url: /glossary/stand-collar/
+url: /en/glossary/stand-collar/
 aliases:
-  - /glossar/stehkragen/
+  - /en/glossar/stehkragen/
+  - /glossary/stand-collar/
 image_alt: Editorial glossary illustration for Stand Collar
 relatedTerms:
   - title: Material Quality

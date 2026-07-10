@@ -17,9 +17,10 @@ keywords:
   - what is contrast
   - contrast style advice
 slug: contrast
-url: /glossary/contrast/
+url: /en/glossary/contrast/
 aliases:
-  - /glossar/kontrast/
+  - /en/glossar/kontrast/
+  - /glossary/contrast/
 image_alt: Editorial glossary illustration for Contrast
 relatedTerms:
   - title: Silhouette

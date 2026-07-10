@@ -16,9 +16,10 @@ keywords:
   - what is balletcore
   - balletcore style advice
 slug: balletcore
-url: /glossary/balletcore/
+url: /en/glossary/balletcore/
 aliases:
-  - /glossar/balletcore/
+  - /en/glossar/balletcore/
+  - /glossary/balletcore/
 image_alt: Editorial glossary illustration for Balletcore
 relatedTerms:
   - title: Ballerina

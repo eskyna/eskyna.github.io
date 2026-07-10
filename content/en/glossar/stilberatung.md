@@ -17,9 +17,10 @@ keywords:
   - what is style consultation
   - style consultation style advice
 slug: style-consultation
-url: /glossary/style-consultation/
+url: /en/glossary/style-consultation/
 aliases:
-  - /glossar/stilberatung/
+  - /en/glossar/stilberatung/
+  - /glossary/style-consultation/
 image_alt: Editorial glossary illustration for Style Consultation
 relatedTerms:
   - title: Signature Look

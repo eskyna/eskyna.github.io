@@ -21,8 +21,8 @@ relatedTerms:
     url: /rus/glossariy/tsvetotip/
   - title: Подтон
     url: /rus/glossariy/podton/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Чистые цвета
     url: /rus/glossariy/chistye-tsveta/
   - title: Цветовой паспорт
@@ -92,6 +92,6 @@ faq:
 
 - [Цветотип](/rus/glossariy/tsvetotip/)
 - [Подтон](/rus/glossariy/podton/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Чистые цвета](/rus/glossariy/chistye-tsveta/)
 - [Цветовой паспорт](/rus/glossariy/tsvetovoy-pasport/)

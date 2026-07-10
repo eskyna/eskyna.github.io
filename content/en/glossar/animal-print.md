@@ -16,9 +16,10 @@ keywords:
   - what is animal print
   - animal print style advice
 slug: animal-print
-url: /glossary/animal-print/
+url: /en/glossary/animal-print/
 aliases:
-  - /glossar/animal-print/
+  - /en/glossar/animal-print/
+  - /glossary/animal-print/
 image_alt: Editorial glossary illustration for Animal Print
 relatedTerms:
   - title: Material Quality

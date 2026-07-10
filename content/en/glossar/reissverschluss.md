@@ -16,9 +16,10 @@ keywords:
   - what is zipper
   - zipper style advice
 slug: zipper
-url: /glossary/zipper/
+url: /en/glossary/zipper/
 aliases:
-  - /glossar/reissverschluss/
+  - /en/glossar/reissverschluss/
+  - /glossary/zipper/
 image_alt: Editorial glossary illustration for Zipper
 relatedTerms:
   - title: Material Quality

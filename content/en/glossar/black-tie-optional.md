@@ -15,9 +15,10 @@ keywords:
   - what is black tie optional
   - black tie optional style advice
 slug: black-tie-optional
-url: /glossary/black-tie-optional/
+url: /en/glossary/black-tie-optional/
 aliases:
-  - /glossar/black-tie-optional/
+  - /en/glossar/black-tie-optional/
+  - /glossary/black-tie-optional/
 image_alt: Editorial glossary illustration for Black Tie Optional
 relatedTerms:
   - title: Black Tie

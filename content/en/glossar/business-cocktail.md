@@ -15,9 +15,10 @@ keywords:
   - what is business cocktail
   - business cocktail style advice
 slug: business-cocktail
-url: /glossary/business-cocktail/
+url: /en/glossary/business-cocktail/
 aliases:
-  - /glossar/business-cocktail/
+  - /en/glossar/business-cocktail/
+  - /glossary/business-cocktail/
 image_alt: Editorial glossary illustration for Business Cocktail
 relatedTerms:
   - title: Cocktail Attire

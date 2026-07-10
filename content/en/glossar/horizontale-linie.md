@@ -16,9 +16,10 @@ keywords:
   - what is horizontal line
   - horizontal line style advice
 slug: horizontal-line
-url: /glossary/horizontal-line/
+url: /en/glossary/horizontal-line/
 aliases:
-  - /glossar/horizontale-linie/
+  - /en/glossar/horizontale-linie/
+  - /glossary/horizontal-line/
 image_alt: Editorial glossary illustration for Horizontal Line
 relatedTerms:
   - title: Proportion

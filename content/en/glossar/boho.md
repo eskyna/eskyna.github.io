@@ -17,9 +17,10 @@ keywords:
   - what is boho
   - boho style advice
 slug: boho
-url: /glossary/boho/
+url: /en/glossary/boho/
 aliases:
-  - /glossar/boho/
+  - /en/glossar/boho/
+  - /glossary/boho/
 image_alt: Editorial glossary illustration for Boho
 relatedTerms:
   - title: Signature Look

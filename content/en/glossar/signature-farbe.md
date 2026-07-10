@@ -16,9 +16,10 @@ keywords:
   - what is signature color
   - signature color style advice
 slug: signature-color
-url: /glossary/signature-color/
+url: /en/glossary/signature-color/
 aliases:
-  - /glossar/signature-farbe/
+  - /en/glossar/signature-farbe/
+  - /glossary/signature-color/
 image_alt: Editorial glossary illustration for Signature Color
 relatedTerms:
   - title: Signature Look

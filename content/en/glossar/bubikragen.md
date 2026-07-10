@@ -17,9 +17,10 @@ keywords:
   - what is peter pan collar
   - peter pan collar style advice
 slug: peter-pan-collar
-url: /glossary/peter-pan-collar/
+url: /en/glossary/peter-pan-collar/
 aliases:
-  - /glossar/bubikragen/
+  - /en/glossar/bubikragen/
+  - /glossary/peter-pan-collar/
 image_alt: Editorial glossary illustration for Peter Pan Collar
 relatedTerms:
   - title: Material Quality

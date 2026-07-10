@@ -15,9 +15,10 @@ keywords:
   - what is semi formal
   - semi formal style advice
 slug: semi-formal
-url: /glossary/semi-formal/
+url: /en/glossary/semi-formal/
 aliases:
-  - /glossar/semi-formal/
+  - /en/glossar/semi-formal/
+  - /glossary/semi-formal/
 image_alt: Editorial glossary illustration for Semi Formal
 relatedTerms:
   - title: Dress Code

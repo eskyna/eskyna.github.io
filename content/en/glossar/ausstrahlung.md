@@ -17,9 +17,10 @@ keywords:
   - what is radiance
   - radiance style advice
 slug: radiance
-url: /glossary/radiance/
+url: /en/glossary/radiance/
 aliases:
-  - /glossar/ausstrahlung/
+  - /en/glossar/ausstrahlung/
+  - /glossary/radiance/
 image_alt: Editorial glossary illustration for Radiance
 relatedTerms:
   - title: Presence

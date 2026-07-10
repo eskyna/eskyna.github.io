@@ -15,9 +15,10 @@ keywords:
   - what is sneakerina
   - sneakerina style advice
 slug: sneakerina
-url: /glossary/sneakerina/
+url: /en/glossary/sneakerina/
 aliases:
-  - /glossar/sneakerina/
+  - /en/glossar/sneakerina/
+  - /glossary/sneakerina/
 image_alt: Editorial glossary illustration for Sneakerina
 relatedTerms:
   - title: Ballerina

@@ -17,9 +17,10 @@ keywords:
   - what is yellow
   - yellow style advice
 slug: yellow
-url: /glossary/yellow/
+url: /en/glossary/yellow/
 aliases:
-  - /glossar/gelb/
+  - /en/glossar/gelb/
+  - /glossary/yellow/
 image_alt: Editorial glossary illustration for Yellow
 relatedTerms:
   - title: Orange

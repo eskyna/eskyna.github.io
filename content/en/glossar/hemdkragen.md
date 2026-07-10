@@ -16,9 +16,10 @@ keywords:
   - what is shirt collar
   - shirt collar style advice
 slug: shirt-collar
-url: /glossary/shirt-collar/
+url: /en/glossary/shirt-collar/
 aliases:
-  - /glossar/hemdkragen/
+  - /en/glossar/hemdkragen/
+  - /glossary/shirt-collar/
 image_alt: Editorial glossary illustration for Shirt Collar
 relatedTerms:
   - title: Material Quality

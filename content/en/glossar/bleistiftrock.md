@@ -16,9 +16,10 @@ keywords:
   - what is pencil skirt
   - pencil skirt style advice
 slug: pencil-skirt
-url: /glossary/pencil-skirt/
+url: /en/glossary/pencil-skirt/
 aliases:
-  - /glossar/bleistiftrock/
+  - /en/glossar/bleistiftrock/
+  - /glossary/pencil-skirt/
 image_alt: Editorial glossary illustration for Pencil Skirt
 relatedTerms:
   - title: Business Casual

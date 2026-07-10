@@ -16,9 +16,10 @@ keywords:
   - what is brand wardrobe
   - brand wardrobe style advice
 slug: brand-wardrobe
-url: /glossary/brand-wardrobe/
+url: /en/glossary/brand-wardrobe/
 aliases:
-  - /glossar/brand-wardrobe/
+  - /en/glossar/brand-wardrobe/
+  - /glossary/brand-wardrobe/
 image_alt: Editorial glossary illustration for Brand Wardrobe
 relatedTerms:
   - title: Personal Branding

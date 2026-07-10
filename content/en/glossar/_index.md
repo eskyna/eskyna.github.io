@@ -32,9 +32,10 @@ ui:
       text: Cut, line, length, and fit so clothes look more coherent on the body.
       href: /en/glossary/category/cut-proportion-fit/
 seoTitle: Style, Color & Wardrobe Glossary | ESKYNA
-url: /glossary/
+url: /en/glossary/
 aliases:
-  - /glossar/
+  - /en/glossar/
+  - /glossary/
 ---
 
 The ESKYNA glossary is your clear reference for style knowledge. It explains terms from style consulting, color theory, cut, materials, dress codes, and wardrobe planning. Not as a dry fashion dictionary, but as practical guidance for real style decisions.

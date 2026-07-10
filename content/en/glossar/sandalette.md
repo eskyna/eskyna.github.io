@@ -16,9 +16,10 @@ keywords:
   - what is dress sandal
   - dress sandal style advice
 slug: dress-sandal
-url: /glossary/dress-sandal/
+url: /en/glossary/dress-sandal/
 aliases:
-  - /glossar/sandalette/
+  - /en/glossar/sandalette/
+  - /glossary/dress-sandal/
 image_alt: Editorial glossary illustration for Dress Sandal
 relatedTerms:
   - title: Capsule Wardrobe

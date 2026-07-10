@@ -16,9 +16,10 @@ keywords:
   - what is ankle boot
   - ankle boot style advice
 slug: ankle-boot
-url: /glossary/ankle-boot/
+url: /en/glossary/ankle-boot/
 aliases:
-  - /glossar/stiefelette/
+  - /en/glossar/stiefelette/
+  - /glossary/ankle-boot/
 image_alt: Editorial glossary illustration for Ankle Boot
 relatedTerms:
   - title: Chelsea Boots

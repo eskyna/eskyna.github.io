@@ -16,9 +16,10 @@ keywords:
   - what is sweatshirt
   - sweatshirt style advice
 slug: sweatshirt
-url: /glossary/sweatshirt/
+url: /en/glossary/sweatshirt/
 aliases:
-  - /glossar/sweatshirt/
+  - /en/glossar/sweatshirt/
+  - /glossary/sweatshirt/
 image_alt: Editorial glossary illustration for Sweatshirt
 relatedTerms:
   - title: Hoodie

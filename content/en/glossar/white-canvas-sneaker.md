@@ -16,9 +16,10 @@ keywords:
   - what is white canvas sneaker
   - white canvas sneaker style advice
 slug: white-canvas-sneaker
-url: /glossary/white-canvas-sneaker/
+url: /en/glossary/white-canvas-sneaker/
 aliases:
-  - /glossar/white-canvas-sneaker/
+  - /en/glossar/white-canvas-sneaker/
+  - /glossary/white-canvas-sneaker/
 image_alt: Editorial glossary illustration for White Canvas Sneaker
 relatedTerms:
   - title: Sneaker

@@ -16,9 +16,10 @@ keywords:
   - what is glencheck
   - glencheck style advice
 slug: glencheck
-url: /glossary/glencheck/
+url: /en/glossary/glencheck/
 aliases:
-  - /glossar/glencheck/
+  - /en/glossar/glencheck/
+  - /glossary/glencheck/
 image_alt: Editorial glossary illustration for Glencheck
 relatedTerms:
   - title: Material Quality

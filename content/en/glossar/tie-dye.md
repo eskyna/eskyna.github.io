@@ -16,9 +16,10 @@ keywords:
   - what is tie-dye
   - tie-dye style advice
 slug: tie-dye
-url: /glossary/tie-dye/
+url: /en/glossary/tie-dye/
 aliases:
-  - /glossar/tie-dye/
+  - /en/glossar/tie-dye/
+  - /glossary/tie-dye/
 image_alt: Editorial glossary illustration for Tie-Dye
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is pleated skirt
   - pleated skirt style advice
 slug: pleated-skirt
-url: /glossary/pleated-skirt/
+url: /en/glossary/pleated-skirt/
 aliases:
-  - /glossar/plisseerock/
+  - /en/glossar/plisseerock/
+  - /glossary/pleated-skirt/
 image_alt: Editorial glossary illustration for Pleated Skirt
 relatedTerms:
   - title: Silhouette

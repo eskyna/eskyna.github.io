@@ -16,9 +16,10 @@ keywords:
   - what is face framing
   - face framing style advice
 slug: face-framing
-url: /glossary/face-framing/
+url: /en/glossary/face-framing/
 aliases:
-  - /glossar/gesichtsrahmung/
+  - /en/glossar/gesichtsrahmung/
+  - /glossary/face-framing/
 image_alt: Editorial glossary illustration for Face Framing
 relatedTerms:
   - title: Material Quality

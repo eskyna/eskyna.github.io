@@ -16,9 +16,10 @@ keywords:
   - what is stage outfit
   - stage outfit style advice
 slug: stage-outfit
-url: /glossary/stage-outfit/
+url: /en/glossary/stage-outfit/
 aliases:
-  - /glossar/buehnenoutfit/
+  - /en/glossar/buehnenoutfit/
+  - /glossary/stage-outfit/
 image_alt: Editorial glossary illustration for Stage Outfit
 relatedTerms:
   - title: Speaker Outfit

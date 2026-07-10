@@ -16,9 +16,10 @@ keywords:
   - what is image strategy
   - image strategy style advice
 slug: image-strategy
-url: /glossary/image-strategy/
+url: /en/glossary/image-strategy/
 aliases:
-  - /glossar/image-strategie/
+  - /en/glossar/image-strategie/
+  - /glossary/image-strategy/
 image_alt: Editorial glossary illustration for Image Strategy
 relatedTerms:
   - title: Image

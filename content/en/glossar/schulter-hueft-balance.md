@@ -16,9 +16,10 @@ keywords:
   - what is shoulder-hip balance
   - shoulder-hip balance style advice
 slug: shoulder-hip-balance
-url: /glossary/shoulder-hip-balance/
+url: /en/glossary/shoulder-hip-balance/
 aliases:
-  - /glossar/schulter-hueft-balance/
+  - /en/glossar/schulter-hueft-balance/
+  - /glossary/shoulder-hip-balance/
 image_alt: Editorial glossary illustration for Shoulder-Hip Balance
 relatedTerms:
   - title: Balance

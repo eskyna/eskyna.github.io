@@ -17,9 +17,10 @@ keywords:
   - what is cut
   - cut style advice
 slug: cut
-url: /glossary/cut/
+url: /en/glossary/cut/
 aliases:
-  - /glossar/schnitt/
+  - /en/glossar/schnitt/
+  - /glossary/cut/
 image_alt: Editorial glossary illustration for Cut
 relatedTerms:
   - title: Silhouette

@@ -17,9 +17,10 @@ keywords:
   - what is top
   - top style advice
 slug: top
-url: /glossary/top/
+url: /en/glossary/top/
 aliases:
-  - /glossar/top/
+  - /en/glossar/top/
+  - /glossary/top/
 image_alt: Editorial glossary illustration for Top
 relatedTerms:
   - title: Material Quality

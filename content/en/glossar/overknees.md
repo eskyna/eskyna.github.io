@@ -17,9 +17,10 @@ keywords:
   - what is overknees
   - overknees style advice
 slug: overknees
-url: /glossary/overknees/
+url: /en/glossary/overknees/
 aliases:
-  - /glossar/overknees/
+  - /en/glossar/overknees/
+  - /glossary/overknees/
 image_alt: Editorial glossary illustration for Overknees
 relatedTerms:
   - title: Capsule Wardrobe

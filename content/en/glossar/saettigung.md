@@ -16,9 +16,10 @@ keywords:
   - what is saturation
   - saturation style advice
 slug: saturation
-url: /glossary/saturation/
+url: /en/glossary/saturation/
 aliases:
-  - /glossar/saettigung/
+  - /en/glossar/saettigung/
+  - /glossary/saturation/
 image_alt: Editorial glossary illustration for Saturation
 relatedTerms:
   - title: Pink

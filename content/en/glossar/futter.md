@@ -16,9 +16,10 @@ keywords:
   - what is lining
   - lining style advice
 slug: lining
-url: /glossary/lining/
+url: /en/glossary/lining/
 aliases:
-  - /glossar/futter/
+  - /en/glossar/futter/
+  - /glossary/lining/
 image_alt: Editorial glossary illustration for Lining
 relatedTerms:
   - title: Material Quality

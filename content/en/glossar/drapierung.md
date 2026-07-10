@@ -16,9 +16,10 @@ keywords:
   - what is draping
   - draping style advice
 slug: draping
-url: /glossary/draping/
+url: /en/glossary/draping/
 aliases:
-  - /glossar/drapierung/
+  - /en/glossar/drapierung/
+  - /glossary/draping/
 image_alt: Editorial glossary illustration for Draping
 relatedTerms:
   - title: Material Quality

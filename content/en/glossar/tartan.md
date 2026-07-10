@@ -16,9 +16,10 @@ keywords:
   - what is tartan
   - tartan style advice
 slug: tartan
-url: /glossary/tartan/
+url: /en/glossary/tartan/
 aliases:
-  - /glossar/tartan/
+  - /en/glossar/tartan/
+  - /glossary/tartan/
 image_alt: Editorial glossary illustration for Tartan
 relatedTerms:
   - title: Material Quality

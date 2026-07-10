@@ -15,9 +15,10 @@ keywords:
   - what is laundry symbols
   - laundry symbols style advice
 slug: laundry-symbols
-url: /glossary/laundry-symbols/
+url: /en/glossary/laundry-symbols/
 aliases:
-  - /glossar/waschsymbole/
+  - /en/glossar/waschsymbole/
+  - /glossary/laundry-symbols/
 image_alt: Editorial glossary illustration for Laundry Symbols
 relatedTerms:
   - title: Material Quality

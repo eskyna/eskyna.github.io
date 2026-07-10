@@ -16,9 +16,10 @@ keywords:
   - what is style development
   - style development style advice
 slug: style-development
-url: /glossary/style-development/
+url: /en/glossary/style-development/
 aliases:
-  - /glossar/stilentwicklung/
+  - /en/glossar/stilentwicklung/
+  - /glossary/style-development/
 image_alt: Editorial glossary illustration for Style Development
 relatedTerms:
   - title: Signature Look

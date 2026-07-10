@@ -16,9 +16,10 @@ keywords:
   - what is high waist
   - high waist style advice
 slug: high-waist
-url: /glossary/high-waist/
+url: /en/glossary/high-waist/
 aliases:
-  - /glossar/high-waist/
+  - /en/glossar/high-waist/
+  - /glossary/high-waist/
 image_alt: Editorial glossary illustration for High Waist
 relatedTerms:
   - title: Silhouette

@@ -17,9 +17,10 @@ keywords:
   - what is old money style
   - old money style style advice
 slug: old-money-style
-url: /glossary/old-money-style/
+url: /en/glossary/old-money-style/
 aliases:
-  - /glossar/old-money-style/
+  - /en/glossar/old-money-style/
+  - /glossary/old-money-style/
 image_alt: Editorial glossary illustration for Old Money Style
 relatedTerms:
   - title: Signature Look

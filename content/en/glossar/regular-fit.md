@@ -16,9 +16,10 @@ keywords:
   - what is regular fit
   - regular fit style advice
 slug: regular-fit
-url: /glossary/regular-fit/
+url: /en/glossary/regular-fit/
 aliases:
-  - /glossar/regular-fit/
+  - /en/glossar/regular-fit/
+  - /glossary/regular-fit/
 image_alt: Editorial glossary illustration for Regular Fit
 relatedTerms:
   - title: Silhouette

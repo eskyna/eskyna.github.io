@@ -16,9 +16,10 @@ keywords:
   - what is outfit
   - outfit style advice
 slug: outfit
-url: /glossary/outfit/
+url: /en/glossary/outfit/
 aliases:
-  - /glossar/outfit/
+  - /en/glossar/outfit/
+  - /glossary/outfit/
 image_alt: Editorial glossary illustration for Outfit
 relatedTerms:
   - title: Signature Look

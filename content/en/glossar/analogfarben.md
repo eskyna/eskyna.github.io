@@ -17,9 +17,10 @@ keywords:
   - what is analogous colors
   - analogous colors style advice
 slug: analogous-colors
-url: /glossary/analogous-colors/
+url: /en/glossary/analogous-colors/
 aliases:
-  - /glossar/analogfarben/
+  - /en/glossar/analogfarben/
+  - /glossary/analogous-colors/
 image_alt: Editorial glossary illustration for Analogous Colors
 relatedTerms:
   - title: Color Consultation

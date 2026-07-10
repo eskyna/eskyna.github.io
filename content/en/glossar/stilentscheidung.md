@@ -17,9 +17,10 @@ keywords:
   - what is style decision
   - style decision style advice
 slug: style-decision
-url: /glossary/style-decision/
+url: /en/glossary/style-decision/
 aliases:
-  - /glossar/stilentscheidung/
+  - /en/glossar/stilentscheidung/
+  - /glossary/style-decision/
 image_alt: Editorial glossary illustration for Style Decision
 relatedTerms:
   - title: Signature Look

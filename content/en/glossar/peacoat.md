@@ -17,9 +17,10 @@ keywords:
   - what is peacoat
   - peacoat style advice
 slug: peacoat
-url: /glossary/peacoat/
+url: /en/glossary/peacoat/
 aliases:
-  - /glossar/peacoat/
+  - /en/glossar/peacoat/
+  - /glossary/peacoat/
 image_alt: Editorial glossary illustration for Peacoat
 relatedTerms:
   - title: Capsule Wardrobe

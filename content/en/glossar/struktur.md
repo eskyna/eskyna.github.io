@@ -16,9 +16,10 @@ keywords:
   - what is texture
   - texture style advice
 slug: texture
-url: /glossary/texture/
+url: /en/glossary/texture/
 aliases:
-  - /glossar/struktur/
+  - /en/glossar/struktur/
+  - /glossary/texture/
 image_alt: Editorial glossary illustration for Texture
 relatedTerms:
   - title: Denim

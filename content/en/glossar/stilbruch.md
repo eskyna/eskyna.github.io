@@ -17,9 +17,10 @@ keywords:
   - what is style contrast
   - style contrast style advice
 slug: style-contrast
-url: /glossary/style-contrast/
+url: /en/glossary/style-contrast/
 aliases:
-  - /glossar/stilbruch/
+  - /en/glossar/stilbruch/
+  - /glossary/style-contrast/
 image_alt: Editorial glossary illustration for Style Contrast
 relatedTerms:
   - title: Quiet Luxury

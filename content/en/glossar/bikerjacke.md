@@ -16,9 +16,10 @@ keywords:
   - what is biker jacket
   - biker jacket style advice
 slug: biker-jacket
-url: /glossary/biker-jacket/
+url: /en/glossary/biker-jacket/
 aliases:
-  - /glossar/bikerjacke/
+  - /en/glossar/bikerjacke/
+  - /glossary/biker-jacket/
 image_alt: Editorial glossary illustration for Biker Jacket
 relatedTerms:
   - title: Capsule Wardrobe

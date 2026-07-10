@@ -16,9 +16,10 @@ keywords:
   - what is fabric density
   - fabric density style advice
 slug: fabric-density
-url: /glossary/fabric-density/
+url: /en/glossary/fabric-density/
 aliases:
-  - /glossar/dichte/
+  - /en/glossar/dichte/
+  - /glossary/fabric-density/
 image_alt: Editorial glossary illustration for Fabric Density
 relatedTerms:
   - title: Material Quality

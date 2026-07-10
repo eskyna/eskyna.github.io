@@ -16,9 +16,10 @@ keywords:
   - what is silhouette
   - silhouette style advice
 slug: silhouette
-url: /glossary/silhouette/
+url: /en/glossary/silhouette/
 aliases:
-  - /glossar/silhouette/
+  - /en/glossar/silhouette/
+  - /glossary/silhouette/
 image_alt: Editorial glossary illustration for Silhouette
 relatedTerms:
   - title: Proportion

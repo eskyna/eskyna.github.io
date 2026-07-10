@@ -19,8 +19,8 @@ weight: 14
 relatedTerms:
   - title: Фирменный образ
     url: /rus/glossariy/firmennyy-obraz/
-  - title: Ежедневный гардероб
-    url: /rus/glossariy/ezhednevnyy-garderob/
+  - title: Повседневная формула образа
+    url: /rus/glossariy/povsednevnaya-formula-obraza/
   - title: Гардероб бренда
     url: /rus/glossariy/garderob-brenda/
   - title: Формула образа
@@ -91,7 +91,7 @@ faq:
 ## Связанные термины
 
 - [Фирменный образ](/rus/glossariy/firmennyy-obraz/)
-- [Ежедневный гардероб](/rus/glossariy/ezhednevnyy-garderob/)
+- [Повседневная формула образа](/rus/glossariy/povsednevnaya-formula-obraza/)
 - [Гардероб бренда](/rus/glossariy/garderob-brenda/)
 - [Формула образа](/rus/glossariy/formula-obraza/)
 - [Логика гардероба](/rus/glossariy/logika-garderoba/)

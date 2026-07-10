@@ -17,9 +17,10 @@ keywords:
   - what is wedding guest outfit
   - wedding guest outfit style advice
 slug: wedding-guest-outfit
-url: /glossary/wedding-guest-outfit/
+url: /en/glossary/wedding-guest-outfit/
 aliases:
-  - /glossar/hochzeit-als-gast/
+  - /en/glossar/hochzeit-als-gast/
+  - /glossary/wedding-guest-outfit/
 image_alt: Editorial glossary illustration for Wedding Guest Outfit
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is interfacing
   - interfacing style advice
 slug: interfacing
-url: /glossary/interfacing/
+url: /en/glossary/interfacing/
 aliases:
-  - /glossar/einlage/
+  - /en/glossar/einlage/
+  - /glossary/interfacing/
 image_alt: Editorial glossary illustration for Interfacing
 relatedTerms:
   - title: Material Quality

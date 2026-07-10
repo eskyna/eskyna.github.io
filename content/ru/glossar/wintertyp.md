@@ -23,8 +23,8 @@ relatedTerms:
     url: /rus/glossariy/kontrast/
   - title: Чистые цвета
     url: /rus/glossariy/chistye-tsveta/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Цветовой паспорт
     url: /rus/glossariy/tsvetovoy-pasport/
 seoTitle: "Зимний цветотип: значение и применение | Глоссарий ESKYNA"
@@ -93,5 +93,5 @@ faq:
 - [Цветотип](/rus/glossariy/tsvetotip/)
 - [Контраст](/rus/glossariy/kontrast/)
 - [Чистые цвета](/rus/glossariy/chistye-tsveta/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Цветовой паспорт](/rus/glossariy/tsvetovoy-pasport/)

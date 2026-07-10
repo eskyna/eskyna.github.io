@@ -17,9 +17,10 @@ keywords:
   - what is color palette
   - color palette style advice
 slug: color-palette
-url: /glossary/color-palette/
+url: /en/glossary/color-palette/
 aliases:
-  - /glossar/farbpalette/
+  - /en/glossar/farbpalette/
+  - /glossary/color-palette/
 image_alt: Editorial glossary illustration for Color Palette
 relatedTerms:
   - title: Capsule Wardrobe

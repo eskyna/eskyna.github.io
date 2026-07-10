@@ -16,9 +16,10 @@ keywords:
   - what is longevity
   - longevity style advice
 slug: longevity
-url: /glossary/longevity/
+url: /en/glossary/longevity/
 aliases:
-  - /glossar/langlebigkeit/
+  - /en/glossar/langlebigkeit/
+  - /glossary/longevity/
 image_alt: Editorial glossary illustration for Longevity
 relatedTerms:
   - title: Slow Fashion

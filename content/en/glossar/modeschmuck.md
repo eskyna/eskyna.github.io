@@ -16,9 +16,10 @@ keywords:
   - what is costume jewelry
   - costume jewelry style advice
 slug: costume-jewelry
-url: /glossary/costume-jewelry/
+url: /en/glossary/costume-jewelry/
 aliases:
-  - /glossar/modeschmuck/
+  - /en/glossar/modeschmuck/
+  - /glossary/costume-jewelry/
 image_alt: Editorial glossary illustration for Costume Jewelry
 relatedTerms:
   - title: Material Quality

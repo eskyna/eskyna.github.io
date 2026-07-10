@@ -15,9 +15,10 @@ keywords:
   - what is tall styling
   - tall styling style advice
 slug: tall-styling
-url: /glossary/tall-styling/
+url: /en/glossary/tall-styling/
 aliases:
-  - /glossar/tall-styling/
+  - /en/glossar/tall-styling/
+  - /glossary/tall-styling/
 image_alt: Editorial glossary illustration for Tall Styling
 relatedTerms:
   - title: Silhouette

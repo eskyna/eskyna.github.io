@@ -45,6 +45,13 @@
   {{ end }}
 {{ end }}
 {{ $imageAlt := .Params.image_alt | default .Title }}
+{{ $expertKicker := cond $isRuLang "Экспертная оценка" (cond (eq $lang "en") "Expert note" "Fachlich eingeordnet") }}
+{{ $expertTitle := cond $isRuLang "Наталия Клеманн" "Natalia Kleemann" }}
+{{ $expertRole := cond $isRuLang "Коуч по стилю и имиджу в ESKYNA" (cond (eq $lang "en") "Style and image coach at ESKYNA" "Style- und Imagecoach bei ESKYNA") }}
+{{ $expertText := cond $isRuLang "Наталия связывает консультацию по цвету, визуальное впечатление и логику гардероба с практическими решениями для жизни, работы и профессионального образа." (cond (eq $lang "en") "Natalia connects color consultation, style impact, and wardrobe logic with practical decisions for everyday life, work, and visible presence." "Natalia verbindet Farbberatung, Stilwirkung und Garderobenlogik mit praktischen Entscheidungen für Alltag, Beruf und Auftritt.") }}
+{{ $expertLinkText := cond $isRuLang "О Наталии" (cond (eq $lang "en") "About Natalia" "Über Natalia") }}
+{{ $expertAboutHref := "about/" | relLangURL }}
+{{ with .Site.GetPage "about" }}{{ $expertAboutHref = .RelPermalink }}{{ end }}
 
 <main class="glossar-page">
   <section class="hero-small glossar-hero">
@@ -194,6 +201,14 @@
           {{ .content | safeHTML }}
         </div>
         {{ end }}
+
+        <aside class="glossar-expert-note" aria-labelledby="glossar-expert-note-heading">
+          <p class="glossar-expert-note-kicker">{{ $expertKicker }}</p>
+          <h3 id="glossar-expert-note-heading" class="glossar-expert-note-title">{{ $expertTitle }}</h3>
+          <p class="glossar-expert-note-role">{{ $expertRole }}</p>
+          <p class="glossar-expert-note-text">{{ $expertText }}</p>
+          <a class="glossar-expert-note-link" href="{{ $expertAboutHref }}" title="{{ $expertLinkText }}">{{ $expertLinkText }}</a>
+        </aside>
 
         <aside class="glossar-consult-cta" aria-label="{{ i18n "glossar_consult_cta_title" }}">
           <p class="glossar-consult-kicker">{{ i18n "glossar_consult_cta_kicker" }}</p>

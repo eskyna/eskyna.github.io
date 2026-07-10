@@ -17,9 +17,10 @@ keywords:
   - what is outfit formula
   - outfit formula style advice
 slug: outfit-formula
-url: /glossary/outfit-formula/
+url: /en/glossary/outfit-formula/
 aliases:
-  - /glossar/outfit-formel/
+  - /en/glossar/outfit-formel/
+  - /glossary/outfit-formula/
 image_alt: Editorial glossary illustration for Outfit Formula
 relatedTerms:
   - title: Basic

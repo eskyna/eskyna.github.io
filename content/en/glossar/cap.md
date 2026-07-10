@@ -17,9 +17,10 @@ keywords:
   - what is cap
   - cap style advice
 slug: cap
-url: /glossary/cap/
+url: /en/glossary/cap/
 aliases:
-  - /glossar/cap/
+  - /en/glossar/cap/
+  - /glossary/cap/
 image_alt: Editorial glossary illustration for Cap
 relatedTerms:
   - title: Sneaker

@@ -17,9 +17,10 @@ keywords:
   - what is orange
   - orange style advice
 slug: orange
-url: /glossary/orange/
+url: /en/glossary/orange/
 aliases:
-  - /glossar/orange/
+  - /en/glossar/orange/
+  - /glossary/orange/
 image_alt: Editorial glossary illustration for Orange
 relatedTerms:
   - title: Terracotta

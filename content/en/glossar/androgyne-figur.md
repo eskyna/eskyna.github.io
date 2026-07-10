@@ -15,9 +15,10 @@ keywords:
   - what is androgynous body shape
   - androgynous body shape style advice
 slug: androgynous-body-shape
-url: /glossary/androgynous-body-shape/
+url: /en/glossary/androgynous-body-shape/
 aliases:
-  - /glossar/androgyne-figur/
+  - /en/glossar/androgyne-figur/
+  - /glossary/androgynous-body-shape/
 image_alt: Editorial glossary illustration for Androgynous Body Shape
 relatedTerms:
   - title: Silhouette

@@ -15,9 +15,10 @@ keywords:
   - what is video call outfit
   - video call outfit style advice
 slug: video-call-outfit
-url: /glossary/video-call-outfit/
+url: /en/glossary/video-call-outfit/
 aliases:
-  - /glossar/video-call-outfit/
+  - /en/glossar/video-call-outfit/
+  - /glossary/video-call-outfit/
 image_alt: Editorial glossary illustration for Video Call Outfit
 relatedTerms:
   - title: Meeting Look

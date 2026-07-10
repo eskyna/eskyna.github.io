@@ -16,9 +16,10 @@ keywords:
   - what is transparency
   - transparency style advice
 slug: transparency
-url: /glossary/transparency/
+url: /en/glossary/transparency/
 aliases:
-  - /glossar/transparenz/
+  - /en/glossar/transparenz/
+  - /glossary/transparency/
 image_alt: Editorial glossary illustration for Transparency
 relatedTerms:
   - title: Material Quality

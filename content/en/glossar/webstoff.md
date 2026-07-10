@@ -16,9 +16,10 @@ keywords:
   - what is woven fabric
   - woven fabric style advice
 slug: woven-fabric
-url: /glossary/woven-fabric/
+url: /en/glossary/woven-fabric/
 aliases:
-  - /glossar/webstoff/
+  - /en/glossar/webstoff/
+  - /glossary/woven-fabric/
 image_alt: Editorial glossary illustration for Woven Fabric
 relatedTerms:
   - title: Material Quality

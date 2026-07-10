@@ -17,9 +17,10 @@ keywords:
   - what is cocktail
   - cocktail style advice
 slug: cocktail
-url: /glossary/cocktail/
+url: /en/glossary/cocktail/
 aliases:
-  - /glossar/cocktail/
+  - /en/glossar/cocktail/
+  - /glossary/cocktail/
 image_alt: Editorial glossary illustration for Cocktail
 relatedTerms:
   - title: Capsule Wardrobe

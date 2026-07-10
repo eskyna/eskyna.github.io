@@ -16,9 +16,10 @@ keywords:
   - what is mulesing-free wool
   - mulesing-free wool style advice
 slug: mulesing-free-wool
-url: /glossary/mulesing-free-wool/
+url: /en/glossary/mulesing-free-wool/
 aliases:
-  - /glossar/mulesing-freie-wolle/
+  - /en/glossar/mulesing-freie-wolle/
+  - /glossary/mulesing-free-wool/
 image_alt: Editorial glossary illustration for Mulesing-Free Wool
 relatedTerms:
   - title: Slow Fashion

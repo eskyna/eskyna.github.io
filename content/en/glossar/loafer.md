@@ -17,9 +17,10 @@ keywords:
   - what is loafer
   - loafer style advice
 slug: loafer
-url: /glossary/loafer/
+url: /en/glossary/loafer/
 aliases:
-  - /glossar/loafer/
+  - /en/glossar/loafer/
+  - /glossary/loafer/
 image_alt: Editorial glossary illustration for Loafer
 relatedTerms:
   - title: Business Casual

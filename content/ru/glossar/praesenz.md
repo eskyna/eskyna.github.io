@@ -17,8 +17,8 @@ keywords:
   - глоссарий ESKYNA
 weight: 12
 relatedTerms:
-  - title: Излучение
-    url: /rus/glossariy/izluchenie/
+  - title: Харизма
+    url: /rus/glossariy/harizma/
   - title: Манера держаться
     url: /rus/glossariy/manera-derzhatsya/
   - title: Впечатление
@@ -59,7 +59,7 @@ consulting_questions:
   - Какие визуальные сигналы поддерживают компетентность, мягкость или авторитет?
   - Какие решения в одежде действительно усиливают присутствие?
 consulting_focus:
-  Присутствие особенно важен в консультации, когда понятие нужно перевести в конкретное решение
+  В консультации этот термин особенно важен, когда понятие нужно перевести в конкретное решение
   для одежды, впечатления или гардероба.
 offer_bridge:
   kicker: Подходящее предложение ESKYNA
@@ -143,7 +143,7 @@ offer_bridge:
 
 ## Связанные термины
 
-- [Излучение](/rus/glossariy/izluchenie/)
+- [Харизма](/rus/glossariy/harizma/)
 - [Манера держаться](/rus/glossariy/manera-derzhatsya/)
 - [Впечатление](/rus/glossariy/vpechatlenie/)
 - [Лидерское присутствие](/rus/glossariy/liderskoe-prisutstvie/)

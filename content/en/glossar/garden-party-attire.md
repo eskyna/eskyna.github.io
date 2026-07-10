@@ -15,9 +15,10 @@ keywords:
   - what is garden party attire
   - garden party attire style advice
 slug: garden-party-attire
-url: /glossary/garden-party-attire/
+url: /en/glossary/garden-party-attire/
 aliases:
-  - /glossar/garden-party-attire/
+  - /en/glossar/garden-party-attire/
+  - /glossary/garden-party-attire/
 image_alt: Editorial glossary illustration for Garden Party Attire
 relatedTerms:
   - title: Beach Formal

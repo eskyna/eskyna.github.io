@@ -16,9 +16,10 @@ keywords:
   - what is body
   - body style advice
 slug: body
-url: /glossary/body/
+url: /en/glossary/body/
 aliases:
-  - /glossar/body/
+  - /en/glossar/body/
+  - /glossary/body/
 image_alt: Editorial glossary illustration for Body
 relatedTerms:
   - title: Material Quality

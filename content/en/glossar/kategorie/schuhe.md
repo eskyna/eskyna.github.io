@@ -4,10 +4,11 @@ description: Footwear terms for shoe shapes, heels, soles, and styling details i
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Shoes
-url: /glossary/category/shoes/
+url: /en/glossary/category/shoes/
 seoTitle: Shoes | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/schuhe/
+  - /en/glossar/kategorie/schuhe/
+  - /glossary/category/shoes/
 ---
 
 ## What this category covers

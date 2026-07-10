@@ -16,9 +16,10 @@ keywords:
   - what is ironing
   - ironing style advice
 slug: ironing
-url: /glossary/ironing/
+url: /en/glossary/ironing/
 aliases:
-  - /glossar/buegeln/
+  - /en/glossar/buegeln/
+  - /glossary/ironing/
 image_alt: Editorial glossary illustration for Ironing
 relatedTerms:
   - title: Material Quality

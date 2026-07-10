@@ -16,9 +16,10 @@ keywords:
   - what is oversized
   - oversized style advice
 slug: oversized
-url: /glossary/oversized/
+url: /en/glossary/oversized/
 aliases:
-  - /glossar/oversized/
+  - /en/glossar/oversized/
+  - /glossary/oversized/
 image_alt: Editorial glossary illustration for Oversized
 relatedTerms:
   - title: Layering

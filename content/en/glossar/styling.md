@@ -16,9 +16,10 @@ keywords:
   - what is styling
   - styling style advice
 slug: styling
-url: /glossary/styling/
+url: /en/glossary/styling/
 aliases:
-  - /glossar/styling/
+  - /en/glossar/styling/
+  - /glossary/styling/
 image_alt: Editorial glossary illustration for Styling
 relatedTerms:
   - title: Signature Look

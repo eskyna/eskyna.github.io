@@ -16,9 +16,10 @@ keywords:
   - what is scandinavian style
   - scandinavian style style advice
 slug: scandinavian-style
-url: /glossary/scandinavian-style/
+url: /en/glossary/scandinavian-style/
 aliases:
-  - /glossar/scandinavian-style/
+  - /en/glossar/scandinavian-style/
+  - /glossary/scandinavian-style/
 image_alt: Editorial glossary illustration for Scandinavian Style
 relatedTerms:
   - title: Signature Look

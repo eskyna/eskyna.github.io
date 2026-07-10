@@ -16,9 +16,10 @@ keywords:
   - what is clutch
   - clutch style advice
 slug: clutch
-url: /glossary/clutch/
+url: /en/glossary/clutch/
 aliases:
-  - /glossar/clutch/
+  - /en/glossar/clutch/
+  - /glossary/clutch/
 image_alt: Editorial glossary illustration for Clutch
 relatedTerms:
   - title: Metallic

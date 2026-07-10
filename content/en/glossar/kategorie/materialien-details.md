@@ -4,10 +4,11 @@ description: Fabric, surface, construction, and accessory terms that influence q
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Materials & Details
-url: /glossary/category/materials-details/
+url: /en/glossary/category/materials-details/
 seoTitle: Materials & Details | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/materialien-details/
+  - /en/glossar/kategorie/materialien-details/
+  - /glossary/category/materials-details/
 ---
 
 ## What this category covers

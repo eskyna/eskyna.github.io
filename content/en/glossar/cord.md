@@ -16,9 +16,10 @@ keywords:
   - what is corduroy
   - corduroy style advice
 slug: corduroy
-url: /glossary/corduroy/
+url: /en/glossary/corduroy/
 aliases:
-  - /glossar/cord/
+  - /en/glossar/cord/
+  - /glossary/corduroy/
 image_alt: Editorial glossary illustration for Corduroy
 relatedTerms:
   - title: Material Quality

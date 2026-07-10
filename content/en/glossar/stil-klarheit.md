@@ -17,9 +17,10 @@ keywords:
   - what is style clarity
   - style clarity style advice
 slug: style-clarity
-url: /glossary/style-clarity/
+url: /en/glossary/style-clarity/
 aliases:
-  - /glossar/stil-klarheit/
+  - /en/glossar/stil-klarheit/
+  - /glossary/style-clarity/
 image_alt: Editorial glossary illustration for Style Clarity
 relatedTerms:
   - title: Signature Look

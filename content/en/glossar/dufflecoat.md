@@ -16,9 +16,10 @@ keywords:
   - what is duffle coat
   - duffle coat style advice
 slug: duffle-coat
-url: /glossary/duffle-coat/
+url: /en/glossary/duffle-coat/
 aliases:
-  - /glossar/dufflecoat/
+  - /en/glossar/dufflecoat/
+  - /glossary/duffle-coat/
 image_alt: Editorial glossary illustration for Duffle Coat
 relatedTerms:
   - title: Capsule Wardrobe

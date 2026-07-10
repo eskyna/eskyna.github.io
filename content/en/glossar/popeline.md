@@ -16,9 +16,10 @@ keywords:
   - what is popeline
   - popeline style advice
 slug: popeline
-url: /glossary/popeline/
+url: /en/glossary/popeline/
 aliases:
-  - /glossar/popeline/
+  - /en/glossar/popeline/
+  - /glossary/popeline/
 image_alt: Editorial glossary illustration for Popeline
 relatedTerms:
   - title: Material Quality

@@ -4,10 +4,11 @@ description: Dress and skirt terms for lengths, shapes, silhouettes, and occasio
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Dresses & Skirts
-url: /glossary/category/dresses-skirts/
+url: /en/glossary/category/dresses-skirts/
 seoTitle: Dresses & Skirts | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/kleider-roecke/
+  - /en/glossar/kategorie/kleider-roecke/
+  - /glossary/category/dresses-skirts/
 ---
 
 ## What this category covers

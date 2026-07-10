@@ -16,9 +16,10 @@ keywords:
   - what is lightness
   - lightness style advice
 slug: lightness
-url: /glossary/lightness/
+url: /en/glossary/lightness/
 aliases:
-  - /glossar/helligkeit/
+  - /en/glossar/helligkeit/
+  - /glossary/lightness/
 image_alt: Editorial glossary illustration for Lightness
 relatedTerms:
   - title: Color Consultation

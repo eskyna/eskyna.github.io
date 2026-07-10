@@ -16,9 +16,10 @@ keywords:
   - what is spring color type
   - spring color type style advice
 slug: spring-color-type
-url: /glossary/spring-color-type/
+url: /en/glossary/spring-color-type/
 aliases:
-  - /glossar/fruehlingstyp/
+  - /en/glossar/fruehlingstyp/
+  - /glossary/spring-color-type/
 image_alt: Editorial glossary illustration for Spring Color Type
 relatedTerms:
   - title: Color Consultation

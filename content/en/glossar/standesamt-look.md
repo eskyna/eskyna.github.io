@@ -17,9 +17,10 @@ keywords:
   - what is registry office look
   - registry office look style advice
 slug: registry-office-look
-url: /glossary/registry-office-look/
+url: /en/glossary/registry-office-look/
 aliases:
-  - /glossar/standesamt-look/
+  - /en/glossar/standesamt-look/
+  - /glossary/registry-office-look/
 image_alt: Editorial glossary illustration for Registry Office Look
 relatedTerms:
   - title: Capsule Wardrobe

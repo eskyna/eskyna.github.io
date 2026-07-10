@@ -17,9 +17,10 @@ keywords:
   - what is cocktail dress
   - cocktail dress style advice
 slug: cocktail-dress
-url: /glossary/cocktail-dress/
+url: /en/glossary/cocktail-dress/
 aliases:
-  - /glossar/cocktailkleid/
+  - /en/glossar/cocktailkleid/
+  - /glossary/cocktail-dress/
 image_alt: Editorial glossary illustration for Cocktail Dress
 relatedTerms:
   - title: Dress Code

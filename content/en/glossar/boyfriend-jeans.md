@@ -17,9 +17,10 @@ keywords:
   - what is boyfriend jeans
   - boyfriend jeans style advice
 slug: boyfriend-jeans
-url: /glossary/boyfriend-jeans/
+url: /en/glossary/boyfriend-jeans/
 aliases:
-  - /glossar/boyfriend-jeans/
+  - /en/glossar/boyfriend-jeans/
+  - /glossary/boyfriend-jeans/
 image_alt: Editorial glossary illustration for Boyfriend Jeans
 relatedTerms:
   - title: Jeans

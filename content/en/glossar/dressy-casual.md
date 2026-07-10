@@ -15,9 +15,10 @@ keywords:
   - what is dressy casual
   - dressy casual style advice
 slug: dressy-casual
-url: /glossary/dressy-casual/
+url: /en/glossary/dressy-casual/
 aliases:
-  - /glossar/dressy-casual/
+  - /en/glossar/dressy-casual/
+  - /glossary/dressy-casual/
 image_alt: Editorial glossary illustration for Dressy Casual
 relatedTerms:
   - title: Smart Casual

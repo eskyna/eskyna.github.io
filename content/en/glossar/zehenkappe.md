@@ -17,9 +17,10 @@ keywords:
   - what is toe cap
   - toe cap style advice
 slug: toe-cap
-url: /glossary/toe-cap/
+url: /en/glossary/toe-cap/
 aliases:
-  - /glossar/zehenkappe/
+  - /en/glossar/zehenkappe/
+  - /glossary/toe-cap/
 image_alt: Editorial glossary illustration for Toe Cap
 relatedTerms:
   - title: Capsule Wardrobe

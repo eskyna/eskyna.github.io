@@ -17,9 +17,10 @@ keywords:
   - what is x-line
   - x-line style advice
 slug: x-line
-url: /glossary/x-line/
+url: /en/glossary/x-line/
 aliases:
-  - /glossar/x-linie/
+  - /en/glossar/x-linie/
+  - /glossary/x-line/
 image_alt: Editorial glossary illustration for X-Line
 relatedTerms:
   - title: Silhouette

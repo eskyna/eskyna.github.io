@@ -17,9 +17,10 @@ keywords:
   - what is occasion wardrobe
   - occasion wardrobe style advice
 slug: occasion-wardrobe
-url: /glossary/occasion-wardrobe/
+url: /en/glossary/occasion-wardrobe/
 aliases:
-  - /glossar/anlassgarderobe/
+  - /en/glossar/anlassgarderobe/
+  - /glossary/occasion-wardrobe/
 image_alt: Editorial glossary illustration for Occasion Wardrobe
 relatedTerms:
   - title: Dress Code

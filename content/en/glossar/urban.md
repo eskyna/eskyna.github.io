@@ -17,9 +17,10 @@ keywords:
   - what is urban
   - urban style advice
 slug: urban
-url: /glossary/urban/
+url: /en/glossary/urban/
 aliases:
-  - /glossar/urban/
+  - /en/glossar/urban/
+  - /glossary/urban/
 image_alt: Editorial glossary illustration for Urban
 relatedTerms:
   - title: Signature Look

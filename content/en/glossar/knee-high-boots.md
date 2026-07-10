@@ -17,9 +17,10 @@ keywords:
   - what is knee-high boots
   - knee-high boots style advice
 slug: knee-high-boots
-url: /glossary/knee-high-boots/
+url: /en/glossary/knee-high-boots/
 aliases:
-  - /glossar/knee-high-boots/
+  - /en/glossar/knee-high-boots/
+  - /glossary/knee-high-boots/
 image_alt: Editorial glossary illustration for Knee-High Boots
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is ankle boots
   - ankle boots style advice
 slug: ankle-boots
-url: /glossary/ankle-boots/
+url: /en/glossary/ankle-boots/
 aliases:
-  - /glossar/ankle-boots/
+  - /en/glossar/ankle-boots/
+  - /glossary/ankle-boots/
 image_alt: Editorial glossary illustration for Ankle Boots
 relatedTerms:
   - title: Capsule Wardrobe

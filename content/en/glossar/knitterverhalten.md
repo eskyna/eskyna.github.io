@@ -17,9 +17,10 @@ keywords:
   - what is wrinkling behavior
   - wrinkling behavior style advice
 slug: wrinkling-behavior
-url: /glossary/wrinkling-behavior/
+url: /en/glossary/wrinkling-behavior/
 aliases:
-  - /glossar/knitterverhalten/
+  - /en/glossar/knitterverhalten/
+  - /glossary/wrinkling-behavior/
 image_alt: Editorial glossary illustration for Wrinkling Behavior
 relatedTerms:
   - title: Material Quality

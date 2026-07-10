@@ -15,9 +15,10 @@ keywords:
   - what is tenu de ville
   - tenu de ville style advice
 slug: tenu-de-ville
-url: /glossary/tenu-de-ville/
+url: /en/glossary/tenu-de-ville/
 aliases:
-  - /glossar/tenue-de-ville/
+  - /en/glossar/tenue-de-ville/
+  - /glossary/tenu-de-ville/
 image_alt: Editorial glossary illustration for Tenu De Ville
 relatedTerms:
   - title: Dress Code

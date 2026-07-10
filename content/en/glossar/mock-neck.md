@@ -16,9 +16,10 @@ keywords:
   - what is mock neck
   - mock neck style advice
 slug: mock-neck
-url: /glossary/mock-neck/
+url: /en/glossary/mock-neck/
 aliases:
-  - /glossar/mock-neck/
+  - /en/glossar/mock-neck/
+  - /glossary/mock-neck/
 image_alt: Editorial glossary illustration for Mock Neck
 relatedTerms:
   - title: Material Quality

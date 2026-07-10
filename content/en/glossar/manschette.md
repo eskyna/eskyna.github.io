@@ -16,9 +16,10 @@ keywords:
   - what is cuff
   - cuff style advice
 slug: cuff
-url: /glossary/cuff/
+url: /en/glossary/cuff/
 aliases:
-  - /glossar/manschette/
+  - /en/glossar/manschette/
+  - /glossary/cuff/
 image_alt: Editorial glossary illustration for Cuff
 relatedTerms:
   - title: Silhouette

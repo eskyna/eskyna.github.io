@@ -17,9 +17,10 @@ keywords:
   - what is maxi skirt
   - maxi skirt style advice
 slug: maxi-skirt
-url: /glossary/maxi-skirt/
+url: /en/glossary/maxi-skirt/
 aliases:
-  - /glossar/maxirock/
+  - /en/glossar/maxirock/
+  - /glossary/maxi-skirt/
 image_alt: Editorial glossary illustration for Maxi Skirt
 relatedTerms:
   - title: Proportion

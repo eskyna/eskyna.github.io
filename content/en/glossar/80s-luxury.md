@@ -16,9 +16,10 @@ keywords:
   - what is 80s luxury
   - 80s luxury style advice
 slug: 80s-luxury
-url: /glossary/80s-luxury/
+url: /en/glossary/80s-luxury/
 aliases:
-  - /glossar/80s-luxury/
+  - /en/glossar/80s-luxury/
+  - /glossary/80s-luxury/
 image_alt: Editorial glossary illustration for 80s Luxury
 relatedTerms:
   - title: Personal Style

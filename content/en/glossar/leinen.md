@@ -16,9 +16,10 @@ keywords:
   - what is linen
   - linen style advice
 slug: linen
-url: /glossary/linen/
+url: /en/glossary/linen/
 aliases:
-  - /glossar/leinen/
+  - /en/glossar/leinen/
+  - /glossary/linen/
 image_alt: Editorial glossary illustration for Linen
 relatedTerms:
   - title: Beige

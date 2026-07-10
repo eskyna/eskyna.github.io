@@ -17,9 +17,10 @@ keywords:
   - what is sustainable wardrobe
   - sustainable wardrobe style advice
 slug: sustainable-wardrobe
-url: /glossary/sustainable-wardrobe/
+url: /en/glossary/sustainable-wardrobe/
 aliases:
-  - /glossar/nachhaltige-garderobe/
+  - /en/glossar/nachhaltige-garderobe/
+  - /glossary/sustainable-wardrobe/
 image_alt: Editorial glossary illustration for Sustainable Wardrobe
 relatedTerms:
   - title: Capsule Wardrobe

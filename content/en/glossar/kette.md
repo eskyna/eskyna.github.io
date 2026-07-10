@@ -16,9 +16,10 @@ keywords:
   - what is necklace
   - necklace style advice
 slug: necklace
-url: /glossary/necklace/
+url: /en/glossary/necklace/
 aliases:
-  - /glossar/kette/
+  - /en/glossar/kette/
+  - /glossary/necklace/
 image_alt: Editorial glossary illustration for Necklace
 relatedTerms:
   - title: Material Quality

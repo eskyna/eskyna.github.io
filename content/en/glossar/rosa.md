@@ -17,9 +17,10 @@ keywords:
   - what is rose pink
   - rose pink style advice
 slug: rose-pink
-url: /glossary/rose-pink/
+url: /en/glossary/rose-pink/
 aliases:
-  - /glossar/rosa/
+  - /en/glossar/rosa/
+  - /glossary/rose-pink/
 image_alt: Editorial glossary illustration for Rose Pink
 relatedTerms:
   - title: Color

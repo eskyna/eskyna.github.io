@@ -15,9 +15,10 @@ keywords:
   - what is fiber blend
   - fiber blend style advice
 slug: fiber-blend
-url: /glossary/fiber-blend/
+url: /en/glossary/fiber-blend/
 aliases:
-  - /glossar/faser-mix/
+  - /en/glossar/faser-mix/
+  - /glossary/fiber-blend/
 image_alt: Editorial glossary illustration for Fiber Blend
 relatedTerms:
   - title: Polyester

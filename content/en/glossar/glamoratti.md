@@ -16,9 +16,10 @@ keywords:
   - what is glamoratti
   - glamoratti style advice
 slug: glamoratti
-url: /glossary/glamoratti/
+url: /en/glossary/glamoratti/
 aliases:
-  - /glossar/glamoratti/
+  - /en/glossar/glamoratti/
+  - /glossary/glamoratti/
 image_alt: Editorial glossary illustration for Glamoratti
 relatedTerms:
   - title: 80s Luxury

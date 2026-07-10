@@ -16,9 +16,10 @@ keywords:
   - what is seam
   - seam style advice
 slug: seam
-url: /glossary/seam/
+url: /en/glossary/seam/
 aliases:
-  - /glossar/naht/
+  - /en/glossar/naht/
+  - /glossary/seam/
 image_alt: Editorial glossary illustration for Seam
 relatedTerms:
   - title: Material Quality

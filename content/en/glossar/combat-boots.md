@@ -16,9 +16,10 @@ keywords:
   - what is combat boots
   - combat boots style advice
 slug: combat-boots
-url: /glossary/combat-boots/
+url: /en/glossary/combat-boots/
 aliases:
-  - /glossar/combat-boots/
+  - /en/glossar/combat-boots/
+  - /glossary/combat-boots/
 image_alt: Editorial glossary illustration for Combat Boots
 relatedTerms:
   - title: Pumps

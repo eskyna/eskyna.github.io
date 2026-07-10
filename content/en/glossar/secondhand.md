@@ -16,9 +16,10 @@ keywords:
   - what is secondhand
   - secondhand style advice
 slug: secondhand
-url: /glossary/secondhand/
+url: /en/glossary/secondhand/
 aliases:
-  - /glossar/secondhand/
+  - /en/glossar/secondhand/
+  - /glossary/secondhand/
 image_alt: Editorial glossary illustration for Secondhand
 relatedTerms:
   - title: Capsule Wardrobe

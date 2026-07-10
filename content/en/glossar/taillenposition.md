@@ -15,9 +15,10 @@ keywords:
   - what is waist position
   - waist position style advice
 slug: waist-position
-url: /glossary/waist-position/
+url: /en/glossary/waist-position/
 aliases:
-  - /glossar/taillenposition/
+  - /en/glossar/taillenposition/
+  - /glossary/waist-position/
 image_alt: Editorial glossary illustration for Waist Position
 relatedTerms:
   - title: High Waist

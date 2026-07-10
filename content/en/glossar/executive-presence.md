@@ -15,9 +15,10 @@ keywords:
   - what is executive presence
   - executive presence style advice
 slug: executive-presence
-url: /glossary/executive-presence/
+url: /en/glossary/executive-presence/
 aliases:
-  - /glossar/executive-presence/
+  - /en/glossar/executive-presence/
+  - /glossary/executive-presence/
 image_alt: Editorial glossary illustration for Executive Presence
 relatedTerms:
   - title: Meeting Look

@@ -16,9 +16,10 @@ keywords:
   - what is hoop earrings
   - hoop earrings style advice
 slug: hoop-earrings
-url: /glossary/hoop-earrings/
+url: /en/glossary/hoop-earrings/
 aliases:
-  - /glossar/creolen/
+  - /en/glossar/creolen/
+  - /glossary/hoop-earrings/
 image_alt: Editorial glossary illustration for Hoop Earrings
 relatedTerms:
   - title: Gold

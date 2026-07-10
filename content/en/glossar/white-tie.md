@@ -17,9 +17,10 @@ keywords:
   - what is white tie
   - white tie style advice
 slug: white-tie
-url: /glossary/white-tie/
+url: /en/glossary/white-tie/
 aliases:
-  - /glossar/white-tie/
+  - /en/glossar/white-tie/
+  - /glossary/white-tie/
 image_alt: Editorial glossary illustration for White Tie
 relatedTerms:
   - title: Capsule Wardrobe

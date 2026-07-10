@@ -16,9 +16,10 @@ keywords:
   - what is grainline
   - grainline style advice
 slug: grainline
-url: /glossary/grainline/
+url: /en/glossary/grainline/
 aliases:
-  - /glossar/fadenlauf/
+  - /en/glossar/fadenlauf/
+  - /glossary/grainline/
 image_alt: Editorial glossary illustration for Grainline
 relatedTerms:
   - title: Material Quality

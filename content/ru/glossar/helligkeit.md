@@ -23,8 +23,8 @@ relatedTerms:
     url: /rus/glossariy/kontrast/
   - title: Насыщенность цвета
     url: /rus/glossariy/nasyshchennost-tsveta/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Монохром
     url: /rus/glossariy/monohrom/
   - title: Нейтральные цвета
@@ -93,6 +93,6 @@ faq:
 
 - [Контраст](/rus/glossariy/kontrast/)
 - [Насыщенность цвета](/rus/glossariy/nasyshchennost-tsveta/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Монохром](/rus/glossariy/monohrom/)
 - [Нейтральные цвета](/rus/glossariy/neytralnye-tsveta/)

@@ -16,9 +16,10 @@ keywords:
   - what is material quality
   - material quality style advice
 slug: material-quality
-url: /glossary/material-quality/
+url: /en/glossary/material-quality/
 aliases:
-  - /glossar/materialqualitaet/
+  - /en/glossar/materialqualitaet/
+  - /glossary/material-quality/
 image_alt: Editorial glossary illustration for Material Quality
 relatedTerms:
   - title: Craftsmanship

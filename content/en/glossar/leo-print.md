@@ -16,9 +16,10 @@ keywords:
   - what is leopard print
   - leopard print style advice
 slug: leopard-print
-url: /glossary/leopard-print/
+url: /en/glossary/leopard-print/
 aliases:
-  - /glossar/leo-print/
+  - /en/glossar/leo-print/
+  - /glossary/leopard-print/
 image_alt: Editorial glossary illustration for Leopard Print
 relatedTerms:
   - title: Material Quality

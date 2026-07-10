@@ -16,9 +16,10 @@ keywords:
   - what is preppy
   - preppy style advice
 slug: preppy
-url: /glossary/preppy/
+url: /en/glossary/preppy/
 aliases:
-  - /glossar/preppy/
+  - /en/glossar/preppy/
+  - /glossary/preppy/
 image_alt: Editorial glossary illustration for Preppy
 relatedTerms:
   - title: Signature Look

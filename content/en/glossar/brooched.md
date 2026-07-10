@@ -15,9 +15,10 @@ keywords:
   - what is brooched
   - brooched style advice
 slug: brooched
-url: /glossary/brooched/
+url: /en/glossary/brooched/
 aliases:
-  - /glossar/brooched/
+  - /en/glossar/brooched/
+  - /glossary/brooched/
 image_alt: Editorial glossary illustration for Brooched
 relatedTerms:
   - title: Blazer

@@ -15,9 +15,10 @@ keywords:
   - what is coastal grandmother
   - coastal grandmother style advice
 slug: coastal-grandmother
-url: /glossary/coastal-grandmother/
+url: /en/glossary/coastal-grandmother/
 aliases:
-  - /glossar/coastal-grandmother/
+  - /en/glossar/coastal-grandmother/
+  - /glossary/coastal-grandmother/
 image_alt: Editorial glossary illustration for Coastal Grandmother
 relatedTerms:
   - title: Navy

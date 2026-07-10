@@ -1,0 +1,163 @@
+# Contact form defaults
+[cf_offer_default]
+other = "Общий запрос"
+
+[cf_privacy_href]
+other = "/rus/politika-konfidentsialnosti/"
+
+[cf_name_label]
+other = "Имя *"
+
+[cf_email_label]
+other = "Эл. почта *"
+
+[cf_phone_label]
+other = "Телефон"
+
+[cf_preferred_label]
+other = "Предпочтительный способ связи"
+
+[cf_preferred_email]
+other = "Эл. почта"
+
+[cf_preferred_phone]
+other = "Телефон"
+
+[cf_message_label]
+other = "Сообщение *"
+
+[cf_message_placeholder]
+other = "Коротко опишите, чем мы можем вам помочь."
+
+[cf_privacy_text_before]
+other = "Я ознакомлен(а) с"
+
+[cf_privacy_link_text]
+other = "политикой конфиденциальности"
+
+[cf_privacy_text_after]
+other = "и согласен(согласна) на обработку данных для ответа на мой запрос."
+
+[cf_submit_default]
+other = "Отправить запрос"
+
+[cf_fallback_email_text]
+other = "Или напишите напрямую на эл. почту:"
+
+[cf_status_sending]
+other = "Отправка ..."
+
+[cf_status_success]
+other = "Спасибо! Ваш запрос отправлен."
+
+[cf_status_error]
+other = "К сожалению, произошла ошибка. Напишите напрямую на {{ . }}."
+
+[cf_status_turnstile]
+other = "Пожалуйста, подтвердите проверку Turnstile."
+
+[cf_email_invalid]
+other = "Пожалуйста, введите корректный адрес электронной почты."
+
+# Contact modal
+[contact_modal_close]
+other = "Закрыть форму"
+
+[contact_modal_title]
+other = "Сообщение для Наталии"
+
+# Footer
+[footer_a11y]
+other = "Доступность"
+
+# Social links
+[contact_form_label]
+other = "Контактная форма"
+
+# Alias page
+[alias_keywords]
+other = "Доступность, Специальные возможности, Экранный диктор, Управление с клавиатуры"
+
+# Taxonomy
+[taxonomy_categories_title]
+other = "Категории"
+
+# Pricing
+[price_label_final]
+other = "итоговая цена"
+
+[price_label_tooltip]
+other = "Указанные цены являются конечными ценами за описанные услуги. В связи с освобождением от налога с оборота в соответствии с § 19 UStG налог с оборота не указывается."
+
+[offers_more_text]
+other = "Другие предложения"
+
+[offers_more_text_short]
+other = "Другие<br>предложения"
+
+[footer_cookie_settings_text]
+other = "Настройки cookie"
+
+[cookie_banner_title]
+other = "Cookie и аналитика"
+
+[cookie_banner_text]
+other = "Мы используем необходимые cookie для работы сайта. Аналитику через Google Analytics включаем только с вашего согласия."
+
+[cookie_banner_privacy_link]
+other = "Политика конфиденциальности"
+
+[cookie_banner_accept_all]
+other = "Принять все"
+
+[cookie_banner_reject_all]
+other = "Отклонить"
+
+[cookie_banner_open_settings]
+other = "Настройки"
+
+[cookie_settings_title]
+other = "Настройки cookie"
+
+[cookie_settings_necessary]
+other = "Необходимые cookie (всегда активны)"
+
+[cookie_settings_analytics]
+other = "Аналитика (Google Analytics)"
+
+[cookie_settings_save]
+other = "Сохранить выбор"
+
+[cookie_settings_reset]
+other = "Удалить согласие"
+
+[glossar_consult_cta_kicker]
+other = "Следующий шаг"
+
+[glossar_consult_cta_title]
+other = "Если вы хотите глубже разобраться в этой теме"
+
+[glossar_consult_cta_text]
+other = "Запишитесь на бесплатную первичную консультацию с Наталией. Вместе вы разберёте ваши вопросы, желаемое впечатление и следующие шаги, которые подойдут именно вам."
+
+[glossar_consult_cta_button]
+other = "Записаться на бесплатную консультацию"
+
+# Footer localized labels
+[footer_glossar_text]
+other = "Глоссарий"
+
+[footer_about_text]
+other = "Обо мне"
+
+[footer_blog_text]
+other = "Блог"
+
+[footer_estyle_text]
+other = "EStyle"
+
+[footer_imprint_text]
+other = "Правовая информация"
+
+[footer_privacy_text]
+other = "Политика конфиденциальности"

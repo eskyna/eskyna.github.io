@@ -15,9 +15,10 @@ keywords:
   - what is pocket vest
   - pocket vest style advice
 slug: pocket-vest
-url: /glossary/pocket-vest/
+url: /en/glossary/pocket-vest/
 aliases:
-  - /glossar/pocket-vest/
+  - /en/glossar/pocket-vest/
+  - /glossary/pocket-vest/
 image_alt: Editorial glossary illustration for Pocket Vest
 relatedTerms:
   - title: Adventure Streetwear

@@ -16,9 +16,10 @@ keywords:
   - what is check pattern
   - check pattern style advice
 slug: check-pattern
-url: /glossary/check-pattern/
+url: /en/glossary/check-pattern/
 aliases:
-  - /glossar/karomuster/
+  - /en/glossar/karomuster/
+  - /glossary/check-pattern/
 image_alt: Editorial glossary illustration for Check Pattern
 relatedTerms:
   - title: Material Quality

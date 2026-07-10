@@ -16,9 +16,10 @@ keywords:
   - what is espadrilles
   - espadrilles style advice
 slug: espadrilles
-url: /glossary/espadrilles/
+url: /en/glossary/espadrilles/
 aliases:
-  - /glossar/espadrilles/
+  - /en/glossar/espadrilles/
+  - /glossary/espadrilles/
 image_alt: Editorial glossary illustration for Espadrilles
 relatedTerms:
   - title: Chinos

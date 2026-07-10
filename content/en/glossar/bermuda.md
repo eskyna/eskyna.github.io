@@ -17,9 +17,10 @@ keywords:
   - what is bermuda shorts
   - bermuda shorts style advice
 slug: bermuda-shorts
-url: /glossary/bermuda-shorts/
+url: /en/glossary/bermuda-shorts/
 aliases:
-  - /glossar/bermuda/
+  - /en/glossar/bermuda/
+  - /glossary/bermuda-shorts/
 image_alt: Editorial glossary illustration for Bermuda Shorts
 relatedTerms:
   - title: Shorts

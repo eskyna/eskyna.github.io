@@ -16,9 +16,10 @@ keywords:
   - what is lapel
   - lapel style advice
 slug: lapel
-url: /glossary/lapel/
+url: /en/glossary/lapel/
 aliases:
-  - /glossar/revers/
+  - /en/glossar/revers/
+  - /glossary/lapel/
 image_alt: Editorial glossary illustration for Lapel
 relatedTerms:
   - title: Material Quality

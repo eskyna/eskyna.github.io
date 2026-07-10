@@ -17,9 +17,10 @@ keywords:
   - what is camel
   - camel style advice
 slug: camel
-url: /glossary/camel/
+url: /en/glossary/camel/
 aliases:
-  - /glossar/camel/
+  - /en/glossar/camel/
+  - /glossary/camel/
 image_alt: Editorial glossary illustration for Camel
 relatedTerms:
   - title: Beige

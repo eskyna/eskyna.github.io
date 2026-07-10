@@ -16,9 +16,10 @@ keywords:
   - what is weekend look
   - weekend look style advice
 slug: weekend-look
-url: /glossary/weekend-look/
+url: /en/glossary/weekend-look/
 aliases:
-  - /glossar/wochenendlook/
+  - /en/glossar/wochenendlook/
+  - /glossary/weekend-look/
 image_alt: Editorial glossary illustration for Weekend Look
 relatedTerms:
   - title: Capsule Wardrobe

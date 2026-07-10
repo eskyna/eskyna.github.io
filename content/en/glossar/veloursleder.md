@@ -16,9 +16,10 @@ keywords:
   - what is suede
   - suede style advice
 slug: suede
-url: /glossary/suede/
+url: /en/glossary/suede/
 aliases:
-  - /glossar/veloursleder/
+  - /en/glossar/veloursleder/
+  - /glossary/suede/
 image_alt: Editorial glossary illustration for Suede
 relatedTerms:
   - title: Material Quality

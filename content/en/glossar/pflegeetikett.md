@@ -16,9 +16,10 @@ keywords:
   - what is care label
   - care label style advice
 slug: care-label
-url: /glossary/care-label/
+url: /en/glossary/care-label/
 aliases:
-  - /glossar/pflegeetikett/
+  - /en/glossar/pflegeetikett/
+  - /glossary/care-label/
 image_alt: Editorial glossary illustration for Care Label
 relatedTerms:
   - title: Material Quality

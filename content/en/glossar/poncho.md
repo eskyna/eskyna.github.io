@@ -17,9 +17,10 @@ keywords:
   - what is poncho
   - poncho style advice
 slug: poncho
-url: /glossary/poncho/
+url: /en/glossary/poncho/
 aliases:
-  - /glossar/poncho/
+  - /en/glossar/poncho/
+  - /glossary/poncho/
 image_alt: Editorial glossary illustration for Poncho
 relatedTerms:
   - title: Capsule Wardrobe

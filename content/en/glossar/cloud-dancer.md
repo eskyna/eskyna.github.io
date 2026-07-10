@@ -16,9 +16,10 @@ keywords:
   - what is cloud dancer
   - cloud dancer style advice
 slug: cloud-dancer
-url: /glossary/cloud-dancer/
+url: /en/glossary/cloud-dancer/
 aliases:
-  - /glossar/cloud-dancer/
+  - /en/glossar/cloud-dancer/
+  - /glossary/cloud-dancer/
 image_alt: Editorial glossary illustration for Cloud Dancer
 relatedTerms:
   - title: Color Consultation

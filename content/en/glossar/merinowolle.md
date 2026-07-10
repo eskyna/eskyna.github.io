@@ -16,9 +16,10 @@ keywords:
   - what is merino wool
   - merino wool style advice
 slug: merino-wool
-url: /glossary/merino-wool/
+url: /en/glossary/merino-wool/
 aliases:
-  - /glossar/merinowolle/
+  - /en/glossar/merinowolle/
+  - /glossary/merino-wool/
 image_alt: Editorial glossary illustration for Merino Wool
 relatedTerms:
   - title: Material Quality

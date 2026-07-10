@@ -16,9 +16,10 @@ keywords:
   - what is pattern
   - pattern style advice
 slug: pattern
-url: /glossary/pattern/
+url: /en/glossary/pattern/
 aliases:
-  - /glossar/muster/
+  - /en/glossar/muster/
+  - /glossary/pattern/
 image_alt: Editorial glossary illustration for Pattern
 relatedTerms:
   - title: Material Quality

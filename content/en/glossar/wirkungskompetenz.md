@@ -16,9 +16,10 @@ keywords:
   - what is impact competence
   - impact competence style advice
 slug: impact-competence
-url: /glossary/impact-competence/
+url: /en/glossary/impact-competence/
 aliases:
-  - /glossar/wirkungskompetenz/
+  - /en/glossar/wirkungskompetenz/
+  - /glossary/impact-competence/
 image_alt: Editorial glossary illustration for Impact Competence
 relatedTerms:
   - title: Personal Style

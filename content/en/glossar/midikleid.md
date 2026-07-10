@@ -17,9 +17,10 @@ keywords:
   - what is midi dress
   - midi dress style advice
 slug: midi-dress
-url: /glossary/midi-dress/
+url: /en/glossary/midi-dress/
 aliases:
-  - /glossar/midikleid/
+  - /en/glossar/midikleid/
+  - /glossary/midi-dress/
 image_alt: Editorial glossary illustration for Midi Dress
 relatedTerms:
   - title: Proportion

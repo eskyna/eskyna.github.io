@@ -17,9 +17,10 @@ keywords:
   - what is wish list
   - wish list style advice
 slug: wish-list
-url: /glossary/wish-list/
+url: /en/glossary/wish-list/
 aliases:
-  - /glossar/wunschliste/
+  - /en/glossar/wunschliste/
+  - /glossary/wish-list/
 image_alt: Editorial glossary illustration for Wish List
 relatedTerms:
   - title: Capsule Wardrobe

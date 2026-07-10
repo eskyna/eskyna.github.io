@@ -17,9 +17,10 @@ keywords:
   - what is rose gold
   - rose gold style advice
 slug: rose-gold
-url: /glossary/rose-gold/
+url: /en/glossary/rose-gold/
 aliases:
-  - /glossar/rosegold/
+  - /en/glossar/rosegold/
+  - /glossary/rose-gold/
 image_alt: Editorial glossary illustration for Rose Gold
 relatedTerms:
   - title: Metallic

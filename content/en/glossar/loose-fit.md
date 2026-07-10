@@ -16,9 +16,10 @@ keywords:
   - what is loose fit
   - loose fit style advice
 slug: loose-fit
-url: /glossary/loose-fit/
+url: /en/glossary/loose-fit/
 aliases:
-  - /glossar/loose-fit/
+  - /en/glossar/loose-fit/
+  - /glossary/loose-fit/
 image_alt: Editorial glossary illustration for Loose Fit
 relatedTerms:
   - title: Silhouette

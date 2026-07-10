@@ -16,9 +16,10 @@ keywords:
   - what is shoe-hem relationship
   - shoe-hem relationship style advice
 slug: shoe-hem-relationship
-url: /glossary/shoe-hem-relationship/
+url: /en/glossary/shoe-hem-relationship/
 aliases:
-  - /glossar/schuh-saum-beziehung/
+  - /en/glossar/schuh-saum-beziehung/
+  - /glossary/shoe-hem-relationship/
 image_alt: Editorial glossary illustration for Shoe-Hem Relationship
 relatedTerms:
   - title: Wide Leg

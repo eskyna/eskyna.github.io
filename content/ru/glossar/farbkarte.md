@@ -19,8 +19,8 @@ weight: 12
 relatedTerms:
   - title: Цветовой паспорт
     url: /rus/glossariy/tsvetovoy-pasport/
-  - title: Профиль цвета
-    url: /rus/glossariy/profil-tsveta/
+  - title: Цветовой профиль
+    url: /rus/glossariy/tsvetovoy-profil/
   - title: Цветовая палитра
     url: /rus/glossariy/tsvetovaya-palitra/
   - title: Цветотип
@@ -91,7 +91,7 @@ faq:
 ## Связанные термины
 
 - [Цветовой паспорт](/rus/glossariy/tsvetovoy-pasport/)
-- [Профиль цвета](/rus/glossariy/profil-tsveta/)
+- [Цветовой профиль](/rus/glossariy/tsvetovoy-profil/)
 - [Цветовая палитра](/rus/glossariy/tsvetovaya-palitra/)
 - [Цветотип](/rus/glossariy/tsvetotip/)
 - [Подтон](/rus/glossariy/podton/)

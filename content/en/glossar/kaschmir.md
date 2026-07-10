@@ -16,9 +16,10 @@ keywords:
   - what is cashmere
   - cashmere style advice
 slug: cashmere
-url: /glossary/cashmere/
+url: /en/glossary/cashmere/
 aliases:
-  - /glossar/kaschmir/
+  - /en/glossar/kaschmir/
+  - /glossary/cashmere/
 image_alt: Editorial glossary illustration for Cashmere
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is block heel
   - block heel style advice
 slug: block-heel
-url: /glossary/block-heel/
+url: /en/glossary/block-heel/
 aliases:
-  - /glossar/blockabsatz/
+  - /en/glossar/blockabsatz/
+  - /glossary/block-heel/
 image_alt: Editorial glossary illustration for Block Heel
 relatedTerms:
   - title: Pumps

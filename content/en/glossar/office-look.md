@@ -17,9 +17,10 @@ keywords:
   - what is office look
   - office look style advice
 slug: office-look
-url: /glossary/office-look/
+url: /en/glossary/office-look/
 aliases:
-  - /glossar/office-look/
+  - /en/glossar/office-look/
+  - /glossary/office-look/
 image_alt: Editorial glossary illustration for Office Look
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is camouflage
   - camouflage style advice
 slug: camouflage
-url: /glossary/camouflage/
+url: /en/glossary/camouflage/
 aliases:
-  - /glossar/camouflage/
+  - /en/glossar/camouflage/
+  - /glossary/camouflage/
 image_alt: Editorial glossary illustration for Camouflage
 relatedTerms:
   - title: Material Quality

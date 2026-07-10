@@ -17,9 +17,10 @@ keywords:
   - what is color profile
   - color profile style advice
 slug: color-profile
-url: /glossary/color-profile/
+url: /en/glossary/color-profile/
 aliases:
-  - /glossar/farbprofil/
+  - /en/glossar/farbprofil/
+  - /glossary/color-profile/
 image_alt: Editorial glossary illustration for Color Profile
 relatedTerms:
   - title: Signature Look

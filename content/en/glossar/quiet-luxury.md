@@ -17,9 +17,10 @@ keywords:
   - what is quiet luxury
   - quiet luxury style advice
 slug: quiet-luxury
-url: /glossary/quiet-luxury/
+url: /en/glossary/quiet-luxury/
 aliases:
-  - /glossar/quiet-luxury/
+  - /en/glossar/quiet-luxury/
+  - /glossary/quiet-luxury/
 image_alt: Editorial glossary illustration for Quiet Luxury
 relatedTerms:
   - title: Signature Look

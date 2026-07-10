@@ -17,9 +17,10 @@ keywords:
   - what is trend piece
   - trend piece style advice
 slug: trend-piece
-url: /glossary/trend-piece/
+url: /en/glossary/trend-piece/
 aliases:
-  - /glossar/trendteil/
+  - /en/glossar/trendteil/
+  - /glossary/trend-piece/
 image_alt: Editorial glossary illustration for Trend Piece
 relatedTerms:
   - title: Signature Look

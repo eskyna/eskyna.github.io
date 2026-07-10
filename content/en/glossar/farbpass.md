@@ -16,9 +16,10 @@ keywords:
   - what is color passport
   - color passport style advice
 slug: color-passport
-url: /glossary/color-passport/
+url: /en/glossary/color-passport/
 aliases:
-  - /glossar/farbpass/
+  - /en/glossar/farbpass/
+  - /glossary/color-passport/
 image_alt: Editorial glossary illustration for Color Passport
 relatedTerms:
   - title: Color Consultation

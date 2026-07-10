@@ -16,9 +16,10 @@ keywords:
   - what is appearance
   - appearance style advice
 slug: appearance
-url: /glossary/appearance/
+url: /en/glossary/appearance/
 aliases:
-  - /glossar/auftreten/
+  - /en/glossar/auftreten/
+  - /glossary/appearance/
 image_alt: Editorial glossary illustration for Appearance
 relatedTerms:
   - title: Image

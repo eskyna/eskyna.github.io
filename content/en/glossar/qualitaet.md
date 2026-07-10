@@ -17,9 +17,10 @@ keywords:
   - what is quality
   - quality style advice
 slug: quality
-url: /glossary/quality/
+url: /en/glossary/quality/
 aliases:
-  - /glossar/qualitaet/
+  - /en/glossar/qualitaet/
+  - /glossary/quality/
 image_alt: Editorial glossary illustration for Quality
 relatedTerms:
   - title: Capsule Wardrobe

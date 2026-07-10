@@ -16,9 +16,10 @@ keywords:
   - what is festive attire
   - festive attire style advice
 slug: festive-attire
-url: /glossary/festive-attire/
+url: /en/glossary/festive-attire/
 aliases:
-  - /glossar/festive-attire/
+  - /en/glossar/festive-attire/
+  - /glossary/festive-attire/
 image_alt: Editorial glossary illustration for Festive Attire
 relatedTerms:
   - title: Cocktail Attire

@@ -16,9 +16,10 @@ keywords:
   - what is fine knit
   - fine knit style advice
 slug: fine-knit
-url: /glossary/fine-knit/
+url: /en/glossary/fine-knit/
 aliases:
-  - /glossar/feinstrick/
+  - /en/glossar/feinstrick/
+  - /glossary/fine-knit/
 image_alt: Editorial glossary illustration for Fine Knit
 relatedTerms:
   - title: Material Quality

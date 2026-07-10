@@ -17,9 +17,10 @@ keywords:
   - what is travel capsule
   - travel capsule style advice
 slug: travel-capsule
-url: /glossary/travel-capsule/
+url: /en/glossary/travel-capsule/
 aliases:
-  - /glossar/reise-capsule/
+  - /en/glossar/reise-capsule/
+  - /glossary/travel-capsule/
 image_alt: Editorial glossary illustration for Travel Capsule
 relatedTerms:
   - title: Capsule Wardrobe

@@ -17,9 +17,10 @@ keywords:
   - what is sage green
   - sage green style advice
 slug: sage-green
-url: /glossary/sage-green/
+url: /en/glossary/sage-green/
 aliases:
-  - /glossar/salbeigruen/
+  - /en/glossar/salbeigruen/
+  - /glossary/sage-green/
 image_alt: Editorial glossary illustration for Sage Green
 relatedTerms:
   - title: Beige

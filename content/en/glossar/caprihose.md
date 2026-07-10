@@ -16,9 +16,10 @@ keywords:
   - what is capri pants
   - capri pants style advice
 slug: capri-pants
-url: /glossary/capri-pants/
+url: /en/glossary/capri-pants/
 aliases:
-  - /glossar/caprihose/
+  - /en/glossar/caprihose/
+  - /glossary/capri-pants/
 image_alt: Editorial glossary illustration for Capri Pants
 relatedTerms:
   - title: Culotte

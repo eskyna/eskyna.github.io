@@ -16,9 +16,10 @@ keywords:
   - what is earrings
   - earrings style advice
 slug: earrings
-url: /glossary/earrings/
+url: /en/glossary/earrings/
 aliases:
-  - /glossar/ohrringe/
+  - /en/glossar/ohrringe/
+  - /glossary/earrings/
 image_alt: Editorial glossary illustration for Earrings
 relatedTerms:
   - title: Material Quality

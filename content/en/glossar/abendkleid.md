@@ -17,9 +17,10 @@ keywords:
   - what is evening dress
   - evening dress style advice
 slug: evening-dress
-url: /glossary/evening-dress/
+url: /en/glossary/evening-dress/
 aliases:
-  - /glossar/abendkleid/
+  - /en/glossar/abendkleid/
+  - /glossary/evening-dress/
 image_alt: Editorial glossary illustration for Evening Dress
 relatedTerms:
   - title: Dress Code

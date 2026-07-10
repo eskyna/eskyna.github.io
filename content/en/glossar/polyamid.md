@@ -16,9 +16,10 @@ keywords:
   - what is polyamid
   - polyamid style advice
 slug: polyamid
-url: /glossary/polyamid/
+url: /en/glossary/polyamid/
 aliases:
-  - /glossar/polyamid/
+  - /en/glossar/polyamid/
+  - /glossary/polyamid/
 image_alt: Editorial glossary illustration for Polyamid
 relatedTerms:
   - title: Material Quality

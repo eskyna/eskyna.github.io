@@ -16,9 +16,10 @@ keywords:
   - what is smart casual
   - smart casual style advice
 slug: smart-casual
-url: /glossary/smart-casual/
+url: /en/glossary/smart-casual/
 aliases:
-  - /glossar/smart-casual/
+  - /en/glossar/smart-casual/
+  - /glossary/smart-casual/
 image_alt: Editorial glossary illustration for Smart Casual
 relatedTerms:
   - title: Business Casual

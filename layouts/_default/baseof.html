@@ -8,6 +8,7 @@
   {{ partial "head.html" . }}
 </head>
 <body>
+  {{ partial "mobile-sticky-nav.html" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "contact-modal.html" . }}
   {{ partial "cookie-consent.html" . }}
@@ -15,6 +16,7 @@
   {{ partial "footer.html" . }}
   <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
   <script src="{{ "js/consent-analytics.v20260709.js" | relURL }}" defer></script>
+  <script src="{{ "js/mobile-sticky-nav.v20260710.js" | relURL }}" defer></script>
   <script>
     (function () {
       function resetTurnstileForForm(form) {

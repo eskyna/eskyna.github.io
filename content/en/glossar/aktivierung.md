@@ -17,9 +17,10 @@ keywords:
   - what is activation
   - activation style advice
 slug: activation
-url: /glossary/activation/
+url: /en/glossary/activation/
 aliases:
-  - /glossar/aktivierung/
+  - /en/glossar/aktivierung/
+  - /glossary/activation/
 image_alt: Editorial glossary illustration for Activation
 relatedTerms:
   - title: Personal Style

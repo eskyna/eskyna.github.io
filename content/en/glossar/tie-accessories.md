@@ -15,9 +15,10 @@ keywords:
   - what is tie accessories
   - tie accessories style advice
 slug: tie-accessories
-url: /glossary/tie-accessories/
+url: /en/glossary/tie-accessories/
 aliases:
-  - /glossar/tie-accessories/
+  - /en/glossar/tie-accessories/
+  - /glossary/tie-accessories/
 image_alt: Editorial glossary illustration for Tie Accessories
 relatedTerms:
   - title: Preppy

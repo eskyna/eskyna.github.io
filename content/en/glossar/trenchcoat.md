@@ -16,9 +16,10 @@ keywords:
   - what is trenchcoat
   - trenchcoat style advice
 slug: trenchcoat
-url: /glossary/trenchcoat/
+url: /en/glossary/trenchcoat/
 aliases:
-  - /glossar/trenchcoat/
+  - /en/glossar/trenchcoat/
+  - /glossary/trenchcoat/
 image_alt: Editorial glossary illustration for Trenchcoat
 relatedTerms:
   - title: Key Piece

@@ -17,9 +17,10 @@ keywords:
   - what is feminine style
   - feminine style style advice
 slug: feminine-style
-url: /glossary/feminine-style/
+url: /en/glossary/feminine-style/
 aliases:
-  - /glossar/femininer-stil/
+  - /en/glossar/femininer-stil/
+  - /glossary/feminine-style/
 image_alt: Editorial glossary illustration for Feminine Style
 relatedTerms:
   - title: Signature Look

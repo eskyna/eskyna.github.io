@@ -16,9 +16,10 @@ keywords:
   - what is business professional
   - business professional style advice
 slug: business-professional
-url: /glossary/business-professional/
+url: /en/glossary/business-professional/
 aliases:
-  - /glossar/business-professional/
+  - /en/glossar/business-professional/
+  - /glossary/business-professional/
 image_alt: Editorial glossary illustration for Business Professional
 relatedTerms:
   - title: Business Formal

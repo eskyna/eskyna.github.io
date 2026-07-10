@@ -17,9 +17,10 @@ keywords:
   - what is satin skirt
   - satin skirt style advice
 slug: satin-skirt
-url: /glossary/satin-skirt/
+url: /en/glossary/satin-skirt/
 aliases:
-  - /glossar/satinrock/
+  - /en/glossar/satinrock/
+  - /glossary/satin-skirt/
 image_alt: Editorial glossary illustration for Satin Skirt
 relatedTerms:
   - title: Silhouette

@@ -15,9 +15,10 @@ keywords:
   - what is glove pump
   - glove pump style advice
 slug: glove-pump
-url: /glossary/glove-pump/
+url: /en/glossary/glove-pump/
 aliases:
-  - /glossar/glove-pump/
+  - /en/glossar/glove-pump/
+  - /glossary/glove-pump/
 image_alt: Editorial glossary illustration for Glove Pump
 relatedTerms:
   - title: Pumps

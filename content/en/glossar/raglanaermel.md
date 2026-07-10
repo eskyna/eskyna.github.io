@@ -16,9 +16,10 @@ keywords:
   - what is raglan sleeve
   - raglan sleeve style advice
 slug: raglan-sleeve
-url: /glossary/raglan-sleeve/
+url: /en/glossary/raglan-sleeve/
 aliases:
-  - /glossar/raglanaermel/
+  - /en/glossar/raglanaermel/
+  - /glossary/raglan-sleeve/
 image_alt: Editorial glossary illustration for Raglan Sleeve
 relatedTerms:
   - title: Silhouette

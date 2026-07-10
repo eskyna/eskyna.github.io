@@ -16,9 +16,10 @@ keywords:
   - what is cocktail attire
   - cocktail attire style advice
 slug: cocktail-attire
-url: /glossary/cocktail-attire/
+url: /en/glossary/cocktail-attire/
 aliases:
-  - /glossar/cocktail-attire/
+  - /en/glossar/cocktail-attire/
+  - /glossary/cocktail-attire/
 image_alt: Editorial glossary illustration for Cocktail Attire
 relatedTerms:
   - title: Cocktail

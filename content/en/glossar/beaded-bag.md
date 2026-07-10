@@ -15,9 +15,10 @@ keywords:
   - what is beaded bag
   - beaded bag style advice
 slug: beaded-bag
-url: /glossary/beaded-bag/
+url: /en/glossary/beaded-bag/
 aliases:
-  - /glossar/beaded-bag/
+  - /en/glossar/beaded-bag/
+  - /glossary/beaded-bag/
 image_alt: Editorial glossary illustration for Beaded Bag
 relatedTerms:
   - title: Clutch

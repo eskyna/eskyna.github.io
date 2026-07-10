@@ -17,9 +17,10 @@ keywords:
   - what is lilac
   - lilac style advice
 slug: lilac
-url: /glossary/lilac/
+url: /en/glossary/lilac/
 aliases:
-  - /glossar/flieder/
+  - /en/glossar/flieder/
+  - /glossary/lilac/
 image_alt: Editorial glossary illustration for Lilac
 relatedTerms:
   - title: Color

@@ -16,9 +16,10 @@ keywords:
   - what is handfeel
   - handfeel style advice
 slug: handfeel
-url: /glossary/handfeel/
+url: /en/glossary/handfeel/
 aliases:
-  - /glossar/griff/
+  - /en/glossar/griff/
+  - /glossary/handfeel/
 image_alt: Editorial glossary illustration for Handfeel
 relatedTerms:
   - title: Material Quality

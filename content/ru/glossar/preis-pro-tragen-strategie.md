@@ -15,8 +15,8 @@ keywords:
   - глоссарий ESKYNA
 weight: 55
 relatedTerms:
-  - title: Стоимость за носку
-    url: /rus/glossariy/stoimost-za-nosku/
+  - title: Стоимость одного выхода
+    url: /rus/glossariy/stoimost-odnogo-vyhoda/
   - title: Критерии покупки
     url: /rus/glossariy/kriterii-pokupki/
   - title: Медленная мода
@@ -88,7 +88,7 @@ faq:
 
 ## Связанные термины
 
-- [Стоимость за носку](/rus/glossariy/stoimost-za-nosku/)
+- [Стоимость одного выхода](/rus/glossariy/stoimost-odnogo-vyhoda/)
 - [Критерии покупки](/rus/glossariy/kriterii-pokupki/)
 - [Медленная мода](/rus/glossariy/medlennaya-moda/)
 - [Качество](/rus/glossariy/kachestvo/)

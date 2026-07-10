@@ -16,9 +16,10 @@ keywords:
   - what is style routine
   - style routine style advice
 slug: style-routine
-url: /glossary/style-routine/
+url: /en/glossary/style-routine/
 aliases:
-  - /glossar/stilroutine/
+  - /en/glossar/stilroutine/
+  - /glossary/style-routine/
 image_alt: Editorial glossary illustration for Style Routine
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is speaker outfit
   - speaker outfit style advice
 slug: speaker-outfit
-url: /glossary/speaker-outfit/
+url: /en/glossary/speaker-outfit/
 aliases:
-  - /glossar/speaker-outfit/
+  - /en/glossar/speaker-outfit/
+  - /glossary/speaker-outfit/
 image_alt: Editorial glossary illustration for Speaker Outfit
 relatedTerms:
   - title: Personal Branding

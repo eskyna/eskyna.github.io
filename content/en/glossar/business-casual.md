@@ -17,9 +17,10 @@ keywords:
   - what is business casual
   - business casual style advice
 slug: business-casual
-url: /glossary/business-casual/
+url: /en/glossary/business-casual/
 aliases:
-  - /glossar/business-casual/
+  - /en/glossar/business-casual/
+  - /glossary/business-casual/
 image_alt: Editorial glossary illustration for Business Casual
 relatedTerms:
   - title: Smart Casual

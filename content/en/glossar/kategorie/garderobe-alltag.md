@@ -4,10 +4,11 @@ description: Practical wardrobe terms for outfits, daily decisions, shopping, an
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Wardrobe & Everyday Style
-url: /glossary/category/wardrobe-everyday-style/
+url: /en/glossary/category/wardrobe-everyday-style/
 seoTitle: Wardrobe & Everyday Style | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/garderobe-alltag/
+  - /en/glossar/kategorie/garderobe-alltag/
+  - /glossary/category/wardrobe-everyday-style/
 ---
 
 ## What this category covers

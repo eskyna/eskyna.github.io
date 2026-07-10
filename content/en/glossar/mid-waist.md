@@ -16,9 +16,10 @@ keywords:
   - what is mid waist
   - mid waist style advice
 slug: mid-waist
-url: /glossary/mid-waist/
+url: /en/glossary/mid-waist/
 aliases:
-  - /glossar/mid-waist/
+  - /en/glossar/mid-waist/
+  - /glossary/mid-waist/
 image_alt: Editorial glossary illustration for Mid Waist
 relatedTerms:
   - title: Silhouette

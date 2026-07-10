@@ -17,9 +17,10 @@ keywords:
   - what is purple
   - purple style advice
 slug: purple
-url: /glossary/purple/
+url: /en/glossary/purple/
 aliases:
-  - /glossar/lila/
+  - /en/glossar/lila/
+  - /glossary/purple/
 image_alt: Editorial glossary illustration for Purple
 relatedTerms:
   - title: Pink

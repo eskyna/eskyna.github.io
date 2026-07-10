@@ -16,9 +16,10 @@ keywords:
   - what is office siren
   - office siren style advice
 slug: office-siren
-url: /glossary/office-siren/
+url: /en/glossary/office-siren/
 aliases:
-  - /glossar/office-siren/
+  - /en/glossar/office-siren/
+  - /glossary/office-siren/
 image_alt: Editorial glossary illustration for Office Siren
 relatedTerms:
   - title: Business Professional

@@ -16,9 +16,10 @@ keywords:
   - what is satin
   - satin style advice
 slug: satin
-url: /glossary/satin/
+url: /en/glossary/satin/
 aliases:
-  - /glossar/satin/
+  - /en/glossar/satin/
+  - /glossary/satin/
 image_alt: Editorial glossary illustration for Satin
 relatedTerms:
   - title: Material Quality

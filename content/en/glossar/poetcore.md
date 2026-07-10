@@ -15,9 +15,10 @@ keywords:
   - what is potcore
   - potcore style advice
 slug: potcore
-url: /glossary/potcore/
+url: /en/glossary/potcore/
 aliases:
-  - /glossar/poetcore/
+  - /en/glossar/poetcore/
+  - /glossary/potcore/
 image_alt: Editorial glossary illustration for Potcore
 relatedTerms:
   - title: Dark Academia

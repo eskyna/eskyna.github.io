@@ -16,9 +16,10 @@ keywords:
   - what is relaxed fit
   - relaxed fit style advice
 slug: relaxed-fit
-url: /glossary/relaxed-fit/
+url: /en/glossary/relaxed-fit/
 aliases:
-  - /glossar/relaxed-fit/
+  - /en/glossar/relaxed-fit/
+  - /glossary/relaxed-fit/
 image_alt: Editorial glossary illustration for Relaxed Fit
 relatedTerms:
   - title: Silhouette

@@ -16,9 +16,10 @@ keywords:
   - what is pleated trousers
   - pleated trousers style advice
 slug: pleated-trousers
-url: /glossary/pleated-trousers/
+url: /en/glossary/pleated-trousers/
 aliases:
-  - /glossar/bundfaltenhose/
+  - /en/glossar/bundfaltenhose/
+  - /glossary/pleated-trousers/
 image_alt: Editorial glossary illustration for Pleated Trousers
 relatedTerms:
   - title: Business Casual

@@ -16,9 +16,10 @@ keywords:
   - what is breathability
   - breathability style advice
 slug: breathability
-url: /glossary/breathability/
+url: /en/glossary/breathability/
 aliases:
-  - /glossar/atmungsaktivitaet/
+  - /en/glossar/atmungsaktivitaet/
+  - /glossary/breathability/
 image_alt: Editorial glossary illustration for Breathability
 relatedTerms:
   - title: Material Quality

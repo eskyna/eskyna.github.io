@@ -16,9 +16,10 @@ keywords:
   - what is accessory
   - accessory style advice
 slug: accessory
-url: /glossary/accessory/
+url: /en/glossary/accessory/
 aliases:
-  - /glossar/accessoire/
+  - /en/glossar/accessoire/
+  - /glossary/accessory/
 image_alt: Editorial glossary illustration for Accessory
 relatedTerms:
   - title: Material Quality

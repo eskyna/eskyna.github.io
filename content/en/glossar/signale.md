@@ -16,9 +16,10 @@ keywords:
   - what is signals
   - signals style advice
 slug: signals
-url: /glossary/signals/
+url: /en/glossary/signals/
 aliases:
-  - /glossar/signale/
+  - /en/glossar/signale/
+  - /glossary/signals/
 image_alt: Editorial glossary illustration for Signals
 relatedTerms:
   - title: Signature Look

@@ -16,9 +16,10 @@ keywords:
   - what is slim fit
   - slim fit style advice
 slug: slim-fit
-url: /glossary/slim-fit/
+url: /en/glossary/slim-fit/
 aliases:
-  - /glossar/slim-fit/
+  - /en/glossar/slim-fit/
+  - /glossary/slim-fit/
 image_alt: Editorial glossary illustration for Slim Fit
 relatedTerms:
   - title: Proportion

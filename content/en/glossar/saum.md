@@ -17,9 +17,10 @@ keywords:
   - what is hem
   - hem style advice
 slug: hem
-url: /glossary/hem/
+url: /en/glossary/hem/
 aliases:
-  - /glossar/saum/
+  - /en/glossar/saum/
+  - /glossary/hem/
 image_alt: Editorial glossary illustration for Hem
 relatedTerms:
   - title: Material Quality

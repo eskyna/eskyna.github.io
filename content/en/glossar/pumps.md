@@ -16,9 +16,10 @@ keywords:
   - what is pumps
   - pumps style advice
 slug: pumps
-url: /glossary/pumps/
+url: /en/glossary/pumps/
 aliases:
-  - /glossar/pumps/
+  - /en/glossar/pumps/
+  - /glossary/pumps/
 image_alt: Editorial glossary illustration for Pumps
 relatedTerms:
   - title: Business Casual

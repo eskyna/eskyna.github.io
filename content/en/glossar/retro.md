@@ -17,9 +17,10 @@ keywords:
   - what is retro
   - retro style advice
 slug: retro
-url: /glossary/retro/
+url: /en/glossary/retro/
 aliases:
-  - /glossar/retro/
+  - /en/glossar/retro/
+  - /glossary/retro/
 image_alt: Editorial glossary illustration for Retro
 relatedTerms:
   - title: Signature Look

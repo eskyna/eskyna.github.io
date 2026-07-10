@@ -16,9 +16,10 @@ keywords:
   - what is cape
   - cape style advice
 slug: cape
-url: /glossary/cape/
+url: /en/glossary/cape/
 aliases:
-  - /glossar/cape/
+  - /en/glossar/cape/
+  - /glossary/cape/
 image_alt: Editorial glossary illustration for Cape
 relatedTerms:
   - title: Capsule Wardrobe

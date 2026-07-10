@@ -17,9 +17,10 @@ keywords:
   - what is color temperature
   - color temperature style advice
 slug: color-temperature
-url: /glossary/color-temperature/
+url: /en/glossary/color-temperature/
 aliases:
-  - /glossar/farbtemperatur/
+  - /en/glossar/farbtemperatur/
+  - /glossary/color-temperature/
 image_alt: Editorial glossary illustration for Color Temperature
 relatedTerms:
   - title: Color Consultation

@@ -16,9 +16,10 @@ keywords:
   - what is tailored trousers
   - tailored trousers style advice
 slug: tailored-trousers
-url: /glossary/tailored-trousers/
+url: /en/glossary/tailored-trousers/
 aliases:
-  - /glossar/stoffhose/
+  - /en/glossar/stoffhose/
+  - /glossary/tailored-trousers/
 image_alt: Editorial glossary illustration for Tailored Trousers
 relatedTerms:
   - title: Chinos

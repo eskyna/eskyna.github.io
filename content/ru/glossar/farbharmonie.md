@@ -25,8 +25,8 @@ relatedTerms:
     url: /rus/glossariy/aktsentnyy-tsvet/
   - title: Подтон
     url: /rus/glossariy/podton/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
 seoTitle: "Цветовая гармония: значение и применение | Глоссарий ESKYNA"
 slug: tsvetovaya-garmoniya
 url: /rus/glossariy/tsvetovaya-garmoniya/
@@ -59,7 +59,7 @@ consulting_questions:
   - "Где этот принцип работает сильнее: у лица, как акцент или как база?"
   - Как сочетать его с уже имеющимися цветами без новых случайных покупок?
 consulting_focus:
-  Цветовая гармония особенно важен в консультации, когда понятие нужно перевести в конкретное решение
+  В консультации этот термин особенно важен, когда понятие нужно перевести в конкретное решение
   для одежды, впечатления или гардероба.
 offer_bridge:
   kicker: Подходящее предложение ESKYNA
@@ -147,4 +147,4 @@ offer_bridge:
 - [Контраст](/rus/glossariy/kontrast/)
 - [Акцентный цвет](/rus/glossariy/aktsentnyy-tsvet/)
 - [Подтон](/rus/glossariy/podton/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)

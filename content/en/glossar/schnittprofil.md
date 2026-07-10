@@ -15,9 +15,10 @@ keywords:
   - what is cut profile
   - cut profile style advice
 slug: cut-profile
-url: /glossary/cut-profile/
+url: /en/glossary/cut-profile/
 aliases:
-  - /glossar/schnittprofil/
+  - /en/glossar/schnittprofil/
+  - /glossary/cut-profile/
 image_alt: Editorial glossary illustration for Cut Profile
 relatedTerms:
   - title: Signature Look

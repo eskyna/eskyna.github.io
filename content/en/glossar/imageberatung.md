@@ -17,9 +17,10 @@ keywords:
   - what is image consulting
   - image consulting style advice
 slug: image-consulting
-url: /glossary/image-consulting/
+url: /en/glossary/image-consulting/
 aliases:
-  - /glossar/imageberatung/
+  - /en/glossar/imageberatung/
+  - /glossary/image-consulting/
 image_alt: Editorial glossary illustration for Image Consulting
 relatedTerms:
   - title: Signature Look

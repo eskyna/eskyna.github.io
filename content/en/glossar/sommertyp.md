@@ -16,9 +16,10 @@ keywords:
   - what is summer color type
   - summer color type style advice
 slug: summer-color-type
-url: /glossary/summer-color-type/
+url: /en/glossary/summer-color-type/
 aliases:
-  - /glossar/sommertyp/
+  - /en/glossar/sommertyp/
+  - /glossary/summer-color-type/
 image_alt: Editorial glossary illustration for Summer Color Type
 relatedTerms:
   - title: Color Consultation

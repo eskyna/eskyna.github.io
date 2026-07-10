@@ -17,9 +17,10 @@ keywords:
   - what is romantic style
   - romantic style style advice
 slug: romantic-style
-url: /glossary/romantic-style/
+url: /en/glossary/romantic-style/
 aliases:
-  - /glossar/romantisch/
+  - /en/glossar/romantisch/
+  - /glossary/romantic-style/
 image_alt: Editorial glossary illustration for Romantic Style
 relatedTerms:
   - title: Signature Look

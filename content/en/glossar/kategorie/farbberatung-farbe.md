@@ -4,10 +4,11 @@ description: Color-analysis terms for undertone, contrast, harmony, and personal
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Color Consultation & Color
-url: /glossary/category/color-consultation-color/
+url: /en/glossary/category/color-consultation-color/
 seoTitle: Color Consultation & Color | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/farbberatung-farbe/
+  - /en/glossar/kategorie/farbberatung-farbe/
+  - /glossary/category/color-consultation-color/
 ---
 
 ## What this category covers

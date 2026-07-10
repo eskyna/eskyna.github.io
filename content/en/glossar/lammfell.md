@@ -16,9 +16,10 @@ keywords:
   - what is shearling
   - shearling style advice
 slug: shearling
-url: /glossary/shearling/
+url: /en/glossary/shearling/
 aliases:
-  - /glossar/lammfell/
+  - /en/glossar/lammfell/
+  - /glossary/shearling/
 image_alt: Editorial glossary illustration for Shearling
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is dress
   - dress style advice
 slug: dress
-url: /glossary/dress/
+url: /en/glossary/dress/
 aliases:
-  - /glossar/kleid/
+  - /en/glossar/kleid/
+  - /glossary/dress/
 image_alt: Editorial glossary illustration for Dress
 relatedTerms:
   - title: Slip Dress

@@ -16,9 +16,10 @@ keywords:
   - what is event look
   - event look style advice
 slug: event-look
-url: /glossary/event-look/
+url: /en/glossary/event-look/
 aliases:
-  - /glossar/event-look/
+  - /en/glossar/event-look/
+  - /glossary/event-look/
 image_alt: Editorial glossary illustration for Event Look
 relatedTerms:
   - title: Capsule Wardrobe

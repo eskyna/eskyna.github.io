@@ -16,9 +16,10 @@ keywords:
   - what is care
   - care style advice
 slug: care
-url: /glossary/care/
+url: /en/glossary/care/
 aliases:
-  - /glossar/pflege/
+  - /en/glossar/pflege/
+  - /glossary/care/
 image_alt: Editorial glossary illustration for Care
 relatedTerms:
   - title: Capsule Wardrobe

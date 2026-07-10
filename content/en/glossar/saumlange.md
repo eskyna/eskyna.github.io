@@ -16,9 +16,10 @@ keywords:
   - what is hem length
   - hem length style advice
 slug: hem-length
-url: /glossary/hem-length/
+url: /en/glossary/hem-length/
 aliases:
-  - /glossar/saumlange/
+  - /en/glossar/saumlange/
+  - /glossary/hem-length/
 image_alt: Editorial glossary illustration for Hem Length
 relatedTerms:
   - title: Proportion

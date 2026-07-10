@@ -15,9 +15,10 @@ keywords:
   - what is summer clutch
   - summer clutch style advice
 slug: summer-clutch
-url: /glossary/summer-clutch/
+url: /en/glossary/summer-clutch/
 aliases:
-  - /glossar/summer-clutch/
+  - /en/glossar/summer-clutch/
+  - /glossary/summer-clutch/
 image_alt: Editorial glossary illustration for Summer Clutch
 relatedTerms:
   - title: Clutch

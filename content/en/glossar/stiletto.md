@@ -17,9 +17,10 @@ keywords:
   - what is stiletto
   - stiletto style advice
 slug: stiletto
-url: /glossary/stiletto/
+url: /en/glossary/stiletto/
 aliases:
-  - /glossar/stiletto/
+  - /en/glossar/stiletto/
+  - /glossary/stiletto/
 image_alt: Editorial glossary illustration for Stiletto
 relatedTerms:
   - title: Capsule Wardrobe

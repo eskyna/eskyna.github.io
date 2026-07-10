@@ -15,9 +15,10 @@ keywords:
   - what is drop waist
   - drop waist style advice
 slug: drop-waist
-url: /glossary/drop-waist/
+url: /en/glossary/drop-waist/
 aliases:
-  - /glossar/drop-waist/
+  - /en/glossar/drop-waist/
+  - /glossary/drop-waist/
 image_alt: Editorial glossary illustration for Drop Waist
 relatedTerms:
   - title: Silhouette

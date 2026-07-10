@@ -15,9 +15,10 @@ keywords:
   - what is slow fashion
   - slow fashion style advice
 slug: slow-fashion
-url: /glossary/slow-fashion/
+url: /en/glossary/slow-fashion/
 aliases:
-  - /glossar/slow-fashion/
+  - /en/glossar/slow-fashion/
+  - /glossary/slow-fashion/
 image_alt: Editorial glossary illustration for Slow Fashion
 relatedTerms:
   - title: Circular Fashion

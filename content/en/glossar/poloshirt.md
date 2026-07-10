@@ -16,9 +16,10 @@ keywords:
   - what is poloshirt
   - poloshirt style advice
 slug: poloshirt
-url: /glossary/poloshirt/
+url: /en/glossary/poloshirt/
 aliases:
-  - /glossar/poloshirt/
+  - /en/glossar/poloshirt/
+  - /glossary/poloshirt/
 image_alt: Editorial glossary illustration for Poloshirt
 relatedTerms:
   - title: Material Quality

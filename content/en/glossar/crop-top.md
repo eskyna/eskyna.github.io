@@ -16,9 +16,10 @@ keywords:
   - what is crop top
   - crop top style advice
 slug: crop-top
-url: /glossary/crop-top/
+url: /en/glossary/crop-top/
 aliases:
-  - /glossar/crop-top/
+  - /en/glossar/crop-top/
+  - /glossary/crop-top/
 image_alt: Editorial glossary illustration for Crop Top
 relatedTerms:
   - title: Material Quality

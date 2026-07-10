@@ -16,9 +16,10 @@ keywords:
   - what is fine jewelry
   - fine jewelry style advice
 slug: fine-jewelry
-url: /glossary/fine-jewelry/
+url: /en/glossary/fine-jewelry/
 aliases:
-  - /glossar/feinschmuck/
+  - /en/glossar/feinschmuck/
+  - /glossary/fine-jewelry/
 image_alt: Editorial glossary illustration for Fine Jewelry
 relatedTerms:
   - title: Gold

@@ -17,9 +17,10 @@ keywords:
   - what is cost per wear
   - cost per wear style advice
 slug: cost-per-wear
-url: /glossary/cost-per-wear/
+url: /en/glossary/cost-per-wear/
 aliases:
-  - /glossar/cost-per-wear/
+  - /en/glossar/cost-per-wear/
+  - /glossary/cost-per-wear/
 image_alt: Editorial glossary illustration for Cost per Wear
 relatedTerms:
   - title: Capsule Wardrobe

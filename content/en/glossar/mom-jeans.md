@@ -17,9 +17,10 @@ keywords:
   - what is mom jeans
   - mom jeans style advice
 slug: mom-jeans
-url: /glossary/mom-jeans/
+url: /en/glossary/mom-jeans/
 aliases:
-  - /glossar/mom-jeans/
+  - /en/glossar/mom-jeans/
+  - /glossary/mom-jeans/
 image_alt: Editorial glossary illustration for Mom Jeans
 relatedTerms:
   - title: Jeans

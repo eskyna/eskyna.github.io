@@ -15,9 +15,10 @@ keywords:
   - what is retro clog
   - retro clog style advice
 slug: retro-clog
-url: /glossary/retro-clog/
+url: /en/glossary/retro-clog/
 aliases:
-  - /glossar/retro-clog/
+  - /en/glossar/retro-clog/
+  - /glossary/retro-clog/
 image_alt: Editorial glossary illustration for Retro Clog
 relatedTerms:
   - title: Mule

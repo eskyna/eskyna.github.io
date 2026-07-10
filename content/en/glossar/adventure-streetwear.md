@@ -16,9 +16,10 @@ keywords:
   - what is adventure streetwear
   - adventure streetwear style advice
 slug: adventure-streetwear
-url: /glossary/adventure-streetwear/
+url: /en/glossary/adventure-streetwear/
 aliases:
-  - /glossar/adventure-streetwear/
+  - /en/glossar/adventure-streetwear/
+  - /glossary/adventure-streetwear/
 image_alt: Editorial glossary illustration for Adventure Streetwear
 relatedTerms:
   - title: Personal Style

@@ -16,9 +16,10 @@ keywords:
   - what is meeting look
   - meeting look style advice
 slug: meeting-look
-url: /glossary/meeting-look/
+url: /en/glossary/meeting-look/
 aliases:
-  - /glossar/meeting-look/
+  - /en/glossar/meeting-look/
+  - /glossary/meeting-look/
 image_alt: Editorial glossary illustration for Meeting Look
 relatedTerms:
   - title: Capsule Wardrobe

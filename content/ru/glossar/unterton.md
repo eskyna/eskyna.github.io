@@ -25,8 +25,8 @@ relatedTerms:
     url: /rus/glossariy/kontrast/
   - title: Розовый
     url: /rus/glossariy/rozovyy/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Насыщенность цвета
     url: /rus/glossariy/nasyshchennost-tsveta/
 seoTitle: "Подтон: значение и применение | Глоссарий ESKYNA"
@@ -59,7 +59,7 @@ consulting_questions:
   - "Где этот принцип работает сильнее: у лица, как акцент или как база?"
   - Как сочетать его с уже имеющимися цветами без новых случайных покупок?
 consulting_focus:
-  Подтон особенно важен в консультации, когда понятие нужно перевести в конкретное решение для одежды,
+  В консультации этот термин особенно важен, когда понятие нужно перевести в конкретное решение для одежды,
   впечатления или гардероба.
 offer_bridge:
   kicker: Подходящее предложение ESKYNA
@@ -147,5 +147,5 @@ ESKYNA рассматривает принцип **Подтон** как час�
 - [Цветотип](/rus/glossariy/tsvetotip/)
 - [Контраст](/rus/glossariy/kontrast/)
 - [Розовый](/rus/glossariy/rozovyy/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Насыщенность цвета](/rus/glossariy/nasyshchennost-tsveta/)

@@ -16,9 +16,10 @@ keywords:
   - what is longline
   - longline style advice
 slug: longline
-url: /glossary/longline/
+url: /en/glossary/longline/
 aliases:
-  - /glossar/longline/
+  - /en/glossar/longline/
+  - /glossary/longline/
 image_alt: Editorial glossary illustration for Longline
 relatedTerms:
   - title: Silhouette

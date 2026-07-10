@@ -17,9 +17,10 @@ keywords:
   - what is neutral colors
   - neutral colors style advice
 slug: neutral-colors
-url: /glossary/neutral-colors/
+url: /en/glossary/neutral-colors/
 aliases:
-  - /glossar/neutrale-farben/
+  - /en/glossar/neutrale-farben/
+  - /glossary/neutral-colors/
 image_alt: Editorial glossary illustration for Neutral Colors
 relatedTerms:
   - title: Beige

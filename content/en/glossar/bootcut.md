@@ -17,9 +17,10 @@ keywords:
   - what is bootcut
   - bootcut style advice
 slug: bootcut
-url: /glossary/bootcut/
+url: /en/glossary/bootcut/
 aliases:
-  - /glossar/bootcut/
+  - /en/glossar/bootcut/
+  - /glossary/bootcut/
 image_alt: Editorial glossary illustration for Bootcut
 relatedTerms:
   - title: Jeans

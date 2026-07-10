@@ -16,9 +16,10 @@ keywords:
   - what is shift dress
   - shift dress style advice
 slug: shift-dress
-url: /glossary/shift-dress/
+url: /en/glossary/shift-dress/
 aliases:
-  - /glossar/shift-dress/
+  - /en/glossar/shift-dress/
+  - /glossary/shift-dress/
 image_alt: Editorial glossary illustration for Shift Dress
 relatedTerms:
   - title: Capsule Wardrobe

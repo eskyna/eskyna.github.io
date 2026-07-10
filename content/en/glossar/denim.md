@@ -16,9 +16,10 @@ keywords:
   - what is denim
   - denim style advice
 slug: denim
-url: /glossary/denim/
+url: /en/glossary/denim/
 aliases:
-  - /glossar/denim/
+  - /en/glossar/denim/
+  - /glossary/denim/
 image_alt: Editorial glossary illustration for Denim
 relatedTerms:
   - title: Jeans

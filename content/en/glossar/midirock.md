@@ -17,9 +17,10 @@ keywords:
   - what is midi skirt
   - midi skirt style advice
 slug: midi-skirt
-url: /glossary/midi-skirt/
+url: /en/glossary/midi-skirt/
 aliases:
-  - /glossar/midirock/
+  - /en/glossar/midirock/
+  - /glossary/midi-skirt/
 image_alt: Editorial glossary illustration for Midi Skirt
 relatedTerms:
   - title: Silhouette

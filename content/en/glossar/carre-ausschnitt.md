@@ -16,9 +16,10 @@ keywords:
   - what is square neckline
   - square neckline style advice
 slug: square-neckline
-url: /glossary/square-neckline/
+url: /en/glossary/square-neckline/
 aliases:
-  - /glossar/carre-ausschnitt/
+  - /en/glossar/carre-ausschnitt/
+  - /glossary/square-neckline/
 image_alt: Editorial glossary illustration for Square Neckline
 relatedTerms:
   - title: Material Quality

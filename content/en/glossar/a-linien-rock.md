@@ -16,9 +16,10 @@ keywords:
   - what is a-line skirt
   - a-line skirt style advice
 slug: a-line-skirt
-url: /glossary/a-line-skirt/
+url: /en/glossary/a-line-skirt/
 aliases:
-  - /glossar/a-linien-rock/
+  - /en/glossar/a-linien-rock/
+  - /glossary/a-line-skirt/
 image_alt: Editorial glossary illustration for A-Line Skirt
 relatedTerms:
   - title: Capsule Wardrobe

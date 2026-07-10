@@ -17,9 +17,10 @@ keywords:
   - what is sweetheart neckline
   - sweetheart neckline style advice
 slug: sweetheart-neckline
-url: /glossary/sweetheart-neckline/
+url: /en/glossary/sweetheart-neckline/
 aliases:
-  - /glossar/herz-ausschnitt/
+  - /en/glossar/herz-ausschnitt/
+  - /glossary/sweetheart-neckline/
 image_alt: Editorial glossary illustration for Sweetheart Neckline
 relatedTerms:
   - title: Material Quality

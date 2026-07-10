@@ -15,9 +15,10 @@ keywords:
   - what is petite styling
   - petite styling style advice
 slug: petite-styling
-url: /glossary/petite-styling/
+url: /en/glossary/petite-styling/
 aliases:
-  - /glossar/petite-styling/
+  - /en/glossar/petite-styling/
+  - /glossary/petite-styling/
 image_alt: Editorial glossary illustration for Petite Styling
 relatedTerms:
   - title: Silhouette

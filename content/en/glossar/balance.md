@@ -16,9 +16,10 @@ keywords:
   - what is balance
   - balance style advice
 slug: balance
-url: /glossary/balance/
+url: /en/glossary/balance/
 aliases:
-  - /glossar/balance/
+  - /en/glossar/balance/
+  - /glossary/balance/
 image_alt: Editorial glossary illustration for Balance
 relatedTerms:
   - title: Signature Look

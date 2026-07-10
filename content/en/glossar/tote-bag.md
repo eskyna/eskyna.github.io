@@ -16,9 +16,10 @@ keywords:
   - what is tote bag
   - tote bag style advice
 slug: tote-bag
-url: /glossary/tote-bag/
+url: /en/glossary/tote-bag/
 aliases:
-  - /glossar/tote-bag/
+  - /en/glossar/tote-bag/
+  - /glossary/tote-bag/
 image_alt: Editorial glossary illustration for Tote Bag
 relatedTerms:
   - title: Shopper

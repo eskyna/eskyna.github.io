@@ -17,9 +17,10 @@ keywords:
   - what is beige
   - beige style advice
 slug: beige
-url: /glossary/beige/
+url: /en/glossary/beige/
 aliases:
-  - /glossar/beige/
+  - /en/glossar/beige/
+  - /glossary/beige/
 image_alt: Editorial glossary illustration for Beige
 relatedTerms:
   - title: Capsule Wardrobe

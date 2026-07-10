@@ -16,9 +16,10 @@ keywords:
   - what is plus size styling
   - plus size styling style advice
 slug: plus-size-styling
-url: /glossary/plus-size-styling/
+url: /en/glossary/plus-size-styling/
 aliases:
-  - /glossar/plus-size-styling/
+  - /en/glossar/plus-size-styling/
+  - /glossary/plus-size-styling/
 image_alt: Editorial glossary illustration for Plus Size Styling
 relatedTerms:
   - title: Curvy Styling

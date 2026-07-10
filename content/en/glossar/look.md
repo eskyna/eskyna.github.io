@@ -17,9 +17,10 @@ keywords:
   - what is look
   - look style advice
 slug: look
-url: /glossary/look/
+url: /en/glossary/look/
 aliases:
-  - /glossar/look/
+  - /en/glossar/look/
+  - /glossary/look/
 image_alt: Editorial glossary illustration for Look
 relatedTerms:
   - title: Signature Look

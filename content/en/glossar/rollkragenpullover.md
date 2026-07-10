@@ -17,9 +17,10 @@ keywords:
   - what is turtleneck sweater
   - turtleneck sweater style advice
 slug: turtleneck-sweater
-url: /glossary/turtleneck-sweater/
+url: /en/glossary/turtleneck-sweater/
 aliases:
-  - /glossar/rollkragenpullover/
+  - /en/glossar/rollkragenpullover/
+  - /glossary/turtleneck-sweater/
 image_alt: Editorial glossary illustration for Turtleneck Sweater
 relatedTerms:
   - title: Material Quality

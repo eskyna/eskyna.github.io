@@ -16,9 +16,10 @@ keywords:
   - what is sheath dress
   - sheath dress style advice
 slug: sheath-dress
-url: /glossary/sheath-dress/
+url: /en/glossary/sheath-dress/
 aliases:
-  - /glossar/etuikleid/
+  - /en/glossar/etuikleid/
+  - /glossary/sheath-dress/
 image_alt: Editorial glossary illustration for Sheath Dress
 relatedTerms:
   - title: Business Casual

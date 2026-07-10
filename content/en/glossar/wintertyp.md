@@ -16,9 +16,10 @@ keywords:
   - what is winter color type
   - winter color type style advice
 slug: winter-color-type
-url: /glossary/winter-color-type/
+url: /en/glossary/winter-color-type/
 aliases:
-  - /glossar/wintertyp/
+  - /en/glossar/wintertyp/
+  - /glossary/winter-color-type/
 image_alt: Editorial glossary illustration for Winter Color Type
 relatedTerms:
   - title: Color Consultation

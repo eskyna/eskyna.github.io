@@ -17,9 +17,10 @@ keywords:
   - what is wool coat
   - wool coat style advice
 slug: wool-coat
-url: /glossary/wool-coat/
+url: /en/glossary/wool-coat/
 aliases:
-  - /glossar/wollmantel/
+  - /en/glossar/wollmantel/
+  - /glossary/wool-coat/
 image_alt: Editorial glossary illustration for Wool Coat
 relatedTerms:
   - title: Capsule Wardrobe

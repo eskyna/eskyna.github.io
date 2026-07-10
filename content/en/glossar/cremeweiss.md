@@ -15,9 +15,10 @@ keywords:
   - what is cream white
   - cream white style advice
 slug: cream-white
-url: /glossary/cream-white/
+url: /en/glossary/cream-white/
 aliases:
-  - /glossar/cremeweiss/
+  - /en/glossar/cremeweiss/
+  - /glossary/cream-white/
 image_alt: Editorial glossary illustration for Cream White
 relatedTerms:
   - title: Color Consultation

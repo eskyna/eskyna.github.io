@@ -15,9 +15,10 @@ keywords:
   - what is satchel bag
   - satchel bag style advice
 slug: satchel-bag
-url: /glossary/satchel-bag/
+url: /en/glossary/satchel-bag/
 aliases:
-  - /glossar/satchel-bag/
+  - /en/glossar/satchel-bag/
+  - /glossary/satchel-bag/
 image_alt: Editorial glossary illustration for Satchel Bag
 relatedTerms:
   - title: Crossbody Bag

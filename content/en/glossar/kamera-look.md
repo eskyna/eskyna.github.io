@@ -17,9 +17,10 @@ keywords:
   - what is camera-ready look
   - camera-ready look style advice
 slug: camera-ready-look
-url: /glossary/camera-ready-look/
+url: /en/glossary/camera-ready-look/
 aliases:
-  - /glossar/kamera-look/
+  - /en/glossar/kamera-look/
+  - /glossary/camera-ready-look/
 image_alt: Editorial glossary illustration for Camera-Ready Look
 relatedTerms:
   - title: Video Call Outfit

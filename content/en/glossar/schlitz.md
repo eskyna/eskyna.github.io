@@ -16,9 +16,10 @@ keywords:
   - what is slit
   - slit style advice
 slug: slit
-url: /glossary/slit/
+url: /en/glossary/slit/
 aliases:
-  - /glossar/schlitz/
+  - /en/glossar/schlitz/
+  - /glossary/slit/
 image_alt: Editorial glossary illustration for Slit
 relatedTerms:
   - title: Silhouette

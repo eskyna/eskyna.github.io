@@ -16,9 +16,10 @@ keywords:
   - what is dots
   - dots style advice
 slug: dots
-url: /glossary/dots/
+url: /en/glossary/dots/
 aliases:
-  - /glossar/punkte/
+  - /en/glossar/punkte/
+  - /glossary/dots/
 image_alt: Editorial glossary illustration for Dots
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is essence
   - essence style advice
 slug: essence
-url: /glossary/essence/
+url: /en/glossary/essence/
 aliases:
-  - /glossar/essenz/
+  - /en/glossar/essenz/
+  - /glossary/essence/
 image_alt: Editorial glossary illustration for Essence
 relatedTerms:
   - title: Signature Look

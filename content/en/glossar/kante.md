@@ -16,9 +16,10 @@ keywords:
   - what is edge
   - edge style advice
 slug: edge
-url: /glossary/edge/
+url: /en/glossary/edge/
 aliases:
-  - /glossar/kante/
+  - /en/glossar/kante/
+  - /glossary/edge/
 image_alt: Editorial glossary illustration for Edge
 relatedTerms:
   - title: Material Quality

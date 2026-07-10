@@ -16,9 +16,10 @@ keywords:
   - what is ring
   - ring style advice
 slug: ring
-url: /glossary/ring/
+url: /en/glossary/ring/
 aliases:
-  - /glossar/ring/
+  - /en/glossar/ring/
+  - /glossary/ring/
 image_alt: Editorial glossary illustration for Ring
 relatedTerms:
   - title: Material Quality

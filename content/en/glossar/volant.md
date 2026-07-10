@@ -16,9 +16,10 @@ keywords:
   - what is flounce
   - flounce style advice
 slug: flounce
-url: /glossary/flounce/
+url: /en/glossary/flounce/
 aliases:
-  - /glossar/volant/
+  - /en/glossar/volant/
+  - /glossary/flounce/
 image_alt: Editorial glossary illustration for Flounce
 relatedTerms:
   - title: Material Quality

@@ -15,9 +15,10 @@ keywords:
   - what is photo shoot outfit
   - photo shoot outfit style advice
 slug: photo-shoot-outfit
-url: /glossary/photo-shoot-outfit/
+url: /en/glossary/photo-shoot-outfit/
 aliases:
-  - /glossar/fotoshooting-outfit/
+  - /en/glossar/fotoshooting-outfit/
+  - /glossary/photo-shoot-outfit/
 image_alt: Editorial glossary illustration for Photo Shoot Outfit
 relatedTerms:
   - title: LinkedIn Outfit

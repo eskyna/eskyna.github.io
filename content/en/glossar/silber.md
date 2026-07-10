@@ -17,9 +17,10 @@ keywords:
   - what is silver
   - silver style advice
 slug: silver
-url: /glossary/silver/
+url: /en/glossary/silver/
 aliases:
-  - /glossar/silber/
+  - /en/glossar/silber/
+  - /glossary/silver/
 image_alt: Editorial glossary illustration for Silver
 relatedTerms:
   - title: Metallic

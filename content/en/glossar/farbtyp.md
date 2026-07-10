@@ -17,9 +17,10 @@ keywords:
   - what is color type
   - color type style advice
 slug: color-type
-url: /glossary/color-type/
+url: /en/glossary/color-type/
 aliases:
-  - /glossar/farbtyp/
+  - /en/glossar/farbtyp/
+  - /glossary/color-type/
 image_alt: Editorial glossary illustration for Color Type
 relatedTerms:
   - title: Color Consultation

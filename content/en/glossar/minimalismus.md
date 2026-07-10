@@ -17,9 +17,10 @@ keywords:
   - what is minimalism
   - minimalism style advice
 slug: minimalism
-url: /glossary/minimalism/
+url: /en/glossary/minimalism/
 aliases:
-  - /glossar/minimalismus/
+  - /en/glossar/minimalismus/
+  - /glossary/minimalism/
 image_alt: Editorial glossary illustration for Minimalism
 relatedTerms:
   - title: Signature Look

@@ -4,10 +4,11 @@ description: Terms for silhouettes, lines, proportions, and fit details that cha
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Cut, Proportion & Fit
-url: /glossary/category/cut-proportion-fit/
+url: /en/glossary/category/cut-proportion-fit/
 seoTitle: Cut, Proportion & Fit | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/schnitt-proportion-passform/
+  - /en/glossar/kategorie/schnitt-proportion-passform/
+  - /glossary/category/cut-proportion-fit/
 ---
 
 ## What this category covers

@@ -17,9 +17,10 @@ keywords:
   - what is color
   - color style advice
 slug: color
-url: /glossary/color/
+url: /en/glossary/color/
 aliases:
-  - /glossar/farbe/
+  - /en/glossar/farbe/
+  - /glossary/color/
 image_alt: Editorial glossary illustration for Color
 relatedTerms:
   - title: Color Consultation

@@ -17,9 +17,10 @@ keywords:
   - what is style identity
   - style identity style advice
 slug: style-identity
-url: /glossary/style-identity/
+url: /en/glossary/style-identity/
 aliases:
-  - /glossar/stilidentitaet/
+  - /en/glossar/stilidentitaet/
+  - /glossary/style-identity/
 image_alt: Editorial glossary illustration for Style Identity
 relatedTerms:
   - title: Signature Look

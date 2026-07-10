@@ -17,9 +17,10 @@ keywords:
   - what is mini skirt
   - mini skirt style advice
 slug: mini-skirt
-url: /glossary/mini-skirt/
+url: /en/glossary/mini-skirt/
 aliases:
-  - /glossar/minirock/
+  - /en/glossar/minirock/
+  - /glossary/mini-skirt/
 image_alt: Editorial glossary illustration for Mini Skirt
 relatedTerms:
   - title: Blazer

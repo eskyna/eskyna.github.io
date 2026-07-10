@@ -16,9 +16,10 @@ keywords:
   - what is proportion break
   - proportion break style advice
 slug: proportion-break
-url: /glossary/proportion-break/
+url: /en/glossary/proportion-break/
 aliases:
-  - /glossar/proportionsbruch/
+  - /en/glossar/proportionsbruch/
+  - /glossary/proportion-break/
 image_alt: Editorial glossary illustration for Proportion Break
 relatedTerms:
   - title: Proportion

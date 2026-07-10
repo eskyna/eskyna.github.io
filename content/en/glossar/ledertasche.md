@@ -16,9 +16,10 @@ keywords:
   - what is leather bag
   - leather bag style advice
 slug: leather-bag
-url: /glossary/leather-bag/
+url: /en/glossary/leather-bag/
 aliases:
-  - /glossar/ledertasche/
+  - /en/glossar/ledertasche/
+  - /glossary/leather-bag/
 image_alt: Editorial glossary illustration for Leather Bag
 relatedTerms:
   - title: Material Quality

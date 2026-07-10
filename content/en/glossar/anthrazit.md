@@ -17,9 +17,10 @@ keywords:
   - what is anthracite
   - anthracite style advice
 slug: anthracite
-url: /glossary/anthracite/
+url: /en/glossary/anthracite/
 aliases:
-  - /glossar/anthrazit/
+  - /en/glossar/anthrazit/
+  - /glossary/anthracite/
 image_alt: Editorial glossary illustration for Anthracite
 relatedTerms:
   - title: Navy

@@ -17,9 +17,10 @@ keywords:
   - what is statement jewelry
   - statement jewelry style advice
 slug: statement-jewelry
-url: /glossary/statement-jewelry/
+url: /en/glossary/statement-jewelry/
 aliases:
-  - /glossar/statement-schmuck/
+  - /en/glossar/statement-schmuck/
+  - /glossary/statement-jewelry/
 image_alt: Editorial glossary illustration for Statement Jewelry
 relatedTerms:
   - title: Statement Piece

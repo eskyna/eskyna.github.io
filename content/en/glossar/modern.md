@@ -16,9 +16,10 @@ keywords:
   - what is modern
   - modern style advice
 slug: modern
-url: /glossary/modern/
+url: /en/glossary/modern/
 aliases:
-  - /glossar/modern/
+  - /en/glossar/modern/
+  - /glossary/modern/
 image_alt: Editorial glossary illustration for Modern
 relatedTerms:
   - title: Signature Look

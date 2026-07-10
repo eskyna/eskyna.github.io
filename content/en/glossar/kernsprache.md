@@ -17,9 +17,10 @@ keywords:
   - what is core language
   - core language style advice
 slug: core-language
-url: /glossary/core-language/
+url: /en/glossary/core-language/
 aliases:
-  - /glossar/kernsprache/
+  - /en/glossar/kernsprache/
+  - /glossary/core-language/
 image_alt: Editorial glossary illustration for Core Language
 relatedTerms:
   - title: Signature Look

@@ -7371,6 +7371,53 @@ main .hero .hero-headline-line {
   margin-top: 0.9rem;
 }
 
+.glossar-expert-note {
+  margin-top: 2rem;
+  padding: 1.2rem 1.3rem;
+  border: 1px solid rgb(44 30 22 / 12%);
+  border-radius: 0.9rem;
+  background: rgb(255 255 255 / 70%);
+  box-shadow: 0 12px 28px rgb(44 30 22 / 8%);
+}
+
+.glossar-expert-note-kicker {
+  margin: 0;
+  font-family: var(--font-subtitle);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+}
+
+.glossar-expert-note-title {
+  margin: 0.4rem 0 0;
+  font-size: clamp(1.1rem, 2.2vw, 1.3rem);
+  line-height: 1.35;
+}
+
+.glossar-expert-note-role {
+  margin: 0.25rem 0 0;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.glossar-expert-note-text {
+  margin: 0.55rem 0 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.glossar-expert-note-link {
+  display: inline-flex;
+  margin-top: 0.75rem;
+  font-weight: 700;
+  color: var(--accent-strong);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
 /* GLOSSAR LIST PAGE */
 
 .glossar-list-page {
@@ -8476,3 +8523,117 @@ main .hero .hero-headline-line {
   }
 }
 /* stylelint-enable no-descending-specificity */
+
+/* -- Mobile Sticky Navigation ---------------------------------- */
+
+.mobile-sticky-nav {
+  display: none;
+}
+
+@media (width <= 767px) {
+  html {
+    scroll-padding-top: calc(4.75rem + env(safe-area-inset-top, 0px));
+  }
+
+  .mobile-sticky-nav {
+    position: fixed;
+    inset: calc(0.55rem + env(safe-area-inset-top, 0px)) 0 auto;
+    z-index: 100;
+    display: block;
+    padding: 0 0.65rem;
+    padding-right: max(0.65rem, env(safe-area-inset-right, 0px));
+    padding-left: max(0.65rem, env(safe-area-inset-left, 0px));
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(calc(-100% - 1rem));
+    transition:
+      opacity 180ms ease,
+      transform 220ms ease;
+  }
+
+  .mobile-sticky-nav.is-visible,
+  .mobile-sticky-nav:focus-within {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+  }
+
+  .mobile-sticky-nav-inner {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.2rem;
+    align-items: center;
+    width: min(100%, 27rem);
+    margin: 0 auto;
+    padding: 0.35rem;
+    border: 1px solid rgb(139 94 52 / 18%);
+    border-radius: var(--radius-pill);
+    background: rgb(249 246 240 / 94%);
+    box-shadow: 0 14px 34px rgb(44 30 22 / 18%);
+    backdrop-filter: blur(12px);
+  }
+
+  .mobile-sticky-nav-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    min-height: 44px;
+    padding: 0 0.32rem;
+    border: 0;
+    border-radius: var(--radius-pill);
+    color: var(--text);
+    background: transparent;
+    font-family: var(--font-text);
+    font-size: 0.74rem;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    transition:
+      background-color 180ms ease,
+      color 180ms ease;
+  }
+
+  .mobile-sticky-nav-link:hover,
+  .mobile-sticky-nav-link:focus-visible,
+  .mobile-sticky-nav-link.is-current {
+    color: var(--accent-strong);
+    background: rgb(139 94 52 / 10%);
+  }
+
+  .mobile-sticky-nav-link:focus-visible {
+    outline: 2px solid rgb(139 94 52 / 42%);
+    outline-offset: 2px;
+  }
+
+  .mobile-sticky-nav-home {
+    gap: 0.22rem;
+  }
+
+  .mobile-sticky-nav-icon {
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 auto;
+  }
+}
+
+@media (width <= 370px) {
+  .mobile-sticky-nav-link {
+    padding: 0 0.2rem;
+    font-size: 0.69rem;
+  }
+
+  .mobile-sticky-nav-icon {
+    width: 0.9rem;
+    height: 0.9rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mobile-sticky-nav {
+    transition: none;
+  }
+}

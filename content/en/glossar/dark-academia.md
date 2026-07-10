@@ -16,9 +16,10 @@ keywords:
   - what is dark academia
   - dark academia style advice
 slug: dark-academia
-url: /glossary/dark-academia/
+url: /en/glossary/dark-academia/
 aliases:
-  - /glossar/dark-academia/
+  - /en/glossar/dark-academia/
+  - /glossary/dark-academia/
 image_alt: Editorial glossary illustration for Dark Academia
 relatedTerms:
   - title: Light Academia

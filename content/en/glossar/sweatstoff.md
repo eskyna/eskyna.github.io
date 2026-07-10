@@ -17,9 +17,10 @@ keywords:
   - what is sweatshirt fabric
   - sweatshirt fabric style advice
 slug: sweatshirt-fabric
-url: /glossary/sweatshirt-fabric/
+url: /en/glossary/sweatshirt-fabric/
 aliases:
-  - /glossar/sweatstoff/
+  - /en/glossar/sweatstoff/
+  - /glossary/sweatshirt-fabric/
 image_alt: Editorial glossary illustration for Sweatshirt Fabric
 relatedTerms:
   - title: Material Quality

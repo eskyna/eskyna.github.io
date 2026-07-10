@@ -16,9 +16,10 @@ keywords:
   - what is darts
   - darts style advice
 slug: darts
-url: /glossary/darts/
+url: /en/glossary/darts/
 aliases:
-  - /glossar/abnaeher/
+  - /en/glossar/abnaeher/
+  - /glossary/darts/
 image_alt: Editorial glossary illustration for Darts
 relatedTerms:
   - title: Proportion

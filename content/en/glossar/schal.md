@@ -16,9 +16,10 @@ keywords:
   - what is scarf
   - scarf style advice
 slug: scarf
-url: /glossary/scarf/
+url: /en/glossary/scarf/
 aliases:
-  - /glossar/schal/
+  - /en/glossar/schal/
+  - /glossary/scarf/
 image_alt: Editorial glossary illustration for Scarf
 relatedTerms:
   - title: Material Quality

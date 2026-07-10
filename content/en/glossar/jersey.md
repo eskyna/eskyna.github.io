@@ -16,9 +16,10 @@ keywords:
   - what is jersey
   - jersey style advice
 slug: jersey
-url: /glossary/jersey/
+url: /en/glossary/jersey/
 aliases:
-  - /glossar/jersey/
+  - /en/glossar/jersey/
+  - /glossary/jersey/
 image_alt: Editorial glossary illustration for Jersey
 relatedTerms:
   - title: Material Quality

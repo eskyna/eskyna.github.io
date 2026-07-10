@@ -16,9 +16,10 @@ keywords:
   - what is pilling
   - pilling style advice
 slug: pilling
-url: /glossary/pilling/
+url: /en/glossary/pilling/
 aliases:
-  - /glossar/pilling/
+  - /en/glossar/pilling/
+  - /glossary/pilling/
 image_alt: Editorial glossary illustration for Pilling
 relatedTerms:
   - title: Material Quality

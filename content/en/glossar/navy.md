@@ -17,9 +17,10 @@ keywords:
   - what is navy
   - navy style advice
 slug: navy
-url: /glossary/navy/
+url: /en/glossary/navy/
 aliases:
-  - /glossar/navy/
+  - /en/glossar/navy/
+  - /glossary/navy/
 image_alt: Editorial glossary illustration for Navy
 relatedTerms:
   - title: Color

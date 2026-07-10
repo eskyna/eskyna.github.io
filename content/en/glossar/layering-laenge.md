@@ -16,9 +16,10 @@ keywords:
   - what is layering length
   - layering length style advice
 slug: layering-length
-url: /glossary/layering-length/
+url: /en/glossary/layering-length/
 aliases:
-  - /glossar/layering-laenge/
+  - /en/glossar/layering-laenge/
+  - /glossary/layering-length/
 image_alt: Editorial glossary illustration for Layering Length
 relatedTerms:
   - title: Layering

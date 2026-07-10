@@ -16,10 +16,11 @@ keywords:
   - what is pleated fabric
   - pleated fabric style advice
 slug: pleated-fabric
-url: /glossary/pleated-fabric/
+url: /en/glossary/pleated-fabric/
 aliases:
-  - /glossar/plissee/
+  - /en/glossar/plissee/
   - /glossary/pleats-2/
+  - /glossary/pleated-fabric/
 image_alt: Editorial glossary illustration for Pleated Fabric
 relatedTerms:
   - title: Pleats

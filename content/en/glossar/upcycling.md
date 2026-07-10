@@ -16,9 +16,10 @@ keywords:
   - what is upcycling
   - upcycling style advice
 slug: upcycling
-url: /glossary/upcycling/
+url: /en/glossary/upcycling/
 aliases:
-  - /glossar/upcycling/
+  - /en/glossar/upcycling/
+  - /glossary/upcycling/
 image_alt: Editorial glossary illustration for Upcycling
 relatedTerms:
   - title: Circular Fashion

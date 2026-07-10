@@ -17,9 +17,10 @@ keywords:
   - what is signature look
   - signature look style advice
 slug: signature-look
-url: /glossary/signature-look/
+url: /en/glossary/signature-look/
 aliases:
-  - /glossar/signature-look/
+  - /en/glossar/signature-look/
+  - /glossary/signature-look/
 image_alt: Editorial glossary illustration for Signature Look
 relatedTerms:
   - title: Quiet Luxury

@@ -16,9 +16,10 @@ keywords:
   - what is casual
   - casual style advice
 slug: casual
-url: /glossary/casual/
+url: /en/glossary/casual/
 aliases:
-  - /glossar/casual/
+  - /en/glossar/casual/
+  - /glossary/casual/
 image_alt: Editorial glossary illustration for Casual
 relatedTerms:
   - title: Signature Look

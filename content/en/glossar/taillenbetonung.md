@@ -17,9 +17,10 @@ keywords:
   - what is waist emphasis
   - waist emphasis style advice
 slug: waist-emphasis
-url: /glossary/waist-emphasis/
+url: /en/glossary/waist-emphasis/
 aliases:
-  - /glossar/taillenbetonung/
+  - /en/glossar/taillenbetonung/
+  - /glossary/waist-emphasis/
 image_alt: Editorial glossary illustration for Waist Emphasis
 relatedTerms:
   - title: Signature Look

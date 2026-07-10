@@ -16,9 +16,10 @@ keywords:
   - what is cotton
   - cotton style advice
 slug: cotton
-url: /glossary/cotton/
+url: /en/glossary/cotton/
 aliases:
-  - /glossar/baumwolle/
+  - /en/glossar/baumwolle/
+  - /glossary/cotton/
 image_alt: Editorial glossary illustration for Cotton
 relatedTerms:
   - title: Denim

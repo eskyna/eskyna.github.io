@@ -16,9 +16,10 @@ keywords:
   - what is sleeve length
   - sleeve length style advice
 slug: sleeve-length
-url: /glossary/sleeve-length/
+url: /en/glossary/sleeve-length/
 aliases:
-  - /glossar/aermellaenge/
+  - /en/glossar/aermellaenge/
+  - /glossary/sleeve-length/
 image_alt: Editorial glossary illustration for Sleeve Length
 relatedTerms:
   - title: Proportion

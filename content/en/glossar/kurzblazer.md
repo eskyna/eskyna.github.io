@@ -17,9 +17,10 @@ keywords:
   - what is cropped blazer
   - cropped blazer style advice
 slug: cropped-blazer
-url: /glossary/cropped-blazer/
+url: /en/glossary/cropped-blazer/
 aliases:
-  - /glossar/kurzblazer/
+  - /en/glossar/kurzblazer/
+  - /glossary/cropped-blazer/
 image_alt: Editorial glossary illustration for Cropped Blazer
 relatedTerms:
   - title: Capsule Wardrobe

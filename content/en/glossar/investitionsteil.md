@@ -17,9 +17,10 @@ keywords:
   - what is investment piece
   - investment piece style advice
 slug: investment-piece
-url: /glossary/investment-piece/
+url: /en/glossary/investment-piece/
 aliases:
-  - /glossar/investitionsteil/
+  - /en/glossar/investitionsteil/
+  - /glossary/investment-piece/
 image_alt: Editorial glossary illustration for Investment Piece
 relatedTerms:
   - title: Capsule Wardrobe

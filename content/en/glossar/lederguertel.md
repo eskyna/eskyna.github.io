@@ -16,9 +16,10 @@ keywords:
   - what is leather belt
   - leather belt style advice
 slug: leather-belt
-url: /glossary/leather-belt/
+url: /en/glossary/leather-belt/
 aliases:
-  - /glossar/lederguertel/
+  - /en/glossar/lederguertel/
+  - /glossary/leather-belt/
 image_alt: Editorial glossary illustration for Leather Belt
 relatedTerms:
   - title: Material Quality

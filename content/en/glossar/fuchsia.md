@@ -17,9 +17,10 @@ keywords:
   - what is fuchsia
   - fuchsia style advice
 slug: fuchsia
-url: /glossary/fuchsia/
+url: /en/glossary/fuchsia/
 aliases:
-  - /glossar/fuchsia/
+  - /en/glossar/fuchsia/
+  - /glossary/fuchsia/
 image_alt: Editorial glossary illustration for Fuchsia
 relatedTerms:
   - title: Pink

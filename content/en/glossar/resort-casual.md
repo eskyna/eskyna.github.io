@@ -15,9 +15,10 @@ keywords:
   - what is resort casual
   - resort casual style advice
 slug: resort-casual
-url: /glossary/resort-casual/
+url: /en/glossary/resort-casual/
 aliases:
-  - /glossar/resort-casual/
+  - /en/glossar/resort-casual/
+  - /glossary/resort-casual/
 image_alt: Editorial glossary illustration for Resort Casual
 relatedTerms:
   - title: Beach Formal

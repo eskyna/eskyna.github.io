@@ -16,9 +16,10 @@ keywords:
   - what is peplum top
   - peplum top style advice
 slug: peplum-top
-url: /glossary/peplum-top/
+url: /en/glossary/peplum-top/
 aliases:
-  - /glossar/peplum-top/
+  - /en/glossar/peplum-top/
+  - /glossary/peplum-top/
 image_alt: Editorial glossary illustration for Peplum Top
 relatedTerms:
   - title: Material Quality

@@ -17,9 +17,10 @@ keywords:
   - what is wardrobe detox
   - wardrobe detox style advice
 slug: wardrobe-detox
-url: /glossary/wardrobe-detox/
+url: /en/glossary/wardrobe-detox/
 aliases:
-  - /glossar/kleiderschrank-detox/
+  - /en/glossar/kleiderschrank-detox/
+  - /glossary/wardrobe-detox/
 image_alt: Editorial glossary illustration for Wardrobe Detox
 relatedTerms:
   - title: Capsule Wardrobe

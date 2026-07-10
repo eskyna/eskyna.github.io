@@ -17,9 +17,10 @@ keywords:
   - what is horizontal stripes
   - horizontal stripes style advice
 slug: horizontal-stripes
-url: /glossary/horizontal-stripes/
+url: /en/glossary/horizontal-stripes/
 aliases:
-  - /glossar/querstreifen/
+  - /en/glossar/querstreifen/
+  - /glossary/horizontal-stripes/
 image_alt: Editorial glossary illustration for Horizontal Stripes
 relatedTerms:
   - title: Material Quality

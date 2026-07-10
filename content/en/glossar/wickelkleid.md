@@ -16,9 +16,10 @@ keywords:
   - what is wrap dress
   - wrap dress style advice
 slug: wrap-dress
-url: /glossary/wrap-dress/
+url: /en/glossary/wrap-dress/
 aliases:
-  - /glossar/wickelkleid/
+  - /en/glossar/wickelkleid/
+  - /glossary/wrap-dress/
 image_alt: Editorial glossary illustration for Wrap Dress
 relatedTerms:
   - title: Silhouette

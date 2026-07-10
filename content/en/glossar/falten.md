@@ -16,9 +16,10 @@ keywords:
   - what is pleats
   - pleats style advice
 slug: pleats
-url: /glossary/pleats/
+url: /en/glossary/pleats/
 aliases:
-  - /glossar/falten/
+  - /en/glossar/falten/
+  - /glossary/pleats/
 image_alt: Editorial glossary illustration for Pleats
 relatedTerms:
   - title: Material Quality

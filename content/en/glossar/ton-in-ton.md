@@ -17,9 +17,10 @@ keywords:
   - what is tone-on-tone
   - tone-on-tone style advice
 slug: tone-on-tone
-url: /glossary/tone-on-tone/
+url: /en/glossary/tone-on-tone/
 aliases:
-  - /glossar/ton-in-ton/
+  - /en/glossar/ton-in-ton/
+  - /glossary/tone-on-tone/
 image_alt: Editorial glossary illustration for Tone-on-Tone
 relatedTerms:
   - title: Beige

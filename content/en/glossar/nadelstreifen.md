@@ -16,9 +16,10 @@ keywords:
   - what is pinstripes
   - pinstripes style advice
 slug: pinstripes
-url: /glossary/pinstripes/
+url: /en/glossary/pinstripes/
 aliases:
-  - /glossar/nadelstreifen/
+  - /en/glossar/nadelstreifen/
+  - /glossary/pinstripes/
 image_alt: Editorial glossary illustration for Pinstripes
 relatedTerms:
   - title: Material Quality

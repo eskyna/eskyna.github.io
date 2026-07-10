@@ -17,9 +17,10 @@ keywords:
   - what is business formal
   - business formal style advice
 slug: business-formal
-url: /glossary/business-formal/
+url: /en/glossary/business-formal/
 aliases:
-  - /glossar/business-formal/
+  - /en/glossar/business-formal/
+  - /glossary/business-formal/
 image_alt: Editorial glossary illustration for Business Formal
 relatedTerms:
   - title: Capsule Wardrobe

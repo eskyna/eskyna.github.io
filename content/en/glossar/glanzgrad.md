@@ -16,9 +16,10 @@ keywords:
   - what is sheen level
   - sheen level style advice
 slug: sheen-level
-url: /glossary/sheen-level/
+url: /en/glossary/sheen-level/
 aliases:
-  - /glossar/glanzgrad/
+  - /en/glossar/glanzgrad/
+  - /glossary/sheen-level/
 image_alt: Editorial glossary illustration for Sheen Level
 relatedTerms:
   - title: Statement Piece

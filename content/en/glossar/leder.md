@@ -16,9 +16,10 @@ keywords:
   - what is leather
   - leather style advice
 slug: leather
-url: /glossary/leather/
+url: /en/glossary/leather/
 aliases:
-  - /glossar/leder/
+  - /en/glossar/leder/
+  - /glossary/leather/
 image_alt: Editorial glossary illustration for Leather
 relatedTerms:
   - title: Material Quality

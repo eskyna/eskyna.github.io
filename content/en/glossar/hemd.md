@@ -16,9 +16,10 @@ keywords:
   - what is shirt
   - shirt style advice
 slug: shirt
-url: /glossary/shirt/
+url: /en/glossary/shirt/
 aliases:
-  - /glossar/hemd/
+  - /en/glossar/hemd/
+  - /glossary/shirt/
 image_alt: Editorial glossary illustration for Shirt
 relatedTerms:
   - title: T-Shirt

@@ -17,9 +17,10 @@ keywords:
   - what is wardrobe planning
   - wardrobe planning style advice
 slug: wardrobe-planning
-url: /glossary/wardrobe-planning/
+url: /en/glossary/wardrobe-planning/
 aliases:
-  - /glossar/garderobenplanung/
+  - /en/glossar/garderobenplanung/
+  - /glossary/wardrobe-planning/
 image_alt: Editorial glossary illustration for Wardrobe Planning
 relatedTerms:
   - title: Signature Look

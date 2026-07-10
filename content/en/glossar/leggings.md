@@ -17,9 +17,10 @@ keywords:
   - what is leggings
   - leggings style advice
 slug: leggings
-url: /glossary/leggings/
+url: /en/glossary/leggings/
 aliases:
-  - /glossar/leggings/
+  - /en/glossar/leggings/
+  - /glossary/leggings/
 image_alt: Editorial glossary illustration for Leggings
 relatedTerms:
   - title: Layering

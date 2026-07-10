@@ -27,8 +27,8 @@ relatedTerms:
     url: /rus/glossariy/sumka-cherez-plecho/
   - title: Логика гардероба
     url: /rus/glossariy/logika-garderoba/
-  - title: Гардероб для случаев
-    url: /rus/glossariy/garderob-dlya-sluchaev/
+  - title: Гардероб для поводов
+    url: /rus/glossariy/garderob-dlya-povodov/
 seoTitle: "Шоппер: значение и применение | Глоссарий ESKYNA"
 slug: shopper
 url: /rus/glossariy/shopper/
@@ -95,4 +95,4 @@ faq:
 - [Аксессуар](/rus/glossariy/aksessuar/)
 - [Сумка через плечо](/rus/glossariy/sumka-cherez-plecho/)
 - [Логика гардероба](/rus/glossariy/logika-garderoba/)
-- [Гардероб для случаев](/rus/glossariy/garderob-dlya-sluchaev/)
+- [Гардероб для поводов](/rus/glossariy/garderob-dlya-povodov/)

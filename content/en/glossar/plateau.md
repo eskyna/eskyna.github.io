@@ -17,9 +17,10 @@ keywords:
   - what is plateau
   - plateau style advice
 slug: plateau
-url: /glossary/plateau/
+url: /en/glossary/plateau/
 aliases:
-  - /glossar/plateau/
+  - /en/glossar/plateau/
+  - /glossary/plateau/
 image_alt: Editorial glossary illustration for Plateau
 relatedTerms:
   - title: Capsule Wardrobe

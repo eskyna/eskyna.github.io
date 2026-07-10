@@ -17,9 +17,10 @@ keywords:
   - what is burgundy
   - burgundy style advice
 slug: burgundy
-url: /glossary/burgundy/
+url: /en/glossary/burgundy/
 aliases:
-  - /glossar/bordeaux/
+  - /en/glossar/bordeaux/
+  - /glossary/burgundy/
 image_alt: Editorial glossary illustration for Burgundy
 relatedTerms:
   - title: Navy

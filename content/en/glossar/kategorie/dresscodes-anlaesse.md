@@ -6,10 +6,11 @@ description:
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Dress Codes & Occasions
-url: /glossary/category/dress-codes-occasions/
+url: /en/glossary/category/dress-codes-occasions/
 seoTitle: Dress Codes & Occasions | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/dresscodes-anlaesse/
+  - /en/glossar/kategorie/dresscodes-anlaesse/
+  - /glossary/category/dress-codes-occasions/
 ---
 
 ## What this category covers

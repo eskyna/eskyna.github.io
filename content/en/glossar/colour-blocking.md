@@ -1,26 +1,28 @@
 ---
 weight: 1
 image: images/glossar/colour-blocking.png
-title: What does Colour Blocking mean?
-seoTitle: Colour Blocking explained | ESKYNA Glossary
-term: Colour Blocking
+title: What does Color Blocking mean?
+seoTitle: Color Blocking explained | ESKYNA Glossary
+term: Color Blocking
 description:
-  Colour Blocking is a color-consultation term that helps you understand undertone, contrast,
+  Color Blocking is a color-consultation term that helps you understand undertone, contrast,
   harmony, and personal color choices.
 category: Color Consultation & Color
 tags:
-  - colour blocking
+  - color blocking
   - color consultation & color
   - style glossary
 keywords:
-  - colour blocking
-  - what is colour blocking
-  - colour blocking style advice
-slug: colour-blocking
-url: /glossary/colour-blocking/
+  - color blocking
+  - what is color blocking
+  - color blocking style advice
+slug: color-blocking
+url: /en/glossary/color-blocking/
 aliases:
-  - /glossar/colour-blocking/
-image_alt: Editorial glossary illustration for Colour Blocking
+  - /en/glossar/colour-blocking/
+  - /glossary/colour-blocking/
+  - /en/glossary/colour-blocking/
+image_alt: Editorial glossary illustration for Color Blocking
 relatedTerms:
   - title: Color Consultation
     url: /en/glossary/color-consultation/
@@ -34,11 +36,11 @@ relatedTerms:
     url: /en/glossary/color-palette/
 faq:
   items:
-    - q: How can I use “Colour Blocking” in real outfits?
+    - q: How can I use “Color Blocking” in real outfits?
       a:
         Use it as a checkpoint for undertone, contrast, and harmony. Use it to understand why one color
         direction makes the face look clearer while another feels disconnected.
-    - q: Does “Colour Blocking” work the same way for everyone?
+    - q: Does “Color Blocking” work the same way for everyone?
       a:
         No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
         direction.
@@ -47,23 +49,23 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Colour Blocking**: Colour Blocking is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
+**Color Blocking**: Color Blocking is a color-consultation term that helps you understand undertone, contrast, harmony, and personal color choices.
 
 ## In simple words
 
-Colour Blocking gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
+Color Blocking gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
 
 At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
 
 ## Why this matters in color consultation
 
-When you understand Colour Blocking, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
+When you understand Color Blocking, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
 
-In color consultation, Colour Blocking becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
+In color consultation, Color Blocking becomes useful when it is connected with your skin undertone, hair contrast, eye color, and the emotional message of the outfit.
 
 ## What to pay attention to
 
-- Check the role of Colour Blocking in the full outfit.
+- Check the role of Color Blocking in the full outfit.
 - Look at color, material, cut, proportion, and occasion together.
 - Ask whether the choice supports your desired impact.
 - Prefer clarity over random details.
@@ -71,19 +73,19 @@ In color consultation, Colour Blocking becomes useful when it is connected with 
 
 ## Common misconceptions
 
-**Misconception:** Colour Blocking is only a fashion word.  
+**Misconception:** Color Blocking is only a fashion word.
 **Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
 
-**Misconception:** Colour Blocking works the same way for everyone.  
+**Misconception:** Color Blocking works the same way for everyone.
 **Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
 
 ## Quick mirror check
 
-Look at “Colour Blocking” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+Look at “Color Blocking” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
 
 ## ESKYNA note
 
-Colour Blocking works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+Color Blocking works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
 
 ## Related terms
 

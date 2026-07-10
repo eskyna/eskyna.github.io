@@ -15,9 +15,10 @@ keywords:
   - what is color card
   - color card style advice
 slug: color-card
-url: /glossary/color-card/
+url: /en/glossary/color-card/
 aliases:
-  - /glossar/farbkarte/
+  - /en/glossar/farbkarte/
+  - /glossary/color-card/
 image_alt: Editorial glossary illustration for Color Card
 relatedTerms:
   - title: Color Consultation

@@ -17,9 +17,10 @@ keywords:
   - what is jogpants
   - jogpants style advice
 slug: jogpants
-url: /glossary/jogpants/
+url: /en/glossary/jogpants/
 aliases:
-  - /glossar/jogpants/
+  - /en/glossar/jogpants/
+  - /glossary/jogpants/
 image_alt: Editorial glossary illustration for Jogpants
 relatedTerms:
   - title: Tapered Fit

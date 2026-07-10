@@ -16,9 +16,10 @@ keywords:
   - what is waistband
   - waistband style advice
 slug: waistband
-url: /glossary/waistband/
+url: /en/glossary/waistband/
 aliases:
-  - /glossar/bund/
+  - /en/glossar/bund/
+  - /glossary/waistband/
 image_alt: Editorial glossary illustration for Waistband
 relatedTerms:
   - title: Silhouette

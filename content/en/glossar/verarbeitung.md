@@ -16,9 +16,10 @@ keywords:
   - what is craftsmanship
   - craftsmanship style advice
 slug: craftsmanship
-url: /glossary/craftsmanship/
+url: /en/glossary/craftsmanship/
 aliases:
-  - /glossar/verarbeitung/
+  - /en/glossar/verarbeitung/
+  - /glossary/craftsmanship/
 image_alt: Editorial glossary illustration for Craftsmanship
 relatedTerms:
   - title: Capsule Wardrobe

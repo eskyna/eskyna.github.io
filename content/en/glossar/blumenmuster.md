@@ -16,9 +16,10 @@ keywords:
   - what is floral print
   - floral print style advice
 slug: floral-print
-url: /glossary/floral-print/
+url: /en/glossary/floral-print/
 aliases:
-  - /glossar/blumenmuster/
+  - /en/glossar/blumenmuster/
+  - /glossary/floral-print/
 image_alt: Editorial glossary illustration for Floral Print
 relatedTerms:
   - title: Material Quality

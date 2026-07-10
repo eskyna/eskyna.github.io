@@ -17,9 +17,10 @@ keywords:
   - what is wide-leg trousers
   - wide-leg trousers style advice
 slug: wide-leg-trousers
-url: /glossary/wide-leg-trousers/
+url: /en/glossary/wide-leg-trousers/
 aliases:
-  - /glossar/marlenehose/
+  - /en/glossar/marlenehose/
+  - /glossary/wide-leg-trousers/
 image_alt: Editorial glossary illustration for Wide-Leg Trousers
 relatedTerms:
   - title: Proportion

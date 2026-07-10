@@ -16,9 +16,10 @@ keywords:
   - what is shoulder line
   - shoulder line style advice
 slug: shoulder-line
-url: /glossary/shoulder-line/
+url: /en/glossary/shoulder-line/
 aliases:
-  - /glossar/schulterlinie/
+  - /en/glossar/schulterlinie/
+  - /glossary/shoulder-line/
 image_alt: Editorial glossary illustration for Shoulder Line
 relatedTerms:
   - title: Silhouette

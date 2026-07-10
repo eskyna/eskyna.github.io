@@ -15,9 +15,10 @@ keywords:
   - what is raffia bag
   - raffia bag style advice
 slug: raffia-bag
-url: /glossary/raffia-bag/
+url: /en/glossary/raffia-bag/
 aliases:
-  - /glossar/raffia-bag/
+  - /en/glossar/raffia-bag/
+  - /glossary/raffia-bag/
 image_alt: Editorial glossary illustration for Raffia Bag
 relatedTerms:
   - title: Shopper

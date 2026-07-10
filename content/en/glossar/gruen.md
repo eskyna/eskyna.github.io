@@ -17,9 +17,10 @@ keywords:
   - what is green
   - green style advice
 slug: green
-url: /glossary/green/
+url: /en/glossary/green/
 aliases:
-  - /glossar/gruen/
+  - /en/glossar/gruen/
+  - /glossary/green/
 image_alt: Editorial glossary illustration for Green
 relatedTerms:
   - title: Beige

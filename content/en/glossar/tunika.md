@@ -16,9 +16,10 @@ keywords:
   - what is tunic
   - tunic style advice
 slug: tunic
-url: /glossary/tunic/
+url: /en/glossary/tunic/
 aliases:
-  - /glossar/tunika/
+  - /en/glossar/tunika/
+  - /glossary/tunic/
 image_alt: Editorial glossary illustration for Tunic
 relatedTerms:
   - title: Material Quality

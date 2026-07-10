@@ -16,9 +16,10 @@ keywords:
   - what is bodycon dress
   - bodycon dress style advice
 slug: bodycon-dress
-url: /glossary/bodycon-dress/
+url: /en/glossary/bodycon-dress/
 aliases:
-  - /glossar/bodycon-dress/
+  - /en/glossar/bodycon-dress/
+  - /glossary/bodycon-dress/
 image_alt: Editorial glossary illustration for Bodycon Dress
 relatedTerms:
   - title: Capsule Wardrobe

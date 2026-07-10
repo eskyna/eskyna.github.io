@@ -16,9 +16,10 @@ keywords:
   - what is festive clothing
   - festive clothing style advice
 slug: festive-clothing
-url: /glossary/festive-clothing/
+url: /en/glossary/festive-clothing/
 aliases:
-  - /glossar/festliche-kleidung/
+  - /en/glossar/festliche-kleidung/
+  - /glossary/festive-clothing/
 image_alt: Editorial glossary illustration for Festive Clothing
 relatedTerms:
   - title: Capsule Wardrobe

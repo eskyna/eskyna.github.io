@@ -17,9 +17,10 @@ keywords:
   - what is sweater
   - sweater style advice
 slug: sweater
-url: /glossary/sweater/
+url: /en/glossary/sweater/
 aliases:
-  - /glossar/pullover/
+  - /en/glossar/pullover/
+  - /glossary/sweater/
 image_alt: Editorial glossary illustration for Sweater
 relatedTerms:
   - title: Cardigan

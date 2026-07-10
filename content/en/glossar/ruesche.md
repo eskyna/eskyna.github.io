@@ -16,9 +16,10 @@ keywords:
   - what is ruffle
   - ruffle style advice
 slug: ruffle
-url: /glossary/ruffle/
+url: /en/glossary/ruffle/
 aliases:
-  - /glossar/ruesche/
+  - /en/glossar/ruesche/
+  - /glossary/ruffle/
 image_alt: Editorial glossary illustration for Ruffle
 relatedTerms:
   - title: Material Quality

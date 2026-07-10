@@ -17,9 +17,10 @@ keywords:
   - what is capsule wardrobe
   - capsule wardrobe style advice
 slug: capsule-wardrobe
-url: /glossary/capsule-wardrobe/
+url: /en/glossary/capsule-wardrobe/
 aliases:
-  - /glossar/capsule-wardrobe/
+  - /en/glossar/capsule-wardrobe/
+  - /glossary/capsule-wardrobe/
 image_alt: Editorial glossary illustration for Capsule Wardrobe
 relatedTerms:
   - title: Basic

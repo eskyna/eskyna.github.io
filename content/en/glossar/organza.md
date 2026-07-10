@@ -16,9 +16,10 @@ keywords:
   - what is organza
   - organza style advice
 slug: organza
-url: /glossary/organza/
+url: /en/glossary/organza/
 aliases:
-  - /glossar/organza/
+  - /en/glossar/organza/
+  - /glossary/organza/
 image_alt: Editorial glossary illustration for Organza
 relatedTerms:
   - title: Material Quality

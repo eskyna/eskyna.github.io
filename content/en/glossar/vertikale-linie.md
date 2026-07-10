@@ -15,9 +15,10 @@ keywords:
   - what is vertical line
   - vertical line style advice
 slug: vertical-line
-url: /glossary/vertical-line/
+url: /en/glossary/vertical-line/
 aliases:
-  - /glossar/vertikale-linie/
+  - /en/glossar/vertikale-linie/
+  - /glossary/vertical-line/
 image_alt: Editorial glossary illustration for Vertical Line
 relatedTerms:
   - title: Silhouette

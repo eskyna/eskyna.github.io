@@ -15,9 +15,10 @@ keywords:
   - what is elevated flip-flop
   - elevated flip-flop style advice
 slug: elevated-flip-flop
-url: /glossary/elevated-flip-flop/
+url: /en/glossary/elevated-flip-flop/
 aliases:
-  - /glossar/elevated-flip-flop/
+  - /en/glossar/elevated-flip-flop/
+  - /glossary/elevated-flip-flop/
 image_alt: Editorial glossary illustration for Elevated Flip-Flop
 relatedTerms:
   - title: Minimalist Wedge

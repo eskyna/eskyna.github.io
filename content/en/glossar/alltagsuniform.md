@@ -17,9 +17,10 @@ keywords:
   - what is everyday uniform
   - everyday uniform style advice
 slug: everyday-uniform
-url: /glossary/everyday-uniform/
+url: /en/glossary/everyday-uniform/
 aliases:
-  - /glossar/alltagsuniform/
+  - /en/glossar/alltagsuniform/
+  - /glossary/everyday-uniform/
 image_alt: Editorial glossary illustration for Everyday Uniform
 relatedTerms:
   - title: Capsule Wardrobe

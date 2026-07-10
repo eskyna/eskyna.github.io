@@ -17,9 +17,10 @@ keywords:
   - what is shopping list
   - shopping list style advice
 slug: shopping-list
-url: /glossary/shopping-list/
+url: /en/glossary/shopping-list/
 aliases:
-  - /glossar/einkaufsliste/
+  - /en/glossar/einkaufsliste/
+  - /glossary/shopping-list/
 image_alt: Editorial glossary illustration for Shopping List
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is rectangle silhouette
   - rectangle silhouette style advice
 slug: rectangle-silhouette
-url: /glossary/rectangle-silhouette/
+url: /en/glossary/rectangle-silhouette/
 aliases:
-  - /glossar/rechteck-silhouette/
+  - /en/glossar/rechteck-silhouette/
+  - /glossary/rectangle-silhouette/
 image_alt: Editorial glossary illustration for Rectangle Silhouette
 relatedTerms:
   - title: Silhouette

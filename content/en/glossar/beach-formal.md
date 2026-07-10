@@ -15,9 +15,10 @@ keywords:
   - what is beach formal
   - beach formal style advice
 slug: beach-formal
-url: /glossary/beach-formal/
+url: /en/glossary/beach-formal/
 aliases:
-  - /glossar/beach-formal/
+  - /en/glossar/beach-formal/
+  - /glossary/beach-formal/
 image_alt: Editorial glossary illustration for Beach Formal
 relatedTerms:
   - title: Garden Party Attire

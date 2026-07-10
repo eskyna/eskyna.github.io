@@ -16,9 +16,10 @@ keywords:
   - what is placed print
   - placed print style advice
 slug: placed-print
-url: /glossary/placed-print/
+url: /en/glossary/placed-print/
 aliases:
-  - /glossar/platzierter-print/
+  - /en/glossar/platzierter-print/
+  - /glossary/placed-print/
 image_alt: Editorial glossary illustration for Placed Print
 relatedTerms:
   - title: Material Quality

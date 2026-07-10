@@ -16,9 +16,10 @@ keywords:
   - what is batik
   - batik style advice
 slug: batik
-url: /glossary/batik/
+url: /en/glossary/batik/
 aliases:
-  - /glossar/batik/
+  - /en/glossar/batik/
+  - /glossary/batik/
 image_alt: Editorial glossary illustration for Batik
 relatedTerms:
   - title: Material Quality

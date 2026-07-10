@@ -16,9 +16,10 @@ keywords:
   - what is vintage shopping
   - vintage shopping style advice
 slug: vintage-shopping
-url: /glossary/vintage-shopping/
+url: /en/glossary/vintage-shopping/
 aliases:
-  - /glossar/vintage-kauf/
+  - /en/glossar/vintage-kauf/
+  - /glossary/vintage-shopping/
 image_alt: Editorial glossary illustration for Vintage Shopping
 relatedTerms:
   - title: Capsule Wardrobe

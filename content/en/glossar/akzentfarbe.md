@@ -17,9 +17,10 @@ keywords:
   - what is accent color
   - accent color style advice
 slug: accent-color
-url: /glossary/accent-color/
+url: /en/glossary/accent-color/
 aliases:
-  - /glossar/akzentfarbe/
+  - /en/glossar/akzentfarbe/
+  - /glossary/accent-color/
 image_alt: Editorial glossary illustration for Accent Color
 relatedTerms:
   - title: Statement Piece

@@ -16,9 +16,10 @@ keywords:
   - what is business
   - business style advice
 slug: business
-url: /glossary/business/
+url: /en/glossary/business/
 aliases:
-  - /glossar/business/
+  - /en/glossar/business/
+  - /glossary/business/
 image_alt: Editorial glossary illustration for Business
 relatedTerms:
   - title: Signature Look

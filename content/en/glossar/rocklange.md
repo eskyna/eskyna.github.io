@@ -16,9 +16,10 @@ keywords:
   - what is skirt length
   - skirt length style advice
 slug: skirt-length
-url: /glossary/skirt-length/
+url: /en/glossary/skirt-length/
 aliases:
-  - /glossar/rocklange/
+  - /en/glossar/rocklange/
+  - /glossary/skirt-length/
 image_alt: Editorial glossary illustration for Skirt Length
 relatedTerms:
   - title: Proportion

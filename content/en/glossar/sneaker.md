@@ -17,9 +17,10 @@ keywords:
   - what is sneaker
   - sneaker style advice
 slug: sneaker
-url: /glossary/sneaker/
+url: /en/glossary/sneaker/
 aliases:
-  - /glossar/sneaker/
+  - /en/glossar/sneaker/
+  - /glossary/sneaker/
 image_alt: Editorial glossary illustration for Sneaker
 relatedTerms:
   - title: Loafer

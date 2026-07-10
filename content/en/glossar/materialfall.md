@@ -16,9 +16,10 @@ keywords:
   - what is fabric drape
   - fabric drape style advice
 slug: fabric-drape
-url: /glossary/fabric-drape/
+url: /en/glossary/fabric-drape/
 aliases:
-  - /glossar/materialfall/
+  - /en/glossar/materialfall/
+  - /glossary/fabric-drape/
 image_alt: Editorial glossary illustration for Fabric Drape
 relatedTerms:
   - title: Silhouette

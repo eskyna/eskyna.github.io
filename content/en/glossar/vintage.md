@@ -16,9 +16,10 @@ keywords:
   - what is vintage
   - vintage style advice
 slug: vintage
-url: /glossary/vintage/
+url: /en/glossary/vintage/
 aliases:
-  - /glossar/vintage/
+  - /en/glossar/vintage/
+  - /glossary/vintage/
 image_alt: Editorial glossary illustration for Vintage
 relatedTerms:
   - title: Signature Look

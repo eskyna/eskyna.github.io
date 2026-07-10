@@ -17,9 +17,10 @@ keywords:
   - what is turquoise
   - turquoise style advice
 slug: turquoise
-url: /glossary/turquoise/
+url: /en/glossary/turquoise/
 aliases:
-  - /glossar/tuerkis/
+  - /en/glossar/tuerkis/
+  - /glossary/turquoise/
 image_alt: Editorial glossary illustration for Turquoise
 relatedTerms:
   - title: Color

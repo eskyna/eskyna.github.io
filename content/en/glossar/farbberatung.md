@@ -17,9 +17,10 @@ keywords:
   - what is color consultation
   - color consultation style advice
 slug: color-consultation
-url: /glossary/color-consultation/
+url: /en/glossary/color-consultation/
 aliases:
-  - /glossar/farbberatung/
+  - /en/glossar/farbberatung/
+  - /glossary/color-consultation/
 image_alt: Editorial glossary illustration for Color Consultation
 relatedTerms:
   - title: Signature Look

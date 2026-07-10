@@ -16,10 +16,11 @@ keywords:
   - what is presence
   - presence style advice
 slug: presence
-url: /glossary/presence/
+url: /en/glossary/presence/
 aliases:
-  - /glossar/praesenz/
+  - /en/glossar/praesenz/
   - /glossary/presence-2/
+  - /glossary/presence/
 image_alt: Editorial glossary illustration for Presence
 relatedTerms:
   - title: Executive Presence

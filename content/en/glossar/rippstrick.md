@@ -16,9 +16,10 @@ keywords:
   - what is rib knit
   - rib knit style advice
 slug: rib-knit
-url: /glossary/rib-knit/
+url: /en/glossary/rib-knit/
 aliases:
-  - /glossar/rippstrick/
+  - /en/glossar/rippstrick/
+  - /glossary/rib-knit/
 image_alt: Editorial glossary illustration for Rib Knit
 relatedTerms:
   - title: Material Quality

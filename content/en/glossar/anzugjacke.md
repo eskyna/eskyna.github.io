@@ -16,9 +16,10 @@ keywords:
   - what is suit jacket
   - suit jacket style advice
 slug: suit-jacket
-url: /glossary/suit-jacket/
+url: /en/glossary/suit-jacket/
 aliases:
-  - /glossar/anzugjacke/
+  - /en/glossar/anzugjacke/
+  - /glossary/suit-jacket/
 image_alt: Editorial glossary illustration for Suit Jacket
 relatedTerms:
   - title: Capsule Wardrobe

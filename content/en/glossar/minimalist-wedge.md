@@ -15,9 +15,10 @@ keywords:
   - what is minimalist wedge
   - minimalist wedge style advice
 slug: minimalist-wedge
-url: /glossary/minimalist-wedge/
+url: /en/glossary/minimalist-wedge/
 aliases:
-  - /glossar/minimalist-wedge/
+  - /en/glossar/minimalist-wedge/
+  - /glossary/minimalist-wedge/
 image_alt: Editorial glossary illustration for Minimalist Wedge
 relatedTerms:
   - title: Plateau

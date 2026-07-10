@@ -16,9 +16,10 @@ keywords:
   - what is track pants
   - track pants style advice
 slug: track-pants
-url: /glossary/track-pants/
+url: /en/glossary/track-pants/
 aliases:
-  - /glossar/track-pants/
+  - /en/glossar/track-pants/
+  - /glossary/track-pants/
 image_alt: Editorial glossary illustration for Track Pants
 relatedTerms:
   - title: Sneaker

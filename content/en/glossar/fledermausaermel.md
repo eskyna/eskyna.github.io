@@ -16,9 +16,10 @@ keywords:
   - what is batwing sleeve
   - batwing sleeve style advice
 slug: batwing-sleeve
-url: /glossary/batwing-sleeve/
+url: /en/glossary/batwing-sleeve/
 aliases:
-  - /glossar/fledermausaermel/
+  - /en/glossar/fledermausaermel/
+  - /glossary/batwing-sleeve/
 image_alt: Editorial glossary illustration for Batwing Sleeve
 relatedTerms:
   - title: Silhouette

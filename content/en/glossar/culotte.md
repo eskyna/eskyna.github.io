@@ -16,9 +16,10 @@ keywords:
   - what is culotte
   - culotte style advice
 slug: culotte
-url: /glossary/culotte/
+url: /en/glossary/culotte/
 aliases:
-  - /glossar/culotte/
+  - /en/glossar/culotte/
+  - /glossary/culotte/
 image_alt: Editorial glossary illustration for Culotte
 relatedTerms:
   - title: Proportion

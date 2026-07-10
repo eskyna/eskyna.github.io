@@ -16,9 +16,10 @@ keywords:
   - what is visibility look
   - visibility look style advice
 slug: visibility-look
-url: /glossary/visibility-look/
+url: /en/glossary/visibility-look/
 aliases:
-  - /glossar/sichtbarkeitslook/
+  - /en/glossar/sichtbarkeitslook/
+  - /glossary/visibility-look/
 image_alt: Editorial glossary illustration for Visibility Look
 relatedTerms:
   - title: Personal Branding

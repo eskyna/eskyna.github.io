@@ -16,9 +16,10 @@ keywords:
   - what is style sensibility
   - style sensibility style advice
 slug: style-sensibility
-url: /glossary/style-sensibility/
+url: /en/glossary/style-sensibility/
 aliases:
-  - /glossar/stilgefuehl/
+  - /en/glossar/stilgefuehl/
+  - /glossary/style-sensibility/
 image_alt: Editorial glossary illustration for Style Sensibility
 relatedTerms:
   - title: Signature Look

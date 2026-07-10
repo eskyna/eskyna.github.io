@@ -16,9 +16,10 @@ keywords:
   - what is skirt
   - skirt style advice
 slug: skirt
-url: /glossary/skirt/
+url: /en/glossary/skirt/
 aliases:
-  - /glossar/rock/
+  - /en/glossar/rock/
+  - /glossary/skirt/
 image_alt: Editorial glossary illustration for Skirt
 relatedTerms:
   - title: Capsule Wardrobe

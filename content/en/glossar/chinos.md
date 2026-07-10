@@ -17,9 +17,10 @@ keywords:
   - what is chinos
   - chinos style advice
 slug: chinos
-url: /glossary/chinos/
+url: /en/glossary/chinos/
 aliases:
-  - /glossar/chinos/
+  - /en/glossar/chinos/
+  - /glossary/chinos/
 image_alt: Editorial glossary illustration for Chinos
 relatedTerms:
   - title: Business Casual

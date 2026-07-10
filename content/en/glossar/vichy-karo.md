@@ -16,9 +16,10 @@ keywords:
   - what is gingham
   - gingham style advice
 slug: gingham
-url: /glossary/gingham/
+url: /en/glossary/gingham/
 aliases:
-  - /glossar/vichy-karo/
+  - /en/glossar/vichy-karo/
+  - /glossary/gingham/
 image_alt: Editorial glossary illustration for Gingham
 relatedTerms:
   - title: Material Quality

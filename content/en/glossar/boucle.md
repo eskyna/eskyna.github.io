@@ -16,9 +16,10 @@ keywords:
   - what is boucle
   - boucle style advice
 slug: boucle
-url: /glossary/boucle/
+url: /en/glossary/boucle/
 aliases:
-  - /glossar/boucle/
+  - /en/glossar/boucle/
+  - /glossary/boucle/
 image_alt: Editorial glossary illustration for Boucle
 relatedTerms:
   - title: Material Quality

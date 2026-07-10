@@ -17,9 +17,10 @@ keywords:
   - what is wardrobe check
   - wardrobe check style advice
 slug: wardrobe-check
-url: /glossary/wardrobe-check/
+url: /en/glossary/wardrobe-check/
 aliases:
-  - /glossar/kleiderschrank-check/
+  - /en/glossar/kleiderschrank-check/
+  - /glossary/wardrobe-check/
 image_alt: Editorial glossary illustration for Wardrobe Check
 relatedTerms:
   - title: Signature Look

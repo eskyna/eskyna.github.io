@@ -16,9 +16,10 @@ keywords:
   - what is tonal pattern
   - tonal pattern style advice
 slug: tonal-pattern
-url: /glossary/tonal-pattern/
+url: /en/glossary/tonal-pattern/
 aliases:
-  - /glossar/ton-in-ton-muster/
+  - /en/glossar/ton-in-ton-muster/
+  - /glossary/tonal-pattern/
 image_alt: Editorial glossary illustration for Tonal Pattern
 relatedTerms:
   - title: Material Quality

@@ -17,9 +17,10 @@ keywords:
   - what is proportion
   - proportion style advice
 slug: proportion
-url: /glossary/proportion/
+url: /en/glossary/proportion/
 aliases:
-  - /glossar/proportion/
+  - /en/glossar/proportion/
+  - /glossary/proportion/
 image_alt: Editorial glossary illustration for Proportion
 relatedTerms:
   - title: Silhouette

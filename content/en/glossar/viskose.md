@@ -16,9 +16,10 @@ keywords:
   - what is viscose
   - viscose style advice
 slug: viscose
-url: /glossary/viscose/
+url: /en/glossary/viscose/
 aliases:
-  - /glossar/viskose/
+  - /en/glossar/viskose/
+  - /glossary/viscose/
 image_alt: Editorial glossary illustration for Viscose
 relatedTerms:
   - title: Silhouette

@@ -17,9 +17,10 @@ keywords:
   - what is blazer
   - blazer style advice
 slug: blazer
-url: /glossary/blazer/
+url: /en/glossary/blazer/
 aliases:
-  - /glossar/blazer/
+  - /en/glossar/blazer/
+  - /glossary/blazer/
 image_alt: Editorial glossary illustration for Blazer
 relatedTerms:
   - title: Business Casual

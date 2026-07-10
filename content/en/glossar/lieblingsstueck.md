@@ -17,9 +17,10 @@ keywords:
   - what is favorite piece
   - favorite piece style advice
 slug: favorite-piece
-url: /glossary/favorite-piece/
+url: /en/glossary/favorite-piece/
 aliases:
-  - /glossar/lieblingsstueck/
+  - /en/glossar/lieblingsstueck/
+  - /glossary/favorite-piece/
 image_alt: Editorial glossary illustration for Favorite Piece
 relatedTerms:
   - title: Signature Look

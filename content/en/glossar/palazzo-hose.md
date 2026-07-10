@@ -16,9 +16,10 @@ keywords:
   - what is palazzo trousers
   - palazzo trousers style advice
 slug: palazzo-trousers
-url: /glossary/palazzo-trousers/
+url: /en/glossary/palazzo-trousers/
 aliases:
-  - /glossar/palazzo-hose/
+  - /en/glossar/palazzo-hose/
+  - /glossary/palazzo-trousers/
 image_alt: Editorial glossary illustration for Palazzo Trousers
 relatedTerms:
   - title: Wide Leg

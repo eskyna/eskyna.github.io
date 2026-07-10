@@ -16,9 +16,10 @@ keywords:
   - what is style message
   - style message style advice
 slug: style-message
-url: /glossary/style-message/
+url: /en/glossary/style-message/
 aliases:
-  - /glossar/stilbotschaft/
+  - /en/glossar/stilbotschaft/
+  - /glossary/style-message/
 image_alt: Editorial glossary illustration for Style Message
 relatedTerms:
   - title: Image

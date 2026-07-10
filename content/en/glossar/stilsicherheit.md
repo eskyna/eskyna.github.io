@@ -15,9 +15,10 @@ keywords:
   - what is style confidence
   - style confidence style advice
 slug: style-confidence
-url: /glossary/style-confidence/
+url: /en/glossary/style-confidence/
 aliases:
-  - /glossar/stilsicherheit/
+  - /en/glossar/stilsicherheit/
+  - /glossary/style-confidence/
 image_alt: Editorial glossary illustration for Style Confidence
 relatedTerms:
   - title: Signature Look

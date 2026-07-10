@@ -17,9 +17,10 @@ keywords:
   - what is vertical stripes
   - vertical stripes style advice
 slug: vertical-stripes
-url: /glossary/vertical-stripes/
+url: /en/glossary/vertical-stripes/
 aliases:
-  - /glossar/laengsstreifen/
+  - /en/glossar/laengsstreifen/
+  - /glossary/vertical-stripes/
 image_alt: Editorial glossary illustration for Vertical Stripes
 relatedTerms:
   - title: Material Quality

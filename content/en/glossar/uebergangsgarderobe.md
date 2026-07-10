@@ -17,9 +17,10 @@ keywords:
   - what is transitional wardrobe
   - transitional wardrobe style advice
 slug: transitional-wardrobe
-url: /glossary/transitional-wardrobe/
+url: /en/glossary/transitional-wardrobe/
 aliases:
-  - /glossar/uebergangsgarderobe/
+  - /en/glossar/uebergangsgarderobe/
+  - /glossary/transitional-wardrobe/
 image_alt: Editorial glossary illustration for Transitional Wardrobe
 relatedTerms:
   - title: Capsule Wardrobe

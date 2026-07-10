@@ -17,9 +17,10 @@ keywords:
   - what is focal point
   - focal point style advice
 slug: focal-point
-url: /glossary/focal-point/
+url: /en/glossary/focal-point/
 aliases:
-  - /glossar/fokuspunkt/
+  - /en/glossar/fokuspunkt/
+  - /glossary/focal-point/
 image_alt: Editorial glossary illustration for Focal Point
 relatedTerms:
   - title: Signature Look

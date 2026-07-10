@@ -17,9 +17,10 @@ keywords:
   - what is sporty style
   - sporty style style advice
 slug: sporty-style
-url: /glossary/sporty-style/
+url: /en/glossary/sporty-style/
 aliases:
-  - /glossar/sportlich/
+  - /en/glossar/sportlich/
+  - /glossary/sporty-style/
 image_alt: Editorial glossary illustration for Sporty Style
 relatedTerms:
   - title: Signature Look

@@ -17,9 +17,10 @@ keywords:
   - what is black tie
   - black tie style advice
 slug: black-tie
-url: /glossary/black-tie/
+url: /en/glossary/black-tie/
 aliases:
-  - /glossar/black-tie/
+  - /en/glossar/black-tie/
+  - /glossary/black-tie/
 image_alt: Editorial glossary illustration for Black Tie
 relatedTerms:
   - title: Capsule Wardrobe

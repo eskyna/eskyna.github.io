@@ -16,9 +16,10 @@ keywords:
   - what is balloon sleeve
   - balloon sleeve style advice
 slug: balloon-sleeve
-url: /glossary/balloon-sleeve/
+url: /en/glossary/balloon-sleeve/
 aliases:
-  - /glossar/ballonaermel/
+  - /en/glossar/ballonaermel/
+  - /glossary/balloon-sleeve/
 image_alt: Editorial glossary illustration for Balloon Sleeve
 relatedTerms:
   - title: Silhouette

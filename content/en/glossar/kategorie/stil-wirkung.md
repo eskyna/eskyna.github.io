@@ -4,10 +4,11 @@ description: Style and image terms that shape presence, first impressions, and p
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Style & Impact
-url: /glossary/category/style-impact/
+url: /en/glossary/category/style-impact/
 seoTitle: Style & Impact | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/stil-wirkung/
+  - /en/glossar/kategorie/stil-wirkung/
+  - /glossary/category/style-impact/
 ---
 
 ## What this category covers

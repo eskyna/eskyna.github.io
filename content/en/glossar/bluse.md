@@ -17,9 +17,10 @@ keywords:
   - what is blouse
   - blouse style advice
 slug: blouse
-url: /glossary/blouse/
+url: /en/glossary/blouse/
 aliases:
-  - /glossar/bluse/
+  - /en/glossar/bluse/
+  - /glossary/blouse/
 image_alt: Editorial glossary illustration for Blouse
 relatedTerms:
   - title: Business Casual

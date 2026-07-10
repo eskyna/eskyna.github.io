@@ -17,9 +17,10 @@ keywords:
   - what is job interview outfit
   - job interview outfit style advice
 slug: job-interview-outfit
-url: /glossary/job-interview-outfit/
+url: /en/glossary/job-interview-outfit/
 aliases:
-  - /glossar/bewerbungsgespraech/
+  - /en/glossar/bewerbungsgespraech/
+  - /glossary/job-interview-outfit/
 image_alt: Editorial glossary illustration for Job Interview Outfit
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is shawl collar
   - shawl collar style advice
 slug: shawl-collar
-url: /glossary/shawl-collar/
+url: /en/glossary/shawl-collar/
 aliases:
-  - /glossar/schalkragen/
+  - /en/glossar/schalkragen/
+  - /glossary/shawl-collar/
 image_alt: Editorial glossary illustration for Shawl Collar
 relatedTerms:
   - title: Material Quality

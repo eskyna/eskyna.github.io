@@ -16,9 +16,10 @@ keywords:
   - what is slip dress
   - slip dress style advice
 slug: slip-dress
-url: /glossary/slip-dress/
+url: /en/glossary/slip-dress/
 aliases:
-  - /glossar/slip-dress/
+  - /en/glossar/slip-dress/
+  - /glossary/slip-dress/
 image_alt: Editorial glossary illustration for Slip Dress
 relatedTerms:
   - title: Camisole

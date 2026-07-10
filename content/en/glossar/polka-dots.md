@@ -16,9 +16,10 @@ keywords:
   - what is polka dots
   - polka dots style advice
 slug: polka-dots
-url: /glossary/polka-dots/
+url: /en/glossary/polka-dots/
 aliases:
-  - /glossar/polka-dots/
+  - /en/glossar/polka-dots/
+  - /glossary/polka-dots/
 image_alt: Editorial glossary illustration for Polka Dots
 relatedTerms:
   - title: Material Quality

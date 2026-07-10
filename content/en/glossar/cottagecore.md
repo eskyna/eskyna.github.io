@@ -16,9 +16,10 @@ keywords:
   - what is cottagecore
   - cottagecore style advice
 slug: cottagecore
-url: /glossary/cottagecore/
+url: /en/glossary/cottagecore/
 aliases:
-  - /glossar/cottagecore/
+  - /en/glossar/cottagecore/
+  - /glossary/cottagecore/
 image_alt: Editorial glossary illustration for Cottagecore
 relatedTerms:
   - title: Vintage

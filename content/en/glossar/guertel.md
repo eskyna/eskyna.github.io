@@ -16,9 +16,10 @@ keywords:
   - what is belt
   - belt style advice
 slug: belt
-url: /glossary/belt/
+url: /en/glossary/belt/
 aliases:
-  - /glossar/guertel/
+  - /en/glossar/guertel/
+  - /glossary/belt/
 image_alt: Editorial glossary illustration for Belt
 relatedTerms:
   - title: Proportion

@@ -17,9 +17,10 @@ keywords:
   - what is edgy
   - edgy style advice
 slug: edgy
-url: /glossary/edgy/
+url: /en/glossary/edgy/
 aliases:
-  - /glossar/edgy/
+  - /en/glossar/edgy/
+  - /glossary/edgy/
 image_alt: Editorial glossary illustration for Edgy
 relatedTerms:
   - title: Signature Look

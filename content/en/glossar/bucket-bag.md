@@ -16,9 +16,10 @@ keywords:
   - what is bucket bag
   - bucket bag style advice
 slug: bucket-bag
-url: /glossary/bucket-bag/
+url: /en/glossary/bucket-bag/
 aliases:
-  - /glossar/bucket-bag/
+  - /en/glossar/bucket-bag/
+  - /glossary/bucket-bag/
 image_alt: Editorial glossary illustration for Bucket Bag
 relatedTerms:
   - title: Tote Bag

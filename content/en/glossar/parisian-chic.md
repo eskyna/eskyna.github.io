@@ -17,9 +17,10 @@ keywords:
   - what is parisian chic
   - parisian chic style advice
 slug: parisian-chic
-url: /glossary/parisian-chic/
+url: /en/glossary/parisian-chic/
 aliases:
-  - /glossar/parisian-chic/
+  - /en/glossar/parisian-chic/
+  - /glossary/parisian-chic/
 image_alt: Editorial glossary illustration for Parisian Chic
 relatedTerms:
   - title: Signature Look

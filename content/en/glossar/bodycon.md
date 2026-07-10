@@ -16,9 +16,10 @@ keywords:
   - what is bodycon
   - bodycon style advice
 slug: bodycon
-url: /glossary/bodycon/
+url: /en/glossary/bodycon/
 aliases:
-  - /glossar/bodycon/
+  - /en/glossar/bodycon/
+  - /glossary/bodycon/
 image_alt: Editorial glossary illustration for Bodycon
 relatedTerms:
   - title: Silhouette

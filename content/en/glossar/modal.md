@@ -16,9 +16,10 @@ keywords:
   - what is modal
   - modal style advice
 slug: modal
-url: /glossary/modal/
+url: /en/glossary/modal/
 aliases:
-  - /glossar/modal/
+  - /en/glossar/modal/
+  - /glossary/modal/
 image_alt: Editorial glossary illustration for Modal
 relatedTerms:
   - title: Material Quality

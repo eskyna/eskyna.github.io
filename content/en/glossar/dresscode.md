@@ -16,9 +16,10 @@ keywords:
   - what is dress code
   - dress code style advice
 slug: dress-code
-url: /glossary/dress-code/
+url: /en/glossary/dress-code/
 aliases:
-  - /glossar/dresscode/
+  - /en/glossar/dresscode/
+  - /glossary/dress-code/
 image_alt: Editorial glossary illustration for Dress Code
 relatedTerms:
   - title: Business Casual

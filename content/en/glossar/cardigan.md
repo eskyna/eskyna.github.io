@@ -17,9 +17,10 @@ keywords:
   - what is cardigan
   - cardigan style advice
 slug: cardigan
-url: /glossary/cardigan/
+url: /en/glossary/cardigan/
 aliases:
-  - /glossar/cardigan/
+  - /en/glossar/cardigan/
+  - /glossary/cardigan/
 image_alt: Editorial glossary illustration for Cardigan
 relatedTerms:
   - title: Layering

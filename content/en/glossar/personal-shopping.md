@@ -17,9 +17,10 @@ keywords:
   - what is personal shopping
   - personal shopping style advice
 slug: personal-shopping
-url: /glossary/personal-shopping/
+url: /en/glossary/personal-shopping/
 aliases:
-  - /glossar/personal-shopping/
+  - /en/glossar/personal-shopping/
+  - /glossary/personal-shopping/
 image_alt: Editorial glossary illustration for Personal Shopping
 relatedTerms:
   - title: Signature Look

@@ -15,9 +15,10 @@ keywords:
   - what is lapel pin
   - lapel pin style advice
 slug: lapel-pin
-url: /glossary/lapel-pin/
+url: /en/glossary/lapel-pin/
 aliases:
-  - /glossar/lapel-pin/
+  - /en/glossar/lapel-pin/
+  - /glossary/lapel-pin/
 image_alt: Editorial glossary illustration for Lapel Pin
 relatedTerms:
   - title: Brooched

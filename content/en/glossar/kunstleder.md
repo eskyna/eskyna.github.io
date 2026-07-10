@@ -16,9 +16,10 @@ keywords:
   - what is faux leather
   - faux leather style advice
 slug: faux-leather
-url: /glossary/faux-leather/
+url: /en/glossary/faux-leather/
 aliases:
-  - /glossar/kunstleder/
+  - /en/glossar/kunstleder/
+  - /glossary/faux-leather/
 image_alt: Editorial glossary illustration for Faux Leather
 relatedTerms:
   - title: Material Quality

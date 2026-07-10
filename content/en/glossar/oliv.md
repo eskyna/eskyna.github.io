@@ -17,9 +17,10 @@ keywords:
   - what is olive
   - olive style advice
 slug: olive
-url: /glossary/olive/
+url: /en/glossary/olive/
 aliases:
-  - /glossar/oliv/
+  - /en/glossar/oliv/
+  - /glossary/olive/
 image_alt: Editorial glossary illustration for Olive
 relatedTerms:
   - title: Khaki

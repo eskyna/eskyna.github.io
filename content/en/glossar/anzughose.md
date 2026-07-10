@@ -16,9 +16,10 @@ keywords:
   - what is suit trousers
   - suit trousers style advice
 slug: suit-trousers
-url: /glossary/suit-trousers/
+url: /en/glossary/suit-trousers/
 aliases:
-  - /glossar/anzughose/
+  - /en/glossar/anzughose/
+  - /glossary/suit-trousers/
 image_alt: Editorial glossary illustration for Suit Trousers
 relatedTerms:
   - title: Business Casual

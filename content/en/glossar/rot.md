@@ -16,9 +16,10 @@ keywords:
   - what is red
   - red style advice
 slug: red
-url: /glossary/red/
+url: /en/glossary/red/
 aliases:
-  - /glossar/rot/
+  - /en/glossar/rot/
+  - /glossary/red/
 image_alt: Editorial glossary illustration for Red
 relatedTerms:
   - title: Navy

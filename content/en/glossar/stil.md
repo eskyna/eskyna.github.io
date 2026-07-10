@@ -17,9 +17,10 @@ keywords:
   - what is style
   - style style advice
 slug: style
-url: /glossary/style/
+url: /en/glossary/style/
 aliases:
-  - /glossar/stil/
+  - /en/glossar/stil/
+  - /glossary/style/
 image_alt: Editorial glossary illustration for Style
 relatedTerms:
   - title: Signature Look

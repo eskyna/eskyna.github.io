@@ -16,9 +16,10 @@ keywords:
   - what is wide leg
   - wide leg style advice
 slug: wide-leg
-url: /glossary/wide-leg/
+url: /en/glossary/wide-leg/
 aliases:
-  - /glossar/wide-leg/
+  - /en/glossar/wide-leg/
+  - /glossary/wide-leg/
 image_alt: Editorial glossary illustration for Wide Leg
 relatedTerms:
   - title: Culotte

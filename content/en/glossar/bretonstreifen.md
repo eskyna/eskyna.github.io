@@ -16,9 +16,10 @@ keywords:
   - what is breton stripes
   - breton stripes style advice
 slug: breton-stripes
-url: /glossary/breton-stripes/
+url: /en/glossary/breton-stripes/
 aliases:
-  - /glossar/bretonstreifen/
+  - /en/glossar/bretonstreifen/
+  - /glossary/breton-stripes/
 image_alt: Editorial glossary illustration for Breton Stripes
 relatedTerms:
   - title: Material Quality

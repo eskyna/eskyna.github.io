@@ -16,9 +16,10 @@ keywords:
   - what is stripes
   - stripes style advice
 slug: stripes
-url: /glossary/stripes/
+url: /en/glossary/stripes/
 aliases:
-  - /glossar/streifen/
+  - /en/glossar/streifen/
+  - /glossary/stripes/
 image_alt: Editorial glossary illustration for Stripes
 relatedTerms:
   - title: Material Quality

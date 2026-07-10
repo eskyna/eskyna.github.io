@@ -17,9 +17,10 @@ keywords:
   - what is h-line
   - h-line style advice
 slug: h-line
-url: /glossary/h-line/
+url: /en/glossary/h-line/
 aliases:
-  - /glossar/h-linie/
+  - /en/glossar/h-linie/
+  - /glossary/h-line/
 image_alt: Editorial glossary illustration for H-Line
 relatedTerms:
   - title: Silhouette

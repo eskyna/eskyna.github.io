@@ -17,9 +17,10 @@ keywords:
   - what is knit dress
   - knit dress style advice
 slug: knit-dress
-url: /glossary/knit-dress/
+url: /en/glossary/knit-dress/
 aliases:
-  - /glossar/strickkleid/
+  - /en/glossar/strickkleid/
+  - /glossary/knit-dress/
 image_alt: Editorial glossary illustration for Knit Dress
 relatedTerms:
   - title: Cardigan

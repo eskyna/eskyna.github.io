@@ -16,9 +16,10 @@ keywords:
   - what is jacquard
   - jacquard style advice
 slug: jacquard
-url: /glossary/jacquard/
+url: /en/glossary/jacquard/
 aliases:
-  - /glossar/jacquard/
+  - /en/glossar/jacquard/
+  - /glossary/jacquard/
 image_alt: Editorial glossary illustration for Jacquard
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is crew neck
   - crew neck style advice
 slug: crew-neck
-url: /glossary/crew-neck/
+url: /en/glossary/crew-neck/
 aliases:
-  - /glossar/rundhalsausschnitt/
+  - /en/glossar/rundhalsausschnitt/
+  - /glossary/crew-neck/
 image_alt: Editorial glossary illustration for Crew Neck
 relatedTerms:
   - title: Material Quality

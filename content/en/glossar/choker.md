@@ -16,9 +16,10 @@ keywords:
   - what is choker
   - choker style advice
 slug: choker
-url: /glossary/choker/
+url: /en/glossary/choker/
 aliases:
-  - /glossar/choker/
+  - /en/glossar/choker/
+  - /glossary/choker/
 image_alt: Editorial glossary illustration for Choker
 relatedTerms:
   - title: Material Quality

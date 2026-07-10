@@ -17,9 +17,10 @@ keywords:
   - what is seasonal change
   - seasonal change style advice
 slug: seasonal-change
-url: /glossary/seasonal-change/
+url: /en/glossary/seasonal-change/
 aliases:
-  - /glossar/saisonwechsel/
+  - /en/glossar/saisonwechsel/
+  - /glossary/seasonal-change/
 image_alt: Editorial glossary illustration for Seasonal Change
 relatedTerms:
   - title: Capsule Wardrobe

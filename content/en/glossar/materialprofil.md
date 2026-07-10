@@ -16,9 +16,10 @@ keywords:
   - what is material profile
   - material profile style advice
 slug: material-profile
-url: /glossary/material-profile/
+url: /en/glossary/material-profile/
 aliases:
-  - /glossar/materialprofil/
+  - /en/glossar/materialprofil/
+  - /glossary/material-profile/
 image_alt: Editorial glossary illustration for Material Profile
 relatedTerms:
   - title: Signature Look

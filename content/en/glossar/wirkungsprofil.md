@@ -17,9 +17,10 @@ keywords:
   - what is impact profile
   - impact profile style advice
 slug: impact-profile
-url: /glossary/impact-profile/
+url: /en/glossary/impact-profile/
 aliases:
-  - /glossar/wirkungsprofil/
+  - /en/glossar/wirkungsprofil/
+  - /glossary/impact-profile/
 image_alt: Editorial glossary illustration for Impact Profile
 relatedTerms:
   - title: Signature Look

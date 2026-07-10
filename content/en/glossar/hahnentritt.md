@@ -16,9 +16,10 @@ keywords:
   - what is houndstooth
   - houndstooth style advice
 slug: houndstooth
-url: /glossary/houndstooth/
+url: /en/glossary/houndstooth/
 aliases:
-  - /glossar/hahnentritt/
+  - /en/glossar/hahnentritt/
+  - /glossary/houndstooth/
 image_alt: Editorial glossary illustration for Houndstooth
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is tapered fit
   - tapered fit style advice
 slug: tapered-fit
-url: /glossary/tapered-fit/
+url: /en/glossary/tapered-fit/
 aliases:
-  - /glossar/tapered-fit/
+  - /en/glossar/tapered-fit/
+  - /glossary/tapered-fit/
 image_alt: Editorial glossary illustration for Tapered Fit
 relatedTerms:
   - title: Slim Fit

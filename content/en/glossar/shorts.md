@@ -17,9 +17,10 @@ keywords:
   - what is shorts
   - shorts style advice
 slug: shorts
-url: /glossary/shorts/
+url: /en/glossary/shorts/
 aliases:
-  - /glossar/shorts/
+  - /en/glossar/shorts/
+  - /glossary/shorts/
 image_alt: Editorial glossary illustration for Shorts
 relatedTerms:
   - title: Capsule Wardrobe

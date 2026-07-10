@@ -16,9 +16,10 @@ keywords:
   - what is bangle
   - bangle style advice
 slug: bangle
-url: /glossary/bangle/
+url: /en/glossary/bangle/
 aliases:
-  - /glossar/armreif/
+  - /en/glossar/armreif/
+  - /glossary/bangle/
 image_alt: Editorial glossary illustration for Bangle
 relatedTerms:
   - title: Material Quality

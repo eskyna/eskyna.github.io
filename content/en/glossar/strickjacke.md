@@ -17,10 +17,11 @@ keywords:
   - what is knitted jacket
   - knitted jacket style advice
 slug: knitted-jacket
-url: /glossary/knitted-jacket/
+url: /en/glossary/knitted-jacket/
 aliases:
-  - /glossar/strickjacke/
+  - /en/glossar/strickjacke/
   - /glossary/cardigan-2/
+  - /glossary/knitted-jacket/
 image_alt: Editorial glossary illustration for Knitted Jacket
 relatedTerms:
   - title: Cardigan

@@ -17,9 +17,10 @@ keywords:
   - what is off-white
   - off-white style advice
 slug: off-white
-url: /glossary/off-white/
+url: /en/glossary/off-white/
 aliases:
-  - /glossar/off-white/
+  - /en/glossar/off-white/
+  - /glossary/off-white/
 image_alt: Editorial glossary illustration for Off-White
 relatedTerms:
   - title: Beige

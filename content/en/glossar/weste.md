@@ -16,9 +16,10 @@ keywords:
   - what is vest
   - vest style advice
 slug: vest
-url: /glossary/vest/
+url: /en/glossary/vest/
 aliases:
-  - /glossar/weste/
+  - /en/glossar/weste/
+  - /glossary/vest/
 image_alt: Editorial glossary illustration for Vest
 relatedTerms:
   - title: Layering

@@ -16,9 +16,10 @@ keywords:
   - what is silk
   - silk style advice
 slug: silk
-url: /glossary/silk/
+url: /en/glossary/silk/
 aliases:
-  - /glossar/seide/
+  - /en/glossar/seide/
+  - /glossary/silk/
 image_alt: Editorial glossary illustration for Silk
 relatedTerms:
   - title: Material Quality

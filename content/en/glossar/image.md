@@ -17,9 +17,10 @@ keywords:
   - what is image
   - image style advice
 slug: image
-url: /glossary/image/
+url: /en/glossary/image/
 aliases:
-  - /glossar/image/
+  - /en/glossar/image/
+  - /glossary/image/
 image_alt: Editorial glossary illustration for Image
 relatedTerms:
   - title: Signature Look

@@ -16,9 +16,10 @@ keywords:
   - what is hobo bag
   - hobo bag style advice
 slug: hobo-bag
-url: /glossary/hobo-bag/
+url: /en/glossary/hobo-bag/
 aliases:
-  - /glossar/hobo-bag/
+  - /en/glossar/hobo-bag/
+  - /glossary/hobo-bag/
 image_alt: Editorial glossary illustration for Hobo Bag
 relatedTerms:
   - title: Shopper

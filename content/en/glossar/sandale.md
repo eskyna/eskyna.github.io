@@ -17,9 +17,10 @@ keywords:
   - what is sandal
   - sandal style advice
 slug: sandal
-url: /glossary/sandal/
+url: /en/glossary/sandal/
 aliases:
-  - /glossar/sandale/
+  - /en/glossar/sandale/
+  - /glossary/sandal/
 image_alt: Editorial glossary illustration for Sandal
 relatedTerms:
   - title: Shorts

@@ -17,9 +17,10 @@ keywords:
   - what is blue
   - blue style advice
 slug: blue
-url: /glossary/blue/
+url: /en/glossary/blue/
 aliases:
-  - /glossar/blau/
+  - /en/glossar/blau/
+  - /glossary/blue/
 image_alt: Editorial glossary illustration for Blue
 relatedTerms:
   - title: Navy

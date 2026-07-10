@@ -17,9 +17,10 @@ keywords:
   - what is cargo trousers
   - cargo trousers style advice
 slug: cargo-trousers
-url: /glossary/cargo-trousers/
+url: /en/glossary/cargo-trousers/
 aliases:
-  - /glossar/cargohose/
+  - /en/glossar/cargohose/
+  - /glossary/cargo-trousers/
 image_alt: Editorial glossary illustration for Cargo Trousers
 relatedTerms:
   - title: Khaki

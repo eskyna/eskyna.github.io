@@ -17,9 +17,10 @@ keywords:
   - what is style type
   - style type style advice
 slug: style-type
-url: /glossary/style-type/
+url: /en/glossary/style-type/
 aliases:
-  - /glossar/stiltyp/
+  - /en/glossar/stiltyp/
+  - /glossary/style-type/
 image_alt: Editorial glossary illustration for Style Type
 relatedTerms:
   - title: Signature Look

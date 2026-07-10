@@ -16,9 +16,10 @@ keywords:
   - what is mary jane
   - mary jane style advice
 slug: mary-jane
-url: /glossary/mary-jane/
+url: /en/glossary/mary-jane/
 aliases:
-  - /glossar/mary-jane/
+  - /en/glossar/mary-jane/
+  - /glossary/mary-jane/
 image_alt: Editorial glossary illustration for Mary Jane
 relatedTerms:
   - title: Ballerina

@@ -16,9 +16,10 @@ keywords:
   - what is buying criteria
   - buying criteria style advice
 slug: buying-criteria
-url: /glossary/buying-criteria/
+url: /en/glossary/buying-criteria/
 aliases:
-  - /glossar/kaufkriterien/
+  - /en/glossar/kaufkriterien/
+  - /glossary/buying-criteria/
 image_alt: Editorial glossary illustration for Buying Criteria
 relatedTerms:
   - title: Wardrobe Audit

@@ -17,9 +17,10 @@ keywords:
   - what is toe shape
   - toe shape style advice
 slug: toe-shape
-url: /glossary/toe-shape/
+url: /en/glossary/toe-shape/
 aliases:
-  - /glossar/schuhspitze/
+  - /en/glossar/schuhspitze/
+  - /glossary/toe-shape/
 image_alt: Editorial glossary illustration for Toe Shape
 relatedTerms:
   - title: Capsule Wardrobe

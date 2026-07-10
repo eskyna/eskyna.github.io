@@ -16,9 +16,10 @@ keywords:
   - what is allover print
   - allover print style advice
 slug: allover-print
-url: /glossary/allover-print/
+url: /en/glossary/allover-print/
 aliases:
-  - /glossar/allover-print/
+  - /en/glossar/allover-print/
+  - /glossary/allover-print/
 image_alt: Editorial glossary illustration for Allover Print
 relatedTerms:
   - title: Material Quality

@@ -17,9 +17,10 @@ keywords:
   - what is style compass
   - style compass style advice
 slug: style-compass
-url: /glossary/style-compass/
+url: /en/glossary/style-compass/
 aliases:
-  - /glossar/stilkompass/
+  - /en/glossar/stilkompass/
+  - /glossary/style-compass/
 image_alt: Editorial glossary illustration for Style Compass
 relatedTerms:
   - title: Signature Look

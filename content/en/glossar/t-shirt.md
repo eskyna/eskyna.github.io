@@ -17,9 +17,10 @@ keywords:
   - what is t-shirt
   - t-shirt style advice
 slug: t-shirt
-url: /glossary/t-shirt/
+url: /en/glossary/t-shirt/
 aliases:
-  - /glossar/t-shirt/
+  - /en/glossar/t-shirt/
+  - /glossary/t-shirt/
 image_alt: Editorial glossary illustration for T-Shirt
 relatedTerms:
   - title: Basic

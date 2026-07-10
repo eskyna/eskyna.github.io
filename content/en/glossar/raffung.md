@@ -16,9 +16,10 @@ keywords:
   - what is gathering
   - gathering style advice
 slug: gathering
-url: /glossary/gathering/
+url: /en/glossary/gathering/
 aliases:
-  - /glossar/raffung/
+  - /en/glossar/raffung/
+  - /glossary/gathering/
 image_alt: Editorial glossary illustration for Gathering
 relatedTerms:
   - title: Material Quality

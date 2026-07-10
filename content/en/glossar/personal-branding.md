@@ -16,9 +16,10 @@ keywords:
   - what is personal branding
   - personal branding style advice
 slug: personal-branding
-url: /glossary/personal-branding/
+url: /en/glossary/personal-branding/
 aliases:
-  - /glossar/personal-branding/
+  - /en/glossar/personal-branding/
+  - /glossary/personal-branding/
 image_alt: Editorial glossary illustration for Personal Branding
 relatedTerms:
   - title: Image

@@ -16,9 +16,10 @@ keywords:
   - what is piping
   - piping style advice
 slug: piping
-url: /glossary/piping/
+url: /en/glossary/piping/
 aliases:
-  - /glossar/paspel/
+  - /en/glossar/paspel/
+  - /glossary/piping/
 image_alt: Editorial glossary illustration for Piping
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is style analysis
   - style analysis style advice
 slug: style-analysis
-url: /glossary/style-analysis/
+url: /en/glossary/style-analysis/
 aliases:
-  - /glossar/stilanalyse/
+  - /en/glossar/stilanalyse/
+  - /glossary/style-analysis/
 image_alt: Editorial glossary illustration for Style Analysis
 relatedTerms:
   - title: Signature Look

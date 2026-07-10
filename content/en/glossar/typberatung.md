@@ -17,9 +17,10 @@ keywords:
   - what is personal type consultation
   - personal type consultation style advice
 slug: personal-type-consultation
-url: /glossary/personal-type-consultation/
+url: /en/glossary/personal-type-consultation/
 aliases:
-  - /glossar/typberatung/
+  - /en/glossar/typberatung/
+  - /glossary/personal-type-consultation/
 image_alt: Editorial glossary illustration for Personal Type Consultation
 relatedTerms:
   - title: Signature Look

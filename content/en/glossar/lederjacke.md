@@ -17,9 +17,10 @@ keywords:
   - what is leather jacket
   - leather jacket style advice
 slug: leather-jacket
-url: /glossary/leather-jacket/
+url: /en/glossary/leather-jacket/
 aliases:
-  - /glossar/lederjacke/
+  - /en/glossar/lederjacke/
+  - /glossary/leather-jacket/
 image_alt: Editorial glossary illustration for Leather Jacket
 relatedTerms:
   - title: Jeans

@@ -16,9 +16,10 @@ keywords:
   - what is neck scarf
   - neck scarf style advice
 slug: neck-scarf
-url: /glossary/neck-scarf/
+url: /en/glossary/neck-scarf/
 aliases:
-  - /glossar/halstuch/
+  - /en/glossar/halstuch/
+  - /glossary/neck-scarf/
 image_alt: Editorial glossary illustration for Neck Scarf
 relatedTerms:
   - title: Material Quality

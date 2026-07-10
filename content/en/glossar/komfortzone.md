@@ -17,9 +17,10 @@ keywords:
   - what is comfort zone
   - comfort zone style advice
 slug: comfort-zone
-url: /glossary/comfort-zone/
+url: /en/glossary/comfort-zone/
 aliases:
-  - /glossar/komfortzone/
+  - /en/glossar/komfortzone/
+  - /glossary/comfort-zone/
 image_alt: Editorial glossary illustration for Comfort Zone
 relatedTerms:
   - title: Signature Look

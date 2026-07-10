@@ -17,9 +17,10 @@ keywords:
   - what is statement piece
   - statement piece style advice
 slug: statement-piece
-url: /glossary/statement-piece/
+url: /en/glossary/statement-piece/
 aliases:
-  - /glossar/statement-piece/
+  - /en/glossar/statement-piece/
+  - /glossary/statement-piece/
 image_alt: Editorial glossary illustration for Statement Piece
 relatedTerms:
   - title: Basic

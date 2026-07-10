@@ -17,9 +17,10 @@ keywords:
   - what is white
   - white style advice
 slug: white
-url: /glossary/white/
+url: /en/glossary/white/
 aliases:
-  - /glossar/weiss/
+  - /en/glossar/weiss/
+  - /glossary/white/
 image_alt: Editorial glossary illustration for White
 relatedTerms:
   - title: Beige

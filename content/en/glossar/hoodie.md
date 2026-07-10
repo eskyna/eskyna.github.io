@@ -17,9 +17,10 @@ keywords:
   - what is hoodie
   - hoodie style advice
 slug: hoodie
-url: /glossary/hoodie/
+url: /en/glossary/hoodie/
 aliases:
-  - /glossar/hoodie/
+  - /en/glossar/hoodie/
+  - /glossary/hoodie/
 image_alt: Editorial glossary illustration for Hoodie
 relatedTerms:
   - title: Sweatshirt

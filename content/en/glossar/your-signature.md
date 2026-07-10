@@ -17,9 +17,10 @@ keywords:
   - what is your signature
   - your signature style advice
 slug: your-signature
-url: /glossary/your-signature/
+url: /en/glossary/your-signature/
 aliases:
-  - /glossar/your-signature/
+  - /en/glossar/your-signature/
+  - /glossary/your-signature/
 image_alt: Editorial glossary illustration for Your Signature
 relatedTerms:
   - title: Signature Look

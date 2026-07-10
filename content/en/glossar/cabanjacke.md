@@ -17,9 +17,10 @@ keywords:
   - what is pea coat
   - pea coat style advice
 slug: pea-coat
-url: /glossary/pea-coat/
+url: /en/glossary/pea-coat/
 aliases:
-  - /glossar/cabanjacke/
+  - /en/glossar/cabanjacke/
+  - /glossary/pea-coat/
 image_alt: Editorial glossary illustration for Pea Coat
 relatedTerms:
   - title: Capsule Wardrobe

@@ -17,9 +17,10 @@ keywords:
   - what is double-breasted jacket
   - double-breasted jacket style advice
 slug: double-breasted-jacket
-url: /glossary/double-breasted-jacket/
+url: /en/glossary/double-breasted-jacket/
 aliases:
-  - /glossar/doppelreiher/
+  - /en/glossar/doppelreiher/
+  - /glossary/double-breasted-jacket/
 image_alt: Editorial glossary illustration for Double-Breasted Jacket
 relatedTerms:
   - title: Capsule Wardrobe

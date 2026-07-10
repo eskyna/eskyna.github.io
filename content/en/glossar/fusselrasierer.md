@@ -16,9 +16,10 @@ keywords:
   - what is fabric shaver
   - fabric shaver style advice
 slug: fabric-shaver
-url: /glossary/fabric-shaver/
+url: /en/glossary/fabric-shaver/
 aliases:
-  - /glossar/fusselrasierer/
+  - /en/glossar/fusselrasierer/
+  - /glossary/fabric-shaver/
 image_alt: Editorial glossary illustration for Fabric Shaver
 relatedTerms:
   - title: Material Quality

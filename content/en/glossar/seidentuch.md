@@ -16,9 +16,10 @@ keywords:
   - what is silk scarf
   - silk scarf style advice
 slug: silk-scarf
-url: /glossary/silk-scarf/
+url: /en/glossary/silk-scarf/
 aliases:
-  - /glossar/seidentuch/
+  - /en/glossar/seidentuch/
+  - /glossary/silk-scarf/
 image_alt: Editorial glossary illustration for Silk Scarf
 relatedTerms:
   - title: Material Quality

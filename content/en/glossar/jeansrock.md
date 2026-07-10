@@ -17,9 +17,10 @@ keywords:
   - what is denim skirt
   - denim skirt style advice
 slug: denim-skirt
-url: /glossary/denim-skirt/
+url: /en/glossary/denim-skirt/
 aliases:
-  - /glossar/jeansrock/
+  - /en/glossar/jeansrock/
+  - /glossary/denim-skirt/
 image_alt: Editorial glossary illustration for Denim Skirt
 relatedTerms:
   - title: Denim

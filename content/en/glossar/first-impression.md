@@ -15,9 +15,10 @@ keywords:
   - what is first impression
   - first impression style advice
 slug: first-impression
-url: /glossary/first-impression/
+url: /en/glossary/first-impression/
 aliases:
-  - /glossar/first-impression/
+  - /en/glossar/first-impression/
+  - /glossary/first-impression/
 image_alt: Editorial glossary illustration for First Impression
 relatedTerms:
   - title: Image

@@ -17,9 +17,10 @@ keywords:
   - what is undertone
   - undertone style advice
 slug: undertone
-url: /glossary/undertone/
+url: /en/glossary/undertone/
 aliases:
-  - /glossar/unterton/
+  - /en/glossar/unterton/
+  - /glossary/undertone/
 image_alt: Editorial glossary illustration for Undertone
 relatedTerms:
   - title: Color Consultation

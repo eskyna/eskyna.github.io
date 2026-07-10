@@ -16,9 +16,10 @@ keywords:
   - what is muted colors
   - muted colors style advice
 slug: muted-colors
-url: /glossary/muted-colors/
+url: /en/glossary/muted-colors/
 aliases:
-  - /glossar/gedaempfte-farben/
+  - /en/glossar/gedaempfte-farben/
+  - /glossary/muted-colors/
 image_alt: Editorial glossary illustration for Muted Colors
 relatedTerms:
   - title: Color Consultation

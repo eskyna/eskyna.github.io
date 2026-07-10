@@ -16,9 +16,10 @@ keywords:
   - what is basic
   - basic style advice
 slug: basic
-url: /glossary/basic/
+url: /en/glossary/basic/
 aliases:
-  - /glossar/basic/
+  - /en/glossar/basic/
+  - /glossary/basic/
 image_alt: Editorial glossary illustration for Basic
 relatedTerms:
   - title: Capsule Wardrobe

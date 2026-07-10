@@ -16,9 +16,10 @@ keywords:
   - what is circle skirt
   - circle skirt style advice
 slug: circle-skirt
-url: /glossary/circle-skirt/
+url: /en/glossary/circle-skirt/
 aliases:
-  - /glossar/tellerrock/
+  - /en/glossar/tellerrock/
+  - /glossary/circle-skirt/
 image_alt: Editorial glossary illustration for Circle Skirt
 relatedTerms:
   - title: Capsule Wardrobe

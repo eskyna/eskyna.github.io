@@ -16,9 +16,10 @@ keywords:
   - what is v neckline
   - v neckline style advice
 slug: v-neckline
-url: /glossary/v-neckline/
+url: /en/glossary/v-neckline/
 aliases:
-  - /glossar/v-ausschnitt/
+  - /en/glossar/v-ausschnitt/
+  - /glossary/v-neckline/
 image_alt: Editorial glossary illustration for V Neckline
 relatedTerms:
   - title: Choker

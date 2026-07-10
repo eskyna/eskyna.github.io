@@ -16,9 +16,10 @@ keywords:
   - what is elegant
   - elegant style advice
 slug: elegant
-url: /glossary/elegant/
+url: /en/glossary/elegant/
 aliases:
-  - /glossar/elegant/
+  - /en/glossar/elegant/
+  - /glossary/elegant/
 image_alt: Editorial glossary illustration for Elegant
 relatedTerms:
   - title: Signature Look

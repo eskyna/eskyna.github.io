@@ -16,9 +16,10 @@ keywords:
   - what is waist belt
   - waist belt style advice
 slug: waist-belt
-url: /glossary/waist-belt/
+url: /en/glossary/waist-belt/
 aliases:
-  - /glossar/taillenguertel/
+  - /en/glossar/taillenguertel/
+  - /glossary/waist-belt/
 image_alt: Editorial glossary illustration for Waist Belt
 relatedTerms:
   - title: Silhouette

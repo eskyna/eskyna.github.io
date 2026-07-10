@@ -16,9 +16,10 @@ keywords:
   - what is autumn color type
   - autumn color type style advice
 slug: autumn-color-type
-url: /glossary/autumn-color-type/
+url: /en/glossary/autumn-color-type/
 aliases:
-  - /glossar/herbsttyp/
+  - /en/glossar/herbsttyp/
+  - /glossary/autumn-color-type/
 image_alt: Editorial glossary illustration for Autumn Color Type
 relatedTerms:
   - title: Color Consultation

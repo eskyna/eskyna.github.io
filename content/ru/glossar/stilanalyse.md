@@ -25,8 +25,8 @@ relatedTerms:
     url: /rus/glossariy/vpechatlenie/
   - title: Анализ образа
     url: /rus/glossariy/analiz-obraza/
-  - title: Типажная консультация
-    url: /rus/glossariy/tipazhnaya-konsultatsiya/
+  - title: Консультация по типажу
+    url: /rus/glossariy/konsultatsiya-po-tipazhu/
 seoTitle: "Анализ стиля: значение и применение | Глоссарий ESKYNA"
 slug: analiz-stilya
 url: /rus/glossariy/analiz-stilya/
@@ -72,7 +72,7 @@ consulting_questions:
   - Какие вещи уже показывают нужную линию?
   - Какие детали делают образ узнаваемым, а не случайным?
 consulting_focus:
-  Анализ стиля особенно важен в консультации, когда понятие нужно перевести в конкретное решение
+  В консультации этот термин особенно важен, когда понятие нужно перевести в конкретное решение
   для одежды, впечатления или гардероба.
 ---
 
@@ -149,4 +149,4 @@ ESKYNA рассматривает принцип **Анализ стиля** к�
 - [Фирменный образ](/rus/glossariy/firmennyy-obraz/)
 - [Впечатление](/rus/glossariy/vpechatlenie/)
 - [Анализ образа](/rus/glossariy/analiz-obraza/)
-- [Типажная консультация](/rus/glossariy/tipazhnaya-konsultatsiya/)
+- [Консультация по типажу](/rus/glossariy/konsultatsiya-po-tipazhu/)

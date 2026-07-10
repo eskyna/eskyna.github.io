@@ -16,9 +16,10 @@ keywords:
   - what is turtleneck
   - turtleneck style advice
 slug: turtleneck
-url: /glossary/turtleneck/
+url: /en/glossary/turtleneck/
 aliases:
-  - /glossar/rollkragen/
+  - /en/glossar/rollkragen/
+  - /glossary/turtleneck/
 image_alt: Editorial glossary illustration for Turtleneck
 relatedTerms:
   - title: Material Quality

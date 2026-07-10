@@ -16,9 +16,10 @@ keywords:
   - what is straight leg
   - straight leg style advice
 slug: straight-leg
-url: /glossary/straight-leg/
+url: /en/glossary/straight-leg/
 aliases:
-  - /glossar/straight-leg/
+  - /en/glossar/straight-leg/
+  - /glossary/straight-leg/
 image_alt: Editorial glossary illustration for Straight Leg
 relatedTerms:
   - title: Jeans

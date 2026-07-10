@@ -17,9 +17,10 @@ keywords:
   - what is violet
   - violet style advice
 slug: violet
-url: /glossary/violet/
+url: /en/glossary/violet/
 aliases:
-  - /glossar/violett/
+  - /en/glossar/violett/
+  - /glossary/violet/
 image_alt: Editorial glossary illustration for Violet
 relatedTerms:
   - title: Fuchsia

@@ -16,9 +16,10 @@ keywords:
   - what is sports jacket
   - sports jacket style advice
 slug: sports-jacket
-url: /glossary/sports-jacket/
+url: /en/glossary/sports-jacket/
 aliases:
-  - /glossar/sakko/
+  - /en/glossar/sakko/
+  - /glossary/sports-jacket/
 image_alt: Editorial glossary illustration for Sports Jacket
 relatedTerms:
   - title: Capsule Wardrobe

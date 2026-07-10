@@ -16,9 +16,10 @@ keywords:
   - what is oversized blazer
   - oversized blazer style advice
 slug: oversized-blazer
-url: /glossary/oversized-blazer/
+url: /en/glossary/oversized-blazer/
 aliases:
-  - /glossar/oversized-blazer/
+  - /en/glossar/oversized-blazer/
+  - /glossary/oversized-blazer/
 image_alt: Editorial glossary illustration for Oversized Blazer
 relatedTerms:
   - title: Capsule Wardrobe

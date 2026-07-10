@@ -16,9 +16,10 @@ keywords:
   - what is inverted triangle
   - inverted triangle style advice
 slug: inverted-triangle
-url: /glossary/inverted-triangle/
+url: /en/glossary/inverted-triangle/
 aliases:
-  - /glossar/umgekehrtes-dreieck/
+  - /en/glossar/umgekehrtes-dreieck/
+  - /glossary/inverted-triangle/
 image_alt: Editorial glossary illustration for Inverted Triangle
 relatedTerms:
   - title: Silhouette

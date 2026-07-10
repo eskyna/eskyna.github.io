@@ -16,9 +16,10 @@ keywords:
   - what is fashion
   - fashion style advice
 slug: fashion
-url: /glossary/fashion/
+url: /en/glossary/fashion/
 aliases:
-  - /glossar/mode/
+  - /en/glossar/mode/
+  - /glossary/fashion/
 image_alt: Editorial glossary illustration for Fashion
 relatedTerms:
   - title: Signature Look

@@ -17,9 +17,10 @@ keywords:
   - what is dropped shoulder
   - dropped shoulder style advice
 slug: dropped-shoulder
-url: /glossary/dropped-shoulder/
+url: /en/glossary/dropped-shoulder/
 aliases:
-  - /glossar/dropped-shoulder/
+  - /en/glossar/dropped-shoulder/
+  - /glossary/dropped-shoulder/
 image_alt: Editorial glossary illustration for Dropped Shoulder
 relatedTerms:
   - title: Silhouette

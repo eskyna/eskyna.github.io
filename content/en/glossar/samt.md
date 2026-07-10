@@ -16,9 +16,10 @@ keywords:
   - what is velvet
   - velvet style advice
 slug: velvet
-url: /glossary/velvet/
+url: /en/glossary/velvet/
 aliases:
-  - /glossar/samt/
+  - /en/glossar/samt/
+  - /glossary/velvet/
 image_alt: Editorial glossary illustration for Velvet
 relatedTerms:
   - title: Material Quality

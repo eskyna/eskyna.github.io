@@ -16,9 +16,10 @@ keywords:
   - what is triangle silhouette
   - triangle silhouette style advice
 slug: triangle-silhouette
-url: /glossary/triangle-silhouette/
+url: /en/glossary/triangle-silhouette/
 aliases:
-  - /glossar/dreieck-silhouette/
+  - /en/glossar/dreieck-silhouette/
+  - /glossary/triangle-silhouette/
 image_alt: Editorial glossary illustration for Triangle Silhouette
 relatedTerms:
   - title: Silhouette

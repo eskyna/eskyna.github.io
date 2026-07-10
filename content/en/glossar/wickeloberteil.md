@@ -16,9 +16,10 @@ keywords:
   - what is wrap top
   - wrap top style advice
 slug: wrap-top
-url: /glossary/wrap-top/
+url: /en/glossary/wrap-top/
 aliases:
-  - /glossar/wickeloberteil/
+  - /en/glossar/wickeloberteil/
+  - /glossary/wrap-top/
 image_alt: Editorial glossary illustration for Wrap Top
 relatedTerms:
   - title: Material Quality

@@ -15,9 +15,10 @@ keywords:
   - what is pure white
   - pure white style advice
 slug: pure-white
-url: /glossary/pure-white/
+url: /en/glossary/pure-white/
 aliases:
-  - /glossar/reinweiss/
+  - /en/glossar/reinweiss/
+  - /glossary/pure-white/
 image_alt: Editorial glossary illustration for Pure White
 relatedTerms:
   - title: Color Consultation

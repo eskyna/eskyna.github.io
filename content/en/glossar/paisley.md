@@ -16,9 +16,10 @@ keywords:
   - what is paisley
   - paisley style advice
 slug: paisley
-url: /glossary/paisley/
+url: /en/glossary/paisley/
 aliases:
-  - /glossar/paisley/
+  - /en/glossar/paisley/
+  - /glossary/paisley/
 image_alt: Editorial glossary illustration for Paisley
 relatedTerms:
   - title: Material Quality

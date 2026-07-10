@@ -17,9 +17,10 @@ keywords:
   - what is personal style
   - personal style style advice
 slug: personal-style
-url: /glossary/personal-style/
+url: /en/glossary/personal-style/
 aliases:
-  - /glossar/personal-style/
+  - /en/glossar/personal-style/
+  - /glossary/personal-style/
 image_alt: Editorial glossary illustration for Personal Style
 relatedTerms:
   - title: Signature Look

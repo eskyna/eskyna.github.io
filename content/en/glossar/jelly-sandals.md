@@ -15,9 +15,10 @@ keywords:
   - what is jelly sandals
   - jelly sandals style advice
 slug: jelly-sandals
-url: /glossary/jelly-sandals/
+url: /en/glossary/jelly-sandals/
 aliases:
-  - /glossar/jelly-sandals/
+  - /en/glossar/jelly-sandals/
+  - /glossary/jelly-sandals/
 image_alt: Editorial glossary illustration for Jelly Sandals
 relatedTerms:
   - title: Ballerina

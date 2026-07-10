@@ -17,9 +17,10 @@ keywords:
   - what is maxi dress
   - maxi dress style advice
 slug: maxi-dress
-url: /glossary/maxi-dress/
+url: /en/glossary/maxi-dress/
 aliases:
-  - /glossar/maxikleid/
+  - /en/glossar/maxikleid/
+  - /glossary/maxi-dress/
 image_alt: Editorial glossary illustration for Maxi Dress
 relatedTerms:
   - title: Silhouette

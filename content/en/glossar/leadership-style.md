@@ -15,9 +15,10 @@ keywords:
   - what is leadership style
   - leadership style style advice
 slug: leadership-style
-url: /glossary/leadership-style/
+url: /en/glossary/leadership-style/
 aliases:
-  - /glossar/leadership-style/
+  - /en/glossar/leadership-style/
+  - /glossary/leadership-style/
 image_alt: Editorial glossary illustration for Leadership Style
 relatedTerms:
   - title: Executive Presence

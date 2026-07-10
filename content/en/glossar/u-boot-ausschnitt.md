@@ -16,9 +16,10 @@ keywords:
   - what is boat neck
   - boat neck style advice
 slug: boat-neck
-url: /glossary/boat-neck/
+url: /en/glossary/boat-neck/
 aliases:
-  - /glossar/u-boot-ausschnitt/
+  - /en/glossar/u-boot-ausschnitt/
+  - /glossary/boat-neck/
 image_alt: Editorial glossary illustration for Boat Neck
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is lyocell
   - lyocell style advice
 slug: lyocell
-url: /glossary/lyocell/
+url: /en/glossary/lyocell/
 aliases:
-  - /glossar/lyocell/
+  - /en/glossar/lyocell/
+  - /glossary/lyocell/
 image_alt: Editorial glossary illustration for Lyocell
 relatedTerms:
   - title: Material Quality

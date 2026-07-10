@@ -16,9 +16,10 @@ keywords:
   - what is coat
   - coat style advice
 slug: coat
-url: /glossary/coat/
+url: /en/glossary/coat/
 aliases:
-  - /glossar/mantel/
+  - /en/glossar/mantel/
+  - /glossary/coat/
 image_alt: Editorial glossary illustration for Coat
 relatedTerms:
   - title: Capsule Wardrobe

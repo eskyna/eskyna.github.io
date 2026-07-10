@@ -16,9 +16,10 @@ keywords:
   - what is tulle
   - tulle style advice
 slug: tulle
-url: /glossary/tulle/
+url: /en/glossary/tulle/
 aliases:
-  - /glossar/tuell/
+  - /en/glossar/tuell/
+  - /glossary/tulle/
 image_alt: Editorial glossary illustration for Tulle
 relatedTerms:
   - title: Material Quality

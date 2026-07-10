@@ -16,9 +16,10 @@ keywords:
   - what is western boots
   - western boots style advice
 slug: western-boots
-url: /glossary/western-boots/
+url: /en/glossary/western-boots/
 aliases:
-  - /glossar/western-boots/
+  - /en/glossar/western-boots/
+  - /glossary/western-boots/
 image_alt: Editorial glossary illustration for Western Boots
 relatedTerms:
   - title: Statement Piece

@@ -17,9 +17,10 @@ keywords:
   - what is style profile
   - style profile style advice
 slug: style-profile
-url: /glossary/style-profile/
+url: /en/glossary/style-profile/
 aliases:
-  - /glossar/stilprofil/
+  - /en/glossar/stilprofil/
+  - /glossary/style-profile/
 image_alt: Editorial glossary illustration for Style Profile
 relatedTerms:
   - title: Signature Look

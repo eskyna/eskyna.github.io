@@ -16,9 +16,10 @@ keywords:
   - what is mule
   - mule style advice
 slug: mule
-url: /glossary/mule/
+url: /en/glossary/mule/
 aliases:
-  - /glossar/mule/
+  - /en/glossar/mule/
+  - /glossary/mule/
 image_alt: Editorial glossary illustration for Mule
 relatedTerms:
   - title: Slingback

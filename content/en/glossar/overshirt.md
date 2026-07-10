@@ -17,9 +17,10 @@ keywords:
   - what is overshirt
   - overshirt style advice
 slug: overshirt
-url: /glossary/overshirt/
+url: /en/glossary/overshirt/
 aliases:
-  - /glossar/overshirt/
+  - /en/glossar/overshirt/
+  - /glossary/overshirt/
 image_alt: Editorial glossary illustration for Overshirt
 relatedTerms:
   - title: Layering

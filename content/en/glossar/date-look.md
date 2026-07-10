@@ -17,9 +17,10 @@ keywords:
   - what is date look
   - date look style advice
 slug: date-look
-url: /glossary/date-look/
+url: /en/glossary/date-look/
 aliases:
-  - /glossar/date-look/
+  - /en/glossar/date-look/
+  - /glossary/date-look/
 image_alt: Editorial glossary illustration for Date Look
 relatedTerms:
   - title: Capsule Wardrobe

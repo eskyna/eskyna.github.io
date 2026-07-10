@@ -17,9 +17,10 @@ keywords:
   - what is gold
   - gold style advice
 slug: gold
-url: /glossary/gold/
+url: /en/glossary/gold/
 aliases:
-  - /glossar/gold/
+  - /en/glossar/gold/
+  - /glossary/gold/
 image_alt: Editorial glossary illustration for Gold
 relatedTerms:
   - title: Metallic

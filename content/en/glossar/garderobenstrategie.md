@@ -17,9 +17,10 @@ keywords:
   - what is wardrobe strategy
   - wardrobe strategy style advice
 slug: wardrobe-strategy
-url: /glossary/wardrobe-strategy/
+url: /en/glossary/wardrobe-strategy/
 aliases:
-  - /glossar/garderobenstrategie/
+  - /en/glossar/garderobenstrategie/
+  - /glossary/wardrobe-strategy/
 image_alt: Editorial glossary illustration for Wardrobe Strategy
 relatedTerms:
   - title: Signature Look

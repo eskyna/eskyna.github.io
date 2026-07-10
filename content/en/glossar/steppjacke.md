@@ -17,9 +17,10 @@ keywords:
   - what is quilted jacket
   - quilted jacket style advice
 slug: quilted-jacket
-url: /glossary/quilted-jacket/
+url: /en/glossary/quilted-jacket/
 aliases:
-  - /glossar/steppjacke/
+  - /en/glossar/steppjacke/
+  - /glossary/quilted-jacket/
 image_alt: Editorial glossary illustration for Quilted Jacket
 relatedTerms:
   - title: Capsule Wardrobe

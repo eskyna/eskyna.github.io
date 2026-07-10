@@ -4,10 +4,11 @@ description: Color names and shade descriptions for more precise outfit planning
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Color Lexicon
-url: /glossary/category/color-lexicon/
+url: /en/glossary/category/color-lexicon/
 seoTitle: Color Lexicon | ESKYNA Glossary
 aliases:
-  - /glossar/kategorie/farb-lexikon/
+  - /en/glossar/kategorie/farb-lexikon/
+  - /glossary/category/color-lexicon/
 ---
 
 ## What this category covers

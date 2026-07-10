@@ -15,9 +15,10 @@ keywords:
   - what is wardrobe
   - wardrobe style advice
 slug: wardrobe
-url: /glossary/wardrobe/
+url: /en/glossary/wardrobe/
 aliases:
-  - /glossar/garderobe/
+  - /en/glossar/garderobe/
+  - /glossary/wardrobe/
 image_alt: Editorial glossary illustration for Wardrobe
 relatedTerms:
   - title: Signature Look

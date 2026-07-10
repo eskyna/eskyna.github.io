@@ -17,9 +17,10 @@ keywords:
   - what is camisole
   - camisole style advice
 slug: camisole
-url: /glossary/camisole/
+url: /en/glossary/camisole/
 aliases:
-  - /glossar/camisole/
+  - /en/glossar/camisole/
+  - /glossary/camisole/
 image_alt: Editorial glossary illustration for Camisole
 relatedTerms:
   - title: Blazer

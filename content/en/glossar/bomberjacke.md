@@ -16,9 +16,10 @@ keywords:
   - what is bomber jacket
   - bomber jacket style advice
 slug: bomber-jacket
-url: /glossary/bomber-jacket/
+url: /en/glossary/bomber-jacket/
 aliases:
-  - /glossar/bomberjacke/
+  - /en/glossar/bomberjacke/
+  - /glossary/bomber-jacket/
 image_alt: Editorial glossary illustration for Bomber Jacket
 relatedTerms:
   - title: Silhouette

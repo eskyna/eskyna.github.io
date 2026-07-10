@@ -16,9 +16,10 @@ keywords:
   - what is cowl neck
   - cowl neck style advice
 slug: cowl-neck
-url: /glossary/cowl-neck/
+url: /en/glossary/cowl-neck/
 aliases:
-  - /glossar/wasserfallausschnitt/
+  - /en/glossar/wasserfallausschnitt/
+  - /glossary/cowl-neck/
 image_alt: Editorial glossary illustration for Cowl Neck
 relatedTerms:
   - title: Material Quality

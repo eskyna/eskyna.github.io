@@ -16,9 +16,10 @@ keywords:
   - what is evening wear
   - evening wear style advice
 slug: evening-wear
-url: /glossary/evening-wear/
+url: /en/glossary/evening-wear/
 aliases:
-  - /glossar/abendgarderobe/
+  - /en/glossar/abendgarderobe/
+  - /glossary/evening-wear/
 image_alt: Editorial glossary illustration for Evening Wear
 relatedTerms:
   - title: Capsule Wardrobe

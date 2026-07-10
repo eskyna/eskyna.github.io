@@ -17,9 +17,10 @@ keywords:
   - what is black
   - black style advice
 slug: black
-url: /glossary/black/
+url: /en/glossary/black/
 aliases:
-  - /glossar/schwarz/
+  - /en/glossar/schwarz/
+  - /glossary/black/
 image_alt: Editorial glossary illustration for Black
 relatedTerms:
   - title: Navy

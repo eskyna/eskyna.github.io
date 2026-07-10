@@ -16,9 +16,10 @@ keywords:
   - what is visual elongation
   - visual elongation style advice
 slug: visual-elongation
-url: /glossary/visual-elongation/
+url: /en/glossary/visual-elongation/
 aliases:
-  - /glossar/optische-streckung/
+  - /en/glossar/optische-streckung/
+  - /glossary/visual-elongation/
 image_alt: Editorial glossary illustration for Visual Elongation
 relatedTerms:
   - title: Silhouette

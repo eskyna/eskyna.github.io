@@ -16,9 +16,10 @@ keywords:
   - what is seam appearance
   - seam appearance style advice
 slug: seam-appearance
-url: /glossary/seam-appearance/
+url: /en/glossary/seam-appearance/
 aliases:
-  - /glossar/nahtbild/
+  - /en/glossar/nahtbild/
+  - /glossary/seam-appearance/
 image_alt: Editorial glossary illustration for Seam Appearance
 relatedTerms:
   - title: Material Quality

@@ -17,9 +17,10 @@ keywords:
   - what is wardrobe logic
   - wardrobe logic style advice
 slug: wardrobe-logic
-url: /glossary/wardrobe-logic/
+url: /en/glossary/wardrobe-logic/
 aliases:
-  - /glossar/garderobenlogik/
+  - /en/glossar/garderobenlogik/
+  - /glossary/wardrobe-logic/
 image_alt: Editorial glossary illustration for Wardrobe Logic
 relatedTerms:
   - title: Capsule Wardrobe

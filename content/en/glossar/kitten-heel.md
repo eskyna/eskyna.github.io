@@ -16,9 +16,10 @@ keywords:
   - what is kitten heel
   - kitten heel style advice
 slug: kitten-heel
-url: /glossary/kitten-heel/
+url: /en/glossary/kitten-heel/
 aliases:
-  - /glossar/kitten-heel/
+  - /en/glossar/kitten-heel/
+  - /glossary/kitten-heel/
 image_alt: Editorial glossary illustration for Kitten Heel
 relatedTerms:
   - title: Pumps

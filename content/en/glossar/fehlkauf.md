@@ -16,9 +16,10 @@ keywords:
   - what is bad purchase
   - bad purchase style advice
 slug: bad-purchase
-url: /glossary/bad-purchase/
+url: /en/glossary/bad-purchase/
 aliases:
-  - /glossar/fehlkauf/
+  - /en/glossar/fehlkauf/
+  - /glossary/bad-purchase/
 image_alt: Editorial glossary illustration for Bad Purchase
 relatedTerms:
   - title: Capsule Wardrobe

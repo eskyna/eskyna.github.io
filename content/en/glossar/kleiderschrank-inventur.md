@@ -15,9 +15,10 @@ keywords:
   - what is wardrobe inventory
   - wardrobe inventory style advice
 slug: wardrobe-inventory
-url: /glossary/wardrobe-inventory/
+url: /en/glossary/wardrobe-inventory/
 aliases:
-  - /glossar/kleiderschrank-inventur/
+  - /en/glossar/kleiderschrank-inventur/
+  - /glossary/wardrobe-inventory/
 image_alt: Editorial glossary illustration for Wardrobe Inventory
 relatedTerms:
   - title: Wardrobe Audit

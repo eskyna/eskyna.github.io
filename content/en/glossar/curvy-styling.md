@@ -15,9 +15,10 @@ keywords:
   - what is curvy styling
   - curvy styling style advice
 slug: curvy-styling
-url: /glossary/curvy-styling/
+url: /en/glossary/curvy-styling/
 aliases:
-  - /glossar/curvy-styling/
+  - /en/glossar/curvy-styling/
+  - /glossary/curvy-styling/
 image_alt: Editorial glossary illustration for Curvy Styling
 relatedTerms:
   - title: Balance

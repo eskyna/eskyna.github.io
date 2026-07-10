@@ -16,9 +16,10 @@ keywords:
   - what is stretch
   - stretch style advice
 slug: stretch
-url: /glossary/stretch/
+url: /en/glossary/stretch/
 aliases:
-  - /glossar/stretch/
+  - /en/glossar/stretch/
+  - /glossary/stretch/
 image_alt: Editorial glossary illustration for Stretch
 relatedTerms:
   - title: Material Quality

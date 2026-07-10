@@ -17,9 +17,10 @@ keywords:
   - what is ballerina
   - ballerina style advice
 slug: ballerina
-url: /glossary/ballerina/
+url: /en/glossary/ballerina/
 aliases:
-  - /glossar/ballerina/
+  - /en/glossar/ballerina/
+  - /glossary/ballerina/
 image_alt: Editorial glossary illustration for Ballerina
 relatedTerms:
   - title: Slingback

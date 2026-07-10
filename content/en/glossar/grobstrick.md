@@ -16,9 +16,10 @@ keywords:
   - what is chunky knit
   - chunky knit style advice
 slug: chunky-knit
-url: /glossary/chunky-knit/
+url: /en/glossary/chunky-knit/
 aliases:
-  - /glossar/grobstrick/
+  - /en/glossar/grobstrick/
+  - /glossary/chunky-knit/
 image_alt: Editorial glossary illustration for Chunky Knit
 relatedTerms:
   - title: Material Quality

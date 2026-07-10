@@ -17,9 +17,10 @@ keywords:
   - what is classic piece
   - classic piece style advice
 slug: classic-piece
-url: /glossary/classic-piece/
+url: /en/glossary/classic-piece/
 aliases:
-  - /glossar/klassiker/
+  - /en/glossar/klassiker/
+  - /glossary/classic-piece/
 image_alt: Editorial glossary illustration for Classic Piece
 relatedTerms:
   - title: Signature Look

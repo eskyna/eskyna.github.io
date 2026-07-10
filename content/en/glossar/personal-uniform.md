@@ -15,9 +15,10 @@ keywords:
   - what is personal uniform
   - personal uniform style advice
 slug: personal-uniform
-url: /glossary/personal-uniform/
+url: /en/glossary/personal-uniform/
 aliases:
-  - /glossar/personal-uniform/
+  - /en/glossar/personal-uniform/
+  - /glossary/personal-uniform/
 image_alt: Editorial glossary illustration for Personal Uniform
 relatedTerms:
   - title: Signature Look

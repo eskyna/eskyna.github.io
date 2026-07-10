@@ -16,9 +16,10 @@ keywords:
   - what is dinner look
   - dinner look style advice
 slug: dinner-look
-url: /glossary/dinner-look/
+url: /en/glossary/dinner-look/
 aliases:
-  - /glossar/dinner-look/
+  - /en/glossar/dinner-look/
+  - /glossary/dinner-look/
 image_alt: Editorial glossary illustration for Dinner Look
 relatedTerms:
   - title: Capsule Wardrobe

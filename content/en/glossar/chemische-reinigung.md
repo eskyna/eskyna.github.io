@@ -16,9 +16,10 @@ keywords:
   - what is dry cleaning
   - dry cleaning style advice
 slug: dry-cleaning
-url: /glossary/dry-cleaning/
+url: /en/glossary/dry-cleaning/
 aliases:
-  - /glossar/chemische-reinigung/
+  - /en/glossar/chemische-reinigung/
+  - /glossary/dry-cleaning/
 image_alt: Editorial glossary illustration for Dry Cleaning
 relatedTerms:
   - title: Material Quality

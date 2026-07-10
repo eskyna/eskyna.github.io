@@ -16,9 +16,10 @@ keywords:
   - what is sunglasses
   - sunglasses style advice
 slug: sunglasses
-url: /glossary/sunglasses/
+url: /en/glossary/sunglasses/
 aliases:
-  - /glossar/sonnenbrille/
+  - /en/glossar/sonnenbrille/
+  - /glossary/sunglasses/
 image_alt: Editorial glossary illustration for Sunglasses
 relatedTerms:
   - title: Statement Piece

@@ -14,7 +14,7 @@
 {{ $dailyTermButtonText := or $sectionUI.daily_term_button_text (cond $isRuLang "Удивите меня стилем" (cond (eq .Site.Language.Lang "en") "Surprise me with style" "Überrasch mich mit Stilwissen")) }}
 {{ $dailyTermSurpriseText := or $sectionUI.daily_term_surprise_text (cond $isRuLang "Каждый день вас ждет новый стильный импульс." (cond (eq .Site.Language.Lang "en") "A new style surprise is waiting every day." "Jeden Tag wartet ein neuer Stilimpuls auf dich.")) }}
 {{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
-{{ $glossarPages := (where .RegularPages "Params.is_glossar_category" "ne" true).ByTitle }}
+{{ $glossarPages := sort (where .RegularPages "Params.is_glossar_category" "ne" true) "Params.term" "asc" }}
 {{ $featuredTermsRaw := where $glossarPages "Params.featured_glossar" true }}
 {{ $featuredTerms := first 12 (sort (sort $featuredTermsRaw "Title" "asc") "Params.featured_weight" "asc") }}
 {{ $featuredHeading := or $sectionUI.featured_heading (cond $isRuLang "Ключевые понятия для начала" (cond (eq .Site.Language.Lang "en") "Key style terms to start with" "Zentrale Stilbegriffe zum Einstieg")) }}
@@ -38,7 +38,14 @@
 {{ range $glossarPages }}
   {{ $dailyTermLinks = $dailyTermLinks | append .RelPermalink }}
 {{ end }}
-{{ $alphabetOrder := slice "0-9" "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+{{ $alphabetOrder := slice }}
+{{ if $isRuLang }}
+  {{ $alphabetOrder = slice "А" "Б" "В" "Г" "Д" "Е" "Ё" "Ж" "З" "И" "Й" "К" "Л" "М" "Н" "О" "П" "Р" "С" "Т" "У" "Ф" "Х" "Ц" "Ч" "Ш" "Щ" "Э" "Ю" "Я" "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "0-9" }}
+{{ else if eq .Site.Language.Lang "en" }}
+  {{ $alphabetOrder = slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "0-9" }}
+{{ else }}
+  {{ $alphabetOrder = slice "A" "Ä" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "Ö" "P" "Q" "R" "S" "T" "U" "Ü" "V" "W" "X" "Y" "Z" "0-9" }}
+{{ end }}
 {{ $letterGroups := newScratch }}
 {{ range $alphabetOrder }}
   {{ $letterGroups.Set . (slice) }}
@@ -49,18 +56,13 @@
   {{ $termTrimmed := strings.TrimSpace $termTitle }}
   {{ if gt (len $termTrimmed) 0 }}
     {{ $firstChar := upper (substr $termTrimmed 0 1) }}
-    {{ $normalizedChar := $firstChar }}
-    {{ $normalizedChar = replace $normalizedChar "Ä" "A" }}
-    {{ $normalizedChar = replace $normalizedChar "Ö" "O" }}
-    {{ $normalizedChar = replace $normalizedChar "Ü" "U" }}
-    {{ $normalizedChar = replace $normalizedChar "ẞ" "S" }}
-    {{ $normalizedChar = replace $normalizedChar "ß" "S" }}
-    {{ if findRE "^[0-9]$" $normalizedChar }}
-      {{ $currentTerms := $letterGroups.Get "0-9" }}
-      {{ $letterGroups.Set "0-9" ($currentTerms | append .) }}
-    {{ else if in $alphabetOrder $normalizedChar }}
-      {{ $currentTerms := $letterGroups.Get $normalizedChar }}
-      {{ $letterGroups.Set $normalizedChar ($currentTerms | append .) }}
+    {{ $groupKey := $firstChar }}
+    {{ if findRE "^[0-9]$" $firstChar }}
+      {{ $groupKey = "0-9" }}
+    {{ end }}
+    {{ if in $alphabetOrder $groupKey }}
+      {{ $currentTerms := $letterGroups.Get $groupKey }}
+      {{ $letterGroups.Set $groupKey ($currentTerms | append .) }}
     {{ else }}
       {{ if not (in $extraLetters $firstChar) }}
         {{ $extraLetters = $extraLetters | append $firstChar }}
@@ -375,7 +377,15 @@
   >
     <div class="container glossar-content-shell">
       <div class="glossar-relevance-view">
-        {{ $relevanceTerms := sort (sort $glossarPages "Title" "asc") "Params.weight" "asc" }}
+        {{ $commercialRelevanceTerms := sort (sort $commercialTermsRaw "Params.term" "asc") "Params.commercial_weight" "asc" }}
+        {{ $featuredRelevanceTermsRaw := where (where $glossarPages "Params.featured_glossar" true) "Params.commercial_intent" "ne" true }}
+        {{ $featuredRelevanceTerms := sort (sort $featuredRelevanceTermsRaw "Params.term" "asc") "Params.featured_weight" "asc" }}
+        {{ $otherRelevanceTermsRaw := where (where $glossarPages "Params.commercial_intent" "ne" true) "Params.featured_glossar" "ne" true }}
+        {{ $otherRelevanceTerms := sort (sort $otherRelevanceTermsRaw "Params.term" "asc") "Params.weight" "asc" }}
+        {{ $relevanceTerms := slice }}
+        {{ range $commercialRelevanceTerms }}{{ $relevanceTerms = $relevanceTerms | append . }}{{ end }}
+        {{ range $featuredRelevanceTerms }}{{ $relevanceTerms = $relevanceTerms | append . }}{{ end }}
+        {{ range $otherRelevanceTerms }}{{ $relevanceTerms = $relevanceTerms | append . }}{{ end }}
         <div class="glossar-relevance-group">
           <h2 class="glossar-category-heading">{{ $byRelevanceText }} <span class="glossar-group-count">{{ len $relevanceTerms }}</span></h2>
           <ul class="glossar-term-list">

@@ -16,9 +16,10 @@ keywords:
   - what is shopper
   - shopper style advice
 slug: shopper
-url: /glossary/shopper/
+url: /en/glossary/shopper/
 aliases:
-  - /glossar/shopper/
+  - /en/glossar/shopper/
+  - /glossary/shopper/
 image_alt: Editorial glossary illustration for Shopper
 relatedTerms:
   - title: Tote Bag

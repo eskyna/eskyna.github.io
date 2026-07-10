@@ -16,9 +16,10 @@ keywords:
   - what is puff sleeve
   - puff sleeve style advice
 slug: puff-sleeve
-url: /glossary/puff-sleeve/
+url: /en/glossary/puff-sleeve/
 aliases:
-  - /glossar/puffaermel/
+  - /en/glossar/puffaermel/
+  - /glossary/puff-sleeve/
 image_alt: Editorial glossary illustration for Puff Sleeve
 relatedTerms:
   - title: Silhouette

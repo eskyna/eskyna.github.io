@@ -16,9 +16,10 @@ keywords:
   - what is shoulder pads
   - shoulder pads style advice
 slug: shoulder-pads
-url: /glossary/shoulder-pads/
+url: /en/glossary/shoulder-pads/
 aliases:
-  - /glossar/schulterpolster/
+  - /en/glossar/schulterpolster/
+  - /glossary/shoulder-pads/
 image_alt: Editorial glossary illustration for Shoulder Pads
 relatedTerms:
   - title: Material Quality

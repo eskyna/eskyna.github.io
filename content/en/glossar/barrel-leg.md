@@ -16,9 +16,10 @@ keywords:
   - what is barrel leg
   - barrel leg style advice
 slug: barrel-leg
-url: /glossary/barrel-leg/
+url: /en/glossary/barrel-leg/
 aliases:
-  - /glossar/barrel-leg/
+  - /en/glossar/barrel-leg/
+  - /glossary/barrel-leg/
 image_alt: Editorial glossary illustration for Barrel Leg
 relatedTerms:
   - title: Silhouette

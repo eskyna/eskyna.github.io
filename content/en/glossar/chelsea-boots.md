@@ -16,9 +16,10 @@ keywords:
   - what is chelsea boots
   - chelsea boots style advice
 slug: chelsea-boots
-url: /glossary/chelsea-boots/
+url: /en/glossary/chelsea-boots/
 aliases:
-  - /glossar/chelsea-boots/
+  - /en/glossar/chelsea-boots/
+  - /glossary/chelsea-boots/
 image_alt: Editorial glossary illustration for Chelsea Boots
 relatedTerms:
   - title: Loafer

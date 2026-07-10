@@ -23,8 +23,8 @@ relatedTerms:
     url: /rus/glossariy/podton/
   - title: Приглушенные цвета
     url: /rus/glossariy/priglushennye-tsveta/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Цветовой паспорт
     url: /rus/glossariy/tsvetovoy-pasport/
 seoTitle: "Осенний цветотип: значение и применение | Глоссарий ESKYNA"
@@ -93,5 +93,5 @@ faq:
 - [Цветотип](/rus/glossariy/tsvetotip/)
 - [Подтон](/rus/glossariy/podton/)
 - [Приглушенные цвета](/rus/glossariy/priglushennye-tsveta/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Цветовой паспорт](/rus/glossariy/tsvetovoy-pasport/)

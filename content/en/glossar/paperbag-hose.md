@@ -16,9 +16,10 @@ keywords:
   - what is paperbag trousers
   - paperbag trousers style advice
 slug: paperbag-trousers
-url: /glossary/paperbag-trousers/
+url: /en/glossary/paperbag-trousers/
 aliases:
-  - /glossar/paperbag-hose/
+  - /en/glossar/paperbag-hose/
+  - /glossary/paperbag-trousers/
 image_alt: Editorial glossary illustration for Paperbag Trousers
 relatedTerms:
   - title: Proportion

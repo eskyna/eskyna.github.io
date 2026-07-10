@@ -16,9 +16,10 @@ keywords:
   - what is button placket
   - button placket style advice
 slug: button-placket
-url: /glossary/button-placket/
+url: /en/glossary/button-placket/
 aliases:
-  - /glossar/knopfleiste/
+  - /en/glossar/knopfleiste/
+  - /glossary/button-placket/
 image_alt: Editorial glossary illustration for Button Placket
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is low waist
   - low waist style advice
 slug: low-waist
-url: /glossary/low-waist/
+url: /en/glossary/low-waist/
 aliases:
-  - /glossar/low-waist/
+  - /en/glossar/low-waist/
+  - /glossary/low-waist/
 image_alt: Editorial glossary illustration for Low Waist
 relatedTerms:
   - title: Silhouette

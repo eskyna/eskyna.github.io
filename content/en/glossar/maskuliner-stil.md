@@ -17,9 +17,10 @@ keywords:
   - what is masculine style
   - masculine style style advice
 slug: masculine-style
-url: /glossary/masculine-style/
+url: /en/glossary/masculine-style/
 aliases:
-  - /glossar/maskuliner-stil/
+  - /en/glossar/maskuliner-stil/
+  - /glossary/masculine-style/
 image_alt: Editorial glossary illustration for Masculine Style
 relatedTerms:
   - title: Signature Look

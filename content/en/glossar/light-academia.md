@@ -16,9 +16,10 @@ keywords:
   - what is light academia
   - light academia style advice
 slug: light-academia
-url: /glossary/light-academia/
+url: /en/glossary/light-academia/
 aliases:
-  - /glossar/light-academia/
+  - /en/glossar/light-academia/
+  - /glossary/light-academia/
 image_alt: Editorial glossary illustration for Light Academia
 relatedTerms:
   - title: Dark Academia

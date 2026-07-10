@@ -15,9 +15,10 @@ keywords:
   - what is impact
   - impact style advice
 slug: impact
-url: /glossary/impact/
+url: /en/glossary/impact/
 aliases:
-  - /glossar/wirkung/
+  - /en/glossar/wirkung/
+  - /glossary/impact/
 image_alt: Editorial glossary illustration for Impact
 relatedTerms:
   - title: Signature Look

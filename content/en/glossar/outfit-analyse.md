@@ -17,9 +17,10 @@ keywords:
   - what is outfit analysis
   - outfit analysis style advice
 slug: outfit-analysis
-url: /glossary/outfit-analysis/
+url: /en/glossary/outfit-analysis/
 aliases:
-  - /glossar/outfit-analyse/
+  - /en/glossar/outfit-analyse/
+  - /glossary/outfit-analysis/
 image_alt: Editorial glossary illustration for Outfit Analysis
 relatedTerms:
   - title: Signature Look

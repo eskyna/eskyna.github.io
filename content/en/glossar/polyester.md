@@ -16,9 +16,10 @@ keywords:
   - what is polyester
   - polyester style advice
 slug: polyester
-url: /glossary/polyester/
+url: /en/glossary/polyester/
 aliases:
-  - /glossar/polyester/
+  - /en/glossar/polyester/
+  - /glossary/polyester/
 image_alt: Editorial glossary illustration for Polyester
 relatedTerms:
   - title: Material Quality

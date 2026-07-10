@@ -16,9 +16,10 @@ keywords:
   - what is empire dress
   - empire dress style advice
 slug: empire-dress
-url: /glossary/empire-dress/
+url: /en/glossary/empire-dress/
 aliases:
-  - /glossar/empire-kleid/
+  - /en/glossar/empire-kleid/
+  - /glossary/empire-dress/
 image_alt: Editorial glossary illustration for Empire Dress
 relatedTerms:
   - title: Capsule Wardrobe

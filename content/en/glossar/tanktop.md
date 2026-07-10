@@ -17,9 +17,10 @@ keywords:
   - what is tanktop
   - tanktop style advice
 slug: tanktop
-url: /glossary/tanktop/
+url: /en/glossary/tanktop/
 aliases:
-  - /glossar/tanktop/
+  - /en/glossar/tanktop/
+  - /glossary/tanktop/
 image_alt: Editorial glossary illustration for Tanktop
 relatedTerms:
   - title: T-Shirt

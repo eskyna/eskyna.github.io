@@ -16,9 +16,10 @@ keywords:
   - what is twinset
   - twinset style advice
 slug: twinset
-url: /glossary/twinset/
+url: /en/glossary/twinset/
 aliases:
-  - /glossar/twinset/
+  - /en/glossar/twinset/
+  - /glossary/twinset/
 image_alt: Editorial glossary illustration for Twinset
 relatedTerms:
   - title: Material Quality

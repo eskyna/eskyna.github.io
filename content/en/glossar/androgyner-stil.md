@@ -16,9 +16,10 @@ keywords:
   - what is androgynous style
   - androgynous style style advice
 slug: androgynous-style
-url: /glossary/androgynous-style/
+url: /en/glossary/androgynous-style/
 aliases:
-  - /glossar/androgyner-stil/
+  - /en/glossar/androgyner-stil/
+  - /glossary/androgynous-style/
 image_alt: Editorial glossary illustration for Androgynous Style
 relatedTerms:
   - title: Signature Look

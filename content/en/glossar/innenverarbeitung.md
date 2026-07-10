@@ -17,9 +17,10 @@ keywords:
   - what is inner construction
   - inner construction style advice
 slug: inner-construction
-url: /glossary/inner-construction/
+url: /en/glossary/inner-construction/
 aliases:
-  - /glossar/innenverarbeitung/
+  - /en/glossar/innenverarbeitung/
+  - /glossary/inner-construction/
 image_alt: Editorial glossary illustration for Inner Construction
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is body shape
   - body shape style advice
 slug: body-shape
-url: /glossary/body-shape/
+url: /en/glossary/body-shape/
 aliases:
-  - /glossar/koerperform/
+  - /en/glossar/koerperform/
+  - /glossary/body-shape/
 image_alt: Editorial glossary illustration for Body Shape
 relatedTerms:
   - title: Signature Look

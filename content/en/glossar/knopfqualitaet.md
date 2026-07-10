@@ -16,9 +16,10 @@ keywords:
   - what is button quality
   - button quality style advice
 slug: button-quality
-url: /glossary/button-quality/
+url: /en/glossary/button-quality/
 aliases:
-  - /glossar/knopfqualitaet/
+  - /en/glossar/knopfqualitaet/
+  - /glossary/button-quality/
 image_alt: Editorial glossary illustration for Button Quality
 relatedTerms:
   - title: Material Quality

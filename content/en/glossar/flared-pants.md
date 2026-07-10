@@ -16,9 +16,10 @@ keywords:
   - what is flared pants
   - flared pants style advice
 slug: flared-pants
-url: /glossary/flared-pants/
+url: /en/glossary/flared-pants/
 aliases:
-  - /glossar/flared-pants/
+  - /en/glossar/flared-pants/
+  - /glossary/flared-pants/
 image_alt: Editorial glossary illustration for Flared Pants
 relatedTerms:
   - title: Bootcut

@@ -15,9 +15,10 @@ keywords:
   - what is leg length
   - leg length style advice
 slug: leg-length
-url: /glossary/leg-length/
+url: /en/glossary/leg-length/
 aliases:
-  - /glossar/beinlaenge/
+  - /en/glossar/beinlaenge/
+  - /glossary/leg-length/
 image_alt: Editorial glossary illustration for Leg Length
 relatedTerms:
   - title: High Waist

@@ -26,8 +26,8 @@ relatedTerms:
     url: /rus/glossariy/rozovyy/
   - title: Синий
     url: /rus/glossariy/siniy/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Насыщенность цвета
     url: /rus/glossariy/nasyshchennost-tsveta/
   - title: Сирень
@@ -99,5 +99,5 @@ faq:
 - [Розовый](/rus/glossariy/rozovyy-pink/)
 - [Розовый](/rus/glossariy/rozovyy/)
 - [Синий](/rus/glossariy/siniy/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Насыщенность цвета](/rus/glossariy/nasyshchennost-tsveta/)

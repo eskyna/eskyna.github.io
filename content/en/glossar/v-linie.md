@@ -17,9 +17,10 @@ keywords:
   - what is v-line
   - v-line style advice
 slug: v-line
-url: /glossary/v-line/
+url: /en/glossary/v-line/
 aliases:
-  - /glossar/v-linie/
+  - /en/glossar/v-linie/
+  - /glossary/v-line/
 image_alt: Editorial glossary illustration for V-Line
 relatedTerms:
   - title: Silhouette

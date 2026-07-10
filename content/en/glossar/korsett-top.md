@@ -16,9 +16,10 @@ keywords:
   - what is corset top
   - corset top style advice
 slug: corset-top
-url: /glossary/corset-top/
+url: /en/glossary/corset-top/
 aliases:
-  - /glossar/korsett-top/
+  - /en/glossar/korsett-top/
+  - /glossary/corset-top/
 image_alt: Editorial glossary illustration for Corset Top
 relatedTerms:
   - title: Material Quality

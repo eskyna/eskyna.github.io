@@ -16,9 +16,10 @@ keywords:
   - what is watch
   - watch style advice
 slug: watch
-url: /glossary/watch/
+url: /en/glossary/watch/
 aliases:
-  - /glossar/uhr/
+  - /en/glossar/uhr/
+  - /glossary/watch/
 image_alt: Editorial glossary illustration for Watch
 relatedTerms:
   - title: Gold

@@ -17,9 +17,10 @@ keywords:
   - what is mini dress
   - mini dress style advice
 slug: mini-dress
-url: /glossary/mini-dress/
+url: /en/glossary/mini-dress/
 aliases:
-  - /glossar/minikleid/
+  - /en/glossar/minikleid/
+  - /glossary/mini-dress/
 image_alt: Editorial glossary illustration for Mini Dress
 relatedTerms:
   - title: Blazer

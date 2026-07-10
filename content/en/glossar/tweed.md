@@ -16,9 +16,10 @@ keywords:
   - what is tweed
   - tweed style advice
 slug: tweed
-url: /glossary/tweed/
+url: /en/glossary/tweed/
 aliases:
-  - /glossar/tweed/
+  - /en/glossar/tweed/
+  - /glossary/tweed/
 image_alt: Editorial glossary illustration for Tweed
 relatedTerms:
   - title: Material Quality

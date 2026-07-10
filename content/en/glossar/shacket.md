@@ -17,9 +17,10 @@ keywords:
   - what is shacket
   - shacket style advice
 slug: shacket
-url: /glossary/shacket/
+url: /en/glossary/shacket/
 aliases:
-  - /glossar/shacket/
+  - /en/glossar/shacket/
+  - /glossary/shacket/
 image_alt: Editorial glossary illustration for Shacket
 relatedTerms:
   - title: Capsule Wardrobe

@@ -17,9 +17,10 @@ keywords:
   - what is volume
   - volume style advice
 slug: volume
-url: /glossary/volume/
+url: /en/glossary/volume/
 aliases:
-  - /glossar/volumen/
+  - /en/glossar/volumen/
+  - /glossary/volume/
 image_alt: Editorial glossary illustration for Volume
 relatedTerms:
   - title: Silhouette

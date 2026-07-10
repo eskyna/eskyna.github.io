@@ -16,9 +16,10 @@ keywords:
   - what is steaming
   - steaming style advice
 slug: steaming
-url: /glossary/steaming/
+url: /en/glossary/steaming/
 aliases:
-  - /glossar/dampfen/
+  - /en/glossar/dampfen/
+  - /glossary/steaming/
 image_alt: Editorial glossary illustration for Steaming
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is volume distribution
   - volume distribution style advice
 slug: volume-distribution
-url: /glossary/volume-distribution/
+url: /en/glossary/volume-distribution/
 aliases:
-  - /glossar/volumenverteilung/
+  - /en/glossar/volumenverteilung/
+  - /glossary/volume-distribution/
 image_alt: Editorial glossary illustration for Volume Distribution
 relatedTerms:
   - title: Signature Look

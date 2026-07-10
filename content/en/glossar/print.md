@@ -16,9 +16,10 @@ keywords:
   - what is print
   - print style advice
 slug: print
-url: /glossary/print/
+url: /en/glossary/print/
 aliases:
-  - /glossar/print/
+  - /en/glossar/print/
+  - /glossary/print/
 image_alt: Editorial glossary illustration for Print
 relatedTerms:
   - title: Material Quality

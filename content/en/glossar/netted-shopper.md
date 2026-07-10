@@ -15,9 +15,10 @@ keywords:
   - what is netted shopper
   - netted shopper style advice
 slug: netted-shopper
-url: /glossary/netted-shopper/
+url: /en/glossary/netted-shopper/
 aliases:
-  - /glossar/netted-shopper/
+  - /en/glossar/netted-shopper/
+  - /glossary/netted-shopper/
 image_alt: Editorial glossary illustration for Netted Shopper
 relatedTerms:
   - title: Shopper

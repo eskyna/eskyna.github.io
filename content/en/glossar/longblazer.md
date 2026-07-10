@@ -16,9 +16,10 @@ keywords:
   - what is long blazer
   - long blazer style advice
 slug: long-blazer
-url: /glossary/long-blazer/
+url: /en/glossary/long-blazer/
 aliases:
-  - /glossar/longblazer/
+  - /en/glossar/longblazer/
+  - /glossary/long-blazer/
 image_alt: Editorial glossary illustration for Long Blazer
 relatedTerms:
   - title: Capsule Wardrobe

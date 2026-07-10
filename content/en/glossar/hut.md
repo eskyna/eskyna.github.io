@@ -17,9 +17,10 @@ keywords:
   - what is hat
   - hat style advice
 slug: hat
-url: /glossary/hat/
+url: /en/glossary/hat/
 aliases:
-  - /glossar/hut/
+  - /en/glossar/hut/
+  - /glossary/hat/
 image_alt: Editorial glossary illustration for Hat
 relatedTerms:
   - title: Cap

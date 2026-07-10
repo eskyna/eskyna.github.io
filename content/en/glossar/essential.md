@@ -16,9 +16,10 @@ keywords:
   - what is essential
   - essential style advice
 slug: essential
-url: /glossary/essential/
+url: /en/glossary/essential/
 aliases:
-  - /glossar/essential/
+  - /en/glossar/essential/
+  - /glossary/essential/
 image_alt: Editorial glossary illustration for Essential
 relatedTerms:
   - title: Signature Look

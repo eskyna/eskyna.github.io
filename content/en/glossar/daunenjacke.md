@@ -16,9 +16,10 @@ keywords:
   - what is down jacket
   - down jacket style advice
 slug: down-jacket
-url: /glossary/down-jacket/
+url: /en/glossary/down-jacket/
 aliases:
-  - /glossar/daunenjacke/
+  - /en/glossar/daunenjacke/
+  - /glossary/down-jacket/
 image_alt: Editorial glossary illustration for Down Jacket
 relatedTerms:
   - title: Capsule Wardrobe

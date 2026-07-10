@@ -16,9 +16,10 @@ keywords:
   - what is layering
   - layering style advice
 slug: layering
-url: /glossary/layering/
+url: /en/glossary/layering/
 aliases:
-  - /glossar/layering/
+  - /en/glossar/layering/
+  - /glossary/layering/
 image_alt: Editorial glossary illustration for Layering
 relatedTerms:
   - title: Silhouette

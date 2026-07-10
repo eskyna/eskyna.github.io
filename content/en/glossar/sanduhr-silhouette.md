@@ -16,9 +16,10 @@ keywords:
   - what is hourglass silhouette
   - hourglass silhouette style advice
 slug: hourglass-silhouette
-url: /glossary/hourglass-silhouette/
+url: /en/glossary/hourglass-silhouette/
 aliases:
-  - /glossar/sanduhr-silhouette/
+  - /en/glossar/sanduhr-silhouette/
+  - /glossary/hourglass-silhouette/
 image_alt: Editorial glossary illustration for Hourglass Silhouette
 relatedTerms:
   - title: Silhouette

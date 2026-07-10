@@ -16,9 +16,10 @@ keywords:
   - what is wool
   - wool style advice
 slug: wool
-url: /glossary/wool/
+url: /en/glossary/wool/
 aliases:
-  - /glossar/wolle/
+  - /en/glossar/wolle/
+  - /glossary/wool/
 image_alt: Editorial glossary illustration for Wool
 relatedTerms:
   - title: Material Quality

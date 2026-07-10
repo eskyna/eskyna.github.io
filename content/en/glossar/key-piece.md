@@ -17,9 +17,10 @@ keywords:
   - what is key piece
   - key piece style advice
 slug: key-piece
-url: /glossary/key-piece/
+url: /en/glossary/key-piece/
 aliases:
-  - /glossar/key-piece/
+  - /en/glossar/key-piece/
+  - /glossary/key-piece/
 image_alt: Editorial glossary illustration for Key Piece
 relatedTerms:
   - title: Blazer

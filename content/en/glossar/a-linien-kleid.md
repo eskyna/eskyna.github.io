@@ -16,9 +16,10 @@ keywords:
   - what is a-line dress
   - a-line dress style advice
 slug: a-line-dress
-url: /glossary/a-line-dress/
+url: /en/glossary/a-line-dress/
 aliases:
-  - /glossar/a-linien-kleid/
+  - /en/glossar/a-linien-kleid/
+  - /glossary/a-line-dress/
 image_alt: Editorial glossary illustration for A-Line Dress
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is hand wash
   - hand wash style advice
 slug: hand-wash
-url: /glossary/hand-wash/
+url: /en/glossary/hand-wash/
 aliases:
-  - /glossar/handwaesche/
+  - /en/glossar/handwaesche/
+  - /glossary/hand-wash/
 image_alt: Editorial glossary illustration for Hand Wash
 relatedTerms:
   - title: Material Quality

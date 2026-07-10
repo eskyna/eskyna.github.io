@@ -16,9 +16,10 @@ keywords:
   - what is lace
   - lace style advice
 slug: lace
-url: /glossary/lace/
+url: /en/glossary/lace/
 aliases:
-  - /glossar/spitze/
+  - /en/glossar/spitze/
+  - /glossary/lace/
 image_alt: Editorial glossary illustration for Lace
 relatedTerms:
   - title: Material Quality

@@ -16,9 +16,10 @@ keywords:
   - what is bustier
   - bustier style advice
 slug: bustier
-url: /glossary/bustier/
+url: /en/glossary/bustier/
 aliases:
-  - /glossar/bustier/
+  - /en/glossar/bustier/
+  - /glossary/bustier/
 image_alt: Editorial glossary illustration for Bustier
 relatedTerms:
   - title: Material Quality

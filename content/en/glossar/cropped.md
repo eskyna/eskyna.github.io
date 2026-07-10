@@ -16,9 +16,10 @@ keywords:
   - what is cropped
   - cropped style advice
 slug: cropped
-url: /glossary/cropped/
+url: /en/glossary/cropped/
 aliases:
-  - /glossar/cropped/
+  - /en/glossar/cropped/
+  - /glossary/cropped/
 image_alt: Editorial glossary illustration for Cropped
 relatedTerms:
   - title: Silhouette

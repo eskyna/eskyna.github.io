@@ -16,9 +16,10 @@ keywords:
   - what is hem finish
   - hem finish style advice
 slug: hem-finish
-url: /glossary/hem-finish/
+url: /en/glossary/hem-finish/
 aliases:
-  - /glossar/saumverarbeitung/
+  - /en/glossar/saumverarbeitung/
+  - /glossary/hem-finish/
 image_alt: Editorial glossary illustration for Hem Finish
 relatedTerms:
   - title: Material Quality

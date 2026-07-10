@@ -15,9 +15,10 @@ keywords:
   - what is fit
   - fit style advice
 slug: fit
-url: /glossary/fit/
+url: /en/glossary/fit/
 aliases:
-  - /glossar/passform/
+  - /en/glossar/passform/
+  - /glossary/fit/
 image_alt: Editorial glossary illustration for Fit
 relatedTerms:
   - title: Silhouette

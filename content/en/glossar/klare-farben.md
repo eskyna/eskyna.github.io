@@ -16,9 +16,10 @@ keywords:
   - what is clear colors
   - clear colors style advice
 slug: clear-colors
-url: /glossary/clear-colors/
+url: /en/glossary/clear-colors/
 aliases:
-  - /glossar/klare-farben/
+  - /en/glossar/klare-farben/
+  - /glossary/clear-colors/
 image_alt: Editorial glossary illustration for Clear Colors
 relatedTerms:
   - title: Color Consultation

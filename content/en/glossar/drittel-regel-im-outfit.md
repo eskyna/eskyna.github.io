@@ -15,9 +15,10 @@ keywords:
   - what is rule of thirds in outfits
   - rule of thirds in outfits style advice
 slug: rule-of-thirds-in-outfits
-url: /glossary/rule-of-thirds-in-outfits/
+url: /en/glossary/rule-of-thirds-in-outfits/
 aliases:
-  - /glossar/drittel-regel-im-outfit/
+  - /en/glossar/drittel-regel-im-outfit/
+  - /glossary/rule-of-thirds-in-outfits/
 image_alt: Editorial glossary illustration for Rule of Thirds in Outfits
 relatedTerms:
   - title: Proportion

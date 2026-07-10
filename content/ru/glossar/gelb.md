@@ -26,8 +26,8 @@ relatedTerms:
     url: /rus/glossariy/oranzhevyy/
   - title: Акцентный цвет
     url: /rus/glossariy/aktsentnyy-tsvet/
-  - title: Температура цвета
-    url: /rus/glossariy/temperatura-tsveta/
+  - title: Цветовая температура
+    url: /rus/glossariy/tsvetovaya-temperatura/
   - title: Насыщенность цвета
     url: /rus/glossariy/nasyshchennost-tsveta/
 seoTitle: "Жёлтый: значение и применение | Глоссарий ESKYNA"
@@ -95,5 +95,5 @@ faq:
 - [Горчичный](/rus/glossariy/gorchichnyy/)
 - [Оранжевый](/rus/glossariy/oranzhevyy/)
 - [Акцентный цвет](/rus/glossariy/aktsentnyy-tsvet/)
-- [Температура цвета](/rus/glossariy/temperatura-tsveta/)
+- [Цветовая температура](/rus/glossariy/tsvetovaya-temperatura/)
 - [Насыщенность цвета](/rus/glossariy/nasyshchennost-tsveta/)

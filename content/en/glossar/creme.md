@@ -17,9 +17,10 @@ keywords:
   - what is cream
   - cream style advice
 slug: cream
-url: /glossary/cream/
+url: /en/glossary/cream/
 aliases:
-  - /glossar/creme/
+  - /en/glossar/creme/
+  - /glossary/cream/
 image_alt: Editorial glossary illustration for Cream
 relatedTerms:
   - title: Beige

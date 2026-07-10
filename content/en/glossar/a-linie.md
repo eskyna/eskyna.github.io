@@ -17,9 +17,10 @@ keywords:
   - what is a-line
   - a-line style advice
 slug: a-line
-url: /glossary/a-line/
+url: /en/glossary/a-line/
 aliases:
-  - /glossar/a-linie/
+  - /en/glossar/a-linie/
+  - /glossary/a-line/
 image_alt: Editorial glossary illustration for A-Line
 relatedTerms:
   - title: Proportion

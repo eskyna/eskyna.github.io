@@ -17,9 +17,10 @@ keywords:
   - what is single-breasted jacket
   - single-breasted jacket style advice
 slug: single-breasted-jacket
-url: /glossary/single-breasted-jacket/
+url: /en/glossary/single-breasted-jacket/
 aliases:
-  - /glossar/einreiher/
+  - /en/glossar/einreiher/
+  - /glossary/single-breasted-jacket/
 image_alt: Editorial glossary illustration for Single-Breasted Jacket
 relatedTerms:
   - title: Capsule Wardrobe

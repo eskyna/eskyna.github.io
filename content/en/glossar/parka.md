@@ -16,9 +16,10 @@ keywords:
   - what is parka
   - parka style advice
 slug: parka
-url: /glossary/parka/
+url: /en/glossary/parka/
 aliases:
-  - /glossar/parka/
+  - /en/glossar/parka/
+  - /glossary/parka/
 image_alt: Editorial glossary illustration for Parka
 relatedTerms:
   - title: Capsule Wardrobe

@@ -16,9 +16,10 @@ keywords:
   - what is complementary colors
   - complementary colors style advice
 slug: complementary-colors
-url: /glossary/complementary-colors/
+url: /en/glossary/complementary-colors/
 aliases:
-  - /glossar/komplementaerfarben/
+  - /en/glossar/komplementaerfarben/
+  - /glossary/complementary-colors/
 image_alt: Editorial glossary illustration for Complementary Colors
 relatedTerms:
   - title: Color Consultation

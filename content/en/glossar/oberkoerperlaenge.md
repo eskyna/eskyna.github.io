@@ -15,9 +15,10 @@ keywords:
   - what is torso length
   - torso length style advice
 slug: torso-length
-url: /glossary/torso-length/
+url: /en/glossary/torso-length/
 aliases:
-  - /glossar/oberkoerperlaenge/
+  - /en/glossar/oberkoerperlaenge/
+  - /glossary/torso-length/
 image_alt: Editorial glossary illustration for Torso Length
 relatedTerms:
   - title: Proportion

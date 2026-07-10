@@ -16,9 +16,10 @@ keywords:
   - what is neckline effect
   - neckline effect style advice
 slug: neckline-effect
-url: /glossary/neckline-effect/
+url: /en/glossary/neckline-effect/
 aliases:
-  - /glossar/ausschnittwirkung/
+  - /en/glossar/ausschnittwirkung/
+  - /glossary/neckline-effect/
 image_alt: Editorial glossary illustration for Neckline Effect
 relatedTerms:
   - title: Silhouette

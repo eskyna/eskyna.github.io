@@ -15,9 +15,10 @@ keywords:
   - what is gorpcore
   - gorpcore style advice
 slug: gorpcore
-url: /glossary/gorpcore/
+url: /en/glossary/gorpcore/
 aliases:
-  - /glossar/gorpcore/
+  - /en/glossar/gorpcore/
+  - /glossary/gorpcore/
 image_alt: Editorial glossary illustration for Gorpcore
 relatedTerms:
   - title: Utility Jacket

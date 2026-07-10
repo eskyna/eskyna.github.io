@@ -17,9 +17,10 @@ keywords:
   - what is petrol blue
   - petrol blue style advice
 slug: petrol-blue
-url: /glossary/petrol-blue/
+url: /en/glossary/petrol-blue/
 aliases:
-  - /glossar/petrol/
+  - /en/glossar/petrol/
+  - /glossary/petrol-blue/
 image_alt: Editorial glossary illustration for Petrol Blue
 relatedTerms:
   - title: Navy

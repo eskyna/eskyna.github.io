@@ -15,9 +15,10 @@ keywords:
   - what is circular fashion
   - circular fashion style advice
 slug: circular-fashion
-url: /glossary/circular-fashion/
+url: /en/glossary/circular-fashion/
 aliases:
-  - /glossar/circular-fashion/
+  - /en/glossar/circular-fashion/
+  - /glossary/circular-fashion/
 image_alt: Editorial glossary illustration for Circular Fashion
 relatedTerms:
   - title: Slow Fashion

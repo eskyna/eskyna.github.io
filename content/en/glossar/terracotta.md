@@ -17,9 +17,10 @@ keywords:
   - what is terracotta
   - terracotta style advice
 slug: terracotta
-url: /glossary/terracotta/
+url: /en/glossary/terracotta/
 aliases:
-  - /glossar/terracotta/
+  - /en/glossar/terracotta/
+  - /glossary/terracotta/
 image_alt: Editorial glossary illustration for Terracotta
 relatedTerms:
   - title: Orange

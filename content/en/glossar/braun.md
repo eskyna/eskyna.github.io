@@ -17,9 +17,10 @@ keywords:
   - what is brown
   - brown style advice
 slug: brown
-url: /glossary/brown/
+url: /en/glossary/brown/
 aliases:
-  - /glossar/braun/
+  - /en/glossar/braun/
+  - /glossary/brown/
 image_alt: Editorial glossary illustration for Brown
 relatedTerms:
   - title: Beige
