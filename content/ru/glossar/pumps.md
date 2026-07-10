@@ -16,7 +16,7 @@ keywords:
   - лодочки в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/лодочки.png
+image: images/glossar/pumps.png
 image_alt: "Иллюстрация глоссария ESKYNA: Лодочки"
 relatedTerms:
   - title: Бизнес-кэжуал

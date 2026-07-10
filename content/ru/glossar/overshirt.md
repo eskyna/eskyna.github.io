@@ -16,7 +16,7 @@ keywords:
   - рубашка-куртка в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/рубашка-куртка.png
+image: images/glossar/overshirt.png
 image_alt: "Иллюстрация глоссария ESKYNA: Рубашка-куртка"
 relatedTerms:
   - title: Рубашка

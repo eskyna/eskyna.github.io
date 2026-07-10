@@ -16,7 +16,7 @@ keywords:
   - джоггеры в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/джоггеры.png
+image: images/glossar/jogpants.png
 image_alt: "Иллюстрация глоссария ESKYNA: Джоггеры"
 relatedTerms:
   - title: Зауженная посадка

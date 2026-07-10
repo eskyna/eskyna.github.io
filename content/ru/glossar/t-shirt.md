@@ -16,7 +16,7 @@ keywords:
   - футболка в стиле
   - глоссарий ESKYNA
 weight: 16
-image: images/glossar/футболка.png
+image: images/glossar/t-shirt.png
 image_alt: "Иллюстрация глоссария ESKYNA: Футболка"
 relatedTerms:
   - title: Базовый предмет

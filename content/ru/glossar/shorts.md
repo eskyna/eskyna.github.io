@@ -14,7 +14,7 @@ keywords:
   - шорты в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/шорты.png
+image: images/glossar/shorts.png
 image_alt: "Иллюстрация глоссария ESKYNA: Шорты"
 relatedTerms:
   - title: Бермуды

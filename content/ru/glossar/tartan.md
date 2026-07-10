@@ -16,7 +16,7 @@ keywords:
   - тартан в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/тартан.png
+image: images/glossar/tartan.png
 image_alt: "Иллюстрация глоссария ESKYNA: Тартан"
 relatedTerms:
   - title: Пластика материала

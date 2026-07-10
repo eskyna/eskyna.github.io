@@ -16,7 +16,7 @@ keywords:
   - модал в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/модал.png
+image: images/glossar/modal.png
 image_alt: "Иллюстрация глоссария ESKYNA: Модал"
 relatedTerms:
   - title: Пластика материала

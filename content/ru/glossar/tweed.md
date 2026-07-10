@@ -14,7 +14,7 @@ keywords:
   - твид в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/твид.png
+image: images/glossar/tweed.png
 image_alt: "Иллюстрация глоссария ESKYNA: Твид"
 relatedTerms:
   - title: Пластика материала

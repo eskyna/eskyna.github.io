@@ -16,7 +16,7 @@ keywords:
   - свитшот в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/свитшот.png
+image: images/glossar/sweatshirt.png
 image_alt: "Иллюстрация глоссария ESKYNA: Свитшот"
 relatedTerms:
   - title: Худи

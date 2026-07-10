@@ -16,7 +16,7 @@ keywords:
   - пиллинг ткани в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/пиллинг ткани.png
+image: images/glossar/pilling.png
 image_alt: "Иллюстрация глоссария ESKYNA: Пиллинг ткани"
 relatedTerms:
   - title: Пластика материала

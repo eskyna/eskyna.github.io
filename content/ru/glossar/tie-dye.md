@@ -16,7 +16,7 @@ keywords:
   - тай-дай в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/тай-дай.png
+image: images/glossar/tie-dye.png
 image_alt: "Иллюстрация глоссария ESKYNA: Тай-дай"
 relatedTerms:
   - title: Пластика материала

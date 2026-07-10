@@ -14,7 +14,7 @@ keywords:
   - удлиненный крой в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/удлиненный крой.png
+image: images/glossar/longline.png
 image_alt: "Иллюстрация глоссария ESKYNA: Удлиненный крой"
 relatedTerms:
   - title: Посадка

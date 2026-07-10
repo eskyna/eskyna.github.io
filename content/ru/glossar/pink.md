@@ -15,7 +15,7 @@ keywords:
   - ярко-розовый в стиле
   - глоссарий ESKYNA
 weight: 14
-image: images/glossar/розовый.png
+image: images/glossar/pink.png
 image_alt: "Иллюстрация глоссария ESKYNA: Ярко-розовый"
 relatedTerms:
   - title: Ярко-розовый

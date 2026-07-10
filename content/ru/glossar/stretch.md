@@ -16,7 +16,7 @@ keywords:
   - стрейч в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/стрейч.png
+image: images/glossar/stretch.png
 image_alt: "Иллюстрация глоссария ESKYNA: Стрейч"
 relatedTerms:
   - title: Пластика материала

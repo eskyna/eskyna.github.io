@@ -16,7 +16,7 @@ keywords:
   - лиоцелл в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/лиоцелл.png
+image: images/glossar/lyocell.png
 image_alt: "Иллюстрация глоссария ESKYNA: Лиоцелл"
 relatedTerms:
   - title: Пластика материала

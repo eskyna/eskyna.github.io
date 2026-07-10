@@ -14,7 +14,7 @@ keywords:
   - преппи в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/преппи.png
+image: images/glossar/preppy.png
 image_alt: "Иллюстрация глоссария ESKYNA: Преппи"
 relatedTerms:
   - title: Фирменный образ

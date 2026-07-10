@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 eyebrow: Privacy
-url: /privacy-policy/
+url: /en/privacy-policy/
 aliases:
   - /datenschutz/
 image: images/sign.png

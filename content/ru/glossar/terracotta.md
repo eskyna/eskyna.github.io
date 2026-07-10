@@ -15,7 +15,7 @@ keywords:
   - терракотовый в стиле
   - глоссарий ESKYNA
 weight: 17
-image: images/glossar/терракотовый.png
+image: images/glossar/terracotta.png
 image_alt: "Иллюстрация глоссария ESKYNA: Терракотовый"
 relatedTerms:
   - title: Оранжевый

@@ -16,7 +16,7 @@ keywords:
   - тренч в стиле
   - глоссарий ESKYNA
 weight: 8
-image: images/glossar/тренч.png
+image: images/glossar/trenchcoat.png
 image_alt: "Иллюстрация глоссария ESKYNA: Тренч"
 relatedTerms:
   - title: Ключевая вещь

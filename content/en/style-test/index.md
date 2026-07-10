@@ -4,7 +4,7 @@ seoTitle: "Free Style Test: Find Your Style Direction | ESKYNA"
 description:
   A short English style self-check by ESKYNA to help you understand your style direction, wardrobe needs,
   and next best step.
-url: /style-test/
+url: /en/style-test/
 aliases:
   - /hannover2026/
   - /stiltest/

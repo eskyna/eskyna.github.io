@@ -16,7 +16,7 @@ keywords:
   - твил в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/твил.png
+image: images/glossar/twill.png
 image_alt: "Иллюстрация глоссария ESKYNA: Твил"
 relatedTerms:
   - title: Пластика материала

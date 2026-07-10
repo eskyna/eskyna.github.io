@@ -16,7 +16,7 @@ keywords:
   - топ в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/топ.png
+image: images/glossar/top.png
 image_alt: "Иллюстрация глоссария ESKYNA: Топ"
 relatedTerms:
   - title: Пластика материала

@@ -14,7 +14,7 @@ keywords:
   - топ с баской в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/peplum-топ.png
+image: images/glossar/peplum-top.png
 image_alt: "Иллюстрация глоссария ESKYNA: Топ с баской"
 relatedTerms:
   - title: Пластика материала

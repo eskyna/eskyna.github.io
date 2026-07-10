@@ -14,7 +14,7 @@ keywords:
   - босоножки в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/босоножки.png
+image: images/glossar/sandalette.png
 image_alt: "Иллюстрация глоссария ESKYNA: Босоножки"
 relatedTerms:
   - title: Капсульный гардероб

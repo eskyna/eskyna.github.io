@@ -16,7 +16,7 @@ keywords:
   - твинсет в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/твинсет.png
+image: images/glossar/twinset.png
 image_alt: "Иллюстрация глоссария ESKYNA: Твинсет"
 relatedTerms:
   - title: Пластика материала

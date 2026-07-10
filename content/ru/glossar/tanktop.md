@@ -16,7 +16,7 @@ keywords:
   - топ без рукавов в стиле
   - глоссарий ESKYNA
 weight: 6
-image: images/glossar/топ без рукавов.png
+image: images/glossar/tanktop.png
 image_alt: "Иллюстрация глоссария ESKYNA: Топ без рукавов"
 relatedTerms:
   - title: Футболка

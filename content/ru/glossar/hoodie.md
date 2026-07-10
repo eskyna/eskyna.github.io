@@ -16,7 +16,7 @@ keywords:
   - худи в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/худи.png
+image: images/glossar/hoodie.png
 image_alt: "Иллюстрация глоссария ESKYNA: Худи"
 relatedTerms:
   - title: Свитшот

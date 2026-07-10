@@ -16,7 +16,7 @@ keywords:
   - оверсайз в стиле
   - глоссарий ESKYNA
 weight: 16
-image: images/glossar/оверсайз.png
+image: images/glossar/oversized.png
 image_alt: "Иллюстрация глоссария ESKYNA: Оверсайз"
 relatedTerms:
   - title: Многослойность

@@ -17,7 +17,7 @@ keywords:
   - темно-синий в стиле
   - глоссарий ESKYNA
 weight: 3
-image: images/glossar/темно-синий.png
+image: images/glossar/navy.png
 image_alt: "Иллюстрация глоссария ESKYNA: Темно-синий"
 relatedTerms:
   - title: Синий

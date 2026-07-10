@@ -14,7 +14,7 @@ keywords:
   - ботфорты в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/ботфорты.png
+image: images/glossar/overknees.png
 image_alt: "Иллюстрация глоссария ESKYNA: Ботфорты"
 relatedTerms:
   - title: Капсульный гардероб

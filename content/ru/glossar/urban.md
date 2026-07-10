@@ -16,7 +16,7 @@ keywords:
   - городской стиль в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/городской стиль.png
+image: images/glossar/urban.png
 image_alt: "Иллюстрация глоссария ESKYNA: Городской стиль"
 relatedTerms:
   - title: Фирменный образ

@@ -14,7 +14,7 @@ keywords:
   - кроп-топ в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/crop-топ.png
+image: images/glossar/crop-top.png
 image_alt: "Иллюстрация глоссария ESKYNA: Кроп-топ"
 relatedTerms:
   - title: Пластика материала

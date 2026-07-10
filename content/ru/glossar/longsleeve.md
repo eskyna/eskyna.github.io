@@ -16,7 +16,7 @@ keywords:
   - лонгслив в стиле
   - глоссарий ESKYNA
 weight: 6
-image: images/glossar/лонгслив.png
+image: images/glossar/longsleeve.png
 image_alt: "Иллюстрация глоссария ESKYNA: Лонгслив"
 relatedTerms:
   - title: Футболка

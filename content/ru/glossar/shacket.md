@@ -16,7 +16,7 @@ keywords:
   - шакет в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/шакет.png
+image: images/glossar/shacket.png
 image_alt: "Иллюстрация глоссария ESKYNA: Шакет"
 relatedTerms:
   - title: Капсульный гардероб

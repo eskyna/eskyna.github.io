@@ -16,7 +16,7 @@ keywords:
   - кроссовки в стиле
   - глоссарий ESKYNA
 weight: 19
-image: images/glossar/кроссовки.png
+image: images/glossar/sneaker.png
 image_alt: "Иллюстрация глоссария ESKYNA: Кроссовки"
 relatedTerms:
   - title: Лоферы

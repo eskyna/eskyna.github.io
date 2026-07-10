@@ -16,7 +16,7 @@ keywords:
   - мюли в стиле
   - глоссарий ESKYNA
 weight: 12
-image: images/glossar/мюли.png
+image: images/glossar/mule.png
 image_alt: "Иллюстрация глоссария ESKYNA: Мюли"
 relatedTerms:
   - title: Туфли с открытой пяткой

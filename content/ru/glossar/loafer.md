@@ -14,7 +14,7 @@ keywords:
   - лоферы в стиле
   - глоссарий ESKYNA
 weight: 9
-image: images/glossar/лоферы.png
+image: images/glossar/loafer.png
 image_alt: "Иллюстрация глоссария ESKYNA: Лоферы"
 relatedTerms:
   - title: Бизнес-кэжуал

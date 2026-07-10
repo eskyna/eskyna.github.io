@@ -14,7 +14,7 @@ keywords:
   - пейсли в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/пейсли.png
+image: images/glossar/paisley.png
 image_alt: "Иллюстрация глоссария ESKYNA: Пейсли"
 relatedTerms:
   - title: Пластика материала

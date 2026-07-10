@@ -16,7 +16,7 @@ keywords:
   - шоппер в стиле
   - глоссарий ESKYNA
 weight: 11
-image: images/glossar/шоппер.png
+image: images/glossar/shopper.png
 image_alt: "Иллюстрация глоссария ESKYNA: Шоппер"
 relatedTerms:
   - title: Сумка-тоут

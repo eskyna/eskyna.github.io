@@ -14,7 +14,7 @@ keywords:
   - бушлат в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/бушлат.png
+image: images/glossar/peacoat.png
 image_alt: "Иллюстрация глоссария ESKYNA: Бушлат"
 relatedTerms:
   - title: Капсульный гардероб

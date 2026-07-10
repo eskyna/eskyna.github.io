@@ -14,7 +14,7 @@ keywords:
   - сакко в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/сакко.png
+image: images/glossar/sakko.png
 image_alt: "Иллюстрация глоссария ESKYNA: Сакко"
 relatedTerms:
   - title: Капсульный гардероб

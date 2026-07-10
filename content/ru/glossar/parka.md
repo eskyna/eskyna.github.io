@@ -14,7 +14,7 @@ keywords:
   - парка в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/парка.png
+image: images/glossar/parka.png
 image_alt: "Иллюстрация глоссария ESKYNA: Парка"
 relatedTerms:
   - title: Капсульный гардероб

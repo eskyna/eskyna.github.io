@@ -16,7 +16,7 @@ keywords:
   - легинсы в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/легинсы.png
+image: images/glossar/leggings.png
 image_alt: "Иллюстрация глоссария ESKYNA: Легинсы"
 relatedTerms:
   - title: Многослойность

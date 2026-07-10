@@ -14,7 +14,7 @@ keywords:
   - корсетный топ в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/korsett-топ.png
+image: images/glossar/korsett-top.png
 image_alt: "Иллюстрация глоссария ESKYNA: Корсетный топ"
 relatedTerms:
   - title: Пластика материала

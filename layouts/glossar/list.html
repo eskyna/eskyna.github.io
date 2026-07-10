@@ -38,14 +38,51 @@
 {{ range $glossarPages }}
   {{ $dailyTermLinks = $dailyTermLinks | append .RelPermalink }}
 {{ end }}
-{{ $letters := slice }}
+{{ $alphabetOrder := slice "0-9" "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+{{ $letterGroups := newScratch }}
+{{ range $alphabetOrder }}
+  {{ $letterGroups.Set . (slice) }}
+{{ end }}
+{{ $extraLetters := slice }}
 {{ range $glossarPages }}
   {{ $termTitle := .Params.term | default .Title }}
-  {{ if gt (len $termTitle) 0 }}
-    {{ $letter := upper (substr (lower $termTitle) 0 1) }}
-    {{ if not (in $letters $letter) }}
-      {{ $letters = $letters | append $letter }}
+  {{ $termTrimmed := strings.TrimSpace $termTitle }}
+  {{ if gt (len $termTrimmed) 0 }}
+    {{ $firstChar := upper (substr $termTrimmed 0 1) }}
+    {{ $normalizedChar := $firstChar }}
+    {{ $normalizedChar = replace $normalizedChar "Ä" "A" }}
+    {{ $normalizedChar = replace $normalizedChar "Ö" "O" }}
+    {{ $normalizedChar = replace $normalizedChar "Ü" "U" }}
+    {{ $normalizedChar = replace $normalizedChar "ẞ" "S" }}
+    {{ $normalizedChar = replace $normalizedChar "ß" "S" }}
+    {{ if findRE "^[0-9]$" $normalizedChar }}
+      {{ $currentTerms := $letterGroups.Get "0-9" }}
+      {{ $letterGroups.Set "0-9" ($currentTerms | append .) }}
+    {{ else if in $alphabetOrder $normalizedChar }}
+      {{ $currentTerms := $letterGroups.Get $normalizedChar }}
+      {{ $letterGroups.Set $normalizedChar ($currentTerms | append .) }}
+    {{ else }}
+      {{ if not (in $extraLetters $firstChar) }}
+        {{ $extraLetters = $extraLetters | append $firstChar }}
+        {{ $letterGroups.Set $firstChar (slice) }}
+      {{ end }}
+      {{ $currentTerms := $letterGroups.Get $firstChar }}
+      {{ $letterGroups.Set $firstChar ($currentTerms | append .) }}
     {{ end }}
+  {{ end }}
+{{ end }}
+{{ $letters := slice }}
+{{ range $alphabetOrder }}
+  {{ $groupTerms := $letterGroups.Get . }}
+  {{ if gt (len $groupTerms) 0 }}
+    {{ $letters = $letters | append . }}
+  {{ end }}
+{{ end }}
+{{ $extraLetters = sort $extraLetters }}
+{{ range $extraLetters }}
+  {{ $groupTerms := $letterGroups.Get . }}
+  {{ if gt (len $groupTerms) 0 }}
+    {{ $letters = $letters | append . }}
   {{ end }}
 {{ end }}
 
@@ -227,20 +264,12 @@
         {{ range $letters }}
           {{ $letter := . }}
           {{ $letterLower := lower . }}
-          {{ $hasTerms := false }}
-          {{ $letterCount := 0 }}
-          {{ range $glossarPages }}
-            {{ $termTitle := .Params.term | default .Title }}
-            {{ if and (gt (len $termTitle) 0) (eq (substr (lower $termTitle) 0 1) $letterLower) }}
-              {{ $hasTerms = true }}
-              {{ $letterCount = add $letterCount 1 }}
-            {{ end }}
-          {{ end }}
-          {{ if $hasTerms }}
+          {{ $groupTerms := $letterGroups.Get $letter }}
+          {{ if gt (len $groupTerms) 0 }}
             <div class="glossar-letter-group" id="letter-{{ $letterLower }}">
-              <h2 class="glossar-letter-heading">{{ $letter }} <span class="glossar-group-count">{{ $letterCount }}</span></h2>
+              <h2 class="glossar-letter-heading">{{ $letter }} <span class="glossar-group-count">{{ len $groupTerms }}</span></h2>
               <ul class="glossar-term-list">
-                {{ range $glossarPages }}
+                {{ range $groupTerms }}
                   {{ $termTitle := .Params.term | default .Title }}
                   {{ $imageAlt := .Params.image_alt | default $termTitle }}
                   {{ $entryImage := .Params.image }}
@@ -252,21 +281,19 @@
                       {{ end }}
                     {{ end }}
                   {{ end }}
-                  {{ if and (gt (len $termTitle) 0) (eq (substr (lower $termTitle) 0 1) $letterLower) }}
-                    <li class="glossar-term-item">
-                      <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
-                        {{ with $entryImage }}
-                          <span class="glossar-term-thumb">
-                            {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 160px, 176px" "width" "400" "height" "500") }}
-                          </span>
-                        {{ end }}
-                        <span class="glossar-term-title">{{ $termTitle }}</span>
-                        {{ with .Description }}
-                          <span class="glossar-term-excerpt">{{ . }}</span>
-                        {{ end }}
-                      </a>
-                    </li>
-                  {{ end }}
+                  <li class="glossar-term-item">
+                    <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+                      {{ with $entryImage }}
+                        <span class="glossar-term-thumb">
+                          {{ partial "responsive-image.html" (dict "src" . "alt" $imageAlt "title" $imageAlt "class" "glossar-term-thumb-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 160px, 176px" "width" "400" "height" "500") }}
+                        </span>
+                      {{ end }}
+                      <span class="glossar-term-title">{{ $termTitle }}</span>
+                      {{ with .Description }}
+                        <span class="glossar-term-excerpt">{{ . }}</span>
+                      {{ end }}
+                    </a>
+                  </li>
                 {{ end }}
               </ul>
             </div>

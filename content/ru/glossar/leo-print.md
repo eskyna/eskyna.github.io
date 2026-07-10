@@ -16,7 +16,7 @@ keywords:
   - леопардовый принт в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/леопардовый принт.png
+image: images/glossar/leo-print.png
 image_alt: "Иллюстрация глоссария ESKYNA: Леопардовый принт"
 relatedTerms:
   - title: Пластика материала

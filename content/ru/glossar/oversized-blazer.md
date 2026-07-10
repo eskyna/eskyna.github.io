@@ -16,7 +16,7 @@ keywords:
   - оверсайз-блейзер в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/оверсайз-blazer.png
+image: images/glossar/oversized-blazer.png
 image_alt: "Иллюстрация глоссария ESKYNA: Оверсайз-блейзер"
 relatedTerms:
   - title: Капсульный гардероб

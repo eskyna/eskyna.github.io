@@ -14,7 +14,7 @@ keywords:
   - ретро в стиле
   - глоссарий ESKYNA
 weight: 1
-image: images/glossar/ретро.png
+image: images/glossar/retro.png
 image_alt: "Иллюстрация глоссария ESKYNA: Ретро"
 relatedTerms:
   - title: Фирменный образ

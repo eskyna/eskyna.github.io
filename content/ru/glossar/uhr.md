@@ -16,7 +16,7 @@ keywords:
   - часы в стиле
   - глоссарий ESKYNA
 weight: 25
-image: images/glossar/часы.png
+image: images/glossar/uhr.png
 image_alt: "Иллюстрация глоссария ESKYNA: Часы"
 relatedTerms:
   - title: Аксессуар

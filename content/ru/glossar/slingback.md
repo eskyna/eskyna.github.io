@@ -16,7 +16,7 @@ keywords:
   - туфли с открытой пяткой в стиле
   - глоссарий ESKYNA
 weight: 5
-image: images/glossar/туфли с открытой пяткой.png
+image: images/glossar/slingback.png
 image_alt: "Иллюстрация глоссария ESKYNA: Туфли с открытой пяткой"
 relatedTerms:
   - title: Лодочки

@@ -17,7 +17,7 @@ keywords:
   - молочно-белый в стиле
   - глоссарий ESKYNA
 weight: 18
-image: images/glossar/молочно-белый.png
+image: images/glossar/off-white.png
 image_alt: "Иллюстрация глоссария ESKYNA: Молочно-белый"
 relatedTerms:
   - title: Белый
