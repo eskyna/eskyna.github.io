@@ -50,7 +50,6 @@ ui:
   page_image_title: Natalia Kleemann
   method_symbol_prefix: Symbol for
   method_quote_author: Natalia Kleemann
-url: /about/
 aliases:
   - /ueber-mich/
 ---

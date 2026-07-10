@@ -1,7 +1,6 @@
 ---
 title: Shop
 description: ESKYNA Shop - selected products and merchandise
-url: /shop/
 products:
   - title: ESKYNA clover as a 3D sculpture
     image: /images/sign.png

@@ -8,7 +8,6 @@ description:
 summary:
   Why impact is not accidental and how clarity, fit, color, and a signature look can shape the way you show
   up.
-url: /blog/styling-secrets/
 hero: secrets.png
 category: Style & Impact
 readingTime: 8

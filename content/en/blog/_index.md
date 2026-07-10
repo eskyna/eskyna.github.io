@@ -26,5 +26,4 @@ ui:
   chip_materials: Materials & season
   chip_proportions: Proportions & cut
   chip_impact: Style advice & impact
-url: /blog/
 ---

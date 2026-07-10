@@ -2,7 +2,6 @@
 title: "EStyle: your digital style advisor"
 seoTitle: EStyle digital style advisor | ESKYNA
 description: EStyle gives you digital style guidance for colors, outfits, wardrobe decisions, and smarter shopping.
-url: /estyle/
 image: images/estyle-app.png
 ---
 
