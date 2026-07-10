@@ -8522,6 +8522,502 @@ main .hero .hero-headline-line {
     font-size: 0.7rem;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Mobile refinement: offers page and home hero
+   -------------------------------------------------------------------------- */
+
+.page-angebote .offers-packages-title {
+  max-width: 24ch;
+  margin-bottom: 0;
+  color: rgb(44 30 22 / 88%);
+}
+
+.page-angebote .offers-free-section .free-offer-card > .free-offer-body {
+  grid-column: 2;
+  grid-row: 1 / span 4;
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-self: stretch;
+  gap: 0.72rem;
+}
+
+.page-angebote .offers-free-section .free-offer-body h3,
+.page-angebote .offers-free-section .free-offer-body h4 {
+  margin: 0;
+  padding-bottom: 0.55rem;
+  position: relative;
+  color: rgb(60 38 24);
+  font-family: var(--font-headline);
+  font-size: clamp(1.55rem, 3vw, 2.15rem);
+  font-weight: 500;
+  line-height: 1.16;
+  letter-spacing: -0.01em;
+}
+
+.page-angebote .offers-free-section .free-offer-body h3::after,
+.page-angebote .offers-free-section .free-offer-body h4::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 5.5rem;
+  height: 2px;
+  background: rgb(197 160 89 / 32%);
+}
+
+.page-angebote .offers-free-section .free-offer-body > p:not(.free-offer-price) {
+  margin: 0;
+  color: #6f5748;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.page-angebote .offers-secondary-section .free-offer-body > p:not(.free-offer-price) {
+  font-size: clamp(1.03rem, 1.55vw, 1.18rem);
+  font-style: italic;
+  line-height: 1.72;
+}
+
+.page-angebote .offers-free-section .free-offer-body > .free-offer-price {
+  margin: 0;
+  color: var(--accent-strong);
+  font-size: clamp(1.05rem, 1.6vw, 1.22rem);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.page-angebote .offers-free-section .free-offer-body > .btn {
+  align-self: flex-start;
+  margin-top: auto;
+}
+
+@media (width <= 900px) {
+  .page-angebote .offers-free-section-wrapper {
+    padding-top: clamp(1.5rem, 5vw, 2.2rem);
+  }
+
+  .page-angebote .back-link {
+    display: inline-flex;
+    margin-bottom: clamp(1.3rem, 5vw, 2.1rem);
+  }
+
+  .page-angebote h1 {
+    max-width: 9ch;
+    margin-bottom: 0.6rem;
+    font-size: clamp(3.15rem, 14.5vw, 4.75rem);
+    line-height: 0.96;
+    letter-spacing: -0.045em;
+  }
+
+  .page-angebote .offers-intro {
+    margin-top: 1rem;
+    font-size: 1.02rem;
+    line-height: 1.65;
+  }
+
+  .page-angebote .offers-packages-section {
+    margin: clamp(2.4rem, 9vw, 3.4rem) 0 clamp(3rem, 10vw, 4rem);
+  }
+
+  .page-angebote .offers-packages-title {
+    margin-inline: 0;
+    text-align: left;
+    font-size: clamp(1.35rem, 6vw, 2.05rem);
+    line-height: 1.14;
+  }
+
+  .page-angebote .offers-packages-section .packages-grid,
+  .page-angebote .offers-secondary-section .offers-free-grid,
+  .page-angebote .offers-free-section .offers-free-grid {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  .page-angebote .offers-packages-section .packages-grid {
+    gap: clamp(1.2rem, 5.5vw, 1.85rem);
+    margin-top: clamp(1.6rem, 6.5vw, 2.35rem);
+  }
+
+  .page-angebote .package-card,
+  .page-angebote .package-card-featured {
+    grid-column: auto !important;
+    gap: clamp(0.7rem, 2.7vw, 0.95rem);
+    min-width: 0;
+    padding: clamp(1.35rem, 5.5vw, 1.9rem);
+    border-radius: 24px;
+    transform: none;
+  }
+
+  .page-angebote .package-card:hover,
+  .page-angebote .package-card-featured:hover {
+    transform: none;
+  }
+
+  .page-angebote .package-badge {
+    position: static;
+    max-width: 100%;
+    margin: -0.15rem 0 0.35rem;
+    padding: 0.48rem 0.78rem;
+    transform: none;
+    align-self: flex-start;
+    font-size: clamp(0.68rem, 2.7vw, 0.8rem);
+    line-height: 1.18;
+    text-align: left;
+    white-space: normal;
+  }
+
+  .page-angebote .package-name {
+    font-size: clamp(1.45rem, 6.3vw, 2rem);
+    line-height: 1.12;
+  }
+
+  .page-angebote .package-price {
+    font-size: clamp(2.15rem, 10.5vw, 3rem);
+    line-height: 1.02;
+  }
+
+  .page-angebote .package-price .price-tag,
+  .page-angebote .free-offer-price .price-tag {
+    font-size: clamp(0.72rem, 2.8vw, 0.82rem);
+  }
+
+  .page-angebote .package-headline {
+    min-height: 0;
+    max-width: 20ch;
+    font-size: clamp(1.45rem, 6.4vw, 2.05rem);
+    line-height: 1.17;
+  }
+
+  .page-angebote .package-result {
+    padding: clamp(1rem, 4vw, 1.25rem);
+    border-radius: 16px;
+    font-size: clamp(0.96rem, 3.7vw, 1.08rem);
+    line-height: 1.55;
+  }
+
+  .page-angebote .package-result-label {
+    margin-bottom: 0.55rem;
+    font-size: 0.82rem;
+  }
+
+  .page-angebote .package-cta {
+    padding-top: 0.35rem;
+  }
+
+  .page-angebote .package-cta.package-cta .btn,
+  .page-angebote .package-cta.package-cta .btn.btn {
+    min-height: 52px;
+    padding-inline: 1rem;
+  }
+
+  .page-angebote .offers-secondary-section {
+    margin-top: clamp(3rem, 11vw, 4.5rem);
+  }
+
+  .page-angebote .offers-secondary-section .offers-free-grid {
+    gap: clamp(2.5rem, 10vw, 3.8rem);
+  }
+
+  .page-angebote .offers-secondary-section .offers-free-subheading {
+    margin: 0 0 1rem;
+    font-size: clamp(2.1rem, 10.5vw, 3.25rem);
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+  }
+
+  .page-angebote .offers-free-section .offers-free-grid > .free-offer-card,
+  .page-angebote .offers-secondary-section .offers-free-item > .free-offer-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-rows: auto;
+    gap: clamp(0.85rem, 3.4vw, 1.15rem);
+    padding: clamp(1rem, 4.5vw, 1.35rem);
+    border-radius: 24px;
+    background: rgb(255 255 255 / 76%);
+  }
+
+  .page-angebote .offers-free-section .free-offer-card {
+    min-width: 0;
+  }
+
+  .page-angebote .offers-free-section .free-offer-card > .free-offer-media,
+  .page-angebote .offers-secondary-section .free-offer-card > .free-offer-media,
+  .page-angebote .offers-free-section .free-offer-card > .free-offer-body,
+  .page-angebote .offers-secondary-section .free-offer-card > .free-offer-body {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .page-angebote .offers-free-section .free-offer-card > .free-offer-media {
+    order: 1;
+    justify-self: stretch;
+  }
+
+  .page-angebote .offers-free-section .free-offer-card > .free-offer-body {
+    order: 2;
+    gap: 0.7rem;
+  }
+
+  .page-angebote .offers-free-section .free-offer-media .free-offer-image,
+  .page-angebote .offers-free-section .free-offer-media .free-offer-image-contain {
+    width: 100% !important;
+    max-height: clamp(190px, 52vw, 260px);
+    object-fit: contain;
+    object-position: center center !important;
+  }
+
+  .page-angebote .offers-free-section .free-offer-body h3,
+  .page-angebote .offers-free-section .free-offer-body h4 {
+    font-size: clamp(1.45rem, 7vw, 2.05rem);
+    line-height: 1.14;
+  }
+
+  .page-angebote .offers-free-section .free-offer-body h3::after,
+  .page-angebote .offers-free-section .free-offer-body h4::after {
+    width: 4.5rem;
+  }
+
+  .page-angebote .offers-free-section .free-offer-body > p:not(.free-offer-price) {
+    max-width: 34ch;
+    font-size: clamp(0.98rem, 4vw, 1.08rem);
+    line-height: 1.65;
+  }
+
+  .page-angebote .offers-free-section .free-offer-body > .btn {
+    width: 100%;
+    justify-content: center;
+    margin-top: 0.25rem;
+    padding-inline: 1rem;
+    text-align: center;
+  }
+
+  .page-angebote .offers-comparison-section,
+  .page-angebote .offers-uncertainty-section,
+  .page-angebote .offers-bot-shell {
+    border-radius: 24px;
+  }
+}
+
+@media (width <= 380px) {
+  .page-angebote h1 {
+    font-size: clamp(2.75rem, 13.8vw, 3.45rem);
+  }
+
+  .page-angebote .package-price {
+    font-size: clamp(1.95rem, 10vw, 2.55rem);
+  }
+
+  .page-angebote .package-headline {
+    font-size: clamp(1.28rem, 6.2vw, 1.65rem);
+  }
+}
+
+@media (width <= 799px) and (orientation: portrait) {
+  main.home-main .hero {
+    isolation: isolate;
+    background-image:
+      linear-gradient(
+        180deg,
+        rgb(20 12 8 / 18%) 0%,
+        rgb(20 12 8 / 22%) 44%,
+        rgb(20 12 8 / 34%) 100%
+      ),
+      url("../images/backgrounds/hero/portrait.png");
+    background-position: 58% 12%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  main.home-main .hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    background:
+      linear-gradient(
+        180deg,
+        rgb(20 12 8 / 12%) 0%,
+        rgb(20 12 8 / 8%) 34%,
+        rgb(20 12 8 / 20%) 70%,
+        rgb(20 12 8 / 34%) 100%
+      ),
+      radial-gradient(circle at 50% 78%, rgb(20 12 8 / 20%) 0%, rgb(20 12 8 / 0%) 52%);
+  }
+
+  main.home-main .hero::after {
+    content: "";
+    position: absolute;
+    inset: auto 0 0;
+    z-index: 1;
+    height: 38%;
+    pointer-events: none;
+    background: linear-gradient(180deg, rgb(20 12 8 / 0%) 0%, rgb(20 12 8 / 28%) 100%);
+  }
+
+  main.home-main .hero .hero-topbar,
+  main.home-main .hero .hero-content-grid {
+    position: relative;
+    z-index: 2;
+  }
+
+  main.home-main .hero .hero-content-grid {
+    place-items: end center;
+    padding-top: clamp(5.3rem, 14svh, 7.4rem);
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  main.home-main .hero .hero-copy-column {
+    width: 100vw;
+    max-width: 100vw;
+    margin-inline: calc(50% - 50vw);
+    min-height: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+    padding: clamp(1rem, 4.4vw, 1.45rem) max(1rem, env(safe-area-inset-right, 0px))
+      clamp(1rem, 4.4vw, 1.45rem) max(1rem, env(safe-area-inset-left, 0px));
+    border-radius: 0;
+    background:
+      linear-gradient(
+        90deg,
+        rgb(20 12 8 / 0%) 0%,
+        rgb(20 12 8 / 14%) 18%,
+        rgb(20 12 8 / 14%) 82%,
+        rgb(20 12 8 / 0%) 100%
+      ),
+      linear-gradient(180deg, rgb(20 12 8 / 10%), rgb(20 12 8 / 18%));
+    box-shadow: none;
+    backdrop-filter: none;
+    overflow: visible;
+  }
+
+  main.home-main .hero .hero-headline {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-inline: auto !important;
+    text-align: center !important;
+    color: rgb(255 251 246 / 99%);
+    text-shadow:
+      0 2px 8px rgb(0 0 0 / 62%),
+      0 8px 26px rgb(0 0 0 / 42%);
+  }
+
+  main.home-main .hero .hero-headline-line,
+  main.home-main .hero .hero-headline-second {
+    display: block;
+    width: 100%;
+    text-align: center !important;
+    white-space: normal !important;
+  }
+
+  main.home-main .hero .hero-details {
+    max-width: min(100%, 34ch);
+  }
+
+  main.home-main .hero .hero-details .hero-detail {
+    color: rgb(255 252 246 / 98%);
+    font-weight: 600;
+    text-shadow:
+      0 2px 7px rgb(0 0 0 / 72%),
+      0 9px 24px rgb(0 0 0 / 46%);
+  }
+
+  main.home-main .hero .hero-actions .btn,
+  main.home-main .hero .hero-actions .hero-beta-btn {
+    box-shadow: 0 10px 26px rgb(0 0 0 / 24%);
+  }
+}
+
+@media (width <= 390px) and (orientation: portrait) {
+  main.home-main .hero .hero-copy-column {
+    width: 100vw;
+    max-width: 100vw;
+    margin-inline: calc(50% - 50vw);
+    padding: 0.95rem max(0.95rem, env(safe-area-inset-right, 0px)) 0.95rem
+      max(0.95rem, env(safe-area-inset-left, 0px));
+  }
+
+  main.home-main .hero .hero-headline {
+    font-size: clamp(1.85rem, 8vw, 2.65rem) !important;
+  }
+
+  main.home-main .hero .hero-details .hero-detail {
+    font-size: clamp(0.94rem, 3.7vw, 1.05rem) !important;
+  }
+}
+
+@media (width <= 700px) {
+  .page-angebote .comparison-table-wrapper {
+    overflow: visible;
+  }
+
+  .page-angebote .comparison-table {
+    min-width: 0;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 0.75rem;
+    font-size: 0.95rem;
+  }
+
+  .page-angebote .comparison-table thead {
+    display: none;
+  }
+
+  .page-angebote .comparison-table tbody tr {
+    display: block;
+    border: 1px solid rgb(44 30 22 / 12%);
+    border-radius: 14px;
+    background: rgb(255 255 255 / 70%);
+    padding: 0.85rem 0.9rem;
+  }
+
+  .page-angebote .comparison-table tbody tr:hover {
+    background: rgb(255 255 255 / 76%);
+  }
+
+  .page-angebote .comparison-table td {
+    display: block;
+    border: 0;
+    padding: 0;
+    line-height: 1.45;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .page-angebote .comparison-table td + td {
+    margin-top: 0.55rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid rgb(44 30 22 / 10%);
+  }
+
+  .page-angebote .comparison-table td::before {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--text);
+    opacity: 0.8;
+  }
+
+  .page-angebote .comparison-table td:nth-child(1)::before {
+    content: "Du möchtest";
+  }
+
+  .page-angebote .comparison-table td:nth-child(2)::before {
+    content: "Passendes Angebot";
+  }
+
+  .page-angebote .comparison-table td a {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+}
+
 /* stylelint-enable no-descending-specificity */
 
 /* -- Mobile Sticky Navigation ---------------------------------- */

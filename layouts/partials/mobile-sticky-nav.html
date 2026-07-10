@@ -16,7 +16,7 @@
 {{ $isOffersCurrent := or (eq .Section "angebote") (isset .Params "offer") (isset .Params "offers_back") }}
 <nav class="mobile-sticky-nav" aria-label="{{ $navLabel }}" data-mobile-sticky-nav data-show-after="96">
   <div class="mobile-sticky-nav-inner">
-    <a class="mobile-sticky-nav-link mobile-sticky-nav-home{{ if .IsHome }} is-current{{ end }}" href="{{ $homeHref }}" title="{{ $homeTitle }}"{{ if .IsHome }} aria-current="page"{{ end }}>
+    <a class="mobile-sticky-nav-link mobile-sticky-nav-home{{ if .IsHome }} is-current{{ end }}" href="{{ $homeHref }}" title="{{ $homeTitle }}" aria-label="{{ $homeText }}"{{ if .IsHome }} aria-current="page"{{ end }}>
       <img src="{{ "images/sign_gold.png" | relURL }}" alt="" class="mobile-sticky-nav-icon" aria-hidden="true" width="20" height="20">
       <span>{{ $homeText }}</span>
     </a>
