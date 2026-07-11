@@ -21,4 +21,4 @@ jobs:
           python-version: "3.x"
 
       - name: Check live assets
-        run: ./bin/check-live-assets --max-pages 300 --concurrency 12
+        run: ./bin/check-live-assets --max-pages 300 --concurrency 6

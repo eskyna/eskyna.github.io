@@ -3,6 +3,7 @@
 import argparse
 import concurrent.futures
 import re
+import time
 import sys
 from collections import deque
 from dataclasses import dataclass
@@ -14,6 +15,7 @@ from urllib.request import Request, urlopen
 DEFAULT_LIVE_ORIGIN = "https://eskyna.com"
 DEFAULT_PATHS = ["/", "/estyle", "/about", "/impressum", "/datenschutz", "/shop", "/blog"]
 USER_AGENT = "eskyna-link-check/2.0"
+TRANSIENT_HTTP_STATUSES = {429, 500, 502, 503, 504}
 
 
 def parse_args() -> argparse.Namespace:
@@ -149,7 +151,7 @@ class LinkExtractor(HTMLParser):
                     self.asset_links.append(ref)
 
 
-def fetch(url: str, method: str = "GET", timeout: int = 20, headers: dict | None = None):
+def fetch_once(url: str, method: str = "GET", timeout: int = 20, headers: dict | None = None):
     all_headers = {"User-Agent": USER_AGENT}
     if headers:
         all_headers.update(headers)
@@ -165,6 +167,22 @@ def fetch(url: str, method: str = "GET", timeout: int = 20, headers: dict | None
         return 0, "", b"", str(err)
     except Exception as err:  # noqa: BLE001
         return 0, "", b"", str(err)
+
+
+def fetch(url: str, method: str = "GET", timeout: int = 20, headers: dict | None = None):
+    attempts = 3
+    backoff_seconds = 1.5
+    last_result = (0, "", b"", "request not attempted")
+
+    for attempt in range(attempts):
+        last_result = fetch_once(url, method=method, timeout=timeout, headers=headers)
+        status, _, _, _ = last_result
+        if status not in TRANSIENT_HTTP_STATUSES:
+            return last_result
+        if attempt < attempts - 1:
+            time.sleep(backoff_seconds * (attempt + 1))
+
+    return last_result
 
 
 def decode_body(body: bytes, content_type: str) -> str:
