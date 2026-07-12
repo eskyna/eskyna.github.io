@@ -1,6 +1,16 @@
-# robots.txt for eskyna.com
 User-agent: *
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://eskyna.com/sitemap.xml
-Host: eskyna.com

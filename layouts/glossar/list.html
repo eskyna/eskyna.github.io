@@ -13,6 +13,8 @@
 {{ $dailyTermText := or $sectionUI.daily_term_text (cond $isRuLang "Стиль и мода полны красивых нюансов. Откройте новый термин и найдите вдохновение для своего образа." (cond (eq .Site.Language.Lang "en") "Style and fashion are full of beautiful details. Discover one new term and pick up fresh inspiration for your look." "Mode und Stil haben so viele schöne Facetten. Entdecke neue Begriffe und finde frische Inspiration für deinen Auftritt.")) }}
 {{ $dailyTermButtonText := or $sectionUI.daily_term_button_text (cond $isRuLang "Удивите меня стилем" (cond (eq .Site.Language.Lang "en") "Surprise me with style" "Überrasch mich mit Stilwissen")) }}
 {{ $dailyTermSurpriseText := or $sectionUI.daily_term_surprise_text (cond $isRuLang "Каждый день вас ждет новый стильный импульс." (cond (eq .Site.Language.Lang "en") "A new style surprise is waiting every day." "Jeden Tag wartet ein neuer Stilimpuls auf dich.")) }}
+{{ $crawlLinksHeading := cond $isRuLang "Все термины A-Z" (cond (eq .Site.Language.Lang "en") "All terms A-Z" "Alle Begriffe A-Z") }}
+{{ $crawlLinksIntro := cond $isRuLang "Прямые ссылки на все материалы глоссария." (cond (eq .Site.Language.Lang "en") "Direct links to every glossary entry." "Direkte Links zu allen Glossar-Einträgen.") }}
 {{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
 {{ $glossarPages := sort (where .RegularPages "Params.is_glossar_category" "ne" true) "Params.term" "asc" }}
 {{ $featuredTermsRaw := where $glossarPages "Params.featured_glossar" true }}
@@ -418,6 +420,26 @@
           </ul>
         </div>
       </div>
+    </div>
+  </section>
+
+  <section class="glossar-crawl-links" aria-labelledby="glossar-crawl-links-heading">
+    <div class="container glossar-content-shell">
+      <h2 id="glossar-crawl-links-heading" class="glossar-category-heading">{{ $crawlLinksHeading }} <span class="glossar-group-count">{{ len $glossarPages }}</span></h2>
+      <p class="glossar-list-description">{{ $crawlLinksIntro }}</p>
+      <ul class="glossar-term-list">
+        {{ range $glossarPages }}
+          {{ $termTitle := .Params.term | default .Title }}
+          <li class="glossar-term-item">
+            <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+              <span class="glossar-term-title">{{ $termTitle }}</span>
+              {{ with .Description }}
+                <span class="glossar-term-excerpt">{{ . }}</span>
+              {{ end }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
     </div>
   </section>
 
