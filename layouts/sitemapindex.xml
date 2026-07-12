@@ -6,7 +6,8 @@
     {{- $site := . -}}
     {{- range $site.Pages -}}
       {{- $includeKind := or .IsHome (or (eq .Kind "section") (eq .Kind "page")) -}}
-      {{- if and $includeKind .Permalink (not (or (.Params.noindex | default false) (.Params.sitemap.disable | default false) .Sitemap.Disable)) -}}
+      {{- $isTagPath := hasPrefix .RelPermalink "/tags/" -}}
+      {{- if and $includeKind (not $isTagPath) .Permalink (not (or (.Params.noindex | default false) (.Params.sitemap.disable | default false) .Sitemap.Disable)) -}}
         {{- if not ($seen.Get .Permalink) -}}
           {{- $seen.Set .Permalink true -}}
           <url>
