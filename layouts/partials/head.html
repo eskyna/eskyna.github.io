@@ -122,6 +122,19 @@
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
 <link rel="apple-touch-startup-image" href="{{ "images/apple-startup-icon.png" | relURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
+{{ $allTranslations := .AllTranslations }}
+{{ if gt (len $allTranslations) 0 }}
+  {{ $xDefaultHref := .Permalink }}
+  {{ range $allTranslations }}
+    {{ if eq .Language.Lang "de" }}
+      {{ $xDefaultHref = .Permalink }}
+    {{ end }}
+    {{ $hrefLang := .Language.LanguageCode | default .Language.Lang }}
+    {{ if eq $hrefLang "rus" }}{{ $hrefLang = "ru" }}{{ end }}
+    <link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}">
+  {{ end }}
+  <link rel="alternate" hreflang="x-default" href="{{ $xDefaultHref }}">
+{{ end }}
 {{ if eq .RelPermalink "/machn/" }}
   <link rel="stylesheet" href="{{ "css/machn.css" | relURL }}">
 {{ end }}
@@ -398,17 +411,6 @@
     });
   }
 </script>
-
-{{ range .AllTranslations -}}
-  {{ $hrefLang := .Language.Lang }}
-  {{ if eq $hrefLang "rus" }}
-    {{ $hrefLang = "ru" }}
-  {{ end }}
-  <link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}" />
-{{ end -}}
-{{ if .IsHome }}
-  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-{{ end -}}
 
 {{ partial "schema.html" . }}
 

@@ -15,6 +15,13 @@
             <xhtml:link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}" />
           {{- end -}}
         {{- end -}}
+        {{- $xDefaultHref := .Permalink -}}
+        {{- range .AllTranslations -}}
+          {{- if eq .Language.Lang "de" -}}
+            {{- $xDefaultHref = .Permalink -}}
+          {{- end -}}
+        {{- end -}}
+        <xhtml:link rel="alternate" hreflang="x-default" href="{{ $xDefaultHref }}" />
       </url>
     {{- end -}}
   {{- end -}}
