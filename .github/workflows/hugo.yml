@@ -108,7 +108,7 @@ jobs:
           submodules: recursive
           fetch-depth: 5
       - name: Cache converted static image formats
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             static/images/**/*.webp
