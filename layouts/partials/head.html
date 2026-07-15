@@ -154,6 +154,10 @@
     }
 
     if (!preferred) {
+      preferred = "auto";
+    }
+
+    if (preferred === "auto") {
       var langs = [];
       if (Array.isArray(navigator.languages) && navigator.languages.length > 0) {
         langs = navigator.languages;
@@ -161,21 +165,30 @@
         langs = [navigator.language];
       }
 
-      preferred = "de";
+      var detected = [];
       for (var i = 0; i < langs.length; i += 1) {
         var normalized = String(langs[i]).toLowerCase();
-        if (normalized.indexOf("en") === 0) {
-          preferred = "en";
-          break;
-        }
-        if (normalized.indexOf("ru") === 0) {
-          preferred = "ru";
+        var primary = normalized.split("-")[0];
+        if (primary === "en" || primary === "ru") {
+          if (detected.indexOf(primary) === -1) {
+            detected.push(primary);
+          }
+        } else if (primary === "de") {
+          detected.push("de");
           break;
         }
       }
-      
-      // NICHT speichern - nur leiten um
-      // localStorage wird nur gespeichert, wenn der Nutzer aktiv Sprache wechselt (Language-Switcher)
+
+      if (detected.length === 1 && detected[0] === "ru") {
+        window.location.replace("/rus/");
+        return;
+      }
+
+      if (detected.length === 1 && detected[0] === "en") {
+        window.location.replace("/en/");
+      }
+
+      return;
     }
 
     if (preferred === "ru") {
