@@ -1,6 +1,6 @@
 ---
 title: "Wardrobe Dressing: meaning and styling"
-seoTitle: "Wardrobe Dressing: the trend toward truly wearable wardrobes | ESKYNA"
+seoTitle: "Wardrobe Dressing: wearable wardrobe strategy | ESKYNA"
 term: Wardrobe Dressing
 description: Wardrobe Dressing focuses on wearable, combinable, high-utility pieces that fit real life, not just trend moments.
 category: Wardrobe Strategy

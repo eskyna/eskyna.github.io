@@ -1,6 +1,6 @@
 ---
 title: Was bedeutet Wardrobe Dressing?
-seoTitle: "Wardrobe Dressing: Der Trend zur wirklich tragbaren Garderobe"
+seoTitle: "Wardrobe Dressing: Tragbare Garderobe | ESKYNA"
 term: Wardrobe Dressing
 slug: wardrobe-dressing
 url: /glossar/wardrobe-dressing/

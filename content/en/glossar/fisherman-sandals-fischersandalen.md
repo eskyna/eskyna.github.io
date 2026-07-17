@@ -1,6 +1,6 @@
 ---
 title: "Fisherman Sandals: meaning and styling"
-seoTitle: "Fisherman Sandals: the modern structured summer sandal | ESKYNA"
+seoTitle: "Fisherman Sandals: modern summer styling | ESKYNA"
 term: Fisherman Sandals
 description: Fisherman Sandals are flat sandals with a semi-closed strap structure. Practical, modern, and ideal for balancing softer summer looks.
 category: Shoes
