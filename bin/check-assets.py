@@ -197,7 +197,9 @@ def check_loadable(url: str) -> tuple[bool, int, str]:
     status, _, _, err = fetch(url, method="HEAD")
     if 200 <= status < 400:
         return True, status, "HEAD"
-    if status in (403, 405, 501, 0):
+    # Some origins/CDNs handle HEAD differently or return transient errors.
+    # Fall back to a lightweight ranged GET probe before declaring failure.
+    if status in ({403, 405, 501, 0} | TRANSIENT_HTTP_STATUSES):
         status, _, _, err = fetch(url, method="GET", headers={"Range": "bytes=0-0"})
         return 200 <= status < 400, status, err or "GET"
     return False, status, err or "HEAD"
@@ -328,6 +330,10 @@ def main() -> int:
 
     def check_one_asset(url: str):
         ok, status, detail = check_loadable(url)
+        if not ok and status in TRANSIENT_HTTP_STATUSES:
+            # Final grace retry for temporary upstream overloads.
+            time.sleep(3)
+            ok, status, detail = check_loadable(url)
         return url, ok, status, detail
 
     checked = 0
