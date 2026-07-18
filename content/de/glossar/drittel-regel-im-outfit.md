@@ -16,11 +16,13 @@ keywords:
   - proportionsbruch
   - layering länge
 weight: 43
+image: images/glossar/drittel-regel-im-outfit.png
+image_alt: "Glossar-Illustration zu Drittel-Regel im Outfit"
 relatedTerms:
   - title: Proportion
     url: /glossar/proportion/
   - title: Layering-Länge
-    url: /glossar/layering-laenge/
+    url: /glossar/layering-länge/
   - title: Horizontale Linie
     url: /glossar/horizontale-linie/
   - title: Saumlänge
@@ -73,7 +75,7 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 ## Verwandte Begriffe
 
 - [Proportion](/glossar/proportion/)
-- [Layering-Länge](/glossar/layering-laenge/)
+- [Layering-Länge](/glossar/layering-länge/)
 - [Horizontale Linie](/glossar/horizontale-linie/)
 - [Saumlänge](/glossar/saumlange/)
 - [Proportionsbruch](/glossar/proportionsbruch/)

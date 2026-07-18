@@ -1,5 +1,6 @@
 ---
 weight: 11
+image: images/glossar/farbpass.png
 title: What does Color Passport mean?
 seoTitle: Color Passport explained | ESKYNA Glossary
 term: Color Passport

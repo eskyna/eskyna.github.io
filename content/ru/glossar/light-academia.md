@@ -14,6 +14,7 @@ keywords:
   - светлая академия в стиле
   - глоссарий ESKYNA
 weight: 26
+image: images/glossar/light-academia.png
 relatedTerms:
   - title: Темная академия
     url: /rus/glossariy/dark-academia/

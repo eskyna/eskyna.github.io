@@ -16,6 +16,7 @@ keywords:
   - зимний цветотип в стиле
   - глоссарий ESKYNA
 weight: 10
+image: images/glossar/wintertyp.png
 relatedTerms:
   - title: Цветотип
     url: /rus/glossariy/tsvetotip/

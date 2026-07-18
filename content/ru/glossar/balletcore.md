@@ -16,6 +16,7 @@ keywords:
   - балеткор в стиле
   - глоссарий ESKYNA
 weight: 24
+image: images/glossar/balletcore.png
 relatedTerms:
   - title: Балетки
     url: /rus/glossariy/baletki/

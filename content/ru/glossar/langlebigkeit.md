@@ -16,6 +16,7 @@ keywords:
   - долговечность в стиле
   - глоссарий ESKYNA
 weight: 51
+image: images/glossar/langlebigkeit.png
 relatedTerms:
   - title: Качество
     url: /rus/glossariy/kachestvo/

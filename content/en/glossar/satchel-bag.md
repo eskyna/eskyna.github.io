@@ -1,5 +1,6 @@
 ---
 weight: 24
+image: images/glossar/satchel-bag.png
 title: What does Satchel Bag mean?
 seoTitle: Satchel Bag explained | ESKYNA Glossary
 term: Satchel Bag

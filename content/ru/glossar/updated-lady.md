@@ -8,6 +8,8 @@ tags:
   - updated lady
   - ladylike
   - элегантность
+image: images/glossar/updated-lady.png
+image_alt: "Иллюстрация глоссария: Updated Lady"
 keywords:
   - updated lady значение
   - современный ladylike стиль

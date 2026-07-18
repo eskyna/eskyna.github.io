@@ -14,6 +14,8 @@ keywords:
   - was bedeutet farbtypologie
   - farbtypologie farbberatung
 weight: 6
+image: images/glossar/farbtypologie.png
+image_alt: "Glossar-Illustration zu Farbtypologie"
 relatedTerms:
   - title: Farbtyp
     url: /glossar/farbtyp/

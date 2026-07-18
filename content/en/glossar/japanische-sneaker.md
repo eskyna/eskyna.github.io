@@ -8,6 +8,8 @@ tags:
   - japanese sneakers
   - retro sneakers
   - minimal style
+image: images/glossar/japanische-sneaker.png
+image_alt: "Glossary illustration for Japanese Sneakers"
 keywords:
   - japanese sneakers
   - what are japanese sneakers

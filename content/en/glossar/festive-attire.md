@@ -1,5 +1,6 @@
 ---
 weight: 17
+image: images/glossar/festive-attire.png
 title: What does Festive Attire mean?
 seoTitle: Festive Attire explained | ESKYNA Glossary
 term: Festive Attire

@@ -16,6 +16,7 @@ keywords:
   - лидерское присутствие в стиле
   - глоссарий ESKYNA
 weight: 7
+image: images/glossar/executive-presence.png
 relatedTerms:
   - title: Впечатление
     url: /rus/glossariy/vpechatlenie/

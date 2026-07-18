@@ -1,5 +1,6 @@
 ---
 weight: 10
+image: images/glossar/video-call-outfit.png
 title: What does Video Call Outfit mean?
 seoTitle: Video Call Outfit explained | ESKYNA Glossary
 term: Video Call Outfit

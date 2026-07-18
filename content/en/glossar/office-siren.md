@@ -1,5 +1,6 @@
 ---
 weight: 19
+image: images/glossar/office-siren.png
 title: What does Office Siren mean?
 seoTitle: Office Siren explained | ESKYNA Glossary
 term: Office Siren

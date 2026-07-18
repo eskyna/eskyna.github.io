@@ -8,6 +8,8 @@ tags:
   - wardrobe dressing
   - стратегия гардероба
   - стиль
+image: images/glossar/wardrobe-dressing.png
+image_alt: "Иллюстрация глоссария: Wardrobe Dressing"
 keywords:
   - wardrobe dressing значение
   - носимый гардероб

@@ -1,5 +1,6 @@
 ---
 weight: 15
+image: images/glossar/klare-farben.png
 title: What does Clear Colors mean?
 seoTitle: Clear Colors explained | ESKYNA Glossary
 term: Clear Colors

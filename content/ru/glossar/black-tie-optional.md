@@ -16,6 +16,7 @@ keywords:
   - блэк-тай по желанию в стиле
   - глоссарий ESKYNA
 weight: 23
+image: images/glossar/black-tie-optional.png
 relatedTerms:
   - title: Блэк-тай
     url: /rus/glossariy/black-tie/

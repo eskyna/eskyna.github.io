@@ -1,5 +1,6 @@
 ---
 weight: 26
+image: images/glossar/light-academia.png
 title: What does Light Academia mean?
 seoTitle: Light Academia explained | ESKYNA Glossary
 term: Light Academia

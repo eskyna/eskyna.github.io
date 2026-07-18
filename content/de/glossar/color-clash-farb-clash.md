@@ -11,6 +11,8 @@ tags:
   - farb clash
   - farbberatung
   - colour blocking
+image: images/glossar/color-clash-farb-clash.png
+image_alt: "Glossar-Illustration zu Color Clash"
 keywords:
   - color clash bedeutung
   - farben mutig kombinieren
@@ -35,9 +37,9 @@ lastmod: "2026-07-17"
 
 ## Was bedeutet Color Clash?
 
-Bei Color Clash entsteht Spannung statt Standardharmonie. Genau diese Spannung kann ein Outfit modern, kreativ und praesent machen. Typische Kombinationen sind Pink mit Rot, Orange mit Lila oder Blau mit Gruen.
+Bei Color Clash entsteht Spannung statt Standardharmonie. Genau diese Spannung kann ein Outfit modern, kreativ und präsent machen. Typische Kombinationen sind Pink mit Rot, Orange mit Lila oder Blau mit Gruen.
 
-Damit der Look nicht zufaellig wirkt, braucht er Struktur durch klare Schnitte, ruhige Materialien oder eine neutrale Ausgleichsfarbe.
+Damit der Look nicht zufällig wirkt, braucht er Struktur durch klare Schnitte, ruhige Materialien oder eine neutrale Ausgleichsfarbe.
 
 ## ESKYNA-Extra: Kontrollierter Ungehorsam
 

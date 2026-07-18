@@ -1,5 +1,6 @@
 ---
 weight: 8
+image: images/glossar/personal-branding.png
 title: What does Personal Branding mean?
 seoTitle: Personal Branding explained | ESKYNA Glossary
 term: Personal Branding

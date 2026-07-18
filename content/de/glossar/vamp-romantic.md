@@ -11,6 +11,8 @@ tags:
   - dark romance
   - stilwirkung
   - abendmode
+image: images/glossar/vamp-romantic.png
+image_alt: "Glossar-Illustration zu Vamp Romantic"
 keywords:
   - vamp romantic
   - dunkle romantik modetrend

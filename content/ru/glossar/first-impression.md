@@ -16,6 +16,7 @@ keywords:
   - первое впечатление в стиле
   - глоссарий ESKYNA
 weight: 9
+image: images/glossar/first-impression.png
 relatedTerms:
   - title: Имидж
     url: /rus/glossariy/imidzh/

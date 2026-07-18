@@ -14,6 +14,7 @@ keywords:
   - курортный кэжуал в стиле
   - глоссарий ESKYNA
 weight: 21
+image: images/glossar/resort-casual.png
 relatedTerms:
   - title: Пляжный формальный дресс-код
     url: /rus/glossariy/plyazhnyy-formal/

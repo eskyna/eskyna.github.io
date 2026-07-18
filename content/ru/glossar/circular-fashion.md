@@ -16,6 +16,7 @@ keywords:
   - цикличная мода в стиле
   - глоссарий ESKYNA
 weight: 49
+image: images/glossar/circular-fashion.png
 relatedTerms:
   - title: Медленная мода
     url: /rus/glossariy/slow-fashion/

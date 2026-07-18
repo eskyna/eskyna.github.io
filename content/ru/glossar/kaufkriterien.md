@@ -16,6 +16,7 @@ keywords:
   - критерии покупки в стиле
   - глоссарий ESKYNA
 weight: 54
+image: images/glossar/kaufkriterien.png
 relatedTerms:
   - title: Ошибка покупки
     url: /rus/glossariy/oshibka-pokupki/

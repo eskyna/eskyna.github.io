@@ -1,5 +1,6 @@
 ---
 weight: 3
+image: images/glossar/androgyne-figur.png
 title: What does Androgynous Body Shape mean?
 seoTitle: Androgynous Body Shape explained | ESKYNA Glossary
 term: Androgynous Body Shape

@@ -1,5 +1,6 @@
 ---
 weight: 2
+image: images/glossar/stilanalyse.png
 title: What does Style Analysis mean?
 seoTitle: Style Analysis explained | ESKYNA Glossary
 term: Style Analysis

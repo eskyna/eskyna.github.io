@@ -1,5 +1,6 @@
 ---
 weight: 27
+image: images/glossar/adventure-streetwear.png
 title: What does Adventure Streetwear mean?
 seoTitle: Adventure Streetwear explained | ESKYNA Glossary
 term: Adventure Streetwear

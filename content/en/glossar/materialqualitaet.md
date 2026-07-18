@@ -1,5 +1,6 @@
 ---
 weight: 26
+image: images/glossar/materialqualitaet.png
 title: What does Material Quality mean?
 seoTitle: Material Quality explained | ESKYNA Glossary
 term: Material Quality

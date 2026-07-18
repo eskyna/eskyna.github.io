@@ -14,6 +14,8 @@ keywords:
   - black tie optional dresscode
   - black tie optional damen
 weight: 23
+image: images/glossar/black-tie-optional.png
+image_alt: "Glossar-Illustration zu Black Tie Optional"
 relatedTerms:
   - title: Black Tie
     url: /glossar/black-tie/

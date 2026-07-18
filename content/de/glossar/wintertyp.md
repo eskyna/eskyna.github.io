@@ -16,6 +16,8 @@ keywords:
   - deep winter
   - winter farbtyp
 weight: 10
+image: images/glossar/wintertyp.png
+image_alt: "Glossar-Illustration zu Wintertyp"
 relatedTerms:
   - title: Farbtyp
     url: /glossar/farbtyp/

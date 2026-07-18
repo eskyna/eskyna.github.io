@@ -16,6 +16,7 @@ keywords:
   - имидж-стратегия в стиле
   - глоссарий ESKYNA
 weight: 8
+image: images/glossar/image-strategie.png
 relatedTerms:
   - title: Имидж
     url: /rus/glossariy/imidzh/

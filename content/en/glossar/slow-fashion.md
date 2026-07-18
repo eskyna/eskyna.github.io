@@ -1,5 +1,6 @@
 ---
 weight: 48
+image: images/glossar/slow-fashion.png
 title: What does Slow Fashion mean?
 seoTitle: Slow Fashion explained | ESKYNA Glossary
 term: Slow Fashion

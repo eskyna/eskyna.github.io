@@ -7,6 +7,8 @@ tags:
   - японские кроссовки
   - sneakers
   - ретро
+image: images/glossar/japanische-sneaker.png
+image_alt: "Иллюстрация глоссария: Японские кроссовки"
 keywords:
   - японские кроссовки
   - что такое японские кроссовки

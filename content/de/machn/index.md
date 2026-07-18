@@ -59,7 +59,7 @@ expectations:
       image_webp: "images/machn/v3/service-images/01_farb_wirkungsanalyse_1200x900.webp"
       image_mobile: "images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.png"
       image_mobile_webp: "images/machn/v3/service-images/01_farb_wirkungsanalyse_640x480.webp"
-      alt: "Farbfaecher fuer Farb- und Wirkungsanalyse"
+      alt: "Farbfaecher für Farb- und Wirkungsanalyse"
     - title: "Stil- und Pitch-Auftrittsanalyse"
       text: "Wir betrachten deine Rolle, Persönlichkeit, Branche und deine Pitch-Situation. Daraus entsteht eine Stilrichtung, die deine Botschaft unterstützt."
       image: "images/machn/v3/service-images/02_stil_pitch_auftrittsanalyse_1200x900.png"
@@ -80,7 +80,7 @@ expectations:
       image_webp: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_1200x900.webp"
       image_mobile: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.png"
       image_mobile_webp: "images/machn/v3/service-images/04_mini_style_guide_gruenderinnen_640x480.webp"
-      alt: "Notizbuch und Stift fuer Mini-Style-Guide"
+      alt: "Notizbuch und Stift für Mini-Style-Guide"
 result:
   title: "Das Ergebnis"
   subtitle: "Ein Auftritt, der zu dir und deiner Vision passt."
@@ -88,7 +88,7 @@ result:
   image_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
   image_mobile: "images/machn/v3/people/natalia_schreibtisch.png"
   image_mobile_webp: "images/machn/v3/people/natalia_schreibtisch.webp"
-  image_alt: "Natalia Kleemann im ESKYNA Kontext mit souveraener Business-Ausstrahlung"
+  image_alt: "Natalia Kleemann im ESKYNA Kontext mit souveräner Business-Ausstrahlung"
   items:
     - "Du wirkst souverän, klar und authentisch."
     - "Du weißt, welche Farben deine Präsenz stärken."

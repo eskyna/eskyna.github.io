@@ -16,6 +16,7 @@ keywords:
   - заниженная талия в стиле
   - глоссарий ESKYNA
 weight: 40
+image: images/glossar/drop-waist.png
 relatedTerms:
   - title: Положение талии
     url: /rus/glossariy/polozhenie-talii/

@@ -1,5 +1,6 @@
 ---
 weight: 12
+image: images/glossar/farbkarte.png
 title: What does Color Card mean?
 seoTitle: Color Card explained | ESKYNA Glossary
 term: Color Card

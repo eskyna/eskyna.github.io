@@ -16,6 +16,8 @@ keywords:
   - drop waist
   - high waist
 weight: 39
+image: images/glossar/taillenposition.png
+image_alt: "Glossar-Illustration zu Taillenposition"
 relatedTerms:
   - title: High Waist
     url: /glossar/high-waist/

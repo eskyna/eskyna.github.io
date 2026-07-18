@@ -11,6 +11,8 @@ tags:
   - garderobe
   - kombinierbarkeit
   - stilstrategie
+image: images/glossar/wardrobe-dressing.png
+image_alt: "Glossar-Illustration zu Wardrobe Dressing"
 keywords:
   - wardrobe dressing bedeutung
   - tragbare garderobe
@@ -35,13 +37,13 @@ lastmod: "2026-07-17"
 
 ## Was bedeutet Wardrobe Dressing?
 
-Statt Outfit fuer Outfit neu zu kaufen, baust du eine Garderobe, in der Teile miteinander funktionieren. Entscheidend sind gute Schnitte, wiederkehrende Farben, verlässliche Materialien und klar definierte Rollen der Teile.
+Statt Outfit für Outfit neu zu kaufen, baust du eine Garderobe, in der Teile miteinander funktionieren. Entscheidend sind gute Schnitte, wiederkehrende Farben, verlässliche Materialien und klar definierte Rollen der Teile.
 
-Wardrobe Dressing ist mit [Capsule Wardrobe](/glossar/capsule-wardrobe/) verwandt, aber weniger streng. Farbe und Persoenlichkeit sind erlaubt, solange Kombinierbarkeit bleibt.
+Wardrobe Dressing ist mit [Capsule Wardrobe](/glossar/capsule-wardrobe/) verwandt, aber weniger streng. Farbe und Persönlichkeit sind erlaubt, solange Kombinierbarkeit bleibt.
 
 ## ESKYNA-Extra: Der Drei-Leben-Check
 
-Ein Teil ist stark, wenn es mindestens drei Rollen erfuellt:
+Ein Teil ist stark, wenn es mindestens drei Rollen erfüllt:
 
 1. Alltag, Business, Abend
 2. solo, gelayert, als Akzent

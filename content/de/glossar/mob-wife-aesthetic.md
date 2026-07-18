@@ -15,6 +15,8 @@ keywords:
   - mob wife style
   - lauter glamour look
 weight: 20
+image: images/glossar/mob-wife-aesthetic.png
+image_alt: "Glossar-Illustration zu Mob Wife Aesthetic"
 relatedTerms:
   - title: Animal Print
     url: /glossar/animal-print/

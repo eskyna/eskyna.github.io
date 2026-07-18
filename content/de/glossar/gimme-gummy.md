@@ -1,16 +1,18 @@
 ---
 title: Was bedeutet Gimme Gummy?
-seoTitle: "Gimme Gummy: Der glaenzende, taktile Accessoire-Trend"
+seoTitle: "Gimme Gummy: Der glänzende, taktile Accessoire-Trend"
 term: Gimme Gummy
 slug: gimme-gummy
 url: /glossar/gimme-gummy/
-description: Gimme Gummy steht fuer glaenzende, gummiartige Accessoires, Jelly-Materialien und bonbonartige Farben. So wird der Trend tragbar.
+description: Gimme Gummy steht für glänzende, gummiartige Accessoires, Jelly-Materialien und bonbonartige Farben. So wird der Trend tragbar.
 category: Accessoires
 tags:
   - gimme gummy
   - jelly trend
   - accessoires
   - trend 2026
+image: images/glossar/gimme-gummy.png
+image_alt: "Glossar-Illustration zu Gimme Gummy"
 keywords:
   - gimme gummy trend
   - jelly accessoires
@@ -31,7 +33,7 @@ lastmod: "2026-07-17"
 
 ## Kurzdefinition
 
-**Gimme Gummy** beschreibt eine verspielte Aesthetik mit glaenzenden, elastisch wirkenden und transparenten Oberflaechen.
+**Gimme Gummy** beschreibt eine verspielte Ästhetik mit glänzenden, elastisch wirkenden und transparenten Oberflächen.
 
 ## Was bedeutet Gimme Gummy?
 
@@ -41,17 +43,17 @@ Damit der Look nicht kindlich wirkt, wird Gimme Gummy am besten als Akzent einge
 
 ## ESKYNA-Extra: Touchpoint-Styling
 
-Gib jedem Outfit genau ein Element, das man fast anfassen moechte:
+Gib jedem Outfit genau ein Element, das man fast anfassen möchte:
 
 1. transparenter Ring oder Ohrschmuck
 2. [Jelly Bag](/glossar/jelly-bag/) zu Leinen und Denim
-3. glaenzende Haarspange in bonbonfarbigem Ton
+3. glänzende Haarspange in bonbonfarbigem Ton
 
 **ESKYNA-Satz:** Gimme Gummy ist der Moment, in dem ein Outfit nicht nur gesehen, sondern fast gespürt wird.
 
 ## Styling-Tipp
 
-Nutze den Trend zu ruhigen Basisfarben wie Weiss, Creme, Schwarz oder [Denim](/glossar/denim/). So bleibt der Akzent modern und wirkt nicht ueberladen.
+Nutze den Trend zu ruhigen Basisfarben wie Weiß, Creme, Schwarz oder [Denim](/glossar/denim/). So bleibt der Akzent modern und wirkt nicht überladen.
 
 ## Verwandte Begriffe
 

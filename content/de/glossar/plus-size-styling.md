@@ -15,13 +15,15 @@ keywords:
   - plus size styling
   - größere größen styling
 weight: 32
+image: images/glossar/plus-size-styling.png
+image_alt: "Glossar-Illustration zu Plus-Size-Styling"
 relatedTerms:
   - title: Curvy Styling
     url: /glossar/curvy-styling/
   - title: Passform
     url: /glossar/passform/
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
   - title: Proportion
     url: /glossar/proportion/
   - title: Qualität
@@ -77,6 +79,6 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 
 - [Curvy Styling](/glossar/curvy-styling/)
 - [Passform](/glossar/passform/)
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)
 - [Proportion](/glossar/proportion/)
 - [Qualität](/glossar/qualitaet/)

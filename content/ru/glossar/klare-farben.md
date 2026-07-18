@@ -16,6 +16,7 @@ keywords:
   - чистые цвета в стиле
   - глоссарий ESKYNA
 weight: 15
+image: images/glossar/klare-farben.png
 relatedTerms:
   - title: Приглушенные цвета
     url: /rus/glossariy/priglushennye-tsveta/

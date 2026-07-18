@@ -15,6 +15,8 @@ keywords:
   - stoffqualität
   - griff fall haltbarkeit
 weight: 26
+image: images/glossar/materialqualitaet.png
+image_alt: "Glossar-Illustration zu Materialqualität"
 relatedTerms:
   - title: Qualität
     url: /glossar/qualitaet/

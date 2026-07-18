@@ -1,5 +1,6 @@
 ---
 weight: 39
+image: images/glossar/taillenposition.png
 title: What does Waist Position mean?
 seoTitle: Waist Position explained | ESKYNA Glossary
 term: Waist Position

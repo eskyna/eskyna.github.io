@@ -1,5 +1,6 @@
 ---
 weight: 42
+image: images/glossar/horizontale-linie.png
 title: What does Horizontal Line mean?
 seoTitle: Horizontal Line explained | ESKYNA Glossary
 term: Horizontal Line

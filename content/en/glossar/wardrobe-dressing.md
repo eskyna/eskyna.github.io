@@ -8,6 +8,8 @@ tags:
   - wardrobe dressing
   - wardrobe strategy
   - styling
+image: images/glossar/wardrobe-dressing.png
+image_alt: "Glossary illustration for Wardrobe Dressing"
 keywords:
   - wardrobe dressing meaning
   - wearable wardrobe strategy

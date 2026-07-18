@@ -1,5 +1,6 @@
 ---
 weight: 24
+image: images/glossar/elevated-flip-flop.png
 title: What does Elevated Flip-Flop mean?
 seoTitle: Elevated Flip-Flop explained | ESKYNA Glossary
 term: Elevated Flip-Flop

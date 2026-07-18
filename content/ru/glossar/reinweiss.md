@@ -16,6 +16,7 @@ keywords:
   - чисто-белый в стиле
   - глоссарий ESKYNA
 weight: 17
+image: images/glossar/reinweiss.png
 relatedTerms:
   - title: Белый
     url: /rus/glossariy/belyy/

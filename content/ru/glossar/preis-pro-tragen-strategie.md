@@ -14,6 +14,7 @@ keywords:
   - стратегия цены за носку в стиле
   - глоссарий ESKYNA
 weight: 55
+image: images/glossar/preis-pro-tragen-strategie.png
 relatedTerms:
   - title: Стоимость одного выхода
     url: /rus/glossariy/stoimost-odnogo-vyhoda/

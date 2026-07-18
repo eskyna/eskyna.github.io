@@ -13,6 +13,8 @@ keywords:
   - strandhochzeit dresscode
   - formal am strand
 weight: 20
+image: images/glossar/beach-formal.png
+image_alt: "Glossar-Illustration zu Beach Formal"
 relatedTerms:
   - title: Garden Party Attire
     url: /glossar/garden-party-attire/

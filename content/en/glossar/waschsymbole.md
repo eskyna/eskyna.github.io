@@ -1,5 +1,6 @@
 ---
 weight: 27
+image: images/glossar/waschsymbole.png
 title: What does Laundry Symbols mean?
 seoTitle: Laundry Symbols explained | ESKYNA Glossary
 term: Laundry Symbols

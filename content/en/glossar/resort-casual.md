@@ -1,5 +1,6 @@
 ---
 weight: 21
+image: images/glossar/resort-casual.png
 title: What does Resort Casual mean?
 seoTitle: Resort Casual explained | ESKYNA Glossary
 term: Resort Casual

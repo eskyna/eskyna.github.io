@@ -1,5 +1,6 @@
 ---
 weight: 33
+image: images/glossar/sanduhr-silhouette.png
 title: What does Hourglass Silhouette mean?
 seoTitle: Hourglass Silhouette explained | ESKYNA Glossary
 term: Hourglass Silhouette

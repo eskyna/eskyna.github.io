@@ -7,6 +7,8 @@ tags:
   - jelly bag
   - сумка
   - летние аксессуары
+image: images/glossar/jelly-bag.png
+image_alt: "Иллюстрация глоссария: Jelly Bag"
 keywords:
   - jelly bag
   - что такое jelly bag

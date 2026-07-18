@@ -15,9 +15,11 @@ keywords:
   - androgyne frauen merkmale
   - was bedeutet androgyne figur
 weight: 3
+image: images/glossar/androgyne-figur.png
+image_alt: "Glossar-Illustration zu Androgyne Figur"
 relatedTerms:
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
   - title: Silhouette
     url: /glossar/silhouette/
   - title: Proportion
@@ -87,7 +89,7 @@ Eine androgyne Figur braucht keine Korrektur. Sie gewinnt durch klare Linie, bew
 
 ## Verwandte Begriffe
 
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)
 - [Silhouette](/glossar/silhouette/)
 - [Proportion](/glossar/proportion/)
 - [Androgyner Stil](/glossar/androgyner-stil/)

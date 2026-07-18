@@ -14,6 +14,8 @@ keywords:
   - balletcore style
   - ballett ästhetik
 weight: 24
+image: images/glossar/balletcore.png
+image_alt: "Glossar-Illustration zu Balletcore"
 relatedTerms:
   - title: Ballerina
     url: /glossar/ballerina/

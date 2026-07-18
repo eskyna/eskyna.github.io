@@ -15,6 +15,8 @@ keywords:
   - vortrag outfit
   - auftritt kleidung
 weight: 12
+image: images/glossar/buehnenoutfit.png
+image_alt: "Glossar-Illustration zu Bühnenoutfit"
 relatedTerms:
   - title: Speaker-Outfit
     url: /glossar/speaker-outfit/

@@ -16,6 +16,7 @@ keywords:
   - белые тканевые кроссовки в стиле
   - глоссарий ESKYNA
 weight: 25
+image: images/glossar/white-canvas-sneaker.png
 relatedTerms:
   - title: Кроссовки
     url: /rus/glossariy/sneaker/

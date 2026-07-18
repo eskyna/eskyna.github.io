@@ -14,6 +14,7 @@ keywords:
   - прямоугольный силуэт в стиле
   - глоссарий ESKYNA
 weight: 34
+image: images/glossar/rechteck-silhouette.png
 relatedTerms:
   - title: Силуэт
     url: /rus/glossariy/siluet/

@@ -1,5 +1,6 @@
 ---
 weight: 7
+image: images/glossar/fruehlingstyp.png
 title: What does Spring Color Type mean?
 seoTitle: Spring Color Type explained | ESKYNA Glossary
 term: Spring Color Type

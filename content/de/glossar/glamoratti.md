@@ -14,6 +14,8 @@ keywords:
   - opulenter stil
   - 80s luxury
 weight: 16
+image: images/glossar/glamoratti.png
+image_alt: "Glossar-Illustration zu Glamoratti"
 relatedTerms:
   - title: 80s Luxury
     url: /glossar/80s-luxury/

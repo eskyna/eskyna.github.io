@@ -1,5 +1,6 @@
 ---
 weight: 19
+image: images/glossar/cloud-dancer.png
 title: What does Cloud Dancer mean?
 seoTitle: Cloud Dancer explained | ESKYNA Glossary
 term: Cloud Dancer

@@ -1,5 +1,6 @@
 ---
 weight: 28
+image: images/glossar/faser-mix.png
 title: What does Fiber Blend mean?
 seoTitle: Fiber Blend explained | ESKYNA Glossary
 term: Fiber Blend

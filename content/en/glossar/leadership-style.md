@@ -1,5 +1,6 @@
 ---
 weight: 9
+image: images/glossar/leadership-style.png
 title: What does Leadership Style mean?
 seoTitle: Leadership Style explained | ESKYNA Glossary
 term: Leadership Style

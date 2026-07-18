@@ -15,6 +15,8 @@ keywords:
   - taschenweste
   - utility weste
 weight: 28
+image: images/glossar/pocket-vest.png
+image_alt: "Glossar-Illustration zu Pocket Vest"
 relatedTerms:
   - title: Weste
     url: /glossar/weste/

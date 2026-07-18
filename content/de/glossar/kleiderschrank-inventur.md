@@ -14,6 +14,8 @@ keywords:
   - kleiderschrank inventur
   - garderobe erfassen
 weight: 53
+image: images/glossar/kleiderschrank-inventur.png
+image_alt: "Glossar-Illustration zu Kleiderschrank-Inventur"
 relatedTerms:
   - title: Wardrobe Audit
     url: /glossar/wardrobe-audit/

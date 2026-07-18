@@ -17,6 +17,8 @@ keywords:
   - cool summer
   - sommer farbtyp
 weight: 8
+image: images/glossar/sommertyp.png
+image_alt: "Glossar-Illustration zu Sommertyp"
 relatedTerms:
   - title: Farbtyp
     url: /glossar/farbtyp/

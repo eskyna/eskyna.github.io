@@ -1,5 +1,6 @@
 ---
 weight: 23
+image: images/glossar/gorpcore.png
 title: What does Gorpcore mean?
 seoTitle: Gorpcore explained | ESKYNA Glossary
 term: Gorpcore

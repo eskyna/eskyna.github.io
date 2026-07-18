@@ -14,6 +14,7 @@ keywords:
   - баланс плеч и бёдер в стиле
   - глоссарий ESKYNA
 weight: 37
+image: images/glossar/schulter-hueft-balance.png
 relatedTerms:
   - title: Баланс
     url: /rus/glossariy/balans/

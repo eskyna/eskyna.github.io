@@ -8,6 +8,8 @@ tags:
   - art deco evening
   - neo deco
   - evening style
+image: images/glossar/art-deco-evening-neo-deco.png
+image_alt: "Glossary illustration for Art Deco Evening"
 keywords:
   - art deco evening meaning
   - neo deco style

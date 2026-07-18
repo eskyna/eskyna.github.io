@@ -1,5 +1,6 @@
 ---
 weight: 49
+image: images/glossar/optische-streckung.png
 title: What does Visual Elongation mean?
 seoTitle: Visual Elongation explained | ESKYNA Glossary
 term: Visual Elongation

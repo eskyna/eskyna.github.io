@@ -14,6 +14,8 @@ keywords:
   - reversnadel
   - anstecker am revers
 weight: 25
+image: images/glossar/lapel-pin.png
+image_alt: "Glossar-Illustration zu Lapel Pin"
 relatedTerms:
   - title: Brooched
     url: /glossar/brooched/

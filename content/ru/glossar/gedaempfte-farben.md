@@ -16,6 +16,7 @@ keywords:
   - приглушенные цвета в стиле
   - глоссарий ESKYNA
 weight: 16
+image: images/glossar/gedaempfte-farben.png
 relatedTerms:
   - title: Чистые цвета
     url: /rus/glossariy/chistye-tsveta/

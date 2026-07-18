@@ -7,7 +7,7 @@ category: Farb-Lexikon
 color_hex: "#1F5F63"
 tags:
   - petrol
-  - blaugruen
+  - blaugrün
   - farbe
   - farbberatung
   - farbwirkung
@@ -21,7 +21,7 @@ image: images/glossar/petrol.png
 image_alt: Editoriale Grafik zu Petrol mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
   - title: Türkis
-    url: /glossar/tuerkis/
+    url: /glossar/türkis/
   - title: Blau
     url: /glossar/blau/
   - title: Grün

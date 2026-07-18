@@ -32,7 +32,7 @@ relatedTerms:
   - title: Hellblau
     url: /glossar/hellblau/
   - title: Türkis
-    url: /glossar/tuerkis/
+    url: /glossar/türkis/
   - title: Petrol
     url: /glossar/petrol/
 faq:

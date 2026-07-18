@@ -1,5 +1,6 @@
 ---
 weight: 23
+image: images/glossar/black-tie-optional.png
 title: What does Black Tie Optional mean?
 seoTitle: Black Tie Optional explained | ESKYNA Glossary
 term: Black Tie Optional

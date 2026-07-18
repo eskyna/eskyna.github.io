@@ -16,6 +16,7 @@ keywords:
   - облегающие лодочки в стиле
   - глоссарий ESKYNA
 weight: 19
+image: images/glossar/glove-pump.png
 relatedTerms:
   - title: Лодочки
     url: /rus/glossariy/pumps/

@@ -8,6 +8,8 @@ tags:
   - fisherman sandals
   - summer shoes
   - sandals
+image: images/glossar/fisherman-sandals-fischersandalen.png
+image_alt: "Glossary illustration for Fisherman Sandals"
 keywords:
   - fisherman sandals meaning
   - how to style fisherman sandals

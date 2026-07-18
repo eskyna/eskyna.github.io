@@ -1,5 +1,6 @@
 ---
 weight: 9
+image: images/glossar/herbsttyp.png
 title: What does Autumn Color Type mean?
 seoTitle: Autumn Color Type explained | ESKYNA Glossary
 term: Autumn Color Type

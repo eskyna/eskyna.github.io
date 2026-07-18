@@ -1,5 +1,6 @@
 ---
 weight: 12
+image: images/glossar/buehnenoutfit.png
 title: What does Stage Outfit mean?
 seoTitle: Stage Outfit explained | ESKYNA Glossary
 term: Stage Outfit

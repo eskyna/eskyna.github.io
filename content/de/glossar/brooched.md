@@ -15,6 +15,8 @@ keywords:
   - brosche am blazer
   - lapel pin
 weight: 19
+image: images/glossar/brooched.png
+image_alt: "Glossar-Illustration zu Brooched"
 relatedTerms:
   - title: Accessoire
     url: /glossar/accessoire/

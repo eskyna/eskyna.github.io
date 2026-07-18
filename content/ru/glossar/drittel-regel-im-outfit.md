@@ -16,6 +16,7 @@ keywords:
   - правило третей в образе в стиле
   - глоссарий ESKYNA
 weight: 43
+image: images/glossar/drittel-regel-im-outfit.png
 relatedTerms:
   - title: Пропорции
     url: /rus/glossariy/proportsii/

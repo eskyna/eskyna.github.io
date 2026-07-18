@@ -1,5 +1,6 @@
 ---
 weight: 30
+image: images/glossar/tall-styling.png
 title: What does Tall Styling mean?
 seoTitle: Tall Styling explained | ESKYNA Glossary
 term: Tall Styling

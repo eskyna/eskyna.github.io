@@ -16,6 +16,7 @@ keywords:
   - стайлинг для пышных форм в стиле
   - глоссарий ESKYNA
 weight: 31
+image: images/glossar/curvy-styling.png
 relatedTerms:
   - title: Форма тела
     url: /rus/glossariy/forma-tela/

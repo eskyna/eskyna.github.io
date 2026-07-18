@@ -1,5 +1,6 @@
 ---
 weight: 14
+image: images/glossar/farbharmonie.png
 title: What does Color Harmony mean?
 seoTitle: Color Harmony explained | ESKYNA Glossary
 term: Color Harmony

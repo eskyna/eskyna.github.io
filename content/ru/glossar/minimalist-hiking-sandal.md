@@ -7,6 +7,8 @@ tags:
   - minimalist hiking sandal
   - сандалии
   - летний тренд
+image: images/glossar/minimalist-hiking-sandal.png
+image_alt: "Иллюстрация глоссария: Minimalist Hiking Sandal"
 keywords:
   - minimalist hiking sandal
   - что такое minimalist hiking sandal

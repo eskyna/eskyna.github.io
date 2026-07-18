@@ -7,6 +7,8 @@ tags:
   - schlubby shirt
   - oversize
   - футболка
+image: images/glossar/schlubby-shirt.png
+image_alt: "Иллюстрация глоссария: Schlubby Shirt"
 keywords:
   - schlubby shirt
   - что такое schlubby shirt

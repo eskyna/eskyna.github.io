@@ -16,6 +16,7 @@ keywords:
   - апсайклинг в стиле
   - глоссарий ESKYNA
 weight: 50
+image: images/glossar/upcycling.png
 relatedTerms:
   - title: Цикличная мода
     url: /rus/glossariy/tsiklichnaya-moda/

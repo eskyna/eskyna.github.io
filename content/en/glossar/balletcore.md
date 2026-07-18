@@ -1,5 +1,6 @@
 ---
 weight: 24
+image: images/glossar/balletcore.png
 title: What does Balletcore mean?
 seoTitle: Balletcore explained | ESKYNA Glossary
 term: Balletcore

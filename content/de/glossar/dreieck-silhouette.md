@@ -14,6 +14,8 @@ keywords:
   - triangle silhouette
   - hüfte breiter als schultern
 weight: 35
+image: images/glossar/dreieck-silhouette.png
+image_alt: "Glossar-Illustration zu Dreieck-Silhouette"
 relatedTerms:
   - title: Silhouette
     url: /glossar/silhouette/
@@ -22,7 +24,7 @@ relatedTerms:
   - title: Balance
     url: /glossar/balance/
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
   - title: A-Linie
     url: /glossar/a-linie/
 faq:
@@ -77,5 +79,5 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Silhouette](/glossar/silhouette/)
 - [Schulter-Hüft-Balance](/glossar/schulter-hueft-balance/)
 - [Balance](/glossar/balance/)
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)
 - [A-Linie](/glossar/a-linie/)

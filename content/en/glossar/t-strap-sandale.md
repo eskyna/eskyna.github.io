@@ -1,5 +1,6 @@
 ---
 weight: 20
+image: images/glossar/t-strap-sandale.png
 title: What does T-Strap Sandal mean?
 seoTitle: T-Strap Sandal explained | ESKYNA Glossary
 term: T-Strap Sandal

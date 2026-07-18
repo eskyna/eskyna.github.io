@@ -1,5 +1,6 @@
 ---
 weight: 23
+image: images/glossar/retro-clog.png
 title: What does Retro Clog mean?
 seoTitle: Retro Clog explained | ESKYNA Glossary
 term: Retro Clog

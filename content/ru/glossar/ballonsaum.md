@@ -8,6 +8,8 @@ tags:
   - юбка
   - платье
   - объем
+image: images/glossar/ballonsaum.png
+image_alt: "Иллюстрация глоссария: Баллонный подол"
 keywords:
   - баллонный подол
   - что такое баллонный подол

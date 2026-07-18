@@ -16,6 +16,7 @@ keywords:
   - цветовая гармония в стиле
   - глоссарий ESKYNA
 weight: 14
+image: images/glossar/farbharmonie.png
 relatedTerms:
   - title: Цветовая палитра
     url: /rus/glossariy/tsvetovaya-palitra/

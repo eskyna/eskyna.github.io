@@ -8,6 +8,8 @@ tags:
   - jelly bag
   - bag trend
   - summer accessories
+image: images/glossar/jelly-bag.png
+image_alt: "Glossary illustration for Jelly Bag"
 keywords:
   - jelly bag
   - what is a jelly bag

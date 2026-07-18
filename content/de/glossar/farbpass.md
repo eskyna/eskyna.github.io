@@ -15,6 +15,8 @@ keywords:
   - persönliche farben
   - farbkarte farbberatung
 weight: 11
+image: images/glossar/farbpass.png
+image_alt: "Glossar-Illustration zu Farbpass"
 relatedTerms:
   - title: Farbkarte
     url: /glossar/farbkarte/

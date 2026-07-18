@@ -14,6 +14,7 @@ keywords:
   - вертикальная линия в стиле
   - глоссарий ESKYNA
 weight: 41
+image: images/glossar/vertikale-linie.png
 relatedTerms:
   - title: Направление взгляда
     url: /rus/glossariy/napravlenie-vzglyada/

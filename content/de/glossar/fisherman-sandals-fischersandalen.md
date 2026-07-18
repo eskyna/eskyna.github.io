@@ -11,6 +11,8 @@ tags:
   - fischersandalen
   - sommerschuhe
   - schuhe
+image: images/glossar/fisherman-sandals-fischersandalen.png
+image_alt: "Glossar-Illustration zu Fisherman Sandals"
 keywords:
   - fisherman sandals bedeutung
   - fischersandalen trend

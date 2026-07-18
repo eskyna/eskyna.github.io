@@ -14,6 +14,7 @@ keywords:
   - нарядный кэжуал в стиле
   - глоссарий ESKYNA
 weight: 18
+image: images/glossar/dressy-casual.png
 relatedTerms:
   - title: Смарт-кэжуал
     url: /rus/glossariy/smart-casual/

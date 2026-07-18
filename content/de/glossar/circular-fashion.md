@@ -15,6 +15,8 @@ keywords:
   - kreislauf mode
   - mode wiederverwertung
 weight: 49
+image: images/glossar/circular-fashion.png
+image_alt: "Glossar-Illustration zu Circular Fashion"
 relatedTerms:
   - title: Slow Fashion
     url: /glossar/slow-fashion/

@@ -16,6 +16,7 @@ keywords:
   - минималистичная танкетка в стиле
   - глоссарий ESKYNA
 weight: 22
+image: images/glossar/minimalist-wedge.png
 relatedTerms:
   - title: Платформа
     url: /rus/glossariy/platforma/

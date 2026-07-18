@@ -15,6 +15,8 @@ keywords:
   - clog
   - holzsohlen schuh
 weight: 23
+image: images/glossar/retro-clog.png
+image_alt: "Glossar-Illustration zu Retro Clog"
 relatedTerms:
   - title: Mule
     url: /glossar/mule/

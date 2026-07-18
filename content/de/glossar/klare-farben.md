@@ -14,6 +14,8 @@ keywords:
   - leuchtende farben
   - clear colors
 weight: 15
+image: images/glossar/klare-farben.png
+image_alt: "Glossar-Illustration zu Klare Farben"
 relatedTerms:
   - title: Gedämpfte Farben
     url: /glossar/gedaempfte-farben/

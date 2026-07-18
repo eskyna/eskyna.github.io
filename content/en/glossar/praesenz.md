@@ -1,5 +1,6 @@
 ---
 weight: 12
+image: images/glossar/praesenz.png
 title: What does Presence mean?
 seoTitle: Presence explained | ESKYNA Glossary
 term: Presence

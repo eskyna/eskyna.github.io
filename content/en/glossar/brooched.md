@@ -1,5 +1,6 @@
 ---
 weight: 19
+image: images/glossar/brooched.png
 title: What does Brooched mean?
 seoTitle: Brooched explained | ESKYNA Glossary
 term: Brooched

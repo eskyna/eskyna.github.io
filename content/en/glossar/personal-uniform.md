@@ -1,5 +1,6 @@
 ---
 weight: 14
+image: images/glossar/personal-uniform.png
 title: What does Personal Uniform mean?
 seoTitle: Personal Uniform explained | ESKYNA Glossary
 term: Personal Uniform

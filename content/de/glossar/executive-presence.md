@@ -15,6 +15,8 @@ keywords:
   - führungsausstrahlung
   - präsenz im business
 weight: 7
+image: images/glossar/executive-presence.png
+image_alt: "Glossar-Illustration zu Executive Presence"
 relatedTerms:
   - title: Wirkung
     url: /glossar/wirkung/

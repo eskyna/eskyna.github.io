@@ -1,5 +1,6 @@
 ---
 weight: 34
+image: images/glossar/rechteck-silhouette.png
 title: What does Rectangle Silhouette mean?
 seoTitle: Rectangle Silhouette explained | ESKYNA Glossary
 term: Rectangle Silhouette

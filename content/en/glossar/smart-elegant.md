@@ -1,5 +1,6 @@
 ---
 weight: 27
+image: images/glossar/smart-elegant.png
 title: What does Smart Elegant mean?
 seoTitle: Smart Elegant explained | ESKYNA Glossary
 term: Smart Elegant

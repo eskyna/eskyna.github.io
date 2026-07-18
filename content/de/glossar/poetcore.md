@@ -16,6 +16,8 @@ keywords:
   - poet aesthetic
   - romantisch intellektueller stil
 weight: 15
+image: images/glossar/poetcore.png
+image_alt: "Glossar-Illustration zu Poetcore"
 relatedTerms:
   - title: Dark Academia
     url: /glossar/dark-academia/

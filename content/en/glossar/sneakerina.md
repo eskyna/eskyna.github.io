@@ -1,5 +1,6 @@
 ---
 weight: 18
+image: images/glossar/sneakerina.png
 title: What does Sneakerina mean?
 seoTitle: Sneakerina explained | ESKYNA Glossary
 term: Sneakerina

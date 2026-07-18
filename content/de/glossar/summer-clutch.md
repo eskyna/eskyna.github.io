@@ -15,6 +15,8 @@ keywords:
   - sommertasche clutch
   - leichte clutch
 weight: 23
+image: images/glossar/summer-clutch.png
+image_alt: "Glossar-Illustration zu Summer Clutch"
 relatedTerms:
   - title: Clutch
     url: /glossar/clutch/

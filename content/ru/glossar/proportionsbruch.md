@@ -16,6 +16,7 @@ keywords:
   - контраст пропорций в стиле
   - глоссарий ESKYNA
 weight: 44
+image: images/glossar/proportionsbruch.png
 relatedTerms:
   - title: Пропорции
     url: /rus/glossariy/proportsii/

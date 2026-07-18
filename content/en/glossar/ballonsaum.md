@@ -9,6 +9,8 @@ tags:
   - skirt
   - dress
   - volume
+image: images/glossar/ballonsaum.png
+image_alt: "Glossary illustration for Balloon Hem"
 keywords:
   - balloon hem
   - what is a balloon hem

@@ -16,6 +16,7 @@ keywords:
   - пляжный формальный дресс-код в стиле
   - глоссарий ESKYNA
 weight: 20
+image: images/glossar/beach-formal.png
 relatedTerms:
   - title: Дресс-код для садовой вечеринки
     url: /rus/glossariy/garden-party-attire/

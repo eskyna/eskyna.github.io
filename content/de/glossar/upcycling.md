@@ -14,6 +14,8 @@ keywords:
   - deadstock
   - kleidung neu verarbeiten
 weight: 50
+image: images/glossar/upcycling.png
+image_alt: "Glossar-Illustration zu Upcycling"
 relatedTerms:
   - title: Circular Fashion
     url: /glossar/circular-fashion/

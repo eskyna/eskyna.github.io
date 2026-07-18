@@ -1,5 +1,6 @@
 ---
 weight: 22
+image: images/glossar/cottagecore.png
 title: What does Cottagecore mean?
 seoTitle: Cottagecore explained | ESKYNA Glossary
 term: Cottagecore

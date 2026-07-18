@@ -1,5 +1,6 @@
 ---
 weight: 50
+image: images/glossar/upcycling.png
 title: What does Upcycling mean?
 seoTitle: Upcycling explained | ESKYNA Glossary
 term: Upcycling

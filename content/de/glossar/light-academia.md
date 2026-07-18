@@ -15,6 +15,8 @@ keywords:
   - light academia style
   - helle akademische ästhetik
 weight: 26
+image: images/glossar/light-academia.png
+image_alt: "Glossar-Illustration zu Light Academia"
 relatedTerms:
   - title: Dark Academia
     url: /glossar/dark-academia/

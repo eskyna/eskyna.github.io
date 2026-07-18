@@ -1,5 +1,6 @@
 ---
 weight: 11
+image: images/glossar/auftreten.png
 title: What does Appearance mean?
 seoTitle: Appearance explained | ESKYNA Glossary
 term: Appearance

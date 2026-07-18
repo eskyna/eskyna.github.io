@@ -16,6 +16,7 @@ keywords:
   - стилизация с брошами в стиле
   - глоссарий ESKYNA
 weight: 19
+image: images/glossar/brooched.png
 relatedTerms:
   - title: Аксессуар
     url: /rus/glossariy/aksessuar/

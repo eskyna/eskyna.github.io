@@ -16,6 +16,7 @@ keywords:
   - строгий деловой дресс-код в стиле
   - глоссарий ESKYNA
 weight: 25
+image: images/glossar/business-professional.png
 relatedTerms:
   - title: Деловой формальный стиль
     url: /rus/glossariy/business-formal/

@@ -1,5 +1,6 @@
 ---
 weight: 20
+image: images/glossar/beach-formal.png
 title: What does Beach Formal mean?
 seoTitle: Beach Formal explained | ESKYNA Glossary
 term: Beach Formal

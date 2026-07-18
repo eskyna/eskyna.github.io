@@ -1,5 +1,6 @@
 ---
 weight: 17
+image: images/glossar/reinweiss.png
 title: What does Pure White mean?
 seoTitle: Pure White explained | ESKYNA Glossary
 term: Pure White

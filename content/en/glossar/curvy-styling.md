@@ -1,5 +1,6 @@
 ---
 weight: 31
+image: images/glossar/curvy-styling.png
 title: What does Curvy Styling mean?
 seoTitle: Curvy Styling explained | ESKYNA Glossary
 term: Curvy Styling

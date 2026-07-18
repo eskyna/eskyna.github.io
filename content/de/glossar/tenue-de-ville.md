@@ -14,6 +14,8 @@ keywords:
   - tenue de ville dresscode
   - tagesdresscode
 weight: 22
+image: images/glossar/tenue-de-ville.png
+image_alt: "Glossar-Illustration zu Tenue de Ville"
 relatedTerms:
   - title: Dresscode
     url: /glossar/dresscode/

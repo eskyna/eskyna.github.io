@@ -16,6 +16,7 @@ keywords:
   - коктейльный дресс-код в стиле
   - глоссарий ESKYNA
 weight: 16
+image: images/glossar/cocktail-attire.png
 relatedTerms:
   - title: Коктейль
     url: /rus/glossariy/kokteyl/

@@ -1,5 +1,6 @@
 ---
 weight: 4
+image: images/glossar/stilsicherheit.png
 title: What does Style Confidence mean?
 seoTitle: Style Confidence explained | ESKYNA Glossary
 term: Style Confidence

@@ -1,5 +1,6 @@
 ---
 weight: 13
+image: images/glossar/speaker-outfit.png
 title: What does Speaker Outfit mean?
 seoTitle: Speaker Outfit explained | ESKYNA Glossary
 term: Speaker Outfit

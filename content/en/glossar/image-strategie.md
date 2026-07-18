@@ -1,5 +1,6 @@
 ---
 weight: 8
+image: images/glossar/image-strategie.png
 title: What does Image Strategy mean?
 seoTitle: Image Strategy explained | ESKYNA Glossary
 term: Image Strategy

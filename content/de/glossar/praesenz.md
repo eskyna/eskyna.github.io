@@ -15,6 +15,8 @@ keywords:
   - präsenz im raum
   - ausstrahlung kleidung
 weight: 12
+image: images/glossar/praesenz.png
+image_alt: "Glossar-Illustration zu Präsenz"
 relatedTerms:
   - title: Ausstrahlung
     url: /glossar/ausstrahlung/

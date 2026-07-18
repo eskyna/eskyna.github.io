@@ -16,6 +16,7 @@ keywords:
   - аксессуары для галстука в стиле
   - глоссарий ESKYNA
 weight: 26
+image: images/glossar/tie-accessories.png
 relatedTerms:
   - title: Поэткор
     url: /rus/glossariy/poetcore/

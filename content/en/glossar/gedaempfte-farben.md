@@ -1,5 +1,6 @@
 ---
 weight: 16
+image: images/glossar/gedaempfte-farben.png
 title: What does Muted Colors mean?
 seoTitle: Muted Colors explained | ESKYNA Glossary
 term: Muted Colors

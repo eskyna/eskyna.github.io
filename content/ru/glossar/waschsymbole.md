@@ -14,6 +14,7 @@ keywords:
   - символы ухода в стиле
   - глоссарий ESKYNA
 weight: 27
+image: images/glossar/waschsymbole.png
 relatedTerms:
   - title: Ярлык по уходу
     url: /rus/glossariy/yarlyk-po-uhodu/

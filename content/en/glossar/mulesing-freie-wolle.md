@@ -1,5 +1,6 @@
 ---
 weight: 29
+image: images/glossar/mulesing-freie-wolle.png
 title: What does Mulesing-Free Wool mean?
 seoTitle: Mulesing-Free Wool explained | ESKYNA Glossary
 term: Mulesing-Free Wool

@@ -1,5 +1,6 @@
 ---
 weight: 16
+image: images/glossar/glamoratti.png
 title: What does Glamoratti mean?
 seoTitle: Glamoratti explained | ESKYNA Glossary
 term: Glamoratti

@@ -1,5 +1,6 @@
 ---
 weight: 11
+image: images/glossar/linkedin-outfit.png
 title: What does LinkedIn Outfit mean?
 seoTitle: LinkedIn Outfit explained | ESKYNA Glossary
 term: LinkedIn Outfit

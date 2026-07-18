@@ -1,5 +1,6 @@
 ---
 weight: 35
+image: images/glossar/dreieck-silhouette.png
 title: What does Triangle Silhouette mean?
 seoTitle: Triangle Silhouette explained | ESKYNA Glossary
 term: Triangle Silhouette

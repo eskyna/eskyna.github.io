@@ -16,6 +16,7 @@ keywords:
   - сетчатая сумка-шоппер в стиле
   - глоссарий ESKYNA
 weight: 21
+image: images/glossar/netted-shopper.png
 relatedTerms:
   - title: Шоппер
     url: /rus/glossariy/shopper/

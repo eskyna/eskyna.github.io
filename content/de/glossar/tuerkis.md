@@ -6,10 +6,10 @@ description: Türkis liegt zwischen Blau und Grün. Die Farbe wirkt frisch und l
 category: Farb-Lexikon
 color_hex: "#2FA6A0"
 tags:
-  - tuerkis
+  - türkis
   - türkis
   - farbe
-  - blaugruen
+  - blaugrün
   - farbberatung
 keywords:
   - türkis kleidung

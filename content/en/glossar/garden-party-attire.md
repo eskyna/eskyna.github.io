@@ -1,5 +1,6 @@
 ---
 weight: 19
+image: images/glossar/garden-party-attire.png
 title: What does Garden Party Attire mean?
 seoTitle: Garden Party Attire explained | ESKYNA Glossary
 term: Garden Party Attire

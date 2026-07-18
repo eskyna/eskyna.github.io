@@ -7,13 +7,13 @@ category: Farb-Lexikon
 color_hex: "#6F8062"
 tags:
   - grün
-  - gruen
+  - grün
   - farbe
   - farbberatung
   - farbwirkung
 keywords:
   - grün kleidung
-  - gruen kombinieren
+  - grün kombinieren
   - oliv salbei smaragd
   - stilberatung
 weight: 7

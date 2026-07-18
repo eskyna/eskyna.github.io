@@ -14,6 +14,7 @@ keywords:
   - бизнес-коктейль в стиле
   - глоссарий ESKYNA
 weight: 26
+image: images/glossar/business-cocktail.png
 relatedTerms:
   - title: Коктейльный дресс-код
     url: /rus/glossariy/kokteylnyy-dress-kod/

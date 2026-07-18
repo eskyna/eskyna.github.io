@@ -1,5 +1,6 @@
 ---
 weight: 53
+image: images/glossar/kleiderschrank-inventur.png
 title: What does Wardrobe Inventory mean?
 seoTitle: Wardrobe Inventory explained | ESKYNA Glossary
 term: Wardrobe Inventory

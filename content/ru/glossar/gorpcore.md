@@ -16,6 +16,7 @@ keywords:
   - горпкор в стиле
   - глоссарий ESKYNA
 weight: 23
+image: images/glossar/gorpcore.png
 relatedTerms:
   - title: Куртка утилити
     url: /rus/glossariy/utility-jacket/

@@ -14,6 +14,7 @@ keywords:
   - стилевое сообщение в стиле
   - глоссарий ESKYNA
 weight: 10
+image: images/glossar/stilbotschaft.png
 relatedTerms:
   - title: Впечатление
     url: /rus/glossariy/vpechatlenie/

@@ -14,6 +14,8 @@ keywords:
   - breite im outfit
   - unterbrechung styling
 weight: 42
+image: images/glossar/horizontale-linie.png
+image_alt: "Glossar-Illustration zu Horizontale Linie"
 relatedTerms:
   - title: Saumlänge
     url: /glossar/saumlange/

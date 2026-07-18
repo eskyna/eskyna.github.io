@@ -16,6 +16,8 @@ keywords:
   - personal branding outfit
   - imageberatung
 weight: 8
+image: images/glossar/personal-branding.png
+image_alt: "Glossar-Illustration zu Personal Branding"
 relatedTerms:
   - title: Image
     url: /glossar/image/

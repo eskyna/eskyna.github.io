@@ -16,6 +16,7 @@ keywords:
   - клауд дэнсер в стиле
   - глоссарий ESKYNA
 weight: 19
+image: images/glossar/cloud-dancer.png
 relatedTerms:
   - title: Кремово-белый
     url: /rus/glossariy/kremovo-belyy/

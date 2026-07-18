@@ -15,6 +15,8 @@ keywords:
   - outfit botschaft
   - wirkung kleidung
 weight: 10
+image: images/glossar/stilbotschaft.png
+image_alt: "Glossar-Illustration zu Stilbotschaft"
 relatedTerms:
   - title: Wirkung
     url: /glossar/wirkung/

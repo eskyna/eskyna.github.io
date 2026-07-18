@@ -16,6 +16,7 @@ keywords:
   - булавка для лацкана в стиле
   - глоссарий ESKYNA
 weight: 25
+image: images/glossar/lapel-pin.png
 relatedTerms:
   - title: Стилизация с брошами
     url: /rus/glossariy/stilizatsiya-s-broshami/

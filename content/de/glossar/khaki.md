@@ -7,7 +7,7 @@ color_hex: "#B7A77A"
 tags:
   - khaki
   - beige
-  - gruen
+  - grün
   - farbe
   - farbberatung
 keywords:

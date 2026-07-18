@@ -16,6 +16,7 @@ keywords:
   - стайлинг для размера плюс в стиле
   - глоссарий ESKYNA
 weight: 32
+image: images/glossar/plus-size-styling.png
 relatedTerms:
   - title: Стайлинг для пышных форм
     url: /rus/glossariy/curvy-styling/

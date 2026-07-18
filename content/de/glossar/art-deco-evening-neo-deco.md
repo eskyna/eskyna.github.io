@@ -11,6 +11,8 @@ tags:
   - neo deco
   - abendmode
   - glamour
+image: images/glossar/art-deco-evening-neo-deco.png
+image_alt: "Glossar-Illustration zu Art Deco Evening"
 keywords:
   - art deco evening bedeutung
   - neo deco styling
@@ -44,7 +46,7 @@ Die moderne Version braucht keinen kompletten Gatsby-Look. Oft reicht ein starke
 Nutze drei Bausteine:
 
 1. eine klare Linie
-2. ein Lichtfaenger
+2. ein Lichtfänger
 3. ein dunkler Rahmen
 
 Beispiel: schwarzes Kleid, grafische Ohrringe, Metallic-Clutch.
@@ -53,7 +55,7 @@ Beispiel: schwarzes Kleid, grafische Ohrringe, Metallic-Clutch.
 
 ## Styling-Tipp
 
-Waehle genau ein auffaelliges Deco-Element und halte den Rest reduziert. So wirkt der Abendlook edel statt ueberinszeniert.
+Wähle genau ein auffälliges Deco-Element und halte den Rest reduziert. So wirkt der Abendlook edel statt überinszeniert.
 
 ## Verwandte Begriffe
 

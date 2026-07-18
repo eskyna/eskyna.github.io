@@ -14,6 +14,8 @@ keywords:
   - bewusster modekonsum
   - langlebige garderobe
 weight: 48
+image: images/glossar/slow-fashion.png
+image_alt: "Glossar-Illustration zu Slow Fashion"
 relatedTerms:
   - title: Circular Fashion
     url: /glossar/circular-fashion/

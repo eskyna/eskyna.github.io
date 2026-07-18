@@ -15,6 +15,8 @@ keywords:
   - reines weiss
   - kühles weiss
 weight: 17
+image: images/glossar/reinweiss.png
+image_alt: "Glossar-Illustration zu Reinweiß"
 relatedTerms:
   - title: Weiss
     url: /glossar/weiss/

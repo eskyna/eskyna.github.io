@@ -1,5 +1,6 @@
 ---
 weight: 28
+image: images/glossar/pocket-vest.png
 title: What does Pocket Vest mean?
 seoTitle: Pocket Vest explained | ESKYNA Glossary
 term: Pocket Vest

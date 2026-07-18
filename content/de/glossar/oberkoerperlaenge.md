@@ -14,6 +14,8 @@ keywords:
   - oberkörper wirkt lang
   - verhältnis beine oberkörper
 weight: 48
+image: images/glossar/oberkoerperlaenge.png
+image_alt: "Glossar-Illustration zu Oberkörperlänge"
 relatedTerms:
   - title: Taillenposition
     url: /glossar/taillenposition/

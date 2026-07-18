@@ -15,6 +15,8 @@ keywords:
   - optische streckung
   - länger wirken styling
 weight: 41
+image: images/glossar/vertikale-linie.png
+image_alt: "Glossar-Illustration zu Vertikale Linie"
 relatedTerms:
   - title: Blickführung
     url: /glossar/blickfuehrung/
@@ -23,7 +25,7 @@ relatedTerms:
   - title: Horizontale Linie
     url: /glossar/horizontale-linie/
   - title: Layering-Länge
-    url: /glossar/layering-laenge/
+    url: /glossar/layering-länge/
   - title: Saumlänge
     url: /glossar/saumlange/
 faq:
@@ -78,5 +80,5 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Blickführung](/glossar/blickfuehrung/)
 - [Längsstreckung](/glossar/laengsstreckung/)
 - [Horizontale Linie](/glossar/horizontale-linie/)
-- [Layering-Länge](/glossar/layering-laenge/)
+- [Layering-Länge](/glossar/layering-länge/)
 - [Saumlänge](/glossar/saumlange/)

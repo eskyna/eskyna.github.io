@@ -1,5 +1,6 @@
 ---
 weight: 52
+image: images/glossar/wardrobe-audit.png
 title: What does Wardrobe Audit mean?
 seoTitle: Wardrobe Audit explained | ESKYNA Glossary
 term: Wardrobe Audit

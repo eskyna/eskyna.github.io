@@ -1,5 +1,6 @@
 ---
 weight: 41
+image: images/glossar/vertikale-linie.png
 title: What does Vertical Line mean?
 seoTitle: Vertical Line explained | ESKYNA Glossary
 term: Vertical Line

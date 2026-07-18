@@ -1,5 +1,6 @@
 ---
 weight: 26
+image: images/glossar/business-cocktail.png
 title: What does Business Cocktail mean?
 seoTitle: Business Cocktail explained | ESKYNA Glossary
 term: Business Cocktail

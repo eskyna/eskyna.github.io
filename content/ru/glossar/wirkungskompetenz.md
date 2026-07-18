@@ -16,6 +16,7 @@ keywords:
   - навык управления впечатлением в стиле
   - глоссарий ESKYNA
 weight: 8
+image: images/glossar/wirkungskompetenz.png
 relatedTerms:
   - title: Впечатление
     url: /rus/glossariy/vpechatlenie/

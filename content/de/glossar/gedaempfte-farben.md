@@ -15,6 +15,8 @@ keywords:
   - soft colors
   - ruhige farben
 weight: 16
+image: images/glossar/gedaempfte-farben.png
+image_alt: "Glossar-Illustration zu Gedämpfte Farben"
 relatedTerms:
   - title: Klare Farben
     url: /glossar/klare-farben/

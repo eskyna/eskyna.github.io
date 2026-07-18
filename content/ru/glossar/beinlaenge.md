@@ -16,6 +16,7 @@ keywords:
   - длина ног в стиле
   - глоссарий ESKYNA
 weight: 38
+image: images/glossar/beinlaenge.png
 relatedTerms:
   - title: Длина низа
     url: /rus/glossariy/dlina-niza/

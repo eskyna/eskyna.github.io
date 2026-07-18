@@ -8,6 +8,8 @@ tags:
   - vamp romantic
   - dark romance
   - evening style
+image: images/glossar/vamp-romantic.png
+image_alt: "Glossary illustration for Vamp Romantic"
 keywords:
   - vamp romantic meaning
   - dark romance fashion trend

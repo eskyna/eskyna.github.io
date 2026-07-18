@@ -1,5 +1,6 @@
 ---
 weight: 18
+image: images/glossar/dressy-casual.png
 title: What does Dressy Casual mean?
 seoTitle: Dressy Casual explained | ESKYNA Glossary
 term: Dressy Casual

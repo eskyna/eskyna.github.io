@@ -16,6 +16,7 @@ keywords:
   - праздничный дресс-код в стиле
   - глоссарий ESKYNA
 weight: 17
+image: images/glossar/festive-attire.png
 relatedTerms:
   - title: Праздничная одежда
     url: /rus/glossariy/prazdnichnaya-odezhda/

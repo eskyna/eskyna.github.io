@@ -15,6 +15,8 @@ keywords:
   - naturfaser kunstfaser
   - mischgewebe
 weight: 28
+image: images/glossar/faser-mix.png
+image_alt: "Glossar-Illustration zu Faser-Mix"
 relatedTerms:
   - title: Baumwolle
     url: /glossar/baumwolle/

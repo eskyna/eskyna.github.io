@@ -14,6 +14,8 @@ keywords:
   - smart elegant outfit
   - gepflegt elegant
 weight: 27
+image: images/glossar/smart-elegant.png
+image_alt: "Glossar-Illustration zu Smart Elegant"
 relatedTerms:
   - title: Smart Casual
     url: /glossar/smart-casual/

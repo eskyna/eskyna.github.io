@@ -11,6 +11,8 @@ tags:
   - lace aesthetic
   - spitze
   - schnuerung
+image: images/glossar/laced-up-lace-aesthetic.png
+image_alt: "Glossar-Illustration zu Laced Up"
 keywords:
   - laced up bedeutung
   - lace aesthetic trend
@@ -35,7 +37,7 @@ lastmod: "2026-07-17"
 
 ## Was bedeutet Laced Up?
 
-Der Look kann romantisch, sinnlich oder kreativ wirken. Entscheidend ist die Platzierung. Statt nur Spitzenkleid oder Spitzenbluse wird Lace 2026 haeufig als Detail eingesetzt: am Schuh, am Taschenhenkel, als Saumkante oder unter sportlichen Teilen.
+Der Look kann romantisch, sinnlich oder kreativ wirken. Entscheidend ist die Platzierung. Statt nur Spitzenkleid oder Spitzenbluse wird Lace 2026 häufig als Detail eingesetzt: am Schuh, am Taschenhenkel, als Saumkante oder unter sportlichen Teilen.
 
 So entsteht Spannung statt Klischee. Spitze verliert das rein Brav-Romantische und wirkt aktueller.
 
@@ -45,7 +47,7 @@ Der moderne Effekt entsteht, wenn Spitze an einer unerwarteten Stelle auftaucht:
 
 1. Spitzenkragen unter [Sweatshirt](/glossar/sweatshirt/)
 2. geschnuerte [Ballerinas](/glossar/ballerina/)
-3. Lace-Detail an Manschette oder Guertel
+3. Lace-Detail an Manschette oder Gürtel
 4. zartes Band an einer strukturierten Tasche
 
 **ESKYNA-Satz:** Laced Up wird spannend, wenn Spitze nicht romantisiert, sondern zweckentfremdet wird.

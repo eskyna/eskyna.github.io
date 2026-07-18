@@ -1,5 +1,6 @@
 ---
 weight: 13
+image: images/glossar/brand-wardrobe.png
 title: What does Brand Wardrobe mean?
 seoTitle: Brand Wardrobe explained | ESKYNA Glossary
 term: Brand Wardrobe

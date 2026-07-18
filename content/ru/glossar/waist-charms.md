@@ -7,6 +7,8 @@ tags:
   - waist charms
   - аксессуары
   - пояс
+image: images/glossar/waist-charms.png
+image_alt: "Иллюстрация глоссария: Waist Charms"
 keywords:
   - waist charms
   - что такое waist charms

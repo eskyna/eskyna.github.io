@@ -1,5 +1,6 @@
 ---
 weight: 20
+image: images/glossar/mob-wife-aesthetic.png
 title: What does Mob Wife Aesthetic mean?
 seoTitle: Mob Wife Aesthetic explained | ESKYNA Glossary
 term: Mob Wife Aesthetic

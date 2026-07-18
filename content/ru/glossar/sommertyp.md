@@ -16,6 +16,7 @@ keywords:
   - летний цветотип в стиле
   - глоссарий ESKYNA
 weight: 8
+image: images/glossar/sommertyp.png
 relatedTerms:
   - title: Цветотип
     url: /rus/glossariy/tsvetotip/

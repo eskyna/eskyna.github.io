@@ -1,5 +1,6 @@
 ---
 weight: 22
+image: images/glossar/tenue-de-ville.png
 title: What does Tenu De Ville mean?
 seoTitle: Tenu De Ville explained | ESKYNA Glossary
 term: Tenu De Ville

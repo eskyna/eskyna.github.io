@@ -16,6 +16,7 @@ keywords:
   - длина корпуса в стиле
   - глоссарий ESKYNA
 weight: 48
+image: images/glossar/oberkoerperlaenge.png
 relatedTerms:
   - title: Положение талии
     url: /rus/glossariy/polozhenie-talii/

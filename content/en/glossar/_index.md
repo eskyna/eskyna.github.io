@@ -36,6 +36,8 @@ url: /en/glossary/
 aliases:
   - /en/glossar/
   - /glossary/
+image: images/glossar/_index.png
+image_alt: "Glossary illustration for Glossary"
 ---
 
 The ESKYNA glossary is your clear reference for style knowledge. It explains terms from style consulting, color theory, cut, materials, dress codes, and wardrobe planning. Not as a dry fashion dictionary, but as practical guidance for real style decisions.

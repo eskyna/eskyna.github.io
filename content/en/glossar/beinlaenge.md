@@ -1,5 +1,6 @@
 ---
 weight: 38
+image: images/glossar/beinlaenge.png
 title: What does Leg Length mean?
 seoTitle: Leg Length explained | ESKYNA Glossary
 term: Leg Length

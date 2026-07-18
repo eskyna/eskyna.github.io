@@ -16,6 +16,7 @@ keywords:
   - ретро-клоги в стиле
   - глоссарий ESKYNA
 weight: 23
+image: images/glossar/retro-clog.png
 relatedTerms:
   - title: Мюли
     url: /rus/glossariy/mule/

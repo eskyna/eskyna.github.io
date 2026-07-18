@@ -14,6 +14,7 @@ keywords:
   - длина слоев в стиле
   - глоссарий ESKYNA
 weight: 46
+image: images/glossar/layering-laenge.png
 relatedTerms:
   - title: Многослойность
     url: /rus/glossariy/mnogosloynost/

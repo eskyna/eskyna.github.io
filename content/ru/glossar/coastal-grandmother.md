@@ -16,6 +16,7 @@ keywords:
   - эстетика прибрежной бабушки в стиле
   - глоссарий ESKYNA
 weight: 21
+image: images/glossar/coastal-grandmother.png
 relatedTerms:
   - title: Темно-синий
     url: /rus/glossariy/navy/

@@ -11,6 +11,8 @@ tags:
   - balloon trousers
   - silhouette
   - hosenformen
+image: images/glossar/ballonhose-balloon-trousers.png
+image_alt: "Glossar-Illustration zu Ballonhose"
 keywords:
   - ballonhose bedeutung
   - balloon trousers styling
@@ -31,7 +33,7 @@ lastmod: "2026-07-17"
 
 ## Kurzdefinition
 
-Eine **Ballonhose** ist eine Hose mit runder, voluminöser Form, die an Huefte und Oberschenkel weiter ist und zum Saum hin schmaler wird.
+Eine **Ballonhose** ist eine Hose mit runder, voluminöser Form, die an Hüfte und Oberschenkel weiter ist und zum Saum hin schmaler wird.
 
 ## Was bedeutet Ballonhose?
 
@@ -51,7 +53,7 @@ Die Ballonhose ist Kleidung mit Atemraum:
 
 ## Styling-Tipp
 
-Kombiniere die Form mit schmaleren oder kuerzeren Oberteilen wie [Tanktop](/glossar/tanktop/), tailliertem Strick oder [Cropped](/glossar/cropped/) Blazer. So bleibt die Proportion klar.
+Kombiniere die Form mit schmaleren oder kürzeren Oberteilen wie [Tanktop](/glossar/tanktop/), tailliertem Strick oder [Cropped](/glossar/cropped/) Blazer. So bleibt die Proportion klar.
 
 ## Verwandte Begriffe
 

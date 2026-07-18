@@ -16,6 +16,7 @@ keywords:
   - инвентаризация гардероба в стиле
   - глоссарий ESKYNA
 weight: 53
+image: images/glossar/kleiderschrank-inventur.png
 relatedTerms:
   - title: Аудит гардероба
     url: /rus/glossariy/audit-garderoba/

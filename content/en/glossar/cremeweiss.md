@@ -1,5 +1,6 @@
 ---
 weight: 18
+image: images/glossar/cremeweiss.png
 title: What does Cream White mean?
 seoTitle: Cream White explained | ESKYNA Glossary
 term: Cream White

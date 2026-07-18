@@ -1,5 +1,6 @@
 ---
 weight: 51
+image: images/glossar/langlebigkeit.png
 title: What does Longevity mean?
 seoTitle: Longevity explained | ESKYNA Glossary
 term: Longevity

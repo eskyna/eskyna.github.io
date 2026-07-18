@@ -14,6 +14,8 @@ keywords:
   - festliche kleidung dresscode
   - festive outfit
 weight: 17
+image: images/glossar/festive-attire.png
+image_alt: "Glossar-Illustration zu Festive Attire"
 relatedTerms:
   - title: Festliche Kleidung
     url: /glossar/festliche-kleidung/

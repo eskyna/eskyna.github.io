@@ -14,6 +14,7 @@ keywords:
   - силуэт песочные часы в стиле
   - глоссарий ESKYNA
 weight: 33
+image: images/glossar/sanduhr-silhouette.png
 relatedTerms:
   - title: Силуэт
     url: /rus/glossariy/siluet/

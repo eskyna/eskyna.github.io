@@ -1,5 +1,6 @@
 ---
 weight: 21
+image: images/glossar/jelly-sandals.png
 title: What does Jelly Sandals mean?
 seoTitle: Jelly Sandals explained | ESKYNA Glossary
 term: Jelly Sandals

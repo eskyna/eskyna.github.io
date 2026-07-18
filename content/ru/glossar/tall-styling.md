@@ -16,6 +16,7 @@ keywords:
   - стайлинг для высокого роста в стиле
   - глоссарий ESKYNA
 weight: 30
+image: images/glossar/tall-styling.png
 relatedTerms:
   - title: Вертикальная линия
     url: /rus/glossariy/vertikalnaya-liniya/

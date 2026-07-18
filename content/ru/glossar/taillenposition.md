@@ -16,6 +16,7 @@ keywords:
   - положение талии в стиле
   - глоссарий ESKYNA
 weight: 39
+image: images/glossar/taillenposition.png
 relatedTerms:
   - title: Высокая посадка
     url: /rus/glossariy/vysokaya-posadka/

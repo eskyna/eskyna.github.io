@@ -1,5 +1,6 @@
 ---
 weight: 26
+image: images/glossar/tie-accessories.png
 title: What does Tie Accessories mean?
 seoTitle: Tie Accessories explained | ESKYNA Glossary
 term: Tie Accessories

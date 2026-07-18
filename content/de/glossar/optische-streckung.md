@@ -15,6 +15,8 @@ keywords:
   - länger wirken styling
   - vertikaler look
 weight: 49
+image: images/glossar/optische-streckung.png
+image_alt: "Glossar-Illustration zu Optische Streckung"
 relatedTerms:
   - title: Vertikale Linie
     url: /glossar/vertikale-linie/

@@ -15,6 +15,8 @@ keywords:
   - gebundene accessoires
   - schleife krawatte styling
 weight: 26
+image: images/glossar/tie-accessories.png
+image_alt: "Glossar-Illustration zu Tie Accessories"
 relatedTerms:
   - title: Poetcore
     url: /glossar/poetcore/

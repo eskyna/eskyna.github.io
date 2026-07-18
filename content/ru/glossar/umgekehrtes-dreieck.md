@@ -16,6 +16,7 @@ keywords:
   - перевёрнутый треугольник в стиле
   - глоссарий ESKYNA
 weight: 36
+image: images/glossar/umgekehrtes-dreieck.png
 relatedTerms:
   - title: Силуэт
     url: /rus/glossariy/siluet/

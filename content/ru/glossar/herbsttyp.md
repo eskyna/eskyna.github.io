@@ -16,6 +16,7 @@ keywords:
   - осенний цветотип в стиле
   - глоссарий ESKYNA
 weight: 9
+image: images/glossar/herbsttyp.png
 relatedTerms:
   - title: Цветотип
     url: /rus/glossariy/tsvetotip/

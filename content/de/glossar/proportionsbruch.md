@@ -15,6 +15,8 @@ keywords:
   - ungewöhnliche proportion outfit
   - drop waist
 weight: 44
+image: images/glossar/proportionsbruch.png
+image_alt: "Glossar-Illustration zu Proportionsbruch"
 relatedTerms:
   - title: Proportion
     url: /glossar/proportion/

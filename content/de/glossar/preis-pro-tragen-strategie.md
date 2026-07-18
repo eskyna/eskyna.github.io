@@ -14,6 +14,8 @@ keywords:
   - cost per wear strategie
   - preis pro tragen
 weight: 55
+image: images/glossar/preis-pro-tragen-strategie.png
+image_alt: "Glossar-Illustration zu Preis-pro-Tragen-Strategie"
 relatedTerms:
   - title: Cost per Wear
     url: /glossar/cost-per-wear/

@@ -8,6 +8,8 @@ tags:
   - laced up
   - lace aesthetic
   - кружево
+image: images/glossar/laced-up-lace-aesthetic.png
+image_alt: "Иллюстрация глоссария: Laced Up"
 keywords:
   - laced up значение
   - lace aesthetic тренд

@@ -16,6 +16,7 @@ keywords:
   - лидерский стиль в стиле
   - глоссарий ESKYNA
 weight: 9
+image: images/glossar/leadership-style.png
 relatedTerms:
   - title: Лидерское присутствие
     url: /rus/glossariy/liderskoe-prisutstvie/

@@ -1,5 +1,6 @@
 ---
 weight: 25
+image: images/glossar/business-professional.png
 title: What does Business Professional mean?
 seoTitle: Business Professional explained | ESKYNA Glossary
 term: Business Professional

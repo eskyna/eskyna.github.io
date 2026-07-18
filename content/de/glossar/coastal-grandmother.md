@@ -14,6 +14,8 @@ keywords:
   - coastal grandmother style
   - maritim elegante ästhetik
 weight: 21
+image: images/glossar/coastal-grandmother.png
+image_alt: "Glossar-Illustration zu Coastal Grandmother"
 relatedTerms:
   - title: Navy
     url: /glossar/navy/

@@ -14,6 +14,8 @@ keywords:
   - rectangle silhouette
   - gerade figur
 weight: 34
+image: images/glossar/rechteck-silhouette.png
+image_alt: "Glossar-Illustration zu Rechteck-Silhouette"
 relatedTerms:
   - title: Silhouette
     url: /glossar/silhouette/
@@ -22,7 +24,7 @@ relatedTerms:
   - title: Androgyne Figur
     url: /glossar/androgyne-figur/
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
   - title: Proportion
     url: /glossar/proportion/
 faq:
@@ -77,5 +79,5 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Silhouette](/glossar/silhouette/)
 - [H-Linie](/glossar/h-linie/)
 - [Androgyne Figur](/glossar/androgyne-figur/)
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)
 - [Proportion](/glossar/proportion/)

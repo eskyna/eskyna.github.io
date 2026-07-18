@@ -15,6 +15,8 @@ keywords:
   - edler zehentrenner
   - eleganter flip flop
 weight: 24
+image: images/glossar/elevated-flip-flop.png
+image_alt: "Glossar-Illustration zu Elevated Flip-Flop"
 relatedTerms:
   - title: Sandale
     url: /glossar/sandale/

@@ -1,5 +1,6 @@
 ---
 weight: 16
+image: images/glossar/cocktail-attire.png
 title: What does Cocktail Attire mean?
 seoTitle: Cocktail Attire explained | ESKYNA Glossary
 term: Cocktail Attire

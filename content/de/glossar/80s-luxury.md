@@ -14,6 +14,8 @@ keywords:
   - 80er luxus
   - power suit stil
 weight: 17
+image: images/glossar/80s-luxury.png
+image_alt: "Glossar-Illustration zu 80s Luxury"
 relatedTerms:
   - title: Schulterpolster
     url: /glossar/schulterpolster/

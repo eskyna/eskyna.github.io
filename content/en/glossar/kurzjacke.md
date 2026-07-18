@@ -8,6 +8,8 @@ tags:
   - short jacket
   - cropped jacket
   - proportions
+image: images/glossar/kurzjacke.png
+image_alt: "Glossary illustration for Short Jacket"
 keywords:
   - short jacket
   - what is a short jacket

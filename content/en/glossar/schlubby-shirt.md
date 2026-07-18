@@ -8,6 +8,8 @@ tags:
   - schlubby shirt
   - oversized shirt
   - t-shirt
+image: images/glossar/schlubby-shirt.png
+image_alt: "Glossary illustration for Schlubby Shirt"
 keywords:
   - schlubby shirt
   - what is a schlubby shirt

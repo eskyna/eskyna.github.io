@@ -14,6 +14,8 @@ keywords:
   - cremeweiss farbe
   - warmes weiss
 weight: 18
+image: images/glossar/cremeweiss.png
+image_alt: "Glossar-Illustration zu Cremeweiß"
 relatedTerms:
   - title: Creme
     url: /glossar/creme/

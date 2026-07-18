@@ -1,5 +1,6 @@
 ---
 weight: 23
+image: images/glossar/summer-clutch.png
 title: What does Summer Clutch mean?
 seoTitle: Summer Clutch explained | ESKYNA Glossary
 term: Summer Clutch

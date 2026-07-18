@@ -8,6 +8,8 @@ tags:
   - waist charms
   - accessories
   - belt styling
+image: images/glossar/waist-charms.png
+image_alt: "Glossary illustration for Waist Charms"
 keywords:
   - waist charms
   - what are waist charms

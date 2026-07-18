@@ -15,6 +15,8 @@ keywords:
   - ausschnitt gesicht hals wirkung
   - v ausschnitt rundhals wirkung
 weight: 45
+image: images/glossar/ausschnittwirkung.png
+image_alt: "Glossar-Illustration zu Ausschnittwirkung"
 relatedTerms:
   - title: Gesichtsrahmung
     url: /glossar/gesichtsrahmung/

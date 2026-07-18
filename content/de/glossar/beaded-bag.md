@@ -15,6 +15,8 @@ keywords:
   - perlentasche
   - tasche mit perlen
 weight: 22
+image: images/glossar/beaded-bag.png
+image_alt: "Glossar-Illustration zu Beaded Bag"
 relatedTerms:
   - title: Clutch
     url: /glossar/clutch/

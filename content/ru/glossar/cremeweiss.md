@@ -16,6 +16,7 @@ keywords:
   - кремово-белый в стиле
   - глоссарий ESKYNA
 weight: 18
+image: images/glossar/cremeweiss.png
 relatedTerms:
   - title: Крем
     url: /rus/glossariy/krem/

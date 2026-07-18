@@ -15,6 +15,8 @@ keywords:
   - mulesing frei
   - ethische wolle
 weight: 29
+image: images/glossar/mulesing-freie-wolle.png
+image_alt: "Glossar-Illustration zu Mulesing-freie Wolle"
 relatedTerms:
   - title: Wolle
     url: /glossar/wolle/

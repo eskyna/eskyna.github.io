@@ -13,6 +13,8 @@ keywords:
   - gartenparty dresscode
   - sommerlich elegant
 weight: 19
+image: images/glossar/garden-party-attire.png
+image_alt: "Glossar-Illustration zu Garden Party Attire"
 relatedTerms:
   - title: Festliche Kleidung
     url: /glossar/festliche-kleidung/

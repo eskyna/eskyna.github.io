@@ -16,6 +16,7 @@ keywords:
   - полуформальный дресс-код в стиле
   - глоссарий ESKYNA
 weight: 15
+image: images/glossar/semi-formal.png
 relatedTerms:
   - title: Дресс-код
     url: /rus/glossariy/dress-kod/

@@ -14,6 +14,7 @@ keywords:
   - эффект выреза в стиле
   - глоссарий ESKYNA
 weight: 45
+image: images/glossar/ausschnittwirkung.png
 relatedTerms:
   - title: Обрамление лица
     url: /rus/glossariy/obramlenie-litsa/

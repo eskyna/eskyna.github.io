@@ -1,5 +1,6 @@
 ---
 weight: 19
+image: images/glossar/glove-pump.png
 title: What does Glove Pump mean?
 seoTitle: Glove Pump explained | ESKYNA Glossary
 term: Glove Pump

@@ -16,6 +16,7 @@ keywords:
   - образ для linkedin в стиле
   - глоссарий ESKYNA
 weight: 11
+image: images/glossar/linkedin-outfit.png
 relatedTerms:
   - title: Персональный бренд
     url: /rus/glossariy/personalnyy-brend/

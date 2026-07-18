@@ -14,6 +14,7 @@ keywords:
   - сникерина в стиле
   - глоссарий ESKYNA
 weight: 18
+image: images/glossar/sneakerina.png
 relatedTerms:
   - title: Балетки
     url: /rus/glossariy/baletki/

@@ -1,5 +1,6 @@
 ---
 weight: 25
+image: images/glossar/lapel-pin.png
 title: What does Lapel Pin mean?
 seoTitle: Lapel Pin explained | ESKYNA Glossary
 term: Lapel Pin

@@ -16,6 +16,7 @@ keywords:
   - образ для видеозвонка в стиле
   - глоссарий ESKYNA
 weight: 10
+image: images/glossar/video-call-outfit.png
 relatedTerms:
   - title: Образ для встречи
     url: /rus/glossariy/obraz-dlya-vstrechi/

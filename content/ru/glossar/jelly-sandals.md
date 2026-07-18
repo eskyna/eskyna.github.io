@@ -16,6 +16,7 @@ keywords:
   - желейные сандалии в стиле
   - глоссарий ESKYNA
 weight: 21
+image: images/glossar/jelly-sandals.png
 relatedTerms:
   - title: Сандалии
     url: /rus/glossariy/sandalii/

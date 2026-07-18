@@ -13,6 +13,8 @@ keywords:
   - semi formal dresscode
   - gehobene kleidung
 weight: 15
+image: images/glossar/semi-formal.png
+image_alt: "Glossar-Illustration zu Semi Formal"
 relatedTerms:
   - title: Dresscode
     url: /glossar/dresscode/

@@ -14,6 +14,8 @@ keywords:
   - creative black tie dresscode
   - formal mit twist
 weight: 24
+image: images/glossar/creative-black-tie.png
+image_alt: "Glossar-Illustration zu Creative Black Tie"
 relatedTerms:
   - title: Black Tie
     url: /glossar/black-tie/

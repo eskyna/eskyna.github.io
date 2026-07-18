@@ -1,5 +1,6 @@
 ---
 weight: 10
+image: images/glossar/fotoshooting-outfit.png
 title: What does Photo Shoot Outfit mean?
 seoTitle: Photo Shoot Outfit explained | ESKYNA Glossary
 term: Photo Shoot Outfit

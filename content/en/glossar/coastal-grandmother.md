@@ -1,5 +1,6 @@
 ---
 weight: 21
+image: images/glossar/coastal-grandmother.png
 title: What does Coastal Grandmother mean?
 seoTitle: Coastal Grandmother explained | ESKYNA Glossary
 term: Coastal Grandmother

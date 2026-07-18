@@ -1,5 +1,6 @@
 ---
 weight: 46
+image: images/glossar/layering-laenge.png
 title: What does Layering Length mean?
 seoTitle: Layering Length explained | ESKYNA Glossary
 term: Layering Length

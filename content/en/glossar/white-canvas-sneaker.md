@@ -1,5 +1,6 @@
 ---
 weight: 25
+image: images/glossar/white-canvas-sneaker.png
 title: What does White Canvas Sneaker mean?
 seoTitle: White Canvas Sneaker explained | ESKYNA Glossary
 term: White Canvas Sneaker

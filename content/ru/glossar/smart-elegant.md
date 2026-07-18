@@ -16,6 +16,7 @@ keywords:
   - смарт-элегант в стиле
   - глоссарий ESKYNA
 weight: 27
+image: images/glossar/smart-elegant.png
 relatedTerms:
   - title: Смарт-кэжуал
     url: /rus/glossariy/smart-casual/

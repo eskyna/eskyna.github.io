@@ -13,6 +13,8 @@ keywords:
   - messenger satchel
   - strukturierte umhaengetasche
 weight: 24
+image: images/glossar/satchel-bag.png
+image_alt: "Glossar-Illustration zu Satchel Bag"
 relatedTerms:
   - title: Crossbody Bag
     url: /glossar/crossbody-bag/

@@ -8,6 +8,8 @@ tags:
   - laced up
   - lace aesthetic
   - lace styling
+image: images/glossar/laced-up-lace-aesthetic.png
+image_alt: "Glossary illustration for Laced Up"
 keywords:
   - laced up meaning
   - lace aesthetic trend

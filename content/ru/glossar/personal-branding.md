@@ -16,6 +16,7 @@ keywords:
   - персональный бренд в стиле
   - глоссарий ESKYNA
 weight: 8
+image: images/glossar/personal-branding.png
 relatedTerms:
   - title: Имидж
     url: /rus/glossariy/imidzh/

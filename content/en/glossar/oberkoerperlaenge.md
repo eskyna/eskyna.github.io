@@ -1,5 +1,6 @@
 ---
 weight: 48
+image: images/glossar/oberkoerperlaenge.png
 title: What does Torso Length mean?
 seoTitle: Torso Length explained | ESKYNA Glossary
 term: Torso Length

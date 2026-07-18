@@ -15,6 +15,8 @@ keywords:
   - redner outfit
   - bühnenlook business
 weight: 13
+image: images/glossar/speaker-outfit.png
+image_alt: "Glossar-Illustration zu Speaker-Outfit"
 relatedTerms:
   - title: Bühnenoutfit
     url: /glossar/buehnenoutfit/

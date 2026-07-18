@@ -8,6 +8,8 @@ tags:
   - color clash
   - color styling
   - colour blocking
+image: images/glossar/color-clash-farb-clash.png
+image_alt: "Glossary illustration for Color Clash"
 keywords:
   - color clash meaning
   - bold color combinations

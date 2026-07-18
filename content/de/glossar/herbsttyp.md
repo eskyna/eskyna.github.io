@@ -17,6 +17,8 @@ keywords:
   - deep autumn
   - herbst farbtyp
 weight: 9
+image: images/glossar/herbsttyp.png
+image_alt: "Glossar-Illustration zu Herbsttyp"
 relatedTerms:
   - title: Farbtyp
     url: /glossar/farbtyp/

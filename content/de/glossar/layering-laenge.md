@@ -13,6 +13,8 @@ keywords:
   - schichten längen outfit
   - layering proportion
 weight: 46
+image: images/glossar/layering-laenge.png
+image_alt: "Glossar-Illustration zu Layering-Länge"
 relatedTerms:
   - title: Layering
     url: /glossar/layering/

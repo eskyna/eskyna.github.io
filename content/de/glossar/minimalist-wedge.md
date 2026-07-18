@@ -14,6 +14,8 @@ keywords:
   - keilsandalette
   - minimalistische keilschuhe
 weight: 22
+image: images/glossar/minimalist-wedge.png
+image_alt: "Glossar-Illustration zu Minimalist Wedge"
 relatedTerms:
   - title: Plateau
     url: /glossar/plateau/

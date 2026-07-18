@@ -16,6 +16,7 @@ keywords:
   - сумка из рафии в стиле
   - глоссарий ESKYNA
 weight: 20
+image: images/glossar/raffia-bag.png
 relatedTerms:
   - title: Шоппер
     url: /rus/glossariy/shopper/

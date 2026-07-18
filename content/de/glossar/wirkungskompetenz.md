@@ -15,6 +15,8 @@ keywords:
   - aussere wirkung
   - wirkung bewusst steuern
 weight: 8
+image: images/glossar/wirkungskompetenz.png
+image_alt: "Glossar-Illustration zu Wirkungskompetenz"
 relatedTerms:
   - title: Wirkung
     url: /glossar/wirkung/

@@ -1,5 +1,6 @@
 ---
 weight: 10
+image: images/glossar/wintertyp.png
 title: What does Winter Color Type mean?
 seoTitle: Winter Color Type explained | ESKYNA Glossary
 term: Winter Color Type

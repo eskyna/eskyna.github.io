@@ -13,6 +13,8 @@ keywords:
   - dressy casual outfit
   - gepflegt casual
 weight: 18
+image: images/glossar/dressy-casual.png
+image_alt: "Glossar-Illustration zu Dressy Casual"
 relatedTerms:
   - title: Smart Casual
     url: /glossar/smart-casual/

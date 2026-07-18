@@ -15,6 +15,8 @@ keywords:
   - farben kombinieren
   - harmonische farben
 weight: 14
+image: images/glossar/farbharmonie.png
+image_alt: "Glossar-Illustration zu Farbharmonie"
 relatedTerms:
   - title: Farbpalette
     url: /glossar/farbpalette/

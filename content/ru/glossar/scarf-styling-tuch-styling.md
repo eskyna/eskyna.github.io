@@ -8,6 +8,8 @@ tags:
   - scarf styling
   - платок
   - аксессуары
+image: images/glossar/scarf-styling-tuch-styling.png
+image_alt: "Иллюстрация глоссария: Scarf Styling"
 keywords:
   - scarf styling значение
   - как носить платок

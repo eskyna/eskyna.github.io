@@ -1,5 +1,6 @@
 ---
 weight: 54
+image: images/glossar/kaufkriterien.png
 title: What does Buying Criteria mean?
 seoTitle: Buying Criteria explained | ESKYNA Glossary
 term: Buying Criteria

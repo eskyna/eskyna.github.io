@@ -15,6 +15,8 @@ keywords:
   - erster eindruck kleidung
   - wirkung erster eindruck
 weight: 9
+image: images/glossar/first-impression.png
+image_alt: "Glossar-Illustration zu First Impression"
 relatedTerms:
   - title: Image
     url: /glossar/image/

@@ -14,6 +14,7 @@ keywords:
   - манера держаться в стиле
   - глоссарий ESKYNA
 weight: 11
+image: images/glossar/auftreten.png
 relatedTerms:
   - title: Присутствие
     url: /rus/glossariy/prisutstvie/

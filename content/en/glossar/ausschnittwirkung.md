@@ -1,5 +1,6 @@
 ---
 weight: 45
+image: images/glossar/ausschnittwirkung.png
 title: What does Neckline Effect mean?
 seoTitle: Neckline Effect explained | ESKYNA Glossary
 term: Neckline Effect

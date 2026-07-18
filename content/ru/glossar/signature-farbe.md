@@ -16,6 +16,7 @@ keywords:
   - фирменный цвет в стиле
   - глоссарий ESKYNA
 weight: 13
+image: images/glossar/signature-farbe.png
 relatedTerms:
   - title: Фирменный образ
     url: /rus/glossariy/firmennyy-obraz/

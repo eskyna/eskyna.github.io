@@ -1,5 +1,6 @@
 ---
 weight: 15
+image: images/glossar/poetcore.png
 title: What does Potcore mean?
 seoTitle: Potcore explained | ESKYNA Glossary
 term: Potcore

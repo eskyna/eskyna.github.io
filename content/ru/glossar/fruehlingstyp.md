@@ -16,6 +16,7 @@ keywords:
   - весенний цветотип в стиле
   - глоссарий ESKYNA
 weight: 7
+image: images/glossar/fruehlingstyp.png
 relatedTerms:
   - title: Цветотип
     url: /rus/glossariy/tsvetotip/

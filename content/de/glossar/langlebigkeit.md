@@ -13,9 +13,11 @@ tags:
 keywords:
   - langlebigkeit
   - reparatur kleidung
-  - aenderungsschneiderei
+  - änderungsschneiderei
   - haltbare kleidung
 weight: 51
+image: images/glossar/langlebigkeit.png
+image_alt: "Glossar-Illustration zu Langlebigkeit"
 relatedTerms:
   - title: Qualität
     url: /glossar/qualitaet/

@@ -16,6 +16,7 @@ keywords:
   - городской дневной дресс-код в стиле
   - глоссарий ESKYNA
 weight: 22
+image: images/glossar/tenue-de-ville.png
 relatedTerms:
   - title: Дресс-код
     url: /rus/glossariy/dress-kod/

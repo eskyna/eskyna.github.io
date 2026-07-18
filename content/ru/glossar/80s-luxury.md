@@ -16,6 +16,7 @@ keywords:
   - роскошь 80-х в стиле
   - глоссарий ESKYNA
 weight: 17
+image: images/glossar/80s-luxury.png
 relatedTerms:
   - title: Подплечники
     url: /rus/glossariy/podplechniki/

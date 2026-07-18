@@ -1,5 +1,6 @@
 ---
 weight: 15
+image: images/glossar/semi-formal.png
 title: What does Semi Formal mean?
 seoTitle: Semi Formal explained | ESKYNA Glossary
 term: Semi Formal

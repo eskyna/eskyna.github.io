@@ -8,6 +8,8 @@ tags:
   - balloon trousers
   - силуэт
   - объем
+image: images/glossar/ballonhose-balloon-trousers.png
+image_alt: "Иллюстрация глоссария: Balloon Trousers"
 keywords:
   - balloon trousers значение
   - как носить balloon trousers

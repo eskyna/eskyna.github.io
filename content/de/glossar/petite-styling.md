@@ -15,6 +15,8 @@ keywords:
   - kleine körpergröße styling
   - proportion petite
 weight: 29
+image: images/glossar/petite-styling.png
+image_alt: "Glossar-Illustration zu Petite Styling"
 relatedTerms:
   - title: Saumlänge
     url: /glossar/saumlange/

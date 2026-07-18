@@ -8,6 +8,8 @@ tags:
   - pants under skirts
   - layering
   - skirt styling
+image: images/glossar/hosen-unter-roecken.png
+image_alt: "Glossary illustration for Pants under Skirts"
 keywords:
   - pants under skirts
   - skirt over pants

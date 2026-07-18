@@ -14,6 +14,8 @@ keywords:
   - cocktail attire dresscode
   - cocktail kleidung
 weight: 16
+image: images/glossar/cocktail-attire.png
+image_alt: "Glossar-Illustration zu Cocktail Attire"
 relatedTerms:
   - title: Cocktail
     url: /glossar/cocktail/

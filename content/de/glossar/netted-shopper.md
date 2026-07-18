@@ -15,6 +15,8 @@ keywords:
   - netztasche
   - netz shopper
 weight: 21
+image: images/glossar/netted-shopper.png
+image_alt: "Glossar-Illustration zu Netted Shopper"
 relatedTerms:
   - title: Shopper
     url: /glossar/shopper/

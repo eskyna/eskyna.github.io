@@ -14,6 +14,8 @@ keywords:
   - waschzeichen kleidung
   - pflegezeichen
 weight: 27
+image: images/glossar/waschsymbole.png
+image_alt: "Glossar-Illustration zu Waschsymbole"
 relatedTerms:
   - title: Pflegeetikett
     url: /glossar/pflegeetikett/

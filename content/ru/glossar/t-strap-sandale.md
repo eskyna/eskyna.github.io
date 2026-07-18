@@ -16,6 +16,7 @@ keywords:
   - сандалии с т-ремешком в стиле
   - глоссарий ESKYNA
 weight: 20
+image: images/glossar/t-strap-sandale.png
 relatedTerms:
   - title: Сандалии
     url: /rus/glossariy/sandalii/

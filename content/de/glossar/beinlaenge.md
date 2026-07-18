@@ -16,6 +16,8 @@ keywords:
   - schuh saum beziehung
   - taillenposition
 weight: 38
+image: images/glossar/beinlaenge.png
+image_alt: "Glossar-Illustration zu Beinlänge"
 relatedTerms:
   - title: Saumlänge
     url: /glossar/saumlange/

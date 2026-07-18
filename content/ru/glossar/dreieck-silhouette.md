@@ -14,6 +14,7 @@ keywords:
   - треугольный силуэт в стиле
   - глоссарий ESKYNA
 weight: 35
+image: images/glossar/dreieck-silhouette.png
 relatedTerms:
   - title: Силуэт
     url: /rus/glossariy/siluet/

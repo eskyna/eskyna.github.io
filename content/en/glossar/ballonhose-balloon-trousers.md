@@ -8,6 +8,8 @@ tags:
   - balloon trousers
   - silhouette
   - volume
+image: images/glossar/ballonhose-balloon-trousers.png
+image_alt: "Glossary illustration for Balloon Trousers"
 keywords:
   - balloon trousers meaning
   - how to style balloon trousers

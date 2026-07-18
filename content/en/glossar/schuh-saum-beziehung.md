@@ -1,5 +1,6 @@
 ---
 weight: 47
+image: images/glossar/schuh-saum-beziehung.png
 title: What does Shoe-Hem Relationship mean?
 seoTitle: Shoe-Hem Relationship explained | ESKYNA Glossary
 term: Shoe-Hem Relationship

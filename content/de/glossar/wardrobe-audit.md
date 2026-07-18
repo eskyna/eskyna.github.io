@@ -15,6 +15,8 @@ keywords:
   - kleiderschrank analyse
   - kleiderschrank inventur
 weight: 52
+image: images/glossar/wardrobe-audit.png
+image_alt: "Glossar-Illustration zu Wardrobe Audit"
 relatedTerms:
   - title: Kleiderschrank-Check
     url: /glossar/kleiderschrank-check/

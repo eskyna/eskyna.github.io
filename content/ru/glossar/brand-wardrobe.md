@@ -16,6 +16,7 @@ keywords:
   - гардероб бренда в стиле
   - глоссарий ESKYNA
 weight: 13
+image: images/glossar/brand-wardrobe.png
 relatedTerms:
   - title: Персональный бренд
     url: /rus/glossariy/personalnyy-brend/

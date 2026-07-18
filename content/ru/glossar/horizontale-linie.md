@@ -16,6 +16,7 @@ keywords:
   - горизонтальная линия в стиле
   - глоссарий ESKYNA
 weight: 42
+image: images/glossar/horizontale-linie.png
 relatedTerms:
   - title: Длина низа
     url: /rus/glossariy/dlina-niza/

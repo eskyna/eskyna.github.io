@@ -15,6 +15,8 @@ keywords:
   - outfit sichtbarkeit
   - social media outfit business
 weight: 14
+image: images/glossar/sichtbarkeitslook.png
+image_alt: "Glossar-Illustration zu Sichtbarkeitslook"
 relatedTerms:
   - title: Personal Branding
     url: /glossar/personal-branding/

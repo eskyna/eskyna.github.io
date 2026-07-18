@@ -16,6 +16,7 @@ keywords:
   - приключенческий стритвир в стиле
   - глоссарий ESKYNA
 weight: 27
+image: images/glossar/adventure-streetwear.png
 relatedTerms:
   - title: Горпкор
     url: /rus/glossariy/gorpcore/

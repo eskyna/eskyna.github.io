@@ -14,6 +14,8 @@ keywords:
   - auftreten wirkung
   - professionelles auftreten
 weight: 11
+image: images/glossar/auftreten.png
+image_alt: "Glossar-Illustration zu Auftreten"
 relatedTerms:
   - title: Präsenz
     url: /glossar/praesenz/

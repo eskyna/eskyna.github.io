@@ -1,5 +1,6 @@
 ---
 weight: 9
+image: images/glossar/first-impression.png
 title: What does First Impression mean?
 seoTitle: First Impression explained | ESKYNA Glossary
 term: First Impression

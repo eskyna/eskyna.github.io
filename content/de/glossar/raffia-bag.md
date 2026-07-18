@@ -14,6 +14,8 @@ keywords:
   - basttasche
   - naturmaterial tasche
 weight: 20
+image: images/glossar/raffia-bag.png
+image_alt: "Glossar-Illustration zu Raffia Bag"
 relatedTerms:
   - title: Shopper
     url: /glossar/shopper/

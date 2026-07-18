@@ -13,6 +13,8 @@ keywords:
   - signaturfarbe
   - wiedererkennbare farbe
 weight: 13
+image: images/glossar/signature-farbe.png
+image_alt: "Glossar-Illustration zu Signature-Farbe"
 relatedTerms:
   - title: Signature Look
     url: /glossar/signature-look/

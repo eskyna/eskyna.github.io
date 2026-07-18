@@ -1,5 +1,6 @@
 ---
 weight: 18
+image: images/glossar/clean-girl-aesthetic.png
 title: What does Clean Girl Aesthetic mean?
 seoTitle: Clean Girl Aesthetic explained | ESKYNA Glossary
 term: Clean Girl Aesthetic

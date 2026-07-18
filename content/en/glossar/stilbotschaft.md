@@ -1,5 +1,6 @@
 ---
 weight: 10
+image: images/glossar/stilbotschaft.png
 title: What does Style Message mean?
 seoTitle: Style Message explained | ESKYNA Glossary
 term: Style Message

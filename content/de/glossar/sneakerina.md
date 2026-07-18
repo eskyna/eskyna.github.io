@@ -15,6 +15,8 @@ keywords:
   - sneaker ballerina
   - hybrid schuh
 weight: 18
+image: images/glossar/sneakerina.png
+image_alt: "Glossar-Illustration zu Sneakerina"
 relatedTerms:
   - title: Ballerina
     url: /glossar/ballerina/

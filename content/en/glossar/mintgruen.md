@@ -8,6 +8,8 @@ tags:
   - mint green
   - trend color
   - pastel color
+image: images/glossar/mintgruen.png
+image_alt: "Glossary illustration for Mint Green"
 keywords:
   - mint green
   - what is mint green

@@ -16,6 +16,7 @@ keywords:
   - жилет с карманами в стиле
   - глоссарий ESKYNA
 weight: 28
+image: images/glossar/pocket-vest.png
 relatedTerms:
   - title: Жилет
     url: /rus/glossariy/zhilet/

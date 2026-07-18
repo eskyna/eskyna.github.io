@@ -1,5 +1,6 @@
 ---
 weight: 24
+image: images/glossar/creative-black-tie.png
 title: What does Creative Black Tie mean?
 seoTitle: Creative Black Tie explained | ESKYNA Glossary
 term: Creative Black Tie

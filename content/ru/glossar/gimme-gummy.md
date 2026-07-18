@@ -8,6 +8,8 @@ tags:
   - gimme gummy
   - jelly trend
   - аксессуары
+image: images/glossar/gimme-gummy.png
+image_alt: "Иллюстрация глоссария: Gimme Gummy"
 keywords:
   - gimme gummy значение
   - jelly аксессуары

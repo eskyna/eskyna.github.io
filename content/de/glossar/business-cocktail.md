@@ -14,6 +14,8 @@ keywords:
   - business cocktail dresscode
   - empfang outfit
 weight: 26
+image: images/glossar/business-cocktail.png
+image_alt: "Glossar-Illustration zu Business Cocktail"
 relatedTerms:
   - title: Cocktail Attire
     url: /glossar/cocktail-attire/

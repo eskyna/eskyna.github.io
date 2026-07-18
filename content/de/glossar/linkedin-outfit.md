@@ -13,6 +13,8 @@ keywords:
   - profilbild outfit
   - business fotos kleidung
 weight: 11
+image: images/glossar/linkedin-outfit.png
+image_alt: "Glossar-Illustration zu LinkedIn-Outfit"
 relatedTerms:
   - title: Personal Branding
     url: /glossar/personal-branding/

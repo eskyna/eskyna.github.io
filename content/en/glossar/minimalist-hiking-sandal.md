@@ -8,6 +8,8 @@ tags:
   - minimalist hiking sandal
   - sandals
   - summer trend
+image: images/glossar/minimalist-hiking-sandal.png
+image_alt: "Glossary illustration for Minimalist Hiking Sandal"
 keywords:
   - minimalist hiking sandal
   - what is a minimalist hiking sandal

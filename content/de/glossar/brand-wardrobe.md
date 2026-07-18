@@ -15,6 +15,8 @@ keywords:
   - markengarderobe
   - garderobe personal branding
 weight: 13
+image: images/glossar/brand-wardrobe.png
+image_alt: "Glossar-Illustration zu Brand Wardrobe"
 relatedTerms:
   - title: Personal Branding
     url: /glossar/personal-branding/

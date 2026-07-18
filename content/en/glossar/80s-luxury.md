@@ -1,5 +1,6 @@
 ---
 weight: 17
+image: images/glossar/80s-luxury.png
 title: What does 80s Luxury mean?
 seoTitle: 80s Luxury explained | ESKYNA Glossary
 term: 80s Luxury

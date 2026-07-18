@@ -15,6 +15,8 @@ keywords:
   - utility streetwear
   - outdoor street style
 weight: 27
+image: images/glossar/adventure-streetwear.png
+image_alt: "Glossar-Illustration zu Adventure Streetwear"
 relatedTerms:
   - title: Gorpcore
     url: /glossar/gorpcore/

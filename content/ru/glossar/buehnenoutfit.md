@@ -16,6 +16,7 @@ keywords:
   - сценический образ в стиле
   - глоссарий ESKYNA
 weight: 12
+image: images/glossar/buehnenoutfit.png
 relatedTerms:
   - title: Образ спикера
     url: /rus/glossariy/obraz-spikera/

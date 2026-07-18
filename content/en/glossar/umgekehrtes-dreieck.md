@@ -1,5 +1,6 @@
 ---
 weight: 36
+image: images/glossar/umgekehrtes-dreieck.png
 title: What does Inverted Triangle mean?
 seoTitle: Inverted Triangle explained | ESKYNA Glossary
 term: Inverted Triangle

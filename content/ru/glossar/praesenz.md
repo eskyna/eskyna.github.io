@@ -16,6 +16,7 @@ keywords:
   - присутствие в стиле
   - глоссарий ESKYNA
 weight: 12
+image: images/glossar/praesenz.png
 relatedTerms:
   - title: Харизма
     url: /rus/glossariy/harizma/

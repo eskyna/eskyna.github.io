@@ -14,6 +14,8 @@ keywords:
   - resort casual outfit
   - urlaub elegant
 weight: 21
+image: images/glossar/resort-casual.png
+image_alt: "Glossar-Illustration zu Resort Casual"
 relatedTerms:
   - title: Beach Formal
     url: /glossar/beach-formal/

@@ -15,13 +15,15 @@ keywords:
   - grosse körpergröße styling
   - proportion gross
 weight: 30
+image: images/glossar/tall-styling.png
+image_alt: "Glossar-Illustration zu Tall Styling"
 relatedTerms:
   - title: Vertikale Linie
     url: /glossar/vertikale-linie/
   - title: Horizontale Linie
     url: /glossar/horizontale-linie/
   - title: Layering-Länge
-    url: /glossar/layering-laenge/
+    url: /glossar/layering-länge/
   - title: Saumlänge
     url: /glossar/saumlange/
   - title: Volumen
@@ -77,6 +79,6 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 
 - [Vertikale Linie](/glossar/vertikale-linie/)
 - [Horizontale Linie](/glossar/horizontale-linie/)
-- [Layering-Länge](/glossar/layering-laenge/)
+- [Layering-Länge](/glossar/layering-länge/)
 - [Saumlänge](/glossar/saumlange/)
 - [Volumen](/glossar/volumen/)

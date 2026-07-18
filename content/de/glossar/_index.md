@@ -27,6 +27,8 @@ ui:
     - title: Passform prüfen
       text: Schnitt, Proportion und Linien, damit Kleidung am Körper stimmiger wirkt.
       href: /glossar/kategorie/schnitt-proportion-passform/
+image: images/glossar/_index.png
+image_alt: "Glossar-Illustration zu Glossar"
 ---
 
 Das ESKYNA Glossar ist dein Nachschlagewerk für Stilwissen. Es erklärt Begriffe aus Stilberatung, Farbtheorie, Schnitt, Materialien, Dresscodes und Garderobenplanung. Nicht als trockenes Lexikon, sondern als praktische Orientierung für echte Stilentscheidungen.

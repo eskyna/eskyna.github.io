@@ -16,6 +16,7 @@ keywords:
   - темная академия в стиле
   - глоссарий ESKYNA
 weight: 25
+image: images/glossar/dark-academia.png
 relatedTerms:
   - title: Поэткор
     url: /rus/glossariy/poetcore/

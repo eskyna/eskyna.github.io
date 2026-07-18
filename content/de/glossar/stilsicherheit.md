@@ -14,6 +14,8 @@ keywords:
   - was bedeutet stilsicherheit
   - stilsicherheit stilberatung
 weight: 4
+image: images/glossar/stilsicherheit.png
+image_alt: "Glossar-Illustration zu Stilsicherheit"
 relatedTerms:
   - title: Stil
     url: /glossar/stil/

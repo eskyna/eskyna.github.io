@@ -17,6 +17,8 @@ keywords:
   - warm spring
   - frühling farbtyp
 weight: 7
+image: images/glossar/fruehlingstyp.png
+image_alt: "Glossar-Illustration zu Frühlingstyp"
 relatedTerms:
   - title: Farbtyp
     url: /glossar/farbtyp/

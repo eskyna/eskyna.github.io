@@ -8,6 +8,8 @@ tags:
   - waist silk scarf
   - silk scarf
   - belt alternative
+image: images/glossar/taillen-seidentuch.png
+image_alt: "Glossary illustration for Waist Silk Scarf"
 keywords:
   - waist silk scarf
   - silk scarf at waist

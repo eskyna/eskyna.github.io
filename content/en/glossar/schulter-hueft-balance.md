@@ -1,5 +1,6 @@
 ---
 weight: 37
+image: images/glossar/schulter-hueft-balance.png
 title: What does Shoulder-Hip Balance mean?
 seoTitle: Shoulder-Hip Balance explained | ESKYNA Glossary
 term: Shoulder-Hip Balance

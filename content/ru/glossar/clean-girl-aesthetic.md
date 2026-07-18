@@ -14,6 +14,7 @@ keywords:
   - эстетика «клин-гёрл» в стиле
   - глоссарий ESKYNA
 weight: 18
+image: images/glossar/clean-girl-aesthetic.png
 relatedTerms:
   - title: Минимализм
     url: /rus/glossariy/minimalizm/

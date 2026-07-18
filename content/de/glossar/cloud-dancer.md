@@ -15,6 +15,8 @@ keywords:
   - cloud dancer farbe
   - weicher weisston
 weight: 19
+image: images/glossar/cloud-dancer.png
+image_alt: "Glossar-Illustration zu Cloud Dancer"
 relatedTerms:
   - title: Cremeweiss
     url: /glossar/cremeweiss/

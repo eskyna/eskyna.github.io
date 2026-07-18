@@ -15,6 +15,8 @@ keywords:
   - outfit formel
   - uniform stil
 weight: 14
+image: images/glossar/personal-uniform.png
+image_alt: "Glossar-Illustration zu Personal Uniform"
 relatedTerms:
   - title: Signature Look
     url: /glossar/signature-look/

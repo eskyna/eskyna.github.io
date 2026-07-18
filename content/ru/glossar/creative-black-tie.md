@@ -16,6 +16,7 @@ keywords:
   - креативный блэк-тай в стиле
   - глоссарий ESKYNA
 weight: 24
+image: images/glossar/creative-black-tie.png
 relatedTerms:
   - title: Блэк-тай
     url: /rus/glossariy/black-tie/

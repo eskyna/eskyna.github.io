@@ -28,7 +28,7 @@ relatedTerms:
   - title: Tote Bag
     url: /glossar/tote-bag/
   - title: Gürtel
-    url: /glossar/guertel/
+    url: /glossar/gürtel/
   - title: Statement-Piece
     url: /glossar/statement-piece/
   - title: Outfit-Formel

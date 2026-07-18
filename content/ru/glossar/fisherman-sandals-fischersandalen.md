@@ -8,6 +8,8 @@ tags:
   - fisherman sandals
   - летняя обувь
   - сандалии
+image: images/glossar/fisherman-sandals-fischersandalen.png
+image_alt: "Иллюстрация глоссария: Fisherman Sandals"
 keywords:
   - fisherman sandals значение
   - как носить fisherman sandals

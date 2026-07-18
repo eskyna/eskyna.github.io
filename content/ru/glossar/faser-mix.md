@@ -16,6 +16,7 @@ keywords:
   - смесь волокон в стиле
   - глоссарий ESKYNA
 weight: 28
+image: images/glossar/faser-mix.png
 relatedTerms:
   - title: Хлопок
     url: /rus/glossariy/hlopok/

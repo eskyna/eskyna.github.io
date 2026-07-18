@@ -16,6 +16,7 @@ keywords:
   - аудит гардероба в стиле
   - глоссарий ESKYNA
 weight: 52
+image: images/glossar/wardrobe-audit.png
 relatedTerms:
   - title: Разбор гардероба
     url: /rus/glossariy/razbor-garderoba/

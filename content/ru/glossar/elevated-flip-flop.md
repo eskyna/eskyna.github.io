@@ -16,6 +16,7 @@ keywords:
   - утонченные вьетнамки в стиле
   - глоссарий ESKYNA
 weight: 24
+image: images/glossar/elevated-flip-flop.png
 relatedTerms:
   - title: Сандалии
     url: /rus/glossariy/sandalii/

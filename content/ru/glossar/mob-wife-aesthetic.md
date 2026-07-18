@@ -16,6 +16,7 @@ keywords:
   - эстетика жены мафиози в стиле
   - глоссарий ESKYNA
 weight: 20
+image: images/glossar/mob-wife-aesthetic.png
 relatedTerms:
   - title: Животный принт
     url: /rus/glossariy/zhivotnyy-print/

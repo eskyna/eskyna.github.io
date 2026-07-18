@@ -14,6 +14,8 @@ keywords:
   - gorpcore style
   - outdoor im alltag
 weight: 23
+image: images/glossar/gorpcore.png
+image_alt: "Glossar-Illustration zu Gorpcore"
 relatedTerms:
   - title: Utility Jacket
     url: /glossar/utility-jacket/

@@ -14,6 +14,7 @@ keywords:
   - связь обуви и длины низа в стиле
   - глоссарий ESKYNA
 weight: 47
+image: images/glossar/schuh-saum-beziehung.png
 relatedTerms:
   - title: Длина низа
     url: /rus/glossariy/dlina-niza/

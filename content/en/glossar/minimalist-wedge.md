@@ -1,5 +1,6 @@
 ---
 weight: 22
+image: images/glossar/minimalist-wedge.png
 title: What does Minimalist Wedge mean?
 seoTitle: Minimalist Wedge explained | ESKYNA Glossary
 term: Minimalist Wedge

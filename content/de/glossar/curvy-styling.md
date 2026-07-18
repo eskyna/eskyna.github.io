@@ -14,9 +14,11 @@ keywords:
   - kurvige figur styling
   - body neutral styling
 weight: 31
+image: images/glossar/curvy-styling.png
+image_alt: "Glossar-Illustration zu Curvy Styling"
 relatedTerms:
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
   - title: Passform
     url: /glossar/passform/
   - title: Taillierung
@@ -74,7 +76,7 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 
 ## Verwandte Begriffe
 
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)
 - [Passform](/glossar/passform/)
 - [Taillierung](/glossar/taillierung/)
 - [Balance](/glossar/balance/)

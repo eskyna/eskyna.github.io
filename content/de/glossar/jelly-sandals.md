@@ -14,6 +14,8 @@ keywords:
   - jelly flats
   - kunststoffsandalen
 weight: 21
+image: images/glossar/jelly-sandals.png
+image_alt: "Glossar-Illustration zu Jelly Sandals"
 relatedTerms:
   - title: Sandale
     url: /glossar/sandale/

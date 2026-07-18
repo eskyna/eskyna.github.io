@@ -13,6 +13,8 @@ keywords:
   - business professional dresscode
   - formeller business look
 weight: 25
+image: images/glossar/business-professional.png
+image_alt: "Glossar-Illustration zu Business Professional"
 relatedTerms:
   - title: Business Formal
     url: /glossar/business-formal/

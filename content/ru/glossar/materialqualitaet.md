@@ -16,6 +16,7 @@ keywords:
   - качество материала в стиле
   - глоссарий ESKYNA
 weight: 26
+image: images/glossar/materialqualitaet.png
 relatedTerms:
   - title: Качество
     url: /rus/glossariy/kachestvo/

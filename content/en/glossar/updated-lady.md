@@ -8,6 +8,8 @@ tags:
   - updated lady
   - ladylike style
   - elegance
+image: images/glossar/updated-lady.png
+image_alt: "Glossary illustration for Updated Lady"
 keywords:
   - updated lady meaning
   - modern ladylike style

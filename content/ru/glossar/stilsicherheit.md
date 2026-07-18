@@ -16,6 +16,7 @@ keywords:
   - уверенность в стиле в стиле
   - глоссарий ESKYNA
 weight: 4
+image: images/glossar/stilsicherheit.png
 relatedTerms:
   - title: Стиль
     url: /rus/glossariy/stil/

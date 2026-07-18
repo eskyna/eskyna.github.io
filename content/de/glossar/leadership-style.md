@@ -14,6 +14,8 @@ keywords:
   - führungsstil kleidung
   - authority dressing
 weight: 9
+image: images/glossar/leadership-style.png
+image_alt: "Glossar-Illustration zu Leadership Style"
 relatedTerms:
   - title: Executive Presence
     url: /glossar/executive-presence/

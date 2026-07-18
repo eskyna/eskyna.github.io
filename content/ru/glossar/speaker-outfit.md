@@ -14,6 +14,7 @@ keywords:
   - образ спикера в стиле
   - глоссарий ESKYNA
 weight: 13
+image: images/glossar/speaker-outfit.png
 relatedTerms:
   - title: Сценический образ
     url: /rus/glossariy/stsenicheskiy-obraz/

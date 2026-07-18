@@ -8,6 +8,8 @@ tags:
   - scarf styling
   - scarf trend
   - accessories
+image: images/glossar/scarf-styling-tuch-styling.png
+image_alt: "Glossary illustration for Scarf Styling"
 keywords:
   - scarf styling meaning
   - how to style a scarf

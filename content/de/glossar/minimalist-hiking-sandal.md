@@ -11,6 +11,8 @@ tags:
   - sandalen
   - outdoor-stil
   - sommertrend
+image: images/glossar/minimalist-hiking-sandal.png
+image_alt: "Glossar-Illustration zu Minimalist Hiking Sandal"
 keywords:
   - minimalist hiking sandal
   - was ist eine minimalist hiking sandal
@@ -41,11 +43,11 @@ Typisch sind verstellbare Riemen, eine bequeme Sohle und ein Design, das zwische
 
 ## Wie stylt man Minimalist Hiking Sandals?
 
-Der Reiz liegt im Stilbruch: Eine sportive Sandale macht feminine, elegante oder sehr cleane Outfits sofort entspannter. Gleichzeitig wirkt sie praktischer und zeitgemaesser als klassische Sommerschuhe mit Absatz.
+Der Reiz liegt im Stilbruch: Eine sportive Sandale macht feminine, elegante oder sehr cleane Outfits sofort entspannter. Gleichzeitig wirkt sie praktischer und zeitgemäßer als klassische Sommerschuhe mit Absatz.
 
 ## Styling-Tipp
 
-Besonders modern wirkt die Minimalist Hiking Sandal zu weiten Stoffhosen, schlichten Kleidern, Bermudas oder Ton-in-Ton-Looks. Wer den Kontrast verstaerken moechte, kombiniert sie mit einem fliessenden Rock oder einem Seidentuch an der Taille.
+Besonders modern wirkt die Minimalist Hiking Sandal zu weiten Stoffhosen, schlichten Kleidern, Bermudas oder Ton-in-Ton-Looks. Wer den Kontrast verstärken moechte, kombiniert sie mit einem fliessenden Rock oder einem Seidentuch an der Taille.
 
 ## Verwandte Begriffe
 

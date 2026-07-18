@@ -16,6 +16,7 @@ keywords:
   - дресс-код для садовой вечеринки в стиле
   - глоссарий ESKYNA
 weight: 19
+image: images/glossar/garden-party-attire.png
 relatedTerms:
   - title: Праздничная одежда
     url: /rus/glossariy/prazdnichnaya-odezhda/

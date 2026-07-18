@@ -16,6 +16,8 @@ keywords:
   - style analyse bedeutung
   - style analyse stilberatung
 weight: 2
+image: images/glossar/stilanalyse.png
+image_alt: "Glossar-Illustration zu Stilanalyse"
 relatedTerms:
   - title: Stil
     url: /glossar/stil/

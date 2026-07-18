@@ -1,5 +1,6 @@
 ---
 weight: 49
+image: images/glossar/circular-fashion.png
 title: What does Circular Fashion mean?
 seoTitle: Circular Fashion explained | ESKYNA Glossary
 term: Circular Fashion

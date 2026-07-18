@@ -14,6 +14,8 @@ keywords:
   - weicher pumps
   - handschuhartiger pumps
 weight: 19
+image: images/glossar/glove-pump.png
+image_alt: "Glossar-Illustration zu Glove Pump"
 relatedTerms:
   - title: Pumps
     url: /glossar/pumps/

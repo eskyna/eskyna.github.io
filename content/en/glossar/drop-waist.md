@@ -1,5 +1,6 @@
 ---
 weight: 40
+image: images/glossar/drop-waist.png
 title: What does Drop Waist mean?
 seoTitle: Drop Waist explained | ESKYNA Glossary
 term: Drop Waist

@@ -14,6 +14,8 @@ keywords:
   - office siren aesthetic
   - sinnliche business ästhetik
 weight: 19
+image: images/glossar/office-siren.png
+image_alt: "Glossar-Illustration zu Office Siren"
 relatedTerms:
   - title: Bleistiftrock
     url: /glossar/bleistiftrock/

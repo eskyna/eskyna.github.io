@@ -1,5 +1,6 @@
 ---
 weight: 32
+image: images/glossar/plus-size-styling.png
 title: What does Plus Size Styling mean?
 seoTitle: Plus Size Styling explained | ESKYNA Glossary
 term: Plus Size Styling

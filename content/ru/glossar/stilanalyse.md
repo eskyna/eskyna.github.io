@@ -16,6 +16,7 @@ keywords:
   - анализ стиля в стиле
   - глоссарий ESKYNA
 weight: 2
+image: images/glossar/stilanalyse.png
 relatedTerms:
   - title: Стиль
     url: /rus/glossariy/stil/

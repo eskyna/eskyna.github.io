@@ -1,5 +1,6 @@
 ---
 weight: 25
+image: images/glossar/dark-academia.png
 title: What does Dark Academia mean?
 seoTitle: Dark Academia explained | ESKYNA Glossary
 term: Dark Academia

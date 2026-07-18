@@ -1,5 +1,6 @@
 ---
 weight: 8
+image: images/glossar/sommertyp.png
 title: What does Summer Color Type mean?
 seoTitle: Summer Color Type explained | ESKYNA Glossary
 term: Summer Color Type

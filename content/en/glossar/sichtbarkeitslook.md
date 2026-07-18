@@ -1,5 +1,6 @@
 ---
 weight: 14
+image: images/glossar/sichtbarkeitslook.png
 title: What does Visibility Look mean?
 seoTitle: Visibility Look explained | ESKYNA Glossary
 term: Visibility Look

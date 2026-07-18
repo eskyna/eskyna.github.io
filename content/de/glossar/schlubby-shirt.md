@@ -4,13 +4,15 @@ seoTitle: "Schlubby Shirt: Bedeutung & Styling"
 term: Schlubby Shirt
 slug: schlubby-shirt
 url: /glossar/schlubby-shirt/
-description: Was ist ein Schlubby Shirt? Erfahre, wie das laessige Oversize-Shirt wirkt und wie du den entspannten Trend modern kombinierst.
+description: Was ist ein Schlubby Shirt? Erfahre, wie das lässige Oversize-Shirt wirkt und wie du den entspannten Trend modern kombinierst.
 category: Garderobe & Alltag
 tags:
   - schlubby shirt
   - oversize-shirt
   - t-shirt
-  - laessiger stil
+  - lässiger stil
+image: images/glossar/schlubby-shirt.png
+image_alt: "Glossar-Illustration zu Schlubby Shirt"
 keywords:
   - schlubby shirt
   - was ist ein schlubby shirt
@@ -31,21 +33,21 @@ lastmod: "2026-07-12"
 
 ## Kurzdefinition
 
-Ein **Schlubby Shirt** ist ein bewusst locker sitzendes, entspannt fallendes T-Shirt, das nicht perfekt gestylt wirkt, sondern muehelos, weich und alltagstauglich.
+Ein **Schlubby Shirt** ist ein bewusst locker sitzendes, entspannt fallendes T-Shirt, das nicht perfekt gestylt wirkt, sondern mühelos, weich und alltagstauglich.
 
 ## Was bedeutet Schlubby Shirt?
 
-Das **Schlubby Shirt** steht fuer eine neue Art von Laessigkeit. Gemeint ist ein Shirt, das etwas weiter, laenger und weicher faellt als ein klassisches T-Shirt. Es sitzt nicht koerpernah, wirkt aber auch nicht beliebig uebergross. Entscheidend ist der entspannte Look: leicht eingetragen, unkompliziert und trotzdem bewusst gewaehlt.
+Das **Schlubby Shirt** steht für eine neue Art von Lässigkeit. Gemeint ist ein Shirt, das etwas weiter, länger und weicher fällt als ein klassisches T-Shirt. Es sitzt nicht körpernah, wirkt aber auch nicht beliebig übergroß. Entscheidend ist der entspannte Look: leicht eingetragen, unkompliziert und trotzdem bewusst gewählt.
 
-Typisch sind weiche Baumwolle, ueberschnittene Schultern, ein gerader oder leicht kastiger Schnitt und eine Laenge, die bis zur Huefte oder darueber hinaus reichen kann. Das Schlubby Shirt bildet damit einen Gegenpol zu sehr engen Tops und stark konstruierten Silhouetten. Es wirkt modern, weil es mit Proportionen spielt und einem Outfit sofort Ruhe gibt.
+Typisch sind weiche Baumwolle, überschnittene Schultern, ein gerader oder leicht kastiger Schnitt und eine Länge, die bis zur Hüfte oder darüber hinaus reichen kann. Das Schlubby Shirt bildet damit einen Gegenpol zu sehr engen Tops und stark konstruierten Silhouetten. Es wirkt modern, weil es mit Proportionen spielt und einem Outfit sofort Ruhe gibt.
 
 ## Wie stylt man ein Schlubby Shirt?
 
-Besonders spannend wird der Look, wenn das Shirt zu eleganteren Teilen kombiniert wird. Ein Schlubby Shirt passt zu weiten Stoffhosen, Satinröcken, Jeans, Bermudas oder unter einen Blazer. Durch den Kontrast aus laessigem Oberteil und gepflegten Materialien entsteht ein Stil, der muehelos, aber nicht nachlaessig wirkt.
+Besonders spannend wird der Look, wenn das Shirt zu eleganteren Teilen kombiniert wird. Ein Schlubby Shirt passt zu weiten Stoffhosen, Satinröcken, Jeans, Bermudas oder unter einen Blazer. Durch den Kontrast aus lässigem Oberteil und gepflegten Materialien entsteht ein Stil, der mühelos, aber nicht nachlässig wirkt.
 
 ## Styling-Tipp
 
-Fuer eine moderne Silhouette das Schlubby Shirt vorne leicht in den Bund stecken oder mit einem Rock, einer weiten Hose oder einer Kurzjacke kombinieren. So bleibt der Look entspannt, bekommt aber trotzdem Form.
+Für eine moderne Silhouette das Schlubby Shirt vorne leicht in den Bund stecken oder mit einem Rock, einer weiten Hose oder einer Kurzjacke kombinieren. So bleibt der Look entspannt, bekommt aber trotzdem Form.
 
 ## Verwandte Begriffe
 

@@ -1,5 +1,6 @@
 ---
 weight: 44
+image: images/glossar/proportionsbruch.png
 title: What does Proportion Break mean?
 seoTitle: Proportion Break explained | ESKYNA Glossary
 term: Proportion Break

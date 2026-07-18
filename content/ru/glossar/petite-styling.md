@@ -16,6 +16,7 @@ keywords:
   - стайлинг для невысокого роста в стиле
   - глоссарий ESKYNA
 weight: 29
+image: images/glossar/petite-styling.png
 relatedTerms:
   - title: Длина низа
     url: /rus/glossariy/dlina-niza/

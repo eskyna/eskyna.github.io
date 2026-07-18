@@ -14,6 +14,8 @@ keywords:
   - bewusst einkaufen kleidung
   - kaufentscheidung mode
 weight: 54
+image: images/glossar/kaufkriterien.png
+image_alt: "Glossar-Illustration zu Kaufkriterien"
 relatedTerms:
   - title: Fehlkauf
     url: /glossar/fehlkauf/

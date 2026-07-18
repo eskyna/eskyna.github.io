@@ -7,6 +7,8 @@ tags:
   - брюки под юбками
   - layering
   - юбка
+image: images/glossar/hosen-unter-roecken.png
+image_alt: "Иллюстрация глоссария: Брюки под юбками"
 keywords:
   - брюки под юбками
   - юбка поверх брюк

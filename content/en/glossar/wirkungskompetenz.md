@@ -1,5 +1,6 @@
 ---
 weight: 8
+image: images/glossar/wirkungskompetenz.png
 title: What does Impact Competence mean?
 seoTitle: Impact Competence explained | ESKYNA Glossary
 term: Impact Competence

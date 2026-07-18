@@ -14,6 +14,7 @@ keywords:
   - летний клатч в стиле
   - глоссарий ESKYNA
 weight: 23
+image: images/glossar/summer-clutch.png
 relatedTerms:
   - title: Клатч
     url: /rus/glossariy/klatch/

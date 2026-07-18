@@ -1,5 +1,6 @@
 ---
 weight: 21
+image: images/glossar/netted-shopper.png
 title: What does Netted Shopper mean?
 seoTitle: Netted Shopper explained | ESKYNA Glossary
 term: Netted Shopper

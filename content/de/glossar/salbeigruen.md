@@ -5,9 +5,9 @@ description: Salbeigrün ist ein gedämpftes Grün mit Grauanteil. Es wirkt ruhi
 category: Farb-Lexikon
 color_hex: "#A0A990"
 tags:
-  - salbeigruen
   - salbeigrün
-  - gruen
+  - salbeigrün
+  - grün
   - farbe
   - farbberatung
 keywords:

@@ -8,7 +8,7 @@ category: Farb-Lexikon
 color_hex: "#6B6A3F"
 tags:
   - oliv
-  - gruen
+  - grün
   - farbe
   - khaki
   - farbberatung

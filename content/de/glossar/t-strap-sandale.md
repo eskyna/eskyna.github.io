@@ -15,6 +15,8 @@ keywords:
   - t steg sandale
   - retro sandale
 weight: 20
+image: images/glossar/t-strap-sandale.png
+image_alt: "Glossar-Illustration zu T-Strap Sandale"
 relatedTerms:
   - title: Sandale
     url: /glossar/sandale/

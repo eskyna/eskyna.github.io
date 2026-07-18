@@ -4,13 +4,15 @@ seoTitle: "Updated Lady: Der moderne ladylike Stil"
 term: Updated Lady
 slug: updated-lady
 url: /glossar/updated-lady/
-description: Updated Lady verbindet feminine Eleganz mit moderner Souveraenitaet. So wirkt ladylike gepflegt, aber nicht altmodisch.
+description: Updated Lady verbindet feminine Eleganz mit moderner Souveränität. So wirkt ladylike gepflegt, aber nicht altmodisch.
 category: Stil & Wirkung
 tags:
   - updated lady
   - ladylike
   - elegance
   - stilwirkung
+image: images/glossar/updated-lady.png
+image_alt: "Glossar-Illustration zu Updated Lady"
 keywords:
   - updated lady bedeutung
   - moderner ladylike stil
@@ -31,27 +33,27 @@ lastmod: "2026-07-17"
 
 ## Kurzdefinition
 
-**Updated Lady** ist die zeitgemaesse Interpretation von ladylike Stil: elegant, feminin und praezise, aber mit entspannterer Proportion und mehr Alltagstauglichkeit.
+**Updated Lady** ist die zeitgemäße Interpretation von ladylike Stil: elegant, feminin und präzise, aber mit entspannterer Proportion und mehr Alltagstauglichkeit.
 
 ## Was bedeutet Updated Lady?
 
-Der Look greift klassische Elemente auf, etwa taillierte Jacken, Midiroecke, feine Strickteile oder strukturierte Taschen. Neu wird er durch Stilbruch und Leichtigkeit: Tweed zu [Jeans](/glossar/jeans/), [Bleistiftrock](/glossar/bleistiftrock/) zu flachen Schuhen, elegante Bluse zu weiter Hose.
+Der Look greift klassische Elemente auf, etwa taillierte Jacken, Midiröcke, feine Strickteile oder strukturierte Taschen. Neu wird er durch Stilbruch und Leichtigkeit: Tweed zu [Jeans](/glossar/jeans/), [Bleistiftrock](/glossar/bleistiftrock/) zu flachen Schuhen, elegante Bluse zu weiter Hose.
 
-So wirkt der Stil nicht brav, sondern praesent und modern.
+So wirkt der Stil nicht brav, sondern präsent und modern.
 
 ## ESKYNA-Extra: Soft Authority
 
-Updated Lady steht fuer Autoritaet ohne Haerte:
+Updated Lady steht für Autorität ohne Härte:
 
 1. klare Linie statt strenger Uniform
-2. gepflegte Details statt Ueberdekoration
-3. feminine Eleganz mit souveraenem Auftreten
+2. gepflegte Details statt Überdekoration
+3. feminine Eleganz mit souveränem Auftreten
 
-**ESKYNA-Satz:** Updated Lady kleidet sich nicht, um brav zu wirken. Sie kleidet sich, um souveraen zu bleiben.
+**ESKYNA-Satz:** Updated Lady kleidet sich nicht, um brav zu wirken. Sie kleidet sich, um souverän zu bleiben.
 
 ## Styling-Tipp
 
-Setze auf ein klassisches Kernelement wie [Blazer](/glossar/blazer/) oder [Slingbacks](/glossar/slingback/) und kombiniere es mit einem laessigen Gegenpol. Genau das macht den Stil 2026 zeitgemaess.
+Setze auf ein klassisches Kernelement wie [Blazer](/glossar/blazer/) oder [Slingbacks](/glossar/slingback/) und kombiniere es mit einem lässigen Gegenpol. Genau das macht den Stil 2026 zeitgemäß.
 
 ## Verwandte Begriffe
 

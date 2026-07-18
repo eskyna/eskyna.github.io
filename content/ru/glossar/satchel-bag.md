@@ -16,6 +16,7 @@ keywords:
   - сумка сэтчел в стиле
   - глоссарий ESKYNA
 weight: 24
+image: images/glossar/satchel-bag.png
 relatedTerms:
   - title: Сумка через плечо
     url: /rus/glossariy/sumka-cherez-plecho/

@@ -15,6 +15,8 @@ keywords:
   - tiefer taillenansatz
   - drop waist kleid
 weight: 40
+image: images/glossar/drop-waist.png
+image_alt: "Glossar-Illustration zu Drop Waist"
 relatedTerms:
   - title: Taillenposition
     url: /glossar/taillenposition/

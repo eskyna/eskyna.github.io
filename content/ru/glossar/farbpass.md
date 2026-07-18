@@ -16,6 +16,7 @@ keywords:
   - цветовой паспорт в стиле
   - глоссарий ESKYNA
 weight: 11
+image: images/glossar/farbpass.png
 relatedTerms:
   - title: Цветовая карта
     url: /rus/glossariy/tsvetovaya-karta/

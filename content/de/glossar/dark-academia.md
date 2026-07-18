@@ -14,6 +14,8 @@ keywords:
   - dark academia style
   - akademische ästhetik
 weight: 25
+image: images/glossar/dark-academia.png
+image_alt: "Glossar-Illustration zu Dark Academia"
 relatedTerms:
   - title: Poetcore
     url: /glossar/poetcore/

@@ -16,6 +16,7 @@ keywords:
   - шерсть без мьюлесинга в стиле
   - глоссарий ESKYNA
 weight: 29
+image: images/glossar/mulesing-freie-wolle.png
 relatedTerms:
   - title: Шерсть
     url: /rus/glossariy/sherst/

@@ -1,5 +1,6 @@
 ---
 weight: 7
+image: images/glossar/executive-presence.png
 title: What does Executive Presence mean?
 seoTitle: Executive Presence explained | ESKYNA Glossary
 term: Executive Presence

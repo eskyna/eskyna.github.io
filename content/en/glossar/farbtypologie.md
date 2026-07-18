@@ -1,5 +1,6 @@
 ---
 weight: 6
+image: images/glossar/farbtypologie.png
 title: What does Color Typology mean?
 seoTitle: Color Typology explained | ESKYNA Glossary
 term: Color Typology

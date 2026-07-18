@@ -15,6 +15,8 @@ keywords:
   - inverted triangle silhouette
   - schultern breiter als hüfte
 weight: 36
+image: images/glossar/umgekehrtes-dreieck.png
+image_alt: "Glossar-Illustration zu Umgekehrtes Dreieck"
 relatedTerms:
   - title: Silhouette
     url: /glossar/silhouette/
@@ -25,7 +27,7 @@ relatedTerms:
   - title: Schulterlinie
     url: /glossar/schulterlinie/
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
 faq:
   items:
     - q: Wie nutze ich „Umgekehrtes Dreieck“ im Alltag?
@@ -79,4 +81,4 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Schulter-Hüft-Balance](/glossar/schulter-hueft-balance/)
 - [Balance](/glossar/balance/)
 - [Schulterlinie](/glossar/schulterlinie/)
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)

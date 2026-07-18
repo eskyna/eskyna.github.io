@@ -16,6 +16,7 @@ keywords:
   - типология цветов в стиле
   - глоссарий ESKYNA
 weight: 6
+image: images/glossar/farbtypologie.png
 relatedTerms:
   - title: Цветотип
     url: /rus/glossariy/tsvetotip/

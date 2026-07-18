@@ -1,5 +1,6 @@
 ---
 weight: 20
+image: images/glossar/raffia-bag.png
 title: What does Raffia Bag mean?
 seoTitle: Raffia Bag explained | ESKYNA Glossary
 term: Raffia Bag

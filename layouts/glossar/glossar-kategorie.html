@@ -24,12 +24,13 @@
 {{ $wheelTerms := slice }}
 {{ if $isColorLexicon }}
   {{ $wheelOrder := slice
-    "weiss" "off-white" "creme" "beige" "camel" "khaki"
-    "gelb" "senfgelb" "gold" "orange" "terracotta" "rosegold"
-    "rosa" "pink" "fuchsia" "rot" "bordeaux"
-    "violett" "lila" "flieder"
-    "blau" "hellblau" "navy" "petrol" "tuerkis"
-    "gruen" "salbeigruen" "oliv"
+    "weiss" "off-white" "creme" "ecru" "champagner" "beige" "sand" "nude-toene" "taupe" "greige" "camel" "khaki"
+    "gelb" "buttergelb-und-vanillegelb" "senfgelb" "ocker" "gold"
+    "orange" "apricot-und-pfirsich" "koralle" "rostorange" "terracotta" "kupfer" "cognac" "schokoladenbraun" "rosegold" "bronze"
+    "rosa" "puderrosa-und-altrosa" "pink" "fuchsia" "rot" "bordeaux" "beerentoene"
+    "violett" "mauve" "lila" "flieder" "aubergine"
+    "blau" "hellblau" "taubenblau" "navy" "koenigsblau" "indigo-und-denimblau" "petrol" "tuerkis"
+    "gruen" "chartreuse-und-limettengruen" "salbeigruen" "oliv" "moosgruen" "smaragdgruen" "tannengruen"
     "braun" "grau" "anthrazit" "metallic" "silber" "schwarz"
   }}
   {{ range $slug := $wheelOrder }}

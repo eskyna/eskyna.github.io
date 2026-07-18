@@ -16,6 +16,7 @@ keywords:
   - гламорати в стиле
   - глоссарий ESKYNA
 weight: 16
+image: images/glossar/glamoratti.png
 relatedTerms:
   - title: Роскошь 80-х
     url: /rus/glossariy/roskosh-80-h/

@@ -1,5 +1,6 @@
 ---
 weight: 43
+image: images/glossar/drittel-regel-im-outfit.png
 title: What does Rule of Thirds in Outfits mean?
 seoTitle: Rule of Thirds in Outfits explained | ESKYNA Glossary
 term: Rule of Thirds in Outfits

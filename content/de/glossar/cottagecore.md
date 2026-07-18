@@ -15,6 +15,8 @@ keywords:
   - cottagecore style
   - romantische natur ästhetik
 weight: 22
+image: images/glossar/cottagecore.png
+image_alt: "Glossar-Illustration zu Cottagecore"
 relatedTerms:
   - title: Romantisch
     url: /glossar/romantisch/

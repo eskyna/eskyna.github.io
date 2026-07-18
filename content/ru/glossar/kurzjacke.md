@@ -7,6 +7,8 @@ tags:
   - короткая куртка
   - cropped jacket
   - пропорции
+image: images/glossar/kurzjacke.png
+image_alt: "Иллюстрация глоссария: Короткая куртка"
 keywords:
   - короткая куртка
   - что такое короткая куртка

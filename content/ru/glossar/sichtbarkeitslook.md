@@ -16,6 +16,7 @@ keywords:
   - образ для публичности в стиле
   - глоссарий ESKYNA
 weight: 14
+image: images/glossar/sichtbarkeitslook.png
 relatedTerms:
   - title: Персональный бренд
     url: /rus/glossariy/personalnyy-brend/

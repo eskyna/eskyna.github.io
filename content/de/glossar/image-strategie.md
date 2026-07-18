@@ -14,6 +14,8 @@ keywords:
   - image strategie
   - wirkung positionierung
 weight: 8
+image: images/glossar/image-strategie.png
+image_alt: "Glossar-Illustration zu Image-Strategie"
 relatedTerms:
   - title: Image
     url: /glossar/image/

@@ -16,6 +16,7 @@ keywords:
   - сумка с бусинами в стиле
   - глоссарий ESKYNA
 weight: 22
+image: images/glossar/beaded-bag.png
 relatedTerms:
   - title: Клатч
     url: /rus/glossariy/klatch/

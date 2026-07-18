@@ -1,5 +1,6 @@
 ---
 weight: 13
+image: images/glossar/signature-farbe.png
 title: What does Signature Color mean?
 seoTitle: Signature Color explained | ESKYNA Glossary
 term: Signature Color

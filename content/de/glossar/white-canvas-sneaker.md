@@ -15,6 +15,8 @@ keywords:
   - weisser canvas sneaker
   - stoff sneaker weiss
 weight: 25
+image: images/glossar/white-canvas-sneaker.png
+image_alt: "Glossar-Illustration zu White Canvas Sneaker"
 relatedTerms:
   - title: Sneaker
     url: /glossar/sneaker/

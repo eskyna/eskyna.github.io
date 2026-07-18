@@ -14,6 +14,8 @@ keywords:
   - zoom outfit
   - digitales meeting outfit
 weight: 10
+image: images/glossar/video-call-outfit.png
+image_alt: "Glossar-Illustration zu Video-Call-Outfit"
 relatedTerms:
   - title: Meeting-Look
     url: /glossar/meeting-look/

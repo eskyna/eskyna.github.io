@@ -14,6 +14,8 @@ keywords:
   - oberkörper unterkörper balance
   - proportion outfit
 weight: 37
+image: images/glossar/schulter-hueft-balance.png
+image_alt: "Glossar-Illustration zu Schulter-Hüft-Balance"
 relatedTerms:
   - title: Balance
     url: /glossar/balance/

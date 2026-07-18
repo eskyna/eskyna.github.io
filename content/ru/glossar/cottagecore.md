@@ -16,6 +16,7 @@ keywords:
   - коттеджкор в стиле
   - глоссарий ESKYNA
 weight: 22
+image: images/glossar/cottagecore.png
 relatedTerms:
   - title: Романтический стиль
     url: /rus/glossariy/romanticheskiy-stil/

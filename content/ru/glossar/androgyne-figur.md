@@ -16,6 +16,7 @@ keywords:
   - андрогинная фигура в стиле
   - глоссарий ESKYNA
 weight: 3
+image: images/glossar/androgyne-figur.png
 relatedTerms:
   - title: Форма тела
     url: /rus/glossariy/forma-tela/

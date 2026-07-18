@@ -1,5 +1,6 @@
 ---
 weight: 29
+image: images/glossar/petite-styling.png
 title: What does Petite Styling mean?
 seoTitle: Petite Styling explained | ESKYNA Glossary
 term: Petite Styling

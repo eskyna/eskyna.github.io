@@ -16,6 +16,7 @@ keywords:
   - эстетика офисной сирены в стиле
   - глоссарий ESKYNA
 weight: 19
+image: images/glossar/office-siren.png
 relatedTerms:
   - title: Юбка-карандаш
     url: /rus/glossariy/yubka-karandash/

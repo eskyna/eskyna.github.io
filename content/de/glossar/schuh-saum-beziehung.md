@@ -14,6 +14,8 @@ keywords:
   - hose schuh länge
   - beinlinie schuh saum
 weight: 47
+image: images/glossar/schuh-saum-beziehung.png
+image_alt: "Glossar-Illustration zu Schuh-Saum-Beziehung"
 relatedTerms:
   - title: Saumlänge
     url: /glossar/saumlange/

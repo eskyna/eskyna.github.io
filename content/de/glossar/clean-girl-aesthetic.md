@@ -15,6 +15,8 @@ keywords:
   - clean girl style
   - gepflegter minimalistischer look
 weight: 18
+image: images/glossar/clean-girl-aesthetic.png
+image_alt: "Glossar-Illustration zu Clean Girl Aesthetic"
 relatedTerms:
   - title: Minimalismus
     url: /glossar/minimalismus/

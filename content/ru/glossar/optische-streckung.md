@@ -16,6 +16,7 @@ keywords:
   - оптическое вытяжение в стиле
   - глоссарий ESKYNA
 weight: 49
+image: images/glossar/optische-streckung.png
 relatedTerms:
   - title: Вертикальная линия
     url: /rus/glossariy/vertikalnaya-liniya/

@@ -1,5 +1,6 @@
 ---
 weight: 22
+image: images/glossar/beaded-bag.png
 title: What does Beaded Bag mean?
 seoTitle: Beaded Bag explained | ESKYNA Glossary
 term: Beaded Bag

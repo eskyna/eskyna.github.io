@@ -16,6 +16,7 @@ keywords:
   - личная униформа в стиле
   - глоссарий ESKYNA
 weight: 14
+image: images/glossar/personal-uniform.png
 relatedTerms:
   - title: Фирменный образ
     url: /rus/glossariy/firmennyy-obraz/

@@ -1,5 +1,6 @@
 ---
 weight: 55
+image: images/glossar/preis-pro-tragen-strategie.png
 title: What does Cost-Per-Wear Strategy mean?
 seoTitle: Cost-Per-Wear Strategy explained | ESKYNA Glossary
 term: Cost-Per-Wear Strategy

@@ -14,6 +14,8 @@ keywords:
   - hourglass silhouette
   - sichtbare taille
 weight: 33
+image: images/glossar/sanduhr-silhouette.png
+image_alt: "Glossar-Illustration zu Sanduhr-Silhouette"
 relatedTerms:
   - title: Silhouette
     url: /glossar/silhouette/
@@ -24,7 +26,7 @@ relatedTerms:
   - title: X-Linie
     url: /glossar/x-linie/
   - title: Körperform
-    url: /glossar/koerperform/
+    url: /glossar/körperform/
 faq:
   items:
     - q: Wie nutze ich „Sanduhr-Silhouette“ im Alltag?
@@ -78,4 +80,4 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Taillierung](/glossar/taillierung/)
 - [Balance](/glossar/balance/)
 - [X-Linie](/glossar/x-linie/)
-- [Körperform](/glossar/koerperform/)
+- [Körperform](/glossar/körperform/)

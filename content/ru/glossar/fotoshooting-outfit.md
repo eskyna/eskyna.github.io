@@ -16,6 +16,7 @@ keywords:
   - образ для фотосъёмки в стиле
   - глоссарий ESKYNA
 weight: 10
+image: images/glossar/fotoshooting-outfit.png
 relatedTerms:
   - title: Образ для камеры
     url: /rus/glossariy/obraz-dlya-kamery/
