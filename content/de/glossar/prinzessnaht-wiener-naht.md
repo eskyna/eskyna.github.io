@@ -1,5 +1,6 @@
 ---
 title: "Was sind Prinzessnaht und Wiener Naht?"
+seoTitle: "Prinzessnaht und Wiener Naht erklärt | ESKYNA Glossar"
 term: "Prinzessnaht einschließlich Wiener Naht"
 description: "Prinzess- und Wiener Nähte formen den Oberkörper über lange, vertikale Teilungsnähte statt über kurze Abnäher."
 category: "Schnitt, Proportion & Passform"

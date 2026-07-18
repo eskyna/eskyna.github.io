@@ -1,5 +1,6 @@
 ---
 title: "What are princess and Viennese seams?"
+seoTitle: "Princess and Viennese seams explained | ESKYNA Glossary"
 term: "Princess seam including Viennese seam"
 description: "Princess and Viennese seams shape the upper body using long, vertical dividing seams instead of short darts."
 category: "Cut, Proportion & Fit"
