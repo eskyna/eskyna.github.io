@@ -30,6 +30,17 @@ KNOWN_BROKEN_PATHS = {
     "/en/wardrobe-check/",
     "/en/wardrobe/",
     "/rus/datenschutz/",
+    "/glossar/layering-länge/",
+    "/glossar/gürtel/",
+    "/glossar/körperform/",
+    "/glossar/türkis/",
+    "/en/tags/farbberatung/",
+    "/en/tags/proportionen/",
+    "/en/tags/sommerstoffe/",
+    "/rus/tags/farbberatung/",
+    "/rus/tags/proportionen/",
+    "/rus/tags/sommerstoffe/",
+    "/rus/tags/style-coach/",
 }
 
 SUSPICIOUS_PATH_PATTERNS = [
@@ -37,6 +48,8 @@ SUSPICIOUS_PATH_PATTERNS = [
     re.compile(r"/glossar/[^\s\)\"']*[äöüÄÖÜß][^\s\)\"']*/"),
     # Non-ASCII in outfit path segments tends to break static hosting URLs.
     re.compile(r"/outfits/[^\s\)\"']*[А-Яа-яЁё][^\s\)\"']*/"),
+    # Asset filenames should stay ASCII-safe in URL paths.
+    re.compile(r"/images/glossar/[^\s\)\"']*[äöüÄÖÜß][^\s\)\"']*\.(png|jpg|jpeg|webp|avif|gif|svg)"),
 ]
 
 SOURCE_SCAN_ROOTS = ("content", "layouts")
