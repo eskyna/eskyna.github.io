@@ -16,7 +16,7 @@
 {{ $crawlLinksHeading := cond $isRuLang "Все термины A-Z" (cond (eq .Site.Language.Lang "en") "All terms A-Z" "Alle Begriffe A-Z") }}
 {{ $crawlLinksIntro := cond $isRuLang "Прямые ссылки на все материалы глоссария." (cond (eq .Site.Language.Lang "en") "Direct links to every glossary entry." "Direkte Links zu allen Glossar-Einträgen.") }}
 {{ $categoryLandingPages := where .RegularPages "Params.is_glossar_category" true }}
-{{ $glossarPages := sort (where .RegularPages "Params.is_glossar_category" "ne" true) "Params.term" "asc" }}
+{{ $glossarPages := sort (where (where .RegularPages "Params.is_glossar_category" "ne" true) "Params.is_glossar_index_helper" "ne" true) "Params.term" "asc" }}
 {{ $featuredTermsRaw := where $glossarPages "Params.featured_glossar" true }}
 {{ $featuredTerms := first 12 (sort (sort $featuredTermsRaw "Title" "asc") "Params.featured_weight" "asc") }}
 {{ $featuredHeading := or $sectionUI.featured_heading (cond $isRuLang "Ключевые понятия для начала" (cond (eq .Site.Language.Lang "en") "Key style terms to start with" "Zentrale Stilbegriffe zum Einstieg")) }}
@@ -24,7 +24,7 @@
 {{ $commercialTermsRaw := where $glossarPages "Params.commercial_intent" true }}
 {{ $commercialTerms := first 18 (sort (sort $commercialTermsRaw "Title" "asc") "Params.commercial_weight" "asc") }}
 {{ $commercialHeading := or $sectionUI.commercial_heading (cond $isRuLang "Темы, которые часто приводят к консультации" (cond (eq .Site.Language.Lang "en") "Terms that often lead to a consultation" "Begriffe mit hoher Beratungsrelevanz")) }}
-{{ $commercialIntro := or $sectionUI.commercial_intro (cond $isRuLang "Эти понятия особенно часто становятся конкретными решениями для цвета, стиля, гардероба, покупок и профессионального образа." (cond (eq .Site.Language.Lang "en") "These terms often turn into concrete decisions about color, style, wardrobe, shopping, and professional presence." "Diese Begriffe werden besonders häufig zu konkreten Entscheidungen für Farbe, Stil, Garderobe, Einkauf und professionelle Wirkung.")) }}
+{{ $commercialIntro := or $sectionUI.commercial_intro (cond $isRuLang "Эти понятия особенно часто становятся конкретными решениями для цвета, стиля, гардероба, покупок и профессионального образа." (cond (eq .Site.Language.Lang "en") "These terms often turn into concrete decisions about color, style, wardrobe, shopping, and professional presence." "Diese Begriffe führen oft zu konkreten Entscheidungen bei Farbe, Stil, Garderobe, Einkauf und professioneller Wirkung.")) }}
 {{ $commercialKicker := cond $isRuLang "консультация" (cond (eq .Site.Language.Lang "en") "consultation topic" "Beratungsthema") }}
 {{ $commercialClusterLabels := dict "color" "Farbe" "style" "Stil" "image" "Wirkung" "wardrobe" "Garderobe" "shopping" "Einkauf" "fit" "Passform" "business" "Business" }}
 {{ if eq .Site.Language.Lang "en" }}
@@ -36,6 +36,15 @@
 {{ with $sectionUI.topic_pathways }}{{ $topicPathways = . }}{{ end }}
 {{ $topicPathwaysHeading := or $sectionUI.topic_pathways_heading (cond $isRuLang "Навигация по стилевой задаче" (cond (eq .Site.Language.Lang "en") "Browse by style question" "Orientierung nach Stilfrage")) }}
 {{ $topicPathwaysIntro := or $sectionUI.topic_pathways_intro (cond $isRuLang "Выберите вход в тему, который соответствует вашему текущему вопросу." (cond (eq .Site.Language.Lang "en") "Choose the entry point that matches your current decision." "Wähle den Einstieg, der zu deiner aktuellen Frage passt.")) }}
+{{ $compactIndex := true }}
+{{ if isset $sectionUI "compact_index" }}
+  {{ $compactIndex = index $sectionUI "compact_index" }}
+{{ end }}
+{{ $allTermsHref := cond $isRuLang "/rus/glossariy/vse-terminy/" (cond (eq .Site.Language.Lang "en") "/en/glossary/all-terms/" "/glossar/alle-begriffe/") }}
+{{ $allTermsButton := cond $isRuLang "Открыть все термины A-Z" (cond (eq .Site.Language.Lang "en") "Open all terms A-Z" "Alle Begriffe A-Z öffnen") }}
+{{ $categoriesButton := cond $isRuLang "Смотреть все категории" (cond (eq .Site.Language.Lang "en") "Browse all categories" "Alle Kategorien ansehen") }}
+{{ $compactNavHeading := cond $isRuLang "Быстрый вход в глоссарий" (cond (eq .Site.Language.Lang "en") "Quick glossary entry points" "Schneller Einstieg ins Glossar") }}
+{{ $compactCategoryHeading := cond $isRuLang "Категории глоссария" (cond (eq .Site.Language.Lang "en") "Glossary categories" "Glossar-Kategorien") }}
 {{ $dailyTermLinks := slice }}
 {{ range $glossarPages }}
   {{ $dailyTermLinks = $dailyTermLinks | append .RelPermalink }}
@@ -197,6 +206,85 @@
   </section>
   {{ end }}
 
+  {{ if $compactIndex }}
+  <section class="glossar-navigation-section">
+    <div class="container glossar-navigation-shell">
+      <div class="glossar-search-box">
+        <h2 class="glossar-category-heading">{{ $compactNavHeading }}</h2>
+        <p class="glossar-list-description">{{ $crawlLinksIntro }}</p>
+        <p class="glossar-results-count">
+          <span class="glossar-results-number">{{ len $glossarPages }}</span>
+          <span class="glossar-results-label">{{ $termCountLabel }}</span>
+          <span class="glossar-results-number">{{ len $categoryLandingPages }}</span>
+          <span class="glossar-results-label">{{ $categoryCountLabel }}</span>
+        </p>
+        <div class="glossar-shortcuts" role="navigation" aria-label="Glossar Schnellzugriffe">
+          <a class="btn glossar-shortcut-link" href="{{ $allTermsHref }}" title="{{ $allTermsButton }}">{{ $allTermsButton }}</a>
+          <a class="btn glossar-shortcut-link" href="#glossar-categories" title="{{ $categoriesButton }}">{{ $categoriesButton }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="glossar-panel active" id="glossar-categories">
+    <div class="container glossar-content-shell">
+      <div class="glossar-category-overview">
+        <h2 class="glossar-category-heading">{{ $compactCategoryHeading }} <span class="glossar-group-count">{{ len $categoryLandingPages }}</span></h2>
+        <ul class="glossar-category-overview-list">
+          {{ range sort $categoryLandingPages "Title" "asc" }}
+            {{ $categoryLabel := .Params.glossar_category | default .Title }}
+            {{ $categoryImage := .Params.image }}
+            {{ $categoryImageMap := dict
+              "garderob-i-povsednevnost" "images/glossar/kategorie/garderobe-alltag.png"
+              "konsultatsiya-po-tsvetu-i-tsvet" "images/glossar/kategorie/farbberatung-farbe.png"
+              "kroy-proportsii-i-posadka" "images/glossar/kategorie/schnitt-proportion-passform.png"
+              "materialy-i-detali" "images/glossar/kategorie/materialien-details.png"
+              "obuv" "images/glossar/kategorie/schuhe.png"
+              "platya-i-yubki" "images/glossar/kategorie/kleider-roecke.png"
+              "stil-und-vozdeystvie" "images/glossar/kategorie/stil-wirkung.png"
+              "tsvetovoy-slovar" "images/glossar/kategorie/farb-lexikon.png"
+            }}
+            {{ if not $categoryImage }}
+              {{ with .File }}
+                {{ with index $categoryImageMap .BaseFileName }}
+                  {{ $categoryImage = . }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if not $categoryImage }}
+              {{ with .File }}
+                {{ $candidatePng := printf "images/glossar/kategorie/%s.png" .BaseFileName }}
+                {{ $candidateWebp := printf "images/glossar/kategorie/%s.webp" .BaseFileName }}
+                {{ $candidateAvif := printf "images/glossar/kategorie/%s.avif" .BaseFileName }}
+                {{ if fileExists (printf "static/%s" $candidatePng) }}
+                  {{ $categoryImage = $candidatePng }}
+                {{ else if fileExists (printf "static/%s" $candidateWebp) }}
+                  {{ $categoryImage = $candidateWebp }}
+                {{ else if fileExists (printf "static/%s" $candidateAvif) }}
+                  {{ $categoryImage = $candidateAvif }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if not $categoryImage }}
+              {{ $categoryImage = "images/glossar/kategorie/_index.png" }}
+            {{ end }}
+            <li class="glossar-category-card-item">
+              <a href="{{ .RelPermalink }}" class="glossar-category-card-link" title="{{ $categoryLabel | plainify }}" aria-label="{{ $categoryLabel | plainify }}">
+                <span class="glossar-category-card-thumb">
+                  {{ partial "responsive-image.html" (dict "src" $categoryImage "alt" $categoryLabel "title" $categoryLabel "class" "glossar-category-card-image" "loading" "lazy" "decoding" "async" "sizes" "(max-width: 768px) 40vw, 320px" "width" "800" "height" "1000") }}
+                </span>
+                <span class="glossar-category-card-title">{{ $categoryLabel }}</span>
+                {{ with .Description }}
+                  <span class="glossar-category-card-excerpt">{{ . }}</span>
+                {{ end }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </section>
+  {{ else }}
   <section class="glossar-navigation-section">
     <div class="container glossar-navigation-shell">
       <div class="glossar-search-box">
@@ -581,4 +669,5 @@ document.addEventListener('DOMContentLoaded', function() {
   updateSearchView('');
 });
 </script>
+  {{ end }}
 {{ end }}

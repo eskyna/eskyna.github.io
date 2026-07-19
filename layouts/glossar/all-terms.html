@@ -1,0 +1,93 @@
+{{ define "main" }}
+{{ $lang := .Site.Language.Lang }}
+{{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+{{ $isEn := eq $lang "en" }}
+{{ $backText := cond $isRu "К глоссарию" (cond $isEn "Back to glossary" "Zum Glossar") }}
+{{ $searchPlaceholder := cond $isRu "Найти термин..." (cond $isEn "Search term..." "Begriff suchen...") }}
+{{ $noResults := cond $isRu "Ничего не найдено." (cond $isEn "No terms found." "Keine Begriffe gefunden.") }}
+{{ $termsLabel := cond $isRu "терминов" (cond $isEn "terms" "Begriffe") }}
+{{ $allTermsHeading := cond $isRu "Все термины A-Z" (cond $isEn "All terms A-Z" "Alle Begriffe A-Z") }}
+{{ $section := .CurrentSection }}
+{{ $terms := slice }}
+{{ with $section }}
+  {{ $terms = sort (where (where .RegularPages "Params.is_glossar_category" "ne" true) "Params.is_glossar_index_helper" "ne" true) "Params.term" "asc" }}
+{{ end }}
+
+<main class="glossar-list-page">
+  <section class="hero-small glossar-list-hero">
+    <div class="container glossar-list-hero-shell">
+      <div class="glossar-list-hero-copy">
+        <a class="back-link" href="{{ with $section }}{{ .RelPermalink }}{{ else }}{{ "glossar" | relLangURL }}{{ end }}" title="{{ $backText }}">{{ $backText }}</a>
+        <h1 class="glossar-list-title">{{ .Title }}</h1>
+        {{ with .Description }}<p class="glossar-list-description">{{ . }}</p>{{ end }}
+        {{ with .Content }}<div class="glossar-list-intro">{{ . }}</div>{{ end }}
+      </div>
+      <div class="glossar-list-hero-visual">
+        {{ partial "responsive-image.html" (dict "src" "images/glossar/_index.png" "alt" .Title "title" .Title "class" "glossar-list-hero-image" "loading" "eager" "decoding" "async" "fetchpriority" "high" "sizes" "(max-width: 900px) 100vw, 420px") }}
+      </div>
+    </div>
+  </section>
+
+  <section class="glossar-navigation-section">
+    <div class="container glossar-navigation-shell">
+      <div class="glossar-search-box">
+        <input type="search" id="all-terms-search" class="glossar-search-input" placeholder="{{ $searchPlaceholder }}" aria-label="{{ $searchPlaceholder }}">
+        <p class="glossar-no-results" id="all-terms-no-results" hidden>{{ $noResults }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="glossar-crawl-links" aria-labelledby="all-terms-heading">
+    <div class="container glossar-content-shell">
+      <h2 id="all-terms-heading" class="glossar-category-heading">{{ $allTermsHeading }} <span class="glossar-group-count" id="all-terms-visible-count">{{ len $terms }}</span></h2>
+      <p class="glossar-list-description"><span id="all-terms-visible-label">{{ len $terms }}</span> {{ $termsLabel }}</p>
+      <ul class="glossar-term-list" id="all-terms-list">
+        {{ range $terms }}
+          {{ $termTitle := .Params.term | default .Title }}
+          <li class="glossar-term-item" data-term-item>
+            <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+              <span class="glossar-term-title" data-term-title>{{ $termTitle }}</span>
+              {{ with .Description }}<span class="glossar-term-excerpt">{{ . }}</span>{{ end }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+</main>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const input = document.getElementById('all-terms-search');
+  const noResults = document.getElementById('all-terms-no-results');
+  const items = Array.from(document.querySelectorAll('[data-term-item]'));
+
+  if (!input) return;
+
+  input.addEventListener('input', function () {
+    const q = input.value.toLowerCase().trim();
+    let visible = 0;
+    const visibleCount = document.getElementById('all-terms-visible-count');
+    const visibleLabel = document.getElementById('all-terms-visible-label');
+
+    items.forEach(function (item) {
+      const title = item.querySelector('[data-term-title]')?.textContent.toLowerCase() || '';
+      const excerpt = item.querySelector('.glossar-term-excerpt')?.textContent.toLowerCase() || '';
+      const match = !q || title.includes(q) || excerpt.includes(q);
+      item.style.display = match ? '' : 'none';
+      if (match) visible += 1;
+    });
+
+    if (noResults) {
+      noResults.hidden = visible !== 0;
+    }
+    if (visibleCount) {
+      visibleCount.textContent = String(visible);
+    }
+    if (visibleLabel) {
+      visibleLabel.textContent = String(visible);
+    }
+  });
+});
+</script>
+{{ end }}
