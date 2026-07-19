@@ -7787,6 +7787,21 @@ main .hero .hero-headline-line {
   background: rgb(197 160 89 / 8%);
 }
 
+.glossar-shortcuts {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.7rem;
+  margin-top: 1.1rem;
+}
+
+.glossar-shortcut-link {
+  justify-content: center;
+  width: 100%;
+  min-height: 2.9rem;
+  padding: 0.72rem 1rem;
+  text-align: center;
+}
+
 .glossar-panel {
   padding: clamp(2.5rem, 8vw, 4.5rem) 0;
   background-image:
@@ -8470,6 +8485,17 @@ main .hero .hero-headline-line {
     padding: 1.1rem 2rem;
   }
 
+  .glossar-shortcuts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.85rem;
+    margin-top: 1.25rem;
+    max-width: 46rem;
+  }
+
+  .glossar-shortcut-link {
+    min-height: 3rem;
+  }
+
   .glossar-letter-group,
   .glossar-category-group {
     margin-bottom: 4.5rem;
@@ -8503,6 +8529,11 @@ main .hero .hero-headline-line {
   .glossar-tabs {
     margin-top: 0;
     flex-shrink: 0;
+  }
+
+  .glossar-shortcuts {
+    max-width: 52rem;
+    gap: 1rem;
   }
 }
 
