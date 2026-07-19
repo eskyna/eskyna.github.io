@@ -35,7 +35,7 @@ lastmod: "2026-07-18"
 
 ## Stilwirkung und Einsatz
 
-Cognac gibt neutralen Looks sofort Wärme. Besonders als [Gürtel](/glossar/gürtel/), Tasche oder Schuh wirkt die Farbe verbindend.
+Cognac gibt neutralen Looks sofort Wärme. Besonders als [Gürtel](/glossar/guertel/), Tasche oder Schuh wirkt die Farbe verbindend.
 
 ## Beratungsblick
 

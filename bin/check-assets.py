@@ -2,6 +2,7 @@
 
 import argparse
 import concurrent.futures
+import os
 import re
 import time
 import sys
@@ -16,6 +17,29 @@ DEFAULT_LIVE_ORIGIN = "https://eskyna.com"
 DEFAULT_PATHS = ["/", "/estyle", "/about", "/impressum", "/datenschutz", "/shop", "/blog"]
 USER_AGENT = "eskyna-link-check/2.0"
 TRANSIENT_HTTP_STATUSES = {429, 500, 502, 503, 504}
+
+# Guardrails for common internal URL mistakes that can slip through
+# limited crawls (max-pages) and later surface as production 404s.
+KNOWN_BROKEN_PATHS = {
+    "/en/offers/",
+    "/en/style-question/",
+    "/en/style-sense/",
+    "/en/presence/",
+    "/en/guidance/",
+    "/en/gift-voucher/",
+    "/en/wardrobe-check/",
+    "/en/wardrobe/",
+    "/rus/datenschutz/",
+}
+
+SUSPICIOUS_PATH_PATTERNS = [
+    # Umlaut slugs in DE glossary links should be transliterated in URLs.
+    re.compile(r"/glossar/[^\s\)\"']*[äöüÄÖÜß][^\s\)\"']*/"),
+    # Non-ASCII in outfit path segments tends to break static hosting URLs.
+    re.compile(r"/outfits/[^\s\)\"']*[А-Яа-яЁё][^\s\)\"']*/"),
+]
+
+SOURCE_SCAN_ROOTS = ("content", "layouts")
 
 
 def parse_args() -> argparse.Namespace:
@@ -95,6 +119,57 @@ def parse_srcset(value: str) -> list[str]:
         if item:
             refs.append(item)
     return refs
+
+
+def scan_source_for_broken_links() -> list[dict]:
+    failures: list[dict] = []
+
+    for root in SOURCE_SCAN_ROOTS:
+        if not os.path.isdir(root):
+            continue
+
+        for dirpath, _, filenames in os.walk(root):
+            for filename in filenames:
+                if not filename.endswith((".md", ".html", ".xml", ".toml", ".yml", ".yaml")):
+                    continue
+
+                file_path = os.path.join(dirpath, filename)
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        for line_no, line in enumerate(f, start=1):
+                            for broken in KNOWN_BROKEN_PATHS:
+                                if broken in line:
+                                    failures.append(
+                                        {
+                                            "type": "source",
+                                            "url": f"{file_path}:{line_no}",
+                                            "status": 400,
+                                            "detail": f"known broken path '{broken}'",
+                                        }
+                                    )
+
+                            for pattern in SUSPICIOUS_PATH_PATTERNS:
+                                match = pattern.search(line)
+                                if match:
+                                    failures.append(
+                                        {
+                                            "type": "source",
+                                            "url": f"{file_path}:{line_no}",
+                                            "status": 400,
+                                            "detail": f"suspicious URL path '{match.group(0)}'",
+                                        }
+                                    )
+                except OSError as err:
+                    failures.append(
+                        {
+                            "type": "source",
+                            "url": file_path,
+                            "status": 0,
+                            "detail": f"failed to read file ({err})",
+                        }
+                    )
+
+    return failures
 
 
 @dataclass(frozen=True)
@@ -238,6 +313,10 @@ def resolve_start_urls(args: argparse.Namespace) -> list[str]:
 
 def main() -> int:
     args = parse_args()
+    failures: list[dict] = scan_source_for_broken_links()
+    if failures:
+        print(f"Source link guard found {len(failures)} issue(s) before crawl.")
+
     start_urls = resolve_start_urls(args)
     max_pages = max(1, args.max_pages)
     concurrency = max(1, args.concurrency)
@@ -264,7 +343,7 @@ def main() -> int:
     page_anchors: dict[str, set[str]] = {}
     asset_candidates: set[str] = set()
     anchor_checks: set[AnchorCheck] = set()
-    failures: list[dict] = []
+    # Keep source-scan failures and append runtime crawl failures below.
 
     while queue and len(visited_pages) < max_pages:
         page_url = queue.popleft()

@@ -65,9 +65,9 @@ offer_bridge:
     - combine shades with more ease
     - reduce color-related buying mistakes
   primary_label: Explore ESKYNA Style Sense
-  primary_url: /en/style-sense/
+  primary_url: /style-sense/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 ---
 
 ## Definition
@@ -111,7 +111,7 @@ Color Temperature differs from undertone. Undertone describes the natural qualit
 
 ## Next step
 
-To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 
@@ -136,7 +136,7 @@ A typical client may understand **Color Temperature** in theory, yet still lack 
 
 ## How to know that support would help
 
-Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Color Temperature** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Style Sense](/en/style-sense/) if you want to turn this idea into a clear style decision.
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Color Temperature** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Style Sense](/style-sense/) if you want to turn this idea into a clear style decision.
 
 <!-- commercial-depth-end -->
 

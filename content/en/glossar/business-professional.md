@@ -61,9 +61,9 @@ offer_bridge:
     - connect role and personality
     - plan looks for meetings, stage, or camera
   primary_label: Explore ESKYNA Presence
-  primary_url: /en/presence/
+  primary_url: /presence/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 commercial_weight: 14
 consulting_questions:
   - Which role, situation, or stage does the outfit need to cover?

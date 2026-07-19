@@ -18,7 +18,7 @@ image: images/glossar/curvy-styling.png
 image_alt: "Glossar-Illustration zu Curvy Styling"
 relatedTerms:
   - title: Körperform
-    url: /glossar/körperform/
+    url: /glossar/koerperform/
   - title: Passform
     url: /glossar/passform/
   - title: Taillierung
@@ -76,7 +76,7 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 
 ## Verwandte Begriffe
 
-- [Körperform](/glossar/körperform/)
+- [Körperform](/glossar/koerperform/)
 - [Passform](/glossar/passform/)
 - [Taillierung](/glossar/taillierung/)
 - [Balance](/glossar/balance/)

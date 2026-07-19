@@ -63,9 +63,9 @@ offer_bridge:
     - check professional signals
     - connect presence and clothing
   primary_label: Explore ESKYNA Presence
-  primary_url: /en/presence/
+  primary_url: /presence/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 ---
 
 ## Definition
@@ -134,6 +134,6 @@ A typical client may understand **Impact** in theory, yet still lack a reliable 
 
 ## How to know that support would help
 
-Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Impact** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Presence](/en/presence/) if you want to turn this idea into a clear style decision.
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Impact** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Presence](/presence/) if you want to turn this idea into a clear style decision.
 
 <!-- commercial-depth-end -->

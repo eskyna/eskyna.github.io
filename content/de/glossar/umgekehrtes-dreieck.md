@@ -27,7 +27,7 @@ relatedTerms:
   - title: Schulterlinie
     url: /glossar/schulterlinie/
   - title: Körperform
-    url: /glossar/körperform/
+    url: /glossar/koerperform/
 faq:
   items:
     - q: Wie nutze ich „Umgekehrtes Dreieck“ im Alltag?
@@ -81,4 +81,4 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Schulter-Hüft-Balance](/glossar/schulter-hueft-balance/)
 - [Balance](/glossar/balance/)
 - [Schulterlinie](/glossar/schulterlinie/)
-- [Körperform](/glossar/körperform/)
+- [Körperform](/glossar/koerperform/)

@@ -5,7 +5,7 @@ description:
   Unsure about a garment, outfit, or purchase? Ask Natalia your style question, including live while
   shopping.
 offers_back:
-  href: /en/offers/
+  href: /offers/
   label: Back to offers
 variants_heading: Choose the right format
 ui:

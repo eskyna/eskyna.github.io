@@ -81,7 +81,7 @@ When you use **Knitted Jacket** in a real outfit, do not judge the item in isola
 
 ## ESKYNA perspective
 
-**Knitted Jacket** becomes useful when it helps you make a better decision. It should reduce uncertainty, not add another rule. More context is available in the [Wardrobe & Everyday Style](/en/glossary/category/wardrobe-everyday-style/) category. For a personal decision, start with [ESKYNA Wardrobe](/en/wardrobe/).
+**Knitted Jacket** becomes useful when it helps you make a better decision. It should reduce uncertainty, not add another rule. More context is available in the [Wardrobe & Everyday Style](/en/glossary/category/wardrobe-everyday-style/) category. For a personal decision, start with [ESKYNA Wardrobe](/wardrobe/).
 
 ## Related Terms
 

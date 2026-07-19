@@ -21,7 +21,7 @@ relatedTerms:
   - title: Seidentuch
     url: /glossar/seidentuch/
   - title: Gürtel
-    url: /glossar/gürtel/
+    url: /glossar/guertel/
   - title: Taillengürtel
     url: /glossar/taillenguertel/
   - title: Kleid
@@ -52,7 +52,7 @@ Für einen modernen Look das Seidentuch nicht zu perfekt binden. Ein lockerer se
 ## Verwandte Begriffe
 
 - [Seidentuch](/glossar/seidentuch/)
-- [Gürtel](/glossar/gürtel/)
+- [Gürtel](/glossar/guertel/)
 - [Taillengürtel](/glossar/taillenguertel/)
 - [Kleid](/glossar/kleid/)
 - [Jeans](/glossar/jeans/)

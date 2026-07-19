@@ -26,7 +26,7 @@ relatedTerms:
   - title: X-Linie
     url: /glossar/x-linie/
   - title: Körperform
-    url: /glossar/körperform/
+    url: /glossar/koerperform/
 faq:
   items:
     - q: Wie nutze ich „Sanduhr-Silhouette“ im Alltag?
@@ -80,4 +80,4 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Taillierung](/glossar/taillierung/)
 - [Balance](/glossar/balance/)
 - [X-Linie](/glossar/x-linie/)
-- [Körperform](/glossar/körperform/)
+- [Körperform](/glossar/koerperform/)

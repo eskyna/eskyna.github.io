@@ -25,7 +25,7 @@ relatedTerms:
   - title: Horizontale Linie
     url: /glossar/horizontale-linie/
   - title: Layering-Länge
-    url: /glossar/layering-länge/
+    url: /glossar/layering-laenge/
   - title: Saumlänge
     url: /glossar/saumlange/
 faq:
@@ -80,5 +80,5 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Blickführung](/glossar/blickfuehrung/)
 - [Längsstreckung](/glossar/laengsstreckung/)
 - [Horizontale Linie](/glossar/horizontale-linie/)
-- [Layering-Länge](/glossar/layering-länge/)
+- [Layering-Länge](/glossar/layering-laenge/)
 - [Saumlänge](/glossar/saumlange/)

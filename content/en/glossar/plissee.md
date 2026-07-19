@@ -79,7 +79,7 @@ When you use **Pleated Fabric** in a real outfit, do not judge the item in isola
 
 ## ESKYNA perspective
 
-**Pleated Fabric** becomes useful when it helps you make a better decision. It should reduce uncertainty, not add another rule. More context is available in the [Materials & Details](/en/glossary/category/materials-details/) category. For a personal decision, start with [Ask Natalia a Style Question](/en/style-question/).
+**Pleated Fabric** becomes useful when it helps you make a better decision. It should reduce uncertainty, not add another rule. More context is available in the [Materials & Details](/en/glossary/category/materials-details/) category. For a personal decision, start with [Ask Natalia a Style Question](/style-question/).
 
 ## Related Terms
 

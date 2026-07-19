@@ -21,7 +21,7 @@ image: images/glossar/petrol.png
 image_alt: Editoriale Grafik zu Petrol mit Farbfeldern, Materialflächen und ruhigen Kombinationsakzenten
 relatedTerms:
   - title: Türkis
-    url: /glossar/türkis/
+    url: /glossar/tuerkis/
   - title: Blau
     url: /glossar/blau/
   - title: Grün

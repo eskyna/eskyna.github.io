@@ -65,9 +65,9 @@ offer_bridge:
     - choose cuts with purpose
     - prioritize alterations and purchases
   primary_label: Explore ESKYNA Style Sense
-  primary_url: /en/style-sense/
+  primary_url: /style-sense/
   secondary_label: Explore the wardrobe check
-  secondary_url: /en/wardrobe-check/
+  secondary_url: /wardrobe-check/
 ---
 
 ## Definition
@@ -111,7 +111,7 @@ Cut is the construction, fit is the effect on the body. A good cut can still fit
 
 ## Next step
 
-To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 
@@ -136,7 +136,7 @@ A typical client may understand **Cut** in theory, yet still lack a reliable fil
 
 ## How to know that support would help
 
-Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Cut** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Style Sense](/en/style-sense/) if you want to turn this idea into a clear style decision.
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Cut** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Style Sense](/style-sense/) if you want to turn this idea into a clear style decision.
 
 <!-- commercial-depth-end -->
 

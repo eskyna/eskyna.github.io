@@ -21,7 +21,7 @@ image_alt:
   Anmutung
 relatedTerms:
   - title: Gürtel
-    url: /glossar/gürtel/
+    url: /glossar/guertel/
   - title: Taillierung
     url: /glossar/taillierung/
   - title: Silhouette

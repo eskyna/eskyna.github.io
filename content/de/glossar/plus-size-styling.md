@@ -23,7 +23,7 @@ relatedTerms:
   - title: Passform
     url: /glossar/passform/
   - title: Körperform
-    url: /glossar/körperform/
+    url: /glossar/koerperform/
   - title: Proportion
     url: /glossar/proportion/
   - title: Qualität
@@ -79,6 +79,6 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 
 - [Curvy Styling](/glossar/curvy-styling/)
 - [Passform](/glossar/passform/)
-- [Körperform](/glossar/körperform/)
+- [Körperform](/glossar/koerperform/)
 - [Proportion](/glossar/proportion/)
 - [Qualität](/glossar/qualitaet/)

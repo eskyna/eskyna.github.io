@@ -67,9 +67,9 @@ offer_bridge:
     - identify wardrobe gaps
     - make combinations easier
   primary_label: Explore ESKYNA Wardrobe
-  primary_url: /en/wardrobe/
+  primary_url: /wardrobe/
   secondary_label: Explore the wardrobe check
-  secondary_url: /en/wardrobe-check/
+  secondary_url: /wardrobe-check/
 ---
 
 ## Definition
@@ -139,6 +139,6 @@ A typical client may understand **Travel Wardrobe** in theory, yet still lack a 
 
 ## How to know that support would help
 
-Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Travel Wardrobe** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Wardrobe](/en/wardrobe/) if you want to turn this idea into a clear style decision.
+Support becomes useful when you know the theory but hesitate in a shop, in front of the mirror, or while editing your wardrobe. An outside eye helps because **Travel Wardrobe** is never viewed in isolation. It is connected with body, roles, lifestyle, budget, and personal presence. The relevant next step is [Explore ESKYNA Wardrobe](/wardrobe/) if you want to turn this idea into a clear style decision.
 
 <!-- commercial-depth-end -->

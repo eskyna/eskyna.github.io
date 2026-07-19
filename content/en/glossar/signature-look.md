@@ -59,9 +59,9 @@ offer_bridge:
     - connect favorite pieces
     - make outfits more recognizable
   primary_label: Explore ESKYNA Style Sense
-  primary_url: /en/style-sense/
+  primary_url: /style-sense/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 commercial_weight: 5
 consulting_questions:
   - Which style direction feels authentic and still looks clear?
@@ -113,7 +113,7 @@ A Signature Look is more concrete than Personal Style. Personal Style describes 
 
 ## Next step
 
-To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 

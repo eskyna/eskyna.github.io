@@ -11,7 +11,7 @@ services:
         price: from €149
         image: images/gutschein.png
         ctaText: View ESKYNA voucher
-        ctaHref: /en/gift-voucher/
+        ctaHref: /gift-voucher/
       - title: Ask Natalia a style question
         subheading: Not sure yet?
         text:
@@ -20,7 +20,7 @@ services:
         price: from €49
         image: images/stilfrage.png
         ctaText: Ask a style question
-        ctaHref: /en/style-question/
+        ctaHref: /style-question/
   packages:
     title: Choose the offer that fits your next step
     items:
@@ -29,7 +29,7 @@ services:
         price: €390
         result: You shop more consciously, combine pieces more confidently, and build more trust in your style.
         ctaText: View ESKYNA style confidence
-        ctaHref: /en/style-sense/
+        ctaHref: /style-sense/
         featured: false
       - name: ESKYNA wardrobe
         headline: For a wardrobe that suits you and your life
@@ -37,14 +37,14 @@ services:
         badge: Most popular
         result: More wearable outfits, more clarity, and less stress in front of the closet.
         ctaText: View ESKYNA wardrobe
-        ctaHref: /en/wardrobe/
+        ctaHref: /wardrobe/
         featured: true
       - name: ESKYNA presence
         headline: For your professional presence
         price: €1,490
         result: A presence that shows who you are and what you stand for.
         ctaText: View ESKYNA presence
-        ctaHref: /en/presence/
+        ctaHref: /presence/
         featured: false
       - name: ESKYNA guidance
         headline: For personal style questions in daily life and a presence that grows with you
@@ -53,7 +53,7 @@ services:
           You no longer have to make style decisions alone. Your wardrobe develops more consciously, more clearly,
           and with your life.
         ctaText: Request ESKYNA guidance
-        ctaHref: /en/guidance/
+        ctaHref: /guidance/
         featured: false
   comparison:
     title: Which offer fits you?
@@ -65,19 +65,19 @@ services:
       rows:
         - situation: get an answer to a concrete style question
           offer: Ask Natalia a style question
-          offerHref: /en/style-question/
+          offerHref: /style-question/
         - situation: know what truly suits you
           offer: ESKYNA style confidence
-          offerHref: /en/style-sense/
+          offerHref: /style-sense/
         - situation: restructure your wardrobe
           offer: ESKYNA wardrobe
-          offerHref: /en/wardrobe/
+          offerHref: /wardrobe/
         - situation: show up more coherently and professionally at work
           offer: ESKYNA presence
-          offerHref: /en/presence/
+          offerHref: /presence/
         - situation: give the gift of style advice
           offer: ESKYNA gift voucher
-          offerHref: /en/gift-voucher/
+          offerHref: /gift-voucher/
   uncertainty:
     title: Unsure which offer is right for you?
     text:

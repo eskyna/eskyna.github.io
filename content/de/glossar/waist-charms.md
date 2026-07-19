@@ -19,7 +19,7 @@ keywords:
   - waist charms styling
 relatedTerms:
   - title: Gürtel
-    url: /glossar/gürtel/
+    url: /glossar/guertel/
   - title: Accessoire
     url: /glossar/accessoire/
   - title: Jeans
@@ -51,7 +51,7 @@ Waist Charms am besten mit ruhigen Basics kombinieren. Eine schlichte Jeans, ein
 
 ## Verwandte Begriffe
 
-- [Gürtel](/glossar/gürtel/)
+- [Gürtel](/glossar/guertel/)
 - [Accessoire](/glossar/accessoire/)
 - [Jeans](/glossar/jeans/)
 - [Low Waist](/glossar/low-waist/)

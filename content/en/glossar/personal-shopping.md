@@ -59,9 +59,9 @@ offer_bridge:
     - avoid wrong purchases
     - use budget more consciously
   primary_label: Explore ESKYNA Wardrobe
-  primary_url: /en/wardrobe/
+  primary_url: /wardrobe/
   secondary_label: View ESKYNA offers
-  secondary_url: /en/offers/
+  secondary_url: /offers/
 commercial_weight: 8
 consulting_questions:
   - Which buying criteria prevent a beautiful piece from staying unworn?
@@ -113,7 +113,7 @@ Personal Shopping differs from styling because it starts before the purchase. St
 
 ## Next step
 
-To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 

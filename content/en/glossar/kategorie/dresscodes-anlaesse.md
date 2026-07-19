@@ -27,4 +27,4 @@ The strongest occasion looks balance appropriateness with personality. Shoes, ba
 
 ## Next step
 
-For a quick decision on a real outfit question, start with [Style Question to Natalia](/en/style-question/).
+For a quick decision on a real outfit question, start with [Style Question to Natalia](/style-question/).

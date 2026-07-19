@@ -24,7 +24,7 @@ relatedTerms:
   - title: Androgyne Figur
     url: /glossar/androgyne-figur/
   - title: Körperform
-    url: /glossar/körperform/
+    url: /glossar/koerperform/
   - title: Proportion
     url: /glossar/proportion/
 faq:
@@ -79,5 +79,5 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Silhouette](/glossar/silhouette/)
 - [H-Linie](/glossar/h-linie/)
 - [Androgyne Figur](/glossar/androgyne-figur/)
-- [Körperform](/glossar/körperform/)
+- [Körperform](/glossar/koerperform/)
 - [Proportion](/glossar/proportion/)

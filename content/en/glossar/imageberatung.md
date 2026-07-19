@@ -59,9 +59,9 @@ offer_bridge:
     - check professional signals
     - connect presence and clothing
   primary_label: Explore ESKYNA Presence
-  primary_url: /en/presence/
+  primary_url: /presence/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 commercial_weight: 3
 consulting_questions:
   - What impact should appear in the room, on photos, or in a professional setting?
@@ -113,7 +113,7 @@ Image consulting differs from personal branding because it works more directly w
 
 ## Next step
 
-To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 

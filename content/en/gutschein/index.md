@@ -7,7 +7,7 @@ url: /gift-voucher/
 aliases:
   - /gutschein/
 offers_back:
-  href: /en/offers/
+  href: /offers/
   label: Back to offers
 variants_heading: Choose the right format
 offer:

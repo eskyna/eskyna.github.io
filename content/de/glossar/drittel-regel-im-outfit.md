@@ -22,7 +22,7 @@ relatedTerms:
   - title: Proportion
     url: /glossar/proportion/
   - title: Layering-Länge
-    url: /glossar/layering-länge/
+    url: /glossar/layering-laenge/
   - title: Horizontale Linie
     url: /glossar/horizontale-linie/
   - title: Saumlänge
@@ -75,7 +75,7 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 ## Verwandte Begriffe
 
 - [Proportion](/glossar/proportion/)
-- [Layering-Länge](/glossar/layering-länge/)
+- [Layering-Länge](/glossar/layering-laenge/)
 - [Horizontale Linie](/glossar/horizontale-linie/)
 - [Saumlänge](/glossar/saumlange/)
 - [Proportionsbruch](/glossar/proportionsbruch/)

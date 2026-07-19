@@ -27,7 +27,7 @@ relatedTerms:
   - title: Clutch
     url: /glossar/clutch/
   - title: Gürtel
-    url: /glossar/gürtel/
+    url: /glossar/guertel/
   - title: Proportion
     url: /glossar/proportion/
 faq:

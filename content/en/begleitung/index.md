@@ -4,7 +4,7 @@ description:
   Professional style and image support for recurring style questions, business outfits, and the ongoing
   development of your wardrobe in everyday life.
 offers_back:
-  href: /en/offers/
+  href: /offers/
   label: Back to offers
 offer:
   headline: ESKYNA guidance

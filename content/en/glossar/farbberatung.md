@@ -59,9 +59,9 @@ offer_bridge:
     - combine shades with more ease
     - reduce color-related buying mistakes
   primary_label: Explore ESKYNA Style Sense
-  primary_url: /en/style-sense/
+  primary_url: /style-sense/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 commercial_weight: 1
 consulting_questions:
   - Which shade supports the face and the intended impact best?
@@ -113,7 +113,7 @@ Color consultation is broader than color typing. Color typing classifies. Color 
 
 ## Next step
 
-To translate your colors into real outfits, start with the [ESKYNA offers](/en/offers/).
+To translate your colors into real outfits, start with the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 

@@ -59,9 +59,9 @@ offer_bridge:
     - identify wardrobe gaps
     - make combinations easier
   primary_label: Explore ESKYNA Wardrobe
-  primary_url: /en/wardrobe/
+  primary_url: /wardrobe/
   secondary_label: Explore the wardrobe check
-  secondary_url: /en/wardrobe-check/
+  secondary_url: /wardrobe-check/
 commercial_weight: 9
 consulting_questions:
   - Which pieces really carry the wardrobe and which ones remain random?
@@ -113,7 +113,7 @@ Wardrobe Logic is broader than a Capsule Wardrobe. A capsule is a reduced form. 
 
 ## Next step
 
-To apply this idea to your own wardrobe, explore the [ESKYNA offers](/en/offers/).
+To apply this idea to your own wardrobe, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 

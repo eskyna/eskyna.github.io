@@ -62,9 +62,9 @@ Choose the statement that fits best:
 
 **I want to understand cuts, proportions, and outfit formulas.** Start with [Style Consultation](/en/glossary/style-consultation/) or [Style Analysis](/en/glossary/style-analysis/).
 
-**I want fewer bad purchases and better combinations.** Start with [Wardrobe Check](/en/wardrobe-check/) or [Wardrobe](/en/wardrobe/).
+**I want fewer bad purchases and better combinations.** Start with [Wardrobe Check](/wardrobe-check/) or [Wardrobe](/wardrobe/).
 
-**I need a quick decision for a concrete situation.** Start with [Style Question](/en/style-question/).
+**I need a quick decision for a concrete situation.** Start with [Style Question](/style-question/).
 
 ## 5. Make it personal
 

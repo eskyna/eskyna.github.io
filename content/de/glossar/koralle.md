@@ -23,7 +23,7 @@ relatedTerms:
   - title: Rot
     url: /glossar/rot/
   - title: Türkis
-    url: /glossar/türkis/
+    url: /glossar/tuerkis/
   - title: Navy
     url: /glossar/navy/
 lastmod: "2026-07-18"

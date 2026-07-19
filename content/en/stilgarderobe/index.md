@@ -4,7 +4,7 @@ description:
   More wearable outfits, fewer bad purchases, and a wardrobe that suits you. ESKYNA wardrobe with Natalia
   Kleemann.
 offers_back:
-  href: /en/offers/
+  href: /offers/
   label: Back to offers
 variants_heading: Choose the right format
 offer:

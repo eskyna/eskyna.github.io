@@ -24,7 +24,7 @@ relatedTerms:
   - title: Balance
     url: /glossar/balance/
   - title: Körperform
-    url: /glossar/körperform/
+    url: /glossar/koerperform/
   - title: A-Linie
     url: /glossar/a-linie/
 faq:
@@ -79,5 +79,5 @@ Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die gan
 - [Silhouette](/glossar/silhouette/)
 - [Schulter-Hüft-Balance](/glossar/schulter-hueft-balance/)
 - [Balance](/glossar/balance/)
-- [Körperform](/glossar/körperform/)
+- [Körperform](/glossar/koerperform/)
 - [A-Linie](/glossar/a-linie/)

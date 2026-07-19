@@ -35,10 +35,10 @@
       <p class="blog-journal-subtitle">{{ $journalSubtitle }}</p>
       <div class="blog-category-row" aria-label="{{ $categoriesAriaLabel }}">
         <a href="{{ "blog/" | relLangURL }}" class="blog-category-chip is-active" data-blog-filter="all" aria-pressed="true">{{ $chipAll }}</a>
-        <a href="{{ "tags/farbberatung/" | relLangURL }}" class="blog-category-chip" data-blog-filter="palette" data-blog-match="{{ delimit $filterPalette "," }}" aria-pressed="false">{{ $chipPalette }}</a>
-        <a href="{{ "tags/sommerstoffe/" | relLangURL }}" class="blog-category-chip" data-blog-filter="materials" data-blog-match="{{ delimit $filterMaterials "," }}" aria-pressed="false">{{ $chipMaterials }}</a>
-        <a href="{{ "tags/proportionen/" | relLangURL }}" class="blog-category-chip" data-blog-filter="proportions" data-blog-match="{{ delimit $filterProportions "," }}" aria-pressed="false">{{ $chipProportions }}</a>
-        <a href="{{ "tags/style-coach/" | relLangURL }}" class="blog-category-chip" data-blog-filter="impact" data-blog-match="{{ delimit $filterImpact "," }}" aria-pressed="false">{{ $chipImpact }}</a>
+        <a href="{{ "blog/" | relLangURL }}" class="blog-category-chip" data-blog-filter="palette" data-blog-match="{{ delimit $filterPalette "," }}" aria-pressed="false">{{ $chipPalette }}</a>
+        <a href="{{ "blog/" | relLangURL }}" class="blog-category-chip" data-blog-filter="materials" data-blog-match="{{ delimit $filterMaterials "," }}" aria-pressed="false">{{ $chipMaterials }}</a>
+        <a href="{{ "blog/" | relLangURL }}" class="blog-category-chip" data-blog-filter="proportions" data-blog-match="{{ delimit $filterProportions "," }}" aria-pressed="false">{{ $chipProportions }}</a>
+        <a href="{{ "blog/" | relLangURL }}" class="blog-category-chip" data-blog-filter="impact" data-blog-match="{{ delimit $filterImpact "," }}" aria-pressed="false">{{ $chipImpact }}</a>
       </div>
       {{ with .Content }}<div class="blog-intro-card">{{ . }}</div>{{ end }}
     </div>

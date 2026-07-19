@@ -147,14 +147,14 @@ services:
           your situation.
         price: from €49
         ctaText: Ask a style question
-        ctaHref: /en/style-question/
+        ctaHref: /style-question/
       - title: ESKYNA gift voucher
         text:
           "Give the gift of style advice: a personal present for more clarity, style confidence, and better everyday
           decisions."
         price: from €149
         ctaText: View ESKYNA voucher
-        ctaHref: /en/gift-voucher/
+        ctaHref: /gift-voucher/
   packages:
     title: Choose the offer that fits your next step
     items:
@@ -163,7 +163,7 @@ services:
         price: €390
         result: You shop more consciously, combine pieces with more confidence, and build more trust in your style.
         ctaText: View ESKYNA style confidence
-        ctaHref: /en/style-sense/
+        ctaHref: /style-sense/
         featured: false
       - name: ESKYNA wardrobe
         headline: For a wardrobe that suits you and your life
@@ -171,14 +171,14 @@ services:
         badge: Most popular
         result: More wearable outfits, more clarity, and less stress in front of the closet.
         ctaText: View ESKYNA wardrobe
-        ctaHref: /en/wardrobe/
+        ctaHref: /wardrobe/
         featured: true
       - name: ESKYNA presence
         headline: For your professional presence
         price: €1,490
         result: A presence that shows who you are and what you stand for.
         ctaText: View ESKYNA presence
-        ctaHref: /en/presence/
+        ctaHref: /presence/
         featured: false
       - name: ESKYNA guidance
         headline: For personal style questions in daily life and a presence that grows with you
@@ -187,7 +187,7 @@ services:
           You no longer have to make style decisions alone. Your wardrobe develops more consciously, more clearly,
           and with your life.
         ctaText: Request ESKYNA guidance
-        ctaHref: /en/guidance/
+        ctaHref: /guidance/
         featured: false
   comparison:
     title: Which offer fits you?

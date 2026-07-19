@@ -61,9 +61,9 @@ offer_bridge:
     - connect favorite pieces
     - make outfits more recognizable
   primary_label: Explore ESKYNA Style Sense
-  primary_url: /en/style-sense/
+  primary_url: /style-sense/
   secondary_label: Ask a style question
-  secondary_url: /en/style-question/
+  secondary_url: /style-question/
 commercial_weight: 2
 consulting_questions:
   - Which style direction feels authentic and still looks clear?
@@ -115,7 +115,7 @@ Style consultation is wider than color consultation and more concrete than inspi
 
 ## Next step
 
-To turn style knowledge into concrete outfits, explore the [ESKYNA offers](/en/offers/).
+To turn style knowledge into concrete outfits, explore the [ESKYNA offers](/offers/).
 
 ## ESKYNA note
 
