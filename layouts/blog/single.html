@@ -101,6 +101,19 @@
 
         <article class="prose content-prose blog-prose">
           {{ .Content }}
+          {{ if eq .Language.Lang "de" }}
+            <section class="blog-next-steps" aria-label="Weitere Inhalte">
+              <h2>Weitere Inhalte</h2>
+              <p>Wenn du tiefer einsteigen möchtest:</p>
+              <ul>
+                <li><a href="{{ "blog" | relLangURL }}">Zum ESKYNA Blog</a></li>
+                <li><a href="{{ "about" | relLangURL }}">Über Natalia Kleemann</a></li>
+                <li><a href="{{ "angebote" | relLangURL }}">Alle Angebote im Überblick</a></li>
+                <li><a href="{{ "begleitung" | relLangURL }}">ESKYNA Begleitung</a></li>
+                <li><a href="{{ "datenschutz" | relLangURL }}">Datenschutzerklärung</a></li>
+              </ul>
+            </section>
+          {{ end }}
           {{ with .Params.tags }}
             <footer class="blog-tags">
               <div class="blog-tags-label">{{ if or (eq $.Language.Lang "ru") (eq $.Language.Lang "rus") }}Темы:{{ else }}Tags:{{ end }}</div>
