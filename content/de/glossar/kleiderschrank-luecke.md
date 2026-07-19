@@ -13,7 +13,7 @@ keywords:
   - was bedeutet kleiderschrank-lücke
   - kleiderschrank-lücke stilberatung
 weight: 1
-image: images/glossar/kleiderschrank-lücke.png
+image: images/glossar/kleiderschrank-luecke.png
 image_alt: Editoriale Glossar-Grafik zu Kleiderschrank-Lücke mit ruhigen Farbfeldern und feiner Linienführung
 relatedTerms:
   - title: Capsule Wardrobe
