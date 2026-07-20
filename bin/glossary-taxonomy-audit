@@ -23,11 +23,11 @@ const PRIMARY_CATEGORIES = new Set([
 
 const SUBCATEGORY_RULES = [
   {
-    subcategory: "Groessen & Passform",
+    subcategory: "Größen & Passform",
     match: /(passform|size|groesse|groe|sanduhr|oversized|proportion)/i,
   },
   {
-    subcategory: "Pflege & Waesche",
+    subcategory: "Pflege & Wäsche",
     match: /(pflege|wasch|waesch|etikett)/i,
   },
   {
@@ -88,6 +88,17 @@ function normalizeCategory(value) {
   return map[cleaned] || cleaned;
 }
 
+function normalizeSubcategory(value) {
+  if (!value) return "";
+  const map = {
+    "Groessen & Passform": "Größen & Passform",
+    "Pflege & Waesche": "Pflege & Wäsche",
+  };
+
+  const cleaned = String(value).trim();
+  return map[cleaned] || cleaned;
+}
+
 function inferSubcategory(fileName, term, category) {
   const source = `${fileName} ${term} ${category}`;
   for (const rule of SUBCATEGORY_RULES) {
@@ -116,14 +127,15 @@ function main() {
     const term = String(fm.term || fm.title || fileName).trim();
     const categoryRaw = String(fm.category || "").trim();
     const categoryNormalized = normalizeCategory(categoryRaw);
-    const currentSubcategory = String(fm.subcategory || "").trim();
+    const currentSubcategoryRaw = String(fm.subcategory || "").trim();
+    const currentSubcategory = normalizeSubcategory(currentSubcategoryRaw);
 
     categoryCounts.set(
       categoryNormalized || "(missing)",
       (categoryCounts.get(categoryNormalized || "(missing)") || 0) + 1
     );
 
-    if (currentSubcategory) assignedSubcategories += 1;
+    if (currentSubcategoryRaw) assignedSubcategories += 1;
 
     const isPrimary = PRIMARY_CATEGORIES.has(categoryNormalized);
     if (!isPrimary) {
@@ -141,7 +153,7 @@ function main() {
         file: path.relative(rootDir, filePath).replace(/\\/g, "/"),
         term,
         category: categoryNormalized || "(missing)",
-        current_subcategory: currentSubcategory,
+        current_subcategory: currentSubcategoryRaw,
         suggested_subcategory: subcategory,
       });
     } else if (subcategory && currentSubcategory === subcategory) {

@@ -4,7 +4,6 @@ description: "Термины о размере, посадке, объеме и 
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Размеры и посадка
-glossar_parent_category: Крой, пропорции и посадка
 glossar_filter_terms:
   - passform
   - plus-size-styling

@@ -4,7 +4,6 @@ description: "Diese Kategorie buendelt Begriffe zu Größe, Sitz, Volumen und Pr
 layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Größen & Passform"
-glossar_parent_category: "Schnitt, Proportion & Passform"
 glossar_filter_terms:
   - passform
   - plus-size-styling

@@ -4,7 +4,6 @@ description: "Diese Kategorie buendelt Begriffe zu Taschen, Schmuck, Tuechern, G
 layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Accessoires"
-glossar_parent_category: "Materialien & Details"
 glossar_filter_terms:
   - accessoire
   - gimme-gummy

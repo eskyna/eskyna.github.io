@@ -4,7 +4,6 @@ description: "Термины о бережном уходе, стирке и с�
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Уход и стирка
-glossar_parent_category: Гардероб и повседневность
 glossar_filter_terms:
   - pflege
   - pflegeetikett

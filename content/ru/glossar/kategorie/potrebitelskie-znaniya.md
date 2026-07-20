@@ -4,7 +4,6 @@ description: "Термины о качестве, устойчивости и р
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Потребительские знания
-glossar_parent_category: Гардероб и повседневность
 glossar_filter_terms:
   - materialqualitaet
   - cost-per-wear

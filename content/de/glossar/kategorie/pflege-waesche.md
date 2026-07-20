@@ -4,7 +4,6 @@ description: "Diese Kategorie ordnet Begriffe rund um Textilpflege, Waschen und 
 layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Pflege & Wäsche"
-glossar_parent_category: "Garderobe & Alltag"
 glossar_filter_terms:
   - pflege
   - pflegeetikett

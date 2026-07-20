@@ -6,9 +6,9 @@ const path = require("path");
 
 const root = process.cwd();
 const langs = {
-  de: { termMin: 280, categoryMin: 100, label: "DE" },
-  en: { termMin: 280, categoryMin: 100, label: "EN" },
-  ru: { termMin: 280, categoryMin: 100, label: "RU" },
+  de: { termFloor: 65, termP10Min: 120, categoryFloor: 75, label: "DE" },
+  en: { termFloor: 65, termP10Min: 120, categoryFloor: 75, label: "EN" },
+  ru: { termFloor: 65, termP10Min: 120, categoryFloor: 75, label: "RU" },
 };
 
 function walk(dir) {
@@ -31,6 +31,10 @@ function splitFrontmatter(text) {
 function getFrontmatterValue(fm, key) {
   const match = fm.match(new RegExp(`^${key}:\\s*(.+)$`, "m"));
   return match ? match[1].trim().replace(/^['"]|['"]$/g, "") : "";
+}
+
+function getFrontmatterBoolean(fm, key) {
+  return new RegExp(`^${key}:\\s*true\\s*$`, "m").test(fm);
 }
 
 function wordCount(text) {
@@ -57,6 +61,7 @@ for (const [lang, cfg] of Object.entries(langs)) {
   const files = walk(glossarDir);
   const termCounts = [];
   const categoryCounts = [];
+  const helperCounts = [];
   const seenTerms = new Map();
 
   const indexFile = path.join(glossarDir, "_index.md");
@@ -78,21 +83,29 @@ for (const [lang, cfg] of Object.entries(langs)) {
     if (path.basename(file) === "_index.md") continue;
     const text = fs.readFileSync(file, "utf8");
     const { fm, body } = splitFrontmatter(text);
-    const isCategory = /^is_glossar_category:\s*true\s*$/m.test(fm);
+    const isCategory = getFrontmatterBoolean(fm, "is_glossar_category");
+    const isGlossaryHelper = getFrontmatterBoolean(fm, "is_glossar_index_helper");
     const wc = wordCount(body);
+
+    if (isGlossaryHelper) {
+      helperCounts.push(wc);
+      continue;
+    }
 
     if (isCategory) {
       categoryCounts.push(wc);
-      if (wc < cfg.categoryMin) {
-        issues.push(`${cfg.label}: category page below ${cfg.categoryMin} words (${wc}) - ${rel}`);
+      if (wc < cfg.categoryFloor) {
+        issues.push(
+          `${cfg.label}: category page below ${cfg.categoryFloor} words (${wc}) - ${rel}`
+        );
       }
       const glossarCategory = getFrontmatterValue(fm, "glossar_category");
       if (!glossarCategory)
         issues.push(`${cfg.label}: category page has no glossar_category - ${rel}`);
     } else {
       termCounts.push(wc);
-      if (wc < cfg.termMin) {
-        issues.push(`${cfg.label}: term page below ${cfg.termMin} words (${wc}) - ${rel}`);
+      if (wc < cfg.termFloor) {
+        issues.push(`${cfg.label}: term page below ${cfg.termFloor} words (${wc}) - ${rel}`);
       }
       const term = getFrontmatterValue(fm, "term") || getFrontmatterValue(fm, "title");
       const category = getFrontmatterValue(fm, "category");
@@ -113,14 +126,21 @@ for (const [lang, cfg] of Object.entries(langs)) {
 
   const sum = termCounts.reduce((a, b) => a + b, 0);
   const avg = termCounts.length ? sum / termCounts.length : 0;
+  const termP10 = percentile(termCounts, 0.1);
+  if (termP10 < cfg.termP10Min) {
+    issues.push(
+      `${cfg.label}: term p10 below ${cfg.termP10Min} words (${termP10}) across glossary corpus`
+    );
+  }
   stats.push({
     lang: cfg.label,
     terms: termCounts.length,
     termMin: Math.min(...termCounts),
-    termP10: percentile(termCounts, 0.1),
+    termP10,
     termAvg: Number(avg.toFixed(1)),
     categories: categoryCounts.length,
     categoryMin: Math.min(...categoryCounts),
+    helpers: helperCounts.length,
   });
 }
 

@@ -4,7 +4,6 @@ description: "Термины о сумках, украшениях, ремнях
 layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: Аксессуары
-glossar_parent_category: Материалы и детали
 glossar_filter_terms:
   - accessoire
   - gimme-gummy
