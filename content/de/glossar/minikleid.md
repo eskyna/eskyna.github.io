@@ -45,11 +45,15 @@ lastmod: "2026-07-09"
 
 Ein Minikleid muss nicht laut sein. Ein gerader Schnitt in Wolle oder Bouclé wirkt klar. Ein leichtes Baumwollkleid wirkt sommerlich. Ein Satinmodell wirkt abendlich.
 
+Für mehr Länge bei ähnlich klarer Wirkung lohnt sich oft ein [Maxikleid](/glossar/maxikleid/).
+
 Damit ein Minikleid nicht zufällig wirkt, braucht es Balance. Flache Schuhe, blickdichte Strumpfhosen, ein längerer Mantel oder ein ruhiger Blazer können dem Look mehr Struktur geben.
 
 ## Warum Minikleid wichtig ist
 
 Minikleider sind wichtig, weil sie zeigen, wie stark Länge und Kontext zusammenhängen. Derselbe Saum kann mit Sneakern leicht, mit Pumps festlich und mit Boots urban wirken.
+
+Ein reduziertes Minikleid gewinnt an Kontur, wenn ein [Choker](/glossar/choker/) den oberen Bereich präzise akzentuiert.
 
 ## Worauf du achten solltest
 

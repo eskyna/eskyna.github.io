@@ -4,6 +4,7 @@ term: Taillengürtel
 description: Ein Taillengürtel sitzt bewusst in der Körpermitte und formt Kleider, Blazer, Mäntel
   oder weite Silhouetten.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - taillengürtel
   - gürtel
@@ -49,6 +50,7 @@ Ein **Taillengürtel** ist ein Gürtel, der bewusst in der Taille getragen wird.
 ## Einfach erklärt
 
 Im Unterschied zu einem Hosengürtel ist der Taillengürtel stärker gestalterisch. Er setzt einen Fokuspunkt und verändert die Linie des gesamten Outfits.
+Verspielter wird diese Betonung, wenn statt einer klaren Schließe kleine [Waist Charms](/glossar/waist-charms/) die Körpermitte akzentuieren.
 
 Ein schmaler Taillengürtel wirkt feiner. Ein breiter Taillengürtel wirkt präsenter und kann einem weiten Kleid oder Mantel mehr Struktur geben.
 

@@ -3,7 +3,7 @@ title: Was bedeutet Rock?
 term: Rock
 description: Ein Rock ist ein Kleidungsstück für den Unterkörper ohne Beineinteilung, dessen Wirkung
   stark von Länge, Material und Form abhängt.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - garderobe
   - rock
@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen. Schnittdetails wie ein [Ballonsaum](/glossar/ballonsaum/) verändern diese Aufgabe sofort.
 
 ## Warum Rock wichtig ist
 

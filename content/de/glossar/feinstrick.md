@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Feinstrick, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Feinstrick wirkt besonders ausgewogen, wenn eine [Caprihose](/glossar/caprihose/) für klare Beinlinie und ruhige Balance sorgt.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Feinstrick im Outfit übernimmt.

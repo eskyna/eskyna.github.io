@@ -3,6 +3,7 @@ title: Was bedeutet High Waist?
 term: High Waist
 description: High Waist beschreibt einen hohen Bund, der oberhalb der natürlichen Hüfte sitzt.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - high waist
   - schnitt proportion
@@ -46,6 +47,8 @@ Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit.
 Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger machen. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück soll stimmig sitzen.
 
 ## Warum High Waist wichtig ist
+
+High Waist wirkt besonders dann stimmig, wenn die [Beinlänge](/glossar/beinlaenge/) im Gesamtbild klar und bewusst geführt wird.
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 

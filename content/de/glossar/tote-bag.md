@@ -79,6 +79,8 @@ Betrachte „Tote Bag“ einmal aus der Nähe und einmal mit etwas Abstand. Aus 
 
 Eine Tote Bag ist Alltag mit Haltung. Ihre Form entscheidet, ob sie praktisch oder wirklich stilvoll wirkt.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jelly Sandals](/glossar/jelly-sandals/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Tote Bag** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.

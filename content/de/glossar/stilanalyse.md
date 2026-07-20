@@ -141,6 +141,8 @@ Unterstützung wird sinnvoll, wenn du viel Inspiration sammelst, aber daraus kei
 
 <!-- commercial-depth-end -->
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Herz-Ausschnitt](/glossar/herz-ausschnitt/).
+
 ## Verwandte Begriffe
 
 - [Stil](/glossar/stil/)

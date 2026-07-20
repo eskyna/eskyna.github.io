@@ -50,6 +50,7 @@ Typisch sind Ballerinas, Wickelstrick, Leggings, Schleifen, feine Jerseys und pu
 ## Warum der Begriff wichtig ist
 
 Balletcore ist mehr als ein einzelnes Kleidungsstück. Der Begriff erklärt eine ganze Bildwelt, die in Mode und Social Media stark präsent ist.
+Ein ehrlicher [Kleiderschrank-Check](/glossar/kleiderschrank-check/) zeigt, welche vorhandenen Teile diese Ästhetik tatsächlich tragen.
 
 ## ESKYNA-Merksatz
 

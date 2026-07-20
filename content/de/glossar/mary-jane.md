@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Riemen ist das prägende Detail. Er gibt dem Schuh Halt und eine erkennbare Linie. Runde Formen wirken weicher und klassischer. Spitze oder eckige Formen wirken moderner.
+Der Riemen ist das prägende Detail. Er gibt dem Schuh Halt und eine erkennbare Linie. Runde Formen wirken weicher und [klassischer](/glossar/klassisch/). Spitze oder eckige Formen wirken moderner.
 
 Mary Janes passen zu Kleidern, Röcken, Jeans und Anzughosen. Sie können einen Look femininer machen, ohne direkt festlich zu wirken.
 

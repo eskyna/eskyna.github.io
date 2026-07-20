@@ -86,6 +86,8 @@ In der Beratung ist **Outfit-Analyse** kein starres Etikett. Der Begriff wird er
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
 
+In der Analyse zeigt sich schnell, ob [Combat Boots](/glossar/combat-boots/) den gewünschten Stilbruch wirklich tragen.
+
 ## Verwandte Begriffe
 
 - [Signature Look](/glossar/signature-look/)

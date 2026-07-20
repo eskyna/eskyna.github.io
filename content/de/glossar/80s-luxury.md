@@ -50,6 +50,7 @@ Im Unterschied zu stiller Eleganz setzt 80s Luxury auf klare Wirkung. Schultern,
 ## Warum der Begriff wichtig ist
 
 Der Begriff taucht in Trenddiskussionen häufig auf und hilft, die Rückkehr markanter Luxuscodes besser zu lesen.
+Gerade bei starken Looks entscheidet die [Farbe](/glossar/farbe/) darüber, ob die Wirkung klar oder überladen erscheint.
 
 ## ESKYNA-Merksatz
 

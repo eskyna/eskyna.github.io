@@ -23,8 +23,6 @@ relatedTerms:
     url: /glossar/viskose/
   - title: Seide
     url: /glossar/seide/
-  - title: Leinen
-    url: /glossar/leinen/
   - title: Struktur
     url: /glossar/struktur/
   - title: Silhouette
@@ -47,15 +45,15 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Ein Kleid aus Viskose bewegt sich anders als ein Kleid aus Baumwollpopeline. Seide fällt oft fließend und leicht glänzend. Leinen fällt trockener und strukturierter. Denim bleibt stabiler und formt eine klarere Linie.
+Ein Kleid aus Viskose bewegt sich anders als ein Kleid aus Baumwollpopeline. [Seide](/glossar/seide/) fällt oft fließend und leicht glänzend. Leinen fällt trockener und strukturierter. Denim bleibt stabiler und formt eine klarere Linie.
 
-Der gleiche Schnitt kann durch den Stoff völlig anders wirken. Eine Wide Leg Hose aus fließender Viskose wirkt weich und elegant. Aus festem Baumwolltwill wirkt sie klarer und grafischer. Ein Blazer aus weicher Wolle wirkt anders als ein Blazer aus steifem Leinen.
+Der gleiche Schnitt kann durch den Stoff völlig anders wirken. Eine Wide Leg Hose aus fließender Viskose wirkt weich und elegant. Aus festem Baumwolltwill wirkt sie klarer und grafischer. Ein Blazer aus weicher Wolle wirkt anders als ein Blazer aus steifem Leinen. Bei glänzenden Oberflächen wie [Satin](/glossar/satin/) verändert zusätzlich der [Glanzgrad](/glossar/glanzgrad/) die Wirkung. Auch [Acetat](/glossar/acetat/) wird oft genau über diesen weichen Fall und den leichten Glanz wahrgenommen.
 
 ## Warum Materialfall wichtig ist
 
 Materialfall entscheidet, ob ein Kleidungsstück mit dem Körper arbeitet oder gegen ihn. Er beeinflusst Beweglichkeit, Volumen, Eleganz und Komfort. Wer den Materialfall versteht, erkennt schneller, warum ein Teil auf dem Bügel schön aussieht, aber am Körper nicht funktioniert.
 
-Für ESKYNA ist Materialfall ein Schlüssel gegen Fehlkäufe. Er hilft, Schnitt und Stoff gemeinsam zu beurteilen, statt nur auf Farbe oder Größe zu schauen.
+Für ESKYNA ist Materialfall ein Schlüssel gegen Fehlkäufe. Er hilft, Schnitt und Stoff gemeinsam zu beurteilen, statt nur auf Farbe oder Größe zu schauen. Gerade bei einem [Allover-Print](/glossar/allover-print/) entscheidet der Fall mit, ob das Muster ruhig oder unruhig gelesen wird.
 
 ## Worauf du beim Materialfall achten solltest
 

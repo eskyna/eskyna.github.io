@@ -3,6 +3,7 @@ title: Pflegeetikett
 term: Pflegeetikett
 description: Das Pflegeetikett gibt Hinweise zur Reinigung und Pflege eines Kleidungsstücks.
 category: Materialien & Details
+subcategory: Pflege & Wäsche
 tags:
   - materialien
   - pflegeetikett
@@ -39,6 +40,7 @@ lastmod: "2026-07-09"
 ## Definition
 
 **Pflegeetikett**: Das Pflegeetikett gibt Hinweise zur Reinigung und Pflege eines Kleidungsstücks.
+Die einzelnen Zeichen darauf werden im Beitrag zu [Waschsymbole](/glossar/waschsymbole/) konkret lesbar.
 
 ## Einfach erklärt
 

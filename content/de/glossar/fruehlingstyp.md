@@ -80,6 +80,8 @@ Frag dich bei **Frühlingstyp**: Welche Aufgabe soll dieses Element im Outfit ü
 
 Bei Farbthemen lohnt sich der Vergleich direkt am Gesicht. Ein kleiner Unterschied in Temperatur oder Helligkeit kann mehr verändern als ein komplett neuer Farbton. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Frühlingstyp** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Dressy Casual](/glossar/dressy-casual/).
+
 ## Verwandte Begriffe
 
 - [Farbtyp](/glossar/farbtyp/)

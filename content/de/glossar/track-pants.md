@@ -46,7 +46,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Track Pants wirken dynamisch und casual. Im Alltag werden sie spannend, wenn sie nicht wie Sportausrüstung, sondern wie ein bewusstes Stylingelement eingesetzt werden.
-Mit Sneakern bleiben sie sportlich. Mit Blazer, Mantel oder feinem Strick entsteht ein moderner Kontrast.
+Mit Sneakern bleiben sie [sportlich](/glossar/sportlich/). Mit Blazer, Mantel oder feinem Strick entsteht ein moderner Kontrast.
 
 ## Warum dieser Begriff wichtig ist
 

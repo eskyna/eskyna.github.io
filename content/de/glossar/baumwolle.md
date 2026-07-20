@@ -47,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Baumwolle ist nicht automatisch sportlich oder schlicht. Ein Baumwollshirt aus Jersey wirkt entspannt. Popeline aus Baumwolle wirkt glatt und gepflegt. Denim aus Baumwolle wirkt robust. Ein dichter Baumwolltwill kann bei Chinos oder Trenchcoats sehr klar und erwachsen erscheinen.
+Baumwolle ist nicht automatisch sportlich oder schlicht. Ein Baumwollshirt aus Jersey wirkt entspannt. Popeline aus Baumwolle wirkt glatt und gepflegt. Denim aus Baumwolle wirkt robust. Ein dichter Baumwolltwill kann bei Chinos oder Trenchcoats sehr klar und erwachsen erscheinen. Aufgeraute Baumwolle zeigt sich oft als [Flanell](/glossar/flanell/).
 
 Die Wirkung entsteht durch Webart, Stoffgewicht, Dichte und Schnitt. Feine Baumwolle kann leicht und elegant sein. Grobe Baumwolle wirkt stabiler und lässiger. Stretch-Anteile können Komfort geben, verändern aber auch den Fall.
 
@@ -83,7 +83,7 @@ Wenn du den Begriff **Baumwolle** auf ein Outfit überträgst, prüfe nicht nur 
 
 - Fühle Griff, Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+- Achte auf Pflege, [Knitterverhalten](/glossar/knitterverhalten/) und Verarbeitung an Nähten oder Kanten.
 
 ## Beratungsblick
 

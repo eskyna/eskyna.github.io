@@ -52,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Grobstrick, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Bei markanten Oberflächen kann ein [Carre-Ausschnitt](/glossar/carre-ausschnitt/) den Fokus am Oberkörper gezielt ordnen.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Grobstrick im Outfit übernimmt.

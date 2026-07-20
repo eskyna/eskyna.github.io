@@ -47,6 +47,8 @@ Ein **Lapel Pin** ist ein kleiner Anstecker am Revers oder Kragen. Er setzt ein 
 
 Gerade an Blazern, Mänteln oder Sakkos kann ein Lapel Pin ein bewusstes Detail sein. Er wirkt akademisch, poetisch, formell oder verspielt, je nach Motiv und Material.
 
+Der Begriff [Brooched](/glossar/brooched/) beschreibt genau diesen Akzent, wenn ein Revers-Detail die Gesamtwirkung gezielt verfeinert.
+
 ## Mini-Test vor dem Spiegel
 
 Betrachte „Lapel Pin“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.

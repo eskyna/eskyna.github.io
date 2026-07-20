@@ -4,6 +4,7 @@ term: Raglanärmel
 description: Ein Raglanärmel verläuft diagonal vom Halsbereich zur Achsel und wirkt weicher als eine
   klassische Schulternaht.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - raglanaermel
   - schnitt proportion
@@ -84,6 +85,8 @@ Wenn du den Begriff **Raglanärmel** auf ein Outfit überträgst, prüfe nicht n
 In der Beratung ist **Raglanärmel** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Wenn du eine weichere Schulterlinie suchst, vergleiche den Effekt mit [Dropped Shoulder](/glossar/dropped-shoulder/).
 
 ## Verwandte Begriffe
 

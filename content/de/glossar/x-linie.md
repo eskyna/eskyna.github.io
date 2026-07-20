@@ -3,6 +3,7 @@ title: Was bedeutet X-Linie?
 term: X-Linie
 description: Die X-Linie betont die Taille und schafft Balance zwischen Schulterbereich und Saumweite.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - schnitt proportion
   - x linie
@@ -83,6 +84,8 @@ Wenn du den Begriff **X-Linie** auf ein Outfit überträgst, prüfe nicht nur da
 In der Beratung ist **X-Linie** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Kunstleder](/glossar/kunstleder/).
 
 ## Verwandte Begriffe
 

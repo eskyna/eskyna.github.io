@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Camel
 
-Camel liegt zwischen Beige und Braun. Die Farbe hat Wärme, Tiefe und eine klassische Wertigkeit. Besonders bei Mänteln, Strick, Leder, Kaschmir und Accessoires wirkt Camel ruhig und hochwertig.
+Camel liegt zwischen Beige und [Braun](/glossar/braun/). Die Farbe hat Wärme, Tiefe und eine klassische Wertigkeit. Besonders bei Mänteln, Strick, Leder, Kaschmir und Accessoires wirkt Camel ruhig und hochwertig.
 
 Camel ist keine neutrale Farbe im Sinne von unsichtbar. Sie bringt Wärme in den Look und zieht dadurch Aufmerksamkeit auf eine sehr leise Art. Genau deshalb kann ein Camel-Mantel ein starkes Key-Piece sein.
 
@@ -50,7 +50,7 @@ Camel ist keine neutrale Farbe im Sinne von unsichtbar. Sie bringt Wärme in den
 
 Camel wirkt klassisch, erwachsen und weich. Es ist weniger streng als Schwarz, wärmer als Grau und markanter als Beige. In klaren Schnitten wirkt Camel souverän. In weichen Materialien wirkt es luxuriös und zugänglich.
 
-Die Farbe braucht jedoch den richtigen Unterton. Bei sehr kühlen Farbwelten kann Camel zu gelblich wirken. Dann sind Taupe, Greige oder kühles Braun oft harmonischer.
+Die Farbe braucht jedoch den richtigen Unterton. Bei sehr kühlen Farbwelten kann Camel zu gelblich wirken. Dann sind Taupe, Greige oder kühles [Braun](/glossar/braun/) oft harmonischer.
 
 ## Nuancen und Materialien
 
@@ -67,7 +67,7 @@ Camel in Wolle wirkt klassisch. Camel in Leder wirkt urbaner. Camel in Strick wi
 - Camel + Navy: klassisch und souverän
 - Camel + Denim: entspannt und modern
 - Camel + Schwarz: stark und grafischer
-- Camel + Braun: warm und tonal
+- Camel + [Terracotta](/glossar/terracotta/): warm und tonal
 
 ## Im Business und Alltag
 

@@ -41,7 +41,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Details wirken oft leise, aber sie verändern den Gesamteindruck deutlich. Ein Ausschnitt, eine Naht, eine Kante oder eine Stoffführung kann einen Look öffnen, strukturieren oder weicher machen.
+Details wirken oft leise, aber sie verändern den Gesamteindruck deutlich. Ein Ausschnitt, eine Naht, eine [Kante](/glossar/kante/) oder eine Stoffführung kann einen Look öffnen, strukturieren oder weicher machen.
 
 Für ESKYNA sind Details keine Nebensache. Sie entscheiden oft, ob ein Outfit fertig, hochwertig und persönlich wirkt.
 

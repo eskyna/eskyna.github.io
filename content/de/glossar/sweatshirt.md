@@ -76,6 +76,8 @@ Betrachte „Sweatshirt“ einmal aus der Nähe und einmal mit etwas Abstand. Au
 
 Ein Sweatshirt gibt Komfort. Seine Eleganz entsteht durch Ruhe, Qualität und Kombination.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Hut](/glossar/hut/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Sweatshirt** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

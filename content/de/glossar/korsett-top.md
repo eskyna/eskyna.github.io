@@ -46,6 +46,8 @@ Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. 
 
 Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
 
+Ein [Camisole](/glossar/camisole/) schafft unter einem Korsett-Top eine weichere Basis, ohne die gewünschte Form zu verlieren.
+
 ## Warum Korsett-Top wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

@@ -50,6 +50,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Bubikragen, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn der Kragen verspielt wirkt, kann ein Bezug zu [Brokat](/glossar/brokat/) helfen, Material und Wirkung bewusster zu kombinieren.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Bubikragen im Outfit übernimmt.

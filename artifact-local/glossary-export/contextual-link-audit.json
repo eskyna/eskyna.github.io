@@ -1,0 +1,5536 @@
+{
+  "generated_at": "2026-07-20T22:40:05.894Z",
+  "thresholds": {
+    "outgoing_min": 4,
+    "outgoing_max": 8,
+    "incoming_contextual_min": 2
+  },
+  "summary": {
+    "total_pages": 709,
+    "below_outgoing_min": 0,
+    "above_outgoing_max": 0,
+    "below_incoming_contextual_min": 260,
+    "missing_contextual_outgoing": 0
+  },
+  "pages_below_outgoing_min": [],
+  "pages_above_outgoing_max": [],
+  "pages_below_incoming_contextual_min": [
+    {
+      "file": "content/de/glossar/kupfer.md",
+      "slug": "kupfer",
+      "term": "Kupfer",
+      "contextual_outgoing": ["petrol", "tannengruen"],
+      "related_outgoing": ["bronze", "gold", "navy", "petrol"],
+      "total_outgoing": ["bronze", "gold", "navy", "petrol", "tannengruen"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/kurzjacke.md",
+      "slug": "kurzjacke",
+      "term": "Kurzjacke",
+      "contextual_outgoing": ["bikerjacke"],
+      "related_outgoing": ["blazer", "bomberjacke", "high-waist", "jeansjacke", "layering"],
+      "total_outgoing": [
+        "bikerjacke",
+        "blazer",
+        "bomberjacke",
+        "high-waist",
+        "jeansjacke",
+        "layering"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/laced-up-lace-aesthetic.md",
+      "slug": "laced-up-lace-aesthetic",
+      "term": "Laced Up",
+      "contextual_outgoing": ["ballerina", "blazer", "jeans", "sweatshirt"],
+      "related_outgoing": ["ballerina", "bluse", "korsett-top", "spitze", "stilbruch"],
+      "total_outgoing": [
+        "ballerina",
+        "blazer",
+        "bluse",
+        "jeans",
+        "korsett-top",
+        "spitze",
+        "stilbruch",
+        "sweatshirt"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/laengsstreifen.md",
+      "slug": "laengsstreifen",
+      "term": "Längsstreifen",
+      "contextual_outgoing": ["curvy-styling"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "curvy-styling", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/laessig.md",
+      "slug": "laessig",
+      "term": "Lässig",
+      "contextual_outgoing": ["bolero"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "bolero",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/lammfell.md",
+      "slug": "lammfell",
+      "term": "Lammfell",
+      "contextual_outgoing": ["bootcut"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "bootcut", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/lapel-pin.md",
+      "slug": "lapel-pin",
+      "term": "Lapel Pin",
+      "contextual_outgoing": ["brooched"],
+      "related_outgoing": ["accessoire", "blazer", "brooched", "mantel", "statement-schmuck"],
+      "total_outgoing": ["accessoire", "blazer", "brooched", "mantel", "statement-schmuck"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/layering-laenge.md",
+      "slug": "layering-laenge",
+      "term": "Layering-Länge",
+      "contextual_outgoing": ["essential"],
+      "related_outgoing": [
+        "drittel-regel-im-outfit",
+        "layering",
+        "proportion",
+        "saumlange",
+        "vertikale-linie"
+      ],
+      "total_outgoing": [
+        "drittel-regel-im-outfit",
+        "essential",
+        "layering",
+        "proportion",
+        "saumlange",
+        "vertikale-linie"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/leadership-style.md",
+      "slug": "leadership-style",
+      "term": "Leadership Style",
+      "contextual_outgoing": ["first-impression"],
+      "related_outgoing": [
+        "auftreten",
+        "executive-presence",
+        "image-strategie",
+        "personal-branding",
+        "wirkungsprofil"
+      ],
+      "total_outgoing": [
+        "auftreten",
+        "executive-presence",
+        "first-impression",
+        "image-strategie",
+        "personal-branding",
+        "wirkungsprofil"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/lederguertel.md",
+      "slug": "lederguertel",
+      "term": "Ledergürtel",
+      "contextual_outgoing": ["chelsea-boots"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "chelsea-boots", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/lederjacke.md",
+      "slug": "lederjacke",
+      "term": "Lederjacke",
+      "contextual_outgoing": ["bikerjacke", "klassisch"],
+      "related_outgoing": ["chelsea-boots", "jeans", "schwarz", "stilbruch", "struktur"],
+      "total_outgoing": [
+        "bikerjacke",
+        "chelsea-boots",
+        "jeans",
+        "klassisch",
+        "schwarz",
+        "stilbruch",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/ledertasche.md",
+      "slug": "ledertasche",
+      "term": "Ledertasche",
+      "contextual_outgoing": ["champagner"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "champagner", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/leibhoehe.md",
+      "slug": "leibhoehe",
+      "term": "Leibhöhe",
+      "contextual_outgoing": ["passform", "proportion"],
+      "related_outgoing": ["hosenbruch", "innenbeinlaenge", "passform", "proportion"],
+      "total_outgoing": ["hosenbruch", "innenbeinlaenge", "passform", "proportion"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/lieblingsstueck.md",
+      "slug": "lieblingsstueck",
+      "term": "Lieblingsstück",
+      "contextual_outgoing": ["essenz"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "essenz",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/lila.md",
+      "slug": "lila",
+      "term": "Lila",
+      "contextual_outgoing": ["violett"],
+      "related_outgoing": [
+        "blau",
+        "farbtemperatur",
+        "flieder",
+        "fuchsia",
+        "pink",
+        "rosa",
+        "saettigung",
+        "violett"
+      ],
+      "total_outgoing": [
+        "blau",
+        "farbtemperatur",
+        "flieder",
+        "fuchsia",
+        "pink",
+        "rosa",
+        "saettigung",
+        "violett"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 8,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/linkedin-outfit.md",
+      "slug": "linkedin-outfit",
+      "term": "LinkedIn-Outfit",
+      "contextual_outgoing": ["video-call-outfit"],
+      "related_outgoing": [
+        "first-impression",
+        "fotoshooting-outfit",
+        "image-strategie",
+        "kamera-look",
+        "personal-branding"
+      ],
+      "total_outgoing": [
+        "first-impression",
+        "fotoshooting-outfit",
+        "image-strategie",
+        "kamera-look",
+        "personal-branding",
+        "video-call-outfit"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/longline.md",
+      "slug": "longline",
+      "term": "Longline",
+      "contextual_outgoing": ["empire-kleid", "longblazer"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "empire-kleid",
+        "longblazer",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/longsleeve.md",
+      "slug": "longsleeve",
+      "term": "Longsleeve",
+      "contextual_outgoing": ["cardigan"],
+      "related_outgoing": ["baumwolle", "cardigan", "layering", "passform", "t-shirt"],
+      "total_outgoing": ["baumwolle", "cardigan", "layering", "passform", "t-shirt"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/look.md",
+      "slug": "look",
+      "term": "Look",
+      "contextual_outgoing": ["cottagecore"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "total_outgoing": [
+        "cottagecore",
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/loose-fit.md",
+      "slug": "loose-fit",
+      "term": "Loose Fit",
+      "contextual_outgoing": ["cape"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "cape",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/manschettenknoepfe.md",
+      "slug": "manschettenknoepfe",
+      "term": "Manschettenknöpfe",
+      "contextual_outgoing": ["manschette", "uhr"],
+      "related_outgoing": ["guertel", "hemd", "manschette", "uhr"],
+      "total_outgoing": ["guertel", "hemd", "manschette", "uhr"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mary-jane.md",
+      "slug": "mary-jane",
+      "term": "Mary Jane",
+      "contextual_outgoing": ["klassisch"],
+      "related_outgoing": ["ballerina", "kleid", "loafer", "pumps"],
+      "total_outgoing": ["ballerina", "klassisch", "kleid", "loafer", "pumps"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/maskuliner-stil.md",
+      "slug": "maskuliner-stil",
+      "term": "Maskuliner Stil",
+      "contextual_outgoing": ["etuikleid"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "etuikleid",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/materialprofil.md",
+      "slug": "materialprofil",
+      "term": "Materialprofil",
+      "contextual_outgoing": ["boucle"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "boucle",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mauve.md",
+      "slug": "mauve",
+      "term": "Mauve",
+      "contextual_outgoing": ["greige", "navy"],
+      "related_outgoing": ["aubergine", "flieder", "puderrosa-und-altrosa", "taupe"],
+      "total_outgoing": [
+        "aubergine",
+        "flieder",
+        "greige",
+        "navy",
+        "puderrosa-und-altrosa",
+        "taupe"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/meeting-look.md",
+      "slug": "meeting-look",
+      "term": "Meeting-Look",
+      "contextual_outgoing": ["video-call-outfit"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel",
+        "video-call-outfit"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/merinowolle.md",
+      "slug": "merinowolle",
+      "term": "Merinowolle",
+      "contextual_outgoing": ["mohair", "pilling"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "materialfall",
+        "mohair",
+        "pilling",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/metallic.md",
+      "slug": "metallic",
+      "term": "Metallic",
+      "contextual_outgoing": ["accessoire", "akzentfarbe", "armreif", "art-deco-evening-neo-deco"],
+      "related_outgoing": ["accessoire", "glanzgrad", "gold", "rosegold", "silber"],
+      "total_outgoing": [
+        "accessoire",
+        "akzentfarbe",
+        "armreif",
+        "art-deco-evening-neo-deco",
+        "glanzgrad",
+        "gold",
+        "rosegold",
+        "silber"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/midikleid.md",
+      "slug": "midikleid",
+      "term": "Midikleid",
+      "contextual_outgoing": ["clutch", "maxikleid"],
+      "related_outgoing": ["kleid", "proportion", "saumlange", "stiefelette"],
+      "total_outgoing": ["clutch", "kleid", "maxikleid", "proportion", "saumlange", "stiefelette"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mietmode-fashion-rental.md",
+      "slug": "mietmode-fashion-rental",
+      "term": "Mietmode/Fashion Rental",
+      "contextual_outgoing": ["passform"],
+      "related_outgoing": ["capsule-wardrobe", "fast-fashion", "materialqualitaet", "slow-fashion"],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fast-fashion",
+        "materialqualitaet",
+        "passform",
+        "slow-fashion"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/minikleid.md",
+      "slug": "minikleid",
+      "term": "Minikleid",
+      "contextual_outgoing": ["choker", "maxikleid"],
+      "related_outgoing": ["blazer", "chelsea-boots", "kleid", "saumlange"],
+      "total_outgoing": ["blazer", "chelsea-boots", "choker", "kleid", "maxikleid", "saumlange"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/minimalist-hiking-sandal.md",
+      "slug": "minimalist-hiking-sandal",
+      "term": "Minimalist Hiking Sandal",
+      "contextual_outgoing": ["farbechtheit"],
+      "related_outgoing": ["kleid", "maxirock", "sandale", "stoffhose", "ton-in-ton"],
+      "total_outgoing": ["farbechtheit", "kleid", "maxirock", "sandale", "stoffhose", "ton-in-ton"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/minimalist-wedge.md",
+      "slug": "minimalist-wedge",
+      "term": "Minimalist Wedge",
+      "contextual_outgoing": ["farbkarte"],
+      "related_outgoing": [
+        "blockabsatz",
+        "elevated-flip-flop",
+        "plateau",
+        "sandalette",
+        "saumlange"
+      ],
+      "total_outgoing": [
+        "blockabsatz",
+        "elevated-flip-flop",
+        "farbkarte",
+        "plateau",
+        "sandalette",
+        "saumlange"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mintgruen.md",
+      "slug": "mintgruen",
+      "term": "Mintgrün",
+      "contextual_outgoing": ["farbharmonie"],
+      "related_outgoing": ["accessoire", "blau", "farbpalette", "gedaempfte-farben", "gruen"],
+      "total_outgoing": [
+        "accessoire",
+        "blau",
+        "farbharmonie",
+        "farbpalette",
+        "gedaempfte-farben",
+        "gruen"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mob-wife-aesthetic.md",
+      "slug": "mob-wife-aesthetic",
+      "term": "Mob Wife Aesthetic",
+      "contextual_outgoing": ["farbkarte"],
+      "related_outgoing": ["animal-print", "glamoratti", "gold", "schwarz", "statement-schmuck"],
+      "total_outgoing": [
+        "animal-print",
+        "farbkarte",
+        "glamoratti",
+        "gold",
+        "schwarz",
+        "statement-schmuck"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mode.md",
+      "slug": "mode",
+      "term": "Mode",
+      "contextual_outgoing": ["combat-boots", "longblazer"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "total_outgoing": [
+        "combat-boots",
+        "garderobenlogik",
+        "longblazer",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/modeschmuck.md",
+      "slug": "modeschmuck",
+      "term": "Modeschmuck",
+      "contextual_outgoing": ["brooched"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "brooched", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mokassin.md",
+      "slug": "mokassin",
+      "term": "Mokassin",
+      "contextual_outgoing": ["chinos", "jeans", "loafer", "sneaker", "stoffhose"],
+      "related_outgoing": ["chinos", "lederjacke", "loafer", "sneaker"],
+      "total_outgoing": ["chinos", "jeans", "lederjacke", "loafer", "sneaker", "stoffhose"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 5,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mom-jeans.md",
+      "slug": "mom-jeans",
+      "term": "Mom Jeans",
+      "contextual_outgoing": ["flared-pants", "low-waist"],
+      "related_outgoing": ["denim", "jeans", "passform", "sneaker", "tapered-fit"],
+      "total_outgoing": [
+        "denim",
+        "flared-pants",
+        "jeans",
+        "low-waist",
+        "passform",
+        "sneaker",
+        "tapered-fit"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/monochrom.md",
+      "slug": "monochrom",
+      "term": "Monochrom",
+      "contextual_outgoing": ["helligkeit"],
+      "related_outgoing": [
+        "farbpalette",
+        "helligkeit",
+        "materialfall",
+        "neutrale-farben",
+        "ton-in-ton"
+      ],
+      "total_outgoing": [
+        "farbpalette",
+        "helligkeit",
+        "materialfall",
+        "neutrale-farben",
+        "ton-in-ton"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/moosgruen.md",
+      "slug": "moosgruen",
+      "term": "Moosgrün",
+      "contextual_outgoing": ["ecru", "oliv", "schokoladenbraun", "tannengruen"],
+      "related_outgoing": ["cognac", "ocker", "oliv", "tannengruen"],
+      "total_outgoing": ["cognac", "ecru", "ocker", "oliv", "schokoladenbraun", "tannengruen"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/morning-dress-cutaway.md",
+      "slug": "morning-dress-cutaway",
+      "term": "Morning Dress/Cutaway",
+      "contextual_outgoing": ["dresscode", "hemd", "hosenanzug", "stoffhose"],
+      "related_outgoing": ["dresscode", "hemd", "hosenanzug", "stoffhose"],
+      "total_outgoing": ["dresscode", "hemd", "hosenanzug", "stoffhose"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mule.md",
+      "slug": "mule",
+      "term": "Mule",
+      "contextual_outgoing": ["elegant"],
+      "related_outgoing": ["pumps", "sandale", "saumlange", "slingback"],
+      "total_outgoing": ["elegant", "pumps", "sandale", "saumlange", "slingback"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/mulesing-freie-wolle.md",
+      "slug": "mulesing-freie-wolle",
+      "term": "Mulesing-freie Wolle",
+      "contextual_outgoing": ["farbpalette", "mohair"],
+      "related_outgoing": [
+        "materialqualitaet",
+        "merinowolle",
+        "qualitaet",
+        "slow-fashion",
+        "wolle"
+      ],
+      "total_outgoing": [
+        "farbpalette",
+        "materialqualitaet",
+        "merinowolle",
+        "mohair",
+        "qualitaet",
+        "slow-fashion",
+        "wolle"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/musselin.md",
+      "slug": "musselin",
+      "term": "Musselin",
+      "contextual_outgoing": ["baumwolle", "kleid", "modal", "seide", "struktur"],
+      "related_outgoing": ["baumwolle", "passform", "seide", "struktur"],
+      "total_outgoing": ["baumwolle", "kleid", "modal", "passform", "seide", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 5,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/nadelstreifen.md",
+      "slug": "nadelstreifen",
+      "term": "Nadelstreifen",
+      "contextual_outgoing": ["colour-blocking", "paisley"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "colour-blocking",
+        "glanzgrad",
+        "materialfall",
+        "paisley",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/neckholder.md",
+      "slug": "neckholder",
+      "term": "Neckholder",
+      "contextual_outgoing": ["jumpsuit-overall", "kleid", "proportion"],
+      "related_outgoing": ["jumpsuit-overall", "kleid", "kontrast", "proportion"],
+      "total_outgoing": ["jumpsuit-overall", "kleid", "kontrast", "proportion"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/netted-shopper.md",
+      "slug": "netted-shopper",
+      "term": "Netted Shopper",
+      "contextual_outgoing": ["crossbody-bag"],
+      "related_outgoing": ["casual", "leinen", "raffia-bag", "shopper", "wochenendlook"],
+      "total_outgoing": [
+        "casual",
+        "crossbody-bag",
+        "leinen",
+        "raffia-bag",
+        "shopper",
+        "wochenendlook"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/nude-toene.md",
+      "slug": "nude-toene",
+      "term": "Nude-Töne",
+      "contextual_outgoing": ["cloud-dancer"],
+      "related_outgoing": ["beige", "champagner", "ecru", "unterton"],
+      "total_outgoing": ["beige", "champagner", "cloud-dancer", "ecru", "unterton"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/o-linie.md",
+      "slug": "o-linie",
+      "term": "O-Linie",
+      "contextual_outgoing": ["dreieck-silhouette", "oberkoerperlaenge"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "dreieck-silhouette",
+        "oberkoerperlaenge",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/ocker.md",
+      "slug": "ocker",
+      "term": "Ocker",
+      "contextual_outgoing": ["navy", "petrol"],
+      "related_outgoing": ["oliv", "rostorange", "schokoladenbraun", "senfgelb"],
+      "total_outgoing": ["navy", "oliv", "petrol", "rostorange", "schokoladenbraun", "senfgelb"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/off-white.md",
+      "slug": "off-white",
+      "term": "Off-White",
+      "contextual_outgoing": ["unterton"],
+      "related_outgoing": ["beige", "creme", "neutrale-farben", "unterton", "weiss"],
+      "total_outgoing": ["beige", "creme", "neutrale-farben", "unterton", "weiss"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/office-look.md",
+      "slug": "office-look",
+      "term": "Office Look",
+      "contextual_outgoing": ["bretonstreifen"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "bretonstreifen",
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/office-siren.md",
+      "slug": "office-siren",
+      "term": "Office Siren",
+      "contextual_outgoing": ["business-professional"],
+      "related_outgoing": [
+        "bleistiftrock",
+        "brille",
+        "business-professional",
+        "executive-presence",
+        "image"
+      ],
+      "total_outgoing": [
+        "bleistiftrock",
+        "brille",
+        "business-professional",
+        "executive-presence",
+        "image"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/old-money-style.md",
+      "slug": "old-money-style",
+      "term": "Old Money Style",
+      "contextual_outgoing": ["bretonstreifen"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "bretonstreifen",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/ombre.md",
+      "slug": "ombre",
+      "term": "Ombré",
+      "contextual_outgoing": ["batik", "kontrast"],
+      "related_outgoing": ["batik", "farbkreis", "kontrast", "muster"],
+      "total_outgoing": ["batik", "farbkreis", "kontrast", "muster"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/outfit-analyse.md",
+      "slug": "outfit-analyse",
+      "term": "Outfit-Analyse",
+      "contextual_outgoing": ["combat-boots"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "combat-boots",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/outfit-formel.md",
+      "slug": "outfit-formel",
+      "term": "Outfit-Formel",
+      "contextual_outgoing": ["alltagsuniform", "ankle-boots", "anzugjacke"],
+      "related_outgoing": [
+        "basic",
+        "capsule-wardrobe",
+        "garderobenlogik",
+        "key-piece",
+        "smart-casual"
+      ],
+      "total_outgoing": [
+        "alltagsuniform",
+        "ankle-boots",
+        "anzugjacke",
+        "basic",
+        "capsule-wardrobe",
+        "garderobenlogik",
+        "key-piece",
+        "smart-casual"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/outfit.md",
+      "slug": "outfit",
+      "term": "Outfit",
+      "contextual_outgoing": ["cap"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "total_outgoing": [
+        "cap",
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/overknees.md",
+      "slug": "overknees",
+      "term": "Overknees",
+      "contextual_outgoing": ["fascinator"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fascinator",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/overshirt.md",
+      "slug": "overshirt",
+      "term": "Overshirt",
+      "contextual_outgoing": ["cape"],
+      "related_outgoing": ["blazer", "hemd", "jeans", "layering", "t-shirt"],
+      "total_outgoing": ["blazer", "cape", "hemd", "jeans", "layering", "t-shirt"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/oversized-blazer.md",
+      "slug": "oversized-blazer",
+      "term": "Oversized-Blazer",
+      "contextual_outgoing": ["dufflecoat", "kurzblazer"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "dufflecoat",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "kurzblazer",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/palazzo-hose.md",
+      "slug": "palazzo-hose",
+      "term": "Palazzo-Hose",
+      "contextual_outgoing": ["cargohose", "low-waist"],
+      "related_outgoing": ["materialfall", "proportion", "seide", "viskose", "wide-leg"],
+      "total_outgoing": [
+        "cargohose",
+        "low-waist",
+        "materialfall",
+        "proportion",
+        "seide",
+        "viskose",
+        "wide-leg"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/paperbag-hose.md",
+      "slug": "paperbag-hose",
+      "term": "Paperbag-Hose",
+      "contextual_outgoing": ["bund", "mid-waist"],
+      "related_outgoing": ["bluse", "leinen", "proportion", "taillierung", "viskose"],
+      "total_outgoing": [
+        "bluse",
+        "bund",
+        "leinen",
+        "mid-waist",
+        "proportion",
+        "taillierung",
+        "viskose"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/parisian-chic.md",
+      "slug": "parisian-chic",
+      "term": "Parisian Chic",
+      "contextual_outgoing": ["light-academia"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "garderobenlogik",
+        "light-academia",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/parka.md",
+      "slug": "parka",
+      "term": "Parka",
+      "contextual_outgoing": ["camouflage"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "camouflage",
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/paspel.md",
+      "slug": "paspel",
+      "term": "Paspel",
+      "contextual_outgoing": ["naht"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "materialfall", "naht", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/passe.md",
+      "slug": "passe",
+      "term": "Passe",
+      "contextual_outgoing": ["hemd", "passform", "rock"],
+      "related_outgoing": ["hemd", "nahtzugabe", "passform", "proportion"],
+      "total_outgoing": ["hemd", "nahtzugabe", "passform", "proportion", "rock"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/patchwork.md",
+      "slug": "patchwork",
+      "term": "Patchwork",
+      "contextual_outgoing": ["blumenmuster", "boho", "materialqualitaet", "muster", "upcycling"],
+      "related_outgoing": ["materialqualitaet", "muster", "nachhaltige-garderobe", "upcycling"],
+      "total_outgoing": [
+        "blumenmuster",
+        "boho",
+        "materialqualitaet",
+        "muster",
+        "nachhaltige-garderobe",
+        "upcycling"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 5,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/peacoat.md",
+      "slug": "peacoat",
+      "term": "Peacoat",
+      "contextual_outgoing": ["cabanjacke"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "cabanjacke",
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/peplum-top.md",
+      "slug": "peplum-top",
+      "term": "Peplum-Top",
+      "contextual_outgoing": ["camisole"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "camisole", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/personal-branding.md",
+      "slug": "personal-branding",
+      "term": "Personal Branding",
+      "contextual_outgoing": ["brand-wardrobe"],
+      "related_outgoing": [
+        "image",
+        "imageberatung",
+        "signature-look",
+        "stilbotschaft",
+        "wirkungsprofil"
+      ],
+      "total_outgoing": [
+        "brand-wardrobe",
+        "image",
+        "imageberatung",
+        "signature-look",
+        "stilbotschaft",
+        "wirkungsprofil"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/personal-shopping.md",
+      "slug": "personal-shopping",
+      "term": "Personal Shopping",
+      "contextual_outgoing": ["cottagecore"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "cottagecore",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/personal-uniform.md",
+      "slug": "personal-uniform",
+      "term": "Personal Uniform",
+      "contextual_outgoing": ["clean-girl-aesthetic"],
+      "related_outgoing": [
+        "alltagsuniform",
+        "brand-wardrobe",
+        "garderobenlogik",
+        "outfit-formel",
+        "signature-look"
+      ],
+      "total_outgoing": [
+        "alltagsuniform",
+        "brand-wardrobe",
+        "clean-girl-aesthetic",
+        "garderobenlogik",
+        "outfit-formel",
+        "signature-look"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/pflegeetikett.md",
+      "slug": "pflegeetikett",
+      "term": "Pflegeetikett",
+      "contextual_outgoing": ["waschsymbole"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "qualitaet", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "materialfall",
+        "qualitaet",
+        "struktur",
+        "waschsymbole"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/pink.md",
+      "slug": "pink",
+      "term": "Pink",
+      "contextual_outgoing": ["feinschmuck"],
+      "related_outgoing": [
+        "akzentfarbe",
+        "fuchsia",
+        "lila",
+        "rosa",
+        "rot",
+        "saettigung",
+        "violett"
+      ],
+      "total_outgoing": [
+        "akzentfarbe",
+        "feinschmuck",
+        "fuchsia",
+        "lila",
+        "rosa",
+        "rot",
+        "saettigung",
+        "violett"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 7,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/plateau.md",
+      "slug": "plateau",
+      "term": "Plateau",
+      "contextual_outgoing": ["feinschmuck"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "feinschmuck",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/platzierter-print.md",
+      "slug": "platzierter-print",
+      "term": "Platzierter Print",
+      "contextual_outgoing": ["femininer-stil", "paisley"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "femininer-stil",
+        "glanzgrad",
+        "materialfall",
+        "paisley",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/plissee.md",
+      "slug": "plissee",
+      "term": "Plissee",
+      "contextual_outgoing": ["femininer-stil", "maxirock"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "femininer-stil",
+        "glanzgrad",
+        "materialfall",
+        "maxirock",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/plisseerock.md",
+      "slug": "plisseerock",
+      "term": "Plisseerock",
+      "contextual_outgoing": ["maxirock", "midirock"],
+      "related_outgoing": ["blazer", "saumlange", "silhouette", "sneaker", "struktur"],
+      "total_outgoing": [
+        "blazer",
+        "maxirock",
+        "midirock",
+        "saumlange",
+        "silhouette",
+        "sneaker",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/plus-size-styling.md",
+      "slug": "plus-size-styling",
+      "term": "Plus-Size-Styling",
+      "contextual_outgoing": ["optische-streckung", "rechteck-silhouette"],
+      "related_outgoing": ["curvy-styling", "koerperform", "passform", "proportion", "qualitaet"],
+      "total_outgoing": [
+        "curvy-styling",
+        "koerperform",
+        "optische-streckung",
+        "passform",
+        "proportion",
+        "qualitaet",
+        "rechteck-silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/pocket-vest.md",
+      "slug": "pocket-vest",
+      "term": "Pocket Vest",
+      "contextual_outgoing": ["festive-attire"],
+      "related_outgoing": ["adventure-streetwear", "gorpcore", "khaki", "utility-jacket", "weste"],
+      "total_outgoing": [
+        "adventure-streetwear",
+        "festive-attire",
+        "gorpcore",
+        "khaki",
+        "utility-jacket",
+        "weste"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/poetcore.md",
+      "slug": "poetcore",
+      "term": "Poetcore",
+      "contextual_outgoing": ["dark-academia"],
+      "related_outgoing": [
+        "dark-academia",
+        "light-academia",
+        "personal-style",
+        "romantisch",
+        "vintage"
+      ],
+      "total_outgoing": [
+        "dark-academia",
+        "light-academia",
+        "personal-style",
+        "romantisch",
+        "vintage"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/polka-dots.md",
+      "slug": "polka-dots",
+      "term": "Polka Dots",
+      "contextual_outgoing": ["festive-attire", "leo-print"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "festive-attire",
+        "glanzgrad",
+        "leo-print",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/poloshirt.md",
+      "slug": "poloshirt",
+      "term": "Poloshirt",
+      "contextual_outgoing": ["fischgrat"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "fischgrat", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/poncho.md",
+      "slug": "poncho",
+      "term": "Poncho",
+      "contextual_outgoing": ["dufflecoat"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "dufflecoat",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/popeline.md",
+      "slug": "popeline",
+      "term": "Popeline",
+      "contextual_outgoing": ["lyocell", "pilling"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "lyocell",
+        "materialfall",
+        "pilling",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/power-dressing.md",
+      "slug": "power-dressing",
+      "term": "Power Dressing",
+      "contextual_outgoing": ["hosenanzug", "signature-look"],
+      "related_outgoing": ["dresscode", "hosenanzug", "kontrast", "signature-look"],
+      "total_outgoing": ["dresscode", "hosenanzug", "kontrast", "signature-look"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/preis-pro-tragen-strategie.md",
+      "slug": "preis-pro-tragen-strategie",
+      "term": "Preis-pro-Tragen-Strategie",
+      "contextual_outgoing": ["fischgrat"],
+      "related_outgoing": [
+        "cost-per-wear",
+        "fehlkauf",
+        "kaufkriterien",
+        "qualitaet",
+        "slow-fashion"
+      ],
+      "total_outgoing": [
+        "cost-per-wear",
+        "fehlkauf",
+        "fischgrat",
+        "kaufkriterien",
+        "qualitaet",
+        "slow-fashion"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/preppy.md",
+      "slug": "preppy",
+      "term": "Preppy",
+      "contextual_outgoing": ["dark-academia"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "dark-academia",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/pret-a-porter-ready-to-wear.md",
+      "slug": "pret-a-porter-ready-to-wear",
+      "term": "Prêt-à-porter/Ready-to-wear",
+      "contextual_outgoing": ["haute-couture", "massanfertigung-custom-made"],
+      "related_outgoing": [
+        "haute-couture",
+        "massanfertigung-custom-made",
+        "nahtzugabe",
+        "passform"
+      ],
+      "total_outgoing": ["haute-couture", "massanfertigung-custom-made", "nahtzugabe", "passform"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/prinzessnaht-wiener-naht.md",
+      "slug": "prinzessnaht-wiener-naht",
+      "term": "Prinzessnaht einschließlich Wiener Naht",
+      "contextual_outgoing": ["blazer", "kleid", "mantel", "passform", "silhouette"],
+      "related_outgoing": ["blazer", "passform", "proportion", "silhouette"],
+      "total_outgoing": ["blazer", "kleid", "mantel", "passform", "proportion", "silhouette"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 5,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/proportionsbruch.md",
+      "slug": "proportionsbruch",
+      "term": "Proportionsbruch",
+      "contextual_outgoing": ["curvy-styling", "oberkoerperlaenge"],
+      "related_outgoing": [
+        "drittel-regel-im-outfit",
+        "drop-waist",
+        "oversized",
+        "proportion",
+        "volumenverteilung"
+      ],
+      "total_outgoing": [
+        "curvy-styling",
+        "drittel-regel-im-outfit",
+        "drop-waist",
+        "oberkoerperlaenge",
+        "oversized",
+        "proportion",
+        "volumenverteilung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/puderrosa-und-altrosa.md",
+      "slug": "puderrosa-und-altrosa",
+      "term": "Puderrosa und Altrosa",
+      "contextual_outgoing": ["anthrazit", "navy"],
+      "related_outgoing": ["mauve", "navy", "schokoladenbraun", "taupe"],
+      "total_outgoing": ["anthrazit", "mauve", "navy", "schokoladenbraun", "taupe"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/puffaermel.md",
+      "slug": "puffaermel",
+      "term": "Puffärmel",
+      "contextual_outgoing": ["dropped-shoulder"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "dropped-shoulder",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/pullover.md",
+      "slug": "pullover",
+      "term": "Pullover",
+      "contextual_outgoing": ["kaschmir"],
+      "related_outgoing": ["baumwolle", "cardigan", "layering", "oversized", "passform"],
+      "total_outgoing": ["baumwolle", "cardigan", "kaschmir", "layering", "oversized", "passform"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/punkte.md",
+      "slug": "punkte",
+      "term": "Punkte",
+      "contextual_outgoing": ["fisherman-sandals-fischersandalen", "leo-print"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "fisherman-sandals-fischersandalen",
+        "glanzgrad",
+        "leo-print",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/querstreifen.md",
+      "slug": "querstreifen",
+      "term": "Querstreifen",
+      "contextual_outgoing": ["fisherman-sandals-fischersandalen", "optische-streckung"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "fisherman-sandals-fischersandalen",
+        "glanzgrad",
+        "materialfall",
+        "optische-streckung",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/quiet-luxury.md",
+      "slug": "quiet-luxury",
+      "term": "Quiet Luxury",
+      "contextual_outgoing": ["flieder"],
+      "related_outgoing": ["beige", "braun", "key-piece", "navy", "signature-look"],
+      "total_outgoing": ["beige", "braun", "flieder", "key-piece", "navy", "signature-look"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/raffia-bag.md",
+      "slug": "raffia-bag",
+      "term": "Raffia Bag",
+      "contextual_outgoing": ["coastal-grandmother"],
+      "related_outgoing": ["bucket-bag", "leinen", "shopper", "summer-clutch", "wochenendlook"],
+      "total_outgoing": [
+        "bucket-bag",
+        "coastal-grandmother",
+        "leinen",
+        "shopper",
+        "summer-clutch",
+        "wochenendlook"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/raffung.md",
+      "slug": "raffung",
+      "term": "Raffung",
+      "contextual_outgoing": ["flieder"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "flieder", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/raglanaermel.md",
+      "slug": "raglanaermel",
+      "term": "Raglanärmel",
+      "contextual_outgoing": ["dropped-shoulder"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "dropped-shoulder",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rapport-musterwiederholung.md",
+      "slug": "rapport-musterwiederholung",
+      "term": "Rapport/Musterwiederholung",
+      "contextual_outgoing": ["muster", "proportion", "struktur"],
+      "related_outgoing": ["muster", "patchwork", "proportion", "struktur"],
+      "total_outgoing": ["muster", "patchwork", "proportion", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/regular-fit.md",
+      "slug": "regular-fit",
+      "term": "Regular Fit",
+      "contextual_outgoing": ["flared-pants", "mid-waist"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "flared-pants",
+        "mid-waist",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/reinweiss.md",
+      "slug": "reinweiss",
+      "term": "Reinweiß",
+      "contextual_outgoing": ["fruehlingstyp"],
+      "related_outgoing": ["creme", "cremeweiss", "unterton", "weiss", "wintertyp"],
+      "total_outgoing": ["creme", "cremeweiss", "fruehlingstyp", "unterton", "weiss", "wintertyp"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/reise-capsule.md",
+      "slug": "reise-capsule",
+      "term": "Reise-Capsule",
+      "contextual_outgoing": ["fokuspunkt"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "fokuspunkt",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/reisegarderobe.md",
+      "slug": "reisegarderobe",
+      "term": "Reisegarderobe",
+      "contextual_outgoing": ["fotoshooting-outfit"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "fotoshooting-outfit",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/reissverschluss.md",
+      "slug": "reissverschluss",
+      "term": "Reißverschluss",
+      "contextual_outgoing": ["innenverarbeitung"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "qualitaet", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "innenverarbeitung",
+        "materialfall",
+        "qualitaet",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/relaxed-fit.md",
+      "slug": "relaxed-fit",
+      "term": "Relaxed Fit",
+      "contextual_outgoing": ["marlenehose"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "marlenehose",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/retro-clog.md",
+      "slug": "retro-clog",
+      "term": "Retro Clog",
+      "contextual_outgoing": ["franzoesische-naht"],
+      "related_outgoing": ["casual", "loafer", "mule", "saumlange", "scandinavian-style"],
+      "total_outgoing": [
+        "casual",
+        "franzoesische-naht",
+        "loafer",
+        "mule",
+        "saumlange",
+        "scandinavian-style"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/retro.md",
+      "slug": "retro",
+      "term": "Retro",
+      "contextual_outgoing": ["light-academia"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "garderobenlogik",
+        "light-academia",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/revers.md",
+      "slug": "revers",
+      "term": "Revers",
+      "contextual_outgoing": ["franzoesische-naht"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "franzoesische-naht",
+        "glanzgrad",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/ring.md",
+      "slug": "ring",
+      "term": "Ring",
+      "contextual_outgoing": ["french-tuck"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "french-tuck", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rippstrick.md",
+      "slug": "rippstrick",
+      "term": "Rippstrick",
+      "contextual_outgoing": ["french-tuck"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "french-tuck", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rocklange.md",
+      "slug": "rocklange",
+      "term": "Rocklänge",
+      "contextual_outgoing": ["fuchsia"],
+      "related_outgoing": ["kontrast", "outfit-formel", "passform", "proportion", "silhouette"],
+      "total_outgoing": [
+        "fuchsia",
+        "kontrast",
+        "outfit-formel",
+        "passform",
+        "proportion",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rollkragen.md",
+      "slug": "rollkragen",
+      "term": "Rollkragen",
+      "contextual_outgoing": ["fuchsia"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "fuchsia", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rollkragenpullover.md",
+      "slug": "rollkragenpullover",
+      "term": "Rollkragenpullover",
+      "contextual_outgoing": ["fledermausaermel", "mock-neck"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "fledermausaermel",
+        "glanzgrad",
+        "materialfall",
+        "mock-neck",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/romantisch.md",
+      "slug": "romantisch",
+      "term": "Romantisch",
+      "contextual_outgoing": ["balletcore"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "balletcore",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rostorange.md",
+      "slug": "rostorange",
+      "term": "Rostorange",
+      "contextual_outgoing": ["cord", "denim", "navy"],
+      "related_outgoing": ["ocker", "petrol", "schokoladenbraun", "terracotta"],
+      "total_outgoing": [
+        "cord",
+        "denim",
+        "navy",
+        "ocker",
+        "petrol",
+        "schokoladenbraun",
+        "terracotta"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rot.md",
+      "slug": "rot",
+      "term": "Rot",
+      "contextual_outgoing": ["herbsttyp"],
+      "related_outgoing": ["bordeaux", "kontrast", "navy", "orange", "pink", "rosa", "schwarz"],
+      "total_outgoing": [
+        "bordeaux",
+        "herbsttyp",
+        "kontrast",
+        "navy",
+        "orange",
+        "pink",
+        "rosa",
+        "schwarz"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 7,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/ruesche.md",
+      "slug": "ruesche",
+      "term": "Rüsche",
+      "contextual_outgoing": ["fusselrasierer"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "fusselrasierer", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/rundhalsausschnitt.md",
+      "slug": "rundhalsausschnitt",
+      "term": "Rundhalsausschnitt",
+      "contextual_outgoing": ["fusselrasierer", "mock-neck"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "fusselrasierer",
+        "glanzgrad",
+        "materialfall",
+        "mock-neck",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/saettigung.md",
+      "slug": "saettigung",
+      "term": "Sättigung",
+      "contextual_outgoing": ["stilentscheidung"],
+      "related_outgoing": ["farbtemperatur", "helligkeit", "kontrast", "pink", "rosa"],
+      "total_outgoing": [
+        "farbtemperatur",
+        "helligkeit",
+        "kontrast",
+        "pink",
+        "rosa",
+        "stilentscheidung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/saisonwechsel.md",
+      "slug": "saisonwechsel",
+      "term": "Saisonwechsel",
+      "contextual_outgoing": ["empire-kleid"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "empire-kleid",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sakko.md",
+      "slug": "sakko",
+      "term": "Sakko",
+      "contextual_outgoing": ["doppelreiher", "kurzblazer"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "doppelreiher",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "kurzblazer",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/salbeigruen.md",
+      "slug": "salbeigruen",
+      "term": "Salbeigrün",
+      "contextual_outgoing": ["fruehlingstyp"],
+      "related_outgoing": ["beige", "creme", "gruen", "oliv", "saettigung"],
+      "total_outgoing": ["beige", "creme", "fruehlingstyp", "gruen", "oliv", "saettigung"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sand.md",
+      "slug": "sand",
+      "term": "Sand",
+      "contextual_outgoing": ["denim", "navy", "trenchcoat"],
+      "related_outgoing": ["beige", "camel", "ecru", "navy"],
+      "total_outgoing": ["beige", "camel", "denim", "ecru", "navy", "trenchcoat"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sandale.md",
+      "slug": "sandale",
+      "term": "Sandale",
+      "contextual_outgoing": ["gabardine"],
+      "related_outgoing": ["bermuda", "gold", "metallic", "shorts", "silber"],
+      "total_outgoing": ["bermuda", "gabardine", "gold", "metallic", "shorts", "silber"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sandalette.md",
+      "slug": "sandalette",
+      "term": "Sandalette",
+      "contextual_outgoing": ["garden-party-attire"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garden-party-attire",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sanduhr-silhouette.md",
+      "slug": "sanduhr-silhouette",
+      "term": "Sanduhr-Silhouette",
+      "contextual_outgoing": ["dreieck-silhouette"],
+      "related_outgoing": ["balance", "koerperform", "silhouette", "taillierung", "x-linie"],
+      "total_outgoing": [
+        "balance",
+        "dreieck-silhouette",
+        "koerperform",
+        "silhouette",
+        "taillierung",
+        "x-linie"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sarong.md",
+      "slug": "sarong",
+      "term": "Sarong",
+      "contextual_outgoing": ["kleid", "muster", "rock"],
+      "related_outgoing": ["kaftan", "kleid", "muster", "proportion"],
+      "total_outgoing": ["kaftan", "kleid", "muster", "proportion", "rock"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/satchel-bag.md",
+      "slug": "satchel-bag",
+      "term": "Satchel Bag",
+      "contextual_outgoing": ["resort-casual"],
+      "related_outgoing": ["business-casual", "crossbody-bag", "poetcore", "preppy", "shopper"],
+      "total_outgoing": [
+        "business-casual",
+        "crossbody-bag",
+        "poetcore",
+        "preppy",
+        "resort-casual",
+        "shopper"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/saumverarbeitung.md",
+      "slug": "saumverarbeitung",
+      "term": "Saumverarbeitung",
+      "contextual_outgoing": ["gedaempfte-farben"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "qualitaet", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "gedaempfte-farben",
+        "glanzgrad",
+        "materialfall",
+        "qualitaet",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/scandinavian-style.md",
+      "slug": "scandinavian-style",
+      "term": "Scandinavian Style",
+      "contextual_outgoing": ["gedaempfte-farben"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "garderobenlogik",
+        "gedaempfte-farben",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/scarf-styling-tuch-styling.md",
+      "slug": "scarf-styling-tuch-styling",
+      "term": "Scarf Styling",
+      "contextual_outgoing": ["capsule-wardrobe", "stoffhose"],
+      "related_outgoing": [
+        "accessoire",
+        "capsule-wardrobe",
+        "halstuch",
+        "seidentuch",
+        "tie-accessories"
+      ],
+      "total_outgoing": [
+        "accessoire",
+        "capsule-wardrobe",
+        "halstuch",
+        "seidentuch",
+        "stoffhose",
+        "tie-accessories"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schal.md",
+      "slug": "schal",
+      "term": "Schal",
+      "contextual_outgoing": ["kaschmir"],
+      "related_outgoing": ["accessoire", "farbtyp", "halstuch", "materialfall", "seidentuch"],
+      "total_outgoing": [
+        "accessoire",
+        "farbtyp",
+        "halstuch",
+        "kaschmir",
+        "materialfall",
+        "seidentuch"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schalkragen.md",
+      "slug": "schalkragen",
+      "term": "Schalkragen",
+      "contextual_outgoing": ["fledermausaermel"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "fledermausaermel", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schlitz.md",
+      "slug": "schlitz",
+      "term": "Schlitz",
+      "contextual_outgoing": ["gelb"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "gelb",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schlubby-shirt.md",
+      "slug": "schlubby-shirt",
+      "term": "Schlubby Shirt",
+      "contextual_outgoing": ["gelb"],
+      "related_outgoing": ["jeans", "layering", "oversized", "satinrock", "t-shirt"],
+      "total_outgoing": ["gelb", "jeans", "layering", "oversized", "satinrock", "t-shirt"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schluppenbluse.md",
+      "slug": "schluppenbluse",
+      "term": "Schluppenbluse",
+      "contextual_outgoing": ["blazer", "drapierung"],
+      "related_outgoing": ["blazer", "bluse", "dresscode", "silhouette"],
+      "total_outgoing": ["blazer", "bluse", "drapierung", "dresscode", "silhouette"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schnittprofil.md",
+      "slug": "schnittprofil",
+      "term": "Schnittprofil",
+      "contextual_outgoing": ["genderneutrale-mode"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "genderneutrale-mode",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schraegen-schnitt-bias-cut.md",
+      "slug": "schraegen-schnitt-bias-cut",
+      "term": "Schrägschnitt/Bias Cut",
+      "contextual_outgoing": ["kleid", "passform", "silhouette"],
+      "related_outgoing": ["nahtzugabe", "passform", "proportion", "silhouette"],
+      "total_outgoing": ["kleid", "nahtzugabe", "passform", "proportion", "silhouette"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schuh-saum-beziehung.md",
+      "slug": "schuh-saum-beziehung",
+      "term": "Schuh-Saum-Beziehung",
+      "contextual_outgoing": ["genderneutrale-mode"],
+      "related_outgoing": ["beinlaenge", "kitten-heel", "saumlange", "schuhspitze", "wide-leg"],
+      "total_outgoing": [
+        "beinlaenge",
+        "genderneutrale-mode",
+        "kitten-heel",
+        "saumlange",
+        "schuhspitze",
+        "wide-leg"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schuhspitze.md",
+      "slug": "schuhspitze",
+      "term": "Schuhspitze",
+      "contextual_outgoing": ["gimme-gummy"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "gimme-gummy",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schulter-hueft-balance.md",
+      "slug": "schulter-hueft-balance",
+      "term": "Schulter-Hüft-Balance",
+      "contextual_outgoing": ["gimme-gummy"],
+      "related_outgoing": [
+        "balance",
+        "proportion",
+        "schulterlinie",
+        "silhouette",
+        "volumenverteilung"
+      ],
+      "total_outgoing": [
+        "balance",
+        "gimme-gummy",
+        "proportion",
+        "schulterlinie",
+        "silhouette",
+        "volumenverteilung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/schulterpolster.md",
+      "slug": "schulterpolster",
+      "term": "Schulterpolster",
+      "contextual_outgoing": ["80s-luxury"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "qualitaet", "struktur"],
+      "total_outgoing": [
+        "80s-luxury",
+        "accessoire",
+        "glanzgrad",
+        "materialfall",
+        "qualitaet",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/secondhand.md",
+      "slug": "secondhand",
+      "term": "Secondhand",
+      "contextual_outgoing": ["glamoratti"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "glamoratti",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/seersucker.md",
+      "slug": "seersucker",
+      "term": "Seersucker",
+      "contextual_outgoing": ["baumwolle", "blazer", "hemd", "struktur"],
+      "related_outgoing": ["baumwolle", "blazer", "hemd", "struktur"],
+      "total_outgoing": ["baumwolle", "blazer", "hemd", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/seidentuch.md",
+      "slug": "seidentuch",
+      "term": "Seidentuch",
+      "contextual_outgoing": ["glencheck"],
+      "related_outgoing": ["farbpalette", "glanzgrad", "halstuch", "schal", "seide"],
+      "total_outgoing": ["farbpalette", "glanzgrad", "glencheck", "halstuch", "schal", "seide"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/semi-formal.md",
+      "slug": "semi-formal",
+      "term": "Semi Formal",
+      "contextual_outgoing": ["black-tie", "black-tie-optional"],
+      "related_outgoing": [
+        "black-tie",
+        "cocktail",
+        "cocktail-attire",
+        "dresscode",
+        "festliche-kleidung"
+      ],
+      "total_outgoing": [
+        "black-tie",
+        "black-tie-optional",
+        "cocktail",
+        "cocktail-attire",
+        "dresscode",
+        "festliche-kleidung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/senfgelb.md",
+      "slug": "senfgelb",
+      "term": "Senfgelb",
+      "contextual_outgoing": ["cord", "modern", "unterton"],
+      "related_outgoing": ["braun", "camel", "gelb", "oliv", "terracotta"],
+      "total_outgoing": [
+        "braun",
+        "camel",
+        "cord",
+        "gelb",
+        "modern",
+        "oliv",
+        "terracotta",
+        "unterton"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/shacket.md",
+      "slug": "shacket",
+      "term": "Shacket",
+      "contextual_outgoing": ["glencheck"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "glencheck",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/shift-dress.md",
+      "slug": "shift-dress",
+      "term": "Shift Dress",
+      "contextual_outgoing": ["glove-pump"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "glove-pump",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/shopper.md",
+      "slug": "shopper",
+      "term": "Shopper",
+      "contextual_outgoing": ["tote-bag"],
+      "related_outgoing": [
+        "accessoire",
+        "anlassgarderobe",
+        "crossbody-bag",
+        "garderobenlogik",
+        "tote-bag"
+      ],
+      "total_outgoing": [
+        "accessoire",
+        "anlassgarderobe",
+        "crossbody-bag",
+        "garderobenlogik",
+        "tote-bag"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/shorts.md",
+      "slug": "shorts",
+      "term": "Shorts",
+      "contextual_outgoing": ["glove-pump"],
+      "related_outgoing": ["baumwolle", "bermuda", "leinen", "sandale", "saumlange"],
+      "total_outgoing": ["baumwolle", "bermuda", "glove-pump", "leinen", "sandale", "saumlange"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sichtbarkeitslook.md",
+      "slug": "sichtbarkeitslook",
+      "term": "Sichtbarkeitslook",
+      "contextual_outgoing": ["godet"],
+      "related_outgoing": [
+        "brand-wardrobe",
+        "buehnenoutfit",
+        "kamera-look",
+        "linkedin-outfit",
+        "personal-branding"
+      ],
+      "total_outgoing": [
+        "brand-wardrobe",
+        "buehnenoutfit",
+        "godet",
+        "kamera-look",
+        "linkedin-outfit",
+        "personal-branding"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/signale.md",
+      "slug": "signale",
+      "term": "Signale",
+      "contextual_outgoing": ["godet"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "godet",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/signature-farbe.md",
+      "slug": "signature-farbe",
+      "term": "Signature-Farbe",
+      "contextual_outgoing": ["gorpcore"],
+      "related_outgoing": [
+        "akzentfarbe",
+        "farbharmonie",
+        "farbtyp",
+        "personal-branding",
+        "signature-look"
+      ],
+      "total_outgoing": [
+        "akzentfarbe",
+        "farbharmonie",
+        "farbtyp",
+        "gorpcore",
+        "personal-branding",
+        "signature-look"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/simultankontrast.md",
+      "slug": "simultankontrast",
+      "term": "Simultankontrast",
+      "contextual_outgoing": ["farbkreis", "kontrast", "metamerie"],
+      "related_outgoing": ["farbkreis", "kontrast", "metamerie", "unterton"],
+      "total_outgoing": ["farbkreis", "kontrast", "metamerie", "unterton"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/skort.md",
+      "slug": "skort",
+      "term": "Skort",
+      "contextual_outgoing": ["bund", "proportion", "rock"],
+      "related_outgoing": ["kleid", "passform", "proportion", "rock"],
+      "total_outgoing": ["bund", "kleid", "passform", "proportion", "rock"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/slim-fit.md",
+      "slug": "slim-fit",
+      "term": "Slim Fit",
+      "contextual_outgoing": ["griff"],
+      "related_outgoing": ["chinos", "jeans", "passform", "proportion", "straight-leg"],
+      "total_outgoing": ["chinos", "griff", "jeans", "passform", "proportion", "straight-leg"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/slip-dress.md",
+      "slug": "slip-dress",
+      "term": "Slip Dress",
+      "contextual_outgoing": ["griff"],
+      "related_outgoing": ["camisole", "glanzgrad", "layering", "seide", "viskose"],
+      "total_outgoing": ["camisole", "glanzgrad", "griff", "layering", "seide", "viskose"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/smaragdgruen.md",
+      "slug": "smaragdgruen",
+      "term": "Smaragdgrün",
+      "contextual_outgoing": ["creme", "navy", "samt"],
+      "related_outgoing": ["gold", "navy", "petrol", "tannengruen"],
+      "total_outgoing": ["creme", "gold", "navy", "petrol", "samt", "tannengruen"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/smart-elegant.md",
+      "slug": "smart-elegant",
+      "term": "Smart Elegant",
+      "contextual_outgoing": ["grobstrick"],
+      "related_outgoing": [
+        "business-casual",
+        "dresscode",
+        "dressy-casual",
+        "festliche-kleidung",
+        "smart-casual"
+      ],
+      "total_outgoing": [
+        "business-casual",
+        "dresscode",
+        "dressy-casual",
+        "festliche-kleidung",
+        "grobstrick",
+        "smart-casual"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/smocking.md",
+      "slug": "smocking",
+      "term": "Smocking",
+      "contextual_outgoing": ["kleid", "struktur"],
+      "related_outgoing": ["kleid", "passform", "proportion", "struktur"],
+      "total_outgoing": ["kleid", "passform", "proportion", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/smoking.md",
+      "slug": "smoking",
+      "term": "Smoking",
+      "contextual_outgoing": ["black-tie", "proportion"],
+      "related_outgoing": ["black-tie", "dresscode", "morning-dress-cutaway", "oxford-schuh"],
+      "total_outgoing": [
+        "black-tie",
+        "dresscode",
+        "morning-dress-cutaway",
+        "oxford-schuh",
+        "proportion"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sneakerina.md",
+      "slug": "sneakerina",
+      "term": "Sneakerina",
+      "contextual_outgoing": ["gruen"],
+      "related_outgoing": ["ballerina", "balletcore", "kitten-heel", "mary-jane", "sneaker"],
+      "total_outgoing": ["ballerina", "balletcore", "gruen", "kitten-heel", "mary-jane", "sneaker"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sommertyp.md",
+      "slug": "sommertyp",
+      "term": "Sommertyp",
+      "contextual_outgoing": ["farbberatung"],
+      "related_outgoing": [
+        "farbpass",
+        "farbtemperatur",
+        "farbtyp",
+        "gedaempfte-farben",
+        "unterton"
+      ],
+      "total_outgoing": [
+        "farbberatung",
+        "farbpass",
+        "farbtemperatur",
+        "farbtyp",
+        "gedaempfte-farben",
+        "unterton"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sonnenbrille.md",
+      "slug": "sonnenbrille",
+      "term": "Sonnenbrille",
+      "contextual_outgoing": ["h-linie"],
+      "related_outgoing": [
+        "accessoire",
+        "brille",
+        "gesichtsrahmung",
+        "quiet-luxury",
+        "statement-piece"
+      ],
+      "total_outgoing": [
+        "accessoire",
+        "brille",
+        "gesichtsrahmung",
+        "h-linie",
+        "quiet-luxury",
+        "statement-piece"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/spitze.md",
+      "slug": "spitze",
+      "term": "Spitze",
+      "contextual_outgoing": ["hahnentritt"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "hahnentritt", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/spontankauf.md",
+      "slug": "spontankauf",
+      "term": "Spontankauf",
+      "contextual_outgoing": ["hahnentritt"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "hahnentritt",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/standesamt-look.md",
+      "slug": "standesamt-look",
+      "term": "Standesamt-Look",
+      "contextual_outgoing": ["cocktail"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "cocktail",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stehkragen.md",
+      "slug": "stehkragen",
+      "term": "Stehkragen",
+      "contextual_outgoing": ["hemdblusenkleid"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "hemdblusenkleid", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/steppjacke.md",
+      "slug": "steppjacke",
+      "term": "Steppjacke",
+      "contextual_outgoing": ["hemdblusenkleid"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "hemdblusenkleid",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stiefelette.md",
+      "slug": "stiefelette",
+      "term": "Stiefelette",
+      "contextual_outgoing": ["ankle-boots"],
+      "related_outgoing": ["chelsea-boots", "kleid", "materialfall", "rocklange", "saumlange"],
+      "total_outgoing": [
+        "ankle-boots",
+        "chelsea-boots",
+        "kleid",
+        "materialfall",
+        "rocklange",
+        "saumlange"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stil-klarheit.md",
+      "slug": "stil-klarheit",
+      "term": "Stil-Klarheit",
+      "contextual_outgoing": ["hemdkragen"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "hemdkragen",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stil.md",
+      "slug": "stil",
+      "term": "Stil",
+      "contextual_outgoing": ["hemdkragen"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "hemdkragen",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilanalyse.md",
+      "slug": "stilanalyse",
+      "term": "Stilanalyse",
+      "contextual_outgoing": ["herz-ausschnitt"],
+      "related_outgoing": ["outfit-analyse", "signature-look", "stil", "typberatung", "wirkung"],
+      "total_outgoing": [
+        "herz-ausschnitt",
+        "outfit-analyse",
+        "signature-look",
+        "stil",
+        "typberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilberatung.md",
+      "slug": "stilberatung",
+      "term": "Stilberatung",
+      "contextual_outgoing": ["aktivierung"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "aktivierung",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilbruch.md",
+      "slug": "stilbruch",
+      "term": "Stilbruch",
+      "contextual_outgoing": ["feinstrick"],
+      "related_outgoing": [
+        "kontrast",
+        "outfit-formel",
+        "quiet-luxury",
+        "signature-look",
+        "statement-piece"
+      ],
+      "total_outgoing": [
+        "feinstrick",
+        "kontrast",
+        "outfit-formel",
+        "quiet-luxury",
+        "signature-look",
+        "statement-piece"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilentwicklung.md",
+      "slug": "stilentwicklung",
+      "term": "Stilentwicklung",
+      "contextual_outgoing": ["high-waist"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "high-waist",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stiletto.md",
+      "slug": "stiletto",
+      "term": "Stiletto",
+      "contextual_outgoing": ["high-waist"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "high-waist",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilgefuehl.md",
+      "slug": "stilgefuehl",
+      "term": "Stilgefühl",
+      "contextual_outgoing": ["hobo-bag"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "hobo-bag",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilkompass.md",
+      "slug": "stilkompass",
+      "term": "Stilkompass",
+      "contextual_outgoing": ["hochzeit-als-gast"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "hochzeit-als-gast",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilroutine.md",
+      "slug": "stilroutine",
+      "term": "Stilroutine",
+      "contextual_outgoing": ["hoodie"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "hoodie",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stilsicherheit.md",
+      "slug": "stilsicherheit",
+      "term": "Stilsicherheit",
+      "contextual_outgoing": ["hoodie"],
+      "related_outgoing": ["kombinierbarkeit", "signature-look", "stil", "stilgefuehl", "wirkung"],
+      "total_outgoing": [
+        "hoodie",
+        "kombinierbarkeit",
+        "signature-look",
+        "stil",
+        "stilgefuehl",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stiltyp.md",
+      "slug": "stiltyp",
+      "term": "Stiltyp",
+      "contextual_outgoing": ["personal-style", "stilidentitaet", "stilprofil", "wirkung"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look"],
+      "total_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilidentitaet",
+        "stilprofil",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 3,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/stoffgewicht.md",
+      "slug": "stoffgewicht",
+      "term": "Stoffgewicht",
+      "contextual_outgoing": ["horizontale-linie"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "qualitaet", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "horizontale-linie",
+        "materialfall",
+        "qualitaet",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/straight-leg.md",
+      "slug": "straight-leg",
+      "term": "Straight Leg",
+      "contextual_outgoing": ["horizontale-linie"],
+      "related_outgoing": ["denim", "jeans", "passform", "slim-fit", "wide-leg"],
+      "total_outgoing": ["denim", "horizontale-linie", "jeans", "passform", "slim-fit", "wide-leg"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/streifen.md",
+      "slug": "streifen",
+      "term": "Streifen",
+      "contextual_outgoing": ["hosen-unter-roecken"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "hosen-unter-roecken",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/strickjacke.md",
+      "slug": "strickjacke",
+      "term": "Strickjacke",
+      "contextual_outgoing": ["hosen-unter-roecken"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "hosen-unter-roecken",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/strickkleid.md",
+      "slug": "strickkleid",
+      "term": "Strickkleid",
+      "contextual_outgoing": ["body", "feinstrick"],
+      "related_outgoing": ["cardigan", "materialfall", "passform", "pullover"],
+      "total_outgoing": ["body", "cardigan", "feinstrick", "materialfall", "passform", "pullover"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/styling.md",
+      "slug": "styling",
+      "term": "Styling",
+      "contextual_outgoing": ["hut"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "hut",
+        "outfit-formel",
+        "passform",
+        "signature-look",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/summer-clutch.md",
+      "slug": "summer-clutch",
+      "term": "Summer Clutch",
+      "contextual_outgoing": ["resort-casual"],
+      "related_outgoing": [
+        "beaded-bag",
+        "clutch",
+        "festliche-kleidung",
+        "garden-party-attire",
+        "raffia-bag"
+      ],
+      "total_outgoing": [
+        "beaded-bag",
+        "clutch",
+        "festliche-kleidung",
+        "garden-party-attire",
+        "raffia-bag",
+        "resort-casual"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/sweatstoff.md",
+      "slug": "sweatstoff",
+      "term": "Sweatstoff",
+      "contextual_outgoing": ["ikat"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "ikat", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/t-shirt.md",
+      "slug": "t-shirt",
+      "term": "T-Shirt",
+      "contextual_outgoing": ["ikat"],
+      "related_outgoing": [
+        "basic",
+        "baumwolle",
+        "blazer",
+        "jeans",
+        "longsleeve",
+        "passform",
+        "tanktop"
+      ],
+      "total_outgoing": [
+        "basic",
+        "baumwolle",
+        "blazer",
+        "ikat",
+        "jeans",
+        "longsleeve",
+        "passform",
+        "tanktop"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 7,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/t-strap-sandale.md",
+      "slug": "t-strap-sandale",
+      "term": "T-Strap Sandale",
+      "contextual_outgoing": ["indigo-und-denimblau"],
+      "related_outgoing": ["blockabsatz", "mary-jane", "sandale", "sandalette", "saumlange"],
+      "total_outgoing": [
+        "blockabsatz",
+        "indigo-und-denimblau",
+        "mary-jane",
+        "sandale",
+        "sandalette",
+        "saumlange"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taft.md",
+      "slug": "taft",
+      "term": "Taft",
+      "contextual_outgoing": ["kleid", "satin", "seide", "silhouette", "struktur"],
+      "related_outgoing": ["kleid", "satin", "seide", "silhouette"],
+      "total_outgoing": ["kleid", "satin", "seide", "silhouette", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 5,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taillen-seidentuch.md",
+      "slug": "taillen-seidentuch",
+      "term": "Taillen-Seidentuch",
+      "contextual_outgoing": ["indigo-und-denimblau"],
+      "related_outgoing": ["guertel", "jeans", "kleid", "seidentuch", "taillenguertel"],
+      "total_outgoing": [
+        "guertel",
+        "indigo-und-denimblau",
+        "jeans",
+        "kleid",
+        "seidentuch",
+        "taillenguertel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taillenbetonung.md",
+      "slug": "taillenbetonung",
+      "term": "Taillenbetonung",
+      "contextual_outgoing": ["investitionsteil"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "investitionsteil",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taillenguertel.md",
+      "slug": "taillenguertel",
+      "term": "Taillengürtel",
+      "contextual_outgoing": ["waist-charms"],
+      "related_outgoing": ["guertel", "kleid", "proportion", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "guertel",
+        "kleid",
+        "proportion",
+        "silhouette",
+        "taillierung",
+        "waist-charms"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taillenposition.md",
+      "slug": "taillenposition",
+      "term": "Taillenposition",
+      "contextual_outgoing": ["investitionsteil"],
+      "related_outgoing": ["beinlaenge", "drop-waist", "high-waist", "low-waist", "mid-waist"],
+      "total_outgoing": [
+        "beinlaenge",
+        "drop-waist",
+        "high-waist",
+        "investitionsteil",
+        "low-waist",
+        "mid-waist"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tall-styling.md",
+      "slug": "tall-styling",
+      "term": "Tall Styling",
+      "contextual_outgoing": ["jacquard"],
+      "related_outgoing": [
+        "horizontale-linie",
+        "layering-laenge",
+        "saumlange",
+        "vertikale-linie",
+        "volumen"
+      ],
+      "total_outgoing": [
+        "horizontale-linie",
+        "jacquard",
+        "layering-laenge",
+        "saumlange",
+        "vertikale-linie",
+        "volumen"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tapered-fit.md",
+      "slug": "tapered-fit",
+      "term": "Tapered Fit",
+      "contextual_outgoing": ["barrel-leg", "bundfaltenhose"],
+      "related_outgoing": ["chinos", "mom-jeans", "passform", "proportion", "slim-fit"],
+      "total_outgoing": [
+        "barrel-leg",
+        "bundfaltenhose",
+        "chinos",
+        "mom-jeans",
+        "passform",
+        "proportion",
+        "slim-fit"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tartan.md",
+      "slug": "tartan",
+      "term": "Tartan",
+      "contextual_outgoing": ["karomuster"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "karomuster", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taubenblau.md",
+      "slug": "taubenblau",
+      "term": "Taubenblau",
+      "contextual_outgoing": ["ecru", "greige"],
+      "related_outgoing": ["blau", "cognac", "greige", "hellblau"],
+      "total_outgoing": ["blau", "cognac", "ecru", "greige", "hellblau"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/taupe.md",
+      "slug": "taupe",
+      "term": "Taupe",
+      "contextual_outgoing": ["creme", "mantel", "navy", "stoffhose", "strick"],
+      "related_outgoing": ["beige", "braun", "greige"],
+      "total_outgoing": [
+        "beige",
+        "braun",
+        "creme",
+        "greige",
+        "mantel",
+        "navy",
+        "stoffhose",
+        "strick"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 5,
+      "related_outgoing_count": 3,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tellerrock.md",
+      "slug": "tellerrock",
+      "term": "Tellerrock",
+      "contextual_outgoing": ["japanische-sneaker"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "japanische-sneaker",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tenue-de-ville.md",
+      "slug": "tenue-de-ville",
+      "term": "Tenue de Ville",
+      "contextual_outgoing": ["japanische-sneaker"],
+      "related_outgoing": [
+        "business-formal",
+        "dresscode",
+        "festliche-kleidung",
+        "hochzeit-als-gast",
+        "semi-formal"
+      ],
+      "total_outgoing": [
+        "business-formal",
+        "dresscode",
+        "festliche-kleidung",
+        "hochzeit-als-gast",
+        "japanische-sneaker",
+        "semi-formal"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tie-accessories.md",
+      "slug": "tie-accessories",
+      "term": "Tie Accessories",
+      "contextual_outgoing": ["jeansjacke"],
+      "related_outgoing": ["accessoire", "dark-academia", "lapel-pin", "poetcore", "preppy"],
+      "total_outgoing": [
+        "accessoire",
+        "dark-academia",
+        "jeansjacke",
+        "lapel-pin",
+        "poetcore",
+        "preppy"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tie-dye.md",
+      "slug": "tie-dye",
+      "term": "Tie-Dye",
+      "contextual_outgoing": ["batik"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "batik", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/toile-de-jouy.md",
+      "slug": "toile-de-jouy",
+      "term": "Toile de Jouy",
+      "contextual_outgoing": ["muster"],
+      "related_outgoing": ["bluse", "kontrast", "muster", "rapport-musterwiederholung"],
+      "total_outgoing": ["bluse", "kontrast", "muster", "rapport-musterwiederholung"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/ton-in-ton-muster.md",
+      "slug": "ton-in-ton-muster",
+      "term": "Ton-in-Ton-Muster",
+      "contextual_outgoing": ["jeansjacke"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "jeansjacke", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/top.md",
+      "slug": "top",
+      "term": "Top",
+      "contextual_outgoing": ["jeansrock"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "jeansrock", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/track-pants.md",
+      "slug": "track-pants",
+      "term": "Track Pants",
+      "contextual_outgoing": ["sportlich"],
+      "related_outgoing": ["blazer", "oversized", "smart-casual", "sneaker", "stilbruch"],
+      "total_outgoing": [
+        "blazer",
+        "oversized",
+        "smart-casual",
+        "sneaker",
+        "sportlich",
+        "stilbruch"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/trauerbekleidung.md",
+      "slug": "trauerbekleidung",
+      "term": "Trauerkleidung",
+      "contextual_outgoing": ["anlassgarderobe", "dresscode", "schwarz", "wirkung"],
+      "related_outgoing": ["anlassgarderobe", "dresscode", "schwarz", "wirkung"],
+      "total_outgoing": ["anlassgarderobe", "dresscode", "schwarz", "wirkung"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/trendteil.md",
+      "slug": "trendteil",
+      "term": "Trendteil",
+      "contextual_outgoing": ["jogpants"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "garderobenlogik",
+        "jogpants",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tuell.md",
+      "slug": "tuell",
+      "term": "Tüll",
+      "contextual_outgoing": ["kaftan"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "kaftan", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tuerkis.md",
+      "slug": "tuerkis",
+      "term": "Türkis",
+      "contextual_outgoing": ["farbtemperatur"],
+      "related_outgoing": ["akzentfarbe", "blau", "gruen", "petrol", "unterton"],
+      "total_outgoing": ["akzentfarbe", "blau", "farbtemperatur", "gruen", "petrol", "unterton"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tunika.md",
+      "slug": "tunika",
+      "term": "Tunika",
+      "contextual_outgoing": ["kaftan"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "kaftan", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/tweed.md",
+      "slug": "tweed",
+      "term": "Tweed",
+      "contextual_outgoing": ["kamera-look"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "kamera-look", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/twill.md",
+      "slug": "twill",
+      "term": "Twill",
+      "contextual_outgoing": ["kamera-look", "lyocell"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "kamera-look",
+        "lyocell",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/twinset.md",
+      "slug": "twinset",
+      "term": "Twinset",
+      "contextual_outgoing": ["kappnaht"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "kappnaht", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/typberatung.md",
+      "slug": "typberatung",
+      "term": "Typberatung",
+      "contextual_outgoing": ["brille"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "brille",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/uebergangsgarderobe.md",
+      "slug": "uebergangsgarderobe",
+      "term": "Übergangsgarderobe",
+      "contextual_outgoing": ["kernsprache"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "kernsprache",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/umgekehrtes-dreieck.md",
+      "slug": "umgekehrtes-dreieck",
+      "term": "Umgekehrtes Dreieck",
+      "contextual_outgoing": ["khaki"],
+      "related_outgoing": [
+        "balance",
+        "koerperform",
+        "schulter-hueft-balance",
+        "schulterlinie",
+        "silhouette"
+      ],
+      "total_outgoing": [
+        "balance",
+        "khaki",
+        "koerperform",
+        "schulter-hueft-balance",
+        "schulterlinie",
+        "silhouette"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/updated-lady.md",
+      "slug": "updated-lady",
+      "term": "Updated Lady",
+      "contextual_outgoing": ["blazer", "bleistiftrock", "jeans", "slingback"],
+      "related_outgoing": ["blazer", "bleistiftrock", "brooched", "business-casual", "slingback"],
+      "total_outgoing": [
+        "blazer",
+        "bleistiftrock",
+        "brooched",
+        "business-casual",
+        "jeans",
+        "slingback"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/utility-jacket.md",
+      "slug": "utility-jacket",
+      "term": "Utility Jacket",
+      "contextual_outgoing": ["adventure-streetwear"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "adventure-streetwear",
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/v-linie.md",
+      "slug": "v-linie",
+      "term": "V-Linie",
+      "contextual_outgoing": ["kitten-heel"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "kitten-heel",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/vamp-romantic.md",
+      "slug": "vamp-romantic",
+      "term": "Vamp Romantic",
+      "contextual_outgoing": ["chiffon", "jeans", "samt", "satinrock", "slingback", "stoffhose"],
+      "related_outgoing": ["samt", "satin", "spitze"],
+      "total_outgoing": [
+        "chiffon",
+        "jeans",
+        "samt",
+        "satin",
+        "satinrock",
+        "slingback",
+        "spitze",
+        "stoffhose"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 6,
+      "related_outgoing_count": 3,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/vanity-sizing.md",
+      "slug": "vanity-sizing",
+      "term": "Vanity Sizing",
+      "contextual_outgoing": ["passform", "proportion", "stilidentitaet"],
+      "related_outgoing": ["passform", "proportion", "stilidentitaet", "wirkung"],
+      "total_outgoing": ["passform", "proportion", "stilidentitaet", "wirkung"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/veloursleder.md",
+      "slug": "veloursleder",
+      "term": "Veloursleder",
+      "contextual_outgoing": ["kitten-heel"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "kitten-heel", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/vichy-karo.md",
+      "slug": "vichy-karo",
+      "term": "Vichy-Karo",
+      "contextual_outgoing": ["kleiderschrank-inventur"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "kleiderschrank-inventur",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/vintage-kauf.md",
+      "slug": "vintage-kauf",
+      "term": "Vintage-Kauf",
+      "contextual_outgoing": ["kleiderschrank-luecke"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "kleiderschrank-luecke",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/vintage.md",
+      "slug": "vintage",
+      "term": "Vintage",
+      "contextual_outgoing": ["kleiderschrank-luecke"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "garderobenlogik",
+        "kleiderschrank-luecke",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/volant.md",
+      "slug": "volant",
+      "term": "Volant",
+      "contextual_outgoing": ["knee-high-boots"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "knee-high-boots", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/volumenverteilung.md",
+      "slug": "volumenverteilung",
+      "term": "Volumenverteilung",
+      "contextual_outgoing": ["knitterverhalten"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "knitterverhalten",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wardrobe-dressing.md",
+      "slug": "wardrobe-dressing",
+      "term": "Wardrobe Dressing",
+      "contextual_outgoing": ["capsule-wardrobe"],
+      "related_outgoing": [
+        "basic",
+        "capsule-wardrobe",
+        "cost-per-wear",
+        "garderobenplanung",
+        "wardrobe-audit"
+      ],
+      "total_outgoing": [
+        "basic",
+        "capsule-wardrobe",
+        "cost-per-wear",
+        "garderobenplanung",
+        "wardrobe-audit"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wasserfallausschnitt.md",
+      "slug": "wasserfallausschnitt",
+      "term": "Wasserfallausschnitt",
+      "contextual_outgoing": ["drapierung"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "drapierung", "glanzgrad", "materialfall", "struktur"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/webkante.md",
+      "slug": "webkante",
+      "term": "Webkante",
+      "contextual_outgoing": ["fadenlauf", "nahtzugabe", "qualitaet", "webstoff"],
+      "related_outgoing": ["fadenlauf", "nahtzugabe", "qualitaet", "webstoff"],
+      "total_outgoing": ["fadenlauf", "nahtzugabe", "qualitaet", "webstoff"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/weste.md",
+      "slug": "weste",
+      "term": "Weste",
+      "contextual_outgoing": ["knopfqualitaet"],
+      "related_outgoing": ["blazer", "business-casual", "layering", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "blazer",
+        "business-casual",
+        "knopfqualitaet",
+        "layering",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/western-boots.md",
+      "slug": "western-boots",
+      "term": "Western Boots",
+      "contextual_outgoing": ["koenigsblau"],
+      "related_outgoing": ["jeans", "kleid", "statement-piece", "stilbruch"],
+      "total_outgoing": ["jeans", "kleid", "koenigsblau", "statement-piece", "stilbruch"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/white-canvas-sneaker.md",
+      "slug": "white-canvas-sneaker",
+      "term": "White Canvas Sneaker",
+      "contextual_outgoing": ["koenigsblau"],
+      "related_outgoing": ["baumwolle", "casual", "sneaker", "weiss", "wochenendlook"],
+      "total_outgoing": ["baumwolle", "casual", "koenigsblau", "sneaker", "weiss", "wochenendlook"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/white-tie.md",
+      "slug": "white-tie",
+      "term": "White Tie",
+      "contextual_outgoing": ["koerperform"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "koerperform",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wickelkleid.md",
+      "slug": "wickelkleid",
+      "term": "Wickelkleid",
+      "contextual_outgoing": ["koerperform"],
+      "related_outgoing": ["camisole", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": ["camisole", "koerperform", "saumlange", "silhouette", "taillierung"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wickeloberteil.md",
+      "slug": "wickeloberteil",
+      "term": "Wickeloberteil",
+      "contextual_outgoing": ["kombinationsstueck"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": [
+        "accessoire",
+        "glanzgrad",
+        "kombinationsstueck",
+        "materialfall",
+        "struktur"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wickelrock.md",
+      "slug": "wickelrock",
+      "term": "Wickelrock",
+      "contextual_outgoing": ["kombinationsstueck"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "kombinationsstueck",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wide-leg.md",
+      "slug": "wide-leg",
+      "term": "Wide Leg",
+      "contextual_outgoing": ["koralle"],
+      "related_outgoing": ["culotte", "marlenehose", "proportion", "silhouette", "straight-leg"],
+      "total_outgoing": [
+        "culotte",
+        "koralle",
+        "marlenehose",
+        "proportion",
+        "silhouette",
+        "straight-leg"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wintertyp.md",
+      "slug": "wintertyp",
+      "term": "Wintertyp",
+      "contextual_outgoing": ["koralle"],
+      "related_outgoing": ["farbpass", "farbtemperatur", "farbtyp", "klare-farben", "kontrast"],
+      "total_outgoing": [
+        "farbpass",
+        "farbtemperatur",
+        "farbtyp",
+        "klare-farben",
+        "kontrast",
+        "koralle"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wirkungsprofil.md",
+      "slug": "wirkungsprofil",
+      "term": "Wirkungsprofil",
+      "contextual_outgoing": ["wirkungskompetenz"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung",
+        "wirkungskompetenz"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wochenendlook.md",
+      "slug": "wochenendlook",
+      "term": "Wochenendlook",
+      "contextual_outgoing": ["korsett-top"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "korsett-top",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wollmantel.md",
+      "slug": "wollmantel",
+      "term": "Wollmantel",
+      "contextual_outgoing": ["kostuem-jacke-rock-ensemble"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "kostuem-jacke-rock-ensemble",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/wunschliste.md",
+      "slug": "wunschliste",
+      "term": "Wunschliste",
+      "contextual_outgoing": ["kostuem-jacke-rock-ensemble"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "kostuem-jacke-rock-ensemble",
+        "outfit-formel"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/x-linie.md",
+      "slug": "x-linie",
+      "term": "X-Linie",
+      "contextual_outgoing": ["kunstleder"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "kunstleder",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/y2k-style.md",
+      "slug": "y2k-style",
+      "term": "Y2K Style",
+      "contextual_outgoing": ["crop-top", "maximalismus", "minirock", "statement-piece"],
+      "related_outgoing": ["crop-top", "maximalismus", "minirock", "statement-piece"],
+      "total_outgoing": ["crop-top", "maximalismus", "minirock", "statement-piece"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/your-signature.md",
+      "slug": "your-signature",
+      "term": "Your Signature",
+      "contextual_outgoing": ["kunstleder"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "kunstleder",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/zehenbox.md",
+      "slug": "zehenbox",
+      "term": "Zehenbox",
+      "contextual_outgoing": ["passform", "pumps", "schuhweite", "sneaker"],
+      "related_outgoing": ["passform", "pumps", "schuhweite", "sneaker"],
+      "total_outgoing": ["passform", "pumps", "schuhweite", "sneaker"],
+      "incoming_contextual": ["zehenkappe"],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 1
+    },
+    {
+      "file": "content/de/glossar/zehenkappe.md",
+      "slug": "zehenkappe",
+      "term": "Zehenkappe",
+      "contextual_outgoing": ["zehenbox"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel",
+        "zehenbox"
+      ],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/zugfalten.md",
+      "slug": "zugfalten",
+      "term": "Zugfalten",
+      "contextual_outgoing": ["falten", "nahtbild", "passform", "proportion"],
+      "related_outgoing": ["falten", "nahtbild", "passform", "proportion"],
+      "total_outgoing": ["falten", "nahtbild", "passform", "proportion"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    },
+    {
+      "file": "content/de/glossar/zwickel.md",
+      "slug": "zwickel",
+      "term": "Zwickel",
+      "contextual_outgoing": ["bewegungszugabe", "naht", "stoffhose"],
+      "related_outgoing": ["bewegungszugabe", "naht", "stoffhose", "verarbeitung"],
+      "total_outgoing": ["bewegungszugabe", "naht", "stoffhose", "verarbeitung"],
+      "incoming_contextual": [],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 0
+    }
+  ],
+  "pages_missing_contextual_outgoing": [],
+  "sample_pages": [
+    {
+      "file": "content/de/glossar/80s-luxury.md",
+      "slug": "80s-luxury",
+      "term": "80s Luxury",
+      "contextual_outgoing": ["farbe"],
+      "related_outgoing": ["blazer", "executive-presence", "glamoratti", "gold", "schulterpolster"],
+      "total_outgoing": [
+        "blazer",
+        "executive-presence",
+        "farbe",
+        "glamoratti",
+        "gold",
+        "schulterpolster"
+      ],
+      "incoming_contextual": ["blazer", "schulterpolster"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/a-linie.md",
+      "slug": "a-linie",
+      "term": "A-Linie",
+      "contextual_outgoing": ["a-linien-kleid", "a-linien-rock", "saumlange", "silhouette"],
+      "related_outgoing": ["culotte", "passform", "proportion", "rocklange", "silhouette"],
+      "total_outgoing": [
+        "a-linien-kleid",
+        "a-linien-rock",
+        "culotte",
+        "passform",
+        "proportion",
+        "rocklange",
+        "saumlange",
+        "silhouette"
+      ],
+      "incoming_contextual": ["a-linien-kleid", "a-linien-rock"],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/a-linien-kleid.md",
+      "slug": "a-linien-kleid",
+      "term": "A-Linien-Kleid",
+      "contextual_outgoing": ["a-linie", "saumlange", "silhouette"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "a-linie",
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel",
+        "saumlange",
+        "silhouette"
+      ],
+      "incoming_contextual": ["a-linie", "saumlange"],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/a-linien-rock.md",
+      "slug": "a-linien-rock",
+      "term": "A-Linien-Rock",
+      "contextual_outgoing": ["a-linie", "saumlange", "silhouette"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "a-linie",
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel",
+        "saumlange",
+        "silhouette"
+      ],
+      "incoming_contextual": ["a-linie", "saumlange"],
+      "contextual_outgoing_count": 3,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/abendgarderobe.md",
+      "slug": "abendgarderobe",
+      "term": "Abendgarderobe",
+      "contextual_outgoing": ["dresscode", "event-look"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "dresscode",
+        "event-look",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": ["abendkleid", "event-look"],
+      "contextual_outgoing_count": 2,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 7,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/abendkleid.md",
+      "slug": "abendkleid",
+      "term": "Abendkleid",
+      "contextual_outgoing": ["abendgarderobe", "chiffon", "cocktailkleid", "dresscode"],
+      "related_outgoing": ["cocktailkleid", "dresscode", "glanzgrad", "seide"],
+      "total_outgoing": [
+        "abendgarderobe",
+        "chiffon",
+        "cocktailkleid",
+        "dresscode",
+        "glanzgrad",
+        "seide"
+      ],
+      "incoming_contextual": ["brokat", "event-look"],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/abnaeher.md",
+      "slug": "abnaeher",
+      "term": "Abnäher",
+      "contextual_outgoing": ["garderobe"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "garderobe",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": ["passform", "taillierung"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/accessoire.md",
+      "slug": "accessoire",
+      "term": "Accessoire",
+      "contextual_outgoing": ["tote-bag"],
+      "related_outgoing": [
+        "brille",
+        "feinschmuck",
+        "guertel",
+        "kontrast",
+        "metallic",
+        "schal",
+        "statement-piece"
+      ],
+      "total_outgoing": [
+        "brille",
+        "feinschmuck",
+        "guertel",
+        "kontrast",
+        "metallic",
+        "schal",
+        "statement-piece",
+        "tote-bag"
+      ],
+      "incoming_contextual": ["brille", "guertel", "metallic"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 7,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 3
+    },
+    {
+      "file": "content/de/glossar/acetat.md",
+      "slug": "acetat",
+      "term": "Acetat",
+      "contextual_outgoing": ["glanzgrad", "materialfall", "seide", "viskose"],
+      "related_outgoing": ["glanzgrad", "materialfall", "seide", "viskose"],
+      "total_outgoing": ["glanzgrad", "materialfall", "seide", "viskose"],
+      "incoming_contextual": ["materialfall", "viskose"],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/adaptive-fashion.md",
+      "slug": "adaptive-fashion",
+      "term": "Adaptive Fashion",
+      "contextual_outgoing": ["bewegungszugabe", "komfortzone", "passform", "stilidentitaet"],
+      "related_outgoing": ["bewegungszugabe", "komfortzone", "passform", "stilidentitaet"],
+      "total_outgoing": ["bewegungszugabe", "komfortzone", "passform", "stilidentitaet"],
+      "incoming_contextual": ["bewegungszugabe", "komfortzone"],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/adventure-streetwear.md",
+      "slug": "adventure-streetwear",
+      "term": "Adventure Streetwear",
+      "contextual_outgoing": ["farbe"],
+      "related_outgoing": ["gorpcore", "khaki", "pocket-vest", "sneaker", "utility-jacket"],
+      "total_outgoing": ["farbe", "gorpcore", "khaki", "pocket-vest", "sneaker", "utility-jacket"],
+      "incoming_contextual": ["gorpcore", "utility-jacket"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/aermellaenge.md",
+      "slug": "aermellaenge",
+      "term": "Ärmellänge",
+      "contextual_outgoing": ["garderobe"],
+      "related_outgoing": ["passform", "proportion", "saumlange", "silhouette", "taillierung"],
+      "total_outgoing": [
+        "garderobe",
+        "passform",
+        "proportion",
+        "saumlange",
+        "silhouette",
+        "taillierung"
+      ],
+      "incoming_contextual": ["blazer", "passform", "saumlange"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 3
+    },
+    {
+      "file": "content/de/glossar/aktivierung.md",
+      "slug": "aktivierung",
+      "term": "Aktivierung",
+      "contextual_outgoing": ["imageberatung"],
+      "related_outgoing": [
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "total_outgoing": [
+        "garderobenlogik",
+        "imageberatung",
+        "personal-style",
+        "signature-look",
+        "stilberatung",
+        "wirkung"
+      ],
+      "incoming_contextual": ["garderobenlogik", "stilberatung"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/akzentfarbe.md",
+      "slug": "akzentfarbe",
+      "term": "Akzentfarbe",
+      "contextual_outgoing": ["praesenz"],
+      "related_outgoing": [
+        "accessoire",
+        "farbpalette",
+        "fuchsia",
+        "metallic",
+        "orange",
+        "pink",
+        "statement-piece"
+      ],
+      "total_outgoing": [
+        "accessoire",
+        "farbpalette",
+        "fuchsia",
+        "metallic",
+        "orange",
+        "pink",
+        "praesenz",
+        "statement-piece"
+      ],
+      "incoming_contextual": ["farbpalette", "fuchsia", "metallic"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 7,
+      "total_outgoing_count": 8,
+      "incoming_contextual_count": 3
+    },
+    {
+      "file": "content/de/glossar/allover-print.md",
+      "slug": "allover-print",
+      "term": "Allover-Print",
+      "contextual_outgoing": ["print"],
+      "related_outgoing": ["accessoire", "glanzgrad", "materialfall", "struktur"],
+      "total_outgoing": ["accessoire", "glanzgrad", "materialfall", "print", "struktur"],
+      "incoming_contextual": ["materialfall", "muster", "print", "struktur"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 4
+    },
+    {
+      "file": "content/de/glossar/alltagsuniform.md",
+      "slug": "alltagsuniform",
+      "term": "Alltagsuniform",
+      "contextual_outgoing": ["image-strategie"],
+      "related_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "total_outgoing": [
+        "capsule-wardrobe",
+        "fehlkauf",
+        "garderobenlogik",
+        "image-strategie",
+        "key-piece",
+        "outfit-formel"
+      ],
+      "incoming_contextual": ["garderobenlogik", "outfit-formel"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/alpaka.md",
+      "slug": "alpaka",
+      "term": "Alpaka",
+      "contextual_outgoing": ["materialfall", "polyamid", "strick", "wolle"],
+      "related_outgoing": ["materialfall", "polyamid", "strick", "wolle"],
+      "total_outgoing": ["materialfall", "polyamid", "strick", "wolle"],
+      "incoming_contextual": ["strick", "wolle"],
+      "contextual_outgoing_count": 4,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 4,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/analogfarben.md",
+      "slug": "analogfarben",
+      "term": "Analogfarben",
+      "contextual_outgoing": ["image-strategie"],
+      "related_outgoing": ["akzentfarbe", "farbpalette", "farbtyp", "kontrast", "unterton"],
+      "total_outgoing": [
+        "akzentfarbe",
+        "farbpalette",
+        "farbtyp",
+        "image-strategie",
+        "kontrast",
+        "unterton"
+      ],
+      "incoming_contextual": ["farbkreis", "farbpalette", "kontrast"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 3
+    },
+    {
+      "file": "content/de/glossar/androgyne-figur.md",
+      "slug": "androgyne-figur",
+      "term": "Androgyne Figur",
+      "contextual_outgoing": ["imageberatung"],
+      "related_outgoing": ["androgyner-stil", "balance", "koerperform", "proportion", "silhouette"],
+      "total_outgoing": [
+        "androgyner-stil",
+        "balance",
+        "imageberatung",
+        "koerperform",
+        "proportion",
+        "silhouette"
+      ],
+      "incoming_contextual": ["balance", "koerperform"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 5,
+      "total_outgoing_count": 6,
+      "incoming_contextual_count": 2
+    },
+    {
+      "file": "content/de/glossar/androgyner-stil.md",
+      "slug": "androgyner-stil",
+      "term": "Androgyner Stil",
+      "contextual_outgoing": ["einkaufsliste"],
+      "related_outgoing": ["garderobenlogik", "personal-style", "signature-look", "wirkung"],
+      "total_outgoing": [
+        "einkaufsliste",
+        "garderobenlogik",
+        "personal-style",
+        "signature-look",
+        "wirkung"
+      ],
+      "incoming_contextual": ["personal-style", "wirkung"],
+      "contextual_outgoing_count": 1,
+      "related_outgoing_count": 4,
+      "total_outgoing_count": 5,
+      "incoming_contextual_count": 2
+    }
+  ]
+}

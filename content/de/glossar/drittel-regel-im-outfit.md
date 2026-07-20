@@ -5,6 +5,7 @@ description:
   Die Drittel-Regel teilt ein Outfit optisch in ungleiche Längen, um Proportionen oft spannender
   und stimmiger zu machen.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - drittel regel im outfit
   - proportion
@@ -47,6 +48,8 @@ Die **Drittel-Regel im Outfit** meint eine Aufteilung in ungleiche Längen, zum 
 ## Einfach erklärt
 
 Die Regel ist kein Gesetz. Sie ist ein hilfreiches Prinzip, um zu verstehen, warum manche Längen spannender und stimmiger wirken als andere.
+
+Praktisch wird sie besonders, wenn du die sichtbare [Beinlänge](/glossar/beinlaenge/) im Zusammenspiel mit Taille, Saum und Schuhen bewertest.
 
 ## ESKYNA-Merksatz
 

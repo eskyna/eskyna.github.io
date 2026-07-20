@@ -40,7 +40,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Futter**: Futter ist die innere Stofflage in Jacken, Mänteln, Röcken oder Kleidern und beeinflusst Fall, Komfort und Qualität.
+**Futter**: Futter ist die innere Stofflage in Jacken, Mänteln, Röcken oder Kleidern und beeinflusst Fall, Komfort und Qualität. Unter wechselndem Licht kann selbst das Futter zur [Metamerie](/glossar/metamerie/) eines Looks beitragen.
 
 ## Einfach erklärt
 

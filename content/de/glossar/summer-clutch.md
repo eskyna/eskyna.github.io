@@ -47,6 +47,7 @@ Eine **Summer Clutch** ist eine kleine, handgetragene Tasche für sommerliche Lo
 ## Einfach erklärt
 
 Im Unterschied zur klassischen Abendclutch wirkt sie luftiger, entspannter und saisonaler. Sie passt gut zu Sommerfesten, Urlaubsabenden oder Garden-Party-Looks.
+Bei Einladungen mit leichter Eleganz ist sie ein typischer Baustein für [Resort Casual](/glossar/resort-casual/).
 
 ## Mini-Test vor dem Spiegel
 

@@ -5,6 +5,7 @@ description:
   Petite Styling beschreibt Stylingprinzipien für kleinere Körpergrößen, bei denen Proportion,
   Saumlängen und Linienführung besonders wichtig sind.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - petite styling
   - proportion
@@ -74,6 +75,8 @@ Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/
 Frag dich bei **Petite Styling**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die ganze Linie von Kopf bis Schuh. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Petite Styling** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Wenn du Linien ohne starke Taillenbetonung planst, hilft dir die [Rechteck-Silhouette](/glossar/rechteck-silhouette/) als klare Referenz.
 
 ## Verwandte Begriffe
 

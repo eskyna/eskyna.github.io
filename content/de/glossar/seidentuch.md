@@ -5,6 +5,7 @@ description:
   Ein Seidentuch ist ein feines Accessoire mit Glanz und fließendem Fall, das Farbe, Muster
   und Eleganz in den Look bringt.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - seidentuch
   - accessoire
@@ -78,6 +79,8 @@ Betrachte „Seidentuch“ einmal aus der Nähe und einmal mit etwas Abstand. Au
 ## ESKYNA-Merksatz
 
 Ein Seidentuch ist ein kleines Stück Farbe mit großer stilistischer Präzision.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Glencheck](/glossar/glencheck/).
 
 ## Praxischeck
 

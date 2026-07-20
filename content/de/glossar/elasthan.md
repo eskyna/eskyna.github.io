@@ -36,7 +36,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Elasthan**: Elasthan ist eine Dehnfaser, die Kleidung elastischer macht und Bewegungsfreiheit unterstützt.
+**Elasthan**: Elasthan ist eine Dehnfaser, die Kleidung elastischer macht und Bewegungsfreiheit unterstützt. Besonders in [Leggings](/glossar/leggings/) sorgt sie für Sitz und Flexibilität.
 
 ## Einfach erklärt
 

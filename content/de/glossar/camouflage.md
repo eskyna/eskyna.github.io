@@ -50,6 +50,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Camouflage, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Für einen wärmeren Kontrast lässt sich Camouflage gut mit Akzenten in [Bronze](/glossar/bronze/) kombinieren.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Camouflage im Outfit übernimmt.

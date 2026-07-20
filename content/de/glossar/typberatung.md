@@ -33,7 +33,7 @@ lastmod: "2026-07-09"
 faq:
   items:
     - q: Ist Typberatung dasselbe wie Farbberatung?
-      a: Nein. Farbberatung ist ein Teil davon, Typberatung kann auch Stil, Proportion und Wirkung umfassen.
+      a: Nein. [Farbberatung](/glossar/farbberatung/) ist ein Teil davon, Typberatung kann auch Stil, Proportion und Wirkung umfassen.
     - q: Bekomme ich einen festen Typ?
       a: Vielleicht, aber wichtiger sind Empfehlungen, die du praktisch anwenden kannst.
     - q: Ist Typberatung sinnvoll bei Stilunsicherheit?
@@ -91,7 +91,7 @@ Bei ESKYNA steht nicht der Typ im Vordergrund, sondern die Person. Ich nutze Typ
 
 ## Beispiel aus dem Alltag
 
-Bei Typberatung kann die Ausgangsfrage lauten: "Was bin ich eigentlich für ein Typ?" Die bessere Anschlussfrage ist: Welche Farben, Schnitte und Wirkungen geben mir Sicherheit? So wird aus einer Kategorie ein praktisches Werkzeug für Kleidung, Haare, Brille und Garderobe.
+Bei Typberatung kann die Ausgangsfrage lauten: "Was bin ich eigentlich für ein Typ?" Die bessere Anschlussfrage ist: Welche Farben, Schnitte und Wirkungen geben mir Sicherheit? So wird aus einer Kategorie ein praktisches Werkzeug für Kleidung, Haare, [Brille](/glossar/brille/) und Garderobe.
 
 ## Wann Beratung sinnvoll wird
 

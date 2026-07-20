@@ -85,6 +85,8 @@ In der Beratung ist **Maskuliner Stil** kein starres Etikett. Der Begriff wird e
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Etuikleid](/glossar/etuikleid/).
+
 ## Verwandte Begriffe
 
 - [Signature Look](/glossar/signature-look/)

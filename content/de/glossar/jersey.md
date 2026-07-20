@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Jersey, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Jerseyoberteile wirken besonders klar, wenn ein [Carre-Ausschnitt](/glossar/carre-ausschnitt/) die Schulterlinie präzise betont.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Jersey im Outfit übernimmt.

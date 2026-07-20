@@ -93,6 +93,8 @@ Bei ESKYNA entsteht Personal Style aus Beobachtung, nicht aus Schubladen. Ich sc
 
 Vielleicht speicherst du minimalistische Looks, trägst aber gern besondere Ohrringe. Oder du liebst feminine Kleider, brauchst im Alltag aber Bewegungsfreiheit. Personal Style entsteht genau in dieser Verbindung. Er nimmt nicht eine Seite weg, sondern findet die Form, in der deine Gegensätze zusammenpassen.
 
+Genau daraus kann auch ein [androgyner Stil](/glossar/androgyner-stil/) entstehen, wenn klare Linien, Ruhe und Zurückhaltung die persönliche Sprache besser tragen als dekorative Codes.
+
 ## Wann Beratung sinnvoll wird
 
 Beratung hilft, wenn Inspiration dich eher verwirrt als unterstützt. Social Media zeigt viele starke Looks, aber nicht jeder Look gehört zu deinem Leben. Ein Stilprofil filtert diese Eindrücke und übersetzt sie in Farben, Schnitte und Details, die du wirklich tragen kannst.

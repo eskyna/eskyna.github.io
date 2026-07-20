@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Typisch sind starke Schultern, Gold, hohe Kragen, Glanz, dramatische Accessoires und ein Hauch Achtziger-Luxus. Der Look lebt von Präsenz, nicht von Zurückhaltung.
+Typisch sind starke Schultern, Gold, hohe Kragen, Glanz, dramatische Accessoires und ein Hauch Achtziger-Luxus. Damit berührt der Look oft auch [Maximalismus](/glossar/maximalismus/). Der Look lebt von Präsenz, nicht von Zurückhaltung.
 
 ## Warum der Begriff wichtig ist
 

@@ -46,13 +46,13 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Schwarz
 
-Schwarz ist eine der stärksten Farben in der Garderobe. Es wirkt klar, grafisch, reduziert und oft sehr souverän. Gleichzeitig ist Schwarz nicht automatisch die beste neutrale Farbe für jede Person.
+Schwarz ist eine der stärksten Farben in der Garderobe. Es wirkt klar, grafisch, reduziert und oft sehr souverän. Gleichzeitig ist Schwarz nicht automatisch die beste neutrale Farbe für jede Person. Innerhalb [neutraler Farben](/glossar/neutrale-farben/) ist es der kontrastreichste Anker.
 
 ## Wie Schwarz wirkt
 
 Schwarz rahmt. Es zieht Linien schärfer, macht Formen deutlicher und bringt sofort mehr Kontrast in ein Outfit. Ein schwarzer Blazer wirkt strukturiert. Ein schwarzes Kleid kann elegant oder streng wirken. Eine schwarze Jeans wirkt ruhiger als ein helles Denim, aber weniger formell als eine schwarze Stoffhose.
 
-Die Wirkung hängt stark vom Kontext ab. Schwarz mit glattem Stoff wirkt präzise. Schwarz in weichem Strick wirkt entspannter. Schwarz in Leder wirkt urban und stärker. Schwarz in Seide oder Satin bekommt Tiefe und Glanz.
+Die Wirkung hängt stark vom Kontext ab. Schwarz mit glattem Stoff wirkt präzise. Schwarz in weichem Strick wirkt entspannter. Schwarz in Leder wirkt urban und stärker. Schwarz in Seide oder Satin bekommt Tiefe und Glanz. Gegenüber [Navy](/glossar/navy/) oder [Grau](/glossar/grau/) erscheint Schwarz meist härter.
 
 ## Die Nuancen von Schwarz
 
@@ -65,7 +65,7 @@ Nicht jedes Schwarz ist gleich.
 
 ## Schwarz kombinieren
 
-- **Schwarz + Weiß:** Grafisch, klar und sehr kontrastreich
+- **Schwarz + [Weiß](/glossar/weiss/):** Grafisch, klar und sehr kontrastreich
 - **Schwarz + Creme:** Weicher und eleganter als Schwarz mit Reinweiß
 - **Schwarz + Denim:** Alltagstauglich und modern
 - **Schwarz + Braun:** Ruhig, erwachsen und hochwertig, wenn die Materialien stimmen

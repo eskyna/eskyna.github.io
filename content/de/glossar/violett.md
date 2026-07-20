@@ -53,7 +53,7 @@ Violett kann geheimnisvoll, elegant oder künstlerisch wirken. Die Farbe bringt 
 ## Die Nuancen von Violett
 
 - **Klares Violett:** Präsent, kühl und ausdrucksstark.
-- **Aubergine:** Dunkel, elegant und nah an Bordeaux.
+- **[Aubergine](/glossar/aubergine/):** Dunkel, elegant und nah an Bordeaux.
 - **Pflaume:** Weicher und tiefer, schön zu Braun und Creme.
 - **Blauviolett:** Kühler und ruhiger.
 
@@ -80,6 +80,8 @@ Violett eignet sich gut für Menschen, die Farbe tragen möchten, aber keine kla
 ## ESKYNA-Merksatz
 
 Violett ist Präsenz mit Tiefe. Elegant wird es durch Ruhe im Rest des Looks.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knee-High Boots](/glossar/knee-high-boots/).
 
 ## Praxischeck
 

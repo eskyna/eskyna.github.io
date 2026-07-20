@@ -37,13 +37,17 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Print**: Ein Print ist ein aufgedrucktes Muster oder Motiv, das Farbe, Fläche und Stilrichtung eines Kleidungsstücks prägt.
+**Print**: Ein Print ist ein aufgedrucktes Muster oder Motiv, das Farbe, Fläche und Stilrichtung eines Kleidungsstücks prägt. Wenn ein Dessin die ganze Fläche einnimmt, spricht man oft von [Allover-Print](/glossar/allover-print/).
 
 ## Einfach erklärt
 
 Muster bringen Bewegung in einen Look. Entscheidend sind Größe, Kontrast, Platzierung und die Frage, ob das Muster eine ruhige Ergänzung oder der Fokus des Outfits sein soll.
 
-Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird.
+Ein feines [Blumenmuster](/glossar/blumenmuster/) wirkt oft leichter als ein großflächiges Motiv und kann dadurch alltagstauglicher kombiniert werden.
+
+Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird. Bei einem [Animal Print](/glossar/animal-print/) wird diese Spannung meist besonders schnell sichtbar.
+
+Prints tauchen nicht nur auf Kleidung auf. Auch eine [Beaded Bag](/glossar/beaded-bag/) kann über Farbe und Oberfläche als bewusstes Musterdetail wirken.
 
 ## Warum Print wichtig ist
 
@@ -76,7 +80,7 @@ Wenn du den Begriff **Print** auf ein Outfit überträgst, prüfe nicht nur das 
 
 - Fühle Griff, Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+- Achte auf Pflege, [Knitterverhalten](/glossar/knitterverhalten/) und Verarbeitung an Nähten oder Kanten.
 
 ## Beratungsblick
 

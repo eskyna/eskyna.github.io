@@ -2,7 +2,7 @@
 title: Bodycon Dress
 term: Bodycon Dress
 description: Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körperlinie stark nachzeichnet.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - bodycon dress
   - garderobe
@@ -38,7 +38,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Bodycon Dress**: Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körperlinie stark nachzeichnet.
+**Bodycon Dress**: Ein Bodycon Dress ist ein sehr körpernahes Kleid, das die Körperlinie stark nachzeichnet. Als Kategorie liegt es nah an [Bodycon](/glossar/bodycon/), beschreibt aber immer ein Kleid.
 
 ## Einfach erklärt
 

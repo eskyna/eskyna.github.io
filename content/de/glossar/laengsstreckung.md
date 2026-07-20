@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Begriff hilft, Kleidung als Teil der eigenen Präsenz zu verstehen. Es geht nicht um Bewertung, sondern um Klarheit und bewusste Entscheidungen.
+Der Begriff hilft, Kleidung als Teil der eigenen [Präsenz](/glossar/praesenz/) zu verstehen. Es geht nicht um Bewertung, sondern um Klarheit und bewusste Entscheidungen.
 
 Für ESKYNA ist dieser Blick zentral. Stilberatung soll nicht einengen, sondern das eigene Auftreten präziser und leichter machen.
 

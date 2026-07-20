@@ -3,7 +3,7 @@ title: Was bedeutet Festive Attire?
 term: Festive Attire
 description: Festive Attire beschreibt festliche Kleidung mit mehr Farbe, Glanz oder Persönlichkeit
   als klassische Abendgarderobe.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - festive attire
   - dresscode
@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Im Unterschied zu strengeren Abendcodes darf Festive Attire spielerischer sein. Entscheidend bleibt, dass der Look gepflegt, anlassgerecht und bewusst zusammengesetzt wirkt.
+Im Unterschied zu strengeren Abendcodes darf Festive Attire spielerischer sein. Entscheidend bleibt, dass der Look gepflegt, anlassgerecht und bewusst zusammengesetzt wirkt. Inspiration kommt dabei oft eher vom [Laufsteg/Runway](/glossar/laufsteg-runway/) als von starren Businessregeln.
 
 ## Warum der Begriff wichtig ist
 

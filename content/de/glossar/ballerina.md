@@ -3,7 +3,7 @@ title: Was ist eine Ballerina?
 term: Ballerina
 description: Eine Ballerina ist ein flacher, leichter Schuh mit geschlossener Spitze, der je nach
   Form weich, klassisch oder modern wirkt.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - ballerina
   - schuhe
@@ -45,13 +45,13 @@ Eine **Ballerina** ist ein flacher, leichter Schuh mit geschlossener Spitze. Die
 
 ## Einfach erklärt
 
-Ballerinas können sehr weich und feminin wirken, aber auch modern, wenn Spitze, Material und Farbe klar gewählt sind. Runde Formen wirken zarter, spitze Formen erwachsener und eleganter.
+Ballerinas können sehr weich und feminin wirken, aber auch modern, wenn Spitze, Material und Farbe klar gewählt sind. Runde Formen wirken zarter, spitze Formen erwachsener und eleganter. Damit stehen sie oft zwischen [Slingbacks](/glossar/slingback/) und [Loafern](/glossar/loafer/).
 
 Sie passen zu Jeans, Röcken, Kleidern und Stoffhosen. Gerade bei flachen Schuhen entscheidet die Form stark darüber, ob der Look gepflegt oder zu niedlich wirkt.
 
 ## Warum dieser Begriff wichtig ist
 
-Für ESKYNA sind Ballerinas interessant, weil sie Komfort und Feinheit verbinden können. Sie sind eine Alternative zu Sneakern, wenn der Look leichter und etwas eleganter bleiben soll.
+Für ESKYNA sind Ballerinas interessant, weil sie Komfort und Feinheit verbinden können. Sie sind eine Alternative zu Sneakern, wenn der Look leichter und etwas eleganter bleiben soll. Gegenüber [Pumps](/glossar/pumps/) wirken sie oft leiser und alltagstauglicher. In Ästhetiken wie [Balletcore](/glossar/balletcore/) werden sie fast zum Signaturdetail.
 
 ## Worauf du achten solltest
 

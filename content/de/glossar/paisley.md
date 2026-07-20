@@ -50,6 +50,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Paisley, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn Paisley modern wirken soll, kann [Colour Blocking](/glossar/colour-blocking/) die Musterwirkung klar strukturieren.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Paisley im Outfit übernimmt.

@@ -45,6 +45,7 @@ Eine **Satchel Bag** ist eine strukturierte Umhängetasche mit leicht schulranze
 ## Einfach erklärt
 
 Der Reiz liegt in der Mischung aus Funktion und Struktur. Je nach Material kann eine Satchel preppy, poetisch, businessnah oder urban erscheinen.
+In einer leichten Reisegarderobe lässt sie sich auch in [Resort Casual](/glossar/resort-casual/) übersetzen, wenn Form und Farbe ruhig bleiben.
 
 ## Mini-Test vor dem Spiegel
 

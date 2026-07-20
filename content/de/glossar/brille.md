@@ -5,6 +5,7 @@ description:
   Eine Brille rahmt das Gesicht und wirkt wie ein dauerhaft sichtbares Accessoire mit großer
   stilistischer Bedeutung.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - brille
   - accessoire
@@ -45,7 +46,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Brille** ist eine Sehhilfe, aber stilistisch auch ein dauerhaft sichtbares Accessoire. Sie rahmt das Gesicht, beeinflusst Proportionen und prägt den ersten Eindruck.
+Eine **Brille** ist eine Sehhilfe, aber stilistisch auch ein dauerhaft sichtbares [Accessoire](/glossar/accessoire/). Sie rahmt das Gesicht, beeinflusst Proportionen und prägt den ersten Eindruck.
 
 ## Einfach erklärt
 

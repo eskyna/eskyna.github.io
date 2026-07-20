@@ -5,6 +5,15 @@ description: "Crêpe oder Krepp bezeichnet Stoffe mit körniger, leicht gekräus
 category: "Materialien & Details"
 image: images/glossar/crepe-krepp.png
 image_alt: "Glossar-Illustration zu Crêpe/Krepp"
+relatedTerms:
+  - title: Satin
+    url: /glossar/satin/
+  - title: Seide
+    url: /glossar/seide/
+  - title: Viskose
+    url: /glossar/viskose/
+  - title: Polyester
+    url: /glossar/polyester/
 keywords:
   - "crepe krepp"
   - "was ist crêpe/krepp"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Crêpe ist keine einzelne Faser, sondern eine Stoff- und Oberflächenfamilie. Die typische Struktur kann durch stark gedrehte Garne, besondere Bindungen oder Ausrüstungen entstehen; verwendet werden unter anderem Seide, Wolle, Viskose und Polyester.
+Crêpe ist keine einzelne Faser, sondern eine Stoff- und Oberflächenfamilie. Die typische Struktur kann durch stark gedrehte Garne, besondere Bindungen oder Ausrüstungen entstehen; verwendet werden unter anderem [Seide](/glossar/seide/), [Wolle](/glossar/wolle/), [Viskose](/glossar/viskose/) und [Polyester](/glossar/polyester/).
 
 ## Einfach erklärt
 
-Krepp wirkt meist matter und weniger glatt als Satin. Feine Qualitäten fließen weich, festere Varianten geben Kleidern, Hosen oder Blazern klare Form. Die leicht unregelmäßige Oberfläche kann kleine Knitter und Unebenheiten optisch ruhiger erscheinen lassen.
+Krepp wirkt meist matter und weniger glatt als [Satin](/glossar/satin/). Feine Qualitäten fließen weich, festere Varianten geben [Kleidern](/glossar/kleid/), Hosen oder [Blazern](/glossar/blazer/) klare Form. Die leicht unregelmäßige Oberfläche kann kleine Knitter und Unebenheiten optisch ruhiger erscheinen lassen.
 
 ## Worauf du achten solltest
 

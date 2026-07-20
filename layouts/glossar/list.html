@@ -590,6 +590,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function updateSearchView(query) {
+    const hasActiveQuery = query.length > 0;
     const activePanel = document.querySelector('.glossar-panel.active');
     updateResultLabel(activePanel);
     const terms = activePanel ? activePanel.querySelectorAll('.glossar-term-item, .glossar-category-card-item') : [];
@@ -618,7 +619,7 @@ document.addEventListener('DOMContentLoaded', function() {
       resultCount.hidden = visibleCount === 0;
     }
     if (noResults) {
-      noResults.hidden = visibleCount !== 0;
+      noResults.hidden = !(hasActiveQuery && visibleCount === 0);
     }
   }
 

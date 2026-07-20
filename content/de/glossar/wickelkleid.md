@@ -4,7 +4,7 @@ term: Wickelkleid
 description:
   Ein Wickelkleid wird vorne überkreuzt oder gewickelt und schafft oft eine weiche V-Linie
   und betonte Mitte.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - wickelkleid
   - kleid
@@ -76,6 +76,8 @@ Betrachte „Wickelkleid“ einmal aus der Nähe und einmal mit etwas Abstand. A
 ## ESKYNA-Merksatz
 
 Ein Wickelkleid arbeitet mit Linie und Bewegung. Es wirkt am besten, wenn es nicht zieht, sondern fließt.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Körperform](/glossar/koerperform/).
 
 ## Praxischeck
 

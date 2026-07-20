@@ -84,6 +84,8 @@ In der Beratung ist **Ring** kein starres Etikett. Der Begriff wird erst hilfrei
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [French Tuck](/glossar/french-tuck/).
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

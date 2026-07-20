@@ -4,7 +4,7 @@ term: Bleistiftrock
 description:
   Ein Bleistiftrock ist ein schmaler, gerader Rock, der klassisch, professionell oder modern
   wirken kann.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - bleistiftrock
   - rock
@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Bleistiftrock** ist ein schmaler, gerade geschnittener Rock. Er endet häufig um das Knie und wirkt klassisch, gepflegt und oft professionell.
+Ein **Bleistiftrock** ist ein schmaler, gerade geschnittener Rock. Er endet häufig um das Knie und wirkt klassisch, gepflegt und oft professionell. Als kürzere Alternative wird häufig der [Minirock](/glossar/minirock/) gewählt.
 
 ## Einfach erklärt
 

@@ -36,7 +36,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Chiffon**: Chiffon ist ein sehr leichter, transparenter Stoff mit zartem, bewegtem Fall.
+**Chiffon**: Chiffon ist ein sehr leichter, transparenter Stoff mit zartem, bewegtem Fall und wird häufig für [Satinröcke](/glossar/satinrock/) oder weich fließende Blusen eingesetzt.
 
 ## Einfach erklärt
 

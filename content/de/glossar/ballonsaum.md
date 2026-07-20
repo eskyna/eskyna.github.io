@@ -44,6 +44,7 @@ Besonders häufig findet man Ballonsäume bei Miniröcken, Kleidern, Abendlooks 
 ## Wie stylt man Ballonsaum?
 
 Beim Styling sollte der Ballonsaum im Mittelpunkt stehen. Da er bereits viel Volumen mitbringt, wirken schlichte Oberteile, reduzierte Schuhe und klare Accessoires besonders harmonisch. Je kürzer der Rock oder das Kleid, desto stärker steht die Beinpartie im Fokus.
+Ein kurzer [Kleiderschrank-Check](/glossar/kleiderschrank-check/) zeigt, ob du dafür schon passende Gegenspieler im Schrank hast.
 
 ## Styling-Tipp
 

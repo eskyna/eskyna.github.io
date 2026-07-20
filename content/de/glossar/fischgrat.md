@@ -5,6 +5,15 @@ description: "Fischgrat ist ein gebrochenes Köpermuster, dessen diagonale Linie
 category: "Farbberatung & Farbe"
 image: images/glossar/fischgrat.png
 image_alt: "Glossar-Illustration zu Fischgrat"
+relatedTerms:
+  - title: Muster
+    url: /glossar/muster/
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Wolle
+    url: /glossar/wolle/
+  - title: Blazer
+    url: /glossar/blazer/
 keywords:
   - "fischgrat"
   - "was ist fischgrat"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Die Richtung der Köperdiagonale wechselt in regelmäßigen Abständen. Dadurch entsteht die charakteristische Struktur, die an das Skelett eines Fisches erinnert.
+Die Richtung der Köperdiagonale wechselt in regelmäßigen Abständen. Dadurch entsteht die charakteristische [Struktur](/glossar/struktur/), die an das Skelett eines Fisches erinnert.
 
 ## Einfach erklärt
 
-Fischgrat findest du bei Wollstoffen, Mänteln, Blazern, Hosen, Hemden und Accessoires. Kleine Rapporte wirken fast wie eine ruhige Textur, große Varianten deutlich grafischer. Anders als beim Chevronmuster treffen die Linien häufig mit einem sichtbaren Versatz oder Bruch aufeinander.
+Fischgrat findest du bei [Wollstoffen](/glossar/wolle/), Mänteln, [Blazern](/glossar/blazer/), Hosen, Hemden und Accessoires. Kleine Rapporte wirken fast wie eine ruhige Textur, große Varianten deutlich grafischer. Als [Muster](/glossar/muster/) ist Fischgrat näher an einer gewebten Oberfläche als an einem lauten Print. Anders als feine Transparenzstoffe wie [Organza](/glossar/organza/) lebt Fischgrat von dichter Gewebestruktur. Anders als beim Chevronmuster treffen die Linien häufig mit einem sichtbaren Versatz oder Bruch aufeinander.
 
 ## Worauf du achten solltest
 

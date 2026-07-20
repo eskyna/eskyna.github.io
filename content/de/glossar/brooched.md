@@ -64,7 +64,7 @@ Brooched bringt Fokus punktgenau auf die Kleidung.
 
 Wenn du den Begriff **Brooched** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
 
-- Fühle Griff, Gewicht und Stand des Materials.
+- Fühle [Griff](/glossar/griff/), Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
 - Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
 
@@ -79,6 +79,8 @@ Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/k
 Frag dich bei **Brooched**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Materialien lohnt sich der zweite Blick. Griff, Oberfläche und Verarbeitung entscheiden oft, ob ein Teil lange gut aussieht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Brooched** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Zu einem Brooched-Look passen [Creolen](/glossar/creolen/) oft dann, wenn beide Akzente in Material oder Farbe verbunden sind.
 
 ## Verwandte Begriffe
 

@@ -72,7 +72,7 @@ consulting_focus:
 
 ## Einfach erklärt
 
-Während Stilberatung fragt, was zu dir passt, fragt Imageberatung zusätzlich, was dein Auftreten sendet. Wirkt dein Look zugänglich, klar, kreativ, vertrauenswürdig, souverän oder distanziert? Welche Signale sollen stärker werden und welche entstehen vielleicht ungewollt?
+Während Stilberatung fragt, was zu dir passt, fragt Imageberatung zusätzlich, was dein [Auftreten](/glossar/auftreten/) sendet. Wirkt dein Look zugänglich, klar, kreativ, vertrauenswürdig, souverän oder distanziert? Welche Signale sollen stärker werden und welche entstehen vielleicht ungewollt?
 
 ## Warum Imageberatung wichtig ist
 

@@ -24,6 +24,8 @@ relatedTerms:
     url: /glossar/chinos/
   - title: Lederjacke
     url: /glossar/lederjacke/
+  - title: Sneaker
+    url: /glossar/sneaker/
 faq:
   items:
     - q: Wie nutze ich „Mokassin“ im Alltag?
@@ -37,13 +39,13 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Mokassin**: Ein Mokassin ist ein weicher Schlupfschuh, oft aus Leder oder Veloursleder. Typisch ist die sichtbare Nahtführung rund um den Vorderfuß. Er wirkt weicher und entspannter als ein klassischer Loafer.
+**Mokassin**: Ein Mokassin ist ein weicher Schlupfschuh, oft aus Leder oder Veloursleder. Typisch ist die sichtbare Nahtführung rund um den Vorderfuß. Er wirkt weicher und entspannter als ein klassischer [Loafer](/glossar/loafer/).
 
 ## Einfach erklärt
 
 Mokassins sind nah am Fuß und haben oft eine flexible Sohle. Dadurch wirken sie bequem und leicht. In Glattleder erscheinen sie gepflegter. In Veloursleder wirken sie weicher und casual.
 
-Sie passen gut zu Chinos, Jeans, Stoffhosen und leichten Sommerlooks. Der Mokassin ist weniger streng als ein Loafer, aber angezogener als ein Sneaker.
+Sie passen gut zu [Chinos](/glossar/chinos/), [Jeans](/glossar/jeans/), [Stoffhosen](/glossar/stoffhose/) und leichten Sommerlooks. Der Mokassin ist weniger streng als ein [Loafer](/glossar/loafer/), aber angezogener als ein [Sneaker](/glossar/sneaker/).
 
 ## Warum Mokassin wichtig ist
 

@@ -50,6 +50,7 @@ Ein **Shopper** ist eine große Tasche mit viel Stauraum. Ursprünglich ist er v
 ## Einfach erklärt
 
 Ein Shopper kann weich und lässig fallen oder klar und strukturiert geformt sein. Weiche Modelle wirken entspannter. Feste Modelle wirken ordentlicher und professioneller.
+Wenn du eine offenere und oft noch geradlinigere Variante suchst, lohnt sich auch der Blick auf die [Tote Bag](/glossar/tote-bag/).
 
 Gerade bei großen Taschen ist die Qualität sichtbar. Material, Kanten, Henkel und Innenverarbeitung entscheiden, ob der Shopper wertig oder beliebig wirkt.
 

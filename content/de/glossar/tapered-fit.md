@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Tapered Fit ist eine gute Zwischenform. Die Hose ist nicht so eng wie Skinny oder Slim Fit, wirkt aber auch nicht so weit wie Wide Leg. Dadurch bleibt sie bequem und trotzdem strukturiert.
-Viele Chinos, Mom Jeans, Jogpants und Bundfaltenhosen nutzen diese Form. Sie wirkt modern, weil sie Volumen oben zulässt und den Look unten klar abschließt.
+Viele Chinos, Mom Jeans, Jogpants und [Bundfaltenhosen](/glossar/bundfaltenhose/) nutzen diese Form. Sie wirkt modern, weil sie Volumen oben zulässt und den Look unten klar abschließt. Damit ist Tapered Fit auch eine wichtige Basis für [Barrel Leg](/glossar/barrel-leg/) und andere gerundete Hosenformen.
 
 ## Warum dieser Begriff wichtig ist
 

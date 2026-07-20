@@ -49,6 +49,8 @@ Ein Overshirt kann offen über T-Shirt, Longsleeve oder Pullover getragen werden
 
 Typisch sind eine Knopfleiste, Hemdkragen und oft Brusttaschen. Die Länge liegt meist zwischen Hemd und Jacke.
 
+Als leichte Oberlage funktioniert auch ein [Cape](/glossar/cape/) gut, wenn du mehr Bewegung und eine weichere Schulterlinie willst.
+
 ## Warum dieser Begriff wichtig ist
 
 Für ESKYNA ist das Overshirt ein praktisches Übergangsteil. Es verbindet Komfort mit Struktur und kann einem einfachen Outfit sofort mehr Tiefe geben.

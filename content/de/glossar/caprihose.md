@@ -46,7 +46,7 @@ Eine **Caprihose** ist eine verkürzte Hose, die meist zwischen Knie und Knöche
 
 ## Einfach erklärt
 
-Die Caprihose lenkt den Blick auf den unteren Beinbereich. Deshalb sind Saumlänge und Schuh besonders wichtig. Eine kleine Veränderung der Länge kann die Wirkung stark verändern.
+Die Caprihose lenkt den Blick auf den unteren Beinbereich. Deshalb sind Saumlänge und Schuh besonders wichtig. Im Vergleich zu einer [Bermuda](/glossar/bermuda/) sitzt der Fokus stärker auf Wade und Knöchel. Eine kleine Veränderung der Länge kann die Wirkung stark verändern.
 In schmaler Form wirkt sie klassischer, in weiter Form moderner. Mit flachen Schuhen entsteht ein entspannter Look, mit Slingbacks oder Sandalen wirkt sie eleganter.
 
 ## Warum dieser Begriff wichtig ist

@@ -5,6 +5,7 @@ description:
   Optische Streckung beschreibt Stylingeffekte, die eine Person länger, ruhiger oder vertikaler
   wirken lassen.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - optische streckung
   - vertikale linie
@@ -46,6 +47,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Optische Streckung ist kein Trick, sondern ein Zusammenspiel aus Blickführung und Proportion. Sie kann subtil oder sehr deutlich wirken.
+Gerade für kleinere Körperproportionen ist die Verbindung zu [Petite Styling](/glossar/petite-styling/) praxisnah.
 
 ## Mini-Test vor dem Spiegel
 

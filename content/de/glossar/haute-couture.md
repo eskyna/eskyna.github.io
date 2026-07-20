@@ -5,6 +5,15 @@ description: "Haute Couture bezeichnet im strengen Sinn die offiziell anerkannte
 category: "Garderobe & Alltag"
 image: images/glossar/haute-couture.png
 image_alt: "Glossar-Illustration zu Haute Couture"
+relatedTerms:
+  - title: Fashion Week
+    url: /glossar/fashion-week/
+  - title: Laufsteg/Runway
+    url: /glossar/laufsteg-runway/
+  - title: Lookbook
+    url: /glossar/lookbook/
+  - title: Maßanfertigung/Custom-made
+    url: /glossar/massanfertigung-custom-made/
 keywords:
   - "haute couture"
   - "was ist haute couture"
@@ -14,7 +23,7 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Die Bezeichnung ist in Frankreich an eine geregelte Anerkennung und fachliche Kriterien gebunden. Dazu gehören unter anderem handwerkliche Expertise, individuelle Arbeit und die Präsentation eigener Kollektionen nach festgelegtem Rahmen.
+Die Bezeichnung ist in Frankreich an eine geregelte Anerkennung und fachliche Kriterien gebunden. Dazu gehören unter anderem handwerkliche Expertise, individuelle Arbeit und die Präsentation eigener Kollektionen nach festgelegtem Rahmen, häufig rund um die [Fashion Week](/glossar/fashion-week/).
 
 ## Einfach erklärt
 
@@ -23,8 +32,8 @@ Haute Couture wird für einzelne Kundinnen und Kunden angepasst und kann sehr vi
 ## Worauf du achten solltest
 
 - Unterscheide die offizielle Bezeichnung von allgemeiner Couture- oder Atelierarbeit.
-- Achte auf Handwerk, Passform, Material und individuelle Anpassung statt nur auf den Preis.
-- Betrachte Laufstegstücke auch als kreative Forschung, nicht nur als sofort kaufbare Garderobe.
+- Achte auf Handwerk, [Passform](/glossar/passform/), Material und individuelle Anpassung statt nur auf den Preis.
+- Betrachte [Laufstegstücke](/glossar/laufsteg-runway/) auch als kreative Forschung, nicht nur als sofort kaufbare Garderobe.
 
 ## Typisches Missverständnis
 

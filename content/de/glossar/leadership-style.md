@@ -83,6 +83,8 @@ Frag dich bei **Leadership Style**: Welche Aufgabe soll dieses Element im Outfit
 
 Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Kompetenz, Offenheit, Ruhe oder Kreativität sichtbar macht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Leadership Style** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Im beruflichen Kontext entscheidet oft der [First Impression](/glossar/first-impression/), bevor Inhalte wirken.
+
 ## Verwandte Begriffe
 
 - [Executive Presence](/glossar/executive-presence/)

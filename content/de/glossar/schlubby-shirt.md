@@ -49,6 +49,8 @@ Besonders spannend wird der Look, wenn das Shirt zu eleganteren Teilen kombinier
 
 Für eine moderne Silhouette das Schlubby Shirt vorne leicht in den Bund stecken oder mit einem Rock, einer weiten Hose oder einer Kurzjacke kombinieren. So bleibt der Look entspannt, bekommt aber trotzdem Form.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Gelb](/glossar/gelb/).
+
 ## Verwandte Begriffe
 
 - [Oversized](/glossar/oversized/)

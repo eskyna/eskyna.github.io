@@ -81,6 +81,8 @@ Oliv ist besonders interessant für warme oder gedämpfte Farbwelten. Wenn es na
 
 Oliv wirkt modern, wenn es bewusst veredelt wird. Der Schnitt entscheidet, ob es funktional oder elegant erscheint.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fascinator](/glossar/fascinator/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Oliv** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.

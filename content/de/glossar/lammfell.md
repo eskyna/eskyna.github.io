@@ -46,6 +46,8 @@ Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer S
 
 ## Warum Lammfell wichtig ist
 
+Im Winter wirkt eine [Bootcut](/glossar/bootcut/) oft stimmig zu Lammfell, weil die Weite am Saum das Volumen von Oberteilen ausgleicht.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Lammfell, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

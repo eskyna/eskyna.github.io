@@ -4,6 +4,7 @@ term: Ledergürtel
 description: Ein Ledergürtel ist ein klassisches Accessoire, das Hose, Rock oder Kleid strukturiert
   und den Look abschließt.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - ledergürtel
   - materialien
@@ -50,6 +51,8 @@ Für ESKYNA sind Accessoires ein präzises Mittel, um Persönlichkeit sichtbar z
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Ledergürtel, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+
+Ein Ledergürtel kann den Look stimmig rahmen, wenn Schuhe wie [Chelsea Boots](/glossar/chelsea-boots/) Material und Ton aufnehmen.
 
 ## Worauf du achten solltest
 

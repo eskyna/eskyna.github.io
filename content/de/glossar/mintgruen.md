@@ -49,6 +49,8 @@ Mintgrün muss nicht als Komplettlook getragen werden. Oft reicht ein einzelnes 
 
 Für einen einfachen Einstieg Mintgrün als Accessoire tragen: Tasche, Tuch, Sandalen oder Sneaker bringen Farbe in den Look, ohne ihn zu dominieren. Fortgeschritten wirkt ein Ton-in-Ton-Look mit Creme, Weiss und hellen Grüntönen.
 
+Mit klarer [Farbharmonie](/glossar/farbharmonie/) wirkt Mintgrün frisch, ohne dominant zu werden.
+
 ## Verwandte Begriffe
 
 - [Gruen](/glossar/gruen/)

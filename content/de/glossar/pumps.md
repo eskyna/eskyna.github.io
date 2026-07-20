@@ -3,7 +3,7 @@ title: Was sind Pumps?
 term: Pumps
 description: Pumps sind elegante, geschlossene Schuhe mit Absatz, die Looks formeller, länger und
   klarer wirken lassen können.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - pumps
   - schuhe
@@ -45,13 +45,13 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Pumps können spitz, rund oder mandelförmig sein. Der Absatz kann niedrig, mittel oder hoch sein. Schon diese Details verändern die Wirkung stark. Ein spitzer schwarzer Pumps wirkt anders als ein nudefarbener Blockabsatz-Pumps.
+Pumps können spitz, rund oder mandelförmig sein. Der Absatz kann niedrig, mittel oder hoch sein. Schon diese Details verändern die Wirkung stark. Ein spitzer schwarzer Pumps wirkt anders als ein nudefarbener Blockabsatz-Pumps oder ein feiner [Slingback](/glossar/slingback/).
 
 Pumps strecken optisch, weil sie den Fuß verlängern und die Haltung verändern. Gleichzeitig müssen sie bequem genug sein, damit der Look nicht angestrengt wirkt.
 
 ## Warum dieser Begriff wichtig ist
 
-Für ESKYNA sind Pumps ein Wirkungswerkzeug. Sie können einem Outfit Eleganz geben, sollten aber nie nur aus Pflichtgefühl getragen werden. Stil braucht auch Beweglichkeit.
+Für ESKYNA sind Pumps ein Wirkungswerkzeug. Sie können einem Outfit Eleganz geben, sollten aber nie nur aus Pflichtgefühl getragen werden. Stil braucht auch Beweglichkeit. Gegenüber [Loafern](/glossar/loafer/) oder [Ballerinas](/glossar/ballerina/) wirken sie schneller formell.
 
 ## Worauf du achten solltest
 

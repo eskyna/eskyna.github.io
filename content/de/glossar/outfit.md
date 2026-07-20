@@ -46,6 +46,8 @@ Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste S
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 
+Schon eine [Cap](/glossar/cap/) kann ein Outfit deutlich in Richtung sportlich verschieben und damit die gesamte Aussage verändern.
+
 ## Warum Outfit wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

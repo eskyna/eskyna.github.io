@@ -47,6 +47,7 @@ lastmod: "2026-07-09"
 Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann.
 
 Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt.
+In vielen Konstellationen liegt der formale Rahmen zwischen Alltag und [Cocktail](/glossar/cocktail/), daher entscheidet die Materialwahl über die Gesamtwirkung.
 
 ## Warum Standesamt-Look wichtig ist
 

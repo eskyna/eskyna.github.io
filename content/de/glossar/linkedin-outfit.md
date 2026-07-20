@@ -78,6 +78,7 @@ Ein **LinkedIn-Outfit** ist ein Look, der für berufliche Sichtbarkeit geplant w
 LinkedIn-Bilder sind oft der erste Berührungspunkt. Deshalb wirkt Kleidung hier wie eine verdichtete Stilbotschaft.
 
 Ein gutes LinkedIn-Outfit ist nicht generisch. Es passt zur Branche, zur Position und zur Art, wie Sie wahrgenommen werden möchten.
+Wenn der Auftritt nicht nur auf Fotos, sondern in digitalen Terminen funktionieren soll, wird daraus schnell ein [Video-Call-Outfit](/glossar/video-call-outfit/).
 
 ## Warum der Begriff wichtig ist
 
@@ -117,11 +118,11 @@ Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehrere
 
 ## Beratungssituation im echten Leben
 
-Bei **LinkedIn-Outfit** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **LinkedIn-Outfit** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **LinkedIn-Outfit** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **LinkedIn-Outfit** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -132,7 +133,7 @@ Typisch ist eine Kundin oder ein Kunde, der **LinkedIn-Outfit** grundsätzlich v
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **LinkedIn-Outfit** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Präsenz ansehen](/praesenz/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **LinkedIn-Outfit** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Präsenz ansehen](/praesenz/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

@@ -5,6 +5,15 @@ description: "Gabardine ist ein dicht gewebter Köperstoff mit markanter diagona
 category: "Materialien & Details"
 image: images/glossar/gabardine.png
 image_alt: "Glossar-Illustration zu Gabardine"
+relatedTerms:
+  - title: Trenchcoat
+    url: /glossar/trenchcoat/
+  - title: Wolle
+    url: /glossar/wolle/
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Flanell
+    url: /glossar/flanell/
 keywords:
   - "gabardine"
   - "was ist gabardine"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Gabardine wird in einer steilen Köperbindung hergestellt und kann aus Wolle, Baumwolle oder Chemiefasern bestehen. Die dichte Oberfläche ist relativ robust und fällt je nach Faser glatt bis fest.
+Gabardine wird in einer steilen Köperbindung hergestellt und kann aus [Wolle](/glossar/wolle/), [Baumwolle](/glossar/baumwolle/) oder Chemiefasern wie [Polyester](/glossar/polyester/) bestehen. Die dichte Oberfläche ist relativ robust und fällt je nach Faser glatt bis fest.
 
 ## Einfach erklärt
 
-Du findest Gabardine häufig bei Trenchcoats, Anzügen, Hosen, Röcken und Uniformteilen. Der Stoff wirkt geordneter als weicher Flanell und weniger lässig als grober Twill. Feine Wollgabardine kann elegant fließen, Baumwollgabardine besitzt oft mehr Stand.
+Du findest Gabardine häufig bei [Trenchcoats](/glossar/trenchcoat/), Anzügen, Hosen, [Röcken](/glossar/rock/) und Uniformteilen. Der Stoff wirkt geordneter als weicher [Flanell](/glossar/flanell/) und weniger lässig als grober Twill. Feine Wollgabardine kann elegant fließen, Baumwollgabardine besitzt oft mehr Stand.
 
 ## Worauf du achten solltest
 

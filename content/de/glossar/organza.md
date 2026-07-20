@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Organza, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Bei festlicher Wirkung lässt sich Organza sauber in [Cocktail Attire](/glossar/cocktail-attire/) einordnen, wenn Transparenz und Volumen kontrolliert bleiben.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Organza im Outfit übernimmt.

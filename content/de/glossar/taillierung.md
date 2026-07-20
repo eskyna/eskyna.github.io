@@ -4,6 +4,7 @@ term: Taillierung
 description: Taillierung beschreibt, wie Kleidung die Körpermitte formt oder betont, durch Schnitt,
   Abnäher, Gürtel oder Styling.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - taillierung
   - schnitt
@@ -46,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Taillierung bedeutet nicht automatisch eng. Ein Blazer kann leicht tailliert sein, ohne den Körper einzuengen. Ein Kleid kann durch eine Naht, einen Gürtel oder eine Wickelform die Körpermitte betonen. Auch ein in den Bund gestecktes Shirt kann Taillierung erzeugen.
+Taillierung bedeutet nicht automatisch eng. Ein Blazer kann leicht tailliert sein, ohne den Körper einzuengen. Ein Kleid kann durch eine Naht, einen Gürtel oder eine Wickelform die Körpermitte betonen. Auch ein in den Bund gestecktes Shirt kann Taillierung erzeugen. Häufig sorgen sauber platzierte [Abnäher](/glossar/abnaeher/) dafür, dass diese Form ruhig statt spannungsvoll wirkt.
 
 Die Wirkung hängt stark von der Linie ab. Eine weiche Taillierung wirkt feminin und natürlich. Eine sehr präzise Taillierung wirkt klarer und angezogener. Keine Taillierung kann modern und reduziert wirken, wenn Proportion und Material stimmen.
 
@@ -54,13 +55,13 @@ Die Wirkung hängt stark von der Linie ab. Eine weiche Taillierung wirkt feminin
 
 Taillierung beeinflusst die Silhouette. Sie kann einem Outfit Struktur geben, Längen ordnen und Volumen ausgleichen. Besonders bei Blazern, Kleidern, Mänteln und weiten Hosen entscheidet die Körpermitte oft darüber, ob der Look bewusst oder zufällig wirkt.
 
-Für ESKYNA ist Taillierung kein Zwang. Sie ist ein Werkzeug. Man kann sie stark, subtil oder gar nicht einsetzen, je nachdem welche Wirkung entstehen soll.
+Für ESKYNA ist Taillierung kein Zwang. Sie ist ein Werkzeug. Man kann sie stark, subtil oder gar nicht einsetzen, je nachdem welche Wirkung entstehen soll. Bei [Ballonärmeln](/glossar/ballonaermel/) hilft sie oft, das zusätzliche Volumen bewusst zu erden.
 
 ## Worauf du bei Taillierung achten solltest
 
 - Die Taille muss nicht eng sitzen, um sichtbar zu sein.
 - Ein Gürtel sollte zur Proportion des Outfits passen.
-- Abnäher sollten Form geben, nicht spannen.
+- [Abnäher](/glossar/abnaeher/) sollten Form geben, nicht spannen.
 - Taillierung wirkt anders bei festen und fließenden Stoffen.
 - Auch eine offene Jacke kann die Taille durch Linienführung andeuten.
 

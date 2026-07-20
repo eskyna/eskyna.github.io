@@ -74,6 +74,8 @@ Betrachte „Western Boots“ einmal aus der Nähe und einmal mit etwas Abstand.
 
 Western Boots brauchen Ruhe um sich herum. Dann wirken sie nicht kostümiert, sondern persönlich.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Königsblau](/glossar/koenigsblau/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Western Boots** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schuhe schließen die Silhouette ab. Sie verändern Formalität, Beinlinie und Haltung eines Outfits sofort.

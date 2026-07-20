@@ -49,7 +49,7 @@ Sie funktionieren gut, wenn ein Look angezogen wirken soll, aber hohe Absätze u
 
 ## Warum Kitten Heel wichtig ist
 
-Der Kitten Heel ist ein guter Kompromiss zwischen Komfort und Eleganz. Er passt gut zu Business Looks, Kleidern, Röcken und verkürzten Hosen.
+Der Kitten Heel ist ein guter Kompromiss zwischen Komfort und Eleganz. Er passt gut zu [Business](/glossar/business/)-Looks, Kleidern, Röcken und verkürzten Hosen.
 
 ## Worauf du achten solltest
 

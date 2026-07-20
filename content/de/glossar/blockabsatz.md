@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Blockabsatz wirkt stärker und standfester als ein Stiletto. Dadurch kann er einem Look mehr Boden geben. In feiner Form wirkt er elegant, in grober Form eher modern oder derber.
+Der Blockabsatz wirkt stärker und standfester als ein Stiletto. Dadurch kann er einem Look mehr Boden geben. In feiner Form wirkt er elegant, in grober Form eher [modern](/glossar/modern/) oder derber.
 
 Besonders bei längeren Tagen ist ein Blockabsatz oft praktischer als ein sehr schmaler Absatz. Trotzdem bleibt der Look angezogener als mit flachen Schuhen.
 

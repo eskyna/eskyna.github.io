@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Qualitätsmerkmale sind oft unscheinbar. Sie zeigen sich in Verarbeitung, Haltbarkeit, Sitz, Oberfläche und darin, wie ein Kleidungsstück nach mehrmaligem Tragen wirkt.
+Qualitätsmerkmale sind oft unscheinbar. Sie zeigen sich in Verarbeitung, Haltbarkeit, Sitz, Oberfläche und darin, wie ein Kleidungsstück nach mehrmaligem Tragen wirkt. Die richtige [Pflege](/glossar/pflege/) entscheidet dabei häufig über die tatsächliche Lebensdauer.
 
 Für ESKYNA ist Qualität kein Luxuswort. Sie bedeutet, dass ein Teil im Alltag trägt, hält und die gewünschte Wirkung zuverlässig unterstützt.
 

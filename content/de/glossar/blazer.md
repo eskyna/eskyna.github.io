@@ -29,8 +29,6 @@ relatedTerms:
     url: /glossar/passform/
   - title: Taillierung
     url: /glossar/taillierung/
-  - title: Weste
-    url: /glossar/weste/
 faq:
   items:
     - q: Wie nutze ich „Blazer“ im Alltag?
@@ -45,13 +43,13 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Blazer** ist eine strukturierte Jacke mit Revers, Knöpfen und oft einer klaren Schulterlinie. Er kann formell, modern, lässig oder elegant wirken. Entscheidend sind Schnitt, Material, Farbe und Passform.
+Ein **Blazer** ist eine strukturierte Jacke mit Revers, Knöpfen und oft einer klaren Schulterlinie. Er kann formell, modern, lässig oder elegant wirken. Entscheidend sind Schnitt, Material, Farbe und Passform. Im formelleren Bereich grenzt er sich von der [Anzugjacke](/glossar/anzugjacke/) ab, die Teil eines abgestimmten Sets ist.
 
 ## Einfach erklärt
 
 Ein Blazer ist nicht automatisch ein Business-Teil. Ein schmaler schwarzer Blazer wirkt anders als ein weiter Wollblazer in Beige oder ein kurzer Blazer aus Leinen. Die Form bestimmt, ob der Look streng, weich, urban oder entspannt erscheint.
 
-Ein guter Blazer rahmt den Oberkörper. Er gibt einem einfachen Shirt mehr Struktur, macht eine Jeans gepflegter und bringt Ruhe in Kombinationen mit weiten Hosen, Kleidern oder Röcken. Besonders stark wirkt er, wenn Schulter, Länge und Material zur Person passen.
+Ein guter Blazer rahmt den Oberkörper. Er gibt einem einfachen Shirt mehr Struktur, macht eine Jeans gepflegter und bringt Ruhe in Kombinationen mit weiten Hosen, Kleidern oder Röcken. Besonders stark wirkt er, wenn Schulter, Länge und Material zur Person passen. Genau diese klare Schulterlinie ist ein zentrales Element von [80s Luxury](/glossar/80s-luxury/).
 
 ## Warum ein Blazer wichtig ist
 
@@ -66,6 +64,8 @@ Für ESKYNA ist der Blazer ein gutes Beispiel dafür, wie Kleidung Haltung sicht
 - Das Revers beeinflusst die Gesichtsrahmung und die vertikale Linie.
 - Der Stoff entscheidet, ob der Blazer streng, weich oder lässig wirkt.
 - Die Knopfhöhe verändert die optische Taille.
+
+Auch die [Ärmellänge](/glossar/aermellaenge/) entscheidet mit, ob ein Blazer präzise, lässig oder unfertig wirkt.
 
 ## Typische Missverständnisse
 

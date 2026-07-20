@@ -5,6 +5,7 @@ description:
   Der Schnitt bestimmt Linien, Volumen und Bewegungsrichtung eines Kleidungsstücks und prägt damit Silhouette
   und Stilwirkung.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - schnitt
   - schnitt proportion
@@ -68,7 +69,7 @@ offer_bridge:
 
 ## Definition
 
-**Schnitt**: Schnitt beschreibt die Konstruktion eines Kleidungsstücks: Linien, Nähte, Abnäher, Weite, Länge, Schulterform, Taillierung und Volumen. Der Schnitt entscheidet, wie ein Teil fällt und welche Silhouette entsteht.
+**Schnitt**: Schnitt beschreibt die Konstruktion eines Kleidungsstücks: Linien, Nähte, Abnäher, Weite, Länge, Schulterform, Taillierung und Volumen. Der Schnitt entscheidet, wie ein Teil fällt und welche [Silhouette](/glossar/silhouette/) entsteht.
 
 ## Einfach erklärt
 
@@ -76,7 +77,7 @@ Zwei schwarze Blazer können völlig unterschiedlich wirken, wenn der Schnitt an
 
 ## Warum Schnitt wichtig ist
 
-Der richtige Schnitt unterstützt deine Proportionen und deine gewünschte Wirkung. Er kann Präsenz geben, Bewegung schaffen, Ruhe bringen oder Dynamik erzeugen. Wenn der Schnitt nicht passt, helfen Farbe und Styling nur begrenzt.
+Der richtige Schnitt unterstützt deine [Proportionen](/glossar/proportion/) und deine gewünschte Wirkung. Er kann Präsenz geben, Bewegung schaffen, Ruhe bringen oder Dynamik erzeugen. Wenn der Schnitt nicht passt, helfen Farbe und Styling nur begrenzt.
 
 ## Blick aus der Beratung
 
@@ -103,7 +104,7 @@ Schnitt wird oft erst bemerkt, wenn etwas nicht funktioniert. Dabei ist er einer
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-Schnitt ist die Konstruktion, Passform die Wirkung am Körper. Ein guter Schnitt kann trotzdem schlecht passen, wenn Größe, Proportion oder Material nicht stimmen.
+Schnitt ist die Konstruktion, [Passform](/glossar/passform/) die Wirkung am Körper. Ein guter Schnitt kann trotzdem schlecht passen, wenn Größe, Proportion oder Material nicht stimmen.
 
 ## Nächster Schritt
 
@@ -117,11 +118,11 @@ Der Schnitt ist die unsichtbare Zeichnung, der dein Outfit folgt.
 
 ## Beratungssituation im echten Leben
 
-Bei **Schnitt** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Schnitt** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Schnitt** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Schnitt** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -132,7 +133,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Schnitt** grundsätzlich versteht,
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Schnitt** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Schnitt** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

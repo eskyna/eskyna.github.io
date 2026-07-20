@@ -46,6 +46,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Klare Kaufkriterien reduzieren spontane Fehlkäufe, weil sie ein Teil nicht nur nach Gefallen, sondern nach Funktion prüfen.
+Wenn du diese Kriterien nicht nur vor dem Kauf, sondern im ganzen Schrank anwenden willst, hilft ein [Wardrobe Audit](/glossar/wardrobe-audit/).
 
 ## Mini-Test vor dem Spiegel
 

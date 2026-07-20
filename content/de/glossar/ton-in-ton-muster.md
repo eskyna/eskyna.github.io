@@ -75,7 +75,7 @@ Ton-in-Ton-Muster wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wi
 
 Wenn du den Begriff **Ton-in-Ton-Muster** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
 
-- Fühle Griff, Gewicht und Stand des Materials.
+- Fühle [Griff](/glossar/griff/), Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
 - Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
 
@@ -84,6 +84,8 @@ Wenn du den Begriff **Ton-in-Ton-Muster** auf ein Outfit überträgst, prüfe ni
 In der Beratung ist **Ton-in-Ton-Muster** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jeansjacke](/glossar/jeansjacke/).
 
 ## Verwandte Begriffe
 

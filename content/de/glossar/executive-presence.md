@@ -52,7 +52,7 @@ Kleidung spielt dabei eine wichtige Rolle. Schnitte, Farben, Materialqualität u
 
 ## Warum der Begriff wichtig ist
 
-In führenden Rollen wird Wirkung schnell mitgelesen. Executive Presence hilft, Kleidung und Auftreten als Teil beruflicher Glaubwürdigkeit zu verstehen.
+In führenden Rollen wird Wirkung schnell mitgelesen. Executive Presence hilft, Kleidung und Auftreten als Teil beruflicher Glaubwürdigkeit zu verstehen. Gerade im [Bewerbungsgespräch](/glossar/bewerbungsgespraech/) entscheidet dieser erste Eindruck oft mit.
 
 ## Typische Missverständnisse
 

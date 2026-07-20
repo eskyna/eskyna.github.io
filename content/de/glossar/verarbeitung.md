@@ -87,6 +87,8 @@ In der Beratung ist **Verarbeitung** kein starres Etikett. Der Begriff wird erst
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Klare Farben](/glossar/klare-farben/).
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

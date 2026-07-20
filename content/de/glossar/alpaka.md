@@ -5,6 +5,15 @@ description: "Alpaka ist eine feine Tierfaser mit hoher Wärmeleistung, weichem 
 category: "Materialien & Details"
 image: images/glossar/alpaka.png
 image_alt: "Glossar-Illustration zu Alpaka"
+relatedTerms:
+  - title: Wolle
+    url: /glossar/wolle/
+  - title: Strick
+    url: /glossar/strick/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Polyamid
+    url: /glossar/polyamid/
 keywords:
   - "alpaka"
   - "was ist alpaka"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Alpakafaser stammt vom Alpaka, einem südamerikanischen Kameliden. Sie wird für Strick, Mäntel, Schals und hochwertige Mischgewebe verwendet und kann je nach Feinheit sehr weich oder spürbar kräftiger sein.
+Alpakafaser stammt vom Alpaka, einem südamerikanischen Kameliden. Sie wird für [Strick](/glossar/strick/), Mäntel, Schals und hochwertige Mischgewebe verwendet und kann je nach Feinheit sehr weich oder spürbar kräftiger sein.
 
 ## Einfach erklärt
 
-Alpaka wärmt bei vergleichsweise geringem Gewicht und wirkt oft glatter und weniger elastisch als klassische Schurwolle. Dadurch fallen Strickteile weich, können aber schneller Länge entwickeln. Mischungen mit Wolle oder Polyamid werden häufig eingesetzt, um Formstabilität und Haltbarkeit zu verbessern.
+Alpaka wärmt bei vergleichsweise geringem Gewicht und wirkt oft glatter und weniger elastisch als klassische [Wolle](/glossar/wolle/). Dadurch fallen Strickteile weich, können aber schneller Länge entwickeln. Mischungen mit Wolle oder [Polyamid](/glossar/polyamid/) werden häufig eingesetzt, um Formstabilität und Haltbarkeit zu verbessern. Dabei spielt auch der [Materialfall](/glossar/materialfall/) eine große Rolle.
 
 ## Worauf du achten solltest
 

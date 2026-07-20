@@ -2,7 +2,7 @@
 title: Was bedeutet Beach Formal?
 term: Beach Formal
 description: Beach Formal beschreibt festliche Kleidung für Strandhochzeiten oder Events am Wasser.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - beach formal
   - dresscode
@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Dresscode bleibt anspruchsvoll, aber Stoffe, Schuhe und Säume müssen beweglich und klima-tauglich sein. Genau diese Mischung macht Beach Formal besonders.
+Der Dresscode bleibt anspruchsvoll, aber Stoffe, Schuhe und [Säume](/glossar/saum/) müssen beweglich und klima-tauglich sein. Genau diese Mischung macht Beach Formal besonders.
 
 ## Warum der Begriff wichtig ist
 

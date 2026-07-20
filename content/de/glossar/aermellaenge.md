@@ -5,6 +5,7 @@ description:
   Die Ärmellänge beschreibt, wo ein Ärmel endet und wie stark Handgelenk, Arm und Proportion
   sichtbar werden.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - aermellänge
   - schnitt proportion
@@ -52,6 +53,7 @@ Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Ärmellänge, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Eine stimmige Ärmellänge macht die [Garderobe](/glossar/garderobe/) verlässlicher, weil mehr Teile ohne Korrekturen kombinierbar bleiben.
 
 ## Worauf du achten solltest
 

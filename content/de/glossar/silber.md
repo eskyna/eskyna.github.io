@@ -47,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Silber
 
-Silber ist die kühle, klare Seite von Metallic. Es bringt Licht in den Look, wirkt aber sachlicher und moderner als Gold.
+Silber ist die kühle, klare Seite von Metallic. Es bringt Licht in den Look, wirkt aber sachlicher und moderner als [Gold](/glossar/gold/).
 
 ## Wie Silber wirkt
 
@@ -78,7 +78,7 @@ Im Business funktioniert Silber besonders gut als Schmuck, Uhr, Brillenfassung o
 
 ## Für wen und wo Silber funktioniert
 
-Silber passt oft gut zu kühlen Farbwelten. Wenn Silber zu hart wirkt, kann mattes Silber, Roségold oder ein weicherer Metallton angenehmer sein.
+Silber passt oft gut zu kühlen Farbwelten. Wenn Silber zu hart wirkt, kann mattes Silber, [Roségold](/glossar/rosegold/) oder ein weicherer Metallton angenehmer sein.
 
 ## ESKYNA-Merksatz
 

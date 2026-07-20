@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Mules wirken leichter als geschlossene Schuhe, aber oft eleganter als einfache Sandalen. Ein spitzer Mule mit Absatz wirkt abendlich. Ein flacher Ledermule wirkt modern und alltagstauglich.
+Mules wirken leichter als geschlossene Schuhe, aber oft [eleganter](/glossar/elegant/) als einfache Sandalen. Ein spitzer Mule mit Absatz wirkt abendlich. Ein flacher Ledermule wirkt modern und alltagstauglich.
 
 Da die Ferse sichtbar bleibt, spielt die Fußpflege und die Passform eine größere Rolle. Der Schuh sollte sicher sitzen und beim Gehen nicht klappern.
 

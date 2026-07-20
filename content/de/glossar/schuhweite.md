@@ -5,6 +5,15 @@ description: "Die Schuhweite beschreibt, wie viel Raum ein Schuh in Breite und U
 category: "Schuhe"
 image: images/glossar/schuhweite.png
 image_alt: "Glossar-Illustration zu Schuhweite"
+relatedTerms:
+  - title: Passform
+    url: /glossar/passform/
+  - title: Oxford-Schuh
+    url: /glossar/oxford-schuh/
+  - title: Derby-Schuh
+    url: /glossar/derby-schuh/
+  - title: Monkstrap
+    url: /glossar/monkstrap/
 keywords:
   - "schuhweite"
   - "was ist schuhweite"
@@ -18,13 +27,13 @@ Weiten werden je nach Marke und Größensystem mit Buchstaben, Zahlen oder Begri
 
 ## Einfach erklärt
 
-Die richtige Länge allein garantiert keine gute Passform. Ein zu schmaler Schuh drückt seitlich, während ein zu weiter Schuh rutschen und den Fuß verkrampfen lassen kann. Auch Spannhöhe, Leistenform und Zehenbox beeinflussen, wie weit ein Modell tatsächlich wirkt.
+Die richtige Länge allein garantiert keine gute [Passform](/glossar/passform/). Ein zu schmaler Schuh drückt seitlich, während ein zu weiter Schuh rutschen und den Fuß verkrampfen lassen kann. Auch Spannhöhe, Leistenform und Zehenbox beeinflussen, wie weit ein Modell tatsächlich wirkt.
 
 ## Worauf du achten solltest
 
 - Miss beide Füße und orientiere dich am größeren beziehungsweise breiteren Fuß.
 - Prüfe Druck am Ballen und seitliches Rutschen im Gehen.
-- Vergleiche die Weitenangabe immer innerhalb der jeweiligen Marke und Leistenform.
+- Vergleiche die Weitenangabe immer innerhalb der jeweiligen Marke und Leistenform, auch zwischen [Oxford](/glossar/oxford-schuh/), [Derby](/glossar/derby-schuh/) und [Monkstrap](/glossar/monkstrap/).
 
 ## Typisches Missverständnis
 

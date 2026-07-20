@@ -37,6 +37,8 @@ lastmod: "2026-07-18"
 
 Gut gewählte Nude-Töne wirken ruhig und elegant. Sie sind relevant für Schuhe, Unterwäsche, Anlassmode und monochrome Looks.
 
+Für helle Kombinationen kann [Cloud Dancer](/glossar/cloud-dancer/) als neutraler Gegenpol zu rosigen oder beigen Nude-Tönen dienen.
+
 ## Beratungsblick
 
 Der beste Nude-Ton ist der, der unter deinem Stoff am wenigsten sichtbar wird oder als bewusster weicher Kontrast funktioniert.

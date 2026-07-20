@@ -76,6 +76,8 @@ Frag dich bei **Wardrobe Audit**: Welche Aufgabe soll dieses Element im Outfit �
 
 Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Wardrobe Audit** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knopfleiste](/glossar/knopfleiste/).
+
 ## Verwandte Begriffe
 
 - [Kleiderschrank-Check](/glossar/kleiderschrank-check/)

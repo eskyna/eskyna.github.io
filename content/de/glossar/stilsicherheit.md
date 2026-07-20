@@ -97,6 +97,8 @@ In der Beratung ist **Stilsicherheit** kein starres Etikett. Der Begriff wird er
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Hoodie](/glossar/hoodie/).
+
 ## Verwandte Begriffe
 
 - [Stil](/glossar/stil/)

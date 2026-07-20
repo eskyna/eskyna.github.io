@@ -138,6 +138,8 @@ Unterstützung wird sinnvoll, wenn dein Kleiderschrank Aufwand erzeugt, statt di
 
 <!-- commercial-depth-end -->
 
+Beim Einkauf mit Begleitung hilft ein klares Bild von [Cottagecore](/glossar/cottagecore/), damit Entscheidungen leichter fallen.
+
 ## Verwandte Begriffe
 
 - [Signature Look](/glossar/signature-look/)

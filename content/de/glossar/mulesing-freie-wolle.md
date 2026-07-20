@@ -48,6 +48,8 @@ lastmod: "2026-07-09"
 
 Der Begriff ist relevant für Menschen, die Materialwahl nicht nur nach Optik und Griff, sondern auch nach Tierwohl und Herstellungsbedingungen betrachten.
 
+In diesem Zusammenhang wird auch [Mohair](/glossar/mohair/) häufig als weitere Naturfaser diskutiert.
+
 ## Mini-Test vor dem Spiegel
 
 Betrachte „Mulesing-freie Wolle“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
@@ -75,6 +77,8 @@ Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/k
 Frag dich bei **Mulesing-freie Wolle**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Materialien lohnt sich der zweite Blick. Griff, Oberfläche und Verarbeitung entscheiden oft, ob ein Teil lange gut aussieht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Mulesing-freie Wolle** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Farbpalette](/glossar/farbpalette/).
 
 ## Verwandte Begriffe
 

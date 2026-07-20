@@ -39,7 +39,7 @@ Eine **Ballonhose** ist eine Hose mit runder, voluminöser Form, die an Hüfte u
 
 Balloon Trousers sind nicht einfach nur weit. Die Form ist gebaut, fast architektonisch. Sie schafft Abstand zum Koerper, ohne formlos zu werden, und bringt Bewegung in den Look.
 
-Je nach Material wirkt die Ballonhose casual, avantgardistisch oder elegant. Leichte Stoffe wirken weich und sommerlich, festere Stoffe klar und skulptural.
+Je nach Material wirkt die Ballonhose casual, avantgardistisch oder elegant. Leichte Stoffe wirken weich und sommerlich, festere Stoffe klar und skulptural. Besonders nah liegt die Form an [Barrel Leg](/glossar/barrel-leg/), wirkt aber meist noch runder.
 
 ## ESKYNA-Extra: Tragbarer Raum
 

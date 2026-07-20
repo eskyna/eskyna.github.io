@@ -4,6 +4,7 @@ term: Slim Fit
 description: Slim Fit bezeichnet eine schmale Passform, die körpernah sitzt, aber nicht so eng sein
   muss wie Skinny.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - slim fit
   - passform
@@ -75,6 +76,8 @@ Für ESKYNA ist Slim Fit ein gutes Beispiel dafür, dass schmal nicht automatisc
 ## ESKYNA-Merksatz
 
 Slim Fit wirkt gut, wenn die Linie ruhig bleibt. Schmal ist nur dann elegant, wenn der Körper darin frei bleibt.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Griff](/glossar/griff/).
 
 ## Praxischeck
 

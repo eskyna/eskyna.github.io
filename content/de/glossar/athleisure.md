@@ -5,6 +5,15 @@ description: "Athleisure verbindet Elemente von Sportbekleidung mit alltagstaugl
 category: "Stil & Wirkung"
 image: images/glossar/athleisure.png
 image_alt: "Glossar-Illustration zu Athleisure"
+relatedTerms:
+  - title: Sneaker
+    url: /glossar/sneaker/
+  - title: Leggings
+    url: /glossar/leggings/
+  - title: Oversized
+    url: /glossar/oversized/
+  - title: Proportion
+    url: /glossar/proportion/
 keywords:
   - "athleisure"
   - "was ist athleisure"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Leggings, Jogger, Sneaker, Funktionsjacken, Poloshirts oder sportliche Strickteile werden so kombiniert, dass Komfort und urbane Alltagstauglichkeit zusammenkommen.
+[Leggings](/glossar/leggings/), Jogger, [Sneaker](/glossar/sneaker/), Funktionsjacken, Poloshirts oder sportliche Strickteile werden so kombiniert, dass Komfort und urbane Alltagstauglichkeit zusammenkommen.
 
 ## Einfach erklärt
 
-Nicht jedes Athleisure-Teil ist für intensiven Sport gemacht, und nicht jede Funktionskleidung wirkt automatisch gepflegt im Alltag. Ein stimmiger Look entsteht durch saubere Materialien, kontrollierte Proportionen und bewusste Brüche, etwa Leggings mit langem Mantel oder Track Pants mit feinem Strick.
+Nicht jedes Athleisure-Teil ist für intensiven Sport gemacht, und nicht jede Funktionskleidung wirkt automatisch gepflegt im Alltag. Ein stimmiger Look entsteht durch saubere Materialien, kontrollierte [Proportionen](/glossar/proportion/) und bewusste Brüche, etwa Leggings mit langem Mantel oder Track Pants mit feinem Strick. Auch [Oversized](/glossar/oversized/) kann hier funktionieren, wenn die Linie klar bleibt.
 
 ## Worauf du achten solltest
 

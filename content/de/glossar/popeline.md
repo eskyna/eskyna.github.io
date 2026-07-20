@@ -85,6 +85,8 @@ In der Beratung ist **Popeline** kein starres Etikett. Der Begriff wird erst hil
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Wenn du Alltagstauglichkeit bewertest, vergleiche Popeline auch mit [Lyocell](/glossar/lyocell/) und prüfe zusätzlich das Thema [Pilling](/glossar/pilling/) bei häufig getragenen Teilen.
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

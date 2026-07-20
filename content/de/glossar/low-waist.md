@@ -3,6 +3,7 @@ title: Was bedeutet Low Waist?
 term: Low Waist
 description: Low Waist beschreibt einen tief sitzenden Bund auf oder unterhalb der Hüfte.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - low waist
   - schnitt proportion
@@ -50,6 +51,7 @@ Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Low Waist, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Auf tief sitzenden Bundformen fallen auch [Waist Charms](/glossar/waist-charms/) besonders schnell ins Auge.
 
 ## Worauf du achten solltest
 

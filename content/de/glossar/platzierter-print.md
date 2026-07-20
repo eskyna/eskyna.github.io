@@ -50,6 +50,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Platzierter Print, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn du statt Motivplatzierung ein flächigeres Muster bevorzugst, lohnt sich ein Blick auf [Paisley](/glossar/paisley/).
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Platzierter Print im Outfit übernimmt.
@@ -82,6 +84,8 @@ Wenn du den Begriff **Platzierter Print** auf ein Outfit überträgst, prüfe ni
 In der Beratung ist **Platzierter Print** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Femininer Stil](/glossar/femininer-stil/).
 
 ## Verwandte Begriffe
 

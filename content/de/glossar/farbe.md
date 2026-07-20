@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 Farbe wirkt nie isoliert. Sie verändert sich durch Helligkeit, Sättigung, Material und die Farben daneben.
 
-Für ESKYNA ist dieser Begriff wichtig, weil Farbentscheidungen leichter werden, wenn man nicht nur Namen, sondern Beziehungen zwischen Farben versteht.
+Für ESKYNA ist dieser Begriff wichtig, weil Farbentscheidungen leichter werden, wenn man nicht nur Namen, sondern Beziehungen zwischen Farben versteht. Gerade bei [Argyle/Rautenmuster](/glossar/argyle-rautenmuster/) steuert die Farbverteilung, ob das Muster klassisch, sportlich oder laut wirkt.
 
 ## Warum Farbe wichtig ist
 

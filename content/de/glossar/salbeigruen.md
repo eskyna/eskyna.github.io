@@ -92,3 +92,5 @@ Wenn du den Begriff **Salbeigrün** auf ein Outfit überträgst, prüfe nicht nu
 In der Beratung ist **Salbeigrün** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).
+
+Wenn du bei Salbeigrün zwischen frisch und blass schwankst, hilft der Blick auf den [Frühlingstyp](/glossar/fruehlingstyp/) bei der Nuancenwahl.

@@ -46,6 +46,7 @@ Eine **Farbkarte** zeigt ausgewählte Farben eines Farbprofils in kompakter Form
 ## Einfach erklärt
 
 Anders als ein allgemeines Farbbuch ist eine Farbkarte auf einen bestimmten Farbtyp oder eine bestimmte Person zugeschnitten. Sie macht feine Unterschiede sichtbar, die im Laden sonst leicht übersehen werden.
+Als kompaktes Werkzeug funktioniert sie besonders gut in Verbindung mit einem persönlichen [Farbpass](/glossar/farbpass/).
 
 ## Warum der Begriff wichtig ist
 

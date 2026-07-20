@@ -69,7 +69,7 @@ Für ESKYNA ist Struktur ein feines Mittel, um Persönlichkeit in reduzierte Loo
 ## Typische Missverständnisse
 
 **Missverständnis:** Struktur ist dasselbe wie Muster.  
-**Besser:** Muster ist meist optisch aufgedruckt oder eingewebt. Struktur ist die Oberfläche des Materials.
+**Besser:** Muster ist meist optisch aufgedruckt oder eingewebt. Struktur ist die Oberfläche des Materials. Ein [Allover-Print](/glossar/allover-print/) kann also auf glattem oder stark strukturiertem Stoff ganz unterschiedlich wirken.
 
 **Missverständnis:** Glatte Stoffe wirken immer eleganter.  
 **Besser:** Auch strukturierte Stoffe können sehr hochwertig wirken, wenn Schnitt und Material stimmen.

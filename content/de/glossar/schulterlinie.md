@@ -4,6 +4,7 @@ term: Schulterlinie
 description: Die Schulterlinie beschreibt Sitz und Form der Schulterpartie und prägt die Struktur
   eines Oberteils oder Blazers.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - schnitt proportion
   - schulterlinie
@@ -84,6 +85,8 @@ Wenn du den Begriff **Schulterlinie** auf ein Outfit überträgst, prüfe nicht 
 In der Beratung ist **Schulterlinie** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Glamoratti](/glossar/glamoratti/).
 
 ## Verwandte Begriffe
 

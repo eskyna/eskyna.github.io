@@ -76,6 +76,8 @@ Frag dich bei **Light Academia**: Welche Aufgabe soll dieses Element im Outfit �
 
 Bei Wirkungsthemen z채hlt der erste Eindruck. Frage dich, ob der Look deine Kompetenz, Offenheit, Ruhe oder Kreativit채t sichtbar macht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich nat체rlicher anf체hlt und welche besser zu deinen vorhandenen Lieblingsst체cken passt. So wird **Light Academia** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Essenz](/glossar/essenz/).
+
 ## Verwandte Begriffe
 
 - [Dark Academia](/glossar/dark-academia/)

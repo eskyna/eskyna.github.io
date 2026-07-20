@@ -5,6 +5,15 @@ description: "Ein Fascinator ist ein dekorativer Kopfschmuck, der meist mit Haar
 category: "Garderobe & Alltag"
 image: images/glossar/fascinator.png
 image_alt: "Glossar-Illustration zu Fascinator"
+relatedTerms:
+  - title: Festliche Kleidung
+    url: /glossar/festliche-kleidung/
+  - title: Dresscode
+    url: /glossar/dresscode/
+  - title: Ohrringe
+    url: /glossar/ohrringe/
+  - title: Kette
+    url: /glossar/kette/
 keywords:
   - "fascinator"
   - "was ist fascinator"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Er kann aus Federn, Schleifen, Netz, Blüten, Sinamay oder skulpturalen Formen bestehen. Fascinators werden besonders zu Hochzeiten, Empfängen, Rennveranstaltungen und formeller Tageskleidung getragen.
+Er kann aus Federn, Schleifen, Netz, Blüten, Sinamay oder skulpturalen Formen bestehen. Fascinators werden besonders zu Hochzeiten, Empfängen, Rennveranstaltungen und [festlicher Kleidung](/glossar/festliche-kleidung/) am Tag getragen.
 
 ## Einfach erklärt
 
-Anders als ein klassischer Hut besitzt ein Fascinator nicht zwingend eine vollständige Krone und Krempe. Er wirkt stärker wie ein Schmuckobjekt im Haar. Position, Frisur und Blickrichtung der Form beeinflussen, wie Gesicht und Gesamtproportion wahrgenommen werden.
+Anders als ein klassischer Hut besitzt ein Fascinator nicht zwingend eine vollständige Krone und Krempe. Er wirkt stärker wie ein Schmuckobjekt im Haar. Position, Frisur und Blickrichtung der Form beeinflussen, wie Gesicht und Gesamtproportion wahrgenommen werden. Im jeweiligen [Dresscode](/glossar/dresscode/) übernimmt er oft eine ähnliche Rolle wie auffällige [Ohrringe](/glossar/ohrringe/) oder eine markante [Kette](/glossar/kette/).
 
 ## Worauf du achten solltest
 

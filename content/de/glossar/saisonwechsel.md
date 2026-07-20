@@ -87,6 +87,8 @@ In der Beratung ist **Saisonwechsel** kein starres Etikett. Der Begriff wird ers
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Für Übergänge zwischen Anlass und Alltag ist ein [Empire-Kleid](/glossar/empire-kleid/) oft ein unkomplizierter Baustein.
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

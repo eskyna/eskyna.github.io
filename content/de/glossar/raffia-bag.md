@@ -46,6 +46,7 @@ Eine **Raffia Bag** ist eine Tasche aus Bast, Raffia oder ähnlichen Naturmateri
 ## Einfach erklärt
 
 Material und Flechtoptik geben der Tasche sofort Ferien-, Resort- oder Wochenendcharakter. Je nach Form kann sie casual oder auch elegant interpretiert werden.
+Besonders stimmig wirkt sie in Looks mit ruhiger, gepflegter Lässigkeit wie [Coastal Grandmother](/glossar/coastal-grandmother/).
 
 ## Mini-Test vor dem Spiegel
 

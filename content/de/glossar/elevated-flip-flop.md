@@ -75,6 +75,8 @@ Frag dich bei **Elevated Flip-Flop**: Welche Aufgabe soll dieses Element im Outf
 
 Bei Schuhen ist die Verbindung zum Saum entscheidend. Der gleiche Schuh kann je nach Hosen- oder Rocklänge völlig anders wirken. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Elevated Flip-Flop** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Daunenjacke](/glossar/daunenjacke/).
+
 ## Verwandte Begriffe
 
 - [Sandale](/glossar/sandale/)

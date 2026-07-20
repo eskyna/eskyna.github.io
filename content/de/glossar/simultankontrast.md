@@ -5,6 +5,15 @@ description: "Simultankontrast beschreibt, wie eine Farbe durch unmittelbar bena
 category: "Farbberatung & Farbe"
 image: images/glossar/simultankontrast.png
 image_alt: "Glossar-Illustration zu Simultankontrast"
+relatedTerms:
+  - title: Farbkreis
+    url: /glossar/farbkreis/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Unterton
+    url: /glossar/unterton/
+  - title: Metamerie
+    url: /glossar/metamerie/
 keywords:
   - "simultankontrast"
   - "was ist simultankontrast"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Das Auge bewertet Farben nicht isoliert. Derselbe Farbton kann neben einer warmen Umgebung kühler, neben einer dunklen Umgebung heller oder neben seiner Gegenfarbe intensiver erscheinen.
+Das Auge bewertet Farben nicht isoliert. Derselbe Farbton kann neben einer warmen Umgebung kühler, neben einer dunklen Umgebung heller oder neben seiner Gegenfarbe intensiver erscheinen. Damit ist Simultankontrast ein zentraler Teil von [Farbkreis](/glossar/farbkreis/)-Logik und wahrgenommenem [Kontrast](/glossar/kontrast/).
 
 ## Einfach erklärt
 
-In der Garderobe erklärt der Effekt, warum ein Lippenstift, Schal oder Oberteil je nach Kombination plötzlich anders wirkt. Auch Haut, Haar und Augen bilden eine farbliche Umgebung. Deshalb kann eine Farbe auf dem Bügel passend aussehen und am Gesicht dennoch zu hart, gelblich oder grau erscheinen.
+In der Garderobe erklärt der Effekt, warum ein Lippenstift, Schal oder Oberteil je nach Kombination plötzlich anders wirkt. Auch Haut, Haar und Augen bilden eine farbliche Umgebung. Deshalb kann eine Farbe auf dem Bügel passend aussehen und am Gesicht dennoch zu hart, gelblich oder grau erscheinen; ein ähnlicher Wahrnehmungswechsel spielt auch bei [Metamerie](/glossar/metamerie/) eine Rolle.
 
 ## Worauf du achten solltest
 

@@ -86,6 +86,8 @@ In der Beratung ist **Kombinationsstück** kein starres Etikett. Der Begriff wir
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Espadrilles](/glossar/espadrilles/).
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

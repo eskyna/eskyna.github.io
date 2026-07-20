@@ -48,7 +48,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Kleine Creolen wirken ruhig und alltagstauglich. Große Creolen setzen ein Statement. Gold wirkt warm, Silber klarer und kühler, Roségold weicher.
+Kleine Creolen wirken ruhig und alltagstauglich. Große Creolen setzen ein Statement. Gold wirkt warm, Silber klarer und kühler, Roségold weicher. Für einen stimmigen Schmuckmix lohnt sich auch der Blick auf die passende [Uhr](/glossar/uhr/).
 
 Creolen sitzen nahe am Gesicht und beeinflussen deshalb die Gesichtsrahmung. Ihre Rundung kann harte Linien weicher machen und dem Look Bewegung geben.
 

@@ -5,6 +5,15 @@ description: "Der Oxford ist ein klassischer Schnürschuh mit geschlossener Schn
 category: "Schuhe"
 image: images/glossar/oxford-schuh.png
 image_alt: "Glossar-Illustration zu Oxford-Schuh"
+relatedTerms:
+  - title: Derby-Schuh
+    url: /glossar/derby-schuh/
+  - title: Brogue
+    url: /glossar/brogue/
+  - title: Monkstrap
+    url: /glossar/monkstrap/
+  - title: Schuhweite
+    url: /glossar/schuhweite/
 keywords:
   - "oxford schuh"
   - "was ist oxford-schuh"
@@ -18,7 +27,7 @@ Bei der geschlossenen Schnürung liegen die seitlichen Schnürteile unter dem Vo
 
 ## Einfach erklärt
 
-Schlichte schwarze Oxfords gehören zu den formellsten klassischen Schuhformen. Farbe, Leder, Sohle und Lochverzierung können den Grad jedoch verändern. Die geschlossene Konstruktion bietet häufig weniger Anpassung am Spann als ein Derby und passt daher nicht jedem Fuß gleich gut.
+Schlichte schwarze Oxfords gehören zu den formellsten klassischen Schuhformen. Farbe, [Leder](/glossar/leder/), Sohle und Lochverzierung können den Grad jedoch verändern. Die geschlossene Konstruktion bietet häufig weniger Anpassung am Spann als ein [Derby](/glossar/derby-schuh/) und passt daher nicht jedem Fuß gleich gut.
 
 ## Worauf du achten solltest
 
@@ -28,7 +37,7 @@ Schlichte schwarze Oxfords gehören zu den formellsten klassischen Schuhformen. 
 
 ## Typisches Missverständnis
 
-Oxford und Brogue sind keine Gegensätze. Ein Oxford kann glatt oder mit Brogue-Lochung gestaltet sein.
+Oxford und [Brogue](/glossar/brogue/) sind keine Gegensätze. Ein Oxford kann glatt oder mit Brogue-Lochung gestaltet sein.
 
 ## ESKYNA-Merksatz
 

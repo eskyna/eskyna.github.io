@@ -5,6 +5,15 @@ description: "Chambray ist ein leichter Leinwandstoff mit farbigem Kettfaden und
 category: "Materialien & Details"
 image: images/glossar/chambray.png
 image_alt: "Glossar-Illustration zu Chambray"
+relatedTerms:
+  - title: Denim
+    url: /glossar/denim/
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Bluse
+    url: /glossar/bluse/
+  - title: Materialfall
+    url: /glossar/materialfall/
 keywords:
   - "chambray"
   - "was ist chambray"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Chambray wird häufig aus Baumwolle gewebt. Durch die Verbindung farbiger und heller Fäden entsteht eine melierte, denimähnliche Optik, obwohl die Webbindung eine andere ist.
+Chambray wird häufig aus [Baumwolle](/glossar/baumwolle/) gewebt. Durch die Verbindung farbiger und heller Fäden entsteht eine melierte, [denimähnliche](/glossar/denim/) Optik, obwohl die Webbindung eine andere ist.
 
 ## Einfach erklärt
 
-Chambray sieht oft wie sehr leichter Jeansstoff aus, fällt aber weicher und wirkt feiner. Denim besitzt typischerweise eine diagonale Köperstruktur; Chambray ist in Leinwandbindung gewebt. Dadurch eignet er sich besonders für Hemden, Blusen, Sommerkleider und leichte Hosen.
+Chambray sieht oft wie sehr leichter Jeansstoff aus, fällt aber weicher und wirkt feiner. [Denim](/glossar/denim/) besitzt typischerweise eine diagonale Köperstruktur; Chambray ist in Leinwandbindung gewebt. Dadurch eignet er sich besonders für Hemden, [Blusen](/glossar/bluse/), Sommerkleider und leichte Hosen. Für die Wirkung ist auch der [Materialfall](/glossar/materialfall/) entscheidend.
 
 ## Worauf du achten solltest
 

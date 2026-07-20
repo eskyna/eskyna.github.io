@@ -36,7 +36,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Tartan**: Tartan ist ein schottisch inspiriertes Karomuster mit mehreren Farben und starker Musterpräsenz.
+**Tartan**: Tartan ist ein schottisch inspiriertes [Karomuster](/glossar/karomuster/) mit mehreren Farben und starker Musterpräsenz.
 
 ## Einfach erklärt
 

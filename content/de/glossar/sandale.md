@@ -76,6 +76,8 @@ Betrachte „Sandale“ einmal aus der Nähe und einmal mit etwas Abstand. Aus d
 
 Sandalen bringen Luftigkeit in den Look. Elegant werden sie durch Material, Riemenführung und Farbe.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Gabardine](/glossar/gabardine/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Sandale** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

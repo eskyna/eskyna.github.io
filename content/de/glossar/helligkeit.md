@@ -51,6 +51,8 @@ Auch Proportionen verändern sich durch Helligkeit. Helle Flächen treten optisc
 
 ## Warum Helligkeit wichtig ist
 
+Gerade bei dunkleren Nuancen wie [Beerentöne](/glossar/beerentoene/) entscheidet Helligkeit, ob ein Look weich, präsent oder sehr kontrastreich wirkt.
+
 Wenn du Helligkeit bewusst nutzt, kannst du Outfits stimmiger aufbauen. Ein dunkler Blazer über einem hellen Shirt erzeugt klare Rahmung. Ein heller Ton-in-Ton-Look wirkt sanfter und länger. Ein sehr dunkler Schuh kann einem hellen Sommeroutfit Gewicht geben.
 
 Helligkeit ist auch wichtig für Farben nahe am Gesicht. Manche Personen brauchen helle, klare Töne. Andere wirken in mittleren oder dunkleren Farben präsenter.

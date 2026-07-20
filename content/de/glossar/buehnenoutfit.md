@@ -72,6 +72,7 @@ consulting_focus:
 ## Definition
 
 Ein **Bühnenoutfit** ist ein Look für Situationen, in denen eine Person aus Distanz wahrgenommen wird. Sichtbarkeit, Silhouette, Bewegungsfreiheit und Wiedererkennbarkeit spielen dabei eine zentrale Rolle.
+Im engeren beruflichen Kontext wird daraus oft sehr konkret ein [Speaker-Outfit](/glossar/speaker-outfit/).
 
 ## Einfach erklärt
 

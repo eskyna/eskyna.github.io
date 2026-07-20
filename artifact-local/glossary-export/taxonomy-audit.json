@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-07-20T00:33:31.614Z",
+  "glossary_directory": "content/de/glossar",
+  "total_categories": 9,
+  "assigned_subcategories": 108,
+  "matching_subcategories": 108,
+  "non_rule_subcategories": 0,
+  "category_summary": [
+    {
+      "category": "Materialien & Details",
+      "count": 178
+    },
+    {
+      "category": "Garderobe & Alltag",
+      "count": 155
+    },
+    {
+      "category": "Stil & Wirkung",
+      "count": 109
+    },
+    {
+      "category": "Schnitt, Proportion & Passform",
+      "count": 80
+    },
+    {
+      "category": "Farb-Lexikon",
+      "count": 60
+    },
+    {
+      "category": "Farbberatung & Farbe",
+      "count": 41
+    },
+    {
+      "category": "Schuhe",
+      "count": 35
+    },
+    {
+      "category": "Kleider & Roecke",
+      "count": 26
+    },
+    {
+      "category": "Dresscodes & Anlaesse",
+      "count": 25
+    }
+  ],
+  "outlier_categories": [],
+  "suggested_subcategories": []
+}

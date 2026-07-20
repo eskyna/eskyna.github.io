@@ -49,6 +49,8 @@ lastmod: "2026-07-09"
 Der Unterschied liegt oft im Stoff. Eine Jogpants aus Sweatstoff wirkt sportlich. Eine Jogpants aus fließendem oder glattem Material kann alltagstauglich und sogar smart wirken.
 Die Form ist häufig locker und zum Saum hin etwas schmaler. Dadurch kann sie bequem sein, ohne völlig formlos zu wirken.
 
+Wer mehr Funktion und Taschenvolumen sucht, landet häufig bei der [Cargohose](/glossar/cargohose/) als nächster Variante.
+
 ## Warum dieser Begriff wichtig ist
 
 Jogpants sind wichtig, weil moderne Garderoben Komfort und Wirkung verbinden müssen. Die Frage ist nicht, ob eine Hose bequem ist, sondern ob sie bewusst aussieht.

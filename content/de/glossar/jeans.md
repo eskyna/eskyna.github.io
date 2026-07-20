@@ -53,6 +53,10 @@ Die Jeans ist eines der vielseitigsten Kleidungsstücke im Kleiderschrank. Sie k
 
 Nicht jede Jeans erfüllt die gleiche Aufgabe. Eine dunkle Straight Leg Jeans wirkt ruhiger als eine helle Boyfriend Jeans. Eine schmale Jeans betont andere Proportionen als eine Wide Leg Jeans. Eine Cropped Jeans braucht andere Schuhe als eine lange Jeans mit weitem Bein.
 
+Eine dunkle [Boyfriend-Jeans](/glossar/boyfriend-jeans/) kann alltagstauglich wirken, wenn Proportion und Styling bewusst gewählt sind.
+
+Bei formellen Sommeranlässen lohnt der Abgleich mit dem Dresscode [Beach Formal](/glossar/beach-formal/), weil Denim dort oft nur in sehr klarer, zurückhaltender Variante stimmig ist.
+
 ## Warum die Jeans wichtig ist
 
 Eine gute Jeans kann viele Outfit-Formeln tragen. Sie ist oft das Teil, das elegante Kleidung in den Alltag bringt. Gleichzeitig kann sie bei schlechter Passform den ganzen Look unruhig machen.

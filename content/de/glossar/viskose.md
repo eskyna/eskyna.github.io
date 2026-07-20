@@ -51,7 +51,7 @@ lastmod: "2026-07-09"
 
 Viskose bringt Bewegung in Kleidung. Der Stoff kann sehr weich fallen und dadurch eine andere Silhouette erzeugen als Baumwolle oder Leinen. Eine Viskosebluse wirkt oft fließender als eine Hemdbluse aus Popeline. Ein Viskosekleid kann sanft am Körper entlangfallen, ohne starr zu wirken.
 
-Je nach Verarbeitung kann Viskose matt, leicht glänzend, glatt oder kreppartig sein. Manche Viskose knittert, manche ist empfindlich bei Nässe, manche braucht sorgfältige Pflege. Deshalb lohnt sich ein Blick auf Griff, Dichte und Pflegeetikett.
+Je nach Verarbeitung kann Viskose matt, leicht glänzend, glatt oder kreppartig sein. Manche Viskose knittert, manche ist empfindlich bei Nässe, manche braucht sorgfältige Pflege. Deshalb lohnt sich ein Blick auf Griff, Dichte und Pflegeetikett. Im Vergleich zu [Acetat](/glossar/acetat/) wirkt Viskose oft weniger glatt und reagiert im Alltag etwas anders auf Hitze und Feuchtigkeit.
 
 ## Warum Viskose wichtig ist
 
@@ -85,7 +85,7 @@ Wenn du den Begriff **Viskose** auf ein Outfit überträgst, prüfe nicht nur da
 
 - Fühle Griff, Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+- Achte auf Pflege, [Knitterverhalten](/glossar/knitterverhalten/) und Verarbeitung an Nähten oder Kanten.
 
 ## Beratungsblick
 

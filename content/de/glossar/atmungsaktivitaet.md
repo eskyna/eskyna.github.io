@@ -51,6 +51,7 @@ Für ESKYNA ist Qualität kein Luxuswort. Sie bedeutet, dass ein Teil im Alltag 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Atmungsaktivität, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Gerade bei häufig getragenen Teilen ist Atmungsaktivität ein zentrales Kriterium für ein langlebiges [Key-Piece](/glossar/key-piece/).
 
 ## Worauf du achten solltest
 

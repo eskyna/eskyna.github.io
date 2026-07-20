@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Elegant**: Elegant wirkt ein Stil, wenn Material, Schnitt, Farbe und Haltung ruhig, hochwertig und stimmig zusammenkommen.
+**Elegant**: Elegant wirkt ein Stil, wenn Material, Schnitt, Farbe und Haltung ruhig, hochwertig und stimmig zusammenkommen. Auch ein [Monkstrap](/glossar/monkstrap/) kann diesen Eindruck unterstützen.
 
 ## Einfach erklärt
 

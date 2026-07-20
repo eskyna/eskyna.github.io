@@ -4,6 +4,7 @@ term: Halstuch
 description: Ein Halstuch ist ein kleineres Tuch am Hals, das Farbe, Muster und Gesichtsrahmung in
   ein Outfit bringt.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - halstuch
   - accessoire
@@ -48,7 +49,7 @@ Ein **Halstuch** ist ein kleineres Tuch, das am Hals getragen wird. Es kann aus 
 
 ## Einfach erklärt
 
-Das Halstuch sitzt nahe am Gesicht. Deshalb wirkt es wie ein kleiner Farbfilter. Es kann Frische, Kontrast oder Weichheit geben.
+Das Halstuch sitzt nahe am Gesicht. Deshalb wirkt es wie ein kleiner Farbfilter und verändert direkt die [Gesichtsrahmung](/glossar/gesichtsrahmung/). Es kann Frische, Kontrast oder Weichheit geben.
 
 Je nach Bindung wirkt es klassisch, verspielt, französisch, sportlich oder sehr reduziert. Auch an Tasche oder Handgelenk kann es als Akzent funktionieren.
 

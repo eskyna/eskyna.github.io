@@ -7,6 +7,7 @@ description:
 image: images/glossar/rocklange.png
 image_alt: "Иллюстрация глоссария ESKYNA: Длина юбки"
 category: Крой, пропорции и посадка
+subcategory: "Размеры и посадка"
 tags:
   - длина юбки
   - крой, пропорции и посадка

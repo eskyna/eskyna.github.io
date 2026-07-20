@@ -50,6 +50,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Bretonstreifen, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Besonders in eleganteren Looks funktionieren Bretonstreifen gut mit einem klar geschnittenen [Blazerkleid](/glossar/blazerkleid/).
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Bretonstreifen im Outfit übernimmt.

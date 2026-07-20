@@ -76,6 +76,8 @@ Betrachte „Cargohose“ einmal aus der Nähe und einmal mit etwas Abstand. Aus
 
 Die Cargohose bringt Funktion in den Look. Elegant wird sie durch Ruhe, Passform und klare Kombinationen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Chartreuse und Limettengrün](/glossar/chartreuse-und-limettengruen/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Cargohose** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

@@ -4,6 +4,7 @@ term: Ledertasche
 description: Eine Ledertasche wirkt je nach Form, Farbe und Oberfläche klassisch, weich, modern oder
   streng.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - ledertasche
   - materialien
@@ -51,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Ledertasche, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Bei hellen Lederoberflächen schafft eine Richtung in [Champagner](/glossar/champagner/) oft eine ruhige und hochwertige Wirkung.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Ledertasche im Outfit übernimmt.
@@ -74,7 +77,7 @@ Ledertasche wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Di
 
 Wenn du den Begriff **Ledertasche** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
 
-- Fühle Griff, Gewicht und Stand des Materials.
+- Fühle [Griff](/glossar/griff/), Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
 - Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
 

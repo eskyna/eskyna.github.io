@@ -63,6 +63,8 @@ In Baumwolle wirkt Gelb frisch. In Seide oder Satin bekommt es mehr Eleganz. In 
 
 ## Gelb kombinieren
 
+Mit [Aubergine](/glossar/aubergine/) entsteht ein spannender Kontrast, der Gelb je nach Nuance ruhiger oder ausdrucksstärker wirken lässt.
+
 - **Gelb + Weiß:** hell und frisch
 - **Gelb + Navy:** klar und professioneller
 - **Gelb + Grau:** modern und ruhiger

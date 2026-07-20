@@ -3,6 +3,7 @@ title: Fledermausärmel
 term: Fledermausärmel
 description: Ein Fledermausärmel ist weit geschnitten und fließt weich vom Körper in den Ärmel über.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - fledermausaermel
   - schnitt proportion
@@ -83,6 +84,8 @@ Wenn du den Begriff **Fledermausärmel** auf ein Outfit überträgst, prüfe nic
 In der Beratung ist **Fledermausärmel** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [D'Orsay-Pumps](/glossar/dorsay-pumps/).
 
 ## Verwandte Begriffe
 

@@ -4,6 +4,7 @@ term: H-Linie
 description: Die H-Linie beschreibt eine gerade, wenig taillierte Silhouette mit ruhiger und klarer
   Wirkung.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - h linie
   - schnitt proportion
@@ -47,6 +48,8 @@ Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit.
 Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger machen. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück soll stimmig sitzen.
 
 ## Warum H-Linie wichtig ist
+
+Bei weicheren Silhouetten wie der [Ballonhose](/glossar/ballonhose-balloon-trousers/) zeigt die H-Linie gut, wie du Volumen ordnen und die Mitte ruhig halten kannst.
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 

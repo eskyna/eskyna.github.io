@@ -45,11 +45,11 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Stil lebt von Funktion als Ästhetik. Jacken, Fleece, Sandalen, technische Taschen und sportliche Layering-Elemente wirken hier nicht zufällig, sondern als Stilcode.
+Der Stil lebt von Funktion als Ästhetik. Jacken, Fleece, Sandalen, technische Taschen und sportliche [Layering](/glossar/layering/)-Elemente wirken hier nicht zufällig, sondern als Stilcode.
 
 ## Warum der Begriff wichtig ist
 
-Gorpcore beschreibt eine eigene Richtung zwischen Streetwear, Funktion und Alltag und wird als Trendbegriff stark gesucht.
+Gorpcore beschreibt eine eigene Richtung zwischen Streetwear, Funktion und Alltag und wird als Trendbegriff stark gesucht. Eine urbanere, alltagstauglichere Schwester davon ist oft [Adventure Streetwear](/glossar/adventure-streetwear/).
 
 ## ESKYNA-Merksatz
 

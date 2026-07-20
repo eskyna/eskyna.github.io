@@ -74,6 +74,8 @@ Frag dich bei **Minimalist Wedge**: Welche Aufgabe soll dieses Element im Outfit
 
 Bei Schuhen ist die Verbindung zum Saum entscheidend. Der gleiche Schuh kann je nach Hosen- oder Rocklänge völlig anders wirken. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Minimalist Wedge** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Farbkarte](/glossar/farbkarte/).
+
 ## Verwandte Begriffe
 
 - [Plateau](/glossar/plateau/)

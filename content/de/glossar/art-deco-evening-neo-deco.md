@@ -37,7 +37,7 @@ lastmod: "2026-07-17"
 
 ## Was bedeutet Art Deco Evening?
 
-Inspiriert von den 1920er- und 1930er-Jahren lebt der Look von Linie, Licht und Struktur. Typisch sind Samt, Satin, Fransen, Perlen, Metallic-Akzente und klare Silhouetten.
+Inspiriert von den 1920er- und 1930er-Jahren lebt der Look von Linie, Licht und Struktur. Typisch sind Samt, Satin, Fransen, Perlen, Metallic-Akzente, [Statement-Schmuck](/glossar/statement-schmuck/) und klare Silhouetten.
 
 Die moderne Version braucht keinen kompletten Gatsby-Look. Oft reicht ein starkes Detail, damit der Stil hochwertig und aktuell wirkt.
 

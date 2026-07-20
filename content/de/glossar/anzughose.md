@@ -51,6 +51,7 @@ Die Farbe verändert den Charakter: Schwarz wirkt klar, Navy professionell, Grau
 ## Warum dieser Begriff wichtig ist
 
 Anzughosen sind wichtig, weil sie eine Garderobe sofort ordnen können. Sie geben selbst einfachen Oberteilen mehr Struktur und eignen sich gut für Business Casual oder Smart Casual.
+Mit festen [Kaufkriterien](/glossar/kaufkriterien/) prüfst du schneller, ob Stoff, Länge und Sitz langfristig tragbar sind.
 
 ## Worauf du achten solltest
 

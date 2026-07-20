@@ -75,6 +75,8 @@ Frag dich bei **Coastal Grandmother**: Welche Aufgabe soll dieses Element im Out
 
 Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Kompetenz, Offenheit, Ruhe oder Kreativität sichtbar macht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Coastal Grandmother** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Für ein ruhiges Sommerbild lässt sich der Stil gut in einen tragbaren [Date Look](/glossar/date-look/) übersetzen.
+
 ## Verwandte Begriffe
 
 - [Navy](/glossar/navy/)

@@ -52,6 +52,7 @@ Umgekehrt kann eine klare, ruhige Präsenz ein einfaches Outfit deutlich stärke
 ## Warum der Begriff wichtig ist
 
 Wer das eigene Auftreten besser versteht, kann Kleidung gezielter wählen und Situationen bewusster gestalten. Das hilft im Business ebenso wie im Alltag.
+Genau an dieser Stelle wird [Wirkungskompetenz](/glossar/wirkungskompetenz/) praktisch.
 
 ## Typische Missverständnisse
 

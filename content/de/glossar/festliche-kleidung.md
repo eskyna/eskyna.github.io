@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann.
+Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann. Dazu kann je nach Anlass auch ein [Jumpsuit/Overall](/glossar/jumpsuit-overall/) gehören.
 
 Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt.
 

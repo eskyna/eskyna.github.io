@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Jeansröcke können sehr unterschiedlich aussehen. Ein kurzer Jeansrock wirkt sommerlich und casual. Ein langer gerader Jeansrock wirkt moderner und klarer. Dunkler Denim erscheint ruhiger und gepflegter als stark gewaschener Denim.
+Jeansröcke können sehr unterschiedlich aussehen. Ein kurzer Jeansrock wirkt sommerlich und casual. Ein langer gerader Jeansrock wirkt [moderner](/glossar/modern/) und klarer. Dunkler Denim erscheint ruhiger und gepflegter als stark gewaschener Denim.
 
 Der Jeansrock passt gut zu T-Shirt, Hemd, Blazer, Strick oder Lederjacke. Schuhe verändern die Wirkung sofort: Sneaker machen ihn entspannt, Loafer gepflegter, Boots urbaner.
 

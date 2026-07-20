@@ -35,11 +35,11 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Stiltyp**: Ein Stiltyp beschreibt wiederkehrende stilistische Vorlieben, etwa klassisch, modern, romantisch, lässig oder elegant.
+**Stiltyp**: Ein Stiltyp beschreibt wiederkehrende stilistische Vorlieben, etwa klassisch, modern, romantisch, lässig oder elegant. Er liegt nah an [Personal Style](/glossar/personal-style/), ist aber stärker als wiederkehrendes Muster im Auftreten lesbar.
 
 ## Einfach erklärt
 
-Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen. Damit verbindet Stiltyp persönliche Vorlieben mit [Wirkung](/glossar/wirkung/) und einem klaren [Stilprofil](/glossar/stilprofil/).
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 
@@ -47,7 +47,7 @@ Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wir
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
-Gerade im Alltag hilft Stiltyp, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Gerade im Alltag hilft Stiltyp, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt. Aus solchen Wiederholungen entsteht oft erst eine tragfähige [Stilidentität](/glossar/stilidentitaet/).
 
 ## Worauf du achten solltest
 

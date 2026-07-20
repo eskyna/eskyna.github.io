@@ -48,6 +48,8 @@ Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer S
 
 ## Warum Leder wichtig ist
 
+Auch bei Lederhosen oder Lederjacken mit Denim-Kombis hilft die [Bootcut](/glossar/bootcut/), wenn du die Beinlinie gestreckt und ruhig halten möchtest.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Leder, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

@@ -47,7 +47,7 @@ Metallic ist keine klassische Farbe. Die Wirkung entsteht durch Farbton und Lich
 
 ## Wie Metallic wirkt
 
-Gold wirkt warm, Silber klar und kühl, Bronze erdig, Roségold weich. Metallic zieht den Blick an, auch wenn die Fläche klein ist. Schon Schuhe, Gürtel, Schmuck oder eine Tasche können einem sehr schlichten Look mehr Spannung geben.
+Gold wirkt warm, Silber klar und kühl, Bronze erdig, Roségold weich. Metallic zieht den Blick an, auch wenn die Fläche klein ist. Schon Schuhe, Gürtel, Schmuck oder eine Tasche können einem sehr schlichten Look mehr Spannung geben und als gezielte [Akzentfarbe](/glossar/akzentfarbe/) funktionieren.
 
 ## Die Nuancen von Metallic
 
@@ -70,7 +70,7 @@ Metallic wirkt je nach Oberfläche sehr unterschiedlich. Gebürstetes Metall ers
 
 ## Metallic im Business und Alltag
 
-Im Business funktioniert Metallic am besten als Detail. Schmuck, Uhr, Schnalle, Schuh oder kleine Tasche geben Licht, ohne den Look zu dominieren. Großflächige Metallic-Stoffe wirken eher nach Event.
+Im Business funktioniert Metallic am besten als Detail. Schmuck, Uhr, Schnalle, Schuh oder kleine Tasche geben Licht, ohne den Look zu dominieren. Großflächige Metallic-Stoffe wirken eher nach Event. Genau deshalb passt Metallic oft gut zu einem [Armreif](/glossar/armreif/) oder zu stilisierten Abendbildern wie [Art Deco Evening](/glossar/art-deco-evening-neo-deco/).
 
 ## Für wen und wo Metallic funktioniert
 

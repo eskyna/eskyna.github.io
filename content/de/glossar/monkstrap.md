@@ -5,6 +5,15 @@ description: "Ein Monkstrap ist ein klassischer Halbschuh, der mit einer oder zw
 category: "Schuhe"
 image: images/glossar/monkstrap.png
 image_alt: "Glossar-Illustration zu Monkstrap"
+relatedTerms:
+  - title: Oxford-Schuh
+    url: /glossar/oxford-schuh/
+  - title: Derby-Schuh
+    url: /glossar/derby-schuh/
+  - title: Brogue
+    url: /glossar/brogue/
+  - title: Schuhweite
+    url: /glossar/schuhweite/
 keywords:
   - "monkstrap"
   - "was ist monkstrap"
@@ -18,13 +27,13 @@ Single Monks besitzen einen, Double Monks zwei Riemen. Die Konstruktion liegt st
 
 ## Einfach erklärt
 
-Monkstraps wirken gepflegt, aber weniger erwartbar als Oxfords. Eine schlichte Form aus dunklem Glattleder kann zum Anzug funktionieren; kräftige Schnallen, Kontrastfarben oder derbe Sohlen machen den Schuh informeller. Der Riemen muss Halt geben, ohne den Spann punktuell zu drücken.
+Monkstraps wirken gepflegt, aber weniger erwartbar als [Oxfords](/glossar/oxford-schuh/). Eine schlichte Form aus dunklem [Glattleder](/glossar/leder/) kann zum Anzug funktionieren; kräftige Schnallen, Kontrastfarben oder derbe Sohlen machen den Schuh informeller. Auch [Brogue](/glossar/brogue/)-Lochungen können die Wirkung zusätzlich prägen. Der Riemen muss Halt geben, ohne den Spann punktuell zu drücken. Eine passende [Schuhweite](/glossar/schuhweite/) ist dabei entscheidend, damit der Schuh nicht seitlich aufklappt.
 
 ## Worauf du achten solltest
 
 - Prüfe, ob die Schnallen mehrere sinnvolle Einstellmöglichkeiten bieten.
 - Achte darauf, dass Riemen und Metallteile beim Gehen nicht reiben.
-- Stimme Farbe und Glanz der Schnallen auf Gürtel, Uhr und übrige Metalle ab.
+- Stimme Farbe und Glanz der Schnallen auf [Gürtel](/glossar/guertel/), [Uhr](/glossar/uhr/) und übrige Metalle ab.
 
 ## Typisches Missverständnis
 

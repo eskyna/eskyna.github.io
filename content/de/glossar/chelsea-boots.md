@@ -3,7 +3,7 @@ title: Was sind Chelsea Boots?
 term: Chelsea Boots
 description: Chelsea Boots sind knöchelhohe Stiefeletten mit seitlichem Elastikeinsatz, die klar,
   urban und vielseitig wirken.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - chelsea boots
   - stiefeletten
@@ -47,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Chelsea Boots erkennt man an der schlichten Form und dem elastischen Einsatz an der Seite. Ein schmales Modell aus glattem Leder wirkt eleganter. Ein Boot mit stärkerer Profilsohle wirkt moderner und etwas derber. Wildleder wirkt weicher, Lackleder stärker und glatter.
+Chelsea Boots erkennt man an der schlichten Form und dem elastischen Einsatz an der Seite. Ein schmales Modell aus glattem Leder wirkt eleganter. Ein Boot mit stärkerer Profilsohle wirkt [moderner](/glossar/modern/) und etwas derber. Wildleder wirkt weicher, Lackleder stärker und glatter.
 
 Schwarze Chelsea Boots wirken grafisch und urban. Braune oder cognacfarbene Modelle wirken wärmer. Cremefarbene oder beige Boots machen den Look heller und modischer.
 

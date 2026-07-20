@@ -5,6 +5,15 @@ description: "Prêt-à-porter oder Ready-to-wear bezeichnet fertig konfektionier
 category: "Garderobe & Alltag"
 image: images/glossar/pret-a-porter-ready-to-wear.png
 image_alt: "Glossar-Illustration zu Prêt-à-porter/Ready-to-wear"
+relatedTerms:
+  - title: Haute Couture
+    url: /glossar/haute-couture/
+  - title: Maßanfertigung/Custom-made
+    url: /glossar/massanfertigung-custom-made/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Nahtzugabe
+    url: /glossar/nahtzugabe/
 keywords:
   - "pret a porter ready to wear"
   - "was ist prêt-à-porter/ready-to-wear"
@@ -18,12 +27,12 @@ Die Stücke werden als Kollektion entwickelt und in Serien produziert. Der Begri
 
 ## Einfach erklärt
 
-Ready-to-wear liegt zwischen individueller Couture und vollständig anonymer Massenware als Produktionsprinzip, nicht zwingend als Preisstufe. Ein Designerstück kann aufwendig verarbeitet sein und dennoch in Standardgrößen erscheinen. Kleinere Änderungen nach dem Kauf machen es nicht zur Maßanfertigung.
+Ready-to-wear liegt zwischen individueller [Couture](/glossar/haute-couture/) und vollständig anonymer Massenware als Produktionsprinzip, nicht zwingend als Preisstufe. Ein Designerstück kann aufwendig verarbeitet sein und dennoch in Standardgrößen erscheinen. Kleinere Änderungen nach dem Kauf machen es nicht zur [Maßanfertigung](/glossar/massanfertigung-custom-made/).
 
 ## Worauf du achten solltest
 
-- Beurteile Passform nach konkreten Kleidungsmaßen statt nach der Größenbezeichnung allein.
-- Prüfe, ob genügend Nahtzugabe für sinnvolle Änderungen vorhanden ist.
+- Beurteile [Passform](/glossar/passform/) nach konkreten Kleidungsmaßen statt nach der Größenbezeichnung allein.
+- Prüfe, ob genügend [Nahtzugabe](/glossar/nahtzugabe/) für sinnvolle Änderungen vorhanden ist.
 - Unterscheide Kollektion, Qualität und Preis von der reinen Produktionsform.
 
 ## Typisches Missverständnis

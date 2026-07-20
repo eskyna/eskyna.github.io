@@ -52,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Jacquard, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Ein Vergleich mit [Chambray](/glossar/chambray/) zeigt gut, wie unterschiedlich Muster und ruhige Gewebestruktur wirken.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Jacquard im Outfit übernimmt.

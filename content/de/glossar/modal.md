@@ -85,6 +85,8 @@ In der Beratung ist **Modal** kein starres Etikett. Der Begriff wird erst hilfre
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Bei weichem Modal bleibt die Oberfläche mit [Handwäsche](/glossar/handwaesche/) oft länger gleichmäßig.
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

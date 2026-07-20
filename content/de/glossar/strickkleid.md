@@ -39,11 +39,11 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Strickkleid**: Ein Strickkleid ist ein Kleid aus gestricktem Material. Es kann fein, weich und körpernah sein oder grober, lockerer und gemütlicher wirken. Der Strick bestimmt stark, ob das Kleid elegant oder casual erscheint.
+**Strickkleid**: Ein Strickkleid ist ein Kleid aus gestricktem Material. Es kann fein, weich und körpernah sein oder grober, lockerer und gemütlicher wirken. Bei sehr glatter, naher Form liegt es in der Wirkung manchmal nah an einem [Body](/glossar/body/) mit Rock oder Saum. Der Strick bestimmt stark, ob das Kleid elegant oder casual erscheint.
 
 ## Einfach erklärt
 
-Feinstrick wirkt ruhiger und gepflegter. Grobstrick wirkt weicher und entspannter. Ein gerader Schnitt kann sehr modern aussehen. Eine taillierte Form betont mehr die Figur.
+[Feinstrick](/glossar/feinstrick/) wirkt ruhiger und gepflegter. Grobstrick wirkt weicher und entspannter. Ein gerader Schnitt kann sehr modern aussehen. Eine taillierte Form betont mehr die Figur.
 
 Strickkleider brauchen gute Materialqualität. Zu dünner Strick zeichnet schnell ab. Zu schwerer Strick kann die Silhouette nach unten ziehen.
 

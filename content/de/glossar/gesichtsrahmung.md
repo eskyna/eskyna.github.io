@@ -54,12 +54,13 @@ Gesichtsrahmung ist deshalb ein zentraler Teil von Farbberatung und Stilberatung
 ## Warum dieser Begriff wichtig ist
 
 Wer Gesichtsrahmung versteht, kann viele Outfits leichter verbessern. Manchmal reicht ein anderer Ausschnitt, ein passender Metallton oder ein Schal in der richtigen Farbe.
+Ein [V-Ausschnitt](/glossar/v-ausschnitt/) ist dafuer ein klassisches Beispiel, weil er Gesicht, Halslinie und Schmuck anders rahmt als geschlossene Formen.
 
 ## Worauf du achten solltest
 
 - Prüfe Farben direkt am Gesicht besonders sorgfältig.
 - Achte auf Ausschnitt, Kragen und Schmuck als Einheit.
-- Nutze Brille oder Ohrringe bewusst als Rahmen.
+- Nutze Brille oder [Ohrringe](/glossar/ohrringe/) bewusst als Rahmen.
 
 ## Typische Missverständnisse
 

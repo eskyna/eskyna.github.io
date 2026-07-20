@@ -47,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Creme
 
-Creme ist ein Weißton mit Wärme. Die Farbe wirkt weicher als Reinweiß, weniger hart als Schwarz-Weiß-Kontraste und oft hochwertiger als ein zu kühles Off-White.
+Creme ist ein Weißton mit Wärme. Die Farbe wirkt weicher als Reinweiß, weniger hart als Schwarz-Weiß-Kontraste und oft hochwertiger als ein zu kühles Off-White. Im Spektrum [neutraler Farben](/glossar/neutrale-farben/) liegt Creme zwischen Weiß und [Beige](/glossar/beige/).
 
 Creme kann sehr elegant sein, wenn Material und Schnitt stimmen. In dünnem, transparentem Stoff wirkt es schnell empfindlich. In dichter Baumwolle, Wolle, Seide, Kaschmir oder Leinen bekommt Creme eine ruhige, gepflegte Präsenz.
 
@@ -55,7 +55,7 @@ Creme kann sehr elegant sein, wenn Material und Schnitt stimmen. In dünnem, tra
 
 Creme bringt Licht in ein Outfit, ohne grafisch zu werden. Es wirkt zugänglich, ruhig und fein. Besonders in monochromen Looks mit Beige, Camel oder Braun entsteht eine leise, hochwertige Wirkung.
 
-Die Farbe eignet sich sehr gut für Blusen, Strick, Mäntel, Hosen und Accessoires. Sie ist auch dann hilfreich, wenn reines Weiß nahe am Gesicht zu kühl oder zu hart wirkt.
+Die Farbe eignet sich sehr gut für Blusen, Strick, Mäntel, Hosen und Accessoires. Sie ist auch dann hilfreich, wenn reines Weiß nahe am Gesicht zu kühl oder zu hart wirkt. Genau hier wird der [Unterton](/glossar/unterton/) besonders sichtbar. In wärmeren Farbfamilien verbindet sich Creme oft ruhig mit [Apricot und Pfirsich](/glossar/apricot-und-pfirsich/).
 
 ## Nuancen und Materialien
 

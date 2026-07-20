@@ -4,6 +4,7 @@ term: Preis-pro-Tragen-Strategie
 description: Die Preis-pro-Tragen-Strategie nutzt Cost per Wear als Entscheidungshilfe für sinnvolle
   Anschaffungen.
 category: Garderobe & Alltag
+subcategory: Verbraucherwissen
 tags:
   - preis pro tragen strategie
   - cost per wear
@@ -70,6 +71,8 @@ Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kate
 Frag dich bei **Preis-pro-Tragen-Strategie**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Preis-pro-Tragen-Strategie** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fischgrat](/glossar/fischgrat/).
 
 ## Verwandte Begriffe
 

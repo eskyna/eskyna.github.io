@@ -47,7 +47,7 @@ Ein **Longsleeve** ist ein langärmeliges Shirt, meist aus Jersey, Baumwolle ode
 
 Ein Longsleeve kann schlicht, sportlich oder sehr fein wirken. Entscheidend sind Ausschnitt, Material, Körpernähe und Farbe. Ein enges Longsleeve aus feinem Jersey wirkt anders als ein lockeres Modell aus gerippter Baumwolle.
 
-Unter Blazer, Cardigan, Weste oder Overshirt ist ein Longsleeve eine ruhige Grundlage. Es gibt Wärme, ohne den Look schwer zu machen.
+Unter Blazer, [Cardigan](/glossar/cardigan/), Weste oder Overshirt ist ein Longsleeve eine ruhige Grundlage. Es gibt Wärme, ohne den Look schwer zu machen.
 
 ## Warum dieser Begriff wichtig ist
 

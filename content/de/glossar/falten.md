@@ -36,7 +36,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Falten**: Falten sind gelegte oder genähte Stoffbrüche, die Volumen, Bewegung oder Ordnung erzeugen.
+**Falten**: Falten sind gelegte oder genähte Stoffbrüche, die Volumen, Bewegung oder Ordnung erzeugen. Bei Hosen beeinflussen sie oft direkt den [Hosenbruch](/glossar/hosenbruch/).
 
 ## Einfach erklärt
 

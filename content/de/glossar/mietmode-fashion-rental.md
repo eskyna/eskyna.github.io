@@ -5,6 +5,15 @@ description: "Mietmode ermöglicht die zeitlich begrenzte Nutzung von Kleidung o
 category: "Garderobe & Alltag"
 image: images/glossar/mietmode-fashion-rental.png
 image_alt: "Glossar-Illustration zu Mietmode/Fashion Rental"
+relatedTerms:
+  - title: Slow Fashion
+    url: /glossar/slow-fashion/
+  - title: Fast Fashion
+    url: /glossar/fast-fashion/
+  - title: Capsule Wardrobe
+    url: /glossar/capsule-wardrobe/
+  - title: Materialqualität
+    url: /glossar/materialqualitaet/
 keywords:
   - "mietmode fashion rental"
   - "was ist mietmode/fashion rental"
@@ -18,13 +27,13 @@ Angebote reichen von Einzelmieten für Anlässe bis zu Abonnements mit regelmä�
 
 ## Einfach erklärt
 
-Mieten kann bei selten benötigter Festmode, hochwertigen Accessoires oder experimentellen Looks sinnvoll sein. Die Umweltwirkung ist jedoch nicht automatisch positiv: Versandwege, Reinigung, Verpackung, Auslastung und Lebensdauer der Teile spielen mit. Auch Passform und Rückgabefrist müssen praktisch funktionieren.
+Mieten kann bei selten benötigter Festmode, hochwertigen Accessoires oder experimentellen Looks sinnvoll sein. Die Umweltwirkung ist jedoch nicht automatisch positiv: Versandwege, Reinigung, Verpackung, Auslastung und Lebensdauer der Teile spielen mit. Auch [Passform](/glossar/passform/) und Rückgabefrist müssen praktisch funktionieren.
 
 ## Worauf du achten solltest
 
 - Vergleiche Mietpreis, Kaution, Versicherung und mögliche Schadensregeln.
 - Plane genügend Zeit für Anprobe und gegebenenfalls Ersatz ein.
-- Prüfe, ob Mieten einen echten Neukauf ersetzt oder nur zusätzlichen Konsum erzeugt.
+- Prüfe, ob Mieten einen echten Neukauf ersetzt oder nur zusätzlichen Konsum erzeugt und ob es zu deiner [Capsule Wardrobe](/glossar/capsule-wardrobe/) passt.
 
 ## Typisches Missverständnis
 

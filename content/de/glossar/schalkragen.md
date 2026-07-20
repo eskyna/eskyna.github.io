@@ -4,6 +4,7 @@ term: Schalkragen
 description: Ein Schalkragen ist ein weich gerundeter Kragen ohne harte Kante und wirkt ruhiger als
   ein klassisches Revers.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - materialien
   - schalkragen
@@ -83,6 +84,8 @@ Wenn du den Begriff **Schalkragen** auf ein Outfit überträgst, prüfe nicht nu
 In der Beratung ist **Schalkragen** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Bei voluminösen Oberteilen hilft der Blick auf [Fledermausärmel](/glossar/fledermausaermel/), um den Schulter- und Ärmelverlauf besser einzuordnen.
 
 ## Verwandte Begriffe
 

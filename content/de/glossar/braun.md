@@ -46,13 +46,13 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Braun
 
-Braun wirkt geerdet, warm und erwachsen. Es kann einem Outfit Tiefe geben, ohne so hart zu erscheinen wie Schwarz. In guten Materialien wirkt Braun ruhig, hochwertig und sehr modern.
+Braun wirkt geerdet, warm und erwachsen. Es kann einem Outfit Tiefe geben, ohne so hart zu erscheinen wie Schwarz. In guten Materialien wirkt Braun ruhig, hochwertig und sehr modern. Zwischen [Camel](/glossar/camel/) und [Terracotta](/glossar/terracotta/) zeigt sich besonders gut, wie unterschiedlich warme Brauntöne wirken können.
 
 ## Wie Braun wirkt
 
 Braun nimmt Spannung aus sehr harten Kontrasten und bringt Wärme in neutrale Looks. Ein brauner Mantel wirkt weicher als ein schwarzer. Eine braune Lederhose wirkt weniger streng als Schwarz, aber immer noch stark. Ein espressofarbener Blazer kann im Business genauso souverän wirken wie Navy oder Anthrazit.
 
-Die Wirkung hängt stark vom Material ab. Braun in Leder wirkt urban und satt. Braun in Wolle wirkt warm und klassisch. Braun in Seide wirkt tief und elegant. Braun in Baumwolle oder Cord wirkt natürlicher und entspannter.
+Die Wirkung hängt stark vom Material ab. Braun in Leder wirkt urban und satt. Braun in Wolle wirkt warm und klassisch. Braun in Seide wirkt tief und elegant. Braun in Baumwolle oder Cord wirkt natürlicher und entspannter. Neben [Orange](/glossar/orange/) gehört Braun zu den wichtigsten warmen Gegenspielern im Farb-Lexikon.
 
 ## Die Nuancen von Braun
 

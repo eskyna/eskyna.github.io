@@ -4,6 +4,7 @@ term: Oberkörperlänge
 description: Oberkörperlänge beschreibt, wie lang der Oberkörper im Verhältnis zu Beinen und Taille
   wirkt.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - oberkörperlänge
   - proportion
@@ -45,6 +46,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Auch hier geht es nicht um anatomische Richtigkeit, sondern um optische Lesbarkeit. Ein Look kann den Oberkörper verlängern, verkürzen oder ausgewogener erscheinen lassen.
+In der Umsetzung hilft oft ein Blick auf [Petite Styling](/glossar/petite-styling/), weil dort Längenverhältnisse besonders präzise gesteuert werden.
 
 ## Mini-Test vor dem Spiegel
 

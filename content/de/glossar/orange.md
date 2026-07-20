@@ -47,9 +47,9 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Orange
 
-Orange ist warm, aktiv und sichtbar. Es wirkt offener als Rot, sonniger als Braun und lebendiger als Beige. Gleichzeitig ist Orange eine Farbe, die sehr genau dosiert werden möchte.
+Orange ist warm, aktiv und sichtbar. Es wirkt offener als Rot, sonniger als [Braun](/glossar/braun/) und lebendiger als Beige. Gleichzeitig ist Orange eine Farbe, die sehr genau dosiert werden möchte.
 
-Ein klares Orange wirkt sportlich und energetisch. Ein gedämpftes Orange wirkt erwachsener. Terracotta oder Rost bringen die Farbe näher an Naturtöne und machen sie leichter kombinierbar.
+Ein klares Orange wirkt sportlich und energetisch. Ein gedämpftes Orange wirkt erwachsener. [Terracotta](/glossar/terracotta/) oder Rost bringen die Farbe näher an Naturtöne und machen sie leichter kombinierbar.
 
 ## Wie Orange wirkt
 
@@ -69,7 +69,7 @@ Orange in Leinen wirkt sommerlich. Orange in Wolle wirkt warm und ruhig. Orange 
 ## Kombinationen, die funktionieren
 
 - Orange + Denim: frisch und unkompliziert
-- Orange + Braun: warm und geerdet
+- Orange + [Braun](/glossar/braun/): warm und geerdet
 - Orange + Creme: weich und sommerlich
 - Orange + Navy: kontrastreich und klar
 - Orange + Oliv: natürlich und modern

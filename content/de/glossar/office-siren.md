@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Look greift 90er- und frühe 2000er-Businessbilder auf, wirkt aber modischer und bewusst inszeniert. Er lebt von Kontrast zwischen Professionalität und Verführung.
+Der Look greift 90er- und frühe 2000er-Businessbilder auf, wirkt aber modischer und bewusst inszeniert. Er lebt von Kontrast zwischen Professionalität und Verführung und spielt oft bewusst mit dem Raster von [Business Professional](/glossar/business-professional/).
 
 ## Warum der Begriff wichtig ist
 

@@ -50,7 +50,7 @@ Ein **Basic** ist ein schlichtes, vielseitiges Kleidungsstück, das viele Outfit
 
 Ein Basic kann ein T-Shirt, eine Bluse, eine Hose, ein Pullover, ein Top oder ein Blazer sein. Entscheidend ist nicht die Kategorie, sondern die Funktion im Kleiderschrank. Ein gutes Basic verbindet sich mit vielen anderen Teilen und gibt dem Look eine klare Grundlage.
 
-Basics sind oft ruhig in Farbe, Schnitt und Detail. Das bedeutet aber nicht, dass sie langweilig sein müssen. Ein weißes Shirt aus guter Baumwolle, ein dunkelblauer Feinstrickpullover oder eine gerade schwarze Hose können sehr hochwertig wirken, wenn Material, Passform und Farbe stimmen.
+Basics sind oft ruhig in Farbe, Schnitt und Detail. Das bedeutet aber nicht, dass sie langweilig sein müssen. Ein weißes Shirt aus guter Baumwolle, ein dunkelblauer Feinstrickpullover oder eine gerade schwarze Hose können sehr hochwertig wirken, wenn Material, Passform und Farbe stimmen. Genau diese [Kombinierbarkeit](/glossar/kombinierbarkeit/) macht gute Basics so wertvoll.
 
 ## Warum Basics wichtig sind
 

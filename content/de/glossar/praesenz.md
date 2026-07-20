@@ -77,7 +77,7 @@ offer_bridge:
 
 Präsenz muss nicht laut sein. Oft ist sie gerade in klaren, ruhigen Auftritten stark.
 
-Kleidung kann Präsenz unterstützen, wenn sie Linie, Fokus und Glaubwürdigkeit gibt. Sie kann sie aber nicht ersetzen, wenn innere Unsicherheit oder Unstimmigkeit dominiert.
+Kleidung kann Präsenz unterstützen, wenn sie Linie, Fokus und Glaubwürdigkeit gibt. Sie kann sie aber nicht ersetzen, wenn innere Unsicherheit oder Unstimmigkeit dominiert. Im Alltag zeigt sich das direkt in der wahrgenommenen [Ausstrahlung](/glossar/ausstrahlung/).
 
 ## Warum der Begriff wichtig ist
 
@@ -117,11 +117,11 @@ Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Komp
 
 ## Beratungssituation im echten Leben
 
-Bei **Präsenz** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Präsenz** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Präsenz** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Präsenz** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -132,7 +132,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Präsenz** grundsätzlich versteht
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Präsenz** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Präsenz ansehen](/praesenz/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Präsenz** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Präsenz ansehen](/praesenz/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

@@ -4,6 +4,7 @@ term: A-Linie
 description: Die A-Linie ist eine Schnittform, die oben schmaler beginnt und nach unten weiter wird.
   Sie wirkt ruhig und ausgewogen.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - a-linie
   - schnitt
@@ -42,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Die **A-Linie** ist eine Schnittform, die oben schmaler beginnt und nach unten weiter wird. Die äußere Form erinnert an den Buchstaben A. Man findet sie besonders bei Röcken, Kleidern und Mänteln.
+Die **A-Linie** ist eine Schnittform, die oben schmaler beginnt und nach unten weiter wird. Die äußere Form erinnert an den Buchstaben A. Man findet sie besonders bei [A-Linien-Röcken](/glossar/a-linien-rock/), [A-Linien-Kleidern](/glossar/a-linien-kleid/) und Mänteln.
 
 ## Einfach erklärt
 
@@ -52,7 +53,7 @@ Die A-Linie kann weich fallen oder mehr Stand haben. Ein fließender Stoff wirkt
 
 ## Warum die A-Linie wichtig ist
 
-Die A-Linie hilft, Proportionen bewusst zu gestalten. Sie kann die Taille betonen, Bewegung geben und die Silhouette nach unten öffnen. Besonders bei Röcken und Kleidern entscheidet die Saumlänge, ob die Form leicht, klassisch oder schwer wirkt.
+Die A-Linie hilft, Proportionen bewusst zu gestalten. Sie kann die Taille betonen, Bewegung geben und die [Silhouette](/glossar/silhouette/) nach unten öffnen. Besonders bei Röcken und Kleidern entscheidet die [Saumlänge](/glossar/saumlange/), ob die Form leicht, klassisch oder schwer wirkt.
 
 Für ESKYNA ist die A-Linie wichtig, weil sie zeigt, wie Form und Wirkung zusammenhängen. Ein Schnitt ist nicht nur eine technische Beschreibung. Er verändert, wie ein Outfit gelesen wird.
 

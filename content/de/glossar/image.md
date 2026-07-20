@@ -22,6 +22,8 @@ relatedTerms:
     url: /glossar/personal-style/
   - title: Garderobenlogik
     url: /glossar/garderobenlogik/
+  - title: Dresscode
+    url: /glossar/dresscode/
 faq:
   items:
     - q: Wie nutze ich „Image“ im Alltag?
@@ -36,11 +38,11 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Image**: Image ist das Bild, das andere durch Auftreten, Kleidung, Farben, Haltung und Kommunikation von einer Person wahrnehmen.
+**Image**: Image ist das Bild, das andere durch Auftreten, Kleidung, Farben, Haltung und Kommunikation von einer Person wahrnehmen. Je nach Anlass verändert ein [Dresscode](/glossar/dresscode/) die erwartete Wirkung.
 
 ## Einfach erklärt
 
-Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen. Dafür greifen viele auf einen klaren [Signature Look](/glossar/signature-look/) zurück. Ein klares [Stilprofil](/glossar/stilprofil/) macht diese Wirkung im Alltag deutlich konsistenter.
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 
@@ -48,7 +50,7 @@ Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wir
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
-Gerade im Alltag hilft Image, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Gerade im Alltag hilft Image, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen [Garderobenlogik](/glossar/garderobenlogik/), zum Anlass und zur gewünschten Wirkung passt.
 
 ## Worauf du achten solltest
 

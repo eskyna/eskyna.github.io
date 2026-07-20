@@ -81,6 +81,8 @@ Für ESKYNA ist das T-Shirt interessant, weil es zeigt, wie viel Wirkung in einf
 
 Ein T-Shirt ist einfach. Aber einfach wirkt nur dann hochwertig, wenn Schnitt, Stoff und Farbe stimmen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Ikat](/glossar/ikat/).
+
 ## Praxischeck
 
 Wenn du den Begriff **T-Shirt** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

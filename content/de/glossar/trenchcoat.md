@@ -77,6 +77,8 @@ Für ESKYNA ist der Trenchcoat spannend, weil er zeigt, wie ein Klassiker modern
 
 Ein Trenchcoat ist ein Klassiker, wenn er zur Person passt. Seine Eleganz liegt in Länge, Farbe und Bewegung.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jogpants](/glossar/jogpants/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Trenchcoat** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

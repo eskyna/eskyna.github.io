@@ -5,6 +5,15 @@ description: "Eine Fashion Week ist ein gebündelter Veranstaltungszeitraum für
 category: "Garderobe & Alltag"
 image: images/glossar/fashion-week.png
 image_alt: "Glossar-Illustration zu Fashion Week"
+relatedTerms:
+  - title: Haute Couture
+    url: /glossar/haute-couture/
+  - title: Trendzyklus
+    url: /glossar/trendzyklus/
+  - title: Fast Fashion
+    url: /glossar/fast-fashion/
+  - title: Slow Fashion
+    url: /glossar/slow-fashion/
 keywords:
   - "fashion week"
   - "was ist fashion week"
@@ -14,17 +23,17 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Mehrere Modemetropolen und regionale Märkte organisieren eigene Modewochen. Neben Laufstegshows gehören Showrooms, digitale Formate, Messen, Gespräche und private Termine dazu.
+Mehrere Modemetropolen und regionale Märkte organisieren eigene Modewochen. Neben Laufstegshows gehören Showrooms, digitale Formate, Messen, Gespräche und private Termine dazu. Je nach Segment reicht das Spektrum von Prêt-à-porter bis [Haute Couture](/glossar/haute-couture/).
 
 ## Einfach erklärt
 
-Fashion Week bezeichnet weder eine einzige globale Veranstaltung noch exakt sieben Tage. Saison, Zielgruppe und Kalender unterscheiden sich für Damen-, Herren-, Couture- und andere Segmente. Die gezeigte Mode richtet sich häufig an eine spätere Verkaufssaison.
+Fashion Week bezeichnet weder eine einzige globale Veranstaltung noch exakt sieben Tage. Saison, Zielgruppe und Kalender unterscheiden sich für Damen-, Herren-, Couture- und andere Segmente. Die gezeigte Mode richtet sich häufig an eine spätere Verkaufssaison und beeinflusst den [Trendzyklus](/glossar/trendzyklus/).
 
 ## Worauf du achten solltest
 
 - Beachte Ort, Saison und Segment, bevor du Trends aus einer Modewoche vergleichst.
 - Unterscheide offizielle Kalender, Begleitveranstaltungen und unabhängige Shows.
-- Bewerte Trends erst nach mehreren Kollektionen statt nach einem viralen Einzelbild.
+- Bewerte Trends erst nach mehreren Kollektionen statt nach einem viralen Einzelbild und ordne ein, wie sie in [Fast Fashion](/glossar/fast-fashion/) oder [Slow Fashion](/glossar/slow-fashion/) übersetzt werden.
 
 ## Typisches Missverständnis
 

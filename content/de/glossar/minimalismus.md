@@ -45,6 +45,8 @@ Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste S
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 
+Ein aktueller Ausdruck davon ist [Clean Girl Aesthetic](/glossar/clean-girl-aesthetic/), wenn reduzierte Formen mit ruhiger Pflegeästhetik kombiniert werden.
+
 ## Warum Minimalismus wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

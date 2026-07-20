@@ -72,7 +72,7 @@ offer_bridge:
 
 ## Definition
 
-Eine **Farbpalette** ist eine bewusste Auswahl von Farben, die miteinander funktionieren und zur Person passen. Sie kann neutrale Basisfarben, Akzentfarben und saisonale Ergänzungen enthalten.
+Eine **Farbpalette** ist eine bewusste Auswahl von Farben, die miteinander funktionieren und zur Person passen. Sie kann neutrale Basisfarben, [Akzentfarben](/glossar/akzentfarbe/) und saisonale Ergänzungen enthalten.
 
 ## Einfach erklärt
 
@@ -96,11 +96,11 @@ In einer Capsule Wardrobe ist die Farbpalette besonders wichtig. Je klarer die F
 
 ## Praktisches Beispiel
 
-Eine Palette kann aus Navy, Creme, Hellblau, Braun und Bordeaux bestehen. Navy und Creme bilden die Basis. Hellblau bringt Frische. Braun gibt Wärme. Bordeaux setzt Akzente.
+Eine Palette kann aus Navy, Creme, Hellblau, Braun und Bordeaux bestehen. Navy und Creme bilden die Basis. Hellblau bringt Frische. Braun gibt Wärme. Bordeaux setzt Akzente. Benachbarte Töne im Spektrum können dabei als [Analogfarben](/glossar/analogfarben/) besonders harmonisch zusammenarbeiten.
 
 ## ESKYNA-Merksatz
 
-Eine gute Farbpalette macht Stilentscheidungen leichter. Nicht enger, sondern klarer.
+Eine gute Farbpalette macht [Stilentscheidungen](/glossar/stilentscheidung/) leichter. Nicht enger, sondern klarer.
 
 ## Praxischeck
 
@@ -108,11 +108,13 @@ Wenn du den Begriff **Farbpalette** auf ein Outfit überträgst, prüfe nicht nu
 
 - Halte die Farbe einmal nah ans Gesicht und einmal weiter weg im Outfit.
 - Vergleiche eine warme, kühle, helle und gedeckte Variante.
-- Prüfe, ob Schmuck, Brille oder Lippenfarbe die gleiche Richtung unterstützen.
+- Prüfe, ob [Farbtemperatur](/glossar/farbtemperatur/), Schmuck, Brille oder Lippenfarbe die gleiche Richtung unterstützen.
 
 ## Beratungsblick
 
 In der Beratung ist **Farbpalette** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+
+Innerhalb einer stimmigen Palette kann ein gezielter [Color Clash](/glossar/color-clash-farb-clash/) ein Outfit lebendiger machen.
 
 Mehr Orientierung findest du in der Kategorie [Farbberatung & Farbe](/glossar/kategorie/farbberatung-farbe/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgefühl](/stilgefuehl/).
 
@@ -120,11 +122,11 @@ Mehr Orientierung findest du in der Kategorie [Farbberatung & Farbe](/glossar/ka
 
 ## Beratungssituation im echten Leben
 
-Bei **Farbpalette** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Farbpalette** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Farbpalette** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Farbpalette** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -135,6 +137,6 @@ Typisch ist eine Kundin oder ein Kunde, der **Farbpalette** grundsätzlich verst
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Farbpalette** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Farbpalette** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->

@@ -14,7 +14,24 @@
 {{ $colorWheelCenter := cond $isRuLang "Цветовой круг" (cond (eq $lang "en") "Color wheel" "Farbkreis") }}
 {{ $category := .Params.glossar_category | default .Title }}
 {{ $allGlossarPages := where .CurrentSection.RegularPages "Params.is_glossar_category" "ne" true }}
-{{ $terms := sort (where $allGlossarPages "Params.category" $category) "Title" "asc" }}
+{{ $filterSlugs := .Params.glossar_filter_terms | default (slice) }}
+{{ $filterSubcategory := .Params.glossar_subcategory | default "" }}
+{{ $terms := slice }}
+{{ if gt (len $filterSlugs) 0 }}
+  {{ range $slug := $filterSlugs }}
+    {{ range $term := $allGlossarPages }}
+      {{ with $term.File }}
+        {{ if eq .BaseFileName $slug }}
+          {{ $terms = $terms | append $term }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ else if $filterSubcategory }}
+  {{ $terms = sort (where $allGlossarPages "Params.subcategory" $filterSubcategory) "Title" "asc" }}
+{{ else }}
+  {{ $terms = sort (where $allGlossarPages "Params.category" $category) "Title" "asc" }}
+{{ end }}
 {{ $isColorLexicon := false }}
 {{ with .File }}
   {{ if or (eq .BaseFileName "farb-lexikon") (eq .BaseFileName "tsvetovoy-slovar") }}

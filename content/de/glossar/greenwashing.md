@@ -5,6 +5,15 @@ description: "Greenwashing bezeichnet Umweltkommunikation, die nachhaltiger klin
 category: "Garderobe & Alltag"
 image: images/glossar/greenwashing.png
 image_alt: "Glossar-Illustration zu Greenwashing"
+relatedTerms:
+  - title: Transparenz
+    url: /glossar/transparenz/
+  - title: Slow Fashion
+    url: /glossar/slow-fashion/
+  - title: Fast Fashion
+    url: /glossar/fast-fashion/
+  - title: Materialqualität
+    url: /glossar/materialqualitaet/
 keywords:
   - "greenwashing"
   - "was ist greenwashing"
@@ -18,7 +27,7 @@ Problematisch sind vage Begriffe, fehlende Nachweise, irrelevante Einzelaspekte 
 
 ## Einfach erklärt
 
-Ein grünes Etikett, Naturbilder oder Wörter wie bewusst, eco und verantwortungsvoll sind noch kein Beweis. Gute Aussagen nennen konkrete Kriterien, Bezugsgrößen, Zeiträume, Zertifizierungen oder nachvollziehbare Daten. Auch eine korrekte Einzelangabe kann irreführend wirken, wenn sie den Gesamteindruck verzerrt.
+Ein grünes Etikett, Naturbilder oder Wörter wie bewusst, eco und verantwortungsvoll sind noch kein Beweis. Gute Aussagen nennen konkrete Kriterien, Bezugsgrößen, Zeiträume, Zertifizierungen oder nachvollziehbare Daten. Dafür sind [Transparenz](/glossar/transparenz/) und belastbare Angaben zur [Materialqualität](/glossar/materialqualitaet/) entscheidend. Auch eine korrekte Einzelangabe kann irreführend wirken, wenn sie den Gesamteindruck verzerrt.
 
 ## Worauf du achten solltest
 
@@ -28,7 +37,7 @@ Ein grünes Etikett, Naturbilder oder Wörter wie bewusst, eco und verantwortung
 
 ## Typisches Missverständnis
 
-Greenwashing bedeutet nicht nur eine vollständig falsche Aussage. Auch vage, selektive oder übertriebene Kommunikation kann irreführen.
+Greenwashing bedeutet nicht nur eine vollständig falsche Aussage. Auch vage, selektive oder übertriebene Kommunikation kann irreführen, egal ob sie in [Fast Fashion](/glossar/fast-fashion/) oder vermeintlicher [Slow Fashion](/glossar/slow-fashion/) auftaucht.
 
 ## ESKYNA-Merksatz
 

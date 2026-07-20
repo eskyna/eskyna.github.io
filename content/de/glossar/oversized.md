@@ -4,6 +4,7 @@ term: Oversized
 description: Oversized beschreibt bewusst großzügig geschnittene Kleidung, die Volumen, Lässigkeit
   und moderne Proportionen schafft.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - oversized
   - schnitt
@@ -54,7 +55,7 @@ Wichtig ist die Absicht. Oversized wirkt modern, wenn die Proportionen kontrolli
 
 Oversized kann einem Outfit Lässigkeit, Ruhe und eine moderne Silhouette geben. Der Stil wirkt weniger angepasst und oft selbstverständlicher. Gleichzeitig braucht Volumen Balance.
 
-Für ESKYNA ist Oversized besonders spannend, weil der Begriff zeigt, dass gute Passform nicht immer körpernah bedeutet. Auch Weite kann perfekt passen, wenn sie zur Person, zur Haltung und zum Rest des Looks passt.
+Für ESKYNA ist Oversized besonders spannend, weil der Begriff zeigt, dass gute Passform nicht immer körpernah bedeutet. Auch Weite kann perfekt passen, wenn sie zur Person, zur Haltung und zum Rest des Looks passt. Gerade in [Athleisure](/glossar/athleisure/) entsteht daraus die typische Verbindung von Komfort und kontrollierter Proportion.
 
 ## Worauf du bei Oversized achten solltest
 

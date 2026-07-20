@@ -46,7 +46,7 @@ Ein **Faser-Mix** oder Mischgewebe kombiniert mehrere Fasern in einem Stoff. Dad
 
 ## Einfach erklärt
 
-Der Begriff schliesst Naturfasern und Kunstfasern mit ein. Entscheidend ist nicht nur die Zusammensetzung, sondern wie sinnvoll sie für das Kleidungsstück eingesetzt wurde.
+Der Begriff schliesst Naturfasern und Kunstfasern mit ein. Entscheidend ist nicht nur die Zusammensetzung, sondern wie sinnvoll sie für das Kleidungsstück eingesetzt wurde. Schon ein kleiner Anteil [Elasthan](/glossar/elasthan/) kann Tragekomfort und Formstabilität spürbar verändern. Auch [Polyamid](/glossar/polyamid/) wird oft beigemischt, um Abriebfestigkeit und Haltbarkeit zu erhöhen. Genau darüber wird [Stretch](/glossar/stretch/) im Alltag häufig erst sinnvoll eingeordnet.
 
 ## Mini-Test vor dem Spiegel
 

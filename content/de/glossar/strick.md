@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen. Klassische Dessins wie [Argyle/Rautenmuster](/glossar/argyle-rautenmuster/) zeigen besonders deutlich, wie stark Strick und Muster zusammen gelesen werden.
 
 ## Warum Strick wichtig ist
 
@@ -58,6 +58,8 @@ Gerade im Alltag hilft Strick, schneller zu erkennen, ob ein Teil nur interessan
 - Achte auf Material, Farbe und Proportion.
 - Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
 - Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+
+Bei Winterstrick lohnt sich außerdem der Blick auf Fasern wie [Alpaka](/glossar/alpaka/), weil sie Wärme, Volumen und Oberfläche spürbar verändern.
 
 ## Typische Missverständnisse
 

@@ -3,6 +3,7 @@ title: Was bedeutet Ballonärmel?
 term: Ballonärmel
 description: Ein Ballonärmel ist ein voluminöser Ärmel mit gerafftem oder geschlossenem Abschluss.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - ballonaermel
   - schnitt proportion
@@ -50,6 +51,7 @@ Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Ballonärmel, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Ein gezielter [Kleiderschrank-Detox](/glossar/kleiderschrank-detox/) hilft dir, überladene Varianten auszusortieren und tragbare Formen zu behalten.
 
 ## Worauf du achten solltest
 

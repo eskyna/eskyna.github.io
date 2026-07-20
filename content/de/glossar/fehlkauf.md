@@ -49,7 +49,7 @@ Ein **Fehlkauf** ist ein Kleidungsstück, das zwar gekauft, aber kaum getragen w
 
 Ein Fehlkauf fühlt sich beim Kauf oft richtig an. Das Teil ist schön, reduziert, besonders oder einfach neu. Zu Hause zeigt sich dann: Es passt zu keiner Hose, sitzt nicht gut, ist für den Alltag zu empfindlich oder erzeugt nicht die gewünschte Wirkung.
 
-Fehlkäufe entstehen häufig aus Momenten heraus. Man kauft für eine Fantasieversion des eigenen Lebens, für einen Trend oder für einen Anlass, der selten vorkommt. Das Kleidungsstück ist dann nicht falsch. Es hat nur keinen echten Platz im eigenen System.
+Fehlkäufe entstehen häufig aus Momenten heraus. Man kauft für eine Fantasieversion des eigenen Lebens, für einen Trend oder für einen Anlass, der selten vorkommt. Genau so kann auch scheinbar nachhaltiges Marketing durch [Greenwashing](/glossar/greenwashing/) Fehlentscheidungen begünstigen. Das Kleidungsstück ist dann nicht falsch. Es hat nur keinen echten Platz im eigenen System.
 
 ## Warum Fehlkäufe wichtig sind
 

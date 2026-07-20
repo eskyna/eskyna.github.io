@@ -5,6 +5,7 @@ description:
   Drop Waist beschreibt eine tiefer gesetzte Taille, die den Oberkörper optisch verlängert
   und eine lässige, oft zwanziger-nahe Wirkung erzeugt.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - drop waist
   - taillenposition
@@ -45,7 +46,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Die Wirkung kann lässig, modebewusst, sportlich oder leicht an die Zwanzigerjahre erinnernd sein. Gerade deshalb ist Drop Waist ein klarer Proportionsbegriff.
+Die Wirkung kann lässig, modebewusst, sportlich oder leicht an die Zwanzigerjahre erinnernd sein. Gerade deshalb ist Drop Waist ein klarer Proportionsbegriff und oft Teil einer bewussten [Stilbotschaft](/glossar/stilbotschaft/).
 
 ## Mini-Test vor dem Spiegel
 

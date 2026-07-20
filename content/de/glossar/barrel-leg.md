@@ -52,6 +52,7 @@ Barrel Leg gibt es bei Jeans, Stoffhosen und Chinos. Besonders schön wirkt die 
 ## Warum dieser Begriff wichtig ist
 
 Barrel Leg ist wichtig, weil moderne Silhouetten nicht immer eng oder gerade sein müssen. Die Form zeigt, wie Schnitt eine eigene Wirkung erzeugt.
+Beim [Kleiderschrank-Detox](/glossar/kleiderschrank-detox/) hilft diese Perspektive, austauschbare Hosen von wirklich tragbaren Formen zu trennen.
 
 ## Worauf du achten solltest
 

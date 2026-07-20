@@ -52,7 +52,7 @@ Noch bevor jemand Ihre Inhalte kennt, entsteht bereits ein Bild. Wirken Sie prä
 
 ## Warum der Begriff wichtig ist
 
-Ein stimmiger erster Eindruck erleichtert Vertrauen, Gespräche und Positionierung. Gerade in beruflichen oder sichtbaren Situationen kann er Türen öffnen oder unnötige Irritation erzeugen.
+Ein stimmiger erster Eindruck erleichtert Vertrauen, Gespräche und Positionierung. Gerade in beruflichen oder sichtbaren Situationen kann er Türen öffnen oder unnötige Irritation erzeugen. Langfristig wird daraus eine konsistente [Ausstrahlung](/glossar/ausstrahlung/).
 
 ## Typische Missverständnisse
 

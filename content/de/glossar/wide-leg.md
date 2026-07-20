@@ -4,6 +4,7 @@ term: Wide Leg
 description: Wide Leg bezeichnet Hosen mit weiter Beinlinie, die Volumen, Bewegung und eine moderne
   Silhouette in den Look bringen.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - wide leg
   - hose
@@ -75,6 +76,8 @@ Für ESKYNA ist Wide Leg ein guter Begriff, weil er zeigt, dass Weite nicht auto
 ## ESKYNA-Merksatz
 
 Wide Leg ist Volumen mit Absicht. Die Hose wirkt elegant, wenn Proportion, Stoff und Länge zusammenarbeiten.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Koralle](/glossar/koralle/).
 
 ## Praxischeck
 

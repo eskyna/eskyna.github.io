@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Punkte, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Für stärkere Kontraste und mehr Modeaussage wird häufig [Leo-Print](/glossar/leo-print/) gewählt.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Punkte im Outfit übernimmt.
@@ -83,6 +85,8 @@ Wenn du den Begriff **Punkte** auf ein Outfit überträgst, prüfe nicht nur das
 In der Beratung ist **Punkte** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fisherman Sandals](/glossar/fisherman-sandals-fischersandalen/).
 
 ## Verwandte Begriffe
 

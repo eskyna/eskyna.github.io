@@ -79,7 +79,7 @@ Beim Unterton geht es nicht darum, ob deine Haut hell oder dunkel ist. Zwei Mens
 
 ## Warum Unterton wichtig ist
 
-Der Unterton ist besonders wichtig bei Farben nah am Gesicht. Blusen, Rollkragen, Schals, Schmuck, Brillen und Make-up reagieren direkt mit dem Teint. Wenn die Temperatur nicht stimmt, wirkt ein Look schnell unruhig oder müde, obwohl Schnitt und Qualität gut sind.
+Der Unterton ist besonders wichtig bei Farben nah am Gesicht. Blusen, Rollkragen, Schals, Schmuck, Brillen und Make-up reagieren direkt mit dem Teint. Wenn die Temperatur nicht stimmt, wirkt ein Look schnell unruhig oder müde, obwohl Schnitt und Qualität gut sind. Das zeigt sich oft schon bei [Beige](/glossar/beige/) oder [Creme](/glossar/creme/).
 
 ## Blick aus der Beratung
 
@@ -106,7 +106,7 @@ Viele Online-Tests vereinfachen den Unterton zu stark. Venenfarbe oder Sonnenbr�
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-Unterton beschreibt dich, Farbtemperatur beschreibt die Farbe. Der Farbtyp entsteht erst, wenn Unterton, Kontrast, Helligkeit und Sättigung gemeinsam betrachtet werden.
+Unterton beschreibt dich, Farbtemperatur beschreibt die Farbe. Der Farbtyp entsteht erst, wenn Unterton, Kontrast, Helligkeit und Sättigung gemeinsam betrachtet werden. Deshalb funktionieren [neutrale Farben](/glossar/neutrale-farben/) nicht für alle Menschen gleich.
 
 ## Nächster Schritt
 
@@ -120,11 +120,11 @@ Der Unterton ist leise, aber er entscheidet oft, ob eine Farbe harmonisch oder f
 
 ## Beratungssituation im echten Leben
 
-Bei **Unterton** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Unterton** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Unterton** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Unterton** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -135,7 +135,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Unterton** grundsätzlich versteht
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Unterton** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Unterton** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

@@ -89,4 +89,6 @@ Wenn du den Begriff **Leinen** auf ein Outfit überträgst, prüfe nicht nur das
 
 In der Beratung ist **Leinen** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
+Bei Leinen sorgt [Dampfen](/glossar/dampfen/) oft für glatte Flächen, ohne die Faser hart zu pressen.
+
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).

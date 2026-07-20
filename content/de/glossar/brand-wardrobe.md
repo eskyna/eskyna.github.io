@@ -46,7 +46,7 @@ Eine **Brand Wardrobe** ist eine Garderobe mit klaren Wiederholungen. Farben, Sc
 
 ## Einfach erklärt
 
-Nicht jedes Kleidungsstück muss gleich aussehen. Entscheidend ist, dass sich bestimmte Stilcodes wiederholen und dadurch Wiedererkennbarkeit entsteht.
+Nicht jedes Kleidungsstück muss gleich aussehen. Entscheidend ist, dass sich bestimmte Stilcodes wiederholen und dadurch Wiedererkennbarkeit entsteht. Auch einzelne [Deadstock](/glossar/deadstock/) Stücke können dazugehören, wenn sie diese Codes wirklich tragen.
 
 Eine Brand Wardrobe spart Zeit, reduziert Streuung und macht Sichtbarkeit glaubwürdiger.
 

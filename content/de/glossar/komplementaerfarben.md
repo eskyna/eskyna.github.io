@@ -49,6 +49,8 @@ Für ESKYNA ist dieser Begriff wichtig, weil Farbentscheidungen leichter werden,
 
 ## Warum Komplementärfarben wichtig ist
 
+Wer [Aubergine](/glossar/aubergine/) trägt, kann mit komplementären Gegenfarben gezielt Spannung erzeugen, ohne dass der Look unruhig wird.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Komplementärfarben, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

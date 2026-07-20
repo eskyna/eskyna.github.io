@@ -74,6 +74,8 @@ Betrachte „Satinrock“ einmal aus der Nähe und einmal mit etwas Abstand. Aus
 
 Ein Satinrock bringt Bewegung und Licht. Ruhige Begleiter machen ihn tragbar.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Garden Party Attire](/glossar/garden-party-attire/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Satinrock** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Bei Kleidern und Röcken bestimmen Länge, Bewegung und Taille sehr stark, wie modern oder schwer ein Look wirkt.

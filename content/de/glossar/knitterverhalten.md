@@ -86,6 +86,8 @@ In der Beratung ist **Knitterverhalten** kein starres Etikett. Der Begriff wird 
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Wenn Falten nach kurzem Tragen bleiben, ist [Chemische Reinigung](/glossar/chemische-reinigung/) oft die verlässliche Lösung.
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

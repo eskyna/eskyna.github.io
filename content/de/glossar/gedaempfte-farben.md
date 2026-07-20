@@ -50,6 +50,8 @@ Gedempft bedeutet nicht langweilig. Es bedeutet, dass eine Farbe etwas abgetönt
 
 ## Warum der Begriff wichtig ist
 
+Besonders bei [Beerentöne](/glossar/beerentoene/) zeigt sich schnell, wie gedämpfte Nuancen eleganter und alltagstauglicher wirken können als sehr klare Varianten.
+
 Viele Menschen wirken in weichen Farben harmonischer als in maximaler Klarheit. Deshalb ist dieser Begriff für Farbtypen wie Soft Summer oder Soft Autumn zentral.
 
 ## ESKYNA-Merksatz

@@ -3,8 +3,18 @@ title: "Was ist Passe?"
 term: "Passe"
 description: "Eine Passe ist ein angesetztes Formteil, das Kleidung strukturiert und Weite oder Belastung gezielt verteilt."
 category: "Schnitt, Proportion & Passform"
+subcategory: "Größen & Passform"
 image: images/glossar/passe.png
 image_alt: "Glossar-Illustration zu Passe"
+relatedTerms:
+  - title: Nahtzugabe
+    url: /glossar/nahtzugabe/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Hemd
+    url: /glossar/hemd/
 keywords:
   - "passe"
   - "was ist passe"
@@ -18,13 +28,13 @@ Passen sitzen häufig an Schulter und oberem Rücken, an Taille oder Hüfte. Sie
 
 ## Einfach erklärt
 
-Die Rückenpasse eines Hemdes stabilisiert den Schulterbereich und beeinflusst die Passform. Eine Hüftpasse bei Rock oder Hose kann den Bund ersetzen und die Taille optisch ruhiger wirken lassen. Sichtbare Nähte, Kontraststoffe oder besondere Formen machen die Passe zugleich zum Designelement.
+Die Rückenpasse eines [Hemdes](/glossar/hemd/) stabilisiert den Schulterbereich und beeinflusst die [Passform](/glossar/passform/). Eine Hüftpasse bei [Rock](/glossar/rock/) oder Hose kann den Bund ersetzen und die Taille optisch ruhiger wirken lassen. Sichtbare Nähte, Kontraststoffe oder besondere Formen machen die Passe zugleich zum Designelement.
 
 ## Worauf du achten solltest
 
 - Prüfe, ob die Passe an Schulter oder Hüfte glatt liegt und nicht absteht.
 - Achte darauf, wo angesetzte Falten beginnen und ob sie unerwünschtes Volumen erzeugen.
-- Nutze horizontale Passen bewusst, weil sie die Körperlinie optisch unterteilen.
+- Nutze horizontale Passen bewusst, weil sie die Körperlinie optisch unterteilen und die [Proportion](/glossar/proportion/) sichtbar steuern.
 
 ## Typisches Missverständnis
 

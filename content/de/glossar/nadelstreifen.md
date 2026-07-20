@@ -52,6 +52,10 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Nadelstreifen, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Für eine weichere, ornamentale Alternative zu linearen Mustern eignet sich [Paisley](/glossar/paisley/).
+
+Als bewusster Stilbruch kann [Colour Blocking](/glossar/colour-blocking/) zeigen, wie stark Kontraste die formale Wirkung von Nadelstreifen verändern.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Nadelstreifen im Outfit übernimmt.

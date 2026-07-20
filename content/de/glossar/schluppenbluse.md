@@ -5,6 +5,15 @@ description: "Eine Schluppenbluse besitzt verlängerte Bänder am Hals, die zu S
 category: "Garderobe & Alltag"
 image: images/glossar/schluppenbluse.png
 image_alt: "Glossar-Illustration zu Schluppenbluse"
+relatedTerms:
+  - title: Bluse
+    url: /glossar/bluse/
+  - title: Blazer
+    url: /glossar/blazer/
+  - title: Silhouette
+    url: /glossar/silhouette/
+  - title: Dresscode
+    url: /glossar/dresscode/
 keywords:
   - "schluppenbluse"
   - "was ist schluppenbluse"
@@ -14,17 +23,17 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Die Schluppe kann Teil des Kragens sein oder aus angesetzten Bändern bestehen. Je nach Stoff und Bindung wirkt sie klassisch, romantisch, businessnah oder bewusst lässig.
+Die Schluppe kann Teil des Kragens sein oder aus angesetzten Bändern bestehen. Je nach Stoff und Bindung wirkt sie klassisch, romantisch, businessnah oder bewusst lässig. Locker gebundene Enden oder weicher Fall bringen zusätzliche [Drapierung](/glossar/drapierung/) in die Partie am Hals.
 
 ## Einfach erklärt
 
-Das Volumen liegt nah am Gesicht und lenkt den Blick nach oben. Eine große Schleife wirkt präsent und weich, ein tiefer lockerer Knoten ruhiger und vertikaler. Unter Blazern sollte die Schluppe genügend Platz haben, damit sie nicht zusammengedrückt oder unordentlich wird.
+Das Volumen liegt nah am Gesicht und lenkt den Blick nach oben. Eine große Schleife wirkt präsent und weich, ein tiefer lockerer Knoten ruhiger und vertikaler. Unter [Blazern](/glossar/blazer/) sollte die Schluppe genügend Platz haben, damit sie nicht zusammengedrückt oder unordentlich wird.
 
 ## Worauf du achten solltest
 
 - Prüfe, ob Länge und Breite der Bänder zu Hals und Oberkörper passen.
 - Teste mehrere Bindungen, statt die Schluppe immer zur großen Schleife zu formen.
-- Achte auf knitterarme Stoffe, wenn du sie im Business tragen möchtest.
+- Achte auf knitterarme Stoffe, wenn du sie im Business oder strengerem [Dresscode](/glossar/dresscode/) tragen möchtest.
 
 ## Typisches Missverständnis
 

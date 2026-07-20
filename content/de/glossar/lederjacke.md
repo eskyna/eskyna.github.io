@@ -41,11 +41,11 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Lederjacke** ist eine Jacke aus Leder, Veloursleder oder Lederoptik. Sie wirkt je nach Schnitt klassisch, urban, stark, weich oder sehr modern.
+Eine **Lederjacke** ist eine Jacke aus Leder, Veloursleder oder Lederoptik. Sie wirkt je nach Schnitt [klassisch](/glossar/klassisch/), urban, stark, weich oder sehr modern.
 
 ## Einfach erklärt
 
-Die bekannteste Form ist die Bikerjacke mit asymmetrischem Reißverschluss. Es gibt aber auch kurze Lederblazer, Hemdjacken, Blousons oder weiche Velourslederjacken.
+Die bekannteste Form ist die [Bikerjacke](/glossar/bikerjacke/) mit asymmetrischem Reißverschluss. Es gibt aber auch kurze Lederblazer, Hemdjacken, Blousons oder weiche Velourslederjacken.
 
 Leder bringt Struktur und Gewicht in ein Outfit. Es kann romantische Kleider brechen, Denim stärken oder schlichte Basics sofort charaktervoller machen.
 

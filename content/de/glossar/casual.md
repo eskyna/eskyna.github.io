@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Casual, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Ein entspannter Sommerlook wird oft stimmiger, wenn [Caprihose](/glossar/caprihose/) bewusst in die Proportion eingebunden ist.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Casual im Outfit übernimmt.

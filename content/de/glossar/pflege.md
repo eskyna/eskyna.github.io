@@ -4,6 +4,7 @@ term: Pflege
 description: Pflege beschreibt den richtigen Umgang mit Kleidung, damit Material, Form und Wirkung
   lange erhalten bleiben.
 category: Garderobe & Alltag
+subcategory: Pflege & Wäsche
 tags:
   - garderobe
   - pflege
@@ -85,6 +86,8 @@ Wenn du den Begriff **Pflege** auf ein Outfit überträgst, prüfe nicht nur das
 In der Beratung ist **Pflege** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Für empfindliche Teile hilft ein klarer Ablauf aus [Bügeln](/glossar/buegeln/) und Ruhe beim Finish.
 
 ## Verwandte Begriffe
 

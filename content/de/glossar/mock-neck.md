@@ -52,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Mock Neck, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Für semiformelle Anlässe passt Mock Neck oft gut in Richtung [Cocktail Attire](/glossar/cocktail-attire/), wenn Material und Schuhe stimmig gewählt sind.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Mock Neck im Outfit übernimmt.

@@ -49,6 +49,8 @@ Weil das Material Einblicke erlaubt, spielt auch der Inhalt eine Rolle. Viele ko
 
 Eine Jelly Bag wirkt besonders modern als Kontrast zu schlichten Sommeroutfits, Leinenkleidern, Denim oder monochromen Looks. Für einen eleganteren Effekt eine transparente Tasche mit einem farblich passenden Innenbeutel kombinieren.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Edgy](/glossar/edgy/).
+
 ## Verwandte Begriffe
 
 - [Shopper](/glossar/shopper/)

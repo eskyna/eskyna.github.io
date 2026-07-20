@@ -5,6 +5,7 @@ description:
   Regular Fit ist ein klassischer, normaler Schnitt, der weder sehr eng noch deutlich weit
   sitzt.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - regular fit
   - schnitt proportion
@@ -53,6 +54,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Regular Fit, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Bei Hosen ist ein [Mid-Waist](/glossar/mid-waist/) oft die ausgewogene Basis für einen ruhigen Regular-Fit-Eindruck.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Regular Fit im Outfit übernimmt.
@@ -85,6 +88,8 @@ Wenn du den Begriff **Regular Fit** auf ein Outfit überträgst, prüfe nicht nu
 In der Beratung ist **Regular Fit** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Wenn du eine ausgestellte Hosenlinie testen willst, hilft dir [Flared Pants](/glossar/flared-pants/) als direkte Gegenprobe.
 
 ## Verwandte Begriffe
 

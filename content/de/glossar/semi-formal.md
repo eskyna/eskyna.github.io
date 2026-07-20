@@ -2,7 +2,7 @@
 title: Was bedeutet Semi Formal?
 term: Semi Formal
 description: Semi Formal ist ein gehobener Dresscode zwischen Cocktail und formeller Abendgarderobe.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - semi formal
   - dresscode
@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Semi Formal erlaubt mehr Freiheit als Black Tie, verlangt aber deutlich mehr Sorgfalt als Smart Casual. Gute Stoffe, klare Schuhe, bewusste Accessoires und ein ruhiger Gesamtlook sind wichtig.
+Semi Formal erlaubt mehr Freiheit als [Black Tie](/glossar/black-tie/), verlangt aber deutlich mehr Sorgfalt als Smart Casual. Gute Stoffe, klare Schuhe, bewusste Accessoires und ein ruhiger Gesamtlook sind wichtig. Je nach Einladung kann der Rahmen damit auch nah an [Black Tie Optional](/glossar/black-tie-optional/) liegen.
 
 ## Warum der Begriff wichtig ist
 

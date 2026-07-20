@@ -50,6 +50,8 @@ Für ESKYNA ist Garderobenlogik ein Schlüssel zu weniger Fehlkäufen. Gute Ents
 
 ## Warum Kombinierbarkeit wichtig ist
 
+Gerade bei auffälligen Oberteilen wie einem [Bustier](/glossar/bustier/) zeigt Kombinierbarkeit, ob genug ruhige Partnerteile in der Garderobe vorhanden sind.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Kombinierbarkeit, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

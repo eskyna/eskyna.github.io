@@ -4,7 +4,7 @@ term: Plisseerock
 description:
   Ein Plisseerock hat feine, gleichmäßige Falten und bringt Bewegung, Struktur und Leichtigkeit
   in ein Outfit.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - plisseerock
   - rock
@@ -46,9 +46,11 @@ Ein **Plisseerock** ist ein Rock mit schmalen, gleichmäßigen Falten. Diese Fal
 
 ## Einfach erklärt
 
-Plisseeröcke können weich und feminin wirken, aber auch modern und grafisch. Das hängt von Länge, Material, Farbe und Faltenbreite ab. Ein Midirock in Navy wirkt anders als ein glänzender Plisseerock in Metallic.
+Plisseeröcke können weich und feminin wirken, aber auch modern und grafisch. Das hängt von Länge, Material, Farbe und Faltenbreite ab. Ein [Midirock](/glossar/midirock/) in Navy wirkt anders als ein glänzender Plisseerock in Metallic.
 
 Weil Plissee optisch viele vertikale Linien erzeugt, kann der Rock Bewegung und Länge in den Look bringen. Gleichzeitig braucht er eine passende Oberteil-Länge, damit die Proportion stimmig bleibt.
+
+Wenn du noch mehr fließende Länge möchtest, ist ein [Maxirock](/glossar/maxirock/) oft die naheliegende Ergänzung.
 
 ## Warum dieser Begriff wichtig ist
 

@@ -2,7 +2,7 @@
 title: Was bedeutet Ankle Boots?
 term: Ankle Boots
 description: Ankle Boots sind knöchelhohe Boots, die zwischen Stiefelette und kurzem Stiefel liegen.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - ankle boots
   - garderobe
@@ -51,6 +51,7 @@ Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Ankle Boots, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Klare [Kaufkriterien](/glossar/kaufkriterien/) helfen dir, zwischen modischem Impuls und tragbarer Qualität zu unterscheiden.
 
 ## Worauf du achten solltest
 

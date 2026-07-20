@@ -73,6 +73,8 @@ Für ESKYNA ist das Camisole ein gutes Beispiel dafür, wie ein kleines Oberteil
 
 Ein Camisole bringt Leichtigkeit in den Look. Am stärksten wirkt es im Kontrast zu klarer Struktur.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Buttergelb und Vanillegelb](/glossar/buttergelb-und-vanillegelb/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Camisole** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

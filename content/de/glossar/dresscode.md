@@ -3,7 +3,7 @@ title: Was ist ein Dresscode?
 term: Dresscode
 description: Ein Dresscode beschreibt Kleidungserwartungen für einen Anlass und hilft, den passenden
   Rahmen für Stil und Wirkung zu finden.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - dresscode
   - anlass
@@ -45,19 +45,19 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Dresscode** beschreibt, welche Kleidung für einen Anlass erwartet wird. Er kann ausdrücklich genannt werden, zum Beispiel auf einer Einladung, oder unausgesprochen durch Ort, Branche, Tageszeit und Publikum entstehen.
+Ein **Dresscode** beschreibt, welche Kleidung für einen Anlass erwartet wird. Er kann ausdrücklich genannt werden, zum Beispiel auf einer Einladung, oder unausgesprochen durch Ort, Branche, Tageszeit und Publikum entstehen. Damit bildet er die Grundlage jeder bewussten [Anlassgarderobe](/glossar/anlassgarderobe/).
 
 ## Einfach erklärt
 
-Ein Dresscode ist ein Rahmen. Er sagt nicht exakt, was du tragen musst, sondern welche Wirkung angemessen ist. Smart Casual, Business Casual, Cocktail oder festlich sind Beispiele für solche Rahmen.
+Ein Dresscode ist ein Rahmen. Er sagt nicht exakt, was du tragen musst, sondern welche Wirkung angemessen ist. [Smart Casual](/glossar/smart-casual/), [Business Casual](/glossar/business-casual/), Cocktail oder festlich sind Beispiele für solche Rahmen.
 
 Gute Kleidung zum Dresscode berücksichtigt drei Dinge: den Anlass, die eigene Persönlichkeit und die gewünschte Wirkung. Ein Outfit kann korrekt sein und sich trotzdem fremd anfühlen. Es kann aber auch persönlich wirken und den Rahmen trotzdem respektieren.
 
 ## Warum Dresscodes wichtig sind
 
-Dresscodes geben Orientierung. Sie helfen, nicht zu underdressed oder overdressed zu erscheinen und den sozialen Kontext zu verstehen. Besonders bei beruflichen Terminen, Events, Hochzeiten oder Abendveranstaltungen schaffen sie Sicherheit.
+Dresscodes geben Orientierung. Sie helfen, nicht zu underdressed oder overdressed zu erscheinen und den sozialen Kontext zu verstehen. Besonders bei beruflichen Terminen, [Events](/glossar/event-look/), Hochzeiten oder Abendveranstaltungen schaffen sie Sicherheit.
 
-Für ESKYNA ist ein Dresscode kein Stilgefängnis. Er ist eine Bühne mit Grenzen. Innerhalb dieser Grenzen kann persönlicher Stil sichtbar werden, etwa durch Farbe, Material, Schmuck, Schuhe oder eine wiedererkennbare Silhouette.
+Für ESKYNA ist ein Dresscode kein Stilgefängnis. Er ist eine Bühne mit Grenzen. Innerhalb dieser Grenzen kann persönlicher Stil sichtbar werden, etwa durch Farbe, Material, Schmuck, Schuhe oder eine wiedererkennbare [Silhouette](/glossar/silhouette/).
 
 ## Worauf du bei einem Dresscode achten solltest
 

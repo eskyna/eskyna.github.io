@@ -23,10 +23,10 @@ relatedTerms:
     url: /glossar/slow-fashion/
   - title: Langlebigkeit
     url: /glossar/langlebigkeit/
-  - title: Reparatur
-    url: /glossar/langlebigkeit/
+  - title: Nachhaltige Garderobe
+    url: /glossar/nachhaltige-garderobe/
   - title: Deadstock
-    url: /glossar/upcycling/
+    url: /glossar/deadstock/
 faq:
   items:
     - q: Wie nutze ich „Upcycling“ im Alltag?
@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Anders als reines Recycling versucht Upcycling, Materialwert und Charakter sichtbar weiterzuführen. Auch **Deadstock**, also ungenutzte Reststoffe oder alte Warenbestände, spielt in diesem Zusammenhang oft eine Rolle.
+Anders als reines Recycling versucht Upcycling, Materialwert und Charakter sichtbar weiterzuführen. Auch [Deadstock](/glossar/deadstock/), also ungenutzte Reststoffe oder alte Warenbestände, spielt in diesem Zusammenhang oft eine Rolle.
 
 ## Mini-Test vor dem Spiegel
 
@@ -57,7 +57,7 @@ Upcycling macht aus Resten wieder Relevanz.
 
 ## Praxischeck
 
-Wenn du den Begriff **Upcycling** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+Wenn du den Begriff **Upcycling** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen und schließt oft an [Slow Fashion](/glossar/slow-fashion/) sowie [Langlebigkeit](/glossar/langlebigkeit/) an.
 
 - Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
 - Achte auf Wiederholungen in Farbe, Material und Silhouette.
@@ -67,7 +67,7 @@ Wenn du den Begriff **Upcycling** auf ein Outfit überträgst, prüfe nicht nur 
 
 In der Beratung ist **Upcycling** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
-Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/). Für eine breitere Strategie lohnt sich auch der Blick auf [Circular Fashion](/glossar/circular-fashion/) und eine [nachhaltige Garderobe](/glossar/nachhaltige-garderobe/).
 
 ## Entscheidungsfrage
 

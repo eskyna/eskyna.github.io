@@ -71,6 +71,8 @@ Frag dich bei **Kleiderschrank-Inventur**: Welche Aufgabe soll dieses Element im
 
 Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Kleiderschrank-Inventur** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Elevated Flip-Flop](/glossar/elevated-flip-flop/).
+
 ## Verwandte Begriffe
 
 - [Wardrobe Audit](/glossar/wardrobe-audit/)

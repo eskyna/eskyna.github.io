@@ -51,6 +51,8 @@ Ein Fedora wirkt klassischer. Ein breitkrempiger Hut wirkt präsenter. Ein Stroh
 
 Hüte brauchen Haltung. Sie sitzen ganz oben im Blickfeld und wirken deshalb stärker als viele andere Accessoires.
 
+Im Vergleich dazu wirkt eine [Cap](/glossar/cap/) meist sportlicher und näher am Alltag, weil sie die Gesichtsrahmung weniger formell verändert.
+
 ## Warum dieser Begriff wichtig ist
 
 Ein Hut kann einem Look sofort Charakter geben. Er eignet sich besonders, wenn ein Outfit eine klare Richtung bekommen soll.

@@ -48,6 +48,8 @@ Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wir
 
 ## Warum Lässig wichtig ist
 
+Ein kurzer [Bolero](/glossar/bolero/) kann lässige Outfits strukturieren, ohne dass die Wirkung zu formell wird.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Lässig, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

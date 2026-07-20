@@ -51,6 +51,7 @@ Der Stil wirkt beweglich, modern und etwas abenteuerlich. Er spielt mit Taschen,
 ## Warum der Begriff wichtig ist
 
 Adventure Streetwear grenzt eine alltagstaugliche, urbane Utility-Richtung von klassischer Streetwear und von reinem Outdoor-Styling ab.
+Besonders die [Farbe](/glossar/farbe/) steuert hier, ob der Look technisch-klar oder eher weich und casual wirkt.
 
 ## ESKYNA-Merksatz
 

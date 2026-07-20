@@ -45,4 +45,6 @@ Je gleichmäßiger und dunkler der Denim, desto leichter passt er in angezogene 
 
 Halte zwei Denimrichtungen bereit: eine dunkle, ruhige Waschung plus eine hellere Freizeitvariante.
 
+Wenn Indigo nahe am Gesicht zu kühl oder streng wirkt, kann dir der [Herbsttyp](/glossar/herbsttyp/) bei wärmeren Alternativen helfen.
+
 **ESKYNA-Merksatz:** Denimblau ist nie nur Blau. Waschung und Struktur entscheiden über seine Wirkung.

@@ -4,6 +4,7 @@ term: Waschsymbole
 description: Waschsymbole sind standardisierte Zeichen, die zeigen, wie ein Kleidungsstück gepflegt
   werden darf.
 category: Materialien & Details
+subcategory: Pflege & Wäsche
 tags:
   - waschsymbole
   - pflege
@@ -74,6 +75,8 @@ Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/k
 Frag dich bei **Waschsymbole**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Materialien lohnt sich der zweite Blick. Griff, Oberfläche und Verarbeitung entscheiden oft, ob ein Teil lange gut aussieht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Waschsymbole** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knopfqualität](/glossar/knopfqualitaet/).
 
 ## Verwandte Begriffe
 

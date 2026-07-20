@@ -28,8 +28,6 @@ relatedTerms:
     url: /glossar/unterton/
   - title: Farbtyp
     url: /glossar/farbtyp/
-  - title: Capsule Wardrobe
-    url: /glossar/capsule-wardrobe/
   - title: Creme
     url: /glossar/creme/
   - title: Camel
@@ -49,13 +47,13 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Beige
 
-Beige ist eine ruhige Basisfarbe. Sie wirkt natürlich, weich und oft sehr hochwertig. Gleichzeitig ist Beige anspruchsvoller, als es auf den ersten Blick scheint. Die richtige Nuance entscheidet, ob der Look frisch, elegant oder blass wirkt.
+Beige ist eine ruhige Basisfarbe. Sie wirkt natürlich, weich und oft sehr hochwertig. Gleichzeitig ist Beige anspruchsvoller, als es auf den ersten Blick scheint. Die richtige Nuance entscheidet, ob der Look frisch, elegant oder blass wirkt. Innerhalb [neutraler Farben](/glossar/neutrale-farben/) zählt Beige zu den wandelbarsten Tönen.
 
 ## Wie Beige wirkt
 
 Beige nimmt Lautstärke aus einem Outfit. Es macht Looks heller und ruhiger, ohne so klar zu wirken wie Weiß. Ein beiger Trenchcoat wirkt klassisch. Ein beiger Strick wirkt weich. Eine beige Hose kann sommerlich, natürlich oder sehr elegant aussehen.
 
-Beige lebt stark vom Material. In Leinen wirkt es entspannt. In Wolle wirkt es warm und hochwertig. In Seide oder Satin bekommt Beige eine feine, fast luxuriöse Tiefe. In dünnen, unruhigen Stoffen kann Beige dagegen schnell beliebig wirken.
+Beige lebt stark vom Material. In Leinen wirkt es entspannt. In Wolle wirkt es warm und hochwertig. In Seide oder Satin bekommt Beige eine feine, fast luxuriöse Tiefe. In dünnen, unruhigen Stoffen kann Beige dagegen schnell beliebig wirken. Nahe an [Creme](/glossar/creme/) oder [Camel](/glossar/camel/) verändert sich die Wirkung oft nur über Nuance und Material.
 
 ## Die Nuancen von Beige
 

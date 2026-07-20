@@ -40,7 +40,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Daunenjacke**: Eine Daunenjacke ist eine gefütterte Jacke mit Volumen, die Wärme gibt und je nach Schnitt sportlich oder modern wirkt.
+**Daunenjacke**: Eine Daunenjacke ist eine gefütterte Jacke mit Volumen, die Wärme gibt und je nach Schnitt sportlich oder modern wirkt. Für alltagstauglichen Komfort spielt auch die [Atmungsaktivität](/glossar/atmungsaktivitaet/) der Materialien eine Rolle.
 
 ## Einfach erklärt
 

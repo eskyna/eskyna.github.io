@@ -45,6 +45,8 @@ Der Trend lebt vom Kontrast. Ein fliessender Rock über einer geraden Stoffhose,
 
 Damit der Look modern wirkt, sollten die Proportionen bewusst gewählt werden. Zu viel Volumen kann schnell schwer wirken. Besonders harmonisch sind Kombinationen aus schmaler Hose und laengerem Rock, Ton-in-Ton-Looks oder leichte Stoffe, die sich beim Gehen bewegen.
 
+Wenn du mehr Volumen oben zulässt, hilft der Blick auf die [Ballonhose](/glossar/ballonhose-balloon-trousers/), um Balance und Saumwirkung besser einzuschätzen.
+
 ## Styling-Tipp
 
 Für den Einstieg eignen sich eine gerade Hose und ein leicht transparenter oder fliessender Rock in aehnlicher Farbe. Dazu ein schlichtes Top oder eine Kurzjacke kombinieren, damit der Fokus auf dem Layering bleibt.

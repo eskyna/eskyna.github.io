@@ -3,7 +3,7 @@ title: Was bedeutet Schuhspitze?
 term: Schuhspitze
 description: Die Schuhspitze beschreibt die vordere Form eines Schuhs, etwa rund, spitz, eckig oder
   mandelförmig.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - garderobe
   - schuhspitze
@@ -85,6 +85,8 @@ Wenn du den Begriff **Schuhspitze** auf ein Outfit überträgst, prüfe nicht nu
 In der Beratung ist **Schuhspitze** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Gimme Gummy](/glossar/gimme-gummy/).
 
 ## Verwandte Begriffe
 

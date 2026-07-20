@@ -3,7 +3,7 @@ title: Was sind Sneaker?
 term: Sneaker
 description: Sneaker sind sportlich inspirierte Alltagsschuhe, die je nach Form, Material und Farbe
   lässig oder sehr klar wirken können.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - sneaker
   - schuhe
@@ -76,6 +76,8 @@ Für ESKYNA sind Sneaker keine Notlösung. Sie sind ein bewusstes Stilmittel, we
 ## ESKYNA-Merksatz
 
 Sneaker bringen Leichtigkeit in den Look. Gepflegt wirken sie nur, wenn sie bewusst gewählt sind.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Grün](/glossar/gruen/).
 
 ## Praxischeck
 

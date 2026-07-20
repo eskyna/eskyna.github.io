@@ -39,7 +39,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Körperform**: Körperform beschreibt die individuelle Körperstruktur ohne Bewertung und hilft, Schnitt und Proportion bewusster zu wählen.
+**Körperform**: Körperform beschreibt die individuelle Körperstruktur ohne Bewertung und hilft, Schnitt und Proportion bewusster zu wählen. Dazu gehören auch Linienbilder wie die [androgyne Figur](/glossar/androgyne-figur/).
 
 ## Einfach erklärt
 

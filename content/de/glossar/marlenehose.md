@@ -5,6 +5,7 @@ description:
   Eine Marlenehose ist eine weite, oft hoch geschnittene Hose mit elegantem Fall und klarer,
   langer Beinlinie.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - marlenehose
   - weite hose
@@ -76,6 +77,8 @@ Für ESKYNA ist die Marlenehose ein Beispiel dafür, dass Eleganz nicht eng sitz
 ## ESKYNA-Merksatz
 
 Die Marlenehose zeigt, dass Eleganz durch Linie entsteht. Nicht durch Enge, sondern durch Fall und Proportion.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Etuikleid](/glossar/etuikleid/).
 
 ## Praxischeck
 

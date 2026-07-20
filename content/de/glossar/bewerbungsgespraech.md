@@ -82,6 +82,7 @@ Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Bewerbungsgespräch, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Eine klare [Garderobenstrategie](/glossar/garderobenstrategie/) reduziert Unsicherheit, weil zentrale Teile für solche Termine vorbereitet sind.
 
 ## Worauf du achten solltest
 

@@ -45,6 +45,8 @@ Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste S
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 
+Im professionellen Umfeld wird diese Klarheit oft als [Executive Presence](/glossar/executive-presence/) wahrgenommen.
+
 ## Warum Business wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

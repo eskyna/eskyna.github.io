@@ -29,8 +29,6 @@ relatedTerms:
     url: /glossar/outfit-formel/
   - title: Key-Piece
     url: /glossar/key-piece/
-  - title: Farbpalette
-    url: /glossar/farbpalette/
   - title: Akzentfarbe
     url: /glossar/akzentfarbe/
 featured_glossar: true
@@ -79,7 +77,7 @@ consulting_focus:
 
 ## Einfach erklärt
 
-Eine Garderobe kann voll sein und trotzdem keine Logik haben. Dann gibt es viele schöne Teile, aber wenige Kombinationen. Mit Garderobenlogik erkennst du Basisstücke, Akzente, Anlasskleidung, Schuhe, Layering und Lücken als zusammenhängendes System.
+Eine Garderobe kann voll sein und trotzdem keine Logik haben. Dann gibt es viele schöne Teile, aber wenige Kombinationen. Mit Garderobenlogik erkennst du Basisstücke, Akzente, Anlasskleidung, Schuhe, Layering und Lücken als zusammenhängendes System. Daraus entsteht oft eine persönliche [Alltagsuniform](/glossar/alltagsuniform/), die nicht langweilig, sondern verlässlich ist.
 
 ## Warum Garderobenlogik wichtig ist
 
@@ -87,7 +85,7 @@ Garderobenlogik spart Zeit, Geld und Energie. Du kaufst nicht mehr irgendein sch
 
 ## Blick aus der Beratung
 
-Bei ESKYNA ist Garderobenlogik der Schritt, der Stilberatung nachhaltig macht. Farbe, Schnitt und Wirkung werden in konkrete Outfit-Formeln übersetzt. So entsteht nicht nur ein schöner Look, sondern ein Kleiderschrank, der morgens mitarbeitet.
+Bei ESKYNA ist Garderobenlogik der Schritt, der Stilberatung nachhaltig macht. Farbe, Schnitt und Wirkung werden in konkrete Outfit-Formeln übersetzt. So entsteht nicht nur ein schöner Look, sondern ein Kleiderschrank, der morgens mitarbeitet. Genau diese Übersetzung von Wissen in Handeln ist ein Kern von [Aktivierung](/glossar/aktivierung/).
 
 ## So nutzt du den Begriff praktisch
 

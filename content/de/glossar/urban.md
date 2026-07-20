@@ -85,6 +85,8 @@ In der Beratung ist **Urban** kein starres Etikett. Der Begriff wird erst hilfre
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Khaki](/glossar/khaki/).
+
 ## Verwandte Begriffe
 
 - [Signature Look](/glossar/signature-look/)

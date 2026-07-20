@@ -1,0 +1,182 @@
+#!/usr/bin/env node
+"use strict";
+
+const fs = require("fs");
+const path = require("path");
+const yaml = require("js-yaml");
+
+const rootDir = process.cwd();
+const glossaryDir = path.join(rootDir, "content", "de", "glossar");
+const outputDir = path.join(rootDir, "artifact-local", "glossary-export");
+
+const PRIMARY_CATEGORIES = new Set([
+  "Farbberatung & Farbe",
+  "Farb-Lexikon",
+  "Garderobe & Alltag",
+  "Kleider & Roecke",
+  "Materialien & Details",
+  "Schnitt, Proportion & Passform",
+  "Schuhe",
+  "Stil & Wirkung",
+  "Dresscodes & Anlaesse",
+]);
+
+const SUBCATEGORY_RULES = [
+  {
+    subcategory: "Groessen & Passform",
+    match: /(passform|size|groesse|groe|sanduhr|oversized|proportion)/i,
+  },
+  {
+    subcategory: "Pflege & Waesche",
+    match: /(pflege|wasch|waesch|etikett)/i,
+  },
+  {
+    subcategory: "Accessoires",
+    match: /(accessoire|schmuck|tasche|guertel|brille|tuch|schal|uhr)/i,
+  },
+  {
+    subcategory: "Verbraucherwissen",
+    match:
+      /(secondhand|nachhalt|cost-per-wear|preis-pro-tragen|materialqualitaet|zertifikat|label|kennzeich)/i,
+  },
+];
+
+function walk(dir) {
+  if (!fs.existsSync(dir)) return [];
+
+  const files = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const entryPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...walk(entryPath));
+      continue;
+    }
+    if (entry.isFile() && entry.name.endsWith(".md")) files.push(entryPath);
+  }
+
+  return files;
+}
+
+function parseFrontmatter(text, filePath) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (!match) {
+    return { fm: {}, body: text };
+  }
+
+  try {
+    return {
+      fm: yaml.load(match[1]) || {},
+      body: match[2],
+    };
+  } catch (error) {
+    throw new Error(`Failed to parse YAML in ${filePath}: ${error.message}`);
+  }
+}
+
+function normalizeCategory(value) {
+  if (!value) return "";
+  const map = {
+    "Kleider & Röcke": "Kleider & Roecke",
+    "Dresscodes & Anlässe": "Dresscodes & Anlaesse",
+    "Anlass & Dresscodes": "Dresscodes & Anlaesse",
+    Garderobenstrategie: "Garderobe & Alltag",
+    Accessoires: "Materialien & Details",
+    Hosen: "Garderobe & Alltag",
+  };
+
+  const cleaned = String(value).trim();
+  return map[cleaned] || cleaned;
+}
+
+function inferSubcategory(fileName, term, category) {
+  const source = `${fileName} ${term} ${category}`;
+  for (const rule of SUBCATEGORY_RULES) {
+    if (rule.match.test(source)) return rule.subcategory;
+  }
+  return "";
+}
+
+function main() {
+  const files = walk(glossaryDir);
+  const categoryCounts = new Map();
+  const outliers = [];
+  const suggestions = [];
+  let assignedSubcategories = 0;
+  let matchingSubcategories = 0;
+  let mismatchingSubcategories = 0;
+
+  for (const filePath of files) {
+    if (path.basename(filePath) === "_index.md") continue;
+
+    const text = fs.readFileSync(filePath, "utf8");
+    const { fm } = parseFrontmatter(text, filePath);
+    if (fm.is_glossar_category || fm.is_glossar_index_helper) continue;
+
+    const fileName = path.basename(filePath, ".md");
+    const term = String(fm.term || fm.title || fileName).trim();
+    const categoryRaw = String(fm.category || "").trim();
+    const categoryNormalized = normalizeCategory(categoryRaw);
+    const currentSubcategory = String(fm.subcategory || "").trim();
+
+    categoryCounts.set(
+      categoryNormalized || "(missing)",
+      (categoryCounts.get(categoryNormalized || "(missing)") || 0) + 1
+    );
+
+    if (currentSubcategory) assignedSubcategories += 1;
+
+    const isPrimary = PRIMARY_CATEGORIES.has(categoryNormalized);
+    if (!isPrimary) {
+      outliers.push({
+        file: path.relative(rootDir, filePath).replace(/\\/g, "/"),
+        term,
+        category_raw: categoryRaw,
+        category_normalized: categoryNormalized || "(missing)",
+      });
+    }
+
+    const subcategory = inferSubcategory(fileName, term, categoryNormalized);
+    if (subcategory && currentSubcategory !== subcategory) {
+      suggestions.push({
+        file: path.relative(rootDir, filePath).replace(/\\/g, "/"),
+        term,
+        category: categoryNormalized || "(missing)",
+        current_subcategory: currentSubcategory,
+        suggested_subcategory: subcategory,
+      });
+    } else if (subcategory && currentSubcategory === subcategory) {
+      matchingSubcategories += 1;
+    } else if (!subcategory && currentSubcategory) {
+      mismatchingSubcategories += 1;
+    }
+  }
+
+  const categorySummary = [...categoryCounts.entries()]
+    .map(([category, count]) => ({ category, count }))
+    .sort((a, b) => b.count - a.count || a.category.localeCompare(b.category, "de"));
+
+  const audit = {
+    generated_at: new Date().toISOString(),
+    glossary_directory: path.relative(rootDir, glossaryDir).replace(/\\/g, "/"),
+    total_categories: categorySummary.length,
+    assigned_subcategories: assignedSubcategories,
+    matching_subcategories: matchingSubcategories,
+    non_rule_subcategories: mismatchingSubcategories,
+    category_summary: categorySummary,
+    outlier_categories: outliers,
+    suggested_subcategories: suggestions,
+  };
+
+  fs.mkdirSync(outputDir, { recursive: true });
+  const outPath = path.join(outputDir, "taxonomy-audit.json");
+  fs.writeFileSync(outPath, `${JSON.stringify(audit, null, 2)}\n`);
+
+  console.log(`Wrote taxonomy audit to ${path.relative(rootDir, outPath)}`);
+  console.log(`Primary category outliers: ${outliers.length}`);
+  console.log(`Assigned subcategories: ${assignedSubcategories}`);
+  console.log(`Matching subcategories: ${matchingSubcategories}`);
+  console.log(`Non-rule subcategories: ${mismatchingSubcategories}`);
+  console.log(`Subcategory suggestions: ${suggestions.length}`);
+}
+
+main();

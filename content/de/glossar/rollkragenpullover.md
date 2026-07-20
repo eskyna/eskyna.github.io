@@ -84,6 +84,8 @@ In der Beratung ist **Rollkragenpullover** kein starres Etikett. Der Begriff wir
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Wenn du eine geschlossene Halslinie ruhiger staffeln möchtest, hilft oft der Vergleich mit [Mock-Neck](/glossar/mock-neck/) und [Fledermausärmel](/glossar/fledermausaermel/).
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

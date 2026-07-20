@@ -5,6 +5,7 @@ description:
   Eine Uhr ist funktionales Accessoire und Stilzeichen zugleich, weil sie Material, Metallton
   und Haltung sichtbar macht.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - uhr
   - accessoire
@@ -77,6 +78,8 @@ Betrachte „Uhr“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der N
 ## ESKYNA-Merksatz
 
 Eine Uhr zeigt nicht nur Zeit. Sie zeigt auch Ordnung, Materialgefühl und Haltung.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Kernsprache](/glossar/kernsprache/).
 
 ## Praxischeck
 

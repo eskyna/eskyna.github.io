@@ -70,7 +70,7 @@ Rosa, Pink und Fuchsia zeigen Sättigung sehr gut. Puderrosa wirkt weich. Altros
 
 ## ESKYNA-Merksatz
 
-Sättigung ist die Lautstärke einer Farbe. Gute Stilentscheidungen beginnen damit, diese Lautstärke bewusst zu wählen.
+Sättigung ist die Lautstärke einer Farbe. Gute [Stilentscheidungen](/glossar/stilentscheidung/) beginnen damit, diese Lautstärke bewusst zu wählen.
 
 ## Praxischeck
 

@@ -36,7 +36,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Bustier**: Ein Bustier ist ein kurzes, körpernahes Oberteil mit strukturierter oder weicher Brustpartie.
+**Bustier**: Ein Bustier ist ein kurzes, körpernahes Oberteil mit strukturierter oder weicher Brustpartie. Anders als ein [Body](/glossar/body/) bleibt es meist kürzer und fokussierter.
 
 ## Einfach erklärt
 

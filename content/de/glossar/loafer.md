@@ -4,7 +4,7 @@ term: Loafer
 description:
   Loafer sind flache Schlupfschuhe ohne Schnürung, die zwischen klassisch, modern und lässig
   wirken können.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - loafer
   - schuhe
@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Loafer** sind flache Schlupfschuhe ohne Schnürung. Sie wirken gepflegter als Sneaker, aber oft entspannter als Pumps oder klassische Business-Schuhe. Genau diese Zwischenposition macht sie so vielseitig.
+**Loafer** sind flache Schlupfschuhe ohne Schnürung. Sie wirken gepflegter als Sneaker, aber oft entspannter als [Pumps](/glossar/pumps/) oder klassische Business-Schuhe. Genau diese Zwischenposition macht sie so vielseitig.
 
 ## Einfach erklärt
 
@@ -54,9 +54,9 @@ Ein schwarzer Loafer wirkt grafisch und klar. Braune oder cognacfarbene Loafer w
 
 ## Warum Loafer wichtig sind
 
-Loafer können ein Outfit sofort sortieren. Sie passen zu Chinos, Jeans, Marlenehose, Culotte, Rock oder Kleid. Dadurch sind sie ein guter Schuh für Business Casual, Reisegarderoben und ruhige Alltagslooks.
+Loafer können ein Outfit sofort sortieren. Sie passen zu Chinos, Jeans, Marlenehose, Culotte, Rock oder Kleid. Dadurch sind sie ein guter Schuh für [Business Casual](/glossar/business-casual/), Reisegarderoben und ruhige Alltagslooks.
 
-Für ESKYNA sind Loafer interessant, weil sie ohne Absatz Struktur geben. Sie können Kompetenz und Leichtigkeit verbinden, wenn Form und Material zur restlichen Garderobe passen.
+Für ESKYNA sind Loafer interessant, weil sie ohne Absatz Struktur geben. Sie können Kompetenz und Leichtigkeit verbinden, wenn Form und Material zur restlichen Garderobe passen. Im Vergleich zu [Ballerinas](/glossar/ballerina/) wirken sie oft klarer und strenger.
 
 ## Worauf du bei Loafern achten solltest
 

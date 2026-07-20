@@ -52,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Kaschmir, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Kaschmir wirkt besonders edel, wenn die Farbwelt mit Tönen wie [Champagner](/glossar/champagner/) abgestimmt ist.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Kaschmir im Outfit übernimmt.

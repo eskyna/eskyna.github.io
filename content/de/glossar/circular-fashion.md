@@ -46,7 +46,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Begriff erweitert Nachhaltigkeit um die Frage, was nach dem Kauf passiert. Damit rückt Nutzung statt nur Anschaffung in den Mittelpunkt.
+Der Begriff erweitert Nachhaltigkeit um die Frage, was nach dem Kauf passiert. Damit rückt Nutzung statt nur Anschaffung in den Mittelpunkt. Genau hier wird [Upcycling](/glossar/upcycling/) als konkrete Strategie besonders sichtbar.
 
 ## Mini-Test vor dem Spiegel
 

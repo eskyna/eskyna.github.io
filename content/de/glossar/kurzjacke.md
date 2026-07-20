@@ -39,7 +39,7 @@ Eine **Kurzjacke** ist eine Jacke, die deutlich kürzer geschnitten ist als klas
 
 Die **Kurzjacke** ist ein vielseitiges Kleidungsstück, das vor allem durch seine Proportion wirkt. Sie endet oberhalb der Hüfte oder direkt in der Taille und betont dadurch die Körpermitte. Gleichzeitig verlängert sie optisch die Beine, besonders wenn sie mit High-Waist-Hosen, Röcken oder Kleidern kombiniert wird.
 
-Kurzjacken gibt es in vielen Varianten: als kurze Jeansjacke, Cropped Blazer, Lederjacke, Bomberjacke, Boucle-Jacke oder leichte Sommerjacke. Je nach Material kann sie elegant, sportlich, feminin oder edgy wirken. Genau diese Wandelbarkeit macht sie zu einem starken Styling-Element.
+Kurzjacken gibt es in vielen Varianten: als kurze Jeansjacke, Cropped Blazer, Lederjacke, Bomberjacke, Boucle-Jacke oder leichte Sommerjacke. Je nach Material kann sie elegant, sportlich, feminin oder edgy wirken. Modelle in Ledernaehe reichen optisch oft bis zur [Bikerjacke](/glossar/bikerjacke/). Genau diese Wandelbarkeit macht sie zu einem starken Styling-Element.
 
 ## Wie stylt man eine Kurzjacke?
 

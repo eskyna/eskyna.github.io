@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 Material ist nie nur eine technische Angabe. Oberfläche, Gewicht, Griff und Fall bestimmen, ob ein Kleidungsstück weich, klar, elegant, sportlich oder robust erscheint.
 
-Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer Stoffe besser lesen kann, erkennt schneller, ob ein Teil zum Alltag und zur gewünschten Wirkung passt.
+Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer Stoffe besser lesen kann, erkennt schneller, ob ein Teil zum Alltag und zur gewünschten Wirkung passt. Bei edleren Qualitäten wie [Alpaka](/glossar/alpaka/) zeigt sich das besonders deutlich.
 
 ## Warum Wolle wichtig ist
 
@@ -77,7 +77,7 @@ Wenn du den Begriff **Wolle** auf ein Outfit überträgst, prüfe nicht nur das 
 
 - Fühle Griff, Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+- Achte auf Pflege, [Knitterverhalten](/glossar/knitterverhalten/) und Verarbeitung an Nähten oder Kanten.
 
 ## Beratungsblick
 

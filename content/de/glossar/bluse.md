@@ -50,7 +50,7 @@ Eine **Bluse** ist ein gewebtes Oberteil, das in vielen Formen vorkommt: mit Kra
 
 ## Einfach erklärt
 
-Eine Bluse unterscheidet sich vom T-Shirt vor allem durch das Material. Sie ist meist aus Webstoff und fällt dadurch anders. Baumwolle wirkt frischer und strukturierter. Viskose wirkt weicher und fließender. Seide bringt Glanz und Eleganz. Satin kann festlicher wirken, Popeline klarer.
+Eine Bluse unterscheidet sich vom T-Shirt vor allem durch das Material. Sie ist meist aus Webstoff und fällt dadurch anders. Baumwolle wirkt frischer und strukturierter. Viskose wirkt weicher und fließender. Seide bringt Glanz und Eleganz. Satin kann festlicher wirken, Popeline klarer. Je nach Schnitt prägen auch [Manschetten](/glossar/manschette/) die formelle oder entspannte Wirkung.
 
 Blusen können sehr unterschiedlich gelesen werden. Eine weiße Hemdbluse wirkt präzise. Eine fließende Bluse in Creme wirkt weich. Eine Bluse mit Schleife wirkt romantischer. Eine schlichte Bluse in Navy kann sehr professionell wirken.
 

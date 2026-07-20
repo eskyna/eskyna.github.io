@@ -54,7 +54,7 @@ Material verändert die Farbe stark. Bordeaux in Samt wirkt festlich und tief. B
 ## Die Nuancen von Bordeaux
 
 - **Weinrot:** Klassisch, tief und elegant. Funktioniert gut zu Navy, Creme und Schwarz.
-- **Aubergine-Bordeaux:** Kühler und mit Violett-Anteil. Wirkt moderner und geheimnisvoller.
+- **[Aubergine](/glossar/aubergine/)-Bordeaux:** Kühler und mit Violett-Anteil. Wirkt moderner und geheimnisvoller.
 - **Braunrotes Bordeaux:** Wärmer und erdiger. Schön zu Camel, Espresso und Gold.
 - **Beerenton:** Weicher und etwas heller. Passt gut zu Rosa, Grau und Denim.
 - **Dunkles Rubin:** Klarer und brillanter. Wirkt besonders edel in glatten Materialien.
@@ -71,7 +71,7 @@ Material verändert die Farbe stark. Bordeaux in Samt wirkt festlich und tief. B
 
 Im Business ist Bordeaux eine elegante Alternative zu Rot. Die Farbe wirkt präsent, aber kontrollierter. Eine bordeauxfarbene Bluse, ein schmaler Gürtel, ein Schuh oder eine Tasche können einem neutralen Look Persönlichkeit geben.
 
-Im Alltag ist Bordeaux besonders stark in Strick, Leder, Denim-Kombinationen oder Mänteln. Die Farbe lässt sich gut tragen, wenn die übrigen Töne ruhig bleiben.
+Im Alltag ist Bordeaux besonders stark in Strick, Leder, Denim-Kombinationen oder Mänteln. Besonders [Ton in Ton](/glossar/ton-in-ton/) kombiniert wirkt die Farbe ruhig und hochwertig. Die Farbe lässt sich gut tragen, wenn die übrigen Töne ruhig bleiben.
 
 ## Für wen und wo Bordeaux funktioniert
 

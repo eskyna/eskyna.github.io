@@ -3,8 +3,18 @@ title: "Was ist Smocking?"
 term: "Smocking"
 description: "Smocking bündelt Stoff durch regelmäßige Raffungen und kann zugleich elastisch, formend und dekorativ wirken."
 category: "Schnitt, Proportion & Passform"
+subcategory: "Größen & Passform"
 image: images/glossar/smocking.png
 image_alt: "Glossar-Illustration zu Smocking"
+relatedTerms:
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Kleid
+    url: /glossar/kleid/
 keywords:
   - "smocking"
   - "was ist smocking"
@@ -18,13 +28,13 @@ Traditionelles Smocking fixiert vorgereihte Falten mit dekorativen Stickstichen.
 
 ## Einfach erklärt
 
-Smocking erscheint an Oberteilen, Taillen, Bündchen und Kleidpartien. Es passt sich dem Körper an, ohne einen Reißverschluss zu benötigen, und erzeugt eine weiche, oft romantische Textur. Große gesmockte Flächen können jedoch Volumen hinzufügen und bei minderwertiger Verarbeitung schnell ausleiern.
+Smocking erscheint an Oberteilen, Taillen, Bündchen und [Kleid](/glossar/kleid/)partien. Es passt sich dem Körper an, ohne einen Reißverschluss zu benötigen, und erzeugt eine weiche, oft romantische [Textur](/glossar/struktur/). Große gesmockte Flächen können jedoch Volumen hinzufügen und bei minderwertiger Verarbeitung schnell ausleiern.
 
 ## Worauf du achten solltest
 
 - Dehne die Fläche vorsichtig und prüfe, ob sie gleichmäßig zurückspringt.
 - Achte auf gerissene Elastikfäden oder unregelmäßige Reihen.
-- Beurteile, ob die Raffungen an der gewünschten Körperstelle beruhigen oder zusätzlich betonen.
+- Beurteile, ob die Raffungen an der gewünschten Körperstelle beruhigen oder zusätzlich betonen und wie sie [Proportion](/glossar/proportion/) und [Passform](/glossar/passform/) beeinflussen.
 
 ## Typisches Missverständnis
 

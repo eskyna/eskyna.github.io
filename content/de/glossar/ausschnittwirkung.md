@@ -5,6 +5,7 @@ description:
   Ausschnittwirkung beschreibt, wie verschiedene Ausschnittformen Gesicht, Hals und Oberkörper
   optisch beeinflussen.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - ausschnittwirkung
   - ausschnitt
@@ -46,6 +47,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Ausschnitte sind kleine Linien mit grosser Wirkung. Sie können öffnen, strecken, verbreitern, beruhigen oder den Fokus dichter ans Gesicht holen.
+Ein passender Ausschnitt wird oft zum persönlichen [Klassiker](/glossar/klassiker/), weil er den Gesamteindruck verlässlich rahmt.
 
 ## Mini-Test vor dem Spiegel
 

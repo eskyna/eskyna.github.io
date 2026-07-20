@@ -83,6 +83,8 @@ In der Beratung ist **Volant** kein starres Etikett. Der Begriff wird erst hilfr
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knee-High Boots](/glossar/knee-high-boots/).
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

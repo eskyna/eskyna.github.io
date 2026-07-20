@@ -44,6 +44,8 @@ Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. 
 
 Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
 
+Als leichte Unterlage kann ein [Camisole](/glossar/camisole/) das Volumen am Oberkörper beruhigen und die Linie des Peplum-Teils klarer halten.
+
 ## Warum Peplum-Top wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

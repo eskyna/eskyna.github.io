@@ -52,6 +52,8 @@ Eine Jeansjacke passt über Kleider, T-Shirts, Hemden oder leichte Strickteile. 
 
 ## Warum dieser Begriff wichtig ist
 
+Wenn du eine sportlichere Alternative suchst, lohnt sich der Vergleich mit der [Bomberjacke](/glossar/bomberjacke/), die eine andere Silhouette und Saumlänge mitbringt.
+
 Für ESKYNA ist die Jeansjacke ein gutes Entspannungsstück. Sie nimmt formellen Teilen die Strenge und bringt Alltag in den Look.
 
 ## Worauf du achten solltest

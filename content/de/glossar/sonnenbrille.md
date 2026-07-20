@@ -5,6 +5,7 @@ description:
   Eine Sonnenbrille schützt die Augen und prägt zugleich Gesicht, Haltung und Stilrichtung
   eines Looks.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - sonnenbrille
   - brille
@@ -78,6 +79,8 @@ Betrachte „Sonnenbrille“ einmal aus der Nähe und einmal mit etwas Abstand. 
 ## ESKYNA-Merksatz
 
 Eine Sonnenbrille ist Schutz und Stilrahmen zugleich. Sie verändert den ersten Eindruck sofort.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [H-Linie](/glossar/h-linie/).
 
 ## Praxischeck
 

@@ -48,6 +48,8 @@ Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer S
 
 ## Warum Kunstleder wichtig ist
 
+Bei Jacken entscheidet Kunstleder stark über die Wirkung, besonders wenn der Schnitt in Richtung [Bomberjacke](/glossar/bomberjacke/) geht.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Kunstleder, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

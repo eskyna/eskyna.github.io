@@ -52,9 +52,9 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Seide wirkt nicht nur durch ihren Glanz. Sie verändert auch die Bewegung eines Kleidungsstücks. Eine Seidenbluse fällt weicher als eine Baumwollbluse. Ein Seidentuch rahmt das Gesicht feiner als ein grober Schal. Ein Seidentop kann einen sehr einfachen Look sofort eleganter machen.
+Seide wirkt nicht nur durch ihren Glanz. Sie verändert auch die Bewegung eines Kleidungsstücks. Eine Seidenbluse fällt weicher als eine Baumwollbluse. Ein Seidentuch rahmt das Gesicht feiner als ein grober Schal. Ein Seidentop kann einen sehr einfachen Look sofort eleganter machen. Genau hier spielen [Glanzgrad](/glossar/glanzgrad/) und [Materialfall](/glossar/materialfall/) zusammen.
 
-Es gibt unterschiedliche Seidenqualitäten. Satinseide glänzt stärker. Crepe de Chine wirkt matter und bewegter. Seidentwill ist dichter und eignet sich gut für Tücher. Entscheidend ist nicht nur der Name Seide, sondern wie der Stoff verarbeitet wurde.
+Es gibt unterschiedliche Seidenqualitäten. [Satin](/glossar/satin/) aus Seide glänzt stärker. Crepe de Chine wirkt matter und bewegter. Seidentwill ist dichter und eignet sich gut für Tücher. Entscheidend ist nicht nur der Name Seide, sondern wie der Stoff verarbeitet wurde.
 
 ## Warum Seide wichtig ist
 

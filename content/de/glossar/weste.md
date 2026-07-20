@@ -73,6 +73,8 @@ Eine Weste ist ein gutes Layering-Teil, wenn der Look interessanter werden soll,
 
 Eine Weste fügt eine Linie hinzu. Gut gewählt macht sie ein Outfit klarer, nicht komplizierter.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knopfqualität](/glossar/knopfqualitaet/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Weste** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

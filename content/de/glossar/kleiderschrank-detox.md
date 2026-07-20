@@ -86,6 +86,8 @@ In der Beratung ist **Kleiderschrank-Detox** kein starres Etikett. Der Begriff w
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Einstecktuch](/glossar/einstecktuch/).
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

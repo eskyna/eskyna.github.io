@@ -67,6 +67,8 @@ Für ESKYNA ist das Hemd ein starkes Strukturteil. Es bringt Ruhe und Rahmen in 
 - Die Länge entscheidet, ob das Hemd eingesteckt, offen oder locker getragen werden kann.
 - Der Stoff sollte zur Situation passen: glatt für klar, weicher für entspannt.
 
+Je nach offenem Kragen oder geloester Knopfleiste kann dabei auch ein [V-Ausschnitt](/glossar/v-ausschnitt/) entstehen.
+
 ## Typische Missverständnisse
 
 **Missverständnis:** Hemden sind immer formell.  

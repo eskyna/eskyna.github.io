@@ -141,6 +141,8 @@ Unterstützung wird sinnvoll, wenn Kleidung nicht mehr nur privat funktionieren 
 
 <!-- commercial-depth-end -->
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Gorpcore](/glossar/gorpcore/).
+
 ## Verwandte Begriffe
 
 - [Stilbruch](/glossar/stilbruch/)

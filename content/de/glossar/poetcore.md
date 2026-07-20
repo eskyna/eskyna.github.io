@@ -48,6 +48,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Poetcore wirkt nicht laut. Die Stärke liegt in Stimmung, Textur und Haltung.
+Bei mehr Kontrast und schwereren Materialien verschiebt sich die Wirkung oft in Richtung [Dark Academia](/glossar/dark-academia/).
 
 Der verwandte Begriff **Poet Aesthetic** meint vor allem den visuellen Eindruck dieses sensiblen, kreativen Looks.
 

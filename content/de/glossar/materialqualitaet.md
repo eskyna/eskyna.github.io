@@ -5,6 +5,7 @@ description:
   Materialqualität beschreibt Faser, Dichte, Griff, Fall, Oberfläche und Haltbarkeit eines
   Stoffes.
 category: Materialien & Details
+subcategory: Verbraucherwissen
 tags:
   - materialqualität
   - qualität
@@ -48,6 +49,8 @@ lastmod: "2026-07-09"
 
 Sie entscheidet oft stärker über die Wirkung eines Kleidungsstücks als der Markenname. Gute Materialqualität sieht man nicht nur, man spürt sie auch.
 
+Bei strukturierten Wollstoffen zeigt [Bouclé](/glossar/boucle/) besonders deutlich, wie stark Oberfläche und Griff die Wertigkeit steuern.
+
 ## Mini-Test vor dem Spiegel
 
 Betrachte „Materialqualität“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
@@ -60,7 +63,7 @@ Materialqualität ist Wirkung, die man sehen und fühlen kann.
 
 Wenn du den Begriff **Materialqualität** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
 
-- Fühle Griff, Gewicht und Stand des Materials.
+- Fühle [Griff](/glossar/griff/), Gewicht und Stand des Materials.
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
 - Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
 

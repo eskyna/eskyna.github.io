@@ -4,6 +4,7 @@ term: Modeschmuck
 description: Modeschmuck ist Schmuck ohne Anspruch auf Edelmetall oder Edelstein und wird vor allem
   als Stilakzent eingesetzt.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - materialien
   - modeschmuck
@@ -44,6 +45,8 @@ lastmod: "2026-07-09"
 Accessoires wirken oft klein, aber sie verändern Nähe, Fokus und Abschluss eines Outfits. Farbe, Material, Größe und Platzierung sind entscheidend.
 
 Für ESKYNA sind Accessoires ein präzises Mittel, um Persönlichkeit sichtbar zu machen, ohne den ganzen Look zu verändern.
+
+Als [Brooched](/glossar/brooched/) wirkt Schmuck dann stimmig, wenn Motiv, Größe und Position die Linie des Outfits unterstützen.
 
 ## Warum Modeschmuck wichtig ist
 

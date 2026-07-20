@@ -51,6 +51,7 @@ Für ESKYNA ist dieser Begriff wichtig, weil Farbentscheidungen leichter werden,
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Analogfarben, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Für eine stimmige [Image-Strategie](/glossar/image-strategie/) sind Analogfarben hilfreich, weil sie Ruhe und Konsistenz im Auftritt erzeugen.
 
 ## Worauf du achten solltest
 

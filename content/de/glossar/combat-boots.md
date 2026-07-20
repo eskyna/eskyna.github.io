@@ -43,7 +43,9 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Combat Boots bringen Gewicht und Kante in ein Outfit. Zu Jeans und Lederjacke wirken sie urban. Zu Kleid oder Satinrock erzeugen sie einen bewussten Stilbruch.
+Combat Boots bringen Gewicht und [Kante](/glossar/kante/) in ein Outfit. Zu Jeans und Lederjacke, besonders einer [Bikerjacke](/glossar/bikerjacke/), wirken sie [urban](/glossar/urban/). Zu Kleid oder Satinrock erzeugen sie einen bewussten Stilbruch.
+
+Mit einer [Boyfriend-Jeans](/glossar/boyfriend-jeans/) wirkt die Kombination oft entspannter, ohne die klare Boot-Wirkung zu verlieren.
 
 Je gröber die Sohle, desto stärker die Wirkung. Ein schlichter schwarzer Boot ist vielseitiger als ein sehr dekoratives Modell.
 

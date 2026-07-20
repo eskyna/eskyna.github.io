@@ -38,7 +38,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Stretch**: Stretch bezeichnet dehnbares Material, das durch Faser, Webart oder Elasthan mehr Beweglichkeit bekommt.
+**Stretch**: Stretch bezeichnet dehnbares Material, das durch Faser, Webart oder [Elasthan](/glossar/elasthan/) mehr Beweglichkeit bekommt.
 
 ## Einfach erklärt
 

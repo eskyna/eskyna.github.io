@@ -46,7 +46,7 @@ Eine **Beaded Bag** ist eine Tasche mit Perlen, Pailletten oder plastischen Schm
 
 ## Einfach erklärt
 
-Die Tasche ist weniger stilles Basic als sichtbares Accessoire. Genau deshalb eignet sie sich gut für Sommerabende, Events oder besondere Kontraste in schlichten Looks.
+Die Tasche ist weniger stilles Basic als sichtbares Accessoire. Genau deshalb eignet sie sich gut für Sommerabende, Events oder besondere Kontraste in schlichten Looks. Als kompakter Gegenpol funktioniert daneben oft auch eine [Bucket Bag](/glossar/bucket-bag/).
 
 ## Mini-Test vor dem Spiegel
 

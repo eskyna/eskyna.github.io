@@ -3,6 +3,7 @@ title: Was bedeutet Cropped?
 term: Cropped
 description: Cropped bedeutet verkürzt geschnitten, etwa bei Hosen, Jacken, Pullovern oder Tops.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - cropped
   - schnitt proportion
@@ -37,7 +38,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Cropped**: Cropped bedeutet verkürzt geschnitten, etwa bei Hosen, Jacken, Pullovern oder Tops.
+**Cropped**: Cropped bedeutet verkürzt geschnitten, etwa bei Hosen, Jacken, Pullovern oder [Crop-Tops](/glossar/crop-top/).
 
 ## Einfach erklärt
 

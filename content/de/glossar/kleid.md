@@ -4,7 +4,7 @@ term: Kleid
 description:
   Ein Kleid ist ein einteiliges Kleidungsstück, dessen Wirkung durch Schnitt, Länge, Material
   und Anlass bestimmt wird.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - kleid
   - schnitt
@@ -51,7 +51,7 @@ Ein Kleid kann ein schneller Look sein, weil Oberteil und Unterteil bereits verb
 
 ## Warum dieser Begriff wichtig ist
 
-Kleider sind wichtig, weil sie Silhouette und Wirkung besonders direkt zeigen. Schon kleine Details wie Taille, Saum oder Materialfall verändern das gesamte Bild.
+Kleider sind wichtig, weil sie Silhouette und Wirkung besonders direkt zeigen. Schon kleine Details wie Taille, Saum oder Materialfall verändern das gesamte Bild. Ein [Ballonsaum](/glossar/ballonsaum/) ist dafür ein besonders sichtbares Beispiel.
 
 ## Worauf du achten solltest
 

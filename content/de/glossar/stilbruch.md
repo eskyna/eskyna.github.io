@@ -70,7 +70,7 @@ Stilbruch ist auch ein gutes Werkzeug gegen Fehlkäufe. Ein Teil, das allein zu 
 
 ## Praktisches Beispiel
 
-Ein Satinrock wirkt abends elegant. Mit Feinstrick, flachen Loafern und einer schlichten Tasche wird er tagsüber tragbar. Der Rock bleibt fein, aber der Look bekommt Alltag.
+Ein Satinrock wirkt abends elegant. Mit [Feinstrick](/glossar/feinstrick/), flachen Loafern und einer schlichten Tasche wird er tagsüber tragbar. Der Rock bleibt fein, aber der Look bekommt Alltag.
 
 ## ESKYNA-Merksatz
 

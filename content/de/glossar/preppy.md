@@ -43,6 +43,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Für eine intellektuellere, dunklere Variante des Codes lohnt der Vergleich mit [Dark Academia](/glossar/dark-academia/).
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 

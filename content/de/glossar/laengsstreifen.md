@@ -41,6 +41,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Muster bringen Bewegung in einen Look. Entscheidend sind Größe, Kontrast, Platzierung und die Frage, ob das Muster eine ruhige Ergänzung oder der Fokus des Outfits sein soll.
+Für figurbetonte Looks ist der Bezug zu [Curvy Styling](/glossar/curvy-styling/) hilfreich, weil dort Linienführung und Balance zusammen betrachtet werden.
 
 Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird.
 

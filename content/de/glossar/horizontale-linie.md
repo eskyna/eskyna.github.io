@@ -4,6 +4,7 @@ term: Horizontale Linie
 description: Eine horizontale Linie lenkt den Blick zur Seite und kann Breite, Ruhe oder bewusste
   Unterbrechung im Outfit erzeugen.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - horizontale linie
   - proportion
@@ -45,6 +46,7 @@ Eine **horizontale Linie** führt den Blick seitlich und markiert optische Breit
 ## Einfach erklärt
 
 Horizontale Linien sind nicht schlecht. Sie brauchen nur bewussten Einsatz, weil sie eine Proportion sofort deutlich machen.
+Gerade im Zusammenspiel mit einer [vertikalen Linie](/glossar/vertikale-linie/) wird sichtbar, ob ein Outfit eher streckt, teilt oder beruhigt.
 
 ## Mini-Test vor dem Spiegel
 

@@ -46,8 +46,11 @@ Eine **Paperbag-Hose** hat einen hohen Bund, der oberhalb des Gürtels oder Tail
 
 ## Einfach erklärt
 
-Paperbag-Hosen betonen die Taille und bringen Volumen an den Bund. Sie können elegant, sommerlich oder casual wirken, je nachdem ob sie aus Leinen, Baumwolle, Viskose oder Anzugstoff gefertigt sind.
-Wichtig ist, dass der Bund sichtbar bleibt. Zu lange oder zu weite Oberteile verdecken die Idee der Hose und machen den Look schnell unruhig.
+Paperbag-Hosen betonen die Taille und bringen Volumen an den [Bund](/glossar/bund/). Sie können elegant, sommerlich oder casual wirken, je nachdem ob sie aus Leinen, Baumwolle, Viskose oder Anzugstoff gefertigt sind.
+
+Wenn dir die Betonung zu stark ist, kann ein [Mid-Waist](/glossar/mid-waist/) im Alltag oft ausgeglichener wirken.
+
+Wichtig ist, dass der [Bund](/glossar/bund/) sichtbar bleibt. Zu lange oder zu weite Oberteile verdecken die Idee der Hose und machen den Look schnell unruhig.
 
 ## Warum dieser Begriff wichtig ist
 

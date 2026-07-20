@@ -35,10 +35,6 @@ relatedTerms:
     url: /glossar/grau/
   - title: Neutrale Farben
     url: /glossar/neutrale-farben/
-  - title: Off-White
-    url: /glossar/off-white/
-  - title: Silber
-    url: /glossar/silber/
 faq:
   items:
     - q: Wie nutze ich „Weiß“ im Alltag?
@@ -52,11 +48,11 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Weiß
 
-Weiß bringt Licht in ein Outfit. Es wirkt frisch, klar und gepflegt. Gleichzeitig ist Weiß nicht nur eine Farbe, sondern eine ganze Familie aus Nuancen, die sehr unterschiedlich auf Haut, Haar und Material reagieren.
+Weiß bringt Licht in ein Outfit. Es wirkt frisch, klar und gepflegt. Gleichzeitig ist Weiß nicht nur eine Farbe, sondern eine ganze Familie aus Nuancen, die sehr unterschiedlich auf Haut, Haar und Material reagieren. Innerhalb [neutraler Farben](/glossar/neutrale-farben/) ist Weiß oft der hellste Kontrastgeber.
 
 ## Wie Weiß wirkt
 
-Reines Weiß wirkt grafisch und kühl. Es macht Kontraste sichtbar und kann sehr modern aussehen. Cremeweiß wirkt weicher, wärmer und zugänglicher. Off-White wirkt ruhiger als Reinweiß, bleibt aber hell und elegant.
+Reines Weiß wirkt grafisch und kühl. Es macht Kontraste sichtbar und kann sehr modern aussehen. [Creme](/glossar/creme/) wirkt weicher, wärmer und zugänglicher. Off-White wirkt ruhiger als Reinweiß, bleibt aber hell und elegant.
 
 Weiß kann sportlich, klassisch oder sehr edel wirken. Ein weißes T-Shirt aus Baumwolle wirkt unkompliziert. Eine weiße Popeline-Bluse wirkt frisch und präzise. Eine weiße Seidenbluse wirkt weich und hochwertig. Ein weißer Leinenanzug wirkt sommerlich und leicht.
 
@@ -74,7 +70,7 @@ Weiß kann sportlich, klassisch oder sehr edel wirken. Ein weißes T-Shirt aus B
 - **Weiß + Beige:** Ruhig, hell und natürlich
 - **Weiß + Braun:** Warm und hochwertig
 - **Weiß + Denim:** Entspannt und alltagstauglich
-- **Weiß + Schwarz:** Klar, grafisch und stark
+- **Weiß + [Schwarz](/glossar/schwarz/):** Klar, grafisch und stark
 
 ## Weiß im Business und Alltag
 

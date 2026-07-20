@@ -4,6 +4,7 @@ term: Rechteck-Silhouette
 description: Die Rechteck-Silhouette beschreibt eine eher gerade Körper- oder Outfitlinie mit wenig
   sichtbarer Taillenbetonung.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - rechteck silhouette
   - silhouette
@@ -73,6 +74,8 @@ Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/
 Frag dich bei **Rechteck-Silhouette**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die ganze Linie von Kopf bis Schuh. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Rechteck-Silhouette** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fokuspunkt](/glossar/fokuspunkt/).
 
 ## Verwandte Begriffe
 

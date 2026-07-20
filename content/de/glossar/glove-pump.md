@@ -46,6 +46,8 @@ Ein **Glove Pump** ist ein weicher, fussnaher Pumps mit handschuhartiger Linienf
 
 Der Schuh lebt von seiner weichen Form und nahen Fusslinie. Genau das macht ihn reduziert, modern und oft sehr hochwertig in der Wirkung.
 
+Wenn du mehr Stand und Alltagssicherheit suchst, lohnt sich der Vergleich mit [Blockabsatz](/glossar/blockabsatz/).
+
 ## Mini-Test vor dem Spiegel
 
 Betrachte „Glove Pump“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.

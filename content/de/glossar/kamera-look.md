@@ -77,7 +77,7 @@ Ein **Kamera-Look** ist ein Outfit, das für Foto oder Video geplant wird. Dabei
 
 Vor der Kamera wirken manche Stoffe flacher, manche Muster unruhiger und manche Farben härter als in echt.
 
-Ein guter Kamera-Look rahmt das Gesicht, lenkt nicht ab und unterstütetzt die Rolle, in der Sie gesehen werden möchten.
+Ein guter Kamera-Look rahmt das Gesicht, lenkt nicht ab und unterstütetzt die Rolle, in der Sie gesehen werden möchten. Dasselbe Prinzip hilft auch beim Outfit für ein [Bewerbungsgespräch](/glossar/bewerbungsgespraech/).
 
 ## Warum der Begriff wichtig ist
 
@@ -115,11 +115,11 @@ Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kate
 
 ## Beratungssituation im echten Leben
 
-Bei **Kamera-Look** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Kamera-Look** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Kamera-Look** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Kamera-Look** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -130,7 +130,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Kamera-Look** grundsätzlich verst
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Kamera-Look** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Präsenz ansehen](/praesenz/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Kamera-Look** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Präsenz ansehen](/praesenz/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

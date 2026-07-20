@@ -46,6 +46,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Farbtypologie soll Farben nicht einengen. Sie soll sie lesbar machen.
+In der Praxis wird diese Systematik meist in ein konkretes [Farbprofil](/glossar/farbprofil/) übersetzt.
 
 Wenn du verstehst, ob dich eher klare oder gedeckte, warme oder kühle, helle oder tiefe Farben stärken, erkennst du schneller die richtige Variante einer Farbe. Dann wird aus einem allgemeinen Blau plötzlich dein Blau.
 

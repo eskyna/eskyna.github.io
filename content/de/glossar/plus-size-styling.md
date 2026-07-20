@@ -5,6 +5,7 @@ description:
   Plus-Size-Styling beschreibt Stylingansätze für größere Konfektionsgrößen, ohne den Körper
   zu kaschieren oder zu bewerten.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - plus size styling
   - passform
@@ -47,6 +48,8 @@ lastmod: "2026-07-09"
 
 Auch hier geht es nicht um Verkleinern oder Verstecken. Es geht um Kleidung, die gut sitzt, sauber fällt und die gewünschte Wirkung unterstütetzt.
 
+Gerade für einen ruhigen Gesamteindruck ist die bewusste [optische Streckung](/glossar/optische-streckung/) oft ein hilfreiches Werkzeug.
+
 ## Mini-Test vor dem Spiegel
 
 Betrachte „Plus-Size-Styling“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
@@ -74,6 +77,8 @@ Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/
 Frag dich bei **Plus-Size-Styling**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die ganze Linie von Kopf bis Schuh. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Plus-Size-Styling** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Für ruhige Linien ohne harte Brüche ist die [Rechteck-Silhouette](/glossar/rechteck-silhouette/) eine hilfreiche Orientierung.
 
 ## Verwandte Begriffe
 

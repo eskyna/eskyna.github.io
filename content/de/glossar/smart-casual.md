@@ -3,7 +3,7 @@ title: Was bedeutet Smart Casual?
 term: Smart Casual
 description: Smart Casual beschreibt einen gepflegten Look zwischen elegant und entspannt, bei dem
   hochwertige und lässige Elemente bewusst verbunden werden.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - smart casual
   - dresscode
@@ -50,7 +50,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Smart Casual ist weniger formell als klassische Businesskleidung, aber gepflegter als ein reiner Freizeitlook. Ein Blazer zur Jeans, Chinos mit feinem Strick, ein schlichtes Kleid mit Loafern oder eine elegante Hose mit T-Shirt und Schmuck können Smart Casual wirken.
+Smart Casual ist weniger formell als [klassische Businesskleidung](/glossar/business-formal/), aber gepflegter als ein reiner Freizeitlook. Ein Blazer zur Jeans, Chinos mit feinem Strick, ein schlichtes Kleid mit Loafern oder eine elegante Hose mit T-Shirt und Schmuck können Smart Casual wirken.
 
 Der Stil lebt vom Gleichgewicht. Ein Teil darf entspannt sein, wenn ein anderes Teil Struktur gibt. Eine Jeans wirkt smarter mit Blazer und gutem Schuh. Ein Blazer wirkt entspannter mit T-Shirt statt Hemdbluse.
 
@@ -58,7 +58,7 @@ Der Stil lebt vom Gleichgewicht. Ein Teil darf entspannt sein, wenn ein anderes 
 
 Viele moderne Alltagssituationen sind nicht klar formell, aber auch nicht völlig privat. Kundentermine, Abendessen, Reisen, Events, Workshops oder Büroalltag brauchen oft genau diese Zwischenstufe.
 
-Für ESKYNA ist Smart Casual besonders wertvoll, weil der Stil Persönlichkeit zulässt. Er zeigt Kompetenz, ohne steif zu wirken. Gleichzeitig hilft er, eine Garderobe flexibler aufzubauen, weil einzelne Teile mehrere Anlässe abdecken können.
+Für ESKYNA ist Smart Casual besonders wertvoll, weil der Stil Persönlichkeit zulässt. Er zeigt Kompetenz, ohne steif zu wirken. Gleichzeitig hilft er, eine Garderobe flexibler aufzubauen, weil einzelne Teile mehrere Anlässe abdecken können. Genau deshalb ist Smart Casual oft ein tragender Baustein einer modernen [Anlassgarderobe](/glossar/anlassgarderobe/).
 
 ## Smart Casual gelingt oft mit
 

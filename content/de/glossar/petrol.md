@@ -80,6 +80,8 @@ Petrol ist oft leichter zu tragen als sehr helle Blaugrün-Töne. Wenn die Farbe
 
 Petrol ist Farbe mit Tiefe. Präsent genug für Persönlichkeit und ruhig genug für Eleganz.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Faser-Mix](/glossar/faser-mix/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Petrol** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.

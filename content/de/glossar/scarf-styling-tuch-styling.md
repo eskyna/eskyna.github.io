@@ -6,6 +6,7 @@ slug: scarf-styling-tuch-styling
 url: /glossar/scarf-styling-tuch-styling/
 description: Scarf Styling zeigt, wie Tücher als Gürtel, Haarband, Taschendetail oder Top ein Outfit sofort verändern.
 category: Accessoires
+subcategory: Accessoires
 tags:
   - scarf styling
   - tuch styling

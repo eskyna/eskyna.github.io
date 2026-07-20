@@ -3,7 +3,7 @@ title: Was ist ein Slip Dress?
 term: Slip Dress
 description: Ein Slip Dress ist ein schmal fallendes Kleid mit feinen Trägern, oft aus Satin, Seide
   oder Viskose.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - slip dress
   - kleid
@@ -75,6 +75,8 @@ Betrachte „Slip Dress“ einmal aus der Nähe und einmal mit etwas Abstand. Au
 ## ESKYNA-Merksatz
 
 Ein Slip Dress ist Leichtigkeit als Kleid. Es wirkt stark, wenn Material und Styling Ruhe geben.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Griff](/glossar/griff/).
 
 ## Praxischeck
 

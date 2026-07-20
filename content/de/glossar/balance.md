@@ -40,7 +40,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Balance**: Balance im Outfit beschreibt das stimmige Verhältnis von Volumen, Farbe, Linien, Details und Fokus.
+**Balance**: Balance im Outfit beschreibt das stimmige Verhältnis von Volumen, Farbe, Linien, Details und Fokus. Gerade bei einer [androgynen Figur](/glossar/androgyne-figur/) wird dieses Gleichgewicht oft besonders bewusst gelesen.
 
 ## Einfach erklärt
 

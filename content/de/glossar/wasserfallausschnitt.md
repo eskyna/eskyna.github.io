@@ -36,7 +36,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Wasserfallausschnitt**: Ein Wasserfallausschnitt ist ein drapierter Ausschnitt mit weich fallendem Stoff.
+**Wasserfallausschnitt**: Ein Wasserfallausschnitt ist ein [drapierter](/glossar/drapierung/) Ausschnitt mit weich fallendem Stoff.
 
 ## Einfach erklärt
 

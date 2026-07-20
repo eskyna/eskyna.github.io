@@ -3,7 +3,7 @@ title: Was bedeutet White Tie?
 term: White Tie
 description: White Tie ist der höchste formelle Abenddresscode und wird nur bei besonders festlichen
   Anlässen erwartet.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - garderobe
   - white tie
@@ -85,6 +85,8 @@ Wenn du den Begriff **White Tie** auf ein Outfit überträgst, prüfe nicht nur 
 In der Beratung ist **White Tie** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Körperform](/glossar/koerperform/).
 
 ## Verwandte Begriffe
 

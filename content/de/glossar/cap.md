@@ -78,6 +78,8 @@ Betrachte „Cap“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der N
 
 Eine Cap bringt Lässigkeit ins Outfit. Elegant wird sie, wenn Farbe, Material und Kontext stimmen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Capsule Collection](/glossar/capsule-collection/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Cap** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.

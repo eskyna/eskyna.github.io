@@ -38,7 +38,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Hahnentritt**: Hahnentritt ist ein grafisches, gezacktes Muster, das klar, klassisch und auffällig wirken kann.
+**Hahnentritt**: Hahnentritt ist ein grafisches, gezacktes Muster, das klar, [klassisch](/glossar/klassisch/) und auffällig wirken kann.
 
 ## Einfach erklärt
 

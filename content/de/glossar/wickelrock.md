@@ -2,7 +2,7 @@
 title: Was bedeutet Wickelrock?
 term: Wickelrock
 description: Ein Wickelrock wird überlappend geschlossen und erzeugt eine diagonale Linie im Outfit.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - garderobe
   - wickelrock
@@ -84,6 +84,8 @@ Wenn du den Begriff **Wickelrock** auf ein Outfit überträgst, prüfe nicht nur
 In der Beratung ist **Wickelrock** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Kombinationsstück](/glossar/kombinationsstueck/).
 
 ## Verwandte Begriffe
 

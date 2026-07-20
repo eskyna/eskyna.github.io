@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der kreative Teil ersetzt nicht die Formalität. Er verfeinert sie. Genau deshalb braucht dieser Dresscode Stilgefühl und Mass.
+Der kreative Teil ersetzt nicht die Formalität. Er verfeinert sie. Genau deshalb braucht dieser Dresscode Stilgefühl und Maß. Wer weniger streng auftreten muss, bewegt sich oft näher an [Black Tie Optional](/glossar/black-tie-optional/).
 
 ## Warum der Begriff wichtig ist
 

@@ -46,7 +46,7 @@ Ein **Fotoshooting-Outfit** ist Kleidung, die nicht nur für den Moment, sondern
 
 ## Einfach erklärt
 
-Ein Outfit für ein Business-Shooting funktioniert anders als ein Look für private Fotos. Manche Farben geben mehr Tiefe, manche Materialien wirken hochwertiger, manche Schnitte funktionieren im Sitzen oder in Bewegung besser.
+Ein Outfit für ein Business-Shooting funktioniert anders als ein Look für private Fotos. Manche Farben geben mehr Tiefe, manche Materialien wirken hochwertiger, manche Schnitte funktionieren im Sitzen oder in Bewegung besser. Vor allem für Mode- und Editorialbilder spielt der [Laufsteg/Runway](/glossar/laufsteg-runway/) als visuelle Referenz oft mit hinein.
 
 ## Warum der Begriff wichtig ist
 

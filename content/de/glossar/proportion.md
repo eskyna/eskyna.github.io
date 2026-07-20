@@ -5,6 +5,7 @@ description:
   Proportion beschreibt das Verhältnis von Längen, Breiten und Volumen im Outfit und beeinflusst Balance,
   Silhouette und Blickführung.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - proportion
   - schnitt
@@ -75,11 +76,11 @@ offer_bridge:
 
 ## Einfach erklärt
 
-Proportion ist der Grund, warum ein ähnliches Outfit bei zwei Menschen ganz unterschiedlich aussehen kann. Ein langer Blazer kann strecken oder drücken, eine hohe Taille kann Beine verlängern oder den Oberkörper verkürzen, ein weiter Rock braucht vielleicht ein ruhigeres Oberteil.
+Proportion ist der Grund, warum ein ähnliches Outfit bei zwei Menschen ganz unterschiedlich aussehen kann. Ein langer Blazer kann strecken oder drücken, eine hohe Taille kann Beine verlängern oder den Oberkörper verkürzen, ein weiter Rock braucht vielleicht ein ruhigeres Oberteil. Dadurch verändert sich die [Silhouette](/glossar/silhouette/) sofort.
 
 ## Warum Proportion wichtig ist
 
-Wenn Proportionen stimmen, wirkt Kleidung bewusster und hochwertiger. Du brauchst nicht unbedingt neue Trends, sondern oft nur andere Längen, andere Schuhe oder eine klarere Platzierung der Taille. Das verändert die Silhouette sofort.
+Wenn Proportionen stimmen, wirkt Kleidung bewusster und hochwertiger. Du brauchst nicht unbedingt neue Trends, sondern oft nur andere Längen, andere Schuhe oder eine klarere Platzierung der Taille. Das verändert die [Silhouette](/glossar/silhouette/) sofort.
 
 ## Blick aus der Beratung
 
@@ -94,7 +95,9 @@ In der ESKYNA Beratung arbeite ich mit Proportionen sehr praktisch. Wir schauen,
 
 ## Beispiel aus dem Alltag
 
-Ein weiter Pullover über einem Midirock kann gemütlich wirken, aber die Beine optisch verkürzen. Wird der Pullover vorn leicht gesteckt, der Schuh heller gewählt oder die Jacke kürzer, entsteht sofort mehr Balance. Proportion zeigt, warum kleine Längenentscheidungen ein Outfit verändern.
+Ein weiter Pullover über einem Midirock kann gemütlich wirken, aber die Beine optisch verkürzen. Wird der Pullover vorn leicht gesteckt, der Schuh heller gewählt oder die Jacke kürzer, entsteht sofort mehr [Balance](/glossar/balance/). Proportion zeigt, warum kleine Längenentscheidungen ein Outfit verändern.
+
+Dasselbe gilt für Details wie [Ballonärmel](/glossar/ballonaermel/), die Volumen gezielt verschieben und deshalb ein ruhiges Gegengewicht brauchen.
 
 ## Wann Beratung sinnvoll wird
 
@@ -106,7 +109,7 @@ Proportion bedeutet nicht, eine Figur zu korrigieren. Es geht nicht darum, einem
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-Proportion hängt eng mit Passform zusammen, ist aber nicht identisch. Passform fragt, ob ein Teil am Körper sitzt. Proportion fragt, ob die Länge, Breite und Gewichtung im gesamten Outfit stimmen.
+Proportion hängt eng mit [Passform](/glossar/passform/) zusammen, ist aber nicht identisch. Passform fragt, ob ein Teil am Körper sitzt. Proportion fragt, ob die Länge, Breite und Gewichtung im gesamten Outfit stimmen.
 
 ## Nächster Schritt
 
@@ -120,11 +123,11 @@ Proportion ist die Architektur eines Outfits.
 
 ## Beratungssituation im echten Leben
 
-Bei **Proportion** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Proportion** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Proportion** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Proportion** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -135,7 +138,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Proportion** grundsätzlich verste
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Proportion** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Proportion** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

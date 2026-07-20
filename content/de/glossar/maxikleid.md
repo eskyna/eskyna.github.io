@@ -51,6 +51,8 @@ Wichtig ist die Länge. Sie sollte nicht zufällig wirken und nicht am Boden sch
 
 Maxikleider sind hilfreich, wenn ein Outfit mit einem einzigen Kleidungsstück fertig wirken soll. Sie brauchen wenig Styling, aber klare Entscheidungen bei Schuhen, Tasche und Schmuck.
 
+Bei schlichten Maxikleidern kann ein [Choker](/glossar/choker/) den Fokus am Hals gezielt setzen.
+
 ## Worauf du achten solltest
 
 - Achte darauf, dass der Saum sauber fällt.

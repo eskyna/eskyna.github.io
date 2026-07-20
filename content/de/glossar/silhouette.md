@@ -4,6 +4,7 @@ term: Silhouette
 description: Die Silhouette ist die äußere Linie eines Outfits und prägt, ob ein Look klar, weich,
   modern oder voluminös wirkt.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - silhouette
   - schnitt
@@ -45,17 +46,17 @@ Die **Silhouette** ist die äußere Form eines Outfits. Sie zeigt, ob ein Look g
 
 ## Einfach erklärt
 
-Bevor Details sichtbar werden, nimmt das Auge die Silhouette wahr. Es sieht die Linie des Mantels, die Breite der Hose, die Länge des Rocks, die Schulterform und das Verhältnis von oben und unten.
+Bevor Details sichtbar werden, nimmt das Auge die Silhouette wahr. Es sieht die Linie des Mantels, die Breite der Hose, die Länge des Rocks, die Schulterform und das Verhältnis von oben und unten. Genau hier wirken [Proportion](/glossar/proportion/) und [Schnitt](/glossar/schnitt/) zusammen.
 
-Eine gerade Silhouette wirkt oft klar und modern. Eine taillierte Silhouette wirkt strukturierter und körpernäher. Eine weite Silhouette kann lässig, künstlerisch oder sehr elegant wirken, wenn die Proportionen stimmen.
+Eine gerade Silhouette wirkt oft klar und modern. Eine taillierte Silhouette wirkt strukturierter und körpernäher. Eine weite Silhouette kann lässig, künstlerisch oder sehr elegant wirken, wenn die [Proportionen](/glossar/proportion/) stimmen.
 
-Silhouette entsteht nicht nur durch ein einzelnes Teil. Ein schmaler Rollkragen mit weiter Hose erzeugt eine andere Linie als ein voluminöser Pullover mit schmalem Rock.
+Silhouette entsteht nicht nur durch ein einzelnes Teil. Ein schmaler Rollkragen mit weiter Hose erzeugt eine andere Linie als ein voluminöser Pullover mit schmalem Rock. Auch die [Passform](/glossar/passform/) verändert, wie klar diese Linie am Körper erscheint.
 
 ## Warum Silhouette wichtig ist
 
 Silhouette ist die Sprache der Form. Sie entscheidet, ob ein Outfit ruhig, streng, weich, dynamisch oder schwer wirkt.
 
-Wer die eigene bevorzugte Silhouette kennt, findet schneller gute Kombinationen. Dann wird klar, warum manche Looks funktionieren und andere trotz schöner Einzelteile nicht stimmig werden.
+Wer die eigene bevorzugte Silhouette kennt, findet schneller gute Kombinationen. Dann wird klar, warum manche Looks funktionieren und andere trotz schöner Einzelteile nicht stimmig werden. Genau daraus entsteht oft erst sichtbare [Balance](/glossar/balance/).
 
 ## Typische Missverständnisse
 

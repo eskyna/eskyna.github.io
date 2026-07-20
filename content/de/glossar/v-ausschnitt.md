@@ -52,7 +52,7 @@ Ein **V-Ausschnitt** ist ein Ausschnitt, der vorne eine V-Form bildet. Er öffne
 
 Ein V-Ausschnitt kommt bei T-Shirts, Blusen, Pullovern, Kleidern und Cardigans vor. Je tiefer und schmaler das V ist, desto stärker ist die vertikale Wirkung. Ein breiteres V wirkt offener und weicher.
 
-Die Wirkung hängt auch vom Material ab. Ein V-Ausschnitt in Feinstrick wirkt ruhig und körpernah. In Seide oder Viskose wirkt er fließender. In Baumwolle wirkt er klarer und alltagstauglicher.
+Die Wirkung hängt auch vom Material ab. Ein V-Ausschnitt in Feinstrick wirkt ruhig und körpernah. In Seide oder Viskose wirkt er fließender. In Baumwolle wirkt er klarer und alltagstauglicher. Genau diese Unterschiede sind zentral für die [Ausschnittwirkung](/glossar/ausschnittwirkung/).
 
 ## Warum dieser Begriff wichtig ist
 

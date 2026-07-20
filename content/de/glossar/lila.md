@@ -51,6 +51,7 @@ lastmod: "2026-07-09"
 Lila liegt zwischen Rot und Blau. Genau diese Mischung macht die Farbe interessant: Sie kann weich, kreativ, geheimnisvoll oder sehr elegant wirken. Die Nuance entscheidet fast alles.
 
 Flieder wirkt hell und sanft. Violett wirkt tiefer und präsenter. Aubergine wirkt erwachsen und luxuriös. Ein zu süßliches Lila kann schnell romantisch wirken, ein klarer Schnitt macht die Farbe sofort moderner.
+Wenn du den kraeftigeren und klareren Pol innerhalb dieser Farbfamilie suchst, ist [Violett](/glossar/violett/) oft der passendere Bezugspunkt.
 
 ## Wie Lila wirkt
 

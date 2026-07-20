@@ -3,8 +3,18 @@ title: "Was ist Innenbeinlänge?"
 term: "Innenbeinlänge"
 description: "Die Innenbeinlänge misst vom Schritt entlang der Beininnenseite bis zum gewünschten Hosenende."
 category: "Schnitt, Proportion & Passform"
+subcategory: "Größen & Passform"
 image: images/glossar/innenbeinlaenge.png
 image_alt: "Glossar-Illustration zu Innenbeinlänge"
+relatedTerms:
+  - title: Hosenbruch
+    url: /glossar/hosenbruch/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Längsstreckung
+    url: /glossar/laengsstreckung/
 keywords:
   - "innenbeinlaenge"
   - "was ist innenbeinlänge"
@@ -14,11 +24,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Im Handel wird sie häufig als Inseam angegeben. Sie ist nicht identisch mit der gesamten Beinlänge vom Bund oder von der Taille bis zum Boden.
+Im Handel wird sie häufig als Inseam angegeben. Sie ist nicht identisch mit der gesamten Beinlänge vom Bund oder von der Taille bis zum Boden und darf nicht mit dem [Hosenbruch](/glossar/hosenbruch/) verwechselt werden.
 
 ## Einfach erklärt
 
-Die passende Innenbeinlänge hängt von Hosenform, Schuhhöhe und gewünschtem Hosenbruch ab. Eine weite Hose kann länger getragen werden als eine schmale Cropped-Hose. Auch Stoffe können nach dem Waschen oder durch Aushängen ihre Länge verändern.
+Die passende Innenbeinlänge hängt von Hosenform, Schuhhöhe und gewünschtem [Hosenbruch](/glossar/hosenbruch/) ab. Eine weite Hose kann länger getragen werden als eine schmale Cropped-Hose. Auch Stoffe können nach dem Waschen oder durch Aushängen ihre Länge verändern. Das prägt die sichtbare [Proportion](/glossar/proportion/) und [Längsstreckung](/glossar/laengsstreckung/).
 
 ## Worauf du achten solltest
 
@@ -28,7 +38,7 @@ Die passende Innenbeinlänge hängt von Hosenform, Schuhhöhe und gewünschtem H
 
 ## Typisches Missverständnis
 
-Innenbeinlänge ist nicht einfach Körpergröße oder sichtbare Beinlänge. Sie ist ein konkretes Maß an der Beininnenseite.
+Innenbeinlänge ist nicht einfach Körpergröße oder sichtbare Beinlänge. Sie ist ein konkretes Maß an der Beininnenseite und wichtig für eine stimmige [Passform](/glossar/passform/).
 
 ## ESKYNA-Merksatz
 

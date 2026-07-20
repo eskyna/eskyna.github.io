@@ -4,6 +4,7 @@ term: Statement-Schmuck
 description: Statement-Schmuck ist auffälliger Schmuck, der den Fokus eines Looks setzt und deshalb
   Ruhe im restlichen Outfit braucht.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - statement-schmuck
   - schmuck
@@ -27,8 +28,6 @@ relatedTerms:
     url: /glossar/feinschmuck/
   - title: Akzentfarbe
     url: /glossar/akzentfarbe/
-  - title: Kontrast
-    url: /glossar/kontrast/
 faq:
   items:
     - q: Wie nutze ich „Statement-Schmuck“ im Alltag?
@@ -43,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Statement-Schmuck** ist Schmuck, der bewusst auffällt. Das kann eine große Kette, ein markanter Ring, auffällige Ohrringe oder ein besonderer Armreif sein.
+**Statement-Schmuck** ist Schmuck, der bewusst auffällt. Das kann eine große Kette, ein markanter Ring, auffällige [Ohrringe](/glossar/ohrringe/) oder ein besonderer [Armreif](/glossar/armreif/) sein.
 
 ## Einfach erklärt
 
@@ -53,7 +52,7 @@ Ein großer Ohrring verändert die Wirkung am Gesicht. Eine starke Kette veränd
 
 ## Warum dieser Begriff wichtig ist
 
-Statement-Schmuck kann schlichte Outfits schnell persönlicher machen. Er funktioniert besonders gut, wenn Farben, Ausschnitt und Material bewusst gewählt sind.
+Statement-Schmuck kann schlichte Outfits schnell persönlicher machen. Er funktioniert besonders gut, wenn Farben, Ausschnitt und Material bewusst gewählt sind. In Bildwelten wie [Art Deco Evening](/glossar/art-deco-evening-neo-deco/) trägt er oft den eigentlichen Fokus. In kleinen Abend-Setups kann auch eine [Beaded Bag](/glossar/beaded-bag/) als ruhige Begleitung sinnvoll sein.
 
 ## Worauf du achten solltest
 

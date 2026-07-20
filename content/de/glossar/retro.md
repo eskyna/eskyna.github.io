@@ -41,6 +41,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Wenn Retro feiner und heller interpretiert wird, liegt die Bildwelt häufig nahe bei [Light Academia](/glossar/light-academia/).
 
 Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
 

@@ -3,6 +3,7 @@ title: Was bedeutet Bodycon?
 term: Bodycon
 description: Bodycon beschreibt sehr körpernahe Kleidung, die die Silhouette stark nachzeichnet.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - bodycon
   - schnitt proportion
@@ -41,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit. Kleine Unterschiede können die Wirkung stark verändern, besonders bei Längen, Schultern, Taille und Volumen.
+Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit. Kleine Unterschiede können die Wirkung stark verändern, besonders bei Längen, Schultern, Taille und Volumen. Mit Layering kann selbst ein körpernahes Teil in Richtung [Modest Fashion](/glossar/modest-fashion/) verschoben werden.
 
 Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger machen. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück soll stimmig sitzen.
 

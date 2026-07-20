@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
 
-Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
+Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln. Stilbilder wie [Balletcore](/glossar/balletcore/) greifen genau diese weiche, kontrollierte Romantik auf.
 
 ## Warum Romantisch wichtig ist
 

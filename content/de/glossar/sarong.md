@@ -5,6 +5,15 @@ description: "Ein Sarong ist ein rechteckiges Stoffstück, das um den Körper ge
 category: "Garderobe & Alltag"
 image: images/glossar/sarong.png
 image_alt: "Glossar-Illustration zu Sarong"
+relatedTerms:
+  - title: Kaftan
+    url: /glossar/kaftan/
+  - title: Kleid
+    url: /glossar/kleid/
+  - title: Muster
+    url: /glossar/muster/
+  - title: Proportion
+    url: /glossar/proportion/
 keywords:
   - "sarong"
   - "was ist sarong"
@@ -18,13 +27,13 @@ Sarongformen sind in verschiedenen Kulturen Südostasiens und des Pazifikraums t
 
 ## Einfach erklärt
 
-Durch unterschiedliche Bindungen kann ein Sarong als Rock, Kleid oder Schulterüberwurf getragen werden. Die Wirkung entsteht aus Stoffgröße, Fall, Muster und der Position des Knotens. Rutschige Materialien benötigen oft eine zusätzliche Sicherung.
+Durch unterschiedliche Bindungen kann ein Sarong als [Rock](/glossar/rock/), [Kleid](/glossar/kleid/) oder Schulterüberwurf getragen werden. Die Wirkung entsteht aus Stoffgröße, Fall, [Muster](/glossar/muster/) und der Position des Knotens. Rutschige Materialien benötigen oft eine zusätzliche Sicherung.
 
 ## Worauf du achten solltest
 
 - Prüfe, ob Länge und Breite für die gewünschte Bindung ausreichen.
 - Sichere Knoten oder Wicklung so, dass sie beim Gehen und Sitzen halten.
-- Unterscheide modische Strandware von kulturell spezifischen Kleidungsformen und benenne letztere respektvoll.
+- Unterscheide modische Strandware von kulturell spezifischen Kleidungsformen und benenne letztere respektvoll, auch im Vergleich zu Formen wie dem [Kaftan](/glossar/kaftan/).
 
 ## Typisches Missverständnis
 

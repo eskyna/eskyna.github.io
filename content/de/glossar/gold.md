@@ -52,7 +52,7 @@ Gold bringt Wärme und Licht in den Look. Als Schmuck, Schnalle, Schuh oder fein
 
 ## Wie Gold wirkt
 
-Gold wirkt weniger kühl als Silber und meist weicher als starke Farben. Es kann luxuriös, festlich oder natürlich erscheinen. Entscheidend ist der Glanzgrad: Mattes Gold wirkt ruhiger, glänzendes Gold auffälliger.
+Gold wirkt weniger kühl als [Silber](/glossar/silber/) und meist weicher als starke Farben. Es kann luxuriös, festlich oder natürlich erscheinen. Entscheidend ist der Glanzgrad: Mattes Gold wirkt ruhiger, glänzendes Gold auffälliger.
 
 ## Die Nuancen von Gold
 
@@ -79,7 +79,7 @@ Im Business ist Gold sehr gut als Schmuck, Uhr, Gürtel oder Tasche tragbar. Gro
 
 ## Für wen und wo Gold funktioniert
 
-Gold passt besonders gut zu warmen Farbwelten. Wenn Gelbgold zu warm wirkt, können Champagnergold, Roségold oder Silber harmonischer sein. Als Detail bleibt Gold fast immer steuerbar.
+Gold passt besonders gut zu warmen Farbwelten. Wenn Gelbgold zu warm wirkt, können Champagnergold, [Roségold](/glossar/rosegold/) oder [Silber](/glossar/silber/) harmonischer sein. Als Detail bleibt Gold fast immer steuerbar.
 
 ## ESKYNA-Merksatz
 

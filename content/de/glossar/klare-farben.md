@@ -46,6 +46,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Typisch sind deutliches Kobaltblau, klares Pink, starkes Smaragd oder frisches Korall. Ob solche Farben harmonisch wirken, hängt stark vom Farbtyp und vom Kontrast der Person ab.
+Damit die Auswahl im Alltag konsistent bleibt, wird sie am besten mit einem persönlichen [Farbpass](/glossar/farbpass/) überprüft.
 
 ## Warum der Begriff wichtig ist
 

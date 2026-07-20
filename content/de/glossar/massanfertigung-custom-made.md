@@ -5,6 +5,15 @@ description: "Maßanfertigung bezeichnet Kleidung, die für eine konkrete Person
 category: "Garderobe & Alltag"
 image: images/glossar/massanfertigung-custom-made.png
 image_alt: "Glossar-Illustration zu Maßanfertigung/Custom-made"
+relatedTerms:
+  - title: Passform
+    url: /glossar/passform/
+  - title: Silhouette
+    url: /glossar/silhouette/
+  - title: Nahtzugabe
+    url: /glossar/nahtzugabe/
+  - title: Hosenanzug
+    url: /glossar/hosenanzug/
 keywords:
   - "massanfertigung custom made"
   - "was ist maßanfertigung/custom-made"
@@ -18,13 +27,13 @@ Der Oberbegriff umfasst unterschiedliche Verfahren. Made-to-measure verändert m
 
 ## Einfach erklärt
 
-Custom-made kann außerdem bedeuten, dass nur Farbe, Länge oder Details konfiguriert werden. Deshalb lohnt es sich, den Leistungsumfang genau zu klären. Individuelle Maße verbessern die Chance auf gute Passform, ersetzen aber weder kompetente Schnittführung noch hochwertige Verarbeitung.
+Custom-made kann außerdem bedeuten, dass nur Farbe, Länge oder Details konfiguriert werden. Deshalb lohnt es sich, den Leistungsumfang genau zu klären. Individuelle Maße verbessern die Chance auf gute [Passform](/glossar/passform/), ersetzen aber weder kompetente Schnittführung noch hochwertige Verarbeitung.
 
 ## Worauf du achten solltest
 
 - Frage, ob ein Grundschnitt angepasst oder ein individueller Schnitt erstellt wird.
-- Kläre Anzahl der Anproben, mögliche Korrekturen und spätere Änderungsreserven.
-- Besprich Alltag, Haltung, Bewegungsbedarf und bevorzugte Silhouette - nicht nur Zahlen.
+- Kläre Anzahl der Anproben, mögliche Korrekturen und spätere Änderungsreserven über [Nahtzugaben](/glossar/nahtzugabe/).
+- Besprich Alltag, Haltung, Bewegungsbedarf und bevorzugte [Silhouette](/glossar/silhouette/) statt nur Zahlen.
 
 ## Typisches Missverständnis
 

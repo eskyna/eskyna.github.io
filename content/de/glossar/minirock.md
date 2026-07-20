@@ -51,6 +51,8 @@ Wichtig ist das Gegengewicht. Ein ruhiger Pullover, ein Blazer, eine blickdichte
 
 Der Minirock zeigt, wie wichtig Kontext ist. Er kann sehr modern wirken, wenn Material, Länge und Styling bewusst gewählt sind.
 
+Bei klaren Minirock-Looks kann eine [Clutch](/glossar/clutch/) die Silhouette ruhig ergänzen, ohne zu beschweren.
+
 ## Worauf du achten solltest
 
 - Achte auf gute Bewegungsfreiheit.

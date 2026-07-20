@@ -48,6 +48,8 @@ Ein Hemdblusenkleid kann gerade fallen, tailliert sein oder mit Gürtel getragen
 
 Die Knopfleiste bringt vertikale Linie in den Look. Der Kragen rahmt das Gesicht. Dadurch kann ein Hemdblusenkleid besonders strukturiert wirken, ohne streng zu sein.
 
+Mit [Bubikragen](/glossar/bubikragen/) wird ein Hemdblusenkleid weicher und verspielter, ohne seine klare Struktur zu verlieren.
+
 ## Warum Hemdblusenkleid wichtig ist
 
 Das Hemdblusenkleid ist wertvoll, weil es angezogen wirkt und trotzdem unkompliziert bleibt. Es kann ins Büro, auf Reisen oder in den Alltag passen.

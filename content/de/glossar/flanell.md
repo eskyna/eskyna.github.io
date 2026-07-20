@@ -5,6 +5,15 @@ description: "Flanell ist ein weicher Stoff mit leicht aufgerauter Oberfläche, 
 category: "Materialien & Details"
 image: images/glossar/flanell.png
 image_alt: "Glossar-Illustration zu Flanell"
+relatedTerms:
+  - title: Wolle
+    url: /glossar/wolle/
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Hemd
+    url: /glossar/hemd/
+  - title: Mantel
+    url: /glossar/mantel/
 keywords:
   - "flanell"
   - "was ist flanell"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Flanell kann aus Wolle, Baumwolle oder Mischfasern bestehen. Durch Walken oder Aufrauen entsteht ein feiner Flor, der den Stoff weicher macht und Luft einschließt.
+Flanell kann aus [Wolle](/glossar/wolle/), [Baumwolle](/glossar/baumwolle/) oder Mischfasern bestehen. Durch Walken oder Aufrauen entsteht ein feiner Flor, der den Stoff weicher macht und Luft einschließt.
 
 ## Einfach erklärt
 
-Wollflanell findet sich häufig bei Anzügen, Hosen und Mänteln; Baumwollflanell eher bei Hemden, Schlaf- und Freizeitkleidung. Die Oberfläche schluckt Licht und lässt Farben gedämpfter erscheinen. Flanell ist nicht an Karomuster gebunden: Auch einfarbige Stoffe können Flanell sein.
+[Wollflanell](/glossar/wolle/) findet sich häufig bei Anzügen, Hosen und [Mänteln](/glossar/mantel/); Baumwollflanell eher bei [Hemden](/glossar/hemd/), Schlaf- und Freizeitkleidung. Die Oberfläche schluckt Licht und lässt Farben gedämpfter erscheinen. Als [Webstoff](/glossar/webstoff/) bleibt Flanell formstabiler als viele gestrickte Alternativen. Flanell ist nicht an Karomuster gebunden: Auch einfarbige Stoffe können Flanell sein.
 
 ## Worauf du achten solltest
 

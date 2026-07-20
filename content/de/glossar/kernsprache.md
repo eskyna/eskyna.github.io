@@ -50,6 +50,8 @@ Für ESKYNA ist er wichtig, weil Stil erst dann leichter wird, wenn innere Klarh
 
 ## Warum Kernsprache wichtig ist
 
+Wenn Offenheit und Leichtigkeit zu deiner Stilabsicht gehören, kann ein [Carmen-Ausschnitt](/glossar/carmen-ausschnitt/) diese Kernsprache sehr direkt sichtbar machen.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Kernsprache, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

@@ -39,7 +39,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Fadenlauf**: Der Fadenlauf beschreibt die Richtung des Stoffes beim Zuschnitt und beeinflusst Fall, Form und Sitz.
+**Fadenlauf**: Der Fadenlauf beschreibt die Richtung des Stoffes beim Zuschnitt und beeinflusst Fall, Form und Sitz. Beim Kürzen oder Ändern spielt er oft gemeinsam mit der [Nahtzugabe](/glossar/nahtzugabe/) eine Rolle.
 
 ## Einfach erklärt
 

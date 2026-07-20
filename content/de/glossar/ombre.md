@@ -5,6 +5,15 @@ description: "Ombré bezeichnet einen weichen Farbverlauf von hell nach dunkel o
 category: "Farbberatung & Farbe"
 image: images/glossar/ombre.png
 image_alt: "Glossar-Illustration zu Ombré"
+relatedTerms:
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Farbkreis
+    url: /glossar/farbkreis/
+  - title: Batik
+    url: /glossar/batik/
+  - title: Muster
+    url: /glossar/muster/
 keywords:
   - "ombre"
   - "was ist ombré"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Der Übergang kann im Garn, beim Färben, Drucken, Stricken oder durch Materialschichtung entstehen. Er verläuft meist kontinuierlicher als Batik- oder Dip-Dye-Effekte.
+Der Übergang kann im Garn, beim Färben, Drucken, Stricken oder durch Materialschichtung entstehen. Er verläuft meist kontinuierlicher als [Batik-](/glossar/batik/) oder Dip-Dye-Effekte.
 
 ## Einfach erklärt
 
-Ein vertikaler Verlauf kann den Blick nach oben oder unten führen, ein horizontaler Verlauf den Körper in Farbzonen gliedern. Entscheidend ist, wo die stärkste Helligkeit oder Sättigung liegt. Harte Streifen zwischen den Stufen schwächen die typische fließende Wirkung.
+Ein vertikaler Verlauf kann den Blick nach oben oder unten führen, ein horizontaler Verlauf den Körper in Farbzonen gliedern. Entscheidend ist, wo die stärkste Helligkeit oder Sättigung liegt. Harte Streifen zwischen den Stufen schwächen die typische fließende Wirkung und erhöhen den [Kontrast](/glossar/kontrast/).
 
 ## Worauf du achten solltest
 

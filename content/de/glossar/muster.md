@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 Muster bringen Bewegung in einen Look. Entscheidend sind Größe, Kontrast, Platzierung und die Frage, ob das Muster eine ruhige Ergänzung oder der Fokus des Outfits sein soll.
 
-Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird.
+Für ESKYNA sind Muster besonders spannend, weil sie Persönlichkeit zeigen können. Gleichzeitig brauchen sie klare Nachbarschaft, damit der Look nicht unruhig wird. Bei einem [Allover-Print](/glossar/allover-print/) wird diese Wirkung über die gesamte Fläche besonders stark.
 
 ## Warum Muster wichtig ist
 
@@ -61,7 +61,7 @@ Gerade im Alltag hilft Muster, schneller zu erkennen, ob ein Teil nur interessan
 ## Typische Missverständnisse
 
 **Missverständnis:** Muster ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst. Auch ein [Animal Print](/glossar/animal-print/) ist nicht nur Dekor, sondern ein starkes Stilsignal.
 
 **Missverständnis:** Muster funktioniert immer gleich.  
 **Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.

@@ -4,7 +4,7 @@ term: Business Casual
 description:
   Business Casual beschreibt einen gepflegten beruflichen Stil, der professionell wirkt und trotzdem
   weniger formell ist.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - business casual
   - dresscode
@@ -76,11 +76,11 @@ consulting_focus:
 
 ## Definition
 
-**Business Casual** beschreibt einen gepflegten beruflichen Stil, der professionell wirkt, aber weniger formell ist als klassische Businesskleidung. Der Look darf entspannter sein, bleibt aber bewusst und ordentlich.
+**Business Casual** beschreibt einen gepflegten beruflichen Stil, der professionell wirkt, aber weniger formell ist als [klassische Businesskleidung](/glossar/business-formal/). Der Look darf entspannter sein, bleibt aber bewusst und ordentlich.
 
 ## Einfach erklärt
 
-Business Casual liegt zwischen Anzug und Freizeitlook. Ein Blazer kann dazu gehören, muss aber nicht immer streng kombiniert werden. Eine Chino, eine gute Stoffhose, eine Bluse, ein Hemd, feiner Strick oder ein ruhiger Loafer können den richtigen Rahmen setzen.
+Business Casual liegt zwischen Anzug und Freizeitlook. Ein Blazer kann dazu gehören, muss aber nicht immer streng kombiniert werden. Eine Chino, eine gute [Anzughose](/glossar/anzughose/), eine Bluse, ein Hemd, feiner Strick oder ein ruhiger Loafer können den richtigen Rahmen setzen.
 
 Wichtig ist die Balance. Ein Teil darf lässiger sein, wenn ein anderes Teil Struktur gibt. Eine Chino wirkt im Office besser mit Blazer oder feinem Pullover als mit einem sehr sportlichen Hoodie.
 

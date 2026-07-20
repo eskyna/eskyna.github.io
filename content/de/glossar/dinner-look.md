@@ -85,6 +85,8 @@ In der Beratung ist **Dinner-Look** kein starres Etikett. Der Begriff wird erst 
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Für entspannte Abende mit klarer Wirkung ist ein geplanter [Date Look](/glossar/date-look/) oft die bessere Orientierung.
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

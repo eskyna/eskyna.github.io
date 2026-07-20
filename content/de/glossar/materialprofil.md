@@ -47,6 +47,8 @@ Dieser Begriff gehört zur ESKYNA Denkweise. Er verbindet persönliche Wirkung, 
 
 Für ESKYNA ist er wichtig, weil Stil erst dann leichter wird, wenn innere Klarheit und äußere Form zusammenkommen.
 
+Im Materialprofil kann [Bouclé](/glossar/boucle/) sinnvoll sein, wenn eine sichtbare Struktur gewünscht ist, ohne dass der Look schwer wirkt.
+
 ## Warum Materialprofil wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

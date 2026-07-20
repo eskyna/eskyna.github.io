@@ -74,6 +74,8 @@ Frag dich bei **Jelly Sandals**: Welche Aufgabe soll dieses Element im Outfit ü
 
 Bei Schuhen ist die Verbindung zum Saum entscheidend. Der gleiche Schuh kann je nach Hosen- oder Rocklänge völlig anders wirken. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Jelly Sandals** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Einlage](/glossar/einlage/).
+
 ## Verwandte Begriffe
 
 - [Sandale](/glossar/sandale/)

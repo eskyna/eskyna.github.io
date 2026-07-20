@@ -3,7 +3,7 @@ title: Was bedeutet Resort Casual?
 term: Resort Casual
 description: Resort Casual ist ein gepflegter, entspannter Urlaubsstil mit leichten Materialien und
   sommerlicher Eleganz.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - resort casual
   - urlaub
@@ -74,6 +74,8 @@ Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kate
 Frag dich bei **Resort Casual**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Resort Casual** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fotoshooting-Outfit](/glossar/fotoshooting-outfit/).
 
 ## Verwandte Begriffe
 

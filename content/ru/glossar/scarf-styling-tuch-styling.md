@@ -4,6 +4,7 @@ seoTitle: "Scarf Styling: как один платок меняет стиль �
 term: Scarf Styling
 description: Scarf Styling показывает, как носить платок как пояс, аксессуар для волос, деталь сумки или акцентный элемент образа.
 category: Аксессуары
+subcategory: "Аксессуары"
 tags:
   - scarf styling
   - платок

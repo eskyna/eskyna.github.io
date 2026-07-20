@@ -4,6 +4,7 @@ term: Androgyne Figur
 description: Eine androgyne Figur beschreibt eine eher gerade, weniger stark kurvige Linienführung,
   die mit Schnitt und Proportion sehr unterschiedlich inszeniert werden kann.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - androgyne figur
   - körperform
@@ -56,6 +57,7 @@ Statt vermeintlich etwas ausgleichen zu müssen, lohnt es sich, mit den vorhande
 Wer die eigene Linienführung versteht, kauft gezielter ein. Das gilt auch für eine androgyne Figur. Manche Teile wirken sofort stimmig, andere bleiben trotz guter Qualität seltsam unentschieden.
 
 Mit diesem Verständnis wird deutlicher, ob ein Look mehr Struktur, mehr Taillierung oder mehr Weite braucht. So entsteht keine starre Regel, sondern eine bessere Entscheidungsgrundlage.
+Genau hier setzt [Imageberatung](/glossar/imageberatung/) an, wenn Linie und gewünschte Wirkung zusammengeführt werden sollen.
 
 ## Worauf du achten kannst
 

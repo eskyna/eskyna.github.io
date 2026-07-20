@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Bootcut** beschreibt eine Hose, die am Oberschenkel eher schmal sitzt und zum Saum hin leicht weiter wird. Ursprünglich war die Form so gedacht, dass Boots bequem darunter passen. Heute wirkt Bootcut je nach Material klassisch, casual oder sehr elegant.
+**Bootcut** beschreibt eine Hose, die am Oberschenkel eher schmal sitzt und zum Saum hin leicht weiter wird. Ursprünglich war die Form so gedacht, dass Boots bequem darunter passen. Heute wirkt Bootcut je nach Material klassisch, [casual](/glossar/casual/) oder sehr [elegant](/glossar/elegant/).
 
 ## Einfach erklärt
 

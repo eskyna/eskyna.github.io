@@ -5,6 +5,7 @@ description:
   Passform beschreibt, wie ein Kleidungsstück am Körper sitzt und ob Bewegungsfreiheit, Linienführung
   und Wirkung zusammenpassen.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - passform
   - schnitt
@@ -75,7 +76,7 @@ offer_bridge:
 
 ## Einfach erklärt
 
-Gute Passform erkennt man nicht nur im Stehen. Sie zeigt sich beim Sitzen, Gehen, Greifen, Atmen und Bewegen. Eine Bluse, die im Laden gut aussieht, aber im Alltag zieht, rutscht oder spannt, hat keine gute Passform für dich.
+Gute Passform erkennt man nicht nur im Stehen. Sie zeigt sich beim Sitzen, Gehen, Greifen, Atmen und Bewegen. Eine Bluse, die im Laden gut aussieht, aber im Alltag zieht, rutscht oder spannt, hat keine gute Passform für dich. Damit verändert sie auch [Proportion](/glossar/proportion/) und [Silhouette](/glossar/silhouette/).
 
 ## Warum Passform wichtig ist
 
@@ -83,18 +84,19 @@ Passform beeinflusst sofort, ob ein Outfit gepflegt, sicher und hochwertig wirkt
 
 ## Blick aus der Beratung
 
-Bei ESKYNA prüfe ich Passform nicht als strenge Norm, sondern im Zusammenhang mit Proportion, Material und Stilziel. Manche Looks brauchen Bewegung und Weite, andere Präzision. Wichtig ist, dass die gewünschte Wirkung nicht zufällig entsteht.
+Bei ESKYNA prüfe ich Passform nicht als strenge Norm, sondern im Zusammenhang mit [Proportion](/glossar/proportion/), Material und Stilziel. Manche Looks brauchen Bewegung und Weite, andere Präzision. Wichtig ist, dass die gewünschte Wirkung nicht zufällig entsteht.
 
 ## So nutzt du den Begriff praktisch
 
 - Achte auf Schulternaht, Bund, Brust, Hüfte und Saumlänge.
+- Achte auf Schulternaht, Bund, Brust, Hüfte, [Ärmellänge](/glossar/aermellaenge/) und Saumlänge.
 - Teste ein Teil im Sitzen und in Bewegung.
 - Prüfe, ob der Stoff zieht, beult oder verdreht.
 - Plane kleine Änderungen ein, wenn ein gutes Teil nur knapp daneben liegt.
 
 ## Beispiel aus dem Alltag
 
-Ein Blazer kann in der Taille schön aussehen und trotzdem nicht passen, wenn die Schulter rutscht oder der Ärmel spannt. Eine Hose kann am Bund bequem sein, aber hinten Falten werfen. Passform zeigt sich im Detail und immer auch in Bewegung.
+Ein Blazer kann in der Taille schön aussehen und trotzdem nicht passen, wenn die Schulter rutscht oder der Ärmel spannt. Eine Hose kann am Bund bequem sein, aber hinten Falten werfen. Passform zeigt sich im Detail und immer auch in Bewegung. Genau hier helfen [Abnäher](/glossar/abnaeher/), Form gezielt an Brust, Taille oder Hüfte aufzunehmen. Ebenso zeigt erst die richtige [Ärmellänge](/glossar/aermellaenge/), ob ein Oberteil präzise oder unfertig wirkt.
 
 ## Wann Beratung sinnvoll wird
 
@@ -106,7 +108,7 @@ Passform wird oft mit eng verwechselt. Ein Teil kann locker sitzen und trotzdem 
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-Passform unterscheidet sich von Schnitt. Der Schnitt ist die Konstruktion des Kleidungsstücks, Passform ist das Ergebnis an deinem Körper.
+Passform unterscheidet sich von [Schnitt](/glossar/schnitt/). Der Schnitt ist die Konstruktion des Kleidungsstücks, Passform ist das Ergebnis an deinem Körper.
 
 ## Nächster Schritt
 
@@ -120,11 +122,11 @@ Passform ist gut, wenn du dich bewegen kannst und das Kleidungsstück trotzdem s
 
 ## Beratungssituation im echten Leben
 
-Bei **Passform** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Passform** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Passform** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Passform** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -135,7 +137,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Passform** grundsätzlich versteht
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Passform** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Passform** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Stilgefühl ansehen](/stilgefuehl/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

@@ -5,6 +5,15 @@ description: "D'Orsay-Pumps sind seitlich ausgeschnittene Pumps, die einen Teil 
 category: "Schuhe"
 image: images/glossar/dorsay-pumps.png
 image_alt: "Glossar-Illustration zu D'Orsay-Pumps"
+relatedTerms:
+  - title: Pumps
+    url: /glossar/pumps/
+  - title: Slingback
+    url: /glossar/slingback/
+  - title: Passform
+    url: /glossar/passform/
+  - title: Saumlänge
+    url: /glossar/saumlange/
 keywords:
   - "dorsay pumps"
   - "was sind d'orsay-pumps"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Je nach Modell ist eine oder sind beide Seiten des Schuhs geöffnet. Zehenpartie und Ferse bleiben typischerweise geschlossen, der Absatz kann flach bis hoch ausfallen.
+Je nach Modell ist eine oder sind beide Seiten des Schuhs geöffnet. Zehenpartie und Ferse bleiben typischerweise geschlossen, der Absatz kann flach bis hoch ausfallen. Damit stehen D'Orsay-Modelle zwischen klassischen [Pumps](/glossar/pumps/) und offeneren Formen wie [Slingbacks](/glossar/slingback/).
 
 ## Einfach erklärt
 
-Die ausgeschnittene Seitenlinie lässt den Fuß leichter und länger wirken. Gleichzeitig fehlt seitlicher Halt, weshalb Passform und Fersenführung besonders wichtig sind. Bei weichem Material kann der Schuh aufklaffen; bei harten Kanten kann er am Fußgewölbe einschneiden.
+Die ausgeschnittene Seitenlinie lässt den Fuß leichter und länger wirken. Gleichzeitig fehlt seitlicher Halt, weshalb [Passform](/glossar/passform/) und Fersenführung besonders wichtig sind. Bei weichem Material kann der Schuh aufklaffen; bei harten Kanten kann er am Fußgewölbe einschneiden. Wie elegant der Schuh im Outfit wirkt, hängt zusätzlich von der [Saumlänge](/glossar/saumlange/) ab.
 
 ## Worauf du achten solltest
 

@@ -86,6 +86,8 @@ In der Beratung ist **Poncho** kein starres Etikett. Der Begriff wird erst hilfr
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Wenn du statt Weite eine strukturiertere Außenlinie möchtest, hilft der Vergleich mit [Dufflecoat](/glossar/dufflecoat/).
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

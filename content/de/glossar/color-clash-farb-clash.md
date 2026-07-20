@@ -57,6 +57,8 @@ Beispiel: Hauptfarbe Plum Noir, Stoerfarbe Wasabi, Friedensstifter Creme.
 
 Beginne mit einer Stoerfarbe als Accessoire zu einem ruhigen Basislook. Wenn das sicher sitzt, kombiniere zwei starke Farben direkt miteinander.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Cost per Wear](/glossar/cost-per-wear/).
+
 ## Verwandte Begriffe
 
 - [Farbberatung](/glossar/farbberatung/)

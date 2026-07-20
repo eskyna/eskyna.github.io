@@ -31,12 +31,6 @@ relatedTerms:
     url: /glossar/statement-piece/
   - title: Metallic
     url: /glossar/metallic/
-  - title: Gold
-    url: /glossar/gold/
-  - title: Silber
-    url: /glossar/silber/
-  - title: Slip Dress
-    url: /glossar/slip-dress/
   - title: Camisole
     url: /glossar/camisole/
 faq:
@@ -57,9 +51,9 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Matte Stoffe wirken oft ruhiger, natürlicher und zurückhaltender. Baumwolle, Denim, Wolle oder Leinen haben häufig eine eher matte Oberfläche. Seide, Satin oder Lackleder reflektieren mehr Licht und ziehen dadurch stärker Aufmerksamkeit an.
+Matte Stoffe wirken oft ruhiger, natürlicher und zurückhaltender. Baumwolle, Denim, Wolle oder Leinen haben häufig eine eher matte Oberfläche. [Seide](/glossar/seide/), [Satin](/glossar/satin/) oder Lackleder reflektieren mehr Licht und ziehen dadurch stärker Aufmerksamkeit an.
 
-Glanz kann ein Outfit eleganter, festlicher oder moderner machen. Zu viel Glanz kann aber auch schnell sehr präsent wirken. Deshalb ist die Dosierung wichtig: Eine Seidenbluse unter einem Blazer wirkt anders als ein komplett glänzender Look.
+Glanz kann ein Outfit eleganter, festlicher oder moderner machen. Zu viel Glanz kann aber auch schnell sehr präsent wirken. Deshalb ist die Dosierung wichtig: Eine Seidenbluse unter einem Blazer wirkt anders als ein komplett glänzender Look. Auch der [Materialfall](/glossar/materialfall/) entscheidet, wie ruhig oder auffällig dieser Effekt erscheint.
 
 ## Warum Glanzgrad wichtig ist
 

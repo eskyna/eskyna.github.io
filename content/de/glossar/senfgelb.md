@@ -47,7 +47,7 @@ Senfgelb ist die gedämpfte, erdige Variante von Gelb. Es wirkt weniger frisch a
 
 ## Wie Senfgelb wirkt
 
-Senfgelb bringt Wärme und Charakter in einen Look. Es kann retro wirken, aber auch sehr modern, wenn der Schnitt klar ist. Besonders in Strick, Cord, Wolle oder Accessoires zeigt die Farbe ihre Tiefe.
+Senfgelb bringt Wärme und Charakter in einen Look. Es kann retro wirken, aber auch sehr [modern](/glossar/modern/), wenn der Schnitt klar ist. Besonders in Strick, [Cord](/glossar/cord/), Wolle oder Accessoires zeigt die Farbe ihre Tiefe.
 
 ## Die Nuancen von Senfgelb
 

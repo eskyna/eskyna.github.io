@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Plissee, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Besonders sichtbar wird dieser Effekt bei einem [Maxirock](/glossar/maxirock/), weil die Falten über die gesamte Länge arbeiten.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Plissee im Outfit übernimmt.
@@ -83,6 +85,8 @@ Wenn du den Begriff **Plissee** auf ein Outfit überträgst, prüfe nicht nur da
 In der Beratung ist **Plissee** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Femininer Stil](/glossar/femininer-stil/).
 
 ## Verwandte Begriffe
 

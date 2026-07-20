@@ -71,6 +71,8 @@ Flared Pants verändern Proportionen sofort. Sie können das Bein optisch verlä
 
 Flared Pants bringen Bewegung in die Silhouette. Ihre Eleganz entsteht durch Länge, Ruhe und klare Proportionen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [D'Orsay-Pumps](/glossar/dorsay-pumps/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Flared Pants** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

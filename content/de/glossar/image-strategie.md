@@ -47,7 +47,7 @@ Eine **Image-Strategie** beschreibt, welche Wirkung eine Person gezielt aufbauen
 
 Nicht jede sichtbare Person braucht maximale Auffälligkeit. Aber jede profitiert von Klarheit.
 
-Eine Image-Strategie beantwortet Fragen wie: Soll der Auftritt eher kompetent, modern, nahbar, kreativ, elegant oder führungsstark wirken. Daraus ergeben sich konkrete Entscheidungen für Garderobe und Stilcodes.
+Eine Image-Strategie beantwortet Fragen wie: Soll der Auftritt eher kompetent, modern, nahbar, kreativ, elegant oder führungsstark wirken. Daraus ergeben sich konkrete Entscheidungen für [Brand Wardrobe](/glossar/brand-wardrobe/), Garderobe und Stilcodes.
 
 ## Warum der Begriff wichtig ist
 

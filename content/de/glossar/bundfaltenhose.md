@@ -44,7 +44,7 @@ Eine **Bundfaltenhose** hat eine oder mehrere Falten, die vom Bund aus nach unte
 
 ## Einfach erklärt
 
-Bundfaltenhosen wirken oft gepflegter als Jeans oder Chinos, aber weniger streng als klassische Anzughosen, wenn sie weich gestylt werden. Sie können gerade, weit oder zum Saum hin schmaler geschnitten sein.
+Bundfaltenhosen wirken oft gepflegter als Jeans oder [Chinos](/glossar/chinos/), aber weniger streng als klassische Anzughosen, wenn sie weich gestylt werden. Sie können gerade, weit oder zum Saum hin schmaler geschnitten sein.
 Die Falten sind kein rein dekoratives Detail. Sie schaffen Raum für Bewegung und verändern die Silhouette.
 
 ## Warum dieser Begriff wichtig ist

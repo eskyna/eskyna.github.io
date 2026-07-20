@@ -52,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Crop Top, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn der Look markant wirken soll, unterstützen Accessoires in [Bronze](/glossar/bronze/) den Gesamteindruck.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Crop Top im Outfit übernimmt.

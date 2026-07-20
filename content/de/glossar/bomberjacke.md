@@ -41,7 +41,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Bomberjacke** ist eine kurze Jacke mit elastischen Bündchen an Saum und Ärmeln. Sie hat meist eine runde, leicht voluminöse Form und wirkt sportlich bis urban.
+Eine **Bomberjacke** ist eine kurze Jacke mit elastischen Bündchen an Saum und Ärmeln. Sie hat meist eine runde, leicht voluminöse Form und wirkt [sportlich](/glossar/sportlich/) bis urban.
 
 ## Einfach erklärt
 

@@ -3,7 +3,7 @@ title: Was bedeutet Empire-Kleid?
 term: Empire-Kleid
 description: Ein Empire-Kleid hat eine hohe Taillennaht direkt unter der Brust und fällt darunter
   weich nach unten.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - empire kleid
   - garderobe
@@ -85,6 +85,8 @@ Wenn du den Begriff **Empire-Kleid** auf ein Outfit überträgst, prüfe nicht n
 In der Beratung ist **Empire-Kleid** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Dichte](/glossar/dichte/).
 
 ## Verwandte Begriffe
 

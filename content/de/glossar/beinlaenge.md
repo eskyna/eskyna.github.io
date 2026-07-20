@@ -5,6 +5,7 @@ description:
   Beinlänge beschreibt die sichtbare Länge der Beine im Verhältnis zum Oberkörper und wird
   stark durch Bundhöhe, Saum und Schuh beeinflusst.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - beinlänge
   - proportion
@@ -42,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Beinlänge** meint im Styling die sichtbare Länge der Beine im Verhältnis zum restlichen Körper. Sie wird stark durch Bundhöhe, Säume und Schuhform beeinflusst.
+**Beinlänge** meint im Styling die sichtbare Länge der Beine im Verhältnis zum restlichen Körper. Sie wird stark durch Bundhöhe, Säume, [Innenbeinlänge](/glossar/innenbeinlaenge/) und Schuhform beeinflusst.
 
 ## Einfach erklärt
 

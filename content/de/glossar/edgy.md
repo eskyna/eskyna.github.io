@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Edgy**: Edgy beschreibt einen kantigeren Stil mit markanten Formen, Kontrasten, Leder, Schwarz oder ungewöhnlichen Details.
+**Edgy**: Edgy beschreibt einen kantigeren Stil mit markanten Formen, Kontrasten, Leder, Schwarz oder ungewöhnlichen Details. In extremerer Form nähert sich der Look der [Avantgarde](/glossar/avantgarde/).
 
 ## Einfach erklärt
 

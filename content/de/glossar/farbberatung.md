@@ -72,7 +72,7 @@ consulting_focus:
 
 ## Einfach erklärt
 
-Ein gutes Farbergebnis ist keine Liste verbotener Farben. Es ist eine Entscheidungshilfe für Kleidung, Schmuck, Make-up, Brille, Haare und Accessoires. Du erkennst zum Beispiel, ob Creme besser funktioniert als Reinweiß, ob Petrol stimmiger ist als Kobaltblau oder ob ein weiches Rot mehr für dich tut als ein lautes Signalrot.
+Ein gutes Farbergebnis ist keine Liste verbotener Farben. Es ist eine Entscheidungshilfe für Kleidung, Schmuck, Make-up, Brille, Haare und Accessoires. Du erkennst zum Beispiel, ob Creme besser funktioniert als Reinweiß, ob Petrol stimmiger ist als Kobaltblau oder ob ein weiches Rot mehr für dich tut als ein lautes Signalrot. Daraus wird oft erst ein klarer [Farbtyp](/glossar/farbtyp/) im Alltag verständlich.
 
 ## Warum Farbberatung wichtig ist
 

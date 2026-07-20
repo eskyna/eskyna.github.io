@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Tie-Dye**: Tie-Dye ist eine modische Batikvariante mit sichtbaren Farbverläufen und entspanntem Charakter.
+**Tie-Dye**: Tie-Dye ist eine modische [Batik](/glossar/batik/)variante mit sichtbaren Farbverläufen und entspanntem Charakter.
 
 ## Einfach erklärt
 

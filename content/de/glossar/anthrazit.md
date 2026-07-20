@@ -58,7 +58,7 @@ Anthrazit wirkt ruhig, seriös und strukturiert. Die Farbe eignet sich besonders
 
 ## Material und Schnitt
 
-In glatter Wolle wirkt Anthrazit formell und hochwertig. In Strick wird es weicher. In Denim wirkt es urban. In Leder bekommt es eine moderne, etwas kantige Note.
+In glatter Wolle wirkt Anthrazit formell und hochwertig. In Strick wird es weicher. In Denim wirkt es [urban](/glossar/urban/). In Leder bekommt es eine moderne, etwas kantige Note.
 
 ## Anthrazit kombinieren
 

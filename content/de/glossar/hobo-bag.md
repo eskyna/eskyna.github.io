@@ -50,7 +50,7 @@ Eine **Hobo Bag** ist eine weiche Schultertasche mit halbmondartiger oder rundli
 
 Hobo Bags leben vom Materialfall. Weiches Leder oder Veloursleder bringt die Form besonders schön zur Geltung. Die Tasche wirkt entspannt, aber nicht automatisch unordentlich.
 
-Sie passt gut zu Denim, Strick, Kleidern und weicheren Silhouetten. In sehr klaren Business-Looks kann sie bewusst einen weicheren Gegenpol setzen.
+Sie passt gut zu Denim, Strick, Kleidern und weicheren Silhouetten. Im Unterschied zu einer kleineren [Bucket Bag](/glossar/bucket-bag/) wirkt sie oft noch weicher und lässiger. In sehr klaren Business-Looks kann sie bewusst einen weicheren Gegenpol setzen.
 
 ## Warum dieser Begriff wichtig ist
 

@@ -4,6 +4,7 @@ term: Layering
 description: Layering bedeutet, mehrere Kleidungsschichten bewusst zu kombinieren, damit ein Look
   Tiefe, Funktion und klare Proportion bekommt.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - layering
   - schichten
@@ -57,6 +58,8 @@ Ein einfaches Layering kann aus Shirt, Hemdbluse und Blazer bestehen. Im Winter 
 Gutes Layering arbeitet mit Längen. Ein längeres Hemd unter einem kürzeren Pullover, ein Mantel über einer geraden Hose oder ein feiner Rollkragen unter einem Blazer können dem Outfit Tiefe geben. Auch Materialien spielen eine Rolle: glatt zu strukturiert, matt zu leicht glänzend, weich zu klar.
 
 ## Warum Layering wichtig ist
+
+Bei figurbetonten Silhouetten wie dem [Bodycon Dress](/glossar/bodycon-dress/) entscheidet Layering oft darüber, ob ein Look alltagstauglich oder sehr eventbezogen wirkt.
 
 Layering macht eine Garderobe flexibler. Einzelne Teile können in mehreren Jahreszeiten getragen werden. Gleichzeitig entsteht mehr stilistische Tiefe, ohne dass der Look laut werden muss.
 

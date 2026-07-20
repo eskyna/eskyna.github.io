@@ -72,7 +72,7 @@ consulting_focus:
 
 ## Einfach erklärt
 
-Stilberatung beantwortet Fragen wie: Was steht mir wirklich? Warum wirkt ein Outfit angezogen, aber nicht nach mir? Welche Schnitte funktionieren immer wieder? Welche Teile fehlen, damit vorhandene Kleidung mehr kann? Der Fokus liegt nicht auf Trends, sondern auf Entscheidungen, die du wiederholen kannst.
+Stilberatung beantwortet Fragen wie: Was steht mir wirklich? Warum wirkt ein Outfit angezogen, aber nicht nach mir? Welche Schnitte funktionieren immer wieder? Welche Teile fehlen, damit vorhandene Kleidung mehr kann? Der Fokus liegt nicht auf Trends, sondern auf Entscheidungen, die du wiederholen kannst. Wenn diese Erkenntnisse im Alltag wirklich genutzt werden, entsteht [Aktivierung](/glossar/aktivierung/).
 
 ## Warum Stilberatung wichtig ist
 

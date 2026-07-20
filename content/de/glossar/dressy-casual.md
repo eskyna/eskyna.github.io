@@ -2,7 +2,7 @@
 title: Was bedeutet Dressy Casual?
 term: Dressy Casual
 description: Dressy Casual verbindet entspannte Kleidung mit gepflegten, eleganteren Elementen.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - dressy casual
   - dresscode
@@ -45,6 +45,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Der Stil lebt von Balance. Er soll locker wirken, aber nicht beliebig. Deshalb braucht er mindestens ein Element, das dem Look sichtbare Struktur gibt.
+Wenn der Anlass etwas festlicher wird, ist der Übergang zu [Cocktail](/glossar/cocktail/) oft fließend und lässt sich über Material und Schuhe steuern.
 
 ## Warum der Begriff wichtig ist
 

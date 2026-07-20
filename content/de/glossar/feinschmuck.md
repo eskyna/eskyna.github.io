@@ -4,6 +4,7 @@ term: Feinschmuck
 description: Feinschmuck beschreibt zurückhaltenden, oft hochwertigen Schmuck, der leise wirkt und
   einen Look präzise verfeinert.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - feinschmuck
   - schmuck
@@ -44,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Feinschmuck** beschreibt filigranen, oft hochwertigen Schmuck aus Edelmetallen oder feinen Materialien. Er wirkt zurückhaltender als Statement-Schmuck und verfeinert den Look leise.
+**Feinschmuck** beschreibt filigranen, oft hochwertigen Schmuck aus Edelmetallen oder feinen Materialien. Er wirkt zurückhaltender als [Statement-Schmuck](/glossar/statement-schmuck/) und verfeinert den Look leise.
 
 ## Einfach erklärt
 

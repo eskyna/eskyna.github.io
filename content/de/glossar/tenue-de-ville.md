@@ -3,7 +3,7 @@ title: Was bedeutet Tenue de Ville?
 term: Tenue de Ville
 description: Tenue de Ville ist ein klassischer Tagesdresscode für gepflegte, elegante Kleidung bei
   formellen Anlässen am Tag.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - tenue de ville
   - dresscode
@@ -74,6 +74,8 @@ Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kate
 Frag dich bei **Tenue de Ville**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
 
 Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Tenue de Ville** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Japanische Sneaker](/glossar/japanische-sneaker/).
 
 ## Verwandte Begriffe
 

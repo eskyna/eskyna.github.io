@@ -4,6 +4,7 @@ term: O-Linie
 description: Die O-Linie beschreibt eine rundere, voluminösere Silhouette mit weicher, geschlossener
   Form.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - o linie
   - schnitt proportion
@@ -52,6 +53,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft O-Linie, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Für die Balance der runden Form ist die Abstimmung mit der [Oberkörperlänge](/glossar/oberkoerperlaenge/) oft entscheidend.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe O-Linie im Outfit übernimmt.
@@ -84,6 +87,8 @@ Wenn du den Begriff **O-Linie** auf ein Outfit überträgst, prüfe nicht nur da
 In der Beratung ist **O-Linie** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Als Gegenpol mit mehr Betonung im Oberkörper kannst du die [Dreieck-Silhouette](/glossar/dreieck-silhouette/) als Vergleich nutzen.
 
 ## Verwandte Begriffe
 

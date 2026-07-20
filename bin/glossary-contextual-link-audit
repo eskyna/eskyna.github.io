@@ -1,0 +1,219 @@
+#!/usr/bin/env node
+"use strict";
+
+const fs = require("fs");
+const path = require("path");
+const yaml = require("js-yaml");
+
+const rootDir = process.cwd();
+const glossaryDir = path.join(rootDir, "content", "de", "glossar");
+const outputDir = path.join(rootDir, "artifact-local", "glossary-export");
+const outputPath = path.join(outputDir, "contextual-link-audit.json");
+
+const OUTGOING_MIN = 4;
+const OUTGOING_MAX = 8;
+const INCOMING_MIN = 2;
+
+function walk(dir) {
+  if (!fs.existsSync(dir)) return [];
+
+  const files = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const entryPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...walk(entryPath));
+      continue;
+    }
+    if (entry.isFile() && entry.name.endsWith(".md")) files.push(entryPath);
+  }
+
+  return files;
+}
+
+function parseFrontmatter(text, filePath) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (!match) return { fm: {}, body: text };
+
+  try {
+    return {
+      fm: yaml.load(match[1]) || {},
+      body: match[2],
+    };
+  } catch (error) {
+    throw new Error(`Failed to parse YAML in ${filePath}: ${error.message}`);
+  }
+}
+
+function shouldSkip(filePath, fm) {
+  return (
+    path.basename(filePath) === "_index.md" ||
+    fm.is_glossar_category ||
+    fm.is_glossar_index_helper ||
+    !String(fm.term || fm.title || "").trim()
+  );
+}
+
+function normalizeGlossarySlug(href) {
+  const value = String(href || "").trim();
+  if (!value) return "";
+
+  let pathname = value;
+  if (/^https?:\/\//i.test(value)) {
+    try {
+      pathname = new URL(value).pathname;
+    } catch {
+      return "";
+    }
+  }
+
+  pathname = pathname.split("#")[0].split("?")[0].trim();
+  if (!pathname.startsWith("/glossar/")) return "";
+  if (pathname.startsWith("/glossar/kategorie/")) return "";
+
+  const slug = pathname.replace(/^\/glossar\//, "").replace(/^\/+|\/+$/g, "");
+  return slug;
+}
+
+function extractRelatedSlugs(fm) {
+  if (!Array.isArray(fm.relatedTerms)) return [];
+
+  const slugs = [];
+  for (const item of fm.relatedTerms) {
+    if (!item || typeof item !== "object") continue;
+    const slug = normalizeGlossarySlug(item.url);
+    if (slug) slugs.push(slug);
+  }
+
+  return [...new Set(slugs)].sort((a, b) => a.localeCompare(b, "de"));
+}
+
+function extractContextualSlugs(body, knownSlugs) {
+  const results = new Set();
+  const lines = body.split("\n");
+  const headingPattern = /^##\s+(.+)$/;
+  const linkPattern = /\[([^\]]+)\]\(([^)]+)\)/g;
+  let currentSection = "";
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    const headingMatch = line.match(headingPattern);
+    if (headingMatch) {
+      currentSection = headingMatch[1].trim().toLowerCase();
+      continue;
+    }
+
+    if (!line) continue;
+    if (currentSection === "verwandte begriffe") continue;
+    if (/^[-*]\s/.test(line)) continue;
+
+    let match = null;
+    while ((match = linkPattern.exec(rawLine)) !== null) {
+      const slug = normalizeGlossarySlug(match[2]);
+      if (!slug || !knownSlugs.has(slug)) continue;
+      results.add(slug);
+    }
+  }
+
+  return [...results].sort((a, b) => a.localeCompare(b, "de"));
+}
+
+function main() {
+  const files = walk(glossaryDir);
+  const pages = [];
+
+  for (const filePath of files) {
+    const text = fs.readFileSync(filePath, "utf8");
+    const { fm, body } = parseFrontmatter(text, filePath);
+    if (shouldSkip(filePath, fm)) continue;
+
+    const slug = String(fm.slug || path.basename(filePath, ".md")).trim();
+    const term = String(fm.term || fm.title || slug).trim();
+    pages.push({
+      file: path.relative(rootDir, filePath).replace(/\\/g, "/"),
+      slug,
+      term,
+      body,
+      fm,
+    });
+  }
+
+  const knownSlugs = new Set(pages.map((page) => page.slug));
+  const incomingContextual = new Map();
+  for (const slug of knownSlugs) incomingContextual.set(slug, new Set());
+
+  const rows = pages.map((page) => {
+    const contextualOutgoing = extractContextualSlugs(page.body, knownSlugs).filter(
+      (slug) => slug !== page.slug
+    );
+    const relatedOutgoing = extractRelatedSlugs(page.fm).filter(
+      (slug) => knownSlugs.has(slug) && slug !== page.slug
+    );
+    const totalOutgoing = new Set([...contextualOutgoing, ...relatedOutgoing]);
+
+    for (const target of contextualOutgoing) {
+      incomingContextual.get(target).add(page.slug);
+    }
+
+    return {
+      file: page.file,
+      slug: page.slug,
+      term: page.term,
+      contextual_outgoing: contextualOutgoing,
+      related_outgoing: relatedOutgoing,
+      total_outgoing: [...totalOutgoing].sort((a, b) => a.localeCompare(b, "de")),
+    };
+  });
+
+  const enriched = rows
+    .map((row) => ({
+      ...row,
+      incoming_contextual: [...(incomingContextual.get(row.slug) || new Set())].sort((a, b) =>
+        a.localeCompare(b, "de")
+      ),
+    }))
+    .map((row) => ({
+      ...row,
+      contextual_outgoing_count: row.contextual_outgoing.length,
+      related_outgoing_count: row.related_outgoing.length,
+      total_outgoing_count: row.total_outgoing.length,
+      incoming_contextual_count: row.incoming_contextual.length,
+    }));
+
+  const belowOutgoingMin = enriched.filter((row) => row.total_outgoing_count < OUTGOING_MIN);
+  const aboveOutgoingMax = enriched.filter((row) => row.total_outgoing_count > OUTGOING_MAX);
+  const belowIncomingMin = enriched.filter((row) => row.incoming_contextual_count < INCOMING_MIN);
+  const missingContextualOutgoing = enriched.filter((row) => row.contextual_outgoing_count === 0);
+
+  const report = {
+    generated_at: new Date().toISOString(),
+    thresholds: {
+      outgoing_min: OUTGOING_MIN,
+      outgoing_max: OUTGOING_MAX,
+      incoming_contextual_min: INCOMING_MIN,
+    },
+    summary: {
+      total_pages: enriched.length,
+      below_outgoing_min: belowOutgoingMin.length,
+      above_outgoing_max: aboveOutgoingMax.length,
+      below_incoming_contextual_min: belowIncomingMin.length,
+      missing_contextual_outgoing: missingContextualOutgoing.length,
+    },
+    pages_below_outgoing_min: belowOutgoingMin,
+    pages_above_outgoing_max: aboveOutgoingMax,
+    pages_below_incoming_contextual_min: belowIncomingMin,
+    pages_missing_contextual_outgoing: missingContextualOutgoing,
+    sample_pages: enriched.slice(0, 20),
+  };
+
+  fs.mkdirSync(outputDir, { recursive: true });
+  fs.writeFileSync(outputPath, `${JSON.stringify(report, null, 2)}\n`);
+
+  console.log(`Wrote contextual link audit to ${path.relative(rootDir, outputPath)}`);
+  console.log(`Total pages: ${report.summary.total_pages}`);
+  console.log(`Below outgoing min: ${report.summary.below_outgoing_min}`);
+  console.log(`Above outgoing max: ${report.summary.above_outgoing_max}`);
+  console.log(`Below incoming contextual min: ${report.summary.below_incoming_contextual_min}`);
+  console.log(`Missing contextual outgoing: ${report.summary.missing_contextual_outgoing}`);
+}
+
+main();

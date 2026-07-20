@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Cord**: Cord ist ein Stoff mit längs verlaufender Rippenstruktur und einer warmen, texturierten Wirkung.
+**Cord**: Cord ist ein Stoff mit längs verlaufender Rippenstruktur und einer warmen, texturierten Wirkung. In cleanen Looks wird er oft mit einem [Sweatshirt](/glossar/sweatshirt/) oder Strick kombiniert.
 
 ## Einfach erklärt
 

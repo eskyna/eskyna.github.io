@@ -86,6 +86,8 @@ In der Beratung ist **Cabanjacke** kein starres Etikett. Der Begriff wird erst h
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Buttergelb und Vanillegelb](/glossar/buttergelb-und-vanillegelb/).
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

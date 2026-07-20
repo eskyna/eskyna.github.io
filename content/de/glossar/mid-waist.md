@@ -3,6 +3,7 @@ title: Was bedeutet Mid Waist?
 term: Mid Waist
 description: Mid Waist beschreibt einen mittelhohen Bund, der zwischen Hüfte und Taille sitzt.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - mid waist
   - schnitt proportion
@@ -83,6 +84,8 @@ Wenn du den Begriff **Mid Waist** auf ein Outfit überträgst, prüfe nicht nur 
 In der Beratung ist **Mid Waist** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Wenn du den Taillenpunkt mit weitem Bein kombinieren möchtest, liefert [Marlenehose](/glossar/marlenehose/) eine gute Orientierung.
 
 ## Verwandte Begriffe
 

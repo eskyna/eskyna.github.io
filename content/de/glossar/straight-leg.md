@@ -4,6 +4,7 @@ term: Straight Leg
 description: Straight Leg beschreibt eine gerade Hosenform, die vom Oberschenkel bis zum Saum ruhig
   und gleichmäßig fällt.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - straight leg
   - hose
@@ -75,6 +76,8 @@ Für ESKYNA ist Straight Leg eine gute Ausgangsform, wenn eine Garderobe ruhiger
 ## ESKYNA-Merksatz
 
 Straight Leg ist die ruhige Linie im Outfit. Gerade genug für Klarheit, entspannt genug für Alltag.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Horizontale Linie](/glossar/horizontale-linie/).
 
 ## Praxischeck
 

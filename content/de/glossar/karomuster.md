@@ -52,6 +52,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Karomuster, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Für einen ruhigeren Gegenspieler zu Karomustern eignet sich [Chambray](/glossar/chambray/) als strukturierter, aber zurückhaltender Stoff.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Karomuster im Outfit übernimmt.

@@ -63,19 +63,19 @@ offer_bridge:
 
 ## Definition
 
-**Wirkung**: Wirkung beschreibt den Eindruck, den Kleidung, Farben, Formen und Auftreten im Zusammenspiel erzeugen.
+**Wirkung**: Wirkung beschreibt den Eindruck, den Kleidung, Farben, Formen und Auftreten im Zusammenspiel erzeugen. Sie ist damit enger mit [Personal Style](/glossar/personal-style/) verbunden, als es der reine Geschmack vermuten lässt.
 
 ## Einfach erklärt
 
-Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen.
+Der Begriff hilft, Stil nicht nur als Geschmack zu sehen, sondern als bewusste Sprache. Er macht sichtbar, warum manche Kombinationen ruhig und stimmig wirken, während andere zufällig erscheinen. Gute Wirkung folgt meist einer klaren [Garderobenlogik](/glossar/garderobenlogik/) statt bloßer Einzelteile.
 
-Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln.
+Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wirkung besser versteht, trifft klarere Entscheidungen und braucht weniger äußere Regeln. Das gilt auch dann, wenn ein [androgyner Stil](/glossar/androgyner-stil/) bewusst weder streng maskulin noch klassisch romantisch gelesen werden soll.
 
 ## Warum Wirkung wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
-Gerade im Alltag hilft Wirkung, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Gerade im Alltag hilft Wirkung, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt. Über Zeit verdichtet sich das zu einem wiedererkennbaren [Signature Look](/glossar/signature-look/).
 
 ## Worauf du achten solltest
 
@@ -83,6 +83,8 @@ Gerade im Alltag hilft Wirkung, schneller zu erkennen, ob ein Teil nur interessa
 - Achte auf Material, Farbe und Proportion.
 - Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
 - Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+
+Hilfreich ist außerdem, die eigene [Stilbotschaft](/glossar/stilbotschaft/) klar zu benennen, statt nur einzelne Teile zu bewerten.
 
 ## Typische Missverständnisse
 
@@ -114,11 +116,11 @@ Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategori
 
 ## Beratungssituation im echten Leben
 
-Bei **Wirkung** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was ist einen Kauf wert und was lässt du bewusst weg? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
+Beim Thema **Wirkung** wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt, was wird anders kombiniert, was einen Kauf wert ist und was du bewusst weglässt? Häufig zeigt sich, dass nicht ein einzelnes Kleidungsstück das Problem ist, sondern die fehlende Logik dahinter.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Typisch ist eine Kundin oder ein Kunde, der **Wirkung** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. Dadurch wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
+Typisch ist eine Person, die **Wirkung** grundsätzlich versteht, aber vor dem Spiegel keinen sicheren Filter hat. Wir prüfen vorhandene Teile, vergleichen Alternativen und übersetzen den Begriff in zwei bis drei klare Regeln für Alltag, Beruf und besondere Anlässe. So wird aus Unsicherheit eine Entscheidung, die du wiederholen kannst.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -129,7 +131,7 @@ Typisch ist eine Kundin oder ein Kunde, der **Wirkung** grundsätzlich versteht,
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Wirkung** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Der passende nächste Schritt ist [ESKYNA Präsenz ansehen](/praesenz/), wenn du daraus eine klare Stilentscheidung machen möchtest.
+Unterstützung ist sinnvoll, wenn du die Theorie kennst, aber im Laden, vor dem Spiegel oder beim Aussortieren zögerst. Dann hilft ein neutraler Blick, weil **Wirkung** nicht isoliert betrachtet wird, sondern zusammen mit Körper, Rollen, Alltag, Budget und persönlicher Präsenz. Wenn du daraus eine klare Stilentscheidung machen möchtest, ist [ESKYNA Präsenz ansehen](/praesenz/) der passende nächste Schritt.
 
 <!-- commercial-depth-end -->
 

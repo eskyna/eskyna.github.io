@@ -47,11 +47,11 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Navy
 
-Navy ist ein sehr dunkles Blau. Es wirkt ruhig, souverän und professionell, aber meist weicher als Schwarz. Genau deshalb ist Navy eine starke Basisfarbe für Garderoben, die klar und elegant wirken sollen, ohne streng zu werden.
+Navy ist ein sehr dunkles Blau. Es wirkt ruhig, souverän und professionell, aber meist weicher als [Schwarz](/glossar/schwarz/). Genau deshalb ist Navy eine starke Basisfarbe für Garderoben, die klar und elegant wirken sollen, ohne streng zu werden.
 
 ## Wie Navy wirkt
 
-Navy gibt einem Outfit Struktur. Die Farbe rahmt ähnlich wie Schwarz, wirkt aber weniger hart und oft zugänglicher. Ein navyfarbener Blazer wirkt seriös. Eine dunkelblaue Hose wirkt gepflegt. Ein Mantel in Navy bleibt klassisch, ohne sehr formell zu erscheinen.
+Navy gibt einem Outfit Struktur. Die Farbe rahmt ähnlich wie [Schwarz](/glossar/schwarz/), wirkt aber weniger hart und oft zugänglicher. Ein navyfarbener Blazer wirkt seriös. Eine dunkelblaue Hose wirkt gepflegt. Ein Mantel in Navy bleibt klassisch, ohne sehr formell zu erscheinen.
 
 Die Wirkung verändert sich durch Material und Schnitt. Navy in glatter Wolle wirkt businessnah. Navy in Baumwolle wirkt frischer. Navy in Denim wird alltagstauglich. Navy in Seide oder Satin bekommt Tiefe und einen feinen Glanz.
 
@@ -64,9 +64,9 @@ Die Wirkung verändert sich durch Material und Schnitt. Navy in glatter Wolle wi
 
 ## Navy kombinieren
 
-- **Navy + Weiß:** Frisch, klassisch und professionell
+- **Navy + [Weiß](/glossar/weiss/):** Frisch, klassisch und professionell
 - **Navy + Creme:** Weicher und eleganter als Navy mit Reinweiß
-- **Navy + Camel:** Hochwertig, warm und erwachsen
+- **Navy + [Grau](/glossar/grau/):** Hochwertig, ruhig und erwachsen
 - **Navy + Rosa:** Zugänglich, modern und fein
 - **Navy + Denim:** Tonal, entspannt und alltagstauglich
 

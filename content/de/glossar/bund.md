@@ -4,6 +4,7 @@ term: Bund
 description: Der Bund ist der obere Abschluss von Hose oder Rock und beeinflusst Sitz, Taille und
   Proportion.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - bund
   - schnitt proportion
@@ -84,6 +85,8 @@ Wenn du den Begriff **Bund** auf ein Outfit überträgst, prüfe nicht nur das e
 In der Beratung ist **Bund** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Bühnenoutfit](/glossar/buehnenoutfit/).
 
 ## Verwandte Begriffe
 

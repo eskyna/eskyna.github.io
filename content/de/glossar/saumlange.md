@@ -4,6 +4,7 @@ term: Saumlänge
 description: Saumlänge beschreibt, wo ein Kleidungsstück endet und wie stark diese Linie Proportion,
   Schuhwahl und Wirkung beeinflusst.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - saumlänge
   - rocklänge
@@ -42,11 +43,11 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Saumlänge** beschreibt, wo ein Kleidungsstück endet: bei Hosen, Röcken, Kleidern, Mänteln, Ärmeln oder Oberteilen. Diese Linie beeinflusst Proportion, Bewegung und die Wirkung des gesamten Looks.
+**Saumlänge** beschreibt, wo ein Kleidungsstück endet: bei Hosen, Röcken, Kleidern, Mänteln, Ärmeln oder Oberteilen. Diese Linie beeinflusst Proportion, Bewegung und die Wirkung des gesamten Looks. Für Oberteile und Jacken ist sie eng mit der [Ärmellänge](/glossar/aermellaenge/) verzahnt.
 
 ## Einfach erklärt
 
-Ein Saum ist der Abschluss eines Kleidungsstücks. Bei einer Hose kann er über dem Knöchel, auf dem Schuh oder bodennah enden. Bei einem Rock kann er oberhalb des Knies, auf der Wade oder am Knöchel sitzen. Bei einem Blazer entscheidet die Länge darüber, ob die Silhouette kurz, ausgewogen oder langgezogen wirkt.
+Ein Saum ist der Abschluss eines Kleidungsstücks. Bei einer Hose kann er über dem Knöchel, auf dem Schuh oder bodennah enden. Bei einem [A-Linien-Rock](/glossar/a-linien-rock/) kann er oberhalb des Knies, auf der Wade oder am Knöchel sitzen. Bei einem [A-Linien-Kleid](/glossar/a-linien-kleid/) oder einem Blazer entscheidet die Länge darüber, ob die [Silhouette](/glossar/silhouette/) kurz, ausgewogen oder langgezogen wirkt.
 
 Saumlängen sind kleine Details mit großer Wirkung. Ein paar Zentimeter können entscheiden, ob ein Look streckt, staucht, leichter wirkt oder schwerer wird. Auch Schuhe verändern die Wirkung: Eine Cropped Hose braucht andere Schuhlinien als eine lange Wide Leg Hose.
 

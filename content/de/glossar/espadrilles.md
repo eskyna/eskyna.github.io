@@ -44,6 +44,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Espadrilles wirken sommerlich und unkompliziert. Flache Modelle sind lässig. Varianten mit Keilabsatz können femininer und angezogener wirken.
+Zusammen mit Leinen und soften Neutrals unterstützen sie oft den entspannten Rahmen von [Coastal Grandmother](/glossar/coastal-grandmother/).
 
 Sie passen gut zu Leinenhosen, Kleidern, Röcken und sommerlichen Chinos. Im Business wirken sie nur dann passend, wenn der Rahmen sehr entspannt ist.
 

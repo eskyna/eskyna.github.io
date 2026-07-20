@@ -4,7 +4,7 @@ term: Black Tie
 description:
   Black Tie ist ein sehr formeller Abenddresscode mit klaren Erwartungen an Eleganz, Material
   und Zurückhaltung.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - black tie
   - garderobe
@@ -53,6 +53,7 @@ Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Black Tie, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Eine abgestimmte [Garderobenstrategie](/glossar/garderobenstrategie/) sorgt dafür, dass formelle Einladungen ohne Last-Minute-Käufe lösbar bleiben.
 
 ## Worauf du achten solltest
 

@@ -5,6 +5,7 @@ description:
   Relaxed Fit bezeichnet einen lockereren Schnitt mit mehr Bewegungsfreiheit und entspannter
   Wirkung.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - relaxed fit
   - schnitt proportion
@@ -85,6 +86,8 @@ Wenn du den Begriff **Relaxed Fit** auf ein Outfit überträgst, prüfe nicht nu
 In der Beratung ist **Relaxed Fit** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Für weite, fließende Linien mit klarem Fall lohnt sich der Vergleich mit [Marlenehose](/glossar/marlenehose/).
 
 ## Verwandte Begriffe
 

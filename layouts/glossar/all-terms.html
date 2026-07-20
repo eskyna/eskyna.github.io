@@ -61,14 +61,15 @@ document.addEventListener('DOMContentLoaded', function () {
   const input = document.getElementById('all-terms-search');
   const noResults = document.getElementById('all-terms-no-results');
   const items = Array.from(document.querySelectorAll('[data-term-item]'));
+  const visibleCount = document.getElementById('all-terms-visible-count');
+  const visibleLabel = document.getElementById('all-terms-visible-label');
 
   if (!input) return;
 
-  input.addEventListener('input', function () {
+  function updateAllTermsView() {
     const q = input.value.toLowerCase().trim();
+    const hasActiveQuery = q.length > 0;
     let visible = 0;
-    const visibleCount = document.getElementById('all-terms-visible-count');
-    const visibleLabel = document.getElementById('all-terms-visible-label');
 
     items.forEach(function (item) {
       const title = item.querySelector('[data-term-title]')?.textContent.toLowerCase() || '';
@@ -79,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     if (noResults) {
-      noResults.hidden = visible !== 0;
+      noResults.hidden = !(hasActiveQuery && visible === 0);
     }
     if (visibleCount) {
       visibleCount.textContent = String(visible);
@@ -87,7 +88,10 @@ document.addEventListener('DOMContentLoaded', function () {
     if (visibleLabel) {
       visibleLabel.textContent = String(visible);
     }
-  });
+  }
+
+  input.addEventListener('input', updateAllTermsView);
+  updateAllTermsView();
 });
 </script>
 {{ end }}

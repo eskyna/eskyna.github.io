@@ -5,6 +5,15 @@ description: "Der Carmen-Ausschnitt verläuft weit und meist horizontal über od
 category: "Garderobe & Alltag"
 image: images/glossar/carmen-ausschnitt.png
 image_alt: "Glossar-Illustration zu Carmen-Ausschnitt"
+relatedTerms:
+  - title: Schulterlinie
+    url: /glossar/schulterlinie/
+  - title: U-Boot-Ausschnitt
+    url: /glossar/u-boot-ausschnitt/
+  - title: Ohrringe
+    url: /glossar/ohrringe/
+  - title: Kette
+    url: /glossar/kette/
 keywords:
   - "carmen ausschnitt"
   - "was ist carmen-ausschnitt"
@@ -14,17 +23,17 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Er kann elastisch, gerafft, gerüscht oder klar konstruiert sein und zeigt Schlüsselbein sowie Schulterpartie. International wird häufig von Off-Shoulder gesprochen.
+Er kann elastisch, gerafft, gerüscht oder klar konstruiert sein und zeigt Schlüsselbein sowie [Schulterpartie](/glossar/schulterlinie/). International wird häufig von Off-Shoulder gesprochen.
 
 ## Einfach erklärt
 
-Die breite horizontale Linie öffnet den Oberkörper und kann die Schulterpartie optisch verbreitern. Weiche Rüschen wirken romantischer, glatte Varianten moderner. Bei elastischen Modellen entscheidet die Spannung darüber, ob der Ausschnitt stabil bleibt oder bei jeder Armbewegung hochrutscht.
+Die breite horizontale Linie öffnet den Oberkörper und kann die Schulterpartie optisch verbreitern. Weiche Rüschen wirken romantischer, glatte Varianten moderner. Bei elastischen Modellen entscheidet die Spannung darüber, ob der Ausschnitt stabil bleibt oder bei jeder Armbewegung hochrutscht. Gegenüber einem [U-Boot-Ausschnitt](/glossar/u-boot-ausschnitt/) liegt der Fokus stärker auf freier Haut als auf einer geschlossenen Linie. Deshalb sollte die gewünschte [Ausschnittwirkung](/glossar/ausschnittwirkung/) vor dem Kauf klar sein.
 
 ## Worauf du achten solltest
 
 - Hebe die Arme und prüfe, ob der Ausschnitt an seiner Position bleibt.
 - Achte auf ausreichenden Halt, ohne dass das Gummi einschneidet.
-- Stimme Kette, Ohrringe und Frisur auf die bereits stark betonte Halslinie ab.
+- Stimme [Kette](/glossar/kette/), [Ohrringe](/glossar/ohrringe/) und Frisur auf die bereits stark betonte Halslinie ab.
 
 ## Typisches Missverständnis
 

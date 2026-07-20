@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Stoffhose** ist ein Sammelbegriff für Hosen aus gewebten Materialien. Gemeint sind meist Hosen, die nicht aus Denim und nicht wie Leggings gearbeitet sind. Dazu gehören Chinos, Anzughosen, Bundfaltenhosen oder weite fließende Hosen.
+**Stoffhose** ist ein Sammelbegriff für Hosen aus gewebten Materialien. Gemeint sind meist Hosen, die nicht aus Denim und nicht wie Leggings gearbeitet sind. Dazu gehören Chinos, [Anzughosen](/glossar/anzughose/), [Bundfaltenhosen](/glossar/bundfaltenhose/) oder weite fließende Hosen.
 
 ## Einfach erklärt
 

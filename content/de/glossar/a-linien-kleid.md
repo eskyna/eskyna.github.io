@@ -3,7 +3,7 @@ title: A-Linien-Kleid
 term: A-Linien-Kleid
 description: Ein A-Linien-Kleid ist oben schmaler und wird zum Saum hin weiter, wodurch eine ruhige,
   feminine Form entsteht.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - a linien kleid
   - garderobe
@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind die [A-Linie](/glossar/a-linie/), Material, [Saumlänge](/glossar/saumlange/) und die Frage, wie das Teil mit der [Silhouette](/glossar/silhouette/) zusammenarbeitet.
 
 Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
 

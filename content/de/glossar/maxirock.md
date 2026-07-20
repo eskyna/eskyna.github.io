@@ -55,7 +55,7 @@ Maxiröcke sind wertvoll, wenn ein Look Bewegung und Länge bekommen soll. Sie k
 
 - Achte darauf, dass der Rock beim Gehen nicht stört.
 - Kombiniere viel Länge mit einem klaren Oberteil.
-- Prüfe, ob der Bund an der richtigen Stelle sitzt.
+- Prüfe, ob der [Bund](/glossar/bund/) an der richtigen Stelle sitzt.
 - Wähle Schuhe, die unter dem Saum bewusst wirken.
 
 ## Typische Missverständnisse
@@ -69,6 +69,8 @@ Maxiröcke sind wertvoll, wenn ein Look Bewegung und Länge bekommen soll. Sie k
 ## ESKYNA-Merksatz
 
 Ein Maxirock bringt Länge in den Look. Damit sie elegant wirkt, braucht sie klare Proportionen.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Farbechtheit](/glossar/farbechtheit/).
 
 ## Praxischeck
 

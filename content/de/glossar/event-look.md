@@ -44,9 +44,9 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann.
+Ein [Dresscode](/glossar/dresscode/) ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung respektvoll, passend und zugleich persönlich wirken kann.
 
-Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt.
+Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt. Gerade bei einem [Abendkleid](/glossar/abendkleid/) oder einer klaren [Abendgarderobe](/glossar/abendgarderobe/) zeigt sich dieser Unterschied sofort.
 
 ## Warum Event-Look wichtig ist
 

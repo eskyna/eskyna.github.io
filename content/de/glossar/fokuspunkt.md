@@ -48,6 +48,8 @@ Für ESKYNA ist dieser Blick zentral. Stilberatung soll nicht einengen, sondern 
 
 ## Warum Fokuspunkt wichtig ist
 
+Ein [Bustier](/glossar/bustier/) setzt den Fokus klar auf Oberkörper und Schulterlinie, deshalb braucht der Rest des Looks oft mehr Ruhe.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Fokuspunkt, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

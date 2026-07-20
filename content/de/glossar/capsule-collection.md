@@ -5,6 +5,15 @@ description: "Eine Capsule Collection ist eine kleine, klar begrenzte Kollektion
 category: "Garderobe & Alltag"
 image: images/glossar/capsule-collection.png
 image_alt: "Glossar-Illustration zu Capsule Collection"
+relatedTerms:
+  - title: Capsule Wardrobe
+    url: /glossar/capsule-wardrobe/
+  - title: Garderobenlogik
+    url: /glossar/garderobenlogik/
+  - title: Fehlkauf
+    url: /glossar/fehlkauf/
+  - title: Kombinierbarkeit
+    url: /glossar/kombinierbarkeit/
 keywords:
   - "capsule collection"
   - "was ist capsule collection"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Sie kann saisonal, limitiert oder als Sonderprojekt erscheinen und umfasst deutlich weniger Teile als eine vollständige Hauptkollektion. Häufig steht ein bestimmtes Thema oder eine Zusammenarbeit im Mittelpunkt.
+Sie kann saisonal, limitiert oder als Sonderprojekt erscheinen und umfasst deutlich weniger Teile als eine vollständige Hauptkollektion. Häufig steht ein bestimmtes Thema oder eine Zusammenarbeit im Mittelpunkt. Für Käuferinnen und Käufer ist dabei die spätere [Kombinierbarkeit](/glossar/kombinierbarkeit/) oft wichtiger als die Limitierung selbst.
 
 ## Einfach erklärt
 
-Eine Capsule Collection ist ein Angebot einer Marke; eine Capsule Wardrobe ist dagegen ein persönliches Garderobenkonzept aus vielseitig kombinierbaren Teilen. Eine Marken-Capsule muss weder minimalistisch noch untereinander vollständig kombinierbar sein, auch wenn sie oft kompakt kuratiert wirkt.
+Eine Capsule Collection ist ein Angebot einer Marke; eine [Capsule Wardrobe](/glossar/capsule-wardrobe/) ist dagegen ein persönliches Garderobenkonzept aus vielseitig kombinierbaren Teilen. Eine Marken-Capsule muss weder minimalistisch noch untereinander vollständig kombinierbar sein, auch wenn sie oft kompakt kuratiert wirkt. Genau hier hilft [Garderobenlogik](/glossar/garderobenlogik/), damit aus einer limitierten Idee kein [Fehlkauf](/glossar/fehlkauf/) wird.
 
 ## Worauf du achten solltest
 

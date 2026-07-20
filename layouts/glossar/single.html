@@ -180,7 +180,8 @@
         </aside>
         {{ end }}
 
-        {{ $hasInlineRelated := or (in .RawContent "## Verwandte Begriffe") (in .RawContent "## Related Terms") (in .RawContent "## Связанные термины") }}
+        {{ $inlineRelatedHeadingPattern := `(?im)^#{2,6}\s*(verwandte begriffe|related terms?|связанные термины)\s*:?[ \t]*$` }}
+        {{ $hasInlineRelated := gt (len (findRE $inlineRelatedHeadingPattern .RawContent)) 0 }}
         {{ if not $hasInlineRelated }}
           {{ with .Params.relatedTerms }}
           <aside class="glossar-related">

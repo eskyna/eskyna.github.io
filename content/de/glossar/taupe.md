@@ -22,8 +22,6 @@ relatedTerms:
     url: /glossar/beige/
   - title: Greige
     url: /glossar/greige/
-  - title: Grau
-    url: /glossar/grau/
   - title: Braun
     url: /glossar/braun/
 lastmod: "2026-07-18"

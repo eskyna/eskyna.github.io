@@ -84,3 +84,5 @@ Wenn Rot nahe am Gesicht zu dominant wirkt, kann es als Hose, Rock, Schuh, Tasch
 ## ESKYNA-Merksatz
 
 Rot spricht zuerst. Ein gutes Styling entscheidet, ob die Farbe stark, elegant oder zu laut wirkt.
+
+Wenn kräftiges Rot dich schnell überstrahlt, liefert der [Herbsttyp](/glossar/herbsttyp/) oft die passenderen warmen und gedämpften Varianten.

@@ -41,7 +41,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Details wirken oft leise, aber sie verändern den Gesamteindruck deutlich. Ein Ausschnitt, eine Naht, eine Kante oder eine Stoffführung kann einen Look öffnen, strukturieren oder weicher machen.
+Details wirken oft leise, aber sie verändern den Gesamteindruck deutlich. Ein Ausschnitt, eine [Naht](/glossar/naht/), eine Kante oder eine Stoffführung kann einen Look öffnen, strukturieren oder weicher machen.
 
 Für ESKYNA sind Details keine Nebensache. Sie entscheiden oft, ob ein Outfit fertig, hochwertig und persönlich wirkt.
 
@@ -61,7 +61,7 @@ Gerade im Alltag hilft Saum, schneller zu erkennen, ob ein Teil nur interessant 
 ## Typische Missverständnisse
 
 **Missverständnis:** Saum ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder [Qualität](/glossar/qualitaet/) eines Outfits beeinflusst.
 
 **Missverständnis:** Saum funktioniert immer gleich.  
 **Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.

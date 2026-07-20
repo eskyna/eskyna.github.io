@@ -5,6 +5,15 @@ description: "Ikat ist eine Färbe- und Webtechnik, bei der Garne vor dem Weben 
 category: "Farbberatung & Farbe"
 image: images/glossar/ikat.png
 image_alt: "Glossar-Illustration zu Ikat"
+relatedTerms:
+  - title: Muster
+    url: /glossar/muster/
+  - title: Print
+    url: /glossar/print/
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Kontrast
+    url: /glossar/kontrast/
 keywords:
   - "ikat"
   - "was ist ikat"
@@ -14,17 +23,17 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Das Muster entsteht bereits in Kett-, Schuss- oder beiden Fadensystemen. Beim Weben treffen die gefärbten Abschnitte aufeinander und erzeugen oft leicht verschwommene, lebendige Konturen.
+Das [Muster](/glossar/muster/) entsteht bereits in Kett-, Schuss- oder beiden Fadensystemen. Beim Weben treffen die gefärbten Abschnitte aufeinander und erzeugen oft leicht verschwommene, lebendige Konturen.
 
 ## Einfach erklärt
 
-Die charakteristische Unschärfe ist kein Druckfehler, sondern Teil der Technik. Echte Ikatstoffe unterscheiden sich von gedruckten Ikat-Optiken, bei denen das Muster erst auf die fertige Fläche kommt. Ikat hat in verschiedenen Regionen Asiens und anderer Teile der Welt eigenständige Traditionen.
+Die charakteristische Unschärfe ist kein Druckfehler, sondern Teil der Technik. Echte Ikatstoffe unterscheiden sich von gedruckten Ikat-[Prints](/glossar/print/), bei denen das Muster erst auf die fertige Fläche kommt. Ikat hat in verschiedenen Regionen Asiens und anderer Teile der Welt eigenständige Traditionen.
 
 ## Worauf du achten solltest
 
 - Schau auf Vorder- und Rückseite: Bei gewebtem Ikat ist die Färbung im Garn sichtbar.
 - Achte auf Herkunftsangaben und einen respektvollen Umgang mit handwerklichen Traditionen.
-- Kombiniere komplexe Ikatmuster mit ruhigen Flächen, damit ihre Struktur lesbar bleibt.
+- Kombiniere komplexe Ikatmuster mit ruhigen Flächen, damit ihre [Struktur](/glossar/struktur/) und ihr [Kontrast](/glossar/kontrast/) lesbar bleiben.
 
 ## Typisches Missverständnis
 

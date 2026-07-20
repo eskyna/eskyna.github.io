@@ -3,7 +3,7 @@ title: Was bedeutet Cocktail Attire?
 term: Cocktail Attire
 description: Cocktail Attire ist die internationale Bezeichnung für elegante, festliche Kleidung,
   die weniger formell als Black Tie ist.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - cocktail attire
   - dresscode
@@ -41,15 +41,15 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Cocktail Attire** bezeichnet elegante festliche Kleidung, die für Empfänge, Abendveranstaltungen oder Feiern gedacht ist. Sie ist formeller als Alltag und Business, aber lockerer als Black Tie.
+**Cocktail Attire** bezeichnet elegante festliche Kleidung, die für Empfänge, Abendveranstaltungen oder Feiern gedacht ist. Sie ist formeller als Alltag und Business, aber lockerer als [Black Tie](/glossar/black-tie/).
 
 ## Einfach erklärt
 
-Typisch sind gepflegte Stoffe, klare Schuhe, Schmuck mit Mass und ein Look, der sichtbar Anlass hat, ohne zu streng zu werden.
+Typisch sind gepflegte Stoffe, klare Schuhe, Schmuck mit Maß und ein Look, der sichtbar Anlass hat, ohne zu streng zu werden. Ein [Cocktailkleid](/glossar/cocktailkleid/) ist dabei oft die naheliegende Lösung.
 
 ## Warum der Begriff wichtig ist
 
-Cocktail Attire taucht häufig auf Einladungen auf. Ein eigener Glossarbeitrag hilft, diesen Dresscode von Black Tie oder Smart Casual klar zu unterscheiden.
+Cocktail Attire taucht häufig auf Einladungen auf. Ein eigener Glossarbeitrag hilft, diesen Dresscode von [Black Tie](/glossar/black-tie/) oder Smart Casual klar zu unterscheiden. In beruflichem Kontext nähert sich der Rahmen oft [Business Cocktail](/glossar/business-cocktail/) an.
 
 ## ESKYNA-Merksatz
 

@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Clutch** ist eine kleine Tasche, die meist in der Hand getragen wird. Sie wird häufig zu Abendkleidern, Cocktailkleidern oder festlichen Looks kombiniert.
+Eine **Clutch** ist eine kleine Tasche, die meist in der Hand getragen wird. Sie wird häufig zu Abendkleidern, [Cocktailkleidern](/glossar/cocktailkleid/) oder festlichen Looks kombiniert.
 
 ## Einfach erklärt
 

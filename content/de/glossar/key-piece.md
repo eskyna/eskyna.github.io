@@ -48,7 +48,7 @@ Ein **Key-Piece** ist ein zentrales Kleidungsstück, das viele Looks trägt. Es 
 
 ## Einfach erklärt
 
-Ein Key-Piece ist ein Teil, auf das du dich verlassen kannst. Das kann ein gut sitzender Blazer sein, eine perfekte Hose, ein Wollmantel, eine hochwertige Tasche oder ein feiner Strickpullover. Es verbindet mehrere Outfits und sorgt dafür, dass deine Garderobe nicht aus Einzelteilen besteht.
+Ein Key-Piece ist ein Teil, auf das du dich verlassen kannst. Das kann ein gut sitzender Blazer sein, eine perfekte Hose, ein Wollmantel, eine hochwertige Tasche oder ein feiner Strickpullover. Es verbindet mehrere Outfits und sorgt dafür, dass deine Garderobe nicht aus Einzelteilen besteht. Häufig wird erst mit einem verlässlichen [Basic](/glossar/basic/) sichtbar, wie tragfähig ein Key-Piece wirklich ist.
 
 Ein Key-Piece hat oft eine klare Form, eine passende Farbe und ein Material, das lange gut aussieht. Es ist nicht laut, aber es hält den Look zusammen. Gerade deshalb wirkt es stärker als viele spontane Trendkäufe.
 

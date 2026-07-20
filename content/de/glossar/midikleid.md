@@ -45,11 +45,15 @@ lastmod: "2026-07-09"
 
 Midikleider können schmal, gerade, tailliert, fließend oder ausgestellt sein. Die Wirkung hängt stark davon ab, wo der Saum endet. Ein Saum knapp an der schmalsten Stelle der Wade wirkt oft leichter als ein Saum an der breitesten Stelle.
 
+Wenn du eine längere und ruhigere Linie suchst, ist oft ein [Maxikleid](/glossar/maxikleid/) die stimmige Alternative.
+
 Mit Boots wirkt ein Midikleid moderner. Mit Pumps eleganter. Mit Sneakern entspannter. Die Schuhe entscheiden stark, ob der Look beruflich, casual oder festlich gelesen wird.
 
 ## Warum Midikleid wichtig ist
 
 Das Midikleid ist ein wichtiger Garderobenbaustein, weil es viele Anlässe abdeckt. Es kann im Büro funktionieren, beim Dinner, auf Reisen oder als ruhiges Alltagskleid.
+
+Für Abendanlässe wirkt ein Midikleid oft stimmiger, wenn eine kleine [Clutch](/glossar/clutch/) die Formensprache aufgreift.
 
 ## Worauf du achten solltest
 

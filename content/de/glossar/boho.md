@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Boho**: Boho ist ein lockerer, natürlicher Stil mit weichen Materialien, Mustern, Schmuck und entspanntem Layering.
+**Boho**: Boho ist ein lockerer, natürlicher Stil mit weichen Materialien, Mustern, Schmuck und entspanntem [Layering](/glossar/layering/).
 
 ## Einfach erklärt
 

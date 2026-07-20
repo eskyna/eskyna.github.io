@@ -76,6 +76,8 @@ Frag dich bei **Mob Wife Aesthetic**: Welche Aufgabe soll dieses Element im Outf
 
 Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Kompetenz, Offenheit, Ruhe oder Kreativität sichtbar macht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Mob Wife Aesthetic** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Farbkarte](/glossar/farbkarte/).
+
 ## Verwandte Begriffe
 
 - [Animal Print](/glossar/animal-print/)

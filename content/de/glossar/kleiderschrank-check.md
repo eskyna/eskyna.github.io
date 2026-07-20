@@ -81,6 +81,7 @@ Viele Fehlkäufe entstehen nicht im Geschäft, sondern vor dem Kleiderschrank. W
 ## Blick aus der Beratung
 
 Bei ESKYNA schaue ich auf Tragegefühl, Anlass, Stilziel, Zustand und Kombinierbarkeit. Manche Teile dürfen gehen, andere bekommen neue Partner. Oft entstehen schon während des Checks komplette Outfits, Einkaufskriterien und eine klarere Idee davon, wie deine Garderobe arbeiten soll.
+Wenn du diesen Prozess noch systematischer lesen möchtest, passt auch der Begriff [Wardrobe Audit](/glossar/wardrobe-audit/).
 
 ## So nutzt du den Begriff praktisch
 

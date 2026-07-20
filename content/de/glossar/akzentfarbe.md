@@ -28,8 +28,6 @@ relatedTerms:
     url: /glossar/pink/
   - title: Orange
     url: /glossar/orange/
-  - title: Gelb
-    url: /glossar/gelb/
   - title: Fuchsia
     url: /glossar/fuchsia/
   - title: Metallic
@@ -58,7 +56,7 @@ Ein Look aus Navy, Creme und Denim kann durch eine pinke Tasche sofort frischer 
 
 ## Warum Akzentfarben wichtig sind
 
-Akzentfarben sind besonders wertvoll, wenn du Farbe ausprobieren möchtest, ohne deine ganze Garderobe umzustellen. Sie ermöglichen Präsenz in kleinen Dosen.
+Akzentfarben sind besonders wertvoll, wenn du Farbe ausprobieren möchtest, ohne deine ganze Garderobe umzustellen. Sie ermöglichen [Präsenz](/glossar/praesenz/) in kleinen Dosen.
 
 Sie helfen auch dabei, eine persönliche Signatur aufzubauen. Manche Menschen wirken sofort wiedererkennbarer, wenn eine bestimmte Farbe immer wieder in Accessoires, Lippenfarbe, Schuhen oder Schmuck auftaucht.
 

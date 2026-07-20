@@ -3,7 +3,7 @@ title: Was ist ein Slingback?
 term: Slingback
 description: Ein Slingback ist ein Schuh mit offenem Fersenriemen, der zwischen Pumps, Sandalette
   und elegantem Alltagsschuh vermittelt.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - slingback
   - schuhe
@@ -45,13 +45,13 @@ Ein **Slingback** ist ein Schuh mit geschlossenem Vorderteil und offenem Fersenr
 
 ## Einfach erklärt
 
-Slingbacks wirken leichter als geschlossene Pumps, aber angezogener als viele Sandalen. Sie sind deshalb besonders interessant für Frühling, Sommer und elegante Übergangslooks.
+[Slingbacks](/glossar/slingback/) wirken leichter als geschlossene [Pumps](/glossar/pumps/), aber angezogener als viele Sandalen. Sie sind deshalb besonders interessant für Frühling, Sommer und elegante Übergangslooks.
 
 Die Form der Spitze, die Höhe des Absatzes und das Material entscheiden, ob ein Slingback klassisch, modern oder feminin wirkt.
 
 ## Warum dieser Begriff wichtig ist
 
-Für ESKYNA ist der Slingback ein guter Schuh, wenn Eleganz leichter werden soll. Er passt zu Hosen, Röcken und Kleidern und bringt eine feinere Linie als viele geschlossene Alltagsschuhe.
+Für ESKYNA ist der Slingback ein guter Schuh, wenn Eleganz leichter werden soll. Er passt zu Hosen, Röcken und Kleidern und bringt eine feinere Linie als viele geschlossene Alltagsschuhe. Im Vergleich zu [Ballerinas](/glossar/ballerina/) und [Loafern](/glossar/loafer/) wirkt er meist angezogener.
 
 ## Worauf du achten solltest
 

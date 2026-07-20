@@ -35,7 +35,7 @@ lastmod: "2026-07-18"
 
 ## Stilwirkung und Einsatz
 
-Die Farbe wirkt urbaner als Terracotta und lebendiger als klassisches Braun. Sie passt gut zu Strick, Cord, Wildleder und Leder.
+Die Farbe wirkt urbaner als Terracotta und lebendiger als klassisches Braun. Sie passt gut zu Strick, [Cord](/glossar/cord/), Wildleder und Leder.
 
 ## Beratungsblick
 

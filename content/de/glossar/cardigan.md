@@ -49,7 +49,7 @@ Ein **Cardigan** ist eine offene Strickjacke, meist mit Knöpfen oder offener Fr
 
 Ein kurzer Cardigan kann taillenbetonend wirken. Ein langer Cardigan streckt eher und wirkt ruhiger. Feinstrick erscheint eleganter, Grobstrick gemütlicher. Ein Cardigan mit kleinen Knöpfen wirkt klassischer. Eine offene, reduzierte Form wirkt moderner.
 
-Der Cardigan ist ein typisches Layering-Teil. Er kann über T-Shirt, Bluse, Kleid oder Top getragen werden und ersetzt oft eine leichte Jacke.
+Der Cardigan ist ein typisches [Layering](/glossar/layering/)-Teil. Er kann über T-Shirt, Bluse, Kleid oder Top getragen werden und ersetzt oft eine leichte Jacke.
 
 ## Warum Cardigans wichtig sind
 

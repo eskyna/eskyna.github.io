@@ -72,6 +72,8 @@ Ein Tanktop ist ein kleines Teil mit großer Wirkung, weil es nahe am Gesicht un
 
 Ein Tanktop wirkt schlicht, aber nie beliebig. Träger, Material und Ausschnitt bestimmen die ganze Lesart.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jacquard](/glossar/jacquard/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Tanktop** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

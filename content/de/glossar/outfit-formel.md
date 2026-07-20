@@ -55,7 +55,7 @@ Die Formel bleibt gleich, aber Farbe, Material und Details verändern die Wirkun
 
 Viele Menschen haben mehr Kleidung als Klarheit. Eine Outfit-Formel hilft, vorhandene Teile besser zu nutzen. Sie zeigt, welche Kombinationen dich im Alltag tragen und welche Teile im Kleiderschrank keine echte Aufgabe haben.
 
-Für ESKYNA sind Outfit-Formeln besonders wertvoll, weil sie Stilgefühl in Alltag übersetzen. Der Look wirkt nicht zufällig, sondern ruhig, stimmig und wiederholbar.
+Für ESKYNA sind Outfit-Formeln besonders wertvoll, weil sie Stilgefühl in Alltag übersetzen. Der Look wirkt nicht zufällig, sondern ruhig, stimmig und wiederholbar. Genau daraus kann eine tragfähige [Alltagsuniform](/glossar/alltagsuniform/) entstehen.
 
 ## Beispiele für Outfit-Formeln
 
@@ -64,6 +64,10 @@ Für ESKYNA sind Outfit-Formeln besonders wertvoll, weil sie Stilgefühl in Allt
 - Hemdbluse + Chinos + Mantel + strukturierte Tasche
 - Kleid + Cardigan + Stiefelette + feiner Schmuck
 - Jeans + Seidenbluse + Blazer + dezente Tasche
+
+Für kühlere Tage funktioniert auch eine einfache Formel aus Jeans, Strick und [Ankle Boots](/glossar/ankle-boots/) sehr verlässlich.
+
+Wenn ein Look formeller werden soll, kann stattdessen eine [Anzugjacke](/glossar/anzugjacke/) den Rahmen klarer setzen.
 
 ## Typische Missverständnisse
 

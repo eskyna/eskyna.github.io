@@ -87,6 +87,8 @@ In der Beratung ist **Volumenverteilung** kein starres Etikett. Der Begriff wird
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knitterverhalten](/glossar/knitterverhalten/).
+
 ## Verwandte Begriffe
 
 - [Signature Look](/glossar/signature-look/)

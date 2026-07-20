@@ -51,6 +51,10 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Lyocell, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn du ähnliche Weichheit mit etwas mehr Elastizität suchst, lohnt der Vergleich mit [Modal](/glossar/modal/).
+
+Fließende Lyocell-Teile lassen sich alltagstauglich ergänzen, wenn [Chelsea Boots](/glossar/chelsea-boots/) für Stand und Kontrast sorgen.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Lyocell im Outfit übernimmt.

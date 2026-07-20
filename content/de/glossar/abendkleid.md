@@ -38,17 +38,17 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Abendkleid**: Ein Abendkleid ist ein elegantes Kleid für formelle oder festliche Abendanlässe. Es ist meist hochwertiger, länger oder besonderer gearbeitet als ein Alltags oder Cocktailkleid.
+**Abendkleid**: Ein Abendkleid ist ein elegantes Kleid für formelle oder festliche Abendanlässe. Es ist meist hochwertiger, länger oder besonderer gearbeitet als ein Alltags- oder [Cocktailkleid](/glossar/cocktailkleid/).
 
 ## Einfach erklärt
 
-Abendkleider können bodenlang, midi oder in moderner Form auch reduziert sein. Entscheidend ist nicht nur Länge, sondern die gesamte Wirkung: Material, Schnitt, Glanz, Schmuck, Schuhe und Anlass.
+Abendkleider können bodenlang, midi oder in moderner Form auch reduziert sein. Entscheidend ist nicht nur Länge, sondern die gesamte Wirkung: Material, Schnitt, Glanz, Schmuck, Schuhe, [Dresscode](/glossar/dresscode/) und Anlass.
 
-Samt, Seide, Satin, Chiffon oder feine Wollqualitäten können abendlich wirken. Auch eine sehr schlichte Silhouette kann festlich sein, wenn Material und Styling stimmen.
+Samt, Seide, Satin, [Chiffon](/glossar/chiffon/) oder feine Wollqualitäten können abendlich wirken. Auch eine sehr schlichte Silhouette kann festlich sein, wenn Material und Styling stimmen.
 
 ## Warum Abendkleid wichtig ist
 
-Ein Abendkleid schafft Sicherheit bei formellen Anlässen. Es hilft, dem Rahmen gerecht zu werden und trotzdem persönlich zu bleiben.
+Ein Abendkleid schafft Sicherheit bei formellen Anlässen. Es hilft, einer [Abendgarderobe](/glossar/abendgarderobe/) gerecht zu werden und trotzdem persönlich zu bleiben.
 
 ## Worauf du achten solltest
 

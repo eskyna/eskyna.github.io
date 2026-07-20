@@ -76,6 +76,8 @@ Frag dich bei **Tie Accessories**: Welche Aufgabe soll dieses Element im Outfit 
 
 Bei Materialien lohnt sich der zweite Blick. Griff, Oberfläche und Verarbeitung entscheiden oft, ob ein Teil lange gut aussieht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Tie Accessories** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jeansjacke](/glossar/jeansjacke/).
+
 ## Verwandte Begriffe
 
 - [Poetcore](/glossar/poetcore/)

@@ -81,7 +81,7 @@ consulting_focus:
 
 ## Einfach erklärt
 
-Eine Capsule Wardrobe bedeutet nicht, nur noch wenige neutrale Basics zu tragen. Sie kann weich, farbig, elegant, sportlich oder kreativ sein. Entscheidend ist, dass die Teile miteinander sprechen und mehrere Outfit-Möglichkeiten ergeben.
+Eine Capsule Wardrobe bedeutet nicht, nur noch wenige neutrale Basics zu tragen. Sie kann weich, farbig, elegant, sportlich oder kreativ sein. Entscheidend ist, dass die Teile miteinander sprechen und mehrere Outfit-Möglichkeiten ergeben. Dabei ist ein starkes [Basic](/glossar/basic/) oft der ruhigste Hebel für mehr Kombinierbarkeit.
 
 ## Warum Capsule Wardrobe wichtig ist
 

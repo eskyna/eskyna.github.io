@@ -43,13 +43,13 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Chinos** sind leichte Baumwollhosen, meist aus einem glatten Twill-Gewebe. Sie wirken weniger casual als Jeans, aber entspannter als eine klassische Anzughose. Genau deshalb sind sie für Alltag, Reisen und Business Casual so vielseitig.
+**Chinos** sind leichte Baumwollhosen, meist aus einem glatten Twill-Gewebe. Sie wirken weniger [casual](/glossar/casual/) als Jeans, aber entspannter als eine klassische Anzughose. Genau deshalb sind sie für Alltag, Reisen und Business Casual so vielseitig.
 
 ## Einfach erklärt
 
 Eine Chino erkennt man oft an ihrem klaren, schlichten Schnitt. Sie hat meist seitliche Eingrifftaschen, eine glatte Vorderseite und eine eher gepflegte Wirkung. Der Stoff ist leichter als Denim und wirkt ruhiger als eine sportliche Cargohose.
 
-Chinos gibt es schmal, gerade, verkürzt oder weiter geschnitten. Klassisch sind Beige, Sand, Khaki, Navy, Schwarz oder Braun. Die Farbe entscheidet stark darüber, ob die Hose sommerlich, beruflich oder urban wirkt.
+Chinos gibt es schmal, gerade, verkürzt oder weiter geschnitten. [Klassisch](/glossar/klassisch/) sind Beige, Sand, Khaki, Navy, Schwarz oder Braun. Die Farbe entscheidet stark darüber, ob die Hose sommerlich, beruflich oder urban wirkt.
 
 ## Warum Chinos wichtig sind
 

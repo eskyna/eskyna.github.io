@@ -5,6 +5,15 @@ description: "Farbechtheit beschreibt, wie gut ein Material seine Farbe behält 
 category: "Farbberatung & Farbe"
 image: images/glossar/farbechtheit.png
 image_alt: "Glossar-Illustration zu Farbechtheit"
+relatedTerms:
+  - title: Pflege
+    url: /glossar/pflege/
+  - title: Denim
+    url: /glossar/denim/
+  - title: Baumwolle
+    url: /glossar/baumwolle/
+  - title: Verarbeitung
+    url: /glossar/verarbeitung/
 keywords:
   - "farbechtheit"
   - "was ist farbechtheit"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Je nach Belastung wird zwischen Wasch-, Reib-, Licht-, Wasser- oder Schweißechtheit unterschieden. Ein Stoff kann in einer Hinsicht stabil und in einer anderen empfindlich sein.
+Je nach Belastung wird zwischen Wasch-, Reib-, Licht-, Wasser- oder Schweißechtheit unterschieden. Ein Stoff kann in einer Hinsicht stabil und in einer anderen empfindlich sein. Deshalb hängen [Pflege](/glossar/pflege/) und Materialeinsatz eng mit der späteren Wirkung zusammen.
 
 ## Einfach erklärt
 
-Dunkler Denim kann beim Reiben abfärben, ein kräftiges Shirt beim Waschen ausbluten und ein Sommerstoff in der Sonne verblassen. Farbechtheit ist daher kein einzelnes Alles-oder-nichts-Merkmal. Pflege, Farbtiefe, Faser und Färbeverfahren spielen zusammen.
+Dunkler [Denim](/glossar/denim/) kann beim Reiben abfärben, ein kräftiges Shirt beim Waschen ausbluten und ein Sommerstoff in der Sonne verblassen. Farbechtheit ist daher kein einzelnes Alles-oder-nichts-Merkmal. [Pflege](/glossar/pflege/), Farbtiefe, Faser und Färbeverfahren spielen zusammen. Gerade bei [Baumwolle](/glossar/baumwolle/) und sensibler [Verarbeitung](/glossar/verarbeitung/) lohnt sich der zweite Blick.
 
 ## Worauf du achten solltest
 

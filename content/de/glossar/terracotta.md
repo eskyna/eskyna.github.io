@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Terracotta
 
-Terracotta ist ein erdiger Ton zwischen Orange, Braun und Rost. Die Farbe wirkt warm, natürlich und erwachsen. Sie bringt Farbe in den Look, ohne so laut zu sein wie klares Orange.
+Terracotta ist ein erdiger Ton zwischen [Orange](/glossar/orange/), [Braun](/glossar/braun/) und Rost. Die Farbe wirkt warm, natürlich und erwachsen. Sie bringt Farbe in den Look, ohne so laut zu sein wie klares Orange.
 
 Besonders schön wirkt Terracotta in Materialien mit Struktur: Leinen, Wildleder, Strick, Wolle oder matter Baumwolle. In glatten, glänzenden Stoffen wird die Farbe sofort eleganter und etwas festlicher.
 
@@ -53,7 +53,7 @@ Besonders schön wirkt Terracotta in Materialien mit Struktur: Leinen, Wildleder
 
 Terracotta hat Tiefe und Wärme. Es kann mediterran, natürlich oder modern wirken. Die Farbe passt besonders gut zu ruhigen Naturtönen, Denim und warmen Metallen.
 
-Im Vergleich zu Rot wirkt Terracotta weniger dramatisch. Im Vergleich zu Braun wirkt es lebendiger. Genau diese Zwischenposition macht es für viele Garderoben interessant.
+Im Vergleich zu Rot wirkt Terracotta weniger dramatisch. Im Vergleich zu [Braun](/glossar/braun/) wirkt es lebendiger. Genau diese Zwischenposition macht es für viele Garderoben interessant.
 
 ## Nuancen und Materialien
 
@@ -67,7 +67,7 @@ Terracotta in Leinen wirkt leicht und natürlich. Terracotta in Strick wirkt war
 ## Kombinationen, die funktionieren
 
 - Terracotta + Creme: weich und warm
-- Terracotta + Beige: natürlich und ruhig
+- Terracotta + [Camel](/glossar/camel/): natürlich und ruhig
 - Terracotta + Denim: entspannt und modern
 - Terracotta + Oliv: erdig und harmonisch
 - Terracotta + Gold: warm und elegant

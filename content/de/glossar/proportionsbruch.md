@@ -5,6 +5,7 @@ description:
   Ein Proportionsbruch entsteht, wenn Längen oder Volumen bewusst ungewohnt gesetzt werden
   und dadurch Spannung im Outfit erzeugen.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - proportionsbruch
   - proportion
@@ -46,6 +47,8 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Nicht jede stimmige Proportion muss klassisch sein. Gerade ungewohnte Verhältnisse können starke Stilentscheidungen sein, wenn sie bewusst gesetzt werden.
+Bei runderen Linien lohnt ein Abgleich mit [Curvy Styling](/glossar/curvy-styling/), damit Spannung nicht in Unruhe kippt.
+Ein zusätzlicher Check über die [Oberkörperlänge](/glossar/oberkoerperlaenge/) hilft, den Bruch gezielt statt zufällig zu setzen.
 
 ## Mini-Test vor dem Spiegel
 

@@ -50,6 +50,8 @@ Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, 
 
 ## Warum Hochzeit als Gast wichtig ist
 
+Ein [Bolero](/glossar/bolero/) kann bei kirchlichen Trauungen oder kühleren Abenden helfen, Schultern elegant zu bedecken und den Look stimmig zu halten.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Hochzeit als Gast, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

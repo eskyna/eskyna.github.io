@@ -79,6 +79,8 @@ Für ESKYNA ist ein Statement-Piece kein Trick. Es ist ein Stil-Signal. Es zeigt
 
 Ein Statement-Piece braucht nicht mehr Lautstärke. Es braucht den richtigen Rahmen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Halstuch](/glossar/halstuch/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Statement-Piece** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Stil ist sichtbar, bevor du etwas erklärst. Der Begriff hilft dir, die Botschaft eines Looks bewusster zu steuern.

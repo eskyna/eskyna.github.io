@@ -3,6 +3,7 @@ title: Was bedeutet Abnäher?
 term: Abnäher
 description: Abnäher sind genähte Falten, die Stoff formen und einem Kleidungsstück Passform geben.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - abnäher
   - schnitt proportion
@@ -50,6 +51,7 @@ Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Abnäher, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Präzise gesetzte Abnäher machen eine [Garderobe](/glossar/garderobe/) ruhiger, weil Schnitt und Sitz verlässlich zusammenarbeiten.
 
 ## Worauf du achten solltest
 

@@ -47,6 +47,8 @@ Für ESKYNA ist dieser Begriff wichtig, weil er Orientierung gibt. Wer seine Wir
 
 ## Warum Klassisch wichtig ist
 
+Klassische Looks gewinnen zusätzlich an Qualität, wenn Details wie ein sauberer [Blindsaum](/glossar/blindsaum/) die Linie ruhig halten.
+
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Klassisch, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.

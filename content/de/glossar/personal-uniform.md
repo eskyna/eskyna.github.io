@@ -48,6 +48,8 @@ Eine **Personal Uniform** ist eine bewusst wiederholte Kombination oder Outfitlo
 
 Das bedeutet nicht, jeden Tag gleich auszusehen. Es bedeutet, dass bestimmte Formen, Farben oder Kombinationen so gut funktionieren, dass sie zur verlässlichen Basis werden.
 
+Für viele ist [Clean Girl Aesthetic](/glossar/clean-girl-aesthetic/) eine konkrete Uniform-Idee, solange sie zur eigenen Rolle und zum Alltag passt.
+
 ## Warum der Begriff wichtig ist
 
 Wer weiss, was wirklich funktioniert, braucht weniger Experimente im Alltag und kann Energie gezielter einsetzen.

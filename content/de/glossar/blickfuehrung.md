@@ -40,6 +40,7 @@ lastmod: "2026-07-09"
 ## Definition
 
 **Blickführung**: Blickführung beschreibt, wie Linien, Farben, Kontraste und Details den Blick im Outfit lenken.
+Eine [vertikale Linie](/glossar/vertikale-linie/) lenkt den Blick zum Beispiel ruhig von oben nach unten und schafft oft mehr Laenge im Gesamtbild.
 
 ## Einfach erklärt
 

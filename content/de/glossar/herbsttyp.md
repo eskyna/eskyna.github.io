@@ -80,6 +80,8 @@ Frag dich bei **Herbsttyp**: Welche Aufgabe soll dieses Element im Outfit übern
 
 Bei Farbthemen lohnt sich der Vergleich direkt am Gesicht. Ein kleiner Unterschied in Temperatur oder Helligkeit kann mehr verändern als ein komplett neuer Farbton. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Herbsttyp** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Drittel-Regel im Outfit](/glossar/drittel-regel-im-outfit/).
+
 ## Verwandte Begriffe
 
 - [Farbtyp](/glossar/farbtyp/)

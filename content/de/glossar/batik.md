@@ -50,6 +50,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Batik, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Bei Batik hilft ein Blick auf [Brokat](/glossar/brokat/), um Strukturwirkung und Oberflächenruhe besser einzuordnen.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Batik im Outfit übernimmt.

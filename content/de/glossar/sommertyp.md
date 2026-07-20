@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Der **Sommertyp** ist ein kühler Farbtyp, dessen beste Farben oft weich, leicht rauchig und weniger hart wirken. Viele Sommertöne leben von Zurückhaltung statt von maximaler Leuchtkraft.
+Der **Sommertyp** ist ein kühler Farbtyp, dessen beste Farben oft weich, leicht rauchig und weniger hart wirken. Viele Sommertöne leben von Zurückhaltung statt von maximaler Leuchtkraft. In der [Farbberatung](/glossar/farbberatung/) zeigt sich das besonders klar.
 
 ## Einfach erklärt
 

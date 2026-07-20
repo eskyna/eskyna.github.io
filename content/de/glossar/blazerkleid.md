@@ -2,9 +2,18 @@
 title: "Was ist Blazerkleid?"
 term: "Blazerkleid"
 description: "Ein Blazerkleid überträgt Revers, Knopfleiste und Schneiderdetails eines Blazers auf die Länge und Funktion eines Kleides."
-category: "Garderobe & Alltag"
+category: Kleider & Röcke
 image: images/glossar/blazerkleid.png
 image_alt: "Glossar-Illustration zu Blazerkleid"
+relatedTerms:
+  - title: Blazer
+    url: /glossar/blazer/
+  - title: Kleid
+    url: /glossar/kleid/
+  - title: Taillierung
+    url: /glossar/taillierung/
+  - title: Passform
+    url: /glossar/passform/
 keywords:
   - "blazerkleid"
   - "was ist blazerkleid"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Blazerkleider können ein- oder doppelreihig, tailliert oder gerade, kurz oder knielang geschnitten sein. Häufig sorgen Schulterform, Revers und vordere Schließung für eine klare, souveräne Wirkung.
+Blazerkleider können ein- oder doppelreihig, [tailliert](/glossar/taillierung/) oder gerade, kurz oder knielang geschnitten sein. Häufig sorgen Schulterform, Revers und vordere Schließung für eine klare, souveräne Wirkung. Damit liegt das Teil zwischen [Blazer](/glossar/blazer/) und [Kleid](/glossar/kleid/).
 
 ## Einfach erklärt
 
-Das Kleid verbindet formelle Struktur mit einer einteiligen Silhouette. Weil die Front meist geknöpft oder gewickelt ist, sind Schließpunkt, Ausschnitttiefe und Übertritt besonders wichtig. Ein Modell, das im Stand geschlossen bleibt, kann beim Sitzen deutlich aufspringen.
+Das Kleid verbindet formelle Struktur mit einer einteiligen Silhouette. Weil die Front meist geknöpft oder gewickelt ist, sind Schließpunkt, Ausschnitttiefe und Übertritt besonders wichtig. Ein Modell, das im Stand geschlossen bleibt, kann beim Sitzen deutlich aufspringen. Genau deshalb entscheidet die [Passform](/glossar/passform/) hier stärker als bei vielen anderen Kleidformen.
 
 ## Worauf du achten solltest
 

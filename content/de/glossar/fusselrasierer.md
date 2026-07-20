@@ -85,6 +85,8 @@ In der Beratung ist **Fusselrasierer** kein starres Etikett. Der Begriff wird er
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Bei sehr sensiblen Oberflächen ist vor dem Einsatz ein kurzer Check zu [Chemische Reinigung](/glossar/chemische-reinigung/) sinnvoll.
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

@@ -5,6 +5,15 @@ description: "Argyle ist ein Rautenmuster, das häufig durch feine diagonale Lin
 category: "Farbberatung & Farbe"
 image: images/glossar/argyle-rautenmuster.png
 image_alt: "Glossar-Illustration zu Argyle/Rautenmuster"
+relatedTerms:
+  - title: Muster
+    url: /glossar/muster/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Strick
+    url: /glossar/strick/
+  - title: Farbe
+    url: /glossar/farbe/
 keywords:
   - "argyle rautenmuster"
   - "was ist argyle/rautenmuster"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Das Muster ist besonders von Strickwesten, Pullovern und Socken bekannt. Mehrere Rautenfarben und darüberlaufende Linien erzeugen Tiefe und Rhythmus.
+Das Muster ist besonders von [Strick](/glossar/strick/)westen, Pullovern und Socken bekannt. Mehrere Rautenfarben und darüberlaufende Linien erzeugen Tiefe, [Kontrast](/glossar/kontrast/) und Rhythmus.
 
 ## Einfach erklärt
 
-Nicht jedes Rautenmuster ist automatisch Argyle. Typisch ist die mehrschichtige Konstruktion aus gefüllten Rauten und schmalen diagonalen Linien. Kleine, tonige Varianten wirken klassisch; große, kontrastreiche Rauten können retro, verspielt oder grafisch erscheinen.
+Nicht jedes Rautenmuster ist automatisch Argyle. Typisch ist die mehrschichtige Konstruktion aus gefüllten Rauten und schmalen diagonalen Linien. Kleine, tonige Varianten wirken klassisch; große, kontrastreiche Rauten können retro, verspielt oder grafisch erscheinen. Als [Muster](/glossar/muster/) lebt Argyle stark von Farbe und Wiederholung.
 
 ## Worauf du achten solltest
 

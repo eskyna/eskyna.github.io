@@ -47,6 +47,8 @@ lastmod: "2026-07-09"
 
 Cremeweiss eignet sich besonders gut für Menschen, denen klares Weiss zu streng erscheint. Es kann Kleidung nahbarer, ruhiger und hochwertig weich wirken lassen.
 
+Der Ton [Cloud Dancer](/glossar/cloud-dancer/) liegt ähnlich hell, wirkt aber neutraler und weniger cremig.
+
 ## Warum der Begriff wichtig ist
 
 Die feinen Unterschiede bei Weißtönen entscheiden oft stark darüber, ob ein Gesicht frisch oder matt aussieht.

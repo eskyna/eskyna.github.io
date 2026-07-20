@@ -72,6 +72,8 @@ Eine dunkelblaue Hose, ein hellblaues Hemd, ein Navy-Blazer und Loafer in Dunkel
 
 Ton-in-Ton ist Harmonie mit Bewegung. Die Nuancen halten den Look lebendig.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jeansrock](/glossar/jeansrock/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Ton-in-Ton** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Farbe wirkt zuerst am Gesicht. Entscheidend sind Temperatur, Helligkeit, Kontrast und die Frage, ob eine Nuance dich frischer oder härter erscheinen lässt.

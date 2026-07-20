@@ -85,6 +85,8 @@ In der Beratung ist **Knopfqualität** kein starres Etikett. Der Begriff wird er
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Wenn du Haltbarkeit beurteilst, zeigt dir [Innenverarbeitung](/glossar/innenverarbeitung/) schnell, ob ein Teil sauber gefertigt ist.
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

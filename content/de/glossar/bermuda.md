@@ -51,6 +51,7 @@ Wichtig ist die Länge. Sie entscheidet, ob die Bermuda modern, sportlich oder e
 ## Warum dieser Begriff wichtig ist
 
 Die Bermuda ist wichtig, weil sie eine sommerliche Alternative zur langen Hose sein kann, ohne sofort sehr freizeitlich zu wirken.
+Mit guter [Garderobenplanung](/glossar/garderobenplanung/) lässt sie sich auch in businessnahe Sommerlooks integrieren.
 
 ## Worauf du achten solltest
 

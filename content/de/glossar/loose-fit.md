@@ -3,6 +3,7 @@ title: Was bedeutet Loose Fit?
 term: Loose Fit
 description: Loose Fit ist ein weiter, lockerer Schnitt, der bewusst Abstand zum Körper lässt.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - loose fit
   - schnitt proportion
@@ -44,6 +45,8 @@ lastmod: "2026-07-09"
 Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit. Kleine Unterschiede können die Wirkung stark verändern, besonders bei Längen, Schultern, Taille und Volumen.
 
 Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger machen. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück soll stimmig sitzen.
+
+Ein [Cape](/glossar/cape/) wirkt oft nur dann ausgewogen, wenn die darunterliegende Silhouette nicht zusätzlich zu weit gewählt ist.
 
 ## Warum Loose Fit wichtig ist
 

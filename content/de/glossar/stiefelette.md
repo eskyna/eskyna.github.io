@@ -50,7 +50,7 @@ Eine spitze Stiefelette streckt optisch, eine runde wirkt weicher, eine derbe So
 
 ## Warum dieser Begriff wichtig ist
 
-Stiefeletten sind wichtig, weil sie Übergangsgarderoben tragen. Sie geben Outfits Struktur, ohne so schwer zu wirken wie hohe Stiefel.
+Stiefeletten sind wichtig, weil sie Übergangsgarderoben tragen. Sie geben Outfits Struktur, ohne so schwer zu wirken wie hohe Stiefel. Varianten bis knapp über den Knöchel überschneiden sich dabei oft mit dem, was als [Ankle Boots](/glossar/ankle-boots/) beschrieben wird.
 
 ## Worauf du achten solltest
 

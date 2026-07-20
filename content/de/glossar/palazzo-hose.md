@@ -48,6 +48,10 @@ Eine **Palazzo-Hose** ist eine sehr weit geschnittene Hose, die meist fließend 
 Palazzo-Hosen haben viel Bewegung. In Viskose, Seide oder fließenden Mischgeweben wirken sie weich und elegant. In festeren Stoffen wirken sie grafischer und präsenter.
 Weil die Hose viel Volumen hat, braucht das Styling eine klare Proportion. Ein ruhigeres Oberteil, eine sichtbare Taille oder ein definierter Schuh helfen dem Look.
 
+Wer eine tiefere Bundposition bevorzugt, kombiniert die weite Form oft mit einem [Low-Waist](/glossar/low-waist/)-Ansatz.
+
+Im Kontrast zur [Cargohose](/glossar/cargohose/) steht bei der Palazzo-Hose weniger Funktion, dafür mehr fließende Weite im Vordergrund.
+
 ## Warum dieser Begriff wichtig ist
 
 Die Palazzo-Hose zeigt, wie Weite elegant wirken kann. Sie eignet sich für Sommer, Abend, Reise oder festliche Alltagslooks, wenn Material und Länge stimmen.

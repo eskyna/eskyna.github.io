@@ -2,7 +2,7 @@
 title: Business Professional erklärt
 term: Business Professional
 description: Business Professional ist ein formeller Business-Dresscode mit sehr gepflegter, klassischer Gesamtwirkung.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - business professional
   - business
@@ -79,7 +79,8 @@ Der Look liegt nahe an klassischer Businesskleidung, legt aber besonderen Wert a
 
 ## Warum der Begriff wichtig ist
 
-Business Professional ist besonders relevant für Führungsrollen, konservative Branchen oder wichtige berufliche Termine. Ein eigener Beitrag grenzt den Begriff sauber von Business Casual ab.
+Business Professional ist besonders relevant für Führungsrollen, konservative Branchen oder wichtige berufliche Termine. Ein eigener Beitrag grenzt den Begriff sauber von Business Casual ab. Für abendliche Berufsempfänge verschiebt sich der Rahmen oft in Richtung [Business Cocktail](/glossar/business-cocktail/).
+In genau diesen Situationen wird häufig [Executive Presence](/glossar/executive-presence/) erwartet.
 
 ## ESKYNA-Merksatz
 

@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Polka Dots, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn du ein markanteres Muster suchst, ist [Leo-Print](/glossar/leo-print/) oft der direkte Gegenentwurf.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Polka Dots im Outfit übernimmt.
@@ -83,6 +85,8 @@ Wenn du den Begriff **Polka Dots** auf ein Outfit überträgst, prüfe nicht nur
 In der Beratung ist **Polka Dots** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Festive Attire](/glossar/festive-attire/).
 
 ## Verwandte Begriffe
 

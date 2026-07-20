@@ -4,6 +4,7 @@ term: Manschette
 description: Eine Manschette ist der Abschluss am Ärmel und kann schlicht, geknöpft, weich oder sehr
   strukturiert wirken.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - manschette
   - schnitt proportion
@@ -45,6 +46,8 @@ lastmod: "2026-07-09"
 Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit. Kleine Unterschiede können die Wirkung stark verändern, besonders bei Längen, Schultern, Taille und Volumen.
 
 Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger machen. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück soll stimmig sitzen.
+
+In Kombination mit [Bubikragen](/glossar/bubikragen/) wirkt die Manschette oft ruhiger, wenn beide Details eine ähnliche Feinheit haben.
 
 ## Warum Manschette wichtig ist
 

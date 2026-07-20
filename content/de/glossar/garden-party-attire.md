@@ -2,7 +2,7 @@
 title: Was bedeutet Garden Party Attire?
 term: Garden Party Attire
 description: Garden Party Attire ist ein sommerlich-eleganter Dresscode für Feiern im Freien.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - garden party attire
   - dresscode
@@ -45,6 +45,7 @@ lastmod: "2026-07-09"
 ## Einfach erklärt
 
 Der Dresscode braucht Eleganz mit Klima-Verständnis. Schwere Abendstoffe oder unpraktische Schuhe funktionieren im Garten oft schlechter als leichte Materialien und stabile Absatzformen.
+Wenn die Feier in ein Restaurant übergeht, ist ein [Dinner-Look](/glossar/dinner-look/) meist die stimmige Anschlusslösung.
 
 ## Warum der Begriff wichtig ist
 

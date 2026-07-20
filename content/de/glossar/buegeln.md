@@ -40,6 +40,7 @@ lastmod: "2026-07-09"
 ## Definition
 
 **Bügeln**: Bügeln glättet Stoff durch Hitze, Druck und Dampf und verändert den gepflegten Eindruck eines Kleidungsstücks.
+Welche Temperatur, welcher Dampf und welche Vorsicht sinnvoll sind, zeigen die [Waschsymbole](/glossar/waschsymbole/).
 
 ## Einfach erklärt
 

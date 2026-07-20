@@ -75,6 +75,8 @@ Ein Look aus cremefarbenem Feinstrick, einer dunkelbraunen Stoffhose, Loafern un
 
 Quiet Luxury ist nicht laut. Es ist die Kunst, Qualität sichtbar zu machen, ohne sie erklären zu müssen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Flieder](/glossar/flieder/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Quiet Luxury** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Stil ist sichtbar, bevor du etwas erklärst. Der Begriff hilft dir, die Botschaft eines Looks bewusster zu steuern.

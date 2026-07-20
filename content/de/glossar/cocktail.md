@@ -3,7 +3,7 @@ title: Was bedeutet Cocktail?
 term: Cocktail
 description: Cocktail ist ein festlicher Dresscode, der elegant wirkt, aber weniger formell ist als
   Abendgarderobe.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - cocktail
   - garderobe
@@ -48,6 +48,8 @@ Ein Dresscode ist kein starres Kostüm. Er gibt einen Rahmen, in dem Kleidung re
 Für ESKYNA zählt nicht nur, ob ein Outfit formal genug ist. Entscheidend ist, ob es zur Person, zum Anlass und zur gewünschten Wirkung passt.
 
 ## Warum Cocktail wichtig ist
+
+Für moderne Anlässe hilft auch der Blick auf das [Bodycon Dress](/glossar/bodycon-dress/), weil es je nach Material sehr unterschiedlich formal wirken kann.
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 

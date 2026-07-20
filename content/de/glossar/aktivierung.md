@@ -52,6 +52,7 @@ Für ESKYNA ist er wichtig, weil Stil erst dann leichter wird, wenn innere Klarh
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
 Gerade im Alltag hilft Aktivierung, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Die [Imageberatung](/glossar/imageberatung/) nutzt solche Aktivierungspunkte, um Wirkung bewusst statt zufällig zu steuern.
 
 ## Worauf du achten solltest
 

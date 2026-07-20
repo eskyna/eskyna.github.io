@@ -49,6 +49,7 @@ Flieder ist die helle, sanfte Seite von Lila. Die Farbe wirkt leicht und frisch,
 ## Wie Flieder wirkt
 
 Flieder bringt Weichheit in den Look. Es wirkt zarter als Violett und weniger romantisch als Rosa. Mit modernen Materialien, klaren Linien und ruhigen Neutralfarben kann Flieder sehr erwachsen aussehen.
+Wenn du die tiefere und praesenter wirkende Richtung suchst, hilft der Blick auf [Violett](/glossar/violett/).
 
 ## Die Nuancen von Flieder
 

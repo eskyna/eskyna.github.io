@@ -85,6 +85,8 @@ In der Beratung ist **Klassiker** kein starres Etikett. Der Begriff wird erst hi
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Einstecktuch](/glossar/einstecktuch/).
+
 ## Verwandte Begriffe
 
 - [Signature Look](/glossar/signature-look/)

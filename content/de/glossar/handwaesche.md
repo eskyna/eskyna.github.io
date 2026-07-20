@@ -3,6 +3,7 @@ title: Was bedeutet Handwäsche?
 term: Handwäsche
 description: Handwäsche ist eine schonende Reinigungsart für empfindliche Materialien und feine Kleidungsstücke.
 category: Materialien & Details
+subcategory: Pflege & Wäsche
 tags:
   - handwaesche
   - materialien
@@ -38,7 +39,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Handwäsche**: Handwäsche ist eine schonende Reinigungsart für empfindliche Materialien und feine Kleidungsstücke.
+**Handwäsche**: Handwäsche ist eine schonende Reinigungsart für empfindliche Materialien und feine Kleidungsstücke. Gerade bei Stoffen mit sensibler [Atmungsaktivität](/glossar/atmungsaktivitaet/) lohnt sich diese Sorgfalt.
 
 ## Einfach erklärt
 

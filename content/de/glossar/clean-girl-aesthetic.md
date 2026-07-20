@@ -76,6 +76,8 @@ Frag dich bei **Clean Girl Aesthetic**: Welche Aufgabe soll dieses Element im Ou
 
 Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Kompetenz, Offenheit, Ruhe oder Kreativität sichtbar macht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Clean Girl Aesthetic** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
 
+Auch minimalistische Looks leben vom [First Impression](/glossar/first-impression/), den Schnitt und Haltung zuerst senden.
+
 ## Verwandte Begriffe
 
 - [Minimalismus](/glossar/minimalismus/)

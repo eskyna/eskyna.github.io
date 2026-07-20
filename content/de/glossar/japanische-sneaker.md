@@ -49,6 +49,8 @@ Sie passen gut zu weiten Hosen, Denim, Anzughosen, Maxiröcken oder schlichten K
 
 Japanische Sneaker funktionieren besonders gut zu klaren, reduzierten Outfits. Eine weite Stoffhose, ein schlichtes Shirt und eine Kurzjacke lassen den Schuh modern wirken, ohne dass der Look zu sportlich wird.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Edgy](/glossar/edgy/).
+
 ## Verwandte Begriffe
 
 - [Sneaker](/glossar/sneaker/)

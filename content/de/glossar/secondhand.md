@@ -4,6 +4,7 @@ term: Secondhand
 description: Secondhand bezeichnet Kleidung aus zweiter Hand und kann Nachhaltigkeit, Individualität
   und Qualität verbinden.
 category: Garderobe & Alltag
+subcategory: Verbraucherwissen
 tags:
   - garderobe
   - secondhand
@@ -85,6 +86,8 @@ Wenn du den Begriff **Secondhand** auf ein Outfit überträgst, prüfe nicht nur
 In der Beratung ist **Secondhand** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Glamoratti](/glossar/glamoratti/).
 
 ## Verwandte Begriffe
 

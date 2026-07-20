@@ -51,7 +51,7 @@ Für ESKYNA ist Qualität kein Luxuswort. Sie bedeutet, dass ein Teil im Alltag 
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
-Gerade im Alltag hilft Schulterpolster, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Gerade im Alltag hilft Schulterpolster, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt. Besonders deutlich wird das in Stilbildern wie [80s Luxury](/glossar/80s-luxury/), in denen Struktur und Präsenz bewusst inszeniert werden.
 
 ## Worauf du achten solltest
 

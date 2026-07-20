@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Glencheck**: Glencheck ist ein feines, klassisches Karomuster mit strukturierter und oft britisch wirkender Anmutung.
+**Glencheck**: Glencheck ist ein feines, klassisches [Karomuster](/glossar/karomuster/) mit strukturierter und oft britisch wirkender Anmutung.
 
 ## Einfach erklärt
 

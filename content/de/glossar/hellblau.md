@@ -68,6 +68,8 @@ In Baumwollpopeline wirkt Hellblau frisch und präzise. In Leinen wird es sommer
 - **Hellblau + Braun:** modern und warm
 - **Hellblau + Grau:** sachlich und elegant
 
+Für weichere, freundlichere Übergänge funktioniert Hellblau auch mit [Apricot und Pfirsich](/glossar/apricot-und-pfirsich/) überraschend gut.
+
 ## Hellblau im Business und Alltag
 
 Hellblau ist im Business besonders stark als Hemd, Bluse oder feiner Strick. Es wirkt heller und zugänglicher als dunkle Farben, bleibt aber seriös, wenn Schnitt und Material klar sind.

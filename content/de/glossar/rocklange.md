@@ -5,6 +5,7 @@ description:
   Rocklänge ist eine der wichtigsten Designentscheidungen. Sie prägt Proportionen, Wirkung
   und Alltagstauglichkeit.
 category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 tags:
   - rocklänge
   - rock
@@ -140,3 +141,5 @@ Rocklänge ist nicht Trend. Rocklänge ist Handwerk. Die richtige Länge macht e
 ---
 
 **Tiefer einsteigen?** Unser ausführlicher Blog-Beitrag „Rocklänge und Wirkung" erklärt alle wichtigen Rocklängen im Detail, zeigt, welche Länge zu welchem Körpertyp passt, und wie du Rocklänge bewusst einsetzt.
+
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fuchsia](/glossar/fuchsia/).

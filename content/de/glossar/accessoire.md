@@ -4,6 +4,7 @@ term: Accessoire
 description: Ein Accessoire ist ein ergänzendes Detail wie Tasche, Gürtel, Schmuck, Tuch, Schuh oder
   Brille.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - accessoire
   - schmuck
@@ -25,26 +26,14 @@ relatedTerms:
     url: /glossar/brille/
   - title: Schal
     url: /glossar/schal/
-  - title: Tote Bag
-    url: /glossar/tote-bag/
   - title: Gürtel
     url: /glossar/guertel/
   - title: Statement-Piece
     url: /glossar/statement-piece/
-  - title: Outfit-Formel
-    url: /glossar/outfit-formel/
   - title: Kontrast
     url: /glossar/kontrast/
-  - title: Farbtyp
-    url: /glossar/farbtyp/
-  - title: Quiet Luxury
-    url: /glossar/quiet-luxury/
   - title: Metallic
     url: /glossar/metallic/
-  - title: Gold
-    url: /glossar/gold/
-  - title: Silber
-    url: /glossar/silber/
 faq:
   items:
     - q: Wie nutze ich „Accessoire“ im Alltag?
@@ -60,6 +49,7 @@ lastmod: "2026-07-09"
 ## Definition
 
 Ein **Accessoire** ist ein ergänzendes Detail im Outfit. Dazu gehören Tasche, Gürtel, Schmuck, Tuch, Brille, Uhr, Haarspange, Hut oder Schuh. Accessoires können einen Look abrunden, verändern oder gezielt betonen.
+Eine [Tote Bag](/glossar/tote-bag/) zeigt gut, wie funktional ein Accessoire sein kann und trotzdem die Stilrichtung des Looks mitprägt.
 
 ## Einfach erklärt
 

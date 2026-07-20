@@ -3,7 +3,7 @@ title: Knee-High Boots
 term: Knee-High Boots
 description: Knee-High Boots sind Stiefel, die bis zum Knie reichen und eine starke vertikale Linie
   erzeugen.
-category: Garderobe & Alltag
+category: Schuhe
 tags:
   - garderobe
   - knee high boots
@@ -48,6 +48,8 @@ Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. 
 Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
 
 ## Warum Knee-High Boots wichtig ist
+
+Bei langen Silhouetten hilft ein Blick auf den [Blockabsatz](/glossar/blockabsatz/), weil er Beinlinie und Stabilität anders gewichtet als ein schmaler Absatz.
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 

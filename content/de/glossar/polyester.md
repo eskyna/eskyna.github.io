@@ -84,6 +84,8 @@ In der Beratung ist **Polyester** kein starres Etikett. Der Begriff wird erst hi
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Auch bei Polyester bringt [Dampfen](/glossar/dampfen/) häufig ein ruhigeres Warenbild als direktes Pressen.
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

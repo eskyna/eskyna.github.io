@@ -4,6 +4,7 @@ term: Gürtel
 description: Ein Gürtel hält nicht nur Kleidung, sondern kann Taille, Proportion und Stilrichtung
   eines Looks bewusst markieren.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - gürtel
   - accessoire
@@ -45,7 +46,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Gürtel** ist ein Accessoire, das Hose, Rock, Kleid oder Mantel halten, formen oder optisch strukturieren kann. Er kann praktisch sein, aber auch ein bewusstes Stilmittel. Besonders an der Taille verändert er Proportion und Blickführung sofort.
+Ein **Gürtel** ist ein [Accessoire](/glossar/accessoire/), das Hose, Rock, Kleid oder Mantel halten, formen oder optisch strukturieren kann. Er kann praktisch sein, aber auch ein bewusstes Stilmittel. Besonders an der Taille verändert er Proportion und [Blickführung](/glossar/blickfuehrung/) sofort.
 
 ## Einfach erklärt
 

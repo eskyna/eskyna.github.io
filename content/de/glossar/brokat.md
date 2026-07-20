@@ -5,6 +5,15 @@ description: "Brokat ist ein aufwendig gemusterter Webstoff, dessen erhabene Mot
 category: "Materialien & Details"
 image: images/glossar/brokat.png
 image_alt: "Glossar-Illustration zu Brokat"
+relatedTerms:
+  - title: Seide
+    url: /glossar/seide/
+  - title: Struktur
+    url: /glossar/struktur/
+  - title: Glanzgrad
+    url: /glossar/glanzgrad/
+  - title: Abendkleid
+    url: /glossar/abendkleid/
 keywords:
   - "brokat"
   - "was ist brokat"
@@ -14,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Brokat bezeichnet einen dekorativen Stoff mit eingewebten Mustern. Traditionell wurden Seide sowie Gold- oder Silberfäden verwendet; moderne Brokate bestehen auch aus Viskose, Baumwolle oder synthetischen Fasern.
+Brokat bezeichnet einen dekorativen Stoff mit eingewebten Mustern. Traditionell wurden [Seide](/glossar/seide/) sowie Gold- oder Silberfäden verwendet; moderne Brokate bestehen auch aus Viskose, Baumwolle oder synthetischen Fasern.
 
 ## Einfach erklärt
 
-Anders als bei einem Druck entsteht das Muster bereits beim Weben. Das gibt Brokat Tiefe, Struktur und oft einen festlichen Glanz. Je nach Gewicht kann er steif und skulptural oder überraschend leicht sein. Häufig findest du ihn bei Abendmode, Jacken, Röcken, Schuhen und Taschen.
+Anders als bei einem Druck entsteht das Muster bereits beim Weben. Das gibt Brokat Tiefe, [Struktur](/glossar/struktur/) und oft einen festlichen [Glanz](/glossar/glanzgrad/). Je nach Gewicht kann er steif und skulptural oder überraschend leicht sein. Häufig findest du ihn bei [Abendkleidern](/glossar/abendkleid/), Jacken, Röcken, Schuhen und Taschen.
 
 ## Worauf du achten solltest
 

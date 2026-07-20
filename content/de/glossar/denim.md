@@ -80,6 +80,8 @@ Für ESKYNA ist Denim interessant, weil er Stilbruch leicht macht. Er nimmt form
 
 Denim erdet ein Outfit. Seine Stärke liegt darin, Eleganz tragbarer und Alltag klarer wirken zu lassen.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Cremeweiß](/glossar/cremeweiss/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Denim** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.

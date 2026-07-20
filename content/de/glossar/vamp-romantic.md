@@ -24,10 +24,6 @@ relatedTerms:
     url: /glossar/samt/
   - title: Satin
     url: /glossar/satin/
-  - title: Bordeaux
-    url: /glossar/bordeaux/
-  - title: Abendmode
-    url: /glossar/abendgarderobe/
 lastmod: "2026-07-17"
 ---
 
@@ -37,7 +33,7 @@ lastmod: "2026-07-17"
 
 ## Was bedeutet Vamp Romantic?
 
-Vamp Romantic verbindet romantische Details mit einer intensiveren, geheimnisvollen Wirkung. Typisch sind Schwarz, Bordeaux, Aubergine, Pflaume oder Nachtblau sowie Materialien mit Tiefe und Lichtspiel wie Samt, Satin, Chiffon oder Leder.
+Vamp Romantic verbindet romantische Details mit einer intensiveren, geheimnisvollen Wirkung. Typisch sind Schwarz, Bordeaux, Aubergine, Pflaume oder Nachtblau sowie Materialien mit Tiefe und Lichtspiel wie Samt, Satin, [Chiffon](/glossar/chiffon/) oder Leder.
 
 Modern wirkt der Trend, wenn du nicht alles gleichzeitig trägst. Ein dramatisches Teil zu klaren Basics reicht oft. So bleibt der Look stark, aber nicht verkleidet.
 

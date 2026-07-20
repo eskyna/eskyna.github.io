@@ -86,6 +86,8 @@ In der Beratung ist **Qualität** kein starres Etikett. Der Begriff wird erst hi
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
 
+Gute Verarbeitung zeigt sich auch daran, wie sauber ein Stück nach [Bügeln](/glossar/buegeln/) in Form bleibt.
+
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)

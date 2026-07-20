@@ -51,6 +51,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Animal Print, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Ein Animal-Print-Kleid wirkt oft klarer, wenn der Schnitt als [Blazerkleid](/glossar/blazerkleid/) aufgebaut ist.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Animal Print im Outfit übernimmt.

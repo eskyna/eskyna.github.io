@@ -81,6 +81,8 @@ Im Business funktioniert Pink am besten als gezielter Akzent: Bluse, Tuch, Lippe
 
 Pink ist kein Zufall. Pink ist eine Entscheidung, die Ruhe im Styling braucht.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Feinschmuck](/glossar/feinschmuck/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Pink** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Ein Farbname ist erst dann hilfreich, wenn du seine Nuance, Materialwirkung und Kombinierbarkeit erkennst.

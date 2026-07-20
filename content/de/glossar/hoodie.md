@@ -49,6 +49,8 @@ Ein grauer Hoodie mit Sneakern wirkt casual. Ein einfarbiger Hoodie unter einem 
 
 Die Kapuze ist das prägende Detail. Sie bringt Volumen in den Schulter- und Nackenbereich und muss deshalb gut mit Mantel, Jacke oder Blazer zusammenspielen.
 
+Ein [Camouflage](/glossar/camouflage/) Print funktioniert beim Hoodie am besten, wenn die restlichen Teile schlicht und farblich reduziert bleiben.
+
 ## Warum dieser Begriff wichtig ist
 
 Ein Hoodie kann Komfort und Modernität verbinden. Für ESKYNA ist er interessant, wenn er nicht zufällig getragen wird, sondern als bewusstes Stilmittel in einer klaren Outfit-Formel funktioniert.

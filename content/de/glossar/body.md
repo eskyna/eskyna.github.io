@@ -37,7 +37,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Body**: Ein Body ist ein körpernahes Oberteil, das im Schritt geschlossen wird und besonders glatt unter Kleidung sitzt.
+**Body**: Ein Body ist ein körpernahes Oberteil, das im Schritt geschlossen wird und besonders glatt unter Kleidung sitzt. Ähnlich wie ein [Tanktop](/glossar/tanktop/) kann er als ruhige Grundlage im Layering dienen.
 
 ## Einfach erklärt
 

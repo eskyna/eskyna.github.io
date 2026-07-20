@@ -46,11 +46,11 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Cottagecore idealisiert Einfachheit und naturnahe Ruhe. Die Bildsprache ist weich, handwerklich und oft leicht vintage-inspiriert.
+Cottagecore idealisiert Einfachheit und naturnahe Ruhe. Die Bildsprache ist weich, handwerklich und oft leicht vintage-inspiriert. Gerade dadurch liegt der Stil nah an [Boho](/glossar/boho/), bleibt aber meist ländlicher und ruhiger.
 
 ## Warum der Begriff wichtig ist
 
-Der Stil wird stark gesucht und hilft, romantische und boho-nahe Stilbilder differenzierter zu benennen.
+Der Stil wird stark gesucht und hilft, romantische und [boho](/glossar/boho/) nahe Stilbilder differenzierter zu benennen.
 
 ## Mini-Test vor dem Spiegel
 

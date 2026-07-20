@@ -40,9 +40,9 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Material ist nie nur eine technische Angabe. Oberfläche, Gewicht, Griff und Fall bestimmen, ob ein Kleidungsstück weich, klar, elegant, sportlich oder robust erscheint.
+Material ist nie nur eine technische Angabe. Oberfläche, Gewicht, Griff und Fall bestimmen, ob ein Kleidungsstück weich, klar, elegant, sportlich oder robust erscheint. Bei [Satin](/glossar/satin/) prägen vor allem [Glanzgrad](/glossar/glanzgrad/) und [Materialfall](/glossar/materialfall/) die Wirkung.
 
-Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer Stoffe besser lesen kann, erkennt schneller, ob ein Teil zum Alltag und zur gewünschten Wirkung passt.
+Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer Stoffe besser lesen kann, erkennt schneller, ob ein Teil zum Alltag und zur gewünschten Wirkung passt. Besonders bei [Seide](/glossar/seide/) und satinartigen Oberflächen zeigt sich dieser Unterschied schnell.
 
 ## Warum Satin wichtig ist
 

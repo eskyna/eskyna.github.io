@@ -55,7 +55,7 @@ Die Stärke von Grau liegt in seiner Zurückhaltung. Es lässt Formen, Strukture
 
 Hellgrau wirkt weich und leicht. Mittelgrau wirkt neutral und sachlich. Anthrazit wirkt erwachsen, klar und oft weicher als Schwarz. Ein kühles Grau kann sehr präzise wirken. Ein warmes Greige wirkt natürlicher und weniger streng.
 
-Grau braucht oft einen bewussten Partner. Creme macht es weicher, Weiß frischer, Schwarz grafischer, Navy professioneller und Rosa zugänglicher.
+Grau braucht oft einen bewussten Partner. Creme macht es weicher, [Weiß](/glossar/weiss/) frischer, [Schwarz](/glossar/schwarz/) grafischer, [Navy](/glossar/navy/) professioneller und Rosa zugänglicher.
 
 ## Nuancen und Materialien
 
@@ -68,10 +68,10 @@ Grau in Flanell wirkt klassisch. Grau in Strick wirkt weich. Grau in glattem Anz
 
 ## Kombinationen, die funktionieren
 
-- Grau + Weiß: klar und frisch
+- Grau + [Weiß](/glossar/weiss/): klar und frisch
 - Grau + Creme: weich und gepflegt
 - Grau + Rosa: modern und zugänglich
-- Grau + Navy: professionell und ruhig
+- Grau + [Navy](/glossar/navy/): professionell und ruhig
 - Grau + Silber: kühl und präzise
 
 ## Im Business und Alltag

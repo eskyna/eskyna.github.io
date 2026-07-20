@@ -5,6 +5,15 @@ description: "Toile de Jouy bezeichnet meist einfarbig gedruckte, erzählerische
 category: "Farbberatung & Farbe"
 image: images/glossar/toile-de-jouy.png
 image_alt: "Glossar-Illustration zu Toile de Jouy"
+relatedTerms:
+  - title: Muster
+    url: /glossar/muster/
+  - title: Rapport/Musterwiederholung
+    url: /glossar/rapport-musterwiederholung/
+  - title: Kontrast
+    url: /glossar/kontrast/
+  - title: Bluse
+    url: /glossar/bluse/
 keywords:
   - "toile de jouy"
   - "was ist toile de jouy"
@@ -18,12 +27,12 @@ Historisch ist der Begriff mit bedruckten Baumwollstoffen aus Jouy-en-Josas in F
 
 ## Einfach erklärt
 
-Das Muster wirkt aus der Nähe illustrativ und aus der Entfernung wie eine feine Flächenzeichnung. Klassische Farbstellungen sind Blau, Rot, Grün oder Schwarz auf Creme beziehungsweise Weiß. Moderne Versionen verändern Motive, Maßstab und Farben und können dadurch romantisch, ironisch oder grafisch wirken.
+Das [Muster](/glossar/muster/) wirkt aus der Nähe illustrativ und aus der Entfernung wie eine feine Flächenzeichnung. Klassische Farbstellungen sind Blau, Rot, Grün oder Schwarz auf Creme beziehungsweise Weiß. Moderne Versionen verändern Motive, Maßstab und Farben und können dadurch romantisch, ironisch oder grafisch wirken.
 
 ## Worauf du achten solltest
 
 - Achte darauf, welche Szenen auf besonders sichtbaren Körperstellen platziert sind.
-- Prüfe Musteranschlüsse an Knopfleisten, Taschen und Mittelnähten.
+- Prüfe Musteranschlüsse an Knopfleisten, Taschen und Mittelnähten, insbesondere bei wiederholten [Rapporten](/glossar/rapport-musterwiederholung/).
 - Kombiniere den Print mit klaren Formen, wenn du eine zu nostalgische Wirkung vermeiden möchtest.
 
 ## Typisches Missverständnis

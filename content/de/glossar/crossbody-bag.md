@@ -54,7 +54,7 @@ Der Riemen beeinflusst die Proportion. Sitzt die Tasche hoch, wirkt der Look kom
 
 ## Warum dieser Begriff wichtig ist
 
-Crossbody Bags sind praktisch, weil sie Bewegung erlauben. Stilistisch sind sie interessant, weil sie Blickführung und Körperlinie verändern.
+Crossbody Bags sind praktisch, weil sie Bewegung erlauben. Stilistisch sind sie interessant, weil sie [Blickführung](/glossar/blickfuehrung/) und Körperlinie verändern.
 
 ## Worauf du achten solltest
 

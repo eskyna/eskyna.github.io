@@ -51,7 +51,7 @@ Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
 
-Gerade im Alltag hilft Utility Jacket, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Gerade im Alltag hilft Utility Jacket, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt. In Stilrichtungen wie [Adventure Streetwear](/glossar/adventure-streetwear/) wird genau diese Mischung aus Funktion und Urbanität bewusst eingesetzt.
 
 ## Worauf du achten solltest
 

@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Pullover** ist ein Oberteil, das über den Kopf gezogen wird. Er kann aus feinem Strick, grobem Strick, Baumwolle, Wolle, Kaschmir oder Mischgewebe bestehen. Seine Wirkung entsteht durch Material, Volumen, Ausschnitt und Länge.
+Ein **Pullover** ist ein Oberteil, das über den Kopf gezogen wird. Er kann aus feinem Strick, grobem Strick, Baumwolle, Wolle, [Kaschmir](/glossar/kaschmir/) oder Mischgewebe bestehen. Seine Wirkung entsteht durch Material, Volumen, Ausschnitt und Länge.
 
 ## Einfach erklärt
 

@@ -48,6 +48,8 @@ Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. 
 
 Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
 
+Die [Cabanjacke](/glossar/cabanjacke/) ist eng verwandt mit dem Peacoat und hilft, Länge und Volumen präziser einzuordnen.
+
 ## Warum Peacoat wichtig ist
 
 Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.

@@ -71,6 +71,8 @@ Boyfriend Jeans sind ein gutes Beispiel dafür, wie Passform und Styling zusamme
 
 Boyfriend Jeans brauchen Gegenspieler. Ihre Lässigkeit wirkt stärker, wenn der Rest des Looks bewusst geordnet ist.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Bühnenoutfit](/glossar/buehnenoutfit/).
+
 ## Praxischeck
 
 Wenn du den Begriff **Boyfriend Jeans** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.

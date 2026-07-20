@@ -49,6 +49,8 @@ Der Reiz liegt im Stilbruch: Eine sportive Sandale macht feminine, elegante oder
 
 Besonders modern wirkt die Minimalist Hiking Sandal zu weiten Stoffhosen, schlichten Kleidern, Bermudas oder Ton-in-Ton-Looks. Wer den Kontrast verstärken moechte, kombiniert sie mit einem fliessenden Rock oder einem Seidentuch an der Taille.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Farbechtheit](/glossar/farbechtheit/).
+
 ## Verwandte Begriffe
 
 - [Sandale](/glossar/sandale/)

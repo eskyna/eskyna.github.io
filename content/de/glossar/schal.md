@@ -4,6 +4,7 @@ term: Schal
 description: Ein Schal ist ein längliches Tuch oder Strickstück, das wärmt, rahmt und die Wirkung
   nahe am Gesicht verändert.
 category: Materialien & Details
+subcategory: Accessoires
 tags:
   - schal
   - accessoire
@@ -43,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Schal** ist ein längliches Accessoire aus Wolle, Kaschmir, Baumwolle, Seide oder Mischgewebe. Er wärmt, ergänzt den Look und beeinflusst die Wirkung nahe am Gesicht.
+Ein **Schal** ist ein längliches Accessoire aus Wolle, [Kaschmir](/glossar/kaschmir/), Baumwolle, Seide oder Mischgewebe. Er wärmt, ergänzt den Look und beeinflusst die Wirkung nahe am Gesicht.
 
 ## Einfach erklärt
 

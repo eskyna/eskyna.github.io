@@ -38,7 +38,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Webstoff**: Webstoff ist gewebtes Material mit klarer Struktur und meist weniger natürlicher Elastizität als Strick oder Jersey.
+**Webstoff**: Webstoff ist gewebtes Material mit klarer Struktur und meist weniger natürlicher Elastizität als Strick oder [Jersey](/glossar/jersey/).
 
 ## Einfach erklärt
 

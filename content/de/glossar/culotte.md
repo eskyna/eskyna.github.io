@@ -5,6 +5,7 @@ description:
   Eine Culotte ist eine verkürzte, weit geschnittene Hose, die zwischen Hose und Rock wirkt
   und klare Proportionen braucht.
 category: Schnitt, Proportion & Passform
+subcategory: "Größen & Passform"
 tags:
   - culotte
   - hose
@@ -47,7 +48,7 @@ Eine **Culotte** ist eine verkürzte, weit geschnittene Hose. Sie endet meist zw
 
 ## Einfach erklärt
 
-Die Culotte lebt von Luft und Bewegung. Sie ist nicht eng, sondern bewusst weit. Genau deshalb braucht sie klare Proportionen. Die Länge, der Schuh und das Oberteil entscheiden, ob sie elegant, modern oder eher schwer wirkt.
+Die Culotte lebt von Luft und Bewegung. Sie ist nicht eng, sondern bewusst weit. Genau deshalb braucht sie klare Proportionen. Anders als eine [Bermuda](/glossar/bermuda/) wirkt sie durch die zusätzliche Länge oft fließender. Die Länge, der Schuh und das Oberteil entscheiden, ob sie elegant, modern oder eher schwer wirkt.
 
 Eine Culotte aus fließender Viskose wirkt weich und feminin. Eine Culotte aus Baumwolle oder Twill wirkt klarer und lässiger. In Schwarz, Navy oder Creme kann sie sehr ruhig aussehen. In Muster oder kräftiger Farbe wird sie stärker zum Blickfang.
 

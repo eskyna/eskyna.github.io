@@ -3,7 +3,7 @@ title: Was bedeutet Black Tie Optional?
 term: Black Tie Optional
 description: Black Tie Optional bedeutet, dass Black Tie erwünscht ist, aber auch ein sehr eleganter
   dunkler Anzug oder ein festliches Kleid möglich sind.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - black tie optional
   - dresscode
@@ -50,6 +50,7 @@ Der Zusatz optional lockert den Standard, hebt ihn aber nicht auf. Der Look soll
 ## Warum der Begriff wichtig ist
 
 Gerade dieser Zusatz wird oft falsch als beliebige Freiheit gelesen. Ein eigener Glossarbegriff verhindert Unterformalisierung.
+Mit vorausschauender [Garderobenplanung](/glossar/garderobenplanung/) lassen sich passende Optionen frühzeitig aufbauen.
 
 ## ESKYNA-Merksatz
 

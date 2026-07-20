@@ -53,6 +53,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Mode, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Ein gutes Beispiel für diesen Trendwechsel ist der [Longblazer](/glossar/longblazer/), der klassische Wirkung mit moderner Länge verbindet.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Mode im Outfit übernimmt.
@@ -85,6 +87,8 @@ Wenn du den Begriff **Mode** auf ein Outfit überträgst, prüfe nicht nur das e
 In der Beratung ist **Mode** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
+
+Aktuelle Strömungen zeigen, wie [Combat Boots](/glossar/combat-boots/) feminine und klare Looks verbinden können.
 
 ## Verwandte Begriffe
 

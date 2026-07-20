@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Choker** ist eine Kette oder ein Band, das eng am Hals anliegt. Er kann fein, grafisch, romantisch, edel oder sehr modisch wirken.
+Ein **Choker** ist eine [Kette](/glossar/kette/) oder ein Band, das eng am Hals anliegt. Er kann fein, grafisch, romantisch, edel oder sehr modisch wirken.
 
 ## Einfach erklärt
 

@@ -89,9 +89,66 @@ jobs:
       - name: Run translation check
         run: ./bin/check_translation
 
+  # Glossary checks (parallel, path-filtered)
+  glossary-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Detect glossary changes
+        id: glossary_changes
+        uses: dorny/paths-filter@v3
+        with:
+          filters: |
+            glossary:
+              - 'content/de/glossar/**'
+              - 'content/en/glossar/**'
+              - 'content/ru/glossar/**'
+              - 'layouts/glossar/**'
+              - 'bin/glossary-*'
+      - name: Setup Node.js
+        if: steps.glossary_changes.outputs.glossary == 'true'
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install Node.js dependencies
+        if: steps.glossary_changes.outputs.glossary == 'true'
+        run: npm ci
+      - name: Guard umlaut regressions in DE glossary markdown
+        if: steps.glossary_changes.outputs.glossary == 'true'
+        run: |
+          if grep -RInE --include='*.md' 'Groessen|Waesche' content/de/glossar; then
+            echo "::error::Umlaut-Regression gefunden: 'Groessen' oder 'Waesche' in content/de/glossar." >&2
+            exit 1
+          fi
+      - name: Run blocking glossary quality checks
+        if: steps.glossary_changes.outputs.glossary == 'true'
+        run: |
+          npm run check:glossary-quality
+          npm run glossary-taxonomy-audit
+      - name: Run contextual link audit (non-blocking)
+        if: steps.glossary_changes.outputs.glossary == 'true'
+        continue-on-error: true
+        run: npm run glossary-contextual-link-audit
+      - name: Upload glossary audit artifacts
+        if: steps.glossary_changes.outputs.glossary == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: glossary-audit-reports
+          path: |
+            artifact-local/glossary-export/contextual-link-audit.json
+            artifact-local/glossary-export/taxonomy-audit.json
+          if-no-files-found: warn
+      - name: Skip message when glossary unchanged
+        if: steps.glossary_changes.outputs.glossary != 'true'
+        run: echo "No glossary-relevant changes detected, skipping glossary checks."
+
   # Build job (depends on format-check and lint)
   build:
-    needs: [format-check, lint, check-translation]
+    needs: [format-check, lint, check-translation, glossary-checks]
     runs-on: ubuntu-latest
     environment: gh_pages
     steps:

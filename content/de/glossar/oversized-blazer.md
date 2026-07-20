@@ -5,6 +5,7 @@ description:
   Ein Oversized-Blazer ist ein bewusst weiter geschnittener Blazer mit großzügiger Schulter
   und moderner Silhouette.
 category: Garderobe & Alltag
+subcategory: "Größen & Passform"
 tags:
   - garderobe
   - oversized blazer
@@ -54,6 +55,8 @@ Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vo
 
 Gerade im Alltag hilft Oversized-Blazer, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
 
+Wenn du weniger Volumen und mehr Kürze möchtest, ist ein [Kurzblazer](/glossar/kurzblazer/) oft die bessere Wahl.
+
 ## Worauf du achten solltest
 
 - Prüfe, welche Aufgabe Oversized-Blazer im Outfit übernimmt.
@@ -86,6 +89,8 @@ Wenn du den Begriff **Oversized-Blazer** auf ein Outfit überträgst, prüfe nic
 In der Beratung ist **Oversized-Blazer** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+Für einen klassischeren Mantel mit markanter Front kannst du den Vergleich mit [Dufflecoat](/glossar/dufflecoat/) nutzen.
 
 ## Verwandte Begriffe
 

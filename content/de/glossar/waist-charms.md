@@ -49,6 +49,8 @@ Besonders gut funktionieren Waist Charms bei reduzierten Outfits. Eine einfache 
 
 Waist Charms am besten mit ruhigen Basics kombinieren. Eine schlichte Jeans, ein Ledergürtel oder ein einfarbiger Rock lassen die Anhänger wirken, ohne dass der Look überladen aussieht.
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Knopfleiste](/glossar/knopfleiste/).
+
 ## Verwandte Begriffe
 
 - [Gürtel](/glossar/guertel/)

@@ -63,6 +63,7 @@ GitHub Copilot should read:
 
 - `.github/copilot-instructions.md`
 - `docs/AI_CONTEXT.md`
+- `docs/GLOSSAR_MASTERPLAN_2026-07-19.md`
 - `docs/BRAND_STYLEGUIDE.md`
 - `docs/DESIGN_SYSTEM.md`
 - `data/design_tokens.yaml`

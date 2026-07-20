@@ -53,6 +53,7 @@ Klare Schnitte, dunkle Farben und ruhige Materialien sprechen anders als weiche 
 ## Warum der Begriff wichtig ist
 
 Wer die eigene Stilbotschaft versteht, kauft gezielter ein und kombiniert stimmiger. Kleidung wird dadurch nicht lauter, sondern präziser.
+Gerade fuer Vortraege, Panels oder Moderation wird daraus ein bewusst geplantes [Speaker-Outfit](/glossar/speaker-outfit/).
 
 ## Typische Missverständnisse
 

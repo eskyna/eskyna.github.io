@@ -43,11 +43,11 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Roségold
 
-Roségold liegt zwischen Gold und Rosa. Es bringt Wärme und Licht in den Look, wirkt aber weicher und moderner als klassisches Gelbgold.
+[Roségold](/glossar/rosegold/) liegt zwischen [Gold](/glossar/gold/) und [Rosa](/glossar/rosa/). Es bringt Wärme und Licht in den Look, wirkt aber weicher und moderner als klassisches Gelbgold.
 
 ## Wie Roségold wirkt
 
-Roségold wirkt fein, warm und zugänglich. Es ist weniger kühl als Silber und weniger traditionell als Gold. Besonders als Schmuck, Uhr, Brille, Schuhdetail oder Tasche kann Roségold einem Outfit eine sanfte Eleganz geben.
+Roségold wirkt fein, warm und zugänglich. Es ist weniger kühl als [Silber](/glossar/silber/) und weniger traditionell als [Gold](/glossar/gold/). Besonders als Schmuck, Uhr, Brille, Schuhdetail oder Tasche kann Roségold einem Outfit eine sanfte Eleganz geben.
 
 ## Die Nuancen von Roségold
 

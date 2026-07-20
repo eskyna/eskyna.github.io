@@ -42,16 +42,16 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Leggings** sind sehr elastische, eng anliegende Hosen ohne klassische Hosenstruktur. Sie bestehen meist aus Jersey, Stretchmaterial oder Funktionsstoffen.
+**Leggings** sind sehr elastische, eng anliegende Hosen ohne klassische Hosenstruktur. Sie bestehen meist aus [Jersey](/glossar/jersey/), Stretchmaterial oder Funktionsstoffen.
 
 ## Einfach erklärt
 
-Leggings sitzen körpernah und folgen jeder Bewegung. Dadurch wirken sie anders als schmale Hosen aus Webstoff. Sie sind weicher, sportlicher und weniger strukturiert.
+Leggings sitzen körpernah und folgen jeder Bewegung. Dadurch wirken sie anders als schmale Hosen aus Webstoff. Sie sind weicher, [sportlicher](/glossar/sportlich/) und weniger strukturiert.
 Je nach Material können Leggings für Sport, Alltag oder Layering funktionieren. Im Styling brauchen sie oft ein Oberteil, das bewusst Länge oder Struktur gibt.
 
 ## Warum dieser Begriff wichtig ist
 
-Leggings sind wichtig, weil Komfort allein nicht immer für einen stimmigen Look reicht. Die Frage ist, ob sie als Hose, als sportliches Teil oder als Layering-Basis gedacht sind.
+Leggings sind wichtig, weil Komfort allein nicht immer für einen stimmigen Look reicht. Die Frage ist, ob sie als Hose, als sportliches Teil oder als Layering-Basis gedacht sind. In Looks wie [Athleisure](/glossar/athleisure/) werden genau diese Grenzen bewusst genutzt.
 
 ## Worauf du achten solltest
 

@@ -46,7 +46,7 @@ lastmod: "2026-07-09"
 
 Typisch sind kürzere bis mittlere Längen, hochwertige Materialien und eine klare Silhouette. Ein Cocktailkleid kann schlicht, feminin, modern oder glamourös wirken. Wichtig ist, dass es dem Anlass entspricht, ohne verkleidet zu wirken.
 
-Schuhe, Tasche und Schmuck entscheiden, wie festlich der Look wird. Ein schlichtes Kleid kann mit Metallic Sandalen und feinem Schmuck abendtauglich werden.
+Schuhe, Tasche und Schmuck entscheiden, wie festlich der Look wird. Ein schlichtes Kleid kann mit Metallic Sandalen, feinem Schmuck und einer [Jelly Bag](/glossar/jelly-bag/) abendtauglich werden.
 
 ## Warum Cocktailkleid wichtig ist
 

@@ -3,7 +3,7 @@ title: Was bedeutet Business Cocktail?
 term: Business Cocktail
 description: Business Cocktail beschreibt elegante Abendkleidung für berufliche Empfänge, bei denen
   Seriosität und Festlichkeit zusammenkommen.
-category: Garderobe & Alltag
+category: Dresscodes & Anlässe
 tags:
   - business cocktail
   - dresscode
@@ -45,7 +45,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Der Look soll eleganter sein als Business Casual, aber kontrollierter als rein privates Evening Dressing. Gute Stoffe, klare Linien und zurückhaltende Festlichkeit sind entscheidend.
+Der Look soll eleganter sein als Business Casual, aber kontrollierter als rein privates Evening Dressing. Gute Stoffe, klare Linien und zurückhaltende Festlichkeit sind entscheidend. In vielen Branchen liegt der Rahmen näher an [Business Professional](/glossar/business-professional/) als an lockeren Abendlooks.
 
 ## Warum der Begriff wichtig ist
 

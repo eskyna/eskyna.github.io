@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Midirock ist nicht gleich Midirock. Ein Plisseerock wirkt bewegt und weich. Ein Bleistiftrock wirkt klarer. Ein Satinrock wirkt fließend. Ein Jeansrock wirkt lässiger.
+Midirock ist nicht gleich Midirock. Ein Plisseerock wirkt bewegt und weich. Ein [Bleistiftrock](/glossar/bleistiftrock/) wirkt klarer. Ein Satinrock wirkt fließend. Ein Jeansrock wirkt lässiger.
 
 Die Länge sollte zum Schuh passen. Stiefeletten können den Look modern machen. Loafer wirken gepflegt. Sneaker geben dem Midirock Leichtigkeit.
 

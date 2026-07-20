@@ -49,7 +49,7 @@ lastmod: "2026-07-09"
 
 Ein monochromer Look wirkt oft besonders elegant, weil das Auge nicht zwischen vielen Farben springen muss. Die Silhouette wird klarer, die Linie wirkt länger und Materialien werden sichtbarer.
 
-Monochrom heißt nicht, dass jedes Teil exakt denselben Farbton haben muss. Im Gegenteil: Kleine Unterschiede in Helligkeit, Struktur und Material machen den Look lebendig.
+Monochrom heißt nicht, dass jedes Teil exakt denselben Farbton haben muss. Im Gegenteil: Kleine Unterschiede in [Helligkeit](/glossar/helligkeit/), Struktur und Material machen den Look lebendig.
 
 ## Warum monochrome Looks wichtig sind
 

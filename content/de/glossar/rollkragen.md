@@ -83,6 +83,8 @@ In der Beratung ist **Rollkragen** kein starres Etikett. Der Begriff wird erst h
 
 Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
 
+Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Fuchsia](/glossar/fuchsia/).
+
 ## Verwandte Begriffe
 
 - [Materialfall](/glossar/materialfall/)

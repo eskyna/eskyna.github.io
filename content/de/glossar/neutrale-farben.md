@@ -29,10 +29,6 @@ relatedTerms:
     url: /glossar/beige/
   - title: Navy
     url: /glossar/navy/
-  - title: Off-White
-    url: /glossar/off-white/
-  - title: Anthrazit
-    url: /glossar/anthrazit/
 faq:
   items:
     - q: Wie nutze ich „Neutrale Farben“ im Alltag?
@@ -51,9 +47,9 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Neutrale Farben sind nicht automatisch unauffällig. Ein schwarzer Anzug, ein cremefarbener Mantel oder ein Navy-Blazer kann sehr präsent wirken. Neutral bedeutet vor allem: Die Farbe lässt sich gut mit anderen Farben verbinden.
+Neutrale Farben sind nicht automatisch unauffällig. Ein schwarzer Anzug, ein [cremefarbener](/glossar/creme/) Mantel oder ein Navy-Blazer kann sehr präsent wirken. Neutral bedeutet vor allem: Die Farbe lässt sich gut mit anderen Farben verbinden.
 
-Welche neutralen Farben zu dir passen, hängt stark von Unterton, Kontrast, Helligkeit und deinem Alltag ab. Für manche ist Schwarz die beste Basis. Für andere sind Navy, Braun, Grau oder Creme viel harmonischer.
+Welche neutralen Farben zu dir passen, hängt stark von [Unterton](/glossar/unterton/), Kontrast, Helligkeit und deinem Alltag ab. Für manche ist Schwarz die beste Basis. Für andere sind Navy, [Braun](/glossar/braun/), Grau, [Beige](/glossar/beige/) oder Creme viel harmonischer.
 
 ## Warum neutrale Farben wichtig sind
 

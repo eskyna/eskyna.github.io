@@ -1,0 +1,147 @@
+#!/usr/bin/env node
+"use strict";
+
+const fs = require("fs");
+const path = require("path");
+const yaml = require("js-yaml");
+
+const rootDir = process.cwd();
+const outputDir = path.join(rootDir, "artifact-local", "glossary-export");
+const outputPath = path.join(outputDir, "boilerplate-audit.json");
+const languages = ["de", "ru"];
+
+const GENERIC_PATTERNS = {
+  de: [
+    /begriff aus der kategorie/i,
+    /hilft dir,? (deine |dein |dich )?/i,
+    /hilft dabei,? kleidung, farbe, passform oder details/i,
+  ],
+  ru: [
+    /понятие из категории/i,
+    /котор(ое|ая|ый) помогает точнее выбирать/i,
+    /помогает точнее подбирать одежду, цвет, силуэты/i,
+  ],
+};
+
+function walk(dir) {
+  if (!fs.existsSync(dir)) return [];
+
+  const files = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const entryPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...walk(entryPath));
+      continue;
+    }
+    if (entry.isFile() && entry.name.endsWith(".md")) files.push(entryPath);
+  }
+
+  return files;
+}
+
+function parseFrontmatter(text, filePath) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (!match) return { fm: {}, body: text };
+
+  try {
+    return {
+      fm: yaml.load(match[1]) || {},
+      body: match[2],
+    };
+  } catch (error) {
+    throw new Error(`Failed to parse YAML in ${filePath}: ${error.message}`);
+  }
+}
+
+function normalizeDescription(value) {
+  if (!value) return "";
+  if (Array.isArray(value)) {
+    return value
+      .map((entry) => String(entry || "").trim())
+      .join(" ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+  return String(value).replace(/\s+/g, " ").trim();
+}
+
+function shouldSkip(filePath, fm) {
+  const baseName = path.basename(filePath);
+  return (
+    baseName === "_index.md" ||
+    fm.is_glossar_category ||
+    fm.is_glossar_index_helper ||
+    !String(fm.term || fm.title || "").trim()
+  );
+}
+
+function buildDuplicateGroups(rows) {
+  const byDescription = new Map();
+
+  for (const row of rows) {
+    const key = row.description.toLowerCase();
+    if (!key) continue;
+    if (!byDescription.has(key)) byDescription.set(key, []);
+    byDescription.get(key).push({ file: row.file, term: row.term });
+  }
+
+  return [...byDescription.entries()]
+    .filter(([, items]) => items.length > 1)
+    .map(([description, items]) => ({ count: items.length, description, items }))
+    .sort((a, b) => b.count - a.count || a.description.localeCompare(b.description));
+}
+
+function auditLanguage(lang) {
+  const glossaryDir = path.join(rootDir, "content", lang, "glossar");
+  const rows = [];
+
+  for (const filePath of walk(glossaryDir)) {
+    const text = fs.readFileSync(filePath, "utf8");
+    const { fm } = parseFrontmatter(text, filePath);
+    if (shouldSkip(filePath, fm)) continue;
+
+    rows.push({
+      file: path.relative(rootDir, filePath).replace(/\\/g, "/"),
+      term: String(fm.term || fm.title || path.basename(filePath, ".md")).trim(),
+      description: normalizeDescription(fm.description),
+      category: String(fm.category || "").trim(),
+    });
+  }
+
+  const duplicates = buildDuplicateGroups(rows);
+  const suspicious = rows.filter((row) =>
+    GENERIC_PATTERNS[lang].some((pattern) => pattern.test(row.description))
+  );
+
+  return {
+    lang,
+    total: rows.length,
+    duplicate_description_groups: duplicates.length,
+    top_duplicate_groups: duplicates.slice(0, 10),
+    suspicious_generic_descriptions: suspicious.slice(0, 200),
+    suspicious_count: suspicious.length,
+  };
+}
+
+function main() {
+  const report = {
+    generated_at: new Date().toISOString(),
+  };
+
+  for (const lang of languages) {
+    report[lang] = auditLanguage(lang);
+  }
+
+  fs.mkdirSync(outputDir, { recursive: true });
+  fs.writeFileSync(outputPath, `${JSON.stringify(report, null, 2)}\n`);
+
+  console.log(`Wrote boilerplate audit to ${path.relative(rootDir, outputPath)}`);
+  for (const lang of languages) {
+    console.log(`${lang.toUpperCase()} suspicious descriptions: ${report[lang].suspicious_count}`);
+    console.log(
+      `${lang.toUpperCase()} duplicate description groups: ${report[lang].duplicate_description_groups}`
+    );
+  }
+}
+
+main();

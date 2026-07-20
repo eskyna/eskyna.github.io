@@ -2,7 +2,7 @@
 title: A-Linien-Rock
 term: A-Linien-Rock
 description: Ein A-Linien-Rock sitzt meist schmaler an Taille oder Hüfte und wird zum Saum hin weiter.
-category: Garderobe & Alltag
+category: Kleider & Röcke
 tags:
   - a linien rock
   - garderobe
@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind die [A-Linie](/glossar/a-linie/), Material, [Saumlänge](/glossar/saumlange/) und die Frage, wie das Teil mit der [Silhouette](/glossar/silhouette/) zusammenarbeitet.
 
 Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
 

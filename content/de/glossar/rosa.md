@@ -30,8 +30,6 @@ relatedTerms:
     url: /glossar/kontrast/
   - title: Pink
     url: /glossar/pink/
-  - title: Lila
-    url: /glossar/lila/
   - title: Fuchsia
     url: /glossar/fuchsia/
   - title: Roségold
@@ -53,7 +51,7 @@ Rosa ist eine aufgehellte Form von Rot. Aber es wirkt je nach Nuance, Material u
 
 ## Wie Rosa wirkt
 
-Rosa kann präsent oder zurückhaltend wirken. Ein kräftiges Fuchsia wirkt selbstbewusst und modern. Ein zartes Puderrosa wirkt weicher und zugänglicher. Ein warmes Altrosa wirkt erwachsen und subtil. Ein kühles Mauve wirkt edel und zeitgenössisch.
+Rosa kann präsent oder zurückhaltend wirken. Ein kräftiges Fuchsia wirkt selbstbewusst und modern. Ein zartes Puderrosa wirkt weicher und zugänglicher. Ein warmes Altrosa wirkt erwachsen und subtil. Ein kühles Mauve wirkt edel und zeitgenössisch. Als Schmuckton passt dazu oft [Roségold](/glossar/rosegold/).
 
 Rosa hat eine Besonderheit: Es ist eine Farbe, die Unsicherheit schnell verrät. Wenn du Rosa zaghaft trägst, wirkt es mehlig. Wenn du Rosa selbstbewusst trägst, also mit klarem Schnitt, guter Passform und sicherer Haltung, wirkt es stark.
 
