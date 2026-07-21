@@ -475,10 +475,10 @@ body-parser@~1.20.5:
     type-is "~1.6.18"
     unpipe "~1.0.0"
 
-brace-expansion@^1.1.7:
-  version "1.1.14"
-  resolved "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.14.tgz"
-  integrity sha512-MWPGfDxnyzKU7rNOW9SP/c50vi3xrmrua/+6hfPbCS2ABNWfx24vPidzvC7krjU/RTo235sV776ymlsMtGKj8g==
+brace-expansion@^1.1.16, brace-expansion@^1.1.7:
+  version "1.1.16"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.16.tgz#723d3a30c0558c225abc9fc479a73e14e26c3c2f"
+  integrity sha512-IDw48K2/2kRkg9LdJxurvq3lV3aBgq0REY89duEqFRthjlPdXHKMj7EnQOXVckxzgisinf3nHfrcE2FufFLXMw==
   dependencies:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
@@ -1254,7 +1254,7 @@ global-prefix@^3.0.0:
 
 globby@16.2.1:
   version "16.2.1"
-  resolved "https://registry.yarnpkg.com/globby/-/globby-16.2.1.tgz#90b86ed79851bea0ee7170302456b2bc2b1ad707"
+  resolved "https://registry.npmjs.org/globby/-/globby-16.2.1.tgz"
   integrity sha512-JmsqJalahxxgW8V2ecSQ2G7UjPlI9cpKdrkG9KoNiXhd/YslXOTEB0cViENWUznuovIuNT+FkMbraDGjr4FCUg==
   dependencies:
     "@sindresorhus/merge-streams" "^4.0.0"
@@ -1782,7 +1782,7 @@ markdownlint-cli2-formatter-default@0.0.6:
 
 markdownlint-cli2@^0.23.1:
   version "0.23.1"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2/-/markdownlint-cli2-0.23.1.tgz#7dbaab2ba0442079946298d0de79054af95f5740"
+  resolved "https://registry.npmjs.org/markdownlint-cli2/-/markdownlint-cli2-0.23.1.tgz"
   integrity sha512-20JPI5W+HpV1OA+pUM712wgvL4GzYNUvbmhLU8KlEYJ1kCDx4soZ4/Xqd+WkLrPTOKMAn8SfO3zYFrK8GLlwQg==
   dependencies:
     globby "16.2.1"
@@ -1797,7 +1797,7 @@ markdownlint-cli2@^0.23.1:
 
 markdownlint@0.41.1:
   version "0.41.1"
-  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.41.1.tgz#8d92bb2708148ae54d0f122f8565638a22eb7ae6"
+  resolved "https://registry.npmjs.org/markdownlint/-/markdownlint-0.41.1.tgz"
   integrity sha512-qHKeU2E1bdyNAT077go2FVTNXvYcktN5IHtF6XyeD1l0PClxzSp2tUApAV14ORI8DGX4H9bNKZEzelZp4qn8IA==
   dependencies:
     micromark "4.0.2"
@@ -2428,7 +2428,7 @@ postcss@^8.5.6:
 
 prettier@^3.9.5:
   version "3.9.5"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.5.tgz#4fec97736e33b9d0b620b48914fe93b530e835ad"
+  resolved "https://registry.npmjs.org/prettier/-/prettier-3.9.5.tgz"
   integrity sha512-/FVl766LpUfB5vXgCYOYa0MeV/441Ia99AeICQIQFTY/Nw0roZwULcXpku5i1/m5kt/baz+s4Zogspd839HSMg==
 
 progress@^2.0.3:

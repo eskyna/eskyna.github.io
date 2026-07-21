@@ -45,6 +45,7 @@
     "uuid": "^11.1.1",
     "js-yaml": "4.3.0",
     "markdown-it": "^14.2.0",
+    "brace-expansion": "^1.1.16",
     "**/tmp": "0.2.7",
     "@lhci/cli/**/ws": "^8.21.0"
   },
@@ -53,6 +54,7 @@
     "uuid": ">=11.1.1",
     "js-yaml": "4.3.0",
     "markdown-it": ">=14.2.0",
+    "brace-expansion": "1.1.16",
     "@lhci/cli": {
       "ws": "^8.21.0"
     }
