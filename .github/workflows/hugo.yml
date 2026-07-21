@@ -176,7 +176,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-static-image-derivatives-v3-
       - name: Log image cache result
-        run: echo "Image cache hit: ${{ steps.image-cache.outputs.cache-hit }}"
+        run: 'echo "Image cache hit: ${{ steps.image-cache.outputs.cache-hit }}"'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
