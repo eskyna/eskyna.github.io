@@ -170,9 +170,9 @@ jobs:
           path: |
             static/images/**/*.webp
             static/images/**/*.avif
-          key: ${{ runner.os }}-static-image-derivatives-${{ hashFiles('static/images/**/*.png', 'bin/convert-images-build') }}
+          key: ${{ runner.os }}-static-image-derivatives-v2-${{ hashFiles('static/images/**/*.png', 'bin/convert-images-build') }}
           restore-keys: |
-            ${{ runner.os }}-static-image-derivatives-
+            ${{ runner.os }}-static-image-derivatives-v2-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6

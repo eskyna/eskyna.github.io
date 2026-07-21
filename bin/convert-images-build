@@ -43,10 +43,10 @@ convert_one() {
   local png="$1"
   local webp="${png%.png}.webp"
   local avif="${png%.png}.avif"
-  if [ ! -f "$webp" ]; then
+  if [ ! -f "$webp" ] || [ "$png" -nt "$webp" ]; then
     cwebp -q "$WEBP_QUALITY" "$png" -o "$webp" 2>/dev/null || true
   fi
-  if [ ! -f "$avif" ]; then
+  if [ ! -f "$avif" ] || [ "$png" -nt "$avif" ]; then
     avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif" 2>/dev/null || true
   fi
 }
@@ -67,10 +67,10 @@ if command -v cwebp >/dev/null 2>&1 && command -v avifenc >/dev/null 2>&1; then
       stem="${png%.png}"
       webp_out="${stem}-${w}.webp"
       avif_out="${stem}-${w}.avif"
-      if [ ! -f "$webp_out" ]; then
+      if [ ! -f "$webp_out" ] || [ "$png" -nt "$webp_out" ]; then
         cwebp -q "$WEBP_QUALITY" -resize "$w" 0 "$png" -o "$webp_out" 2>/dev/null || true
       fi
-      if [ ! -f "$avif_out" ]; then
+      if [ ! -f "$avif_out" ] || [ "$png" -nt "$avif_out" ]; then
         avifenc -s 4 -c aom -q "$AVIF_QUALITY" --target-size "$w" 0 "$png" "$avif_out" 2>/dev/null || \
         avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif_out" 2>/dev/null || true
       fi
