@@ -165,14 +165,18 @@ jobs:
           submodules: recursive
           fetch-depth: 5
       - name: Cache converted static image formats
+        id: image-cache
         uses: actions/cache@v6
         with:
           path: |
             static/images/**/*.webp
             static/images/**/*.avif
-          key: ${{ runner.os }}-static-image-derivatives-v2-${{ hashFiles('static/images/**/*.png', 'bin/convert-images-build') }}
+            static/images/**/*.srcsha
+          key: ${{ runner.os }}-static-image-derivatives-v3-${{ hashFiles('static/images/**/*.png', 'bin/convert-images-build') }}
           restore-keys: |
-            ${{ runner.os }}-static-image-derivatives-v2-
+            ${{ runner.os }}-static-image-derivatives-v3-
+      - name: Log image cache result
+        run: echo "Image cache hit: ${{ steps.image-cache.outputs.cache-hit }}"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6

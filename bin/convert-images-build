@@ -39,19 +39,63 @@ fi
 
 # Convert to WebP and AVIF in parallel using xargs
 # Both formats are processed concurrently for each image
+file_sha256() {
+  local file="$1"
+  if command -v sha256sum >/dev/null 2>&1; then
+    sha256sum "$file" | awk '{print $1}'
+  else
+    shasum -a 256 "$file" | awk '{print $1}'
+  fi
+}
+
+source_signature() {
+  local png="$1"
+  local src_hash
+  src_hash="$(file_sha256 "$png")"
+  printf '%s|webp:%s|avif:%s\n' "$src_hash" "$WEBP_QUALITY" "$AVIF_QUALITY"
+}
+
+needs_regeneration() {
+  local output="$1"
+  local stamp_file="$2"
+  local expected_signature="$3"
+
+  if [ ! -f "$output" ] || [ ! -f "$stamp_file" ]; then
+    return 0
+  fi
+
+  local current_signature
+  current_signature="$(cat "$stamp_file" 2>/dev/null || true)"
+  if [ "$current_signature" != "$expected_signature" ]; then
+    return 0
+  fi
+
+  return 1
+}
+
 convert_one() {
   local png="$1"
   local webp="${png%.png}.webp"
   local avif="${png%.png}.avif"
-  if [ ! -f "$webp" ] || [ "$png" -nt "$webp" ]; then
+  local signature
+  local webp_stamp
+  local avif_stamp
+  signature="$(source_signature "$png")"
+  webp_stamp="${webp}.srcsha"
+  avif_stamp="${avif}.srcsha"
+
+  if needs_regeneration "$webp" "$webp_stamp" "$signature"; then
     cwebp -q "$WEBP_QUALITY" "$png" -o "$webp" 2>/dev/null || true
+    printf '%s\n' "$signature" > "$webp_stamp"
   fi
-  if [ ! -f "$avif" ] || [ "$png" -nt "$avif" ]; then
+  if needs_regeneration "$avif" "$avif_stamp" "$signature"; then
     avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif" 2>/dev/null || true
+    printf '%s\n' "$signature" > "$avif_stamp"
   fi
 }
 
 export -f convert_one
+export -f file_sha256 source_signature needs_regeneration
 export WEBP_QUALITY AVIF_QUALITY
 
 find "$IMAGES_DIR" -name "*.png" | xargs -P "$JOBS" -I{} bash -c 'convert_one "$@"' _ {}
@@ -67,12 +111,18 @@ if command -v cwebp >/dev/null 2>&1 && command -v avifenc >/dev/null 2>&1; then
       stem="${png%.png}"
       webp_out="${stem}-${w}.webp"
       avif_out="${stem}-${w}.avif"
-      if [ ! -f "$webp_out" ] || [ "$png" -nt "$webp_out" ]; then
+      signature="$(source_signature "$png")|w:${w}"
+      webp_stamp="${webp_out}.srcsha"
+      avif_stamp="${avif_out}.srcsha"
+
+      if needs_regeneration "$webp_out" "$webp_stamp" "$signature"; then
         cwebp -q "$WEBP_QUALITY" -resize "$w" 0 "$png" -o "$webp_out" 2>/dev/null || true
+        printf '%s\n' "$signature" > "$webp_stamp"
       fi
-      if [ ! -f "$avif_out" ] || [ "$png" -nt "$avif_out" ]; then
+      if needs_regeneration "$avif_out" "$avif_stamp" "$signature"; then
         avifenc -s 4 -c aom -q "$AVIF_QUALITY" --target-size "$w" 0 "$png" "$avif_out" 2>/dev/null || \
         avifenc -s 4 -c aom -q "$AVIF_QUALITY" "$png" "$avif_out" 2>/dev/null || true
+        printf '%s\n' "$signature" > "$avif_stamp"
       fi
     done
   done
