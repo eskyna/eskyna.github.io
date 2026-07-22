@@ -4,7 +4,7 @@ term: "Color Triad"
 description: "Color Triad: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Color Consultation & Color"
 slug: "farbdreiklang"
-seoTitle: "Color Triad: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Color Triad: meaning | ESKYNA"
 image: "images/glossar/farbdreiklang.png"
 image_alt: "Glossary illustration for Color Triad"
 url: /en/glossary/farbdreiklang/

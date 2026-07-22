@@ -4,7 +4,7 @@ term: "Quantity Contrast"
 description: "Quantity Contrast: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Color Consultation & Color"
 slug: "quantitaetskontrast"
-seoTitle: "Quantity Contrast: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Quantity Contrast: meaning | ESKYNA"
 image: "images/glossar/quantitaetskontrast.png"
 image_alt: "Glossary illustration for Quantity Contrast"
 url: /en/glossary/quantitaetskontrast/

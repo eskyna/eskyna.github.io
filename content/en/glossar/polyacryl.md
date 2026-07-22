@@ -4,7 +4,7 @@ term: "Polyacrylic"
 description: "Polyacrylic: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "polyacryl"
-seoTitle: "Polyacrylic: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Polyacrylic: meaning | ESKYNA"
 image: "images/glossar/polyacryl.png"
 image_alt: "Glossary illustration for Polyacrylic"
 url: /en/glossary/polyacryl/

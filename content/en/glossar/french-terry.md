@@ -4,7 +4,7 @@ term: "French Terry"
 description: "French Terry: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "french-terry"
-seoTitle: "French Terry: meaning, practical use and styling context | ESKYNA"
+seoTitle: "French Terry: meaning | ESKYNA"
 image: "images/glossar/french-terry.png"
 image_alt: "Glossary illustration for French Terry"
 url: /en/glossary/french-terry/

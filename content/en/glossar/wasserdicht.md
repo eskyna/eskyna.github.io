@@ -4,7 +4,7 @@ term: "Waterproof"
 description: "Waterproof: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "wasserdicht"
-seoTitle: "Waterproof: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Waterproof: meaning | ESKYNA"
 image: "images/glossar/wasserdicht.png"
 image_alt: "Glossary illustration for Waterproof"
 url: /en/glossary/wasserdicht/

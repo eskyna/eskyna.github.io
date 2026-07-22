@@ -4,7 +4,7 @@ term: "Selvedge Denim"
 description: "Selvedge Denim: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "selvedge-denim"
-seoTitle: "Selvedge Denim: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Selvedge Denim: meaning | ESKYNA"
 image: "images/glossar/selvedge-denim.png"
 image_alt: "Glossary illustration for Selvedge Denim"
 url: /en/glossary/selvedge-denim/

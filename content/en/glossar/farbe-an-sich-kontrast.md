@@ -4,7 +4,7 @@ term: "Hue Contrast"
 description: "Hue Contrast: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Color Consultation & Color"
 slug: "farbe-an-sich-kontrast"
-seoTitle: "Hue Contrast: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Hue Contrast: meaning | ESKYNA"
 image: "images/glossar/farbe-an-sich-kontrast.png"
 image_alt: "Glossary illustration for Hue Contrast"
 url: /en/glossary/farbe-an-sich-kontrast/

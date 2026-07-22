@@ -4,7 +4,7 @@ term: "Windproof"
 description: "Windproof: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "winddicht"
-seoTitle: "Windproof: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Windproof: meaning | ESKYNA"
 image: "images/glossar/winddicht.png"
 image_alt: "Glossary illustration for Windproof"
 url: /en/glossary/winddicht/

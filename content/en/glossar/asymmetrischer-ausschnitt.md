@@ -4,7 +4,7 @@ term: "Asymmetrical Neckline"
 description: "Asymmetrical Neckline: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Cut, Proportion & Fit"
 slug: "asymmetrischer-ausschnitt"
-seoTitle: "Asymmetrical Neckline: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Asymmetrical Neckline: meaning | ESKYNA"
 image: "images/glossar/asymmetrischer-ausschnitt.png"
 image_alt: "Glossary illustration for Asymmetrical Neckline"
 url: /en/glossary/asymmetrischer-ausschnitt/

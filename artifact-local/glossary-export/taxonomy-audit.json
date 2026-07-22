@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-07-21T23:33:00.738Z",
+  "generated_at": "2026-07-22T06:06:49.261Z",
   "glossary_directory": "content/de/glossar",
-  "total_categories": 9,
+  "total_categories": 10,
   "assigned_subcategories": 126,
   "matching_subcategories": 122,
   "non_rule_subcategories": 4,
   "category_summary": [
     {
       "category": "Materialien & Details",
-      "count": 202
+      "count": 228
     },
     {
       "category": "Garderobe & Alltag",
-      "count": 162
+      "count": 163
     },
     {
       "category": "Stil & Wirkung",
-      "count": 110
+      "count": 115
     },
     {
       "category": "Schnitt, Proportion & Passform",
-      "count": 89
+      "count": 95
     },
     {
       "category": "Farb-Lexikon",
@@ -28,21 +28,82 @@
     },
     {
       "category": "Farbberatung & Farbe",
-      "count": 44
+      "count": 49
     },
     {
       "category": "Schuhe",
-      "count": 35
+      "count": 36
     },
     {
       "category": "Kleider & Roecke",
-      "count": 30
+      "count": 33
     },
     {
       "category": "Dresscodes & Anlaesse",
       "count": 25
+    },
+    {
+      "category": "Pflege & Wäsche",
+      "count": 1
     }
   ],
-  "outlier_categories": [],
-  "suggested_subcategories": []
+  "outlier_categories": [
+    {
+      "file": "content/de/glossar/einlaufen.md",
+      "term": "Einlaufen bei Kleidung",
+      "category_raw": "Pflege & Wäsche",
+      "category_normalized": "Pflege & Wäsche"
+    }
+  ],
+  "suggested_subcategories": [
+    {
+      "file": "content/de/glossar/asymmetrischer-ausschnitt.md",
+      "term": "asymmetrischer Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/bandeau-top.md",
+      "term": "Bandeau-Top",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/einlaufen.md",
+      "term": "Einlaufen bei Kleidung",
+      "category": "Pflege & Wäsche",
+      "current_subcategory": "",
+      "suggested_subcategory": "Pflege & Wäsche"
+    },
+    {
+      "file": "content/de/glossar/illusion-ausschnitt.md",
+      "term": "Illusion-Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/keyhole-ausschnitt.md",
+      "term": "Keyhole-Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/plunge-neckline.md",
+      "term": "Plunge Neckline",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/rueckenausschnitt.md",
+      "term": "Rückenausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    }
+  ]
 }

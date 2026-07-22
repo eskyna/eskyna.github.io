@@ -4,7 +4,7 @@ term: "Water-Repellent"
 description: "Water-Repellent: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "wasserabweisend"
-seoTitle: "Water-Repellent: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Water-Repellent: meaning | ESKYNA"
 image: "images/glossar/wasserabweisend.png"
 image_alt: "Glossary illustration for Water-Repellent"
 url: /en/glossary/wasserabweisend/

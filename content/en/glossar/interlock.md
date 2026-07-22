@@ -4,7 +4,7 @@ term: "Interlock"
 description: "Interlock: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "interlock"
-seoTitle: "Interlock: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Interlock: meaning | ESKYNA"
 image: "images/glossar/interlock.png"
 image_alt: "Glossary illustration for Interlock"
 url: /en/glossary/interlock/

@@ -4,7 +4,7 @@ term: "Water Column"
 description: "Water Column: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "wassersaeule"
-seoTitle: "Water Column: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Water Column: meaning | ESKYNA"
 image: "images/glossar/wassersaeule.png"
 image_alt: "Glossary illustration for Water Column"
 url: /en/glossary/wassersaeule/

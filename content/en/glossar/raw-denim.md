@@ -4,7 +4,7 @@ term: "Raw Denim"
 description: "Raw Denim: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "raw-denim"
-seoTitle: "Raw Denim: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Raw Denim: meaning | ESKYNA"
 image: "images/glossar/raw-denim.png"
 image_alt: "Glossary illustration for Raw Denim"
 url: /en/glossary/raw-denim/

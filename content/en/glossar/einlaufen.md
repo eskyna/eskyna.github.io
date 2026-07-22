@@ -4,7 +4,7 @@ term: "Shrinkage"
 description: "Shrinkage: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "einlaufen"
-seoTitle: "Shrinkage: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Shrinkage: meaning | ESKYNA"
 image: "images/glossar/einlaufen.png"
 image_alt: "Glossary illustration for Shrinkage"
 url: /en/glossary/einlaufen/

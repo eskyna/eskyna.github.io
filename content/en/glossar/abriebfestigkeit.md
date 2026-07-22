@@ -4,7 +4,7 @@ term: "Abrasion Resistance"
 description: "Abrasion Resistance: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "abriebfestigkeit"
-seoTitle: "Abrasion Resistance: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Abrasion Resistance: meaning | ESKYNA"
 image: "images/glossar/abriebfestigkeit.png"
 image_alt: "Glossary illustration for Abrasion Resistance"
 url: /en/glossary/abriebfestigkeit/

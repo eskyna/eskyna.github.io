@@ -4,7 +4,7 @@ term: "Complementary Contrast"
 description: "Complementary Contrast: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Color Consultation & Color"
 slug: "komplementaerkontrast"
-seoTitle: "Complementary Contrast: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Complementary Contrast: meaning | ESKYNA"
 image: "images/glossar/komplementaerkontrast.png"
 image_alt: "Glossary illustration for Complementary Contrast"
 url: /en/glossary/komplementaerkontrast/

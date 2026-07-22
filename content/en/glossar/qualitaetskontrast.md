@@ -4,7 +4,7 @@ term: "Quality Contrast"
 description: "Quality Contrast: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Color Consultation & Color"
 slug: "qualitaetskontrast"
-seoTitle: "Quality Contrast: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Quality Contrast: meaning | ESKYNA"
 image: "images/glossar/qualitaetskontrast.png"
 image_alt: "Glossary illustration for Quality Contrast"
 url: /en/glossary/qualitaetskontrast/

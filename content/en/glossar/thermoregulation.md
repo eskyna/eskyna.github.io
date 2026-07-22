@@ -4,7 +4,7 @@ term: "Thermoregulation"
 description: "Thermoregulation: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "thermoregulation"
-seoTitle: "Thermoregulation: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Thermoregulation: meaning | ESKYNA"
 image: "images/glossar/thermoregulation.png"
 image_alt: "Glossary illustration for Thermoregulation"
 url: /en/glossary/thermoregulation/

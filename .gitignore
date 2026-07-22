@@ -10,3 +10,4 @@ test-results/
 # Generated image formats (build-time only) - only PNGs in repo
 static/images/**/*.webp
 static/images/**/*.avif
+static/images/**/*.srcsha

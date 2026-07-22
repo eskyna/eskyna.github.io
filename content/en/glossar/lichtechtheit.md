@@ -4,7 +4,7 @@ term: "Lightfastness"
 description: "Lightfastness: definition, practical context, consultation perspective, and decision guidance for everyday wardrobe use."
 category: "Materials & Details"
 slug: "lichtechtheit"
-seoTitle: "Lightfastness: meaning, practical use and styling context | ESKYNA"
+seoTitle: "Lightfastness: meaning | ESKYNA"
 image: "images/glossar/lichtechtheit.png"
 image_alt: "Glossary illustration for Lightfastness"
 url: /en/glossary/lichtechtheit/
