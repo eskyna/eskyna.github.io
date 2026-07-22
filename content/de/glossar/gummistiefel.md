@@ -72,7 +72,7 @@ Wasserabweisender Lederstiefel: Hält begrenzte Nässe ab, ist aber konstruktiv 
 
 ## ESKYNA-Merksatz
 
-Beim Gummistiefel beginnt Stil mit Funktion: trocken, trittsicher und passend – erst dann zählt die Farbe.
+Beim Gummistiefel beginnt Stil mit Funktion: trocken, trittsicher und passend, erst dann zählt die Farbe.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

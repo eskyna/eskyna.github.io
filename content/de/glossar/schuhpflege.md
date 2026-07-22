@@ -10,7 +10,7 @@ image_alt: "Geordnete Schuhpflege mit weicher Bürste, Tuch, Schuhspanner und ma
 lastmod: "2026-07-22"
 ---
 
-Schuhpflege umfasst Reinigung, Trocknung, Schutz, Nährung beziehungsweise Konditionierung, Formpflege und rechtzeitige Reparatur – jeweils abgestimmt auf Material und Konstruktion des Schuhs.
+Schuhpflege umfasst Reinigung, Trocknung, Schutz, Nährung beziehungsweise Konditionierung, Formpflege und rechtzeitige Reparatur, jeweils abgestimmt auf Material und Konstruktion des Schuhs.
 
 ## Definition
 

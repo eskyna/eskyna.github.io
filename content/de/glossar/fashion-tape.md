@@ -14,7 +14,7 @@ Fashion Tape ist ein meist doppelseitiger, haut- und textilgeeigneter Klebestrei
 
 ## Definition
 
-Fashion Tape wird zwischen Haut und Kleidung oder – sofern das jeweilige Produkt dafür vorgesehen ist – zwischen zwei Stofflagen angebracht. Typische Anwendungen sind ein aufklaffender Ausschnitt, eine wandernde Trägerkante, eine Hemdblusenlücke, ein umschlagendes Revers oder ein leichter Saum, der für einen Anlass kurzfristig an seiner Position bleiben soll.
+Fashion Tape wird zwischen Haut und Kleidung oder, sofern das jeweilige Produkt dafür vorgesehen ist, zwischen zwei Stofflagen angebracht. Typische Anwendungen sind ein aufklaffender Ausschnitt, eine wandernde Trägerkante, eine Hemdblusenlücke, ein umschlagendes Revers oder ein leichter Saum, der für einen Anlass kurzfristig an seiner Position bleiben soll.
 
 Form, Klebkraft und Eignung unterscheiden sich deutlich. Es gibt vorgeschnittene Streifen, Rollen, gebogene Stücke und Produkte für bestimmte Materialien oder Hautanwendungen. Die Herstellerhinweise sind deshalb Teil der Funktion: Nicht jeder Klebestreifen ist für direkten Hautkontakt, empfindliche Stoffe oder längere Tragezeiten geeignet.
 
@@ -76,7 +76,7 @@ Druckknopf/Änderungsnaht: Dauerhaftere konstruktive Lösung für wiederkehrende
 
 ## ESKYNA-Merksatz
 
-Fashion Tape sichert eine gute Passform an einer kleinen Stelle – es erzeugt keine gute Passform aus einem ungeeigneten Schnitt.
+Fashion Tape sichert eine gute Passform an einer kleinen Stelle, es erzeugt keine gute Passform aus einem ungeeigneten Schnitt.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

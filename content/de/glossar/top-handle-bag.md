@@ -16,7 +16,7 @@ Top-Handle Bag ist eine Tasche, die primär an einem oder zwei kurzen Henkeln au
 
 Top-Handle Bag ist eine Formbezeichnung nach der Trageweise. Der obere Henkel kann weich, fest, rund, kantig oder bügelartig sein. Der Taschenkörper reicht von kleinen, sehr strukturierten Modellen bis zu größeren Alltagstaschen. Viele Varianten besitzen zusätzlich einen abnehmbaren Schulterriemen, bleiben gestalterisch aber auf den kurzen Griff ausgerichtet.
 
-Anders als bei einer Tote Bag sind die Henkel meist deutlich kürzer und die Form häufig geschlossener. Die Tasche wird in der Hand, am Unterarm oder – bei ausreichender Henkelhöhe – kurz an der Schulter getragen. Verschlüsse, Klappen und Rahmen können die klare Wirkung zusätzlich verstärken.
+Anders als bei einer Tote Bag sind die Henkel meist deutlich kürzer und die Form häufig geschlossener. Die Tasche wird in der Hand, am Unterarm oder, bei ausreichender Henkelhöhe, kurz an der Schulter getragen. Verschlüsse, Klappen und Rahmen können die klare Wirkung zusätzlich verstärken.
 
 ## Einfach erklärt
 
@@ -32,7 +32,7 @@ Gleichzeitig ist sie nicht für jeden Tagesablauf gleich praktisch. Wer Fahrrad 
 
 ## Blick aus der Beratung
 
-Achte auf die Henkelhöhe – also den Abstand zwischen Taschenoberkante und Griffmitte. Sie entscheidet, ob der Unterarm bequem hindurchpasst und ob die Hand entspannt bleibt. Sehr starre Griffe können bei hohem Gewicht unangenehm werden. Prüfe außerdem, ob der Henkel beim Öffnen der Tasche im Weg ist.
+Achte auf die Henkelhöhe, also den Abstand zwischen Taschenoberkante und Griffmitte. Sie entscheidet, ob der Unterarm bequem hindurchpasst und ob die Hand entspannt bleibt. Sehr starre Griffe können bei hohem Gewicht unangenehm werden. Prüfe außerdem, ob der Henkel beim Öffnen der Tasche im Weg ist.
 
 Für einen klaren Business-Look funktionieren strukturierte Formen, ruhige Farben und ein sicherer Verschluss. Eine kleine Top-Handle Bag in Satin, Samt oder Metallic kann einen sinnlichen Abendlook präzisieren. Wer weniger formell wirken möchte, wählt weicheres Leder, textile Oberflächen oder einen größeren, weniger starren Korpus.
 

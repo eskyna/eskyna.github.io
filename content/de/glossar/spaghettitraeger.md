@@ -68,7 +68,7 @@ Bandeau-Top: Kommt vollständig ohne Träger aus.
 
 ## ESKYNA-Merksatz
 
-Spaghettiträger sind feine Linien mit großer Passformwirkung – wenige Millimeter Längenänderung können den ganzen Ausschnitt verändern.
+Spaghettiträger sind feine Linien mit großer Passformwirkung, wenige Millimeter Längenänderung können den ganzen Ausschnitt verändern.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

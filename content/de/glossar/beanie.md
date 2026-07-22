@@ -72,7 +72,7 @@ Barett: Runde, flache Mütze mit seitlich formbarer Silhouette.
 
 ## ESKYNA-Merksatz
 
-Die Beanie ist Winterfunktion direkt am Gesicht – Farbe, Strickfeinheit und Sitz bestimmen, ob sie sportlich oder klar wirkt.
+Die Beanie ist Winterfunktion direkt am Gesicht, Farbe, Strickfeinheit und Sitz bestimmen, ob sie sportlich oder klar wirkt.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

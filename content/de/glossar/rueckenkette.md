@@ -14,7 +14,7 @@ Rückenkette ist ein Schmuckstück, dessen dekorativer Teil über den Rücken f�
 
 ## Definition
 
-Die Rückenkette – im internationalen Modekontext häufig back necklace oder backdrop necklace genannt – wird so getragen, dass eine Kette, ein Anhänger oder mehrere feine Stränge entlang des Rückens sichtbar sind. Manche Modelle werden wie eine Halskette geschlossen und besitzen einen verlängerten rückwärtigen Schmuckteil. Andere sind als Y-förmige Konstruktion, Körperkette oder fest integriertes Schmuckelement eines Kleides gearbeitet.
+Die Rückenkette, im internationalen Modekontext häufig back necklace oder backdrop necklace genannt, wird so getragen, dass eine Kette, ein Anhänger oder mehrere feine Stränge entlang des Rückens sichtbar sind. Manche Modelle werden wie eine Halskette geschlossen und besitzen einen verlängerten rückwärtigen Schmuckteil. Andere sind als Y-förmige Konstruktion, Körperkette oder fest integriertes Schmuckelement eines Kleides gearbeitet.
 
 Die Rückenkette ist keine technisch einheitlich definierte Schmuckform. Entscheidend ist ihre Inszenierungsrichtung: Der optische Schwerpunkt liegt hinten statt am vorderen Dekolleté. Länge, Gewicht, Verschluss und Verlauf müssen deshalb zum Rückenausschnitt und zur Bewegung des Kleidungsstücks passen.
 
@@ -74,7 +74,7 @@ Kleiderrücken mit Schmuckdetail: Ketten oder Stränge sind fest am Kleid befest
 
 ## ESKYNA-Merksatz
 
-Eine Rückenkette schmückt nicht nur den Rücken – sie vollendet die Blickrichtung, die der Ausschnitt bereits vorgibt.
+Eine Rückenkette schmückt nicht nur den Rücken, sie vollendet die Blickrichtung, die der Ausschnitt bereits vorgibt.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

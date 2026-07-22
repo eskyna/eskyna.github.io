@@ -70,7 +70,7 @@ Combat Boot: Höher, robuster, stärker profiliert und militärisch inspiriert.
 
 ## ESKYNA-Merksatz
 
-Der Desert Boot ist der entspannte Mittler zwischen Sneaker und Schnürschuh – leicht, reduziert und nicht automatisch wetterfest.
+Der Desert Boot ist der entspannte Mittler zwischen Sneaker und Schnürschuh, leicht, reduziert und nicht automatisch wetterfest.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

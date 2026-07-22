@@ -72,7 +72,7 @@ Pocket Vest: Verteilt mehrere Taschen über ein Kleidungsstück statt an einem G
 
 ## ESKYNA-Merksatz
 
-Die Belt Bag ist Tasche und Linienwerkzeug zugleich – ihre Position entscheidet über Funktion und Wirkung.
+Die Belt Bag ist Tasche und Linienwerkzeug zugleich, ihre Position entscheidet über Funktion und Wirkung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

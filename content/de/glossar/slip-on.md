@@ -72,7 +72,7 @@ Ballerina: Flacher geschlossener Schuh mit weiter Öffnung, aber anderer Silhoue
 
 ## ESKYNA-Merksatz
 
-Beim Slip-on ersetzt die Passform den Verschluss – bequemes Anziehen darf nicht mit fehlendem Halt verwechselt werden.
+Beim Slip-on ersetzt die Passform den Verschluss, bequemes Anziehen darf nicht mit fehlendem Halt verwechselt werden.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

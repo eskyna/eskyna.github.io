@@ -16,7 +16,7 @@ Messenger Bag ist eine meist rechteckige Umhängetasche mit langem, verstellbare
 
 Die Messenger Bag orientiert sich an Taschen, die Kuriere und Zusteller körpernah quer über Schulter und Oberkörper tragen. Typisch sind ein breiter, stabiler Riemen, ein flacher bis mittelgroßer Taschenkörper und eine Klappe, die einen großen Teil der Vorderseite bedeckt. Viele Modelle besitzen Fächer für Dokumente, Technik und kleine Arbeitsutensilien.
 
-Im Modehandel wird der Begriff weit verwendet. Manche Varianten sind sportlich aus Nylon oder Canvas, andere aus glattem Leder und deutlich businessnaher. Entscheidend bleibt die funktionale, quer getragene Konstruktion – nicht eine bestimmte Dekoration.
+Im Modehandel wird der Begriff weit verwendet. Manche Varianten sind sportlich aus Nylon oder Canvas, andere aus glattem Leder und deutlich businessnaher. Entscheidend bleibt die funktionale, quer getragene Konstruktion, nicht eine bestimmte Dekoration.
 
 ## Einfach erklärt
 

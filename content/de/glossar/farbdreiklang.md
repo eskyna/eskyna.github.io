@@ -68,7 +68,7 @@ Dreifarbigkeit: Reine Feststellung, dass drei Farben vorhanden sind, ohne Aussag
 
 ## ESKYNA-Merksatz
 
-Ein Farbdreiklang ordnet drei unterschiedliche Farben – harmonisch tragbar wird er durch eine klare Hauptfarbe und abgestufte Nebenrollen.
+Ein Farbdreiklang ordnet drei unterschiedliche Farben, harmonisch tragbar wird er durch eine klare Hauptfarbe und abgestufte Nebenrollen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

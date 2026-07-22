@@ -32,7 +32,7 @@ Gleichzeitig beeinflusst der Schaft die Bein- und Saumlinie. Ein weiter mittelho
 
 Prüfe, ob der Schaft beim Gehen am Schienbein reibt und ob Schnallen wirklich verstellbar oder nur dekorativ sind. Das Eigengewicht kann erheblich sein. Wer lange Wege geht, sollte beide Schuhe mehrere Minuten tragen und Treppen testen.
 
-Für einen tragbaren Stilbruch reicht oft ein einziges robustes Element. Zu zartem Kleid können schlichte Biker Boots ohne viele Nieten moderner wirken als ein vollständig thematischer Look. Zu Lederjacke und schwarzer Jeans schafft eine andere Textur – etwa Strick oder Seide – mehr Tiefe.
+Für einen tragbaren Stilbruch reicht oft ein einziges robustes Element. Zu zartem Kleid können schlichte Biker Boots ohne viele Nieten moderner wirken als ein vollständig thematischer Look. Zu Lederjacke und schwarzer Jeans schafft eine andere Textur, etwa Strick oder Seide, mehr Tiefe.
 
 ## So nutzt du den Begriff praktisch
 
@@ -70,7 +70,7 @@ Ankle Boots: Allgemeiner Oberbegriff für knöchelhohe Boots.
 
 ## ESKYNA-Merksatz
 
-Biker Boots geben einem Look Bodenhaftung – ihre stärkste Wirkung entsteht oft im Kontrast zu weichen, klaren oder eleganten Teilen.
+Biker Boots geben einem Look Bodenhaftung, ihre stärkste Wirkung entsteht oft im Kontrast zu weichen, klaren oder eleganten Teilen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

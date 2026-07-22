@@ -70,7 +70,7 @@ Fahrhandschuhe: Kurze, griffige Modelle, oft mit Perforation oder Öffnungen.
 
 ## ESKYNA-Merksatz
 
-Handschuhe verlängern den Stil bis in die Bewegung – ihre Wirkung endet nicht an der Ärmelkante.
+Handschuhe verlängern den Stil bis in die Bewegung, ihre Wirkung endet nicht an der Ärmelkante.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

@@ -68,7 +68,7 @@ Tüll: Netzstruktur mit sichtbaren Öffnungen statt geschlossener Leinwandbindun
 
 ## ESKYNA-Merksatz
 
-Voile bringt Leichtigkeit durch feine Fäden und offene Dichte – wie tragbar er ist, entscheidet die geplante Transparenz.
+Voile bringt Leichtigkeit durch feine Fäden und offene Dichte, wie tragbar er ist, entscheidet die geplante Transparenz.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

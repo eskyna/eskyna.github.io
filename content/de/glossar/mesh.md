@@ -66,7 +66,7 @@ Lochstrick: Durch Strickmuster erzeugte Öffnungen, häufig mit handwerklicher o
 
 ## ESKYNA-Merksatz
 
-Mesh beschreibt die offene Struktur – erst Faser, Maschengröße und Spannung zeigen, wie transparent, weich und haltbar sie wirklich ist.
+Mesh beschreibt die offene Struktur, erst Faser, Maschengröße und Spannung zeigen, wie transparent, weich und haltbar sie wirklich ist.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

@@ -10,7 +10,7 @@ image_alt: "Feine goldfarbene Körperkette mit vertikaler Linie vom Hals über d
 lastmod: "2026-07-22"
 ---
 
-Körperkette – englisch Body Chain – ist ein Schmuckstück, das nicht nur am Hals oder Handgelenk, sondern über größere Bereiche des Oberkörpers, der Taille oder Hüfte verläuft.
+Körperkette, englisch Body Chain, ist ein Schmuckstück, das nicht nur am Hals oder Handgelenk, sondern über größere Bereiche des Oberkörpers, der Taille oder Hüfte verläuft.
 
 ## Definition
 
@@ -70,7 +70,7 @@ Waist Charms: Kleine Anhänger an Gürtel, Taille oder Gürtelschlaufe statt ein
 
 ## ESKYNA-Merksatz
 
-Eine Körperkette schmückt nicht nur eine Stelle – sie zeichnet eine neue Linie über den gesamten Look.
+Eine Körperkette schmückt nicht nur eine Stelle, sie zeichnet eine neue Linie über den gesamten Look.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

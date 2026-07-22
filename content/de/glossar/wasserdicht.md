@@ -68,7 +68,7 @@ Nahtversiegelung: Band, Beschichtung oder Schweißtechnik, die Nadel- und Nahtbe
 
 ## ESKYNA-Merksatz
 
-Wasserdicht ist eine Leistung des gesamten Kleidungsstücks – Stoff, Nähte, Verschlüsse und Sitz müssen gemeinsam funktionieren.
+Wasserdicht ist eine Leistung des gesamten Kleidungsstücks, Stoff, Nähte, Verschlüsse und Sitz müssen gemeinsam funktionieren.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

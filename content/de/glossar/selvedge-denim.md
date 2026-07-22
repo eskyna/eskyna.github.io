@@ -68,7 +68,7 @@ Kettstichsaum: Eine bestimmte Saumnaht, die häufig bei klassischen Jeans vorkom
 
 ## ESKYNA-Merksatz
 
-Selvedge ist eine besondere Stoffkante – ob die Jeans wirklich gut ist, entscheidet das Zusammenspiel aus Material, Verarbeitung und Passform.
+Selvedge ist eine besondere Stoffkante, ob die Jeans wirklich gut ist, entscheidet das Zusammenspiel aus Material, Verarbeitung und Passform.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -80,7 +80,7 @@ Stimmen Bund, Hüfte, Schritt und Beinweite bereits bei der Anprobe?
 
 Passt das Stoffgewicht zu Jahreszeit und Tragegewohnheit?
 
-Rechtfertigt die gesamte Verarbeitung den Preis – nicht nur das Selvedge-Detail?
+Rechtfertigt die gesamte Verarbeitung den Preis, nicht nur das Selvedge-Detail?
 
 ## Wann Beratung sinnvoll wird
 

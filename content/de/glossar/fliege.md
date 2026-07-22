@@ -14,7 +14,7 @@ Fliege ist ein um den Hals getragenes Stoffband, das vorn zu einer symmetrischen
 
 ## Definition
 
-Die Fliege – auf Englisch Bow Tie – besteht aus einem schmalen Halsband und zwei verbreiterten Enden, die zu einer Schleifenform gebunden werden. Es gibt Selbstbinder, vorgebundene Modelle mit Verschluss und seltener fest angenähte Varianten. Formen reichen von klassischer Butterfly-Silhouette über schmalere Batwing-Formen bis zu markanteren Diamond-Point-Enden.
+Die Fliege, auf Englisch Bow Tie, besteht aus einem schmalen Halsband und zwei verbreiterten Enden, die zu einer Schleifenform gebunden werden. Es gibt Selbstbinder, vorgebundene Modelle mit Verschluss und seltener fest angenähte Varianten. Formen reichen von klassischer Butterfly-Silhouette über schmalere Batwing-Formen bis zu markanteren Diamond-Point-Enden.
 
 Bei formellen Dresscodes ist nicht nur die Farbe entscheidend. Material, Hemd, Kragen und übrige Abendgarderobe müssen zusammenpassen. Eine schwarze Fliege gehört traditionell zum Smoking bei Black Tie; bei White Tie wird eine weiße Fliege zur entsprechenden Frackgarderobe getragen. Außerhalb strenger Dresscodes kann die Fliege frei interpretiert werden.
 

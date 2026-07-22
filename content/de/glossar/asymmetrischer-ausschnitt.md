@@ -78,7 +78,7 @@ Fühlst du dich mit der sichtbaren Hautfläche über mehrere Stunden wohl?
 
 Funktioniert eine realistische Unterwäschelösung?
 
-Unterstützt die Diagonale deine gewünschte Wirkung – weich, klar, festlich oder avantgardistisch?
+Unterstützt die Diagonale deine gewünschte Wirkung, weich, klar, festlich oder avantgardistisch?
 
 Lässt sich das Oberteil mit mindestens zwei vorhandenen Unterteilen kombinieren?
 

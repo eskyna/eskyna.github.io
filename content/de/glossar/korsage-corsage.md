@@ -14,7 +14,7 @@ Bustier, Korsett-Top, Body, Abnäher, Prinzessnaht einschließlich Wiener Naht, 
 
 ## Definition
 
-Im Deutschen bezeichnet Korsage – auch in der Schreibweise Corsage – meist ein eng anliegendes, formendes Oberteil. Es kann als separates Top, als Teil eines Abend- oder Brautkleides oder als Dessousstück gestaltet sein. Die Konstruktion reicht von weich gearbeiteten Modellen mit elastischen Einsätzen bis zu deutlich strukturierten Varianten mit Stäbchen, eingearbeiteten Cups und festem Verschluss.
+Im Deutschen bezeichnet Korsage, auch in der Schreibweise Corsage, meist ein eng anliegendes, formendes Oberteil. Es kann als separates Top, als Teil eines Abend- oder Brautkleides oder als Dessousstück gestaltet sein. Die Konstruktion reicht von weich gearbeiteten Modellen mit elastischen Einsätzen bis zu deutlich strukturierten Varianten mit Stäbchen, eingearbeiteten Cups und festem Verschluss.
 
 Der Begriff wird im Handel nicht völlig einheitlich verwendet. Manche Anbieter nennen bereits ein trägerloses, enges Top Korsage, andere reservieren das Wort für stärker aufgebaute Modelle. Deshalb ist die sichtbare und fühlbare Konstruktion aussagekräftiger als die Produktbezeichnung allein.
 

@@ -48,7 +48,7 @@ Richte die Pflege nach Material, Konstruktion und Herstellerangabe aus statt nac
 
 ## Beispiel aus dem Alltag
 
-Du suchst eine dunkle Jeans, die auch zu Blazer und Loafern ruhig wirkt. Ein Raw-Denim-Modell ohne starke Kontrastnähte kann diese Aufgabe erfüllen. Nach einigen Monaten wird es an Bewegungsstellen heller und lässiger. Möchtest du die anfänglich elegante Wirkung möglichst lange erhalten, wäschst du schonend und vermeidest unnötige Reibung – ohne Hygiene oder Materialpflege zu vernachlässigen.
+Du suchst eine dunkle Jeans, die auch zu Blazer und Loafern ruhig wirkt. Ein Raw-Denim-Modell ohne starke Kontrastnähte kann diese Aufgabe erfüllen. Nach einigen Monaten wird es an Bewegungsstellen heller und lässiger. Möchtest du die anfänglich elegante Wirkung möglichst lange erhalten, wäschst du schonend und vermeidest unnötige Reibung, ohne Hygiene oder Materialpflege zu vernachlässigen.
 
 ## Typisches Missverständnis
 

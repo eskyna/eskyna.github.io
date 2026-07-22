@@ -72,7 +72,7 @@ Baguette Bag: Kleine, längliche Shoulder Bag mit kurzem Sitz unter dem Arm.
 
 ## ESKYNA-Merksatz
 
-Shoulder Bag beschreibt zuerst die Trageweise – Form, Funktion und Wirkung musst du am konkreten Modell lesen.
+Shoulder Bag beschreibt zuerst die Trageweise, Form, Funktion und Wirkung musst du am konkreten Modell lesen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

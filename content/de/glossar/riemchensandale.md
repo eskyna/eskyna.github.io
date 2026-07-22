@@ -72,7 +72,7 @@ Flip-Flop: Wird hauptsächlich durch einen Zehensteg gehalten.
 
 ## ESKYNA-Merksatz
 
-Bei der Riemchensandale ist jeder Riemen zugleich Linie und Halt – schön ist sie erst, wenn beides funktioniert.
+Bei der Riemchensandale ist jeder Riemen zugleich Linie und Halt, schön ist sie erst, wenn beides funktioniert.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

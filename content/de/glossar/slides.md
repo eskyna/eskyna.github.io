@@ -70,7 +70,7 @@ Clog: Häufig fester, voluminöser und mit ausgeprägtem Fußbett oder Holzsohle
 
 ## ESKYNA-Merksatz
 
-Slides sind maximal reduziert – gerade deshalb müssen Riemen, Fußbett und Sohle besonders genau passen.
+Slides sind maximal reduziert, gerade deshalb müssen Riemen, Fußbett und Sohle besonders genau passen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

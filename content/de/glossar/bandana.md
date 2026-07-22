@@ -72,7 +72,7 @@ Neckerchief: Englischer Begriff für kleines Halstuch; große Überschneidung.
 
 ## ESKYNA-Merksatz
 
-Das Bandana ist ein kleines Tuch mit großer Codierung – Faltung, Farbe und Kontext bestimmen seine Botschaft.
+Das Bandana ist ein kleines Tuch mit großer Codierung, Faltung, Farbe und Kontext bestimmen seine Botschaft.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

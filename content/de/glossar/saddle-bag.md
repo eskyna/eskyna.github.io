@@ -72,7 +72,7 @@ Half-Moon Bag: Betont die Halbmondform, muss aber keine sattelinspirierte Klappe
 
 ## ESKYNA-Merksatz
 
-Die Saddle Bag verbindet eine weiche Kurve mit funktionaler Struktur – sattelinspiriert, aber nicht auf Western festgelegt.
+Die Saddle Bag verbindet eine weiche Kurve mit funktionaler Struktur, sattelinspiriert, aber nicht auf Western festgelegt.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

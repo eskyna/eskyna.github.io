@@ -68,7 +68,7 @@ Wasserdampfwiderstand: Messgröße dafür, wie stark eine textile Fläche den Du
 
 ## ESKYNA-Merksatz
 
-Thermoregulation entsteht aus Körper, Aktivität, Klima, Passform und Schichten – nicht aus einem einzelnen Zauberstoff.
+Thermoregulation entsteht aus Körper, Aktivität, Klima, Passform und Schichten, nicht aus einem einzelnen Zauberstoff.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

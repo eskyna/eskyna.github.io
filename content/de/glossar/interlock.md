@@ -68,7 +68,7 @@ Webstoff: Entsteht durch verkreuzte Kett- und Schussfäden statt durch Maschensc
 
 ## ESKYNA-Merksatz
 
-Interlock wirkt ruhig, weil zwei Maschenseiten zusammenarbeiten – wie stabil oder weich er trägt, entscheiden Garn, Gewicht und Rücksprung.
+Interlock wirkt ruhig, weil zwei Maschenseiten zusammenarbeiten, wie stabil oder weich er trägt, entscheiden Garn, Gewicht und Rücksprung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

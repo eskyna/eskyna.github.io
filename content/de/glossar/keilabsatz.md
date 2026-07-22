@@ -14,7 +14,7 @@ Keilabsatz ist ein Absatz, bei dem die erhöhte Fersenpartie als durchgehender k
 
 ## Definition
 
-Beim Keilabsatz – international häufig Wedge Heel genannt – wird die Ferse nicht von einem einzelnen schmalen oder blockförmigen Absatz getragen. Stattdessen bildet die Sohle unter dem Rückfuß einen zusammenhängenden Keil. Dieser kann massiv, ausgehöhlt, geschichtet, mit Bast umwickelt oder optisch vom Schuhoberteil abgesetzt sein.
+Beim Keilabsatz, international häufig Wedge Heel genannt, wird die Ferse nicht von einem einzelnen schmalen oder blockförmigen Absatz getragen. Stattdessen bildet die Sohle unter dem Rückfuß einen zusammenhängenden Keil. Dieser kann massiv, ausgehöhlt, geschichtet, mit Bast umwickelt oder optisch vom Schuhoberteil abgesetzt sein.
 
 Die tatsächliche Fußneigung hängt nicht nur von der sichtbaren Absatzhöhe ab. Eine erhöhte Sohle unter dem Vorderfuß reduziert die effektive Höhendifferenz. Ein hoher Keil mit Plateau kann sich daher flacher anfühlen als ein niedrigerer Keil ohne Vorderfußerhöhung.
 
@@ -72,7 +72,7 @@ Espadrille: Schuhkategorie mit Jute- oder Bastanmutung; kann flach oder mit Keil
 
 ## ESKYNA-Merksatz
 
-Der Keilabsatz gibt Höhe über Fläche – stabiler im Stand heißt jedoch nicht automatisch leichter beim Gehen.
+Der Keilabsatz gibt Höhe über Fläche, stabiler im Stand heißt jedoch nicht automatisch leichter beim Gehen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

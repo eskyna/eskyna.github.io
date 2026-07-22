@@ -72,7 +72,7 @@ Minaudière: Sehr kleine, feste Abendtasche oder Schmuckbox mit deutlich härter
 
 ## ESKYNA-Merksatz
 
-Die Baguette Bag setzt mit wenig Volumen eine klare horizontale Linie – ihr Wert liegt in Proportion, nicht in Stauraum.
+Die Baguette Bag setzt mit wenig Volumen eine klare horizontale Linie, ihr Wert liegt in Proportion, nicht in Stauraum.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

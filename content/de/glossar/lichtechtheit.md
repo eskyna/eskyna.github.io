@@ -24,7 +24,7 @@ Lichtechtheit zeigt, wie schnell eine Farbe durch Sonne oder starke Beleuchtung 
 
 ## Warum Lichtechtheit wichtig ist
 
-Kleidung liegt selten dauerhaft in direkter Sonne, kann aber im Schaufenster, Auto, offenen Kleiderschrank oder auf dem Balkon ungleichmäßig belichtet werden. Besonders sichtbar sind Unterschiede, wenn nur ein Teil des Kleidungsstücks dem Licht ausgesetzt war – etwa eine Schulter, ein Ärmel oder eine gefaltete Kante.
+Kleidung liegt selten dauerhaft in direkter Sonne, kann aber im Schaufenster, Auto, offenen Kleiderschrank oder auf dem Balkon ungleichmäßig belichtet werden. Besonders sichtbar sind Unterschiede, wenn nur ein Teil des Kleidungsstücks dem Licht ausgesetzt war, etwa eine Schulter, ein Ärmel oder eine gefaltete Kante.
 
 Lichtechtheit ist ein Teil der Farbechtheit. Sie beeinflusst, wie lange ein Farbton seine beabsichtigte Wirkung behält. Für häufig getragene Basics, intensive Akzentfarben und kostspielige Anlasskleidung kann das relevant sein. Trotzdem ist auch eine gute Lichtechtheit kein Schutz vor jeder langfristigen Veränderung.
 

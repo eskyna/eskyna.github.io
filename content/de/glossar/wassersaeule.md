@@ -70,7 +70,7 @@ Wasserdampfdurchgang: Betrifft den Transport von Wasserdampf nach außen und ist
 
 ## ESKYNA-Merksatz
 
-Die Wassersäule bewertet den Druckwiderstand einer geprüften Fläche – trocken bleibst du erst durch das Zusammenspiel von Material, Nähten, Schnitt und Nutzung.
+Die Wassersäule bewertet den Druckwiderstand einer geprüften Fläche, trocken bleibst du erst durch das Zusammenspiel von Material, Nähten, Schnitt und Nutzung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

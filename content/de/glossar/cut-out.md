@@ -68,7 +68,7 @@ Laced Up: Verbindet offene Bereiche häufig mit Schnürungen oder Bändern.
 
 ## ESKYNA-Merksatz
 
-Ein Cut-out ist ein kleines Fenster im Schnitt – seine Wirkung entsteht aus genauer Position, sauberer Kante und kontrollierter Bewegung.
+Ein Cut-out ist ein kleines Fenster im Schnitt, seine Wirkung entsteht aus genauer Position, sauberer Kante und kontrollierter Bewegung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

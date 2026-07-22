@@ -68,7 +68,7 @@ Druckstoff: Das Motiv liegt farblich auf dem Stoff und verändert nicht zwingend
 
 ## ESKYNA-Merksatz
 
-Damast trägt sein Muster in der Bindung – sichtbar wird es durch Licht, Bewegung und den Wechsel von matt zu glänzend.
+Damast trägt sein Muster in der Bindung, sichtbar wird es durch Licht, Bewegung und den Wechsel von matt zu glänzend.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

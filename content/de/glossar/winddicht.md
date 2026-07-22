@@ -68,7 +68,7 @@ Isolation: Bremst Wärmeverlust durch eingeschlossene Luft oder Materialaufbau; 
 
 ## ESKYNA-Merksatz
 
-Winddicht hält bewegte Luft draußen – wie warm und trocken du dich fühlst, entscheidet das gesamte Schichtsystem.
+Winddicht hält bewegte Luft draußen, wie warm und trocken du dich fühlst, entscheidet das gesamte Schichtsystem.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -84,7 +84,7 @@ Ist der Stoff angenehm genug, um ihn über längere Zeit und in Bewegung zu trag
 
 ## Wann Beratung sinnvoll wird
 
-Beratung kann helfen, wenn du in warmer Kleidung trotzdem frierst oder in Funktionsjacken schnell überhitzt. Oft fehlt nicht mehr Dicke, sondern eine passende Windbarriere – oder umgekehrt eine Möglichkeit, überschüssige Wärme abzugeben. Ein abgestimmtes Layering vermeidet unnötig schwere Einzelteile.
+Beratung kann helfen, wenn du in warmer Kleidung trotzdem frierst oder in Funktionsjacken schnell überhitzt. Oft fehlt nicht mehr Dicke, sondern eine passende Windbarriere, oder umgekehrt eine Möglichkeit, überschüssige Wärme abzugeben. Ein abgestimmtes Layering vermeidet unnötig schwere Einzelteile.
 
 ## Verwandte Begriffe
 

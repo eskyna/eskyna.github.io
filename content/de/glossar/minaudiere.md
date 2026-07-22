@@ -72,7 +72,7 @@ Jewellery Case: Aufbewahrungsbox für Schmuck, nicht zum Tragen als Outfit-Acces
 
 ## ESKYNA-Merksatz
 
-Die Minaudière ist Stauraum im Schmuckformat – klein in der Funktion, groß in der Wirkung.
+Die Minaudière ist Stauraum im Schmuckformat, klein in der Funktion, groß in der Wirkung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

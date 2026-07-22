@@ -70,7 +70,7 @@ Bandeau-BH: Unterwäschelösung, die unter Kleidung getragen wird und nicht zwin
 
 ## ESKYNA-Merksatz
 
-Beim Bandeau-Top ersetzt gute Konstruktion die Träger – Enge allein ist kein verlässlicher Halt.
+Beim Bandeau-Top ersetzt gute Konstruktion die Träger, Enge allein ist kein verlässlicher Halt.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

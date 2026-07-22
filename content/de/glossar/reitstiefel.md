@@ -72,7 +72,7 @@ Gummistiefel: Funktional wasserdicht und meist aus Gummi oder Kunststoff.
 
 ## ESKYNA-Merksatz
 
-Beim Reitstiefel entscheidet nicht nur die Schuhgröße – erst Fuß, Wade, Schafthöhe und Kniekehle ergeben eine gute Passform.
+Beim Reitstiefel entscheidet nicht nur die Schuhgröße, erst Fuß, Wade, Schafthöhe und Kniekehle ergeben eine gute Passform.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

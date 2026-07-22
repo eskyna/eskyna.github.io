@@ -16,7 +16,7 @@ Farbe-an-sich-Kontrast entsteht durch das direkte Nebeneinander deutlich verschi
 
 In der traditionellen Farbtheorie wird dieser Kontrast häufig mit mehreren reinen, klar unterscheidbaren Buntfarben dargestellt. Besonders deutlich wirkt er mit kräftigen Grundfarben eines gewählten Farbmodells. Je stärker Farben aufgehellt, abgedunkelt, vergraut oder einander angenähert werden, desto ruhiger fällt der Kontrast aus.
 
-Der Name betont, dass bereits die Verschiedenheit der Farbtöne eine Wirkung erzeugt – ohne dass zwingend ein Hell-Dunkel-, Warm-Kalt- oder Komplementärverhältnis vorliegen muss. In manchen Lehrtraditionen wird der Farbe-an-sich-Kontrast mit mindestens drei Farben erklärt. Für die praktische Gestaltung lässt sich jedoch schon bei zwei klar voneinander abweichenden Farbtönen ein deutlicher Buntkontrast wahrnehmen; eine dritte Farbe steigert häufig die plakative Vielfalt.
+Der Name betont, dass bereits die Verschiedenheit der Farbtöne eine Wirkung erzeugt, ohne dass zwingend ein Hell-Dunkel-, Warm-Kalt- oder Komplementärverhältnis vorliegen muss. In manchen Lehrtraditionen wird der Farbe-an-sich-Kontrast mit mindestens drei Farben erklärt. Für die praktische Gestaltung lässt sich jedoch schon bei zwei klar voneinander abweichenden Farbtönen ein deutlicher Buntkontrast wahrnehmen; eine dritte Farbe steigert häufig die plakative Vielfalt.
 
 ## Einfach erklärt
 
@@ -68,7 +68,7 @@ Analoge Farbharmonie: Verbindet benachbarte Farbtöne und wirkt meist weniger ge
 
 ## ESKYNA-Merksatz
 
-Der Farbe-an-sich-Kontrast lebt von klar unterscheidbaren Farbtönen – Ordnung entsteht durch Dominanz, Fläche und Wiederholung.
+Der Farbe-an-sich-Kontrast lebt von klar unterscheidbaren Farbtönen, Ordnung entsteht durch Dominanz, Fläche und Wiederholung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

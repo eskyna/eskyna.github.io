@@ -68,7 +68,7 @@ Simultankontrast: Wahrnehmungseffekt, bei dem die Umgebung beeinflusst, wie eine
 
 ## ESKYNA-Merksatz
 
-Komplementärfarben stehen sich im gewählten Farbkreis gegenüber – tragbar wird ihre Spannung durch Sättigung, Fläche und Position.
+Komplementärfarben stehen sich im gewählten Farbkreis gegenüber, tragbar wird ihre Spannung durch Sättigung, Fläche und Position.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

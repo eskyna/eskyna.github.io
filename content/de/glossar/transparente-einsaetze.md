@@ -68,7 +68,7 @@ Futter: Unterlage zur Bedeckung und Verarbeitung; meist nicht als sichtbares Tra
 
 ## ESKYNA-Merksatz
 
-Ein transparenter Einsatz ist nur optisch leicht – konstruktiv muss er Zug, Naht und Bewegung präzise mittragen.
+Ein transparenter Einsatz ist nur optisch leicht, konstruktiv muss er Zug, Naht und Bewegung präzise mittragen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

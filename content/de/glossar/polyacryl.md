@@ -68,7 +68,7 @@ Fleece: Stoff- beziehungsweise Oberflächenart, die aus Polyester, Polyacryl ode
 
 ## ESKYNA-Merksatz
 
-Polyacryl kann leicht und warm wirken – ob es lange schön bleibt, zeigt erst die Qualität von Garn, Masche und Oberfläche.
+Polyacryl kann leicht und warm wirken, ob es lange schön bleibt, zeigt erst die Qualität von Garn, Masche und Oberfläche.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

@@ -52,7 +52,7 @@ Wähle nicht automatisch eine größere Größe, wenn nur die Weite problematisc
 
 ## Beispiel aus dem Alltag
 
-Zwei Loafer in Größe 39 können sehr verschieden sitzen: Ein schmaler Leisten drückt am Ballen und hält die Ferse, ein breiterer bietet vorn Raum, ist hinten aber zu weit. Die Lösung kann ein anderes Modell oder eine andere Weite sein – nicht zwangsläufig eine andere Größe.
+Zwei Loafer in Größe 39 können sehr verschieden sitzen: Ein schmaler Leisten drückt am Ballen und hält die Ferse, ein breiterer bietet vorn Raum, ist hinten aber zu weit. Die Lösung kann ein anderes Modell oder eine andere Weite sein, nicht zwangsläufig eine andere Größe.
 
 ## Typisches Missverständnis
 
@@ -72,7 +72,7 @@ Schuhspanner: Wird nach dem Tragen in den fertigen Schuh eingesetzt; ist kein Fe
 
 ## ESKYNA-Merksatz
 
-Die Größe nennt eine Zahl, der Leisten bestimmt den Raum – gute Passform braucht beides.
+Die Größe nennt eine Zahl, der Leisten bestimmt den Raum, gute Passform braucht beides.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

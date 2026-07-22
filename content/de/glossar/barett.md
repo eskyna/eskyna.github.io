@@ -72,7 +72,7 @@ Hut: Oberbegriff, meist mit Krempe oder festerer Konstruktion.
 
 ## ESKYNA-Merksatz
 
-Das Barett ist eine formbare Stilfläche am Gesicht – seine Position entscheidet fast so stark wie seine Farbe.
+Das Barett ist eine formbare Stilfläche am Gesicht, seine Position entscheidet fast so stark wie seine Farbe.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

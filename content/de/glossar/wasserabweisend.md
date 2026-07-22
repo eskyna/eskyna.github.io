@@ -68,7 +68,7 @@ Hydrophob: Beschreibt eine geringe Wechselwirkung mit Wasser auf Material- oder 
 
 ## ESKYNA-Merksatz
 
-Wasserabweisend hält Tropfen zunächst an der Oberfläche – wasserdicht entscheidet sich erst bei Durchtritt, Nähten und Belastung.
+Wasserabweisend hält Tropfen zunächst an der Oberfläche, wasserdicht entscheidet sich erst bei Durchtritt, Nähten und Belastung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

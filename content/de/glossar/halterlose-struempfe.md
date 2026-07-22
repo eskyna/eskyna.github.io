@@ -68,7 +68,7 @@ Kompressionsstrumpf: Medizinisches oder funktionales Produkt mit definiertem Dru
 
 ## ESKYNA-Merksatz
 
-Halterlose Strümpfe sitzen gut, wenn Haftung und Umfang zusammenpassen – stärkeres Einschneiden ist kein Qualitätsbeweis.
+Halterlose Strümpfe sitzen gut, wenn Haftung und Umfang zusammenpassen, stärkeres Einschneiden ist kein Qualitätsbeweis.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

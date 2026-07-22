@@ -48,7 +48,7 @@ Reduziere unnötige Belastung durch raue Taschen, schlecht sitzende Träger oder
 
 ## Beispiel aus dem Alltag
 
-Zwei Stoffhosen fühlen sich ähnlich an. Bei einer täglichen Fahrradroutine wird der Sattelbereich jedoch stark belastet. Eine dichter gewebte Qualität mit gutem Sitz kann länger ruhig bleiben als ein sehr weicher, lockerer Stoff – auch wenn beide im Geschäft gleich hochwertig wirken.
+Zwei Stoffhosen fühlen sich ähnlich an. Bei einer täglichen Fahrradroutine wird der Sattelbereich jedoch stark belastet. Eine dichter gewebte Qualität mit gutem Sitz kann länger ruhig bleiben als ein sehr weicher, lockerer Stoff, auch wenn beide im Geschäft gleich hochwertig wirken.
 
 ## Typisches Missverständnis
 
@@ -68,7 +68,7 @@ Nahtfestigkeit: Beschreibt, wie belastbar die Verbindung der zugeschnittenen Tei
 
 ## ESKYNA-Merksatz
 
-Abriebfestigkeit bewertet Reibungsverschleiß – für echte Haltbarkeit müssen zusätzlich Passform, Nähte, Farbe und Pflege stimmen.
+Abriebfestigkeit bewertet Reibungsverschleiß, für echte Haltbarkeit müssen zusätzlich Passform, Nähte, Farbe und Pflege stimmen.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
@@ -84,7 +84,7 @@ Passt die erwartete Lebensdauer zum Preis und zur Tragehäufigkeit?
 
 ## Wann Beratung sinnvoll wird
 
-Beratung ist sinnvoll, wenn Hosen, Mäntel oder Strick bei dir immer an denselben Stellen verschleißen. Häufig lässt sich klären, ob Material, Passform, Bewegungszugabe oder ein wiederkehrender Kontakt – etwa Tasche, Tischkante oder Sattel – die Hauptursache ist.
+Beratung ist sinnvoll, wenn Hosen, Mäntel oder Strick bei dir immer an denselben Stellen verschleißen. Häufig lässt sich klären, ob Material, Passform, Bewegungszugabe oder ein wiederkehrender Kontakt, etwa Tasche, Tischkante oder Sattel, die Hauptursache ist.
 
 ## Verwandte Begriffe
 
