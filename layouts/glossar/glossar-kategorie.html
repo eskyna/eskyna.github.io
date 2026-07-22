@@ -28,9 +28,9 @@
     {{ end }}
   {{ end }}
 {{ else if $filterSubcategory }}
-  {{ $terms = sort (where $allGlossarPages "Params.subcategory" $filterSubcategory) "Title" "asc" }}
+  {{ $terms = sort (where $allGlossarPages "Params.subcategory" $filterSubcategory) "Params.term" "asc" }}
 {{ else }}
-  {{ $terms = sort (where $allGlossarPages "Params.category" $category) "Title" "asc" }}
+  {{ $terms = sort (where $allGlossarPages "Params.category" $category) "Params.term" "asc" }}
 {{ end }}
 {{ $isColorLexicon := false }}
 {{ with .File }}
