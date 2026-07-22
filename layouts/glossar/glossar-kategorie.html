@@ -28,9 +28,27 @@
     {{ end }}
   {{ end }}
 {{ else if $filterSubcategory }}
-  {{ $terms = sort (where $allGlossarPages "Params.subcategory" $filterSubcategory) "Params.term" "asc" }}
+  {{ $terms = where $allGlossarPages "Params.subcategory" $filterSubcategory }}
 {{ else }}
-  {{ $terms = sort (where $allGlossarPages "Params.category" $category) "Params.term" "asc" }}
+  {{ $terms = where $allGlossarPages "Params.category" $category }}
+{{ end }}
+
+{{ if eq (len $filterSlugs) 0 }}
+  {{ $sortableTerms := slice }}
+  {{ range $term := $terms }}
+    {{ $label := $term.Params.term | default $term.Title }}
+    {{ $sortKey := lower ($label | plainify) }}
+    {{ $sortKey = replace $sortKey "ä" "ae" }}
+    {{ $sortKey = replace $sortKey "ö" "oe" }}
+    {{ $sortKey = replace $sortKey "ü" "ue" }}
+    {{ $sortKey = replace $sortKey "ß" "ss" }}
+    {{ $sortableTerms = $sortableTerms | append (dict "sortKey" $sortKey "page" $term) }}
+  {{ end }}
+  {{ $sortableTerms = sort $sortableTerms "sortKey" "asc" }}
+  {{ $terms = slice }}
+  {{ range $entry := $sortableTerms }}
+    {{ $terms = $terms | append $entry.page }}
+  {{ end }}
 {{ end }}
 {{ $isColorLexicon := false }}
 {{ with .File }}
