@@ -159,7 +159,7 @@ Eine Übergangsjacke funktioniert besonders gut als Teil eines bewussten Layerin
 
 Eine einfache Outfitformel lautet:
 
-**Basisschicht + wärmende Schicht + Übergangsjacke**
+Basisschicht + wärmende Schicht + Übergangsjacke.
 
 Zum Beispiel:
 

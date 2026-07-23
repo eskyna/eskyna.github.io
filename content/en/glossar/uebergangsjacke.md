@@ -159,7 +159,7 @@ A transitional jacket works especially well as part of deliberate layering. That
 
 A simple outfit formula is:
 
-**base layer + warming layer + transitional jacket**
+base layer + warming layer + transitional jacket.
 
 For example:
 
