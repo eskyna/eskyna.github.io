@@ -6,7 +6,7 @@
   "scripts": {
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "npm run lint:css && npm run lint:md && npm run lint:copy",
+    "lint": "npm run lint:css && npm run lint:md && npm run lint:copy && npm run lint:glossary-images",
     "lint:css": "stylelint \"static/css/**/*.css\"",
     "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#public\" \"#static/estyleapp\" \"#static/estylepwa\" \"#estyle/pwa\"",
     "lint-and-format": "node bin/lint-and-format",
@@ -30,6 +30,7 @@
     "test:responsive": "playwright test tests/responsive.spec.js",
     "test:responsive:update": "playwright test tests/responsive.spec.js --update-snapshots",
     "lint:copy": "node bin/check-copy-style",
+    "lint:glossary-images": "node bin/check-glossary-image-match",
     "check:glossary-quality": "node bin/check-glossary-quality",
     "check:commercial-glossary": "node bin/check-commercial-glossary"
   },

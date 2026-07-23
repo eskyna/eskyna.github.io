@@ -1,0 +1,104 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+
+const ROOT = path.resolve(__dirname, "..");
+const CONTENT_DIR = path.join(ROOT, "content");
+
+function walk(dir) {
+  const out = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      out.push(...walk(full));
+    } else {
+      out.push(full);
+    }
+  }
+  return out;
+}
+
+function readFrontmatterImage(filePath) {
+  const source = fs.readFileSync(filePath, "utf8");
+  const lines = source.split(/\r?\n/);
+
+  if (lines[0] !== "---") {
+    return null;
+  }
+
+  for (let i = 1; i < lines.length; i += 1) {
+    const line = lines[i];
+    if (line === "---") {
+      break;
+    }
+
+    const match = line.match(/^image:\s*(.+)\s*$/);
+    if (match) {
+      return match[1].replace(/^['"]|['"]$/g, "").trim();
+    }
+  }
+
+  return null;
+}
+
+function isGlossaryEntry(filePath) {
+  const rel = path.relative(ROOT, filePath).split(path.sep).join("/");
+  if (!rel.startsWith("content/")) {
+    return false;
+  }
+
+  if (!rel.includes("/glossar/")) {
+    return false;
+  }
+
+  if (!rel.endsWith(".md")) {
+    return false;
+  }
+
+  // Category pages intentionally reuse cluster images.
+  if (rel.includes("/glossar/kategorie/")) {
+    return false;
+  }
+
+  return true;
+}
+
+function main() {
+  const files = walk(CONTENT_DIR).filter(isGlossaryEntry);
+  const mismatches = [];
+
+  for (const filePath of files) {
+    const image = readFrontmatterImage(filePath);
+    if (!image) {
+      continue;
+    }
+
+    const entrySlug = path.basename(filePath, ".md");
+    const imageSlug = path.basename(image, path.extname(image));
+
+    if (entrySlug !== imageSlug) {
+      mismatches.push({
+        file: path.relative(ROOT, filePath).split(path.sep).join("/"),
+        image,
+        expected: `images/glossar/${entrySlug}.png`,
+      });
+    }
+  }
+
+  if (mismatches.length === 0) {
+    console.log("Glossary image check passed.");
+    return 0;
+  }
+
+  console.error("Glossary image mismatch detected:");
+  for (const item of mismatches) {
+    console.error(`- ${item.file}`);
+    console.error(`  image:    ${item.image}`);
+    console.error(`  expected: ${item.expected}`);
+  }
+
+  return 1;
+}
+
+process.exit(main());
