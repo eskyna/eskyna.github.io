@@ -18,7 +18,7 @@ keywords:
   - jacket for in-between seasons
   - how to style a transitional jacket
 weight: 6
-image: images/glossar/kurzjacke.png
+image: images/glossar/uebergangsjacke.png
 image_alt: Editorial illustration of a light jacket for changeable weather
 relatedTerms:
   - title: Wardrobe Between Seasons

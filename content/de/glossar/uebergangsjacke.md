@@ -18,7 +18,7 @@ keywords:
   - jacke für den übergang
   - übergangsjacke kombinieren
 weight: 6
-image: images/glossar/kurzjacke.png
+image: images/glossar/uebergangsjacke.png
 image_alt: Editoriale Grafik mit einer leichten Jacke für wechselhaftes Wetter
 relatedTerms:
   - title: Übergangsgarderobe

@@ -18,7 +18,7 @@ keywords:
   - куртка на межсезонье
   - как сочетать переходную куртку
 weight: 6
-image: images/glossar/kurzjacke.png
+image: images/glossar/uebergangsjacke.png
 image_alt: Редакционная иллюстрация легкой куртки для переменчивой погоды
 relatedTerms:
   - title: Межсезонный гардероб
