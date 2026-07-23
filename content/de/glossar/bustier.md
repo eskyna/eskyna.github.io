@@ -85,6 +85,8 @@ Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/k
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Dessous und Lingerie](/glossar/dessous/), [Trägerloser BH und Bandeau-BH](/glossar/traegerloser-bh/), [BH-Passform](/glossar/bh-passform/).
+
 - [Materialfall](/glossar/materialfall/)
 - [Struktur](/glossar/struktur/)
 - [Glanzgrad](/glossar/glanzgrad/)

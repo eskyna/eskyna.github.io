@@ -1,10 +1,10 @@
 ---
-title: "Was ist Deadstock?"
-term: "Deadstock"
-description: "Deadstock bezeichnet ungenutzte Restbestände von Stoffen, Materialien oder fertigen Waren, die ursprünglich für Verkauf oder Produktion vorgesehen waren."
-category: "Garderobe & Alltag"
+title: Deadstock
+term: Deadstock
+description: Deadstock bezeichnet ungenutzte Restbestände von Stoffen, Materialien oder fertigen Waren, die ursprünglich für Verkauf oder Produktion vorgesehen waren.
+category: Garderobe & Alltag
 image: images/glossar/deadstock.png
-image_alt: "Glossar-Illustration zu Deadstock"
+image_alt: Glossar-Illustration zu Deadstock
 relatedTerms:
   - title: Upcycling
     url: /glossar/upcycling/
@@ -15,30 +15,48 @@ relatedTerms:
   - title: Transparenz
     url: /glossar/transparenz/
 keywords:
-  - "deadstock"
-  - "was ist deadstock"
-  - "deadstock"
-lastmod: "2026-07-18"
+  - deadstock
+  - was ist deadstock
+  - deadstock
+lastmod: "2026-07-22"
+additional_categories:
+  - Verbraucherwissen
 ---
 
 ## Definition
 
-Bestände können durch Überproduktion, stornierte Aufträge, Farbabweichungen, Saisonwechsel oder Geschäftsauflösungen entstehen. Der Begriff wird im Handel nicht immer einheitlich verwendet.
+Deadstock sind vorhandene, bislang nicht genutzte Material- oder Produktbestände, die ursprünglich für eine andere Produktion vorgesehen waren oder nicht regulär verkauft wurden. Der Begriff ist im Modehandel nicht einheitlich geschützt und kann je nach Anbieter Unterschiedliches bedeuten.
 
 ## Einfach erklärt
 
-Die Nutzung vorhandener Stoffe kann neue Materialproduktion vermeiden und kleinen Kollektionen besondere Qualität geben. Deadstock ist jedoch nicht automatisch nachhaltig: Zusammensetzung, Alter, Lagerung, Schadstoffe, Herkunft und verfügbare Menge können unklar sein. Für die Einordnung helfen Kriterien wie [Materialqualität](/glossar/materialqualitaet/) und [Transparenz](/glossar/transparenz/). In der Praxis wird das häufig erst im Kontext von [Circular Fashion](/glossar/circular-fashion/) sinnvoll bewertet. Ohne klare Einsatzlogik wird selbst ein scheinbar cleveres Reststück schnell zum [Fehlkauf](/glossar/fehlkauf/). Für eine tragfähige Entscheidung zählt außerdem, ob das Teil in eine [Nachhaltige Garderobe](/glossar/nachhaltige-garderobe/) passt. Bei Vintage-Sneakern wird Deadstock teils auch für ungetragene Originalware verwendet.
+Die Nutzung vorhandener Stoffe kann vermeiden, dass für eine kleine Kollektion neues Material produziert wird. Gleichzeitig bleiben wichtige Fragen offen: Warum entstand der Bestand? Wie lange und unter welchen Bedingungen wurde er gelagert? Ist die Faserzusammensetzung sicher bekannt? Gibt es genug Material für Ersatz oder Nachproduktion?
 
-## Worauf du achten solltest
+## Warum ist das für Verbraucher wichtig?
 
-- Frage nach Herkunft, Materialzusammensetzung und Grund des Restbestands.
-- Prüfe ältere Ware auf Lagerflecken, Brüchigkeit und Farbunterschiede.
-- Bewerte Deadstock als Ressourcennutzung, nicht als pauschales Nachhaltigkeitssiegel wie bei [Slow Fashion](/glossar/slow-fashion/) oder [Upcycling](/glossar/upcycling/).
+Verbraucherinnen und Verbraucher können den Begriff besser einordnen, wenn sie nach konkreten Informationen statt nach dem positiven Klang fragen. Gerade bei limitierten Kollektionen beeinflusst die fehlende Nachlieferbarkeit auch Reparatur und Ersatz.
+
+## Praxischeck
+
+Frage nach der genauen Herkunft: Stoffrest, Überproduktion, Fehlfarbe, Musterware oder fertige Altware?
+
+## Beispiel aus dem Alltag
+
+Ein kleines Label fertigt Röcke aus einem hochwertigen Stoffrest eines Webers. Das kann neue Produktion vermeiden. Erst Angaben zu Zusammensetzung, Lagerzustand, Verarbeitung und Menge zeigen jedoch, ob das konkrete Produkt auch qualitativ überzeugt.
 
 ## Typisches Missverständnis
 
-Deadstock bedeutet nicht automatisch Abfallstoff und auch nicht automatisch ökologisch einwandfreie Ware.
+Deadstock bedeutet weder automatisch Abfall noch automatisch nachhaltiges Material. Manche Bestände wären ohnehin genutzt worden, andere lagen jahrelang ohne klare Dokumentation. Die Einordnung braucht Kontext.
 
-## ESKYNA-Merksatz
+## Häufige Fragen
 
-> Deadstock nutzt Vorhandenes - wie sinnvoll das ist, zeigt erst die transparente Geschichte des Materials.
+### Ist Vintage-Kleidung Deadstock?
+
+Getragene Vintage-Kleidung ist Secondhand. Ungenutzte alte Originalware kann als „new old stock“ oder Deadstock bezeichnet werden, je nach Kontext.
+
+### Warum sind Deadstock-Kollektionen oft limitiert?
+
+Weil nur eine begrenzte Restmenge vorhanden ist und der gleiche Stoff häufig nicht nachproduziert oder nachbestellt werden kann.
+
+## Verwandte Begriffe und interne Links
+
+[Circular Fashion](/glossar/circular-fashion/), [Secondhand](/glossar/secondhand/)

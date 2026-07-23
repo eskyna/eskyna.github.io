@@ -1,9 +1,7 @@
 ---
-title: Was bedeutet Circular Fashion?
+title: Circular Fashion
 term: Circular Fashion
-description:
-  Circular Fashion beschreibt Mode, die möglichst lange genutzt, repariert, weitergegeben,
-  recycelt oder wiederverwertet wird.
+description: Circular Fashion beschreibt Mode, die möglichst lange genutzt, repariert, weitergegeben, recycelt oder wiederverwertet wird.
 category: Garderobe & Alltag
 tags:
   - circular fashion
@@ -16,7 +14,7 @@ keywords:
   - mode wiederverwertung
 weight: 49
 image: images/glossar/circular-fashion.png
-image_alt: "Glossar-Illustration zu Circular Fashion"
+image_alt: Glossar-Illustration zu Circular Fashion
 relatedTerms:
   - title: Slow Fashion
     url: /glossar/slow-fashion/
@@ -31,55 +29,48 @@ relatedTerms:
 faq:
   items:
     - q: Wie nutze ich „Circular Fashion“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+      a: Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
     - q: Gilt „Circular Fashion“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
-lastmod: "2026-07-09"
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+lastmod: "2026-07-22"
+additional_categories:
+  - Verbraucherwissen
 ---
 
 ## Definition
 
-**Circular Fashion** beschreibt einen Kreislaufgedanken in der Mode. Kleidung soll möglichst lange genutzt, repariert, weitergegeben, recycelt oder neu verarbeitet werden.
+Circular Fashion, zirkuläre Mode, überträgt Prinzipien der Kreislaufwirtschaft auf Kleidung. Ziel ist, Abfall und den Einsatz neuer Ressourcen zu verringern, indem Produkte langlebig, pflegbar, reparierbar, wiederverwendbar und möglichst gut trenn- oder recycelbar gestaltet werden.
 
 ## Einfach erklärt
 
-Der Begriff erweitert Nachhaltigkeit um die Frage, was nach dem Kauf passiert. Damit rückt Nutzung statt nur Anschaffung in den Mittelpunkt. Genau hier wird [Upcycling](/glossar/upcycling/) als konkrete Strategie besonders sichtbar.
+Zirkularität beginnt nicht erst beim Recycling. Sie beginnt bei Design und Materialwahl: Kann ein Reißverschluss ausgetauscht werden? Lässt sich das Kleidungsstück ändern? Sind Materialmischungen und Beschichtungen so gewählt, dass eine spätere Verwertung nicht unnötig erschwert wird?
 
-## Mini-Test vor dem Spiegel
+## Warum ist das für Verbraucher wichtig?
 
-Betrachte „Circular Fashion“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
-
-## ESKYNA-Merksatz
-
-Circular Fashion denkt Kleidung nicht bis zum Kauf, sondern bis zur nächsten Nutzung weiter.
+Der Begriff hilft, einzelne „nachhaltige“ Produktmerkmale in einen Lebenszyklus einzuordnen. Ein recycelter Faseranteil ist positiv, macht ein kurzlebiges oder nicht reparierbares Produkt aber noch nicht automatisch zirkulär.
 
 ## Praxischeck
 
-Wenn du den Begriff **Circular Fashion** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+Prüfe zuerst Langlebigkeit, Pflege und Reparierbarkeit statt nur den Recyclinghinweis.
 
-- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
-- Achte auf Wiederholungen in Farbe, Material und Silhouette.
-- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+## Beispiel aus dem Alltag
 
-## Beratungsblick
+Ein Mantel wird viele Jahre getragen, erhält einen neuen Reißverschluss, wird anschließend weiterverkauft und später als Materialquelle genutzt. Dieser Weg ist zirkulärer als ein Mantel, der zwar Recyclingfasern enthält, aber nach kurzer Zeit irreparabel beschädigt ist.
 
-In der Beratung ist **Circular Fashion** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+## Typisches Missverständnis
 
-Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+Circular Fashion ist nicht gleichbedeutend mit Recyclingmode. Ein Produkt kann aus recyceltem Material bestehen und trotzdem schlecht reparierbar oder kurzlebig sein. Umgekehrt kann ein langlebiges, gut weitergegebenes Teil viel zum Kreislauf beitragen.
 
-## Entscheidungsfrage
+## Häufige Fragen
 
-Frag dich bei **Circular Fashion**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
+### Ist Secondhand automatisch Circular Fashion?
 
-Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Circular Fashion** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+Secondhand verlängert die Nutzungsphase und ist damit ein wichtiger Baustein. Vollständige Zirkularität betrachtet zusätzlich Design, Reparatur und das Ende der Nutzung.
 
-## Verwandte Begriffe
+### Sind Mischgewebe grundsätzlich nicht zirkulär?
 
-- [Slow Fashion](/glossar/slow-fashion/)
-- [Upcycling](/glossar/upcycling/)
-- [Langlebigkeit](/glossar/langlebigkeit/)
-- [Wardrobe Audit](/glossar/wardrobe-audit/)
-- [Kleiderschrank-Inventur](/glossar/kleiderschrank-inventur/)
+Nicht grundsätzlich, aber sie können Trennung und Recycling erschweren. Entscheidend sind konkrete Materialkombination, Technologie und Rücknahmesystem.
+
+## Verwandte Begriffe und interne Links
+
+[Secondhand](/glossar/secondhand/), [Upcycling](/glossar/upcycling/), [Digitaler Produktpass](/glossar/digitaler-produktpass/)

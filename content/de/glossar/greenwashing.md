@@ -1,10 +1,10 @@
 ---
-title: "Was ist Greenwashing?"
-term: "Greenwashing"
-description: "Greenwashing bezeichnet Umweltkommunikation, die nachhaltiger klingt, als Produkt, Unternehmen oder Maßnahme tatsächlich belegt sind."
-category: "Garderobe & Alltag"
+title: Greenwashing
+term: Greenwashing
+description: Greenwashing bezeichnet Umweltkommunikation, die nachhaltiger klingt, als Produkt, Unternehmen oder Maßnahme tatsächlich belegt sind.
+category: Garderobe & Alltag
 image: images/glossar/greenwashing.png
-image_alt: "Glossar-Illustration zu Greenwashing"
+image_alt: Glossar-Illustration zu Greenwashing
 relatedTerms:
   - title: Transparenz
     url: /glossar/transparenz/
@@ -15,30 +15,48 @@ relatedTerms:
   - title: Materialqualität
     url: /glossar/materialqualitaet/
 keywords:
-  - "greenwashing"
-  - "was ist greenwashing"
-  - "greenwashing"
-lastmod: "2026-07-18"
+  - greenwashing
+  - was ist greenwashing
+  - greenwashing
+lastmod: "2026-07-22"
+additional_categories:
+  - Verbraucherwissen
 ---
 
 ## Definition
 
-Problematisch sind vage Begriffe, fehlende Nachweise, irrelevante Einzelaspekte oder Aussagen, die einen kleinen Vorteil hervorheben und größere Auswirkungen ausblenden.
+Greenwashing entsteht beispielsweise durch vage Begriffe, unklare Vergleichswerte, überbetonte Einzelmerkmale, naturbezogene Bildsprache oder Siegel ohne nachvollziehbare Kriterien. Eine Aussage kann dabei vollständig falsch, unvollständig oder formal richtig, aber irreführend gewichtet sein.
 
 ## Einfach erklärt
 
-Ein grünes Etikett, Naturbilder oder Wörter wie bewusst, eco und verantwortungsvoll sind noch kein Beweis. Gute Aussagen nennen konkrete Kriterien, Bezugsgrößen, Zeiträume, Zertifizierungen oder nachvollziehbare Daten. Dafür sind [Transparenz](/glossar/transparenz/) und belastbare Angaben zur [Materialqualität](/glossar/materialqualitaet/) entscheidend. Auch eine korrekte Einzelangabe kann irreführend wirken, wenn sie den Gesamteindruck verzerrt.
+„Nachhaltiger“, „umweltbewusst“ oder „klimafreundlich“ sagen ohne Bezugsgröße wenig aus. Eine belastbare Aussage nennt, worauf sie sich bezieht, gegenüber welcher Ausgangsbasis gemessen wurde, welcher Produktbereich erfasst ist und wie der Nachweis zustande kommt.
 
-## Worauf du achten solltest
+## Warum ist das für Verbraucher wichtig?
 
-- Suche nach konkreten Zahlen, Standards und unabhängig überprüfbaren Nachweisen.
-- Prüfe, worauf sich die Aussage genau bezieht: Material, Verpackung, Produktion oder gesamtes Produkt.
-- Achte darauf, welche wichtigen Informationen fehlen oder nur im Kleingedruckten stehen.
+Greenwashing erschwert echte Vergleiche und kann gut belegte Verbesserungen entwerten. Die EU hat ihre Verbraucherschutzregeln gegen irreführende Umweltangaben verschärft; zentrale neue Vorgaben sind ab dem 27. September 2026 anzuwenden. Für redaktionelle Texte ist deshalb eine besonders präzise Sprache sinnvoll.
+
+## Praxischeck
+
+Was genau wird behauptet: zum Produkt, zu einem Materialanteil, zur Verpackung oder zum ganzen Unternehmen?
+
+## Beispiel aus dem Alltag
+
+Eine Marke wirbt mit „50 Prozent weniger Wasser“, nennt aber weder Vergleichsprodukt noch Produktionsschritt oder Messmethode. Ohne diese Informationen lässt sich die Aussage nicht sinnvoll bewerten.
 
 ## Typisches Missverständnis
 
-Greenwashing bedeutet nicht nur eine vollständig falsche Aussage. Auch vage, selektive oder übertriebene Kommunikation kann irreführen, egal ob sie in [Fast Fashion](/glossar/fast-fashion/) oder vermeintlicher [Slow Fashion](/glossar/slow-fashion/) auftaucht.
+Nicht jede vereinfachte Nachhaltigkeitskommunikation ist automatisch Greenwashing. Entscheidend ist, ob der Gesamteindruck durch fehlende, unklare oder unverhältnismäßig hervorgehobene Informationen irreführt.
 
-## ESKYNA-Merksatz
+## Häufige Fragen
 
-> Je größer das grüne Versprechen, desto konkreter sollte der Nachweis sein.
+### Ist ein eigenes Nachhaltigkeitslabel einer Marke wertlos?
+
+Nicht automatisch. Es ist aber nur so aussagekräftig wie seine öffentlich zugänglichen Kriterien, Kontrollen, Geltungsbereiche und Konsequenzen.
+
+### Woran erkenne ich eine belastbare Umweltangabe?
+
+Sie ist spezifisch, verständlich, nachprüfbar, zeitlich eingeordnet und beschränkt ihren Anspruch auf den tatsächlich belegten Bereich.
+
+## Verwandte Begriffe und interne Links
+
+[Bio-Baumwolle](/glossar/bio-baumwolle/), [Circular Fashion](/glossar/circular-fashion/), [Transparenz](/glossar/transparenz/)

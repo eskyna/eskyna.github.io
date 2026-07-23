@@ -78,6 +78,8 @@ Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Komp
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Coquette Aesthetic](/glossar/coquette-aesthetic/), [Blokette Aesthetic](/glossar/blokette-aesthetic/).
+
 - [Ballerina](/glossar/ballerina/)
 - [Wickeloberteil](/glossar/wickeloberteil/)
 - [Rosa](/glossar/rosa/)

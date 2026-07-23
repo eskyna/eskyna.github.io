@@ -44,3 +44,7 @@ Y2K ist nicht jede Mode aus den 2000ern. Der Begriff bezeichnet eine bestimmte, 
 ## ESKYNA-Merksatz
 
 > Y2K wirkt modern, wenn die Erinnerung zitiert und nicht vollständig nachgespielt wird.
+
+## Verwandte Begriffe
+
+Weitere passende Begriffe in diesem Cluster: [Indie Sleaze](/glossar/indie-sleaze/), [Jorts](/glossar/jorts/), [Micro Shorts und Hotpants](/glossar/micro-shorts-hotpants/), [Bubble Skirt und Ballonrock](/glossar/bubble-skirt-ballonrock/).

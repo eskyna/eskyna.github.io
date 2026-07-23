@@ -90,6 +90,8 @@ Beratung ist hilfreich, wenn halterlose Strümpfe wiederholt rutschen, einschnei
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Strapsgürtel und Strapse](/glossar/strapsguertel/).
+
 Denier, Strumpfhose, Feinstrumpf, Stay-ups, Spitze, Transparenz, Rocklänge, hoher Beinschlitz, Lingerie Dressing
 
 ## Welche Fragen klärt dieser Begriff?

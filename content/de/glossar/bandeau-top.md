@@ -92,6 +92,8 @@ Beratung hilft, wenn trägerlose Tops regelmäßig rutschen, Cups an der falsche
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Trägerloser BH und Bandeau-BH](/glossar/traegerloser-bh/).
+
 Tube Top, Bustier, Korsage, Crop Top, Top, Schulterlinie, Ausschnittwirkung, High Waist, Layering, Transparenz
 
 ## Welche Fragen klärt dieser Begriff?

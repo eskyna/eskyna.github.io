@@ -92,6 +92,8 @@ Beratung unterstützt, wenn Lingerieteile im Schrank schön wirken, im Outfit ab
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Dessous und Lingerie](/glossar/dessous/), [Boob Tape](/glossar/boob-tape/), [Nipple Covers und Pasties](/glossar/nipple-covers/), [Babydoll](/glossar/babydoll/), [Negligé](/glossar/neglige/).
+
 Unterwäsche, Dessous, Bralette, Camisole, Slip Dress, Satin, Spitze, Transparenz, Korsage, Boudoir Chic, Underwear as Outerwear
 
 ## Welche Fragen klärt dieser Begriff?

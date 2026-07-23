@@ -94,7 +94,8 @@ cta_section:
   title: Ready for your wardrobe?
   text: Then let us rethink your closet.
   button: Book ESKYNA wardrobe
-url: /wardrobe/
+url: /en/wardrobe/
 aliases:
+  - /wardrobe/
   - /stilgarderobe/
 ---

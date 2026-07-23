@@ -1,11 +1,11 @@
 ---
-title: "Was ist Vanity Sizing?"
-term: "Vanity Sizing"
-description: "Vanity Sizing beschreibt die Praxis, Kleidungsgrößen kleiner zu benennen, obwohl die tatsächlichen Maße gleich bleiben oder größer ausfallen."
-category: "Schnitt, Proportion & Passform"
-subcategory: "Größen & Passform"
+title: Vanity Sizing
+term: Vanity Sizing
+description: Vanity Sizing beschreibt die Praxis, Kleidungsgrößen kleiner zu benennen, obwohl die tatsächlichen Maße gleich bleiben oder größer ausfallen.
+category: Schnitt, Proportion & Passform
+subcategory: Größen & Passform
 image: images/glossar/vanity-sizing.png
-image_alt: "Glossar-Illustration zu Vanity Sizing"
+image_alt: Glossar-Illustration zu Vanity Sizing
 relatedTerms:
   - title: Passform
     url: /glossar/passform/
@@ -16,32 +16,48 @@ relatedTerms:
   - title: Stilidentität
     url: /glossar/stilidentitaet/
 keywords:
-  - "vanity sizing"
-  - "was ist vanity sizing"
-  - "vanity sizing"
-lastmod: "2026-07-18"
+  - vanity sizing
+  - was ist vanity sizing
+  - vanity sizing
+lastmod: "2026-07-22"
+additional_categories:
+  - Verbraucherwissen
 ---
 
 ## Definition
 
-Dadurch kann eine Person bei einer Marke eine niedrigere Zahl tragen als bei einer anderen. Größen unterscheiden sich ohnehin nach Land, Zielgruppe, Schnitt und Markensystem; Vanity Sizing verstärkt diese Abweichungen und erschwert eine verlässliche Beurteilung von [Passform](/glossar/passform/).
+Vanity Sizing, auch schmeichelnde Größenkennzeichnung genannt, beschreibt die Praxis, Größenbezeichnungen so zu verschieben, dass Kundinnen und Kunden eine kleinere Zahl tragen können. Zusätzlich unterscheiden sich Größensysteme durch Marke, Schnitt, Zielgruppe, Land und Produktart.
 
 ## Einfach erklärt
 
-Die Zahl im Etikett ist deshalb kein verlässliches Körperurteil und kein Qualitätsmerkmal. Für Onlinekäufe sind konkrete Kleidungsmaße, Materialdehnung und Erfahrungswerte hilfreicher. Auch innerhalb derselben Marke können Kollektionen unterschiedlich ausfallen, obwohl die gewünschte [Proportion](/glossar/proportion/) ähnlich bleibt.
+Die Zahl im Etikett ist kein Körperurteil und kein einheitliches Messinstrument. Eine Größe 38 kann bei zwei Marken unterschiedliche Brust-, Taillen- oder Hüftmaße haben. Selbst innerhalb einer Marke können Schnitte und Kollektionen variieren.
 
-## Worauf du achten solltest
+## Warum ist das für Verbraucher wichtig?
 
-- Nutze Maßtabellen und vergleiche sie mit einem gut passenden eigenen Kleidungsstück.
-- Bestelle nicht automatisch dieselbe Zahl bei jeder Marke oder jedem Schnitt.
-- Entferne die emotionale Bedeutung von der Größe und bewerte nur Sitz, Komfort und [Wirkung](/glossar/wirkung/).
+Das Wissen über Vanity Sizing schützt vor unnötiger Selbstkritik, Fehlkäufen und Retouren. Es lenkt die Aufmerksamkeit von der Etikettzahl auf Sitz, Bewegungsfreiheit und tatsächliche Proportionen.
 
-Gerade langfristig schützt dich das vor Käufen, die eher dein Ego als deine [Stilidentität](/glossar/stilidentitaet/) bedienen.
+## Praxischeck
+
+Miss Brust, Taille, Hüfte und gegebenenfalls Innenbeinlänge regelmäßig und ohne zu straffes Maßband.
+
+## Beispiel aus dem Alltag
+
+Eine Hose passt bei Marke A in 38 und bei Marke B in 42, obwohl sich deine Körpermaße nicht verändert haben. Das ist kein Widerspruch, sondern zeigt, dass Größenbezeichnungen keine universelle Skala bilden.
 
 ## Typisches Missverständnis
 
-Vanity Sizing bedeutet nicht, dass eine einzelne richtige Größe existiert und alle anderen Marken falsch liegen. Bekleidungsgrößen sind grundsätzlich nur begrenzt standardisiert.
+Vanity Sizing erklärt nicht jede Größenabweichung. Unterschiedliche Schnittkonstruktionen, Passformziele, Materialien und Fertigungstoleranzen können ebenfalls dazu führen, dass zwei Teile mit gleicher Kennzeichnung verschieden sitzen.
 
-## ESKYNA-Merksatz
+## Häufige Fragen
 
-> Die Größe ist ein Etikett, keine Identität - entscheidend sind Maße, Passform und Bewegungsfreiheit.
+### Warum gibt es keine vollständig einheitlichen Kleidergrößen?
+
+Körperproportionen, Zielgruppen, Schnitte und Markensysteme unterscheiden sich. Maßtabellen schaffen Orientierung, ersetzen aber nicht immer die Anprobe.
+
+### Sind Produktmaße besser als Größenangaben?
+
+Meist ja, besonders online. Sie sind am nützlichsten, wenn klar ist, wie und an welcher Stelle gemessen wurde.
+
+## Verwandte Begriffe und interne Links
+
+[Passform](/glossar/passform/)

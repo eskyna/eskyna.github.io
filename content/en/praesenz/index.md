@@ -3,8 +3,9 @@ title: ESKYNA Presence
 description:
   Styling and image concept for business, photos, websites, LinkedIn, photo shoots, and stage appearances.
   ESKYNA Presence with Natalia Kleemann.
-url: /presence/
+url: /en/presence/
 aliases:
+  - /presence/
   - /praesenz/
 offers_back:
   href: /offers/

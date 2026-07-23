@@ -88,7 +88,8 @@ cta_section:
   title: Do you want regular support?
   text: Contact Natalia and discuss together how the guidance fits your life.
   button: Request ESKYNA guidance
-url: /guidance/
+url: /en/guidance/
 aliases:
+  - /guidance/
   - /begleitung/
 ---

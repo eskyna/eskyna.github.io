@@ -92,6 +92,8 @@ Beratung ist bei wichtigen Anlässen besonders wertvoll, weil kleine Unterschied
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Nipple Covers und Pasties](/glossar/nipple-covers/), [Boob Tape](/glossar/boob-tape/), [Klebe-BH und rückenfreier BH](/glossar/klebe-bh/), [Shapewear](/glossar/shapewear/).
+
 Transparenz, Sheer Dressing, Tüll, Illusion-Ausschnitt, Nude-Töne, Body, Lingerie Dressing, Abendkleid, Pailletten, Stickerei
 
 ## Welche Fragen klärt dieser Begriff?

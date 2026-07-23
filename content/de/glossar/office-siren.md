@@ -77,6 +77,8 @@ Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Komp
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Corpcore und Corporate Goth](/glossar/corpcore-corporate-goth/), [Dark Feminine Aesthetic](/glossar/dark-feminine-aesthetic/).
+
 - [Bleistiftrock](/glossar/bleistiftrock/)
 - [Business Professional](/glossar/business-professional/)
 - [Brille](/glossar/brille/)

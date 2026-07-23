@@ -30,7 +30,14 @@
 {{ else if $filterSubcategory }}
   {{ $terms = where $allGlossarPages "Params.subcategory" $filterSubcategory }}
 {{ else }}
-  {{ $terms = where $allGlossarPages "Params.category" $category }}
+  {{ $terms = slice }}
+  {{ range $term := $allGlossarPages }}
+    {{ $primaryCategory := $term.Params.category | default "" }}
+    {{ $additionalCategories := $term.Params.additional_categories | default (slice) }}
+    {{ if or (eq $primaryCategory $category) (in $additionalCategories $category) }}
+      {{ $terms = $terms | append $term }}
+    {{ end }}
+  {{ end }}
 {{ end }}
 
 {{ if eq (len $filterSlugs) 0 }}

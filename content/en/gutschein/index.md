@@ -3,8 +3,9 @@ title: ESKYNA Gift Voucher
 description:
   "Give personal style coaching as a gift: the ESKYNA voucher for more style confidence, clarity, and
   better outfit decisions."
-url: /gift-voucher/
+url: /en/gift-voucher/
 aliases:
+  - /gift-voucher/
   - /gutschein/
 offers_back:
   href: /offers/

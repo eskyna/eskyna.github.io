@@ -92,6 +92,8 @@ Beratung kann helfen, wenn der Stil im Editorialbild gefällt, im eigenen Alltag
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Dessous und Lingerie](/glossar/dessous/), [Nipple Covers und Pasties](/glossar/nipple-covers/), [Bralette](/glossar/bralette/), [Strapsgürtel und Strapse](/glossar/strapsguertel/).
+
 Lingerie Dressing, Bralette, Body, Bustier, Korsage, Slip Dress, Transparenz, Layering, Stilbruch, Naked Dress
 
 ## Welche Fragen klärt dieser Begriff?

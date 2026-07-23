@@ -12,22 +12,60 @@
 {{ $closeText := cond $isRuLang "Закрыть" (cond (eq $lang "en") "Close" "Schließen") }}
 {{ $relatedText := or $pageUI.related_text $sectionUI.related_text $homeUI.related_text "Verwandte Begriffe" }}
 {{ $currentCategory := .Params.category | default "" }}
+{{ $additionalCategories := .Params.additional_categories | default (slice) }}
+{{ $allCategories := slice }}
+{{ if $currentCategory }}{{ $allCategories = $allCategories | append $currentCategory }}{{ end }}
+{{ range $cat := $additionalCategories }}
+  {{ if not (in $allCategories $cat) }}
+    {{ $allCategories = $allCategories | append $cat }}
+  {{ end }}
+{{ end }}
+{{ if in $allCategories "Verbraucherwissen" }}
+  {{ $orderedCategories := slice "Verbraucherwissen" }}
+  {{ range $cat := $allCategories }}
+    {{ if ne $cat "Verbraucherwissen" }}
+      {{ $orderedCategories = $orderedCategories | append $cat }}
+    {{ end }}
+  {{ end }}
+  {{ $allCategories = $orderedCategories }}
+{{ end }}
 {{ $categoryPage := false }}
+{{ $categoryPageMap := dict }}
 {{ $categorySiblings := slice }}
-{{ if $currentCategory }}
+{{ if gt (len $allCategories) 0 }}
   {{ with .CurrentSection }}
     {{ $categoryPages := where .RegularPages "Params.is_glossar_category" true }}
-    {{ $matchingCategoryPages := where $categoryPages "Params.glossar_category" $currentCategory }}
-    {{ if gt (len $matchingCategoryPages) 0 }}
-      {{ $categoryPage = index $matchingCategoryPages 0 }}
-    {{ end }}
     {{ $allTerms := where .RegularPages "Params.is_glossar_category" "ne" true }}
-    {{ $sameCategoryTerms := sort (sort (where $allTerms "Params.category" $currentCategory) "Title" "asc") "Params.weight" "asc" }}
-    {{ range $sameCategoryTerms }}
-      {{ if ne .Permalink $.Permalink }}
-        {{ $categorySiblings = $categorySiblings | append . }}
+    {{ $siblingScratch := newScratch }}
+    {{ $siblingScratch.Set "items" (slice) }}
+    {{ $seenSiblings := dict }}
+
+    {{ range $categoryLabel := $allCategories }}
+      {{ $matchingCategoryPages := where $categoryPages "Params.glossar_category" $categoryLabel }}
+      {{ if gt (len $matchingCategoryPages) 0 }}
+        {{ $categoryMatch := index $matchingCategoryPages 0 }}
+        {{ $categoryPageMap = merge $categoryPageMap (dict $categoryLabel $categoryMatch) }}
+        {{ if not $categoryPage }}
+          {{ $categoryPage = $categoryMatch }}
+        {{ end }}
+      {{ end }}
+
+      {{ range $term := $allTerms }}
+        {{ $primaryCategory := $term.Params.category | default "" }}
+        {{ $extraCategories := $term.Params.additional_categories | default (slice) }}
+        {{ if or (eq $primaryCategory $categoryLabel) (in $extraCategories $categoryLabel) }}
+          {{ if ne $term.Permalink $.Permalink }}
+            {{ if not (index $seenSiblings $term.RelPermalink) }}
+              {{ $seenSiblings = merge $seenSiblings (dict $term.RelPermalink true) }}
+              {{ $siblingScratch.Add "items" (slice $term) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
       {{ end }}
     {{ end }}
+
+    {{ $categorySiblings = $siblingScratch.Get "items" }}
+    {{ $categorySiblings = sort (sort $categorySiblings "Title" "asc") "Params.weight" "asc" }}
   {{ end }}
 {{ end }}
 {{ $categorySiblings = first 6 $categorySiblings }}
@@ -59,11 +97,14 @@
       <div class="glossar-hero-copy">
         <a class="back-link" href="{{ $glossaryHref }}" title="{{ $backText }}">{{ $backText }}</a>
 
-        {{ with .Params.category }}
-          {{ if $categoryPage }}
-          <a class="eyebrow glossar-category glossar-category-link" href="{{ $categoryPage.RelPermalink }}" title="{{ . | plainify }}">{{ . }}</a>
-          {{ else }}
-          <p class="eyebrow glossar-category">{{ . }}</p>
+        {{ if gt (len $allCategories) 0 }}
+          {{ range $cat := $allCategories }}
+            {{ $catPage := index $categoryPageMap $cat }}
+            {{ if $catPage }}
+          <a class="eyebrow glossar-category glossar-category-link" href="{{ $catPage.RelPermalink }}" title="{{ $cat | plainify }}">{{ $cat }}</a>
+            {{ else }}
+          <p class="eyebrow glossar-category">{{ $cat }}</p>
+            {{ end }}
           {{ end }}
         {{ end }}
 
@@ -159,7 +200,7 @@
         {{ if gt (len $categorySiblings) 0 }}
         <aside class="glossar-category-context" aria-labelledby="glossar-category-context-heading">
           <div class="glossar-category-context-copy">
-            <p class="glossar-category-context-kicker">{{ .Params.category }}</p>
+            <p class="glossar-category-context-kicker">{{ delimit $allCategories " · " }}</p>
             <h3 id="glossar-category-context-heading">{{ $categoryExploreHeading }}</h3>
             <p>{{ $categoryExploreIntro }}</p>
           </div>

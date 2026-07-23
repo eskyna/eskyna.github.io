@@ -1,10 +1,10 @@
 ---
-title: "Was ist Fast Fashion?"
-term: "Fast Fashion"
-description: "Fast Fashion bezeichnet ein Geschäftsmodell mit sehr schnellen Kollektionswechseln, hohen Stückzahlen und stark preisgetriebener Trendproduktion."
-category: "Garderobe & Alltag"
+title: Fast Fashion
+term: Fast Fashion
+description: Fast Fashion bezeichnet ein Geschäftsmodell mit sehr schnellen Kollektionswechseln, hohen Stückzahlen und stark preisgetriebener Trendproduktion.
+category: Garderobe & Alltag
 image: images/glossar/fast-fashion.png
-image_alt: "Glossar-Illustration zu Fast Fashion"
+image_alt: Glossar-Illustration zu Fast Fashion
 relatedTerms:
   - title: Slow Fashion
     url: /glossar/slow-fashion/
@@ -15,30 +15,48 @@ relatedTerms:
   - title: Materialqualität
     url: /glossar/materialqualitaet/
 keywords:
-  - "fast fashion"
-  - "was ist fast fashion"
-  - "fast fashion"
-lastmod: "2026-07-18"
+  - fast fashion
+  - was ist fast fashion
+  - fast fashion
+lastmod: "2026-07-22"
+additional_categories:
+  - Verbraucherwissen
 ---
 
 ## Definition
 
-Neue Looks werden in kurzen Abständen entwickelt, hergestellt und vermarktet. Das Modell fördert häufig kurze Nutzungszyklen und hohen Materialdurchsatz, ist aber nicht allein über einen bestimmten Verkaufspreis definiert. Als Gegenmodell wird oft [Slow Fashion](/glossar/slow-fashion/) genannt.
+Fast Fashion beschreibt ein Produktions- und Vertriebssystem mit kurzen Entwicklungszeiten, häufig wechselnden Kollektionen, hohem Mengendruck und starker Preis- und Trendorientierung. Ziel ist, Kaufanreize schnell und wiederholt zu erzeugen.
 
 ## Einfach erklärt
 
-Ein günstiges Kleidungsstück ist nicht automatisch Fast Fashion, und ein teures Teil nicht automatisch verantwortungsvoll produziert. Aussagekräftiger sind Kollektionsgeschwindigkeit, Mengen, [Transparenz](/glossar/transparenz/), Qualität und die Frage, wie lange ein Produkt realistisch genutzt werden kann. Gerade die reale [Langlebigkeit](/glossar/langlebigkeit/) trennt kurzfristige Trendkäufe oft von tragfähigen Garderobe-Entscheidungen. Auch Marketingaussagen sollten auf [Greenwashing](/glossar/greenwashing/) geprüft werden.
+Nicht jedes preiswerte Kleidungsstück ist automatisch Fast Fashion und nicht jedes teure Produkt stammt aus einem langsamen System. Entscheidend ist das Gesamtmodell: Wie häufig erscheinen neue Produkte? Wie groß sind Mengen und Zeitdruck? Wie transparent sind Lieferkette, Material und Haltbarkeit?
 
-## Worauf du achten solltest
+## Warum ist das für Verbraucher wichtig?
 
-- Prüfe [Materialqualität](/glossar/materialqualitaet/), Verarbeitung und [Kombinierbarkeit](/glossar/kombinierbarkeit/) unabhängig vom niedrigen Preis.
-- Frage dich, ob du das Teil auch ohne den aktuellen Trend häufig tragen würdest.
-- Achte auf nachvollziehbare Informationen zu Herstellung, [Pflege](/glossar/pflege/) und Haltbarkeit.
+Der Begriff hilft, Verkaufsmechanismen wie künstliche Verknappung, Dauer-Rabatte und sehr schnelle Trendwechsel zu erkennen. Dadurch wird die Kaufentscheidung weniger vom Tempo des Angebots bestimmt.
+
+## Praxischeck
+
+Frage dich, ob du das Teil auch ohne Rabatt, Countdown oder Trendbezug kaufen würdest.
+
+## Beispiel aus dem Alltag
+
+Ein Onlineshop stellt täglich neue Trendteile ein und markiert sie sofort als knapp. Die Geschwindigkeit erschwert Vergleich und Nachdenken. Ein gespeicherter Warenkorb und eine spätere Prüfung anhand deiner Kaufkriterien nehmen dem System einen Teil dieses Drucks.
 
 ## Typisches Missverständnis
 
-Fast Fashion ist nicht einfach ein Synonym für preiswerte Mode. Es beschreibt vor allem Tempo, Volumen und kurze Trendzyklen des Systems.
+Fast Fashion lässt sich nicht allein an einem Preisschild erkennen. Auch höherpreisige Marken können schnell, mengengetrieben und trendabhängig arbeiten. Umgekehrt beweist ein niedriger Preis nicht automatisch das gesamte Geschäftsmodell.
 
-## ESKYNA-Merksatz
+## Häufige Fragen
 
-> Schnell gekauft wird nicht automatisch schnell getragen - entscheidend ist, welches System und welche Nutzung hinter dem Teil stehen.
+### Ist jeder Kauf bei einer Fast-Fashion-Marke falsch?
+
+Eine verantwortliche Entscheidung lässt sich nicht auf persönliche Schuld reduzieren. Hilfreich sind weniger spontane Käufe, lange Nutzung, Pflege und ein kritischer Blick auf Unternehmenspraktiken.
+
+### Was ist der Unterschied zu Ultra Fast Fashion?
+
+Der Begriff wird für eine nochmals beschleunigte, stark datengetriebene Variante mit extrem kurzen Produktzyklen und sehr großen Online-Sortimenten verwendet.
+
+## Verwandte Begriffe und interne Links
+
+[Slow Fashion](/glossar/slow-fashion/), [Greenwashing](/glossar/greenwashing/), [Langlebigkeit](/glossar/langlebigkeit/)

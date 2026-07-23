@@ -3,8 +3,9 @@ title: ESKYNA Style Sense
 description:
   Develop more confidence with colors, cuts, proportions, and personal style direction. ESKYNA Style
   Sense with Natalia Kleemann.
-url: /style-sense/
+url: /en/style-sense/
 aliases:
+  - /style-sense/
   - /stilgefuehl/
 offers_back:
   href: /offers/

@@ -22,13 +22,7 @@ TRANSIENT_HTTP_STATUSES = {429, 500, 502, 503, 504}
 # limited crawls (max-pages) and later surface as production 404s.
 KNOWN_BROKEN_PATHS = {
     "/en/offers/",
-    "/en/style-question/",
-    "/en/style-sense/",
-    "/en/presence/",
-    "/en/guidance/",
-    "/en/gift-voucher/",
     "/en/wardrobe-check/",
-    "/en/wardrobe/",
     "/rus/datenschutz/",
     "/glossar/layering-länge/",
     "/glossar/gürtel/",

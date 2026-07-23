@@ -139,7 +139,14 @@
     {{ $categoryLabel := .Params.glossar_category | default .Title }}
     {{ with .CurrentSection }}
       {{ $sectionTerms := where .RegularPages "Params.is_glossar_category" "ne" true }}
-      {{ $itemPages = where $sectionTerms "Params.category" $categoryLabel }}
+      {{ $itemPages = slice }}
+      {{ range $term := $sectionTerms }}
+        {{ $primaryCategory := $term.Params.category | default "" }}
+        {{ $additionalCategories := $term.Params.additional_categories | default (slice) }}
+        {{ if or (eq $primaryCategory $categoryLabel) (in $additionalCategories $categoryLabel) }}
+          {{ $itemPages = $itemPages | append $term }}
+        {{ end }}
+      {{ end }}
     {{ end }}
   {{ end }}
   {{ $itemPages = sort (sort $itemPages "Title" "asc") "Params.weight" "asc" }}

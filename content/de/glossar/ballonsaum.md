@@ -52,6 +52,8 @@ Einen Ballonsaum am besten mit schmalen oder ruhigen Gegenspielern kombinieren: 
 
 ## Verwandte Begriffe
 
+Weitere passende Begriffe in diesem Cluster: [Bubble Skirt und Ballonrock](/glossar/bubble-skirt-ballonrock/).
+
 - [Rock](/glossar/rock/)
 - [Kleid](/glossar/kleid/)
 - [Minirock](/glossar/minirock/)

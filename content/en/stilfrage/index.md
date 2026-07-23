@@ -90,7 +90,8 @@ cta_section:
   title: Do you have a concrete style question?
   text: Send Natalia your question or book a live shopping check.
   button: Ask your style question
-url: /style-question/
+url: /en/style-question/
 aliases:
+  - /style-question/
   - /stilfrage/
 ---

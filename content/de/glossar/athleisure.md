@@ -42,3 +42,7 @@ Athleisure ist nicht einfach Sportkleidung, die zufällig im Alltag getragen wir
 ## ESKYNA-Merksatz
 
 > Athleisure wirkt überzeugend, wenn Komfort sichtbar geplant und nicht nur bequem gewählt ist.
+
+## Verwandte Begriffe
+
+Weitere passende Begriffe in diesem Cluster: [Blokecore](/glossar/blokecore/).

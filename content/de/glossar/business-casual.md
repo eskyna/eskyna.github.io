@@ -149,3 +149,7 @@ Im modernen Berufsalltag zugänglich wirken, ohne Professionalität zu verlieren
 Unterstützung wird sinnvoll, wenn Kleidung nicht mehr nur privat funktionieren soll, sondern auch berufliche Wirkung, Sichtbarkeit oder Verantwortung trägt. Je wichtiger ein Termin, eine Bühne oder eine neue Rolle wird, desto stärker zählt die Frage, welche Botschaft dein Look sendet. Ein klarer Blick verhindert, dass du zu streng, zu zufällig oder zu zurückhaltend wirkst.
 
 <!-- commercial-depth-end -->
+
+## Verwandte Begriffe
+
+Weitere passende Begriffe in diesem Cluster: [Corpcore und Corporate Goth](/glossar/corpcore-corporate-goth/).

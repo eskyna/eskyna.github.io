@@ -90,3 +90,7 @@ Wenn du den Begriff **Shorts** auf ein Outfit überträgst, prüfe nicht nur das
 In der Beratung ist **Shorts** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+
+## Verwandte Begriffe
+
+Weitere passende Begriffe in diesem Cluster: [Jorts](/glossar/jorts/), [Micro Shorts und Hotpants](/glossar/micro-shorts-hotpants/).
