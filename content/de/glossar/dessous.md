@@ -2,7 +2,7 @@
 title: "Was sind Dessous, und was bedeutet Lingerie?"
 term: "Dessous und Lingerie"
 description: "Was sind Dessous, was bedeutet Lingerie und wie unterscheiden sie sich von gewöhnlicher Unterwäsche? Formen, Materialien und Styling klar erklärt."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "dessous"
 seoTitle: "Dessous und Lingerie: Bedeutung und Unterschiede | ESKYNA"
 image: "images/glossar/dessous.png"

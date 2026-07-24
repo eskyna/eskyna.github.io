@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Bordeaux
 
-Der Begriff „Bordeaux“ leitet sich historisch von der gleichnamigen französischen Weinbauregion und dem dort erzeugten, tiefen Rotwein ab. Als Modefarbe steht Bordeaux – oft auch synonym als Weinrot bezeichnet – für zeitlose Eleganz, Erhabenheit und eine subtile Extravaganz. Die **Bordeaux-Farbe** besitzt die emotionale Tiefe und Wärme von klassischem Rot, strahlt jedoch eine weitaus ruhigere, erwachsenere und edlere Aura aus. Sie bringt sofort optische Präsenz in jedes Outfit, ohne dabei aufdringlich oder laut zu wirken. Modehistorisch etablierte sich der Ton bereits im 19. Jahrhundert als Symbol für bürgerlichen Wohlstand und aristokratische Noblesse und ist heute aus der klassischen Garderobe nicht mehr wegzudenken.
+Der Begriff „Bordeaux“ leitet sich historisch von der gleichnamigen französischen Weinbauregion und dem dort erzeugten, tiefen Rotwein ab. Als Modefarbe steht Bordeaux, oft auch synonym als Weinrot bezeichnet, für zeitlose Eleganz, Erhabenheit und eine subtile Extravaganz. Die **Bordeaux-Farbe** besitzt die emotionale Tiefe und Wärme von klassischem Rot, strahlt jedoch eine weitaus ruhigere, erwachsenere und edlere Aura aus. du bringt sofort optische Präsenz in jedes Outfit, ohne dabei aufdringlich oder laut zu wirken. Modehistorisch etablierte sich der Ton bereits im 19. Jahrhundert als Symbol für bürgerlichen Wohlstand und aristokratische Noblesse und ist heute aus der klassischen Garderobe nicht mehr wegzudenken.
 
 ## Wie Bordeaux wirkt
 
@@ -51,16 +51,16 @@ Bordeaux entfaltet je nach Material und Lichteinfall eine faszinierende Wirkung,
 
 Die textile Struktur bestimmt die finale Farbwirkung maßgeblich:
 
-- **Samt & Velours:** In diesen schweren Stoffen wirkt Bordeaux extrem tief, geheimnisvoll und festlich – eine Reminiszenz an historische Prunkgewänder.
+- **Samt & Velours:** In diesen schweren Stoffen wirkt Bordeaux extrem tief, geheimnisvoll und festlich, eine Reminiszenz an historische Prunkgewänder.
 - **Schurwolle & Kaschmir:** Hier strahlt der Ton wohlige Wärme, Gemütlichkeit und traditionellen Stil aus.
 - **Leder:** Verleiht der Farbe eine urbane, moderne Note mit einer dezenten Portion Edge.
 - **Seide, Satin & Brokat:** Bringen die Nuance zum Schimmern und eignen sich hervorragend für die gehobene Abendgarderobe.
 
 ## Die Nuancen von Bordeaux
 
-- **Weinrot:** Der absolute Klassiker – tief, ausgewogen und hochgradig elegant. Lässt sich hervorragend mit Navy, Creme und Schwarz kombinieren.
-- **[Aubergine](/glossar/aubergine/)-Bordeaux:** Eine kühlere Variante mit einem spürbaren Violett-Anteil. Sie wirkt modern, avantgardistisch und besonders geheimnisvoll.
-- **Braunrotes Bordeaux:** Eine erdige, warme Nuance (oft auch als Ochsenblut bezeichnet). Sie harmoniert perfekt mit Camel, Espresso und warmen Goldtönen.
+- **Weinrot:** Der absolute Klassiker, tief, ausgewogen und hochgradig elegant. Lässt sich hervorragend mit Navy, Creme und Schwarz kombinieren.
+- **[Aubergine](/glossar/aubergine/)-Bordeaux:** Eine kühlere Variante mit einem spürbaren Violett-Anteil. du wirkt modern, avantgardistisch und besonders geheimnisvoll.
+- **Braunrotes Bordeaux:** Eine erdige, warme Nuance (oft auch als Ochsenblut bezeichnet). du harmoniert perfekt mit Camel, Espresso und warmen Goldtönen.
 - **Beerenton:** Ein weicherer, leicht aufgehellter Ton. Er wirkt verspielt-feminin und passt fantastisch zu softem Rosa, Grau und hellem Denim.
 - **Dunkles Rubin:** Ein besonders klares, brillantes Rot mit kühlem Unterton. Es entfaltet seine edle Wirkung vor allem auf glatten, glänzenden Oberflächen.
 
@@ -70,7 +70,7 @@ Wer stilvoll **weinrot kombinieren** möchte, nutzt die Farbe idealerweise als e
 
 - **Bordeaux + Navy:** Eine klassische, maritime und geschäftsmäßige Kombination, die Kompetenz und Modernität ausstrahlt.
 - **Bordeaux + Creme:** Wirkt weich, luxuriös und sommerlich leicht; mindert die Schwere des dunklen Rots.
-- **Bordeaux + Braun:** Erzielt eine herbstliche, erdige Harmonie – ideal für hochwertige Casual-Looks.
+- **Bordeaux + Braun:** Erzielt eine herbstliche, erdige Harmonie, ideal für hochwertige Casual-Looks.
 - **Bordeaux + Grau:** Ein minimalistisches, kühles Kontrastspiel, das puristisch und urban wirkt.
 - **Bordeaux + Rosa:** Eine tonale, raffinierte Farbkombination, die Weiblichkeit ausdrückt, ohne mädchenhaft zu wirken.
 
@@ -78,15 +78,15 @@ Wer stilvoll **weinrot kombinieren** möchte, nutzt die Farbe idealerweise als e
 
 Im professionellen Business-Umfeld dient **Bordeaux-Kleidung** als elegante, nonverbale Botschaft für Souveränität und Stilbewusstsein. Ein bordeauxfarbener Hosenanzug oder eine feine Seidenbluse setzen Akzente, die weicher wirken als hartes Schwarz-Weiß. Auch subtile Details wie Lederschuhe, ein Gürtel oder eine Aktentasche in Weinrot verleihen einem ansonsten neutralen Business-Outfit eine persönliche, kultivierte Note.
 
-Im Alltag überzeugt die Farbe vor allem im Bereich Strickwaren, Übergangsmäntel oder Lederjacken. Ein lässiges Outfit aus dunkelblauer Jeans und einem bordeauxfarbenen Grobstrickpullover wirkt sofort angezogen und durchdacht. Besonders edel zeigt sich die Nuance, wenn sie [Ton in Ton](/glossar/ton-in-ton/) getragen wird – dieses monochrome Styling streckt die Silhouette optisch und wirkt extrem hochwertig.
+Im Alltag überzeugt die Farbe vor allem im Bereich Strickwaren, Übergangsmäntel oder Lederjacken. Ein lässiges Outfit aus dunkelblauer Jeans und einem bordeauxfarbenen Grobstrickpullover wirkt sofort angezogen und durchdacht. Besonders edel zeigt sich die Nuance, wenn sie [Ton in Ton](/glossar/ton-in-ton/) getragen wird, dieses monochrome Styling streckt die Silhouette optisch und wirkt extrem hochwertig.
 
 ## Für wen und wo Bordeaux funktioniert
 
-Entgegen weitverbreiteter Annahmen ist Bordeaux keine Farbe, die ausschließlich warmen oder kühlen Farbtypen vorbehalten ist. Die professionelle **Stilberatung** unterscheidet hier genau nach dem individuellen [Unterton](/glossar/unterton/): Blaustichige Nuancen schmeicheln kühlen Sommer- und Wintertypen, während bräunlich-warme Töne hervorragend zu Herbst- und Frühlingstypen passen. Falls Sie unsicher sind, ob Ihnen die Farbe im Gesichtsbereich steht, tragen Sie Bordeaux einfach abseits des Gesichts – beispielsweise als Rock, strukturierte Hose, elegante Schuhe oder als Statement-Tasche.
+Entgegen weitverbreiteter Annahmen ist Bordeaux keine Farbe, die ausschließlich warmen oder kühlen Farbtypen vorbehalten ist. Die professionelle **Stilberatung** unterscheidet hier genau nach dem individuellen [Unterton](/glossar/unterton/): Blaustichige Nuancen schmeicheln kühlen Sommer- und Wintertypen, während bräunlich-warme Töne hervorragend zu Herbst- und Frühlingstypen passen. Falls du unsicher sind, ob dir die Farbe im Gesichtsbereich steht, tragen du Bordeaux einfach abseits des Gesichts, beispielsweise als Rock, strukturierte Hose, elegante Schuhe oder als Statement-Tasche.
 
 ## Mini-Test vor dem Spiegel
 
-Betrachten Sie Ihr Outfit in Bordeaux einmal aus nächster Nähe und einmal mit etwa zwei Metern Abstand vor dem Spiegel. Aus der Nähe prüfen Sie die feinen Details, die Materialstruktur und das Zusammenspiel der Nuancen. Aus der Distanz erkennen Sie, ob das Gesamtbild harmonisch, ruhig und stilistisch ausgewogen bleibt. Sollte das Outfit nur in einer der beiden Perspektiven überzeugen, fehlt es meist an der richtigen Balance der Farbgewichte – experimentieren Sie dann mit helleren oder dunkleren Kombinationspartnern.
+Betrachten du dein Outfit in Bordeaux einmal aus nächster Nähe und einmal mit etwa zwei Metern Abstand vor dem Spiegel. Aus der Nähe prüfen du die feinen Details, die Materialstruktur und das Zusammenspiel der Nuancen. Aus der Distanz erkennen du, ob das Gesamtbild harmonisch, ruhig und stilistisch ausgewogen bleibt. Sollte das Outfit nur in einer der beiden Perspektiven überzeugen, fehlt es meist an der richtigen Balance der Farbgewichte, experimentieren du dann mit helleren oder dunkleren Kombinationspartnern.
 
 ## ESKYNA-Merksatz
 

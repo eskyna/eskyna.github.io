@@ -39,13 +39,13 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-In der Modetheorie und der professionellen Stilberatung beschreibt die **Blickführung** die gezielte Steuerung des menschlichen Auges über eine Silhouette oder ein Outfit. Dieses Prinzip basiert auf den klassischen Gesetzen der visuellen Wahrnehmung und der Gestaltpsychologie. Durch das strategische Zusammenspiel von Linien, Farben, Kontrasten, Texturen und Accessoires wird die Aufmerksamkeit des Betrachters gelenkt. So leitet beispielsweise eine klare [vertikale Linie](/glossar/vertikale-linie/) – wie eine durchgehende Knopfleiste, eine markante Bügelfalte oder ein lang fallender Schal – das Auge ruhig von oben nach unten, was eine optische Streckung und zusätzliche Eleganz im Gesamtbild erzeugt.
+In der Modetheorie und der professionellen Stilberatung beschreibt die **Blickführung** die gezielte Steuerung des menschlichen Auges über eine Silhouette oder ein Outfit. Dieses Prinzip basiert auf den klassischen Gesetzen der visuellen Wahrnehmung und der Gestaltpsychologie. Durch das strategische Zusammenspiel von Linien, Farben, Kontrasten, Texturen und Accessoires wird die Aufmerksamkeit des Betrachters gelenkt. So leitet beispielsweise eine klare [vertikale Linie](/glossar/vertikale-linie/), wie eine durchgehende Knopfleiste, eine markante Bügelfalte oder ein lang fallender Schal, das Auge ruhig von oben nach unten, was eine optische Streckung und zusätzliche Eleganz im Gesamtbild erzeugt.
 
 ## Einfach erklärt
 
 Was bedeutet Blickführung in der Praxis? Der Begriff hilft dir, Kleidung nicht nur als bloße Bedeckung, sondern als aktiven Teil deiner persönlichen Präsenz zu verstehen. Stell dir ein Outfit wie ein Kunstwerk vor: Ein Maler setzt bewusste Akzente (wie einen hellen Pinselstrich oder eine scharfe Kontur), um den Betrachter durch das Bild zu führen. Genau das Gleiche passiert beim täglichen Anziehen.
 
-Modehistorisch ist dieses Prinzip seit Jahrhunderten das Fundament der Haute Couture. Designer wie Christian Dior nutzten beim berühmten „New Look“ extrem betonte Wespentaillen und ausladende Röcke, um eine dramatische, feminine Silhouette zu inszenieren. Auch Coco Chanel revolutionierte die Damenmode, indem sie kontrastierende Borten an ihren ikonischen Tweedjacken anbrachte – eine meisterhafte Methode der geometrischen Blickführung.
+Modehistorisch ist dieses Prinzip seit Jahrhunderten das Fundament der Haute Couture. Designer wie Christian Dior nutzten beim berühmten „New Look“ extrem betonte Wespentaillen und ausladende Röcke, um eine dramatische, feminine Silhouette zu inszenieren. Auch Coco Chanel revolutionierte die Damenmode, indem sie kontrastierende Borten an ihren ikonischen Tweedjacken anbrachte, eine meisterhafte Methode der geometrischen Blickführung.
 
 In der modernen Stilberatung geht es dabei nicht um starre Vorschriften oder das Verstecken vermeintlicher Problemzonen. Vielmehr ist die bewusste Blickführung ein Werkzeug, das dir hilft, dein Auftreten präziser, stimmiger und müheloser zu gestalten.
 
@@ -57,7 +57,7 @@ Besonders im beruflichen Alltag oder bei gesellschaftlichen Anlässen hilft dir 
 
 ## Worauf du achten solltest
 
-- **Fokuszonen definieren:** Entscheide vorab, wo das Auge verweilen soll – beispielsweise im Gesichtsbereich durch ein edel geschnittenes Revers, oder auf der Körpermitte durch eine feine Akzentuierung.
+- **Fokuszonen definieren:** Entscheide vorab, wo das Auge verweilen soll, beispielsweise im Gesichtsbereich durch ein edel geschnittenes Revers, oder auf der Körpermitte durch eine feine Akzentuierung.
 - **Harmonie von Material und Textur:** Matte, schwere Stoffe (wie Tweed oder Flanell) wirken beruhigend, während glänzende Materialien (wie Seide oder Satin) und plastische Texturen (wie Grobstrick) sofort visuelle Anziehungspunkte schaffen.
 - **Kontraste und Farben dosieren:** Starke Hell-Dunkel-Kontraste oder leuchtende Farben ziehen die Aufmerksamkeit magisch an. Setze diese Signale punktuell und bewusst ein.
 - **Schnittführung und Proportionen abstimmen:** Vertikale Linien strecken das Erscheinungsbild, diagonale Schnittführungen bringen Dynamik in den Look, während Querlinien den Blick in die Breite lenken und strukturierend wirken.
@@ -65,7 +65,7 @@ Besonders im beruflichen Alltag oder bei gesellschaftlichen Anlässen hilft dir 
 ## Typische Missverständnisse
 
 **Missverständnis:** Blickführung ist nur eine abstrakte Modetheorie.  
-**Besser:** Der Begriff beschreibt ein ganz praktisches, physikalisches Prinzip der Wahrnehmung. Jedes Outfit erzeugt automatisch eine Blickführung – die Frage ist nur, ob diese zufällig entsteht oder von dir bewusst gestaltet wird, um deine Ausstrahlung positiv zu lenken.
+**Besser:** Der Begriff beschreibt ein ganz praktisches, physikalisches Prinzip der Wahrnehmung. Jedes Outfit erzeugt automatisch eine Blickführung, die Frage ist nur, ob diese zufällig entsteht oder von dir bewusst gestaltet wird, um deine Ausstrahlung positiv zu lenken.
 
 **Missverständnis:** Blickführung funktioniert bei jedem Menschen exakt gleich.  
 **Besser:** Die visuelle Wirkung ist hochgradig dynamisch. Sie hängt immer von der individuellen Körpergröße, den Proportionen, dem persönlichen Bewegungsspiel und dem Zusammenspiel der Texturen im jeweiligen Licht ab.

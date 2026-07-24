@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Anthrazit
 
-Der Begriff Anthrazit leitet sich historisch vom griechischen Wort _anthrakítes_ ab, was übersetzt „kohlenartig“ bedeutet. Er verweist direkt auf die Anthrazitkohle – eine besonders hochwertige, harte Kohlesorte, die für ihren edlen, metallischen Glanz bekannt ist. In der Modegeschichte hat sich dieses tiefe **Dunkelgrau** als feste Instanz etabliert.
+Der Begriff Anthrazit leitet sich historisch vom griechischen Wort _anthrakítes_ ab, was übersetzt „kohlenartig“ bedeutet. Er verweist direkt auf die Anthrazitkohle, eine besonders hochwertige, harte Kohlesorte, die für ihren edlen, metallischen Glanz bekannt ist. In der Modegeschichte hat sich dieses tiefe **Dunkelgrau** als feste Instanz etabliert.
 
 Als Brücke zwischen dramatischem Schwarz und kühlem Grau bringt Anthrazit eine subtile Tiefe in jeden Look, ohne die optische Härte oder die visuelle Schwere von reinem Schwarz aufzuweisen. Es gilt in der klassischen Herren- und Damenschneiderei seit jeher als Inbegriff von Understatement und zeitloser Eleganz.
 
@@ -56,7 +56,7 @@ Da die Farbe das Licht sanfter absorbiert als Tiefschwarz, zeichnet sie Schnitte
 ## Die Nuancen von Anthrazit
 
 - **Kühles Anthrazit:** Besitzt einen feinen, bläulichen oder silbrigen Unterton. Es wirkt ausgesprochen modern, präzise und grafisch. Perfekt in Kombination mit reinem Weiß, kühlem Silber und tiefem Navy.
-- **Warmes Anthrazit:** Enthält minimale braune oder olivfarbene Pigmentanteile. Diese Variante wirkt harmonischer, erdiger und weicher – ideal für herbstliche Kombinationen.
+- **Warmes Anthrazit:** Enthält minimale braune oder olivfarbene Pigmentanteile. Diese Variante wirkt harmonischer, erdiger und weicher, ideal für herbstliche Kombinationen.
 - **Meliertes Anthrazit:** Ein Klassiker bei hochwertigem Strick und edler Wolle (wie Flannel oder Tweed). Durch das Zusammenspiel unterschiedlich heller und dunkler Fasern entsteht eine lebendige Oberflächenstruktur mit optischer Tiefe.
 - **Fast Schwarz (Off-Black):** Die dunkelste Ausprägung der Nuance. Sie bietet die maximale grafische Definition eines dunklen Outfits, bewahrt dabei jedoch stets die vornehme Ruhe des Grauspektrums.
 
@@ -73,7 +73,7 @@ Dank seiner Neutralität lässt sich **Anthrazit kombinieren** wie kaum ein zwei
 - **Anthrazit + Off-White:** Ein moderner Kontrast, der deutlich weicher und harmonischer wirkt als das klassische Schwarz-Weiß.
 - **Anthrazit + Hellblau:** Ein zeitloses Duett, das Frische und professionelle Klarheit miteinander verbindet.
 - **Anthrazit + Bordeaux:** Eine tiefgründige, herbstliche Kombination, die pure Eleganz und Opulenz verströmt.
-- **Anthrazit + Rosa:** Ein spannendes Spiel der Kontraste – die Maskulinität des dunklen Graus trifft auf die feminine Leichtigkeit von zartem Rosé.
+- **Anthrazit + Rosa:** Ein spannendes Spiel der Kontraste, die Maskulinität des dunklen Graus trifft auf die feminine Leichtigkeit von zartem Rosé.
 - **Anthrazit + Schwarz:** Ein tonales, minimalistisches Zusammenspiel, das Tiefe erzeugt und besonders im Streetstyle sehr geschätzt wird.
 
 ## Anthrazit im Business und Alltag
@@ -86,11 +86,11 @@ Im Alltag erweist sich die Farbe als praktischer Allrounder für **neutrale Farb
 
 Anthrazit ist ein optischer Weichzeichner. Es ist die ideale Alternative für alle Farbtypen, bei denen reines Schwarz die Gesichtszüge zu hart wirken lässt oder den Teint blass erscheinen lässt. Vor allem Sommer- und Wintertypen profitieren von den kühlen Varianten der Farbe.
 
-Nahe am Gesicht getragen, lässt sich die Nuance durch gezielte Lichtpunkte – wie ein helles Hemd, ein glänzendes Seidentuch, markanten Silberschmuck oder eine ausdrucksstarke Lippenstiftfarbe – perfekt inszenieren.
+Nahe am Gesicht getragen, lässt sich die Nuance durch gezielte Lichtpunkte, wie ein helles Hemd, ein glänzendes Seidentuch, markanten Silberschmuck oder eine ausdrucksstarke Lippenstiftfarbe, perfekt inszenieren.
 
 ## ESKYNA-Merksatz
 
-Anthrazit ist die leisere, nuanciertere Alternative zu reinem Schwarz – charakterstark, anpassungsfähig und zeitlos elegant.
+Anthrazit ist die leisere, nuanciertere Alternative zu reinem Schwarz, charakterstark, anpassungsfähig und zeitlos elegant.
 
 ## Praxischeck
 

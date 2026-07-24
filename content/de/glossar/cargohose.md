@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Cargohose** (auch Cargo-Pant genannt) ist eine funktionale Freizeithose, die sich durch ihre charakteristischen, aufgesetzten Seitentaschen – die sogenannten Cargo-Taschen – im Oberschenkel- oder Kniebereich auszeichnet. Ursprünglich für das Militär entwickelt, steht sie heute als Key-Piece für einen sportlich-urbanen Utility-Look, der Funktionalität und zeitgenössische Ästhetik miteinander verbindet.
+Eine **Cargohose** (auch Cargo-Pant genannt) ist eine funktionale Freizeithose, die sich durch ihre charakteristischen, aufgesetzten Seitentaschen, die sogenannten Cargo-Taschen, im Oberschenkel- oder Kniebereich auszeichnet. Ursprünglich für das Militär entwickelt, steht sie heute als Key-Piece für einen sportlich-urbanen Utility-Look, der Funktionalität und zeitgenössische Ästhetik miteinander verbindet.
 
 ## Einfach erklärt
 
@@ -52,7 +52,7 @@ Heute zeigt sich die Hose extrem vielseitig: Das Spektrum reicht von robusten Mo
 
 ## Warum dieser Begriff wichtig ist
 
-In der Modegeschichte markiert die Cargohose den erfolgreichen Übergang von reiner Militär- und Arbeitskleidung (Utility Wear) in den alltäglichen Kleiderschrank – ein Phänomen, das eng mit der Streetwear-Bewegung der 1990er-Jahre und dem modernen „Gorpcore“-Trend verknüpft ist. Sie ist ein modischer Katalysator: Mit ihr lässt sich im Handumdrehen eine unangestrengte Lässigkeit erzeugen. Wer eine **Cargohose kombinieren** möchte, nutzt sie oft als Basis für spannende Stilbrüche. Sie bricht die Strenge klassischer Garderobe auf und verleiht femininen oder formellen Outfits eine maskuline, funktionale Erdung.
+In der Modegeschichte markiert die Cargohose den erfolgreichen Übergang von reiner Militär- und Arbeitskleidung (Utility Wear) in den alltäglichen Kleiderschrank, ein Phänomen, das eng mit der Streetwear-Bewegung der 1990er-Jahre und dem modernen „Gorpcore“-Trend verknüpft ist. Sie ist ein modischer Katalysator: Mit ihr lässt sich im Handumdrehen eine unangestrengte Lässigkeit erzeugen. Wer eine **Cargohose kombinieren** möchte, nutzt sie oft als Basis für spannende Stilbrüche. Sie bricht die Strenge klassischer Garderobe auf und verleiht femininen oder formellen Outfits eine maskuline, funktionale Erdung.
 
 ## Worauf du achten solltest
 

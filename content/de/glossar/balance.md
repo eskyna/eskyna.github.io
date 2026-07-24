@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Was bedeutet Balance im alltäglichen Styling? Vereinfacht gesagt sorgt sie dafür, dass das Auge des Betrachters ruhig über ein Outfit gleiten kann, ohne an einer Stelle optisch „stolpern“ zu müssen – es sei denn, ein solcher Bruch ist gestalterisch genau so gewollt.
+Was bedeutet Balance im alltäglichen Styling? Vereinfacht gesagt sorgt sie dafür, dass das Auge des Betrachters ruhig über ein Outfit gleiten kann, ohne an einer Stelle optisch „stolpern“ zu müssen, es sei denn, ein solcher Bruch ist gestalterisch genau so gewollt.
 
 Modehistorisch hat sich das Verständnis von Balance stark gewandelt: Während das 19. Jahrhundert von strenger, symmetrischer Balance (wie beim Korsett und ausladenden Reifröcken) geprägt war, revolutionierte die Moderne das Styling durch asymmetrische Balance. Heute wissen wir: Ein stimmiges Outfit benötigt keine mathematische Symmetrie, sondern ein ausgewogenes Verhältnis der Kräfte. Wenn du ein sehr weites, voluminöses Kleidungsstück trägst, schafft ein figurnahes Gegenstück das nötige Gleichgewicht.
 
@@ -54,7 +54,7 @@ Für ESKYNA ist dieser Blickwinkel essenziell. Eine moderne **Stilberatung** sol
 
 Wer versteht, wie visuelle Balance funktioniert, gewinnt die volle Kontrolle über die eigene Ausstrahlung. Das Wissen um dieses Gestaltungsprinzip hilft dir dabei, Fehlkäufe zu vermeiden und deine Garderobe optimal auszuschöpfen. Es geht nicht darum, den Kleiderschrank mit immer neuen Trends zu füllen, sondern die vorhandenen Stücke im Sinne einer klaren Garderobenlogik intelligent zu kombinieren.
 
-Im hektischen Alltag ist das Prinzip der Balance ein zuverlässiger Kompass. Du erkennst sofort, warum ein Look im Spiegel vielleicht noch unvollständig oder unruhig wirkt. Durch kleine Justierungen – wie das Krempeln eines Ärmels, das Hinzufügen eines Gürtels oder den gezielten Einsatz von Kontrasten – bringst du das Outfit augenblicklich ins Gleichgewicht und passt es perfekt an den jeweiligen Anlass an.
+Im hektischen Alltag ist das Prinzip der Balance ein zuverlässiger Kompass. Du erkennst sofort, warum ein Look im Spiegel vielleicht noch unvollständig oder unruhig wirkt. Durch kleine Justierungen, wie das Krempeln eines Ärmels, das Hinzufügen eines Gürtels oder den gezielten Einsatz von Kontrasten, bringst du das Outfit augenblicklich ins Gleichgewicht und passt es perfekt an den jeweiligen Anlass an.
 
 ## Worauf du achten solltest
 

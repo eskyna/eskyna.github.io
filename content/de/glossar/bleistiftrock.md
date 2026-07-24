@@ -56,7 +56,7 @@ Für ESKYNA ist der Bleistiftrock das perfekte Beispiel dafür, wie stark ein Kl
 
 ## Worauf du achten solltest
 
-- **Die optimale Passform:** Der Rock sollte sich sanft an die Hüften anschmiegen, ohne im Stehen oder Gehen Querfalten zu werfen – dies ist ein klares Zeichen für einen zu engen Sitz.
+- **Die optimale Passform:** Der Rock sollte sich sanft an die Hüften anschmiegen, ohne im Stehen oder Gehen Querfalten zu werfen, dies ist ein klares Zeichen für einen zu engen Sitz.
 - **Tragekomfort im Sitzen:** Achte bei der Anprobe darauf, dass der Saum im Sitzen nicht zu weit nach oben rutscht und der Bund an der Taille nicht unangenehm einschneidet.
 - **Bewegungsfreiheit:** Ein funktionaler Gehschlitz (oft als verdeckter Schlitz gearbeitet) ist essenziell, um einen natürlichen Gang zu ermöglichen, ohne dass der Stoff spannt.
 - **Länge und Proportionen:** Die Saumlänge sollte präzise auf deine Körpergröße und Beinform abgestimmt sein. Ideal ist meist eine Länge, die an der schmalsten Stelle knapp über, mittig auf oder kurz unter dem Knie endet.
@@ -65,7 +65,7 @@ Für ESKYNA ist der Bleistiftrock das perfekte Beispiel dafür, wie stark ein Kl
 ## Typische Missverständnisse
 
 **Missverständnis: Ein Bleistiftrock gehört ausschließlich ins Büro.**  
-**Besser:** Mit modernen Stilbrüchen – wie grobem Strick, einer lässigen Lederjacke oder sportlichen Sneakern – verliert der Rock seine Business-Strenge und wird absolut alltagstauglich.
+**Besser:** Mit modernen Stilbrüchen, wie grobem Strick, einer lässigen Lederjacke oder sportlichen Sneakern, verliert der Rock seine Business-Strenge und wird absolut alltagstauglich.
 
 **Missverständnis: Schmal geschnitten bedeutet automatisch hauteng.**  
 **Besser:** Ein meisterhaft geschneiderter Bleistiftrock umspielt die Silhouette. Er folgt der natürlichen Körperlinie fließend, ohne einzuengen oder wie eine zweite Haut zu spannen.

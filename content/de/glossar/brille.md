@@ -91,11 +91,11 @@ Eine Brille ist kein funktionales Nebendetail, sondern das intimste aller Access
 
 ## Praxischeck
 
-Überträgst du das Prinzip der **Brille** – die perfekte Balance aus Struktur, Materialqualität und Fokus – auf dein gesamtes Outfit, schärfst du deinen Blick für Details. So wie ein Brillenglas Konturen scharf stellt, verleihen die richtigen Accessoires und Schnitte einem Look erst seine Definition.
+Überträgst du das Prinzip der **Brille**, die perfekte Balance aus Struktur, Materialqualität und Fokus, auf dein gesamtes Outfit, schärfst du deinen Blick für Details. So wie ein Brillenglas Konturen scharf stellt, verleihen die richtigen Accessoires und Schnitte einem Look erst seine Definition.
 
 - **Haptik & Qualität:** Achte bei Fassungen wie auch bei Kleidung auf das Gewicht. Hochwertiges Acetat oder Titan fühlt sich wertig an und liegt ausbalanciert auf.
 - **Oberflächenspiel:** Setzt du auf matte oder glänzende Texturen? Ein mattes Brillenfinish wirkt modern und understated; poliertes Metall oder glänzendes Acetat reflektiert das Licht und setzt edle Akzente nahe am Auge.
-- **Sorgfalt im Detail:** Kontrolliere Scharniere, Passform und die Verarbeitung der Kanten – sie bestimmen die Langlebigkeit und die luxuriöse Ästhetik des Accessoires.
+- **Sorgfalt im Detail:** Kontrolliere Scharniere, Passform und die Verarbeitung der Kanten, sie bestimmen die Langlebigkeit und die luxuriöse Ästhetik des Accessoires.
 
 ## Beratungsblick
 

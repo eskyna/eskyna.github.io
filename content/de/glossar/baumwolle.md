@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Baumwolle** (botanisch _Gossypium_) ist eine pflanzliche Naturfaser, die aus den Samenhaaren der reifenden Baumwollfrucht gewonnen wird. Als eine der ältesten und weltweit am häufigsten verwendeten Textilfasern bildet sie das Fundament moderner Bekleidung. Ob in lässigen T-Shirts, edlen Blusen, robusten Jeans oder klassischen Trenchcoats – hochwertiger **Baumwollstoff** überzeugt durch seine Atmungsaktivität, Strapazierfähigkeit, hervorragende Feuchtigkeitsaufnahme und seine ausgesprochene Hautfreundlichkeit.
+**Baumwolle** (botanisch _Gossypium_) ist eine pflanzliche Naturfaser, die aus den Samenhaaren der reifenden Baumwollfrucht gewonnen wird. Als eine der ältesten und weltweit am häufigsten verwendeten Textilfasern bildet sie das Fundament moderner Bekleidung. Ob in lässigen T-Shirts, edlen Blusen, robusten Jeans oder klassischen Trenchcoats, hochwertiger **Baumwollstoff** überzeugt durch seine Atmungsaktivität, Strapazierfähigkeit, hervorragende Feuchtigkeitsaufnahme und seine ausgesprochene Hautfreundlichkeit.
 
 ## Einfach erklärt
 
@@ -54,7 +54,7 @@ Wer sich fragt „**Was ist Baumwolle**?“, stellt schnell fest: Sie ist ein wa
 - **Jersey:** Ein gestrickter, elastischer Stoff, der besonders weich fällt und ideal für entspannte Freizeitkleidung wie T-Shirts und Sweatshirts ist.
 - **Flanell:** Ein ein- oder beidseitig aufgerauter Stoff ([Flanell](/glossar/flanell/)), der sich wunderbar wärmend, weich und winterlich anfühlt.
 
-Die textile Konstruktion bestimmt somit das Gewicht, den Griff und den Fall des Kleidungsstücks – von fließend-leicht bis hin zu fest und skulptural.
+Die textile Konstruktion bestimmt somit das Gewicht, den Griff und den Fall des Kleidungsstücks, von fließend-leicht bis hin zu fest und skulptural.
 
 ## Warum Baumwolle wichtig ist
 
@@ -68,7 +68,7 @@ Für ESKYNA ist Baumwolle besonders spannend, weil sie als Basis eine ruhige, au
 
 - **Faserlänge (Stapellänge):** Je länger die einzelnen Fasern sind (z. B. bei ägyptischer Baumwolle oder Supima-Baumwolle), desto reißfester, weicher und langlebiger ist das Gewebe.
 - **Stoffdichte und Gewicht:** Sehr dünne, lose gewebte Baumwolle neigt dazu, nach dem Waschen auszuleiern oder ungewollt transparent zu wirken. Ein höheres Stoffgewicht (Heavyweight Cotton) sorgt für einen hochwertigen, plastischen Stand.
-- **Der Griff (Haptik):** Hochwertiger Baumwollstoff fühlt sich auf der Haut angenehm temperiert, weich und griffig an – niemals stumpf, kratzig oder leblos.
+- **Der Griff (Haptik):** Hochwertiger Baumwollstoff fühlt sich auf der Haut angenehm temperiert, weich und griffig an, niemals stumpf, kratzig oder leblos.
 - **Webart & Textur:** Wähle die Struktur passend zum Anlass. Eine matte Piqué-Struktur wirkt sportlich, während feiner Baumwollsatin einen dezenten, eleganten Glanz verströmt.
 - **Farbtiefe:** Da Baumwollfasern Farbstoffe hervorragend aufnehmen, zeigen sie tiefe Nuancen besonders satt und matte Erdtöne angenehm ruhig.
 

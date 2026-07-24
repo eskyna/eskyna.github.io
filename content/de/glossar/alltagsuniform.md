@@ -77,7 +77,7 @@ Unter einer **Alltagsuniform** (auch bekannt als _Personal Uniform_) versteht ma
 
 Doch **was bedeutet Alltagsuniform** im Kern? Im Gegensatz zur klassischen, fremdbestimmten Arbeitskleidung ist die persönliche Alltagsuniform ein selbstgewähltes System aus perfekt aufeinander abgestimmten Kleidungsstücken. Das Konzept zielt darauf ab, die sogenannte „Decision Fatigue“ (Entscheidungsmüdigkeit) zu minimieren.
 
-Berühmte Persönlichkeiten der Mode- und Kulturgeschichte – von Coco Chanel mit ihren ikonischen Tweed-Ensembles über Steve Jobs im schwarzen Rollkragenpullover bis hin zu Designer Karl Lagerfeld – nutzten dieses Prinzip, um eine unverwechselbare visuelle Identität zu kreieren.
+Berühmte Persönlichkeiten der Mode- und Kulturgeschichte, von Coco Chanel mit ihren ikonischen Tweed-Ensembles über Steve Jobs im schwarzen Rollkragenpullover bis hin zu Designer Karl Lagerfeld, nutzten dieses Prinzip, um eine unverwechselbare visuelle Identität zu kreieren.
 
 Modisch betrachtet transformiert dieser Ansatz den Kleiderschrank von einer bloßen Ansammlung einzelner Modetrends in ein logisch funktionierendes, modulares System. Für ESKYNA ist eine durchdachte Garderobenlogik der wirksamste Hebel, um Fehlkäufe langfristig zu vermeiden. Gute Stilentscheidungen entstehen immer dann, wenn jedes Kleidungsstück eine klare Funktion erfüllt.
 

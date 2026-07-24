@@ -2,7 +2,7 @@
 title: "Was ist ein Negligé?"
 term: "Negligé"
 description: "Negligé einfach erklärt: Materialien, Formen und Unterschiede zu Babydoll, Nachthemd, Chemise und Slip Dress."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "neglige"
 seoTitle: "Negligé: Bedeutung, Formen und Unterschiede | ESKYNA"
 image: "images/glossar/neglige.png"

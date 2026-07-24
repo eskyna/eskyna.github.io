@@ -23,7 +23,7 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Der Begriff **Athleisure** – ein Kofferwort aus den englischen Begriffen _athletic_ (sportlich) und _leisure_ (Freizeit) – bezeichnet einen der einflussreichsten Modetrends des 21. Jahrhunderts. Bei diesem Hybrid-Stil werden hochfunktionale Sportbekleidung und urbane Alltagskleidung zu einem ästhetischen Gesamtkonzept verschmolzen. Typische Keypieces wie [Leggings](/glossar/leggings/), Jogginghosen (Track Pants), [Sneaker](/glossar/sneaker/), Funktionsjacken, klassische Poloshirts oder sportliche Feinstrickteile werden so miteinander kombiniert, dass ein müheloser Spagat zwischen maximalem Komfort und stilvoller, City-tauglicher Eleganz gelingt.
+Der Begriff **Athleisure**, ein Kofferwort aus den englischen Begriffen _athletic_ (sportlich) und _leisure_ (Freizeit), bezeichnet einen der einflussreichsten Modetrends des 21. Jahrhunderts. Bei diesem Hybrid-Stil werden hochfunktionale Sportbekleidung und urbane Alltagskleidung zu einem ästhetischen Gesamtkonzept verschmolzen. Typische Keypieces wie [Leggings](/glossar/leggings/), Jogginghosen (Track Pants), [Sneaker](/glossar/sneaker/), Funktionsjacken, klassische Poloshirts oder sportliche Feinstrickteile werden so miteinander kombiniert, dass ein müheloser Spagat zwischen maximalem Komfort und stilvoller, City-tauglicher Eleganz gelingt.
 
 ## Einfach erklärt
 
@@ -48,7 +48,7 @@ Damit der sportliche Freizeitlook elegant und erwachsen wirkt, sollten folgende 
 
 ## Typisches Missverständnis
 
-Ein häufiges Missverständnis ist die Annahme, Athleisure sei lediglich ein Synonym für bequeme Hauskleidung (Loungewear) oder ein Out-of-Bed-Look. Athleisure ist keineswegs das zufällige Tragen von Sportkleidung im Alltag aus Bequemlichkeit. Vielmehr handelt es sich um eine bewusste modische Entscheidung. Der Look zeichnet sich durch ein hohes Maß an Styling-Intentionalität aus – erst durch das feine Zusammenspiel von Activewear und formellen Mode-Elementen entsteht der gewollte, zeitgemäße Kontrast.
+Ein häufiges Missverständnis ist die Annahme, Athleisure sei lediglich ein Synonym für bequeme Hauskleidung (Loungewear) oder ein Out-of-Bed-Look. Athleisure ist keineswegs das zufällige Tragen von Sportkleidung im Alltag aus Bequemlichkeit. Vielmehr handelt es sich um eine bewusste modische Entscheidung. Der Look zeichnet sich durch ein hohes Maß an Styling-Intentionalität aus, erst durch das feine Zusammenspiel von Activewear und formellen Mode-Elementen entsteht der gewollte, zeitgemäße Kontrast.
 
 ## ESKYNA-Merksatz
 

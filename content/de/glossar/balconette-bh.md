@@ -2,7 +2,7 @@
 title: "Was ist ein Balconette-BH?"
 term: "Balconette-BH"
 description: "Balconette-BH erklärt: horizontale Cupkante, Trägerposition, passende Ausschnitte und Unterschiede zu Push-up, Bralette und Bustier."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "balconette-bh"
 seoTitle: "Balconette-BH: Form, Wirkung und Passform | ESKYNA"
 image: "images/glossar/balconette-bh.png"
@@ -10,7 +10,7 @@ image_alt: "Glossar-Illustration zu Balconette-BH"
 lastmod: "2026-07-22"
 ---
 
-Ein Balconette-BH ist ein absoluter Klassiker der Lingerie-Geschichte, der für seine charakteristische, fast horizontale Cupkante und einen im Vergleich zu Plunge-Modellen höheren Mittelsteg bekannt ist. Diese spezielle Konstruktion hebt die Brust sanft von unten an (ein sogenannter „Shelf-Effekt“) und inszeniert das Dekolleté in einer eleganten, breiten Linie. Der Begriff leitet sich historisch vom französischen Wort _balconnet_ (kleiner Balkon) ab – die obere Kante des BHs rahmt die Brust ein wie eine Brüstung, während die Träger besonders weit außen am Cup ansetzen.
+Ein Balconette-BH ist ein absoluter Klassiker der Lingerie-Geschichte, der für seine charakteristische, fast horizontale Cupkante und einen im Vergleich zu Plunge-Modellen höheren Mittelsteg bekannt ist. Diese spezielle Konstruktion hebt die Brust sanft von unten an (ein sogenannter „Shelf-Effekt“) und inszeniert das Dekolleté in einer eleganten, breiten Linie. Der Begriff leitet sich historisch vom französischen Wort _balconnet_ (kleiner Balkon) ab, die obere Kante des BHs rahmt die Brust ein wie eine Brüstung, während die Träger besonders weit außen am Cup ansetzen.
 
 ## Definition
 
@@ -30,10 +30,10 @@ In der professionellen Passform-Beratung prüfen wir die Cup-Oberkante immer am 
 
 ## Praktische Anwendung und Stylinghinweise
 
-- **Perfekt für eckige Schnitte:** Testen Sie den Balconette-BH unter geraden, quadratischen (Carré) oder besonders breiten Ausschnitten.
-- **Trägerposition abstimmen:** Achten Sie darauf, dass die weit außen liegenden Träger bequem aufliegen und exakt auf Ihren Schulterkomfort eingestellt sind.
-- **Die Bewegungs-Probe:** Prüfen Sie die Oberkanten der Cups im Sitzen und beim Vorbeugen – die Kante sollte flach anliegen, ohne abzustehen.
-- **Unsichtbarkeit unter feinen Stoffen:** Wählen Sie bei figurbetonten Oberteilen aus feinen Materialien nahtlose, glatte Cupabschlüsse (T-Shirt-Balconettes).
+- **Perfekt für eckige Schnitte:** Testen du den Balconette-BH unter geraden, quadratischen (Carré) oder besonders breiten Ausschnitten.
+- **Trägerposition abstimmen:** Achten du darauf, dass die weit außen liegenden Träger bequem aufliegen und exakt auf deinen Schulterkomfort eingestellt sind.
+- **Die Bewegungs-Probe:** Prüfen du die Oberkanten der Cups im Sitzen und beim Vorbeugen, die Kante sollte flach anliegen, ohne abzustehen.
+- **Unsichtbarkeit unter feinen Stoffen:** Wählen du bei figurbetonten Oberteilen aus feinen Materialien nahtlose, glatte Cupabschlüsse (T-Shirt-Balconettes).
 - **Auf Bandstabilität achten:** Da die Träger weniger vertikale Zuglast tragen als bei klassischen Full-Cup-Modellen, muss das Unterbrustband absolut fest und waagerecht sitzen, um die tragende Rolle zu übernehmen.
 
 ## Konkretes Beispiel aus Alltag, Beruf oder Anlass
@@ -56,15 +56,15 @@ Balconette funktioniert, wenn Ausschnittbreite und Cupkante in perfekter Symmetr
 
 ## Entscheidungshilfe vor Kauf oder Styling
 
-- Passt die gerade, horizontale Cupkante harmonisch zur Schnittführung Ihres Oberteils?
+- Passt die gerade, horizontale Cupkante harmonisch zur Schnittführung deines Oberteils?
 - Bleibt die Mitte (der Mittelsteg) flach, ruhig und stabil auf dem Brustbein liegen?
-- Sitzen die weit außen positionierten Träger ohne Druck und Rutschen sicher auf Ihren Schultern?
+- Sitzen die weit außen positionierten Träger ohne Druck und Rutschen sicher auf deinen Schultern?
 - Wirkt die Brustform im Profil natürlich angehoben und harmonisch abgerundet?
 - Ist das Modell als vielseitiger Allrounder für den Alltag oder gezielt für ein spezielles Einzeloutfit gedacht?
 
 ## Wann Beratung sinnvoll wird
 
-Eine professionelle Beratung lohnt sich, wenn Sie eine elegante, offene Dekolletélinie suchen, klassische Push-up-Modelle Ihnen jedoch zu dominant wirken oder wenn Ihnen die Träger bei herkömmlichen Schnitten häufig von den Schultern rutschen. Wir finden für Sie die exakte Balance aus Cup-Tiefe und Band-Stabilität.
+Eine professionelle Beratung lohnt sich, wenn du eine elegante, offene Dekolletélinie suchen, klassische Push-up-Modelle dir jedoch zu dominant wirken oder wenn dir die Träger bei herkömmlichen Schnitten häufig von den Schultern rutschen. Wir finden für du die exakte Balance aus Cup-Tiefe und Band-Stabilität.
 
 ## Verwandte Glossarbegriffe
 

@@ -2,7 +2,7 @@
 title: "Was sind Nipple Covers und Pasties?"
 term: "Nipple Covers und Pasties"
 description: "Was sind Nipple Covers und Pasties? Materialien, Haftung, sichtbare Kanten und Anwendung unter enger oder transparenter Kleidung."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "nipple-covers"
 seoTitle: "Nipple Covers und Pasties | ESKYNA"
 image: "images/glossar/nipple-covers.png"

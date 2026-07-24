@@ -10,11 +10,11 @@ image_alt: "Schlichte anthrazitfarbene Beanie aus feinem Rippstrick mit umgeschl
 lastmod: "2026-07-22"
 ---
 
-Die **Beanie** ist eine weiche, randlose Mütze – meist aus feinem oder grobem Strick –, die eng am Kopf anliegt oder mit zusätzlichem Volumen am Hinterkopf getragen wird. Als vielseitiges Key-Piece der modernen Garderobe verleiht dieses Winteraccessoire Outfits wahlweise funktionale Wärme, sportliche Lässigkeit oder minimalistische, urbane Eleganz.
+Die **Beanie** ist eine weiche, randlose Mütze, meist aus feinem oder grobem Strick, , die eng am Kopf anliegt oder mit zusätzlichem Volumen am Hinterkopf getragen wird. Als vielseitiges Key-Piece der modernen Garderobe verleiht dieses Winteraccessoire Outfits wahlweise funktionale Wärme, sportliche Lässigkeit oder minimalistische, urbane Eleganz.
 
 ## Definition
 
-Charakteristisch für die Beanie ist das Fehlen einer steifen Krempe oder eines Schildes. Historisch leitet sich der Begriff vom umgangssprachlichen englischen Wort „bean“ (für Kopf) ab. Ursprünglich im frühen 20. Jahrhundert als praktische Arbeitsbekleidung für Fabrikarbeiter und Handwerker entwickelt – um die Haare aus dem Gesicht zu halten, ohne dass ein störender Hutschirm im Weg war –, hat sich die Beanie zu einem festen Bestandteil der Modegeschichte entwickelt.
+Charakteristisch für die Beanie ist das Fehlen einer steifen Krempe oder eines Schildes. Historisch leitet sich der Begriff vom umgangssprachlichen englischen Wort „bean“ (für Kopf) ab. Ursprünglich im frühen 20. Jahrhundert als praktische Arbeitsbekleidung für Fabrikarbeiter und Handwerker entwickelt, um die Haare aus dem Gesicht zu halten, ohne dass ein störender Hutschirm im Weg war, , hat sich die Beanie zu einem festen Bestandteil der Modegeschichte entwickelt.
 
 Heute unterscheidet man verschiedene Passformen und Stilvarianten:
 

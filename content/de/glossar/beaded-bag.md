@@ -59,7 +59,7 @@ Betrachte deine Beaded Bag aus zwei unterschiedlichen Perspektiven vor dem Spieg
 
 ## ESKYNA-Merksatz
 
-Eine Beaded Bag ist Tasche und Schmuckstück zugleich – sie verleiht jedem Outfit sofort eine spannende Textur und subtilen Glanz.
+Eine Beaded Bag ist Tasche und Schmuckstück zugleich, sie verleiht jedem Outfit sofort eine spannende Textur und subtilen Glanz.
 
 ## Praxischeck
 

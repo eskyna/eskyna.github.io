@@ -50,7 +50,7 @@ Ein **Basic** (abgeleitet vom englischen Wort _base_ für Basis oder Fundament) 
 
 Die Frage „**Was ist ein Basic**?“ lässt sich am besten über seine Funktion im Kleiderschrank beantworten. Typische Beispiele für **Basic Kleidung** sind das klassische weiße T-Shirt, die perfekt sitzende Blue Jeans, eine cleane weiße Bluse, ein feiner schwarzer Rollkragenpullover oder ein schlichter Blazer. Dabei bestimmt nicht die Produktkategorie an sich, ob ein Teil ein Basic ist, sondern seine universelle Kombinierbarkeit.
 
-Gute Basics verzichten bewusst auf kurzlebige Trends, laute Muster, auffällige Applikationen oder extravagante Schnitte. Stattdessen überzeugen sie durch die Qualität ihrer Materialien – wie atmungsaktive Baumwolle, fließende Seide, wärmende Merinowolle oder strukturiertes Leinen – sowie durch eine präzise Linienführung. Modehistorisch betrachtet gewannen Basics im 20. Jahrhundert rasant an Bedeutung, als Kleidung funktionaler und demokratischer wurde. Das beste Beispiel ist das weiße T-Shirt, das sich im Laufe des letzten Jahrhunderts von der reinen Unterwäsche des Militärs zum weltweiten Symbol müheloser Coolness entwickelte. Durch diese unkomplizierte [Kombinierbarkeit](/glossar/kombinierbarkeit/) stiften Basics einen enormen praktischen Nutzen.
+Gute Basics verzichten bewusst auf kurzlebige Trends, laute Muster, auffällige Applikationen oder extravagante Schnitte. Stattdessen überzeugen sie durch die Qualität ihrer Materialien, wie atmungsaktive Baumwolle, fließende Seide, wärmende Merinowolle oder strukturiertes Leinen, sowie durch eine präzise Linienführung. Modehistorisch betrachtet gewannen Basics im 20. Jahrhundert rasant an Bedeutung, als Kleidung funktionaler und demokratischer wurde. Das beste Beispiel ist das weiße T-Shirt, das sich im Laufe des letzten Jahrhunderts von der reinen Unterwäsche des Militärs zum weltweiten Symbol müheloser Coolness entwickelte. Durch diese unkomplizierte [Kombinierbarkeit](/glossar/kombinierbarkeit/) stiften Basics einen enormen praktischen Nutzen.
 
 ## Warum Basics wichtig sind
 
@@ -58,12 +58,12 @@ Hochwertige **Garderobe Basics** bilden das unsichtbare Gerüst, das jeden Look 
 
 Wenn du geschickt deine **Basics kombinieren** kannst, vervielfachst du die Tragemöglichkeiten deiner gesamten Garderobe. Sie nehmen auffälligen Statement-Teilen die optische Schwere und erden experimentelle Schnitte oder kräftige Trendfarben. So wird der extravagante Paillettenrock durch ein schlichtes graues T-Shirt sofort tageslichttauglich.
 
-Für ESKYNA sind edle Basics keine modische Notlösung, sondern die wahren Helden des persönlichen Stils. Sie bringen visuelle Ruhe in den Alltag und helfen aktiv dabei, Fehlkäufe zu vermeiden: Fehlen im Schrank die passenden Basics, lässt sich auch das schönste Key-Piece im Alltag nicht harmonisch stylen – es mangelt an der nötigen [Garderobenlogik](/glossar/garderobenlogik/).
+Für ESKYNA sind edle Basics keine modische Notlösung, sondern die wahren Helden des persönlichen Stils. Sie bringen visuelle Ruhe in den Alltag und helfen aktiv dabei, Fehlkäufe zu vermeiden: Fehlen im Schrank die passenden Basics, lässt sich auch das schönste Key-Piece im Alltag nicht harmonisch stylen, es mangelt an der nötigen [Garderobenlogik](/glossar/garderobenlogik/).
 
 ## Worauf du bei Basics achten solltest
 
 - **Materialqualität:** Da Basics besonders häufig getragen und gewaschen werden, sind langlebige Naturfasern (wie Bio-Baumwolle, Wolle, Kaschmir oder Seide) die beste Wahl. Sie bewahren Form und Farbe über Jahre.
-- **Präzise Passform:** Ohne ablenkende Muster oder Details steht der Schnitt im Fokus. Ein perfektes Basic muss wie maßgeschneidert sitzen – weder zu eng spannen noch formlos wirken.
+- **Präzise Passform:** Ohne ablenkende Muster oder Details steht der Schnitt im Fokus. Ein perfektes Basic muss wie maßgeschneidert sitzen, weder zu eng spannen noch formlos wirken.
 - **Farbpalette:** Die Farben sollten harmonisch auf deinen individuellen Hautton und deine bestehende Garderobe abgestimmt sein. Neben Schwarz, Weiß und Grau eignen sich auch Navy, Beige, Creme, Khaki oder sanfte Pastelltöne hervorragend als neutrale Töne.
 - **Verarbeitung:** Achte auf flache, saubere Nähte, stabile Säume und formbeständige Bündchen bzw. Ausschnitte.
 - **Lebensrealität:** Ein Basic muss zu deinem tatsächlichen Alltag und deinen Bewegungsgewohnheiten passen, nicht zu einem theoretischen Wunschbild.
@@ -78,7 +78,7 @@ Für ESKYNA sind edle Basics keine modische Notlösung, sondern die wahren Helde
 
 ## ESKYNA-Merksatz
 
-Ein erstklassiges Basic ist niemals unbedeutend oder unsichtbar – es ist das stilvolle Fundament, das ein Outfit zusammenhält und ihm Klasse verleiht, ohne laut um Aufmerksamkeit zu kämpfen.
+Ein erstklassiges Basic ist niemals unbedeutend oder unsichtbar, es ist das stilvolle Fundament, das ein Outfit zusammenhält und ihm Klasse verleiht, ohne laut um Aufmerksamkeit zu kämpfen.
 
 ## Praxischeck
 

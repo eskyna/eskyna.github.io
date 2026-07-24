@@ -65,7 +65,7 @@ Gerade im Alltag hilft Bouclé, schneller zu erkennen, ob ein Teil nur interessa
 ## Typische Missverständnisse
 
 **Missverständnis:** Bouclé ist nur ein modisches Wort und steht für altmodische Kostüme.  
-**Besser:** Der Begriff beschreibt eine konkrete textile Eigenschaft. Richtig gestylt – etwa im Kontrast zu Leder, Denim oder fließender Seide – wirkt Bouclé extrem zeitgemäß, edel und alles andere als altbacken.
+**Besser:** Der Begriff beschreibt eine konkrete textile Eigenschaft. Richtig gestylt, etwa im Kontrast zu Leder, Denim oder fließender Seide, wirkt Bouclé extrem zeitgemäß, edel und alles andere als altbacken.
 
 **Missverständnis:** Bouclé funktioniert immer gleich.  
 **Besser:** Die Wirkung hängt stark von der Dicke des Garns, der Farbmischung (z. B. lebendiges Melange-Garn vs. edles Monochrom) sowie dem Schnitt und dem individuellen Styling ab.
@@ -78,7 +78,7 @@ Bouclé wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die st
 
 Wenn du den Begriff **Bouclé** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
 
-- Fühle Griff, Gewicht und Stand des Materials – ist der Stoff weich und fließend oder kompakt und fest?
+- Fühle Griff, Gewicht und Stand des Materials, ist der Stoff weich und fließend oder kompakt und fest?
 - Prüfe, ob die Oberfläche ruhig, glänzend, grob oder fein wirkt.
 - Achte auf Pflegehinweise, das Knitterverhalten und die saubere Verarbeitung an Nähten, Kanten und gegebenenfalls den charakteristischen Fransenborten.
 

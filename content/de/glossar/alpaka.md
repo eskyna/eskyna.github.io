@@ -23,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Die hochwertige **Alpakafaser** (oft als Alpakawolle bezeichnet) stammt vom Alpaka (_Vicugna pacos_), einer domestizierten Kamelart aus den südamerikanischen Anden. Als edle Naturhaarfaser wird sie in der Textilindustrie vor allem für luxuriösen [Strick](/glossar/strick/), hochwertige Mäntel, wärmende Schals und anspruchsvolle Mischgewebe geschätzt. Je nach Faserfeinheit – gemessen in Mikron – reicht die Textur von extrem feinem, kaschmirähnlichem Griff bis hin zu robusteren, kräftigeren Qualitäten.
+Die hochwertige **Alpakafaser** (oft als Alpakawolle bezeichnet) stammt vom Alpaka (_Vicugna pacos_), einer domestizierten Kamelart aus den südamerikanischen Anden. Als edle Naturhaarfaser wird sie in der Textilindustrie vor allem für luxuriösen [Strick](/glossar/strick/), hochwertige Mäntel, wärmende Schals und anspruchsvolle Mischgewebe geschätzt. Je nach Faserfeinheit, gemessen in Mikron, reicht die Textur von extrem feinem, kaschmirähnlichem Griff bis hin zu robusteren, kräftigeren Qualitäten.
 
 ## Einfach erklärt
 
-Alpakawolle gilt als das „Vlies der Götter“ und blickt auf eine jahrtausendealte Geschichte zurück: Schon im prächtigen Inkareich war das Tragen der edlen Faser der königlichen Elite vorbehalten. Aus modehistorischer Sicht etablierte sich Alpaka in der modernen Haute Couture als Synonym für „Quiet Luxury“ – geschätzt für seinen subtilen, seidigen Glanz und die hervorragenden thermischen Eigenschaften.
+Alpakawolle gilt als das „Vlies der Götter“ und blickt auf eine jahrtausendealte Geschichte zurück: Schon im prächtigen Inkareich war das Tragen der edlen Faser der königlichen Elite vorbehalten. Aus modehistorischer Sicht etablierte sich Alpaka in der modernen Haute Couture als Synonym für „Quiet Luxury“, geschätzt für seinen subtilen, seidigen Glanz und die hervorragenden thermischen Eigenschaften.
 
 ### Einzigartige Materialeigenschaften
 
@@ -46,7 +46,7 @@ Da Alpakafasern eine glattere Oberfläche und weniger natürliche Kräuselung al
 
 ## Typisches Missverständnis
 
-Ein häufiger Irrtum ist, dass jedes Kleidungsstück aus Alpaka automatisch kuschelweich und völlig kratzfrei ist. Tatsächlich bestimmen die Faserfeinheit (die Mikron-Zahl), die Sortierung und die Verarbeitung den Tragekomfort. Während „Royal Alpaca“ und „Baby Alpaca“ zu den weichsten Naturfasern der Welt gehören, können Standard-Alpakafasern bei empfindlicher Haut durchaus als piksend empfunden werden. Zudem wird oft übersehen, dass reines Alpaka aufgrund der glatten Faserstruktur wenig Eigenelastizität besitzt – erst die richtige Materialmischung macht Strickwaren dauerhaft formstabil.
+Ein häufiger Irrtum ist, dass jedes Kleidungsstück aus Alpaka automatisch kuschelweich und völlig kratzfrei ist. Tatsächlich bestimmen die Faserfeinheit (die Mikron-Zahl), die Sortierung und die Verarbeitung den Tragekomfort. Während „Royal Alpaca“ und „Baby Alpaca“ zu den weichsten Naturfasern der Welt gehören, können Standard-Alpakafasern bei empfindlicher Haut durchaus als piksend empfunden werden. Zudem wird oft übersehen, dass reines Alpaka aufgrund der glatten Faserstruktur wenig Eigenelastizität besitzt, erst die richtige Materialmischung macht Strickwaren dauerhaft formstabil.
 
 ## ESKYNA-Merksatz
 

@@ -49,9 +49,9 @@ Heute grenzt sich der Blazer als Solitär-Kleidungsstück klar von der klassisch
 
 ## Einfach erklärt
 
-Ein Blazer ist weit mehr als ein reines Business-Kleidungsstück – er ist ein modischer Alleskönner. Seine Wirkung hängt maßgeblich von Schnittführung, Farbe und Material ab. Ein schmal geschnittener, schwarzer Einreiher aus feiner Schurwolle vermittelt formelle Eleganz. Ein legerer Oversized-Blazer aus weichem Leinen oder strukturiertem Tweed hingegen strahlt urbane Lässigkeit aus.
+Ein Blazer ist weit mehr als ein reines Business-Kleidungsstück, er ist ein modischer Alleskönner. Seine Wirkung hängt maßgeblich von Schnittführung, Farbe und Material ab. Ein schmal geschnittener, schwarzer Einreiher aus feiner Schurwolle vermittelt formelle Eleganz. Ein legerer Oversized-Blazer aus weichem Leinen oder strukturiertem Tweed hingegen strahlt urbane Lässigkeit aus.
 
-In der Modeberatung gilt der Blazer als visuelles Strukturierungswerkzeug: Er rahmt den Oberkörper optimal ein. Einem simplen T-Shirt verleiht er sofort Kontur, eine legere Jeans wertet er stilvoll auf und fließenden Kleidern oder weiten Hosen gibt er den nötigen Halt. Besonders prägend ist dabei die Schulterpartie – eine markante Schulterlinie ist beispielsweise das unverkennbare Fundament des legendären [80s Luxury](/glossar/80s-luxury/)-Stils.
+In der Modeberatung gilt der Blazer als visuelles Strukturierungswerkzeug: Er rahmt den Oberkörper optimal ein. Einem simplen T-Shirt verleiht er sofort Kontur, eine legere Jeans wertet er stilvoll auf und fließenden Kleidern oder weiten Hosen gibt er den nötigen Halt. Besonders prägend ist dabei die Schulterpartie, eine markante Schulterlinie ist beispielsweise das unverkennbare Fundament des legendären [80s Luxury](/glossar/80s-luxury/)-Stils.
 
 ## Warum ein Blazer wichtig ist
 
@@ -87,4 +87,4 @@ Wenn das Outfit aus beiden Perspektiven Balance und Souveränität ausstrahlt, h
 
 ## ESKYNA-Merksatz
 
-Ein Blazer ist mehr als eine Jacke – er ist ein architektonisches Meisterwerk der Garderobe. Seine wahre Eleganz entfaltet sich im Zusammenspiel aus perfektem Schnitt, anspruchsvollem Material und der Haltung der Person, die ihn trägt.
+Ein Blazer ist mehr als eine Jacke, er ist ein architektonisches Meisterwerk der Garderobe. Seine wahre Eleganz entfaltet sich im Zusammenspiel aus perfektem Schnitt, anspruchsvollem Material und der Haltung der Person, die ihn trägt.

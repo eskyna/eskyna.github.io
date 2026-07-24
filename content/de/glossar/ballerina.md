@@ -80,7 +80,7 @@ Eine Ballerina ist ein Meister der leisen Töne. Ihre stilistische Wirkung entfa
 Wenn du das Konzept der **Ballerina** erfolgreich auf deine Outfits übertragen möchtest, betrachte den Schuh stets als harmonisierenden Gegenpol deines Looks. Nutze diesen schnellen Check, um gelungene **Ballerinas zu kombinieren**:
 
 - **Der Proportionen-Test:** Zeigt dein Outfit ein wenig Knöchel? Ein freier Knöchel (_Ankle-Cleavage_) lässt die flache Silhouette sofort dynamischer und leichter wirken.
-- **Die Drei-Kombinationen-Regel:** Kannst du den Schuh zu mindestens drei verschiedenen Outfits kombinieren – beispielsweise zu einer lockeren Denim, einer maskulinen Anzughose und einem femininen Rock?
+- **Die Drei-Kombinationen-Regel:** Kannst du den Schuh zu mindestens drei verschiedenen Outfits kombinieren, beispielsweise zu einer lockeren Denim, einer maskulinen Anzughose und einem femininen Rock?
 - **Der Material-Check:** Wiederholt sich die Farbwelt oder die Textur des Schuhs in deinen Accessoires (z.B. Gürtel oder Tasche), um dem Gesamtbild eine ruhige Struktur zu geben?
 
 ## Beratungsblick

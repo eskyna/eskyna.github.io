@@ -42,13 +42,13 @@ Was ist Adaptive Fashion im Kern? Es ist eine Modegattung, die Funktion, Würde 
 **Entwicklung und gesellschaftliche Relevanz**
 Historisch gesehen wurden Menschen mit Behinderungen oder temporären Einschränkungen von der Modeindustrie lange Zeit vernachlässigt. Betroffene mussten oft auf übergroße, unmodische Kleidung oder funktionale, aber unästhetische Pflegekleidung zurückgreifen. Durch die moderne Inklusionsbewegung und das wachsende Bewusstsein für Diversität hat sich dies grundlegend geändert. Immer mehr Designer und namhafte Modemarken entwickeln Kollektionen, die Barrierefreiheit und aktuelle Trends vereinen.
 
-Adaptive Mode ist dabei keineswegs nur auf dauerhafte Behinderungen ausgelegt. Sie unterstützt auch temporäre Bedürfnisse im Lebenslauf – sei es während der Genesung nach einer Operation, bei Verletzungen (z. B. Gipsverbänden), während der Schwangerschaft oder im Alter, wenn die Feinmotorik nachlässt.
+Adaptive Mode ist dabei keineswegs nur auf dauerhafte Behinderungen ausgelegt. Sie unterstützt auch temporäre Bedürfnisse im Lebenslauf, sei es während der Genesung nach einer Operation, bei Verletzungen (z. B. Gipsverbänden), während der Schwangerschaft oder im Alter, wenn die Feinmotorik nachlässt.
 
 Durch die enge Zusammenarbeit von Designern mit Ergo- und Physiotherapeuten sowie den Betroffenen selbst entsteht Kleidung, die Barrieren im Alltag abbaut. Denn Mode ist immer auch ein Ausdruck der eigenen Persönlichkeit: Nur wenn Kleidung barrierefrei und komfortabel ist, können Menschen ihre individuelle [Stilidentität](/glossar/stilidentitaet/) voll entfalten und sich in ihrer modischen [Komfortzone](/glossar/komfortzone/) rundum sicher fühlen.
 
 ## Worauf du achten solltest
 
-- **Materialauswahl und Hautfreundlichkeit:** Bevorzuge weiche, atmungsaktive und dehnbare Materialien (wie Baumwoll-Elasthan-Mischungen, Modal oder Bambusviskose), um Hautirritationen und Druckstellen – insbesondere bei langem Sitzen – zu vermeiden.
+- **Materialauswahl und Hautfreundlichkeit:** Bevorzuge weiche, atmungsaktive und dehnbare Materialien (wie Baumwoll-Elasthan-Mischungen, Modal oder Bambusviskose), um Hautirritationen und Druckstellen, insbesondere bei langem Sitzen, zu vermeiden.
 - **Praktikabilität im Alltag:** Prüfe Verschlüsse, Öffnungen und Einstiegswege unter realen Bedingungen. Lassen sich die Knöpfe oder Magnete leicht mit einer Hand bedienen? Erleichtern sie das Ankleiden im Sitzen oder Liegen?
 - **Sicherheit und Haltbarkeit:** Achte darauf, dass funktionale Details wie Magnetverschlüsse oder Klettbänder hochwertig verarbeitet sind. Sie müssen im Alltag sicher geschlossen bleiben, dürfen nicht unbeabsichtigt aufspringen und sollten auch nach vielen Waschgängen formstabil bleiben.
 - **Schnittführung im Detail:** Bei Hosen für Rollstuhlfahrende sollte das Gesäßteil höher geschnitten sein und im Bauchbereich flach anliegen, um Druckstellen durch überschüssigen Stoff zu vermeiden. Zudem sollten Taschen so platziert sein, dass sie auch im Sitzen leicht zugänglich sind.

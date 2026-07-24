@@ -51,7 +51,7 @@ Eine **Bucket Bag** (deutsch: _Beuteltasche_) ist eine ikonenhafte Handtasche, d
 
 Im Vergleich zu streng geometrischen Handtaschen bringt die Bucket Bag eine organische Weichheit und entspanntes Volumen in jedes Outfit. Sie bricht harte Linien auf und wirkt dadurch unangestrengt elegant.
 
-Je nach Material – von robustem Canvas über weiches Wildleder bis hin zu edlem Glattleder – wandelt sie sich mühelos vom lässigen Freizeitbegleiter zum eleganten Business-Accessoire. Während eine kleine Mini-Bucket-Bag als modisches Statement-Piece und filigranes Detail fungiert, bietet eine großzügige Variante im Alltag viel Stauraum, ohne dabei klobig zu wirken. Sie ist die ideale Balance aus Funktion und modischer Raffinesse.
+Je nach Material, von robustem Canvas über weiches Wildleder bis hin zu edlem Glattleder, wandelt sie sich mühelos vom lässigen Freizeitbegleiter zum eleganten Business-Accessoire. Während eine kleine Mini-Bucket-Bag als modisches Statement-Piece und filigranes Detail fungiert, bietet eine großzügige Variante im Alltag viel Stauraum, ohne dabei klobig zu wirken. Sie ist die ideale Balance aus Funktion und modischer Raffinesse.
 
 ## Warum dieser Begriff wichtig ist
 
@@ -85,7 +85,7 @@ Erzeugt das Accessoire erst in der Gesamtschau ein rundes Bild, hast du die perf
 
 ## ESKYNA-Merksatz
 
-Eine Bucket Bag ist Volumen mit System – sie vereint skulpturale Weichheit mit funktionaler Struktur und wirkt immer dann modern, wenn Form, Material und Proportion im Einklang stehen.
+Eine Bucket Bag ist Volumen mit System, sie vereint skulpturale Weichheit mit funktionaler Struktur und wirkt immer dann modern, wenn Form, Material und Proportion im Einklang stehen.
 
 ## Praxischeck
 

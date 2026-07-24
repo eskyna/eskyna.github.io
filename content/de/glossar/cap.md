@@ -66,7 +66,7 @@ Wenn du eine **Cap kombinieren** und elegant wirken lassen möchtest, solltest d
 
 - **Form und Krone:** Achte auf die Passform. Eine unstrukturierte Krone (wie bei der klassischen _Dad Hat_) schmiegt sich weich an die Kopfform an, während eine verstärkte Front (wie bei der _Snapback_) präsenter und sportlicher wirkt.
 - **Farbe und Branding:** Für ein erwachsenes, minimalistisches Outfit empfiehlt es sich, auf auffällige Logos zu verzichten. Gedeckte Töne wie Navy, Flaschengrün, warmes Beige, Grau oder Schwarz wirken besonders edel.
-- **Der harmonische Stilbruch:** Kombiniere die sportliche Kopfbedeckung bewusst mit hochwertigen Klassikern der Schneiderkunst – zum Beispiel mit einem doppelreihigen Wollmantel, einem eleganten Trenchcoat oder einem feinen Strickpullover.
+- **Der harmonische Stilbruch:** Kombiniere die sportliche Kopfbedeckung bewusst mit hochwertigen Klassikern der Schneiderkunst, zum Beispiel mit einem doppelreihigen Wollmantel, einem eleganten Trenchcoat oder einem feinen Strickpullover.
 
 ## Typische Missverständnisse
 
@@ -94,7 +94,7 @@ Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Capsule Collectio
 Wenn du das Konzept der **Cap** auf deine Garderobe überträgst, betrachte sie als Bindeglied deines Outfits. Materialqualität und feine Details entscheiden darüber, ob der Look nach „schnell übergezogen“ oder nach einem bewussten Modestatement aussieht.
 
 - **Haptik und Struktur:** Fühle das Material. Hat die Cap einen festen, skulpturalen Stand oder fällt sie weich?
-- **Die Oberfläche:** Achte darauf, ob das Material matt, strukturiert oder leicht glänzend ist – das verändert die optische Wertigkeit des gesamten Outfits.
+- **Die Oberfläche:** Achte darauf, ob das Material matt, strukturiert oder leicht glänzend ist, das verändert die optische Wertigkeit des gesamten Outfits.
 - **Verarbeitung:** Achte auf die Details. Ein verstellbarer Riemen aus echtem Leder mit einer filigranen Metallschnalle wirkt um Längen hochwertiger als ein einfacher Plastikverschluss.
 
 ## Beratungsblick

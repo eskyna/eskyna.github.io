@@ -38,7 +38,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Der Begriff **Abendgarderobe** – historisch eng verwandt mit dem französischen Begriff _tenue de soirée_ und der traditionellen gesellschaftlichen „After-Six-Regel“ – bezeichnet die Gesamtheit anspruchsvoller, formeller Kleidung für gesellschaftliche Anlässe am Abend (traditionell ab 18:00 Uhr). Im Gegensatz zur Alltags- und Tageskleidung zeichnet sie sich durch edle Materialien, meisterhafte Schnittführungen und eine festliche Ästhetik aus. Sie wird maßgeblich durch klassische, internationale Dresscodes wie _Black Tie_ (Smoking oder elegantes Abendkleid) und _White Tie_ (Frack oder großes Ballkleid) definiert.
+Der Begriff **Abendgarderobe**, historisch eng verwandt mit dem französischen Begriff _tenue de soirée_ und der traditionellen gesellschaftlichen „After-Six-Regel“, bezeichnet die Gesamtheit anspruchsvoller, formeller Kleidung für gesellschaftliche Anlässe am Abend (traditionell ab 18:00 Uhr). Im Gegensatz zur Alltags- und Tageskleidung zeichnet sie sich durch edle Materialien, meisterhafte Schnittführungen und eine festliche Ästhetik aus. Sie wird maßgeblich durch klassische, internationale Dresscodes wie _Black Tie_ (Smoking oder elegantes Abendkleid) und _White Tie_ (Frack oder großes Ballkleid) definiert.
 
 ## Einfach erklärt
 
@@ -52,13 +52,13 @@ Heute muss ein gelungener [Event-Look](/glossar/event-look/) weit mehr leisten, 
 
 Das Verständnis für hochwertige Abendkleidung schärft das Bewusstsein für erstklassige Passformen, präzise Proportionen und textile Meisterleistung. Wer die feinen Codes und handwerklichen Nuancen festlicher Garderobe durchdringt, investiert nicht in flüchtige Modetrends, sondern baut eine zielgerichtete, langlebige und nachhaltige Kollektion auf. Dies schützt effektiv vor Fehlkäufen und sorgt für eine klare Struktur im eigenen Kleiderschrank.
 
-Zudem schult die Beschäftigung mit formeller Kleidung das Auge für Details, die sich auch auf die alltägliche Mode übertragen lassen. Wer versteht, wie fließende Seide oder strukturierte Schurwolle im künstlichen Abendlicht wirken, kann Stoffqualitäten und Silhouetten im Alltag wesentlich besser einschätzen. So gelingt auch das sogenannte „High-Low-Styling“ spielend – die kunstvolle Kombination von eleganten Key-Pieces mit lässigen Basics.
+Zudem schult die Beschäftigung mit formeller Kleidung das Auge für Details, die sich auch auf die alltägliche Mode übertragen lassen. Wer versteht, wie fließende Seide oder strukturierte Schurwolle im künstlichen Abendlicht wirken, kann Stoffqualitäten und Silhouetten im Alltag wesentlich besser einschätzen. So gelingt auch das sogenannte „High-Low-Styling“ spielend, die kunstvolle Kombination von eleganten Key-Pieces mit lässigen Basics.
 
 ## Worauf du achten solltest
 
 - **Der Dresscode als Kompass:** Analysiere die Einladung im Vorfeld genau. Verlangt der Anlass _Black Tie_ (Smoking bzw. langes Abendkleid), _Semi-Formal_ oder _Cocktail_ (elegantes Cocktailkleid bzw. dunkler Anzug) oder ein entspannteres _Smart Casual_?
 - **Erlesene Materialien und Haptik:** Qualität ist bei festlicher Kleidung das oberste Gebot. Setze auf edle Naturfasern wie Seide, Samt, Brokat, feine Schurwolle (wie Super-100-Qualitäten) oder hochwertige Viskosemischungen. Diese Materialien reflektieren das künstliche Abendlicht brillant und garantieren einen fließenden Fall.
-- **Präzise Passform und Silhouette:** Abendkleidung verzeiht keine schlechte Passform. Ob fließende A-Linie, skulpturales Etuikleid oder perfekt sitzende Schneiderkunst – der Schnitt muss die individuelle Statur optimal betonen und gleichzeitig höchsten Tragekomfort bieten.
+- **Präzise Passform und Silhouette:** Abendkleidung verzeiht keine schlechte Passform. Ob fließende A-Linie, skulpturales Etuikleid oder perfekt sitzende Schneiderkunst, der Schnitt muss die individuelle Statur optimal betonen und gleichzeitig höchsten Tragekomfort bieten.
 - **Farbe und Lichtwirkung:** Da Abendveranstaltungen überwiegend unter künstlichen Lichtquellen stattfinden, entfalten tiefe, opulente Nuancen wie Mitternachtsblau, Smaragdgrün, edles Bordeaux oder das zeitlose Tiefschwarz eine besonders edle Wirkung. Dezent gesetzte Metallic-Akzente sorgen für zusätzliche Tiefe.
 - **Die Kunst des Understatements bei Accessoires:** Weniger ist oft mehr. Hochwertiges Schuhwerk (wie Lackschuhe oder feine Riemchensandaletten), eine dezente Clutch und perfekt abgestimmter Schmuck runden das Ensemble ab, ohne die Gesamtwirkung zu dominieren.
 
@@ -79,7 +79,7 @@ Abendgarderobe entfaltet ihre stärkste Wirkung, wenn sie nicht wie eine Verklei
 Wenn du ein Outfit für festliche Anlässe zusammenstellst, hilft dir dieser strukturierte Praxischeck, stilsicher aufzutreten und Fehlkäufe zu vermeiden:
 
 - **Anlass-Kompatibilität:** Entspricht die Länge und Formalität deiner Kleidung dem Rahmen des Events? (Bodenlang bei hochoffiziellen Gala-Events, Midi oder Knie umspielend beim klassischen Cocktail-Empfang).
-- **Kombinationsstärke (Die 3er-Regel):** Lässt sich das Herzstück deiner Abendgarderobe – beispielsweise ein edler Smoking-Blazer oder ein feines Seidentop – auch außerhalb großer Events einsetzen? Ein gut geschnittener Blazer lässt sich hervorragend als edler Stilbruch zu einer schlichten Jeans kombinieren.
+- **Kombinationsstärke (Die 3er-Regel):** Lässt sich das Herzstück deiner Abendgarderobe, beispielsweise ein edler Smoking-Blazer oder ein feines Seidentop, auch außerhalb großer Events einsetzen? Ein gut geschnittener Blazer lässt sich hervorragend als edler Stilbruch zu einer schlichten Jeans kombinieren.
 - **Licht- und Bewegungstest:** Probiere den Look vorab unter warmem Kunstlicht an. Setze dich hin, bewege dich im Raum und prüfe, ob die Stoffe knitterarm bleiben und das Tragegefühl auch nach mehreren Stunden makellos ist.
 - **Farb- und Materialharmonie:** Harmonieren deine Accessoires (Schuhe, Tasche, Schmuck) perfekt in Farbtemperatur und Textur mit dem Hauptkleidungsstück? Vermeide es, zu viele unruhige Akzente gleichzeitig zu setzen.
 

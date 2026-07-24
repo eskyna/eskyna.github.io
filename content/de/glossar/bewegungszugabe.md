@@ -39,7 +39,7 @@ Wie viel Weitenzugabe ein Kleidungsstück benötigt, hängt von drei wesentliche
 3. **Funktion des Kleidungsstücks:** Ein Mantel, unter dem noch ein Pullover getragen wird, benötigt naturgemäß mehr Zugabe als eine feine Seidenbluse.
 
 **Modehistorischer Kontext:**  
-Die systematische Berechnung der Bewegungszugabe war ein Meilenstein für die Entstehung der modernen Konfektionskleidung (Prêt-à-porter) im 20. Jahrhundert. Während in früheren Epochen – etwa in der Ära des Korsetts – der Körper durch Kleidung extrem geformt und oft komprimiert wurde (Schnittkonstruktion mit negativer Zugabe), etablierte sich mit der zunehmenden Emanzipation und einem aktiveren Lebensstil eine Schnitttechnik, die dem bewegten Körper den nötigen Freiraum schenkt. Heute ist diese funktionale Weite auch ein zentrales Fundament im Bereich der [Adaptive Fashion](/glossar/adaptive-fashion/).
+Die systematische Berechnung der Bewegungszugabe war ein Meilenstein für die Entstehung der modernen Konfektionskleidung (Prêt-à-porter) im 20. Jahrhundert. Während in früheren Epochen, etwa in der Ära des Korsetts, der Körper durch Kleidung extrem geformt und oft komprimiert wurde (Schnittkonstruktion mit negativer Zugabe), etablierte sich mit der zunehmenden Emanzipation und einem aktiveren Lebensstil eine Schnitttechnik, die dem bewegten Körper den nötigen Freiraum schenkt. Heute ist diese funktionale Weite auch ein zentrales Fundament im Bereich der [Adaptive Fashion](/glossar/adaptive-fashion/).
 
 ## Worauf du achten solltest
 
@@ -53,10 +53,10 @@ Um zu prüfen, ob die Bewegungszugabe eines Kleidungsstücks optimal bemessen is
 ## Typisches Missverständnis
 
 Ein weit verbreiteter Irrtum ist, dass Bewegungszugabe gleichbedeutend mit einem weiten Modestil oder "Oversize-Look" ist. Das ist falsch:
-Auch ein figurbetontes, klassisch elegantes Kleidungsstück besitzt eine präzise kalkulierte Bewegungszugabe – sie ist lediglich so meisterhaft in die Schnittführung integriert, dass sie unsichtbar bleibt, während sie den Tragekomfort sichert.
+Auch ein figurbetontes, klassisch elegantes Kleidungsstück besitzt eine präzise kalkulierte Bewegungszugabe, sie ist lediglich so meisterhaft in die Schnittführung integriert, dass sie unsichtbar bleibt, während sie den Tragekomfort sichert.
 
 Ebenso falsch ist die Annahme, dass Stretch-Bekleidung überhaupt keine Zugabe benötigt. Zwar dehnt sich das Material, doch ohne minimale Zugaben verformt sich der Stoff unschön, leiert schneller aus oder wird an den Dehnungspunkten transparent.
 
 ## ESKYNA-Merksatz
 
-> Passform endet nicht im Stand – erst die richtige Bewegungszugabe entscheidet, ob Kleidung deinen Alltag mühelos mitmacht.
+> Passform endet nicht im Stand, erst die richtige Bewegungszugabe entscheidet, ob Kleidung deinen Alltag mühelos mitmacht.

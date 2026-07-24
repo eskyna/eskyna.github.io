@@ -45,10 +45,10 @@ In der Mode besetzen diese cremigen Nuancen eine stilvolle Nische: Sie sind wese
 Obwohl ein helles Gelb-Styling als weich und einladend gilt, erfordert die exakte Nuancierung in der Farbberatung Fingerspitzengefühl. Die Bedeutung von Buttergelb liegt in seiner feinen, warmen Pigmentierung.
 
 - **Der Teint-Test:** Prüfe kritisch direkt am Gesicht, ob der Ton dem Teint eine gesunde, warme Frische verleiht oder ihn blass und fahl wirken lässt.
-- **Farbtypen:** Während das warme Buttergelb besonders Frühlings- und Herbsttypen schmeichelt, sollten kühlere Farbtypen (Sommer und Winter) eher zu einem sehr hellen, leicht ins Pastell-Zitronige gehenden Vanillegelb greifen oder die Farbe bewusst abseits des Gesichts – etwa als Rock, Hose oder Tasche – tragen.
+- **Farbtypen:** Während das warme Buttergelb besonders Frühlings- und Herbsttypen schmeichelt, sollten kühlere Farbtypen (Sommer und Winter) eher zu einem sehr hellen, leicht ins Pastell-Zitronige gehenden Vanillegelb greifen oder die Farbe bewusst abseits des Gesichts, etwa als Rock, Hose oder Tasche, tragen.
 
 ## Styling-Tipp
 
 Um Vanillegelb modern zu kombinieren, braucht es den richtigen Kontrapunkt. Ein zeitloser, skandinavisch inspirierter Everyday-Look entsteht im Zusammenspiel mit lässigem [Denim](/glossar/denim/). Für eine anspruchsvolle, herbstliche Note lässt sich das helle Gelb perfekt mit sattem [Schokoladenbraun](/glossar/schokoladenbraun/) oder erdigen Tönen wie Ocker verbinden. Mutige Trendsetter stylen die soften Nuancen im Color-Blocking mit zartem Flieder oder kühlem Grau.
 
-**ESKYNA-Merksatz:** Buttergelb ist leise, aber nicht neutral – es bringt eine sichtbare, elegante Wärme in den Look, ohne laut zu wirken.
+**ESKYNA-Merksatz:** Buttergelb ist leise, aber nicht neutral, es bringt eine sichtbare, elegante Wärme in den Look, ohne laut zu wirken.

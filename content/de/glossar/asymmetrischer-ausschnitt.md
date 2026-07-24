@@ -16,7 +16,7 @@ Ein **asymmetrischer Ausschnitt** ist eine anspruchsvolle Ausschnittform in der 
 
 Die Asymmetrie bei dieser Ausschnittform kann auf vielfältige Weise erzeugt werden: durch eine diagonal verlaufende Ausschnittkante, ungleich breite oder versetzte Träger, eine kunstvolle Drapierung, einen seitlich verschobenen Kragen oder eine ungleich bedeckte Schulterpartie. Der bekannte **One-Shoulder-Ausschnitt** (auch Einschulter-Ausschnitt genannt) gehört als markante Unterform zur Familie der asymmetrischen Ausschnitte, stellt jedoch keineswegs die einzige Variante dar.
 
-Entscheidend für die Definition ist die bewusste Abweichung von der vertikalen Mittelachse des Körpers. Diese Linienführung kann minimalistisch-dezent ausfallen – beispielsweise durch einen leicht versetzten Faltenwurf – oder dramatisch inszeniert werden, indem eine Schulter vollständig frei bleibt, während die andere hochgeschlossen oder langärmelig bedeckt ist.
+Entscheidend für die Definition ist die bewusste Abweichung von der vertikalen Mittelachse des Körpers. Diese Linienführung kann minimalistisch-dezent ausfallen, beispielsweise durch einen leicht versetzten Faltenwurf, oder dramatisch inszeniert werden, indem eine Schulter vollständig frei bleibt, während die andere hochgeschlossen oder langärmelig bedeckt ist.
 
 ## Einfach erklärt
 
@@ -51,7 +51,7 @@ Ein wesentliches Qualitätskriterium in der Praxis ist die Passform und Stabilit
 
 ## Beispiel aus dem Alltag
 
-Ein puristisches, einfarbiges Jersey-Oberteil mit einem sanft asymmetrisch verlaufenden Ausschnitt wertet eine schlichte Blue Jeans und klassische Slipper sofort auf. Da der asymmetrische Schnitt die visuelle Hauptrolle übernimmt, kannst du auf eine Halskette verzichten. Kombiniere stattdessen filigrane Ohrringe oder einen markanten Armreif – so bleibt die klare, diagonale Linie des Ausschnitts ungestört im Fokus.
+Ein puristisches, einfarbiges Jersey-Oberteil mit einem sanft asymmetrisch verlaufenden Ausschnitt wertet eine schlichte Blue Jeans und klassische Slipper sofort auf. Da der asymmetrische Schnitt die visuelle Hauptrolle übernimmt, kannst du auf eine Halskette verzichten. Kombiniere stattdessen filigrane Ohrringe oder einen markanten Armreif, so bleibt die klare, diagonale Linie des Ausschnitts ungestört im Fokus.
 
 ## Typisches Missverständnis
 
@@ -76,7 +76,7 @@ Ein asymmetrischer Ausschnitt lebt von gerichteter Spannung: Seine ungleiche Sch
 - Sitzt der Ausschnitt auch bei aktiver Bewegung (Gehen, Setzen, Arme heben) sicher an der vorgesehenen Stelle?
 - Fühlst du dich mit der asymmetrisch freigegebenen Hautfläche über den Tag hinweg absolut wohl?
 - Hast du eine passende und bequeme Unterwäschelösung (z. B. einen gut sitzenden trägerlosen BH) parat?
-- Passt der Stil der Diagonale zu deiner Garderobe – wirkt er eher clean-grafisch, feminin-drapierte oder avantgardistisch-festlich?
+- Passt der Stil der Diagonale zu deiner Garderobe, wirkt er eher clean-grafisch, feminin-drapierte oder avantgardistisch-festlich?
 - Lässt sich das Oberteil oder Kleid vielseitig mit mindestens zwei deiner Lieblingsunterteile bzw. Jacken kombinieren?
 
 ## Wann Beratung sinnvoll wird

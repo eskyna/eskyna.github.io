@@ -39,14 +39,14 @@ Beide Töne sind helle Wärmefarben, die eine sanfte, einladende und vitale Auss
 
 - **Modehistorischer Kontext:** In der Modegeschichte erlebte die Pfirsich-Farbe insbesondere in den glamourösen 1920er- und 1930er-Jahren (im Zuge des Art-Déco-Booms für fließende Abendgarderobe) sowie in den 1980er-Jahren als beliebte Nuance für Sommerkleider und Brautjungfernmoden regelrechte Meilensteine. Zuletzt feierte die Farbfamilie unter dem Namen „Peach Fuzz“ als Pantone-Farbe des Jahres ein großes Runway-Comeback.
 - **Materialien & Texturen:** Besonders edel wirken Apricot und Pfirsich auf edlen Naturfasern. Auf fließender Seide, feinem Satin, Chiffon oder softem Kaschmirstrick entfalten die Nuancen durch den feinen Schimmer des Materials ihre maximale Leuchtkraft.
-- **Typischer Einsatz:** Die soften Nuancen sind echte Allrounder für die warme Jahreszeit. Ob als luftige Blusen, sommerlicher Feinstrick, elegante Maxikleider oder dezente Accessoires wie Schals und Taschen – sie verleihen jedem Outfit sofort eine feminine, frische Note.
+- **Typischer Einsatz:** Die soften Nuancen sind echte Allrounder für die warme Jahreszeit. Ob als luftige Blusen, sommerlicher Feinstrick, elegante Maxikleider oder dezente Accessoires wie Schals und Taschen, sie verleihen jedem Outfit sofort eine feminine, frische Note.
 
 ## Beratungsblick
 
 In der professionellen Farb- und Stilberatung gelten Apricot und Pfirsich als schmeichelhafte, aber durchaus anspruchsvolle Töne. Da beide Farben eine hohe Helligkeit besitzen und oft nah am individuellen Hautton liegen, besteht die Gefahr, dass sie zu wenig Kontrast erzeugen und das Gesicht optisch „auswaschen“.
 
-- **Farbtyp-Kompatibilität:** Das gelbliche Apricot harmoniert hervorragend mit den warmen Untertönen des Frühlings- und Herbsttyps. Die rosigere Pfirsich-Farbe hingegen kann – sofern sie kühl genug unterlegt ist – auch von Mischtypen getragen werden.
-- **Der Spiegel-Test:** Prüfe das Kleidungsstück direkt am ungeschminkten Gesicht unter natürlichem Tageslicht. Lässt der Ton deinen Teint strahlen, ist er perfekt. Lässt er dich müde wirken, empfiehlt es sich, die Farbe abseits des Gesichts einzusetzen – beispielsweise als Hose, Rock oder Tasche.
+- **Farbtyp-Kompatibilität:** Das gelbliche Apricot harmoniert hervorragend mit den warmen Untertönen des Frühlings- und Herbsttyps. Die rosigere Pfirsich-Farbe hingegen kann, sofern sie kühl genug unterlegt ist, auch von Mischtypen getragen werden.
+- **Der Spiegel-Test:** Prüfe das Kleidungsstück direkt am ungeschminkten Gesicht unter natürlichem Tageslicht. Lässt der Ton deinen Teint strahlen, ist er perfekt. Lässt er dich müde wirken, empfiehlt es sich, die Farbe abseits des Gesichts einzusetzen, beispielsweise als Hose, Rock oder Tasche.
 
 ## Styling-Tipp
 

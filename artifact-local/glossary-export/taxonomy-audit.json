@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-22T06:06:49.261Z",
+  "generated_at": "2026-07-24T09:52:40.337Z",
   "glossary_directory": "content/de/glossar",
-  "total_categories": 10,
+  "total_categories": 9,
   "assigned_subcategories": 126,
   "matching_subcategories": 122,
   "non_rule_subcategories": 4,
   "category_summary": [
     {
       "category": "Materialien & Details",
-      "count": 228
+      "count": 250
     },
     {
       "category": "Garderobe & Alltag",
-      "count": 163
+      "count": 186
     },
     {
       "category": "Stil & Wirkung",
-      "count": 115
+      "count": 132
     },
     {
       "category": "Schnitt, Proportion & Passform",
@@ -32,29 +32,18 @@
     },
     {
       "category": "Schuhe",
-      "count": 36
+      "count": 48
     },
     {
       "category": "Kleider & Roecke",
-      "count": 33
+      "count": 35
     },
     {
       "category": "Dresscodes & Anlaesse",
       "count": 25
-    },
-    {
-      "category": "Pflege & Wäsche",
-      "count": 1
     }
   ],
-  "outlier_categories": [
-    {
-      "file": "content/de/glossar/einlaufen.md",
-      "term": "Einlaufen bei Kleidung",
-      "category_raw": "Pflege & Wäsche",
-      "category_normalized": "Pflege & Wäsche"
-    }
-  ],
+  "outlier_categories": [],
   "suggested_subcategories": [
     {
       "file": "content/de/glossar/asymmetrischer-ausschnitt.md",
@@ -71,11 +60,18 @@
       "suggested_subcategory": "Größen & Passform"
     },
     {
-      "file": "content/de/glossar/einlaufen.md",
-      "term": "Einlaufen bei Kleidung",
-      "category": "Pflege & Wäsche",
+      "file": "content/de/glossar/bh-groesse-messen.md",
+      "term": "BH-Größe messen",
+      "category": "Garderobe & Alltag",
       "current_subcategory": "",
-      "suggested_subcategory": "Pflege & Wäsche"
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/bh-passform.md",
+      "term": "BH-Passform",
+      "category": "Garderobe & Alltag",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
     },
     {
       "file": "content/de/glossar/illusion-ausschnitt.md",
@@ -104,6 +100,20 @@
       "category": "Schnitt, Proportion & Passform",
       "current_subcategory": "",
       "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/schuhpflege.md",
+      "term": "Schuhpflege",
+      "category": "Materialien & Details",
+      "current_subcategory": "",
+      "suggested_subcategory": "Pflege & Wäsche"
+    },
+    {
+      "file": "content/de/glossar/strapsguertel.md",
+      "term": "Strapsgürtel und Strapse",
+      "category": "Garderobe & Alltag",
+      "current_subcategory": "",
+      "suggested_subcategory": "Accessoires"
     }
   ]
 }

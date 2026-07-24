@@ -2,7 +2,7 @@
 title: "Was ist ein Babydoll, Dessous oder Kleid?"
 term: "Babydoll"
 description: "Babydoll als Wäsche und Kleid verstehen: Schnitt, Materialien, Unterschiede zu Negligé, Chemise und Slip Dress."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "babydoll"
 seoTitle: "Babydoll: Dessous, Kleid und Unterschiede | ESKYNA"
 image: "images/glossar/babydoll.png"
@@ -10,7 +10,7 @@ image_alt: "Glossar-Illustration zu Babydoll"
 lastmod: "2026-07-22"
 ---
 
-Das **Babydoll** ist ein zeitloser Klassiker der Modegeschichte, der elegant die Grenze zwischen verführerischen Dessous und verspielter Oberbekleidung überschreitet. Charakteristisch für diesen ikonischen Schnitt ist die ausgestellte, lockere Silhouette, die direkt unter der Brust ansetzt (Empire-Linie) und sanft über Hüfte und Gesäß fällt. Ob als hauchzartes Nachthemd aus Seide und Spitze oder als modisches Babydoll-Kleid im Alltag – der Look vereint Komfort, feminine Leichtigkeit und subtile Eleganz. Entscheidend für die perfekte Wirkung ist das Zusammenspiel aus hochwertigen Materialien, präzisen Proportionen und dem passenden Styling.
+Das **Babydoll** ist ein zeitloser Klassiker der Modegeschichte, der elegant die Grenze zwischen verführerischen Dessous und verspielter Oberbekleidung überschreitet. Charakteristisch für diesen ikonischen Schnitt ist die ausgestellte, lockere Silhouette, die direkt unter der Brust ansetzt (Empire-Linie) und sanft über Hüfte und Gesäß fällt. Ob als hauchzartes Nachthemd aus Seide und Spitze oder als modisches Babydoll-Kleid im Alltag, der Look vereint Komfort, feminine Leichtigkeit und subtile Eleganz. Entscheidend für die perfekte Wirkung ist das Zusammenspiel aus hochwertigen Materialien, präzisen Proportionen und dem passenden Styling.
 
 ## Definition
 
@@ -44,7 +44,7 @@ Bei Dessous achten wir auf die feine Balance zwischen Transparenz und Halt im Br
 - **Materialien weise wählen:** Für sinnliche Stunden im Boudoir-Stil eignen sich Seide, Satin, Chiffon, Tüll und filigrane Spitze. Für den Streetstyle-Look greifst du zu griffigem Denim, Leinen oder strukturierter Baumwolle.
 - **Die richtige Unterwäsche:** Da die Träger oft sehr schmal sind oder der Schnitt rückenfrei ist, sind trägerlose BHs, Klebe-Schalen (Nipple Covers) oder filigrane, farblich abgestimmte Spitzen-Bralettes unverzichtbar.
 - **Schuhwerk als Stilbrecher:** Kombiniere ein feminines Babydoll-Kleid im Alltag mit derben Chunky Boots, Loafern oder Sneakern, um dem Look die kindliche Verspieltheit zu nehmen und ihm eine moderne, coole Note zu verleihen.
-- **Layering-Techniken:** Ein dünnes Babydoll-Oberteil lässt sich hervorragend über ein eng anliegendes weißes T-Shirt oder einen Rollkragenpullover layern – ein genialer Modetrend im Sinne des Grunge- und 90er-Jahre-Revivals.
+- **Layering-Techniken:** Ein dünnes Babydoll-Oberteil lässt sich hervorragend über ein eng anliegendes weißes T-Shirt oder einen Rollkragenpullover layern, ein genialer Modetrend im Sinne des Grunge- und 90er-Jahre-Revivals.
 
 ## Konkretes Beispiel aus Alltag, Beruf oder Anlass
 
@@ -72,7 +72,7 @@ Das Babydoll entfaltet seine stärkste Wirkung im spannenden Kontrast: Hauchzart
 - **Silhouette & Proportion:** Setzt die Naht an der für dich optimalen Stelle knapp unter der Brust an, ohne einzuschneiden oder aufzutragen?
 - **Länge und Transparenz:** Ist das Modell als blickdichtes Kleid für die Straße gedacht oder als transparentes Dessous-Nachthemd für private Stunden?
 - **Materialqualität:** Fällt der Stoff fließend und soft (wie echte Seide, Viskose oder Modal) oder hat er Stand und Volumen (wie Baumwoll-Popeline oder Tüll)?
-- **Kombinationspotenzial:** Lässt sich das Teil vielseitig stylen – beispielsweise im Sommer solo und im Herbst im Layering-Look über schmalen Hosen?
+- **Kombinationspotenzial:** Lässt sich das Teil vielseitig stylen, beispielsweise im Sommer solo und im Herbst im Layering-Look über schmalen Hosen?
 - **Komfortfaktor:** Bietet das Oberteil genügend Halt und Bewegungsfreiheit, sodass du dich den ganzen Tag (oder die ganze Nacht) rundum wohlfühlst?
 
 ## Wann Beratung sinnvoll wird

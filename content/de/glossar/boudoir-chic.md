@@ -29,7 +29,7 @@ Wichtig ist: Boudoir Chic ist eine Stilbezeichnung und kein historisches Kostüm
 
 ## Einfach erklärt
 
-Boudoir Chic bringt die Eleganz edler Nachtwäsche auf die Straße – absolut alltagstauglich und stilsicher. Statt echte Unterwäsche eins zu eins als Oberbekleidung zu tragen, nutzt dieser Stil die edlen Stoffe und zarten Schnitte für das alltägliche Styling.
+Boudoir Chic bringt die Eleganz edler Nachtwäsche auf die Straße, absolut alltagstauglich und stilsicher. Statt echte Unterwäsche eins zu eins als Oberbekleidung zu tragen, nutzt dieser Stil die edlen Stoffe und zarten Schnitte für das alltägliche Styling.
 
 Ein klassisches Beispiel ist das feine **Satin-Camisole**, das unter einem streng geschnittenen Hosenanzug getragen wird, oder ein fließendes Seidenkleid kombiniert mit einem grob gestrickten Cardigan. Der Clou liegt im bewussten **Stilbruch**: Zarte, fließende Stoffe treffen auf strukturierte, feste Materialien. Dadurch wirkt das Outfit niemals aufdringlich, sondern mühelos elegant und modern.
 
@@ -73,7 +73,7 @@ Nach Feierabend verwandelt sich das Outfit im Handumdrehen in einen eleganten Ba
 
 Ein weitverbreiteter Irrglaube lautet: _„Boudoir Chic bedeutet, im Slip und BH auf die Straße zu gehen.“_
 
-Das ist falsch. Der moderne Boudoir-Stil ist keine Freizügigkeit um jeden Preis, sondern ein **Zitieren von Elementen**. Es geht um die Texturen, den fließenden Fall der Stoffe und die feinen Details der Lingerie. Ein hochgeschlossener Feinstrickpullover, unter dem am Saum nur ein Streifen edler Seidenspitze hervorlugt, verkörpert Boudoir Chic par excellence – ganz ohne viel Haut zu zeigen.
+Das ist falsch. Der moderne Boudoir-Stil ist keine Freizügigkeit um jeden Preis, sondern ein **Zitieren von Elementen**. Es geht um die Texturen, den fließenden Fall der Stoffe und die feinen Details der Lingerie. Ein hochgeschlossener Feinstrickpullover, unter dem am Saum nur ein Streifen edler Seidenspitze hervorlugt, verkörpert Boudoir Chic par excellence, ganz ohne viel Haut zu zeigen.
 
 ## Abgrenzung zu ähnlichen Begriffen
 

@@ -48,7 +48,7 @@ Für ESKYNA ist dieses Kleidungsstück dann ein wertvolles Element, wenn es eine
 
 ## Warum Bodycon Dress wichtig ist
 
-Aus modehistorischer Sicht revolutionierte das Bodycon-Design in den späten 1980er und frühen 1990er Jahren die Damenmode. Modeschöpfer wie Azzedine Alaïa – auch bekannt als „King of Cling“ – und später Hervé Léger mit seinen ikonischen „Bandage Dresses“ machten die skulpturale, körperbetonte Silhouette weltberühmt. Sie feierten die weibliche Form durch hochentwickelte Stricktechniken und elastische, formgebende Gewebe.
+Aus modehistorischer Sicht revolutionierte das Bodycon-Design in den späten 1980er und frühen 1990er Jahren die Damenmode. Modeschöpfer wie Azzedine Alaïa, auch bekannt als „King of Cling“, und später Hervé Léger mit seinen ikonischen „Bandage Dresses“ machten die skulpturale, körperbetonte Silhouette weltberühmt. Sie feierten die weibliche Form durch hochentwickelte Stricktechniken und elastische, formgebende Gewebe.
 
 Heute hilft dir das Verständnis dieses Kleidungsstils dabei, bewusste Kaufentscheidungen zu treffen. Wenn du weißt, wie ein echtes Bodycon-Modell konstruiert ist, achtest du gezielter auf Materialstärke und Webart. Dadurch wird das Kleid von einem simplen Trendteil zu einem vielseitig einsetzbaren Key-Piece, das deine Garderobe bereichert, statt als Fehlkauf im Schrank zu hängen.
 
@@ -57,7 +57,7 @@ Heute hilft dir das Verständnis dieses Kleidungsstils dabei, bewusste Kaufentsc
 - **Materialqualität**: Bevorzuge feste, dichte Stoffe (wie schweren Ponte-Jersey, feste Viskose-Mischungen oder Rippstrick), die formstabil bleiben und eine glatte Silhouette formen.
 - **Länge und Balance**: Ein sehr eng anliegender Schnitt wirkt in Midi- oder Maxi-Länge oft eleganter und moderner als ein ultrakurzes Mini-Modell.
 - **Die richtige Unterwäsche**: Nahtlose, laser-cut Unterwäsche oder dezente Shapewear sorgt für eine harmonische Linienführung ohne sichtbare Abdrücke.
-- **Proportionen im Styling**: Kombiniere die körpernahe Silhouette im Alltag mit weiten, strukturierten Gegenstücken – wie einem Oversize-Blazer, einem maskulinen Trenchcoat oder einer lässigen Denim-Jacke.
+- **Proportionen im Styling**: Kombiniere die körpernahe Silhouette im Alltag mit weiten, strukturierten Gegenstücken, wie einem Oversize-Blazer, einem maskulinen Trenchcoat oder einer lässigen Denim-Jacke.
 
 ## Typische Missverständnisse
 

@@ -2,7 +2,7 @@
 title: "Was ist ein Strapsgürtel, und wie funktionieren Strapse?"
 term: "Strapsgürtel und Strapse"
 description: "Wie funktioniert ein Strapsgürtel? Sitz, passende Strümpfe, Unterschied zu halterlosen Strümpfen und praktische Anwendung."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "strapsguertel"
 seoTitle: "Strapsgürtel und Strapse richtig tragen | ESKYNA"
 image: "images/glossar/strapsguertel.png"

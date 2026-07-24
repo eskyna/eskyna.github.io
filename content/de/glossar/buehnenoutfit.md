@@ -79,7 +79,7 @@ Auf einer Bühne herrschen andere optische Gesetze als im direkten Gespräch unt
 
 ## Warum der Begriff wichtig ist
 
-Modehistorisch war die Kleidung auf Erhöhungen – ob Kanzel, Podium oder Theaterbühne – schon immer ein Instrument der Repräsentation und nonverbalen Kommunikation. In der heutigen Business- und Medienwelt transportiert ein professionelles Vortrag-Outfit Kompetenz, Dynamik und Souveränität. Es unterstützt das psychologische Phänomen der _Enclothed Cognition_ (die Auswirkung von Kleidung auf die eigene Leistungsfähigkeit) und sorgt dafür, dass die visuelle Identität der vortragenden Person die gesprochene Botschaft harmonisch unterstreicht, statt von ihr abzulenken.
+Modehistorisch war die Kleidung auf Erhöhungen, ob Kanzel, Podium oder Theaterbühne, schon immer ein Instrument der Repräsentation und nonverbalen Kommunikation. In der heutigen Business- und Medienwelt transportiert ein professionelles Vortrag-Outfit Kompetenz, Dynamik und Souveränität. Es unterstützt das psychologische Phänomen der _Enclothed Cognition_ (die Auswirkung von Kleidung auf die eigene Leistungsfähigkeit) und sorgt dafür, dass die visuelle Identität der vortragenden Person die gesprochene Botschaft harmonisch unterstreicht, statt von ihr abzulenken.
 
 ## Typische Missverständnisse
 
@@ -109,7 +109,7 @@ Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kate
 
 Frag dich bei der Auswahl deines **Bühnenoutfits**: Welche strategische Aufgabe soll dieses Kleidungsstück auf der Bühne übernehmen? Soll es die Silhouette strecken, durch eine strukturierte Schulterlinie Autorität vermitteln, Ruhe ausstrahlen oder als subtiler Farbakzent deine Nahbarkeit unterstreichen? Sobald du diese Funktion definiert hast, triffst du Kauf- und Kombinationsentscheidungen wesentlich fokussierter.
 
-Setze bei deiner Auftritts-Garderobe auf das Prinzip der bewährten Wiederholung. Hochwertige Keypieces sollten vielseitig kombinierbar sein, um in unterschiedlichen Settings zu funktionieren. Teste im Vorfeld bewusst zwei stilistische Richtungen – eine minimalistisch-elegante und eine moderner strukturierte Variante. Notiere dir, in welchem Look du dich freier bewegst und kraftvoller sprichst. So wird das Thema **Bühnenoutfit** zu einem kalkulierbaren Erfolgsfaktor deiner Performance.
+Setze bei deiner Auftritts-Garderobe auf das Prinzip der bewährten Wiederholung. Hochwertige Keypieces sollten vielseitig kombinierbar sein, um in unterschiedlichen Settings zu funktionieren. Teste im Vorfeld bewusst zwei stilistische Richtungen, eine minimalistisch-elegante und eine moderner strukturierte Variante. Notiere dir, in welchem Look du dich freier bewegst und kraftvoller sprichst. So wird das Thema **Bühnenoutfit** zu einem kalkulierbaren Erfolgsfaktor deiner Performance.
 
 <!-- commercial-depth-start -->
 

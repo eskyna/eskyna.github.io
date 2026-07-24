@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Was bedeutet Bund im alltäglichen Styling? Vereinfacht gesagt ist der Bund der optische und physische „Anker“ deines Beinkleids. Er bestimmt, auf welcher Höhe ein Kleidungsstück sitzt – ob hoch in der Taille (High Waist), klassisch auf mittlerer Höhe (Mid Waist) oder tief auf der Hüfte (Low Waist).
+Was bedeutet Bund im alltäglichen Styling? Vereinfacht gesagt ist der Bund der optische und physische „Anker“ deines Beinkleids. Er bestimmt, auf welcher Höhe ein Kleidungsstück sitzt, ob hoch in der Taille (High Waist), klassisch auf mittlerer Höhe (Mid Waist) oder tief auf der Hüfte (Low Waist).
 
 Kleine Veränderungen in der Bundhöhe oder der Bundverarbeitung verschieben die gesamte Balance eines Outfits. Sie beeinflussen, wie lang deine Beine wirken und wie fließend der Übergang zwischen Ober- und Unterkörper verläuft. Für ESKYNA ist ein präzise gearbeiteter Bund ein entscheidendes Werkzeug für ein stimmiges Gesamtbild: Gute Proportionen bringen visuelle Ruhe in ein Outfit. Nicht der Körper muss sich dem Schnitt anpassen, sondern die Kleidung muss der Anatomie harmonisch folgen.
 
@@ -88,7 +88,7 @@ In der persönlichen Stilberatung ist der **Bund** weit mehr als ein technisches
 
 Tiefergehende Einblicke in die Architektur von Kleidung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du unsicher bist, wie du deine Silhouette optimal betonst oder eine konkrete Frage zu einer Kombination hast, nutze die persönliche [Stilfrage an Natalia](/stilfrage/).
 
-Ein spannender modischer Gegenpol zum alltagstauglichen, präzise sitzenden Bund ist übrigens das [Bühnenoutfit](/glossar/buehnenoutfit/) – hier weichen funktionale Alltagsaspekte oft spektakulären, bühnenwirksamen Proportionen und extremen Schnittführungen.
+Ein spannender modischer Gegenpol zum alltagstauglichen, präzise sitzenden Bund ist übrigens das [Bühnenoutfit](/glossar/buehnenoutfit/), hier weichen funktionale Alltagsaspekte oft spektakulären, bühnenwirksamen Proportionen und extremen Schnittführungen.
 
 ## Verwandte Begriffe
 

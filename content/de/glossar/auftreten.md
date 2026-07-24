@@ -44,7 +44,7 @@ Umgekehrt kann eine starke, in sich ruhende Ausstrahlung selbst ein schlichtes, 
 
 Das Verständnis für das eigene Auftreten ist der Schlüssel zu einer zielgerichteten nonverbalen Kommunikation. Wer die Mechanismen hinter Kleidung und Körpersprache versteht, kann Garderobe im Alltag und im Berufsleben strategisch einsetzen.
 
-Historisch gesehen diente das Auftreten – geprägt durch strenge Kleidervorschriften (Luxusgesetze) – der Manifestation von sozialem Status. In der modernen Garderobe hingegen ist ein **professionelles Auftreten** demokratischer geworden: Es basiert auf Authentizität, Passform und der Fähigkeit, Situationen stilvoll zu navigieren. An dieser Schnittstelle wird [Wirkungskompetenz](/glossar/wirkungskompetenz/) in der Praxis spürbar und messbar.
+Historisch gesehen diente das Auftreten, geprägt durch strenge Kleidervorschriften (Luxusgesetze), der Manifestation von sozialem Status. In der modernen Garderobe hingegen ist ein **professionelles Auftreten** demokratischer geworden: Es basiert auf Authentizität, Passform und der Fähigkeit, Situationen stilvoll zu navigieren. An dieser Schnittstelle wird [Wirkungskompetenz](/glossar/wirkungskompetenz/) in der Praxis spürbar und messbar.
 
 ## Typische Missverständnisse
 

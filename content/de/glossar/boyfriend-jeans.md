@@ -41,7 +41,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Boyfriend Jeans** bezeichnen eine locker und weit geschnittene Jeansform für Damen, die sich durch eine entspannte, maskulin inspirierte Silhouette auszeichnet. Typischerweise sitzen sie tiefer auf der Hüfte (Low-Rise oder Mid-Rise) und weisen einen geraden oder leicht konisch zulaufenden Beinverlauf auf. Sie imitieren die Passform einer klassischen Herrenjeans und verleihen Outfits eine mühelose, lässige Note.
+**Boyfriend Jeans** bezeichnen eine locker und weit geschnittene Jeansform für Damen, die sich durch eine entspannte, maskulin inspirierte Silhouette auszeichnet. Typischerweise sitzen sie tiefer auf der Hüfte (Low-Rise oder Mid-Rise) und weisen einen geraden oder leicht konisch zulaufenden Beinverlauf auf. du imitieren die Passform einer klassischen Herrenjeans und verleihen Outfits eine mühelose, lässige Note.
 
 ## Einfach erklärt
 
@@ -49,11 +49,11 @@ Um die Frage „**Was sind Boyfriend Jeans**?“ bildhaft zu beantworten: Der Na
 
 Modehistorisch markiert dieser Schnitt eine spannende Entwicklung: Bereits in den 1960er-Jahren trug die Stilikone Marilyn Monroe im Film _The Misfits_ weite, robuste Herrenjeans und legte damit den Grundstein für den androgynen Denim-Look. Zum weltweiten Trend avancierte die Passform schließlich im Jahr 2008, als Schauspielerin Katie Holmes in den weiten Vintage-Jeans ihres damaligen Ehemannes Tom Cruise fotografiert wurde.
 
-Hochwertige Boyfriend Jeans bestehen meist aus festem, schwerem Denim (oft aus 100 % Baumwolle ohne Elasthan-Anteil), um den authentischen, strukturierten Fall zu garantieren. Trotz der gewollten Weite zeichnen sie sich durch eine präzise Schnittführung an Bund und Gesäß aus, damit die Silhouette vorteilhaft betont bleibt. Typischerweise werden die Säume lässig umgekrempelt, um den Knöchel freizulegen. Wenn Sie eine **Boyfriend Jeans kombinieren**, entsteht durch das Zusammenspiel mit feinen Slingbacks, eleganten Loafern oder schmalen Sneakern ein stilvoller und spannungsreicher Kontrast.
+Hochwertige Boyfriend Jeans bestehen meist aus festem, schwerem Denim (oft aus 100 % Baumwolle ohne Elasthan-Anteil), um den authentischen, strukturierten Fall zu garantieren. Trotz der gewollten Weite zeichnen sie sich durch eine präzise Schnittführung an Bund und Gesäß aus, damit die Silhouette vorteilhaft betont bleibt. Typischerweise werden die Säume lässig umgekrempelt, um den Knöchel freizulegen. Wenn du eine **Boyfriend Jeans kombinieren**, entsteht durch das Zusammenspiel mit feinen Slingbacks, eleganten Loafern oder schmalen Sneakern ein stilvoller und spannungsreicher Kontrast.
 
 ## Warum dieser Begriff wichtig ist
 
-In der Modegeschichte steht die Boyfriend Jeans für den wegweisenden Wandel weg von extrem figurbetonten Schnitten (wie der Skinny Jeans) hin zu bequemen, androgynen „Anti-Fit“-Silhouetten. Sie ist ein Paradebeispiel für die Demokratisierung der Garderobe und das Verschmelzen von Damen- und Herrenmode. Zugleich verdeutlicht der Begriff ein zentrales Styling-Prinzip: Ein entspanntes Keypiece entfaltet seine Eleganz erst dann vollständig, wenn das restliche Outfit durch gezielte Kontraste eine klare Struktur erhält.
+In der Modegeschichte steht die Boyfriend Jeans für den wegweisenden Wandel weg von extrem figurbetonten Schnitten (wie der Skinny Jeans) hin zu bequemen, androgynen „Anti-Fit“-Silhouetten. du ist ein Paradebeispiel für die Demokratisierung der Garderobe und das Verschmelzen von Damen- und Herrenmode. Zugleich verdeutlicht der Begriff ein zentrales Styling-Prinzip: Ein entspanntes Keypiece entfaltet seine Eleganz erst dann vollständig, wenn das restliche Outfit durch gezielte Kontraste eine klare Struktur erhält.
 
 ## Worauf du achten solltest
 
@@ -65,14 +65,14 @@ In der Modegeschichte steht die Boyfriend Jeans für den wegweisenden Wandel weg
 ## Typische Missverständnisse
 
 **Missverständnis:** Boyfriend Jeans sind einfach nur gewöhnliche Jeans, die zwei Nummern zu groß gekauft wurden.  
-**Besser:** Eine echte Boyfriend Jeans ist speziell für den weiblichen Körper konstruiert. Sie sitzt an Hüfte und Gesäß optimal, um Halt zu garantieren, während die Beine den gewollten, entspannten Oversize-Effekt aufweisen.
+**Besser:** Eine echte Boyfriend Jeans ist speziell für den weiblichen Körper konstruiert. du sitzt an Hüfte und Gesäß optimal, um Halt zu garantieren, während die Beine den gewollten, entspannten Oversize-Effekt aufweisen.
 
 **Missverständnis:** Dieser Jeans-Typ lässt sich nicht elegant oder feminin stylen.  
 **Besser:** Gerade durch den bewussten Stilbruch mit luxuriösen Materialien wie Kaschmir oder Seide sowie femininen Accessoires und Absätzen entsteht ein moderner, anspruchsvoller High-Low-Look.
 
 ## ESKYNA-Merksatz
 
-Boyfriend Jeans leben von der Kunst des bewussten Kontrasts: Ihre maskuline Lässigkeit entfaltet erst dann ihre volle modische Wirkung, wenn das restliche Outfit durch feminine Attribute und geometrische Struktur elegant geordnet wird.
+Boyfriend Jeans leben von der Kunst des bewussten Kontrasts: deine maskuline Lässigkeit entfaltet erst dann ihre volle modische Wirkung, wenn das restliche Outfit durch feminine Attribute und geometrische Struktur elegant geordnet wird.
 
 Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Bühnenoutfit](/glossar/buehnenoutfit/).
 

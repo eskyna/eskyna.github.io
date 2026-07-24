@@ -70,7 +70,7 @@ Es geht in der modernen Stilistik nicht darum, Rundungen künstlich zu erzeugen,
 
 **Missverständnis:** Ein _androgyner Körperbau_ wirkt automatisch maskulin oder unweiblich.
 
-**Besser:** Die Wirkung entsteht ausschließlich durch das Styling. Dieselbe gerade Silhouette kann durch fließende Seidenstoffe, zarte Pastelltöne oder filigranen Schmuck extrem feminin und elegant interpretiert werden – ein Stilgeheimnis, das bereits Stil-Ikonen wie Marlene Dietrich meisterhaft beherrschten.
+**Besser:** Die Wirkung entsteht ausschließlich durch das Styling. Dieselbe gerade Silhouette kann durch fließende Seidenstoffe, zarte Pastelltöne oder filigranen Schmuck extrem feminin und elegant interpretiert werden, ein Stilgeheimnis, das bereits Stil-Ikonen wie Marlene Dietrich meisterhaft beherrschten.
 
 **Missverständnis:** Bei einer androgynen Silhouette muss immer krampfhaft versucht werden, eine Sanduhr-Form (X-Silhouette) zu fingieren.
 
@@ -82,7 +82,7 @@ Ein Paradebeispiel für ein gelungenes Styling ist das Zusammenspiel aus einem g
 
 ## Mini-Test vor dem Spiegel
 
-Betrachte dein Outfit einmal aus der Nähe und einmal mit etwa zwei Metern Abstand im Ganzkörperspiegel. Aus der Nähe prüfst du die Texturen, die Stoffqualität und die feinen Details deines Looks. Aus der Distanz beurteilst du die Silhouette: Wirkt der Fluss der Linien harmonisch und klar? Wenn das Outfit aus der Ferne zu massiv oder verloren wirkt, hilft meist schon ein einfacher Trick – wie das Hochkrempeln der Ärmel oder das exakte Platzieren des Saums –, um die perfekte optische Balance wiederherzustellen.
+Betrachte dein Outfit einmal aus der Nähe und einmal mit etwa zwei Metern Abstand im Ganzkörperspiegel. Aus der Nähe prüfst du die Texturen, die Stoffqualität und die feinen Details deines Looks. Aus der Distanz beurteilst du die Silhouette: Wirkt der Fluss der Linien harmonisch und klar? Wenn das Outfit aus der Ferne zu massiv oder verloren wirkt, hilft meist schon ein einfacher Trick, wie das Hochkrempeln der Ärmel oder das exakte Platzieren des Saums, , um die perfekte optische Balance wiederherzustellen.
 
 ## ESKYNA-Merksatz
 

@@ -52,7 +52,7 @@ Im Kern verlangt dieser Dresscode einen Look, der eleganter als das alltägliche
 
 ### Historischer Kontext & Herkunft
 
-Die Wurzeln der Cocktail-Bekleidung liegen in den 1920er- und 1950er-Jahren – maßgeblich geprägt durch Christian Diors Entwürfe –, als sich gesellschaftliche Treffen in der Übergangszeit zwischen Nachmittag und Abend etablierten. Der moderne _Business Cocktail_ überträgt diese Tradition in die Corporate-Welt, um bei Abendveranstaltungen, Vernissagen oder Firmenjubiläen eine Brücke zwischen Business-Autorität und festlicher Nahbarkeit zu schlagen. In vielen Branchen orientiert sich der Rahmen dabei eng am klassischen [Business Professional](/glossar/business-professional/).
+Die Wurzeln der Cocktail-Bekleidung liegen in den 1920er- und 1950er-Jahren, maßgeblich geprägt durch Christian Diors Entwürfe, , als sich gesellschaftliche Treffen in der Übergangszeit zwischen Nachmittag und Abend etablierten. Der moderne _Business Cocktail_ überträgt diese Tradition in die Corporate-Welt, um bei Abendveranstaltungen, Vernissagen oder Firmenjubiläen eine Brücke zwischen Business-Autorität und festlicher Nahbarkeit zu schlagen. In vielen Branchen orientiert sich der Rahmen dabei eng am klassischen [Business Professional](/glossar/business-professional/).
 
 ## Warum der Begriff wichtig ist
 
@@ -60,7 +60,7 @@ Bei Einladungen zu hochkarätigen Netzwerk-Events, Empfängen oder feierlichen T
 
 ## ESKYNA-Merksatz
 
-Business Cocktail ist professionelle Souveränität im feierlichen Gewand – die perfekte Balance zwischen beruflicher Glaubwürdigkeit und abendlicher Eleganz.
+Business Cocktail ist professionelle Souveränität im feierlichen Gewand, die perfekte Balance zwischen beruflicher Glaubwürdigkeit und abendlicher Eleganz.
 
 ## Praxischeck
 

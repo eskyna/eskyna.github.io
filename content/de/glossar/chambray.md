@@ -23,11 +23,11 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-**Chambray** (gesprochen: _Schambree_) ist ein leichter, strapazierfähiger Webstoff in klassischer **Leinwandbindung**, der traditionell aus hochwertiger [Baumwolle](/glossar/baumwolle/) oder feinem Leinen gefertigt wird. Seine charakteristische, [denimähnliche](/glossar/denim/) Optik verdankt das Material dem Zusammenspiel zweier gegensätzlicher Fäden: Während der Kettfaden (in Längsrichtung) farbig ist – meist im klassischen Indigo oder Blau –, bleibt der Schussfaden (in Querrichtung) weiß oder naturfarben. Durch diese feine, gitterartige Webstruktur entsteht ein elegant melierter Oberflächeneffekt mit einem dezenten, frostig wirkenden Schimmer.
+**Chambray** (gesprochen: _Schambree_) ist ein leichter, strapazierfähiger Webstoff in klassischer **Leinwandbindung**, der traditionell aus hochwertiger [Baumwolle](/glossar/baumwolle/) oder feinem Leinen gefertigt wird. Seine charakteristische, [denimähnliche](/glossar/denim/) Optik verdankt das Material dem Zusammenspiel zweier gegensätzlicher Fäden: Während der Kettfaden (in Längsrichtung) farbig ist, meist im klassischen Indigo oder Blau, , bleibt der Schussfaden (in Querrichtung) weiß oder naturfarben. Durch diese feine, gitterartige Webstruktur entsteht ein elegant melierter Oberflächeneffekt mit einem dezenten, frostig wirkenden Schimmer.
 
 ## Einfach erklärt
 
-Auf den ersten Blick wird Chambray häufig für einen sehr leichten Jeansstoff gehalten. Doch der Schein trügt, denn die beiden Gewebe unterscheiden sich grundlegend in ihrer Konstruktion. Während klassischer [Denim](/glossar/denim/) in der robusten Köperbindung gewebt wird – erkennbar an den charakteristischen diagonalen Linien auf der Oberfläche –, basiert Chambray auf der traditionellen Leinwandbindung (ein Faden drüber, ein Faden drunter).
+Auf den ersten Blick wird Chambray häufig für einen sehr leichten Jeansstoff gehalten. Doch der Schein trügt, denn die beiden Gewebe unterscheiden sich grundlegend in ihrer Konstruktion. Während klassischer [Denim](/glossar/denim/) in der robusten Köperbindung gewebt wird, erkennbar an den charakteristischen diagonalen Linien auf der Oberfläche, , basiert Chambray auf der traditionellen Leinwandbindung (ein Faden drüber, ein Faden drunter).
 
 **Die Vorteile im Alltag:** Durch die Leinwandbindung ist Chambray wesentlich dünner, luftdurchlässiger und weicher als klassischer Jeansstoff. Zudem sieht die Vorderseite des Gewebes nahezu identisch aus wie die Rückseite. Diese Leichtigkeit verleiht dem Stoff einen besonders fließenden, lockeren [Materialfall](/glossar/materialfall/). Er eignet sich daher perfekt für stilvolle Frühlings- und Sommerbekleidung wie sommerliche Herrenhemden, luftige [Blusen](/glossar/bluse/), schwingende Kleider oder leichte Übergangshosen.
 
@@ -35,7 +35,7 @@ Auf den ersten Blick wird Chambray häufig für einen sehr leichten Jeansstoff g
 
 Der Begriff „Chambray“ leitet sich historisch von der nordfranzösischen Stadt **Cambrai** ab. Bereits im Spätmittelalter (ca. 15. Jahrhundert) war diese Region weltberühmt für ihre herausragende Webkunst und die Herstellung von feinstem, leichtem Leinenstoff, der im deutschsprachigen Raum auch als _Kammertuch_ bekannt wurde.
 
-Im frühen 20. Jahrhundert erlebte der Stoff eine Renaissance im funktionalen Bereich: Die US Navy führte blaue Chambray-Hemden als Teil der Standarduniform für Matrosen ein. Da das Material extrem langlebig, unkompliziert zu reinigen und dennoch angenehm kühlend auf der Haut war, etablierte es sich schnell als feste Arbeitskleidung in Nordamerika. Aus dieser Ära stammt auch der bis heute weltweit geläufige Begriff **„Blue-Collar-Worker“** (Blaukragenarbeiter) – benannt nach den blauen Chambray-Arbeitshemden, die das optische Gegenstück zu den weißen Hemden („White-Collar“) der Büroangestellten bildeten.
+Im frühen 20. Jahrhundert erlebte der Stoff eine Renaissance im funktionalen Bereich: Die US Navy führte blaue Chambray-Hemden als Teil der Standarduniform für Matrosen ein. Da das Material extrem langlebig, unkompliziert zu reinigen und dennoch angenehm kühlend auf der Haut war, etablierte es sich schnell als feste Arbeitskleidung in Nordamerika. Aus dieser Ära stammt auch der bis heute weltweit geläufige Begriff **„Blue-Collar-Worker“** (Blaukragenarbeiter), benannt nach den blauen Chambray-Arbeitshemden, die das optische Gegenstück zu den weißen Hemden („White-Collar“) der Büroangestellten bildeten.
 
 ## Worauf du achten solltest
 

@@ -38,15 +38,15 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Bodycon** – ein Kofferwort aus dem Englischen „body-conscious“ (körperbewusst) – bezeichnet eine extrem figurnahe Schnittführung in der Mode. Kleidungsstücke im Bodycon-Stil schmiegen sich wie eine zweite Haut an den Körper und zeichnen die natürliche Silhouette präzise und unzensiert nach.
+**Bodycon**, ein Kofferwort aus dem Englischen „body-conscious“ (körperbewusst), bezeichnet eine extrem figurnahe Schnittführung in der Mode. Kleidungsstücke im Bodycon-Stil schmiegen sich wie eine zweite Haut an den Körper und zeichnen die natürliche Silhouette präzise und unzensiert nach.
 
 ## Einfach erklärt
 
 Was bedeutet Bodycon im Kern? Dieser Begriff beschreibt Kleidungsstücke, die nicht locker fallen, sondern sich durch hochelastische Materialien eng an die Konturen des Körpers anpassen.
 
-Modehistorisch erlebte dieser Look in den späten 1980er- und 1990er-Jahren seinen Durchbruch. Designer wie Azzedine Alaïa, auch bekannt als „King of Cling“, und Hervé Léger mit seinem legendären Bandage-Kleid revolutionierten die Modewelt. Sie nutzten innovative Materialien wie Elastan, Lycra und schwere Strickmischungen, um den weiblichen Körper kunstvoll zu formen und zu zelebrieren – ganz ohne die einengenden Korsetts vergangener Epochen.
+Modehistorisch erlebte dieser Look in den späten 1980er- und 1990er-Jahren seinen Durchbruch. Designer wie Azzedine Alaïa, auch bekannt als „King of Cling“, und Hervé Léger mit seinem legendären Bandage-Kleid revolutionierten die Modewelt. Sie nutzten innovative Materialien wie Elastan, Lycra und schwere Strickmischungen, um den weiblichen Körper kunstvoll zu formen und zu zelebrieren, ganz ohne die einengenden Korsetts vergangener Epochen.
 
-Heute ist Bodycon ein fester Bestandteil der modernen Garderobe. Durch geschicktes Layering lässt sich ein sehr körpernahes Teil mühelos bändigen und sogar in Richtung [Modest Fashion](/glossar/modest-fashion/) verschieben – etwa, indem ein enges Kleid mit einem oversized geschnittenen Blazer oder einem fließenden Mantel kombiniert wird. Bei ESKYNA schätzen wir diesen Stil, weil er durch das Spiel mit Extremen visuelle Ruhe und Klarheit in ein Outfit bringen kann. Nicht der Körper muss sich der Kleidung anpassen, sondern die Kleidung muss meisterhaft konstruiert sein, um perfekt zu sitzen.
+Heute ist Bodycon ein fester Bestandteil der modernen Garderobe. Durch geschicktes Layering lässt sich ein sehr körpernahes Teil mühelos bändigen und sogar in Richtung [Modest Fashion](/glossar/modest-fashion/) verschieben, etwa, indem ein enges Kleid mit einem oversized geschnittenen Blazer oder einem fließenden Mantel kombiniert wird. Bei ESKYNA schätzen wir diesen Stil, weil er durch das Spiel mit Extremen visuelle Ruhe und Klarheit in ein Outfit bringen kann. Nicht der Körper muss sich der Kleidung anpassen, sondern die Kleidung muss meisterhaft konstruiert sein, um perfekt zu sitzen.
 
 ## Warum Bodycon wichtig ist
 
@@ -79,7 +79,7 @@ Wenn du ein Kleidungsstück im **Bodycon**-Stil anprobierst, betrachte nicht nur
 
 - **Der 360-Grad-Blick:** Betrachte dich aus zwei Metern Entfernung von allen Seiten. Fließt die Silhouette harmonisch?
 - **Der Bewegungstest:** Setze dich hin, beuge dich nach vorne und hebe die Arme. Bleibt das Material an seinem Platz oder wirft es unschöne Querfalten, die auf eine zu kleine Größe hindeuten?
-- **Schuh-Abstimmung:** Probiere das Kleidungsstück direkt mit den Schuhen an, die du im Alltag dazu tragen möchtest – flache Boots brechen die Strenge des Looks sofort auf, während Absätze die Vertikale strecken.
+- **Schuh-Abstimmung:** Probiere das Kleidungsstück direkt mit den Schuhen an, die du im Alltag dazu tragen möchtest, flache Boots brechen die Strenge des Looks sofort auf, während Absätze die Vertikale strecken.
 
 ## Beratungsblick
 

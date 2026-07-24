@@ -2,7 +2,7 @@
 title: "Wie funktioniert ein Push-up-BH?"
 term: "Push-up-BH"
 description: "Wie funktioniert ein Push-up-BH? Polsterung, Cupform, Ausschnittwirkung und Passformtipps ohne Körperklischees."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "push-up-bh"
 seoTitle: "Push-up-BH: Wirkung, Varianten und Sitz | ESKYNA"
 image: "images/glossar/push-up-bh.png"

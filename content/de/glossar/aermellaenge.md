@@ -44,12 +44,12 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Die Ärmellänge ist weit mehr als ein bloßes Zentimetermaß – sie ist ein mächtiges gestalterisches Werkzeug in der Schnittkonstruktion und Stilberatung. Je nachdem, wo ein Ärmel endet, lenkt er den Blick des Betrachters auf bestimmte Körperpartien und verändert die optische Balance des gesamten Oberkörpers.
+Die Ärmellänge ist weit mehr als ein bloßes Zentimetermaß, sie ist ein mächtiges gestalterisches Werkzeug in der Schnittkonstruktion und Stilberatung. Je nachdem, wo ein Ärmel endet, lenkt er den Blick des Betrachters auf bestimmte Körperpartien und verändert die optische Balance des gesamten Oberkörpers.
 
 **Kleine Typologie der klassischen Ärmellängen:**
 
 - **Flügelärmel (Cap Sleeve):** Endet knapp unter der Schulter und betont die Schulterpartie.
-- **Halbarm (Kurzarm):** Endet typischerweise auf der Mitte des Oberarms – der Standard bei T-Shirts.
+- **Halbarm (Kurzarm):** Endet typischerweise auf der Mitte des Oberarms, der Standard bei T-Shirts.
 - **3/4-Ärmel:** Endet auf der Mitte des Unterarms. Historisch etablierte sich diese Länge in den 1950er-Jahren, um grazile Handgelenke und Schmuck (wie Armreifen) elegant in Szene zu setzen.
 - **7/8-Ärmel:** Lässt das Handgelenk knapp frei und wirkt dadurch luftig, aber dennoch formell genug für das Büro.
 - **1/1-Langarm:** Endet idealerweise am Daumenansatz bei herabhängendem Arm, insbesondere bei Herrenhemden und Maßanzügen.
@@ -63,7 +63,7 @@ Wenn du dieses Maß verstehst, kannst du Kleidung bewusster auswählen und vorha
 Gerade im Alltag hilft die passende Ärmellänge, die visuelle Balance zu steuern:
 
 - **Sartoriale Perfektion:** In der klassischen Herrenkonfektion gilt die Regel, dass das Hemdenbündchen etwa 1 bis 1,5 cm unter dem Sakkoärmel hervorschauen sollte. Dies schafft einen eleganten Kontrast und beweist handwerkliches Detailbewusstsein.
-- **Optische Streckung:** Ein leicht verkürzter Ärmel (wie der Dreiviertelarm) legt die schmalste Stelle des Arms – das Handgelenk – frei. Dies lässt die gesamte Silhouette im Handumdrehen schlanker und dynamischer wirken.
+- **Optische Streckung:** Ein leicht verkürzter Ärmel (wie der Dreiviertelarm) legt die schmalste Stelle des Arms, das Handgelenk, frei. Dies lässt die gesamte Silhouette im Handumdrehen schlanker und dynamischer wirken.
 - **Materialverhalten:** Schwere Stoffe wie Tweed oder dicke Wolle benötigen präzise Ärmellängen, um nicht wuchtig zu wirken, während fließende Materialien wie Seide oder Viskose auch mit leicht überschnittenen Längen harmonieren.
 
 Eine stimmige Ärmellänge macht die [Garderobe](/glossar/garderobe/) verlässlicher, weil mehr Teile ohne nachträgliche Korrekturen sofort harmonisch miteinander kombinierbar bleiben.

@@ -16,7 +16,7 @@ additional_categories:
 
 Die **Abriebfestigkeit** (auch Scheuerbeständigkeit genannt) ist eine fundamentale textiltechnische Materialeigenschaft. Sie beschreibt den physikalischen Widerstand von Fasern, Garnen und Geweben gegen mechanische Beanspruchung durch wiederholte, reibende Kontakte. In der Mode- und Textilgeschichte ist sie seit jeher ein entscheidender Indikator für die Langlebigkeit, Strapazierfähigkeit und Qualität eines Kleidungsstücks.
 
-Bestimmt wird diese Eigenschaft im Labor durch standardisierte Prüfverfahren – allen voran dem renommierten **Martindale-Verfahren** (DIN EN ISO 12947). Diese Methode wurde in den 1940er-Jahren von Dr. James G. Martindale im Auftrag der britischen Wollindustrie entwickelt, um die Haltbarkeit von Textilien wissenschaftlich messbar zu machen. Dabei wird ein kreisrundes Prüfmuster unter konstantem, vordefiniertem Druck in komplexen, mathematisch berechneten Schleifenbewegungen (den sogenannten Lissajous-Figuren) gegen ein standardisiertes, raues Wollgewebe gerieben, bis sichtbare Verschleißerscheinungen wie Fadenbrüche auftreten.
+Bestimmt wird diese Eigenschaft im Labor durch standardisierte Prüfverfahren, allen voran dem renommierten **Martindale-Verfahren** (DIN EN ISO 12947). Diese Methode wurde in den 1940er-Jahren von Dr. James G. Martindale im Auftrag der britischen Wollindustrie entwickelt, um die Haltbarkeit von Textilien wissenschaftlich messbar zu machen. Dabei wird ein kreisrundes Prüfmuster unter konstantem, vordefiniertem Druck in komplexen, mathematisch berechneten Schleifenbewegungen (den sogenannten Lissajous-Figuren) gegen ein standardisiertes, raues Wollgewebe gerieben, bis sichtbare Verschleißerscheinungen wie Fadenbrüche auftreten.
 
 ## Einfach erklärt
 
@@ -53,7 +53,7 @@ Achte beim Kauf eines neuen Kleidungsstücks gezielt auf die Beanspruchungszonen
 
 Das klassische Beispiel aus der modernen Modewelt ist die funktionelle Pendler-Hose ("Commuter Pants") für das tägliche Radfahren zur Arbeit. Durch die kontinuierliche Reibung des Sattels an Gesäß und Innenschenkeln geraten Standard-Stoffe rasch an ihre Grenzen. Während eine feine Anzug- oder Chino-Hose aus reiner, feinfädiger Baumwolle dieser extremen Belastung oft schon nach wenigen Wochen zum Opfer fällt, überlebt eine spezielle Radler-Chino mit Cordura- oder Nylon-Anteil und verstärktem Schrittbereich problemlos tausende Kilometer.
 
-Historisch gesehen war genau dieses Problem der Ursprung der modernen Jeans: Jacob Davis und Levi Strauss patentierten im Jahr 1873 die legendären Metallnieten an den Taschenecken und dem Hosenlitz, um das Ausreißen der Nähte bei schwerer körperlicher Arbeit zu verhindern – ein Meilenstein in der Geschichte der abriebfesten Arbeitskleidung.
+Historisch gesehen war genau dieses Problem der Ursprung der modernen Jeans: Jacob Davis und Levi Strauss patentierten im Jahr 1873 die legendären Metallnieten an den Taschenecken und dem Hosenlitz, um das Ausreißen der Nähte bei schwerer körperlicher Arbeit zu verhindern, ein Meilenstein in der Geschichte der abriebfesten Arbeitskleidung.
 
 ## Typisches Missverständnis
 

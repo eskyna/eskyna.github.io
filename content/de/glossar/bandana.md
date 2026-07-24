@@ -10,11 +10,11 @@ image_alt: "Rot gemustertes Baumwoll-Bandana locker als kleines Dreieckstuch um 
 lastmod: "2026-07-22"
 ---
 
-Das **Bandana** ist ein echter Styling-Klassiker der Modewelt: Dieses meist quadratische Tuch aus Baumwolle oder edlen Geweben ist weltberühmt für sein charakteristisches Paisley- oder Orient-Muster. Ob lässig um den Hals geknotet, als markantes Kopftuch, sportliches Stirnband oder als farbenfrohes Detail an der Handtasche – das Bandana vereint seit Jahrzehnten Funktionalität mit modischer Ausdruckskraft.
+Das **Bandana** ist ein echter Styling-Klassiker der Modewelt: Dieses meist quadratische Tuch aus Baumwolle oder edlen Geweben ist weltberühmt für sein charakteristisches Paisley- oder Orient-Muster. Ob lässig um den Hals geknotet, als markantes Kopftuch, sportliches Stirnband oder als farbenfrohes Detail an der Handtasche, das Bandana vereint seit Jahrzehnten Funktionalität mit modischer Ausdruckskraft.
 
 ## Definition
 
-Das klassische Bandana – dessen Name sich vom altindischen Sanskrit-Wort _bandhana_ für „binden“ oder „knüpfen“ (über das Hindi-Wort _bāndhnū_ für traditionelle Färbetechniken) ableitet – ist ein quadratisches Tuch, meist im Standardmaß 55 x 55 cm, mit einem markanten, symmetrischen Rand- und Mittelmuster. Traditionell aus strapazierfähigem Baumwollgewebe gefertigt, besitzt es eine griffige, formstabile Textur. Es lässt sich diagonal zu einem Dreieck falten, eng rollen, knoten oder als schützende Kopfbedeckung binden. Moderne Varianten greifen auch auf fließende Seide, Viskose oder satinierte Kunstfasern zurück.
+Das klassische Bandana, dessen Name sich vom altindischen Sanskrit-Wort _bandhana_ für „binden“ oder „knüpfen“ (über das Hindi-Wort _bāndhnū_ für traditionelle Färbetechniken) ableitet, ist ein quadratisches Tuch, meist im Standardmaß 55 x 55 cm, mit einem markanten, symmetrischen Rand- und Mittelmuster. Traditionell aus strapazierfähigem Baumwollgewebe gefertigt, besitzt es eine griffige, formstabile Textur. Es lässt sich diagonal zu einem Dreieck falten, eng rollen, knoten oder als schützende Kopfbedeckung binden. Moderne Varianten greifen auch auf fließende Seide, Viskose oder satinierte Kunstfasern zurück.
 
 Modehistorisch blickt das Bandana auf eine tief verwurzelte Geschichte zurück: Im 18. und 19. Jahrhundert gelangte es durch den Kolonialhandel der East India Company nach Europa und Amerika. Dort entwickelte es sich rasch zum unverzichtbaren Arbeitstuch für Farmer, Bahnarbeiter und Cowboys, die es als Staub- und Sonnenschutz nutzten. Später, in den 1970er-Jahren, fungierte es im sogenannten _Hanky Code_ als subtiles Kommunikationsmittel in der LGBTQ+-Community, bevor es die Ästhetik von Rockern, der Punk-Bewegung und der globalen Hip-Hop-Subkultur nachhaltig prägte.
 

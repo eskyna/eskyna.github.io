@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 Muster bringen visuelle Dynamik und Bewegung in jedes Outfit. Bei der Frage „Was bedeutet Camouflage für meinen Stil?“ spielen die Skalierung der Flecken, die Farbkontraste und die Platzierung auf dem Kleidungsstück eine entscheidende Rolle. Das markante Tarnmuster zieht die Blicke an und fungiert meist als Key-Piece (Hauptakzent) eines Outfits.
 
-Für ESKYNA sind ausdrucksstarke Muster wie Camouflage ein hervorragendes Mittel, um Persönlichkeit und modisches Selbstbewusstsein zu zeigen. Da das Muster optisch sehr präsent ist, benötigt es eine ruhige, cleane Nachbarschaft – beispielsweise unifarbene Basics –, damit der Gesamtlook harmonisch und elegant statt unruhig oder überladen wirkt.
+Für ESKYNA sind ausdrucksstarke Muster wie Camouflage ein hervorragendes Mittel, um Persönlichkeit und modisches Selbstbewusstsein zu zeigen. Da das Muster optisch sehr präsent ist, benötigt es eine ruhige, cleane Nachbarschaft, beispielsweise unifarbene Basics, , damit der Gesamtlook harmonisch und elegant statt unruhig oder überladen wirkt.
 
 ## Warum Camouflage wichtig ist
 
@@ -62,7 +62,7 @@ Besonders spannend ist das Spiel mit Farbwelten: Neben den klassischen Erdtönen
 ## Typische Missverständnisse
 
 **Missverständnis:** Camouflage ist ausschließlich für den derben Military- oder Outdoor-Look geeignet.  
-**Besser:** Durch den bewussten Stilbruch – zum Beispiel eine edle Camouflage-Bluse kombiniert mit einer eleganten schwarzen Palazzohose und High Heels – avanciert das einstige Tarnmuster zu einem hochmodernen High-Fashion-Statement.
+**Besser:** Durch den bewussten Stilbruch, zum Beispiel eine edle Camouflage-Bluse kombiniert mit einer eleganten schwarzen Palazzohose und High Heels, avanciert das einstige Tarnmuster zu einem hochmodernen High-Fashion-Statement.
 
 **Missverständnis:** Jedes Camouflage-Muster erzielt dieselbe optische Wirkung.  
 **Besser:** Die Wirkung variiert extrem. Ein kontrastreiches, großflächiges Muster in klassischen Armeefarben wirkt sehr sportiv und präsent. Ein kleinteiliges, Ton-in-Ton gehaltenes Muster in gedeckten Farben auf fließenden Stoffen wirkt dagegen subtil und elegant.

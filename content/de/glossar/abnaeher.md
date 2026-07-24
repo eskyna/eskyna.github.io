@@ -38,11 +38,11 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Abnäher** (engl. _darts_) sind keilförmig, rautenförmig oder spindelförmig abgenähte Falten im Gewebe. Ihr primärer Zweck ist es, ein flaches, zweidimensionales Textil präzise an die dreidimensionale Anatomie des menschlichen Körpers anzupassen. In der Schnittkonstruktion dienen sie dazu, gezielt Weite wegzunehmen und den verbleibenden Stoff über den natürlichen Wölbungen – wie Brust, Taille, Hüfte, Gesäß oder Schulterblättern – harmonisch zu verteilen, um eine vollendete [Silhouette](/glossar/silhouette/) zu formen.
+**Abnäher** (engl. _darts_) sind keilförmig, rautenförmig oder spindelförmig abgenähte Falten im Gewebe. Ihr primärer Zweck ist es, ein flaches, zweidimensionales Textil präzise an die dreidimensionale Anatomie des menschlichen Körpers anzupassen. In der Schnittkonstruktion dienen sie dazu, gezielt Weite wegzunehmen und den verbleibenden Stoff über den natürlichen Wölbungen, wie Brust, Taille, Hüfte, Gesäß oder Schulterblättern, harmonisch zu verteilen, um eine vollendete [Silhouette](/glossar/silhouette/) zu formen.
 
 ## Einfach erklärt
 
-Wer sich im textilen Alltag fragt, **was bedeutet abnäher** konkret, kann sich das Prinzip wie das architektonische Modellieren von Stoff vorstellen: Ein flaches Blatt Papier lässt sich nicht ohne Knicke um eine Kugel legen – elastischer oder unelastischer Stoff verhält sich ganz ähnlich. Der Abnäher löst dieses Problem auf elegante Weise. Er nimmt an den schmaleren Stellen des Körpers (beispielsweise der Taille) überschüssiges Material weg und lässt es zu den Rundungen hin sanft auslaufen.
+Wer sich im textilen Alltag fragt, **was bedeutet abnäher** konkret, kann sich das Prinzip wie das architektonische Modellieren von Stoff vorstellen: Ein flaches Blatt Papier lässt sich nicht ohne Knicke um eine Kugel legen, elastischer oder unelastischer Stoff verhält sich ganz ähnlich. Der Abnäher löst dieses Problem auf elegante Weise. Er nimmt an den schmaleren Stellen des Körpers (beispielsweise der Taille) überschüssiges Material weg und lässt es zu den Rundungen hin sanft auslaufen.
 
 Er ist somit das unsichtbare, aber unverzichtbare Gerüst für eine exzellente [Passform](/glossar/passform/). Für ESKYNA ist dieses handwerkliche Detail von zentraler Bedeutung: Stimmige [Proportionen](/glossar/proportion/) beruhigen das optische Gesamtbild eines Outfits sofort und heben die persönliche Ausstrahlung auf ein neues Niveau. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück wird perfekt auf den Körper modelliert.
 

@@ -47,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Auf den ersten Blick bestechen Chelsea Boots durch ihre minimalistische Silhouette und den typischen Gummiband-Einsatz auf Knöchelhöhe. Ursprünglich im viktorianischen England vom Schuhmacher der Queen Victoria als Reitschuh erfunden, verdanken sie ihren heutigen Namen der Londoner Künstlerszene der 1950er- und 1960er-Jahre – der legendären „Chelsea Set“-Clique rund um Mary Quant, die den Boot weltberühmt machte. Auch die Beatles trugen maßgeblich zu ihrer Popularität bei (oft als „Beatle Boots“ mit leicht erhöhtem, geschwungenem Absatz).
+Auf den ersten Blick bestechen Chelsea Boots durch ihre minimalistische Silhouette und den typischen Gummiband-Einsatz auf Knöchelhöhe. Ursprünglich im viktorianischen England vom Schuhmacher der Queen Victoria als Reitschuh erfunden, verdanken sie ihren heutigen Namen der Londoner Künstlerszene der 1950er- und 1960er-Jahre, der legendären „Chelsea Set“-Clique rund um Mary Quant, die den Boot weltberühmt machte. Auch die Beatles trugen maßgeblich zu ihrer Popularität bei (oft als „Beatle Boots“ mit leicht erhöhtem, geschwungenem Absatz).
 
 Heute gibt es den Klassiker in verschiedenen Varianten für jeden Stil:
 

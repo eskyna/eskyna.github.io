@@ -26,7 +26,7 @@ Ein typisches Blokette-Outfit besteht beispielsweise aus einem weiten, glänzend
 
 ## Warum dieser Begriff wichtig ist
 
-Die Blokette Aesthetic ist weit mehr als ein flüchtiger Social-Media-Trend. Sie steht für die fortschreitende Demokratisierung und Feminisierung von Bereichen, die historisch männlich besetzt waren – wie etwa der Fankultur des Fußballs.
+Die Blokette Aesthetic ist weit mehr als ein flüchtiger Social-Media-Trend. Sie steht für die fortschreitende Demokratisierung und Feminisierung von Bereichen, die historisch männlich besetzt waren, wie etwa der Fankultur des Fußballs.
 
 Zudem schärft der Begriff das Bewusstsein für ein anspruchsvolles Styling-Konzept: den bewussten Bruch von Stilwelten. Wer versteht, wie die Blokette-Formel funktioniert, kauft künftig zielgerichteter ein. Anstatt unzählige neue Kleidungsstücke anzuschaffen, lernt man, bereits vorhandene Sportkleidung durch feminine Key-Pieces völlig neu und unerwartet zu inszenieren.
 
@@ -51,7 +51,7 @@ Du wählst ein gut erhaltenes Vintage-Langarmtrikot in gedeckten Farben (z. B. D
 
 ## Typisches Missverständnis
 
-Ein häufiges Missverständnis ist der Glaube, man müsse für die Blokette Aesthetic einfach wahllos Sportkleidung mit Röcken kombinieren. Ohne ein verbindendes Element – sei es eine wiederkehrende Farbe, eine harmonische Silhouette oder die präzise Platzierung von Accessoires – wirkt der Look schnell unruhig oder unvollständig. Es geht nicht um das bloße Tragen von Sportkleidung, sondern um die kuratierte Inszenierung des Stilbruchs.
+Ein häufiges Missverständnis ist der Glaube, man müsse für die Blokette Aesthetic einfach wahllos Sportkleidung mit Röcken kombinieren. Ohne ein verbindendes Element, sei es eine wiederkehrende Farbe, eine harmonische Silhouette oder die präzise Platzierung von Accessoires, wirkt der Look schnell unruhig oder unvollständig. Es geht nicht um das bloße Tragen von Sportkleidung, sondern um die kuratierte Inszenierung des Stilbruchs.
 
 ## Abgrenzung zu ähnlichen Begriffen
 
@@ -95,7 +95,7 @@ Die Basis bilden ein sportliches Oberteil (Vintage-Trikot, Track Jacket oder Pol
 
 ### Funktioniert das mit Jeans?
 
-Ja, sofern die Jeans feminin gestylt wird – beispielsweise eine schmal geschnittene Jeans kombiniert mit spitzen Heels, einer romantischen Spitzenbluse unter einer sportlichen Trainingsjacke und verspielten Accessoires.
+Ja, sofern die Jeans feminin gestylt wird, beispielsweise eine schmal geschnittene Jeans kombiniert mit spitzen Heels, einer romantischen Spitzenbluse unter einer sportlichen Trainingsjacke und verspielten Accessoires.
 
 ### Welche Schuhe passen?
 

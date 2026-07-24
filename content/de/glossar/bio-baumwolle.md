@@ -19,7 +19,7 @@ Unter **Bio-Baumwolle** (engl. _organic cotton_) versteht man Baumwolle, deren A
 
 ## Einfach erklärt
 
-Der Begriff „Bio“ bezieht sich bei Baumwolle zunächst nur auf die landwirtschaftliche Erzeugung der Naturfaser. Ein fertiges Kleidungsstück, wie beispielsweise ein T-Shirt, durchläuft nach der Ernte jedoch eine lange, komplexe Produktionskette. Jedes Kleidungsstück aus Bio-Baumwolle kann sich daher in Bezug auf die verwendeten Farbstoffe, chemischen Ausrüstungen, die Verarbeitungsqualität und die Arbeitsbedingungen in den Fabriken stark unterscheiden. Zudem ist der exakte Anteil an Bio-Fasern im Endprodukt entscheidend – insbesondere bei Mischgeweben, die zusätzlich synthetische Fasern wie Elasthan oder Polyester enthalten.
+Der Begriff „Bio“ bezieht sich bei Baumwolle zunächst nur auf die landwirtschaftliche Erzeugung der Naturfaser. Ein fertiges Kleidungsstück, wie beispielsweise ein T-Shirt, durchläuft nach der Ernte jedoch eine lange, komplexe Produktionskette. Jedes Kleidungsstück aus Bio-Baumwolle kann sich daher in Bezug auf die verwendeten Farbstoffe, chemischen Ausrüstungen, die Verarbeitungsqualität und die Arbeitsbedingungen in den Fabriken stark unterscheiden. Zudem ist der exakte Anteil an Bio-Fasern im Endprodukt entscheidend, insbesondere bei Mischgeweben, die zusätzlich synthetische Fasern wie Elasthan oder Polyester enthalten.
 
 ## Warum ist das für Verbraucher wichtig?
 

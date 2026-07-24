@@ -46,7 +46,7 @@ Die besondere Stilwirkung von Aubergine liegt in ihrer optischen Tiefe. Sie brin
 
 Aus Sicht der Farb- und Stilberatung ist Aubergine ein faszinierendes Chamäleon. Da es sich um ein sehr gedecktes, dunkles Violett handelt, steht es besonders jenen Farbtypen hervorragend, die von gedeckten und tiefen Farben profitieren (wie der dunkle Herbst- oder der kühle Wintertyp).
 
-**Der Harmonie-Check für dein dunkles Violett Styling:** Achte bei der Anprobe darauf, ob im Gesamtbild zuerst dein Gesicht strahlt oder die dunkle Farbfläche dominiert. Sollte der Ton dich optisch erdrücken oder blass wirken lassen, empfiehlt es sich, die Farbe weiter unten zu tragen – beispielsweise als Hose, Rock oder in Form von eleganten Lederschuhen.
+**Der Harmonie-Check für dein dunkles Violett Styling:** Achte bei der Anprobe darauf, ob im Gesamtbild zuerst dein Gesicht strahlt oder die dunkle Farbfläche dominiert. Sollte der Ton dich optisch erdrücken oder blass wirken lassen, empfiehlt es sich, die Farbe weiter unten zu tragen, beispielsweise als Hose, Rock oder in Form von eleganten Lederschuhen.
 
 ## Styling-Tipp
 

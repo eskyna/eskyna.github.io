@@ -48,7 +48,7 @@ Der Begriff **Bootcut** (englisch für „Stiefelschnitt“) bezeichnet eine Hos
 
 Was bedeutet Bootcut im Detail und wie unterscheidet er sich von anderen Schnitten? Im Vergleich zur klassischen Schlaghose (Flared Pants) ist der Bootcut deutlich dezenter ausgestellt. Die Silhouette öffnet sich erst ab Kniehöhe ganz sanft. Dadurch entsteht eine optisch ausbalancierte Linie, die das Bein streckt und besonders gut mit Schuhen harmoniert, die ein gewisses Volumen oder einen Absatz besitzen.
 
-Ursprünglich aus robustem Denim gefertigt, hat sich der Schnitt längst auch in anderen Materialien etabliert: Schwere Schurwolle, fließender Twill, Cord oder moderne Stretch-Gewebe machen den Bootcut büro- und abendtauglich. Ob als lässige Blue Jeans oder als minimalistische, dunkle Stoffhose – die feine Nuance der Saumweite sorgt für ein ruhiges, erwachsenes Gesamtbild.
+Ursprünglich aus robustem Denim gefertigt, hat sich der Schnitt längst auch in anderen Materialien etabliert: Schwere Schurwolle, fließender Twill, Cord oder moderne Stretch-Gewebe machen den Bootcut büro- und abendtauglich. Ob als lässige Blue Jeans oder als minimalistische, dunkle Stoffhose, die feine Nuance der Saumweite sorgt für ein ruhiges, erwachsenes Gesamtbild.
 
 ## Warum dieser Begriff wichtig ist
 
@@ -59,14 +59,14 @@ Nach seinen funktionalen Ursprüngen im Reit- und Militärsport des 19. Jahrhund
 ## Worauf du achten solltest
 
 - **Die perfekte Saumlänge:** Der Saum sollte im Stehen idealerweise knapp über dem Boden enden und den Schuhrücken leicht berühren. Zu kurze Schnitte stauchen die Silhouette optisch.
-- **Die richtige Schuhwahl:** Um eine **Bootcut Jeans kombinieren** zu können, eignen sich Schuhe mit etwas Stand oder Absatz besonders gut – etwa spitze Stiefeletten, Chelsea Boots oder schmale Pumps. Sie verstärken den streckenden Effekt.
+- **Die richtige Schuhwahl:** Um eine **Bootcut Jeans kombinieren** zu können, eignen sich Schuhe mit etwas Stand oder Absatz besonders gut, etwa spitze Stiefeletten, Chelsea Boots oder schmale Pumps. Sie verstärken den streckenden Effekt.
 - **Waschung und Material:** Eine dunkle, gleichmäßige Waschung (Raw Denim oder Deep Blue) ohne starke Kontrastnähte wirkt elegant und bürotauglich. Helle Waschungen und Used-Effekte betonen den lässigen Retro-Charakter.
 - **Leibhöhe (Rise):** High-Waist-Modelle betonen die Taille und verlängern das Bein optisch maximal, während Mid-Rise-Varianten einen klassischen, zeitlosen Tragekomfort bieten.
 
 ## Typische Missverständnisse
 
 **Missverständnis:** Bootcut ist identisch mit einer Schlaghose (Flared Pants).  
-**Besser:** Der Bootcut ist wesentlich dezenter geschnitten. Während sich die Schlaghose oft schon ab dem Oberschenkel oder sehr dramatisch ab dem Knie öffnet, weitet sich der Bootcut nur um wenige Zentimeter – gerade genug, um den Schaft eines Stiefels flach darunter zu verbergen.
+**Besser:** Der Bootcut ist wesentlich dezenter geschnitten. Während sich die Schlaghose oft schon ab dem Oberschenkel oder sehr dramatisch ab dem Knie öffnet, weitet sich der Bootcut nur um wenige Zentimeter, gerade genug, um den Schaft eines Stiefels flach darunter zu verbergen.
 
 **Missverständnis:** Bootcut-Hosen passen nur zu rustikalen Western-Looks oder sind altmodisch.  
 **Besser:** Die Silhouette ist ein zeitloser Standard. Mit modernen Klassikern wie einem minimalistischen Seidenhemd, einem hochwertigen Blazer und cleanen Lederstiefeln kombiniert, wirkt die Hose modern und hochedel.

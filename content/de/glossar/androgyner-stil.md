@@ -41,7 +41,7 @@ lastmod: "2026-07-09"
 
 ## Einfach erklärt
 
-Was bedeutet androgyner Stil in der Praxis? Er ist weit mehr als nur ein flüchtiger Modetrend oder das Tragen von Herrenkleidung in kleineren Konfektionsgrößen. Vielmehr fungiert er als eine bewusste visuelle Sprache, die starre Moderegeln aufbricht. Indem maskuline Attribute – wie markante Schulterpartien, geradlinige Silhouetten und schwere Herrenstoffe – mit femininen Nuancen kombiniert werden, entsteht eine spannungsreiche, harmonische Ästhetik.
+Was bedeutet androgyner Stil in der Praxis? Er ist weit mehr als nur ein flüchtiger Modetrend oder das Tragen von Herrenkleidung in kleineren Konfektionsgrößen. Vielmehr fungiert er als eine bewusste visuelle Sprache, die starre Moderegeln aufbricht. Indem maskuline Attribute, wie markante Schulterpartien, geradlinige Silhouetten und schwere Herrenstoffe, mit femininen Nuancen kombiniert werden, entsteht eine spannungsreiche, harmonische Ästhetik.
 
 Modehistorisch ist diese Stilrichtung eng mit der gesellschaftlichen Emanzipation verknüpft. Bereits in den 1920er-Jahren revolutionierte Coco Chanel die Damenmode durch den Einsatz von bequemen Tweedstoffen und Hosen. Stilikonen wie Marlene Dietrich im Frack in den 1930ern oder Yves Saint Laurent mit dem legendären Damen-Hosenanzug „Le Smoking“ im Jahr 1966 machten den Look weltberühmt. Heute steht der androgyne Look für modische Selbstbestimmung, Souveränität und moderne Nonchalance.
 
@@ -57,8 +57,8 @@ Gerade im professionellen und urbanen Alltag bietet der androgyne Stil eine unsc
 
 - **Die perfekte Passform (Tailoring):** Maskuline Schnitte wie Oversize-Blazer oder weite Hosen müssen meisterhaft sitzen. Schulternaht und Beinlänge entscheiden darüber, ob der Look edel oder unvorteilhaft wirkt.
 - **Spannung durch Materialkontraste:** Kombiniere feste, strukturierte Stoffe (wie Wolle, Tweed oder Gabardine) mit weichen, fließenden Materialien (wie Seide, Satin oder feinem Strick), um dem Outfit Tiefe zu verleihen.
-- **Fokus auf minimalistische Details:** Verzichte auf überflüssige Verzierungen. Die Stärke des androgynen Looks liegt in der Reduktion – klare Linien, verdeckte Knopfleisten und minimalistische Accessoires dominieren das Bild.
-- **Proportionen ausbalancieren:** Wenn das Oberteil weit geschnitten ist (z. B. ein maskulines Boyfriend-Hemd), sollte das Unterteil schmaler gehalten sein – oder umgekehrt, wie eine weit fließende Marlene-Hose zu einem taillierten Oberteil.
+- **Fokus auf minimalistische Details:** Verzichte auf überflüssige Verzierungen. Die Stärke des androgynen Looks liegt in der Reduktion, klare Linien, verdeckte Knopfleisten und minimalistische Accessoires dominieren das Bild.
+- **Proportionen ausbalancieren:** Wenn das Oberteil weit geschnitten ist (z. B. ein maskulines Boyfriend-Hemd), sollte das Unterteil schmaler gehalten sein, oder umgekehrt, wie eine weit fließende Marlene-Hose zu einem taillierten Oberteil.
 
 ## Typische Missverständnisse
 

@@ -2,7 +2,7 @@
 title: "Was bedeutet Schuhpflege?"
 term: "Schuhpflege"
 description: "Was bedeutet Schuhpflege? Erfahre, wie Leder, Velours, Textil und Kunststoff materialgerecht gereinigt, getrocknet, geschützt und langfristig erhalten werden."
-category: "Pflege & Wäsche"
+category: "Materialien & Details"
 slug: "schuhpflege"
 seoTitle: "Schuhpflege: Materialgerecht reinigen und schützen | ESKYNA"
 image: "images/glossar/schuhpflege.png"

@@ -46,7 +46,7 @@ Eine **Anzugjacke** ist das klassische Oberteil eines formellen Zwei- oder Dreit
 
 Im alltäglichen Sprachgebrauch werden Begriffe wie Sakko, Blazer und Anzugjacke oft synonym verwendet. In der traditionellen Herren- und Damenmode gibt es jedoch feine, aber entscheidende Unterschiede. Eine echte Anzugjacke ist primär darauf ausgelegt, als geschlossenes Ensemble mit der passenden Hose getragen zu werden.
 
-Wird sie einzeln kombiniert – im sogenannten „Broken Suit“-Stil (Soll-nicht-passen-Look) –, erfordert dies Gespür für Texturen und Schnitte. Für eine smarte [Garderobenlogik](/glossar/garderobenlogik/) ist dieses Kleidungsstück besonders wertvoll: Es verleiht jeder Silhouette sofort Struktur, streckt optisch den Oberkörper und wertet selbst legere Outfits im Handumdrehen auf. Eine professionelle **Anzugjacke Stilberatung** zeigt, dass moderne Schnitte heute die Grenze zwischen formeller Business-Kleidung und anspruchsvollem Casual-Look elegant auflösen.
+Wird sie einzeln kombiniert, im sogenannten „Broken Suit“-Stil (Soll-nicht-passen-Look), , erfordert dies Gespür für Texturen und Schnitte. Für eine smarte [Garderobenlogik](/glossar/garderobenlogik/) ist dieses Kleidungsstück besonders wertvoll: Es verleiht jeder Silhouette sofort Struktur, streckt optisch den Oberkörper und wertet selbst legere Outfits im Handumdrehen auf. Eine professionelle **Anzugjacke Stilberatung** zeigt, dass moderne Schnitte heute die Grenze zwischen formeller Business-Kleidung und anspruchsvollem Casual-Look elegant auflösen.
 
 ## Warum Anzugjacke wichtig ist
 
@@ -59,7 +59,7 @@ Heute ist die Anzugjacke weit mehr als ein Symbol für die Corporate-Welt. Als v
 - **Die Schulterpassform:** Die Schulternaht sollte exakt mit deinem natürlichen Schulterknochen abschließen. Ein unruhiger Faltenwurf oder abstehende Schultern ruinieren die gesamte Silhouette.
 - **Material und Webart:** Bevorzuge hochwertige Naturfasern wie Schurwolle (z. B. Super 100s oder Super 120s), Kaschmir, Seide oder Leinen. Synthetikmischungen neigen zu künstlichem Glanz und mindern den Tragekomfort.
 - **Die Ärmellänge:** Bei herabhängenden Armen sollte der Ärmel der Jacke knapp über dem Handgelenksknochen enden, sodass etwa 1 bis 1,5 cm der Hemd- oder Blusenmanschette sichtbar bleiben.
-- **Die Schließknopf-Regel:** Beim Einreiher bleibt der unterste Knopf traditionell immer geöffnet – ein historisches Erbe, das auf König Edward VII. zurückgeht und bis heute für einen schöneren Fall der Jacke im Stehen und Sitzen sorgt.
+- **Die Schließknopf-Regel:** Beim Einreiher bleibt der unterste Knopf traditionell immer geöffnet, ein historisches Erbe, das auf König Edward VII. zurückgeht und bis heute für einen schöneren Fall der Jacke im Stehen und Sitzen sorgt.
 - **Konstruktion:** Achte auf die Verarbeitung. Eine halb- oder vollkanvasierte Verarbeitung (Half-Canvas/Full-Canvas) passt sich im Laufe der Zeit der Körperform an, während billig verklebte Einlagen oft steif wirken.
 
 ## Typische Missverständnisse

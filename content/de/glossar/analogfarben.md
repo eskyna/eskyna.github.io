@@ -38,13 +38,13 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Analogfarben** (auch als analoge Farben bezeichnet) sind Farbtöne, die im Farbkreis direkt nebeneinanderliegen – wie beispielsweise Blau, Blauviolett und Violett. Da sie eine enge Verwandtschaft aufweisen und meist einen gemeinsamen Primärton teilen, erzeugen sie in der visuellen Gestaltung besonders harmonische, fließende und optisch ruhige Farbkombinationen mit einer natürlichen Ästhetik.
+**Analogfarben** (auch als analoge Farben bezeichnet) sind Farbtöne, die im Farbkreis direkt nebeneinanderliegen, wie beispielsweise Blau, Blauviolett und Violett. Da sie eine enge Verwandtschaft aufweisen und meist einen gemeinsamen Primärton teilen, erzeugen sie in der visuellen Gestaltung besonders harmonische, fließende und optisch ruhige Farbkombinationen mit einer natürlichen Ästhetik.
 
 ## Einfach erklärt
 
 Farbe wirkt niemals isoliert, sondern stets im dynamischen Zusammenspiel mit ihrer direkten Umgebung. Ihre visuelle Wirkung verändert sich kontinuierlich durch Faktoren wie Helligkeit (Lichtwert), Sättigung (Farbtiefe), die Beschaffenheit des Materials und die unmittelbar angrenzenden Nuancen.
 
-Das Prinzip der Analogfarben lässt sich leicht nachvollziehen: Auf einem klassischen Farbkreis, der auf traditionellen Farbmodellen (wie dem von Johannes Itten) basiert, wählt man eine Ausgangsfarbe und kombiniert sie mit ihren direkten Nachbarn – meist in einem Radius von 30 bis 90 Grad.
+Das Prinzip der Analogfarben lässt sich leicht nachvollziehen: Auf einem klassischen Farbkreis, der auf traditionellen Farbmodellen (wie dem von Johannes Itten) basiert, wählt man eine Ausgangsfarbe und kombiniert sie mit ihren direkten Nachbarn, meist in einem Radius von 30 bis 90 Grad.
 
 Für ESKYNA ist dieses theoretische Fundament in der Praxis essenziell. Farbentscheidungen und die tägliche Kleidungswahl werden erheblich erleichtert, wenn man nicht nur isolierte Farbnamen betrachtet, sondern die harmonischen Beziehungen zwischen den Tönen versteht. Statt harter, komplementärer Kontraste entsteht durch Analogfarben ein sanfter, fließender Übergang, der dem Auge schmeichelt.
 
@@ -52,9 +52,9 @@ Für ESKYNA ist dieses theoretische Fundament in der Praxis essenziell. Farbents
 
 Ein tiefes Verständnis für analoge Farbschemata ist ein mächtiges Werkzeug für den Aufbau einer anspruchsvollen, nachhaltigen Garderobe. Wer weiß, wie Analogfarben wirken, wählt Kleidungsstücke bewusster aus, vermeidet Fehlkäufe und kombiniert vorhandene Lieblingsteile mit meisterhafter Präzision. Das macht den Kleiderschrank nicht voller, sondern strategisch klarer.
 
-In der Modehistorie erlebten analoge Farbkonzepte immer wieder stilprägende Epochen: von den organischen, naturverbundenen Nuancen des _Art Nouveau_ (Jugendstil) bis hin zu den eleganten, minimalistischen Strömungen der 1990er-Jahre. Auch die Natur nutzt dieses Prinzip perfekt – man denke an das herbstliche Farbspiel von warmem Gelb über Orange bis hin zu tiefem Rotbraun.
+In der Modehistorie erlebten analoge Farbkonzepte immer wieder stilprägende Epochen: von den organischen, naturverbundenen Nuancen des _Art Nouveau_ (Jugendstil) bis hin zu den eleganten, minimalistischen Strömungen der 1990er-Jahre. Auch die Natur nutzt dieses Prinzip perfekt, man denke an das herbstliche Farbspiel von warmem Gelb über Orange bis hin zu tiefem Rotbraun.
 
-Gerade im beruflichen Alltag oder bei formellen Anlässen hilft dir eine gezielte **Analogfarben Stilberatung**, schneller zu erkennen, ob ein neues Kleidungsstück die Harmonie deines bestehenden Sortiments ergänzt. Für eine stimmige, professionelle [Image-Strategie](/glossar/image-strategie/) sind Analogfarben von unschätzbarem Wert, da sie Souveränität, Nahbarkeit und visuelle Konsistenz ausstrahlen – ganz ohne die optische Strenge eines rein monochromen Looks.
+Gerade im beruflichen Alltag oder bei formellen Anlässen hilft dir eine gezielte **Analogfarben Stilberatung**, schneller zu erkennen, ob ein neues Kleidungsstück die Harmonie deines bestehenden Sortiments ergänzt. Für eine stimmige, professionelle [Image-Strategie](/glossar/image-strategie/) sind Analogfarben von unschätzbarem Wert, da sie Souveränität, Nahbarkeit und visuelle Konsistenz ausstrahlen, ganz ohne die optische Strenge eines rein monochromen Looks.
 
 ## Worauf du achten solltest
 
@@ -80,7 +80,7 @@ Analoge Farbkombinationen entfalten ihre edelste Wirkung, wenn sie präzise kura
 Wenn du das Prinzip der **Analogfarben** auf deine Garderobe überträgst, betrachte niemals nur das einzelne Kleidungsstück isoliert. Entscheidend ist das harmonische Gesamtbild. Da Farben unmittelbar auf das Gesicht reflektieren, bestimmen Temperatur, Helligkeit und Sättigung darüber, ob ein Ton dich optisch belebt oder ermüdet.
 
 - **Die Gesichtsprobe:** Halte die gewählte Farbkombination direkt unter dein Kinn und prüfe im Tageslicht, ob die analogen Töne mit deinem natürlichen Teint harmonieren.
-- **Der Nuancen-Vergleich:** Experimentiere innerhalb der analogen Reihe mit feinen Abstufungen – vergleiche eine wärmere, kühlere, hellere oder sanft gedämpfte Variante der Nachbarfarben.
+- **Der Nuancen-Vergleich:** Experimentiere innerhalb der analogen Reihe mit feinen Abstufungen, vergleiche eine wärmere, kühlere, hellere oder sanft gedämpfte Variante der Nachbarfarben.
 - **Die Detail-Harmonie:** Achte darauf, ob Accessoires, Brillenrahmen, Schmuck (wie warmes Gelbgold zu warmen analogen Erdtönen) oder die Make-up-Palette die fließende Ästhetik deines Outfits unterstützen.
 
 ## Beratungsblick

@@ -2,7 +2,7 @@
 title: "Woran erkennt man einen gut sitzenden BH?"
 term: "BH-Passform"
 description: "Unterbrustband, Cups, Träger und Bügel richtig beurteilen: So erkennst du BH-Passform im Alltag und in Bewegung."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "bh-passform"
 seoTitle: "BH-Passform: So erkennst du einen guten Sitz | ESKYNA"
 image: "images/glossar/bh-passform.png"
@@ -18,7 +18,7 @@ In der Lingerie-Fachwelt wird die **BH-Passform** nicht allein durch nackte Zahl
 
 ## Einfach erklärt
 
-Eine gute BH-Passform bedeutet schlichtweg: Anziehen und vergessen. Ein ideal sitzender BH rutscht nicht, kneift nicht und erfordert im Laufe des Tages kein ständiges Zurechtrücken oder Nachjustieren. Er hebt und stützt die Büste auf natürliche Weise, entlastet den Rücken spürbar und fühlt sich an wie eine zweite Haut – ganz gleich, ob im Stehen, Sitzen oder bei ausladenden Bewegungen.
+Eine gute BH-Passform bedeutet schlichtweg: Anziehen und vergessen. Ein ideal sitzender BH rutscht nicht, kneift nicht und erfordert im Laufe des Tages kein ständiges Zurechtrücken oder Nachjustieren. Er hebt und stützt die Büste auf natürliche Weise, entlastet den Rücken spürbar und fühlt sich an wie eine zweite Haut, ganz gleich, ob im Stehen, Sitzen oder bei ausladenden Bewegungen.
 
 ## Warum dieser Begriff wichtig ist
 
@@ -43,7 +43,7 @@ Eine Frau trägt im Business-Alltag ein edles, figurbetontes Etuikleid. Ihr BH s
 
 ## Typisches Missverständnis
 
-Das hartnäckigste Vorurteil lautet: „Wenn ich meine BH-Größe kenne, passt mir jedes Modell in dieser Größe.“ Das ist falsch. Die BH-Passform hängt maßgeblich von der individuellen Brustform (z. B. flach, projiziert, ober- oder untervoll) und der Schnittkonstruktion des BHs ab. Ein Balconette-BH erfordert eine völlig andere Gewebeverteilung als ein tief geschnittener Plunge-BH – selbst wenn auf dem Etikett exakt dieselbe Größe steht.
+Das hartnäckigste Vorurteil lautet: „Wenn ich meine BH-Größe kenne, passt mir jedes Modell in dieser Größe.“ Das ist falsch. Die BH-Passform hängt maßgeblich von der individuellen Brustform (z. B. flach, projiziert, ober- oder untervoll) und der Schnittkonstruktion des BHs ab. Ein Balconette-BH erfordert eine völlig andere Gewebeverteilung als ein tief geschnittener Plunge-BH, selbst wenn auf dem Etikett exakt dieselbe Größe steht.
 
 ## Abgrenzung zu ähnlichen Begriffen
 

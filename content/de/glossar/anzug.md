@@ -14,7 +14,7 @@ Ein Anzug ist ein aufeinander abgestimmtes Ensemble, bei dem Jacke und Hose, ode
 
 ## Definition
 
-In der klassischen Herren- und Damenmode definiert sich der **Anzug** als ein aufeinander abgestimmtes Ensemble, das aus mindestens zwei Teilen besteht: einer Anzugjacke (dem Sakko oder Blazer) und einer passenden Hose (der Anzughose). Wird dieses Duo durch eine farblich und stofflich identische Weste ergänzt, spricht man von einem dreiteiligen Anzug (Dreiteiler). Das entscheidende Kriterium für einen echten Anzug ist die stoffliche Einheitlichkeit – Ober- und Unterteil werden aus demselben Ballen Oberstoff (Tuch) gefertigt, wodurch Textur, Farbe, Musterung und Fadenlauf absolut identisch sind.
+In der klassischen Herren- und Damenmode definiert sich der **Anzug** als ein aufeinander abgestimmtes Ensemble, das aus mindestens zwei Teilen besteht: einer Anzugjacke (dem Sakko oder Blazer) und einer passenden Hose (der Anzughose). Wird dieses Duo durch eine farblich und stofflich identische Weste ergänzt, spricht man von einem dreiteiligen Anzug (Dreiteiler). Das entscheidende Kriterium für einen echten Anzug ist die stoffliche Einheitlichkeit, Ober- und Unterteil werden aus demselben Ballen Oberstoff (Tuch) gefertigt, wodurch Textur, Farbe, Musterung und Fadenlauf absolut identisch sind.
 
 Modehistorisch leitet sich der Begriff vom mittelhochdeutschen Wort „anzoc“ ab, was ursprünglich das „Anziehen“ von Kleidung oder die Kleidung selbst bezeichnete. Der moderne Anzug, wie wir ihn heute kennen, hat seine Wurzeln im England des 19. Jahrhunderts. Er entwickelte sich auf der Londoner Savile Row aus dem formellen Gehrock und dem Cutaway hin zum bequemeren „Lounge Suit“ (Salonanzug), der zur Standardgarderobe des modernen Großstadtbürgers wurde.
 
@@ -24,13 +24,13 @@ Heute existiert der Anzug in einer Vielzahl von Stilrichtungen und Silhouetten: 
 
 Einfach ausgedrückt: Beim Anzug gehören Jacke und Hose von Geburt an zusammen. Sie bestehen aus exakt demselben Stoff. Das unterscheidet den Anzug grundlegend von einer „Kombination“ (zum Beispiel einer Chino-Hose getragen mit einem separaten Blazer).
 
-Obwohl der Anzug als Einheit entworfen wurde, bietet er maximale Flexibilität: Du kannst ihn als geschlossenes, formelles Outfit tragen oder die Einzelteile – das Sakko und die Hose – unabhängig voneinander in deine alltägliche Garderobe integrieren und mit anderen Kleidungsstücken kombinieren.
+Obwohl der Anzug als Einheit entworfen wurde, bietet er maximale Flexibilität: Du kannst ihn als geschlossenes, formelles Outfit tragen oder die Einzelteile, das Sakko und die Hose, unabhängig voneinander in deine alltägliche Garderobe integrieren und mit anderen Kleidungsstücken kombinieren.
 
 ## Warum der Anzug wichtig ist
 
 Der Anzug ist das wohl wandelbarste und ausdrucksstärkste Fundament der modernen Garderobe. Er besitzt die einzigartige Eigenschaft, mit nur zwei Kleidungsstücken ein optisch harmonisches, vollständiges Outfit zu kreieren. Je nach Schnittführung, Materialauswahl und Styling transportiert er unterschiedlichste Botschaften: Er kann professionelle Kompetenz, feierliche Eleganz, modische Avantgarde oder entspannte Souveränität ausstrahlen.
 
-Im Laufe des 20. Jahrhunderts durchlief der Anzug eine faszinierende Evolution – von der steifen, gesellschaftlichen Uniformierung über das maskuline „Power Dressing“ der 1980er-Jahre bis hin zum emanzipatorischen Hosenanzug für Frauen. Heute ist der Anzug längst kein Symbol mehr für starre Konventionen. Er hat sich zu einem fließenden, kreativen Werkzeug des persönlichen Stils entwickelt, das mühelos die Brücke zwischen formellem Business-Kontext und urbanem Streetwear-Look schlägt.
+Im Laufe des 20. Jahrhunderts durchlief der Anzug eine faszinierende Evolution, von der steifen, gesellschaftlichen Uniformierung über das maskuline „Power Dressing“ der 1980er-Jahre bis hin zum emanzipatorischen Hosenanzug für Frauen. Heute ist der Anzug längst kein Symbol mehr für starre Konventionen. Er hat sich zu einem fließenden, kreativen Werkzeug des persönlichen Stils entwickelt, das mühelos die Brücke zwischen formellem Business-Kontext und urbanem Streetwear-Look schlägt.
 
 ## Blick aus der Beratung
 
@@ -42,7 +42,7 @@ Eine professionelle Stilberatung betrachtet den Körper als Silhouette:
 - **Die Reversbreite und die Schließknopf-Position (Gorge):** Diese vertikalen und horizontalen Linien lenken das Auge des Betrachters. Ein tief sitzender Schließknopf streckt den Oberkörper optisch, während ein höher ansetzendes Revers die Vertikale betont.
 - **Die Hosenlänge und Fußweite:** Die Hose sollte ohne unruhigen Stauch auf dem Schuh aufliegen (Full Break, Half Break oder No Break bei verkürzten Hosenlängen).
 
-Jacke und Hose müssen dabei nicht dieselbe Passform-Charakteristik aufweisen. So kann ein Spiel mit Kontrasten – etwa ein weich fallendes, entspanntes Sakko kombiniert mit einer präzise sitzenden, schmalen Hose – eine sehr moderne Dynamik erzeugen.
+Jacke und Hose müssen dabei nicht dieselbe Passform-Charakteristik aufweisen. So kann ein Spiel mit Kontrasten, etwa ein weich fallendes, entspanntes Sakko kombiniert mit einer präzise sitzenden, schmalen Hose, eine sehr moderne Dynamik erzeugen.
 
 ## So nutzt du den Begriff praktisch
 
@@ -93,7 +93,7 @@ Nutze diese Checkliste für den Spiegel-Test im Geschäft oder vor dem eigenen K
 
 ## Wann Beratung sinnvoll wird
 
-Eine professionelle Mode- und Stilberatung ist besonders dann ratsam, wenn standardisierte Konfektionsgrößen bei dir nicht harmonieren – beispielsweise, wenn du aufgrund deiner Statur bei der Jacke eine andere Größe benötigst als bei der Hose (hier hilft das sogenannte Baukastensystem). Auch wenn du unsicher bist, welche Reversform (steigendes Revers, fallendes Revers oder Schalkragen) deine Gesichtsform vorteilhaft betont, oder wenn du den Sprung von der klassischen Büro-Uniform hin zu einem modernen, individuellen Alltags-Tailoring wagen möchtest, ist eine Beratung der ideale Wegweiser. Erfahrene Berater erkennen sofort, welche Details (wie Ärmellänge oder Taillierung) durch kleine Änderungen beim Schneider perfektioniert werden können.
+Eine professionelle Mode- und Stilberatung ist besonders dann ratsam, wenn standardisierte Konfektionsgrößen bei dir nicht harmonieren, beispielsweise, wenn du aufgrund deiner Statur bei der Jacke eine andere Größe benötigst als bei der Hose (hier hilft das sogenannte Baukastensystem). Auch wenn du unsicher bist, welche Reversform (steigendes Revers, fallendes Revers oder Schalkragen) deine Gesichtsform vorteilhaft betont, oder wenn du den Sprung von der klassischen Büro-Uniform hin zu einem modernen, individuellen Alltags-Tailoring wagen möchtest, ist eine Beratung der ideale Wegweiser. Erfahrene Berater erkennen sofort, welche Details (wie Ärmellänge oder Taillierung) durch kleine Änderungen beim Schneider perfektioniert werden können.
 
 ## Verwandte Begriffe
 
@@ -117,4 +117,4 @@ Ja, das Trennen von Sakko und Hose (auch „Sprezzatura-Split“ genannt) ist ei
 
 ### Welcher Knopf bleibt bei einer klassischen Einreiher-Jacke offen?
 
-Als goldene Regel der Schneiderkunst gilt: Der unterste Knopf eines Sakkos bleibt immer geöffnet. Bei einem Zwei-Knopf-Sakko wird nur der obere Knopf geschlossen, bei einem Drei-Knopf-Sakko der mittlere (der obere optional, der untere nie). Diese Tradition geht historisch auf den britischen König Edward VII. zurück, der den untersten Knopf seiner Weste und Jacke aufgrund seines Leibesumfangs offenließ – ein Hofprotokoll, das sich schnell als weltweiter Stil-Standard etablierte und bis heute bei der Konstruktion moderner Sakkos berücksichtigt wird.
+Als goldene Regel der Schneiderkunst gilt: Der unterste Knopf eines Sakkos bleibt immer geöffnet. Bei einem Zwei-Knopf-Sakko wird nur der obere Knopf geschlossen, bei einem Drei-Knopf-Sakko der mittlere (der obere optional, der untere nie). Diese Tradition geht historisch auf den britischen König Edward VII. zurück, der den untersten Knopf seiner Weste und Jacke aufgrund seines Leibesumfangs offenließ, ein Hofprotokoll, das sich schnell als weltweiter Stil-Standard etablierte und bis heute bei der Konstruktion moderner Sakkos berücksichtigt wird.

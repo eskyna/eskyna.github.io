@@ -45,7 +45,7 @@ Der Begriff **Balletcore** (auch _Balletcore Style_ oder _Ballett-Ästhetik_) be
 
 ## Einfach erklärt
 
-Einfach ausgedrückt: Beim **Balletcore** holst du den eleganten Look von Tänzerinnen aus dem Ballettsaal direkt in deinen Alltag. Typische Key-Pieces dieses Stils sind flache [Ballerinas](/glossar/ballerina/), anschmiegsamer [Wickelstrick](/glossar/wickeloberteil/), Leggings, Beinstulpen (Legwarmers), zarte Haarschleifen, feine Tüllröcke (Tutus) sowie elastische Bodysuits aus Jersey. Farblich dominieren sanfte Pastelltöne – allen voran [Rosa](/glossar/rosa/), Puderfarben, Creme, Off-White und softes Grau. Der Stil lebt von der perfekten Balance aus elastischer Beweglichkeit (Athleisure) und einer grazilen, [romantischen](/glossar/romantisch/) Zartheit.
+Einfach ausgedrückt: Beim **Balletcore** holst du den eleganten Look von Tänzerinnen aus dem Ballettsaal direkt in deinen Alltag. Typische Key-Pieces dieses Stils sind flache [Ballerinas](/glossar/ballerina/), anschmiegsamer [Wickelstrick](/glossar/wickeloberteil/), Leggings, Beinstulpen (Legwarmers), zarte Haarschleifen, feine Tüllröcke (Tutus) sowie elastische Bodysuits aus Jersey. Farblich dominieren sanfte Pastelltöne, allen voran [Rosa](/glossar/rosa/), Puderfarben, Creme, Off-White und softes Grau. Der Stil lebt von der perfekten Balance aus elastischer Beweglichkeit (Athleisure) und einer grazilen, [romantischen](/glossar/romantisch/) Zartheit.
 
 ## Warum der Begriff wichtig ist
 

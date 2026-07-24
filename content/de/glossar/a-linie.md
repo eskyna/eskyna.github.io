@@ -66,8 +66,8 @@ Für ESKYNA verkörpert die A-Linie das Fundament meisterhafter Schnittführung.
 
 ## Worauf du bei der A-Linie achten solltest
 
-- **Die präzise Passform im Schulter- und Taillenbereich:** Damit das harmonische Gleichgewicht der Silhouette gewahrt bleibt, muss das Kleidungsstück an seinem schmalsten Ausgangspunkt – meist den Schultern, der Brust oder der Taille – absolut perfekt sitzen. Ein zu weiter Sitz lässt den Look schnell formlos wirken.
-- **Die strategische [Saumlänge](/glossar/saumlange/):** Um die vertikale Ausstrahlung des Schnitts optimal zu unterstützen, sollte der Saum an einer vorteilhaften Stelle der Beine enden – beispielsweise knapp über dem Knie oder an der schmalsten Stelle der Fessel.
+- **Die präzise Passform im Schulter- und Taillenbereich:** Damit das harmonische Gleichgewicht der Silhouette gewahrt bleibt, muss das Kleidungsstück an seinem schmalsten Ausgangspunkt, meist den Schultern, der Brust oder der Taille, absolut perfekt sitzen. Ein zu weiter Sitz lässt den Look schnell formlos wirken.
+- **Die strategische [Saumlänge](/glossar/saumlange/):** Um die vertikale Ausstrahlung des Schnitts optimal zu unterstützen, sollte der Saum an einer vorteilhaften Stelle der Beine enden, beispielsweise knapp über dem Knie oder an der schmalsten Stelle der Fessel.
 - **Materialbeschaffenheit und Fall:** Der gewählte Stoff bestimmt den Verwendungszweck. Standfeste, schwerere Gewebe eignen sich hervorragend für formelle Anlässe und Business-Kontexte, während sanft fallende Qualitäten perfekt für lässige Alltags- und Sommeroutfits sind.
 - **Das Zusammenspiel mit dem Schuhwerk:** Flache Schuhe wie minimalistische Loafer oder cleane Sneaker brechen die klassische Eleganz des Looks modern auf. Hohe Absätze oder spitze Stiefeletten strecken die A-Linie zusätzlich und verstärken den streckenden Effekt.
 - **Die Option der Taillenbetonung:** Ein dezenter Bindegürtel, ein markanter Ledergürtel oder eine geschickt platzierte Taillierungsnaht können die feminine Silhouette einer modifizierten A-Linie zusätzlich betonen.
@@ -94,6 +94,6 @@ Wenn du die **A-Linie** im Alltag für dein Outfit nutzt, betrachte stets das ge
 
 ## Beratungsblick
 
-In der professionellen Stilberatung gilt die **A-Linie** als eines der kraftvollsten Werkzeuge überhaupt. Sie ist weit mehr als ein starres Schnittmuster – sie ist ein universelles Gestaltungsprinzip, um optische Proportionen harmonisch zu modellieren, die Silhouette zu strecken und das persönliche Wohlbefinden zu maximieren. Erst im Zusammenspiel mit deinem individuellen Lebensstil, deiner Körperstatik und deinen persönlichen Stilvorlieben entfaltet dieser geschichtsträchtige Schnitt seine volle visuelle Kraft.
+In der professionellen Stilberatung gilt die **A-Linie** als eines der kraftvollsten Werkzeuge überhaupt. Sie ist weit mehr als ein starres Schnittmuster, sie ist ein universelles Gestaltungsprinzip, um optische Proportionen harmonisch zu modellieren, die Silhouette zu strecken und das persönliche Wohlbefinden zu maximieren. Erst im Zusammenspiel mit deinem individuellen Lebensstil, deiner Körperstatik und deinen persönlichen Stilvorlieben entfaltet dieser geschichtsträchtige Schnitt seine volle visuelle Kraft.
 
 Umfassende Orientierung und stilistische Inspiration für deine Garderobe findest du in unserer Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine ganz persönliche Stilentscheidung bezüglich Passform, Materialwahl oder Kombination treffen möchtest, nutze gerne die Möglichkeit für eine maßgeschneiderte [Stilfrage an Natalia](/stilfrage/).

@@ -46,7 +46,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Braun
 
-Braun ist der Inbegriff von natürlicher Eleganz, erdiger Wärme und modischer Tiefe. Als sanfte, subtile Alternative zu hartem Schwarz bringt dieser Naturton eine unaufgeregte Souveränität in jede Garderobe. Modehistorisch galt Braun lange Zeit als Farbe der Arbeit und des Umlands – man denke an den klassischen britischen Dresscode „No brown in town“. Heute jedoch steht Braun in der Kleidung für Understatement, zeitlosen Stil und modernen Luxus. Besonders im Zusammenspiel mit Nuancen wie [Camel](/glossar/camel/) oder [Terracotta](/glossar/terracotta/) entfaltet das Farbspektrum seine gesamte Ästhetik und beweist, wie facettenreich warme Töne wirken können.
+Braun ist der Inbegriff von natürlicher Eleganz, erdiger Wärme und modischer Tiefe. Als sanfte, subtile Alternative zu hartem Schwarz bringt dieser Naturton eine unaufgeregte Souveränität in jede Garderobe. Modehistorisch galt Braun lange Zeit als Farbe der Arbeit und des Umlands, man denke an den klassischen britischen Dresscode „No brown in town“. Heute jedoch steht Braun in der Kleidung für Understatement, zeitlosen Stil und modernen Luxus. Besonders im Zusammenspiel mit Nuancen wie [Camel](/glossar/camel/) oder [Terracotta](/glossar/terracotta/) entfaltet das Farbspektrum seine gesamte Ästhetik und beweist, wie facettenreich warme Töne wirken können.
 
 ## Wie Braun wirkt
 
@@ -76,15 +76,15 @@ Um **Braun stilsicher zu kombinieren**, bedarf es eines feinen Gespürs für Kon
 
 Im professionellen Business-Umfeld punktet **Braun in der Kleidung** vor allem durch Seriosität abseits des klassischen Grau-Blau-Einerleis. Dunkle Töne wie Espresso, Mokka oder kühles Taupe eignen sich hervorragend für Hosenanzüge, Etuikleider oder feine Trenchcoats. Wichtig hierbei: Der Schnitt muss präzise, klar und modern sein, um jegliche Assoziation von Altbackenheit zu vermeiden.
 
-Im Casual-Bereich und im Alltag darf die Farbe ihre textile Gemütlichkeit voll ausspielen. Ob als kuscheliger Grobstrickpullover, weiche Wildlederjacke, lässige Cordhose oder als hochwertiges Accessoire – Braun vermittelt entspannte Nahbarkeit und ein stilvolles Modebewusstsein.
+Im Casual-Bereich und im Alltag darf die Farbe ihre textile Gemütlichkeit voll ausspielen. Ob als kuscheliger Grobstrickpullover, weiche Wildlederjacke, lässige Cordhose oder als hochwertiges Accessoire, Braun vermittelt entspannte Nahbarkeit und ein stilvolles Modebewusstsein.
 
 ## Für wen und wo Braun funktioniert
 
-Braun ist ein wahrer Allrounder in der **Stilberatung**. Es ist die ideale Rettung für alle, deren Teint durch hartes Schwarz optisch müde wirkt. Welcher Braunton Ihnen schmeichelt, entscheidet Ihr individueller [Farbtyp](/glossar/farbtyp/) und der [Unterton](/glossar/unterton/) Ihrer Haut. Warme Typen (Frühling und Herbst) greifen zu goldenem Karamell, sattem Cognac oder warmem Schokoladenbraun. Kühle Typen (Sommer und Winter) bringen mit aschigen Nuancen wie Taupe oder einem fast schwarzen Espresso-Ton ihre Augen zum Leuchten. Schon ein kleiner Akzent – wie ein edler Ledergürtel oder rahmengenähte Schuhe – wertet selbst minimalistische Outfits sofort auf.
+Braun ist ein wahrer Allrounder in der **Stilberatung**. Es ist die ideale Rettung für alle, deren Teint durch hartes Schwarz optisch müde wirkt. Welcher Braunton dir schmeichelt, entscheidet dein individueller [Farbtyp](/glossar/farbtyp/) und der [Unterton](/glossar/unterton/) deiner Haut. Warme Typen (Frühling und Herbst) greifen zu goldenem Karamell, sattem Cognac oder warmem Schokoladenbraun. Kühle Typen (Sommer und Winter) bringen mit aschigen Nuancen wie Taupe oder einem fast schwarzen Espresso-Ton ihre Augen zum Leuchten. Schon ein kleiner Akzent, wie ein edler Ledergürtel oder rahmengenähte Schuhe, wertet selbst minimalistische Outfits sofort auf.
 
 ## Mini-Test vor dem Spiegel
 
-Machen Sie die Probe aufs Exempel: Betrachten Sie Ihr braunes Outfit einmal aus nächster Nähe und einmal mit zwei Metern Abstand vor dem Spiegel. Aus der Nähe offenbaren sich die feine Textur und die Materialqualität des Stoffes. Aus der Distanz erkennen Sie sofort, ob die Silhouette harmonisch wirkt oder ob das Outfit durch zu viele unterschiedliche Brauntöne unruhig erscheint. Fehlt die Balance, hilft oft der Austausch eines einzelnen Teils gegen eine neutrale Kontrastfarbe.
+Machen du die Probe aufs Exempel: Betrachten du dein braunes Outfit einmal aus nächster Nähe und einmal mit zwei Metern Abstand vor dem Spiegel. Aus der Nähe offenbaren sich die feine Textur und die Materialqualität des Stoffes. Aus der Distanz erkennen du sofort, ob die Silhouette harmonisch wirkt oder ob das Outfit durch zu viele unterschiedliche Brauntöne unruhig erscheint. Fehlt die Balance, hilft oft der Austausch eines einzelnen Teils gegen eine neutrale Kontrastfarbe.
 
 ## ESKYNA-Merksatz
 

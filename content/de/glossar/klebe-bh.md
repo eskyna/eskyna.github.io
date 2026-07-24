@@ -2,7 +2,7 @@
 title: "Was ist ein Klebe-BH, und wann eignet er sich für rückenfreie Kleidung?"
 term: "Klebe-BH und rückenfreier BH"
 description: "Wie funktioniert ein Klebe-BH und wann eignet er sich für rückenfreie Kleider? Modelle, Halt, Passform und Unterschiede zu Boob Tape."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "klebe-bh"
 seoTitle: "Klebe-BH für rückenfreie Kleider: Auswahl und Halt | ESKYNA"
 image: "images/glossar/klebe-bh.png"

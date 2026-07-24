@@ -49,7 +49,7 @@ Im Alltag wird das Cape oft fälschlicherweise mit dem Poncho gleichgesetzt. Der
 
 ## Warum Cape wichtig ist
 
-Das Verständnis für das Cape und seine spezifische Silhouette schärft den Blick für Proportionen und die eigene Garderobenlogik. Modehistorisch reicht seine Tradition vom praktischen Wetterschutz des Mittelalters über das elegante Abendcape der Belle Époque bis hin zum emanzipatorischen Statement-Piece der 1960er-Jahre – etwa durch visionäre Designer wie Pierre Cardin oder Cristóbal Balenciaga.
+Das Verständnis für das Cape und seine spezifische Silhouette schärft den Blick für Proportionen und die eigene Garderobenlogik. Modehistorisch reicht seine Tradition vom praktischen Wetterschutz des Mittelalters über das elegante Abendcape der Belle Époque bis hin zum emanzipatorischen Statement-Piece der 1960er-Jahre, etwa durch visionäre Designer wie Pierre Cardin oder Cristóbal Balenciaga.
 
 Heute ist das Cape ein wichtiges Werkzeug für ein cleveres, minimalistisches Styling. Wer weiß, wie ein Cape wirkt, kann vorhandene Kleidungsstücke präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer und vielseitiger. Gerade in der Übergangszeit hilft das Cape, stilistische Brüche zu erzeugen und Looks ohne großen Aufwand aufzuwerten, ohne dass die Funktionalität im Alltag verloren geht.
 
@@ -70,7 +70,7 @@ Heute ist das Cape ein wichtiges Werkzeug für ein cleveres, minimalistisches St
 
 ## ESKYNA-Merksatz
 
-Ein Cape entfaltet seine stärkste Wirkung, wenn es als bewusste Silhouette eingesetzt wird – das spannende Spiel aus fließender Weite am Oberkörper und definierter Schmalheit am Unterkörper schafft zeitlose, unangestrengte Eleganz.
+Ein Cape entfaltet seine stärkste Wirkung, wenn es als bewusste Silhouette eingesetzt wird, das spannende Spiel aus fließender Weite am Oberkörper und definierter Schmalheit am Unterkörper schafft zeitlose, unangestrengte Eleganz.
 
 ## Praxischeck
 

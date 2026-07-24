@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 Muster bringen optische Bewegung und Dynamik in ein Outfit. Wie ein Muster wirkt, hängt von seiner Skalierung, dem farblichen Kontrast, der Platzierung auf dem Körper und der Frage ab, ob es als ruhiger Begleiter oder als expressiver Fokus des Looks fungieren soll.
 
-Wer sich fragt: **Was bedeutet Batik** für das moderne Styling? Bei dieser traditionellen Technik werden vor dem Färben bestimmte Stoffpartien abgedeckt – klassischerweise mit flüssigem Wachs (Wachsbatik) oder durch festes Abbinden und Falten (auch bekannt als Tie-Dye oder Shibori) –, sodass diese Stellen keine Farbe annehmen.
+Wer sich fragt: **Was bedeutet Batik** für das moderne Styling? Bei dieser traditionellen Technik werden vor dem Färben bestimmte Stoffpartien abgedeckt, klassischerweise mit flüssigem Wachs (Wachsbatik) oder durch festes Abbinden und Falten (auch bekannt als Tie-Dye oder Shibori), , sodass diese Stellen keine Farbe annehmen.
 
 Für ESKYNA sind solche Muster besonders spannend, weil sie Persönlichkeit und handwerkliche Tiefe transportieren. Gleichzeitig verlangen die lebendigen Farbverläufe nach einer klaren, beruhigten Nachbarschaft im Outfit, damit das Gesamtbild edel wirkt und nicht ins Unruhige abgleitet.
 

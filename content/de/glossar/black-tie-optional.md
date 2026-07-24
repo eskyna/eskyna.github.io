@@ -45,7 +45,7 @@ Der **Black Tie Optional Dresscode** bezeichnet eine formelle Kleiderordnung fü
 
 ## Einfach erklärt
 
-Einfach übersetzt bedeutet der Zusatz „Optional“: _„Wir laden Sie herzlich im Smoking oder im langen Abendkleid ein – sollten Sie diese Garderobe jedoch nicht besitzen, sind Sie in einem sehr eleganten dunklen Anzug oder einem feinen, festlichen Kleid ebenso willkommen.“_
+Einfach übersetzt bedeutet der Zusatz „Optional“: _„Wir laden Sie herzlich im Smoking oder im langen Abendkleid ein, sollten Sie diese Garderobe jedoch nicht besitzen, sind Sie in einem sehr eleganten dunklen Anzug oder einem feinen, festlichen Kleid ebenso willkommen.“_
 
 Der Begriff darf jedoch nicht mit einer Erlaubnis für legere Freizeitkleidung verwechselt werden. Das Niveau der Veranstaltung bleibt feierlich, anspruchsvoll und hochgradig formell.
 
@@ -60,7 +60,7 @@ Ein präzises Verständnis dieses Begriffs bewahrt dich vor stilistischen Fehlgr
 
 ## ESKYNA-Merksatz
 
-**Black Tie Optional** ist die Einladung zur maximalen Eleganz ohne den Zwang des Smockings – ein stilvoller Freiraum innerhalb eines absolut formellen Rahmens.
+**Black Tie Optional** ist die Einladung zur maximalen Eleganz ohne den Zwang des Smockings, ein stilvoller Freiraum innerhalb eines absolut formellen Rahmens.
 
 ## Praxischeck
 

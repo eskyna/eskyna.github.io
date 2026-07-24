@@ -30,7 +30,7 @@ In der Modehistorie und der modernen Schneiderei gilt Batist als Meister der fei
 
 - **Ästhetik & Fall:** Batist fällt weich und fließend, besitzt aber im Vergleich zu Chiffon etwas mehr Stand. Das macht ihn ideal für feine Plissees, zarte Rüschen und elegante Drapierungen.
 - **Qualitätsindikator:** Aufgrund der feinen Garne verzeiht Batist keine Webfehler. Ungleichmäßige Fäden, unsaubere Nähte oder zu schwere Knöpfe ziehen den Stoff sofort in Mitleidenschaft und fallen optisch direkt ins Auge.
-- **Vielseitigkeit:** Ob als kühlender Sommerstoff, als edler Träger für Lochstickerei (wie die berühmte _Madeira-Stickerei_) oder als hautfreundlicher Futterstoff – er optimiert den Tragekomfort luxuriöser Garderobe.
+- **Vielseitigkeit:** Ob als kühlender Sommerstoff, als edler Träger für Lochstickerei (wie die berühmte _Madeira-Stickerei_) oder als hautfreundlicher Futterstoff, er optimiert den Tragekomfort luxuriöser Garderobe.
 
 Bei hellen Qualitäten ist zudem die Balance zwischen Transparenz und Opazität (Blickdichte) von Bedeutung. Hier zeigt sich die Klasse der Webkunst: Ein hochwertiger Batist schimmert edel, ohne dabei komplett transparent zu wirken.
 
@@ -108,4 +108,4 @@ Ja, hervorragend. Besonders Baumwollbatist ist als Futterstoff für Sommerkleide
 
 ### Läuft Baumwollbatist beim Waschen ein?
 
-Da es sich meist um ein Gewebe aus Naturfasern (Baumwolle oder Leinen) handelt, kann Batist beim Waschen um ca. 3–5 % einlaufen. Beachte stets die Pflegehinweise auf dem Etikett. Wasche feine Batistkleidung im Schonwaschgang, idealerweise in einem Wäschenetz, um Faserbeschädigungen durch Reißverschlüsse oder Trommelreibung zu vermeiden.
+Da es sich meist um ein Gewebe aus Naturfasern (Baumwolle oder Leinen) handelt, kann Batist beim Waschen um ca. 3-5 % einlaufen. Beachte stets die Pflegehinweise auf dem Etikett. Wasche feine Batistkleidung im Schonwaschgang, idealerweise in einem Wäschenetz, um Faserbeschädigungen durch Reißverschlüsse oder Trommelreibung zu vermeiden.

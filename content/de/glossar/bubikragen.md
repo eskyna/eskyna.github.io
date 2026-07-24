@@ -67,7 +67,7 @@ In einer zeitgemäßen **Bubikragen Stilberatung** geht es darum, diesen nostalg
 
 ## ESKYNA-Merksatz
 
-Der Bubikragen entfaltet seine stärkste Wirkung im bewussten Stilbruch – er balanciert maskuline oder geometrische Silhouetten perfekt aus und schenkt ihnen eine subtile, elegante Nahbarkeit.
+Der Bubikragen entfaltet seine stärkste Wirkung im bewussten Stilbruch, er balanciert maskuline oder geometrische Silhouetten perfekt aus und schenkt ihnen eine subtile, elegante Nahbarkeit.
 
 ## Praxischeck
 

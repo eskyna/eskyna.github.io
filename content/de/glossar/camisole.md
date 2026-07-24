@@ -52,14 +52,14 @@ Durch seinen fließenden Stoff und den feinen Glanzgrad bringt es sofort eine ed
 
 ## Warum dieser Begriff wichtig ist
 
-In der Modegeschichte markiert das Camisole den faszinierenden Übergang von unsichtbarer Unterwäsche (_Lingerie_) zu selbstbewusster Oberbekleidung (_Outerwear_). Besonders in den 1990er-Jahren – geprägt durch den minimalistischen Slip-Dress-Trend und Stilikonen wie Kate Moss – etablierte sich das filigrane Top als Key-Piece der Modewelt.
+In der Modegeschichte markiert das Camisole den faszinierenden Übergang von unsichtbarer Unterwäsche (_Lingerie_) zu selbstbewusster Oberbekleidung (_Outerwear_). Besonders in den 1990er-Jahren, geprägt durch den minimalistischen Slip-Dress-Trend und Stilikonen wie Kate Moss, etablierte sich das filigrane Top als Key-Piece der Modewelt.
 
 Für ESKYNA ist das Camisole ein unverzichtbares Werkzeug der Garderobenplanung. Es ist das perfekte Bindeglied, um harte Linien und strenge Schnitte (wie die eines maskulinen Blazers oder eines schweren Tweed-Mantels) aufzubrechen. Es verleiht dem Look Tiefe, fängt das Licht elegant ein und ermöglicht es, dezente Farbakzente im Dekolleté-Bereich zu setzen.
 
 ## Worauf du achten solltest
 
 - **Materialqualität:** Da das Camisole direkt auf der Haut liegt, sind atmungsaktive Naturfasern wie Seide oder hochwertige Viskose-Satin-Mischungen ideal. Synthetische Fasern wie billiges Polyester neigen zu elektrostatischer Aufladung und mindern den optischen Glanzgrad.
-- **Passform & Ausschnitt:** Der Ausschnitt sollte harmonisch sitzen – weder zu tief rutschen noch einschneiden. Verstellbare Träger sind hier ein wertvolles Detail.
+- **Passform & Ausschnitt:** Der Ausschnitt sollte harmonisch sitzen, weder zu tief rutschen noch einschneiden. Verstellbare Träger sind hier ein wertvolles Detail.
 - **Wahl der Unterwäsche:** Ein trägerloser BH oder ein spezieller T-Shirt-BH ohne sichtbare Nähte sorgt für eine makellose Silhouette unter dem feinen Stoff.
 - **Stil-Kontraste beim Seidentop kombinieren:** Die feine Textur entfaltet ihre stärkste Wirkung im Zusammenspiel mit rauen Oberflächen wie grobem Strick, Leder oder Denim.
 

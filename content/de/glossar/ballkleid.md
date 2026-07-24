@@ -16,17 +16,17 @@ Das Ballkleid gilt als die unangefochtene Königin der festlichen Damenmode und 
 
 Der Begriff Ballkleid beschreibt das förmlichste Kleidungsstück der weiblichen Garderobe, das sich durch spezifische Konstruktions- und Materialeigenschaften definiert. Modehistorisch und handwerklich zeichnet es sich durch eine eng anliegende, oft corsagenartig gearbeitete Oberpartie (Mieder) und einen betont weiten, bodenlangen Rock aus.
 
-Diese Silhouette ist so konstruiert, dass sie beim Tanzen – traditionell dem Wiener Walzer – eine fließende, raumgreifende Dynamik entfaltet. Für die Praxis ist entscheidend, wie diese Eigenschaften mit Passform, Proportion, Bewegung und Nutzung zusammenspielen. Typische Materialien sind edelste Textilien wie Seide, Brokat, schwerer Satin, Taft, Organza und mehrlagiger Tüll, die oft durch aufwendige Unterkonstruktionen wie Petticoats gestützt werden.
+Diese Silhouette ist so konstruiert, dass sie beim Tanzen, traditionell dem Wiener Walzer, eine fließende, raumgreifende Dynamik entfaltet. Für die Praxis ist entscheidend, wie diese Eigenschaften mit Passform, Proportion, Bewegung und Nutzung zusammenspielen. Typische Materialien sind edelste Textilien wie Seide, Brokat, schwerer Satin, Taft, Organza und mehrlagiger Tüll, die oft durch aufwendige Unterkonstruktionen wie Petticoats gestützt werden.
 
 ## Einfach erklärt
 
 Du kannst das Ballkleid als Orientierung nutzen, um schneller zu sehen, ob ein festliches Kleidungsstück zu deinem Anlass, deinen Wegen und deiner gewünschten Wirkung passt. Im Gegensatz zum Cocktailkleid (das meist knielang ist) oder dem klassischen Abendkleid (das auch schmal und figurbetont fallen kann) ist das Ballkleid immer bodenlang und besitzt ein voluminöses Rockteil.
 
-Es ist speziell für den ganz großen, formellen Auftritt im Ballsaal konzipiert – wie etwa bei traditionellen Opernbällen, Gala-Veranstaltungen oder Debütantinnenbällen. Wenn auf einer Einladung der strengste aller Dresscodes, _White Tie_ (großer Gesellschaftsanzug), verlangt wird, ist das klassische Ballkleid für Frauen die einzig angemessene Wahl.
+Es ist speziell für den ganz großen, formellen Auftritt im Ballsaal konzipiert, wie etwa bei traditionellen Opernbällen, Gala-Veranstaltungen oder Debütantinnenbällen. Wenn auf einer Einladung der strengste aller Dresscodes, _White Tie_ (großer Gesellschaftsanzug), verlangt wird, ist das klassische Ballkleid für Frauen die einzig angemessene Wahl.
 
 ## Warum Ballkleid wichtig ist
 
-In der professionellen Stilberatung zeigt sich immer wieder, dass kleine Konstruktionsdetails eine große Wirkung auf die Gesamterscheinung haben. Das Ballkleid beeinflusst maßgeblich, wie präsent und würdevoll ein Outfit wirkt. Die ausgeprägte Silhouette – erzeugt durch die Taillenbetonung und den ausladenden Rock – formt eine majestätische Körperhaltung und sorgt für eine elegante Raumwirkung.
+In der professionellen Stilberatung zeigt sich immer wieder, dass kleine Konstruktionsdetails eine große Wirkung auf die Gesamterscheinung haben. Das Ballkleid beeinflusst maßgeblich, wie präsent und würdevoll ein Outfit wirkt. Die ausgeprägte Silhouette, erzeugt durch die Taillenbetonung und den ausladenden Rock, formt eine majestätische Körperhaltung und sorgt für eine elegante Raumwirkung.
 
 Modegeschichtlich spiegelt das Ballkleid den Wandel gesellschaftlicher Epochen wider: von den ausladenden Reifröcken (Krinolinen) des 19. Jahrhunderts über die glamourösen Roben der Goldenen Zwanziger bis hin zur Wiederbelebung der opulenten Ballrobe durch Christian Diors berühmten _New Look_ im Jahr 1947. Wer die Prinzipien des Ballkleids versteht, weiß, wie Stoffe in der Bewegung wirken, wie Tragekomfort trotz schwerer Materialien gelingt und wie man sich auf dem anspruchsvollsten Parkett stilsicher bewegt.
 

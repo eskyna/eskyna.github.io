@@ -50,7 +50,7 @@ Entscheidend für die luxuriöse Ausstrahlung ist die Textur. Edle Naturfasern w
 
 In der Modegeschichte war das Abendkleid seit jeher ein visuelles Statussymbol und ein Zeichen des Respekts gegenüber dem Gastgeber sowie der Feierlichkeit des Anlasses. Entstanden aus den höfischen Gewändern des 18. und 19. Jahrhunderts, markierte es den rituellen Übergang vom geschäftigen Tag zum repräsentativen Abend.
 
-Auch in der modernen Gesellschaft behält das Abendkleid diese transformative Funktion. Es schenkt seiner Trägerin bei hochkarätigen Events – wie Opernpremieren, Galas, Bällen oder formellen Hochzeiten – die nötige stilistische Sicherheit. Das Wissen um ein perfekt sitzendes, dem Anlass angemessenes Kleid befreit von modischen Zweifeln und erlaubt es, sich ganz auf das gesellschaftliche Ereignis zu konzentrieren. Es ist die textile Übersetzung von Haltung, Würde und festlicher Ästhetik.
+Auch in der modernen Gesellschaft behält das Abendkleid diese transformative Funktion. Es schenkt seiner Trägerin bei hochkarätigen Events, wie Opernpremieren, Galas, Bällen oder formellen Hochzeiten, die nötige stilistische Sicherheit. Das Wissen um ein perfekt sitzendes, dem Anlass angemessenes Kleid befreit von modischen Zweifeln und erlaubt es, sich ganz auf das gesellschaftliche Ereignis zu konzentrieren. Es ist die textile Übersetzung von Haltung, Würde und festlicher Ästhetik.
 
 ## Worauf du achten solltest
 

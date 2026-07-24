@@ -31,7 +31,7 @@ image: images/glossar/_index.png
 image_alt: "Glossar-Illustration zu Glossar"
 ---
 
-Das ESKYNA Glossar ist dein digitales Nachschlagewerk für fundiertes Stilwissen, Modegeschichte und textile Expertise. Von klassischen Dresscodes über komplexe Farbtheorien der Stilberatung bis hin zu präziser Schnittführung und Materialkunde: Hier findest du keine trockenen Definitionen, sondern praxistaugliches Hintergrundwissen für deine täglichen Stilentscheidungen. Denn wahrer Stil basiert auf Verständnis – nicht auf Trends.
+Das ESKYNA Glossar ist dein digitales Nachschlagewerk für fundiertes Stilwissen, Modegeschichte und textile Expertise. Von klassischen Dresscodes über komplexe Farbtheorien der Stilberatung bis hin zu präziser Schnittführung und Materialkunde: Hier findest du keine trockenen Definitionen, sondern praxistaugliches Hintergrundwissen für deine täglichen Stilentscheidungen. Denn wahrer Stil basiert auf Verständnis, nicht auf Trends.
 
 Die Sprache der Mode hat eine faszinierende Entwicklung hinter sich. Viele unserer heutigen Stilbegriffe wurzeln in der französischen Haute Couture des 19. Jahrhunderts oder der traditionellen britischen Herrenschneiderei der Savile Row. Dieses Modeglossar verbindet diese modehistorischen Ursprünge mit moderner Garderobenplanung und Stoffkunde. Es hilft dir, die feinen Unterschiede zwischen verschiedenen Gewebearten, Passformen und Stilrichtungen mühelos zu entschlüsseln.
 

@@ -46,7 +46,7 @@ Im Gegensatz zu unruhigen Prints bringen Bretonstreifen eine grafische, maritime
 
 ## Warum Bretonstreifen wichtig ist
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer. Die historische Bedeutung dieses Musters ist einzigartig: 1858 wurden die Streifen per kaiserlichem Dekret zur offiziellen Uniform der französischen Matrosen in der Bretagne ernannt – traditionell mit exakt 21 Streifen, die symbolisch für die Siege Napoleons standen. Zudem halfen die auffälligen Querstreifen dabei, ins Wasser gefallene Seeleute schneller im Wellengang zu sichten.
+Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer. Die historische Bedeutung dieses Musters ist einzigartig: 1858 wurden die Streifen per kaiserlichem Dekret zur offiziellen Uniform der französischen Matrosen in der Bretagne ernannt, traditionell mit exakt 21 Streifen, die symbolisch für die Siege Napoleons standen. Zudem halfen die auffälligen Querstreifen dabei, ins Wasser gefallene Seeleute schneller im Wellengang zu sichten.
 
 Mode-Pionierin Coco Chanel befreite die Streifen schließlich aus dem maritimen Arbeitsalltag, als sie das Muster 1913 in ihrer Boutique in Deauville für die Damenmode adaptierte. Später machten Künstler wie Pablo Picasso und Stilikonen wie Audrey Hepburn, Brigitte Bardot und Jean Paul Gaultier das gestreifte Shirt weltberühmt.
 
@@ -75,7 +75,7 @@ Bretonstreifen wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird.
 
 Wenn du den Begriff **Bretonstreifen** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
 
-- Fühle Griff, Gewicht und Stand des Materials – feste Baumwolle sorgt für den typischen, leicht kastigen Fall des Klassikers.
+- Fühle Griff, Gewicht und Stand des Materials, feste Baumwolle sorgt für den typischen, leicht kastigen Fall des Klassikers.
 - Prüfe die Verarbeitung an den Nähten: Bei hochwertigen Kleidungsstücken laufen die Streifen an den Seitennähten und Ärmelansätzen exakt aufeinander.
 - Achte auf Pflege, Knitterverhalten und Farbechtheit, damit das strahlende Weiß nicht durch das dunkle Blau verfärbt.
 

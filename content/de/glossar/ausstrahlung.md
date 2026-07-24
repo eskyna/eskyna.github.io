@@ -73,11 +73,11 @@ offer_bridge:
 
 Der Begriff hilft uns, Mode und Kleidung nicht bloß als textile Hülle, sondern als aktiven Teil der eigenen Identität zu begreifen. Ausstrahlung ist keine Frage von flüchtigen Trends, auffälligen Designerlogos oder starren Schönheitsidealen. Sie entsteht durch Authentizität und Passung: Wenn Schnitte, Farben und die eigene Haltung eine stimmige Einheit bilden, formt sich ein überzeugendes [Image](/glossar/image/).
 
-In einer professionellen **Ausstrahlung Stilberatung** geht es genau darum: Kleidung systematisch als Werkzeug einzusetzen, um das innere Selbst nach außen zu transportieren. Kulturhistorisch war dies schon immer ein zentrales Thema – von der höfischen _Sprezzatura_ der italienischen Renaissance (der Kunst, das Perfekte mühelos wirken zu lassen) bis zur modernen Modepsychologie. Stil soll nicht einengen oder verkleiden, sondern das alltägliche Auftreten erleichtern, präzisieren und mit natürlicher Souveränität aufladen.
+In einer professionellen **Ausstrahlung Stilberatung** geht es genau darum: Kleidung systematisch als Werkzeug einzusetzen, um das innere Selbst nach außen zu transportieren. Kulturhistorisch war dies schon immer ein zentrales Thema, von der höfischen _Sprezzatura_ der italienischen Renaissance (der Kunst, das Perfekte mühelos wirken zu lassen) bis zur modernen Modepsychologie. Stil soll nicht einengen oder verkleiden, sondern das alltägliche Auftreten erleichtern, präzisieren und mit natürlicher Souveränität aufladen.
 
 ## Warum Ausstrahlung wichtig ist
 
-Wer die Mechanismen hinter persönlicher Präsenz versteht, konsumiert bewusster, kombiniert klüger und kleidet sich zielsicherer. Das schützt vor Fehlkäufen und macht den Kleiderschrank nicht voller, sondern strategisch klarer. Das psychologische Phänomen der _Enclothed Cognition_ belegt zudem: Was wir tragen, beeinflusst direkt unser Denken, Fühlen und Handeln – und somit unsere Ausstrahlung.
+Wer die Mechanismen hinter persönlicher Präsenz versteht, konsumiert bewusster, kombiniert klüger und kleidet sich zielsicherer. Das schützt vor Fehlkäufen und macht den Kleiderschrank nicht voller, sondern strategisch klarer. Das psychologische Phänomen der _Enclothed Cognition_ belegt zudem: Was wir tragen, beeinflusst direkt unser Denken, Fühlen und Handeln, und somit unsere Ausstrahlung.
 
 Besonders im beruflichen Kontext oder bei öffentlichen Auftritten fungiert die eigene Erscheinung als visuelle Visitenkarte. Sie entscheidet in Sekundenschnelle über die Zuschreibung von Kompetenz, Vertrauenswürdigkeit und Führungsanspruch. Wer weiß, welche Linienführungen, Kontraste und Texturen die eigene Persönlichkeit unterstreichen, bewegt sich im Alltag freier, selbstbewusster und fokussierter.
 
@@ -136,7 +136,7 @@ Durch den gezielten Wechsel von unruhigen, kleinteiligen Mustern hin zu ausdruck
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Eine professionelle Begleitung ist sinnvoll, wenn du die theoretischen Regeln zwar kennst, vor dem eigenen Spiegel oder beim Einkaufen dennoch regelmäßig zögerst. Echte Ausstrahlung lässt sich nicht durch standardisierte Modetrends erzwingen – sie muss individuell auf deine Persönlichkeit, deine Silhouette und deine beruflichen Ziele kalibriert werden. Wenn du deine Präsenz präzise und authentisch schärfen möchtest, ist [ESKYNA Präsenz ansehen](/praesenz/) dein direkter Weg zu einem stilsicheren, souveränen Auftritt.
+Eine professionelle Begleitung ist sinnvoll, wenn du die theoretischen Regeln zwar kennst, vor dem eigenen Spiegel oder beim Einkaufen dennoch regelmäßig zögerst. Echte Ausstrahlung lässt sich nicht durch standardisierte Modetrends erzwingen, sie muss individuell auf deine Persönlichkeit, deine Silhouette und deine beruflichen Ziele kalibriert werden. Wenn du deine Präsenz präzise und authentisch schärfen möchtest, ist [ESKYNA Präsenz ansehen](/praesenz/) dein direkter Weg zu einem stilsicheren, souveränen Auftritt.
 
 <!-- commercial-depth-end -->
 

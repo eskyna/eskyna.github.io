@@ -15,7 +15,7 @@ Eine Brosche ist ein dekoratives, oft kunstvoll verziertes Schmuckstück, das mi
 
 ## Definition
 
-Historisch und linguistisch leitet sich der Begriff von dem französischen Wort _broche_ (Spindel oder Spieß) ab, das auf das lateinische _brochus_ für „hervorstehend“ zurückgeht. In der modernen Schmuckgestaltung bezeichnet die Brosche ein eigenständiges Schmuckobjekt, das auf der Rückseite mit einer Nadelkonstruktion – meist inklusive eines Sicherheitsverschlusses – ausgestattet ist.
+Historisch und linguistisch leitet sich der Begriff von dem französischen Wort _broche_ (Spindel oder Spieß) ab, das auf das lateinische _brochus_ für „hervorstehend“ zurückgeht. In der modernen Schmuckgestaltung bezeichnet die Brosche ein eigenständiges Schmuckobjekt, das auf der Rückseite mit einer Nadelkonstruktion, meist inklusive eines Sicherheitsverschlusses, ausgestattet ist.
 
 Die Materialvielfalt ist nahezu unbegrenzt: Broschen werden aus Edelmetallen wie Gold, Platin und Sterling-Silber gefertigt, oft veredelt mit Diamanten, Perlen, Edelsteinen oder kunstvoller Emaille. Im Modeschmuck-Bereich finden zudem Textilien, Holz, Kunststoffe, Glas oder organische Werkstoffe Verwendung. Neben ihrer Funktion als reines Zierelement dient die Brosche historisch wie praktisch dem Zusammenhalten von Stoffbahnen, dem Drapieren von Ausschnitten oder dem Fixieren von Schals und Tüchern. Entscheidend für das Tragen ist stets das harmonische Zusammenspiel aus dem Eigengewicht des Schmuckstücks und der Struktur des Trägerstoffs.
 

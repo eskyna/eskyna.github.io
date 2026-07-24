@@ -42,7 +42,7 @@ Aus ergonomischer Sicht ist eine exakt sitzende Manschette das A und O. Ist sie 
 ## So nutzt du den Begriff praktisch
 
 - **Fokus richtig setzen:** Da der Ärmel ein starkes visuelles Statement setzt, solltest du das restliche Outfit eher clean und figurbetont halten (z. B. eine schmale High-Waist-Hose oder ein gerader Bleistiftrock).
-- **Die Schmalstelle betonen:** Schiebe die Manschetten leicht den Unterarm hinauf. Das fixiert den Stoff und betont das Handgelenk – ein bewährter Styling-Trick, um der Silhouette optisch Leichtigkeit zu verleihen.
+- **Die Schmalstelle betonen:** Schiebe die Manschetten leicht den Unterarm hinauf. Das fixiert den Stoff und betont das Handgelenk, ein bewährter Styling-Trick, um der Silhouette optisch Leichtigkeit zu verleihen.
 - **Stilbrüche wagen:** Kombiniere eine romantische Bluse mit Bischofsärmeln mit einer derben Lederhose oder coolen Denim-Pieces, um dem Look die Strenge zu nehmen.
 - **Mantel-Kompatibilität prüfen:** Achte beim Kauf darauf, dass deine Übergangs- und Wintermäntel über eine ausreichend weite Armkugel oder Raglanärmel verfügen, damit das Volumen des Bischofsärmels darunter nicht unschön zusammengepresst wird.
 
@@ -54,13 +54,13 @@ Eine monochrome Seidenbluse mit Bischofsärmeln hebt ein schlichtes Business-Out
 
 > „Jeder weite Ärmel mit Bündchen ist ein Bischofsärmel.“
 
-Das ist fachlich nicht korrekt. Die genaue Verteilung des Volumens ist entscheidend. Beginnt die Weite bereits an der Schulter durch starke Raffungen, spricht man von einem Ballonärmel. Ein echter Bischofsärmel verhält sich an der Schulter flach und unauffällig – sein Volumen entfaltet sich erst im unteren Drittel des Arms.
+Das ist fachlich nicht korrekt. Die genaue Verteilung des Volumens ist entscheidend. Beginnt die Weite bereits an der Schulter durch starke Raffungen, spricht man von einem Ballonärmel. Ein echter Bischofsärmel verhält sich an der Schulter flach und unauffällig, sein Volumen entfaltet sich erst im unteren Drittel des Arms.
 
 ## Abgrenzung zu ähnlichen Begriffen
 
 - **Ballonärmel:** Besitzt oft über die gesamte Armlänge hinweg ein rundes, ballonartiges Volumen und ist häufig auch an der Schulternaht stark gekräuselt.
 - **Puffärmel:** Konzentriert sein Volumen extrem auf den Bereich der Schulterkugel und ist in den meisten Fällen eine kurze Ärmelvariante.
-- **Keulenärmel (auch Gigot-Ärmel):** Zeigt eine extreme historische Silhouette – am Oberarm extrem bauschig und weit, verjüngt er sich ab dem Ellenbogen bis zum Handgelenk absolut hauteng.
+- **Keulenärmel (auch Gigot-Ärmel):** Zeigt eine extreme historische Silhouette, am Oberarm extrem bauschig und weit, verjüngt er sich ab dem Ellenbogen bis zum Handgelenk absolut hauteng.
 - **Trompetenärmel:** Wird zum Saum hin immer weiter, bleibt dort jedoch im Gegensatz zum Bischofsärmel komplett offen und fällt glockig ab.
 
 ## ESKYNA-Merksatz

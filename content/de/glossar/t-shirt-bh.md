@@ -2,7 +2,7 @@
 title: "Was ist ein T-Shirt-BH?"
 term: "T-Shirt-BH"
 description: "T-Shirt-BH erklärt: glatte Cups, geringe Sichtbarkeit unter dünnen Stoffen und worauf du bei Passform und Kanten achten solltest."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "t-shirt-bh"
 seoTitle: "T-Shirt-BH: Glatte Cups und ruhiger Sitz | ESKYNA"
 image: "images/glossar/t-shirt-bh.png"

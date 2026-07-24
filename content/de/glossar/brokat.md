@@ -29,14 +29,14 @@ Der Begriff **Brokat** (abgeleitet vom italienischen _broccato_, was „durchwir
 
 Um zu verstehen, **was ist Brokat** und was macht ihn so besonders, hilft ein Blick auf die Herstellung: Anders als bei bedruckten Textilien entsteht das opulente Muster bei Brokat direkt beim Webprozess auf speziellen Jacquard-Webstühlen. Durch zusätzliche, meist glänzende Schussfäden (Broschierschüsse) wird ein erhabenes, reliefartiges Muster erzeugt. Dies verleiht dem Stoff eine fühlbare [Struktur](/glossar/struktur/), eine luxuriöse Haptik und seinen unverkennbaren, festlichen [Glanz](/glossar/glanzgrad/).
 
-Je nach Materialmischung und Webdichte variiert das Gewicht des Stoffes erheblich: Er kann steif und skulptural fallen – ideal für dramatische Silhouetten – oder überraschend fließend und leicht sein. Historisch war der kostbare Stoff Königen, dem Klerus und dem Adel für Prunkgewänder vorbehalten. Heute ist Brokat ein Highlight in der High Fashion und wird bevorzugt für elegante [Abendkleider](/glossar/abendkleid/), strukturierte Jacken, Röcke sowie für exklusive Schuhe und Taschen verwendet.
+Je nach Materialmischung und Webdichte variiert das Gewicht des Stoffes erheblich: Er kann steif und skulptural fallen, ideal für dramatische Silhouetten, oder überraschend fließend und leicht sein. Historisch war der kostbare Stoff Königen, dem Klerus und dem Adel für Prunkgewänder vorbehalten. Heute ist Brokat ein Highlight in der High Fashion und wird bevorzugt für elegante [Abendkleider](/glossar/abendkleid/), strukturierte Jacken, Röcke sowie für exklusive Schuhe und Taschen verwendet.
 
 ## Worauf du achten solltest
 
 - **Statement-Charakter nutzen:** Setze Brokat gezielt ein. Durch die opulente Oberfläche und die markanten Muster zieht der Stoff alle Blicke auf sich und wird schnell zum optischen Schwerpunkt deines Outfits.
 - **Verarbeitung und Musterverlauf:** Achte beim Kauf oder der Verarbeitung darauf, dass die Muster an den Nähten sauber aufeinandertreffen (Musterrapport). Da Brokat durch die lose aufliegenden Fäden an den Schnittkanten leicht ausfranst, müssen die Nähte professionell versäubert und oft mit Einlagen verstärkt werden.
 - **Styling-Balance:** Um einen modernen Look zu kreieren und nicht „kostümiert“ zu wirken, solltest du Brokat mit ruhigen, matten Materialien wie feiner Wolle, Leder oder cleanem Denim kombinieren.
-- **Pflege:** Echter Brokat – insbesondere mit Seiden- oder Metallfäden – ist äußerst empfindlich. Er verträgt keine Maschinenwäsche und sollte ausschließlich chemisch gereinigt sowie vorsichtig von der Rückseite gebügelt werden.
+- **Pflege:** Echter Brokat, insbesondere mit Seiden- oder Metallfäden, ist äußerst empfindlich. Er verträgt keine Maschinenwäsche und sollte ausschließlich chemisch gereinigt sowie vorsichtig von der Rückseite gebügelt werden.
 
 ## Typisches Missverständnis
 

@@ -75,7 +75,7 @@ Wenn du den Styling-Trend **Brooched** anwenden möchtest, solltest du nicht nur
 
 ## Beratungsblick
 
-In der professionellen Stilberatung ist **Brooched** weit mehr als ein kurzfristiger Trend – es ist ein Werkzeug zur visuellen Proportionsgestaltung. Eine geschickt platzierte Brosche am Blazer kann die Vertikale betonen, den Blick gezielt nach oben zum Gesicht lenken oder einem strengen Business-Outfit eine feminine, nahbare Nuance verleihen. Das Motiv der Brosche verrät zudem viel über die Persönlichkeit der Trägerin oder des Trägers – von geometrischer Strenge bis hin zu verspielter Vintage-Romantik.
+In der professionellen Stilberatung ist **Brooched** weit mehr als ein kurzfristiger Trend, es ist ein Werkzeug zur visuellen Proportionsgestaltung. Eine geschickt platzierte Brosche am Blazer kann die Vertikale betonen, den Blick gezielt nach oben zum Gesicht lenken oder einem strengen Business-Outfit eine feminine, nahbare Nuance verleihen. Das Motiv der Brosche verrät zudem viel über die Persönlichkeit der Trägerin oder des Trägers, von geometrischer Strenge bis hin zu verspielter Vintage-Romantik.
 
 Mehr Orientierung zu stilvollen Kombinationen findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Wirkung oder der perfekten Platzierung an deiner Kleidung prüfen möchtest, hilft dir eine maßgeschneiderte [Stilfrage an Natalia](/stilfrage/).
 

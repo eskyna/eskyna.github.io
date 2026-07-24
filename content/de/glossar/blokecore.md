@@ -28,7 +28,7 @@ Einfach ausgedrückt: Blokecore ist die Kunst, ein klassisches Fußballtrikot so
 
 Viele Fehlkäufe passieren nicht wegen fehlendem Stilgefühl, sondern wegen unklarer Begriffe. Wenn die Bedeutung klar ist, wählst du Material, Form und Intensität viel treffsicherer.
 
-In der Modewelt markiert der Begriff den endgültigen Einzug der Sport-Subkulturen in das High-Fashion-Segment. Was in den 1980er Jahren als Uniform der britischen Arbeiterklasse auf den Stehplätzen („Terraces“) begann, ist heute ein globaler Streetstyle-Code. Luxushäuser kooperieren mit Sportartikelherstellern, um Trikots im High-End-Bereich zu etablieren. Wer das Prinzip hinter Blokecore versteht, kann gezielt mit Kontrasten spielen – etwa dem Bruch zwischen glänzendem Polyester-Trikotstoff und matter, schwerer Baumwolle.
+In der Modewelt markiert der Begriff den endgültigen Einzug der Sport-Subkulturen in das High-Fashion-Segment. Was in den 1980er Jahren als Uniform der britischen Arbeiterklasse auf den Stehplätzen („Terraces“) begann, ist heute ein globaler Streetstyle-Code. Luxushäuser kooperieren mit Sportartikelherstellern, um Trikots im High-End-Bereich zu etablieren. Wer das Prinzip hinter Blokecore versteht, kann gezielt mit Kontrasten spielen, etwa dem Bruch zwischen glänzendem Polyester-Trikotstoff und matter, schwerer Baumwolle.
 
 ## Blick aus der Beratung
 
@@ -83,7 +83,7 @@ Blokecore wirkt dann stark, wenn Funktion, Passform und Stilbotschaft zusammenpa
 
 Beratung lohnt sich, wenn Theorie und Alltag nicht zusammenpassen. Gemeinsam lassen sich Schnitt, Material und Stilrichtung präzise justieren.
 
-Wenn du unsicher bist, wie du sportliche Keypieces in deine bestehende Garderobe integrierst, ohne deplatziert zu wirken, hilft eine professionelle Stilberatung. Wir erarbeiten harmonische Farbkonzepte und zeigen dir, wie du mit gezielten Brüchen – zum Beispiel durch die Kombination mit klassischer Schneiderei (Tailoring) – einen absolut stilsicheren und erwachsenen Look kreierst.
+Wenn du unsicher bist, wie du sportliche Keypieces in deine bestehende Garderobe integrierst, ohne deplatziert zu wirken, hilft eine professionelle Stilberatung. Wir erarbeiten harmonische Farbkonzepte und zeigen dir, wie du mit gezielten Brüchen, zum Beispiel durch die Kombination mit klassischer Schneiderei (Tailoring), einen absolut stilsicheren und erwachsenen Look kreierst.
 
 ## Verwandte Glossarbegriffe
 

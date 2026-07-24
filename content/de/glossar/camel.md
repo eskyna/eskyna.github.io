@@ -44,7 +44,7 @@ lastmod: "2026-07-09"
 
 Der Farbton Camel (englisch für Kamel) verdankt seinen Namen dem feinen Unterhaar des zweihöckrigen Trampeltiers. Modegeschichtlich erlebte die Nuance ihren Durchbruch im späten 19. und frühen 20. Jahrhundert: Zunächst wärmten sich Polospieler in sportlichen Mänteln aus echtem Kamelhaar, bevor die britische Traditionsmarke Jaeger den edlen Naturton für die urbane Garderobe adaptierte. Spätestens seit dem Entwurf des ikonischen Mantels „101801“ durch das Modehaus Max Mara im Jahr 1981 gilt ein hochwertiger **Camel Mantel** als zeitloses Investmentpiece und weltweites Symbol für den sogenannten „Quiet Luxury“.
 
-Farblich changiert Camel elegant zwischen hellem Beige und sattem [Braun](/glossar/braun/). Die Nuance besitzt eine natürliche Wärme und Tiefe, die besonders auf erlesenen Naturfasern wie Schurwolle, Kaschmir, Seide und Leder eine unvergleichlich luxuriöse Wertigkeit entfaltet. Camel ist kein reiner neutraler Ton, der im Hintergrund verschwindet – die Farbe bringt eine subtile Wärme in jeden Look und zieht die Aufmerksamkeit auf eine leise, aber höchst stilvolle Weise an.
+Farblich changiert Camel elegant zwischen hellem Beige und sattem [Braun](/glossar/braun/). Die Nuance besitzt eine natürliche Wärme und Tiefe, die besonders auf erlesenen Naturfasern wie Schurwolle, Kaschmir, Seide und Leder eine unvergleichlich luxuriöse Wertigkeit entfaltet. Camel ist kein reiner neutraler Ton, der im Hintergrund verschwindet, die Farbe bringt eine subtile Wärme in jeden Look und zieht die Aufmerksamkeit auf eine leise, aber höchst stilvolle Weise an.
 
 ## Wie Camel wirkt
 
@@ -93,6 +93,6 @@ Wenn du den Begriff **Camel** für deine persönliche Garderobe übersetzt, betr
 
 ## Beratungsblick
 
-In einer professionellen Stilberatung ist **Camel** weit mehr als ein einfacher Trendton – es ist ein Werkzeug für zeitlose Eleganz. Der Begriff entfaltet seine Kraft erst, wenn er auf deine individuelle Persönlichkeit, deinen Alltag und deine Silhouette abgestimmt wird. So vermeidest du Fehlkäufe und erkennst sofort, ob ein Kleidungsstück deine natürliche Ausstrahlung unterstreicht oder dich blass wirken lässt.
+In einer professionellen Stilberatung ist **Camel** weit mehr als ein einfacher Trendton, es ist ein Werkzeug für zeitlose Eleganz. Der Begriff entfaltet seine Kraft erst, wenn er auf deine individuelle Persönlichkeit, deinen Alltag und deine Silhouette abgestimmt wird. So vermeidest du Fehlkäufe und erkennst sofort, ob ein Kleidungsstück deine natürliche Ausstrahlung unterstreicht oder dich blass wirken lässt.
 
 Mehr Orientierung und stilistische Inspirationen findest du in der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/). Wenn du eine maßgeschneiderte Entscheidung zu Kauf, Kombination oder deiner persönlichen Farbwirkung treffen möchtest, unterstützt dich das [ESKYNA Stilgefühl](/stilgefuehl/).

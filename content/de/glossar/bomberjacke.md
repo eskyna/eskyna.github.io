@@ -45,7 +45,7 @@ Die **Bomberjacke** ist ein zeitloser Klassiker der Modegeschichte. Ursprünglic
 
 ## Einfach erklärt
 
-Wer sich fragt: _Was ist eine Bomberjacke und wie wird sie getragen?_, findet die Antwort in ihrer enormen Vielseitigkeit. Die klassische Variante besteht aus strapazierfähigem, wind- und wasserabweisendem Nylon – oft in Olivgrün, Dunkelblau oder Schwarz und mit dem typischen, kontrastierenden Innenfutter in Signalorange.
+Wer sich fragt: _Was ist eine Bomberjacke und wie wird sie getragen?_, findet die Antwort in ihrer enormen Vielseitigkeit. Die klassische Variante besteht aus strapazierfähigem, wind- und wasserabweisendem Nylon, oft in Olivgrün, Dunkelblau oder Schwarz und mit dem typischen, kontrastierenden Innenfutter in Signalorange.
 
 Im Laufe der Jahrzehnte hat sich das Spektrum der Materialien und Designs jedoch stark erweitert:
 
@@ -54,7 +54,7 @@ Im Laufe der Jahrzehnte hat sich das Spektrum der Materialien und Designs jedoch
 - **Wolle, Kaschmir & Flanell:** Sorgen für eine reduzierte, cleane und erwachsene Ästhetik.
 - **Leder & Wildleder:** Verleihen der robusten Silhouette einen luxuriösen Heritage-Charakter.
 
-Durch ihren markanten Schnitt – kompakt, rund und an der Hüfte abschließend – verändert die Bomberjacke die optische Proportion des Körpers. Da sie die Hüfte betont und im Oberkörper Volumen erzeugt, lässt sie sich besonders harmonisch mit schmalen, geraden oder weit geschnittenen High-Waist-Hosen kombinieren, um die Silhouette perfekt auszubalancieren.
+Durch ihren markanten Schnitt, kompakt, rund und an der Hüfte abschließend, verändert die Bomberjacke die optische Proportion des Körpers. Da sie die Hüfte betont und im Oberkörper Volumen erzeugt, lässt sie sich besonders harmonisch mit schmalen, geraden oder weit geschnittenen High-Waist-Hosen kombinieren, um die Silhouette perfekt auszubalancieren.
 
 ## Warum dieser Begriff wichtig ist
 
@@ -75,11 +75,11 @@ Wenn du eine Bomberjacke kombinieren oder kaufen möchtest, solltest du auf folg
 **Besser:** Gefertigt aus edlen Materialien wie Schurwolle, mattem Leder oder schwerer Seide fügt sich die Jacke nahtlos in monochrome, erwachsene Minimalismus-Looks ein.
 
 **Missverständnis:** Der voluminöse, kurze Schnitt verkürzt die Statur und trägt auf.  
-**Besser:** Durch ein geschicktes Spiel mit Proportionen – beispielsweise in Kombination mit einer hoch geschnittenen Hose (High-Waist) oder in einem tonalen Farbkonzept – streckt die Bomberjacke die Silhouette optisch und betont die Beinlänge.
+**Besser:** Durch ein geschicktes Spiel mit Proportionen, beispielsweise in Kombination mit einer hoch geschnittenen Hose (High-Waist) oder in einem tonalen Farbkonzept, streckt die Bomberjacke die Silhouette optisch und betont die Beinlänge.
 
 ## Mini-Test vor dem Spiegel
 
-Trage deine Bomberjacke und betrachte dich im Spiegel – einmal aus nächster Nähe und einmal mit etwas Abstand:
+Trage deine Bomberjacke und betrachte dich im Spiegel, einmal aus nächster Nähe und einmal mit etwas Abstand:
 
 - **Aus der Nähe:** Achte auf die Details, Reißverschlüsse, die Haptik des Materials und die Qualität der Rippbündchen. Wirkt der Stoff hochwertig und harmoniert er farblich mit deiner Garderobe?
 - **Aus der Ferne:** Achte auf die Gesamtsilhouette. Wirkt der Übergang von der Jacke zur Hose harmonisch? Entsteht durch das Volumen der Jacke ein spannender Kontrast, oder wirkt das Outfit überladen? Wenn das Gesamtbild aus beiden Perspektiven stimmig bleibt, hast du deinen optimalen Fit gefunden.

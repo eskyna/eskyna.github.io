@@ -45,7 +45,7 @@ In der Modehistorie erlebten Beerentöne insbesondere im späten 19. Jahrhundert
 
 ## Beratungsblick
 
-Für eine professionelle Farbberatung ist die genaue **Beerentöne Bedeutung** im Zusammenspiel mit dem individuellen Teint entscheidend. Da die Farbfamilie sowohl warme (rotstichige) als auch kühle (blaustichige) Nuancen bereithält, profitiert nahezu jeder Farbtyp von dieser Palette – sofern die richtige Nuance gewählt wird:
+Für eine professionelle Farbberatung ist die genaue **Beerentöne Bedeutung** im Zusammenspiel mit dem individuellen Teint entscheidend. Da die Farbfamilie sowohl warme (rotstichige) als auch kühle (blaustichige) Nuancen bereithält, profitiert nahezu jeder Farbtyp von dieser Palette, sofern die richtige Nuance gewählt wird:
 
 - **Kühle Farbtypen (Sommer- und Wintertyp):** Sie bringen ihren Teint mit blaustichigen, kühlen Beerenfarben wie Brombeere, Himbeere, Heidelbeere oder Cassis wunderbar zum Strahlen.
 - **Warme Farbtypen (Frühling- und Herbsttyp):** Sie sollten zu erdigeren, rot- oder gelbstichigen Varianten greifen, wie beispielsweise einer warmen Erdbeere, Preiselbeere oder Hagebutte.

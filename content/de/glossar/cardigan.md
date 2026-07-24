@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Ein **Cardigan** ist eine funktionale, vorn offene [Strickjacke](/glossar/pullover/), die klassisch mit Knöpfen, einem Reißverschluss oder als kragenlose, fließende Variante getragen wird. Modehistorisch geht die Bezeichnung auf _James Brudenell, den 7. Earl of Cardigan_ (1797–1868) zurück, einen britischen General, der seine Truppen im Krimkrieg mit gestrickten Wollwesten ausstatten ließ. Heute gilt das Kleidungsstück als zeitloser Klassiker der Modewelt. Je nach Materialstärke, Schnittführung, Knopfleiste und Volumen variiert die Ästhetik eines Cardigans von betont elegant über sportlich-lässig bis hin zu gemütlichem Grobstrick.
+Ein **Cardigan** ist eine funktionale, vorn offene [Strickjacke](/glossar/pullover/), die klassisch mit Knöpfen, einem Reißverschluss oder als kragenlose, fließende Variante getragen wird. Modehistorisch geht die Bezeichnung auf _James Brudenell, den 7. Earl of Cardigan_ (1797-1868) zurück, einen britischen General, der seine Truppen im Krimkrieg mit gestrickten Wollwesten ausstatten ließ. Heute gilt das Kleidungsstück als zeitloser Klassiker der Modewelt. Je nach Materialstärke, Schnittführung, Knopfleiste und Volumen variiert die Ästhetik eines Cardigans von betont elegant über sportlich-lässig bis hin zu gemütlichem Grobstrick.
 
 ## Einfach erklärt
 

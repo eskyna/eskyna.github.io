@@ -43,7 +43,7 @@ Diese traditionsreiche Verarbeitungstechnik ist der Standard in der Haute Coutur
 
 Ein häufiges Missverständnis ist, dass ein Blindsaum unter absolut allen Bedingungen gänzlich unsichtbar sein muss. Tatsächlich ist die Sichtbarkeit auch physikalisch bedingt: Da die Nadel die Fasern des Oberstoffs greifen muss, kann bei extremem Gegenlicht oder sehr flachem Betrachtungswinkel ein minimaler Punkt zu erahnen sein. Eine meisterhafte Verarbeitung reduziert diese Sichtbarkeit jedoch auf ein absolutes Minimum.
 
-Zudem ist der echte Blindsaum nicht mit dem einfachen Bügel- oder Klebesaum (Saumvlies) zu verwechseln – während Klebstoffe den Stoff oft versteifen, bewahrt der genähte Blindsaum die natürliche Elastizität und den weichen Fall des Textils.
+Zudem ist der echte Blindsaum nicht mit dem einfachen Bügel- oder Klebesaum (Saumvlies) zu verwechseln, während Klebstoffe den Stoff oft versteifen, bewahrt der genähte Blindsaum die natürliche Elastizität und den weichen Fall des Textils.
 
 ## ESKYNA-Merksatz
 

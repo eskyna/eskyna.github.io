@@ -49,4 +49,4 @@ Ein häufiger Fehler ist es, jedes beliebige Rautenmuster oder das klassische Ha
 
 ## ESKYNA-Merksatz
 
-> Argyle verbindet geometrische Ordnung mit nostalgischer Leichtigkeit – die Kontraststärke bestimmt, wie laut es wird.
+> Argyle verbindet geometrische Ordnung mit nostalgischer Leichtigkeit, die Kontraststärke bestimmt, wie laut es wird.

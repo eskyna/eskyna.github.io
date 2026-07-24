@@ -47,7 +47,7 @@ Das Geheimnis dieser voluminösen Silhouette liegt in der Schnitttechnik: Der ä
 
 Die Geburtsstunde des Ballonsaums liegt in der goldenen Ära der Haute Couture der 1950er-Jahre. Der legendäre Modeschöpfer Cristóbal Balenciaga, berühmt für seine architektonischen Entwürfe, experimentierte intensiv mit neuen Formen und stellte 1953 das erste Ballonkleid vor. Auch Christian Dior griff dieses Prinzip in seinen Kollektionen auf, um die feminine Sanduhr-Silhouette des _New Look_ weiter zu betonen.
 
-In den unbeschwerten 1980er-Jahren feierte das Design als „Bubble Skirt“ (Ballonrock) ein fulminantes, popkulturelles Comeback – damals oft aus knisterndem Taft gefertigt. Heute ist der Ballonsaum ein fester Bestandteil moderner Avantgarde-Kollektionen und verbindet Retro-Charme mit skulpturaler Modernität.
+In den unbeschwerten 1980er-Jahren feierte das Design als „Bubble Skirt“ (Ballonrock) ein fulminantes, popkulturelles Comeback, damals oft aus knisterndem Taft gefertigt. Heute ist der Ballonsaum ein fester Bestandteil moderner Avantgarde-Kollektionen und verbindet Retro-Charme mit skulpturaler Modernität.
 
 ### Typische Materialien
 

@@ -47,7 +47,7 @@ lastmod: "2026-07-09"
 
 ## Das Besondere an Beige
 
-Beige ist weit mehr als eine bloße Grundfarbe – es ist das Fundament zeitloser Eleganz und moderner Minimalismus-Strömungen wie dem „Quiet Luxury“. Der Begriff stammt historisch aus dem Französischen und bezeichnete ursprünglich die natürliche, ungefärbte Wolle (_laine beige_). Diese Herkunft spiegelt sich bis heute in seiner Ästhetik wider: Beige wirkt naturverbunden, unaufgeregt und extrem hochwertig.
+Beige ist weit mehr als eine bloße Grundfarbe, es ist das Fundament zeitloser Eleganz und moderner Minimalismus-Strömungen wie dem „Quiet Luxury“. Der Begriff stammt historisch aus dem Französischen und bezeichnete ursprünglich die natürliche, ungefärbte Wolle (_laine beige_). Diese Herkunft spiegelt sich bis heute in seiner Ästhetik wider: Beige wirkt naturverbunden, unaufgeregt und extrem hochwertig.
 
 Als einer der wandelbarsten Vertreter innerhalb [neutraler Farben](/glossar/neutrale-farben/) bietet Beige eine subtile Tiefe, die Outfits sofort edel wirken lässt. Doch die scheinbare Schlichtheit täuscht. Die Wahl der richtigen Nuance entscheidet in der professionellen Stilberatung darüber, ob ein Look frisch und harmonisch strahlt oder das Gegenüber blass und müde wirken lässt.
 
@@ -72,7 +72,7 @@ Beige ist ein chamäleonartiger Ton, der sich durch verschiedene Beimischungen v
 - **Greige:** Die legendäre, von Modeschöpfer Giorgio Armani perfektionierte Mischung aus Beige und Grau. Extrem modern, kühl und elegant.
 - **Taupe:** Ein dunkleres, elegantes Graubeige mit erdigen Anteilen. Wirkt erwachsen und lässt sich hervorragend mit Schwarz und Navy kombinieren.
 - **Karamellbeige:** Eine warme, goldene Nuance, die besonders gut zu satten Brauntönen, [Camel](/glossar/camel/) und [Creme](/glossar/creme/) passt.
-- **Leinenbeige:** Roh, strukturiert und naturbelassen – die perfekte Nuance für entspannte Casual-Looks und leichte Sommeranzüge.
+- **Leinenbeige:** Roh, strukturiert und naturbelassen, die perfekte Nuance für entspannte Casual-Looks und leichte Sommeranzüge.
 
 ## Beige kombinieren
 
@@ -97,7 +97,7 @@ Der Schlüssel zu einem gelungenen Look liegt im individuellen [Unterton](/gloss
 - **Kühle Farbtypen** greifen am besten zu aschigen Varianten wie Greige oder sandigen Nuancen mit leicht rosafarbenem Unterton.
 - **Warme Farbtypen** bringen ihre Haut mit goldgelben Nuancen wie Honig- oder Karamellbeige zum Leuchten.
 
-Sollte eine Nuance im Gesichtsbereich einmal zu wenig Kontrast bieten, lässt sich Beige hervorragend in die untere Körperhälfte verlagern – als perfekt sitzende Chino, fließender Rock oder in Form von hochwertigen Accessoires wie Ledertaschen und Schuhen.
+Sollte eine Nuance im Gesichtsbereich einmal zu wenig Kontrast bieten, lässt sich Beige hervorragend in die untere Körperhälfte verlagern, als perfekt sitzende Chino, fließender Rock oder in Form von hochwertigen Accessoires wie Ledertaschen und Schuhen.
 
 ## Mini-Test vor dem Spiegel
 

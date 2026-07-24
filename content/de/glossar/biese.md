@@ -10,18 +10,18 @@ image_alt: "Mehrere schmale parallel abgesteppte Biesen auf einer feinen weißen
 lastmod: "2026-07-22"
 ---
 
-Die **Biese** (engl. _pintuck_) ist eines der elegantesten und präzisesten Details der klassischen Schneiderkunst. Als schmale, flach aufgesteppte Falte verleiht sie Kleidungsstücken Struktur, Plastizität und eine zeitlose textile Textur. Ob auf feinen Herrenhemden, romantischen Blusen oder historischen Trachten – dieses traditionelle Stilelement verbindet meisterhaftes Handwerk mit anspruchsvollem Design und hilft dir, die Wertigkeit und Wirkung von Kleidung noch besser zu beurteilen.
+Die **Biese** (engl. _pintuck_) ist eines der elegantesten und präzisesten Details der klassischen Schneiderkunst. Als schmale, flach aufgesteppte Falte verleiht sie Kleidungsstücken Struktur, Plastizität und eine zeitlose textile Textur. Ob auf feinen Herrenhemden, romantischen Blusen oder historischen Trachten, dieses traditionelle Stilelement verbindet meisterhaftes Handwerk mit anspruchsvollem Design und hilft dir, die Wertigkeit und Wirkung von Kleidung noch besser zu beurteilen.
 
 ## Definition
 
 Eine Biese ist eine sehr schmale, parallel zum Fadenlauf umgebrochene und knappkantig abgesteppte Stofffalte. Im Gegensatz zu klassischen Falten wird sie flach auf das Gewebe genäht und dient primär als dekoratives und strukturierendes Designelement. Die Breite einer typischen Biese liegt meist zwischen einem und fünf Millimetern.
 
 **Modehistorischer Kontext und Herkunft:**
-Der Begriff leitet sich historisch vom mittelhochdeutschen Wort „biese“ ab, was so viel wie „Binse“ bedeutet – eine treffende Anspielung auf die feine, röhrenartige Form der Falte. In der Kostümgeschichte spielten Biesen eine zentrale Rolle: Im 19. und frühen 20. Jahrhundert (insbesondere in der viktorianischen und edwardianischen Mode) verzierten sie feine weiße Baumwoll- und Batistblusen, um Luxus und aufwendige Handarbeit zu demonstrieren. Auch in der Militär- und Dienstkleidung fand die Biese (oft als farbig abgehobene Nahtkante) Verwendung, um Hosenbeine optisch zu strecken und Uniformen eine strenge, repräsentative Linie zu verleihen.
+Der Begriff leitet sich historisch vom mittelhochdeutschen Wort „biese“ ab, was so viel wie „Binse“ bedeutet, eine treffende Anspielung auf die feine, röhrenartige Form der Falte. In der Kostümgeschichte spielten Biesen eine zentrale Rolle: Im 19. und frühen 20. Jahrhundert (insbesondere in der viktorianischen und edwardianischen Mode) verzierten sie feine weiße Baumwoll- und Batistblusen, um Luxus und aufwendige Handarbeit zu demonstrieren. Auch in der Militär- und Dienstkleidung fand die Biese (oft als farbig abgehobene Nahtkante) Verwendung, um Hosenbeine optisch zu strecken und Uniformen eine strenge, repräsentative Linie zu verleihen.
 
 ## Einfach erklärt
 
-Vereinfacht gesagt: Eine Biese ist eine winzige Falte im Stoff, die flachgebügelt und dann ganz dicht an der Bruchkante festgenäht wird. Stell dir vor, du knickst ein Blatt Papier ganz schmal um und klebst die Kante fest – genau das passiert beim Nähen einer Biese auf Textilien.
+Vereinfacht gesagt: Eine Biese ist eine winzige Falte im Stoff, die flachgebügelt und dann ganz dicht an der Bruchkante festgenäht wird. Stell dir vor, du knickst ein Blatt Papier ganz schmal um und klebst die Kante fest, genau das passiert beim Nähen einer Biese auf Textilien.
 
 Häufig sieht man mehrere dieser feinen Falten direkt nebeneinander, beispielsweise auf der Brust eines eleganten Smokinghemdes oder einer verspielten Sommerbluse. Sie sorgen dafür, dass ein ansonsten schlichter, einfarbiger Stoff dreidimensional, hochwertig und lebendig wirkt, ohne dass unruhige Muster oder laute Farben benötigt werden.
 

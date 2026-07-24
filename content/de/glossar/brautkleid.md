@@ -16,7 +16,7 @@ Ein Brautkleid ist ein Kleid, das für die eigene Hochzeit gewählt wird und des
 
 Der Begriff **Brautkleid** (auch _Hochzeitskleid_) beschreibt in erster Linie die funktionale und zeremonielle Bestimmung des Kleidungsstücks: Es ist das zentrale Gewand, das von der Braut im Rahmen der Eheschließung getragen wird. Modehistorisch und stilistisch sind Farbe, Länge, Material und Silhouette keineswegs starr festgelegt. Neben dem klassischen, bodenlangen Kleid in hellen Nuancen umfasst die moderne Brautmode ebenso farbige Entwürfe, kurze Modelle, minimalistische Standesamtkleider, Hosenanzüge oder wandelbare Braut-Zweiteiler (Mix-and-Match).
 
-Aus textilhistorischer Sicht hat das Brautkleid eine faszinierende Evolution durchlaufen. Während im bürgerlichen Milieu bis weit ins 19. Jahrhundert hinein oft das beste Sonntagskleid – häufig in praktischem Schwarz oder dunklen Farben – getragen wurde, um es auch danach im Alltag nutzen zu können, etablierte sich das weiße Brautkleid zunächst als Statussymbol des Adels. Wegweisend für diesen Trend war die Hochzeit der britischen Königin Victoria im Jahr 1840, die ein opulentes Kleid aus weißer Seidensatin und wertvoller Honiton-Spitze trug. Weiß symbolisierte fortan nicht nur Reinheit, sondern vor allem Wohlstand, da helle, empfindliche Stoffe schwer zu reinigen und somit ein Luxusgut waren.
+Aus textilhistorischer Sicht hat das Brautkleid eine faszinierende Evolution durchlaufen. Während im bürgerlichen Milieu bis weit ins 19. Jahrhundert hinein oft das beste Sonntagskleid, häufig in praktischem Schwarz oder dunklen Farben, getragen wurde, um es auch danach im Alltag nutzen zu können, etablierte sich das weiße Brautkleid zunächst als Statussymbol des Adels. Wegweisend für diesen Trend war die Hochzeit der britischen Königin Victoria im Jahr 1840, die ein opulentes Kleid aus weißer Seidensatin und wertvoller Honiton-Spitze trug. Weiß symbolisierte fortan nicht nur Reinheit, sondern vor allem Wohlstand, da helle, empfindliche Stoffe schwer zu reinigen und somit ein Luxusgut waren.
 
 Typische Gestaltungselemente moderner Brautkleider sind:
 
@@ -32,7 +32,7 @@ Ein Brautkleid ist das Kleid, in dem du heiratest. Seine wichtigste Aufgabe ist 
 
 Kaum ein Kleidungsstück ist emotional und kulturell so stark aufgeladen wie das Hochzeitskleid. Diese hohe Erwartungshaltung führt in der Praxis oft dazu, dass sich Bräute bei der Auswahl von Trends oder den Meinungen anderer verunsichern lassen. Ein stimmiges Brautkleid meistert das Zusammenspiel aus drei wesentlichen Dimensionen:
 
-1. **Persönliche Stilidentität:** Es spiegelt deine Persönlichkeit wider und wirkt wie eine edle, authentische Version deiner selbst – nicht wie eine Verkleidung.
+1. **Persönliche Stilidentität:** Es spiegelt deine Persönlichkeit wider und wirkt wie eine edle, authentische Version deiner selbst, nicht wie eine Verkleidung.
 2. **Kontextuelle Wirkung:** Es harmoniert mit dem Hochzeitsthema, der Location (z. B. Strandhochzeit vs. barocker Festsaal) und der Jahreszeit.
 3. **Physischer Komfort:** Ein gelungenes Design überzeugt nicht nur im Stehen vor dem Spiegel. Es schenkt dir die nötige Bewegungsfreiheit zum Gehen, Sitzen, Umarmen, Essen und Tanzen über viele Stunden hinweg.
 
@@ -73,7 +73,7 @@ Dieses durch Medien geprägte Bild erzeugt enormen Druck. In der Realität entsc
 
 ## ESKYNA-Merksatz
 
-> Das perfekte Brautkleid erfüllt keine fremden Erwartungen – es trägt dich mit Leichtigkeit, Komfort und unverwechselbarer Eleganz durch deinen ganz besonderen Tag.
+> Das perfekte Brautkleid erfüllt keine fremden Erwartungen, es trägt dich mit Leichtigkeit, Komfort und unverwechselbarer Eleganz durch deinen ganz besonderen Tag.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

@@ -57,7 +57,7 @@ Das gewählte **Blusen-Material** entscheidet maßgeblich über Wirkung, Haptik 
 - **Baumwolle & Popeline:** Wirken clean, frisch, strukturiert und sind besonders atmungsaktiv. Sie sind die Basis für den klassischen Business-Look.
 - **[Seide](/glossar/seide/):** Bringt einen luxuriösen, dezenten Glanz, reguliert die Temperatur hervorragend und fällt unvergleichlich edel.
 - **[Viskose](/glossar/viskose/):** Verbindet die Weichheit von Seide mit der unkomplizierten Pflege von Baumwolle. Sie fällt fließend und schmeichelt der Silhouette.
-- **Leinen:** Perfekt für den Sommer – kühlend, mit einer charakteristischen, lässig-strukturierten Optik.
+- **Leinen:** Perfekt für den Sommer, kühlend, mit einer charakteristischen, lässig-strukturierten Optik.
 - **Satin & Chiffon:** Verleihen festliche Eleganz, wobei Satin glänzt und Chiffon durch seine Transparenz zarte Akzente setzt.
 
 Zudem prägen funktionale und dekorative Details wie feine Knöpfe, Biesen oder präzise verarbeitete [Manschetten](/glossar/manschette/) die formelle oder entspannte Ausstrahlung des Kleidungsstücks.
@@ -106,6 +106,6 @@ Wenn du das Konzept der **Bluse** in deine tägliche Garderobe integrierst, betr
 
 ## Beratungsblick
 
-In unserer Stilberatung verstehen wir die **Bluse** nicht als starre Uniform, sondern als persönliches Ausdrucksmittel. Ein und dieselbe Bluse kann – je nachdem, wie sie gestylt, geknöpft oder kombiniert wird – völlig unterschiedliche Facetten deiner Persönlichkeit betonen. Sie wird erst dann zum echten Lieblingsstück, wenn Material, Passform und Farbe perfekt mit deiner Lebensrealität und deiner inneren Haltung harmonieren.
+In unserer Stilberatung verstehen wir die **Bluse** nicht als starre Uniform, sondern als persönliches Ausdrucksmittel. Ein und dieselbe Bluse kann, je nachdem, wie sie gestylt, geknöpft oder kombiniert wird, völlig unterschiedliche Facetten deiner Persönlichkeit betonen. Sie wird erst dann zum echten Lieblingsstück, wenn Material, Passform und Farbe perfekt mit deiner Lebensrealität und deiner inneren Haltung harmonieren.
 
 Mehr Orientierung und Inspiration findest du in unserer Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Möchtest du eine ganz konkrete Entscheidung bezüglich Passform, Farbwahl oder Kombination für deine Garderobe treffen? Unser Service [ESKYNA Stilgarderobe](/stilgarderobe/) unterstützt dich dabei auf deinem Weg zum perfekten Stil-System.

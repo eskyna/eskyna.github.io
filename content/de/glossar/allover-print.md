@@ -79,7 +79,7 @@ Für eine professionelle **Allover-Print Stilberatung** im Alltag solltest du da
 
 - **Haptik und Materialprüfung:** Streiche über das Muster. Bei minderwertigen Druckverfahren fühlt sich die bedruckte Oberfläche oft steif, gummiartig oder klebrig an. Bevorzuge durchgefärbte Fasern oder hochwertige Digitaldrucke, die den weichen Fluss und den natürlichen Griff des Stoffes nicht beeinträchtigen.
 - **Der Naht- und Symmetrie-Check:** Betrachte die Seitennähte, die Schultern und die Knopfleiste. Passt das Muster an den Nahtstellen harmonisch zusammen? Ein exakter Rapport an den Schließnähten ist das ultimative Zeichen meisterhafter Schneiderkunst.
-- **Knitter- und Pflegeverhalten:** Viele gemusterte Stoffe kaschieren kleine Falten hervorragend – das macht sie zu idealen Begleitern auf Reisen. Achte dennoch auf die Pflegehinweise, da manche Druckverfahren bei zu heißer Wäsche an Farbintensität verlieren können.
+- **Knitter- und Pflegeverhalten:** Viele gemusterte Stoffe kaschieren kleine Falten hervorragend, das macht sie zu idealen Begleitern auf Reisen. Achte dennoch auf die Pflegehinweise, da manche Druckverfahren bei zu heißer Wäsche an Farbintensität verlieren können.
 
 ## Beratungsblick
 

@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Beinlänge** beschreibt im Modedesign und in der Stilberatung die visuelle Proportion der Beine im Verhältnis zum Oberkörper (Torso). Im Gegensatz zur rein anatomischen Beinlänge – gemessen als Schrittlänge oder [Innenbeinlänge](/glossar/innenbeinlaenge/) – handelt es sich hierbei um eine wahrnehmungsbezogene Ästhetik. Diese optische Wirkung wird maßgeblich durch die Höhe des Hosenbundes, den Saumverlauf von Hosen und Röcken, farbliche Kontraste sowie die Form und Farbe der Schuhe beeinflusst. Die gezielte Gestaltung dieser Proportion ist ein zentrales Werkzeug der klassischen Silhouette-Modellierung.
+**Beinlänge** beschreibt im Modedesign und in der Stilberatung die visuelle Proportion der Beine im Verhältnis zum Oberkörper (Torso). Im Gegensatz zur rein anatomischen Beinlänge, gemessen als Schrittlänge oder [Innenbeinlänge](/glossar/innenbeinlaenge/), handelt es sich hierbei um eine wahrnehmungsbezogene Ästhetik. Diese optische Wirkung wird maßgeblich durch die Höhe des Hosenbundes, den Saumverlauf von Hosen und Röcken, farbliche Kontraste sowie die Form und Farbe der Schuhe beeinflusst. Die gezielte Gestaltung dieser Proportion ist ein zentrales Werkzeug der klassischen Silhouette-Modellierung.
 
 ## Einfach erklärt
 

@@ -27,7 +27,7 @@ Das **Blazerkleid** ist ein elegantes Hybrid-Modell der modernen Damenmode. Es �
 
 ## Einfach erklärt
 
-Ein Blazerkleid ist im Grunde ein edler Blazer, der so lang geschnitten ist, dass er als eigenständiges Kleid getragen werden kann. Modehistorisch knüpft das Design an das emanzipatorische „Power Dressing“ der 1980er-Jahre an und transportiert die Ästhetik des klassischen Herrenanzugs – stark geprägt durch Designer wie Yves Saint Laurent und dessen legendären Damen-Smokings – in die zeitgenössische Alltags- und Abendgarderobe.
+Ein Blazerkleid ist im Grunde ein edler Blazer, der so lang geschnitten ist, dass er als eigenständiges Kleid getragen werden kann. Modehistorisch knüpft das Design an das emanzipatorische „Power Dressing“ der 1980er-Jahre an und transportiert die Ästhetik des klassischen Herrenanzugs, stark geprägt durch Designer wie Yves Saint Laurent und dessen legendären Damen-Smokings, in die zeitgenössische Alltags- und Abendgarderobe.
 
 Weil das Kleid auf der Vorderseite geknöpft oder gewickelt wird, kommt der Schnittkonstruktion eine besondere Bedeutung zu. Details wie die Höhe des Schließpunkts, die Tiefe des V-Ausschnitts und der sogenannte Übertritt (die Überlappung der vorderen Stoffbahnen) entscheiden über den Tragekomfort. Ein fehlerhaft konstruiertes Modell, das im Stehen perfekt geschlossen bleibt, kann beim Sitzen oder Gehen unvorteilhaft aufspringen. Daher spielt die präzise [Passform](/glossar/passform/) bei diesem anspruchsvollen Kleidungsstück eine weitaus größere Rolle als bei elastischen oder locker fallenden Kleiderformen.
 
@@ -45,4 +45,4 @@ Ein häufiger Fehler ist die Annahme, man könne einen herkömmlichen Oversize-B
 
 ## ESKYNA-Merksatz
 
-> Das Blazerkleid fasziniert durch seine architektonische Linienführung und souveräne Eleganz – doch seine wahre Klasse beweist es erst, wenn Passform und Verschluss auch in der Bewegung absolute Souveränität garantieren.
+> Das Blazerkleid fasziniert durch seine architektonische Linienführung und souveräne Eleganz, doch seine wahre Klasse beweist es erst, wenn Passform und Verschluss auch in der Bewegung absolute Souveränität garantieren.

@@ -33,7 +33,7 @@ Wer sich fragt _„Was ist Avantgarde im Alltag?“_, stellt schnell fest: Ein a
 
 Schon ein einzelnes, unkonventionelles Element genügt, um ein modisches Statement zu setzen. Das kann eine asymmetrisch geschnittene Jacke, ein Oberteil mit ungewohntem [Volumen](/glossar/volumen/), ein skulptural geformter Schuh oder ein unerwarteter Materialmix (wie die Kombination von derbem Leder mit hauchzartem Organza) sein.
 
-Wegweisend für diesen Stil waren historisch vor allem die japanischen Modeschöpfer der 1980er-Jahre (wie Rei Kawakubo und Yohji Yamamoto) sowie das belgische Designer-Kollektiv der „Antwerp Six“. Sie etablierten die Ästhetik der Dekonstruktion – also das bewusste Sichtbarmachen von Nähten, asymmetrische Säume und scheinbar unfertige Details.
+Wegweisend für diesen Stil waren historisch vor allem die japanischen Modeschöpfer der 1980er-Jahre (wie Rei Kawakubo und Yohji Yamamoto) sowie das belgische Designer-Kollektiv der „Antwerp Six“. Sie etablierten die Ästhetik der Dekonstruktion, also das bewusste Sichtbarmachen von Nähten, asymmetrische Säume und scheinbar unfertige Details.
 
 Damit der Look im Alltag stilsicher wirkt, sollte das avantgardistische Kleidungsstück wie eine bewusste gestalterische Entscheidung getragen werden. Ein starkes [Statement-Piece](/glossar/statement-piece/) oder ein gekonnt inszenierter [Oversized](/glossar/oversized/)-Schnitt entfalten ihre Wirkung am besten im Zusammenspiel mit einer ansonsten minimalistischen und klaren [Silhouette](/glossar/silhouette/).
 

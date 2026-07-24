@@ -14,15 +14,15 @@ Der Blouson ist ein absoluter Klassiker der modernen Garderobe. Als extrem viels
 
 ## Definition
 
-Der Begriff **Blouson** (abgeleitet vom französischen Wort für „Bluse“ bzw. eine blusig fallende Jacke) beschreibt eine hüft- oder taillengerechte Jacke mit einer charakteristischen, leicht bauschigen Silhouette. Das wesentliche Konstruktionsmerkmal ist der elastische, eng anliegende Bund am Saum und meist auch an den Ärmelabschlüssen (Rippbündchen). Dieser sorgt dafür, dass sich der Stoff im Rumpfbereich leicht aufplustert – es entsteht der typische, namensgebende „Blouson-Effekt“. Für die modische Praxis bestimmt dieses Konstruktionsdetail maßgeblich, wie die Jacke in Bezug auf Proportion, Bewegung und Silhouette wirkt.
+Der Begriff **Blouson** (abgeleitet vom französischen Wort für „Bluse“ bzw. eine blusig fallende Jacke) beschreibt eine hüft- oder taillengerechte Jacke mit einer charakteristischen, leicht bauschigen Silhouette. Das wesentliche Konstruktionsmerkmal ist der elastische, eng anliegende Bund am Saum und meist auch an den Ärmelabschlüssen (Rippbündchen). Dieser sorgt dafür, dass sich der Stoff im Rumpfbereich leicht aufplustert, es entsteht der typische, namensgebende „Blouson-Effekt“. Für die modische Praxis bestimmt dieses Konstruktionsdetail maßgeblich, wie die Jacke in Bezug auf Proportion, Bewegung und Silhouette wirkt.
 
 ## Einfach erklärt
 
-Einfach gesagt ist ein Blouson eine sportliche, kurze Jacke, die im Brust- und Bauchbereich locker sitzt, aber an der Hüfte stramm abschließt. Historisch stammt diese Form aus der Militär- und Arbeitsbekleidung: Die US-amerikanischen Fliegerjacken (wie die legendäre MA-1) und die britischen Harrington-Jacken sind die direkten Vorfahren des modernen Blousons. Heute dient der Blouson als hervorragende Orientierung im Alltag: Er ist die ideale Jacke für die Übergangszeit, die maximale Bewegungsfreiheit bietet und gleichzeitig eine sportive, klar strukturierte Silhouette zeichnet. Ob aus edlem Wildleder, klassischer Baumwolle oder modernen Funktionsmaterialien – er wertet jedes Outfit sofort auf.
+Einfach gesagt ist ein Blouson eine sportliche, kurze Jacke, die im Brust- und Bauchbereich locker sitzt, aber an der Hüfte stramm abschließt. Historisch stammt diese Form aus der Militär- und Arbeitsbekleidung: Die US-amerikanischen Fliegerjacken (wie die legendäre MA-1) und die britischen Harrington-Jacken sind die direkten Vorfahren des modernen Blousons. Heute dient der Blouson als hervorragende Orientierung im Alltag: Er ist die ideale Jacke für die Übergangszeit, die maximale Bewegungsfreiheit bietet und gleichzeitig eine sportive, klar strukturierte Silhouette zeichnet. Ob aus edlem Wildleder, klassischer Baumwolle oder modernen Funktionsmaterialien, er wertet jedes Outfit sofort auf.
 
 ## Warum Blouson wichtig ist
 
-In der Modegeschichte und der professionellen Stilberatung nimmt der Blouson eine Schlüsselrolle ein, da er geschickt mit den Körperproportionen spielt. Durch den markanten Bund auf Hüfthöhe verkürzt er optisch den Oberkörper und verlängert im Gegenzug die Beine – ein hervorragender Effekt für eine harmonische Silhouette.
+In der Modegeschichte und der professionellen Stilberatung nimmt der Blouson eine Schlüsselrolle ein, da er geschickt mit den Körperproportionen spielt. Durch den markanten Bund auf Hüfthöhe verkürzt er optisch den Oberkörper und verlängert im Gegenzug die Beine, ein hervorragender Effekt für eine harmonische Silhouette.
 
 Zudem schließt der Blouson perfekt die Lücke zwischen formeller Eleganz und lässiger Freizeitkleidung. Je nach Materialwahl verändert sich seine Wirkung grundlegend:
 

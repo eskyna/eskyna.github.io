@@ -44,7 +44,7 @@ Die **Bundfaltenhose** ist ein absoluter Klassiker der Schneiderkunst. Doch **wa
 
 ## Einfach erklärt
 
-Im Gegensatz zu flach anliegenden Modellen (Flat-Front-Hosen) bietet die Bundfaltenhose durch ihre charakteristischen Falten – meist eine bis zwei pro Seite – spürbar mehr Bewegungsfreiheit. Historisch gesehen erlebte diese Hosenform ihre erste große Blütezeit in der klassischen Herrenmode der 1920er- und 1930er-Jahre und wurde im Zuge des Power Dressings der 1980er-Jahre zu einem geschlechterübergreifenden Modestatement.
+Im Gegensatz zu flach anliegenden Modellen (Flat-Front-Hosen) bietet die Bundfaltenhose durch ihre charakteristischen Falten, meist eine bis zwei pro Seite, spürbar mehr Bewegungsfreiheit. Historisch gesehen erlebte diese Hosenform ihre erste große Blütezeit in der klassischen Herrenmode der 1920er- und 1930er-Jahre und wurde im Zuge des Power Dressings der 1980er-Jahre zu einem geschlechterübergreifenden Modestatement.
 
 Heute zeigt sich die Hose äußerst vielseitig: Sie kann gerade, extra weit (Wide Leg) oder als Karottenhose (Tapered Fit) zum Saum hin schmaler zulaufen. Hochwertige Materialien wie leichte Schurwolle, edle Gabardine, fließende Viskose-Mischungen oder sommerliches Leinen bestimmen, wie elegant oder lässig die Silhouette fällt. Damit schließt sie stilistisch die Lücke zwischen entspannten [Chinos](/glossar/chinos/) und der klassischen [Anzughose](/glossar/anzughose/).
 
@@ -66,7 +66,7 @@ Die Bundfaltenhose ist ein modischer Wendepunkt, weil sie beweist, dass ergonomi
 **Besser:** Das Gegenteil ist der Fall, wenn die Größe stimmt. Eine korrekt sitzende Bundfalte streckt den Körper durch die vertikale Linie, kaschiert eine kräftigere Hüftpartie und sorgt für eine fließende, harmonische Silhouette.
 
 **Missverständnis:** Bundfaltenhosen sind verstaubt und gehören nur ins formelle Büro.  
-**Besser:** Die zeitgenössische Modewelt nutzt sie als progressives Keypiece. Richtig gestylt – etwa als Oversized-Variante mit sportivem Bruch – ist sie absolut alltagstauglich, urban und modern.
+**Besser:** Die zeitgenössische Modewelt nutzt sie als progressives Keypiece. Richtig gestylt, etwa als Oversized-Variante mit sportivem Bruch, ist sie absolut alltagstauglich, urban und modern.
 
 ## ESKYNA-Merksatz
 
@@ -82,6 +82,6 @@ Wenn du das Konzept der **Bundfaltenhose** auf ein Outfit überträgst, betracht
 
 ## Beratungsblick
 
-In der professionellen Stilberatung ist die **Bundfaltenhose** weit mehr als ein klassisches Kleidungsstück – sie ist ein echtes Werkzeug zur optischen Modellierung von Proportionen. Sie verleiht sehr schmalen Silhouetten subtiles Volumen und schenkt kurvigen Linien elegant fließenden Raum. Entscheidend ist nicht der vergängliche Trend, sondern wie das Kleidungsstück mit deiner individuellen Körperform und deiner täglichen Bewegung interagiert.
+In der professionellen Stilberatung ist die **Bundfaltenhose** weit mehr als ein klassisches Kleidungsstück, sie ist ein echtes Werkzeug zur optischen Modellierung von Proportionen. Sie verleiht sehr schmalen Silhouetten subtiles Volumen und schenkt kurvigen Linien elegant fließenden Raum. Entscheidend ist nicht der vergängliche Trend, sondern wie das Kleidungsstück mit deiner individuellen Körperform und deiner täglichen Bewegung interagiert.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).

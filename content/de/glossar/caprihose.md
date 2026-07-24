@@ -50,14 +50,14 @@ Wer sich fragt „**Was ist eine Caprihose**?“, reist gedanklich meist sofort 
 
 Typischerweise wird die Caprihose aus leichten, leicht elastischen Stoffen wie Baumwoll-Satin, Popeline oder Leinen gefertigt, um eine figurnahe Passform zu garantieren. Im Gegensatz zu einer lässigen [Bermuda](/glossar/bermuda/) oder einer weit ausgestellten [Culotte](/glossar/culotte/) schmiegt sie sich eng an das Bein an.
 
-Wenn Sie eine **Caprihose kombinieren**, ist das Zusammenspiel mit dem Schuhwerk entscheidend:
+Wenn du eine **Caprihose kombinierst**, ist das Zusammenspiel mit dem Schuhwerk entscheidend:
 
 - Flache Schuhe wie spitze Ballerinas oder Loafer betonen den eleganten Retro-Look im Audrey-Hepburn-Stil.
 - Zarte [Slingbacks](/glossar/slingback/) oder filigrane [Sandalen](/glossar/sandale/) mit kleinem Absatz strecken das Bein optisch und verleihen dem Outfit eine moderne, feminine Note.
 
 ## Warum dieser Begriff wichtig ist
 
-In der Modehistorie und der täglichen Stilpraxis ist die Caprihose ein perfektes Beispiel dafür, wie minimale Längenunterschiede die visuelle Silhouette verändern können. Da sie das Bein an einer sensiblen Stelle – der Wade – optisch unterbricht, gilt sie modisch als anspruchsvoll. Wer versteht, wie man die verkürzte Silhouette balanciert, meistert eines der wichtigsten Gesetze der visuellen Proportionslehre.
+In der Modehistorie und der täglichen Stilpraxis ist die Caprihose ein perfektes Beispiel dafür, wie minimale Längenunterschiede die visuelle Silhouette verändern können. Da sie das Bein an einer sensiblen Stelle, der Wade, optisch unterbricht, gilt sie modisch als anspruchsvoll. Wer versteht, wie man die verkürzte Silhouette balanciert, meistert eines der wichtigsten Gesetze der visuellen Proportionslehre.
 
 ## Worauf du achten solltest
 
@@ -87,11 +87,11 @@ Die Caprihose steht und fällt mit ihrer präzisen Länge: Ein einziger Zentimet
 Wenn du das Konzept der **Caprihose** in deine Garderobe integrieren möchtest, betrachte das Kleidungsstück immer als Teil eines harmonischen Gesamtsystems. Eine intelligente Garderobe wird leichter handhabbar, wenn die Stücke vielseitig einsetzbar sind.
 
 - **3-Teile-Regel:** Stelle sicher, dass sich die Hose mit mindestens drei bereits vorhandenen Oberteilen und unterschiedlichen Schuhstilen mühelos kombinieren lässt.
-- **Silhouetten-Kontrast:** Nutze das Prinzip von "Schmal zu Weit" – kombinierte die enge Hose mit einem fließenden, entspannten Gegenpart im Oberkörperbereich.
+- **Silhouetten-Kontrast:** Nutze das Prinzip von "Schmal zu Weit", kombinierte die enge Hose mit einem fließenden, entspannten Gegenpart im Oberkörperbereich.
 - **Alltagsnutzen:** Prüfe, ob das Material den Anforderungen deines Alltags (Sitzen, Bewegung, Wärme) standhält, ohne die Form zu verlieren.
 
 ## Beratungsblick
 
-In der persönlichen Stilberatung ist die **Caprihose** kein starres Kleidungsstück, sondern ein exzellentes Instrument, um die Knöchelpartie – eine der schmalsten Stellen des Körpers – elegant zu inszenieren. Sie verleiht Outfits sofort eine Prise Dynamik und sommerliche Frische, vorausgesetzt, die Proportionen sind individuell auf deine Körpergröße abgestimmt.
+In der persönlichen Stilberatung ist die **Caprihose** kein starres Kleidungsstück, sondern ein exzellentes Instrument, um die Knöchelpartie, eine der schmalsten Stellen des Körpers, elegant zu inszenieren. Sie verleiht Outfits sofort eine Prise Dynamik und sommerliche Frische, vorausgesetzt, die Proportionen sind individuell auf deine Körpergröße abgestimmt.
 
 Mehr Orientierung und stilistische Inspirationen findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Passform oder der perfekten Kombination für deine Silhouette treffen möchtest, unterstützt dich die [ESKYNA Stilgarderobe](/stilgarderobe/) dabei, deinen ganz persönlichen Signature-Look zu kreieren.

@@ -41,7 +41,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Die **Anzughose** (historisch auch als Tuchhose bezeichnet) ist ein klassisches Kleidungsstück der formellen Garderobe, das längst einen festen Platz in der modernen Alltagsmode eingenommen hat. Traditionell bezeichnet sie eine feine Stoffhose, die farblich und materiell exakt auf ein Sakko abgestimmt ist, um gemeinsam einen Anzug zu bilden. Doch **was ist eine Anzughose** in der heutigen Modewelt? Heute fungiert sie zunehmend als stilvolles Solitär-Kleidungsstück. Sie zeichnet sich durch hochwertige Webstoffe, eine präzise Schnittführung – von schmalen Silhouetten bis hin zu weiten Bundfalten-Modellen – sowie formelle Details wie Bügelfalten, Stoßbänder am Saum und einen aufwendig verarbeiteten Bund aus.
+Die **Anzughose** (historisch auch als Tuchhose bezeichnet) ist ein klassisches Kleidungsstück der formellen Garderobe, das längst einen festen Platz in der modernen Alltagsmode eingenommen hat. Traditionell bezeichnet sie eine feine Stoffhose, die farblich und materiell exakt auf ein Sakko abgestimmt ist, um gemeinsam einen Anzug zu bilden. Doch **was ist eine Anzughose** in der heutigen Modewelt? Heute fungiert sie zunehmend als stilvolles Solitär-Kleidungsstück. Sie zeichnet sich durch hochwertige Webstoffe, eine präzise Schnittführung, von schmalen Silhouetten bis hin zu weiten Bundfalten-Modellen, sowie formelle Details wie Bügelfalten, Stoßbänder am Saum und einen aufwendig verarbeiteten Bund aus.
 
 ## Einfach erklärt
 
@@ -58,11 +58,11 @@ Auch die Farbwahl prägt die Wirkung maßgeblich: Während _Schwarz_ pure Elegan
 
 In der Modehistorie markiert die Etablierung der Anzughose im späten 19. und frühen 20. Jahrhundert den Übergang von der steifen Gehrock-Ära zur moderneren, beweglicheren Alltagskleidung. Heute ist dieser Begriff ein unverzichtbares Fundament jeder gut sortierten Kapselgarderobe (Capsule Wardrobe). Eine Anzughose besitzt die einzigartige Eigenschaft, jedes Outfit augenblicklich zu erden und ihm visuelle Struktur zu verleihen. Sie schließt die Lücke zwischen formeller Business-Garderobe und anspruchsvollem Smart Casual.
 
-Wer beim Kauf feste [Kaufkriterien](/glossar/kaufkriterien/) anwendet – wie die Qualität des Taschenfutters, die Dehnungsreserve im Bund (After-Dinner-Split) und den perfekten Fall auf dem Schuh –, investiert in ein langlebiges Keypiece, das weit über kurzlebige Trends erhaben ist.
+Wer beim Kauf feste [Kaufkriterien](/glossar/kaufkriterien/) anwendet, wie die Qualität des Taschenfutters, die Dehnungsreserve im Bund (After-Dinner-Split) und den perfekten Fall auf dem Schuh, , investiert in ein langlebiges Keypiece, das weit über kurzlebige Trends erhaben ist.
 
 ## Worauf du achten solltest
 
-- **Der perfekte Fall (Drape):** Der Stoff – idealerweise reine Schurwolle oder edle Naturfasermischungen – muss faltenfrei von der Hüfte herabfallen, ohne an den Oberschenkeln oder im Schritt zu spannen.
+- **Der perfekte Fall (Drape):** Der Stoff, idealerweise reine Schurwolle oder edle Naturfasermischungen, muss faltenfrei von der Hüfte herabfallen, ohne an den Oberschenkeln oder im Schritt zu spannen.
 - **Die Saumlänge und der "Break":** Die Länge entscheidet über den Stil. Ein klassischer „Full Break“ (der Saum knickt einmal leicht auf dem Schuh ein) wirkt traditionell und elegant. Ein „No Break“ (der Saum endet knapp über dem Knöchel) betont die Schuhe und wirkt modern und dynamisch.
 - **Die Bügelfalte:** Sie ist das funktionale und optische Herzstück der Anzughose. Sie streckt die Silhouette visuell und sorgt für eine klare vertikale Linienführung.
 - **Das Schuhwerk:** Loafer, Oxfords oder Derby-Klassiker unterstreichen den formellen Charakter, während minimalistische Ledersneaker den Look geschickt aufbrechen.
@@ -73,7 +73,7 @@ Wer beim Kauf feste [Kaufkriterien](/glossar/kaufkriterien/) anwendet – wie di
 **Besser:** Dank moderner Styling-Konzepte ist sie längst im Alltag angekommen. Als Solistin (oft auch als „Odd Trousers“ bezeichnet) getragen, bricht sie formelle Barrieren auf und wertet Freizeit-Outfits wie hochwertige Hoodies oder Denimjacken stilvoll auf.
 
 **Missverständnis:** Eine Anzughose muss immer zwingend als kompletter Anzug getragen werden.  
-**Besser:** Mix-and-Match ist heute ein etablierter Standard. Gerade als eigenständiges Statement-Piece entfaltet sie im Zusammenspiel mit kontrastierenden Texturen – wie Leder, Denim oder Grobstrick – ihr volles modisches Potenzial.
+**Besser:** Mix-and-Match ist heute ein etablierter Standard. Gerade als eigenständiges Statement-Piece entfaltet sie im Zusammenspiel mit kontrastierenden Texturen, wie Leder, Denim oder Grobstrick, ihr volles modisches Potenzial.
 
 ## Mini-Test vor dem Spiegel
 
@@ -81,11 +81,11 @@ Betrachte deine **Anzughose** im Spiegel einmal aus der Nähe und einmal mit etw
 
 ## ESKYNA-Merksatz
 
-Eine perfekt sitzende Anzughose verleiht jedem Outfit sofort Haltung und Struktur. Sie muss nicht streng wirken – aber sie erfordert handwerkliche Präzision.
+Eine perfekt sitzende Anzughose verleiht jedem Outfit sofort Haltung und Struktur. Sie muss nicht streng wirken, aber sie erfordert handwerkliche Präzision.
 
 ## Praxischeck
 
-Wenn du den Begriff **Anzughose** auf deine Garderobe überträgst, betrachte das Kleidungsstück nie isoliert. Entscheidend ist das Zusammenspiel im Gesamtbild – nur so wirkt der Look harmonisch, mühelos und authentisch. Eine intelligente Garderobe zeichnet sich dadurch aus, dass Einzelteile modular funktionieren. Nutze diesen schnellen Check:
+Wenn du den Begriff **Anzughose** auf deine Garderobe überträgst, betrachte das Kleidungsstück nie isoliert. Entscheidend ist das Zusammenspiel im Gesamtbild, nur so wirkt der Look harmonisch, mühelos und authentisch. Eine intelligente Garderobe zeichnet sich dadurch aus, dass Einzelteile modular funktionieren. Nutze diesen schnellen Check:
 
 - **Die Dreier-Regel:** Kannst du die Hose spontan mit mindestens drei bereits vorhandenen Oberteilen (z. B. T-Shirt, Feinstrick, Hemd/Bluse) kombinieren?
 - **Harmonie der Texturen:** Erzeugen die Materialien (z. B. matte Schurwolle zu glänzendem Seiden-Top oder derbem Tweed) einen spannenden, aber ausgewogenen Kontrast?

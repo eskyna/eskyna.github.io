@@ -50,13 +50,13 @@ Für eine gelungene Ästhetik im Alltag sind die optimale [Saumlänge](/glossar/
 
 Wer die Schnittkonstruktion und die visuelle Wirkung dieses Designs versteht, kann seine Garderobe strategischer aufbauen und Fehlkäufe gezielt vermeiden. Das Ziel ist eine Capsule Wardrobe, die nicht durch Quantität, sondern durch funktionale Eleganz überzeugt.
 
-In einer professionellen **A-Linien-Kleid Stilberatung** zeigt sich schnell die größte Stärke dieser Silhouette: Sie gleicht Proportionen visuell hervorragend aus. Das Design betont die Schulterpartie sowie das Dekolleté und umspielt Hüfte und Oberschenkel sanft und fließend. Dadurch eignet sich dieser Schnitt perfekt für unterschiedlichste Figurtypen – vom anspruchsvollen Business-Kontext bis hin zum entspannten, gehobenen Freizeit-Look.
+In einer professionellen **A-Linien-Kleid Stilberatung** zeigt sich schnell die größte Stärke dieser Silhouette: Sie gleicht Proportionen visuell hervorragend aus. Das Design betont die Schulterpartie sowie das Dekolleté und umspielt Hüfte und Oberschenkel sanft und fließend. Dadurch eignet sich dieser Schnitt perfekt für unterschiedlichste Figurtypen, vom anspruchsvollen Business-Kontext bis hin zum entspannten, gehobenen Freizeit-Look.
 
 ## Worauf du achten solltest
 
 - **Material und Fall:** Schwere, strukturierte Stoffe wie Tweed, Jacquard, fester Denim oder Schurwolle betonen die geometrische, skulpturale Form des Kleides. Leichte, fließende Textilien wie Seide, Viskose, Chiffon oder feines Leinen lassen die Silhouette weicher, verspielter und romantischer wirken.
 - **Die Proportionen:** Achte darauf, wo die prägnante Ausstellung des Kleides beginnt (unter der Brust im Empire-Stil, direkt an der Taille oder erst ab der Hüfte), um deine individuellen Körperproportionen optimal zur Geltung zu bringen.
-- **Länge und Anlass:** Ob Mini-, Midi- oder Maxi-Länge – das Maß bestimmt die Stilrichtung. Während ein kurzes A-Linien-Kleid charmant an den Mod-Stil der 1960er-Jahre erinnert, stehen knielange Varianten für klassische Eleganz und Maxikleider für moderne Lässigkeit.
+- **Länge und Anlass:** Ob Mini-, Midi- oder Maxi-Länge, das Maß bestimmt die Stilrichtung. Während ein kurzes A-Linien-Kleid charmant an den Mod-Stil der 1960er-Jahre erinnert, stehen knielange Varianten für klassische Eleganz und Maxikleider für moderne Lässigkeit.
 - **Kombinationsmöglichkeiten:** Prüfe vor dem Kauf, ob sich das Kleid stilistisch und farblich harmonisch mit deinen Jacken, Kurzblazern und bereits vorhandenen Schuhen kombinieren lässt.
 
 ## Typische Missverständnisse
@@ -69,7 +69,7 @@ In einer professionellen **A-Linien-Kleid Stilberatung** zeigt sich schnell die 
 
 ## ESKYNA-Merksatz
 
-Ein A-Linien-Kleid entfaltet seine stärkste Wirkung durch das feine Zusammenspiel aus geometrischer Klarheit, hochwertigem Material und einer perfekt abgestimmten Proportionierung – es bildet die ideale Balance zwischen architektonischer Struktur und unbeschwerter Bewegungsfreiheit.
+Ein A-Linien-Kleid entfaltet seine stärkste Wirkung durch das feine Zusammenspiel aus geometrischer Klarheit, hochwertigem Material und einer perfekt abgestimmten Proportionierung, es bildet die ideale Balance zwischen architektonischer Struktur und unbeschwerter Bewegungsfreiheit.
 
 ## Praxischeck
 

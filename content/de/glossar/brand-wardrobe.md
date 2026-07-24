@@ -42,7 +42,7 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Brand Wardrobe** (auch _Markengarderobe_ genannt) bezeichnet eine strategisch kuratierte Auswahl an Kleidungsstücken, die die visuelle Identität einer Person oder eines Unternehmens im Sinne des _Personal Branding_ konsequent widerspiegelt. Durch den gezielten Einsatz wiederkehrender Stilcodes – wie spezifische Farbschemata, charakteristische Silhouetten, ausgewählte Materialien und prägende Details – wird die Kleidung zu einem nonverbalen Kommunikationsmittel, das die eigene Positionierung systematisch stärkt.
+Eine **Brand Wardrobe** (auch _Markengarderobe_ genannt) bezeichnet eine strategisch kuratierte Auswahl an Kleidungsstücken, die die visuelle Identität einer Person oder eines Unternehmens im Sinne des _Personal Branding_ konsequent widerspiegelt. Durch den gezielten Einsatz wiederkehrender Stilcodes, wie spezifische Farbschemata, charakteristische Silhouetten, ausgewählte Materialien und prägende Details, wird die Kleidung zu einem nonverbalen Kommunikationsmittel, das die eigene Positionierung systematisch stärkt.
 
 ## Einfach erklärt
 
@@ -82,7 +82,7 @@ Mehr fundierte Orientierung zur strategischen Stilfindung findest du in der Kate
 
 Frage dich bei deiner **Brand Wardrobe** stets: Welche konkrete Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, optisch strecken, Nahbarkeit signalisieren, Struktur geben oder deine Persönlichkeit hervorheben? Sobald diese Funktion klar definiert ist, fällt jede Styling-Entscheidung wesentlich leichter. Du vergleichst nicht mehr wahllos, sondern prüfst gezielt, welche Variante deine gewünschte Wirkung am besten unterstützt.
 
-Bei nachhaltigen Garderobenthemen entscheidet die Wiederholung über den Erfolg. Ein starkes Stilelement muss sich in mehreren Outfits mühelos einsetzen lassen – andernfalls bleibt es nur eine ungenutzte Idee im Schrank. Teste daher ganz bewusst zwei unterschiedliche Herangehensweisen: eine minimalistisch-ruhige und eine expressiv-markante Variante. Dokumentiere für dich selbst, welches Styling sich natürlicher anfühlt und sich harmonischer in deine bestehende Garderobenlogik einfügt. So wird das Konzept der Brand Wardrobe von einer theoretischen Modevokabel zu deinem effektivsten Werkzeug im Alltag.
+Bei nachhaltigen Garderobenthemen entscheidet die Wiederholung über den Erfolg. Ein starkes Stilelement muss sich in mehreren Outfits mühelos einsetzen lassen, andernfalls bleibt es nur eine ungenutzte Idee im Schrank. Teste daher ganz bewusst zwei unterschiedliche Herangehensweisen: eine minimalistisch-ruhige und eine expressiv-markante Variante. Dokumentiere für dich selbst, welches Styling sich natürlicher anfühlt und sich harmonischer in deine bestehende Garderobenlogik einfügt. So wird das Konzept der Brand Wardrobe von einer theoretischen Modevokabel zu deinem effektivsten Werkzeug im Alltag.
 
 ## Verwandte Begriffe
 

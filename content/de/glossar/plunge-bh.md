@@ -2,7 +2,7 @@
 title: "Was ist ein Plunge-BH?"
 term: "Plunge-BH"
 description: "Plunge-BH erklärt: tiefer Mittelsteg, passende Ausschnitte, Sitzkontrolle und Unterschiede zu Push-up und Balconette."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "plunge-bh"
 seoTitle: "Plunge-BH: Der BH für tiefe V-Ausschnitte | ESKYNA"
 image: "images/glossar/plunge-bh.png"

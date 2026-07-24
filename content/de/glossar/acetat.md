@@ -47,7 +47,7 @@ Ein großer Vorteil des Materials ist seine Formbeständigkeit und Knitterresist
 
 ## Typisches Missverständnis
 
-Ein weitverbreitetes Vorurteil besagt, dass Acetat eine billige, minderwertige Synthetikfaser wie minderwertiges Polyester sei. Das stimmt nicht. Acetat ist eine veredelte Regeneratfaser mit langer Tradition, die in der Haute Couture und der gehobenen Konfektion ganz gezielt wegen ihrer spezifischen Ästhetik eingesetzt wird. Sie bietet die optischen Vorzüge von echter Seide, ist jedoch unempfindlicher gegenüber Wasserflecken und deutlich formstabiler. Auch außerhalb der Textilbranche – etwa für hochwertige, handgearbeitete Brillenrahmen in edler Horn- oder Schildpatt-Optik – ist Celluloseacetat das absolute Premium-Material der Wahl.
+Ein weitverbreitetes Vorurteil besagt, dass Acetat eine billige, minderwertige Synthetikfaser wie minderwertiges Polyester sei. Das stimmt nicht. Acetat ist eine veredelte Regeneratfaser mit langer Tradition, die in der Haute Couture und der gehobenen Konfektion ganz gezielt wegen ihrer spezifischen Ästhetik eingesetzt wird. Sie bietet die optischen Vorzüge von echter Seide, ist jedoch unempfindlicher gegenüber Wasserflecken und deutlich formstabiler. Auch außerhalb der Textilbranche, etwa für hochwertige, handgearbeitete Brillenrahmen in edler Horn- oder Schildpatt-Optik, ist Celluloseacetat das absolute Premium-Material der Wahl.
 
 ## ESKYNA-Merksatz
 

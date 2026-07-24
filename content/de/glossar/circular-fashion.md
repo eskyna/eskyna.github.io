@@ -39,7 +39,7 @@ additional_categories:
 
 ## Definition
 
-**Circular Fashion** (zu Deutsch: zirkuläre Mode oder Kreislaufmode) bezeichnet ein systemisches Konzept der Textil- und Bekleidungsindustrie, das auf den Prinzipien der Kreislaufwirtschaft (_Circular Economy_) basiert. Der Begriff wurde maßgeblich um 2014 geprägt, um eine regenerative Alternative zur traditionellen, linearen Textilwertschöpfungskette („Take-Make-Waste“ – herstellen, tragen, wegwerfen) zu etablieren. Ziel von Circular Fashion ist es, den Lebenszyklus von Kleidungsstücken und Textilfasern unendlich zu verlängern, Abfälle und Umweltbelastungen auf null zu reduzieren und Ressourcen maximal effizient zu nutzen.
+**Circular Fashion** (zu Deutsch: zirkuläre Mode oder Kreislaufmode) bezeichnet ein systemisches Konzept der Textil- und Bekleidungsindustrie, das auf den Prinzipien der Kreislaufwirtschaft (_Circular Economy_) basiert. Der Begriff wurde maßgeblich um 2014 geprägt, um eine regenerative Alternative zur traditionellen, linearen Textilwertschöpfungskette („Take-Make-Waste“, herstellen, tragen, wegwerfen) zu etablieren. Ziel von Circular Fashion ist es, den Lebenszyklus von Kleidungsstücken und Textilfasern unendlich zu verlängern, Abfälle und Umweltbelastungen auf null zu reduzieren und Ressourcen maximal effizient zu nutzen.
 
 Im Kern beruht das Konzept auf dem von Michael Braungart und William McDonough entwickelten **Cradle-to-Cradle-Prinzip** (von der Wiege zur Wiege). Produkte werden von Anfang an so konzipiert, dass alle Materialien nach ihrer Nutzung entweder sicher in biologische Kreisläufe zurückgeführt oder ohne Qualitätsverlust im technischen Kreislauf weiterverwertet werden können.
 
@@ -55,7 +55,7 @@ Zirkuläre Mode betrachtet Kleidung nicht als Wegwerfprodukt, sondern als wertvo
 
 ## Warum ist das für Verbraucher wichtig?
 
-Für bewusste Konsumenten ist das Verständnis von Circular Fashion das wirksamste Werkzeug gegen Greenwashing. Viele Modemarken werben heute mit einzelnen „nachhaltigen“ Aspekten, wie dem Einsatz von recyceltem Polyester aus PET-Flaschen. Ein solches Kleidungsstück ist jedoch meist weder langlebig noch nach Gebrauch erneut recycelbar – es handelt sich um eine lineare Sackgasse (Sogenanntes _Downcycling_).
+Für bewusste Konsumenten ist das Verständnis von Circular Fashion das wirksamste Werkzeug gegen Greenwashing. Viele Modemarken werben heute mit einzelnen „nachhaltigen“ Aspekten, wie dem Einsatz von recyceltem Polyester aus PET-Flaschen. Ein solches Kleidungsstück ist jedoch meist weder langlebig noch nach Gebrauch erneut recycelbar, es handelt sich um eine lineare Sackgasse (Sogenanntes _Downcycling_).
 
 Wer die Prinzipien der Kreislaufmode versteht, blickt auf den gesamten Lebenszyklus eines Textils. Dies schützt vor Fehlkäufen, fördert den Wertbezug zur eigenen Garderobe und unterstützt aktiv den Wandel hin zu einer ressourcenschonenden Textilindustrie. Zirkulärer Konsum schont zudem langfristig das Budget, da der Fokus auf Qualität, Pflegeleichtigkeit und Wiederverkaufswert liegt.
 
@@ -103,6 +103,6 @@ Mischgewebe stellen derzeit die größte Hürde für das Textil-zu-Textil-Recycl
 
 ## Verwandte Begriffe und interne Links
 
-- [Secondhand](/glossar/secondhand/) – Die Weitergabe von bereits getragener Kleidung als Schlüssel zur Verlängerung des Produktlebenszyklus.
-- [Upcycling](/glossar/upcycling/) – Die kreative Aufwertung von Textilabfällen zu neuen, höherwertigen Produkten.
-- [Digitaler Produktpass](/glossar/digitaler-produktpass/) – Ein zukommtweisendes Instrument zur lückenlosen Rückverfolgbarkeit von Materialien und Recyclinganweisungen.
+- [Secondhand](/glossar/secondhand/), Die Weitergabe von bereits getragener Kleidung als Schlüssel zur Verlängerung des Produktlebenszyklus.
+- [Upcycling](/glossar/upcycling/), Die kreative Aufwertung von Textilabfällen zu neuen, höherwertigen Produkten.
+- [Digitaler Produktpass](/glossar/digitaler-produktpass/), Ein zukommtweisendes Instrument zur lückenlosen Rückverfolgbarkeit von Materialien und Recyclinganweisungen.

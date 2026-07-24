@@ -2,7 +2,7 @@
 title: "Wie sitzt ein trägerloser BH richtig?"
 term: "Trägerloser BH und Bandeau-BH"
 description: "Welcher trägerlose BH hält zuverlässig? Unterbrustband, Cupkonstruktion, Bandeau-Unterschied und Praxistest für schulterfreie Looks."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "traegerloser-bh"
 seoTitle: "Trägerloser BH: Passform, Halt und Modelle | ESKYNA"
 image: "images/glossar/traegerloser-bh.png"

@@ -32,7 +32,7 @@ Der wesentliche Unterschied lässt sich leicht merken: Eine **Capsule Collection
 Eine markenseitige Capsule Collection muss weder betont schlicht noch untereinander vollständig kombinierbar sein, auch wenn sie optisch oft sehr harmonisch und kuratiert wirkt. Häufig dient sie Marken dazu, durch sogenannte "Drops" (gezielte, künstlich verknappte Veröffentlichungen) Aufmerksamkeit zu generieren und Trends schnell aufzugreifen.
 
 **Ein Blick in die Modegeschichte**
-Das Konzept hat tiefe historische Wurzeln: Der Begriff „Capsule Wardrobe“ wurde bereits in den 1970er-Jahren von der Londoner Boutique-Besitzerin Susie Faux geprägt. Modegeschichte schrieb das Prinzip der Kapsel-Kollektion schließlich im Jahr 1985, als die US-amerikanische Designerin Donna Karan ihre revolutionäre Kollektion „Seven Easy Pieces“ vorstellte – sieben untereinander austauschbare Kleidungsstücke für die moderne, berufstätige Frau.
+Das Konzept hat tiefe historische Wurzeln: Der Begriff „Capsule Wardrobe“ wurde bereits in den 1970er-Jahren von der Londoner Boutique-Besitzerin Susie Faux geprägt. Modegeschichte schrieb das Prinzip der Kapsel-Kollektion schließlich im Jahr 1985, als die US-amerikanische Designerin Donna Karan ihre revolutionäre Kollektion „Seven Easy Pieces“ vorstellte, sieben untereinander austauschbare Kleidungsstücke für die moderne, berufstätige Frau.
 
 Heute nutzen sowohl High-End-Designer als auch Fast-Fashion-Labels das Format der Capsule Collection für kreative Experimente oder prominente Gast-Kooperationen. Um im Trubel dieser limitierten Angebote den Überblick zu behalten, hilft eine strukturierte [Garderobenlogik](/glossar/garderobenlogik/). Sie stellt sicher, dass ein spontaner Kauf aus einer solchen Sonderkollektion perfekt in deine Alltagsgarderobe passt und verhindert einen teuren [Fehlkauf](/glossar/fehlkauf/).
 
@@ -49,4 +49,4 @@ Oft werden die Begriffe **Capsule Collection** und **Capsule Wardrobe** fälschl
 
 ## ESKYNA-Merksatz
 
-> Eine Capsule Collection verführt durch exklusives Design und ein starkes Thema – doch ein echtes Lieblingsteil wird sie in deinem Kleiderschrank erst dann, wenn sie deiner persönlichen Garderobenlogik und deinem realen Alltag standhält.
+> Eine Capsule Collection verführt durch exklusives Design und ein starkes Thema, doch ein echtes Lieblingsteil wird sie in deinem Kleiderschrank erst dann, wenn sie deiner persönlichen Garderobenlogik und deinem realen Alltag standhält.

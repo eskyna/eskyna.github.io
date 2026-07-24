@@ -79,7 +79,7 @@ Was bedeutet Business Formal im Kern? Ein Dresscode ist kein starres Kostüm, so
 
 Historisch betrachtet wurzelt dieser Stil im klassischen englischen Herrenanzug (dem _Lounge Suit_ des späten 19. Jahrhunderts aus den Ateliers der Londoner Savile Row), der den unpraktischen Gehrock ablöste. Für Herren bedeutet dies heute: ein perfekt sitzender, ein- oder zweireihiger Anzug in Dunkelblau, Anthrazit oder Schwarz, kombiniert mit einem langärmligen Hemd (meist in Weiß oder Hellblau), einer dezenten Seidenkrawatte und rahmengenähten Lederschuhen (wie Oxford oder Derby).
 
-Für Damen entwickelte sich das Pendant vor allem im 20. Jahrhundert über das klassische Kostüm bis hin zum modernen Hosenanzug – eine Emanzipationsgeschichte, die in der Ära des „Power Dressing“ der 1980er-Jahre ihren Höhepunkt fand. Heute umfasst der Dresscode für Frauen elegante Hosenanzüge, Kostüme mit knielangen Röcken oder formelle Etuikleider, kombiniert mit hochwertigen Blusen und geschlossenen Lederschuhen (wie klassischen Pumps oder Loafern).
+Für Damen entwickelte sich das Pendant vor allem im 20. Jahrhundert über das klassische Kostüm bis hin zum modernen Hosenanzug, eine Emanzipationsgeschichte, die in der Ära des „Power Dressing“ der 1980er-Jahre ihren Höhepunkt fand. Heute umfasst der Dresscode für Frauen elegante Hosenanzüge, Kostüme mit knielangen Röcken oder formelle Etuikleider, kombiniert mit hochwertigen Blusen und geschlossenen Lederschuhen (wie klassischen Pumps oder Loafern).
 
 Bei ESKYNA betrachten wir Kleidung ganzheitlich: Es geht nicht nur darum, starre Regeln zu erfüllen, sondern die Balance zwischen Tradition, persönlicher Identität und der geforderten Wirkung im Raum zu finden.
 
@@ -93,7 +93,7 @@ Ein tiefes Verständnis für diesen Dresscode schützt vor Fehlkäufen. Statt Tr
 
 - **Die Materialwahl:** Setze auf Naturfasern von herausragender Qualität. Schurwolle (Cool Wool für den Sommer, schwerere Tuche für den Winter), Seide, feines Leinen-Baumwoll-Gemisch bei Hemden und erstklassiges Kalbsleder sind Standard. Synthetische Fasern sollten vermieden werden, da sie den Stand und das Mikroklima des Kleidungsstücks negativ beeinflussen.
 - **Die Passform (Tailoring):** Selbst der teuerste Anzug verliert seine Wirkung, wenn er nicht perfekt sitzt. Achte auf die Schulterpartie, die Ärmellänge (die Manschette des Hemdes sollte etwa einen Zentimeter unter dem Sakkoärmel hervorblitzen) und die exakte Hosenlänge. Eine professionelle Änderungsschneiderei ist hier oft der Schlüssel zum Erfolg.
-- **Die Farbpalette:** Dominierend sind gedeckte, ruhige Töne. Navy (Dunkelblau), Anthrazit, Schiefergrau und Schwarz bilden das Fundament. Akzente werden sparsam gesetzt – etwa durch Pastelltöne bei Blusen und Hemden oder eine fein abgestimmte Krawatte.
+- **Die Farbpalette:** Dominierend sind gedeckte, ruhige Töne. Navy (Dunkelblau), Anthrazit, Schiefergrau und Schwarz bilden das Fundament. Akzente werden sparsam gesetzt, etwa durch Pastelltöne bei Blusen und Hemden oder eine fein abgestimmte Krawatte.
 - **Musterung und Details:** Weniger ist mehr. Erlaubt sind dezente Webstrukturen, feine Nadelstreifen (Pinstripes) oder zurückhaltende Glencheck-Muster. Vermeide zu laute, kontrastreiche Muster.
 - **Die Accessoires:** Schmuck und Uhren sollten filigran und hochwertig sein. Für Herren gilt: Der Ledergürtel sollte farblich exakt auf die Schuhe abgestimmt sein. Manschettenknöpfe und ein weißes Einstecktuch setzen elegante, feine Akzente.
 
@@ -128,7 +128,7 @@ Mehr Orientierung zu klassischen Dresscodes und der Strukturierung deiner Garder
 
 ## Beratungssituation im echten Leben
 
-In der täglichen Beratungspraxis wird das Thema **Business Formal** meist dann akut, wenn eine berufliche Veränderung ansteht – sei es eine Beförderung in das C-Level, ein Branchenwechsel oder die Vorbereitung auf repräsentative Termine, Aufsichtsratssitzungen oder Medienauftritte. Oft besitzen Kundinnen und Kunden zwar hochwertige Einzelteile, stehen aber vor der Herausforderung, diese zu einem konsistenten und wirkungsvollen Gesamtbild zusammenzufügen. Es geht darum, die Kluft zwischen formellem Anspruch und persönlicher Identität zu schließen.
+In der täglichen Beratungspraxis wird das Thema **Business Formal** meist dann akut, wenn eine berufliche Veränderung ansteht, sei es eine Beförderung in das C-Level, ein Branchenwechsel oder die Vorbereitung auf repräsentative Termine, Aufsichtsratssitzungen oder Medienauftritte. Oft besitzen Kundinnen und Kunden zwar hochwertige Einzelteile, stehen aber vor der Herausforderung, diese zu einem konsistenten und wirkungsvollen Gesamtbild zusammenzufügen. Es geht darum, die Kluft zwischen formellem Anspruch und persönlicher Identität zu schließen.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 

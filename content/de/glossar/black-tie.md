@@ -46,7 +46,7 @@ lastmod: "2026-07-09"
 
 Ein Dresscode ist kein starres Korsett, sondern ein stilvoller Rahmen. Er sorgt dafür, dass Kleidung respektvoll gegenüber dem Gastgeber, dem Anlass und den anderen Gästen wirkt und gleichzeitig Raum für die eigene Persönlichkeit lässt.
 
-Historisch entstand der Black Tie im späten 19. Jahrhundert in England als etwas bequemere, aber dennoch hochgradig elegante Alternative zum ultraharten Frack (dem „White Tie“). Der Legende nach ließ sich der spätere König Eduard VII. im Jahr 1886 vom Savile-Row-Schneider Henry Poole eine blaue Seidenjacke ohne Schöße anfertigen – die Geburtsstunde des Smokings (in den USA als _Tuxedo_ bekannt).
+Historisch entstand der Black Tie im späten 19. Jahrhundert in England als etwas bequemere, aber dennoch hochgradig elegante Alternative zum ultraharten Frack (dem „White Tie“). Der Legende nach ließ sich der spätere König Eduard VII. im Jahr 1886 vom Savile-Row-Schneider Henry Poole eine blaue Seidenjacke ohne Schöße anfertigen, die Geburtsstunde des Smokings (in den USA als _Tuxedo_ bekannt).
 
 Heute bedeutet der Dresscode konkret:
 

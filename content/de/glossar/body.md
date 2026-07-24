@@ -43,7 +43,7 @@ lastmod: "2026-07-09"
 
 Was bedeutet Body im modischen Alltag? Ganz unkompliziert ausgedrückt: Es ist ein Oberteil, das niemals aus dem Hosen- oder Rockbund rutscht. Während normale Shirts bei Bewegung Falten werfen, bleibt der Body dank des praktischen Verschlusses im Schritt (meist flache Druckknöpfe) dauerhaft glatt und formstabil.
 
-Modehistorisch entstammt dieses Kleidungsstück der Sport- und Tanzbekleidung des 19. Jahrhunderts – inspiriert vom französischen Luftakrobaten Jules Léotard. In den 1970er- und 1980er-Jahren entwickelte sich der Body dank des Fitness-Booms und neuer elastischer Fasern zum emanzipierten Fashion-Statement.
+Modehistorisch entstammt dieses Kleidungsstück der Sport- und Tanzbekleidung des 19. Jahrhunderts, inspiriert vom französischen Luftakrobaten Jules Léotard. In den 1970er- und 1980er-Jahren entwickelte sich der Body dank des Fitness-Booms und neuer elastischer Fasern zum emanzipierten Fashion-Statement.
 
 Für ESKYNA ist dieses Teil dann wertvoll, wenn es eine klare architektonische Aufgabe in der Garderobe übernimmt. Es soll nicht nur ein schönes Basic sein, sondern das tägliche Styling spürbar erleichtern und optisch beruhigen.
 
@@ -82,7 +82,7 @@ Wenn du das Konzept des **Body** in dein Outfit integrieren möchtest, prüfe da
 
 ## Beratungsblick
 
-In einer fundierten **Body Stilberatung** betrachten wir dieses Kleidungsstück als architektonischen Anker deines Outfits. Er lenkt den Fokus subtil auf die Taille und schafft ein ausgewogenes Gleichgewicht zwischen maskulinen und femininen Silhouetten. Ob im Business-Alltag unter einem oversized Blazer oder minimalistisch am Wochenende – er sorgt dafür, dass du dich den ganzen Tag über makellos angezogen fühlst, ohne ständig den Sitz deiner Kleidung korrigieren zu müssen.
+In einer fundierten **Body Stilberatung** betrachten wir dieses Kleidungsstück als architektonischen Anker deines Outfits. Er lenkt den Fokus subtil auf die Taille und schafft ein ausgewogenes Gleichgewicht zwischen maskulinen und femininen Silhouetten. Ob im Business-Alltag unter einem oversized Blazer oder minimalistisch am Wochenende, er sorgt dafür, dass du dich den ganzen Tag über makellos angezogen fühlst, ohne ständig den Sitz deiner Kleidung korrigieren zu müssen.
 
 Mehr Orientierung zu edlen Stoffen und Webarten findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Passform oder Kombination für deinen Figurtyp treffen möchtest, nutze gern die [Stilfrage an Natalia](/stilfrage/).
 

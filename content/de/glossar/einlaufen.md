@@ -2,7 +2,7 @@
 title: Einlaufen bei Kleidung
 term: Einlaufen bei Kleidung
 description: Was bedeutet Einlaufen bei Kleidung? Erfahre, warum Textilien nach Wäsche oder Trocknung kleiner werden und wie du Passform, Pflege und Reklamation beurteilst.
-category: Pflege & Wäsche
+category: "Materialien & Details"
 slug: einlaufen
 seoTitle: "Einlaufen: Maßveränderungen richtig verstehen | ESKYNA"
 image: images/glossar/einlaufen.png

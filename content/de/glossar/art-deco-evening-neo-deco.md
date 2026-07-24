@@ -37,7 +37,7 @@ Der Dresscode **Art Deco Evening** (auch bekannt als **Neo Deco**) beschreibt ei
 
 ## Was bedeutet Art Deco Evening?
 
-Die moderne Stilrichtung **Art Deco Evening** transportiert die glamouröse Ästhetik der 1920er- und 1930er-Jahre in die Gegenwart. Historisch wurzelt dieser Look im _Art Déco_ – einer Epoche, die nach der Pariser Weltausstellung von 1925 (_Exposition Internationale des Arts Décoratifs et Industriels Modernes_) die Designwelt revolutionierte. Im Gegensatz zum floralen Jugendstil setzte das Art Déco auf Symmetrie, technologischen Fortschritt, klare Linien und maschinenartige Geometrie.
+Die moderne Stilrichtung **Art Deco Evening** transportiert die glamouröse Ästhetik der 1920er- und 1930er-Jahre in die Gegenwart. Historisch wurzelt dieser Look im _Art Déco_, einer Epoche, die nach der Pariser Weltausstellung von 1925 (_Exposition Internationale des Arts Décoratifs et Industriels Modernes_) die Designwelt revolutionierte. Im Gegensatz zum floralen Jugendstil setzte das Art Déco auf Symmetrie, technologischen Fortschritt, klare Linien und maschinenartige Geometrie.
 
 Für das zeitgemäße **Neo Deco Styling** bedeutet dies eine Abkehr vom reinen, verspielten Glitzer hin zu einer strukturierten Opulenz. Typische Merkmale dieses Looks sind:
 
@@ -62,7 +62,7 @@ Um den Look stilsicher und modern zu interpretieren, hilft die Formel der drei g
 
 ## Styling-Tipp
 
-Setze auf ein einziges, dominantes Key-Piece – wie eine aufwendig bestickte Jacke, eine Clutch mit grafischem Muster oder ein Paar skulpturale Ohrringe – und halte das restliche Outfit sowie das Make-up bewusst puristisch. So verhinderst du den Kostüm-Effekt und kreierst einen Abendlook von zeitloser, moderner Eleganz.
+Setze auf ein einziges, dominantes Key-Piece, wie eine aufwendig bestickte Jacke, eine Clutch mit grafischem Muster oder ein Paar skulpturale Ohrringe, und halte das restliche Outfit sowie das Make-up bewusst puristisch. So verhinderst du den Kostüm-Effekt und kreierst einen Abendlook von zeitloser, moderner Eleganz.
 
 ## Verwandte Begriffe
 

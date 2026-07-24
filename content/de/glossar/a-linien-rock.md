@@ -55,7 +55,7 @@ Besonders im dynamischen Alltag erweist sich der A-Linien-Rock als verlässliche
 ## Worauf du achten solltest
 
 - **Die Materialwahl bestimmt den Stand:** Schwere, strukturierte Stoffe wie Denim, festes Leder, Schurwolle oder Jacquard betonen die geometrische A-Form besonders prägnant und sorgen für einen modernen, architektonischen Look. Leichte, fließende Materialien wie Seide, Viskose, Satin oder feiner Feinstrick umspielen die Hüften sanft und erzeugen eine weichere, femininere Linienführung.
-- **Die optimale Saumlänge definieren:** Ob Mini, Midi oder Maxi – für ein harmonisches Gesamtbild sollte der Saum des Rocks idealerweise an einer der schmaleren Stellen deiner Beine enden (beispielsweise knapp über dem Knie oder an der schmalsten Stelle der Wade).
+- **Die optimale Saumlänge definieren:** Ob Mini, Midi oder Maxi, für ein harmonisches Gesamtbild sollte der Saum des Rocks idealerweise an einer der schmaleren Stellen deiner Beine enden (beispielsweise knapp über dem Knie oder an der schmalsten Stelle der Wade).
 - **Der perfekte Sitz an Taille und Hüfte:** Der Rock sollte an der schmalsten Stelle des Oberkörpers (High-Waist) bequem aufliegen. Dies definiert die Körpermitte optimal, ohne einzuengen oder beim Gehen und Sitzen unangenehm zu verrutschen.
 - **Proportionen geschickt ausgleichen:** Da der Schnitt nach unten hin an Weite gewinnt, harmonieren dazu besonders gut körpernahe Oberteile, feine Strickpullover oder fließende Blusen, die mithilfe von Styling-Techniken wie dem „French Tuck“ lässig in den Bund gesteckt werden.
 

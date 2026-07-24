@@ -27,11 +27,11 @@ In der Modewelt werden die Begriffe **Bandeau-Top** und **Tube-Top** (Schlauch-T
 
 ## Einfach erklärt
 
-Das Bandeau-Top verzichtet vollständig auf Träger oder Ärmel. Seine obere Schnittkante verläuft quer über die Brust, wodurch die gesamte Schulterpartie sowie der Nackenbereich frei bleiben. Diese optische Reduktion lenkt den Fokus auf das Schlüsselbein und die Halspartie. Dadurch wirkt das Top luftig, feminin und – je nach Material und Styling – sportlich-lässig bis elegant-abendtauglich.
+Das Bandeau-Top verzichtet vollständig auf Träger oder Ärmel. Seine obere Schnittkante verläuft quer über die Brust, wodurch die gesamte Schulterpartie sowie der Nackenbereich frei bleiben. Diese optische Reduktion lenkt den Fokus auf das Schlüsselbein und die Halspartie. Dadurch wirkt das Top luftig, feminin und, je nach Material und Styling, sportlich-lässig bis elegant-abendtauglich.
 
 ## Warum das Bandeau-Top wichtig ist
 
-Aus modehistorischer und gestalterischer Sicht ist das Bandeau-Top ein faszinierendes Lehrstück für Schnittführung und Proportion. Es zeigt eindrucksvoll, wie eine einzelne, kompromisslose horizontale Linie die Wahrnehmung des gesamten Körpers verändern kann. Die freie Schulterpartie streckt optisch den Hals und öffnet die Silhouette nach oben hin, während die gerade Kante das Auge im Querformat führt. Je nach Länge des Tops und der Bundhöhe des kombinierten Unterteils lässt sich die freigelegte Hautfläche präzise steuern – von einem subtilen Blitzen der Taille bis zum vollflächigen Sommer-Look.
+Aus modehistorischer und gestalterischer Sicht ist das Bandeau-Top ein faszinierendes Lehrstück für Schnittführung und Proportion. Es zeigt eindrucksvoll, wie eine einzelne, kompromisslose horizontale Linie die Wahrnehmung des gesamten Körpers verändern kann. Die freie Schulterpartie streckt optisch den Hals und öffnet die Silhouette nach oben hin, während die gerade Kante das Auge im Querformat führt. Je nach Länge des Tops und der Bundhöhe des kombinierten Unterteils lässt sich die freigelegte Hautfläche präzise steuern, von einem subtilen Blitzen der Taille bis zum vollflächigen Sommer-Look.
 
 **Ein Blick in die Modegeschichte:**
 Die Wurzeln des bandförmigen Brustbandes reichen bis in die griechisch-römische Antike zurück, wo Frauen beim Sport das sogenannte _Apodesmos_ oder _Strophium_ trugen. In der modernen Modegeschichte erlebte das Bandeau in den 1940er-Jahren als zweiteiliger Badeanzug ein großes Comeback. Zum modischen Must-have im Alltag avancierte es in den 1970er-Jahren (oft als farbenfrohes Tube-Top) sowie zur Jahrtausendwende im Zuge des Y2K-Minimalismus, geprägt durch Stilikonen der Popkultur und wegweisende Designer-Kollektionen.
@@ -51,7 +51,7 @@ Bei der Auswahl eines Bandeau-Tops steht die Balance zwischen sicherem Halt und 
 ## So nutzt du den Begriff praktisch
 
 - **Bewegungstest machen:** Hebe bei der Anprobe die Arme, beuge dich nach vorn und gehe einige Schritte. Das Top sollte sich elastisch mitbewegen, ohne tiefer zu rutschen.
-- **Silikonbündchen prüfen:** Achte beim Kauf auf innenliegende Silikonstreifen. Sie haften auf der Haut und verhindern das Herabgleiten – teste vorab, ob deine Haut sensibel auf das Material reagiert.
+- **Silikonbündchen prüfen:** Achte beim Kauf auf innenliegende Silikonstreifen. Sie haften auf der Haut und verhindern das Herabgleiten, teste vorab, ob deine Haut sensibel auf das Material reagiert.
 - **Rundumblick nutzen:** Kontrolliere im Spiegel die Silhouette von der Seite und von hinten. Drückt das Top im Achselbereich oder am Rücken unschön ein?
 - **Bundhöhe abstimmen:** Probiere das Top direkt mit der Hose oder dem Rock an, mit dem du es kombinieren möchtest. High-Waist-Schnitte harmonieren besonders gut mit kurzen Bandeaus.
 - **Layering im Blick behalten:** Plane vorab, ob du eine Jacke, ein Hemd oder eine Strickjacke darüber tragen möchtest, um die Ausschnittkanten perfekt darauf abzustimmen.
@@ -76,7 +76,7 @@ Das ist ein weitverbreiteter Irrglaube, der oft zu Unbehagen führt. Physikalisc
 
 ## ESKYNA-Merksatz
 
-Beim Bandeau-Top sorgt eine durchdachte Konstruktion für den Halt – reine Enge ist kein Ersatz für eine gute Passform.
+Beim Bandeau-Top sorgt eine durchdachte Konstruktion für den Halt, reine Enge ist kein Ersatz für eine gute Passform.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

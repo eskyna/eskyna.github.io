@@ -24,11 +24,11 @@ Man kann sich den Ballonrock wie eine weiche Welle vorstellen, deren unterer Ran
 
 In der Modegeschichte steht der Ballonrock für die Emanzipation skulpturaler Formen und die Befreiung von strengen Linien. Seine Ursprünge reichen in die 1950er-Jahre zurück: Haute-Couture-Pioniere wie **Pierre Cardin** (der 1954 das legendäre „Bubble Dress“ entwarf) und **Christian Dior** revolutionierten mit dieser fließenden, runden Silhouette die Nachkriegsmode.
 
-In den glamourösen **1980er-Jahren** feierte der Ballonrock ein fulminantes Comeback durch Designer wie Christian Lacroix und wurde – nicht zuletzt durch Stilikonen wie Prinzessin Diana – zum ultimativen Statement-Piece der Abendgarderobe. Heute, im Zuge des Y2K-Revivals und dem Trend zu avantgardistischen Silhouetten, ist der Bubble Skirt wieder fester Bestandteil der High-Fashion und des Premium-Streetstyles. Wer den Begriff und seine Konstruktion versteht, vermeidet Fehlkäufe und setzt das Volumen gezielt für die eigene Silhouette ein.
+In den glamourösen **1980er-Jahren** feierte der Ballonrock ein fulminantes Comeback durch Designer wie Christian Lacroix und wurde, nicht zuletzt durch Stilikonen wie Prinzessin Diana, zum ultimativen Statement-Piece der Abendgarderobe. Heute, im Zuge des Y2K-Revivals und dem Trend zu avantgardistischen Silhouetten, ist der Bubble Skirt wieder fester Bestandteil der High-Fashion und des Premium-Streetstyles. Wer den Begriff und seine Konstruktion versteht, vermeidet Fehlkäufe und setzt das Volumen gezielt für die eigene Silhouette ein.
 
 ## Blick aus der Beratung
 
-In der professionellen Stilberatung ist der Ballonrock ein optisches Werkzeug mit großer Wirkung. Er lenkt den Fokus automatisch auf die Beine und die Taille. Wir nutzen dieses Kleidungsstück gezielt, um eine dramatische **Sanduhr-Silhouette** zu kreieren oder um eine sehr gerade Statur optisch femininer und kurviger wirken zu lassen. Die Kunst im Alltag besteht darin, das Volumen des Rockes so auszubalancieren, dass der Look harmonisch, elegant und modern wirkt – und niemals verkleidet.
+In der professionellen Stilberatung ist der Ballonrock ein optisches Werkzeug mit großer Wirkung. Er lenkt den Fokus automatisch auf die Beine und die Taille. Wir nutzen dieses Kleidungsstück gezielt, um eine dramatische **Sanduhr-Silhouette** zu kreieren oder um eine sehr gerade Statur optisch femininer und kurviger wirken zu lassen. Die Kunst im Alltag besteht darin, das Volumen des Rockes so auszubalancieren, dass der Look harmonisch, elegant und modern wirkt, und niemals verkleidet.
 
 ## Praktische Anwendung und Stylinghinweise
 

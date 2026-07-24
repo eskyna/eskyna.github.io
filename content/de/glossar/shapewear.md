@@ -2,7 +2,7 @@
 title: "Was ist Shapewear, und wie sitzt sie richtig?"
 term: "Shapewear"
 description: "Was ist Shapewear und welches Modell passt unter Kleid, Rock oder Hose? Stärke, Passform, sichtbare Kanten und Komfort im Überblick."
-category: "Dessous, BH & Styling-Helfer"
+category: "Garderobe & Alltag"
 slug: "shapewear"
 seoTitle: "Shapewear: Passform, Stärke und Anwendung | ESKYNA"
 image: "images/glossar/shapewear.png"
