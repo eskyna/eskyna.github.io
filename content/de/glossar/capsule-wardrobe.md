@@ -77,73 +77,75 @@ consulting_focus:
 
 ## Definition
 
-**Capsule Wardrobe**: Eine Capsule Wardrobe ist eine bewusst zusammengestellte Auswahl an Kleidungsstücken, die sich vielseitig kombinieren lassen. Sie basiert auf einer klaren Farblogik, passenden Silhouetten und Teilen, die wirklich zu deinem Alltag passen.
+Die **Capsule Wardrobe** (deutsch: „Kapsel-Garderobe“) bezeichnet eine systematisch und bewusst zusammengestellte Auswahl an Kleidungsstücken, die sich durch eine hohe funktionale und ästhetische Kompatibilität auszeichnen. Dieses Konzept basiert auf einer harmonischen Farblogik, präzise abgestimmten Silhouetten und einer klaren Ausrichtung auf den tatsächlichen Alltag der tragenden Person. Ziel dieser [Garderobenlogik](/glossar/garderobenlogik/) ist es, mit einer minimalen Anzahl an Textilien ein Maximum an stilvollen Outfit-Kombinationen zu kreieren und Fehlkäufe konsequent zu vermeiden.
 
 ## Einfach erklärt
 
-Eine Capsule Wardrobe bedeutet nicht, nur noch wenige neutrale Basics zu tragen. Sie kann weich, farbig, elegant, sportlich oder kreativ sein. Entscheidend ist, dass die Teile miteinander sprechen und mehrere Outfit-Möglichkeiten ergeben. Dabei ist ein starkes [Basic](/glossar/basic/) oft der ruhigste Hebel für mehr Kombinierbarkeit.
+Eine Capsule Wardrobe bedeutet keineswegs, sich modisch einzuschränken oder nur noch neutrale, farblose Kleidung zu tragen. Sie kann sportlich, elegant, kreativ, farbenfroh oder weich fließend gestaltet sein. Der Kern des Konzepts liegt darin, dass alle Teile im Kleiderschrank harmonisch miteinander kommunizieren. Jedes einzelne Kleidungsstück erfüllt eine Funktion und lässt sich mühelos in mehrere Looks integrieren. Ein hochwertiges und perfekt sitzendes [Basic](/glossar/basic/) – wie ein klassisches T-Shirt, ein edler Feinstrickpullover oder eine gutsitzende Stoffhose – fungiert dabei als verlässliches Fundament, das auffälligere [Key-Pieces](/glossar/key-piece/) erdet und die Kombinationsvielfalt maximiert.
+
+**Historischer Hintergrund:** Der Begriff wurde in den 1970er-Jahren von Susie Faux geprägt, der Inhaberin der Londoner Boutique _Wardrobe_. Sie verstand darunter eine Kollektion aus wenigen, zeitlosen Essentials, die durch saisonale Stücke ergänzt werden. Eine breite gesellschaftliche Relevanz erlangte das Prinzip im Jahr 1985, als die Designerin Donna Karan ihre legendäre Kollektion „Seven Easy Pieces“ präsentierte. Sie bewies eindrucksvoll, dass sieben austauschbare Kleidungsstücke ausreichen, um eine berufstätige Frau stilvoll durch die gesamte Woche zu begleiten.
 
 ## Warum Capsule Wardrobe wichtig ist
 
-Die Capsule Idee ist stark, wenn du morgens weniger Entscheidungen treffen möchtest. Weniger Einzelteile bedeuten mehr Überblick. Gute Kombinationen entstehen schneller, Reisen wird leichter und Fehlkäufe fallen schneller auf, weil jedes neue Stück eine klare Aufgabe haben muss.
+In einer von Fast Fashion und flüchtigen Trends dominierten Modewelt bietet die Kapsel-Garderobe einen nachhaltigen Gegenentwurf. Sie reduziert die tägliche Entscheidungsmüdigkeit (_Decision Fatigue_) am Morgen drastisch: Wer eine strukturierte Auswahl besitzt, behält den Überblick und spart wertvolle Zeit. Zudem schont dieser bewusste Ansatz Ressourcen, fördert die Langlebigkeit von Textilien und schützt vor unüberlegten Impulskäufen. Da jedes neue Teil eine klar definierte Aufgabe erfüllen muss, gewinnt die gesamte Garderobe an Qualität und Kohärenz. Auch das Packen für Reisen wird durch die hohe Kombinierbarkeit der Einzelteile radikal vereinfacht.
 
 ## Blick aus der Beratung
 
-Bei ESKYNA geht es nicht um eine starre Zahl. Eine gute Capsule Wardrobe kann je nach Lebensphase größer oder kleiner sein. Wichtig sind die Rollen der Teile: Basis, Akzent, Anlass, Layering, Schuhe und Accessoires. Daraus entsteht eine Garderobe, die flexibel bleibt.
+Im Rahmen einer professionellen [Stilberatung](/glossar/garderobenlogik/) bei ESKYNA distanzieren wir uns von dogmatischen Mengenvorgaben wie der oft zitierten „37-Teile-Regel“. Eine funktionierende Capsule Wardrobe ist kein starres Konstrukt, sondern ein dynamisches System, das sich flexibel an deine aktuelle Lebensphase, deinen Beruf und deine persönliche Stil-Identität anpasst. Im Fokus steht die strategische Rollenverteilung im Kleiderschrank: Wir unterscheiden zwischen beruhigenden Basiselementen, charakterstarken Akzentstücken, funktionalen Layering-Teilen sowie den passenden Schuhen und Accessoires. So entsteht eine lebendige Vielfalt, die perfekt auf dich abgestimmt ist.
 
 ## So nutzt du den Begriff praktisch
 
-- Starte mit deinen echten Anlässen statt mit einer Idealzahl.
-- Definiere Basisfarben, Akzentfarben und passende Materialien.
-- Prüfe, ob jedes Teil mindestens drei Outfits unterstützen kann.
-- Ergänze erst dann neue Stücke, wenn die Lücke klar benannt ist.
+- **Anlässe analysieren:** Richte deine Garderobe nach deinen tatsächlichen alltäglichen Aktivitäten aus (z. B. Business, Freizeit, Reisen) statt nach theoretischen Idealszenarien.
+- **Farbpalette definieren:** Baue deine Auswahl auf zwei bis drei neutralen Basisfarben auf (z. B. Dunkelblau, Sand, Schwarz) und ergänze diese durch gezielte Akzentfarben, die deine Persönlichkeit unterstreichen.
+- **Die 3-Wege-Regel anwenden:** Integriere nur Kleidungsstücke in deine engere Auswahl, die sich in mindestens drei unterschiedliche [Outfit-Formeln](/glossar/outfit-formel/) übersetzen lassen.
+- **Präzise Lücken füllen:** Investiere erst dann in ein neues Kleidungsstück, wenn du eine funktionale Schwachstelle in deiner Kombination systematisch identifiziert hast.
 
 ## Beispiel aus dem Alltag
 
-Eine Capsule Wardrobe wird im Alltag spürbar, wenn du für eine Woche packst und plötzlich fast alles zusammenpasst. Zwei Hosen, ein Rock, drei Oberteile, eine Jacke und passende Schuhe ergeben mehrere Looks, weil Farben, Silhouetten und Anlässe vorher durchdacht wurden.
+Das Prinzip der Kapsel-Garderobe wird besonders beim Packen für eine einwöchige Reise spürbar: Wer seine Garderobe klug modularisiert hat, benötigt nur ein Minimum an Gepäck. Zwei Hosen, ein Rock, drei Oberteile, eine leichte Jacke und zwei Paar aufeinander abgestimmte Schuhe ergeben durch die konsequente Abstimmung von Farben, Materialien und Silhouetten problemlos über ein Dutzend unterschiedliche Looks für jeden Anlass.
 
 ## Wann Beratung sinnvoll wird
 
-Beratung ist hilfreich, wenn du Reduktion möchtest, aber Angst hast, langweilig auszusehen. Eine gute Capsule ist nicht karg. Sie zeigt deine Persönlichkeit in einer klareren Auswahl und lässt trotzdem Raum für Akzente, Schmuck, Muster oder besondere Materialien.
+Eine professionelle Stilberatung unterstützt dich genau dann, wenn der Wunsch nach Reduktion auf die Sorge stößt, fortan eintönig oder unscheinbar auszusehen. Eine exzellent kuratierte Capsule Wardrobe ist keineswegs karg oder unpersönlich. Durch das feine Zusammenspiel von unterschiedlichen Texturen (wie Seide, Schurwolle, Leder oder Leinen), edlen Accessoires, dezenten Mustern und individuellem Schmuck bringen wir deine Persönlichkeit klar strukturiert zum Ausdruck. Wir helfen dir dabei, den roten Faden für deinen Kleiderschrank zu finden.
 
 ## Typisches Missverständnis
 
-Capsule Wardrobe wird oft mit Minimalismus verwechselt. Minimalismus kann ein Ergebnis sein, muss es aber nicht. Entscheidend ist nicht die kleinste Menge, sondern die höchste Nutzbarkeit.
+Die Capsule Wardrobe wird häufig fälschlicherweise mit radikalem, farblosem Minimalismus gleichgesetzt. Minimalismus kann ein wunderbares Ergebnis dieses Systems sein, ist jedoch keine zwingende Voraussetzung. Entscheidend ist nicht die Erreichung einer möglichst geringen Stückzahl, sondern die Erzielung der maximalen Nutzbarkeit und Tragefreude jedes einzelnen Kleidungsstücks.
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-Eine Capsule Wardrobe ist konkreter als Garderobenlogik. Garderobenlogik beschreibt das System dahinter, die Capsule ist eine mögliche Form dieses Systems.
+Während der Begriff der **Garderobenlogik** die übergeordnete Theorie, die optische Systematik und die strukturelle Organisation des Kleiderschranks beschreibt, stellt die **Capsule Wardrobe** die konkrete, physische Umsetzung dieser Methodik dar. Sie ist das anwendbare, greifbare Ergebnis einer stringent gelebten Garderobenstruktur.
 
 ## Nächster Schritt
 
-Wenn du den Begriff auf deine Garderobe übertragen möchtest, findest du einen passenden Einstieg bei den [ESKYNA Angeboten](/angebote/).
+Wenn du das theoretische Konzept der Kapsel-Garderobe auf deine eigene Kleidung übertragen und eine harmonische Struktur etablieren möchtest, findest du den idealen, maßgeschneiderten Einstieg bei den [ESKYNA Angeboten](/angebote/).
 
 ## ESKYNA-Merksatz
 
-Eine Capsule Wardrobe ist gut, wenn sie deinen Alltag vereinfacht und trotzdem genug Persönlichkeit zulässt.
+Eine Capsule Wardrobe ist dann perfekt aufgestellt, wenn sie deinen Alltag spürbar erleichtert und deiner Persönlichkeit dennoch vollen modischen Spielraum lässt.
 
 <!-- commercial-depth-start -->
 
 ## Beratungssituation im echten Leben
 
-Eine Capsule Wardrobe ist nicht automatisch minimalistisch. Sie ist dann gut, wenn sie zu deinem Leben passt: Arbeitswoche, Freizeit, Reisen, Klima, Pflegeaufwand und persönlicher Stil müssen mitgedacht werden.
+Eine funktionierende Kapsel-Garderobe entsteht nicht am Reißbrett, sondern im echten Leben. In unseren Beratungen erleben wir täglich, dass starre Vorgaben aus dem Internet oft an der Realität scheitern. Eine alltagstaugliche Capsule Wardrobe muss wichtige Variablen wie den beruflichen Dresscode, Freizeitaktivitäten, das regionale Klima, den persönlichen Pflegeaufwand der Textilien sowie deine individuellen Stilvorlieben berücksichtigen. Nur so wird die Garderobe zu einer spürbaren Erleichterung im Alltag.
 
 ## Mini-Case: vom Zweifel zur Entscheidung
 
-Ein Mini-Case: Statt eine starre Liste mit 33 Teilen zu kopieren, werden vier echte Alltagssituationen definiert. Daraus entstehen wiederholbare Kombinationen: ein Business-Basislook, ein freier Wochenendlook, ein gepflegter Abendlook und ein unkomplizierter Reise-Layer.
+Eine Kundin stand vor der Herausforderung, ihren Kleiderschrank strukturieren zu wollen, fühlte sich jedoch durch standardisierte Online-Kataloge und strenge Limitierungen eingeengt. Anstatt eine vorgegebene Stückliste abzuarbeiten, definierten wir im ersten Schritt vier wiederkehrende Kernsituationen ihres Alltags. Durch die gezielte Auswahl vielseitiger Verbindungsstücke entstanden daraus vier perfekt reproduzierbare Looks: ein professioneller Business-Auftritt, ein entspannter Casual-Look für das Wochenende, ein eleganter Look für Abendveranstaltungen und ein funktionales Layering-Outfit für Reisen. Der Schrank wurde leerer, die Outfit-Optionen vielfältiger.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
-Weniger Teile so planen, dass mehr funktionierende Outfits entstehen. Nutze dafür einen kurzen Filter, bevor du kaufst, aussortierst oder ein Outfit für einen wichtigen Anlass planst.
+Nutze diesen schnellen, pragmatischen Filter, bevor du ein neues Kleidungsstück kaufst, ein altes aussortierst oder ein wichtiges Outfit planst:
 
-- Starte mit Situationen statt mit einer festen Stückzahl.
-- Lege zwei bis drei Basisfarben fest, die miteinander funktionieren.
-- Plane Übergangsteile, damit Outfits über mehrere Saisons tragbar bleiben.
-- Behalte Persönlichkeit durch Akzente, Muster oder besondere Details.
+- **Alltagsrelevanz:** Passt dieses Teil zu meinen realen Alltagssituationen der kommenden Wochen?
+- **Farbkompatibilität:** Harmoniert das Stück auf Anhieb mit meinen zwei bis drei definierten [neutralen Farben](/glossar/neutrale-farben/)?
+- **Saisonale Flexibilität:** Lässt sich das Kleidungsstück durch intelligentes Layering über mehrere Jahreszeiten hinweg tragen?
+- **Stilistische Signatur:** Spiegelt das Teil meine Persönlichkeit wider oder ist es lediglich ein temporärer Trend, der bald als [Fehlkauf](/glossar/fehlkauf/) endet?
 
 ## Woran du erkennst, dass du Unterstützung brauchst
 
-Unterstützung wird sinnvoll, wenn dein Kleiderschrank Aufwand erzeugt, statt dich zu entlasten. Vielleicht sind viele schöne Einzelteile vorhanden, aber sie ergeben zu wenige Outfits. Dann geht es nicht darum, radikal auszusortieren, sondern Verbindungen zu finden: Welche Teile tragen mehrere Situationen, welche fehlen als Brücke und welche Käufe würden das System nur wieder komplizierter machen?
+Professionelle Unterstützung ist dann sinnvoll, wenn dein Kleiderschrank trotz vieler schöner Einzelteile täglich Frustration erzeugt, weil sich die Stücke nicht zu stimmigen Outfits verbinden lassen. In diesem Fall geht es nicht darum, radikal und unüberlegt auszumisten. Vielmehr gilt es, die strategischen Bindeglieder in deiner Garderobe zu identifizieren. Wir helfen dir dabei, funktionale Lücken präzise aufzudecken, ungenutzte Potenziale zu aktivieren und ein verlässliches System aufzubauen, das künftige Fehlkäufe effektiv verhindert.
 
 <!-- commercial-depth-end -->
 

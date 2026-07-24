@@ -31,8 +31,15 @@ image: images/glossar/_index.png
 image_alt: "Glossar-Illustration zu Glossar"
 ---
 
-Das ESKYNA Glossar ist dein Nachschlagewerk für Stilwissen. Es erklärt Begriffe aus Stilberatung, Farbtheorie, Schnitt, Materialien, Dresscodes und Garderobenplanung. Nicht als trockenes Lexikon, sondern als praktische Orientierung für echte Stilentscheidungen.
+Das ESKYNA Glossar ist dein digitales Nachschlagewerk für fundiertes Stilwissen, Modegeschichte und textile Expertise. Von klassischen Dresscodes über komplexe Farbtheorien der Stilberatung bis hin zu präziser Schnittführung und Materialkunde: Hier findest du keine trockenen Definitionen, sondern praxistaugliches Hintergrundwissen für deine täglichen Stilentscheidungen. Denn wahrer Stil basiert auf Verständnis – nicht auf Trends.
 
-Nutze das Glossar, wenn du verstehen möchtest, warum eine Farbe dich klarer wirken lässt, warum ein Schnitt nicht richtig sitzt, welche Details ein Outfit hochwertiger machen oder wie du aus Einzelteilen eine stimmige Garderobe entwickelst.
+Die Sprache der Mode hat eine faszinierende Entwicklung hinter sich. Viele unserer heutigen Stilbegriffe wurzeln in der französischen Haute Couture des 19. Jahrhunderts oder der traditionellen britischen Herrenschneiderei der Savile Row. Dieses Modeglossar verbindet diese modehistorischen Ursprünge mit moderner Garderobenplanung und Stoffkunde. Es hilft dir, die feinen Unterschiede zwischen verschiedenen Gewebearten, Passformen und Stilrichtungen mühelos zu entschlüsseln.
+
+Nutze dieses Glossar als deinen persönlichen Stilratgeber, wenn du:
+
+- **Farbe und Wirkung verstehen willst:** Lerne, wie Untertöne und Kontraste deine Ausstrahlung unterstützen.
+- **Passformen optimieren möchtest:** Verstehe die Anatomie von Schnitten und wie Proportionen visuell harmonieren.
+- **Fehlkäufe vermeiden willst:** Erkenne die wichtigsten Qualitätsmerkmale hochwertiger Materialien und Textilien.
+- **Deine Garderobe strukturieren möchtest:** Erfahre, wie du eine funktionale Capsule Wardrobe aufbaust, die perfekt zu deinem Alltag passt.
 
 **Wähle deinen Einstieg: alphabetisch, nach Kategorie, nach Relevanz oder über eine konkrete Stilfrage.**

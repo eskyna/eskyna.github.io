@@ -40,46 +40,48 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-Eine **Bundfaltenhose** hat eine oder mehrere Falten, die vom Bund aus nach unten laufen. Diese Falten geben der Hose mehr Weite im oberen Bereich und sorgen für einen eleganten Fall.
+Die **Bundfaltenhose** ist ein absoluter Klassiker der Schneiderkunst. Doch **was ist eine Bundfaltenhose** genau? Es handelt sich um eine Hose, die sich durch eine oder mehrere permanent eingelegte Stofffalten (auch Pli genannt) direkt unterhalb des vorderen Bundes auszeichnet. Diese Falten laufen senkrecht nach unten und gehen im weiteren Verlauf oft in eine scharf gebügelte Bügelfalte über. Durch diese clevere Konstruktion entsteht im Hüft-, Schritt- und Gesäßbereich eine funktionale Weite, die für einen erstklassigen [Materialfall](/glossar/materialfall/) sowie einen unvergleichlichen Tragekomfort sorgt.
 
 ## Einfach erklärt
 
-Bundfaltenhosen wirken oft gepflegter als Jeans oder [Chinos](/glossar/chinos/), aber weniger streng als klassische Anzughosen, wenn sie weich gestylt werden. Sie können gerade, weit oder zum Saum hin schmaler geschnitten sein.
-Die Falten sind kein rein dekoratives Detail. Sie schaffen Raum für Bewegung und verändern die Silhouette.
+Im Gegensatz zu flach anliegenden Modellen (Flat-Front-Hosen) bietet die Bundfaltenhose durch ihre charakteristischen Falten – meist eine bis zwei pro Seite – spürbar mehr Bewegungsfreiheit. Historisch gesehen erlebte diese Hosenform ihre erste große Blütezeit in der klassischen Herrenmode der 1920er- und 1930er-Jahre und wurde im Zuge des Power Dressings der 1980er-Jahre zu einem geschlechterübergreifenden Modestatement.
+
+Heute zeigt sich die Hose äußerst vielseitig: Sie kann gerade, extra weit (Wide Leg) oder als Karottenhose (Tapered Fit) zum Saum hin schmaler zulaufen. Hochwertige Materialien wie leichte Schurwolle, edle Gabardine, fließende Viskose-Mischungen oder sommerliches Leinen bestimmen, wie elegant oder lässig die Silhouette fällt. Damit schließt sie stilistisch die Lücke zwischen entspannten [Chinos](/glossar/chinos/) und der klassischen [Anzughose](/glossar/anzughose/).
 
 ## Warum dieser Begriff wichtig ist
 
-Bundfaltenhosen sind wichtig, weil sie Komfort und Eleganz verbinden können. Sie eignen sich besonders für Business Casual, Smart Casual und hochwertige Alltagslooks.
+Die Bundfaltenhose ist ein modischer Wendepunkt, weil sie beweist, dass ergonomischer Komfort und maßgeschneiderte Eleganz keine Gegensätze sein müssen. In modernen Dresscodes wie [Business Casual](/glossar/business-casual/) und [Smart Casual](/glossar/smart-casual/) spielt sie eine Schlüsselrolle. Sie strukturiert die gesamte Silhouette, verleiht minimalistischen Outfits optische Tiefe und bricht die Monotonie flacher Vorderhosen auf. Wer die Dynamik der Bundfalte versteht, kann Proportionen gezielt ausbalancieren.
 
 ## Worauf du achten solltest
 
-- Die Falten sollten ruhig fallen und nicht aufspringen.
-- Ein hochwertiger Stoff macht den Unterschied.
-- Mit T-Shirt wird die Hose moderner. Mit Bluse wirkt sie klassischer.
-- Die Saumlänge sollte sauber auf den Schuh abgestimmt sein.
+- **Die perfekte Passform:** Die Falten müssen im Stand flach und senkrecht nach unten fallen. Springen sie auf oder ziehen sie sich in die Breite, ist die Hose im Hüftbereich zu eng gewählt.
+- **Hochwertige Stoffqualität:** Nur ein Material mit exzellentem Fall garantiert, dass die Falten ihre Struktur behalten, ohne unerwünscht aufzubauschen.
+- **Die Bundfaltenhose kombinieren:** Für einen modernen Kontrast lässt sich die **Bundfaltenhose kombinieren** mit einem cleanen [T-Shirt](/glossar/t-shirt/) und Sneakern. Wer es klassisch und formell wünscht, greift zu Feinstrick, einer edlen Bluse und geschlossenen Lederschuhen.
+- **Leibhöhe und Bundhöhe:** High-Waist-Schnitte betonen die Taille besonders vorteilhaft und verlängern das Bein optisch, während tiefer sitzende Hüftmodelle eine maskulinere, lässigere Attitude transportieren.
+- **Die Saumlänge:** Der Hosensaum sollte je nach Fußweite entweder sanft auf dem Spann des Schuhs aufliegen (Schnitt mit leichtem Knick) oder bei verkürzten Modellen knapp über dem Knöchel enden.
 
 ## Typische Missverständnisse
 
-**Missverständnis:** Bundfalten tragen immer auf.  
-**Besser:** Wenn Schnitt, Stoff und Größe stimmen, fallen die Falten ruhig und geben Struktur.
+**Missverständnis:** Bundfalten tragen optisch immer auf und machen breit.  
+**Besser:** Das Gegenteil ist der Fall, wenn die Größe stimmt. Eine korrekt sitzende Bundfalte streckt den Körper durch die vertikale Linie, kaschiert eine kräftigere Hüftpartie und sorgt für eine fließende, harmonische Silhouette.
 
-**Missverständnis:** Bundfaltenhosen sind nur Businesskleidung.  
-**Besser:** Mit Sneaker, Strick oder T-Shirt wirken sie entspannt und zeitgemäß.
+**Missverständnis:** Bundfaltenhosen sind verstaubt und gehören nur ins formelle Büro.  
+**Besser:** Die zeitgenössische Modewelt nutzt sie als progressives Keypiece. Richtig gestylt – etwa als Oversized-Variante mit sportivem Bruch – ist sie absolut alltagstauglich, urban und modern.
 
 ## ESKYNA-Merksatz
 
-Die Bundfalte ist kein altmodisches Detail. Sie ist Raum, Fall und Haltung in einer Hose.
+Die Bundfalte ist kein Relikt der Vergangenheit, sondern gelebte Schneiderkunst: Sie schenkt der Silhouette Raum, dem Stoff eleganten Fall und dem gesamten Auftreten souveräne Haltung.
 
 ## Praxischeck
 
-Wenn du den Begriff **Bundfaltenhose** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+Wenn du das Konzept der **Bundfaltenhose** auf ein Outfit überträgst, betrachte sie als funktionales Bindeglied deines persönlichen Stils. Sie funktioniert hervorragend als Brücke zwischen formell und leger.
 
-- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
-- Achte auf Wiederholungen in Farbe, Material und Silhouette.
-- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+- **Kombinationstest:** Kannst du die Hose sofort mit mindestens drei vorhandenen Oberteilen (z. B. einem [T-Shirt](/glossar/t-shirt/), einem Feinstrickpullover und einem Hemd) stilsicher kombinieren?
+- **Proportionen-Check:** Setzt du auf ein weit geschnittenes Modell, wähle ein figurbetonteres Oberteil, um die Silhouette optisch auszubalancieren.
+- **Materialharmonie:** Achte darauf, dass die Textur der Hose (z. B. matte Wolle) mit der Struktur deiner Schuhe und Jacken harmoniert.
 
 ## Beratungsblick
 
-In der Beratung ist **Bundfaltenhose** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+In der professionellen Stilberatung ist die **Bundfaltenhose** weit mehr als ein klassisches Kleidungsstück – sie ist ein echtes Werkzeug zur optischen Modellierung von Proportionen. Sie verleiht sehr schmalen Silhouetten subtiles Volumen und schenkt kurvigen Linien elegant fließenden Raum. Entscheidend ist nicht der vergängliche Trend, sondern wie das Kleidungsstück mit deiner individuellen Körperform und deiner täglichen Bewegung interagiert.
 
 Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).

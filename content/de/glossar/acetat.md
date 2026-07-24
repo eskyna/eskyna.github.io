@@ -23,21 +23,31 @@ lastmod: "2026-07-18"
 
 ## Definition
 
-Acetat wird aus chemisch veränderter Cellulose hergestellt und gehört zu den Chemiefasern. Es erinnert optisch häufig an [Seide](/glossar/seide/), nimmt jedoch weniger Feuchtigkeit auf und reagiert empfindlicher auf Hitze als viele Naturfasern.
+Acetat (chemisch präzise: Celluloseacetat) ist eine halbsynthetische Chemiefaser, die auf dem natürlichen Rohstoff Cellulose basiert. Modehistorisch gilt sie als eine der ersten klassischen Alternativen zu teurer Naturseide. Durch die chemische Verbindung von Cellulose (gewonnen aus Holzschliff oder Baumwoll-Linters) mit Essigsäure entsteht eine thermoplastische Faser. Sie imitiert optisch und haptisch die luxuriösen Eigenschaften von [Seide](/glossar/seide/), weist jedoch eine geringere Feuchtigkeitsaufnahme auf und reagiert deutlich empfindlicher auf Hitze sowie organische Lösungsmittel.
 
 ## Einfach erklärt
 
-Acetat begegnet dir vor allem bei Futterstoffen, Kleidern, Blusen und festlicher Mode. Das Material kann Farben brillant zeigen, fällt weich und lädt sich je nach Verarbeitung statisch auf. Es ist nicht dasselbe wie [Viskose](/glossar/viskose/): Beide basieren auf Cellulose, werden aber unterschiedlich hergestellt und verhalten sich anders. Für die Wirkung sind vor allem [Glanzgrad](/glossar/glanzgrad/) und [Materialfall](/glossar/materialfall/) entscheidend.
+Wer sich fragt „Was ist Acetat?“, stößt schnell auf den Begriff der „Kunstseide“. Acetat ist ein faszinierendes Hybridmaterial, das die Brücke zwischen natürlichen Pflanzenfasern und moderner Textiltechnologie schlägt. Es ist nicht identisch mit [Viskose](/glossar/viskose/): Zwar nutzen beide Cellulose als Basis, doch durch die Acetylierung (die Behandlung mit Essigsäure) erhält Acetat völlig eigenständige Eigenschaften.
+
+In der Modewelt wird der Stoff vor allem für seinen eleganten [Glanzgrad](/glossar/glanzgrad/) und seinen fließenden, geschmeidigen [Materialfall](/glossar/materialfall/) geschätzt. Typische Einsatzgebiete sind:
+
+- **Hochwertige Futterstoffe:** In Sakkos, Mänteln und Anzügen sorgt Acetat-Futter dafür, dass das Kleidungsstück sanft über die Haut oder darunterliegende Kleidungsschichten gleitet.
+- **Festliche Garderobe:** Abendkleider, Cocktailkleider und glänzende Blusen profitieren von der brillanten Farbwiedergabe des Materials.
+- **Accessoires:** Schals, Krawatten und Tücher erhalten durch die Faser einen seidenähnlichen Griff.
+
+Ein großer Vorteil des Materials ist seine Formbeständigkeit und Knitterresistenz. Zudem trocknet der Stoff extrem schnell. Auf der Kehrseite neigt die Faser bei trockener Luft zu elektrostatischer Aufladung.
 
 ## Worauf du achten solltest
 
-- Prüfe das Pflegeetikett, denn hohe Bügeltemperaturen können die Faser beschädigen.
-- Achte auf [Atmungsaktivität](/glossar/atmungsaktivitaet/) und statische Aufladung, besonders bei körpernahen [Bodycon](/glossar/bodycon/) Kleidungsstücken.
-- Beurteile Glanz und Griff: Sehr dünnes Acetat kann schnell künstlich wirken.
+- **Vorsicht beim Bügeln:** Als thermoplastische Faser schmilzt Acetat unter direkter, hoher Hitze. Bügle Kleidungsstücke daher immer nur auf kleinster Stufe, von links und idealerweise mit einem feuchten Bügeltuch als Schutz.
+- **Vermeide Lösungsmittel:** Acetat ist löslich in Aceton. Achte penibel darauf, dass der Stoff nicht mit Nagellackentferner oder scharfen Fleckenmitteln in Berührung kommt, da sich die Fasern sonst buchstäblich auflösen.
+- **Tragekomfort prüfen:** Die Faser besitzt eine geringere [Atmungsaktivität](/glossar/atmungsaktivitaet/) als Naturfasern. Bei eng anliegenden Schnitten wie [Bodycon](/glossar/bodycon/) Kleidern kann dies an warmen Tagen zu einem feuchten Tragegefühl führen.
+- **Pflegekennzeichnung beachten:** Viele Acetat-Textilien vertragen keine Maschinenwäsche und müssen chemisch gereinigt oder besonders schonend von Hand gewaschen werden.
+- **Qualitäts-Check:** Hochwertiges Acetat zeichnet sich durch einen kühlen, schweren Griff und einen seidig-matten Schimmer aus. Billigere Produktionen wirken oft dünn, knistern stark und haben einen unnatürlichen, speckigen Glanz.
 
 ## Typisches Missverständnis
 
-Acetat ist keine Naturseide und auch nicht automatisch minderwertig. Entscheidend sind Stoffdichte, Verarbeitung und der passende Einsatz.
+Ein weitverbreitetes Vorurteil besagt, dass Acetat eine billige, minderwertige Synthetikfaser wie minderwertiges Polyester sei. Das stimmt nicht. Acetat ist eine veredelte Regeneratfaser mit langer Tradition, die in der Haute Couture und der gehobenen Konfektion ganz gezielt wegen ihrer spezifischen Ästhetik eingesetzt wird. Sie bietet die optischen Vorzüge von echter Seide, ist jedoch unempfindlicher gegenüber Wasserflecken und deutlich formstabiler. Auch außerhalb der Textilbranche – etwa für hochwertige, handgearbeitete Brillenrahmen in edler Horn- oder Schildpatt-Optik – ist Celluloseacetat das absolute Premium-Material der Wahl.
 
 ## ESKYNA-Merksatz
 

@@ -33,29 +33,36 @@ lastmod: "2026-07-17"
 
 ## Kurzdefinition
 
-**Art Deco Evening** oder **Neo Deco** beschreibt einen Abendstil mit geometrischer Klarheit, luxuriösen Oberflaechen und eleganter Dramaturgie.
+Der Dresscode **Art Deco Evening** (auch bekannt als **Neo Deco**) beschreibt eine elegante Abendmode, die sich durch geometrische Klarheit, luxuriöse Texturen, metallischen Glanz und eine ausdrucksstarke, architektonische Linienführung auszeichnet.
 
 ## Was bedeutet Art Deco Evening?
 
-Inspiriert von den 1920er- und 1930er-Jahren lebt der Look von Linie, Licht und Struktur. Typisch sind Samt, Satin, Fransen, Perlen, Metallic-Akzente, [Statement-Schmuck](/glossar/statement-schmuck/) und klare Silhouetten.
+Die moderne Stilrichtung **Art Deco Evening** transportiert die glamouröse Ästhetik der 1920er- und 1930er-Jahre in die Gegenwart. Historisch wurzelt dieser Look im _Art Déco_ – einer Epoche, die nach der Pariser Weltausstellung von 1925 (_Exposition Internationale des Arts Décoratifs et Industriels Modernes_) die Designwelt revolutionierte. Im Gegensatz zum floralen Jugendstil setzte das Art Déco auf Symmetrie, technologischen Fortschritt, klare Linien und maschinenartige Geometrie.
 
-Die moderne Version braucht keinen kompletten Gatsby-Look. Oft reicht ein starkes Detail, damit der Stil hochwertig und aktuell wirkt.
+Für das zeitgemäße **Neo Deco Styling** bedeutet dies eine Abkehr vom reinen, verspielten Glitzer hin zu einer strukturierten Opulenz. Typische Merkmale dieses Looks sind:
+
+- **Fließende, klare Silhouetten:** Schmale Column Dresses (Säulenkleider), elegante Hosenanzüge oder fließende Schnitte, die an die Stromlinien-Ästhetik der Ära erinnern.
+- **Luxuriöse Materialien:** Schwerer [Samt](/glossar/samt/), fließender [Satin](/glossar/satin/), feine Seide und Brokat bilden die textile Basis.
+- **Geometrischer Glamour:** Symmetrische Paillettenmuster, lineare Perlenstickereien, Fransen und markanter [Statement-Schmuck](/glossar/statement-schmuck/) mit klaren Kanten (wie Baguette-Schliffe und Trapezformen).
+- **Metallische Akzente:** Farbpaletten, die von Gold, Silber, Bronze und tiefen Juwelentönen dominiert und durch [Metallic](/glossar/metallic/)-Effekte veredelt werden.
+
+Die Kunst des modernen Art Deco Evening liegt darin, den Look nicht wie ein historisches Kostüm wirken zu lassen. Statt eines plakativen "Flapper-Kleids" im Gatsby-Stil wird die Epoche heute dekonstruiert: Schon ein einziges, starkes grafisches Element verleiht der klassischen [Abendgarderobe](/glossar/abendgarderobe/) eine anspruchsvolle, avantgardistische Note.
 
 ## ESKYNA-Extra: Der Deco-Code
 
-Nutze drei Bausteine:
+Um den Look stilsicher und modern zu interpretieren, hilft die Formel der drei gestalterischen Bausteine:
 
-1. eine klare Linie
-2. ein Lichtfänger
-3. ein dunkler Rahmen
+1.  **Eine klare Linie:** Eine minimalistische, fließende Silhouette als Fundament (z. B. ein weites Seidenkleid oder ein scharf geschnittener Tuxedo).
+2.  **Ein Lichtfänger:** Ein markantes Detail, das das Licht reflektiert (z. B. Pailletten-Applikationen, Lurex-Nähte oder geometrischer Schmuck).
+3.  **Ein dunkler Rahmen:** Kontraste, die dem Ensemble optische Tiefe verleihen (z. B. tiefes Schwarz, sattes Smaragdgrün oder edles Nachtblau).
 
-Beispiel: schwarzes Kleid, grafische Ohrringe, Metallic-Clutch.
+**Beispiel:** Ein schlichtes, schwarzes Maxikleid aus Satin, kombiniert mit grafischen Ohrringen und einer strukturierten Metallic-Clutch.
 
 **ESKYNA-Satz:** Neo Deco ist Glamour, der nicht funkelt, sondern konstruiert ist.
 
 ## Styling-Tipp
 
-Wähle genau ein auffälliges Deco-Element und halte den Rest reduziert. So wirkt der Abendlook edel statt überinszeniert.
+Setze auf ein einziges, dominantes Key-Piece – wie eine aufwendig bestickte Jacke, eine Clutch mit grafischem Muster oder ein Paar skulpturale Ohrringe – und halte das restliche Outfit sowie das Make-up bewusst puristisch. So verhinderst du den Kostüm-Effekt und kreierst einen Abendlook von zeitloser, moderner Eleganz.
 
 ## Verwandte Begriffe
 
