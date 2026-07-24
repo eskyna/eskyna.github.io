@@ -11,7 +11,7 @@ keywords:
   - blickführung
   - was bedeutet blickführung
   - blickführung stilberatung
-  weight: 1
+weight: 1
 image: images/glossar/blickfuehrung.png
 image_alt: Editoriale Glossar-Grafik zu Blickführung mit ruhigen Farbfeldern und feiner Linienführung
 relatedTerms:

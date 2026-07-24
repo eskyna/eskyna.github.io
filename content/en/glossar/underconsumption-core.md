@@ -4,7 +4,7 @@ term: Underconsumption Core
 description: Underconsumption Core emphasizes conscious use of existing pieces over constant new purchases.
 category: Styling Principles
 slug: underconsumption-core
-seoTitle: "Underconsumption Core: Conscious Styling with Existing Pieces | ESKYNA"
+seoTitle: "Underconsumption Core: Buy Less, Wear More | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

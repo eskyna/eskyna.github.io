@@ -4,7 +4,7 @@ term: Puddle Pants
 description: Puddle Pants are extra-long trousers that intentionally pool over the shoe.
 category: Silhouette & Proportion
 slug: puddle-pants
-seoTitle: "Puddle Pants: Extra-Long Trouser Silhouette Explained | ESKYNA"
+seoTitle: "Puddle Pants: Extra-Long Trousers | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

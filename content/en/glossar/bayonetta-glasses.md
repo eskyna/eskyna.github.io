@@ -4,7 +4,7 @@ term: Bayonetta Glasses
 description: Bayonetta Glasses are narrow statement frames with a smart and strict visual edge.
 category: Accessories
 slug: bayonetta-glasses
-seoTitle: "Bayonetta Glasses: Narrow 2000s-Inspired Statement Frames | ESKYNA"
+seoTitle: "Bayonetta Glasses: Slim Statement Frames | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

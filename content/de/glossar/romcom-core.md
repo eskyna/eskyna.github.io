@@ -4,7 +4,7 @@ term: Romcom Core
 description: Romcom Core interpretiert die verspielte 90s und 2000s Filmnostalgie für heute.
 category: Stil & Wirkung
 slug: romcom-core
-seoTitle: "Romcom Core: 90s Filmnostalgie alltagstauglich tragen | ESKYNA"
+seoTitle: "Romcom Core: 90s-Nostalgie modern tragen | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

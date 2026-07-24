@@ -16,7 +16,7 @@ keywords:
   - was bedeutet a-linie
   - a-linien kleid
   - a-linien rock
-  weight: 6
+weight: 6
 image: images/glossar/a-linie.png
 image_alt: Editoriale Grafik mit stilisierter A-Linie als Kleidform und feinen Proportionslinien
 relatedTerms:

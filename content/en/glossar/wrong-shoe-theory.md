@@ -4,7 +4,7 @@ term: Wrong Shoe Theory
 description: Wrong Shoe Theory means deliberately choosing contrasting shoes to elevate an outfit.
 category: Styling Principles
 slug: wrong-shoe-theory
-seoTitle: "Wrong Shoe Theory: Deliberate Contrast Through Shoes | ESKYNA"
+seoTitle: "Wrong Shoe Theory: Contrast Shoes on Purpose | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

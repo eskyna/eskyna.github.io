@@ -4,7 +4,7 @@ term: Fairycore
 description: Fairycore verbindet märchenhafte Romantik mit Naturbezug und modernem Stilbruch.
 category: Stil & Wirkung
 slug: fairycore
-seoTitle: "Fairycore: Romantisch, naturverbunden und alltagstauglich | ESKYNA"
+seoTitle: "Fairycore: Romantik mit Stilbruch | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

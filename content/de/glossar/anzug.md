@@ -78,7 +78,7 @@ Dieses Missverständnis resultiert aus dem extremen „Slim-Fit“-Trend der ver
 
 ## ESKYNA-Merksatz
 
-<blockquote>Ein guter Anzug überzeugt nicht durch Enge, sondern durch stimmige Linien, Bewegungsfreiheit und die richtige Wirkung für deinen Alltag.</blockquote>
+> Ein guter Anzug überzeugt nicht durch Enge, sondern durch stimmige Linien, Bewegungsfreiheit und die richtige Wirkung für deinen Alltag.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 

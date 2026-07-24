@@ -18,6 +18,6 @@ fi
 cd "$ROOT_DIR"
 
 echo "Running formatter (Prettier)..."
-yarn format
+yarn format --log-level warn
 
 echo "Formatting completed."

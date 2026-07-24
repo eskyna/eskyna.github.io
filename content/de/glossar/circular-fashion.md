@@ -63,10 +63,10 @@ Wer die Prinzipien der Kreislaufmode versteht, blickt auf den gesamten Lebenszyk
 
 Beim Kauf und der Pflege von Kleidung lässt sich die Zirkularität anhand einer einfachen Checkliste überprüfen:
 
-1.  **Material-Check:** Handelt es sich um ein Monomaterial (z. B. 100 % Schurwolle) oder um ein komplexes Mischgewebe? Monomaterialien sind für zukünftige Recyclingprozesse immer die bessere Wahl.
-2.  **Verarbeitungs-Check:** Sind die Nähte stabil? Gibt es Ersatzknöpfe? Sind Applikationen und Patches so vernäht, dass sie sich leicht trennen lassen?
-3.  **Pflege- und Reparatur-Check:** Lässt sich das Material einfach reinigen, ohne Mikroplastik abzusondern? Bietet der Hersteller eventuell einen lebenslangen Reparaturservice an?
-4.  **Zweitleben-Option:** Besitzt das Kleidungsstück eine zeitlose Ästhetik und Qualität, die einen einfachen Wiederverkauf oder eine Weitergabe im Secondhand-Kreislauf ermöglicht?
+1. **Material-Check:** Handelt es sich um ein Monomaterial (z. B. 100 % Schurwolle) oder um ein komplexes Mischgewebe? Monomaterialien sind für zukünftige Recyclingprozesse immer die bessere Wahl.
+2. **Verarbeitungs-Check:** Sind die Nähte stabil? Gibt es Ersatzknöpfe? Sind Applikationen und Patches so vernäht, dass sie sich leicht trennen lassen?
+3. **Pflege- und Reparatur-Check:** Lässt sich das Material einfach reinigen, ohne Mikroplastik abzusondern? Bietet der Hersteller eventuell einen lebenslangen Reparaturservice an?
+4. **Zweitleben-Option:** Besitzt das Kleidungsstück eine zeitlose Ästhetik und Qualität, die einen einfachen Wiederverkauf oder eine Weitergabe im Secondhand-Kreislauf ermöglicht?
 
 ## Beispiel aus dem Alltag
 
@@ -84,10 +84,10 @@ Ein weit verbreiteter Irrtum ist, dass **Circular Fashion mit reinem Recycling g
 
 Echtes zirkuläres Handeln priorisiert die Kaskadennutzung:
 
-1.  **Refuse/Reduce:** Erst gar nicht überflüssig konsumieren.
-2.  **Reuse/Resell:** Die Tragezeit durch Weitergabe und Secondhand maximieren.
-3.  **Repair/Refurbish:** Reparieren, Aufwerten und Anpassen.
-4.  **Recycle:** Erst wenn keine Nutzung mehr möglich ist, erfolgt das stoffliche Recycling.
+1. **Refuse/Reduce:** Erst gar nicht überflüssig konsumieren.
+2. **Reuse/Resell:** Die Tragezeit durch Weitergabe und Secondhand maximieren.
+3. **Repair/Refurbish:** Reparieren, Aufwerten und Anpassen.
+4. **Recycle:** Erst wenn keine Nutzung mehr möglich ist, erfolgt das stoffliche Recycling.
 
 Ein Kleidungsstück aus recycelten Fasern, das aufgrund schlechter Qualität nach zweimaligem Tragen im Müll landet, ist nicht zirkulär, sondern Teil der linearen Überproduktion.
 

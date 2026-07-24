@@ -4,7 +4,7 @@ term: High-Low Dressing
 description: High-Low Dressing combines elevated and casual pieces to create tension and modernity.
 category: Styling Principles
 slug: high-low-dressing
-seoTitle: "High-Low Dressing: Mix Elegant and Casual with Intention | ESKYNA"
+seoTitle: "High-Low Dressing: Elegant Meets Casual | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

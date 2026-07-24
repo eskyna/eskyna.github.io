@@ -82,8 +82,8 @@ _Besser:_ Die Gesichtsform ist nur ein Puzzleteil. Mindestens ebenso wichtig fü
 
 Betrachte dein Gesicht mit Brille aus zwei verschiedenen Distanzen:
 
-1.  **Die Nahaufnahme (Social Distance):** Achte auf die Details. Sitzt der Steg bequem auf der Nase? Passt die Rahmenfarbe harmonisch zu deiner Augenfarbe und deinem Teint?
-2.  **Die Fernwirkung (Drei-Meter-Abstand):** Tritt einen Schritt zurück und betrachte deine gesamte Silhouette. Dominiert die Brille dein Gesicht oder fügt sie sich als ausbalancierter Teil in deine [Gesichtsrahmung](/glossar/gesichtsrahmung/) ein? Wenn das Gestell optisch "vor dir" im Raum steht, ist der Kontrast eventuell zu stark für dein natürliches Kolorit.
+1. **Die Nahaufnahme (Social Distance):** Achte auf die Details. Sitzt der Steg bequem auf der Nase? Passt die Rahmenfarbe harmonisch zu deiner Augenfarbe und deinem Teint?
+2. **Die Fernwirkung (Drei-Meter-Abstand):** Tritt einen Schritt zurück und betrachte deine gesamte Silhouette. Dominiert die Brille dein Gesicht oder fügt sie sich als ausbalancierter Teil in deine [Gesichtsrahmung](/glossar/gesichtsrahmung/) ein? Wenn das Gestell optisch "vor dir" im Raum steht, ist der Kontrast eventuell zu stark für dein natürliches Kolorit.
 
 ## ESKYNA-Merksatz
 

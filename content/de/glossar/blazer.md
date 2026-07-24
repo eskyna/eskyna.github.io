@@ -80,8 +80,8 @@ Damit ein Blazer seine volle Wirkung entfaltet, kommt es auf die perfekte [Passf
 
 Stelle dich vor einen Ganzkörperspiegel und betrachte deinen Look aus zwei Perspektiven:
 
-1.  **Die Nahaufnahme:** Achte auf Details, Materialstruktur und Verarbeitungsqualität. Liegt der Kragen flach im Nacken an? Spannen die Knöpfe nicht? Rutschen die Ärmel beim Bewegen der Arme extrem nach oben?
-2.  **Die Distanz (drei Schritte zurück):** Betrachte die Gesamtsilhouette. Wirkt das Verhältnis von Schulterbreite zu Beinlänge harmonisch? Bietet der Blazer genug Kontrast oder fügt er sich ruhig in das Farbschema deines Outfits ein?
+1. **Die Nahaufnahme:** Achte auf Details, Materialstruktur und Verarbeitungsqualität. Liegt der Kragen flach im Nacken an? Spannen die Knöpfe nicht? Rutschen die Ärmel beim Bewegen der Arme extrem nach oben?
+2. **Die Distanz (drei Schritte zurück):** Betrachte die Gesamtsilhouette. Wirkt das Verhältnis von Schulterbreite zu Beinlänge harmonisch? Bietet der Blazer genug Kontrast oder fügt er sich ruhig in das Farbschema deines Outfits ein?
 
 Wenn das Outfit aus beiden Perspektiven Balance und Souveränität ausstrahlt, hast du die perfekte Kombination gefunden.
 

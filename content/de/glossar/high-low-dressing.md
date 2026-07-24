@@ -4,7 +4,7 @@ term: High-Low Dressing
 description: High-Low Dressing kombiniert luxuriöse Pieces mit alltagstauglichen Basics.
 category: Stil & Wirkung
 slug: high-low-dressing
-seoTitle: "High-Low Dressing: Luxus und Alltag smart kombinieren | ESKYNA"
+seoTitle: "High-Low Dressing: Kontraste mit Stil | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

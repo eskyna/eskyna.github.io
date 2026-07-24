@@ -57,11 +57,11 @@ In der professionellen Stilberatung gilt: Die Kunst des Boudoir Chic liegt in de
 
 Um Boudoir Chic treffsicher in deine tägliche Garderobe zu integrieren, folge diesen Styling-Schritten:
 
-1.  **Das Centerpiece wählen:** Entscheide dich für _ein_ zentrales Boudoir-Element (z. B. ein Camisole mit Wimpernspitze, einen Satin-Rock oder einen Kimono-Mantel).
-2.  **Den Stilbruch kreieren:** Setze einen harten Kontrast. Kombiniere feinen Satin mit rauem Denim, Leder, Tweed oder maskulinen Anzugstoffen.
-3.  **Die Silhouette definieren:** Halte die Silhouette im Gleichgewicht. Weite, fließende Seidenhosen verlangen nach einem taillierten Oberteil; ein hautenges Spitzentop wirkt edler zu einer weiten Wide-Leg-Hose.
-4.  **Die Farbwahl anpassen:** Setze neben klassischen Farben wie Schwarz, Champagner und Rot auch auf gedeckte Töne wie Smaragdgrün, Schokoladenbraun, Mitternachtsblau oder softes Salbei, um dem Look Modernität zu verleihen.
-5.  **Schuhwerk und Accessoires dämpfen:** Vermeide zu feine Pfennigabsätze, wenn der Look alltagstauglich sein soll. Wähle stattdessen cleane Loafer, derbe Boots oder minimalistische Sneaker, um dem Outfit die Schwere zu nehmen.
+1. **Das Centerpiece wählen:** Entscheide dich für _ein_ zentrales Boudoir-Element (z. B. ein Camisole mit Wimpernspitze, einen Satin-Rock oder einen Kimono-Mantel).
+2. **Den Stilbruch kreieren:** Setze einen harten Kontrast. Kombiniere feinen Satin mit rauem Denim, Leder, Tweed oder maskulinen Anzugstoffen.
+3. **Die Silhouette definieren:** Halte die Silhouette im Gleichgewicht. Weite, fließende Seidenhosen verlangen nach einem taillierten Oberteil; ein hautenges Spitzentop wirkt edler zu einer weiten Wide-Leg-Hose.
+4. **Die Farbwahl anpassen:** Setze neben klassischen Farben wie Schwarz, Champagner und Rot auch auf gedeckte Töne wie Smaragdgrün, Schokoladenbraun, Mitternachtsblau oder softes Salbei, um dem Look Modernität zu verleihen.
+5. **Schuhwerk und Accessoires dämpfen:** Vermeide zu feine Pfennigabsätze, wenn der Look alltagstauglich sein soll. Wähle stattdessen cleane Loafer, derbe Boots oder minimalistische Sneaker, um dem Outfit die Schwere zu nehmen.
 
 ## Beispiel aus dem Alltag
 

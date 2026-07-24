@@ -4,7 +4,7 @@ term: Sandwich Method
 description: The Sandwich Method repeats one color at top and bottom to visually frame the outfit.
 category: Styling Principles
 slug: sandwich-methode
-seoTitle: "Sandwich Method: Build Visual Balance with Color Repetition | ESKYNA"
+seoTitle: "Sandwich Method: Color Echo Styling | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

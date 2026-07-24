@@ -4,7 +4,7 @@ term: Scandi Hair Tie
 description: Scandi Hair Tie is an oversized scrunchie worn as a visible styling accessory.
 category: Accessories
 slug: scandi-hair-tie
-seoTitle: "Scandi Hair Tie: Oversized Scrunchie as Style Accent | ESKYNA"
+seoTitle: "Scandi Hair Tie: Oversized Scrunchie | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

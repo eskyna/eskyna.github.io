@@ -26,7 +26,7 @@ Kurz gesagt: Ein asymmetrischer Ausschnitt sieht auf der linken und rechten Kör
 
 Asymmetrische Linien bringen Dynamik, visuelle Spannung und avantgardistische Eleganz in ein Outfit. Sie unterbrechen die klassische, oft strenge horizontale Schulterlinie und führen das Auge des Betrachters in einer diagonalen Bewegung über den Oberkörper, das Schlüsselbein und den Hals. Dadurch entsteht eine skulpturale Ästhetik, die oft moderner und künstlerischer wirkt als traditionelle Rundhals- oder U-Boot-Ausschnitte.
 
-**Historischer Hintergrund und Materialwirkung**
+### Historischer Hintergrund und Materialwirkung
 
 Aus modehistorischer Sicht greift die asymmetrische Schnittführung auf antike Vorbilder wie die griechisch-römische Toga zurück. In der Haute Couture des 20. Jahrhunderts wurde sie von Pionierinnen wie Elsa Schiaparelli und später in den glamourösen 1970er-Jahren durch den legendären Halston-Stil (bekannt aus der Ära des Studio 54) als Symbol für moderne Weiblichkeit und ungezwungene Eleganz etabliert.
 

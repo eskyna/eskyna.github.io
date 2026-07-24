@@ -4,7 +4,7 @@ term: Underconsumption Core
 description: Underconsumption Core priorisiert Langlebigkeit, Reparatur und bewusste Wiederverwendung.
 category: Garderobe & Alltag
 slug: underconsumption-core
-seoTitle: "Underconsumption Core: Weniger kaufen, besser nutzen | ESKYNA"
+seoTitle: "Underconsumption Core: Weniger kaufen, mehr nutzen | ESKYNA"
 lastmod: "2026-07-24"
 ---
 

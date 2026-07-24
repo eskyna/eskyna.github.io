@@ -52,9 +52,9 @@ Die Kunst des modernen Art Deco Evening liegt darin, den Look nicht wie ein hist
 
 Um den Look stilsicher und modern zu interpretieren, hilft die Formel der drei gestalterischen Bausteine:
 
-1.  **Eine klare Linie:** Eine minimalistische, fließende Silhouette als Fundament (z. B. ein weites Seidenkleid oder ein scharf geschnittener Tuxedo).
-2.  **Ein Lichtfänger:** Ein markantes Detail, das das Licht reflektiert (z. B. Pailletten-Applikationen, Lurex-Nähte oder geometrischer Schmuck).
-3.  **Ein dunkler Rahmen:** Kontraste, die dem Ensemble optische Tiefe verleihen (z. B. tiefes Schwarz, sattes Smaragdgrün oder edles Nachtblau).
+1. **Eine klare Linie:** Eine minimalistische, fließende Silhouette als Fundament (z. B. ein weites Seidenkleid oder ein scharf geschnittener Tuxedo).
+2. **Ein Lichtfänger:** Ein markantes Detail, das das Licht reflektiert (z. B. Pailletten-Applikationen, Lurex-Nähte oder geometrischer Schmuck).
+3. **Ein dunkler Rahmen:** Kontraste, die dem Ensemble optische Tiefe verleihen (z. B. tiefes Schwarz, sattes Smaragdgrün oder edles Nachtblau).
 
 **Beispiel:** Ein schlichtes, schwarzes Maxikleid aus Satin, kombiniert mit grafischen Ohrringen und einer strukturierten Metallic-Clutch.
 
