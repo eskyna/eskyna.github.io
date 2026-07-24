@@ -42,7 +42,7 @@ Für Mode bedeutet das: Rosa wird erst durch Styling lesbar. Es wirkt romantisch
 
 ## Nuance, Helligkeit und Sättigung
 
-Ein häufiger Styling-Fehler ist, über Rosa zu sprechen, als gäbe es nur einen Ton. Tatsächlich macht es einen großen Unterschied, ob wir Puderrosa, Altrosa, Rose, Lachsrosa, Fuchsia, Pink oder Mauve meinen.
+Ein häufiger Styling-Fehler ist, über Rosa zu sprechen, als gäbe es nur einen Ton. Tatsächlich macht es einen großen Unterschied, ob wir Puderrosa, Altrosa, Rose, Lachsrosa, Fuchsia, [Pink](/glossar/pink/) oder Mauve meinen.
 
 Studien zur emotionalen Farbwahrnehmung unterscheiden unter anderem Farbton, Helligkeit und Sättigung. In einer experimentellen Studie wurden gesättigte und helle Farben anders bewertet als dunklere oder weniger gesättigte Varianten; die Dimensionen wirkten zudem miteinander zusammen.[^3]
 

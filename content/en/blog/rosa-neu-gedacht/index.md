@@ -20,7 +20,7 @@ tags:
   - ESKYNA
 ---
 
-Pink is often underestimated. Many people associate it with sweetness, romance, or childhood. But pink can also look clean, modern, elegant, and very confident.
+[Pink](/en/glossar/pink/) is often underestimated. Many people associate it with sweetness, romance, or childhood. But pink can also look clean, modern, elegant, and very confident.
 
 The decisive factor is not the color alone. It is the shade, the fabric, the cut, and the combination.
 
