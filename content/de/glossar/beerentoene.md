@@ -11,7 +11,7 @@ tags:
   - beerentöne
   - himbeere
   - brombeere
-image: images/glossar/beereneventuell.png
+image: images/glossar/beerentoene.png
 image_alt: "Glossar-Illustration zu Beerentöne"
 keywords:
   - beerentöne bedeutung
