@@ -25,7 +25,7 @@ tags:
 
 Muster machen Outfits lebendig. Sie setzen Rhythmus, Kontrast und Wirkung.
 
-Im Sommer 2026 sind Polka Dots, Vichy, Streifen, Blumenprints und Animal Prints wieder präsent. Aber nicht jeder Trend passt zu dir.
+Im Sommer 2026 sind [Polka Dots](/glossar/polka-dots/), [Vichy](/glossar/vichy-karo/), [Streifen](/glossar/streifen/), [Blumenprints](/glossar/blumenmuster/) und [Animal Prints](/glossar/animal-print/) wieder präsent. Aber nicht jeder Trend passt zu dir.
 
 Die wichtigere Frage ist nicht „Was ist modern?", sondern: **Unterstützt dieses Muster meine Persönlichkeit und Ausstrahlung?**
 
@@ -55,7 +55,7 @@ Polka Dots gehören zu den stärksten Mustertrends im Sommer 2026. Sie sind klas
 
 Besonders schön funktionieren Punkte bei Kleidern, Röcken und Blusen. Genau dort können sie ihre grafische Wirkung zeigen, ohne dass der Look überladen wirkt.
 
-Kleine Punkte wirken oft feiner und zurückhaltender. Große Punkte setzen ein Statement. Schwarz-Weiß bleibt die klassische Variante, aber auch warme Neutraltöne, Creme, Braun oder Navy wirken modern.
+Kleine Punkte wirken oft feiner und zurückhaltender. Große Punkte setzen ein Statement. [Schwarz](/glossar/schwarz/)-[Weiß](/glossar/weiss/) bleibt die klassische Variante, aber auch warme Neutraltöne, [Creme](/glossar/creme/), [Braun](/glossar/braun/) oder [Navy](/glossar/navy/) wirken modern.
 
 ### So trägst du Polka Dots stilvoll
 
@@ -136,11 +136,11 @@ Im Sommer 2026 sehen wir Vichy-Karos besonders bei Kleidern, Hemden, Shorts, Top
 
 Vichy ist ein gutes Muster für alle, die Prints mögen, aber keine lauten Muster tragen möchten. Es ist grafisch, aber nicht hart. Sommerlich, aber nicht zwingend romantisch. Je nach Farbe kann es sehr unterschiedlich wirken.
 
-Hellblau-Weiß wirkt frisch. Rosa-Weiß wirkt weicher. Rot-Weiß wirkt retro und präsent. Schwarz-Weiß wirkt grafischer und erwachsener.
+[Hellblau](/glossar/hellblau/)-[Weiß](/glossar/weiss/) wirkt frisch. [Rosa](/glossar/rosa/)-[Weiß](/glossar/weiss/) wirkt weicher. Rot-[Weiß](/glossar/weiss/) wirkt retro und präsent. [Schwarz](/glossar/schwarz/)-[Weiß](/glossar/weiss/) wirkt grafischer und erwachsener.
 
 ### So trägst du Vichy-Karo stilvoll
 
-Der modernste Weg, Vichy zu tragen, ist die Kombination mit klaren Basics. Ein Vichy-Top zur weißen Hose. Ein kariertes Hemd zu Denim. Ein Vichy-Kleid mit minimalistischen Sandalen.
+Der modernste Weg, Vichy zu tragen, ist die Kombination mit klaren Basics. Ein Vichy-Top zur weißen Hose. Ein kariertes Hemd zu [Denim](/glossar/denim/). Ein Vichy-Kleid mit minimalistischen Sandalen.
 
 Wenn du vermeiden möchtest, dass Vichy zu süß wirkt, verzichte auf zu viele verspielte Elemente. Also lieber klare Taschen, schlichte Schuhe und reduzierter Schmuck statt Schleifen, Rüschen und verspielter Accessoires.
 
@@ -212,7 +212,7 @@ Animal Prints haben sofort Wirkung. Sie sind nicht neutral, auch wenn viele Mode
 
 ### So trägst du Animal Prints stilvoll
 
-Wenn du Animal Prints magst, aber nicht zu laut wirken möchtest, starte mit einem Teil: eine Bluse, ein Gürtel, eine Tasche, ein Schuh oder ein Rock. Kombiniere dazu ruhige Farben wie Schwarz, Weiß, Creme, Denim, Braun oder Beige.
+Wenn du [Animal Prints](/glossar/animal-print/) magst, aber nicht zu laut wirken möchtest, starte mit einem Teil: eine Bluse, ein Gürtel, eine Tasche, ein Schuh oder ein Rock. Kombiniere dazu ruhige Farben wie [Schwarz](/glossar/schwarz/), [Weiß](/glossar/weiss/), [Creme](/glossar/creme/), [Denim](/glossar/denim/), [Braun](/glossar/braun/) oder [Beige](/glossar/beige/).
 
 Besonders modern wirkt Animal Print, wenn er nicht zu sehr ins Glamouröse gezogen wird. Also lieber mit schlichten Schnitten, klaren Basics und hochwertigen Materialien kombinieren.
 

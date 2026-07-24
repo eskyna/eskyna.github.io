@@ -1,6 +1,6 @@
 ---
 title: "5 Dinge, die eine gute Übergangsjacke ausmachen: Der ultimative Guide"
-seoTitle: "Übergangsjacke 2026: 5 Tipps zu Passform, Material und Styling"
+seoTitle: "Übergangsjacke 2026: Fit, Material, Styling | ESKYNA"
 date: 2026-07-23
 description: "Dein Guide zur Übergangsjacke: So wählst du Passform, Kragen und Material richtig und stylst funktionale Modelle modern im Alltag."
 summary: "So findest du eine Übergangsjacke, die schützt, gut sitzt und deinen Stil klar unterstreicht."

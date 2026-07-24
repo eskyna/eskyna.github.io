@@ -18,7 +18,7 @@ tags:
   - Outfit-Ideen
 ---
 
-Violett ist zurück, nicht als zarter Nebenakzent, sondern als ganze Farbfamilie. Auf den Laufstegen für Frühjahr/Sommer 2026 taucht die Farbe in vielen Varianten auf: von tiefem Aubergine über Pflaume und Traube bis zu leuchtendem Brombeere, Amethyst und Flieder. Vogue spricht für die Saison von "Purple Reign" und beschreibt Violett als auffällige Rückkehr in Kleidern, Hosen und Accessoires.
+[Violett](/glossar/violett/) ist zurück, nicht als zarter Nebenakzent, sondern als ganze Farbfamilie. Auf den Laufstegen für Frühjahr/Sommer 2026 taucht die Farbe in vielen Varianten auf: von tiefem [Aubergine](/glossar/aubergine/) über Pflaume und Traube bis zu leuchtendem Brombeere, Amethyst und [Flieder](/glossar/flieder/). Vogue spricht für die Saison von "Purple Reign" und beschreibt Violett als auffällige Rückkehr in Kleidern, Hosen und Accessoires.
 
 ![Violett als Trendfarbe Sommer 2026](eskyna-violett-01-cover.png)
 
@@ -26,9 +26,9 @@ Das Interessante an diesem Trend: Violett ist auffällig, aber nicht laut im kla
 
 ## Warum Violett gerade jetzt so modern wirkt
 
-Nach Jahren voller Beige, Grau, Schwarz, Navy und gedeckter Naturtöne bringt Violett wieder mehr Ausdruck in die Garderobe. Die Pantone-Farbberichte für Frühjahr/Sommer 2026 betonen Individualität, persönliche Handschrift und neue Farbkombinationen als zentrale Themen.
+Nach Jahren voller Beige, Grau, Schwarz, [Navy](/glossar/navy/) und gedeckter Naturtöne bringt Violett wieder mehr Ausdruck in die Garderobe. Die Pantone-Farbberichte für Frühjahr/Sommer 2026 betonen Individualität, persönliche Handschrift und neue Farbkombinationen als zentrale Themen.
 
-Auch London setzt laut Pantone auf eine Balance aus Alltagstauglichkeit, Emotion und subtiler Abweichung von Konventionen. Genau dort passt Violett perfekt: weniger erwartbar als Marineblau, weicher als Schwarz und erwachsener als ein sehr verspieltes Pink.
+Auch London setzt laut Pantone auf eine Balance aus Alltagstauglichkeit, Emotion und subtiler Abweichung von Konventionen. Genau dort passt Violett perfekt: weniger erwartbar als Marineblau, weicher als Schwarz und erwachsener als ein sehr verspieltes [Pink](/glossar/pink/).
 
 Dazu kommt modische Geschichte. Purpur war in der Antike so kostbar, dass die Farbe mit Macht, Reichtum und Herrschaft verbunden wurde. Später machte die Entdeckung von Mauvein im 19. Jahrhundert Violett deutlich zugänglicher und veränderte die Modewelt nachhaltig.
 
@@ -43,7 +43,7 @@ Nicht jedes Violett wirkt gleich. Für den Alltag ist genau diese Unterscheidung
 - Brombeere und Heidelbeere gehen kühler und blauer. Diese Nuancen wirken klarer und moderner.
 - Amethyst und Flieder sind heller und luftiger. Sie wirken im Sommer frisch, brauchen aber je nach Hautunterton Kontrast.
 
-In den Pantone-Paletten für Frühjahr/Sommer 2026 tauchen unter anderem Burnished Lilac, Amaranth und Amethyst Orchid als relevante Lila- und Violett-Nuancen auf.
+In den Pantone-Paletten für Frühjahr/Sommer 2026 tauchen unter anderem Burnished Lilac, Amaranth und Amethyst Orchid als relevante [Lila](/glossar/lila/)- und Violett-Nuancen auf.
 
 ## Klein anfangen: Violett zu Weiß, Denim und Neutralen
 
@@ -53,7 +53,7 @@ Ein violettes Top zu weißer Hose. Eine pflaumenfarbene Bluse zu Jeans. Eine bro
 
 ![Violett zu Neutraltönen und Weiß](eskyna-violett-03-neutraltoene.png)
 
-Besonders schön ist Violett mit Denim und Hellblau. Der Blaustich beruhigt die Farbe, während Violett dem Look Tiefe gibt. Diese Kombination wirkt modern, aber nicht überstylt.
+Besonders schön ist Violett mit [Denim](/glossar/denim/) und [Hellblau](/glossar/hellblau/). Der Blaustich beruhigt die Farbe, während Violett dem Look Tiefe gibt. Diese Kombination wirkt modern, aber nicht überstylt.
 
 ![Violett mit Denim und Hellblau](eskyna-violett-04-denim.png)
 
@@ -69,7 +69,7 @@ Der beste Test ist einfach: Halte den Ton bei Tageslicht ans Gesicht. Macht er d
 
 ![Welcher Violett-Unterton passt zu dir?](eskyna-violett-05-farbton.png)
 
-## Für den Abend: Seide, Satin und Gold
+## Für den Abend: Seide, [Satin](/glossar/satin/) und Gold
 
 Violett liebt besondere Materialien. In Baumwolle wirkt die Farbe entspannt, in Strick weich, in Leinen sommerlich. In Seide, Satin, Organza oder Samt wird sie sofort abendtauglich.
 

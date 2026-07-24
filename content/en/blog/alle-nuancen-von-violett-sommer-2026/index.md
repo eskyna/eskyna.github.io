@@ -21,7 +21,7 @@ tags:
   - Outfit ideas
 ---
 
-Purple is back, not as a small accent, but as a full color family. On the Spring/Summer 2026 runways, we see everything from deep eggplant and plum to bright blackberry tones, amethyst, and lilac. Vogue even described the season as a "Purple Reign" moment.
+[Purple](/en/glossar/violett/) is back, not as a small accent, but as a full color family. On the Spring/Summer 2026 runways, we see everything from deep [eggplant](/en/glossar/aubergine/) and plum to bright blackberry tones, amethyst, and [lilac](/en/glossar/flieder/). Vogue even described the season as a "Purple Reign" moment.
 
 ![Purple as a key color trend for summer 2026](eskyna-violett-01-cover.png)
 
@@ -29,9 +29,9 @@ What makes this trend interesting is its range. Purple can look luxurious, creat
 
 ## Why purple feels modern right now
 
-After years dominated by beige, gray, black, navy, and muted naturals, purple adds personality again. Pantone's Spring/Summer 2026 reports emphasize individual expression and new color pairings.
+After years dominated by beige, gray, black, [navy](/en/glossar/navy/), and muted naturals, purple adds personality again. Pantone's Spring/Summer 2026 reports emphasize individual expression and new color pairings.
 
-Purple sits exactly in that space. It is less expected than navy, softer than black, and often more grown-up than bright pink.
+Purple sits exactly in that space. It is less expected than navy, softer than black, and often more grown-up than bright [pink](/en/glossar/pink/).
 
 Purple also carries fashion history. Tyrian purple was once linked to status and power because it was extremely expensive to produce. Later, the discovery of mauveine in the 19th century made purple far more accessible and changed fashion permanently.
 
@@ -46,7 +46,7 @@ Not every purple looks the same in real life. This distinction matters most.
 - Blackberry and blueberry tones are cooler and clearer, with a modern edge.
 - Amethyst and lilac are lighter and airier, perfect for summer when balanced with enough contrast.
 
-Pantone's seasonal palettes include shades like Burnished Lilac, Amaranth, and Amethyst Orchid, all relevant for this direction.
+Pantone's seasonal palettes include shades like Burnished Lilac, Amaranth, and Amethyst Orchid, all relevant for this [lilac](/en/glossar/lila/) and purple direction.
 
 ## Start small: purple with white, denim, and neutrals
 
@@ -56,7 +56,7 @@ Try a purple top with white trousers. A plum blouse with jeans. A blackberry bag
 
 ![Purple styled with white and soft neutrals](eskyna-violett-03-neutraltoene.png)
 
-Purple also works beautifully with denim and light blue. The blue undertone calms the color while purple adds depth.
+Purple also works beautifully with [denim](/en/glossar/denim/) and [light blue](/en/glossar/hellblau/). The blue undertone calms the color while purple adds depth.
 
 ![Purple combined with denim and light blue](eskyna-violett-04-denim.png)
 
@@ -72,7 +72,7 @@ A simple test helps: hold the color near your face in daylight. If your skin loo
 
 ![How to identify your best purple undertone](eskyna-violett-05-farbton.png)
 
-## For evening: silk, satin, and gold
+## For evening: silk, [satin](/en/glossar/satin/), and gold
 
 Purple loves elevated fabrics. In cotton it feels relaxed. In knit it feels soft. In silk or satin it becomes evening-ready quickly.
 

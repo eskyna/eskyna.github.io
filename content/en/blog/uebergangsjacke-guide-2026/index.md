@@ -1,6 +1,6 @@
 ---
 title: "5 Things That Make a Great Transitional Jacket: The Ultimate Guide"
-seoTitle: "Transitional Jacket 2026: 5 Tips on Fit, Material, and Styling"
+seoTitle: "Transitional Jacket 2026: Fit, Fabric, Styling | ESKYNA"
 date: 2026-07-23
 description: "Learn how to choose the right transitional jacket for changing weather, with practical tips on fit, collar design, materials, styling, and real-life comfort checks."
 summary: "How to find a transitional jacket that protects you, fits well, and supports your personal style."

@@ -30,7 +30,7 @@ tags:
 
 Patterns make outfits feel alive. They add rhythm, contrast, movement, and personality.
 
-In summer 2026, polka dots, gingham, stripes, floral prints, and animal prints are especially visible again. But the important question is not only: **What is trending?** The better question is: **Does this pattern support my personality, my proportions, and the impression I want to create?**
+In summer 2026, [polka dots](/en/glossar/polka-dots/), [gingham](/en/glossar/vichy-karo/), [stripes](/en/glossar/streifen/), [floral prints](/en/glossar/blumenmuster/), and [animal prints](/en/glossar/animal-print/) are especially visible again. But the important question is not only: **What is trending?** The better question is: **Does this pattern support my personality, my proportions, and the impression I want to create?**
 
 ## Why patterns change the impact of an outfit
 
@@ -46,7 +46,7 @@ Large patterns usually create more presence. Small patterns often feel quieter. 
 
 Polka dots are classic, but not old-fashioned. They can look playful, elegant, minimal, or bold, depending on size, contrast, and styling.
 
-Small dots are usually subtle and refined. Large dots become a statement. Black and white is the classic version, while cream, brown, navy, and warm neutrals feel softer and more modern.
+Small dots are usually subtle and refined. Large dots become a statement. [Black](/en/glossar/schwarz/) and [white](/en/glossar/weiss/) is the classic version, while [cream](/en/glossar/creme/), [brown](/en/glossar/braun/), [navy](/en/glossar/navy/), and warm neutrals feel softer and more modern.
 
 **Works well:**
 
@@ -78,7 +78,7 @@ If you love florals but do not want to look overly romantic, choose clearer garm
 
 Gingham feels light, summery, and uncomplicated. It brings a picnic-like freshness, but can look modern when combined with clean basics.
 
-A gingham top with white trousers, a checked shirt with denim, or a gingham dress with minimal sandals works especially well. To keep gingham from becoming too sweet, avoid too many bows, ruffles, and retro details at the same time.
+A gingham top with [white](/en/glossar/weiss/) trousers, a checked shirt with [denim](/en/glossar/denim/), or a gingham dress with minimal sandals works especially well. To keep gingham from becoming too sweet, avoid too many bows, ruffles, and retro details at the same time.
 
 ## 4. Stripes: direction and clarity
 
@@ -90,7 +90,7 @@ The more contrast a stripe has, the more visible it becomes. Fine tonal stripes 
 
 Animal prints add energy. They can feel glamorous, edgy, classic, or playful depending on color and scale.
 
-For many wardrobes, animal print works best as an accent: shoes, belt, scarf, bag, or one clear garment. If the print covers a large area, keep silhouette and accessories calm.
+For many wardrobes, [animal print](/en/glossar/animal-print/) works best as an accent: shoes, belt, scarf, bag, or one clear garment. If the print covers a large area, keep silhouette and accessories calm.
 
 ## How to choose a pattern that suits you
 
