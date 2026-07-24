@@ -95,18 +95,16 @@ Wenn du deine Teile langfristig klug kombinieren willst, lohnt sich ein Blick au
 
 ![Übergangsjacke als verbindendes Key-Piece zwischen Spätsommer und Herbst](slide-7.png)
 
-## ESKYNA STYLE-COACHING
+## Welche Übergangsjacke passt zu dir?
 
-Unsicher, welche Übergangsjacke wirklich zu dir, deiner Figur und deinem Alltag passt?
+In einer persönlichen Stilberatung klären wir, welche Übergangsjacken wirklich zu deiner Figur, deinem Farbtyp und deiner Persönlichkeit passen. So trägst du funktionale Looks nicht zufällig, sondern bewusst.
 
-Wir finden gemeinsam die Teile, die dich strahlen lassen und deine Garderobe leichter machen.
-
-[Beratung anfragen auf ESKYNA.COM](https://eskyna.com)
+{{< button-icon text="Kostenloses Erstgespräch" title="Kostenloses Erstgespräch buchen" targetBlank="true" >}}
 
 Passend zum Beitrag findest du den Instagram-Post hier: [Übergangsjacke Guide auf Instagram](https://www.instagram.com/p/DbII7pBClVP/?img_index=1).
 
 ## Quellen und modische Referenzen
 
-- Grazia Magazin: Styling-Ideen für Layering bei Übergangswetter und den Mix aus sportlichen Jacken und femininen Elementen.
-- Peek and Cloppenburg: Grundlagen zu Passform und Layering mit mehreren dünnen Schichten.
-- Textil- und Outdoor-Ratgeber: Materialeigenschaften zu Baumwolle, Nylon und Mischgeweben bei wechselhaftem Wetter.
+- [Grazia Magazin](https://www.grazia-magazin.de/): Styling-Ideen für Layering bei Übergangswetter und den Mix aus sportlichen Jacken und femininen Elementen.
+- [Peek and Cloppenburg](https://www.peek-cloppenburg.de/de/): Grundlagen zu Passform und Layering mit mehreren dünnen Schichten.
+- [Bergfreunde Magazin](https://www.bergfreunde.de/blog/): Materialeigenschaften zu Baumwolle, Nylon und Mischgeweben bei wechselhaftem Wetter.

@@ -102,6 +102,6 @@ Related Instagram post: [Transitional Jacket Guide on Instagram](https://www.ins
 
 ## Sources and style references
 
-- Grazia Magazine: Layering ideas for in-between temperatures and styling sporty jackets with feminine pieces.
-- Peek and Cloppenburg: Guidance on fit and layering with multiple light layers.
-- Textile and outdoor guides: Material properties of cotton, nylon, and fabric blends in changeable weather.
+- [Grazia Magazine](https://www.grazia-magazin.de/): Layering ideas for in-between temperatures and styling sporty jackets with feminine pieces.
+- [Peek and Cloppenburg](https://www.peek-cloppenburg.de/de/): Guidance on fit and layering with multiple light layers.
+- [Bergfreunde Magazine](https://www.bergfreunde.de/blog/): Material properties of cotton, nylon, and fabric blends in changeable weather.
