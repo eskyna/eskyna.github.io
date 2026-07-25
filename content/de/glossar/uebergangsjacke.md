@@ -20,6 +20,7 @@ keywords:
 weight: 6
 image: images/glossar/uebergangsjacke.png
 image_alt: Editoriale Grafik mit einer leichten Jacke für wechselhaftes Wetter
+image_generation: "Nutze einen modernen Schnitt für eine Übergangsjacke. Die Übergangsjacke soll modisch sein."
 relatedTerms:
   - title: Übergangsgarderobe
     url: /glossar/uebergangsgarderobe/
