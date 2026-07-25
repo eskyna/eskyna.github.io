@@ -87,6 +87,7 @@ HUGO_RESERVED_FRONTMATTER_TAGS = {
     "lastmod",
     "content_level",
     "editorial_depth",
+    "image_generation",
 }
 
 
