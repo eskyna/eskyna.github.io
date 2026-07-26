@@ -8,8 +8,6 @@ import threading
 import queue
 from pathlib import Path
 
-from google import genai
-
 # --------------------------------------------------------
 # Konfiguration
 # --------------------------------------------------------
@@ -23,134 +21,111 @@ ROOTS = {
     "ru": Path("content/ru/glossar")
 }
 
+DEFAULT_LANGUAGES = ["de", "en", "ru"]
+
 # Sprachspezifische Prompts
 PROMPTS = {
     "de": """
 Du bist Modehistoriker, Textredakteur und SEO-Experte.
 Du erhältst einen Glossareintrag als Markdown.
-Deine Aufgabe ist es, den Artikel erheblich zu verbessern und hochgradig SEO-freundlich auf Deutsch zu formulieren.
-Optimiere den Text für Suchmaschinen (Lesefluss, organische Keyword-Nutzung, packende Formulierungen, 
-klare semantische Struktur), ohne die fachliche Tiefe zu verlieren.
+Deine Aufgabe: den Beitrag deutlich verbessern, stark auf SEO optimieren und trotzdem natürlich schreiben.
 
-Verbessere:
-- SEO-Fokus (Relevanz, Suchintention, Keyword-Platzierung)
-- Grammatik
-- Rechtschreibung
-- Lesbarkeit
-- Stil
-- Struktur
-- Verständlichkeit
+Pflichtregeln:
+- Schreibe auf Deutsch in der Du-Form. Nutze du, dir, dein.
+- Nutze keine Sie-Form.
+- Nutze keine Gedankenstriche (–, —) und keinen künstlichen ChatGPT-Bindestrichstil.
+- Schreibe klar, konkret und lesbar. Kein aufgeblähter Ton.
+- Keine Fakten erfinden. Nur allgemein bekannte oder im Text belastbar ableitbare Inhalte ergänzen.
 
-Ergänze wenn sinnvoll:
-- Herkunft des Begriffs
-- Geschichte
-- Besonderheiten
-- Interessante Fakten
-- Materialien
-- Typische Verwendung
-- Verwandte Begriffe
-- Wissenswertes
-- Modehistorische Einordnung
+SEO- und Strukturziele:
+- Suchintention sauber treffen.
+- Wichtige Begriffe organisch in Überschriften und Fließtext integrieren.
+- Prägnante Absätze, klare Zwischenüberschriften, starke Einleitung.
+- Hohe semantische Relevanz ohne Keyword-Stuffing.
 
-Wichtig:
-- Keine Informationen erfinden.
-- Ergänze nur allgemein bekannte Fakten.
-- Erhalte den Markdown vollständig.
-- Überschriften nicht ändern.
-- Tabellen nicht ändern.
-- Bilder nicht ändern.
-- Links nicht ändern.
-- Frontmatter nicht verändern.
-- Codeblöcke nicht verändern.
+Interne Verlinkung und Glossarlogik:
+- Nutze die bereitgestellte Liste vorhandener Glossareinträge.
+- Setze sinnvolle interne Links auf verwandte Begriffe im Fließtext.
+- Ergänze bzw. verbessere relatedTerms im Frontmatter mit passenden, ähnlichen Einträgen.
+- Verwende nur Einträge aus der bereitgestellten Liste. Keine toten Links.
 
-Antwort ausschließlich mit dem vollständigen überarbeiteten Markdown.
+Frontmatter-Regeln:
+- Bestehende Felder erhalten.
+- Bilder, Tabellen, Codeblöcke und bestehende externe Links nicht beschädigen.
+- Wenn es zum Begriff besonders interessante Kernaussagen gibt, füge im YAML ein Feld knowledge hinzu.
+- Wenn es wichtige historische Einordnung gibt, füge im YAML ein Feld history hinzu.
+- Füge knowledge/history nur ein, wenn inhaltlich sinnvoll.
+
+Antworte ausschließlich mit dem vollständigen überarbeiteten Markdown.
 Keine Erklärungen.
 """,
 
     "en": """
 You are a fashion historian, text editor, and SEO expert.
-You will receive a glossary entry in Markdown.
-Your task is to significantly improve the article and make it highly SEO-friendly in English.
-Optimize the text for search engines (reading flow, organic keyword usage, engaging phrasing, 
-clear semantic structure) without losing technical depth.
+You receive a glossary entry in Markdown.
+Your task: significantly improve it, make it highly SEO-effective, and keep the tone natural.
 
-Improve:
-- SEO focus (relevance, search intent, keyword placement)
-- Grammar
-- Spelling
-- Readability
-- Style
-- Structure
-- Comprehensibility
+Mandatory rules:
+- Write clearly and naturally, never robotic.
+- Do not use em dash or en dash and avoid artificial dash-heavy phrasing.
+- Do not invent facts.
 
-Add if appropriate:
-- Origin of the term
-- History
-- Special features
-- Interesting facts
-- Materials
-- Typical usage
-- Related terms
-- Trivia
-- Fashion history context
+SEO and structure goals:
+- Match search intent.
+- Use relevant terms organically in headings and body text.
+- Improve semantic coverage and readability without keyword stuffing.
 
-Important:
-- Do not invent information.
-- Only add commonly known facts.
-- Keep the Markdown intact completely.
-- Do not change headings.
-- Do not change tables.
-- Do not change images.
-- Do not change links.
-- Do not change the frontmatter.
-- Do not change code blocks.
+Internal linking and glossary logic:
+- Use the provided list of available glossary entries.
+- Add useful internal links to related glossary terms in body text.
+- Improve relatedTerms in frontmatter with strong, genuinely similar entries.
+- Use only entries from the provided list.
 
-Respond exclusively with the completely revised Markdown.
+Frontmatter rules:
+- Preserve existing fields.
+- Do not break images, tables, or code blocks.
+- If there is especially useful contextual insight, add a YAML field knowledge.
+- If there is meaningful historical context, add a YAML field history.
+- Add knowledge/history only when relevant.
+
+Respond only with the fully revised Markdown.
 No explanations.
 """,
 
     "ru": """
 Вы историк моды, текстовый редактор и SEO-эксперт.
 Вы получаете словарную статью в формате Markdown.
-Ваша задача — значительно улучшить статью и сделать ее максимально SEO-оптимизированной на русском языке.
-Оптимизируйте текст для поисковых систем (удобство чтения, органичное использование ключевых слов, привлекательные формулировки, 
-четкая семантическая структура) без потери профессиональной глубины.
+Ваша задача: существенно улучшить статью, усилить SEO и сохранить естественный стиль.
 
-Улучшите:
-- SEO-фокус (релевантность, поисковое намерение, размещение ключевых слов)
-- Грамматику
-- Орфографию
-- Читабельность
-- Стиль
-- Структуру
-- Понятность
+Обязательные правила:
+- Пишите уважительно в форме «вы».
+- Не используйте длинные тире (–, —) и искусственный «чат-стиль» с тире.
+- Не выдумывайте факты.
 
-Добавьте, если это уместно:
-- Происхождение термина
-- Историю
-- Особенности
-- Интересные факты
-- Материалы
-- Типичное использование
-- Связанные термины
-- Познавательную информацию
-- Контекст истории моды
+SEO и структура:
+- Точно попадать в поисковое намерение.
+- Органично использовать релевантные термины в заголовках и тексте.
+- Повысить семантическую полноту и читаемость без переспама ключевыми словами.
 
-Важно:
-- Не выдумывайте информацию.
-- Добавляйте только общеизвестные факты.
-- Полностью сохраните Markdown.
-- Не изменяйте заголовки.
-- Не изменяйте таблицы.
-- Не изменяйте изображения.
-- Не изменяйте ссылки.
-- Не изменяйте frontmatter (метаданные).
-- Не изменяйте блоки кода.
+Внутренняя перелинковка и глоссарий:
+- Используйте предоставленный список доступных глоссарных статей.
+- Добавляйте уместные внутренние ссылки на связанные термины в тексте.
+- Улучшайте relatedTerms в frontmatter, предлагая действительно похожие и полезные записи.
+- Используйте только записи из предоставленного списка.
+
+Правила для frontmatter:
+- Сохраните существующие поля.
+- Не ломайте изображения, таблицы и блоки кода.
+- Если есть важные и интересные факты по теме, добавьте поле YAML knowledge.
+- Если есть значимый исторический контекст, добавьте поле YAML history.
+- Добавляйте knowledge/history только по смыслу.
 
 Отвечайте исключительно полным пересмотренным Markdown.
 Никаких объяснений.
 """
 }
+
+GLOSSARY_CONTEXT_CACHE = {}
 
 # --------------------------------------------------------
 # Threading & UI Setup
@@ -217,13 +192,83 @@ def get_api_keys():
                 
     return list(keys)
 
-def optimize(markdown: str, client: genai.Client, lang: str) -> str:
+
+def _extract_frontmatter(content: str) -> str:
+    """Extrahiert den YAML-Frontmatter-Block (ohne Trenner) oder gibt leeren String zurück."""
+    m = re.search(r"^\s*---\r?\n(.*?)\r?\n---", content, re.DOTALL | re.MULTILINE)
+    return m.group(1) if m else ""
+
+
+def _frontmatter_value(frontmatter: str, key: str) -> str | None:
+    m = re.search(rf"^{key}:\s*(.*)$", frontmatter, re.MULTILINE)
+    if not m:
+        return None
+    val = m.group(1).strip()
+    if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+        val = val[1:-1].strip()
+    return val
+
+
+def build_glossary_context(lang: str) -> str:
+    """Erstellt eine kompakte Liste aller Glossareinträge einer Sprache für den Modell-Prompt."""
+    if lang in GLOSSARY_CONTEXT_CACHE:
+        return GLOSSARY_CONTEXT_CACHE[lang]
+
+    root = ROOTS.get(lang)
+    if not root or not root.exists():
+        GLOSSARY_CONTEXT_CACHE[lang] = ""
+        return ""
+
+    lang_prefix = "" if lang == "de" else f"/{lang}"
+    entries = []
+
+    for file in sorted(root.rglob("*.md")):
+        try:
+            content = file.read_text(encoding="utf-8")
+        except Exception:
+            continue
+
+        fm = _extract_frontmatter(content)
+        term = _frontmatter_value(fm, "term") or _frontmatter_value(fm, "title") or file.stem
+        desc = _frontmatter_value(fm, "description") or ""
+        slug = file.stem
+        url = f"{lang_prefix}/glossar/{slug}/"
+
+        # Kompakt halten, damit Promptgroesse nicht unnoetig explodiert.
+        if len(desc) > 140:
+            desc = desc[:137].rstrip() + "..."
+
+        if desc:
+            entries.append(f"- {term}: {url} | {desc}")
+        else:
+            entries.append(f"- {term}: {url}")
+
+    context = "\n".join(entries)
+    GLOSSARY_CONTEXT_CACHE[lang] = context
+    return context
+
+
+def build_prompt(lang: str) -> str:
+    """Kombiniert Basis-Prompt mit der sprachspezifischen Glossar-Liste."""
+    base = PROMPTS.get(lang, PROMPTS["en"]).strip()
+    glossary_context = build_glossary_context(lang)
+    if not glossary_context:
+        return base
+
+    return (
+        f"{base}\n\n"
+        "Verfügbare Glossareintraege fuer interne Verlinkung und relatedTerms:\n"
+        "Verwende nur diese Einträge als interne Linkziele:\n"
+        f"{glossary_context}"
+    )
+
+def optimize(markdown: str, client, lang: str) -> str:
     """Sendet den Markdown-Text an die Gemini API zur SEO-Optimierung mit unendlicher Retry-Logik."""
     base_delay = 10  # Start-Wartezeit in Sekunden
     max_delay = 300  # Maximal 5 Minuten (300s) warten pro Durchgang
     attempt = 0
     
-    prompt = PROMPTS.get(lang, PROMPTS["en"]) # Fallback auf EN falls Sprache unbekannt
+    prompt = build_prompt(lang)  # Basis-Prompt + Glossar-Kontext
 
     while True:
         try:
@@ -249,7 +294,7 @@ def optimize(markdown: str, client: genai.Client, lang: str) -> str:
                 # Bei komplett anderen, unbekannten Fehlern (z.B. falscher API-Key) sofort abbrechen
                 raise e
 
-def process(path: Path, client: genai.Client, lang: str, worker_id: int):
+def process(path: Path, client, lang: str, worker_id: int):
     """Verarbeitet eine einzelne Datei für die Optimierung."""
     safe_print(f"[Worker {worker_id}] → {path}")
 
@@ -271,6 +316,7 @@ def process(path: Path, client: genai.Client, lang: str, worker_id: int):
 def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
     """Die Hauptaufgabe für jeden Thread: Holt Dateien aus der Queue und verarbeitet sie."""
     try:
+        from google import genai
         client = genai.Client(api_key=api_key)
     except Exception as e:
         safe_print(f"[Worker {worker_id}] Fehler beim Initialisieren des Clients: {e}")
@@ -297,11 +343,39 @@ def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
         
     safe_print(f"[Worker {worker_id}] Beendet (Warteschlange leer).")
 
-def show_overview():
-    """Liest alle Markdown-Dateien aus allen konfigurierten Sprachen aus und gibt Term und Beschreibung aus."""
+def parse_languages(raw_languages: str) -> list[str]:
+    """Parst CSV-Sprachliste wie 'de,en,ru' und validiert gegen konfigurierte Sprachen."""
+    parts = [p.strip().lower() for p in raw_languages.split(",") if p.strip()]
+    if not parts:
+        raise ValueError("Leere Sprachliste. Beispiel: --language de,en,ru")
+
+    allowed = set(ROOTS.keys())
+    invalid = sorted([p for p in parts if p not in allowed])
+    if invalid:
+        raise ValueError(
+            f"Unbekannte Sprache(n): {', '.join(invalid)}. Erlaubt sind: {', '.join(sorted(allowed))}"
+        )
+
+    # Reihenfolge beibehalten, Duplikate entfernen
+    unique = list(dict.fromkeys(parts))
+    return unique
+
+
+def is_older_than_days(path: Path, days: int) -> bool:
+    """Prueft, ob Datei-Aenderungszeitpunkt aelter als angegebene Tage ist."""
+    if days <= 0:
+        return True
+
+    age_seconds = time.time() - path.stat().st_mtime
+    return age_seconds > days * 86400
+
+
+def show_overview(languages: list[str]):
+    """Liest alle Markdown-Dateien aus den gewählten Sprachen aus und gibt Term und Beschreibung aus."""
     total_files = 0
     
-    for lang, root in ROOTS.items():
+    for lang in languages:
+        root = ROOTS[lang]
         if not root.exists():
             print(f"Ordner existiert nicht: {root}")
             continue
@@ -350,14 +424,33 @@ def show_overview():
             print(f"   {description}")
             print("-" * 50)
             
-    print(f"\nGesamt: {total_files} Einträge in allen Sprachen.")
+    print(f"\nGesamt: {total_files} Einträge in den gewählten Sprachen ({', '.join(languages)}).")
 
 def main():
     parser = argparse.ArgumentParser(description="Verwaltet und optimiert mehrsprachige Glossareinträge.")
     parser.add_argument("--optimize", action="store_true", help="Optimiert alle Glossareinträge (SEO & Text) via Gemini API. Nutzt alle GEMINI_API_KEYs im Env.")
     parser.add_argument("--overview", action="store_true", help="Gibt eine Übersicht aller Glossareinträge aus.")
+    parser.add_argument(
+        "--language",
+        default=",".join(DEFAULT_LANGUAGES),
+        help="CSV-Liste der Sprachen, die analysiert/bearbeitet werden sollen (z.B. de,en,ru oder nur de). Default: de,en,ru",
+    )
+    parser.add_argument(
+        "--older-than-days",
+        type=int,
+        default=0,
+        help="Nur mit --optimize: verarbeitet nur Dateien, deren Änderungsdatum älter als X Tage ist. 0 = kein Altersfilter (Default).",
+    )
     
     args = parser.parse_args()
+
+    try:
+        selected_languages = parse_languages(args.language)
+    except ValueError as e:
+        parser.error(str(e))
+
+    if args.older_than_days < 0:
+        parser.error("--older-than-days darf nicht negativ sein.")
 
     # Wenn keine Argumente übergeben wurden, zeige die Hilfe an
     if not (args.optimize or args.overview):
@@ -365,7 +458,7 @@ def main():
         return
 
     if args.overview:
-        show_overview()
+        show_overview(selected_languages)
 
     if args.optimize:
         api_keys = get_api_keys()
@@ -377,17 +470,25 @@ def main():
 
         task_queue = queue.Queue()
         
+        skipped_by_age = 0
+
         # Fülle die Warteschlange mit Aufgaben
-        for lang, root in ROOTS.items():
+        for lang in selected_languages:
+            root = ROOTS[lang]
             if not root.exists():
                 print(f"Warnung: Ordner existiert nicht, wird übersprungen: {root}")
                 continue
                 
             files = sorted(root.rglob("*.md"))
             for file in files:
-                task_queue.put((file, lang))
+                if is_older_than_days(file, args.older_than_days):
+                    task_queue.put((file, lang))
+                else:
+                    skipped_by_age += 1
                 
         print(f"Insgesamt {task_queue.qsize()} Dateien in die Warteschlange gestellt.\n")
+        if args.older_than_days > 0:
+            print(f"Altersfilter aktiv: älter als {args.older_than_days} Tag(e). Übersprungen: {skipped_by_age} Datei(en).\n")
         
         if task_queue.qsize() == 0:
             print("Keine Dateien zu verarbeiten.")
@@ -411,7 +512,14 @@ def main():
         for t in threads:
             t.join()
 
-        print("\n\n🎉 Optimierung in allen Sprachen abgeschlossen.")
+        print(f"\n\n🎉 Optimierung für folgende Sprachen abgeschlossen: {', '.join(selected_languages)}")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BrokenPipeError:
+        # Erlaubt sauberes Beenden bei gepipter Ausgabe, z.B. '| head'.
+        try:
+            sys.stdout.close()
+        except Exception:
+            pass
