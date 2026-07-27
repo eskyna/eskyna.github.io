@@ -1,0 +1,210 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+const path = require("path");
+
+const DEFAULT_BASE_URL = "https://eskyna.com/";
+const DEFAULT_ENDPOINT = "https://api.indexnow.org/indexnow";
+const DEFAULT_BATCH_SIZE = 10000;
+
+function parseArgs(argv) {
+  const args = {};
+  for (let i = 0; i < argv.length; i += 1) {
+    const token = argv[i];
+    if (!token.startsWith("--")) continue;
+
+    const key = token.slice(2);
+    const next = argv[i + 1];
+    if (!next || next.startsWith("--")) {
+      args[key] = true;
+      continue;
+    }
+
+    args[key] = next;
+    i += 1;
+  }
+  return args;
+}
+
+function detectIndexNowKey(staticDir) {
+  const entries = fs.readdirSync(staticDir, { withFileTypes: true });
+  const candidates = [];
+
+  for (const entry of entries) {
+    if (!entry.isFile()) continue;
+    if (!entry.name.endsWith(".txt")) continue;
+
+    const basename = entry.name.slice(0, -4);
+    if (!/^[A-Za-z0-9-]{8,128}$/.test(basename)) continue;
+
+    const absolute = path.join(staticDir, entry.name);
+    const content = fs.readFileSync(absolute, "utf8").trim();
+    if (content === basename) {
+      candidates.push(basename);
+    }
+  }
+
+  if (candidates.length === 1) return candidates[0];
+  if (candidates.length === 0) {
+    throw new Error("Kein IndexNow-Key gefunden. Lege static/<key>.txt mit dem Key als Inhalt an.");
+  }
+
+  throw new Error(
+    `Mehrere IndexNow-Key-Dateien gefunden (${candidates.join(", ")}). Bitte genau eine verwenden.`
+  );
+}
+
+function parseSitemap(sitemapPath) {
+  if (!fs.existsSync(sitemapPath)) return [];
+  const xml = fs.readFileSync(sitemapPath, "utf8");
+  const matches = [...xml.matchAll(/<loc>(.*?)<\/loc>/g)];
+  return matches.map((m) => m[1].trim()).filter(Boolean);
+}
+
+function walkFilesRecursively(dirPath) {
+  if (!fs.existsSync(dirPath)) return [];
+
+  const result = [];
+  const entries = fs.readdirSync(dirPath, { withFileTypes: true });
+  for (const entry of entries) {
+    const absolute = path.join(dirPath, entry.name);
+    if (entry.isDirectory()) {
+      result.push(...walkFilesRecursively(absolute));
+      continue;
+    }
+    result.push(absolute);
+  }
+  return result;
+}
+
+function normalizePathname(pathname) {
+  const withLeadingSlash = pathname.startsWith("/") ? pathname : `/${pathname}`;
+  const squashed = withLeadingSlash.replace(/\/+/g, "/");
+  if (squashed === "/") return "/";
+  return squashed.endsWith("/") ? squashed : `${squashed}/`;
+}
+
+function urlsFromPublicDir(publicDir, baseUrl) {
+  const allFiles = walkFilesRecursively(publicDir);
+  const htmlFiles = allFiles.filter((abs) => abs.endsWith(".html"));
+  const siteBase = baseUrl.endsWith("/") ? baseUrl.slice(0, -1) : baseUrl;
+
+  const urls = [];
+  for (const abs of htmlFiles) {
+    const rel = path.relative(publicDir, abs).split(path.sep).join("/");
+    if (rel === "404.html") continue;
+    if (rel === "index.html") {
+      urls.push(`${siteBase}/`);
+      continue;
+    }
+    if (rel.endsWith("/index.html")) {
+      urls.push(`${siteBase}${normalizePathname(rel.slice(0, -"index.html".length))}`);
+      continue;
+    }
+    urls.push(`${siteBase}/${rel}`);
+  }
+
+  return urls;
+}
+
+function chunk(items, size) {
+  const chunks = [];
+  for (let i = 0; i < items.length; i += size) {
+    chunks.push(items.slice(i, i + size));
+  }
+  return chunks;
+}
+
+async function submitToIndexNow({ endpoint, host, key, keyLocation, urls, batchSize }) {
+  const batches = chunk(urls, batchSize);
+  let failures = 0;
+
+  for (let i = 0; i < batches.length; i += 1) {
+    const payload = {
+      host,
+      key,
+      keyLocation,
+      urlList: batches[i],
+    };
+
+    const response = await fetch(endpoint, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+      },
+      body: JSON.stringify(payload),
+    });
+
+    if (response.status === 200 || response.status === 202) {
+      console.log(`Batch ${i + 1}/${batches.length}: akzeptiert (${response.status})`);
+      continue;
+    }
+
+    const body = await response.text();
+    console.error(`Batch ${i + 1}/${batches.length}: Fehler ${response.status} ${body}`);
+    failures += 1;
+  }
+
+  return failures;
+}
+
+async function main() {
+  const args = parseArgs(process.argv.slice(2));
+  const baseUrl = args["base-url"] || DEFAULT_BASE_URL;
+  const endpoint = args.endpoint || DEFAULT_ENDPOINT;
+  const sitemapPath = args.sitemap || path.resolve("public/sitemap.xml");
+  const publicDir = args["public-dir"] || path.resolve("public");
+  const staticDir = args["static-dir"] || path.resolve("static");
+  const batchSize = Number(args["batch-size"] || DEFAULT_BATCH_SIZE);
+
+  if (!Number.isInteger(batchSize) || batchSize < 1) {
+    throw new Error("--batch-size muss eine positive ganze Zahl sein.");
+  }
+
+  const key = args.key || process.env.INDEXNOW_KEY || detectIndexNowKey(staticDir);
+  const trimmedBase = baseUrl.endsWith("/") ? baseUrl.slice(0, -1) : baseUrl;
+  const keyLocation = args["key-location"] || `${trimmedBase}/${key}.txt`;
+  const host = new URL(trimmedBase).host;
+
+  let urls = parseSitemap(sitemapPath);
+  if (urls.length > 0) {
+    console.log(`Sitemap gefunden (${sitemapPath}): ${urls.length} URLs.`);
+  } else {
+    urls = urlsFromPublicDir(publicDir, trimmedBase);
+    console.log(`Keine Sitemap gefunden. Verwende HTML-Fallback aus ${publicDir}: ${urls.length} URLs.`);
+  }
+
+  urls = [...new Set(urls)].filter(Boolean);
+  console.log(`Eindeutige URLs fuer Versand: ${urls.length}`);
+
+  if (urls.length === 0) {
+    console.log("Keine URLs gefunden. Ende.");
+    return;
+  }
+
+  if (args["dry-run"]) {
+    console.log("Dry run aktiv. Erste 50 URLs:");
+    for (const url of urls.slice(0, 50)) {
+      console.log(`- ${url}`);
+    }
+    return;
+  }
+
+  const failures = await submitToIndexNow({
+    endpoint,
+    host,
+    key,
+    keyLocation,
+    urls,
+    batchSize,
+  });
+
+  if (failures > 0) {
+    process.exitCode = 1;
+  }
+}
+
+main().catch((error) => {
+  console.error(error.message || error);
+  process.exit(1);
+});

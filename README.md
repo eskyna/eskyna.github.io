@@ -153,6 +153,8 @@ npm run test:responsive
 The GitHub Pages workflow lives in `.github/workflows/hugo.yml`.
 It checks formatting, linting, translation structure and then builds the Hugo site.
 
+IndexNow setup and operations are documented in `docs/INDEXNOW.md`.
+
 ## License
 
 This project is proprietary commercial software.
