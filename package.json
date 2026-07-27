@@ -21,6 +21,8 @@
     "seo-audit:static": "node bin/seo-audit ./static/outfits",
     "indexnow:changed": "node bin/indexnow-submit-changed",
     "indexnow:changed:dry": "node bin/indexnow-submit-changed --dry-run",
+    "indexnow:all": "node bin/indexnow-submit-all",
+    "indexnow:all:dry": "node bin/indexnow-submit-all --dry-run",
     "check:live-assets": "python3 bin/check-live-assets",
     "build": "./bin/build-production",
     "build:ci": "./bin/build-production --templateMetrics --templateMetricsHints",
