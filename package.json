@@ -19,6 +19,8 @@
     "check:empty-hash-links": "bash ./bin/check-empty-hash-links",
     "seo-audit": "node bin/seo-audit",
     "seo-audit:static": "node bin/seo-audit ./static/outfits",
+    "indexnow:changed": "node bin/indexnow-submit-changed",
+    "indexnow:changed:dry": "node bin/indexnow-submit-changed --dry-run",
     "check:live-assets": "python3 bin/check-live-assets",
     "build": "./bin/build-production",
     "build:ci": "./bin/build-production --templateMetrics --templateMetricsHints",

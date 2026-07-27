@@ -516,3 +516,66 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  indexnow:
+    runs-on: ubuntu-latest
+    needs: [build, deploy]
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Resolve deploy mode
+        id: deploy_mode
+        run: |
+          MODE_INPUT="${{ github.event.inputs.deploy_mode || '' }}"
+          MODE_VAR="${{ vars.DEPLOY_MODE || '' }}"
+
+          if [[ -n "$MODE_INPUT" && "$MODE_INPUT" != "environment" ]]; then
+            MODE="$MODE_INPUT"
+          else
+            MODE="$MODE_VAR"
+          fi
+
+          if [[ -z "$MODE" ]]; then
+            MODE="live"
+          fi
+
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          echo "Resolved deploy mode: $MODE"
+
+      - name: Skip IndexNow on preview deploys
+        if: steps.deploy_mode.outputs.mode != 'live'
+        run: echo "Preview deploy erkannt, IndexNow wird uebersprungen."
+
+      - name: Setup Node.js
+        if: steps.deploy_mode.outputs.mode == 'live'
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Download artifact
+        if: steps.deploy_mode.outputs.mode == 'live'
+        uses: actions/download-artifact@v8
+        with:
+          name: github-pages
+          path: ./artifact
+
+      - name: Extract artifact
+        if: steps.deploy_mode.outputs.mode == 'live'
+        run: |
+          cd ./artifact
+          tar -xf artifact.tar
+          cd ..
+          mv ./artifact ./public
+
+      - name: Submit changed URLs to IndexNow
+        if: steps.deploy_mode.outputs.mode == 'live'
+        run: |
+          node bin/indexnow-submit-changed \
+            --base-url "https://eskyna.com/" \
+            --sitemap "./public/sitemap.xml" \
+            --from "${{ github.event.before || '' }}" \
+            --to "${{ github.sha }}"
