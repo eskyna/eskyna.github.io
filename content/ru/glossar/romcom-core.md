@@ -5,6 +5,7 @@ description: Romcom Core возвращает романтичные модны�
 category: Стилевые направления
 slug: romcom-core
 seoTitle: "Romcom Core: Романтичные коды 2000-х в актуальной версии | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Romcom Core с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

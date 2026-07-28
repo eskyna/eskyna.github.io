@@ -5,6 +5,7 @@ description: Brat Green это яркий кислотно-зеленый отт
 category: Цвет и впечатление
 slug: brat-green
 seoTitle: "Brat Green: Кислотный зеленый как акцент стиля | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Brat Green с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

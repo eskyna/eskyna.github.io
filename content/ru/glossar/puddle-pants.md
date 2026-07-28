@@ -5,6 +5,7 @@ description: Puddle Pants это удлиненные брюки, которые
 category: Силуэт и пропорции
 slug: puddle-pants
 seoTitle: "Puddle Pants: Удлиненный силуэт брюк простыми словами | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Puddle Pants с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

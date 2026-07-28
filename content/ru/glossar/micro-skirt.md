@@ -5,6 +5,7 @@ description: Micro Skirt это очень короткая юбка, котор
 category: Силуэт и пропорции
 slug: micro-skirt
 seoTitle: "Micro Skirt: Короткий силуэт и баланс в образе | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Micro Skirt с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: Statement tights делают колготки визуальным
 category: Аксессуары
 slug: statement-strumpfhose
 seoTitle: "Statement tights: Яркий акцент в зоне ног | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Statement tights с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,8 @@ description: Pop of Red setzt Rot als gezielten Blickfang in neutralen Looks ein
 category: Stil & Wirkung
 slug: pop-of-red
 seoTitle: "Pop of Red: Rote Akzente im Outfit richtig setzen | ESKYNA"
+image: images/glossar/pop-of-red.png
+image_alt: "Editoriale Glossar-Grafik zu Pop of Red mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

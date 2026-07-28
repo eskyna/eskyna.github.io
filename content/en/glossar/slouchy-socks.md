@@ -5,6 +5,7 @@ description: Slouchy Socks are intentionally scrunched socks worn as a visible s
 category: Shoes
 slug: slouchy-socks
 seoTitle: "Slouchy Socks: Soft Ankle Styling Detail Explained | ESKYNA"
+image_alt: "Editorial glossary illustration for Slouchy Socks with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

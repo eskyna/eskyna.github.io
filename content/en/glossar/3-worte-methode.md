@@ -5,6 +5,7 @@ description: The 3-Word Method defines a look through three style adjectives and
 category: Styling Principles
 slug: 3-worte-methode
 seoTitle: "3-Word Method: Define Your Outfit Direction Clearly | ESKYNA"
+image_alt: "Editorial glossary illustration for 3-Word Method with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

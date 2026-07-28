@@ -5,6 +5,7 @@ description: Fairycore это воздушная эстетика с мягки�
 category: Стилевые направления
 slug: fairycore
 seoTitle: "Fairycore: Воздушные фактуры и романтичная многослойность | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Fairycore с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

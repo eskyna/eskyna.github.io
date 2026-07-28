@@ -5,6 +5,7 @@ description: Eclectic Grandpa blends classic menswear references with playful st
 category: Style Aesthetics
 slug: eclectic-grandpa
 seoTitle: "Eclectic Grandpa: Vintage Menswear Codes Reframed | ESKYNA"
+image_alt: "Editorial glossary illustration for Eclectic Grandpa with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

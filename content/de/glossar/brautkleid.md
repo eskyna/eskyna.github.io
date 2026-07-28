@@ -8,112 +8,114 @@ seoTitle: "Brautkleid: Passform, Stil und Auswahl | ESKYNA"
 image: "images/glossar/brautkleid.png"
 image_alt: "Modernes Brautkleid mit klarer Silhouette und fließendem Rock in natürlicher Bewegung"
 lastmod: "2026-07-21"
+relatedTerms:
+  - "a-linie"
+  - "a-linien-kleid"
+  - "abendkleid"
+  - "anlassgarderobe"
+  - "standesamt-look"
+  - "ballkleid"
+  - "etuikleid"
+  - "empire-kleid"
+knowledge:
+  - "Das Hochzeitskleid muss nicht zwingend weiß sein, sondern sollte farblich zu deinem persönlichen Farbtyp passen."
+  - "Ein Brautkleid ist erst nach der präzisen Anpassung durch eine Schneiderin wirklich fertig."
+  - "Der Bewegungstest bei der Anprobe sichert den nötigen Komfort beim Gehen, Sitzen und Tanzen."
+history:
+  - "Bis ins 19. Jahrhundert trugen bürgerliche Bräute meist ihr bestes schwarzes Kleid, um es später weiterzunutzen."
+  - "Königin Victoria von England etablierte 1840 mit ihrem weißen Hochzeitskleid den weltweiten Trend zu hellen Tönen."
 ---
 
-Ein Brautkleid ist ein Kleid, das für die eigene Hochzeit gewählt wird und dessen Gestaltung von schlicht und alltagstauglich bis festlich und aufwendig reichen kann.
+Ein Brautkleid ist weit mehr als nur ein schönes Kleid für den Hochzeitstag. Es ist ein hochemotionales Kleidungsstück, das deine persönliche Geschichte erzählt, deinen Stil widerspiegelt und dich durch einen der ereignisreichsten Tage deines Lebens begleitet.
 
-## Definition
+## Definition und historische Entwicklung
 
-Der Begriff **Brautkleid** (auch _Hochzeitskleid_) beschreibt in erster Linie die funktionale und zeremonielle Bestimmung des Kleidungsstücks: Es ist das zentrale Gewand, das von der Braut im Rahmen der Eheschließung getragen wird. Modehistorisch und stilistisch sind Farbe, Länge, Material und Silhouette keineswegs starr festgelegt. Neben dem klassischen, bodenlangen Kleid in hellen Nuancen umfasst die moderne Brautmode ebenso farbige Entwürfe, kurze Modelle, minimalistische Standesamtkleider, Hosenanzüge oder wandelbare Braut-Zweiteiler (Mix-and-Match).
+Der Begriff Brautkleid, im alltäglichen Sprachgebrauch oft auch Hochzeitskleid genannt, beschreibt die funktionale und zeremonielle Kleidung für die Braut während der Eheschließung. In der modernen Brautmode ist die Gestaltung extrem vielseitig. Sie reicht von der klassischen, bodenlangen Robe über minimalistische Designs für den [Standesamt-Look](/glossar/standesamt-look/) bis hin zu zeitgemäßen Alternativen wie einem eleganten [Hosenanzug](/glossar/hosenanzug/) oder praktischen Zweiteilern.
 
-Aus textilhistorischer Sicht hat das Brautkleid eine faszinierende Evolution durchlaufen. Während im bürgerlichen Milieu bis weit ins 19. Jahrhundert hinein oft das beste Sonntagskleid, häufig in praktischem Schwarz oder dunklen Farben, getragen wurde, um es auch danach im Alltag nutzen zu können, etablierte sich das weiße Brautkleid zunächst als Statussymbol des Adels. Wegweisend für diesen Trend war die Hochzeit der britischen Königin Victoria im Jahr 1840, die ein opulentes Kleid aus weißer Seidensatin und wertvoller Honiton-Spitze trug. Weiß symbolisierte fortan nicht nur Reinheit, sondern vor allem Wohlstand, da helle, empfindliche Stoffe schwer zu reinigen und somit ein Luxusgut waren.
+Aus modehistorischer Sicht hat das Hochzeitskleid eine faszinierende Entwicklung durchlaufen. Bis weit in das 19. Jahrhundert hinein trugen bürgerliche Bräute meist ihr bestes Sonntagskleid. Dieses war oft schwarz oder in dunklen Farben gehalten, damit es auch nach der Hochzeit im Alltag getragen werden konnte.
 
-Typische Gestaltungselemente moderner Brautkleider sind:
+Erst im Jahr 1840 setzte die britische Königin Victoria mit ihrer Hochzeit einen weltweiten Trend. Sie trug ein opulentes, weißes Kleid aus kostbarem [Satin](/glossar/satin/) und edler Spitze. Weiß entwickelte sich dadurch rasch zum ultimativen Statussymbol des Adels. Es zeigte Wohlstand an, da helle und empfindliche Stoffe extrem schwer zu reinigen und somit purer Luxus waren.
 
-- **Exquisite Textilien:** Hochwertige Stoffe wie Seide, edler Satin (z. B. Mikado-Satin), zarter Chiffon, Organza, Crêpe, Georgette und Tüll.
-- **Dekorative Details:** Aufwendige Spitzenapplikationen (wie französische Chantilly-Spitze oder plastische Guipure-Spitze), feine Perlen- und Paillettenstickereien sowie kunstvolle Drapierungen.
-- **Konstruktive Elemente:** Integrierte Korsagen, formgebende Stäbchen, Taillenbänder, Schleppen oder abnehmbare Elemente wie Überröcke und Ärmel.
+Typische Merkmale moderner Brautkleider sind:
+
+- **Exquisite Materialien:** Hochwertige Webstoffe wie Seide, edler [Satin](/glossar/satin/), zarter [Chiffon](/glossar/chiffon/), [Organza](/glossar/organza/), Crêpe und fließender [Tüll](/glossar/tuell/) prägen das Hautgefühl und den Fall des Kleides.
+- **Konstruktive Details:** Integrierte Elemente wie eine stützende [Korsage](/glossar/korsage-corsage/), formgebende Stäbchen oder aufwendige Spitzenapplikationen geben dem Kleid Stabilität und Form.
+- **Die passende Silhouette:** Die gewählte [Silhouette](/glossar/silhouette/) bestimmt die optischen Proportionen. Beliebt sind die klassische [A-Linie](/glossar/a-linie/) beziehungsweise das ausgestellte [A-Linien-Kleid](/glossar/a-linien-kleid/), das prachtvolle [Ballkleid](/glossar/ballkleid/) für den großen Auftritt, das fließende [Empire-Kleid](/glossar/empire-kleid/) mit hoher Taillennaht oder das schmale [Etuikleid](/glossar/etuikleid/) für eine reduzierte, elegante Form.
 
 ## Einfach erklärt
 
-Ein Brautkleid ist das Kleid, in dem du heiratest. Seine wichtigste Aufgabe ist nicht, einer starren Tradition oder fremden Erwartungen zu entsprechen, sondern perfekt zu deinem persönlichen Stil, dem Rahmen eurer Feier und den realen Abläufen deines Hochzeitstages zu passen. Es vereint Ästhetik mit Funktionalität, damit du dich den gesamten Tag über selbstbewusst und wohl fühlst.
+Ein Brautkleid ist das Kleid, in dem du heiratest. Seine wichtigste Aufgabe ist nicht, einer starren Tradition oder den Erwartungen anderer zu entsprechen. Es muss perfekt zu deiner Persönlichkeit, dem Rahmen deiner Feier und den realen Abläufen deines Hochzeitstages passen. Es vereint Ästhetik mit Funktionalität, damit du dich den gesamten Tag über selbstbewusst und rundum wohl fühlst.
 
-## Warum das Brautkleid wichtig ist
+## Warum das Brautkleid so wichtig ist
 
-Kaum ein Kleidungsstück ist emotional und kulturell so stark aufgeladen wie das Hochzeitskleid. Diese hohe Erwartungshaltung führt in der Praxis oft dazu, dass sich Bräute bei der Auswahl von Trends oder den Meinungen anderer verunsichern lassen. Ein stimmiges Brautkleid meistert das Zusammenspiel aus drei wesentlichen Dimensionen:
+Kaum ein Kleidungsstück ist emotional und kulturell so stark aufgeladen. Diese hohe Erwartungshaltung führt in der Praxis oft dazu, dass sich Bräute bei der Auswahl von Trends oder den Meinungen von Begleitpersonen verunsichern lassen. Ein stimmiges Brautkleid meistert das Zusammenspiel aus drei wesentlichen Dimensionen:
 
-1. **Persönliche Stilidentität:** Es spiegelt deine Persönlichkeit wider und wirkt wie eine edle, authentische Version deiner selbst, nicht wie eine Verkleidung.
-2. **Kontextuelle Wirkung:** Es harmoniert mit dem Hochzeitsthema, der Location (z. B. Strandhochzeit vs. barocker Festsaal) und der Jahreszeit.
-3. **Physischer Komfort:** Ein gelungenes Design überzeugt nicht nur im Stehen vor dem Spiegel. Es schenkt dir die nötige Bewegungsfreiheit zum Gehen, Sitzen, Umarmen, Essen und Tanzen über viele Stunden hinweg.
+1. **Deine Stilidentität:** Es spiegelt deine Persönlichkeit wider und wirkt wie eine edle, authentische Version deiner selbst. Dein [Personal Style](/glossar/personal-style/) bleibt sichtbar, du fühlst dich nicht verkleidet.
+2. **Die kontextuelle Wirkung:** Das Kleid harmoniert mit dem Thema der Hochzeit, der Jahreszeit und der Location, beispielsweise bei einer Strandhochzeit im Vergleich zu einem barocken Festsaal.
+3. **Der physische Komfort:** Ein gelungenes Design überzeugt nicht nur im Stehen vor dem Spiegel. Es schenkt dir die nötige Freiheit für jede Bewegung. Hier kommt die [Bewegungszugabe](/glossar/bewegungszugabe/) ins Spiel. Du musst darin problemlos gehen, sitzen, umarmen, essen und tanzen können.
 
-## Blick aus der Beratung
+## Blick aus der Stilberatung: So findest du dein Kleid
 
-Aus professioneller Styling-Perspektive beginnt die Suche nach dem perfekten Brautkleid nicht bei standardisierten Schubladen wie dem klassischen Figurtyp, sondern bei den konkreten Rahmenbedingungen deines Hochzeitstages und deinen persönlichen Tragegewohnheiten.
+Aus professioneller Sicht beginnt die Suche nach dem passenden Brautkleid nicht bei standardisierten Schubladen, sondern bei deinen persönlichen Tragegewohnheiten und den Rahmenbedingungen deines Hochzeitstages.
 
-Wichtige Aspekte der Passform und Konstruktion:
+Die Qualität eines Kleides zeigt sich vor allem in seiner unsichtbaren Architektur. Hochwertige Cups, eingenähte Stäbchen und ein stützendes Innenleben fangen das Gewicht des Stoffes auf. Das entlastet deine Schultern und sorgt für verlässlichen Halt, ohne deine Atmung einzuschränken.
 
-- **Die Silhouette:** Die Wahl der Schnittführung definiert die optischen Proportionen. Zu den Klassikern zählen die universell schmeichelnde A-Linie, das opulente Ballkleid (Prinzessinnen-Stil), das fließende Empire-Kleid, das schmale Etuikleid sowie die figurbetonten Schnitte im Meerjungfrauen- (Mermaid) oder Fit-and-Flare-Stil.
-- **Innere Werte:** Die Qualität eines Brautkleides zeigt sich in seiner unsichtbaren Architektur. Hochwertige Cups, eingenähte Stäbchen und ein stützendes Innenleben (z. B. ein elastisches Taillenband) fangen das Gewicht des Kleides auf, entlasten die Schultern und sorgen für verlässlichen Halt, ohne die Atmung einzuschränken.
-- **Die Änderungsphase:** Fast jedes Brautkleid ist ein Halbfabrikat, das erst durch die präzise Arbeit einer Schneiderin vollendet wird. Anpassungen an der Saumlänge, den Trägern, der Oberweite oder dem Ausschnitt sind völlig normal und essenziell für den perfekten Sitz.
+Zudem solltest du im Hinterkopf behalten, dass fast jedes Brautkleid ein Rohling ist. Erst durch die präzise Arbeit einer Schneiderin wird es perfekt an deine individuelle [Passform](/glossar/passform/) angepasst und rückt deine [Proportion](/glossar/proportion/) ins beste Licht.
 
-## So nutzt du den Begriff praktisch
+## So nutzt du dieses Wissen im Alltag
 
-- **Fokus definieren:** Lege vor dem ersten Anprobetermin drei "Wirkungswörter" fest (z. B. _puristisch_, _fließend_, _modern_ oder _romantisch_, _leicht_, _verspielt_), um deine Suche zu fokussieren.
-- **Passende Vorbereitung:** Trage zur Anprobe hautfarbene, nahtlose Unterwäsche (Shapewear) und bringe Schuhe mit einer Absatzhöhe mit, die deiner geplanten Hochzeitsschuh-Höhe entspricht.
-- **Der Bewegungstest:** Teste jedes favorisierte Kleid in Aktion. Setze dich hin, hebe die Arme (wichtig für Umarmungen und den Hochzeitstanz), drehe dich und simuliere ein paar Schritte im schnellen Gehen.
-- **Echte Perspektiven:** Lass dich beim Fotografieren aus verschiedenen Winkeln (Front, Profil, Rücken) und in einer natürlichen, ungestellten Körperhaltung abbilden.
-- **Budgetierung:** Plane Kosten für professionelle Änderungen (Kürzen, Anpassen), passende Unterwäsche, Schleier, Haarschmuck und Schuhe von Anfang an fest in dein Gesamtbudget ein.
+- **Wirkungswörter definieren:** Lege vor der ersten Anprobe drei Begriffe für deine gewünschte Wirkung fest, zum Beispiel puristisch, fließend und modern. Das hilft dir, dich im Überangebot nicht zu verlieren.
+- **Die richtige Unterwäsche tragen:** Trage zur Anprobe hautfarbene, nahtlose [Shapewear](/glossar/shapewear/) und bringe Schuhe mit einer Absatzhöhe mit, die deiner geplanten Hochzeitsschuhhöhe entspricht.
+- **Den Bewegungstest machen:** Teste jedes favorisierte Kleid in Aktion. Setze dich hin, hebe die Arme und simuliere ein paar schnelle Schritte.
+- **Echte Perspektiven nutzen:** Lass dich beim Fotografieren aus verschiedenen Winkeln ablichten, im Profil, von hinten und in einer ungestellten Körperhaltung.
+- **Das Budget planen:** Plane die Kosten für professionelle Änderungen, die passende Unterwäsche und Accessoires von Anfang an fest ein.
 
-## Beispiel aus dem Alltag
+## Ein anschauliches Beispiel
 
-Eine Braut, die im Alltag fast ausschließlich minimalistische, cleane Schnitte trägt, lässt sich von romantischen Hochzeitsfotos inspirieren und probiert ein opulentes, stark verziertes Prinzessinnen-Kleid an. In der Kabine fühlt sie sich jedoch verkleidet und eingeengt. Die Lösung: Ein puristisches Brautkleid aus fließendem Crêpe mit einer klaren, modernen Silhouette. Kombiniert mit einem zarten Schleier mit Spitzenkante und auffälligen Statement-Ohrringen entsteht ein festlicher, hochzeitswürdiger Look, der absolut authentisch bleibt.
+Eine Braut, die im Alltag fast ausschließlich minimalistische, klare Schnitte trägt, lässt sich von romantischen Hochzeitsfotos inspirieren und probiert ein opulentes, stark verziertes Kleid im Prinzessinnenstil an. In der Kabine fühlt sie sich jedoch eingeengt und verkleidet.
 
-## Typisches Missverständnis
+Die Lösung ist ein puristisches Brautkleid aus fließendem Crêpe mit einer klaren Silhouette. Kombiniert mit einem feinen Schleier und modernen Accessoires entsteht ein festlicher, hochzeitswürdiger Look, der absolut authentisch bleibt.
 
-> „Ein Brautkleid muss beim ersten Hineinschlüpfen sofort zu Tränen und einem magischen Wow-Moment führen.“
+## Typische Missverständnisse
 
-Dieses durch Medien geprägte Bild erzeugt enormen Druck. In der Realität entscheiden sich viele Bräute ganz rational, ruhig und mit einem Gefühl von tiefer Zufriedenheit und Stimmigkeit für ihr Kleid. Ein Ausbleiben von Tränen in der Kabine bedeutet keineswegs, dass es nicht das richtige Kleid ist. Vertraue auf dein körperliches Wohlbefinden und darauf, ob du dich in dem Kleid wie du selbst fühlst.
+Sehr oft wird geglaubt, dass ein Brautkleid beim ersten Hineinschlüpfen sofort zu Tränen und einem magischen Moment führen muss. Dieses durch Medien geprägte Bild erzeugt enormen Druck.
+
+In der Realität entscheiden sich viele Bräute ganz rational, ruhig und mit einem Gefühl von tiefer Zufriedenheit für ihr Kleid. Ein Ausbleiben von Tränen in der Kabine bedeutet keineswegs, dass es nicht das richtige Kleid ist. Vertraue auf dein körperliches Wohlbefinden.
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-- **Abendkleid:** Ein elegantes, meist langes Kleid für formelle Abendanlässe (Gala, Oper, Abschlussball). Es ist farblich extrem vielseitig und nicht auf den Kontext einer Hochzeit ausgerichtet.
-- **Standesamtkleid:** Bezeichnet primär den Einsatzort. Meist zeichnet es sich durch ein reduzierteres Design, eine kürzere Saumlänge (z. B. Midi oder Knie umspielend) und hohe Praxistauglichkeit aus.
-- **Braut-Zweiteiler:** Eine moderne Alternative zum klassischen Einteiler, bestehend aus separat kombinierbaren Elementen wie Rock, Hose oder Shorts und verschiedenen Oberteilen (Crops, Spitzenbodys, Blusen).
-- **Ballkleid:** Ein sehr formelles Kleid für traditionelle Bälle, charakterisiert durch ein eng anliegendes Oberteil (Mieder) und einen extrem weiten, ausladenden Rock.
+- **[Abendkleid](/glossar/abendkleid/):** Ein elegantes, meist langes Kleid für formelle Anlässe wie eine Gala oder einen Ball. Es gehört zur klassischen [Abendgarderobe](/glossar/abendgarderobe/) beziehungsweise zur [Anlassgarderobe](/glossar/anlassgarderobe/), ist farblich völlig frei und nicht auf Hochzeiten ausgerichtet.
+- **Standesamtkleid:** Bezeichnet primär den Einsatzort. Meist zeichnet es sich durch ein reduzierteres Design, eine kürzere Saumlänge und hohe Praxistauglichkeit aus.
+- **[Ballkleid](/glossar/ballkleid/):** Ein sehr formelles Kleid für traditionelle Bälle, charakterisiert durch ein eng anliegendes Oberteil und einen extrem weiten, ausladenden Rock.
 
 ## ESKYNA-Merksatz
 
 > Das perfekte Brautkleid erfüllt keine fremden Erwartungen, es trägt dich mit Leichtigkeit, Komfort und unverwechselbarer Eleganz durch deinen ganz besonderen Tag.
 
-## Entscheidungshilfe vor dem nächsten Kauf
+## Entscheidungshilfe vor dem Kauf: Deine Checkliste
 
-Bevor du dich final für dein Brautkleid entscheidest, gehe diese Checkliste durch:
+Bevor du dich final für dein Kleid entscheidest, gehe diese Punkte durch:
 
-- **Stil-Check:** Spiegelt das Design deine Persönlichkeit wider, oder folgst du nur einem kurzlebigen Trend?
-- **Komfort-Check:** Kannst du in dem Kleid mühelos atmen, aufrecht sitzen und die Arme über den Kopf heben?
-- **Sicherheits-Check:** Verrutschen Ausschnitt, Träger oder die Korsage bei Bewegung, oder sitzt alles fest am Platz?
-- **Untergrund-Check:** Ist die Saumlänge und die eventuelle Schleppe an die Location angepasst (z. B. Wiese, Kopfsteinpflaster, Strand)?
-- **Logistik-Check:** Sind die Details zu Lieferzeiten, Kosten für Änderungen, Reinigung, Transport und der faltenfreien Aufbewahrung bis zum Hochzeitstag geklärt?
+- **Stil:** Spiegelt das Design deine Persönlichkeit wider oder folgst du nur einem Trend?
+- **Komfort:** Kannst du in dem Kleid mühelos atmen, aufrecht sitzen und die Arme heben?
+- **Sicherheit:** Verrutschen Ausschnitt, Träger oder die [Korsage](/glossar/korsage-corsage/) bei Bewegung oder sitzt alles fest?
+- **Untergrund:** Ist die Saumlänge an deine Location angepasst, etwa bei einer Wiese oder am Strand?
+- **Logistik:** Sind die Lieferzeiten, die Kosten für Änderungen und die Aufbewahrung bis zum Hochzeitstag geklärt?
 
-## Wann Beratung sinnvoll wird
+## Wann eine Stilberatung sinnvoll ist
 
-Eine professionelle, unabhängige Stilberatung ist besonders dann wertvoll, wenn:
-
-- Du von der Fülle an Stilen, Silhouetten und Pinterest-Inspirationen überfordert bist.
-- Unterschiedliche Meinungen von Begleitpersonen deine eigene Wahrnehmung und Intuition blockieren.
-- Du Unsicherheiten bezüglich deiner Körperproportionen hast und erfahren möchtest, welche Schnittkonstruktionen dich optimal unterstützen.
-- Du ein maßgeschneidertes oder stark modifiziertes Kleid planst und fachlichen Rat bezüglich Stoffauswahl, Machbarkeit und Linienführung benötigst.
-
-## Verwandte Begriffe
-
-Anlassgarderobe, Abendmode, A-Linie, Empire-Stil, Schleier, Korsage, Passform, Bequemlichkeitszugabe, Silhouette, Proportionenlehre, Hochzeitsanzug
-
-## Welche Fragen klärt dieser Begriff?
-
-- Welche Brautkleid-Silhouette passt am besten zu meiner individuellen Körperstatur und gewünschten Wirkung?
-- Welche funktionalen Kriterien muss ein Hochzeitskleid erfüllen, um den gesamten Tag über bequem zu sein?
-- Wie unterscheide ich echte Qualität von minderwertiger Verarbeitung in der Brautmode?
+Eine professionelle, unabhängige Beratung unterstützt dich besonders dann, wenn die Fülle an Stilen und Inspirationen dich überfordert. Auch wenn unterschiedliche Meinungen von Begleitpersonen deine eigene Wahrnehmung blockieren, hilft der neutrale Blick von außen. So findest du systematisch heraus, welche Schnittkonstruktionen dich optimal unterstützen und wie du deine Wünsche am besten umsetzt.
 
 ## Häufige Fragen
 
-### Muss ein Brautkleid weiß sein?
+### Muss ein Brautkleid immer weiß sein?
 
-Nein. Der Brauch des weißen Kleides ist historisch betrachtet relativ jung (19. Jahrhundert). Heute reicht die Farbpalette der Brautmode von klassischen Nuancen wie Elfenbein (Ivory), Creme, Champagner und Off-White über zarte Pastelltöne (Rosé, Blush, Salbei, Hellblau) bis hin zu ausdrucksstarken Farben oder sogar elegantem Schwarz. Erlaubt ist, was gefällt und dem eigenen Farbtyp schmeichelt.
+Nein. Der Brauch des weißen Kleides ist historisch betrachtet noch recht jung. Heute reicht die Farbpalette der Brautmode von klassischen Nuancen wie [Creme](/glossar/creme/), [Champagner](/glossar/champagner/) und [Off-White](/glossar/off-white/) über zarte Pastelltöne bis hin zu ausdrucksstarken Farben. Erlaubt ist, was gefällt und deinem persönlichen [Farbtyp](/glossar/farbtyp/) schmeichelt.
 
 ### Wie früh sollte die Passform geprüft werden?
 
-Der ideale Zeitplan sieht vor, das Brautkleid etwa 6 bis 9 Monate vor der Hochzeit auszuwählen, da die Produktionszeiten der Hersteller oft mehrere Monate betragen. Die erste Anprobe für die Feinabstimmung und Änderungswünsche beim Schneider sollte ca. 6 bis 8 Wochen vor dem Hochzeitstermin stattfinden. Die finale Passformkontrolle (letztes Fitting) erfolgt idealerweise 2 bis 3 Wochen vor dem großen Tag, um eventuelle kurzfristige Gewichtsveränderungen präzise auszugleichen.
+Der ideale Zeitplan sieht vor, das Brautkleid etwa sechs bis neun Monate vor der Hochzeit auszuwählen, da die Produktionszeiten oft mehrere Monate betragen. Die erste Anprobe für die Feinabstimmung beim Schneider sollte circa sechs bis acht Wochen vor dem Termin stattfinden. Die finale Passformkontrolle erfolgt am besten zwei bis drei Wochen vor dem großen Tag.
 
-### Sollte ich das Kleid eine Größe kleiner bestellen, wenn ich abnehmen möchte?
+### Sollte ich das Kleid eine Nummer kleiner bestellen, wenn ich abnehmen möchte?
 
-Davon raten professionelle Berater und Schneiderinnen dringend ab. Ein Brautkleid auf eine unsichere, zukünftige Konfektionsgröße hin zu bestellen, erzeugt enormen psychischen Druck. Es ist für eine erfahrene Schneiderin handwerklich wesentlich unkomplizierter, ein Kleid um ein bis zwei Größen enger zu nähen, als ein zu enges Kleid mühsam vergrößern zu müssen (was oft mangels Nahtzugabe unmöglich ist). Bestelle das Kleid daher immer passend zu deinen aktuellen Maßen.
+Davon raten professionelle Schneiderinnen dringend ab. Ein Kleid auf eine unsichere, zukünftige Konfektionsgröße hin zu bestellen, erzeugt enormen psychischen Druck. Es ist handwerklich wesentlich unkomplizierter, ein Kleid um ein bis zwei Größen enger zu nähen, als ein zu enges Kleid mühsam zu vergrößern. Bestelle das Kleid daher immer passend zu deinen aktuellen Maßen.

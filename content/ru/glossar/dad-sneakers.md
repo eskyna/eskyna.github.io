@@ -5,6 +5,7 @@ description: Dad Sneakers это массивные кроссовки в рет
 category: Обувь
 slug: dad-sneakers
 seoTitle: "Dad Sneakers: Контрастная массивная обувь в стилизации | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Dad Sneakers с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

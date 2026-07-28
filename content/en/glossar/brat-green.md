@@ -5,6 +5,7 @@ description: Brat Green is a bright acidic green used as a rebellious pop-color 
 category: Color & Effect
 slug: brat-green
 seoTitle: "Brat Green: Bold Acid Green as a Style Signal | ESKYNA"
+image_alt: "Editorial glossary illustration for Brat Green with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

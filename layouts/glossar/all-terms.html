@@ -44,8 +44,19 @@
       <ul class="glossar-term-list" id="all-terms-list">
         {{ range $terms }}
           {{ $termTitle := .Params.term | default .Title }}
+          {{ if eq (strings.TrimSpace $termTitle) "" }}
+            {{ with .File }}
+              {{ $termTitle = humanize .BaseFileName }}
+            {{ else }}
+              {{ $termTitle = "Glossar-Begriff" }}
+            {{ end }}
+          {{ end }}
+          {{ $termLabel := $termTitle | plainify }}
+          {{ if eq (strings.TrimSpace $termLabel) "" }}
+            {{ $termLabel = $termTitle }}
+          {{ end }}
           <li class="glossar-term-item" data-term-item>
-            <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termTitle | plainify }}" aria-label="{{ $termTitle | plainify }}">
+            <a href="{{ .RelPermalink }}" class="glossar-term-link" title="{{ $termLabel }}" aria-label="{{ $termLabel }}">
               <span class="glossar-term-title" data-term-title>{{ $termTitle }}</span>
               {{ with .Description }}<span class="glossar-term-excerpt">{{ . }}</span>{{ end }}
             </a>

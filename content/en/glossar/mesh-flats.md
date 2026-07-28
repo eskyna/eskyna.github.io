@@ -5,6 +5,7 @@ description: Mesh Flats are flat shoes with transparent mesh sections and lightw
 category: Shoes
 slug: mesh-flats
 seoTitle: "Mesh Flats: Lightweight Transparent Shoe Trend | ESKYNA"
+image_alt: "Editorial glossary illustration for Mesh Flats with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

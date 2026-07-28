@@ -5,6 +5,7 @@ description: A Micro Skirt is a very short skirt silhouette styled through propo
 category: Silhouette & Proportion
 slug: micro-skirt
 seoTitle: "Micro Skirt: Short Silhouette with Balanced Styling | ESKYNA"
+image_alt: "Editorial glossary illustration for Micro Skirt with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

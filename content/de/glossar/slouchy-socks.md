@@ -5,6 +5,8 @@ description: Slouchy Socks sind locker gestauchte Socken als gezieltes Stil-Deta
 category: Schuhe
 slug: slouchy-socks
 seoTitle: "Slouchy Socks: Sockendetail mit Stilwirkung | ESKYNA"
+image: images/glossar/slouchy-socks.png
+image_alt: "Editoriale Glossar-Grafik zu Slouchy Socks mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

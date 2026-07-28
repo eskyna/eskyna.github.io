@@ -5,6 +5,7 @@ description: Pointelle Knit is a fine knitted fabric with delicate perforated pa
 category: Materials & Details
 slug: pointelle-strick
 seoTitle: "Pointelle Knit: Delicate Openwork Texture Explained | ESKYNA"
+image_alt: "Editorial glossary illustration for Pointelle Knit with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

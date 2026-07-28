@@ -16,6 +16,10 @@ keywords:
 weight: 10
 image: images/glossar/video-call-outfit.png
 image_alt: "Glossar-Illustration zu Video-Call-Outfit"
+history: |
+  Das Phänomen des Video-Call-Outfits (auch bekannt als "Waist-up Dressing" oder "Zoom-Look") erlebte seinen historischen Durchbruch mit der Covid-19-Pandemie im Jahr 2020. Durch die schlagartige Verlegung des Arbeitsplatzes ins Homeoffice entstand eine neue Hybrid-Garderobe, die professionelle Seriosität im sichtbaren Kamerabild mit maximalem Komfort außerhalb des Bildausschnitts kombinierte.
+knowledge: |
+  Für die Kamera gelten eigene physikalische Gesetze: Sehr feine Texturen erzeugen den störenden Moiré-Effekt (Flimmern). Reine Weiß- oder Schwarztöne bringen digitale Kamerasysteme oft an ihre Belichtungsgrenzen, weshalb satte Mitteltöne oder sanfte Off-White-Nuancen im virtuellen Raum deutlich harmonischer und professioneller wirken.
 relatedTerms:
   - title: Meeting-Look
     url: /glossar/meeting-look/
@@ -29,66 +33,55 @@ relatedTerms:
     url: /glossar/praesenz/
 faq:
   items:
-    - q: Wie nutze ich „Video-Call-Outfit“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Video-Call-Outfit“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Welche Farben eignen sich am besten für ein Video-Call-Outfit?
+      a: Satte Mitteltöne wie Blau, Grün, Beere oder warme Erdtöne wirken vor der Kamera besonders lebendig und professionell. Vermeide reines Weiß, da es überbelichtet, sowie reines Schwarz, das dich schnell müde wirken lässt.
+    - q: Was ist der Moiré-Effekt und wie vermeide ich ihn?
+      a: Der Moiré-Effekt beschreibt ein störendes Flimmern auf dem Bildschirm, das entsteht, wenn die Kamera feine Muster wie Nadelstreifen oder kleine Karos nicht sauber auflösen kann. Trage stattdessen lieber einfarbige Oberteile oder großflächigere Muster.
+    - q: Muss die Hose beim Video-Call-Outfit auch professionell sein?
+      a: Auch wenn die Hose im Bildausschnitt meist unsichtbar bleibt, hebt ein vollständiges, gepflegtes Outfit deine innere Haltung und Professionalität. Zudem bist du so auf unerwartete Situationen vorbereitet, falls du während des Calls aufstehen musst.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Ein **Video-Call-Outfit** ist ein Look für digitale Meetings. Vor allem Gesicht, Schultern, Ausschnitt, Farbe und Lichtnähe bestimmen hier die Wirkung.
+Ein **Video-Call-Outfit** bezeichnet eine gezielte Outfit-Zusammenstellung für virtuelle Konferenzen, Online-Präsentationen und digitale Meetings. Da Kamerasysteme im Homeoffice meist nur den Bereich von der Taille aufwärts einfangen, liegt das Hauptaugenmerk bei diesem Look auf der oberen Körperhälfte, der unmittelbaren Gesichtsnähe, passenden Farben und der optischen Wirkung unter künstlichen oder natürlichen Lichtquellen.
 
-## Einfach erklärt
+## Einfach erklärt: Worauf es beim Zoom-Outfit ankommt
 
-Im Videoausschnitt sieht man meist nur einen kleinen Teil des Outfits. Genau deshalb zählen Oberteil, Ausschnitt, Kontrast und Material umso mehr.
+Im klassischen Arbeitsalltag nehmen wir Menschen als Ganzes wahr. Bei Videokonferenzen schrumpft dieser Eindruck auf ein kleines, zweidimensionales Fenster. Das bedeutet für dich: Die Elemente deiner Kleidung, die im sichtbaren Ausschnitt liegen, müssen die gesamte Botschaft deines Auftretens tragen.
 
-Zu feine Muster flimmern oft. Zu dunkle Farben können das Gesicht schlucken. Ein gutes Video-Call-Outfit unterstütetzt Klarheit und Kontakt.
+Ein durchdachtes Video-Call-Outfit sorgt dafür, dass deine fachliche Kompetenz im Vordergrund steht und nicht durch unruhige Details abgelenkt wird. Weil Kameras Kontraste und Details anders verarbeiten als das menschliche Auge, gelten im virtuellen Raum besondere Regeln für deine [Garderobe](/glossar/garderobe/). Was im analogen [Business](/glossar/business/) hervorragend funktioniert, kann auf dem Bildschirm deines Gegenübers flimmern, dich blass wirken lassen oder im Hintergrund untergehen.
 
-## Warum der Begriff wichtig ist
+## Die drei Säulen des perfekten digitalen Outfits
 
-Digitale Sichtbarkeit ist heute Alltag. Ein passender Look hilft, professionell und präzise zu wirken, ohne overstyled zu erscheinen.
+Wer im virtuellen Raum eine überzeugende [Wirkung](/glossar/wirkung/) erzielen möchte, sollte sein Augenmerk auf drei zentrale Bereiche richten.
 
-## Typische Missverständnisse
+### 1. Gesichtsrahmung und Ausschnittwirkung
 
-**Missverständnis:** Unten zählt nichts, oben reicht irgendein Blazer.
+Die obere Kante deines Oberteils bildet den Rahmen für dein Gesicht. Achte bewusst auf die [Gesichtsrahmung](/glossar/gesichtsrahmung/) und die [Ausschnittwirkung](/glossar/ausschnittwirkung/) deines Kleidungsstücks. Ein klar strukturierter Kragen, beispielsweise bei einer feinen Bluse oder einem gut sitzenden Hemd, verleiht dir sofort visuelle Stabilität. Ein strukturierter [Blazer](/glossar/blazer/) definiert deine Schulterlinie und sorgt für eine souveräne Ausstrahlung. Falls du eine [Brille](/glossar/brille/) trägst, stimme dein Oberteil darauf ab, um unruhige Spiegelungen im Gesichtsbereich zu minimieren.
 
-**Besser:** Auch im Video wirkt ein Look nur dann überzeugend, wenn Haltung, Sitz und Gesamtgefühl stimmen.
+### 2. Farbe und Kontrast für die Kamera
 
-## ESKYNA-Merksatz
+Digitale Linsen haben oft Probleme mit extremen Lichtwerten. Ein sehr helles Weiß bringt die automatische Belichtung zum Übersteuern, während ein tiefes Schwarz feine Konturen schluckt und dich schnell müde aussehen lässt. Nutze stattdessen gezielt [Farbe](/glossar/farbe/) und einen ausgewogenen [Kontrast](/glossar/kontrast/). Satte Nuancen wie Petrol, Dunkelblau, Beere oder warmes Cognac schmeicheln dem Teint und heben dich klar vom meist neutralen Hintergrund deines Zimmers ab.
 
-Ein Video-Call-Outfit lebt von Klarheit im oberen Bildausschnitt.
+### 3. Musterung ohne Flimmereffekt
 
-## Praxischeck
+Verzichte vor der Kamera auf kleinteilige [Muster](/glossar/muster/). Feine Streifen, winzige Karos oder Fischgratstrukturen erzeugen auf dem Bildschirm den sogenannten Moiré-Effekt. Dieses unruhige Flimmern strengt die Augen deiner Gesprächspartner an und lenkt von dem ab, was du sagst. Setze stattdessen auf einfarbige Stoffe oder großflächigere, ruhige Texturen.
 
-Wenn du den Begriff **Video-Call-Outfit** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+## Warum der bewusste Home-Office-Look wichtig ist
 
-- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
-- Achte auf Wiederholungen in Farbe, Material und Silhouette.
-- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+Ein stimmiges Video-Call-Outfit unterstützt deine persönliche [Präsenz](/glossar/praesenz/) im Raum. Es transportiert Wertschätzung gegenüber deinen Kunden oder deinem Team und hilft dir dabei, dich auch im heimischen Arbeitszimmer mental auf Leistung einzustellen.
 
-## Beratungsblick
+Ein häufiger Fehler im Homeoffice ist das Vernachlässigen der unteren Körperhälfte. Selbst wenn du nur von der Brust aufwärts zu sehen bist, beeinflusst die Wahl deiner Kleidung deine gesamte Körpersprache. Eine bequeme, aber vollwertige Stoffhose anstelle einer Jogginghose verändert deine Haltung und deine Stimme positiv. Zudem bist du so vor unvorhergesehenen Momenten geschützt, falls du während des Gesprächs doch einmal aufstehen musst.
 
-In der Beratung ist **Video-Call-Outfit** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+## Tipps für deine digitale Alltagsuniform
 
-Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+Wenn du regelmäßig in virtuellen Meetings präsent bist, lohnt es sich, eine digitale [Alltagsuniform](/glossar/alltagsuniform/) zu entwickeln. Lege dir zwei bis drei bewährte Kombinationen zurecht, bei denen du genau weißt, dass sie vor der Kamera funktionieren.
 
-## Entscheidungsfrage
+- **Vorbereitung:** Nutze eine regelmäßige [Kleiderschrank-Inventur](/glossar/kleiderschrank-inventur/), um deine Oberteile gezielt auf Videotauglichkeit zu prüfen.
+- **Kameraprobe:** Schalte vor wichtigen Terminen deine eigene Webcam ein und kontrolliere dein Outfit bei den tatsächlichen Lichtverhältnissen deines Arbeitsplatzes.
+- **Schmuck-Check:** Ein edles [Accessoire](/glossar/accessoire/) kann Akzente setzen, sollte aber beim Bewegen keine Geräusche am Mikrofon verursachen.
 
-Frag dich bei **Video-Call-Outfit**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
+Dein persönlicher [Stil](/glossar/stil/) lässt sich problemlos in die digitale Welt übertragen. Wenn du deine Outfits für virtuelle Termine systematisch planst, verbindest du professionellen Anspruch mit der nötigen Gelassenheit im Alltag.
 
-Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Video-Call-Outfit** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
-
-Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Kleiderschrank-Inventur](/glossar/kleiderschrank-inventur/).
-
-## Verwandte Begriffe
-
-- [Meeting-Look](/glossar/meeting-look/)
-- [Kamera-Look](/glossar/kamera-look/)
-- [LinkedIn-Outfit](/glossar/linkedin-outfit/)
-- [Wirkung](/glossar/wirkung/)
-- [Präsenz](/glossar/praesenz/)
+Ausführliche Tipps und Inspirationen zu passenden Schnitten und Kombinationen für deine geschäftlichen Termine findest du in unserem Beitrag zum Thema [Meeting-Look](/glossar/meeting-look/) sowie in der Übersicht zum [Kamera-Look](/glossar/kamera-look/).

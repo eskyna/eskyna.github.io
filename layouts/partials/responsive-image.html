@@ -15,7 +15,18 @@
 
 {{- $src := .src -}}
 {{- $alt := .alt | default "" -}}
-{{- $title := .title | default $alt -}}
+{{- if eq (strings.TrimSpace (printf "%v" $alt)) "" -}}
+  {{- with .Page -}}
+    {{- $alt = .Params.image_alt | default (.Params.term | default .Title) -}}
+  {{- end -}}
+{{- end -}}
+{{- if eq (strings.TrimSpace (printf "%v" $alt)) "" -}}
+  {{- $base := path.Base $src -}}
+  {{- $ext := path.Ext $base -}}
+  {{- $stem := strings.TrimSuffix $ext $base -}}
+  {{- $alt = humanize $stem -}}
+{{- end -}}
+{{- $title := .title | default "" -}}
 {{- $class := .class -}}
 {{- $loading := .loading | default "lazy" -}}
 {{- $decoding := .decoding -}}
@@ -30,7 +41,7 @@
 
 {{- if $isAbsolute -}}
   {{- /* Externe Bilder: einfach anzeigen */ -}}
-  <img src="{{ $src | safeURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }} width="{{ $width }}" height="{{ $height }}">
+  <img src="{{ $src | safeURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }} width="{{ $width }}" height="{{ $height }}">
 {{- else -}}
   {{- /* Lokale Bilder */ -}}
   {{- $ext := lower (path.Ext $src) -}}
@@ -66,7 +77,7 @@
       <picture>
         <source srcset="{{ delimit $srcsetAvif ", " }}" sizes="{{ $sizes }}" type="image/avif">
         <source srcset="{{ delimit $srcsetWebp ", " }}" sizes="{{ $sizes }}" type="image/webp">
-        <img src="{{ $pngFallback.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }} width="{{ $pngFallback.Width }}" height="{{ $pngFallback.Height }}">
+        <img src="{{ $pngFallback.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }} width="{{ $pngFallback.Width }}" height="{{ $pngFallback.Height }}">
       </picture>
     {{- else -}}
       {{- /* Statisches Bild: nutze vorkonvertierte WebP/AVIF aus convert-images-build */ -}}
@@ -105,22 +116,22 @@
           {{- if gt (len $webpSrcset) 0 -}}
             <source srcset="{{ delimit $webpSrcset ", " }}" sizes="{{ $sizes }}" type="image/webp">
           {{- end -}}
-          <img src="{{ $avifSrc | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+          <img src="{{ $avifSrc | relURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
         </picture>
       {{- else -}}
         {{- if or $hasAvif $hasWebp -}}
           <picture>
             {{- if $hasAvif -}}<source srcset="{{ $avifSrc | relURL }}" type="image/avif">{{- end -}}
             {{- if $hasWebp -}}<source srcset="{{ $webpSrc | relURL }}" type="image/webp">{{- end -}}
-            <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+            <img src="{{ $src | relURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
           </picture>
         {{- else -}}
-          <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+          <img src="{{ $src | relURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}"{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
         {{- end -}}
       {{- end -}}
     {{- end -}}
   {{- else -}}
     {{- /* Andere Formate (webp, avif, gif, svg): einfach anzeigen */ -}}
-    <img src="{{ $src | relURL }}" alt="{{ $alt }}" title="{{ $title }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+    <img src="{{ $src | relURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }}{{ with $loading }} loading="{{ . }}"{{ end }}{{ with $decoding }} decoding="{{ . }}"{{ end }}{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}{{ with $sizes }} sizes="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
   {{- end -}}
 {{- end -}}

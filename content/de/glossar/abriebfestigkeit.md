@@ -10,75 +10,80 @@ image_alt: Nahaufnahme eines Textils mit intakter und sichtbar aufgeriebener Obe
 lastmod: "2026-07-22"
 additional_categories:
   - Verbraucherwissen
+knowledge: Geringe Abriebfestigkeit führt schnell zu Löchern an Belastungspunkten wie dem Schritt, den Ellenbogen oder an den Schultern durch Rucksackriemen.
+history: Das standardisierte Martindale-Prüfverfahren wurde in den 1940er-Jahren in Großbritannien entwickelt, um die Strapazierfähigkeit von Militärtextilien und Wolle wissenschaftlich messbar zu machen.
+relatedTerms:
+  - langlebigkeit
+  - slow-fashion
+  - materialqualitaet
+  - pilling
 ---
 
-## Definition
+## Was ist Abriebfestigkeit bei Textilien?
 
-Die **Abriebfestigkeit** (auch Scheuerbeständigkeit genannt) ist eine fundamentale textiltechnische Materialeigenschaft. Sie beschreibt den physikalischen Widerstand von Fasern, Garnen und Geweben gegen mechanische Beanspruchung durch wiederholte, reibende Kontakte. In der Mode- und Textilgeschichte ist sie seit jeher ein entscheidender Indikator für die Langlebigkeit, Strapazierfähigkeit und Qualität eines Kleidungsstücks.
+Die Abriebfestigkeit, die in der Textilindustrie auch als Scheuerbeständigkeit bezeichnet wird, ist eine grundlegende physikalische Eigenschaft von Stoffen. Sie beschreibt, wie widerstandsfähig Fasern, Garne und fertige Gewebe gegen mechanische Reibung im alltäglichen Gebrauch sind. Wenn du dich bewegst, reiben Stofflagen ständig aneinander oder an äußeren Oberflächen. Ein abriebfestes Material behält über lange Zeit seine Struktur, ohne dünn zu werden, Löcher zu bilden oder an Substanz zu verlieren.
 
-Bestimmt wird diese Eigenschaft im Labor durch standardisierte Prüfverfahren, allen voran dem renommierten **Martindale-Verfahren** (DIN EN ISO 12947). Diese Methode wurde in den 1940er-Jahren von Dr. James G. Martindale im Auftrag der britischen Wollindustrie entwickelt, um die Haltbarkeit von Textilien wissenschaftlich messbar zu machen. Dabei wird ein kreisrundes Prüfmuster unter konstantem, vordefiniertem Druck in komplexen, mathematisch berechneten Schleifenbewegungen (den sogenannten Lissajous-Figuren) gegen ein standardisiertes, raues Wollgewebe gerieben, bis sichtbare Verschleißerscheinungen wie Fadenbrüche auftreten.
+Für die [Langlebigkeit](/glossar/langlebigkeit/) deiner Kleidung ist diese Eigenschaft unverzichtbar. Ein hochwertiger Mantel oder eine langlebige Alltagshose zeichnen sich immer durch eine hohe Scheuerbeständigkeit aus. Im Sinne von [Slow Fashion](/glossar/slow-fashion/) schützt dich dieses Wissen vor schnellen Fehlkäufen und schont gleichzeitig Ressourcen.
 
-## Einfach erklärt
+## Das Martindale-Verfahren: Wie wird die Scheuerbeständigkeit gemessen?
 
-Ein Martindale-Wert wird in sogenannten **Scheuertouren** angegeben. Diese Zahl drückt aus, wie viele Reibungszyklen ein Stoff übersteht, bevor er Schaden nimmt. Allerdings ist dieser Wert nur dann aussagekräftig, wenn die genaue Testmethode, der definierte Endpunkt und der spätere Einsatzkontext bekannt sind.
+Um die Strapazierfähigkeit eines Stoffes wissenschaftlich zu belegen, nutzen Prüflabore standardisierte Testverfahren. Das weltweit bekannteste und wichtigste verfahren für Bekleidungs- und Polsterstoffe ist die Martindale-Methode (DIN EN ISO 12947).
 
-Je nach angewendetem Normteil kann das Prüflabor unterschiedliche Kriterien bewerten:
+Dieses Prüfverfahren geht auf die 1940er-Jahr zurück. Damals entwickelte Dr. James G. Martindale im Auftrag der britischen Wollindustrie ein System, um die Haltbarkeit von Textilien präzise zu messen. Bei dieser Methode wird ein rundes Stoffmuster unter einem exakt definierten Druck kreisförmig gegen ein standardisiertes, raues Wollgewebe gerieben. Diese reibende Bewegung erfolgt in komplexen Schleifen, den sogenannten Lissajous-Figuren.
 
-- den kompletten Materialdurchbruch (Bruch von zwei oder mehr Fäden),
-- den reinen Masseverlust des Gewebes (Gewichtsabnahme durch Faserabrieb),
-- oder eine optische Veränderung der Oberfläche (wie störender Glanz oder Faserverlust).
+Das Testergebnis wird in Scheuertouren angegeben:
 
-Reine Zahlenwerte aus unterschiedlichen Laborprüfungen lassen sich daher nicht immer eins zu eins miteinander vergleichen. Für Verbraucher gilt jedoch die goldene Faustregel: Je höher die Anzahl der Scheuertouren im Testbericht, desto unempfindlicher ist das Material gegen ein Durchscheuern im Alltag.
+- **Geringe Scheuerbeständigkeit (unter 10.000 Scheuertouren):** Solche Stoffe eignen sich eher für dekorative Zwecke oder Kleidung, die kaum Reibung ausgesetzt ist.
+- **Mittlere Scheuerbeständigkeit (10.000 bis 20.000 Scheuertouren):** Dieser Bereich ist ideal für normale Alltagskleidung wie leichte Jacken oder feine Hemden.
+- **Hohe Scheuerbeständigkeit (über 20.000 Scheuertouren):** Stoffe in dieser Kategorie sind extrem robust. Sie eignen sich perfekt für schwere Arbeitskleidung, strapazierfähige Outdoor-Ausrüstung und intensiv genutzte Hosen.
 
-## Warum ist das für Verbraucher wichtig?
+Ein hoher Martindale-Wert ist ein starkes Indiz für eine hohe [Materialqualität](/glossar/materialqualitaet/). Allerdings zeigt der Test nur die reine Widerstandskraft gegen flächigen Abrieb. Andere Faktoren wie die Reißfestigkeit der Nähte werden dabei nicht berücksichtigt.
 
-Im Sinne der Nachhaltigkeit und einer bewussten, langlebigen Garderobe (**Slow Fashion**) ist das Wissen um die Abriebfestigkeit ein Schlüsselkriterium beim Kleidungskauf. Textilien sind im täglichen Gebrauch einer ununterbrochenen, oft unbemerkt wirkenden mechanischen Reibung ausgesetzt:
+## Die richtige Faser macht den Unterschied: Polyamid, Wolle und Co
 
-- **Hosen:** Insbesondere an den Oberschenkelinnenseiten und im Gesäßbereich entsteht durch das Gehen und Sitzen extreme Reibung.
-- **Oberbekleidung:** Die Schulterpartien von Jacken und Mänteln werden durch das Tragen von Rucksackriemen oder Handtaschen stark beansprucht.
-- **Strickwaren:** Die Ellenbogenbereiche sowie die Bündchen neigen bei feinen Garnen schnell zu Schwachstellen.
-- **Details:** Taschenbeutel verschleißen rasch durch den ständigen Griff nach Schlüsseln, Münzen und Smartphones.
+Die Abriebfestigkeit eines Kleidungsstücks hängt maßgeblich von den verwendeten Fasern und der Webart ab. Wenn du langlebige Kleidung suchst, lohnt sich ein genauer Blick auf das Pflegeetikett und die Faserzusammensetzung.
 
-Wer die Abriebfestigkeit von Textilien versteht, investiert gezielt in strapazierfähige Fasermischungen und hochwertige Webstrukturen. Dies vermeidet vorzeitige Verschleißlöcher und schont langfristig sowohl das Budget als auch wertvolle Umweltressourcen.
+### Synthetische Verstärkung
 
-## Praxischeck
+Reine Naturfasern wie feine [Wolle](/glossar/wolle/) oder weiche [Baumwolle](/glossar/baumwolle/) besitzen von Natur aus eine begrenzte Scheuerbeständigkeit. Wenn ihnen jedoch ein geringer Anteil an synthetischen Filamenten beigemischt wird, steigt die Strapazierfähigkeit drastisch an. Besonders [Polyamid](/glossar/polyamid/) (auch bekannt als Nylon) gilt als extrem abriebfest. Bereits eine Beimischung von 10 bis 20 Prozent Polyamid in einem Wollmantel oder in Socken verlängert die Lebensdauer des Kleidungsstoffs um ein Vielfaches.
 
-Achte beim Kauf eines neuen Kleidungsstücks gezielt auf die Beanspruchungszonen, die Konstruktion und das Materialetikett:
+### Der Einfluss der Webstruktur
 
-- **Faserzusammensetzung prüfen:** Reine Naturfasern wie Wolle oder Baumwolle erhalten durch die Beimischung von synthetischen Filamenten (insbesondere Polyamid, auch bekannt als Nylon) eine signifikant höhere Scheuerbeständigkeit. Schon ein Anteil von 10 bis 20 Prozent Polyamid in einer Sockenwolle oder einem Mantelstoff vervielfacht dessen Lebensdauer.
-- **Gewebeart inspizieren:** Dicht geschlagene, kompakte Bindungen wie Twill (Köperbindung, typisch für Denim) oder schwere Canvas-Gewebe weisen konstruktionsbedingt eine deutlich höhere Abriebfestigkeit auf als lockere Webstrukturen, weitmaschige Strickwaren oder empfindliche Atlasbindungen (Satin).
-- **Zweckbestimmung hinterfragen:** Für Outdoor-Aktivitäten, Radfahren oder den anspruchsvollen Alltagseinsatz sollten sensible Verschleißzonen (wie Knie, Gesäß und Schultern) idealerweise mit speziellen, hochfesten Gewebeeinsätzen (z. B. Cordura) verstärkt sein.
+Neben der Faser spielt die Webart eine entscheidende Rolle. Dicht gewebte, kompakte Bindungen wie Twill, die typische Köperbindung von [Denim](/glossar/denim/), weisen eine hervorragende Abriebfestigkeit auf. Aus diesem Grund ist eine klassische Jeans extrem robust. Lockere Webstrukturen, weitmaschiger Strick oder hochempfindliche Webarten wie [Satin](/glossar/satin/) (Atlasbindung) sind dagegen deutlich anfälliger für Scheuerschäden. Sie ziehen schneller Fäden oder wetzen an den Kanten ab.
 
-## Beispiel aus dem Alltag
+## Abriebfestigkeit im Alltagstest: Hier wird Kleidung am stärksten strapaziert
 
-Das klassische Beispiel aus der modernen Modewelt ist die funktionelle Pendler-Hose ("Commuter Pants") für das tägliche Radfahren zur Arbeit. Durch die kontinuierliche Reibung des Sattels an Gesäß und Innenschenkeln geraten Standard-Stoffe rasch an ihre Grenzen. Während eine feine Anzug- oder Chino-Hose aus reiner, feinfädiger Baumwolle dieser extremen Belastung oft schon nach wenigen Wochen zum Opfer fällt, überlebt eine spezielle Radler-Chino mit Cordura- oder Nylon-Anteil und verstärktem Schrittbereich problemlos tausende Kilometer.
+Im Alltag ist deine Garderobe an bestimmten Zonen einer permanenten mechanischen Belastung ausgesetzt. Wenn du diese Schwachstellen kennst, kannst du beim Kauf gezielt darauf achten:
 
-Historisch gesehen war genau dieses Problem der Ursprung der modernen Jeans: Jacob Davis und Levi Strauss patentierten im Jahr 1873 die legendären Metallnieten an den Taschenecken und dem Hosenlitz, um das Ausreißen der Nähte bei schwerer körperlicher Arbeit zu verhindern, ein Meilenstein in der Geschichte der abriebfesten Arbeitskleidung.
+- **Der Schrittbereich:** Beim Gehen reibt der Stoff an den Oberschenkelinnenseiten ständig aneinander. Bei Hosen aus reiner Baumwolle entstehen hier besonders schnell dünne Stellen und Löcher.
+- **Die Schultern und der Rücken:** Wenn du häufig einen Rucksack oder eine schwere Handtasche trägst, lastet das Gewicht direkt auf den Schulterpartien deiner Jacken, Mäntel oder T-Shirts. Ungeeignete Stoffe rauen an diesen Stellen schnell auf.
+- **Die Ellenbogen:** Beim Auflegen der Arme am Schreibtisch entsteht eine punktuelle Reibung, die vor allem feinen Strick strapaziert.
+- **Die Taschenbeutel:** Durch den ständigen Griff nach Schlüsseln, Münzen oder dem Smartphone verschleißen die Taschenbeutel von innen heraus sehr rasch, wenn hier an der Materialqualität gespart wurde.
 
-## Typisches Missverständnis
+## Typische Missverständnisse rund um die Scheuerbeständigkeit
 
-Ein hoher Martindale-Wert beweist nicht automatisch eine hohe Gesamtqualität des Textils. Er dokumentiert lediglich, wie widerstandsfähig ein Stoff gegen mechanische Reibung auf flachen Oberflächen ist.
+Viele Menschen setzen eine hohe Abriebfestigkeit fälschlicherweise mit einer allgemeinen Top-Qualität des Kleidungsstücks gleich. Das greift jedoch zu kurz. Ein extrem scheuerbeständiger Stoff aus reinem Polyester kann zwar fast unzerstörbar sein, sich auf der Haut aber unangenehm rau anfühlen und eine mangelhafte [Atmungsaktivität](/glossar/atmungsaktivitaet/) aufweisen.
 
-Der Wert liefert jedoch keine zuverlässigen Aussagen über andere kritische Qualitätsmerkmale wie:
+Zudem schützt eine hohe Abriebfestigkeit nicht automatisch vor anderen unschönen Oberflächenveränderungen:
 
-- die Licht- und Waschechtheit der verwendeten Farbstoffe,
-- die Neigung zur Knötchenbildung an der Oberfläche ([Pilling](/glossar/pilling/)),
-- die Reißfestigkeit und Nahtschiebewiderstände des Gewebes,
-- die handwerkliche [Verarbeitung](/glossar/verarbeitung/) der Nähte,
-- sowie den tatsächlichen Tragekomfort und die Atmungsaktivität auf der Haut.
+- **Pilling:** Die Bildung kleiner Faserknötchen ([Pilling](/glossar/pilling/)) entsteht durch lose Faserenden, die sich an der Oberfläche verheddern. Das kann selbst bei abriebfesten Materialien vorkommen.
+- **Farbverlust:** Die Scheuerbeständigkeit sagt nichts über die [Lichtechtheit](/glossar/lichtechtheit/) oder Waschbeständigkeit der Farben aus. Ein Stoff kann strukturell völlig intakt bleiben, aber optisch schnell verblassen.
+- **Verarbeitung:** Selbst das beste Material nützt wenig, wenn die handwerkliche [Verarbeitung](/glossar/verarbeitung/) der Nähte mangelhaft ist und das Kleidungsstück an den Verbindungsstellen reißt.
 
-Ein extrem scheuerbeständiger, synthetischer Stoff kann sich dennoch unangenehm rau anfühlen, elektrostatisch aufladen oder unschönes Pilling entwickeln.
+## Tipps für den Einkauf: So erkennst du robuste Stoffe
+
+Wenn du im Geschäft stehst, kannst du die Abriebfestigkeit zwar nicht im Labor testen, aber mit ein paar einfachen Griffproben und Blicken besser einschätzen:
+
+1. **Den Stoff gegen das Licht halten:** Je dichter und gleichmäßiger das Gewebe ist, desto höher ist in der Regel auch seine Widerstandskraft gegen Reibung.
+2. **Die Festigkeit prüfen:** Ziehe den Stoff sanft in verschiedene Richtungen. Elastische Stoffe sollten sofort in ihre Ursprungsform zurückkehren. Labberige, extrem dehnbare Stoffe ohne Formstabilität verschleißen meist schneller.
+3. **Auf Verstärkungen achten:** Hochwertige Outdoor-Jacken oder Pendler-Hosen besitzen an den kritischen Zonen wie Knien, Gesäß oder Schultern oft doppelte Stofflagen oder Einsätze aus hochfesten Spezialgeweben.
 
 ## Häufige Fragen
 
-### Ist Martindale nur für Möbelstoffe wichtig?
+### Kann die richtige Pflege die Abriebfestigkeit erhalten?
 
-Nein. Zwar hat der Martindale-Test im Polstermöbel- und Interieurbereich eine enorme, normierte Bedeutung (wo Scheuerzahlen von 10.000 für private Nutzung bis über 40.000 für öffentliche Verkehrsmittel gefordert werden), er ist jedoch auch in der Bekleidungsindustrie fest etabliert. Insbesondere bei der Entwicklung von technischer Sportbekleidung, Outdoor-Ausrüstung, Motorradbekleidung und Berufsbekleidung (Workwear) ist die Prüfung der Scheuerbeständigkeit nach Martindale ein unverzichtbares Kriterium zur Einhaltung von Sicherheits- und Qualitätsstandards.
+Ja, die Pflege hat einen massiven Einfluss. Falsches Waschen kann Fasern dauerhaft schwächen. Verwende schonende Waschmittel und verzichte auf Weichspüler, da diese die Faserstruktur aufweichen und die mechanische Widerstandskraft herabsetzen können. Zudem solltest du die Waschtrommel nie überladen, da die extreme Reibung der nassen Kleidungsstücke aneinander den Abrieb schon in der Maschine beschleunigt.
 
-### Kann Pflege die Abriebfestigkeit beeinflussen?
+### Sind Naturfasern immer weniger abriebfest als Kunstfasern?
 
-Ja, ganz erheblich. Falsche Textilpflege kann die Fasern dauerhaft schwächen und ihre Widerstandskraft drastisch herabsetzen. Aggressive Waschmittel, die Verwendung von Weichspülern (die sich wie ein Schmierfilm um die Fasern legen, die Faser-Faser-Haftung reduzieren und die Struktur schwächen) sowie das Überladen der Waschtrommel erhöhen die Reibung schon während des Waschzyklus. Auch das übermäßige Trocknen im Wäschetrockner erzeugt zusätzliche Reibungswärme und mechanischen Stress, was die Faserstruktur langfristig spröde und anfällig für Fadenbrüche macht.
-
-## Verwandte Begriffe und interne Links
-
-[Pilling](/glossar/pilling/), [Materialqualität](/glossar/materialqualitaet/), [Verarbeitung](/glossar/verarbeitung/)
+In ihrer reinen Form ja. Synthetische Fasern wie Nylon oder Polyester weisen eine deutlich höhere Zug- und Scheuerfestigkeit auf als Baumwolle, Leinen oder Wolle. Die optimale Lösung für langlebige Alltagskleidung ist daher oft ein intelligenter Fasermix, der die hautfreundlichen Eigenschaften von Naturfasern mit der Robustheit von Kunstfasern verbindet.

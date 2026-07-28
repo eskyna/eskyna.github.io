@@ -27,55 +27,64 @@ relatedTerms:
     url: /glossar/business-casual/
   - title: Dresscode
     url: /glossar/dresscode/
-faq:
-  items:
-    - q: Wie nutze ich „Smart Elegant“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Smart Elegant“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+knowledge:
+  - "Die goldene Regel für diesen Dresscode lautet: Im Zweifel lieber etwas eleganter als zu lässig auftreten."
+  - "Hochwertige Stoffe wie Seide, feine Schurwolle, Kaschmir oder fließende Viskose sind die Basis für den Look."
+  - "Schuhe spielen eine tragende Rolle: Gepflegte Loafer, Slingbacks oder cleane Pumps runden das Outfit ab."
+history: "Mit der zunehmenden Lockerung strenger Kleidungsvorschriften im späten 20. Jahrhundert entstand eine Lücke zwischen formeller Abendgarderobe und Freizeitkleidung. Smart Elegant etablierte sich als moderner Kompromiss für geschäftliche Empfänge, gehobene Abendessen und private Feierlichkeiten."
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Definition: Was bedeutet Smart Elegant?
 
-**Smart Elegant** beschreibt einen ruhigen, gepflegten Look mit hochwertiger Wirkung. Der Stil ist eleganter als Smart Casual, aber nicht so festlich wie klassische Abendkleidung.
+Der Begriff **Smart Elegant** beschreibt einen gehobenen, gepflegten Look mit einer spürbar hochwertigen Wirkung. In der Modewelt und Stilberatung bildet er die goldene Mitte: Er ist eleganter und formeller als [Smart Casual](/glossar/smart-casual/), verzichtet aber auf die feierliche Strenge einer klassischen [Abendgarderobe](/glossar/abendgarderobe/).
 
-## Einfach erklärt
+Mit diesem Stil zeigst du Respekt für den Anlass, ohne overdressed oder steif zu wirken. Es geht um eine leise, mühelose Eleganz, die auf Qualität statt auf auffällige Trends setzt.
 
-Smart Elegant lebt von klaren Linien, guten Materialien und einer kontrollierten Zurückhaltung. Der Look soll hochwertig wirken, ohne steif zu werden.
+## Die wichtigsten Merkmale für dein Outfit
 
-## Warum der Begriff wichtig ist
+Damit dein Smart Elegant Look im Alltag und bei besonderen Anlässen perfekt gelingt, kannst du dich an einigen bewährten Grundregeln orientieren:
 
-Viele Einladungen verlangen genau diese Mitte. Ein eigener Beitrag hilft, sie nicht mit zu viel Casual oder zu viel Abendform zu verfehlen.
+- **Hochwertige Materialien:** Stoffe wie feine [Wolle](/glossar/wolle/), fließende [Seide](/glossar/seide/), feines [Kaschmir](/glossar/kaschmir/) oder glattes [Satin](/glossar/satin/) bilden das Fundament deines Outfits. Sie fallen besonders schön und strahlen eine natürliche Wertigkeit aus.
+- **Gepflegte Schnitte:** Kleidung mit klarer Struktur ist ideal. Ein gutsitzender [Blazer](/glossar/blazer/), eine elegante [Marlenehose](/glossar/marlenehose/) oder ein stilvoller [Hosenanzug](/glossar/hosenanzug/) wirken sofort angezogen.
+- **Ruhige Farbpalette:** Setze bevorzugt auf [neutrale Farben](/glossar/neutrale-farben/) wie Navy, Anthrazit, Creme oder Taupe. Akzente kannst du punktuell einsetzen, um deinem Outfit mehr Tiefe zu verleihen.
+- **Perfekt sitzende Details:** Saubere Nähte, hochwertige Knöpfe und eine makellose [Passform](/glossar/passform/) sind entscheidend. Knitterfalten oder abgetragene Schuhe stören die elegante Wirkung.
+
+## Smart Elegant und Smart Casual im Vergleich
+
+Die Abgrenzung zu ähnlichen Stilrichtungen sorgt oft für Unsicherheit. Während [Smart Casual](/glossar/smart-casual/) oder [Dressy Casual](/glossar/dressy-casual/) durchaus edle Jeans oder sportlichere Elemente erlauben, geht Smart Elegant einen bewussten Schritt weiter in Richtung Eleganz.
+
+Hier bleibt die Jeans im Schrank. Stattdessen greifst du zu einer feinen [Stoffhose](/glossar/stoffhose/), einem eleganten Kleid oder einem Rock mit ansprechender [Rocklänge](/glossar/rocklange/). Auch die Wahl der Schuhe ist formeller: Statt Sneakern sind hier [Loafer](/glossar/loafer/), feine [Stiefeletten](/glossar/stiefelette/), elegante [Pumps](/glossar/pumps/) oder schicke [Slingbacks](/glossar/slingback/) gefragt. Der Gesamtlook wirkt dadurch polierter und harmonischer.
+
+## So kombinierst du den Dresscode stilsicher
+
+Ein gelungenes Outfit für diesen [Dresscode](/glossar/dresscode/) lässt sich wunderbar aus zeitlosen Klassikern aufbauen. Diese Kombinationen funktionieren immer:
+
+### Für Frauen: Stilvoll und fließend
+
+Ein moderner [Hosenanzug](/glossar/hosenanzug/) in einer sanften Farbe wie Sand oder Dunkelblau ist eine hervorragende Wahl. Kombiniere ihn mit einem feinen [Camisole](/glossar/camisole/) oder einer klassischen [Bluse](/glossar/bluse/) aus Seide. Wenn du lieber Kleider trägst, eignet sich ein schlichtes [Etuikleid](/glossar/etuikleid/) oder ein fließendes [Midikleid](/glossar/midikleid/). Achte darauf, dass der Ausschnitt dezent bleibt und die Materialien wertig wirken. Ein eleganter [Satinrock](/glossar/satinrock/) in Kombination mit einem schlichten Feinstrickpullover zeigt, wie ein moderner [Stilbruch](/glossar/stilbruch/) ganz leise funktionieren kann.
+
+### Für Männer: Klassisch mit moderner Note
+
+Ein gut sitzender [Anzug](/glossar/anzug/) ist eine sichere Wahl, wobei du bei diesem Dresscode nicht zwingend eine Krawatte tragen musst. Ein hochwertiges [Hemd](/glossar/hemd/) mit offenem Kragen oder ein feiner Rollkragenpullover unter der [Anzugjacke](/glossar/anzugjacke/) wirken modern und souverän. Dunkle [Chinos](/glossar/chinos/) kombiniert mit einem edlen Sakko sind ebenfalls eine stilvolle Option für feierliche oder geschäftliche Anlässe.
 
 ## ESKYNA-Merksatz
 
-Smart Elegant ist leise Qualität mit sichtbarer Sorgfalt.
+> **Smart Elegant ist leise Qualität mit sichtbarer Sorgfalt.**
 
-## Praxischeck
+## Praktischer Alltags- und Stilcheck
 
-Wenn du den Begriff **Smart Elegant** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+Wenn du ein Outfit für ein Event planst, hilft dir eine klare Garderobenlogik. Betrachte deine Kleidung als System. Smart Elegant bedeutet nicht, dass du für jede Einladung neue Kleidung kaufen musst. Vielmehr geht es darum, vorhandene [Lieblingsstücke](/glossar/lieblingsstueck/) klug einzusetzen.
 
-- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
-- Achte auf Wiederholungen in Farbe, Material und Silhouette.
-- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+Prüfe dein Outfit vor dem Anziehen mit diesen Fragen:
 
-## Beratungsblick
+1. **Stimmt die Balance?** Wenn das Oberteil sehr schlicht ist, darf das Unterteil eine spannende Struktur haben. Ist ein Teil besonders elegant, gleicht ein schlichtes Basic den Look harmonisch aus.
+2. **Welche Accessoires runden das Bild ab?** Ein schöner [Gürtel](/glossar/guertel/), dezente [Ohrringe](/glossar/ohrringe/) oder ein edles [Seidentuch](/glossar/seidentuch/) setzen feine Akzente, ohne vom Wesentlichen abzulenken.
+3. **Passt der Schuh zum Saum?** Die richtige [Schuh-Saum-Beziehung](/glossar/schuh-saum-beziehung/) entscheidet darüber, ob die Proportionen deiner Silhouette optimal wirken.
 
-In der Beratung ist **Smart Elegant** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+In unserer [Stilberatung](/glossar/stilberatung/) betonen wir immer: Kleidung darf sich natürlich anfühlen. Wenn du dich in deiner Auswahl wohlfühlst, strahlst du das auch aus. Nutze diesen Stil als Werkzeug, um deine persönliche [Stilidentität](/glossar/stilidentitaet/) im Alltag auszudrücken.
 
-Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
-
-## Entscheidungsfrage
-
-Frag dich bei **Smart Elegant**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
-
-Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Smart Elegant** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
-
-Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Grobstrick](/glossar/grobstrick/).
+Mehr Inspirationen findest du in unserer Kategorie [Garderobe & Alltag](/glossar/garderobe-alltag/). Wenn du deine Outfits gezielt aufbauen möchtest, unterstützt dich eine strukturierte [Garderobenplanung](/glossar/garderobenplanung/) beim Sortieren und Kombinieren deiner Kleidung.
 
 ## Verwandte Begriffe
 

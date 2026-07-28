@@ -5,6 +5,7 @@ description: Ear Stacking объединяет несколько серег в 
 category: Аксессуары
 slug: ear-stacking
 seoTitle: "Ear Stacking: Кураторское сочетание нескольких серег | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Ear Stacking с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

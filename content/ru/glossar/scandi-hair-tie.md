@@ -5,6 +5,7 @@ description: Scandi Hair Tie это увеличенная резинка-scrunc
 category: Аксессуары
 slug: scandi-hair-tie
 seoTitle: "Scandi Hair Tie: Объемная резинка как акцент стиля | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Scandi Hair Tie с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

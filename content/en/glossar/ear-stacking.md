@@ -5,6 +5,7 @@ description: Ear Stacking combines multiple earrings into one curated ear compos
 category: Accessories
 slug: ear-stacking
 seoTitle: "Ear Stacking: Curated Multi-Earring Styling | ESKYNA"
+image_alt: "Editorial glossary illustration for Ear Stacking with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

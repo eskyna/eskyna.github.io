@@ -16,14 +16,16 @@ weight: 1
 image: images/glossar/jacquard.png
 image_alt: Editoriale Glossar-Grafik zu Jacquard mit ruhigen Farbfeldern und feiner Linienführung
 relatedTerms:
-  - title: Materialfall
-    url: /glossar/materialfall/
+  - title: Damast
+    url: /glossar/damast/
+  - title: Brokat
+    url: /glossar/brokat/
   - title: Struktur
     url: /glossar/struktur/
-  - title: Glanzgrad
-    url: /glossar/glanzgrad/
-  - title: Accessoire
-    url: /glossar/accessoire/
+  - title: Materialfall
+    url: /glossar/materialfall/
+history: "Joseph Marie Jacquard erfand 1804 den Jacquard-Webstuhl. Seine geniale Steuerung über Lochkarten revolutionierte die Textilindustrie und gilt heute als wegweisender Vorläufer der modernen Computertechnologie."
+knowledge: "Da Jacquard-Muster direkt eingewebt und nicht aufgedruckt sind, sind diese Stoffe besonders strapazierfähig, formstabil und weisen oft ein wunderschönes, zweiseitiges Wendemuster auf."
 faq:
   items:
     - q: Wie nutze ich „Jacquard“ im Alltag?
@@ -38,58 +40,43 @@ lastmod: "2026-07-09"
 
 ## Definition
 
-**Jacquard**: Jacquard ist ein Stoff mit eingewebtem Muster, das durch die Webtechnik statt durch Druck entsteht.
+**Jacquard** bezeichnet eine anspruchsvolle Webtechnik und die dadurch hergestellten Stoffe, bei denen komplexe Muster direkt in das Gewebe hineingewebt werden. Im Gegensatz zu bedruckten Textilien entsteht das Design hier durch das präzise Zusammenspiel unterschiedlich farbiger oder unterschiedlich strukturierter Kett- und Schussfäden.
 
-## Einfach erklärt
+## Einfach erklärt: Was ist Jacquard?
 
-Material ist nie nur eine technische Angabe. Oberfläche, Gewicht, Griff und Fall bestimmen, ob ein Kleidungsstück weich, klar, elegant, sportlich oder robust erscheint.
+Wenn du ein Kleidungsstück mit einem Muster siehst, ist dieses meistens nachträglich auf den fertigen Stoff aufgedruckt. Bei Jacquard ist das anders. Hier ist das [Muster](/glossar/muster/) ein fester Bestandteil des Stoffes selbst.
 
-Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer Stoffe besser lesen kann, erkennt schneller, ob ein Teil zum Alltag und zur gewünschten Wirkung passt.
+Das Geheimnis liegt in der Herstellung. Durch die spezielle Steuerung der Webfäden lassen sich unendlich viele, detailreiche Motive erzeugen. Berühmte Vertreter dieser Webkunst sind beispielsweise der edle [Damast](/glossar/damast/) oder der schwere, oft mit Metallfäden durchzogene [Brokat](/glossar/brokat/). Weil die Fäden aufwendig miteinander verkreuzt werden, erhält der Stoff eine fühlbare, plastische [Struktur](/glossar/struktur/) und eine besondere Wertigkeit.
 
-## Warum Jacquard wichtig ist
+Für deinen Alltag bedeutet das: Ein Jacquard-Kleidungsstück wirkt durch seine reliefartige Oberfläche lebendig, elegant und sehr hochwertig. Das Material ist formstabil und verliert selbst nach vielen Wäschen nicht sein Muster, da keine Farbe abblättern oder verblassen kann.
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+## Die historische Dimension der Webtechnik
 
-Gerade im Alltag hilft Jacquard, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Hinter dem Begriff Jacquard steckt eine echte Revolution der Modegeschichte. Erfunden wurde die Technik von dem französischen Weber Joseph Marie Jacquard im Jahr 1804. Er entwickelte einen Webstuhl, der über Lochkarten gesteuert wurde. Jedes Loch in der Karte bestimmte, ob ein Faden gehoben oder gesenkt wurde.
 
-Ein Vergleich mit [Chambray](/glossar/chambray/) zeigt gut, wie unterschiedlich Muster und ruhige Gewebestruktur wirken.
+Diese Erfindung war genial. Sie automatisierte die Herstellung extrem komplexer Muster, die vorher nur in monatelanger Handarbeit entstanden. Gleichzeitig schuf Jacquard damit die allererste programmierbare Maschine der Welt. Die Lochkartentechnik inspirierte Jahrzehnte später die Pioniere der modernen Informationstechnologie bei der Entwicklung der ersten Computer.
 
-## Worauf du achten solltest
+## Worauf du beim Kauf und Styling achten solltest
 
-- Prüfe, welche Aufgabe Jacquard im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+Damit ein Jacquard-Stoff in deiner Garderobe seine volle Wirkung entfaltet und nicht überladen wirkt, helfen dir diese praktischen Stylingregeln:
+
+- **Die richtige Balance finden:** Da Jacquard durch seine eingewebten Muster sehr präsent ist, solltest du ihn im Outfit als Key-Piece einsetzen. Kombiniere eine gemusterte Jacquardjacke am besten mit ruhigen Basics, um dem Look einen klaren Rahmen zu geben.
+- **Den Materialfall beachten:** Jacquard-Gewebe haben oft etwas Stand und sind schwerer als einfache Baumwollstoffe. Achte darauf, wie der [Materialfall](/glossar/materialfall/) deine Silhouette formt. Ein strukturierter Jacquard-Rock behält seine ausgestellte Form besonders gut.
+- **Mit Stilbrüchen spielen:** Jacquard haftet manchmal ein klassischer, fast barocker Ruf an. Wenn du einen modernen Look bevorzugst, eignet sich ein gezielter [Stilbruch](/glossar/stilbruch/). Trage ein edles Jacquard-Oberteil einfach zu einer lässigen Jeans.
+- **Auf den Glanzgrad achten:** Je nach verwendeten Fasern wie Viskose, Seide oder Synthetik verändert sich der [Glanzgrad](/glossar/glanzgrad/) des Musters. Matter Jacquard wirkt alltagstauglich und sportlich, während glänzende Fäden ideal für die Abendgarderobe sind.
 
 ## Typische Missverständnisse
 
-**Missverständnis:** Jacquard ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+**Missverständnis:** Jacquard ist eine eigene Faser wie Baumwolle oder Schurwolle.  
+**Besser:** Jacquard bezeichnet ausschließlich die Webtechnik. Ein Jacquard-Stoff kann aus fast jeder Faser bestehen, zum Beispiel aus Baumwolle, Seide, Wolle oder synthetischen Mischungen.
 
-**Missverständnis:** Jacquard funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+**Missverständnis:** Gemusterte Stoffe sind alle gleich empfindlich.  
+**Besser:** Gedruckte Muster können sich mit der Zeit abnutzen oder verwaschen. Da das Jacquard-Muster eingewebt ist, bleibt es dauerhaft schön und macht das Kleidungsstück besonders langlebig.
 
-## ESKYNA-Merksatz
+## Qualität erkennen und Fehlkäufe vermeiden
 
-Jacquard wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Um einen ärgerlichen [Fehlkauf](/glossar/fehlkauf/) zu vermeiden, lohnt sich beim Einkaufen ein genauer Blick auf die Details. Drehe das Kleidungsstück auf links. Bei echtem Jacquard siehst du auf der Innenseite das Negativ des Musters oder die sauber geführten, farbigen Fäden, die auf der Vorderseite das Bild ergeben.
 
-## Praxischeck
+Achte zudem darauf, dass die Fadenenden auf der Innenseite sauber verarbeitet sind und sich keine Schlaufen ziehen. Ein hochwertiger Faser-Mix sorgt dafür, dass der Stoff elastisch bleibt, ohne auszubeulen, und seine edle Struktur behält.
 
-Wenn du den Begriff **Jacquard** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
-
-- Fühle Griff, Gewicht und Stand des Materials.
-- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
-
-## Beratungsblick
-
-In der Beratung ist **Jacquard** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
-
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
-
-## Verwandte Begriffe
-
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Mehr spannendes Textilwissen findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/).

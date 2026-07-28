@@ -5,6 +5,7 @@ description: Tenniscore переносит преппи-эстетику тен�
 category: Стилевые направления
 slug: tenniscore
 seoTitle: "Tenniscore: Спортивный преппи-код для повседневности | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Tenniscore с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: Slouchy Socks это приспущенные носки, кото�
 category: Обувь
 slug: slouchy-socks
 seoTitle: "Slouchy Socks: Мягкая деталь у щиколотки в образе | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Slouchy Socks с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

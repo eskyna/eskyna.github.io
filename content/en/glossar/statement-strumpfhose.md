@@ -5,6 +5,7 @@ description: Statement Tights use color, pattern or texture to make legwear the 
 category: Accessories
 slug: statement-strumpfhose
 seoTitle: "Statement Tights: Bold Legwear as Styling Focus | ESKYNA"
+image_alt: "Editorial glossary illustration for Statement Tights with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

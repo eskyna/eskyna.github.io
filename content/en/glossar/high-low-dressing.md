@@ -5,6 +5,7 @@ description: High-Low Dressing combines elevated and casual pieces to create ten
 category: Styling Principles
 slug: high-low-dressing
 seoTitle: "High-Low Dressing: Elegant Meets Casual | ESKYNA"
+image_alt: "Editorial glossary illustration for High-Low Dressing with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

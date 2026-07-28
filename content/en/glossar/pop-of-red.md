@@ -5,6 +5,7 @@ description: Pop of Red is a targeted red accent used to energize neutral outfit
 category: Color & Effect
 slug: pop-of-red
 seoTitle: "Pop of Red: Create Focus with One Red Accent | ESKYNA"
+image_alt: "Editorial glossary illustration for Pop of Red with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

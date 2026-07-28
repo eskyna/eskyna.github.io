@@ -5,6 +5,7 @@ description: Romcom Core revives romantic 1990s and 2000s movie styling in a cur
 category: Style Aesthetics
 slug: romcom-core
 seoTitle: "Romcom Core: Romantic 2000s References, Updated | ESKYNA"
+image_alt: "Editorial glossary illustration for Romcom Core with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

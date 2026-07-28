@@ -1,8 +1,7 @@
 ---
 title: Was bedeutet Dreieck-Silhouette?
 term: Dreieck-Silhouette
-description: Die Dreieck-Silhouette beschreibt eine Form, bei der der Hüftbereich optisch breiter
-  wirkt als die Schulterpartie.
+description: Die Dreieck-Silhouette beschreibt eine Form, bei der der Hüftbereich optisch breiter wirkt als die Schulterpartie.
 category: Schnitt, Proportion & Passform
 subcategory: "Größen & Passform"
 tags:
@@ -17,6 +16,8 @@ keywords:
 weight: 35
 image: images/glossar/dreieck-silhouette.png
 image_alt: "Glossar-Illustration zu Dreieck-Silhouette"
+history: "In den 1950er-Jahren revolutionierte Christian Dior mit seiner berühmten A-Linie die Modewelt und etablierte die Dreieck-Silhouette als elegantes Schönheitsideal. Zuvor dominierten extrem enge Wespentaillen. Die geometrisch ausgestellte Form schenkte Frauen neue Bewegungsfreiheit, ohne die feminine Ausstrahlung zu verlieren."
+knowledge: "Die Dreieck-Silhouette lässt sich im Styling am einfachsten steuern, indem du den Fokus auf deinen Oberkörper lenkst. Ein breiter Ausschnitt oder Schulterpolster gleichen die Proportionen optisch aus, während fließende Stoffe an der Hüfte für eine weiche Linie sorgen."
 relatedTerms:
   - title: Silhouette
     url: /glossar/silhouette/
@@ -30,57 +31,49 @@ relatedTerms:
     url: /glossar/a-linie/
 faq:
   items:
-    - q: Wie nutze ich „Dreieck-Silhouette“ im Alltag?
-      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
-        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Dreieck-Silhouette“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wie nutze ich die „Dreieck-Silhouette“ im Alltag?
+      a: Nutze den Begriff als praktischen Prüfpunkt für Linie, Balance und Volumen. Er hilft dir zu entscheiden, ob du deine Hüftpartie betonen oder deine Schulterpartie optisch stärken möchtest.
+    - q: Gilt die „Dreieck-Silhouette“ für jeden Stil gleich?
+      a: Nein. Stil funktioniert immer im persönlichen Kontext. Was bei einer Person harmonisch und fließend wirkt, kann bei einer anderen durch andere Stoffe oder Farben ganz anders wahrgenommen werden.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Die **Dreieck-Silhouette** beschreibt eine Form, bei der der Hüftbereich optisch breiter wirkt als die Schulterpartie.
+Die **Dreieck-Silhouette** beschreibt eine optische Form in der Mode, bei der die Hüftpartie und das Gesäß breiter wirken als die Schulterlinie.
 
 ## Einfach erklärt
 
-Der Begriff hilft, Proportionen zu lesen, nicht Körper zu bewerten. Styling kann Schulter, Taille und Unterkörper unterschiedlich gewichten.
+In der Mode hilft dir dieser Begriff, deine [Proportion](/glossar/proportion/) besser zu verstehen und deine Kleidung gezielter auszuwählen. Es geht hierbei nicht darum, deinen Körper zu bewerten. Jede [Körperform](/glossar/koerperform/) bringt ihre eigenen Stärken mit.
+
+Bei der Dreieck-Silhouette liegt der visuelle Schwerpunkt auf der unteren Körperhälfte. Mit dem richtigen Styling kannst du diesen Effekt entweder bewusst betonen oder eine harmonische [Schulter-Hüft-Balance](/glossar/schulter-hueft-balance/) schaffen. Ziel ist es, die Linien deines Outfits so zu führen, dass dein Look ausgeglichen und stimmig wirkt.
 
 ## Mini-Test vor dem Spiegel
 
-Betrachte „Dreieck-Silhouette“ einmal aus der Nähe und einmal mit etwas Abstand. Aus der Nähe siehst du Detail, Farbe und Material; aus der Entfernung erkennst du, ob der Gesamteindruck ruhig, klar und stimmig bleibt. Wenn der Look nur aus einer Perspektive funktioniert, braucht er wahrscheinlich noch mehr Balance.
+Stelle dich in deinem Outfit etwa zwei Meter vor einen großen Spiegel. Kneife die Augen ein wenig zusammen, sodass die Details verschwinden und du nur noch die grobe Außenlinie siehst.
+
+Achte auf den Verlauf deiner [Silhouette](/glossar/silhouette/): Wird das Outfit von den Schultern abwärts nach unten hin gleichmäßig breiter? Wenn ja, hast du eine klassische Dreieck-Silhouette kreiert. Jetzt kannst du prüfen, ob du diese Form durch eine gezielte [Taillenbetonung](/glossar/taillenbetonung/) definieren oder die Linie fließend belassen möchtest.
 
 ## ESKYNA-Merksatz
 
-Die Dreieck-Silhouette wird klarer, wenn Balance bewusst gestaltet wird.
+Die Dreieck-Silhouette wirkt besonders harmonisch, wenn du deine Schultern optisch leicht betonst oder auf fließende Stoffe setzt, die deine Hüften sanft umspielen.
 
-## Praxischeck
+## Praxischeck: So stylst du die Dreieck-Silhouette
 
-Wenn du den Begriff **Dreieck-Silhouette** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schnitt und Passform entscheiden, ob ein Outfit ruhig, langgezogen, kompakt, weich oder präzise wirkt.
+Wenn du die Dreieck-Silhouette in deinem Alltag tragen und optimal ausbalancieren möchtest, kannst du dich an drei einfachen Grundregeln orientieren:
 
-- Sieh dir die Linien im Spiegel aus zwei Metern Abstand an.
-- Prüfe Schulter, Taille, Saum und Bewegungsfreiheit getrennt.
-- Kombiniere das Teil mit den Schuhen, die du tatsächlich dazu tragen würdest.
+- **Den Oberkörper betonen**: Nutze helle Farben, auffällige Muster, horizontale Ausschnitte oder Jacken mit dezenten [Schulterpolster](/glossar/schulterpolster/) Elementen. Das lenkt den Blick nach oben und verbreitert deine Schulterpartie optisch.
+- **Fließende Schnitte für unten wählen**: Ein klassischer [A-Linien-Rock](/glossar/a-linien-rock/) oder ein elegantes [A-Linien-Kleid](/glossar/a-linien-kleid/) eignen sich perfekt. Sie liegen an der Taille schmal an und fallen danach locker über die Hüfte, ohne zusätzliches [Volumen](/glossar/volumen/) aufzutragen.
+- **Die richtige Bundhöhe nutzen**: Hosen und Röcke mit einer hohen Leibhöhe strecken deine Beine optisch. Wenn du dabei die [Drittel-Regel im Outfit](/glossar/drittel-regel-im-outfit/) beachtest, erzielst du eine wunderschöne [Längsstreckung](/glossar/laengsstreckung/).
 
 ## Beratungsblick
 
-In der Beratung ist **Dreieck-Silhouette** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+In der professionellen Stilberatung ist die Dreieck-Silhouette eine der dankbarsten Formen. Sie strahlt eine wunderbare Weiblichkeit und Eleganz aus. Anstatt zu versuchen, breitere Hüften unter weiten, formlosen Kleidungsstücken zu verstecken, solltest du auf die richtige Passform setzen.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Eine gut geschnittene [A-Linie](/glossar/a-linie/) zeigt deine schmale Taille und lässt den Stoff nach unten hin weich fließen. Achte darauf, dass Hosen und Röcke im Hüftbereich nicht spannen, da Querfalten die Partie optisch verbreitern und die fließende Linie stören.
 
 ## Entscheidungsfrage
 
-Frag dich bei **Dreieck-Silhouette**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
+Frag dich beim Blick in den Spiegel: Welche Wirkung möchtest du heute erzielen? Möchtest du deine Hüftkurve selbstbewusst betonen oder möchtest du deinen Look eher klassisch ausbalancieren?
 
-Bei Proportionen hilft Distanz. Schau nicht nur auf Details, sondern auf die ganze Linie von Kopf bis Schuh. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Dreieck-Silhouette** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
-
-Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Crêpe/Krepp](/glossar/crepe-krepp/).
-
-## Verwandte Begriffe
-
-- [Silhouette](/glossar/silhouette/)
-- [Schulter-Hüft-Balance](/glossar/schulter-hueft-balance/)
-- [Balance](/glossar/balance/)
-- [Körperform](/glossar/koerperform/)
-- [A-Linie](/glossar/a-linie/)
+Sobald du diese Entscheidung getroffen hast, fällt die Wahl der passenden Kleidungsstücke viel leichter. Probiere ruhig zwei Varianten aus: einmal ein Outfit mit Fokus auf deine Schultern und einmal einen Look, der deine Hüfte sanft umspielt. So entwickelst du schnell ein natürliches Gefühl für deine besten Schnitte.

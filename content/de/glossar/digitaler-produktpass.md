@@ -1,7 +1,7 @@
 ---
 title: Digitaler Produktpass
 term: Digitaler Produktpass
-description: Was ist ein Digitaler Produktpass? Erfahre, welche Produktdaten er zugänglich machen kann, wie die EU-Einführung erfolgt und worauf Verbraucher achten sollten.
+description: Was ist ein Digitaler Produktpass? Erfahre, welche Produktdaten er zugänglich machen kann, wie die EU-Einführung erfolgt und worauf du achten solltest.
 category: Garderobe & Alltag
 subcategory: Verbraucherwissen
 slug: digitaler-produktpass
@@ -11,42 +11,57 @@ image_alt: Smartphone scannt einen QR-Code an einem Kleidungsetikett und zeigt s
 lastmod: "2026-07-22"
 additional_categories:
   - Verbraucherwissen
+relatedTerms:
+  - /glossar/circular-fashion/
+  - /glossar/greenwashing/
+  - /glossar/slow-fashion/
+  - /glossar/verbraucherwissen/
+knowledge:
+  - Der Digitale Produktpass (DPP) wird durch die EU-Ökodesign-Verordnung schrittweise verpflichtend.
+  - Er speichert Daten entlang der gesamten Lieferkette, um Recycling und Kreislaufwirtschaft zu fördern.
+  - Ein DPP ist kein Gütesiegel, sondern ein herstellerunabhängiges Werkzeug für mehr Transparenz.
+history:
+  - Die gesetzliche Grundlage basiert auf dem europäischen Grünen Deal von 2019 und der daraus resultierenden Ökodesign-Verordnung (ESPR) zur Förderung zirkulärer Wirtschaftsmodelle.
 ---
 
-## Definition
+## Was ist ein Digitaler Produktpass (DPP)?
 
-Ein Digitaler Produktpass, kurz DPP, ist ein strukturierter Datensatz zu einem konkreten Produkt oder Produkttyp. Er wird über einen Datenträger wie einen QR-Code oder eine andere maschinenlesbare Kennzeichnung erreichbar und kann, abhängig von den jeweiligen Produktregeln, Informationen zu Material, Herkunft, Haltbarkeit, Reparatur, Umweltaspekten und Konformität enthalten.
+Ein Digitaler Produktpass, abgekürzt DPP, ist ein strukturierter, digitaler Datensatz für ein bestimmtes Produkt. Er macht wichtige Informationen über den gesamten Lebenszyklus eines Kleidungsstücks transparent und leicht zugänglich. Über einen physischen Datenträger am Produkt, zum Beispiel einen scanbaren QR-Code, einen NFC-Chip oder ein RFID-Etikett, kannst du diese Daten direkt mit dem Smartphone abrufen.
 
-## Einfach erklärt
+Ziel dieses Systems ist es, den Weg von der Rohstoffgewinnung über die Produktion bis hin zum Recycling lückenlos zu dokumentieren. Damit bildet der DPP eine wichtige Säule für das Konzept der [Circular Fashion](/glossar/circular-fashion/), also der Kreislaufwirtschaft in der Modeindustrie.
 
-Der DPP ist mehr als eine beliebige Produktwebseite hinter einem QR-Code. Die Daten sollen standardisiert, auffindbar und für unterschiedliche berechtigte Nutzergruppen nutzbar sein. Welche Angaben verpflichtend sind, wird produktgruppenspezifisch festgelegt.
+## Welche Informationen enthält der digitale Pass für Kleidung?
 
-## Warum ist das für Verbraucher wichtig?
+Der DPP ist keine einfache Werbeseite des Herstellers. Es handelt sich um ein standardisiertes System. Welche Angaben genau enthalten sein müssen, regelt die Europäische Union schrittweise. Zu den typischen Inhalten im Textilbereich gehören:
 
-Für Verbraucher kann ein gut umgesetzter DPP Produktvergleiche erleichtern und Pflege, Reparatur oder Weiterverkauf unterstützen. Sein Wert hängt davon ab, ob die Informationen konkret, aktuell, verständlich und nachprüfbar sind.
+- **Materialien und Herkunft:** Welche Fasern wurden verwendet, wo wurden sie angebaut, gewonnen und verarbeitet?
+- **Lieferkette:** Transparente Einblicke in die beteiligten Spinnereien, Webereien und Nähereien.
+- **Nachhaltigkeit und Umweltbilanz:** Nachprüfbare Angaben zum CO2-Fußabdruck, zum Wasserverbrauch oder zum Einsatz von Chemikalien bei der Herstellung.
+- **Reparatur und [Pflege](/glossar/pflege/):** Konkrete Anleitungen, wie du das Kleidungsstück pflegst, um seine [Langlebigkeit](/glossar/langlebigkeit/) zu maximieren, sowie Hinweise zu passenden Ersatzteilen wie Knöpfen oder Reißverschlüssen.
+- **Recyclingfähigkeit:** Informationen darüber, wie das Material am Ende seiner Lebensdauer fachgerecht getrennt und wiederverwertet werden kann.
 
-## Praxischeck
+## Warum ist der DPP für dich als Verbraucher wichtig?
 
-Prüfe, ob die Angaben produktspezifisch sind oder nur allgemeine Markentexte wiederholen.
+Für den Aufbau einer bewussten und [nachhaltigen Garderobe](/glossar/nachhaltige-garderobe/) ist Transparenz der wichtigste Faktor. Bisher war es extrem schwer, die tatsächliche [Qualität](/glossar/qualitaet/) und die ökologischen Auswirkungen eines Kleidungsstücks beim Kauf verlässlich einzuschätzen.
 
-## Beispiel aus dem Alltag
+Mit dem Digitalen Produktpass erhältst du ein Werkzeug, das dir echte Produktvergleiche ermöglicht. Du erkennst schneller, ob ein Kleidungsstück unter fairen Bedingungen produziert wurde oder ob es sich um ein echtes Produkt aus der [Slow Fashion](/glossar/slow-fashion/) handelt. Zudem hilft dir der Pass dabei, irreführende Werbeversprechungen und [Greenwashing](/glossar/greenwashing/) zu entlarven, da die bereitgestellten Daten auf Fakten basieren und herstellerunabhängig nachprüfbar sein müssen.
 
-Der Code eines Mantels führt nicht nur zur Verkaufsseite, sondern zu einem strukturierten Datensatz mit Materialzusammensetzung, Pflege, Ersatzteilhinweisen, Reparaturanleitung und verantwortlichem Hersteller. Genau diese Produktbezogenheit unterscheidet den DPP von allgemeinem Marketing.
+## Das typische Missverständnis: Was der DPP nicht ist
 
-## Typisches Missverständnis
+Ein wichtiges Detail solltest du beachten: Der Digitale Produktpass ist kein Nachhaltigkeitssiegel. Er bewertet das Produkt nicht aktiv und garantiert nicht automatisch, dass ein Kleidungsstück umweltfreundlich, fair oder schadstofffrei produziert wurde. Er stellt lediglich die nackten Fakten digital bereit.
 
-Ein Digitaler Produktpass ist kein Nachhaltigkeitssiegel und keine Garantie für ein umweltfreundliches Produkt. Er stellt Informationen bereit; wie gut das Produkt abschneidet, muss anhand dieser Informationen bewertet werden.
+Die Bewertung dieser Fakten liegt weiterhin bei dir als Käufer. Ein Kleidungsstück aus minderwertigen Synthetikfasern, das unter fragwürdigen Bedingungen hergestellt wurde, erhält ebenfalls einen DPP, nur sind die schlechten Werte dort eben für jeden sichtbar hinterlegt.
+
+## Wann kommt die Pflicht zur Einführung?
+
+Die gesetzliche Grundlage für den DPP ist die EU-Ökodesign-Verordnung für nachhaltige Produkte. Die Einführung erfolgt stufenweise für verschiedene Produktgruppen. Die Textilbranche und damit die Bekleidungsindustrie gehört zu den ersten Sektoren, für die dieser Pass verpflichtend wird. In den kommenden Jahren wird der QR-Code am Pflegeetikett deiner Kleidung also immer mehr zum Standard werden.
 
 ## Häufige Fragen
 
 ### Muss heute schon jedes Kleidungsstück einen Digitalen Produktpass haben?
 
-Nein. Die Einführung erfolgt schrittweise und die konkreten Pflichten hängen von produktspezifischen EU-Regeln ab. Für textile Bekleidung sind Anforderungen in Vorbereitung.
+Nein, aktuell befindet sich das System in der Vorbereitungs- und Übergangsphase. Einige Vorreiter-Marken nutzen bereits freiwillige digitale Pässe. Die flächendeckende gesetzliche Pflicht für Textilien wird schrittweise in den kommenden Jahren eingeführt.
 
-### Welche Informationen stehen im DPP?
+### Wie unterscheidet sich der DPP von normalem Marketing?
 
-Das hängt von der Produktgruppe und dem geltenden Rechtsakt ab. Denkbar sind unter anderem Zusammensetzung, Haltbarkeit, Reparatur, Umwelt- und Konformitätsdaten sowie Angaben zu verantwortlichen Wirtschaftsakteuren.
-
-## Verwandte Begriffe und interne Links
-
-[Circular Fashion](/glossar/circular-fashion/), [Greenwashing](/glossar/greenwashing/)
+Klassisches Marketing hebt nur positive Aspekte hervor und nutzt oft vage Begriffe. Die Daten im Digitalen Produktpass müssen dagegen standardisiert, lückenlos dokumentiert und gesetzlich prüfbar sein. Das macht die Angaben verlässlich.

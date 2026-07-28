@@ -5,6 +5,7 @@ description: Biker Shorts это облегающие шорты до колен
 category: Одежда
 slug: biker-shorts
 seoTitle: "Biker Shorts: Спортивная база в повседневной стилизации | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Biker Shorts с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

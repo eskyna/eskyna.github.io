@@ -5,6 +5,8 @@ description: Puddle Pants sind extra lange, weite Hosen mit bewusst stauchendem 
 category: Garderobe & Alltag
 slug: puddle-pants
 seoTitle: "Puddle Pants: Weite Hosen modern stylen | ESKYNA"
+image: images/glossar/puddle-pants.png
+image_alt: "Editoriale Glossar-Grafik zu Puddle Pants mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

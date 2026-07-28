@@ -29,17 +29,34 @@ ui:
       href: /glossar/kategorie/schnitt-proportion-passform/
 image: images/glossar/_index.png
 image_alt: "Glossar-Illustration zu Glossar"
+knowledge:
+  - Stilwissen schützt dich vor Fehlkäufen und schärft deine visuelle Wirkung im Alltag.
+  - Ein tiefes Verständnis von Passformen und Materialien erleichtert dir das tägliche Kombinieren.
+history:
+  - Klassische Stilbegriffe wurzeln oft in der französischen Haute Couture und der traditionellen britischen Schneiderei.
+  - Historische Dresscodes wandeln sich stetig und passen sich modernen, flexiblen Lebensweisen an.
 ---
 
-Das ESKYNA Glossar ist dein digitales Nachschlagewerk für fundiertes Stilwissen, Modegeschichte und textile Expertise. Von klassischen Dresscodes über komplexe Farbtheorien der Stilberatung bis hin zu präziser Schnittführung und Materialkunde: Hier findest du keine trockenen Definitionen, sondern praxistaugliches Hintergrundwissen für deine täglichen Stilentscheidungen. Denn wahrer Stil basiert auf Verständnis, nicht auf Trends.
+Das ESKYNA Modeglossar ist dein digitales Nachschlagewerk für fundiertes Modewissen, historische Hintergründe und textile Expertise. Von klassischen Moderegeln über komplexe Konzepte der [Farbberatung](/glossar/farbberatung/) bis hin zu handwerklicher Präzision in Schnittführung und Materialkunde: Hier findest du klare Erklärungen und praxistaugliches Hintergrundwissen für deine tägliche Garderobe. Wahrer Stil basiert schließlich auf Wissen, nicht auf flüchtigen Trends.
 
-Die Sprache der Mode hat eine faszinierende Entwicklung hinter sich. Viele unserer heutigen Stilbegriffe wurzeln in der französischen Haute Couture des 19. Jahrhunderts oder der traditionellen britischen Herrenschneiderei der Savile Row. Dieses Modeglossar verbindet diese modehistorischen Ursprünge mit moderner Garderobenplanung und Stoffkunde. Es hilft dir, die feinen Unterschiede zwischen verschiedenen Gewebearten, Passformen und Stilrichtungen mühelos zu entschlüsseln.
+## Warum Modewissen deine tägliche Garderobe verändert
 
-Nutze dieses Glossar als deinen persönlichen Stilratgeber, wenn du:
+Die Sprache der Mode hat eine faszinierende Geschichte. Viele unserer heutigen Stilbegriffe stammen aus der traditionellen französischen Schneiderkunst oder der britischen Maßschneiderei der Savile Row. Wenn du diese Begriffe verstehst, lernst du die feinen Qualitätsunterschiede von Textilien, Webarten und Schnitten selbstständig zu erkennen. Das hilft dir nicht nur bei der täglichen Outfitwahl, sondern schützt dich auch aktiv vor teuren [Fehlkäufen](/glossar/fehlkauf/).
 
-- **Farbe und Wirkung verstehen willst:** Lerne, wie Untertöne und Kontraste deine Ausstrahlung unterstützen.
-- **Passformen optimieren möchtest:** Verstehe die Anatomie von Schnitten und wie Proportionen visuell harmonieren.
-- **Fehlkäufe vermeiden willst:** Erkenne die wichtigsten Qualitätsmerkmale hochwertiger Materialien und Textilien.
-- **Deine Garderobe strukturieren möchtest:** Erfahre, wie du eine funktionale Capsule Wardrobe aufbaust, die perfekt zu deinem Alltag passt.
+Durch gezielte [Garderobenplanung](/glossar/garderobenplanung/) entwickelst du ein klares System für deinen Kleiderschrank. Du erfährst, wie du eine minimalistische [Capsule Wardrobe](/glossar/capsule-wardrobe/) aufbaust, die perfekt zu deinem Lebensstil passt und dir jeden Morgen Zeit spart.
 
-**Wähle deinen Einstieg: alphabetisch, nach Kategorie, nach Relevanz oder über eine konkrete Stilfrage.**
+## Die Säulen des persönlichen Stils: Farbe, Schnitt und Material
+
+Ein harmonisches Outfit entsteht durch das bewusste Zusammenspiel verschiedener Gestaltungsregeln. Unser Stilratgeber begleitet dich bei jedem Schritt:
+
+- **Farbe und visuelle Wirkung:** Entdecke, wie du deine Ausstrahlung durch passende Kontraste stärkst. Lerne den Unterschied zwischen warmen und kühlen Untertönen kennen und gestalte deine persönliche Farbpalette.
+- **Passform und Proportionen:** Erfahre, wie unterschiedliche Schnitte deine Silhouette formen. Verstehe, wie [Proportionen](/glossar/proportion/) im Raum wirken und wie du den Blick gezielt führst.
+- **Textile Qualität:** Gewinne Sicherheit im Umgang mit feinen Naturfasern und modernen Funktionstextilien. Erkenne gute Verarbeitung bereits vor der Kabine.
+
+## Souverän auftreten bei jedem Anlass
+
+Ob geschäftliches Meeting oder private Feier: Die Wahl deiner Kleidung sendet subtile Signale. Mit dem passenden Wissen entschlüsselst du offizielle [Dresscodes](/glossar/dresscode/) mühelos und übersetzt sie in eine moderne [Stilidentität](/glossar/stilidentitaet/), die sich niemals verkleidet anfühlt.
+
+Nutze diese Übersicht als deinen täglichen Begleiter für fundierte Entscheidungen vor dem Kleiderschrank und beim Einkaufen.
+
+**Wähle jetzt deinen Einstieg: Suche gezielt nach Begriffen, navigiere alphabetisch oder entdecke die Themenwege nach deiner aktuellen Stilfrage.**

@@ -5,6 +5,7 @@ description: Mesh Flats это плоская обувь с прозрачным
 category: Обувь
 slug: mesh-flats
 seoTitle: "Mesh Flats: Легкая прозрачная обувь в современном стиле | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Mesh Flats с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

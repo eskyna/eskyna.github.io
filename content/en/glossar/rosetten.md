@@ -5,6 +5,7 @@ description: Rosettes are three-dimensional fabric flowers used as sculptural st
 category: Accessories
 slug: rosetten
 seoTitle: "Rosettes: 3D Floral Details as Fashion Accent | ESKYNA"
+image_alt: "Editorial glossary illustration for Rosettes with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 
