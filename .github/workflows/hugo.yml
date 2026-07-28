@@ -99,7 +99,7 @@ jobs:
           fetch-depth: 0
       - name: Detect glossary changes
         id: glossary_changes
-        uses: dorny/paths-filter@v3
+        uses: dorny/paths-filter@v4
         with:
           filters: |
             glossary:
@@ -135,7 +135,7 @@ jobs:
         run: npm run glossary-contextual-link-audit
       - name: Upload glossary audit artifacts
         if: steps.glossary_changes.outputs.glossary == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: glossary-audit-reports
           path: |
