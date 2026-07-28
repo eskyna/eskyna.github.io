@@ -134,6 +134,7 @@ GLOSSARY_CONTEXT_CACHE = {}
 # Sperre, damit die Prints der Worker sich nicht überschneiden
 print_lock = threading.Lock()
 tracker = None
+STOP_WORKER = object()
 
 class ProgressTracker:
     def __init__(self, total):
@@ -294,6 +295,25 @@ def optimize(markdown: str, client, lang: str) -> str:
                 # Bei komplett anderen, unbekannten Fehlern (z.B. falscher API-Key) sofort abbrechen
                 raise e
 
+
+def is_transient_network_error(error: Exception) -> bool:
+    """Erkennt temporäre Netzwerkfehler, bei denen ein Retry sinnvoll ist."""
+    msg = str(error).lower()
+    markers = [
+        "network is unreachable",
+        "errno 51",
+        "connection reset",
+        "connection aborted",
+        "connection refused",
+        "temporary failure",
+        "timed out",
+        "timeout",
+        "name or service not known",
+        "nodename nor servname provided",
+        "failed to establish a new connection",
+    ]
+    return any(marker in msg for marker in markers)
+
 def process(path: Path, client, lang: str, worker_id: int):
     """Verarbeitet eine einzelne Datei für die Optimierung."""
     safe_print(f"[Worker {worker_id}] → {path}")
@@ -303,15 +323,20 @@ def process(path: Path, client, lang: str, worker_id: int):
     try:
         improved = optimize(original, client, lang)
     except Exception as e:
+        if is_transient_network_error(e):
+            safe_print(f"[Worker {worker_id}]    Netzwerkfehler bei {path}: {e}")
+            return "retry"
+
         safe_print(f"[Worker {worker_id}]    Fehler bei {path}: {e}")
-        return # Bei Fehler Datei abbrechen, Worker kann aber nächste nehmen
+        return "done"  # Nicht-transiente Fehler gelten als final fuer diesen Lauf.
 
     if improved == original:
         safe_print(f"[Worker {worker_id}]    keine Änderungen")
-        return
+        return "done"
 
     path.write_text(improved, encoding="utf-8")
     safe_print(f"[Worker {worker_id}]    ✔ verbessert ({lang.upper()})")
+    return "done"
 
 def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
     """Die Hauptaufgabe für jeden Thread: Holt Dateien aus der Queue und verarbeitet sie."""
@@ -324,22 +349,36 @@ def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
 
     safe_print(f"[Worker {worker_id}] Gestartet.")
 
-    while not task_queue.empty():
-        try:
-            # Holt die nächste Datei. block=False, da die Queue zu Beginn komplett gefüllt wird.
-            path, lang = task_queue.get(block=False)
-        except queue.Empty:
-            break
+    while True:
+        # Blockierend warten: Worker bleiben aktiv und können neue/requeued Jobs übernehmen.
+        task = task_queue.get()
 
-        process(path, client, lang, worker_id)
-        
-        # Kleine Pause gegen Rate Limits, auch mit Backoff sinnvoll, um Spitzen zu vermeiden
-        time.sleep(1.5)
-        
-        if tracker:
-            tracker.update()
-        
-        task_queue.task_done()
+        try:
+            if task is STOP_WORKER:
+                break
+
+            path, lang, retries = task
+            result = process(path, client, lang, worker_id)
+
+            if result == "retry":
+                # Datei bleibt in der Queue: bei transienten Netzwerkfehlern neu einreihen.
+                next_retries = retries + 1
+                task_queue.put((path, lang, next_retries))
+                backoff = min(60, 2 ** min(next_retries, 6))
+                safe_print(
+                    f"[Worker {worker_id}]    ↻ Requeue für {path} (Retry {next_retries}, warte {backoff}s)"
+                )
+                time.sleep(backoff)
+            else:
+                if tracker:
+                    tracker.update()
+
+            # Kleine Pause gegen Rate Limits, auch mit Backoff sinnvoll, um Spitzen zu vermeiden
+            time.sleep(1.5)
+        except Exception as e:
+            safe_print(f"[Worker {worker_id}] Unerwarteter Worker-Fehler: {e}")
+        finally:
+            task_queue.task_done()
         
     safe_print(f"[Worker {worker_id}] Beendet (Warteschlange leer).")
 
@@ -482,7 +521,7 @@ def main():
             files = sorted(root.rglob("*.md"))
             for file in files:
                 if is_older_than_days(file, args.older_than_days):
-                    task_queue.put((file, lang))
+                    task_queue.put((file, lang, 0))
                 else:
                     skipped_by_age += 1
                 
@@ -505,7 +544,12 @@ def main():
             threads.append(t)
             t.start()
 
-        # Warte, bis die Queue leer ist und alle Tasks als "done" markiert wurden
+        # Warte, bis die Queue wirklich vollständig verarbeitet ist
+        task_queue.join()
+
+        # Erst danach Worker sauber beenden (keine Vorab-Zuweisung, keine Empty-Race-Exits).
+        for _ in threads:
+            task_queue.put(STOP_WORKER)
         task_queue.join()
         
         # Warte, bis alle Threads sich beendet haben
