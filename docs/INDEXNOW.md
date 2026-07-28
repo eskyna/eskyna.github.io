@@ -1,14 +1,14 @@
 # IndexNow
 
 Diese Dokumentation beschreibt Setup, Betrieb und Wartung der IndexNow-Integration
-für https://eskyna.com.
+für <https://eskyna.com/>.
 
 ## Status
 
-- Domain: https://eskyna.com
-- Endpoint: https://api.indexnow.org/indexnow
+- Domain: <https://eskyna.com/>
+- Endpoint: <https://api.indexnow.org/indexnow>
 - Verifizierungsdatei:
-  https://eskyna.com/8633327a-8e29-4a45-8f01-89faf53a2b8c.txt
+  <https://eskyna.com/8633327a-8e29-4a45-8f01-89faf53a2b8c.txt>
 - Key-Datei im Repo:
   static/8633327a-8e29-4a45-8f01-89faf53a2b8c.txt
 
@@ -46,7 +46,7 @@ npm run indexnow:changed
 
 Optional explizite Range:
 
-node bin/indexnow-submit-changed --from <alter-commit> --to <neuer-commit>
+node bin/indexnow-submit-changed --from ALT_COMMIT --to NEUER_COMMIT
 
 Optional kompletter Re-Submit aus Sitemap:
 
@@ -69,11 +69,11 @@ danach das Skript mit der Push-Range ausgeführt.
 Wenn der Key rotiert werden soll:
 
 1. Neuen Key generieren, zum Beispiel mit uuidgen.
-2. Neue Datei static/<neuer-key>.txt anlegen, Inhalt exakt gleich dem Dateinamen
+2. Neue Datei static/NEUER_KEY.txt anlegen, Inhalt exakt gleich dem Dateinamen
    ohne .txt.
 3. Alte Key-Datei aus static entfernen.
 4. Deployment laufen lassen.
-5. Verifizieren über https://eskyna.com/<neuer-key>.txt.
+5. Verifizieren über <https://eskyna.com/NEUER_KEY.txt>.
 
 Wichtig: Es darf immer nur eine gültige IndexNow-Key-Datei in static liegen,
 sonst bricht das Skript mit einem Fehler ab.

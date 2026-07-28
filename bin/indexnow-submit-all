@@ -171,7 +171,9 @@ async function main() {
     console.log(`Sitemap gefunden (${sitemapPath}): ${urls.length} URLs.`);
   } else {
     urls = urlsFromPublicDir(publicDir, trimmedBase);
-    console.log(`Keine Sitemap gefunden. Verwende HTML-Fallback aus ${publicDir}: ${urls.length} URLs.`);
+    console.log(
+      `Keine Sitemap gefunden. Verwende HTML-Fallback aus ${publicDir}: ${urls.length} URLs.`
+    );
   }
 
   urls = [...new Set(urls)].filter(Boolean);
