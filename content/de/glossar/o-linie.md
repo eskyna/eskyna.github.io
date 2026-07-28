@@ -1,8 +1,7 @@
 ---
 title: Was bedeutet O-Linie?
 term: O-Linie
-description: Die O-Linie beschreibt eine rundere, voluminösere Silhouette mit weicher, geschlossener
-  Form.
+description: Die O-Linie beschreibt eine rundere, voluminösere Silhouette in der Mode mit weicher, geschlossener Form, die den Körper skulptural umhüllt.
 category: Schnitt, Proportion & Passform
 subcategory: "Größen & Passform"
 tags:
@@ -15,85 +14,67 @@ keywords:
 weight: 1
 image: images/glossar/o-linie.png
 image_alt: Editoriale Glossar-Grafik zu O-Linie mit ruhigen Farbfeldern und feiner Linienführung
+history: "Die O-Linie wurde in den späten 1950er-Jahren von Couturier Cristóbal Balenciaga geprägt. Seine Entwürfe wie der Cocoon Coat im Jahr 1957 waren eine Revolution und dienten als direkter Gegenentwurf zur taillenbetonten Sanduhr-Silhouette jener Zeit."
+knowledge:
+  - "Die O-Linie lenkt den Fokus weg von der Taille hin zu einer runden, skulpturalen Silhouette."
+  - "Typische Kleidungsstücke dieser Form sind Cocoon-Mäntel, Oversized-Bomberjacken und Ballonhosen."
+  - "Der Schnitt wirkt dann besonders harmonisch, wenn er mit schmalen Gegenpolen an Knöcheln oder Handgelenken kombiniert wird."
 relatedTerms:
-  - title: Passform
-    url: /glossar/passform/
   - title: Silhouette
     url: /glossar/silhouette/
+  - title: Passform
+    url: /glossar/passform/
   - title: Proportion
     url: /glossar/proportion/
-  - title: Saumlänge
-    url: /glossar/saumlange/
+  - title: Volumen
+    url: /glossar/volumen/
   - title: Taillierung
     url: /glossar/taillierung/
 faq:
   items:
-    - q: Wie nutze ich „O-Linie“ im Alltag?
-      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob
-        er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „O-Linie“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wie nutze ich die O-Linie im Alltag?
+      a: Nutze die O-Linie als bewussten Akzent für einen skulpturalen Look. Kombiniere ein weites Teil in O-Form, beispielsweise einen Cocoon-Mantel, mit einer schmalen Hose, um die Silhouette optisch auszubalancieren.
+    - q: Für welche Körperform ist die O-Linie geeignet?
+      a: Da die O-Linie ohne klassische Taillierung auskommt und die Körpermitte sanft umspielt, eignet sie sich für fast jede Körperform. Wichtig ist nur, dass die Proportionen zu deiner Körpergröße passen.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Definition: Was ist die O-Linie?
 
-**O-Linie**: Die O-Linie beschreibt eine rundere, voluminösere Silhouette mit weicher, geschlossener Form.
+Die **O-Linie** (in der Modewelt auch als Kokon-Form, Cocoon-Shape oder Egg-Shape bekannt) beschreibt eine rundliche, voluminöse [Silhouette](/glossar/silhouette/) mit weicher, geschlossener Linienführung. Das prägende Merkmal dieses Schnitts ist die ovale Form: Das Kleidungsstück beginnt an den Schultern schmal oder sanft abfallend, gewinnt im Bereich von Taille und Hüfte deutlich an Weite und verengt sich zum Saum hin wieder. Dadurch entsteht eine plastische, fast skulpturale Form, die den Körper schützend umhüllt, anstatt seine Linien eng nachzuzeichnen.
 
-## Einfach erklärt
+## Die Geschichte der O-Silhouette: Von Balenciaga bis heute
 
-Dieser Begriff beschreibt eine Linie, einen Sitz oder ein Verhältnis im Outfit. Kleine Unterschiede können die Wirkung stark verändern, besonders bei Längen, Schultern, Taille und Volumen.
+In der Modehistorie gilt das Jahr 1957 als Geburtsstunde dieser Silhouette. Der legendäre Designer Cristóbal Balenciaga stellte die Modewelt auf den Kopf, als er den Cocoon Coat und das sackartige Kleid entwarf. Dies war ein radikaler Gegenentwurf zur Wespentaille und zur strengen [X-Linie](/glossar/x-linie/) des New Look von Christian Dior.
 
-Für ESKYNA ist er wichtig, weil gute Proportionen viele Outfits sofort ruhiger machen. Nicht der Körper muss sich dem Kleidungsstück anpassen, sondern das Kleidungsstück soll stimmig sitzen.
+Balenciaga bewies, dass Weiblichkeit und Eleganz nicht zwingend über eine eng geschnürte Körpermitte definiert werden müssen, sondern dass der Raum zwischen Stoff und Körper eine ganz eigene, würdevolle Ästhetik besitzt. In den 1980er-Jahren erlebte die O-Form im Zuge der [Oversized](/glossar/oversized/) Mode eine Renaissance und gehört heute zum festen Repertoire des modernen, minimalistischen Designs.
 
-## Warum O-Linie wichtig ist
+## Typische Kleidungsstücke im O-Schnitt
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+- **Der Cocoon-Mantel:** Ein klassischer [Wollmantel](/glossar/wollmantel/) in dieser Form verzichtet auf eine scharf betonte Schulterpartie. Er fällt stattdessen oft mit weichen Raglanärmeln, zeigt seine größte Weite auf Hüfthöhe und wird nach unten hin schmaler.
+- **Die Ballonhose:** Eine moderne [Ballonhose](/glossar/ballonhose-balloon-trousers/) sitzt an der Taille oder Hüfte schmal, wölbt sich am Oberschenkel weit nach außen und läuft zum Knöchel hin eng zusammen.
+- **Die Bomberjacke:** Durch ihren sportlichen Schnitt und das elastische Bündchen am Saum erzeugt auch die [Bomberjacke](/glossar/bomberjacke/) die typisch runde O-Form auf Höhe des Oberkörpers.
 
-Gerade im Alltag hilft O-Linie, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+## Styling-Tipps: So kombinierst du die O-Linie im Alltag
 
-Für die Balance der runden Form ist die Abstimmung mit der [Oberkörperlänge](/glossar/oberkoerperlaenge/) oft entscheidend.
+Damit der weite Schnitt seine stilvolle Wirkung voll entfaltet und nicht unförmig wirkt, kannst du dich an einfachen Regeln zur [Volumenverteilung](/glossar/volumenverteilung/) orientieren:
 
-## Worauf du achten solltest
+### 1. Schmale Gegenpole setzen
 
-- Prüfe, welche Aufgabe O-Linie im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+Die O-Linie verträgt Kontraste. Wenn du ein Kleidungsstück mit viel [Volumen](/glossar/volumen/) trägst, halte den Rest des Outfits schmal. Ein weiter Cocoon-Mantel wirkt besonders elegant, wenn darunter eine schmale Hose oder ein feiner Rock hervorblitzt. Das sorgt für ein harmonisches Gleichgewicht der Proportionen.
 
-## Typische Missverständnisse
+### 2. Knöchel und Handgelenke zeigen
 
-**Missverständnis:** O-Linie ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+Da die O-Form den Körper verhüllt, hilft ein optischer Trick: Lass deine Handgelenke und Knöchel sichtbar. Wenn du die Ärmel leicht hochschiebst oder eine verkürzte Hose trägst, betonst du die schmalsten Stellen deines Körpers. Das gibt dem gesamten Outfit sofort Leichtigkeit und Struktur.
 
-**Missverständnis:** O-Linie funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+### 3. Stilbruch wagen
 
-## ESKYNA-Merksatz
+Du kannst den avantgardistischen Charakter der O-Form durch einen bewussten [Stilbruch](/glossar/stilbruch/) auflockern. Trage beispielsweise derbe Boots zu einem runden, femininen O-Linien-Kleid oder kombiniere feine Absatzschuhe zur lässigen Ballonhose.
 
-O-Linie wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+## Für wen eignet sich die O-Linie? (Stilberatung)
 
-## Praxischeck
+Die O-Linie ist ein hervorragendes Element für deine persönliche Garderobe, da sie völlig ohne klassische [Taillierung](/glossar/taillierung/) auskommt. Sie umspielt die Körpermitte sanft, weshalb sie sich wunderbar für fast jede [Körperform](/glossar/koerperform/) eignet.
 
-Wenn du den Begriff **O-Linie** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Schnitt und Passform entscheiden, ob ein Outfit ruhig, langgezogen, kompakt, weich oder präzise wirkt.
+Wenn du eher klein bist, solltest du darauf achten, dass die [Saumlänge](/glossar/saumlange/) des Mantels oder Kleides nicht zu lang ausfällt, damit die Proportionen ausgeglichen bleiben. Ein guter Sitz an den Schultern ist das Fundament: Solange das Kleidungsstück an den Schultern präzise abschließt, wirkt das Volumen darunter gewollt und elegant, niemals zufällig.
 
-- Sieh dir die Linien im Spiegel aus zwei Metern Abstand an.
-- Prüfe Schulter, Taille, Saum und Bewegungsfreiheit getrennt.
-- Kombiniere das Teil mit den Schuhen, die du tatsächlich dazu tragen würdest.
-
-## Beratungsblick
-
-In der Beratung ist **O-Linie** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
-
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
-
-Als Gegenpol mit mehr Betonung im Oberkörper kannst du die [Dreieck-Silhouette](/glossar/dreieck-silhouette/) als Vergleich nutzen.
-
-## Verwandte Begriffe
-
-- [Passform](/glossar/passform/)
-- [Silhouette](/glossar/silhouette/)
-- [Proportion](/glossar/proportion/)
-- [Saumlänge](/glossar/saumlange/)
-- [Taillierung](/glossar/taillierung/)
+Mehr Orientierung zu stimmigen Schnitten findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/).

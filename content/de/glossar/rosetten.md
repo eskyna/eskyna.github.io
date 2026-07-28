@@ -5,6 +5,8 @@ description: Rosetten sind dreidimensionale Stoffblüten als romantisches und sk
 category: Accessoires
 slug: rosetten
 seoTitle: "Rosetten: Stoffblüten als modisches Statement | ESKYNA"
+image: images/glossar/rosetten.png
+image_alt: "Editoriale Glossar-Grafik zu Rosetten mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: Barn Jacket это утилитарная куртка в духе 
 category: Одежда
 slug: barn-jacket
 seoTitle: "Barn Jacket: Практичная куртка с наследием workwear | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Barn Jacket с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

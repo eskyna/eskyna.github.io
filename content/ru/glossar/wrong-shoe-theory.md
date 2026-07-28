@@ -5,6 +5,7 @@ description: Wrong Shoe Theory это намеренный выбор контр
 category: Принципы стилизации
 slug: wrong-shoe-theory
 seoTitle: "Wrong Shoe Theory: Осознанный контраст через обувь | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Wrong Shoe Theory с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,8 @@ description: Pointelle-Strick ist feiner Lochmusterstrick mit zarter, femininer 
 category: Materialien & Details
 slug: pointelle-strick
 seoTitle: "Pointelle-Strick: Feiner Lochmusterstrick erklärt | ESKYNA"
+image: images/glossar/pointelle-strick.png
+image_alt: "Editoriale Glossar-Grafik zu Pointelle-Strick mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: The Sandwich Method repeats one color at top and bottom to visually
 category: Styling Principles
 slug: sandwich-methode
 seoTitle: "Sandwich Method: Color Echo Styling | ESKYNA"
+image_alt: "Editorial glossary illustration for Sandwich Method with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: Double Denim combines denim top and denim bottom in one coordinated
 category: Styling Principles
 slug: double-denim
 seoTitle: "Double Denim: How to Style Denim on Denim | ESKYNA"
+image_alt: "Editorial glossary illustration for Double Denim with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: A Barn Jacket is a utilitarian field-inspired jacket with practical
 category: Garments
 slug: barn-jacket
 seoTitle: "Barn Jacket: Utility Heritage in Modern Styling | ESKYNA"
+image_alt: "Editorial glossary illustration for Barn Jacket with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

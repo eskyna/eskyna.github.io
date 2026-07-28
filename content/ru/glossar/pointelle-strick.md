@@ -5,6 +5,7 @@ description: Pointelle Knit это тонкий трикотаж с делика
 category: Материалы и детали
 slug: pointelle-strick
 seoTitle: "Pointelle Knit: Тонкий ажурный трикотаж простыми словами | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Pointelle Knit с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

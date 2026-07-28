@@ -5,6 +5,7 @@ description: Underconsumption Core emphasizes conscious use of existing pieces o
 category: Styling Principles
 slug: underconsumption-core
 seoTitle: "Underconsumption Core: Buy Less, Wear More | ESKYNA"
+image_alt: "Editorial glossary illustration for Underconsumption Core with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

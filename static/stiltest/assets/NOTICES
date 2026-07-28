@@ -20524,16 +20524,16 @@ Permission is granted to anyone to use this software for any purpose,
 including commercial applications, and to alter it and redistribute it
 freely, subject to the following restrictions:
 
-1.  The origin of this software must not be misrepresented; you must not
+1. The origin of this software must not be misrepresented; you must not
     claim that you wrote the original software. If you use this software
     in a product, an acknowledgment in the product documentation would be
     appreciated but is not required.
-2.  Altered source versions must be plainly marked as such, and must not be
+2. Altered source versions must be plainly marked as such, and must not be
     misrepresented as being the original software.
-3.  If you meet (any of) the author(s), you're encouraged to buy them a beer,
+3. If you meet (any of) the author(s), you're encouraged to buy them a beer,
     a drink or whatever is suited to the situation, given that you like the
     software.
-4.  This notice may not be removed or altered from any source
+4. This notice may not be removed or altered from any source
     distribution.
 --------------------------------------------------------------------------------
 inja
@@ -22322,7 +22322,7 @@ Complying with the libjpeg-turbo Licenses
 This section provides a roll-up of the libjpeg-turbo licensing terms, to the
 best of our understanding.
 
-1.  If you are distributing a modified version of the libjpeg-turbo source,
+1. If you are distributing a modified version of the libjpeg-turbo source,
     then:
 
     1.  You cannot alter or remove any existing copyright or license notices
@@ -22348,7 +22348,7 @@ best of our understanding.
         **Origin**
         - Clause 1 of the IJG License
 
-2.  If you are distributing only libjpeg-turbo binaries without the source, or
+2. If you are distributing only libjpeg-turbo binaries without the source, or
     if you are distributing an application that statically links with
     libjpeg-turbo, then:
 
@@ -22367,14 +22367,14 @@ best of our understanding.
         **Origin**
         - Clause 2 of the Modified BSD License
 
-3.  You cannot use the name of the IJG or The libjpeg-turbo Project or the
+3. You cannot use the name of the IJG or The libjpeg-turbo Project or the
     contributors thereof in advertising, publicity, etc.
 
     **Origin**
     - IJG License
     - Clause 3 of the Modified BSD License
 
-4.  The IJG and The libjpeg-turbo Project do not warrant libjpeg-turbo to be
+4. The IJG and The libjpeg-turbo Project do not warrant libjpeg-turbo to be
     free of defects, nor do we accept any liability for undesirable
     consequences resulting from your use of the software.
 

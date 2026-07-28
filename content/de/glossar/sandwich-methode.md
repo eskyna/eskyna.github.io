@@ -5,6 +5,8 @@ description: Die Sandwich-Methode balanciert Looks über visuelle Wiederholung v
 category: Stil & Wirkung
 slug: sandwich-methode
 seoTitle: "Sandwich-Methode: Outfits harmonisch ausbalancieren | ESKYNA"
+image: images/glossar/sandwich-methode.png
+image_alt: "Editoriale Glossar-Grafik zu Sandwich-Methode mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

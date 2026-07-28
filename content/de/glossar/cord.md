@@ -1,8 +1,7 @@
 ---
 title: Was bedeutet Cord?
 term: Cord
-description: Cord ist ein Stoff mit längs verlaufender Rippenstruktur und einer warmen, texturierten
-  Wirkung.
+description: Cord ist ein Stoff mit längs verlaufender Rippenstruktur und einer warmen, texturierten Wirkung.
 category: Materialien & Details
 tags:
   - cord
@@ -11,82 +10,79 @@ keywords:
   - cord
   - was bedeutet cord
   - cord stilberatung
+  - cordstoff
+  - breitcord
+  - feincord
 weight: 1
 image: images/glossar/cord.png
 image_alt: Editoriale Glossar-Grafik zu Cord mit ruhigen Farbfeldern und feiner Linienführung
+history: Cord, im Englischen als Corduroy bekannt, hat eine faszinierende Geschichte. Ursprünglich im England des 18. Jahrhunderts als extrem strapazierfähiger Arbeitsstoff für die Fabrikarbeiter in Manchester entwickelt, erlebte das Material in den 1970er-Jahren ein modisches Hoch als Symbol der Intellektuellen und der Popkultur. Heute ist er ein etablierter Klassiker der anspruchsvollen Alltagsgarderobe.
+knowledge: Die Breite der Rippen entscheidet über die formelle Wirkung des Kleidungsstücks. Während sehr feiner Babycord optisch fast wie Samt wirkt und eleganter fällt, bringt markanter Breitcord eine rustikale, sportliche Note in dein Outfit.
 relatedTerms:
-  - title: Materialfall
-    url: /glossar/materialfall/
   - title: Struktur
     url: /glossar/struktur/
+  - title: Materialfall
+    url: /glossar/materialfall/
   - title: Glanzgrad
     url: /glossar/glanzgrad/
-  - title: Accessoire
-    url: /glossar/accessoire/
+  - title: Stilbruch
+    url: /glossar/stilbruch/
 faq:
   items:
-    - q: Wie nutze ich „Cord“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Cord“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wie wasche und pflege ich Kleidungsstücke aus Cord richtig?
+      a: Wasche Cord immer auf links gedreht, um die empfindliche Rippenstruktur vor Reibung zu schützen. Verzichte auf den Trockner und bürste den Stoff nach dem Trocknen in Strichrichtung leicht aus, um den Flor wieder aufzurichten.
+    - q: Lässt sich Cord auch im professionellen Business-Alltag tragen?
+      a: Ja, besonders Feincord eignet sich hervorragend für das Büro. Ein gut geschnittener Blazer oder ein schmaler Anzug aus Feincord wirkt kompetent, nahbar und bringt eine stilvolle Abwechslung in die Businessgarderobe.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Definition: Was bedeutet Cord?
 
-**Cord**: Cord ist ein Stoff mit längs verlaufender Rippenstruktur und einer warmen, texturierten Wirkung. In cleanen Looks wird er oft mit einem [Sweatshirt](/glossar/sweatshirt/) oder Strick kombiniert.
+**Cord** ist ein gewebter, meist aus Baumwolle oder Baumwollmischungen hergestellter Stoff, der durch seine charakteristischen, längs verlaufenden Samtrippen besticht. Diese Rippen entstehen durch ein spezielles Webverfahren, bei dem zusätzliche Schussfäden eingearbeitet und anschließend aufgeschnitten werden. Cord zeichnet sich durch eine weiche Haptik, hohe Strapazierfähigkeit und eine hervorragende Wärmeleistung aus.
 
-## Einfach erklärt
+## Einfach erklärt: Die Besonderheiten des Materials
 
-Material ist nie nur eine technische Angabe. Oberfläche, Gewicht, Griff und Fall bestimmen, ob ein Kleidungsstück weich, klar, elegant, sportlich oder robust erscheint.
+Material ist in der Modehistorie und Stilberatung weit mehr als eine rein technische Angabe. Wie ein Stoff am Körper liegt, wie schwer er ist und wie das Licht auf seine Oberfläche fällt, bestimmt die Gesamtwirkung deines Outfits.
 
-Für ESKYNA ist Materialverständnis ein wichtiger Schutz vor Fehlkäufen. Wer Stoffe besser lesen kann, erkennt schneller, ob ein Teil zum Alltag und zur gewünschten Wirkung passt.
+Cord ist ein meisterhafter Texturengeber. Durch die reliefartige Oberfläche besitzt der Stoff eine dreidimensionale [Struktur](/glossar/struktur/), die flachen Looks sofort Tiefe verleiht. Je nachdem, wie dicht die Rippen nebeneinanderliegen, verändert sich der [Materialfall](/glossar/materialfall/) und das Gewicht des Kleidungsstoffs:
 
-## Warum Cord wichtig ist
+- **Feincord (auch Babycord genannt):** Weist mehr als 40 Rippen auf zehn Zentimetern Stoff auf. Er ist besonders leicht, weich und flexibel. Feincord eignet sich hervorragend für Blusen, Hemden und feine Kleider.
+- **Breitcord (auch Genueser Cord genannt):** Besitzt zwischen 10 und 25 Rippen auf zehn Zentimetern. Dieser schwere Stoff ist extrem robust und wird klassisch für strapazierfähige Hosen, Jacken und Mäntel verwendet.
+- **Kabelcord:** Zeigt sehr breite, markante Rippen (unter 10 Rippen auf zehn Zentimetern) und transportiert eine stark nostalgische, rustikale Ästhetik.
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+## Warum Cord in deiner Garderobe eine wichtige Rolle spielt
 
-Gerade im Alltag hilft Cord, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Wenn du die Besonderheiten von Cord verstehst, kannst du deine Outfits gezielter planen und Fehlkäufe effektiv vermeiden. In einer reduzierten Garderobe, die vor allem aus neutralen Farben besteht, sind unterschiedliche Oberflächenstrukturen das Geheimnis lebendiger Kombinationen.
 
-## Worauf du achten solltest
+Der leicht samtige [Glanzgrad](/glossar/glanzgrad/) des Materials sorgt dafür, dass Farbtöne auf Cord besonders satt und tief wirken. Ein tiefes Schokoladenbraun, warmes Cognac oder sattes Tannengrün entfalten auf diesem Webstoff eine ungemein edle Ausstrahlung, die mit einer glatten Baumwollhose kaum zu erreichen ist. Zudem schützt dich das robuste Material vor schnellem Verschleiß und unschönem [Pilling](/glossar/pilling/).
 
-- Prüfe, welche Aufgabe Cord im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+## Stilberatung: So kombinierst du Cord modern und stilsicher
 
-## Typische Missverständnisse
+Der größte Fehler beim Styling von Cord ist ein zu traditioneller, verstaubter Look. Damit dein Outfit zeitgemäß und klar wirkt, solltest du bewusst auf Kontraste setzen. Ein gelungener [Stilbruch](/glossar/stilbruch/) nimmt dem Material die Schwere und sorgt für visuelle Spannung:
 
-**Missverständnis:** Cord ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+- **Der cleane Alltagslook:** Kombiniere eine weit geschnittene Cordhose mit einem sportlichen [Sweatshirt](/glossar/sweatshirt/) oder einem schlichten T-Shirt. Weiße Sneaker brechen die rustikale Note des Stoffs perfekt auf.
+- **Die elegante Variante:** Ein schmal geschnittener [Blazer](/glossar/blazer/) aus dunklem Feincord lässt sich hervorragend zur klassischen [Jeans](/glossar/jeans/) und feinen Booties stylen. Das wirkt angezogen, aber keineswegs steif.
+- **Modernes Layering:** Nutze ein leichtes Cordhemd offen getragen über einem feinen Rollkragenpullover aus [Feinstrick](/glossar/feinstrick/). Das Spiel mit unterschiedlichen Haptiken wirkt sofort gekonnt und harmonisch.
+- **Die skulpturale Silhouette:** Eine weite [Marlenehose](/glossar/marlenehose/) aus schwerem Breitcord gepaart mit einem körpernahen Oberteil schafft eine spannende Proportion und sorgt für einen selbstbewussten Auftritt.
 
-**Missverständnis:** Cord funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+## Typische Missverständnisse rund um den Rippenstoff
+
+**Missverständnis:** Cord trägt optisch immer auf.  
+**Besser:** Es kommt ganz auf die Rippenbreite und den Schnitt an. Während sehr breiter Cord an weiten Hosen tatsächlich Volumen erzeugen kann, wirkt dunkler, feiner Babycord an einer gut sitzenden Hose oder einem taillierten Kleid sogar optisch streckend.
+
+**Missverständnis:** Cord ist altmodisch und steif.  
+**Besser:** Moderne Webtechnologien mischen der Baumwolle heute oft einen geringen Anteil Elasthan bei. Dadurch wird der Stoff wunderbar flexibel, engt nicht ein und behält dennoch seine charakteristische Standkraft.
 
 ## ESKYNA-Merksatz
 
-Cord wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Cord entfaltet seine stärkste Wirkung, wenn du ihn als bewussten Kontrast einsetzt. Kombiniere die matte, schwere Struktur des Stoffs mit glatten, feinen oder sportlichen Materialien, um deinem Look eine moderne Leichtigkeit zu verleihen.
 
-## Praxischeck
+## Der Praxischeck für deinen Kleiderschrank
 
-Wenn du den Begriff **Cord** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+Wenn du ein neues Kleidungsstück aus Cord in deine Garderobe integrieren möchtest, mache vor dem Kauf den ESKYNA-Praxischeck:
 
-- Fühle Griff, Gewicht und Stand des Materials.
-- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+1. **Fühle die Qualität:** Streiche mit der Hand über den Stoff. Die Rippen sollten sich voll, weich und gleichmäßig anfühlen, ohne dass der Unterstoff durchscheint.
+2. **Prüfe das Gewicht:** Passt die Schwere des Materials zu deinem Alltag? Ein schwerer Breitcord-Mantel benötigt einen anderen Einsatzbereich als ein fließendes Feincord-Hemd.
+3. **Achte auf die Strichrichtung:** Cord hat eine feste Strichrichtung. Wenn du von unten nach oben streichst und sich der Stoff rau aufstellt, ist das die Gegenstrichrichtung. Ein hochwertig verarbeitetes Kleidungsstück ist so zugeschnitten, dass die Strichrichtung am Körper von unten nach oben verläuft, da die Farben so satter wirken und sich Schmutz schwerer festsetzt.
 
-## Beratungsblick
-
-In der Beratung ist **Cord** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
-
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
-
-## Verwandte Begriffe
-
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Mehr fundiertes Wissen über die Beschaffenheit und Wirkung deiner Kleidung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).

@@ -5,6 +5,7 @@ description: Eclectic Grandpa объединяет коды классическ
 category: Стилевые направления
 slug: eclectic-grandpa
 seoTitle: "Eclectic Grandpa: Винтажные мужские коды в новой интерпретации | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Eclectic Grandpa с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

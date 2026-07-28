@@ -5,6 +5,7 @@ description: High-Low Dressing сочетает более нарядные и �
 category: Принципы стилизации
 slug: high-low-dressing
 seoTitle: "High-Low Dressing: Осознанный микс элегантного и повседневного | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину High-Low Dressing с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

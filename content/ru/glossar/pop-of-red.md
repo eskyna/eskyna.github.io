@@ -5,6 +5,7 @@ description: Pop of Red это точечный красный акцент, к�
 category: Цвет и впечатление
 slug: pop-of-red
 seoTitle: "Pop of Red: Один красный акцент для фокуса | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Pop of Red с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

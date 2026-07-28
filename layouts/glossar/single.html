@@ -82,7 +82,22 @@
     {{ end }}
   {{ end }}
 {{ end }}
-{{ $imageAlt := .Params.image_alt | default .Title }}
+  {{ $pageTitle := .Title | default "" }}
+  {{ if eq (strings.TrimSpace $pageTitle) "" }}
+    {{ $pageTitle = .Params.term | default "" }}
+  {{ end }}
+  {{ if eq (strings.TrimSpace $pageTitle) "" }}
+    {{ with .File }}
+      {{ $pageTitle = humanize .BaseFileName }}
+    {{ else }}
+      {{ $pageTitle = "Glossar-Begriff" }}
+    {{ end }}
+  {{ end }}
+  {{ $termLabel := .Params.term | default $pageTitle }}
+  {{ $imageAlt := .Params.image_alt | default "" }}
+  {{ if and $displayImage (eq (strings.TrimSpace $imageAlt) "") }}
+    {{ errorf "Missing required frontmatter field 'image_alt' for glossary page: %s" .File.Path }}
+  {{ end }}
 {{ $expertKicker := cond $isRuLang "Экспертная оценка" (cond (eq $lang "en") "Expert note" "Fachlich eingeordnet") }}
 {{ $expertTitle := cond $isRuLang "Наталия Клеманн" "Natalia Kleemann" }}
 {{ $expertRole := cond $isRuLang "Коуч по стилю и имиджу в ESKYNA" (cond (eq $lang "en") "Style and image coach at ESKYNA" "Style- und Imagecoach bei ESKYNA") }}
@@ -90,6 +105,8 @@
 {{ $expertLinkText := cond $isRuLang "О Наталии" (cond (eq $lang "en") "About Natalia" "Über Natalia") }}
 {{ $expertAboutHref := "about/" | relLangURL }}
 {{ with .Site.GetPage "about" }}{{ $expertAboutHref = .RelPermalink }}{{ end }}
+{{ $knowledgeHeading := cond $isRuLang (printf "Интересное о %s" $termLabel) (cond (eq $lang "en") (printf "Interesting facts about %s" $termLabel) (printf "Interessantes zu %s" $termLabel)) }}
+{{ $historyHeading := cond $isRuLang (printf "Историческое о %s" $termLabel) (cond (eq $lang "en") (printf "Historical notes on %s" $termLabel) (printf "Historisches zu %s" $termLabel)) }}
 
 <main class="glossar-page">
   <section class="hero-small glossar-hero">
@@ -112,7 +129,7 @@
         <div class="glossar-color-swatch" style="background-color: {{ . }};" title="{{ . }}"></div>
         {{ end }}
 
-        <h1 class="glossar-display-title">{{ .Title }}</h1>
+        <h1 class="glossar-display-title">{{ $pageTitle }}</h1>
 
         {{ with .Description }}
         <p class="glossar-hero-description">{{ . }}</p>
@@ -145,6 +162,60 @@
         <div class="glossar-body">
           {{ .Content }}
         </div>
+
+        {{ with .Params.knowledge }}
+        <div class="glossar-highlight-box glossar-highlight-box-knowledge" aria-label="{{ $knowledgeHeading }}">
+          <h2>{{ $knowledgeHeading }}</h2>
+          {{ if reflect.IsSlice . }}
+          <ul class="glossar-highlight-list">
+            {{ range . }}
+              {{ if reflect.IsMap . }}
+                {{ range $k, $v := . }}
+                  <li><strong>{{ humanize $k }}:</strong> {{ $v | markdownify }}</li>
+                {{ end }}
+              {{ else }}
+                <li>{{ . | markdownify }}</li>
+              {{ end }}
+            {{ end }}
+          </ul>
+          {{ else if reflect.IsMap . }}
+          <ul class="glossar-highlight-list">
+            {{ range $k, $v := . }}
+              <li><strong>{{ humanize $k }}:</strong> {{ $v | markdownify }}</li>
+            {{ end }}
+          </ul>
+          {{ else }}
+          <p>{{ . | markdownify }}</p>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Params.history }}
+        <div class="glossar-highlight-box glossar-highlight-box-history" aria-label="{{ $historyHeading }}">
+          <h2>{{ $historyHeading }}</h2>
+          {{ if reflect.IsSlice . }}
+          <ul class="glossar-highlight-list">
+            {{ range . }}
+              {{ if reflect.IsMap . }}
+                {{ range $k, $v := . }}
+                  <li><strong>{{ humanize $k }}:</strong> {{ $v | markdownify }}</li>
+                {{ end }}
+              {{ else }}
+                <li>{{ . | markdownify }}</li>
+              {{ end }}
+            {{ end }}
+          </ul>
+          {{ else if reflect.IsMap . }}
+          <ul class="glossar-highlight-list">
+            {{ range $k, $v := . }}
+              <li><strong>{{ humanize $k }}:</strong> {{ $v | markdownify }}</li>
+            {{ end }}
+          </ul>
+          {{ else }}
+          <p>{{ . | markdownify }}</p>
+          {{ end }}
+        </div>
+        {{ end }}
 
         {{ with .Params.consulting_questions }}
         {{ $questionsHeading := cond $isRuLang "Какие вопросы помогает прояснить этот термин?" (cond (eq $lang "en") "Which questions does this term clarify?" "Welche Fragen klärt dieser Begriff?") }}
@@ -189,7 +260,17 @@
                 {{ range . }}
                   <details class="glossar-faq-item">
                     <summary>{{ .q }}</summary>
-                    <div class="glossar-faq-answer">{{ .a | markdownify }}</div>
+                    <div class="glossar-faq-answer">
+                      {{ if reflect.IsMap .a }}
+                        <ul>
+                          {{ range $k, $v := .a }}
+                            <li><strong>{{ $k }}:</strong> {{ $v | markdownify }}</li>
+                          {{ end }}
+                        </ul>
+                      {{ else }}
+                        {{ .a | markdownify }}
+                      {{ end }}
+                    </div>
                   </details>
                 {{ end }}
               </div>
@@ -229,9 +310,30 @@
             <h3>{{ $relatedText }}</h3>
             <ul class="glossar-related-list">
               {{ range . }}
+              {{ $relatedTitle := "" }}
+              {{ $relatedURL := "" }}
+              {{ if reflect.IsMap . }}
+                {{ $relatedTitle = (index . "title") | default "" }}
+                {{ $relatedURL = (index . "url") | default "" }}
+              {{ else }}
+                {{ $raw := printf "%v" . }}
+                {{ if hasPrefix $raw "/" }}
+                  {{ $relatedURL = $raw }}
+                  {{ $raw = trim $raw "/" }}
+                  {{ $parts := split $raw "/" }}
+                  {{ if gt (len $parts) 0 }}
+                    {{ $relatedTitle = humanize (index $parts (sub (len $parts) 1)) }}
+                  {{ end }}
+                {{ else }}
+                  {{ $relatedTitle = humanize $raw }}
+                  {{ $relatedURL = printf "/glossar/%s/" (urlize $raw) }}
+                {{ end }}
+              {{ end }}
+              {{ if and $relatedTitle $relatedURL }}
               <li>
-                <a href="{{ .url }}">{{ .title }}</a>
+                <a href="{{ $relatedURL }}">{{ $relatedTitle }}</a>
               </li>
+              {{ end }}
               {{ end }}
             </ul>
           </aside>

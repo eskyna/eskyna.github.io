@@ -5,6 +5,8 @@ description: Scandi Hair Tie ist ein übergroßes Scrunchie als sichtbar gesetzt
 category: Accessoires
 slug: scandi-hair-tie
 seoTitle: "Scandi Hair Tie: Großes Scrunchie als Stilakzent | ESKYNA"
+image: images/glossar/scandi-hair-tie.png
+image_alt: "Editoriale Glossar-Grafik zu Scandi Hair Tie mit ruhigen Farbfeldern und feiner Linienführung"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: Rosettes это объемные тканевые цветы, ко�
 category: Аксессуары
 slug: rosetten
 seoTitle: "Rosettes: Объемные цветочные детали как акцент | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Rosettes с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

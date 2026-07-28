@@ -5,6 +5,7 @@ description: Biker Shorts are close-fitting, knee-length shorts originally inspi
 category: Garments
 slug: biker-shorts
 seoTitle: "Biker Shorts: Sport Utility in Everyday Styling | ESKYNA"
+image_alt: "Editorial glossary illustration for Biker Shorts with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

@@ -5,6 +5,7 @@ description: Dad Sneakers are chunky retro-inspired sneakers used to ground refi
 category: Shoes
 slug: dad-sneakers
 seoTitle: "Dad Sneakers: Chunky Sneaker Contrast in Styling | ESKYNA"
+image_alt: "Editorial glossary illustration for Dad Sneakers with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

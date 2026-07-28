@@ -8,106 +8,106 @@ seoTitle: "Interlock: Aufbau, Eigenschaften und Passform | ESKYNA"
 image: "images/glossar/interlock.png"
 image_alt: "Glatte Interlock-Maschenware mit dichter, gleichmäßiger Oberfläche auf Vorder- und Rückseite"
 lastmod: "2026-07-22"
+relatedTerms:
+  - "jersey"
+  - "strick"
+  - "baumwolle"
+  - "elasthan"
+  - "t-shirt"
+  - "pique"
+knowledge:
+  - "Interlock ist eine doppelflächige Maschenware mit zwei identischen, glatten Seiten."
+  - "Im Vergleich zu normalem Jersey rollen sich die Kanten von Interlock nicht ein."
+  - "Der Stoff ist formstabiler, dichter und blickdichter als einfacher Single-Jersey."
+history:
+  - "Die Entwicklung industrieller Rundstrickmaschinen im 19. und 20. Jahrhundert legte die Basis für diese komplexe Stricktechnik."
+  - "Mitte des 20. Jahrhunderts revolutionierte Interlock die Mode, indem er dehnbare und gleichzeitig formstabile Sport- und Alltagskleidung ermöglichte."
 ---
 
-Interlock ist eine doppelflächige Maschenware, die auf beiden Seiten glatt erscheint und meist dichter, formstabiler und schwerer als einfacher Single Jersey ist.
+Wenn du nach einem T-Shirt suchst, das nach dem Waschen nicht die Form verliert, oder nach einem Kleid, das weich fällt und trotzdem blickdicht bleibt, triffst du schnell auf den Begriff Interlock. Doch was genau verbirgt sich hinter dieser Bezeichnung? Interlock ist eine hochwertige, doppelflächige Maschenware, die sich durch ihre besondere Stabilität, dichte Struktur und beidseitig glatte Oberfläche auszeichnet.
 
 ## Definition
 
-Interlock wird mit zwei Nadelreihen hergestellt. Vereinfacht greifen dabei zwei fein abgestimmte Rippenstrukturen ineinander. Dadurch entsteht eine kompakte Ware, deren Vorder- und Rückseite ähnlich glatt aussehen. Die Stoffkanten rollen sich in der Regel weniger stark ein als bei Single Jersey, und die Fläche wirkt häufig ruhiger und geschlossener.
+Interlock wird mit zwei Nadelreihen hergestellt. Bei dieser speziellen Technik greifen zwei fein abgestimmte Rippenstrukturen direkt ineinander. Dadurch entsteht eine kompakte, doppelte Maschenware (auch Double-Knit genannt), deren Vorderseite und Rückseite völlig gleich aussehen. Die Stoffkanten rollen sich im Gegensatz zu einfachem [Jersey](/glossar/jersey/) nicht ein. Dadurch lässt sich der Stoff hervorragend verarbeiten und behält langfristig seine Form.
 
-Der Begriff bezeichnet die Maschenkonstruktion, nicht die Faser. Interlock kann aus Baumwolle, Viskose, Wolle, Polyester oder Mischungen bestehen. Elastan kann zusätzlichen Rücksprung geben. Gewicht, Dehnbarkeit, Wärme und Fall unterscheiden sich deshalb je nach Garn und Ausrüstung deutlich.
+Gut zu wissen: Der Begriff Interlock beschreibt ausschließlich die Strickkonstruktion, nicht das verwendete Material. Ein Interlock-Stoff kann aus [Baumwolle](/glossar/baumwolle/), [Viskose](/glossar/viskose/), [Wolle](/glossar/wolle/), [Polyester](/glossar/polyester/) oder verschiedenen Fasermischungen bestehen. Häufig wird auch etwas [Elasthan](/glossar/elasthan/) beigemischt, um die Elastizität und den Rücksprung des Materials zu verbessern. Gewicht, Dehnbarkeit, Wärme und Fall unterscheiden sich je nach Garn und Ausrüstung deutlich.
 
 ## Einfach erklärt
 
-Interlock ist ein dichter Strickstoff mit zwei glatten Seiten. Er fühlt sich oft etwas voller und stabiler an als normaler T-Shirt-Jersey.
+Stell dir vor, du verbindest zwei dünne Strickstoffe so miteinander, dass die unruhigen Rückseiten innen liegen und du von beiden Seiten nur die glatten, schönen Maschen siehst. Genau das ist Interlock. Er fühlt sich dadurch dicker, weicher und viel stabiler an als ein herkömmlicher T-Shirt-Stoff.
 
 ## Warum Interlock wichtig ist
 
-Interlock verbindet Komfort mit einer vergleichsweise ruhigen Oberfläche. Dadurch eignet sich das Material für T-Shirts, Kleider, Unterwäsche, Kinderkleidung, leichte Hosen und andere Teile, die beweglich sein sollen, aber weniger dünn oder anschmiegsam als einfacher Jersey wirken dürfen.
+Im modischen Alltag schließt Interlock die Lücke zwischen sehr weichen, fließenden Stoffen und festeren Geweben. Er schenkt dir den Tragekomfort von dehnbarem [Strick](/glossar/strick/), bringt aber gleichzeitig eine ruhige, edle Optik mit. Das macht ihn zum idealen Material für hochwertige [T-Shirts](/glossar/t-shirt/), elegante [Kleider](/glossar/kleid/) und formstabile Freizeitkleidung.
 
-Die dichtere Konstruktion kann mehr Opazität, Gewicht und Form geben. Das ist besonders interessant, wenn ein schlichtes Basic gepflegter wirken soll. Gleichzeitig kann schwerer Interlock wärmer sein und an manchen Schnitten mehr Volumen erzeugen. Die Bezeichnung allein sagt deshalb noch nicht, ob ein Teil sommerlich, körpernah oder formstabil ausfällt.
+Durch die doppelte Konstruktion bietet das Material eine hohe natürliche Opazität (Blickdichte). Weiße oder helle Oberteile aus Interlock scheinen deutlich weniger durch als einfache Shirts. Zudem fällt der Stoff schwerer und umspielt die Silhouette, statt sich eng anzuschmiegen. Das verleiht deinen Outfits sofort eine gepflegtere Struktur.
 
 ## Blick aus der Beratung
 
-Aus Beratungssicht beeinflusst Interlock, wie deutlich sich Unterwäsche, Körperlinien oder Nahtzugaben abzeichnen. Eine dichte Ware kann eine ruhigere Fläche erzeugen, doch sehr elastischer oder heller Interlock kann sich beim Dehnen trotzdem öffnen oder Details sichtbar machen.
+Aus Sicht der Stilberatung ist Interlock ein echter Geheimtipp. Da der Stoff dicker ist, zeichnen sich Unterwäsche oder feine Körperlinien weit weniger ab als bei dünnem Single-Jersey. Das sorgt für eine ruhige Silhouette und gibt dir zusätzliche Sicherheit im Alltag.
 
-Auch Rücksprung und Gewicht sind wichtig. Ein Kleid aus schwerem Interlock kann weich fallen und gleichzeitig am Saum nach unten ziehen. Bei Oberteilen sollte geprüft werden, ob Ausschnitt und Schultern ihre Form behalten. Ein hoher Elastananteil ist nicht automatisch besser; entscheidend ist, ob der Stoff nach Bewegung in seine Ausgangsform zurückkehrt.
+Wenn du ein Kleid aus Interlock kaufst, solltest du jedoch auf das Stoffgewicht achten. Ein schwerer Fall zieht den Saum optisch nach unten, was die gesamte [Passform](/glossar/passform/) beeinflussen kann. Achte zudem darauf, dass Schultern und Ausschnitt sauber sitzen und nicht durch das Eigengewicht des Stoffes verzogen werden. Ein guter Rücksprung sorgt dafür, dass das Kleidungsstück auch nach stundenlangem Tragen nicht ausbeult.
 
 ## So nutzt du den Begriff praktisch
 
-Vergleiche das Material direkt mit Single Jersey und achte auf Dichte, Gewicht und Rollneigung.
-
-Dehne die Fläche quer und längs, um Elastizität, Transparenz und Rücksprung zu prüfen.
-
-Halte helle Interlockware gegen Licht und teste sie über deiner üblichen Unterwäsche.
-
-Kontrolliere, ob Ausschnitt, Schulter und Saum nach dem Anprobieren glatt zurückliegen.
-
-Beachte die Faserzusammensetzung, weil sie Pflege und Tragegefühl stärker prägt als der Name allein.
+- Vergleiche das Material direkt mit Single-Jersey und achte auf Dichte, Gewicht und die Neigung der Kanten, sich aufzurollen.
+- Dehne die Fläche quer und längs, um Elastizität, Transparenz und Rücksprung zu prüfen.
+- Halte helle Interlock-Ware gegen das Licht und teste sie über deiner üblichen Unterwäsche.
+- Kontrolliere, ob Ausschnitt, Schulter und Saum nach dem Anprobieren glatt zurückfallen.
+- Beachte die Faserzusammensetzung, weil sie Pflege und Tragegefühl stärker prägt als die reine Strickart.
 
 ## Beispiel aus dem Alltag
 
-Du suchst ein weißes T-Shirt, das nicht zu dünn wirkt und auch unter einem Blazer eine klare Oberfläche behält. Ein mittelschwerer Baumwoll-Interlock kann ruhiger fallen als leichter Single Jersey. Du prüfst trotzdem, ob der Stoff unter Spannung transparent wird und ob der Ausschnitt nach dem Ausziehen seine Form behält.
+Du suchst ein weißes T-Shirt, das nicht zu dünn wirkt und auch unter einem [Blazer](/glossar/blazer/) eine klare Oberfläche behält. Ein mittelschwerer Baumwoll-Interlock fällt wesentlich ruhiger als leichter Single-Jersey. Du prüfst vor dem Kauf, ob der Stoff unter Spannung blickdicht bleibt und ob der Ausschnitt nach dem Dehnen sofort wieder in seine Form zurückkehrt.
 
 ## Typisches Missverständnis
 
-„Interlock ist einfach besonders dicker Jersey.“Interlock gehört zwar zur Maschenware, ist aber konstruktiv nicht nur eine schwerere Version desselben Stoffes. Die doppelte Nadelbettstruktur erzeugt eine andere Oberfläche, Stabilität und Kantenreaktion. Ein leichter Interlock kann zudem dünner sein als ein sehr schwerer Single Jersey.
+„Interlock ist einfach besonders dicker Jersey.“ Interlock gehört zwar zur Maschenware, ist aber konstruktiv nicht nur eine schwerere Version desselben Stoffes. Die doppelte Nadelbettstruktur erzeugt eine andere Oberfläche, höhere Stabilität und eine flache Kantenreaktion. Ein feiner Interlock kann zudem dünner sein als ein sehr schwerer Single-Jersey.
 
 ## Abgrenzung zu ähnlichen Begriffen
 
-Single Jersey: Einflächige Maschenware mit unterschiedlichen Vorder- und Rückseiten; Kanten rollen häufig stärker.
-
-Rippstrick: Zeigt deutliche längs verlaufende Rippen und besitzt meist besonders viel Querdehnung.
-
-Ponte di Roma: Ebenfalls eine Doppelstrickware, häufig fester, schwerer und stärker für strukturierte Kleidung genutzt.
-
-Double Face: Oberbegriff für Stoffe mit zwei nutzbaren oder unterschiedlich gestalteten Seiten; nicht zwingend Interlock.
-
-Webstoff: Entsteht durch verkreuzte Kett- und Schussfäden statt durch Maschenschlingen.
+- **[Single-Jersey](/glossar/jersey/):** Einflächige Maschenware mit unterschiedlicher Vorder- und Rückseite; die Kanten rollen sich stark ein.
+- **[Rippstrick](/glossar/rippstrick/):** Zeigt deutliche, längs verlaufende Rippen und besitzt besonders viel Dehnung in der Breite.
+- **[Piqué](/glossar/pique/):** Ein reliefartiger Stoff mit waffelartiger Struktur, der klassischerweise für Poloshirts verwendet wird.
+- **Double Face:** Oberbegriff für Stoffe mit zwei nutzbaren oder unterschiedlich gestalteten Seiten; nicht zwingend gestrickt.
+- **Webstoff:** Entsteht durch verkreuzte Kett- und Schussfäden und ist von Natur aus nicht elastisch.
 
 ## ESKYNA-Merksatz
 
-Interlock wirkt ruhig, weil zwei Maschenseiten zusammenarbeiten, wie stabil oder weich er trägt, entscheiden Garn, Gewicht und Rücksprung.
+Interlock wirkt ruhig, weil zwei Maschenseiten zusammenarbeiten; wie stabil oder weich er trägt, entscheiden Garn, Gewicht und Rücksprung.
 
 ## Entscheidungshilfe vor dem nächsten Kauf
 
-Ist die Ware dicht genug für die gewünschte Opazität?
-
-Fällt sie weich oder steht sie stärker vom Körper ab?
-
-Kehrt das Material nach Dehnung sauber zurück?
-
-Passt das Gewicht zu Schnitt und Jahreszeit?
-
-Bleiben Ausschnitt, Schultern und Säume nach Bewegung in Form?
+- Ist die Ware dicht genug für die gewünschte Blickdichte?
+- Fällt das Material weich oder steht es unschön vom Körper ab?
+- Kehrt der Stoff nach der Dehnung sauber in seine Ausgangsform zurück?
+- Passt das Stoffgewicht zum Schnitt und zur Jahreszeit?
+- Bleiben Ausschnitt, Schultern und Säume nach Bewegung in Form?
 
 ## Wann Beratung sinnvoll wird
 
-Beratung kann helfen, wenn schlichte Jerseyteile an dir regelmäßig zu weich, zu transparent oder zu freizeitlich wirken. Der Vergleich von Single Jersey, Interlock und kompakter Doppelstrickware zeigt oft, dass nicht der Schnitt allein, sondern die Materialkonstruktion für die gewünschte Klarheit entscheidend ist.
+Eine Stilberatung ist sinnvoll, wenn schlichte Jerseyteile an dir regelmäßig zu weich, zu transparent oder zu freizeitlich wirken. Der direkte Vergleich von Single-Jersey, Interlock und kompakter Doppelstrickware zeigt oft, dass nicht der Schnitt allein, sondern die Materialkonstruktion für die gewünschte Eleganz und Struktur entscheidend ist.
 
 ## Verwandte Begriffe
 
-Jersey, Strick, Maschenware, Materialstand, Elastizität, Opazität, T-Shirt, Kleid, Naht
+[Jersey](/glossar/jersey/), [Strick](/glossar/strick/), [Baumwolle](/glossar/baumwolle/), [Elasthan](/glossar/elasthan/), [T-Shirt](/glossar/t-shirt/), [Piqué](/glossar/pique/)
 
 ## Welche Fragen klärt dieser Begriff?
 
-Wie ist Interlock aufgebaut und wodurch unterscheidet er sich von Jersey?
-
-Ist Interlock automatisch dick, elastisch oder blickdicht?
-
-Für welche Kleidungsstücke ist die ruhige Doppelstrickfläche geeignet?
+- Wie ist Interlock aufgebaut und wodurch unterscheidet er sich von klassischem Jersey?
+- Ist Interlock automatisch dick, elastisch oder blickdicht?
+- Für welche Kleidungsstücke ist die ruhige Doppelstrickfläche am besten geeignet?
 
 ## Häufige Fragen
 
-Hat Interlock immer zwei identische Seiten?
+### Hat Interlock immer zwei identische Seiten?
 
-Die Seiten wirken häufig sehr ähnlich und glatt, müssen aber durch Färbung, Druck oder Ausrüstung nicht völlig identisch sein. Konstruktiv ist die doppelflächige, ineinandergreifende Maschenstruktur entscheidend.
+Die Seiten wirken optisch sehr ähnlich und glatt. Durch Färbung, Druck oder spezielle Veredelungen müssen sie jedoch nicht völlig identisch sein. Konstruktiv bleibt die doppelflächige, ineinandergreifende Maschenstruktur immer gleich.
 
-Ist Interlock für den Sommer geeignet?
+### Ist Interlock für den Sommer geeignet?
 
-Leichter Interlock aus einer passenden Faser kann im Sommer funktionieren. Dichte und Gewicht machen viele Qualitäten jedoch wärmer als dünnen Single Jersey. Entscheidend sind Stoffgewicht, Faser, Schnitt und persönliches Wärmeempfinden.
+Ein leichter Interlock aus feiner Baumwolle oder Viskose funktioniert wunderbar an warmen Tagen. Aufgrund der doppelten Stofflage ist das Material jedoch meist wärmer als dünner Single-Jersey. Entscheidend sind das Stoffgewicht und dein persönliches Wärmeempfinden.
 
-Leiert Interlock weniger aus als Jersey?
+### Leiert Interlock weniger aus als einfacher Jersey?
 
-Oft wirkt Interlock formstabiler, doch Rücksprung hängt von Garn, Maschendichte, Elastananteil, Verarbeitung und Pflege ab. Auch Interlock kann an Knie, Ellenbogen oder Saum dauerhaft nachgeben.
+Ja, Interlock ist durch seine Konstruktion formstabiler. Dennoch hängt der tatsächliche Rücksprung von der Qualität des Garns, der Maschendichte und dem Anteil an Elasthan ab. Schlecht verarbeitete Stoffe können auch als Interlock an Knien oder Ellbogen ausbeulen.

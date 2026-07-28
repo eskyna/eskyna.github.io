@@ -5,6 +5,7 @@ description: Fairycore is an ethereal style language with soft textures, transpa
 category: Style Aesthetics
 slug: fairycore
 seoTitle: "Fairycore: Ethereal Texture and Romantic Layers | ESKYNA"
+image_alt: "Editorial glossary illustration for Fairycore with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

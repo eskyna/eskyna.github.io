@@ -1,93 +1,76 @@
 ---
 title: Carré-Ausschnitt
 term: Carré-Ausschnitt
-description:
-  Ein Carré-Ausschnitt ist ein eckiger Ausschnitt, der dem Oberkörper eine klare grafische
-  Linie gibt.
-category: Materialien & Details
+description: Ein Carré-Ausschnitt ist ein eckiger Ausschnitt, der dem Oberkörper eine klare grafische Linie gibt.
+category: Schnitt, Proportion & Passform
 tags:
   - carre ausschnitt
-  - materialien
+  - schnittformen
 keywords:
   - carré-ausschnitt
   - was bedeutet carré-ausschnitt
+  - eckiger ausschnitt
   - carré-ausschnitt stilberatung
 weight: 1
 image: images/glossar/carre-ausschnitt.png
 image_alt: Editoriale Glossar-Grafik zu Carré-Ausschnitt mit ruhigen Farbfeldern und feiner Linienführung
+history: Der Carré-Ausschnitt hat tiefe historische Wurzeln. Besonders in der Mode der Renaissance prägte der eckige Ausschnitt die festliche Hofkleidung und betonte den damals geschätzten langen Hals. Im 20. Jahrhundert erlebte er im Zuge des Minimalismus und der geometrischen Designs der 1960er-Jahre ein starkes Comeback.
+knowledge:
+  - Der Carré-Ausschnitt lenkt den Blick auf das Dekolleté und betont die Schlüsselbeine, ohne tief blicken zu lassen.
+  - Er eignet sich hervorragend, um runde Gesichtsformen optisch auszubalancieren und schmale Schultern breiter wirken zu lassen.
+  - Die Wahl des passenden BHs (wie eines Balconette-Modells) ist entscheidend für einen sauberen Sitz an den Ecken.
 relatedTerms:
-  - title: Materialfall
-    url: /glossar/materialfall/
-  - title: Struktur
-    url: /glossar/struktur/
-  - title: Glanzgrad
-    url: /glossar/glanzgrad/
-  - title: Accessoire
-    url: /glossar/accessoire/
+  - title: Ausschnittwirkung
+    url: /glossar/ausschnittwirkung/
+  - title: Schulterlinie
+    url: /glossar/schulterlinie/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Balconette-BH
+    url: /glossar/balconette-bh/
 faq:
   items:
-    - q: Wie nutze ich „Carré-Ausschnitt“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Carré-Ausschnitt“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Welcher BH eignet sich am besten für einen Carré-Ausschnitt?
+      a: Ein Balconette-BH ist die ideale Wahl, da seine Träger besonders weit außen platziert sind und somit nicht unter den breiten Ecken des Ausschnitts herausschauen.
+    - q: Wie unterscheidet sich der Carré-Ausschnitt von einem Herz-Ausschnitt?
+      a: Während der Carré-Ausschnitt aus strengen, geraden horizontalen und vertikalen Linien besteht, verläuft der Herz-Ausschnitt geschwungen und formt an der Brust zwei Bögen, die in der Mitte spitz zusammenlaufen.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Carré-Ausschnitt**: Ein Carré-Ausschnitt ist ein eckiger Ausschnitt, der dem Oberkörper eine klare grafische Linie gibt.
+Der **Carré-Ausschnitt** ist eine eckige Ausschnittform bei Oberteilen, Kleidern oder Jacken, die dem Oberkörper eine klare, grafische Linie verleiht. Der Begriff leitet sich vom französischen Wort für Quadrat ab und beschreibt das charakteristische, viereckige Design.
 
-## Einfach erklärt
+## Einfach erklärt: Was macht den Carré-Ausschnitt so besonders?
 
-Details wirken oft leise, aber sie verändern den Gesamteindruck deutlich. Ein Ausschnitt, eine Naht, eine Kante oder eine Stoffführung kann einen Look öffnen, strukturieren oder weicher machen. Besonders im Vergleich mit einem [U-Boot-Ausschnitt](/glossar/u-boot-ausschnitt/) zeigt sich, wie stark Linien die Schulterwirkung verändern.
+Details in der Schnittführung wirken oft leise, verändern aber deine gesamte Silhouette maßgeblich. Ein eckiger Ausschnitt rahmt dein Dekolleté ein und lenkt den Fokus elegant auf deine Schlüsselbeine. Im Gegensatz zu weichen, runden Linien bringt ein Carré-Ausschnitt sofort Struktur und eine architektonische Note in dein Outfit.
 
-Für ESKYNA sind Details keine Nebensache. Sie entscheiden oft, ob ein Outfit fertig, hochwertig und persönlich wirkt.
+Für ESKYNA sind solche Details entscheidend. Sie bestimmen, ob eine Kombination harmonisch, hochwertig und auf deine persönliche Statur abgestimmt wirkt. Besonders im direkten Vergleich mit einem klassischen Rundhals oder einem [U-Boot-Ausschnitt](/glossar/u-boot-ausschnitt/) zeigt sich, wie gezielt du mit geometrischen Formen deine Körperproportionen modellieren kannst.
 
-## Warum Carré-Ausschnitt wichtig ist
+## Die optische Wirkung des eckigen Ausschnitts
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+Jede Form am Hals erzielt eine eigene [Ausschnittwirkung](/glossar/ausschnittwirkung/). Der Carré-Schnitt nutzt klare horizontale und vertikale Linien, um einen Rahmen für dein Gesicht zu schaffen. Das bringt gleich mehrere stilistische Vorteile mit sich:
 
-Gerade im Alltag hilft Carré-Ausschnitt, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+- **Betonung der Schulterpartie:** Die obere Querlinie zieht das Auge optisch nach außen. Das stabilisiert deine [Schulterlinie](/glossar/schulterlinie/) und lässt schmale Schultern etwas breiter und präsenter wirken.
+- **Ausgleich für runde Konturen:** Wenn du eine weiche oder runde Gesichtsform hast, kreiert die grafische Strenge des Quadrats einen harmonischen Kontrast, der deine Gesichtszüge definierter erscheinen lässt.
+- **Visuelle Streckung:** Da der Ausschnitt den Halsbereich großzügig freilegt, ohne dabei zu tief blicken zu lassen, wirkt die Halslinie elegant verlängert.
 
-## Worauf du achten solltest
+## Wem steht der Carré-Ausschnitt?
 
-- Prüfe, welche Aufgabe Carré-Ausschnitt im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+Diese Ausschnittform ist ein vielseitiger Allrounder, der wunderbar zu einem klaren [Minimalismus](/glossar/minimalismus/) passt. Wenn du nach einer Möglichkeit suchst, deine obere Körperhälfte geschmackvoll zu betonen, liegst du mit diesem Schnitt genau richtig.
 
-## Typische Missverständnisse
+Durch die bewusste Linienführung hilft der Carré-Ausschnitt dabei, die [Proportion](/glossar/proportion/) zwischen deinem Oberkörper und deiner Hüfte auszubalancieren. Bevorzugst du einen Stil, der [klassisch](/glossar/klassisch/) und dennoch modern wirkt? Dann gibt der eckige Ausschnitt deinen Kleidern und Tops eine souveräne Ausstrahlung, die sich mühelos vom Büro bis zum Abendtermin tragen lässt.
 
-**Missverständnis:** Carré-Ausschnitt ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+## Worauf du beim Styling achten solltest
 
-**Missverständnis:** Carré-Ausschnitt funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+Damit der Carré-Ausschnitt optimal zur Geltung kommt und eine perfekte [Passform](/glossar/passform/) garantiert ist, helfen dir diese drei Praxistipps:
 
-## ESKYNA-Merksatz
+1. **Die richtige Unterwäsche wählen:** Da die Ecken des Ausschnitts oft weit nach außen reichen, sind herkömmliche BH-Träger schnell sichtbar. Ein speziell konstruierter [Balconette-BH](/glossar/balconette-bh/) ist hier die beste Lösung. Seine Träger sind extrem weit außen angesetzt und bleiben unsichtbar unter dem Stoff verborgen.
+2. **Den passenden Schmuck abstimmen:** Eine filigrane [Kette](/glossar/kette/) betont das Dekolleté zusätzlich. Achte darauf, dass die Kette entweder deutlich über der Ausschnittkante endet oder die geometrische Form des Quadrats mit einem kleinen Anhänger aufgreift. Alternativ kannst du den Hals frei lassen und stattdessen mit markanten Ohrringen dein Gesicht einrahmen.
+3. **Die passende Balance finden:** Im Vergleich zu einem tiefen [V-Ausschnitt](/glossar/v-ausschnitt/) oder einem verspielten [Herz-Ausschnitt](/glossar/herz-ausschnitt/) wirkt das Carré immer etwas angezogener und grafischer. Wähle die Tiefe des Ausschnitts so, dass du dich im Alltag uneingeschränkt bewegen kannst und der Stoff an den Seiten flach anliegt.
 
-Carré-Ausschnitt wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+## Beratungsblick und Orientierung
 
-## Praxischeck
+In der Stilberatung ist der Carré-Ausschnitt ein wunderbares Werkzeug, um Akzente zu setzen, ohne die Garderobe unnötig zu überladen. Er zeigt, dass ein einzelnes Detail die gesamte Wirkung deines Looks verändern kann.
 
-Wenn du den Begriff **Carré-Ausschnitt** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
-
-- Fühle Griff, Gewicht und Stand des Materials.
-- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
-
-## Beratungsblick
-
-In der Beratung ist **Carré-Ausschnitt** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
-
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
-
-## Verwandte Begriffe
-
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Mehr Inspiration und fundiertes Wissen über Schnitte und Formen findest du in unserer Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/).

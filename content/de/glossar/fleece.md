@@ -8,94 +8,83 @@ seoTitle: "Fleece: Material, Wärme und Pflege | ESKYNA"
 image: "images/glossar/fleece.png"
 image_alt: "Nahaufnahme eines weichen Fleece-Stoffs mit sichtbar aufgerauter, dichter Oberfläche"
 lastmod: "2026-07-21"
+relatedTerms:
+  - polyester
+  - wolle
+  - faser-mix
+  - stoffgewicht
+  - pilling
+  - atmungsaktivitaet
+  - pflegeetikett
+  - materialqualitaet
+  - layering
+  - sweatstoff
+  - filz
+  - softshell
+  - thermoregulation
+history: "Fleece, speziell Polar Fleece, wurde 1979 von der US-amerikanischen Firma Malden Mills (heute Polartec) in enger Zusammenarbeit mit der Outdoormarke Patagonia entwickelt. Das Ziel war es, eine leichte, schnell trocknende und extrem strapazierfähige Alternative zu schwerer Schurwolle zu schaffen. Diese Erfindung revolutionierte die moderne Funktionsbekleidung grundlegend."
+knowledge: "Die hervorragende Isolationswirkung von Fleece basiert auf physikalischen Prinzipien. Der mechanisch aufgeraute Flor schließt ein großes Volumen an Luft ein. Da Luft ein schlechter Wärmeleiter ist, verhindert diese Barriere das Entweichen Deiner eigenen Körperwärme."
 ---
 
-Fleece ist ein weicher, meist gestrickter oder gewirkter Stoff mit aufgerauter beziehungsweise floriger Oberfläche, die Luft einschließt und dadurch wärmt.
+Suchst Du nach einem Material, das Dich an kalten Tagen zuverlässig wärmt, ohne schwer auf Deinen Schultern zu lasten? Fleece ist der ungeschlagene Klassiker unter den wärmenden Stoffen. Ob beim Sport, beim herbstlichen Spaziergang oder als gemütliches Alltagsteil: Das flauschige Material hat die Modewelt im Sturm erobert.
 
-## Definition
+## Was ist Fleece? Definition und textiler Aufbau
 
-Bei Fleece wird eine textile Fläche so konstruiert und bearbeitet, dass auf einer oder beiden Seiten ein weicher Flor entsteht. Häufig besteht Fleece aus Polyester, es gibt jedoch auch Varianten aus Wolle, Baumwolle, Mischfasern oder recycelten synthetischen Rohstoffen.
+Fleece ist ein weicher, meist gestrickter oder gewirkter Stoff, dessen Oberfläche mechanisch aufgeraut wird. Durch diesen Prozess entsteht auf einer oder beiden Seiten des Materials ein dichter, flauschiger Flor.
 
-Der Begriff beschreibt daher vor allem die Stoffart und Oberfläche, nicht eine einzelne Faser. Je nach Gewicht, Dichte, Florhöhe und Ausrüstung reicht Fleece von dünnem Microfleece bis zu voluminösen, teddyartigen Qualitäten.
+Entgegen einem weitverbreiteten Glauben beschreibt der Begriff keine bestimmte Faser, sondern die Art der Oberflächenstruktur. Zwar besteht das klassische Funktionsfleece meist aus [Polyester](/glossar/polyester/), es gibt jedoch auch Varianten aus [Wolle](/glossar/wolle/), [Baumwolle](/glossar/baumwolle/) oder einem durchdachten [Faser-Mix](/glossar/faser-mix/). Je nach dem verwendeten [Stoffgewicht](/glossar/stoffgewicht/), der Florhöhe und der technischen Ausrüstung reicht die Spanne von hauchdünnem Microfleece bis hin zu voluminösem Teddyfleece.
 
-## Einfach erklärt
+## Warum das Material in Deiner Garderobe wichtig ist
 
-Fleece wärmt, weil seine aufgeraute Oberfläche viele kleine Luftpolster hält. Es ist oft leicht und weich, aber nicht automatisch winddicht, wasserdicht oder besonders atmungsaktiv.
+Fleece unterstützt die natürliche [Thermoregulation](/glossar/thermoregulation/) Deines Körpers optimal. Es dient als hervorragender Wärmespeicher, der Feuchtigkeit besonders schnell vom Körper wegleitet und im nassen Zustand weitaus schneller trocknet als schwere Naturfasern.
 
-## Warum Fleece wichtig ist
+Für eine bewusste Kaufentscheidung solltest Du jedoch auch die typischen Materialeigenschaften kennen:
 
-Fleece wird als Midlayer, Freizeitjacke, Futter, Decke oder weiches Innenmaterial eingesetzt. Besonders synthetische Varianten trocknen häufig schneller als viele Naturfasern und bieten im Verhältnis zum Gewicht gute Isolation. Für die Kaufentscheidung sind jedoch auch Abrieb, Pilling, Geruchsentwicklung, elektrostatische Aufladung und Faserverlust relevant.
+- **Neigung zu Pilling:** Günstige Qualitäten neigen nach häufigem Tragen und Waschen zu kleinen Knötchen auf der Oberfläche. Mehr dazu erfährst Du im Eintrag zu [Pilling](/glossar/pilling/).
+- **Geruchsentwicklung:** Reine Kunstfasern nehmen Gerüche schneller an als Naturprodukte wie Schurwolle.
+- **Elektrostatische Aufladung:** Bei trockener Heizungsluft im Winter kann sich synthetisches Material leicht aufladen.
+- **Faserabrieb:** Synthetische Fleece-Stoffe können beim Waschen winzige Mikrofasern abgeben. Eine hochwertige [Materialqualität](/glossar/materialqualitaet/) und der Verzicht auf unnötig häufige Wäschen helfen, diesen Abrieb zu reduzieren.
 
-Bei synthetischem Fleece kommt außerdem der mögliche Abrieb von Mikrofasern hinzu. Wie viel freigesetzt wird, hängt unter anderem von Materialqualität, Konstruktion, Alter, Nutzung und Wäsche ab.
+## Stil und modische Einordnung: So kombinierst Du das Material
 
-## Blick aus der Beratung
+Aus Sicht der Stilberatung solltest Du die Dicke des Materials immer auf das gewünschte Outfit abstimmen. So verhinderst Du, dass Dein Look ungewollt wuchtig wirkt.
 
-Aus Beratungssicht sollte Fleece nach Einsatz statt nur nach Weichheit gewählt werden. Dünnes, glattes Microfleece lässt sich leichter unter einer Jacke tragen. Hochfloriges Teddyfleece wirkt voluminöser und kann als sichtbare Außenschicht funktionieren. Für bewegungsintensive Nutzung sind Feuchtigkeitsmanagement, Belüftung und Bewegungsfreiheit wichtiger als maximale Dicke.
+- **Feines Microfleece:** Dieses dünne Material trägt kaum auf. Es eignet sich hervorragend für ein funktionales [Layering](/glossar/layering/) unter einem schmal geschnittenen Mantel oder einem sportlichen [Anorak](/glossar/anorak/).
+- **Voluminöses Teddyfleece:** Dieses flauschige Gewebe erzeugt bewusst Weite und Textur im Outfit. Es funktioniert ideal als markante Jacke im urbanen Streetwear-Stil oder im lässigen Freizeitlook.
+- **Naturfaser-Fleece:** Varianten aus reiner Wolle wirken durch ihre matte Struktur besonders edel und hochwertig. Sie lassen sich mühelos in eine klassische Garderobe integrieren und strahlen natürliche Ruhe aus.
 
-Auch die Oberfläche beeinflusst den Stil: Glattes Fleece wirkt sportlicher und technischer, dichter Wollfleece ruhiger und natürlicher, kontrastierende Besätze betonen den Outdoor-Charakter.
+## Praktische Tipps für Deinen Alltag
 
-## So nutzt du den Begriff praktisch
+- **Lies das Pflegeetikett:** Prüfe vor dem Kauf immer das [Pflegeetikett](/glossar/pflegeetikett/), um zu sehen, ob es sich um Synthetik oder eine Naturfaser handelt.
+- **Mache den Handtest:** Reibe im Geschäft sanft über die Oberfläche. Wenn sich das Material klebrig, quietschig oder extrem künstlich anfühlt, deutet das auf eine einfache Faserqualität hin.
+- **Schonende Wäsche:** Wasche Fleece-Stoffe immer auf links gedreht bei niedrigen Temperaturen. Verzichte unbedingt auf Weichspüler, da dieser die feinen Härchen verklebt und die wichtige [Atmungsaktivität](/glossar/atmungsaktivitaet/) einschränkt.
 
-- Prüfe Materialzusammensetzung und Stoffgewicht statt dich nur auf „Fleece“ zu verlassen.
-- Reibe die Oberfläche leicht, um lose Fasern und frühe Knötchenbildung zu erkennen.
-- Teste die Schicht unter der vorgesehenen Außenjacke auf Beweglichkeit.
-- Wasche nur nach Bedarf, nach Pflegeetikett und möglichst schonend.
-- Halte synthetisches Fleece von großer Hitze fern, sofern die Pflegeangabe nichts anderes erlaubt.
+## Typische Missverständnisse aufgeklärt
 
-## Beispiel aus dem Alltag
+Ein häufiger Irrtum ist die Annahme, dass Fleece immer aus Polyester bestehen muss. Tatsächlich bezeichnet der Begriff lediglich die mechanische Ausrüstung des Stoffs. Ein wärmender Wollfleece besteht beispielsweise aus geschorener Schurwolle und bietet Dir die gleichen kuscheligen Eigenschaften auf einer rein natürlichen Basis.
 
-Du suchst eine wärmende Schicht für Spaziergänge und Büro. Ein dünnes Fleece mit glatter Außenseite passt unter deinen Mantel, ohne die Ärmel zu füllen. Ein sehr hochfloriges Modell wäre zwar kuscheliger, aber für dieses Layering weniger praktisch.
+## Abgrenzung zu ähnlichen Stoffen
 
-## Typisches Missverständnis
-
-> „Fleece ist immer Polyester.“
-
-Viele Fleece-Stoffe bestehen aus Polyester, doch Fleece bezeichnet die textile Struktur beziehungsweise aufgeraute Oberfläche. Auch Wolle, Baumwolle und Mischungen können zu fleeceartigen Stoffen verarbeitet werden.
-
-## Abgrenzung zu ähnlichen Begriffen
-
-- **Wollfleece:** Weiche, häufig gestrickte und angeraute Ware mit hohem Wollanteil.
-- **Teddyfleece:** Hochflorige, lockige Oberfläche mit plüschiger Optik.
-- **Sweatstoff:** Gestrickter Stoff, dessen Innenseite angeraut sein kann, aber meist eine glatte Außenseite besitzt.
-- **Filz:** Nicht gewebte Fläche aus verfestigten Fasern; besitzt eine andere Konstruktion.
-- **Softshell:** Mehrlagiger Funktionsstoff, der häufig Windschutz und Elastizität stärker priorisiert.
+- **Wollfleece:** Eine gestrickte, stark angeraute Ware aus Wolle mit besonders weichem, natürlichem Griff.
+- **Teddyfleece:** Ein Plüschgewebe mit einer stark gelockten, hochflorigen Oberfläche für maximale Gemütlichkeit.
+- **[Sweatstoff](/glossar/sweatstoff/):** Diese klassische Maschenware ist meist nur auf der Innenseite weich angeraut, während die Außenseite eine glatte Optik aufweist.
+- **[Filz](/glossar/filz/):** Filz ist kein gewebter oder gestrickter Stoff, sondern eine durch Feuchtigkeit, Wärme und Druck verpresste Fasermasse.
+- **[Softshell](/glossar/softshell/):** Ein technisches Gewebe, das im Gegensatz zu Fleece in erster Linie auf den Schutz vor Wind und Wasser ausgelegt ist.
 
 ## ESKYNA-Merksatz
 
-> Fleece beschreibt die wärmende Oberfläche, erst Faser, Dichte und Konstruktion zeigen, wie das Material wirklich funktioniert.
-
-## Entscheidungshilfe vor dem nächsten Kauf
-
-- Welche Faser oder Mischung ist angegeben?
-- Ist die Wärmeleistung für Aktivität und Temperatur angemessen?
-- Passt das Volumen unter deine vorhandenen Jacken?
-- Wirkt die Oberfläche stabil oder löst sie bereits beim Anfassen Fasern?
-- Sind Nähte, Reißverschluss und Bündchen für den Einsatz ausreichend verarbeitet?
-
-## Wann Beratung sinnvoll wird
-
-Materialberatung ist nützlich, wenn du leicht frierst, zugleich schnell schwitzt oder eine Wärmeschicht für sehr unterschiedliche Situationen suchst. Dann lässt sich klären, ob Fleece, Wolle, Strick oder ein technischer Midlayer deine Anforderungen besser erfüllt.
-
-## Verwandte Begriffe
-
-Polyester, Wolle, Faser-Mix, Stoffgewicht, Pilling, Atmungsaktivität, Pflegeetikett, Materialqualität, Layering
-
-## Welche Fragen klärt dieser Begriff?
-
-- Woraus kann Fleece bestehen?
-- Welche Eigenschaften hängen von Flor, Dichte und Gewicht ab?
-- Wie wähle und pflege ich Fleece passend zu meinem Alltag?
+Fleece beschreibt die aufgeraute, wärmende Oberfläche eines Stoffs. Erst die genaue Faserzusammensetzung, das Gewicht und die handwerkliche Verarbeitung entscheiden darüber, wie funktionell und elegant das Kleidungsstück an Dir wirkt.
 
 ## Häufige Fragen
 
 ### Ist Fleece winddicht?
 
-Nicht automatisch. Ein dichter Stoff bremst Luft stärker als ein lockerer, doch echten Windschutz bieten meist zusätzliche Membranen, Beschichtungen oder mehrlagige Konstruktionen.
+Nein, herkömmliches Fleece ist durch seine gestrickte Struktur von Natur aus winddurchlässig. Wenn Du einen zuverlässigen Schutz gegen kalten Wind suchst, solltest Du auf winddichte Ausführungen mit einer integrierten Membran zurückgreifen oder eine windabweisende Jacke darüber tragen.
 
-### Was bedeutet Microfleece?
+### Was bedeutet die Angabe des Stoffgewichts?
 
-Microfleece ist eine vergleichsweise dünne, leichte Fleece-Variante mit feinem Flor. Der Begriff ist im Handel nicht immer streng normiert, deshalb sind Stoffgewicht und Produktbeschreibung zusätzlich wichtig.
+Hersteller geben bei Fleece-Bekleidung oft Werte wie 100er, 200er oder 300er Fleece an. Diese Zahlen beschreiben das Gewicht in Gramm pro Quadratmeter Stoff. Ein 100er Fleece ist leicht, dünn und ideal für sportliche Aktivitäten, während ein 300er Fleece sehr dick ist und Dich bei eisigen Temperaturen warm hält.
 
-### Wie kann ich synthetischen Faserabrieb reduzieren?
+### Wie pflege ich Fleece, damit es flauschig bleibt?
 
-Trage das Kleidungsstück lange, wasche es nur bei Bedarf nach Herstellerangabe und vermeide unnötig starke mechanische Belastung. Waschhilfen oder Filter können Fasern auffangen, ersetzen aber keine langlebige Materialwahl und sachgerechte Nutzung.
+Wasche das Kleidungsstück schonend, hänge es nass auf und meide den Trockner. Sollte die Oberfläche nach vielen Wäschen leicht verfilzt wirken, kannst Du den Flor mit einer weichen Kleiderbürste vorsichtig wieder aufbürsten.

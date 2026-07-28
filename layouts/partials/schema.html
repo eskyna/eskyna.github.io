@@ -84,7 +84,28 @@
 {{ if $isGlossaryTerm }}
   {{ with .Params.relatedTerms }}
     {{ range . }}
-      {{ $termMentions = $termMentions | append (dict "@type" "DefinedTerm" "name" (.title | plainify) "url" (.url | absURL) "inLanguage" $schemaLang) }}
+      {{ $mentionName := "" }}
+      {{ $mentionURL := "" }}
+      {{ if reflect.IsMap . }}
+        {{ $mentionName = (index . "title") | default "" }}
+        {{ $mentionURL = (index . "url") | default "" }}
+      {{ else }}
+        {{ $raw := printf "%v" . }}
+        {{ if hasPrefix $raw "/" }}
+          {{ $mentionURL = $raw }}
+          {{ $raw = trim $raw "/" }}
+          {{ $parts := split $raw "/" }}
+          {{ if gt (len $parts) 0 }}
+            {{ $mentionName = humanize (index $parts (sub (len $parts) 1)) }}
+          {{ end }}
+        {{ else }}
+          {{ $mentionName = humanize $raw }}
+          {{ $mentionURL = printf "/glossar/%s/" (urlize $raw) }}
+        {{ end }}
+      {{ end }}
+      {{ if and $mentionName $mentionURL }}
+        {{ $termMentions = $termMentions | append (dict "@type" "DefinedTerm" "name" ($mentionName | plainify) "url" ($mentionURL | absURL) "inLanguage" $schemaLang) }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}

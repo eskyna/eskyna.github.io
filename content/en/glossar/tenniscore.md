@@ -5,6 +5,7 @@ description: Tenniscore translates preppy tennis elements into everyday outfits.
 category: Style Aesthetics
 slug: tenniscore
 seoTitle: "Tenniscore: Preppy Sport Codes for Everyday Style | ESKYNA"
+image_alt: "Editorial glossary illustration for Tenniscore with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

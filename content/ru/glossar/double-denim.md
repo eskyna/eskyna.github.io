@@ -5,6 +5,7 @@ description: Double Denim это сочетание джинсового вер�
 category: Принципы стилизации
 slug: double-denim
 seoTitle: "Double Denim: Как носить деним сверху и снизу | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Double Denim с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

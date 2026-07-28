@@ -5,6 +5,7 @@ description: Bayonetta Glasses это узкая акцентная оправа
 category: Аксессуары
 slug: bayonetta-glasses
 seoTitle: "Bayonetta Glasses: Узкие оправы в эстетике 2000-х | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Bayonetta Glasses с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 

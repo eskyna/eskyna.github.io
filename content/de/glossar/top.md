@@ -14,81 +14,76 @@ keywords:
 weight: 1
 image: images/glossar/top.png
 image_alt: Editoriale Glossar-Grafik zu Top mit ruhigen Farbfeldern und feiner Linienführung
+knowledge:
+  - Tops sind die ultimativen Layering-Partner. Sie regulieren das Hautgefühl und bestimmen maßgeblich die Silhouette deines Outfits.
+  - Schnittformen wie Camisoles aus Seide oder strukturierte Tanktops verändern den Stil eines Outfits von lässig bis elegant.
+history:
+  - Der Weg des Tops führte von der unsichtbaren Unterwäsche des 19. Jahrhunderts hin zum emanzipierten Statement-Piece der 1970er- und 1990er-Jahre.
 relatedTerms:
-  - title: Materialfall
-    url: /glossar/materialfall/
-  - title: Struktur
-    url: /glossar/struktur/
-  - title: Glanzgrad
-    url: /glossar/glanzgrad/
-  - title: Accessoire
-    url: /glossar/accessoire/
+  - title: Tanktop
+    url: /glossar/tanktop/
+  - title: Camisole
+    url: /glossar/camisole/
+  - title: Spaghettiträger
+    url: /glossar/spaghettitraeger/
+  - title: Layering
+    url: /glossar/layering/
 faq:
   items:
-    - q: Wie nutze ich „Top“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Top“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wie kombiniere ich ein Top stilsicher im Alltag?
+      a: Nutze die Sandwich-Methode oder trage ein feines Camisole unter einem strukturierten Blazer. So schaffst du spannende Stilbrüche zwischen maskulinen und femininen Elementen.
+    - q: Welches Material eignet sich am besten für Tops?
+      a: Naturfasern wie Baumwolle oder Seide bieten eine hervorragende Thermoregulation. Fließende Viskose oder edles Cupro sorgen für einen besonders weichen Materialfall.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Definition: Was bedeutet Top in der Mode?
 
-**Top**: Ein Top ist ein leichtes Oberteil, meist ohne Ärmel oder mit schmalen Trägern, das solo oder unter Jacken getragen wird.
+Ein **Top** ist der modische Oberbegriff für leichte, meist ärmellose Oberteile. Das Wort leitet sich vom englischen Begriff für das Oberteil ab. In der Modewelt bezeichnet es heute vor allem sommerliche oder feine Kleidungsstücke, die du solo oder als Basis für vielseitige Looks nutzen kannst.
 
-## Einfach erklärt
+Obwohl der Begriff im Alltag oft ungenau für fast jedes Hemdchen verwendet wird, unterscheidet die Stilberatung sehr präzise zwischen den verschiedenen Schnitten, Materialien und Trägerformen. Ein gut gewähltes Top ist das Fundament einer funktionierenden Garderobe.
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+## Die Geschichte des Tops: Vom Unterhemd zum Modestatement
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+Die modische Evolution des Tops ist eng mit der Befreiung des Körpers aus einengenden Kleidungskonventionen verbunden. Bis weit ins 19. Jahrhundert hinein waren ärmellose Hemden, damals Camisoles genannt, reine Unterwäsche. Sie dienten ausschließlich dazu, den Schweiß aufzusaugen und die feinen Oberkleider zu schonen.
 
-## Warum Top wichtig ist
+Der Wandel vollzog sich im frühen 20. century mit dem Aufkommen der Sportbewegung. Für das Schwimmen und die Leichtathletik wurden erstmals ärmellose Trikots entwickelt. Daraus entstand das klassische [Tanktop](/glossar/tanktop/), das in den 1970er-Jahren schließlich den Sprung in die Alltagsmode schaffte. In dieser Ära feierten auch rückenfreie Varianten wie das [Neckholder](/glossar/neckholder/) große Erfolge auf den Tanzflächen der Disco-Ära.
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+In den minimalistischen 1990er-Jahren etablierte sich das feine Seidentop mit [Spaghettiträger](/glossar/spaghettitraeger/) als elegantes Abendoutfit. Es zeigte, dass Reduktion eine enorme visuelle Kraft entfalten kann, ein Prinzip, das bis heute die moderne Ästhetik prägt.
 
-Gerade im Alltag hilft Top, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+## Die wichtigsten Top-Varianten im Überblick
 
-## Worauf du achten solltest
+Um deine Garderobe gezielt aufzubauen, hilft dir die Unterscheidung der verschiedenen Stilrichtungen:
 
-- Prüfe, welche Aufgabe Top im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+- **Das [Tanktop](/glossar/tanktop/):** Sportlich mit breiteren Trägern und meist aus gerippter Baumwolle gefertigt. Es bringt Struktur in deinen Look und eignet sich hervorragend für entspannte Alltagsoutfits.
+- **Das [Camisole](/glossar/camisole/):** Ein sehr feines Trägertop, meist aus Seide, Satin oder Viskose. Mit seinen zarten [Spaghettiträgern](/glossar/spaghettitraeger/) verleiht es deinen Outfits eine fließende, feminine Note.
+- **Das [Bandeau-Top](/glossar/bandeau-top/):** Diese trägerlose Variante betont die Schulterpartie und erzeugt eine klare horizontale Linie.
+- **Das [Crop Top](/glossar/crop-top/):** Ein verkürztes Oberteil, das wunderbar mit hoch geschnittenen Hosen harmoniert und die Proportionen deines Körpers optisch strecken kann.
 
-## Typische Missverständnisse
+## Material und Verarbeitung: So erkennst du Qualität
 
-**Missverständnis:** Top ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+Weil ein Top direkt auf der Haut liegt, entscheiden Material und Verarbeitung über deinen Tragekomfort und die optische Wertigkeit.
 
-**Missverständnis:** Top funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+Achte beim Kauf besonders auf den [Materialfall](/glossar/materialfall/). Hochwertige Naturfasern wie Seide oder feine Baumwolle fühlen sich nicht nur angenehm an, sie fallen auch schöner als billige Synthetikmischungen. Auch die [Struktur](/glossar/struktur/) des Stoffes spielt eine Rolle: Ein mattes Rippbündchen wirkt sportlich und lässig, während ein feiner [Glanzgrad](/glossar/glanzgrad/) auf Satin oder Seide dem Outfit sofort eine elegante Note verleiht.
+
+Prüfe zudem die Verarbeitung der Kanten und Träger. Schmale, sauber flachgesteppte Säume verziehen sich auch nach dem Waschen nicht und zeichnen sich unter feinen Jacken nicht unschön ab.
+
+## Stilberatung: Tops richtig kombinieren
+
+In deiner [Capsule Wardrobe](/glossar/capsule-wardrobe/) übernimmt das Top eine tragende Rolle beim [Layering](/glossar/layering/). Es dient als ruhiger Gegenpol zu auffälligen Stücken oder bildet die Basis unter transparenten Blusen.
+
+Wenn du im Büro einen seriösen, aber modernen Look tragen möchtest, kombiniere ein fließendes Seiden-Camisole unter einem strukturierten [Blazer](/glossar/blazer/). Das bricht die Strenge des Anzugs auf, ohne unprofessionell zu wirken. Im Alltag funktioniert die Kombination aus einem schlichten Tanktop und einer offenen Strickjacke oder einem weichen [Cardigan](/glossar/cardigan/) besonders gut.
 
 ## ESKYNA-Merksatz
 
-Top wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
+Ein Top wirkt dann überzeugend, wenn du es nicht als bloßes Unterhemd begreifst. Die stärkste Wirkung entsteht, wenn Schnitt, Trägerform und Material bewusst auf deine restliche Kleidung abgestimmt sind.
 
-## Praxischeck
+## Praxischeck für deinen Kleiderschrank
 
-Wenn du den Begriff **Top** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Material und Details verändern die Wertigkeit eines Looks oft stärker als die Marke.
+Wenn du ein Top auswählst, mache den schnellen Qualitäts- und Passformtest:
 
-- Fühle Griff, Gewicht und Stand des Materials.
-- Prüfe, ob die Oberfläche ruhig, glänzend, grob oder weich wirkt.
-- Achte auf Pflege, Knitterverhalten und Verarbeitung an Nähten oder Kanten.
+- **Der Unterwäsche-Check:** Siehst du die BH-Träger? Für filigrane Spaghettiträger eignen sich trägerlose BHs, während breite Tanktop-Träger normale Unterwäsche unsichtbar machen.
+- **Der Haptik-Test:** Fühlt sich der Stoff weich und kühl an? Naturfasern unterstützen die Thermoregulation deines Körpers viel besser als reine Kunstfasern.
+- **Der Proportions-Check:** Endet das Top auf der für dich optimalen Höhe? Wenn du es gern in den Bund stecken möchtest, sollte es lang genug sein, damit es bei Bewegung nicht ständig herausrutscht.
 
-## Beratungsblick
-
-In der Beratung ist **Top** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
-
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
-
-Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Jeansrock](/glossar/jeansrock/).
-
-## Verwandte Begriffe
-
-- [Materialfall](/glossar/materialfall/)
-- [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)
+Mehr Orientierung zu edlen Stoffen findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/).

@@ -16,69 +16,72 @@ keywords:
 weight: 23
 image: images/glossar/gorpcore.png
 image_alt: "Glossar-Illustration zu Gorpcore"
+history: "Der Begriff Gorpcore wurde im Jahr 2017 von dem US-amerikanischen Journalisten Jason Chen für das New Yorker Magazin *The Cut* geprägt. Das Akronym G.O.R.P. steht im Englischen für *Good Old Raisins and Peanuts* (Studentenfutter) und verweist direkt auf die typische Verpflegung beim Wandern. Historisch wurzelt dieser Stil im Aufstieg klassischer Outdoormarken ab den 1970er-Jahren. In den 1990er-Jahren übernahmen Hip-Hop-Subkulturen diese robusten Jacken für die Straße, bevor der Trend ab Mitte der 2010er-Jahre als bewusster modischer Gegenentwurf zur klassischen Streetwear die Laufstege eroberte."
+knowledge:
+  - "Gorpcore zeichnet sich durch die ästhetische Aufwertung rein funktionaler Details wie versiegelter Nähte, Kordelzüge und technischer Membranen aus."
+  - "Der Stil lebt vom bewussten Stilbruch im Alltag, bei dem extrem funktionale Teile mit klassischen Kleidungsstücken kombiniert werden."
+  - "Typische Marken dieses Stils sind unter anderem Salomon, Arc'teryx, Patagonia und The North Face."
 relatedTerms:
-  - title: Utility Jacket
-    url: /glossar/utility-jacket/
-  - title: Casual
-    url: /glossar/casual/
   - title: Adventure Streetwear
     url: /glossar/adventure-streetwear/
-  - title: Sneaker
-    url: /glossar/sneaker/
-  - title: Materialprofil
-    url: /glossar/materialprofil/
+  - title: Layering
+    url: /glossar/layering/
+  - title: Utility Jacket
+    url: /glossar/utility-jacket/
+  - title: Stilbruch
+    url: /glossar/stilbruch/
+  - title: Windbreaker
+    url: /glossar/windbreaker/
 faq:
   items:
     - q: Wie nutze ich „Gorpcore“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Ausstrahlung, Persönlichkeit und visuelle Botschaft. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
+      a: Beginne mit einem einzelnen funktionalen Kleidungsstück wie einer wetterfesten Jacke oder Trailsneakern und kombiniere dieses Teil mit deinen gewohnten Alltagsbasics, um einen modernen Stilbruch zu erzeugen.
     - q: Gilt „Gorpcore“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person modern und unangestrengt wirkt, kann bei einer anderen Person zu sehr nach einer echten Bergwanderung aussehen. Die richtige Balance ist entscheidend.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Was ist Gorpcore? Eine Definition
 
-**Gorpcore** überträgt Outdoor- und Funktionskleidung in modische Alltagslooks. Technische Stoffe, Trekking-Referenzen und Utility-Details werden dabei bewusst sichtbar eingesetzt.
+**Gorpcore** ist ein Modestil, der funktionale Outdoorkleidung und technische Ausrüstung in die urbane Alltagsgarderobe integriert. Anstatt wetterfeste Kleidung nur beim Wandern oder Bergsteigen zu tragen, werden funktionale Jacken, robuste Hosen und profilierte Schuhe hier zu bewussten Mode-Statements erhoben.
 
-## Einfach erklärt
+Der Stil stellt die reine Nützlichkeit in den Vordergrund, inszeniert diese jedoch als visuelles Stilmittel im städtischen Raum.
 
-Der Stil lebt von Funktion als Ästhetik. Jacken, Fleece, Sandalen, technische Taschen und sportliche [Layering](/glossar/layering/)-Elemente wirken hier nicht zufällig, sondern als Stilcode.
+## Die typischen Merkmale des Gorpcore-Stils
 
-## Warum der Begriff wichtig ist
+Der Look zeichnet sich durch eine klare Ästhetik aus, bei der die Funktion die Form bestimmt. Folgende Elemente sind für den Stil prägend:
 
-Gorpcore beschreibt eine eigene Richtung zwischen Streetwear, Funktion und Alltag und wird als Trendbegriff stark gesucht. Eine urbanere, alltagstauglichere Schwester davon ist oft [Adventure Streetwear](/glossar/adventure-streetwear/).
+- **Technische Materialien:** Stoffe wie Ripstop-Gewebe, Fleece, Softshell und wasserdichte Membranen stehen im Mittelpunkt. Sie bieten Schutz vor den Elementen und bringen zugleich eine moderne, matte oder leicht glänzende Struktur in dein Outfit.
+- **Sichtbare Details:** Reißverschlüsse, verstellbare Kordelzüge, Karabinerhaken und aufgesetzte Taschen werden nicht versteckt, sondern gestalterisch hervorgehoben. Eine funktionale [Utility Jacket](/glossar/utility-jacket/) oder ein wetterfester [Anorak](/glossar/anorak/) sind perfekte Beispiele für diese Optik.
+- **Volumen und Schichten:** Weite Schnitte und großzügiges [Layering](/glossar/layering/) sind essenziell. Mehrere Schichten übereinander sorgen für Schutz vor Kälte und schaffen eine spannende, urbane Silhouette.
+- **Funktionale Schuhe:** Klobige Wanderschuhe, robuste [Gummistiefel](/glossar/gummistiefel/) oder profilierte [Sneaker](/glossar/sneaker/) ersetzen klassische Alltagsschuhe.
 
-## ESKYNA-Merksatz
+## Wie du den Outdoor-Trend im Alltag stylst
 
-Gorpcore macht Funktion zum sichtbaren Stilmittel.
+Damit dein Look nicht so wirkt, als hättest du dich auf dem Weg zum Berggipfel in der Innenstadt verlaufen, kommt es auf die richtige Balance an. Der Schlüssel zu einem tragbaren Alltagsoutfit liegt im bewussten [Stilbruch](/glossar/stilbruch/).
 
-## Praxischeck
+### Die Kontrast-Formel
 
-Wenn du den Begriff **Gorpcore** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Stil ist sichtbar, bevor du etwas erklärst. Der Begriff hilft dir, die Botschaft eines Looks bewusster zu steuern.
+Kombiniere ein sehr technisches Kleidungsstück, zum Beispiel einen weiten [Windbreaker](/glossar/windbreaker/), mit feinen, schlichten Klassikern aus deiner Garderobe. Eine gerade geschnittene Stoffhose oder ein schlichtes Shirt nehmen dem Look die reine Sportlichkeit und machen ihn absolut stadttauglich.
 
-- Formuliere vor dem Anziehen drei Wörter, die dein Look ausstrahlen soll.
-- Prüfe, ob Farbe, Schnitt und Accessoires dieselbe Aussage senden.
-- Vergleiche, ob der Look zu deinem beruflichen oder privaten Kontext passt.
+### Fokus auf das Materialprofil
 
-## Beratungsblick
+Achte auf ein harmonisches [Materialprofil](/glossar/materialprofil/). Wenn du eine robuste Cargohose trägst, passt dazu ein weicher Pullover aus Strick. Dieser Kontrast aus rauen, funktionalen Stoffen und weichen Texturen wirkt hochwertig und durchdacht.
 
-In der Beratung ist **Gorpcore** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+### Farben bewusst wählen
 
-Mehr Orientierung findest du in der Kategorie [Stil & Wirkung](/glossar/kategorie/stil-wirkung/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Präsenz](/praesenz/).
+Outdoormarken nutzen oft auffällige Signalfarben wie Orange, Gelb oder intensives Blau. Nutze diese Töne im Alltag sparsam als gezielte Farbakzente oder greife zu gedeckten Naturtönen wie Khaki, Braun und Oliv, um das Outfit optisch zu beruhigen.
 
-## Entscheidungsfrage
+## Gorpcore vs. Adventure Streetwear: Wo liegt der Unterschied?
 
-Frag dich bei **Gorpcore**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
+Während Gorpcore die reine, oft ungeschönte Funktionskleidung direkt aus dem Bergsportgeschäft auf die Straße bringt, ist [Adventure Streetwear](/glossar/adventure-streetwear/) eine bereits für den urbanen Raum designte Modeströmung. Sie nutzt zwar die praktische Optik, verzichtet aber oft auf extreme Leistungsmerkmale wie alpine Bergsteigereigenschaften. Für einen entspannten, funktionalen [Casual](/glossar/casual/) Look im Alltag sind beide Richtungen hervorragend geeignet.
 
-Bei Wirkungsthemen zählt der erste Eindruck. Frage dich, ob der Look deine Kompetenz, Offenheit, Ruhe oder Kreativität sichtbar macht. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Gorpcore** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
+## ESKYNA-Praxischeck für deinen Stil
 
-## Verwandte Begriffe
+Wenn du den Stil für dich ausprobieren möchtest, musst du dich nicht komplett neu einkleiden. Beginne mit einem einzelnen funktionalen Teil und baue dein Outfit darum herum auf.
 
-- [Utility Jacket](/glossar/utility-jacket/)
-- [Casual](/glossar/casual/)
-- [Adventure Streetwear](/glossar/adventure-streetwear/)
-- [Sneaker](/glossar/sneaker/)
-- [Materialprofil](/glossar/materialprofil/)
+- **Der Spiegel-Test:** Ziehe deine liebste Funktionsjacke an und kombiniere sie mit einer klassischen Jeans und schlichten Schuhen. Gefällt dir die Mischung aus Alltag und Funktion?
+- **Wirkung prüfen:** Frage dich vor dem Verlassen des Hauses, ob dein Look die gewünschte Balance aus Bequemlichkeit und Modernität ausstrahlt.
+- **Alltagstauglichkeit:** Achte darauf, dass technische Eigenschaften wie [Atmungsaktivität](/glossar/atmungsaktivitaet/) und [Thermoregulation](/glossar/thermoregulation/) auch in beheizten Räumen funktionieren. Ein dicker Fleece-Überwurf ist draußen praktisch, kann im Büro aber schnell zu warm werden.
+
+Der Gorpcore-Stil zeigt, dass Alltagskleidung gleichzeitig extrem bequem, wetterfest und modisch anspruchsvoll sein kann. Nutze die Ästhetik der Natur, um deine Garderobe um eine praktische Facette zu erweitern.

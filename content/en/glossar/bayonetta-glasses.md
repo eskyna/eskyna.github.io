@@ -5,6 +5,7 @@ description: Bayonetta Glasses are narrow statement frames with a smart and stri
 category: Accessories
 slug: bayonetta-glasses
 seoTitle: "Bayonetta Glasses: Slim Statement Frames | ESKYNA"
+image_alt: "Editorial glossary illustration for Bayonetta Glasses with calm color fields and fine linework"
 lastmod: "2026-07-24"
 ---
 

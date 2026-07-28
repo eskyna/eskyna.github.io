@@ -1,8 +1,7 @@
 ---
 title: Was bedeutet Tenue de Ville?
 term: Tenue de Ville
-description: Tenue de Ville ist ein klassischer Tagesdresscode für gepflegte, elegante Kleidung bei
-  formellen Anlässen am Tag.
+description: Tenue de Ville ist ein klassischer Tagesdresscode für gepflegte, elegante Kleidung bei formellen Anlässen am Tag.
 category: Dresscodes & Anlässe
 tags:
   - tenue de ville
@@ -16,6 +15,8 @@ keywords:
 weight: 22
 image: images/glossar/tenue-de-ville.png
 image_alt: "Glossar-Illustration zu Tenue de Ville"
+history: "Der Begriff stammt aus dem Französischen und bedeutet wörtlich übersetzt Stadtkleidung. Historisch bezeichnete der Code die formelle, aber tageslichttaugliche Garderobe, die man beim Verlassen des Hauses für geschäftliche oder gesellschaftliche Besuche in der Stadt trug. Er grenzt sich damit seit jeher klar von der glanzvollen Abendgarderobe ab."
+knowledge: "Bei diesem Dresscode steht die Eleganz für den Tag im Fokus. Pailletten, tiefe Ausschnitte und schwere, glitzernde Stoffe sind unpassend. Stattdessen dominieren Pastelltöne, gedeckte Farben und hochwertige, matte Materialien das Gesamtbild."
 relatedTerms:
   - title: Dresscode
     url: /glossar/dresscode/
@@ -29,58 +30,45 @@ relatedTerms:
     url: /glossar/hochzeit-als-gast/
 faq:
   items:
-    - q: Wie nutze ich „Tenue de Ville“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Tenue de Ville“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wie unterscheidet sich Tenue de Ville von Semi Formal?
+      a: Tenue de Ville ist streng auf den Tag ausgerichtet und verlangt leisere Farben sowie matte Stoffe. Semi Formal wird oft für Veranstaltungen ab dem späten Nachmittag genutzt und erlaubt dunklere Töne sowie etwas mehr Glanz.
+    - q: Sind offene Schuhe bei diesem Dresscode für Damen erlaubt?
+      a: Traditionell sind geschlossene Schuhe wie Pumps oder feine Loafer die sicherste Wahl. Bei sehr sommerlichen Veranstaltungen im Freien können elegante Slingbacks oder dezent geöffnete Riemchenschuhe passend sein, solange der Look formell bleibt.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Was ist der Tenue de Ville Dresscode?
 
-**Tenue de Ville** ist ein klassischer Dresscode für gepflegte Tagesanlässe. Er verlangt elegante, stimmige Kleidung mit klarer Zurückhaltung.
+Wenn du eine Einladung mit dem Vermerk **Tenue de Ville** erhältst, ist stilvolle Tageskleidung gefragt. Wörtlich übersetzt bedeutet der französische Begriff Stadtkleidung. Er beschreibt eine elegante, formelle Garderobe für gesellschaftliche Anlässe, die tagsüber stattfinden.
 
-## Einfach erklärt
+Der entscheidende Unterschied zur klassischen [Abendgarderobe](/glossar/abendgarderobe/) liegt in der tageslichttauglichen Wirkung. Dieser [Dresscode](/glossar/dresscode/) verzichtet bewusst auf glitzernde Stoffe, Pailletten oder sehr dunkle, schwere Materialien. Das Ziel ist ein gepflegtes, respektvolles Auftreten, das Eleganz und Zurückhaltung harmonisch verbindet.
 
-Anders als Abendcodes arbeitet Tenue de Ville meist mit etwas leichteren Stoffen, weniger Glanz und einer geordneten Tageswirkung. Der Look soll festlich, aber nicht nachtbezogen sein.
+## Die wichtigsten Regeln für Damen und Herren
 
-## Warum der Begriff wichtig ist
+Der Stil verlangt eine klare Struktur, lässt dir aber bei den Farben und Schnitten etwas Spielraum für deine persönliche Note.
 
-Der Ausdruck taucht oft auf Einladungen und ist vielen unklar. Als Glossarbegriff hilft er, Tages- und Abendform sauber zu unterscheiden.
+### Tenue de Ville für Damen
 
-## ESKYNA-Merksatz
+Damen greifen traditionell zu einem eleganten Kleid, einem Kostüm oder einer feinen Hosen-Kombination.
 
-Tenue de Ville ist elegante Tagesform mit Haltung und Zurückhaltung.
+- **Kleider**: Ein knielanges [Etuikleid](/glossar/etuikleid/) ist für diesen Anlass hervorragend geeignet. Auch ein dezentes [Cocktailkleid](/glossar/cocktailkleid/) ohne opulenten Abendglanz passt perfekt. Die Saumlänge sollte mindestens das Knie umspielen.
+- **Hosen und Zweiteiler**: Wenn du lieber Hosen trägst, sind ein moderner [Hosenanzug](/glossar/hosenanzug/) oder eine Kombination aus einer fließenden [Marlenehose](/glossar/marlenehose/) und einem edlen [Blazer](/glossar/blazer/) eine stilsichere Alternative.
+- **Schuhe und Accessoires**: Mittelhohe [Pumps](/glossar/pumps/) oder feine, flache Schuhe runden das Outfit ab. Die Farben sollten sanft sein. Pastelltöne, Naturfarben oder dezente Muster wirken besonders harmonisch.
 
-## Praxischeck
+### Tenue de Ville für Herren
 
-Wenn du den Begriff **Tenue de Ville** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
+Für Herren ist ein gut sitzender [Anzug](/glossar/anzug/) bei diesem Dresscode unverzichtbar.
 
-- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
-- Achte auf Wiederholungen in Farbe, Material und Silhouette.
-- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
+- **Der Anzug**: Während am Abend sehr dunkle Töne wie Schwarz dominieren, darf der Anzug am Tag in freundlicheren Farben gehalten sein. Mittleres Grau, Navy, helleres Blau oder weiche Brauntöne sind ideal.
+- **Hemd und Krawatte**: Dazu kombinierst du ein klassisches, helles Hemd und eine farblich abgestimmte Krawatte.
+- **Schuhe**: Hochwertige Lederschuhe wie Oxfords, Derbys oder edle [Loafer](/glossar/loafer/) passen perfekt zum Tagescharakter des Outfits.
 
-## Beratungsblick
+## Wann trägt man diese Kleiderordnung?
 
-In der Beratung ist **Tenue de Ville** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
+Typische Anlässe für diesen Code sind festliche Empfänge, Jubiläen, Taufen oder eine [Hochzeit als Gast](/glossar/hochzeit-als-gast/), die bereits am Vormittag oder Mittag beginnt. In der Hierarchie der Kleiderordnungen liegt er als elegantes Bindeglied zwischen [Business Formal](/glossar/business-formal/) und [Semi Formal](/glossar/semi-formal/). Er hilft dir, [festliche Kleidung](/glossar/festliche-kleidung/) so zu wählen, dass du weder underdressed noch overdressed wirkst.
 
-Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
+## Tipps für dein perfektes Outfit
 
-## Entscheidungsfrage
+Achte bei der Auswahl deiner Kleidung besonders auf die Materialien. Matte Stoffe wie feine Schurwolle, Viskose, Seide oder glatte Baumwolle wirken im hellen Tageslicht wesentlich edler als glänzende Kunstfasern.
 
-Frag dich bei **Tenue de Ville**: Welche Aufgabe soll dieses Element im Outfit übernehmen? Soll es beruhigen, betonen, strecken, öffnen, Struktur geben oder mehr Persönlichkeit zeigen? Sobald die Aufgabe klar ist, wird die Entscheidung leichter. Dann vergleichst du nicht mehr wahllos, sondern prüfst, welche Variante die gewünschte Wirkung am besten unterstützt.
-
-Bei Garderobenthemen zählt Wiederholung. Ein guter Gedanke muss sich in mehreren Outfits nutzen lassen, sonst bleibt er nur eine schöne Idee. Teste deshalb bewusst zwei Alternativen: eine ruhigere und eine markantere Variante. Notiere dir, welche sich natürlicher anfühlt und welche besser zu deinen vorhandenen Lieblingsstücken passt. So wird **Tenue de Ville** zu einem praktischen Stilwerkzeug statt zu einer abstrakten Modevokabel.
-
-Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Japanische Sneaker](/glossar/japanische-sneaker/).
-
-## Verwandte Begriffe
-
-- [Dresscode](/glossar/dresscode/)
-- [Business Formal](/glossar/business-formal/)
-- [Semi Formal](/glossar/semi-formal/)
-- [Festliche Kleidung](/glossar/festliche-kleidung/)
-- [Hochzeit als Gast](/glossar/hochzeit-als-gast/)
+Vermeide grobe Jeans, sportliche Hoodies oder auffällige Sneaker. Ein solcher [Stilbruch](/glossar/stilbruch/) ist bei diesem traditionellen Code nicht vorgesehen. Wenn du dir unsicher bist, wähle im Zweifel immer die etwas ruhigere, klassischere Variante. So strahlst du mühelose Eleganz und Souveränität aus.

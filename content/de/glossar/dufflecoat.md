@@ -1,8 +1,7 @@
 ---
 title: Was bedeutet Dufflecoat?
 term: Dufflecoat
-description: Ein Dufflecoat ist ein Wollmantel mit Kapuze und Knebelverschlüssen, der funktional und
-  weich zugleich wirkt.
+description: Ein Dufflecoat ist ein Wollmantel mit Kapuze und Knebelverschlüssen, der funktional und weich zugleich wirkt.
 category: Garderobe & Alltag
 tags:
   - dufflecoat
@@ -14,84 +13,73 @@ keywords:
 weight: 1
 image: images/glossar/dufflecoat.png
 image_alt: Editoriale Glossar-Grafik zu Dufflecoat mit ruhigen Farbfeldern und feiner Linienführung
+history: Der Dufflecoat hat seine Wurzeln im belgischen Ort Duffel, wo bereits im 17. Jahrhundert ein besonders schwerer, wetterfester Wollstoff hergestellt wurde. Ende des 19. Jahrhunderts entdeckte die britische Royal Navy das Material für sich. Sie entwickelte einen praktischen Mantel für Seeleute, der im Ersten und Zweiten Weltkrieg zur Standardausrüstung gehörte. Nach 1945 gelangte der Mantel über Militärüberschüsse in die Zivilbevölkerung und wurde in den 1950er und 1960er Jahren zum Erkennungsmerkmal von Künstlern, Studierenden und Intellektuellen.
+knowledge: Typisch für den Dufflecoat sind die markanten Knebelverschlüsse aus Horn oder Holz, die mit dicken Kordeln oder Lederschlaufen befestigt sind. Diese wurden so entworfen, dass Seeleute den Mantel auch mit dicken Handschuhen problemlos öffnen und schließen konnten. Eine großzügige Kapuze, eine schützende Schulterpasse und zwei große, aufgesetzte Taschen runden das Design ab.
 relatedTerms:
-  - title: Capsule Wardrobe
-    url: /glossar/capsule-wardrobe/
-  - title: Garderobenlogik
-    url: /glossar/garderobenlogik/
-  - title: Outfit-Formel
-    url: /glossar/outfit-formel/
-  - title: Key-Piece
-    url: /glossar/key-piece/
-  - title: Fehlkauf
-    url: /glossar/fehlkauf/
+  - title: Wollmantel
+    url: /glossar/wollmantel/
+  - title: Cabanjacke
+    url: /glossar/cabanjacke/
+  - title: Klassiker
+    url: /glossar/klassiker/
+  - title: Preppy
+    url: /glossar/preppy/
+  - title: Aufgesetzte Tasche
+    url: /glossar/aufgesetzte-tasche/
 faq:
   items:
-    - q: Wie nutze ich „Dufflecoat“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Dufflecoat“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wie kombiniere ich einen Dufflecoat im Alltag?
+      a: Der Dufflecoat ist ein vielseitiger Begleiter. Er harmoniert perfekt mit sportlichen oder akademischen Outfits. Du kannst ihn hervorragend über einem dicken Strickpullover, einer Chino oder einer klassischen Jeans tragen. Auch im Stilbruch über einem feinen Anzug macht er eine gute Figur.
+    - q: Worauf sollte ich beim Kauf eines Dufflecoats achten?
+      a: Achte vor allem auf einen hohen Wollanteil, damit der Mantel dich im Winter zuverlässig wärmt und wetterfest bleibt. Da der Schnitt traditionell eher großzügig und gerade ausfällt, sollte die Schulterpartie gut sitzen, um dem Mantel die nötige Struktur zu geben.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Dufflecoat**: Ein Dufflecoat ist ein Wollmantel mit Kapuze und Knebelverschlüssen, der funktional und weich zugleich wirkt.
+Ein **Dufflecoat** ist ein dreiviertellanger [Wollmantel](/glossar/wollmantel/) mit integrierter Kapuze und charakteristischen Knebelverschlüssen. Er gilt als zeitloser [Klassiker](/glossar/klassiker/) der Herren- und Damengarderobe, der sportliche Funktionalität mit einer weichen, nahbaren Ausstrahlung verbindet.
 
-## Einfach erklärt
+## Die Geschichte des Dufflecoats
 
-Im Alltag wird der Begriff oft schnell verwendet, aber selten genau betrachtet. Entscheidend sind Schnitt, Material, Länge und die Frage, wie das Teil mit vorhandenen Kleidungsstücken zusammenarbeitet.
+Die Entstehung des Mantels ist eng mit der Seefahrt und funktionaler Arbeitskleidung verbunden. Der Name leitet sich von der belgischen Stadt Duffel ab, die im 17. Jahrhundert für den Export eines besonders dichten, schweren Wollstoffs bekannt war.
 
-Für ESKYNA ist dieses Kleidungsstück dann wertvoll, wenn es eine klare Aufgabe in der Garderobe hat. Es soll nicht nur schön sein, sondern Outfits leichter machen.
+Gegen Ende des 19. Jahrhunderts übernahm die britische Royal Navy diesen robusten Stoff und entwarf daraus einen zweckmäßigen Mantel für ihre Crews. Die markanten Knebelverschlüsse wurden gezielt so konstruiert, dass die Seeleute den Mantel selbst mit klammen Fingern oder schweren Handschuhen mühelos bedienen konnten. Die Kapuze war so groß geschnitten, dass eine Marinekappe problemlos darunter passte.
 
-## Warum Dufflecoat wichtig ist
+Nach dem Zweiten Weltkrieg wurden große Bestände des Militärmantels günstig an die Bevölkerung verkauft. Schnell entwickelte sich das Kleidungsstück zum Symbol einer intellektuellen Gegenkultur. Insbesondere an den Universitäten in Frankreich und Großbritannien trugen Studierende den Dufflecoat als bewussten Kontrast zur strengen, bürgerlichen Mode.
 
-Wenn du diesen Begriff verstehst, kannst du Kleidung bewusster auswählen und vorhandene Teile präziser kombinieren. Das macht den Kleiderschrank nicht voller, sondern klarer.
+## Typische Merkmale des Dufflecoats
 
-Gerade im Alltag hilft Dufflecoat, schneller zu erkennen, ob ein Teil nur interessant aussieht oder ob es wirklich zur eigenen Garderobe, zum Anlass und zur gewünschten Wirkung passt.
+Ein echter Dufflecoat lässt sich an vier wesentlichen Designelementen erkennen:
 
-## Worauf du achten solltest
+- **Knebelverschlüsse:** Die Verschlüsse bestehen traditionell aus Holz oder echtem Horn und sind an Seilen oder Lederschlaufen befestigt.
+- **Die Kapuze:** Sie ist fest angenäht und oft mit einem zusätzlichen Knopfriegel am Hals versehen, um Wind abzuwehren.
+- **Schulterpasse:** Ein zusätzlicher Stoffbeleg im Schulterbereich, auch bekannt als [Passe](/glossar/passe/), sorgt für zusätzliche Wärme und lässt Regenwasser besser abperlen.
+- **Große aufgesetzte Taschen:** Zwei geräumige Taschen auf der Vorderseite bieten viel Platz und unterstreichen die sportlich funktionale Optik, die für eine [aufgesetzte Tasche](/glossar/aufgesetzte-tasche/) typisch ist.
 
-- Prüfe, welche Aufgabe Dufflecoat im Outfit übernimmt.
-- Achte auf Material, Farbe und Proportion.
-- Betrachte den Begriff im Zusammenhang mit Anlass und Alltag.
-- Entscheide bewusst, ob er deine gewünschte Wirkung unterstützt.
+Als Material kommt traditionell schwere, dichte [Wolle](/glossar/wolle/) zum Einsatz. Häufig wird ein zweiseitig gewebter Stoff verwendet, der auf der Innenseite ein klassisches Karomuster zeigt.
 
-## Typische Missverständnisse
+## Warum der Dufflecoat ein Garderobenklassiker ist
 
-**Missverständnis:** Dufflecoat ist nur ein modisches Wort.  
-**Besser:** Der Begriff beschreibt eine konkrete Eigenschaft, die Wirkung, Kombinierbarkeit oder Qualität eines Outfits beeinflusst.
+In einer durchdachten [Capsule Wardrobe](/glossar/capsule-wardrobe/) nimmt der Dufflecoat eine besondere Rolle ein. Er schließt die Lücke zwischen sehr sportlichen Daunenjacken und formellen Mänteln. Durch seine Struktur und die weichen Linien verleiht er Deinem Outfit sofort eine entspannte, aber gepflegte Note.
 
-**Missverständnis:** Dufflecoat funktioniert immer gleich.  
-**Besser:** Die Wirkung hängt von Material, Farbe, Schnitt, Proportion und Styling ab.
+Wenn du deine persönliche [Garderobenlogik](/glossar/garderobenlogik/) aufbauen möchtest, hilft dir dieser Mantel dabei, einfache und wirkungsvolle Outfits für kalte Tage zu gestalten. Da er stilistisch sehr anpassungsfähig ist, funktioniert er als verlässliches [Key-Piece](/glossar/key-piece/) über viele Jahre hinweg und bewahrt dich vor einem klassischen [Fehlkauf](/glossar/fehlkauf/).
+
+## Styling: So kombinierst du den Dufflecoat stilsicher
+
+Der Mantel lässt sich hervorragend in verschiedene Stilrichtungen integrieren. Er eignet sich hervorragend für eine alltägliche [Outfit-Formel](/glossar/outfit-formel/):
+
+### Der klassische Preppy-Look
+
+Kombiniere den Dufflecoat mit Elementen des traditionellen College-Stils. Ein feiner Rollkragenpullover, eine gut sitzende Stoffhose und edle Loafer unterstreichen den britischen Charakter des Mantels. Dieser [Preppy](/glossar/preppy/) Look wirkt aufgeräumt, klassisch und stilbewusst.
+
+### Der entspannte Casual-Stil
+
+Für den Alltag lässt sich der Mantel hervorragend mit einer dunklen Jeans, robusten Lederstiefeln und einem grob gestrickten Pullover tragen. Hier kommt die maritime Herkunft des Mantels besonders schön zur Geltung.
+
+### Der moderne Stilbruch
+
+Mutige tragen den Dufflecoat als bewussten Kontrast über einem eleganten Business-Anzug oder einem feinen Kleid. Ähnlich wie eine [Cabanjacke](/glossar/cabanjacke/) nimmt der Dufflecoat dem formellen Outfit die Strenge und verleiht dir eine nahbare, moderne Ausstrahlung.
 
 ## ESKYNA-Merksatz
 
-Dufflecoat wirkt dann überzeugend, wenn es nicht zufällig eingesetzt wird. Die stärkste Wirkung entsteht aus Klarheit, Maß und einem stimmigen Zusammenspiel.
-
-## Praxischeck
-
-Wenn du den Begriff **Dufflecoat** auf ein Outfit überträgst, prüfe nicht nur das einzelne Kleidungsstück. Entscheidend ist, ob es im Gesamtbild ruhig, bewusst und tragbar wirkt. Eine Garderobe wird leichter, wenn einzelne Entscheidungen zusammenpassen. Der Begriff hilft dir, aus Teilen ein System zu machen.
-
-- Prüfe, mit welchen drei vorhandenen Teilen ein neues Stück kombinierbar ist.
-- Achte auf Wiederholungen in Farbe, Material und Silhouette.
-- Frage dich, ob der Begriff ein echtes Alltagsproblem löst oder nur schön klingt.
-
-## Beratungsblick
-
-In der Beratung ist **Dufflecoat** kein starres Etikett. Der Begriff wird erst hilfreich, wenn er zu deinem Körper, deinem Alltag und deiner gewünschten Wirkung passt. So erkennst du schneller, ob ein Teil wirklich zu dir gehört oder ob es nur im ersten Moment interessant aussieht.
-
-Mehr Orientierung findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [ESKYNA Stilgarderobe](/stilgarderobe/).
-
-Ein naheliegender Anschlussbegriff in diesem Zusammenhang ist [Culotte](/glossar/culotte/).
-
-## Verwandte Begriffe
-
-- [Capsule Wardrobe](/glossar/capsule-wardrobe/)
-- [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
-- [Fehlkauf](/glossar/fehlkauf/)
+Ein Dufflecoat überzeugt durch seine ehrliche, funktionale Herkunft. Er ist dann die perfekte Wahl für dich, wenn du einen warmen Mantel suchst, der Charakter besitzt, ohne aufdringlich zu wirken.

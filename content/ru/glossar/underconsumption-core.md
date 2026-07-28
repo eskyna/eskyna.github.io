@@ -5,6 +5,7 @@ description: Underconsumption Core делает акцент на осознан
 category: Принципы стилизации
 slug: underconsumption-core
 seoTitle: "Underconsumption Core: Осознанный стиль на базе существующего гардероба | ESKYNA"
+image_alt: "Редакционная иллюстрация к термину Underconsumption Core с мягкими цветовыми полями и тонкой графикой"
 lastmod: "2026-07-24"
 ---
 
