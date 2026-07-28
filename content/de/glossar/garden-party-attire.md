@@ -85,7 +85,7 @@ Der wohl wichtigste Praxistipp betrifft deine Fußbekleidung. Pfennigabsätze si
 - Sandaletten mit einem schicken [Keilabsatz](/glossar/keilabsatz/) strecken deine Silhouette, ohne an Komfort einzubüßen.
 - Eine flache, feine [Sandale](/glossar/sandale/) oder eine elegante [Sandalette](/glossar/sandalette/) wirkt wunderbar sommerlich.
 
-### Silhouetten für Sie und Ihn
+### Silhouetten, die dir und ihm stehen
 
 Für Frauen ist das klassische [A-Linien-Kleid](/glossar/a-linien-kleid/) oder ein schwingendes Midikleid die ideale Wahl. Eine weit geschnittene [Marlenehose](/glossar/marlenehose/) aus kühlem Leinenstoff, kombiniert mit einer edlen [Bluse](/glossar/bluse/) und einem leichten [Blazer](/glossar/blazer/), wirkt modern und souverän.
 

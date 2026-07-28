@@ -73,4 +73,4 @@ Zudem lohnt sich das sogenannte Mix-and-Match-Prinzip. Trage die Jacke des Kost�
 
 ## ESKYNA-Merksatz
 
-> Das Kostüm lebt vom Dialog zwischen Jacke und Rock – stimmig und modern wird es, wenn du die klassische Strenge durch clevere Stilbrüche auflockerst.
+> Das Kostüm lebt vom Dialog zwischen Jacke und Rock. Stimmig und modern wird es, wenn du die klassische Strenge durch clevere Stilbrüche auflockerst.

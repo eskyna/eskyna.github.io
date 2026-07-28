@@ -90,8 +90,8 @@ Die französische Modeschöpferin Madeleine Vionnet begann als Erste, Stoffe sys
 
 Wenn du dich tiefer mit der Konstruktion und der Wertigkeit deiner Kleidung beschäftigen möchtest, helfen dir diese Begriffe weiter:
 
-- [Materialfall](/glossar/materialfall/) – Wie der Stoff am Körper fließt.
-- [Webkante](/glossar/webkante/) – Der feste Längsrand des Stoffes.
-- [Schrägschnitt/Bias Cut](/glossar/schraegen-schnitt-bias-cut/) – Der Zuschnitt im 45-Grad-Winkel.
-- [Passform](/glossar/passform/) – Der korrekte Sitz am Körper.
-- [Qualität](/glossar/qualitaet/) – Das Zusammenspiel aus Material und Verarbeitung.
+- [Materialfall](/glossar/materialfall/): Wie der Stoff am Körper fließt.
+- [Webkante](/glossar/webkante/): Der feste Längsrand des Stoffes.
+- [Schrägschnitt/Bias Cut](/glossar/schraegen-schnitt-bias-cut/): Der Zuschnitt im 45-Grad-Winkel.
+- [Passform](/glossar/passform/): Der korrekte Sitz am Körper.
+- [Qualität](/glossar/qualitaet/): Das Zusammenspiel aus Material und Verarbeitung.

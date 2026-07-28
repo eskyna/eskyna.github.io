@@ -92,7 +92,7 @@ Das hängt stark von der Kantenverarbeitung des Modells ab. Hochwertige Silikonc
 
 Nein, klassische Covers bieten keinerlei Stützwirkung. Für Halt und einen formenden Effekt ist eine Kombination mit [Boob Tape](/glossar/boob-tape/) oder ein strukturierter Klebe-BH die bessere Wahl.
 
-### Pasties oder Nipple Covers – was ist der Unterschied?
+### Pasties oder Nipple Covers: was ist der Unterschied?
 
 Pasties stammen historisch aus der Burlesque-Szene und sind oft dekorativ gestaltet, beispielsweise mit Pailletten oder Fransen. Nipple Covers sind funktionale, hautfarbene Alltagshelfer, die unsichtbar unter der Kleidung bleiben sollen.
 
