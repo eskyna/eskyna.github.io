@@ -28,7 +28,7 @@
     <!-- Hero Topbar: Logo + Name | Language & Social Links -->
     <div class="hero-topbar">
       <p class="hero-coach-label" aria-label="{{ $ui.hero_coach_label }}" tabindex="0">
-        <img src="/images/sign_gold.png" alt="{{ $cloverSymbolAlt }}" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
+        <img id="hero-clover-sign" src="/images/sign_gold.png" alt="{{ $cloverSymbolAlt }}" class="hero-coach-sign" aria-hidden="true" width="42" height="42">
         <span class="hero-coach-copy">
           <span class="hero-coach-name">{{ $ui.hero_coach_name }}</span>
           <span class="hero-coach-title">
@@ -106,6 +106,8 @@
       <div class="hero-image-column"></div>
     </div>
   </section>
+
+  <script src="{{ "assets/particles.js" | relURL }}" data-target="#hero-clover-sign" data-once="false" defer></script>
 
   <section class="ps-section">
     <div class="ps-inner">
