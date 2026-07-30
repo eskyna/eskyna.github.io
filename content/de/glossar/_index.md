@@ -1,6 +1,6 @@
 ---
-title: Glossar
-description: Das ESKYNA Glossar erklärt Mode, Stil, Farbe und Garderobe mit praktischem Stilwissen für deinen Alltag.
+title: "Mode Glossar: Stil, Farbe, Garderobe & Passform"
+description: Das ESKYNA Glossar erklärt Mode, Stil, Farben, Passform und Garderobe klar, fundiert und praktisch für deinen Alltag.
 ui:
   back_text: Zur Startseite
   related_text: Verwandte Begriffe
@@ -11,52 +11,105 @@ ui:
   search_placeholder: Begriff suchen...
   no_results: Keine Ergebnisse gefunden.
   featured_heading: Zentrale Stilbegriffe zum Einstieg
-  featured_intro: Diese Begriffe erklären die wichtigsten Grundlagen für Farbe, Stil, Wirkung und Garderobe. Sie sind besonders hilfreich, wenn du aus Einzelteilen einen klareren Stil entwickeln möchtest.
-  topic_pathways_heading: Orientierung nach Stilfrage
-  topic_pathways_intro: Wähle den Einstieg, der zu deiner aktuellen Frage passt. So kommst du schneller von Begriffen zu konkreten Stilentscheidungen.
+  featured_intro: Diese Begriffe geben dir eine fundierte Basis für Farbe, Stil, Wirkung und Garderobe. Sie helfen dir, aus einzelnen Kleidungsstücken einen klaren persönlichen Stil zu entwickeln.
+  topic_pathways_heading: Orientierung nach deiner Stilfrage
+  topic_pathways_intro: Wähle den Bereich, der zu deiner aktuellen Frage passt. So findest du schnell Wissen, das du direkt für Outfits, Einkäufe und deine Garderobe nutzen kannst.
   topic_pathways:
     - title: Farben verstehen
-      text: Unterton, Farbtemperatur, Kontrast und Palette für klarere Kaufentscheidungen.
-      href: /glossar/kategorie/farbberatung-farbe/
+      text: Unterton, Farbtemperatur, Kontrast und Farbpalette für klarere Kaufentscheidungen.
+      href: /glossar/farbberatung-farbe/
     - title: Wirkung steuern
-      text: Präsenz, Stilidentität und visuelle Botschaft für Beruf, Fotos und Alltag.
-      href: /glossar/kategorie/stil-wirkung/
+      text: Präsenz, Stilidentität und Stilbotschaft für Beruf, Fotos und Alltag.
+      href: /glossar/stil-wirkung/
     - title: Garderobe ordnen
       text: Kombinierbarkeit, Capsule Wardrobe und Kaufkriterien für weniger Fehlkäufe.
-      href: /glossar/kategorie/garderobe-alltag/
+      href: /glossar/garderobe-alltag/
     - title: Passform prüfen
-      text: Schnitt, Proportion und Linien, damit Kleidung am Körper stimmiger wirkt.
-      href: /glossar/kategorie/schnitt-proportion-passform/
+      text: Schnitt, Proportion und Linienführung, damit Kleidung stimmig sitzt und wirkt.
+      href: /glossar/schnitt-proportion-passform/
 image: images/glossar/_index.png
-image_alt: "Glossar-Illustration zu Glossar"
+image_alt: "Glossar-Illustration zu Mode, Stil, Farbe und Garderobe"
+relatedTerms:
+  - title: Stil
+    url: /glossar/stil/
+  - title: Farbberatung
+    url: /glossar/farbberatung/
+  - title: Garderobenplanung
+    url: /glossar/garderobenplanung/
+  - title: Passform
+    url: /glossar/passform/
 knowledge:
-  - Stilwissen schützt dich vor Fehlkäufen und schärft deine visuelle Wirkung im Alltag.
-  - Ein tiefes Verständnis von Passformen und Materialien erleichtert dir das tägliche Kombinieren.
+  - Stilwissen hilft dir, Kleidung nach Wirkung, Passform, Material und Kombinierbarkeit auszuwählen.
+  - Wer Farben, Proportionen und Materialien besser versteht, trifft im Alltag leichter stimmige Outfitentscheidungen.
+  - Eine klare Garderobenlogik kann Fehlkäufe reduzieren und das Kombinieren vereinfachen.
 history:
-  - Klassische Stilbegriffe wurzeln oft in der französischen Haute Couture und der traditionellen britischen Schneiderei.
-  - Historische Dresscodes wandeln sich stetig und passen sich modernen, flexiblen Lebensweisen an.
+  - Viele Begriffe der Mode und Schneiderkunst sind historisch aus dem Französischen, Englischen oder Italienischen geprägt.
+  - Dresscodes, Silhouetten und Stilregeln verändern sich mit gesellschaftlichen Gewohnheiten, Anlässen und Lebensweisen.
 ---
 
-Das ESKYNA Modeglossar ist dein digitales Nachschlagewerk für fundiertes Modewissen, historische Hintergründe und textile Expertise. Von klassischen Moderegeln über komplexe Konzepte der [Farbberatung](/glossar/farbberatung/) bis hin zu handwerklicher Präzision in Schnittführung und Materialkunde: Hier findest du klare Erklärungen und praxistaugliches Hintergrundwissen für deine tägliche Garderobe. Wahrer Stil basiert schließlich auf Wissen, nicht auf flüchtigen Trends.
+Das ESKYNA Mode Glossar ist dein Nachschlagewerk für Mode, Stil, Farben, Passform, Materialien und Garderobe. Hier findest du verständliche Erklärungen zu Begriffen, die dir helfen, Kleidung bewusster auszuwählen, besser zu kombinieren und gezielt einzusetzen.
 
-## Warum Modewissen deine tägliche Garderobe verändert
+Ob du wissen möchtest, was eine bestimmte Silhouette ausmacht, wie Farben wirken oder woran du gute Verarbeitung erkennst: Das Glossar übersetzt Fachwissen in klare Entscheidungen für deinen Alltag. Denn persönlicher Stil entsteht nicht durch jeden Trend, sondern durch Wissen darüber, was dir gefällt, was zu dir passt und was in deiner Garderobe wirklich funktioniert.
 
-Die Sprache der Mode hat eine faszinierende Geschichte. Viele unserer heutigen Stilbegriffe stammen aus der traditionellen französischen Schneiderkunst oder der britischen Maßschneiderei der Savile Row. Wenn du diese Begriffe verstehst, lernst du die feinen Qualitätsunterschiede von Textilien, Webarten und Schnitten selbstständig zu erkennen. Das hilft dir nicht nur bei der täglichen Outfitwahl, sondern schützt dich auch aktiv vor teuren [Fehlkäufen](/glossar/fehlkauf/).
+## Modebegriffe verstehen und sicher anwenden
 
-Durch gezielte [Garderobenplanung](/glossar/garderobenplanung/) entwickelst du ein klares System für deinen Kleiderschrank. Du erfährst, wie du eine minimalistische [Capsule Wardrobe](/glossar/capsule-wardrobe/) aufbaust, die perfekt zu deinem Lebensstil passt und dir jeden Morgen Zeit spart.
+Modebegriffe beschreiben weit mehr als einzelne Kleidungsstücke. Sie erklären Schnitte, Materialien, Farben, Stilrichtungen, Details und die Wirkung eines Outfits. Wenn du diese Sprache verstehst, kannst du Kleidungsstücke genauer beurteilen und gezielter auswählen.
 
-## Die Säulen des persönlichen Stils: Farbe, Schnitt und Material
+Das hilft dir etwa dabei,
 
-Ein harmonisches Outfit entsteht durch das bewusste Zusammenspiel verschiedener Gestaltungsregeln. Unser Stilratgeber begleitet dich bei jedem Schritt:
+- einen Schnitt nach seiner Wirkung und nicht nur nach dem Trend auszuwählen
+- Materialien, Verarbeitung und Pflege besser einzuschätzen
+- Outfits passend zu Anlass, Rolle und gewünschter Ausstrahlung zusammenzustellen
+- deine Garderobe sinnvoller zu ergänzen
+- [Fehlkäufe](/glossar/fehlkauf/) zu vermeiden
 
-- **Farbe und visuelle Wirkung:** Entdecke, wie du deine Ausstrahlung durch passende Kontraste stärkst. Lerne den Unterschied zwischen warmen und kühlen Untertönen kennen und gestalte deine persönliche Farbpalette.
-- **Passform und Proportionen:** Erfahre, wie unterschiedliche Schnitte deine Silhouette formen. Verstehe, wie [Proportionen](/glossar/proportion/) im Raum wirken und wie du den Blick gezielt führst.
-- **Textile Qualität:** Gewinne Sicherheit im Umgang mit feinen Naturfasern und modernen Funktionstextilien. Erkenne gute Verarbeitung bereits vor der Kabine.
+Stilwissen gibt dir keine starren Regeln. Es schafft Orientierung, damit du selbst entscheiden kannst, welche Farben, Formen und Details deine Persönlichkeit sichtbar machen.
 
-## Souverän auftreten bei jedem Anlass
+## Farbe verstehen und deine Ausstrahlung gezielt unterstützen
 
-Ob geschäftliches Meeting oder private Feier: Die Wahl deiner Kleidung sendet subtile Signale. Mit dem passenden Wissen entschlüsselst du offizielle [Dresscodes](/glossar/dresscode/) mühelos und übersetzt sie in eine moderne [Stilidentität](/glossar/stilidentitaet/), die sich niemals verkleidet anfühlt.
+Farbe ist oft das Erste, was an einem Outfit wahrgenommen wird. Sie beeinflusst, ob ein Look ruhig, klar, weich, präsent oder kontrastreich wirkt. Entscheidend sind nicht nur einzelne Farben, sondern auch ihr Unterton, ihre Helligkeit und ihre Intensität.
 
-Nutze diese Übersicht als deinen täglichen Begleiter für fundierte Entscheidungen vor dem Kleiderschrank und beim Einkaufen.
+Die Begriffe rund um [Farbberatung](/glossar/farbberatung/), [Farbtemperatur](/glossar/farbtemperatur/), [Unterton](/glossar/unterton/) und [Kontrast](/glossar/kontrast/) helfen dir, Farben bewusster einzuordnen. Daraus kannst du eine [Farbpalette](/glossar/farbpalette/) entwickeln, die zu deiner Ausstrahlung, deinem Alltag und deinen vorhandenen Kleidungsstücken passt.
 
-**Wähle jetzt deinen Einstieg: Suche gezielt nach Begriffen, navigiere alphabetisch oder entdecke die Themenwege nach deiner aktuellen Stilfrage.**
+Eine stimmige Farbwahl erleichtert auch das Kombinieren. Wenn deine Farben untereinander funktionieren, entstehen mit weniger Teilen mehr tragbare Outfits.
+
+## Passform, Schnitt und Proportionen richtig einordnen
+
+Ein Kleidungsstück kann hochwertig sein und trotzdem nicht zu dir oder deinem Alltag passen. Häufig liegt das nicht an deinem Körper, sondern an Schnitt, Länge, Volumen oder fehlender Bewegungsfreiheit.
+
+Im Glossar findest du Grundlagen zu [Passform](/glossar/passform/), [Schnitt](/glossar/schnitt/), [Proportion](/glossar/proportion/) und [Silhouette](/glossar/silhouette/). Diese Begriffe machen sichtbar, wie Kleidung Linien setzt, den Blick lenkt und sich beim Tragen anfühlt.
+
+Achte beim Anprobieren nicht nur darauf, ob ein Teil grundsätzlich passt. Prüfe auch diese Fragen:
+
+- Kannst du dich darin selbstverständlich bewegen?
+- Sitzen Schultern, Bund und Länge an den Stellen, die für dich stimmig sind?
+- Entsteht eine ruhige Linie oder ziehen Zugfalten und Details ungewollt Aufmerksamkeit an?
+- Passt das Verhältnis von Oberteil, Unterteil, Schuhen und Accessoires?
+
+So wird Kleidung nicht zu einem Kompromiss, sondern zu einem Teil deiner persönlichen Ausdrucksform.
+
+## Materialien und Verarbeitung bewusster auswählen
+
+Material entscheidet über Griff, Fall, Temperaturgefühl, Pflegeaufwand und Langlebigkeit eines Kleidungsstücks. Eine Bluse aus [Baumwolle](/glossar/baumwolle/) wirkt anders als ein Modell aus [Viskose](/glossar/viskose/), [Seide](/glossar/seide/) oder [Polyester](/glossar/polyester/). Auch die Webart und Oberfläche prägen, ob ein Stoff klar, weich, strukturiert, matt oder glänzend erscheint.
+
+Neben der Faser lohnt sich der Blick auf die Verarbeitung. Saubere Nähte, ein stimmiges Futter, haltbare Verschlüsse und ein guter Materialfall beeinflussen, wie lange ein Kleidungsstück gut aussieht und gern getragen wird. Begriffe wie [Materialqualität](/glossar/materialqualitaet/), [Verarbeitung](/glossar/verarbeitung/) und [Pflege](/glossar/pflege/) helfen dir, genauer hinzusehen.
+
+## Garderobe aufbauen statt zufällig einkaufen
+
+Eine funktionierende Garderobe besteht nicht aus möglichst vielen Teilen. Sie besteht aus Kleidungsstücken, die zu deinem Leben passen und sich miteinander kombinieren lassen. Dafür sind [Kombinierbarkeit](/glossar/kombinierbarkeit/), [Kaufkriterien](/glossar/kaufkriterien/) und eine klare [Garderobenplanung](/glossar/garderobenplanung/) besonders hilfreich.
+
+Die Idee einer [Capsule Wardrobe](/glossar/capsule-wardrobe/) kann dir dabei Orientierung geben. Entscheidend ist jedoch nicht eine feste Anzahl an Teilen, sondern eine Auswahl, die deine Anlässe, deine bevorzugten Farben, deine Passform und deine gewünschte Wirkung abdeckt.
+
+Frage dich vor einem Kauf: Ergänzt dieses Teil mindestens mehrere vorhandene Outfits? Wenn die Antwort klar ist, wird deine Garderobe mit der Zeit vielseitiger und persönlicher.
+
+## Dresscodes und Anlässe sicher übersetzen
+
+Kleidung kommuniziert immer im Kontext. Ein Outfit für ein Meeting, eine Hochzeit oder ein Abendessen darf unterschiedlich wirken, ohne dass du deinen Stil dafür aufgeben musst. [Dresscodes](/glossar/dresscode/) geben Orientierung zu Erwartungen eines Anlasses. Deine persönliche [Stilidentität](/glossar/stilidentitaet/) sorgt dafür, dass du dich darin wiedererkennst.
+
+Nutze Begriffe wie [Business Casual](/glossar/business-casual/), [Cocktail](/glossar/cocktail/) oder [festliche Kleidung](/glossar/festliche-kleidung/), um Anforderungen einzuordnen. Danach kannst du mit Farbe, Schnitt, Material und Accessoires entscheiden, wie formell, kreativ, zurückhaltend oder präsent dein Look sein soll.
+
+## Dein Glossar für Stilentscheidungen im Alltag
+
+Du musst nicht jeden Modebegriff kennen. Aber je besser du Farbe, Schnitt, Material und Wirkung verstehst, desto leichter wird es, gute Entscheidungen zu treffen. Du erkennst schneller, was dir fehlt, was du wirklich trägst und welche Stücke deine Garderobe sinnvoll ergänzen.
+
+Nutze das ESKYNA Glossar, um gezielt nach Begriffen zu suchen, alphabetisch zu stöbern oder über die Themenbereiche einzusteigen. So wird aus Modewissen praktische Orientierung für deinen Kleiderschrank.

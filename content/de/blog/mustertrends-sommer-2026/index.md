@@ -1,6 +1,6 @@
 ---
 title: "Mustertrends Sommer 2026"
-seoTitle: "Mustertrends Sommer 2026"
+seoTitle: "Mustertrends Sommer 2026 | ESKYNA"
 date: 2026-06-30
 description: "Die wichtigsten Mustertrends für Sommer 2026: Polka Dots, Vichy, Streifen, Blumen und Animal Prints plus Tipps für Stil, Figur und Wirkung."
 summary: "Polka Dots, Vichy, Streifen, Blumen und Animal Prints: So wählst du Mustertrends, die wirklich zu deinem Stil passen."

@@ -1,5 +1,6 @@
 ---
 title: "Shop"
+seoTitle: "ESKYNA Shop | Produkte & Merch"
 description: "ESKYNA Shop - Exklusive Produkte und Merchandise"
 products:
   - title: "ESKYNA Kleeblatt als 3D Skulptur"

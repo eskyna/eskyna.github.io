@@ -1,99 +1,151 @@
 ---
 title: Was sind Espadrilles?
 term: Espadrilles
-description:
-  Espadrilles sind leichte Sommerschuhe mit Bast oder Jutesohle und wirken entspannt, natürlich
-  und mediterran.
+description: Espadrilles sind leichte Sommerschuhe mit einer charakteristischen Jute- oder Espartogras-Sohle. Erfahre, welche Varianten es gibt, wie du Espadrilles kombinierst und worauf du bei Passform und Pflege achtest.
 category: Schuhe
 tags:
   - espadrilles
-  - schuhe
-  - sommer
-  - leinen
+  - sommerschuhe
+  - jutesohle
+  - sommerschuhe
+  - sommermode
 keywords:
   - espadrilles
   - was sind espadrilles
+  - espadrilles schuhe
   - sommerschuhe
+  - espadrilles kombinieren
+  - espadrilles pflegen
 weight: 8
 image: images/glossar/espadrilles.png
-image_alt: Editoriale ESKYNA Grafik zum Glossarbegriff Espadrilles mit ruhigen Formen und feinen Farbfeldern
+image_alt: Editoriale ESKYNA Grafik zu Espadrilles mit natürlichen Farben, geflochtener Jutesohle und sommerlicher Wirkung
 relatedTerms:
-  - title: Leinen
-    url: /glossar/leinen/
   - title: Sandale
     url: /glossar/sandale/
   - title: Keilabsatz
     url: /glossar/keilabsatz/
-  - title: Kleid
-    url: /glossar/kleid/
+  - title: Slip-on
+    url: /glossar/slip-on/
+  - title: Leinen
+    url: /glossar/leinen/
+  - title: Schuh-Saum-Beziehung
+    url: /glossar/schuh-saum-beziehung/
+history:
+  - Espadrilles stammen aus den Pyrenäen und waren bereits im 14. Jahrhundert als einfache, funktionale Arbeitsschuhe verbreitet.
+  - In Katalonien und im Baskenland wurden Sohlen traditionell aus Espartogras gefertigt.
+  - In den 1970er-Jahren machte Yves Saint Laurent Espadrilles mit Keilabsatz in der internationalen Mode sichtbar.
+knowledge:
+  - Die typische Sohle besteht aus geflochtener Jute oder Espartogras und ist bei vielen Modellen unten durch Gummi geschützt.
+  - Espadrilles gibt es flach, mit Plateau oder als Variante mit Keilabsatz.
+  - Nässe kann die Naturfasern der Sohle und ihre Form beeinträchtigen.
 faq:
   items:
     - q: Wie pflege ich Espadrilles richtig?
-      a: Da die Sohle aus Naturfasern wie Jute besteht, solltest du die Schuhe niemals in der Waschmaschine reinigen oder bei Regen tragen. Schmutz auf dem Canvas lässt sich vorsichtig mit einer weichen Bürste und etwas Seifenwasser entfernen.
+      a: Reinige das Obermaterial vorsichtig mit einer weichen Bürste oder einem nur leicht feuchten Tuch. Die Jutesohle sollte möglichst trocken bleiben. Waschmaschine, langes Einweichen und Regenwetter sind für Espadrilles ungeeignet.
     - q: Trägt man Espadrilles mit Socken?
-      a: Nein, Espadrilles werden traditionell barfuß getragen. Das atmungsaktive Obermaterial aus Baumwolle oder Leinen sorgt auch an heißen Tagen für ein angenehmes Fußklima.
-history: Espadrilles stammen ursprünglich aus den Pyrenäen, wo sie bereits im 14. Jahrhundert als robuste Arbeitsschuhe getragen wurden. In den 1970er-Jahren verhalf der Modeschöpfer Yves Saint Laurent dem Schuh zum Durchbruch in der Haute Couture, indem er gemeinsam mit dem spanischen Familienbetrieb Castañer die erste Variante mit Keilabsatz entwarf.
-knowledge: Die geflochtene Sohle echter Espadrilles besteht aus Jute oder Espartogras. Um den Schuh alltagstauglich und widerstandsfähiger gegen Abrieb zu machen, wird die Unterseite der Natursohle heute meist mit einer dünnen Gummischicht versehen.
+      a: Espadrilles werden häufig barfuß oder mit unsichtbaren Füßlingen getragen. Wenn du Socken sichtbar kombinierst, wird der Look bewusster und weniger klassisch mediterran.
+    - q: Wie sollten Espadrilles sitzen?
+      a: Sie sollten sicher am Fuß sitzen, ohne vorne oder an der Ferse zu drücken. Textile Obermaterialien können sich beim Tragen leicht anpassen. Prüfe deshalb beim Anprobieren besonders den Halt an der Ferse.
 lastmod: "2026-07-09"
 ---
 
-## Definition: Was macht den spanischen Sommerschuh aus?
+## Definition: Was sind Espadrilles?
 
-**Espadrilles** sind leichte, geschlossene Sommerschuhe, deren charakteristisches Merkmal eine geflochtene Sohle aus Naturfasern wie Jute oder Espartogras ist. Der Schaft besteht traditionell aus robustem Canvas, luftigem [Leinen](/glossar/leinen/) oder weichem Veloursleder. Der Schuh umschließt den Fuß komplett, lässt sich unkompliziert anziehen und wird barfuß getragen.
+**Espadrilles** sind leichte Schuhe für warme Tage. Ihr wichtigstes Erkennungsmerkmal ist die geflochten wirkende Sohle aus Jute oder Espartogras. Das Obermaterial besteht häufig aus Canvas, Baumwolle, [Leinen](/glossar/leinen/) oder Leder.
 
-## Die Geschichte der Espadrilles: Vom Bauernschuh zur Haute Couture
+Klassische Espadrilles sind flach und geschlossen wie ein leichter [Slip-on](/glossar/slip-on/). Es gibt sie aber auch als offene Sommermodelle, als Sandaletten oder mit [Keilabsatz](/glossar/keilabsatz/). Durch ihre Naturfasern wirken sie entspannt, sommerlich und mediterran.
 
-Aus modehistorischer Sicht haben Espadrilles eine faszinierende Entwicklung hinter sich. Ihre Wurzeln reichen bis in das 14. Jahrhundert zurück. In den Pyrenäen, genauer gesagt in Katalonien und im Baskenland, dienten sie als günstige und funktionale Arbeitsschuhe für Bauern, Minenarbeiter und Soldaten. Der Name leitet sich von dem zähen Espartogras ab, aus dem die langlebigen Sohlen geflochten wurden.
+## Espadrilles einfach erklärt
 
-Den großen Sprung auf die internationalen Laufstege schaffte der Schuh in den 1970er-Jahren. Yves Saint Laurent kooperierte mit dem spanischen Traditionshersteller Castañer und brachte eine modische Sensation auf den Markt: die ersten Espadrilles mit einem eleganten [Keilabsatz](/glossar/keilabsatz/). Damit war der einstige Arbeiterschuh endgültig im High-Fashion-Bereich angekommen.
+Eine Espadrille erkennst du meist sofort an der sichtbaren Flechtung an der Sohlenseite. Diese Struktur unterscheidet den Schuh von gewöhnlichen Stoffschuhen und prägt seine natürliche, handwerkliche Wirkung.
 
-## Verschiedene Varianten für deine Garderobe
+Der Schuh ist leichter und informeller als ein geschlossener Lederschuh, aber bedeckter als eine klassische [Sandale](/glossar/sandale/). Genau deshalb funktionieren Espadrilles gut, wenn du im Sommer luftig gekleidet sein möchtest, aber keinen sehr offenen Schuh tragen willst.
 
-Heute gibt es die beliebten Sommerschuhe in verschiedenen Ausführungen, die jeweils eine ganz eigene Stilwirkung entfalten:
+Viele Modelle haben unter der geflochtenen Natursohle eine dünne Gummischicht. Sie schützt die Sohle beim Gehen und macht Espadrilles alltagstauglicher. Die sichtbare Jute bleibt dennoch ein empfindlicher Teil des Schuhs.
 
-- **Klassisch flach:** Diese Modelle erinnern an einen [Slip-on](/glossar/slip-on/). Sie sind unkompliziert, flach und strahlen pure Lässigkeit aus.
-- **Espadrilles mit Keilabsatz:** Diese Variante wird auch Keil-Espadrilles genannt. Sie streckt dein Bein optisch, wirkt feminin und lässt sich wunderbar zu festlicheren Anlässen im Sommer tragen.
-- **Plateau-Espadrilles:** Eine durchgehende Sohle mit [Plateau](/glossar/plateau/) schenkt dir zusätzliche Höhe, behält aber den entspannten, flachen Tragekomfort bei.
+## Geschichte der Espadrilles
 
-## Styling-Tipps: So kombinierst du Espadrilles stilsicher
+Espadrilles haben ihren Ursprung in den Pyrenäen. Bereits im 14. Jahrhundert wurden sie in Regionen wie Katalonien und dem Baskenland als funktionale Arbeitsschuhe getragen. Die Sohlen bestanden traditionell aus Espartogras, einer robusten Pflanzenfaser, von der sich auch der Name des Schuhs ableitet.
 
-Espadrilles sind die perfekte Alternative, wenn eine [Sandale](/glossar/sandale/) zu offen und ein geschlossener Halbschuh zu warm oder zu streng wirkt. Sie bringen sofort eine mediterrane Leichtigkeit in jedes Outfit.
+Der einfache Schuh wurde später Teil der internationalen Mode. In den 1970er-Jahren entwickelte Yves Saint Laurent gemeinsam mit dem spanischen Unternehmen Castañer Espadrilles mit Keilabsatz. Die neue Variante verband die natürliche Jutesohle mit einer eleganteren, höheren Silhouette und machte Espadrilles auch für modische Anlässe interessant.
 
-- **Der entspannte Alltagslook:** Flache Modelle harmonieren perfekt mit einer verkürzten Jeans oder einer leichten Hose wie den [Chinos](/glossar/chinos/). Wenn du den Saum der Hose leicht hochrollst, lenkst du den Fokus geschickt auf die handwerkliche Struktur der Sohle.
-- **Femininer Sommerstil:** Kombiniere Keil-Espadrilles mit einem schwingenden [Kleid](/glossar/kleid/) oder einem leichten Rock. Sie passen auch hervorragend zu dem eleganten, unaufgeregten Stil der [Coastal Grandmother](/glossar/coastal-grandmother/).
-- **Harmonische Materialien:** Da die Sohle der Schuhe sehr natürlich wirkt, solltest du diese Ästhetik im restlichen Outfit aufgreifen. Kleidungsstücke aus [Leinen](/glossar/leinen/) oder Accessoires wie eine geflochtene Strandtasche runden das Gesamtbild perfekt ab.
+## Welche Espadrilles gibt es?
 
-## Worauf du beim Kauf und Tragen achten solltest
+### Flache Espadrilles
 
-- **Vorsicht bei Nässe:** Da die Sohle aus pflanzlichen Fasern besteht, saugt sie sich bei Regen mit Wasser voll, was die Struktur dauerhaft beschädigen kann. Trage deine Espadrilles deshalb nur an trockenen Tagen.
-- **Die richtige Passform:** Der Canvasstoff weitet sich beim Tragen noch etwas. Kaufe die Schuhe daher ruhig so, dass sie anfangs kompakt am Fuß sitzen, damit du später beim Gehen nicht herausrutschst.
-- **Qualität der Sohle:** Achte auf eine dichte Flechtung und eine saubere Verbindung zwischen dem Oberstoff und der Jute. Hochwertige Modelle sind zudem mit einer dünnen Gummischicht unter der Sohle geschützt.
+Flache Espadrilles sind die klassischste Variante. Sie umschließen den Fuß meist mit einem textilen Schaft und wirken unkompliziert, leicht und lässig. Sie passen besonders gut zu sommerlichen Alltagslooks, Shorts, Jeans und lockeren Hosen.
 
-## Typische Missverständnisse
+### Espadrilles mit Keilabsatz
 
-**Missverständnis:** Espadrilles sind reine Strandschuhe.  
-**Besser:** Edle Varianten aus Leder oder mit filigraner Schnürung am Knöchel sind absolut citytauglich und funktionieren im Sommer sogar im entspannten Business-Alltag.
+Espadrilles mit Keilabsatz verbinden Höhe mit einer vergleichsweise stabilen Auftrittsfläche. Sie wirken femininer und angezogener als flache Modelle. Zu Kleidern, Röcken oder einer weiten Hose können sie eine lange, ruhige Beinlinie unterstützen.
 
-**Missverständnis:** Jeder Schuh mit Strohoptik ist ein Espadrille.  
-**Besser:** Viele günstige Schuhe imitieren den Look nur durch ein aufgeklebtes Band an der Sohlenseite. Echte Handwerkskunst erkennst du an der durchgehenden, geflochtenen Sohlenstruktur.
+### Plateau-Espadrilles
 
-## Spiegel-Check: Passt dein Outfit?
+Bei Plateau-Espadrilles ist die Sohle durchgehend erhöht. Das gibt sichtbar Höhe, ohne dass der Fuß so stark nach vorn geneigt ist wie bei einem hohen Absatz. Die Wirkung bleibt modern und sommerlich, kann durch die stärkere Sohle aber präsenter ausfallen.
 
-Betrachte dich kurz im Ganzkörperspiegel. Wenn du Espadrilles trägst, sollte das gesamte Outfit eine gewisse Leichtigkeit ausstrahlen. Ein schwerer Wollmantel oder eine dicke, dunkle Winterhose erzeugen meist einen zu harten Kontrast. Fließende Stoffe, helle Farben und natürliche Texturen sorgen hingegen dafür, dass dein Look harmonisch und stimmig wirkt.
+### Espadrille-Sandaletten
+
+Offene Varianten verbinden die typische Jutesohle mit Riemen, Fersenhalt oder Schnürungen am Knöchel. Sie liegen optisch zwischen Espadrille und Sandalette. Achte hier besonders auf den Sitz der Riemen und darauf, dass der Fuß beim Gehen nicht nach vorn rutscht.
+
+## Espadrilles kombinieren: So wirken sie stimmig
+
+Espadrilles bringen Leichtigkeit in ein Outfit. Besonders gut harmonieren sie mit natürlichen Materialien, hellen Farben und einer entspannten Silhouette.
+
+### Für den Alltag
+
+Flache Espadrilles passen zu Jeans, [Chinos](/glossar/chinos/), leichten Stoffhosen oder Shorts. Ein sichtbarer Knöchel schafft dabei eine luftige Verbindung zwischen Schuh und Hose. Die Wirkung der [Schuh-Saum-Beziehung](/glossar/schuh-saum-beziehung/) ist gerade bei flachen Schuhen entscheidend: Ein zu langer, schwer aufliegender Saum kann den Look schnell unruhig machen.
+
+### Zu Kleidern und Röcken
+
+Keil-Espadrilles funktionieren gut zu einem luftigen [Kleid](/glossar/kleid/), einem Midirock oder einem Wickelrock. Die geflochtene Sohle nimmt festlicheren oder weicheren Looks etwas Strenge und lässt sie sommerlicher wirken.
+
+### Mit Leinen und Naturtönen
+
+Die natürliche Sohle ergänzt Materialien wie [Leinen](/glossar/leinen/), Baumwolle und Bast besonders stimmig. Farben wie Creme, Beige, Sand, Cognac, Navy oder Oliv wirken ruhig und machen Espadrilles vielseitig kombinierbar.
+
+### Als Stilkontrast
+
+Zu einem klaren Hemd, einer Bluse oder einer schlichten Stoffhose können Espadrilles bewusst die formelle Wirkung reduzieren. Der Look bleibt gepflegt, wirkt aber weniger streng als mit Loafern oder klassischen Lederschuhen.
+
+## Worauf du beim Kauf achten solltest
+
+- **Sitz:** Die Ferse sollte beim Gehen nicht herausrutschen. Gleichzeitig darf der Schuh an Zehen, Spann und Ferse nicht drücken.
+- **Sohle:** Achte auf eine dichte, sauber gearbeitete Flechtung und eine stabile Verbindung zwischen Obermaterial und Sohle.
+- **Gummischutz:** Eine dünne Gummischicht unter der Jutesohle verbessert Haltbarkeit und Trittsicherheit.
+- **Material:** Canvas und Baumwolle wirken lässig. Leder oder Veloursleder können Espadrilles etwas angezogener machen.
+- **Einsatzbereich:** Espadrilles sind Sommerschuhe für trockene Tage. Für lange Wege auf nassem Untergrund oder bei Regen sind sie weniger geeignet.
+
+## Espadrilles richtig pflegen
+
+Die Jute- oder Espartogras-Sohle sollte möglichst nicht durchnässen. Feuchtigkeit kann die Fasern aufquellen lassen und die Form beeinträchtigen. Lass die Schuhe nach dem Tragen an der Luft trocknen, aber nicht direkt auf einer Heizung oder in starker Sonne.
+
+Leichten Staub auf dem Obermaterial kannst du mit einer weichen Bürste entfernen. Flecken auf Canvas behandelst du vorsichtig und punktuell mit wenig Wasser und milder Seife. Vermeide es, die gesamte Sohle nass zu reinigen oder Espadrilles in der Waschmaschine zu waschen.
+
+## Typische Missverständnisse über Espadrilles
+
+**Missverständnis: Espadrilles sind nur Strandschuhe.**  
+**Besser:** Flache Modelle wirken sehr entspannt, doch hochwertige Varianten aus Leder oder Espadrilles mit Keilabsatz passen auch zu Stadtlooks, Sommerfesten und gepflegten Freizeitoutfits.
+
+**Missverständnis: Jeder Schuh mit einer Bastkante ist eine Espadrille.**  
+**Besser:** Manche Schuhe greifen nur die Optik auf. Typisch für Espadrilles ist die sichtbar geflochtene Sohle aus Naturfasern oder eine entsprechende Verarbeitung, nicht allein ein dekoratives Band an der Sohlenseite.
+
+**Missverständnis: Espadrilles müssen immer barfuß getragen werden.**  
+**Besser:** Barfuß oder mit Füßlingen ist die klassische Wahl. Sichtbare Socken sind möglich, verändern aber die leichte, mediterrane Wirkung deutlich.
+
+## Praxischeck: Passt die Espadrille zu deinem Outfit?
+
+- Wähle flache Espadrilles für unkomplizierte, entspannte Alltagslooks.
+- Nutze Keil-Espadrilles, wenn du zu einem Kleid oder Rock etwas mehr Höhe und eine femininere Wirkung möchtest.
+- Halte die Säume von Hosen bewusst kurz genug, damit Schuh und Knöchel sichtbar bleiben.
+- Greife bei der Kleidung natürliche Texturen wie Leinen, Baumwolle oder geflochtene Accessoires auf.
+- Trage Espadrilles an trockenen Tagen, damit die Naturfasersohle möglichst lange schön bleibt.
 
 ## ESKYNA-Merksatz
 
-Espadrilles bringen die Leichtigkeit des Sommers in deinen Look, am schönsten in Kombination mit natürlichen Materialien und harmonischen Farben.
-
-## Praxischeck
-
-Wenn du den Begriff Espadrilles für deine Garderobe nutzt, denke an die Wirkung des Schuhwerks auf deine gesamte Silhouette. Schuhe schließen deine Outfit-Formel ab. Sie beeinflussen deine Haltung und bestimmen, wie formell oder lässig du wahrgenommen wirst.
-
-- Prüfe die Beziehung zwischen Schuh und Saumlänge. Ein freier Knöchel streckt dein Bein optisch.
-- Entscheide dich für neutrale Töne wie Beige, Creme oder Navy, um den Schuh vielseitig kombinieren zu können.
+Espadrilles sind Sommerschuhe mit natürlicher Leichtigkeit. Je klarer Material, Saumlänge und Anlass zusammenpassen, desto stimmiger wirkt ihr mediterraner Charakter.
 
 ## Beratungsblick
 
-In der persönlichen Stilberatung betrachten wir Espadrilles als wunderbares Werkzeug, um Strenge aus einem Look zu nehmen. Wenn dir ein Outfit mit Chino und Bluse im Alltag zu formell wirkt, tausche einfach die Lederschuhe gegen flache Espadrilles. Du wirst merken, wie sich die gesamte Wirkung deines Auftretens sofort entspannt.
+Espadrilles sind eine gute Wahl, wenn du einem Outfit bewusst mehr Weichheit und Freizeitgefühl geben möchtest. Tausche zum Beispiel bei einer leichten Hose und Bluse einen formellen Schuh gegen flache Espadrilles aus. So bleibt dein Look gepflegt, wirkt aber sofort entspannter und zugänglicher.
 
-Weitere Anregungen für dein perfektes Schuhwerk findest du in unserer Kategorie [Schuhe](/glossar/schuhe/).
+Weitere passende Begriffe findest du in der Kategorie [Schuhe](/glossar/schuhe/).

@@ -1,5 +1,6 @@
 ---
 title: "Über mich"
+seoTitle: "Über mich: Stilberatung mit System | ESKYNA"
 eyebrow: "Natalia Kleemann"
 image: "images/portraits/natalia-schreibtisch.png"
 facts:

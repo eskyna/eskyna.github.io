@@ -1,5 +1,6 @@
 ---
 title: "Rosa kombinieren - 3 Looks"
+seoTitle: "Rosa kombinieren: 3 Looks | ESKYNA"
 date: 2026-05-15
 description: "Rosa ist vielseitiger als viele denken. Entdecke, wie du Rosa modern, stilvoll und alltagstauglich kombinieren kannst."
 summary: "Wie Rosa je nach Nuance, Material und Kombination sportlich, romantisch oder business-tauglich wirkt."

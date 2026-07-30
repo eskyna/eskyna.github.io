@@ -1,0 +1,92 @@
+{{- /*
+  Normalize a document <title> to SEO length 30–60 characters.
+  Usage: {{ $title := partial "seo-document-title.html" $rawTitle }}
+*/ -}}
+{{- $title := strings.TrimSpace (. | plainify) -}}
+{{- $min := 30 -}}
+{{- $max := 60 -}}
+
+{{- /* Detect known brand suffixes (longest first). */ -}}
+{{- $suffix := "" -}}
+{{- $main := $title -}}
+{{- $known := slice " | ESKYNA Glossary" " | ESKYNA Glossar" " | Style & Image Coaching" " | ESKYNA Style Coaching" " | ESKYNA Style & Image" " | ESKYNA" -}}
+{{- range $known -}}
+  {{- if and (eq $suffix "") (strings.HasSuffix $title .) -}}
+    {{- $suffix = . -}}
+    {{- $main = strings.TrimSpace (strings.TrimSuffix . $title) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $title) $max -}}
+  {{- if eq $suffix "" -}}
+    {{- $suffix = " | ESKYNA" -}}
+  {{- else if and (gt (len $suffix) 10) (gt (add (len $main) (len $suffix)) $max) -}}
+    {{- $suffix = " | ESKYNA" -}}
+  {{- end -}}
+  {{- $budget := sub $max (len $suffix) -}}
+  {{- if and (in $main ":") (gt (len $main) $budget) -}}
+    {{- $before := strings.TrimSpace (index (split $main ":") 0) -}}
+    {{- if and (ge (len $before) 8) (le (len $before) $budget) -}}
+      {{- $main = $before -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and (in $main " | ") (gt (len $main) $budget) -}}
+    {{- $before := strings.TrimSpace (index (split $main " | ") 0) -}}
+    {{- if and (ge (len $before) 8) (le (len $before) $budget) -}}
+      {{- $main = $before -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if gt (len $main) $budget -}}
+    {{- $cut := substr $main 0 $budget -}}
+    {{- if in $cut " " -}}
+      {{- $main = strings.TrimRight " -–—,;:|/" (replaceRE "[[:space:]]+[^[:space:]]*$" "" $cut) -}}
+    {{- else -}}
+      {{- $main = strings.TrimRight " -–—,;:|/" $cut -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $title = printf "%s%s" $main $suffix -}}
+{{- end -}}
+
+{{- if lt (len $title) $min -}}
+  {{- $core := $main -}}
+  {{- if eq (strings.TrimSpace $core) "" -}}
+    {{- $core = strings.TrimSpace (strings.TrimSuffix " | ESKYNA" $title) -}}
+  {{- end -}}
+  {{- if eq (strings.TrimSpace $core) "" -}}
+    {{- $core = $title -}}
+  {{- end -}}
+  {{- /* Prefer natural expansions that stay within 30–60. */ -}}
+  {{- $candidates := slice
+    (printf "%s | ESKYNA Glossary" $core)
+    (printf "%s | ESKYNA Glossar" $core)
+    (printf "%s | ESKYNA Style Coaching" $core)
+    (printf "%s - style articles | ESKYNA" $core)
+    (printf "%s - styling articles | ESKYNA" $core)
+    (printf "ESKYNA %s | Style & Image Coaching" $core)
+    (printf "ESKYNA style topic: %s" $core)
+  -}}
+  {{- $picked := "" -}}
+  {{- range $candidates -}}
+    {{- if and (eq $picked "") (ge (len .) $min) (le (len .) $max) -}}
+      {{- $picked = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if ne $picked "" -}}
+    {{- $title = $picked -}}
+  {{- else -}}
+    {{- $title = printf "ESKYNA %s | Style & Image Coaching" $core -}}
+    {{- if gt (len $title) $max -}}
+      {{- $title = strings.TrimRight " -–—,;:|/" (substr $title 0 $max) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Absolute floor: never return a title under 30 characters. */ -}}
+{{- if lt (len $title) $min -}}
+  {{- $title = printf "ESKYNA Style & Image Coaching | %s" $title -}}
+  {{- if gt (len $title) $max -}}
+    {{- $title = strings.TrimRight " -–—,;:|/" (substr $title 0 $max) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $title -}}

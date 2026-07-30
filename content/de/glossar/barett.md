@@ -1,107 +1,181 @@
 ---
 title: "Was ist ein Barett?"
 term: "Barett"
-description: "Was ist ein Barett? Erfahre, wie die runde randlose Kopfbedeckung geformt wird, wie sie sich von Beanie und Baskenmütze abgrenzt und wie sie modern wirkt."
+description: "Ein Barett ist eine runde, randlose und formbare Kopfbedeckung. Erfahre, woran du es erkennst, wie es sitzt, wie es sich von Beanie und Hut unterscheidet und wie du es modern kombinierst."
 category: "Accessoires"
 slug: "barett"
 seoTitle: "Barett: Form, Sitz und stilvolle Kombinationen | ESKYNA"
 image: "images/glossar/barett.png"
 image_alt: "Schwarzes Wollbarett leicht seitlich auf dem Kopf getragen zu cremefarbenem Rollkragen und strukturiertem Mantel"
 lastmod: "2026-07-22"
-history: "Vom Adelssymbol des 15. Jahrhunderts zum Pariser Intellektuellen-Schick der 1930er-Jahre und dem Symbol politischer Bewegungen."
-knowledge: "Die flexible Passform ermöglicht verschiedene Trageweisen, die dein Gesicht rahmen und Akzente setzen."
-relatedTerms: ["beanie", "hut", "accessoire", "parisian-chic", "stilbruch"]
+history:
+  - "Flache, randlose Kopfbedeckungen waren bereits im 15. und 16. Jahrhundert in Europa verbreitet und wurden in unterschiedlichen gesellschaftlichen Kontexten getragen."
+  - "Das Barett ist mit regionalen Traditionen der Pyrenäen, militärischen Uniformen, akademischer Kleidung und späteren Modeströmungen verbunden."
+knowledge:
+  - "Ein Barett hat keine Krempe und keinen Schirm. Seine weiche, flache Krone lässt sich bewusst formen."
+  - "Die Position auf dem Kopf verändert die Gesichtsrahmung und damit die Wirkung des gesamten Outfits."
+  - "Im heutigen Sprachgebrauch werden Barett und Baskenmütze häufig synonym verwendet."
+relatedTerms:
+  - title: "Beanie"
+    url: "/glossar/beanie/"
+  - title: "Hut"
+    url: "/glossar/hut/"
+  - title: "Gesichtsrahmung"
+    url: "/glossar/gesichtsrahmung/"
+  - title: "Parisian Chic"
+    url: "/glossar/parisian-chic/"
+  - title: "Stilbruch"
+    url: "/glossar/stilbruch/"
+faq:
+  items:
+    - q: "Muss ein Barett immer schräg getragen werden?"
+      a: "Nein. Du kannst es gerade, leicht seitlich oder weiter hinten tragen. Entscheidend sind ein sicherer Sitz und die Wirkung, die du erzielen möchtest."
+    - q: "Ist ein Barett dasselbe wie eine Baskenmütze?"
+      a: "Im Alltag werden beide Begriffe meist gleich verwendet. Die Baskenmütze bezeichnet häufig die traditionelle Variante aus dem Baskenland und den Pyrenäen."
+    - q: "Kann man ein Barett bei Regen tragen?"
+      a: "Leichter Regen ist für dicht gewalkte Wolle meist kein Problem. Bei starkem Regen kann sich das Material jedoch vollsaugen und die Form verändern."
 ---
-
-Das **Barett** (abgeleitet vom französischen _béret_) ist eine klassische, runde und randlose Kopfbedeckung aus weichem, formbarem Material. Ob gerade aufgesetzt, lässig nach hinten gezogen oder elegant seitlich geneigt: Dieses zeitlose [Accessoire](/glossar/accessoire/) der Modegeschichte vereint Funktionalität mit einem ausdrucksstarken, wandelbaren Stil.
 
 ## Definition
 
-Das Barett besteht traditionell aus gewalkter Wolle, hochwertigem [Filz](/glossar/filz/), feinem Strick, Baumwolle oder modernem Leder. Charakteristisch ist das Fehlen eines Schirms oder einer Krempe sowie der schmale, meist nach innen geschlagene Rand. Die flache, runde Krone lässt sich flexibel formen und auf dem Kopf verteilen. Typisch für klassische Modelle ist der kleine Stiel in der Mitte der Krone, im Französischen auch _Cabillou_ genannt.
+Ein **Barett** ist eine runde, flache und randlose Kopfbedeckung aus weichem, formbarem Material. Typisch sind die breite, flexible Krone und ein schmaler Innenrand, der am Kopf sitzt. Anders als ein [Hut](/glossar/hut/) besitzt ein Barett weder Krempe noch Schirm.
 
-In der Modewelt werden die Begriffe Barett und Baskenmütze heute oft synonym verwendet. Modehistorisch blickt das Barett (dessen Name auf das mittellateinische _barretum_ für Kappe zurückgeht) jedoch auf eine vielseitige Entwicklung zurück: Im 15. und 16. Jahrhundert war es eine flache, oft prunkvolle Kopfbedeckung des Adels, der Gelehrten und des Bildungsbürgertums. Später etablierte es sich als fester Bestandteil militärischer Uniformen weltweit sowie als akademische Kopfbedeckung an Universitäten. In den 1930er-Jahren machten Stilikonen wie Coco Chanel das Barett schließlich für die [Haute Couture](/glossar/haute-couture/) salonfähig, woraufhin es zum Inbegriff des intellektuellen [Parisian Chic](/glossar/parisian-chic/) avancierte.
+Klassische Modelle bestehen oft aus gewalkter Wolle oder [Filz](/glossar/filz/). Daneben gibt es Barette aus Strick, Baumwolle, Leder oder Mischgeweben. Viele traditionelle Varianten haben in der Mitte der Krone ein kleines Stielchen. Dieses Detail ist sichtbar, aber nicht bei jedem modernen Modell vorhanden.
 
-## Einfach erklärt
+Das Barett ist ein Accessoire, das direkt am Gesicht wirkt. Farbe, Material, Größe und Trageweise entscheiden daher stark darüber, ob dein Look klassisch, kreativ, reduziert, feminin oder markant erscheint.
 
-Ein Barett ist eine flache, weiche Mütze ohne Schirm, die sich wie kaum ein anderes Accessoire formen lässt. Je nachdem, wie du es aufsetzt, verändert sich deine gesamte Ausstrahlung im Handumdrehen:
+## Was ist ein Barett einfach erklärt?
 
-- **Gerade getragen:** Wirkt modern, klar, minimalistisch und strukturiert.
-- **Seitlich geneigt:** Verleiht dem Look die klassisch-französische, künstlerische Note.
-- **Nach hinten geschoben:** Erzeugt eine weiche, lässige Silhouette, die das Gesicht komplett freigibt.
+Stell dir ein Barett als weiche Mütze ohne Schirm vor, deren Stofffläche du gezielt verteilen kannst. Du setzt es nicht nur auf, sondern formst es: Das Volumen kann seitlich fallen, nach hinten geschoben oder gleichmäßig über dem Kopf verteilt werden.
 
-## Warum das Barett wichtig ist
+Gerade diese Formbarkeit unterscheidet das Barett von vielen anderen Kopfbedeckungen. Ein Modell, das mittig und flach sitzt, wirkt klar und modern. Seitlich geneigt bekommt es eine klassisch künstlerische Note. Weiter hinten getragen öffnet es die Stirn und lässt das Gesicht freier erscheinen.
 
-Als modisches Accessoire nimmt das Barett eine Sonderstellung ein. Anders als ein strukturierter [Hut](/glossar/hut/) fügt es der Silhouette keine künstliche vertikale Höhe hinzu. Im Gegensatz zur sportlichen [Beanie](/glossar/beanie/) bewahrt es stets eine elegante, angezogene Note. Es sorgt für eine sanfte [Gesichtsrahmung](/glossar/gesichtsrahmung/) und verleiht selbst schlichten Outfits mit einem [Basic](/glossar/basic/) Mantel oder einem [Oversized-Blazer](/glossar/oversized-blazer/) sofort eine intellektuelle, stilvolle Ästhetik.
+Als [Accessoire](/glossar/accessoire/) kann ein Barett ein schlichtes Outfit gezielt aufwerten. Es ergänzt etwa einen Wollmantel, einen Blazer oder einen Stricklook, ohne so dominant zu sein wie ein großer Hut.
 
-Da die Kopfbedeckung direkt am Gesicht getragen wird, spielen Farbe und Material eine entscheidende Rolle für die Gesamtwirkung:
+## Barett, Baskenmütze und Beanie: die Unterschiede
 
-- **Schwarze Wolle:** Wirkt grafisch, zeitlos und kontrastreich.
-- **Creme- und Pastelltöne:** Erzeugen eine weiche, feminine und harmonische Ausstrahlung.
-- **Kräftiges Rot:** Setzt ein selbstbewusstes, frankophiles Statement.
-- **Echtes Leder:** Verleiht dem Look einen modernen, kantigen Touch mit subtiler Rebellion.
+Barett und Baskenmütze werden heute oft synonym verwendet. Im engeren Sinn wird die Baskenmütze häufig mit der traditionellen Kopfbedeckung aus dem Baskenland und den Pyrenäen verbunden. Sie ist meist rund, flach, aus Filz oder gewalkter Wolle gearbeitet und trägt oft das kleine Stielchen in der Mitte.
 
-## Blick aus der Beratung
+Ein modisches Barett greift diese Grundform auf, kann aber deutlich variieren. Es kann kleiner oder voluminöser sein, aus Leder bestehen oder bewusst reduziert gestaltet sein.
 
-Ein Barett entfaltet seine Wirkung erst durch das bewusste Drapieren. Setze es nicht einfach nur mittig auf, sondern forme das Volumen aktiv mit den Händen, um den gewünschten Look zu kreieren. Um ein Verrutschen bei feinem oder glattem Haar zu verhindern, empfiehlt sich die Nutzung von kleinen, unsichtbaren Haarnadeln.
+Von einer [Beanie](/glossar/beanie/) unterscheidet sich das Barett klar:
 
-Aus stilistischer Sicht gilt bei diesem Klassiker: Vermeide eine Überladung mit Klischees. Die Kombination aus rotem Barett, gestreiftem Breton-Shirt, rotem Lippenstift und Trenchcoat kann schnell wie eine Verkleidung wirken. Stilvoller und zeitgemäßer ist ein gezielter [Stilbruch](/glossar/stilbruch/). Kombiniere das Barett beispielsweise mit minimalistischem Strick, einer weiten [Wide Leg](/glossar/wide-leg/) Hose oder einer rockigen [Lederjacke](/glossar/lederjacke/).
+- **Barett:** flach, rund, randlos und gezielt formbar
+- **Beanie:** meist gestrickt, enger am Kopf und sportlicher in der Wirkung
+- **Hut:** häufig formstabiler und meist mit Krempe oder Schirm ausgestattet
 
-## So nutzt du den Begriff praktisch
+## Geschichte des Baretts
 
-- **Passform prüfen:** Achte beim Kauf auf die richtige Größe. Der elastische oder feste Innenrand sollte sicher sitzen, ohne unangenehme Druckstellen auf der Stirn zu hinterlassen.
-- **Drapieren üben:** Teste verschiedene Neigungswinkel vor dem Spiegel und prüfe den Halt bei Kopfbewegungen.
-- **Farbharmonie abstimmen:** Da das Material direkt an der Stirn und nahe an den Augen liegt, sollte die Nuance optimal mit deinem Hautunterton harmonieren. Erkenntnisse aus einer professionellen [Farbberatung](/glossar/farbberatung/) helfen dir dabei, Fehlkäufe zu vermeiden.
-- **Materialauswahl:** Setze auf atmungsaktive Naturmaterialien wie Schurwolle oder Kaschmir für den Winter und leichte Baumwollmischungen für die Übergangszeit.
-- **Richtig lagern:** Bewahre dein Barett flach liegend auf, um unschöne Knicke im Material zu vermeiden.
+Das Barett hat eine lange und vielseitige Geschichte. Flache, randlose Kopfbedeckungen waren in Europa bereits im 15. und 16. Jahrhundert verbreitet. Sie wurden unter anderem von Angehörigen des Adels, Gelehrten und im städtischen Bürgertum getragen.
 
-## Beispiel aus dem Alltag
+Später wurde die Form regional geprägt, besonders durch die baskische und pyrenäische Tradition. Zugleich fand das Barett Eingang in militärische Uniformen und akademische Kleidung. Diese unterschiedlichen Kontexte erklären, warum es heute sowohl mit Kreativität und Intellekt als auch mit Disziplin, Zugehörigkeit und Haltung verbunden wird.
 
-- **Der minimalistische Daily-Look:** Ein tiefschwarzes Wollbarett kombiniert mit einem cremefarbenen [Rollkragenpullover](/glossar/rollkragenpullover/), einer blauen [Wide Leg](/glossar/wide-leg/) Jeans und einem fließenden, langen [Mantel](/glossar/mantel/) wirkt elegant, ruhig und grafisch fokussiert.
-- **Der feminine Grunge-Stil:** Ein bordeauxrotes Barett zu einem fließenden [Slip Dress](/glossar/slip-dress/), einer derben [Lederjacke](/glossar/lederjacke/) und Chunky Boots balanciert feminine und maskuline Kontraste perfekt aus.
-- **Der moderne Power-Look:** Ein edles Lederbarett getragen zu einem maßgeschneiderten Hosenanzug erzeugt eine subtile, anspruchsvolle Spannung im Business-Alltag.
+In der Mode wurde das Barett immer wieder neu interpretiert. Besonders mit [Parisian Chic](/glossar/parisian-chic/) verbindet man die schlichte Wollform, kombiniert mit klaren Mänteln, Strick, Streifen oder zurückhaltenden Farben.
 
-## Typisches Missverständnis
+## Wie trägt man ein Barett richtig?
 
-Oft wird angenommen, dass ein Barett immer französisch, künstlerisch oder gar altbacken wirkt. Dieses modische Vorurteil greift zu kurz. Das Barett ist ein textiles Chamäleon. Seine historische Verbindung zum Militär und zu politischen Protestbewegungen zeigt, dass es auch Stärke, Disziplin und Rebellion ausdrücken kann. Durch die Wahl moderner Materialien wie Leder verliert das Accessoire sofort jeglichen Kostümcharakter.
+Es gibt keine einzige richtige Position. Wichtig ist, dass das Barett sicher sitzt und bewusst aussieht, statt zufällig nach oben geschoben zu wirken.
 
-## Abgrenzung zu ähnlichen Begriffen
+### Gerade getragen
 
-- **Baskenmütze:** Im modernen Sprachgebrauch oft deckungsgleich verwendet. Die echte Baskenmütze ist jedoch die traditionelle, ländliche Variante aus den Pyrenäen, meist mit dem typischen kleinen Stiftchen in der Mitte.
-- **[Beanie](/glossar/beanie/):** Eine eng anliegende, gestrickte Mütze mit sportlichem Charakter, die oft ein längliches Volumen nach hinten aufweist oder umgeschlagen wird.
-- **[Hut](/glossar/hut/):** Der textile Oberbegriff für Kopfbedeckungen mit festerer Konstruktion und einer meist umlaufenden Krempe.
+Ein gerade sitzendes Barett wirkt grafisch, ruhig und modern. Diese Variante passt gut zu minimalistischen Looks, klaren Mänteln oder einem [Oversized Blazer](/glossar/oversized-blazer/).
 
-## ESKYNA-Merksatz
+### Leicht seitlich geneigt
 
-Das Barett ist eine formbare Projektionsfläche direkt am Gesicht, seine Neigung bestimmt den modischen Charakter deines gesamten Looks ebenso stark wie seine Farbe.
+Die seitliche Position ist die bekannteste Trageweise. Sie bringt Bewegung in die obere Silhouette und wirkt klassisch, kreativ oder feminin. Achte darauf, die Neigung dezent zu halten, wenn du keinen kostümierten Eindruck erzeugen möchtest.
 
-## Entscheidungshilfe vor dem nächsten Kauf
+### Nach hinten geschoben
 
-- Liegt der innere Bund angenehm und rutschfest am Kopf an, ohne Druckstellen zu hinterlassen?
-- Ist das Material weich genug, um sich flexibel in verschiedene Richtungen drapieren zu lassen?
-- Schmeichelt die Nuance deinem Teint und deiner Haarfarbe im natürlichen Tageslicht?
-- Lässt sich das Modell vielseitig mit deinen bereits vorhandenen Lieblingsmänteln und Lieblingsjacken kombinieren?
-- Passt die Ausstrahlung des Baretts zu deiner persönlichen [Stilidentität](/glossar/stilidentitaet/) oder wirkt das Gesamtbild zu theatralisch?
+Weiter hinten getragen bleibt die Stirn sichtbar und das Gesicht wirkt offener. Diese Variante kann lässiger aussehen und funktioniert besonders gut, wenn du das Haar oder einen auffälligen [Ohrring](/glossar/ohrringe/) sichtbar lassen möchtest.
 
-## Wann Beratung sinnvoll wird
+### Praktischer Tipp für besseren Halt
 
-Eine professionelle Stilberatung ist besonders dann wertvoll, wenn du dich mit Kopfbedeckungen schnell verkleidet fühlst oder unsicher bist, wie du das Volumen optimal auf deine Gesichtsform abstimmst. Durch die gezielte Analyse von Farbwirkung, Gesichtsgeometrie und Materialtexturen lässt sich die Stilintensität präzise steuern, sodass das Barett deine Persönlichkeit unterstreicht, statt sie zu dominieren.
+Forme das Barett zuerst mit beiden Händen und setze es dann auf. Bei sehr glattem Haar können kleine Haarnadeln helfen, damit es nicht verrutscht. Der Innenrand sollte fest genug sitzen, aber weder drücken noch eine tiefe Spur auf der Stirn hinterlassen.
 
-## Welche Fragen klärt dieser Begriff?
+## Farbe und Material: So verändert ein Barett deine Wirkung
 
-- Was unterscheidet das klassische Barett von einer sportlichen Beanie oder einer Baskenmütze?
-- Wie lässt sich das Barett stilvoll formen, drapieren und im Alltag tragen?
-- Mit welchen Styling-Tipps wirkt die Kopfbedeckung modern statt wie ein Kostüm?
+Weil das Barett nah an Augen, Haaren und Haut sitzt, ist seine Farbe Teil deiner [Gesichtsrahmung](/glossar/gesichtsrahmung/). Eine stimmige Nuance kann deinen Teint ruhiger oder frischer wirken lassen. Eine unpassende Farbe fällt an dieser Stelle dagegen schnell auf.
+
+- **Schwarz:** klar, grafisch und kontrastreich
+- **Creme oder Beige:** weich, ruhig und klassisch
+- **Bordeaux:** tief, elegant und sichtbar
+- **Rot:** präsent und als bewusster Fokuspunkt geeignet
+- **Navy oder Anthrazit:** zurückhaltende Alternativen zu Schwarz
+- **Leder:** glatter, markanter und oft urbaner als Wolle
+
+Auch die Oberfläche zählt. Wollfilz wirkt matt und traditionell, Strick weicher und alltäglicher. Leder bringt Struktur und kann das Barett mit einer [Lederjacke](/glossar/lederjacke/) oder einem cleanen Anzug moderner erscheinen lassen.
+
+Wenn du unsicher bist, welche Nuancen dir nahe am Gesicht stehen, hilft eine [Farbberatung](/glossar/farbberatung/). Sie berücksichtigt unter anderem Unterton, Helligkeit und Kontrast deiner natürlichen Farben.
+
+## Barett modern kombinieren
+
+Ein Barett wirkt besonders stimmig, wenn du es als einzelnen Akzent behandelst. Kombinierst du zu viele bekannte Frankreich Codes gleichzeitig, kann der Look schnell wie eine Verkleidung wirken. Ein gezielter [Stilbruch](/glossar/stilbruch/) hält ihn aktuell.
+
+### Minimalistischer Alltagslook
+
+Ein schwarzes Wollbarett, ein cremefarbener [Rollkragenpullover](/glossar/rollkragenpullover/), eine gerade Jeans und ein langer [Mantel](/glossar/mantel/) ergeben einen ruhigen, klaren Look. Die Farbpalette bleibt reduziert, das Barett setzt den oberen Abschluss.
+
+### Modern und urban
+
+Ein Lederbarett zu weiter Hose, schlichtem Shirt und strukturiertem Blazer wirkt präzise und etwas kantiger. Hier ersetzt das Barett ein auffälliges Schmuckstück und wird selbst zum Fokuspunkt.
+
+### Femininer Kontrast
+
+Ein bordeauxfarbenes Barett kann zu einem [Slip Dress](/glossar/slip-dress/) und robusten Boots funktionieren. Die weiche, elegante Linie des Kleids trifft auf die markantere Kopfbedeckung und die festere Schuhform.
+
+### Lässig mit Strick
+
+Zu Cardigan, weiter Jeans und Sneakern wirkt ein schlichtes Wollbarett weniger formell. Wähle dafür eine unaufgeregte Farbe wie Grau, Navy, Braun oder Creme und halte die übrigen Details bewusst einfach.
+
+## Typische Missverständnisse
+
+- **Missverständnis: Ein Barett muss immer französisch aussehen.**  
+  **Besser:** Das Barett kann französisch inspiriert wirken, ist aber ebenso mit regionaler Tradition, Uniformen, akademischer Kleidung und modernen Modebildern verbunden.
+
+- **Missverständnis: Ein Barett steht nur bestimmten Gesichtsformen.**  
+  **Besser:** Wichtiger als eine feste Regel sind Größe, Volumen, Farbe und Position. Teste verschiedene Neigungen und finde heraus, welche Variante sich für dich stimmig anfühlt.
+
+- **Missverständnis: Ein Barett ist nur ein Winteraccessoire.**  
+  **Besser:** Wollfilz passt besonders gut in die kalte Jahreszeit. Leichtere Baumwoll oder Strickmodelle können auch in der Übergangszeit funktionieren.
+
+- **Missverständnis: Das Barett muss exakt mittig sitzen.**  
+  **Besser:** Seine Wirkung entsteht gerade durch bewusstes Formen. Ein leicht versetzter Sitz kann natürlicher und interessanter aussehen.
+
+## Praxischeck vor dem Kauf
+
+- Sitzt der Innenrand sicher, ohne Stirn oder Kopf unangenehm zu drücken?
+- Lässt sich die Krone weich formen oder bleibt sie ungewollt steif?
+- Passt die Größe zu deinem Kopf, ohne zu eng oder zu locker zu wirken?
+- Harmoniert die Farbe im Tageslicht mit deinem Teint?
+- Ergänzt das Material deine vorhandenen Mäntel, Jacken und Schuhe?
+- Kannst du das Barett mit mindestens drei Outfits deiner Garderobe kombinieren?
+
+## Pflege und Aufbewahrung
+
+Barette aus Wolle oder Filz solltest du möglichst trocken und flach lagern, damit sie ihre Form behalten. Feuchtigkeit lässt du bei Raumtemperatur trocknen. Lege ein nasses Wollbarett nicht auf die Heizung, da starke Hitze Material und Form beeinträchtigen kann.
+
+Bei Fusseln oder kleinen Knötchen hilft ein geeigneter [Fusselrasierer](/glossar/fusselrasierer/) mit vorsichtiger Anwendung. Pflegehinweise des Herstellers bleiben entscheidend, besonders bei Leder, Kaschmir oder Materialmischungen.
+
+## ESKYNA Merksatz
+
+Ein Barett ist kein bloßes Winteraccessoire, sondern eine formbare Linie am Gesicht. Seine Farbe und Position bestimmen, ob dein Look ruhig, kreativ, klassisch oder modern wirkt.
 
 ## Häufige Fragen
 
 ### Muss ein Barett immer schräg getragen werden?
 
-Nein, es gibt keine feste Styling-Regel. Während die seitliche Neigung als absolut klassisch gilt, sorgt ein gerade oder weit im Hinterkopf getragenes Barett für einen hochmodernen, cleanen Look. Experimentiere mit der Position, die am besten zu deiner Gesichtsform passt.
+Nein. Du kannst ein Barett gerade, leicht seitlich oder weiter hinten tragen. Entscheidend ist, dass es sicher sitzt und die Position zu deiner gewünschten Wirkung passt.
 
 ### Ist ein Barett dasselbe wie eine Baskenmütze?
 
-Umgangssprachlich und im Online-Handel werden die Begriffe meist deckungsgleich verwendet. Wer es historisch genau nimmt, versteht unter der Baskenmütze die traditionelle Pyrenäen-Kopfbedeckung aus Filz mit dem charakteristischen kleinen Stiftchen in der Mitte, während das Barett auch militärische, akademische oder modisch abgewandelte Formen ohne dieses Detail beschreibt.
+Im Alltag werden die Begriffe oft gleich verwendet. Die Baskenmütze bezeichnet häufig die traditionelle Variante aus dem Baskenland und den Pyrenäen, meist aus Filz oder gewalkter Wolle. Ein Barett kann diese Form aufgreifen, aber auch modisch freier interpretiert sein.
 
 ### Kann man ein Barett bei Regen tragen?
 
-Das hängt stark vom Material ab. Klassische Barette aus dicht gewalkter Schurwolle sind von Natur aus leicht wasserabweisend und halten feuchtem Wetter stand. Bei starkem Regen können sie sich jedoch mit Wasser vollsaugen und ihre Form verlieren. Modelle aus Leder sind in diesem Fall unempfindlicher.
+Leichter Regen ist für dicht gewalkte Wolle meist unproblematisch. Bei starkem Regen kann sich das Material mit Wasser vollsaugen und seine Form verändern. Trockne ein feuchtes Barett anschließend liegend bei Raumtemperatur.
+
+### Wie verhindere ich, dass mein Barett verrutscht?
+
+Wähle die passende Größe und achte auf einen festen, aber bequemen Innenrand. Bei glattem Haar oder Wind kannst du das Barett zusätzlich mit kleinen Haarnadeln sichern.
+
+Weitere passende Begriffe findest du in der Kategorie [Accessoires](/glossar/accessoires/).

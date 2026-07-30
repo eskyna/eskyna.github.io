@@ -1,5 +1,6 @@
 ---
 title: About me
+seoTitle: "About Natalia | Style Coach ESKYNA"
 eyebrow: Natalia Kleemann
 image: images/portraits/natalia-schreibtisch.png
 facts:

@@ -1,14 +1,19 @@
 ---
 title: Was bedeutet Falten?
 term: Falten
-description: Falten sind gelegte, gepresste oder genähte Stoffbrüche in der Kleidung. Sie erzeugen gezieltes Volumen, strukturieren Schnitte und sichern Bewegungsfreiheit.
+description: Falten sind bewusst gelegte, gepresste oder genähte Stoffbrüche in Kleidung. Sie schaffen Weite, formen die Silhouette, geben Bewegungsfreiheit und prägen die Wirkung von Röcken, Hosen und Kleidern.
 category: Materialien & Details
 tags:
   - falten
-  - materialien
+  - falten in kleidung
+  - stoffbrüche
+  - passform
+  - schnittdetails
 keywords:
   - falten kleidung
   - falten stoff
+  - was sind falten
+  - falten einfach erklärt
   - faltenrock
   - bundfalten
   - drapierung
@@ -16,89 +21,135 @@ weight: 1
 image: images/glossar/falten.png
 image_alt: Editoriale Glossar-Grafik zu Falten mit ruhigen Farbfeldern und feiner Linienführung
 relatedTerms:
-  - title: Materialfall
-    url: /glossar/materialfall/
-  - title: Drapierung
-    url: /glossar/drapierung/
   - title: Faltenrock
     url: /glossar/faltenrock/
+  - title: Plissee
+    url: /glossar/plissee/
+  - title: Kellerfalte
+    url: /glossar/kellerfalte/
   - title: Bundfaltenhose
     url: /glossar/bundfaltenhose/
+  - title: Drapierung
+    url: /glossar/drapierung/
+  - title: Zugfalten
+    url: /glossar/zugfalten/
 knowledge:
-  - Gelegte Falten geben dem Stoff zusätzliche Weite, während genähte Varianten wie Abnäher die Passform formen.
-  - Die Tiefe und Ausrichtung der Falten steuern, ob ein Kleidungsstück flach anliegt oder skulpturales Volumen erzeugt.
-  - Ungewollte Zugfalten deuten meist auf eine falsche Passform oder zu wenig Bewegungszugabe hin.
+  - Gelegte Falten geben einem Kleidungsstück zusätzliche Weite und können sich beim Gehen oder Sitzen öffnen.
+  - Genähte Formelemente wie Abnäher formen Stoff dauerhaft, während gelegte Falten meist beweglich bleiben.
+  - Tiefe, Richtung und Fixierung einer Falte bestimmen, ob Stoff flach anliegt, weich fällt oder deutliches Volumen bildet.
+  - Ungewollte Zugfalten entstehen meist durch Spannung, eine unpassende Größe oder zu wenig Bewegungszugabe.
 history:
-  - Bereits in der griechischen Antike wurden Stoffe aufwendig drapiert, um Status, Eleganz und Bewegung darzustellen.
-  - Zu Beginn des 20. Jahrhunderts revolutionierte Mariano Fortuny mit seinen fein plissierten Delphos-Kleidern die Silhouette der Damenmode.
-  - In der modernen Modegeschichte machten Designer wie Issey Miyake plissierte Stoffe absolut alltagstauglich, formstabil und extrem pflegeleicht.
+  - Bereits in der griechischen Antike wurden Stoffe drapiert, um Bewegung, Körper und Status sichtbar zu gestalten.
+  - Zu Beginn des 20. Jahrhunderts prägte Mariano Fortuny mit fein plissierten Delphos-Kleidern die Silhouette der Damenmode.
+  - Plissierte und gefaltete Stoffe wurden in der modernen Mode immer wieder neu interpretiert, von der Abendmode bis zu alltagstauglichen Kollektionen.
 faq:
   items:
     - q: Wie erkenne ich gute Faltenverarbeitung beim Kauf?
-      a: Achte darauf, dass gelegte Falten sauber einlaufen und flach liegen. Gepresste Falten sollten scharfkantig sein und sich bei Bewegung gleichmäßig öffnen, ohne zu spannen.
+      a: Achte darauf, dass gelegte Falten sauber am Bund oder an der Ansatznaht beginnen und gleichmäßig verlaufen. Gepresste Falten sollten klar definiert sein und sich bei Bewegung öffnen, ohne zu spannen oder schief zu ziehen.
     - q: Was ist der Unterschied zwischen gewollten Falten und Passformfehlern?
-      a: Gewollte Falten folgen der Schnittführung und sorgen für Weite oder Struktur. Ungewollte Zugfalten entstehen durch Spannung am Körper, wenn das Material an bestimmten Stellen zu eng sitzt.
+      a: Gewollte Falten sind Teil der Schnittkonstruktion und schaffen bewusst Weite, Form oder Bewegung. Ungewollte Zugfalten entstehen durch Spannung, etwa wenn ein Kleidungsstück an Brust, Hüfte, Rücken oder Schritt zu eng sitzt.
+    - q: Tragen Falten optisch auf?
+      a: Nicht automatisch. Breite, tief gelegte Falten können Volumen betonen. Feine, senkrechte Falten oder weich fallendes Plissee können dagegen eine ruhige, vertikale Linie schaffen.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-In der Mode und Textiltechnik beschreiben **Falten** ganz gezielt gelegte, gepresste oder genähte Stoffbrüche. Sie verändern die zweidimensionale Stofffläche in eine dreidimensionale Form. Falten dienen dazu, einem Kleidungsstück Struktur zu verleihen, Weite für mehr Bewegungsfreiheit zu schaffen oder dekorative Akzente zu setzen. Bei klassischen Herrenhosen und eleganten Stoffhosen beeinflussen sie zudem maßgeblich den sichtbaren [Hosenbruch](/glossar/hosenbruch/).
+**Falten** sind bewusst angelegte, gepresste oder genähte Stoffbrüche in Kleidung. Sie verwandeln eine flache Stofffläche in Form und Volumen. Dadurch schaffen sie Bewegungsfreiheit, strukturieren einen Schnitt oder setzen ein dekoratives Detail.
 
-## Falten in der Kleidung einfach erklärt
+Du findest Falten zum Beispiel an Röcken, Kleidern, Ärmeln und Hosen. Bei einer [Bundfaltenhose](/glossar/bundfaltenhose/) geben sie am Bund mehr Raum. Bei einem [Faltenrock](/glossar/faltenrock/) prägen sie Bewegung, Weite und die gesamte Silhouette.
 
-Wenn du ein flaches Stück Stoff um deinen Körper legst, schmiegt es sich nicht automatisch an deine Kurven an. Um dem Stoff eine Form zu geben, nutzt die Schneiderei verschiedene Techniken. Eine der wichtigsten Methoden ist das Legen von Falten.
+## Falten in Kleidung einfach erklärt
 
-Im Gegensatz zu fest genähten Formelementen wie dem klassischen [Abnäher](/glossar/abnaeher/) bleibt eine gelegte Falte dynamisch. Sie springt bei Bewegung auf, gibt dem Körper Raum und fällt im Stand wieder in ihre geordnete Ausgangsform zurück. So verbinden Falten Funktion und Ästhetik auf ganz natürliche Weise.
+Stoff ist zunächst flach. Damit er sich am Körper bewegt, Weite zulässt oder eine bestimmte Form erhält, wird er gelegt, gerafft, gepresst oder vernäht. Falten sind dafür ein wichtiges Mittel der Schnittkonstruktion.
 
-## Die wichtigsten Faltenarten im Überblick
+Eine bewusst gelegte Falte öffnet sich häufig beim Gehen, Sitzen oder Armeheben. Im Stand fällt sie wieder zurück in ihre vorgesehene Position. So kann Kleidung strukturiert aussehen und trotzdem genug Raum für Bewegung bieten.
 
-Je nachdem, wie ein Stoffbruch gelegt und fixiert wird, verändert sich das gesamte Erscheinungsbild deines Outfits:
+Davon unterscheiden sich fest vernähte Formelemente wie ein [Abnäher](/glossar/abnaeher/). Ein Abnäher nimmt Stoff dauerhaft weg und formt ihn nah am Körper. Eine Falte bringt dagegen zusätzliche Stoffweite in das Kleidungsstück ein.
 
-- **Gelegte Falten:** Der Stoff wird in gleichmäßigen Abständen in eine Richtung gelegt. Diese Technik findest du besonders häufig beim klassischen [Faltenrock](/glossar/faltenrock/).
-- **Kellerfalten:** Hier treffen zwei entgegengesetzte Faltenbrüche auf der Außenseite aufeinander. Die [Kellerfalte](/glossar/kellerfalte/) sorgt für verborgene Weite, die sich erst in der Bewegung zeigt.
-- **Quetschfalten:** Das optische Gegenstück zur Kellerfalte, bei dem die Brüche auf der Innenseite aufeinanderstoßen. Die [Quetschfalte](/glossar/quetschfalte/) wirkt sehr plastisch und strukturiert.
-- **Plissee:** Sehr feine, dauerhaft eingepresste Falten, die dem Stoff eine wellenartige Elastizität geben. Ein [Plisseerock](/glossar/plisseerock/) wirkt dadurch besonders luftig und bewegt sich elegant bei jedem Schritt.
-- **Drapierungen:** Hier werden Falten nicht streng gepresst, sondern weich und fließend gelegt. Eine kunstvolle [Drapierung](/glossar/drapierung/) nutzt den natürlichen Fall des Materials, um organische Linien zu zeichnen.
+## Welche Faltenarten gibt es?
 
-## Warum Falten deine Silhouette und Passform verändern
+Falten unterscheiden sich vor allem darin, wie der Stoff gelegt wird, in welche Richtung die Brüche laufen und ob sie dauerhaft fixiert sind.
 
-Falten steuern, wie das Auge ein Outfit wahrnimmt. Sie beeinflussen das [Volumen](/glossar/volumen/) und lenken den Blick auf bestimmte Körperpartien:
+### Gelegte Falten
 
-### Volumen und Proportionen ausgleichen
+Bei gelegten Falten wird Stoff in regelmäßigen Abständen in dieselbe Richtung eingeschlagen. Sie erzeugen eine klare, geordnete Struktur und kommen besonders häufig bei Röcken vor. Je nach Stoff können sie streng und grafisch oder weich und bewegt wirken.
 
-Eine [Bundfaltenhose](/glossar/bundfaltenhose/) schafft durch die Falten am Bund zusätzlichen Stoff im Hüftbereich. Das sorgt für einen äußerst bequemen Sitz beim Sitzen und verleiht der Silhouette im Stehen eine lässige, aber elegante Weite. Wenn du schmale Schultern im Verhältnis zur Hüfte ausgleichen möchtest, können gelegte Falten im Schulterbereich oder an den Ärmeln die Proportionen optisch harmonisieren.
+### Kellerfalte
 
-### Den Materialfall unterstützen
+Bei einer [Kellerfalte](/glossar/kellerfalte/) treffen zwei gegenläufige Falten auf der Außenseite zusammen. Die zusätzliche Weite liegt im Inneren und wird vor allem bei Bewegung sichtbar. Kellerfalten finden sich oft an Röcken, Kleidern, Mänteln oder am Rücken von Hemden.
 
-Die Wahl des Stoffes entscheidet darüber, wie die Falten wirken. Schwere, feste Webstoffe halten gepresste Falten sehr scharfkantig und grafisch. Leichte, fließende Materialien wie Viskose oder Seide lassen die Falten weich fallen und unterstützen einen lebendigen [Materialfall](/glossar/materialfall/).
+### Quetschfalte
 
-### Erkennen von Passformfehlern
+Die [Quetschfalte](/glossar/quetschfalte/) funktioniert umgekehrt: Die Stoffbrüche treffen innen aufeinander, während außen eine plastische Falte sichtbar bleibt. Sie wirkt markanter und betont die Dreidimensionalität des Stoffes stärker.
 
-Nicht jede Falte ist gewollt. Wenn du Kleidung anprobierst, solltest du auf störende [Zugfalten](/glossar/zugfalten/) achten. Entstehen waagerechte oder diagonale Spannungsfalten an der Hüfte, der Brust oder im Schritt, ist das Kleidungsstück an diesen Stellen zu eng. Gewollte Falten fallen immer locker und senkrecht nach unten, ohne am Körper zu ziehen.
+### Plissee
 
-## Typische Missverständnisse bei Falten in der Mode
+[Plissee](/glossar/plissee/) besteht aus vielen feinen, gleichmäßigen und meist dauerhaft eingepressten Falten. Ein Plisseestoff kann sich beim Gehen weit öffnen und im Stand wieder schmal zusammenziehen. Das macht ihn besonders beweglich und charakteristisch für Plisseeröcke und fließende Kleider.
 
-**Missverständnis:** Falten tragen immer auf und machen optisch breiter.  
-**Besser:** Es kommt ganz auf die Konstruktion an. Längs verlaufende, schmale Falten wie bei einem Plisseerock können das Auge vertikal führen und eine optische Streckung erzeugen. Wichtig ist, dass die Falten an den breitesten Stellen des Körpers nicht unschön aufspringen, sondern flach liegen bleiben.
+### Drapierung
 
-**Missverständnis:** Falten in der Kleidung wirken immer streng und altmodisch.  
-**Besser:** Während sehr steife, gleichmäßige Falten an Uniformen erinnern können, wirken unregelmäßige Drapierungen, lässige Bundfalten oder fließendes Plissee extrem modern, lebendig und unangestrengt.
+Eine [Drapierung](/glossar/drapierung/) ist weniger streng als eine gepresste Falte. Der Stoff wird weich gelegt, gerafft oder über den Körper geführt. Die Wirkung hängt stark vom Material ab: Fließende Stoffe ergeben organische Linien, festere Stoffe wirken skulpturaler.
 
-## ESKYNA-Merksatz
+## Wie Falten Silhouette und Proportion verändern
 
-Falten entfalten ihre stärkste Wirkung, wenn sie sich in Bewegung zeigen. Ein perfekt konstruiertes Kleidungsstück nutzt Falten nicht, um den Körper zu kaschieren, sondern um ihm Raum zu geben und dem Look eine lebendige, dreidimensionale Dynamik zu verleihen.
+Falten beeinflussen nicht nur die Passform, sondern auch die optische Wirkung eines Outfits. Sie steuern, wo Stoffweite entsteht, wie Licht auf die Oberfläche fällt und wohin der Blick wandert.
+
+Breite oder tiefe Falten können Volumen betonen, besonders wenn sie an Hüfte, Taille oder Schulter aufspringen. Feine, senkrecht verlaufende Falten bringen dagegen Rhythmus in den Look und unterstützen eine [vertikale Linie](/glossar/vertikale-linie/).
+
+Entscheidend ist nicht, ob Falten grundsätzlich auftragen. Entscheidend ist ihre Platzierung, ihre Tiefe, das Material und die Frage, ob sie dort flach liegen, wo du Ruhe im Outfit möchtest.
+
+### Falten und Materialfall
+
+Der Stoff bestimmt, wie deutlich eine Falte sichtbar bleibt. Feste Webstoffe halten Kanten oft klar und präzise. Leichte oder weich fließende Stoffe bilden sanftere Falten, die sich stärker mit dem Körper bewegen.
+
+Damit prägen Falten unmittelbar den [Materialfall](/glossar/materialfall/). Ein steifer Stoff kann gefaltet grafisch und strukturiert wirken. Ein weich fallender Stoff lässt Falten lebendiger, ruhiger oder romantischer erscheinen.
+
+### Falten als Bewegungsreserve
+
+Falten sind oft funktional. An Röcken, Mänteln oder Hosen geben sie dort zusätzlichen Raum, wo du ihn beim Sitzen, Gehen oder Ausgreifen brauchst. Besonders bei Hosen erhöhen Bundfalten die Weite im oberen Bereich, ohne dass das gesamte Bein weit geschnitten sein muss.
+
+Das ist ein wichtiger Unterschied zwischen bewusst geplanter Weite und einem zu großen Kleidungsstück. Gute Falten geben gezielt Raum und behalten trotzdem eine klare Form.
+
+## Gewollte Falten oder Zugfalten?
+
+Nicht jeder Stoffbruch ist ein Designdetail. [Zugfalten](/glossar/zugfalten/) entstehen, wenn Stoff unter Spannung steht. Sie können auf eine unpassende Größe, einen ungeeigneten Schnitt oder zu wenig Bewegungszugabe hinweisen.
+
+Achte beim Anprobieren besonders auf waagerechte oder diagonale Falten an Brust, Rücken, Hüfte, Schritt und Oberarm. Ziehen sie sichtbar in eine Richtung oder öffnen sich die Falten schon im ruhigen Stand stark, sitzt das Kleidungsstück an dieser Stelle möglicherweise zu eng.
+
+Gewollte Falten folgen dagegen einer klaren Schnittlogik. Sie beginnen sauber am Bund, an einer Naht oder an einer festgelegten Ansatzlinie und öffnen sich gleichmäßig in Bewegung.
+
+## Typische Missverständnisse bei Falten
+
+**Missverständnis:** Falten machen immer breiter.  
+**Besser:** Tiefe, breite Falten können Volumen sichtbar machen. Feines Plissee oder senkrecht fallende Falten können den Blick jedoch nach unten führen und eine ruhige, längere Linie unterstützen.
+
+**Missverständnis:** Falten sind nur dekorativ.  
+**Besser:** Viele Falten haben eine klare Funktion. Sie schaffen Bewegungsfreiheit, verteilen Weite und ermöglichen bestimmte Silhouetten.
+
+**Missverständnis:** Jede Falte im Stoff ist gewollt.  
+**Besser:** Unregelmäßige Knitterfalten oder Zugfalten gehören nicht automatisch zur Konstruktion. Prüfe, ob der Stoff nur geknittert ist oder ob das Kleidungsstück unter Spannung steht.
 
 ## Praxischeck: So prüfst du Falten vor dem Kauf
 
-Wenn du ein neues Lieblingsstück mit Falten suchst, kannst du die Qualität ganz einfach im Geschäft oder vor dem heimischen Spiegel prüfen:
+1. **Schau auf den Ursprung:** Beginnen die Falten sauber am Bund, an einer Naht oder an der vorgesehenen Ansatzstelle?
 
-1. **Der Bewegungstest:** Setze dich in einer Bundfaltenhose hin. Öffnen sich die Falten bequem, ohne dass der Stoff spannt oder die Taschen unschön abstehen?
-2. **Die Nahtkontrolle:** Schaue dir die Fixierung der Falten an. Sind sie am Bund oder an den Nahtstellen sauber und gleichmäßig abgesteppt?
-3. **Das Knitterverhalten:** Streiche mit der Hand fest über die Falten. Bleiben gepresste Kanten stabil oder verliert der Stoff sofort seine Form?
+2. **Bewege dich:** Gehe ein paar Schritte, setz dich hin und steh wieder auf. Die Falten sollten sich öffnen, ohne zu spannen, und danach wieder ordentlich fallen.
+
+3. **Prüfe die Symmetrie:** Bei gleichmäßig angelegten Falten sollten Tiefe, Abstand und Richtung stimmig wirken.
+
+4. **Achte auf die breiteste Stelle:** Springen Falten dort im Stand stark auf, kann die Passform zu eng sein oder die Faltentiefe für deine gewünschte Wirkung zu groß ausfallen.
+
+5. **Beurteile das Knitterverhalten:** Gepresste Falten sollten ihre Form möglichst gut behalten. Das tatsächliche Verhalten hängt jedoch immer von Faser, Stoffgewicht und Pflege ab.
+
+## ESKYNA-Merksatz
+
+Falten sind kein bloßes Dekor. Gut platzierte Falten geben deinem Körper Raum, bringen Bewegung in den Stoff und machen einen Schnitt sichtbar lebendig.
 
 ## Beratungsblick
 
-In der persönlichen Stilberatung betrachten wir Falten als Werkzeug, um deine persönliche Stilidentität zu unterstreichen. Magst du es eher clean, geradlinig und strukturiert? Dann passen scharf gepresste Kellerfalten und maskuline Bundfalten perfekt zu dir. Bevorzugst du eine weiche, feminine Ausstrahlung, sind fließende Drapierungen und feines Plissee deine idealen Begleiter.
+Falten helfen dir, die Wirkung eines Kleidungsstücks gezielt zu wählen. Scharf gepresste Falten wirken oft klar, strukturiert und kontrolliert. Weiche Drapierungen oder fließendes Plissee können dagegen mehr Bewegung und Leichtigkeit vermitteln.
 
-Mehr fundiertes Stilwissen und Inspirationen zu Stoffen und Schnitten findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/).
+Wenn du dich für ein Teil mit Falten entscheidest, frage dich nicht zuerst, ob es „aufträgt“. Prüfe lieber, wo die Weite entsteht, wie der Stoff fällt und ob die Silhouette zu deinem Alltag und deiner gewünschten Wirkung passt.
+
+Mehr Wissen zu Stoffen, Verarbeitung und Schnittdetails findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).

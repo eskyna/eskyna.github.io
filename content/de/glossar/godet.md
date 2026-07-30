@@ -1,75 +1,124 @@
 ---
-title: "Was ist Godet? Der Schnitt-Trick für perfekte Bewegung"
+title: "Was ist ein Godet? Stoffeinsatz für mehr Weite und Bewegung"
 term: "Godet"
-description: "Ein Godet ist ein keilförmiger Stoffeinsatz, der Röcken und Kleidern ab Knie oder Oberschenkel fließende Weite schenkt. Erfahre alles über Wirkung und Passform."
+description: "Ein Godet ist ein keilförmiger Stoffeinsatz in Rock oder Kleid. Er schafft Weite und Bewegungsfreiheit ab Knie oder Oberschenkel, während die Silhouette darüber schmal bleibt."
 category: "Schnitt, Proportion & Passform"
 subcategory: "Größen & Passform"
 image: images/glossar/godet.png
-image_alt: "Glossar-Illustration zu Godet"
+image_alt: "Illustration eines Godet-Einsatzes in einem Rocksaum"
 relatedTerms:
   - title: Rock
     url: /glossar/rock/
   - title: Kleid
     url: /glossar/kleid/
-  - title: Silhouette
-    url: /glossar/silhouette/
-  - title: Proportion
-    url: /glossar/proportion/
-  - title: Materialfall
-    url: /glossar/materialfall/
+  - title: A-Linie
+    url: /glossar/a-linie/
+  - title: Falten
+    url: /glossar/falten/
+  - title: Schlitz
+    url: /glossar/schlitz/
   - title: Zwickel
     url: /glossar/zwickel/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Passform
+    url: /glossar/passform/
 knowledge:
   - Godets sind keilförmige Stoffteile, die in eine Naht oder einen Schlitz eingesetzt werden.
   - Sie erzeugen Weite erst ab einer bestimmten Höhe, während die Silhouette darüber schmal bleibt.
   - Im Gegensatz zu gerafften Falten tragen Godets an Hüfte und Taille nicht auf.
 history:
-  - Die Schnitttechnik erlebte in den 1920er und 1930er Jahren ihren ersten großen Höhepunkt, um schmalen Kleidern Beinfreiheit beim Tanzen zu geben.
-  - Designerinnen wie Madeleine Vionnet nutzten Godets meisterhaft in Kombination mit dem Schrägschnitt.
+  - In den 1920er und 1930er Jahren wurden Godets häufig eingesetzt, um schmalen Kleidern Bewegungsfreiheit beim Tanzen zu geben.
+  - Designerinnen wie Madeleine Vionnet nutzten Godets in Kombination mit dem Schrägschnitt.
 keywords:
   - "godet"
-  - "was ist godet"
+  - "was ist ein godet"
   - "godetfalte"
   - "stoffeinsatz rock"
+  - "godet rock"
+  - "godet kleid"
 lastmod: "2026-07-18"
+faq:
+  items:
+    - q: "Was ist ein Godet?"
+      a: "Ein Godet ist ein zusätzlich eingesetztes, keilförmiges Stoffteil in einem Rock oder Kleid. Es erweitert den Saum gezielt und gibt mehr Bewegungsfreiheit, ohne die Hüfte breiter wirken zu lassen."
+    - q: "Was ist der Unterschied zwischen Godet und Falte?"
+      a: "Eine Falte entsteht aus dem vorhandenen Stoff, der gelegt, genäht oder gebügelt wird. Ein Godet ist dagegen ein separates Schnittteil, das in eine Naht oder einen Schlitz eingesetzt wird."
+    - q: "Wo sitzt ein Godet?"
+      a: "Godets sitzen meist in Längsnähten oder Schlitzen eines Rocks oder Kleids. Sie beginnen häufig ab Oberschenkel oder Knie und öffnen sich zum Saum hin."
+    - q: "Für welche Röcke und Kleider eignet sich ein Godet?"
+      a: "Godets finden sich besonders bei schmalen Röcken, Abendkleidern, Meerjungfrauen-Silhouetten und Kleidern mit bewegtem Saum. Wie stark der Effekt ausfällt, hängt von Größe, Anzahl und Material der Einsätze ab."
 ---
 
 ## Definition
 
-Godets werden meist in Nähte von [Röcken](/glossar/rock/) oder [Kleidern](/glossar/kleid/) eingesetzt. Sie können dreieckig, halbkreisförmig oder besonders ausgestellt sein und aus demselben oder einem kontrastierenden Material bestehen.
+Ein **Godet** ist ein keilförmiger Stoffeinsatz, der in die Naht oder einen Schlitz eines [Rocks](/glossar/rock/) oder [Kleids](/glossar/kleid/) eingenäht wird. Er schafft gezielt Weite zum Saum hin, während das Kleidungsstück oberhalb des Einsatzes schmal und ruhig bleibt.
 
-## Einfach erklärt
+Godets können dreieckig, stark ausgestellter oder halbkreisförmig zugeschnitten sein. Meist bestehen sie aus dem gleichen Stoff wie das Kleidungsstück. Ein kontrastierendes Material, etwa Spitze, Satin oder ein transparenter Stoff, macht den Einsatz beim Gehen bewusst sichtbar.
 
-Suchst du nach einer Möglichkeit, deinem Outfit mehr Schwung zu verleihen, ohne dass die Kleidung an Hüfte oder Taille aufträgt? Dann ist das Godet die perfekte Schnitttechnik für dich. Dieser raffinierte Stoffkeil verbindet eine schmale Linienführung mit aufregender Saumweite.
+## Godet einfach erklärt
 
-Ein Godet ist ein keilförmiger, meist dreieckiger oder halbkreisförmiger Stoffeinsatz. Schneider setzen ihn gezielt in die Längsnähte oder in vorbereitete Schlitze ein. Das Besondere daran ist die Konstruktion: Bis zum Ansatzpunkt des Godets bleibt die Passform des Kleidungsstücks figurbetont und schmal. Erst ab dieser Höhe öffnet sich der Schnitt und schenkt dir zusätzliche Weite.
+Ein Godet löst ein klassisches Schnittproblem: Ein schmaler Rock oder ein körpernahes Kleid soll eine klare Linie haben, darf aber beim Gehen, Treppensteigen oder Tanzen nicht einengen.
 
-Ein Godet kann aus demselben Material wie das Hauptkleidungsstück bestehen, um eine ruhige Optik zu bewahren. Designer nutzen aber auch kontrastierende Stoffe wie Spitze oder Satin, um beim Gehen einen überraschenden Effekt zu erzielen.
+Dafür wird ein zusätzlicher Stoffkeil eingesetzt. Bis zu seinem Ansatz bleibt der Schnitt schmal. Erst darunter öffnet sich das Kleidungsstück und gewinnt Schwung. Die zusätzliche Weite entsteht also nicht an Taille oder Hüfte, sondern dort, wo sie für Bewegung gebraucht wird.
 
-## Die Geschichte des Godets: Vom Art-Déco-Schwung zum modernen Klassiker
+Je größer, breiter oder zahlreicher die Godets sind, desto stärker schwingt der Saum. Wenige kleine Einsätze wirken subtil. Mehrere breite Godets können einen Rock sehr bewegt und fast kreisförmig erscheinen lassen.
 
-In den 1920er und 1930er Jahren revolutionierten Godets die Damenmode. Die Kleider der Art-Déco-Ära wurden schmaler, doch die Frauen wollten sich frei bewegen und tanzen. Der clevere Stoffkeil war die Rettung. Er ermöglichte es, den glamourösen, körpernahen Stil der Epoche mit praktischer Beinfreiheit zu verbinden.
+## Wie wirkt ein Godet im Outfit?
 
-Berühmte Modeschöpfer nutzten Godets, um den [Materialfall](/glossar/materialfall/) zu optimieren und Kleidern eine skulpturale Dynamik zu verleihen. Bis heute taucht das Godet regelmäßig in der Mode auf, sei es bei eleganten Abendkleidern im Meerjungfrauenstil oder bei schwingenden Alltagsröcken.
+Ein Godet verbindet eine klare obere Linie mit einem bewegten unteren Abschluss. Das kann besonders elegant wirken, weil der Rock oder das Kleid im Stand eher schmal aussieht und erst in Bewegung seine Weite zeigt.
 
-## Wie das Godet deine Silhouette und Proportionen verändert
+Für deine [Proportion](/glossar/proportion/) ist entscheidend, wo der Einsatz beginnt:
 
-Im Vergleich zu klassischen Faltenröcken hat das Godet einen entscheidenden Vorteil für deine [Proportionen](/glossar/proportion/): Es trägt an den Hüften nicht auf. Da das zusätzliche [Volumen](/glossar/volumen/) erst weiter unten einsetzt, bleibt der Fokus oben klar strukturiert.
+- **Godet ab dem Oberschenkel:** Der Rock öffnet sich früher und wirkt deutlich ausgestellter.
+- **Godet ab dem Knie:** Die Linie bleibt länger schmal und der Saum erhält einen gezielten Schwung.
+- **Mehrere Godets rundum:** Sie geben dem Saum gleichmäßige Weite und Bewegung.
+- **Godet nur vorne oder hinten:** Es setzt einen bewussten Akzent und kann die [Blickführung](/glossar/blickfuehrung/) lenken.
 
-Das Godet lenkt den Blick nach unten und beeinflusst die [Blickführung](/glossar/blickfuehrung/) im Outfit positiv. Es lässt deine Beine optisch länger wirken, weil die schmale Linie nach unten hin elegant ausläuft. So entsteht eine harmonische [Silhouette](/glossar/silhouette/), die an eine sanfte, sehr bewegte [A-Linie](/glossar/a-linie/) erinnert.
+Durch den schmalen Verlauf oberhalb des Einsatzes entsteht oft eine Silhouette, die sich zum Saum hin sanft öffnet. Je nach Schnitt kann sie an eine [A-Linie](/glossar/a-linie/) erinnern, bleibt aber meist körpernäher als ein klassisch ausgestellter Rock.
 
-## Worauf du bei Passform und Qualität achten solltest
+## Godet, Falte oder Schlitz: Was ist der Unterschied?
 
-Damit ein Kleidungsstück mit Godet-Einsätzen hochwertig wirkt, solltest du auf einige Details bei der [Passform](/glossar/passform/) und Verarbeitung achten:
+Ein Godet wird oft mit einer Falte verwechselt, erfüllt aber eine andere Funktion.
 
-- **Symmetrie:** Die Einsätze müssen absolut gleichmäßig auf derselben Höhe beginnen, damit der Saum im Stand gerade fällt.
-- **Nahtbild:** Achte auf die obere Spitze des Keils. Hier ist handwerkliche Präzision gefragt. Unsaubere Nähte führen schnell zu unschönen [Zugfalten](/glossar/zugfalten/) oder Beulen im Stoff.
-- **Material:** Leichte, fließende Stoffe bringen den Effekt besonders schön zur Geltung. Sie sorgen dafür, dass die Bewegung beim Gehen weich und natürlich wirkt.
+- **Godet:** Ein separates Stoffteil wird eingesetzt und schafft neue Weite.
+- **[Falte](/glossar/falten/):** Der vorhandene Stoff wird gelegt oder eingelegt. Das Volumen entsteht dadurch an der Stelle der Falte.
+- **[Schlitz](/glossar/schlitz/):** Eine Öffnung im Kleidungsstück schafft Bewegungsfreiheit, ohne zwingend zusätzliche Weite hinzuzufügen.
+- **[Zwickel](/glossar/zwickel/):** Auch ein Zwickel ist ein eingesetztes Stoffteil für mehr Bewegungsfreiheit. Er sitzt jedoch meist an funktional beanspruchten Stellen wie Achsel oder Schritt, während das Godet vor allem Rock oder Kleid formt.
 
-## Typisches Missverständnis
+Der Begriff „Godetfalte“ wird gelegentlich verwendet. Konstruktiv ist ein Godet jedoch keine Falte, sondern ein zusätzliches Schnittteil.
 
-Ein Godet ist keine gelegte Falte. Eine Falte entsteht durch das Legen und Bügeln des vorhandenen Stoffes. Ein Godet hingegen ist immer ein separates, zusätzlich eingenähtes Schnittteil. Es ähnelt in seiner logischen Funktion eher einem [Zwickel](/glossar/zwickel/), der unter den Armen oder im Schritt für Bewegungsfreiheit sorgt, hat beim Rock oder Kleid aber eine stark ästhetische und formgebende Aufgabe.
+## Geschichte des Godets
+
+Godets wurden in den 1920er und 1930er Jahren häufig in schmalen Kleidern eingesetzt. Sie ermöglichten Bewegungsfreiheit, ohne die damals gewünschte schlanke Linie aufzugeben. Gerade beim Tanzen zeigte sich ihr Vorteil: Das Kleid konnte im Stand ruhig fallen und sich in Bewegung öffnen.
+
+Designerinnen wie Madeleine Vionnet nutzten Godets in Verbindung mit dem Schrägschnitt. Beide Schnitttechniken unterstützen einen fließenden, bewegten [Materialfall](/glossar/materialfall/). Bis heute finden sich Godets in Abendkleidern, figurbetonten Röcken und modernen Kleidern mit ausgestelltem Saum.
+
+## Worauf du bei Passform und Verarbeitung achten solltest
+
+Ein Godet wirkt nur dann sauber, wenn Schnitt, Material und Verarbeitung zusammenpassen. Achte beim Anprobieren auf diese Punkte:
+
+- **Ansatzpunkt:** Der Godet sollte dort beginnen, wo die zusätzliche Weite für dich sinnvoll ist. Ein zu hoch angesetzter Einsatz verändert die Silhouette stärker.
+- **Gleichmäßige Einsätze:** Bei mehreren Godets sollten Höhe, Breite und Abstand stimmig sein. Sonst kann der Saum unruhig fallen.
+- **Saubere Spitze:** An der oberen Spitze des Keils treffen mehrere Nahtlinien zusammen. Dort dürfen keine Beulen, offenen Fäden oder starken [Zugfalten](/glossar/zugfalten/) entstehen.
+- **Bewegungstest:** Geh einige Schritte, setz dich und steig eine Stufe hoch. Das Godet soll Weite geben, ohne aufzuziehen oder sich zu verdrehen.
+- **Materialfall:** Leichte und fließende Stoffe lassen Godets weich schwingen. Festere Stoffe betonen die Form stärker und wirken skulpturaler.
+- **Saumlänge:** Prüfe den Saum immer in Bewegung. Gerade bei vielen Einsätzen zeigt sich dann, ob er gleichmäßig fällt.
+
+## Für welche Kleidungsstücke sind Godets typisch?
+
+Godets kommen vor allem bei Röcken und Kleidern vor, die oben eine schmale Linie behalten und unten mehr Weite erhalten sollen. Typische Beispiele sind:
+
+- schmale Röcke mit Godets ab Kniehöhe
+- Kleider mit bewegtem, ausgestelltem Saum
+- Abendkleider mit meerjungfrauenartiger Silhouette
+- Röcke mit einzelnen kontrastierenden Einsätzen
+- Kleider aus fließenden Stoffen, bei denen Bewegung sichtbar werden soll
+
+Ob ein Godet alltagstauglich, elegant oder auffällig wirkt, entscheiden neben seiner Größe vor allem Stoff, Farbe und Anzahl der Einsätze.
 
 ## ESKYNA-Merksatz
 
-> Godets halten die Linie oben klar und geben ihr unten Bewegung. So hast du Weite genau dort, wo sie wirken soll.
+> Ein Godet hält die Linie oben klar und gibt dem Saum genau dort Weite, wo Bewegung entstehen soll.
+
+Weitere passende Begriffe findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/).

@@ -1,5 +1,6 @@
 ---
 title: Blog
+seoTitle: "ESKYNA Style Blog | Tips & Looks"
 description: Style knowledge, color theory, and wearable outfit ideas from ESKYNA.
 ui:
   back_text: Back to home

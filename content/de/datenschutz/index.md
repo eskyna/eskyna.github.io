@@ -1,5 +1,6 @@
 ---
 title: "Datenschutzerklärung"
+seoTitle: "Datenschutzerklärung | ESKYNA Coaching"
 eyebrow: "Datenschutz"
 image: "images/sign.png"
 ---

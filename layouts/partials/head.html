@@ -88,32 +88,46 @@
 <meta name="revisit-after" content="7 days">
 <meta http-equiv="Expires" content="Thu, 31 Dec 2037 23:55:55 GMT">
 {{ if .IsHome }}
-  <title>{{ .Params.seoTitle | default $siteTitle }}</title>
+  {{ $documentTitle := .Params.seoTitle | default $siteTitle }}
+  <title>{{ partial "seo-document-title.html" $documentTitle }}</title>
 {{ else if eq .Section "glossar" }}
   {{ $lang := .Site.Language.Lang }}
   {{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
   {{ $glossarWord := cond $isRu "Глоссарий" (cond (eq $lang "en") "Glossary" "Glossar") }}
   {{ $termTitle := .Params.term | default .Title | plainify }}
+  {{ $documentTitle := "" }}
   {{ if .Params.is_glossar_category }}
     {{ $categoryTitle := .Params.glossar_category | default .Title | replaceRE "^Kategorie:[[:space:]]*" "" | plainify }}
-    <title>{{ .Params.seoTitle | default (cond $isRu (printf "%s | %s ESKYNA" $categoryTitle $glossarWord) (cond (eq $lang "en") (printf "%s in the %s | ESKYNA" $categoryTitle $glossarWord) (printf "%s im %s | ESKYNA" $categoryTitle $glossarWord))) }}</title>
+    {{ $documentTitle = .Params.seoTitle | default (cond $isRu (printf "%s | %s ESKYNA" $categoryTitle $glossarWord) (cond (eq $lang "en") (printf "%s in the %s | ESKYNA" $categoryTitle $glossarWord) (printf "%s im %s | ESKYNA" $categoryTitle $glossarWord))) }}
   {{ else if eq .Kind "section" }}
     {{ $defaultGlossarTitle := cond $isRu "Глоссарий стиля, цвета и гардероба | ESKYNA" (cond (eq $lang "en") "Style, Color & Wardrobe Glossary | ESKYNA" "Glossar für Stilberatung, Farbe & Garderobe | ESKYNA") }}
-    <title>{{ .Params.seoTitle | default $defaultGlossarTitle }}</title>
+    {{ $documentTitle = .Params.seoTitle | default $defaultGlossarTitle }}
   {{ else }}
     {{ $defaultTermTitle := cond $isRu (printf "%s: значение | ESKYNA" $termTitle) (cond (eq $lang "en") (printf "%s explained | ESKYNA Glossary" $termTitle) (printf "%s erklärt | ESKYNA Glossar" $termTitle)) }}
-    <title>{{ .Params.seoTitle | default $defaultTermTitle }}</title>
+    {{ $documentTitle = .Params.seoTitle | default $defaultTermTitle }}
   {{ end }}
+  <title>{{ partial "seo-document-title.html" $documentTitle }}</title>
 {{ else if and (ne $pageTitle "") (ne $pageTitle $siteTitle) }}
-  {{ if $pageTitleHasSeparator }}
-    <title>{{ $pageTitle }}</title>
+  {{ $documentTitle := "" }}
+  {{ $lang := .Site.Language.Lang }}
+  {{ $isRu := or (eq $lang "ru") (eq $lang "rus") }}
+  {{ $isEn := eq $lang "en" }}
+  {{ if eq .Kind "term" }}
+    {{/* Short tag names need an explicit descriptive pattern to reach 30 chars. */}}
+    {{ $documentTitle = .Params.seoTitle | default (cond $isRu (printf "Стиль-тег: %s | ESKYNA" $pageTitle) (cond $isEn (printf "%s - styling articles | ESKYNA" $pageTitle) (printf "%s - Stilbeitraege | ESKYNA Glossar" $pageTitle))) }}
+  {{ else if eq .Kind "taxonomy" }}
+    {{ $documentTitle = .Params.seoTitle | default (cond $isRu "Все теги стиля | ESKYNA" (cond $isEn "All style tags | ESKYNA Glossary" "Alle Stil-Tags | ESKYNA Glossar")) }}
+  {{ else if $pageTitleHasSeparator }}
+    {{ $documentTitle = $pageTitle }}
   {{ else if and $pageTitleStartsWithBrand (ne $siteTitleSuffix $siteTitle) }}
-    <title>{{ $pageTitle }} | {{ $siteTitleSuffix }}</title>
+    {{ $documentTitle = printf "%s | %s" $pageTitle $siteTitleSuffix }}
   {{ else }}
-    <title>{{ $pageTitle }} | {{ $siteTitle }}</title>
+    {{/* Prefer compact brand suffix so titles stay within 30–60 chars. */}}
+    {{ $documentTitle = printf "%s | ESKYNA" $pageTitle }}
   {{ end }}
+  <title>{{ partial "seo-document-title.html" $documentTitle }}</title>
 {{ else }}
-  <title>{{ $siteTitle }}</title>
+  <title>{{ partial "seo-document-title.html" $siteTitle }}</title>
 {{ end }}
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | relURL }}">

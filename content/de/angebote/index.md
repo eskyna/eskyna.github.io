@@ -1,5 +1,6 @@
 ---
 title: "Meine Angebote"
+seoTitle: "Meine Style-Angebote | ESKYNA Coaching"
 description: "Alle ESKYNA Angebote im Überblick: Gutschein, Stilgefühl, Stilgarderobe, Präsenz und Begleitung."
 
 services:

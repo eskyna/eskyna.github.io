@@ -1,63 +1,126 @@
 ---
 title: What is Fleece?
 term: Fleece
-description: "Fleece in style terms: definition, practical use, and what matters in daily wardrobe decisions."
+description: "Fleece is a soft, warm pile fabric, usually made from synthetic fibers. Learn how fleece differs from wool, how to assess quality, and how to style and care for fleece clothing."
 category: Materials & Details
 image: images/glossar/fleece.png
-image_alt: Glossary illustration for Fleece
+image_alt: Soft fleece fabric with a brushed, textured surface
 slug: fleece
 url: /en/glossary/fleece/
 aliases:
   - /en/glossar/fleece/
   - /glossary/fleece/
+tags:
+  - fleece fabric
+  - synthetic fabric
+  - outdoor clothing
+  - warm materials
+keywords:
+  - fleece
+  - what is fleece
+  - fleece fabric explained
+  - fleece material
+  - how to wear fleece
+relatedTerms:
+  - title: Polyester
+    url: /en/glossar/polyester/
+  - title: Fabric Weight
+    url: /en/glossar/stoffgewicht/
+  - title: Pilling
+    url: /en/glossar/pilling/
+  - title: Fleece
+    url: /en/glossar/fleece/
+history:
+  - Modern synthetic fleece emerged in the late 20th century as a lightweight, warm pile material for outdoor and sports clothing.
+  - Fleece later moved from functional outdoor wear into everyday casual wardrobes and streetwear.
+knowledge:
+  - Fleece describes a soft pile surface, not one single fiber composition.
+  - Many fleece fabrics are made from polyester, though recycled polyester and fiber blends are also common.
+  - Fabric weight, pile density, finish, and construction determine how warm, bulky, breathable, and durable a fleece garment feels.
+faq:
+  items:
+    - q: Is fleece the same as wool?
+      a: No. In everyday clothing, fleece usually means a synthetic pile fabric, often polyester. Wool is a natural animal fiber with different temperature regulation, care needs, and surface character.
+    - q: Is fleece warm enough for winter?
+      a: Fleece can provide useful insulation, especially as a mid-layer. Its warmth depends on fabric weight, fit, wind exposure, and the layers worn over it.
+    - q: Does fleece pill?
+      a: Some fleece can pill, particularly in high-friction areas such as under backpack straps, at the sides, or around the cuffs. Dense, well-made fleece and careful washing can help limit visible pilling.
 lastmod: "2026-07-21"
 ---
 
 ## Definition
 
-**Fleece** is a practical style term used to make wardrobe decisions more precise. It helps translate abstract fashion language into concrete choices about fit, line, material, and visual impact. Instead of relying on trends alone, the term gives you a clear frame for evaluating whether a piece supports your real life and your intended impression.
+**Fleece** is a soft textile with a raised, brushed pile that traps air and creates warmth with relatively little weight. In fashion and outdoor clothing, fleece usually refers to a synthetic knit fabric, most often made from [polyester](/en/glossar/polyester/), although blends and recycled versions also exist.
 
-## In simple words
+Fleece is commonly used for jackets, hoodies, pullovers, vests, linings, and cold-weather accessories. It is valued for its soft handfeel, easy care, and casual, functional appearance.
 
-Think of **Fleece** as a decision filter. It helps you compare options with less uncertainty: what looks coherent, what feels comfortable, and what will actually be worn. This makes styling less random and more repeatable.
+## What does fleece fabric feel like?
 
-## Why this matters
+Fleece has a fluffy or slightly velvety surface that feels soft against the skin. The pile can be short and dense, or longer and more textured. This changes both the warmth and the visual effect of the garment.
 
-A wardrobe becomes easier when terms are understood in context. You can identify better combinations, avoid impulse purchases, and recognize which details create clarity and which create visual noise. The point is not strict rules. The point is consistency between your style direction, daily routines, and personal presence.
+A thin microfleece works well as a light insulating layer under a coat or jacket. Heavier fleece has more volume and makes a clearer outdoor or sporty statement. The [fabric weight](/en/glossar/stoffgewicht/) and density matter more than the word “fleece” alone when judging how substantial a piece will feel.
 
-## Practical use
+## Why fleece is warm
 
-- Check the term in movement, not only in a static mirror pose.
-- Compare at least two options with different lines or materials.
-- Observe whether the concept improves balance, comfort, and clarity.
-- Verify that the piece works with items already in your wardrobe.
-- Keep notes after real wear, not only after fitting-room impressions.
+The raised fibers create small air pockets. These pockets help retain body heat, which is why fleece is often used as a mid-layer for walking, travel, or everyday winter dressing.
 
-## Everyday example
+Fleece is not automatically windproof or waterproof. In windy weather, it usually needs an outer layer, such as a [windbreaker](/en/glossar/windbreaker/) or a more protective jacket. It can also feel warm indoors, so consider your daily routine before choosing a heavy fleece piece.
 
-A piece can look interesting on its own but still fail in daily combinations. When you apply **Fleece** as a filter, you quickly see whether it supports your existing colors, silhouettes, and roles across work and private situations. This reduces second-guessing and helps you build outfits faster.
+## Fleece in everyday style
 
-## Common misunderstanding
+Fleece has strong functional associations. Depending on its cut, color, and styling, it can read as sporty, outdoorsy, relaxed, technical, or deliberately urban.
 
-A frequent misunderstanding is to treat one term as a universal rule. In reality, style decisions always depend on context: body proportions, material behavior, occasion, and desired impact. The same concept can look calm in one outfit and too strong in another.
+A simple fleece jacket in navy, charcoal, cream, or olive can integrate easily into a casual wardrobe. Pair it with straight-leg jeans, chinos, or tailored trousers and clean sneakers for a practical but composed look. A structured outer layer, a clean neckline, and calm colors prevent fleece from looking overly informal.
 
-## ESKYNA note
+For a more fashion-focused outfit, use fleece as a textural contrast. A slim fleece zip top under a wool coat, or a fleece jacket with refined trousers and leather boots, balances comfort with structure. This is a form of [high-low dressing](/en/glossar/high-low-dressing/), where functional and elevated pieces work together.
 
-At ESKYNA, this term is used as a practical bridge between theory and implementation. The goal is a wardrobe that feels intentional, wearable, and aligned with your personal style identity.
+## How to choose good fleece
 
-## Related terms
+Not every fleece garment performs or looks the same. Check the fabric in person where possible.
 
-- [Fit](/en/glossary/fit/)
-- [Proportion](/en/glossary/proportion/)
-- [Silhouette](/en/glossary/silhouette/)
-- [Material Quality](/en/glossary/material-quality/)
+- **Look at the pile:** A dense, even surface generally appears more polished than a thin or irregular one.
+- **Check the weight:** Lighter fleece is useful for layering, while heavier fleece creates more warmth and volume.
+- **Feel the surface:** Very loose pile can look worn faster than compact, well-finished fleece.
+- **Inspect seams and zippers:** Clean construction matters, especially on jackets worn often.
+- **Consider the fit:** A fleece should leave enough room for movement and layers without creating excess bulk. Read more about [fit](/en/glossar/passform/) and [movement allowance](/en/glossar/bewegungszugabe/).
+- **Assess styling potential:** Choose a color and shape that work with at least several existing pieces in your wardrobe.
 
-## Frequently asked questions
+## Fleece, sweatshirt fabric, and teddy fabric
 
-### How do I apply this term when shopping?
+Fleece is often confused with other soft materials.
 
-Use it as a checklist for line, comfort, and combination potential. If a piece cannot be combined with your existing wardrobe in at least two to three ways, it is often not the strongest choice.
+- **Fleece:** Usually a synthetic fabric with a raised pile, made to provide lightweight warmth.
+- **[Sweatshirt Fabric](/en/glossar/sweatstoff/):** Often a cotton or cotton-blend knit with a smooth outer face and looped or brushed inside.
+- **Teddy or sherpa-style fabric:** A longer, more visibly curly pile that creates greater visual volume than standard fleece.
+- **[Wool](/en/glossar/wolle/):** A natural animal fiber that can also feel warm and soft but behaves differently in moisture, odor retention, and care.
 
-### Do I need to follow this term strictly?
+## Common misunderstandings
 
-No. It is a tool, not a rigid rule. Use it to create clarity, then adapt it to your preferences, context, and lifestyle.
+- **Misunderstanding: Fleece is always made from recycled plastic.**  
+  **Better:** Some fleece is made from recycled polyester, but this depends on the individual product and should be confirmed through the fiber label or manufacturer information.
+
+- **Misunderstanding: All fleece is suitable for outdoor rain and wind.**  
+  **Better:** Standard fleece provides warmth but is usually not a protective outer shell. Check whether a garment is specifically described as windproof or water-repellent.
+
+- **Misunderstanding: Thick fleece is always better.**  
+  **Better:** The best weight depends on how and where you will wear it. A lighter fleece may be more versatile in a layered wardrobe.
+
+## Care and longevity
+
+Fleece can develop [pilling](/en/glossar/pilling/) through friction, especially at the underarms, cuffs, sides, and areas that rub against bags. Wash fleece according to its [care label](/en/glossar/pflegeetikett/), ideally inside out and with similar soft fabrics. Avoid unnecessary high heat, which can affect synthetic fibers and the pile surface.
+
+A fabric shaver may improve the appearance of minor pilling, but use it carefully on plush or high-pile fleece. Good care helps a frequently worn fleece remain a useful part of a [sustainable wardrobe](/en/glossar/nachhaltige-garderobe/).
+
+## Practical check before buying fleece
+
+- Does the fabric feel dense enough for the use you have in mind?
+- Is the piece warm enough without being too bulky for your preferred layers?
+- Does the cut work with your usual trousers, shoes, and outerwear?
+- Will the color remain easy to combine after the first season?
+- Are the seams, zipper, cuffs, and pile surface likely to hold up to regular wear?
+
+## ESKYNA Key Line
+
+Fleece is not just an outdoor fabric. Chosen in the right weight, color, and fit, it adds reliable warmth and relaxed texture to an everyday wardrobe.
+
+Find more matching terms in [Materials & Details](/en/glossar/materialien-details/).

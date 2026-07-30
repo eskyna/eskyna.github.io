@@ -1,16 +1,22 @@
 ---
 title: Was bedeutet Bund?
 term: Bund
-description: Der Bund ist der obere Abschluss von Hose oder Rock und beeinflusst Sitz, Taille und Proportion.
+description: Der Bund ist der obere Abschluss von Hose oder Rock. Er beeinflusst Sitz, Bundhöhe, Taille, Komfort und die Proportionen deines Outfits.
 category: Schnitt, Proportion & Passform
 subcategory: "Größen & Passform"
 tags:
-  - bund
-  - schnitt proportion
+  - Bund
+  - Hosenbund
+  - Rockbund
+  - Passform
+  - Proportion
 keywords:
-  - bund
-  - was bedeutet bund
-  - bund stilberatung
+  - Bund
+  - was bedeutet Bund
+  - Hosenbund
+  - Rockbund
+  - Bundhöhe
+  - Bund Passform
 weight: 1
 image: images/glossar/bund.png
 image_alt: Editoriale Glossar-Grafik zu Bund mit ruhigen Farbfeldern und feiner Linienführung
@@ -21,73 +27,130 @@ relatedTerms:
     url: /glossar/passform/
   - title: Proportion
     url: /glossar/proportion/
-  - title: Taillenbetonung
-    url: /glossar/taillenbetonung/
+  - title: Taillenposition
+    url: /glossar/taillenposition/
   - title: High Waist
     url: /glossar/high-waist/
+  - title: Mid Waist
+    url: /glossar/mid-waist/
+  - title: Low Waist
+    url: /glossar/low-waist/
 knowledge:
-  - Ein geschwungener Formbund passt sich der natürlichen Anatomie der Hüfte wesentlich besser an als ein starrer, gerade geschnittener Bund.
-  - Hochwertige Bünde sind im Inneren immer mit einer formstabilen Einlage verstärkt, um ein Umknicken beim Tragen zu verhindern.
+  - Der Bund hält Hose oder Rock am Körper und bestimmt zugleich, wo die sichtbare horizontale Linie im Outfit liegt.
+  - Ein geformter, leicht geschwungener Bund kann sich besser an den Übergang von Taille und Hüfte anpassen als ein gerade geschnittener Bund.
+  - Einlagen, Verschlüsse, Elastik und die Breite des Bunds beeinflussen, wie formstabil und bequem ein Kleidungsstück sitzt.
 history:
-  - Die Position des Hosen- und Rockbunds markiert seit Jahrhunderten gesellschaftliche Epochen, von der extrem hohen Empire-Taille bis zu den tiefen Hüftschnitten der Jahrtausendwende.
+  - Die Position des Bunds und der Taille änderte sich immer wieder mit den Silhouetten der Mode, von hohen Empire-Linien über tiefere Linien der 1920er-Jahre bis zu den Hüftschnitten der frühen 2000er-Jahre.
 faq:
   items:
-    - q: Wie nutze ich „Bund“ im Alltag?
-      a: Nutze den Begriff als Prüfpunkt für Linie, Balance, Volumen und Sitz. Entscheidend ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Bund“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Was ist der Unterschied zwischen Bund und Leibhöhe?
+      a: Der Bund ist der obere Abschluss von Hose oder Rock. Die Leibhöhe beschreibt, wie weit dieser Abschluss vom Schritt bis zur Taille oder Hüfte nach oben verläuft und wo das Kleidungsstück am Körper sitzt.
+    - q: Woran erkenne ich einen gut sitzenden Bund?
+      a: Ein gut sitzender Bund hält das Kleidungsstück zuverlässig, ohne einzuschneiden, zu rutschen oder am Rücken stark abzustehen. Prüfe den Sitz immer im Stehen, Sitzen und Gehen.
+    - q: Welche Bundhöhe passt zu mir?
+      a: Entscheidend sind dein Komfort, deine Körperproportionen und die gewünschte Wirkung. High Waist betont oft die Körpermitte, Mid Waist wirkt häufig ausgewogen und Low Waist verlagert die Linie stärker zur Hüfte.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Der **Bund** bezeichnet den oberen, meist verstärkten Abschluss von Hosen oder Röcken. Als tragendes Konstruktionselement fixiert er das Kleidungsstück am Körper. Er definiert maßgeblich die [Leibhöhe](/glossar/leibhoehe/), den sicheren Sitz, die [Taillenbetonung](/glossar/taillenbetonung/) sowie die gesamte optische [Proportion](/glossar/proportion/) einer [Silhouette](/glossar/silhouette/).
+Der **Bund** ist der obere Abschluss einer Hose, eines Rocks oder gelegentlich auch einer Shorts. Er liegt an Taille oder Hüfte, hält das Kleidungsstück am Körper und beeinflusst damit Sitz, Komfort und Wirkung.
 
-## Einfach erklärt
+Der Bund definiert zugleich die [Leibhöhe](/glossar/leibhoehe/), also ob ein Modell hoch, mittelhoch oder tief sitzt. Als sichtbare horizontale Linie prägt er außerdem die [Proportion](/glossar/proportion/) und die gesamte [Silhouette](/glossar/silhouette/) deines Outfits.
 
-Was bedeutet Bund im alltäglichen Styling? Vereinfacht gesagt ist der Bund der optische und physische Halt deiner Kleidung. Er bestimmt, auf welcher Höhe deine Hose oder dein Rock sitzt. Das kann hoch in der Taille als [High Waist](/glossar/high-waist/), klassisch auf mittlerer Höhe als [Mid Waist](/glossar/mid-waist/) oder tief auf der Hüfte als [Low Waist](/glossar/low-waist/) sein.
+## Bund einfach erklärt
 
-Kleine Veränderungen in der Bundhöhe oder der Bundverarbeitung verschieben die gesamte [Balance](/glossar/balance/) deines Outfits. Sie beeinflussen, wie lang deine Beine wirken und wie fließend der Übergang zwischen Oberkörper und Unterkörper verläuft. Ein präzise gearbeiteter Bund ist ein entscheidendes Werkzeug für ein stimmiges Gesamtbild. Gute Proportionen bringen visuelle Ruhe in dein Outfit. Die Kleidung muss deiner Anatomie harmonisch folgen, damit du dich rundum wohlfühlst.
+Der Bund ist mehr als der Bereich mit Knopf, Reißverschluss oder Gummizug. Er entscheidet darüber, wo Hose oder Rock beginnen und wie sich der Stoff darunter am Körper verteilt.
 
-## Warum der Bund so wichtig ist
+Sitzt der Bund hoch an oder nahe deiner natürlichen Taille, spricht man meist von [High Waist](/glossar/high-waist/). Ein mittelhoher Bund, auch [Mid Waist](/glossar/mid-waist/) genannt, liegt zwischen Taille und Hüfte. Ein tiefer Bund, also [Low Waist](/glossar/low-waist/), sitzt auf oder unterhalb der Hüfte.
 
-Wer die Wirkung des Hosenbundes oder Rockbundes versteht, kann Kleidung gezielter auswählen, Fehlkäufe vermeiden und die eigene Garderobe stilistisch aufwerten. Der Bund steuert die visuelle Wahrnehmung des Körpers und ist das Fundament für eine gelungene [Stilberatung](/glossar/stilberatung/):
+Diese Position verändert die sichtbaren Längen im Outfit. Ein hoher Bund kann die Beinlinie optisch stärker hervorheben. Ein tieferer Bund verschiebt die Körpermitte nach unten und lässt den Oberkörper im Verhältnis länger erscheinen. Das ist keine feste Regel, sondern hängt immer auch von Oberteil, Saumlänge, Schuhen und deiner gewünschten Wirkung ab.
 
-- **Proportionssteuerung:** Ein hoher Bund verlängert die Beine optisch, während ein tiefer sitzender Hüftbund den Oberkörper optisch streckt.
-- **Passform und Komfort:** Er sorgt für den nötigen Halt und verhindert das Rutschen des Kleidungsstücks. Ein schlecht verarbeiteter Bund schneidet unangenehm ein oder verzieht die gesamte [Passform](/glossar/passform/) im Gesäßbereich.
-- **Stilaussage:** Eine klassische [Bundfaltenhose](/glossar/bundfaltenhose/) mit gut sitzendem Bund wirkt elegant und formell. Ein elastischer Tunnelzug oder ein sportlicher Rippbund vermittelt dagegen Lässigkeit und Dynamik.
+## Warum der Bund für Passform und Proportion wichtig ist
 
-## Konstruktion und Passform: Worauf du beim Kauf achten solltest
+Ein gut gewählter Bund hilft dir, Hosen und Röcke zu finden, die nicht nur gut aussehen, sondern sich im Alltag auch gut anfühlen. Gerade bei Kleidungsstücken, die am Bauch, an der Taille oder an der Hüfte sitzen, ist die [Passform](/glossar/passform/) entscheidend.
 
-- **Formbund oder gerader Bund:** Ein Formbund ist anatomisch geschwungen zugeschnitten. Er passt sich den natürlichen Hüftkurven optimal an, ohne am Rücken abzustehen. Ein gerader Bund ist schnurgerade geschnitten und eignet sich eher für sehr gerade Körperformen.
-- **Verarbeitung und Einlage:** Hochwertige Bünde besitzen im Inneren eine formstabile Einlage. Sie verhindert, dass der Stoff beim Tragen oder Waschen in sich zusammenknickt oder ausleiert.
-- **Verschlussdetails:** Knöpfe, verdeckte Hakenverschlüsse oder integrierte Seitenspanner verändern den formellen Grad und die Ästhetik des Kleidungsstücks.
-- **Materialelastizität:** Achte darauf, ob der Bund unelastisch gewebt ist oder einen Stretchanteil besitzt. Das beeinflusst die Wahl der richtigen [Konfektionsgröße](/glossar/konfektionsgroesse/) erheblich.
+Der Bund beeinflusst vor allem diese Bereiche:
 
-## Typische Missverständnisse
+- **Halt:** Er verhindert, dass Hose oder Rock beim Gehen rutschen.
+- **Komfort:** Ein zu enger Bund kann einschneiden. Ein zu weiter Bund kann abstehen oder ständig nach oben gezogen werden müssen.
+- **Taillenwirkung:** Die Höhe und Breite des Bunds beeinflussen, ob deine Körpermitte betont, optisch verschoben oder weniger hervorgehoben wird.
+- **Blickführung:** Als klare Querlinie lenkt der Bund den Blick an eine bestimmte Stelle des Körpers. Das macht ihn zu einem wichtigen Element der [Blickführung](/glossar/blickfuehrung/).
+- **Stilrichtung:** Ein schmaler, glatter Bund wirkt meist klarer und formeller. Ein Gummibund, Tunnelzug oder sichtbarer Rippbund vermittelt oft eine sportlichere oder lässigere Wirkung.
 
-- **Missverständnis:** Der Bund ist nur ein funktionales Detail ohne modische Relevanz.
-- **Richtig ist:** Der Bund ist das optische Zentrum jedes Outfits. Seine Platzierung entscheidet darüber, wohin der Blick gelenkt wird und wie der Stoff fällt.
+## Welche Bundarten gibt es?
 
-- **Missverständnis:** Jede Bundhöhe steht jeder Statur gleichermaßen gut.
-- **Richtig ist:** Die optimale Bundhöhe hängt von deinen individuellen Körperproportionen ab. Eine genaue [Outfit-Analyse](/glossar/outfit-analyse/) hilft dir dabei, die für dich vorteilhafteste Höhe zu finden.
+Bünde unterscheiden sich nicht nur in ihrer Höhe, sondern auch in Schnitt, Material und Verarbeitung.
 
-## Praxischeck für den Alltag
+### Formbund
 
-Möchtest du die Wirkung deines Bunds überprüfen? Betrachte das Kleidungsstück nicht nur im Stehen, sondern auch in der Bewegung und im Sitzen:
+Ein Formbund ist leicht geschwungen zugeschnitten und folgt dem Übergang von Taille zu Hüfte. Er kann besonders bei Hosen oder Röcken sinnvoll sein, wenn ein gerader Bund am Rücken absteht.
 
-- **Der Zwei-Finger-Test:** Im Stehen sollten bequem zwei Finger zwischen Bund und Haut passen. So ist garantiert, dass das Kleidungsstück beim Sitzen nicht einschneidet.
-- **Der Profil-Check:** Stelle dich seitlich zum Spiegel. Steht der Bund am hinteren Rücken ab? Wenn ja, ist die Hose an dieser Stelle nicht tailliert genug oder passt nicht optimal zu deinem persönlichen Hüft- und Taillenverhältnis.
-- **Harmonie im Fokus:** Stecke dein Oberteil versuchsweise ganz oder mit dem praktischen [French Tuck](/glossar/french-tuck/) locker in den Bund. So kannst du die optische Bruchlinie verschieben und prüfen, wie sich deine Beinlänge optisch verändert.
+### Gerader Bund
 
-## Historischer Kontext und Stilwirkung
+Ein gerader Bund ist als gerader Streifen gearbeitet. Er wirkt schlicht und kommt bei vielen Hosen und Röcken vor. Ob er gut sitzt, hängt von Schnitt, Material und deinem Verhältnis von Taille zu Hüfte ab.
 
-In der Modegeschichte spiegelt die Position des Bunds gesellschaftliche Epochen wider. In den 1920er-Jahren rutschte der Bund bei Kleidern und Röcken extrem tief, während die High-Waist-Schnitte der 1940er- und 1950er-Jahre die natürliche Taille maximal betonten. Heute haben wir die Freiheit, die Bundhöhe ganz nach unserem persönlichen [Stilgefühl](/glossar/stilgefuehl/) und Komfort auszuwählen.
+### Elastischer Bund
+
+Ein elastischer Bund enthält Gummi oder elastisches Material. Er bietet meist mehr Flexibilität und Komfort, kann aber je nach Verarbeitung weniger formell wirken. Besonders bei Jersey, Strick oder entspannten Hosenformen ist er verbreitet.
+
+### Bund mit Gürtelschlaufen
+
+Gürtelschlaufen ermöglichen es dir, mit einem [Gürtel](/glossar/guertel/) den Sitz zusätzlich zu regulieren oder die Taille bewusst zu betonen. Ein Gürtel kann dabei funktional sein oder als sichtbares Accessoire den Look strukturieren.
+
+### Paperbag-Bund
+
+Ein geraffter, oft höher sitzender Bund mit Mehrweite oberhalb des Verschlusses wird als Paperbag-Bund bezeichnet. Typisch ist er bei der [Paperbag-Hose](/glossar/paperbag-hose/). Die Raffung setzt die Taille deutlich in Szene und bringt Volumen in die Körpermitte.
+
+## Bundhöhe und Outfitwirkung
+
+Die Bundhöhe ist ein wichtiges Stilmittel, aber kein Maßstab dafür, was du tragen solltest. Wähle sie danach, wie du dich bewegen möchtest, welche Oberteile du kombinierst und welche Linie dir gefällt.
+
+- **High Waist:** Kann die Taille betonen und die Beinlinie optisch verlängern. Funktioniert gut mit eingesteckten Oberteilen, kurzen Jacken oder [Crop Tops](/glossar/crop-top/).
+- **Mid Waist:** Wirkt oft ausgewogen und ist für viele Alltagslooks unkompliziert. Sie lässt sich mit eingesteckten, locker fallenden oder längeren Oberteilen kombinieren.
+- **Low Waist:** Setzt die horizontale Linie tiefer und wirkt je nach Schnitt entspannt, körpernah oder bewusst Y2K-inspiriert. Achte besonders darauf, dass der Bund beim Sitzen bequem bleibt.
+
+Auch die [Taillenposition](/glossar/taillenposition/) eines Kleidungsstücks kann von deiner natürlichen Taille abweichen. Ein hoher Bund muss deshalb nicht automatisch genau auf deiner natürlichen Taille enden.
+
+## Worauf du beim Kauf achten solltest
+
+Prüfe den Bund nicht nur vor dem Spiegel. Ein Kleidungsstück kann im Stehen passend wirken und beim Sitzen oder Gehen unangenehm werden.
+
+- **Sitzt der Bund stabil?** Hose oder Rock sollten nicht rutschen, ohne dass du sie ständig richten musst.
+- **Schneidet er ein?** Atme tief ein, setz dich hin und geh ein paar Schritte. Druck am Bauch oder an der Hüfte ist ein klares Warnsignal.
+- **Steht der Bund am Rücken ab?** Ein kleiner Abstand kann je nach Schnitt vorkommen. Ein deutliches Abstehen weist jedoch oft darauf hin, dass Schnitt oder Größe nicht zu deinem Taille-Hüfte-Verhältnis passen.
+- **Entstehen Zugfalten?** Starke [Zugfalten](/glossar/zugfalten/) am Verschluss, an der Hüfte oder im Schritt können auf zu wenig Weite oder eine unpassende Konstruktion hinweisen.
+- **Passt der Bund zum Material?** Feste Webstoffe brauchen oft präziseren Sitz als elastische Materialien mit [Stretch](/glossar/stretch/).
+- **Funktioniert er mit deinen Oberteilen?** Teste, ob du dein Shirt, Hemd oder deine Bluse ganz einstecken, locker herausziehen oder mit einem [French Tuck](/glossar/french-tuck/) tragen möchtest.
+
+## Typische Missverständnisse zum Bund
+
+- **Missverständnis:** Der Bund ist nur ein funktionales Detail.  
+  **Richtig ist:** Der Bund ist eine zentrale Linie im Outfit. Seine Höhe, Breite und Verarbeitung verändern die Wirkung von Taille, Beinen und Oberkörper.
+
+- **Missverständnis:** High Waist passt immer besser als Low Waist.  
+  **Richtig ist:** Keine Bundhöhe ist grundsätzlich besser. Wichtig sind Komfort, Schnitt, Anlass und die Proportionen, die du persönlich magst.
+
+- **Missverständnis:** Wenn der Bund im Stehen passt, passt die Hose.  
+  **Richtig ist:** Ein guter Bund muss auch beim Sitzen, Gehen und Bewegen bequem bleiben.
+
+- **Missverständnis:** Ein abstehender Bund lässt sich immer mit einem Gürtel lösen.  
+  **Richtig ist:** Ein Gürtel kann etwas regulieren, ersetzt aber keine passende Schnittform. Steht der Bund stark ab, ist häufig ein anderes Modell die bessere Wahl.
+
+## Historische Einordnung
+
+Die Position des Bunds folgt den wechselnden Idealen der Modegeschichte. Empire-Kleider verlagerten die betonte Linie weit nach oben unter die Brust. In den 1920er-Jahren lagen viele Kleider und Röcke deutlich tiefer und erzeugten eine gerade, weniger taillierte Wirkung. Die Mode der 1940er- und 1950er-Jahre hob die natürliche Taille wieder stärker hervor.
+
+Spätere Jahrzehnte brachten erneut unterschiedliche Bundhöhen nebeneinander. Besonders tiefe Hüftschnitte wurden in der Mode der späten 1990er- und frühen 2000er-Jahre prägend. Heute existieren High Waist, Mid Waist und Low Waist parallel. Du kannst die Bundhöhe deshalb als bewusste Stilentscheidung nutzen, statt sie allein nach Trends auszuwählen.
+
+## ESKYNA-Merksatz
+
+Der Bund hält nicht nur Hose oder Rock. Er setzt die zentrale Linie deines Outfits und beeinflusst, wie du dich darin bewegst und fühlst.
 
 ## Beratungsblick
 
-In der persönlichen Stilberatung ist der Bund weit mehr als ein technisches Maß. Er ist das gestalterische Bindeglied, das den Fluss deines Outfits bestimmt. Erst wenn die Bundkonstruktion exakt auf deinen Alltag, dein Körpergefühl und den gewünschten Anlass abgestimmt ist, entsteht ein müheloser und selbstbewusster Look.
+Wenn du bei Hosen oder Röcken unsicher bist, beginne mit dem Bund. Prüfe zuerst seine Höhe, dann Sitz und Komfort. Erst danach lohnt sich der Blick auf Beinweite, Saumlänge oder Details wie Taschen und Falten.
 
-Tiefergehende Einblicke in die Architektur von Kleidung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/). Wenn du unsicher bist, wie du deine Silhouette optimal betonst, hilft dir ein genauer [Kleiderschrank-Check](/glossar/kleiderschrank-check/) oder eine professionelle [Stilanalyse](/glossar/stilanalyse/).
+Für eine tragbare Garderobe ist es hilfreich, deine bevorzugten Bundhöhen zu kennen. So kannst du beim Shopping schneller einschätzen, ob ein Teil zu deinem Alltag, deinen vorhandenen Oberteilen und deiner gewünschten [Stilwirkung](/glossar/wirkung/) passt.
 
-Ein spannender modischer Gegenpol zum alltagstauglichen, präzise sitzenden Bund ist übrigens das [Bühnenoutfit](/glossar/buehnenoutfit/). Hier weichen funktionale Alltagsaspekte oft spektakulären, bühnenwirksamen Proportionen und extremen Schnittführungen.
+Weitere passende Begriffe findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/).

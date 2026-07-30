@@ -1,114 +1,252 @@
 ---
 title: Was bedeutet Herbsttyp?
 term: Herbsttyp
-description:
-  Der Herbsttyp ist ein warmer, meist gedeckter Farbtyp mit erdigen, satten und naturbezogenen
-  Nuancen.
+description: Der Herbsttyp ist ein warmer, meist gedeckter Farbtyp. Ihm stehen oft erdige, satte und natürliche Farben wie Oliv, Rost, Camel und warmes Braun besonders gut.
 category: Farbberatung & Farbe
 tags:
   - herbsttyp
   - farbtyp
   - farbberatung
   - autumn type
+  - herbst farbpalette
 keywords:
   - herbsttyp
+  - was ist ein herbsttyp
+  - herbsttyp farben
+  - herbst farbtyp
   - soft autumn
   - warm autumn
   - deep autumn
-  - herbst farbtyp
 weight: 9
 image: images/glossar/herbsttyp.png
-image_alt: "Glossar-Illustration zu Herbsttyp"
+image_alt: "Glossar-Illustration zur warmen, gedeckten Farbpalette des Herbsttyps"
 knowledge:
-  - "Der Herbsttyp zeichnet sich durch einen warmen Hautunterton und gedeckte, erdige Kontraste aus."
-  - "Die drei Untergruppen (Soft, Warm, Deep) helfen bei der feinen Abstimmung von Helligkeit und Tiefe."
-  - "Gold und warme Erdtöne lassen den Teint dieses Farbtyps strahlen, während kühles Silber oder reines Weiß ihn oft blass wirken lassen."
-history: "Die moderne Farbtypologie geht auf die Kunst- und Farblehre des frühen 20. Jahrhunderts zurück, insbesondere auf Johannes Itten am Bauhaus. In den 1980er-Jahren erlangte das System der vier Jahreszeiten weltweite Popularität in der Stilberatung."
+  - "Der Herbsttyp gehört in der klassischen Farbtypologie zu den warmen Farbtypen und wirkt häufig besonders stimmig in gedeckten, erdigen Nuancen."
+  - "Die Einteilung in Soft Autumn, Warm Autumn und Deep Autumn hilft dabei, innerhalb der Herbstpalette Helligkeit, Wärme und Farbtiefe genauer einzuordnen."
+  - "Warme Weißnuancen wie Cremeweiß oder Ecru wirken für viele Herbsttypen harmonischer als sehr hartes Reinweiß."
+history: "Die Einteilung in vier Jahreszeiten ist ein verbreitetes Modell der Farbberatung. Sie wurde im späten 20. Jahrhundert international bekannt und wird heute oft durch differenziertere Untergruppen ergänzt."
 relatedTerms:
   - title: Farbtyp
     url: /glossar/farbtyp/
+  - title: Farbtypologie
+    url: /glossar/farbtypologie/
   - title: Unterton
     url: /glossar/unterton/
   - title: Gedämpfte Farben
     url: /glossar/gedaempfte-farben/
-  - title: Farbtemperatur
-    url: /glossar/farbtemperatur/
   - title: Farbpass
     url: /glossar/farbpass/
+  - title: Herbsttyp
+    url: /glossar/herbsttyp/
 faq:
   items:
     - q: Wie nutze ich den Herbsttyp im Alltag?
-      a: Nutze die Palette als praktischen Leitfaden für deinen Einkauf und dein tägliches Styling. Achte darauf, warme Töne nah am Gesicht zu tragen.
+      a: Nutze die Herbstpalette als Orientierung beim Einkauf und kombiniere vor allem warme, gedeckte Farben in Gesichtsnähe. Entscheidend bleibt immer, wie eine konkrete Nuance bei dir im Tageslicht wirkt.
+    - q: Welche Farben passen zum Herbsttyp?
+      a: Häufig passen warme Braun-, Grün-, Rot- und Orangetöne wie Camel, Oliv, Moosgrün, Rostorange, Terracotta und warmes Petrol. Auch Cremeweiß und Ecru sind oft stimmige Alternativen zu Reinweiß.
     - q: Gilt die Farbpalette für jeden Stil gleich?
-      a: Nein. Farben wirken immer im Zusammenspiel mit deinem persönlichen Stil, den gewählten Materialien und deiner Ausstrahlung.
+      a: Nein. Die passende Farbpalette ist unabhängig davon, ob du dich klassisch, modern, romantisch oder lässig kleidest. Material, Schnitt, Kontrast und deine gewünschte Wirkung entscheiden mit.
 lastmod: "2026-07-09"
 ---
 
-## Definition und Wirkung des Herbsttyps
+## Definition: Was ist ein Herbsttyp?
 
-Der **Herbsttyp** ist ein warmer Farbtyp mit Tiefe, Ruhe und reicher Farbsubstanz. In der klassischen [Farbtypologie](/glossar/farbtypologie/) steht er für gedämpfte, satte und naturbezogene Nuancen, die eine natürliche Eleganz ausstrahlen.
+Der **Herbsttyp** ist in der klassischen [Farbtypologie](/glossar/farbtypologie/) ein warmer Farbtyp. Seine Farbpalette ist meist gedeckt, satt und natürlich: Statt eisiger Pastelltöne oder sehr klarer Neonfarben stehen häufig erdige Nuancen, warme Grüntöne, tiefe Brauntöne und gedämpfte Rot-Orange-Töne im Vordergrund.
 
-Im Gegensatz zu den klaren, leuchtenden Tönen des Frühlings wirkt die Palette des Herbsttyps weicher, erdiger und dunkler. Seine Farben harmonieren perfekt mit dem warmen, goldenen Schimmer, der die natürliche Ausstrahlung dieses Typs prägt.
+Typisch für den Herbsttyp ist nicht eine bestimmte Haar-, Haut- oder Augenfarbe. Entscheidend ist das Gesamtbild aus Wärme, Farbtiefe und einer eher weichen bis satten Farbwirkung. Wenn Farben wie Oliv, Rost, Camel oder Petrol dein Gesicht ruhig, frisch und klar erscheinen lassen, kann die Herbstpalette für dich eine hilfreiche Orientierung sein.
 
-## Die typischen Merkmale im Überblick
+## Wie wirkt die Herbst-Farbpalette?
 
-Ob du ein Herbsttyp bist, entscheidet das Zusammenspiel deiner natürlichen Pigmentierung von Haut, Haaren und Augen. Der wichtigste Gradmesser ist dabei dein biologischer [Unterton](/glossar/unterton/).
+Herbstfarben wirken warm, geerdet und reich. Sie erinnern oft an Naturmaterialien, Laub, Holz, Gewürze und dunkle Beeren. Dadurch können sie je nach Kombination ruhig, hochwertig, kreativ oder markant wirken.
 
-- **Die Haut:** Der Teint zeigt meist einen warmen, goldenen, pfirsichfarbenen oder gelblich-olivfarbenen Unterton. Manche Herbsttypen haben blasse, elfenbeinfarbene Haut, die in der Sonne kaum bräunt, während andere einen warmen Bronzeton annehmen. Typisch sind auch goldbraune Sommersprossen.
-- **Die Haare:** Die Haarfarbe hat fast immer einen warmen, rötlichen oder goldenen Glanz. Die Palette reicht von hellem Kupferrot und Kastanienbraun über warmes Mittelbraun bis hin zu tiefem Dunkelbraun mit goldenen Reflexen.
-- **Die Augen:** Die Augenfarben sind warm und facettenreich. Häufig sind Olivgrün, warmes Bernstein, helles Goldbraun oder dunkles Schokoladenbraun vertreten. Manche Augen zeigen auch kleine, goldene Sprenkel in der Iris.
+Im Unterschied zum [Frühlingstyp](/glossar/fruehlingstyp/) sind die Farben des Herbsttyps meist weniger leuchtend und heller. Gegenüber dem [Sommertyp](/glossar/sommertyp/) wirken sie wärmer. Im Vergleich zum [Wintertyp](/glossar/wintertyp/) sind sie häufig weicher und weniger kontrastreich.
 
-## Die drei Untergruppen: Soft, Warm und Deep Autumn
+Wichtig: Farbtypen sind ein Modell, keine starre Regel. Du musst keine Farbe tragen, nur weil sie theoretisch zu deiner Palette gehört. Entscheidend ist, ob sie deine gewünschte [Wirkung](/glossar/wirkung/) unterstützt und du dich darin wiederfindest.
 
-Jeder Mensch ist individuell. Deshalb unterscheidet die moderne [Farbberatung](/glossar/farbberatung/) drei feine Nuancen innerhalb des Herbsttyps, um dein persönliches [Farbprofil](/glossar/farbprofil/) noch exakter zu bestimmen.
+## Typische Merkmale des Herbsttyps
 
-### Soft Autumn (Gedämpfter Herbst)
+Die folgenden Merkmale können auf einen Herbsttyp hinweisen. Sie sind jedoch keine sichere Diagnose, denn natürliche Pigmentierung und persönliche Kontraste sind sehr individuell.
 
-Diese Variante liegt nahe am [Sommertyp](/glossar/sommertyp/). Die Farben sind besonders sanft, pudrig und haben einen feinen Grauanteil. Wenn du ein Soft Autumn bist, stehen dir gedeckte, pastellige Erdtöne wie Salbeigrün, sanftes Khaki und weiches Sandbeige hervorragend.
+- **Warme Gesamtwirkung:** Haut, Haare und Augen können einen goldenen, gelblichen, olivigen, kupfrigen oder warm braunen Eindruck vermitteln.
+- **Gedämpfte bis tiefe Farben:** Sehr reine, kühle oder grelle Farben wirken am Gesicht mitunter dominanter als warme, gebrochene Töne.
+- **Harmonische Erdtöne:** Farben wie Cognac, Rost, Khaki, Oliv oder warmes Braun wirken oft ruhiger und natürlicher als kaltes Grau oder hartes Schwarz.
+- **Warme Metalle:** Gold, Bronze oder Kupfer können sich besonders stimmig in die Gesamtwirkung einfügen. Das ist keine Pflicht, sondern ein nützlicher Vergleich beim Testen.
 
-### Warm Autumn (Warmer und echter Herbst)
+Der [Unterton](/glossar/unterton/) der Haut kann bei der Einordnung helfen. Er allein reicht aber nicht aus. Auch [Helligkeit](/glossar/helligkeit/), [Sättigung](/glossar/saettigung/) und dein natürlicher Kontrast beeinflussen, welche Herbstnuancen am besten funktionieren.
 
-Hier zeigt sich das klassische Bild mit extrem warmen, satten Nuancen. Deine Farben besitzen keine kühlen Untertöne. Warme Klassiker wie Rostorange, Senfgelb, Senfgelb, Terracotta und sattes Schokoladenbraun bringen dein Gesicht zum Strahlen. Der Kontrast zum [Frühlingstyp](/glossar/fruehlingstyp/) liegt in der schwereren, gedeckten Tiefe deiner Farben.
+## Die drei Herbsttypen: Soft, Warm und Deep Autumn
 
-### Deep Autumn (Dunkler Herbst)
+Viele Farbberatungen teilen den Herbsttyp weiter auf. Die Begriffe **Soft Autumn**, **Warm Autumn** und **Deep Autumn** beschreiben unterschiedliche Schwerpunkte innerhalb der warmen Herbstpalette.
 
-Dieser Typ grenzt an den [Wintertyp](/glossar/wintertyp/). Die Pigmentierung ist tief, kontrastreich und dunkel. Dunkles Schokoladenbraun, Aubergine, tiefes Waldgrün, Petrol und sogar dunkles [Bordeaux](/glossar/bordeaux/) kreieren bei dir ein harmonisches Gesamtbild. Ein [Hell-Dunkel-Kontrast](/glossar/hell-dunkel-kontrast/) steht dir besonders gut.
+### Soft Autumn: der gedämpfte Herbst
 
-## Farbpalette: Welche Farben passen zu dir?
+Soft Autumn liegt farblich nah am Sommer, bleibt aber wärmer. Die Farben sind weich, zurückhaltend und oft leicht gräulich. Harte Kontraste oder sehr intensive Farben können schneller unruhig wirken.
 
-Wenn du deine Garderobe nach dem Herbst-Farbprinzip aufbauen möchtest, bedienst du dich am besten im herbstlichen Wald. Deine Palette lebt von Naturnähe und Wärme.
+Passende Nuancen sind häufig:
 
-- **Warme Naturtöne:** Terracotta, Cognac, Camel, [Ocker](/glossar/ocker/) und alle Nuancen von warmem Braun eignen sich perfekt als langlebige [Basics](/glossar/basic/) für Mäntel, Hosen oder Strickwaren.
-- **Grünvarianten:** [Oliv](/glossar/oliv/), Khaki, [Moosgrün](/glossar/moosgruen/) und [Tannengrün](/glossar/tannengruen/) sind für dich hervorragende neutrale Farben, die weicher wirken als hartes Schwarz.
-- **Warme Rot- und Orangetöne:** Rostrot, Kürbisorange, Kupfer und warmes Senfgelb setzen lebendige Akzente.
-- **Die idealen Neutraltöne:** Reines [Reinweiß](/glossar/reinweiss/) lässt den Herbsttyp oft blass oder müde wirken. Greife stattdessen zu warmem [Cremeweiß](/glossar/cremeweiss/), Ecru oder weichem Sand.
+- Salbeigrün
+- Taupe
+- weiches Khaki
+- Sand
+- gedämpftes Petrol
+- Altrosa mit warmem Einschlag
+- sanftes Braun
 
-Als [Akzentfarbe](/glossar/akzentfarbe/) kannst du auch wunderbar mit warmem Petrol oder einem gedeckten Pflaumenton spielen. Vermeide dagegen eisige Pastelltöne, reines Pink oder grelles Neongrün, da diese den [Warm-Kalt-Kontrast](/glossar/warm-kalt-kontrast/) stören und unruhig wirken.
+[Gedämpfte Farben](/glossar/gedaempfte-farben/) und niedrige bis mittlere Kontraste unterstützen diese ruhige Wirkung besonders gut.
 
-## Praktische Styling-Tipps für deine Garderobe
+### Warm Autumn: der warme Herbst
 
-Farben wirken nie isoliert. Sie entfalten ihre Kraft erst im Zusammenspiel mit dem richtigen Material, dem passenden Schnitt und Accessoires.
+Warm Autumn verkörpert die klassische, deutlich warme Herbstpalette. Die Farben dürfen satt sein, sollten aber eher warm und erdig statt grell wirken.
 
-- **Die Materialien:** Nutze matte, strukturierte Stoffe. Sie schlucken das Licht sanft und bringen [gedämpfte Farben](/glossar/gedaempfte-farben/) optimal zur Geltung. Grob gestrickte [Wolle](/glossar/wolle/), weicher Cord, edles Veloursleder oder griffiges [Leder](/glossar/leder/) passen perfekt zu deiner erdigen Ästhetik.
-- **Der Schmuck:** Ersetze kühles Silber durch warm glänzende Metalle. Gold, Bronze, Kupfer oder Messing harmonieren ideal mit der [Farbtemperatur](/glossar/farbtemperatur/) deiner Haut.
-- **Das Styling:** Baue deine Looks in Schichten auf. Das klassische Layering eignet sich hervorragend, um verschiedene Töne deiner Palette miteinander zu kombinieren und dem Outfit optische Tiefe zu verleihen.
+Typische Farben sind:
+
+- Terracotta
+- Rostorange
+- Senfgelb
+- Ocker
+- Camel
+- Kupfer
+- Oliv
+- warmes Schokoladenbraun
+
+Diese Palette lebt von einer klaren warmen [Farbtemperatur](/glossar/farbtemperatur/). Kühles Rosa, bläuliches Rot oder eisige Grautöne können daneben schnell fremd wirken.
+
+### Deep Autumn: der dunkle Herbst
+
+Deep Autumn verbindet Wärme mit Tiefe. Diese Variante liegt in der Farbwirkung näher am Wintertyp, braucht aber meist weniger kalte und klare Farben. Dunkle, satte Töne wirken oft besonders harmonisch.
+
+Geeignete Farben können sein:
+
+- Schokoladenbraun
+- dunkles Oliv
+- Tannengrün
+- Aubergine
+- dunkles Petrol
+- warmes Bordeaux
+- tiefes Rostrot
+
+Ein bewusster [Hell-Dunkel-Kontrast](/glossar/hell-dunkel-kontrast/) kann bei Deep Autumn sehr stimmig wirken, solange die Farben nicht zu kühl oder zu hart werden.
+
+## Herbsttyp Farben: Die passende Farbpalette
+
+Die Herbst-Farbpalette bietet viele starke Farben für Alltag, Business und besondere Anlässe. Besonders leicht kombinierbar sind warme Neutraltöne und gedeckte Akzentfarben.
+
+### Warme Neutraltöne für deine Garderobe
+
+Warme Neutraltöne bilden eine vielseitige Basis für Hosen, Mäntel, Schuhe, Taschen und Strick.
+
+- [Camel](/glossar/camel/)
+- [Cognac](/glossar/cognac/)
+- [Braun](/glossar/braun/)
+- Schokoladenbraun
+- [Beige](/glossar/beige/)
+- Sand
+- Taupe mit warmem Einschlag
+- Ecru
+- [Cremeweiß](/glossar/cremeweiss/)
+
+Statt Reinweiß kann ein gebrochenes Weiß wie Creme, Ecru oder Off White oft weicher wirken. Auch Schwarz muss nicht grundsätzlich ausgeschlossen sein. Wenn es dir gefällt, kombiniere es mit warmen Farben oder nutze es weiter entfernt vom Gesicht, etwa bei Schuhen oder einer Hose.
+
+### Grün für den Herbsttyp
+
+Grün gehört zu den stärksten Farbfamilien für viele Herbsttypen. Es wirkt natürlich, ruhig und lässt sich gut mit warmen Brauntönen verbinden.
+
+Besonders passend sind häufig:
+
+- [Oliv](/glossar/oliv/)
+- Khaki
+- [Moosgrün](/glossar/moosgruen/)
+- [Tannengrün](/glossar/tannengruen/)
+- gedecktes Petrol
+- dunkles Waldgrün
+
+### Rot, Orange und Gelb
+
+Warme Rot-, Orange- und Gelbtöne geben der Herbstpalette Lebendigkeit, ohne ihre ruhige Tiefe zu verlieren.
+
+- Rostrot
+- Terracotta
+- Ziegelrot
+- Kupfer
+- Kürbisorange
+- [Ocker](/glossar/ocker/)
+- [Senfgelb](/glossar/senfgelb/)
+
+Wenn dir diese Farben als Oberteil zu präsent sind, nutze sie als [Akzentfarbe](/glossar/akzentfarbe/) in einem Schal, einer Tasche, einem Lippenstift oder Schmuckdetail.
+
+## Welche Farben stehen dem Herbsttyp oft weniger gut?
+
+Es gibt keine verbotenen Farben. Manche Nuancen können den Teint jedoch blasser, unruhiger oder grauer erscheinen lassen, wenn sie sehr nah am Gesicht getragen werden.
+
+Häufig schwieriger sind:
+
+- sehr kühles Reinweiß
+- eisige Pastelltöne
+- bläuliches Pink
+- kühles Flieder
+- silbriges Hellgrau
+- grelle Neonfarben
+- sehr klare, kühle Blautöne
+
+Teste solche Farben bei Tageslicht. Eine Farbe ist nicht automatisch unpassend, nur weil sie außerhalb einer Palette liegt. Oft entscheidet die genaue Nuance, der Stoff und die Größe der Farbfläche.
+
+## Materialien und Schmuck für den Herbsttyp
+
+Die Wirkung einer Farbe hängt auch vom Material ab. Matte und strukturierte Oberflächen unterstützen die natürliche Tiefe der Herbstpalette häufig besonders gut.
+
+Passende Materialien können sein:
+
+- [Wolle](/glossar/wolle/)
+- [Cord](/glossar/cord/)
+- [Tweed](/glossar/tweed/)
+- [Leder](/glossar/leder/)
+- Veloursleder
+- [Leinen](/glossar/leinen/)
+- matte Baumwolle
+- weich fallende Viskose in gedeckten Farben
+
+Bei Schmuck wirken warme Metalle wie [Gold](/glossar/gold/), [Bronze](/glossar/bronze/) oder [Kupfer](/glossar/kupfer/) oft harmonisch. Silber kann ebenso funktionieren, wenn du seine klare, moderne Wirkung bewusst als Kontrast einsetzen möchtest.
+
+## So findest du heraus, ob du ein Herbsttyp bist
+
+Halte verschiedene Farben bei natürlichem Tageslicht direkt unter dein ungeschminktes Gesicht. Vergleiche immer zwei ähnliche Farben miteinander, etwa Reinweiß mit Cremeweiß oder kühles Grau mit warmem Taupe.
+
+Ein stimmiger Farbton kann dein Hautbild ruhiger erscheinen lassen, Augen und Lippen klarer wirken lassen und Schatten im Gesicht optisch zurücknehmen. Eine ungünstige Farbe kann dagegen zuerst sichtbar werden, bevor man dich wahrnimmt.
+
+Achte beim Farbtest auf diese Fragen:
+
+- Wirkt dein Gesicht frisch oder müde?
+- Wird dein Hautbild ruhiger oder unruhiger?
+- Siehst du zuerst die Farbe oder zuerst dich?
+- Passt der Ton zu deiner natürlichen Wärme?
+- Lässt sich die Farbe mit deiner vorhandenen [Garderobe](/glossar/garderobe/) kombinieren?
+
+Ein persönlicher [Farbpass](/glossar/farbpass/) hilft dir dabei, passende Nuancen beim Shopping schneller zu erkennen und bewusster auszuwählen.
+
+## Herbsttyp im Alltag kombinieren
+
+Für ein stimmiges Outfit brauchst du nicht ausschließlich Herbstfarben. Baue deine Looks aus zwei bis drei harmonischen Tönen auf und entscheide, welcher Bereich im Fokus stehen soll.
+
+Eine einfache Kombination ist Camel, Cremeweiß und Oliv. Für mehr Tiefe funktionieren Schokoladenbraun, Petrol und warmes Gold. Wenn du es klarer magst, kombiniere eine ruhige Basis wie Ecru oder Braun mit Rostorange als Akzent.
+
+Auch die [Farbharmonie](/glossar/farbharmonie/) und dein gewünschter Kontrast sind wichtig. Ein Soft Autumn wirkt oft besonders stimmig in sanften Tonkombinationen. Deep Autumn kann dunklere Kontraste tragen. Warm Autumn gewinnt durch sichtbar warme, satte Farben.
+
+## Typische Missverständnisse über den Herbsttyp
+
+- **Herbsttyp bedeutet, du musst rote Haare haben.**  
+  Nein. Haarfarbe allein bestimmt keinen Farbtyp. Entscheidend ist die Gesamtwirkung aus Temperatur, Tiefe, Sättigung und Kontrast.
+
+- **Herbsttypen dürfen kein Schwarz tragen.**  
+  Schwarz ist nicht verboten. Es kann nur härter wirken als warme, dunkle Alternativen wie Schokoladenbraun, Tannengrün oder dunkles Petrol.
+
+- **Alle warmen Farben passen automatisch.**  
+  Nicht jede warme Farbe hat die gleiche Helligkeit und Intensität. Ein sehr leuchtendes Orange kann für einen Soft Autumn zu kräftig sein, während es bei Warm Autumn gut funktionieren kann.
+
+- **Die Farbpalette bestimmt deinen Stil.**  
+  Die Palette unterstützt deine Farben, ersetzt aber nicht deine Stilidentität. Du kannst Herbstfarben minimalistisch, klassisch, romantisch, urban oder kreativ tragen.
 
 ## ESKYNA-Merksatz
 
-Beim Herbsttyp entsteht visuelle Stärke durch die Kombination aus natürlicher Wärme und gedeckter Tiefe.
+Der Herbsttyp lebt von Wärme, Tiefe und natürlichen Farben. Wähle nicht einfach warme Töne, sondern die Nuancen, in denen dein Gesicht ruhig, klar und lebendig wirkt.
 
-## Wie du deinen Farbtyp im Alltag nutzt
-
-Dein persönlicher [Farbpass](/glossar/farbpass/) ist kein starres Regelwerk, sondern ein kreativer Kompass. Er soll dir helfen, Fehlkäufe zu vermeiden und deine [Garderobe](/glossar/garderobe/) harmonisch aufeinander abzustimmen.
-
-Wenn du ein neues Kleidungsstück kaufst, halte es direkt bei natürlichem Tageslicht an dein ungeschminktes Gesicht. Ein passender Ton lässt deine Augenschatten optisch zurücktreten, beruhigt dein Hautbild und lässt deine Augen leuchten. Fühlt sich der Ton natürlich an und lässt sich leicht mit deinen vorhandenen Lieblingsstücken kombinieren? Dann hast du die richtige Wahl für dich getroffen.
-
-Wenn du eine gezielte Outfit-Struktur aufbauen möchtest, hilft dir auch die [Drittel-Regel im Outfit](/glossar/drittel-regel-im-outfit/) weiter, um harmonische Proportionen zu schaffen.
-
-## Verwandte Begriffe
-
-- [Farbtyp](/glossar/farbtyp/)
-- [Unterton](/glossar/unterton/)
-- [Gedämpfte Farben](/glossar/gedaempfte-farben/)
-- [Farbtemperatur](/glossar/farbtemperatur/)
-- [Farbpass](/glossar/farbpass/)
+Weitere passende Begriffe findest du in der Kategorie [Farbberatung & Farbe](/glossar/farbberatung-farbe/).

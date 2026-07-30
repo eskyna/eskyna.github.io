@@ -1,95 +1,132 @@
 ---
 weight: 5
 image: images/glossar/sandale.png
-title: What does Sandal mean?
+title: What is a Sandal?
 seoTitle: Sandal explained | ESKYNA Glossary
 term: Sandal
-description:
-  Sandal is a wardrobe or everyday styling concept that helps you understand daily outfits
-  and make more conscious styling decisions.
+description: A sandal is an open shoe held on the foot by straps, bands, or a structured upper. Sandals range from flat everyday styles to refined occasion shoes and shape comfort, proportion, and dress-code suitability.
 category: Wardrobe & Everyday Style
+subcategory: Shoes
 tags:
   - sandal
-  - wardrobe & everyday style
+  - footwear
+  - summer shoes
   - style glossary
 keywords:
   - sandal
-  - what is sandal
+  - what is a sandal
+  - sandal shoes
   - sandal style advice
+  - how to style sandals
 slug: sandal
 url: /en/glossary/sandal/
 aliases:
   - /en/glossar/sandale/
   - /glossary/sandal/
-image_alt: Editorial glossary illustration for Sandal
+image_alt: Editorial glossary illustration of sandals with straps and an open toe
 relatedTerms:
-  - title: Shorts
-    url: /en/glossary/shorts/
-  - title: Metallic
-    url: /en/glossary/metallic/
-  - title: Gold
-    url: /en/glossary/gold/
-  - title: Capsule Wardrobe
-    url: /en/glossary/capsule-wardrobe/
-  - title: Wardrobe
-    url: /en/glossary/wardrobe/
+  - title: Dress Sandal
+    url: /en/glossar/sandalette/
+  - title: Strappy Sandal
+    url: /en/glossar/riemchensandale/
+  - title: Slides
+    url: /en/glossar/slides/
+  - title: Espadrilles
+    url: /en/glossar/espadrilles/
+  - title: Shoe-Hem Relationship
+    url: /en/glossar/schuh-saum-beziehung/
+knowledge:
+  - Sandals can be flat or heeled, minimal or highly detailed, and their visual effect changes with the width and placement of the straps.
+  - An open shoe makes the foot and ankle more visible, so sandal shape, color, and legwear can noticeably affect outfit proportion.
+  - Comfort depends on fit, strap placement, sole construction, and the intended walking distance, not only on heel height.
 faq:
   items:
-    - q: How can I use “Sandal” in real outfits?
-      a:
-        Use it as a checkpoint for wearability, repetition, and outfit logic. Use it to decide whether
-        a piece will actually support your daily wardrobe instead of becoming another random purchase.
-    - q: Does “Sandal” work the same way for everyone?
-      a:
-        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
-        direction.
+    - q: What is the difference between a sandal and a dress sandal?
+      a: A sandal is the broad term for an open shoe secured with straps or bands. A dress sandal is usually more refined in material, construction, or heel shape and is intended for smarter or evening-oriented outfits.
+    - q: How should sandals fit?
+      a: Your foot should sit fully on the footbed without toes or heel extending over the edge. Straps should hold the foot securely without cutting in, rubbing, or creating pressure when you walk.
+    - q: Can sandals be worn for formal occasions?
+      a: It depends on the event, climate, and dress code. Refined dress sandals can work for many cocktail, wedding, and summer evening looks, while very casual pool slides are usually too informal.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Sandal**: Sandal is a wardrobe or everyday styling concept that helps you understand daily outfits and make more conscious styling decisions.
+A **sandal** is an open shoe that is secured to the foot with straps, bands, laces, or a more structured upper. The foot is partly visible, especially at the toes, sides, heel, or ankle.
 
-## In simple words
+Sandals include simple flat styles for warm weather, practical walking designs, heeled evening shoes, and delicate styles with narrow straps. They are a footwear category, not one single silhouette.
 
-Sandal gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
+## Sandals explained simply
 
-At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
+A sandal changes an outfit because it exposes more of the foot and ankle than a closed shoe. This can make a look feel lighter, more relaxed, more summery, or more dressed up, depending on the design.
 
-## Why this matters in your wardrobe
+A flat leather sandal with broad straps may support an easy linen outfit. Fine straps, a polished finish, or a heel can make the same basic formula look more refined. A platform sole, chunky straps, or a sporty footbed creates a stronger and more casual visual statement.
 
-When you understand Sandal, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
+The amount of visual openness matters too. A barely-there sandal gives the foot a quieter role, while a contrasting sandal with wide straps, metallic surfaces, or an ankle tie becomes a focal point.
 
-With Sandal, the most useful question is whether it makes everyday dressing easier: more combinations, clearer decisions, and fewer pieces that remain unworn.
+## Types of sandals
 
-## What to pay attention to
+Common sandal styles include:
 
-- Check the role of Sandal in the full outfit.
-- Look at color, material, cut, proportion, and occasion together.
-- Ask whether the choice supports your desired impact.
-- Prefer clarity over random details.
-- Use the term as a decision aid when shopping or combining outfits.
+- **Flat sandals:** Open, low-heeled styles for everyday summer outfits, travel, and casual occasions.
+- **Strappy sandals:** Sandals with multiple narrow or wider straps. See [Strappy Sandal](/en/glossar/riemchensandale/).
+- **Dress sandals:** Refined sandals, often with a delicate heel, polished material, or elegant construction for celebrations and evening events. See [Dress Sandal](/en/glossar/sandalette/).
+- **Slides:** Open-back sandals that are easy to slip on and off. See [Slides](/en/glossar/slides/).
+- **Espadrille sandals:** Sandals that feature the characteristic rope-covered sole associated with [Espadrilles](/en/glossar/espadrilles/).
+- **Fisherman sandals:** More covered sandals with an interwoven strap structure. See [Fisherman Sandals](/en/glossar/fisherman-sandals-fischersandalen/).
+
+## Why sandals matter in an outfit
+
+Shoes complete the line of an outfit. With sandals, the relationship between the hem, ankle, foot, and shoe becomes especially visible. A sandal can visually extend the leg, interrupt its line, ground a flowing dress, or add weight to a minimal look.
+
+A sandal in a similar tone to the skin or legwear may create a more continuous impression. A dark ankle strap, strong contrast, or wide horizontal band can make the shoe more noticeable. Neither effect is inherently better. The useful choice depends on the proportion and message you want to create.
+
+The [Shoe-Hem Relationship](/en/glossar/schuh-saum-beziehung/) is particularly important with midi skirts, cropped trousers, shorts, and dresses, because these lengths place attention directly around the ankle and foot.
+
+## How to choose the right sandals
+
+When buying sandals, look beyond appearance.
+
+- **Check the fit:** The foot should rest within the sole, with no overhang at toe or heel.
+- **Walk before deciding:** Straps should secure the foot without friction or pressure. A sandal that slips while walking is unlikely to become a reliable everyday shoe.
+- **Consider the occasion:** Flat leather sandals suit many casual outfits. Delicate heeled designs are often better for festive events, while practical soles suit longer days.
+- **Match the visual weight:** Fine straps can balance light fabrics and flowing silhouettes. Wider straps or thicker soles can support denim, linen tailoring, oversized pieces, or more substantial fabrics.
+- **Think about wardrobe versatility:** Choose a color and level of detail that works with several outfits you already wear, especially if you are building a [Capsule Wardrobe](/en/glossar/capsule-wardrobe/).
+
+## Styling sandals for everyday outfits
+
+For an easy summer outfit, pair flat sandals with a shirt dress, relaxed trousers, or a simple top and skirt. A cleaner sandal in smooth leather can make casual clothing look more intentional without becoming formal.
+
+For dresses and skirts, match the sandal to the desired level of polish. A minimal flat sandal keeps the look relaxed. A heeled or fine-strapped style creates more elegance and can suit cocktail events, garden parties, or dinners.
+
+With shorts, sandal shape strongly affects the mood. Simple flat styles feel practical and light, while refined leather, metallic details, or a small heel can make the combination more elevated. For more ideas on warm-weather proportions, see [Shorts](/en/glossar/shorts/).
 
 ## Common misconceptions
 
-**Misconception:** Sandal is only a fashion word.  
-**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+**Misconception:** All sandals are only for casual summer outfits.  
+**Better:** Sandals cover a wide range, from functional flat designs to polished shoes suitable for many festive warm-weather occasions.
 
-**Misconception:** Sandal works the same way for everyone.  
-**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+**Misconception:** A higher heel automatically means a more elegant sandal.  
+**Better:** Elegance also comes from material, finish, strap design, fit, and whether the shoe suits the occasion.
 
-## Quick mirror check
+**Misconception:** Sandals should fit loosely because they are open.  
+**Better:** Open shoes still need secure support. Loose straps can cause instability, rubbing, and uncomfortable walking.
 
-Look at “Sandal” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+**Misconception:** Sandals work the same way for everyone.  
+**Better:** Their effect depends on the foot shape, leg line, outfit hem, comfort needs, personal style, and setting.
 
-## ESKYNA note
+## Practical mirror check
 
-Sandal works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+Before leaving the house, assess the sandals from a short distance.
 
-## Related terms
+- Do the straps hold the foot securely and comfortably?
+- Does the shoe support the formality of the outfit?
+- Is the visual weight in balance with the clothing?
+- Does the sandal work with the hem length and visible ankle area?
+- Can you walk confidently in it for the actual plans of the day?
 
-- [Shorts](/en/glossary/shorts/)
-- [Metallic](/en/glossary/metallic/)
-- [Gold](/en/glossary/gold/)
-- [Capsule Wardrobe](/en/glossary/capsule-wardrobe/)
-- [Wardrobe](/en/glossary/wardrobe/)
+## ESKYNA key line
+
+The right sandal does more than complete a summer outfit. It connects comfort, occasion, proportion, and personal style in one visible step.
+
+Find more footwear terms in [Shoes](/en/glossar/schuhe/).

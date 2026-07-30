@@ -1,5 +1,6 @@
 ---
 title: "ESKYNA Gutschein"
+seoTitle: "ESKYNA Gutschein | Style Coaching"
 description: "Verschenke persönliche Stilberatung: Der ESKYNA Gutschein für mehr Stilgefühl, Klarheit und sichere Outfitentscheidungen."
 
 offers_back:

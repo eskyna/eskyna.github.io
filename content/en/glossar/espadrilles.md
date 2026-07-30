@@ -1,94 +1,145 @@
 ---
 weight: 8
 image: images/glossar/espadrilles.png
-title: What does Espadrilles mean?
-seoTitle: Espadrilles explained | ESKYNA Glossary
+title: What Are Espadrilles?
+seoTitle: What Are Espadrilles? Style, Fit and Styling Guide | ESKYNA
 term: Espadrilles
-description: Espadrilles is a footwear term that influences proportion, comfort, dress code, and the
-  final mood of a look.
+description: Espadrilles are lightweight shoes with a distinctive rope or jute sole, usually paired with a fabric upper. Learn how espadrilles fit, how to style them, and when they suit an outfit.
 category: Shoes
 tags:
   - espadrilles
-  - shoes
-  - style glossary
+  - summer shoes
+  - footwear
+  - shoe styling
 keywords:
   - espadrilles
-  - what is espadrilles
-  - espadrilles style advice
+  - what are espadrilles
+  - espadrille shoes
+  - how to style espadrilles
+  - espadrilles outfit
 slug: espadrilles
 url: /en/glossary/espadrilles/
 aliases:
   - /en/glossar/espadrilles/
   - /glossary/espadrilles/
-image_alt: Editorial glossary illustration for Espadrilles
+image_alt: Lightweight canvas espadrilles with braided jute soles
 relatedTerms:
-  - title: Chinos
-    url: /en/glossary/chinos/
-  - title: Pumps
-    url: /en/glossary/pumps/
+  - title: Sandal
+    url: /en/glossar/sandale/
+  - title: Wedge Heel
+    url: /en/glossar/keilabsatz/
   - title: Shoe-Hem Relationship
-    url: /en/glossary/shoe-hem-relationship/
-  - title: Toe Shape
-    url: /en/glossary/toe-shape/
-  - title: Block Heel
-    url: /en/glossary/block-heel/
+    url: /en/glossar/schuh-saum-beziehung/
+  - title: Chinos
+    url: /en/glossar/chinos/
+  - title: Resort Casual
+    url: /en/glossar/resort-casual/
+knowledge:
+  - Espadrilles are recognized by their rope or jute sole, often combined with a canvas, cotton, or other fabric upper.
+  - Flat espadrilles and wedge espadrilles create different levels of height, formality, and visual weight.
+  - The natural sole makes espadrilles especially suited to dry, warm-weather outfits rather than wet conditions.
 faq:
   items:
-    - q: How can I use “Espadrilles” in real outfits?
-      a:
-        Use it as a checkpoint for posture, proportion, comfort, and formality. Use it to understand
-        how footwear changes the line and character of the whole outfit.
-    - q: Does “Espadrilles” work the same way for everyone?
-      a:
-        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
-        direction.
+    - q: What are espadrilles?
+      a: Espadrilles are lightweight shoes defined by a braided rope or jute sole. They commonly have a fabric upper and come in flat, lace-up, sandal, or wedge-heel versions.
+    - q: Are espadrilles casual or elegant?
+      a: Most espadrilles are casual to smart casual. Clean leather or refined fabric wedge styles can work for summer lunches, garden parties, or relaxed holiday events, but they are usually not suitable for formal business or evening dress codes.
+    - q: What can I wear with espadrilles?
+      a: Espadrilles work well with cropped trousers, chinos, shorts, linen pieces, midi dresses, skirts, and relaxed summer tailoring. Keep the hem clear of the sole so the shoe remains visible and the outfit line feels intentional.
+    - q: Can espadrilles be worn in the rain?
+      a: They are best reserved for dry weather. Natural rope or jute soles can absorb moisture and may lose their shape or durability when repeatedly exposed to rain.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Espadrilles**: Espadrilles is a footwear term that influences proportion, comfort, dress code, and the final mood of a look.
+**Espadrilles** are lightweight shoes with a sole made from braided rope or jute, traditionally combined with a fabric upper. They are a classic warm-weather shoe and are available as flat slip-ons, lace-up styles, sandals, and wedge heels.
 
-## In simple words
+The defining feature is the natural-looking braided sole. It gives espadrilles a relaxed, summery character that is softer and less formal than most leather shoes, [pumps](/en/glossar/pumps/), or structured loafers.
 
-Espadrilles gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
+## What Do Espadrilles Look Like?
 
-At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
+A typical pair of espadrilles has a low-profile sole wrapped in braided jute or rope and an upper in canvas, cotton, linen, or leather. Flat versions often resemble a closed-toe slip-on, while wedge espadrilles add height through a covered wedge sole. Some designs fasten around the ankle with ties or straps.
 
-## Why this matters in styling shoes
+This mix of natural texture and simple construction makes espadrilles feel easy, informal, and seasonal. They are closely associated with holidays, coastal settings, and relaxed summer dressing, but can also make everyday city outfits feel lighter.
 
-When you understand Espadrilles, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
+## How Espadrilles Affect an Outfit
 
-With Espadrilles, check the relationship between shoe shape, hem length, posture, comfort, and dress code. Shoes can make an outfit sharper or more relaxed immediately.
+Espadrilles do more than complete a summer look. Their texture, shape, and height influence the outfit's proportion and level of formality.
 
-## What to pay attention to
+- **Flat espadrilles** feel relaxed and practical. They suit casual dresses, cropped trousers, shorts, and easy skirts.
+- **Wedge espadrilles** add height while retaining a softer, more summery effect than a sharp heel. Explore the difference in [Wedge Heel](/en/glossar/keilabsatz/).
+- **Closed-toe espadrilles** create a more covered, polished line than open [sandals](/en/glossar/sandale/).
+- **Natural jute soles** bring visible texture, which pairs especially well with linen, cotton, denim, and other relaxed materials.
 
-- Check the role of Espadrilles in the full outfit.
-- Look at color, material, cut, proportion, and occasion together.
-- Ask whether the choice supports your desired impact.
-- Prefer clarity over random details.
-- Use the term as a decision aid when shopping or combining outfits.
+Because espadrilles sit visually close to the ground and usually have a rounded, light shape, they can make an outfit feel approachable rather than strict. They are often a natural fit for [Resort Casual](/en/glossar/resort-casual/) dressing, weekend looks, and warm-weather travel wardrobes.
 
-## Common misconceptions
+## How to Style Espadrilles
 
-**Misconception:** Espadrilles is only a fashion word.  
-**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+### With trousers and jeans
 
-**Misconception:** Espadrilles works the same way for everyone.  
-**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+Choose hems that reveal the shoe rather than covering the braided sole. Cropped straight-leg trousers, ankle-length jeans, and [chinos](/en/glossar/chinos/) are particularly easy combinations. A small gap at the ankle can keep the outfit light and prevent the lower half from looking heavy.
 
-## Quick mirror check
+For wider trousers, an espadrille can work well when the hem is short enough to maintain a clear line. The relationship between the shoe and trouser length matters as much as the shoe itself. See [Shoe-Hem Relationship](/en/glossar/schuh-saum-beziehung/) for a closer look at this styling principle.
 
-Look at “Espadrilles” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+### With dresses and skirts
 
-## ESKYNA note
+Flat espadrilles give summer dresses and midi skirts a relaxed finish. They can balance romantic prints, linen shirt dresses, and casual cotton silhouettes without making the outfit feel overly polished.
 
-Espadrilles works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+Wedge espadrilles add height under midi and maxi lengths. Choose a stable fit around the heel and ankle, especially when the skirt is long or the ground is uneven. The wedge should support the outfit, not compete with it.
 
-## Related terms
+### With shorts
 
-- [Chinos](/en/glossary/chinos/)
-- [Pumps](/en/glossary/pumps/)
-- [Shoe-Hem Relationship](/en/glossary/shoe-hem-relationship/)
-- [Toe Shape](/en/glossary/toe-shape/)
-- [Block Heel](/en/glossary/block-heel/)
+Espadrilles are a natural partner for tailored shorts, denim shorts, and summer co-ords. A simple upper in navy, black, cream, or tan is especially versatile because it works with many warm-weather colors and fabrics.
+
+## When Are Espadrilles Appropriate?
+
+Espadrilles are suitable for casual and smart casual settings, particularly in warm, dry weather. They work well for:
+
+- Holidays and travel
+- Casual lunches and daytime gatherings
+- Garden parties with a relaxed dress code
+- Summer city outfits
+- Beach restaurants and resort settings
+- Informal weekend occasions
+
+They are usually less suitable for formal offices, business formal events, rainy days, and dress codes such as Black Tie or formal eveningwear. Their braided soles are inherently relaxed, even when the upper is elegant.
+
+## Fit and Comfort: What to Check
+
+Espadrilles should feel secure without compressing the toes or slipping at the heel. Fabric uppers can soften with wear, while rope and jute soles may have less flexibility and weather resistance than rubber-soled shoes.
+
+Before buying, check:
+
+- Whether the heel stays in place while walking
+- Whether the toe area offers enough room
+- Whether straps or ankle ties hold securely without rubbing
+- Whether the sole feels stable on the surfaces you will actually walk on
+- Whether the shoe works with the trouser and skirt lengths you wear most often
+
+For a clear fit assessment, consider the shoe's [Toe Shape](/en/glossar/schuhspitze/), width, and how it supports your natural walking pattern.
+
+## Common Misunderstandings
+
+**Misunderstanding: Espadrilles are always beach shoes.**  
+**Better:** Their relaxed character suits beach and holiday outfits, but clean, well-fitting espadrilles can also complement polished summer dresses, tailored trousers, and smart casual looks.
+
+**Misunderstanding: All espadrilles are flat.**  
+**Better:** Espadrilles can be flat, platformed, lace-up, sandal-like, or made with a wedge heel. Each version changes comfort, height, and the overall mood of the outfit.
+
+**Misunderstanding: Espadrilles are practical in every summer condition.**  
+**Better:** They are ideal for warm, dry days. Jute and rope soles do not respond well to repeated exposure to moisture.
+
+## ESKYNA Key Line
+
+Espadrilles bring natural texture and relaxed summer ease to an outfit. The best pair fits securely, suits your real walking needs, and works clearly with your preferred hem lengths.
+
+## Related Terms
+
+- [Sandal](/en/glossar/sandale/)
+- [Wedge Heel](/en/glossar/keilabsatz/)
+- [Shoe-Hem Relationship](/en/glossar/schuh-saum-beziehung/)
+- [Chinos](/en/glossar/chinos/)
+- [Resort Casual](/en/glossar/resort-casual/)
+
+Find more footwear terms in [Shoes](/en/glossar/schuhe/).

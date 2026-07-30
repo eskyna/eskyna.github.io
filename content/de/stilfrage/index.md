@@ -1,5 +1,6 @@
 ---
 title: "Stilfrage an Natalia"
+seoTitle: "Stilfrage an Natalia | ESKYNA Coaching"
 description: "Du bist unsicher bei einem Kleidungsstück, Outfit oder Kauf? Stelle Natalia deine Stilfrage, auch live beim Einkaufen."
 
 offers_back:

@@ -1,11 +1,11 @@
 ---
 title: Was sind Flared Pants?
 term: Flared Pants
-description: Flared Pants sind Hosen mit deutlich ausgestelltem Bein, die Bewegung, Retro-Anmutung
-  und optische Länge in einen Look bringen.
+description: Flared Pants sind eng anliegende Hosen, deren Bein ab Knie oder Oberschenkel deutlich weiter wird. Erfahre, wie sich die ausgestellte Hose von Bootcut und Wide Leg unterscheidet und wie du sie modern kombinierst.
 category: Garderobe & Alltag
 tags:
   - flared pants
+  - schlaghose
   - hose
   - silhouette
   - proportion
@@ -13,6 +13,8 @@ keywords:
   - flared pants
   - was sind flared pants
   - flared pants kombinieren
+  - schlaghose
+  - ausgestellte hose
 weight: 5
 image: images/glossar/flared-pants.png
 image_alt: Editoriale Grafik zu Flared Pants mit ruhigen Formen, Stofflinien und ESKYNA Farbwelt
@@ -21,97 +23,134 @@ relatedTerms:
     url: /glossar/bootcut/
   - title: Wide Leg
     url: /glossar/wide-leg/
-  - title: Silhouette
-    url: /glossar/silhouette/
-  - title: Proportion
-    url: /glossar/proportion/
+  - title: High Waist
+    url: /glossar/high-waist/
   - title: Saumlänge
     url: /glossar/saumlange/
   - title: Schuh-Saum-Beziehung
     url: /glossar/schuh-saum-beziehung/
-  - title: High Waist
-    url: /glossar/high-waist/
+  - title: Proportion
+    url: /glossar/proportion/
+  - title: Marlenehose
+    url: /glossar/marlenehose/
 faq:
   items:
-    - q: Wie nutze ich „Flared Pants“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Flared Pants“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
-history: Flared Pants erlebten ihre erste große weltweite Welle in den späten 1960er und vor allem in den 1970er Jahren, tief verwurzelt in der Hippie und Disco Kultur. Ursprünglich stammen sie jedoch aus der funktionalen Arbeitskleidung der US Marine des 19. Jahrhunderts, wo ausgestellte Hosenbeine das schnelle Aufrollen bei der Arbeit an Deck erleichterten.
-knowledge: Die ausgestellte Form lenkt den Blick nach unten und balanciert optisch breitere Hüften oder Schultern aus. Der streckende Effekt wird maximiert, wenn der Hosensaum fast bis zum Boden reicht und mit Absätzen wie Plateauschuhen oder spitzen Boots kombiniert wird.
+    - q: Wie kombiniere ich Flared Pants im Alltag?
+      a: Kombiniere Flared Pants mit einem ruhigen Oberteil, das du ganz oder teilweise in den Bund steckst. Entscheidend sind ein passender Saum und Schuhe, die zur Länge der Hose passen.
+    - q: Was ist der Unterschied zwischen Flared Pants und Bootcut?
+      a: Bootcut Hosen werden ab dem Knie nur leicht weiter und bieten Platz für Boots. Flared Pants haben einen deutlich stärkeren Schlag und wirken dadurch bewegter und präsenter.
+    - q: Können kleinere Personen Flared Pants tragen?
+      a: Ja. Eine hoch sitzende Flared Pants mit langem, sauber endendem Saum kann die Beinlinie optisch strecken. Wichtig ist, dass der Saum nicht auf dem Boden schleift.
+history: Flared Pants haben funktionale Vorläufer in den weiten Hosenformen der Marinekleidung des 19. Jahrhunderts. Als modische Schlaghose wurden sie besonders in den späten 1960er und 1970er Jahren durch Hippie und Disco Kultur weltweit prägend.
+knowledge: Flared Pants sitzen im oberen Beinbereich meist schmal und werden erst ab Knie oder Oberschenkel deutlich weiter. Der ausgestellte Saum erzeugt Bewegung und kann die Schulter Hüft Balance im Outfit optisch unterstützen. Für eine lange, ruhige Linie müssen Bundhöhe, Saumlänge und Schuhhöhe zusammenpassen.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Flared Pants** sind Hosen, die ab dem Knie oder Oberschenkel nach unten hin deutlich weiter werden. Diese ausgestellte Schnittführung lenkt den Blick nach unten, erzeugt eine fließende Bewegung im Gehen und bringt eine charakteristische Optik in deine Garderobe. Je nach Material und Styling wirken sie elegant, lässig oder modern.
+**Flared Pants** sind Hosen, die am Oberschenkel oder bis zum Knie schmal sitzen und zum Saum hin deutlich weiter werden. Die ausgestellte Beinlinie wird auf Deutsch oft als Schlaghose bezeichnet.
 
-## Einfach erklärt
+Der Schnitt bringt Bewegung in dein Outfit und verändert die [Silhouette](/glossar/silhouette/) sichtbar. Je nach Stoff, Bundhöhe und Styling können Flared Pants lässig, elegant, retro oder sehr modern wirken.
 
-Suchst du nach einer Hose, die deine Beine optisch streckt und deinem Outfit sofort eine harmonische Dynamik verleiht? Dann sind Flared Pants eine hervorragende Wahl. Der Name leitet sich vom englischen Wort für trichterförmig erweitern ab.
+## Was macht Flared Pants aus?
 
-Der wesentliche Unterschied zu einer eng verwandten Hosenform liegt im Volumen. Während die klassische [Bootcut](/glossar/bootcut/) Hose ab dem Knie nur leicht ausgestellt ist, zeigen Flared Pants einen deutlich sichtbaren Schwung nach außen. Dadurch wird die Hose schnell zum optischen Mittelpunkt deines Looks.
+Charakteristisch ist der Kontrast zwischen dem schmaleren oberen Bein und dem weiten Saum. Anders als bei einer gerade fallenden Hose entsteht die Weite nicht durchgehend, sondern setzt erst weiter unten ein.
 
-Je nach Stoff verändert sich die Wirkung grundlegend:
+Dadurch lenkt die Hosenform den Blick nach unten und schafft eine fließende vertikale Linie. Besonders bei einer hohen Taille und einer passenden Länge kann das die Beine optisch länger wirken lassen.
 
-- In weichem Jersey wirken sie entspannt und sportlich.
-- Aus festem Denim gefertigt bringen sie eine lässige Note in deinen Alltag.
-- Aus fließendem Anzugstoff geschnitten wirken sie edel und absolut bürotauglich.
+Flared Pants gibt es in vielen Materialien:
 
-## Warum dieser Begriff wichtig ist
+- Aus Denim wirken sie lässig und erinnern stärker an die klassische Schlaghose.
+- Aus Jersey oder Stretchmaterial sind sie weich, bequem und oft alltagstauglich.
+- Aus Webstoff oder Anzugstoff wirken sie klarer und passen auch zu einem gepflegten Business Look.
+- In fließenden Materialien wirken sie elegant und beweglich.
 
-Flared Pants sind ein mächtiges Werkzeug, um die [Silhouette](/glossar/silhouette/) zu gestalten. Durch den weiten Saum gleichen sie optisch die Proportionen aus. Sie lenken die Aufmerksamkeit auf die vertikale Linie deines Körpers und sorgen für eine sichtbare Verlängerung der Beine. Damit dieser Effekt optimal zur Geltung kommt, müssen Bundhöhe, [Saumlänge](/glossar/saumlange/) und die gewählten Schuhe präzise zusammenspielen.
+## Flared Pants, Bootcut und Wide Leg: Was ist der Unterschied?
 
-## Die Geschichte der Schlaghose: Vom Arbeitsdeck auf die Laufstege
+Diese Hosenformen werden oft verwechselt, unterscheiden sich aber deutlich in ihrer Beinlinie.
 
-Die Wurzeln dieser Hosenform liegen weit vor den berühmten Modetrends des zwanzigsten Jahrhunderts. Ursprünglich trugen Seeleute der US Marine im 19. Jahrhundert weite Hosenbeine aus rein praktischen Gründen. Die Hosen ließen sich bei der Arbeit an Deck schnell aufrollen und im Falle eines Schiffbruchs im Wasser leichter ausziehen.
+### Flared Pants
 
-In den späten siebziger Jahren entwickelte sich die Schlaghose dann zum weltweiten Modephänomen und zum Symbol einer ganzen Generation. Heute hat sich der Schnitt von reinen Retro-Klischees befreit. Designer schätzen die klaren Linien und nutzen die Passform für moderne, minimalistische Looks.
+Flared Pants sind oben schmal und ab Knie oder Oberschenkel klar ausgestellt. Der Saum hat sichtbar mehr Weite als der Bereich am Knie. Das erzeugt den typischen Schlag.
 
-## Styling: So kombinierst du Flared Pants modern
+### Bootcut
 
-Damit dein Outfit mit Flared Pants ausgewogen und zeitgemäß wirkt, kannst du dich an folgenden Richtlinien orientieren:
+Eine [Bootcut](/glossar/bootcut/) Hose wird ebenfalls ab dem Knie weiter, aber nur leicht. Ihr Name verweist darauf, dass der Saum über Boots passen soll. Sie wirkt zurückhaltender als eine Flared Pants.
 
-### Die passende Bundhöhe wählen
+### Wide Leg
 
-Ein hoher Bund wie bei einer [High Waist](/glossar/high-waist/) Hose unterstützt die streckende Wirkung des ausgestellten Beins am besten. Er verschiebt die gefühlte Taille nach oben und sorgt für eine besonders harmonische [Proportion](/glossar/proportion/).
+Bei einer [Wide Leg](/glossar/wide-leg/) Hose beginnt die Weite meist bereits an Hüfte oder Oberschenkel und fällt dann weit nach unten. Sie hat keinen ausgeprägten Schlag. Auch die [Marlenehose](/glossar/marlenehose/) gehört zu den weiten Hosenformen, folgt aber einer anderen, gleichmäßigeren Linie.
 
-### Auf die Schuh-Saum-Beziehung achten
+## Geschichte der Flared Pants und Schlaghose
 
-Die [Schuh-Saum-Beziehung](/glossar/schuh-saum-beziehung/) entscheidet über den Erfolg des Looks. Der Saum der Hose sollte lang genug sein, um deine Schuhe fast vollständig zu bedecken, ohne auf dem Boden zu schleifen. Ein zu kurzer Saum staucht die Silhouette unerwünscht.
+Weite Hosenbeine haben funktionale Vorläufer in der Marinekleidung des 19. Jahrhunderts. Die Form war praktisch, weil sich die Hosenbeine bei Arbeiten an Deck leichter hochrollen ließen.
 
-### Die richtigen Begleiter am Fuß
+Als modische Hose wurden Flared Pants vor allem in den späten 1960er und 1970er Jahren prägend. In Hippie und Disco Kultur standen sie für Bewegung, Freiheit und eine neue, bewusst sichtbare Silhouette. Heute kehrt die Schlaghose regelmäßig in veränderter Form zurück, etwa als Jeans, Stoffhose oder minimalistische Anzughose. Sie ist damit ein gutes Beispiel für [Retro](/glossar/retro/), das im aktuellen Styling neu interpretiert wird.
 
-Absätze verstärken den streckenden Effekt der Hose. Hervorragend eignen sich elegante [Pumps](/glossar/pumps/) oder feine [D'Orsay-Pumps](/glossar/dorsay-pumps/). Suchst du nach einer flachen Alternative, sind spitze Stiefeletten oder schmale Sneaker eine gute Wahl. Für einen bewussten Akzent sorgen Schuhe mit [Plateau](/glossar/plateau/) oder einem markanten [Blockabsatz](/glossar/blockabsatz/).
+## So kombinierst du Flared Pants modern
 
-### Balance im Oberkörper schaffen
+Flared Pants brauchen keine komplizierten Regeln. Entscheidend ist, dass Länge, Schuh und Oberteil eine klare [Balance](/glossar/balance/) bilden.
 
-Da die Hose nach unten hin viel Weite mitbringt, sorgt ein ruhiges, eher körpernahes Oberteil für eine angenehme [Balance](/glossar/balance/). Ein schlichter [Feinstrick](/glossar/feinstrick/) Pullover oder eine klassische [Bluse](/glossar/bluse/), die du locker in den Hosenbund steckst, beruhigt das Gesamtbild.
+### Wähle eine stimmige Bundhöhe
+
+Ein hoher Bund, also [High Waist](/glossar/high-waist/), verlängert optisch die Beinlinie und macht die Taille sichtbarer. Ein kürzeres Oberteil oder ein Oberteil, das du in den Bund steckst, unterstützt diesen Effekt.
+
+Auch mittlere Bundhöhen können funktionieren. Dann wird die Wirkung oft ruhiger und weniger stark auf die Taille ausgerichtet. Wichtig ist vor allem, dass du dich beim Sitzen und Gehen wohlfühlst.
+
+### Achte auf die Saumlänge
+
+Die [Saumlänge](/glossar/saumlaenge/) entscheidet bei Flared Pants besonders stark über die Wirkung. Ideal endet der Saum knapp über dem Boden und bedeckt einen großen Teil des Schuhs. So bleibt die lange Linie erhalten, ohne dass der Stoff schleift.
+
+Eine zu kurze Flared Pants kann die ausgestellte Form optisch unterbrechen. Eine zu lange Hose nutzt sich dagegen schnell ab und wird zur Stolperfalle.
+
+### Kombiniere die passenden Schuhe
+
+Die [Schuh-Saum-Beziehung](/glossar/schuh-saum-beziehung/) ist bei dieser Hosenform zentral. Probiere die Hose immer mit den Schuhen an, mit denen du sie später tragen möchtest.
+
+Absätze wie [Pumps](/glossar/pumps/), ein [Blockabsatz](/glossar/blockabsatz/) oder Schuhe mit [Plateau](/glossar/plateau/) unterstützen die optische Länge. Flache Schuhe funktionieren ebenfalls, wenn der Saum dafür angepasst ist. Schmale Sneaker, Loafer oder Stiefeletten mit einer klaren Spitze halten den Look meist ruhiger als sehr klobige Schuhe.
+
+### Halte das Oberteil bewusst
+
+Da Flared Pants am Saum Volumen erzeugen, wirkt ein klar geschnittenes Oberteil oft besonders stimmig. Gut funktionieren etwa ein enges T Shirt, ein feiner [Feinstrick](/glossar/feinstrick/), ein Body oder eine schlichte [Bluse](/glossar/bluse/).
+
+Wenn du ein weiteres Oberteil tragen möchtest, hilft eine erkennbare Taille. Du kannst den vorderen Teil locker einstecken oder mit einem [Gürtel](/glossar/guertel/) arbeiten. So bleibt die [Proportion](/glossar/proportion/) im Outfit nachvollziehbar.
+
+## Für welche Anlässe eignen sich Flared Pants?
+
+Flared Pants sind vielseitiger, als ihr Retro Ruf vermuten lässt.
+
+- **Im Alltag:** Denim Flared Pants mit T Shirt, Strick und Sneakern wirken entspannt und bewusst.
+- **Im Büro:** Flared Pants aus festem Stoff mit Bluse, Blazer und Loafern oder Pumps wirken gepflegt und modern.
+- **Am Abend:** Ein Modell aus fließendem oder leicht glänzendem Material mit einem körpernahen Top und markanten Accessoires kann elegant wirken.
+- **Für einen lässigen Look:** Jersey Flared Pants mit Sweatshirt oder kurzem Cardigan verbinden Komfort mit einer klaren Silhouette.
 
 ## Typische Missverständnisse
 
-**Missverständnis:** Flared Pants stehen nur großen Personen.  
-**Besser:** Gerade kleinere Menschen profitieren von der optischen Streckung, solange die Hose im Kniebereich schmal sitzt und der Saum die richtige Länge hat.
+**Missverständnis: Flared Pants stehen nur großen Personen.**  
+**Besser:** Die Körpergröße allein entscheidet nicht. Eine hohe Taille, ein passender Saum und eine ruhige Linie vom Bund bis zum Schuh können auch bei kleinerer Körpergröße streckend wirken.
 
-**Missverständnis:** Der Look wirkt immer nach Verkleidung.  
-**Besser:** Wenn du auf schlichte Farben wie Navy, Anthrazit, Schwarz oder dunklen Denim setzt und auf wilde Muster verzichtest, wirken Flared Pants extrem modern und erwachsen.
+**Missverständnis: Flared Pants sind immer ein 1970er Jahre Kostüm.**  
+**Besser:** Denim mit Waschung, große Muster oder sehr breite Schläge betonen den Retro Bezug stärker. In dunklen, neutralen Farben und mit klaren Oberteilen wirken Flared Pants zeitgemäß.
 
-**Missverständnis:** Flared Pants und Wide Leg sind dasselbe.  
-**Besser:** Eine [Wide Leg](/glossar/wide-leg/) Hose oder eine klassische [Marlenehose](/glossar/marlenehose/) verläuft bereits ab der Hüfte oder dem Oberschenkel weit nach unten. Flared Pants sitzen oben schmal und öffnen sich erst ab dem Knie.
+**Missverständnis: Jede ausgestellte Hose ist eine Flared Pants.**  
+**Besser:** Bei Flared Pants beginnt die Weite erst weiter unten am Bein. Weite Hosen wie Wide Leg oder Palazzo Hosen fallen bereits ab Hüfte oder Oberschenkel großzügiger.
 
-## ESKYNA-Merksatz
+**Missverständnis: Die Hose muss den Boden berühren, damit sie streckt.**  
+**Besser:** Der Saum darf lang wirken, sollte aber nicht auf dem Boden schleifen. Sonst leidet die [Abriebfestigkeit](/glossar/abriebfestigkeit/) des Materials und die Hose verliert schnell an gepflegter Wirkung.
 
-Flared Pants bringen stilvolle Bewegung in deine Silhouette. Ihre moderne Eleganz entsteht durch die richtige Länge, ein balanciertes Volumen und klare Proportionen im gesamten Outfit.
+## Praxischeck vor dem Kauf
 
-## Praxischeck für deinen Kleiderschrank
+Prüfe Flared Pants nicht nur im Stehen vor dem Spiegel, sondern auch in Bewegung.
 
-Wenn du Flared Pants in deine persönliche [Garderobe](/glossar/garderobe/) integrieren möchtest, mache vor dem Kauf den schnellen Test:
+- Sitzt die Hose am Bund bequem, ohne einzuschneiden oder abzurutschen?
+- Beginnt der Schlag an einer Stelle, die dir optisch gefällt?
+- Passt die Saumlänge zu deinen häufig getragenen Schuhen?
+- Kannst du mit der Hose problemlos gehen, Treppen steigen und sitzen?
+- Hast du passende Oberteile in deiner [Garderobe](/glossar/garderobe/), die eine klare Linie zur Hose bilden?
+- Ergänzt die Hose deine bestehende [Garderobenplanung](/glossar/garderobenplanung/) oder bleibt sie ein Teil für seltene Einzeloutfits?
 
-- Besitzt du Oberteile, die sich gut in den Hosenbund stecken lassen?
-- Hast du Schuhe mit der passenden Absatzhöhe für die jeweilige Saumlänge der Hose?
-- Löst diese Hosenform ein konkretes Problem in deiner täglichen [Garderobenplanung](/glossar/garderobenplanung/), weil sie Abwechslung zu deinen gewohnten Schnitten bringt?
+## ESKYNA Merksatz
 
-Mehr Orientierung für den Aufbau einer vielseitigen Garderobe findest du in unserer Kategorie [Garderobe & Alltag](/glossar/garderobe-alltag/).
+Flared Pants leben von ihrer Linie: oben klar, unten bewegt. Wenn Saum, Schuh und Bundhöhe zusammenpassen, wirkt die Schlaghose modern statt verkleidet.
+
+Mehr Orientierung für eine vielseitige Garderobe findest du in der Kategorie [Garderobe & Alltag](/glossar/garderobe-alltag/).

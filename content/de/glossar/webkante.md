@@ -1,65 +1,117 @@
 ---
 title: "Was ist Webkante?"
 term: "Webkante"
-description: "Die Webkante ist der feste Längsrand eines gewebten Stoffes, an dem die Schussfäden beim Weben wenden."
+description: "Die Webkante ist der feste Längsrand eines gewebten Stoffes. Sie entsteht beim Weben dort, wo die Schussfäden wenden, und zeigt dir zuverlässig die Richtung des Fadenlaufs."
 category: "Schnitt, Proportion & Passform"
 subcategory: "Größen & Passform"
 image: images/glossar/webkante.png
-image_alt: "Glossar-Illustration zu Webkante"
+image_alt: "Fester Längsrand eines gewebten Stoffes als Webkante"
 relatedTerms:
   - title: Fadenlauf
     url: /glossar/fadenlauf/
   - title: Webstoff
     url: /glossar/webstoff/
+  - title: Nahtzugabe
+    url: /glossar/nahtzugabe/
   - title: Selvedge Denim
     url: /glossar/selvedge-denim/
   - title: Raw Denim
     url: /glossar/raw-denim/
+  - title: Saum
+    url: /glossar/saum/
 keywords:
   - "webkante"
   - "was ist webkante"
-  - "webkante"
+  - "webkante stoff"
+  - "webkante beim nähen"
+  - "webkante fadenlauf"
 lastmod: "2026-07-18"
 knowledge:
-  - "Die Webkante verhindert das Ausfransen des Stoffes direkt nach dem Weben."
-  - "Beim Zuschnitt dient sie als wichtigste Orientierung für den geraden Fadenlauf."
-  - "Traditionelle Schützenwebstühle erzeugen eine geschlossene, echte Webkante, während moderne Webmaschinen oft nur eine Fransen- oder Klebekante hinterlassen."
+  - "Die Webkante entsteht parallel zu den Kettfäden und ist deshalb eine verlässliche Orientierung für den geraden Fadenlauf."
+  - "Eine echte, geschlossene Webkante verhindert das Ausfransen direkt am Stoffrand."
+  - "Bei Webstoffen aus schnellen Webverfahren können seitliche Schnittkanten entstehen, die anders versäubert werden als eine klassische Webkante."
+  - "Eine sichtbare Webkante bei Jeans kann auf eine bestimmte Webtechnik hinweisen, ist aber allein kein Beweis für die gesamte Material- oder Verarbeitungsqualität."
 history:
-  - "Bis zur Mitte des 20. Jahrhunderts wurden fast alle Webstoffe mit echten, geschlossenen Webkanten hergestellt."
-  - "Mit dem Aufkommen extrem schneller und breiterer Webmaschinen wurden echte Webkanten im Massenmarkt durch abgeschnittene und versäuberte Kanten ersetzt."
+  - "Bis zur Mitte des 20. Jahrhunderts wurden viele Webstoffe auf Webstühlen hergestellt, die geschlossene Webkanten erzeugten."
+  - "Mit breiteren und schnelleren Webmaschinen verbreiteten sich Verfahren, bei denen die seitlichen Stoffkanten nach dem Weben getrennt und versäubert werden."
 ---
 
 ## Definition
 
-Die Webkante ist der feste, äußere Längsrand eines gewebten Stoffes. Sie entsteht während des Webvorgangs an den Stellen, an denen die Querfäden, auch Schussfäden genannt, umkehren. Sie verläuft immer parallel zu den Längsfäden, also den Kettfäden, und verhindert das Ausfransen des Materials.
+Die **Webkante** ist der feste äußere Längsrand eines [Webstoffs](/glossar/webstoff/). Sie entsteht beim Weben dort, wo der Schussfaden am Stoffrand die Richtung wechselt. Die Webkante verläuft parallel zu den Kettfäden und damit zum [Fadenlauf](/glossar/fadenlauf/).
+
+Für dich ist sie vor allem beim Nähen und beim Zuschnitt wichtig: An der Webkante erkennst du, wie der Stoff gerade liegt. Sie ist keine fertige Saumkante eines Kleidungsstücks.
 
 ## Wie entsteht eine Webkante?
 
-Um die Funktion der Webkante zu verstehen, hilft ein Blick auf die Herstellung eines [Webstoffs](/glossar/webstoff/). Auf dem Webstuhl werden die Kettfäden in Längsrichtung gespannt. Der Schussfaden wird anschließend rechtwinklig dazu hin und her geführt.
+Ein gewebter Stoff besteht aus längs gespannten Kettfäden und quer eingearbeiteten Schussfäden. Beim Weben wird der Schussfaden immer wieder von einer Seite zur anderen geführt.
 
-An den äußeren Kanten des Stoffes wendet dieser Schussfaden jedes Mal, um die Richtung zu wechseln. Durch diese kontinuierliche Kehrtwende wird der Rand des Stoffes automatisch geschlossen und perfekt gesichert. Je nach Webart und Maschine kann diese Kante besonders dicht gewebt, farbig markiert oder sogar mit Herstellerdaten bedruckt sein.
+An den beiden Längsseiten des Stoffes kehrt dieser Faden um. Dadurch entsteht ein dichter, stabiler Rand. Bei einer klassischen echten Webkante ist dieser Rand geschlossen und franst kaum aus. Je nach Stoff kann die Webkante dichter als die übrige Fläche sein, kleine Markierungen tragen oder sich farblich abheben.
 
-## Echte Webkanten im Vergleich zu modernen Kanten
+## Warum ist die Webkante beim Nähen wichtig?
 
-In der Mode und Textilproduktion wird zwischen unterschiedlichen Arten von Kanten unterschieden:
+Die Webkante ist die einfachste Orientierung für den geraden Fadenlauf. Schnittmuster enthalten meist einen Fadenlaufpfeil. Dieser Pfeil muss parallel zur Webkante liegen.
 
-- **Die echte Webkante (Selvedge):** Sie entsteht auf traditionellen Schützenwebstühlen. Da der Faden ununterbrochen hin und her gleitet, bleibt die Kante komplett geschlossen, flach und sauber. Diese Technik ist heute vor allem bei hochwertigem [Selvedge Denim](/glossar/selvedge-denim/) und exklusivem [Raw Denim](/glossar/raw-denim/) beliebt.
-- **Die unechte Webkante:** Moderne, extrem schnelle Webmaschinen schneiden den Schussfaden nach jedem Durchgang ab. Dadurch entsteht an den Seiten kein geschlossener Bogen, sondern eine offene Kante mit Fransen, die oft mechanisch, thermisch oder durch Kleben versiegelt werden muss.
+Das ist wichtig, weil der Fadenlauf den Fall, die Stabilität und die Form eines Kleidungsstücks beeinflusst. Liegt ein Schnittteil schief auf dem Stoff, kann sich das Ergebnis beim Tragen verdrehen oder nach der Wäsche verziehen. Besonders bei klaren Schnitten, Streifen und weniger elastischen Stoffen fällt ein ungenauer Zuschnitt schnell auf.
 
-## Die Bedeutung beim Zuschnitt und für den Fadenlauf
+### So richtest du ein Schnittmuster am Fadenlauf aus
 
-Für Schneiderinnen, Schneider und Designer ist die Webkante das wichtigste Hilfsmittel bei der Schnittvorbereitung. Da sie absolut gerade verläuft, bestimmt sie den [Fadenlauf](/glossar/fadenlauf/) des gesamten Materials. Wenn du ein Schnittmuster auf dem Stoff platzierst, misst du den Abstand zum Fadenlauf immer parallel zur Webkante aus. Nur so fällt das fertige Kleidungsstück später gerade und verzieht sich nicht beim Tragen oder Waschen.
+1. Lege das Schnittteil auf den Stoff, ohne es sofort festzustecken.
+2. Miss den Abstand zwischen einem Ende des Fadenlaufpfeils und der Webkante.
+3. Miss den Abstand am anderen Ende des Pfeils.
+4. Verschiebe das Schnittteil, bis beide Abstände gleich sind.
 
-## Worauf du beim Kauf und Verarbeiten achten solltest
+Erst dann steckst du das Schnittteil fest und schneidest es mit der vorgesehenen [Nahtzugabe](/glossar/nahtzugabe/) zu.
 
-- **Nicht blind als Naht nutzen:** Obwohl die Webkante nicht ausfranst, solltest du sie bei normalen Kleidungsstücken nicht einfach als fertige Nahtkante verwenden. Sie ist oft dichter gewebt als der restliche Stoff. Das kann dazu führen, dass sie sich nach dem Waschen zusammenzieht und unschöne Falten wirft.
-- **Nahtzugabe einplanen:** Beim Zuschnitt wird die Webkante meist abgeschnitten oder liegt außerhalb der eigentlichen [Nahtzugabe](/glossar/nahtzugabe/).
-- **Qualitätsmerkmal erkennen:** Bei Jeans ist eine farbige Webkante, oft in Rot und Weiß, ein sichtbares Zeichen für traditionelle Webkunst und eine besonders langlebige [Qualität](/glossar/qualitaet/). In diesem Fall wird der Saum gerne umgeschlagen, um die Kante stolz zu zeigen.
+## Echte Webkante und geschnittene Stoffkante
 
-## Typisches Missverständnis
+Nicht jede seitliche Stoffkante sieht gleich aus. Entscheidend ist, wie der Stoff gewebt wurde.
 
-Webkante und [Saum](/glossar/saum/) werden häufig verwechselt. Das ist jedoch nicht dasselbe: Die Webkante entsteht bereits bei der Stoffherstellung auf dem Webstuhl. Der Saum hingegen entsteht erst bei der Konfektion, also beim eigentlichen Schneidern des Kleidungsstücks, indem die Stoffkante umgeschlagen und festgenäht wird.
+### Echte Webkante
+
+Eine echte Webkante entsteht, wenn der Schussfaden von einer Seite zur anderen und wieder zurückgeführt wird. Der Rand ist geschlossen, sauber und meist stabil. Im Englischen heißt diese Art von Webkante häufig _selvedge_.
+
+Besonders bekannt ist sie bei [Selvedge Denim](/glossar/selvedge-denim/). Dort wird die Webkante oft am umgeschlagenen Hosensaum sichtbar getragen. Auch bei [Raw Denim](/glossar/raw-denim/) kann sie ein charakteristisches Detail sein.
+
+### Geschnittene und versäuberte Kante
+
+Bei vielen modernen Webverfahren werden die Schussfäden an den Stoffseiten getrennt. Die Stoffbahn hat dann keine klassisch geschlossene Webkante. Damit die Kante beim Transport und bei der Verarbeitung stabil bleibt, kann sie technisch gesichert oder versäubert sein.
+
+Für den Zuschnitt bleibt sie trotzdem nützlich: Auch diese Seitenkante zeigt in der Regel die Längsrichtung des Stoffes an.
+
+## Kannst du die Webkante als Saum oder Naht verwenden?
+
+Manchmal wird die Webkante bewusst sichtbar eingesetzt, etwa bei Denim, Tischwäsche oder dekorativen Nähprojekten. Für normale Kleidung ist sie jedoch nicht automatisch als fertige Kante geeignet.
+
+Die Webkante kann dichter gewebt sein als der übrige Stoff. Wird sie in eine lange Naht oder einen Saum integriert, kann sie sich anders verhalten als die Stofffläche. Das kann zu Zug, Wellen oder einem unruhigen Fall führen. Prüfe deshalb immer, ob sich die Kante weich legt und ob sie zum Material passt.
+
+Bei einem feinen, fließenden Stoff ist es meist sinnvoll, die Webkante außerhalb des Schnittteils zu platzieren. Bei robustem Denim kann sie dagegen ein bewusstes Designmerkmal sein.
+
+## Webkante, Schnittkante und Saum: der Unterschied
+
+Diese Begriffe werden oft verwechselt, bezeichnen aber unterschiedliche Dinge:
+
+- **Webkante:** Der werkseitige Längsrand, der beim Weben entsteht.
+- **Schnittkante:** Die offene Kante, die entsteht, wenn du Stoff zuschneidest. Sie kann je nach Material ausfransen.
+- **Saum:** Der fertige Abschluss an einem Kleidungsstück, etwa am Hosenbein, Ärmel oder Rock. Er wird durch Umschlagen, Nähen oder eine andere [Saumverarbeitung](/glossar/saumverarbeitung/) hergestellt.
+- **Naht:** Die Verbindung zweier Stoffteile. Ihre Stabilität hängt unter anderem von Material, Schnitt und [Naht](/glossar/naht/) ab.
+
+## Ist eine sichtbare Webkante ein Qualitätsmerkmal?
+
+Eine saubere Webkante kann interessant sein, vor allem bei Denim und Stoffen, bei denen die Webtechnik bewusst gezeigt wird. Sie sagt aber nicht allein aus, wie hochwertig ein Kleidungsstück insgesamt ist.
+
+Für die tatsächliche [Qualität](/glossar/qualitaet/) zählen zusätzlich Faser, Stoffgewicht, Dichte, Passform und Verarbeitung. Bei Jeans kann eine sichtbare Webkante ein Hinweis auf Selvedge-Webung sein. Ob die Jeans langfristig gut funktioniert, zeigt sich aber erst im Zusammenspiel aller dieser Faktoren.
+
+## Praxischeck: Darauf achtest du bei der Webkante
+
+- Suche die beiden festen Längsseiten des Stoffes, bevor du dein Schnittmuster auflegst.
+- Richte den Fadenlaufpfeil immer parallel zur Webkante aus.
+- Schneide die Webkante bei normalen Schnittteilen mit genügend Abstand ab, wenn sie dichter oder unruhiger ist als der Stoff.
+- Nutze eine sichtbare Webkante nur bewusst als Gestaltungselement.
+- Verwechsle die Webkante nicht mit einem fertigen [Saum](/glossar/saum/).
 
 ## ESKYNA-Merksatz
 
-> Die Webkante zeigt, wie der Stoff gebaut ist: Sichtbar eingesetzt wird sie erst durch eine bewusste Designentscheidung.
+> Die Webkante zeigt dir die Richtung des Stoffes. Für einen geraden, gut fallenden Zuschnitt richtest du den Fadenlauf immer parallel zu ihr aus.
+
+Weitere passende Begriffe findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).

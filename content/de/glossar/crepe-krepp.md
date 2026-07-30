@@ -1,71 +1,152 @@
 ---
 title: "Was ist Crêpe/Krepp?"
 term: "Crêpe/Krepp"
-description: "Crêpe oder Krepp bezeichnet Stoffe mit körniger, leicht gekräuselter Oberfläche und bewegtem Fall."
+description: "Crêpe, auch Krepp genannt, ist eine Stofffamilie mit körniger bis leicht gekräuselter Oberfläche. Je nach Faser und Verarbeitung fällt Krepp fließend, matt, transparent oder formstabil."
 category: "Materialien & Details"
 image: images/glossar/crepe-krepp.png
-image_alt: "Glossar-Illustration zu Crêpe/Krepp"
+image_alt: "Nahansicht eines fein strukturierten Crêpe-Stoffs mit leicht körniger Oberfläche"
 relatedTerms:
-  - title: Satin
-    url: /glossar/satin/
-  - title: Seide
-    url: /glossar/seide/
-  - title: Viskose
-    url: /glossar/viskose/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Struktur
+    url: /glossar/struktur/
   - title: Chiffon
     url: /glossar/chiffon/
+  - title: Viskose
+    url: /glossar/viskose/
+  - title: Seide
+    url: /glossar/seide/
+  - title: Knitterverhalten
+    url: /glossar/knitterverhalten/
 keywords:
   - "crepe krepp"
-  - "was ist crêpe/krepp"
+  - "was ist crêpe"
+  - "was ist krepp stoff"
+  - "crêpe stoff eigenschaften"
+  - "krepp stoff"
   - "crêpe/krepp"
 lastmod: "2026-07-18"
 knowledge:
-  - "Crêpe entsteht meist durch hochgedrehte Garne, die sich beim Weben oder Ausrüsten zusammenziehen."
-  - "Der Stoff knittert kaum und hat einen besonders eleganten, fließenden Fall."
-  - "Es gibt verschiedene Unterarten wie Crêpe de Chine, Crêpe Georgette oder Wollcrêpe."
+  - "Crêpe beschreibt keine einzelne Faser, sondern eine Stofffamilie mit charakteristisch unregelmäßiger Oberfläche."
+  - "Die typische Struktur entsteht häufig durch stark gedrehte Garne, besondere Bindungen oder nachträgliche Veredelung."
+  - "Faser, Stoffgewicht und Verarbeitung entscheiden darüber, ob ein Kreppstoff transparent, fließend, matt oder formstabil wirkt."
 history:
   - "Historisch wurde matter schwarzer Krepp vor allem für Trauerkleidung verwendet."
-  - "In den 1920er- und 1930er-Jahren entwickelte sich Crêpe de Chine zum Inbegriff fließender, luxuriöser Abendmode."
+  - "In den 1920er- und 1930er-Jahren wurde Crêpe de Chine zu einem wichtigen Stoff für fließende, elegante Abendmode."
+faq:
+  items:
+    - q: "Ist Crêpe immer aus Seide?"
+      a: "Nein. Crêpe beschreibt vor allem die Oberflächenstruktur und Herstellung, nicht die Faser. Krepp kann unter anderem aus Seide, Wolle, Viskose oder Polyester bestehen."
+    - q: "Knittert Krepp stark?"
+      a: "Viele Kreppstoffe zeigen kleine Tragefalten weniger deutlich als glatte Stoffe. Das genaue Knitterverhalten hängt aber von Faser, Dichte und Verarbeitung ab."
+    - q: "Wie pflegst du Crêpe richtig?"
+      a: "Prüfe immer das Pflegeetikett. Feiner Seiden- oder Wollkrepp braucht meist eine besonders schonende Pflege, während viele Polyester-Krepps pflegeleichter sind."
 ---
 
-## Was ist Crêpe? Eine Definition
+## Definition: Was ist Crêpe oder Krepp?
 
-Crêpe (im Deutschen oft Krepp genannt) bezeichnet keine einzelne Faser, sondern eine ganze Stofffamilie mit einer charakteristischen, unregelmäßigen Oberfläche. Diese Struktur wirkt optisch körnig, sandig oder leicht gekräuselt.
+**Crêpe**, im Deutschen meist **Krepp** genannt, ist eine Stofffamilie mit einer leicht körnigen, unregelmäßigen oder gekräuselten Oberfläche. Der Stoff wirkt dadurch lebendiger als glatte Materialien und kann je nach Qualität weich fließen, transparent sein oder eine klare, formstabile Linie erzeugen.
 
-Der typische Effekt entsteht durch spezielle Webtechniken oder die Verwendung von stark überdrehten Garnen (sogenannten Kreppzwirnen). Beim Weben oder der anschließenden Veredelung ziehen sich diese Fäden unregelmäßig zusammen und erzeugen das reliefartige Oberflächenbild. Als Ausgangsmaterialien dienen unterschiedliche Fasern wie [Seide](/glossar/seide/), [Wolle](/glossar/wolle/), [Viskose](/glossar/viskose/) oder [Polyester](/glossar/polyester/).
+Crêpe ist keine Faserbezeichnung. Ein Kreppstoff kann aus [Seide](/glossar/seide/), [Wolle](/glossar/wolle/), [Viskose](/glossar/viskose/), Polyester oder einem Fasermix bestehen. Für die Wirkung im Outfit zählen deshalb nicht nur die sichtbare Struktur, sondern auch Faser, Gewicht und Verarbeitung.
 
-## Wie sich Crêpe-Stoffe im Design unterscheiden
+## Wie entsteht die typische Kreppstruktur?
 
-Je nach Herstellungsart und verwendeter Faser zeigt der Stoff ganz unterschiedliche Eigenschaften. Das Spektrum reicht von transparenten Sommerstoffen bis hin zu schweren, strukturierten Geweben für den Winter.
+Die charakteristische Oberfläche entsteht häufig durch stark gedrehte Garne, die als Kreppzwirne bezeichnet werden. Beim Weben oder durch spätere Veredelung ziehen sich diese Garne leicht zusammen. So entsteht die feine, unregelmäßige Textur.
 
-### Die wichtigsten Krepp-Arten auf einen Blick
+Auch spezielle Bindungen sowie Verfahren mit Hitze, Druck oder Prägung können eine Kreppoptik erzeugen. Deshalb sieht nicht jeder Crêpe gleich aus. Manche Varianten wirken fein und fast seidig, andere trocken, körnig oder deutlich strukturiert.
 
-- **Crêpe de Chine:** Ein feines, leicht glänzendes Gewebe aus Seide oder Kunstfasern. Es hat eine sanfte Querrippung, fließt extrem weich und wird bevorzugt für elegante Blusen und feine Kleider genutzt.
-- **Crêpe Georgette und Chiffon:** Diese Varianten sind sehr dünn, schleierartig und transparent. Sie besitzen einen sandigen, fast trockenen Griff. Weitere Details dazu findest du auch im Eintrag zu [Chiffon](/glossar/chiffon/).
-- **Wollcrêpe (Crêpe Georgette aus Wolle):** Ein schwererer, matter Stoff mit hervorragender Elastizität. Er eignet sich perfekt für strukturierte [Blazer](/glossar/blazer/), edle Hosen oder Kostüme, da er die Form hält, ohne steif zu wirken.
-- **Prägerkrepp (Borkenkrêpe):** Hier wird die rindenartige Struktur nachträglich durch Hitze und Druck in den Stoff geprägt. Dies geschieht häufig bei synthetischen Fasern.
+Die sichtbare [Struktur](/glossar/struktur/) verändert auch, wie Licht auf den Stoff trifft. Matte Kreppstoffe wirken oft ruhig und tief, während feinere Varianten einen zurückhaltenden Schimmer haben können.
 
-## Die optische Wirkung im Outfit
+## Welche Crêpe-Arten gibt es?
 
-Krepp-Stoffe sind in der Modewelt für ihren einzigartigen [Materialfall](/glossar/materialfall/) bekannt. Da die matte Oberfläche das Licht bricht statt es zu reflektieren (wie es beispielsweise bei [Satin](/glossar/satin/) der Fall ist), wirken die Farben besonders tief und satt.
+Unter dem Begriff Krepp finden sich sehr unterschiedliche Stoffe. Diese Varianten begegnen dir besonders häufig:
 
-Die dreidimensionale [Struktur](/glossar/struktur/) sorgt dafür, dass der Stoff fließend den Körper umspielt, ohne unvorteilhaft anzuhaften. Ein weiterer großer Vorteil im Alltag ist das unkomplizierte [Knitterverhalten](/glossar/knitterverhalten/). Durch die bereits vorhandene Kräuselung fallen kleine Falten beim Tragen kaum auf, was Kleidung aus Krepp sehr reisetauglich macht.
+### Crêpe de Chine
 
-## Worauf du beim Kauf und Tragen achten solltest
+Crêpe de Chine ist ein feiner, weich fallender Stoff mit dezenter Kreppstruktur. Er wird häufig für Blusen, Tops, Kleider und leichte Röcke verwendet. Je nach Faser kann er sanft glänzen oder eher matt wirken.
 
-- **Die Faser bestimmt den Komfort:** Prüfe immer das Pflegeetikett. Ein Crêpe aus Viskose oder Seide trägt sich an warmen Tagen wunderbar luftig und atmungsaktiv. Reine Polyester-Varianten sind zwar pflegeleicht, können dich aber schneller ins Schwitzen bringen.
-- **Vorsicht bei Accessoires:** Die leicht raue Oberflächenstruktur ist anfällig für Fadenzieher. Achte darauf, dass spitze Kanten an Ringen, Armreifen oder Taschengurten den Stoff nicht beschädigen.
-- **Passform und Dehnbarkeit:** Viele Krepp-Gewebe besitzen eine natürliche Elastizität, selbst ohne Elasthan-Anteil. Nutze diesen Spielraum für eine bequeme Passform, die sich deinen Bewegungen anpasst.
-- **Die richtige Pflege:** Halte dich strikt an die Waschanleitung. Vor allem feine Seidenkrepps oder strukturierte Wollcrêpes vertragen keine heiße Wäsche und sollten professionell gereinigt oder schonend von Hand gepflegt werden, damit sie nicht einlaufen. Mehr dazu erfährst du im Bereich [Pflege](/glossar/pflege/).
+### Crêpe Georgette
 
-## Typisches Missverständnis
+Crêpe Georgette ist leicht, transparent und hat einen trockenen, körnigen Griff. Der Stoff fällt weich und bewegt sich deutlich beim Gehen. Wegen seiner Transparenz braucht er bei Kleidern, Röcken oder Blusen oft ein Futter oder bewusstes Layering.
 
-Viele Menschen denken bei dem Begriff sofort an reine Seide. Das stimmt so jedoch nicht. Das Wort beschreibt lediglich die Webart und Textur, nicht das Material selbst. Ein günstiges Kleid aus Polyester-Krepp hat eine völlig andere thermische Wirkung und [Materialqualität](/glossar/materialqualitaet/) als eine edle Bluse aus Seiden- oder Wollcrêpe.
+### Wollcrêpe
+
+Wollcrêpe ist meist matter, dichter und formstabiler als feine Seidenkrepps. Er eignet sich für Kleider, Röcke, Hosen oder strukturierte Jacken. Seine Oberfläche wirkt gepflegt, ohne die glatte Strenge klassischer Anzugstoffe zu haben.
+
+### Prägekrepp oder Borkenkrepp
+
+Bei Prägekrepp wird die sichtbare Struktur nachträglich erzeugt. Die Oberfläche kann an Rinde erinnern und wirkt deutlich plastischer. Solche Varianten finden sich oft in pflegeleichten Stoffen und sommerlicher Kleidung.
+
+## Wie wirkt Crêpe im Outfit?
+
+Krepp bringt Bewegung und Tiefe in ein Outfit, ohne sofort dominant zu wirken. Die unregelmäßige Oberfläche lässt einen Look weniger glatt und streng erscheinen als etwa [Satin](/glossar/satin/), der Licht stärker reflektiert.
+
+Ein feiner, weich fallender Crêpe umspielt den Körper und unterstützt eine fließende Silhouette. Ein dichter Wollcrêpe kann dagegen klarer und professioneller wirken. Der [Materialfall](/glossar/materialfall/) entscheidet also stark darüber, ob ein Kleidungsstück eher leicht, elegant, sachlich oder strukturiert erscheint.
+
+Besonders bei dunklen Farben wirkt Krepp oft tief und ruhig. Bei hellen Farben macht die Textur die Fläche interessanter, ohne dass du zwingend Muster oder auffällige Details brauchst.
+
+## Warum ist Krepp im Alltag praktisch?
+
+Viele Kreppstoffe zeigen kleine Falten weniger deutlich als sehr glatte Gewebe. Die bereits vorhandene Oberflächenbewegung kann dazu beitragen, dass Kleidung nach langem Sitzen oder auf Reisen gepflegter aussieht. Wie robust ein Stoff tatsächlich ist, hängt aber immer von seiner Faser und Qualität ab.
+
+Krepp ist deshalb beliebt für:
+
+- fließende Blusen und Hemden
+- Kleider für Alltag, Business und Anlass
+- weite Hosen und elegante Anzughosen
+- Röcke mit Bewegung
+- strukturierte Blazer und Jacken
+- Reisegarderobe mit möglichst unkompliziertem [Knitterverhalten](/glossar/knitterverhalten/)
+
+## Worauf du beim Kauf von Crêpe achten solltest
+
+### Prüfe die Faserzusammensetzung
+
+Der Begriff Crêpe verrät dir noch nicht, wie sich ein Stoff auf der Haut anfühlt oder wie aufwendig seine Pflege ist. Seiden- und Viskosekrepp fallen meist weich und fließend. Wollkrepp kann strukturierter und wärmer wirken. Polyesterkrepp ist oft pflegeleichter, fühlt sich aber je nach Qualität sehr unterschiedlich an.
+
+### Schau den Stoff gegen das Licht an
+
+Bei feinem Krepp kannst du so besser einschätzen, ob der Stoff transparent ist. Das ist vor allem bei hellen Blusen, Kleidern und Röcken wichtig. Achte auch darauf, ob ein Futter vorhanden ist und ob es zum Fall des Oberstoffs passt.
+
+### Fühle Oberfläche und Gewicht
+
+Ein hochwertiger Krepp sollte gleichmäßig verarbeitet wirken. Die Struktur darf lebendig sein, sollte aber keine auffällig dünnen Stellen, lose Fäden oder unruhigen Verzug zeigen. Der [Griff](/glossar/griff/) hilft dir bei der Einschätzung: Fühlt sich der Stoff angenehm, stabil und passend zum geplanten Einsatz an?
+
+### Kontrolliere empfindliche Stellen
+
+Feine Kreppstoffe können an rauen Kanten hängen bleiben. Prüfe deshalb Taschen, Reißverschlüsse, Schmuck und die Innenseite des Kleidungsstücks. Besonders bei transparentem oder leichtem Crêpe sind sauber verarbeitete Nähte wichtig.
+
+## Crêpe richtig pflegen
+
+Die richtige Pflege richtet sich immer nach der Faser und dem Pflegeetikett. Feiner Seidenkrepp und Wollcrêpe reagieren empfindlicher auf Hitze, Reibung und falsche Waschmittel als viele synthetische Varianten.
+
+Beachte besonders diese Punkte:
+
+- Wasche und trockne den Stoff nur nach den Angaben auf dem [Pflegeetikett](/glossar/pflegeetikett/).
+- Behandle feine Oberflächen vorsichtig, damit keine Fadenzieher entstehen.
+- Vermeide hohe Temperaturen beim Waschen, Bügeln und Trocknen.
+- Dämpfen kann bei empfindlichen Kreppstoffen schonender sein als starkes Bügeln.
+- Bei hochwertigen oder empfindlichen Teilen kann eine [chemische Reinigung](/glossar/chemische-reinigung/) sinnvoll sein.
+
+## Typische Missverständnisse über Krepp
+
+- **Missverständnis: Crêpe ist immer Seide.**  
+  **Besser:** Crêpe bezeichnet vor allem eine Stoffstruktur. Die Faser kann Seide, Wolle, Viskose, Polyester oder ein Mix sein.
+
+- **Missverständnis: Jeder Kreppstoff fällt weich.**  
+  **Besser:** Feiner Crêpe kann sehr fließend sein, dichter Woll- oder Prägekrepp dagegen eher standfest und strukturiert.
+
+- **Missverständnis: Krepp knittert nie.**  
+  **Besser:** Viele Varianten kaschieren kleine Falten gut. Wie stark ein Stoff knittert, hängt trotzdem von Faser, Dichte und Nutzung ab.
 
 ## Historische Einordnung
 
-Die Geschichte des Krepps ist eng mit gesellschaftlichen Ritualen verbunden. Jahrhundertelang war schwerer, matter Krepp im europäischen Raum das traditionelle Material für [Trauerkleidung](/glossar/trauerbekleidung/). Seine absolute Glanzlosigkeit sollte die Zurückhaltung der trauernden Person symbolisieren. Erst im frühen 20. Jahrhundert befreiten Modeschöpferinnen wie Coco Chanel den Stoff aus diesem Kontext und etablierten ihn als fließendes Material für die luxuriöse [Abendgarderobe](/glossar/abendgarderobe/).
+Krepp war über lange Zeit eng mit Trauerkleidung verbunden. Besonders matter schwarzer Krepp stand im europäischen Kontext für Zurückhaltung und formelle Trauer. Seine glanzlose Oberfläche unterschied ihn deutlich von festlicheren Stoffen.
+
+Im frühen 20. Jahrhundert gewann vor allem Crêpe de Chine als leichtes, fließendes Material an Bedeutung. Er passte zu den bewegteren, weniger starren Silhouetten der 1920er- und 1930er-Jahre und wurde für elegante Tages- und Abendkleidung geschätzt.
 
 ## ESKYNA-Merksatz
 
-> Crêpe wirkt über seine feine Körnung: Er spiegelt das Licht sanft wider, knittert kaum und verleiht deinen Looks eine wunderbar lebendige, fließende Struktur.
+> Crêpe lebt von seiner feinen Unregelmäßigkeit: Die Struktur gibt Tiefe, der Fall bestimmt die Wirkung und die Faser entscheidet über Komfort und Pflege.
+
+Weitere passende Begriffe findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).

@@ -1,100 +1,149 @@
 ---
 title: "Was ist Piqué?"
-term: "Was ist Piqué"
-description: "Was ist Piqué? Erfahre, wie die reliefartige Stoffstruktur entsteht, warum sie oft bei Poloshirts vorkommt und worauf du bei Qualität und Pflege achtest."
+term: "Piqué"
+description: "Piqué ist eine Stoffstruktur mit reliefartiger Oberfläche, die besonders von Poloshirts bekannt ist. Erfahre, wie Piqué entsteht, wie der Stoff wirkt und worauf du bei Qualität, Passform und Pflege achtest."
 category: "Materialien & Details"
 slug: "pique"
 seoTitle: "Piqué: Struktur, Eigenschaften und Pflege | ESKYNA"
 image: "images/glossar/pique.png"
 image_alt: "Nahaufnahme eines fein strukturierten Piqué-Stoffs mit kleinen erhabenen und vertieften Partien"
+tags:
+  - Piqué
+  - Stoffstruktur
+  - Poloshirt
+  - Textilqualität
+keywords:
+  - Piqué
+  - was ist Piqué
+  - Piqué Stoff
+  - Piqué Struktur
+  - Baumwollpiqué
+  - Piqué Pflege
+relatedTerms:
+  - title: "Baumwolle"
+    url: /glossar/baumwolle/
+  - title: "Jersey"
+    url: /glossar/jersey/
+  - title: "Struktur"
+    url: /glossar/struktur/
+  - title: "Poloshirt"
+    url: /glossar/poloshirt/
+  - title: "Dichte"
+    url: /glossar/dichte/
+  - title: "Materialqualität"
+    url: /glossar/materialqualitaet/
+knowledge:
+  - "Piqué bezeichnet eine textile Konstruktion beziehungsweise Oberflächenstruktur, keine einzelne Faser."
+  - "Die reliefartige Oberfläche kann feine Waben, Rippen, Rauten oder kleine Vertiefungen bilden."
+  - "Komfort, Atmungsaktivität und Formstabilität hängen zusätzlich von Faser, Dichte, Stoffgewicht und Verarbeitung ab."
+faq:
+  items:
+    - q: "Ist Piqué immer aus Baumwolle?"
+      a: "Nein. Piqué beschreibt die Struktur des Materials, nicht den Rohstoff. Baumwolle ist häufig, doch es gibt auch Piqué aus Kunstfasern oder Fasermischungen."
+    - q: "Ist Piqué atmungsaktiv?"
+      a: "Eine offenere Piqué-Struktur kann den Luftaustausch begünstigen. Wie angenehm der Stoff sich bei Wärme trägt, hängt aber ebenso von Faser, Dichte, Ausrüstung und Schnitt ab."
+    - q: "Kann Piqué einlaufen?"
+      a: "Ja, besonders Piqué aus Baumwolle kann bei ungeeigneter Wäsche oder im Trockner einlaufen. Beachte deshalb immer das Pflegeetikett und bringe das Teil nach der Wäsche vorsichtig in Form."
+    - q: "Woran erkennst du gutes Piqué?"
+      a: "Eine gute Qualität zeigt eine gleichmäßige Struktur, saubere Nähte und ausreichende Formstabilität. Bei Poloshirts sollten Kragen und Knopfleiste auch nach Bewegung flach und ordentlich liegen."
 lastmod: "2026-07-21"
 ---
 
-Piqué ist ein Gewebe oder Gestrick mit einer deutlich strukturierten, reliefartigen Oberfläche aus erhabenen und vertieften Partien.
+## Definition: Was ist Piqué?
 
-## Definition
+**Piqué** ist ein Gewebe oder Gestrick mit einer sichtbar strukturierten, reliefartigen Oberfläche. Erhabene und vertiefte Partien erzeugen je nach Konstruktion feine Waben, Rippen, Rauten oder kleine Muster.
 
-Piqué, auch Pikee geschrieben, entsteht durch besondere Bindungs- oder Maschenkonstruktionen. Die Oberfläche kann feine Waben, Rippen, Rauten oder kleine Vertiefungen zeigen. Besonders bekannt ist gestricktes Baumwollpiqué für Poloshirts, doch Piqué kann auch gewebt und aus anderen Fasern hergestellt werden.
+Besonders bekannt ist Baumwollpiqué von [Poloshirts](/glossar/poloshirt/). Piqué kommt jedoch auch bei Kleidern, Oberteilen, Hemden oder strukturierten Jacken vor. Entscheidend ist: Piqué beschreibt die textile Struktur, nicht die Faser. Ein Piqué-Stoff kann aus [Baumwolle](/glossar/baumwolle/), Polyester oder einem Faser-Mix bestehen.
 
-Der Begriff bezeichnet somit die Struktur des Stoffes, nicht seinen Rohstoff. Piqué aus Baumwolle fühlt sich anders an als eine Variante aus Polyester oder einer elastischen Mischung.
+## Wie entsteht die typische Piqué-Struktur?
 
-## Einfach erklärt
+Die Piqué-Oberfläche entsteht durch eine besondere Bindungs- oder Maschenkonstruktion. Anders als bei einem völlig glatten Stoff liegen einzelne Bereiche höher oder tiefer. Dadurch wirkt das Material körnig, griffig und optisch lebendiger.
 
-Piqué ist der typische leicht körnige oder wabenartige Stoff vieler Poloshirts. Er liegt nicht völlig glatt auf der Haut und kann dadurch eine griffige, luftige Wirkung haben.
+Bei gestricktem Piqué, wie du es oft bei Poloshirts findest, kann die Struktur etwas Abstand zwischen Stoff und Haut schaffen. Das macht den Stoff nicht automatisch luftig oder atmungsaktiv. Dafür sind zusätzlich Faserart, [Dichte](/glossar/dichte/), Stoffgewicht und Ausrüstung entscheidend.
 
-## Warum Piqué wichtig ist
+## Piqué-Stoff einfach erklärt
 
-Die Oberflächenstruktur verleiht selbst einfarbigen Kleidungsstücken Tiefe. Sie kann kleine Knitter weniger sichtbar machen und Abstand zwischen Stoff und Haut schaffen. Wie luftig oder saugfähig das Material ist, hängt jedoch von Faser, Dichte und Ausrüstung ab, nicht allein vom Namen Piqué.
+Piqué ist der typische Stoff, der ein Poloshirt strukturierter und etwas gepflegter wirken lässt als ein glattes T-Shirt aus [Jersey](/glossar/jersey/). Die Oberfläche bringt Tiefe in ein einfarbiges Kleidungsstück, ohne dass ein Print oder Muster nötig ist.
 
-Piqué wirkt häufig sportlich-gepflegt. In feiner Qualität kann es auch an Kleidern, Hemden, Blazern oder strukturierten Sommertops erscheinen.
+Je feiner die Struktur, desto ruhiger und eleganter kann Piqué wirken. Deutlich sichtbare Waben oder Rippen wirken sportlicher, markanter und je nach Stoffdicke auch voluminöser. Die sichtbare [Struktur](/glossar/struktur/) ist deshalb immer ein Teil der Stilwirkung.
 
-## Blick aus der Beratung
+## Eigenschaften von Piqué
 
-Aus Beratungssicht sollte die Größe der Struktur zur gewünschten Wirkung passen. Feines Piqué wirkt ruhiger und lässt sich leichter formell kombinieren. Grobe Waben oder deutliche Rippen sind präsenter und können mehr Volumen erzeugen.
+Piqué kann je nach Material und Verarbeitung sehr unterschiedlich ausfallen. Typisch sind jedoch einige Eigenschaften:
 
-Die Stoffdicke beeinflusst außerdem den Fall. Festes Piqué zeichnet weniger nach, kann aber an Säumen oder Knopfleisten steifer abstehen. Leichtere Qualität fällt weicher, ist möglicherweise jedoch durchscheinender.
+- Die Oberfläche ist reliefartig statt glatt.
+- Einfarbige Kleidung erhält mehr optische Tiefe.
+- Kleinere Knitter können durch die Struktur weniger auffallen.
+- Festere Piqué-Qualitäten halten die Silhouette oft klarer.
+- Leichte Varianten können weicher fallen, aber auch transparenter sein.
+- Die Haptik reicht von trocken und griffig bis weich und geschmeidig.
 
-## So nutzt du den Begriff praktisch
+Die Bezeichnung Piqué allein sagt noch nichts Verlässliches über Haltbarkeit oder Tragekomfort aus. Erst das gesamte [Materialprofil](/glossar/materialprofil/) entscheidet, wie ein Kleidungsstück im Alltag funktioniert.
 
-- Prüfe das Materialetikett: Piqué sagt nichts darüber aus, aus welcher Faser der Stoff besteht.
-- Ziehe die Oberfläche leicht auseinander, um Dichte und Transparenz zu beurteilen.
-- Achte bei Poloshirts darauf, ob Kragen und Knopfleiste nach der Bewegung flach zurückliegen.
-- Kombiniere die Struktur mit glatten Materialien, wenn das Outfit ruhig bleiben soll.
-- Beachte die Pflegeangaben, damit die Oberfläche nicht verzieht oder einläuft.
+## Warum Piqué häufig für Poloshirts verwendet wird
 
-## Beispiel aus dem Alltag
+Ein Poloshirt soll meist gepflegter als ein T-Shirt, aber entspannter als ein Hemd wirken. Piqué unterstützt genau diese Zwischenwirkung: Die strukturierte Oberfläche wirkt sportlich, ordentlich und etwas angezogener.
 
-Ein schlichtes Poloshirt soll gepflegter als ein T-Shirt wirken, aber weniger formell als ein Hemd. Feines Baumwollpiqué bringt Struktur und hält die Silhouette etwas klarer, ohne ein zusätzliches Muster zu benötigen.
+Bei einem guten Poloshirt sollten Kragen, Knopfleiste und Schultern auch in Bewegung ruhig liegen. Ein sehr dünnes oder stark dehnbares Piqué kann schneller seine Form verlieren. Ein zu festes Material kann dagegen steif wirken oder an Kanten abstehen.
 
-## Typisches Missverständnis
+## Piqué im Outfit: So wirkt der Stoff
 
-> „Piqué ist eine Baumwollart.“
+Piqué bringt Textur in einen Look. Deshalb passt es besonders gut, wenn du ein schlichtes Outfit interessanter machen möchtest, ohne mit starken Farben oder auffälligen Mustern zu arbeiten.
 
-Nein. Baumwolle ist eine Faser, Piqué eine textile Konstruktion beziehungsweise Struktur. Häufig treten beide zusammen auf, müssen es aber nicht.
+Feines Piqué wirkt ruhig und gepflegt. Es passt gut zu Chinos, Stoffhosen, Röcken oder einem klar geschnittenen Blazer. Groberes Piqué betont die sportliche Seite stärker und harmoniert mit Jeans, Shorts oder lässigen Layering-Looks.
 
-## Abgrenzung zu ähnlichen Begriffen
+Wenn dein Outfit insgesamt ruhig bleiben soll, kombiniere Piqué mit glatten Materialien wie Popeline, Denim oder feinem Strick. Unterschiedliche Oberflächen schaffen einen bewussten Texturmix, ohne den Look unruhig zu machen.
 
-- **Jersey:** Oberbegriff für gestrickte oder gewirkte Stoffe; kann glatt oder strukturiert sein.
-- **Waffelstoff:** Besitzt meist deutlich größere, quadratische Vertiefungen.
-- **Seersucker:** Zeigt durch unterschiedliche Fadenspannung eine puckrige, streifenartige Oberfläche.
-- **Rippstrick:** Wird durch ausgeprägte längs verlaufende Rippen elastisch und strukturiert.
+## Piqué richtig beurteilen: Qualität und Passform
+
+Achte beim Kauf nicht nur auf den Begriff Piqué, sondern auf die konkrete Verarbeitung des Kleidungsstücks.
+
+- Prüfe, ob die Struktur gleichmäßig aussieht und keine verzogenen Bereiche zeigt.
+- Ziehe den Stoff leicht auseinander. So erkennst du, wie dicht er gearbeitet ist und ob er schnell transparent wird.
+- Achte darauf, ob das Material nach leichter Dehnung in seine Form zurückfindet.
+- Kontrolliere Nähte, Kragen und Knopfleiste. Sie sollten flach liegen und sauber verarbeitet sein.
+- Fühle die Oberfläche direkt auf der Haut. Ein Stoff kann optisch hochwertig wirken und trotzdem unangenehm kratzig sein.
+- Wähle die Stoffdicke passend zu Jahreszeit, Anlass und gewünschter Wirkung.
+
+Auch der [Griff](/glossar/griff/) ist wichtig. Er beschreibt, ob sich ein Piqué trocken, fest, weich oder glatt anfühlt und beeinflusst damit Komfort und Wirkung.
+
+## Piqué pflegen
+
+Wie du Piqué waschen solltest, hängt vor allem von der Faserzusammensetzung ab. Baumwollpiqué kann bei zu hoher Temperatur oder im Trockner einlaufen. Synthetische Mischungen sind oft formstabiler, benötigen aber ebenfalls eine passende Pflege.
+
+Orientiere dich immer am [Pflegeetikett](/glossar/pflegeetikett/). Nach der Wäsche hilft es, Kragen und Knopfleiste vorsichtig glatt zu formen. So behalten Poloshirts und strukturierte Oberteile ihre klare Linie besser.
+
+## Abgrenzung zu ähnlichen Stoffen
+
+### Piqué und Jersey
+
+[Jersey](/glossar/jersey/) ist ein Oberbegriff für Maschenware und kann glatt oder strukturiert sein. Piqué beschreibt dagegen eine konkrete reliefartige Oberflächenwirkung. Ein Piqué kann gestrickt sein, ist aber nicht mit jedem Jersey gleichzusetzen.
+
+### Piqué und Waffelstoff
+
+Waffelstoff zeigt meist größere, deutlich quadratische Vertiefungen. Piqué kann ähnlich wirken, ist jedoch oft feiner und weniger regelmäßig ausgeprägt.
+
+### Piqué und Seersucker
+
+[Seersucker](/glossar/seersucker/) besitzt eine dauerhaft puckrige, häufig streifenartige Oberfläche. Sie entsteht durch unterschiedliche Fadenspannung. Piqué erhält seine Struktur durch Bindung oder Maschenkonstruktion.
+
+### Piqué und Rippstrick
+
+[Rippstrick](/glossar/rippstrick/) zeigt ausgeprägte längs verlaufende Rippen und ist oft besonders elastisch. Piqué kann Rippen enthalten, zeigt aber häufig Waben, Rauten oder andere reliefartige Muster.
+
+## Typische Missverständnisse
+
+**Piqué ist eine Baumwollart.**  
+Nein. Baumwolle ist eine Faser, Piqué eine Struktur. Baumwollpiqué ist lediglich eine häufige Kombination.
+
+**Piqué ist immer atmungsaktiv.**  
+Nicht automatisch. Die Oberflächenstruktur kann Luftzirkulation fördern, doch Dichte, Faser und Stoffgewicht beeinflussen das Trageklima genauso stark.
+
+**Piqué ist nur für Freizeitkleidung geeignet.**  
+Nein. Feines, dichtes Piqué kann sehr gepflegt und hochwertig wirken. Es findet sich auch an Kleidern, strukturierten Oberteilen oder Jacken.
 
 ## ESKYNA-Merksatz
 
-> Piqué ist die Struktur, nicht die Faser: Erst Material, Dichte und Verarbeitung bestimmen Komfort und Qualität.
+> Piqué ist die Struktur, nicht die Faser. Erst Material, Dichte und Verarbeitung zeigen dir, wie komfortabel, haltbar und gepflegt ein Piqué-Stoff wirklich ist.
 
-## Entscheidungshilfe vor dem nächsten Kauf
-
-- Ist die Struktur gleichmäßig und ohne verzogene Bereiche?
-- Passt die Stoffdicke zur Jahreszeit und zum geplanten Einsatz?
-- Liegen Kragen, Nähte und Knopfleiste ruhig?
-- Fühlt sich die Oberfläche direkt auf der Haut angenehm an?
-- Bleibt das Kleidungsstück bei leichter Dehnung formstabil?
-
-## Wann Beratung sinnvoll wird
-
-Beratung kann helfen, wenn strukturierte Stoffe an dir schnell sportlicher oder voluminöser wirken als gewünscht. Über Strukturgröße, Farbe, Schnitt und Kombination lässt sich Piqué auch in eine ruhige, elegante Garderobe integrieren.
-
-## Verwandte Begriffe
-
-Baumwolle, Jersey, Struktur, Dichte, Stoffgewicht, Materialqualität, Griff, Polo, Texturmix
-
-## Welche Fragen klärt dieser Begriff?
-
-- Ist Piqué eine Faser oder eine Stoffstruktur?
-- Warum wird Piqué häufig für Poloshirts verwendet?
-- Woran erkenne ich eine gute, formstabile Qualität?
-
-## Häufige Fragen
-
-### Ist Piqué immer atmungsaktiv?
-
-Nicht automatisch. Eine offenere Struktur kann Luftaustausch begünstigen, doch Faser, Dichte, Ausrüstung und Schnitt beeinflussen das Trageklima ebenso.
-
-### Kann Piqué einlaufen?
-
-Ja. Besonders Baumwollqualitäten können sich bei ungeeigneter Wäsche oder Trocknung verändern. Orientiere dich am Pflegeetikett und forme das Kleidungsstück nach der Wäsche vorsichtig.
-
-### Eignet sich Piqué nur für Freizeitkleidung?
-
-Nein. Feines, dichtes Piqué kann sehr gepflegt wirken und wird auch für Kleider, strukturierte Jacken und hochwertige Oberteile eingesetzt.
+Weitere Begriffe zu Stoffen, Oberflächen und Verarbeitung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).

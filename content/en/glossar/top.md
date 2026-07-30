@@ -4,91 +4,134 @@ image: images/glossar/top.png
 title: What does Top mean?
 seoTitle: Top explained | ESKYNA Glossary
 term: Top
-description:
-  Top is a material or detail term that influences quality, comfort, texture, and the overall
-  impression of an outfit.
+description: A top is a general term for an upper-body garment, from a T-shirt or tank top to a blouse, camisole, or dressy evening top.
 category: Materials & Details
 tags:
   - top
-  - materials & details
+  - upper-body garment
+  - wardrobe basics
   - style glossary
 keywords:
   - top
-  - what is top
-  - top style advice
+  - what is a top
+  - top clothing meaning
+  - types of tops
+  - how to style a top
 slug: top
 url: /en/glossary/top/
 aliases:
   - /en/glossar/top/
   - /glossary/top/
-image_alt: Editorial glossary illustration for Top
+image_alt: Editorial illustration of different top styles, including a T-shirt, blouse, camisole, and tank top
 relatedTerms:
-  - title: Material Quality
-    url: /en/glossary/material-quality/
-  - title: Craftsmanship
-    url: /en/glossary/craftsmanship/
-  - title: Texture
-    url: /en/glossary/texture/
-  - title: Care
-    url: /en/glossary/care/
-  - title: Quality
-    url: /en/glossary/quality/
+  - title: T-Shirt
+    url: /en/glossar/t-shirt/
+  - title: Blouse
+    url: /en/glossar/bluse/
+  - title: Camisole
+    url: /en/glossar/camisole/
+  - title: Tanktop
+    url: /en/glossar/tanktop/
+  - title: Crop Top
+    url: /en/glossar/crop-top/
+knowledge:
+  - A top is a broad garment category rather than one specific cut, fabric, or dress code.
+  - Neckline, sleeve length, hem length, fit, and fabric determine how casual, formal, or expressive a top appears.
+  - The relationship between a top and the waistline of trousers or a skirt strongly influences outfit proportion.
 faq:
   items:
-    - q: How can I use “Top” in real outfits?
-      a: Use it as a checkpoint for quality, surface, care, and tactile impression. Use it to judge
-        why similar garments can look or feel completely different when worn.
-    - q: Does “Top” work the same way for everyone?
-      a:
-        No. Its effect depends on your proportions, coloring, lifestyle, context, and personal style
-        direction.
+    - q: What counts as a top in clothing?
+      a: A top is any garment worn on the upper body, such as a T-shirt, blouse, camisole, tank top, shirt, knit top, or crop top. Jackets and coats are usually described as outerwear rather than tops.
+    - q: What is the difference between a top and a blouse?
+      a: Top is the broader category. A blouse is one type of top, usually made from a lighter woven fabric and often featuring details such as a collar, button placket, or shaped sleeves.
+    - q: How do I choose the right top for an outfit?
+      a: Start with the occasion, then consider neckline, fit, fabric, sleeve length, and hem placement. A top should work with the volume and waist height of the bottom piece while supporting the overall mood you want to create.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Top**: Top is a material or detail term that influences quality, comfort, texture, and the overall impression of an outfit.
+A **top** is a general term for a garment worn on the upper body. It can describe many styles, including a [T-shirt](/en/glossar/t-shirt/), [blouse](/en/glossar/bluse/), [camisole](/en/glossar/camisole/), [tank top](/en/glossar/tanktop/), knit top, or [crop top](/en/glossar/crop-top/).
 
-## In simple words
+Unlike a specific garment name, “top” does not define one fixed cut or material. Its meaning becomes clear through the design, fabric, fit, and context of the outfit.
 
-Top gives you a practical language for seeing clothing more clearly. It is not about following a rigid rule. It is about understanding what a garment, color, detail, or styling choice does inside the full look.
+## What is a top in fashion?
 
-At ESKYNA, this term is always connected with personality, everyday life, and desired impact. Style should not make you feel restricted; it should make decisions easier and your presence more precise.
+In everyday fashion language, a top is the upper half of an outfit. It may be simple and casual, such as a cotton T-shirt, or refined enough for an event, such as a satin camisole or structured sleeveless top.
 
-## Why this matters for quality
+Tops vary widely in:
 
-When you understand Top, you can choose clothing more deliberately. You see whether a piece only looks interesting on its own or whether it truly supports your wardrobe, your occasion, and the impression you want to create.
+- **Neckline**, from crew neck to V-neck, square neck, or halterneck
+- **Sleeve length**, from strapless and sleeveless to long sleeve
+- **Fit**, from close-fitting to relaxed or oversized
+- **Hem length**, from cropped to hip-length or longline
+- **Fabric**, such as cotton, jersey, silk, linen, knitwear, satin, or lace
+- **Level of formality**, from casual basics to evening-ready pieces
 
-With Top, look at touch, structure, care, surface, and how the detail behaves in movement. Quality is often visible in these small decisions.
+A top can be the quiet base of a look or the main visual focus. The difference often lies in its color, texture, construction, and styling.
 
-## What to pay attention to
+## Why tops matter in an outfit
 
-- Check the role of Top in the full outfit.
-- Look at color, material, cut, proportion, and occasion together.
-- Ask whether the choice supports your desired impact.
-- Prefer clarity over random details.
-- Use the term as a decision aid when shopping or combining outfits.
+Because a top sits close to the face and upper body, it has a strong effect on first impression. Its neckline frames the face, its shoulders influence the apparent width of the upper body, and its hem changes how the torso and legs appear in proportion.
 
-## Common misconceptions
+The most useful choice is not necessarily the most decorative top. It is the one that works with the rest of the outfit and your real life. A fine-knit top may bring calm to wide-leg trousers, while a crisp shirt can add structure to relaxed denim. A fluid camisole can soften tailored pieces, especially under a [blazer](/en/glossar/blazer/).
 
-**Misconception:** Top is only a fashion word.  
-**Better:** It describes a real styling cue that can influence fit, mood, quality, combination, or personal presence.
+Consider the top together with:
 
-**Misconception:** Top works the same way for everyone.  
-**Better:** Its effect depends on your proportions, color direction, lifestyle, context, and the other pieces in the outfit.
+- The waist height and volume of your trousers or skirt
+- The desired [proportion](/en/glossar/proportion/) of the full outfit
+- The occasion and dress code
+- Your preferred level of coverage and comfort
+- The colors and textures already present in the look
 
-## Quick mirror check
+## Common types of tops
 
-Look at “Top” once up close and once from a little distance. Up close you see detail, color, and material; from a distance you see whether the overall impression stays clear, calm, and coherent. If the look only works from one perspective, it probably needs more balance.
+### Casual tops
 
-## ESKYNA note
+Casual tops are designed for everyday wear and easy combinations. They include T-shirts, long-sleeve tops, polo shirts, sweatshirts, and relaxed jersey styles. Their effect depends greatly on fabric quality, fit, and finish.
 
-Top works best when it feels intentional rather than accidental. The strongest looks usually come from clarity, proportion, and a calm connection between the person and the clothes.
+### Dressy tops
 
-## Related terms
+Dressy tops are often made from more fluid, refined, sheer, glossy, or detailed fabrics. Examples include silk blouses, satin tops, lace-trim camisoles, draped styles, and structured bustier-inspired designs. They can make jeans, tailored trousers, or a skirt feel more intentional.
 
-- [Material Quality](/en/glossary/material-quality/)
-- [Craftsmanship](/en/glossary/craftsmanship/)
-- [Texture](/en/glossary/texture/)
-- [Care](/en/glossary/care/)
-- [Quality](/en/glossary/quality/)
+### Cropped and fitted tops
+
+A cropped top ends above or around the waist, creating a visible break in the silhouette. It often works well with high-waisted bottoms, but the result depends on the exact hem position and the amount of volume below.
+
+A fitted top follows the body more closely. It can create definition beneath wide trousers, full skirts, or layered looks, while a looser top can bring ease to slim or straight bottoms.
+
+## How to choose a top that works
+
+When shopping for a top, look beyond the hanger. Check whether it works with several bottoms you already own and whether its material suits the season and care routine.
+
+### Practical checklist
+
+- **Check the neckline:** Does it feel comfortable and create the effect you want near the face?
+- **Check the shoulder fit:** Shoulder seams and armholes should sit comfortably without pulling or restricting movement.
+- **Check the hem length:** Does it work with your preferred waist heights and create a balanced division of the outfit?
+- **Check opacity:** Hold the fabric to light when relevant, especially with white, pale, or fine materials.
+- **Check fabric behavior:** Notice whether it wrinkles, clings, stretches out, or needs special care.
+- **Check versatility:** Try it with at least three existing pieces before adding it to your wardrobe.
+
+A well-chosen top is often a valuable [combination piece](/en/glossar/kombinationsstueck/) because it can support many different outfits without becoming visually repetitive.
+
+## Common misunderstandings
+
+**Misconception: A top is always casual.**  
+**Better:** A top can be casual, business-appropriate, festive, or sensual. Fabric, cut, and styling determine its level of formality.
+
+**Misconception: Every upper-body garment is simply a top.**  
+**Better:** “Top” is useful as a broad category, but more precise names matter when cut, styling, or dress code are relevant. A blouse, shirt, camisole, and sweater each communicate something different.
+
+**Misconception: The right top is determined by body shape alone.**  
+**Better:** Fit and proportion matter, but comfort, personal style, lifestyle, and desired impact matter too. There is no single universally flattering top.
+
+## ESKYNA Key Line
+
+A top is more than the upper half of an outfit. Its fit, neckline, fabric, and length set the tone for proportion, comfort, and visual impact.
+
+## Advisory View
+
+Build a small range of tops for the situations you actually live in: reliable basics, polished options for work or dinners, and a few pieces with more texture, color, or detail. This creates flexibility without requiring an overflowing wardrobe.
+
+Explore more practical clothing terms in [Materials & Details](/en/glossar/materialien-details/).

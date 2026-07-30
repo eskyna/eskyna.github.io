@@ -1,5 +1,6 @@
 ---
 title: ESKYNA Gift Voucher
+seoTitle: "ESKYNA Gift Voucher | Style Coaching"
 description:
   "Give personal style coaching as a gift: the ESKYNA voucher for more style confidence, clarity, and
   better outfit decisions."

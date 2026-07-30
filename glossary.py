@@ -14,6 +14,10 @@ from pathlib import Path
 
 MODEL = "gemini-3.5-flash"
 
+AZURE_OPENAI_ENDPOINT = "https://stefans-project-resource.services.ai.azure.com/openai/v1"
+AZURE_OPENAI_DEPLOYMENT = "gpt-5.6-terra"
+AZURE_OPENAI_SCOPE = "https://ai.azure.com/.default"
+
 # Ordner-Pfade für die verschiedenen Sprachen
 ROOTS = {
     "de": Path("content/de/glossar"),
@@ -126,6 +130,7 @@ SEO и структура:
 }
 
 GLOSSARY_CONTEXT_CACHE = {}
+GLOSSAR_TEMPLATE_CACHE = {}
 
 # --------------------------------------------------------
 # Threading & UI Setup
@@ -235,7 +240,7 @@ def build_glossary_context(lang: str) -> str:
         slug = file.stem
         url = f"{lang_prefix}/glossar/{slug}/"
 
-        # Kompakt halten, damit Promptgroesse nicht unnoetig explodiert.
+        # Kompakt halten, damit Promptgröße nicht unnötig explodiert.
         if len(desc) > 140:
             desc = desc[:137].rstrip() + "..."
 
@@ -249,18 +254,77 @@ def build_glossary_context(lang: str) -> str:
     return context
 
 
+def load_glossar_template(lang: str) -> str:
+    """Lädt das sprachspezifische Glossar-Template aus dem Repo und cached den Inhalt."""
+    if lang in GLOSSAR_TEMPLATE_CACHE:
+        return GLOSSAR_TEMPLATE_CACHE[lang]
+
+    candidates = [
+        Path(f"docs/glossar-template-{lang}.md"),
+        Path(f"handoff/glossar-template-{lang}.md"),
+    ]
+
+    for candidate in candidates:
+        if candidate.exists():
+            try:
+                GLOSSAR_TEMPLATE_CACHE[lang] = candidate.read_text(encoding="utf-8").strip()
+                return GLOSSAR_TEMPLATE_CACHE[lang]
+            except Exception:
+                continue
+
+    GLOSSAR_TEMPLATE_CACHE[lang] = ""
+    return GLOSSAR_TEMPLATE_CACHE[lang]
+
+
 def build_prompt(lang: str) -> str:
     """Kombiniert Basis-Prompt mit der sprachspezifischen Glossar-Liste."""
     base = PROMPTS.get(lang, PROMPTS["en"]).strip()
     glossary_context = build_glossary_context(lang)
+    template_block = ""
+    template_text = load_glossar_template(lang)
+    if template_text:
+        if lang == "de":
+            intro = (
+                "Format-Referenz (Template):\n"
+                "Nutze dieses Template als grobe Leitplanke für Frontmatter und Grundstruktur.\n"
+                "WICHTIG: Der Markdown-Bereich ist nicht reglementiert.\n"
+                "Passe Abschnitte, Reihenfolge und Tiefe pro Glossarbegriff frei an, wenn es der Qualität dient.\n"
+                "Ziel: Für Leser möglichst spannend, konkret und zugleich klar SEO-optimiert schreiben.\n"
+            )
+        elif lang == "ru":
+            intro = (
+                "Format reference (template):\n"
+                "Use this template as a rough guide for frontmatter and basic structure.\n"
+                "IMPORTANT: The Markdown body is not strictly regulated.\n"
+                "Adapt sections, order, and depth freely for each glossary term whenever it improves quality.\n"
+                "Goal: make the article engaging for readers and clearly SEO-optimized.\n"
+            )
+        else:
+            intro = (
+                "Format reference (template):\n"
+                "Use this template as a rough guide for frontmatter and basic structure.\n"
+                "IMPORTANT: The Markdown body is not strictly regulated.\n"
+                "Adapt sections, order, and depth freely for each glossary term whenever it improves quality.\n"
+                "Goal: make the article engaging for readers and clearly SEO-optimized.\n"
+            )
+
+        template_block = (
+            "\n\n"
+            f"{intro}\n"
+            "```markdown\n"
+            f"{template_text}\n"
+            "```"
+        )
+
     if not glossary_context:
-        return base
+        return f"{base}{template_block}"
 
     return (
         f"{base}\n\n"
-        "Verfügbare Glossareintraege fuer interne Verlinkung und relatedTerms:\n"
+        "Verfügbare Glossareinträge für interne Verlinkung und relatedTerms:\n"
         "Verwende nur diese Einträge als interne Linkziele:\n"
         f"{glossary_context}"
+        f"{template_block}"
     )
 
 def optimize(markdown: str, client, lang: str) -> str:
@@ -296,6 +360,65 @@ def optimize(markdown: str, client, lang: str) -> str:
                 raise e
 
 
+def extract_openai_response_text(response) -> str:
+    """Extrahiert robust den Text aus OpenAI Responses API-Antworten."""
+    output_text = getattr(response, "output_text", None)
+    if isinstance(output_text, str) and output_text.strip():
+        return output_text.strip()
+
+    collected = []
+    for item in getattr(response, "output", []) or []:
+        for content in getattr(item, "content", []) or []:
+            text = getattr(content, "text", None)
+            if isinstance(text, str) and text.strip():
+                collected.append(text.strip())
+
+    if collected:
+        return "\n\n".join(collected).strip()
+
+    return ""
+
+
+def optimize_api(markdown: str, client, lang: str, deployment_name: str) -> str:
+    """Sendet Markdown an Azure OpenAI (Responses API) zur Optimierung mit Retry-Logik."""
+    base_delay = 10
+    max_delay = 300
+    attempt = 0
+
+    prompt = build_prompt(lang)
+
+    while True:
+        try:
+            response = client.responses.create(
+                model=deployment_name,
+                input=[
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": markdown},
+                ],
+            )
+            text = extract_openai_response_text(response)
+            if text:
+                return text
+            raise RuntimeError("Leere Antwort von Azure OpenAI erhalten.")
+
+        except Exception as e:
+            error_msg = str(e).lower()
+            if (
+                "429" in error_msg
+                or "503" in error_msg
+                or "rate limit" in error_msg
+                or "quota" in error_msg
+                or "temporarily unavailable" in error_msg
+                or "timeout" in error_msg
+            ):
+                attempt += 1
+                sleep_time = min(base_delay * (2 ** (attempt - 1)), max_delay)
+                safe_print(f"      [Azure OpenAI Limit/Last] Warte {sleep_time}s und versuche es erneut (Versuch {attempt})...")
+                time.sleep(sleep_time)
+            else:
+                raise e
+
+
 def is_transient_network_error(error: Exception) -> bool:
     """Erkennt temporäre Netzwerkfehler, bei denen ein Retry sinnvoll ist."""
     msg = str(error).lower()
@@ -314,21 +437,21 @@ def is_transient_network_error(error: Exception) -> bool:
     ]
     return any(marker in msg for marker in markers)
 
-def process(path: Path, client, lang: str, worker_id: int):
+def process(path: Path, client, lang: str, worker_id: int, optimize_fn):
     """Verarbeitet eine einzelne Datei für die Optimierung."""
     safe_print(f"[Worker {worker_id}] → {path}")
 
     original = path.read_text(encoding="utf-8")
 
     try:
-        improved = optimize(original, client, lang)
+        improved = optimize_fn(original, client, lang)
     except Exception as e:
         if is_transient_network_error(e):
             safe_print(f"[Worker {worker_id}]    Netzwerkfehler bei {path}: {e}")
             return "retry"
 
         safe_print(f"[Worker {worker_id}]    Fehler bei {path}: {e}")
-        return "done"  # Nicht-transiente Fehler gelten als final fuer diesen Lauf.
+        return "done"  # Nicht-transiente Fehler gelten als final für diesen Lauf.
 
     if improved == original:
         safe_print(f"[Worker {worker_id}]    keine Änderungen")
@@ -338,11 +461,10 @@ def process(path: Path, client, lang: str, worker_id: int):
     safe_print(f"[Worker {worker_id}]    ✔ verbessert ({lang.upper()})")
     return "done"
 
-def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
+def worker_task(task_queue: queue.Queue, client_factory, optimize_fn, worker_id: int):
     """Die Hauptaufgabe für jeden Thread: Holt Dateien aus der Queue und verarbeitet sie."""
     try:
-        from google import genai
-        client = genai.Client(api_key=api_key)
+        client = client_factory()
     except Exception as e:
         safe_print(f"[Worker {worker_id}] Fehler beim Initialisieren des Clients: {e}")
         return
@@ -358,7 +480,7 @@ def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
                 break
 
             path, lang, retries = task
-            result = process(path, client, lang, worker_id)
+            result = process(path, client, lang, worker_id, optimize_fn)
 
             if result == "retry":
                 # Datei bleibt in der Queue: bei transienten Netzwerkfehlern neu einreihen.
@@ -382,6 +504,67 @@ def worker_task(task_queue: queue.Queue, api_key: str, worker_id: int):
         
     safe_print(f"[Worker {worker_id}] Beendet (Warteschlange leer).")
 
+
+def make_gemini_client_factory(api_key: str):
+    def _factory():
+        from google import genai
+        return genai.Client(api_key=api_key)
+    return _factory
+
+
+def make_azure_openai_client_factory():
+    endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", AZURE_OPENAI_ENDPOINT)
+
+    def _factory():
+        from openai import OpenAI
+        api_key = os.environ.get("AZURE_OPENAI_KEY", "").strip()
+
+        if api_key:
+            return OpenAI(
+                base_url=endpoint,
+                api_key=api_key,
+            )
+
+        from azure.identity import DefaultAzureCredential, get_bearer_token_provider
+
+        token_provider = get_bearer_token_provider(
+            DefaultAzureCredential(),
+            AZURE_OPENAI_SCOPE,
+        )
+
+        return OpenAI(
+            base_url=endpoint,
+            api_key=token_provider,
+        )
+
+    return _factory
+
+
+def run_worker_pool(task_queue: queue.Queue, worker_specs: list[tuple], optimize_fn):
+    """Startet Worker-Threads, wartet auf Abschluss und beendet sauber."""
+    global tracker
+    tracker = ProgressTracker(task_queue.qsize())
+    with print_lock:
+        tracker._draw()
+
+    threads = []
+    for worker_id, client_factory in worker_specs:
+        t = threading.Thread(
+            target=worker_task,
+            args=(task_queue, client_factory, optimize_fn, worker_id),
+        )
+        threads.append(t)
+        t.start()
+
+    task_queue.join()
+
+    for _ in threads:
+        task_queue.put(STOP_WORKER)
+    task_queue.join()
+
+    for t in threads:
+        t.join()
+
 def parse_languages(raw_languages: str) -> list[str]:
     """Parst CSV-Sprachliste wie 'de,en,ru' und validiert gegen konfigurierte Sprachen."""
     parts = [p.strip().lower() for p in raw_languages.split(",") if p.strip()]
@@ -401,7 +584,7 @@ def parse_languages(raw_languages: str) -> list[str]:
 
 
 def is_older_than_days(path: Path, days: int) -> bool:
-    """Prueft, ob Datei-Aenderungszeitpunkt aelter als angegebene Tage ist."""
+    """Prüft, ob Datei-Änderungszeitpunkt älter als angegebene Tage ist."""
     if days <= 0:
         return True
 
@@ -468,7 +651,14 @@ def show_overview(languages: list[str]):
 def main():
     parser = argparse.ArgumentParser(description="Verwaltet und optimiert mehrsprachige Glossareinträge.")
     parser.add_argument("--optimize", action="store_true", help="Optimiert alle Glossareinträge (SEO & Text) via Gemini API. Nutzt alle GEMINI_API_KEYs im Env.")
+    parser.add_argument("--optimize-api", action="store_true", help="Optimiert alle Glossareinträge (SEO & Text) via Azure OpenAI API.")
     parser.add_argument("--overview", action="store_true", help="Gibt eine Übersicht aller Glossareinträge aus.")
+    parser.add_argument(
+        "--worker",
+        type=int,
+        default=None,
+        help="Anzahl paralleler Worker für --optimize oder --optimize-api. Standard: auto.",
+    )
     parser.add_argument(
         "--language",
         default=",".join(DEFAULT_LANGUAGES),
@@ -491,24 +681,22 @@ def main():
     if args.older_than_days < 0:
         parser.error("--older-than-days darf nicht negativ sein.")
 
+    if args.worker is not None and args.worker <= 0:
+        parser.error("--worker muss eine Zahl > 0 sein.")
+
+    if args.optimize and args.optimize_api:
+        parser.error("Bitte entweder --optimize oder --optimize-api verwenden, nicht beides gleichzeitig.")
+
     # Wenn keine Argumente übergeben wurden, zeige die Hilfe an
-    if not (args.optimize or args.overview):
+    if not (args.optimize or args.optimize_api or args.overview):
         parser.print_help()
         return
 
     if args.overview:
         show_overview(selected_languages)
 
-    if args.optimize:
-        api_keys = get_api_keys()
-        if not api_keys:
-            print("Abbruch: Keine API Keys (GEMINI_API_KEY_*) in den Umgebungsvariablen gefunden.")
-            return
-            
-        print(f"{len(api_keys)} API-Key(s) gefunden. Richte Worker ein...\n")
-
+    if args.optimize or args.optimize_api:
         task_queue = queue.Queue()
-        
         skipped_by_age = 0
 
         # Fülle die Warteschlange mit Aufgaben
@@ -533,30 +721,44 @@ def main():
             print("Keine Dateien zu verarbeiten.")
             return
 
-        global tracker
-        tracker = ProgressTracker(task_queue.qsize())
-        with print_lock:
-            tracker._draw()
+        if args.optimize:
+            api_keys = get_api_keys()
+            if not api_keys:
+                print("Abbruch: Keine API Keys (GEMINI_API_KEY_*) in den Umgebungsvariablen gefunden.")
+                return
 
-        threads = []
-        for i, key in enumerate(api_keys):
-            t = threading.Thread(target=worker_task, args=(task_queue, key, i+1))
-            threads.append(t)
-            t.start()
+            default_workers = len(api_keys)
+            worker_count = args.worker if args.worker is not None else default_workers
+            worker_count = min(worker_count, max(1, task_queue.qsize()))
 
-        # Warte, bis die Queue wirklich vollständig verarbeitet ist
-        task_queue.join()
+            print(f"{len(api_keys)} Gemini API-Key(s) gefunden. Starte {worker_count} Worker...\n")
 
-        # Erst danach Worker sauber beenden (keine Vorab-Zuweisung, keine Empty-Race-Exits).
-        for _ in threads:
-            task_queue.put(STOP_WORKER)
-        task_queue.join()
-        
-        # Warte, bis alle Threads sich beendet haben
-        for t in threads:
-            t.join()
+            worker_specs = []
+            for i in range(worker_count):
+                key = api_keys[i % len(api_keys)]
+                worker_specs.append((i + 1, make_gemini_client_factory(key)))
 
-        print(f"\n\n🎉 Optimierung für folgende Sprachen abgeschlossen: {', '.join(selected_languages)}")
+            run_worker_pool(task_queue, worker_specs, optimize)
+            print(f"\n\n🎉 Gemini-Optimierung für folgende Sprachen abgeschlossen: {', '.join(selected_languages)}")
+
+        if args.optimize_api:
+            deployment_name = os.environ.get("AZURE_OPENAI_DEPLOYMENT", AZURE_OPENAI_DEPLOYMENT)
+            endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", AZURE_OPENAI_ENDPOINT)
+
+            default_workers = 4
+            worker_count = args.worker if args.worker is not None else default_workers
+            worker_count = min(worker_count, max(1, task_queue.qsize()))
+
+            print(f"Azure OpenAI Endpoint: {endpoint}")
+            print(f"Azure OpenAI Deployment: {deployment_name}")
+            print(f"Starte {worker_count} Worker für --optimize-api...\n")
+
+            def optimize_api_bound(markdown: str, client, lang: str) -> str:
+                return optimize_api(markdown, client, lang, deployment_name)
+
+            worker_specs = [(i + 1, make_azure_openai_client_factory()) for i in range(worker_count)]
+            run_worker_pool(task_queue, worker_specs, optimize_api_bound)
+            print(f"\n\n🎉 Azure-OpenAI-Optimierung für folgende Sprachen abgeschlossen: {', '.join(selected_languages)}")
 
 if __name__ == "__main__":
     try:

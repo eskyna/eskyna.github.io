@@ -1,71 +1,136 @@
 ---
-title: Herz-Ausschnitt
+title: Was ist ein Herz-Ausschnitt?
 term: Herz-Ausschnitt
-description: Ein Herz-Ausschnitt hat eine geschwungene, herzförmige Linie und wirkt weicher und femininer.
+description: Ein Herz-Ausschnitt, auch Sweetheart Neckline genannt, ist ein geschwungener Ausschnitt mit zwei Bögen und einer Spitze in der Mitte. Erfahre, wie er wirkt, richtig sitzt und sich im Alltag, Business und zu festlichen Anlässen stylen lässt.
 category: Materialien & Details
 tags:
   - herz ausschnitt
-  - materialien
+  - sweetheart neckline
+  - ausschnittformen
+  - passform
 keywords:
   - herz-ausschnitt
-  - was bedeutet herz-ausschnitt
+  - was ist ein herz-ausschnitt
+  - sweetheart neckline
   - herz-ausschnitt stilberatung
+  - herz-ausschnitt kombinieren
 weight: 1
 image: images/glossar/herz-ausschnitt.png
-image_alt: Editoriale Glossar-Grafik zu Herz-Ausschnitt mit ruhigen Farbfeldern und feiner Linienführung
-history: "Der Herz-Ausschnitt, im Englischen auch als Sweetheart Neckline bekannt, hat seine historischen Wurzeln in den Miedern und Korsagen des 18. und 19. Jahrhunderts. Seine modische Blütezeit erlebte er in den 1940er- und 1950er-Jahren. Designer wie Christian Dior nutzten die geschwungene Linienführung gezielt, um die feminine Sanduhr-Silhouette des legendären New Look zu formen und zu betonen."
-knowledge: "Ein Herz-Ausschnitt lenkt den Blick subtil nach oben und streckt die Halslinie optisch. Er eignet sich hervorragend, um breitere Schultern optisch weicher wirken zu lassen und dem Oberkörper eine harmonische Balance zu verleihen."
+image_alt: Editoriale Glossar-Grafik zu einem Herz-Ausschnitt mit geschwungener Dekolletélinie
+history:
+  - Der Herz-Ausschnitt, im Englischen Sweetheart Neckline, knüpft an die geformten Oberkanten von Miedern und Korsagen des 18. und 19. Jahrhunderts an.
+  - In der Abend- und Brautmode der 1940er- und 1950er-Jahre wurde die geschwungene Form besonders populär und betonte die damals prägende taillierte Silhouette.
+knowledge:
+  - Die zwei geschwungenen Bögen führen den Blick zur Mitte des Oberkörpers und geben dem Dekolleté eine weiche, dekorative Rahmung.
+  - Wie tief oder zurückhaltend ein Herz-Ausschnitt wirkt, hängt von Höhe, Breite, Material und Konstruktion ab.
+  - Ein sauberer Sitz ist entscheidend: Die obere Kante soll glatt anliegen und beim Bewegen nicht abstehen oder einschneiden.
 relatedTerms:
   - title: Ausschnittwirkung
     url: /glossar/ausschnittwirkung/
-  - title: Sanduhr-Silhouette
-    url: /glossar/sanduhr-silhouette/
+  - title: V-Ausschnitt
+    url: /glossar/v-ausschnitt/
   - title: Korsage/Corsage
     url: /glossar/korsage-corsage/
+  - title: Sanduhr-Silhouette
+    url: /glossar/sanduhr-silhouette/
   - title: Abendkleid
     url: /glossar/abendkleid/
 faq:
   items:
     - q: Wie kombiniere ich Schmuck zum Herz-Ausschnitt?
-      a: Da die geschwungene Herzform bereits sehr dekorativ ist, eignen sich filigrane, eher kurze Ketten besonders gut. Sie sollten oberhalb des Ausschnitts enden, um der Linienführung nicht die Show zu stehlen.
-    - q: Kann ich einen Herz-Ausschnitt auch im Büro tragen?
-      a: Ja, das funktioniert hervorragend über das richtige Schichten. Ein schlichtes Top mit Herz-Ausschnitt unter einem gut sitzenden Blazer lockert die Strenge des Business-Looks auf, ohne unprofessionell zu wirken.
+      a: "Die geschwungene Linie ist bereits ein sichtbares Detail. Eine kurze, feine Kette, ein kleiner Anhänger oder Ohrringe funktionieren deshalb oft besonders gut. Probiere die Kette immer direkt mit dem Oberteil an: Sie sollte der Ausschnittlinie Raum lassen und nicht genau auf der Kante enden."
+    - q: Kann ich einen Herz-Ausschnitt im Büro tragen?
+      a: Ja. Wähle ein nicht zu tief geschnittenes Top oder Kleid in ruhigem Material und kombiniere es mit einem gut sitzenden Blazer. So bleibt der Look professionell, während die weiche Ausschnittform etwas Persönlichkeit einbringt.
+    - q: Welcher BH passt zu einem Herz-Ausschnitt?
+      a: Das hängt von Trägern, Tiefe und Material ab. Bei breiteren Trägern kann ein Balconette-BH gut funktionieren. Bei schulterfreien oder sehr offen geschnittenen Modellen sind ein trägerloser BH, ein Klebe-BH oder Boob Tape mögliche Lösungen. Entscheidend ist, dass Cups und Kanten unsichtbar bleiben und alles bei Bewegung sicher sitzt.
+    - q: Woran erkenne ich, dass ein Herz-Ausschnitt gut sitzt?
+      a: Die Ausschnittkante liegt glatt an, ohne einzuschneiden, zu klaffen oder Querfalten zu bilden. Teste den Sitz im Stehen, Sitzen und beim Vorbeugen. Das Kleidungsstück soll dir Bewegungsfreiheit geben, ohne dass du es ständig zurechtrücken musst.
 lastmod: "2026-07-09"
 ---
 
 ## Was ist ein Herz-Ausschnitt?
 
-Ein Herz-Ausschnitt zeichnet sich durch seine charakteristische, geschwungene Linienführung aus. Die obere Kante des Kleidungsstücks verläuft in zwei sanften Bögen über der Brust und sinkt in der Mitte v-förmig ab. Dadurch erinnert die Schnittführung an die obere Silhouette eines Herzens. Diese Form sorgt für eine besonders feminine [Ausschnittwirkung](/glossar/ausschnittwirkung/) und rückt das Dekolleté stilvoll in den Mittelpunkt.
+Ein **Herz-Ausschnitt** ist eine Ausschnittform mit zwei sanft geschwungenen Bögen über der Brust und einer kleinen Spitze oder Vertiefung in der Mitte. Seine obere Kante erinnert an die Form eines Herzens. Im Englischen heißt er **Sweetheart Neckline**.
 
-In der Modehistorie gilt diese Schnittform als zeitloser Klassiker, der die natürliche Körperform feiert und dem Outfit eine elegante, romantische Note verleiht.
+Die geschwungene Linie wirkt weicher als ein gerader oder eckiger Ausschnitt. Sie rahmt das Dekolleté, lenkt den Blick zur Mitte und kann einem Oberteil, Kleid oder einer Korsage eine romantische bis elegante Wirkung geben. Wie deutlich der Effekt ausfällt, bestimmen vor allem die Tiefe des Ausschnitts, die Breite der Bögen und der Stoff.
 
-## Stilberatung: Die optische Wirkung des Herz-Ausschnitts
+Ein Herz-Ausschnitt kommt häufig bei Kleidern, Brautkleidern, Corsagen und festlicher Mode vor. In einer schlichten, weniger tiefen Variante kann er aber ebenso gut zu einem modernen Alltags- oder Business-Look passen.
 
-Details verändern die Gesamtwirkung deines Looks erheblich. Der Herz-Ausschnitt ist ein hervorragendes Werkzeug, um Proportionen harmonisch auszugleichen und eine gezielte [Gesichtsrahmung](/glossar/gesichtsrahmung/) zu gestalten:
+## So wirkt ein Herz-Ausschnitt
 
-- **Optische Streckung:** Durch den tiefen Punkt in der Mitte verlängert der Ausschnitt deine Halslinie optisch. Das lässt deinen Oberkörper aufrechter, schlanker und gestreckter wirken.
-- **Schulterpartie harmonisieren:** Wenn du ausgeprägte Schultern hast, bricht die geschwungene Linie die horizontale Härte auf. Die Schulterpartie wirkt dadurch sofort weicher und schmaler.
-- **Fokus auf die Körpermitte:** In Kombination mit einer betonten Taille unterstützt diese Ausschnittform die klassische [Sanduhr-Silhouette](/glossar/sanduhr-silhouette/).
+Die [Ausschnittwirkung](/glossar/ausschnittwirkung/) entsteht nicht allein durch die Herzform. Auch Träger, Schulterlinie, Stoff und Passform verändern den Eindruck deutlich.
 
-## Vom Abendkleid in den Alltag: So stylst du den Ausschnitt
+### Weiche Linien für den Oberkörper
 
-Obwohl die geschwungene Herzlinie traditionell mit festlicher [Abendgarderobe](/glossar/abendgarderobe/) oder einem edlen [Abendkleid](/glossar/abendkleid/) assoziiert wird, lässt sie sich wunderbar in moderne Alltagsoutfits integrieren.
+Die Rundungen des Herz-Ausschnitts setzen einen Kontrast zu klaren, geraden Linien. Dadurch kann die obere Körperpartie weicher und weniger streng wirken. Besonders ein strukturiertes Kleidungsstück wie ein Blazer oder eine [Korsage/Corsage](/glossar/korsage-corsage/) gewinnt durch diese Ausschnittform an Leichtigkeit.
 
-### Der moderne Stilbruch im Business
+### Dezente vertikale Blickführung
 
-Trage ein unifarbenes Oberteil mit Herz-Ausschnitt unter einem strukturierten, eher maskulin geschnittenen [Blazer](/glossar/blazer/). Dieser Kontrast aus strengen, geraden Linien und der weichen Kurve des Ausschnitts wirkt souverän und nahbar zugleich.
+Der mittlere Tiefpunkt führt den Blick leicht nach unten und kann die Halslinie optisch öffnen. Ähnlich wie ein [V-Ausschnitt](/glossar/v-ausschnitt/) bringt er eine vertikale Richtung in den Look, wirkt durch seine Rundungen jedoch weniger grafisch und formell.
 
-### Entspannt im Sommer
+### Betonung von Dekolleté und Taille
 
-Ein leichtes Sommerkleid mit herzförmigem Dekolleté und kurzen Ärmeln versprüht nostalgischen Charme. Wenn der [Materialfall](/glossar/materialfall/) leicht und fließend ist, wirkt der Look unbeschwert und feminin.
+Ein Herz-Ausschnitt rückt den Bereich über der Brust in den Fokus. In Verbindung mit einer klaren Taille kann er die Wirkung einer [Sanduhr-Silhouette](/glossar/sanduhr-silhouette/) unterstützen. Das ist ein Stilmittel, keine Regel: Entscheidend ist, ob du diese Betonung in deinem Outfit möchtest.
 
-### Elegant am Abend
+## Herz-Ausschnitt richtig stylen
 
-Für formelle Anlässe bleibt der Herz-Ausschnitt an einer schulterfreien [Korsage/Corsage](/glossar/korsage-corsage/) unschlagbar. Er bietet die perfekte Bühne für eine feine [Kette](/glossar/kette/) oder funkelnde Ohrringe.
+Ein Herz-Ausschnitt kann romantisch, modern, reduziert oder festlich aussehen. Für die Stilrichtung sind Material, Farbe und die übrigen Teile deines Outfits wichtiger als der Ausschnitt allein.
 
-## Worauf du bei Passform und Material achten solltest
+### Im Alltag
 
-Damit der Herz-Ausschnitt seine edle Wirkung voll entfalten kann, muss das Kleidungsstück perfekt sitzen. Da dieser Ausschnitt die Körperlinie nachzeichnet, fallen Passformfehler schnell ins Auge.
+Ein schlichtes Top oder Kleid mit moderatem Herz-Ausschnitt wirkt alltagstauglich, wenn du es mit klaren Basics kombinierst. Eine Jeans, eine gerade Stoffhose oder ein ruhiger Cardigan nehmen der Form den festlichen Charakter.
 
-- **Faltenbildung vermeiden:** Der Stoff sollte sich glatt an deine Brust anschmiegen. Entstehen quer verlaufende [Zugfalten](/glossar/zugfalten/), ist das Oberteil im Brustbereich zu eng. Steht der Ausschnitt beim Vorbeugen ab, ist er zu weit oder die Körbchengröße passt nicht optimal.
-- **Das richtige Stoffgewicht:** Damit die geschwungene Herzform stabil bleibt und nicht in sich zusammenfällt, ist ein festerer Stoff mit gutem [Stoffgewicht](/glossar/stoffgewicht/) von Vorteil. Leichtere Materialien benötigen in der Regel eine stützende Einlage oder feine Träger, um die Form zu halten.
+Wähle bei einem verspielten Kleid mit Rüschen, Puffärmeln oder Blumenmuster eher zurückhaltende Schuhe und Accessoires. So bleibt der Look stimmig und wirkt nicht überladen.
+
+### Im Business
+
+Ein Herz-Ausschnitt kann im beruflichen Umfeld funktionieren, wenn er nicht zu tief geschnitten ist und der Stoff ruhig wirkt. Trage ein unifarbenes Oberteil unter einem [Blazer](/glossar/blazer/) oder kombiniere ein Kleid mit einer klaren Jacke.
+
+Der Kontrast aus der weichen Ausschnittlinie und den geraden Linien eines Blazers wirkt gepflegt, souverän und dennoch persönlich. Für formellere Arbeitsumfelder sind höhere Varianten oder ein zusätzliches Layering sinnvoll.
+
+### Für Abend und Anlass
+
+Bei [Abendgarderobe](/glossar/abendgarderobe/) und einem [Abendkleid](/glossar/abendkleid/) ist der Herz-Ausschnitt ein Klassiker. Besonders gut kommt er bei Stoffen mit etwas Stand, etwa bei strukturierter Webware, Satin oder Taft, zur Geltung.
+
+Halte den Schmuck bewusst. Feine Ohrringe, eine kurze Kette oder ein einzelnes markantes Accessoire reichen oft aus, weil der Ausschnitt selbst bereits ein Fokuspunkt ist.
+
+## Welche Unterwäsche passt zum Herz-Ausschnitt?
+
+Die beste Lösung richtet sich nach Trägern, Rückenausschnitt und Tiefe des Dekolletés. Ein BH sollte weder über die Ausschnittkante schauen noch unter dem Stoff sichtbar abzeichnen.
+
+1. Bei Oberteilen mit breiteren Trägern kann ein [Balconette-BH](/glossar/balconette-bh/) eine passende Form sein, weil seine Cupkante meist relativ gerade verläuft.
+
+2. Bei schulterfreien Varianten ist ein gut sitzender [trägerloser BH](/glossar/traegerloser-bh/) eine Möglichkeit. Das Unterbrustband muss sicher sitzen, ohne unangenehm einzuengen.
+
+3. Bei tiefen oder rückenfreien Kleidern kommen je nach Konstruktion ein [Klebe-BH](/glossar/klebe-bh/) oder [Boob Tape](/glossar/boob-tape/) infrage.
+
+Probiere Unterwäsche und Kleidungsstück immer zusammen an. Laufe ein paar Schritte, setz dich hin und hebe die Arme. Nur so erkennst du, ob alles auch außerhalb der Umkleide zuverlässig sitzt.
+
+## Passform: Darauf solltest du achten
+
+Ein Herz-Ausschnitt braucht eine präzise Verarbeitung, denn seine Kante liegt im sichtbaren Bereich und folgt einer geschwungenen Linie.
+
+1. **Die Kante liegt glatt an.** Sie soll weder abstehen noch in die Haut drücken. Klafft der Ausschnitt beim Vorbeugen, kann das Oberteil im Brustbereich zu weit sein oder nicht zur eigenen Körperform passen.
+
+2. **Es entstehen keine Zugfalten.** Quer verlaufende [Zugfalten](/glossar/zugfalten/) deuten häufig darauf hin, dass im Brustbereich zu wenig Raum vorhanden ist. Auch ein falsch sitzender BH kann den Stoff verziehen.
+
+3. **Die Herzform bleibt erkennbar.** Sehr weiche oder leichte Stoffe können die Bögen verändern. Bei trägerlosen oder stark geformten Modellen sorgen Futter, Einlagen oder formgebende Nähte dafür, dass die Linie stabil bleibt.
+
+4. **Du kannst dich frei bewegen.** Ein schöner Ausschnitt nützt wenig, wenn du ihn ständig festhalten oder zurechtrücken musst. Prüfe daher immer Sitz, Halt und Komfort in Bewegung.
+
+## Typische Missverständnisse
+
+**Ein Herz-Ausschnitt ist immer tief und festlich.**  
+Nein. Die Tiefe variiert stark. Ein hoch geschnittener Herz-Ausschnitt aus Baumwolle oder Jersey kann zurückhaltend und unkompliziert wirken.
+
+**Ein Herz-Ausschnitt passt nur zu einer bestimmten Körperform.**  
+Nein. Die Wirkung hängt von Schnitt, Größe, Trägern, Unterwäsche und deinem persönlichen Stil ab. Wichtiger als pauschale Regeln ist, ob du dich in der Betonung des Dekolletés wohlfühlst.
+
+**Schmuck muss die Herzform exakt nachzeichnen.**  
+Nein. Eine Kette darf die Linie aufgreifen, muss es aber nicht. Oft wirken feine Ketten, kleine Anhänger oder Ohrringe ruhiger und moderner.
+
+## ESKYNA-Merksatz
+
+Der Herz-Ausschnitt verbindet weiche Kurven mit einer klaren Blickführung zur Mitte. Er wirkt dann am besten, wenn die Kante glatt sitzt und du die Betonung des Dekolletés bewusst wählst.
+
+Weitere passende Begriffe findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).

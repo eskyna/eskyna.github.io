@@ -1,105 +1,175 @@
 ---
 title: "Was ist eine Konfektionsgröße?"
 term: "Konfektionsgröße"
-description: "Was ist eine Konfektionsgröße? Erfahre, wie Größenkennzeichnungen aus Körpermaßen abgeleitet werden, warum sie variieren und wie du eine passende Größe findest."
+description: "Eine Konfektionsgröße ist eine Größenkennzeichnung für industriell gefertigte Kleidung. Erfahre, warum Größen je nach Marke unterschiedlich ausfallen und wie du deine passende Größe zuverlässig findest."
 category: "Schnitt, Proportion & Passform"
 subcategory: "Größen & Passform"
 slug: "konfektionsgroesse"
-seoTitle: "Konfektionsgröße: Bedeutung und Passform | ESKYNA"
+seoTitle: "Konfektionsgröße | ESKYNA Glossary"
 image: "images/glossar/konfektionsgroesse.png"
 image_alt: "Maßband neben mehreren unterschiedlichen Größenetiketten als Symbol für variable Konfektionsgrößen"
 lastmod: "2026-07-21"
-history: "Die Konfektionsgröße entstand im 19. Jahrhundert im Zuge der Industrialisierung der Textilindustrie. Zuvor war Kleidung fast ausschließlich eine Maßarbeit. Standardisierte Größentabellen wurden zuerst für Militäruniformen entwickelt, um Soldaten schnell auszustatten. Mit dem Aufkommen von Kaufhäusern und der industriellen Produktion (Konfektion) etablierte sich dieses System schließlich auch in der zivilen Alltagsmode."
-knowledge: "Konfektionsgrößen sind rechtlich nicht bindend normiert. Jeder Hersteller entwickelt eigene Schnittmuster (Schnittkonstruktionen) auf Basis einer spezifischen Zielgruppe. Dadurch kommt es zu erheblichen Abweichungen zwischen verschiedenen Modemarken. Zudem verändert das Phänomen des Vanity Sizing die Etikettengrößen im Laufe der Jahre, indem Kleidung bei gleichbleibenden Maßen mit kleineren Größen ausgezeichnet wird."
+tags:
+  - Konfektionsgröße
+  - Größe und Passform
+  - Kleidergröße
+  - Größenberatung
+keywords:
+  - Konfektionsgröße
+  - was ist eine Konfektionsgröße
+  - Konfektionsgröße einfach erklärt
+  - Kleidergröße finden
+  - Größen variieren je nach Marke
+history:
+  - "Konfektionsgrößen entstanden im 19. Jahrhundert mit der Industrialisierung der Textilproduktion."
+  - "Zuvor wurde Kleidung überwiegend individuell gefertigt. Standardisierte Größentabellen erleichterten zunächst die Ausstattung mit Uniformen und später den Verkauf von Kleidung von der Stange."
+knowledge:
+  - "Eine Konfektionsgröße beschreibt einen vorgesehenen Körpermaßbereich, nicht die exakten Maße eines fertigen Kleidungsstücks."
+  - "Marken arbeiten mit eigenen Schnittmustern, Zielgruppen und Größentabellen. Deshalb kann dieselbe Größenangabe unterschiedlich ausfallen."
+  - "Bewegungszugabe, Materialelastizität und die gewünschte Passform beeinflussen, wie weit oder körpernah ein Kleidungsstück tatsächlich sitzt."
+  - "Vanity Sizing kann dazu führen, dass sich Etikettengrößen bei vergleichbaren Maßen im Lauf der Zeit verändern."
 relatedTerms:
-  - "/glossar/passform/"
-  - "/glossar/bewegungszugabe/"
-  - "/glossar/vanity-sizing/"
-  - "/glossar/innenbeinlaenge/"
-  - "/glossar/proportion/"
+  - title: "Passform"
+    url: "/glossar/passform/"
+  - title: "Bewegungszugabe"
+    url: "/glossar/bewegungszugabe/"
+  - title: "Vanity Sizing"
+    url: "/glossar/vanity-sizing/"
+  - title: "Innenbeinlänge"
+    url: "/glossar/innenbeinlaenge/"
+  - title: "Proportion"
+    url: "/glossar/proportion/"
+  - title: "Körperform"
+    url: "/glossar/koerperform/"
+faq:
+  items:
+    - q: "Was mache ich, wenn ich zwischen zwei Konfektionsgrößen liege?"
+      a: "Orientiere dich an der Körperpartie, die am wenigsten Spielraum braucht. Bei festen Stoffen ist meist die größere Größe sinnvoll, weil sie Bewegungsfreiheit gibt und sich an anderen Stellen oft anpassen lässt."
+    - q: "Warum habe ich bei verschiedenen Marken unterschiedliche Konfektionsgrößen?"
+      a: "Weil Marken unterschiedliche Größentabellen, Schnittformen und Bewegungszugaben verwenden. Die Zahl auf dem Etikett ist deshalb nur eine Orientierung, nicht dein fester Wert."
+    - q: "Kann ich meine passende Konfektionsgröße anhand von Größe und Gewicht bestimmen?"
+      a: "Nein. Körpergröße und Gewicht sagen wenig über Schulterbreite, Brust, Taille, Hüfte oder Beinlänge aus. Für eine gute Größenwahl sind deine tatsächlichen Maße und die Passform des Modells entscheidend."
 ---
 
-Eine Konfektionsgröße ist eine standardisierte Kennzeichnung für industriell gefertigte Kleidung. Sie hilft dir dabei, im Handel schnell die passende Kleidung zu finden, ohne jedes Teil einzeln maßanfertigen zu lassen.
+Eine **Konfektionsgröße** ist eine Größenkennzeichnung für industriell gefertigte Kleidung. Sie soll dir helfen, passende Kleidung von der Stange zu finden, ohne jedes Teil maßanfertigen zu lassen. Doch eine Größe 38, M oder W29 ist kein verlässlicher Standard für alle Marken: Entscheidend sind immer Schnitt, Material und tatsächliche Maße.
 
-## Definition
+## Definition: Was ist eine Konfektionsgröße?
 
-Konfektionsgrößen fassen bestimmte Körpermaße in vereinfachte Codes zusammen. Dazu gehören klassische Zahlen wie 36, 38 oder 42, internationale Buchstaben wie S, M und L sowie inchbasierte Weitenangaben bei Jeans. Diese Einteilung erleichtert die Auswahl im Geschäft, ersetzt jedoch niemals die individuelle Prüfung der [Passform](/glossar/passform/). Je nach Herstellungsland, Marke und Schnittführung können identische Größenangaben völlig unterschiedliche reale Maße bedeuten.
+Konfektionsgrößen fassen bestimmte Körpermaße in vereinfachte Codes zusammen. Dazu zählen etwa Zahlen wie 36, 38 oder 42, Buchstabengrößen wie S, M und L sowie Weiten- und Längenangaben bei Jeans.
 
-Dabei gilt es, einen wichtigen Unterschied zu verstehen: Die Konfektionsgröße bezieht sich immer auf einen theoretisch vorgesehenen Körpermaßbereich. Sie ist nicht gleichzusetzen mit den tatsächlichen Maßen des fertigen Kleidungsstücks. Dieses enthält zusätzlich eine konstruktive Weite, die [Bewegungszugabe](/glossar/bewegungszugabe/) für deinen Tragekomfort sowie den beabsichtigten Stil des Designers, der von sehr körpernah bis extrem oversized reichen kann.
+Die Kennzeichnung dient vor allem der Orientierung beim Einkauf. Sie ersetzt aber nicht die Prüfung der [Passform](/glossar/passform/). Zwei Hosen in derselben Größe können völlig unterschiedlich sitzen, weil sie für andere Körperproportionen konstruiert wurden oder eine andere Silhouette erzeugen sollen.
 
-## Einfach erklärt
+Wichtig ist auch der Unterschied zwischen Körpermaß und Kleidungsmaß: Die Konfektionsgröße bezieht sich auf einen vorgesehenen Bereich von Körpermaßen. Das fertige Kleidungsstück ist meist weiter gearbeitet. Dieser zusätzliche Raum heißt [Bewegungszugabe](/glossar/bewegungszugabe/) und sorgt dafür, dass du atmen, sitzen, gehen und dich frei bewegen kannst.
 
-Die Zahl auf dem Kleideretikett ist lediglich ein grober Sortiercode und keine absolute Wahrheit. Sie gibt dir eine erste Orientierung, für welchen Körperbau ein Kleidungsstück entworfen wurde. Ob das Teil an deinen persönlichen Rundungen gut aussieht und bequem sitzt, entscheidet sich erst bei der Anprobe in Bewegung.
+## Warum Konfektionsgrößen je nach Marke variieren
 
-## Warum die Konfektionsgröße wichtig ist
+Eine Konfektionsgröße ist kein weltweit einheitliches Maß. Marken entwickeln eigene Schnittmuster, wählen unterschiedliche Zielgruppen und entscheiden selbst, wie körpernah oder locker ein Modell sitzen soll.
 
-Standardisierte Größen ermöglichen erst die moderne Modeindustrie und den schnellen Einkauf von Kleidung von der Stange. Für dich birgt dieses System jedoch auch Stolpersteine. Kein menschlicher Körper entspricht in jedem Detail einer statistischen Durchschnittstabelle. Deine persönliche [Proportion](/glossar/proportion/) aus Schulterbreite, Brustumfang, Taille und Hüfte ist einzigartig.
+Deshalb kann dir bei einer Marke Größe 38 passen, während du bei einer anderen Größe 40 oder 42 brauchst. Das sagt nichts über deinen Körper aus. Es zeigt nur, dass die Maße, Schnitte und Zugaben der Hersteller voneinander abweichen.
 
-Wenn dir bei einer Modemarke eine Größe 38 perfekt passt, du bei einer anderen Marke aber zu einer Größe 42 greifen musst, ist das völlig normal. Diese Abweichung sagt absolut nichts über deinen Körper aus, sondern spiegelt lediglich die unterschiedliche Schnittphilosophie der Hersteller wider.
+Auch die Materialeigenschaften verändern den Sitz. Ein Kleid aus elastischem Jersey kann bei gleicher Etikettengröße enger anliegen als ein Kleid aus festem, kaum dehnbarem Webstoff. Bei Hosen beeinflussen zusätzlich Bundhöhe, Oberschenkelweite, Hüftschnitt und [Innenbeinlänge](/glossar/innenbeinlaenge/) die passende Größe.
 
-## Der Blick aus der Modeberatung
+## Konfektionsgröße, Körpermaß und Kleidungsmaß
 
-Aus professioneller Sicht ist die beste Größe immer diejenige, die deiner anspruchsvollsten Körperpartie den nötigen Raum gibt. Wenn du einen [Anzug](/glossar/anzug/) oder einen Blazer kaufst, muss die Schulterpartie sofort perfekt sitzen, da Änderungen in diesem Bereich sehr komplex und teuer sind. Die Weite in der Taille lässt sich im Nachgang durch eine Schneiderin leicht anpassen. Bei Hosen sollten Hüfte und Gesäß ohne Spannungen umschlossen sein, während du den [Bund](/glossar/bund/) bei Bedarf unkompliziert enger nähen lassen kannst.
+Diese Begriffe werden oft verwechselt, meinen aber unterschiedliche Dinge:
 
-Am Ende ist die Etikettengröße für andere Menschen unsichtbar. Sichtbar ist ausschließlich eine harmonische [Silhouette](/glossar/silhouette/) und die Souveränität, mit der du dich in deiner Kleidung bewegst.
+- **Konfektionsgröße:** Ein vereinfachter Größenwert auf dem Etikett, etwa 38 oder M.
+- **Körpermaß:** Ein direkt am Körper gemessener Wert, zum Beispiel Brust, Taille, Hüfte oder Innenbeinlänge.
+- **Kleidungsmaß:** Das tatsächliche Maß des fertigen Kleidungsstücks.
+- **Bewegungszugabe:** Der zusätzliche Raum zwischen Körper und Kleidung für Komfort und Bewegung.
+- **Passform:** Das Ergebnis aus Körper, Schnitt, Material und beabsichtigter Weite.
 
-## So nutzt du den Begriff praktisch im Alltag
+Eine Größe kann daher rechnerisch stimmen und sich trotzdem nicht gut anfühlen. Vielleicht passt die Hüfte, aber die Schulter ist zu schmal. Vielleicht sitzt die Taille gut, doch der Stoff spannt beim Sitzen. Erst die Anprobe zeigt, ob die Größe für dich wirklich funktioniert.
 
-- **Richtig Maß nehmen:** Miss deine persönlichen Werte wie Brustumfang, Taillenumfang und Hüftumfang regelmäßig mit einem weichen Maßband aus. Notiere dir für den Hosenkauf auch deine genaue [Innenbeinlänge](/glossar/innenbeinlaenge/).
-- **Tabellen vergleichen:** Nutze beim Onlineshopping immer die spezifische Größentabelle der jeweiligen Marke statt dich auf deine gewohnte Standardgröße zu verlassen.
-- **Schnittbeschreibungen lesen:** Achte darauf, ob ein Modell als slim fit, regular fit oder oversized deklariert ist. Das verrät dir viel über die tatsächliche Weite.
-- **Bewegungstest machen:** Setze dich bei der Anprobe hin, hebe die Arme und laufe ein paar Schritte. Nur so spürst du, ob die Bewegungszugabe für deinen Alltag ausreicht.
-- **Favoriten dokumentieren:** Notiere dir die Größen und Modellnamen von Kleidungsstücken, die dir auf Anhieb perfekt gepasst haben, inklusive der Materialzusammensetzung.
+## So findest du deine passende Konfektionsgröße
 
-## Ein anschauliches Beispiel
+Nutze die Zahl auf dem Etikett als Startpunkt, nicht als Urteil über deinen Körper. Gerade beim Onlineshopping lohnt es sich, die Größentabelle des jeweiligen Herstellers mit deinen eigenen Maßen zu vergleichen.
 
-Du probierst eine neue Hose an. In Größe 40 sitzt sie an den Oberschenkeln wunderbar bequem, steht aber hinten am Bund deutlich ab. In Größe 38 schließt der Bund zwar exakt, dafür kneift der Stoff an den Oberschenkeln und die Hosentaschen springen unschön auf.
+Miss dafür regelmäßig:
 
-Die richtige Entscheidung in diesem Fall lautet: Wähle die Größe 40 und lasse den überstehenden [Bund](/glossar/bund/) in einer Schneiderei anpassen. So erhältst du eine saubere Optik ohne störende Zugfalten.
+- Brustumfang an der stärksten Stelle
+- Taillenumfang an deiner natürlichen Körpermitte
+- Hüftumfang an der stärksten Stelle von Hüfte oder Gesäß
+- Schulterbreite bei Blazern, Jacken und Hemden
+- [Innenbeinlänge](/glossar/innenbeinlaenge/) bei Hosen und Jeans
 
-## Typisches Missverständnis
+Achte danach auf die Modellbeschreibung. Begriffe wie Slim Fit, Regular Fit, Relaxed Fit oder Oversized beschreiben nicht deine Körpergröße, sondern die gewünschte Weite des Kleidungsstücks.
 
-Viele Menschen sind frustriert, wenn sie plötzlich eine Nummer größer kaufen müssen als gewohnt. Sie glauben, dass ihre Konfektionsgröße über alle Marken hinweg identisch sein müsste. Dies ist jedoch aufgrund unterschiedlicher Zielgruppen und des weit verbreiteten [Vanity Sizing](/glossar/vanity-sizing/) ausgeschlossen. Beim Vanity Sizing zeichnen Hersteller Kleidung bewusst mit kleineren Nummern aus, um der Kundschaft ein schmeichelhaftes Gefühl beim Kauf zu vermitteln. Verlasse dich daher niemals blind auf die Zahl im Etikett.
+## Welche Körperpartie sollte beim Kauf passen?
 
-## Abgrenzung zu ähnlichen Begriffen
+Die beste Größe ist meist diejenige, die deiner anspruchsvollsten Körperpartie ausreichend Raum gibt. Was sich leicht ändern lässt, kann später angepasst werden. Was konstruktiv kompliziert ist, sollte beim Kauf bereits gut sitzen.
 
-- **Körpermaß:** Der direkte, mit dem Maßband am eigenen Körper gemessene Umfang oder Längenwert.
-- **Kleidungsmaß:** Die tatsächlichen Abmessungen des flach liegenden, fertigen Kleidungsstücks.
-- **Bewegungszugabe:** Der bewusst einkonstruierte Spielraum im Stoff, der dir das Atmen, Sitzen und Bewegen im Alltag ermöglicht.
-- **Passform:** Das Gesamtergebnis aus dem Zusammenspiel deines Körpers, dem Schnitt des Modells und dem Fall des Materials.
+Bei einem [Blazer](/glossar/blazer/) oder [Anzug](/glossar/anzug/) ist die Schulter besonders wichtig. Die Schulternaht sollte dort liegen, wo deine Schulter endet, und die Armbewegung nicht einschränken. Änderungen an Schultern und Armausschnitten sind aufwendig.
+
+Bei Hosen sollten Hüfte und Gesäß ohne Spannung sitzen. Wenn der [Bund](/glossar/bund/) etwas zu weit ist, lässt er sich oft einfacher anpassen als ein zu enges Gesäß oder ein zu schmaler Oberschenkel.
+
+Bei Kleidern kommt es auf den Schnitt an. Ein körpernahes Etuikleid braucht an Brust, Taille und Hüfte einen sauberen Sitz. Ein lockeres Kleid kann bewusst mehr Weite haben, ohne zu groß zu wirken.
+
+## Praxischeck bei der Anprobe
+
+Prüfe eine Konfektionsgröße nicht nur im Stehen vor dem Spiegel. Kleidung muss zu deinem Alltag passen und Bewegungen mitmachen.
+
+- Hebe beide Arme und prüfe, ob Schultern, Ärmel oder Brust spannen.
+- Setze dich hin und achte darauf, ob Bund, Knöpfe oder Nähte unter Spannung geraten.
+- Gehe ein paar Schritte und prüfe, ob das Kleidungsstück verrutscht oder einengt.
+- Kontrolliere, ob Taschen, Knopfleisten und Nähte glatt liegen.
+- Achte auf [Zugfalten](/glossar/zugfalten/), die oft auf zu wenig Raum oder einen unpassenden Schnitt hinweisen.
+- Prüfe bei Hosen, ob Länge und [Schuh-Saum-Beziehung](/glossar/schuh-saum-beziehung/) zu deinen bevorzugten Schuhen passen.
+
+## Beispiel: Die richtige Größe ist nicht immer die kleinere
+
+Du probierst eine Hose in Größe 38 und 40 an. Größe 38 schließt am Bund genau, spannt aber an Oberschenkeln und Gesäß. Die Taschen stehen ab, beim Sitzen wird die Hose unbequem.
+
+Größe 40 gibt dir dagegen genug Raum an Hüfte und Oberschenkeln, steht am Bund aber leicht ab. In diesem Fall ist Größe 40 meist die bessere Wahl. Den Bund kannst du bei Bedarf ändern lassen. Eine zu enge Hose lässt sich dagegen nur begrenzt erweitern, ohne dass Schnitt und Sitz leiden.
+
+Die Etikettengröße ist hier nebensächlich. Relevant sind Bewegungsfreiheit, eine ruhige Linie und ein stimmiger Sitz.
+
+## Vanity Sizing: Warum Etikettengrößen täuschen können
+
+[Vanity Sizing](/glossar/vanity-sizing/) beschreibt die Praxis, Kleidung bei vergleichbaren Maßen mit kleineren Größen auszuzeichnen. Dadurch kann sich die Zahl auf dem Etikett im Lauf der Zeit verändern, obwohl deine Körpermaße gleich geblieben sind.
+
+Das ist ein weiterer Grund, warum du dich nicht an einer einzelnen Konfektionsgröße festhalten solltest. Eine Größe ist kein persönliches Merkmal und keine Bewertung. Sie ist nur ein Orientierungscode innerhalb des Systems einer Marke.
+
+## Typische Missverständnisse
+
+- **Missverständnis:** Meine Konfektionsgröße muss bei jeder Marke gleich sein.  
+  **Besser:** Vergleiche deine Maße mit der Größentabelle und beurteile den Sitz des konkreten Modells.
+
+- **Missverständnis:** Die kleinere Größe sieht automatisch besser aus.  
+  **Besser:** Wähle die Größe, die Bewegungsfreiheit gibt und ohne Spannung sitzt. Enge Kleidung wirkt selten präziser, wenn sie zieht oder verrutscht.
+
+- **Missverständnis:** Die Zahl im Etikett sagt etwas über meinen Körper aus.  
+  **Besser:** Die Zahl beschreibt nur die Einordnung eines Kleidungsstücks innerhalb einer Markenlogik.
+
+- **Missverständnis:** Wenn ein Teil an einer Stelle passt, ist die Passform insgesamt gut.  
+  **Besser:** Prüfe immer Schulter, Brust, Taille, Hüfte, Länge und Beweglichkeit im Zusammenspiel.
+
+## Warum die richtige Größe deine Wirkung verbessert
+
+Eine gute Konfektionsgröße unterstützt deine [Proportion](/glossar/proportion/) und lässt die [Silhouette](/glossar/silhouette/) ruhig und selbstverständlich wirken. Kleidung, die an den richtigen Stellen Raum gibt und an den richtigen Stellen klar sitzt, lenkt nicht durch Ziehen, Falten oder Verrutschen ab.
+
+Das macht auch den Einkauf gezielter. Wenn du deine relevanten Maße, bevorzugten Schnitte und gut passende Marken kennst, findest du schneller Teile mit hoher [Kombinierbarkeit](/glossar/kombinierbarkeit/) und vermeidest unnötige Fehlkäufe.
 
 ## ESKYNA Merksatz
 
-> Die Konfektionsgröße ist nur ein grober Richtwert für die Logistik des Handels. Eine überzeugende Wirkung und echter Tragekomfort entstehen erst durch das harmonische Zusammenspiel von Schnitt und deiner individuellen Körperform.
-
-## Entscheidungshilfe vor deinem nächsten Kauf
-
-- Welche konkreten Zentimetermaße hinterlegt der Hersteller in seiner Größentabelle für dieses Modell?
-- Wie ist die Passform des Kleidungsstücks gedacht? Soll es figurnah sitzen oder locker fallen?
-- Welcher Bereich des Kleidungsstücks lässt sich nachträglich nur schwer ändern und muss deshalb beim Kauf sofort optimal sitzen?
-- Enthält das Material Elasthan, das dem Stoff eine gewisse Dehnbarkeit und Flexibilität verleiht?
-- Bleiben Nähte, Taschen und Verschlüsse bei normaler Körperhaltung glatt und entspannt?
-
-## Wann eine Stilberatung sinnvoll wird
-
-Wenn du beim Kleidungskauf regelmäßig frustriert bist, weil dir Standardgrößen an den Schultern zu eng, an der Hüfte aber zu weit sind, hilft dir eine professionelle [Stilberatung](/glossar/stilberatung/). Gemeinsam analysieren wir deine Körperproportionen und definieren Schnittformen, die deine Vorzüge perfekt betonen. Du lernst, gezielt nach den richtigen Passformen zu suchen, um Fehlkäufe dauerhaft zu vermeiden.
-
-## Welche Fragen klärt dieser Begriff?
-
-- Warum trage ich je nach Modemarke völlig unterschiedliche Kleidergrößen?
-- Wie unterscheiden sich meine persönlichen Körpermaße von den realen Kleidungsmaßen?
-- Welche Körperpartie ist die wichtigste Orientierung für die richtige Größenauswahl?
+> Die Konfektionsgröße ist ein Orientierungscode, keine Körperbewertung. Die richtige Größe ist die, in der Schnitt, Bewegungsfreiheit und deine Proportionen stimmig zusammenkommen.
 
 ## Häufige Fragen
 
 ### Was kann ich tun, wenn meine Maße genau zwischen zwei Konfektionsgrößen liegen?
 
-Orientiere dich an der Dehnbarkeit des Materials und der geplanten Nutzung. Bei festen, unelastischen Stoffen wie reinem Leinen oder schwerer Baumwolle ist die größere Größe fast immer die bessere Wahl. Bei sehr elastischen Strickteilen oder Jersey kann die kleinere Größe für einen besseren Sitz sorgen.
+Orientiere dich an der Körperpartie, die am wenigsten Spielraum braucht. Bei festen, kaum dehnbaren Stoffen ist meist die größere Größe sinnvoll. Sie gibt dir Bewegungsfreiheit und lässt sich an Taille oder Bund häufig noch anpassen. Bei elastischen Materialien kann die kleinere Größe funktionieren, wenn sie nicht spannt oder einschränkt.
 
-### Sind die Größenangaben S, M und L international einheitlich geregelt?
+### Sind S, M und L international einheitlich geregelt?
 
-Nein. Diese sogenannten Buchstabengrößen variieren je nach Herkunftsland der Marke extrem. Amerikanische Marken schneiden in der Regel deutlich großzügiger als französische oder italienische Designer. Nutze im Zweifel immer die zentimeterbasierte Maßtabelle des Herstellers.
+Nein. Buchstabengrößen sind nicht bei allen Marken gleich. Ein M kann je nach Hersteller, Schnitt und Zielgruppe deutlich unterschiedlich ausfallen. Vergleiche deshalb immer die Zentimeterangaben in der jeweiligen Größentabelle.
 
-### Kann ich meine passende Größe allein durch mein Körpergewicht und meine Größe bestimmen?
+### Kann ich meine Konfektionsgröße über Körpergröße und Gewicht bestimmen?
 
-Nein, das ist nicht möglich. Gewicht und Körpergröße verraten nichts über die Verteilung deiner Proportionen. Zwei Menschen mit identischer Größe und gleichem Gewicht können komplett unterschiedliche Brust, Taillen und Hüftweiten haben und benötigen daher auch völlig andere Schnitte.
+Nein. Körpergröße und Gewicht zeigen nicht, wie sich Maße auf Schultern, Brust, Taille, Hüfte oder Beine verteilen. Zwei Menschen mit denselben Angaben können unterschiedliche Größen und Schnitte benötigen.
+
+### Sollte ich Kleidung in meiner üblichen Größe online bestellen?
+
+Deine übliche Größe kann ein guter Ausgangspunkt sein. Verlass dich aber nicht allein darauf. Prüfe die Maßtabelle, lies Hinweise zur Passform und vergleiche bei Hosen zusätzlich die Innenbeinlänge sowie die Bundhöhe.
+
+Weitere passende Begriffe findest du in der [Kategorie Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/).

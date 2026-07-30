@@ -1,115 +1,169 @@
 ---
-title: Was bedeutet Daunenjacke?
+title: Was ist eine Daunenjacke?
 term: Daunenjacke
-description: Eine Daunenjacke ist eine gefütterte Jacke mit Volumen, die Wärme gibt und je nach Schnitt sportlich oder modern wirkt.
+description: Eine Daunenjacke ist eine wattierte Winterjacke mit Daunenfüllung. Sie speichert Luft und Wärme, wirkt je nach Schnitt sportlich, urban oder modern und braucht passende Pflege.
 category: Garderobe & Alltag
 tags:
   - daunenjacke
+  - winterjacke
+  - daunen
+  - oberbekleidung
   - garderobe
 keywords:
   - daunenjacke
-  - was bedeutet daunenjacke
+  - was ist eine daunenjacke
+  - daunenjacke einfach erklärt
+  - daunenjacke kaufen
+  - daunenjacke pflegen
   - daunenjacke stilberatung
 weight: 1
 image: images/glossar/daunenjacke.png
-image_alt: Editoriale Glossar-Grafik zu Daunenjacke mit ruhigen Farbfeldern und feiner Linienführung
-history: "Die Daunenjacke verdankt ihre Erfindung einem dramatischen Ereignis: Der US-amerikanische Abenteurer Eddie Bauer erlitt 1935 bei einem Winterausflug eine schwere Unterkühlung. Daraufhin entwickelte und patentierte er 1936 die erste gesteppte Daunenjacke namens Skyliner. Fast zeitgleich schuf der Modeschöpfer Charles James 1937 eine elegante Abendversion aus Seide. In den 1950er-Jahren stattete die Marke Moncler Expeditionen aus, bevor die Jacke in den 1980er-Jahren durch die Mailänder Paninari-Jugendkultur zum Statussymbol der Streetwear aufstieg."
-knowledge: "Entscheidend für die Qualität einer Daunenjacke ist das Mischungsverhältnis zwischen Daunen und Federn (ideal ist 90/10) sowie die Bauschkraft, gemessen in Cuin. Je höher der Cuin-Wert, desto besser ist die Wärmeleistung bei geringem Gewicht. Beim Waschen benötigt die Jacke spezielle Daunenwaschmittel und muss im Trockner mit Tennisbällen getrocknet werden, damit die Daunen nicht verklumpen."
+image_alt: Editoriale Glossar-Grafik zu einer voluminösen Daunenjacke mit ruhigen Farbfeldern und feiner Linienführung
+history:
+  - "Der US-amerikanische Abenteurer Eddie Bauer entwickelte nach einer schweren Unterkühlung im Jahr 1935 eine gesteppte Daunenjacke. 1936 patentierte er das Modell Skyliner."
+  - "Charles James entwarf 1937 eine elegante, mit Daunen gefüllte Abendjacke aus Seide."
+  - "In den 1950er Jahren stattete Moncler Expeditionen aus. In den 1980er Jahren wurde die Daunenjacke durch die Mailänder Paninari Jugendkultur auch zum urbanen Statussymbol."
+knowledge:
+  - "Daunen sind feine, dreidimensionale Unterfedern von Enten oder Gänsen. Sie schließen Luft ein und erzeugen so eine leichte Wärmeisolation."
+  - "Das Verhältnis von Daunen zu Federn und die Bauschkraft in Cuin geben Hinweise auf die Füllung. Sie sollten immer zusammen mit Schnitt, Einsatzbereich und Verarbeitung beurteilt werden."
+  - "Pflegehinweise auf dem Etikett haben Vorrang. Falsches Waschen oder unvollständiges Trocknen kann die Füllung verklumpen lassen und die Wärmeleistung mindern."
 relatedTerms:
   - title: Thermoregulation bei Kleidung
     url: /glossar/thermoregulation/
+  - title: Volumen
+    url: /glossar/volumen/
+  - title: Materialqualität
+    url: /glossar/materialqualitaet/
+  - title: Steppjacke
+    url: /glossar/steppjacke/
+  - title: Pflege
+    url: /glossar/pflege/
   - title: Stilbruch
     url: /glossar/stilbruch/
-  - title: Key-Piece
-    url: /glossar/key-piece/
-  - title: Fehlkauf
-    url: /glossar/fehlkauf/
-  - title: Garderobenlogik
-    url: /glossar/garderobenlogik/
 faq:
   items:
     - q: Wie wasche ich eine Daunenjacke richtig?
-      a: Wasche sie im Schonwaschgang bei maximal 30 Grad mit flüssigem Daunenwaschmittel. Verwende keinen Weichspüler. Trockne sie zwingend im Wäschetrockner mit zwei bis drei sauberen Tennisbällen, damit die Daunen ihre Bauschkraft zurückerhalten.
-    - q: Woran erkenne ich eine hochwertige Daunenjacke?
-      a: Achte auf das Daunen-zu-Federn-Verhältnis von mindestens 80/20 oder besser 90/10. Ein hoher Cuin-Wert (ab 550 Cuin) zeigt eine sehr gute Isolationsfähigkeit. Zudem weisen zertifizierte Daunen (z.B. Responsible Down Standard) auf eine tiergerechtere Gewinnung hin.
+      a: Prüfe zuerst das Pflegeetikett. Viele Daunenjacken lassen sich mit speziellem Daunenwaschmittel im Schonwaschgang bei niedriger Temperatur waschen. Verzichte auf Weichspüler und trockne die Jacke nur dann im Trockner, wenn das Etikett es erlaubt. Im Trockner helfen saubere Trocknerbälle dabei, die Füllung wieder aufzulockern.
+    - q: Woran erkenne ich eine gute Daunenjacke?
+      a: Achte auf eine gleichmäßig verteilte Füllung, sauber verarbeitete Steppkammern, einen zum Alltag passenden Schnitt und ein nachvollziehbares Verhältnis von Daunen zu Federn. Die Bauschkraft in Cuin kann zusätzlich zeigen, wie viel Volumen die Füllung bei geringem Gewicht entwickelt. Zertifizierungen wie RDS oder TDS können Hinweise auf die Rückverfolgbarkeit der Daunen geben.
+    - q: Was ist der Unterschied zwischen einer Daunenjacke und einer Steppjacke?
+      a: Eine Steppjacke beschreibt vor allem die sichtbare, abgesteppt gegliederte Konstruktion. Ihre Füllung kann aus Daunen, Federn oder Kunstfasern bestehen. Eine Daunenjacke ist dagegen über ihre Füllung definiert und kann ebenfalls gesteppt sein.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Daunenjacke** ist ein wärmeisolierendes Kleidungsstück für den Oberkörper, das mit den feinen Unterfedern (Daunen) von Enten oder Gänsen gefüllt ist. Durch die weiche Füllung entsteht ein charakteristisches [Volumen](/glossar/volumen/), das die Körperwärme extrem effizient speichert. Für den optimalen Tragekomfort im Alltag ist die [Atmungsaktivität](/glossar/atmungsaktivitaet/) des Außenmaterials sowie eine exzellente [Thermoregulation bei Kleidung](/glossar/thermoregulation/) entscheidend.
+Eine **Daunenjacke** ist eine gefütterte Jacke für kühle bis kalte Temperaturen. Ihre Wärme entsteht durch Daunen, also feine Unterfedern von Enten oder Gänsen, die viel Luft einschließen. Diese Luftschicht hilft dem Körper, Wärme zu halten.
 
----
+Typisch sind die sichtbar abgesteppten Kammern und das weiche [Volumen](/glossar/volumen/). Eine Daunenjacke kann kurz, hüftlang oder mantelartig lang geschnitten sein. Je nach Farbe, Material und Silhouette wirkt sie funktional, sportlich, urban oder bewusst modisch.
 
-## Modische Evolution: Vom Überlebensschutz zum High-Fashion-Statement
+## Wie funktioniert eine Daunenjacke?
 
-Die Geschichte der Daunenjacke zeigt den klassischen Weg funktionaler Kleidung in die Modewelt. Ursprünglich für extreme Expeditionen und den Wintersport entwickelt, hat sich das wuchtige Kleidungsstück fest im urbanen Raum etabliert.
+Daunen wärmen nicht durch ihr Gewicht, sondern durch ihre Bauschkraft. Sie richten sich nach dem Tragen oder Zusammendrücken wieder auf und bilden viele kleine Luftpolster. Deshalb können gute Daunenjacken vergleichsweise leicht sein und dennoch viel Wärme bieten.
 
-In den 1980er-Jahren machten italienische Jugendliche die bunte Daunenjacke zum Statussymbol. Heute zeigen Designer auf den Laufstegen, dass Daunenmäntel und Oversized-Modelle skulpturale Kunstwerke sein können. Sie dienen nicht mehr nur als Schutz gegen eisige Kälte, sondern bestimmen als ausdrucksstarkes [Key-Piece](/glossar/key-piece/) die visuelle Ausrichtung eines gesamten Outfits.
+Wie warm eine Jacke im Alltag tatsächlich ist, hängt aber nicht allein von der Füllung ab. Auch Länge, Kragen, Kapuze, Verschlüsse, Windschutz und die darunter getragenen Schichten beeinflussen die [Thermoregulation bei Kleidung](/glossar/thermoregulation/).
 
----
+Eine Daunenjacke ist nicht automatisch wasserdicht. Das Außenmaterial kann wasserabweisend sein, schützt aber je nach Verarbeitung nur begrenzt vor längerem Regen. Für nasses Wetter lohnt sich deshalb ein Blick auf die Angaben zu [wasserabweisend](/glossar/wasserabweisend/) und [wasserdicht](/glossar/wasserdicht/).
 
-## Qualitätsmerkmale: Worauf du beim Kauf achten solltest
+## Daunenjacke, Steppjacke und Kunstfaserjacke: der Unterschied
 
-Damit deine Daunenjacke warm hält und dir lange Freude bereitet, lohnt sich ein Blick auf die technischen Details der Füllung. Die reine [Materialqualität](/glossar/materialqualitaet/) entscheidet darüber, ob die Jacke ein treuer Begleiter oder ein schneller Fehlkauf wird.
+Die Begriffe werden oft vermischt, bezeichnen aber nicht dasselbe:
 
-### 1. Das Daunen-Feder-Verhältnis
+- **Daunenjacke:** Die Füllung besteht überwiegend aus Daunen, oft ergänzt durch Federn.
+- **[Steppjacke](/glossar/steppjacke/):** Sie ist durch sichtbare Steppnähte gegliedert. Die Füllung kann aus Daunen oder Kunstfasern bestehen.
+- **Kunstfaserjacke:** Sie ist mit synthetischen Fasern gefüllt. Diese können sich bei feuchtem Wetter anders verhalten als Daunen.
 
-Daunen haben keinen harten Kiel, sie sind dreidimensional und schließen viel Luft ein. Federn hingegen besitzen einen Kiel und dienen in der Jacke als Stützmaterial, damit die Füllung nicht in sich zusammenfällt. Ein hochwertiges Verhältnis liegt bei **90/10** (90 Prozent Daunen, 10 Prozent Federn). Sinkt der Daunenanteil unter 80 Prozent, nimmt die Wärmeleistung spürbar ab.
+Die Steppung hat dabei eine praktische Funktion: Sie hält die Füllung an ihrem Platz und verhindert, dass sie sich in einzelnen Bereichen sammelt. Entscheidend ist, dass die Kammern gleichmäßig gefüllt sind und keine auffälligen Lücken entstehen.
 
-### 2. Die Bauschkraft (Fillpower / Cuin)
+## Geschichte der Daunenjacke
 
-Die Bauschkraft beschreibt, wie schnell sich die Daune nach dem Zusammendrücken wieder ausdehnt. Dieser Wert wird in **Cuin** (cubic inches) gemessen:
+Die Daunenjacke hat ihren Ursprung in funktionaler Winterbekleidung. Eddie Bauer entwickelte nach einer schweren Unterkühlung im Jahr 1935 eine gesteppte Daunenjacke und patentierte 1936 sein Modell Skyliner. Kurz darauf entwarf Charles James eine elegante, mit Daunen gefüllte Seidenjacke für den Abend.
 
-- **Ab 550 Cuin:** Gute Qualität für den normalen Winteralltag.
-- **Ab 700 bis 800 Cuin:** Premium-Qualität mit hervorragender Wärmeleistung bei minimalem Eigengewicht.
+In den 1950er Jahren wurde Daunenbekleidung auch für Expeditionen genutzt. Ab den 1980er Jahren verließ die Daunenjacke endgültig den reinen Outdoor Kontext: Die Mailänder Paninari Jugendkultur machte auffällige Modelle zum sichtbaren Statussymbol im Stadtbild.
 
-### 3. Nachhaltigkeit und Tierschutz
+Heute reicht ihre Wirkung von funktionaler Winterjacke bis zum modischen [Key Piece](/glossar/key-piece/). Besonders lange, glänzende oder bewusst übergroße Modelle prägen die Silhouette eines Outfits stark.
 
-Achte auf anerkannte Zertifikate wie den _Responsible Down Standard_ (RDS) oder den _Global Traceable Down Standard_ (TDS). Diese garantieren, dass die Daunen nicht aus Lebendrupf oder Stopfmast stammen.
+## Qualität einer Daunenjacke beurteilen
 
----
+Beim Kauf zählt nicht nur, ob sich eine Jacke weich und warm anfühlt. Gute [Materialqualität](/glossar/materialqualitaet/) erkennst du an mehreren Punkten.
 
-## Daunenjacke Stilberatung: Volumen stilvoll ausgleichen
+### Verhältnis von Daunen und Federn
 
-Viele Menschen meiden die Daunenjacke, weil sie befürchten, darin unförmig zu wirken. Mit der richtigen [Garderobenlogik](/glossar/garderobenlogik/) und einem klaren Blick für deine [Silhouette](/glossar/silhouette/) lässt sich dieses Problem leicht lösen.
+Daunen haben keinen festen Kiel und können besonders viel Luft speichern. Federn besitzen einen Kiel und geben der Füllung Struktur. Das Verhältnis wird häufig als Zahlenpaar angegeben, etwa 90/10. Das bedeutet 90 Prozent Daunen und 10 Prozent Federn.
 
-### Die Proportions-Regel
+Ein hoher Daunenanteil kann für eine leichte, bauschige Wärmeleistung sprechen. Er ist aber nur ein Kriterium. Eine Jacke muss auch zu deinem Winteralltag, deinem Wärmeempfinden und deiner Bewegungsroutine passen.
 
-Da eine Daunenjacke sehr viel Volumen im oberen Körperbereich erzeugt, solltest du dieses unten ausgleichen. Setze auf schmal geschnittene Hosen oder einen fließenden Rock. Wenn du eine sehr weite Hose wählst, stecke das Oberteil vorn locker in den Bund, um deine Körpermitte zu definieren.
+### Bauschkraft in Cuin
 
-### Der bewusste Stilbruch
+Die Bauschkraft, oft als Fill Power oder Cuin angegeben, beschreibt, wie stark sich eine Daunenfüllung ausdehnen kann. Ein höherer Wert weist grundsätzlich auf mehr Volumen bei geringerem Gewicht hin.
 
-Ein spannender Look entsteht durch Gegensätze. Kombiniere eine sportliche Daunenjacke im [Stilbruch](/glossar/stilbruch/) mit eleganten Elementen wie einer edlen Stoffhose und feinen Lederstiefeletten. So wirkt das Outfit sofort durchdacht und verliert den reinen Outdoor-Charakter.
+Der Cuin Wert allein macht jedoch keine gute Daunenjacke aus. Für kurze Wege in der Stadt brauchst du meist andere Eigenschaften als für lange Aufenthalte im Freien. Prüfe deshalb immer die gesamte Konstruktion, nicht nur eine einzelne Zahl.
 
-### Farbwahl und Langlebigkeit
+### Verarbeitung und Außenmaterial
 
-Wenn du die Jacke über mehrere Saisons als tägliches Basic nutzen möchtest, eignen sich gedeckte Töne wie Navy, Anthrazit, Schwarz oder warmes Oliv. Suchst du einen modischen Blickfang, der dich im Winter strahlen lässt, sind helle Töne wie Cremeweiß oder ein klarer Kontrastton eine hervorragende Wahl.
+Achte auf gleichmäßige Steppkammern, saubere Nähte und eine Füllung, die nicht sichtbar durch den Stoff dringt. Reißverschlüsse, Bündchen und ein gut schließender Kragen beeinflussen ebenfalls, wie gut die Jacke im Alltag schützt.
 
----
+Ein dichteres Außenmaterial kann Wind besser abhalten. Gleichzeitig sollte die Jacke genug Bewegungsfreiheit bieten. Gerade bei voluminösen Modellen sind Schulterpartie, Armbewegung und die Länge beim Sitzen wichtig.
 
-## Die richtige Pflege: So bleibt das Volumen erhalten
+### Herkunft und Zertifizierungen
 
-Eine falsche Wäsche kann die Daunen dauerhaft schädigen. Damit die feinen Federn nicht verklumpen, solltest du folgende Regeln beachten:
+Wenn dir die Herkunft der Daunen wichtig ist, können Zertifizierungen wie der Responsible Down Standard oder der Global Traceable Down Standard Orientierung geben. Sie ersetzen nicht deinen eigenen Blick auf Qualität, geben aber Hinweise zur Rückverfolgbarkeit innerhalb der Lieferkette.
 
-- **Das richtige Waschmittel:** Nutze ausschließlich spezielles Daunenwaschmittel. Normales Vollwaschmittel entzieht den Daunen das natürliche Fett, wodurch sie brüchig werden.
-- **Der Waschgang:** Wähle den Woll- oder Daunenwaschgang bei maximal 30 Grad und spüle die Jacke gründlich klar. Schleudere sie nur sehr schonend.
-- **Das Trocknen im Wäschetrockner:** Dies ist der wichtigste Schritt. Trockne die Jacke im Trockner auf mittlerer Stufe und gib zwei bis drei saubere Tennisbälle hinzu. Diese klopfen die Daunen während des Trocknens kontinuierlich auf und verhindern das Verklumpen.
+## Daunenjacke stilvoll kombinieren
 
----
+Eine Daunenjacke bringt viel Volumen in den Oberkörper. Das ist kein Problem, wenn du die [Proportion](/glossar/proportion/) bewusst steuerst. Du musst Volumen nicht grundsätzlich ausgleichen, aber du solltest entscheiden, wo dein Outfit ruhig, schmal oder weit wirken soll.
 
-## ESKYNA-Merksatz
+### Kurze Daunenjacke
 
-Eine Daunenjacke überzeugt dann, wenn Volumen auf bewusste Proportion trifft. Wenn du die sportliche Fülle mit klaren Linien ausgleichst, wird aus dem rein funktionalen Kälteschutz ein stilvoller Ausdruck deines persönlichen Stils.
+Eine kurze Daunenjacke endet meist an Taille oder Hüfte und lässt die Beine stärker sichtbar. Sie passt gut zu High Waist Jeans, Stoffhosen oder einem Midirock. Ein höherer Bund kann die Körpermitte klar definieren und gibt dem voluminösen Oberteil Struktur.
 
----
+### Lange Daunenjacke
 
-## Praxischeck für deinen Kleiderschrank
+Ein langer Daunenmantel wirkt ruhiger und schützt mehr Körperfläche. Kombiniere ihn mit einer geraden Hose, Leggings, Jeans oder einem schmaleren Rock, wenn du eine klare vertikale Linie möchtest. Auch ein monochromer Look kann die Länge optisch unterstreichen.
 
-Bevor du eine neue Daunenjacke kaufst oder dein vorhandenes Modell stylst, stelle dir drei kurze Fragen:
+### Eleganter Stilbruch
 
-1. **Passt die Länge zu meinen Hosen?** Kürzere Modelle betonen die Beine, während lange Daunenmäntel eine durchgehende vertikale Linie schaffen.
-2. **Kann ich die Jacke mit mindestens drei Outfits kombinieren?** Teste den Look sowohl in einer sportlichen als auch in einer eleganteren Variante.
-3. **Stimmt die Bauschkraft für meinen Alltag?** Wer viel zu Fuß unterwegs ist, benötigt eine andere Wärmeleistung als Pendler, die nur kurze Wege überbrücken.
+Eine Daunenjacke muss nicht nur sportlich wirken. Kombiniere sie im bewussten [Stilbruch](/glossar/stilbruch/) mit einer Stoffhose, einem Strickkleid, [Chelsea Boots](/glossar/chelsea-boots/) oder einem feinen Schal. Der Kontrast aus funktionalem Volumen und klaren, gepflegten Teilen macht den Look erwachsener.
 
-Weitere Inspirationen und Tipps für funktionale Lieblingsstücke findest du in unserer Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/).
+### Farben für deine Garderobe
+
+Dunkle, neutrale Töne wie [Navy](/glossar/navy/), [Anthrazit](/glossar/anthrazit/), Schwarz oder Oliv sind vielseitige Optionen für den Alltag. Sie lassen sich leicht mit vorhandenen Schuhen und Taschen verbinden.
+
+Helle Töne wie Creme, Beige oder Hellblau wirken weicher und können im Winter bewusst Frische bringen. Eine kräftige Farbe macht die Daunenjacke dagegen zum sichtbaren Statement. Entscheidend ist, ob sie zu deiner [Farbpalette](/glossar/farbpalette/) und zu mindestens mehreren Outfits passt.
+
+## Pflege: So bleibt die Füllung bauschig
+
+Daunen reagieren empfindlich auf falsche Pflege. Lies deshalb immer zuerst das [Pflegeetikett](/glossar/pflegeetikett/), denn Material, Beschichtung und Konstruktion können sich deutlich unterscheiden.
+
+- Schließe Reißverschlüsse und leere alle Taschen vor dem Waschen.
+- Nutze bei waschbaren Modellen ein geeignetes Daunenwaschmittel und keinen Weichspüler.
+- Wähle einen schonenden Waschgang bei der auf dem Etikett angegebenen Temperatur.
+- Trockne die Jacke nur nach Pflegeanweisung. Ist ein Trockner erlaubt, können saubere Trocknerbälle die Füllung beim Auflockern unterstützen.
+- Nimm die Jacke erst vollständig trocken aus dem Trockner oder von der Leine. Restfeuchtigkeit kann zu verklumpten Daunen und unangenehmem Geruch führen.
+
+Bei Unsicherheit ist eine professionelle Reinigung sinnvoller als ein Pflegeversuch, der Form oder Füllung beschädigt.
+
+## Typische Missverständnisse
+
+- **Missverständnis:** Jede dicke Steppjacke ist eine Daunenjacke.  
+  **Besser:** Steppung beschreibt die Konstruktion, Daune die Füllung. Auch Kunstfaserjacken können gesteppt sein.
+
+- **Missverständnis:** Je mehr Volumen, desto wärmer die Jacke.  
+  **Besser:** Volumen kann ein Hinweis auf Bauschkraft sein. Wärme hängt zusätzlich von Füllung, Länge, Windschutz und deinem Einsatzbereich ab.
+
+- **Missverständnis:** Eine Daunenjacke passt nur zu Sneakern und Freizeitlooks.  
+  **Besser:** Mit klaren Linien, hochwertigen Materialien und passenden Schuhen kann sie auch modern und gepflegt wirken.
+
+## Praxischeck vor dem Kauf
+
+- Passt unter die Jacke ein Pullover, ohne dass Schultern und Arme einengen?
+- Bleibt die Füllung gleichmäßig verteilt, auch an Nähten und unter den Armen?
+- Schützt Länge, Kragen und Kapuze dort, wo du im Alltag tatsächlich Kälte spürst?
+- Kannst du die Daunenjacke mit mindestens drei vorhandenen Outfits kombinieren?
+- Entspricht die Pflege dem Aufwand, den du dauerhaft leisten möchtest?
+
+## ESKYNA Merksatz
+
+Eine gute Daunenjacke wärmt dich nicht nur, sondern funktioniert auch mit deinem Alltag und deiner Garderobe. Entscheidend sind passende Proportionen, verlässliche Verarbeitung und eine Pflege, die du wirklich umsetzen kannst.
+
+Weitere praktische Begriffe für deine Wintergarderobe findest du in [Garderobe & Alltag](/glossar/garderobe-alltag/).

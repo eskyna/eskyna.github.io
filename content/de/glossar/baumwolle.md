@@ -1,8 +1,7 @@
 ---
 title: Was ist Baumwolle?
 term: Baumwolle
-description: Baumwolle ist eine vielseitige Naturfaser, die je nach Webart sportlich, klar, weich
-  oder elegant wirken kann.
+description: Baumwolle ist eine pflanzliche Naturfaser aus den Samenhaaren der Baumwollpflanze. Erfahre, wie Baumwollstoff wirkt, woran du Qualität erkennst und was bei Pflege und Kauf wichtig ist.
 category: Materialien & Details
 tags:
   - baumwolle
@@ -15,11 +14,18 @@ keywords:
   - was ist baumwolle
   - baumwolle kleidung
   - baumwollstoff
+  - baumwollstoff eigenschaften
+  - baumwolle pflege
 weight: 2
 image: images/glossar/baumwolle.png
-image_alt: Editoriale Grafik mit Baumwollblüte, gewebtem Stoff und neutralen Farbfeldern
-history: Baumwolle blickt auf eine jahrtausendealte Geschichte zurück. Bereits vor über 5.000 Jahren wurde sie in Indien, Peru und Ägypten kultiviert. Im 18. und 19. Jahrhundert trieb die Faser die Industrielle Revolution massiv voran und wandelte sich vom kostbaren Luxusgut zur demokratischen Alltagsfaser.
-knowledge: Die Qualität von Baumwolle entscheidet sich maßgeblich durch die Stapellänge. Längere Fasern wie Supima oder ägyptische Baumwolle lassen sich feiner verspinnen, sind reißfester und neigen deutlich weniger zu Pilling.
+image_alt: Editoriale Grafik mit Baumwollblüte, gewebtem Baumwollstoff und neutralen Farbfeldern
+history:
+  - Baumwolle wird seit Jahrtausenden in verschiedenen Weltregionen kultiviert, darunter Indien, Peru und Ägypten.
+  - Im 18. und 19. Jahrhundert prägte die mechanisierte Verarbeitung von Baumwolle die Textilindustrie nachhaltig und machte Baumwollstoffe für breite Bevölkerungsschichten verfügbar.
+knowledge:
+  - Baumwolle ist eine pflanzliche Naturfaser, die aus den Samenhaaren der Baumwollpflanze gewonnen wird.
+  - Die Webart oder Strickart bestimmt, ob Baumwolle glatt, fest, weich, elastisch oder strukturiert wirkt.
+  - Faserlänge, Garnqualität, Stoffdichte und Verarbeitung beeinflussen Haltbarkeit, Oberfläche und Tragegefühl.
 relatedTerms:
   - title: Was ist Bio-Baumwolle
     url: /glossar/bio-baumwolle/
@@ -27,77 +33,146 @@ relatedTerms:
     url: /glossar/popeline/
   - title: Denim
     url: /glossar/denim/
+  - title: Jersey
+    url: /glossar/jersey/
   - title: Leinen
     url: /glossar/leinen/
-  - title: Viskose
-    url: /glossar/viskose/
+  - title: Materialqualität
+    url: /glossar/materialqualitaet/
 faq:
   items:
-    - q: Wie nutze ich „Baumwolle“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Qualität, Oberfläche, Pflege und Stilwirkung. Entscheidend
-        ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Baumwolle“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann
-        bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Welche Eigenschaften hat Baumwolle?
+      a: Baumwolle kann Feuchtigkeit gut aufnehmen und fühlt sich je nach Verarbeitung weich, glatt, fest oder strukturiert an. Sie ist wenig elastisch, kann knitteranfällig sein und bei ungeeigneter Pflege einlaufen.
+    - q: Woran erkennst du gute Baumwolle?
+      a: Achte auf eine gleichmäßige Oberfläche, ein dichtes Gewebe, saubere Nähte und einen Stoff, der zum geplanten Einsatz passt. Entscheidend sind nicht nur die Faser, sondern auch Garn, Webart, Gewicht und Verarbeitung.
+    - q: Ist Baumwolle immer nachhaltig?
+      a: Nein. Baumwolle ist eine Naturfaser, ihre Umweltwirkung hängt aber vom Anbau, der Verarbeitung, Färbung, Nutzung und Pflege ab. Bio-Baumwolle kann ein hilfreicher Hinweis sein, ersetzt aber keinen Blick auf das gesamte Produkt.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-**Baumwolle** (botanisch _Gossypium_) ist eine pflanzliche Naturfaser, die aus den weichen Samenhaaren der Baumwollpflanze gewonnen wird. Als eine der ältesten Kulturpflanzen der Menschheit bildet sie heute das unverzichtbare Fundament der weltweiten Textilproduktion. Ob in feinen Businesshemden, strapazierfähigen Jeans oder weichen T-Shirts, hochwertiger **Baumwollstoff** zeichnet sich durch hervorragende Atmungsaktivität, hohe Reißfestigkeit, extreme Saugfähigkeit und eine hervorragende Hautfreundlichkeit aus.
+**Baumwolle** ist eine pflanzliche Naturfaser aus den weichen Samenhaaren der Baumwollpflanze. Sie gehört zu den wichtigsten Materialien für Kleidung und wird zu Garn versponnen, das anschließend gewebt oder gestrickt wird.
 
-## Einfach erklärt: Was ist Baumwolle?
+Baumwollstoff kann sehr unterschiedlich aussehen und sich ebenso unterschiedlich anfühlen: Ein glattes Hemd aus Popeline wirkt klar und gepflegt, ein T-Shirt aus Jersey weich und unkompliziert, Denim robust und lässig. Nicht allein die Faser bestimmt die Wirkung, sondern vor allem Webart, Stoffdichte, Ausrüstung und Schnitt.
 
-Wer sich fragt, was Baumwolle so besonders macht, stößt schnell auf ihre erstaunliche Wandlungsfähigkeit. Sie ist kein starres Material, sondern passt sich der jeweiligen Verarbeitung an. Nach der Ernte werden die Fasern zu Garnen versponnen und anschließend gewebt oder gestrickt. Je nach Technik verändert sich die gesamte Optik und der [Materialfall](/glossar/materialfall/) deines Kleidungsstücks.
+## Baumwolle einfach erklärt
 
-Durch verschiedene Bindungsarten und Veredelungsprozesse entstehen völlig unterschiedliche Stoffcharaktere. So kann Baumwolle rustikal und schwer wirken, aber auch einen feinen, seidigen Glanz annehmen. Sie ist damit der wandlungsfähigste Rohstoff für deine alltägliche Garderobe.
+Wenn auf dem Etikett Baumwolle steht, sagt das zunächst nur etwas über die Faser aus. Es verrät noch nicht, ob ein Kleidungsstück fest oder dünn, glatt oder rau, elastisch oder formstabil ist.
 
-## Die verschiedenen Gesichter von Baumwollstoff
+Ein Baumwollhemd, eine Jeans und ein Sweatshirt können alle überwiegend aus Baumwolle bestehen, sich aber völlig verschieden tragen. Das liegt an der Konstruktion des Stoffes. Gewebte Baumwolle hat meist eine klarere, weniger dehnbare Struktur. Gestrickte Baumwolle wie [Jersey](/glossar/jersey/) gibt dagegen oft mehr nach und wirkt weicher.
 
-Die Wirkung von **Baumwolle Kleidung** in deinen Outfits hängt maßgeblich davon aus, wie die Faser verarbeitet wurde. Hier sind die wichtigsten Varianten, die du in deiner Garderobe findest:
+Für deine Garderobe ist Baumwolle deshalb so praktisch: Sie kann ein verlässliches [Basic](/glossar/basic/), ein strukturiertes Business-Teil oder ein robustes Freizeitstück sein. Entscheidend ist, ob Material, Gewicht und Oberfläche zu deinem Alltag und deiner gewünschten Wirkung passen.
 
-- **[Popeline](/glossar/popeline/):** Ein dicht gewebter, glatter Stoff mit feiner Querrippe. Er wirkt besonders klar, strukturiert und gepflegt, weshalb er die erste Wahl für klassische Businessblusen ist.
-- **[Denim](/glossar/denim/):** Ein robuster Köperstoff, bei dem meist farbige Kettfäden mit weißen Schussfäden verwebt werden. Er gibt Jeans ihre charakteristische, strukturierte Optik.
-- **[Jersey](/glossar/jersey/):** Eine gestrickte Maschenware, die von Natur aus elastisch ist. Jersey fällt besonders weich und wird für bequeme T-Shirts und Freizeitkleidung genutzt.
-- **[Flanell](/glossar/flanell/):** Ein leicht aufgerauter, sehr weicher Baumwollstoff, der Körperwärme hervorragend speichert und eine gemütliche, herbstliche Note in deinen Look bringt.
-- **[Cord](/glossar/cord/):** Ein samtartiger Stoff mit erhabenen Längsrippen, der Outfits sofort mehr Tiefe und eine fühlbare [Struktur](/glossar/struktur/) verleiht.
-- **[Chambray](/glossar/chambray/):** Ein leichter Stoff in Leinwandbindung mit leicht melierter Optik, der ähnlich wie Denim aussieht, aber wesentlich fließender fällt.
+## Eigenschaften von Baumwolle
 
-## Warum Baumwolle in deiner Garderobe unverzichtbar ist
+Baumwolle ist beliebt, weil sie vielseitig verarbeitet werden kann. Typische Eigenschaften sind:
 
-Aus Sicht der Modehistorie war Baumwolle ein echter Demokratisierer. Durch die Erfindung mechanischer Webstühle im Zuge der Industriellen Revolution wurde langlebige Kleidung plötzlich für breite Bevölkerungsschichten zugänglich.
+- Sie nimmt Feuchtigkeit gut auf.
+- Sie kann je nach Stoffart weich, glatt, fest oder griffig wirken.
+- Sie ist im trockenen Zustand relativ reißfest.
+- Sie besitzt von Natur aus wenig Elastizität.
+- Sie kann knitteranfällig sein.
+- Sie kann bei Wärme und Feuchtigkeit einlaufen, wenn sie nicht entsprechend vorbehandelt oder gepflegt wird.
 
-Heute ist Baumwolle das Rückgrat jeder durchdachten [Garderobenplanung](/glossar/garderobenplanung/) und das Herzstück einer funktionalen [Capsule Wardrobe](/glossar/capsule-wardrobe/). Das Material bringt eine wunderbare optische Ruhe in deine Outfits. Es ist im Vergleich zu Seide oder Wolle unkompliziert in der Pflege, widerstandsfähig gegen mechanische Reibung und lässt sich extrem vielseitig kombinieren. Gerade bei scheinbar schlichten Alltagslooks entscheidet die Qualität der Baumwolle darüber, ob dein Outfit hochwertig oder nachlässig wirkt.
+Diese Eigenschaften sind keine festen Qualitätsurteile. Ein feiner Baumwollstoff für eine Bluse braucht andere Merkmale als ein dichter Stoff für Jeans oder ein schweres T-Shirt. Prüfe daher immer das gesamte [Materialprofil](/glossar/materialprofil/) eines Kleidungsstücks.
 
-## Qualitätsmerkmale: Worauf du beim Kauf achten solltest
+## Welche Baumwollstoffe gibt es?
 
-Nicht jede Baumwolle ist gleich hochwertig. Wenn du in langlebige Kleidungsstücke investieren möchtest, solltest du auf folgende Kriterien achten:
+Baumwolle ist keine einzelne Stoffoberfläche. Aus derselben Faser entstehen durch unterschiedliche Bindungen und Verarbeitungen sehr verschiedene Materialien.
 
-- **Die Stapellänge (Faserlänge):** Dies ist das wichtigste Qualitätsmerkmal. Je länger die einzelnen Baumwollfasern sind, desto feiner und gleichmäßiger lässt sich das Garn verspinnen. Langstapelige Sorten wie Supima, Pima oder ägyptische Baumwolle sind extrem reißfest, weich und neigen kaum zu [Pilling](/glossar/pilling/).
-- **Das [Stoffgewicht](/glossar/stoffgewicht/):** Ein schwererer Stoff hat meist einen schöneren, skulpturalen Stand. Zu dünne Baumwollstoffe leiern schnell aus, verlieren nach wenigen Wäschen ihre [Passform](/glossar/passform/) und wirken oft ungewollt transparent.
-- **Der [Griff](/glossar/griff/):** Fahre mit den Fingern über das Material. Hochwertige Baumwolle fühlt sich weich, kompakt und temperiert an. Minderwertige Qualität erkennst du an einem stumpfen, kratzigen oder unnatürlich harten Griff.
-- **Die Garnfeinheit:** Fein gezwirnte Garne sorgen für ein besonders klares Nahtbild und verhindern, dass sich die Nähte deines Kleidungsstücks nach dem Waschen verziehen.
+### Popeline: glatt und gepflegt
 
-## Nachhaltigkeit und Bewusstsein
+[Popeline](/glossar/popeline/) ist ein dichter, glatter Baumwollstoff mit klarer Oberfläche. Du findest ihn häufig bei Hemden und Blusen. Er wirkt ordentlich, sachlich und leicht strukturiert, weshalb er gut zu Business- und Smart-Casual-Looks passt.
 
-Da der konventionelle Anbau von Baumwolle sehr wasserintensiv ist und oft Pestizide erfordert, lohnt sich der bewusste Blick auf ökologische Alternativen. Hochwertige [Bio-Baumwolle](/glossar/bio-baumwolle/) wird umweltschonend angebaut, schont die Böden und kommt ohne chemische Düngemittel aus. Das schützt nicht nur die Natur, sondern sorgt auch für ein besonders reines Gefühl auf deiner Haut, da keine Schadstoffrückstände im Gewebe verbleiben.
+### Denim: robust und lässig
 
-## Typische Missverständnisse
+[Denim](/glossar/denim/) ist meist ein Baumwollgewebe in Köperbindung mit sichtbarer diagonaler Struktur. Er prägt Jeans, Jeansjacken und Jeansröcke. Je nach Waschung, Gewicht und Schnitt kann Denim clean, workwear-inspiriert oder bewusst vintage wirken.
 
-- **Missverständnis:** Baumwolle knittert immer extrem und sieht schnell unordentlich aus.  
-  **Richtig ist:** Reine Baumwolle besitzt zwar eine geringere Eigenelastizität als Wolle oder Seide, doch die Knitterneigung hängt stark von der Webdichte ab. Hochwertige, dicht gewebte Popeline oder merzerisierte Baumwolle lässt sich leicht bügeln oder mit heißem Wasserdampf [dampfen](/glossar/dampfen/) und behält ihre glatte Struktur erstaunlich gut.
-- **Missverständnis:** Baumwolle ist ein reines Sommermaterial.  
-  **Richtig ist:** Durch dicke Webarten, aufgeraute Oberflächen wie bei Flanell oder das Tragen im Layering-Prinzip wärmt Baumwolle auch im Winter hervorragend, ohne dass du ins Schwitzen gerätst.
+### Jersey: weich und beweglich
+
+[Jersey](/glossar/jersey/) ist eine Maschenware und wird häufig für T-Shirts, Longsleeves oder bequeme Kleider verwendet. Baumwolljersey wirkt meist weich und passt sich durch seine Strickstruktur besser an Bewegung an als ein gewebter Stoff.
+
+### Flanell: weich und warm wirkend
+
+[Flanell](/glossar/flanell/) hat eine leicht aufgeraute Oberfläche. Dadurch fühlt er sich weich an und wirkt optisch wärmer als glatte Baumwolle. Baumwollflanell ist besonders bei Hemden, Pyjamas und entspannten Herbst- und Winterlooks verbreitet.
+
+### Cord: strukturiert und markant
+
+[Cord](/glossar/cord/) erkennst du an seinen erhabenen Längsrippen. Der Stoff gibt einem Outfit sichtbare [Struktur](/glossar/struktur/) und eine eher warme, materielle Wirkung. Je feiner die Rippen, desto zurückhaltender wirkt Cord meist.
+
+### Chambray: leicht mit Denim-Anmutung
+
+[Chambray](/glossar/chambray/) erinnert optisch oft an Denim, ist aber leichter und anders gewebt. Er eignet sich gut für Hemden, Blusen und sommerliche Looks, wenn du die lässige Wirkung von Jeansblau möchtest, aber weniger Stoffgewicht brauchst.
+
+## Baumwolle in Kleidung: Wirkung und Einsatz
+
+Baumwolle ist ein Grundmaterial für eine funktionale [Garderobe](/glossar/garderobe/), weil sie viele Stilrichtungen tragen kann. Ein weißes Baumwollshirt wirkt reduziert, ein Popelinehemd professionell, eine Jeans entspannt und ein Cordblazer charaktervoll.
+
+Wie hochwertig Baumwollkleidung aussieht, hängt nicht von einem Markennamen ab. Wichtiger sind ein stimmiges Stoffgewicht, eine gleichmäßige Oberfläche, ein passender Schnitt und eine saubere [Verarbeitung](/glossar/verarbeitung/).
+
+Gerade bei neutralen Basics fällt Materialqualität schnell auf. Ein dünnes, verzogenes Shirt kann trotz guter Farbe nach kurzer Zeit ungepflegt wirken. Ein dichterer Stoff mit sauberem Kragen, stabilen Nähten und passender [Passform](/glossar/passform/) bleibt dagegen oft länger ein verlässlicher Teil deiner Outfitformeln.
+
+## Baumwollqualität erkennen: Darauf solltest du achten
+
+Nicht jede Baumwolle fühlt sich gleich an oder hält gleich lange. Diese Punkte helfen dir beim Kauf und beim Kleiderschrank-Check.
+
+- **Stoffdichte:** Halte den Stoff gegen das Licht. Ein sehr durchscheinender Stoff ist nicht automatisch schlecht, sollte aber zum Zweck des Kleidungsstücks passen. Bei einem weißen T-Shirt oder einer Hose kann zu viel Transparenz unpraktisch sein.
+
+- **Oberfläche:** Achte auf eine möglichst gleichmäßige Struktur. Auffällige lose Fasern, sehr unruhige Stellen oder schnell sichtbare Knötchen können auf eine weniger widerstandsfähige Oberfläche hindeuten.
+
+- **Griff:** Der [Griff](/glossar/griff/) beschreibt, wie sich ein Stoff anfühlt. Baumwolle kann trocken und fest, weich und glatt oder rau und rustikal sein. Entscheide nicht nach einem pauschalen Ideal, sondern danach, ob sich das Material für dich angenehm anfühlt und zur gewünschten Wirkung passt.
+
+- **Stoffgewicht:** Das [Stoffgewicht](/glossar/stoffgewicht/) beeinflusst Fall, Stand und Blickdichte. Ein schwereres Shirt wirkt oft kompakter, während leichte Baumwolle luftiger und weicher fällt.
+
+- **Nähte und Formstabilität:** Schau auf Kragen, Säume und Schultern. Saubere Nähte und ein ruhiger Verlauf zeigen, ob das Kleidungsstück sorgfältig verarbeitet ist. Ziehe Nähte nicht stark auseinander, sondern prüfe, ob sie gleichmäßig sitzen und keine Spannung erzeugen.
+
+- **Faserangabe:** Langstapelige Baumwolle kann zu feineren und gleichmäßigeren Garnen verarbeitet werden. Begriffe wie Pima, Supima oder ägyptische Baumwolle können Hinweise auf die Faserart sein, ersetzen aber nicht die Prüfung von Stoff und Verarbeitung.
+
+## Baumwolle richtig pflegen
+
+Baumwolle ist oft pflegeleicht, braucht aber trotzdem einen Blick auf das [Pflegeetikett](/glossar/pflegeetikett/). Besonders Wärme kann Farbe, Form und Größe beeinflussen.
+
+Wasche Baumwollkleidung nach den Herstellerangaben und sortiere helle und dunkle Farben. Drehe bedruckte oder empfindlichere Teile auf links, damit Oberfläche und Druck geschont werden. Wenn ein Kleidungsstück zum Einlaufen neigt, ist hohe Trocknerhitze besonders riskant.
+
+Baumwolle kann beim Tragen und Waschen Falten bilden. Mit Bügeln oder [Dampfen](/glossar/dampfen/) lässt sich die Oberfläche meist gut glätten. Bei Hemden, Blusen und klaren Hosen macht das einen sichtbaren Unterschied für die gepflegte Wirkung.
+
+## Baumwolle und Nachhaltigkeit
+
+Baumwolle ist eine Naturfaser, aber nicht automatisch nachhaltig. Der Anbau, der Wasserbedarf, eingesetzte Mittel, Färbung, Verarbeitung und die tatsächliche Nutzungsdauer beeinflussen die Gesamtbilanz eines Kleidungsstücks.
+
+[Bio-Baumwolle](/glossar/bio-baumwolle/) kann eine sinnvolle Orientierung sein, weil sie sich auf bestimmte Anbaustandards bezieht. Sie ist jedoch kein pauschaler Beweis für ein rundum nachhaltiges Produkt. Achte zusätzlich darauf, ob du das Teil oft tragen kannst, ob es gut verarbeitet ist und ob die Pflege seine Lebensdauer unterstützt.
+
+Eine bewusste [nachhaltige Garderobe](/glossar/nachhaltige-garderobe/) entsteht vor allem dann, wenn Kleidung wirklich zu dir, deinem Alltag und deinen vorhandenen Kombinationsstücken passt.
+
+## Typische Missverständnisse über Baumwolle
+
+- **Missverständnis:** Baumwolle ist immer weich.  
+  **Richtig ist:** Baumwolle kann weich sein, aber auch fest, trocken, glatt oder strukturiert wirken. Die Stoffkonstruktion entscheidet mit.
+
+- **Missverständnis:** Baumwolle ist immer atmungsaktiv.  
+  **Richtig ist:** Die Luftdurchlässigkeit hängt auch von Webdichte, Stoffgewicht, Beschichtung und mehreren Kleidungsschichten ab. Ein dichter Baumwollstoff verhält sich anders als leichter Jersey.
+
+- **Missverständnis:** Baumwolle ist immer pflegeleicht.  
+  **Richtig ist:** Viele Baumwollteile sind unkompliziert, können aber knitteren, einlaufen oder Farbe verlieren. Das Pflegeetikett bleibt entscheidend.
+
+- **Missverständnis:** Bio-Baumwolle bedeutet automatisch höchste Qualität.  
+  **Richtig ist:** Bio-Baumwolle beschreibt vor allem den Anbau. Für Haltbarkeit und Tragegefühl zählen außerdem Garn, Stoffdichte, Schnitt und Verarbeitung.
+
+## Praxischeck: Baumwolle vor dem Kauf prüfen
+
+1. **Fühle den Stoff bewusst an.** Passt der Griff zu deinem Einsatz? Ein Hemd darf klarer wirken, ein Shirt kann weicher sein, eine Hose braucht oft mehr Stand.
+
+2. **Prüfe die Blickdichte.** Halte den Stoff gegen das Licht. Besonders bei hellen Teilen solltest du wissen, wie transparent das Material im Alltag wirkt.
+
+3. **Sieh dir Kragen, Säume und Nähte an.** Sie sollten gleichmäßig verarbeitet sein und ohne sichtbare Zugfalten liegen.
+
+4. **Bewege den Stoff leicht.** Knittert er stark, ist das nicht grundsätzlich schlecht. Überlege nur, ob du bereit bist, das Teil zu bügeln oder zu dämpfen.
+
+5. **Denke in Kombinationen.** Frage dich, ob Farbe, Schnitt und Material mit mindestens drei Teilen aus deiner Garderobe funktionieren. Das verbessert deine [Kombinierbarkeit](/glossar/kombinierbarkeit/) und senkt das Risiko eines Fehlkaufs.
 
 ## ESKYNA-Merksatz
 
-Die Qualität deiner Baumwollkleidung zeigt sich nicht auf einem auffälligen Markenlogo, sondern in der Länge der Fasern, der Dichte des Gewebes und der Langlebigkeit der Passform. Gute Baumwolle ist ein leiser Luxus, den du jeden Tag spüren kannst.
+Baumwolle ist nicht einfach nur Baumwolle. Erst Webart, Stoffgewicht, Verarbeitung und Pflege entscheiden, ob ein Kleidungsstück weich, klar, robust oder hochwertig wirkt.
 
-## Praxischeck für deinen Alltag
-
-Möchtest du die Qualität deiner Baumwollkleidung vor dem Kauf oder im eigenen Kleiderschrank prüfen? Nutze diese einfachen Schritte:
-
-1. **Der Knautschtest:** Balle ein Stück des Stoffes für etwa fünf Sekunden fest in deiner Faust zusammen. Hochwertiger Baumwollstoff zeigt danach zwar ein natürliches, weiches [Knitterverhalten](/glossar/knitterverhalten/), springt aber elastisch in seine Form zurück, anstatt starre, scharfe Brüche im Gewebe zu behalten.
-2. **Der Lichttest:** Halte das Kleidungsstück gegen eine Lichtquelle. Siehst du unregelmäßige Verdickungen, lose Faserenden oder wirkt das Gewebe extrem ungleichmäßig durchscheinend? Das deutet auf die Verwendung kurzer, minderwertiger Fasern hin.
-3. **Die Dehnprobe:** Ziehe den Stoff an Säumen und Nähten leicht auseinander. Er sollte elastisch nachgeben und sofort wieder seine ursprüngliche Form annehmen. Bleibt eine dauerhafte Beule zurück, wird das Kleidungsstück beim Tragen schnell ausleiern.
+Weitere passende Begriffe findest du in der [Kategorie Materialien & Details](/glossar/materialien-details/).

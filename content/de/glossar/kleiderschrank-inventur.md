@@ -1,28 +1,29 @@
 ---
 title: Was bedeutet Kleiderschrank-Inventur?
 term: Kleiderschrank-Inventur
-description: Eine Kleiderschrank-Inventur erfasst, was vorhanden ist, was getragen wird, was fehlt
-  und was nicht mehr zur Person passt.
+description: Eine Kleiderschrank-Inventur erfasst deinen Kleidungbestand systematisch. Du erkennst, was du trägst, was fehlt, was zusammenpasst und welche Teile nicht mehr zu deinem Alltag passen.
 category: Garderobe & Alltag
 tags:
   - kleiderschrank inventur
   - garderobe
-  - analyse
-  - ordnung
+  - garderobenplanung
+  - kleiderschrank organisieren
 keywords:
   - kleiderschrank-inventur
   - kleiderschrank inventur
   - garderobe erfassen
+  - kleiderschrank organisieren
+  - kleiderschrank bestandsaufnahme
 weight: 53
 image: images/glossar/kleiderschrank-inventur.png
-image_alt: "Glossar-Illustration zu Kleiderschrank-Inventur"
+image_alt: "Glossar-Illustration einer systematischen Kleiderschrank-Inventur"
 knowledge:
-  - Eine systematische Bestandsaufnahme schützt dich vor Fehlkäufen und strukturiert deine Garderobenlogik.
-  - Die Inventur erfasst Schnitte, Farben und Materialien, um ungenutzte Potenziale im Schrank sichtbar zu machen.
-  - Aus den gewonnenen Daten lässt sich eine funktionierende Alltagsuniform oder eine minimalistische Capsule Wardrobe aufbauen.
+  - Eine systematische Bestandsaufnahme schützt dich vor Fehlkäufen und macht deine Garderobenlogik sichtbar.
+  - Bei der Inventur erfasst du Schnitte, Farben, Materialien, Zustand und Tragehäufigkeit deiner Kleidung.
+  - Die Erkenntnisse helfen dir, eine alltagstaugliche Alltagsuniform oder eine reduzierte Capsule Wardrobe aufzubauen.
 history:
-  - Die Idee der rationalisierten Haushaltsführung und der geplanten Garderobe kam bereits im frühen 20. Jahrhundert auf.
-  - In den 1970er-Jahren professionalisierte sich diese Methode durch die Geburtsstunde der ersten Capsule Wardrobe, die eine präzise Bestandsaufnahme voraussetzte.
+  - Die Idee einer geplanten und rational organisierten Garderobe entwickelte sich im Zusammenhang mit moderner Haushaltsführung im frühen 20. Jahrhundert.
+  - Mit dem Konzept der Capsule Wardrobe gewann die gezielte Bestandsaufnahme der eigenen Kleidung in der zweiten Hälfte des 20. Jahrhunderts weiter an Bedeutung.
 relatedTerms:
   - title: Wardrobe Audit
     url: /glossar/wardrobe-audit/
@@ -34,55 +35,136 @@ relatedTerms:
     url: /glossar/garderobenplanung/
   - title: Garderobenlogik
     url: /glossar/garderobenlogik/
+  - title: Kleiderschrank-Lücke
+    url: /glossar/kleiderschrank-luecke/
 faq:
   items:
     - q: Wie oft sollte ich eine Kleiderschrank-Inventur machen?
-      a: Ein Rhythmus von zweimal im Jahr zum Saisonwechsel ist ideal, um den Überblick über deine Kleidung zu behalten.
-    - q: Was ist der Unterschied zum einfachen Ausmisten?
-      a: Beim Ausmisten wirfst du unpassende Teile weg. Die Inventur geht weiter, sie dokumentiert den Bestand und deckt systematisch Stil-Lücken auf.
+      a: Ein bis zwei Inventuren pro Jahr sind für viele Garderoben sinnvoll, etwa vor einem Saisonwechsel. Zusätzliche kleine Checks helfen nach größeren Veränderungen im Alltag, bei einem neuen Job oder nach einer Stilentwicklung.
+    - q: Was ist der Unterschied zwischen einer Kleiderschrank-Inventur und Ausmisten?
+      a: "Ausmisten konzentriert sich darauf, Unpassendes auszusortieren. Eine Inventur geht weiter: Du dokumentierst deinen Bestand, erkennst Kombinationen, prüfst Tragehäufigkeiten und definierst konkrete Garderobenlücken."
+    - q: Muss ich jedes Kleidungsstück fotografieren?
+      a: Nein. Fotos können hilfreich sein, besonders bei Kombinationsstücken oder selten getragenen Teilen. Für eine erste Inventur reichen jedoch eine übersichtliche Liste und ehrliche Notizen zu Passform, Zustand und Tragehäufigkeit.
 lastmod: "2026-07-09"
 ---
 
 ## Definition
 
-Eine **Kleiderschrank-Inventur** ist die strukturierte, vollständige Erfassung deines gesamten Kleidungsbestands. Sie dient dazu, ungenutzte Stücke zu identifizieren, deine tatsächlichen Tragegewohnheiten zu analysieren und gezielte Lücken im Kleiderschrank aufzudecken.
+Eine **Kleiderschrank-Inventur** ist die systematische Bestandsaufnahme deiner Garderobe. Du erfasst, welche Kleidung, Schuhe und Accessoires du besitzt, wie oft du sie trägst, in welchem Zustand sie sind und wie gut sie zu deinem Alltag passen.
 
-## Einfach erklärt
+Das Ziel ist nicht, möglichst viel auszusortieren. Eine Kleiderschrank-Inventur schafft Überblick. Sie zeigt dir, welche Stücke deine Garderobe wirklich tragen, welche Kombinationen bisher ungenutzt bleiben und wo sinnvolle Ergänzungen fehlen.
 
-Kennst du das Gefühl, vor einem überfüllten Schrank zu stehen und trotzdem nichts Passendes zum Anziehen zu finden? Das liegt meistens an einer fehlenden Übersicht. Im Gegensatz zu einem schnellen, oft emotionalen [Kleiderschrank-Detox](/glossar/kleiderschrank-detox/) geht eine echte Inventur viel tiefer vor.
+## Kleiderschrank-Inventur einfach erklärt
 
-Du wirfst ungeliebte Kleidung nicht einfach nur weg, sondern du dokumentierst systematisch deinen Bestand. Dabei erfasst du Schnitte, Farben, Materialien und den Zustand der einzelnen Stücke. Auf dieser datenbasierten Grundlage kannst du eine funktionierende [Garderobenstrategie](/glossar/garderobenstrategie/) entwickeln und künftig jeden [Fehlkauf](/glossar/fehlkauf/) gezielt vermeiden.
+Ein voller Kleiderschrank bedeutet nicht automatisch, dass du viele funktionierende Outfits hast. Oft fehlen nicht weitere Teile, sondern Klarheit über das, was bereits da ist. Genau hier setzt die Inventur an.
 
-## ESKYNA-Merksatz
+Anders als ein schneller [Kleiderschrank-Detox](/glossar/kleiderschrank-detox/) dokumentierst du nicht nur, was gehen darf. Du betrachtest deinen gesamten Bestand: Farben, Schnitte, Materialien, Passform, Anlass und tatsächliche Tragehäufigkeit. Dadurch erkennst du Muster. Vielleicht trägst du bestimmte Hosen ständig, während mehrere ähnliche Oberteile unberührt bleiben. Vielleicht besitzt du schöne Einzelteile, aber keine passenden Schuhe oder Jacken dazu.
 
-Eine Kleiderschrank-Inventur macht deine Garderobe vom zufälligen Kleiderhaufen zum perfekt aufeinander abgestimmten System.
+Die Inventur macht aus einzelnen Kleidungsstücken eine verständliche Garderobe. Sie ist damit eine wichtige Grundlage für [Garderobenplanung](/glossar/garderobenplanung/), bewusstere Kaufentscheidungen und einen leichteren Alltag vor dem Spiegel.
 
-## Praxischeck
+## Was erfasst du bei einer Kleiderschrank-Inventur?
 
-Wenn du deine eigene Bestandsaufnahme startest, gehe am besten in klaren Schritten vor. So behältst du den Überblick und strukturierst deine Garderobe nachhaltig:
+Eine gute Bestandsaufnahme muss nicht kompliziert sein. Entscheidend ist, dass du die Informationen notierst, die dir später beim Kombinieren und Einkaufen wirklich helfen.
 
-- **Komplett leeren:** Hole alle Kleidungsstücke, Schuhe und Accessoires aus dem Schrank, damit du die gesamte Menge visuell erfasst.
-- **Kategorien bilden:** Sortiere deine Kleidung nach logischen Gruppen wie Hosen, Oberteile, Strick und Jacken.
-- **Tragehäufigkeit prüfen:** Teile die Stücke ehrlich in Favoriten, Gelegenheitskleidung und ungenutzte Schrankhüter ein.
-- **Lücken definieren:** Fehlen dir wichtige Basics, um deine [Lieblingsstücke](/glossar/lieblingsstueck/) im Alltag zu kombinieren? Schreibe diese Lücken auf deine persönliche [Einkaufsliste](/glossar/einkaufsliste/).
+Erfasse pro Teil zum Beispiel:
 
-Durch diesen Prozess verstehst du deine eigene [Garderobenlogik](/glossar/garderobenlogik/) viel besser und erkennst, welche Schnitte und Farben in deinem Alltag wirklich funktionieren.
+- Kategorie, etwa Bluse, Jeans, Strick, Jacke oder Schuh
+- Farbe und Muster
+- Schnitt und Passform
+- Material und Pflegeaufwand
+- Zustand, etwa neuwertig, reparaturbedürftig oder abgetragen
+- Anlass und Einsatzbereich
+- Tragehäufigkeit
+- Kombinationsmöglichkeiten mit vorhandenen Teilen
+
+Gerade die Tragehäufigkeit ist aufschlussreich. Ein günstiges Teil, das du oft trägst, kann für deine Garderobe wertvoller sein als ein teures Stück, das nie zum Einsatz kommt. So verstehst du besser, welche [Lieblingsstücke](/glossar/lieblingsstueck/) deine echte Alltagsgarderobe bilden.
+
+## Warum eine Kleiderschrank-Inventur sinnvoll ist
+
+Eine Inventur schafft Ordnung, aber ihr eigentlicher Nutzen geht weiter. Du triffst Entscheidungen nicht mehr aus einem vagen Gefühl heraus, sondern auf Basis deines tatsächlichen Bestands.
+
+Sie hilft dir dabei:
+
+- ungenutzte Kleidung und Doppelungen zu erkennen
+- funktionierende Outfitformeln sichtbar zu machen
+- [Kleiderschrank-Lücken](/glossar/kleiderschrank-luecke/) konkret zu benennen
+- Fehlkäufe durch klarere [Kaufkriterien](/glossar/kaufkriterien/) zu reduzieren
+- deine Garderobe besser auf Alltag, Beruf und besondere Anlässe abzustimmen
+- vorhandene Teile gezielter zu kombinieren
+
+Wenn du beispielsweise mehrere Blazer besitzt, aber kaum passende Unterteile oder Schuhe dazu, liegt die Lösung nicht in einem weiteren Blazer. Die Inventur zeigt dir, welches verbindende [Kombinationsstück](/glossar/kombinationsstueck/) tatsächlich fehlt.
+
+## Kleiderschrank-Inventur in 6 Schritten
+
+### 1. Alles sichtbar machen
+
+Hole Kleidung, Schuhe und Accessoires aus dem Schrank oder arbeite zumindest Kategorie für Kategorie. So übersiehst du keine Stücke, die in hinteren Ecken, Kisten oder anderen Räumen liegen.
+
+### 2. Nach Kategorien sortieren
+
+Sortiere etwa in Oberteile, Hosen, Röcke, Kleider, Strick, Jacken, Mäntel, Schuhe und Accessoires. Diese Ordnung zeigt schnell, ob du sehr viele ähnliche Teile besitzt oder ob eine Kategorie kaum abgedeckt ist.
+
+### 3. Jedes Teil ehrlich prüfen
+
+Frage dich bei jedem Kleidungsstück:
+
+- Passt es mir heute bequem?
+- Trage ich es tatsächlich?
+- Passt es zu meinem Alltag und meinen Anlässen?
+- Entspricht es meiner gewünschten [Wirkung](/glossar/wirkung/)?
+- Lässt es sich mit mindestens mehreren vorhandenen Teilen kombinieren?
+
+Es geht nicht darum, jeder Frage mit Ja zu antworten. Ein besonderes Anlassstück darf selten getragen werden. Wichtig ist, dass sein Platz in deiner Garderobe klar ist.
+
+### 4. Tragehäufigkeit markieren
+
+Teile deine Kleidung zum Beispiel in häufig getragen, gelegentlich getragen und kaum getragen ein. Bei selten getragenen Teilen lohnt sich ein zweiter Blick: Liegt es an der Passform, am Material, an fehlenden Kombinationen oder daran, dass das Stück nicht mehr zu deinem Stil passt?
+
+### 5. Lücken und Doppelungen notieren
+
+Schreibe nur konkrete Ergänzungen auf. Statt „mehr Oberteile“ ist „ein schlichtes Oberteil, das zu drei vorhandenen Hosen passt“ deutlich hilfreicher. Daraus entsteht eine realistische [Einkaufsliste](/glossar/einkaufsliste/), keine Wunschsammlung ohne Bezug zu deinem Schrank.
+
+### 6. Entscheidungen umsetzen
+
+Nicht alles muss sofort gehen. Teile, die du reparieren, anpassen oder gezielt neu kombinieren möchtest, kannst du getrennt lagern und mit einer Frist versehen. Was dauerhaft nicht passt, nicht getragen wird und keine Funktion erfüllt, darfst du weitergeben, verkaufen oder fachgerecht entsorgen.
+
+## Unterschied zwischen Inventur, Kleiderschrank-Check und Wardrobe Audit
+
+Die Begriffe werden oft ähnlich verwendet, setzen aber unterschiedliche Schwerpunkte.
+
+Eine **Kleiderschrank-Inventur** ist vor allem die vollständige Erfassung deines Bestands. Sie beantwortet die Frage: Was besitze und trage ich eigentlich?
+
+Ein [Kleiderschrank-Check](/glossar/kleiderschrank-check/) bewertet stärker, ob einzelne Teile zu deiner aktuellen Passform, deinem Stil und deinem Alltag passen.
+
+Ein [Wardrobe Audit](/glossar/wardrobe-audit/) ist meist noch umfassender. Es verbindet Bestandsaufnahme, Stilziele, Nutzung, Lücken und konkrete Strategien für die weitere Garderobe.
+
+In der Praxis können sich diese Schritte überschneiden. Die Inventur ist jedoch fast immer der sinnvolle Anfang.
+
+## Typische Fehler bei der Kleiderschrank-Inventur
+
+- **Du inventarisierst nur sichtbare Kleidung.**  
+  Schuhe, Taschen, Accessoires, Anlasskleidung und Kleidung außerhalb der Saison gehören ebenfalls dazu. Erst der vollständige Überblick zeigt deinen echten Bestand.
+
+- **Du bewertest nur nach „behalten oder weg“.**  
+  Manche Teile brauchen eine Reparatur, eine Anpassung oder ein neues Styling. Notiere diese Optionen getrennt, statt vorschnell zu entscheiden.
+
+- **Du kaufst direkt nach der Inventur ein.**  
+  Lass deine Liste kurz liegen. Prüfe dann, ob die notierten Teile wirklich mehrere bestehende Outfits ergänzen und zu deinen [Kaufkriterien](/glossar/kaufkriterien/) passen.
+
+- **Du ignorierst deinen heutigen Alltag.**  
+  Kleidung für ein vergangenes Leben, eine frühere Rolle oder einen seltenen Anlass darf vorhanden sein. Sie sollte aber nicht den größten Platz in deiner Alltagsgarderobe einnehmen.
+
+## ESKYNA Merksatz
+
+Eine Kleiderschrank-Inventur zeigt dir nicht nur, was in deinem Schrank hängt. Sie zeigt dir, was deine Garderobe im Alltag wirklich für dich leisten kann.
 
 ## Beratungsblick
 
-Aus Sicht der Stilberatung ist die Inventur das Fundament für jede optische Veränderung. Ohne zu wissen, was du besitzt, kannst du keine sinnvolle [Garderobenplanung](/glossar/garderobenplanung/) betreiben. Oft schlummern in den Tiefen des Schranks vergessene Kombinationen, die wir durch einen frischen Blick wiederbeleben können.
+In der Stilberatung ist die Kleiderschrank-Inventur die Grundlage für sinnvolle Veränderungen. Erst wenn klar ist, welche Farben, Formen und Materialien du bereits nutzt, lässt sich eine stimmige [Garderobenlogik](/glossar/garderobenlogik/) entwickeln.
 
-Besonders beim Aufbau einer reduzierten [Capsule Wardrobe](/glossar/capsule-wardrobe/) oder einer praktischen [Alltagsuniform](/glossar/alltagsuniform/) ist die Bestandsaufnahme unerlässlich. Sie nimmt dir den täglichen Entscheidungsstress vor dem Spiegel und sorgt für eine entspannte Routine am Morgen.
+Besonders hilfreich ist sie, wenn du eine [Capsule Wardrobe](/glossar/capsule-wardrobe/) aufbauen, eine persönliche [Alltagsuniform](/glossar/alltagsuniform/) entwickeln oder deinen Stil nach einer Veränderung im Beruf oder Alltag neu ausrichten möchtest. Du musst dafür nicht weniger Persönlichkeit tragen. Du sorgst nur dafür, dass deine vorhandene Kleidung besser zusammenarbeitet.
 
-Mehr praktische Tipps für deine Alltagsgarderobe findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/).
-
-## Entscheidungsfrage
-
-Frage dich bei jedem Teil während deiner Kleiderschrank-Inventur: Unterstützt dieses Kleidungsstück meine gewünschte [Wirkung](/glossar/wirkung/) und passt es zu meinem heutigen Lebensstil?
-
-Sobald du merkst, dass ein Kleidungsstück weder zu deinem Alltag noch zu deiner Persönlichkeit passt, darf es weichen. Nutze diese Erkenntnis als wertvolles Feedback für deine zukünftigen [Kaufkriterien](/glossar/kaufkriterien/). So wird deine Garderobe Schritt für Schritt zu einer echten Erleichterung im Alltag.
-
-Ein idealer nächster Schritt für die Vertiefung deiner Garderobenstruktur ist ein professioneller [Kleiderschrank-Check](/glossar/kleiderschrank-check/) oder ein umfassendes [Wardrobe Audit](/glossar/wardrobe-audit/).
+Weitere praktische Begriffe findest du in der Kategorie [Garderobe & Alltag](/glossar/garderobe-alltag/).
 
 ## Verwandte Begriffe
 
@@ -91,3 +173,4 @@ Ein idealer nächster Schritt für die Vertiefung deiner Garderobenstruktur ist 
 - [Kleiderschrank-Detox](/glossar/kleiderschrank-detox/)
 - [Garderobenplanung](/glossar/garderobenplanung/)
 - [Garderobenlogik](/glossar/garderobenlogik/)
+- [Kleiderschrank-Lücke](/glossar/kleiderschrank-luecke/)

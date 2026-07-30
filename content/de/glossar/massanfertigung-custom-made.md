@@ -1,72 +1,140 @@
 ---
 title: "Was ist Maßanfertigung/Custom-made?"
 term: "Maßanfertigung/Custom-made"
-description: "Maßanfertigung bezeichnet Kleidung, die für eine konkrete Person bestellt und an individuelle Maße oder Wünsche angepasst wird."
+description: "Maßanfertigung bezeichnet Kleidung, die für dich auf Bestellung gefertigt und an individuelle Maße, Passform oder Gestaltungswünsche angepasst wird. Erfahre den Unterschied zwischen Bespoke, Made-to-measure und Custom-made."
 category: "Garderobe & Alltag"
 image: images/glossar/massanfertigung-custom-made.png
-image_alt: "Glossar-Illustration zu Maßanfertigung/Custom-made"
+image_alt: "Illustration einer Maßanfertigung mit Maßband, Schnittmuster und Stoff"
 history: "Bis weit in das 19. Jahrhundert hinein war fast jedes Kleidungsstück eine Maßanfertigung. Die industrielle Revolution brachte standardisierte Konfektionsgrößen und veränderte den Markt grundlegend. Heute erlebt Custom-made vor allem durch digitale Maßkonfektion eine technologische Renaissance."
-knowledge: "Echte Maßschneiderei (Bespoke) erfordert ein völlig neues, exklusiv für dich gezeichnetes Schnittmuster. Bei der klassischen Maßkonfektion (Made-to-measure) wird dagegen ein bereits bestehender Grundschnitt an deine Körpermaße angepasst."
+knowledge: "Echte Maßschneiderei, auch Bespoke genannt, arbeitet mit einem exklusiv für dich entwickelten Schnittmuster. Bei der Maßkonfektion, auf Englisch Made-to-measure, wird dagegen ein bestehender Grundschnitt an deine Körpermaße angepasst. Custom-made kann je nach Anbieter sowohl Passformänderungen als auch reine Gestaltungsmöglichkeiten bezeichnen."
 relatedTerms:
   - title: Passform
     url: /glossar/passform/
-  - title: Silhouette
-    url: /glossar/silhouette/
-  - title: Nahtzugabe
-    url: /glossar/nahtzugabe/
-  - title: Hosenanzug
-    url: /glossar/hosenanzug/
+  - title: Bewegungszugabe
+    url: /glossar/bewegungszugabe/
   - title: Verarbeitung
     url: /glossar/verarbeitung/
+  - title: Nahtzugabe
+    url: /glossar/nahtzugabe/
   - title: Prêt-à-porter/Ready-to-wear
     url: /glossar/pret-a-porter-ready-to-wear/
+  - title: Investitionsteil
+    url: /glossar/investitionsteil/
 keywords:
-  - "massanfertigung custom made"
-  - "was ist maßanfertigung/custom-made"
-  - "maßanfertigung/custom-made"
+  - "maßanfertigung"
+  - "custom made"
+  - "was ist maßanfertigung"
+  - "maßanfertigung einfach erklärt"
+  - "bespoke und made-to-measure unterschied"
+  - "maßkonfektion"
 lastmod: "2026-07-18"
+faq:
+  items:
+    - q: "Was ist der Unterschied zwischen Maßanfertigung und Maßkonfektion?"
+      a: "Bei einer Maßanfertigung im Sinn von Bespoke entsteht ein neues Schnittmuster für dich. Bei Maßkonfektion wird ein bestehender Grundschnitt an deine Maße und je nach Anbieter an weitere Wünsche angepasst."
+    - q: "Ist Custom-made immer maßgeschneidert?"
+      a: "Nein. Custom-made kann auch nur bedeuten, dass du Stoff, Knöpfe, Futter oder andere Details auswählst. Frage deshalb immer, ob und welche Körpermaße in die Fertigung einfließen."
+    - q: "Wann lohnt sich Maßanfertigung?"
+      a: "Sie kann sich lohnen, wenn dir eine verlässliche Passform, bestimmte Schnittwünsche oder ein langfristig tragbares Kleidungsstück wichtig sind. Entscheidend sind neben den Maßen auch Schnitt, Material, Verarbeitung und Anproben."
 ---
 
 ## Definition
 
-Unter dem Begriff Maßanfertigung beziehungsweise Custom-made versteht man Kleidungsstücke, die nicht nach standardisierten Konfektionsgrößen auf Vorrat produziert, sondern auf Bestellung für einen bestimmten Kunden angefertigt werden. Der Grad der Individualisierung reicht dabei von der einfachen Anpassung einzelner Maße bis hin zum handwerklich einzigartigen Entwurf.
+**Maßanfertigung**, auch **Custom-made** genannt, bezeichnet Kleidung, die für dich auf Bestellung gefertigt wird. Anders als [Prêt-à-porter oder Ready-to-wear](/glossar/pret-a-porter-ready-to-wear/) entsteht sie nicht als standardisierte Ware auf Vorrat.
 
-## Der feine Unterschied: Bespoke, Made-to-measure und Custom-made
+Wie individuell das Kleidungsstück tatsächlich ist, hängt vom Verfahren ab. Es kann von einer angepassten Standardform bis zu einem vollständig neu entwickelten Schnittmuster reichen. Deshalb lohnt es sich, Begriffe wie Bespoke, Made-to-measure und Custom-made genau zu unterscheiden.
 
-Suchst du nach Kleidung, die wie angegossen sitzt? Wenn Standardgrößen zwicken oder rutschen, rückt die Maßanfertigung schnell in den Fokus. Doch Vorsicht bei den Begriffen: Um einen enttäuschenden Fehlkauf zu vermeiden, solltest du die drei Stufen der Individualisierung kennen.
+## Maßanfertigung einfach erklärt
 
-### 1. Bespoke (Vollmaß)
+Bei Konfektionskleidung wählst du eine vorhandene Größe und lässt sie bei Bedarf ändern. Bei einer Maßanfertigung stehen deine Maße, deine Haltung, dein Bewegungsalltag und deine Wünsche früher im Prozess im Mittelpunkt.
 
-Das ist die traditionelle Königsklasse der Schneiderei. Ein Schneider zeichnet ein komplett eigenes Schnittmuster nur für deinen Körper. Es folgen mehrere Anproben mit einem gehefteten Zwischenmodell aus Probistoff, bevor dein [Anzug](/glossar/anzug/), Mantel oder Kleid fertiggestellt wird. Jedes Detail wird exakt auf deine Haltung abgestimmt.
+Das Ziel ist nicht, deinen Körper an eine vorgegebene Größe anzupassen. Stattdessen wird die Kleidung so geplant, dass sie zu dir und deinem Einsatzbereich passt. Ein Businessanzug braucht etwa andere Anforderungen als ein Abendkleid, ein Mantel oder ein [Hosenanzug](/glossar/hosenanzug/).
 
-### 2. Made-to-measure (Maßkonfektion)
+Wichtig ist: Maßarbeit bedeutet nicht automatisch, dass ein Kleidungsstück bequem oder gelungen ist. Eine gute [Passform](/glossar/passform/) entsteht erst, wenn Schnitt, [Bewegungszugabe](/glossar/bewegungszugabe/), Material und Anproben zusammenpassen.
 
-Hier dient ein bereits vorhandener Grundschnitt als Basis. Dieser feste Schnitt wird an deinen wichtigsten Körperpunkten digital oder manuell modifiziert. Das Verfahren ist schneller sowie kostengünstiger als das Vollmaß, liefert aber dennoch eine hervorragende, auf dich abgestimmte [Passform](/glossar/passform/).
+## Bespoke, Made-to-measure und Custom-made: die Unterschiede
 
-### 3. Custom-made (Personalisierung)
+### Bespoke: individuelle Maßschneiderei
 
-Häufig bezeichnet dieser Begriff im modernen Online-Handel lediglich das Konfigurieren von optischen Merkmalen. Du wählst Knöpfe, Kragenformen, Futterstoffe oder Farben aus, während die eigentliche Passform auf einer Standardgröße basiert. Achte beim Kauf genau darauf, welche Leistungen der Anbieter tatsächlich inkludiert.
+Bespoke gilt als umfassendste Form der Maßanfertigung. Für dich wird ein eigener Schnitt entwickelt, der sich an deinen Körpermaßen und deiner Haltung orientiert. Je nach Kleidungsstück und Werkstatt gehören Anproben zum Prozess, damit Sitz und Linienführung weiter präzisiert werden können.
 
-## Warum sich maßgeschneiderte Kleidung für dich lohnt
+Diese Form der Maßschneiderei bietet besonders viel Spielraum bei Schnitt, Proportion, Stoff und Details. Sie ist handwerklich aufwendig und braucht Zeit.
 
-Eine gute Maßanfertigung ist eine bewusste Investition in deine Garderobe. Sie schont deine Nerven bei der Ankleide und zahlt sich über Jahre hinweg aus:
+### Made-to-measure: Maßkonfektion
 
-- **Hervorragender Sitz:** Sie gleicht natürliche Asymmetrien deines Körpers harmonisch aus und setzt deine [Silhouette](/glossar/silhouette/) optimal in Szene.
-- **Hohe Langlebigkeit:** Durch die meisterhafte [Verarbeitung](/glossar/verarbeitung/) und großzügige [Nahtzugaben](/glossar/nahtzugabe/) im Inneren lässt sich das Kleidungsstück bei körperlichen Veränderungen jederzeit vom Schneider anpassen.
-- **Gezielte Stil-Klarheit:** Weil du Stoffe und Schnitte selbst bestimmst, passt das Teil perfekt zu deiner bestehenden [Garderobenlogik](/glossar/garderobenlogik/) und verhindert ungetragene Schrankhüter.
+Bei Made-to-measure dient ein vorhandener Grundschnitt als Ausgangspunkt. Dieser wird anhand deiner Maße angepasst. Häufig kannst du zusätzlich Stoff, Futter, Knöpfe, Kragen, Taschen oder andere Ausstattungsdetails auswählen.
 
-## Worauf du beim Kauf achten solltest
+Maßkonfektion ist meist weniger individuell als Bespoke, kann aber eine sehr passende Lösung sein, wenn dir Konfektionsgrößen regelmäßig nicht gut passen oder du ein klares Kleidungsstück für deinen Alltag suchst.
 
-Damit deine erste Maßanfertigung, beispielsweise ein eleganter [Hosenanzug](/glossar/hosenanzug/), ein voller Erfolg wird, solltest du folgende Punkte beachten:
+### Custom-made: individuell konfiguriert
 
-- **Schnittmethode erfragen:** Lass dir genau erklären, ob ein bestehender Schnitt angepasst oder ein neues Muster für dich erstellt wird.
-- **Änderungsreserven prüfen:** Achte auf eine breite [Nahtzugabe](/glossar/nahtzugabe/) an den Hauptnähten. Nur so bleibt das Kleidungsstück anpassungsfähig, wenn sich dein Körper im Laufe der Jahre verändert.
-- **Tragegewohnheiten besprechen:** Teile dem Schneider mit, wie du dich im Alltag bewegst. Sitzt du viel am Schreibtisch oder bist du ständig unterwegs? Diese Dynamik beeinflusst die nötige Bequemlichkeitsweite deines Kleidungsstücks.
+Custom-made ist kein geschützter, einheitlich verwendeter Begriff. Manche Anbieter meinen damit eine maßliche Anpassung. Andere bezeichnen damit vor allem die Personalisierung eines bestehenden Modells.
 
-## Typisches Missverständnis
+Du kannst dann zum Beispiel Farbe, Stoff, Knöpfe oder Futter auswählen, während die Basispassform einer Standardgröße entspricht. Lies die Produktbeschreibung genau und frage nach, ob Maße genommen, ein Schnitt angepasst oder ausschließlich Details konfiguriert werden.
 
-Viele Menschen glauben, dass eine Maßanfertigung durch die genauen Körpermaße automatisch perfekt sitzen muss. Doch Maße sind nur nackte Zahlen. Erst das handwerkliche Geschick bei der Schnittführung, die richtige Einschätzung deines Stands sowie die Wahl des passenden Tuchs entscheiden am Ende über die tatsächliche Wirkung am Körper.
+## Warum Maßanfertigung sinnvoll sein kann
+
+Eine gute Maßanfertigung kann ein bewusst gewähltes [Investitionsteil](/glossar/investitionsteil/) sein. Sie ist vor allem dann interessant, wenn du Kleidung lange tragen möchtest und klare Ansprüche an Sitz, Komfort und Wirkung hast.
+
+- **Passform:** Der Schnitt kann auf deine Proportionen und deine gewünschte Silhouette abgestimmt werden.
+- **Beweglichkeit:** Deine typischen Bewegungen, etwa Sitzen, Gehen oder häufiges Arbeiten mit den Armen, können bei der Planung berücksichtigt werden.
+- **Stil:** Du kannst Material, Farbe und Details gezielter auf deine Garderobe und deinen Anlass abstimmen.
+- **Verarbeitung:** Bei guter [Verarbeitung](/glossar/verarbeitung/) können Konstruktion, Innenleben und Details zur Langlebigkeit des Kleidungsstücks beitragen.
+- **Änderbarkeit:** Je nach Schnitt und vorhandenen [Nahtzugaben](/glossar/nahtzugabe/) lassen sich manche Kleidungsstücke später noch anpassen. Das solltest du vor dem Kauf konkret erfragen.
+
+## Für welche Kleidungsstücke lohnt sich Maßarbeit?
+
+Maßanfertigung ist besonders naheliegend bei Teilen, deren Wirkung stark vom Sitz abhängt. Dazu zählen etwa Anzüge, Sakkos, Mäntel, Hemden, Hosen, Kleider oder festliche Kleidung.
+
+Auch wenn du in Konfektion regelmäßig zwischen Größen liegst, bestimmte Proportionen berücksichtigen möchtest oder ein Kleidungsstück für einen wiederkehrenden beruflichen Anlass suchst, kann Maßkonfektion sinnvoll sein. Entscheidend ist nicht der Begriff auf dem Etikett, sondern ob das Teil später oft getragen wird und sich in deine Garderobe einfügt.
+
+## Worauf du bei einer Maßanfertigung achten solltest
+
+### Frage nach der Schnittmethode
+
+Lass dir klar erklären, ob ein neuer Schnitt für dich entsteht oder ein vorhandener Grundschnitt angepasst wird. So weißt du, welche Art von Individualisierung du tatsächlich kaufst.
+
+### Besprich deinen Alltag
+
+Nenne den Anlass und deine Tragegewohnheiten konkret. Trägst du das Teil im Büro, auf Reisen, bei Feierlichkeiten oder auf der Bühne? Bewegst du dich viel oder sitzt du lange? Diese Informationen sind für Schnitt und Komfort relevant.
+
+### Prüfe Material und Fall
+
+Ein Schnitt kann nur mit dem passenden Material seine Wirkung entfalten. Ein fester Stoff verhält sich anders als ein fließender, elastischer oder leichter Stoff. Achte deshalb nicht nur auf die Optik, sondern auch auf Griff, Gewicht und [Materialfall](/glossar/materialfall/).
+
+### Plane Anproben bewusst ein
+
+Anproben helfen, den Sitz im Stehen und in Bewegung zu beurteilen. Prüfe dabei Schultern, Brust, Taille, Ärmel, Rücken und Saumlänge. Bei Hosen sind Bund, Gesäß, Schritt und Beinlinie besonders wichtig.
+
+### Kläre Änderungen und Pflege
+
+Frage vorab, ob spätere Änderungen möglich sind, wie lange die Fertigung dauert und welche Pflege das Material braucht. Diese Punkte bestimmen mit, ob das Kleidungsstück langfristig gut funktioniert.
+
+## Typische Missverständnisse
+
+- **Missverständnis: Maßanfertigung bedeutet automatisch Bespoke.**  
+  **Besser:** Maßanfertigung ist ein Oberbegriff. Bespoke, Maßkonfektion und personalisierte Standardmodelle unterscheiden sich deutlich im Aufwand und im Grad der Anpassung.
+
+- **Missverständnis: Exakte Maße garantieren perfekten Sitz.**  
+  **Besser:** Maße sind die Grundlage. Erst Schnittkonstruktion, Bewegungszugabe, Material und sorgfältige Anproben entscheiden darüber, wie sich Kleidung am Körper anfühlt und bewegt.
+
+- **Missverständnis: Custom-made heißt immer, dass nach meinen Körpermaßen gefertigt wird.**  
+  **Besser:** Der Begriff kann auch reine Designoptionen meinen. Kläre deshalb vor der Bestellung, welche Anpassungen wirklich enthalten sind.
+
+- **Missverständnis: Maßanfertigung lohnt sich nur für formelle Kleidung.**  
+  **Besser:** Sie kann bei jedem Kleidungsstück sinnvoll sein, das du häufig trägst und dessen Passform für dich besonders wichtig ist.
+
+## Praxischeck vor der Bestellung
+
+- Ist klar benannt, ob es sich um Bespoke, Made-to-measure oder eine Personalisierung handelt?
+- Werden deine Maße, deine Haltung und dein Bewegungsalltag berücksichtigt?
+- Gibt es eine Anprobe oder eine klare Regelung für notwendige Änderungen?
+- Passt das Material zu deinem Alltag, dem Anlass und deinem Pflegeaufwand?
+- Lässt sich das Kleidungsstück mit vorhandenen Teilen kombinieren?
+- Würdest du es oft genug tragen, damit es als Investition für dich sinnvoll ist?
 
 ## ESKYNA-Merksatz
 
-> Eine Maßanfertigung beginnt mit deinen Körpermaßen, wird aber erst durch den passenden Schnitt, sorgfältige Anproben und deine persönlichen Tragegewohnheiten zu einem echten Lieblingsstück.
+> Maßanfertigung ist nicht nur eine Frage der Maße. Sie funktioniert dann gut, wenn Schnitt, Beweglichkeit, Material und dein Alltag zusammen gedacht werden.
+
+Weitere passende Begriffe findest du in der Kategorie [Garderobe & Alltag](/glossar/garderobe-alltag/).

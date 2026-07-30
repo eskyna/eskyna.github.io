@@ -1,12 +1,24 @@
 <!doctype html>
 <html lang="{{ .Site.Language.Locale | default "de-DE" }}">
   <head>
-    <title>{{ .Permalink }}</title>
+    {{ $aliasTitle := printf "Redirecting to ESKYNA | Style Coaching" }}
+    {{ with .Permalink }}
+      {{ $hostless := replaceRE "^https?://[^/]+" "" . }}
+      {{ if and (ne $hostless "") (ne $hostless "/") }}
+        {{ $aliasTitle = printf "Redirecting to %s | ESKYNA" (strings.Trim $hostless "/") }}
+        {{ $aliasTitle = partial "seo-document-title.html" $aliasTitle }}
+      {{ else }}
+        {{ $aliasTitle = partial "seo-document-title.html" $aliasTitle }}
+      {{ end }}
+    {{ else }}
+      {{ $aliasTitle = partial "seo-document-title.html" $aliasTitle }}
+    {{ end }}
+    <title>{{ $aliasTitle }}</title>
     <link rel="canonical" href="{{ .Permalink }}" />
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="robots" content="noindex, follow" />
     <meta name="keywords" content='{{ i18n "alias_keywords" }}' />
     <meta name="copyright" content="© 2026 Natalia Kleemann, Stefan Rohe" />
     <meta name="audience" content="all" />

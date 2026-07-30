@@ -1,5 +1,6 @@
 ---
 title: Shop
+seoTitle: "ESKYNA Shop | Products & Merch"
 description: ESKYNA Shop - selected products and merchandise
 products:
   - title: ESKYNA clover as a 3D sculpture

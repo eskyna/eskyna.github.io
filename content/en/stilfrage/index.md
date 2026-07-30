@@ -1,6 +1,6 @@
 ---
 title: Ask Natalia a style question
-seoTitle: Ask Natalia
+seoTitle: "Ask Natalia a style question | ESKYNA"
 description:
   Unsure about a garment, outfit, or purchase? Ask Natalia your style question, including live while
   shopping.

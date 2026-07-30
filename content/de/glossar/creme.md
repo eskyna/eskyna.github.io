@@ -1,7 +1,7 @@
 ---
-title: Creme im Stil erklärt
+title: "Creme: Farbe, Wirkung und Kombination"
 term: Creme
-description: Creme ist die weichere Alternative zu Weiß und wirkt ruhig, warm und elegant, wenn Nuance und Material stimmen.
+description: Creme ist ein warmer, gebrochener Weißton zwischen Weiß und Beige. Erfahre, wie Creme in Kleidung wirkt, wem die Nuance steht und wie du sie stilvoll kombinierst.
 category: Farb-Lexikon
 color_hex: "#EFE2D1"
 tags:
@@ -9,105 +9,176 @@ tags:
   - farbe
   - farbberatung
   - neutrale farben
+  - creme kleidung
 keywords:
   - creme kleidung
   - creme kombinieren
   - creme farbberatung
   - creme statt weiß
+  - was ist creme
+  - creme farbe
 weight: 11
 image: images/glossar/creme.png
 image_alt: Editoriale Grafik mit Creme-Nuancen, ruhigen Farbfeldern und feiner Stoffstruktur
 relatedTerms:
   - title: Weiß
     url: /glossar/weiss/
+  - title: Cremeweiß
+    url: /glossar/cremeweiss/
+  - title: Off-White
+    url: /glossar/off-white/
+  - title: Ecru
+    url: /glossar/ecru/
   - title: Beige
     url: /glossar/beige/
-  - title: Camel
-    url: /glossar/camel/
   - title: Neutrale Farben
     url: /glossar/neutrale-farben/
   - title: Unterton
     url: /glossar/unterton/
-  - title: Off-White
-    url: /glossar/off-white/
-  - title: Cremeweiß
-    url: /glossar/cremeweiss/
-  - title: Ecru
-    url: /glossar/ecru/
+  - title: Ton-in-Ton
+    url: /glossar/ton-in-ton/
 knowledge:
-  - Creme schmeichelt warmen Hautuntertönen deutlich mehr als kühles Reinweiß.
-  - Die Eleganz von Cremetönen hängt stark von der Qualität und Struktur der verwendeten Textilien ab.
-  - Ton-in-Ton-Kombinationen mit Creme erzeugen eine besonders harmonische, luxuriöse Bildwirkung.
+  - Creme ist kein einheitlich definierter Farbton, sondern umfasst warme, gebrochene Weißnuancen mit gelben oder beigen Anteilen.
+  - Die Wirkung von Creme hängt stark von Unterton, Helligkeit, Material und der Nähe zum Gesicht ab.
+  - Helle Cremetöne machen Stoffstruktur, Transparenz und Pflege besonders sichtbar.
 history:
-  - Historisch war Creme die Farbe unfeiner, weil ungebleichter Naturfasern wie Seide und Wolle.
-  - In den 1920er und 1930er Jahren wandelte sich Creme durch den Einfluss von Sport- und Freizeitmode zum Statussymbol der Oberschicht.
+  - Ungebleichte Naturfasern wie Wolle und Seide zeigen häufig gebrochene Weißtöne, die heutigen Cremenuancen ähneln.
+  - Cremefarbene Kleidung wurde im 20. Jahrhundert zu einem wichtigen Bestandteil eleganter Sport, Reise und Freizeitgarderobe.
 faq:
   items:
-    - q: Wie nutze ich „Creme“ im Alltag?
-      a: Nutze den Begriff als Prüfpunkt für Farbwirkung, Nuance und Kombinierbarkeit. Entscheidend ist, ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Creme“ für jeden Stil gleich?
-      a: Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann bei einer anderen zu streng, zu laut oder zu zufällig erscheinen.
+    - q: Wem steht Creme?
+      a: Creme wirkt oft besonders harmonisch bei warmen oder neutralen Hautuntertönen. Entscheidend ist jedoch die konkrete Nuance. Teste sie bei Tageslicht direkt am Gesicht und achte darauf, ob dein Teint frischer oder fahler wirkt.
+    - q: Was ist der Unterschied zwischen Creme, Off-White und Ecru?
+      a: Creme hat meist einen warmen Gelb oder Beigeanteil. Off-White ist ein weicher Weißton, der je nach Variante neutraler oder kühler wirken kann. Ecru erinnert stärker an ungebleichte Naturfasern und wirkt oft natürlicher sowie etwas dunkler.
+    - q: Kann ich Creme mit Weiß kombinieren?
+      a: Ja, wenn die Nuancen bewusst gewählt sind. Ein klares Weiß neben sehr warmem Creme erzeugt einen sichtbaren Kontrast. Ruhiger wirkt der Look, wenn beide Töne eine ähnliche Wärme haben oder unterschiedliche Materialien die Kombination klar gliedern.
+    - q: Ist Creme im Business passend?
+      a: Ja. Eine cremefarbene Bluse, ein Feinstrick oder ein hochwertiges Oberteil kann im Business weicher wirken als Reinweiß. Kombiniere Creme für einen klaren Eindruck mit Navy, Anthrazit, Braun oder dunklem Grau.
 lastmod: "2026-07-09"
 ---
 
-## Das Besondere an Creme in der Mode
+## Was ist Creme?
 
-Creme ist weit mehr als nur ein schmutziges Weiß. Es ist ein warmer, sanfter Weißton mit einer feinen Nuance von Gelb oder Beige. Im Spektrum der [neutralen Farben](/glossar/neutrale-farben/) nimmt Creme eine Schlüsselrolle ein. Es liegt elegant zwischen strahlendem [Weiß](/glossar/weiss/) und natürlichem [Beige](/glossar/beige/).
+**Creme** ist ein heller, warmer und gebrochener Weißton mit gelben, beigen oder leicht vanilligen Anteilen. Die Farbe liegt zwischen [Weiß](/glossar/weiss/) und [Beige](/glossar/beige/) und gehört zu den vielseitigsten [neutralen Farben](/glossar/neutrale-farben/).
 
-Im Gegensatz zu reinem Weiß, das oft hart oder klinisch wirken kann, bringt Creme eine optische Weichheit in deine Garderobe. Die Farbe wirkt nahbar, warm und unaufdringlich edel. Genau deshalb ist Creme ein zeitloser Liebling für alle, die eine harmonische und unkomplizierte Garderobe aufbauen möchten.
+Anders als Reinweiß wirkt Creme weniger hart und weniger kontrastreich. Die Nuance bringt Weichheit in ein Outfit, kann hochwertig, ruhig und elegant aussehen und eignet sich sowohl für Alltag als auch für Business und festliche Looks. Wie gut Creme wirkt, entscheidet aber immer die genaue Nuance, dein [Unterton](/glossar/unterton/) und das Material.
 
-## Warum Creme statt Weiß? Der Blick der Farbberatung
+## Creme einfach erklärt: Warum die Farbe so beliebt ist
 
-In der professionellen [Farbberatung](/glossar/farbberatung/) ist Creme oft der Retter für Gesichter, die in reinem Weiß blass oder müde wirken. Ob dir Creme besonders gut steht, entscheidet der [Unterton](/glossar/unterton/) deiner Haut.
+Creme ist nicht einfach „schmutziges Weiß“. Es ist ein bewusst warmer Farbton, der hell bleibt, aber weniger kühl und leuchtend als Reinweiß erscheint. Gerade nah am Gesicht kann das einen großen Unterschied machen.
 
-Wenn dein Hautunterton warm ist, bringt Creme deinen Teint zum Strahlen. Es gleicht Schatten unter den Augen optisch aus und schmiegt sich harmonisch an warme Haar- und Augenfarben an. Während reines Weiß das Licht sehr hart reflektiert und Fältchen oder Rötungen betonen kann, wirkt Creme wie ein sanfter Weichzeichner direkt an deinem Gesicht.
+Ein cremefarbener Pullover wirkt beispielsweise weicher als derselbe Pullover in strahlendem Weiß. Eine Bluse in Creme kann einem dunklen Anzug die Strenge nehmen. Ein Mantel in Creme zieht Aufmerksamkeit auf sich, ohne so grafisch und deutlich zu wirken wie ein weißer Mantel.
 
-## Die Modegeschichte: Von Naturfasern zum Statussymbol
+Die Farbe passt besonders gut in Garderoben, die auf ruhige Übergänge, natürliche Materialien und gute Kombinierbarkeit setzen. Sie ist deshalb ein wichtiger Grundton für [klassische](/glossar/klassisch/), minimalistische und elegante Stilrichtungen, funktioniert aber ebenso in romantischen, modernen oder lässigen Looks.
 
-Historisch betrachtet war Creme ursprünglich gar keine bewusst gefärbte Nuance. Es war schlicht der natürliche Zustand von edlen Rohmaterialien wie ungebleichter [Seide](/glossar/seide/) und feiner Schafwolle. Da das Bleichen von Stoffen aufwendig und teuer war, zeigten frühe Kleidungsstücke oft diesen sanften Naturton.
+## Creme oder Weiß: Was ist der Unterschied?
 
-In den 1920er und 1930er Jahren wandelte sich das Image der Farbe grundlegend. Mit dem Aufkommen von exklusiver Freizeitkleidung und mondänem Resort-Style wurde Creme zum Symbol für müßige Eleganz. Wer cremefarbene Kleidung trug, zeigte damit, dass er sich feine, schmutzempfindliche Stoffe leisten konnte. Heute gilt die Farbe als absolute Kernfarbe des minimalistischen Luxus und ist untrennbar mit dem modernen [Quiet Luxury](/glossar/quiet-luxury/) Stil verbunden.
+Der wichtigste Unterschied zwischen Creme und Weiß ist die Farbtemperatur.
 
-## Die wichtigsten Nuancen im Überblick
+[Reinweiß](/glossar/reinweiss/) wirkt klar, hell und oft kühl. Es erzeugt einen deutlichen Kontrast zur Haut und kann sehr frisch aussehen. Creme enthält dagegen Wärme. Dadurch wirkt die Farbe sanfter, ruhiger und meist weniger dominant.
 
-Nicht jedes Creme ist gleich. Je nach Mischung verändert sich die Farbtemperatur und damit auch die Wirkung auf dein Outfit:
+Ob Creme oder Weiß besser für dich funktioniert, lässt sich nicht allein über einen Farbtyp entscheiden. Halte beide Nuancen bei Tageslicht an dein Gesicht:
 
-- **[Cremeweiß](/glossar/cremeweiss/):** Die hellste Variante. Sie wirkt besonders sauber und kommt dem klassischen Weiß am nächsten, bleibt dabei aber angenehm warm.
-- **[Ecru](/glossar/ecru/):** Diese Nuance zeigt einen deutlich sichtbaren, leicht gräulichen oder gelblichen Anteil. Sie wirkt sehr natürlich und unperfekt.
-- **[Off-White](/glossar/off-white/):** Ein gedämpftes Weiß, das oft eine Spur kühler ausfällt als klassisches Creme, aber immer noch weicher als Reinweiß ist.
-- **Vanille:** Ein sehr warmer Cremeton mit einem sichtbaren Gelbanteil, der besonders sonnig und freundlich wirkt.
+- Lässt Creme deinen Teint ebenmäßiger und ruhiger wirken, kann die Wärme der Nuance gut zu dir passen.
+- Wirkt Creme gelblich, stumpf oder schwer, könnte ein neutraleres Weiß, [Off-White](/glossar/off-white/) oder ein kühler gebrochener Ton besser sein.
+- Wirkt Reinweiß hart, betont Schatten oder lässt deine Haut blasser erscheinen, ist Creme oft die harmonischere Alternative.
 
-## Creme kleidung richtig kombinieren
+Die beste Farbe ist diejenige, die dein Gesicht unterstützt und zu deiner gewünschten Wirkung passt.
 
-Creme ist ein echtes Kombinationstalent, das sich mühelos in bestehende Looks einfügt. Hier sind einige bewährte Kombinationen für deinen Alltag:
+## Welche Creme-Nuancen gibt es?
 
-- **Creme mit Beige oder [Camel](/glossar/camel/):** Diese Kombination ist der Inbegriff von Eleganz. Wenn du dich [monochrom](/glossar/monochrom/) in diesen ähnlichen Tönen kleidest, entsteht ein sehr harmonisches und teures Gesamtbild.
-- **Creme mit [Navy](/glossar/navy/) oder [Schwarz](/glossar/schwarz/):** Ein wunderbarer Kontrast für das Büro. Creme mildert die Strenge dunkler Töne ab und wirkt frischer als klassisches Weiß.
-- **Creme mit [Gold](/glossar/gold/):** Da Creme einen warmen Unterton hat, harmoniert es perfekt mit goldenem Schmuck. Die feinen Reflexe werten selbst ein einfaches Outfit sofort auf.
-- **Creme mit Pastelltönen:** Zusammen mit weichen Farben wie [Apricot und Pfirsich](/glossar/apricot-und-pfirsich/) entfaltet Creme eine sehr feminine und leichte Wirkung, die ideal für das Frühjahr und den Sommer ist.
+Creme ist eine Farbfamilie, keine exakt festgelegte Einzelfarbe. Begriffe auf Etiketten sind nicht einheitlich verwendet. Deshalb lohnt sich immer der direkte Vergleich mit anderen hellen Tönen.
 
-## Das Material bestimmt die Eleganz
+### Cremeweiß
 
-Weil Creme eine so helle und ruhige Farbe ist, lenkt sie den Blick automatisch auf die Textur des Stoffes. Das Material entscheidet hier maßgeblich über die Wertigkeit:
+[Cremeweiß](/glossar/cremeweiss/) ist sehr hell und deutlich warm, bleibt aber nah an Weiß. Die Nuance wirkt sauber, weich und elegant. Sie eignet sich gut für Blusen, Hemden, feinen Strick und festliche Stoffe.
 
-In weicher [Wolle](/glossar/wolle/) oder edlem [Kaschmir](/glossar/kaschmir/) wirkt Creme gemütlich, schützend und luxuriös. Ein cremefarbener [Wollmantel](/glossar/wollmantel/) zieht im grauen Winter die Blicke an, ohne laut zu sein. In fließender Seide oder glänzendem [Satin](/glossar/satin/) fängt die Farbe das Licht sanft ein und eignet sich hervorragend für festliche Anlässe. Strukturiertes [Leinen](/glossar/leinen/) oder feste Baumwolle in Creme wirken im Sommer herrlich unkompliziert und frisch.
+### Ecru
 
-## Creme im Business und Alltag einsetzen
+[Ecru](/glossar/ecru/) erinnert häufig an ungebleichte Naturfasern. Der Ton kann gelblicher, gräulicher oder natürlicher wirken als klassisches Creme. Ecru passt besonders stimmig zu Leinen, Baumwolle, Denim und strukturierten Materialien.
 
-Im beruflichen Umfeld kannst du Creme hervorragend nutzen, um Kompetenz und Nahbarkeit zu verbinden. Ersetze die klassische weiße Bluse durch eine Seidenbluse in Creme. Das wirkt im Zusammenspiel mit einem dunklen Hosenanzug weicher und moderner.
+### Off-White
 
-Im Alltag wertet ein einfacher cremefarbener [Cardigan](/glossar/cardigan/) oder ein hochwertiger Pullover eine schlichte [Jeans](/glossar/jeans/) sofort auf. So kreierst du einen mühelos gut angezogenen Look, der weder overdressed noch langweilig wirkt.
+[Off-White](/glossar/off-white/) ist ein weicher Weißton, der je nach Variante warm, neutral oder leicht kühl ausfallen kann. Die Bezeichnung sagt daher allein noch nicht, ob dir die Farbe steht. Prüfe den tatsächlichen Farbton statt nur das Etikett.
+
+### Vanillige Cremetöne
+
+Sehr warme Cremetöne mit sichtbarem Gelbanteil wirken sonnig und freundlich. Sie harmonieren oft schön mit warmen Erdtönen, können aber direkt am Gesicht zu gelb wirken, wenn dein Erscheinungsbild eher kühl oder gedämpft ist.
+
+## Creme in der Farbberatung
+
+In der [Farbberatung](/glossar/farbberatung/) zählt bei Creme vor allem die Nähe zum Gesicht. Ein heller Farbton reflektiert Licht auf Haut, Augen und Haare. Deshalb kann eine minimale Veränderung von Weiß zu Creme sichtbar verändern, ob dein Teint frisch oder müde wirkt.
+
+Warme und viele neutrale Erscheinungsbilder finden in Creme oft eine angenehmere Alternative zu sehr klarem Weiß. Kühleren Erscheinungsbildern stehen dagegen häufig neutralere, rosigere oder leicht graustichige gebrochene Weißtöne besser. Das ist keine starre Regel, denn Helligkeit, Kontrast und persönlicher Geschmack spielen ebenfalls eine Rolle.
+
+Wenn du unsicher bist, vergleiche mehrere helle Töne direkt miteinander. Nimm Creme, Off-White, Ecru und Reinweiß in ähnlichem Material. So erkennst du schneller, welche Nuance dein Gesicht klar und lebendig wirken lässt.
+
+## Creme kombinieren: Diese Farben funktionieren besonders gut
+
+Creme ist eine starke Basisfarbe, weil sie Ruhe schafft und anderen Farben Raum gibt. Je nach Kombination kann sie natürlich, klar, luxuriös oder kontrastreich wirken.
+
+### Creme mit Beige, Camel und Braun
+
+Creme mit [Camel](/glossar/camel/), Beige, Taupe oder Braun ergibt eine warme, ruhige Farbharmonie. Die Kombination wirkt besonders stimmig, wenn du unterschiedliche Helligkeiten und Oberflächen einsetzt, etwa einen glatten Creme-Strick zu einer braunen Wildledertasche.
+
+Ein Look aus ähnlichen hellen und mittleren Naturtönen ist eine Form von [Ton-in-Ton](/glossar/ton-in-ton/). Damit die Kombination nicht flach wirkt, sollten sich Materialien, Texturen oder Nuancen sichtbar unterscheiden.
+
+### Creme mit Navy, Anthrazit oder Schwarz
+
+Mit [Navy](/glossar/navy/), Anthrazit oder [Schwarz](/glossar/schwarz/) entsteht ein klarer Kontrast. Creme nimmt dunklen Farben etwas Härte und wirkt oft weicher als eine reinweiße Kombination.
+
+Für das Büro funktioniert etwa eine cremefarbene Bluse zu einer dunkelblauen Anzughose. Im Alltag wirkt ein cremefarbener Strick zu schwarzer Jeans oder einem dunklen Rock unkompliziert und gepflegt.
+
+### Creme mit Denim
+
+[Denim](/glossar/denim/) und Creme sind eine verlässliche Alltagskombination. Helles Creme macht Blue Jeans ruhiger und wertiger, ohne förmlich zu wirken. Ein cremefarbenes T-Shirt, ein Cardigan oder ein Hemd ergänzt Jeans deshalb besonders leicht.
+
+### Creme mit Gold und warmen Akzenten
+
+[Gold](/glossar/gold/) harmoniert häufig gut mit warmem Creme. Auch Cognac, Terracotta, Oliv oder Rostorange können schöne Akzente setzen. Achte darauf, dass nicht jede Creme gleich warm ist. Je gelblicher der Stoff, desto stärker prägt er die Gesamtwirkung.
+
+### Creme mit Pastellfarben
+
+Weiche Pastelltöne wie [Apricot und Pfirsich](/glossar/apricot-und-pfirsich/), Salbeigrün oder helles Blau wirken neben Creme leicht und freundlich. Für einen klareren Look helfen definierte Schnitte, glatte Stoffe oder ein dunkler Schuh als optischer Anker.
+
+## Das Material entscheidet über die Wirkung von Creme
+
+Bei Creme fällt die Materialqualität besonders auf. Die helle, ruhige Fläche zeigt Struktur, Knitter, Fussel, Transparenz und Verarbeitung deutlicher als viele dunkle Farben.
+
+In [Wolle](/glossar/wolle/) und [Kaschmir](/glossar/kaschmir/) wirkt Creme weich, warm und hochwertig. Ein cremefarbener [Wollmantel](/glossar/wollmantel/) hat eine präsente, aber ruhige Wirkung und kann dunkle Winterlooks aufhellen.
+
+[Leinen](/glossar/leinen/) in Creme wirkt natürlich und sommerlich. Die typische Struktur gehört hier zur Optik. In glatter Baumwolle oder Popeline erscheint Creme klarer und gepflegter. [Satin](/glossar/satin/) und Seide verleihen der Farbe eine festlichere, lichtreflektierende Wirkung.
+
+Bei sehr feinen oder hellen Stoffen ist die [Opazität bei Stoffen](/glossar/opazitaet/) wichtig. Prüfe bei Tageslicht, ob Nähte, Taschen oder Unterwäsche durchscheinen. Ein gutes Futter oder eine passende Unterwäsche kann entscheidend sein.
+
+## Creme im Alltag, Business und zu festlichen Anlässen
+
+Im Alltag ist Creme ein unkomplizierter Aufheller. Ein cremefarbener [Cardigan](/glossar/cardigan/), ein T-Shirt oder ein Pullover passt zu Jeans, dunklen Stoffhosen, Röcken und vielen Naturtönen. Die Farbe wirkt angezogen, ohne sofort formell zu sein.
+
+Im Business ersetzt Creme die klassische weiße Bluse, wenn du einen weicheren und weniger kontrastreichen Eindruck möchtest. Besonders stimmig wirkt die Farbe zu Navy, Anthrazit, Taupe oder Schokoladenbraun. Klare Schnitte und blickdichte Materialien sorgen dafür, dass der Look professionell bleibt.
+
+Für festliche Kleidung eignet sich Creme vor allem über Material und Silhouette. Ein cremefarbenes Kleid aus fließendem Stoff, ein Satinrock oder ein feiner Anzug können elegant wirken. Bei Hochzeiten solltest du allerdings beachten, ob Creme als Weißnähe unerwünscht sein könnte. Orientiere dich an Einladung, Dresscode und dem Rahmen des Anlasses.
+
+## Typische Fehler bei cremefarbener Kleidung
+
+- **Creme nur nach dem Etikett kaufen:** Die Begriffe Creme, Ecru und Off-White werden von Marken unterschiedlich verwendet. Entscheidend ist der tatsächliche Farbton an deinem Gesicht.
+
+- **Glatte und strukturierte Töne unbedacht mischen:** Creme auf Creme kann sehr edel aussehen. Wirken die Nuancen jedoch zufällig unterschiedlich, entsteht schnell ein unruhiger Eindruck. Wiederhole einen Ton oder arbeite bewusst mit Materialkontrast.
+
+- **Transparenz übersehen:** Helle Stoffe können bei Bewegung, Gegenlicht oder Dehnung durchscheinender wirken als in der Umkleide. Prüfe das Kleidungsstück vor dem Kauf unter realistischem Licht.
+
+- **Pflege unterschätzen:** Creme zeigt Flecken, Vergilbung und Pilling schneller. Achte auf das [Pflegeetikett](/glossar/pflegeetikett/) und behandle helle Materialien sorgfältig.
+
+## Praxischeck: Passt Creme in deine Garderobe?
+
+- Halte das Kleidungsstück bei Tageslicht direkt unter dein Gesicht.
+- Vergleiche es mit Reinweiß, Ecru oder Off-White, statt nur eine einzelne Nuance zu betrachten.
+- Prüfe Stoffdichte, Transparenz und sichtbare Nähte.
+- Überlege, zu welchen Hosen, Röcken, Schuhen und Jacken aus deiner Garderobe du die Farbe mindestens dreimal tragen würdest.
+- Achte darauf, ob die Wärme des Tons zu deinen vorhandenen Accessoires und Basisfarben passt.
 
 ## ESKYNA-Merksatz
 
-Creme ist leise Eleganz für jeden Tag. Die Farbe wirkt genau dann am stärksten, wenn du ihre warme Nuance bewusst wählst und mit ausdrucksstarken Materialien kombinierst.
+Creme ist nicht einfach weniger Weiß. Die richtige Cremenuance bringt Wärme und Ruhe in dein Outfit, ohne an Klarheit zu verlieren.
 
-## Praxischeck für deinen Kleiderschrank
-
-Wenn du wissen möchtest, ob ein cremefarbenes Kleidungsstück in deine Garderobe passt, mache den schnellen Test:
-
-- Halte das Kleidungsstück bei Tageslicht an dein Gesicht. Wirkt deine Haut frisch oder lässt der Gelbanteil der Farbe dich müde wirken?
-- Prüfe die Blickdichte. Gerade bei hellen Stoffen ist eine gute Webdichte wichtig, damit Unterwäsche nicht ungewollt durchscheint.
-- Fühle das Material. Da Creme die Struktur des Stoffes betont, sollte die Oberfläche hochwertig und gut gepflegt sein.
-
-Suchst du nach weiteren Inspirationen zu harmonischen Farbkombinationen? In der Kategorie [Farb-Lexikon](/glossar/kategorie/farb-lexikon/) erfährst du, wie du deine Garderobe mit System aufbaust.
+Weitere Begriffe rund um Farben und ihre Wirkung findest du im [Farb-Lexikon](/glossar/farb-lexikon/).

@@ -1,93 +1,160 @@
 ---
 title: Colour Blocking
 term: Colour Blocking
-description: Erfahre, wie du Colour Blocking stilsicher im Alltag trägst. Lerne die historischen Wurzeln und praktische Styling-Tipps für harmonische Kontraste kennen.
-category: Materialien & Details
+description: Colour Blocking kombiniert klare Farbflächen zu einem grafischen Outfit. Erfahre, wie du Farben stimmig kombinierst, Proportionen steuerst und den Look alltagstauglich trägst.
+category: Farbberatung & Farbe
 tags:
   - colour blocking
-  - materialien
+  - farbkombinationen
+  - farbkontrast
+  - styling
 keywords:
   - colour blocking
-  - was bedeutet colour blocking
-  - colour blocking stilberatung
+  - was ist colour blocking
+  - colour blocking einfach erklärt
+  - colour blocking outfits
   - farbflächen kombinieren
-  - outfit farben
+  - farben im outfit kombinieren
 weight: 1
 image: images/glossar/colour-blocking.png
-image_alt: Editoriale Glossar-Grafik zu Colour Blocking mit ruhigen Farbfeldern und feiner Linienführung
-history: Colour Blocking stammt ursprünglich aus der bildenden Kunst des frühen 20. Jahrhunderts, inspiriert durch Piet Mondrian und die De-Stijl-Bewegung. In die Modewelt zog der Trend 1965 ein, als Yves Saint Laurent sein weltberühmtes Mondrian-Kleid entwarf. Später prägte der Stil die lebendige Sport- und Streetwear der 1980er-Jahre.
-knowledge: Dieser Stil kombiniert zwei oder mehr kontrastierende Vollfarben in klaren, geometrischen Flächen. Er verzichtet bewusst auf kleinteilige Muster und fokussiert sich rein auf die optische Aufteilung der Silhouette durch Farbblöcke.
+image_alt: Editoriale Glossar-Grafik zu Colour Blocking mit klar abgegrenzten Farbfeldern und feiner Linienführung
+history:
+  - Colour Blocking hat Wurzeln in der abstrakten Kunst des frühen 20. Jahrhunderts, besonders in den geometrischen Farbflächen von Piet Mondrian und der De-Stijl-Bewegung.
+  - 1965 übertrug Yves Saint Laurent die Bildsprache Mondrians auf seine bekannten Jerseykleider in A-Linie.
+  - In den 1980er-Jahren prägten kontrastreiche Farbflächen auch Sportmode und Streetwear.
+knowledge:
+  - Colour Blocking kombiniert zwei oder mehr einfarbige, klar voneinander abgegrenzte Farbflächen.
+  - Die Wirkung entsteht durch Farbkontrast, Flächenverteilung und Schnitt, nicht durch kleinteilige Muster.
+  - Farbgrenzen lenken den Blick und können die wahrgenommene Proportion eines Outfits sichtbar verändern.
 relatedTerms:
-  - title: Akzentfarbe
-    url: /glossar/akzentfarbe/
+  - title: Farbkreis
+    url: /glossar/farbkreis/
   - title: Farbharmonie
     url: /glossar/farbharmonie/
   - title: Komplementärkontrast
     url: /glossar/komplementaerkontrast/
+  - title: Colour Blocking
+    url: /glossar/colour-blocking/
+  - title: Drittel-Regel im Outfit
+    url: /glossar/drittel-regel-im-outfit/
   - title: Sandwich-Methode
     url: /glossar/sandwich-methode/
 faq:
   items:
-    - q: Wie viele Farben sollte ich beim Colour Blocking maximal kombinieren?
-      a: Für den Alltag empfiehlt sich eine Kombination aus zwei bis maximal drei verschiedenen Farben. Eine dritte Farbe funktioniert am besten als dezent gesetzte Akzentfarbe, beispielsweise durch Tasche oder Schuhe.
+    - q: Wie viele Farben sollte ich beim Colour Blocking kombinieren?
+      a: Mit zwei Farben entsteht ein klarer, einfacher Look. Drei Farben funktionieren ebenfalls gut, wenn eine Farbe nur als kleiner Akzent in Schuhen, Tasche oder Schmuck erscheint. Mehr Farben brauchen eine besonders bewusste Flächenverteilung.
     - q: Funktioniert Colour Blocking auch mit gedämpften Farben?
-      a: Ja. Während klassisches Colour Blocking auf sehr klare, leuchtende Farben setzt, wirkt die Kombination aus gedämpften Tönen wie Salbeigrün, Taupe oder Rostorange deutlich weicher und alltagstauglicher.
+      a: Ja. Klassisches Colour Blocking arbeitet oft mit klaren, leuchtenden Farben. Gedämpfte Töne wie Salbeigrün, Taupe oder Rostorange erzeugen denselben grafischen Effekt, wirken aber ruhiger und leichter im Alltag tragbar.
+    - q: Sind gemusterte Teile für Colour Blocking geeignet?
+      a: Der typische Look lebt von großen, einfarbigen Flächen. Ein kleines, ruhiges Muster kann funktionieren, sollte aber nicht mit den Farbblöcken konkurrieren. Große Prints und Farbverläufe schwächen die klare Wirkung meist ab.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Definition: Was ist Colour Blocking?
 
-**Colour Blocking** beschreibt das gezielte Kombinieren von zwei oder mehr klar voneinander abgegrenzten Farbfeldern in einem Outfit. Statt auf Muster setzt diese Stylingmethode auf monochrome, meist kontrastreiche Flächen, die eine grafische und moderne Dynamik erzeugen.
+**Colour Blocking** bezeichnet das gezielte Kombinieren von zwei oder mehr klar abgegrenzten, meist einfarbigen Farbflächen in einem Outfit. Statt Muster oder Farbverläufe stehen Kontrast, Flächenverteilung und eine grafische Gesamtwirkung im Mittelpunkt.
 
-## Einfach erklärt: Was bedeutet Colour Blocking?
+Ein Outfit mit einer orangefarbenen Bluse und einer kobaltblauen Hose ist ein klassisches Beispiel. Colour Blocking kann laut und leuchtend wirken, aber auch mit gedeckten Farben ruhig, modern und elegant aussehen.
 
-Während florale Prints oder Streifen Bewegung über kleinteilige Zeichnungen in dein Outfit bringen, wirkt Colour Blocking rein über die Kraft der [Farbe](/glossar/farbe/). Stell dir dein Outfit wie eine Leinwand vor, die in klare geometrische Abschnitte unterteilt ist. Du kombinierst beispielsweise eine weite Hose in intensivem Kobaltblau mit einer Bluse in sattem Orange.
+## Colour Blocking einfach erklärt
 
-Diese Technik funktioniert sowohl mit kontrastierenden Komplementärfarben als auch mit Tönen aus derselben Farbfamilie. Weil keine verspielten Muster ablenken, liegt der Fokus vollkommen auf der Form, dem [Schnitt](/glossar/schnitt/) und der Leuchtkraft der ausgewählten Nuancen. Der Look wirkt dadurch extrem aufgeräumt, selbstbewusst und modern.
+Beim Colour Blocking behandelst du Kleidung wie zusammenhängende Farbflächen. Ein Oberteil, eine Hose, ein Rock, ein Mantel oder auch Schuhe können jeweils einen eigenen Farbblock bilden. Entscheidend ist, dass die Farben deutlich voneinander getrennt bleiben und nicht durch dominante Muster unruhig werden.
 
-## Die historische Herkunft: Von der Leinwand auf den Laufsteg
+Die Wirkung entsteht allein über [Farbe](/glossar/farbe/), Schnitt und Verhältnis der Flächen. Deshalb sehen klare Silhouetten, ruhige Materialien und einfache Kombinationen besonders stark aus. Eine weite Hose in Blau mit einem schmalen Top in Orange wirkt beispielsweise anders als dieselben Farben in einem gemusterten, stark dekorierten Outfit.
 
-Aus modehistorischer Sicht ist dieser Stil untrennbar mit der Kunst des frühen 20. Jahrhunderts verbunden. Die geometrischen Rasterbilder des niederländischen Malers Piet Mondrian und die kubistischen Einflüsse der Moderne legten das Fundament.
+Colour Blocking ist nicht automatisch schrill. Du kannst kräftige [Komplementärfarben](/glossar/komplementaerfarben/) wie Blau und Orange kombinieren oder mit verwandten, gedämpften Tönen arbeiten. Auch Beige und Bordeaux, Salbeigrün und Rostorange oder Rosa und Rot können klare Farbblöcke bilden.
 
-Der eigentliche Modedurchbruch gelang im Jahr 1965. Der französische Designer Yves Saint Laurent entwarf eine Kollektion von Jerseykleidern in [A-Linie](/glossar/a-linie/), die direkt auf Mondrians Kunstwerken basierten. Diese minimalistische Verbindung aus weißem Grund, schwarzen Linien und Primärfarben revolutionierte die Modewelt. In den 1980er-Jahren wanderte der Look schließlich in die Sportmode und prägte mit leuchtenden Neonfarbflächen die Ästhetik einer ganzen Generation.
+## Die Geschichte von Colour Blocking in der Mode
 
-## Warum Colour Blocking in der Stilberatung wichtig ist
+Colour Blocking ist eng mit der abstrakten Kunst des frühen 20. Jahrhunderts verbunden. Besonders die geometrischen Flächen, schwarzen Linien und Primärfarben von Piet Mondrian wurden zu einer wichtigen visuellen Referenz.
 
-Das Verständnis für diese Kombinationstechnik hilft dir dabei, deine Garderobe lebendiger zu gestalten, ohne dass du dafür ständig neue Kleidung kaufen musst. Du lernst, vorhandene Basics völlig neu zu betrachten.
+1965 machte Yves Saint Laurent diese Bildsprache in der Mode weltweit sichtbar. Seine Mondrian-Kleider aus Jersey übersetzten die klaren Farbflächen in tragbare, grafische Designs. Die Kleider hatten eine einfache [A-Linie](/glossar/a-linie/) und rückten Farbe sowie Konstruktion in den Vordergrund.
 
-Wenn du weißt, wie große Farbflächen miteinander interagieren, steuerst du die Wahrnehmung deiner Proportionen ganz gezielt. Da das Auge harten Farbübergängen folgt, kannst du mit Colour Blocking Linien setzen, die deine [Silhouette](/glossar/silhouette/) optisch strecken oder bestimmte Bereiche betonen.
+In den 1980er-Jahren wurde Colour Blocking erneut prägend. Leuchtende Kontraste fanden sich besonders in Sportmode und Streetwear. Bis heute taucht das Prinzip regelmäßig in Kollektionen auf, weil es Farbe unmittelbar, modern und selbstbewusst inszeniert.
 
-## Worauf du beim Styling achten solltest
+## Wie wirkt Colour Blocking im Outfit?
 
-Damit der Look harmonisch wirkt und nicht nach einem zufälligen Zusammenschnitt aussieht, helfen dir einige bewährte Regeln der Farbmetrik:
+Große Farbflächen ziehen den Blick schnell an und strukturieren den Körper sichtbar. Damit ist Colour Blocking ein wirkungsvolles Werkzeug für [Blickführung](/glossar/blickfuehrung/) und [Proportion](/glossar/proportion/).
 
-- **Der Farbkreis als Werkzeug:** Nutze den [Farbkreis](/glossar/farbkreis/), um stimmige Kombinationen zu finden. Ein direkter [Komplementärkontrast](/glossar/komplementaerkontrast/) wie Blau und Orange wirkt extrem dynamisch. Harmonischer und ruhiger wirken Farben, die im Farbkreis nebeneinanderliegen.
-- **Die Drittel-Regel nutzen:** Vermeide es, deinen Körper optisch genau in der Mitte zu teilen, da dies die Silhouette stauchen kann. Kombiniere lieber im Verhältnis von einem Drittel zu zwei Dritteln, etwa durch eine hoch geschnittene Hose und ein kürzeres Oberteil.
-- **Die Sandwich-Methode anwenden:** Verwende die [Sandwich-Methode](/glossar/sandwich-methode/), um die Balance zu wahren. Wenn deine Schuhe die Farbe deines Oberteils widerspiegeln, während die Hose eine völlig andere Farbe hat, wirkt das Outfit sofort durchdacht.
-- **Ruhe reinbringen:** Nutze eine neutrale [Akzentfarbe](/glossar/akzentfarbe/) wie Creme, Schwarz oder Grau bei Jacke, Gürtel oder Schuhen, um dem Auge einen Ruhepol zu bieten.
+Eine helle oder leuchtende Farbe rückt optisch stärker in den Vordergrund. Dunklere oder ruhigere Farben treten meist etwas zurück. Du kannst diese Wirkung bewusst einsetzen, wenn du einen Bereich hervorheben oder eine klare vertikale Linie schaffen möchtest.
 
-## Typische Missverständnisse
+Wichtig ist nicht, Körperbereiche zu kaschieren. Es geht darum, die Wirkung zu wählen, die sich für dich stimmig anfühlt. Wenn dir ein Bereich besonders gefällt, kann dort ein heller oder intensiver Farbblock sitzen. Wenn du einen Look ruhiger gestalten möchtest, gib der dominanten Farbe mehr Fläche und setze die zweite Farbe kleiner ein.
 
-**Missverständnis:** Colour Blocking erfordert immer extrem knallige Farben.  
-**Besser:** Das Prinzip funktioniert genauso hervorragend mit gedeckten Erdtönen oder sanften Pastellfarben. Salbeigrün kombiniert mit einem warmen Terrakotta erzeugt denselben grafischen Effekt, wirkt jedoch im Alltag deutlich sanfter.
+## Colour Blocking Farben kombinieren
 
-**Missverständnis:** Jedes bunt zusammengestellte Outfit ist Colour Blocking.  
-**Besser:** Es geht um klare, ungebrochene Flächen. Sobald wilde Muster, Farbverläufe oder zu viele kleinteilige Details ins Spiel kommen, verliert der Look seine grafische Struktur und wirkt unruhig.
+### Komplementärfarben für starke Kontraste
+
+Farben, die sich im [Farbkreis](/glossar/farbkreis/) gegenüberliegen, erzeugen einen deutlichen Kontrast. Blau und Orange, Gelb und Violett oder Grün und Rot wirken lebendig und direkt.
+
+Für den Alltag musst du nicht beide Farben gleich intensiv einsetzen. Ein tiefes Navy zu einem warmen Orange oder ein dunkles Grün zu einem gedämpften Rosa wirkt oft ruhiger als zwei sehr klare, leuchtende Töne.
+
+### Analogfarben für eine harmonische Wirkung
+
+[Analogfarben](/glossar/analogfarben/) liegen im Farbkreis nah beieinander. Kombinationen wie Blau und Grün oder Rosa und Rot wirken zusammenhängend, bleiben aber durch die klaren Flächen trotzdem als Colour Blocking erkennbar.
+
+Diese Variante ist eine gute Wahl, wenn du Farbe tragen möchtest, ohne einen harten Kontrast zu setzen.
+
+### Neutrale Farben als Ruhepol
+
+[Neutrale Farben](/glossar/neutrale-farben/) wie Creme, Grau, Navy, Braun oder Schwarz können einen farbigen Look erden. Sie eignen sich für Schuhe, Taschen, Gürtel oder eine dritte größere Fläche wie Blazer und Mantel.
+
+Ein neutraler Ton ist aber kein Muss. Wenn zwei Farben für dich bereits ausgewogen wirken, darf das Outfit ganz ohne zusätzliche Farbe auskommen.
+
+## So gelingt Colour Blocking im Alltag
+
+### Beginne mit zwei Farben
+
+Zwei klar getrennte Farben machen die Technik leicht verständlich und tragbar. Kombiniere etwa eine Hose in einer Farbe mit einem Oberteil in einer anderen. Achte darauf, dass beide Teile eher ruhig gestaltet sind, damit die Farbflächen im Fokus bleiben.
+
+### Nutze die Drittel-Regel
+
+Die [Drittel-Regel im Outfit](/glossar/drittel-regel-im-outfit/) hilft dir, die Flächen spannender zu verteilen. Eine optische Teilung genau auf halber Körperhöhe kann ruhig wirken, aber auch eine kompakte Wirkung erzeugen. Ein Verhältnis von etwa einem Drittel zu zwei Dritteln schafft häufig mehr Bewegung.
+
+Eine hoch geschnittene Hose mit kürzerem Oberteil oder ein längerer Rock mit einem klar abgesetzten Top sind einfache Möglichkeiten dafür.
+
+### Wiederhole eine Farbe gezielt
+
+Mit der [Sandwich-Methode](/glossar/sandwich-methode/) kannst du einen Look sichtbar zusammenhalten. Wiederhole dafür die Farbe des Oberteils in Schuhen, Tasche oder einem kleinen [Accessoire](/glossar/accessoire/). Die Hose oder der Rock bildet dann den kontrastierenden Mittelteil.
+
+### Berücksichtige Material und Oberfläche
+
+Glatte, ruhige Oberflächen zeigen Farbgrenzen besonders klar. Popeline, feine Baumwolle, Jersey, Seide oder [Satin](/glossar/satin/) können deshalb sehr gut funktionieren. Stark strukturierte Stoffe wie grober Strick oder auffälliger Bouclé verändern die Wirkung, schließen Colour Blocking aber nicht aus.
+
+Je klarer die [Struktur](/glossar/struktur/) und der [Schnitt](/glossar/schnitt/), desto grafischer erscheint das Outfit.
+
+## Typische Missverständnisse bei Colour Blocking
+
+- **Missverständnis: Colour Blocking bedeutet immer Neonfarben.**  
+  **Besser:** Leuchtende Farben sind eine mögliche Variante, aber keine Voraussetzung. Auch gedeckte Farben oder Pastelltöne können klare, interessante Blöcke bilden.
+
+- **Missverständnis: Jedes bunte Outfit ist Colour Blocking.**  
+  **Besser:** Entscheidend sind große, klar abgegrenzte Farbflächen. Viele kleine Farben, Prints oder Farbverläufe erzeugen eher einen gemusterten als einen grafischen Look.
+
+- **Missverständnis: Die Farben müssen exakt gleich viel Fläche einnehmen.**  
+  **Besser:** Unterschiedlich große Farbflächen wirken oft harmonischer. Eine dominante Farbe und ein kleinerer Gegenpol schaffen eine klare Hierarchie.
+
+- **Missverständnis: Colour Blocking funktioniert nur bei modernen Trendteilen.**  
+  **Besser:** Auch klassische Kleidungsstücke wie Blazer, Hemd, Strickpullover, Stoffhose oder Midirock können durch Farbe sehr modern wirken.
+
+## Praxischeck: Dein Colour Blocking Outfit
+
+Bevor du das Haus verlässt, prüfe deinen Look mit diesen Fragen:
+
+- Sind die Farben als klare Flächen erkennbar oder konkurrieren Muster und Details mit ihnen?
+- Haben die Farben eine stimmige gemeinsame Intensität, etwa beide klar oder beide eher gedämpft?
+- Ist eine Farbe deutlich dominanter oder sind die Flächen bewusst ausgewogen verteilt?
+- Unterstützt die Position der Farbgrenze deine gewünschte [Silhouette](/glossar/silhouette/)?
+- Braucht der Look einen neutralen Ruhepol oder funktioniert die Farbkombination bereits für sich?
+- Wiederholt sich eine Farbe in Schuhen, Tasche oder Schmuck, wenn du den Look stärker verbinden möchtest?
 
 ## ESKYNA-Merksatz
 
-Colour Blocking lebt von der Spannung der Einfachheit. Je klarer die Schnitte und je ruhiger die Stoffoberflächen sind, desto edler und ausdrucksstärker wirkt das fertige Outfit.
-
-## Praxischeck für deinen Kleiderschrank
-
-Möchtest du prüfen, ob deine Kleidung für diesen Stil geeignet ist? Nutze diese einfachen Schritte bei der Outfit-Zusammenstellung:
-
-- **Die Oberflächenstruktur prüfen:** Achte darauf, dass die Stoffe keine zu unruhige [Struktur](/glossar/struktur/) aufweisen. Glatte Materialien wie feine Baumwolle, Seide oder [Satin](/glossar/satin/) eignen sich besser als grober Strick, da sie die Farbgrenzen präziser abbilden.
-- **Die Farbwirkung testen:** Lege zwei Kleidungsstücke bei Tageslicht nebeneinander. Haben die Farben eine ähnliche Intensität oder sticht ein Teil so stark hervor, dass das andere verblasst? Ein gelungener Farbblock erfordert eine ausgewogene Farbintensität.
-- **Den Kontrasttyp abstimmen:** Achte darauf, dass der [Kontrast](/glossar/kontrast/) im Outfit zu deinem natürlichen Kontrasttyp passt. Dunkle Haare und ein heller Teint vertragen sehr harte Kontraste, während feinere, weichere Farbtypen eher von gedämpften Farbkombinationen profitieren.
+Colour Blocking lebt nicht von möglichst vielen Farben, sondern von klaren Entscheidungen. Wähle Farbflächen bewusst, dann wirkt dein Outfit modern, ruhig und präzise.
 
 ## Beratungsblick
 
-In unserer Stilberatung nutzen wir Colour Blocking besonders gern, um modische Sicherheit aufzubauen. Es ist der perfekte [Stilbruch](/glossar/stilbruch/) für alle, die klassische Schnitte lieben, aber dennoch eine moderne, kreative Note in ihren Alltag bringen wollen.
+Colour Blocking ist eine praktische Technik, um vorhandene Kleidung neu zu kombinieren und deiner Garderobe mehr Ausdruck zu geben. Du brauchst dafür keine komplette neue Farbpalette. Oft reichen zwei Teile, die du bisher nie zusammen getragen hast.
 
-Weitere Inspirationen zur Wirkung von Nuancen findest du in unserer Kategorie [Farbberatung & Farbe](/glossar/farbberatung-farbe/). Wenn du unsicher bist, welche Farbkombinationen deine persönliche Ausstrahlung am besten unterstützen, hilft dir eine individuelle [Farbberatung](/glossar/farbberatung/) weiter.
+Wenn du unsicher bist, welche Kontraste zu deiner Ausstrahlung passen, orientiere dich an deinem [Farbprofil](/glossar/farbprofil/) und teste Kombinationen bei Tageslicht. Eine persönliche [Farbberatung](/glossar/farbberatung/) kann dir helfen, passende Farbintensitäten, Kontraste und wiederkehrende Kombinationen für deinen Alltag klar zu bestimmen.
+
+Weitere Grundlagen findest du in der Kategorie [Farbberatung & Farbe](/glossar/farbberatung-farbe/).

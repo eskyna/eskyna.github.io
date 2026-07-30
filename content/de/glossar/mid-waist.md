@@ -1,11 +1,13 @@
 ---
 title: Was bedeutet Mid Waist?
 term: Mid Waist
-description: Mid Waist beschreibt einen mittelhohen Bund, der zwischen Hüfte und Taille sitzt. Erfahre alles über die perfekte Passform und wie du sie stylst.
+description: Mid Waist bezeichnet eine mittlere Leibhöhe bei Hosen und Röcken. Der Bund sitzt zwischen Hüfte und Taille und schafft eine natürliche, vielseitige Proportion.
 category: Schnitt, Proportion & Passform
 subcategory: Größen & Passform
 tags:
   - mid waist
+  - mittlere leibhöhe
+  - hosenpassform
   - schnitt proportion
 keywords:
   - mid waist
@@ -13,14 +15,17 @@ keywords:
   - mittlere leibhöhe
   - mid waist jeans
   - mid waist hose
+  - mittelhoher bund
 weight: 1
 image: images/glossar/mid-waist.png
 image_alt: Editoriale Glossar-Grafik zu Mid Waist mit ruhigen Farbfeldern und feiner Linienführung
-history: In der Modehistorie gilt die mittlere Leibhöhe als der goldene Standard. Während die 1970er-Jahre extreme High-Waist-Schnitte feierten und die frühen 2000er-Jahre von extremem Low-Rise geprägt waren, blieb Mid Waist stets der unaufgeregte, funktionale Anker für Alltagskleidung.
+history:
+  - Die mittlere Leibhöhe ist seit Langem ein funktionaler Standard in der Alltagsmode.
+  - Während einzelne Modephasen besonders hohe oder sehr tief sitzende Bünde bevorzugten, blieb Mid Waist als ausgewogene Passform verbreitet.
 knowledge:
-  - Sitzt meist zwei bis drei Fingerbreit unter dem Bauchnabel direkt auf dem Beckenknochen.
-  - Gilt als die bequemste Leibhöhe, da sie im Sitzen nicht einschneidet und nicht rutscht.
-  - Balanciert die Proportionen zwischen Oberkörper und Beinen besonders harmonisch aus.
+  - Mid Waist beschreibt einen Bund, der zwischen Hüfte und natürlicher Taille sitzt.
+  - Die genaue Position kann je nach Marke, Schnitt und Körperproportion unterschiedlich ausfallen.
+  - Eine gut sitzende mittlere Leibhöhe verbindet Halt, Bewegungsfreiheit und eine natürliche Proportion.
 relatedTerms:
   - title: Leibhöhe
     url: /glossar/leibhoehe/
@@ -32,94 +37,98 @@ relatedTerms:
     url: /glossar/low-waist/
   - title: Passform
     url: /glossar/passform/
-  - title: Silhouette
-    url: /glossar/silhouette/
+  - title: Proportion
+    url: /glossar/proportion/
 faq:
   items:
     - q: Wie sitzt Mid Waist genau am Körper?
-      a: Der Bund einer Mid-Waist-Hose schließt zwischen der Hüfte und der natürlichen Taille ab, meist kurz unter dem Bauchnabel.
+      a: Der Bund einer Mid-Waist-Hose oder eines Mid-Waist-Rocks sitzt zwischen Hüfte und natürlicher Taille, häufig knapp unter dem Bauchnabel. Die genaue Höhe variiert je nach Marke und Modell.
     - q: Für wen eignet sich eine mittlere Leibhöhe?
-      a: Mid Waist steht fast jedem Figurtyp, da diese Höhe die Silhouette weder optisch staucht noch künstlich in die Länge zieht.
+      a: Mid Waist kann für viele Körperproportionen angenehm sein, weil der Bund weder sehr tief auf der Hüfte noch weit oben an der Taille sitzt. Entscheidend sind dein Komfort, die Bundweite und der gesamte Schnitt.
+    - q: Was ist der Unterschied zwischen Mid Waist und High Waist?
+      a: Mid Waist sitzt mittig zwischen Hüfte und Taille. High Waist reicht bis zur natürlichen Taille oder darüber und verändert die sichtbare Verhältnis von Oberkörper und Beinen stärker.
 lastmod: "2026-07-09"
 ---
 
 ## Definition: Was bedeutet Mid Waist?
 
-Der Begriff **Mid Waist** (auf Deutsch: mittlere [Leibhöhe](/glossar/leibhoehe/)) beschreibt den Sitz einer Hose oder eines Rocks, bei dem der [Bund](/glossar/bund/) genau zwischen der Hüfte und der schmalsten Stelle der Taille abschließt. Meist liegt diese Linie etwa zwei bis drei Fingerbreit unter dem Bauchnabel direkt auf dem Beckenknochen.
+**Mid Waist** bedeutet mittlere [Leibhöhe](/glossar/leibhoehe/). Eine Hose, Jeans oder ein Rock mit Mid Waist sitzt mit dem [Bund](/glossar/bund/) zwischen Hüfte und natürlicher Taille. Meist liegt der Bund knapp unter dem Bauchnabel, seine genaue Position hängt jedoch von Marke, Modell und deinen individuellen Proportionen ab.
 
-Im Vergleich zu extremen Schnitten bietet diese Höhe ein ausgewogenes Verhältnis von Tragekomfort und optischer Balance.
+Die mittlere Leibhöhe gilt als vielseitige, ausgewogene Passform. Sie wirkt weniger betont als [High Waist](/glossar/high-waist/) und bietet mehr Abdeckung als [Low Waist](/glossar/low-waist/).
 
----
+## Mid Waist einfach erklärt
 
-## Anatomische Einordnung und Wirkung im Outfit
+Die Leibhöhe bestimmt, wo der Bund einer Hose oder eines Rocks am Körper sitzt. Mid Waist liegt genau im mittleren Bereich: nicht tief auf der Hüfte, aber auch nicht an der schmalsten Stelle deiner Taille.
 
-Die mittlere Leibhöhe ist der unaufgeregte Allrounder unter den Hosenformen. Während extreme Höhen die Aufmerksamkeit stark auf die Körpermitte lenken, verhält sich Mid Waist optisch neutral. Das macht diesen Schnitt zu einem unverzichtbaren Werkzeug für eine gut funktionierende Garderobe.
+Dadurch bleibt deine natürliche Körpermitte sichtbar, ohne stark verschoben zu werden. Eine Mid-Waist-Jeans kann deshalb ruhig, unkompliziert und alltagstauglich wirken. Sie passt zu schmalen, geraden und weiten Hosenformen ebenso wie zu Röcken.
 
-- **Optische Balance:** Die [Silhouette](/glossar/silhouette/) wird in harmonische Hälften geteilt. Dein Oberkörper und deine Beine wirken natürlich proportional.
-- **Sicherer Halt:** Da der Bund auf dem Beckenkamm aufliegt, rutscht eine gut sitzende [Jeans](/glossar/jeans/) oder [Stoffhose](/glossar/stoffhose/) im Alltag deutlich weniger als eine tief geschnittene Variante.
-- **Bequemlichkeit:** Im Sitzen schneidet der feste Bund nicht schmerzhaft in den Bauch ein, wie es manchmal bei sehr hohen Schnitten der Fall ist.
+Wichtig ist: Die Bezeichnung Mid Waist ist keine feste Zentimeterangabe. Was bei einer Marke mittelhoch sitzt, kann bei einer anderen Marke etwas höher oder tiefer ausfallen. Prüfe deshalb immer den tatsächlichen Sitz am Körper statt nur das Etikett.
 
----
+## Wie wirkt Mid Waist auf die Proportionen?
 
-## Warum Mid Waist der heimliche Held deiner Garderobe ist
+Ein mittelhoher Bund erhält meist eine natürliche [Proportion](/glossar/proportion/) zwischen Oberkörper und Beinen. Er verändert die sichtbare Körpermitte weniger stark als sehr hohe oder sehr tiefe Bünde.
 
-In der modernen Stilberatung wird oft über die Vorzüge von [High Waist](/glossar/high-waist/) gesprochen, um die Beine optisch zu verlängern. Doch die mittlere Höhe hat einen entscheidenden Vorteil: Sie engt dich nicht ein und lässt deinem Oberkörper optisch genügend Raum. Wenn du einen eher kurzen Oberkörper hast, ist Mid Waist oft die deutlich bessere Wahl, da High-Waist-Hosen den Oberkörper optisch noch weiter stauchen können.
+Das kann besonders stimmig sein, wenn du keine ausgeprägte optische Streckung oder Verkürzung erzeugen möchtest. Mid Waist wirkt oft ruhig und ausgewogen, weil sie die [Silhouette](/glossar/silhouette/) nicht extrem in Oberkörper und Beine aufteilt.
 
-Ein bewusster Blick auf die [Passform](/glossar/passform/) zeigt, dass diese Leibhöhe für fast jeden Anlass funktioniert. Sie wirkt im Büro seriös, engt in der Freizeit nicht ein und lässt sich mit nahezu jedem Oberteil kombinieren.
+Die Wirkung hängt dennoch immer vom gesamten Outfit ab. Auch Beinweite, Oberteillänge, Schuhe und [Saumlänge](/glossar/saumlange/) beeinflussen, wie lang oder kompakt ein Look erscheint.
 
----
+## Mid Waist, High Waist und Low Waist im Vergleich
 
-## Mid Waist im direkten Vergleich
+| Bundhöhe                           | Sitz am Körper                         | Typische Wirkung                                                                |
+| :--------------------------------- | :------------------------------------- | :------------------------------------------------------------------------------ |
+| [Low Waist](/glossar/low-waist/)   | Tief auf oder unter der Hüfte          | Verlängert optisch den Oberkörper und verlagert den Fokus auf die Hüfte.        |
+| **Mid Waist**                      | Zwischen Hüfte und natürlicher Taille  | Erhält meist eine natürliche, ausgeglichene Körperproportion.                   |
+| [High Waist](/glossar/high-waist/) | An der natürlichen Taille oder darüber | Betont die Körpermitte und kann die Beinlinie optisch länger erscheinen lassen. |
 
-Um die richtige [Stilentscheidung](/glossar/stilentscheidung/) für deinen Kleiderschrank zu treffen, hilft ein Blick auf die drei klassischen Bundhöhen:
+## Warum Mid-Waist-Hosen so vielseitig sind
 
-| Bundhöhe                           | Sitz am Körper                               | Visueller Effekt                                                                   |
-| :--------------------------------- | :------------------------------------------- | :--------------------------------------------------------------------------------- |
-| [Low Waist](/glossar/low-waist/)   | Auf der Hüfte, weit unter dem Nabel          | Verlängert den Oberkörper, verkürzt die Beine optisch.                             |
-| **Mid Waist**                      | Auf dem Beckenknochen, knapp unter dem Nabel | Erhält die natürlichen [Proportionen](/glossar/proportion/) auf harmonische Weise. |
-| [High Waist](/glossar/high-waist/) | In oder über der natürlichen Taille          | Verlängert die Beinführung optisch, verkürzt den Oberkörper.                       |
+Eine Mid-Waist-Hose ist ein unkompliziertes [Kombinationsstück](/glossar/kombinationsstueck/) für viele Anlässe. Sie kann mit einem T-Shirt ebenso funktionieren wie mit Bluse, Strick oder Blazer.
 
----
+Bei einer [Jeans](/glossar/jeans/) wirkt die mittlere Leibhöhe meist lässig und ausgewogen. Bei einer [Stoffhose](/glossar/stoffhose/) kann sie gepflegt und businessnah aussehen. Entscheidend sind Material, Schnitt und Styling.
 
-## So stylst du die mittlere Leibhöhe richtig
+Auch beim Sitzen oder Bewegen ist der Bund relevant: Eine gute Mid-Waist-Passform bleibt an ihrem Platz, ohne zu drücken, einzuschneiden oder nach unten zu rutschen. Das macht sie für viele Alltagslooks praktisch.
 
-Mid-Waist-Schnitte lassen sich extrem vielseitig kombinieren. Damit dein Look lebendig und modern wirkt, kannst du mit einfachen Styling-Techniken arbeiten.
+## So stylst du Mid Waist
 
-### Der French Tuck für lockere Eleganz
+### Mit locker eingestecktem Oberteil
 
-Stecke dein Oberteil nicht komplett in den Bund, sondern nutze den [French Tuck](/glossar/french-tuck/). Dabei schiebst du nur den vorderen Teil deines Pullovers oder deiner Bluse locker in die Hose. Die Seiten hängen entspannt herab. Das betont deinen Hüftbereich ganz dezent, ohne dass das Outfit zu streng wirkt.
+Ein [French Tuck](/glossar/french-tuck/) bringt die Bundhöhe zur Geltung, ohne dass dein Outfit streng aussieht. Stecke dafür nur die Vorderseite eines Shirts, Pullovers oder einer Bluse locker in den Bund. So entsteht eine leichte Betonung der Mitte.
 
-### Cropped Tops stilvoll ausbalancieren
+### Mit cropped Oberteilen
 
-Wenn du ein kürzer geschnittenes Oberteil tragen möchtest, aber nicht zu viel Haut zeigen willst, ist Mid Waist der perfekte Partner. Es zeigt im Stehen nur einen feinen Streifen der Körpermitte und wirkt dadurch erwachsen und modern.
+Ein [Cropped](/glossar/cropped/) geschnittenes Oberteil kann mit Mid Waist eine stimmige Balance schaffen. Je nach Länge treffen Oberteil und Bund direkt aufeinander oder lassen nur einen kleinen Bereich der Körpermitte sichtbar.
 
-### Weites Bein richtig kombinieren
+### Mit weiter Hose
 
-Eine weit geschnittene Hose wie die [Marlenehose](/glossar/marlenehose/) profitiert enorm von einem mittelhohen Bund. Achte darauf, dass die [Saumlänge](/glossar/saumlange/) deiner Hose gut auf deine Schuhe abgestimmt ist, um eine klare vertikale Linie zu erzeugen.
+Bei einer [Marlenehose](/glossar/marlenehose/) oder einer anderen weiten Hosenform sorgt Mid Waist für einen klaren, aber nicht zu stark betonten Start der Beinlinie. Ein kürzeres oder teilweise eingestecktes Oberteil kann die Form zusätzlich strukturieren.
 
----
+### Mit Blazer oder Strick
 
-## Häufige Missverständnisse
+Ein längerer [Blazer](/glossar/blazer/) kann die vertikale Linie eines Mid-Waist-Looks unterstützen. Bei kürzeren Jacken oder Strickteilen lohnt sich ein Blick auf den Saum: Endet er nahe dem Bund, wird die Körpermitte deutlicher sichtbar.
 
-- **Missverständnis:** _Mid Waist ist altmodisch._  
-  **Besser:** Es ist der zeitloseste Schnitt überhaupt. Während Modetrends zwischen extrem tiefen und sehr hohen Hosenbünden schwanken, bleibt die mittlere Höhe dauerhaft modern und unabhängig von flüchtigen Trends.
-- **Missverständnis:** _Jede Mid-Waist-Hose sitzt bei jedem gleich._  
-  **Besser:** Da jeder Körper eine individuelle Anatomie besitzt, fällt die Leibhöhe je nach deiner Rumpflänge unterschiedlich aus. Probiere verschiedene Marken aus, um den für dich perfekten Punkt auf dem Beckenknochen zu finden.
+## Mid Waist richtig anprobieren
 
----
+Die Bezeichnung allein sagt noch nicht, ob die Hose wirklich gut sitzt. Achte bei der Anprobe auf diese Punkte:
+
+1. **Der Bund liegt stabil an.** Er sollte nicht klaffen, rutschen oder unangenehm einschneiden.
+2. **Du kannst bequem sitzen.** Setz dich hin und prüfe, ob sich der Bund weiterhin angenehm anfühlt.
+3. **Die Hose wirft keine starken Zugfalten.** Besonders an Schritt, Hüfte und Gesäß zeigen [Zugfalten](/glossar/zugfalten/), dass Größe oder Schnitt nicht optimal passen.
+4. **Die Beinlinie passt zu deinem Alltag.** Mid Waist gibt es bei Straight Leg, Wide Leg, Bootcut und vielen weiteren Hosenformen. Wähle die Form, in der du dich bewegen und wohlfühlen kannst.
+5. **Die Taschen liegen flach auf.** Bei Jeans und Hosen sollten aufgesetzte oder eingelassene Taschen nicht spannen oder abstehen.
+
+## Häufige Missverständnisse über Mid Waist
+
+- **Missverständnis:** Mid Waist sitzt bei allen Marken an derselben Stelle.  
+  **Besser:** Begriffe wie Mid Waist, High Waist und Low Waist sind nicht vollständig einheitlich definiert. Probiere das Modell an und beurteile den tatsächlichen Sitz.
+
+- **Missverständnis:** Mid Waist ist nur ein Kompromiss zwischen High und Low Waist.  
+  **Besser:** Die mittlere Leibhöhe ist eine eigenständige Passform mit ausgewogener Wirkung und hoher Alltagstauglichkeit.
+
+- **Missverständnis:** Die passende Bundhöhe hängt allein von der Körperform ab.  
+  **Besser:** Wichtig sind auch deine Oberkörperlänge, dein Komfort, die gewünschte Wirkung und die Frage, wie du deine Kleidung im Alltag tragen möchtest.
 
 ## ESKYNA-Merksatz
 
-> Mid Waist ist die Basis für entspannte Alltagslooks. Sie drängt sich nicht in den Vordergrund, sondern gibt deinem Körper natürliche Struktur und absolute Bewegungsfreiheit.
+> Mid Waist bringt Ruhe in die Proportionen: Der Bund sitzt zwischen Hüfte und Taille und lässt deine natürliche Körpermitte sichtbar.
 
----
-
-## Praxischeck für den Kleiderschrank
-
-Wenn du eine neue Hose mit mittlerer Leibhöhe anprobierst, mache den Bewegungstest:
-
-1. **Setze dich hin:** Drückt der Bund unangenehm in deine Magengegend? Wenn ja, ist der Schnitt für dich zu hoch oder zu eng.
-2. **Beuge dich nach vorne:** Rutscht die Hose hinten so weit herab, dass Unterwäsche sichtbar wird? Dann benötigst du eine etwas höhere Leibhöhe oder einen elastischeren Material-Mix.
-3. **Betrachte die Rückseite:** Die Taschen sollten flach auf dem Gesäß aufliegen und die natürliche Form unterstützen, ohne Falten zu werfen.
-
-Suchst du nach weiteren Inspirationen für perfekt sitzende Schnitte? In der Kategorie [Schnitt, Proportion & Passform](/glossar/kategorie/schnitt-proportion-passform/) findest du wertvolles Stilwissen für deine tägliche Garderobe.
+Weitere Begriffe zu Bundhöhe, Schnitt und Passform findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/).

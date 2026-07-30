@@ -1,61 +1,118 @@
 ---
 title: "Was ist Alpaka?"
 term: "Alpaka"
-description: "Alpaka ist eine feine Tierfaser mit hoher Wärmeleistung, weichem Griff und ruhigem, leicht fließendem Fall."
+description: "Alpaka ist eine feine Naturfaser aus dem Vlies des Alpakas. Sie wärmt bei geringem Gewicht, fühlt sich je nach Feinheit weich an und fällt ruhig und leicht fließend."
 category: "Materialien & Details"
 image: images/glossar/alpaka.png
-image_alt: "Glossar-Illustration zu Alpaka"
+image_alt: "Weiches Alpakagarn als Illustration zur Naturfaser Alpaka"
 relatedTerms:
   - title: Wolle
     url: /glossar/wolle/
-  - title: Strick
-    url: /glossar/strick/
-  - title: Materialfall
-    url: /glossar/materialfall/
   - title: Kaschmir
     url: /glossar/kaschmir/
-  - title: Quiet Luxury
-    url: /glossar/quiet-luxury/
+  - title: Strick
+    url: /glossar/strick/
+  - title: Faser-Mix
+    url: /glossar/faser-mix/
+  - title: Materialfall
+    url: /glossar/materialfall/
+  - title: Handwäsche
+    url: /glossar/handwaesche/
 keywords:
   - "alpaka"
   - "was ist alpaka"
   - "alpakawolle"
-history: "Bereits im Inkareich galt Alpakawolle als edles Vlies der Götter und war der königlichen Elite vorbehalten. Im 19. Jahrhundert entdeckte die europäische Textilindustrie die luxuriöse Faser aus den Anden für feine Web- und Strickwaren wieder."
-knowledge: "Alpakafasern besitzen mikroskopisch kleine Hohlräume im Inneren. Diese Lufteinschlüsse verleihen der Wolle ihre exzellente thermoregulierende Wirkung, während das Fehlen von Lanolin (Wollfett) sie besonders hautverträglich macht."
+  - "alpakafaser"
+  - "alpaka eigenschaften"
+  - "alpaka pflege"
+history:
+  - "Alpakas werden seit langer Zeit in den Anden Südamerikas wegen ihres Vlieses gehalten."
+  - "Im 19. Jahrhundert gewann die Faser auch für die europäische Textilindustrie an Bedeutung."
+knowledge:
+  - "Alpakafasern speichern durch ihre Struktur Luft und können dadurch bei geringem Gewicht wärmen."
+  - "Die Faser hat meist weniger natürliche Elastizität als viele Schafwollgarne und fällt daher oft ruhiger."
+  - "Die Bezeichnung Baby Alpaka beschreibt die Faserfeinheit und nicht zwingend das Alter des Tieres oder die erste Schur."
+faq:
+  items:
+    - q: "Kratzt Alpakawolle?"
+      a: "Das hängt vor allem von der Faserfeinheit, der Verarbeitung und deiner Hautempfindlichkeit ab. Feine Alpakaqualitäten fühlen sich oft sehr weich an, gröbere Garne können dennoch kratzen."
+    - q: "Ist Alpaka wärmer als Schafwolle?"
+      a: "Alpaka kann bei geringem Gewicht sehr gut wärmen. Wie warm ein Kleidungsstück tatsächlich ist, hängt aber auch von Garnstärke, Strickdichte, Schnitt und Materialmix ab."
+    - q: "Wie pflegst du Kleidung aus Alpaka?"
+      a: "Lüfte Alpakastrick zunächst aus und wasche ihn nur bei Bedarf nach Pflegeetikett. Nach der Wäsche solltest du das Teil liegend trocknen und auch liegend lagern."
 lastmod: "2026-07-18"
 ---
 
 ## Definition
 
-Die hochwertige Alpakafaser stammt vom Alpaka (_Vicugna pacos_), einer domestizierten Kamelart aus den südamerikanischen Anden. Als edle Naturhaarfaser wird sie in der Textilindustrie vor allem für luxuriösen [Strick](/glossar/strick/), hochwertige [Mäntel](/glossar/mantel/), wärmende [Schals](/glossar/schal/) und anspruchsvolle Mischgewebe geschätzt. Je nach Faserfeinheit reicht die Bandbreite von einem extrem feinen, an [Kaschmir](/glossar/kaschmir/) erinnernden Griff bis hin zu robusteren Qualitäten für wärmende Outerwear.
+**Alpaka** ist eine hochwertige Naturfaser aus dem Vlies des Alpakas, einer domestizierten Kamelart aus den südamerikanischen Anden. Die Faser wird für [Strick](/glossar/strick/), Schals, Mützen, Mäntel und Mischgewebe verwendet.
 
-## Einfach erklärt: Was macht Alpakawolle so besonders?
+Alpakawolle ist für ihre gute Wärmeleistung bei vergleichsweise geringem Gewicht bekannt. Je nach Faserfeinheit wirkt sie weich, leicht glänzend, ruhig und hochwertig. Besonders bei Pullovern, [Schals](/glossar/schal/) und [Mänteln](/glossar/mantel/) prägt sie den Materialeindruck deutlich.
 
-Alpakawolle wird oft als das Vlies der Götter bezeichnet und blickt auf eine jahrtausendealte Geschichte zurück. Schon im Reich der Inka war die Nutzung dieser edlen Faser der königlichen Elite vorbehalten. Aus Sicht der Modehistorie hat sich Alpaka in der modernen Garderobe als fester Bestandteil des [Quiet Luxury](/glossar/quiet-luxury/) etabliert. Die Faser steht für subtilen Glanz, Langlebigkeit und eine herausragende Qualität.
+## Was macht Alpakawolle besonders?
 
-### Herausragende Materialeigenschaften von Alpaka
+Alpaka gehört wie [Wolle](/glossar/wolle/) zu den Naturhaarfasern, unterscheidet sich von klassischer Schafwolle aber in Griff, Fall und Elastizität. Die Faser kann Luft einschließen und dadurch Wärme speichern. Deshalb wirken Alpakateile oft warm, ohne automatisch sehr schwer zu sein.
 
-Das Geheimnis der Alpakafaser liegt in ihrer physischen Beschaffenheit. Die einzelnen Haare sind im Inneren hohl. Diese mikroskopisch kleinen Lufteinschlüsse sorgen für eine exzellente [Thermoregulation](/glossar/thermoregulation/). Bei Kälte speichert die Faser deine Körperwärme hocheffizient, während sie bei milderen Temperaturen Wärme aktiv abgibt.
+Die Oberfläche der Faser ist vergleichsweise glatt. Das kann dem Material einen ruhigen, leicht fließenden [Materialfall](/glossar/materialfall/) geben. Ein feiner Alpakapullover wirkt deshalb häufig weniger rustikal als ein grober Wollstrick und passt sowohl in eine reduzierte Alltagsgarderobe als auch zu einem klassischen Look.
 
-Gleichzeitig ist Alpakawolle im Vergleich zu klassischer Schafwolle ([Wolle](/glossar/wolle/)) deutlich leichter. Weil sie fast kein Lanolin, also kein Wollfett, enthält, gilt sie als hypoallergen. Sie ist somit die perfekte Wahl für empfindliche Haut, die auf herkömmliche Wollarten mit Rötungen reagiert.
+Wichtig ist: Alpaka ist keine einheitliche Qualität. Faserfeinheit, Garnverarbeitung, Strickdichte und der Anteil anderer Fasern entscheiden darüber, ob sich ein Teil besonders weich, robust, voluminös oder eher empfindlich anfühlt.
 
-### Materialverhalten und moderne Verarbeitung
+## Alpaka im Vergleich zu Wolle und Kaschmir
 
-Weil Alpakafasern eine sehr glatte Oberfläche und weniger natürliche Kräuselung besitzen als Schafschurwolle, ist das fertige Garn weniger elastisch. Das schenkt deinen Kleidungsstücken einen besonders eleganten, fließenden [Materialfall](/glossar/materialfall/).
+Alpaka, Schafwolle und [Kaschmir](/glossar/kaschmir/) sind Naturhaarfasern, haben aber unterschiedliche Eigenschaften.
 
-Allerdings bedeutet diese Struktur auch, dass sich schwere Strickwaren aus reinem Alpaka durch ihr Eigengewicht mit der Zeit in die Länge ziehen können. Um die Formstabilität und Elastizität zu sichern, mischt man Alpaka heute oft mit klassischer Wolle oder strapazierfähigen Fasern wie [Polyamid](/glossar/polyamid/). Das erhöht die Haltbarkeit und minimiert die Entstehung von [Pilling](/glossar/pilling/).
+| Material   | Typische Wirkung                                           | Darauf solltest du achten                             |
+| ---------- | ---------------------------------------------------------- | ----------------------------------------------------- |
+| Alpaka     | Warm, leicht, weich bis leicht rustikal, oft ruhig fallend | Kann bei reinem Strick weniger formstabil sein        |
+| Schafwolle | Je nach Sorte fein, elastisch, robust oder voluminös       | Griff und Kratzempfinden unterscheiden sich stark     |
+| Kaschmir   | Sehr weich, leicht, fein und warm                          | Braucht sorgfältige Pflege und kann zu Pilling neigen |
 
-## Worauf du beim Kauf und bei der Pflege achten solltest
+Alpaka wird häufig mit Wolle, Seide oder synthetischen Fasern kombiniert. Ein [Faser-Mix](/glossar/faser-mix/) kann die Formstabilität erhöhen, die Pflege erleichtern oder den Strick belastbarer machen. Ein hoher Alpakaanteil allein sagt daher noch nicht alles über Qualität und Tragegefühl aus.
 
-- **Die passende Qualitätsstufe wählen:** Bezeichnungen wie Baby Alpaka weisen auf besonders feine Fasern hin, die meist von der ersten Schur stammen. Diese Fasern sind extrem weich und kratzen nicht auf der Haut. Gröbere Fasern eignen sich dagegen besser für robuste Jacken oder Wolldecken.
-- **Die Formstabilität prüfen:** Achte bei Strickteilen aus reinem Alpaka auf feste Nähte. Ein Materialmix mit Schafwolle oder feinen Kunstfasern sorgt dafür, dass dein Kleidungsstück die gewünschte [Passform](/glossar/passform/) behält.
-- **Schonende Handwäsche bevorzugen:** Alpakawolle ist von Natur aus schmutzabweisend und nimmt kaum Gerüche an. Meist reicht gründliches Auslüften an der frischen Luft. Falls eine Reinigung nötig ist, wähle eine kalte [Handwäsche](/glossar/handwaesche/) mit einem milden Wollwaschmittel.
-- **Liegend lagern:** Hänge deine Alpakapullover niemals auf Kleiderbügel. Durch den weichen Fall leiert das Strickwerk im Schulterbereich schnell aus. Lockeres Zusammenlegen im Schrank schützt die Form optimal.
+## Baby Alpaka: Was bedeutet die Bezeichnung?
 
-## Typische Missverständnisse
+**Baby Alpaka** ist eine Bezeichnung für besonders feine Alpakafasern. Sie bedeutet nicht automatisch, dass die Wolle von einem jungen Tier stammt oder aus der ersten Schur kommt.
 
-Oft wird angenommen, dass jedes Kleidungsstück aus Alpaka garantiert komplett kratzfrei ist. Das ist ein Irrtum. Der Tragekomfort hängt immer von der Faserfeinheit ab. Nur die hochwertigsten Sortierungen wie Royal Alpaca und Baby Alpaca bieten das butterweiche Hautgefühl. Standardqualitäten können sich auf sensibler Haut durchaus etwas rauer anfühlen. Zudem benötigt die geringe Eigenelastizität der Faser im Alltag ein wenig Aufmerksamkeit beim Waschen und Lagern.
+Feinere Fasern fühlen sich meist weicher an und sind für hautnahe Teile wie Pullover, Cardigans oder Schals besonders gefragt. Trotzdem lohnt sich die Anprobe: Auch ein hochwertiges Material kann sich je nach Garn, Strickart und persönlicher Empfindlichkeit unterschiedlich anfühlen.
+
+## Wie wirkt Alpaka im Outfit?
+
+Alpaka vermittelt Wärme, Ruhe und eine natürliche Wertigkeit. Feiner Alpakastrick wirkt oft reduziert und elegant. Grobere Qualitäten bringen sichtbare Struktur und eine weichere, gemütliche Wirkung in den Look.
+
+Für einen klaren Stil funktioniert ein Alpakapullover gut mit einer geraden Stoffhose, Jeans oder einem schmalen Rock. Die ruhige Oberfläche passt besonders gut zu [klassisch](/glossar/klassisch/), [minimalismus](/glossar/minimalismus/) und [Quiet Luxury](/glossar/quiet-luxury/). Wenn du die Faser modern tragen möchtest, kombiniere einen weichen Alpaka-Cardigan mit Denim, Loafern oder klaren Sneakers.
+
+## Worauf du beim Kauf von Alpaka achten solltest
+
+- **Fühl den Griff:** Entscheidend ist nicht nur die Materialangabe, sondern ob sich das Teil auf deiner Haut angenehm anfühlt.
+- **Lies die Zusammensetzung:** Prüfe, wie hoch der Alpakaanteil ist und welche Fasern zusätzlich enthalten sind.
+- **Schau auf die Strickdichte:** Lockerer Strick wirkt weich und luftig, kann aber empfindlicher sein als dicht gestrickte Ware.
+- **Prüfe die Form:** Achte bei Pullovern auf Schulterpartie, Bündchen und Nähte. Sehr weicher Strick kann sich unter seinem Eigengewicht verändern.
+- **Beurteile die Kombinierbarkeit:** Wähle Farbe, Schnitt und Materialstärke so, dass das Teil zu deinem Alltag und vorhandenen Lieblingsstücken passt.
+
+## Alpaka richtig pflegen
+
+Alpakakleidung muss nicht nach jedem Tragen gewaschen werden. Häufig reicht es, das Teil nach dem Tragen auszulüften. Wenn eine Wäsche nötig ist, gibt das [Pflegeetikett](/glossar/pflegeetikett/) den verbindlichen Rahmen vor.
+
+Für viele feine Alpakateile ist eine schonende [Handwäsche](/glossar/handwaesche/) mit geeignetem Wollwaschmittel sinnvoll. Vermeide starkes Reiben, Auswringen und heiße Temperaturen. Drücke Wasser vorsichtig aus, bringe das Kleidungsstück in Form und trockne es liegend auf einem Handtuch.
+
+Hänge schwere Strickteile nicht dauerhaft auf Bügel. Besonders weiche Garne können an Schulter und Länge nachgeben. Liegende Lagerung schützt die Form besser.
+
+## Typische Missverständnisse über Alpaka
+
+- **Missverständnis: Alpaka kratzt nie.**  
+  **Besser:** Wie weich Alpaka ist, hängt von der Faserfeinheit, dem Garn und deiner persönlichen Hautempfindlichkeit ab.
+
+- **Missverständnis: Baby Alpaka stammt immer von Jungtieren.**  
+  **Besser:** Die Bezeichnung steht in erster Linie für eine besonders feine Faserqualität.
+
+- **Missverständnis: Reines Alpaka ist immer hochwertiger.**  
+  **Besser:** Ein sinnvoller Materialmix kann Passform, Strapazierfähigkeit und Pflegeeigenschaften verbessern.
+
+- **Missverständnis: Alpakastrick braucht keine Pflege.**  
+  **Besser:** Die Faser ist pflegeleicht im Alltag, bleibt aber durch seltenes Waschen, sanfte Reinigung und liegende Lagerung länger schön.
 
 ## ESKYNA-Merksatz
 
-> Alpaka verkörpert leisen Luxus. Die edle Faser überzeugt durch subtilen Glanz, hervorragende Wärmeleistung und einen fließenden Fall, fordert jedoch eine bewusste Pflege und oft einen klugen Faser-Mix für dauerhafte Formstabilität.
+> Alpaka wärmt leicht, fällt ruhig und wirkt hochwertig. Entscheidend für Komfort und Haltbarkeit sind Faserfeinheit, Strickart und ein sinnvoller Materialmix.
+
+Weitere passende Begriffe findest du in der [Kategorie Materialien & Details](/glossar/materialien-details/).

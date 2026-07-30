@@ -1,25 +1,37 @@
 ---
 title: Was bedeutet Strick?
 term: Strick
-description:
-  Strick ist Maschenware, die je nach Garn, Dichte und Oberfläche weich, fein, strukturiert
-  oder voluminös wirken kann.
+description: >-
+  Strick ist Maschenware aus ineinandergreifenden Fadenschlingen. Je nach Garn,
+  Maschenfeinheit und Oberfläche wirkt Strick weich, fein, strukturiert,
+  voluminös oder besonders wärmend.
 category: Materialien & Details
 tags:
   - materialien
   - strick
+  - maschenware
+  - pullover
+  - textur
 keywords:
   - strick
   - was bedeutet strick
+  - strick einfach erklärt
+  - maschenware
   - strick stilberatung
+  - strick material
 weight: 1
 image: images/glossar/strick.png
 image_alt: Editoriale Glossar-Grafik zu Strick mit ruhigen Farbfeldern und feiner Linienführung
-history: "Historisch entwickelte sich Strick von einer rein funktionalen Handwerkstechnik für Arbeitskleidung im 19. und frühen 20. Jahrhundert zu einem festen Bestandteil der modernen Alltagsmode und Haute Couture, maßgeblich geprägt durch die Entwürfe von Designerinnen wie Coco Chanel."
+history: >-
+  Strick entwickelte sich von einer funktionalen Handwerkstechnik für wärmende
+  Kleidung zu einem festen Bestandteil der Alltagsmode. Im 20. Jahrhundert wurde
+  Strick auch in der gehobenen Mode wichtig und prägte unter anderem moderne,
+  unkomplizierte Silhouetten.
 knowledge:
-  - "Maschenware unterscheidet sich von Webstoffen durch eine elastische Schlaufenstruktur, die ohne Elasthan beweglich bleibt."
-  - "Die Faserqualität bestimmt maßgeblich das Tragegefühl, die Wärme und das langfristige Pillingverhalten."
-  - "Grobstrick bringt visuelles Gewicht und Struktur in ein Outfit, während Feinstrick fließend fällt und formeller wirkt."
+  - "Strick ist Maschenware: Die ineinandergreifenden Fadenschlingen machen das Material oft beweglicher und elastischer als Webstoff."
+  - "Garn, Maschenfeinheit, Dichte und Faser bestimmen Wärme, Griff, Fall, Transparenz und Pflegeaufwand eines Strickteils."
+  - "Feinstrick wirkt meist ruhiger und formeller, Grobstrick bringt sichtbare Struktur, Volumen und mehr optisches Gewicht ins Outfit."
+  - "Pilling kann bei Strick durch Reibung entstehen und ist nicht allein ein verlässliches Qualitätsurteil."
 relatedTerms:
   - title: Feinstrick
     url: /glossar/feinstrick/
@@ -27,77 +39,196 @@ relatedTerms:
     url: /glossar/grobstrick/
   - title: Rippstrick
     url: /glossar/rippstrick/
+  - title: Wolle
+    url: /glossar/wolle/
+  - title: Pilling
+    url: /glossar/pilling/
   - title: Struktur
     url: /glossar/struktur/
 faq:
   items:
+    - q: Was ist der Unterschied zwischen Strick und Webstoff?
+      a: >-
+        Strick besteht aus beweglichen Maschen, Webstoff aus rechtwinklig
+        gekreuzten Fäden. Deshalb ist Strick häufig elastischer, weicher und
+        anpassungsfähiger, während Webstoff meist klarer und formstabiler wirkt.
     - q: Wie nutze ich Strick im Alltag?
-      a: Nutze Strick als gezielten Kontrastgeber. Kombiniere ihn mit glatten Stoffen wie Leder oder Denim, um deinem Look Tiefe und visuelles Interesse zu verleihen.
+      a: >-
+        Wähle Strick passend zur gewünschten Wirkung. Feinstrick funktioniert
+        gut zu Blazer, Stoffhose oder Rock. Grobstrick wirkt entspannter und
+        setzt mit glatten Materialien wie Denim, Leder oder Satin einen klaren
+        Texturkontrast.
     - q: Gilt Strick für jeden Stil gleich?
-      a: Nein. Die Wirkung hängt stark von der Maschenfeinheit ab. Feinstrick wirkt elegant und lässt sich im Büro tragen, während Grobstrick eine entspannte, informelle Note einbringt.
+      a: >-
+        Nein. Die Wirkung hängt stark von Garn, Farbe, Maschenbild und Schnitt
+        ab. Feiner, glatter Strick kann elegant und businessnah wirken, während
+        ein voluminöser Strickpullover eher lässig, rustikal oder gemütlich
+        erscheint.
+    - q: Warum bildet Strick Pilling?
+      a: >-
+        Pilling entsteht, wenn sich durch Reibung lose Faserenden zu kleinen
+        Knötchen verbinden. Besonders betroffen sind Stellen wie Unterarme,
+        Seiten oder Bereiche unter Taschenriemen. Mit einem Fusselrasierer lässt
+        sich Pilling vorsichtig entfernen.
 lastmod: "2026-07-09"
 ---
 
-## Definition
+## Definition: Was ist Strick?
 
-**Strick** bezeichnet alle Textilien, die als Maschenware hergestellt werden. Im Gegensatz zu gewebten Stoffen entsteht Strick durch das Ineinandergreifen von Fadenschlingen, was dem Material seine charakteristische Elastizität, Weichheit und Dehnbarkeit verleiht.
+**Strick** bezeichnet textile Maschenware. Sie entsteht aus Fadenschlingen, die ineinandergreifen und eine flexible Fläche bilden. Anders als bei einem [Webstoff](/glossar/webstoff/) werden die Fäden nicht rechtwinklig miteinander verkreuzt.
 
-## Einfach erklärt: Was macht Strick besonders?
+Diese Maschenstruktur gibt Strick seine typische Beweglichkeit. Je nach Garn, Maschenfeinheit und Verarbeitung kann ein Strickteil leicht und fließend, körpernah, wärmend, fest oder sehr voluminös wirken. Strick umfasst deshalb weit mehr als den klassischen Winterpullover.
 
-Im Alltag begegnet uns Strick in unzähligen Varianten vom wärmenden Winterpullover bis zum leichten Sommeroberteil. Der grundlegende Unterschied zu einem klassischen [Webstoff](/glossar/webstoff/) liegt in der Konstruktion. Während beim Weben Fäden rechtwinklig gekreuzt werden, besteht Strick aus Maschen. Diese Struktur speichert Luft besonders gut, weshalb Strickwaren hervorragend isolieren und wärmen.
+## Strick einfach erklärt
 
-Zudem passt sich das elastische Gestrick den Körperbewegungen flexibel an. Für eine gut sortierte Garderobe ist Strick ein unverzichtbarer Baustein, weil er Textur in deine Outfits bringt. Ein klassischer Pullover mit [Argyle/Rautenmuster](/glossar/argyle-rautenmuster/) zeigt zum Beispiel, wie kunstvoll sich Muster und Strickoberfläche miteinander verbinden lassen.
+Strick begegnet dir als Pullover, [Cardigan](/glossar/cardigan/), Strickjacke, Kleid, Top oder Schal. Entscheidend ist nicht allein, ob ein Teil gestrickt ist, sondern wie fein oder grob die Maschen gearbeitet sind und welche Faser verwendet wurde.
 
-## Die Stilwirkung: Fein vs. Grob
+Maschen können sich unter Zug bewegen. Daher fühlt sich Strick oft anschmiegsam an und bietet Bewegungsfreiheit, auch ohne einen hohen Anteil an [Elasthan](/glossar/elasthan/). Gleichzeitig kann die Formstabilität je nach Material und Konstruktion unterschiedlich ausfallen.
 
-Wie ein Strickteil an dir wirkt, entscheidet sich vor allem durch die Feinheit der Maschen und das verwendete Garn:
+Die offenen Zwischenräume der Maschen können Luft einschließen. Das erklärt, warum viele Strickwaren angenehm wärmen. Wie warm ein Strickteil tatsächlich ist, hängt aber vor allem von Faser, Garnstärke, Dichte und Materialmenge ab.
 
-- **[Feinstrick](/glossar/feinstrick/)**: Diese Variante wird aus dünnen Garnen sehr dicht gestrickt. Sie wirkt elegant, zurückhaltend und professionell. Ein feiner [Cardigan](/glossar/cardigan/) oder ein schlichter Pullover eignen sich ideal für geschäftliche Anlässe und das Layering unter einem Blazer.
-- **[Grobstrick](/glossar/grobstrick/)**: Grobe Maschen, dicke Garne und plastische Zopfmuster bringen eine starke [Struktur](/glossar/struktur/) in deinen Look. Sie wirken gemütlich, nahbar und entspannt. Grobstrick zieht die Aufmerksamkeit auf sich und setzt einen klaren Fokuspunkt.
-- **[Rippstrick](/glossar/rippstrick/)**: Durch abwechselnd rechte und linke Maschen entsteht eine streifige Struktur. Rippstrick schmiegt sich eng an den Körper an und betont die Silhouette auf subtile Weise.
+## Was unterscheidet Strick von Jersey und Webstoff?
 
-## Qualität und Materialien im Fokus
+Strick, Jersey und Webstoff werden im Alltag oft ähnlich wahrgenommen, sind aber unterschiedlich aufgebaut.
 
-Die Langlebigkeit und der Tragekomfort hängen entscheidend von der gewählten Faser ab. Hochwertige Naturfasern bieten die beste Thermoregulation und fühlen sich auf der Haut besonders weich an.
+- **Strick** besteht aus sichtbaren oder sehr feinen Maschen. Er kann glatt, gerippt, zopfartig, locker oder plastisch wirken.
+- **[Jersey](/glossar/jersey/)** ist ebenfalls Maschenware, wirkt aber meist glatter, dünner und wird häufig für T Shirts, Longsleeves oder körpernahe Kleider verwendet.
+- **[Webstoff](/glossar/webstoff/)** entsteht aus sich kreuzenden Kett und Schussfäden. Er wirkt oft klarer, weniger dehnbar und formstabiler als Strick.
 
-- **[Wolle](/glossar/wolle/)**: Der Klassiker bietet hervorragende Wärme und Selbstreinigungskräfte.
-- **[Kaschmir](/glossar/kaschmir/)**: Die edle Edelhaar Faser ist extrem leicht, weich und wärmt besonders intensiv.
-- **[Alpaka](/glossar/alpaka/)**: Diese Faser zeichnet sich durch einen leicht seidigen Glanz und einen fließenden, weichen [Materialfall](/glossar/materialfall/) aus.
+Für dein Outfit bedeutet das: Strick bringt meist Weichheit und Textur, während Webstoff eher Struktur und Präzision vermittelt.
 
-Ein natürlicher Begleiteffekt von weichen Strickfasern ist das sogenannte [Pilling](/glossar/pilling/). Dabei bilden sich durch Reibung an der Oberfläche kleine Knötchen. Dies ist kein Zeichen mangelnder Qualität, sondern eine typische Fasereigenschaft, die du mit einem hochwertigen [Fusselrasierer](/glossar/fusselrasierer/) materialschonend entfernen kannst.
+## Welche Arten von Strick gibt es?
 
-## Typische Missverständnisse
+### Feinstrick: ruhig, leicht und gepflegt
 
-**Missverständnis:** Strick ist nur etwas für den Winter.  
-**Besser:** Es gibt hervorragende Sommerstrickqualitäten aus Baumwolle, Leinen oder Viskose, die luftig gewebt sind und an lauen Abenden angenehm kühlen.
+[Feinstrick](/glossar/feinstrick/) wird aus dünnem Garn mit kleinen, dicht gearbeiteten Maschen hergestellt. Die Oberfläche wirkt meist glatt und zurückhaltend. Feinstrick fällt häufig weicher und lässt sich gut unter Blazern, Jacken oder Mänteln tragen.
 
-**Missverständnis:** Strick leiert immer sofort aus.  
-**Besser:** Hochwertige Maschenware behält ihre Form, wenn sie liegend getrocknet und nicht auf Kleiderbügeln aufgehängt wird. Ein geringer Anteil an stabilisierenden Fasern kann die Formkraft zusätzlich unterstützen.
+Ein feiner Pullover, ein Cardigan oder ein Rollkragen aus Feinstrick passt gut zu einer Stoffhose, einem Rock oder einem professionellen [Office Look](/glossar/office-look/). Durch seine ruhige Oberfläche wirkt Feinstrick meist eleganter als grobe Maschen.
 
-## ESKYNA-Merksatz
+### Grobstrick: sichtbar, weich und voluminös
 
-Strick bringt Leben und Tiefe in deine Garderobe. Durch das bewusste Spiel mit unterschiedlichen Maschenstärken und Oberflächenstrukturen verleihst du selbst schlichten Outfits im Handumdrehen mehr Ausdruckskraft und Eleganz.
+[Grobstrick](/glossar/grobstrick/) arbeitet mit dickerem Garn und deutlich sichtbaren Maschen. Zöpfe, Strukturmuster oder lockere Flächen geben dem Teil optisches Gewicht. Grobstrick wirkt häufig entspannt, gemütlich und natürlich.
 
-## Praxischeck für deinen Kleiderschrank
+Weil Grobstrick viel Raum einnimmt, hilft ein Blick auf die [Proportion](/glossar/proportion/). Kombiniere einen voluminösen Pullover zum Beispiel mit einer geraderen Hose, einem schmaleren Rock oder einem klaren Schuh. So bleibt der Look bewusst statt überladen.
 
-Wenn du ein neues Strickteil auswählst, betrachte es nicht isoliert, sondern frage dich, wie es mit deinen bestehenden Kleidungsstücken harmoniert:
+### Rippstrick: elastisch und körpernah
 
-1. **Fühle das Material**: Achte auf den Griff. Kratzt die Faser oder fühlt sie sich angenehm weich an?
-2. **Prüfe den Glanzgrad**: Matte Wollqualitäten wirken eher sportlich und rustikal, während merzerisierte Baumwolle oder Seidenmischungen einen edlen [Glanzgrad](/glossar/glanzgrad/) aufweisen.
-3. **Wähle die passende Form**: Ein feines [Strickkleid](/glossar/strickkleid/) oder eine schmale [Strickjacke](/glossar/strickjacke/) lässt sich wunderbar vielseitig stylen, während ein Oversize-Pullover ein klares Statement für die Freizeit setzt.
+[Rippstrick](/glossar/rippstrick/) erkennst du an seinen längs verlaufenden Rippen. Die Struktur ist besonders dehnbar und legt sich häufig nah an den Körper. Rippstrick kann schlicht wirken, betont aber durch seinen Sitz und die vertikale Linienführung oft stärker die Silhouette.
+
+Feine Rippstricktops, Kleider oder Cardigans eignen sich gut als Basis für Layering. Achte darauf, dass sich das Material angenehm anfühlt und beim Bewegen nicht zu stark spannt.
+
+### Strukturstrick: mehr Tiefe im Outfit
+
+Strukturstrick fasst Muster und plastische Oberflächen zusammen, etwa Zöpfe, Waben oder Reliefmuster. Er erzeugt visuelle Tiefe und macht selbst neutrale Farben interessanter. Die sichtbare [Struktur](/glossar/struktur/) kann ein schlichtes Outfit bewusst aufwerten.
+
+Je stärker das Muster, desto ruhiger dürfen Schnitt, Farbe und die übrigen Kleidungsstücke sein. So wird der Strick zum Fokuspunkt, ohne den Look unruhig zu machen.
+
+## Welche Materialien werden für Strick verwendet?
+
+Die Faser prägt, wie sich Strick anfühlt, wie er fällt, wärmt und gepflegt werden sollte.
+
+- **[Wolle](/glossar/wolle/)** wärmt und kann je nach Garn fein, weich oder robust wirken.
+- **[Merinowolle](/glossar/merinowolle/)** ist eine feine Wollqualität, die häufig weniger grob auf der Haut wirkt.
+- **[Kaschmir](/glossar/kaschmir/)** ist besonders leicht, weich und wärmend.
+- **[Alpaka](/glossar/alpaka/)** hat einen weichen Griff und kann einen ruhigen, leicht fließenden Fall haben.
+- **[Baumwolle](/glossar/baumwolle/)** eignet sich für leichtere Strickteile und wirkt oft klarer sowie weniger wärmend als Wolle.
+- **[Viskose](/glossar/viskose/)** kann Strick weich und fließend machen.
+- **[Polyacryl](/glossar/polyacryl/)** wird häufig in Strickmischungen eingesetzt und sollte bei Griff, Wärmegefühl und Pillingverhalten bewusst geprüft werden.
+
+Ein [Faser Mix](/glossar/faser-mix/) ist nicht grundsätzlich besser oder schlechter. Entscheidend ist, ob Material, Tragegefühl, Pflege und Einsatz zu deinem Alltag passen.
+
+## Wie wirkt Strick im Outfit?
+
+Strick verändert die Wirkung eines Looks vor allem durch Oberfläche und Volumen. Ein glatter Feinstrickpullover kann ein Outfit beruhigen und gepflegter wirken lassen. Ein grober, voluminöser Pullover setzt dagegen einen stärkeren, lässigeren Akzent.
+
+Du kannst Strick gezielt einsetzen:
+
+- **Für mehr Weichheit:** Kombiniere Feinstrick mit Blazer, Stoffhose oder glattem Rock.
+- **Für mehr Tiefe:** Setze Grobstrick zu Denim, Leder oder anderen glatten Oberflächen ein.
+- **Für eine längere Linie:** Wähle einen feinen, ruhig fallenden Strick in ähnlicher Farbe wie Hose oder Rock.
+- **Für bewusste Balance:** Trage zu viel Volumen oben ein klareres, weniger weites Unterteil.
+- **Für einen Fokuspunkt:** Nutze Zopf, Rippe oder Muster als sichtbares Detail und halte die übrigen Flächen ruhiger.
+
+Auch der [Glanzgrad](/glossar/glanzgrad/) ist wichtig. Matte Wollqualitäten wirken oft natürlicher und zurückhaltender. Glatte Seiden, Viskose oder Baumwollmischungen können feiner und eleganter erscheinen.
+
+## Strick im Sommer und Winter
+
+Strick ist nicht nur für kalte Monate geeignet. Im Winter funktionieren dichtere, wärmende Qualitäten aus Wolle, Kaschmir oder Alpaka gut als mittlere Schicht im [Layering](/glossar/layering/).
+
+Für wärmere Tage eignen sich leichtere Strickwaren aus Baumwolle, Leinen oder Viskose. Achte auf eine offene oder feine Maschenstruktur und darauf, wie transparent das Material im Tageslicht wird. Ein leichtes Stricktop oder ein feiner Cardigan kann an kühlen Sommerabenden praktisch sein, ohne winterlich zu wirken.
+
+## Qualität bei Strick erkennen
+
+Bei Strick zählt nicht nur das Etikett. Nimm das Teil in die Hand und prüfe es in Ruhe.
+
+- **Griff:** Fühlt sich das Material angenehm an oder kratzt es dich schon beim kurzen Kontakt?
+- **Maschenbild:** Wirken die Maschen gleichmäßig und die Kanten sauber gearbeitet?
+- **Rücksprung:** Zieht sich das Material nach leichtem Dehnen wieder zusammen oder bleibt es ausgeleiert?
+- **Transparenz:** Wird der Strick unter Spannung unerwartet durchsichtig?
+- **Schnitt und Sitz:** Liegt das Teil an Schulter, Hals und Bündchen ruhig an?
+- **Pflegehinweis:** Passt die erforderliche Pflege zu deinem Alltag?
+
+Besonders bei lockeren, schweren oder langen Strickteilen kann das Eigengewicht den Sitz beeinflussen. Prüfe deshalb nicht nur den Stand vor dem Spiegel, sondern bewege dich, setz dich hin und hebe die Arme.
+
+## Pilling bei Strick: Was bedeutet das?
+
+[Pilling](/glossar/pilling/) sind kleine Faserknötchen auf der Oberfläche. Sie entstehen durch Reibung, etwa unter den Armen, an den Seiten oder dort, wo ein Taschenriemen aufliegt.
+
+Pilling kann bei vielen Fasern vorkommen und ist kein eindeutiger Beweis für schlechte Qualität. Entscheidend ist, wie stark es auftritt, wie schnell sich die Oberfläche verändert und ob das Teil nach dem vorsichtigen Entfernen der Knötchen wieder gepflegt aussieht.
+
+Mit einem [Fusselrasierer](/glossar/fusselrasierer/) kannst du Knötchen vorsichtig abnehmen. Arbeite auf einer glatten Fläche und ziehe den Stoff nicht stark unter Spannung.
+
+## Strick richtig pflegen
+
+Strick behält Form und Oberfläche länger, wenn du ihn materialgerecht behandelst.
+
+- Beachte immer das [Pflegeetikett](/glossar/pflegeetikett/).
+- Lüfte Wollstrick nach dem Tragen oft erst aus, statt ihn sofort zu waschen.
+- Wasche empfindliche Teile bei Bedarf schonend per [Handwäsche](/glossar/handwaesche/) oder im passenden Wollprogramm.
+- Trockne schwere Strickteile möglichst liegend, damit sie sich nicht durch ihr Eigengewicht verziehen.
+- Falte Strick im Schrank, statt schwere Pullover lange auf einen Bügel zu hängen.
+- Entferne Pilling behutsam, bevor sich die Knötchen stark verdichten.
+
+## Typische Missverständnisse über Strick
+
+**Missverständnis: Strick ist nur Winterkleidung.**  
+**Besser:** Strick gibt es in vielen Gewichtungen. Leichte Baumwoll, Leinen oder Viskosequalitäten können auch in der Übergangszeit und im Sommer funktionieren.
+
+**Missverständnis: Jeder Strick ist automatisch warm.**  
+**Besser:** Wärme entsteht aus Faser, Dichte, Garnstärke und Luftpolsterung. Ein dünnes Baumwollstrickteil wärmt deutlich anders als ein dichter Wollpullover.
+
+**Missverständnis: Pilling bedeutet immer schlechte Qualität.**  
+**Besser:** Pilling entsteht vor allem durch Reibung und lose Faserenden. Es kann auch bei weichen Naturfasern vorkommen.
+
+**Missverständnis: Grobstrick macht grundsätzlich breit.**  
+**Besser:** Grobstrick bringt Volumen und Struktur. Wie stark er wirkt, hängt von Schnitt, Länge, Farbe, Maschenbild und der gesamten [Volumenverteilung](/glossar/volumenverteilung/) im Outfit ab.
+
+## Praxischeck: So findest du den passenden Strick
+
+1. **Lege die gewünschte Wirkung fest.** Möchtest du eher klar und professionell, weich und entspannt oder sichtbar und strukturiert wirken?
+2. **Wähle die Maschenfeinheit passend zum Anlass.** Feinstrick ist meist vielseitiger für Business und Alltag, Grobstrick stärker für Freizeit und bewusst lässige Looks.
+3. **Prüfe das Material am Hals oder Unterarm.** So merkst du schnell, ob du die Faser auf der Haut gerne trägst.
+4. **Achte auf die Schulternaht und Bündchen.** Sie beeinflussen, ob ein Strickteil ordentlich sitzt oder unfreiwillig formlos wirkt.
+5. **Plane mindestens drei Kombinationen.** Ein gutes Strickteil passt zu vorhandenen Hosen, Röcken, Schuhen und Jacken in deiner Garderobe.
+
+## ESKYNA Merksatz
+
+Strick ist nicht nur warm, sondern ein wichtiges Stilmittel für Textur, Weichheit und Tiefe. Je feiner die Masche, desto ruhiger wirkt sie. Je gröber die Masche, desto stärker prägt sie dein Outfit.
 
 ## Beratungsblick
 
-In der persönlichen Stilberatung nutzen wir Strick gezielt, um harte Linien aufzubrechen. Wenn ein Businesslook mit Stoffhose und Bluse zu streng wirkt, bringt ein feiner Stricküberwurf sofort die gewünschte Nahbarkeit in das Gesamtbild, ohne an Professionalität zu verlieren.
+Strick ist besonders wertvoll, wenn du klare oder formelle Looks etwas nahbarer gestalten möchtest. Ein feiner Pullover statt einer Bluse kann einen Businesslook weicher machen, ohne dass er an Professionalität verliert. Grobstrick schafft dagegen bewusst Kontrast zu glatten, strengen oder glänzenden Materialien.
 
-Weitere Inspirationen zu Stoffen und deren Verarbeitung findest du in der Kategorie [Materialien & Details](/glossar/kategorie/materialien-details/).
+Wähle Strick nicht allein nach Farbe oder Wärme. Achte genauso auf Maschenbild, Volumen, Material und darauf, wie das Teil deine gewünschte Wirkung unterstützt.
+
+Weitere passende Begriffe findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).
 
 ## Verwandte Begriffe
 
 - [Feinstrick](/glossar/feinstrick/)
 - [Grobstrick](/glossar/grobstrick/)
 - [Rippstrick](/glossar/rippstrick/)
+- [Wolle](/glossar/wolle/)
+- [Pilling](/glossar/pilling/)
 - [Materialfall](/glossar/materialfall/)
 - [Struktur](/glossar/struktur/)
-- [Glanzgrad](/glossar/glanzgrad/)
-- [Accessoire](/glossar/accessoire/)

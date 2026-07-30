@@ -1,22 +1,25 @@
 ---
 title: Was bedeutet Aubergine als Farbe?
-seoTitle: "Aubergine: Dunkle Basisfarbe mit violetter Tiefe"
+seoTitle: "Aubergine als Farbe: Dunkles Violett elegant kombinieren"
 term: Aubergine
 slug: aubergine
 url: /glossar/aubergine/
-description: Aubergine ist ein dunkler Violettton mit roten, braunen oder schwarzen Anteilen. Eine starke Alternative zu Schwarz und Navy.
+description: Aubergine ist ein tiefes, dunkles Violett mit roten, braunen oder fast schwarzen Anteilen. Erfahre, wie die elegante Farbe wirkt und wie du Aubergine stilvoll kombinierst.
 category: Farb-Lexikon
 color_hex: "#5C385E"
 tags:
   - aubergine
   - violett
   - dunkelton
+  - farben kombinieren
 image: images/glossar/aubergine.png
-image_alt: "Glossar-Illustration zu Aubergine"
+image_alt: "Dunkler Farbton Aubergine mit violetter Tiefe"
 keywords:
   - aubergine farbe bedeutung
   - aubergine kombinieren
+  - aubergine farbe
   - dunkles violett styling
+  - welche farben passen zu aubergine
 relatedTerms:
   - title: Violett
     url: /glossar/violett/
@@ -26,34 +29,99 @@ relatedTerms:
     url: /glossar/mauve/
   - title: Tannengrün
     url: /glossar/tannengruen/
+  - title: Petrol
+    url: /glossar/petrol/
+  - title: Gedämpfte Farben
+    url: /glossar/gedaempfte-farben/
+history:
+  - Dunkle Violetttöne waren historisch mit Würde, Reichtum und gehobener Kleidung verbunden, weil violette Farbstoffe aufwendig herzustellen waren.
+  - Aubergine wird heute vor allem als tiefer, moderner Farbton zwischen Violett, Braun und Schwarz eingesetzt.
+knowledge:
+  - Aubergine ist keine einheitlich festgelegte Nuance und kann je nach Rot, Braun oder Schwarzanteil wärmer oder kühler wirken.
+  - Der Ton kann Schwarz als dunkle Basisfarbe ersetzen und wirkt dabei oft weicher.
+  - Material und Licht verändern die Wirkung stark, besonders bei Samt, Leder und glänzenden Oberflächen.
 lastmod: "2026-07-18"
 ---
 
-## Kurzdefinition
+## Definition: Was ist Aubergine als Farbe?
 
-Der Farbton **Aubergine** bezeichnet ein tiefes, sehr dunkles Violett mit variierenden Anteilen von Rot, Braun oder Schwarz. Benannt nach der glänzenden Schale der gleichnamigen Eierfrucht (_Solanum melongena_), changiert diese elegante Nuance zwischen Pflaume, edlem Bordeaux und dunklem Schokoladenbraun. Für die modische Praxis ist die Aubergine-Farbe von großer Bedeutung: Sie gilt als ausdrucksstarke, geheimnisvolle und beruhigende Nuance, die eine hervorragende, weichere Alternative zu klassischem Schwarz oder tiefem Navy-Blau darstellt.
+**Aubergine** ist ein tiefes, dunkles Violett mit roten, braunen oder nahezu schwarzen Anteilen. Der Farbname bezieht sich auf die glänzende Schale der Eierfrucht. Je nach Nuance kann Aubergine an Pflaume, dunkles [Bordeaux](/glossar/bordeaux/), Braun oder sehr dunkles [Violett](/glossar/violett/) erinnern.
 
-## Stilwirkung und Einsatz
+In der Mode ist Aubergine eine elegante dunkle Farbe mit viel Tiefe. Sie funktioniert als Alternative zu Schwarz oder [Navy](/glossar/navy/), wirkt aber meist weicher, wärmer oder komplexer. Deshalb eignet sich Aubergine gut für Looks, die ruhig und hochwertig aussehen sollen, ohne farblos zu werden.
 
-In der Modegeschichte ist das dunkle Violett eng mit Eleganz, Würde und royalem Luxus verbunden. Da violette Farbstoffe historisch aufwendig aus Naturmaterialien gewonnen werden mussten, blieb die Farbgruppe lange Zeit der Elite vorbehalten. Aubergine führt diese Tradition heute als moderne, subtile Luxusfarbe fort.
+## Wie wirkt die Farbe Aubergine?
 
-Die besondere Stilwirkung von Aubergine liegt in ihrer optischen Tiefe. Sie bringt Struktur und Dimension in herbstliche sowie winterliche Garderoben, ohne dabei so hart oder flach wie reines Schwarz zu wirken.
+Aubergine wirkt dunkel, ruhig und präsent. Die Farbe hat die Tiefe einer klassischen Basisfarbe, bringt durch ihren violetten Anteil aber mehr Charakter in ein Outfit. Sie kann elegant, sinnlich, kreativ oder auch professionell wirken. Entscheidend sind Nuance, Material und Kombination.
 
-- **Typische Materialien:** Besonders edel wirkt der Ton auf texturierten Stoffen wie Samt, Seide, schwerem Tweed, feiner Merinowolle sowie auf hochwertigem Glatt- und Wildleder.
-- **Einsatz in der Garderobe:** Aubergine ist ein vielseitiger Allrounder für smarte Business- und elegante Abendgarderobe. Die Nuance eignet sich perfekt für strukturierte Keypieces wie [Blazer](/glossar/blazer/), einen zeitlosen [Mantel](/glossar/mantel/), monochrome Anzüge oder feine Strickwaren sowie für ausdrucksstarke Accessoires wie Schuhe, Gürtel und Taschen.
+Auf matten Stoffen wie Wolle, Flanell oder feinem Strick erscheint Aubergine zurückhaltend und edel. Auf glänzenden Oberflächen wie [Samt](/glossar/samt/), [Seide](/glossar/seide/) oder glattem Leder wirkt derselbe Ton deutlich dramatischer, weil Licht die violette Tiefe stärker sichtbar macht.
 
-## Beratungsblick
+Aubergine zählt meist zu den [gedämpften Farben](/glossar/gedaempfte-farben/). Dadurch wirkt der Ton weniger laut als klares Lila oder leuchtendes Fuchsia, bleibt aber sichtbar genug, um einem neutralen Look Tiefe zu geben.
 
-Aus Sicht der Farb- und Stilberatung ist Aubergine ein faszinierendes Chamäleon. Da es sich um ein sehr gedecktes, dunkles Violett handelt, steht es besonders jenen Farbtypen hervorragend, die von gedeckten und tiefen Farben profitieren (wie der dunkle Herbst- oder der kühle Wintertyp).
+## Aubergine als dunkle Basisfarbe tragen
 
-**Der Harmonie-Check für dein dunkles Violett Styling:** Achte bei der Anprobe darauf, ob im Gesamtbild zuerst dein Gesicht strahlt oder die dunkle Farbfläche dominiert. Sollte der Ton dich optisch erdrücken oder blass wirken lassen, empfiehlt es sich, die Farbe weiter unten zu tragen, beispielsweise als Hose, Rock oder in Form von eleganten Lederschuhen.
+Wenn du Schwarz als zu hart, Grau als zu sachlich oder Navy als zu vertraut empfindest, ist Aubergine eine starke Wahl. Ein auberginefarbener [Blazer](/glossar/blazer/), [Mantel](/glossar/mantel/) oder eine Stoffhose bildet eine ruhige Grundlage für viele Outfits.
 
-## Styling-Tipp
+Besonders gut funktioniert die Farbe bei klaren, hochwertigen Schnitten. Ein dunkler Anzug in Aubergine wirkt oft weniger streng als Schwarz. Ein Strickpullover in diesem Ton bringt Tiefe in Jeans und neutrale Hosen. Auch bei Taschen, Schuhen oder einem [Gürtel](/glossar/guertel/) ist Aubergine ein vielseitiger Akzent, der weniger erwartbar als Schwarz ist.
 
-Wer **Aubergine kombinieren** möchte, profitiert von der enormen Vielseitigkeit dieses Tons, da er sowohl kühle als auch warme Untertöne harmonisch ergänzt:
+Wichtig ist der Gesamtlook: Aubergine wirkt am stärksten, wenn du nicht zu viele weitere dunkle, schwere Farben ohne Kontrast kombinierst. Eine helle Fläche am Gesicht oder ein klarer Materialkontrast lässt den Ton lebendiger erscheinen.
 
-- **Licht & Kontrast:** Mit [Ecru](/glossar/ecru/), Elfenbein oder softem Cremeweiß verliert das dunkle Violett seine Schwere und gewinnt an strahlender Frische.
-- **Analoge Tiefe:** In Kombination mit [Petrol](/glossar/petrol/) oder waldigem Tannengrün entsteht ein harmonischer, fast mystischer Farbdialog von großer optischer Tiefe.
-- **Edle Ton-in-Ton-Looks:** Das Zusammenspiel mit verwandten Nuancen wie [Bordeaux](/glossar/bordeaux/) oder [Mauve](/glossar/mauve/) kreiert ein elegantes und modisch anspruchsvolles Layering.
+## Welche Farben passen zu Aubergine?
 
-**ESKYNA-Merksatz:** Aubergine ist eine dunkle Basisfarbe mit violetter Tiefe, zurückhaltend, aber nie neutral.
+Aubergine lässt sich sowohl mit warmen als auch mit kühlen Farben kombinieren. Welche Kombination besonders stimmig wirkt, hängt davon ab, ob dein Aubergineton stärker ins Rötliche, Bräunliche oder Blaue geht.
+
+### Aubergine mit Creme, Ecru und Weiß
+
+Mit [Creme](/glossar/creme/), [Ecru](/glossar/ecru/) oder gebrochenem Weiß wirkt Aubergine leichter und klarer. Der helle Kontrast nimmt der dunklen Farbe Schwere und eignet sich besonders gut für Blusen, Shirts, Schals oder Strick direkt am Gesicht.
+
+### Aubergine mit Bordeaux und Mauve
+
+Mit verwandten Tönen wie [Bordeaux](/glossar/bordeaux/) und [Mauve](/glossar/mauve/) entsteht ein harmonischer Look mit viel Tiefe. Damit das Outfit nicht zu dunkel oder zu unruhig wird, helfen unterschiedliche Helligkeiten und Oberflächen, etwa mattes Aubergine zu einem weicheren Mauve oder glattem Bordeaux.
+
+### Aubergine mit Petrol und Tannengrün
+
+[Petr ol](/glossar/petrol/) und [Tannengrün](/glossar/tannengruen/) erzeugen mit Aubergine eine ruhige, dunkle Farbharmonie. Diese Kombinationen wirken besonders stimmig in Herbst und Winter, bei Wolle, Tweed, Leder und anderen strukturierten Materialien.
+
+### Aubergine mit Grau, Beige und Braun
+
+[Grau](/glossar/grau/), [Beige](/glossar/beige/) und dunkles [Braun](/glossar/braun/) machen Aubergine alltagstauglich. Helle warme Neutraltöne nehmen dem Violett die Strenge. Dunkles Braun kann die rötlich braune Seite von Aubergine betonen und einen besonders weichen, erdigen Look schaffen.
+
+### Aubergine mit Schwarz
+
+Schwarz und Aubergine ergeben eine sehr dunkle, grafische Kombination. Sie kann elegant wirken, braucht aber oft bewusst gesetzten Kontrast, etwa durch eine helle Bluse, Schmuck oder ein Material mit Glanz. Sonst verschwimmen beide Farben bei wenig Licht schnell zu einer dunklen Fläche.
+
+## Wem steht Aubergine?
+
+Ob Aubergine dir besonders gut steht, entscheidet vor allem über Unterton, Helligkeit und Kontrast. Kühleres Aubergine mit blauem Anteil harmoniert häufig gut mit kühlen, tiefen Farbwelten. Rötlich oder bräunlich wirkendes Aubergine kann wärmeren, gedeckten Farbwelten näherkommen.
+
+Probiere die Farbe deshalb immer im Gesichtstest aus. Halte ein auberginefarbenes Oberteil oder Tuch unter dein Gesicht und achte auf den Gesamteindruck:
+
+- Wirkt deine Haut klarer und gleichmäßiger, kann Aubergine eine gute Gesichtsfarbe für dich sein.
+- Werden Schatten, Rötungen oder Müdigkeit stärker sichtbar, trage den Ton besser weiter unten.
+- Ist dir Aubergine am Gesicht zu dunkel, nutze die Farbe für Hose, Rock, Schuhe oder Tasche und wähle oben eine hellere Farbe.
+
+Eine persönliche [Farbberatung](/glossar/farbberatung/) hilft dir dabei, die passende Richtung innerhalb der Farbgruppe zu erkennen. Denn Aubergine kann deutlich unterschiedlich ausfallen.
+
+## Typische Missverständnisse über Aubergine
+
+- **Aubergine ist einfach dunkles Lila.**  
+  Aubergine ist meist komplexer als klassisches Lila. Der Ton enthält oft Rot, Braun oder Schwarz und wirkt dadurch tiefer und gedeckter.
+
+- **Aubergine passt nur im Herbst und Winter.**  
+  Die Farbe wirkt in dunklen, schweren Materialien besonders herbstlich. Mit Creme, Weiß, leichtem Strick oder fließenden Stoffen kann sie aber auch im Frühling elegant aussehen.
+
+- **Aubergine lässt sich nur mit anderen Violetttönen kombinieren.**  
+  Gerade Neutraltöne, Grün, Petrol und Bordeaux machen Aubergine vielseitig. Entscheidend ist, dass Helligkeit und Unterton der Farben zusammenpassen.
+
+## Praxischeck: Aubergine richtig auswählen
+
+- Prüfe den Ton bei Tageslicht. Dunkles Violett kann unter Kunstlicht deutlich brauner oder fast schwarz wirken.
+- Achte darauf, ob die Nuance eher kühl bläulich oder warm rötlich wirkt.
+- Wähle bei großen Flächen wie Mantel, Blazer oder Kleid ein Material, das zu deiner gewünschten Wirkung passt.
+- Setze helle oder klare Elemente am Gesicht ein, wenn dir die Farbe als Oberteil zu dunkel erscheint.
+- Kombiniere Aubergine bewusst mit Farben aus deiner persönlichen [Farbpalette](/glossar/farbpalette/), statt nur nach allgemeinen Farbvorschlägen zu gehen.
+
+## ESKYNA-Merksatz
+
+Aubergine ist eine dunkle Basisfarbe mit violetter Tiefe. Sie wirkt weicher als Schwarz, aber deutlich charaktervoller als ein neutraler Dunkelton.
+
+Weitere passende Begriffe findest du in der Kategorie [Farb-Lexikon](/glossar/farb-lexikon/).

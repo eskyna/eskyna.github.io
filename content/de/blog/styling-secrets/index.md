@@ -1,6 +1,6 @@
 ---
 title: "Styling Secrets: Warum manche Menschen einen Raum betreten und sofort wirken"
-seoTitle: "Styling Secrets Wirkung"
+seoTitle: "Styling Secrets: Wirkung gezielt aufbauen | ESKYNA"
 date: 2026-05-21
 description: "Styling ist mehr als Mode. Erfahre, wie Kleidung, Farben, Passform und persönliche Signatur deine Ausstrahlung stärken - wissenschaftlich fundiert und alltagstauglich."
 summary: "Warum Wirkung kein Zufall ist und wie du sie mit Klarheit, Passform, Farbe und Signature-Look gezielt gestalten kannst."

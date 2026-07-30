@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+seoTitle: "Blog: Stilbegriff im Glossar | ESKYNA"
 description: "Stilwissen, Farbtheorie und tragbare Outfit-Ideen von ESKYNA."
 ui:
   back_text: "Zur Startseite"

@@ -1,25 +1,29 @@
 ---
 title: Cost per Wear
 term: Cost per Wear
-description: Cost per Wear beschreibt die Kosten eines Kleidungsstücks pro tatsächlichem Tragen.
+description: Cost per Wear beschreibt die Kosten eines Kleidungsstücks pro tatsächlichem Tragen. Die einfache Rechnung hilft dir, Kaufpreis, Nutzungsdauer und Kombinierbarkeit realistischer einzuordnen.
 category: Garderobe & Alltag
 subcategory: Verbraucherwissen
 tags:
   - cost per wear
   - garderobe
+  - kaufentscheidung
+  - langlebigkeit
 keywords:
   - cost per wear
   - was bedeutet cost per wear
+  - cost per wear einfach erklärt
+  - cost per wear berechnen
   - cost per wear stilberatung
   - garderobe
 weight: 1
 image: images/glossar/cost-per-wear.png
 image_alt: Editoriale Glossar-Grafik zu Cost per Wear mit ruhigen Farbfeldern und feiner Linienführung
-history: "Der Begriff Cost per Wear entstand im späten 20. Jahrhundert mit dem Aufkommen der industriellen Konfektionsmode. Während maßgeschneiderte Kleidung früher automatisch jahrzehntelang repariert und getragen wurde, machte billige Massenware eine neue ökonomische Formel nötig, um den realen Wert von Kleidung im Verhältnis zur Nutzungsdauer zu berechnen."
+history: "Cost per Wear nutzt eine einfache Kosten-Nutzen-Logik für Kleidung: Nicht allein der Kaufpreis zählt, sondern wie häufig ein Stück tatsächlich getragen wird. Das Prinzip macht den langfristigen Nutzen von Kleidung im Verhältnis zu ihrer Anschaffung sichtbar."
 knowledge:
-  - "Die Cost-per-Wear-Formel lautet Anschaffungspreis geteilt durch die Anzahl der Tragetage."
-  - "Ein scheinbar teures Investitionsteil hat oft einen deutlich niedrigeren Cost per Wear als ein günstiges Trendteil, das ungetragen im Schrank hängt."
-  - "Langlebige Materialien, gute Passform und zeitlose Schnitte senken den CPW langfristig."
+  - "Die Cost per Wear Formel lautet: Anschaffungspreis geteilt durch die Anzahl der tatsächlichen Tragemomente."
+  - "Ein höherer Kaufpreis führt nicht automatisch zu niedrigeren Kosten pro Tragen. Entscheidend sind Passform, Nutzung, Pflege und Kombinierbarkeit."
+  - "Cost per Wear ist eine Orientierung für Kaufentscheidungen, keine Regel gegen besondere oder selten getragene Kleidung."
 relatedTerms:
   - title: Capsule Wardrobe
     url: /glossar/capsule-wardrobe/
@@ -31,20 +35,18 @@ relatedTerms:
     url: /glossar/langlebigkeit/
   - title: Investitionsteil
     url: /glossar/investitionsteil/
+  - title: Kaufkriterien
+    url: /glossar/kaufkriterien/
 faq:
   items:
-    - q: Wie nutze ich „Cost per Wear“ im Alltag?
-      a:
-        Nutze den Begriff als Prüfpunkt für Alltagstauglichkeit, Kombination und Wiederholung. Entscheidend ist,
-        ob er zu deinem Anlass, deinem Körpergefühl und deiner gewünschten Wirkung passt.
-    - q: Gilt „Cost per Wear“ für jeden Stil gleich?
-      a:
-        Nein. Stil funktioniert immer im Kontext. Was bei einer Person klar und stimmig wirkt, kann bei einer anderen
-        zu streng, zu laut oder zu zufällig erscheinen.
-    - q: Ist Cost per Wear nur ein Modethema?
-      a:
-        Nein. Cost per Wear wird hilfreich, wenn daraus konkrete Entscheidungen für Kleidung, Wirkung und Alltag
-        entstehen.
+    - q: Wie berechne ich Cost per Wear?
+      a: "Teile den Kaufpreis durch die Zahl der tatsächlichen Tragemomente. Ein Mantel für 300 Euro, den du 150 Mal trägst, liegt bei 2 Euro pro Tragen."
+    - q: Wie nutze ich Cost per Wear im Alltag?
+      a: "Schätze vor dem Kauf realistisch ein, zu welchen Anlässen du ein Teil tragen und womit du es kombinieren würdest. Passform, Komfort, Pflege und dein Alltag sind dabei wichtiger als ein möglichst niedriger Wert."
+    - q: Haben teure Kleidungsstücke automatisch einen guten Cost per Wear?
+      a: "Nein. Ein teures Teil mit schlechter Passform oder wenigen Einsatzmöglichkeiten kann hohe Kosten pro Tragen haben. Auch ein günstiges Basic kann sehr sinnvoll sein, wenn du es häufig und gern trägst."
+    - q: Ist Cost per Wear ein Nachhaltigkeitsnachweis?
+      a: "Nein. Häufiges Tragen kann ein Zeichen für gute Nutzung sein, sagt aber allein nichts über Material, Herstellung oder Pflege aus. Für eine bewusste Entscheidung betrachtest du mehrere Kriterien."
 lastmod: "2026-07-09"
 commercial_intent: true
 commercial_weight: 38
@@ -55,13 +57,13 @@ consulting_questions:
   - Welche Kaufkriterien verhindern, dass ein schönes Teil ungetragen bleibt?
   - Passt die Entscheidung zu Budget, Qualität und vorhandenen Kombinationen?
   - Welche Alternative wäre langlebiger, vielseitiger oder präziser?
-consulting_focus:
+consulting_focus: >
   Cost per Wear wird in der Beratung besonders relevant, wenn aus einem Begriff eine konkrete Entscheidung
   für Kleidung, Wirkung oder Garderobe werden soll.
 offer_bridge:
   kicker: Passendes ESKYNA-Angebot
   title: Käufe klarer entscheiden
-  text:
+  text: >
     Wenn aus einem Stilbegriff eine Kaufentscheidung wird, hilft ein Filter, der Budget, Qualität, Kombinierbarkeit
     und gewünschte Wirkung zusammenführt.
   bullets:
@@ -76,85 +78,124 @@ offer_bridge:
 
 ## Definition
 
-**Cost per Wear** beschreibt die tatsächlichen Kosten eines Kleidungsstücks bezogen auf jedes einzelne Mal, das du es trägst.
+**Cost per Wear** bedeutet auf Deutsch Kosten pro Tragen. Der Begriff beschreibt, wie viel dich ein Kleidungsstück pro tatsächlichem Einsatz kostet.
 
-## Einfach erklärt
+Die Rechnung ist einfach:
 
-Was bedeutet Cost per Wear genau? Die Rechnung hinter diesem Prinzip ist denkbar einfach: Du teilst den Kaufpreis eines Kleidungsstücks durch die Häufigkeit, mit der du es tatsächlich nutzt.
+### Kaufpreis geteilt durch die Anzahl der Tragemomente = Cost per Wear
 
-Ein hochwertiger Wintermantel für 300 Euro, den du über drei Jahre hinweg an insgesamt 150 Tagen ausführst, kostet dich gerade einmal 2 Euro pro Tragen. Ein billiges Trendteil für 30 Euro aus dem Bereich [Fast Fashion](/glossar/fast-fashion/), das nach einer einzigen Party als ungeliebter [Fehlkauf](/glossar/fehlkauf/) im Kleiderschrank verstaubt, schlägt dagegen mit stolzen 30 Euro pro Tragen zu Buche.
+Ein Teil muss dafür nicht jeden Tag getragen werden. Entscheidend ist, wie realistisch und wie oft es in deinem Alltag, Beruf oder zu deinen Anlässen zum Einsatz kommt.
 
-Diese einfache Logik schützt dich vor Impulskäufen und verändert deinen Blick auf Mode fundamental. Sie zeigt dir, dass eine vermeintlich teure Anschaffung oft die günstigere und nachhaltigere Wahl ist, während billige Schnäppchen dich langfristig viel Geld kosten können. Für ESKYNA ist eine schlüssige [Garderobenlogik](/glossar/garderobenlogik/) der Schlüssel zu einem entspannten Alltag und zu echtem Stilbewusstsein.
+## Cost per Wear einfach erklärt
 
-## Warum Cost per Wear wichtig für deine Garderobe ist
+Ein Wollmantel für 300 Euro, den du über mehrere Jahre 150 Mal trägst, kostet dich rechnerisch 2 Euro pro Tragen. Ein Oberteil für 30 Euro, das nach einem Abend ungetragen im Schrank bleibt, kostet dagegen 30 Euro pro Tragen.
 
-Wenn du dieses Prinzip verstehst, wählst du Kleidung bewusster aus und kombinierst vorhandene Teile präziser. Das macht deinen Kleiderschrank nicht voller, sondern übersichtlicher und funktionaler.
+Cost per Wear verschiebt den Blick vom reinen Preisschild auf den tatsächlichen Nutzen. Ein günstiges Teil ist nicht automatisch preiswert. Ein höherpreisiges Stück ist umgekehrt nicht automatisch eine sinnvolle Investition. Relevant ist, ob du es gern trägst, ob es passt und ob es sich in deine vorhandene Garderobe einfügt.
 
-Die Logik hilft dir dabei, eine harmonische [Capsule Wardrobe](/glossar/capsule-wardrobe/) aufzubauen und deine persönliche [Garderobenplanung](/glossar/garderobenplanung/) zu optimieren.
+Gerade ein [Fehlkauf](/glossar/fehlkauf/) wird durch diese Rechnung sichtbar: Das Kleidungsstück kann schön sein, aber ohne passende Anlässe, gute [Passform](/glossar/passform/) oder Kombinationsmöglichkeiten bleibt sein Nutzen gering.
 
-- **Fehlkäufe gezielt vermeiden:** Wenn du dich vor der Kasse fragst, wie oft du ein Teil wirklich tragen wirst, filterst du kurzlebige Trends sofort aus.
-- **Sinnvoll investieren:** Du erkennst schneller, wann sich ein hochwertiges [Investitionsteil](/glossar/investitionsteil/) bezahlt macht. Ein perfekt sitzender Blazer oder rahmengenähte Schuhe glänzen im Alltag durch einen minimalen Cost per Wear.
-- **Fokus auf Qualität setzen:** Nur ein Kleidungsstück mit hoher [Langlebigkeit](/glossar/langlebigkeit/) und hervorragender [Verarbeitung](/glossar/verarbeitung/) übersteht viele Wäschen und Tragetage schadlos.
+## So berechnest du Cost per Wear
 
-## Worauf du im Alltag achten solltest
+Nutze für die Grundrechnung den Anschaffungspreis und deine tatsächliche oder realistisch erwartete Tragehäufigkeit.
 
-- **Prüfe die Kombinierbarkeit:** Ein neues Kleidungsstück sollte sich mühelos in mindestens drei verschiedene Outfits mit bereits vorhandenen Teilen integrieren lassen.
-- **Bedenke den Pflegeaufwand:** Erfordert ein Stoff eine aufwendige [chemische Reinigung](/glossar/chemische-reinigung/) oder eine komplizierte [Handwäsche](/glossar/handwaesche/), sinkt im Alltag oft die Motivation, das Teil anzuziehen.
-- **Nutze eine Einkaufsliste:** Lass dich nicht von Rabatten verführen. Nutze eine strukturierte [Einkaufsliste](/glossar/einkaufsliste/), um Lücken in deiner Garderobe systematisch und gezielt zu füllen.
-- **Achte auf die Passform:** Ein unbequemes Kleidungsstück, das zwickt oder rutscht, wird selten getragen, unabhängig davon, wie schön es ist.
+> **Beispiel:** Ein Blazer kostet 180 Euro. Du trägst ihn voraussichtlich zweimal im Monat über drei Jahre, also ungefähr 72 Mal.  
+> **180 Euro geteilt durch 72 = 2,50 Euro pro Tragen.**
+
+Die Zahl ist keine exakte Wissenschaft. Sie dient dir als Entscheidungshilfe. Du musst nicht jedes Tragen dokumentieren. Oft reicht eine ehrliche Einschätzung: Würdest du das Teil in den nächsten Monaten regelmäßig wählen oder bleibt es eine schöne Idee für einen seltenen Moment?
+
+## Was beeinflusst die Kosten pro Tragen?
+
+Der Kaufpreis ist nur ein Teil der Rechnung. Ob ein Kleidungsstück häufig zum Einsatz kommt, hängt vor allem von diesen Faktoren ab:
+
+- **Passform:** Ein Teil, das zwickt, rutscht oder deine Bewegung einschränkt, bleibt oft liegen.
+- **Kombinierbarkeit:** Je mehr vorhandene Teile dazu passen, desto häufiger kannst du es tragen. Gute [Kombinierbarkeit](/glossar/kombinierbarkeit/) erhöht den praktischen Wert eines Kleidungsstücks.
+- **Anlass:** Ein Mantel für den Alltag wird meist häufiger genutzt als ein festliches Kleid. Beides kann sinnvoll sein, erfüllt aber unterschiedliche Aufgaben.
+- **Material und Pflege:** Empfindliche Materialien oder aufwendige Reinigung können die Nutzung im Alltag begrenzen. Prüfe daher immer das [Pflegeetikett](/glossar/pflegeetikett/).
+- **Verarbeitung und Haltbarkeit:** Gute [Verarbeitung](/glossar/verarbeitung/) und passende Pflege können dazu beitragen, dass ein Teil lange tragbar bleibt.
+- **Stil und Wohlgefühl:** Wenn ein Kleidungsstück zu deinem Alltag und deiner Stilidentität passt, greifst du automatisch häufiger danach.
+
+## Warum Cost per Wear für deine Garderobe wichtig ist
+
+Cost per Wear hilft dir, Käufe weniger impulsiv und dafür gezielter zu beurteilen. Du fragst nicht nur: „Gefällt mir das?“, sondern auch: „Werde ich es wirklich tragen?“
+
+Das unterstützt eine funktionale [Garderobenlogik](/glossar/garderobenlogik/). Statt viele Einzelteile zu sammeln, setzt du auf Kleidung, die mit deinen Farben, Schnitten und Anlässen zusammenarbeitet.
+
+Besonders hilfreich ist das Prinzip bei:
+
+- hochwertigen Basics und [Investitionsteilen](/glossar/investitionsteil/)
+- Jacken, Mänteln und Schuhen für den häufigen Einsatz
+- Teilen, die eine konkrete Lücke im Kleiderschrank schließen
+- dem Aufbau einer tragbaren [Capsule Wardrobe](/glossar/capsule-wardrobe/)
+- der Entscheidung zwischen einem spontanen Trendkauf und einem lange gewünschten Stück
+
+Cost per Wear kann auch ein praktischer Baustein für eine [nachhaltige Garderobe](/glossar/nachhaltige-garderobe/) sein. Je länger und lieber du Kleidung nutzt, desto bewusster setzt du dein Budget ein. Trotzdem ersetzt die Rechnung keine Prüfung von Materialqualität, Pflegebedarf oder Produktionsbedingungen.
+
+## Cost per Wear vor dem Kauf prüfen
+
+Bevor du kaufst, stelle dir diese Fragen:
+
+- Zu welchen konkreten Situationen würde ich dieses Teil tragen?
+- Kann ich daraus mindestens drei Outfits mit meiner vorhandenen Garderobe bilden?
+- Passt der Schnitt zu meinem Körpergefühl und meiner gewünschten Wirkung?
+- Ist das Material für meinen Alltag und meine Pflegegewohnheiten geeignet?
+- Würde ich das Teil auch ohne Rabatt kaufen?
+- Ersetzt oder ergänzt es etwas, das mir tatsächlich fehlt?
+
+Diese Fragen machen aus Cost per Wear einen alltagstauglichen Filter. Eine strukturierte [Einkaufsliste](/glossar/einkaufsliste/) und klare [Kaufkriterien](/glossar/kaufkriterien/) helfen dir zusätzlich, im Geschäft oder online bei deiner Entscheidung zu bleiben.
 
 ## Typische Missverständnisse
 
-- **Missverständnis:** Teure Kleidung hat automatisch einen niedrigen Cost per Wear.
-- **Besser:** Der Preis schützt nicht vor einem Schrankhüter. Ein teures Abendkleid, das du nur einmal auf einer Hochzeit ausführst, behält einen extrem hohen Cost per Wear. Entscheidend ist die Alltagstauglichkeit und wie gut das Teil zu deinem echten Leben passt.
+- **Missverständnis:** Teure Kleidung hat automatisch einen niedrigen Cost per Wear.  
+  **Besser:** Auch ein hochpreisiges Teil kann ein Schrankhüter sein. Erst häufiges und gern getragenes Nutzen senkt die Kosten pro Tragen.
 
-- **Missverständnis:** Man sollte nur noch teure Designermode kaufen.
-- **Besser:** Die Formel bewertet den Nutzen, nicht den Status einer Marke. Ein schlichtes, günstiges T-Shirt aus guter [Qualität](/glossar/qualitaet/), das du jede Woche trägst und wäschst, erzielt ebenfalls einen hervorragenden Cost per Wear.
+- **Missverständnis:** Ein niedriger Cost per Wear ist immer das wichtigste Ziel.  
+  **Besser:** Nicht jedes Kleidungsstück muss ein Alltagsbasic sein. Festliche Kleidung, ein besonderes Accessoire oder ein Outfit für einen wichtigen Anlass darf einen höheren Wert haben, wenn es für dich genau den gewünschten Zweck erfüllt.
 
-## ESKYNA-Merksatz
+- **Missverständnis:** Nur zeitlose Kleidung lohnt sich.  
+  **Besser:** Auch ein Trendteil kann sinnvoll sein, wenn es wirklich zu deinem Stil passt und du es oft tragen wirst. Entscheidend ist nicht das Etikett „zeitlos“, sondern die reale Nutzung.
 
-Dein persönlicher Stil gewinnt an Tiefe, wenn du nicht in schnellen Trends, sondern in echten Tragemomenten denkst. Die stärkste [Wirkung](/glossar/wirkung/) entsteht, wenn Qualität, Passform und Nutzwert harmonieren.
+- **Missverständnis:** Cost per Wear bedeutet, nur noch wenig zu kaufen.  
+  **Besser:** Es geht nicht um Verzicht, sondern um bewusstere Entscheidungen. Du kannst besondere Stücke kaufen und gleichzeitig klar einschätzen, welchen Platz sie in deiner Garderobe haben.
 
-## Praxischeck
+## Praxischeck im Kleiderschrank
 
-Mache den Test direkt in deinem Kleiderschrank: Nimm deine drei am häufigsten getragenen Kleidungsstücke heraus und berechne grob ihren Cost per Wear. Du wirst feststellen, dass diese Lieblingsteile ihre Anschaffungskosten oft schon um ein Vielfaches eingespielt haben. Verwende diese Erkenntnis als Schablone für deine zukünftigen Stilentscheidungen.
+Nimm drei Kleidungsstücke heraus, die du besonders oft trägst. Schätze ihren Kaufpreis und die ungefähre Zahl ihrer bisherigen Tragemomente. Wahrscheinlich erkennst du schnell, warum genau diese Teile für dich funktionieren.
 
-- Überlege bei jedem Neukauf, ob das Kleidungsstück mindestens 30 Mal getragen werden kann.
-- Setze auf [Slow Fashion](/glossar/slow-fashion/) und achte auf zeitlose Schnitte, die auch in der nächsten Saison noch modern wirken.
+Prüfe anschließend ein selten getragenes Stück:
+
+- Fehlt eine passende Kombination?
+- Passt es nicht mehr zu deinem Alltag?
+- Ist die Passform oder der Komfort der Grund?
+- Würde eine Änderung, Reparatur oder neue Stylingidee seine Nutzung erhöhen?
+- Oder gehört es nicht mehr zu deiner Garderobe?
+
+So wird Cost per Wear nicht zur Rechtfertigung für jeden Kauf, sondern zu einem Werkzeug für bessere Entscheidungen und weniger ungenutzte Kleidung.
+
+## Mini Case: Die richtige Jacke erkennen
+
+Du suchst eine Übergangsjacke und schwankst zwischen einem günstigen Modell, das dir nur bedingt gefällt, und einer besser verarbeiteten Jacke, die zu vielen deiner Outfits passt. Statt nur den Preis zu vergleichen, betrachtest du beide Optionen im Zusammenhang mit deinem Alltag.
+
+Die bessere Jacke kann sinnvoller sein, wenn sie sich regelmäßig tragen lässt, sich angenehm anfühlt und mehrere Funktionen erfüllt. Sie wird zum verlässlichen Teil deiner [Übergangsgarderobe](/glossar/uebergangsgarderobe/). Das günstigere Modell bleibt dagegen teuer, wenn du es selten auswählst oder bald ersetzen möchtest.
+
+## ESKYNA Merksatz
+
+Ein guter Cost per Wear entsteht nicht durch einen niedrigen Preis, sondern durch Kleidung, die du oft, gern und passend zu deinem Leben trägst.
 
 ## Beratungsblick
 
-In der persönlichen Beratung ist der Cost per Wear kein starres mathematisches Konstrukt. Er wird zu einem wertvollen Kompass, der genau auf deinen Körper, deinen Beruf und deine Freizeitaktivitäten abgestimmt ist. So erkennst du im Handumdrehen, ob ein Kleidungsstück das Potenzial zum treuen Begleiter hat oder nur für einen kurzen Moment im Geschäft glänzt.
+In der Stilberatung ist Cost per Wear kein starres Rechenmodell. Es verbindet Budget, Alltag, Passform, gewünschte Wirkung und vorhandene Kleidung zu einer klaren Kaufentscheidung.
 
-Mehr Orientierung zu diesem Thema findest du in der Kategorie [Garderobe & Alltag](/glossar/kategorie/garderobe-alltag/). Wenn du deine Garderobe systematisch ordnen und Fehlkäufe endgültig hinter dir lassen möchtest, ist die [ESKYNA Stilgarderobe](/stilgarderobe/) der ideale Wegweiser für dich.
+Manchmal ist das vielseitige Basic die beste Wahl. Manchmal ist ein besonderes Kleid für einen wichtigen Anlass genau richtig, auch wenn du es selten trägst. Entscheidend ist, dass du den Kauf bewusst einordnest und weißt, welchen Platz das Stück in deiner Garderobe haben soll.
 
-<!-- commercial-depth-start -->
-
-## Beratungssituation im echten Leben
-
-Beim Thema Cost per Wear wird die Frage in der Beratung konkret, sobald ein schöner Begriff in eine echte Entscheidung übersetzt werden muss: Was bleibt im Schrank, was wird neu kombiniert, welches Teil ist eine echte Investition wert und worauf verzichtest du lieber ganz bewusst? Häufig zeigt sich, dass nicht ein einzelner Kauf das Problem ist, sondern die fehlende Struktur hinter der gesamten Garderobe.
-
-## Mini-Case: vom Zweifel zur Entscheidung
-
-Typisch ist das Szenario einer Person, die das Prinzip des Cost per Wear theoretisch versteht, aber vor dem eigenen Spiegel den sicheren Filter verliert. In der Beratung prüfen wir die vorhandenen Stücke, vergleichen Alternativen und übersetzen die Theorie in zwei bis drei glasklare Regeln für deinen Alltag. So wird aus modischer Unsicherheit eine souveräne Kaufentscheidung, die du jederzeit selbstbewusst wiederholen kannst.
-
-## Entscheidungshilfe vor dem nächsten Kauf
-
-- Passt dieses Kleidungsstück zu der Wirkung, die du im Alltag erzielen möchtest?
-- Unterstützt es deine Silhouette und harmoniert es farblich mit deiner Garderobe?
-- Lässt es sich unkompliziert mit mindestens drei bereits vorhandenen Teilen stylen?
-- Fühlt sich das Material auch nach mehreren Stunden des Tragens noch angenehm an?
-
-## Woran du erkennst, dass du Unterstützung brauchst
-
-Eine professionelle Begleitung ist immer dann sinnvoll, wenn du die theoretischen Regeln zwar kennst, aber im Geschäft oder beim Aussortieren deines Kleiderschranks zögerst. Ein neutraler, geschulter Blick betrachtet ein Kleidungsstück niemals isoliert, sondern immer im harmonischen Zusammenspiel mit deiner Persönlichkeit, deinem Lebensstil und deinem Budget. Wenn du deine Garderobe auf das nächste Level heben möchtest, ist ein Blick auf die [ESKYNA Stilgarderobe](/stilgarderobe/) dein passender nächster Schritt.
-
-<!-- commercial-depth-end -->
+Wenn du deine Kaufentscheidungen strukturierter treffen und deine Garderobe gezielt weiterentwickeln möchtest, hilft dir die [ESKYNA Stilgarderobe](/stilgarderobe/), passende Kriterien für deinen Alltag festzulegen.
 
 ## Verwandte Begriffe
 
 - [Capsule Wardrobe](/glossar/capsule-wardrobe/)
 - [Garderobenlogik](/glossar/garderobenlogik/)
-- [Outfit-Formel](/glossar/outfit-formel/)
-- [Key-Piece](/glossar/key-piece/)
 - [Fehlkauf](/glossar/fehlkauf/)
+- [Investitionsteil](/glossar/investitionsteil/)
+- [Langlebigkeit](/glossar/langlebigkeit/)
+- [Kaufkriterien](/glossar/kaufkriterien/)
+
+Weitere passende Begriffe findest du in der Kategorie [Garderobe & Alltag](/glossar/garderobe-alltag/).

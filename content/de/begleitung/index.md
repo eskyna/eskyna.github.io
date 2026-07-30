@@ -1,5 +1,6 @@
 ---
 title: "ESKYNA Begleitung"
+seoTitle: "ESKYNA Begleitung | Stil & Image"
 description: "Professionelle Stil- und Imageberatung für wiederkehrende Stilfragen, Business-Outfits und die Weiterentwicklung deiner Garderobe im Alltag."
 
 offers_back:

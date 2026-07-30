@@ -1,113 +1,216 @@
 ---
 title: "Was ist Raw Denim?"
 term: "Raw Denim"
-description: "Was ist Raw Denim? Erfahre, wie ungewaschener Denim altert, worin er sich von Selvedge unterscheidet und was du bei Größe, Pflege und Abfärben beachten solltest."
+description: "Raw Denim ist ungewaschener Jeansstoff, der beim Tragen individuell altert. Erfahre, was Raw Denim von Selvedge Denim unterscheidet und worauf du bei Passform, Einlaufen, Pflege und Indigoabrieb achtest."
 category: "Materialien & Details"
 slug: "raw-denim"
 seoTitle: "Raw Denim: Bedeutung, Pflege und Passform | ESKYNA"
 image: "images/glossar/raw-denim.png"
-image_alt: "Dunkelblaue Raw-Denim-Jeans mit fester Oberfläche und noch gleichmäßiger, ungewaschener Indigo-Färbung"
+image_alt: "Dunkelblaue Raw-Denim-Jeans mit fester Oberfläche und gleichmäßiger, ungewaschener Indigo-Färbung"
+tags:
+  - Raw Denim
+  - Denim
+  - Jeans
+  - Materialpflege
+  - Passform
+keywords:
+  - Raw Denim
+  - was ist Raw Denim
+  - Raw Denim Bedeutung
+  - Raw Denim pflegen
+  - Raw Denim einlaufen
+  - Raw Denim abfärben
+relatedTerms:
+  - title: "Denim"
+    url: /glossar/denim/
+  - title: "Selvedge Denim"
+    url: /glossar/selvedge-denim/
+  - title: "Jeans"
+    url: /glossar/jeans/
+  - title: "Einlaufen bei Kleidung"
+    url: /glossar/einlaufen/
+  - title: "Pflegeetikett"
+    url: /glossar/pflegeetikett/
+history:
+  - "Jeansstoff wurde lange vor allem als strapazierfähiges Material für Arbeitskleidung genutzt."
+  - "Industrielle Waschungen machten den bereits aufgehellten und weicheren Jeanslook später breit verfügbar. Raw Denim bewahrt dagegen zunächst die dunkle, kaum veränderte Oberfläche."
+knowledge:
+  - "Raw Denim beschreibt vor allem den fehlenden modischen Waschprozess der fertigen Jeans, nicht zwingend einen völlig unbehandelten Stoff."
+  - "Raw Denim und Selvedge Denim sind keine Synonyme: Selvedge bezeichnet eine Webkante, Raw Denim den Zustand der Oberfläche nach der Konfektion."
+  - "Passform, Faserzusammensetzung, Vorschrumpfung und Pflege bestimmen, wie sich eine Raw-Denim-Jeans im Alltag verändert."
+faq:
+  items:
+    - q: "Läuft Raw Denim immer stark ein?"
+      a: "Nein. Vorgeschrumpfter Raw Denim verändert seine Maße meist weniger als unvorgeschrumpfter Denim. Wie stark ein Modell einläuft, hängt von Stoff, Ausrüstung sowie Wasch und Trocknungsart ab."
+    - q: "Färbt Raw Denim ab?"
+      a: "Dunkler Indigo kann besonders am Anfang durch Reibung und Feuchtigkeit auf helle Schuhe, Taschen, Möbel oder andere Kleidung abfärben. Wie stark das passiert, ist je nach Produkt unterschiedlich."
+    - q: "Muss Raw Denim größer gekauft werden?"
+      a: "Nicht pauschal. Entscheidend sind die Angaben zur Vorschrumpfung, die Materialmischung und der Sitz bei der Anprobe. Die Jeans sollte neu bereits bequem sitzen und genug Bewegungsfreiheit bieten."
+    - q: "Muss Raw Denim möglichst lange ungewaschen bleiben?"
+      a: "Nein. Es gibt keine feste Wartezeit. Pflege nach Bedarf ist sinnvoll, besonders bei Verschmutzung, Geruch oder häufigem Hautkontakt. Halte dich dabei an das Pflegeetikett des konkreten Kleidungsstücks."
 lastmod: "2026-07-22"
 ---
 
-Raw Denim ist Denim, der nach dem Nähen nicht durch eine modische Waschung künstlich aufgehellt, weichgewaschen oder gezielt gealtert wurde.
+## Definition: Was ist Raw Denim?
 
-## Definition
+**Raw Denim** ist Jeansstoff, der nach dem Nähen nicht modisch gewaschen, künstlich aufgehellt oder gezielt gealtert wurde. Deshalb wirkt eine Raw-Denim-Jeans anfangs meist dunkel, gleichmäßig und fester als eine bereits gewaschene Jeans.
 
-Raw Denim wird auch als Dry Denim oder ungewaschener Denim bezeichnet. Typisch ist eine zunächst dunkle, relativ gleichmäßige Indigo-Oberfläche. Beim Tragen entstehen mit der Zeit hellere Stellen an Bereichen, die häufig geknickt oder gerieben werden, etwa an Hüfte, Oberschenkeln, Taschen, Knien und Säumen. Dadurch entwickelt das Kleidungsstück eine individuelle Patina.
+Raw Denim wird auch als Dry Denim oder ungewaschener Denim bezeichnet. Beim Tragen verändert sich die Oberfläche durch Bewegung, Reibung und Pflege. An häufig beanspruchten Stellen, etwa an Knien, Hüfte, Taschen, Oberschenkeln und Säumen, kann der Indigo mit der Zeit heller werden. So entsteht eine individuelle Patina.
 
-„Raw“ bedeutet jedoch nicht automatisch, dass der Stoff völlig unbehandelt aus dem Webstuhl kommt. Ein Raw-Denim-Stoff kann beispielsweise vorgeschrumpft, fixiert oder mit einer leichten Ausrüstung versehen sein. Entscheidend ist vor allem, dass die fertige Jeans keine intensive industrielle Waschung erhalten hat, die den getragenen Effekt bereits vorwegnimmt.
+Wichtig: „Raw“ heißt nicht automatisch, dass ein Stoff völlig unbehandelt vom Webstuhl kommt. Der Denim kann beispielsweise vorgeschrumpft oder leicht ausgerüstet sein. Entscheidend ist, dass die fertige Jeans keine intensive industrielle Waschung erhalten hat, die einen getragenen Look schon vorwegnimmt.
 
-## Einfach erklärt
+## Raw Denim einfach erklärt
 
-Raw Denim startet dunkel und vergleichsweise ursprünglich. Statt einer fertigen Used-Waschung verändert sich die Oberfläche nach und nach durch deinen Alltag, deine Bewegungen und die Pflege.
+Eine gewöhnlich gewaschene Jeans sieht beim Kauf oft schon weich, heller und eingetragen aus. Raw Denim beginnt dagegen als dunkle Ausgangsfläche. Wie sie später aussieht, hängt stärker von deinem Alltag ab.
 
-## Warum Raw Denim wichtig ist
+Wenn du viel sitzt, gehst, Fahrrad fährst oder Dinge in den Taschen trägst, zeigen sich diese Bewegungen mit der Zeit in der Farbe. Genau diese sichtbare Entwicklung ist für viele Menschen der Reiz von Raw Denim. Andere bevorzugen eine Jeans, deren Farbe und Griff von Anfang an weicher und gleichmäßiger wirken.
 
-Der Begriff hilft, Optik, Tragegefühl und Pflege realistischer einzuschätzen. Eine Raw-Denim-Jeans kann anfangs fester wirken als ein weichgewaschenes Modell. Gleichzeitig verändert sie sich sichtbarer. Das macht sie für Menschen interessant, die eine klare, dunkle Jeans suchen und den Alterungsprozess bewusst mögen.
+Raw Denim ist deshalb kein besserer Jeansstoff per se. Es ist eine bewusste Wahl für eine bestimmte Optik, ein festeres Anfangsgefühl und einen sichtbaren Alterungsprozess.
 
-Raw Denim ist aber kein automatisches Versprechen für Langlebigkeit oder hohe Qualität. Garn, Gewebedichte, Nähte, Passform, Faserzusammensetzung und Verarbeitung bleiben entscheidend. Auch Stretch-Denim kann als Raw Denim verkauft werden, obwohl er sich anders einträgt als ein Modell aus reinem Baumwoll-Denim.
+## Woran erkennst du Raw Denim?
 
-## Blick aus der Beratung
+Typisch für Raw Denim sind diese Merkmale:
 
-In der Beratung steht zuerst die Passform im Neuzustand im Mittelpunkt. Ein fester Stoff kann sich an bestimmten Stellen etwas anpassen, sollte aber nicht so knapp gewählt werden, dass Knöpfe, Taschen oder Nähte dauerhaft unter starker Spannung stehen. Dehnung durch Tragen ist außerdem nicht dasselbe wie ein gezieltes Größerwerden des gesamten Kleidungsstücks.
+- eine dunkle, oft gleichmäßige Indigo-Färbung
+- wenig oder keine künstlich erzeugten hellen Stellen
+- ein anfangs festerer, trockener Griff
+- mögliche Farbübertragung auf helle Materialien
+- individuell heller werdende Reibungszonen beim Tragen
 
-Wichtig ist auch die Frage, ob der Denim sanforisiert beziehungsweise vorgeschrumpft wurde. Unvorgeschrumpfte Qualitäten können beim ersten Waschen deutlichere Maßveränderungen zeigen. Die konkrete Kaufgröße darf deshalb nicht allein aus allgemeinen Raw-Denim-Regeln abgeleitet werden, sondern aus den Angaben des Herstellers und einem realistischen Passformtest.
+Begriffe wie „raw“, „dry“ oder „unwashed“ weisen häufig auf Raw Denim hin. Begriffe wie „rigid“, „loomstate“ oder „unsanforized“ können zusätzlich wichtige Hinweise geben, sind aber nicht gleichbedeutend.
 
-## So nutzt du den Begriff praktisch
+## Raw Denim, Selvedge Denim und Rigid Denim: der Unterschied
 
-Prüfe, ob der Hersteller „raw“, „dry“, „rigid“, „loomstate“ oder „unsanforized“ schreibt und ob diese Begriffe genauer erklärt werden.
+Raw Denim wird oft mit anderen Denimbegriffen vermischt. Für eine gute Kaufentscheidung lohnt sich die klare Abgrenzung.
 
-Frage nach, ob mit relevantem Einlaufen beim ersten Waschen zu rechnen ist.
+### Raw Denim und Denim
 
-Teste Sitzen, Treppensteigen und Beugen, nicht nur den Stand vor dem Spiegel.
+[Denim](/glossar/denim/) ist der Stoff, aus dem Jeans gefertigt werden. Er kann roh, gespült, gebleicht, gefärbt oder auf andere Weise bearbeitet sein. Raw Denim ist also eine Variante von Denim, keine eigene Webart.
 
-Rechne in der ersten Zeit mit möglichem Indigoabrieb auf hellen Schuhen, Taschen, Möbeln oder Oberteilen.
+### Raw Denim und Selvedge Denim
 
-Richte die Pflege nach Material, Konstruktion und Herstellerangabe aus statt nach pauschalen Internetregeln.
+[Selvedge Denim](/glossar/selvedge-denim/) besitzt eine feste Webkante, die bei bestimmten Webverfahren entsteht. Diese Kante kann sichtbar sein, wenn du den Saum umschlägst. Selvedge kann Raw Denim sein, muss es aber nicht. Umgekehrt kann Raw Denim auch ohne Selvedge-Webkante hergestellt werden.
 
-## Beispiel aus dem Alltag
+### Raw Denim und Rigid Denim
 
-Du suchst eine dunkle Jeans, die auch zu Blazer und Loafern ruhig wirkt. Ein Raw-Denim-Modell ohne starke Kontrastnähte kann diese Aufgabe erfüllen. Nach einigen Monaten wird es an Bewegungsstellen heller und lässiger. Möchtest du die anfänglich elegante Wirkung möglichst lange erhalten, wäschst du schonend und vermeidest unnötige Reibung, ohne Hygiene oder Materialpflege zu vernachlässigen.
+Rigid Denim beschreibt meist festen Jeansstoff mit wenig oder keinem Stretch. Im Handel wird „rigid“ manchmal ähnlich wie Raw Denim verwendet. Die Begriffe meinen aber nicht zwingend dasselbe: Eine Jeans kann fest sein und trotzdem bereits gewaschen oder aufgehellt worden sein.
 
-## Typisches Missverständnis
+### Raw Denim und Loomstate Denim
 
-„Raw Denim darf möglichst lange überhaupt nicht gewaschen werden.“Es gibt keine allgemeine Pflicht, eine Jeans monatelang ungewaschen zu tragen. Waschhäufigkeit hängt von Nutzung, Verschmutzung, Geruch, Hautkontakt und gewünschter Entwicklung ab. Zu seltene Pflege kann Schmutz und Körperfette im Gewebe belassen; zu aggressive Pflege kann Farbe und Form schneller verändern. Sinnvoll ist eine bewusste, schonende Pflege nach Bedarf.
+Loomstate Denim bezeichnet Denim in einem besonders ursprünglichen Zustand direkt nach dem Weben, ohne die üblichen nachträglichen Behandlungen. Nicht jeder Raw Denim ist Loomstate Denim. Gerade beim Einlaufen und bei der Größenwahl kann dieser Unterschied relevant sein.
 
-## Abgrenzung zu ähnlichen Begriffen
+## Wie verändert sich Raw Denim beim Tragen?
 
-Denim: Der Stoff selbst; Denim kann roh, gespült, gebleicht oder stark bearbeitet sein.
+Die dunkle Indigo-Farbe sitzt bei Raw Denim häufig stärker an der Oberfläche der Fasern. Durch Reibung löst sich Farbe an besonders belasteten Stellen nach und nach. Dadurch können helle Kontraste entstehen, die zu deinem Bewegungsablauf und deiner Nutzung passen.
 
-Selvedge Denim: Denim mit einer besonderen Webkante. Selvedge kann raw oder vorgewaschen sein.
+Typische Stellen für diese Entwicklung sind:
 
-Rigid Denim: Bezeichnet meist festen Denim mit wenig oder keinem Stretch; wird im Handel teilweise als Synonym für Raw Denim genutzt, ist aber nicht völlig deckungsgleich.
+- Falten an Hüfte und Oberschenkeln
+- Kniepartien
+- Kanten an Taschen
+- Säume und Beinabschlüsse
+- Bereiche an Gürtel und Gürtelschlaufen
+- Kontaktstellen durch Schuhe, Taschen oder Sitzen
 
-Loomstate Denim: Denim im besonders ursprünglichen Zustand direkt nach dem Weben, ohne übliche Nachbehandlung. Nicht jeder Raw Denim ist Loomstate.
+Wie deutlich die Veränderungen werden, lässt sich nicht exakt vorhersagen. Stoffgewicht, Färbung, Tragedauer, Bewegung, Waschverhalten und Reibung spielen zusammen.
 
-Stonewashed Denim: Durch industrielle Bearbeitung bereits aufgehellter und weicherer Denim.
+## Passform bei Raw Denim: Nicht auf späteren Stretch hoffen
+
+Eine Raw-Denim-Jeans kann mit der Zeit weicher werden und sich an einzelnen Belastungszonen leicht anpassen. Das ersetzt aber keine passende Größe. Kaufe eine Jeans nicht zu eng in der Hoffnung, dass sie sich vollständig ausweitet.
+
+Achte bei der Anprobe besonders auf diese Punkte:
+
+- Du kannst bequem sitzen, Treppen steigen und dich bücken.
+- Der Bund schneidet nicht schmerzhaft ein.
+- Knöpfe, Reißverschluss und Taschen stehen nicht dauerhaft unter Spannung.
+- Es entstehen keine starken [Zugfalten](/glossar/zugfalten/) an Schritt, Hüfte oder Oberschenkeln.
+- Die Beinlänge passt zu den Schuhen, die du wirklich dazu tragen möchtest.
+
+Die [Passform](/glossar/passform/) im Neuzustand ist entscheidend. Ein fester Stoff wird angenehmer, doch eine unpassende Schnittform wird nicht zuverlässig zur guten Jeans.
+
+## Läuft Raw Denim ein?
+
+Ob Raw Denim einläuft, hängt vor allem davon ab, ob der Stoff vorgeschrumpft wurde. Vorgeschrumpfte Modelle verändern ihre Maße beim ersten Waschen meist weniger. Unvorgeschrumpfter Denim kann deutlicher reagieren.
+
+Verlass dich deshalb nicht auf allgemeine Faustregeln. Prüfe vor dem Kauf:
+
+- Ist der Denim als vorgeschrumpft, sanforisiert oder unsanforisiert gekennzeichnet?
+- Gibt der Hersteller konkrete Hinweise zur Größe und zum Einlaufen?
+- Wie setzt sich das Material zusammen?
+- Soll die Jeans später gewaschen oder nur professionell gereinigt werden?
+
+Das Thema [Einlaufen bei Kleidung](/glossar/einlaufen/) betrifft nicht nur die Bundweite. Auch Länge, Beinweite und der Gesamtsitz können sich verändern. Herstellerangaben und ein realistischer Passformtest sind wichtiger als pauschale Empfehlungen aus dem Internet.
+
+## Färbt Raw Denim ab?
+
+Ja, besonders dunkler Raw Denim kann am Anfang Indigo abgeben. Reibung und Feuchtigkeit erhöhen das Risiko. Betroffen sein können helle Schuhe, Taschen, Sitzmöbel, Oberteile oder andere Textilien.
+
+Du kannst das Risiko reduzieren, wenn du:
+
+- helle Lederaccessoires in der ersten Zeit nicht direkt an der Jeans reibst
+- bei Regen und hoher Feuchtigkeit besonders aufmerksam bist
+- neue Jeans nicht mit sehr hellen Textilien zusammen wäschst
+- die Pflegehinweise des Herstellers beachtest
+- die Jeans vor dem ersten langen Tragen auf Farbabrieb prüfst
+
+Abfärben ist kein verlässliches Qualitätsmerkmal. Es kann bei dunklem Indigo vorkommen, sagt aber allein nichts über die Qualität, Haltbarkeit oder Verarbeitung einer Jeans aus.
+
+## Raw Denim richtig pflegen
+
+Raw Denim braucht keine komplizierten Rituale, aber eine bewusste Pflege. Wie oft du wäschst, hängt von Nutzung, Verschmutzung, Geruch, Hautkontakt und deinem gewünschten Ergebnis ab.
+
+Eine pauschale Regel, Jeans monatelang nicht zu waschen, gibt es nicht. Zu seltene Pflege kann Schmutz und Körperfette im Gewebe belassen. Zu häufiges oder aggressives Waschen kann Farbe und Form schneller verändern.
+
+Orientiere dich an diesen Grundsätzen:
+
+- Lies zuerst das [Pflegeetikett](/glossar/pflegeetikett/).
+- Wasche nur, wenn es tatsächlich nötig ist.
+- Drehe die Jeans zum Waschen auf links.
+- Wähle eine schonende Pflege, wenn sie laut Etikett möglich ist.
+- Vermeide unnötige Reibung und starke Hitze.
+- Beachte, dass Trocknung die Form stärker beeinflussen kann.
+
+Die richtige [Pflege](/glossar/pflege/) schützt nicht nur die Farbe. Sie hilft auch, Form, Material und Tragegefühl möglichst lange zu erhalten.
+
+## Warum Raw Denim interessant sein kann
+
+Raw Denim passt gut zu dir, wenn du eine dunkle Jeans mit ruhiger, klarer Wirkung suchst und es magst, dass Kleidung mit der Zeit persönlicher wird. Gerade ohne starke Waschung wirkt die Jeans oft reduzierter und lässt sich vielseitig kombinieren.
+
+Zu einem [Blazer](/glossar/blazer/), Hemd und [Loafern](/glossar/loafer/) kann ein dunkles Raw-Denim-Modell gepflegt und modern wirken. Mit T-Shirt und Sneakern wird es lässiger. Die Wirkung hängt dabei immer auch von Schnitt, Waschzustand, Schuhen und Accessoires ab.
+
+Raw Denim ist weniger passend, wenn du eine Jeans möchtest, die sich sofort weich anfühlt, möglichst wenig Farbe abgibt oder über lange Zeit sehr gleichmäßig dunkel bleiben soll.
+
+## Typische Missverständnisse über Raw Denim
+
+- **Missverständnis: Raw Denim ist immer hochwertig.**  
+  **Besser:** Raw Denim beschreibt vor allem den fehlenden Waschprozess. Für Qualität zählen zusätzlich Material, Stoffdichte, Nähte, Schnitt, Verarbeitung und Haltbarkeit.
+
+- **Missverständnis: Raw Denim ist immer Selvedge Denim.**  
+  **Besser:** Selvedge bezeichnet die Webkante, Raw den ungewaschenen Zustand der Jeans. Eine Jeans kann eines, beides oder keines von beiden sein.
+
+- **Missverständnis: Raw Denim wird automatisch bequem.**  
+  **Besser:** Der Stoff kann nachgeben und weicher werden. Eine zu enge Jeans oder ungünstige Nahtposition bleibt jedoch unbequem.
+
+- **Missverständnis: Raw Denim darf nie gewaschen werden.**  
+  **Besser:** Pflege nach Bedarf ist sinnvoll. Entscheidend sind das Pflegeetikett, die Nutzung und dein persönlicher Anspruch an Hygiene und Farbentwicklung.
+
+## Praxischeck vor dem Kauf
+
+- Prüfe, ob „raw“, „dry“, „rigid“, „loomstate“ oder „unsanforized“ genau erklärt werden.
+- Kläre, ob der Stoff vorgeschrumpft wurde und mit welchem Einlaufen du rechnen musst.
+- Teste die Jeans in Bewegung, nicht nur im Stand vor dem Spiegel.
+- Achte auf mögliche Farbübertragung in deinem Alltag.
+- Vergleiche Materialmischung, Verarbeitung und Pflegeaufwand mit deinen Gewohnheiten.
+- Wähle eine [Jeans](/glossar/jeans/) nur dann als Investition, wenn Schnitt und Tragegefühl bereits beim Kauf überzeugen.
 
 ## ESKYNA-Merksatz
 
-Raw Denim ist kein fertiger Used-Look, sondern eine dunkle Ausgangsfläche, die sich durch Tragen und Pflege sichtbar verändert.
+Raw Denim ist kein fertiger Used-Look, sondern eine dunkle Ausgangsfläche, die sich durch dein Tragen und deine Pflege sichtbar verändert.
 
-## Entscheidungshilfe vor dem nächsten Kauf
+## Beratungsblick
 
-Ist klar angegeben, ob der Stoff vorgeschrumpft wurde?
+Wenn du zwischen zwei Größen schwankst oder unterschiedliche Angaben zum Einlaufen findest, ist eine pauschale Empfehlung wenig hilfreich. Entscheidend sind dein Körpergefühl, die konkrete Materialqualität, die Bewegungszugabe und die Frage, wie du die Jeans im Alltag tragen willst.
 
-Passt die Jeans bereits bei der Anprobe, ohne schmerzhaften Druck oder starke Zugfalten?
+Eine dunkle Raw-Denim-Jeans kann ein starkes Kombinationsstück sein. Sie funktioniert besonders gut, wenn sie zu deiner Garderobe, deinem Pflegeaufwand und deiner gewünschten Wirkung passt.
 
-Magst du eine Oberfläche, die sich ungleichmäßig und persönlich entwickeln darf?
-
-Passt mögliches Indigoabfärben zu deinem Alltag und deinen hellen Accessoires?
-
-Entspricht die Pflegeempfehlung dem Aufwand, den du realistisch leisten möchtest?
-
-## Wann Beratung sinnvoll wird
-
-Beratung hilft, wenn du zwischen zwei Größen schwankst, unterschiedliche Angaben zu Einlaufen und Dehnung findest oder eine dunkle Jeans für mehrere Rollen suchst. Gemeinsam lässt sich prüfen, welche Bundhöhe, Beinweite, Materialmischung und Anfangsfestigkeit zu deinem Körpergefühl und deiner Garderobe passen.
-
-## Verwandte Begriffe
-
-Denim, Jeans, Twill, Waschung, Indigo, Materialqualität, Pflegeetikett, Einlaufen, Patina, Selvedge Denim
-
-## Welche Fragen klärt dieser Begriff?
-
-Was unterscheidet Raw Denim von einer normal gewaschenen Jeans?
-
-Muss ungewaschener Denim größer gekauft werden?
-
-Wie entwickelt sich die Farbe im Alltag?
-
-## Häufige Fragen
-
-Läuft Raw Denim immer stark ein?
-
-Nein. Vorgeschrumpfter Raw Denim verändert seine Maße meist weniger als unvorgeschrumpfter Denim. Wie viel ein konkretes Modell einläuft, hängt von Stoff, Ausrüstung, Waschtemperatur, Trocknung und Konstruktion ab.
-
-Färbt Raw Denim ab?
-
-Das ist besonders bei dunklem Indigo möglich. Reibung und Feuchtigkeit können Farbstoff auf helle Flächen übertragen. Die Stärke ist produktabhängig und nimmt häufig mit Nutzung und Wäsche ab.
-
-Wird jede Raw-Denim-Jeans automatisch bequem?
-
-Nicht zwingend. Der Stoff kann weicher werden und sich an Belastungszonen anpassen, doch eine ungeeignete Schnittform, zu geringe Bewegungszugabe oder ungünstige Nahtposition wird dadurch nicht zuverlässig korrigiert.
+Weitere passende Begriffe findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/).
