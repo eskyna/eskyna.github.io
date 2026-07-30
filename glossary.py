@@ -6,6 +6,9 @@ import argparse
 import sys
 import threading
 import queue
+import unicodedata
+from dataclasses import dataclass
+from datetime import date
 from pathlib import Path
 
 # --------------------------------------------------------
@@ -14,9 +17,9 @@ from pathlib import Path
 
 MODEL = "gemini-3.5-flash"
 
-AZURE_OPENAI_ENDPOINT = "https://stefans-project-resource.services.ai.azure.com/openai/v1"
-AZURE_OPENAI_DEPLOYMENT = "gpt-5.6-terra"
-AZURE_OPENAI_SCOPE = "https://ai.azure.com/.default"
+AZURE_OPENAI_ENDPOINT = os.environ.get('AZURE_OPENAI_ENDPOINT')
+AZURE_OPENAI_DEPLOYMENT = os.environ.get('AZURE_OPENAI_DEPLOYMENT')
+AZURE_OPENAI_SCOPE = os.environ.get('AZURE_OPENAI_SCOPE')
 
 # Ordner-Pfade für die verschiedenen Sprachen
 ROOTS = {
@@ -131,6 +134,99 @@ SEO и структура:
 
 GLOSSARY_CONTEXT_CACHE = {}
 GLOSSAR_TEMPLATE_CACHE = {}
+
+# Canonical public URLs / aliases for newly created glossary pages.
+GLOSSARY_URLS = {
+    "de": {
+        "url": "/glossar/{slug}/",
+        "aliases": [],
+    },
+    "en": {
+        "url": "/en/glossary/{slug}/",
+        "aliases": ["/en/glossar/{slug}/", "/glossary/{slug}/"],
+    },
+    "ru": {
+        "url": "/rus/glossariy/{slug}/",
+        "aliases": ["/rus/glossar/{slug}/", "/ru/glossar/{slug}/"],
+    },
+}
+
+CREATE_USER_PROMPTS = {
+    "de": """Erstelle einen vollständigen neuen Glossareintrag als Markdown inklusive YAML-Frontmatter.
+
+Ausgangswerte:
+- Begriff (Deutsch, so übernehmen bzw. nur minimal glätten): {term}
+- Kurzbeschreibung (Ausgangspunkt, ausformulieren und SEO-fähig machen): {description}
+- slug (unveränderlich exakt so setzen): {slug}
+- url (unveränderlich): {url}
+- lastmod: "{today}"
+- image: images/glossar/{slug}.png
+- image_alt: kurze, konkrete Bildbeschreibung zu dem Begriff
+
+Pflicht:
+- Antworte ausschließlich mit dem fertigen Markdown.
+- Keine Erklärungen und keine Code-Fences.
+- Frontmatter muss mit --- beginnen und enden.
+- Schreibe auf Deutsch in der Du-Form.
+- Nutze keine Gedankenstriche (en/em dash).
+- Setze sinnvolle interne Links und relatedTerms nur aus der bereitgestellten Glossarliste.
+- Der Markdown-Body soll ein vollständiger, praktischer Glossarartikel sein (Definition, Wirkung, Anwendung, Missverständnisse, Praxischeck, Merksatz).
+""",
+    "en": """Create a complete new glossary entry as Markdown including YAML frontmatter.
+
+Source input (German seed; localize into natural English):
+- Source term: {term}
+- Short description: {description}
+- slug (must stay exactly): {slug}
+- url (must stay exactly): {url}
+- aliases (include all of these):
+{aliases}
+- lastmod: "{today}"
+- image: images/glossar/{slug}.png
+- image_alt: short concrete image description
+
+Requirements:
+- Respond only with the finished Markdown.
+- No explanations and no code fences.
+- Frontmatter must start and end with ---.
+- Write clear natural English.
+- Do not use en dashes or em dashes.
+- Use internal links and relatedTerms only from the provided glossary list.
+- Body must be a full practical glossary article (definition, effect, how to use, misunderstandings, practical check, key line).
+- Choose a natural English `term` / `title` for the concept; keep the shared German-based slug.
+""",
+    "ru": """Создайте полную новую словарную статью в Markdown с YAML-frontmatter.
+
+Исходные данные (немецкий сид; локализуйте на естественный русский):
+- Исходный термин: {term}
+- Краткое описание: {description}
+- slug (оставить точно таким): {slug}
+- url (оставить точно таким): {url}
+- aliases (включить все):
+{aliases}
+- lastmod: "{today}"
+- image: images/glossar/{slug}.png
+- image_alt: короткое конкретное описание изображения
+
+Требования:
+- Отвечайте только готовым Markdown.
+- Без пояснений и без code fences.
+- Frontmatter должен начинаться и заканчиваться ---.
+- Пишите уважительно на «вы».
+- Не используйте длинные тире (en/em dash).
+- Внутренние ссылки и relatedTerms только из предоставленного списка глоссария.
+- Текст должен быть полной практической статьёй (определение, эффект, применение, заблуждения, практическая проверка, ключевая мысль).
+- Выберите естественный русский `term` / `title`; общий slug на немецкой основе сохраните.
+""",
+}
+
+
+@dataclass(frozen=True)
+class NewGlossaryItem:
+    term: str
+    description: str
+    slug: str
+
 
 # --------------------------------------------------------
 # Threading & UI Setup
@@ -379,8 +475,26 @@ def extract_openai_response_text(response) -> str:
     return ""
 
 
-def optimize_api(markdown: str, client, lang: str, deployment_name: str) -> str:
-    """Sendet Markdown an Azure OpenAI (Responses API) zur Optimierung mit Retry-Logik."""
+def clean_markdown_response(text: str, require_frontmatter: bool = False) -> str:
+    """Entfernt optionale Markdown-Codefences um die Modellantwort."""
+    cleaned = text.strip()
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:markdown|md)?\s*", "", cleaned, count=1, flags=re.IGNORECASE)
+        cleaned = re.sub(r"\s*```$", "", cleaned)
+    cleaned = cleaned.strip()
+    if require_frontmatter and not cleaned.startswith("---"):
+        raise RuntimeError("Antwort enthält kein YAML-Frontmatter (erwartet Start mit ---).")
+    return cleaned
+
+
+def call_azure_openai(
+    client,
+    lang: str,
+    user_content: str,
+    deployment_name: str,
+    require_frontmatter: bool = False,
+) -> str:
+    """Gemeinsamer Azure-OpenAI-Call (Responses API) mit Retry-Logik."""
     base_delay = 10
     max_delay = 300
     attempt = 0
@@ -393,12 +507,12 @@ def optimize_api(markdown: str, client, lang: str, deployment_name: str) -> str:
                 model=deployment_name,
                 input=[
                     {"role": "system", "content": prompt},
-                    {"role": "user", "content": markdown},
+                    {"role": "user", "content": user_content},
                 ],
             )
             text = extract_openai_response_text(response)
             if text:
-                return text
+                return clean_markdown_response(text, require_frontmatter=require_frontmatter)
             raise RuntimeError("Leere Antwort von Azure OpenAI erhalten.")
 
         except Exception as e:
@@ -417,6 +531,102 @@ def optimize_api(markdown: str, client, lang: str, deployment_name: str) -> str:
                 time.sleep(sleep_time)
             else:
                 raise e
+
+
+def optimize_api(markdown: str, client, lang: str, deployment_name: str) -> str:
+    """Sendet Markdown an Azure OpenAI (Responses API) zur Optimierung mit Retry-Logik."""
+    return call_azure_openai(client, lang, markdown, deployment_name)
+
+
+def slugify_term(term: str) -> str:
+    """Erzeugt einen DE-kompatiblen Glossar-Slug (ä->ae, ö->oe, ü->ue, ß->ss)."""
+    mapping = {
+        "ä": "ae",
+        "ö": "oe",
+        "ü": "ue",
+        "Ä": "ae",
+        "Ö": "oe",
+        "Ü": "ue",
+        "ß": "ss",
+        "æ": "ae",
+        "œ": "oe",
+    }
+    slug = term.strip()
+    for src, dst in mapping.items():
+        slug = slug.replace(src, dst)
+    slug = unicodedata.normalize("NFKD", slug)
+    slug = "".join(ch for ch in slug if not unicodedata.combining(ch))
+    slug = slug.lower()
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    slug = re.sub(r"-{2,}", "-", slug).strip("-")
+    if not slug:
+        raise ValueError(f"Konnte keinen gültigen Slug aus {term!r} ableiten.")
+    return slug
+
+
+def parse_new_glossary_items(raw_text: str) -> list[NewGlossaryItem]:
+    """Parst Zeilen im Format 'Begriff - Kurzbeschreibung'."""
+    items: list[NewGlossaryItem] = []
+    seen_slugs: set[str] = set()
+
+    for line_number, raw_line in enumerate(raw_text.splitlines(), 1):
+        line = raw_line.strip()
+        if not line or line.startswith("#"):
+            continue
+
+        match = re.match(r"^(.+?)\s+[-–—]\s+(.+)$", line)
+        if not match:
+            raise ValueError(
+                f"Zeile {line_number}: erwartet 'NEUER_BEGRIFF - KURZBESCHREIBUNG', gefunden: {raw_line!r}"
+            )
+
+        term = match.group(1).strip()
+        description = match.group(2).strip()
+        if not term or not description:
+            raise ValueError(f"Zeile {line_number}: Begriff und Beschreibung dürfen nicht leer sein.")
+
+        slug = slugify_term(term)
+        if slug in seen_slugs:
+            raise ValueError(f"Zeile {line_number}: doppelter Slug {slug!r} in der Eingabe.")
+        seen_slugs.add(slug)
+        items.append(NewGlossaryItem(term=term, description=description, slug=slug))
+
+    if not items:
+        raise ValueError("Keine Glossareinträge in der Eingabe gefunden.")
+
+    return items
+
+
+def build_create_user_message(lang: str, item: NewGlossaryItem) -> str:
+    """Baut die User-Nachricht für die Neuanlage eines Glossareintrags."""
+    url_cfg = GLOSSARY_URLS[lang]
+    url = url_cfg["url"].format(slug=item.slug)
+    aliases = [alias.format(slug=item.slug) for alias in url_cfg["aliases"]]
+    alias_block = "\n".join(f"  - {alias}" for alias in aliases) if aliases else "  (keine)"
+    template = CREATE_USER_PROMPTS[lang]
+    return template.format(
+        term=item.term,
+        description=item.description,
+        slug=item.slug,
+        url=url,
+        aliases=alias_block,
+        today=date.today().isoformat(),
+    )
+
+
+def create_api(item: NewGlossaryItem, client, lang: str, deployment_name: str) -> str:
+    """Erzeugt einen neuen Glossareintrag via Azure OpenAI (gleicher LLM-Weg wie optimize-api)."""
+    return call_azure_openai(
+        client,
+        lang,
+        build_create_user_message(lang, item),
+        deployment_name,
+        require_frontmatter=True,
+    )
+
+
+def target_path_for_item(lang: str, item: NewGlossaryItem) -> Path:
+    return ROOTS[lang] / f"{item.slug}.md"
 
 
 def is_transient_network_error(error: Exception) -> bool:
@@ -461,6 +671,33 @@ def process(path: Path, client, lang: str, worker_id: int, optimize_fn):
     safe_print(f"[Worker {worker_id}]    ✔ verbessert ({lang.upper()})")
     return "done"
 
+
+def process_append(item: NewGlossaryItem, client, lang: str, worker_id: int, create_fn):
+    """Erzeugt einen neuen Glossareintrag und schreibt die Markdown-Datei."""
+    path = target_path_for_item(lang, item)
+    safe_print(f"[Worker {worker_id}] + {lang.upper()} {item.term} → {path}")
+
+    if path.exists():
+        safe_print(f"[Worker {worker_id}]    übersprungen (existiert bereits)")
+        return "done"
+
+    try:
+        markdown = create_fn(item, client, lang)
+    except Exception as e:
+        if is_transient_network_error(e):
+            safe_print(f"[Worker {worker_id}]    Netzwerkfehler bei {item.slug}/{lang}: {e}")
+            return "retry"
+
+        safe_print(f"[Worker {worker_id}]    Fehler bei {item.slug}/{lang}: {e}")
+        return "done"
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(markdown + "\n", encoding="utf-8")
+    GLOSSARY_CONTEXT_CACHE.pop(lang, None)
+    safe_print(f"[Worker {worker_id}]    ✔ angelegt ({lang.upper()})")
+    return "done"
+
+
 def worker_task(task_queue: queue.Queue, client_factory, optimize_fn, worker_id: int):
     """Die Hauptaufgabe für jeden Thread: Holt Dateien aus der Queue und verarbeitet sie."""
     try:
@@ -502,6 +739,47 @@ def worker_task(task_queue: queue.Queue, client_factory, optimize_fn, worker_id:
         finally:
             task_queue.task_done()
         
+    safe_print(f"[Worker {worker_id}] Beendet (Warteschlange leer).")
+
+
+def append_worker_task(task_queue: queue.Queue, client_factory, create_fn, worker_id: int):
+    """Worker für --append-api: legt neue Glossareinträge an."""
+    try:
+        client = client_factory()
+    except Exception as e:
+        safe_print(f"[Worker {worker_id}] Fehler beim Initialisieren des Clients: {e}")
+        return
+
+    safe_print(f"[Worker {worker_id}] Gestartet.")
+
+    while True:
+        task = task_queue.get()
+        try:
+            if task is STOP_WORKER:
+                break
+
+            item, lang, retries = task
+            result = process_append(item, client, lang, worker_id, create_fn)
+
+            if result == "retry":
+                next_retries = retries + 1
+                task_queue.put((item, lang, next_retries))
+                backoff = min(60, 2 ** min(next_retries, 6))
+                safe_print(
+                    f"[Worker {worker_id}]    ↻ Requeue für {item.slug}/{lang} "
+                    f"(Retry {next_retries}, warte {backoff}s)"
+                )
+                time.sleep(backoff)
+            else:
+                if tracker:
+                    tracker.update()
+
+            time.sleep(1.5)
+        except Exception as e:
+            safe_print(f"[Worker {worker_id}] Unerwarteter Worker-Fehler: {e}")
+        finally:
+            task_queue.task_done()
+
     safe_print(f"[Worker {worker_id}] Beendet (Warteschlange leer).")
 
 
@@ -564,6 +842,33 @@ def run_worker_pool(task_queue: queue.Queue, worker_specs: list[tuple], optimize
 
     for t in threads:
         t.join()
+
+
+def run_append_worker_pool(task_queue: queue.Queue, worker_specs: list[tuple], create_fn):
+    """Startet Append-Worker, wartet auf Abschluss und beendet sauber."""
+    global tracker
+    tracker = ProgressTracker(task_queue.qsize())
+    with print_lock:
+        tracker._draw()
+
+    threads = []
+    for worker_id, client_factory in worker_specs:
+        t = threading.Thread(
+            target=append_worker_task,
+            args=(task_queue, client_factory, create_fn, worker_id),
+        )
+        threads.append(t)
+        t.start()
+
+    task_queue.join()
+
+    for _ in threads:
+        task_queue.put(STOP_WORKER)
+    task_queue.join()
+
+    for t in threads:
+        t.join()
+
 
 def parse_languages(raw_languages: str) -> list[str]:
     """Parst CSV-Sprachliste wie 'de,en,ru' und validiert gegen konfigurierte Sprachen."""
@@ -652,12 +957,20 @@ def main():
     parser = argparse.ArgumentParser(description="Verwaltet und optimiert mehrsprachige Glossareinträge.")
     parser.add_argument("--optimize", action="store_true", help="Optimiert alle Glossareinträge (SEO & Text) via Gemini API. Nutzt alle GEMINI_API_KEYs im Env.")
     parser.add_argument("--optimize-api", action="store_true", help="Optimiert alle Glossareinträge (SEO & Text) via Azure OpenAI API.")
+    parser.add_argument(
+        "--append-api",
+        action="store_true",
+        help=(
+            "Legt neue Glossareinträge via Azure OpenAI an. "
+            "Erwartet stdin-Zeilen im Format 'Begriff - Kurzbeschreibung'."
+        ),
+    )
     parser.add_argument("--overview", action="store_true", help="Gibt eine Übersicht aller Glossareinträge aus.")
     parser.add_argument(
         "--worker",
         type=int,
         default=None,
-        help="Anzahl paralleler Worker für --optimize oder --optimize-api. Standard: auto.",
+        help="Anzahl paralleler Worker für --optimize, --optimize-api oder --append-api. Standard: auto.",
     )
     parser.add_argument(
         "--language",
@@ -668,7 +981,7 @@ def main():
         "--older-than-days",
         type=int,
         default=0,
-        help="Nur mit --optimize: verarbeitet nur Dateien, deren Änderungsdatum älter als X Tage ist. 0 = kein Altersfilter (Default).",
+        help="Nur mit --optimize/--optimize-api: verarbeitet nur Dateien, deren Änderungsdatum älter als X Tage ist. 0 = kein Altersfilter (Default).",
     )
     
     args = parser.parse_args()
@@ -684,16 +997,72 @@ def main():
     if args.worker is not None and args.worker <= 0:
         parser.error("--worker muss eine Zahl > 0 sein.")
 
-    if args.optimize and args.optimize_api:
-        parser.error("Bitte entweder --optimize oder --optimize-api verwenden, nicht beides gleichzeitig.")
+    mode_flags = [args.optimize, args.optimize_api, args.append_api]
+    if sum(1 for flag in mode_flags if flag) > 1:
+        parser.error("Bitte nur einen Modus wählen: --optimize, --optimize-api oder --append-api.")
 
     # Wenn keine Argumente übergeben wurden, zeige die Hilfe an
-    if not (args.optimize or args.optimize_api or args.overview):
+    if not (args.optimize or args.optimize_api or args.append_api or args.overview):
         parser.print_help()
         return
 
     if args.overview:
         show_overview(selected_languages)
+
+    if args.append_api:
+        if sys.stdin.isatty():
+            parser.error(
+                "Für --append-api Einträge per Pipe übergeben, z.B.: "
+                "cat new_glossary_items.txt | ./glossary.py --append-api"
+            )
+
+        try:
+            new_items = parse_new_glossary_items(sys.stdin.read())
+        except ValueError as e:
+            parser.error(str(e))
+
+        task_queue = queue.Queue()
+        skipped_existing = 0
+
+        for item in new_items:
+            for lang in selected_languages:
+                path = target_path_for_item(lang, item)
+                if path.exists():
+                    skipped_existing += 1
+                    print(f"Überspringe bestehende Datei: {path}")
+                    continue
+                task_queue.put((item, lang, 0))
+
+        print(
+            f"{len(new_items)} Begriff(e) gelesen. "
+            f"{task_queue.qsize()} Datei(en) anzulegen "
+            f"({skipped_existing} bereits vorhanden übersprungen).\n"
+        )
+
+        if task_queue.qsize() == 0:
+            print("Keine neuen Dateien zu erzeugen.")
+            return
+
+        deployment_name = os.environ.get("AZURE_OPENAI_DEPLOYMENT", AZURE_OPENAI_DEPLOYMENT)
+        endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", AZURE_OPENAI_ENDPOINT)
+        default_workers = 4
+        worker_count = args.worker if args.worker is not None else default_workers
+        worker_count = min(worker_count, max(1, task_queue.qsize()))
+
+        print(f"Azure OpenAI Endpoint: {endpoint}")
+        print(f"Azure OpenAI Deployment: {deployment_name}")
+        print(f"Starte {worker_count} Worker für --append-api...\n")
+
+        def create_api_bound(item: NewGlossaryItem, client, lang: str) -> str:
+            return create_api(item, client, lang, deployment_name)
+
+        worker_specs = [(i + 1, make_azure_openai_client_factory()) for i in range(worker_count)]
+        run_append_worker_pool(task_queue, worker_specs, create_api_bound)
+        print(
+            f"\n\n🎉 Azure-OpenAI-Neuanlage für folgende Sprachen abgeschlossen: "
+            f"{', '.join(selected_languages)}"
+        )
+        return
 
     if args.optimize or args.optimize_api:
         task_queue = queue.Queue()
