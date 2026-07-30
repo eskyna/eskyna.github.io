@@ -40,7 +40,7 @@ relatedTerms:
 knowledge:
   - Gold can range from pale champagne gold to deep antique gold, so its warmth and visual intensity vary considerably.
   - A gold effect may come from color, metallic sheen, jewelry, hardware, embroidery, or a reflective fabric surface.
-  - The finish matters as much as the shade: brushed, matte, polished, and textured gold create different impressions.
+  - "The finish matters as much as the shade: brushed, matte, polished, and textured gold create different impressions."
 faq:
   items:
     - q: How can I wear gold in everyday outfits?

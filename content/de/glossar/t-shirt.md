@@ -25,7 +25,7 @@ history:
   - In den 1950er-Jahren machten Schauspieler wie Marlon Brando und James Dean das weiße T-Shirt als sichtbares Oberteil zu einem Symbol für lässige Rebellion.
 knowledge:
   - Die typische T-Form entsteht aus einem geraden Rumpf und kurzen, angesetzten Ärmeln.
-  - Die Grammatur beeinflusst Fall und Wirkung: Schwerer Jersey wirkt meist strukturierter, leichter Jersey weicher und luftiger.
+  - "Die Grammatur beeinflusst Fall und Wirkung: Schwerer Jersey wirkt meist strukturierter, leichter Jersey weicher und luftiger."
   - Ausschnitt, Schulterlinie und Ärmellänge entscheiden stark darüber, wie ein T-Shirt dein Gesicht und deine Proportionen rahmt.
 relatedTerms:
   - title: Basic

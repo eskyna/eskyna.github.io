@@ -33,7 +33,7 @@ relatedTerms:
   - title: Stilidentität
     url: /glossar/stilidentitaet/
 knowledge:
-  - Das Armband prägt die Stilwirkung einer Uhr besonders stark: Leder wirkt meist klassisch, Metallglieder klarer und präsenter, Textil oder Silikon sportlicher.
+  - "Das Armband prägt die Stilwirkung einer Uhr besonders stark: Leder wirkt meist klassisch, Metallglieder klarer und präsenter, Textil oder Silikon sportlicher."
   - Gehäusegröße, Bandbreite und Material sollten zum Handgelenk, zur Kleidung und zur gewünschten Wirkung passen.
   - Eine Uhr kann Metalltöne, Lederdetails und weitere Accessoires im Outfit sichtbar verbinden.
 history:

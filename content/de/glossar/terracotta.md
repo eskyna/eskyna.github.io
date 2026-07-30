@@ -44,7 +44,7 @@ relatedTerms:
 knowledge:
   - Terracotta bedeutet übersetzt gebrannte Erde und verbindet die Wärme von Orange mit der ruhigen Tiefe von Braun.
   - Terracotta ist keine exakt festgelegte Einzelfarbe. Je nach Mischung kann der Ton rötlicher, orangefarbener, brauner oder gedeckter wirken.
-  - Die Materialoberfläche verändert die Wirkung deutlich: Mattes Leinen wirkt natürlich und entspannt, Satin oder Seide lassen Terracotta eleganter erscheinen.
+  - "Die Materialoberfläche verändert die Wirkung deutlich: Mattes Leinen wirkt natürlich und entspannt, Satin oder Seide lassen Terracotta eleganter erscheinen."
 history:
   - Der Farbton hat historische Wurzeln in gebranntem Ton, der in Architektur, Keramik und Kunst verwendet wurde.
   - In der Mode wurde Terracotta besonders mit naturbezogenen Farbwelten der 1970er-Jahre verbunden und später erneut in reduzierten, erdigen Looks aufgegriffen.

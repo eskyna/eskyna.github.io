@@ -41,7 +41,7 @@ content_level: commercial-pillar
 lastmod: "2026-07-09"
 knowledge:
   - Personal Type Consultation combines several style factors instead of treating color, fit, and personal expression as separate questions.
-  - Useful results are practical: they can guide outfit choices, shopping decisions, and wardrobe planning.
+  - "Useful results are practical: they can guide outfit choices, shopping decisions, and wardrobe planning."
   - Type labels can provide orientation, but they should not override lifestyle, comfort, taste, or a person's changing needs.
 faq:
   items:

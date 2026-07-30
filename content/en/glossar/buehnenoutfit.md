@@ -37,7 +37,7 @@ relatedTerms:
   - title: Visibility Look
     url: /en/glossar/sichtbarkeitslook/
 knowledge:
-  - A stage outfit must work at several distances: in person, from the audience, and often on camera.
+  - "A stage outfit must work at several distances: in person, from the audience, and often on camera."
   - Movement, lighting, sound equipment, background, and temperature can affect whether an outfit remains practical during a presentation.
   - Clear silhouette, considered contrast, and restrained details often read more effectively than many small visual elements.
 faq:

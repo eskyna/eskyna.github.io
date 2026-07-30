@@ -38,7 +38,7 @@ relatedTerms:
     url: /en/glossar/unterton/
 knowledge:
   - Off-white is not one fixed shade. It describes whites that have been softened with a visible or subtle color tint.
-  - The undertone matters: an off-white can lean warm through yellow or beige, cool through gray or blue, or appear more neutral.
+  - "The undertone matters: an off-white can lean warm through yellow or beige, cool through gray or blue, or appear more neutral."
   - Fabric texture and lighting can noticeably change how an off-white shade is perceived.
 faq:
   items:

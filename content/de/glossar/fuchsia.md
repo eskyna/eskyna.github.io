@@ -40,7 +40,7 @@ relatedTerms:
     url: /glossar/kontrast/
 knowledge:
   - Fuchsia liegt zwischen Pink und Violett und wirkt meist kühl, klar und stark gesättigt.
-  - Die Wirkung verändert sich deutlich mit Material und Oberfläche: Matte Stoffe beruhigen Fuchsia, Glanz intensiviert die Farbe.
+  - "Die Wirkung verändert sich deutlich mit Material und Oberfläche: Matte Stoffe beruhigen Fuchsia, Glanz intensiviert die Farbe."
   - Als Akzentfarbe bringt Fuchsia Dynamik in neutrale Outfits aus Navy, Anthrazit, Schwarz oder Weiß.
 history:
   - Der Name geht auf die Fuchsie zurück, eine Pflanzengattung, die nach dem Botaniker Leonhart Fuchs benannt wurde.

@@ -38,7 +38,7 @@ relatedTerms:
 knowledge:
   - Ruffles are created by adding more fabric length than the edge they are attached to, then drawing that length into gathers, pleats, or controlled folds.
   - Their visual effect depends on placement, scale, fabric weight, stiffness, and the amount of fullness.
-  - A ruffle differs from a flounce: a ruffle is usually gathered or pleated, while a flounce is generally cut in a curved or circular shape.
+  - "A ruffle differs from a flounce: a ruffle is usually gathered or pleated, while a flounce is generally cut in a curved or circular shape."
 faq:
   items:
     - q: What is a ruffle in fashion?

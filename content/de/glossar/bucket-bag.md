@@ -24,7 +24,7 @@ history:
   - Aus der funktionalen Beutelform entwickelte sich eine feste Taschenform der Mode, die heute von schlicht bis luxuriös interpretiert wird.
 knowledge:
   - Eine Bucket Bag hat meist einen runden oder ovalen Boden, einen hohen Taschenkörper und einen Kordelzug oder offenen Abschluss.
-  - Material und Konstruktion bestimmen ihre Wirkung: Weiches Leder wirkt fließend, festes Leder klarer und strukturierter.
+  - "Material und Konstruktion bestimmen ihre Wirkung: Weiches Leder wirkt fließend, festes Leder klarer und strukturierter."
   - Die organische Form kann kantige, formelle Outfits optisch auflockern.
 relatedTerms:
   - title: Accessoire

@@ -36,7 +36,7 @@ relatedTerms:
   - title: Care
     url: /en/glossar/pflege/
 knowledge:
-  - Mulesing-free describes one animal welfare criterion: the sheep have not undergone mulesing.
+  - "Mulesing-free describes one animal welfare criterion: the sheep have not undergone mulesing."
   - The claim alone does not indicate the wool grade, softness, durability, processing, origin, or full animal welfare standard.
   - Care requirements depend on the fiber blend, knit construction, and care label, not on whether the wool is mulesing-free.
 faq:

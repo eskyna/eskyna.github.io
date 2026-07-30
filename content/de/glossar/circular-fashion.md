@@ -34,7 +34,7 @@ relatedTerms:
     url: /glossar/digitaler-produktpass/
 knowledge:
   - Circular Fashion betrachtet Kleidung als Ressource, die möglichst lange getragen, gepflegt, repariert, weitergegeben oder wiederverwertet wird.
-  - Zirkularität beginnt bereits beim Design: Materialwahl, Verarbeitung und Reparierbarkeit beeinflussen die spätere Nutzungsdauer und Verwertung.
+  - "Zirkularität beginnt bereits beim Design: Materialwahl, Verarbeitung und Reparierbarkeit beeinflussen die spätere Nutzungsdauer und Verwertung."
   - Recycling ist wichtig, steht jedoch am Ende der Nutzung. Die längste und sinnvollste Nutzung eines Kleidungsstücks hat meist Vorrang.
   - Monomaterialien können die Sortierung und Wiederverwertung erleichtern. Dennoch entscheiden auch Färbung, Zubehör, Verarbeitung und vorhandene Recyclingwege über die tatsächliche Verwertbarkeit.
 history:

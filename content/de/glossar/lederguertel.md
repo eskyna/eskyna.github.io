@@ -23,7 +23,7 @@ history:
   - Der Ledergürtel entwickelte sich von einem funktionalen Ausrüstungsgegenstand der Antike und des Mittelalters zu einem sichtbaren Modeaccessoire.
   - Mit der Verbreitung von Gürtelschlaufen an Hosen und Jeans gewann der Gürtel im 20. Jahrhundert im Alltag deutlich an Bedeutung.
 knowledge:
-  - Ein Ledergürtel verbindet Funktion und Stilwirkung: Er kann Kleidung halten, die Taille markieren oder eine große Stofffläche gliedern.
+  - "Ein Ledergürtel verbindet Funktion und Stilwirkung: Er kann Kleidung halten, die Taille markieren oder eine große Stofffläche gliedern."
   - Leder verändert sich durch Gebrauch. Oberfläche, Farbe und Geschmeidigkeit hängen von Lederart, Verarbeitung und Pflege ab.
   - Breite, Schnalle und Position des Gürtels beeinflussen Proportion, Formalität und den Fokus im Outfit.
 relatedTerms:

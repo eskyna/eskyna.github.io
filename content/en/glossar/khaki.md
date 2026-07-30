@@ -42,7 +42,7 @@ history:
 knowledge:
   - Khaki does not describe one universally fixed shade. It may appear as sandy yellow-brown, muted olive, or a greyed green depending on country, brand, and material.
   - In British usage, khaki often refers to a lighter dust or sand color, while in American usage it commonly describes an olive-toned green.
-  - The fabric surface changes the effect of khaki: matte cotton twill feels utilitarian, while satin, linen, or fine knitwear can make the color appear softer or more refined.
+  - "The fabric surface changes the effect of khaki: matte cotton twill feels utilitarian, while satin, linen, or fine knitwear can make the color appear softer or more refined."
 faq:
   items:
     - q: What color is khaki exactly?

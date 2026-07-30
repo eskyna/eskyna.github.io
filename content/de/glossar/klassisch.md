@@ -35,7 +35,7 @@ history:
 knowledge:
   - Klassische Mode setzt auf zeitlose Silhouetten wie die H-Linie oder die A-Linie.
   - Neutrale Farben, gute Passform und sorgfältige Verarbeitung sind wichtiger als auffällige Trenddetails.
-  - Klassisch bedeutet nicht automatisch formell: Jeans, Strick und flache Schuhe können ebenso klassisch wirken, wenn Schnitt und Gesamtbild ruhig bleiben.
+  - "Klassisch bedeutet nicht automatisch formell: Jeans, Strick und flache Schuhe können ebenso klassisch wirken, wenn Schnitt und Gesamtbild ruhig bleiben."
 faq:
   items:
     - q: Wie nutze ich klassisch im Alltag?

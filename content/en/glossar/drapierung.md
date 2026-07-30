@@ -42,7 +42,7 @@ history:
 knowledge:
   - Draping can refer both to a garment's visible folds and to the design process of shaping fabric directly on a dress form.
   - The result depends on fabric weight, weave, stretch, grainline, and the amount of material used.
-  - Draping and fabric drape are related but not identical: draping is the arrangement or construction technique, while fabric drape describes how a material falls naturally.
+  - "Draping and fabric drape are related but not identical: draping is the arrangement or construction technique, while fabric drape describes how a material falls naturally."
 faq:
   items:
     - q: What is draping in fashion?

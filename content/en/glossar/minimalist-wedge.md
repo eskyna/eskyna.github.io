@@ -38,7 +38,7 @@ relatedTerms:
 knowledge:
   - A wedge heel runs continuously from the heel area toward the sole, unlike a separate heel.
   - Minimalist wedges rely on a reduced silhouette, subtle materials, and limited decorative detail.
-  - The visible weight of the sole matters: a slim wedge usually feels lighter than a thick platform wedge.
+  - "The visible weight of the sole matters: a slim wedge usually feels lighter than a thick platform wedge."
 faq:
   items:
     - q: What is a minimalist wedge?

@@ -21,7 +21,7 @@ image: images/glossar/stretch.png
 image_alt: Editoriale Glossar-Grafik zu Stretch mit ruhigen Farbfeldern und feiner Linienführung
 knowledge:
   - Stretch kann durch elastische Fasern wie Elasthan oder durch die Konstruktion eines Stoffes entstehen, etwa bei Jersey und Strick.
-  - Entscheidend für die Qualität ist die Rücksprungkraft: Ein guter Stretchstoff kehrt nach dem Dehnen weitgehend in seine ursprüngliche Form zurück.
+  - "Entscheidend für die Qualität ist die Rücksprungkraft: Ein guter Stretchstoff kehrt nach dem Dehnen weitgehend in seine ursprüngliche Form zurück."
   - Hitze, Reibung und ungeeignete Pflege können elastische Fasern langfristig schwächen.
 history:
   - Mit der Verbreitung synthetischer Elastanfasern ab der zweiten Hälfte des 20. Jahrhunderts wurde körpernahe, bewegliche Kleidung im Alltag deutlich verbreiteter.

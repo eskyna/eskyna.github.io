@@ -35,7 +35,7 @@ relatedTerms:
     url: /glossar/glanzgrad/
 knowledge:
   - Kupfer ist ein warmer Metallic-Ton mit rötlichen, orangefarbenen und braunen Anteilen.
-  - Seine Wirkung verändert sich stark durch die Oberfläche: Poliertes Kupfer wirkt klar und glänzend, gebürstetes Kupfer ruhiger und matter.
+  - "Seine Wirkung verändert sich stark durch die Oberfläche: Poliertes Kupfer wirkt klar und glänzend, gebürstetes Kupfer ruhiger und matter."
   - Kupfer eignet sich besonders für Schmuck, Schnallen, Knöpfe, Taschenbeschläge und andere gezielte Akzente.
 history:
   - Kupfer gehört zu den ältesten Metallen, die Menschen als Gebrauchs- und Schmuckmaterial nutzten.

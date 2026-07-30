@@ -28,7 +28,7 @@ relatedTerms:
     url: /en/glossar/pointelle-strick/
 knowledge:
   - Fairycore is defined by atmosphere rather than a fixed set of garments, so it can be adapted to different lifestyles and personal styles.
-  - Texture is especially important: sheer layers, lace, fine knits, embroidery, and soft drape create much of the aesthetic.
+  - "Texture is especially important: sheer layers, lace, fine knits, embroidery, and soft drape create much of the aesthetic."
   - A modern Fairycore outfit usually balances one or two dreamy details with practical, well-fitting basics.
 lastmod: "2026-07-24"
 ---

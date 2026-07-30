@@ -31,7 +31,7 @@ relatedTerms:
     url: /glossar/schulterlinie/
 knowledge:
   - Fledermausärmel haben einen tiefen Armausschnitt und viel Weite unter dem Arm. Die Ärmelpartie geht optisch fließend in das Rumpfteil über.
-  - Der Stoff beeinflusst die Wirkung stark: Viskose, Seide und Feinstrick lassen die Form weich fallen, feste Materialien betonen ihr Volumen.
+  - "Der Stoff beeinflusst die Wirkung stark: Viskose, Seide und Feinstrick lassen die Form weich fallen, feste Materialien betonen ihr Volumen."
   - Damit das Outfit klar bleibt, helfen eine sichtbare Körpermitte oder ein ruhigeres, schmaleres Unterteil.
 history:
   - Die Bezeichnung Dolman verweist auf eine historische Gewandform aus dem osmanischen Raum mit weiter Ärmelpartie.

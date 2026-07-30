@@ -32,7 +32,7 @@ relatedTerms:
     url: /glossar/stiefelette/
 knowledge:
   - Die sichtbare Lücke, Überlappung oder Berührung zwischen Saum und Schuh prägt die Beinlinie deutlich.
-  - Nicht nur die Saumlänge zählt: Schaft, Schuhspitze, Absatz, Farbe und Volumen des Schuhs verändern die Wirkung mit.
+  - "Nicht nur die Saumlänge zählt: Schaft, Schuhspitze, Absatz, Farbe und Volumen des Schuhs verändern die Wirkung mit."
   - Ein Saum muss nicht immer strecken. Bewusste Unterbrechungen können modern, kompakt oder lässig wirken.
 faq:
   items:

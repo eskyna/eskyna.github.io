@@ -20,7 +20,7 @@ weight: 18
 image: images/glossar/layering.png
 image_alt: Editoriale Grafik mit übereinanderliegenden Stoffschichten, Längenlinien und ruhigen neutralen Flächen
 history:
-  - Kleidung in mehreren Schichten zu tragen, hat praktische Wurzeln: Zusätzliche Lagen schützen vor Kälte und lassen sich bei wechselnden Temperaturen anpassen.
+  - "Kleidung in mehreren Schichten zu tragen, hat praktische Wurzeln: Zusätzliche Lagen schützen vor Kälte und lassen sich bei wechselnden Temperaturen anpassen."
   - In der Mode wurde Layering zu einem sichtbaren Gestaltungsmittel, das funktionale Kleidung mit bewusstem Spiel aus Längen, Texturen und Volumen verbindet.
   - Besonders in lässigen und subkulturell geprägten Looks der späten 20. Jahrhunderts wurde das sichtbare Übereinandertragen von Kleidungsstücken stilprägend.
 knowledge:

@@ -41,7 +41,7 @@ relatedTerms:
 knowledge:
   - Eine Bluse besteht meist aus Webstoff und hat deshalb in der Regel weniger natürliche Elastizität als ein T Shirt aus Jersey.
   - Kragen, Ausschnitt und Farbe liegen nah am Gesicht und beeinflussen damit die Gesichtsrahmung und Ausstrahlung besonders deutlich.
-  - Das Material prägt Fall und Wirkung: Baumwolle und Popeline wirken klarer, Viskose und Seide meist fließender, Leinen strukturierter.
+  - "Das Material prägt Fall und Wirkung: Baumwolle und Popeline wirken klarer, Viskose und Seide meist fließender, Leinen strukturierter."
 history:
   - Der Begriff geht auf das französische Wort "blouse" zurück, das ursprünglich einen weiten Arbeitskittel bezeichnete.
   - Die Hemdbluse wurde um 1900 zu einem wichtigen Kleidungsstück für Frauen im Berufsalltag und steht im Zusammenhang mit gesellschaftlichen Veränderungen dieser Zeit.

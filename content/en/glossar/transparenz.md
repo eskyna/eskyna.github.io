@@ -39,7 +39,7 @@ relatedTerms:
 knowledge:
   - Transparency is not fixed by fiber alone. Fabric density, weave or knit structure, color, stretch, lining, and lighting all affect how see-through a garment appears.
   - A fabric can look opaque on a hanger and become transparent when stretched, wet, backlit, or worn over contrasting underwear.
-  - Opacity describes the opposite quality: how effectively a material blocks what lies beneath it.
+  - "Opacity describes the opposite quality: how effectively a material blocks what lies beneath it."
 faq:
   items:
     - q: What does transparency mean in fashion?

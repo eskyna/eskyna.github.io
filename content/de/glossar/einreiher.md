@@ -19,12 +19,12 @@ weight: 1
 image: images/glossar/einreiher.png
 image_alt: Editoriale Glossar-Grafik zu einem Einreiher mit einer einzelnen Knopfreihe, ruhigen Farbfeldern und feiner Linienführung
 history:
-  - origin: Der Einreiher entstand Ende des 19. Jahrhunderts im Umfeld der britischen Sportmode und etablierte sich mit dem Lounge Suit als bequemere Alternative zum steifen Gehrock.
-  - evolution: Im 20. Jahrhundert entwickelte sich der Einreiher zu einer verbreiteten Form für Business-Anzüge, Blazer, Sakkos und Alltagsjacken.
+  - "origin: Der Einreiher entstand Ende des 19. Jahrhunderts im Umfeld der britischen Sportmode und etablierte sich mit dem Lounge Suit als bequemere Alternative zum steifen Gehrock."
+  - "evolution: Im 20. Jahrhundert entwickelte sich der Einreiher zu einer verbreiteten Form für Business-Anzüge, Blazer, Sakkos und Alltagsjacken."
 knowledge:
-  - knoepfregel: Bei einem einreihigen Sakko bleibt der unterste Knopf im Stehen meist geöffnet, damit Stoff und Revers ruhig fallen. Im Sitzen öffnest du die Jacke vollständig.
-  - wirkung: Die einzelne Knopfleiste betont eine vertikale Mitte und erzeugt eine klare, ruhige Front.
-  - vielseitigkeit: Einreiher lassen sich geschlossen formeller und offen entspannter tragen. Dadurch sind sie besonders flexibel für Alltag, Business und Anlassgarderobe.
+  - "knoepfregel: Bei einem einreihigen Sakko bleibt der unterste Knopf im Stehen meist geöffnet, damit Stoff und Revers ruhig fallen. Im Sitzen öffnest du die Jacke vollständig."
+  - "wirkung: Die einzelne Knopfleiste betont eine vertikale Mitte und erzeugt eine klare, ruhige Front."
+  - "vielseitigkeit: Einreiher lassen sich geschlossen formeller und offen entspannter tragen. Dadurch sind sie besonders flexibel für Alltag, Business und Anlassgarderobe."
 relatedTerms:
   - title: Doppelreiher
     url: /glossar/doppelreiher/

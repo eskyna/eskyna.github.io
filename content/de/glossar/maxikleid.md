@@ -35,7 +35,7 @@ relatedTerms:
     url: /glossar/boho/
 knowledge:
   - Ein Maxikleid endet meist am Knöchel, auf dem Fußrücken oder knapp über dem Boden. Die passende Länge richtet sich immer nach dem Schuh, den du dazu trägst.
-  - Der Materialfall bestimmt die Wirkung stark: Feste Webstoffe geben Form und Struktur, fließende Stoffe bewegen sich weich mit dem Körper.
+  - "Der Materialfall bestimmt die Wirkung stark: Feste Webstoffe geben Form und Struktur, fließende Stoffe bewegen sich weich mit dem Körper."
   - Schnitt, Saumlänge und Schuhe entscheiden gemeinsam darüber, ob ein Maxikleid lässig, elegant, romantisch oder festlich wirkt.
 history:
   - Das Maxikleid etablierte sich in den späten 1960er-Jahren als bewusster Gegenpol zum ultrakurzen Minirock.

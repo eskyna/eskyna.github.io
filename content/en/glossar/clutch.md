@@ -36,7 +36,7 @@ relatedTerms:
   - title: Crossbody Bag
     url: /en/glossar/crossbody-bag/
 knowledge:
-  - A clutch is defined primarily by how it is carried: in the hand or tucked under the arm.
+  - "A clutch is defined primarily by how it is carried: in the hand or tucked under the arm."
   - Many clutches have a detachable wrist strap or chain, but their small, compact format remains central to the style.
   - The best clutch size depends on what you need to carry and how formal the occasion is.
 faq:

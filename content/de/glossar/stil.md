@@ -34,7 +34,7 @@ relatedTerms:
     url: /glossar/passform/
 knowledge:
   - Stil entsteht aus dem Zusammenspiel von Persönlichkeit, gewünschter Wirkung, Farben, Proportionen, Materialien und Details.
-  - Stil ist nicht dasselbe wie Mode: Trends können Teil deines Stils sein, müssen ihn aber nicht bestimmen.
+  - "Stil ist nicht dasselbe wie Mode: Trends können Teil deines Stils sein, müssen ihn aber nicht bestimmen."
   - Ein klares Stilverständnis erleichtert Outfit-Entscheidungen, verbessert die Kombinierbarkeit und kann Fehlkäufe reduzieren.
 history:
   - Der Begriff leitet sich vom lateinischen "stilus" ab, einem Schreibgerät. Daraus entwickelte sich die Bedeutung einer charakteristischen Ausdrucksweise, zunächst in Sprache und Kunst, später auch in Mode und persönlichem Auftreten.

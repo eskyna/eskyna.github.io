@@ -41,7 +41,7 @@ history:
 knowledge:
   - The scale of the case, dial, and strap affects how visually dominant a watch appears on the wrist.
   - A watch can connect separate outfit elements when its metal tone or strap color relates to other accessories, shoes, or a belt.
-  - Comfort matters: the strap should sit securely without pressing, sliding excessively, or restricting movement.
+  - "Comfort matters: the strap should sit securely without pressing, sliding excessively, or restricting movement."
 faq:
   items:
     - q: Is a watch jewelry or an accessory?

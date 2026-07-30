@@ -22,7 +22,7 @@ history:
   - In den 1960er-Jahren wurden kniehohe Stiefel, darunter die als Go-Go-Boots bekannten Modelle, zu einem prägenden Element der modernen Damenmode.
 knowledge:
   - Knee-High Boots enden typischerweise knapp unterhalb des Knies. Die genaue Schafthöhe variiert je nach Modell und Beinlänge.
-  - Für Komfort ist die Schaftweite wichtiger als eine feste Faustregel: Der Stiefel darf nicht einschneiden, rutschen oder beim Sitzen unangenehm drücken.
+  - "Für Komfort ist die Schaftweite wichtiger als eine feste Faustregel: Der Stiefel darf nicht einschneiden, rutschen oder beim Sitzen unangenehm drücken."
   - Eine ähnliche Farbe von Stiefel, Strumpfhose oder Hose kann eine ruhige, durchgehende Beinlinie erzeugen.
 relatedTerms:
   - title: Reitstiefel

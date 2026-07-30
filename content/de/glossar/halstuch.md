@@ -24,8 +24,8 @@ history:
   - Im 20. Jahrhundert entwickelte sich das Halstuch zunehmend zu einem modischen Accessoire, besonders als feines Seidentuch und als sportliches Bandana.
 knowledge:
   - Weil ein Halstuch nah am Gesicht liegt, beeinflussen Farbe, Muster und Kontrast deine Gesichtsrahmung besonders deutlich.
-  - Die Bindetechnik verändert die Wirkung: Ein kleiner, naher Knoten wirkt präzise, ein locker gebundenes Tuch entspannter.
-  - Material und Oberfläche prägen den Stil: Seide wirkt meist fein und glänzend, Baumwolle oder Leinen eher matt und unkompliziert.
+  - "Die Bindetechnik verändert die Wirkung: Ein kleiner, naher Knoten wirkt präzise, ein locker gebundenes Tuch entspannter."
+  - "Material und Oberfläche prägen den Stil: Seide wirkt meist fein und glänzend, Baumwolle oder Leinen eher matt und unkompliziert."
 relatedTerms:
   - title: Seidentuch
     url: /glossar/seidentuch/

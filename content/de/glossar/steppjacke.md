@@ -25,7 +25,7 @@ history:
   - Als Husky-Jacke etablierte sich die leichte, oft rautengesteppte Jacke als Klassiker der Freizeitgarderobe.
 knowledge:
   - Steppnähte fixieren die wärmende Füllung, damit sie nicht verrutscht oder sich ungleich verteilt.
-  - Das Steppmuster bestimmt die optische Wirkung: Kleine, flache Steppungen wirken meist ruhiger als breite, stark gepolsterte Kammern.
+  - "Das Steppmuster bestimmt die optische Wirkung: Kleine, flache Steppungen wirken meist ruhiger als breite, stark gepolsterte Kammern."
   - Eine Steppjacke ist nicht automatisch wasserdicht oder winddicht. Wetterschutz hängt von Obermaterial, Verarbeitung und Ausstattung ab.
 relatedTerms:
   - title: Daunenjacke

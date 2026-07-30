@@ -33,7 +33,7 @@ relatedTerms:
 knowledge:
   - A windbreaker primarily protects against wind, while weather protection against rain depends on the fabric, coating, and construction.
   - Lightweight synthetic fabrics are common because they can be tightly woven, pack down easily, and dry relatively quickly.
-  - Fit affects function: enough room for a light layer improves versatility, while excess volume can catch wind and look less controlled.
+  - "Fit affects function: enough room for a light layer improves versatility, while excess volume can catch wind and look less controlled."
 faq:
   items:
     - q: Is a windbreaker waterproof?

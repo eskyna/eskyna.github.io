@@ -23,7 +23,7 @@ history:
 knowledge:
   - Die zwei geschwungenen Bögen führen den Blick zur Mitte des Oberkörpers und geben dem Dekolleté eine weiche, dekorative Rahmung.
   - Wie tief oder zurückhaltend ein Herz-Ausschnitt wirkt, hängt von Höhe, Breite, Material und Konstruktion ab.
-  - Ein sauberer Sitz ist entscheidend: Die obere Kante soll glatt anliegen und beim Bewegen nicht abstehen oder einschneiden.
+  - "Ein sauberer Sitz ist entscheidend: Die obere Kante soll glatt anliegen und beim Bewegen nicht abstehen oder einschneiden."
 relatedTerms:
   - title: Ausschnittwirkung
     url: /glossar/ausschnittwirkung/

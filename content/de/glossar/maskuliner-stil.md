@@ -28,7 +28,7 @@ knowledge:
   - Maskuliner Stil arbeitet häufig mit geraden Linien, klarer Schulterpartie, festen oder strukturierten Stoffen und reduzierten Details.
   - Typische Kleidungsstücke sind Blazer, Hemden, Anzüge, Westen, gerade Hosen und klassische Lederschuhe.
   - Maskulin beschreibt eine Stilwirkung, nicht die Identität oder den Körper einer Person.
-  - Entscheidend ist die Passform: Ein weiter Schnitt soll bewusst wirken und nicht einfach zu groß sein.
+  - "Entscheidend ist die Passform: Ein weiter Schnitt soll bewusst wirken und nicht einfach zu groß sein."
 relatedTerms:
   - title: Androgyner Stil
     url: /glossar/androgyner-stil/

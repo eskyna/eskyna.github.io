@@ -24,7 +24,7 @@ history:
 knowledge:
   - Typisch für eine Bomberjacke sind die kurze Länge, ein Frontreißverschluss sowie elastische Rippbündchen an Kragen, Ärmeln und Saum.
   - Das orangefarbene Innenfutter klassischer MA-1-Modelle sollte umgedreht als gut sichtbares Signal dienen.
-  - Material und Oberfläche verändern die Wirkung stark: Nylon wirkt funktional und sportlich, matte Wolle oder Leder deutlich ruhiger und angezogener.
+  - "Material und Oberfläche verändern die Wirkung stark: Nylon wirkt funktional und sportlich, matte Wolle oder Leder deutlich ruhiger und angezogener."
 relatedTerms:
   - title: Blouson
     url: /glossar/blouson/

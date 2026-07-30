@@ -42,7 +42,7 @@ history:
   - The pattern became widely associated with tailored clothing and is often referred to as Prince of Wales check, although this name can describe related variants rather than every Glencheck.
 knowledge:
   - Glencheck is created through woven stripes and checks, rather than printed squares alone.
-  - Its visual scale matters: fine Glencheck reads calmer and more formal, while larger contrasts are more noticeable from a distance.
+  - "Its visual scale matters: fine Glencheck reads calmer and more formal, while larger contrasts are more noticeable from a distance."
   - The pattern combines especially easily with plain fabrics and restrained accessories.
 faq:
   items:

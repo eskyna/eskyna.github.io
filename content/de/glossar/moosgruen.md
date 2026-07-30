@@ -36,7 +36,7 @@ relatedTerms:
 knowledge:
   - Moosgrün ist keine exakt genormte Farbe. Je nach Material und Licht kann der Ton gelblicher, grauer oder brauner wirken.
   - Als gedecktes Grün eignet sich Moosgrün gut als ruhige Basisfarbe und lässt sich vielseitig mit Naturtönen kombinieren.
-  - Die Wirkung verändert sich stark mit dem Material: Wolle und Tweed wirken rustikaler, Leinen leichter und moderner.
+  - "Die Wirkung verändert sich stark mit dem Material: Wolle und Tweed wirken rustikaler, Leinen leichter und moderner."
 history:
   - Gedämpfte Grüntöne sind eng mit funktionaler Kleidung, Jagdmode und ländlich geprägten Stilbildern verbunden.
   - In Loden, Tweed und anderen strukturierten Stoffen prägen moosige Grüntöne bis heute den alpenländischen und britisch inspirierten Country-Stil.

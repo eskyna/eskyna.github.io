@@ -38,7 +38,7 @@ additional_categories:
   - Verbraucherwissen
 knowledge:
   - Wardrobe Dressing bewertet Kleidung nicht isoliert, sondern nach ihrem Nutzen innerhalb deiner gesamten Garderobe.
-  - Eine praktische Kaufregel ist der Drei-Outfits-Test: Ein neues Teil sollte sich mit vorhandener Kleidung zu mehreren vollständigen Looks kombinieren lassen.
+  - "Eine praktische Kaufregel ist der Drei-Outfits-Test: Ein neues Teil sollte sich mit vorhandener Kleidung zu mehreren vollständigen Looks kombinieren lassen."
   - Häufig getragene und vielseitig kombinierbare Kleidung verbessert meist die Cost per Wear und kann Fehlkäufe reduzieren.
 history:
   - Die Idee einer langlebig geplanten Garderobe knüpft an Zeiten an, in denen Kleidung, Textilien und handwerkliche Verarbeitung besonders wertvoll waren.

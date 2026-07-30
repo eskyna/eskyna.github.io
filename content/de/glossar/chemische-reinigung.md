@@ -36,7 +36,7 @@ history:
 knowledge:
   - Bei der chemischen Reinigung werden Textilien mit speziellen Lösungsmitteln statt mit Wasser gereinigt.
   - Das Pflegeetikett zeigt mit einem Kreis an, dass professionelle Reinigung vorgesehen oder möglich ist.
-  - Reinigung ist nicht nach jedem Tragen nötig: Auslüften, punktuelle Fleckenbehandlung und schonendes Dampfen können viele Stücke zwischendurch auffrischen.
+  - "Reinigung ist nicht nach jedem Tragen nötig: Auslüften, punktuelle Fleckenbehandlung und schonendes Dampfen können viele Stücke zwischendurch auffrischen."
 faq:
   items:
     - q: Wie erkenne ich, ob ein Kleidungsstück in die chemische Reinigung muss?

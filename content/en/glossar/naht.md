@@ -39,7 +39,7 @@ history:
   - Seams have been essential to clothing construction wherever separate pieces of fabric, leather, or other materials are joined into a wearable form.
   - Industrial sewing machines made it possible to produce consistent seams at scale, while hand-finished seams remain an important marker of careful construction in many garments.
 knowledge:
-  - A seam is both structural and visual: it holds a garment together while also directing the eye across the body.
+  - "A seam is both structural and visual: it holds a garment together while also directing the eye across the body."
   - Seam placement can shape fit, create volume, reduce bulk, or reinforce areas exposed to frequent movement.
   - The best seam type depends on the fabric, the garment’s purpose, and the amount of stress the area must withstand.
 faq:

@@ -59,7 +59,7 @@ commercial_cluster: color
 editorial_depth: mini-case-offer-bridge
 consulting_questions:
   - Which level of contrast supports the face and the intended impact best?
-  - Where does this contrast work best: near the face, as an accent, or as a base?
+  - "Where does this contrast work best: near the face, as an accent, or as a base?"
   - How can contrast work with existing colors without creating new buying mistakes?
 consulting_focus: Contrast becomes especially relevant in consultation when a concept needs to turn into a concrete decision for clothing, impact, or wardrobe planning.
 offer_bridge:

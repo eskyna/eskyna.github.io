@@ -37,7 +37,7 @@ relatedTerms:
     url: /en/glossar/materialqualitaet/
 knowledge:
   - Hand washing is a care method, not a fabric category. Whether it is necessary depends on the garment's care label and construction.
-  - Gentle handling matters as much as the water itself: rubbing, wringing, and hanging a heavy wet garment can affect delicate materials and shape.
+  - "Gentle handling matters as much as the water itself: rubbing, wringing, and hanging a heavy wet garment can affect delicate materials and shape."
   - The safest approach is to follow the care label first, especially for lined, dyed, embellished, or structured pieces.
 faq:
   items:

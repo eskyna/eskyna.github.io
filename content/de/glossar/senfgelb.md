@@ -36,7 +36,7 @@ relatedTerms:
 knowledge:
   - Senfgelb ist kein einheitlicher Farbton, sondern reicht von goldig warm bis deutlich braun oder oliv gedämpft.
   - Der Grau und Braunanteil macht Senfgelb ruhiger als klares Gelb.
-  - Material und Oberfläche verändern die Wirkung stark: Matte Stoffe wirken erdiger, glatte oder glänzende Oberflächen präsenter.
+  - "Material und Oberfläche verändern die Wirkung stark: Matte Stoffe wirken erdiger, glatte oder glänzende Oberflächen präsenter."
 faq:
   items:
     - q: Wie kombiniere ich Senfgelb?

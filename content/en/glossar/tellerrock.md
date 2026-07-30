@@ -41,7 +41,7 @@ history:
 knowledge:
   - A full circle skirt is cut from a complete circle of fabric with an opening at the center for the waist.
   - Half-circle and three-quarter-circle skirts use less fabric and usually create a more restrained flare.
-  - Fabric choice changes the result significantly: crisp materials hold volume, while fluid materials fall closer to the body.
+  - "Fabric choice changes the result significantly: crisp materials hold volume, while fluid materials fall closer to the body."
 faq:
   items:
     - q: What is the difference between a circle skirt and an A-line skirt?

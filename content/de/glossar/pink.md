@@ -38,7 +38,7 @@ relatedTerms:
 knowledge:
   - Pink ist keine einheitliche Farbe, sondern umfasst Nuancen von weichem Rosapink bis zu intensivem Fuchsia und Neonpink.
   - Sättigung, Helligkeit und Violettanteil bestimmen, ob Pink weich, frisch, laut oder elegant wirkt.
-  - Material und Farbfläche verändern die Wirkung deutlich: Ein pinkes Accessoire wirkt anders als ein pinker Mantel oder Hosenanzug.
+  - "Material und Farbfläche verändern die Wirkung deutlich: Ein pinkes Accessoire wirkt anders als ein pinker Mantel oder Hosenanzug."
 faq:
   items:
     - q: Wie kombiniere ich Pink?

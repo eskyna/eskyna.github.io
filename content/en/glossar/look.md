@@ -37,7 +37,7 @@ relatedTerms:
     url: /en/glossar/wirkung/
 knowledge:
   - A look considers the relationship between all visible elements, not only individual garments.
-  - Context matters: the same outfit can create a different look at work, at an event, or in everyday life.
+  - "Context matters: the same outfit can create a different look at work, at an event, or in everyday life."
   - A coherent look does not need to be formal or trend-led. It needs to support the wearer and the intended impression.
 faq:
   items:

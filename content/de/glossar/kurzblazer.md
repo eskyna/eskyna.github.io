@@ -25,7 +25,7 @@ history:
 knowledge:
   - Ein Kurzblazer endet meist auf oder oberhalb der natürlichen Taille und verändert damit die sichtbaren Längen im Outfit.
   - Besonders stimmig wirkt er mit Unterteilen mit höherem Bund, weil zwischen Jacke und Hose oder Rock eine klare Verbindung entsteht.
-  - Die Wirkung hängt nicht nur von der Länge ab: Schulterlinie, Verschluss, Material und Volumen des Unterteils entscheiden mit.
+  - "Die Wirkung hängt nicht nur von der Länge ab: Schulterlinie, Verschluss, Material und Volumen des Unterteils entscheiden mit."
 relatedTerms:
   - title: Blazer
     url: /glossar/blazer/

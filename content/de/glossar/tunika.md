@@ -26,7 +26,7 @@ history:
 knowledge:
   - Eine Tunika ist meist weiter als eine Bluse, wird oft über den Kopf gezogen und reicht mindestens über die Hüfte.
   - Seitliche Schlitze, ein kurzer Schlitz am Ausschnitt oder Bänder am Hals sind häufige, aber keine zwingenden Details.
-  - Der Stoff bestimmt die Wirkung stark: Leinen wirkt natürlich, Viskose fließend und Seide feiner und eleganter.
+  - "Der Stoff bestimmt die Wirkung stark: Leinen wirkt natürlich, Viskose fließend und Seide feiner und eleganter."
 relatedTerms:
   - title: Kaftan
     url: /glossar/kaftan/

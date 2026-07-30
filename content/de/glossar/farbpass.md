@@ -54,7 +54,7 @@ editorial_depth: mini-case-offer-bridge
 content_level: commercial-pillar
 consulting_questions:
   - Welche Nuance unterstützt Gesicht und gewünschte Wirkung am besten?
-  - Wo wirkt die Farbe am stärksten: nahe am Gesicht, als Akzent oder als Basis?
+  - "Wo wirkt die Farbe am stärksten: nahe am Gesicht, als Akzent oder als Basis?"
   - Wie lässt sie sich mit vorhandenen Farben kombinieren, ohne neue Fehlkäufe zu erzeugen?
 consulting_focus: >
   Der Farbpass wird in der Beratung besonders relevant, wenn aus Farbtheorie eine konkrete Entscheidung

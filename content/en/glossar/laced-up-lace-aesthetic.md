@@ -37,7 +37,7 @@ relatedTerms:
     url: /en/glossar/coquette-aesthetic/
 knowledge:
   - Laced Up can refer to decorative lacing, ribbon ties, eyelets, or lace trim, depending on the garment and styling context.
-  - The effect depends on contrast: a small lace-up detail can feel refined or edgy, while multiple romantic details create a more theatrical look.
+  - "The effect depends on contrast: a small lace-up detail can feel refined or edgy, while multiple romantic details create a more theatrical look."
   - Visible lacing is a focal point, so the surrounding outfit usually benefits from calm shapes, limited color, and clear proportions.
 faq:
   items:

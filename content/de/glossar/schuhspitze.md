@@ -33,7 +33,7 @@ history:
   - Runde, spitze und eckige Schuhformen sind daher keine festen Stilregeln, sondern wiederkehrende Gestaltungsformen.
 knowledge:
   - Die Schuhspitze beeinflusst die optische Länge und Breite des Fußes.
-  - Eine schöne Form reicht nicht aus: Entscheidend ist, dass die Zehen genügend Platz haben.
+  - "Eine schöne Form reicht nicht aus: Entscheidend ist, dass die Zehen genügend Platz haben."
   - Material, Leistenform und Absatz verändern die Wirkung einer Schuhspitze zusätzlich.
 faq:
   items:

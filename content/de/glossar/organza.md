@@ -32,7 +32,7 @@ relatedTerms:
 knowledge:
   - Organza ist trotz seiner hohen Transparenz standfest und formgebend.
   - Stark gedrehte Garne geben dem feinen Gewebe seinen trockenen Griff und seine Spannung.
-  - Die Faser bestimmt Pflege und Haptik: Seidenorganza ist empfindlicher, Polyesterorganza meist robuster.
+  - "Die Faser bestimmt Pflege und Haptik: Seidenorganza ist empfindlicher, Polyesterorganza meist robuster."
 history:
   - Der Name leitet sich vermutlich von der zentralasiatischen Stadt Urgentsch ab, einem historischen Handelszentrum an der Seidenstraße.
   - Ursprünglich wurde Organza aus reiner Seide hergestellt.

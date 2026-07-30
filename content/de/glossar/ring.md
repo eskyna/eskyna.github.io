@@ -34,7 +34,7 @@ history:
 knowledge:
   - Die Breite, Form und Oberfläche eines Rings beeinflussen, ob er fein, grafisch, weich oder markant wirkt.
   - Mehrere Ringe erzeugen schnell eine stärkere Schmuckwirkung als ein einzelnes Modell.
-  - Ein Ring sollte gut sitzen: Er darf nicht drücken, sollte aber auch nicht so locker sein, dass er leicht verloren geht.
+  - "Ein Ring sollte gut sitzen: Er darf nicht drücken, sollte aber auch nicht so locker sein, dass er leicht verloren geht."
 faq:
   items:
     - q: Wie trägt man Ringe im Alltag stilvoll?

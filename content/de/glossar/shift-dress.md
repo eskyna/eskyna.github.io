@@ -35,7 +35,7 @@ history:
 knowledge:
   - Ein Shift Dress fällt von Schulter oder Brustbereich relativ gerade nach unten und betont die Taille nicht stark.
   - Stoff, Länge und Bewegungszugabe entscheiden darüber, ob das Kleid klar, weich, sportlich oder elegant wirkt.
-  - Ein Shift Dress ist nicht automatisch weit: Es braucht genug Raum für Bewegung, ohne am Körper zu spannen oder unförmig zu wirken.
+  - "Ein Shift Dress ist nicht automatisch weit: Es braucht genug Raum für Bewegung, ohne am Körper zu spannen oder unförmig zu wirken."
 faq:
   items:
     - q: Was ist der Unterschied zwischen Shift Dress und Etuikleid?

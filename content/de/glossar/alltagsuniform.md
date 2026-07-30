@@ -55,7 +55,7 @@ consulting_questions:
 consulting_focus: Alltagsuniform wird in der Beratung besonders relevant, wenn aus einem Begriff eine konkrete Entscheidung für Kleidung, Wirkung oder Garderobe werden soll.
 history:
   - Funktionale Uniformen markieren seit jeher Rollen, Zugehörigkeit und berufliche Aufgaben.
-  - Die persönliche Alltagsuniform überträgt dieses Prinzip auf den individuellen Stil: Wiederkehrende Kleidung kann eine bewusste visuelle Signatur schaffen.
+  - "Die persönliche Alltagsuniform überträgt dieses Prinzip auf den individuellen Stil: Wiederkehrende Kleidung kann eine bewusste visuelle Signatur schaffen."
   - Im 20. Jahrhundert nutzten Kreative und Persönlichkeiten des öffentlichen Lebens wiedererkennbare Looks, um ihren Auftritt zu bündeln und sich weniger an wechselnden Trends zu orientieren.
 knowledge:
   - Eine Alltagsuniform ist keine vorgeschriebene Kleidung, sondern ein selbst gewähltes System aus wiederkehrenden Schnitten, Farben und Kombinationen.

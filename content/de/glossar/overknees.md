@@ -24,7 +24,7 @@ history:
   - In der Mode der 1960er-Jahre wurden Overknees eng mit kurzen Röcken und neuen, selbstbewussten Silhouetten verbunden.
 knowledge:
   - Overknees reichen mit ihrem Schaft über das Knie und prägen dadurch die Beinlinie stärker als klassische Kniehohe Stiefel.
-  - Die Schuh-Saum-Beziehung entscheidet wesentlich über die Wirkung: Überlappende Längen wirken geschlossen, sichtbare Zwischenräume setzen einen Akzent.
+  - "Die Schuh-Saum-Beziehung entscheidet wesentlich über die Wirkung: Überlappende Längen wirken geschlossen, sichtbare Zwischenräume setzen einen Akzent."
   - Matte Materialien und ruhige Farben machen Overknee-Stiefel meist leichter für den Alltag kombinierbar.
 relatedTerms:
   - title: Knee-High Boots

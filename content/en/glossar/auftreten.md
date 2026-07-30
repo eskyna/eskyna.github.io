@@ -36,7 +36,7 @@ relatedTerms:
     url: /en/glossar/wirkung/
 knowledge:
   - Appearance is shaped by the complete visual impression, not by one garment alone.
-  - Context matters: an effective appearance for a job interview may differ from one for a creative event or everyday life.
+  - "Context matters: an effective appearance for a job interview may differ from one for a creative event or everyday life."
   - A coherent appearance does not require formal clothing or trend-led pieces. It requires choices that support the intended message.
 faq:
   items:

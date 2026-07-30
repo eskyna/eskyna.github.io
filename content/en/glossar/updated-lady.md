@@ -33,7 +33,7 @@ relatedTerms:
   - title: Parisian Chic
     url: /en/glossar/parisian-chic/
 knowledge:
-  - Updated Lady relies on controlled contrast: a refined piece is balanced by something simpler, softer, or more relaxed.
+  - "Updated Lady relies on controlled contrast: a refined piece is balanced by something simpler, softer, or more relaxed."
   - The style is less about following a fixed formula than choosing polished details that still suit real daily life.
   - Fit, proportion, and material quality usually matter more than visible logos or a large number of accessories.
 faq:

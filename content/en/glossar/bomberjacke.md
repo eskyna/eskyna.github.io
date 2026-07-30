@@ -41,7 +41,7 @@ history:
 knowledge:
   - Classic bomber jacket details include a short length, front zip fastening, and ribbed collar, cuffs, and hem.
   - The jacket creates a horizontal finish around the waist or hip, so its length strongly influences visual proportion.
-  - Material changes the effect: leather feels more rugged, nylon more sporty, while wool or refined fabrics can make a bomber jacket look smarter.
+  - "Material changes the effect: leather feels more rugged, nylon more sporty, while wool or refined fabrics can make a bomber jacket look smarter."
 faq:
   items:
     - q: What is the difference between a bomber jacket and a blouson?

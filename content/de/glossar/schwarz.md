@@ -40,7 +40,7 @@ relatedTerms:
     url: /glossar/farbtyp/
 knowledge:
   - Schwarz ist eine besonders kontraststarke neutrale Farbe und macht Linien, Schnitte und Flächen deutlich sichtbar.
-  - Material und Oberfläche verändern die Wirkung stark: Mattes Schwarz wirkt anders als glänzendes, strukturiertes oder gewaschenes Schwarz.
+  - "Material und Oberfläche verändern die Wirkung stark: Mattes Schwarz wirkt anders als glänzendes, strukturiertes oder gewaschenes Schwarz."
   - Wenn Schwarz am Gesicht zu hart wirkt, kann es an Unterton, Kontrast oder der großen dunklen Fläche liegen.
 faq:
   items:

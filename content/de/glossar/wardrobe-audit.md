@@ -32,7 +32,7 @@ relatedTerms:
   - title: Kleiderschrank-Lücke
     url: /glossar/kleiderschrank-luecke/
 knowledge:
-  - Ein Wardrobe Audit geht über Ausmisten hinaus: Es macht sichtbar, welche Teile du wirklich trägst, welche Kombinationen fehlen und warum bestimmte Kleidung ungenutzt bleibt.
+  - "Ein Wardrobe Audit geht über Ausmisten hinaus: Es macht sichtbar, welche Teile du wirklich trägst, welche Kombinationen fehlen und warum bestimmte Kleidung ungenutzt bleibt."
   - Ziel ist nicht eine möglichst kleine Garderobe, sondern eine Garderobe, die zu deinem Alltag, deiner Stilidentität und deinen tatsächlichen Anlässen passt.
   - Die Ergebnisse eines Wardrobe Audits liefern eine konkrete Grundlage für Einkaufslisten, Reparaturen und gezieltere Kaufentscheidungen.
 history:

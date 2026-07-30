@@ -21,7 +21,7 @@ weight: 3
 image: images/glossar/viskose.png
 image_alt: Editoriale Grafik mit fließender Stoffbahn und weichen Linien für Viskose
 knowledge:
-  - Viskose ist eine Regeneratfaser: Ihre Basis ist Zellulose, die industriell zu Fasern verarbeitet wird.
+  - "Viskose ist eine Regeneratfaser: Ihre Basis ist Zellulose, die industriell zu Fasern verarbeitet wird."
   - Viskose kann je nach Webart, Stoffgewicht und Ausrüstung matt, glatt, seidig oder weich wirken.
   - Die Faser nimmt Feuchtigkeit gut auf, ist im nassen Zustand jedoch empfindlicher als im trockenen Zustand.
 history:

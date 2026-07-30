@@ -32,7 +32,7 @@ relatedTerms:
 knowledge:
   - Made-to-measure usually adapts an existing base pattern to the client's measurements.
   - Bespoke tailoring generally involves a pattern created specifically for one client, though terminology can vary by tailor and market.
-  - A personal garment depends on more than body measurements: posture, movement, fabric, construction, fittings, and intended use all matter.
+  - "A personal garment depends on more than body measurements: posture, movement, fabric, construction, fittings, and intended use all matter."
 faq:
   items:
     - q: "What is the difference between bespoke and made-to-measure?"

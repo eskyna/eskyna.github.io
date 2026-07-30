@@ -34,7 +34,7 @@ relatedTerms:
   - title: Business Casual
     url: /glossar/business-casual/
 knowledge:
-  - Soft Authority beschreibt die Wirkung des Updated-Lady-Stils: Präsenz und Kompetenz entstehen durch Qualität, klare Linien, feminine Details und einen ruhigen Gesamtlook.
+  - "Soft Authority beschreibt die Wirkung des Updated-Lady-Stils: Präsenz und Kompetenz entstehen durch Qualität, klare Linien, feminine Details und einen ruhigen Gesamtlook."
   - Der Stil lebt von Kontrasten, etwa einem strukturierten Blazer zu Denim, flachen Schuhen oder einem schlichten T-Shirt.
   - Updated Lady ist keine feste Uniform, sondern eine Stilrichtung, die klassische Eleganz an deinen Alltag und deine Persönlichkeit anpasst.
 history:

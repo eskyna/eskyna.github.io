@@ -35,7 +35,7 @@ relatedTerms:
 knowledge:
   - Schokoladenbraun ist ein sehr dunkler Braunton, der je nach Rot, Gelb oder Schwarzanteil wärmer oder kühler wirken kann.
   - Als dunkle Basisfarbe erzeugt der Ton meist einen weicheren Kontrast am Gesicht als tiefes Schwarz.
-  - Material und Oberfläche verändern die Wirkung stark: Mattes Leder, Wolle, Strick und Samt lassen Schokoladenbraun jeweils anders erscheinen.
+  - "Material und Oberfläche verändern die Wirkung stark: Mattes Leder, Wolle, Strick und Samt lassen Schokoladenbraun jeweils anders erscheinen."
 faq:
   items:
     - q: Passt Schokoladenbraun zu Schwarz?

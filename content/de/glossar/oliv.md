@@ -38,7 +38,7 @@ history:
   - In den 1960er und 1970er Jahren wurde Oliv über Utilitykleidung, zivile Gegenkultur und Protestbewegungen sichtbar in die Alltagsmode übernommen.
 knowledge:
   - Oliv ist keine einheitliche Farbe, sondern eine Familie gedämpfter Grüntöne mit unterschiedlich starken Gelb, Braun oder Grauanteilen.
-  - Material und Oberfläche verändern die Wirkung deutlich: Mattes Baumwolltwill wirkt funktional, Seide oder Satin lassen Oliv weicher und eleganter erscheinen.
+  - "Material und Oberfläche verändern die Wirkung deutlich: Mattes Baumwolltwill wirkt funktional, Seide oder Satin lassen Oliv weicher und eleganter erscheinen."
   - Der genaue Unterton entscheidet, ob Oliv am Gesicht frisch, harmonisch oder fahl wirkt.
 faq:
   items:

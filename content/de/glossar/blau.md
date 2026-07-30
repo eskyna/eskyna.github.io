@@ -24,7 +24,7 @@ image_alt: Editoriale Grafik mit Blau-Nuancen, Denimflächen und klaren Farbkomb
 knowledge:
   - Blau kann je nach Helligkeit, Sättigung und Unterton frisch, ruhig, sachlich oder präsent wirken.
   - Dunkle Blautöne wie Navy sind im Business eine verbreitete Alternative zu Schwarz, weil sie klar und professionell wirken.
-  - Entscheidend ist die Nuance nahe dem Gesicht: Ein passendes Blau kann den Teint klarer erscheinen lassen, ein unpassender Ton kann Schatten betonen.
+  - "Entscheidend ist die Nuance nahe dem Gesicht: Ein passendes Blau kann den Teint klarer erscheinen lassen, ein unpassender Ton kann Schatten betonen."
 history:
   - Kostbares Ultramarin wurde historisch aus Lapislazuli hergestellt und war in der Malerei besonders wertvoll.
   - Blaues Textil wurde unter anderem mit Waid und Indigo gefärbt, bevor synthetische Farbstoffe die Farbproduktion veränderten.

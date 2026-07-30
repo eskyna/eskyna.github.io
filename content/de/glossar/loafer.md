@@ -28,7 +28,7 @@ history:
 knowledge:
   - Loafer sind Schlupfschuhe ohne Schnürung. Ihre Form reicht von fein und klassisch bis kräftig und urban.
   - Ein Loafer hat meist eine formstabilere Sohle und einen deutlicheren Absatz als ein Mokassin.
-  - Die Schuhform beeinflusst die Wirkung stark: Glattes Leder wirkt klarer, Veloursleder weicher und eine Profilsohle markanter.
+  - "Die Schuhform beeinflusst die Wirkung stark: Glattes Leder wirkt klarer, Veloursleder weicher und eine Profilsohle markanter."
 relatedTerms:
   - title: Mokassin
     url: /glossar/mokassin/

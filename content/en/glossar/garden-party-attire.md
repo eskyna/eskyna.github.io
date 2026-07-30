@@ -40,7 +40,7 @@ relatedTerms:
     url: /en/glossar/dresscode/
 knowledge:
   - Garden Party Attire is not a universal fixed dress code. The invitation, time of day, venue, weather, and host’s expectations determine how formal the outfit should be.
-  - Outdoor practicality matters: stable footwear, a light layer, and fabrics that feel comfortable in changing temperatures can be as important as the visual effect.
+  - "Outdoor practicality matters: stable footwear, a light layer, and fabrics that feel comfortable in changing temperatures can be as important as the visual effect."
   - The goal is polished ease rather than evening glamour or overly casual everyday clothing.
 faq:
   items:

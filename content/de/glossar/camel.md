@@ -26,7 +26,7 @@ history:
   - Ein Mantel in Camel gilt spätestens seit dem 20. Jahrhundert als Symbol für zurückhaltende, zeitlose Eleganz.
 knowledge:
   - Camel ist ein warmer Neutralton mit goldenen, gelblichen oder leicht rötlichen Anteilen und liegt farblich zwischen Beige und Braun.
-  - Die Materialoberfläche verändert die Wirkung deutlich: Matte Wolle wirkt tief und ruhig, Leder klarer und markanter, Leinen leichter und sommerlicher.
+  - "Die Materialoberfläche verändert die Wirkung deutlich: Matte Wolle wirkt tief und ruhig, Leder klarer und markanter, Leinen leichter und sommerlicher."
   - Direkt am Gesicht wirkt Camel meist besonders harmonisch bei warmen Farbtypen. Kühlere Farbtypen können den Ton mit kühleren Farben ausgleichen oder weiter vom Gesicht entfernt tragen.
 relatedTerms:
   - title: Beige
