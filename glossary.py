@@ -167,6 +167,7 @@ Pflicht:
 - Antworte ausschließlich mit dem fertigen Markdown.
 - Keine Erklärungen und keine Code-Fences.
 - Frontmatter muss mit --- beginnen und enden.
+- YAML-Werte mit Doppelpunkt im Text (z. B. FAQ-Antworten, description) immer in Anführungszeichen setzen.
 - Schreibe auf Deutsch in der Du-Form.
 - Nutze keine Gedankenstriche (en/em dash).
 - Setze sinnvolle interne Links und relatedTerms nur aus der bereitgestellten Glossarliste.
@@ -189,6 +190,7 @@ Requirements:
 - Respond only with the finished Markdown.
 - No explanations and no code fences.
 - Frontmatter must start and end with ---.
+- Always quote YAML values that contain a colon in the text (e.g. FAQ answers, description).
 - Write clear natural English.
 - Do not use en dashes or em dashes.
 - Use internal links and relatedTerms only from the provided glossary list.
@@ -212,6 +214,7 @@ Requirements:
 - Отвечайте только готовым Markdown.
 - Без пояснений и без code fences.
 - Frontmatter должен начинаться и заканчиваться ---.
+- Значения YAML с двоеточием в тексте (например FAQ и description) всегда заключайте в кавычки.
 - Пишите уважительно на «вы».
 - Не используйте длинные тире (en/em dash).
 - Внутренние ссылки и relatedTerms только из предоставленного списка глоссария.
@@ -484,7 +487,52 @@ def clean_markdown_response(text: str, require_frontmatter: bool = False) -> str
     cleaned = cleaned.strip()
     if require_frontmatter and not cleaned.startswith("---"):
         raise RuntimeError("Antwort enthält kein YAML-Frontmatter (erwartet Start mit ---).")
-    return cleaned
+    return sanitize_frontmatter_yaml(cleaned)
+
+
+def _yaml_needs_quote(val: str) -> bool:
+    if not val:
+        return False
+    if val[0] in "\"'[{|>":
+        return False
+    return bool(re.search(r":\s", val) or val.endswith(":"))
+
+
+def _yaml_quote(val: str) -> str:
+    return '"' + val.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def sanitize_frontmatter_yaml(markdown: str) -> str:
+    """Quotiert Frontmatter-Skalare mit ':' , damit Hugo/YAML nicht bricht."""
+    match = re.match(r"^(---\r?\n)(.*?)(\r?\n---\r?\n?)([\s\S]*)$", markdown, re.S)
+    if not match:
+        return markdown
+
+    prefix, frontmatter, sep, body = match.groups()
+    out_lines = []
+    changed = False
+
+    for line in frontmatter.splitlines():
+        key_match = re.match(r"^(\s*[A-Za-z0-9_-]+:\s+)(.*)$", line)
+        if key_match and _yaml_needs_quote(key_match.group(2)):
+            line = key_match.group(1) + _yaml_quote(key_match.group(2))
+            changed = True
+        else:
+            list_match = re.match(r"^(\s+-\s+)(.*)$", line)
+            if list_match:
+                val = list_match.group(2)
+                nested = re.match(r"^((?:title|url|q|a|href|text|name|id):\s+)(.*)$", val)
+                if nested and _yaml_needs_quote(nested.group(2)):
+                    line = list_match.group(1) + nested.group(1) + _yaml_quote(nested.group(2))
+                    changed = True
+                elif not nested and _yaml_needs_quote(val):
+                    line = list_match.group(1) + _yaml_quote(val)
+                    changed = True
+        out_lines.append(line)
+
+    if not changed:
+        return markdown
+    return prefix + "\n".join(out_lines) + sep + body
 
 
 def call_azure_openai(
@@ -667,7 +715,7 @@ def process(path: Path, client, lang: str, worker_id: int, optimize_fn):
         safe_print(f"[Worker {worker_id}]    keine Änderungen")
         return "done"
 
-    path.write_text(improved, encoding="utf-8")
+    path.write_text(sanitize_frontmatter_yaml(improved), encoding="utf-8")
     safe_print(f"[Worker {worker_id}]    ✔ verbessert ({lang.upper()})")
     return "done"
 

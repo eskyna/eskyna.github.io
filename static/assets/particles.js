@@ -38,17 +38,19 @@
    - Respektiert prefers-reduced-motion: Animation wird komplett
      übersprungen, das scharfe Logo (sign-gold.png) erscheint sofort,
      ohne Partikel.
-   - Das echte Logo-Element (data-target) bleibt für immer unsichtbar
-     (visibility:hidden) — es wird durch ein eigenes <img> mit
-     sign-gold.png an derselben Position/Größe ersetzt. Nichts vom
-     ursprünglichen Element (Text, Icon, Platzhalter) scheint je durch.
+   - Spielt beim ersten Laden und erneut, wenn die Seite wieder sichtbar
+     wird (visibilitychange → visible), z. B. nach Tab-Wechsel.
+   - Das echte Logo-Element (data-target) bleibt während der Animation
+     unsichtbar und wird danach wieder eingeblendet. So bleibt das
+     Kleeblatt im Hero verankert und scrollt aus dem Viewport, statt
+     als fixed-Overlay am Bildschirm zu kleben.
    - Der Canvas-Overlay ist transparent und pointer-events:none — die
      Seite bleibt während der Animation voll bedienbar, nichts wird
      blockiert.
    - Nach Ablauf entfernt sich der Canvas-Overlay selbst aus dem DOM;
-     übrig bleibt nur das leichte, permanente <img>-Element.
+     übrig bleibt das echte Logo-Element im Hero.
    - Schlagen die Bild-Assets aus irgendeinem Grund fehl zu laden, wird
-     stattdessen das ursprüngliche Element wieder sichtbar gemacht
+     das ursprüngliche Element wieder sichtbar gemacht
      (nie dauerhaft leere Fläche).
    ════════════════════════════════════════════════════════════════════════ */
 (function () {
@@ -71,6 +73,9 @@
   };
   var IMG_SRC = "/images/sign_gold.png";
   var STORAGE_KEY = "eskynaEntrancePlayed";
+  var staticSignImg = null;
+  var staticLayout = null;
+  var runToken = 0;
 
   if (!cfg.target) {
     console.warn("[eskyna-entrance] kein data-target gesetzt — übersprungen.");
@@ -85,6 +90,43 @@
     else fn();
   }
 
+  function prefersReducedMotion() {
+    return window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  }
+
+  function cancelActiveRun() {
+    runToken += 1;
+    var canvases = document.querySelectorAll("canvas[data-eskyna-entrance]");
+    for (var i = 0; i < canvases.length; i++) {
+      if (canvases[i].parentNode) canvases[i].parentNode.removeChild(canvases[i]);
+    }
+  }
+
+  function removeStaticSign() {
+    if (staticLayout) {
+      window.removeEventListener("resize", staticLayout);
+      window.removeEventListener("scroll", staticLayout);
+      staticLayout = null;
+    }
+    if (staticSignImg && staticSignImg.parentNode) {
+      staticSignImg.parentNode.removeChild(staticSignImg);
+    }
+    staticSignImg = null;
+  }
+
+  function playEntrance(targetEl, withParticles) {
+    targetEl.style.visibility = "hidden";
+    cancelActiveRun();
+    removeStaticSign();
+
+    if (!withParticles || prefersReducedMotion()) {
+      placeStaticSign(targetEl);
+      return;
+    }
+
+    run(targetEl);
+  }
+
   function start() {
     var targetEl = document.querySelector(cfg.target);
     if (!targetEl) {
@@ -93,62 +135,34 @@
       );
       return;
     }
+
+    var alreadyPlayed = cfg.once && sessionStorage.getItem(STORAGE_KEY) === "1";
     if (cfg.once) sessionStorage.setItem(STORAGE_KEY, "1");
 
-    /* Das echte Element bleibt ab hier für immer unsichtbar — Erfolg wie
-       Fehlschlag entscheiden nur, WOMIT die Fläche gefüllt wird. */
-    targetEl.style.visibility = "hidden";
+    /* Erster Seitenaufruf: bei data-once bereits gespielt nur stilles Logo.
+       visibilitychange spielt die Partikel erneut (siehe Listener unten). */
+    playEntrance(targetEl, !alreadyPlayed);
 
-    var reduced =
-      window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduced) {
-      placeStaticSign(targetEl);
-      return;
-    } /* sofort scharfes Logo, keine Partikel */
-
-    run(targetEl);
-  }
-  if (cfg.once && sessionStorage.getItem(STORAGE_KEY) === "1") {
-    /* Schon gezeigt in dieser Session: das Ziel dennoch sofort durch das
-       scharfe Bild ersetzen (still, ohne Partikel) statt gar nichts zu tun —
-       sonst bliebe die Fläche für Folgeseiten in derselben Session leer. */
-    whenReady(function () {
-      var targetEl = document.querySelector(cfg.target);
-      if (targetEl) {
-        targetEl.style.visibility = "hidden";
-        placeStaticSign(targetEl);
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState !== "visible") {
+        /* Laufende Partikel abbrechen und das echte Hero-Logo wieder zeigen. */
+        var el = document.querySelector(cfg.target);
+        cancelActiveRun();
+        if (el) placeStaticSign(el);
+        return;
       }
+      var visibleEl = document.querySelector(cfg.target);
+      if (!visibleEl) return;
+      playEntrance(visibleEl, true);
     });
-    return;
   }
 
-  /* Ersetzt targetEl dauerhaft durch ein <img> mit sign-gold.png an
-     derselben Position/Größe (position:fixed, „contain“-gefittet). Wird
-     sowohl vom Normalpfad (nach der Animation) als auch von
-     prefers-reduced-motion/Wiederholungs-Sessions genutzt. */
+  /* Nach der Animation (oder bei reduced-motion) das echte Ziel-Element im
+     Hero wieder einblenden. Kein position:fixed-Overlay: sonst klebt das
+     Kleeblatt beim Scrollen am Viewport fest. */
   function placeStaticSign(targetEl) {
-    var img = new Image();
-    img.setAttribute("aria-hidden", "true");
-    img.style.cssText = "position:fixed;z-index:2147483647;pointer-events:none;";
-    function layout() {
-      var r = targetEl.getBoundingClientRect();
-      img.style.left = r.left + "px";
-      img.style.top = r.top + "px";
-      img.style.width = r.width + "px";
-      img.style.height = r.height + "px";
-    }
-    img.onload = function () {
-      document.body.appendChild(img);
-      layout();
-      window.addEventListener("resize", layout);
-    };
-    img.onerror = function () {
-      console.warn(
-        "[eskyna-entrance] sign-gold.png nicht gefunden unter " + IMG_SRC + " — zeige Original."
-      );
-      targetEl.style.visibility = "";
-    };
-    img.src = IMG_SRC;
+    removeStaticSign();
+    if (targetEl) targetEl.style.visibility = "";
   }
 
   /* ── Utils (kondensiert aus der ESKYNA-Partikel-Lab-Engine) ─────────── */
@@ -176,8 +190,10 @@
 
   /* ── Ablauf ──────────────────────────────────────────────────────────── */
   function run(targetEl) {
+    var myToken = runToken;
     var canvas = document.createElement("canvas");
     canvas.setAttribute("aria-hidden", "true");
+    canvas.setAttribute("data-eskyna-entrance", "1");
     canvas.style.cssText =
       "position:fixed;inset:0;width:100vw;height:100vh;" +
       "z-index:2147483647;pointer-events:none;transition:opacity .5s ease;";
@@ -200,7 +216,12 @@
     function bailOut() {
       window.removeEventListener("resize", sizeCanvas);
       if (canvas.parentNode) canvas.parentNode.removeChild(canvas);
-      targetEl.style.visibility = "";
+      if (myToken === runToken) targetEl.style.visibility = "";
+    }
+
+    if (myToken !== runToken) {
+      bailOut();
+      return;
     }
 
     var markImg = new Image();
@@ -212,6 +233,10 @@
     markImg.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(MARK_SVG);
 
     function onMarkReady() {
+      if (myToken !== runToken) {
+        bailOut();
+        return;
+      }
       /* Content-Box per Alpha-Scan bestimmen (wie im Partikel-Lab). */
       var S = 400,
         mcv = document.createElement("canvas");
@@ -268,6 +293,10 @@
     }
 
     function startAnimation(homeLocal, aspect) {
+      if (myToken !== runToken) {
+        bailOut();
+        return;
+      }
       var N = homeLocal.length / 2;
       var home = new Float32Array(N * 2);
       var pos = new Float32Array(N * 2);
@@ -278,6 +307,11 @@
       var kind = new Uint8Array(N);
       var rng2 = mulberry32(0x21de57a9);
       var targetRect = { x: 0, y: 0, w: 0, h: 0 };
+      var m = 0,
+        holdT = 0,
+        phase = "in",
+        lastNow = performance.now(),
+        raf = 0;
 
       function layoutTarget() {
         var r = targetEl.getBoundingClientRect();
@@ -298,10 +332,16 @@
         for (var p = 0; p < N; p++) {
           home[p * 2] = targetRect.x + homeLocal[p * 2] * targetRect.w;
           home[p * 2 + 1] = targetRect.y + homeLocal[p * 2 + 1] * targetRect.h;
+          /* Nach dem Andocken (oder beim Scrollen) Partikel am Hero halten. */
+          if (phase !== "in") {
+            pos[p * 2] = home[p * 2];
+            pos[p * 2 + 1] = home[p * 2 + 1];
+          }
         }
       }
       layoutTarget();
       window.addEventListener("resize", layoutTarget);
+      window.addEventListener("scroll", layoutTarget, { passive: true });
 
       var GOLD = "#f0c869",
         CHAMPAGNE = "#fff6da",
@@ -344,13 +384,15 @@
       }
       fromBuf.set(pos);
 
-      var m = 0,
-        holdT = 0,
-        phase = "in",
-        lastNow = performance.now(),
-        raf = 0;
-
       function tick(now) {
+        if (myToken !== runToken) {
+          if (raf) cancelAnimationFrame(raf);
+          window.removeEventListener("resize", sizeCanvas);
+          window.removeEventListener("resize", layoutTarget);
+          window.removeEventListener("scroll", layoutTarget);
+          if (canvas.parentNode) canvas.parentNode.removeChild(canvas);
+          return;
+        }
         var dt = clamp((now - lastNow) / 1000, 0.0001, 0.05);
         lastNow = now;
         var dec = Math.exp(-4.5 * dt);
@@ -431,8 +473,9 @@
         if (raf) cancelAnimationFrame(raf);
         window.removeEventListener("resize", sizeCanvas);
         window.removeEventListener("resize", layoutTarget);
+        window.removeEventListener("scroll", layoutTarget);
         if (canvas.parentNode) canvas.parentNode.removeChild(canvas);
-        placeStaticSign(targetEl);
+        if (myToken === runToken) placeStaticSign(targetEl);
       }
 
       raf = requestAnimationFrame(tick);
