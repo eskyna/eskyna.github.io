@@ -1,5 +1,5 @@
 {{- /*
-  Normalize a document <title> to SEO length 30–60 characters.
+  Normalize a document <title> to SEO length 30-60 characters.
   Usage: {{ $title := partial "seo-document-title.html" $rawTitle }}
 */ -}}
 {{- $title := strings.TrimSpace (. | plainify) -}}
@@ -39,9 +39,9 @@
   {{- if gt (len $main) $budget -}}
     {{- $cut := substr $main 0 $budget -}}
     {{- if in $cut " " -}}
-      {{- $main = strings.TrimRight " -–—,;:|/" (replaceRE "[[:space:]]+[^[:space:]]*$" "" $cut) -}}
+      {{- $main = strings.TrimRight " -,;:|/" (replaceRE "[[:space:]]+[^[:space:]]*$" "" $cut) -}}
     {{- else -}}
-      {{- $main = strings.TrimRight " -–—,;:|/" $cut -}}
+      {{- $main = strings.TrimRight " -,;:|/" $cut -}}
     {{- end -}}
   {{- end -}}
   {{- $title = printf "%s%s" $main $suffix -}}
@@ -55,7 +55,7 @@
   {{- if eq (strings.TrimSpace $core) "" -}}
     {{- $core = $title -}}
   {{- end -}}
-  {{- /* Prefer natural expansions that stay within 30–60. */ -}}
+  {{- /* Prefer natural expansions that stay within 30-60. */ -}}
   {{- $candidates := slice
     (printf "%s | ESKYNA Glossary" $core)
     (printf "%s | ESKYNA Glossar" $core)
@@ -76,7 +76,7 @@
   {{- else -}}
     {{- $title = printf "ESKYNA %s | Style & Image Coaching" $core -}}
     {{- if gt (len $title) $max -}}
-      {{- $title = strings.TrimRight " -–—,;:|/" (substr $title 0 $max) -}}
+      {{- $title = strings.TrimRight " -,;:|/" (substr $title 0 $max) -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
@@ -85,7 +85,7 @@
 {{- if lt (len $title) $min -}}
   {{- $title = printf "ESKYNA Style & Image Coaching | %s" $title -}}
   {{- if gt (len $title) $max -}}
-    {{- $title = strings.TrimRight " -–—,;:|/" (substr $title 0 $max) -}}
+    {{- $title = strings.TrimRight " -,;:|/" (substr $title 0 $max) -}}
   {{- end -}}
 {{- end -}}
 

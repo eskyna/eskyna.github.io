@@ -122,7 +122,7 @@
   {{ else if and $pageTitleStartsWithBrand (ne $siteTitleSuffix $siteTitle) }}
     {{ $documentTitle = printf "%s | %s" $pageTitle $siteTitleSuffix }}
   {{ else }}
-    {{/* Prefer compact brand suffix so titles stay within 30–60 chars. */}}
+    {{/* Prefer compact brand suffix so titles stay within 30-60 chars. */}}
     {{ $documentTitle = printf "%s | ESKYNA" $pageTitle }}
   {{ end }}
   <title>{{ partial "seo-document-title.html" $documentTitle }}</title>
