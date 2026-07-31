@@ -2,7 +2,6 @@
 title: "Заказать вопрос о стиле"
 seoTitle: "Заказать вопрос о стиле | Процесс и запись | ESKYNA"
 description: "Забронируйте вопрос о стиле с Наталией: после отправки выберите ответ по фото или live-проверку и оплатите безопасно через Stripe."
-type: stilfrage-bestellen
 layout: single
 url: /rus/vopros-stilistu/zakaz/
 aliases:

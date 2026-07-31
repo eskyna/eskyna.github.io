@@ -2,7 +2,6 @@
 title: "Order your style question"
 seoTitle: "Order your style question | Process & booking | ESKYNA"
 description: "Book your style question with Natalia: after submitting, choose a photo reply or a live shopping check and pay securely via Stripe."
-type: stilfrage-bestellen
 layout: single
 url: /en/style-question/order/
 aliases:

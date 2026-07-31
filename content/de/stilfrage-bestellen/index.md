@@ -2,7 +2,6 @@
 title: "Stilfrage bestellen"
 seoTitle: "Stilfrage bestellen | Ablauf & Buchung | ESKYNA"
 description: "Buche deine Stilfrage verbindlich: nach dem Einreichen wählst du Stilantwort per Foto oder Live-Shopping-Check und zahlst sicher über Stripe."
-type: stilfrage-bestellen
 layout: single
 url: /stilfrage/bestellen/
 
