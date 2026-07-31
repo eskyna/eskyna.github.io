@@ -50,7 +50,7 @@ typical_questions:
     - Can I really wear this piece in multiple ways?
     - Does this fit my style, or is it another bad purchase?
 variants:
-  - title: Style answer by photo or message
+  - title: Style answer by photo / message
     price: from €49
     description: |
       You send Natalia your question, a photo, or two options. Natalia gives you a clear assessment with a short explanation.

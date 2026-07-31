@@ -34,8 +34,7 @@ options:
   intro: "Choose the format that fits your moment."
   items:
     - id: foto
-      label: A
-      title: Style answer by photo or message
+      title: Style answer by photo / message
       price: from €49
       text: "You have already sent your question, photo, or options. Natalia replies with a clear assessment and a short explanation."
       includes:
@@ -48,7 +47,6 @@ options:
         checkout_url: ""
         button_text: "Book photo reply"
     - id: live
-      label: B
       title: Live shopping check
       price: from €79
       text: "For the moment in store or before buying: Natalia looks with you live and helps you decide with confidence."
@@ -75,21 +73,25 @@ process:
     - title: Submit your style question
       status: done
       status_label: Completed
-      text: "You have sent Natalia your concrete question, photos, or options. The starting point is clear."
-      link:
-        href: /en/style-question/
-        label: Review or add to your question
+      text: "Your style question has reached Natalia by email. The starting point is clear."
     - title: Choose format and pay
       status: current
       status_label: Next
-      text: "Secure Natalia's assessment. Choose between a style answer by photo or message and the live shopping check."
+      text: "Secure Natalia's assessment. Choose between a style answer by photo / message and the live shopping check."
       show_options: true
     - title: Natalia takes on your request
-      text: "Depending on the format: Natalia works with your materials - or your live time slot is confirmed."
+      text: "After payment, you can add to your request with photos / details. Natalia works with your request, or your live time slot is confirmed."
+      links:
+        - href: "mailto:natalia@eskyna.com?subject=Addition%20to%20my%20style%20question"
+          label: Send an addition by email
+        - enabled: false
+          href: "https://t.me/Natalia_Klee"
+          label: Live on Telegram
+          pending_label: Live on Telegram is available after payment
     - title: Clear assessment
-      text: "You receive a concrete recommendation with reasoning: in writing or live in conversation."
+      text: "You receive a concrete recommendation with reasoning, in writing or live in conversation."
     - title: A confident decision
-      text: "You know what suits you - and can buy, keep, or leave it without doubt."
+      text: "Then you know what suits you and can decide calmly: buy it, keep it, or leave it."
 
 assurance:
   title: Why clients choose this path
@@ -98,7 +100,7 @@ assurance:
     - title: Personal
       text: "Natalia does not answer generically. She responds to your situation, your body, and your everyday life."
     - title: Binding
-      text: "You book a clear format with a price - not just a message into the void."
+      text: "You book a clear format with a price, not just a message into the void."
     - title: Calm and refined
       text: "No pressure, no trend noise. Clarity that helps you decide with more confidence."
 ---

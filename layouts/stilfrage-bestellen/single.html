@@ -77,16 +77,33 @@
               {{ end }}
               <h3>{{ $step.title }}</h3>
               {{ with $step.text }}<p>{{ . }}</p>{{ end }}
-              {{ if and $done $step.link }}
-                {{ $stepHref := $step.link.href }}
-                {{ $stepResolved := cond (or (hasPrefix $stepHref "http") (hasPrefix $stepHref "#")) $stepHref ($stepHref | relURL) }}
-                <a class="stilfrage-order-step-link" href="{{ $stepResolved }}" title="{{ $step.link.label }}">{{ $step.link.label }}</a>
+              {{ $stepLinks := $step.links | default (slice) }}
+              {{ if and $step.link (eq (len $stepLinks) 0) }}
+                {{ $stepLinks = slice $step.link }}
+              {{ end }}
+              {{ with $stepLinks }}
+                <div class="stilfrage-order-step-links">
+                  {{ range . }}
+                    {{ $linkHref := .href | default "" }}
+                    {{ $linkEnabled := ne (.enabled | default true) false }}
+                    {{ $linkLabel := .label }}
+                    {{ if and $linkEnabled $linkHref }}
+                      {{ $resolved := cond (or (hasPrefix $linkHref "http") (hasPrefix $linkHref "#") (hasPrefix $linkHref "mailto:")) $linkHref ($linkHref | relURL) }}
+                      {{ $isExternal := or (hasPrefix $linkHref "http") (hasPrefix $linkHref "mailto:") }}
+                      <a class="stilfrage-order-step-link" href="{{ $resolved }}" title="{{ $linkLabel }}"{{ if and $isExternal (hasPrefix $linkHref "http") }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $linkLabel }}</a>
+                    {{ else }}
+                      <span class="stilfrage-order-step-link is-pending" title="{{ or .pending_label $linkLabel }}">{{ or .pending_label $linkLabel }}</span>
+                    {{ end }}
+                  {{ end }}
+                </div>
               {{ end }}
               {{ if and $step.show_options $hasOptions }}
                 <div class="stilfrage-order-step-options">
                   {{ range $optionItems }}
                     <a class="stilfrage-order-step-option" href="#option-{{ .id }}">
-                      <span class="stilfrage-order-step-option-label">{{ .label }}</span>
+                      {{ with .label }}
+                        <span class="stilfrage-order-step-option-label">{{ . }}</span>
+                      {{ end }}
                       <span class="stilfrage-order-step-option-title">{{ .title }}</span>
                       <span class="stilfrage-order-step-option-price">{{ .price }}</span>
                     </a>

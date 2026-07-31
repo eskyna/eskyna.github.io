@@ -9523,13 +9523,25 @@ main .hero .hero-headline-line {
   max-width: 42rem;
 }
 
+.stilfrage-order-step-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1.25rem;
+  margin-top: 0.85rem;
+}
+
 .stilfrage-order-step-link {
   display: inline-block;
-  margin-top: 0.7rem;
   font-weight: 600;
   color: var(--accent-strong);
   text-decoration: underline;
   text-underline-offset: 0.18em;
+}
+
+.stilfrage-order-step-link.is-pending {
+  color: var(--muted);
+  text-decoration: none;
+  cursor: default;
 }
 
 .stilfrage-order-includes {
