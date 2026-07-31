@@ -29,7 +29,7 @@ relatedTerms:
   - title: Style Identity
     url: /en/glossar/stilidentitaet/
   - title: Style Profile
-    url: /en/glossar/stilprofil/
+    url: /en/glossar/style-profile/
   - title: Essence
     url: /en/glossar/essenz/
   - title: Signature Look
@@ -88,7 +88,7 @@ A **Style Type** is a broad direction or recognizable category of style. It give
 
 **[Essence](/en/glossar/essenz/)** refers to the overall qualities a person naturally conveys or wants to express through appearance. It can help explain why one version of a style direction feels more convincing than another.
 
-A useful [style profile](/en/glossar/stilprofil/) brings these perspectives together. It translates broad inspiration into choices that are wearable and recognizably yours.
+A useful [style profile](/en/glossar/style-profile/) brings these perspectives together. It translates broad inspiration into choices that are wearable and recognizably yours.
 
 ## Why knowing your Style Type matters
 

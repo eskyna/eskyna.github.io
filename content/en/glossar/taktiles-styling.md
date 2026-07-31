@@ -51,7 +51,7 @@ lastmod: "2026-07-30"
 
 **Tactile styling** is the deliberate use of fabrics, textures, and finishes that feel pleasant to wear and invite touch. It treats the sensory side of clothing as part of personal style, alongside color, silhouette, and fit.
 
-A tactile outfit may use the softness of [cashmere](/en/glossar/cashmere-kaschmir/), the fluid smoothness of [satin](/en/glossar/satin/), the relaxed texture of [linen](/en/glossar/leinen/), or the rich surface of [velvet](/en/glossar/samt/). The goal is not simply to make an outfit look attractive. It is to create a more comfortable, expressive, and memorable wearing experience.
+A tactile outfit may use the softness of [cashmere](/en/glossar/kaschmir/), the fluid smoothness of [satin](/en/glossar/satin/), the relaxed texture of [linen](/en/glossar/leinen/), or the rich surface of [velvet](/en/glossar/samt/). The goal is not simply to make an outfit look attractive. It is to create a more comfortable, expressive, and memorable wearing experience.
 
 ## How Tactile Styling Affects an Outfit
 

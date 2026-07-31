@@ -29,7 +29,7 @@ relatedTerms:
   - title: "Statement Piece"
     url: /en/glossar/statement-piece/
   - title: "Color Blocking"
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
 knowledge:
   - "Maximalism works best when several expressive elements are connected by a visible styling principle."
   - "Repeating a color, metal, pattern scale, silhouette, or era reference creates visual coherence."
@@ -63,7 +63,7 @@ A calm base can also be part of maximalism. For example, an all-black outfit can
 
 Maximalism can show up through:
 
-- **Color:** Strong combinations, repeated accent colors, or deliberate [color blocking](/en/glossar/colour-blocking/)
+- **Color:** Strong combinations, repeated accent colors, or deliberate [color blocking](/en/glossar/color-blocking/)
 - **Pattern:** Mixed prints such as checks, florals, stripes, or animal motifs
 - **Texture:** Contrast between surfaces like velvet, knitwear, leather, satin, lace, or metallic finishes
 - **Accessories:** Layered necklaces, stacked rings, brooches, statement shoes, or an expressive bag

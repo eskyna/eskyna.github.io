@@ -1,0 +1,193 @@
+{{ define "main" }}
+{{ $page := . }}
+{{ $order := .Params.order | default (dict) }}
+{{ $process := .Params.process | default (dict) }}
+{{ $options := .Params.options | default (dict) }}
+{{ $assurance := .Params.assurance | default (dict) }}
+{{ $stripe := .Params.stripe | default (dict) }}
+{{ $back := .Params.back | default (dict) }}
+{{ $backHref := or $back.href "/stilfrage/" }}
+{{ $backLabel := or $back.label "Zur Stilfrage" }}
+{{ $resolvedBack := cond (or (hasPrefix $backHref "http") (hasPrefix $backHref "#")) $backHref ($backHref | relURL) }}
+{{ $stripePending := or $stripe.pending_text "Die sichere Buchung über Stripe wird in Kürze freigeschaltet." }}
+{{ $stripeSecure := or $stripe.secure_note "Sichere Zahlung über Stripe." }}
+{{ $priceLabelFinal := i18n "price_label_final" }}
+{{ $priceLabelTooltip := i18n "price_label_tooltip" }}
+{{ $optionItems := $options.items | default (slice) }}
+{{ $hasOptions := gt (len $optionItems) 0 }}
+{{ $showHeroPriceLabel := and $order.price (not (in $order.price "Individuell")) (not (in $order.price "Индивидуально")) (not (in $order.price "on request")) }}
+
+<main class="page page-stilfrage-order">
+  <section class="stilfrage-order-hero">
+    <div class="stilfrage-order-hero-atmosphere" aria-hidden="true"></div>
+    <div class="container stilfrage-order-hero-shell">
+      <a class="back-link" href="{{ $resolvedBack }}" title="{{ $backLabel }}">{{ $backLabel }}</a>
+
+      <p class="stilfrage-order-kicker">{{ or $order.kicker "ESKYNA Stilfrage" }}</p>
+      <h1 class="stilfrage-order-headline">{{ or $order.headline .Title }}</h1>
+      {{ with $order.lead }}
+        <p class="stilfrage-order-lead">{{ . }}</p>
+      {{ end }}
+
+      <div class="stilfrage-order-hero-actions">
+        <a class="btn stilfrage-order-cta-primary" href="#bestellen" title="{{ or $order.checkout_title "Format wählen" }}">
+          <img src="{{ "/images/sign_black.png" | relURL }}" alt="" class="btn-icon" width="20" height="20" aria-hidden="true">
+          {{ or $order.checkout_title "Format wählen" }}
+        </a>
+        {{ with $order.secondary_cta }}
+          {{ partial "button-icon.html" (dict "href" .href "text" .text "title" .text "class" "btn btn-secondary" "noIcon" true) }}
+        {{ end }}
+      </div>
+
+      {{ with $order.price }}
+        <p class="stilfrage-order-price">
+          <strong>{{ . }}</strong>
+          {{ if $showHeroPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}
+          {{ with $order.price_note }}<span class="stilfrage-order-price-note">{{ . }}</span>{{ end }}
+        </p>
+      {{ end }}
+    </div>
+  </section>
+
+  {{ with $process }}
+  <section class="section stilfrage-order-process" aria-labelledby="stilfrage-order-process-heading">
+    <div class="container">
+      <header class="stilfrage-order-section-header">
+        <h2 id="stilfrage-order-process-heading">{{ .title }}</h2>
+        {{ with .intro }}<p class="stilfrage-order-section-intro">{{ . }}</p>{{ end }}
+      </header>
+
+      <ol class="stilfrage-order-timeline">
+        {{ range $index, $step := .steps }}
+          {{ $done := eq ($step.status | default "") "done" }}
+          {{ $current := eq ($step.status | default "") "current" }}
+          <li class="stilfrage-order-step{{ if $done }} is-done{{ end }}{{ if $current }} is-current{{ end }}">
+            <div class="stilfrage-order-step-marker" aria-hidden="true">
+              {{ if $done }}
+                <span class="stilfrage-order-step-check">✓</span>
+              {{ else }}
+                <span class="stilfrage-order-step-number">{{ add $index 1 }}</span>
+              {{ end }}
+            </div>
+            <div class="stilfrage-order-step-body">
+              {{ if $done }}
+                <p class="stilfrage-order-step-status">{{ or $step.status_label "Abgeschlossen" }}</p>
+              {{ else if $current }}
+                <p class="stilfrage-order-step-status">{{ or $step.status_label "Als Nächstes" }}</p>
+              {{ end }}
+              <h3>{{ $step.title }}</h3>
+              {{ with $step.text }}<p>{{ . }}</p>{{ end }}
+              {{ if and $done $step.link }}
+                {{ $stepHref := $step.link.href }}
+                {{ $stepResolved := cond (or (hasPrefix $stepHref "http") (hasPrefix $stepHref "#")) $stepHref ($stepHref | relURL) }}
+                <a class="stilfrage-order-step-link" href="{{ $stepResolved }}" title="{{ $step.link.label }}">{{ $step.link.label }}</a>
+              {{ end }}
+              {{ if and $step.show_options $hasOptions }}
+                <div class="stilfrage-order-step-options">
+                  {{ range $optionItems }}
+                    <a class="stilfrage-order-step-option" href="#option-{{ .id }}">
+                      <span class="stilfrage-order-step-option-label">{{ .label }}</span>
+                      <span class="stilfrage-order-step-option-title">{{ .title }}</span>
+                      <span class="stilfrage-order-step-option-price">{{ .price }}</span>
+                    </a>
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+          </li>
+        {{ end }}
+      </ol>
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if $hasOptions }}
+  <section class="section stilfrage-order-checkout" id="bestellen" aria-labelledby="stilfrage-order-checkout-heading">
+    <div class="container">
+      <header class="stilfrage-order-section-header">
+        <p class="stilfrage-order-kicker">{{ or $order.checkout_kicker "Buchung" }}</p>
+        <h2 id="stilfrage-order-checkout-heading">{{ or $options.title (or $order.checkout_title "Wähle dein Format") }}</h2>
+        {{ with or $options.intro $order.checkout_text }}
+          <p class="stilfrage-order-section-intro">{{ . }}</p>
+        {{ end }}
+      </header>
+
+      <div class="stilfrage-order-options-grid">
+        {{ range $optionItems }}
+          {{ $optStripe := .stripe | default (dict) }}
+          {{ $optEnabled := and $optStripe.enabled $optStripe.checkout_url }}
+          {{ $optHref := or $optStripe.checkout_url "#bestellen" }}
+          {{ $optButton := or $optStripe.button_text "Buchen" }}
+          {{ $showPriceLabel := and .price (not (in .price "Individuell")) (not (in .price "Индивидуально")) (not (in .price "on request")) }}
+          <article class="stilfrage-order-option" id="option-{{ .id }}">
+            <div class="stilfrage-order-option-top">
+              {{ with .label }}
+                <span class="stilfrage-order-option-label">{{ . }}</span>
+              {{ end }}
+              <h3>{{ .title }}</h3>
+              {{ with .price }}
+                <p class="stilfrage-order-option-price">
+                  <strong>{{ . }}</strong>
+                  {{ if $showPriceLabel }}<span class="price-tag" title="{{ $priceLabelTooltip }}">{{ $priceLabelFinal }}</span>{{ end }}
+                </p>
+              {{ end }}
+            </div>
+            {{ with .text }}
+              <p class="stilfrage-order-option-text">{{ . }}</p>
+            {{ end }}
+            {{ with .includes }}
+              <ul class="stilfrage-order-option-includes">
+                {{ range . }}
+                  <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+            {{ with .note }}
+              <p class="stilfrage-order-option-note">{{ . }}</p>
+            {{ end }}
+            <div class="stilfrage-order-option-action">
+              {{ if $optEnabled }}
+                {{ partial "button-icon.html" (dict "href" $optHref "text" $optButton "title" $optButton "targetBlank" true "class" "btn stilfrage-order-cta-primary") }}
+                <p class="stilfrage-order-secure-note">{{ $stripeSecure }}</p>
+              {{ else }}
+                <button class="btn stilfrage-order-cta-primary" type="button" disabled aria-disabled="true">
+                  <img src="{{ "/images/sign_black.png" | relURL }}" alt="" class="btn-icon" width="20" height="20" aria-hidden="true">
+                  {{ $optButton }}
+                </button>
+                <p class="stilfrage-order-secure-note">{{ $stripePending }}</p>
+              {{ end }}
+            </div>
+          </article>
+        {{ end }}
+      </div>
+
+      {{ with $order.fallback_cta }}
+        {{ $fallbackHref := cond (or (hasPrefix .href "http") (hasPrefix .href "#")) .href (.href | relURL) }}
+        <p class="stilfrage-order-fallback-wrap">
+          <a class="stilfrage-order-fallback-link" href="{{ $fallbackHref }}" title="{{ .text }}">{{ .text }}</a>
+        </p>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ with $assurance }}
+  <section class="section stilfrage-order-assurance" aria-labelledby="stilfrage-order-assurance-heading">
+    <div class="container">
+      <h2 id="stilfrage-order-assurance-heading">{{ .title }}</h2>
+      {{ with .text }}<p class="stilfrage-order-section-intro">{{ . }}</p>{{ end }}
+      {{ with .items }}
+        <ul class="stilfrage-order-assurance-list">
+          {{ range . }}
+            <li>
+              <strong>{{ .title }}</strong>
+              <span>{{ .text }}</span>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</main>
+{{ end }}

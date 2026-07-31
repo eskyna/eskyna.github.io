@@ -68,7 +68,7 @@ Its impact depends on context:
 - **With white or off-white:** fresh, sporty, and deliberately clean.
 - **With denim:** casual, current, and easier to wear every day.
 - **With silver or metallic surfaces:** futuristic and nightlife-oriented.
-- **With other vivid colors:** playful, expressive, and closer to [Color Blocking](/en/glossar/colour-blocking/).
+- **With other vivid colors:** playful, expressive, and closer to [Color Blocking](/en/glossar/color-blocking/).
 
 Because the color is so present, it helps to consider the overall [contrast](/en/glossar/kontrast/) of the outfit. Brat Green can overpower quieter colors, delicate prints, or several competing statement details.
 
@@ -133,4 +133,4 @@ Brat Green is most wearable when it is treated as a deliberate color signal, not
 
 ## Related Glossary Terms
 
-Explore [Chartreuse and Lime Green](/en/glossar/chartreuse-und-limettengruen/), [Pop of Red](/en/glossar/pop-of-red/), [Color Blocking](/en/glossar/colour-blocking/), and [Statement Piece](/en/glossar/statement-piece/) for more ways to use bold color with intention.
+Explore [Chartreuse and Lime Green](/en/glossar/chartreuse-und-limettengruen/), [Pop of Red](/en/glossar/pop-of-red/), [Color Blocking](/en/glossar/color-blocking/), and [Statement Piece](/en/glossar/statement-piece/) for more ways to use bold color with intention.

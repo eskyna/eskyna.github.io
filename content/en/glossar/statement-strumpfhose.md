@@ -25,7 +25,7 @@ relatedTerms:
   - title: Micro Skirt
     url: /en/glossar/micro-skirt/
   - title: Color Blocking
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
   - title: Focal Point
     url: /en/glossar/fokuspunkt/
 lastmod: "2026-07-24"
@@ -77,7 +77,7 @@ Let the tights lead by pairing them with familiar basics: a black dress, a strai
 
 ### Repeat one color or detail
 
-A small repetition makes the look feel intentional. Match the tights to a bag detail, lipstick, scarf, knit stripe, or shoe accent. This is especially effective with colored tights and [color blocking](/en/glossar/colour-blocking/).
+A small repetition makes the look feel intentional. Match the tights to a bag detail, lipstick, scarf, knit stripe, or shoe accent. This is especially effective with colored tights and [color blocking](/en/glossar/color-blocking/).
 
 ### Consider shoes as part of the statement
 
@@ -152,4 +152,4 @@ Neither is universally better. Sheer statement tights tend to look lighter and m
 
 ## Related Glossary Terms
 
-[Fishnet Tights](/en/glossar/netzstrumpfhose/), [Denier](/en/glossar/denier/), [Micro Skirt](/en/glossar/micro-skirt/), [Color Blocking](/en/glossar/colour-blocking/), [Focal Point](/en/glossar/fokuspunkt/)
+[Fishnet Tights](/en/glossar/netzstrumpfhose/), [Denier](/en/glossar/denier/), [Micro Skirt](/en/glossar/micro-skirt/), [Color Blocking](/en/glossar/color-blocking/), [Focal Point](/en/glossar/fokuspunkt/)

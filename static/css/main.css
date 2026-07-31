@@ -6166,6 +6166,13 @@ body :where(button) {
   width: fit-content;
 }
 
+.offer-hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: center;
+}
+
 .offer-hero-image {
   display: none;
 }
@@ -9320,6 +9327,477 @@ main .hero .hero-headline-line {
 
 @media (prefers-reduced-motion: reduce) {
   .mobile-sticky-nav {
+    transition: none;
+  }
+}
+
+/* Stilfrage order / booking page */
+.page-stilfrage-order {
+  margin: 0;
+  padding: 0;
+}
+
+.stilfrage-order-hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: clamp(2.5rem, 6vw, 4.5rem) 0 clamp(3rem, 7vw, 5rem);
+  background:
+    radial-gradient(ellipse 80% 70% at 12% 18%, rgb(197 160 89 / 28%), transparent 55%),
+    radial-gradient(ellipse 70% 60% at 88% 8%, rgb(139 94 52 / 14%), transparent 50%),
+    linear-gradient(165deg, rgb(255 252 247 / 96%), rgb(246 241 234 / 100%) 48%, rgb(237 228 216 / 92%));
+}
+
+.stilfrage-order-hero-atmosphere {
+  position: absolute;
+  inset: auto -10% -35% 35%;
+  height: 70%;
+  background: radial-gradient(circle at center, rgb(197 160 89 / 18%), transparent 68%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.stilfrage-order-hero-shell {
+  position: relative;
+  z-index: 1;
+  max-width: 42rem;
+}
+
+.stilfrage-order-kicker {
+  margin: 1.25rem 0 0.75rem;
+  font-family: var(--font-headline);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-headline {
+  margin: 0 0 1rem;
+  font-family: var(--font-headline);
+  font-size: clamp(2rem, 6.5vw, 3.15rem);
+  font-weight: 700;
+  line-height: 1.12;
+  color: var(--text);
+}
+
+.stilfrage-order-lead {
+  margin: 0 0 1.75rem;
+  max-width: 36rem;
+  font-size: clamp(1.05rem, 2.4vw, 1.2rem);
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+.stilfrage-order-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+.stilfrage-order-cta-primary {
+  background: var(--accent-strong);
+  border-color: var(--accent-strong);
+  color: #fff8ef;
+}
+
+.stilfrage-order-cta-primary:hover,
+.stilfrage-order-cta-primary:focus-visible {
+  background: #6f4525;
+  border-color: #6f4525;
+  color: #fff8ef;
+}
+
+.stilfrage-order-cta-primary:disabled,
+.stilfrage-order-cta-primary[aria-disabled="true"] {
+  opacity: 0.72;
+  cursor: not-allowed;
+}
+
+.stilfrage-order-price {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.7rem;
+  align-items: baseline;
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-price-note {
+  display: inline-block;
+  font-size: 0.92rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.stilfrage-order-section-header {
+  max-width: 40rem;
+  margin-bottom: 2rem;
+}
+
+.stilfrage-order-section-intro {
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+  line-height: 1.6;
+  max-width: 42rem;
+}
+
+.stilfrage-order-process {
+  background: rgb(255 252 247 / 70%);
+  border-top: 1px solid rgb(139 94 52 / 16%);
+  border-bottom: 1px solid rgb(139 94 52 / 16%);
+}
+
+.stilfrage-order-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0;
+}
+
+.stilfrage-order-step {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem 1.25rem;
+  padding: 1.35rem 0;
+  border-bottom: 1px solid rgb(44 30 22 / 8%);
+}
+
+.stilfrage-order-step:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.stilfrage-order-step-marker {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgb(197 160 89 / 45%);
+  background: rgb(255 255 255 / 80%);
+  color: var(--accent-strong);
+  font-family: var(--font-headline);
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}
+
+.stilfrage-order-step.is-done .stilfrage-order-step-marker {
+  background: linear-gradient(145deg, rgb(197 160 89 / 92%), rgb(139 94 52 / 88%));
+  border-color: transparent;
+  color: #fff8ef;
+}
+
+.stilfrage-order-step.is-current .stilfrage-order-step-marker {
+  box-shadow: 0 0 0 4px rgb(197 160 89 / 18%);
+  background: rgb(255 252 247);
+}
+
+.stilfrage-order-step-status {
+  margin: 0 0 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-step-body h3 {
+  margin: 0 0 0.45rem;
+  font-family: var(--font-headline);
+  font-size: clamp(1.15rem, 2.5vw, 1.35rem);
+  font-weight: 600;
+  color: var(--text);
+}
+
+.stilfrage-order-step-body p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+  max-width: 42rem;
+}
+
+.stilfrage-order-step-link {
+  display: inline-block;
+  margin-top: 0.7rem;
+  font-weight: 600;
+  color: var(--accent-strong);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.stilfrage-order-includes {
+  background: linear-gradient(180deg, rgb(246 241 234), rgb(255 252 247));
+}
+
+.stilfrage-order-includes-shell {
+  max-width: 44rem;
+}
+
+.stilfrage-order-includes-list {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+
+.stilfrage-order-includes-list li {
+  position: relative;
+  padding: 0.85rem 0 0.85rem 1.6rem;
+  border-bottom: 1px solid rgb(44 30 22 / 8%);
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.stilfrage-order-includes-list li:last-child {
+  border-bottom: 0;
+}
+
+.stilfrage-order-includes-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 1.25rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 999px;
+  background: var(--accent);
+}
+
+.stilfrage-order-assurance-list {
+  list-style: none;
+  margin: 1.75rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 1.25rem;
+}
+
+@media (width >= 800px) {
+  .stilfrage-order-assurance-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.75rem;
+  }
+}
+
+.stilfrage-order-assurance-list li {
+  padding: 0;
+}
+
+.stilfrage-order-assurance-list strong {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-family: var(--font-headline);
+  font-size: 1.05rem;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-assurance-list span {
+  display: block;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.stilfrage-order-step-options {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.15rem;
+}
+
+@media (width >= 720px) {
+  .stilfrage-order-step-options {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.stilfrage-order-step-option {
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid rgb(197 160 89 / 35%);
+  border-radius: 0.9rem;
+  background: rgb(255 252 247 / 90%);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.stilfrage-order-step-option:hover,
+.stilfrage-order-step-option:focus-visible {
+  border-color: rgb(139 94 52 / 55%);
+  background: rgb(255 255 255 / 95%);
+}
+
+.stilfrage-order-step-option-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-step-option-title {
+  font-family: var(--font-headline);
+  font-weight: 600;
+  color: var(--text);
+}
+
+.stilfrage-order-step-option-price {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-checkout {
+  padding-bottom: clamp(3rem, 8vw, 5rem);
+  background: linear-gradient(180deg, rgb(246 241 234), rgb(255 252 247));
+}
+
+.stilfrage-order-checkout .stilfrage-order-kicker {
+  margin-top: 0;
+}
+
+.stilfrage-order-options-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+
+@media (width >= 860px) {
+  .stilfrage-order-options-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+    align-items: stretch;
+  }
+}
+
+.stilfrage-order-option {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  padding: clamp(1.35rem, 3.5vw, 1.85rem);
+  border-radius: 1.15rem;
+  border: 1px solid rgb(197 160 89 / 40%);
+  background:
+    linear-gradient(145deg, rgb(255 255 255 / 92%), rgb(246 241 234 / 96%)),
+    linear-gradient(135deg, rgb(197 160 89 / 12%), transparent 55%);
+  box-shadow: 0 18px 40px rgb(44 30 22 / 7%);
+}
+
+.stilfrage-order-option-top {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.stilfrage-order-option-label {
+  width: fit-content;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgb(197 160 89 / 45%);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--accent-strong);
+  background: rgb(255 252 247);
+}
+
+.stilfrage-order-option h3 {
+  margin: 0;
+  font-family: var(--font-headline);
+  font-size: clamp(1.2rem, 2.8vw, 1.45rem);
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--text);
+}
+
+.stilfrage-order-option-price {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.65rem;
+  align-items: baseline;
+  font-size: 1.2rem;
+  color: var(--accent-strong);
+}
+
+.stilfrage-order-option-text {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.stilfrage-order-option-includes {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.stilfrage-order-option-includes li {
+  position: relative;
+  padding-left: 1.15rem;
+  color: var(--text);
+  line-height: 1.45;
+  font-size: 0.95rem;
+}
+
+.stilfrage-order-option-includes li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 999px;
+  background: var(--accent);
+}
+
+.stilfrage-order-option-note {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.stilfrage-order-option-action {
+  display: grid;
+  gap: 0.65rem;
+  justify-items: start;
+  margin-top: auto;
+  padding-top: 0.35rem;
+}
+
+.stilfrage-order-secure-note {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--muted);
+  max-width: 28rem;
+}
+
+.stilfrage-order-fallback-wrap {
+  margin: 1.5rem 0 0;
+  text-align: center;
+}
+
+.stilfrage-order-fallback-link {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--accent-strong);
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stilfrage-order-step.is-current .stilfrage-order-step-marker {
+    box-shadow: none;
+  }
+
+  .stilfrage-order-step-option {
     transition: none;
   }
 }

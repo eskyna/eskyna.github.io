@@ -32,7 +32,7 @@ relatedTerms:
   - title: Analogous Colors
     url: /en/glossar/analogfarben/
   - title: Color Blocking
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
 knowledge:
   - A color triad uses three hues that are evenly spaced on the color wheel.
   - The effect depends on the balance of color areas, brightness, saturation, and the chosen neutral shades.
@@ -101,7 +101,7 @@ Understanding triadic color schemes also supports better wardrobe planning. Inst
 
 ### Color Triad vs. Color Blocking
 
-[Color blocking](/en/glossar/colour-blocking/) describes the styling technique of placing clear blocks of color together. A triadic scheme can be used for color blocking, but it can also appear in prints, accessories, makeup, or small details. The terms are related but not interchangeable.
+[Color blocking](/en/glossar/color-blocking/) describes the styling technique of placing clear blocks of color together. A triadic scheme can be used for color blocking, but it can also appear in prints, accessories, makeup, or small details. The terms are related but not interchangeable.
 
 ## How to Make a Triadic Outfit Look Balanced
 
@@ -112,7 +112,7 @@ A successful triadic outfit depends less on strict rules than on balance. Consid
 - **Adjust intensity.** Combine one stronger shade with two softer or darker versions if full brightness feels overwhelming.
 - **Use neutrals strategically.** Neutral pieces can separate vivid colors and make the overall look calmer.
 - **Consider your natural contrast.** A high-contrast triad may feel especially coherent on people who naturally suit clear, vivid colors, while softer versions can be easier for those drawn to muted palettes.
-- **Repeat one color.** Repeating a shade in a small accessory can give the look a more deliberate finish. The [Sandwich Method](/en/glossar/sandwich-methode/) is one useful way to create this connection.
+- **Repeat one color.** Repeating a shade in a small accessory can give the look a more deliberate finish. The [Sandwich Method](/en/glossar/sandwich-regel/) is one useful way to create this connection.
 
 ## Common Misunderstandings
 

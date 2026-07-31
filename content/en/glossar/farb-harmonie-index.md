@@ -94,7 +94,7 @@ A [color palette](/en/glossar/farbpalette/) can be especially useful when buildi
 
 Accent colors work best when they appear in a smaller area. A red belt, cobalt earring, gold shoe detail, or patterned scarf can bring focus to an otherwise restrained outfit.
 
-If the accent is repeated once, such as matching a bag to a shoe detail or a scarf to lipstick, it can create an even more connected result. This principle is related to the [Sandwich Method](/en/glossar/sandwich-methode/).
+If the accent is repeated once, such as matching a bag to a shoe detail or a scarf to lipstick, it can create an even more connected result. This principle is related to the [Sandwich Method](/en/glossar/sandwich-regel/).
 
 ### 4. Check temperature, saturation, and contrast
 

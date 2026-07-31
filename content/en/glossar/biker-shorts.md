@@ -120,7 +120,7 @@ An oversized top can balance the close fit of the shorts, but it should still ha
 - Biker shorts, fitted long-sleeve top, trenchcoat, and ankle boots
 - Tonal biker shorts and top with a structured bag and simple jewelry
 
-For a more intentional result, use the [Sandwich Method](/en/glossar/sandwich-methode/) by repeating a color in the top and shoes. For example, pair black biker shorts with a black top and black shoes, then use a lighter jacket or shirt as the central contrast.
+For a more intentional result, use the [Sandwich Method](/en/glossar/sandwich-regel/) by repeating a color in the top and shoes. For example, pair black biker shorts with a black top and black shoes, then use a lighter jacket or shirt as the central contrast.
 
 ## ESKYNA Key Takeaway
 

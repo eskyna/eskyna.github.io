@@ -10,6 +10,9 @@ url: /en/glossary/pattentasche/
 aliases:
   - /en/glossar/pattentasche/
   - /glossary/pattentasche/
+  - /en/glossar/pattentasche/
+  - /glossary/pattentasche/
+  - /en/glossary/pattentasche/
 tags:
   - flap pocket
   - pocket details

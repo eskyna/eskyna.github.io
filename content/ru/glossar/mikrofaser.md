@@ -10,6 +10,9 @@ url: /rus/glossariy/mikrofaser/
 aliases:
   - /rus/glossar/mikrofaser/
   - /ru/glossar/mikrofaser/
+  - /rus/glossar/mikrofaser/
+  - /ru/glossar/mikrofaser/
+  - /rus/glossariy/mikrofaser/
 tags:
   - микрофибра
   - синтетические материалы

@@ -155,7 +155,7 @@ If an item repeatedly fails these checks, it may be wardrobe-obsolete for you, e
 
 As your life changes, your wardrobe should be allowed to change with it. This does not require constant shopping or strict rules. It requires attention to what you reach for, what remains unworn, and what helps you feel like yourself.
 
-Use the findings to refine your [style profile](/en/glossar/stilprofil/), create more reliable [outfit formulas](/en/glossar/outfit-formel/), and set clearer [buying criteria](/en/glossar/kaufkriterien/). Over time, this can reduce impulse purchases and make your wardrobe more coherent.
+Use the findings to refine your [style profile](/en/glossar/style-profile/), create more reliable [outfit formulas](/en/glossar/outfit-formel/), and set clearer [buying criteria](/en/glossar/kaufkriterien/). Over time, this can reduce impulse purchases and make your wardrobe more coherent.
 
 ## ESKYNA Key Line
 

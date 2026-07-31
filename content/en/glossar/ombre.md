@@ -20,7 +20,7 @@ relatedTerms:
   - title: "Tie-Dye"
     url: /en/glossar/tie-dye/
   - title: "Color Blocking"
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
   - title: "Tonal Pattern"
     url: /en/glossar/ton-in-ton-muster/
 knowledge:
@@ -69,7 +69,7 @@ Ombré is often confused with other color techniques, but the visual result is d
 
 - **Ombré:** A controlled, soft transition between shades or colors.
 - **[Tie-Dye](/en/glossar/tie-dye/):** A dyeing technique that usually creates irregular, organic patterns through bound, folded, or twisted fabric.
-- **[Color Blocking](/en/glossar/colour-blocking/):** Clearly separated areas of contrasting color rather than a flowing gradient.
+- **[Color Blocking](/en/glossar/color-blocking/):** Clearly separated areas of contrasting color rather than a flowing gradient.
 - **[Tonal Pattern](/en/glossar/ton-in-ton-muster/):** A pattern made from similar shades, which may use several tones without creating a gradual fade.
 
 A garment can combine these ideas, but an ombré effect is defined by its continuous color movement.

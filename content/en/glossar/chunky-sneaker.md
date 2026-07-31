@@ -76,7 +76,7 @@ For a longer leg line, choose trousers that fall close to the top of the shoe wi
 
 Chunky sneakers can make dresses and skirts feel more relaxed, practical, or contemporary. A simple midi dress gains contrast from a substantial sneaker, while a short skirt can create a strong graphic break between leg and shoe.
 
-To make the combination feel cohesive, repeat the sneaker’s color elsewhere in the outfit, such as in a bag, jacket detail, or top. The [Sandwich Method](/en/glossar/sandwich-methode/) can be useful for connecting the top and bottom of the look.
+To make the combination feel cohesive, repeat the sneaker’s color elsewhere in the outfit, such as in a bag, jacket detail, or top. The [Sandwich Method](/en/glossar/sandwich-regel/) can be useful for connecting the top and bottom of the look.
 
 ### With tailoring
 

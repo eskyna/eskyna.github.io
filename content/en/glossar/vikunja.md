@@ -22,7 +22,7 @@ aliases:
   - "/glossary/vikunja/"
 relatedTerms:
   - title: "Cashmere"
-    url: "/en/glossar/cashmere-kaschmir/"
+    url: "/en/glossar/kaschmir/"
   - title: "Alpaca"
     url: "/en/glossar/alpaka/"
   - title: "Wool"
@@ -54,7 +54,7 @@ Often described as one of the rarest and most expensive wools in the world, vicu
 
 Vicuña wool feels exceptionally soft, light, and delicate. It offers warmth without the dense, heavy feel associated with some coarser wools. The surface usually appears subtly matte rather than shiny, giving garments a quiet, understated sense of luxury.
 
-Compared with [cashmere](/en/glossar/cashmere-kaschmir/), vicuña is generally more exclusive and harder to find. Both fibers can feel very soft and insulating, but vicuña is associated with especially limited production and a distinctive fine texture. Compared with [alpaca](/en/glossar/alpaka/), it is usually finer and less visibly textured.
+Compared with [cashmere](/en/glossar/kaschmir/), vicuña is generally more exclusive and harder to find. Both fibers can feel very soft and insulating, but vicuña is associated with especially limited production and a distinctive fine texture. Compared with [alpaca](/en/glossar/alpaka/), it is usually finer and less visibly textured.
 
 ## Why Vicuña Wool Matters in Fashion
 

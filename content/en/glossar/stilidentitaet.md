@@ -27,7 +27,7 @@ relatedTerms:
   - title: Personal Style
     url: /en/glossar/personal-style/
   - title: Style Profile
-    url: /en/glossar/stilprofil/
+    url: /en/glossar/style-profile/
   - title: Signature Look
     url: /en/glossar/signature-look/
   - title: Style Clarity

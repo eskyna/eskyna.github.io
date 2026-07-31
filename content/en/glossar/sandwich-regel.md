@@ -20,11 +20,14 @@ url: /en/glossary/sandwich-regel/
 aliases:
   - /en/glossar/sandwich-regel/
   - /glossary/sandwich-regel/
+  - /en/glossary/sandwich-regel/
+  - /en/glossar/sandwich-regel/
+  - /glossary/sandwich-regel/
 image: images/glossar/sandwich-regel.png
 image_alt: A coordinated outfit with a dark top and matching dark shoes framing lighter trousers
 relatedTerms:
   - title: Sandwich Method
-    url: /en/glossar/sandwich-methode/
+    url: /en/glossar/sandwich-regel/
   - title: Balance
     url: /en/glossar/balance/
   - title: Color Harmony

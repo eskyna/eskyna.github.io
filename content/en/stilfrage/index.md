@@ -22,6 +22,9 @@ offer:
     With Ask Natalia a style question, you get a personal assessment of your exact situation. Clear, honest, and practical.
   price: from €49
   cta: Ask your style question
+  secondary_cta:
+    href: /en/style-question/order/
+    text: Process & booking
   image: images/portraits/natalia-coach-portrait.png
 problem:
   title: When you need a quick honest assessment
@@ -87,9 +90,9 @@ result:
     - You can decide more consciously and avoid buying out of uncertainty
   summary: You make better style decisions right where they arise.
 cta_section:
-  title: Do you have a concrete style question?
-  text: Send Natalia your question or book a live shopping check.
-  button: Ask your style question
+  title: "Do you have a concrete style question?"
+  text: "First submit your question. Then choose your format: style answer by photo or live shopping check."
+  button: "Submit your style question"
 url: /en/style-question/
 aliases:
   - /style-question/

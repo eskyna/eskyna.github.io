@@ -28,7 +28,7 @@ relatedTerms:
   - title: Accent Color
     url: /en/glossar/akzentfarbe/
   - title: Color Blocking
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
   - title: Complementary Contrast
     url: /en/glossar/komplementaerkontrast/
   - title: Balance
@@ -72,7 +72,7 @@ Quantity Contrast can help you:
 - avoid an outfit that feels unintentionally busy or flat
 - build more coherent color combinations from pieces you already own
 
-It is particularly useful for [Accent Color](/en/glossar/akzentfarbe/) styling, [Color Blocking](/en/glossar/colour-blocking/), and outfits with high [Contrast](/en/glossar/kontrast/).
+It is particularly useful for [Accent Color](/en/glossar/akzentfarbe/) styling, [Color Blocking](/en/glossar/color-blocking/), and outfits with high [Contrast](/en/glossar/kontrast/).
 
 ## How Quantity Contrast Works
 
@@ -109,7 +109,7 @@ A cream sweater, beige trousers, and red ballet flats use Quantity Contrast in a
 
 ### One color repeated in small areas
 
-A navy dress with navy shoes and a small navy bag creates a composed frame. This approach relates to the [Sandwich Method](/en/glossar/sandwich-methode/), where a color is repeated at the top and bottom of an outfit.
+A navy dress with navy shoes and a small navy bag creates a composed frame. This approach relates to the [Sandwich Method](/en/glossar/sandwich-regel/), where a color is repeated at the top and bottom of an outfit.
 
 ### Strong color as the dominant area
 
@@ -139,7 +139,7 @@ For example, a long camel coat over black trousers may create a balanced body pr
   No. An accent can also work through a different temperature, texture, sheen, or [Light-Dark Contrast](/en/glossar/hell-dunkel-kontrast/).
 
 - **Quantity Contrast is the same as Color Blocking.**  
-  [Color Blocking](/en/glossar/colour-blocking/) describes the use of distinct blocks of color. Quantity Contrast describes how large or small those blocks are in relation to each other.
+  [Color Blocking](/en/glossar/color-blocking/) describes the use of distinct blocks of color. Quantity Contrast describes how large or small those blocks are in relation to each other.
 
 ## Practical Check for Your Outfit
 

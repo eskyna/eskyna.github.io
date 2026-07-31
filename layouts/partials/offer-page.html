@@ -49,6 +49,9 @@
 
           <div class="offer-hero-cta">
             {{ partial "button-icon.html" (dict "href" "#offer-kontakt" "text" $offer.cta "title" $offer.cta) }}
+            {{ with $offer.secondary_cta }}
+              {{ partial "button-icon.html" (dict "href" .href "text" .text "title" .text "class" "btn btn-secondary" "noIcon" true) }}
+            {{ end }}
           </div>
         </div>
 

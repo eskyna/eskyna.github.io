@@ -34,7 +34,7 @@ relatedTerms:
   - title: Personal Uniform
     url: /en/glossar/personal-uniform/
   - title: Style Profile
-    url: /en/glossar/stilprofil/
+    url: /en/glossar/style-profile/
   - title: Style Consultation
     url: /en/glossar/stilberatung/
 featured_glossar: true
@@ -114,7 +114,7 @@ Personal Style is created through a combination of visible and practical factors
 - **Lifestyle:** work, travel, care responsibilities, climate, social settings, and movement needs
 - **Desired impression:** whether you want to appear clear, relaxed, elegant, creative, warm, authoritative, sensual, or understated
 
-A useful [Style Profile](/en/glossar/stilprofil/) brings these factors together. It turns vague preferences into decisions you can use while shopping, packing, or planning an outfit.
+A useful [Style Profile](/en/glossar/style-profile/) brings these factors together. It turns vague preferences into decisions you can use while shopping, packing, or planning an outfit.
 
 ## Why Personal Style matters
 
@@ -223,7 +223,7 @@ To apply Personal Style to your own wardrobe, explore the [ESKYNA offers](/offer
 - [Style Identity](/en/glossar/stilidentitaet/)
 - [Signature Look](/en/glossar/signature-look/)
 - [Personal Uniform](/en/glossar/personal-uniform/)
-- [Style Profile](/en/glossar/stilprofil/)
+- [Style Profile](/en/glossar/style-profile/)
 - [Style Consultation](/en/glossar/stilberatung/)
 
 Find more matching terms in [Style & Impact](/en/glossar/stil-wirkung/).

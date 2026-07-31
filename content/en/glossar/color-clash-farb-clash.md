@@ -25,7 +25,7 @@ aliases:
   - /glossary/color-clash-farb-clash/
 relatedTerms:
   - title: Color Blocking
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
   - title: Complementary Colors
     url: /en/glossar/komplementaerfarben/
   - title: Color Harmony
@@ -95,7 +95,7 @@ Texture still matters. Matte cotton, denim, knitwear, satin, and leather reflect
 
 ## Color Clash versus Color Blocking
 
-[Color Blocking](/en/glossar/colour-blocking/) usually describes the use of large, defined areas of color in one look. It can be harmonious, tonal, or highly contrasting.
+[Color Blocking](/en/glossar/color-blocking/) usually describes the use of large, defined areas of color in one look. It can be harmonious, tonal, or highly contrasting.
 
 Color Clash is about the relationship between the colors themselves. The pairing feels unexpected, provocative, or visually charged. A color-blocked outfit may use a Color Clash, but it does not have to.
 

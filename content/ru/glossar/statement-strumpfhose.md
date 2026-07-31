@@ -114,4 +114,4 @@ Statement tights работают лучше всего, когда колгот
 
 ## Связанные термины глоссария
 
-[Колготки в сетку](/ru/glossar/netzstrumpfhose/), [Акцентная вещь](/ru/glossar/statement-piece/), [Узор](/ru/glossar/muster/), [Pop of Red](/ru/glossar/pop-of-red/), [Колор-блокинг](/ru/glossar/colour-blocking/).
+[Колготки в сетку](/ru/glossar/netzstrumpfhose/), [Акцентная вещь](/ru/glossar/statement-piece/), [Узор](/ru/glossar/muster/), [Pop of Red](/ru/glossar/pop-of-red/), [Колор-блокинг](/ru/glossar/color-blocking/).

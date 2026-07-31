@@ -10,6 +10,9 @@ url: /en/glossary/mikrofaser/
 aliases:
   - /en/glossar/mikrofaser/
   - /glossary/mikrofaser/
+  - /en/glossar/mikrofaser/
+  - /glossary/mikrofaser/
+  - /en/glossary/mikrofaser/
 tags:
   - microfiber
   - synthetic fabric

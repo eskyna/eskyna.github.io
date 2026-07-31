@@ -35,8 +35,10 @@ slug: stilevoy-profil
 url: /ru/glossar/stilprofil/
 aliases:
   - /rus/glossar/stilprofil/
-  - /ru/glossar/stilprofil/
   - /rus/glossariy/stilevoy-profil/
+  - /rus/glossar/stilprofil/
+  - /ru/glossar/stilprofil/
+  - /rus/glossariy/stilprofil/
 lastmod: "2026-07-09"
 knowledge:
   - Стилевой профиль не является готовой категорией или набором запретов. Это система ориентиров для более последовательных решений в одежде.

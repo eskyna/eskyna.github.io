@@ -73,7 +73,7 @@ Several styling elements influence Eye Direction at once:
 - **Details:** Jewelry, belts, pockets, bows, buttons, and distinctive shoes often become visual stopping points.
 - **Pattern and texture:** A patterned, shiny, or highly textured garment usually appears more prominent than a smooth, matte surrounding piece.
 - **Fit and silhouette:** The placement of volume and the relationship between fitted and loose pieces affect how the gaze moves through the look. This is closely connected to [proportion](/en/glossar/proportion/) and [silhouette](/en/glossar/silhouette/).
-- **Repetition:** Repeating a color or material in two areas can create a visual connection. The [Sandwich Method](/en/glossar/sandwich-methode/) is one example.
+- **Repetition:** Repeating a color or material in two areas can create a visual connection. The [Sandwich Method](/en/glossar/sandwich-regel/) is one example.
 
 ## Why Eye Direction matters
 

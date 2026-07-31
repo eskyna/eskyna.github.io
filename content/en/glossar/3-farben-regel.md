@@ -99,7 +99,7 @@ For a softer result, choose related shades such as cream, camel, and rust. For m
 
 Repeating an accent once can make the outfit feel connected. For instance, burgundy shoes and a burgundy belt can link a navy dress and cream coat without introducing a fourth main color.
 
-This is similar to the [Sandwich Method](/en/glossar/sandwich-methode/), which repeats a color or visual element at the top and bottom of an outfit.
+This is similar to the [Sandwich Method](/en/glossar/sandwich-regel/), which repeats a color or visual element at the top and bottom of an outfit.
 
 ### Treat prints as a starting point
 

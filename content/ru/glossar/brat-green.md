@@ -146,4 +146,4 @@ Brat Green работает лучше всего как точный цвето
 
 ## Связанные термины глоссария
 
-[Шартрез и лаймовый зеленый](/ru/glossar/chartreuse-und-limettengruen/), [акцентный цвет](/ru/glossar/akzentfarbe/), [Pop of Red](/ru/glossar/pop-of-red/), [дофаминовая повязка](/ru/glossar/dopamine-dressing/), [колор-блокинг](/ru/glossar/colour-blocking/) и [акцентная вещь](/ru/glossar/statement-piece/).
+[Шартрез и лаймовый зеленый](/ru/glossar/chartreuse-und-limettengruen/), [акцентный цвет](/ru/glossar/akzentfarbe/), [Pop of Red](/ru/glossar/pop-of-red/), [дофаминовая повязка](/ru/glossar/dopamine-dressing/), [колор-блокинг](/ru/glossar/color-blocking/) и [акцентная вещь](/ru/glossar/statement-piece/).

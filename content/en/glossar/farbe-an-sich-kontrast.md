@@ -32,7 +32,7 @@ relatedTerms:
   - title: "Saturation"
     url: /en/glossar/saettigung/
   - title: "Color Blocking"
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
 history:
   - "Hue contrast is a long established principle of color theory and is commonly discussed in systems that distinguish different kinds of color contrast."
 knowledge:
@@ -118,7 +118,7 @@ For a more balanced result:
 - Keep the silhouettes simple when the color contrast is strong.
 - Combine colors with a similar saturation level for a more harmonious effect.
 - Use neutral colors such as navy, cream, gray, brown, or black to create space around vivid hues.
-- Consider the occasion. A small color accent may be more appropriate than full [color blocking](/en/glossar/colour-blocking/) in a formal workplace.
+- Consider the occasion. A small color accent may be more appropriate than full [color blocking](/en/glossar/color-blocking/) in a formal workplace.
 
 ## Everyday Examples
 

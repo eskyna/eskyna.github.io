@@ -20,6 +20,9 @@ url: /en/glossary/color-blocking/
 aliases:
   - /en/glossar/color-blocking/
   - /glossary/color-blocking/
+  - /en/glossar/color-blocking/
+  - /glossary/color-blocking/
+  - /en/glossary/color-blocking/
 image: images/glossar/color-blocking.png
 image_alt: Woman wearing a bright blue top with wide leg orange trousers
 relatedTerms:
@@ -105,7 +108,7 @@ If you choose volume, such as wide leg trousers or an oversized blazer, make sur
 
 ### Repeat one detail for cohesion
 
-Repeating a color in a small detail can connect the outfit. For instance, match the color of your shoes to your top, or echo the shade of your trousers in earrings or a scarf. This is related to the [Sandwich Method](/en/glossar/sandwich-methode/), which visually connects the top and bottom of an outfit.
+Repeating a color in a small detail can connect the outfit. For instance, match the color of your shoes to your top, or echo the shade of your trousers in earrings or a scarf. This is related to the [Sandwich Method](/en/glossar/sandwich-regel/), which visually connects the top and bottom of an outfit.
 
 ## Color Blocking and Personal Color Direction
 

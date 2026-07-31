@@ -1,6 +1,6 @@
 ---
 title: "Образ для свидания: как собрать Date Night Look"
-term: "Образ для свидания"
+term: "Date-Night-Look"
 slug: date-night-look
 url: /rus/glossariy/date-night-look/
 aliases:

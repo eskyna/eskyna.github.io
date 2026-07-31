@@ -20,13 +20,18 @@ url: /rus/glossariy/color-blocking/
 aliases:
   - /rus/glossar/color-blocking/
   - /ru/glossar/color-blocking/
+  - /rus/glossar/color-blocking/
+  - /rus/glossariy/kolor-bloking/
+  - /rus/glossariy/blokirovka-tsveta/
+  - /ru/glossar/color-blocking/
+  - /rus/glossariy/color-blocking/
 image: images/glossar/color-blocking.png
 image_alt: Образ с крупными контрастными цветовыми блоками
 relatedTerms:
   - title: Color Clash
     url: /ru/glossar/color-clash-farb-clash/
   - title: Колор-блокинг
-    url: /ru/glossar/colour-blocking/
+    url: /ru/glossar/color-blocking/
   - title: Комплементарные цвета
     url: /ru/glossar/komplementaerfarben/
   - title: Цветовой круг

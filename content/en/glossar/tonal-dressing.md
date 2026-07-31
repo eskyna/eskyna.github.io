@@ -126,7 +126,7 @@ A black top, black trousers, and black shoes create a monochrome look. A cream b
 
 ### Tonal dressing and color blocking
 
-[Color blocking](/en/glossar/colour-blocking/) uses larger areas of distinct colors, often with clear contrast between them. Tonal dressing does the opposite by creating harmony through related shades.
+[Color blocking](/en/glossar/color-blocking/) uses larger areas of distinct colors, often with clear contrast between them. Tonal dressing does the opposite by creating harmony through related shades.
 
 ## Common Misunderstandings
 

@@ -25,7 +25,7 @@ relatedTerms:
   - title: Focal Point
     url: /en/glossar/fokuspunkt/
   - title: Color Blocking
-    url: /en/glossar/colour-blocking/
+    url: /en/glossar/color-blocking/
 knowledge:
   - A pop of red works through contrast, so it is especially visible against neutral, muted, or monochrome outfits.
   - The accent can come from clothing, shoes, a bag, jewelry, lipstick, or a small detail such as a scarf.
@@ -79,7 +79,7 @@ Blue denim and red create a familiar, clear color relationship. A red sweater, b
 
 ### With red repeated once
 
-One red element is enough. If you want a more connected result, repeat the color quietly, for example with red shoes and a small touch of red in a scarf or lip color. This works similarly to the [Sandwich Method](/en/glossar/sandwich-methode/), where color is repeated to visually frame an outfit.
+One red element is enough. If you want a more connected result, repeat the color quietly, for example with red shoes and a small touch of red in a scarf or lip color. This works similarly to the [Sandwich Method](/en/glossar/sandwich-regel/), where color is repeated to visually frame an outfit.
 
 Keep the repetition subtle. Several equally strong red pieces can shift the look from accent styling to a more dominant red outfit.
 
@@ -143,4 +143,4 @@ Use a clear shape, good material quality, and an outfit with enough visual calm 
 
 ## Related Glossary Terms
 
-[Red](/en/glossar/rot/), [Accent Color](/en/glossar/akzentfarbe/), [Focal Point](/en/glossar/fokuspunkt/), [Color Blocking](/en/glossar/colour-blocking/), [Statement Tights](/en/glossar/statement-strumpfhose/)
+[Red](/en/glossar/rot/), [Accent Color](/en/glossar/akzentfarbe/), [Focal Point](/en/glossar/fokuspunkt/), [Color Blocking](/en/glossar/color-blocking/), [Statement Tights](/en/glossar/statement-strumpfhose/)

@@ -33,7 +33,7 @@ relatedTerms:
   - title: Outfit Analysis
     url: /en/glossar/outfit-analyse/
   - title: Style Profile
-    url: /en/glossar/stilprofil/
+    url: /en/glossar/style-profile/
   - title: Style Clarity
     url: /en/glossar/stil-klarheit/
 featured_glossar: true
@@ -181,7 +181,7 @@ Replacing the top with one that creates a more continuous line, then choosing a 
 
 Professional support becomes useful when you have plenty of inspiration but struggle to turn it into dependable decisions. It can also help when your lifestyle, role, body, color preferences, or desired visibility have changed and your old wardrobe no longer feels aligned.
 
-A consultation can connect observations to a personal [Style Profile](/en/glossar/stilprofil/) and give you a clear route from insight to outfits, wardrobe choices, and future purchases.
+A consultation can connect observations to a personal [Style Profile](/en/glossar/style-profile/) and give you a clear route from insight to outfits, wardrobe choices, and future purchases.
 
 ## ESKYNA perspective
 
@@ -198,7 +198,7 @@ A good Style Analysis gives words to what you often only feel in the mirror, the
 - [Personal Style](/en/glossar/personal-style/)
 - [Style Consultation](/en/glossar/stilberatung/)
 - [Outfit Analysis](/en/glossar/outfit-analyse/)
-- [Style Profile](/en/glossar/stilprofil/)
+- [Style Profile](/en/glossar/style-profile/)
 - [Style Clarity](/en/glossar/stil-klarheit/)
 
 Find more matching terms in [Style & Impact](/en/glossar/stil-wirkung/).

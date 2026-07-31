@@ -33,7 +33,7 @@ relatedTerms:
   - title: Цвет
     url: /ru/glossar/farbe/
   - title: Колор-блокинг
-    url: /ru/glossar/colour-blocking/
+    url: /ru/glossar/color-blocking/
 seoTitle: "Тай-дай: значение, техника и стилизация | Глоссарий ESKYNA"
 slug: tay-day
 url: /rus/glossariy/tay-day/

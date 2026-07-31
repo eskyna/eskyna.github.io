@@ -30,7 +30,7 @@ relatedTerms:
   - title: Style Clarity
     url: /en/glossar/stil-klarheit/
   - title: Style Profile
-    url: /en/glossar/stilprofil/
+    url: /en/glossar/style-profile/
   - title: Signature Look
     url: /en/glossar/signature-look/
   - title: Impact
