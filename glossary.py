@@ -56,6 +56,12 @@ Interne Verlinkung und Glossarlogik:
 - Ergänze bzw. verbessere relatedTerms im Frontmatter mit passenden, ähnlichen Einträgen.
 - Verwende nur Einträge aus der bereitgestellten Liste. Keine toten Links.
 
+Kategorien:
+- Nutze die bereitgestellte Liste der Glossarkategorien.
+- Setze category im Frontmatter auf genau einen Eintrag aus dieser Liste.
+- subcategory nur setzen, wenn sie inhaltlich sinnvoll ist und ebenfalls zur Liste passt (sonst weglassen).
+- Keine neuen Kategorienamen erfinden.
+
 Frontmatter-Regeln:
 - Bestehende Felder erhalten.
 - Bilder, Tabellen, Codeblöcke und bestehende externe Links nicht beschädigen.
@@ -87,6 +93,12 @@ Internal linking and glossary logic:
 - Add useful internal links to related glossary terms in body text.
 - Improve relatedTerms in frontmatter with strong, genuinely similar entries.
 - Use only entries from the provided list.
+
+Categories:
+- Use the provided glossary category list.
+- Set frontmatter category to exactly one entry from that list.
+- Add subcategory only when it is genuinely useful and also taken from the list; otherwise omit it.
+- Do not invent new category names.
 
 Frontmatter rules:
 - Preserve existing fields.
@@ -120,6 +132,12 @@ SEO и структура:
 - Улучшайте relatedTerms в frontmatter, предлагая действительно похожие и полезные записи.
 - Используйте только записи из предоставленного списка.
 
+Категории:
+- Используйте предоставленный список категорий глоссария.
+- В frontmatter поле category должно точно совпадать с одним пунктом из этого списка.
+- subcategory добавляйте только если это действительно полезно и значение тоже из списка; иначе не указывайте.
+- Не придумывайте новые названия категорий.
+
 Правила для frontmatter:
 - Сохраните существующие поля.
 - Не ломайте изображения, таблицы и блоки кода.
@@ -134,6 +152,7 @@ SEO и структура:
 
 GLOSSARY_CONTEXT_CACHE = {}
 GLOSSAR_TEMPLATE_CACHE = {}
+GLOSSARY_CATEGORY_CACHE = {}
 
 # Canonical public URLs / aliases for newly created glossary pages.
 GLOSSARY_URLS = {
@@ -171,6 +190,7 @@ Pflicht:
 - Schreibe auf Deutsch in der Du-Form.
 - Nutze keine Gedankenstriche (en/em dash).
 - Setze sinnvolle interne Links und relatedTerms nur aus der bereitgestellten Glossarliste.
+- Setze category (und optional subcategory) ausschließlich aus der bereitgestellten Kategorieliste.
 - Der Markdown-Body soll ein vollständiger, praktischer Glossarartikel sein (Definition, Wirkung, Anwendung, Missverständnisse, Praxischeck, Merksatz).
 """,
     "en": """Create a complete new glossary entry as Markdown including YAML frontmatter.
@@ -194,6 +214,7 @@ Requirements:
 - Write clear natural English.
 - Do not use en dashes or em dashes.
 - Use internal links and relatedTerms only from the provided glossary list.
+- Set `category` (and optional `subcategory`) only from the provided category list.
 - Body must be a full practical glossary article (definition, effect, how to use, misunderstandings, practical check, key line).
 - Choose a natural English `term` / `title` for the concept; keep the shared German-based slug.
 """,
@@ -218,6 +239,7 @@ Requirements:
 - Пишите уважительно на «вы».
 - Не используйте длинные тире (en/em dash).
 - Внутренние ссылки и relatedTerms только из предоставленного списка глоссария.
+- Поля `category` (и при необходимости `subcategory`) заполняйте только из предоставленного списка категорий.
 - Текст должен быть полной практической статьёй (определение, эффект, применение, заблуждения, практическая проверка, ключевая мысль).
 - Выберите естественный русский `term` / `title`; общий slug на немецкой основе сохраните.
 """,
@@ -334,6 +356,13 @@ def build_glossary_context(lang: str) -> str:
             continue
 
         fm = _extract_frontmatter(content)
+        if (_frontmatter_value(fm, "is_glossar_category") or "").lower() == "true":
+            continue
+        if file.name.startswith("_"):
+            continue
+        if "kategorie" in file.parts:
+            continue
+
         term = _frontmatter_value(fm, "term") or _frontmatter_value(fm, "title") or file.stem
         desc = _frontmatter_value(fm, "description") or ""
         slug = file.stem
@@ -350,6 +379,56 @@ def build_glossary_context(lang: str) -> str:
 
     context = "\n".join(entries)
     GLOSSARY_CONTEXT_CACHE[lang] = context
+    return context
+
+
+def build_glossary_category_context(lang: str) -> str:
+    """Liest offizielle Glossarkategorien aus content/*/glossar/kategorie/ für den Prompt."""
+    if lang in GLOSSARY_CATEGORY_CACHE:
+        return GLOSSARY_CATEGORY_CACHE[lang]
+
+    root = ROOTS.get(lang)
+    if not root:
+        GLOSSARY_CATEGORY_CACHE[lang] = ""
+        return ""
+
+    category_dir = root / "kategorie"
+    if not category_dir.exists():
+        GLOSSARY_CATEGORY_CACHE[lang] = ""
+        return ""
+
+    lines = []
+    for file in sorted(category_dir.glob("*.md")):
+        try:
+            content = file.read_text(encoding="utf-8")
+        except Exception:
+            continue
+
+        fm = _extract_frontmatter(content)
+        if (_frontmatter_value(fm, "is_glossar_category") or "").lower() != "true":
+            continue
+
+        name = (
+            _frontmatter_value(fm, "glossar_category")
+            or _frontmatter_value(fm, "title")
+            or file.stem
+        )
+        name = re.sub(r"^(Kategorie|Category|Категория):\s*", "", name, flags=re.IGNORECASE).strip()
+        desc = _frontmatter_value(fm, "description") or ""
+        url = _frontmatter_value(fm, "url") or ""
+
+        if len(desc) > 160:
+            desc = desc[:157].rstrip() + "..."
+
+        parts = [f"- {name}"]
+        if url:
+            parts.append(f"url: {url}")
+        if desc:
+            parts.append(desc)
+        lines.append(" | ".join(parts))
+
+    context = "\n".join(lines)
+    GLOSSARY_CATEGORY_CACHE[lang] = context
     return context
 
 
@@ -376,9 +455,10 @@ def load_glossar_template(lang: str) -> str:
 
 
 def build_prompt(lang: str) -> str:
-    """Kombiniert Basis-Prompt mit der sprachspezifischen Glossar-Liste."""
+    """Kombiniert Basis-Prompt mit Glossar-Liste, Kategorien und Template."""
     base = PROMPTS.get(lang, PROMPTS["en"]).strip()
     glossary_context = build_glossary_context(lang)
+    category_context = build_glossary_category_context(lang)
     template_block = ""
     template_text = load_glossar_template(lang)
     if template_text:
@@ -415,16 +495,39 @@ def build_prompt(lang: str) -> str:
             "```"
         )
 
-    if not glossary_context:
-        return f"{base}{template_block}"
+    parts = [base]
 
-    return (
-        f"{base}\n\n"
-        "Verfügbare Glossareinträge für interne Verlinkung und relatedTerms:\n"
-        "Verwende nur diese Einträge als interne Linkziele:\n"
-        f"{glossary_context}"
-        f"{template_block}"
-    )
+    if category_context:
+        if lang == "de":
+            parts.append(
+                "Offizielle Glossarkategorien für Frontmatter-Feld category "
+                "(exakt einen Namen übernehmen; optional passenden Eintrag auch als subcategory):\n"
+                f"{category_context}"
+            )
+        elif lang == "ru":
+            parts.append(
+                "Официальные категории глоссария для поля category во frontmatter "
+                "(выберите ровно одно имя; при необходимости тот же список можно использовать для subcategory):\n"
+                f"{category_context}"
+            )
+        else:
+            parts.append(
+                "Official glossary categories for the frontmatter category field "
+                "(use exactly one name; optionally reuse a fitting name as subcategory):\n"
+                f"{category_context}"
+            )
+
+    if glossary_context:
+        parts.append(
+            "Verfügbare Glossareinträge für interne Verlinkung und relatedTerms:\n"
+            "Verwende nur diese Einträge als interne Linkziele:\n"
+            f"{glossary_context}"
+        )
+
+    if template_block:
+        parts.append(template_block.lstrip("\n"))
+
+    return "\n\n".join(parts)
 
 def optimize(markdown: str, client, lang: str) -> str:
     """Sendet den Markdown-Text an die Gemini API zur SEO-Optimierung mit unendlicher Retry-Logik."""
