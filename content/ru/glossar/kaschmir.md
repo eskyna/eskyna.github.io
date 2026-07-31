@@ -35,9 +35,10 @@ slug: kashemir
 url: /ru/glossar/kaschmir/
 aliases:
   - /rus/glossar/kaschmir/
-  - /rus/glossar/kaschmir/
-  - /ru/glossar/kaschmir/
   - /rus/glossariy/kaschmir/
+  - /rus/glossariy/cashmere-kaschmir/
+  - /rus/glossar/cashmere-kaschmir/
+  - /ru/glossar/cashmere-kaschmir/
 lastmod: "2026-07-09"
 history:
   - "Название волокна связано с регионом Кашмир, через который в Европе исторически получали известные кашемировые шали."

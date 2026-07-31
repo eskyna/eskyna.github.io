@@ -20,9 +20,9 @@ url: /en/glossary/style-profile/
 aliases:
   - /en/glossar/style-profile/
   - /glossary/style-profile/
-  - /en/glossar/style-profile/
-  - /en/glossary/style-profile/
-  - /glossary/style-profile/
+  - /en/glossar/stilprofil/
+  - /en/glossary/stilprofil/
+  - /glossary/stilprofil/
 image: images/glossar/style-profile.png
 image_alt: A person reviewing color swatches, outfit notes, and wardrobe images
 relatedTerms:

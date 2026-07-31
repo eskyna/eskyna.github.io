@@ -20,11 +20,9 @@ url: /rus/glossariy/color-blocking/
 aliases:
   - /rus/glossar/color-blocking/
   - /ru/glossar/color-blocking/
-  - /rus/glossar/color-blocking/
-  - /rus/glossariy/kolor-bloking/
-  - /rus/glossariy/blokirovka-tsveta/
-  - /ru/glossar/color-blocking/
-  - /rus/glossariy/color-blocking/
+  - /rus/glossariy/colour-blocking/
+  - /rus/glossar/colour-blocking/
+  - /ru/glossar/colour-blocking/
 image: images/glossar/color-blocking.png
 image_alt: Образ с крупными контрастными цветовыми блоками
 relatedTerms:

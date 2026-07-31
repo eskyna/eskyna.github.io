@@ -23,9 +23,9 @@ url: /en/glossary/suede/
 aliases:
   - /en/glossar/veloursleder/
   - /glossary/suede/
-  - /en/glossar/veloursleder/
-  - /glossary/veloursleder/
-  - /en/glossary/veloursleder/
+  - /en/glossary/wildleder-suede/
+  - /en/glossar/wildleder-suede/
+  - /glossary/wildleder-suede/
 image_alt: Soft brown suede leather with a visibly brushed, velvety surface
 relatedTerms:
   - title: Leather
