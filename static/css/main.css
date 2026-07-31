@@ -9332,6 +9332,7 @@ main .hero .hero-headline-line {
 }
 
 /* Stilfrage order / booking page */
+/* stylelint-disable no-descending-specificity */
 .page-stilfrage-order {
   margin: 0;
   padding: 0;
@@ -9345,7 +9346,12 @@ main .hero .hero-headline-line {
   background:
     radial-gradient(ellipse 80% 70% at 12% 18%, rgb(197 160 89 / 28%), transparent 55%),
     radial-gradient(ellipse 70% 60% at 88% 8%, rgb(139 94 52 / 14%), transparent 50%),
-    linear-gradient(165deg, rgb(255 252 247 / 96%), rgb(246 241 234 / 100%) 48%, rgb(237 228 216 / 92%));
+    linear-gradient(
+      165deg,
+      rgb(255 252 247 / 96%),
+      rgb(246 241 234 / 100%) 48%,
+      rgb(237 228 216 / 92%)
+    );
 }
 
 .stilfrage-order-hero-atmosphere {
@@ -9508,7 +9514,7 @@ main .hero .hero-headline-line {
   color: var(--accent-strong);
 }
 
-.stilfrage-order-step-body h3 {
+.page-stilfrage-order .stilfrage-order-step-body h3 {
   margin: 0 0 0.45rem;
   font-family: var(--font-headline);
   font-size: clamp(1.15rem, 2.5vw, 1.35rem);
@@ -9516,7 +9522,7 @@ main .hero .hero-headline-line {
   color: var(--text);
 }
 
-.stilfrage-order-step-body p {
+.page-stilfrage-order .stilfrage-order-step-body p {
   margin: 0;
   color: var(--muted);
   line-height: 1.55;
@@ -9558,7 +9564,7 @@ main .hero .hero-headline-line {
   padding: 0;
 }
 
-.stilfrage-order-includes-list li {
+.page-stilfrage-order .stilfrage-order-includes-list li {
   position: relative;
   padding: 0.85rem 0 0.85rem 1.6rem;
   border-bottom: 1px solid rgb(44 30 22 / 8%);
@@ -9566,11 +9572,11 @@ main .hero .hero-headline-line {
   color: var(--text);
 }
 
-.stilfrage-order-includes-list li:last-child {
+.page-stilfrage-order .stilfrage-order-includes-list li:last-child {
   border-bottom: 0;
 }
 
-.stilfrage-order-includes-list li::before {
+.page-stilfrage-order .stilfrage-order-includes-list li::before {
   content: "";
   position: absolute;
   left: 0;
@@ -9596,11 +9602,11 @@ main .hero .hero-headline-line {
   }
 }
 
-.stilfrage-order-assurance-list li {
+.page-stilfrage-order .stilfrage-order-assurance-list li {
   padding: 0;
 }
 
-.stilfrage-order-assurance-list strong {
+.page-stilfrage-order .stilfrage-order-assurance-list strong {
   display: block;
   margin-bottom: 0.4rem;
   font-family: var(--font-headline);
@@ -9608,7 +9614,7 @@ main .hero .hero-headline-line {
   color: var(--accent-strong);
 }
 
-.stilfrage-order-assurance-list span {
+.page-stilfrage-order .stilfrage-order-assurance-list span {
   display: block;
   color: var(--muted);
   line-height: 1.55;
@@ -9635,7 +9641,9 @@ main .hero .hero-headline-line {
   background: rgb(255 252 247 / 90%);
   text-decoration: none;
   color: inherit;
-  transition: border-color 0.2s ease, background-color 0.2s ease;
+  transition:
+    border-color 0.2s ease,
+    background-color 0.2s ease;
 }
 
 .stilfrage-order-step-option:hover,
@@ -9716,7 +9724,7 @@ main .hero .hero-headline-line {
   background: rgb(255 252 247);
 }
 
-.stilfrage-order-option h3 {
+.page-stilfrage-order .stilfrage-order-option h3 {
   margin: 0;
   font-family: var(--font-headline);
   font-size: clamp(1.2rem, 2.8vw, 1.45rem);
@@ -9749,7 +9757,7 @@ main .hero .hero-headline-line {
   gap: 0.55rem;
 }
 
-.stilfrage-order-option-includes li {
+.page-stilfrage-order .stilfrage-order-option-includes li {
   position: relative;
   padding-left: 1.15rem;
   color: var(--text);
@@ -9757,7 +9765,7 @@ main .hero .hero-headline-line {
   font-size: 0.95rem;
 }
 
-.stilfrage-order-option-includes li::before {
+.page-stilfrage-order .stilfrage-order-option-includes li::before {
   content: "";
   position: absolute;
   left: 0;
@@ -9813,3 +9821,4 @@ main .hero .hero-headline-line {
     transition: none;
   }
 }
+/* stylelint-enable no-descending-specificity */
