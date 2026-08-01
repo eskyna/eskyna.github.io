@@ -64,13 +64,13 @@ Entscheidend für die Wirkung ist der [Materialfall](/glossar/materialfall/): Fe
 
 Chambray und Denim werden oft verwechselt, weil beide meist mit blauen und weißen Fäden arbeiten. Der entscheidende Unterschied liegt jedoch in der Webart.
 
-| Merkmal    | Chambray                        | Denim                                               |
-| ---------- | ------------------------------- | --------------------------------------------------- |
+| Merkmal    | Chambray                        | Denim                                                             |
+| ---------- | ------------------------------- | ----------------------------------------------------------------- |
 | Webart     | Leinwandbindung                 | Köperbindung, auch [Twill](/glossar/koeperbindung-twill/) genannt |
-| Oberfläche | glatt, fein und gleichmäßig     | diagonal gerippt und markanter                      |
-| Gewicht    | meist leicht bis mittel         | meist mittel bis schwer                             |
-| Rückseite  | ähnelt oft der Vorderseite      | meist deutlich heller als die Vorderseite           |
-| Wirkung    | leicht, gepflegt und sommerlich | robust, lässig und markant                          |
+| Oberfläche | glatt, fein und gleichmäßig     | diagonal gerippt und markanter                                    |
+| Gewicht    | meist leicht bis mittel         | meist mittel bis schwer                                           |
+| Rückseite  | ähnelt oft der Vorderseite      | meist deutlich heller als die Vorderseite                         |
+| Wirkung    | leicht, gepflegt und sommerlich | robust, lässig und markant                                        |
 
 Bei Chambray kreuzen sich Kett- und Schussfaden regelmäßig. Dadurch entsteht keine sichtbare Diagonale. Bei Denim läuft die Bindung versetzt, weshalb du die typischen schrägen Linien erkennst.
 

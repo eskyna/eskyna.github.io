@@ -82,7 +82,7 @@ The categories can overlap, but their intended use is different.
 | --------------------------------------------- | --------------------------------- | --------------- | ------------------------------------------- |
 | [Shirt](/en/glossar/hemd/)                    | Base or standalone top            | Light to medium | Usually closed, tucked, or worn on its own  |
 | Overshirt                                     | Flexible outer layer              | Medium          | Open or closed over a T-shirt, top, or knit |
-| [Shacket](/en/glossar/overshirt/)               | Shirt-jacket hybrid               | Medium to heavy | Used more like a lightweight jacket         |
+| [Shacket](/en/glossar/overshirt/)             | Shirt-jacket hybrid               | Medium to heavy | Used more like a lightweight jacket         |
 | [Utility Jacket](/en/glossar/utility-jacket/) | Outerwear with functional details | Medium to heavy | Worn as the main jacket layer               |
 
 In practice, the distinction often comes down to fabric, lining, and construction. The heavier, more jacket-like the piece is, the closer it is to a shacket or jacket.

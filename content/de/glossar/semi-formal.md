@@ -90,11 +90,11 @@ Bei den Farben funktionieren dunklere Neutraltöne wie Navy, Anthrazit, Braun od
 
 ## Der Unterschied zwischen Semi Formal, Cocktail und Black Tie
 
-| Dresscode                        | Wirkung                                                   | Typischer Rahmen                                                   |
-| -------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Cocktail](/glossar/cocktail-attire/)   | Elegant und gesellschaftlich, mit mehr modischer Freiheit | Festliche Feiern am späten Nachmittag oder Abend                   |
-| **Semi Formal**                  | Gehobenen, gepflegt und festlich                          | Einladungen mit formellem Anspruch, aber ohne strenge Abendregeln  |
-| [Black Tie](/glossar/black-tie/) | Sehr formell und klar geregelt                            | Galas, formelle Abendveranstaltungen und besonders elegante Feiern |
+| Dresscode                             | Wirkung                                                   | Typischer Rahmen                                                   |
+| ------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Cocktail](/glossar/cocktail-attire/) | Elegant und gesellschaftlich, mit mehr modischer Freiheit | Festliche Feiern am späten Nachmittag oder Abend                   |
+| **Semi Formal**                       | Gehobenen, gepflegt und festlich                          | Einladungen mit formellem Anspruch, aber ohne strenge Abendregeln  |
+| [Black Tie](/glossar/black-tie/)      | Sehr formell und klar geregelt                            | Galas, formelle Abendveranstaltungen und besonders elegante Feiern |
 
 Die Übergänge können je nach Land, Gastgebern und Veranstaltung unterschiedlich ausfallen. Lies Semi Formal daher nie losgelöst vom Kontext. Wenn die Einladung wenig verrät, helfen die Location, die Uhrzeit und der Anlass bei der Einordnung.
 
