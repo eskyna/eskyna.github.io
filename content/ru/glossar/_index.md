@@ -34,8 +34,7 @@ ui:
 seoTitle: Глоссарий стиля, цвета и гардероба | ESKYNA
 url: /rus/glossariy/
 aliases:
-  - /rus/glossar/
-  - /rus/glossar/
+  - /glossar/
 image: images/glossar/_index.png
 image_alt: "Иллюстрация глоссария ESKYNA о стиле, цвете, посадке и гардеробе"
 tags:

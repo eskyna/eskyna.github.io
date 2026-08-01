@@ -5,8 +5,7 @@ description: "Book your style question with Natalia: after submitting, choose a 
 layout: single
 url: /en/style-question/order/
 aliases:
-  - /en/stilfrage/bestellen/
-  - /style-question/order/
+  - /stilfrage/bestellen/
 
 back:
   href: /en/style-question/

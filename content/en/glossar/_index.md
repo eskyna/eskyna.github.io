@@ -34,8 +34,7 @@ ui:
 seoTitle: Style, Color & Wardrobe Glossary | ESKYNA
 url: /en/glossary/
 aliases:
-  - /en/glossar/
-  - /glossary/
+  - /glossar/
 image: images/glossar/_index.png
 image_alt: "ESKYNA style glossary illustration covering color, wardrobe, fit, and fashion terms"
 relatedTerms:

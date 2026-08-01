@@ -5,8 +5,7 @@ description: "Забронируйте вопрос о стиле с Натал�
 layout: single
 url: /rus/vopros-stilistu/zakaz/
 aliases:
-  - /rus/stilfrage/bestellen/
-  - /rus/stilfrage/bestellen/
+  - /stilfrage/bestellen/
 
 back:
   href: /rus/vopros-stilistu/
