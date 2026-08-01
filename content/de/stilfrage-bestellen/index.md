@@ -13,7 +13,7 @@ order:
   kicker: ESKYNA Stilfrage
   headline: "Klarheit, die du spürst."
   lead: "Du hast deine Stilfrage eingereicht. Als Nächstes wählst du das passende Format und sicherst dir Natalias Einschätzung verbindlich."
-  price: "ab 49 €"
+  price: "49 € / 79 €"
   price_note: "je nach Format"
   secondary_cta:
     href: /stilfrage/
@@ -31,7 +31,7 @@ options:
   items:
     - id: foto
       title: Stilantwort per Foto / Nachricht
-      price: ab 49 €
+      price: 49 €
       text: "Du hast bereits Frage, Foto oder Auswahlmöglichkeiten gesendet. Natalia antwortet mit einer klaren Einschätzung und kurzer Begründung."
       includes:
         - Persönliche Antwort zu deiner konkreten Frage
@@ -39,12 +39,12 @@ options:
         - Klare Empfehlung: kaufen, behalten, anders kombinieren oder lieber lassen
         - Kurze Erklärung, warum etwas funktioniert oder nicht
       stripe:
-        enabled: false
-        checkout_url: ""
+        enabled: true
+        checkout_url: "https://buy.stripe.com/5kQ14p3WS3cagRM6Zt9bO00"
         button_text: "Stilantwort buchen"
     - id: live
       title: Live-Shopping-Check
-      price: ab 79 €
+      price: 79 €
       text: "Für den Moment im Laden oder vor dem Kauf: Natalia schaut live mit und hilft dir, sicher zu entscheiden."
       note: "Nach Verfügbarkeit und mit vorher gebuchtem Zeitfenster."
       includes:
@@ -53,12 +53,12 @@ options:
         - Direkte Entscheidungshilfe
         - Hinweise, worauf du beim Kauf achten solltest
       stripe:
-        enabled: false
-        checkout_url: ""
+        enabled: true
+        checkout_url: "https://buy.stripe.com/fZu9AV50W2865946Zt9bO01"
         button_text: "Live-Check buchen"
 
 stripe:
-  enabled: false
+  enabled: true
   pending_text: "Die sichere Stripe-Buchung wird in Kürze freigeschaltet."
   secure_note: "Sichere Zahlung über Stripe. Du erhältst danach alle Details per E-Mail."
 

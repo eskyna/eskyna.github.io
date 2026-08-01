@@ -20,7 +20,7 @@ offer:
     Or do you want to know how to combine a piece that is already in your wardrobe?
 
     With Ask Natalia a style question, you get a personal assessment of your exact situation. Clear, honest, and practical.
-  price: from €49
+  price: "€49 / €79"
   cta: Ask your style question
   secondary_cta:
     href: /en/style-question/order/
@@ -51,7 +51,7 @@ typical_questions:
     - Does this fit my style, or is it another bad purchase?
 variants:
   - title: Style answer by photo / message
-    price: from €49
+    price: €49
     description: |
       You send Natalia your question, a photo, or two options. Natalia gives you a clear assessment with a short explanation.
     includes:
@@ -60,7 +60,7 @@ variants:
       - "Clear recommendation: buy, keep, combine differently, or leave it"
       - Brief explanation of why something works or does not work
   - title: Live shopping check
-    price: from €79
+    price: €79
     description: |
       Are you shopping right now or planning a shopping appointment? Then you can book a short live slot with Natalia.
 

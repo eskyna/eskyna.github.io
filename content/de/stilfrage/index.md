@@ -20,7 +20,7 @@ offer:
     Oder du möchtest wissen, wie du ein Teil kombinieren kannst, das schon in deinem Schrank hängt?
 
     Mit der Stilfrage an Natalia bekommst du eine persönliche Einschätzung zu genau deiner Situation. Klar, ehrlich und alltagstauglich.
-  price: "ab 49 €"
+  price: "49 € / 79 €"
   cta: "Stilfrage einreichen"
   secondary_cta:
     href: "/stilfrage/bestellen/"
@@ -54,7 +54,7 @@ typical_questions:
 
 variants:
   - title: "Stilantwort per Foto / Nachricht"
-    price: "ab 49 €"
+    price: "49 €"
     description: |
       Du sendest Natalia deine Frage, ein Foto oder zwei Auswahlmöglichkeiten. Natalia gibt dir eine klare Einschätzung mit kurzer Begründung.
     includes:
@@ -64,7 +64,7 @@ variants:
       - "Kurze Erklärung, warum etwas funktioniert oder nicht"
 
   - title: "Live-Shopping-Check"
-    price: "ab 79 €"
+    price: "79 €"
     description: |
       Du bist gerade einkaufen oder planst einen Shopping-Termin? Dann kannst du einen kurzen Live-Slot mit Natalia buchen.
 
