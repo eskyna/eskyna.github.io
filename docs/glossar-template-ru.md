@@ -17,11 +17,11 @@ image: images/glossar/[имя-файла].png
 image_alt: [Конкретное и спокойное описание изображения]
 relatedTerms:
   - title: [Связанный термин 1]
-    url: /ru/glossar/[slug-1]/
+    url: /rus/glossar/[slug-1]/
   - title: [Связанный термин 2]
-    url: /ru/glossar/[slug-2]/
+    url: /rus/glossar/[slug-2]/
   - title: [Связанный термин 3]
-    url: /ru/glossar/[slug-3]/
+    url: /rus/glossar/[slug-3]/
 history:
   - [Исторический пункт 1]
   - [Исторический пункт 2]
@@ -74,4 +74,4 @@ lastmod: "2026-07-29"
 
 [Короткий перенос в повседневную практику или в работу со стилистом.]
 
-Больше подходящих терминов: [ссылка на категорию](/ru/glossar/kategorie/[category-slug]/).
+Больше подходящих терминов: [ссылка на категорию](/rus/glossar/kategorie/[category-slug]/).

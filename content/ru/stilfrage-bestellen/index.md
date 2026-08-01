@@ -6,7 +6,7 @@ layout: single
 url: /rus/vopros-stilistu/zakaz/
 aliases:
   - /rus/stilfrage/bestellen/
-  - /ru/stilfrage/bestellen/
+  - /rus/stilfrage/bestellen/
 
 back:
   href: /rus/vopros-stilistu/

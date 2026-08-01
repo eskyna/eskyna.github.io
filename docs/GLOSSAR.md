@@ -514,7 +514,7 @@ content/de/glossar/
 ├── capsule-wardrobe.md
 └── ... (weitere Beiträge)
 
-content/ru/glossar/            (Russische Übersetzungen)
+content/rus/glossar/            (Russische Übersetzungen)
 ├── _index.md
 ├── passform.md
 ├── ... (Analoges Setup)

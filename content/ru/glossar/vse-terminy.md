@@ -14,11 +14,11 @@ keywords:
   - термины моды по алфавиту
 relatedTerms:
   - title: Глоссарий
-    url: /ru/glossar/_index/
+    url: /rus/glossar/_index/
   - title: "Категория: Стиль и впечатление"
-    url: /ru/glossar/stil-und-vozdeystvie/
+    url: /rus/glossar/stil-und-vozdeystvie/
   - title: "Категория: Материалы и детали"
-    url: /ru/glossar/materialy-i-detali/
+    url: /rus/glossar/materialy-i-detali/
 faq:
   items:
     - q: Что можно найти в списке терминов A-Z?
@@ -29,6 +29,6 @@ faq:
 
 ## Все термины моды и стиля A-Z
 
-На этой странице собраны все статьи [глоссария ESKYNA](/ru/glossar/_index/) в алфавитном порядке. Здесь вы можете быстро найти значение терминов, связанных с одеждой, стилем, цветом, кроем, посадкой, материалами, обувью, аксессуарами и дресс-кодами.
+На этой странице собраны все статьи [глоссария ESKYNA](/rus/glossar/_index/) в алфавитном порядке. Здесь вы можете быстро найти значение терминов, связанных с одеждой, стилем, цветом, кроем, посадкой, материалами, обувью, аксессуарами и дресс-кодами.
 
-Если вы ищете понятное объяснение конкретного слова, выберите его в списке ниже. Для тематического просмотра также используйте разделы о [стиле и впечатлении](/ru/glossar/stil-und-vozdeystvie/), [материалах и деталях](/ru/glossar/materialy-i-detali/), [крое, пропорциях и посадке](/ru/glossar/kroy-proportsii-i-posadka/) и [цвете](/ru/glossar/konsultatsiya-po-tsvetu-i-tsvet/).
+Если вы ищете понятное объяснение конкретного слова, выберите его в списке ниже. Для тематического просмотра также используйте разделы о [стиле и впечатлении](/rus/glossar/stil-und-vozdeystvie/), [материалах и деталях](/rus/glossar/materialy-i-detali/), [крое, пропорциях и посадке](/rus/glossar/kroy-proportsii-i-posadka/) и [цвете](/rus/glossar/konsultatsiya-po-tsvetu-i-tsvet/).
