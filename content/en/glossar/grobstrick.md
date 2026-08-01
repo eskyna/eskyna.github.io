@@ -21,8 +21,7 @@ keywords:
 slug: chunky-knit
 url: /en/glossary/chunky-knit/
 aliases:
-  - /en/glossar/grobstrick/
-  - /glossary/chunky-knit/
+  - /glossar/grobstrick/
 image_alt: Chunky knit sweater with a thick textured stitch pattern
 relatedTerms:
   - title: Knitwear

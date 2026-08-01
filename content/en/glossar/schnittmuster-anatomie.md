@@ -18,8 +18,7 @@ keywords:
 slug: schnittmuster-anatomie
 url: /en/glossary/schnittmuster-anatomie/
 aliases:
-  - /en/glossar/schnittmuster-anatomie/
-  - /glossary/schnittmuster-anatomie/
+  - /glossar/schnittmuster-anatomie/
 weight: 999
 image: images/glossar/schnittmuster-anatomie.png
 image_alt: "Garment pattern pieces arranged for a fitted jacket"

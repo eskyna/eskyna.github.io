@@ -36,8 +36,7 @@ seoTitle: "Ясность стиля: что это и как её развит�
 slug: yasnost-stilya
 url: /rus/glossariy/yasnost-stilya/
 aliases:
-  - /rus/glossar/stil-klarheit/
-  - /ru/glossar/stil-klarheit/
+  - /glossar/stil-klarheit/
 lastmod: "2026-07-09"
 knowledge:
   - Ясность стиля не требует единственного стилевого направления. Она создаёт понятные критерии для выбора вещей и сочетаний.

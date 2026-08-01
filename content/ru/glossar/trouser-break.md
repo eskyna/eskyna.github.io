@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/trouser-break/
 aliases:
-  - /rus/glossar/trouser-break/
-  - /ru/glossar/trouser-break/
+  - /glossar/trouser-break/
 image: images/glossar/trouser-break.png
 image_alt: Брюки с небольшим заломом штанины на передней части обуви
 relatedTerms:

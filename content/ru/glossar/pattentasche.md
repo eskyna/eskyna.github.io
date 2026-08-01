@@ -9,8 +9,7 @@ image_alt: "Иллюстрация клапанного кармана на жа
 slug: pattentasche
 url: /rus/glossariy/pattentasche/
 aliases:
-  - /rus/glossar/pattentasche/
-  - /ru/glossar/pattentasche/
+  - /glossar/pattentasche/
 tags:
   - клапанный-карман
   - детали-одежды

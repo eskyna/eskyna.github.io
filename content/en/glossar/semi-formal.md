@@ -22,8 +22,7 @@ keywords:
 slug: semi-formal
 url: /en/glossary/semi-formal/
 aliases:
-  - /en/glossar/semi-formal/
-  - /glossary/semi-formal/
+  - /glossar/semi-formal/
 image_alt: Editorial illustration of polished semi formal outfits for an evening event
 relatedTerms:
   - title: Dress Code

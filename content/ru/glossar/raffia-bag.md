@@ -33,9 +33,8 @@ seoTitle: "Сумка из рафии: что это и как носить | Г
 slug: sumka-iz-rafii
 url: /rus/glossariy/sumka-iz-rafii/
 aliases:
-  - /rus/glossar/raffia-bag/
-  - /ru/glossar/raffia-bag/
-  - /rus/glossariy/raffia-bag/
+  - /glossar/raffia-bag/
+  - /glossariy/raffia-bag/
 image_alt: "Плетёная сумка из рафии с натуральной фактурой для летнего образа"
 knowledge:
   - "Рафия — натуральное волокно, которое получают из листьев пальм рода Raphia."

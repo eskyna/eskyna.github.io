@@ -4,8 +4,7 @@ term: Architectural Shoulder Pad
 slug: architektonisches-schulterpolster
 url: /en/glossary/architektonisches-schulterpolster/
 aliases:
-  - /en/glossar/architektonisches-schulterpolster/
-  - /glossary/architektonisches-schulterpolster/
+  - /glossar/architektonisches-schulterpolster/
 description: "An architectural shoulder pad is a precisely shaped internal insert that supports the shoulder line and gives jackets, coats, and dresses a defined upper-body structure."
 category: Cut, Proportion & Fit
 tags:

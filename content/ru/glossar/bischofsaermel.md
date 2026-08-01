@@ -9,8 +9,7 @@ image_alt: "Блуза с объёмным епископским рукавом
 slug: bischofsaermel
 url: /rus/glossariy/bischofsaermel/
 aliases:
-  - /rus/glossar/bischofsaermel/
-  - /ru/glossar/bischofsaermel/
+  - /glossar/bischofsaermel/
 tags:
   - епископский-рукав
   - объёмный-рукав

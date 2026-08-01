@@ -35,8 +35,7 @@ seoTitle: "Пояс на талию: значение и применение | 
 slug: poyas-na-taliyu
 url: /rus/glossariy/poyas-na-taliyu/
 aliases:
-  - /rus/glossar/taillenguertel/
-  - /ru/glossar/taillenguertel/
+  - /glossar/taillenguertel/
 lastmod: "2026-07-09"
 knowledge:
   - Пояс на талию влияет не только на декоративность образа, но и на визуальное соотношение длины корпуса и ног.

@@ -21,8 +21,7 @@ keywords:
 slug: jelly-sandals
 url: /en/glossary/jelly-sandals/
 aliases:
-  - /en/glossar/jelly-sandals/
-  - /glossary/jelly-sandals/
+  - /glossar/jelly-sandals/
 image_alt: Transparent jelly sandals with slim plastic straps
 relatedTerms:
   - title: Jelly Bag

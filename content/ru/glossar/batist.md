@@ -9,8 +9,7 @@ image: "images/glossar/batist.png"
 image_alt: "Тонкая светлая ткань батист с лёгкой гладкой фактурой"
 url: /rus/glossariy/batist/
 aliases:
-  - /rus/glossar/batist/
-  - /ru/glossar/batist/
+  - /glossar/batist/
 tags:
   - батист
   - лёгкие ткани

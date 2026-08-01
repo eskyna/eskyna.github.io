@@ -22,8 +22,7 @@ keywords:
 slug: print
 url: /en/glossary/print/
 aliases:
-  - /en/glossar/print/
-  - /glossary/print/
+  - /glossar/print/
 image_alt: Editorial illustration showing garments with floral, striped, and graphic printed fabrics
 relatedTerms:
   - title: Pattern

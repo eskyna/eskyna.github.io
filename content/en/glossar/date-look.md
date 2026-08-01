@@ -20,8 +20,7 @@ keywords:
 slug: date-look
 url: /en/glossary/date-look/
 aliases:
-  - /en/glossar/date-look/
-  - /glossary/date-look/
+  - /glossar/date-look/
 image_alt: Editorial glossary illustration of a polished date outfit with coordinated clothing and accessories
 relatedTerms:
   - title: Dinner Look

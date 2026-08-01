@@ -4,8 +4,7 @@ term: "Пропорциональное расположение подола"
 slug: proportionaler-saumabschluss
 url: /rus/glossariy/proportionaler-saumabschluss/
 aliases:
-  - /rus/glossar/proportionaler-saumabschluss/
-  - /ru/glossar/proportionaler-saumabschluss/
+  - /glossar/proportionaler-saumabschluss/
 description: "Пропорциональное расположение подола это выбор длины и линии низа юбки, брюк, жакета или рукава с учетом наиболее изящных участков ног и рук. Приём помогает сделать силуэт визуально цельнее и управлять распределением внимания в образе."
 category: "Крой, пропорции и посадка"
 tags:

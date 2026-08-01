@@ -21,8 +21,7 @@ keywords:
 slug: hand-wash
 url: /en/glossary/hand-wash/
 aliases:
-  - /en/glossar/handwaesche/
-  - /glossary/hand-wash/
+  - /glossar/handwaesche/
 image_alt: Hands gently washing a delicate garment in a basin of water
 relatedTerms:
   - title: Care

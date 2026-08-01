@@ -5,8 +5,7 @@ description: "Гарантия притягивать взгляды, или Bli
 slug: blickfang-garantie
 url: /rus/glossariy/blickfang-garantie/
 aliases:
-  - /rus/glossar/blickfang-garantie/
-  - /ru/glossar/blickfang-garantie/
+  - /glossar/blickfang-garantie/
 category: Стиль и впечатление
 tags:
   - акцент в образе

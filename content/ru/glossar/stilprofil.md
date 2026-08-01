@@ -34,12 +34,11 @@ seoTitle: "Стилевой профиль: что это и как примен
 slug: stilevoy-profil
 url: /ru/glossar/stilprofil/
 aliases:
-  - /rus/glossar/stilprofil/
-  - /rus/glossariy/stilevoy-profil/
-  - /rus/glossariy/stilprofil/
-  - /rus/glossariy/style-profile/
-  - /rus/glossar/style-profile/
-  - /ru/glossar/style-profile/
+  - /glossar/stilprofil/
+  - /glossariy/stilevoy-profil/
+  - /glossariy/stilprofil/
+  - /glossariy/style-profile/
+  - /glossar/style-profile/
 lastmod: "2026-07-09"
 knowledge:
   - Стилевой профиль не является готовой категорией или набором запретов. Это система ориентиров для более последовательных решений в одежде.

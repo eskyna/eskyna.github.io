@@ -33,8 +33,7 @@ seoTitle: "Баланс в пропорциях: что это и как при�
 slug: balans
 url: /rus/glossariy/balans/
 aliases:
-  - /rus/glossar/balance/
-  - /ru/glossar/balance/
+  - /glossar/balance/
 lastmod: "2026-07-09"
 knowledge:
   - Визуальный баланс зависит не от размера одежды, а от соотношения объёмов, длин, линий, цвета и фактуры.

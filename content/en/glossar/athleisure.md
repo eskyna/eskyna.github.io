@@ -14,8 +14,7 @@ keywords:
 slug: athleisure
 url: /en/glossary/athleisure/
 aliases:
-  - /en/glossar/athleisure/
-  - /glossary/athleisure/
+  - /glossar/athleisure/
 tags:
   - athleisure
   - sporty style

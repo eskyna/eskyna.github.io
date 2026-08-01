@@ -37,8 +37,7 @@ seoTitle: "Шёлк: свойства, виды и уход | Глоссарий
 slug: shyolk
 url: /rus/glossariy/shyolk/
 aliases:
-  - /rus/glossar/seide/
-  - /ru/glossar/seide/
+  - /glossar/seide/
 lastmod: "2026-07-09"
 history:
   - "Шёлк известен как один из древнейших ценных текстильных материалов."

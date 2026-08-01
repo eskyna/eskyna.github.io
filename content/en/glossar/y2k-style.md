@@ -14,8 +14,7 @@ keywords:
 slug: y2k-style
 url: /en/glossary/y2k-style/
 aliases:
-  - /en/glossar/y2k-style/
-  - /glossary/y2k-style/
+  - /glossar/y2k-style/
 tags:
   - y2k fashion
   - early 2000s style

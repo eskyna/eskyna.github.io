@@ -21,8 +21,7 @@ keywords:
 slug: leather-belt
 url: /en/glossary/leather-belt/
 aliases:
-  - /en/glossar/lederguertel/
-  - /glossary/leather-belt/
+  - /glossar/lederguertel/
 image_alt: Brown leather belt with a metal buckle, shown as a versatile wardrobe accessory
 relatedTerms:
   - title: Belt

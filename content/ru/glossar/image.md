@@ -35,8 +35,7 @@ seoTitle: "Имидж: что это такое и как он формируе�
 slug: imidzh
 url: /rus/glossariy/imidzh/
 aliases:
-  - /rus/glossar/image/
-  - /ru/glossar/image/
+  - /glossar/image/
 lastmod: "2026-07-09"
 knowledge:
   - "Имидж складывается не только из одежды: на него влияют осанка, речь, жесты, выражение лица, контекст и последовательность визуальных решений."

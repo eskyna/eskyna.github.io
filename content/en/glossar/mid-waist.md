@@ -22,8 +22,7 @@ keywords:
 slug: mid-waist
 url: /en/glossary/mid-waist/
 aliases:
-  - /en/glossar/mid-waist/
-  - /glossary/mid-waist/
+  - /glossar/mid-waist/
 image_alt: Editorial illustration showing the mid-waist position between low-rise and high-rise trousers
 relatedTerms:
   - title: Waist height

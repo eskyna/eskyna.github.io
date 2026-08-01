@@ -35,8 +35,7 @@ seoTitle: "Рукав реглан: значение и применение | �
 slug: rukav-reglan
 url: /rus/glossariy/rukav-reglan/
 aliases:
-  - /rus/glossar/raglanaermel/
-  - /ru/glossar/raglanaermel/
+  - /glossar/raglanaermel/
 lastmod: "2026-07-09"
 knowledge:
   - Рукав реглан распознают по диагональной линии, которая соединяет горловину с подмышечной зоной.

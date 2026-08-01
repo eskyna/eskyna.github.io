@@ -34,8 +34,7 @@ seoTitle: "Платье Ампир: что это, кому подходит и 
 slug: plate-ampir
 url: /ru/glossar/empire-kleid/
 aliases:
-  - /rus/glossar/empire-kleid/
-  - /ru/glossar/empire-kleid/
+  - /glossar/empire-kleid/
 lastmod: "2026-07-09"
 history:
   - Название силуэта связано с модой эпохи ампир начала XIX века, когда в европейской одежде была популярна высокая линия талии и лёгкая, вертикально ниспадающая юбка.

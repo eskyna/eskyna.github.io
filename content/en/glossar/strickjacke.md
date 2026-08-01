@@ -21,9 +21,8 @@ keywords:
 slug: knitted-jacket
 url: /en/glossary/knitted-jacket/
 aliases:
-  - /en/glossar/strickjacke/
+  - /glossar/strickjacke/
   - /glossary/cardigan-2/
-  - /glossary/knitted-jacket/
 image_alt: Editorial illustration of a structured knitted jacket with buttons and a soft knit texture
 relatedTerms:
   - title: Cardigan

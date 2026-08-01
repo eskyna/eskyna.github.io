@@ -5,8 +5,7 @@ description: "Сайдбуб, или sideboob, это частично откр�
 slug: sideboob
 url: /rus/glossariy/sideboob/
 aliases:
-  - /rus/glossar/sideboob/
-  - /ru/glossar/sideboob/
+  - /glossar/sideboob/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - сайдбуб

@@ -21,8 +21,7 @@ keywords:
 slug: personal-uniform
 url: /en/glossary/personal-uniform/
 aliases:
-  - /en/glossar/personal-uniform/
-  - /glossary/personal-uniform/
+  - /glossar/personal-uniform/
 image_alt: Editorial illustration of a cohesive personal uniform with repeatable wardrobe pieces
 relatedTerms:
   - title: Everyday Uniform

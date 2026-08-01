@@ -21,8 +21,7 @@ keywords:
 slug: updated-lady
 url: /en/glossary/updated-lady/
 aliases:
-  - /en/glossar/updated-lady/
-  - /glossary/updated-lady/
+  - /glossar/updated-lady/
 relatedTerms:
   - title: Feminine Style
     url: /en/glossar/femininer-stil/

@@ -22,8 +22,7 @@ keywords:
 slug: wish-list
 url: /en/glossary/wish-list/
 aliases:
-  - /en/glossar/wunschliste/
-  - /glossary/wish-list/
+  - /glossar/wunschliste/
 image_alt: Editorial illustration of a wardrobe wish list with planned clothing and accessories
 relatedTerms:
   - title: Shopping List

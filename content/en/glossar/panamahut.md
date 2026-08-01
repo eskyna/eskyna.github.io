@@ -9,8 +9,7 @@ image: "images/glossar/panamahut.png"
 image_alt: "Light natural-fiber Panama hat with a classic brim and crown"
 url: /en/glossary/panamahut/
 aliases:
-  - /en/glossar/panamahut/
-  - /glossary/panamahut/
+  - /glossar/panamahut/
 lastmod: "2026-07-22"
 relatedTerms:
   - title: "Hat"

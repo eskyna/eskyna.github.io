@@ -37,9 +37,9 @@ seoTitle: "Ярко-розовый | ESKYNA Glossary"
 slug: rozovyy-pink
 url: /ru/glossar/pink/
 aliases:
-  - /rus/glossar/pink/
-  - /rus/glossariy/pink/
-  - /rus/glossariy/rozovyy-pink/
+  - /glossar/pink/
+  - /glossariy/pink/
+  - /glossariy/rozovyy-pink/
 lastmod: "2026-07-09"
 knowledge:
   - Ярко-розовый воспринимается прежде всего через насыщенность, светлоту и подтон, поэтому два визуально похожих розовых оттенка могут давать разный эффект у лица.

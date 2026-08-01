@@ -40,8 +40,7 @@ seoTitle: "Аксессуар: значение и применение | Гло
 slug: aksessuar
 url: /rus/glossariy/aksessuar/
 aliases:
-  - /rus/glossar/accessoire/
-  - /ru/glossar/accessoire/
+  - /glossar/accessoire/
 lastmod: "2026-07-09"
 knowledge:
   - Аксессуары могут менять степень формальности, цветовой акцент и характер комплекта без полной смены одежды.

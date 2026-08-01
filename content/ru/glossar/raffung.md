@@ -34,8 +34,7 @@ seoTitle: "Сборка ткани: что это, виды и влияние н
 slug: sborka-tkani
 url: /rus/glossariy/sborka-tkani/
 aliases:
-  - /rus/glossar/raffung/
-  - /ru/glossar/raffung/
+  - /glossar/raffung/
 lastmod: "2026-07-09"
 knowledge:
   - Сборку получают, распределяя избыток длины или ширины ткани по более короткому участку шва, кулиске, резинке или завязке.

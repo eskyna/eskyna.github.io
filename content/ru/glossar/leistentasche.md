@@ -9,8 +9,7 @@ image_alt: "Иллюстрация кармана в рамку с узкой о
 slug: leistentasche
 url: /rus/glossariy/leistentasche/
 aliases:
-  - /rus/glossar/leistentasche/
-  - /ru/glossar/leistentasche/
+  - /glossar/leistentasche/
 tags:
   - карман в рамку
   - прорезной карман

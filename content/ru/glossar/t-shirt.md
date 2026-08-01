@@ -41,10 +41,9 @@ seoTitle: "Футболка: что это, как выбрать и носит�
 slug: futbolka
 url: /ru/glossar/t-shirt/
 aliases:
-  - /rus/glossar/t-shirt/
-  - /ru/glossar/t-shirt/
-  - /rus/glossariy/t-shirt/
-  - /rus/glossariy/futbolka/
+  - /glossar/t-shirt/
+  - /glossariy/t-shirt/
+  - /glossariy/futbolka/
 history:
   - Футболка выросла из нательного белья и спортивной одежды, а в XX веке стала самостоятельным предметом повседневного гардероба.
   - Во второй половине XX века футболка стала носителем личных и культурных сообщений благодаря принтам, логотипам и надписям.

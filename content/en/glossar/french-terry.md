@@ -9,8 +9,7 @@ image: "images/glossar/french-terry.png"
 image_alt: "Glossary illustration showing French Terry fabric with a smooth outer surface and looped reverse side"
 url: /en/glossary/french-terry/
 aliases:
-  - /en/glossar/french-terry/
-  - /glossary/french-terry/
+  - /glossar/french-terry/
 tags:
   - French Terry
   - knit fabric

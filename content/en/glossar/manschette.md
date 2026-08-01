@@ -22,8 +22,7 @@ keywords:
 slug: cuff
 url: /en/glossary/cuff/
 aliases:
-  - /en/glossar/manschette/
-  - /glossary/cuff/
+  - /glossar/manschette/
 image_alt: Illustration of a shirt sleeve with a structured cuff and button closure
 relatedTerms:
   - title: Sleeve Length

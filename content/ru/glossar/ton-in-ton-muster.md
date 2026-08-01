@@ -33,8 +33,7 @@ seoTitle: "Узор тон в тон: значение и применение |
 slug: uzor-ton-v-ton
 url: /rus/glossariy/uzor-ton-v-ton/
 aliases:
-  - /rus/glossar/ton-in-ton-muster/
-  - /ru/glossar/ton-in-ton-muster/
+  - /glossar/ton-in-ton-muster/
 lastmod: "2026-07-09"
 knowledge:
   - Тональный узор заметен не столько за счёт сильного цветового контраста, сколько благодаря разнице фактур, блеска, рельефа или плотности ткани.

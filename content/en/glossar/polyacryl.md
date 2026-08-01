@@ -9,8 +9,7 @@ image: "images/glossar/polyacryl.png"
 image_alt: "Soft knitted fabric representing polyacrylic fiber"
 url: /en/glossary/polyacryl/
 aliases:
-  - /en/glossar/polyacryl/
-  - /glossary/polyacryl/
+  - /glossar/polyacryl/
 tags:
   - polyacrylic
   - acrylic fiber

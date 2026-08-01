@@ -9,8 +9,7 @@ image: "images/glossar/halterlose-struempfe.png"
 image_alt: "Illustration of black thigh-high stay-up stockings with decorative top bands"
 url: /en/glossary/halterlose-struempfe/
 aliases:
-  - /en/glossar/halterlose-struempfe/
-  - /glossary/halterlose-struempfe/
+  - /glossar/halterlose-struempfe/
 tags:
   - stay-up stockings
   - hold-up stockings

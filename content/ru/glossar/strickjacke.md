@@ -33,8 +33,7 @@ seoTitle: "Трикотажный жакет | ESKYNA Glossary"
 slug: kardigan-strickjacke
 url: /rus/glossariy/kardigan-strickjacke/
 aliases:
-  - /rus/glossar/strickjacke/
-  - /ru/glossar/strickjacke/
+  - /glossar/strickjacke/
 lastmod: "2026-07-09"
 history:
   - Название «кардиган» связывают с английским графом Кардиганом и вязаным предметом одежды, который стал известен в XIX веке.

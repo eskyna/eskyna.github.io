@@ -9,8 +9,7 @@ image: "images/glossar/barett.png"
 image_alt: "Иллюстрация берета, мягкого округлого головного убора без полей"
 url: /rus/glossariy/barett/
 aliases:
-  - /rus/glossar/barett/
-  - /ru/glossar/barett/
+  - /glossar/barett/
 lastmod: "2026-07-22"
 tags:
   - берет

@@ -5,8 +5,7 @@ description: "Цифровая цветометрия помогает фикс�
 slug: digitale-farbmetrik
 url: /rus/glossariy/digitale-farbmetrik/
 aliases:
-  - /rus/glossar/digitale-farbmetrik/
-  - /ru/glossar/digitale-farbmetrik/
+  - /glossar/digitale-farbmetrik/
 category: Консультация по цвету и цвет
 tags:
   - цифровая-цветометрия

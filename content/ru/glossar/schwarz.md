@@ -40,8 +40,7 @@ seoTitle: "Чёрный в одежде | ESKYNA Glossary"
 slug: chyornyy
 url: /rus/glossariy/chyornyy/
 aliases:
-  - /rus/glossar/schwarz/
-  - /ru/glossar/schwarz/
+  - /glossar/schwarz/
 lastmod: "2026-07-09"
 knowledge:
   - "Чёрный не всегда выглядит одинаково: матовая шерсть, гладкий сатин, деним и кожа создают разные визуальные эффекты даже при одном цвете."

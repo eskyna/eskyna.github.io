@@ -35,9 +35,8 @@ seoTitle: "Шерсть: значение, свойства и применен�
 slug: sherst
 url: /ru/glossar/wolle/
 aliases:
-  - /rus/glossariy/sherst/
-  - /rus/glossar/wolle/
-  - /ru/glossar/wolle/
+  - /glossariy/sherst/
+  - /glossar/wolle/
 lastmod: "2026-07-09"
 history:
   - Шерсть относится к древнейшим волокнам, которые человек использовал для изготовления одежды и текстиля.

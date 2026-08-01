@@ -24,8 +24,7 @@ keywords:
 slug: color-type
 url: /en/glossary/color-type/
 aliases:
-  - /en/glossar/farbtyp/
-  - /glossary/color-type/
+  - /glossar/farbtyp/
 image_alt: Editorial illustration showing color swatches used to identify a personal Color Type
 relatedTerms:
   - title: Color Consultation

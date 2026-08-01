@@ -22,8 +22,7 @@ keywords:
 slug: jeans
 url: /en/glossary/jeans/
 aliases:
-  - /en/glossar/jeans/
-  - /glossary/jeans/
+  - /glossar/jeans/
 image_alt: Blue denim jeans with classic five-pocket construction
 relatedTerms:
   - title: Denim

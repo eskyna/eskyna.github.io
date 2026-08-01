@@ -5,8 +5,7 @@ description: "Бикини с высоким апексом, или High-Apex-Bi
 slug: high-apex-bikini
 url: /rus/glossariy/high-apex-bikini/
 aliases:
-  - /rus/glossar/high-apex-bikini/
-  - /ru/glossar/high-apex-bikini/
+  - /glossar/high-apex-bikini/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - бикини с высоким апексом

@@ -24,8 +24,7 @@ keywords:
 slug: chartreuse-und-limettengruen
 url: /rus/glossariy/chartreuse-und-limettengruen/
 aliases:
-  - /rus/glossar/chartreuse-und-limettengruen/
-  - /ru/glossar/chartreuse-und-limettengruen/
+  - /glossar/chartreuse-und-limettengruen/
 relatedTerms:
   - title: "Зелёный"
     url: /ru/glossar/gruen/

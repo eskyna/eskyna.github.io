@@ -21,8 +21,7 @@ keywords:
 slug: cut
 url: /en/glossary/cut/
 aliases:
-  - /en/glossar/schnitt/
-  - /glossary/cut/
+  - /glossar/schnitt/
 image_alt: Editorial illustration showing garment cut lines, seams, shaping, and volume
 relatedTerms:
   - title: Silhouette

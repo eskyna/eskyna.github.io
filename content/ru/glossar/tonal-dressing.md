@@ -20,8 +20,7 @@ keywords:
 slug: tonal-dressing
 url: /rus/glossariy/tonal-dressing/
 aliases:
-  - /rus/glossar/tonal-dressing/
-  - /ru/glossar/tonal-dressing/
+  - /glossar/tonal-dressing/
 weight: 999
 image: images/glossar/tonal-dressing.png
 image_alt: Образ из бежевых, карамельных и кремовых оттенков одной цветовой семьи

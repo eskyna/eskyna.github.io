@@ -9,8 +9,7 @@ image: "images/glossar/belt-bag.png"
 image_alt: "Поясная сумка Belt Bag на регулируемом ремне"
 url: /rus/glossariy/belt-bag/
 aliases:
-  - /rus/glossar/belt-bag/
-  - /ru/glossar/belt-bag/
+  - /glossar/belt-bag/
 tags:
   - belt-bag
   - поясная-сумка

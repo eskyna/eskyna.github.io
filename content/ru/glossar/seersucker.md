@@ -15,8 +15,7 @@ keywords:
 slug: seersucker
 url: /rus/glossariy/seersucker/
 aliases:
-  - /rus/glossar/seersucker/
-  - /ru/glossar/seersucker/
+  - /glossar/seersucker/
 tags:
   - "сирсакер"
   - "летние ткани"

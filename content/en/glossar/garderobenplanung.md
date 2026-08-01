@@ -23,8 +23,7 @@ keywords:
 slug: wardrobe-planning
 url: /en/glossary/wardrobe-planning/
 aliases:
-  - /en/glossar/garderobenplanung/
-  - /glossary/wardrobe-planning/
+  - /glossar/garderobenplanung/
 image_alt: Editorial illustration of a planned wardrobe with coordinated clothing, shoes, and accessories
 relatedTerms:
   - title: Wardrobe Logic

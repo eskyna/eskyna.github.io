@@ -34,9 +34,8 @@ seoTitle: "Пляжный формальный дресс-код | ESKYNA"
 slug: plyazhnyy-formalnyy-dress-kod
 url: /rus/glossariy/plyazhnyy-formalnyy-dress-kod/
 aliases:
-  - /rus/glossar/beach-formal/
-  - /ru/glossar/beach-formal/
-  - /rus/glossariy/plyazhnyy-formal/
+  - /glossar/beach-formal/
+  - /glossariy/plyazhnyy-formal/
 image_alt: "Нарядный летний образ для формального мероприятия на пляже"
 knowledge:
   - "Пляжный формальный дресс-код требует нарядности, но не предполагает тяжелых городских материалов и слишком строгой офисной подачи."

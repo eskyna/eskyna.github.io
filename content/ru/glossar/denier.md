@@ -8,8 +8,7 @@ image_alt: "Колготки разной плотности: от тонких 
 slug: denier
 url: /rus/glossariy/denier/
 aliases:
-  - /rus/glossar/denier/
-  - /ru/glossar/denier/
+  - /glossar/denier/
 tags:
   - денье
   - den

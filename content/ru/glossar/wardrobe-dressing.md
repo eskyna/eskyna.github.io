@@ -22,8 +22,7 @@ keywords:
 slug: wardrobe-dressing
 url: /rus/glossariy/wardrobe-dressing/
 aliases:
-  - /rus/glossar/wardrobe-dressing/
-  - /ru/glossar/wardrobe-dressing/
+  - /glossar/wardrobe-dressing/
 relatedTerms:
   - title: Логика гардероба
     url: /ru/glossar/garderobenlogik/

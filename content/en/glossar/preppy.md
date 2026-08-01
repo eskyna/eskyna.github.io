@@ -23,8 +23,7 @@ keywords:
 slug: preppy
 url: /en/glossary/preppy/
 aliases:
-  - /en/glossar/preppy/
-  - /glossary/preppy/
+  - /glossar/preppy/
 image_alt: Editorial illustration of a polished preppy outfit with a blazer, collared shirt, knitwear and loafers
 relatedTerms:
   - title: Classic Style

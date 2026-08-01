@@ -35,9 +35,8 @@ seoTitle: "Минималистичная танкетка | ESKYNA"
 slug: minimalistichnaya-tanketka
 url: /ru/glossar/minimalist-wedge/
 aliases:
-  - /rus/glossar/minimalist-wedge/
-  - /ru/glossar/minimalist-wedge/
-  - /rus/glossariy/minimalist-wedge/
+  - /glossar/minimalist-wedge/
+  - /glossariy/minimalist-wedge/
 image_alt: "Минималистичные босоножки на танкетке с лаконичными ремешками"
 knowledge:
   - Танкетка соединяет каблук и подошву в единую клиновидную конструкцию, поэтому опора ощущается стабильнее, чем на тонком каблуке.

@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/strapsen-optik/"
 aliases:
-  - "/en/glossar/strapsen-optik/"
-  - "/glossary/strapsen-optik/"
+  - /glossar/strapsen-optik/
 image: "images/glossar/strapsen-optik.png"
 image_alt: "Sheer black skirt styled with visible garter strap details"
 relatedTerms:

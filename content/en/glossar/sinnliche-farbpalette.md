@@ -5,8 +5,7 @@ description: "A sensual color palette uses deep, soft, or skin-inspired shades t
 slug: sinnliche-farbpalette
 url: /en/glossary/sinnliche-farbpalette/
 aliases:
-  - /en/glossar/sinnliche-farbpalette/
-  - /glossary/sinnliche-farbpalette/
+  - /glossar/sinnliche-farbpalette/
 category: Color Consultation & Color
 subcategory: Color Lexicon
 tags:

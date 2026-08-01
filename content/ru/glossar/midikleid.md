@@ -37,8 +37,7 @@ seoTitle: "Миди-платье: что это, длина и как носит
 slug: midi-plate
 url: /ru/glossar/midikleid/
 aliases:
-  - /rus/glossar/midikleid/
-  - /ru/glossar/midikleid/
+  - /glossar/midikleid/
 lastmod: "2026-07-09"
 knowledge:
   - "Длина миди не имеет единственной фиксированной отметки: она располагается между коленом и щиколоткой, часто в области икры."

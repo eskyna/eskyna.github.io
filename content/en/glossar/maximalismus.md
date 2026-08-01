@@ -14,8 +14,7 @@ keywords:
 slug: maximalismus
 url: /en/glossary/maximalismus/
 aliases:
-  - /en/glossar/maximalismus/
-  - /glossary/maximalismus/
+  - /glossar/maximalismus/
 tags:
   - maximalism
   - maximalist style

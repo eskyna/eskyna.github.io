@@ -4,8 +4,7 @@ term: "Эффект мгновенного гламура"
 slug: instant-glamour-effekt
 url: /rus/glossariy/instant-glamour-effekt/
 aliases:
-  - /rus/glossar/instant-glamour-effekt/
-  - /ru/glossar/instant-glamour-effekt/
+  - /glossar/instant-glamour-effekt/
 description: "Эффект мгновенного гламура это приём, при котором один выразительный предмет быстро превращает простой дневной образ в заметный вечерний комплект."
 category: "Стиль и впечатление"
 tags:

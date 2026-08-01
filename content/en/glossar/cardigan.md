@@ -21,8 +21,7 @@ keywords:
 slug: cardigan
 url: /en/glossary/cardigan/
 aliases:
-  - /en/glossar/cardigan/
-  - /glossary/cardigan/
+  - /glossar/cardigan/
 image_alt: Knitted cardigan with a button front styled as a light layering piece
 relatedTerms:
   - title: Knitwear

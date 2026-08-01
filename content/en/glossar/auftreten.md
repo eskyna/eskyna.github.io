@@ -20,8 +20,7 @@ keywords:
 slug: appearance
 url: /en/glossary/appearance/
 aliases:
-  - /en/glossar/auftreten/
-  - /glossary/appearance/
+  - /glossar/auftreten/
 image_alt: Editorial glossary illustration showing a polished, coherent personal appearance
 relatedTerms:
   - title: Presence

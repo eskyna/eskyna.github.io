@@ -22,8 +22,7 @@ keywords:
 slug: bodycon
 url: /en/glossary/bodycon/
 aliases:
-  - /en/glossar/bodycon/
-  - /glossary/bodycon/
+  - /glossar/bodycon/
 image_alt: Editorial glossary illustration showing the close-fitting bodycon silhouette
 relatedTerms:
   - title: Bodycon Dress

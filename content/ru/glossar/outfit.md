@@ -34,8 +34,7 @@ seoTitle: "Комплект | Style & Image ESKYNA"
 slug: obraz-outfit
 url: /rus/glossariy/obraz-outfit/
 aliases:
-  - /rus/glossar/outfit/
-  - /ru/glossar/outfit/
+  - /glossar/outfit/
 lastmod: "2026-07-09"
 knowledge:
   - "Комплект оценивают целиком, а не по качеству отдельных вещей: удачная вещь может не работать в конкретном сочетании."

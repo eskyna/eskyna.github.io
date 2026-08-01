@@ -21,8 +21,7 @@ keywords:
 slug: care-label
 url: /en/glossary/care-label/
 aliases:
-  - /en/glossar/pflegeetikett/
-  - /glossary/care-label/
+  - /glossar/pflegeetikett/
 image_alt: Care label sewn into a garment, showing washing and ironing symbols
 relatedTerms:
   - title: Care

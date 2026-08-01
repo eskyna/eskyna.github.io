@@ -22,8 +22,7 @@ keywords:
 slug: balloon-hem
 url: /en/glossary/balloon-hem/
 aliases:
-  - /en/glossar/ballonsaum/
-  - /glossary/balloon-hem/
+  - /glossar/ballonsaum/
 relatedTerms:
   - title: Bubble Skirt and Balloon Skirt
     url: /en/glossar/bubble-skirt-ballonrock/

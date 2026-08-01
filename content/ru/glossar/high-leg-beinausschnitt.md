@@ -5,8 +5,7 @@ description: "Высокий вырез по бедру, или High-Leg-Beinaus
 slug: high-leg-beinausschnitt
 url: /rus/glossariy/high-leg-beinausschnitt/
 aliases:
-  - /rus/glossar/high-leg-beinausschnitt/
-  - /ru/glossar/high-leg-beinausschnitt/
+  - /glossar/high-leg-beinausschnitt/
 category: "Крой, пропорции и посадка"
 tags:
   - "высокий вырез по бедру"

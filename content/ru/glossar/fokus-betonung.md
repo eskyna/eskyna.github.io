@@ -5,8 +5,7 @@ description: "Фокусное акцентирование это приём в
 slug: fokus-betonung
 url: /rus/glossariy/fokus-betonung/
 aliases:
-  - /rus/glossar/fokus-betonung/
-  - /ru/glossar/fokus-betonung/
+  - /glossar/fokus-betonung/
 category: Стиль и впечатление
 tags:
   - фокусное-акцентирование

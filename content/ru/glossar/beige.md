@@ -40,8 +40,7 @@ seoTitle: "Бежевый цвет | ESKYNA Glossary"
 slug: bezhevyy
 url: /rus/glossariy/bezhevyy/
 aliases:
-  - /rus/glossar/beige/
-  - /ru/glossar/beige/
+  - /glossar/beige/
 lastmod: "2026-07-09"
 knowledge:
   - "Бежевый не является одним строго заданным цветом: его оттенки могут быть тёплыми, холодными или нейтральными."

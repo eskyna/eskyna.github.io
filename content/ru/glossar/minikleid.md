@@ -38,8 +38,7 @@ seoTitle: "Мини-платье: что это, длина и стилизац�
 slug: mini-plate
 url: /rus/glossariy/mini-plate/
 aliases:
-  - /rus/glossar/minikleid/
-  - /ru/glossar/minikleid/
+  - /glossar/minikleid/
 lastmod: "2026-07-09"
 history:
   - Термин «мини» прочно вошёл в модный словарь в 1960-е годы, когда короткие юбки и платья стали важной частью молодёжной моды.

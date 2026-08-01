@@ -20,8 +20,7 @@ keywords:
 slug: modern
 url: /en/glossary/modern/
 aliases:
-  - /en/glossar/modern/
-  - /glossary/modern/
+  - /glossar/modern/
 image_alt: Editorial illustration showing a clean, contemporary modern outfit with balanced proportions
 relatedTerms:
   - title: Personal Style

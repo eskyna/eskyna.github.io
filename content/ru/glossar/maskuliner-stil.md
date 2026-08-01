@@ -34,8 +34,7 @@ seoTitle: "Маскулинный стиль: значение и примене
 slug: maskulinnyy-stil
 url: /rus/glossariy/maskulinnyy-stil/
 aliases:
-  - /rus/glossar/maskuliner-stil/
-  - /ru/glossar/maskuliner-stil/
+  - /glossar/maskuliner-stil/
 lastmod: "2026-07-09"
 history:
   - "Маскулинный стиль в моде опирается на элементы традиционного мужского гардероба: костюмный жакет, рубашку, прямые брюки, жилет и строгую обувь."

@@ -14,8 +14,7 @@ keywords:
 slug: ombre
 url: /en/glossary/ombre/
 aliases:
-  - /en/glossar/ombre/
-  - /glossary/ombre/
+  - /glossar/ombre/
 relatedTerms:
   - title: "Tie-Dye"
     url: /en/glossar/tie-dye/

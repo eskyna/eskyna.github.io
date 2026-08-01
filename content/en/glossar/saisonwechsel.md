@@ -21,8 +21,7 @@ keywords:
 slug: seasonal-change
 url: /en/glossary/seasonal-change/
 aliases:
-  - /en/glossar/saisonwechsel/
-  - /glossary/seasonal-change/
+  - /glossar/saisonwechsel/
 image_alt: Editorial illustration of a wardrobe transition between seasons with layered clothing
 relatedTerms:
   - title: Transitional Wardrobe

@@ -4,8 +4,7 @@ term: Деликатный бельевой акцент
 slug: subtiler-lingerie-blitzer
 url: /rus/glossariy/subtiler-lingerie-blitzer/
 aliases:
-  - /rus/glossar/subtiler-lingerie-blitzer/
-  - /ru/glossar/subtiler-lingerie-blitzer/
+  - /glossar/subtiler-lingerie-blitzer/
 description: "Деликатный бельевой акцент это намеренно заметный, но сдержанный фрагмент красивого белья, например тонкого кружева у выреза или на открытой спине. Приём добавляет образу чувственность и глубину, сохраняя аккуратность и уместность."
 category: Белье, бюстгальтеры и стилистические помощники
 tags:

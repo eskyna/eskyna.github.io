@@ -21,8 +21,7 @@ keywords:
 slug: activation
 url: /en/glossary/activation/
 aliases:
-  - /en/glossar/aktivierung/
-  - /glossary/activation/
+  - /glossar/aktivierung/
 image_alt: Editorial glossary illustration showing activation as a deliberate styling choice within an outfit
 relatedTerms:
   - title: Personal Style

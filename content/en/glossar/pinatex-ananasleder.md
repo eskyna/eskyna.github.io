@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/pinatex-ananasleder/
 aliases:
-  - /en/glossar/pinatex-ananasleder/
-  - /glossary/pinatex-ananasleder/
+  - /glossar/pinatex-ananasleder/
 image: images/glossar/pinatex-ananasleder.png
 image_alt: "Close view of a textured Piñatex material surface in a warm natural tone"
 relatedTerms:

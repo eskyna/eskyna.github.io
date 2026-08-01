@@ -33,8 +33,7 @@ seoTitle: "Узор в горошек | ESKYNA Glossary"
 slug: uzor-v-goroshek
 url: /rus/glossariy/uzor-v-goroshek/
 aliases:
-  - /rus/glossar/punkte/
-  - /ru/glossar/punkte/
+  - /glossar/punkte/
 lastmod: "2026-07-09"
 knowledge:
   - "Визуальный масштаб горошка зависит не только от диаметра точек, но и от расстояния между ними, контраста с фоном и площади принта в образе."

@@ -22,8 +22,7 @@ keywords:
 slug: longevity
 url: /en/glossary/longevity/
 aliases:
-  - /en/glossar/langlebigkeit/
-  - /glossary/longevity/
+  - /glossar/langlebigkeit/
 image_alt: Editorial illustration representing a versatile, long-lasting wardrobe
 relatedTerms:
   - title: Slow Fashion

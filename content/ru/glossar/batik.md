@@ -33,8 +33,7 @@ seoTitle: "Батик: что это за техника и как носить 
 slug: batik
 url: /rus/glossariy/batik/
 aliases:
-  - /rus/glossar/batik/
-  - /ru/glossar/batik/
+  - /glossar/batik/
 lastmod: "2026-07-09"
 history:
   - Техники резервного окрашивания с использованием защитного покрытия известны в разных культурах мира.

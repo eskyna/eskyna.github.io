@@ -36,8 +36,7 @@ seoTitle: "Присутствие: значение и применение | Г
 slug: prisutstvie
 url: /rus/glossariy/prisutstvie/
 aliases:
-  - /rus/glossar/praesenz/
-  - /ru/glossar/praesenz/
+  - /glossar/praesenz/
 image_alt: "Иллюстрация ESKYNA о присутствии, уверенной подаче и влиянии образа на впечатление"
 lastmod: "2026-07-09"
 knowledge:

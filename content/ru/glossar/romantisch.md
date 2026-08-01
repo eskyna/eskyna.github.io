@@ -36,8 +36,7 @@ seoTitle: "Романтический стиль | ESKYNA Glossary"
 slug: romanticheskiy-stil
 url: /rus/glossariy/romanticheskiy-stil/
 aliases:
-  - /rus/glossar/romantisch/
-  - /ru/glossar/romantisch/
+  - /glossar/romantisch/
 lastmod: "2026-07-09"
 history:
   - Романтическое направление в моде обращается к историческим представлениям о мягкости, декоративности и эмоциональной выразительности.

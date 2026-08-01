@@ -34,9 +34,9 @@ seoTitle: "Тон в тон | Style & Image ESKYNA"
 slug: ton-in-ton
 url: /ru/glossar/ton-in-ton/
 aliases:
-  - /rus/glossar/ton-in-ton/
-  - /rus/glossariy/ton-v-ton/
-  - /ru/glossar/ton-v-ton/
+  - /glossar/ton-in-ton/
+  - /glossariy/ton-v-ton/
+  - /glossar/ton-v-ton/
 lastmod: "2026-07-09"
 knowledge:
   - "Тон в тон строится на близости оттенков, но допускает различия по светлоте, насыщенности и фактуре."

@@ -9,8 +9,7 @@ image_alt: Glossary illustration of a trumpet sleeve, fitted at the upper arm an
 slug: trompetenaermel
 url: /en/glossary/trompetenaermel/
 aliases:
-  - /en/glossar/trompetenaermel/
-  - /glossary/trompetenaermel/
+  - /glossar/trompetenaermel/
 tags:
   - trumpet sleeve
   - flared sleeve

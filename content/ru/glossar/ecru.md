@@ -23,8 +23,7 @@ keywords:
 slug: ecru
 url: /rus/glossariy/ecru/
 aliases:
-  - /rus/glossar/ecru/
-  - /ru/glossar/ecru/
+  - /glossar/ecru/
 lastmod: "2026-07-18"
 relatedTerms:
   - title: "Молочно-белый"

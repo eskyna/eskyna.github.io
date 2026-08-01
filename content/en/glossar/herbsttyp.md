@@ -21,8 +21,7 @@ keywords:
 slug: autumn-color-type
 url: /en/glossary/autumn-color-type/
 aliases:
-  - /en/glossar/herbsttyp/
-  - /glossary/autumn-color-type/
+  - /glossar/herbsttyp/
 image_alt: Editorial glossary illustration showing warm, muted autumn color swatches in olive, rust, brown, and deep teal
 relatedTerms:
   - title: Color Consultation

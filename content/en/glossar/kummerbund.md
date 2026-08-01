@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/kummerbund/
 aliases:
-  - /en/glossar/kummerbund/
-  - /glossary/kummerbund/
+  - /glossar/kummerbund/
 image: images/glossar/kummerbund.png
 image_alt: Black pleated cummerbund worn at the waist with a tuxedo
 relatedTerms:

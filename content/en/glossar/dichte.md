@@ -22,8 +22,7 @@ keywords:
 slug: fabric-density
 url: /en/glossary/fabric-density/
 aliases:
-  - /en/glossar/dichte/
-  - /glossary/fabric-density/
+  - /glossar/dichte/
 image_alt: Close-up editorial illustration showing tightly and loosely constructed fabric surfaces
 relatedTerms:
   - title: Fabric Weight

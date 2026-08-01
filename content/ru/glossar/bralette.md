@@ -9,8 +9,7 @@ image: "images/glossar/bralette.png"
 image_alt: "Иллюстрация мягкого бралетта с тонкими бретелями"
 url: /rus/glossariy/bralette/
 aliases:
-  - /rus/glossar/bralette/
-  - /ru/glossar/bralette/
+  - /glossar/bralette/
 tags:
   - бралетт
   - белье

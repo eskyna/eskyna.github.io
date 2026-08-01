@@ -14,8 +14,7 @@ keywords:
 slug: laufsteg-runway
 url: /rus/glossariy/laufsteg-runway/
 aliases:
-  - /rus/glossar/laufsteg-runway/
-  - /ru/glossar/laufsteg-runway/
+  - /glossar/laufsteg-runway/
 relatedTerms:
   - title: "Неделя моды"
     url: /ru/glossar/fashion-week/

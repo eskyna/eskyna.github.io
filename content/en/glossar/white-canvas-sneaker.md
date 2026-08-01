@@ -22,8 +22,7 @@ keywords:
 slug: white-canvas-sneaker
 url: /en/glossary/white-canvas-sneaker/
 aliases:
-  - /en/glossar/white-canvas-sneaker/
-  - /glossary/white-canvas-sneaker/
+  - /glossar/white-canvas-sneaker/
 image_alt: Pair of clean white canvas sneakers with white rubber soles
 relatedTerms:
   - title: Sneaker

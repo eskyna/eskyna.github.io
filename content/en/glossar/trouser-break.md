@@ -19,8 +19,7 @@ keywords:
 slug: trouser-break
 url: /en/glossary/trouser-break/
 aliases:
-  - /en/glossar/trouser-break/
-  - /glossary/trouser-break/
+  - /glossar/trouser-break/
 weight: 999
 image: images/glossar/trouser-break.png
 image_alt: Tailored trousers meeting leather shoes with a slight break at the hem

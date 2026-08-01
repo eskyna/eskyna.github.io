@@ -22,8 +22,7 @@ keywords:
 slug: petite-styling
 url: /en/glossary/petite-styling/
 aliases:
-  - /en/glossar/petite-styling/
-  - /glossary/petite-styling/
+  - /glossar/petite-styling/
 image_alt: Editorial illustration showing balanced outfit proportions for petite styling
 relatedTerms:
   - title: Proportion

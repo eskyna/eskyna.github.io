@@ -35,8 +35,7 @@ seoTitle: "Обработка подола | ESKYNA Glossary"
 slug: obrabotka-podola
 url: /rus/glossariy/obrabotka-podola/
 aliases:
-  - /rus/glossar/saumverarbeitung/
-  - /ru/glossar/saumverarbeitung/
+  - /glossar/saumverarbeitung/
 lastmod: "2026-07-09"
 history:
   - Обработка нижнего края издавна была необходима, чтобы ткань меньше осыпалась и изделие дольше сохраняло форму.

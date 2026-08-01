@@ -21,8 +21,7 @@ keywords:
 slug: button-quality
 url: /en/glossary/button-quality/
 aliases:
-  - /en/glossar/knopfqualitaet/
-  - /glossary/button-quality/
+  - /glossar/knopfqualitaet/
 image_alt: Close view of garment buttons showing material, finish, stitching, and buttonholes
 relatedTerms:
   - title: Material Quality

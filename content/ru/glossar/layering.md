@@ -39,9 +39,8 @@ seoTitle: "Многослойность в одежде | ESKYNA"
 slug: mnogosloynost
 url: /ru/glossar/layering/
 aliases:
-  - /rus/glossar/layering/
-  - /ru/glossar/layering/
-  - /rus/glossariy/mnogosloynost/
+  - /glossar/layering/
+  - /glossariy/mnogosloynost/
 lastmod: "2026-07-09"
 history:
   - "Многослойная одежда исторически связана с практическими потребностями: защитой от холода, ветра и переменчивой погоды."

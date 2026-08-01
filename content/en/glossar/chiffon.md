@@ -23,8 +23,7 @@ keywords:
 slug: chiffon
 url: /en/glossary/chiffon/
 aliases:
-  - /en/glossar/chiffon/
-  - /glossary/chiffon/
+  - /glossar/chiffon/
 image_alt: Lightweight sheer chiffon fabric with a softly flowing drape
 relatedTerms:
   - title: Transparency

@@ -20,8 +20,7 @@ image_alt: Illustration of a soft flat polo collar with a short button placket
 slug: polokragen
 url: /en/glossary/polokragen/
 aliases:
-  - /en/glossar/polokragen/
-  - /glossary/polokragen/
+  - /glossar/polokragen/
 relatedTerms:
   - title: Poloshirt
     url: /en/glossar/poloshirt/

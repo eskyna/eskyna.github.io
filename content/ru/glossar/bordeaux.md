@@ -35,9 +35,8 @@ seoTitle: "Бордовый цвет | ESKYNA Glossary"
 slug: bordovyy
 url: /ru/glossar/bordeaux/
 aliases:
-  - /rus/glossar/bordeaux/
-  - /ru/glossar/bordeaux/
-  - /rus/glossariy/bordovyy/
+  - /glossar/bordeaux/
+  - /glossariy/bordovyy/
 lastmod: "2026-07-09"
 history:
   - Название «бордовый» связано с французским регионом Бордо и цветом красного вина.

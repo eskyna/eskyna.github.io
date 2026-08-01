@@ -19,8 +19,7 @@ keywords:
 slug: skort
 url: /en/glossary/skort/
 aliases:
-  - /en/glossar/skort/
-  - /glossary/skort/
+  - /glossar/skort/
 relatedTerms:
   - title: "Skirt"
     url: /en/glossar/rock/

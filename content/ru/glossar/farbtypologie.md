@@ -36,9 +36,8 @@ seoTitle: "Типология цветов: что это и как примен
 slug: tipologiya-tsvetov
 url: /ru/glossar/farbtypologie/
 aliases:
-  - /rus/glossar/farbtypologie/
-  - /ru/glossar/farbtypologie/
-  - /rus/glossariy/tipologiya-tsvetov/
+  - /glossar/farbtypologie/
+  - /glossariy/tipologiya-tsvetov/
 image_alt: "Схема типологии цветов с различиями по температуре, светлоте, насыщенности и контрасту"
 lastmod: "2026-07-09"
 history:

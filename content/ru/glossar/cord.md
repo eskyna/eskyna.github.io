@@ -34,8 +34,7 @@ seoTitle: "Корд: что это за вельветовая ткань и к�
 slug: kord
 url: /rus/glossariy/kord/
 aliases:
-  - /rus/glossar/cord/
-  - /ru/glossar/cord/
+  - /glossar/cord/
 lastmod: "2026-07-09"
 knowledge:
   - Корд является разновидностью вельветовой ткани с ворсом, который образует параллельные продольные рубчики.

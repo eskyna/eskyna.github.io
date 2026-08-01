@@ -34,8 +34,7 @@ seoTitle: "Обрамление лица | ESKYNA Glossary"
 slug: obramlenie-litsa
 url: /rus/glossariy/obramlenie-litsa/
 aliases:
-  - /rus/glossar/gesichtsrahmung/
-  - /ru/glossar/gesichtsrahmung/
+  - /glossar/gesichtsrahmung/
 lastmod: "2026-07-09"
 knowledge:
   - "Зона у лица воспринимается одной из первых, поэтому оттенок верха, форма выреза и аксессуары заметно влияют на общее впечатление."

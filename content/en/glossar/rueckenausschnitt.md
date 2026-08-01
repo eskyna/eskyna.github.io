@@ -9,8 +9,7 @@ image: "images/glossar/rueckenausschnitt.png"
 image_alt: "Illustration of a dress with an open back neckline"
 url: /en/glossary/rueckenausschnitt/
 aliases:
-  - /en/glossar/rueckenausschnitt/
-  - /glossary/rueckenausschnitt/
+  - /glossar/rueckenausschnitt/
 tags:
   - open back neckline
   - backless dress

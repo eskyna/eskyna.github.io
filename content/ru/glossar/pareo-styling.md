@@ -5,8 +5,7 @@ description: "Стилизация с парео это способы завя�
 slug: pareo-styling
 url: /rus/glossariy/pareo-styling/
 aliases:
-  - /rus/glossar/pareo-styling/
-  - /ru/glossar/pareo-styling/
+  - /glossar/pareo-styling/
 category: Аксессуары
 tags:
   - парео

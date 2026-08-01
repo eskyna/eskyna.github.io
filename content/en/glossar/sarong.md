@@ -15,8 +15,7 @@ keywords:
 slug: sarong
 url: /en/glossary/sarong/
 aliases:
-  - /en/glossar/sarong/
-  - /glossary/sarong/
+  - /glossar/sarong/
 relatedTerms:
   - title: "Kaftan"
     url: /en/glossar/kaftan/

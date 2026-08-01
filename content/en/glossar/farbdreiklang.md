@@ -9,8 +9,7 @@ image: "images/glossar/farbdreiklang.png"
 image_alt: "Glossary illustration showing a triadic color scheme on a color wheel"
 url: /en/glossary/farbdreiklang/
 aliases:
-  - /en/glossar/farbdreiklang/
-  - /glossary/farbdreiklang/
+  - /glossar/farbdreiklang/
 tags:
   - color triad
   - triadic color scheme

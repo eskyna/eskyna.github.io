@@ -22,8 +22,7 @@ keywords:
 slug: speaker-outfit
 url: /en/glossary/speaker-outfit/
 aliases:
-  - /en/glossar/speaker-outfit/
-  - /glossary/speaker-outfit/
+  - /glossar/speaker-outfit/
 image_alt: Professional speaker wearing a polished, comfortable outfit for a presentation
 relatedTerms:
   - title: Executive Presence

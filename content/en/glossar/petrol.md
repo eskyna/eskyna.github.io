@@ -23,8 +23,7 @@ keywords:
 slug: petrol-blue
 url: /en/glossary/petrol-blue/
 aliases:
-  - /en/glossar/petrol/
-  - /glossary/petrol-blue/
+  - /glossar/petrol/
 image_alt: Deep petrol blue swatch with a muted blue-green tone
 relatedTerms:
   - title: Navy

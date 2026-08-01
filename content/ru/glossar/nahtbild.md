@@ -32,8 +32,7 @@ seoTitle: "Качество швов: как оценить пошив одеж�
 slug: kachestvo-shvov
 url: /rus/glossariy/kachestvo-shvov/
 aliases:
-  - /rus/glossar/nahtbild/
-  - /ru/glossar/nahtbild/
+  - /glossar/nahtbild/
 lastmod: "2026-07-09"
 knowledge:
   - Ровная строчка, отсутствие пропусков и аккуратные закрепки обычно говорят о внимательном выполнении шва.

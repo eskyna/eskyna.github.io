@@ -20,8 +20,7 @@ keywords:
 slug: combat-boots
 url: /en/glossary/combat-boots/
 aliases:
-  - /en/glossar/combat-boots/
-  - /glossary/combat-boots/
+  - /glossar/combat-boots/
 image_alt: Black lace up combat boots with sturdy soles
 relatedTerms:
   - title: Biker Boots

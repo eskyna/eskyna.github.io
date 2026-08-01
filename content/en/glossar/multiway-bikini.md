@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/multiway-bikini/
 aliases:
-  - /en/glossar/multiway-bikini/
-  - /glossary/multiway-bikini/
+  - /glossar/multiway-bikini/
 image: images/glossar/multiway-bikini.png
 image_alt: Multiway bikini top with straps tied in a halterneck style
 relatedTerms:

@@ -34,8 +34,7 @@ seoTitle: "Горизонтальные полосы в одежде | ESKYNA"
 slug: gorizontalnye-polosy
 url: /rus/glossariy/gorizontalnye-polosy/
 aliases:
-  - /rus/glossar/querstreifen/
-  - /ru/glossar/querstreifen/
+  - /glossar/querstreifen/
 lastmod: "2026-07-09"
 history:
   - Полосатые ткани и одежда встречались в разных культурах и эпохах, а их значение менялось в зависимости от контекста, материала и назначения вещи.

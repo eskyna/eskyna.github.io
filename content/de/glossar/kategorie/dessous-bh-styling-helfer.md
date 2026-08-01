@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Dessous, BH & Styling-Helfer"
 url: "/glossar/kategorie/dessous-bh-styling-helfer/"
+aliases:
+  - /glossar/dessous-bh-styling-helfer/
 seoTitle: "Dessous, BH & Styling-Helfer | ESKYNA"
 relatedTerms:
   - "/glossar/dessous/"

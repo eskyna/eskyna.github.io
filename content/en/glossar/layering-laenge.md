@@ -21,8 +21,7 @@ keywords:
 slug: layering-length
 url: /en/glossary/layering-length/
 aliases:
-  - /en/glossar/layering-laenge/
-  - /glossary/layering-length/
+  - /glossar/layering-laenge/
 image_alt: Layered outfit showing different visible garment lengths in a balanced silhouette
 relatedTerms:
   - title: Layering

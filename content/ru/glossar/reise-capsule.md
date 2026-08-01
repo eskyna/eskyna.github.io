@@ -35,9 +35,8 @@ seoTitle: "Капсула для путешествий | ESKYNA"
 slug: kapsula-dlya-puteshestviy
 url: /rus/glossariy/kapsula-dlya-puteshestviy/
 aliases:
-  - /rus/glossar/reise-capsule/
-  - /ru/glossar/reise-capsule/
-  - /rus/glossariy/travel-capsule/
+  - /glossar/reise-capsule/
+  - /glossariy/travel-capsule/
 lastmod: "2026-07-09"
 knowledge:
   - Капсула для путешествий строится не вокруг фиксированного количества вещей, а вокруг маршрута, погоды, длительности поездки и реальных поводов.

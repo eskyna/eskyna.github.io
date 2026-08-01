@@ -22,8 +22,7 @@ keywords:
 slug: grainline
 url: /en/glossary/grainline/
 aliases:
-  - /en/glossar/fadenlauf/
-  - /glossary/grainline/
+  - /glossar/fadenlauf/
 image_alt: Editorial illustration showing the straight grain, cross grain, and bias direction in woven fabric
 relatedTerms:
   - title: Oblique cut/bias cut

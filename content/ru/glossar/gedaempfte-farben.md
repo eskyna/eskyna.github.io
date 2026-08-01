@@ -35,8 +35,7 @@ seoTitle: "Приглушенные цвета: что это и как носи
 slug: priglushennye-tsveta
 url: /rus/glossariy/priglushennye-tsveta/
 aliases:
-  - /rus/glossar/gedaempfte-farben/
-  - /ru/glossar/gedaempfte-farben/
+  - /glossar/gedaempfte-farben/
 image_alt: "Палитра мягких приглушенных оттенков для одежды и аксессуаров"
 lastmod: "2026-07-09"
 knowledge:

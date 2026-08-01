@@ -22,8 +22,7 @@ keywords:
 slug: organza
 url: /en/glossary/organza/
 aliases:
-  - /en/glossar/organza/
-  - /glossary/organza/
+  - /glossar/organza/
 image_alt: Sheer ivory organza fabric with a crisp, lightweight surface
 relatedTerms:
   - title: Transparency

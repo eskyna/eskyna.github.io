@@ -34,8 +34,7 @@ seoTitle: "Ваша визуальная подпись | ESKYNA"
 slug: vasha-vizualnaya-podpis
 url: /ru/glossar/your-signature/
 aliases:
-  - /rus/glossar/your-signature/
-  - /ru/glossar/your-signature/
+  - /glossar/your-signature/
 lastmod: "2026-07-09"
 knowledge:
   - "Визуальная подпись не требует одного неизменного образа: узнаваемость может строиться на повторении нескольких связанных кодов."

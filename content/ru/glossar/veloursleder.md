@@ -34,8 +34,7 @@ seoTitle: "Велюр: значение, свойства и применени�
 slug: velyur
 url: /ru/glossar/veloursleder/
 aliases:
-  - /rus/glossar/veloursleder/
-  - /ru/glossar/veloursleder/
+  - /glossar/veloursleder/
 lastmod: "2026-07-09"
 knowledge:
   - Велюровая поверхность поглощает свет сильнее, чем гладкая кожа, поэтому материал выглядит матовым, глубоким и мягким.

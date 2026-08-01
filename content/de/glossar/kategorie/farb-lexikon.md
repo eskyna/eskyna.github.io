@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Farb-Lexikon"
 url: "/glossar/kategorie/farb-lexikon/"
+aliases:
+  - /glossar/farb-lexikon/
 seoTitle: "Farb-Lexikon: Farbtöne verstehen und kombinieren | ESKYNA"
 tags:
   - Farb-Lexikon

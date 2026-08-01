@@ -18,8 +18,7 @@ keywords:
 slug: oeko-tex-standard-100
 url: /rus/glossariy/oeko-tex-standard-100/
 aliases:
-  - /rus/glossar/oeko-tex-standard-100/
-  - /ru/glossar/oeko-tex-standard-100/
+  - /glossar/oeko-tex-standard-100/
 weight: 999
 image: images/glossar/oeko-tex-standard-100.png
 image_alt: "Этикетка STANDARD 100 by OEKO-TEX® на текстильном изделии"

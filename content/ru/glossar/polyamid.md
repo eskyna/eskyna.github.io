@@ -32,8 +32,7 @@ seoTitle: "Полиамид | Style & Image ESKYNA"
 slug: poliamid
 url: /rus/glossariy/poliamid/
 aliases:
-  - /rus/glossar/polyamid/
-  - /ru/glossar/polyamid/
+  - /glossar/polyamid/
 lastmod: "2026-07-09"
 history:
   - "Полиамиды получили промышленное распространение в XX веке как группа синтетических материалов."

@@ -5,8 +5,7 @@ description: "See-through-эффект это осознанная стилиз�
 slug: "see-through-effekt"
 url: "/rus/glossariy/see-through-effekt/"
 aliases:
-  - "/rus/glossar/see-through-effekt/"
-  - "/ru/glossar/see-through-effekt/"
+  - /glossar/see-through-effekt/
 category: "Стиль и впечатление"
 tags:
   - "see-through-эффект"

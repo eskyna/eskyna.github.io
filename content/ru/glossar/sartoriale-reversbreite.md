@@ -4,8 +4,7 @@ term: Ширина лацкана в сарториальных пропорци
 slug: sartoriale-reversbreite
 url: /rus/glossariy/sartoriale-reversbreite/
 aliases:
-  - /rus/glossar/sartoriale-reversbreite/
-  - /ru/glossar/sartoriale-reversbreite/
+  - /glossar/sartoriale-reversbreite/
 description: "Ширина лацкана в сарториальных пропорциях показывает, насколько ширина лацканов пиджака соотносится с плечами, грудной клеткой и общим масштабом фигуры. Этот параметр влияет на баланс верхней части силуэта и впечатление от костюма."
 category: Крой, пропорции и посадка
 tags:

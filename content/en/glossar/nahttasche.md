@@ -9,8 +9,7 @@ image_alt: Glossary illustration of an in-seam pocket integrated into the side s
 slug: nahttasche
 url: /en/glossary/nahttasche/
 aliases:
-  - /en/glossar/nahttasche/
-  - /glossary/nahttasche/
+  - /glossar/nahttasche/
 tags:
   - in-seam pocket
   - pockets

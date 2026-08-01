@@ -9,8 +9,7 @@ image: "images/glossar/interlock.png"
 image_alt: "Схематичное изображение плотного гладкого трикотажа интерлок"
 url: /rus/glossariy/interlock/
 aliases:
-  - /rus/glossar/interlock/
-  - /ru/glossar/interlock/
+  - /glossar/interlock/
 tags:
   - интерлок
   - трикотаж

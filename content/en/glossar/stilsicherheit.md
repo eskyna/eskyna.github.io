@@ -21,8 +21,7 @@ keywords:
 slug: style-confidence
 url: /en/glossary/style-confidence/
 aliases:
-  - /en/glossar/stilsicherheit/
-  - /glossary/style-confidence/
+  - /glossar/stilsicherheit/
 image_alt: Editorial illustration representing calm and confident personal style decisions
 relatedTerms:
   - title: Style Clarity

@@ -33,8 +33,7 @@ seoTitle: "Воздухопроницаемость ткани | ESKYNA"
 slug: vozduhopronitsaemost
 url: /rus/glossariy/vozduhopronitsaemost/
 aliases:
-  - /rus/glossar/atmungsaktivitaet/
-  - /ru/glossar/atmungsaktivitaet/
+  - /glossar/atmungsaktivitaet/
 lastmod: "2026-07-09"
 knowledge:
   - Воздухопроницаемость зависит не только от состава волокна, но и от плотности, переплетения, толщины и обработки ткани.

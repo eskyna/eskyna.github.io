@@ -15,8 +15,7 @@ keywords:
 slug: trauerbekleidung
 url: /en/glossary/trauerbekleidung/
 aliases:
-  - /en/glossar/trauerbekleidung/
-  - /glossary/trauerbekleidung/
+  - /glossar/trauerbekleidung/
 relatedTerms:
   - title: "Dress Code"
     url: /en/glossar/dresscode/

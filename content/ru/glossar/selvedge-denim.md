@@ -9,8 +9,7 @@ image: "images/glossar/selvedge-denim.png"
 image_alt: "Селвидж-деним с видимой плотной кромкой ткани на отвороте джинсов"
 url: /rus/glossariy/selvedge-denim/
 aliases:
-  - /rus/glossar/selvedge-denim/
-  - /ru/glossar/selvedge-denim/
+  - /glossar/selvedge-denim/
 tags:
   - selvedge-denim
   - деним

@@ -23,8 +23,7 @@ keywords:
 slug: buttergelb-und-vanillegelb
 url: /en/glossary/buttergelb-und-vanillegelb/
 aliases:
-  - /en/glossar/buttergelb-und-vanillegelb/
-  - /glossary/buttergelb-und-vanillegelb/
+  - /glossar/buttergelb-und-vanillegelb/
 relatedTerms:
   - title: "Yellow"
     url: /en/glossar/gelb/

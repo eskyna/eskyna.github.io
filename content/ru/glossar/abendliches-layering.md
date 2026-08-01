@@ -5,8 +5,7 @@ description: "Вечерняя многослойность помогает с�
 slug: abendliches-layering
 url: /rus/glossariy/abendliches-layering/
 aliases:
-  - /rus/glossar/abendliches-layering/
-  - /ru/glossar/abendliches-layering/
+  - /glossar/abendliches-layering/
 category: Гардероб и повседневность
 subcategory: Дресс-коды и поводы
 tags:

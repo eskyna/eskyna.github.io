@@ -18,8 +18,8 @@ weight: 999
 image: "images/glossar/paillettenstoff.png"
 image_alt: "Close-up of black fabric covered with reflective silver sequins"
 aliases:
-  - "/en/glossar/paillettenstoff/"
-  - "/glossary/paillettenstoff/"
+  - /glossar/paillettenstoff/
+  - /glossary/paillettenstoff/
 relatedTerms:
   - title: "Metallic"
     url: "/en/glossar/metallic/"

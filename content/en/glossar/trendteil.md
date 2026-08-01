@@ -20,8 +20,7 @@ keywords:
 slug: trend-piece
 url: /en/glossary/trend-piece/
 aliases:
-  - /en/glossar/trendteil/
-  - /glossary/trend-piece/
+  - /glossar/trendteil/
 image_alt: Editorial illustration showing a contemporary fashion trend piece styled with classic wardrobe basics
 relatedTerms:
   - title: Trend cycle

@@ -22,8 +22,7 @@ keywords:
 slug: boucle
 url: /en/glossary/boucle/
 aliases:
-  - /en/glossar/boucle/
-  - /glossary/boucle/
+  - /glossar/boucle/
 image_alt: Close-up illustration of cream bouclé fabric with a softly looped textured surface
 relatedTerms:
   - title: Texture

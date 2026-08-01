@@ -4,8 +4,7 @@ term: "Loden"
 description: "Loden is a dense, fulled wool fabric traditionally associated with the Alpine region. It is valued for its natural wind resistance, water repellency, warmth, and long-lasting performance in coats and jackets."
 url: "/en/glossary/loden/"
 aliases:
-  - "/en/glossar/loden/"
-  - "/glossary/loden/"
+  - /glossar/loden/
 category: "Materials & Details"
 tags:
   - "loden fabric"

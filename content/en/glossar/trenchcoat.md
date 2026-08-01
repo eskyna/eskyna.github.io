@@ -21,8 +21,7 @@ keywords:
 slug: trenchcoat
 url: /en/glossary/trenchcoat/
 aliases:
-  - /en/glossar/trenchcoat/
-  - /glossary/trenchcoat/
+  - /glossar/trenchcoat/
 image_alt: Beige double-breasted trenchcoat with belt and storm flap
 relatedTerms:
   - title: Coat

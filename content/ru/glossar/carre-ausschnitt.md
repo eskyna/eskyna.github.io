@@ -35,8 +35,7 @@ seoTitle: "Квадратный вырез | ESKYNA Glossary"
 slug: kvadratnyy-vyrez
 url: /rus/glossariy/kvadratnyy-vyrez/
 aliases:
-  - /rus/glossar/carre-ausschnitt/
-  - /ru/glossar/carre-ausschnitt/
+  - /glossar/carre-ausschnitt/
 lastmod: "2026-07-09"
 history:
   - Квадратная линия горловины встречается в историческом костюме разных эпох и особенно заметна в платьях с открытой линией плеч.

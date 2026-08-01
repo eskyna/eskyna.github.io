@@ -34,8 +34,7 @@ seoTitle: "Платье-футляр: что это, кому подходит �
 slug: kokteylnoe-plate-etuikleid
 url: /rus/glossariy/kokteylnoe-plate-etuikleid/
 aliases:
-  - /rus/glossar/etuikleid/
-  - /ru/glossar/etuikleid/
+  - /glossar/etuikleid/
 lastmod: "2026-07-09"
 history:
   - Прилегающие платья с лаконичной линией стали важной частью женского гардероба XX века.

@@ -22,8 +22,7 @@ keywords:
 slug: beach-formal
 url: /en/glossary/beach-formal/
 aliases:
-  - /en/glossar/beach-formal/
-  - /glossary/beach-formal/
+  - /glossar/beach-formal/
 image_alt: Elegant beach formal outfits in light flowing fabrics for a coastal event
 relatedTerms:
   - title: Garden Party Attire

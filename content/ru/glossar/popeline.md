@@ -35,8 +35,7 @@ seoTitle: "Поплин: значение, свойства и применен�
 slug: poplin
 url: /rus/glossariy/poplin/
 aliases:
-  - /rus/glossar/popeline/
-  - /ru/glossar/popeline/
+  - /glossar/popeline/
 lastmod: "2026-07-09"
 history:
   - Название «поплин» связывают с французским словом papeline, которым называли ткань, производившуюся в Авиньоне.

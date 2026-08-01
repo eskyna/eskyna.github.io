@@ -4,8 +4,7 @@ term: "Harness Styling"
 slug: "harness-styling"
 url: "/en/glossary/harness-styling/"
 aliases:
-  - "/en/glossar/harness-styling/"
-  - "/glossary/harness-styling/"
+  - /glossar/harness-styling/
 description: "Harness styling uses decorative strap constructions, often in leather or faux leather, as a deliberate waist, torso, or chest accessory. It adds structure, edge, and an avant-garde focal point to an outfit."
 category: "Style & Impact"
 tags:

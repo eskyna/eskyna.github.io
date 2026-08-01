@@ -22,8 +22,7 @@ keywords:
 slug: peacoat
 url: /en/glossary/peacoat/
 aliases:
-  - /en/glossar/peacoat/
-  - /glossary/peacoat/
+  - /glossar/peacoat/
 image_alt: Dark navy double-breasted peacoat with broad lapels and anchor-style buttons
 relatedTerms:
   - title: Pea Coat

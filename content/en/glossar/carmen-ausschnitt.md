@@ -14,8 +14,7 @@ keywords:
 slug: carmen-ausschnitt
 url: /en/glossary/carmen-ausschnitt/
 aliases:
-  - /en/glossar/carmen-ausschnitt/
-  - /glossary/carmen-ausschnitt/
+  - /glossar/carmen-ausschnitt/
 relatedTerms:
   - title: "Boat Neck"
     url: /en/glossar/u-boot-ausschnitt/

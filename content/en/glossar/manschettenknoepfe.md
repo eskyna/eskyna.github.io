@@ -14,8 +14,7 @@ keywords:
 slug: manschettenknoepfe
 url: /en/glossary/manschettenknoepfe/
 aliases:
-  - /en/glossar/manschettenknoepfe/
-  - /glossary/manschettenknoepfe/
+  - /glossar/manschettenknoepfe/
 tags:
   - cufflinks
   - shirt accessories

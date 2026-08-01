@@ -9,8 +9,7 @@ image: "images/glossar/bh-groesse-messen.png"
 image_alt: "Иллюстрация измерения обхвата под грудью и обхвата груди для подбора размера бюстгальтера"
 url: /rus/glossariy/bh-groesse-messen/
 aliases:
-  - /rus/glossar/bh-groesse-messen/
-  - /ru/glossar/bh-groesse-messen/
+  - /glossar/bh-groesse-messen/
 tags:
   - размер бюстгальтера
   - измерение бюста

@@ -21,8 +21,7 @@ keywords:
 slug: seam
 url: /en/glossary/seam/
 aliases:
-  - /en/glossar/naht/
-  - /glossary/seam/
+  - /glossar/naht/
 image_alt: Close view of a neatly finished garment seam joining two pieces of fabric
 relatedTerms:
   - title: Craftsmanship

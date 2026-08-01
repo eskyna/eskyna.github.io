@@ -8,8 +8,7 @@ image_alt: "Мудборд с референсами одежды, цветов,
 slug: moodboard
 url: /rus/glossariy/moodboard/
 aliases:
-  - /rus/glossar/moodboard/
-  - /ru/glossar/moodboard/
+  - /glossar/moodboard/
 tags:
   - мудборд
   - доска настроения

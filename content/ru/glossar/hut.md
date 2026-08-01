@@ -34,8 +34,7 @@ seoTitle: "Шляпа: что это, как выбрать и носить | Г
 slug: shlyapa
 url: /rus/glossariy/shlyapa/
 aliases:
-  - /rus/glossar/hut/
-  - /ru/glossar/hut/
+  - /glossar/hut/
 lastmod: "2026-07-09"
 history:
   - "Шляпы с полями долго выполняли прежде всего практическую функцию: защищали лицо и глаза от солнца, ветра и осадков."

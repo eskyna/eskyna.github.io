@@ -22,8 +22,7 @@ keywords:
 slug: style-decision
 url: /en/glossary/style-decision/
 aliases:
-  - /en/glossar/stilentscheidung/
-  - /glossary/style-decision/
+  - /glossar/stilentscheidung/
 image_alt: Editorial glossary illustration representing intentional outfit and style decisions
 relatedTerms:
   - title: Personal Style

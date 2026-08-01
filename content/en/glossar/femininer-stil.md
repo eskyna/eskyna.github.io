@@ -20,8 +20,7 @@ keywords:
 slug: feminine-style
 url: /en/glossary/feminine-style/
 aliases:
-  - /en/glossar/femininer-stil/
-  - /glossary/feminine-style/
+  - /glossar/femininer-stil/
 image_alt: Editorial illustration of feminine style with soft fabrics, refined details, and balanced proportions
 relatedTerms:
   - title: Romantic Style

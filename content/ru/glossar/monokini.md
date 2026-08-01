@@ -5,8 +5,7 @@ description: "Монокини это цельный купальник с гл�
 slug: monokini
 url: /rus/glossariy/monokini/
 aliases:
-  - /rus/glossar/monokini/
-  - /ru/glossar/monokini/
+  - /glossar/monokini/
 category: "Гардероб и повседневность"
 tags:
   - монокини

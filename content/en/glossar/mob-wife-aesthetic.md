@@ -21,10 +21,8 @@ keywords:
 slug: mob-wife-aesthetic
 url: /en/glossary/mob-wife-aesthetic/
 aliases:
-  - /en/glossar/mob-wife-aesthetic/
-  - /glossary/mob-wife-aesthetic/
+  - /glossar/mob-wife-aesthetic/
   - /glossary/mob-wife-asthetic/
-  - /en/glossary/mob-wife-asthetic/
 image_alt: Editorial illustration of Mob Wife Aesthetic with faux fur, leopard print, gold jewelry, and a structured handbag
 relatedTerms:
   - title: Glamoratti

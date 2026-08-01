@@ -19,8 +19,7 @@ weight: 999
 slug: "mikro-muster-effekt"
 url: "/rus/glossariy/mikro-muster-effekt/"
 aliases:
-  - "/rus/glossar/mikro-muster-effekt/"
-  - "/ru/glossar/mikro-muster-effekt/"
+  - /glossar/mikro-muster-effekt/
 image: "images/glossar/mikro-muster-effekt.png"
 image_alt: "Ткань с очень мелким контрастным узором, который издалека выглядит почти однотонным"
 relatedTerms:

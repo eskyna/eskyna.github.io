@@ -22,8 +22,7 @@ keywords:
 slug: cargo-trousers
 url: /en/glossary/cargo-trousers/
 aliases:
-  - /en/glossar/cargohose/
-  - /glossary/cargo-trousers/
+  - /glossar/cargohose/
 image_alt: Olive cargo trousers with side patch pockets in an editorial glossary illustration
 relatedTerms:
   - title: Utility Jacket

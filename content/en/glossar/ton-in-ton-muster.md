@@ -21,8 +21,7 @@ keywords:
 slug: tonal-pattern
 url: /en/glossary/tonal-pattern/
 aliases:
-  - /en/glossar/ton-in-ton-muster/
-  - /glossary/tonal-pattern/
+  - /glossar/ton-in-ton-muster/
 image_alt: Tonal pattern in closely related shades, creating a subtle textured fashion surface
 relatedTerms:
   - title: Tone-on-Tone

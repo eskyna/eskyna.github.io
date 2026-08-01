@@ -37,8 +37,7 @@ seoTitle: "Жёлтый цвет в одежде: значение и сочет
 slug: zhyoltyy
 url: /rus/glossariy/zhyoltyy/
 aliases:
-  - /rus/glossar/gelb/
-  - /ru/glossar/gelb/
+  - /glossar/gelb/
 lastmod: "2026-07-09"
 history:
   - Жёлтые красители исторически получали из различных природных источников, поэтому оттенки жёлтого в текстиле сильно различались по глубине и стойкости.

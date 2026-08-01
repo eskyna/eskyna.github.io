@@ -8,8 +8,7 @@ image_alt: Soft fleece fabric with a brushed, textured surface
 slug: fleece
 url: /en/glossary/fleece/
 aliases:
-  - /en/glossar/fleece/
-  - /glossary/fleece/
+  - /glossar/fleece/
 tags:
   - fleece fabric
   - synthetic fabric

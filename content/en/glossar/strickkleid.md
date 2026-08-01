@@ -21,8 +21,7 @@ keywords:
 slug: knit-dress
 url: /en/glossary/knit-dress/
 aliases:
-  - /en/glossar/strickkleid/
-  - /glossary/knit-dress/
+  - /glossar/strickkleid/
 image_alt: Editorial glossary illustration of a fitted long-sleeved knit dress
 relatedTerms:
   - title: Knitwear

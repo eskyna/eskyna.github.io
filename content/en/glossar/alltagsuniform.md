@@ -23,8 +23,7 @@ keywords:
 slug: everyday-uniform
 url: /en/glossary/everyday-uniform/
 aliases:
-  - /en/glossar/alltagsuniform/
-  - /glossary/everyday-uniform/
+  - /glossar/alltagsuniform/
 image_alt: Editorial glossary illustration showing a coordinated everyday uniform with repeatable wardrobe pieces
 relatedTerms:
   - title: Personal Uniform

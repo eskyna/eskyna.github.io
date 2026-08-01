@@ -9,8 +9,7 @@ image: "images/glossar/beanie.png"
 image_alt: "Вязаная шапка бини лаконичной формы без полей"
 url: /rus/glossariy/beanie/
 aliases:
-  - /rus/glossar/beanie/
-  - /ru/glossar/beanie/
+  - /glossar/beanie/
 tags:
   - бини
   - вязаная шапка

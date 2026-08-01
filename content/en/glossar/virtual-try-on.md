@@ -20,8 +20,7 @@ keywords:
 slug: virtual-try-on
 url: /en/glossary/virtual-try-on/
 aliases:
-  - /en/glossar/virtual-try-on/
-  - /glossary/virtual-try-on/
+  - /glossar/virtual-try-on/
 weight: 999
 image: images/glossar/virtual-try-on.png
 image_alt: Person using a smartphone to preview a jacket digitally

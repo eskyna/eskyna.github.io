@@ -35,9 +35,8 @@ seoTitle: "Медленная мода: значение и применение
 slug: medlennaya-moda
 url: /rus/glossariy/medlennaya-moda/
 aliases:
-  - /rus/glossar/slow-fashion/
-  - /ru/glossar/slow-fashion/
-  - /rus/glossariy/slow-fashion/
+  - /glossar/slow-fashion/
+  - /glossariy/slow-fashion/
 image_alt: "Иллюстрация принципов медленной моды и осознанного гардероба"
 lastmod: "2026-07-09"
 history:

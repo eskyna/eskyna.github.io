@@ -34,9 +34,8 @@ seoTitle: "Стилевой тип: что это и как определить
 slug: stilevoy-tip
 url: /ru/glossar/stiltyp/
 aliases:
-  - /rus/glossar/stiltyp/
-  - /rus/glossariy/stilevoy-tip/
-  - /ru/glossar/stiltyp/
+  - /glossar/stiltyp/
+  - /glossariy/stilevoy-tip/
 lastmod: "2026-07-09"
 knowledge:
   - "Стилевой тип не является строгой или неизменной категорией. Он описывает повторяющиеся эстетические предпочтения и помогает принимать решения в гардеробе."

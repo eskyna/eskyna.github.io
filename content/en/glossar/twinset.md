@@ -22,8 +22,7 @@ keywords:
 slug: twinset
 url: /en/glossary/twinset/
 aliases:
-  - /en/glossar/twinset/
-  - /glossary/twinset/
+  - /glossar/twinset/
 image_alt: Coordinated fine knit cardigan and short sleeved top styled as a classic twinset
 relatedTerms:
   - title: Cardigan

@@ -37,8 +37,7 @@ seoTitle: "Длина низа | Style & Image ESKYNA"
 slug: dlina-niza
 url: /rus/glossariy/dlina-niza/
 aliases:
-  - /rus/glossar/saumlange/
-  - /ru/glossar/saumlange/
+  - /glossar/saumlange/
 lastmod: "2026-07-09"
 knowledge:
   - Длина низа создаёт заметную горизонтальную линию, поэтому может визуально менять соотношение корпуса и ног.

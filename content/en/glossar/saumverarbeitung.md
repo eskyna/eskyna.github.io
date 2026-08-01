@@ -21,8 +21,7 @@ keywords:
 slug: hem-finish
 url: /en/glossary/hem-finish/
 aliases:
-  - /en/glossar/saumverarbeitung/
-  - /glossary/hem-finish/
+  - /glossar/saumverarbeitung/
 image_alt: Editorial glossary illustration showing different stitched and folded hem finishes on fabric
 relatedTerms:
   - title: Hem

@@ -4,8 +4,7 @@ term: "Лоден"
 slug: "loden"
 url: "/rus/glossariy/loden/"
 aliases:
-  - "/rus/glossar/loden/"
-  - "/ru/glossar/loden/"
+  - /glossar/loden/
 description: "Лоден это плотная валяная шерстяная ткань альпийского происхождения. Она хорошо защищает от ветра, отталкивает капли влаги и ценится за долговечность."
 category: "Материалы и детали"
 tags:

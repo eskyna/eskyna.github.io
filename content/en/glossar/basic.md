@@ -21,8 +21,7 @@ keywords:
 slug: basic
 url: /en/glossary/basic/
 aliases:
-  - /en/glossar/basic/
-  - /glossary/basic/
+  - /glossar/basic/
 image_alt: Editorial glossary illustration showing versatile basic wardrobe pieces in neutral colors
 relatedTerms:
   - title: Essential

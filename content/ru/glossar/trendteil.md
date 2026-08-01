@@ -34,9 +34,8 @@ seoTitle: "Трендовая вещь: что это и как носить | �
 slug: trendovaya-veshch
 url: /ru/glossar/trendteil/
 aliases:
-  - /rus/glossar/trendteil/
-  - /ru/glossar/trendteil/
-  - /rus/glossariy/trendovaya-veshch/
+  - /glossar/trendteil/
+  - /glossariy/trendovaya-veshch/
 lastmod: "2026-07-09"
 history:
   - "Модные тенденции регулярно меняются и возвращаются в новых пропорциях, материалах и сочетаниях."

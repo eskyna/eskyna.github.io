@@ -21,8 +21,7 @@ keywords:
 slug: relaxed-fit
 url: /en/glossary/relaxed-fit/
 aliases:
-  - /en/glossar/relaxed-fit/
-  - /glossary/relaxed-fit/
+  - /glossar/relaxed-fit/
 image_alt: Editorial glossary illustration showing a relaxed fit outfit with comfortable room through the body
 relatedTerms:
   - title: Loose Fit

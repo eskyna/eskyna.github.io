@@ -21,8 +21,7 @@ keywords:
 slug: lightness
 url: /en/glossary/lightness/
 aliases:
-  - /en/glossar/helligkeit/
-  - /glossary/lightness/
+  - /glossar/helligkeit/
 image_alt: Editorial glossary illustration showing light and dark variations of one color
 relatedTerms:
   - title: Contrast

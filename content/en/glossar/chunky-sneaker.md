@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/chunky-sneaker/
 aliases:
-  - /en/glossar/chunky-sneaker/
-  - /glossary/chunky-sneaker/
+  - /glossar/chunky-sneaker/
 image: images/glossar/chunky-sneaker.png
 image_alt: White chunky sneakers with thick layered soles
 relatedTerms:

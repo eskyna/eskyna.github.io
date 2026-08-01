@@ -36,9 +36,8 @@ seoTitle: "Повседневный стиль: значение и примен
 slug: povsednevnyy-stil
 url: /rus/glossariy/povsednevnyy-stil/
 aliases:
-  - /rus/glossar/casual/
-  - /ru/glossar/casual/
-  - /rus/glossariy/casual-stil/
+  - /glossar/casual/
+  - /glossariy/casual-stil/
 lastmod: "2026-07-09"
 knowledge:
   - Повседневный стиль определяется не отдельной вещью, а сочетанием уровня формальности, посадки, материалов, обуви и деталей.

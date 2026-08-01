@@ -4,8 +4,7 @@ term: "Бикини со сборкой Scrunch"
 description: "Scrunch Bikini, или бикини со сборкой, это раздельный купальник с эластичной сборкой ткани, чаще на задней части плавок. Такая деталь создаёт рельеф, меняет визуальное восприятие посадки и подчёркивает контуры."
 url: "/rus/glossariy/scrunch-bikini/"
 aliases:
-  - "/rus/glossar/scrunch-bikini/"
-  - "/ru/glossar/scrunch-bikini/"
+  - /glossar/scrunch-bikini/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - "scrunch bikini"

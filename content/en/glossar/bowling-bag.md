@@ -9,8 +9,7 @@ image: "images/glossar/bowling-bag.png"
 image_alt: "Structured brown bowling bag with rounded shape and short top handles"
 url: /en/glossary/bowling-bag/
 aliases:
-  - /en/glossar/bowling-bag/
-  - /glossary/bowling-bag/
+  - /glossar/bowling-bag/
 tags:
   - bowling bag
   - handbag

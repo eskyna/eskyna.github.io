@@ -34,8 +34,7 @@ seoTitle: "Круглый вырез: значение и применение |
 slug: kruglyy-vyrez
 url: /rus/glossariy/kruglyy-vyrez/
 aliases:
-  - /rus/glossar/rundhalsausschnitt/
-  - /ru/glossar/rundhalsausschnitt/
+  - /glossar/rundhalsausschnitt/
 lastmod: "2026-07-09"
 knowledge:
   - Круглый вырез может быть почти прилегающим к основанию шеи или более глубоким и широким. Его визуальный эффект зависит не только от формы, но и от глубины, ширины и материала изделия.

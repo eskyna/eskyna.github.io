@@ -5,8 +5,7 @@ description: "A dinner date outfit is polished, comfortable clothing for a resta
 slug: dinner-date-garderobe
 url: /en/glossary/dinner-date-garderobe/
 aliases:
-  - /en/glossar/dinner-date-garderobe/
-  - /glossary/dinner-date-garderobe/
+  - /glossar/dinner-date-garderobe/
 category: Dress Codes & Occasions
 tags:
   - dinner date outfit

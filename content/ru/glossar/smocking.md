@@ -15,8 +15,7 @@ keywords:
 slug: smocking
 url: /rus/glossariy/smocking/
 aliases:
-  - /rus/glossar/smocking/
-  - /ru/glossar/smocking/
+  - /glossar/smocking/
 relatedTerms:
   - title: "Сборка ткани"
     url: /ru/glossar/raffung/

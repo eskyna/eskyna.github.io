@@ -34,9 +34,8 @@ seoTitle: "Бохо-стиль | Style & Image ESKYNA"
 slug: boho-stil
 url: /ru/glossar/boho/
 aliases:
-  - /rus/glossar/boho/
-  - /ru/glossar/boho/
-  - /rus/glossariy/boho-stil/
+  - /glossar/boho/
+  - /glossariy/boho-stil/
 lastmod: "2026-07-09"
 history:
   - Название boho связано со словом «богема», которым в европейской культуре называли свободную творческую среду.

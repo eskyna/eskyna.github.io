@@ -15,8 +15,7 @@ keywords:
 slug: neckholder
 url: /en/glossary/neckholder/
 aliases:
-  - /en/glossar/neckholder/
-  - /glossary/neckholder/
+  - /glossar/neckholder/
 tags:
   - "halterneck"
   - "neckline"

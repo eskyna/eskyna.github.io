@@ -9,8 +9,7 @@ image: "images/glossar/komplementaerkontrast.png"
 image_alt: "Иллюстрация комплементарного контраста с цветами, расположенными напротив друг друга на цветовом круге"
 url: /rus/glossariy/komplementaerkontrast/
 aliases:
-  - /rus/glossar/komplementaerkontrast/
-  - /ru/glossar/komplementaerkontrast/
+  - /glossar/komplementaerkontrast/
 tags:
   - комплементарный контраст
   - сочетание цветов

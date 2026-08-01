@@ -22,8 +22,7 @@ keywords:
 slug: focal-point
 url: /en/glossary/focal-point/
 aliases:
-  - /en/glossar/fokuspunkt/
-  - /glossary/focal-point/
+  - /glossar/fokuspunkt/
 image_alt: Editorial illustration showing an outfit with a clear visual focal point
 relatedTerms:
   - title: Eye Direction

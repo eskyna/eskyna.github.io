@@ -21,8 +21,7 @@ keywords:
 slug: mini-dress
 url: /en/glossary/mini-dress/
 aliases:
-  - /en/glossar/minikleid/
-  - /glossary/mini-dress/
+  - /glossar/minikleid/
 image_alt: Editorial illustration of a short mini dress with a hem above the knee
 relatedTerms:
   - title: Dress

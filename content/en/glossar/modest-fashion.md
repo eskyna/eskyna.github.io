@@ -14,8 +14,7 @@ keywords:
 slug: modest-fashion
 url: /en/glossary/modest-fashion/
 aliases:
-  - /en/glossar/modest-fashion/
-  - /glossary/modest-fashion/
+  - /glossar/modest-fashion/
 tags:
   - modest fashion
   - modest clothing

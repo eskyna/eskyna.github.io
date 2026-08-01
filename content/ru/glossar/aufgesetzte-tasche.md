@@ -9,8 +9,7 @@ image_alt: "Иллюстрация накладного кармана, приш
 slug: aufgesetzte-tasche
 url: /rus/glossariy/aufgesetzte-tasche/
 aliases:
-  - /rus/glossar/aufgesetzte-tasche/
-  - /ru/glossar/aufgesetzte-tasche/
+  - /glossar/aufgesetzte-tasche/
 tags:
   - накладной-карман
   - детали-одежды

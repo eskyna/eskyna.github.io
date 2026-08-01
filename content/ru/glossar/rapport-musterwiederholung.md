@@ -16,8 +16,7 @@ keywords:
 slug: rapport-musterwiederholung
 url: /rus/glossariy/rapport-musterwiederholung/
 aliases:
-  - /rus/glossar/rapport-musterwiederholung/
-  - /ru/glossar/rapport-musterwiederholung/
+  - /glossar/rapport-musterwiederholung/
 tags:
   - раппорт
   - узор на ткани

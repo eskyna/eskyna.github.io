@@ -21,8 +21,7 @@ keywords:
 slug: bomber-jacket
 url: /en/glossary/bomber-jacket/
 aliases:
-  - /en/glossar/bomberjacke/
-  - /glossary/bomber-jacket/
+  - /glossar/bomberjacke/
 image_alt: Short olive bomber jacket with ribbed collar, cuffs, and waistband
 relatedTerms:
   - title: Blouson

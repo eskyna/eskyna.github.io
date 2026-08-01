@@ -33,9 +33,8 @@ seoTitle: "Бизнес-коктейль | ESKYNA Glossary"
 slug: biznes-kokteyl
 url: /ru/glossar/business-cocktail/
 aliases:
-  - /rus/glossar/business-cocktail/
-  - /ru/glossar/business-cocktail/
-  - /rus/glossariy/business-cocktail/
+  - /glossar/business-cocktail/
+  - /glossariy/business-cocktail/
 image_alt: "Деловой вечерний образ в стиле бизнес-коктейль"
 lastmod: "2026-07-09"
 knowledge:

@@ -8,8 +8,7 @@ image_alt: "Иллюстрация мягкого отложного поло-в
 slug: polokragen
 url: /rus/glossariy/polokragen/
 aliases:
-  - /rus/glossar/polokragen/
-  - /ru/glossar/polokragen/
+  - /glossar/polokragen/
 tags:
   - поло-воротник
   - воротники

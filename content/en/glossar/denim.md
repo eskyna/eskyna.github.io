@@ -22,8 +22,7 @@ keywords:
 slug: denim
 url: /en/glossary/denim/
 aliases:
-  - /en/glossar/denim/
-  - /glossary/denim/
+  - /glossar/denim/
 image_alt: Blue denim fabric with visible diagonal twill weave and a classic indigo wash
 relatedTerms:
   - title: Jeans

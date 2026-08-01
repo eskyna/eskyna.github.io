@@ -4,8 +4,7 @@ term: "Boudoir Glamour"
 slug: "boudoir-glamour"
 url: "/en/glossary/boudoir-glamour/"
 aliases:
-  - "/en/glossar/boudoir-glamour/"
-  - "/glossary/boudoir-glamour/"
+  - /glossar/boudoir-glamour/
 description: "Boudoir Glamour is a luxurious evening styling approach that brings the softness and intimacy of private dressing into an elegant, wearable outfit."
 category: "Style & Impact"
 tags:

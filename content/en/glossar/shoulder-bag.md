@@ -9,8 +9,7 @@ image: "images/glossar/shoulder-bag.png"
 image_alt: "Illustration of a structured shoulder bag with a short shoulder strap"
 url: /en/glossary/shoulder-bag/
 aliases:
-  - /en/glossar/shoulder-bag/
-  - /glossary/shoulder-bag/
+  - /glossar/shoulder-bag/
 tags:
   - shoulder bag
   - bags

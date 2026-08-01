@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Kleider & Röcke"
 url: "/glossar/kategorie/kleider-roecke/"
+aliases:
+  - /glossar/kleider-roecke/
 seoTitle: "Kleider & Röcke: Schnitte, Längen & Styling | ESKYNA"
 tags:
   - Kleider

@@ -9,8 +9,7 @@ image_alt: "Иллюстрация прорезного кармана с лис
 slug: paspeltasche
 url: /rus/glossariy/paspeltasche/
 aliases:
-  - /rus/glossar/paspeltasche/
-  - /ru/glossar/paspeltasche/
+  - /glossar/paspeltasche/
 tags:
   - карман с листочкой
   - прорезной карман

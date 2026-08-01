@@ -34,9 +34,8 @@ seoTitle: "Гардероб для путешествий | ESKYNA"
 slug: garderob-dlya-puteshestviy
 url: /rus/glossariy/garderob-dlya-puteshestviy/
 aliases:
-  - /rus/glossar/reisegarderobe/
-  - /ru/glossar/reisegarderobe/
-  - /rus/glossariy/travel-wardrobe/
+  - /glossar/reisegarderobe/
+  - /glossariy/travel-wardrobe/
 lastmod: "2026-07-09"
 knowledge:
   - Гардероб для путешествий планируют не по количеству вещей, а по их сочетаемости, уместности и реальной потребности в поездке.

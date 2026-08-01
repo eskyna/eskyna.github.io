@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/business-attire/
 aliases:
-  - /en/glossar/business-attire/
-  - /glossary/business-attire/
+  - /glossar/business-attire/
 image: images/glossar/business-attire.png
 image_alt: Tailored navy suit with a crisp shirt, tie, and polished leather shoes
 relatedTerms:

@@ -15,8 +15,7 @@ keywords:
 slug: zehenbox
 url: /en/glossary/zehenbox/
 aliases:
-  - /en/glossar/zehenbox/
-  - /glossary/zehenbox/
+  - /glossar/zehenbox/
 relatedTerms:
   - title: "Toe Shape"
     url: /en/glossar/schuhspitze/

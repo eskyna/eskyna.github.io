@@ -21,9 +21,8 @@ keywords:
 slug: pleated-fabric
 url: /en/glossary/pleated-fabric/
 aliases:
-  - /en/glossar/plissee/
+  - /glossar/plissee/
   - /glossary/pleats-2/
-  - /glossary/pleated-fabric/
 image_alt: Editorial illustration showing pleated fabric with fine, regular folds
 relatedTerms:
   - title: Pleats

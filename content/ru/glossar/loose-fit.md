@@ -35,9 +35,8 @@ seoTitle: "Свободная посадка | ESKYNA Glossary"
 slug: svobodnaya-posadka
 url: /rus/glossariy/svobodnaya-posadka/
 aliases:
-  - /rus/glossar/loose-fit/
-  - /ru/glossar/loose-fit/
-  - /rus/glossariy/loose-fit/
+  - /glossar/loose-fit/
+  - /glossariy/loose-fit/
 history:
   - Свободные формы регулярно появлялись в моде разных эпох, когда в одежде особенно ценились движение, комфорт или новая пластика силуэта.
   - В современной повседневной моде свободная посадка стала важной альтернативой чрезмерно облегающим вещам и частью более расслабленного подхода к гардеробу.

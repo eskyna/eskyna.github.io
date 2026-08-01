@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/anziehungs-proportionen/"
 aliases:
-  - "/en/glossar/anziehungs-proportionen/"
-  - "/glossary/anziehungs-proportionen/"
+  - /glossar/anziehungs-proportionen/
 image: "images/glossar/anziehungs-proportionen.png"
 image_alt: "A person wearing a balanced blazer, top, trousers, and shoes outfit"
 relatedTerms:

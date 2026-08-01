@@ -4,8 +4,7 @@ term: Nappa Leather
 description: "Nappa leather is a particularly soft, supple smooth leather with a fine, natural-looking grain. It is commonly used for high-quality jackets, shoes, bags, gloves, and leather accessories."
 url: /en/glossary/nappaleder/
 aliases:
-  - /en/glossar/nappaleder/
-  - /glossary/nappaleder/
+  - /glossar/nappaleder/
 category: Materials & Details
 tags:
   - nappa leather

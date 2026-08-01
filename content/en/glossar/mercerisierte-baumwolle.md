@@ -18,8 +18,7 @@ keywords:
 slug: mercerisierte-baumwolle
 url: /en/glossary/mercerisierte-baumwolle/
 aliases:
-  - /en/glossar/mercerisierte-baumwolle/
-  - /glossary/mercerisierte-baumwolle/
+  - /glossar/mercerisierte-baumwolle/
 weight: 999
 image: images/glossar/mercerisierte-baumwolle.png
 image_alt: Close-up of smooth blue mercerized cotton fabric with a subtle sheen

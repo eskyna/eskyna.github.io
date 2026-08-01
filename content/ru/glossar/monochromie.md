@@ -19,8 +19,7 @@ weight: 999
 slug: monochromie
 url: /rus/glossariy/monochromie/
 aliases:
-  - /rus/glossar/monochromie/
-  - /ru/glossar/monochromie/
+  - /glossar/monochromie/
 image: images/glossar/monochromie.png
 image_alt: "Монохромный образ в одном цвете"
 relatedTerms:

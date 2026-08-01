@@ -33,9 +33,8 @@ seoTitle: "Платье прямого кроя: что это и как нос�
 slug: plate-pryamogo-kroya
 url: /rus/glossariy/plate-pryamogo-kroya/
 aliases:
-  - /rus/glossar/shift-dress/
-  - /ru/glossar/shift-dress/
-  - /rus/glossariy/shift-dress/
+  - /glossar/shift-dress/
+  - /glossariy/shift-dress/
 history:
   - "Прямые свободные платья стали особенно заметной частью моды 1960-х годов, когда лаконичный силуэт связывали с новым, более динамичным образом жизни."
   - "Сегодня платье прямого кроя возвращается в разных интерпретациях: от минималистичных дневных моделей до нарядных вариантов из выразительных тканей."

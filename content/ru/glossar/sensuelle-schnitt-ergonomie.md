@@ -4,8 +4,7 @@ term: Чувственная эргономика кроя
 slug: sensuelle-schnitt-ergonomie
 url: /rus/glossariy/sensuelle-schnitt-ergonomie/
 aliases:
-  - /rus/glossar/sensuelle-schnitt-ergonomie/
-  - /ru/glossar/sensuelle-schnitt-ergonomie/
+  - /glossar/sensuelle-schnitt-ergonomie/
 description: "Чувственная эргономика кроя описывает одежду, которая сохраняет свободу движений и мягко повторяет контуры тела. Такой подход соединяет комфорт, пластичность материала и выразительный силуэт."
 category: Крой, пропорции и посадка
 tags:

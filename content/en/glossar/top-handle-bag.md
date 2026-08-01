@@ -9,8 +9,7 @@ image: "images/glossar/top-handle-bag.png"
 image_alt: "Structured top handle bag with short handles"
 url: /en/glossary/top-handle-bag/
 aliases:
-  - /en/glossar/top-handle-bag/
-  - /glossary/top-handle-bag/
+  - /glossar/top-handle-bag/
 tags:
   - top handle bag
   - handbags

@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/kamelhaar/
 aliases:
-  - /en/glossar/kamelhaar/
-  - /glossary/kamelhaar/
+  - /glossar/kamelhaar/
 image: images/glossar/kamelhaar.png
 image_alt: "A warm golden brown camel hair coat with a soft brushed surface"
 relatedTerms:

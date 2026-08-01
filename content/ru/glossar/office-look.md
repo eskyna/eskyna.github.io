@@ -34,8 +34,7 @@ seoTitle: "Офисный образ | ESKYNA Glossary"
 slug: ofisnyy-obraz
 url: /ru/glossar/office-look/
 aliases:
-  - /rus/glossar/office-look/
-  - /ru/glossar/office-look/
+  - /glossar/office-look/
 lastmod: "2026-07-09"
 knowledge:
   - Офисный образ определяется не только вещами, но и корпоративной культурой, ролью, форматом встреч и уровнем публичности.

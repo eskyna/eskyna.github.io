@@ -9,8 +9,7 @@ image: "images/glossar/klebe-bh.png"
 image_alt: "Клеящийся бюстгальтер без бретелей и спинки для платья с открытой спиной"
 url: /rus/glossariy/klebe-bh/
 aliases:
-  - /rus/glossar/klebe-bh/
-  - /ru/glossar/klebe-bh/
+  - /glossar/klebe-bh/
 tags:
   - клеящийся-бюстгальтер
   - бра-для-открытой-спины

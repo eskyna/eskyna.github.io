@@ -36,9 +36,9 @@ seoTitle: "Эстетика офисной сирены | ESKYNA"
 slug: office-siren
 url: /ru/glossar/office-siren/
 aliases:
-  - /rus/glossar/office-siren/
-  - /rus/glossariy/office-siren/
-  - /rus/glossariy/estetika-ofisnoy-sireny/
+  - /glossar/office-siren/
+  - /glossariy/office-siren/
+  - /glossariy/estetika-ofisnoy-sireny/
 lastmod: "2026-07-09"
 history:
   - "Эстетика Office Siren опирается на визуальные коды деловой моды 1990-х и начала 2000-х: приталенные жакеты, юбки-карандаши, тонкий трикотаж и лаконичные аксессуары."

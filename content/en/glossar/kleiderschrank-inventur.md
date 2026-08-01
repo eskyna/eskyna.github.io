@@ -21,8 +21,7 @@ keywords:
 slug: wardrobe-inventory
 url: /en/glossary/wardrobe-inventory/
 aliases:
-  - /en/glossar/kleiderschrank-inventur/
-  - /glossary/wardrobe-inventory/
+  - /glossar/kleiderschrank-inventur/
 image_alt: Editorial glossary illustration for a wardrobe inventory with organized clothing, shoes, and accessories
 relatedTerms:
   - title: Wardrobe Audit

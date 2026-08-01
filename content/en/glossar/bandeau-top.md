@@ -9,8 +9,7 @@ image: "images/glossar/bandeau-top.png"
 image_alt: "Glossary illustration of a strapless bandeau top"
 url: /en/glossary/bandeau-top/
 aliases:
-  - /en/glossar/bandeau-top/
-  - /glossary/bandeau-top/
+  - /glossar/bandeau-top/
 lastmod: "2026-07-22"
 relatedTerms:
   - title: "Strapless Bra and Bandeau Bra"

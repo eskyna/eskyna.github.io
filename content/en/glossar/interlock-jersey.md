@@ -5,8 +5,7 @@ description: "Interlock jersey is a double-knit fabric that is denser, heavier, 
 slug: "interlock-jersey"
 url: "/en/glossary/interlock-jersey/"
 aliases:
-  - "/en/glossar/interlock-jersey/"
-  - "/glossary/interlock-jersey/"
+  - /glossar/interlock-jersey/
 category: "Materials & Details"
 tags:
   - "interlock jersey"

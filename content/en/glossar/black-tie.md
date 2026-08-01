@@ -22,8 +22,7 @@ keywords:
 slug: black-tie
 url: /en/glossary/black-tie/
 aliases:
-  - /en/glossar/black-tie/
-  - /glossary/black-tie/
+  - /glossar/black-tie/
 image_alt: Editorial illustration of formal Black Tie eveningwear with a tuxedo and bow tie
 relatedTerms:
   - title: Tuxedo

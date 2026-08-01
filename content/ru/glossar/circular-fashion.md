@@ -33,8 +33,7 @@ seoTitle: "Цикличная мода: значение и применение
 slug: tsiklichnaya-moda
 url: /rus/glossariy/tsiklichnaya-moda/
 aliases:
-  - /rus/glossar/circular-fashion/
-  - /ru/glossar/circular-fashion/
+  - /glossar/circular-fashion/
 image_alt: "Иллюстрация принципов цикличной моды: уход, ремонт и повторное использование одежды"
 lastmod: "2026-07-09"
 history:

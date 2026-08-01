@@ -21,8 +21,7 @@ keywords:
 slug: triangle-silhouette
 url: /en/glossary/triangle-silhouette/
 aliases:
-  - /en/glossar/dreieck-silhouette/
-  - /glossary/triangle-silhouette/
+  - /glossar/dreieck-silhouette/
 image_alt: Editorial illustration showing a triangle silhouette with narrower shoulders and wider hips
 relatedTerms:
   - title: A-Line

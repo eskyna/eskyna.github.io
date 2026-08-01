@@ -34,9 +34,8 @@ seoTitle: "Бушлат: что это такое, история и как но
 slug: bushlat
 url: /rus/glossariy/bushlat/
 aliases:
-  - /rus/glossar/peacoat/
-  - /ru/glossar/peacoat/
-  - /rus/glossariy/peacoat/
+  - /glossar/peacoat/
+  - /glossariy/peacoat/
 lastmod: "2026-07-09"
 history:
   - Бушлат возник как практичная короткая верхняя одежда моряков, рассчитанная на ветер и холодную погоду.

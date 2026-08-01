@@ -4,8 +4,7 @@ term: Candlelight Textures
 description: "Candlelight textures are fabrics and surfaces that look especially warm, refined, and tactile in soft, dim lighting, such as silk, velvet, satin, and fine knitwear."
 url: /en/glossary/candlelight-texturen/
 aliases:
-  - /en/glossar/candlelight-texturen/
-  - /glossary/candlelight-texturen/
+  - /glossar/candlelight-texturen/
 category: Materials & Details
 tags:
   - candlelight textures

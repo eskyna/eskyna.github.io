@@ -35,8 +35,7 @@ seoTitle: "Трикотаж | Style & Image ESKYNA"
 slug: trikotazh
 url: /rus/glossariy/trikotazh/
 aliases:
-  - /rus/glossar/strick/
-  - /ru/glossar/strick/
+  - /glossar/strick/
 lastmod: "2026-07-09"
 knowledge:
   - "Трикотаж образуется из системы петель, поэтому обычно обладает большей естественной растяжимостью и подвижностью, чем тканое полотно."

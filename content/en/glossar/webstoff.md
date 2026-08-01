@@ -22,8 +22,7 @@ keywords:
 slug: woven-fabric
 url: /en/glossary/woven-fabric/
 aliases:
-  - /en/glossar/webstoff/
-  - /glossary/woven-fabric/
+  - /glossar/webstoff/
 image_alt: Close-up illustration of woven fabric with lengthwise and crosswise threads
 relatedTerms:
   - title: Knitwear

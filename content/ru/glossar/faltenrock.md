@@ -8,8 +8,7 @@ image_alt: "Плиссированная юбка с равномерными в
 slug: faltenrock
 url: /rus/glossariy/faltenrock/
 aliases:
-  - /rus/glossar/faltenrock/
-  - /ru/glossar/faltenrock/
+  - /glossar/faltenrock/
 tags:
   - плиссированная-юбка
   - плиссе

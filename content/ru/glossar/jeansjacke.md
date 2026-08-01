@@ -33,8 +33,7 @@ seoTitle: "Джинсовая куртка: что это и как носить
 slug: dzhinsovaya-kurtka
 url: /rus/glossariy/dzhinsovaya-kurtka/
 aliases:
-  - /rus/glossar/jeansjacke/
-  - /ru/glossar/jeansjacke/
+  - /glossar/jeansjacke/
 lastmod: "2026-07-09"
 history:
   - Джинсовая куртка выросла из рабочей одежды из прочного денима и со временем стала частью повседневного гардероба.

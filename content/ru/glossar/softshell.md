@@ -8,8 +8,7 @@ image_alt: "Куртка из софтшелла с матовой эласти�
 slug: softshell
 url: /rus/glossariy/softshell/
 aliases:
-  - /rus/glossar/softshell/
-  - /ru/glossar/softshell/
+  - /glossar/softshell/
 tags:
   - софтшелл
   - функциональная одежда

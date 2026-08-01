@@ -14,8 +14,7 @@ keywords:
 slug: french-tuck
 url: /en/glossary/french-tuck/
 aliases:
-  - /en/glossar/french-tuck/
-  - /glossary/french-tuck/
+  - /glossar/french-tuck/
 tags:
   - french tuck
   - styling technique

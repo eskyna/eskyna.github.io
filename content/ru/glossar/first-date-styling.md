@@ -4,8 +4,7 @@ term: "Стайлинг для первого свидания"
 description: "Стайлинг для первого свидания помогает выбрать образ, в котором вы чувствуете себя собой, выглядите уместно и уверенно. Главное в таком выборе не следование шаблону, а баланс между комфортом, привлекательностью и контекстом встречи."
 url: /rus/glossariy/first-date-styling/
 aliases:
-  - /rus/glossar/first-date-styling/
-  - /ru/glossar/first-date-styling/
+  - /glossar/first-date-styling/
 category: "Дресс-коды и поводы"
 tags:
   - свидание

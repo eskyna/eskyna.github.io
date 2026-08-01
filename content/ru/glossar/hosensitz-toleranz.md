@@ -4,8 +4,7 @@ term: Допуск посадки брюк
 slug: hosensitz-toleranz
 url: /rus/glossariy/hosensitz-toleranz/
 aliases:
-  - /rus/glossar/hosensitz-toleranz/
-  - /ru/glossar/hosensitz-toleranz/
+  - /glossar/hosensitz-toleranz/
 description: "Допуск посадки брюк помогает согласовать высоту пояса, шаговый шов и необходимое пространство для движения, чтобы брюки аккуратно выглядели стоя и оставались комфортными сидя."
 category: Размеры и посадка
 tags:

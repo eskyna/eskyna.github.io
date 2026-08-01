@@ -14,8 +14,7 @@ keywords:
 slug: french-tuck
 url: /rus/glossariy/french-tuck/
 aliases:
-  - /rus/glossar/french-tuck/
-  - /ru/glossar/french-tuck/
+  - /glossar/french-tuck/
 relatedTerms:
   - title: "Пропорции"
     url: /ru/glossar/proportion/

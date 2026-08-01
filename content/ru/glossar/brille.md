@@ -35,8 +35,7 @@ seoTitle: "Очки как аксессуар | ESKYNA Glossary"
 slug: ochki
 url: /rus/glossariy/ochki/
 aliases:
-  - /rus/glossar/brille/
-  - /ru/glossar/brille/
+  - /glossar/brille/
 lastmod: "2026-07-09"
 knowledge:
   - Очки находятся в самой заметной зоне образа, поэтому их оправа влияет на восприятие лица сильнее многих других аксессуаров.

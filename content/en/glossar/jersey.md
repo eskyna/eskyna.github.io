@@ -22,8 +22,7 @@ keywords:
 slug: jersey
 url: /en/glossary/jersey/
 aliases:
-  - /en/glossar/jersey/
-  - /glossary/jersey/
+  - /glossar/jersey/
 image_alt: Close-up illustration of soft jersey fabric with a fine knitted loop structure
 relatedTerms:
   - title: Interlock

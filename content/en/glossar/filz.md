@@ -8,8 +8,7 @@ image_alt: Close view of structured felt fabric with a softly matte, dense surfa
 slug: filz
 url: /en/glossary/filz/
 aliases:
-  - /en/glossar/filz/
-  - /glossary/filz/
+  - /glossar/filz/
 tags:
   - felt
   - textile

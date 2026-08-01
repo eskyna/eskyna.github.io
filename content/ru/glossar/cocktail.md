@@ -34,8 +34,7 @@ seoTitle: "Коктейльный стиль: что это и что надет
 slug: kokteyl
 url: /rus/glossariy/kokteyl/
 aliases:
-  - /rus/glossar/cocktail/
-  - /ru/glossar/cocktail/
+  - /glossar/cocktail/
 lastmod: "2026-07-09"
 knowledge:
   - Коктейльный стиль находится между повседневной одеждой и строгими вечерними дресс-кодами, такими как блэк-тай.

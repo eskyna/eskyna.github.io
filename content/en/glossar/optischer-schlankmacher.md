@@ -4,8 +4,7 @@ term: "Visual Slimming Effect"
 slug: "optischer-schlankmacher"
 url: "/en/glossary/optischer-schlankmacher/"
 aliases:
-  - "/en/glossar/optischer-schlankmacher/"
-  - "/glossary/optischer-schlankmacher/"
+  - /glossar/optischer-schlankmacher/
 description: "A visual slimming effect is created through clothing lines, color placement, fit, and proportion that make an outfit appear longer, smoother, or more streamlined."
 category: "Cut, Proportion & Fit"
 tags:

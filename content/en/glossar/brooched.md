@@ -21,8 +21,7 @@ keywords:
 slug: brooched
 url: /en/glossary/brooched/
 aliases:
-  - /en/glossar/brooched/
-  - /glossary/brooched/
+  - /glossar/brooched/
 image_alt: Editorial illustration of a tailored jacket decorated with a brooch
 relatedTerms:
   - title: Brooch

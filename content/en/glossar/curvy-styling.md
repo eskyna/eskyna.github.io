@@ -20,8 +20,7 @@ keywords:
 slug: curvy-styling
 url: /en/glossary/curvy-styling/
 aliases:
-  - /en/glossar/curvy-styling/
-  - /glossary/curvy-styling/
+  - /glossar/curvy-styling/
 image_alt: Editorial glossary illustration showing balanced curvy styling with defined proportions
 relatedTerms:
   - title: Fit

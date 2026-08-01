@@ -33,8 +33,7 @@ seoTitle: "Форма носка обуви: виды, значение и вы�
 slug: forma-noska-obuvi
 url: /rus/glossariy/forma-noska-obuvi/
 aliases:
-  - /rus/glossar/schuhspitze/
-  - /ru/glossar/schuhspitze/
+  - /glossar/schuhspitze/
 lastmod: "2026-07-09"
 knowledge:
   - "Форма носка влияет на визуальную длину стопы и на то, насколько собранным, мягким или графичным воспринимается образ."

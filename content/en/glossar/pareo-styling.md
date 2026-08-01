@@ -4,8 +4,7 @@ term: "Pareo Styling"
 slug: "pareo-styling"
 url: "/en/glossary/pareo-styling/"
 aliases:
-  - "/en/glossar/pareo-styling/"
-  - "/glossary/pareo-styling/"
+  - /glossar/pareo-styling/
 description: "Pareo styling is the art of wrapping and tying a lightweight beach cloth around the waist, hips, or bust to create an elegant and practical beach cover up."
 category: "Wardrobe & Everyday Style"
 tags:

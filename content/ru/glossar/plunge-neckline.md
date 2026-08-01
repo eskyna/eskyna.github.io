@@ -9,8 +9,7 @@ image: "images/glossar/plunge-neckline.png"
 image_alt: "Иллюстрация глубокого V-образного выреза Plunge Neckline на платье"
 url: /rus/glossariy/plunge-neckline/
 aliases:
-  - /rus/glossar/plunge-neckline/
-  - /ru/glossar/plunge-neckline/
+  - /glossar/plunge-neckline/
 lastmod: "2026-07-22"
 relatedTerms:
   - title: "V-образный вырез"

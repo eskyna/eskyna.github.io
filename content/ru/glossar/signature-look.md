@@ -35,8 +35,7 @@ seoTitle: "Фирменный образ: значение и применени
 slug: firmennyy-obraz
 url: /rus/glossariy/firmennyy-obraz/
 aliases:
-  - /rus/glossar/signature-look/
-  - /ru/glossar/signature-look/
+  - /glossar/signature-look/
 lastmod: "2026-07-09"
 history:
   - В моде и визуальной культуре узнаваемость традиционно строится не на одном предмете одежды, а на последовательном повторении силуэтов, цветов и деталей.

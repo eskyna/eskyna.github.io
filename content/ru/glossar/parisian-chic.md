@@ -34,8 +34,7 @@ seoTitle: "Парижский шик | ESKYNA Glossary"
 slug: parizhskiy-shik
 url: /rus/glossariy/parizhskiy-shik/
 aliases:
-  - /rus/glossar/parisian-chic/
-  - /ru/glossar/parisian-chic/
+  - /glossar/parisian-chic/
 lastmod: "2026-07-09"
 knowledge:
   - "Парижский шик не требует большого количества вещей: выразительность чаще возникает из посадки, качества материала и точного сочетания."

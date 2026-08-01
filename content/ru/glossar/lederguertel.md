@@ -35,9 +35,8 @@ seoTitle: "Кожаный ремень: как выбрать и носить | 
 slug: kozhanyy-remen
 url: /ru/glossar/lederguertel/
 aliases:
-  - /rus/glossar/lederguertel/
-  - /ru/glossar/lederguertel/
-  - /rus/glossariy/kozhanyy-remen/
+  - /glossar/lederguertel/
+  - /glossariy/kozhanyy-remen/
 lastmod: "2026-07-09"
 history:
   - "Ремни из кожи и других прочных материалов исторически служили прежде всего практичной частью одежды: ими фиксировали вещи на теле и переносили необходимые предметы."

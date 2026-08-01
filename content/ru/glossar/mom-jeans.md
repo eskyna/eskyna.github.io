@@ -36,9 +36,8 @@ seoTitle: "Джинсы мом | Style & Image ESKYNA"
 slug: dzhinsy-mom
 url: /ru/glossar/mom-jeans/
 aliases:
-  - /rus/glossar/mom-jeans/
-  - /ru/glossar/mom-jeans/
-  - /rus/glossariy/mom-jeans/
+  - /glossar/mom-jeans/
+  - /glossariy/mom-jeans/
 lastmod: "2026-07-09"
 history:
   - "Джинсы мом получили название от моделей, которые ассоциируются с практичным повседневным денимом конца XX века."

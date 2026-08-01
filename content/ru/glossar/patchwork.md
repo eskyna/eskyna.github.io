@@ -14,8 +14,7 @@ keywords:
 slug: patchwork
 url: /rus/glossariy/patchwork/
 aliases:
-  - /rus/glossar/patchwork/
-  - /ru/glossar/patchwork/
+  - /glossar/patchwork/
 relatedTerms:
   - title: "Апсайклинг"
     url: /ru/glossar/upcycling/

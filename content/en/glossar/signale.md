@@ -20,8 +20,7 @@ keywords:
 slug: signals
 url: /en/glossary/signals/
 aliases:
-  - /en/glossar/signale/
-  - /glossary/signals/
+  - /glossar/signale/
 image_alt: Editorial illustration showing clothing, color, and accessories as visual style signals
 relatedTerms:
   - title: Style Message

@@ -34,9 +34,8 @@ seoTitle: "Праздничная одежда: что это и как выбр
 slug: prazdnichnaya-odezhda
 url: /ru/glossar/festliche-kleidung/
 aliases:
-  - /rus/glossar/festliche-kleidung/
-  - /ru/glossar/festliche-kleidung/
-  - /rus/glossariy/prazdnichnaya-odezhda/
+  - /glossar/festliche-kleidung/
+  - /glossariy/prazdnichnaya-odezhda/
 lastmod: "2026-07-09"
 knowledge:
   - Праздничность образа создают не только блеск или яркий цвет, но и качество материала, аккуратная посадка, чистота деталей и уместность для события.

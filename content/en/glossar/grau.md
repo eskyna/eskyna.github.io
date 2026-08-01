@@ -23,8 +23,7 @@ keywords:
 slug: gray
 url: /en/glossary/gray/
 aliases:
-  - /en/glossar/grau/
-  - /glossary/gray/
+  - /glossar/grau/
 image_alt: Editorial glossary illustration showing a medium gray color swatch
 relatedTerms:
   - title: Anthracite

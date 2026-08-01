@@ -14,8 +14,7 @@ keywords:
 slug: bolero
 url: /rus/glossariy/bolero/
 aliases:
-  - /rus/glossar/bolero/
-  - /ru/glossar/bolero/
+  - /glossar/bolero/
 tags:
   - "болеро"
   - "короткая накидка"

@@ -5,8 +5,7 @@ description: "Корректирующее бикини, или Bikini Shapewear
 slug: bikini-shapewear
 url: /rus/glossariy/bikini-shapewear/
 aliases:
-  - /rus/glossar/bikini-shapewear/
-  - /ru/glossar/bikini-shapewear/
+  - /glossar/bikini-shapewear/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - корректирующее-бикини

@@ -4,8 +4,7 @@ term: "Sheer Mesh"
 description: "Sheer mesh is an ultra-light, net-like fabric that reveals the skin or layers beneath while adding texture, softness, and controlled transparency to an outfit."
 url: "/en/glossary/sheer-mesh/"
 aliases:
-  - "/en/glossar/sheer-mesh/"
-  - "/glossary/sheer-mesh/"
+  - /glossar/sheer-mesh/
 category: "Materials & Details"
 subcategory: "Materials & Details"
 tags:

@@ -23,8 +23,7 @@ keywords:
 slug: pants-under-skirts
 url: /en/glossary/pants-under-skirts/
 aliases:
-  - /en/glossar/hosen-unter-roecken/
-  - /glossary/pants-under-skirts/
+  - /glossar/hosen-unter-roecken/
 relatedTerms:
   - title: Layering
     url: /en/glossar/layering/

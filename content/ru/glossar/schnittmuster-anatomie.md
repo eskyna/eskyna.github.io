@@ -4,8 +4,7 @@ term: "Анатомия лекала"
 slug: schnittmuster-anatomie
 url: /rus/glossariy/schnittmuster-anatomie/
 aliases:
-  - /rus/glossar/schnittmuster-anatomie/
-  - /ru/glossar/schnittmuster-anatomie/
+  - /glossar/schnittmuster-anatomie/
 description: "Анатомия лекала объясняет, из каких деталей состоит выкройка одежды и как каждая из них учитывает форму тела, движение и посадку изделия."
 category: "Крой, пропорции и посадка"
 tags:

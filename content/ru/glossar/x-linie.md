@@ -35,8 +35,7 @@ seoTitle: "X-линия: значение и применение | Глосса
 slug: x-liniya
 url: /rus/glossariy/x-liniya/
 aliases:
-  - /rus/glossar/x-linie/
-  - /ru/glossar/x-linie/
+  - /glossar/x-linie/
 lastmod: "2026-07-09"
 history:
   - "В моде середины XX века силуэты с подчёркнутой талией получили особую популярность благодаря послевоенному New Look, представленному Кристианом Диором в 1947 году."

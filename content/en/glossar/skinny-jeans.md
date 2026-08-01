@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing the close-fitting silhouette of skinny 
 slug: skinny-jeans
 url: /en/glossary/skinny-jeans/
 aliases:
-  - /en/glossar/skinny-jeans/
-  - /glossary/skinny-jeans/
+  - /glossar/skinny-jeans/
 tags:
   - skinny jeans
   - denim fit

@@ -21,8 +21,7 @@ keywords:
 slug: a-line
 url: /en/glossary/a-line/
 aliases:
-  - /en/glossar/a-linie/
-  - /glossary/a-line/
+  - /glossar/a-linie/
 image_alt: Editorial illustration of an A-Line silhouette, narrow at the top and widening gradually toward the hem
 relatedTerms:
   - title: A-Line Dress

@@ -37,8 +37,7 @@ seoTitle: "Направление нити в ткани | ESKYNA"
 slug: napravlenie-niti
 url: /rus/glossariy/napravlenie-niti/
 aliases:
-  - /rus/glossar/fadenlauf/
-  - /ru/glossar/fadenlauf/
+  - /glossar/fadenlauf/
 lastmod: "2026-07-09"
 knowledge:
   - В тканом полотне долевая нить обычно идёт параллельно кромке и даёт материалу наибольшую стабильность.

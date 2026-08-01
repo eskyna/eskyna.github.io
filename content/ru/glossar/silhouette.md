@@ -38,9 +38,8 @@ seoTitle: "Силуэт в одежде: что это, виды и как вы�
 slug: siluet
 url: /ru/glossar/silhouette/
 aliases:
-  - /rus/glossar/silhouette/
-  - /ru/glossar/silhouette/
-  - /rus/glossariy/siluet/
+  - /glossar/silhouette/
+  - /glossariy/siluet/
 lastmod: "2026-07-09"
 history:
   - "В истории моды силуэты регулярно менялись вместе с представлениями о красоте, роли тела и образе жизни: от жёстко сформированных конструкций до более свободных и функциональных форм."

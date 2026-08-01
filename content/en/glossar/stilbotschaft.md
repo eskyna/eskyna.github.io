@@ -23,8 +23,7 @@ keywords:
 slug: style-message
 url: /en/glossary/style-message/
 aliases:
-  - /en/glossar/stilbotschaft/
-  - /glossary/style-message/
+  - /glossar/stilbotschaft/
 image_alt: Editorial glossary illustration showing how color, silhouette, and accessories shape a style message
 relatedTerms:
   - title: Style Message

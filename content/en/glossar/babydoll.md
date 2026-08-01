@@ -9,8 +9,7 @@ image: "images/glossar/babydoll.png"
 image_alt: "Babydoll lingerie with a fitted bust and softly flowing high-waisted skirt"
 url: /en/glossary/babydoll/
 aliases:
-  - /en/glossar/babydoll/
-  - /glossary/babydoll/
+  - /glossar/babydoll/
 tags:
   - babydoll lingerie
   - lingerie

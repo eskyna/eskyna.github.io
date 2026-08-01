@@ -15,8 +15,7 @@ keywords:
 slug: hosenbruch
 url: /en/glossary/hosenbruch/
 aliases:
-  - /en/glossar/hosenbruch/
-  - /glossary/hosenbruch/
+  - /glossar/hosenbruch/
 relatedTerms:
   - title: "Hem Length"
     url: /en/glossar/saumlange/

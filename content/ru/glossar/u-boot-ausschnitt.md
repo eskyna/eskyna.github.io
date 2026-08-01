@@ -35,8 +35,7 @@ seoTitle: "Вырез лодочка: что это, кому подходит �
 slug: vyrez-lodochka
 url: /rus/glossariy/vyrez-lodochka/
 aliases:
-  - /rus/glossar/u-boot-ausschnitt/
-  - /ru/glossar/u-boot-ausschnitt/
+  - /glossar/u-boot-ausschnitt/
 lastmod: "2026-07-09"
 knowledge:
   - Вырез лодочка также называют bateau neckline, поскольку его линия напоминает контур лодки.

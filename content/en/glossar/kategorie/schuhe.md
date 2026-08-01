@@ -7,8 +7,8 @@ glossar_category: Shoes
 url: /en/glossary/category/shoes/
 seoTitle: Shoes | ESKYNA Glossary | Style Coaching
 aliases:
-  - /en/glossar/kategorie/schuhe/
-  - /glossary/category/shoes/
+  - /glossar/kategorie/schuhe/
+  - /glossar/schuhe/
 relatedTerms:
   - title: Shoe-Hem Relationship
     url: /en/glossar/schuh-saum-beziehung/

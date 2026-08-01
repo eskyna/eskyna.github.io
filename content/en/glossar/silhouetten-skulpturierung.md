@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/silhouetten-skulpturierung/"
 aliases:
-  - "/en/glossar/silhouetten-skulpturierung/"
-  - "/glossary/silhouetten-skulpturierung/"
+  - /glossar/silhouetten-skulpturierung/
 image: "images/glossar/silhouetten-skulpturierung.png"
 image_alt: "Structured dress with shaped waist seams and a smooth fitted bodice"
 relatedTerms:

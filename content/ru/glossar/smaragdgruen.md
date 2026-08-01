@@ -23,8 +23,7 @@ keywords:
 slug: smaragdgruen
 url: /rus/glossariy/smaragdgruen/
 aliases:
-  - /rus/glossar/smaragdgruen/
-  - /ru/glossar/smaragdgruen/
+  - /glossar/smaragdgruen/
 relatedTerms:
   - title: "Зелёный"
     url: /ru/glossar/gruen/

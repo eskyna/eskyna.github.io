@@ -35,8 +35,7 @@ seoTitle: "Образ для встречи | ESKYNA Glossary"
 slug: obraz-dlya-vstrechi
 url: /rus/glossariy/obraz-dlya-vstrechi/
 aliases:
-  - /rus/glossar/meeting-look/
-  - /ru/glossar/meeting-look/
+  - /glossar/meeting-look/
 lastmod: "2026-07-09"
 knowledge:
   - Образ для встречи определяется не только вещами, но и форматом встречи, ролью участников, отраслью, местом и уровнем формальности.

@@ -35,9 +35,8 @@ seoTitle: "Деловой стиль | ESKYNA Glossary"
 slug: delovoy-stil
 url: /rus/glossariy/delovoy-stil/
 aliases:
-  - /rus/glossar/business/
-  - /ru/glossar/business/
-  - /rus/glossariy/business-stil/
+  - /glossar/business/
+  - /glossariy/business-stil/
 lastmod: "2026-07-09"
 history:
   - "Современный деловой стиль вырос из классической деловой одежды, где важными признаками были аккуратный крой, сдержанная палитра и уместность ситуации."

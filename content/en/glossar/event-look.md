@@ -21,8 +21,7 @@ keywords:
 slug: event-look
 url: /en/glossary/event-look/
 aliases:
-  - /en/glossar/event-look/
-  - /glossary/event-look/
+  - /glossar/event-look/
 image_alt: A polished event outfit with coordinated clothing, shoes, and accessories
 relatedTerms:
   - title: Occasion Wardrobe

@@ -20,8 +20,7 @@ keywords:
 slug: lapel
 url: /en/glossary/lapel/
 aliases:
-  - /en/glossar/revers/
-  - /glossary/lapel/
+  - /glossar/revers/
 image_alt: Editorial illustration showing the folded lapel on the front of a tailored jacket
 relatedTerms:
   - title: Lapel Collar

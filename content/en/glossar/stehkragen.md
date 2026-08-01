@@ -20,8 +20,7 @@ keywords:
 slug: stand-collar
 url: /en/glossary/stand-collar/
 aliases:
-  - /en/glossar/stehkragen/
-  - /glossary/stand-collar/
+  - /glossar/stehkragen/
 image_alt: Editorial glossary illustration of a garment with an upright stand collar around the neckline
 relatedTerms:
   - title: Mock Neck

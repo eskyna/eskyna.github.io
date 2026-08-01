@@ -4,8 +4,7 @@ term: "Attractiveness Booster"
 description: "An attractiveness booster is a clothing, color, or styling choice that helps you look more radiant, confident, and visually engaging. It works through personal color harmony, flattering fit, thoughtful proportions, and a clear focal point."
 url: "/en/glossary/attraktivitaets-booster/"
 aliases:
-  - "/en/glossar/attraktivitaets-booster/"
-  - "/glossary/attraktivitaets-booster/"
+  - /glossar/attraktivitaets-booster/
 category: "Style & Impact"
 tags:
   - "attractiveness booster"

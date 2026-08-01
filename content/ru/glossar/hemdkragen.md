@@ -34,8 +34,7 @@ seoTitle: "Рубашечный воротник | ESKYNA Glossary"
 slug: rubashechnyy-vorotnik
 url: /rus/glossariy/rubashechnyy-vorotnik/
 aliases:
-  - /rus/glossar/hemdkragen/
-  - /ru/glossar/hemdkragen/
+  - /glossar/hemdkragen/
 lastmod: "2026-07-09"
 history:
   - В XIX веке съёмные воротники получили широкое распространение, поскольку их было проще отдельно стирать и накрахмаливать.

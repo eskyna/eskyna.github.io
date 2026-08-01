@@ -14,8 +14,7 @@ keywords:
 slug: capsule-collection
 url: /en/glossary/capsule-collection/
 aliases:
-  - /en/glossar/capsule-collection/
-  - /glossary/capsule-collection/
+  - /glossar/capsule-collection/
 tags:
   - capsule collection
   - fashion collection

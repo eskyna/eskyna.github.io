@@ -36,8 +36,7 @@ seoTitle: "Деним: что это за ткань и как её носить
 slug: denim
 url: /rus/glossariy/denim/
 aliases:
-  - /rus/glossar/denim/
-  - /ru/glossar/denim/
+  - /glossar/denim/
 lastmod: "2026-07-09"
 knowledge:
   - Деним обычно ткут саржевым переплетением, поэтому на его поверхности заметен диагональный рубчик.

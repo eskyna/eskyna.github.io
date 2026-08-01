@@ -23,8 +23,7 @@ keywords:
 slug: beige
 url: /en/glossary/beige/
 aliases:
-  - /en/glossar/beige/
-  - /glossary/beige/
+  - /glossar/beige/
 image_alt: Editorial glossary illustration showing a soft beige color swatch
 relatedTerms:
   - title: Neutral Colors

@@ -21,8 +21,7 @@ keywords:
 slug: camouflage
 url: /en/glossary/camouflage/
 aliases:
-  - /en/glossar/camouflage/
-  - /glossary/camouflage/
+  - /glossar/camouflage/
 image_alt: Editorial illustration of a green and brown camouflage pattern
 relatedTerms:
   - title: Print

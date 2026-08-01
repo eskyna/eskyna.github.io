@@ -34,9 +34,8 @@ seoTitle: "Расклешенные брюки: что это, как выбра
 slug: raskleshennye-bryuki
 url: /rus/glossariy/raskleshennye-bryuki/
 aliases:
-  - /rus/glossar/flared-pants/
-  - /ru/glossar/flared-pants/
-  - /rus/glossariy/flared-pants/
+  - /glossar/flared-pants/
+  - /glossariy/flared-pants/
 lastmod: "2026-07-09"
 history:
   - "Расклешенный силуэт особенно прочно связан с модой 1960-х и 1970-х годов, когда брюки клеш стали заметной частью повседневного гардероба."

@@ -21,8 +21,7 @@ keywords:
 slug: quiet-luxury
 url: /en/glossary/quiet-luxury/
 aliases:
-  - /en/glossar/quiet-luxury/
-  - /glossary/quiet-luxury/
+  - /glossar/quiet-luxury/
 image_alt: Editorial illustration of a refined Quiet Luxury outfit in neutral tones with understated accessories
 relatedTerms:
   - title: Old Money Style

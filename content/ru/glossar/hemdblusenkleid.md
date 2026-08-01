@@ -34,8 +34,7 @@ seoTitle: "Платье-рубашка | ESKYNA Glossary"
 slug: plate-rubashka
 url: /rus/glossariy/plate-rubashka/
 aliases:
-  - /rus/glossar/hemdblusenkleid/
-  - /ru/glossar/hemdblusenkleid/
+  - /glossar/hemdblusenkleid/
 lastmod: "2026-07-09"
 knowledge:
   - Платье-рубашка обычно узнаваемо по воротнику, планке с пуговицами, манжетам или рукавам рубашечного типа.

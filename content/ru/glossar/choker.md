@@ -37,8 +37,8 @@ seoTitle: "Чокер: значение, виды и как носить | Гл�
 slug: choker
 url: /ru/glossar/choker/
 aliases:
-  - /rus/glossar/choker/
-  - /rus/glossariy/choker/
+  - /glossar/choker/
+  - /glossariy/choker/
 lastmod: "2026-07-09"
 history:
   - Короткие украшения, располагающиеся у основания шеи, встречались в разных исторических культурах и эпохах.

@@ -4,8 +4,7 @@ term: Casual Date Chic
 slug: casual-date-chic
 url: /en/glossary/casual-date-chic/
 aliases:
-  - /en/glossar/casual-date-chic/
-  - /glossary/casual-date-chic/
+  - /glossar/casual-date-chic/
 description: "Casual Date Chic is an easy, polished outfit approach that combines comfortable basics with elevated pieces for relaxed dates such as coffee, walks, casual dinners, and gallery visits."
 category: Dress Codes & Occasions
 tags:

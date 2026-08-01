@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/soft-glam-styling/
 aliases:
-  - /en/glossar/soft-glam-styling/
-  - /glossary/soft-glam-styling/
+  - /glossar/soft-glam-styling/
 image: images/glossar/soft-glam-styling.png
 image_alt: "A softly draped satin blouse styled with delicate gold jewelry"
 relatedTerms:

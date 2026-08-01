@@ -36,8 +36,7 @@ seoTitle: "Плиссе: что это такое, виды и применен�
 slug: plisse
 url: /rus/glossariy/plisse/
 aliases:
-  - /rus/glossar/plissee/
-  - /ru/glossar/plissee/
+  - /glossar/plissee/
 lastmod: "2026-07-09"
 history:
   - "Плиссировка известна с древности: складки использовали в одежде как декоративный и конструктивный прием."

@@ -19,8 +19,7 @@ weight: 999
 slug: aura-styling
 url: /rus/glossariy/aura-styling/
 aliases:
-  - /rus/glossar/aura-styling/
-  - /ru/glossar/aura-styling/
+  - /glossar/aura-styling/
 image: images/glossar/aura-styling.png
 image_alt: "Собранный образ с одеждой, аксессуарами и флаконом парфюма"
 relatedTerms:

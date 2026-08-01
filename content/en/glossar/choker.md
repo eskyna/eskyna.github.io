@@ -21,8 +21,7 @@ keywords:
 slug: choker
 url: /en/glossary/choker/
 aliases:
-  - /en/glossar/choker/
-  - /glossary/choker/
+  - /glossar/choker/
 image_alt: Close-fitting choker necklace worn high around the neck
 relatedTerms:
   - title: Necklace

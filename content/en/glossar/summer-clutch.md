@@ -22,8 +22,7 @@ keywords:
 slug: summer-clutch
 url: /en/glossary/summer-clutch/
 aliases:
-  - /en/glossar/summer-clutch/
-  - /glossary/summer-clutch/
+  - /glossar/summer-clutch/
 image_alt: Small summer clutch bag with a light textured surface for a warm-weather occasion outfit
 relatedTerms:
   - title: Clutch

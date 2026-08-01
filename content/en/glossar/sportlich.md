@@ -21,8 +21,7 @@ keywords:
 slug: sporty-style
 url: /en/glossary/sporty-style/
 aliases:
-  - /en/glossar/sportlich/
-  - /glossary/sporty-style/
+  - /glossar/sportlich/
 image_alt: Editorial illustration of a modern sporty style outfit with sneakers, relaxed trousers, and a functional jacket
 relatedTerms:
   - title: Athleisure

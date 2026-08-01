@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Dresscodes & Anlässe"
 url: "/glossar/kategorie/dresscodes-anlaesse/"
+aliases:
+  - /glossar/dresscodes-anlaesse/
 seoTitle: "Dresscodes & Anlässe: Kleidung passend wählen | ESKYNA"
 relatedTerms:
   - title: "Dresscode"

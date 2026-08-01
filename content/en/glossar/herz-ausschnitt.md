@@ -20,7 +20,6 @@ keywords:
 slug: sweetheart-neckline
 url: /en/glossar/herz-ausschnitt/
 aliases:
-  - /en/glossar/herz-ausschnitt/
   - /glossary/sweetheart-neckline/
 image_alt: Editorial illustration of a dress with a curved sweetheart neckline and central dip
 relatedTerms:

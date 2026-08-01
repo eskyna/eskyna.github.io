@@ -34,8 +34,7 @@ seoTitle: "Юбка-плиссе explained | ESKYNA"
 slug: yubka-plisse
 url: /rus/glossariy/yubka-plisse/
 aliases:
-  - /rus/glossar/plisseerock/
-  - /ru/glossar/plisseerock/
+  - /glossar/plisseerock/
 lastmod: "2026-07-09"
 history:
   - Складки в одежде известны с древности, однако современное промышленное плиссе стало особенно заметным в моде XX века.

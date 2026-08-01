@@ -19,8 +19,7 @@ weight: 999
 slug: haptischer-stilwert
 url: /en/glossary/haptischer-stilwert/
 aliases:
-  - /en/glossar/haptischer-stilwert/
-  - /glossary/haptischer-stilwert/
+  - /glossar/haptischer-stilwert/
 image: images/glossar/haptischer-stilwert.png
 image_alt: "Close view of layered fabrics with smooth, soft, and textured surfaces"
 relatedTerms:

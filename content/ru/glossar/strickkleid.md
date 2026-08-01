@@ -33,8 +33,7 @@ seoTitle: "Трикотажное платье: что это, как выбра
 slug: trikotazhnoe-plate
 url: /rus/glossariy/trikotazhnoe-plate/
 aliases:
-  - /rus/glossar/strickkleid/
-  - /ru/glossar/strickkleid/
+  - /glossar/strickkleid/
 lastmod: "2026-07-09"
 knowledge:
   - Трикотажное полотно образуется вязанием, поэтому обычно обладает большей растяжимостью и подвижностью, чем тканое полотно.

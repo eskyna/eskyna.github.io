@@ -39,8 +39,7 @@ seoTitle: "Капсульный гардероб | ESKYNA Glossary"
 slug: kapsulnyy-garderob
 url: /rus/glossariy/kapsulnyy-garderob/
 aliases:
-  - /rus/glossar/capsule-wardrobe/
-  - /ru/glossar/capsule-wardrobe/
+  - /glossar/capsule-wardrobe/
 lastmod: "2026-07-09"
 history:
   - Термин «капсула» в моде связан с идеей небольшой согласованной группы вещей, объединённых общей задачей, сезоном или стилистическим направлением.

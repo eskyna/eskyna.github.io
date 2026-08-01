@@ -34,8 +34,7 @@ seoTitle: "Стилевой компас: значение и применени
 slug: stilevoy-kompas
 url: /rus/glossariy/stilevoy-kompas/
 aliases:
-  - /rus/glossar/stilkompass/
-  - /ru/glossar/stilkompass/
+  - /glossar/stilkompass/
 lastmod: "2026-07-09"
 knowledge:
   - Стилевой компас не предписывает один образ, а помогает принимать последовательные решения в разных ситуациях.

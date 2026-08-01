@@ -21,8 +21,7 @@ keywords:
 slug: earrings
 url: /en/glossary/earrings/
 aliases:
-  - /en/glossar/ohrringe/
-  - /glossary/earrings/
+  - /glossar/ohrringe/
 image_alt: Editorial glossary illustration showing different earring shapes and styles
 relatedTerms:
   - title: Hoop Earrings

@@ -23,8 +23,7 @@ keywords:
 slug: tannengruen
 url: /en/glossary/tannengruen/
 aliases:
-  - /en/glossar/tannengruen/
-  - /glossary/tannengruen/
+  - /glossar/tannengruen/
 relatedTerms:
   - title: "Green"
     url: /en/glossar/gruen/

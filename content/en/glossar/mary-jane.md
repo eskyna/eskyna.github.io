@@ -20,8 +20,7 @@ keywords:
 slug: mary-jane
 url: /en/glossary/mary-jane/
 aliases:
-  - /en/glossar/mary-jane/
-  - /glossary/mary-jane/
+  - /glossar/mary-jane/
 image_alt: Editorial glossary illustration of black Mary Jane shoes with an instep strap
 relatedTerms:
   - title: Ballerina

@@ -15,8 +15,7 @@ keywords:
 slug: massanfertigung-custom-made
 url: /en/glossary/massanfertigung-custom-made/
 aliases:
-  - /en/glossar/massanfertigung-custom-made/
-  - /glossary/massanfertigung-custom-made/
+  - /glossar/massanfertigung-custom-made/
 tags:
   - bespoke
   - custom-made clothing

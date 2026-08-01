@@ -20,8 +20,7 @@ tags:
 slug: innenbeinlaenge
 url: /rus/glossariy/innenbeinlaenge/
 aliases:
-  - /rus/glossar/innenbeinlaenge/
-  - /ru/glossar/innenbeinlaenge/
+  - /glossar/innenbeinlaenge/
 relatedTerms:
   - title: "Длина ног"
     url: /ru/glossar/beinlaenge/

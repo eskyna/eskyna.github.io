@@ -4,8 +4,7 @@ term: "Бикини с запахом"
 slug: "wrap-bikini"
 url: "/rus/glossariy/wrap-bikini/"
 aliases:
-  - "/rus/glossar/wrap-bikini/"
-  - "/ru/glossar/wrap-bikini/"
+  - /glossar/wrap-bikini/
 description: "Бикини с запахом, или wrap bikini, это раздельный купальник с топом на длинных завязках, которые оборачивают вокруг талии. Такая конструкция создаёт выразительные диагонали и привлекает внимание к линии корпуса."
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:

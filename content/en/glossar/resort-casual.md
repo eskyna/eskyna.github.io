@@ -21,8 +21,7 @@ keywords:
 slug: resort-casual
 url: /en/glossary/resort-casual/
 aliases:
-  - /en/glossar/resort-casual/
-  - /glossary/resort-casual/
+  - /glossar/resort-casual/
 image_alt: Relaxed resort casual outfit with a lightweight shirt, tailored trousers, and sandals
 relatedTerms:
   - title: Beach Formal

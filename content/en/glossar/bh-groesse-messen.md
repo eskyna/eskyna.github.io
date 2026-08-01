@@ -9,8 +9,7 @@ image: "images/glossar/bh-groesse-messen.png"
 image_alt: "Person measuring underbust and bust circumference with a flexible tape measure"
 url: /en/glossary/bh-groesse-messen/
 aliases:
-  - /en/glossar/bh-groesse-messen/
-  - /glossary/bh-groesse-messen/
+  - /glossar/bh-groesse-messen/
 tags:
   - bra size
   - bra measurement

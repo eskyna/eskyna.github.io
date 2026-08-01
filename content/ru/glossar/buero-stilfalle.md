@@ -4,8 +4,7 @@ term: "Офисная стилевая ловушка"
 slug: buero-stilfalle
 url: /rus/glossariy/buero-stilfalle/
 aliases:
-  - /rus/glossar/buero-stilfalle/
-  - /ru/glossar/buero-stilfalle/
+  - /glossar/buero-stilfalle/
 description: "Офисная стилевая ловушка это повторяющаяся ошибка в рабочем образе, из-за которой одежда может ослаблять впечатление от вашей компетентности, даже если вы высококвалифицированный специалист."
 category: "Дресс-коды и поводы"
 subcategory: "Стиль и впечатление"

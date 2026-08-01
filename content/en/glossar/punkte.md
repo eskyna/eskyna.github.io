@@ -23,8 +23,7 @@ keywords:
 slug: dots
 url: /en/glossary/dots/
 aliases:
-  - /en/glossar/punkte/
-  - /glossary/dots/
+  - /glossar/punkte/
 image_alt: Editorial illustration of garments with small and large dot patterns
 relatedTerms:
   - title: Polka Dots

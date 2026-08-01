@@ -34,8 +34,7 @@ seoTitle: "Полиэстер | Style & Image ESKYNA"
 slug: poliester
 url: /rus/glossariy/poliester/
 aliases:
-  - /rus/glossar/polyester/
-  - /ru/glossar/polyester/
+  - /glossar/polyester/
 lastmod: "2026-07-09"
 history:
   - Полиэфирные волокна были разработаны в XX веке и получили широкое распространение благодаря прочности, практичности и возможности промышленного производства.

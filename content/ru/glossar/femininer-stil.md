@@ -34,8 +34,7 @@ seoTitle: "Женственный стиль | ESKYNA Glossary"
 slug: zhenstvennyy-stil
 url: /rus/glossariy/zhenstvennyy-stil/
 aliases:
-  - /rus/glossar/femininer-stil/
-  - /ru/glossar/femininer-stil/
+  - /glossar/femininer-stil/
 lastmod: "2026-07-09"
 history:
   - Представления о женственности в одежде менялись вместе с общественными нормами, модой и ролью женщин в обществе.

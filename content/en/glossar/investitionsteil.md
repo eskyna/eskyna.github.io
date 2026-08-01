@@ -21,8 +21,7 @@ keywords:
 slug: investment-piece
 url: /en/glossary/investment-piece/
 aliases:
-  - /en/glossar/investitionsteil/
-  - /glossary/investment-piece/
+  - /glossar/investitionsteil/
 image_alt: Editorial illustration of a timeless, versatile wardrobe investment piece
 relatedTerms:
   - title: Key Piece

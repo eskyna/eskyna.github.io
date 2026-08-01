@@ -34,8 +34,7 @@ seoTitle: "Парка: что это такое, как выбрать и нос
 slug: parka
 url: /rus/glossariy/parka/
 aliases:
-  - /rus/glossar/parka/
-  - /ru/glossar/parka/
+  - /glossar/parka/
 lastmod: "2026-07-09"
 history:
   - Парки происходят от традиционной верхней одежды народов Арктики, приспособленной к холоду, ветру и снегу.

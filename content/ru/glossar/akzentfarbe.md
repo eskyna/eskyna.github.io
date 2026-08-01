@@ -36,8 +36,7 @@ seoTitle: "Акцентный цвет: что это и как использо
 slug: aktsentnyy-tsvet
 url: /ru/glossar/akzentfarbe/
 aliases:
-  - /rus/glossar/akzentfarbe/
-  - /ru/glossar/akzentfarbe/
+  - /glossar/akzentfarbe/
 lastmod: "2026-07-09"
 knowledge:
   - Акцентным может быть не только яркий оттенок, но и глубокий тёмный, светлый или металлизированный цвет, если он заметно выделяется на фоне комплекта.

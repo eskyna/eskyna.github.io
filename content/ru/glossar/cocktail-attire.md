@@ -37,8 +37,7 @@ seoTitle: "Коктейльный дресс-код | ESKYNA"
 slug: kokteylnyy-dress-kod
 url: /rus/glossariy/kokteylnyy-dress-kod/
 aliases:
-  - /rus/glossar/cocktail-attire/
-  - /ru/glossar/cocktail-attire/
+  - /glossar/cocktail-attire/
 image_alt: "Элегантные коктейльные образы для праздничного мероприятия"
 lastmod: "2026-07-09"
 history:

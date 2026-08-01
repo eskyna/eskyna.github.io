@@ -9,8 +9,7 @@ image: "images/glossar/rueckenkette.png"
 image_alt: "Украшение-цепочка, спускающееся вдоль открытой спины"
 url: /rus/glossariy/rueckenkette/
 aliases:
-  - /rus/glossar/rueckenkette/
-  - /ru/glossar/rueckenkette/
+  - /glossar/rueckenkette/
 tags:
   - украшение на спину
   - бэк-нэклейс

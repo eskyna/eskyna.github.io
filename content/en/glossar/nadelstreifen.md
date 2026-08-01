@@ -21,8 +21,6 @@ keywords:
 slug: pinstripes
 url: /en/glossar/nadelstreifen/
 aliases:
-  - /en/glossar/nadelstreifen/
-  - /en/glossary/pinstripes/
   - /glossary/pinstripes/
 image_alt: Dark tailored fabric with fine light pinstripes running vertically
 relatedTerms:

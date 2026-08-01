@@ -34,8 +34,7 @@ seoTitle: "Классика в стиле | ESKYNA Glossary"
 slug: klassika
 url: /rus/glossariy/klassika/
 aliases:
-  - /rus/glossar/klassiker/
-  - /ru/glossar/klassiker/
+  - /glossar/klassiker/
 lastmod: "2026-07-09"
 knowledge:
   - "Классической вещь делает не отсутствие характера, а устойчивое сочетание хорошей посадки, уместности и сочетаемости."

@@ -35,8 +35,7 @@ seoTitle: "Шов в одежде: что это, виды и как оцени�
 slug: shov
 url: /rus/glossariy/shov/
 aliases:
-  - /rus/glossar/naht/
-  - /ru/glossar/naht/
+  - /glossar/naht/
 lastmod: "2026-07-09"
 history:
   - "Швы стали основой кроеной одежды: они позволяют соединять отдельные детали ткани и придавать изделию заданную форму."

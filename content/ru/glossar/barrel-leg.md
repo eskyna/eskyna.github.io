@@ -33,8 +33,7 @@ seoTitle: "Бочкообразные брюки: что это и как нос
 slug: bochkoobraznye-bryuki
 url: /rus/glossariy/bochkoobraznye-bryuki/
 aliases:
-  - /rus/glossar/barrel-leg/
-  - /ru/glossar/barrel-leg/
+  - /glossar/barrel-leg/
 lastmod: "2026-07-09"
 knowledge:
   - Бочкообразный крой создаёт объём прежде всего в области бёдер и коленей, а не равномерно по всей длине брючин.

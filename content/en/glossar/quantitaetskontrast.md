@@ -9,8 +9,7 @@ image: "images/glossar/quantitaetskontrast.png"
 image_alt: "Illustration showing a large neutral color area balanced by a small bright accent color"
 url: /en/glossary/quantitaetskontrast/
 aliases:
-  - /en/glossar/quantitaetskontrast/
-  - /glossary/quantitaetskontrast/
+  - /glossar/quantitaetskontrast/
 tags:
   - quantity contrast
   - color contrast

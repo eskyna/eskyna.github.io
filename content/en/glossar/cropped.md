@@ -22,8 +22,7 @@ keywords:
 slug: cropped
 url: /en/glossary/cropped/
 aliases:
-  - /en/glossar/cropped/
-  - /glossary/cropped/
+  - /glossar/cropped/
 image_alt: Editorial illustration showing cropped jacket and high-waisted trousers
 relatedTerms:
   - title: Crop Top

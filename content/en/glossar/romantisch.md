@@ -22,8 +22,7 @@ keywords:
 slug: romantic-style
 url: /en/glossary/romantic-style/
 aliases:
-  - /en/glossar/romantisch/
-  - /glossary/romantic-style/
+  - /glossar/romantisch/
 image_alt: Editorial illustration of Romantic Style with a soft floral dress, lace details, and delicate accessories
 relatedTerms:
   - title: Feminine Style

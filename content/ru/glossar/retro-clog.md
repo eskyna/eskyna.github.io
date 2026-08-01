@@ -33,9 +33,8 @@ seoTitle: "Ретро-клоги explained | ESKYNA"
 slug: retro-klogi
 url: /rus/glossariy/retro-klogi/
 aliases:
-  - /rus/glossar/retro-clog/
-  - /ru/glossar/retro-clog/
-  - /rus/glossariy/retro-clog/
+  - /glossar/retro-clog/
+  - /glossariy/retro-clog/
 image_alt: "Ретро-клоги с массивной подошвой под дерево"
 lastmod: "2026-07-09"
 history:

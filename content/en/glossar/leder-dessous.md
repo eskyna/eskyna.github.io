@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/leder-dessous/"
 aliases:
-  - "/en/glossar/leder-dessous/"
-  - "/glossary/leder-dessous/"
+  - /glossar/leder-dessous/
 image: "images/glossar/leder-dessous.png"
 image_alt: "Black leather-look bra and briefs laid flat on a neutral surface"
 relatedTerms:

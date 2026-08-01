@@ -23,8 +23,7 @@ keywords:
 slug: scarf
 url: /en/glossary/scarf/
 aliases:
-  - /en/glossar/schal/
-  - /glossary/scarf/
+  - /glossar/schal/
 image_alt: Editorial illustration of a softly draped scarf worn around the neck
 relatedTerms:
   - title: Neck Scarf

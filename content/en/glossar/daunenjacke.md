@@ -21,8 +21,7 @@ keywords:
 slug: down-jacket
 url: /en/glossary/down-jacket/
 aliases:
-  - /en/glossar/daunenjacke/
-  - /glossary/down-jacket/
+  - /glossar/daunenjacke/
 image_alt: Dark down jacket with quilted sections shown as practical winter outerwear
 relatedTerms:
   - title: Quilted Jacket

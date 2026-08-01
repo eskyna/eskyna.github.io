@@ -14,8 +14,7 @@ keywords:
 slug: y2k-style
 url: /rus/glossariy/y2k-style/
 aliases:
-  - /rus/glossar/y2k-style/
-  - /ru/glossar/y2k-style/
+  - /glossar/y2k-style/
 relatedTerms:
   - title: "Низкая посадка"
     url: /ru/glossar/low-waist/

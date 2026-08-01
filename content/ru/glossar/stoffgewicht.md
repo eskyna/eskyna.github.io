@@ -34,8 +34,7 @@ seoTitle: "Плотность ткани: значение и применени
 slug: plotnost-tkani
 url: /rus/glossariy/plotnost-tkani/
 aliases:
-  - /rus/glossar/stoffgewicht/
-  - /ru/glossar/stoffgewicht/
+  - /glossar/stoffgewicht/
 lastmod: "2026-07-09"
 knowledge:
   - В описаниях тканей плотность нередко связывают с поверхностной массой материала, которую обычно указывают в граммах на квадратный метр, г/м².

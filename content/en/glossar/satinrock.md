@@ -21,8 +21,7 @@ keywords:
 slug: satin-skirt
 url: /en/glossary/satin-skirt/
 aliases:
-  - /en/glossar/satinrock/
-  - /glossary/satin-skirt/
+  - /glossar/satinrock/
 image_alt: Editorial illustration of a flowing satin midi skirt with a soft sheen
 relatedTerms:
   - title: Satin

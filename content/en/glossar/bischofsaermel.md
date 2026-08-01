@@ -8,8 +8,7 @@ image_alt: Illustration of a blouse with full bishop sleeves gathered into narro
 slug: bischofsaermel
 url: /en/glossary/bischofsaermel/
 aliases:
-  - /en/glossar/bischofsaermel/
-  - /glossary/bischofsaermel/
+  - /glossar/bischofsaermel/
 tags:
   - bishop sleeve
   - sleeve shape

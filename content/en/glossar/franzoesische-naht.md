@@ -15,8 +15,7 @@ keywords:
 slug: franzoesische-naht
 url: /en/glossary/franzoesische-naht/
 aliases:
-  - /en/glossar/franzoesische-naht/
-  - /glossary/franzoesische-naht/
+  - /glossar/franzoesische-naht/
 tags:
   - French seam
   - seam finish

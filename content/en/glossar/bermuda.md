@@ -21,8 +21,7 @@ keywords:
 slug: bermuda-shorts
 url: /en/glossary/bermuda-shorts/
 aliases:
-  - /en/glossar/bermuda/
-  - /glossary/bermuda-shorts/
+  - /glossar/bermuda/
 image_alt: Editorial illustration of tailored Bermuda shorts with a knee-length hem
 relatedTerms:
   - title: Shorts

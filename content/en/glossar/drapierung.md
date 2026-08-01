@@ -22,8 +22,7 @@ keywords:
 slug: draping
 url: /en/glossary/draping/
 aliases:
-  - /en/glossar/drapierung/
-  - /glossary/draping/
+  - /glossar/drapierung/
 image_alt: Editorial illustration showing fabric draped in soft folds on a dress form
 relatedTerms:
   - title: Fabric Drape

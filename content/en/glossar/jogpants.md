@@ -22,8 +22,7 @@ keywords:
 slug: jogpants
 url: /en/glossary/jogpants/
 aliases:
-  - /en/glossar/jogpants/
-  - /glossary/jogpants/
+  - /glossar/jogpants/
 image_alt: Editorial illustration of tapered jogpants styled with a simple top and sneakers
 relatedTerms:
   - title: Athleisure

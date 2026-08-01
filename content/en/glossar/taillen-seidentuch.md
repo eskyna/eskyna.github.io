@@ -22,8 +22,7 @@ keywords:
 slug: waist-silk-scarf
 url: /en/glossary/waist-silk-scarf/
 aliases:
-  - /en/glossar/taillen-seidentuch/
-  - /glossary/waist-silk-scarf/
+  - /glossar/taillen-seidentuch/
 relatedTerms:
   - title: Silk Scarf
     url: /en/glossar/seidentuch/

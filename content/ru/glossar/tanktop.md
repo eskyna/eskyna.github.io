@@ -34,9 +34,8 @@ seoTitle: "Топ без рукавов: что это и как носить | 
 slug: top-bez-rukavov
 url: /rus/glossariy/top-bez-rukavov/
 aliases:
-  - /rus/glossar/tanktop/
-  - /ru/glossar/tanktop/
-  - /rus/glossariy/tanktop/
+  - /glossar/tanktop/
+  - /glossariy/tanktop/
 lastmod: "2026-07-09"
 knowledge:
   - Топ без рукавов отличается от камисоли более широкими бретелями и обычно более закрытой, устойчивой линией верха.

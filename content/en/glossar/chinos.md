@@ -22,8 +22,7 @@ keywords:
 slug: chinos
 url: /en/glossary/chinos/
 aliases:
-  - /en/glossar/chinos/
-  - /glossary/chinos/
+  - /glossar/chinos/
 image_alt: Beige chino trousers styled with a shirt and loafers for a smart casual outfit
 relatedTerms:
   - title: Tailored Trousers

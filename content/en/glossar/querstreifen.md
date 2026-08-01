@@ -21,8 +21,7 @@ keywords:
 slug: horizontal-stripes
 url: /en/glossary/horizontal-stripes/
 aliases:
-  - /en/glossar/querstreifen/
-  - /glossary/horizontal-stripes/
+  - /glossar/querstreifen/
 image_alt: Editorial illustration of a top with horizontal stripes
 relatedTerms:
   - title: Vertical Stripes

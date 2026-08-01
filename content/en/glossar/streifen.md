@@ -23,8 +23,7 @@ keywords:
 slug: stripes
 url: /en/glossary/stripes/
 aliases:
-  - /en/glossar/streifen/
-  - /glossary/stripes/
+  - /glossar/streifen/
 image_alt: Editorial illustration showing garments with vertical, horizontal, and diagonal stripes
 relatedTerms:
   - title: Vertical Stripes

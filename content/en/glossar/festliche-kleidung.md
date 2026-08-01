@@ -22,8 +22,7 @@ keywords:
 slug: festive-clothing
 url: /en/glossary/festive-clothing/
 aliases:
-  - /en/glossar/festliche-kleidung/
-  - /glossary/festive-clothing/
+  - /glossar/festliche-kleidung/
 image_alt: Polished festive clothing outfit with refined fabric, elegant shoes, and a small evening bag
 relatedTerms:
   - title: Dress Code

@@ -34,8 +34,7 @@ seoTitle: "Брюки со складками: что это и как носи�
 slug: bryuki-so-skladkami
 url: /rus/glossariy/bryuki-so-skladkami/
 aliases:
-  - /rus/glossar/bundfaltenhose/
-  - /ru/glossar/bundfaltenhose/
+  - /glossar/bundfaltenhose/
 lastmod: "2026-07-09"
 history:
   - Складки у пояса давно используются в классическом мужском и женском крое как конструктивный способ добавить объём и свободу движения в верхней части брюк.

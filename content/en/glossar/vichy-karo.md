@@ -21,8 +21,7 @@ keywords:
 slug: gingham
 url: /en/glossary/gingham/
 aliases:
-  - /en/glossar/vichy-karo/
-  - /glossary/gingham/
+  - /glossar/vichy-karo/
 image_alt: Blue and white gingham check pattern in a woven cotton-like fabric
 relatedTerms:
   - title: Check Pattern

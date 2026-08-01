@@ -35,8 +35,7 @@ seoTitle: "Консультация по стилю | ESKYNA"
 slug: konsultatsiya-po-stilyu
 url: /rus/glossariy/konsultatsiya-po-stilyu/
 aliases:
-  - /rus/glossar/stilberatung/
-  - /ru/glossar/stilberatung/
+  - /glossar/stilberatung/
 lastmod: "2026-07-09"
 knowledge:
   - Консультация по стилю рассматривает не отдельную вещь, а связь между одеждой, образом жизни, ролью человека и желаемым впечатлением.

@@ -4,8 +4,7 @@ term: "Высокий стандарт ухоженности"
 slug: high-grooming-standard
 url: /rus/glossariy/high-grooming-standard/
 aliases:
-  - /rus/glossar/high-grooming-standard/
-  - /ru/glossar/high-grooming-standard/
+  - /glossar/high-grooming-standard/
 description: "Высокий стандарт ухоженности это согласованность одежды, причёски, состояния кожи и деталей, благодаря которой образ выглядит аккуратным, продуманным и убедительным."
 category: Стиль и впечатление
 tags:

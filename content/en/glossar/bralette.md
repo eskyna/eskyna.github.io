@@ -9,8 +9,7 @@ image: "images/glossar/bralette.png"
 image_alt: "Glossary illustration of a soft bralette with simple straps"
 url: /en/glossary/bralette/
 aliases:
-  - /en/glossar/bralette/
-  - /glossary/bralette/
+  - /glossar/bralette/
 tags:
   - bralette
   - lingerie

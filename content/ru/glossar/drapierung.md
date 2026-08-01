@@ -34,8 +34,7 @@ seoTitle: "Драпировка в одежде: значение, виды и �
 slug: drapirovka
 url: /ru/glossar/drapierung/
 aliases:
-  - /rus/glossar/drapierung/
-  - /ru/glossar/drapierung/
+  - /glossar/drapierung/
 lastmod: "2026-07-09"
 history:
   - Драпировка была важной частью одежды античности, где ткань не столько кроили, сколько укладывали и закрепляли вокруг тела.

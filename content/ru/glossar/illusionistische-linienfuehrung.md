@@ -5,8 +5,7 @@ description: "Иллюзорное направление линий в одеж
 slug: "illusionistische-linienfuehrung"
 url: "/rus/glossariy/illusionistische-linienfuehrung/"
 aliases:
-  - "/rus/glossar/illusionistische-linienfuehrung/"
-  - "/ru/glossar/illusionistische-linienfuehrung/"
+  - /glossar/illusionistische-linienfuehrung/
 category: "Крой, пропорции и посадка"
 tags:
   - "линии в одежде"

@@ -9,8 +9,7 @@ image: "images/glossar/qualitaetskontrast.png"
 image_alt: "Иллюстрация качественного контраста между чистыми и приглушёнными оттенками"
 url: /rus/glossariy/qualitaetskontrast/
 aliases:
-  - /rus/glossar/qualitaetskontrast/
-  - /ru/glossar/qualitaetskontrast/
+  - /glossar/qualitaetskontrast/
 tags:
   - качественный-контраст
   - цветовой-контраст

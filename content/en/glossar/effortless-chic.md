@@ -4,8 +4,7 @@ term: Effortless Chic
 slug: effortless-chic
 url: /en/glossary/effortless-chic/
 aliases:
-  - /en/glossar/effortless-chic/
-  - /glossary/effortless-chic/
+  - /glossar/effortless-chic/
 description: Effortless chic is a polished, elegant style that looks natural rather than overly planned. It combines personal ease, considered fit, and restrained details.
 category: Style & Impact
 tags:

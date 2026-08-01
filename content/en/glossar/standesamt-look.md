@@ -21,8 +21,7 @@ keywords:
 slug: registry-office-look
 url: /en/glossary/registry-office-look/
 aliases:
-  - /en/glossar/standesamt-look/
-  - /glossary/registry-office-look/
+  - /glossar/standesamt-look/
 image_alt: Elegant civil wedding outfit with a tailored light suit and minimalist accessories
 relatedTerms:
   - title: Registry Office Look

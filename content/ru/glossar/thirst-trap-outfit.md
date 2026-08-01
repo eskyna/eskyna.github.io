@@ -5,8 +5,7 @@ description: "Thirst Trap Outfit, или образ для привлечени�
 slug: "thirst-trap-outfit"
 url: "/rus/glossariy/thirst-trap-outfit/"
 aliases:
-  - "/rus/glossar/thirst-trap-outfit/"
-  - "/ru/glossar/thirst-trap-outfit/"
+  - /glossar/thirst-trap-outfit/
 category: "Стиль и впечатление"
 tags:
   - "thirst-trap-outfit"

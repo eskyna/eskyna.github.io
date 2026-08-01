@@ -21,8 +21,7 @@ keywords:
 slug: leather-bag
 url: /en/glossary/leather-bag/
 aliases:
-  - /en/glossar/ledertasche/
-  - /glossary/leather-bag/
+  - /glossar/ledertasche/
 image_alt: Structured brown leather bag with a short handle, shown as a timeless wardrobe accessory
 relatedTerms:
   - title: Leather

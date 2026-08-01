@@ -34,9 +34,8 @@ seoTitle: "Брюки палаццо: что это и как носить | Г�
 slug: bryuki-palatstso
 url: /rus/glossariy/bryuki-palatstso/
 aliases:
-  - /rus/glossar/palazzo-hose/
-  - /ru/glossar/palazzo-hose/
-  - /rus/glossariy/bryuki-palazzo/
+  - /glossar/palazzo-hose/
+  - /glossariy/bryuki-palazzo/
 lastmod: "2026-07-09"
 history:
   - Название palazzo связано с итальянским словом palazzo, «дворец», и подчёркивает эффектную, свободную форму модели.

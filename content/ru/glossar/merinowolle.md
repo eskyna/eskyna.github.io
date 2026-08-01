@@ -35,8 +35,7 @@ seoTitle: "Шерсть мериноса | ESKYNA Glossary"
 slug: sherst-merinosa
 url: /rus/glossariy/sherst-merinosa/
 aliases:
-  - /rus/glossar/merinowolle/
-  - /ru/glossar/merinowolle/
+  - /glossar/merinowolle/
 lastmod: "2026-07-09"
 history:
   - Мериносовая шерсть получила название от овец породы меринос, которых разводят ради особенно тонкого руна.

@@ -5,8 +5,7 @@ description: "Трансформация образа из дня в вечер,
 slug: day-to-night-transformation
 url: /rus/glossariy/day-to-night-transformation/
 aliases:
-  - /rus/glossar/day-to-night-transformation/
-  - /ru/glossar/day-to-night-transformation/
+  - /glossar/day-to-night-transformation/
 category: Гардероб и повседневность
 tags:
   - трансформация образа

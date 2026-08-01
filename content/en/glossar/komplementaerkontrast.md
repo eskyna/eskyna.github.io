@@ -9,8 +9,7 @@ image: "images/glossar/komplementaerkontrast.png"
 image_alt: "Color wheel showing complementary color pairs opposite each other"
 url: /en/glossary/komplementaerkontrast/
 aliases:
-  - /en/glossar/komplementaerkontrast/
-  - /glossary/komplementaerkontrast/
+  - /glossar/komplementaerkontrast/
 tags:
   - complementary contrast
   - color contrast

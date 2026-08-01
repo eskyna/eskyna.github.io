@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/achromatisches-styling/"
 aliases:
-  - "/en/glossar/achromatisches-styling/"
-  - "/glossary/achromatisches-styling/"
+  - /glossar/achromatisches-styling/
 image: "images/glossar/achromatisches-styling.png"
 image_alt: "Black blazer, white shirt, gray trousers, and black shoes in an achromatic outfit"
 relatedTerms:

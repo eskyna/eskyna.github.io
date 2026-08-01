@@ -21,8 +21,7 @@ keywords:
 slug: vest
 url: /en/glossary/vest/
 aliases:
-  - /en/glossar/weste/
-  - /glossary/vest/
+  - /glossar/weste/
 image_alt: Editorial illustration of a tailored sleeveless vest layered over a shirt
 relatedTerms:
   - title: Layering

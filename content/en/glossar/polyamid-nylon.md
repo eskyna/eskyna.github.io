@@ -5,8 +5,7 @@ description: "Polyamide, often called nylon, is a strong synthetic fiber valued 
 slug: "polyamid-nylon"
 url: "/en/glossary/polyamid-nylon/"
 aliases:
-  - "/en/glossar/polyamid-nylon/"
-  - "/glossary/polyamid-nylon/"
+  - /glossar/polyamid-nylon/
 category: "Materials & Details"
 tags:
   - "polyamide"

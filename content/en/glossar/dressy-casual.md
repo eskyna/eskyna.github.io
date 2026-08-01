@@ -20,8 +20,7 @@ keywords:
 slug: dressy-casual
 url: /en/glossary/dressy-casual/
 aliases:
-  - /en/glossar/dressy-casual/
-  - /glossary/dressy-casual/
+  - /glossar/dressy-casual/
 image_alt: Polished casual outfit with tailored trousers, a refined knit top, and loafers
 relatedTerms:
   - title: Smart Casual

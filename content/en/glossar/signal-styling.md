@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/signal-styling/"
 aliases:
-  - "/en/glossar/signal-styling/"
-  - "/glossary/signal-styling/"
+  - /glossar/signal-styling/
 image: "images/glossar/signal-styling.png"
 image_alt: "Professional wearing a tailored navy blazer with a soft blue blouse"
 relatedTerms:

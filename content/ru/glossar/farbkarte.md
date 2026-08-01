@@ -35,8 +35,7 @@ seoTitle: "Цветовая карта | ESKYNA Glossary"
 slug: tsvetovaya-karta
 url: /rus/glossariy/tsvetovaya-karta/
 aliases:
-  - /rus/glossar/farbkarte/
-  - /ru/glossar/farbkarte/
+  - /glossar/farbkarte/
 image_alt: "Цветовая карта с гармоничными оттенками для выбора одежды и аксессуаров"
 lastmod: "2026-07-09"
 knowledge:

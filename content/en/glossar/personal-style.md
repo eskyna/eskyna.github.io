@@ -23,8 +23,7 @@ keywords:
 slug: personal-style
 url: /en/glossary/personal-style/
 aliases:
-  - /en/glossar/personal-style/
-  - /glossary/personal-style/
+  - /glossar/personal-style/
 image_alt: Editorial illustration showing a cohesive personal style through clothing, color, and accessories
 relatedTerms:
   - title: Style Identity

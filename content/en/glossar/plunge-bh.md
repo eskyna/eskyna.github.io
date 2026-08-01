@@ -9,8 +9,7 @@ image: "images/glossar/plunge-bh.png"
 image_alt: "Illustration of a plunge bra with a low center bridge and angled cups"
 url: /en/glossary/plunge-bh/
 aliases:
-  - /en/glossar/plunge-bh/
-  - /glossary/plunge-bh/
+  - /glossar/plunge-bh/
 tags:
   - plunge bra
   - bra fit

@@ -4,8 +4,7 @@ term: "Glow-Up Wardrobe"
 slug: "glow-up-garderobe"
 url: "/en/glossary/glow-up-garderobe/"
 aliases:
-  - "/en/glossar/glow-up-garderobe/"
-  - "/glossary/glow-up-garderobe/"
+  - /glossar/glow-up-garderobe/
 description: "A Glow-Up Wardrobe is a focused wardrobe refresh that makes your style look fresher, more modern, and more like you without replacing everything you own."
 category: "Wardrobe & Everyday Style"
 tags:

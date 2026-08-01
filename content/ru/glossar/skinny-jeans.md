@@ -9,8 +9,7 @@ image_alt: "Иллюстрация скинни-джинсов с узкой п�
 slug: skinny-jeans
 url: /rus/glossariy/skinny-jeans/
 aliases:
-  - /rus/glossar/skinny-jeans/
-  - /ru/glossar/skinny-jeans/
+  - /glossar/skinny-jeans/
 tags:
   - скинни-джинсы
   - джинсы

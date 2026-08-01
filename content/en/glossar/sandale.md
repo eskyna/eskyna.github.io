@@ -21,8 +21,7 @@ keywords:
 slug: sandal
 url: /en/glossary/sandal/
 aliases:
-  - /en/glossar/sandale/
-  - /glossary/sandal/
+  - /glossar/sandale/
 image_alt: Editorial glossary illustration of sandals with straps and an open toe
 relatedTerms:
   - title: Dress Sandal

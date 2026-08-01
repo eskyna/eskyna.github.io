@@ -34,9 +34,8 @@ seoTitle: "Стилевая идентичность | ESKYNA"
 slug: stilevaya-identichnost
 url: /ru/glossar/stilidentitaet/
 aliases:
-  - /rus/glossar/stilidentitaet/
-  - /ru/glossar/stilidentitaet/
-  - /rus/glossariy/stilevaya-identichnost/
+  - /glossar/stilidentitaet/
+  - /glossariy/stilevaya-identichnost/
 lastmod: "2026-07-09"
 knowledge:
   - Стилевая идентичность не требует постоянного повторения одних и тех же вещей. Она проявляется через устойчивые принципы выбора цвета, силуэта, материалов и деталей.

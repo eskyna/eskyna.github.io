@@ -35,8 +35,7 @@ seoTitle: "Базовый предмет | ESKYNA Glossary"
 slug: bazovyy-predmet
 url: /rus/glossariy/bazovyy-predmet/
 aliases:
-  - /rus/glossar/basic/
-  - /ru/glossar/basic/
+  - /glossar/basic/
 lastmod: "2026-07-09"
 knowledge:
   - Базовость определяется не ценой, брендом или конкретным списком вещей, а тем, насколько предмет соответствует вашему образу жизни и легко сочетается с гардеробом.

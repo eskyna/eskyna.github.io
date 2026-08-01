@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing the natural texture of hemp fabric
 slug: hanf
 url: /en/glossary/hanf/
 aliases:
-  - /en/glossar/hanf/
-  - /glossary/hanf/
+  - /glossar/hanf/
 tags:
   - hemp
   - natural fiber

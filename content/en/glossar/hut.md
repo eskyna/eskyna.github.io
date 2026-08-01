@@ -20,8 +20,7 @@ keywords:
 slug: hat
 url: /en/glossary/hat/
 aliases:
-  - /en/glossar/hut/
-  - /glossary/hat/
+  - /glossar/hut/
 image_alt: Editorial illustration of different hat shapes, including a wide-brim hat and a structured felt hat
 relatedTerms:
   - title: Cap

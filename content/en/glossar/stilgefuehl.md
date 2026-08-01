@@ -21,8 +21,7 @@ keywords:
 slug: style-sensibility
 url: /en/glossary/style-sensibility/
 aliases:
-  - /en/glossar/stilgefuehl/
-  - /glossary/style-sensibility/
+  - /glossar/stilgefuehl/
 image_alt: Editorial glossary illustration representing style sensibility through coordinated clothing, color, and accessories
 relatedTerms:
   - title: Personal Style

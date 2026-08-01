@@ -14,8 +14,7 @@ keywords:
 slug: innenbeinlaenge
 url: /en/glossary/innenbeinlaenge/
 aliases:
-  - /en/glossar/innenbeinlaenge/
-  - /glossary/innenbeinlaenge/
+  - /glossar/innenbeinlaenge/
 relatedTerms:
   - title: "Leg Length"
     url: /en/glossar/beinlaenge/

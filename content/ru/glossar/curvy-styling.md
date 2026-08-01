@@ -39,10 +39,9 @@ seoTitle: "Стайлинг для пышных форм | ESKYNA"
 slug: stayling-dlya-pyshnyh-form
 url: /ru/glossar/curvy-styling/
 aliases:
-  - /rus/glossar/curvy-styling/
-  - /ru/glossar/curvy-styling/
-  - /rus/glossariy/curvy-styling/
-  - /rus/glossariy/stayling-dlya-pyshnyh-form/
+  - /glossar/curvy-styling/
+  - /glossariy/curvy-styling/
+  - /glossariy/stayling-dlya-pyshnyh-form/
 image_alt: "Стайлинг для пышных форм: образ с гармоничным балансом линий, посадки и пропорций"
 lastmod: "2026-07-09"
 knowledge:

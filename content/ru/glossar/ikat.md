@@ -15,8 +15,7 @@ keywords:
 slug: ikat
 url: /rus/glossariy/ikat/
 aliases:
-  - /rus/glossar/ikat/
-  - /ru/glossar/ikat/
+  - /glossar/ikat/
 tags:
   - "икат"
   - "ткачество"

@@ -25,8 +25,7 @@ keywords:
 slug: chartreuse-und-limettengruen
 url: /en/glossary/chartreuse-und-limettengruen/
 aliases:
-  - /en/glossar/chartreuse-und-limettengruen/
-  - /glossary/chartreuse-und-limettengruen/
+  - /glossar/chartreuse-und-limettengruen/
 relatedTerms:
   - title: "Green"
     url: /en/glossar/gruen/

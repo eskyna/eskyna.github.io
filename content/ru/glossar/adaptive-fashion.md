@@ -15,8 +15,7 @@ keywords:
 slug: adaptive-fashion
 url: /rus/glossariy/adaptive-fashion/
 aliases:
-  - /rus/glossar/adaptive-fashion/
-  - /ru/glossar/adaptive-fashion/
+  - /glossar/adaptive-fashion/
 tags:
   - "адаптивная одежда"
   - "инклюзивная мода"

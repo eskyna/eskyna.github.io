@@ -15,8 +15,7 @@ keywords:
 slug: kappnaht
 url: /en/glossary/kappnaht/
 aliases:
-  - /en/glossar/kappnaht/
-  - /glossary/kappnaht/
+  - /glossar/kappnaht/
 relatedTerms:
   - title: "French seam"
     url: /en/glossar/franzoesische-naht/

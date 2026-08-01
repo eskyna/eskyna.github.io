@@ -21,8 +21,7 @@ keywords:
 slug: leather-jacket
 url: /en/glossary/leather-jacket/
 aliases:
-  - /en/glossar/lederjacke/
-  - /glossary/leather-jacket/
+  - /glossar/lederjacke/
 image_alt: Black leather jacket styled as a versatile everyday outerwear piece
 relatedTerms:
   - title: Leather

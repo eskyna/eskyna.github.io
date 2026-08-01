@@ -35,9 +35,8 @@ seoTitle: "Свитшот: значение и применение | Глосс
 slug: svitshot
 url: /rus/glossariy/svitshot/
 aliases:
-  - /rus/glossar/sweatshirt/
-  - /ru/glossar/sweatshirt/
-  - /rus/glossariy/sweatshirt/
+  - /glossar/sweatshirt/
+  - /glossariy/sweatshirt/
 lastmod: "2026-07-09"
 knowledge:
   - "Классический свитшот не имеет капюшона и обычно надевается через голову."

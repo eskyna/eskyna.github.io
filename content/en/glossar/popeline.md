@@ -23,8 +23,7 @@ keywords:
 slug: popeline
 url: /en/glossary/popeline/
 aliases:
-  - /en/glossar/popeline/
-  - /glossary/popeline/
+  - /glossar/popeline/
 image_alt: Close-up of crisp white popeline fabric with a smooth surface and subtle fine rib
 relatedTerms:
   - title: Cotton

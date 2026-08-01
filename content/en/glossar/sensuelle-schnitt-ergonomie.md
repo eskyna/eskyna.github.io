@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/sensuelle-schnitt-ergonomie/"
 aliases:
-  - "/en/glossar/sensuelle-schnitt-ergonomie/"
-  - "/glossary/sensuelle-schnitt-ergonomie/"
+  - /glossar/sensuelle-schnitt-ergonomie/
 image: "images/glossar/sensuelle-schnitt-ergonomie.png"
 image_alt: "A softly draped dress moving naturally around the body"
 relatedTerms:

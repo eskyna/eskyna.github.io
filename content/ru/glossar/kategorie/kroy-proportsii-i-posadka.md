@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/kroy-proportsii-i-posadka/
 image: images/glossar/kategorie/schnitt-proportion-passform.png
 seoTitle: Крой, пропорции и посадка | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/kroy-proportsii-i-posadka/
-  - /ru/glossar/kategorie/kroy-proportsii-i-posadka/
+  - /glossar/kategorie/kroy-proportsii-i-posadka/
+  - /glossar/kroy-proportsii-i-posadka/
 tags:
   - крой одежды
   - пропорции в одежде

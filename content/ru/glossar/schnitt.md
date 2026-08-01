@@ -35,8 +35,7 @@ seoTitle: "Крой в одежде: что это и как он влияет �
 slug: kroy
 url: /rus/glossariy/kroy/
 aliases:
-  - /rus/glossar/schnitt/
-  - /ru/glossar/schnitt/
+  - /glossar/schnitt/
 lastmod: "2026-07-09"
 history:
   - Крой возник как практическая система построения одежды из плоского полотна ткани с учётом формы и движения тела.

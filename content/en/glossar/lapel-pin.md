@@ -21,8 +21,7 @@ keywords:
 slug: lapel-pin
 url: /en/glossary/lapel-pin/
 aliases:
-  - /en/glossar/lapel-pin/
-  - /glossary/lapel-pin/
+  - /glossar/lapel-pin/
 image_alt: Small decorative lapel pin attached to the lapel of a tailored blazer
 relatedTerms:
   - title: Brooch

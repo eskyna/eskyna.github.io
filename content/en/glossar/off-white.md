@@ -22,8 +22,7 @@ keywords:
 slug: off-white
 url: /en/glossary/off-white/
 aliases:
-  - /en/glossar/off-white/
-  - /glossary/off-white/
+  - /glossar/off-white/
 image_alt: Soft off-white fabric swatch in a warm, light neutral shade
 relatedTerms:
   - title: Cream White

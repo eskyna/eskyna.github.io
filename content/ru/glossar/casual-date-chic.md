@@ -5,8 +5,7 @@ description: "Casual Date Chic, или кэжуал-шик для свидани
 slug: casual-date-chic
 url: /rus/glossariy/casual-date-chic/
 aliases:
-  - /rus/glossar/casual-date-chic/
-  - /ru/glossar/casual-date-chic/
+  - /glossar/casual-date-chic/
 category: "Дресс-коды и поводы"
 subcategory: "Стиль и впечатление"
 tags:

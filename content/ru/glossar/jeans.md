@@ -38,9 +38,8 @@ seoTitle: "Джинсы: что это, виды кроя и как выбрат
 slug: dzhinsy
 url: /ru/glossar/jeans/
 aliases:
-  - /rus/glossar/jeans/
-  - /ru/glossar/jeans/
-  - /rus/glossariy/dzhinsy/
+  - /glossar/jeans/
+  - /glossariy/dzhinsy/
 lastmod: "2026-07-09"
 history:
   - Название jeans связано с французским названием Генуи, города, торговавшего прочными хлопковыми тканями.

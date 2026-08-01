@@ -34,9 +34,9 @@ seoTitle: "Креативный блэк-тай: что это и что над�
 slug: kreativnyy-blek-tay
 url: /ru/glossar/creative-black-tie/
 aliases:
-  - /rus/glossar/creative-black-tie/
-  - /rus/glossariy/creative-black-tie/
-  - /rus/glossariy/kreativnyy-blek-tay/
+  - /glossar/creative-black-tie/
+  - /glossariy/creative-black-tie/
+  - /glossariy/kreativnyy-blek-tay/
 image_alt: "Вечерний образ в дресс-коде креативный блэк-тай с формальным силуэтом и выразительными деталями"
 lastmod: "2026-07-09"
 knowledge:

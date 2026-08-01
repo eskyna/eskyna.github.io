@@ -14,8 +14,7 @@ keywords:
 slug: toile-de-jouy
 url: /rus/glossariy/toile-de-jouy/
 aliases:
-  - /rus/glossar/toile-de-jouy/
-  - /ru/glossar/toile-de-jouy/
+  - /glossar/toile-de-jouy/
 tags:
   - "туаль де жуи"
   - "принт"

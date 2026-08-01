@@ -17,8 +17,7 @@ keywords:
   - personal color palette
 url: /en/glossary/12-jahreszeiten-system/
 aliases:
-  - /en/glossar/12-jahreszeiten-system/
-  - /glossary/12-jahreszeiten-system/
+  - /glossar/12-jahreszeiten-system/
 weight: 12
 image: images/glossar/12-jahreszeiten-system.png
 image_alt: Color swatches arranged in twelve seasonal color groups

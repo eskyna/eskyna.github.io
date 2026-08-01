@@ -23,8 +23,7 @@ keywords:
 slug: cloud-dancer
 url: /en/glossary/cloud-dancer/
 aliases:
-  - /en/glossar/cloud-dancer/
-  - /glossary/cloud-dancer/
+  - /glossar/cloud-dancer/
 image_alt: Soft pale white fabric representing the Cloud Dancer color
 relatedTerms:
   - title: White

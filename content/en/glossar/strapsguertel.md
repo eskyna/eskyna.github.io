@@ -9,8 +9,7 @@ image: "images/glossar/strapsguertel.png"
 image_alt: "Illustration of a garter belt with adjustable suspender straps for stockings"
 url: /en/glossary/strapsguertel/
 aliases:
-  - /en/glossar/strapsguertel/
-  - /glossary/strapsguertel/
+  - /glossar/strapsguertel/
 tags:
   - garter belt
   - garters

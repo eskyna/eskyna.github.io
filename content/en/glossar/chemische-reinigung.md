@@ -22,8 +22,7 @@ keywords:
 slug: dry-cleaning
 url: /en/glossary/dry-cleaning/
 aliases:
-  - /en/glossar/chemische-reinigung/
-  - /glossary/dry-cleaning/
+  - /glossar/chemische-reinigung/
 image_alt: Garment care label showing a dry cleaning symbol beside a tailored jacket
 relatedTerms:
   - title: Care Label

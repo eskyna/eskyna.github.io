@@ -36,9 +36,8 @@ seoTitle: "Эстетика прибрежной бабушки | ESKYNA"
 slug: estetika-pribrezhnoy-babushki
 url: /rus/glossariy/estetika-pribrezhnoy-babushki/
 aliases:
-  - /rus/glossar/coastal-grandmother/
-  - /ru/glossar/coastal-grandmother/
-  - /rus/glossariy/estetika-coastal-grandmother/
+  - /glossar/coastal-grandmother/
+  - /glossariy/estetika-coastal-grandmother/
 image_alt: "Эстетика прибрежной бабушки: льняная одежда, мягкий трикотаж и спокойная морская палитра"
 lastmod: "2026-07-09"
 knowledge:

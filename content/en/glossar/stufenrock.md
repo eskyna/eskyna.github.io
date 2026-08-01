@@ -8,8 +8,7 @@ image_alt: Illustration of a tiered skirt with several horizontal gathered panel
 slug: stufenrock
 url: /en/glossary/stufenrock/
 aliases:
-  - /en/glossar/stufenrock/
-  - /glossary/stufenrock/
+  - /glossar/stufenrock/
 tags:
   - tiered skirt
   - skirt silhouette

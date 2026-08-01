@@ -33,8 +33,7 @@ seoTitle: "Чистые цвета: значение и применение | �
 slug: chistye-tsveta
 url: /ru/glossar/klare-farben/
 aliases:
-  - /rus/glossar/klare-farben/
-  - /ru/glossar/klare-farben/
+  - /glossar/klare-farben/
 image_alt: "Яркие чистые оттенки без серого подтона в палитре"
 lastmod: "2026-07-09"
 knowledge:

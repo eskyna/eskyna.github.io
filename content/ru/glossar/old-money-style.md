@@ -40,9 +40,8 @@ seoTitle: "Стиль олд-мани: что это и как носить | Г
 slug: stil-old-mani
 url: /rus/glossariy/stil-old-mani/
 aliases:
-  - /rus/glossar/old-money-style/
-  - /ru/glossar/old-money-style/
-  - /rus/glossariy/stil-old-money/
+  - /glossar/old-money-style/
+  - /glossariy/stil-old-money/
 lastmod: "2026-07-09"
 history:
   - Термин old money происходит из англоязычного культурного контекста, где им обозначают семьи с давно накопленным состоянием в отличие от «новых денег».

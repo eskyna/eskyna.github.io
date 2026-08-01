@@ -34,8 +34,7 @@ seoTitle: "Свадьба в роли гостя | ESKYNA Glossary"
 slug: svadba-v-roli-gostya
 url: /rus/glossariy/svadba-v-roli-gostya/
 aliases:
-  - /rus/glossar/hochzeit-als-gast/
-  - /ru/glossar/hochzeit-als-gast/
+  - /glossar/hochzeit-als-gast/
 lastmod: "2026-07-09"
 history:
   - Свадебная одежда гостей исторически зависела от местных традиций, социального контекста и степени формальности церемонии.

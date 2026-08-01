@@ -19,8 +19,7 @@ image_alt: Tailored jacket with a narrow welt pocket opening
 slug: paspeltasche
 url: /en/glossary/paspeltasche/
 aliases:
-  - /en/glossar/paspeltasche/
-  - /glossary/paspeltasche/
+  - /glossar/paspeltasche/
 relatedTerms:
   - title: Jetted Pocket
     url: /en/glossar/leistentasche/

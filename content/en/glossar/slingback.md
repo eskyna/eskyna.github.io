@@ -21,8 +21,7 @@ keywords:
 slug: slingback
 url: /en/glossary/slingback/
 aliases:
-  - /en/glossar/slingback/
-  - /glossary/slingback/
+  - /glossar/slingback/
 image_alt: Slingback shoes with an open heel and a narrow strap around the back of the foot
 relatedTerms:
   - title: Pumps

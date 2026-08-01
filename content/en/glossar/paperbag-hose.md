@@ -21,8 +21,7 @@ keywords:
 slug: paperbag-trousers
 url: /en/glossary/paperbag-trousers/
 aliases:
-  - /en/glossar/paperbag-hose/
-  - /glossary/paperbag-trousers/
+  - /glossar/paperbag-hose/
 image_alt: Paperbag trousers with a gathered high waistband and tied belt
 relatedTerms:
   - title: High Waist

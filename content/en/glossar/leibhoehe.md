@@ -14,8 +14,7 @@ keywords:
 slug: leibhoehe
 url: /en/glossary/leibhoehe/
 aliases:
-  - /en/glossar/leibhoehe/
-  - /glossary/leibhoehe/
+  - /glossar/leibhoehe/
 tags:
   - "waist height"
   - "trouser rise"

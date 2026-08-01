@@ -33,9 +33,8 @@ seoTitle: "Нарядный кэжуал: значение и применени
 slug: naryadnyy-kezhual
 url: /rus/glossariy/naryadnyy-kezhual/
 aliases:
-  - /rus/glossar/dressy-casual/
-  - /ru/glossar/dressy-casual/
-  - /rus/glossariy/dressy-casual/
+  - /glossar/dressy-casual/
+  - /glossariy/dressy-casual/
 image_alt: "Нарядный кэжуал: расслабленный, но аккуратно собранный образ"
 lastmod: "2026-07-09"
 knowledge:

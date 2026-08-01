@@ -23,8 +23,7 @@ keywords:
 slug: bronze
 url: /en/glossary/bronze/
 aliases:
-  - /en/glossar/bronze/
-  - /glossary/bronze/
+  - /glossar/bronze/
 relatedTerms:
   - title: "Gold"
     url: /en/glossar/gold/

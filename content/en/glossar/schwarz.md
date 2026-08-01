@@ -21,7 +21,6 @@ keywords:
 slug: black
 url: /en/glossar/schwarz/
 aliases:
-  - /en/glossar/schwarz/
   - /glossary/black/
 image_alt: Deep black fabric in an editorial glossary illustration
 relatedTerms:

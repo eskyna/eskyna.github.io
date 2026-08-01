@@ -21,8 +21,7 @@ keywords:
 slug: check-pattern
 url: /en/glossary/check-pattern/
 aliases:
-  - /en/glossar/karomuster/
-  - /glossary/check-pattern/
+  - /glossar/karomuster/
 image_alt: Editorial illustration showing several check patterns in different scales and colors
 relatedTerms:
   - title: Tartan

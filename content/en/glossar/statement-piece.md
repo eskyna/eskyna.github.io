@@ -20,8 +20,7 @@ keywords:
 slug: statement-piece
 url: /en/glossary/statement-piece/
 aliases:
-  - /en/glossar/statement-piece/
-  - /glossary/statement-piece/
+  - /glossar/statement-piece/
 image_alt: Editorial illustration of a bold statement jacket styled with simple neutral clothing
 relatedTerms:
   - title: Key Piece

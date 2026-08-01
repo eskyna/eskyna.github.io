@@ -15,8 +15,7 @@ keywords:
   - "how to care for nubuck leather"
 url: "/en/glossary/nubukleder/"
 aliases:
-  - "/en/glossar/nubukleder/"
-  - "/glossary/nubukleder/"
+  - /glossar/nubukleder/
 image: "images/glossar/nubukleder.png"
 image_alt: "Close-up of soft brown nubuck leather with a matte velvety surface"
 relatedTerms:

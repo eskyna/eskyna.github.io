@@ -4,8 +4,7 @@ term: "Scrunch Detailing"
 description: "Scrunch detailing is elastic gathering placed along the center back seam of leggings, shorts, trousers, or swimwear to emphasize the glute contour."
 url: "/en/glossary/scrunch-detailing/"
 aliases:
-  - "/en/glossar/scrunch-detailing/"
-  - "/glossary/scrunch-detailing/"
+  - /glossar/scrunch-detailing/
 category: "Cut, Proportion & Fit"
 tags:
   - "scrunch detailing"

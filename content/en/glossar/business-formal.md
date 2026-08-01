@@ -21,8 +21,7 @@ keywords:
 slug: business-formal
 url: /en/glossary/business-formal/
 aliases:
-  - /en/glossar/business-formal/
-  - /glossary/business-formal/
+  - /glossar/business-formal/
 image_alt: Polished business formal outfit with tailored suit, shirt, and understated accessories
 relatedTerms:
   - title: Business Professional

@@ -21,8 +21,7 @@ keywords:
 slug: leg-length
 url: /en/glossary/leg-length/
 aliases:
-  - /en/glossar/beinlaenge/
-  - /glossary/leg-length/
+  - /glossar/beinlaenge/
 image_alt: Editorial illustration showing how waist position, trouser length, and shoes influence perceived leg length
 relatedTerms:
   - title: Inside leg length

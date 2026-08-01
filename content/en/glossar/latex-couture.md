@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/latex-couture/
 aliases:
-  - /en/glossar/latex-couture/
-  - /glossary/latex-couture/
+  - /glossar/latex-couture/
 image: images/glossar/latex-couture.png
 image_alt: "Glossy black latex dress with a fitted sculptural silhouette"
 relatedTerms:

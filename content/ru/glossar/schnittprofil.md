@@ -32,8 +32,7 @@ seoTitle: "Профиль кроя: значение и применение | �
 slug: profil-kroya
 url: /ru/glossar/schnittprofil/
 aliases:
-  - /rus/glossar/schnittprofil/
-  - /ru/glossar/schnittprofil/
+  - /glossar/schnittprofil/
 lastmod: "2026-07-09"
 knowledge:
   - Профиль кроя не сводится к типу фигуры или размеру на ярлыке. Он учитывает линию плеч, положение талии, длины, объём, пластику ткани и образ жизни.

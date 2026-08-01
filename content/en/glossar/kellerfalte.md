@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing the symmetrical folds of a box pleat
 slug: kellerfalte
 url: /en/glossary/kellerfalte/
 aliases:
-  - /en/glossar/kellerfalte/
-  - /glossary/kellerfalte/
+  - /glossar/kellerfalte/
 tags:
   - box pleat
   - pleats

@@ -18,8 +18,8 @@ weight: 999
 image: "images/glossar/hueft-v-ausschnitt-french-cut.png"
 image_alt: "High-leg underwear with a French cut rising toward the hip bones"
 aliases:
-  - "/en/glossar/hueft-v-ausschnitt-french-cut/"
-  - "/glossary/hueft-v-ausschnitt-french-cut/"
+  - /glossar/hueft-v-ausschnitt-french-cut/
+  - /glossary/hueft-v-ausschnitt-french-cut/
 relatedTerms:
   - title: "High-Leg Bikini Cut"
     url: "/en/glossar/high-leg-beinausschnitt/"

@@ -21,8 +21,7 @@ keywords:
 slug: tanktop
 url: /en/glossary/tanktop/
 aliases:
-  - /en/glossar/tanktop/
-  - /glossary/tanktop/
+  - /glossar/tanktop/
 image_alt: Editorial glossary illustration of a simple sleeveless tank top
 relatedTerms:
   - title: Top

@@ -4,8 +4,7 @@ term: "Усилитель привлекательности"
 slug: "attraktivitaets-booster"
 url: "/rus/glossariy/attraktivitaets-booster/"
 aliases:
-  - "/rus/glossar/attraktivitaets-booster/"
-  - "/ru/glossar/attraktivitaets-booster/"
+  - /glossar/attraktivitaets-booster/
 description: "Усилитель привлекательности в одежде это цвет, крой, фактура или деталь, которые помогают лицу выглядеть свежее, а образу выглядеть более выразительно и притягательно."
 category: "Стиль и впечатление"
 tags:

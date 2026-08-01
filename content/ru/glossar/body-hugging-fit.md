@@ -4,8 +4,7 @@ term: "Сверхоблегающая посадка"
 slug: body-hugging-fit
 url: /rus/glossariy/body-hugging-fit/
 aliases:
-  - /rus/glossar/body-hugging-fit/
-  - /ru/glossar/body-hugging-fit/
+  - /glossar/body-hugging-fit/
 description: "Сверхоблегающая посадка, или body-hugging fit, это очень близкий к телу крой, который точно повторяет его контуры. Разбираемся, чем он отличается от slim fit и bodycon, как оценить комфорт и выбрать подходящую вещь."
 category: "Размеры и посадка"
 subcategory: "Крой, пропорции и посадка"

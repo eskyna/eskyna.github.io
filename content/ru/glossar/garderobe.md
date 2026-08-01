@@ -37,8 +37,7 @@ seoTitle: "Гардероб: значение, виды и как собрать
 slug: garderob
 url: /rus/glossariy/garderob/
 aliases:
-  - /rus/glossar/garderobe/
-  - /ru/glossar/garderobe/
+  - /glossar/garderobe/
 lastmod: "2026-07-09"
 knowledge:
   - Гардероб оценивают не по числу вещей, а по тому, насколько они соответствуют вашему образу жизни и сочетаются между собой.

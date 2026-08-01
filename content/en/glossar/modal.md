@@ -23,8 +23,7 @@ keywords:
 slug: modal
 url: /en/glossary/modal/
 aliases:
-  - /en/glossar/modal/
-  - /glossary/modal/
+  - /glossar/modal/
 image_alt: Soft modal fabric with a smooth surface and fluid drape
 relatedTerms:
   - title: Viscose

@@ -34,8 +34,7 @@ seoTitle: "Положение талии: значение и применени
 slug: polozhenie-talii
 url: /rus/glossariy/polozhenie-talii/
 aliases:
-  - /rus/glossar/taillenposition/
-  - /ru/glossar/taillenposition/
+  - /glossar/taillenposition/
 image_alt: "Иллюстрация положения талии и его влияния на пропорции фигуры"
 lastmod: "2026-07-09"
 history:

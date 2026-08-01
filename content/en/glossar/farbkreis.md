@@ -15,8 +15,7 @@ keywords:
 slug: farbkreis
 url: /en/glossary/farbkreis/
 aliases:
-  - /en/glossar/farbkreis/
-  - /glossary/farbkreis/
+  - /glossar/farbkreis/
 tags:
   - color wheel
   - color harmony

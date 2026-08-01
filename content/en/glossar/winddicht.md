@@ -9,8 +9,7 @@ image: "images/glossar/winddicht.png"
 image_alt: "Glossary illustration for Windproof"
 url: /en/glossary/winddicht/
 aliases:
-  - /en/glossar/winddicht/
-  - /glossary/winddicht/
+  - /glossar/winddicht/
 tags:
   - windproof clothing
   - outerwear

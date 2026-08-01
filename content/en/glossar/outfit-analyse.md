@@ -21,8 +21,7 @@ keywords:
 slug: outfit-analysis
 url: /en/glossary/outfit-analysis/
 aliases:
-  - /en/glossar/outfit-analyse/
-  - /glossary/outfit-analysis/
+  - /glossar/outfit-analyse/
 image_alt: Editorial glossary illustration showing the elements of outfit analysis, including color, fit, proportion, and accessories
 relatedTerms:
   - title: Outfit

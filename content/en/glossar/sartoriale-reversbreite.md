@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/sartoriale-reversbreite/
 aliases:
-  - /en/glossar/sartoriale-reversbreite/
-  - /glossary/sartoriale-reversbreite/
+  - /glossar/sartoriale-reversbreite/
 image: images/glossar/sartoriale-reversbreite.png
 image_alt: "Tailored jacket showing lapels in proportion to the shoulders and chest"
 relatedTerms:

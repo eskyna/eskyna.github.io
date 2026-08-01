@@ -21,8 +21,7 @@ keywords:
 slug: relaxed-style
 url: /en/glossary/relaxed-style/
 aliases:
-  - /en/glossar/laessig/
-  - /glossary/relaxed-style/
+  - /glossar/laessig/
 image_alt: Editorial illustration of a relaxed style outfit with soft layers and easy proportions
 relatedTerms:
   - title: Casual

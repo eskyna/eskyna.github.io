@@ -35,8 +35,7 @@ seoTitle: "Продольные полосы | ESKYNA Glossary"
 slug: prodolnye-polosy
 url: /rus/glossariy/prodolnye-polosy/
 aliases:
-  - /rus/glossar/laengsstreifen/
-  - /ru/glossar/laengsstreifen/
+  - /glossar/laengsstreifen/
 lastmod: "2026-07-09"
 knowledge:
   - Продольный рисунок может быть частью принта, ткачества, вязки, швов, планки с пуговицами или контрастной отделки.

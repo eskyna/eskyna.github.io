@@ -8,8 +8,7 @@ image_alt: "Фактурная поверхность ткани пике с м�
 slug: pique
 url: /rus/glossariy/pique/
 aliases:
-  - /rus/glossar/pique/
-  - /ru/glossar/pique/
+  - /glossar/pique/
 tags:
   - пике
   - ткани

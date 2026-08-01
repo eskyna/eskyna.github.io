@@ -36,9 +36,8 @@ seoTitle: "Оверсайз-блейзер: что это и как носить
 slug: oversayz-bleyzer
 url: /rus/glossariy/oversayz-bleyzer/
 aliases:
-  - /rus/glossar/oversized-blazer/
-  - /ru/glossar/oversized-blazer/
-  - /rus/glossariy/oversized-blazer/
+  - /glossar/oversized-blazer/
+  - /glossariy/oversized-blazer/
 lastmod: "2026-07-09"
 history:
   - "Свободные и расширенные жакеты особенно заметно вошли в массовую моду в 1980-х, когда силуэт с выраженными плечами стал важной частью power dressing."

@@ -21,8 +21,7 @@ keywords:
 slug: image
 url: /en/glossary/image/
 aliases:
-  - /en/glossar/image/
-  - /glossary/image/
+  - /glossar/image/
 image_alt: Editorial glossary illustration representing personal image, style, and visual presence
 relatedTerms:
   - title: Personal Style

@@ -9,8 +9,7 @@ image_alt: "Иллюстрация топа с коротким рукавом-�
 slug: kappenaermel
 url: /rus/glossariy/kappenaermel/
 aliases:
-  - /rus/glossar/kappenaermel/
-  - /ru/glossar/kappenaermel/
+  - /glossar/kappenaermel/
 tags:
   - рукав-крылышко
   - крой рукава

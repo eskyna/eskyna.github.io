@@ -35,8 +35,7 @@ seoTitle: "Юбка-солнце explained | ESKYNA"
 slug: yubka-solntse
 url: /rus/glossariy/yubka-solntse/
 aliases:
-  - /rus/glossar/tellerrock/
-  - /ru/glossar/tellerrock/
+  - /glossar/tellerrock/
 history:
   - Расклешённые юбки с широким подолом появлялись в моде разных эпох, но особенно заметной юбка-солнце стала в женственном силуэте середины XX века.
   - В послевоенной моде объёмные юбки часто сочетали с подчёркнутой талией, формируя выразительный силуэт с контрастом между узким верхом и широким низом.

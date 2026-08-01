@@ -23,8 +23,7 @@ keywords:
 slug: taubenblau
 url: /rus/glossariy/taubenblau/
 aliases:
-  - /rus/glossar/taubenblau/
-  - /ru/glossar/taubenblau/
+  - /glossar/taubenblau/
 relatedTerms:
   - title: "Светло-голубой"
     url: /ru/glossar/hellblau/

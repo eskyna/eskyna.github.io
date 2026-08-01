@@ -9,8 +9,7 @@ image: "images/glossar/shapewear.png"
 image_alt: "Иллюстрация корректирующего белья shapewear для гладкой линии силуэта под одеждой"
 url: /rus/glossariy/shapewear/
 aliases:
-  - /rus/glossar/shapewear/
-  - /ru/glossar/shapewear/
+  - /glossar/shapewear/
 tags:
   - shapewear
   - корректирующее белье

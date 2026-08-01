@@ -33,9 +33,8 @@ seoTitle: "Образ для события | ESKYNA Glossary"
 slug: obraz-dlya-sobytiya
 url: /ru/glossar/event-look/
 aliases:
-  - /rus/glossariy/obraz-dlya-sobytiya/
-  - /rus/glossar/event-look/
-  - /ru/glossar/event-look/
+  - /glossariy/obraz-dlya-sobytiya/
+  - /glossar/event-look/
 knowledge:
   - Образ для события складывается не из одной нарядной вещи, а из согласованности повода, уровня формальности, посадки, материалов, обуви и аксессуаров.
   - Приглашение, время суток и место проведения обычно дают более точные ориентиры, чем желание выглядеть максимально нарядно.

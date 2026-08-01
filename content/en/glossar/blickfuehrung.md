@@ -21,8 +21,7 @@ keywords:
 slug: eye-direction
 url: /en/glossary/eye-direction/
 aliases:
-  - /en/glossar/blickfuehrung/
-  - /glossary/eye-direction/
+  - /glossar/blickfuehrung/
 image_alt: Editorial illustration showing how color, lines, and accessories guide the eye through an outfit
 relatedTerms:
   - title: Focal Point

@@ -23,8 +23,7 @@ keywords:
 slug: violet
 url: /en/glossary/violet/
 aliases:
-  - /en/glossar/violett/
-  - /glossary/violet/
+  - /glossar/violett/
 image_alt: Editorial illustration showing a deep violet color swatch
 relatedTerms:
   - title: Purple

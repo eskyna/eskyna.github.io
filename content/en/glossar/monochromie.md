@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/monochromie/
 aliases:
-  - /en/glossar/monochromie/
-  - /glossary/monochromie/
+  - /glossar/monochromie/
 image: images/glossar/monochromie.png
 image_alt: Person wearing a coordinated outfit in different shades of blue
 relatedTerms:

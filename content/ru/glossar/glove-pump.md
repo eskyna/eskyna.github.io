@@ -33,9 +33,8 @@ seoTitle: "Облегающие лодочки: что это и как носи
 slug: oblegayuschie-lodochki
 url: /rus/glossariy/oblegayuschie-lodochki/
 aliases:
-  - /rus/glossar/glove-pump/
-  - /ru/glossar/glove-pump/
-  - /rus/glossariy/glove-pump/
+  - /glossar/glove-pump/
+  - /glossariy/glove-pump/
 image_alt: "Облегающие лодочки с мягким верхом, близко повторяющим форму стопы"
 knowledge:
   - Облегающие лодочки отличаются от классических лодочек прежде всего мягкой конструкцией верха и визуально близкой к стопе посадкой.

@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /en/glossary/full-canvas/
 aliases:
-  - /en/glossar/full-canvas/
-  - /glossary/full-canvas/
+  - /glossar/full-canvas/
 image: images/glossar/full-canvas.png
 image_alt: Close view of the lapel and front panel of a tailored suit jacket
 relatedTerms:

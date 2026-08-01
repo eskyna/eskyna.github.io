@@ -21,8 +21,7 @@ keywords:
 slug: necklace
 url: /en/glossary/necklace/
 aliases:
-  - /en/glossar/kette/
-  - /glossary/necklace/
+  - /glossar/kette/
 image_alt: Editorial illustration of a necklace with a fine chain and pendant
 relatedTerms:
   - title: Accessory

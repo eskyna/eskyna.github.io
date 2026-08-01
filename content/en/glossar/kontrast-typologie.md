@@ -5,8 +5,7 @@ description: "Contrast typology identifies the natural light-dark difference in 
 slug: kontrast-typologie
 url: /en/glossary/kontrast-typologie/
 aliases:
-  - /en/glossar/kontrast-typologie/
-  - /glossary/kontrast-typologie/
+  - /glossar/kontrast-typologie/
 category: Color Consultation & Color
 tags:
   - contrast typology

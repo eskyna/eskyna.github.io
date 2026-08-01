@@ -22,8 +22,7 @@ keywords:
 slug: bucket-bag
 url: /en/glossary/bucket-bag/
 aliases:
-  - /en/glossar/bucket-bag/
-  - /glossary/bucket-bag/
+  - /glossar/bucket-bag/
 image_alt: Bucket bag with a rounded base, drawstring closure, and shoulder strap
 relatedTerms:
   - title: Hobo Bag

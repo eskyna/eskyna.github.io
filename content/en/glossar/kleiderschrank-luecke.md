@@ -21,8 +21,7 @@ keywords:
 slug: wardrobe-gap
 url: /en/glossary/wardrobe-gap/
 aliases:
-  - /en/glossar/kleiderschrank-luecke/
-  - /glossary/wardrobe-gap/
+  - /glossar/kleiderschrank-luecke/
 image_alt: Editorial illustration showing a wardrobe gap in a thoughtfully planned clothing collection
 relatedTerms:
   - title: Wardrobe Planning

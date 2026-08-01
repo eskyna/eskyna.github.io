@@ -21,8 +21,7 @@ keywords:
 slug: light-academia
 url: /en/glossary/light-academia/
 aliases:
-  - /en/glossar/light-academia/
-  - /glossary/light-academia/
+  - /glossar/light-academia/
 image_alt: Light Academia outfit with a cream cardigan, pleated skirt, loafers, and a book
 relatedTerms:
   - title: Dark Academia

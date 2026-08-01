@@ -4,8 +4,7 @@ term: "Dynamic Fit Processing"
 description: "Dynamic Fit Processing assesses how clothing fits not only when standing still, but through natural movements such as walking, sitting, reaching, bending, and lifting the arms."
 url: "/en/glossary/dynamic-fit-processing/"
 aliases:
-  - "/en/glossar/dynamic-fit-processing/"
-  - "/glossary/dynamic-fit-processing/"
+  - /glossar/dynamic-fit-processing/
 category: "Cut, Proportion & Fit"
 tags:
   - "dynamic fit"

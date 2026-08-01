@@ -9,8 +9,7 @@ image: "images/glossar/minaudiere.png"
 image_alt: "Миниатюрная жёсткая вечерняя сумочка minaudiere с декоративной застёжкой"
 url: /rus/glossariy/minaudiere/
 aliases:
-  - /rus/glossar/minaudiere/
-  - /ru/glossar/minaudiere/
+  - /glossar/minaudiere/
 tags:
   - minaudiere
   - минаудьер

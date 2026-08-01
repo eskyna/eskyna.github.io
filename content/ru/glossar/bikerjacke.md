@@ -34,8 +34,7 @@ seoTitle: "Косуха: что это, как выбрать и носить | 
 slug: kosuha
 url: /rus/glossariy/kosuha/
 aliases:
-  - /rus/glossar/bikerjacke/
-  - /ru/glossar/bikerjacke/
+  - /glossar/bikerjacke/
 lastmod: "2026-07-09"
 history:
   - Косуха выросла из байкерской куртки с диагональной застёжкой, которая стала заметной частью молодёжной и музыкальной культуры XX века.

@@ -5,8 +5,7 @@ description: "Барный коктейльный образ это слегка
 slug: "bar-cocktail-look"
 url: "/rus/glossariy/bar-cocktail-look/"
 aliases:
-  - "/rus/glossar/bar-cocktail-look/"
-  - "/ru/glossar/bar-cocktail-look/"
+  - /glossar/bar-cocktail-look/
 category: "Дресс-коды и поводы"
 tags:
   - "барный образ"

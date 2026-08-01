@@ -20,8 +20,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/peplum-schoss/
 aliases:
-  - /rus/glossar/peplum-schoss/
-  - /ru/glossar/peplum-schoss/
+  - /glossar/peplum-schoss/
 image: images/glossar/peplum-schoss.png
 image_alt: Топ с расклешённой баской на линии талии
 relatedTerms:

@@ -21,8 +21,7 @@ keywords:
 slug: netted-shopper
 url: /en/glossary/netted-shopper/
 aliases:
-  - /en/glossar/netted-shopper/
-  - /glossary/netted-shopper/
+  - /glossar/netted-shopper/
 image_alt: Open-weave netted shopper bag with long handles
 relatedTerms:
   - title: Shopper

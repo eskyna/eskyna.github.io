@@ -8,8 +8,7 @@ image_alt: "Ткань из конопляного волокна с естес�
 slug: hanf
 url: /rus/glossariy/hanf/
 aliases:
-  - /rus/glossar/hanf/
-  - /ru/glossar/hanf/
+  - /glossar/hanf/
 tags:
   - конопляное-волокно
   - натуральные-материалы

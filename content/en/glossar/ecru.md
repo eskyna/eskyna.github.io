@@ -22,8 +22,7 @@ keywords:
 slug: ecru
 url: /en/glossary/ecru/
 aliases:
-  - /en/glossar/ecru/
-  - /glossary/ecru/
+  - /glossar/ecru/
 relatedTerms:
   - title: "Cream"
     url: /en/glossar/creme/

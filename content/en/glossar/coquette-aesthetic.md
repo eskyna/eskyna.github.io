@@ -9,8 +9,7 @@ image: "images/glossar/coquette-aesthetic.png"
 image_alt: "Glossary illustration of the Coquette Aesthetic with bows, lace, pearl jewelry, and soft pink details"
 url: /en/glossary/coquette-aesthetic/
 aliases:
-  - /en/glossar/coquette-aesthetic/
-  - /glossary/coquette-aesthetic/
+  - /glossar/coquette-aesthetic/
 lastmod: "2026-07-22"
 tags:
   - coquette aesthetic

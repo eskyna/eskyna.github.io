@@ -37,9 +37,8 @@ seoTitle: "Пуловер: что это, чем отличается от дж�
 slug: pulover
 url: /ru/glossar/pullover/
 aliases:
-  - /rus/glossar/pullover/
-  - /ru/glossar/pullover/
-  - /rus/glossariy/pulover/
+  - /glossar/pullover/
+  - /glossariy/pulover/
 lastmod: "2026-07-09"
 knowledge:
   - Пуловер не имеет сквозной застёжки и надевается через голову, в отличие от кардигана.

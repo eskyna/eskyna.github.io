@@ -21,8 +21,7 @@ keywords:
 slug: barrel-leg
 url: /en/glossary/barrel-leg/
 aliases:
-  - /en/glossar/barrel-leg/
-  - /glossary/barrel-leg/
+  - /glossar/barrel-leg/
 image_alt: Illustration of barrel leg trousers with a rounded leg shape and tapered ankle
 relatedTerms:
   - title: Tapered Fit

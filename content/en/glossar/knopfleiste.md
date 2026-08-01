@@ -21,8 +21,7 @@ keywords:
 slug: button-placket
 url: /en/glossary/button-placket/
 aliases:
-  - /en/glossar/knopfleiste/
-  - /glossary/button-placket/
+  - /glossar/knopfleiste/
 image_alt: Editorial glossary illustration showing a shirt button placket with buttons and buttonholes
 relatedTerms:
   - title: Concealed Placket

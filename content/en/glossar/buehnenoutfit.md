@@ -22,8 +22,7 @@ keywords:
 slug: stage-outfit
 url: /en/glossary/stage-outfit/
 aliases:
-  - /en/glossar/buehnenoutfit/
-  - /glossary/stage-outfit/
+  - /glossar/buehnenoutfit/
 image_alt: Speaker in a clear, polished outfit on a stage during a professional presentation
 relatedTerms:
   - title: Speaker Outfit

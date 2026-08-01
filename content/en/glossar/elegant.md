@@ -21,8 +21,7 @@ keywords:
 slug: elegant
 url: /en/glossary/elegant/
 aliases:
-  - /en/glossar/elegant/
-  - /glossary/elegant/
+  - /glossar/elegant/
 image_alt: Editorial glossary illustration representing elegant personal style through balanced, refined clothing
 relatedTerms:
   - title: Classic Style

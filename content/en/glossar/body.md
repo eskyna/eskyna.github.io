@@ -20,8 +20,7 @@ keywords:
 slug: body
 url: /en/glossary/body/
 aliases:
-  - /en/glossar/body/
-  - /glossary/body/
+  - /glossar/body/
 image_alt: Close-fitting black bodysuit styled with high-waisted trousers
 relatedTerms:
   - title: Dessous and Lingerie

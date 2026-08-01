@@ -22,8 +22,7 @@ keywords:
 slug: placed-print
 url: /en/glossary/placed-print/
 aliases:
-  - /en/glossar/platzierter-print/
-  - /glossary/placed-print/
+  - /glossar/platzierter-print/
 image_alt: Garment with a floral motif printed in one deliberate position rather than repeated over the full fabric
 relatedTerms:
   - title: Print

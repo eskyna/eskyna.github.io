@@ -34,8 +34,7 @@ seoTitle: "Подплечники: что это, как влияют на си�
 slug: podplechniki
 url: /rus/glossariy/podplechniki/
 aliases:
-  - /rus/glossar/schulterpolster/
-  - /ru/glossar/schulterpolster/
+  - /glossar/schulterpolster/
 lastmod: "2026-07-09"
 history:
   - Подплечники давно используются в мужском и женском крое, чтобы стабилизировать форму плеча и сделать силуэт более чётким.

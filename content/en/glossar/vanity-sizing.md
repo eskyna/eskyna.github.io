@@ -14,8 +14,7 @@ keywords:
 slug: vanity-sizing
 url: /en/glossary/vanity-sizing/
 aliases:
-  - /en/glossar/vanity-sizing/
-  - /glossary/vanity-sizing/
+  - /glossar/vanity-sizing/
 relatedTerms:
   - title: "Ready-to-Wear Size"
     url: /en/glossar/konfektionsgroesse/

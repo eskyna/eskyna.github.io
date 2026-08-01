@@ -21,8 +21,7 @@ keywords:
 slug: shift-dress
 url: /en/glossary/shift-dress/
 aliases:
-  - /en/glossar/shift-dress/
-  - /glossary/shift-dress/
+  - /glossar/shift-dress/
 image_alt: Editorial illustration of a simple straight shift dress with a high neckline and above-knee hem
 relatedTerms:
   - title: Shift Dress

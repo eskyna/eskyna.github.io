@@ -5,8 +5,7 @@ description: "Whale Tail, или «китовый хвост», это види�
 slug: whale-tail
 url: /rus/glossariy/whale-tail/
 aliases:
-  - /rus/glossar/whale-tail/
-  - /ru/glossar/whale-tail/
+  - /glossar/whale-tail/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - whale-tail

@@ -19,8 +19,7 @@ weight: 999
 slug: "sinnliche-farbpalette"
 url: "/rus/glossariy/sinnliche-farbpalette/"
 aliases:
-  - "/rus/glossar/sinnliche-farbpalette/"
-  - "/ru/glossar/sinnliche-farbpalette/"
+  - /glossar/sinnliche-farbpalette/
 image: "images/glossar/sinnliche-farbpalette.png"
 image_alt: "Палитра глубоких бордовых, пудрово-розовых, нюдовых и тёмно-синих оттенков"
 relatedTerms:

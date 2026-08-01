@@ -21,8 +21,7 @@ keywords:
 slug: stiletto
 url: /en/glossary/stiletto/
 aliases:
-  - /en/glossar/stiletto/
-  - /glossary/stiletto/
+  - /glossar/stiletto/
 image_alt: Illustration of black pointed-toe pumps with slim stiletto heels
 relatedTerms:
   - title: Pumps

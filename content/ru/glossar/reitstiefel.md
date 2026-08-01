@@ -9,8 +9,7 @@ image: "images/glossar/reitstiefel.png"
 image_alt: "Высокие кожаные сапоги для верховой езды с прямым голенищем и низким каблуком"
 url: /rus/glossariy/reitstiefel/
 aliases:
-  - /rus/glossar/reitstiefel/
-  - /ru/glossar/reitstiefel/
+  - /glossar/reitstiefel/
 tags:
   - сапоги для верховой езды
   - жокейские сапоги

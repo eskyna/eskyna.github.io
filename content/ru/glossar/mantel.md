@@ -34,8 +34,7 @@ seoTitle: "Пальто: что это, виды, посадка и выбор |
 slug: palto
 url: /rus/glossariy/palto/
 aliases:
-  - /rus/glossar/mantel/
-  - /ru/glossar/mantel/
+  - /glossar/mantel/
 lastmod: "2026-07-09"
 history:
   - Пальто развивалось из практичной верхней одежды для защиты от холода и непогоды.

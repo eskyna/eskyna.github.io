@@ -9,8 +9,7 @@ image: "images/glossar/rueckenkette.png"
 image_alt: "Glossary illustration of a delicate back necklace draping along an open back"
 url: /en/glossary/rueckenkette/
 aliases:
-  - /en/glossar/rueckenkette/
-  - /glossary/rueckenkette/
+  - /glossar/rueckenkette/
 tags:
   - back necklace
   - backless dress jewelry

@@ -21,8 +21,7 @@ keywords:
 slug: vamp-romantic
 url: /en/glossary/vamp-romantic/
 aliases:
-  - /en/glossar/vamp-romantic/
-  - /glossary/vamp-romantic/
+  - /glossar/vamp-romantic/
 relatedTerms:
   - title: Dark Feminine Aesthetic
     url: /en/glossar/dark-feminine-aesthetic/

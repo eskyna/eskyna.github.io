@@ -42,8 +42,7 @@ seoTitle: "Длина юбки | Style & Image ESKYNA"
 slug: dlina-yubki
 url: /rus/glossariy/dlina-yubki/
 aliases:
-  - /rus/glossar/rocklange/
-  - /ru/glossar/rocklange/
+  - /glossar/rocklange/
 lastmod: "2026-07-09"
 history:
   - "Представления об уместной длине юбки менялись вместе с общественными нормами, образом жизни и модой."

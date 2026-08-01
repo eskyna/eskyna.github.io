@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/stilfalle/"
 aliases:
-  - "/en/glossar/stilfalle/"
-  - "/glossary/stilfalle/"
+  - /glossar/stilfalle/
 image: "images/glossar/stilfalle.png"
 image_alt: "A person checking the hem and fit of an outfit in a full-length mirror"
 relatedTerms:

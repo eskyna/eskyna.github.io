@@ -4,8 +4,7 @@ term: "Patent Leather"
 slug: "lackleder"
 url: "/en/glossary/lackleder/"
 aliases:
-  - "/en/glossar/lackleder/"
-  - "/glossary/lackleder/"
+  - /glossar/lackleder/
 description: "Patent leather is leather with a high-gloss coated finish that creates a sleek, reflective look and offers some resistance to moisture."
 category: "Materials & Details"
 tags:

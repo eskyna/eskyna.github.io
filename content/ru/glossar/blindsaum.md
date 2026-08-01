@@ -15,8 +15,7 @@ keywords:
 slug: blindsaum
 url: /rus/glossariy/blindsaum/
 aliases:
-  - /rus/glossar/blindsaum/
-  - /ru/glossar/blindsaum/
+  - /glossar/blindsaum/
 tags:
   - "потайная подшивка"
   - "подол"

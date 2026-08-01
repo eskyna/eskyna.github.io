@@ -35,8 +35,7 @@ seoTitle: "Бижутерия: значение, виды и применени�
 slug: bizhuteriya
 url: /rus/glossariy/bizhuteriya/
 aliases:
-  - /rus/glossar/modeschmuck/
-  - /ru/glossar/modeschmuck/
+  - /glossar/modeschmuck/
 lastmod: "2026-07-09"
 knowledge:
   - "Бижутерия может быть изготовлена из недрагоценных металлов, стекла, пластика, смолы, текстиля и других материалов."

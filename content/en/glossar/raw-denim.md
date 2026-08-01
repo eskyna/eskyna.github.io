@@ -9,8 +9,7 @@ image: "images/glossar/raw-denim.png"
 image_alt: "Dark indigo raw denim fabric with a crisp, unwashed surface"
 url: /en/glossary/raw-denim/
 aliases:
-  - /en/glossar/raw-denim/
-  - /glossary/raw-denim/
+  - /glossar/raw-denim/
 tags:
   - raw denim
   - denim

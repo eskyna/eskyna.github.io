@@ -9,8 +9,7 @@ image: "images/glossar/schuhpflege.png"
 image_alt: "Glossary illustration showing shoe care tools beside a pair of shoes"
 url: /en/glossary/schuhpflege/
 aliases:
-  - /en/glossar/schuhpflege/
-  - /glossary/schuhpflege/
+  - /glossar/schuhpflege/
 tags:
   - shoe care
   - shoe maintenance

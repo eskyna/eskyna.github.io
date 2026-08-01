@@ -19,8 +19,7 @@ weight: 999
 slug: barchetta-tasche
 url: /en/glossary/barchetta-tasche/
 aliases:
-  - /en/glossar/barchetta-tasche/
-  - /glossary/barchetta-tasche/
+  - /glossar/barchetta-tasche/
 image: images/glossar/barchetta-tasche.png
 image_alt: Curved breast pocket on the chest of a tailored navy jacket
 relatedTerms:

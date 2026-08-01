@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/neopren/
 aliases:
-  - /en/glossar/neopren/
-  - /glossary/neopren/
+  - /glossar/neopren/
 image: images/glossar/neopren.png
 image_alt: "Black neoprene dress with a clean structured silhouette"
 relatedTerms:

@@ -22,8 +22,7 @@ keywords:
 slug: classic-style
 url: /en/glossary/classic-style/
 aliases:
-  - /en/glossar/klassisch/
-  - /glossary/classic-style/
+  - /glossar/klassisch/
 image_alt: Editorial illustration of a classic wardrobe with tailored blazer, neutral knitwear, trousers, and leather accessories
 relatedTerms:
   - title: Personal Style

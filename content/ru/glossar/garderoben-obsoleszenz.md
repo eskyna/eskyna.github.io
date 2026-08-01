@@ -5,8 +5,7 @@ description: "Гардеробная обсолесценция это осоз�
 slug: "garderoben-obsoleszenz"
 url: "/rus/glossariy/garderoben-obsoleszenz/"
 aliases:
-  - "/rus/glossar/garderoben-obsoleszenz/"
-  - "/ru/glossar/garderoben-obsoleszenz/"
+  - /glossar/garderoben-obsoleszenz/
 category: "Гардероб и повседневность"
 tags:
   - "гардеробная обсолесценция"

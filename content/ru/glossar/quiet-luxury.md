@@ -37,9 +37,8 @@ seoTitle: "Тихая роскошь | ESKYNA Glossary"
 slug: tihaya-roskosh
 url: /ru/glossar/quiet-luxury/
 aliases:
-  - /rus/glossar/quiet-luxury/
-  - /ru/glossar/quiet-luxury/
-  - /rus/glossariy/tihaya-roskosh/
+  - /glossar/quiet-luxury/
+  - /glossariy/tihaya-roskosh/
 lastmod: "2026-07-09"
 history:
   - "Термин quiet luxury получил широкое распространение в модной медиа-среде в начале 2020-х годов."

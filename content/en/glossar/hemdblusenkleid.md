@@ -20,8 +20,7 @@ keywords:
 slug: shirt-dress
 url: /en/glossary/shirt-dress/
 aliases:
-  - /en/glossar/hemdblusenkleid/
-  - /glossary/shirt-dress/
+  - /glossar/hemdblusenkleid/
 image_alt: Editorial illustration of a button-front shirt dress with collar and waist belt
 relatedTerms:
   - title: Shirt

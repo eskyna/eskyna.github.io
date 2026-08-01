@@ -8,11 +8,9 @@ image_alt: "Ткань из микрофибры с мягкой гладкой 
 slug: mikrofaser
 url: /rus/glossariy/mikrofaser/
 aliases:
-  - /rus/glossar/mikrofaser/
-  - /ru/glossar/mikrofaser/
-  - /rus/glossariy/microfaser/
-  - /rus/glossar/microfaser/
-  - /ru/glossar/microfaser/
+  - /glossar/mikrofaser/
+  - /glossariy/microfaser/
+  - /glossar/microfaser/
 tags:
   - микрофибра
   - синтетические материалы

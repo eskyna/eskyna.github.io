@@ -5,8 +5,7 @@ description: "Индекс длины ног описывает визуальн
 slug: beinlaengen-index
 url: /rus/glossariy/beinlaengen-index/
 aliases:
-  - /rus/glossar/beinlaengen-index/
-  - /ru/glossar/beinlaengen-index/
+  - /glossar/beinlaengen-index/
 category: "Крой, пропорции и посадка"
 tags:
   - пропорции

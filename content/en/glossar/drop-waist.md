@@ -21,8 +21,7 @@ keywords:
 slug: drop-waist
 url: /en/glossary/drop-waist/
 aliases:
-  - /en/glossar/drop-waist/
-  - /glossary/drop-waist/
+  - /glossar/drop-waist/
 image_alt: Editorial illustration of a dress with a waist seam placed below the natural waist at the hips
 relatedTerms:
   - title: Waist Position

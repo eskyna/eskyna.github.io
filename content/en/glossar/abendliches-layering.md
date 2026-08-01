@@ -18,8 +18,8 @@ weight: 999
 image: "images/glossar/abendliches-layering.png"
 image_alt: "A blazer draped over a satin dress for an evening outfit"
 aliases:
-  - "/en/glossar/abendliches-layering/"
-  - "/glossary/abendliches-layering/"
+  - /glossar/abendliches-layering/
+  - /glossary/abendliches-layering/
 relatedTerms:
   - title: "Layering"
     url: "/en/glossar/layering/"

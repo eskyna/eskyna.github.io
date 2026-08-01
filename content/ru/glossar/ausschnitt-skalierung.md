@@ -4,8 +4,7 @@ term: Масштабирование выреза
 slug: ausschnitt-skalierung
 url: /rus/glossariy/ausschnitt-skalierung/
 aliases:
-  - /rus/glossar/ausschnitt-skalierung/
-  - /ru/glossar/ausschnitt-skalierung/
+  - /glossar/ausschnitt-skalierung/
 description: "Масштабирование выреза это подбор глубины, ширины и заметности горловины с учетом роста, ширины лица, линии плеч и общего масштаба фигуры."
 category: Крой, пропорции и посадка
 tags:

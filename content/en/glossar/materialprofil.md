@@ -21,8 +21,7 @@ keywords:
 slug: material-profile
 url: /en/glossary/material-profile/
 aliases:
-  - /en/glossar/materialprofil/
-  - /glossary/material-profile/
+  - /glossar/materialprofil/
 image_alt: Editorial illustration showing a range of fabric textures and material qualities for a personal material profile
 relatedTerms:
   - title: Material Quality

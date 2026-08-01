@@ -22,8 +22,7 @@ keywords:
 slug: adventure-streetwear
 url: /en/glossary/adventure-streetwear/
 aliases:
-  - /en/glossar/adventure-streetwear/
-  - /glossary/adventure-streetwear/
+  - /glossar/adventure-streetwear/
 image_alt: Editorial illustration of urban outdoor-inspired adventure streetwear with technical jacket, cargo trousers, and practical accessories
 relatedTerms:
   - title: Gorpcore

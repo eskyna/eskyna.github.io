@@ -36,8 +36,7 @@ seoTitle: "Личный стиль: как найти свое направле�
 slug: lichnyy-stil
 url: /rus/glossariy/lichnyy-stil/
 aliases:
-  - /rus/glossar/personal-style/
-  - /ru/glossar/personal-style/
+  - /glossar/personal-style/
 lastmod: "2026-07-09"
 knowledge:
   - Личный стиль не обязан совпадать с одной эстетикой или модным направлением.

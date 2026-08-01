@@ -21,8 +21,7 @@ keywords:
 slug: empire-dress
 url: /en/glossary/empire-dress/
 aliases:
-  - /en/glossar/empire-kleid/
-  - /glossary/empire-dress/
+  - /glossar/empire-kleid/
 image_alt: Editorial illustration of an empire dress with a raised waistline below the bust and a flowing skirt
 relatedTerms:
   - title: Waist Position

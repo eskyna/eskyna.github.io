@@ -21,8 +21,7 @@ keywords:
 slug: glove-pump
 url: /en/glossary/glove-pump/
 aliases:
-  - /en/glossar/glove-pump/
-  - /glossary/glove-pump/
+  - /glossar/glove-pump/
 image_alt: Soft leather glove pumps with a close-fitting, minimalist silhouette
 relatedTerms:
   - title: Pumps

@@ -23,8 +23,7 @@ keywords:
 slug: poloshirt
 url: /en/glossary/poloshirt/
 aliases:
-  - /en/glossar/poloshirt/
-  - /glossary/poloshirt/
+  - /glossar/poloshirt/
 image_alt: Editorial illustration of a classic short-sleeved piqué polo shirt with collar and button placket
 relatedTerms:
   - title: Pique

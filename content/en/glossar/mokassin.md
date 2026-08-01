@@ -20,8 +20,7 @@ keywords:
 slug: moccasin
 url: /en/glossary/moccasin/
 aliases:
-  - /en/glossar/mokassin/
-  - /glossary/moccasin/
+  - /glossar/mokassin/
 image_alt: Soft leather moccasins with visible hand-sewn vamp stitching
 relatedTerms:
   - title: Loafer

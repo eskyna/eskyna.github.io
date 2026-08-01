@@ -34,8 +34,7 @@ seoTitle: "Кожаная сумка: что это и как выбрать | �
 slug: kozhanaya-sumka
 url: /rus/glossariy/kozhanaya-sumka/
 aliases:
-  - /rus/glossar/ledertasche/
-  - /ru/glossar/ledertasche/
+  - /glossar/ledertasche/
 lastmod: "2026-07-09"
 knowledge:
   - "Впечатление от кожаной сумки формируют не только материал, но и жёсткость конструкции, размер, цвет, фурнитура и степень блеска поверхности."

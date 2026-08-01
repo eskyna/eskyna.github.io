@@ -21,8 +21,7 @@ keywords:
 slug: western-boots
 url: /en/glossary/western-boots/
 aliases:
-  - /en/glossar/western-boots/
-  - /glossary/western-boots/
+  - /glossar/western-boots/
 image_alt: Brown leather Western boots with a shaped heel, pointed toe, and decorative stitching
 relatedTerms:
   - title: Jeans

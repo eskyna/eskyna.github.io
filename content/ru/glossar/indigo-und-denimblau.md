@@ -22,8 +22,7 @@ keywords:
 slug: indigo-und-denimblau
 url: /rus/glossariy/indigo-und-denimblau/
 aliases:
-  - /rus/glossar/indigo-und-denimblau/
-  - /ru/glossar/indigo-und-denimblau/
+  - /glossar/indigo-und-denimblau/
 relatedTerms:
   - title: "Синий"
     url: /ru/glossar/blau/

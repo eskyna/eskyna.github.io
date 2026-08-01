@@ -21,8 +21,7 @@ keywords:
 slug: waist-belt
 url: /en/glossary/waist-belt/
 aliases:
-  - /en/glossar/taillenguertel/
-  - /glossary/waist-belt/
+  - /glossar/taillenguertel/
 image_alt: A slim leather waist belt worn over a structured blazer to define the waist
 relatedTerms:
   - title: Waist Emphasis

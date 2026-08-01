@@ -37,9 +37,8 @@ seoTitle: "Горчичный цвет: кому подходит и с чем �
 slug: gorchichnyy
 url: /ru/glossar/senfgelb/
 aliases:
-  - /rus/glossar/senfgelb/
-  - /ru/glossar/senfgelb/
-  - /rus/glossariy/gorchichnyy/
+  - /glossar/senfgelb/
+  - /glossariy/gorchichnyy/
 lastmod: "2026-07-09"
 knowledge:
   - "Горчичный относится к приглушённым жёлтым оттенкам: в нём обычно заметны охристые, коричневые или оливковые нюансы."

@@ -38,8 +38,7 @@ seoTitle: "Джинсовая юбка: значение и применение
 slug: dzhinsovaya-yubka
 url: /rus/glossariy/dzhinsovaya-yubka/
 aliases:
-  - /rus/glossar/jeansrock/
-  - /ru/glossar/jeansrock/
+  - /glossar/jeansrock/
 lastmod: "2026-07-09"
 knowledge:
   - Джинсовая юбка может быть мини, миди или макси, прямой, A-силуэта, с разрезом, застёжкой спереди или запахом.

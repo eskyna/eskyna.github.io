@@ -21,8 +21,7 @@ keywords:
 slug: navy
 url: /en/glossary/navy/
 aliases:
-  - /en/glossar/navy/
-  - /glossary/navy/
+  - /glossar/navy/
 image_alt: Editorial glossary illustration showing the deep blue tone of navy
 relatedTerms:
   - title: Blue

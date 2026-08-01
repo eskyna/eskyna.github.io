@@ -9,8 +9,7 @@ image: "images/glossar/bh-passform.png"
 image_alt: "Illustration showing the key elements of proper bra fit, including band, cups, straps, bridge, and underwire"
 url: /en/glossary/bh-passform/
 aliases:
-  - /en/glossar/bh-passform/
-  - /glossary/bh-passform/
+  - /glossar/bh-passform/
 tags:
   - bra fit
   - bra support

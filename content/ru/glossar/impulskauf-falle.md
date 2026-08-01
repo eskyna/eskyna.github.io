@@ -4,8 +4,7 @@ term: "Ловушка импульсной покупки"
 slug: impulskauf-falle
 url: /rus/glossariy/impulskauf-falle/
 aliases:
-  - /rus/glossar/impulskauf-falle/
-  - /ru/glossar/impulskauf-falle/
+  - /glossar/impulskauf-falle/
 description: "Ловушка импульсной покупки возникает, когда вещь приобретают под влиянием скидки, тренда или эмоции, но позже не могут встроить в гардероб. Узнайте, как распознать риск неудачной покупки до оплаты."
 category: "Потребительские знания"
 tags:

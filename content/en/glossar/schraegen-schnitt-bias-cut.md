@@ -15,8 +15,7 @@ keywords:
 slug: schraegen-schnitt-bias-cut
 url: /en/glossary/schraegen-schnitt-bias-cut/
 aliases:
-  - /en/glossar/schraegen-schnitt-bias-cut/
-  - /glossary/schraegen-schnitt-bias-cut/
+  - /glossar/schraegen-schnitt-bias-cut/
 relatedTerms:
   - title: "Grainline"
     url: /en/glossar/fadenlauf/

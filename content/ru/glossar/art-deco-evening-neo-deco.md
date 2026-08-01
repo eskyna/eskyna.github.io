@@ -21,8 +21,7 @@ keywords:
 slug: art-deco-evening-neo-deco
 url: /rus/glossariy/art-deco-evening-neo-deco/
 aliases:
-  - /rus/glossar/art-deco-evening-neo-deco/
-  - /ru/glossar/art-deco-evening-neo-deco/
+  - /glossar/art-deco-evening-neo-deco/
 relatedTerms:
   - title: "Вечерний гардероб"
     url: /ru/glossar/abendgarderobe/

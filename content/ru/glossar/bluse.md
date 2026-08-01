@@ -38,8 +38,7 @@ seoTitle: "Блуза: что это, виды и как носить | Глос
 slug: bluza
 url: /rus/glossariy/bluza/
 aliases:
-  - /rus/glossar/bluse/
-  - /ru/glossar/bluse/
+  - /glossar/bluse/
 lastmod: "2026-07-09"
 history:
   - "Слово «блуза» пришло из французского языка. В XIX веке blouse называли свободную рабочую одежду, которую носили поверх основной."

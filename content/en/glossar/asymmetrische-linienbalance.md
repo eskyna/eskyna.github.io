@@ -5,8 +5,7 @@ description: "Asymmetrical line balance is a fashion design principle in which u
 slug: "asymmetrische-linienbalance"
 url: "/en/glossary/asymmetrische-linienbalance/"
 aliases:
-  - "/en/glossar/asymmetrische-linienbalance/"
-  - "/glossary/asymmetrische-linienbalance/"
+  - /glossar/asymmetrische-linienbalance/
 category: "Cut, Proportion & Fit"
 tags:
   - "asymmetrical line balance"

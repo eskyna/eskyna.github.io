@@ -5,8 +5,7 @@ description: "Чувственное построение силуэта это 
 slug: sinnliche-silhouetten-fuehrung
 url: /rus/glossariy/sinnliche-silhouetten-fuehrung/
 aliases:
-  - /rus/glossar/sinnliche-silhouetten-fuehrung/
-  - /ru/glossar/sinnliche-silhouetten-fuehrung/
+  - /glossar/sinnliche-silhouetten-fuehrung/
 category: Стиль и впечатление
 subcategory: Крой, пропорции и посадка
 tags:

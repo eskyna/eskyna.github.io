@@ -22,8 +22,7 @@ keywords:
 slug: job-interview-outfit
 url: /en/glossary/job-interview-outfit/
 aliases:
-  - /en/glossar/bewerbungsgespraech/
-  - /glossary/job-interview-outfit/
+  - /glossar/bewerbungsgespraech/
 image_alt: Editorial glossary illustration of a polished job interview outfit with tailored separates
 relatedTerms:
   - title: Business Casual

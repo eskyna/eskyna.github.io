@@ -22,7 +22,6 @@ keywords:
 slug: tenu-de-ville
 url: /en/glossar/tenue-de-ville/
 aliases:
-  - /en/glossar/tenue-de-ville/
   - /glossary/tenu-de-ville/
 image_alt: Editorial glossary illustration showing a polished Tenue de Ville daytime outfit
 relatedTerms:

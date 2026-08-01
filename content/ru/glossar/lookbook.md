@@ -14,8 +14,7 @@ keywords:
 slug: lookbook
 url: /rus/glossariy/lookbook/
 aliases:
-  - /rus/glossar/lookbook/
-  - /ru/glossar/lookbook/
+  - /glossar/lookbook/
 tags:
   - "лукбук"
   - "мода"

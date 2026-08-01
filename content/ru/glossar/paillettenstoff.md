@@ -5,8 +5,7 @@ description: "Ткань с пайетками, или Paillettenstoff, это �
 slug: paillettenstoff
 url: /rus/glossariy/paillettenstoff/
 aliases:
-  - /rus/glossar/paillettenstoff/
-  - /ru/glossar/paillettenstoff/
+  - /glossar/paillettenstoff/
 category: Материалы и детали
 tags:
   - ткань с пайетками

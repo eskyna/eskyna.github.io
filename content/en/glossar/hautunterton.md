@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/hautunterton/
 aliases:
-  - /en/glossar/hautunterton/
-  - /glossary/hautunterton/
+  - /glossar/hautunterton/
 image: images/glossar/hautunterton.png
 image_alt: Close portrait showing natural skin tones in daylight
 relatedTerms:

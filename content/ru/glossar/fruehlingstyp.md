@@ -35,9 +35,8 @@ seoTitle: "Весенний цветотип | ESKYNA Glossary"
 slug: vesenniy-tsvetotip
 url: /ru/glossar/fruehlingstyp/
 aliases:
-  - /rus/glossar/fruehlingstyp/
-  - /ru/glossar/fruehlingstyp/
-  - /rus/glossariy/vesenniy-tsvetotip/
+  - /glossar/fruehlingstyp/
+  - /glossariy/vesenniy-tsvetotip/
 image_alt: "Иллюстрация палитры для весеннего цветотипа с тёплыми светлыми и чистыми оттенками"
 knowledge:
   - Весенний цветотип обычно описывают через сочетание тёплого подтона, светлоты и ясности красок.

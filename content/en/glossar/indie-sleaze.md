@@ -9,8 +9,7 @@ image: "images/glossar/indie-sleaze.png"
 image_alt: "Glossary illustration for Indie Sleaze"
 url: /en/glossary/indie-sleaze/
 aliases:
-  - /en/glossar/indie-sleaze/
-  - /glossary/indie-sleaze/
+  - /glossar/indie-sleaze/
 tags:
   - Indie Sleaze
   - nightlife style

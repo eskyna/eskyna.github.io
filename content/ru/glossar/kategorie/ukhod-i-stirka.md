@@ -10,6 +10,9 @@ glossar_filter_terms:
   - waschsymbole
   - handwaesche
 url: /rus/glossariy/kategoriya/ukhod-i-stirka/
+aliases:
+  - /glossar/ukhod-i-stirka/
+  - /glossar/kategorie/ukhod-i-stirka/
 seoTitle: "Уход и стирка одежды: термины и правила | Глоссарий ESKYNA"
 image: images/glossar/kategorie/materialien-details.png
 tags:

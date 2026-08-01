@@ -4,8 +4,7 @@ term: "Subtle Sheer Layering"
 slug: "subtile-transparenz-akzentuierung"
 url: "/en/glossary/subtile-transparenz-akzentuierung/"
 aliases:
-  - "/en/glossar/subtile-transparenz-akzentuierung/"
-  - "/glossary/subtile-transparenz-akzentuierung/"
+  - /glossar/subtile-transparenz-akzentuierung/
 description: "Subtle sheer layering is the use of semi-sheer fabrics over opaque base pieces to add refined depth, softness, and controlled sensuality to an outfit."
 category: "Materials & Details"
 tags:

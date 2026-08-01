@@ -34,9 +34,8 @@ seoTitle: "Сапоги до колена: значение и применен�
 slug: sapogi-do-kolena
 url: /rus/glossariy/sapogi-do-kolena/
 aliases:
-  - /rus/glossar/knee-high-boots/
-  - /ru/glossar/knee-high-boots/
-  - /rus/glossariy/knee-high-boots/
+  - /glossar/knee-high-boots/
+  - /glossariy/knee-high-boots/
 knowledge:
   - "Высота голенища сама по себе не определяет посадку: важны также объём в икре, форма стопы, подъём и конструкция застёжки."
   - Сапоги до колена становятся заметной частью силуэта, поэтому их особенно важно оценивать вместе с длиной юбки, платья или брюк.

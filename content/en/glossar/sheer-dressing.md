@@ -9,8 +9,7 @@ image: "images/glossar/sheer-dressing.png"
 image_alt: "Illustration of sheer dressing with transparent fabric layers and coordinated underlayers"
 url: /en/glossary/sheer-dressing/
 aliases:
-  - /en/glossar/sheer-dressing/
-  - /glossary/sheer-dressing/
+  - /glossar/sheer-dressing/
 tags:
   - sheer dressing
   - transparent clothing

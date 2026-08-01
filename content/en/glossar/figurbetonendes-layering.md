@@ -18,8 +18,8 @@ weight: 999
 image: "images/glossar/figurbetonendes-layering.png"
 image_alt: "Layered outfit with a cropped jacket over a tucked top and high-waisted trousers"
 aliases:
-  - "/en/glossar/figurbetonendes-layering/"
-  - "/glossary/figurbetonendes-layering/"
+  - /glossar/figurbetonendes-layering/
+  - /glossary/figurbetonendes-layering/
 relatedTerms:
   - title: "Layering"
     url: "/en/glossar/layering/"

@@ -33,8 +33,7 @@ seoTitle: "Стилизация в одежде | ESKYNA Glossary"
 slug: stilizatsiya
 url: /rus/glossariy/stilizatsiya/
 aliases:
-  - /rus/glossar/styling/
-  - /ru/glossar/styling/
+  - /glossar/styling/
 lastmod: "2026-07-09"
 knowledge:
   - "Стилизация работает не только с отдельными вещами, но и с их соотношением: цветом, пропорциями, фактурой, степенью формальности и деталями."

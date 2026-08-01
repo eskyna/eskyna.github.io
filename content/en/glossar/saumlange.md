@@ -23,8 +23,7 @@ keywords:
 slug: hem-length
 url: /en/glossary/hem-length/
 aliases:
-  - /en/glossar/saumlange/
-  - /glossary/hem-length/
+  - /glossar/saumlange/
 image_alt: Illustration showing different hem lengths on skirts, dresses, trousers, and outerwear
 relatedTerms:
   - title: Hem

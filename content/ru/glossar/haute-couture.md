@@ -14,8 +14,7 @@ keywords:
 slug: haute-couture
 url: /rus/glossariy/haute-couture/
 aliases:
-  - /rus/glossar/haute-couture/
-  - /ru/glossar/haute-couture/
+  - /glossar/haute-couture/
 tags:
   - высокая-мода
   - haute-couture

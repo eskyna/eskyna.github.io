@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Stil & Wirkung"
 url: "/glossar/kategorie/stil-wirkung/"
+aliases:
+  - /glossar/stil-wirkung/
 seoTitle: "Stil & Wirkung: Kleidung, Ausstrahlung und Präsenz | ESKYNA"
 tags:
   - Stil

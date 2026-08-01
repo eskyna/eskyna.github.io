@@ -21,8 +21,7 @@ keywords:
 slug: bad-purchase
 url: /en/glossary/bad-purchase/
 aliases:
-  - /en/glossar/fehlkauf/
-  - /glossary/bad-purchase/
+  - /glossar/fehlkauf/
 image_alt: Editorial illustration of unworn clothing as a bad wardrobe purchase
 relatedTerms:
   - title: Impulse Purchase

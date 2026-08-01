@@ -14,8 +14,7 @@ keywords:
 slug: toile-de-jouy
 url: /en/glossary/toile-de-jouy/
 aliases:
-  - /en/glossar/toile-de-jouy/
-  - /glossary/toile-de-jouy/
+  - /glossar/toile-de-jouy/
 tags:
   - pattern
   - printed fabric

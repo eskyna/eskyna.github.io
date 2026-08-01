@@ -4,8 +4,7 @@ term: "No-Outfit-Outfit"
 slug: "no-outfit-outfit"
 url: "/rus/glossariy/no-outfit-outfit/"
 aliases:
-  - "/rus/glossar/no-outfit-outfit/"
-  - "/ru/glossar/no-outfit-outfit/"
+  - /glossar/no-outfit-outfit/
 description: "No-Outfit-Outfit, или образ «как будто без образа», это продуманное сочетание идеальных базовых вещей, которое выглядит естественно, непринуждённо и уверенно. Такой подход строится не на случайности, а на точной посадке, качестве и понятном личном стиле."
 category: "Гардероб и повседневность"
 tags:

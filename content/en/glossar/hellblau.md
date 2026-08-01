@@ -22,8 +22,7 @@ keywords:
 slug: light-blue
 url: /en/glossary/light-blue/
 aliases:
-  - /en/glossar/hellblau/
-  - /glossary/light-blue/
+  - /glossar/hellblau/
 image_alt: Soft light blue color swatch with a calm, airy appearance
 relatedTerms:
   - title: Blue

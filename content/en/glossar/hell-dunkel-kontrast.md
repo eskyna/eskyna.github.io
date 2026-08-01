@@ -19,8 +19,7 @@ image_alt: Light and dark clothing colors shown together to illustrate visual co
 slug: hell-dunkel-kontrast
 url: /en/glossary/hell-dunkel-kontrast/
 aliases:
-  - /en/glossar/hell-dunkel-kontrast/
-  - /glossary/hell-dunkel-kontrast/
+  - /glossar/hell-dunkel-kontrast/
 relatedTerms:
   - title: Contrast
     url: /en/glossar/kontrast/

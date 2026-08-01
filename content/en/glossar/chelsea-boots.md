@@ -20,8 +20,7 @@ keywords:
 slug: chelsea-boots
 url: /en/glossary/chelsea-boots/
 aliases:
-  - /en/glossar/chelsea-boots/
-  - /glossary/chelsea-boots/
+  - /glossar/chelsea-boots/
 image_alt: Black leather Chelsea boots with elastic side panels and pull tabs
 relatedTerms:
   - title: Ankle Boots

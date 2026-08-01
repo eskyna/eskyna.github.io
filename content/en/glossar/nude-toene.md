@@ -22,8 +22,7 @@ keywords:
 slug: nude-toene
 url: /en/glossary/nude-toene/
 aliases:
-  - /en/glossar/nude-toene/
-  - /glossary/nude-toene/
+  - /glossar/nude-toene/
 relatedTerms:
   - title: "Neutral Colors"
     url: /en/glossar/neutrale-farben/

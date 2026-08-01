@@ -23,8 +23,7 @@ keywords:
 slug: glencheck
 url: /en/glossary/glencheck/
 aliases:
-  - /en/glossar/glencheck/
-  - /glossary/glencheck/
+  - /glossar/glencheck/
 image_alt: Editorial glossary illustration of a classic Glencheck woven check pattern
 relatedTerms:
   - title: Check Pattern

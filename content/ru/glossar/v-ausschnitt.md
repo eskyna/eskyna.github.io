@@ -34,9 +34,9 @@ seoTitle: "V-образный вырез: значение и применени
 slug: v-obraznyy-vyrez
 url: /ru/glossar/v-ausschnitt/
 aliases:
-  - /rus/glossar/v-ausschnitt/
-  - /rus/glossariy/v-obraznyy-vyrez/
-  - /ru/glossar/v-obraznyy-vyrez/
+  - /glossar/v-ausschnitt/
+  - /glossariy/v-obraznyy-vyrez/
+  - /glossar/v-obraznyy-vyrez/
 lastmod: "2026-07-09"
 knowledge:
   - "Глубина и ширина V-образного выреза меняют его эффект: узкий и неглубокий выглядит сдержаннее, широкий или глубокий сильнее открывает верхнюю часть корпуса."

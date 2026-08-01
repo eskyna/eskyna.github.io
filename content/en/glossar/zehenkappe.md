@@ -21,8 +21,7 @@ keywords:
 slug: toe-cap
 url: /en/glossary/toe-cap/
 aliases:
-  - /en/glossar/zehenkappe/
-  - /glossary/toe-cap/
+  - /glossar/zehenkappe/
 image_alt: Close view of the toe cap at the front of a leather shoe
 relatedTerms:
   - title: Toe box

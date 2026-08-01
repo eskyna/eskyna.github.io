@@ -22,8 +22,7 @@ keywords:
 slug: color-typology
 url: /en/glossary/color-typology/
 aliases:
-  - /en/glossar/farbtypologie/
-  - /glossary/color-typology/
+  - /glossar/farbtypologie/
 image_alt: Editorial illustration showing coordinated personal color palettes for color typology
 relatedTerms:
   - title: Color Type

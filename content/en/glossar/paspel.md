@@ -20,8 +20,7 @@ keywords:
 slug: piping
 url: /en/glossary/piping/
 aliases:
-  - /en/glossar/paspel/
-  - /glossary/piping/
+  - /glossar/paspel/
 image_alt: Close view of contrasting piping sewn into the seam of a tailored garment
 relatedTerms:
   - title: Seam

@@ -21,8 +21,7 @@ keywords:
 slug: impact-competence
 url: /en/glossary/impact-competence/
 aliases:
-  - /en/glossar/wirkungskompetenz/
-  - /glossary/impact-competence/
+  - /glossar/wirkungskompetenz/
 image_alt: Editorial illustration representing visual impact, presence, and conscious styling decisions
 relatedTerms:
   - title: Impact

@@ -9,8 +9,7 @@ image: "images/glossar/rueckenausschnitt.png"
 image_alt: "Иллюстрация платья с глубоким вырезом на открытой спине"
 url: /rus/glossariy/rueckenausschnitt/
 aliases:
-  - /rus/glossar/rueckenausschnitt/
-  - /ru/glossar/rueckenausschnitt/
+  - /glossar/rueckenausschnitt/
 tags:
   - открытая-спинка
   - вырез-на-спине

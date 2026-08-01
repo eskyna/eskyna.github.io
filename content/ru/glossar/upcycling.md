@@ -33,9 +33,8 @@ seoTitle: "Апсайклинг | Style & Image ESKYNA"
 slug: apsaykling
 url: /ru/glossar/upcycling/
 aliases:
-  - /rus/glossar/upcycling/
-  - /ru/glossar/upcycling/
-  - /rus/glossariy/upcycling/
+  - /glossar/upcycling/
+  - /glossariy/upcycling/
 image_alt: "Переделка одежды и текстиля в новые индивидуальные вещи в рамках апсайклинга"
 lastmod: "2026-07-09"
 knowledge:

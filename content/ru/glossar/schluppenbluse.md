@@ -15,8 +15,7 @@ keywords:
 slug: schluppenbluse
 url: /rus/glossariy/schluppenbluse/
 aliases:
-  - /rus/glossar/schluppenbluse/
-  - /ru/glossar/schluppenbluse/
+  - /glossar/schluppenbluse/
 tags:
   - блузка
   - бант

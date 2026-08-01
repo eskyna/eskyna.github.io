@@ -34,9 +34,8 @@ seoTitle: "Инвестиционная вещь | ESKYNA Glossary"
 slug: investitionsteil
 url: /ru/glossar/investitionsteil/
 aliases:
-  - /rus/glossariy/investitsionnaya-veshch/
-  - /rus/glossar/investitionsteil/
-  - /ru/glossar/investitionsteil/
+  - /glossariy/investitsionnaya-veshch/
+  - /glossar/investitionsteil/
 lastmod: "2026-07-09"
 knowledge:
   - Инвестиционной может быть не только дорогая вещь, но и предмет со средней ценой, который подходит вашему гардеробу и носится регулярно.

@@ -23,8 +23,7 @@ keywords:
 slug: fuchsia
 url: /en/glossary/fuchsia/
 aliases:
-  - /en/glossar/fuchsia/
-  - /glossary/fuchsia/
+  - /glossar/fuchsia/
 image_alt: Editorial glossary illustration showing the vivid pink and purple-red character of fuchsia
 relatedTerms:
   - title: Pink

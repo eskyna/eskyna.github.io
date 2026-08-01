@@ -21,8 +21,7 @@ keywords:
 slug: sheath-dress
 url: /en/glossary/sheath-dress/
 aliases:
-  - /en/glossar/etuikleid/
-  - /glossary/sheath-dress/
+  - /glossar/etuikleid/
 image_alt: A tailored sheath dress with a close-fitting, straight silhouette
 relatedTerms:
   - title: Shift Dress

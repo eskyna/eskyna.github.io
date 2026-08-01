@@ -9,8 +9,7 @@ image: "images/glossar/quantitaetskontrast.png"
 image_alt: "Иллюстрация количественного контраста: крупные и небольшие цветовые площади в образе"
 url: /rus/glossariy/quantitaetskontrast/
 aliases:
-  - /rus/glossar/quantitaetskontrast/
-  - /ru/glossar/quantitaetskontrast/
+  - /glossar/quantitaetskontrast/
 lastmod: "2026-07-22"
 tags:
   - количественный-контраст

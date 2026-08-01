@@ -24,8 +24,7 @@ keywords:
 slug: silver
 url: /en/glossary/silver/
 aliases:
-  - /en/glossar/silber/
-  - /glossary/silver/
+  - /glossar/silber/
 image_alt: Silver metallic fabric and accessories in a cool gray tone
 relatedTerms:
   - title: Metallic

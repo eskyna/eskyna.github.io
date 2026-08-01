@@ -34,8 +34,8 @@ seoTitle: "Прозрачность ткани: значение и примен
 slug: prozrachnost
 url: /ru/glossar/transparenz/
 aliases:
-  - /rus/glossar/transparenz/
-  - /rus/glossariy/prozrachnost/
+  - /glossar/transparenz/
+  - /glossariy/prozrachnost/
 lastmod: "2026-07-09"
 knowledge:
   - Прозрачность зависит не только от названия волокна, но и от плотности, переплетения, цвета, натяжения ткани и освещения.

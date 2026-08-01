@@ -34,8 +34,7 @@ seoTitle: "Профиль впечатления | ESKYNA Glossary"
 slug: profil-vpechatleniya
 url: /rus/glossariy/profil-vpechatleniya/
 aliases:
-  - /rus/glossar/wirkungsprofil/
-  - /ru/glossar/wirkungsprofil/
+  - /glossar/wirkungsprofil/
 lastmod: "2026-07-09"
 knowledge:
   - Профиль впечатления формулирует не список обязательных вещей, а желаемый эффект образа в конкретной роли или ситуации.

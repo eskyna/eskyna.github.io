@@ -35,8 +35,7 @@ seoTitle: "Подкладка | Style & Image ESKYNA"
 slug: podkladka-futter
 url: /rus/glossariy/podkladka-futter/
 aliases:
-  - /rus/glossar/futter/
-  - /ru/glossar/futter/
+  - /glossar/futter/
 lastmod: "2026-07-09"
 knowledge:
   - Подкладка может скрывать изнаночные швы, прокладочные материалы и внутренние карманы, делая изделие аккуратнее изнутри.

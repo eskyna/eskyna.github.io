@@ -9,8 +9,7 @@ image: "images/glossar/boob-tape.png"
 image_alt: "Glossary illustration for Boob Tape"
 url: /en/glossary/boob-tape/
 aliases:
-  - /en/glossar/boob-tape/
-  - /glossary/boob-tape/
+  - /glossar/boob-tape/
 relatedTerms:
   - title: "Adhesive Bra and Backless Bra"
     url: /en/glossar/klebe-bh/

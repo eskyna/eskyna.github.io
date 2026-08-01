@@ -23,8 +23,7 @@ keywords:
 slug: ironing
 url: /en/glossary/ironing/
 aliases:
-  - /en/glossar/buegeln/
-  - /glossary/ironing/
+  - /glossar/buegeln/
 image_alt: An iron smoothing a light garment on an ironing board
 relatedTerms:
   - title: Steaming

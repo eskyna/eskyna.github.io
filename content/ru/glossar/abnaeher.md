@@ -35,8 +35,7 @@ seoTitle: "Вытачки: что это такое и как они влияю�
 slug: vytachki
 url: /ru/glossar/abnaeher/
 aliases:
-  - /rus/glossar/abnaeher/
-  - /ru/glossar/abnaeher/
+  - /glossar/abnaeher/
 lastmod: "2026-07-09"
 history:
   - Вытачки стали важным конструктивным приёмом в крое, когда одежда начала точнее учитывать объёмные формы тела, а не строиться только из прямых полотнищ.

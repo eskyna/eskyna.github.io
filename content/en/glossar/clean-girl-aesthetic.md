@@ -22,10 +22,8 @@ keywords:
 slug: clean-girl-aesthetic
 url: /en/glossary/clean-girl-aesthetic/
 aliases:
-  - /en/glossar/clean-girl-aesthetic/
-  - /glossary/clean-girl-aesthetic/
+  - /glossar/clean-girl-aesthetic/
   - /glossary/clean-girl-asthetic/
-  - /en/glossary/clean-girl-asthetic/
 image_alt: Editorial glossary illustration for Clean Girl Aesthetic
 relatedTerms:
   - title: Minimalism

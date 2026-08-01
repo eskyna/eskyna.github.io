@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Materialien & Details"
 url: "/glossar/kategorie/materialien-details/"
+aliases:
+  - /glossar/materialien-details/
 seoTitle: "Materialien & Details | ESKYNA"
 keywords:
   - materialien und details

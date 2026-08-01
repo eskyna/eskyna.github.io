@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/tankini/
 aliases:
-  - /rus/glossar/tankini/
-  - /ru/glossar/tankini/
+  - /glossar/tankini/
 image: images/glossar/tankini.png
 image_alt: "Танкини с удлинённым верхом и плавками"
 relatedTerms:

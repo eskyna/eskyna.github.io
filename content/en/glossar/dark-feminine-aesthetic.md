@@ -9,8 +9,7 @@ image: "images/glossar/dark-feminine-aesthetic.png"
 image_alt: "Glossary illustration for Dark Feminine Aesthetic"
 url: /en/glossary/dark-feminine-aesthetic/
 aliases:
-  - /en/glossar/dark-feminine-aesthetic/
-  - /glossary/dark-feminine-aesthetic/
+  - /glossar/dark-feminine-aesthetic/
 tags:
   - dark feminine aesthetic
   - feminine style

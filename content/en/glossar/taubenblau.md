@@ -23,8 +23,7 @@ keywords:
 slug: taubenblau
 url: /en/glossary/taubenblau/
 aliases:
-  - /en/glossar/taubenblau/
-  - /glossary/taubenblau/
+  - /glossar/taubenblau/
 relatedTerms:
   - title: "Blue"
     url: /en/glossar/blau/

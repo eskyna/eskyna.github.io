@@ -34,8 +34,8 @@ seoTitle: "Кант: что это такое и где применяется |
 slug: paspel
 url: /ru/glossar/paspel/
 aliases:
-  - /rus/glossariy/kant/
-  - /rus/glossar/paspel/
+  - /glossariy/kant/
+  - /glossar/paspel/
 lastmod: "2026-07-09"
 knowledge:
   - Кант может быть выполнен из основной ткани, контрастного материала, кожи или готовой тесьмы.

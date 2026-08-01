@@ -9,8 +9,7 @@ image: "images/glossar/keilabsatz.png"
 image_alt: "Иллюстрация обуви на танкетке с клиновидной подошвой"
 url: /rus/glossariy/keilabsatz/
 aliases:
-  - /rus/glossar/keilabsatz/
-  - /ru/glossar/keilabsatz/
+  - /glossar/keilabsatz/
 tags:
   - танкетка
   - обувь

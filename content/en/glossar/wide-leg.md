@@ -20,7 +20,6 @@ keywords:
 slug: wide-leg
 url: /en/glossar/wide-leg/
 aliases:
-  - /en/glossar/wide-leg/
   - /glossary/wide-leg/
 image_alt: Editorial illustration of wide-leg trousers with a relaxed, broad line from hip to hem
 relatedTerms:

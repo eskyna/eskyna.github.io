@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/kontrastlevel/
 aliases:
-  - /rus/glossar/kontrastlevel/
-  - /ru/glossar/kontrastlevel/
+  - /glossar/kontrastlevel/
 image: images/glossar/kontrastlevel.png
 image_alt: Сравнение мягкой и контрастной внешности по цвету волос, кожи и глаз
 relatedTerms:

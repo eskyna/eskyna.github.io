@@ -14,8 +14,7 @@ keywords:
 slug: lookbook
 url: /en/glossary/lookbook/
 aliases:
-  - /en/glossar/lookbook/
-  - /glossary/lookbook/
+  - /glossar/lookbook/
 tags:
   - lookbook
   - fashion presentation

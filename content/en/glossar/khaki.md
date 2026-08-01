@@ -22,8 +22,7 @@ keywords:
 slug: khaki
 url: /en/glossary/khaki/
 aliases:
-  - /en/glossar/khaki/
-  - /glossary/khaki/
+  - /glossar/khaki/
 image_alt: Editorial illustration showing a muted khaki green and sandy brown color tone
 relatedTerms:
   - title: Olive

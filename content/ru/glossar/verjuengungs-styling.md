@@ -4,8 +4,7 @@ term: Омолаживающий стайлинг
 slug: verjuengungs-styling
 url: /rus/glossariy/verjuengungs-styling/
 aliases:
-  - /rus/glossar/verjuengungs-styling/
-  - /ru/glossar/verjuengungs-styling/
+  - /glossar/verjuengungs-styling/
 description: "Омолаживающий стайлинг это осознанный подбор цвета, кроя, посадки и деталей, который помогает создать более свежее, современное и энергичное впечатление."
 category: Стиль и впечатление
 tags:

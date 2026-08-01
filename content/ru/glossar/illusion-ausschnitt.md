@@ -9,8 +9,7 @@ image: "images/glossar/illusion-ausschnitt.png"
 image_alt: "Иллюстрация платья с иллюзорным вырезом из полупрозрачной сетки"
 url: /rus/glossariy/illusion-ausschnitt/
 aliases:
-  - /rus/glossar/illusion-ausschnitt/
-  - /ru/glossar/illusion-ausschnitt/
+  - /glossar/illusion-ausschnitt/
 lastmod: "2026-07-22"
 tags:
   - иллюзорный-вырез

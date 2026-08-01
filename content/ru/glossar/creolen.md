@@ -35,9 +35,8 @@ seoTitle: "Креолки: что это такое и как носить се�
 slug: kreolki
 url: /ru/glossar/creolen/
 aliases:
-  - /rus/glossariy/kreolki/
-  - /rus/glossar/creolen/
-  - /ru/glossar/creolen/
+  - /glossariy/kreolki/
+  - /glossar/creolen/
 lastmod: "2026-07-09"
 knowledge:
   - Размер креолок влияет на заметность украшения и визуальный масштаб зоны лица.

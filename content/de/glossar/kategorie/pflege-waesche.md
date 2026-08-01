@@ -10,6 +10,8 @@ glossar_filter_terms:
   - waschsymbole
   - handwaesche
 url: "/glossar/kategorie/pflege-waesche/"
+aliases:
+  - /glossar/pflege-waesche/
 seoTitle: "Pflege & Wäsche | ESKYNA Glossary"
 image: images/glossar/kategorie/materialien-details.png
 knowledge:

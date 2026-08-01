@@ -35,8 +35,7 @@ seoTitle: "Фиолетовый цвет в одежде: значение и с
 slug: fioletovyy
 url: /rus/glossariy/fioletovyy/
 aliases:
-  - /rus/glossar/violett/
-  - /ru/glossar/violett/
+  - /glossar/violett/
 lastmod: "2026-07-09"
 knowledge:
   - Фиолетовый охватывает широкий диапазон оттенков, от холодных сине-фиолетовых до более тёплых красно-фиолетовых.

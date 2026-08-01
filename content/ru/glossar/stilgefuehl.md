@@ -34,8 +34,8 @@ seoTitle: "Чувство стиля: значение и применение |
 slug: chuvstvo-stilya
 url: /ru/glossar/stilgefuehl/
 aliases:
-  - /rus/glossar/stilgefuehl/
-  - /rus/glossariy/chuvstvo-stilya/
+  - /glossar/stilgefuehl/
+  - /glossariy/chuvstvo-stilya/
 lastmod: "2026-07-09"
 knowledge:
   - "Чувство стиля не сводится к знанию трендов: оно помогает соотносить одежду с человеком, ситуацией и задачей образа."

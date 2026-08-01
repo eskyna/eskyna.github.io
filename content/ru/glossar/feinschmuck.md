@@ -35,8 +35,7 @@ seoTitle: "Изящные украшения: что это и как носит
 slug: izyashchnye-ukrasheniya
 url: /ru/glossar/feinschmuck/
 aliases:
-  - /rus/glossar/feinschmuck/
-  - /ru/glossar/feinschmuck/
+  - /glossar/feinschmuck/
 lastmod: "2026-07-09"
 knowledge:
   - Изящность украшения определяется прежде всего масштабом, линией, посадкой и дозировкой в образе, а не только стоимостью материала.

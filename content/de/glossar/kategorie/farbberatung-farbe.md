@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Farbberatung & Farbe"
 url: "/glossar/kategorie/farbberatung-farbe/"
+aliases:
+  - /glossar/farbberatung-farbe/
 seoTitle: "Farbberatung & Farbe: Farbtyp, Unterton & Kontrast | ESKYNA"
 relatedTerms:
   - "/glossar/farbberatung/"

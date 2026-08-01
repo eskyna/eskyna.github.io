@@ -34,8 +34,8 @@ seoTitle: "Макси-юбка: что это, длина и как носить
 slug: maxirock
 url: /ru/glossar/maxirock/
 aliases:
-  - /rus/glossariy/maksi-yubka/
-  - /rus/glossar/maxirock/
+  - /glossariy/maksi-yubka/
+  - /glossar/maxirock/
 lastmod: "2026-07-09"
 history:
   - Термин «макси» вошёл в модный словарь в конце 1960-х годов, когда длинные юбки и платья стали заметной частью актуальной моды.

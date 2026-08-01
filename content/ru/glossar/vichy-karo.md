@@ -34,8 +34,8 @@ seoTitle: "Клетка виши explained | ESKYNA"
 slug: vichy-karo
 url: /ru/glossar/vichy-karo/
 aliases:
-  - /rus/glossariy/kletka-vishi/
-  - /ru/glossar/kletka-vishi/
+  - /glossariy/kletka-vishi/
+  - /glossar/kletka-vishi/
 lastmod: "2026-07-09"
 history:
   - Название узора связано с французским городом Виши, хотя сам тип простой двухцветной клетки известен в текстильной традиции значительно шире.

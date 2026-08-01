@@ -34,9 +34,8 @@ seoTitle: "Цветовой профиль | ESKYNA Glossary"
 slug: tsvetovoy-profil
 url: /rus/glossariy/tsvetovoy-profil/
 aliases:
-  - /rus/glossar/farbprofil/
-  - /ru/glossar/farbprofil/
-  - /rus/glossariy/profil-tsveta/
+  - /glossar/farbprofil/
+  - /glossariy/profil-tsveta/
 lastmod: "2026-07-09"
 knowledge:
   - Цветовой профиль обычно рассматривает температуру оттенков, их светлоту, насыщенность и уровень естественного контраста внешности.

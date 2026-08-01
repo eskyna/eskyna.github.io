@@ -9,8 +9,7 @@ image: "images/glossar/sinnlicher-stil.png"
 image_alt: "Иллюстрация глоссария о чувственном стиле в одежде"
 url: /rus/glossariy/sinnlicher-stil/
 aliases:
-  - /rus/glossar/sinnlicher-stil/
-  - /ru/glossar/sinnlicher-stil/
+  - /glossar/sinnlicher-stil/
 lastmod: "2026-07-22"
 tags:
   - чувственный стиль

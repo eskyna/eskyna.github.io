@@ -9,8 +9,7 @@ image: "images/glossar/lichtechtheit.png"
 image_alt: "Glossary illustration showing fabric color fading through exposure to sunlight"
 url: /en/glossary/lichtechtheit/
 aliases:
-  - /en/glossar/lichtechtheit/
-  - /glossary/lichtechtheit/
+  - /glossar/lichtechtheit/
 tags:
   - lightfastness
   - fabric care

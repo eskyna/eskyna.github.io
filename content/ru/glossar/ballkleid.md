@@ -8,8 +8,7 @@ image_alt: "Иллюстрация бального платья с облега
 slug: ballkleid
 url: /rus/glossariy/ballkleid/
 aliases:
-  - /rus/glossar/ballkleid/
-  - /ru/glossar/ballkleid/
+  - /glossar/ballkleid/
 tags:
   - бальное-платье
   - вечерняя-мода

@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/rus/glossariy/7-sekunden-regel/"
 aliases:
-  - "/rus/glossar/7-sekunden-regel/"
-  - "/ru/glossar/7-sekunden-regel/"
+  - /glossar/7-sekunden-regel/
 image: "images/glossar/7-sekunden-regel.png"
 image_alt: "Человек в собранном образе входит на деловую встречу"
 relatedTerms:

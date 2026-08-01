@@ -37,8 +37,7 @@ seoTitle: "Блейзер: что это, отличия и как носить 
 slug: bleyzer
 url: /rus/glossariy/bleyzer/
 aliases:
-  - /rus/glossar/blazer/
-  - /ru/glossar/blazer/
+  - /glossar/blazer/
 lastmod: "2026-07-09"
 history:
   - Термин blazer исторически связывают с клубными и спортивными жакетами, а также с морской формой, но его точное происхождение трактуется по-разному.

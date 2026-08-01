@@ -21,8 +21,7 @@ keywords:
 slug: tote-bag
 url: /en/glossary/tote-bag/
 aliases:
-  - /en/glossar/tote-bag/
-  - /glossary/tote-bag/
+  - /glossar/tote-bag/
 image_alt: Large structured leather tote bag with two handles, styled as an everyday accessory
 relatedTerms:
   - title: Shopper

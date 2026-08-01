@@ -20,8 +20,7 @@ keywords:
 slug: tunic
 url: /en/glossary/tunic/
 aliases:
-  - /en/glossar/tunika/
-  - /glossary/tunic/
+  - /glossar/tunika/
 image_alt: Editorial illustration of a loose, hip-length tunic styled over slim trousers
 relatedTerms:
   - title: Tunic

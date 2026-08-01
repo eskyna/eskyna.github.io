@@ -20,8 +20,7 @@ keywords:
 slug: androgynous-body-shape
 url: /en/glossary/androgynous-body-shape/
 aliases:
-  - /en/glossar/androgyne-figur/
-  - /glossary/androgynous-body-shape/
+  - /glossar/androgyne-figur/
 image_alt: Editorial illustration of a balanced, straight androgynous silhouette in tailored clothing
 relatedTerms:
   - title: Androgynous Style

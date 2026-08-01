@@ -21,8 +21,7 @@ keywords:
 slug: rule-of-thirds-in-outfits
 url: /en/glossary/rule-of-thirds-in-outfits/
 aliases:
-  - /en/glossar/drittel-regel-im-outfit/
-  - /glossary/rule-of-thirds-in-outfits/
+  - /glossar/drittel-regel-im-outfit/
 image_alt: Editorial glossary illustration showing one-third and two-thirds proportions in an outfit
 relatedTerms:
   - title: Proportion

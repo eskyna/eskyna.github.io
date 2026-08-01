@@ -34,9 +34,8 @@ seoTitle: "Кроссовки: что это и как носить | Глосс
 slug: krossovki
 url: /ru/glossar/sneaker/
 aliases:
-  - /rus/glossar/sneaker/
-  - /ru/glossar/sneaker/
-  - /rus/glossariy/sneaker/
+  - /glossar/sneaker/
+  - /glossariy/sneaker/
 lastmod: "2026-07-09"
 history:
   - Спортивная обувь с резиновой подошвой стала развиваться в конце XIX и начале XX века вместе с массовым производством резины и ростом популярности спорта.

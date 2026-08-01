@@ -34,8 +34,7 @@ seoTitle: "Складки в одежде | ESKYNA Glossary"
 slug: skladki
 url: /rus/glossariy/skladki/
 aliases:
-  - /rus/glossar/falten/
-  - /ru/glossar/falten/
+  - /glossar/falten/
 lastmod: "2026-07-09"
 knowledge:
   - Складки могут быть заложены конструкцией изделия, заутюжены или формироваться свободно в движении.

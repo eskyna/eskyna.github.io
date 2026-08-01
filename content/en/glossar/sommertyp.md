@@ -22,8 +22,7 @@ keywords:
 slug: summer-color-type
 url: /en/glossary/summer-color-type/
 aliases:
-  - /en/glossar/sommertyp/
-  - /glossary/summer-color-type/
+  - /glossar/sommertyp/
 image_alt: Editorial glossary illustration showing a soft, cool Summer Color Type palette in muted blue, rose, lavender, and gray
 relatedTerms:
   - title: Color Type

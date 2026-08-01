@@ -34,8 +34,8 @@ seoTitle: "Шёлковый платок: что это и как носить |
 slug: shyolkovyy-platok
 url: /ru/glossar/seidentuch/
 aliases:
-  - /rus/glossar/seidentuch/
-  - /rus/glossariy/shyolkovyy-platok/
+  - /glossar/seidentuch/
+  - /glossariy/shyolkovyy-platok/
 lastmod: "2026-07-09"
 history:
   - Шёлковые платки связаны с долгой историей производства и торговли шёлком, а также с традицией декоративных головных и шейных покрытий.

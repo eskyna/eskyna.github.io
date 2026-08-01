@@ -14,8 +14,7 @@ keywords:
 slug: power-dressing
 url: /rus/glossariy/power-dressing/
 aliases:
-  - /rus/glossar/power-dressing/
-  - /ru/glossar/power-dressing/
+  - /glossar/power-dressing/
 relatedTerms:
   - title: "Роскошь 80-х"
     url: /ru/glossar/80s-luxury/

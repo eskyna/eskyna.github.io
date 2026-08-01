@@ -34,9 +34,9 @@ seoTitle: "Классический стиль | ESKYNA Glossary"
 slug: klassicheskiy-stil
 url: /ru/glossar/klassisch/
 aliases:
-  - /rus/glossar/klassisch/
-  - /rus/glossariy/klassicheskiy-stil/
-  - /ru/glossar/klassicheskiy-stil/
+  - /glossar/klassisch/
+  - /glossariy/klassicheskiy-stil/
+  - /glossar/klassicheskiy-stil/
 lastmod: "2026-07-09"
 knowledge:
   - "Классический стиль не требует дорогого гардероба: решающими остаются посадка, качество материала, аккуратность и сочетаемость вещей."

@@ -8,8 +8,7 @@ image_alt: "Скрытая планка на светлой рубашке: пу
 slug: verdeckte-knopfleiste
 url: /rus/glossariy/verdeckte-knopfleiste/
 aliases:
-  - /rus/glossar/verdeckte-knopfleiste/
-  - /ru/glossar/verdeckte-knopfleiste/
+  - /glossar/verdeckte-knopfleiste/
 tags:
   - скрытая планка
   - потайная застёжка

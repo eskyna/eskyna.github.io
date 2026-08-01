@@ -5,8 +5,7 @@ description: "Гардероб для свидания в ресторане п�
 slug: "dinner-date-garderobe"
 url: "/rus/glossariy/dinner-date-garderobe/"
 aliases:
-  - "/rus/glossar/dinner-date-garderobe/"
-  - "/ru/glossar/dinner-date-garderobe/"
+  - /glossar/dinner-date-garderobe/
 category: "Дресс-коды и поводы"
 tags:
   - "свидание в ресторане"

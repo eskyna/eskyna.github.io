@@ -4,8 +4,7 @@ term: "Деликатный акцент прозрачности"
 slug: subtile-transparenz-akzentuierung
 url: /rus/glossariy/subtile-transparenz-akzentuierung/
 aliases:
-  - /rus/glossar/subtile-transparenz-akzentuierung/
-  - /ru/glossar/subtile-transparenz-akzentuierung/
+  - /glossar/subtile-transparenz-akzentuierung/
 description: "Деликатный акцент прозрачности это приём стилизации, при котором полупрозрачные ткани носят поверх непрозрачной основы или сочетают с закрытыми слоями. Он добавляет образу глубину, лёгкость и чувственность без излишней откровенности."
 category: "Материалы и детали"
 subcategory: "Стиль и впечатление"

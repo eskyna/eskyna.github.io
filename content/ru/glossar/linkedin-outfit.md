@@ -33,8 +33,7 @@ seoTitle: "Образ для LinkedIn | ESKYNA Glossary"
 slug: obraz-dlya-linkedin
 url: /rus/glossariy/obraz-dlya-linkedin/
 aliases:
-  - /rus/glossar/linkedin-outfit/
-  - /ru/glossar/linkedin-outfit/
+  - /glossar/linkedin-outfit/
 image_alt: "Профессиональный образ для фото профиля LinkedIn в спокойной деловой палитре"
 lastmod: "2026-07-09"
 knowledge:

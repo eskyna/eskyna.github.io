@@ -34,9 +34,8 @@ seoTitle: "Консультация по типажу | ESKYNA"
 slug: konsultatsiya-po-tipazhu
 url: /rus/glossariy/konsultatsiya-po-tipazhu/
 aliases:
-  - /rus/glossar/typberatung/
-  - /ru/glossar/typberatung/
-  - /rus/glossariy/tipazhnaya-konsultatsiya/
+  - /glossar/typberatung/
+  - /glossariy/tipazhnaya-konsultatsiya/
 lastmod: "2026-07-09"
 knowledge:
   - "Консультация по типажу не сводится к одной внешней категории: она рассматривает внешность, образ жизни, роль и желаемое впечатление вместе."

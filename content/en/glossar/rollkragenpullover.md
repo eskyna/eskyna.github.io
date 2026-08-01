@@ -21,8 +21,7 @@ keywords:
 slug: turtleneck-sweater
 url: /en/glossary/turtleneck-sweater/
 aliases:
-  - /en/glossar/rollkragenpullover/
-  - /glossary/turtleneck-sweater/
+  - /glossar/rollkragenpullover/
 image_alt: Editorial glossary illustration of a knitted turtleneck sweater with a high folded collar
 relatedTerms:
   - title: Turtleneck

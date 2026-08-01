@@ -22,8 +22,7 @@ keywords:
 slug: leather
 url: /en/glossary/leather/
 aliases:
-  - /en/glossar/leder/
-  - /glossary/leather/
+  - /glossar/leder/
 image_alt: Editorial glossary illustration showing the natural grain and smooth surface of leather
 relatedTerms:
   - title: Suede

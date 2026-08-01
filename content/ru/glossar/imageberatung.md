@@ -34,9 +34,8 @@ seoTitle: "Имидж-консультация: что это и что в не�
 slug: imidzh-konsultatsiya
 url: /ru/glossar/imageberatung/
 aliases:
-  - /rus/glossariy/imidzh-konsultatsiya/
-  - /rus/glossar/imageberatung/
-  - /ru/glossar/imageberatung/
+  - /glossariy/imidzh-konsultatsiya/
+  - /glossar/imageberatung/
 lastmod: "2026-07-09"
 knowledge:
   - Имидж складывается не из одежды отдельно, а из сочетания силуэта, цвета, посадки, деталей, осанки и контекста.

@@ -21,8 +21,7 @@ seoTitle: "Waist Charms: значение и применение | Глосса
 slug: waist-charms
 url: /rus/glossariy/waist-charms/
 aliases:
-  - /rus/glossar/waist-charms/
-  - /ru/glossar/waist-charms/
+  - /glossar/waist-charms/
 relatedTerms:
   - title: Ремень
     url: /ru/glossar/guertel/

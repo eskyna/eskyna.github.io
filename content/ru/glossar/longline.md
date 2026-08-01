@@ -35,9 +35,8 @@ seoTitle: "Удлиненный крой: значение и применени
 slug: udlinennyy-kroy
 url: /rus/glossariy/udlinennyy-kroy/
 aliases:
-  - /rus/glossar/longline/
-  - /ru/glossar/longline/
-  - /rus/glossariy/longline/
+  - /glossar/longline/
+  - /glossariy/longline/
 knowledge:
   - Удлиненный крой может относиться к жакету, рубашке, кардигану, пальто, футболке или жилету, если вещь заметно длиннее привычной для своей категории.
   - Эффект longline создается не только длиной, но и посадкой, материалом, расположением застежки и сочетанием с нижним слоем.

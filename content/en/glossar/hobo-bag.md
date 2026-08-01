@@ -22,8 +22,7 @@ keywords:
 slug: hobo-bag
 url: /en/glossary/hobo-bag/
 aliases:
-  - /en/glossar/hobo-bag/
-  - /glossary/hobo-bag/
+  - /glossar/hobo-bag/
 image_alt: Soft crescent-shaped hobo bag with a short shoulder strap
 relatedTerms:
   - title: Shoulder Bag

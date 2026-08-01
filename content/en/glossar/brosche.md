@@ -8,8 +8,7 @@ image_alt: Glossary illustration of a decorative brooch pin
 slug: brosche
 url: /en/glossary/brosche/
 aliases:
-  - /en/glossar/brosche/
-  - /glossary/brosche/
+  - /glossar/brosche/
 relatedTerms:
   - title: Accessory
     url: /en/glossar/accessoire/

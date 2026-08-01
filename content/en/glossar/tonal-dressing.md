@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /en/glossary/tonal-dressing/
 aliases:
-  - /en/glossar/tonal-dressing/
-  - /glossary/tonal-dressing/
+  - /glossar/tonal-dressing/
 image: images/glossar/tonal-dressing.png
 image_alt: Tonal beige outfit with a knit top, tailored trousers, and matching accessories
 relatedTerms:

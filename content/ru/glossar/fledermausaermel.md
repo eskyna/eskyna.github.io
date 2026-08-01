@@ -35,9 +35,8 @@ seoTitle: "Рукав летучая мышь | ESKYNA Glossary"
 slug: rukav-letuchaya-mysh
 url: /ru/glossar/fledermausaermel/
 aliases:
-  - /rus/glossariy/rukav-letuchaya-mysh/
-  - /rus/glossar/fledermausaermel/
-  - /ru/glossar/fledermausaermel/
+  - /glossariy/rukav-letuchaya-mysh/
+  - /glossar/fledermausaermel/
 lastmod: "2026-07-09"
 knowledge:
   - "Рукав летучая мышь отличается глубокой проймой и дополнительным объёмом между корпусом и рукавом."

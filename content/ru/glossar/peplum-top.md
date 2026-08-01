@@ -33,9 +33,8 @@ seoTitle: "Топ с баской: что это и как носить | Гло
 slug: top-s-baskoy
 url: /rus/glossariy/top-s-baskoy/
 aliases:
-  - /rus/glossar/peplum-top/
-  - /ru/glossar/peplum-top/
-  - /rus/glossariy/peplum-top/
+  - /glossar/peplum-top/
+  - /glossariy/peplum-top/
 lastmod: "2026-07-09"
 history:
   - "Баска получила название по связи с традиционными элементами одежды басков, а в европейской моде стала заметной декоративной деталью женского костюма."

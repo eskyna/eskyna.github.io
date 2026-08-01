@@ -5,8 +5,7 @@ description: "Soft Glam Styling, или мягкий гламур, это эле
 slug: soft-glam-styling
 url: /rus/glossariy/soft-glam-styling/
 aliases:
-  - /rus/glossar/soft-glam-styling/
-  - /ru/glossar/soft-glam-styling/
+  - /glossar/soft-glam-styling/
 category: Стиль и впечатление
 tags:
   - soft-glam-styling

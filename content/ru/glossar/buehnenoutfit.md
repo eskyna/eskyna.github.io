@@ -34,8 +34,7 @@ seoTitle: "Сценический образ: значение и примене
 slug: stsenicheskiy-obraz
 url: /rus/glossariy/stsenicheskiy-obraz/
 aliases:
-  - /rus/glossar/buehnenoutfit/
-  - /ru/glossar/buehnenoutfit/
+  - /glossar/buehnenoutfit/
 image_alt: "Иллюстрация сценического образа для публичного выступления"
 lastmod: "2026-07-09"
 history:

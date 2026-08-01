@@ -22,8 +22,6 @@ keywords:
 slug: animal-print
 url: /en/glossar/animal-print/
 aliases:
-  - /en/glossar/animal-print/
-  - /en/glossary/animal-print/
   - /glossary/animal-print/
 image_alt: Leopard, zebra, and snake-inspired animal print patterns on fabric
 relatedTerms:

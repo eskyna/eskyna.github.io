@@ -4,8 +4,7 @@ term: Back Cut and Seam Placement
 description: "Back cut and seam placement describes how the back of a garment is shaped through seams, darts, panels, yokes, and shoulder construction. It strongly affects posture, shoulder balance, waist definition, comfort, and how clothing falls from behind."
 url: /en/glossary/ruecken-schnittfuehrung/
 aliases:
-  - /en/glossar/ruecken-schnittfuehrung/
-  - /glossary/ruecken-schnittfuehrung/
+  - /glossar/ruecken-schnittfuehrung/
 category: Cut, Proportion & Fit
 tags:
   - back cut

@@ -4,8 +4,7 @@ term: Бикини-топ на косточках
 slug: buegel-bikini
 url: /rus/glossariy/buegel-bikini/
 aliases:
-  - /rus/glossar/buegel-bikini/
-  - /ru/glossar/buegel-bikini/
+  - /glossar/buegel-bikini/
 description: "Бикини-топ на косточках это купальный лиф со встроенными формообразующими косточками. Такая конструкция помогает поддержать грудь, создать более чёткую форму и сохранить собранную посадку."
 category: Белье, бюстгальтеры и стилистические помощники
 tags:

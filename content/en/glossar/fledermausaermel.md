@@ -21,8 +21,7 @@ keywords:
 slug: batwing-sleeve
 url: /en/glossary/batwing-sleeve/
 aliases:
-  - /en/glossar/fledermausaermel/
-  - /glossary/batwing-sleeve/
+  - /glossar/fledermausaermel/
 image_alt: Illustration of a top with wide batwing sleeves that taper toward the wrists
 relatedTerms:
   - title: Kimono Sleeve

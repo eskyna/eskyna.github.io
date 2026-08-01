@@ -41,9 +41,8 @@ seoTitle: "Синий цвет в одежде: значение, оттенки
 slug: siniy
 url: /ru/glossar/blau/
 aliases:
-  - /rus/glossar/blau/
-  - /ru/glossar/blau/
-  - /rus/glossariy/siniy/
+  - /glossar/blau/
+  - /glossariy/siniy/
 lastmod: "2026-07-09"
 history:
   - Синий цвет столетиями ценился в одежде и декоративном искусстве, поскольку получение стойких синих красителей было сложной задачей.

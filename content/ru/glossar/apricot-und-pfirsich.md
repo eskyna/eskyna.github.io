@@ -24,8 +24,7 @@ keywords:
 slug: apricot-und-pfirsich
 url: /rus/glossariy/apricot-und-pfirsich/
 aliases:
-  - /rus/glossar/apricot-und-pfirsich/
-  - /ru/glossar/apricot-und-pfirsich/
+  - /glossar/apricot-und-pfirsich/
 relatedTerms:
   - title: "Коралловый"
     url: /ru/glossar/koralle/

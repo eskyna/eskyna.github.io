@@ -21,8 +21,7 @@ keywords:
 slug: slow-fashion
 url: /en/glossary/slow-fashion/
 aliases:
-  - /en/glossar/slow-fashion/
-  - /glossary/slow-fashion/
+  - /glossar/slow-fashion/
 image_alt: Editorial illustration representing a considered wardrobe with versatile clothing pieces
 relatedTerms:
   - title: Circular Fashion

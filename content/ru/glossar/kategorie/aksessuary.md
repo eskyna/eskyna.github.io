@@ -24,6 +24,9 @@ glossar_filter_terms:
   - ledertasche
   - scarf-styling-tuch-styling
 url: /rus/glossariy/kategoriya/aksessuary/
+aliases:
+  - /glossar/aksessuary/
+  - /glossar/kategorie/aksessuary/
 seoTitle: "Аксессуары | Style & Image ESKYNA"
 image: images/glossar/kategorie/materialien-details.png
 tags:

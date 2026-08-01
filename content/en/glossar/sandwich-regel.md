@@ -18,11 +18,9 @@ keywords:
 weight: 999
 url: /en/glossary/sandwich-regel/
 aliases:
-  - /en/glossar/sandwich-regel/
-  - /glossary/sandwich-regel/
-  - /en/glossary/sandwich-methode/
-  - /en/glossar/sandwich-methode/
+  - /glossar/sandwich-regel/
   - /glossary/sandwich-methode/
+  - /glossar/sandwich-methode/
 image: images/glossar/sandwich-regel.png
 image_alt: A coordinated outfit with a dark top and matching dark shoes framing lighter trousers
 relatedTerms:

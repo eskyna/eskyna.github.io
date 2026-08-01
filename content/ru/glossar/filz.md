@@ -8,8 +8,7 @@ image_alt: "Плотный фетр с мягкой матовой поверх�
 slug: filz
 url: /rus/glossariy/filz/
 aliases:
-  - /rus/glossar/filz/
-  - /ru/glossar/filz/
+  - /glossar/filz/
 tags:
   - фетр
   - материалы

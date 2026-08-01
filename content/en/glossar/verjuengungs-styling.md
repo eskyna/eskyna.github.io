@@ -4,8 +4,7 @@ term: "Youthful Styling"
 slug: "verjuengungs-styling"
 url: "/en/glossary/verjuengungs-styling/"
 aliases:
-  - "/en/glossar/verjuengungs-styling/"
-  - "/glossary/verjuengungs-styling/"
+  - /glossar/verjuengungs-styling/
 description: "Youthful styling is the intentional use of fresh colors, current cuts, and relaxed silhouettes to create a lighter, more energetic, and contemporary appearance."
 category: "Style & Impact"
 tags:

@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/konsultatsiya-po-tsvetu-i-tsvet/
 image: images/glossar/kategorie/farbberatung-farbe.png
 seoTitle: Консультация по цвету и цвет | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/konsultatsiya-po-tsvetu-i-tsvet/
-  - /ru/glossar/kategorie/konsultatsiya-po-tsvetu-i-tsvet/
+  - /glossar/kategorie/konsultatsiya-po-tsvetu-i-tsvet/
+  - /glossar/konsultatsiya-po-tsvetu-i-tsvet/
 tags:
   - консультация по цвету
   - цветотип

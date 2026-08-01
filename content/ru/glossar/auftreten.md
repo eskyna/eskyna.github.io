@@ -33,8 +33,7 @@ seoTitle: "Манера держаться: значение и применен
 slug: manera-derzhatsya
 url: /rus/glossariy/manera-derzhatsya/
 aliases:
-  - /rus/glossar/auftreten/
-  - /ru/glossar/auftreten/
+  - /glossar/auftreten/
 image_alt: "Иллюстрация о манере держаться: одежда, осанка и уверенное присутствие"
 lastmod: "2026-07-09"
 knowledge:

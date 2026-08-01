@@ -21,8 +21,7 @@ keywords:
 slug: hoodie
 url: /en/glossary/hoodie/
 aliases:
-  - /en/glossar/hoodie/
-  - /glossary/hoodie/
+  - /glossar/hoodie/
 image_alt: A casual hooded sweatshirt styled as part of an everyday outfit
 relatedTerms:
   - title: Sweatshirt

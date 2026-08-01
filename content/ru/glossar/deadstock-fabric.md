@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/deadstock-fabric/
 aliases:
-  - /rus/glossar/deadstock-fabric/
-  - /ru/glossar/deadstock-fabric/
+  - /glossar/deadstock-fabric/
 image: images/glossar/deadstock-fabric.png
 image_alt: Рулоны и сложенные отрезы стоковой ткани на полках
 relatedTerms:

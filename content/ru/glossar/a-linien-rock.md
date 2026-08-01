@@ -33,8 +33,7 @@ seoTitle: "Юбка A-силуэта: что это, кому подходит �
 slug: yubka-a-silueta
 url: /rus/glossariy/yubka-a-silueta/
 aliases:
-  - /rus/glossar/a-linien-rock/
-  - /ru/glossar/a-linien-rock/
+  - /glossar/a-linien-rock/
 lastmod: "2026-07-09"
 history:
   - Термин A-line получил широкое распространение в модном словаре середины XX века.

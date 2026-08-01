@@ -15,8 +15,7 @@ keywords:
 slug: mohair
 url: /rus/glossariy/mohair/
 aliases:
-  - /rus/glossar/mohair/
-  - /ru/glossar/mohair/
+  - /glossar/mohair/
 tags:
   - мохер
   - шерсть

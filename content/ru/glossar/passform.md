@@ -38,8 +38,7 @@ seoTitle: "Посадка одежды | ESKYNA Glossary"
 slug: posadka
 url: /rus/glossariy/posadka/
 aliases:
-  - /rus/glossar/passform/
-  - /ru/glossar/passform/
+  - /glossar/passform/
 lastmod: "2026-07-09"
 knowledge:
   - Размер на ярлыке не гарантирует хорошую посадку, потому что размеры и лекала различаются у разных марок.

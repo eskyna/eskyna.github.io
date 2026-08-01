@@ -23,8 +23,7 @@ keywords:
 slug: smaragdgruen
 url: /en/glossary/smaragdgruen/
 aliases:
-  - /en/glossar/smaragdgruen/
-  - /glossary/smaragdgruen/
+  - /glossar/smaragdgruen/
 relatedTerms:
   - title: "Green"
     url: /en/glossar/gruen/

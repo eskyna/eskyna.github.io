@@ -5,8 +5,7 @@ description: "Крой peek-a-boo, или крой с неожиданными �
 slug: peek-a-boo-schnitt
 url: /rus/glossariy/peek-a-boo-schnitt/
 aliases:
-  - /rus/glossar/peek-a-boo-schnitt/
-  - /ru/glossar/peek-a-boo-schnitt/
+  - /glossar/peek-a-boo-schnitt/
 category: "Крой, пропорции и посадка"
 tags:
   - крой peek-a-boo

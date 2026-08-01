@@ -34,9 +34,9 @@ seoTitle: "Смена сезона: как адаптировать гардер
 slug: smena-sezona
 url: /ru/glossar/saisonwechsel/
 aliases:
-  - /rus/glossar/saisonwechsel/
-  - /rus/glossariy/smena-sezona/
-  - /ru/glossar/smena-sezona/
+  - /glossar/saisonwechsel/
+  - /glossariy/smena-sezona/
+  - /glossar/smena-sezona/
 lastmod: "2026-07-09"
 knowledge:
   - "Смена сезона не требует полной замены гардероба: чаще достаточно пересмотреть слои, обувь, верхнюю одежду и сочетания уже имеющихся вещей."

@@ -4,8 +4,7 @@ term: "Жоржет"
 description: "Жоржет, или georgette, это тонкая креповая ткань с зернистой слегка волнистой поверхностью, лёгкой прозрачностью и текучей посадкой. Разбираемся, как отличить жоржет от шифона, где его используют и как за ним ухаживать."
 url: /rus/glossariy/georgette/
 aliases:
-  - /rus/glossar/georgette/
-  - /ru/glossar/georgette/
+  - /glossar/georgette/
 category: "Материалы и детали"
 tags:
   - жоржет

@@ -34,8 +34,7 @@ seoTitle: "Воротник-стойка с отворотом | ESKYNA"
 slug: vorotnik-stoyka-s-otvorotom
 url: /rus/glossariy/vorotnik-stoyka-s-otvorotom/
 aliases:
-  - /rus/glossar/rollkragen/
-  - /ru/glossar/rollkragen/
+  - /glossar/rollkragen/
 lastmod: "2026-07-09"
 knowledge:
   - Воротник-стойка с отворотом представляет собой высокий ворот, который складывают или отворачивают вниз одним либо несколькими слоями.

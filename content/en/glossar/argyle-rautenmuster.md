@@ -15,8 +15,7 @@ keywords:
 slug: argyle-rautenmuster
 url: /en/glossary/argyle-rautenmuster/
 aliases:
-  - /en/glossar/argyle-rautenmuster/
-  - /glossary/argyle-rautenmuster/
+  - /glossar/argyle-rautenmuster/
 relatedTerms:
   - title: "Check Pattern"
     url: /en/glossar/karomuster/

@@ -8,8 +8,7 @@ image_alt: Fine vertical pintucks stitched into light fabric
 slug: biese
 url: /en/glossary/biese/
 aliases:
-  - /en/glossar/biese/
-  - /glossary/biese/
+  - /glossar/biese/
 tags:
   - pintuck
   - fabric detail

@@ -33,8 +33,7 @@ seoTitle: "Цветовой паспорт | ESKYNA Glossary"
 slug: tsvetovoy-pasport
 url: /rus/glossariy/tsvetovoy-pasport/
 aliases:
-  - /rus/glossar/farbpass/
-  - /ru/glossar/farbpass/
+  - /glossar/farbpass/
 image_alt: "Цветовой паспорт с подобранными оттенками личной палитры"
 lastmod: "2026-07-09"
 history:

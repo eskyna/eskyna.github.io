@@ -7,8 +7,8 @@ glossar_category: Materials & Details
 url: /en/glossary/category/materials-details/
 seoTitle: "Materials & Details | ESKYNA Glossary"
 aliases:
-  - /en/glossar/kategorie/materialien-details/
-  - /glossary/category/materials-details/
+  - /glossar/kategorie/materialien-details/
+  - /glossar/materialien-details/
 tags:
   - materials
   - fabric

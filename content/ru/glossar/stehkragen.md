@@ -34,8 +34,7 @@ seoTitle: "Воротник-стойка | ESKYNA Glossary"
 slug: vorotnik-stoyka
 url: /rus/glossariy/vorotnik-stoyka/
 aliases:
-  - /rus/glossar/stehkragen/
-  - /ru/glossar/stehkragen/
+  - /glossar/stehkragen/
 lastmod: "2026-07-09"
 knowledge:
   - Воротник-стойка может быть частью рубашки, платья, жакета, пальто, куртки или трикотажного изделия.

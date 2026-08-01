@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/paperbag-bund/
 aliases:
-  - /en/glossar/paperbag-bund/
-  - /glossary/paperbag-bund/
+  - /glossar/paperbag-bund/
 lastmod: "2026-07-30"
 image: images/glossar/paperbag-bund.png
 image_alt: High-waisted trousers with a gathered paperbag waistband and matching tie belt

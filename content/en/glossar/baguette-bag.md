@@ -9,8 +9,7 @@ image: "images/glossar/baguette-bag.png"
 image_alt: "Illustration of a compact baguette bag with a short shoulder strap"
 url: /en/glossary/baguette-bag/
 aliases:
-  - /en/glossar/baguette-bag/
-  - /glossary/baguette-bag/
+  - /glossar/baguette-bag/
 tags:
   - baguette bag
   - shoulder bag

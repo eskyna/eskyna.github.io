@@ -8,8 +8,7 @@ image_alt: Lightweight windbreaker jacket with a stand collar and front zipper
 slug: windbreaker
 url: /en/glossary/windbreaker/
 aliases:
-  - /en/glossar/windbreaker/
-  - /glossary/windbreaker/
+  - /glossar/windbreaker/
 tags:
   - windbreaker
   - lightweight jacket

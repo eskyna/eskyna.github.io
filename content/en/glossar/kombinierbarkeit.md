@@ -22,8 +22,7 @@ keywords:
 slug: versatility
 url: /en/glossary/versatility/
 aliases:
-  - /en/glossar/kombinierbarkeit/
-  - /glossary/versatility/
+  - /glossar/kombinierbarkeit/
 image_alt: Editorial illustration showing versatile wardrobe pieces combined into different outfits
 relatedTerms:
   - title: Capsule Wardrobe

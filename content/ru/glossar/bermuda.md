@@ -35,9 +35,8 @@ seoTitle: "Бермуды: что это, как выбрать и с чем н�
 slug: bermudy
 url: /ru/glossar/bermuda/
 aliases:
-  - /rus/glossar/bermuda/
-  - /ru/glossar/bermuda/
-  - /rus/glossariy/bermudy/
+  - /glossar/bermuda/
+  - /glossariy/bermudy/
 lastmod: "2026-07-09"
 history:
   - Название бермуд связано с Бермудскими островами, где шорты такой длины стали частью практичной одежды для тёплого климата.

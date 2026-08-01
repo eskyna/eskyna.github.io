@@ -14,8 +14,7 @@ keywords:
 slug: schuhweite
 url: /rus/glossariy/schuhweite/
 aliases:
-  - /rus/glossar/schuhweite/
-  - /ru/glossar/schuhweite/
+  - /glossar/schuhweite/
 tags:
   - обувь
   - посадка обуви

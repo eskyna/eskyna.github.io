@@ -21,8 +21,7 @@ keywords:
 slug: pattern
 url: /en/glossary/pattern/
 aliases:
-  - /en/glossar/muster/
-  - /glossary/pattern/
+  - /glossar/muster/
 image_alt: Editorial illustration showing floral, striped, checked, and dotted fabric patterns
 relatedTerms:
   - title: Print

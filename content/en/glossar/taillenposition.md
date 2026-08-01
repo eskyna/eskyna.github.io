@@ -21,8 +21,7 @@ keywords:
 slug: waist-position
 url: /en/glossary/waist-position/
 aliases:
-  - /en/glossar/taillenposition/
-  - /glossary/waist-position/
+  - /glossar/taillenposition/
 image_alt: Editorial illustration showing different waist positions in an outfit silhouette
 relatedTerms:
   - title: High Waist

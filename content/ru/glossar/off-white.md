@@ -35,10 +35,10 @@ seoTitle: "Молочно-белый: что это за оттенок и ка�
 slug: molochno-belyy
 url: /ru/glossar/off-white/
 aliases:
-  - /rus/glossar/off-white/
-  - /rus/glossariy/off-white/
-  - /rus/glossariy/molochno-belyy/
-  - /rus/glossariy/belyy/
+  - /glossar/off-white/
+  - /glossariy/off-white/
+  - /glossariy/molochno-belyy/
+  - /glossariy/belyy/
 lastmod: "2026-07-09"
 knowledge:
   - Молочно-белый относится к мягким оттенкам белого и обычно содержит заметный тёплый или нейтральный нюанс.

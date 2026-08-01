@@ -9,8 +9,7 @@ image: "images/glossar/abriebfestigkeit.png"
 image_alt: "Glossary illustration showing fabric wear caused by rubbing and friction"
 url: /en/glossary/abriebfestigkeit/
 aliases:
-  - /en/glossar/abriebfestigkeit/
-  - /glossary/abriebfestigkeit/
+  - /glossar/abriebfestigkeit/
 tags:
   - abrasion resistance
   - fabric durability

@@ -23,8 +23,7 @@ keywords:
 slug: red
 url: /en/glossary/red/
 aliases:
-  - /en/glossar/rot/
-  - /glossary/red/
+  - /glossar/rot/
 image_alt: Editorial glossary illustration showing a rich red color swatch
 relatedTerms:
   - title: Burgundy

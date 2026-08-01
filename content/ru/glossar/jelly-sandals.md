@@ -36,9 +36,8 @@ seoTitle: "Желейные сандалии: что это и как носит
 slug: zheleynye-sandalii
 url: /ru/glossar/jelly-sandals/
 aliases:
-  - /rus/glossar/jelly-sandals/
-  - /ru/glossar/jelly-sandals/
-  - /rus/glossariy/jelly-sandals/
+  - /glossar/jelly-sandals/
+  - /glossariy/jelly-sandals/
 image_alt: "Прозрачные желейные сандалии из глянцевого пластика"
 lastmod: "2026-07-09"
 knowledge:

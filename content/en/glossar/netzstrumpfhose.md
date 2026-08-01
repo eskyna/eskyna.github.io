@@ -9,8 +9,7 @@ image: "images/glossar/netzstrumpfhose.png"
 image_alt: "Glossary illustration of black fishnet tights with a diamond mesh pattern"
 url: /en/glossary/netzstrumpfhose/
 aliases:
-  - /en/glossar/netzstrumpfhose/
-  - /glossary/netzstrumpfhose/
+  - /glossar/netzstrumpfhose/
 tags:
   - fishnet tights
   - hosiery

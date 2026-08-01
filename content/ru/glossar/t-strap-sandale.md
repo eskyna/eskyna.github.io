@@ -33,9 +33,8 @@ seoTitle: "Сандалии с Т-ремешком | ESKYNA"
 slug: sandalii-s-t-remeshkom
 url: /rus/glossariy/sandalii-s-t-remeshkom/
 aliases:
-  - /rus/glossar/t-strap-sandale/
-  - /ru/glossar/t-strap-sandale/
-  - /rus/glossariy/t-strap-sandal/
+  - /glossar/t-strap-sandale/
+  - /glossariy/t-strap-sandal/
 history:
   - "Т-образная система ремешков встречалась в обуви разных десятилетий и особенно ассоциируется с ретро-образами первой половины XX века."
   - "Сегодня конструкция возвращается в самых разных интерпретациях: от плоских повседневных моделей до нарядных босоножек на каблуке."

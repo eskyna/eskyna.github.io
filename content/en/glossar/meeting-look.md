@@ -21,8 +21,7 @@ keywords:
 slug: meeting-look
 url: /en/glossary/meeting-look/
 aliases:
-  - /en/glossar/meeting-look/
-  - /glossary/meeting-look/
+  - /glossar/meeting-look/
 image_alt: Polished professional outfit for a business meeting with a blazer, tailored trousers, and simple accessories
 relatedTerms:
   - title: Office Look

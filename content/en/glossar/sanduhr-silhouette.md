@@ -21,8 +21,7 @@ keywords:
 slug: hourglass-silhouette
 url: /en/glossary/hourglass-silhouette/
 aliases:
-  - /en/glossar/sanduhr-silhouette/
-  - /glossary/hourglass-silhouette/
+  - /glossar/sanduhr-silhouette/
 image_alt: Editorial illustration showing an hourglass silhouette with a defined waist and balanced shoulders and hips
 relatedTerms:
   - title: Silhouette

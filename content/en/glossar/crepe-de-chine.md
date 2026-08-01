@@ -5,8 +5,7 @@ description: "Crêpe de Chine is a fine, lightweight silk fabric with a softly t
 slug: "crepe-de-chine"
 url: "/en/glossary/crepe-de-chine/"
 aliases:
-  - "/en/glossar/crepe-de-chine/"
-  - "/glossary/crepe-de-chine/"
+  - /glossar/crepe-de-chine/
 category: "Materials & Details"
 tags:
   - "Crêpe de Chine"

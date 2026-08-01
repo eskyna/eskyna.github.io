@@ -32,8 +32,7 @@ seoTitle: "Аудит гардероба: как понять, что носит
 slug: audit-garderoba
 url: /ru/glossar/wardrobe-audit/
 aliases:
-  - /rus/glossar/wardrobe-audit/
-  - /ru/glossar/wardrobe-audit/
+  - /glossar/wardrobe-audit/
 image_alt: "Одежда, обувь и аксессуары для аудита гардероба"
 lastmod: "2026-07-09"
 knowledge:

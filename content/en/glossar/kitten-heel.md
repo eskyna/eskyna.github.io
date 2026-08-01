@@ -21,8 +21,7 @@ keywords:
 slug: kitten-heel
 url: /en/glossary/kitten-heel/
 aliases:
-  - /en/glossar/kitten-heel/
-  - /glossary/kitten-heel/
+  - /glossar/kitten-heel/
 image_alt: Editorial illustration of elegant pointed kitten heel pumps
 relatedTerms:
   - title: Pumps

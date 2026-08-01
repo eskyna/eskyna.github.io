@@ -9,8 +9,7 @@ image: "images/glossar/klebe-bh.png"
 image_alt: "Illustration of a self-adhesive backless bra with two front-clasp cups"
 url: /en/glossary/klebe-bh/
 aliases:
-  - /en/glossar/klebe-bh/
-  - /glossary/klebe-bh/
+  - /glossar/klebe-bh/
 tags:
   - adhesive bra
   - backless bra

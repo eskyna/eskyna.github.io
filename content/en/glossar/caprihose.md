@@ -21,7 +21,6 @@ keywords:
 slug: capri-pants
 url: /en/glossar/caprihose/
 aliases:
-  - /en/glossary/capri-pants/
   - /glossary/capri-pants/
 image_alt: Cropped Capri pants styled with a fitted top and pointed shoes
 relatedTerms:

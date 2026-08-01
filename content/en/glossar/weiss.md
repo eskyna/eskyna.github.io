@@ -22,8 +22,7 @@ keywords:
 slug: white
 url: /en/glossary/white/
 aliases:
-  - /en/glossar/weiss/
-  - /glossary/white/
+  - /glossar/weiss/
 image_alt: Editorial glossary illustration showing white fabric swatches in crisp, soft, and warm white tones
 relatedTerms:
   - title: Pure White

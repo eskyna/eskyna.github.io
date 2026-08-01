@@ -22,8 +22,7 @@ keywords:
 slug: vertical-line
 url: /en/glossary/vertical-line/
 aliases:
-  - /en/glossar/vertikale-linie/
-  - /glossary/vertical-line/
+  - /glossar/vertikale-linie/
 image_alt: Editorial illustration showing vertical lines in a tailored outfit
 relatedTerms:
   - title: Vertical Elongation

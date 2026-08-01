@@ -22,8 +22,7 @@ keywords:
 slug: single-breasted-jacket
 url: /en/glossary/single-breasted-jacket/
 aliases:
-  - /en/glossar/einreiher/
-  - /glossary/single-breasted-jacket/
+  - /glossar/einreiher/
 image_alt: Editorial illustration of a tailored single-breasted jacket with one row of front buttons
 relatedTerms:
   - title: Double-Breasted Jacket

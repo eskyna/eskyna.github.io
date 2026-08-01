@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/ausschnitt-skalierung/"
 aliases:
-  - "/en/glossar/ausschnitt-skalierung/"
-  - "/glossary/ausschnitt-skalierung/"
+  - /glossar/ausschnitt-skalierung/
 image: "images/glossar/ausschnitt-skalierung.png"
 image_alt: "Different neckline widths and depths on simple dress silhouettes"
 relatedTerms:

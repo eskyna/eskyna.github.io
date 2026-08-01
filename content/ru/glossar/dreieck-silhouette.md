@@ -34,8 +34,7 @@ seoTitle: "Треугольный силуэт: значение и примен
 slug: treugolnyy-siluet
 url: /rus/glossariy/treugolnyy-siluet/
 aliases:
-  - /rus/glossar/dreieck-silhouette/
-  - /ru/glossar/dreieck-silhouette/
+  - /glossar/dreieck-silhouette/
 image_alt: "Иллюстрация треугольного силуэта: линия плеч визуально уже области бёдер"
 lastmod: "2026-07-09"
 knowledge:

@@ -7,8 +7,7 @@ subcategory: Волокна и ткани
 slug: lyocell-tencel
 url: /rus/glossariy/lyocell-tencel/
 aliases:
-  - /rus/glossar/lyocell-tencel/
-  - /ru/glossar/lyocell-tencel/
+  - /glossar/lyocell-tencel/
 tags:
   - лиоцелл
   - tencel

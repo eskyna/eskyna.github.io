@@ -4,8 +4,7 @@ term: Hue Temperature
 slug: farbton-temperatur
 url: /en/glossary/farbton-temperatur/
 aliases:
-  - /en/glossar/farbton-temperatur/
-  - /glossary/farbton-temperatur/
+  - /glossar/farbton-temperatur/
 description: "Hue temperature describes whether a clothing color appears warm, cool, or balanced between the two. It helps you compare subtle color nuances and create more harmonious outfits."
 category: Color Consultation & Color
 tags:

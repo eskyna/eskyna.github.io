@@ -21,8 +21,7 @@ keywords:
 slug: neck-scarf
 url: /en/glossary/neck-scarf/
 aliases:
-  - /en/glossar/halstuch/
-  - /glossary/neck-scarf/
+  - /glossar/halstuch/
 image_alt: Editorial glossary illustration of a small neck scarf tied around the neck
 relatedTerms:
   - title: Scarf

@@ -36,8 +36,7 @@ seoTitle: "Военные ботинки: что это и как носить |
 slug: voennye-botinki
 url: /rus/glossariy/voennye-botinki/
 aliases:
-  - /rus/glossar/combat-boots/
-  - /ru/glossar/combat-boots/
+  - /glossar/combat-boots/
 lastmod: "2026-07-09"
 history:
   - Военные ботинки создавались для службы, поэтому их конструкция ориентирована на защиту стопы, устойчивость и надёжную фиксацию.

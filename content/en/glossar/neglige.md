@@ -9,8 +9,7 @@ image: "images/glossar/neglige.png"
 image_alt: "Illustration of a lightweight, flowing negligee"
 url: /en/glossary/neglige/
 aliases:
-  - /en/glossar/neglige/
-  - /glossary/neglige/
+  - /glossar/neglige/
 tags:
   - negligee
   - lingerie

@@ -9,8 +9,7 @@ image: "images/glossar/mermaidcore.png"
 image_alt: "Glossary illustration for Mermaidcore"
 url: /en/glossary/mermaidcore/
 aliases:
-  - /en/glossar/mermaidcore/
-  - /glossary/mermaidcore/
+  - /glossar/mermaidcore/
 tags:
   - mermaidcore
   - sea-inspired fashion

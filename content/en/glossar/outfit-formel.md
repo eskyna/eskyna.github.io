@@ -20,8 +20,7 @@ keywords:
 slug: outfit-formula
 url: /en/glossary/outfit-formula/
 aliases:
-  - /en/glossar/outfit-formel/
-  - /glossary/outfit-formula/
+  - /glossar/outfit-formel/
 image_alt: Editorial illustration showing a repeatable outfit formula with coordinated clothing pieces
 relatedTerms:
   - title: Outfit

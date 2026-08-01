@@ -14,8 +14,7 @@ keywords:
 slug: greenwashing
 url: /en/glossary/greenwashing/
 aliases:
-  - /en/glossar/greenwashing/
-  - /glossary/greenwashing/
+  - /glossar/greenwashing/
 relatedTerms:
   - title: "Sustainable Wardrobe"
     url: /en/glossar/nachhaltige-garderobe/

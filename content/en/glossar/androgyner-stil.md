@@ -21,8 +21,7 @@ keywords:
 slug: androgynous-style
 url: /en/glossary/androgynous-style/
 aliases:
-  - /en/glossar/androgyner-stil/
-  - /glossary/androgynous-style/
+  - /glossar/androgyner-stil/
 image_alt: Editorial illustration of an androgynous outfit with clean tailoring and balanced proportions
 relatedTerms:
   - title: Gender neutral fashion

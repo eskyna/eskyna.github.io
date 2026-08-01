@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/tsvetovoy-slovar/
 image: images/glossar/kategorie/farb-lexikon.png
 seoTitle: Цветовой словарь | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/tsvetovoy-slovar/
-  - /ru/glossar/kategorie/tsvetovoy-slovar/
+  - /glossar/kategorie/tsvetovoy-slovar/
+  - /glossar/tsvetovoy-slovar/
 tags:
   - цветовой словарь
   - оттенки

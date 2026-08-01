@@ -5,8 +5,7 @@ description: "Пляжная многослойность, или Beachwear Laye
 slug: beachwear-layering
 url: /rus/glossariy/beachwear-layering/
 aliases:
-  - /rus/glossar/beachwear-layering/
-  - /ru/glossar/beachwear-layering/
+  - /glossar/beachwear-layering/
 category: "Гардероб и повседневность"
 tags:
   - "пляжная многослойность"

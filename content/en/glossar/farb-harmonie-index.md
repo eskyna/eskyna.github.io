@@ -5,8 +5,7 @@ description: "The Color Harmony Index describes how well the primary, secondary,
 slug: farb-harmonie-index
 url: /en/glossary/farb-harmonie-index/
 aliases:
-  - /en/glossar/farb-harmonie-index/
-  - /glossary/farb-harmonie-index/
+  - /glossar/farb-harmonie-index/
 category: Color Consultation & Color
 tags:
   - color harmony

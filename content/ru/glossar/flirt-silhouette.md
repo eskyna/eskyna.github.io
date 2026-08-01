@@ -5,8 +5,7 @@ description: "Флирт-силуэт это мягкая пластика кр�
 slug: "flirt-silhouette"
 url: "/rus/glossariy/flirt-silhouette/"
 aliases:
-  - "/rus/glossar/flirt-silhouette/"
-  - "/ru/glossar/flirt-silhouette/"
+  - /glossar/flirt-silhouette/
 category: "Крой, пропорции и посадка"
 tags:
   - "флирт-силуэт"

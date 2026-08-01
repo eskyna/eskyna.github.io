@@ -21,8 +21,7 @@ keywords:
 slug: cocktail-dress
 url: /en/glossary/cocktail-dress/
 aliases:
-  - /en/glossar/cocktailkleid/
-  - /glossary/cocktail-dress/
+  - /glossar/cocktailkleid/
 image_alt: Editorial illustration of an elegant cocktail dress for a semi-formal evening occasion
 relatedTerms:
   - title: Cocktail Attire

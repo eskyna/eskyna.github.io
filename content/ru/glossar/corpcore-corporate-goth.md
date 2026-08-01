@@ -9,8 +9,7 @@ image: "images/glossar/corpcore-corporate-goth.png"
 image_alt: "Иллюстрация образов в эстетике Corpcore и Corporate Goth с жакетом, юбкой и темной палитрой"
 url: /rus/glossariy/corpcore-corporate-goth/
 aliases:
-  - /rus/glossar/corpcore-corporate-goth/
-  - /ru/glossar/corpcore-corporate-goth/
+  - /glossar/corpcore-corporate-goth/
 tags:
   - corpcore
   - corporate-goth

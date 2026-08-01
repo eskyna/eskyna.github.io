@@ -14,8 +14,7 @@ keywords:
 slug: capsule-collection
 url: /rus/glossariy/capsule-collection/
 aliases:
-  - /rus/glossar/capsule-collection/
-  - /ru/glossar/capsule-collection/
+  - /glossar/capsule-collection/
 relatedTerms:
   - title: "Капсульный гардероб"
     url: /ru/glossar/capsule-wardrobe/

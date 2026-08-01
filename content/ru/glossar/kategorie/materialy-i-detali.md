@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/materialy-i-detali/
 image: images/glossar/kategorie/materialien-details.png
 seoTitle: Материалы и детали | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/materialy-i-detali/
-  - /ru/glossar/kategorie/materialy-i-detali/
+  - /glossar/kategorie/materialy-i-detali/
+  - /glossar/materialy-i-detali/
 tags:
   - материалы одежды
   - ткани и фактуры

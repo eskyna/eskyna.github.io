@@ -5,8 +5,7 @@ description: "Динамическая проверка посадки это о
 slug: dynamic-fit-processing
 url: /rus/glossariy/dynamic-fit-processing/
 aliases:
-  - /rus/glossar/dynamic-fit-processing/
-  - /ru/glossar/dynamic-fit-processing/
+  - /glossar/dynamic-fit-processing/
 category: Размеры и посадка
 subcategory: Крой, пропорции и посадка
 tags:

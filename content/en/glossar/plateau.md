@@ -20,8 +20,7 @@ keywords:
 slug: plateau
 url: /en/glossary/plateau/
 aliases:
-  - /en/glossar/plateau/
-  - /glossary/plateau/
+  - /glossar/plateau/
 image_alt: Platform shoe with a raised sole beneath the forefoot
 relatedTerms:
   - title: Wedge Heel

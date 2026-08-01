@@ -9,8 +9,7 @@ image: "images/glossar/micro-shorts-hotpants.png"
 image_alt: "Иллюстрация очень коротких шорт Micro Shorts и Hotpants"
 url: /rus/glossariy/micro-shorts-hotpants/
 aliases:
-  - /rus/glossar/micro-shorts-hotpants/
-  - /ru/glossar/micro-shorts-hotpants/
+  - /glossar/micro-shorts-hotpants/
 tags:
   - micro-shorts
   - hotpants

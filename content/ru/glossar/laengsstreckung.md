@@ -34,9 +34,8 @@ seoTitle: "Визуальное вытяжение силуэта | ESKYNA"
 slug: vizualnoe-vytyazhenie-silueta
 url: /ru/glossar/laengsstreckung/
 aliases:
-  - /rus/glossariy/vizualnoe-vytyazhenie-silueta/
-  - /rus/glossar/laengsstreckung/
-  - /ru/glossar/laengsstreckung/
+  - /glossariy/vizualnoe-vytyazhenie-silueta/
+  - /glossar/laengsstreckung/
 knowledge:
   - Визуальное вытяжение не меняет телосложение, а направляет взгляд через линии, цветовые связи, длины и посадку.
   - Непрерывные вертикали, близкие по тону элементы и открытая линия обуви часто создают более спокойное и цельное впечатление.

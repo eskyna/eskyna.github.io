@@ -14,8 +14,7 @@ keywords:
 slug: metamerie
 url: /rus/glossariy/metamerie/
 aliases:
-  - /rus/glossar/metamerie/
-  - /ru/glossar/metamerie/
+  - /glossar/metamerie/
 relatedTerms:
   - title: "Цвет"
     url: /ru/glossar/farbe/

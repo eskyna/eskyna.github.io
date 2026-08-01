@@ -15,8 +15,7 @@ keywords:
 slug: dopamine-dressing
 url: /rus/glossariy/dopamine-dressing/
 aliases:
-  - /rus/glossar/dopamine-dressing/
-  - /ru/glossar/dopamine-dressing/
+  - /glossar/dopamine-dressing/
 tags:
   - dopamine-dressing
   - стиль

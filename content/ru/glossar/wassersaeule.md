@@ -9,8 +9,7 @@ image: "images/glossar/wassersaeule.png"
 image_alt: "Иллюстрация, объясняющая показатель водяного столба для ткани дождевой куртки"
 url: /rus/glossariy/wassersaeule/
 aliases:
-  - /rus/glossar/wassersaeule/
-  - /ru/glossar/wassersaeule/
+  - /glossar/wassersaeule/
 tags:
   - водяной-столб
   - водонепроницаемость

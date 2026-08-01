@@ -34,8 +34,7 @@ seoTitle: "Пояс в одежде | ESKYNA Glossary"
 slug: poyas
 url: /rus/glossariy/poyas/
 aliases:
-  - /rus/glossar/bund/
-  - /ru/glossar/bund/
+  - /glossar/bund/
 lastmod: "2026-07-09"
 knowledge:
   - Пояс фиксирует изделие на теле и во многом определяет, где визуально начинается талия.

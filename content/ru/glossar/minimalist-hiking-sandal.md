@@ -21,8 +21,7 @@ seoTitle: "Minimalist Hiking Sandal | ESKYNA"
 slug: minimalist-hiking-sandal
 url: /rus/glossariy/minimalist-hiking-sandal/
 aliases:
-  - /rus/glossar/minimalist-hiking-sandal/
-  - /ru/glossar/minimalist-hiking-sandal/
+  - /glossar/minimalist-hiking-sandal/
 relatedTerms:
   - title: Сандалии
     url: /ru/glossar/sandale/

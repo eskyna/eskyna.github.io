@@ -34,8 +34,7 @@ seoTitle: "Направление взгляда в стайлинге | ESKYNA"
 slug: napravlenie-vzglyada
 url: /rus/glossariy/napravlenie-vzglyada/
 aliases:
-  - /rus/glossar/blickfuehrung/
-  - /ru/glossar/blickfuehrung/
+  - /glossar/blickfuehrung/
 lastmod: "2026-07-09"
 knowledge:
   - Вертикали, горизонтали, диагонали, цветовые переходы и контрастные детали направляют внимание по образу.

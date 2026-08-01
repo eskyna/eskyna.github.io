@@ -8,8 +8,7 @@ image_alt: Concealed button placket on the front of a crisp white shirt
 slug: verdeckte-knopfleiste
 url: /en/glossary/verdeckte-knopfleiste/
 aliases:
-  - /en/glossar/verdeckte-knopfleiste/
-  - /glossary/verdeckte-knopfleiste/
+  - /glossar/verdeckte-knopfleiste/
 tags:
   - concealed placket
   - hidden buttons

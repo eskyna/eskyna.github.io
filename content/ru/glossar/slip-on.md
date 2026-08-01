@@ -9,8 +9,7 @@ image: "images/glossar/slip-on.png"
 image_alt: "Иллюстрация обуви Slip-On без шнуровки"
 url: /rus/glossariy/slip-on/
 aliases:
-  - /rus/glossar/slip-on/
-  - /ru/glossar/slip-on/
+  - /glossar/slip-on/
 tags:
   - slip-on
   - слипоны

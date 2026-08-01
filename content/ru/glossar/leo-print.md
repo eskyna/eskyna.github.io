@@ -34,9 +34,8 @@ seoTitle: "Леопардовый принт: значение и примене
 slug: leopardovyy-print
 url: /rus/glossariy/leopardovyy-print/
 aliases:
-  - /rus/glossar/leo-print/
-  - /ru/glossar/leo-print/
-  - /rus/glossariy/leo-print/
+  - /glossar/leo-print/
+  - /glossariy/leo-print/
 lastmod: "2026-07-09"
 history:
   - Леопардовый рисунок относится к анималистическим мотивам, которые в моде многократно возвращались в разных эпохах и стилевых контекстах.

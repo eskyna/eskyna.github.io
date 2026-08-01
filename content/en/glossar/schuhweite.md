@@ -15,8 +15,7 @@ keywords:
 slug: schuhweite
 url: /en/glossary/schuhweite/
 aliases:
-  - /en/glossar/schuhweite/
-  - /glossary/schuhweite/
+  - /glossar/schuhweite/
 tags:
   - shoe fit
   - footwear comfort

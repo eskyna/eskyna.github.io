@@ -4,8 +4,7 @@ term: "Согласование насыщенности цвета"
 slug: farb-saettigungs-grading
 url: /rus/glossariy/farb-saettigungs-grading/
 aliases:
-  - /rus/glossar/farb-saettigungs-grading/
-  - /ru/glossar/farb-saettigungs-grading/
+  - /glossar/farb-saettigungs-grading/
 description: "Согласование насыщенности цвета помогает подобрать интенсивность оттенка к естественной яркости кожи, глаз и волос. Этот принцип объясняет, почему один и тот же цвет может освежать внешность или перетягивать всё внимание на себя."
 category: "Консультация по цвету и цвет"
 tags:

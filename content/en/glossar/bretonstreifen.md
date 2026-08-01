@@ -21,8 +21,7 @@ keywords:
 slug: breton-stripes
 url: /en/glossary/breton-stripes/
 aliases:
-  - /en/glossar/bretonstreifen/
-  - /glossary/breton-stripes/
+  - /glossar/bretonstreifen/
 image_alt: Navy and white Breton stripes on a classic striped knit top
 relatedTerms:
   - title: Horizontal Stripes

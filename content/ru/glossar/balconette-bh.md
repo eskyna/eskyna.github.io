@@ -9,8 +9,7 @@ image: "images/glossar/balconette-bh.png"
 image_alt: "Balconette-бюстгальтер с открытой горизонтальной линией чашек"
 url: /rus/glossariy/balconette-bh/
 aliases:
-  - /rus/glossar/balconette-bh/
-  - /ru/glossar/balconette-bh/
+  - /glossar/balconette-bh/
 tags:
   - balconette-бюстгальтер
   - бюстгальтер

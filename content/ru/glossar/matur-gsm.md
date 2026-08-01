@@ -4,8 +4,7 @@ term: Плотность ткани (GSM)
 slug: matur-gsm
 url: /rus/glossariy/matur-gsm/
 aliases:
-  - /rus/glossar/matur-gsm/
-  - /ru/glossar/matur-gsm/
+  - /glossar/matur-gsm/
 description: Плотность ткани, или GSM, показывает вес материала в граммах на квадратный метр. Этот показатель помогает оценить плотность, тепло, прозрачность, пластику и предполагаемую сферу применения текстиля.
 category: Материалы и детали
 tags:

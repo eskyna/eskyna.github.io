@@ -34,10 +34,9 @@ seoTitle: "Спортивные брюки: что это и как носить
 slug: sportivnye-bryuki
 url: /ru/glossar/track-pants/
 aliases:
-  - /rus/glossar/track-pants/
-  - /ru/glossar/track-pants/
-  - /rus/glossariy/track-pants/
-  - /rus/glossariy/sportivnye-bryuki/
+  - /glossar/track-pants/
+  - /glossariy/track-pants/
+  - /glossariy/sportivnye-bryuki/
 lastmod: "2026-07-09"
 history:
   - "Спортивные брюки произошли от одежды для тренировок и соревнований, где ключевыми были свобода движения и практичность."

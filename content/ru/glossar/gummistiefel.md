@@ -9,8 +9,7 @@ image: "images/glossar/gummistiefel.png"
 image_alt: "Иллюстрация глоссария: пара высоких резиновых сапог для дождливой погоды"
 url: /rus/glossariy/gummistiefel/
 aliases:
-  - /rus/glossar/gummistiefel/
-  - /ru/glossar/gummistiefel/
+  - /glossar/gummistiefel/
 tags:
   - резиновые-сапоги
   - обувь-для-дождя

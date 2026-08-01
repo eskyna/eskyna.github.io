@@ -35,8 +35,7 @@ seoTitle: "Образ: что это такое в стиле и как его �
 slug: obraz
 url: /rus/glossariy/obraz/
 aliases:
-  - /rus/glossar/look/
-  - /ru/glossar/look/
+  - /glossar/look/
 lastmod: "2026-07-09"
 knowledge:
   - Образ складывается не только из отдельных вещей, но и из их пропорций, цвета, фактур, обуви, аксессуаров и уместности для ситуации.

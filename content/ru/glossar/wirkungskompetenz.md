@@ -33,9 +33,8 @@ seoTitle: "Навык управления впечатлением | ESKYNA"
 slug: navyk-upravleniya-vpechatleniem
 url: /rus/glossariy/navyk-upravleniya-vpechatleniem/
 aliases:
-  - /rus/glossar/wirkungskompetenz/
-  - /ru/glossar/wirkungskompetenz/
-  - /rus/glossariy/kompetentnost-vpechatleniya/
+  - /glossar/wirkungskompetenz/
+  - /glossariy/kompetentnost-vpechatleniya/
 image_alt: "Иллюстрация о том, как одежда, цвет и манера держаться формируют впечатление"
 lastmod: "2026-07-09"
 knowledge:

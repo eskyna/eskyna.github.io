@@ -23,8 +23,7 @@ keywords:
 slug: orange
 url: /en/glossary/orange/
 aliases:
-  - /en/glossar/orange/
-  - /glossary/orange/
+  - /glossar/orange/
 image_alt: Editorial glossary illustration showing a warm orange color swatch
 relatedTerms:
   - title: Terracotta

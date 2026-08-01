@@ -22,7 +22,6 @@ keywords:
 slug: inner-construction
 url: /en/glossar/innenverarbeitung/
 aliases:
-  - /en/glossar/innenverarbeitung/
   - /glossary/inner-construction/
 image_alt: Editorial glossary illustration showing the inner construction and lining of a tailored garment
 relatedTerms:

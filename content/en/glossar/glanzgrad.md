@@ -20,8 +20,7 @@ keywords:
 slug: sheen-level
 url: /en/glossary/sheen-level/
 aliases:
-  - /en/glossar/glanzgrad/
-  - /glossary/sheen-level/
+  - /glossar/glanzgrad/
 image_alt: Fabrics with matte, softly luminous, and glossy sheen levels shown side by side
 relatedTerms:
   - title: Texture

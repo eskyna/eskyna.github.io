@@ -9,8 +9,7 @@ image_alt: Illustration of a garment with kimono sleeves cut continuously from t
 slug: kimonoaermel
 url: /en/glossary/kimonoaermel/
 aliases:
-  - /en/glossar/kimonoaermel/
-  - /glossary/kimonoaermel/
+  - /glossar/kimonoaermel/
 tags:
   - kimono sleeve
   - sleeve cut

@@ -9,8 +9,7 @@ image: "images/glossar/damast.png"
 image_alt: "Glossary illustration showing the subtle reversible woven pattern of damask fabric"
 url: /en/glossary/damast/
 aliases:
-  - /en/glossar/damast/
-  - /glossary/damast/
+  - /glossar/damast/
 tags:
   - damask
   - woven fabric

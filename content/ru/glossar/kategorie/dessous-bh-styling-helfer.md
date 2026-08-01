@@ -5,6 +5,9 @@ layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: "Белье, бюстгальтеры и стилистические помощники"
 url: /rus/glossariy/kategoriya/dessous-bh-styling-helfer/
+aliases:
+  - /glossar/dessous-bh-styling-helfer/
+  - /glossar/kategorie/dessous-bh-styling-helfer/
 seoTitle: "Белье, бюстгальтеры и стилистические помощники | ESKYNA"
 tags:
   - белье

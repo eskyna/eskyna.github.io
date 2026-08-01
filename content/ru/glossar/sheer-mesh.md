@@ -5,8 +5,7 @@ description: "Прозрачная сетка Sheer Mesh это очень то�
 slug: sheer-mesh
 url: /rus/glossariy/sheer-mesh/
 aliases:
-  - /rus/glossar/sheer-mesh/
-  - /ru/glossar/sheer-mesh/
+  - /glossar/sheer-mesh/
 category: Материалы и детали
 tags:
   - прозрачная-сетка

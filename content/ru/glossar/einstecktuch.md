@@ -15,8 +15,7 @@ keywords:
 slug: einstecktuch
 url: /rus/glossariy/einstecktuch/
 aliases:
-  - /rus/glossar/einstecktuch/
-  - /ru/glossar/einstecktuch/
+  - /glossar/einstecktuch/
 tags:
   - аксессуары
   - мужской стиль

@@ -21,8 +21,7 @@ keywords:
 slug: beaded-bag
 url: /en/glossary/beaded-bag/
 aliases:
-  - /en/glossar/beaded-bag/
-  - /glossary/beaded-bag/
+  - /glossar/beaded-bag/
 image_alt: Small beaded handbag with a structured handle and decorative beadwork
 relatedTerms:
   - title: Clutch

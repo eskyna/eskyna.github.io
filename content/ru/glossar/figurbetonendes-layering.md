@@ -5,8 +5,7 @@ description: "Многослойность с акцентом на фигуру
 slug: figurbetonendes-layering
 url: /rus/glossariy/figurbetonendes-layering/
 aliases:
-  - /rus/glossar/figurbetonendes-layering/
-  - /ru/glossar/figurbetonendes-layering/
+  - /glossar/figurbetonendes-layering/
 category: "Крой, пропорции и посадка"
 tags:
   - "многослойность"

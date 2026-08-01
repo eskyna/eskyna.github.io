@@ -4,8 +4,7 @@ term: "Предотвращение складок в области шагов�
 slug: "cameltoe-vermeidung"
 url: "/rus/glossariy/cameltoe-vermeidung/"
 aliases:
-  - "/rus/glossar/cameltoe-vermeidung/"
-  - "/ru/glossar/cameltoe-vermeidung/"
+  - /glossar/cameltoe-vermeidung/
 description: "Предотвращение складок в области шагового шва помогает выбрать легинсы или шорты, которые комфортно сидят и сохраняют аккуратный вид в движении. На результат влияют размер, крой, материал и конструкция шаговой зоны."
 category: "Размеры и посадка"
 tags:

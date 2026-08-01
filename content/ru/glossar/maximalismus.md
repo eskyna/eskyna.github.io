@@ -15,8 +15,7 @@ keywords:
 slug: maximalismus
 url: /rus/glossariy/maximalismus/
 aliases:
-  - /rus/glossar/maximalismus/
-  - /ru/glossar/maximalismus/
+  - /glossar/maximalismus/
 tags:
   - максимализм
   - максималистский стиль

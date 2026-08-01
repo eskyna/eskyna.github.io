@@ -21,8 +21,7 @@ keywords:
 slug: fabric-shaver
 url: /en/glossary/fabric-shaver/
 aliases:
-  - /en/glossar/fusselrasierer/
-  - /glossary/fabric-shaver/
+  - /glossar/fusselrasierer/
 image_alt: Fabric shaver removing small pills from the surface of a knitted garment
 relatedTerms:
   - title: Pilling

@@ -15,8 +15,7 @@ keywords:
 slug: rapport-musterwiederholung
 url: /en/glossary/rapport-musterwiederholung/
 aliases:
-  - /en/glossar/rapport-musterwiederholung/
-  - /glossary/rapport-musterwiederholung/
+  - /glossar/rapport-musterwiederholung/
 tags:
   - pattern repeat
   - textile pattern

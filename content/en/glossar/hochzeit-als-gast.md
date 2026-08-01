@@ -21,8 +21,7 @@ keywords:
 slug: wedding-guest-outfit
 url: /en/glossary/wedding-guest-outfit/
 aliases:
-  - /en/glossar/hochzeit-als-gast/
-  - /glossary/wedding-guest-outfit/
+  - /glossar/hochzeit-als-gast/
 image_alt: Wedding guest outfit with a polished dress, small bag, and elegant shoes
 relatedTerms:
   - title: Dress Code

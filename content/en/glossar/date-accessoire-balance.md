@@ -5,8 +5,7 @@ description: "Date Accessory Balance is the thoughtful use of jewelry and access
 slug: "date-accessoire-balance"
 url: "/en/glossary/date-accessoire-balance/"
 aliases:
-  - "/en/glossar/date-accessoire-balance/"
-  - "/glossary/date-accessoire-balance/"
+  - /glossar/date-accessoire-balance/
 category: "Style & Impact"
 tags:
   - "date accessories"

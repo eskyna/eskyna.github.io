@@ -9,8 +9,7 @@ image: "images/glossar/lingerie-dressing.png"
 image_alt: "Lingerie-inspired outfit with a lace camisole layered under a tailored blazer"
 url: /en/glossary/lingerie-dressing/
 aliases:
-  - /en/glossar/lingerie-dressing/
-  - /glossary/lingerie-dressing/
+  - /glossar/lingerie-dressing/
 tags:
   - lingerie dressing
   - lingerie-inspired style

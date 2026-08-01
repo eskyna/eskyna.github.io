@@ -21,8 +21,7 @@ keywords:
 slug: proportion-break
 url: /en/glossary/proportion-break/
 aliases:
-  - /en/glossar/proportionsbruch/
-  - /glossary/proportion-break/
+  - /glossar/proportionsbruch/
 image_alt: Editorial glossary illustration showing contrasting outfit proportions through a cropped jacket and wide-leg trousers
 relatedTerms:
   - title: Proportion

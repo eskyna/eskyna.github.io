@@ -21,8 +21,7 @@ keywords:
 slug: maxi-dress
 url: /en/glossary/maxi-dress/
 aliases:
-  - /en/glossar/maxikleid/
-  - /glossary/maxi-dress/
+  - /glossar/maxikleid/
 image_alt: Long flowing maxi dress with an ankle to floor-length hem
 relatedTerms:
   - title: Midi Dress

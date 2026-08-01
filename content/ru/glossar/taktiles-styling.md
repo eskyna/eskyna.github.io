@@ -4,8 +4,7 @@ term: "Тактильный стайлинг"
 slug: taktiles-styling
 url: /rus/glossariy/taktiles-styling/
 aliases:
-  - /rus/glossar/taktiles-styling/
-  - /ru/glossar/taktiles-styling/
+  - /glossar/taktiles-styling/
 description: "Тактильный стайлинг это осознанный выбор одежды и аксессуаров по ощущениям от материала. Он помогает создавать образы, в которых приятно находиться, двигаться и вступать в близкий контакт."
 category: "Стиль и впечатление"
 subcategory: "Материалы и детали"

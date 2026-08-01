@@ -21,8 +21,7 @@ keywords:
 slug: hoop-earrings
 url: /en/glossary/hoop-earrings/
 aliases:
-  - /en/glossar/creolen/
-  - /glossary/hoop-earrings/
+  - /glossar/creolen/
 image_alt: Gold hoop earrings shown as a simple circular jewelry accessory
 relatedTerms:
   - title: Earrings

@@ -41,8 +41,7 @@ seoTitle: "Степень блеска: значение и применение
 slug: stepen-bleska
 url: /rus/glossariy/stepen-bleska/
 aliases:
-  - /rus/glossar/glanzgrad/
-  - /ru/glossar/glanzgrad/
+  - /glossar/glanzgrad/
 lastmod: "2026-07-09"
 knowledge:
   - Матовая поверхность рассеивает свет и обычно выглядит спокойнее, тогда как гладкая блестящая поверхность создаёт более заметные световые акценты.

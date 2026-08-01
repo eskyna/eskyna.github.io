@@ -5,8 +5,7 @@ description: "Верблюжья шерсть это натуральное во
 slug: kamelhaar
 url: /rus/glossariy/kamelhaar/
 aliases:
-  - /rus/glossar/kamelhaar/
-  - /ru/glossar/kamelhaar/
+  - /glossar/kamelhaar/
 category: Материалы и детали
 tags:
   - верблюжья-шерсть

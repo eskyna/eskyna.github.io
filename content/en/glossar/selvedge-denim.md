@@ -9,8 +9,7 @@ image: "images/glossar/selvedge-denim.png"
 image_alt: "Close-up illustration of selvedge denim with a clean woven edge and colored ID line"
 url: /en/glossary/selvedge-denim/
 aliases:
-  - /en/glossar/selvedge-denim/
-  - /glossary/selvedge-denim/
+  - /glossar/selvedge-denim/
 tags:
   - selvedge denim
   - denim

@@ -23,8 +23,7 @@ keywords:
 slug: puderrosa-und-altrosa
 url: /en/glossary/puderrosa-und-altrosa/
 aliases:
-  - /en/glossar/puderrosa-und-altrosa/
-  - /glossary/puderrosa-und-altrosa/
+  - /glossar/puderrosa-und-altrosa/
 relatedTerms:
   - title: "Rose Pink"
     url: /en/glossar/rosa/

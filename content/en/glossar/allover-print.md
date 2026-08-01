@@ -21,8 +21,7 @@ keywords:
 slug: allover-print
 url: /en/glossary/allover-print/
 aliases:
-  - /en/glossar/allover-print/
-  - /glossary/allover-print/
+  - /glossar/allover-print/
 image_alt: Garment covered with a repeating allover print pattern
 relatedTerms:
   - title: Print

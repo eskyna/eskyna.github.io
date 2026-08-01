@@ -21,8 +21,7 @@ keywords:
 slug: a-line-dress
 url: /en/glossary/a-line-dress/
 aliases:
-  - /en/glossar/a-linien-kleid/
-  - /glossary/a-line-dress/
+  - /glossar/a-linien-kleid/
 image_alt: Editorial illustration of an A-line dress with a fitted upper body and gently flared skirt
 relatedTerms:
   - title: A-Line

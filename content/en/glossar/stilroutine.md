@@ -21,8 +21,7 @@ keywords:
 slug: style-routine
 url: /en/glossary/style-routine/
 aliases:
-  - /en/glossar/stilroutine/
-  - /glossary/style-routine/
+  - /glossar/stilroutine/
 image_alt: Editorial illustration of a repeatable daily style routine with coordinated wardrobe pieces
 relatedTerms:
   - title: Outfit Formula

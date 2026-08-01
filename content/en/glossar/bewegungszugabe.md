@@ -15,8 +15,7 @@ keywords:
 slug: bewegungszugabe
 url: /en/glossary/bewegungszugabe/
 aliases:
-  - /en/glossar/bewegungszugabe/
-  - /glossary/bewegungszugabe/
+  - /glossar/bewegungszugabe/
 relatedTerms:
   - title: Fit
     url: /en/glossar/passform/

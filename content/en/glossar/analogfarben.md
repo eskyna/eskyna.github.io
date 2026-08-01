@@ -22,8 +22,7 @@ keywords:
 slug: analogous-colors
 url: /en/glossary/analogous-colors/
 aliases:
-  - /en/glossar/analogfarben/
-  - /glossary/analogous-colors/
+  - /glossar/analogfarben/
 image_alt: Editorial glossary illustration showing neighboring analogous colors on a color wheel
 relatedTerms:
   - title: Color Wheel

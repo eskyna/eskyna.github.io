@@ -35,9 +35,8 @@ seoTitle: "Клатч: значение, виды и как носить | Гл�
 slug: klatch
 url: /ru/glossar/clutch/
 aliases:
-  - /rus/glossariy/klatch/
-  - /rus/glossar/clutch/
-  - /ru/glossar/clutch/
+  - /glossariy/klatch/
+  - /glossar/clutch/
 lastmod: "2026-07-09"
 knowledge:
   - "Клатч оценивают не только по внешнему виду, но и по вместимости: в нём должны удобно размещаться нужные для события вещи."

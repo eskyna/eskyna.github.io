@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: "/rus/glossariy/drop-shoulder/"
 aliases:
-  - "/rus/glossar/drop-shoulder/"
-  - "/ru/glossar/drop-shoulder/"
+  - /glossar/drop-shoulder/
 image: "images/glossar/drop-shoulder.png"
 image_alt: "Свитер со спущенным плечевым швом ниже естественной линии плеча"
 relatedTerms:

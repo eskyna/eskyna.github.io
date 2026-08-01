@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/guertelbreiten-relation/
 aliases:
-  - /en/glossar/guertelbreiten-relation/
-  - /glossary/guertelbreiten-relation/
+  - /glossar/guertelbreiten-relation/
 image: images/glossar/guertelbreiten-relation.png
 image_alt: "Three belts of different widths styled with trousers at different waist heights"
 relatedTerms:

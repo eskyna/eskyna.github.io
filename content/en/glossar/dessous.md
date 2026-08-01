@@ -9,8 +9,7 @@ image: "images/glossar/dessous.png"
 image_alt: "Glossary illustration representing lingerie and intimate apparel"
 url: /en/glossary/dessous/
 aliases:
-  - /en/glossar/dessous/
-  - /glossary/dessous/
+  - /glossar/dessous/
 tags:
   - lingerie
   - dessous

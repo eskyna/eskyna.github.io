@@ -23,8 +23,7 @@ keywords:
 slug: nude-toene
 url: /rus/glossariy/nude-toene/
 aliases:
-  - /rus/glossar/nude-toene/
-  - /ru/glossar/nude-toene/
+  - /glossar/nude-toene/
 relatedTerms:
   - title: "Бежевый"
     url: /ru/glossar/beige/

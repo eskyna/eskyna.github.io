@@ -21,8 +21,7 @@ keywords:
 slug: skirt
 url: /en/glossary/skirt/
 aliases:
-  - /en/glossar/rock/
-  - /glossary/skirt/
+  - /glossar/rock/
 image_alt: Editorial illustration of different skirt silhouettes and lengths
 relatedTerms:
   - title: Skirt Length

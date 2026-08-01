@@ -9,8 +9,7 @@ image: "images/glossar/korsage-corsage.png"
 image_alt: "Structured corsage with shaped cups and a fitted waist"
 url: /en/glossary/korsage-corsage/
 aliases:
-  - /en/glossar/korsage-corsage/
-  - /glossary/korsage-corsage/
+  - /glossar/korsage-corsage/
 tags:
   - corsage
   - structured bodice

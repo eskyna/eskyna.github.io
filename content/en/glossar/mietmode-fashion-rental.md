@@ -21,8 +21,7 @@ keywords:
 slug: mietmode-fashion-rental
 url: /en/glossary/mietmode-fashion-rental/
 aliases:
-  - /en/glossar/mietmode-fashion-rental/
-  - /glossary/mietmode-fashion-rental/
+  - /glossar/mietmode-fashion-rental/
 relatedTerms:
   - title: "Occasion Wardrobe"
     url: /en/glossar/anlassgarderobe/

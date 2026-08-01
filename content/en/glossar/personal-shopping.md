@@ -22,8 +22,7 @@ keywords:
 slug: personal-shopping
 url: /en/glossary/personal-shopping/
 aliases:
-  - /en/glossar/personal-shopping/
-  - /glossary/personal-shopping/
+  - /glossar/personal-shopping/
 image_alt: Editorial illustration showing a curated personal shopping selection with clothing, shoes, and accessories
 relatedTerms:
   - title: Personal Style

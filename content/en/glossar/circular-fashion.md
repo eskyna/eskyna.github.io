@@ -20,8 +20,7 @@ keywords:
 slug: circular-fashion
 url: /en/glossary/circular-fashion/
 aliases:
-  - /en/glossar/circular-fashion/
-  - /glossary/circular-fashion/
+  - /glossar/circular-fashion/
 image_alt: Editorial glossary illustration representing circular fashion through clothing care, repair, resale, and reuse
 relatedTerms:
   - title: Slow Fashion

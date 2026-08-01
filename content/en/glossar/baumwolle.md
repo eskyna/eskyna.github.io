@@ -22,8 +22,7 @@ keywords:
 slug: cotton
 url: /en/glossary/cotton/
 aliases:
-  - /en/glossar/baumwolle/
-  - /glossary/cotton/
+  - /glossar/baumwolle/
 image_alt: Close view of natural cotton fabric with a soft matte texture
 relatedTerms:
   - title: Organic Cotton

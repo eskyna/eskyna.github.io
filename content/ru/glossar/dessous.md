@@ -9,8 +9,7 @@ image: "images/glossar/dessous.png"
 image_alt: "Иллюстрация женского нижнего белья: бюстгальтер, трусы и боди"
 url: /rus/glossariy/dessous/
 aliases:
-  - /rus/glossar/dessous/
-  - /ru/glossar/dessous/
+  - /glossar/dessous/
 tags:
   - нижнее-белье
   - дессу

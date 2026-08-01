@@ -9,8 +9,7 @@ image: "images/glossar/push-up-bh.png"
 image_alt: "Иллюстрация push-up бюстгальтера с формованными чашками"
 url: /rus/glossariy/push-up-bh/
 aliases:
-  - /rus/glossar/push-up-bh/
-  - /ru/glossar/push-up-bh/
+  - /glossar/push-up-bh/
 tags:
   - push-up бюстгальтер
   - бюстгальтер

@@ -8,8 +8,7 @@ image_alt: "Иллюстрация классического костюма и�
 slug: anzug
 url: /rus/glossariy/anzug/
 aliases:
-  - /rus/glossar/anzug/
-  - /ru/glossar/anzug/
+  - /glossar/anzug/
 tags:
   - костюм
   - пиджак и брюки

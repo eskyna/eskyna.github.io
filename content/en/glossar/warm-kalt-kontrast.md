@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing warm and cool colors in contrast
 slug: warm-kalt-kontrast
 url: /en/glossary/warm-kalt-kontrast/
 aliases:
-  - /en/glossar/warm-kalt-kontrast/
-  - /glossary/warm-kalt-kontrast/
+  - /glossar/warm-kalt-kontrast/
 tags:
   - color contrast
   - warm colors

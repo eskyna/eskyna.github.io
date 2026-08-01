@@ -21,8 +21,7 @@ keywords:
 slug: duffle-coat
 url: /en/glossary/duffle-coat/
 aliases:
-  - /en/glossar/dufflecoat/
-  - /glossary/duffle-coat/
+  - /glossar/dufflecoat/
 image_alt: Wool duffle coat with a hood, toggle fastenings, and large front patch pockets
 relatedTerms:
   - title: Coat

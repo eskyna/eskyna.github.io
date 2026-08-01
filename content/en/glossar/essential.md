@@ -21,8 +21,7 @@ keywords:
 slug: essential
 url: /en/glossary/essential/
 aliases:
-  - /en/glossar/essential/
-  - /glossary/essential/
+  - /glossar/essential/
 image_alt: Editorial glossary illustration showing versatile wardrobe essentials in coordinated neutral colors
 relatedTerms:
   - title: Basic

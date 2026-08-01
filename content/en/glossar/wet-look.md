@@ -4,8 +4,7 @@ term: "Wet Look"
 description: "Wet look is a high-shine fashion finish that makes materials such as vinyl, patent-style surfaces, or coated fabrics appear glossy and freshly wet. It creates a bold, sensual, high-impact effect in clothing, shoes, and accessories."
 url: "/en/glossary/wet-look/"
 aliases:
-  - "/en/glossar/wet-look/"
-  - "/glossary/wet-look/"
+  - /glossar/wet-look/
 category: "Materials & Details"
 tags:
   - "wet look"

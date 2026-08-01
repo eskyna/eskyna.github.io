@@ -23,8 +23,7 @@ keywords:
 slug: rectangle-silhouette
 url: /en/glossary/rectangle-silhouette/
 aliases:
-  - /en/glossar/rechteck-silhouette/
-  - /glossary/rectangle-silhouette/
+  - /glossar/rechteck-silhouette/
 image_alt: Editorial illustration showing a balanced rectangle body silhouette with similar shoulder, waist, and hip widths
 relatedTerms:
   - title: Body Shape

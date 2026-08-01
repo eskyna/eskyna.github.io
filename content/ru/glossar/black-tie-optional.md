@@ -33,9 +33,8 @@ seoTitle: "Блэк-тай по желанию | ESKYNA Glossary"
 slug: blek-tay-po-zhelaniyu
 url: /rus/glossariy/blek-tay-po-zhelaniyu/
 aliases:
-  - /rus/glossar/black-tie-optional/
-  - /ru/glossar/black-tie-optional/
-  - /rus/glossariy/black-tie-optional/
+  - /glossar/black-tie-optional/
+  - /glossariy/black-tie-optional/
 image_alt: "Формальный вечерний образ для дресс-кода блэк-тай по желанию"
 knowledge:
   - "Black Tie Optional не означает повседневный или просто нарядный стиль: от гостей ожидают вечерняя элегантность и продуманная степень формальности."

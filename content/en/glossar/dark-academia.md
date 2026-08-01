@@ -23,8 +23,7 @@ keywords:
 slug: dark-academia
 url: /en/glossary/dark-academia/
 aliases:
-  - /en/glossar/dark-academia/
-  - /glossary/dark-academia/
+  - /glossar/dark-academia/
 image_alt: Editorial illustration of a Dark Academia outfit with dark tailoring, knitwear, books, and vintage-inspired details
 relatedTerms:
   - title: Light Academia

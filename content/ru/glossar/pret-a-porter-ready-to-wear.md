@@ -15,8 +15,7 @@ keywords:
 slug: pret-a-porter-ready-to-wear
 url: /rus/glossariy/pret-a-porter-ready-to-wear/
 aliases:
-  - /rus/glossar/pret-a-porter-ready-to-wear/
-  - /ru/glossar/pret-a-porter-ready-to-wear/
+  - /glossar/pret-a-porter-ready-to-wear/
 relatedTerms:
   - title: "На заказ/на заказ"
     url: /ru/glossar/massanfertigung-custom-made/

@@ -5,8 +5,7 @@ description: "Оптический стройнящий эффект в одеж
 slug: optischer-schlankmacher
 url: /rus/glossariy/optischer-schlankmacher/
 aliases:
-  - /rus/glossar/optischer-schlankmacher/
-  - /ru/glossar/optischer-schlankmacher/
+  - /glossar/optischer-schlankmacher/
 category: Крой, пропорции и посадка
 tags:
   - оптическое стройнение

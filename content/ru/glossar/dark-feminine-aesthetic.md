@@ -9,8 +9,7 @@ image: "images/glossar/dark-feminine-aesthetic.png"
 image_alt: "Иллюстрация образа в эстетике Dark Feminine с тёмной палитрой и женственным силуэтом"
 url: /rus/glossariy/dark-feminine-aesthetic/
 aliases:
-  - /rus/glossar/dark-feminine-aesthetic/
-  - /ru/glossar/dark-feminine-aesthetic/
+  - /glossar/dark-feminine-aesthetic/
 tags:
   - dark-feminine-aesthetic
   - тёмная женственность

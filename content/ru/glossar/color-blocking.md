@@ -18,11 +18,9 @@ keywords:
 weight: 999
 url: /rus/glossariy/color-blocking/
 aliases:
-  - /rus/glossar/color-blocking/
-  - /ru/glossar/color-blocking/
-  - /rus/glossariy/colour-blocking/
-  - /rus/glossar/colour-blocking/
-  - /ru/glossar/colour-blocking/
+  - /glossar/color-blocking/
+  - /glossariy/colour-blocking/
+  - /glossar/colour-blocking/
 image: images/glossar/color-blocking.png
 image_alt: Образ с крупными контрастными цветовыми блоками
 relatedTerms:

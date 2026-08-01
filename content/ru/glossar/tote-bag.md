@@ -34,9 +34,8 @@ seoTitle: "Сумка-тоут: значение и применение | Гл�
 slug: sumka-tout
 url: /rus/glossariy/sumka-tout/
 aliases:
-  - /rus/glossar/tote-bag/
-  - /ru/glossar/tote-bag/
-  - /rus/glossariy/tote-bag/
+  - /glossar/tote-bag/
+  - /glossariy/tote-bag/
 lastmod: "2026-07-09"
 knowledge:
   - "Тоут определяется прежде всего конструкцией: это вместительная сумка с двумя ручками, которую удобно носить в руке или на плече."

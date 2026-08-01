@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/glute-shaping/"
 aliases:
-  - "/en/glossar/glute-shaping/"
-  - "/glossary/glute-shaping/"
+  - /glossar/glute-shaping/
 image: "images/glossar/glute-shaping.png"
 image_alt: "Close view of fitted denim jeans showing curved back seams and back pockets"
 relatedTerms:

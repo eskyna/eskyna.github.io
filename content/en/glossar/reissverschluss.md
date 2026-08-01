@@ -22,8 +22,7 @@ keywords:
 slug: zipper
 url: /en/glossary/zipper/
 aliases:
-  - /en/glossar/reissverschluss/
-  - /glossary/zipper/
+  - /glossar/reissverschluss/
 image_alt: Editorial glossary illustration of a garment zipper with slider, teeth, and fabric tape
 relatedTerms:
   - title: Craftsmanship

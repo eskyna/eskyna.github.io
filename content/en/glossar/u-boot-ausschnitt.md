@@ -21,8 +21,7 @@ keywords:
 slug: boat-neck
 url: /en/glossary/boat-neck/
 aliases:
-  - /en/glossar/u-boot-ausschnitt/
-  - /glossary/boat-neck/
+  - /glossar/u-boot-ausschnitt/
 image_alt: Editorial illustration of a top with a wide boat neck running across the collarbone
 relatedTerms:
   - title: Neckline Effect

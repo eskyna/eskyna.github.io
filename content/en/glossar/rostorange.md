@@ -23,8 +23,7 @@ keywords:
 slug: rostorange
 url: /en/glossary/rostorange/
 aliases:
-  - /en/glossar/rostorange/
-  - /glossary/rostorange/
+  - /glossar/rostorange/
 relatedTerms:
   - title: "Terracotta"
     url: /en/glossar/terracotta/

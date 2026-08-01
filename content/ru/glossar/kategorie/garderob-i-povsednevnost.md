@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/garderob-i-povsednevnost/
 image: images/glossar/kategorie/garderobe-alltag.png
 seoTitle: Гардероб и повседневность | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/garderob-i-povsednevnost/
-  - /ru/glossar/kategorie/garderob-i-povsednevnost/
+  - /glossar/kategorie/garderob-i-povsednevnost/
+  - /glossar/garderob-i-povsednevnost/
 tags:
   - гардероб
   - повседневный стиль

@@ -15,8 +15,7 @@ keywords:
 slug: athleisure
 url: /rus/glossariy/athleisure/
 aliases:
-  - /rus/glossar/athleisure/
-  - /ru/glossar/athleisure/
+  - /glossar/athleisure/
 tags:
   - athleisure
   - спортивный стиль

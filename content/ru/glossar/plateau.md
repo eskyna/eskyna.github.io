@@ -34,8 +34,7 @@ seoTitle: "Платформа в обуви: что это и как носит�
 slug: platforma
 url: /ru/glossar/plateau/
 aliases:
-  - /rus/glossar/plateau/
-  - /ru/glossar/plateau/
+  - /glossar/plateau/
 lastmod: "2026-07-09"
 history:
   - "Приподнятая обувь известна с древности: высокий цоколь использовали в том числе в сценической обуви, чтобы фигура была заметнее зрителям."

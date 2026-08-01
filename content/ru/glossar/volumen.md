@@ -36,9 +36,8 @@ seoTitle: "Объём в одежде: что это и как применят�
 slug: obyom
 url: /ru/glossar/volumen/
 aliases:
-  - /rus/glossar/volumen/
-  - /ru/glossar/volumen/
-  - /rus/glossariy/obyom/
+  - /glossar/volumen/
+  - /glossariy/obyom/
 lastmod: "2026-07-09"
 knowledge:
   - Объём создают не только свободный крой, но и плотность ткани, складки, драпировка, рукава, карманы и многослойность.

@@ -35,8 +35,7 @@ seoTitle: "Образ для видеозвонка | ESKYNA"
 slug: obraz-dlya-videozvonka
 url: /ru/glossar/video-call-outfit/
 aliases:
-  - /rus/glossar/video-call-outfit/
-  - /ru/glossar/video-call-outfit/
+  - /glossar/video-call-outfit/
 image_alt: "Собранный образ для профессионального видеозвонка с акцентом на верхнюю часть комплекта"
 lastmod: "2026-07-09"
 knowledge:

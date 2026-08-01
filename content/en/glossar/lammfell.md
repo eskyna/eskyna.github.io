@@ -23,8 +23,7 @@ keywords:
 slug: shearling
 url: /en/glossary/shearling/
 aliases:
-  - /en/glossar/lammfell/
-  - /glossary/shearling/
+  - /glossar/lammfell/
 image_alt: Soft natural shearling with wool fleece and suede leather surface
 relatedTerms:
   - title: Leather

@@ -8,8 +8,7 @@ image_alt: "Оверлочный шов, аккуратно обрабатыва
 slug: overlocknaht
 url: /rus/glossariy/overlocknaht/
 aliases:
-  - /rus/glossar/overlocknaht/
-  - /ru/glossar/overlocknaht/
+  - /glossar/overlocknaht/
 tags:
   - оверлочный-шов
   - швы

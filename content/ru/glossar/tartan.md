@@ -35,8 +35,7 @@ seoTitle: "Тартан: что это за шотландская клетка 
 slug: tartan
 url: /rus/glossariy/tartan/
 aliases:
-  - /rus/glossar/tartan/
-  - /ru/glossar/tartan/
+  - /glossar/tartan/
 lastmod: "2026-07-09"
 history:
   - Тартан связан с текстильными традициями Шотландии и со временем стал одним из самых узнаваемых клетчатых узоров в моде.

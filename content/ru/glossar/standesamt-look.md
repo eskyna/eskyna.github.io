@@ -34,9 +34,9 @@ seoTitle: "Образ для регистрации брака: что наде�
 slug: obraz-dlya-registratsii-braka
 url: /ru/glossar/standesamt-look/
 aliases:
-  - /rus/glossariy/obraz-dlya-registratsii-braka/
-  - /rus/glossar/standesamt-look/
-  - /ru/glossar/obraz-dlya-registratsii-braka/
+  - /glossariy/obraz-dlya-registratsii-braka/
+  - /glossar/standesamt-look/
+  - /glossar/obraz-dlya-registratsii-braka/
 lastmod: "2026-07-09"
 knowledge:
   - Уровень формальности образа зависит от формата церемонии, времени суток, места проведения и дальнейших планов, например фотосъёмки, ужина или праздника.

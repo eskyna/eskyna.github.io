@@ -21,8 +21,7 @@ keywords:
 slug: leadership-style
 url: /en/glossary/leadership-style/
 aliases:
-  - /en/glossar/leadership-style/
-  - /glossary/leadership-style/
+  - /glossar/leadership-style/
 image_alt: Editorial illustration of a polished leadership outfit with tailored separates and refined accessories
 relatedTerms:
   - title: Executive Presence

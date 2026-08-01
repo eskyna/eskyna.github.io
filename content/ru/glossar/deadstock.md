@@ -14,8 +14,7 @@ keywords:
 slug: deadstock
 url: /rus/glossariy/deadstock/
 aliases:
-  - /rus/glossar/deadstock/
-  - /ru/glossar/deadstock/
+  - /glossar/deadstock/
 relatedTerms:
   - title: "Винтаж"
     url: /ru/glossar/vintage/

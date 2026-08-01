@@ -34,8 +34,7 @@ seoTitle: "Персональный шопинг | ESKYNA Glossary"
 slug: personalnyy-shoping
 url: /rus/glossariy/personalnyy-shoping/
 aliases:
-  - /rus/glossar/personal-shopping/
-  - /ru/glossar/personal-shopping/
+  - /glossar/personal-shopping/
 lastmod: "2026-07-09"
 knowledge:
   - "Персональный шопинг начинается не с выбора вещей, а с понимания задачи: для какого образа жизни, повода или роли нужна покупка."

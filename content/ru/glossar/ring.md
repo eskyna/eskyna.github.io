@@ -34,9 +34,8 @@ seoTitle: "Кольцо: значение, виды и применение в �
 slug: koltso
 url: /ru/glossar/ring/
 aliases:
-  - /rus/glossar/ring/
-  - /ru/glossar/ring/
-  - /rus/glossariy/koltso/
+  - /glossar/ring/
+  - /glossariy/koltso/
 lastmod: "2026-07-09"
 history:
   - Кольца известны с древности и использовались не только как украшения, но и как знаки статуса, принадлежности и личной символики.

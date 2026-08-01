@@ -4,8 +4,7 @@ term: "Контуринг декольте"
 slug: "cleavage-contouring"
 url: "/rus/glossariy/cleavage-contouring/"
 aliases:
-  - "/rus/glossar/cleavage-contouring/"
-  - "/ru/glossar/cleavage-contouring/"
+  - /glossar/cleavage-contouring/
 description: "Контуринг декольте это макияж с бронзером и хайлайтером, который подчёркивает ключицы и естественные линии груди. Приём помогает сделать зону декольте визуально более рельефной и выразительной."
 category: "Стиль и впечатление"
 tags:

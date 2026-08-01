@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/see-through-effekt/"
 aliases:
-  - "/en/glossar/see-through-effekt/"
-  - "/glossary/see-through-effekt/"
+  - /glossar/see-through-effekt/
 image: "images/glossar/see-through-effekt.png"
 image_alt: "A sheer black top layered over a structured black bralette"
 relatedTerms:

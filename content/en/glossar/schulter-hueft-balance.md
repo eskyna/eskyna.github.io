@@ -21,8 +21,7 @@ keywords:
 slug: shoulder-hip-balance
 url: /en/glossary/shoulder-hip-balance/
 aliases:
-  - /en/glossar/schulter-hueft-balance/
-  - /glossary/shoulder-hip-balance/
+  - /glossar/schulter-hueft-balance/
 image_alt: Editorial illustration showing the visual relationship between shoulder width and hip width in an outfit
 relatedTerms:
   - title: Proportion

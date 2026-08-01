@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/3-farben-regel/"
 aliases:
-  - "/en/glossar/3-farben-regel/"
-  - "/glossary/3-farben-regel/"
+  - /glossar/3-farben-regel/
 image: "images/glossar/3-farben-regel.png"
 image_alt: "A neutral outfit with a blue blazer and red handbag"
 relatedTerms:

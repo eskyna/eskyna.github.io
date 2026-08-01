@@ -22,8 +22,7 @@ keywords:
 slug: ballonhose-balloon-trousers
 url: /rus/glossariy/ballonhose-balloon-trousers/
 aliases:
-  - /rus/glossar/ballonhose-balloon-trousers/
-  - /ru/glossar/ballonhose-balloon-trousers/
+  - /glossar/ballonhose-balloon-trousers/
 relatedTerms:
   - title: Бочкообразные брюки
     url: /ru/glossar/barrel-leg/

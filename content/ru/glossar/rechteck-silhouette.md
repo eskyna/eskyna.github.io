@@ -36,8 +36,7 @@ seoTitle: "Прямоугольный силуэт | ESKYNA Glossary"
 slug: pryamougolnyy-siluet
 url: /ru/glossar/rechteck-silhouette/
 aliases:
-  - /rus/glossar/rechteck-silhouette/
-  - /ru/glossar/rechteck-silhouette/
+  - /glossar/rechteck-silhouette/
 image_alt: "Иллюстрация прямоугольного силуэта с ровной линией плеч, талии и бёдер"
 lastmod: "2026-07-09"
 knowledge:

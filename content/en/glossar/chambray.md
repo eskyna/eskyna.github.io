@@ -14,8 +14,7 @@ keywords:
 slug: chambray
 url: /en/glossary/chambray/
 aliases:
-  - /en/glossar/chambray/
-  - /glossary/chambray/
+  - /glossar/chambray/
 tags:
   - chambray fabric
   - cotton fabric

@@ -21,8 +21,7 @@ keywords:
 slug: loafer
 url: /en/glossary/loafer/
 aliases:
-  - /en/glossar/loafer/
-  - /glossary/loafer/
+  - /glossar/loafer/
 image_alt: Editorial illustration of classic leather loafers
 relatedTerms:
   - title: Moccasin

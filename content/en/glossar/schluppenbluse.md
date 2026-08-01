@@ -15,8 +15,7 @@ keywords:
 slug: schluppenbluse
 url: /en/glossary/schluppenbluse/
 aliases:
-  - /en/glossar/schluppenbluse/
-  - /glossary/schluppenbluse/
+  - /glossar/schluppenbluse/
 relatedTerms:
   - title: "Blouse"
     url: /en/glossar/bluse/

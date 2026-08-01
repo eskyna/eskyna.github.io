@@ -34,9 +34,8 @@ seoTitle: "Впечатление в стиле | ESKYNA Glossary"
 slug: vpechatlenie
 url: /ru/glossar/wirkung/
 aliases:
-  - /rus/glossar/wirkung/
-  - /ru/glossar/wirkung/
-  - /rus/glossariy/vpechatlenie/
+  - /glossar/wirkung/
+  - /glossariy/vpechatlenie/
 lastmod: "2026-07-09"
 knowledge:
   - Впечатление складывается не из одной вещи, а из сочетания цвета, силуэта, посадки, материалов, деталей и поведения.

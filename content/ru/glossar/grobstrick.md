@@ -33,9 +33,8 @@ seoTitle: "Грубая вязка | ESKYNA Glossary"
 slug: grobstrick
 url: /ru/glossar/grobstrick/
 aliases:
-  - /rus/glossar/grobstrick/
-  - /rus/glossariy/grubaya-vyazka/
-  - /ru/glossar/grobstrick/
+  - /glossar/grobstrick/
+  - /glossariy/grubaya-vyazka/
 lastmod: "2026-07-09"
 knowledge:
   - Грубая вязка описывает прежде всего масштаб петель и выраженность поверхности, а не конкретный состав волокна.

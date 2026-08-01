@@ -5,8 +5,7 @@ description: "A high grooming standard is the intentional coordination of clothi
 slug: "high-grooming-standard"
 url: "/en/glossary/high-grooming-standard/"
 aliases:
-  - "/en/glossar/high-grooming-standard/"
-  - "/glossary/high-grooming-standard/"
+  - /glossar/high-grooming-standard/
 category: "Style & Impact"
 tags:
   - "grooming"

@@ -23,8 +23,7 @@ keywords:
 slug: executive-presence
 url: /en/glossary/executive-presence/
 aliases:
-  - /en/glossar/executive-presence/
-  - /glossary/executive-presence/
+  - /glossar/executive-presence/
 image_alt: Editorial illustration of a polished professional outfit that communicates executive presence
 relatedTerms:
   - title: Presence

@@ -22,8 +22,7 @@ keywords:
 slug: beerentoene
 url: /en/glossary/beerentoene/
 aliases:
-  - /en/glossar/beerentoene/
-  - /glossary/beerentoene/
+  - /glossar/beerentoene/
 relatedTerms:
   - title: Burgundy
     url: /en/glossar/bordeaux/

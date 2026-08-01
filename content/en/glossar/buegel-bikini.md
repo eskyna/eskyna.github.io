@@ -4,8 +4,7 @@ term: Underwire Bikini
 slug: buegel-bikini
 url: /en/glossary/buegel-bikini/
 aliases:
-  - /en/glossar/buegel-bikini/
-  - /glossary/buegel-bikini/
+  - /glossar/buegel-bikini/
 description: "An underwire bikini is a bikini top with shaped underwires built into the cups for added lift, support, centering, and definition."
 category: "Lingerie, Bras & Styling Aids"
 tags:

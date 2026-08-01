@@ -35,8 +35,7 @@ seoTitle: "Спущенное плечо | ESKYNA Glossary"
 slug: spushchennoe-plecho
 url: /rus/glossariy/spushchennoe-plecho/
 aliases:
-  - /rus/glossar/dropped-shoulder/
-  - /ru/glossar/dropped-shoulder/
+  - /glossar/dropped-shoulder/
 lastmod: "2026-07-09"
 knowledge:
   - Спущенное плечо определяется положением плечевого шва, а не общей шириной вещи.

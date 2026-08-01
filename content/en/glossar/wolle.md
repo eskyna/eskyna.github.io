@@ -21,8 +21,7 @@ keywords:
 slug: wool
 url: /en/glossary/wool/
 aliases:
-  - /en/glossar/wolle/
-  - /glossary/wool/
+  - /glossar/wolle/
 image_alt: Soft wool yarn and textured wool fabric in a calm neutral tone
 relatedTerms:
   - title: Merino Wool

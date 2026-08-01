@@ -9,8 +9,7 @@ image_alt: "Иллюстрация броши, декоративного укр
 slug: brosche
 url: /rus/glossariy/brosche/
 aliases:
-  - /rus/glossar/brosche/
-  - /ru/glossar/brosche/
+  - /glossar/brosche/
 tags:
   - брошь
   - украшения

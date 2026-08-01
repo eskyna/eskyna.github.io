@@ -34,8 +34,7 @@ seoTitle: "Костюмный пиджак | ESKYNA Glossary"
 slug: pidzhak
 url: /rus/glossariy/pidzhak/
 aliases:
-  - /rus/glossar/anzugjacke/
-  - /ru/glossar/anzugjacke/
+  - /glossar/anzugjacke/
 lastmod: "2026-07-09"
 history:
   - Костюмный пиджак сформировался как часть мужского костюма и со временем стал важным элементом делового и вечернего гардероба.

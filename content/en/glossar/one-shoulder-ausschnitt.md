@@ -9,8 +9,7 @@ image_alt: "Illustration of a dress with an asymmetric one-shoulder neckline and
 slug: one-shoulder-ausschnitt
 url: /en/glossary/one-shoulder-ausschnitt/
 aliases:
-  - /en/glossar/one-shoulder-ausschnitt/
-  - /glossary/one-shoulder-ausschnitt/
+  - /glossar/one-shoulder-ausschnitt/
 tags:
   - one-shoulder neckline
   - asymmetric neckline

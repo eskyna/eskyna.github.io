@@ -9,8 +9,7 @@ image: "images/glossar/desert-boots.png"
 image_alt: "Замшевые Desert Boots до щиколотки на светлой креповой подошве"
 url: /rus/glossariy/desert-boots/
 aliases:
-  - /rus/glossar/desert-boots/
-  - /ru/glossar/desert-boots/
+  - /glossar/desert-boots/
 lastmod: "2026-07-22"
 relatedTerms:
   - title: "Ботинки по щиколотку"

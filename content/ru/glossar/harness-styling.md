@@ -4,8 +4,7 @@ term: "Стайлинг с портупеей"
 slug: "harness-styling"
 url: "/rus/glossariy/harness-styling/"
 aliases:
-  - "/rus/glossar/harness-styling/"
-  - "/ru/glossar/harness-styling/"
+  - /glossar/harness-styling/
 description: "Стайлинг с портупеей это использование ремней и кожаных конструкций как заметного аксессуара на талии, груди или поверх одежды. Узнайте, как носить портупею современно, уместно и комфортно."
 category: "Аксессуары"
 tags:

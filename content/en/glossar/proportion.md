@@ -21,8 +21,7 @@ keywords:
 slug: proportion
 url: /en/glossary/proportion/
 aliases:
-  - /en/glossar/proportion/
-  - /glossary/proportion/
+  - /glossar/proportion/
 image_alt: Editorial illustration showing balanced outfit proportions through different garment lengths and volumes
 relatedTerms:
   - title: Silhouette

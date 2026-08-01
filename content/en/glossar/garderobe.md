@@ -20,8 +20,7 @@ keywords:
 slug: wardrobe
 url: /en/glossary/wardrobe/
 aliases:
-  - /en/glossar/garderobe/
-  - /glossary/wardrobe/
+  - /glossar/garderobe/
 image_alt: Editorial glossary illustration showing a coordinated clothing wardrobe
 relatedTerms:
   - title: Wardrobe Logic

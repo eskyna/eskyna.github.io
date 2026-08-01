@@ -33,8 +33,7 @@ seoTitle: "Летний цветотип | ESKYNA Glossary"
 slug: letniy-tsvetotip
 url: /rus/glossariy/letniy-tsvetotip/
 aliases:
-  - /rus/glossar/sommertyp/
-  - /ru/glossar/sommertyp/
+  - /glossar/sommertyp/
 image_alt: "Иллюстрация палитры для летнего цветотипа с холодными приглушёнными оттенками"
 lastmod: "2026-07-09"
 knowledge:

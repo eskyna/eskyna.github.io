@@ -5,8 +5,7 @@ description: "Сердцевидный шов, или Heart-Shape-Naht, это V
 slug: heart-shape-naht
 url: /rus/glossariy/heart-shape-naht/
 aliases:
-  - /rus/glossar/heart-shape-naht/
-  - /ru/glossar/heart-shape-naht/
+  - /glossar/heart-shape-naht/
 category: "Крой, пропорции и посадка"
 tags:
   - сердцевидный-шов

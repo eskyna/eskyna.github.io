@@ -21,8 +21,7 @@ keywords:
 slug: cut-profile
 url: /en/glossary/cut-profile/
 aliases:
-  - /en/glossar/schnittprofil/
-  - /glossary/cut-profile/
+  - /glossar/schnittprofil/
 image_alt: Editorial illustration showing different clothing cuts, proportions, and silhouettes
 relatedTerms:
   - title: Cut

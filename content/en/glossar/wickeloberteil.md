@@ -22,8 +22,7 @@ keywords:
 slug: wrap-top
 url: /en/glossary/wrap-top/
 aliases:
-  - /en/glossar/wickeloberteil/
-  - /glossary/wrap-top/
+  - /glossar/wickeloberteil/
 image_alt: A wrap top with overlapping front panels tied at the waist
 relatedTerms:
   - title: Wrap Dress

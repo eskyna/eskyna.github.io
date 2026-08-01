@@ -34,8 +34,7 @@ seoTitle: "Современный стиль: значение и примене
 slug: sovremennyy-stil
 url: /ru/glossar/modern/
 aliases:
-  - /rus/glossar/modern/
-  - /ru/glossar/modern/
+  - /glossar/modern/
 lastmod: "2026-07-09"
 knowledge:
   - Современность образа зависит не только от трендовой вещи, но и от посадки, пропорций, обуви, фактуры и общего контекста.

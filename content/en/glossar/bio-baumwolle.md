@@ -20,8 +20,7 @@ image_alt: Glossary illustration for organic cotton clothing and natural cotton 
 slug: bio-baumwolle
 url: /en/glossary/bio-baumwolle/
 aliases:
-  - /en/glossar/bio-baumwolle/
-  - /glossary/bio-baumwolle/
+  - /glossar/bio-baumwolle/
 relatedTerms:
   - title: Cotton
     url: /en/glossar/baumwolle/

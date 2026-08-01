@@ -9,8 +9,7 @@ image: "images/glossar/peep-toe.png"
 image_alt: "Туфли Peep-Toe с небольшим открытым вырезом в области пальцев"
 url: /rus/glossariy/peep-toe/
 aliases:
-  - /rus/glossar/peep-toe/
-  - /ru/glossar/peep-toe/
+  - /glossar/peep-toe/
 tags:
   - peep-toe
   - обувь

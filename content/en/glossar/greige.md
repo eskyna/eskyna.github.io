@@ -21,8 +21,7 @@ keywords:
 slug: greige
 url: /en/glossary/greige/
 aliases:
-  - /en/glossar/greige/
-  - /glossary/greige/
+  - /glossar/greige/
 relatedTerms:
   - title: "Beige"
     url: /en/glossar/beige/

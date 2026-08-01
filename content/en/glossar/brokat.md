@@ -15,8 +15,7 @@ keywords:
 slug: brokat
 url: /en/glossary/brokat/
 aliases:
-  - /en/glossar/brokat/
-  - /glossary/brokat/
+  - /glossar/brokat/
 tags:
   - brocade fabric
   - woven fabric

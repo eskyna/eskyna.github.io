@@ -5,6 +5,9 @@ layout: glossar-kategorie
 is_glossar_category: true
 glossar_category: "Lingerie, Bras & Styling Aids"
 url: /en/glossary/category/lingerie-bras-styling-aids/
+aliases:
+  - /glossar/dessous-bh-styling-helfer/
+  - /glossar/kategorie/dessous-bh-styling-helfer/
 seoTitle: "Lingerie, Bras & Styling Aids | ESKYNA Glossary"
 keywords:
   - lingerie glossary

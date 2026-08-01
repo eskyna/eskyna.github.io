@@ -9,8 +9,7 @@ image: "images/glossar/panamahut.png"
 image_alt: "Иллюстрация светлой плетёной панамской шляпы с лентой вокруг тульи"
 url: /rus/glossariy/panamahut/
 aliases:
-  - /rus/glossar/panamahut/
-  - /ru/glossar/panamahut/
+  - /glossar/panamahut/
 tags:
   - панамская-шляпа
   - летний-аксессуар

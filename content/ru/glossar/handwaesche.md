@@ -35,8 +35,7 @@ seoTitle: "Ручная стирка: значение, правила и ухо
 slug: ruchnaya-stirka
 url: /rus/glossariy/ruchnaya-stirka/
 aliases:
-  - /rus/glossar/handwaesche/
-  - /ru/glossar/handwaesche/
+  - /glossar/handwaesche/
 lastmod: "2026-07-09"
 knowledge:
   - Ручная стирка уменьшает механическое воздействие на волокна по сравнению с обычной машинной стиркой.

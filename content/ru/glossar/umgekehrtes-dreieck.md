@@ -34,9 +34,8 @@ seoTitle: "Перевёрнутый треугольник | ESKYNA"
 slug: umgekehrtes-dreieck
 url: /ru/glossar/umgekehrtes-dreieck/
 aliases:
-  - /rus/glossar/umgekehrtes-dreieck/
-  - /ru/glossar/umgekehrtes-dreieck/
-  - /rus/glossariy/perevyornutyy-treugolnik/
+  - /glossar/umgekehrtes-dreieck/
+  - /glossariy/perevyornutyy-treugolnik/
 image_alt: "Схема силуэта перевёрнутый треугольник с более широкой линией плеч и узкой линией бёдер"
 knowledge:
   - "Перевёрнутый треугольник описывает соотношение визуальных линий плеч, груди, талии и бёдер, а не размер одежды или вес."

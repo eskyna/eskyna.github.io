@@ -21,8 +21,7 @@ keywords:
 slug: favorite-piece
 url: /en/glossary/favorite-piece/
 aliases:
-  - /en/glossar/lieblingsstueck/
-  - /glossary/favorite-piece/
+  - /glossar/lieblingsstueck/
 image_alt: Editorial glossary illustration representing a well-loved favorite garment in a personal wardrobe
 relatedTerms:
   - title: Personal Style

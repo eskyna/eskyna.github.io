@@ -22,8 +22,7 @@ keywords:
 slug: silk-scarf
 url: /en/glossary/silk-scarf/
 aliases:
-  - /en/glossar/seidentuch/
-  - /glossary/silk-scarf/
+  - /glossar/seidentuch/
 image_alt: Silk scarf draped softly with a subtle sheen
 relatedTerms:
   - title: Silk

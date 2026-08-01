@@ -35,8 +35,7 @@ seoTitle: "Шерстяное пальто: что это и как выбрат
 slug: sherstyanoe-palto
 url: /rus/glossariy/sherstyanoe-palto/
 aliases:
-  - /rus/glossar/wollmantel/
-  - /ru/glossar/wollmantel/
+  - /glossar/wollmantel/
 lastmod: "2026-07-09"
 history:
   - "Шерстяные пальто развивались из практичной верхней одежды для защиты от холода, ветра и осадков."

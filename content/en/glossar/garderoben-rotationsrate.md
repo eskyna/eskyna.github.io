@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/garderoben-rotationsrate/
 aliases:
-  - /en/glossar/garderoben-rotationsrate/
-  - /glossary/garderoben-rotationsrate/
+  - /glossar/garderoben-rotationsrate/
 image: images/glossar/garderoben-rotationsrate.png
 image_alt: A rail of everyday clothing arranged by color with a person selecting a jacket
 relatedTerms:

@@ -35,8 +35,7 @@ seoTitle: "Розовое золото | ESKYNA Glossary"
 slug: rozovoe-zoloto
 url: /ru/glossar/rosegold/
 aliases:
-  - /rus/glossar/rosegold/
-  - /ru/glossar/rosegold/
+  - /glossar/rosegold/
 lastmod: "2026-07-09"
 history:
   - Розовое золото получило широкое распространение в ювелирном деле благодаря сплавам золота с медью, которые дают металлу характерный розоватый оттенок.

@@ -21,8 +21,7 @@ keywords:
 slug: watch
 url: /en/glossary/watch/
 aliases:
-  - /en/glossar/uhr/
-  - /glossary/watch/
+  - /glossar/uhr/
 image_alt: Editorial illustration of a wristwatch with a round dial and metal bracelet
 relatedTerms:
   - title: Accessory

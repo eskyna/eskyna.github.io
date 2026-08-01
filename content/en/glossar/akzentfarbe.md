@@ -21,8 +21,7 @@ keywords:
 slug: accent-color
 url: /en/glossary/accent-color/
 aliases:
-  - /en/glossar/akzentfarbe/
-  - /glossary/accent-color/
+  - /glossar/akzentfarbe/
 image_alt: Editorial illustration of a neutral outfit with a colorful accent accessory
 relatedTerms:
   - title: Color Palette

@@ -19,8 +19,7 @@ keywords:
 slug: body-shape
 url: /en/glossary/body-shape/
 aliases:
-  - /en/glossar/koerperform/
-  - /glossary/body-shape/
+  - /glossar/koerperform/
 image_alt: Editorial glossary illustration showing the relationship between shoulders, waist, and hips in body shape analysis
 relatedTerms:
   - title: Silhouette

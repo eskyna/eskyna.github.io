@@ -20,8 +20,7 @@ keywords:
 slug: classic-piece
 url: /en/glossary/classic-piece/
 aliases:
-  - /en/glossar/klassiker/
-  - /glossary/classic-piece/
+  - /glossar/klassiker/
 image_alt: Editorial glossary illustration showing timeless classic wardrobe pieces
 relatedTerms:
   - title: Essential

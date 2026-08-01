@@ -33,8 +33,7 @@ seoTitle: "Юбка-карандаш: что это, как выбрать и н
 slug: yubka-karandash
 url: /rus/glossariy/yubka-karandash/
 aliases:
-  - /rus/glossar/bleistiftrock/
-  - /ru/glossar/bleistiftrock/
+  - /glossar/bleistiftrock/
 lastmod: "2026-07-09"
 history:
   - Узкий силуэт юбки стал заметной частью женской моды середины XX века, когда в одежде ценились чёткие линии и подчеркнутая талия.

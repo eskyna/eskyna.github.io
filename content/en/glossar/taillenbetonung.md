@@ -21,8 +21,7 @@ keywords:
 slug: waist-emphasis
 url: /en/glossary/waist-emphasis/
 aliases:
-  - /en/glossar/taillenbetonung/
-  - /glossary/waist-emphasis/
+  - /glossar/taillenbetonung/
 image_alt: Editorial illustration showing different ways to define the waist with a belt, tailored cut, and tucked top
 relatedTerms:
   - title: Waist Shaping

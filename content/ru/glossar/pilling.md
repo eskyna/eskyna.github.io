@@ -34,9 +34,8 @@ seoTitle: "Пиллинг ткани | ESKYNA Glossary"
 slug: pilling-tkani
 url: /rus/glossariy/pilling-tkani/
 aliases:
-  - /rus/glossar/pilling/
-  - /ru/glossar/pilling/
-  - /rus/glossariy/pilling/
+  - /glossar/pilling/
+  - /glossariy/pilling/
 lastmod: "2026-07-09"
 knowledge:
   - "Пиллинг чаще появляется в зонах регулярного трения: под мышками, на боках, у манжет, на локтях, в области ремня и там, где одежда соприкасается с сумкой."

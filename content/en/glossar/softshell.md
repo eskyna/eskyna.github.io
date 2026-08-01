@@ -8,8 +8,7 @@ image_alt: Glossary illustration of a lightweight softshell jacket with a clean 
 slug: softshell
 url: /en/glossary/softshell/
 aliases:
-  - /en/glossar/softshell/
-  - /glossary/softshell/
+  - /glossar/softshell/
 tags:
   - softshell
   - outdoor clothing

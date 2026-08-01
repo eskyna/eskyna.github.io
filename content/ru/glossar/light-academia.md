@@ -33,9 +33,8 @@ seoTitle: "Светлая академия: значение и применен
 slug: svetlaya-akademiya
 url: /rus/glossariy/svetlaya-akademiya/
 aliases:
-  - /rus/glossar/light-academia/
-  - /ru/glossar/light-academia/
-  - /rus/glossariy/light-academia/
+  - /glossar/light-academia/
+  - /glossariy/light-academia/
 image_alt: "Светлая академия: светлый образ с классическими силуэтами, книгами и мягкими фактурами"
 lastmod: "2026-07-09"
 knowledge:

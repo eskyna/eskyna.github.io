@@ -24,8 +24,7 @@ keywords:
 slug: color
 url: /en/glossary/color/
 aliases:
-  - /en/glossar/farbe/
-  - /glossary/color/
+  - /glossar/farbe/
 image_alt: Editorial illustration showing a coordinated clothing color palette
 relatedTerms:
   - title: Color Consultation

@@ -5,8 +5,7 @@ description: "Проверка пропорций бикини помогает 
 slug: bikini-proportionen-check
 url: /rus/glossariy/bikini-proportionen-check/
 aliases:
-  - /rus/glossar/bikini-proportionen-check/
-  - /ru/glossar/bikini-proportionen-check/
+  - /glossar/bikini-proportionen-check/
 category: Крой, пропорции и посадка
 tags:
   - бикини

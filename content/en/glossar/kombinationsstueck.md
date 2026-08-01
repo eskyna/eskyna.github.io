@@ -22,8 +22,7 @@ keywords:
 slug: combination-piece
 url: /en/glossary/combination-piece/
 aliases:
-  - /en/glossar/kombinationsstueck/
-  - /glossary/combination-piece/
+  - /glossar/kombinationsstueck/
 image_alt: Neutral wardrobe pieces arranged to show versatile outfit combinations
 relatedTerms:
   - title: Capsule Wardrobe

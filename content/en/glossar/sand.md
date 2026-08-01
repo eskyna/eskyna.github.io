@@ -23,8 +23,7 @@ keywords:
 slug: sand
 url: /en/glossary/sand/
 aliases:
-  - /en/glossar/sand/
-  - /glossary/sand/
+  - /glossar/sand/
 relatedTerms:
   - title: "Beige"
     url: /en/glossar/beige/

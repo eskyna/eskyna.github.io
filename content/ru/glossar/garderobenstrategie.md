@@ -34,8 +34,7 @@ seoTitle: "Стратегия гардероба | ESKYNA Glossary"
 slug: strategiya-garderoba
 url: /rus/glossariy/strategiya-garderoba/
 aliases:
-  - /rus/glossar/garderobenstrategie/
-  - /ru/glossar/garderobenstrategie/
+  - /glossar/garderobenstrategie/
 lastmod: "2026-07-09"
 knowledge:
   - Стратегия гардероба строится не вокруг количества вещей, а вокруг их уместности, сочетаемости и реальной частоты носки.

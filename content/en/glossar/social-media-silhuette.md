@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/social-media-silhuette/"
 aliases:
-  - "/en/glossar/social-media-silhuette/"
-  - "/glossary/social-media-silhuette/"
+  - /glossar/social-media-silhuette/
 image: "images/glossar/social-media-silhuette.png"
 image_alt: "Person in a sharply tailored black blazer and wide-leg trousers posing against a light wall"
 relatedTerms:

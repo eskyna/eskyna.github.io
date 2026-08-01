@@ -4,8 +4,7 @@ term: "Иллюзия тонкой талии"
 slug: micro-waist-illusion
 url: /rus/glossariy/micro-waist-illusion/
 aliases:
-  - /rus/glossar/micro-waist-illusion/
-  - /ru/glossar/micro-waist-illusion/
+  - /glossar/micro-waist-illusion/
 description: "Иллюзия тонкой талии это стилистический приём, который визуально сужает область талии с помощью цветовых блоков, диагоналей, контрастных вставок и положения ремня."
 category: "Крой, пропорции и посадка"
 tags:

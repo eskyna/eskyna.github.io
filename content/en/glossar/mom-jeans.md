@@ -21,8 +21,7 @@ keywords:
 slug: mom-jeans
 url: /en/glossary/mom-jeans/
 aliases:
-  - /en/glossar/mom-jeans/
-  - /glossary/mom-jeans/
+  - /glossar/mom-jeans/
 image_alt: Editorial glossary illustration of high-waisted mom jeans with a relaxed hip and tapered leg
 relatedTerms:
   - title: Jeans

@@ -9,8 +9,7 @@ image: "images/glossar/gummistiefel.png"
 image_alt: "Glossary illustration of waterproof rain boots"
 url: /en/glossary/gummistiefel/
 aliases:
-  - /en/glossar/gummistiefel/
-  - /glossary/gummistiefel/
+  - /glossar/gummistiefel/
 tags:
   - rain boots
   - waterproof footwear

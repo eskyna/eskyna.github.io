@@ -21,8 +21,7 @@ keywords:
 slug: photo-shoot-outfit
 url: /en/glossary/photo-shoot-outfit/
 aliases:
-  - /en/glossar/fotoshooting-outfit/
-  - /glossary/photo-shoot-outfit/
+  - /glossar/fotoshooting-outfit/
 image_alt: Illustration representing a coordinated photo shoot outfit
 relatedTerms:
   - title: Camera-Ready Look

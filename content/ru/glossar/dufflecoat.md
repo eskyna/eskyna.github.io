@@ -34,8 +34,7 @@ seoTitle: "Дуффельное пальто: что это, история и �
 slug: duffelnoe-palto
 url: /rus/glossariy/duffelnoe-palto/
 aliases:
-  - /rus/glossar/dufflecoat/
-  - /ru/glossar/dufflecoat/
+  - /glossar/dufflecoat/
 lastmod: "2026-07-09"
 history:
   - Название пальто связано с грубой шерстяной тканью duffel, которую традиционно производили в бельгийском городе Дюффел.

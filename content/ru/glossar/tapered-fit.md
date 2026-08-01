@@ -36,9 +36,8 @@ seoTitle: "Зауженная посадка | ESKYNA Glossary"
 slug: zauzhennaya-posadka
 url: /rus/glossariy/zauzhennaya-posadka/
 aliases:
-  - /rus/glossar/tapered-fit/
-  - /ru/glossar/tapered-fit/
-  - /rus/glossariy/tapered-fit/
+  - /glossar/tapered-fit/
+  - /glossariy/tapered-fit/
 lastmod: "2026-07-09"
 knowledge:
   - "Зауженная посадка описывает прежде всего форму брючин, а не высоту пояса: она может сочетаться с высокой, средней или низкой посадкой."

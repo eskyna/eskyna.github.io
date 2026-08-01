@@ -24,7 +24,6 @@ keywords:
 slug: linen
 url: /en/glossar/leinen/
 aliases:
-  - /en/glossar/leinen/
   - /glossary/linen/
 image_alt: Editorial glossary illustration showing the natural woven texture of linen fabric
 relatedTerms:

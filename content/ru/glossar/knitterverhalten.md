@@ -36,8 +36,7 @@ seoTitle: "Сминаемость ткани: значение и примене
 slug: sminaemost-tkani
 url: /rus/glossariy/sminaemost-tkani/
 aliases:
-  - /rus/glossar/knitterverhalten/
-  - /ru/glossar/knitterverhalten/
+  - /glossar/knitterverhalten/
 knowledge:
   - Сминаемость зависит не только от состава, но и от переплетения, плотности, толщины, отделки и конструкции конкретной вещи.
   - Заломы заметнее на гладких однотонных поверхностях, особенно в светлых или очень тёмных оттенках.

@@ -23,8 +23,7 @@ keywords:
 slug: style-clarity
 url: /en/glossary/style-clarity/
 aliases:
-  - /en/glossar/stil-klarheit/
-  - /glossary/style-clarity/
+  - /glossar/stil-klarheit/
 image_alt: Editorial glossary illustration representing clear and personal style decisions
 relatedTerms:
   - title: Personal Style

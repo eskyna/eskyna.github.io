@@ -5,8 +5,7 @@ description: "Ботфорты, или сапоги выше колена, эт�
 slug: overknee-stiefel
 url: /rus/glossariy/overknee-stiefel/
 aliases:
-  - /rus/glossar/overknee-stiefel/
-  - /ru/glossar/overknee-stiefel/
+  - /glossar/overknee-stiefel/
 category: Обувь
 tags:
   - ботфорты

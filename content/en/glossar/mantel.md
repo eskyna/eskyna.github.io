@@ -20,8 +20,7 @@ keywords:
 slug: coat
 url: /en/glossary/coat/
 aliases:
-  - /en/glossar/mantel/
-  - /glossary/coat/
+  - /glossar/mantel/
 image_alt: Editorial illustration of a tailored long coat worn over an everyday outfit
 relatedTerms:
   - title: Wool Coat

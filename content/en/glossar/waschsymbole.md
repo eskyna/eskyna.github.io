@@ -20,8 +20,7 @@ keywords:
 slug: laundry-symbols
 url: /en/glossary/laundry-symbols/
 aliases:
-  - /en/glossar/waschsymbole/
-  - /glossary/laundry-symbols/
+  - /glossar/waschsymbole/
 image_alt: Laundry care label showing washing, bleaching, drying, ironing, and dry cleaning symbols
 relatedTerms:
   - title: Care

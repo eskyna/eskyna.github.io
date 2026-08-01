@@ -21,8 +21,7 @@ keywords:
 slug: fisherman-sandals-fischersandalen
 url: /rus/glossariy/fisherman-sandals-fischersandalen/
 aliases:
-  - /rus/glossar/fisherman-sandals-fischersandalen/
-  - /ru/glossar/fisherman-sandals-fischersandalen/
+  - /glossar/fisherman-sandals-fischersandalen/
 relatedTerms:
   - title: Сандалии
     url: /ru/glossar/sandale/

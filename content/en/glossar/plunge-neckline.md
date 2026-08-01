@@ -9,8 +9,7 @@ image: "images/glossar/plunge-neckline.png"
 image_alt: "Illustration of a dress with a deep V-shaped plunge neckline"
 url: /en/glossary/plunge-neckline/
 aliases:
-  - /en/glossar/plunge-neckline/
-  - /glossary/plunge-neckline/
+  - /glossar/plunge-neckline/
 tags:
   - plunge neckline
   - neckline

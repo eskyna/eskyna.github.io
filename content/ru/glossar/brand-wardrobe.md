@@ -36,8 +36,7 @@ seoTitle: "Гардероб бренда: значение и применени
 slug: garderob-brenda
 url: /rus/glossariy/garderob-brenda/
 aliases:
-  - /rus/glossar/brand-wardrobe/
-  - /ru/glossar/brand-wardrobe/
+  - /glossar/brand-wardrobe/
 image_alt: "Иллюстрация гардероба бренда с повторяющимися цветами, силуэтами и аксессуарами"
 knowledge:
   - "Гардероб бренда строится не на одинаковых вещах, а на узнаваемых повторяющихся принципах: палитре, крое, материалах, деталях и степени формальности."

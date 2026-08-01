@@ -35,8 +35,7 @@ seoTitle: "Жилет: что это, виды и как носить | Глос
 slug: zhilet
 url: /rus/glossariy/zhilet/
 aliases:
-  - /rus/glossar/weste/
-  - /ru/glossar/weste/
+  - /glossar/weste/
 lastmod: "2026-07-09"
 history:
   - Жилет сформировался как элемент мужского костюма и со временем стал самостоятельной частью женского, мужского и гендерно-нейтрального гардероба.

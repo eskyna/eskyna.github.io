@@ -9,8 +9,7 @@ image_alt: "Иллюстрация хлопкового растения и тк
 slug: bio-baumwolle
 url: /rus/glossariy/bio-baumwolle/
 aliases:
-  - /rus/glossar/bio-baumwolle/
-  - /ru/glossar/bio-baumwolle/
+  - /glossar/bio-baumwolle/
 tags:
   - органический-хлопок
   - био-хлопок

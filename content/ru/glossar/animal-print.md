@@ -34,8 +34,7 @@ seoTitle: "Животный принт: что это и как носить | �
 slug: zhivotnyy-print
 url: /rus/glossariy/zhivotnyy-print/
 aliases:
-  - /rus/glossar/animal-print/
-  - /ru/glossar/animal-print/
+  - /glossar/animal-print/
 lastmod: "2026-07-09"
 history:
   - Мотивы, вдохновлённые животным миром, встречались в одежде и украшениях разных культур задолго до современной моды.

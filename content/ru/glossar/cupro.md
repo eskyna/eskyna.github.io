@@ -16,8 +16,7 @@ keywords:
 slug: cupro
 url: /rus/glossariy/cupro/
 aliases:
-  - /rus/glossar/cupro/
-  - /ru/glossar/cupro/
+  - /glossar/cupro/
 tags:
   - "купро"
   - "целлюлозное волокно"

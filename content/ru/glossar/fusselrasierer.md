@@ -33,8 +33,7 @@ seoTitle: "Машинка для удаления катышков | ESKYNA"
 slug: mashinka-dlya-udaleniya-katyshkov
 url: /rus/glossariy/mashinka-dlya-udaleniya-katyshkov/
 aliases:
-  - /rus/glossar/fusselrasierer/
-  - /ru/glossar/fusselrasierer/
+  - /glossar/fusselrasierer/
 lastmod: "2026-07-09"
 knowledge:
   - Машинка для удаления катышков срезает скатавшиеся волокна с поверхности ткани, но не устраняет причину их появления.

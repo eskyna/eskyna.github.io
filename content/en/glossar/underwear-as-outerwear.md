@@ -9,8 +9,7 @@ image: "images/glossar/underwear-as-outerwear.png"
 image_alt: "Glossary illustration for Underwear as Outerwear"
 url: /en/glossary/underwear-as-outerwear/
 aliases:
-  - /en/glossar/underwear-as-outerwear/
-  - /glossary/underwear-as-outerwear/
+  - /glossar/underwear-as-outerwear/
 tags:
   - underwear as outerwear
   - lingerie styling

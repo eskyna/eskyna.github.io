@@ -34,8 +34,8 @@ seoTitle: "Пончо: значение, история и как носить |
 slug: poncho
 url: /ru/glossar/poncho/
 aliases:
-  - /rus/glossar/poncho/
-  - /rus/glossariy/poncho/
+  - /glossar/poncho/
+  - /glossariy/poncho/
 lastmod: "2026-07-09"
 history:
   - Пончо связано с традиционной одеждой народов Анд в Южной Америке, где прямоугольное тканое полотно с отверстием для головы защищало от холода и ветра.

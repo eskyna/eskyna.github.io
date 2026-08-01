@@ -35,8 +35,7 @@ seoTitle: "O-силуэт: значение и применение | Глосс
 slug: o-siluet
 url: /rus/glossariy/o-siluet/
 aliases:
-  - /rus/glossar/o-linie/
-  - /ru/glossar/o-linie/
+  - /glossar/o-linie/
 knowledge:
   - O-силуэт описывает форму вещи или образа, а не тип фигуры человека.
   - Округлость создают объём, мягкая линия плеч, расширение в средней части и нередко более собранный низ.

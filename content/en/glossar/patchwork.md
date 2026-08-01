@@ -14,8 +14,7 @@ keywords:
 slug: patchwork
 url: /en/glossary/patchwork/
 aliases:
-  - /en/glossar/patchwork/
-  - /glossary/patchwork/
+  - /glossar/patchwork/
 tags:
   - patchwork
   - textile technique

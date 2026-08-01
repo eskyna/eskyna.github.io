@@ -4,8 +4,7 @@ term: "Lurex"
 description: "Lurex is a metallic-effect yarn that gives fabrics a shimmering, glittering surface. Learn how Lurex works in fashion, how it feels, and how to style and care for it."
 url: "/en/glossary/lurex/"
 aliases:
-  - "/en/glossar/lurex/"
-  - "/glossary/lurex/"
+  - /glossar/lurex/
 category: "Materials & Details"
 tags:
   - "Lurex"

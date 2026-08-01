@@ -9,8 +9,7 @@ image: "images/glossar/slides.png"
 image_alt: "Pair of minimalist backless slide shoes"
 url: /en/glossary/slides/
 aliases:
-  - /en/glossar/slides/
-  - /glossary/slides/
+  - /glossar/slides/
 tags:
   - slides
   - slip-on shoes

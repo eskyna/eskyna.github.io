@@ -21,8 +21,7 @@ tags:
 slug: schraegen-schnitt-bias-cut
 url: /rus/glossariy/schraegen-schnitt-bias-cut/
 aliases:
-  - /rus/glossar/schraegen-schnitt-bias-cut/
-  - /ru/glossar/schraegen-schnitt-bias-cut/
+  - /glossar/schraegen-schnitt-bias-cut/
 relatedTerms:
   - title: "Направление нити"
     url: /ru/glossar/fadenlauf/

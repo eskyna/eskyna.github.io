@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/obuv/
 image: images/glossar/kategorie/schuhe.png
 seoTitle: "Обувь: виды, посадка и стилизация | Глоссарий ESKYNA"
 aliases:
-  - /rus/glossar/kategorie/obuv/
-  - /ru/glossar/kategorie/obuv/
+  - /glossar/kategorie/obuv/
+  - /glossar/obuv/
 tags:
   - обувь
   - виды обуви

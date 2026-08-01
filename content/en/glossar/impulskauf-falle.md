@@ -4,8 +4,7 @@ term: "Impulse Purchase Trap"
 slug: "impulskauf-falle"
 url: "/en/glossary/impulskauf-falle/"
 aliases:
-  - "/en/glossar/impulskauf-falle/"
-  - "/glossary/impulskauf-falle/"
+  - /glossar/impulskauf-falle/
 description: "The impulse purchase trap is the habit of buying clothing in the excitement of a sale or trend without checking whether it suits your wardrobe, lifestyle, or real outfit needs."
 category: "Wardrobe & Everyday Style"
 tags:

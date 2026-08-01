@@ -22,8 +22,7 @@ keywords:
 slug: leopard-print
 url: /en/glossary/leopard-print/
 aliases:
-  - /en/glossar/leo-print/
-  - /glossary/leopard-print/
+  - /glossar/leo-print/
 image_alt: Leopard print fabric with brown, black, and beige rosette pattern
 relatedTerms:
   - title: Animal Print

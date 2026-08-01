@@ -33,8 +33,7 @@ seoTitle: "Образ для фотосъёмки | ESKYNA Glossary"
 slug: obraz-dlya-fotosyomki
 url: /rus/glossariy/obraz-dlya-fotosyomki/
 aliases:
-  - /rus/glossar/fotoshooting-outfit/
-  - /ru/glossar/fotoshooting-outfit/
+  - /glossar/fotoshooting-outfit/
 image_alt: "Собранный образ для фотосъёмки с одеждой и аксессуарами, подобранными для работы в кадре"
 lastmod: "2026-07-09"
 knowledge:

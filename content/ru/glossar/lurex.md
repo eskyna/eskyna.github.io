@@ -4,8 +4,7 @@ term: "Люрекс"
 slug: lurex
 url: /rus/glossariy/lurex/
 aliases:
-  - /rus/glossar/lurex/
-  - /ru/glossar/lurex/
+  - /glossar/lurex/
 description: "Люрекс это металлизированная нить, которая придаёт ткани блеск и мерцающий эффект. Узнайте, как распознать люрекс, носить вещи с ним и правильно за ними ухаживать."
 category: "Материалы и детали"
 tags:

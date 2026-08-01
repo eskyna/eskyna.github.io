@@ -16,8 +16,7 @@ keywords:
 slug: godet
 url: /rus/glossariy/godet/
 aliases:
-  - /rus/glossar/godet/
-  - /ru/glossar/godet/
+  - /glossar/godet/
 tags:
   - "годе"
   - "крой"

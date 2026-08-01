@@ -33,9 +33,8 @@ seoTitle: "Жилет с карманами: значение и примене�
 slug: zhilet-s-karmanami
 url: /ru/glossar/pocket-vest/
 aliases:
-  - /rus/glossar/pocket-vest/
-  - /ru/glossar/pocket-vest/
-  - /rus/glossariy/pocket-vest/
+  - /glossar/pocket-vest/
+  - /glossariy/pocket-vest/
 image_alt: "Функциональный жилет с несколькими заметными накладными карманами"
 lastmod: "2026-07-09"
 knowledge:

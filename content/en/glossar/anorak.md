@@ -8,8 +8,7 @@ image_alt: Hooded anorak jacket with a practical front pocket and weather-protec
 slug: anorak
 url: /en/glossary/anorak/
 aliases:
-  - /en/glossar/anorak/
-  - /glossary/anorak/
+  - /glossar/anorak/
 tags:
   - anorak
   - outdoor jacket

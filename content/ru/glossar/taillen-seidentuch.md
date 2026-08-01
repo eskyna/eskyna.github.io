@@ -22,8 +22,7 @@ seoTitle: "Шелковый платок на талии | ESKYNA"
 slug: shelkovyy-platok-na-talii
 url: /rus/glossariy/shelkovyy-platok-na-talii/
 aliases:
-  - /rus/glossar/taillen-seidentuch/
-  - /ru/glossar/taillen-seidentuch/
+  - /glossar/taillen-seidentuch/
 relatedTerms:
   - title: Шёлковый платок
     url: /ru/glossar/seidentuch/

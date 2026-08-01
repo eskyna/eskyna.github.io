@@ -21,8 +21,7 @@ keywords:
 slug: long-blazer
 url: /en/glossary/long-blazer/
 aliases:
-  - /en/glossar/longblazer/
-  - /glossary/long-blazer/
+  - /glossar/longblazer/
 image_alt: Editorial illustration of a tailored long blazer extending below the hip
 relatedTerms:
   - title: Blazer

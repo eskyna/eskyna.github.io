@@ -4,8 +4,7 @@ term: Digital Color Metrics
 slug: digitale-farbmetrik
 url: /en/glossary/digitale-farbmetrik/
 aliases:
-  - /en/glossar/digitale-farbmetrik/
-  - /glossary/digitale-farbmetrik/
+  - /glossar/digitale-farbmetrik/
 description: "Digital Color Metrics uses recorded color values to compare clothing shades and create more coordinated outfit suggestions in a virtual wardrobe."
 category: Color Consultation & Color
 tags:

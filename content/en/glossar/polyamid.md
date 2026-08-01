@@ -22,8 +22,7 @@ keywords:
 slug: polyamid
 url: /en/glossary/polyamid/
 aliases:
-  - /en/glossar/polyamid/
-  - /glossary/polyamid/
+  - /glossar/polyamid/
 image_alt: Editorial glossary illustration for Polyamid
 relatedTerms:
   - title: Polyester

@@ -23,8 +23,7 @@ keywords:
 slug: old-money-style
 url: /en/glossary/old-money-style/
 aliases:
-  - /en/glossar/old-money-style/
-  - /glossary/old-money-style/
+  - /glossar/old-money-style/
 image_alt: Editorial illustration of a refined Old Money Style outfit with classic tailoring and neutral colors
 relatedTerms:
   - title: Quiet Luxury

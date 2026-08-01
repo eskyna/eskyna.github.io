@@ -5,8 +5,7 @@ description: "Симметрия осей тела это визуальное �
 slug: koerperachsen-symmetrie
 url: /rus/glossariy/koerperachsen-symmetrie/
 aliases:
-  - /rus/glossar/koerperachsen-symmetrie/
-  - /ru/glossar/koerperachsen-symmetrie/
+  - /glossar/koerperachsen-symmetrie/
 category: "Крой, пропорции и посадка"
 tags:
   - "симметрия осей тела"

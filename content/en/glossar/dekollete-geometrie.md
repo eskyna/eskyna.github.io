@@ -4,8 +4,7 @@ term: Neckline Geometry
 slug: dekollete-geometrie
 url: /en/glossary/dekollete-geometrie/
 aliases:
-  - /en/glossar/dekollete-geometrie/
-  - /glossary/dekollete-geometrie/
+  - /glossar/dekollete-geometrie/
 description: "Neckline geometry is the relationship between a neckline’s shape, width, depth, collarbone area, and bust line. It helps explain why one neckline can feel balanced and comfortable while another changes the proportions of the upper body."
 category: "Cut, Proportion & Fit"
 tags:

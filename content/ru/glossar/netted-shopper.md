@@ -32,9 +32,8 @@ seoTitle: "Сетчатая сумка-шоппер | ESKYNA"
 slug: setchataya-sumka-shopper
 url: /rus/glossariy/setchataya-sumka-shopper/
 aliases:
-  - /rus/glossar/netted-shopper/
-  - /ru/glossar/netted-shopper/
-  - /rus/glossariy/netted-shopper/
+  - /glossar/netted-shopper/
+  - /glossariy/netted-shopper/
 image_alt: "Сетчатая сумка-шоппер с открытой плетёной структурой"
 lastmod: "2026-07-09"
 knowledge:

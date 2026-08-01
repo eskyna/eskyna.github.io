@@ -4,8 +4,7 @@ term: Асимметричный баланс линий
 slug: asymmetrische-linienbalance
 url: /rus/glossariy/asymmetrische-linienbalance/
 aliases:
-  - /rus/glossar/asymmetrische-linienbalance/
-  - /ru/glossar/asymmetrische-linienbalance/
+  - /glossar/asymmetrische-linienbalance/
 description: "Асимметричный баланс линий это принцип кроя и стилизации, при котором неравные стороны, диагонали или детали создают цельное и визуально устойчивое впечатление."
 category: Крой, пропорции и посадка
 tags:

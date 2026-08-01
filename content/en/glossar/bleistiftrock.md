@@ -21,8 +21,7 @@ keywords:
 slug: pencil-skirt
 url: /en/glossary/pencil-skirt/
 aliases:
-  - /en/glossar/bleistiftrock/
-  - /glossary/pencil-skirt/
+  - /glossar/bleistiftrock/
 image_alt: Fitted pencil skirt styled with a blouse and blazer in a polished everyday outfit
 relatedTerms:
   - title: Sheath Dress

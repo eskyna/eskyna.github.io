@@ -4,8 +4,7 @@ term: Интеграция габитуса
 slug: habitus-integration
 url: /rus/glossariy/habitus-integration/
 aliases:
-  - /rus/glossar/habitus-integration/
-  - /ru/glossar/habitus-integration/
+  - /glossar/habitus-integration/
 description: "Интеграция габитуса в стиле помогает согласовать одежду с вашими привычными движениями, осанкой, жестами и манерой держаться, чтобы образ выглядел естественно и был удобен в реальной жизни."
 category: Стиль и впечатление
 tags:

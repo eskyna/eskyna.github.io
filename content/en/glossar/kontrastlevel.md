@@ -4,8 +4,7 @@ term: Contrast Level
 slug: kontrastlevel
 url: /en/glossary/kontrastlevel/
 aliases:
-  - /en/glossar/kontrastlevel/
-  - /glossary/kontrastlevel/
+  - /glossar/kontrastlevel/
 description: Contrast level describes the visible difference between your hair, skin, and eye coloring. It helps you choose clothing color combinations, patterns, and details with a level of visual contrast that feels balanced.
 category: Color Consultation & Color
 subcategory: Personal Color Analysis

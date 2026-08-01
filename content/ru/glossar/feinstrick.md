@@ -34,9 +34,8 @@ seoTitle: "Тонкий трикотаж: что это и как носить |
 slug: tonkiy-trikotazh
 url: /ru/glossar/feinstrick/
 aliases:
-  - /rus/glossar/feinstrick/
-  - /ru/glossar/feinstrick/
-  - /rus/glossariy/tonkiy-trikotazh/
+  - /glossar/feinstrick/
+  - /glossariy/tonkiy-trikotazh/
 lastmod: "2026-07-09"
 knowledge:
   - Тонкий трикотаж описывает не состав волокна, а прежде всего толщину пряжи, плотность и характер вязания.

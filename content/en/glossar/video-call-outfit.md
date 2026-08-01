@@ -21,8 +21,7 @@ keywords:
 slug: video-call-outfit
 url: /en/glossary/video-call-outfit/
 aliases:
-  - /en/glossar/video-call-outfit/
-  - /glossary/video-call-outfit/
+  - /glossar/video-call-outfit/
 image_alt: Person in a polished, camera-ready outfit during a video call at a desk
 relatedTerms:
   - title: Meeting Look

@@ -21,8 +21,7 @@ keywords:
 slug: impact-profile
 url: /en/glossary/impact-profile/
 aliases:
-  - /en/glossar/wirkungsprofil/
-  - /glossary/impact-profile/
+  - /glossar/wirkungsprofil/
 image_alt: Editorial illustration showing how color, silhouette, material, and styling shape an impact profile
 relatedTerms:
   - title: Impact

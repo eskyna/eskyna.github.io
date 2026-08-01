@@ -4,8 +4,7 @@ term: "Back Pocket Placement and Scale"
 slug: "taschen-skalierung"
 url: "/en/glossary/taschen-skalierung/"
 aliases:
-  - "/en/glossar/taschen-skalierung/"
-  - "/glossary/taschen-skalierung/"
+  - /glossar/taschen-skalierung/
 description: "Back pocket placement and scale describes how the size, height, spacing, angle, and structure of rear pockets shape the visual effect of jeans and trousers."
 category: "Cut, Proportion & Fit"
 tags:

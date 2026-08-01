@@ -4,8 +4,7 @@ term: "Hemp Fabric"
 slug: "hanfgewebe"
 url: "/en/glossary/hanfgewebe/"
 aliases:
-  - "/en/glossar/hanfgewebe/"
-  - "/glossary/hanfgewebe/"
+  - /glossar/hanfgewebe/
 description: "Hemp fabric is a durable plant-based textile made from hemp fibers. It is valued for its breathable feel, textured appearance, and practical performance in everyday clothing."
 category: "Materials & Details"
 tags:

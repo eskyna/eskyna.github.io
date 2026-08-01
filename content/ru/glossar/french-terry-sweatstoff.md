@@ -4,8 +4,7 @@ term: French Terry, или футер-петля
 slug: french-terry-sweatstoff
 url: /rus/glossariy/french-terry-sweatstoff/
 aliases:
-  - /rus/glossar/french-terry-sweatstoff/
-  - /ru/glossar/french-terry-sweatstoff/
+  - /glossar/french-terry-sweatstoff/
 description: "French Terry, или футер-петля, это трикотаж с гладкой лицевой стороной и мягкими петлями на изнанке. Материал используют для свитшотов, худи, спортивных костюмов и комфортной повседневной одежды."
 category: Материалы и детали
 tags:

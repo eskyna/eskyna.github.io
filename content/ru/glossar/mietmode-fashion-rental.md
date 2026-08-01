@@ -14,8 +14,7 @@ keywords:
 slug: mietmode-fashion-rental
 url: /rus/glossariy/mietmode-fashion-rental/
 aliases:
-  - /rus/glossar/mietmode-fashion-rental/
-  - /ru/glossar/mietmode-fashion-rental/
+  - /glossar/mietmode-fashion-rental/
 relatedTerms:
   - title: "Вечерний гардероб"
     url: /ru/glossar/abendgarderobe/

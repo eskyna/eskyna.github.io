@@ -14,8 +14,7 @@ keywords:
 slug: mohair
 url: /en/glossary/mohair/
 aliases:
-  - /en/glossar/mohair/
-  - /glossary/mohair/
+  - /glossar/mohair/
 tags:
   - "mohair"
   - "animal fiber"

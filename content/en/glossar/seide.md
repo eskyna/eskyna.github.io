@@ -22,8 +22,7 @@ keywords:
 slug: silk
 url: /en/glossary/silk/
 aliases:
-  - /en/glossar/seide/
-  - /glossary/silk/
+  - /glossar/seide/
 image_alt: Editorial glossary illustration showing the smooth, luminous surface of silk fabric
 relatedTerms:
   - title: Satin

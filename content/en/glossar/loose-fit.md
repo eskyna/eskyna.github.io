@@ -21,8 +21,7 @@ keywords:
 slug: loose-fit
 url: /en/glossary/loose-fit/
 aliases:
-  - /en/glossar/loose-fit/
-  - /glossary/loose-fit/
+  - /glossar/loose-fit/
 image_alt: Editorial illustration of a relaxed loose fit outfit with a softly draping shirt and wide trousers
 relatedTerms:
   - title: Relaxed Fit

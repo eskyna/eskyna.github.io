@@ -40,8 +40,7 @@ seoTitle: "Зелёный в одежде: значение, оттенки и �
 slug: zelyonyy
 url: /rus/glossariy/zelyonyy/
 aliases:
-  - /rus/glossar/gruen/
-  - /ru/glossar/gruen/
+  - /glossar/gruen/
 lastmod: "2026-07-09"
 knowledge:
   - Зелёный находится между жёлтым и синим на цветовом круге, поэтому его оттенки могут восприниматься как более тёплые или более холодные.

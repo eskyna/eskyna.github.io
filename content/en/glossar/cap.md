@@ -22,8 +22,7 @@ keywords:
 slug: cap
 url: /en/glossary/cap/
 aliases:
-  - /en/glossar/cap/
-  - /glossary/cap/
+  - /glossar/cap/
 image_alt: A classic cap with a curved visor, shown as a casual fashion accessory
 relatedTerms:
   - title: Hat

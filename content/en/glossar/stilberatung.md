@@ -22,8 +22,7 @@ keywords:
 slug: style-consultation
 url: /en/glossary/style-consultation/
 aliases:
-  - /en/glossar/stilberatung/
-  - /glossary/style-consultation/
+  - /glossar/stilberatung/
 image_alt: Editorial illustration representing a personal style consultation with clothing, color, and outfit planning
 relatedTerms:
   - title: Style Analysis

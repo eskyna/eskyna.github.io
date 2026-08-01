@@ -40,8 +40,7 @@ seoTitle: "Серебряный цвет: значение, сочетания �
 slug: serebryanyy
 url: /rus/glossariy/serebryanyy/
 aliases:
-  - /rus/glossar/silber/
-  - /ru/glossar/silber/
+  - /glossar/silber/
 lastmod: "2026-07-09"
 knowledge:
   - Серебряный воспринимается как холодный металлик, однако его впечатление меняется от матового олова до зеркального хрома.

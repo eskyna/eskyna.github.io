@@ -36,9 +36,8 @@ seoTitle: "Стоимость одного выхода | ESKYNA"
 slug: stoimost-odnogo-vyhoda
 url: /rus/glossariy/stoimost-odnogo-vyhoda/
 aliases:
-  - /rus/glossar/cost-per-wear/
-  - /ru/glossar/cost-per-wear/
-  - /rus/glossariy/stoimost-za-nosku/
+  - /glossar/cost-per-wear/
+  - /glossariy/stoimost-za-nosku/
 lastmod: "2026-07-09"
 history:
   - Термин cost per wear, или «стоимость одного выхода», используют в потребительском контексте как способ оценивать вещь не только по цене на ярлыке, но и по её реальному использованию.

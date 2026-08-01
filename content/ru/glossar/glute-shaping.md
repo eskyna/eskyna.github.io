@@ -5,8 +5,7 @@ description: "Моделирование линии ягодиц, или Glute-S
 slug: glute-shaping
 url: /rus/glossariy/glute-shaping/
 aliases:
-  - /rus/glossar/glute-shaping/
-  - /ru/glossar/glute-shaping/
+  - /glossar/glute-shaping/
 category: "Крой, пропорции и посадка"
 tags:
   - "моделирование линии ягодиц"

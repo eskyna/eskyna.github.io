@@ -21,8 +21,7 @@ keywords:
 slug: longsleeve
 url: /en/glossary/longsleeve/
 aliases:
-  - /en/glossar/longsleeve/
-  - /glossary/longsleeve/
+  - /glossar/longsleeve/
 image_alt: Editorial illustration of a simple long sleeved top with a crew neckline
 relatedTerms:
   - title: T-Shirt

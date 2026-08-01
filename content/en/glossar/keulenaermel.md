@@ -9,8 +9,7 @@ image_alt: Illustration of a leg-of-mutton sleeve with volume at the shoulder an
 slug: keulenaermel
 url: /en/glossary/keulenaermel/
 aliases:
-  - /en/glossar/keulenaermel/
-  - /glossary/keulenaermel/
+  - /glossar/keulenaermel/
 tags:
   - leg-of-mutton sleeve
   - sleeve shape

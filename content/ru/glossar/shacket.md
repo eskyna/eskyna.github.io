@@ -35,9 +35,8 @@ seoTitle: "Шакет: что это, как выбрать и носить | Г
 slug: shaket
 url: /rus/glossariy/shaket/
 aliases:
-  - /rus/glossar/shacket/
-  - /ru/glossar/shacket/
-  - /rus/glossariy/shacket/
+  - /glossar/shacket/
+  - /glossariy/shacket/
 lastmod: "2026-07-09"
 knowledge:
   - "Название «шакет» происходит от английских слов shirt и jacket."

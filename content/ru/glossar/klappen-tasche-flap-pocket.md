@@ -19,8 +19,7 @@ weight: 999
 slug: klappen-tasche-flap-pocket
 url: /rus/glossariy/klappen-tasche-flap-pocket/
 aliases:
-  - /rus/glossar/klappen-tasche-flap-pocket/
-  - /ru/glossar/klappen-tasche-flap-pocket/
+  - /glossar/klappen-tasche-flap-pocket/
 image: images/glossar/klappen-tasche-flap-pocket.png
 image_alt: Карман с тканевым клапаном на передней части пиджака
 relatedTerms:

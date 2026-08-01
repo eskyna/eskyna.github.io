@@ -22,8 +22,7 @@ keywords:
 slug: wardrobe-detox
 url: /en/glossary/wardrobe-detox/
 aliases:
-  - /en/glossar/kleiderschrank-detox/
-  - /glossary/wardrobe-detox/
+  - /glossar/kleiderschrank-detox/
 image_alt: Editorial illustration of a carefully organised wardrobe during a wardrobe detox
 relatedTerms:
   - title: Wardrobe Check

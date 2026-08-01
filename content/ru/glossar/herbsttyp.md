@@ -32,8 +32,7 @@ seoTitle: "Осенний цветотип | ESKYNA Glossary"
 slug: osenniy-tsvetotip
 url: /rus/glossariy/osenniy-tsvetotip/
 aliases:
-  - /rus/glossar/herbsttyp/
-  - /ru/glossar/herbsttyp/
+  - /glossar/herbsttyp/
 image_alt: "Иллюстрация палитры для осеннего цветотипа в тёплых природных оттенках"
 lastmod: "2026-07-09"
 knowledge:

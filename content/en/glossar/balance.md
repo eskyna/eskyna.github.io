@@ -21,8 +21,7 @@ keywords:
 slug: balance
 url: /en/glossary/balance/
 aliases:
-  - /en/glossar/balance/
-  - /glossary/balance/
+  - /glossar/balance/
 image_alt: Editorial illustration showing balanced proportions, colors, and textures in an outfit
 relatedTerms:
   - title: Proportion

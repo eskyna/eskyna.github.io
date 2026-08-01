@@ -35,8 +35,7 @@ seoTitle: "Платье: значение, виды и как выбрать | �
 slug: plate
 url: /rus/glossariy/plate/
 aliases:
-  - /rus/glossar/kleid/
-  - /ru/glossar/kleid/
+  - /glossar/kleid/
 lastmod: "2026-07-09"
 history:
   - Платье в разных культурах и эпохах меняло форму, длину, способ кроя и социальное значение.

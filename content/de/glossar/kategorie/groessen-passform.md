@@ -11,6 +11,8 @@ glossar_filter_terms:
   - oversized-blazer
   - sanduhr-silhouette
 url: "/glossar/kategorie/groessen-passform/"
+aliases:
+  - /glossar/groessen-passform/
 seoTitle: "Größen & Passform: Kleidung richtig beurteilen | ESKYNA"
 image: images/glossar/kategorie/schnitt-proportion-passform.png
 relatedTerms:

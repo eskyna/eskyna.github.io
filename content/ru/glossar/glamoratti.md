@@ -33,9 +33,8 @@ seoTitle: "Гламорати: значение, стиль и применен�
 slug: glamorati
 url: /rus/glossariy/glamorati/
 aliases:
-  - /rus/glossar/glamoratti/
-  - /ru/glossar/glamoratti/
-  - /rus/glossariy/glamoratti/
+  - /glossar/glamoratti/
+  - /glossariy/glamoratti/
 image_alt: "Иллюстрация стиля гламорати с золотыми акцентами и выразительным силуэтом"
 lastmod: "2026-07-09"
 history:

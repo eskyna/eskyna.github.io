@@ -35,9 +35,8 @@ seoTitle: "Шорты: что это, виды, длина и как носит�
 slug: shorty
 url: /rus/glossariy/shorty/
 aliases:
-  - /rus/glossar/shorts/
-  - /ru/glossar/shorts/
-  - /rus/glossariy/shorts/
+  - /glossar/shorts/
+  - /glossariy/shorts/
 lastmod: "2026-07-09"
 history:
   - Короткие брюки существовали в разных культурах и долгое время были связаны прежде всего с детской, спортивной, военной и рабочей одеждой.

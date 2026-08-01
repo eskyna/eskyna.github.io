@@ -22,8 +22,7 @@ keywords:
 slug: white-tie
 url: /en/glossary/white-tie/
 aliases:
-  - /en/glossar/white-tie/
-  - /glossary/white-tie/
+  - /glossar/white-tie/
 image_alt: Formal White Tie eveningwear with a black tailcoat, white waistcoat and white bow tie
 relatedTerms:
   - title: Black Tie

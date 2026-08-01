@@ -5,8 +5,7 @@ description: "A bandeau bikini is a strapless bikini top that creates a clean, o
 slug: "bandeau-bikini"
 url: "/en/glossary/bandeau-bikini/"
 aliases:
-  - "/en/glossar/bandeau-bikini/"
-  - "/glossary/bandeau-bikini/"
+  - /glossar/bandeau-bikini/
 category: "Lingerie, Bras & Styling Aids"
 tags:
   - "bandeau bikini"

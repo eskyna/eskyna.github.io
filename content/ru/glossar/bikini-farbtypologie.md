@@ -4,8 +4,7 @@ term: "Цветотипирование бикини"
 slug: bikini-farbtypologie
 url: /rus/glossariy/bikini-farbtypologie/
 aliases:
-  - /rus/glossar/bikini-farbtypologie/
-  - /ru/glossar/bikini-farbtypologie/
+  - /glossar/bikini-farbtypologie/
 description: "Цветотипирование бикини помогает выбрать оттенок купальника с учетом подтона кожи до загара и после него. Такой подход позволяет найти цвет, который делает внешность свежее и гармоничнее у воды."
 category: "Консультация по цвету и цвет"
 tags:

@@ -23,8 +23,7 @@ keywords:
 slug: greige
 url: /rus/glossariy/greige/
 aliases:
-  - /rus/glossar/greige/
-  - /ru/glossar/greige/
+  - /glossar/greige/
 relatedTerms:
   - title: "Тауп"
     url: /ru/glossar/taupe/

@@ -15,8 +15,7 @@ keywords:
 slug: webkante
 url: /en/glossary/webkante/
 aliases:
-  - /en/glossar/webkante/
-  - /glossary/webkante/
+  - /glossar/webkante/
 tags:
   - "selvedge"
   - "woven fabric"

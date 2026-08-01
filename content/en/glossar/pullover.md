@@ -20,8 +20,7 @@ keywords:
 slug: sweater
 url: /en/glossary/sweater/
 aliases:
-  - /en/glossar/pullover/
-  - /glossary/sweater/
+  - /glossar/pullover/
 image_alt: Editorial illustration of a knitted sweater with long sleeves and a crew neckline
 relatedTerms:
   - title: Knitwear

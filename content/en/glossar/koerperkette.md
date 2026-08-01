@@ -9,8 +9,7 @@ image: "images/glossar/koerperkette.png"
 image_alt: "Delicate gold body chain layered over a simple black dress"
 url: /en/glossary/koerperkette/
 aliases:
-  - /en/glossar/koerperkette/
-  - /glossary/koerperkette/
+  - /glossar/koerperkette/
 tags:
   - body chain
   - body jewelry

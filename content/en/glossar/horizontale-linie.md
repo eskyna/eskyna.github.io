@@ -23,8 +23,7 @@ keywords:
 slug: horizontal-line
 url: /en/glossary/horizontal-line/
 aliases:
-  - /en/glossar/horizontale-linie/
-  - /glossary/horizontal-line/
+  - /glossar/horizontale-linie/
 image_alt: Editorial illustration showing horizontal lines created by stripes, waistbands, and hems in an outfit
 relatedTerms:
   - title: Proportion

@@ -9,8 +9,7 @@ image: "images/glossar/mermaidcore.png"
 image_alt: "Иллюстрация образа в эстетике Mermaidcore с морскими оттенками, блестящими фактурами и плавными линиями"
 url: /rus/glossariy/mermaidcore/
 aliases:
-  - /rus/glossar/mermaidcore/
-  - /ru/glossar/mermaidcore/
+  - /glossar/mermaidcore/
 tags:
   - mermaidcore
   - эстетика русалки

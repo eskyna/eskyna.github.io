@@ -20,9 +20,8 @@ keywords:
 slug: presence
 url: /en/glossary/presence/
 aliases:
-  - /en/glossar/praesenz/
+  - /glossar/praesenz/
   - /glossary/presence-2/
-  - /glossary/presence/
 image_alt: Editorial illustration representing personal presence through a clear, polished outfit
 relatedTerms:
   - title: Executive Presence

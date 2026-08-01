@@ -21,8 +21,7 @@ keywords:
 slug: t-strap-sandal
 url: /en/glossary/t-strap-sandal/
 aliases:
-  - /en/glossar/t-strap-sandale/
-  - /glossary/t-strap-sandal/
+  - /glossar/t-strap-sandale/
 image_alt: T-strap sandal with a vertical front strap joined to an ankle strap
 relatedTerms:
   - title: Mary Jane

@@ -36,8 +36,7 @@ seoTitle: "Светлота цвета: что это и как использо
 slug: svetlota
 url: /rus/glossariy/svetlota/
 aliases:
-  - /rus/glossar/helligkeit/
-  - /ru/glossar/helligkeit/
+  - /glossar/helligkeit/
 lastmod: "2026-07-09"
 knowledge:
   - "Светлота не равна насыщенности: пастельно-голубой и яркий лимонный могут быть близки по светлоте, но различаться по интенсивности."

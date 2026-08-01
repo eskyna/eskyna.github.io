@@ -21,8 +21,7 @@ keywords:
 slug: velvet
 url: /en/glossary/velvet/
 aliases:
-  - /en/glossar/samt/
-  - /glossary/velvet/
+  - /glossar/samt/
 image_alt: Deep green velvet fabric with a soft directional pile and subtle sheen
 relatedTerms:
   - title: Texture

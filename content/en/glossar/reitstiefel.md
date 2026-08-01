@@ -9,8 +9,7 @@ image: "images/glossar/reitstiefel.png"
 image_alt: "Tall brown leather riding boots with a low heel and structured shaft"
 url: /en/glossary/reitstiefel/
 aliases:
-  - /en/glossar/reitstiefel/
-  - /glossary/reitstiefel/
+  - /glossar/reitstiefel/
 lastmod: "2026-07-22"
 tags:
   - riding boots

@@ -8,8 +8,7 @@ image_alt: "Иллюстрация рубашки с воротником аку
 slug: haifischkragen
 url: /rus/glossariy/haifischkragen/
 aliases:
-  - /rus/glossar/haifischkragen/
-  - /ru/glossar/haifischkragen/
+  - /glossar/haifischkragen/
 tags:
   - воротник акула
   - рубашечный воротник

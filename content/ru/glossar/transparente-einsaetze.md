@@ -9,8 +9,7 @@ image: "images/glossar/transparente-einsaetze.png"
 image_alt: "Иллюстрация одежды с прозрачными вставками из сетки и лёгкой ткани"
 url: /rus/glossariy/transparente-einsaetze/
 aliases:
-  - /rus/glossar/transparente-einsaetze/
-  - /ru/glossar/transparente-einsaetze/
+  - /glossar/transparente-einsaetze/
 tags:
   - прозрачные-вставки
   - прозрачность

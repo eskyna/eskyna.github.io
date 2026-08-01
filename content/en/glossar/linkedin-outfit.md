@@ -22,8 +22,7 @@ keywords:
 slug: linkedin-outfit
 url: /en/glossary/linkedin-outfit/
 aliases:
-  - /en/glossar/linkedin-outfit/
-  - /glossary/linkedin-outfit/
+  - /glossar/linkedin-outfit/
 image_alt: Professional person wearing a polished outfit for a LinkedIn profile photo
 relatedTerms:
   - title: Personal Branding

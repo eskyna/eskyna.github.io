@@ -21,8 +21,7 @@ keywords:
 slug: style
 url: /en/glossary/style/
 aliases:
-  - /en/glossar/stil/
-  - /glossary/style/
+  - /glossar/stil/
 image_alt: Editorial glossary illustration representing personal style through coordinated clothing, color, and accessories
 relatedTerms:
   - title: Personal Style

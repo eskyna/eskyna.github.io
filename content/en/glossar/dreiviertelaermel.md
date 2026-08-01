@@ -9,8 +9,7 @@ image_alt: Illustration of a top with sleeves ending on the forearm between the 
 slug: dreiviertelaermel
 url: /en/glossary/dreiviertelaermel/
 aliases:
-  - /en/glossar/dreiviertelaermel/
-  - /glossary/dreiviertelaermel/
+  - /glossar/dreiviertelaermel/
 tags:
   - three-quarter sleeve
   - sleeve length

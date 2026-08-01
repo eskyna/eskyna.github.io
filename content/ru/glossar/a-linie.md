@@ -35,8 +35,7 @@ seoTitle: "A-силуэт: что это в одежде и как носить 
 slug: a-siluet
 url: /rus/glossariy/a-siluet/
 aliases:
-  - /rus/glossar/a-linie/
-  - /ru/glossar/a-linie/
+  - /glossar/a-linie/
 lastmod: "2026-07-09"
 history:
   - "Термин A-line связан с коллекцией Christian Dior весна 1955 года, в которой силуэт строился на узкой верхней части и расширении к подолу."

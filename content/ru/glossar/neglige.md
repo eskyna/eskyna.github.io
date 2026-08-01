@@ -9,8 +9,7 @@ image: "images/glossar/neglige.png"
 image_alt: "Иллюстрация лёгкого неглиже с мягкой драпировкой"
 url: /rus/glossariy/neglige/
 aliases:
-  - /rus/glossar/neglige/
-  - /ru/glossar/neglige/
+  - /glossar/neglige/
 tags:
   - неглиже
   - ночное белье

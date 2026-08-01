@@ -22,8 +22,7 @@ keywords:
 slug: tulle
 url: /en/glossary/tulle/
 aliases:
-  - /en/glossar/tuell/
-  - /glossary/tulle/
+  - /glossar/tuell/
 image_alt: Fine tulle fabric with a lightweight transparent net structure
 relatedTerms:
   - title: Mesh

@@ -23,8 +23,7 @@ keywords:
 slug: moosgruen
 url: /en/glossary/moosgruen/
 aliases:
-  - /en/glossar/moosgruen/
-  - /glossary/moosgruen/
+  - /glossar/moosgruen/
 relatedTerms:
   - title: "Olive"
     url: /en/glossar/oliv/

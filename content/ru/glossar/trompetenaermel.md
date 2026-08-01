@@ -9,8 +9,7 @@ image_alt: "Иллюстрация прямого рукава-трубы с р�
 slug: trompetenaermel
 url: /rus/glossariy/trompetenaermel/
 aliases:
-  - /rus/glossar/trompetenaermel/
-  - /ru/glossar/trompetenaermel/
+  - /glossar/trompetenaermel/
 tags:
   - рукав-труба
   - крой рукава

@@ -18,8 +18,7 @@ keywords:
 slug: fil-a-fil
 url: /rus/glossariy/fil-a-fil/
 aliases:
-  - /rus/glossar/fil-a-fil/
-  - /ru/glossar/fil-a-fil/
+  - /glossar/fil-a-fil/
 weight: 999
 image: images/glossar/fil-a-fil.png
 image_alt: "Светло-голубая рубашечная ткань филь-а-филь с меланжевым эффектом"

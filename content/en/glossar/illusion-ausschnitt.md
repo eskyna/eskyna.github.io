@@ -9,8 +9,7 @@ image: "images/glossar/illusion-ausschnitt.png"
 image_alt: "Glossary illustration of a dress with a sheer illusion neckline panel"
 url: /en/glossary/illusion-ausschnitt/
 aliases:
-  - /en/glossar/illusion-ausschnitt/
-  - /glossary/illusion-ausschnitt/
+  - /glossar/illusion-ausschnitt/
 tags:
   - illusion neckline
   - sheer neckline

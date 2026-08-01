@@ -4,8 +4,7 @@ term: Визуальное перераспределение веса
 slug: visuelle-gewichtsverlagerung
 url: /rus/glossariy/visuelle-gewichtsverlagerung/
 aliases:
-  - /rus/glossar/visuelle-gewichtsverlagerung/
-  - /ru/glossar/visuelle-gewichtsverlagerung/
+  - /glossar/visuelle-gewichtsverlagerung/
 description: "Визуальное перераспределение веса это стилистический приём, который направляет внимание к желаемым зонам образа и делает другие участки менее заметными с помощью цвета, кроя, линий и деталей."
 category: Крой, пропорции и посадка
 tags:

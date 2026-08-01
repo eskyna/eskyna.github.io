@@ -23,8 +23,7 @@ keywords:
 slug: metallic
 url: /en/glossary/metallic/
 aliases:
-  - /en/glossar/metallic/
-  - /glossary/metallic/
+  - /glossar/metallic/
 image_alt: Editorial glossary illustration showing soft silver and gold metallic surfaces
 relatedTerms:
   - title: Gold

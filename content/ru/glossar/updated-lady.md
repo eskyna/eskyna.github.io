@@ -21,8 +21,7 @@ keywords:
 slug: updated-lady
 url: /rus/glossariy/updated-lady/
 aliases:
-  - /rus/glossar/updated-lady/
-  - /ru/glossar/updated-lady/
+  - /glossar/updated-lady/
 relatedTerms:
   - title: Женственный стиль
     url: /ru/glossar/femininer-stil/

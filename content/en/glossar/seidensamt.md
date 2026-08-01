@@ -4,8 +4,7 @@ term: "Silk Velvet"
 slug: "seidensamt"
 url: "/en/glossary/seidensamt/"
 aliases:
-  - "/en/glossar/seidensamt/"
-  - "/glossary/seidensamt/"
+  - /glossar/seidensamt/
 description: "Silk velvet is a luxurious pile fabric made with silk, valued for its exceptionally soft handfeel, deep color, and luminous changing surface."
 category: "Materials & Details"
 tags:

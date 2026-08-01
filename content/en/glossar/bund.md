@@ -21,8 +21,7 @@ keywords:
 slug: waistband
 url: /en/glossary/waistband/
 aliases:
-  - /en/glossar/bund/
-  - /glossary/waistband/
+  - /glossar/bund/
 image_alt: Illustration showing a waistband at the top edge of tailored trousers
 relatedTerms:
   - title: Waist Height

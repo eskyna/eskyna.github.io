@@ -9,8 +9,7 @@ image: "images/glossar/t-shirt-bh.png"
 image_alt: "Smooth neutral T-shirt bra shown as an everyday lingerie foundation"
 url: /en/glossary/t-shirt-bh/
 aliases:
-  - /en/glossar/t-shirt-bh/
-  - /glossary/t-shirt-bh/
+  - /glossar/t-shirt-bh/
 tags:
   - T-shirt bra
   - everyday bra

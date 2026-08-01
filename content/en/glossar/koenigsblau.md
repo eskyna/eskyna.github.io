@@ -23,8 +23,7 @@ keywords:
 slug: koenigsblau
 url: /en/glossary/koenigsblau/
 aliases:
-  - /en/glossar/koenigsblau/
-  - /glossary/koenigsblau/
+  - /glossar/koenigsblau/
 relatedTerms:
   - title: "Blue"
     url: /en/glossar/blau/

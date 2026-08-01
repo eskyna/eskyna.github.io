@@ -15,8 +15,7 @@ keywords:
 slug: massanfertigung-custom-made
 url: /rus/glossariy/massanfertigung-custom-made/
 aliases:
-  - /rus/glossar/massanfertigung-custom-made/
-  - /ru/glossar/massanfertigung-custom-made/
+  - /glossar/massanfertigung-custom-made/
 relatedTerms:
   - title: "Посадка"
     url: /ru/glossar/passform/

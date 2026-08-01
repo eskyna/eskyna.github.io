@@ -21,8 +21,7 @@ keywords:
 slug: costume-jewelry
 url: /en/glossary/costume-jewelry/
 aliases:
-  - /en/glossar/modeschmuck/
-  - /glossary/costume-jewelry/
+  - /glossar/modeschmuck/
 image_alt: Editorial illustration of colorful costume jewelry including earrings, a necklace, and a brooch
 relatedTerms:
   - title: Fine Jewelry

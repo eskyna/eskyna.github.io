@@ -32,8 +32,7 @@ seoTitle: "Ошибка покупки | ESKYNA Glossary"
 slug: oshibka-pokupki
 url: /rus/glossariy/oshibka-pokupki/
 aliases:
-  - /rus/glossar/fehlkauf/
-  - /ru/glossar/fehlkauf/
+  - /glossar/fehlkauf/
 lastmod: "2026-07-09"
 knowledge:
   - Ошибка покупки не всегда означает, что вещь плохого качества или вам не идет. Часто проблема в том, что для нее нет подходящих сочетаний, поводов или условий носки.

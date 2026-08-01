@@ -5,8 +5,7 @@ description: "A belly chain is a delicate piece of body jewelry worn around the 
 slug: "bauchkette-belly-chain"
 url: "/en/glossary/bauchkette-belly-chain/"
 aliases:
-  - "/en/glossar/bauchkette-belly-chain/"
-  - "/glossary/bauchkette-belly-chain/"
+  - /glossar/bauchkette-belly-chain/
 category: "Materials & Details"
 tags:
   - "belly chain"

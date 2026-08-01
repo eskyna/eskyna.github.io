@@ -20,8 +20,7 @@ keywords:
 slug: suit-trousers
 url: /en/glossary/suit-trousers/
 aliases:
-  - /en/glossar/anzughose/
-  - /glossary/suit-trousers/
+  - /glossar/anzughose/
 image_alt: Tailored suit trousers with a pressed crease and straight leg
 relatedTerms:
   - title: Suit

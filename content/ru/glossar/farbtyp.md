@@ -36,9 +36,8 @@ seoTitle: "Цветотип | Style & Image ESKYNA"
 slug: tsvetotip
 url: /ru/glossar/farbtyp/
 aliases:
-  - /rus/glossar/farbtyp/
-  - /ru/glossar/farbtyp/
-  - /rus/glossariy/tsvetotip/
+  - /glossar/farbtyp/
+  - /glossariy/tsvetotip/
 lastmod: "2026-07-09"
 history:
   - Цветовые системы для подбора одежды и макияжа получили широкое распространение в XX веке, особенно через сезонные классификации «весна», «лето», «осень» и «зима».

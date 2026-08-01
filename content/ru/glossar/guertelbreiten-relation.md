@@ -4,8 +4,7 @@ term: "Соотношение ширины ремня и пояса"
 slug: guertelbreiten-relation
 url: /rus/glossariy/guertelbreiten-relation/
 aliases:
-  - /rus/glossar/guertelbreiten-relation/
-  - /ru/glossar/guertelbreiten-relation/
+  - /glossar/guertelbreiten-relation/
 description: "Соотношение ширины ремня и пояса помогает подобрать ремень к брюкам, юбке или платью с учетом высоты посадки и вертикальных пропорций тела. Оно влияет на то, где читается линия талии и насколько цельным выглядит силуэт."
 category: "Крой, пропорции и посадка"
 tags:

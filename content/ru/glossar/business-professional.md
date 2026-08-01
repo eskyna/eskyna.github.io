@@ -36,8 +36,7 @@ seoTitle: "Строгий деловой дресс-код | ESKYNA"
 slug: strogiy-delovoy-dress-kod
 url: /rus/glossariy/strogiy-delovoy-dress-kod/
 aliases:
-  - /rus/glossar/business-professional/
-  - /ru/glossar/business-professional/
+  - /glossar/business-professional/
 image_alt: "Строгий деловой образ с классическим костюмом в сдержанной палитре"
 lastmod: "2026-07-09"
 faq:

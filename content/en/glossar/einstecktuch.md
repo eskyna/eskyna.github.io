@@ -15,8 +15,7 @@ keywords:
 slug: einstecktuch
 url: /en/glossary/einstecktuch/
 aliases:
-  - /en/glossar/einstecktuch/
-  - /glossary/einstecktuch/
+  - /glossar/einstecktuch/
 relatedTerms:
   - title: "Pocket square"
     url: /en/glossar/einstecktuch/

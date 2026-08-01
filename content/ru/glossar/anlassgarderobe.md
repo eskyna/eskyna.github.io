@@ -34,9 +34,8 @@ seoTitle: "Гардероб для поводов | ESKYNA Glossary"
 slug: garderob-dlya-povodov
 url: /rus/glossariy/garderob-dlya-povodov/
 aliases:
-  - /rus/glossar/anlassgarderobe/
-  - /ru/glossar/anlassgarderobe/
-  - /rus/glossariy/garderob-dlya-sluchaev/
+  - /glossar/anlassgarderobe/
+  - /glossariy/garderob-dlya-sluchaev/
 lastmod: "2026-07-09"
 knowledge:
   - "Гардероб для поводов не обязан быть большим: несколько хорошо сочетаемых вещей обычно полезнее множества нарядов на один выход."

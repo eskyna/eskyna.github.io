@@ -4,8 +4,7 @@ term: Хакинг пропорций
 slug: proportionen-hacking
 url: /rus/glossariy/proportionen-hacking/
 aliases:
-  - /rus/glossar/proportionen-hacking/
-  - /ru/glossar/proportionen-hacking/
+  - /glossar/proportionen-hacking/
 description: "Хакинг пропорций это стилистические приёмы, которые помогают визуально менять соотношение длины ног, корпуса, талии, плеч и объёмов в образе."
 category: Крой, пропорции и посадка
 tags:

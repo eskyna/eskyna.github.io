@@ -32,8 +32,7 @@ seoTitle: "Формула образа: значение и применение
 slug: formula-obraza
 url: /rus/glossariy/formula-obraza/
 aliases:
-  - /rus/glossar/outfit-formel/
-  - /ru/glossar/outfit-formel/
+  - /glossar/outfit-formel/
 lastmod: "2026-07-09"
 knowledge:
   - "Формула образа не является строгим правилом или готовым набором одинаковых вещей. Она задаёт повторяемую логику сочетаний."

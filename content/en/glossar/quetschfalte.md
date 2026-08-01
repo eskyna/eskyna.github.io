@@ -8,8 +8,7 @@ image_alt: Illustration of an inverted pleat with two folds meeting at the cente
 slug: quetschfalte
 url: /en/glossary/quetschfalte/
 aliases:
-  - /en/glossar/quetschfalte/
-  - /glossary/quetschfalte/
+  - /glossar/quetschfalte/
 tags:
   - inverted pleat
   - pleats

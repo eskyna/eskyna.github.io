@@ -15,8 +15,7 @@ keywords:
 slug: hosenanzug
 url: /en/glossary/hosenanzug/
 aliases:
-  - /en/glossar/hosenanzug/
-  - /glossary/hosenanzug/
+  - /glossar/hosenanzug/
 tags:
   - pants suit
   - trouser suit

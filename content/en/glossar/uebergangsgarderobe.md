@@ -20,8 +20,7 @@ keywords:
 slug: transitional-wardrobe
 url: /en/glossary/transitional-wardrobe/
 aliases:
-  - /en/glossar/uebergangsgarderobe/
-  - /glossary/transitional-wardrobe/
+  - /glossar/uebergangsgarderobe/
 image_alt: Neutral transitional wardrobe with layered clothing for changeable spring or autumn weather
 relatedTerms:
   - title: Transitional Jacket

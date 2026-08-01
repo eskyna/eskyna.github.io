@@ -21,8 +21,7 @@ keywords:
 slug: masculine-style
 url: /en/glossary/masculine-style/
 aliases:
-  - /en/glossar/maskuliner-stil/
-  - /glossary/masculine-style/
+  - /glossar/maskuliner-stil/
 image_alt: Editorial illustration of masculine style with tailored layers, clean lines, and structured accessories
 relatedTerms:
   - title: Androgynous Style

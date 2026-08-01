@@ -21,8 +21,7 @@ keywords:
 slug: jelly-bag
 url: /en/glossary/jelly-bag/
 aliases:
-  - /en/glossar/jelly-bag/
-  - /glossary/jelly-bag/
+  - /glossar/jelly-bag/
 relatedTerms:
   - title: Jelly Sandals
     url: /en/glossar/jelly-sandals/

@@ -4,8 +4,7 @@ term: Collar Selection for Face and Neck Proportions
 slug: physiognomische-kragenwahl
 url: /en/glossary/physiognomische-kragenwahl/
 aliases:
-  - /en/glossar/physiognomische-kragenwahl/
-  - /glossary/physiognomische-kragenwahl/
+  - /glossar/physiognomische-kragenwahl/
 description: "Collar selection for face and neck proportions is the intentional choice of collar shape, height, width, and openness to create a balanced frame around the face."
 category: Cut, Proportion & Fit
 tags:

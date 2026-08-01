@@ -21,8 +21,7 @@ keywords:
 slug: overknees
 url: /en/glossary/overknees/
 aliases:
-  - /en/glossar/overknees/
-  - /glossary/overknees/
+  - /glossar/overknees/
 image_alt: Black over-the-knee boots with a high shaft extending above the knee
 relatedTerms:
   - title: Knee-High Boots

@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/platya-i-yubki/
 image: images/glossar/kategorie/kleider-roecke.png
 seoTitle: Платья и юбки | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/platya-i-yubki/
-  - /ru/glossar/kategorie/platya-i-yubki/
+  - /glossar/kategorie/platya-i-yubki/
+  - /glossar/platya-i-yubki/
 tags:
   - платья
   - юбки

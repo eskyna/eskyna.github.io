@@ -35,9 +35,8 @@ seoTitle: "Принт: что это такое в одежде и как его
 slug: print
 url: /ru/glossar/print/
 aliases:
-  - /rus/glossariy/print/
-  - /rus/glossar/print/
-  - /ru/glossar/print/
+  - /glossariy/print/
+  - /glossar/print/
 lastmod: "2026-07-09"
 knowledge:
   - "В повседневной речи принтом часто называют любой рисунок на одежде, но технически принт обычно наносят на готовую ткань или изделие."

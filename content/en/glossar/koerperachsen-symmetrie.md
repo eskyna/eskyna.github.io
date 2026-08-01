@@ -18,7 +18,7 @@ weight: 999
 image: images/glossar/koerperachsen-symmetrie.png
 image_alt: "Tailored outfit with centered seams and balanced color accents"
 aliases:
-  - /en/glossar/koerperachsen-symmetrie/
+  - /glossar/koerperachsen-symmetrie/
   - /glossary/koerperachsen-symmetrie/
 relatedTerms:
   - title: "Balance"

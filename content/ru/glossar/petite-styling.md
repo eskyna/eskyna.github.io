@@ -38,9 +38,8 @@ seoTitle: "Стайлинг для невысокого роста | ESKYNA"
 slug: stayling-dlya-nevysokogo-rosta
 url: /rus/glossariy/stayling-dlya-nevysokogo-rosta/
 aliases:
-  - /rus/glossar/petite-styling/
-  - /ru/glossar/petite-styling/
-  - /rus/glossariy/petite-styling/
+  - /glossar/petite-styling/
+  - /glossariy/petite-styling/
 image_alt: "Стайлинг для невысокого роста: работа с посадкой, длиной и вертикальными линиями в образе"
 lastmod: "2026-07-09"
 knowledge:

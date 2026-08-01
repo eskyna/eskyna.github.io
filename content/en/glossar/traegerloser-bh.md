@@ -9,8 +9,7 @@ image: "images/glossar/traegerloser-bh.png"
 image_alt: "Glossary illustration showing a strapless bra and a soft bandeau bra"
 url: /en/glossary/traegerloser-bh/
 aliases:
-  - /en/glossar/traegerloser-bh/
-  - /glossary/traegerloser-bh/
+  - /glossar/traegerloser-bh/
 tags:
   - strapless bra
   - bandeau bra

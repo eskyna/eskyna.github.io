@@ -21,8 +21,7 @@ keywords:
 slug: yellow
 url: /en/glossary/yellow/
 aliases:
-  - /en/glossar/gelb/
-  - /glossary/yellow/
+  - /glossar/gelb/
 image_alt: Editorial glossary illustration showing a warm yellow color field
 relatedTerms:
   - title: Color Temperature

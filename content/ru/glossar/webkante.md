@@ -16,8 +16,7 @@ keywords:
 slug: webkante
 url: /rus/glossariy/webkante/
 aliases:
-  - /rus/glossar/webkante/
-  - /ru/glossar/webkante/
+  - /glossar/webkante/
 lastmod: "2026-07-18"
 relatedTerms:
   - title: "Деним"

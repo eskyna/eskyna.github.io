@@ -21,8 +21,7 @@ keywords:
 slug: mulesing-free-wool
 url: /en/glossary/mulesing-free-wool/
 aliases:
-  - /en/glossar/mulesing-freie-wolle/
-  - /glossary/mulesing-free-wool/
+  - /glossar/mulesing-freie-wolle/
 image_alt: Soft wool knitwear illustrating mulesing-free wool as a material choice
 relatedTerms:
   - title: Wool

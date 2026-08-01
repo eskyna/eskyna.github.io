@@ -21,8 +21,7 @@ keywords:
 slug: crew-neck
 url: /en/glossary/crew-neck/
 aliases:
-  - /en/glossar/rundhalsausschnitt/
-  - /glossary/crew-neck/
+  - /glossar/rundhalsausschnitt/
 image_alt: Editorial illustration of a top with a close-fitting round crew neck neckline
 relatedTerms:
   - title: Neckline Effect

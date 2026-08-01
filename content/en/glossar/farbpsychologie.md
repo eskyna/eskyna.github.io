@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing the emotional and visual effect of colo
 slug: farbpsychologie
 url: /en/glossary/farbpsychologie/
 aliases:
-  - /en/glossar/farbpsychologie/
-  - /glossary/farbpsychologie/
+  - /glossar/farbpsychologie/
 tags:
   - color psychology
   - color effect

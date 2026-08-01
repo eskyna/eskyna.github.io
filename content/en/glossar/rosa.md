@@ -21,8 +21,7 @@ keywords:
 slug: rose-pink
 url: /en/glossary/rose-pink/
 aliases:
-  - /en/glossar/rosa/
-  - /glossary/rose-pink/
+  - /glossar/rosa/
 image_alt: Editorial glossary illustration showing a soft muted rose pink color
 relatedTerms:
   - title: Pink

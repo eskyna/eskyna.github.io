@@ -5,8 +5,7 @@ description: "Архитектурные подплечники это точн�
 slug: architektonisches-schulterpolster
 url: /rus/glossariy/architektonisches-schulterpolster/
 aliases:
-  - /rus/glossar/architektonisches-schulterpolster/
-  - /ru/glossar/architektonisches-schulterpolster/
+  - /glossar/architektonisches-schulterpolster/
 category: "Крой, пропорции и посадка"
 subcategory: "Материалы и детали"
 tags:

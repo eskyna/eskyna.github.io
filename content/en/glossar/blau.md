@@ -23,8 +23,7 @@ keywords:
 slug: blue
 url: /en/glossary/blue/
 aliases:
-  - /en/glossar/blau/
-  - /glossary/blue/
+  - /glossar/blau/
 image_alt: Editorial illustration showing a calm medium blue fashion color
 relatedTerms:
   - title: Navy

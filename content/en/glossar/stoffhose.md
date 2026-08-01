@@ -21,8 +21,7 @@ keywords:
 slug: tailored-trousers
 url: /en/glossary/tailored-trousers/
 aliases:
-  - /en/glossar/stoffhose/
-  - /glossary/tailored-trousers/
+  - /glossar/stoffhose/
 image_alt: Editorial illustration of tailored trousers with a clean straight leg and pressed crease
 relatedTerms:
   - title: Suit Trousers

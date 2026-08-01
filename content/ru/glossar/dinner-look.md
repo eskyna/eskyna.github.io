@@ -34,8 +34,7 @@ seoTitle: "Образ для ужина: что надеть на формаль
 slug: obraz-dlya-uzhina
 url: /ru/glossar/dinner-look/
 aliases:
-  - /rus/glossar/dinner-look/
-  - /ru/glossar/dinner-look/
+  - /glossar/dinner-look/
 lastmod: "2026-07-09"
 knowledge:
   - "Образ для ужина не является единым строгим дресс-кодом: уровень нарядности определяют приглашение, место, время и формат встречи."

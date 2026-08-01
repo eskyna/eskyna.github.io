@@ -4,8 +4,7 @@ term: Heart-Shaped Back Yoke Seam
 slug: heart-shape-naht
 url: /en/glossary/heart-shape-naht/
 aliases:
-  - /en/glossar/heart-shape-naht/
-  - /glossary/heart-shape-naht/
+  - /glossar/heart-shape-naht/
 description: A heart-shaped back yoke seam is a V-shaped or softly curved seam above the back pockets that can create a visually lifted, rounded seat in jeans and trousers.
 category: Cut, Proportion & Fit
 tags:

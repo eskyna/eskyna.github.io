@@ -20,8 +20,7 @@ keywords:
 slug: espadrilles
 url: /en/glossary/espadrilles/
 aliases:
-  - /en/glossar/espadrilles/
-  - /glossary/espadrilles/
+  - /glossar/espadrilles/
 image_alt: Lightweight canvas espadrilles with braided jute soles
 relatedTerms:
   - title: Sandal

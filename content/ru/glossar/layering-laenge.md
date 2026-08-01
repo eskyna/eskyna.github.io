@@ -34,8 +34,7 @@ seoTitle: "Длина слоев: значение и применение | Г�
 slug: dlina-sloev
 url: /rus/glossariy/dlina-sloev/
 aliases:
-  - /rus/glossar/layering-laenge/
-  - /ru/glossar/layering-laenge/
+  - /glossar/layering-laenge/
 image_alt: "Сочетание рубашки, джемпера и жакета с разной длиной слоев"
 lastmod: "2026-07-09"
 knowledge:

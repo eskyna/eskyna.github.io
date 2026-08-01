@@ -5,8 +5,7 @@ description: Мерсеризованный хлопок это хлопок, п
 slug: mercerisierte-baumwolle
 url: /rus/glossariy/mercerisierte-baumwolle/
 aliases:
-  - /rus/glossar/mercerisierte-baumwolle/
-  - /ru/glossar/mercerisierte-baumwolle/
+  - /glossar/mercerisierte-baumwolle/
 category: Материалы и детали
 subcategory: Волокна и ткани
 tags:

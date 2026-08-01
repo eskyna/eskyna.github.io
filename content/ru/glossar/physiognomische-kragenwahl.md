@@ -5,8 +5,7 @@ description: "Выбор воротника по чертам лица помо�
 slug: physiognomische-kragenwahl
 url: /rus/glossariy/physiognomische-kragenwahl/
 aliases:
-  - /rus/glossar/physiognomische-kragenwahl/
-  - /ru/glossar/physiognomische-kragenwahl/
+  - /glossar/physiognomische-kragenwahl/
 category: Крой, пропорции и посадка
 tags:
   - воротник

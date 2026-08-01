@@ -9,8 +9,7 @@ image: "images/glossar/naked-dress.png"
 image_alt: "Glossary illustration of a sheer Naked Dress with strategic coverage details"
 url: /en/glossary/naked-dress/
 aliases:
-  - /en/glossar/naked-dress/
-  - /glossary/naked-dress/
+  - /glossar/naked-dress/
 tags:
   - naked dress
   - sheer dress

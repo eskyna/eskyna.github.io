@@ -36,9 +36,8 @@ seoTitle: "Уайт-тай: что это за дресс-код и как од�
 slug: uayt-tay
 url: /rus/glossariy/uayt-tay/
 aliases:
-  - /rus/glossar/white-tie/
-  - /ru/glossar/white-tie/
-  - /rus/glossariy/white-tie/
+  - /glossar/white-tie/
+  - /glossariy/white-tie/
 lastmod: "2026-07-09"
 history:
   - Белый галстук-бабочка и фрак сформировались как элементы европейской парадной мужской вечерней одежды XIX века.

@@ -34,8 +34,7 @@ seoTitle: "Топ с запахом: что это и как носить | Гл
 slug: top-s-zapahom
 url: /ru/glossar/wickeloberteil/
 aliases:
-  - /rus/glossar/wickeloberteil/
-  - /ru/glossar/wickeloberteil/
+  - /glossar/wickeloberteil/
 lastmod: "2026-07-09"
 knowledge:
   - Топ с запахом может иметь настоящую застёжку или лишь имитировать запах с помощью закреплённого перекрёста.

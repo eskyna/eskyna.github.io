@@ -15,8 +15,7 @@ keywords:
 slug: oxford-schuh
 url: /en/glossary/oxford-schuh/
 aliases:
-  - /en/glossar/oxford-schuh/
-  - /glossary/oxford-schuh/
+  - /glossar/oxford-schuh/
 tags:
   - Oxford shoe
   - lace-up shoe

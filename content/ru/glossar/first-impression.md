@@ -33,8 +33,7 @@ seoTitle: "Первое впечатление: значение и примен
 slug: pervoe-vpechatlenie
 url: /rus/glossariy/pervoe-vpechatlenie/
 aliases:
-  - /rus/glossar/first-impression/
-  - /ru/glossar/first-impression/
+  - /glossar/first-impression/
 image_alt: "Иллюстрация о том, как одежда и манера держаться формируют первое впечатление"
 lastmod: "2026-07-09"
 knowledge:

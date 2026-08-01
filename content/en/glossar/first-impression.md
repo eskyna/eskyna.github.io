@@ -21,8 +21,7 @@ keywords:
 slug: first-impression
 url: /en/glossary/first-impression/
 aliases:
-  - /en/glossar/first-impression/
-  - /glossary/first-impression/
+  - /glossar/first-impression/
 image_alt: Editorial glossary illustration showing how clothing, color, and posture shape a first impression
 relatedTerms:
   - title: Appearance

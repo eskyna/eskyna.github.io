@@ -21,8 +21,7 @@ keywords:
 slug: pleated-trousers
 url: /en/glossary/pleated-trousers/
 aliases:
-  - /en/glossar/bundfaltenhose/
-  - /glossary/pleated-trousers/
+  - /glossar/bundfaltenhose/
 image_alt: Editorial illustration of tailored pleated trousers with front waistband pleats
 relatedTerms:
   - title: Tailored Trousers

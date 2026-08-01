@@ -21,8 +21,7 @@ keywords:
 slug: fabric-drape
 url: /en/glossary/fabric-drape/
 aliases:
-  - /en/glossar/materialfall/
-  - /glossary/fabric-drape/
+  - /glossar/materialfall/
 image_alt: Soft fabric falling in flowing folds to illustrate fabric drape
 relatedTerms:
   - title: Cut

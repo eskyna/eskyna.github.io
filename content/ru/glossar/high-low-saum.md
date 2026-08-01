@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/high-low-saum/
 aliases:
-  - /rus/glossar/high-low-saum/
-  - /ru/glossar/high-low-saum/
+  - /glossar/high-low-saum/
 image: images/glossar/high-low-saum.png
 image_alt: Платье с асимметричным подолом, коротким спереди и удлинённым сзади
 relatedTerms:

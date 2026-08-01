@@ -20,8 +20,7 @@ tags:
 slug: farbechtheit
 url: /en/glossary/farbechtheit/
 aliases:
-  - /en/glossar/farbechtheit/
-  - /glossary/farbechtheit/
+  - /glossar/farbechtheit/
 relatedTerms:
   - title: "Lightfastness"
     url: /en/glossar/lichtechtheit/

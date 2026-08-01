@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/grooming/
 aliases:
-  - /en/glossar/grooming/
-  - /glossary/grooming/
+  - /glossar/grooming/
 lastmod: "2026-07-30"
 image: images/glossar/grooming.png
 image_alt: Neatly arranged hairbrush, skincare products, and nail care tools on a bathroom counter

@@ -18,8 +18,8 @@ weight: 999
 image: "images/glossar/vikunja.png"
 image_alt: "Soft light brown vicuña wool textile close-up"
 aliases:
-  - "/en/glossar/vikunja/"
-  - "/glossary/vikunja/"
+  - /glossar/vikunja/
+  - /glossary/vikunja/
 relatedTerms:
   - title: "Cashmere"
     url: "/en/glossar/kaschmir/"

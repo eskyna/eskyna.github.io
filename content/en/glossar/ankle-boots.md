@@ -21,8 +21,7 @@ keywords:
 slug: ankle-boots
 url: /en/glossary/ankle-boots/
 aliases:
-  - /en/glossar/ankle-boots/
-  - /glossary/ankle-boots/
+  - /glossar/ankle-boots/
 image_alt: Black leather ankle boots with a low heel and ankle-high shaft
 relatedTerms:
   - title: Ankle Boot

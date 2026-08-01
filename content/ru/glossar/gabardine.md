@@ -16,8 +16,7 @@ keywords:
 slug: gabardine
 url: /rus/glossariy/gabardine/
 aliases:
-  - /rus/glossar/gabardine/
-  - /ru/glossar/gabardine/
+  - /glossar/gabardine/
 tags:
   - "габардин"
   - "ткани"

@@ -15,8 +15,7 @@ keywords:
 slug: neckholder
 url: /rus/glossariy/neckholder/
 aliases:
-  - /rus/glossar/neckholder/
-  - /ru/glossar/neckholder/
+  - /glossar/neckholder/
 relatedTerms:
   - title: "Топ"
     url: /ru/glossar/top/

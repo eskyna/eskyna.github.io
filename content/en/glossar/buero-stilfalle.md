@@ -4,8 +4,7 @@ term: "Office Style Pitfall"
 description: "An office style pitfall is a clothing or grooming choice that can weaken a professional impression, even when someone is highly qualified. Learn how to recognize common workplace outfit mistakes and make practical adjustments."
 url: "/en/glossary/buero-stilfalle/"
 aliases:
-  - "/en/glossar/buero-stilfalle/"
-  - "/glossary/buero-stilfalle/"
+  - /glossar/buero-stilfalle/
 category: "Style & Impact"
 tags:
   - "office style"

@@ -14,8 +14,7 @@ keywords:
 slug: smoking
 url: /en/glossary/smoking/
 aliases:
-  - /en/glossar/smoking/
-  - /glossary/smoking/
+  - /glossar/smoking/
 tags:
   - tuxedo
   - black tie

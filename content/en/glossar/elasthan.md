@@ -21,8 +21,7 @@ keywords:
 slug: elastane
 url: /en/glossary/elastane/
 aliases:
-  - /en/glossar/elasthan/
-  - /glossary/elastane/
+  - /glossar/elasthan/
 image_alt: Editorial glossary illustration showing stretch fabric with elastane
 relatedTerms:
   - title: Stretch

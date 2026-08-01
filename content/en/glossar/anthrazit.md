@@ -23,8 +23,7 @@ keywords:
 slug: anthracite
 url: /en/glossary/anthracite/
 aliases:
-  - /en/glossar/anthrazit/
-  - /glossary/anthracite/
+  - /glossar/anthrazit/
 image_alt: Editorial glossary illustration showing the dark gray shade anthracite
 relatedTerms:
   - title: Gray

@@ -34,8 +34,7 @@ seoTitle: "Заниженная талия: значение и применен
 slug: zanizhennaya-taliya
 url: /rus/glossariy/zanizhennaya-taliya/
 aliases:
-  - /rus/glossar/drop-waist/
-  - /ru/glossar/drop-waist/
+  - /glossar/drop-waist/
 image_alt: "Платье с линией талии, опущенной ниже естественного уровня"
 history:
   - В 1920-е годы заниженная линия талии стала одной из заметных черт женской моды, связанной с прямыми свободными платьями.

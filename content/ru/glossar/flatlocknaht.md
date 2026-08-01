@@ -8,8 +8,7 @@ image_alt: "Иллюстрация плоского флэтлок-шва на �
 slug: flatlocknaht
 url: /rus/glossariy/flatlocknaht/
 aliases:
-  - /rus/glossar/flatlocknaht/
-  - /ru/glossar/flatlocknaht/
+  - /glossar/flatlocknaht/
 tags:
   - флэтлок-шов
   - плоский шов

@@ -21,8 +21,7 @@ keywords:
 slug: ankle-boot
 url: /en/glossary/ankle-boot/
 aliases:
-  - /en/glossar/stiefelette/
-  - /glossary/ankle-boot/
+  - /glossar/stiefelette/
 image_alt: Editorial illustration of a pair of ankle boots with a low block heel
 relatedTerms:
   - title: Chelsea Boots

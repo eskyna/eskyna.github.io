@@ -34,9 +34,9 @@ seoTitle: "Сумка сэтчел: значение и применение | �
 slug: sumka-setchel
 url: /ru/glossar/satchel-bag/
 aliases:
-  - /rus/glossar/satchel-bag/
-  - /rus/glossariy/sumka-satchel/
-  - /rus/glossariy/sumka-setchel/
+  - /glossar/satchel-bag/
+  - /glossariy/sumka-satchel/
+  - /glossariy/sumka-setchel/
 history:
   - "Исторически сэтчел связан с практичными сумками для учёбы и работы, в которых удобно переносить книги и документы."
   - "Современная мода переосмыслила эту форму: сэтчел сохраняет функциональную структуру, но выпускается в разных размерах, материалах и цветах."

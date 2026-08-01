@@ -4,8 +4,7 @@ term: "Чулки со швом"
 description: "Чулки со швом, или Nahtstrümpfe, это тонкие чулки с вертикальной линией по задней части ноги. Такая деталь отсылает к винтажной эстетике, создаёт выразительную вертикаль и требует особенно аккуратной посадки."
 url: /rus/glossariy/nahtstruempfe/
 aliases:
-  - /rus/glossar/nahtstruempfe/
-  - /ru/glossar/nahtstruempfe/
+  - /glossar/nahtstruempfe/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - чулки-со-швом

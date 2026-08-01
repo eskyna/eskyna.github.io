@@ -23,8 +23,7 @@ keywords:
 slug: complementary-colors
 url: /en/glossary/complementary-colors/
 aliases:
-  - /en/glossar/komplementaerfarben/
-  - /glossary/complementary-colors/
+  - /glossar/komplementaerfarben/
 image_alt: Color wheel illustration showing complementary color pairings for outfit styling
 relatedTerms:
   - title: Complementary Contrast

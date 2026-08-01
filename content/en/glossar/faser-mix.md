@@ -22,8 +22,7 @@ keywords:
 slug: fiber-blend
 url: /en/glossary/fiber-blend/
 aliases:
-  - /en/glossar/faser-mix/
-  - /glossary/fiber-blend/
+  - /glossar/faser-mix/
 image_alt: Editorial illustration showing fabric swatches and a garment care label with fiber composition
 relatedTerms:
   - title: Polyester

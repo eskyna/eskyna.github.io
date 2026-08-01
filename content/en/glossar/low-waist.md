@@ -21,8 +21,7 @@ keywords:
 slug: low-waist
 url: /en/glossary/low-waist/
 aliases:
-  - /en/glossar/low-waist/
-  - /glossary/low-waist/
+  - /glossar/low-waist/
 image_alt: Editorial illustration of low-waist trousers sitting below the natural waist at the hips
 relatedTerms:
   - title: High Waist

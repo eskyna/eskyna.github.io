@@ -36,8 +36,7 @@ seoTitle: "Кожаная куртка | ESKYNA Glossary"
 slug: kozhanaya-kurtka
 url: /rus/glossariy/kozhanaya-kurtka/
 aliases:
-  - /rus/glossar/lederjacke/
-  - /ru/glossar/lederjacke/
+  - /glossar/lederjacke/
 lastmod: "2026-07-09"
 history:
   - Кожаные куртки связаны с функциональной одеждой для защиты от ветра и холода.

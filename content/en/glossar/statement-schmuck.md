@@ -21,8 +21,7 @@ keywords:
 slug: statement-jewelry
 url: /en/glossary/statement-jewelry/
 aliases:
-  - /en/glossar/statement-schmuck/
-  - /glossary/statement-jewelry/
+  - /glossar/statement-schmuck/
 image_alt: Editorial illustration of bold statement jewelry with earrings, necklace, and ring
 relatedTerms:
   - title: Statement Piece

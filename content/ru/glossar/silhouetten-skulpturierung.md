@@ -4,8 +4,7 @@ term: "Скульптурирование силуэта"
 slug: silhouetten-skulpturierung
 url: /rus/glossariy/silhouetten-skulpturierung/
 aliases:
-  - /rus/glossar/silhouetten-skulpturierung/
-  - /ru/glossar/silhouetten-skulpturierung/
+  - /glossar/silhouetten-skulpturierung/
 description: "Скульптурирование силуэта это создание или подчёркивание контуров тела с помощью кроя, плотных материалов, конструктивных деталей и корректирующего белья."
 category: "Крой, пропорции и посадка"
 tags:

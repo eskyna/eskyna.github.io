@@ -20,8 +20,7 @@ keywords:
 slug: square-neckline
 url: /en/glossary/square-neckline/
 aliases:
-  - /en/glossar/carre-ausschnitt/
-  - /glossary/square-neckline/
+  - /glossar/carre-ausschnitt/
 image_alt: Editorial illustration of a dress with a square neckline and defined corners
 relatedTerms:
   - title: Neckline Effect

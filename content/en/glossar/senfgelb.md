@@ -24,8 +24,7 @@ keywords:
 slug: mustard-yellow
 url: /en/glossary/mustard-yellow/
 aliases:
-  - /en/glossar/senfgelb/
-  - /glossary/mustard-yellow/
+  - /glossar/senfgelb/
 image_alt: Editorial glossary illustration showing the warm, muted golden tone of Mustard Yellow
 relatedTerms:
   - title: Ochre

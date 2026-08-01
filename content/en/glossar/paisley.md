@@ -22,8 +22,7 @@ keywords:
 slug: paisley
 url: /en/glossary/paisley/
 aliases:
-  - /en/glossar/paisley/
-  - /glossary/paisley/
+  - /glossar/paisley/
 image_alt: Editorial illustration of a paisley pattern with curved teardrop motifs
 relatedTerms:
   - title: Pattern

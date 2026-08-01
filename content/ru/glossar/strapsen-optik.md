@@ -4,8 +4,7 @@ term: "Эстетика подвязок"
 slug: strapsen-optik
 url: /rus/glossariy/strapsen-optik/
 aliases:
-  - /rus/glossar/strapsen-optik/
-  - /ru/glossar/strapsen-optik/
+  - /glossar/strapsen-optik/
 description: "Эстетика подвязок это видимое или намеренно обозначенное использование пояса для чулок и подвязок как чувственного акцента в образе с прозрачной одеждой, разрезами или многослойностью."
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:

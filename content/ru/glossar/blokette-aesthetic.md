@@ -9,8 +9,7 @@ image: "images/glossar/blokette-aesthetic.png"
 image_alt: "Образ в эстетике Blokette с футбольной майкой, юбкой и женственными аксессуарами"
 url: /rus/glossariy/blokette-aesthetic/
 aliases:
-  - /rus/glossar/blokette-aesthetic/
-  - /ru/glossar/blokette-aesthetic/
+  - /glossar/blokette-aesthetic/
 tags:
   - blokette aesthetic
   - blokecore

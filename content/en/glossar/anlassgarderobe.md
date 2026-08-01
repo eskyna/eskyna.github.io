@@ -21,8 +21,7 @@ keywords:
 slug: occasion-wardrobe
 url: /en/glossary/occasion-wardrobe/
 aliases:
-  - /en/glossar/anlassgarderobe/
-  - /glossary/occasion-wardrobe/
+  - /glossar/anlassgarderobe/
 image_alt: Editorial illustration of a coordinated wardrobe for work, celebrations, and formal occasions
 relatedTerms:
   - title: Dress Code

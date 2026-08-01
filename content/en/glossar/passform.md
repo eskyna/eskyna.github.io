@@ -20,8 +20,7 @@ keywords:
 slug: fit
 url: /en/glossary/fit/
 aliases:
-  - /en/glossar/passform/
-  - /glossary/fit/
+  - /glossar/passform/
 image_alt: Editorial illustration showing how a well-fitting garment follows the body comfortably
 relatedTerms:
   - title: Cut

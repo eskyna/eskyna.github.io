@@ -20,8 +20,7 @@ keywords:
 slug: schlubby-shirt
 url: /en/glossary/schlubby-shirt/
 aliases:
-  - /en/glossar/schlubby-shirt/
-  - /glossary/schlubby-shirt/
+  - /glossar/schlubby-shirt/
 relatedTerms:
   - title: Oversized
     url: /en/glossar/oversized/

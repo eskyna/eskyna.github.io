@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Schuhe"
 url: "/glossar/kategorie/schuhe/"
+aliases:
+  - /glossar/schuhe/
 seoTitle: "Schuhe: Schuhformen, Styling und Passform | ESKYNA Glossar"
 relatedTerms:
   - "schuh-saum-beziehung"

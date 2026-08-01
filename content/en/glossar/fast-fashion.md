@@ -14,8 +14,7 @@ keywords:
 slug: fast-fashion
 url: /en/glossary/fast-fashion/
 aliases:
-  - /en/glossar/fast-fashion/
-  - /glossary/fast-fashion/
+  - /glossar/fast-fashion/
 tags:
   - "fast fashion"
   - "fashion industry"

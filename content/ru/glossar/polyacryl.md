@@ -9,8 +9,7 @@ image: "images/glossar/polyacryl.png"
 image_alt: "Иллюстрация полиакрилового трикотажа с мягкой фактурой"
 url: /rus/glossariy/polyacryl/
 aliases:
-  - /rus/glossar/polyacryl/
-  - /ru/glossar/polyacryl/
+  - /glossar/polyacryl/
 tags:
   - полиакрил
   - синтетические волокна

@@ -33,9 +33,8 @@ seoTitle: "Городской стиль в одежде: что это и ка�
 slug: gorodskoy-stil
 url: /rus/glossariy/gorodskoy-stil/
 aliases:
-  - /rus/glossar/urban/
-  - /ru/glossar/urban/
-  - /rus/glossariy/urban/
+  - /glossar/urban/
+  - /glossariy/urban/
 lastmod: "2026-07-09"
 knowledge:
   - "Городской стиль не является единым дресс-кодом: его выражение зависит от ритма жизни, климата, профессии и личного стиля."

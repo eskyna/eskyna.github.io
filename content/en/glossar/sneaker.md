@@ -21,8 +21,7 @@ keywords:
 slug: sneaker
 url: /en/glossary/sneaker/
 aliases:
-  - /en/glossar/sneaker/
-  - /glossary/sneaker/
+  - /glossar/sneaker/
 image_alt: Editorial illustration of classic low-top sneakers for everyday styling
 relatedTerms:
   - title: Athleisure

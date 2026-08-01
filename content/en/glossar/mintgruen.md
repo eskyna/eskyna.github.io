@@ -21,8 +21,7 @@ keywords:
 slug: mint-green
 url: /en/glossary/mint-green/
 aliases:
-  - /en/glossar/mintgruen/
-  - /glossary/mint-green/
+  - /glossar/mintgruen/
 relatedTerms:
   - title: Sage Green
     url: /en/glossar/salbeigruen/

@@ -15,8 +15,7 @@ keywords:
 slug: laufsteg-runway
 url: /en/glossary/laufsteg-runway/
 aliases:
-  - /en/glossar/laufsteg-runway/
-  - /glossary/laufsteg-runway/
+  - /glossar/laufsteg-runway/
 tags:
   - fashion presentation
   - runway show

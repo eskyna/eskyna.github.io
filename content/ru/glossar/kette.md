@@ -34,9 +34,8 @@ seoTitle: "Цепочка: что это такое и как носить | Г�
 slug: tsepochka
 url: /ru/glossar/kette/
 aliases:
-  - /rus/glossar/kette/
-  - /rus/glossariy/tsepochka/
-  - /ru/glossar/kette/
+  - /glossar/kette/
+  - /glossariy/tsepochka/
 lastmod: "2026-07-09"
 history:
   - "Цепочки использовались как украшения в разных культурах на протяжении многих веков."

@@ -21,8 +21,7 @@ keywords:
 slug: scandinavian-style
 url: /en/glossary/scandinavian-style/
 aliases:
-  - /en/glossar/scandinavian-style/
-  - /glossary/scandinavian-style/
+  - /glossar/scandinavian-style/
 image_alt: Editorial illustration of Scandinavian Style with clean tailoring, neutral layers, and practical accessories
 relatedTerms:
   - title: Minimalism

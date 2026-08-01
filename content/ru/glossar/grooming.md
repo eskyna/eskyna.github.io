@@ -4,8 +4,7 @@ term: Груминг
 slug: grooming
 url: /rus/glossariy/grooming/
 aliases:
-  - /rus/glossar/grooming/
-  - /ru/glossar/grooming/
+  - /glossar/grooming/
 description: Груминг это ухоженный общий вид кожи, волос, бороды, ногтей и других заметных деталей внешности. Он поддерживает личный имидж, аккуратность образа и уверенность в разных ситуациях.
 category: Стиль и впечатление
 tags:

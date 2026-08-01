@@ -9,8 +9,7 @@ image: "images/glossar/minaudiere.png"
 image_alt: "Illustration of a small decorative minaudiere evening bag with a clasp"
 url: /en/glossary/minaudiere/
 aliases:
-  - /en/glossar/minaudiere/
-  - /glossary/minaudiere/
+  - /glossar/minaudiere/
 tags:
   - minaudiere
   - evening bag

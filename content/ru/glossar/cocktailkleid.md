@@ -33,8 +33,7 @@ seoTitle: "Коктейльное платье: что это и как выбр
 slug: kokteylnoe-plate
 url: /rus/glossariy/kokteylnoe-plate/
 aliases:
-  - /rus/glossar/cocktailkleid/
-  - /ru/glossar/cocktailkleid/
+  - /glossar/cocktailkleid/
 lastmod: "2026-07-09"
 history:
   - Коктейльное платье сформировалось как категория нарядной, но не максимально формальной одежды в первой половине XX века.

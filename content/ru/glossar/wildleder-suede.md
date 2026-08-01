@@ -4,8 +4,7 @@ term: Замша (suede)
 slug: wildleder-suede
 url: /rus/glossariy/wildleder-suede/
 aliases:
-  - /rus/glossar/wildleder-suede/
-  - /ru/glossar/wildleder-suede/
+  - /glossar/wildleder-suede/
 description: "Замша, или suede, это натуральная кожа с бархатистой ворсистой поверхностью, которую получают со стороны бахтармы. Она ценится за мягкость, матовый вид и выразительную тактильную фактуру."
 category: Материалы и детали
 tags:

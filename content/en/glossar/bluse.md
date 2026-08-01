@@ -22,8 +22,7 @@ keywords:
 slug: blouse
 url: /en/glossary/blouse/
 aliases:
-  - /en/glossar/bluse/
-  - /glossary/blouse/
+  - /glossar/bluse/
 image_alt: Editorial illustration of a tailored blouse with collar, button placket, and long sleeves
 relatedTerms:
   - title: Shirt

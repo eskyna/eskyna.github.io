@@ -16,8 +16,7 @@ keywords:
 slug: zugfalten
 url: /rus/glossariy/zugfalten/
 aliases:
-  - /rus/glossar/zugfalten/
-  - /ru/glossar/zugfalten/
+  - /glossar/zugfalten/
 tags:
   - натяжные-складки
   - посадка

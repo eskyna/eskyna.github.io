@@ -22,8 +22,7 @@ keywords:
 slug: purple
 url: /en/glossary/purple/
 aliases:
-  - /en/glossar/lila/
-  - /glossary/purple/
+  - /glossar/lila/
 image_alt: Editorial glossary illustration showing a soft medium purple color swatch
 relatedTerms:
   - title: Violet

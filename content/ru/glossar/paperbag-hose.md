@@ -37,9 +37,8 @@ seoTitle: "Брюки пейпербэг: что это и как носить |
 slug: bryuki-peyperbeg
 url: /rus/glossariy/bryuki-peyperbeg/
 aliases:
-  - /rus/glossar/paperbag-hose/
-  - /ru/glossar/paperbag-hose/
-  - /rus/glossariy/bryuki-paperbag/
+  - /glossar/paperbag-hose/
+  - /glossariy/bryuki-paperbag/
 lastmod: "2026-07-09"
 history:
   - "Название paperbag pants связано с характерным видом талии: присборенный край над поясом напоминает верх бумажного пакета, стянутого завязкой."

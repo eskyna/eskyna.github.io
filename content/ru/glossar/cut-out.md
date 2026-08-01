@@ -9,8 +9,7 @@ image: "images/glossar/cut-out.png"
 image_alt: "Иллюстрация одежды с декоративными вырезами cut-out"
 url: /rus/glossariy/cut-out/
 aliases:
-  - /rus/glossar/cut-out/
-  - /ru/glossar/cut-out/
+  - /glossar/cut-out/
 tags:
   - cut-out
   - вырезы в одежде

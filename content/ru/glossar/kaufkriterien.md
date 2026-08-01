@@ -34,8 +34,7 @@ seoTitle: "Критерии покупки одежды | ESKYNA"
 slug: kriterii-pokupki
 url: /rus/glossariy/kriterii-pokupki/
 aliases:
-  - /rus/glossar/kaufkriterien/
-  - /ru/glossar/kaufkriterien/
+  - /glossar/kaufkriterien/
 image_alt: "Иллюстрация критериев покупки одежды: цвет, посадка, качество и сочетаемость"
 knowledge:
   - Критерии покупки превращают спонтанный выбор вещи в понятную проверку ее пользы для конкретного гардероба.

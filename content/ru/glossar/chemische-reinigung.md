@@ -33,8 +33,7 @@ seoTitle: "Химическая чистка | ESKYNA Glossary"
 slug: himicheskaya-chistka
 url: /rus/glossariy/himicheskaya-chistka/
 aliases:
-  - /rus/glossar/chemische-reinigung/
-  - /ru/glossar/chemische-reinigung/
+  - /glossar/chemische-reinigung/
 lastmod: "2026-07-09"
 knowledge:
   - Химическая чистка очищает одежду без водной стирки, используя профессиональные растворители и специальное оборудование.

@@ -34,9 +34,8 @@ seoTitle: "Курортный кэжуал | ESKYNA Glossary"
 slug: kurortnyy-kezhual
 url: /rus/glossariy/kurortnyy-kezhual/
 aliases:
-  - /rus/glossar/resort-casual/
-  - /ru/glossar/resort-casual/
-  - /rus/glossariy/resort-casual/
+  - /glossar/resort-casual/
+  - /glossariy/resort-casual/
 image_alt: "Курортный кэжуал: лёгкий аккуратный образ для отдыха и путешествий"
 lastmod: "2026-07-09"
 history:

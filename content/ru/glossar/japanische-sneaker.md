@@ -21,8 +21,7 @@ seoTitle: "Японские кроссовки: значение и примен
 slug: yaponskie-krossovki
 url: /rus/glossariy/yaponskie-krossovki/
 aliases:
-  - /rus/glossar/japanische-sneaker/
-  - /ru/glossar/japanische-sneaker/
+  - /glossar/japanische-sneaker/
 relatedTerms:
   - title: Кроссовки
     url: /ru/glossar/sneaker/

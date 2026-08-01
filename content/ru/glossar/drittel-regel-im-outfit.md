@@ -34,9 +34,8 @@ seoTitle: "Правило третей в образе | ESKYNA"
 slug: pravilo-tretey-v-obraze
 url: /ru/glossar/drittel-regel-im-outfit/
 aliases:
-  - /rus/glossariy/pravilo-tretey-v-obraze/
-  - /rus/glossar/drittel-regel-im-outfit/
-  - /ru/glossar/drittel-regel-im-outfit/
+  - /glossariy/pravilo-tretey-v-obraze/
+  - /glossar/drittel-regel-im-outfit/
 image_alt: "Иллюстрация правила третей: короткий верх и удлинённый низ создают пропорцию одной и двух третей"
 lastmod: "2026-07-09"
 knowledge:

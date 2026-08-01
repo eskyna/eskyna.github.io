@@ -23,8 +23,7 @@ keywords:
 slug: gorpcore
 url: /en/glossary/gorpcore/
 aliases:
-  - /en/glossar/gorpcore/
-  - /glossary/gorpcore/
+  - /glossar/gorpcore/
 image_alt: Editorial glossary illustration of Gorpcore style with practical outdoor-inspired clothing
 relatedTerms:
   - title: Adventure Streetwear

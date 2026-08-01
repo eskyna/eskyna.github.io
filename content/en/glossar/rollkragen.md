@@ -20,8 +20,7 @@ keywords:
 slug: turtleneck
 url: /en/glossary/turtleneck/
 aliases:
-  - /en/glossar/rollkragen/
-  - /glossary/turtleneck/
+  - /glossar/rollkragen/
 image_alt: Illustration of a sweater with a high folded turtleneck collar
 relatedTerms:
   - title: Turtleneck Sweater

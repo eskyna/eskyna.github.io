@@ -16,6 +16,9 @@ glossar_filter_terms:
   - spontankauf
   - fehlkauf
 url: /rus/glossariy/kategoriya/potrebitelskie-znaniya/
+aliases:
+  - /glossar/potrebitelskie-znaniya/
+  - /glossar/kategorie/potrebitelskie-znaniya/
 seoTitle: "Потребительские знания | ESKYNA"
 image: images/glossar/kategorie/garderobe-alltag.png
 knowledge:

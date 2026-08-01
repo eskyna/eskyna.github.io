@@ -34,8 +34,7 @@ seoTitle: "Ткань букле: что это, свойства и как но
 slug: bukle
 url: /ru/glossar/boucle/
 aliases:
-  - /rus/glossar/boucle/
-  - /ru/glossar/boucle/
+  - /glossar/boucle/
 lastmod: "2026-07-09"
 history:
   - "Название bouclé происходит от французского слова bouclé, то есть «завитой» или «петельчатый»."

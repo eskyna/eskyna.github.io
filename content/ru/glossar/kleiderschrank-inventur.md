@@ -35,8 +35,7 @@ seoTitle: "Инвентаризация гардероба | ESKYNA"
 slug: inventarizatsiya-garderoba
 url: /rus/glossariy/inventarizatsiya-garderoba/
 aliases:
-  - /rus/glossar/kleiderschrank-inventur/
-  - /ru/glossar/kleiderschrank-inventur/
+  - /glossar/kleiderschrank-inventur/
 image_alt: "Иллюстрация инвентаризации гардероба: одежда, обувь и аксессуары для системного разбора"
 lastmod: "2026-07-09"
 knowledge:

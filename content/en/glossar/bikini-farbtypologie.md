@@ -17,8 +17,7 @@ keywords:
   - "swimwear color analysis"
 url: "/en/glossary/bikini-farbtypologie/"
 aliases:
-  - "/en/glossar/bikini-farbtypologie/"
-  - "/glossary/bikini-farbtypologie/"
+  - /glossar/bikini-farbtypologie/
 weight: 999
 image: "images/glossar/bikini-farbtypologie.png"
 image_alt: "A selection of bikinis in blue, coral, olive, and black displayed beside skin-tone swatches"

@@ -9,8 +9,7 @@ image: "images/glossar/wasserdicht.png"
 image_alt: "Иллюстрация водонепроницаемой куртки для дождливой погоды"
 url: /rus/glossariy/wasserdicht/
 aliases:
-  - /rus/glossar/wasserdicht/
-  - /ru/glossar/wasserdicht/
+  - /glossar/wasserdicht/
 lastmod: "2026-07-22"
 tags:
   - водонепроницаемость

@@ -21,8 +21,7 @@ keywords:
 slug: personal-branding
 url: /en/glossary/personal-branding/
 aliases:
-  - /en/glossar/personal-branding/
-  - /glossary/personal-branding/
+  - /glossar/personal-branding/
 image_alt: Editorial glossary illustration showing personal branding through a coherent professional wardrobe
 relatedTerms:
   - title: Image Strategy

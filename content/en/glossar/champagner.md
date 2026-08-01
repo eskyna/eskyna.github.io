@@ -22,8 +22,7 @@ keywords:
 slug: champagner
 url: /en/glossary/champagner/
 aliases:
-  - /en/glossar/champagner/
-  - /glossary/champagner/
+  - /glossar/champagner/
 relatedTerms:
   - title: "Cream"
     url: /en/glossar/creme/

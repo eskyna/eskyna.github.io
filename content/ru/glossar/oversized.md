@@ -35,9 +35,8 @@ seoTitle: "Оверсайз: что это в одежде и как носит�
 slug: oversayz
 url: /rus/glossariy/oversayz/
 aliases:
-  - /rus/glossar/oversized/
-  - /ru/glossar/oversized/
-  - /rus/glossariy/oversized/
+  - /glossar/oversized/
+  - /glossariy/oversized/
 history:
   - "Свободные объёмные формы регулярно появлялись в моде разных десятилетий, но современный оверсайз не сводится к одному историческому стилю."
   - "В актуальной моде оверсайз используют как осознанный приём работы с объёмом, комфортом и пропорциями."

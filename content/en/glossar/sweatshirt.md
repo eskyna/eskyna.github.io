@@ -21,8 +21,7 @@ keywords:
 slug: sweatshirt
 url: /en/glossary/sweatshirt/
 aliases:
-  - /en/glossar/sweatshirt/
-  - /glossary/sweatshirt/
+  - /glossar/sweatshirt/
 image_alt: Cream crew-neck sweatshirt styled with jeans and sneakers
 relatedTerms:
   - title: Hoodie

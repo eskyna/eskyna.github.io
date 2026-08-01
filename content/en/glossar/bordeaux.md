@@ -23,8 +23,7 @@ keywords:
 slug: burgundy
 url: /en/glossary/burgundy/
 aliases:
-  - /en/glossar/bordeaux/
-  - /glossary/burgundy/
+  - /glossar/bordeaux/
 image_alt: Deep burgundy red color swatch with a muted purple undertone
 relatedTerms:
   - title: Berry Tones

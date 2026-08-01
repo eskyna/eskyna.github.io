@@ -34,9 +34,8 @@ seoTitle: "Харизма: что это и как проявляется в с�
 slug: harizma
 url: /ru/glossar/ausstrahlung/
 aliases:
-  - /rus/glossar/ausstrahlung/
-  - /ru/glossar/ausstrahlung/
-  - /rus/glossariy/izluchenie/
+  - /glossar/ausstrahlung/
+  - /glossariy/izluchenie/
 lastmod: "2026-07-09"
 knowledge:
   - Харизма не сводится к яркой одежде или внешней эффектности. Она возникает, когда внешний образ согласован с человеком, его задачей и манерой поведения.

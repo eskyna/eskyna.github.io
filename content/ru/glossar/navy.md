@@ -41,9 +41,9 @@ seoTitle: "Темно-синий: значение и применение | Г�
 slug: temno-siniy
 url: /ru/glossar/navy/
 aliases:
-  - /rus/glossar/navy/
-  - /rus/glossariy/temno-siniy/
-  - /rus/glossariy/navy/
+  - /glossar/navy/
+  - /glossariy/temno-siniy/
+  - /glossariy/navy/
 lastmod: "2026-07-09"
 history:
   - "Название navy blue связано с формой британского Королевского флота: темно-синий цвет был введен для офицерских мундиров в XVIII веке."

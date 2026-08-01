@@ -9,8 +9,7 @@ image: "images/glossar/beanie.png"
 image_alt: "Illustration of a simple knitted beanie hat"
 url: /en/glossary/beanie/
 aliases:
-  - /en/glossar/beanie/
-  - /glossary/beanie/
+  - /glossar/beanie/
 tags:
   - beanie
   - knit hat

@@ -15,8 +15,7 @@ keywords:
 slug: carmen-ausschnitt
 url: /rus/glossariy/carmen-ausschnitt/
 aliases:
-  - /rus/glossar/carmen-ausschnitt/
-  - /ru/glossar/carmen-ausschnitt/
+  - /glossar/carmen-ausschnitt/
 tags:
   - вырез Кармен
   - открытые плечи

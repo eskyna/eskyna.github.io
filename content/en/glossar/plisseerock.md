@@ -21,8 +21,7 @@ keywords:
 slug: pleated-skirt
 url: /en/glossary/pleated-skirt/
 aliases:
-  - /en/glossar/plisseerock/
-  - /glossary/pleated-skirt/
+  - /glossar/plisseerock/
 image_alt: Pleated skirt with fine vertical folds and fluid movement
 relatedTerms:
   - title: Pleated Fabric

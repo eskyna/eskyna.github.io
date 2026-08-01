@@ -21,8 +21,7 @@ keywords:
 slug: poncho
 url: /en/glossary/poncho/
 aliases:
-  - /en/glossar/poncho/
-  - /glossary/poncho/
+  - /glossar/poncho/
 image_alt: Loose poncho layered over a simple outfit
 relatedTerms:
   - title: Cape

@@ -34,8 +34,7 @@ seoTitle: "Кардиган | Style & Image ESKYNA"
 slug: kardigan
 url: /rus/glossariy/kardigan/
 aliases:
-  - /rus/glossar/cardigan/
-  - /ru/glossar/cardigan/
+  - /glossar/cardigan/
 lastmod: "2026-07-09"
 history:
   - Название «кардиган» традиционно связывают с графом Кардиганом и вязаной военной курткой XIX века.

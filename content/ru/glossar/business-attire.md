@@ -5,8 +5,7 @@ description: Business Attire это строгий деловой дресс-к�
 slug: business-attire
 url: /rus/glossariy/business-attire/
 aliases:
-  - /rus/glossar/business-attire/
-  - /ru/glossar/business-attire/
+  - /glossar/business-attire/
 category: Дресс-коды и поводы
 subcategory: Деловой стиль
 tags:

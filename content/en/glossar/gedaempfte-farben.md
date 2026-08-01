@@ -22,8 +22,7 @@ keywords:
 slug: muted-colors
 url: /en/glossary/muted-colors/
 aliases:
-  - /en/glossar/gedaempfte-farben/
-  - /glossary/muted-colors/
+  - /glossar/gedaempfte-farben/
 image_alt: A harmonious selection of soft, low-saturation muted colors in blue, rose, green, and beige
 relatedTerms:
   - title: Saturation

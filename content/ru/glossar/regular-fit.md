@@ -35,10 +35,9 @@ seoTitle: "Обычная посадка Regular Fit | ESKYNA"
 slug: obychnaya-posadka
 url: /ru/glossar/regular-fit/
 aliases:
-  - /rus/glossar/regular-fit/
-  - /ru/glossar/regular-fit/
-  - /rus/glossariy/regular-fit/
-  - /rus/glossariy/obychnaya-posadka/
+  - /glossar/regular-fit/
+  - /glossariy/regular-fit/
+  - /glossariy/obychnaya-posadka/
 lastmod: "2026-07-09"
 knowledge:
   - Обычная посадка описывает степень прилегания вещи к телу, а не размер на ярлыке.

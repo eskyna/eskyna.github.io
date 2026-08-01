@@ -36,10 +36,9 @@ seoTitle: "Акцентная вещь: что это и как носить | �
 slug: aktsentnaya-vesch
 url: /ru/glossar/statement-piece/
 aliases:
-  - /rus/glossar/statement-piece/
-  - /ru/glossar/statement-piece/
-  - /rus/glossariy/statement-piece/
-  - /rus/glossariy/aktsentnaya-vesch/
+  - /glossar/statement-piece/
+  - /glossariy/statement-piece/
+  - /glossariy/aktsentnaya-vesch/
 lastmod: "2026-07-09"
 knowledge:
   - "Акцентной может быть не только яркая вещь: внимание привлекают также необычный крой, выразительная фактура, масштаб, принт или блеск."

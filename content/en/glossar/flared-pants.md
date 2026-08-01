@@ -20,8 +20,7 @@ keywords:
 slug: flared-pants
 url: /en/glossary/flared-pants/
 aliases:
-  - /en/glossar/flared-pants/
-  - /glossary/flared-pants/
+  - /glossar/flared-pants/
 image_alt: Illustration of fitted flared pants widening from the knee toward the hem
 relatedTerms:
   - title: Bootcut

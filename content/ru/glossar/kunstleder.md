@@ -35,8 +35,7 @@ seoTitle: "Искусственная кожа | ESKYNA Glossary"
 slug: iskusstvennaya-kozha
 url: /rus/glossariy/iskusstvennaya-kozha/
 aliases:
-  - /rus/glossar/kunstleder/
-  - /ru/glossar/kunstleder/
+  - /glossar/kunstleder/
 lastmod: "2026-07-09"
 history:
   - "Кожеподобные материалы существовали до появления современных синтетических полимеров: ткани покрывали составами, чтобы сделать поверхность более плотной и похожей на кожу."

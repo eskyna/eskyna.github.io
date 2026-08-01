@@ -33,9 +33,8 @@ seoTitle: "Ядро визуального языка | ESKYNA"
 slug: yadro-vizualnogo-yazyka
 url: /ru/glossar/kernsprache/
 aliases:
-  - /rus/glossar/kernsprache/
-  - /ru/glossar/kernsprache/
-  - /rus/glossariy/yadro-vizualnogo-yazyka/
+  - /glossar/kernsprache/
+  - /glossariy/yadro-vizualnogo-yazyka/
 lastmod: "2026-07-09"
 knowledge:
   - "Ядро визуального языка не равно одному стилевому направлению: оно объединяет повторяющиеся решения в цвете, силуэте, материалах и деталях."

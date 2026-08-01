@@ -14,8 +14,7 @@ keywords:
 slug: simultankontrast
 url: /rus/glossariy/simultankontrast/
 aliases:
-  - /rus/glossar/simultankontrast/
-  - /ru/glossar/simultankontrast/
+  - /glossar/simultankontrast/
 tags:
   - цвет
   - цветовой контраст

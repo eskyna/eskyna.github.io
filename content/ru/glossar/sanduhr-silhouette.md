@@ -34,8 +34,7 @@ seoTitle: "Силуэт песочные часы | ESKYNA Glossary"
 slug: siluet-pesochnye-chasy
 url: /rus/glossariy/siluet-pesochnye-chasy/
 aliases:
-  - /rus/glossar/sanduhr-silhouette/
-  - /ru/glossar/sanduhr-silhouette/
+  - /glossar/sanduhr-silhouette/
 image_alt: "Иллюстрация силуэта песочные часы с визуально выраженной талией и сбалансированными плечами и бёдрами"
 lastmod: "2026-07-09"
 history:

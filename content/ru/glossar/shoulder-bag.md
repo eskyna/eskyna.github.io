@@ -9,8 +9,7 @@ image: "images/glossar/shoulder-bag.png"
 image_alt: "Сумка Shoulder Bag с коротким ремнём, которую носят на плече"
 url: /ru/glossar/shoulder-bag/
 aliases:
-  - /rus/glossar/shoulder-bag/
-  - /ru/glossar/shoulder-bag/
+  - /glossar/shoulder-bag/
 tags:
   - shoulder-bag
   - сумка-на-плечо

@@ -33,8 +33,7 @@ seoTitle: "Модал: значение, свойства и применени�
 slug: modal
 url: /rus/glossariy/modal/
 aliases:
-  - /rus/glossar/modal/
-  - /ru/glossar/modal/
+  - /glossar/modal/
 lastmod: "2026-07-09"
 knowledge:
   - "Модал относится к регенерированным целлюлозным волокнам: его получают из целлюлозы посредством химической обработки."

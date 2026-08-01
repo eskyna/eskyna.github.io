@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/full-canvas/
 aliases:
-  - /rus/glossar/full-canvas/
-  - /ru/glossar/full-canvas/
+  - /glossar/full-canvas/
 lastmod: "2026-07-30"
 image: images/glossar/full-canvas.png
 image_alt: Внутренняя формообразующая прокладка в передней части классического пиджака

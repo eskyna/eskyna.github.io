@@ -36,9 +36,8 @@ seoTitle: "Тренч: что это такое, как выбрать и нос
 slug: trench
 url: /ru/glossar/trenchcoat/
 aliases:
-  - /rus/glossar/trenchcoat/
-  - /ru/glossar/trenchcoat/
-  - /rus/glossariy/trenchcoat/
+  - /glossar/trenchcoat/
+  - /glossariy/trenchcoat/
 lastmod: "2026-07-09"
 history:
   - "Тренч возник как практичная верхняя одежда с военными корнями и со временем вошёл в городской гардероб."

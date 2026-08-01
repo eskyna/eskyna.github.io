@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/fil-a-fil/
 aliases:
-  - /en/glossar/fil-a-fil/
-  - /glossary/fil-a-fil/
+  - /glossar/fil-a-fil/
 image: images/glossar/fil-a-fil.png
 image_alt: Close view of pale blue and white fil-à-fil shirt fabric
 relatedTerms:

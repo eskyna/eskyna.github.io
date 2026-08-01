@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/bar-cocktail-look/
 aliases:
-  - /en/glossar/bar-cocktail-look/
-  - /glossary/bar-cocktail-look/
+  - /glossar/bar-cocktail-look/
 image: images/glossar/bar-cocktail-look.png
 image_alt: "Polished evening outfit with a tailored blazer, satin top, dark trousers, and small shoulder bag"
 relatedTerms:

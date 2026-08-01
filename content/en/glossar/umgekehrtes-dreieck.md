@@ -21,8 +21,7 @@ keywords:
 slug: inverted-triangle
 url: /en/glossary/inverted-triangle/
 aliases:
-  - /en/glossar/umgekehrtes-dreieck/
-  - /glossary/inverted-triangle/
+  - /glossar/umgekehrtes-dreieck/
 image_alt: Editorial illustration showing an inverted triangle body shape with broader shoulders and a narrower hip line
 relatedTerms:
   - title: Body Shape

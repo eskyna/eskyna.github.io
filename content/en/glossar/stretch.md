@@ -24,8 +24,7 @@ keywords:
 slug: stretch
 url: /en/glossary/stretch/
 aliases:
-  - /en/glossar/stretch/
-  - /glossary/stretch/
+  - /glossar/stretch/
 image_alt: Editorial glossary illustration showing a stretch fabric being gently pulled
 relatedTerms:
   - title: Elastane

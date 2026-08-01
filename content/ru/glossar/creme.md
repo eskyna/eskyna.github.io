@@ -37,8 +37,7 @@ seoTitle: "Кремовый цвет: что это и с чем сочетат�
 slug: krem
 url: /rus/glossariy/krem/
 aliases:
-  - /rus/glossar/creme/
-  - /ru/glossar/creme/
+  - /glossar/creme/
 lastmod: "2026-07-09"
 knowledge:
   - Кремовый цвет обычно воспринимается мягче и теплее, чем чистый белый.

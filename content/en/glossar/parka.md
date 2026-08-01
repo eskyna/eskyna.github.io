@@ -21,8 +21,7 @@ keywords:
 slug: parka
 url: /en/glossary/parka/
 aliases:
-  - /en/glossar/parka/
-  - /glossary/parka/
+  - /glossar/parka/
 image_alt: Hooded parka jacket styled as practical everyday outerwear
 relatedTerms:
   - title: Anorak

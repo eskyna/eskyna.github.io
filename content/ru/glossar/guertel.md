@@ -35,8 +35,7 @@ seoTitle: "Ремень: значение, виды и применение в �
 slug: remen
 url: /rus/glossariy/remen/
 aliases:
-  - /rus/glossar/guertel/
-  - /ru/glossar/guertel/
+  - /glossar/guertel/
 lastmod: "2026-07-09"
 history:
   - Ремни и пояса издавна использовали как практичную деталь для фиксации одежды и переноски небольших предметов.

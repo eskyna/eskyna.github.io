@@ -35,8 +35,7 @@ seoTitle: "Сандалии: что это, как выбрать и с чем �
 slug: sandalii
 url: /rus/glossariy/sandalii/
 aliases:
-  - /rus/glossar/sandale/
-  - /ru/glossar/sandale/
+  - /glossar/sandale/
 lastmod: "2026-07-09"
 history:
   - "Сандалии относятся к числу древнейших видов обуви: простая подошва, закреплённая ремешками, была практична в жарком климате."

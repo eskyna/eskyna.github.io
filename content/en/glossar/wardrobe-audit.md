@@ -21,8 +21,7 @@ keywords:
 slug: wardrobe-audit
 url: /en/glossary/wardrobe-audit/
 aliases:
-  - /en/glossar/wardrobe-audit/
-  - /glossary/wardrobe-audit/
+  - /glossar/wardrobe-audit/
 image_alt: Editorial glossary illustration showing a considered wardrobe audit with sorted clothing
 relatedTerms:
   - title: Wardrobe Check

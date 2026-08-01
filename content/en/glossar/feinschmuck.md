@@ -22,8 +22,7 @@ keywords:
 slug: fine-jewelry
 url: /en/glossary/fine-jewelry/
 aliases:
-  - /en/glossar/feinschmuck/
-  - /glossary/fine-jewelry/
+  - /glossar/feinschmuck/
 image_alt: Editorial glossary illustration of fine jewelry with precious metal and gemstone details
 relatedTerms:
   - title: Costume Jewelry

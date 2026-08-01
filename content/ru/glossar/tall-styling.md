@@ -34,9 +34,8 @@ seoTitle: "Стайлинг для высокого роста | ESKYNA"
 slug: stayling-dlya-vysokogo-rosta
 url: /rus/glossariy/stayling-dlya-vysokogo-rosta/
 aliases:
-  - /rus/glossar/tall-styling/
-  - /ru/glossar/tall-styling/
-  - /rus/glossariy/tall-styling/
+  - /glossar/tall-styling/
+  - /glossariy/tall-styling/
 image_alt: "Иллюстрация ESKYNA о выборе пропорций и длины одежды для высокого роста"
 lastmod: "2026-07-09"
 knowledge:

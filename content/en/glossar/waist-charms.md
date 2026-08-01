@@ -21,8 +21,7 @@ keywords:
 slug: waist-charms
 url: /en/glossary/waist-charms/
 aliases:
-  - /en/glossar/waist-charms/
-  - /glossary/waist-charms/
+  - /glossar/waist-charms/
 relatedTerms:
   - title: Belt
     url: /en/glossar/guertel/

@@ -8,8 +8,7 @@ image_alt: Sleeveless knitted sweater vest layered over a shirt
 slug: pullunder
 url: /en/glossary/pullunder/
 aliases:
-  - /en/glossar/pullunder/
-  - /glossary/pullunder/
+  - /glossar/pullunder/
 tags:
   - sweater vest
   - knitwear

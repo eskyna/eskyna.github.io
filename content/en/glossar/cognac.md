@@ -22,8 +22,7 @@ keywords:
 slug: cognac
 url: /en/glossary/cognac/
 aliases:
-  - /en/glossar/cognac/
-  - /glossary/cognac/
+  - /glossar/cognac/
 relatedTerms:
   - title: "Camel"
     url: /en/glossar/camel/

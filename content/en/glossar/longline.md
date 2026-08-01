@@ -21,8 +21,7 @@ keywords:
 slug: longline
 url: /en/glossary/longline/
 aliases:
-  - /en/glossar/longline/
-  - /glossary/longline/
+  - /glossar/longline/
 image_alt: Editorial illustration showing a longline blazer with an extended hem
 relatedTerms:
   - title: Proportion

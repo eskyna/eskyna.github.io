@@ -5,8 +5,7 @@ description: "Романтический стилевой контраст эт�
 slug: romantischer-stilbruch
 url: /rus/glossariy/romantischer-stilbruch/
 aliases:
-  - /rus/glossar/romantischer-stilbruch/
-  - /ru/glossar/romantischer-stilbruch/
+  - /glossar/romantischer-stilbruch/
 category: Стиль и впечатление
 tags:
   - романтический-стиль

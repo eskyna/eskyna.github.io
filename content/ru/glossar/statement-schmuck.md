@@ -35,8 +35,7 @@ seoTitle: "Акцентные украшения: что это и как нос
 slug: aktsentnye-ukrasheniya
 url: /rus/glossariy/aktsentnye-ukrasheniya/
 aliases:
-  - /rus/glossar/statement-schmuck/
-  - /ru/glossar/statement-schmuck/
+  - /glossar/statement-schmuck/
 lastmod: "2026-07-09"
 knowledge:
   - Акцентным украшение делает не только размер, но и контраст с одеждой, блеск, цвет, необычная форма или скульптурный объем.

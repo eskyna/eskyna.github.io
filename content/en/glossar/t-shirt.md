@@ -22,8 +22,7 @@ keywords:
 slug: t-shirt
 url: /en/glossary/t-shirt/
 aliases:
-  - /en/glossar/t-shirt/
-  - /glossary/t-shirt/
+  - /glossar/t-shirt/
 image_alt: Editorial illustration of a classic white crew-neck T-shirt
 relatedTerms:
   - title: Basic

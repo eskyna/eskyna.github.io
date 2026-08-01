@@ -21,8 +21,7 @@ keywords:
 slug: bodycon-dress
 url: /en/glossary/bodycon-dress/
 aliases:
-  - /en/glossar/bodycon-dress/
-  - /glossary/bodycon-dress/
+  - /glossar/bodycon-dress/
 image_alt: Close-fitting bodycon dress with a smooth, body-skimming silhouette
 relatedTerms:
   - title: Bodycon

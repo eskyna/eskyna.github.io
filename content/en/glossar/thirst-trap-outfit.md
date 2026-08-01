@@ -4,8 +4,7 @@ term: "Thirst Trap Outfit"
 slug: "thirst-trap-outfit"
 url: "/en/glossary/thirst-trap-outfit/"
 aliases:
-  - "/en/glossar/thirst-trap-outfit/"
-  - "/glossary/thirst-trap-outfit/"
+  - /glossar/thirst-trap-outfit/
 description: "A thirst trap outfit is a deliberately styled, body-conscious look designed to create visual attention and attraction, especially in photos or social media content."
 category: "Style & Impact"
 tags:

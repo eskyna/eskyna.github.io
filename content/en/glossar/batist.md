@@ -9,8 +9,7 @@ image: "images/glossar/batist.png"
 image_alt: "Fine white batiste fabric with a light, airy texture"
 url: /en/glossary/batist/
 aliases:
-  - /en/glossar/batist/
-  - /glossary/batist/
+  - /glossar/batist/
 tags:
   - batiste
   - lightweight fabric

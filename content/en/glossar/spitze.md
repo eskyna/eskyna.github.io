@@ -21,8 +21,7 @@ keywords:
 slug: lace
 url: /en/glossary/lace/
 aliases:
-  - /en/glossar/spitze/
-  - /glossary/lace/
+  - /glossar/spitze/
 image_alt: Delicate floral lace fabric with an openwork pattern
 relatedTerms:
   - title: Transparency

@@ -36,9 +36,8 @@ seoTitle: "Пейсли: значение узора и как его носит
 slug: peysli
 url: /rus/glossariy/peysli/
 aliases:
-  - /rus/glossar/paisley/
-  - /ru/glossar/paisley/
-  - /rus/glossariy/paisley/
+  - /glossar/paisley/
+  - /glossariy/paisley/
 lastmod: "2026-07-09"
 history:
   - Мотив пейсли связан с восточным орнаментом boteh, известным в персидской и индийской художественной традиции.

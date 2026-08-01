@@ -14,8 +14,7 @@ keywords:
 slug: ombre
 url: /rus/glossariy/ombre/
 aliases:
-  - /rus/glossar/ombre/
-  - /ru/glossar/ombre/
+  - /glossar/ombre/
 relatedTerms:
   - title: "Цвет"
     url: /ru/glossar/farbe/

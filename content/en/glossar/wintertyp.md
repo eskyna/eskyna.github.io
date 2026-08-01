@@ -21,8 +21,7 @@ keywords:
 slug: winter-color-type
 url: /en/glossary/winter-color-type/
 aliases:
-  - /en/glossar/wintertyp/
-  - /glossary/winter-color-type/
+  - /glossar/wintertyp/
 image_alt: Editorial glossary illustration showing a cool, high-contrast Winter Color Type palette with black, white, cobalt blue, fuchsia, and emerald green
 relatedTerms:
   - title: Color Consultation

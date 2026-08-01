@@ -18,8 +18,7 @@ weight: 999
 slug: kombinations-koeffizient
 url: /en/glossary/kombinations-koeffizient/
 aliases:
-  - /en/glossar/kombinations-koeffizient/
-  - /glossary/kombinations-koeffizient/
+  - /glossar/kombinations-koeffizient/
 image: images/glossar/kombinations-koeffizient.png
 image_alt: "Neutral blazer styled with trousers, jeans, skirts, and different tops"
 relatedTerms:

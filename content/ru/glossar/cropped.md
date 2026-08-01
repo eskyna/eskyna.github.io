@@ -36,8 +36,7 @@ seoTitle: "Укороченный крой: что это и как носить
 slug: ukorochennyy
 url: /rus/glossariy/ukorochennyy/
 aliases:
-  - /rus/glossar/cropped/
-  - /ru/glossar/cropped/
+  - /glossar/cropped/
 lastmod: "2026-07-09"
 knowledge:
   - Укороченный крой может относиться к верху, жакету, куртке, брюкам, джинсам и другим предметам одежды.

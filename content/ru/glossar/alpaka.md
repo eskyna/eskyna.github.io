@@ -15,8 +15,7 @@ keywords:
 slug: alpaka
 url: /rus/glossariy/alpaka/
 aliases:
-  - /rus/glossar/alpaka/
-  - /ru/glossar/alpaka/
+  - /glossar/alpaka/
 tags:
   - "альпака"
   - "натуральные волокна"

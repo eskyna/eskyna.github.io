@@ -35,8 +35,8 @@ seoTitle: "Хаки: что это за цвет и с чем его носит�
 slug: haki
 url: /ru/glossar/khaki/
 aliases:
-  - /rus/glossariy/haki/
-  - /rus/glossar/khaki/
+  - /glossariy/haki/
+  - /glossar/khaki/
 lastmod: "2026-07-09"
 history:
   - Слово «хаки» пришло в европейские языки из урду и восходит к персидскому слову со значением «пыль».

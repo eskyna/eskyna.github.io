@@ -23,8 +23,7 @@ keywords:
 slug: saturation
 url: /en/glossary/saturation/
 aliases:
-  - /en/glossar/saettigung/
-  - /glossary/saturation/
+  - /glossar/saettigung/
 image_alt: Editorial color illustration showing vivid and muted shades to explain saturation
 relatedTerms:
   - title: Clear Colors

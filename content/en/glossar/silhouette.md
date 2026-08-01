@@ -20,8 +20,7 @@ keywords:
 slug: silhouette
 url: /en/glossary/silhouette/
 aliases:
-  - /en/glossar/silhouette/
-  - /glossary/silhouette/
+  - /glossar/silhouette/
 image_alt: Editorial illustration showing different fashion silhouettes created through cut, volume, and proportion
 relatedTerms:
   - title: Cut

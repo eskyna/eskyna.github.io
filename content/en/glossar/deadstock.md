@@ -14,8 +14,7 @@ keywords:
 slug: deadstock
 url: /en/glossary/deadstock/
 aliases:
-  - /en/glossar/deadstock/
-  - /glossary/deadstock/
+  - /glossar/deadstock/
 relatedTerms:
   - title: "Circular Fashion"
     url: /en/glossar/circular-fashion/

@@ -36,9 +36,8 @@ seoTitle: "Твил: что это за ткань и где её использ
 slug: tvil
 url: /ru/glossar/twill/
 aliases:
-  - /rus/glossar/twill/
-  - /ru/glossar/twill/
-  - /rus/glossariy/twill/
+  - /glossar/twill/
+  - /glossariy/twill/
 lastmod: "2026-07-09"
 history:
   - Саржевое переплетение относится к давним базовым способам ткачества и узнаётся по диагональному направлению рубчика.

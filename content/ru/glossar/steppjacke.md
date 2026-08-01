@@ -35,8 +35,7 @@ seoTitle: "Стёганая куртка: значение и применени
 slug: styoganaya-kurtka
 url: /ru/glossar/steppjacke/
 aliases:
-  - /rus/glossar/steppjacke/
-  - /ru/glossar/steppjacke/
+  - /glossar/steppjacke/
 lastmod: "2026-07-09"
 knowledge:
   - Стёжка соединяет внешний материал, утеплитель и подкладку, поэтому наполнитель меньше смещается при носке и уходе.

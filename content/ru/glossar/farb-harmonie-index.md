@@ -4,8 +4,7 @@ term: "Индекс цветовой гармонии"
 slug: "farb-harmonie-index"
 url: "/rus/glossariy/farb-harmonie-index/"
 aliases:
-  - "/rus/glossar/farb-harmonie-index/"
-  - "/ru/glossar/farb-harmonie-index/"
+  - /glossar/farb-harmonie-index/
 description: "Индекс цветовой гармонии описывает, насколько согласованно в образе работают основные, второстепенные и акцентные цвета. Это практический ориентир, который помогает собирать цельные комплекты без случайных цветовых конфликтов."
 category: "Консультация по цвету и цвет"
 tags:

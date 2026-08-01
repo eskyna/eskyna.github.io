@@ -9,8 +9,7 @@ image: "images/glossar/blokecore.png"
 image_alt: "Blokecore outfit with a football jersey, straight-leg jeans, trainers, and casual layers"
 url: /en/glossary/blokecore/
 aliases:
-  - /en/glossar/blokecore/
-  - /glossary/blokecore/
+  - /glossar/blokecore/
 tags:
   - blokecore
   - football fashion

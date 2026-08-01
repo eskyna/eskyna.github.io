@@ -21,8 +21,7 @@ keywords:
 slug: camisole
 url: /en/glossary/camisole/
 aliases:
-  - /en/glossar/camisole/
-  - /glossary/camisole/
+  - /glossar/camisole/
 image_alt: Lightweight camisole top with narrow straps, shown as a versatile layering piece
 relatedTerms:
   - title: Tanktop

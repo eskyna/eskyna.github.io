@@ -20,8 +20,7 @@ keywords:
 slug: radiance
 url: /en/glossary/radiance/
 aliases:
-  - /en/glossar/ausstrahlung/
-  - /glossary/radiance/
+  - /glossar/ausstrahlung/
 image_alt: Editorial illustration representing radiance through clear color, confident posture, and harmonious styling
 relatedTerms:
   - title: Presence

@@ -34,9 +34,8 @@ seoTitle: "Стилевая рутина: что это и как создать
 slug: stilevaya-rutina
 url: /ru/glossar/stilroutine/
 aliases:
-  - /rus/glossar/stilroutine/
-  - /ru/glossar/stilroutine/
-  - /rus/glossariy/stilevaya-rutina/
+  - /glossar/stilroutine/
+  - /glossariy/stilevaya-rutina/
 lastmod: "2026-07-09"
 knowledge:
   - "Стилевая рутина не требует одинаковой одежды каждый день. Она строится на повторяемых принципах: подходящих силуэтах, цветах, сочетаниях и уровнях формальности."

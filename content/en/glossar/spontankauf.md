@@ -20,8 +20,7 @@ keywords:
 slug: impulse-purchase
 url: /en/glossary/impulse-purchase/
 aliases:
-  - /en/glossar/spontankauf/
-  - /glossary/impulse-purchase/
+  - /glossar/spontankauf/
 image_alt: A shopper considering an unplanned clothing purchase in a boutique
 relatedTerms:
   - title: Impulse Purchase

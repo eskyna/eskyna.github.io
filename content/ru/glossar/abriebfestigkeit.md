@@ -9,8 +9,7 @@ image: "images/glossar/abriebfestigkeit.png"
 image_alt: "Иллюстрация износостойкости ткани и зон трения на одежде"
 url: /rus/glossariy/abriebfestigkeit/
 aliases:
-  - /rus/glossar/abriebfestigkeit/
-  - /ru/glossar/abriebfestigkeit/
+  - /glossar/abriebfestigkeit/
 tags:
   - износостойкость
   - качество одежды

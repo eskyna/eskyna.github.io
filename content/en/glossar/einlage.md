@@ -22,8 +22,7 @@ keywords:
 slug: interfacing
 url: /en/glossary/interfacing/
 aliases:
-  - /en/glossar/einlage/
-  - /glossary/interfacing/
+  - /glossar/einlage/
 image_alt: Editorial illustration showing interfacing used inside a garment collar and button placket
 relatedTerms:
   - title: Inner Construction

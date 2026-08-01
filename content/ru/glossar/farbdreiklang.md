@@ -9,8 +9,7 @@ image: "images/glossar/farbdreiklang.png"
 image_alt: "Иллюстрация цветовой триады на цветовом круге"
 url: /rus/glossariy/farbdreiklang/
 aliases:
-  - /rus/glossar/farbdreiklang/
-  - /ru/glossar/farbdreiklang/
+  - /glossar/farbdreiklang/
 tags:
   - цветовая-триада
   - сочетание-цветов

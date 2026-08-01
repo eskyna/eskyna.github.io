@@ -4,8 +4,7 @@ term: "Центрирование груди"
 slug: buesten-zentrierung
 url: /rus/glossariy/buesten-zentrierung/
 aliases:
-  - /rus/glossar/buesten-zentrierung/
-  - /ru/glossar/buesten-zentrierung/
+  - /glossar/buesten-zentrierung/
 description: "Центрирование груди это приём в конструкции белья и крое одежды, который визуально направляет грудь ближе к центру и слегка вверх. Он помогает сделать силуэт собраннее, подчеркнуть талию и создать более чёткую вертикаль."
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:

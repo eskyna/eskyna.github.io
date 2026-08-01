@@ -22,8 +22,7 @@ keywords:
 slug: pilling
 url: /en/glossary/pilling/
 aliases:
-  - /en/glossar/pilling/
-  - /glossary/pilling/
+  - /glossar/pilling/
 image_alt: Close-up illustration of small fiber pills on the surface of a knit garment
 relatedTerms:
   - title: Fabric Shaver

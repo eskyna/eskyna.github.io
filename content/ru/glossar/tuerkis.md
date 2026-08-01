@@ -35,8 +35,7 @@ seoTitle: "Бирюзовый: значение цвета и сочетания
 slug: biryuzovyy
 url: /rus/glossariy/biryuzovyy/
 aliases:
-  - /rus/glossar/tuerkis/
-  - /ru/glossar/tuerkis/
+  - /glossar/tuerkis/
 lastmod: "2026-07-09"
 knowledge:
   - Бирюзовый объединяет свойства синего и зелёного, поэтому может восприниматься как прохладный, свежий, природный или более насыщенный и акцентный.

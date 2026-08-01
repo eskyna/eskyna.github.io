@@ -9,8 +9,7 @@ image: "images/glossar/keilabsatz.png"
 image_alt: "Illustration of shoes with a continuous wedge heel from heel to sole"
 url: /en/glossary/keilabsatz/
 aliases:
-  - /en/glossar/keilabsatz/
-  - /glossary/keilabsatz/
+  - /glossar/keilabsatz/
 tags:
   - wedge heel
   - shoes

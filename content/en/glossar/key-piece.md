@@ -21,8 +21,7 @@ keywords:
 slug: key-piece
 url: /en/glossary/key-piece/
 aliases:
-  - /en/glossar/key-piece/
-  - /glossary/key-piece/
+  - /glossar/key-piece/
 image_alt: Editorial illustration of a versatile key piece styled into several everyday outfits
 relatedTerms:
   - title: Combination Piece

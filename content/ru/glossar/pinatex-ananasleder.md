@@ -20,8 +20,7 @@ weight: 999
 slug: "pinatex-ananasleder"
 url: "/rus/glossariy/pinatex-ananasleder/"
 aliases:
-  - "/rus/glossar/pinatex-ananasleder/"
-  - "/ru/glossar/pinatex-ananasleder/"
+  - /glossar/pinatex-ananasleder/
 image: "images/glossar/pinatex-ananasleder.png"
 image_alt: "Фактурный материал Piñatex бежевого оттенка крупным планом"
 relatedTerms:

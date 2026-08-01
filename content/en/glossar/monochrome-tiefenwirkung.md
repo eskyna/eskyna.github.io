@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/monochrome-tiefenwirkung/"
 aliases:
-  - "/en/glossar/monochrome-tiefenwirkung/"
-  - "/glossary/monochrome-tiefenwirkung/"
+  - /glossar/monochrome-tiefenwirkung/
 image: "images/glossar/monochrome-tiefenwirkung.png"
 image_alt: "A cream monochrome outfit combining a knit sweater, tailored trousers, and smooth leather shoes"
 relatedTerms:

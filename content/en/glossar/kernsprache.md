@@ -21,8 +21,7 @@ keywords:
 slug: core-language
 url: /en/glossary/core-language/
 aliases:
-  - /en/glossar/kernsprache/
-  - /glossary/core-language/
+  - /glossar/kernsprache/
 image_alt: Editorial glossary illustration representing Core Language as a clear, coherent personal style direction
 relatedTerms:
   - title: Personal Style

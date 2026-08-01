@@ -22,8 +22,7 @@ keywords:
 slug: shorts
 url: /en/glossary/shorts/
 aliases:
-  - /en/glossar/shorts/
-  - /glossary/shorts/
+  - /glossar/shorts/
 image_alt: Editorial glossary illustration showing different shorts silhouettes and lengths
 relatedTerms:
   - title: Bermuda Shorts

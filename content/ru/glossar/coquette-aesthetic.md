@@ -9,8 +9,7 @@ image: "images/glossar/coquette-aesthetic.png"
 image_alt: "Иллюстрация образа в эстетике Coquette Aesthetic с бантами, кружевом и нежными деталями"
 url: /rus/glossariy/coquette-aesthetic/
 aliases:
-  - /rus/glossar/coquette-aesthetic/
-  - /ru/glossar/coquette-aesthetic/
+  - /glossar/coquette-aesthetic/
 tags:
   - coquette aesthetic
   - эстетика кокетки

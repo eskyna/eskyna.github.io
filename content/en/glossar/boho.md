@@ -22,8 +22,7 @@ keywords:
 slug: boho
 url: /en/glossary/boho/
 aliases:
-  - /en/glossar/boho/
-  - /glossary/boho/
+  - /glossar/boho/
 image_alt: Editorial illustration of a relaxed boho outfit with flowing layers, natural textures, and decorative accessories
 relatedTerms:
   - title: Romantic Style

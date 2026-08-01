@@ -34,8 +34,8 @@ seoTitle: "Юбка с запахом | ESKYNA Glossary"
 slug: yubka-s-zapahom
 url: /ru/glossar/wickelrock/
 aliases:
-  - /rus/glossar/wickelrock/
-  - /rus/glossariy/yubka-s-zapahom/
+  - /glossar/wickelrock/
+  - /glossariy/yubka-s-zapahom/
 lastmod: "2026-07-09"
 knowledge:
   - Запах может быть настоящим, когда юбка действительно раскрывается, или имитацией, когда диагональная деталь пришита поверх основы.

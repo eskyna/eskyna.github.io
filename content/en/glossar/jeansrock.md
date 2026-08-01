@@ -20,8 +20,7 @@ keywords:
 slug: denim-skirt
 url: /en/glossary/denim-skirt/
 aliases:
-  - /en/glossar/jeansrock/
-  - /glossary/denim-skirt/
+  - /glossar/jeansrock/
 image_alt: Blue denim skirt with a front button placket and visible seams
 relatedTerms:
   - title: Denim

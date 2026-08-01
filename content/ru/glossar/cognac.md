@@ -22,8 +22,7 @@ keywords:
 slug: cognac
 url: /rus/glossariy/cognac/
 aliases:
-  - /rus/glossar/cognac/
-  - /ru/glossar/cognac/
+  - /glossar/cognac/
 relatedTerms:
   - title: "Коричневый"
     url: /ru/glossar/braun/

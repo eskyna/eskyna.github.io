@@ -4,8 +4,7 @@ term: Будуарный гламур
 slug: boudoir-glamour
 url: /rus/glossariy/boudoir-glamour/
 aliases:
-  - /rus/glossar/boudoir-glamour/
-  - /ru/glossar/boudoir-glamour/
+  - /glossar/boudoir-glamour/
 description: "Будуарный гламур это нарядный стиль с отсылками к приватной эстетике будуара: шёлку, кружеву, мягкому блеску и изящным бельевым деталям. Узнайте, как использовать его в вечернем образе деликатно и уместно."
 category: Стиль и впечатление
 tags:

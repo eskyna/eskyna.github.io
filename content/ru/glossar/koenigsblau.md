@@ -22,8 +22,7 @@ keywords:
 slug: koenigsblau
 url: /rus/glossariy/koenigsblau/
 aliases:
-  - /rus/glossar/koenigsblau/
-  - /ru/glossar/koenigsblau/
+  - /glossar/koenigsblau/
 relatedTerms:
   - title: "Синий"
     url: /ru/glossar/blau/

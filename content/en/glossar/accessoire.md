@@ -23,8 +23,7 @@ keywords:
 slug: accessory
 url: /en/glossary/accessory/
 aliases:
-  - /en/glossar/accessoire/
-  - /glossary/accessory/
+  - /glossar/accessoire/
 image_alt: Editorial illustration of fashion accessories including a handbag, scarf, belt, jewelry, and sunglasses
 relatedTerms:
   - title: Belt

@@ -34,8 +34,7 @@ seoTitle: "Воротник-пузырь: что это и как носить |
 slug: vorotnik-puzyr
 url: /rus/glossariy/vorotnik-puzyr/
 aliases:
-  - /rus/glossar/bubikragen/
-  - /ru/glossar/bubikragen/
+  - /glossar/bubikragen/
 lastmod: "2026-07-09"
 knowledge:
   - Объёмный воротник привлекает внимание к лицу, шее и плечевой зоне, поэтому заметно влияет на первое впечатление от образа.

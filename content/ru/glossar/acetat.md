@@ -15,8 +15,7 @@ keywords:
 slug: acetat
 url: /rus/glossariy/acetat/
 aliases:
-  - /rus/glossar/acetat/
-  - /ru/glossar/acetat/
+  - /glossar/acetat/
 tags:
   - материалы
   - целлюлозные волокна

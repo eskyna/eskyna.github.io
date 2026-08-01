@@ -34,8 +34,7 @@ seoTitle: "Аналогичные цвета: как сочетать в оде�
 slug: analogichnye-tsveta
 url: /rus/glossariy/analogichnye-tsveta/
 aliases:
-  - /rus/glossar/analogfarben/
-  - /ru/glossar/analogfarben/
+  - /glossar/analogfarben/
 lastmod: "2026-07-09"
 knowledge:
   - Аналогичные цвета находятся рядом друг с другом на цветовом круге, например синий, сине-зелёный и зелёный.

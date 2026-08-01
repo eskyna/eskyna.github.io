@@ -4,8 +4,7 @@ term: Бикини-трансформер
 slug: multiway-bikini
 url: /rus/glossariy/multiway-bikini/
 aliases:
-  - /rus/glossar/multiway-bikini/
-  - /ru/glossar/multiway-bikini/
+  - /glossar/multiway-bikini/
 description: "Бикини-трансформер, или Multiway-Bikini, это купальный верх с регулируемыми бретелями или завязками, который можно носить несколькими способами. Разные варианты фиксации помогают менять степень поддержки, открытость плеч и визуальный акцент в зоне декольте."
 category: Белье, бюстгальтеры и стилистические помощники
 tags:

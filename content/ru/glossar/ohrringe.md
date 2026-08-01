@@ -34,8 +34,7 @@ seoTitle: "Серьги: что это такое и как они влияют 
 slug: sergi
 url: /ru/glossar/ohrringe/
 aliases:
-  - /rus/glossar/ohrringe/
-  - /ru/glossar/ohrringe/
+  - /glossar/ohrringe/
 lastmod: "2026-07-09"
 knowledge:
   - Серьги находятся в зоне лица, поэтому их цвет, масштаб и блеск заметнее многих других аксессуаров.

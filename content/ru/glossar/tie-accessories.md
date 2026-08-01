@@ -33,10 +33,9 @@ seoTitle: "Аксессуары для галстука | ESKYNA"
 slug: aksessuary-dlya-galstuka
 url: /ru/glossar/tie-accessories/
 aliases:
-  - /rus/glossar/tie-accessories/
-  - /ru/glossar/tie-accessories/
-  - /rus/glossariy/tie-accessories/
-  - /rus/glossariy/aksessuary-dlya-galstuka/
+  - /glossar/tie-accessories/
+  - /glossariy/tie-accessories/
+  - /glossariy/aksessuary-dlya-galstuka/
 image_alt: "Галстук, галстук-бабочка и лента как аксессуары для образа"
 lastmod: "2026-07-09"
 knowledge:

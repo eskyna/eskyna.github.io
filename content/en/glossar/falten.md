@@ -21,8 +21,7 @@ keywords:
 slug: pleats
 url: /en/glossary/pleats/
 aliases:
-  - /en/glossar/falten/
-  - /glossary/pleats/
+  - /glossar/falten/
 image_alt: Editorial illustration showing structured folds in pleated fabric
 relatedTerms:
   - title: Pleated Fabric

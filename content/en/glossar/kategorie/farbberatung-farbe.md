@@ -7,8 +7,8 @@ glossar_category: Color Consultation & Color
 url: /en/glossary/category/color-consultation-color/
 seoTitle: Color Consultation & Color | ESKYNA Glossary
 aliases:
-  - /en/glossar/kategorie/farbberatung-farbe/
-  - /glossary/category/color-consultation-color/
+  - /glossar/kategorie/farbberatung-farbe/
+  - /glossar/farbberatung-farbe/
 keywords:
   - color consultation
   - personal color analysis

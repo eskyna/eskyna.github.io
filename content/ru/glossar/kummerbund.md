@@ -20,8 +20,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/kummerbund/
 aliases:
-  - /rus/glossar/kummerbund/
-  - /ru/glossar/kummerbund/
+  - /glossar/kummerbund/
 image: images/glossar/kummerbund.png
 image_alt: Чёрный камербанд со складками для образа со смокингом
 relatedTerms:

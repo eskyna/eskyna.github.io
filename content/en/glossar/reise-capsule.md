@@ -23,8 +23,7 @@ keywords:
 slug: travel-capsule
 url: /en/glossary/travel-capsule/
 aliases:
-  - /en/glossar/reise-capsule/
-  - /glossary/travel-capsule/
+  - /glossar/reise-capsule/
 image_alt: Coordinated travel capsule wardrobe with versatile clothing, shoes, and accessories arranged for packing
 relatedTerms:
   - title: Capsule Wardrobe

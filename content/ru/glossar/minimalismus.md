@@ -37,8 +37,7 @@ seoTitle: "Минимализм в одежде | ESKYNA Glossary"
 slug: minimalizm
 url: /rus/glossariy/minimalizm/
 aliases:
-  - /rus/glossar/minimalismus/
-  - /ru/glossar/minimalismus/
+  - /glossar/minimalismus/
 lastmod: "2026-07-09"
 history:
   - Минимализм в моде связан с более широкими идеями модернизма, где ценились ясная форма, функциональность и отказ от избыточного декора.

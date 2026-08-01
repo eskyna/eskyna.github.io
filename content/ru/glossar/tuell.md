@@ -34,8 +34,7 @@ seoTitle: "Тюль: что это за ткань и как её использ
 slug: tyul
 url: /rus/glossariy/tyul/
 aliases:
-  - /rus/glossar/tuell/
-  - /ru/glossar/tuell/
+  - /glossar/tuell/
 lastmod: "2026-07-09"
 history:
   - Сетчатые материалы издавна использовали для вуалей, головных уборов и декоративных слоёв одежды.

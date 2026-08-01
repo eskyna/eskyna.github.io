@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/dominatrix-chic/"
 aliases:
-  - "/en/glossar/dominatrix-chic/"
-  - "/glossary/dominatrix-chic/"
+  - /glossar/dominatrix-chic/
 image: "images/glossar/dominatrix-chic.png"
 image_alt: "Black leather-look corset top styled with tall boots and a choker"
 relatedTerms:

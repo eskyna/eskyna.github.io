@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/wrap-bikini/"
 aliases:
-  - "/en/glossar/wrap-bikini/"
-  - "/glossary/wrap-bikini/"
+  - /glossar/wrap-bikini/
 image: "images/glossar/wrap-bikini.png"
 image_alt: "Bikini top with long ties wrapped around the waist"
 relatedTerms:

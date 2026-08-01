@@ -21,8 +21,7 @@ keywords:
 slug: cost-per-wear
 url: /en/glossary/cost-per-wear/
 aliases:
-  - /en/glossar/cost-per-wear/
-  - /glossary/cost-per-wear/
+  - /glossar/cost-per-wear/
 image_alt: Editorial illustration showing the cost per wear calculation for a versatile wardrobe piece
 relatedTerms:
   - title: Cost-Per-Wear Strategy

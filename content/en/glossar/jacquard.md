@@ -21,8 +21,7 @@ keywords:
 slug: jacquard
 url: /en/glossary/jacquard/
 aliases:
-  - /en/glossar/jacquard/
-  - /glossary/jacquard/
+  - /glossar/jacquard/
 image_alt: Close view of jacquard fabric with a woven raised pattern
 relatedTerms:
   - title: Damask

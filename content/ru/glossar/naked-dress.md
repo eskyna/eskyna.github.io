@@ -9,8 +9,7 @@ image: "images/glossar/naked-dress.png"
 image_alt: "Иллюстрация платья Naked Dress с эффектом прозрачности и телесной основы"
 url: /rus/glossariy/naked-dress/
 aliases:
-  - /rus/glossar/naked-dress/
-  - /ru/glossar/naked-dress/
+  - /glossar/naked-dress/
 tags:
   - naked-dress
   - прозрачное-платье

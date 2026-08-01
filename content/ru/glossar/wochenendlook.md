@@ -34,8 +34,7 @@ seoTitle: "Образ на выходные | ESKYNA Glossary"
 slug: obraz-na-vyhodnye
 url: /rus/glossariy/obraz-na-vyhodnye/
 aliases:
-  - /rus/glossar/wochenendlook/
-  - /ru/glossar/wochenendlook/
+  - /glossar/wochenendlook/
 lastmod: "2026-07-09"
 knowledge:
   - Образ на выходные не является строгим дресс-кодом. Его формальность определяется планами, местом, погодой и вашим привычным стилем.

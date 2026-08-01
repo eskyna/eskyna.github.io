@@ -22,8 +22,7 @@ keywords:
 slug: undertone
 url: /en/glossary/undertone/
 aliases:
-  - /en/glossar/unterton/
-  - /glossary/undertone/
+  - /glossar/unterton/
 image_alt: Editorial illustration showing warm, cool, neutral, and olive undertones
 relatedTerms:
   - title: Color Temperature

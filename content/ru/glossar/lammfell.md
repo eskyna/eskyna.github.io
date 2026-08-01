@@ -34,8 +34,7 @@ seoTitle: "Овчина: что это такое, свойства и прим�
 slug: ovchina
 url: /rus/glossariy/ovchina/
 aliases:
-  - /rus/glossar/lammfell/
-  - /ru/glossar/lammfell/
+  - /glossar/lammfell/
 lastmod: "2026-07-09"
 history:
   - Овчина относится к традиционным материалам для тёплой одежды и обуви в регионах с холодным климатом.

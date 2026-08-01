@@ -14,8 +14,7 @@ keywords:
 slug: dopamine-dressing
 url: /en/glossary/dopamine-dressing/
 aliases:
-  - /en/glossar/dopamine-dressing/
-  - /glossary/dopamine-dressing/
+  - /glossar/dopamine-dressing/
 tags:
   - "dopamine dressing"
   - "personal style"

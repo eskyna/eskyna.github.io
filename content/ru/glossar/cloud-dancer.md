@@ -32,9 +32,9 @@ seoTitle: "Клауд Дэнсер | ESKYNA Glossary"
 slug: klaud-denser
 url: /ru/glossar/cloud-dancer/
 aliases:
-  - /rus/glossar/cloud-dancer/
-  - /rus/glossariy/klaud-denser/
-  - /rus/glossariy/cloud-dancer/
+  - /glossar/cloud-dancer/
+  - /glossariy/klaud-denser/
+  - /glossariy/cloud-dancer/
 image_alt: "Светлый мягкий оттенок белого Клауд Дэнсер в иллюстрации глоссария ESKYNA"
 lastmod: "2026-07-09"
 knowledge:

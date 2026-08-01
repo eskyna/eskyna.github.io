@@ -21,8 +21,7 @@ keywords:
 slug: minimalism
 url: /en/glossary/minimalism/
 aliases:
-  - /en/glossar/minimalismus/
-  - /glossary/minimalism/
+  - /glossar/minimalismus/
 image_alt: Editorial illustration of a minimalist outfit in neutral colors with clean lines
 relatedTerms:
   - title: Quiet Luxury

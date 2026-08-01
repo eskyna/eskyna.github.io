@@ -9,8 +9,7 @@ image: "images/glossar/slip-on.png"
 image_alt: "Glossary illustration of a laceless slip-on shoe"
 url: /en/glossary/slip-on/
 aliases:
-  - /en/glossar/slip-on/
-  - /glossary/slip-on/
+  - /glossar/slip-on/
 tags:
   - slip-on shoes
   - laceless shoes

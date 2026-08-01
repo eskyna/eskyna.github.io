@@ -21,8 +21,7 @@ keywords:
 slug: vertical-stripes
 url: /en/glossary/vertical-stripes/
 aliases:
-  - /en/glossar/laengsstreifen/
-  - /glossary/vertical-stripes/
+  - /glossar/laengsstreifen/
 image_alt: Editorial illustration of a garment with narrow vertical stripes
 relatedTerms:
   - title: Stripes

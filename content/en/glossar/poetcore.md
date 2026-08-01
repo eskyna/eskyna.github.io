@@ -21,8 +21,7 @@ keywords:
 slug: potcore
 url: /en/glossary/potcore/
 aliases:
-  - /en/glossar/poetcore/
-  - /glossary/potcore/
+  - /glossar/poetcore/
 image_alt: Editorial illustration of a poetic romantic outfit with soft layers, vintage-inspired details, and flowing fabrics
 relatedTerms:
   - title: Romantic Style

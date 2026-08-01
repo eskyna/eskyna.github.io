@@ -5,8 +5,7 @@ description: "Контраст фактур, или Textur-Kontrastierung, эт�
 slug: "textur-kontrastierung"
 url: "/rus/glossariy/textur-kontrastierung/"
 aliases:
-  - "/rus/glossar/textur-kontrastierung/"
-  - "/ru/glossar/textur-kontrastierung/"
+  - /glossar/textur-kontrastierung/
 category: "Материалы и детали"
 tags:
   - "контраст фактур"

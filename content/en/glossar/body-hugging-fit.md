@@ -4,8 +4,7 @@ term: "Body-Hugging Fit"
 description: "A body-hugging fit is an extremely close garment fit that follows the body’s contours with a second-skin effect. Learn how it differs from slim fit and bodycon clothing, how to assess comfort, and how to style it."
 url: "/en/glossary/body-hugging-fit/"
 aliases:
-  - "/en/glossar/body-hugging-fit/"
-  - "/glossary/body-hugging-fit/"
+  - /glossar/body-hugging-fit/
 category: "Cut, Proportion & Fit"
 subcategory: "Style & Impact"
 tags:

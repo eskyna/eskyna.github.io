@@ -34,8 +34,7 @@ seoTitle: "Личная униформа: значение и применени
 slug: lichnaya-uniforma
 url: /rus/glossariy/lichnaya-uniforma/
 aliases:
-  - /rus/glossar/personal-uniform/
-  - /ru/glossar/personal-uniform/
+  - /glossar/personal-uniform/
 image_alt: "Личная униформа: повторяемые сочетания одежды в едином личном стиле"
 lastmod: "2026-07-09"
 knowledge:

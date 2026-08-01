@@ -34,9 +34,8 @@ seoTitle: "Брюки из ткани | ESKYNA Glossary"
 slug: bryuki-iz-tkani
 url: /ru/glossar/stoffhose/
 aliases:
-  - /rus/glossariy/bryuki-iz-tkani/
-  - /rus/glossar/stoffhose/
-  - /ru/glossar/stoffhose/
+  - /glossariy/bryuki-iz-tkani/
+  - /glossar/stoffhose/
 lastmod: "2026-07-09"
 knowledge:
   - "Тканевые брюки определяет прежде всего материал: они сшиты из тканого полотна, а не из денима или эластичного трикотажа."

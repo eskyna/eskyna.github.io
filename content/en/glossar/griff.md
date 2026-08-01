@@ -22,8 +22,7 @@ keywords:
 slug: handfeel
 url: /en/glossary/handfeel/
 aliases:
-  - /en/glossar/griff/
-  - /glossary/handfeel/
+  - /glossar/griff/
 image_alt: Close view of different fashion fabrics showing soft, smooth, textured, and structured handfeel
 relatedTerms:
   - title: Texture

@@ -35,8 +35,7 @@ seoTitle: "Облегающий силуэт: что это, посадка и �
 slug: oblegayushchiy-siluet
 url: /rus/glossariy/oblegayushchiy-siluet/
 aliases:
-  - /rus/glossar/bodycon/
-  - /ru/glossar/bodycon/
+  - /glossar/bodycon/
 knowledge:
   - Облегающий силуэт определяется не размером на ярлыке, а тем, как вещь повторяет линии тела и позволяет двигаться.
   - Эластичность ткани, направление кроя, плотность материала и качество швов заметно влияют на комфорт и внешний вид облегающей одежды.

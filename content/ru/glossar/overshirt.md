@@ -34,9 +34,8 @@ seoTitle: "Рубашка-куртка: что это и как носить | �
 slug: rubashka-kurtka
 url: /rus/glossariy/rubashka-kurtka/
 aliases:
-  - /rus/glossar/overshirt/
-  - /ru/glossar/overshirt/
-  - /rus/glossariy/overshirt/
+  - /glossar/overshirt/
+  - /glossariy/overshirt/
 lastmod: "2026-07-09"
 knowledge:
   - Рубашка-куртка занимает промежуточное положение между обычной рубашкой и лёгкой курткой.

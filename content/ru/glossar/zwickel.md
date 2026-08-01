@@ -15,9 +15,8 @@ keywords:
 slug: zwickel
 url: /ru/glossar/zwickel/
 aliases:
-  - /rus/glossariy/zwickel/
-  - /rus/glossar/zwickel/
-  - /ru/glossar/zwickel/
+  - /glossariy/zwickel/
+  - /glossar/zwickel/
 relatedTerms:
   - title: "Допуск на движение"
     url: /ru/glossar/bewegungszugabe/

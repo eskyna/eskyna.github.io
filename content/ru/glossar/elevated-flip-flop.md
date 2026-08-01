@@ -35,9 +35,8 @@ seoTitle: "Утонченные вьетнамки | ESKYNA Glossary"
 slug: utonchennye-vetnamki
 url: /rus/glossariy/utonchennye-vetnamki/
 aliases:
-  - /rus/glossar/elevated-flip-flop/
-  - /ru/glossar/elevated-flip-flop/
-  - /rus/glossariy/refined-flip-flop/
+  - /glossar/elevated-flip-flop/
+  - /glossariy/refined-flip-flop/
 image_alt: "Утонченные вьетнамки с лаконичными тонкими ремешками"
 lastmod: "2026-07-09"
 knowledge:

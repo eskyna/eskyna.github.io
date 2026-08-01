@@ -19,8 +19,7 @@ keywords:
 slug: puff-sleeve
 url: /en/glossary/puff-sleeve/
 aliases:
-  - /en/glossar/puffaermel/
-  - /glossary/puff-sleeve/
+  - /glossar/puffaermel/
 image_alt: Editorial illustration of a blouse with softly gathered puff sleeves at the shoulder
 relatedTerms:
   - title: Balloon Sleeve

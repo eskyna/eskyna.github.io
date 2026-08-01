@@ -19,7 +19,7 @@ weight: 999
 image: images/glossar/french-terry-sweatstoff.png
 image_alt: "Close-up of French Terry fabric showing a smooth outer surface and looped reverse side"
 aliases:
-  - /en/glossar/french-terry-sweatstoff/
+  - /glossar/french-terry-sweatstoff/
   - /glossary/french-terry-sweatstoff/
 relatedTerms:
   - title: French Terry

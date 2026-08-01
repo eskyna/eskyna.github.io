@@ -34,8 +34,7 @@ seoTitle: "Длина ног: как одежда меняет пропорци�
 slug: dlina-nog
 url: /rus/glossariy/dlina-nog/
 aliases:
-  - /rus/glossar/beinlaenge/
-  - /ru/glossar/beinlaenge/
+  - /glossar/beinlaenge/
 image_alt: "Иллюстрация о влиянии посадки, длины низа и обуви на визуальную длину ног"
 lastmod: "2026-07-09"
 knowledge:

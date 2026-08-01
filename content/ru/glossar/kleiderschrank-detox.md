@@ -34,8 +34,7 @@ seoTitle: "Детокс гардероба: значение и применен
 slug: detoks-garderoba
 url: /ru/glossar/kleiderschrank-detox/
 aliases:
-  - /rus/glossar/kleiderschrank-detox/
-  - /ru/glossar/kleiderschrank-detox/
+  - /glossar/kleiderschrank-detox/
 lastmod: "2026-07-09"
 knowledge:
   - "Детокс гардероба не требует выбрасывать всё лишнее за один день: вещи можно оставить, отдать, продать, отремонтировать или переработать."

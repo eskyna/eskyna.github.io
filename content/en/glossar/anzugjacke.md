@@ -22,8 +22,7 @@ keywords:
 slug: suit-jacket
 url: /en/glossary/suit-jacket/
 aliases:
-  - /en/glossar/anzugjacke/
-  - /glossary/suit-jacket/
+  - /glossar/anzugjacke/
 image_alt: Tailored suit jacket with lapels, front buttons, and structured shoulders
 relatedTerms:
   - title: Suit

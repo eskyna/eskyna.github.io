@@ -34,8 +34,7 @@ seoTitle: "Активизация цвета | ESKYNA Glossary"
 slug: aktivizatsiya-tsveta
 url: /rus/glossariy/aktivizatsiya-tsveta/
 aliases:
-  - /rus/glossar/aktivierung/
-  - /ru/glossar/aktivierung/
+  - /glossar/aktivierung/
 lastmod: "2026-07-09"
 knowledge:
   - "Наиболее заметно активизация цвета проявляется в вещах и аксессуарах рядом с лицом: блузах, шарфах, серьгах, очках и помаде."

@@ -8,8 +8,7 @@ image_alt: "Иллюстрация светло-темного контраст�
 slug: hell-dunkel-kontrast
 url: /rus/glossariy/hell-dunkel-kontrast/
 aliases:
-  - /rus/glossar/hell-dunkel-kontrast/
-  - /ru/glossar/hell-dunkel-kontrast/
+  - /glossar/hell-dunkel-kontrast/
 tags:
   - светло-темный-контраст
   - контраст-в-одежде

@@ -14,8 +14,7 @@ keywords:
 slug: passe
 url: /en/glossary/passe/
 aliases:
-  - /en/glossar/passe/
-  - /glossary/passe/
+  - /glossar/passe/
 relatedTerms:
   - title: "Seam"
     url: /en/glossar/naht/

@@ -22,8 +22,7 @@ keywords:
 slug: business-cocktail
 url: /en/glossary/business-cocktail/
 aliases:
-  - /en/glossar/business-cocktail/
-  - /glossary/business-cocktail/
+  - /glossar/business-cocktail/
 image_alt: Editorial glossary illustration for Business Cocktail
 relatedTerms:
   - title: Cocktail Attire

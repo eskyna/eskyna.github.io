@@ -34,9 +34,8 @@ seoTitle: "Оптическое вытяжение | ESKYNA Glossary"
 slug: opticheskoe-vytyazhenie
 url: /ru/glossar/optische-streckung/
 aliases:
-  - /rus/glossar/optische-streckung/
-  - /ru/glossar/optische-streckung/
-  - /rus/glossariy/opticheskoe-vytyazhenie/
+  - /glossar/optische-streckung/
+  - /glossariy/opticheskoe-vytyazhenie/
 image_alt: "Оптическое вытяжение силуэта с помощью вертикальных линий, гармоничных пропорций и длины одежды"
 lastmod: "2026-07-09"
 knowledge:

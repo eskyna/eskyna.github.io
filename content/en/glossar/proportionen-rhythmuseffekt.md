@@ -17,8 +17,8 @@ weight: 999
 image: "images/glossar/proportionen-rhythmuseffekt.png"
 image_alt: "A cropped jacket worn with high-waisted wide-leg trousers"
 aliases:
-  - "/en/glossar/proportionen-rhythmuseffekt/"
-  - "/glossary/proportionen-rhythmuseffekt/"
+  - /glossar/proportionen-rhythmuseffekt/
+  - /glossary/proportionen-rhythmuseffekt/
 relatedTerms:
   - title: "Proportion"
     url: "/en/glossar/proportion/"

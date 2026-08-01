@@ -34,8 +34,7 @@ seoTitle: "Джерси: что это за ткань, свойства и пр
 slug: dzhersi
 url: /rus/glossariy/dzhersi/
 aliases:
-  - /rus/glossar/jersey/
-  - /ru/glossar/jersey/
+  - /glossar/jersey/
 lastmod: "2026-07-09"
 history:
   - Название джерси связано с островом Джерси в проливе Ла-Манш, который исторически был известен вязаным шерстяным трикотажем.

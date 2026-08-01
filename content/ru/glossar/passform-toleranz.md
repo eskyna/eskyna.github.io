@@ -4,8 +4,7 @@ term: Допуск посадки
 slug: passform-toleranz
 url: /rus/glossariy/passform-toleranz/
 aliases:
-  - /rus/glossar/passform-toleranz/
-  - /ru/glossar/passform-toleranz/
+  - /glossar/passform-toleranz/
 description: "Допуск посадки это рассчитанный запас пространства между телом и одеждой, который позволяет сохранить комфорт движений без ощущения лишнего объёма."
 category: Размеры и посадка
 tags:

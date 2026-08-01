@@ -34,8 +34,7 @@ seoTitle: "Челси ботинки: что это, как выбрать и с
 slug: chelsi-botinki
 url: /rus/glossariy/chelsi-botinki/
 aliases:
-  - /rus/glossar/chelsea-boots/
-  - /ru/glossar/chelsea-boots/
+  - /glossar/chelsea-boots/
 lastmod: "2026-07-09"
 history:
   - Эластичные ботинки без шнуровки появились в викторианской Англии в XIX веке.

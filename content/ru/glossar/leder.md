@@ -35,8 +35,7 @@ seoTitle: "Кожа: значение, свойства и применение 
 slug: kozha
 url: /rus/glossariy/kozha/
 aliases:
-  - /rus/glossar/leder/
-  - /ru/glossar/leder/
+  - /glossar/leder/
 lastmod: "2026-07-09"
 history:
   - Кожу использовали для одежды, обуви, ремней и защитных предметов задолго до появления современной индустрии моды.

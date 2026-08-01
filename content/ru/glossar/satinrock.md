@@ -33,8 +33,7 @@ seoTitle: "Сатиновая юбка | ESKYNA Glossary"
 slug: satinovaya-yubka
 url: /rus/glossariy/satinovaya-yubka/
 aliases:
-  - /rus/glossar/satinrock/
-  - /ru/glossar/satinrock/
+  - /glossar/satinrock/
 lastmod: "2026-07-09"
 knowledge:
   - Сатин обозначает тип переплетения ткани, а не состав волокна. Сатиновая юбка может быть выполнена из шёлка, вискозы, полиэстера или смесового материала.

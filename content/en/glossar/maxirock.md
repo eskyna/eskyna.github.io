@@ -21,8 +21,7 @@ keywords:
 slug: maxi-skirt
 url: /en/glossary/maxi-skirt/
 aliases:
-  - /en/glossar/maxirock/
-  - /glossary/maxi-skirt/
+  - /glossar/maxirock/
 image_alt: Long flowing maxi skirt styled with a fitted top and flat sandals
 relatedTerms:
   - title: Skirt

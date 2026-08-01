@@ -35,8 +35,7 @@ seoTitle: "Туника: что это такое, как выбрать и но
 slug: tunika
 url: /ru/glossar/tunika/
 aliases:
-  - /rus/glossar/tunika/
-  - /ru/glossar/tunika/
+  - /glossar/tunika/
 lastmod: "2026-07-09"
 history:
   - "Туника относится к одному из старейших типов одежды: простая свободная форма, закрывающая корпус, встречалась в разных культурах и исторических эпохах."

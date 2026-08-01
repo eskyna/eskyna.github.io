@@ -21,8 +21,7 @@ keywords:
 slug: oversized-blazer
 url: /en/glossary/oversized-blazer/
 aliases:
-  - /en/glossar/oversized-blazer/
-  - /glossary/oversized-blazer/
+  - /glossar/oversized-blazer/
 image_alt: Oversized blazer with relaxed shoulders and a longer, roomy silhouette
 relatedTerms:
   - title: Blazer

@@ -22,8 +22,7 @@ keywords:
 slug: mauve
 url: /en/glossary/mauve/
 aliases:
-  - /en/glossar/mauve/
-  - /glossary/mauve/
+  - /glossar/mauve/
 relatedTerms:
   - title: "Lilac"
     url: /en/glossar/flieder/

@@ -9,8 +9,7 @@ image: "images/glossar/babydoll.png"
 image_alt: "Иллюстрация короткой свободной сорочки babydoll с завышенной линией под грудью"
 url: /rus/glossariy/babydoll/
 aliases:
-  - /rus/glossar/babydoll/
-  - /ru/glossar/babydoll/
+  - /glossar/babydoll/
 tags:
   - babydoll
   - белье

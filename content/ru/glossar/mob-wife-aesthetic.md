@@ -32,10 +32,9 @@ seoTitle: "Эстетика жены мафиози | ESKYNA"
 slug: estetika-zheny-mafiozi
 url: /ru/glossar/mob-wife-aesthetic/
 aliases:
-  - /rus/glossar/mob-wife-aesthetic/
-  - /ru/glossar/mob-wife-aesthetic/
-  - /rus/glossariy/mob-wife-aesthetic/
-  - /rus/glossariy/estetika-zheny-mafiozi/
+  - /glossar/mob-wife-aesthetic/
+  - /glossariy/mob-wife-aesthetic/
+  - /glossariy/estetika-zheny-mafiozi/
 image_alt: "Образ в эстетике жены мафиози с выразительными украшениями, тёмной палитрой и гламурными фактурами"
 lastmod: "2026-07-09"
 knowledge:

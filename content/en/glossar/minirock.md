@@ -21,8 +21,7 @@ keywords:
 slug: mini-skirt
 url: /en/glossary/mini-skirt/
 aliases:
-  - /en/glossar/minirock/
-  - /glossary/mini-skirt/
+  - /glossar/minirock/
 image_alt: Editorial illustration of a short skirt with a hem above the knee
 relatedTerms:
   - title: Micro Skirt

@@ -14,8 +14,7 @@ keywords:
 slug: haute-couture
 url: /en/glossary/haute-couture/
 aliases:
-  - /en/glossar/haute-couture/
-  - /glossary/haute-couture/
+  - /glossar/haute-couture/
 relatedTerms:
   - title: "Bespoke/Custom-made"
     url: /en/glossar/massanfertigung-custom-made/

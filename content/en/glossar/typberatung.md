@@ -21,8 +21,7 @@ keywords:
 slug: personal-type-consultation
 url: /en/glossary/personal-type-consultation/
 aliases:
-  - /en/glossar/typberatung/
-  - /glossary/personal-type-consultation/
+  - /glossar/typberatung/
 image_alt: Editorial illustration representing Personal Type Consultation through color, style, proportion, and wardrobe choices
 relatedTerms:
   - title: Style Consultation

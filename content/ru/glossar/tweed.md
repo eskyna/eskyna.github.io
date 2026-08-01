@@ -34,10 +34,9 @@ seoTitle: "Твид: что это за ткань, свойства и прим
 slug: tvid
 url: /ru/glossar/tweed/
 aliases:
-  - /rus/glossar/tweed/
-  - /ru/glossar/tweed/
-  - /rus/glossariy/tweed/
-  - /rus/glossariy/tvid/
+  - /glossar/tweed/
+  - /glossariy/tweed/
+  - /glossariy/tvid/
 lastmod: "2026-07-09"
 history:
   - Твид связан с традицией шерстяных тканей Британских островов, где плотные материалы ценили за тепло и практичность в прохладную влажную погоду.

@@ -4,8 +4,7 @@ term: "Ruching Effect"
 slug: "raffungs-effekt-ruching"
 url: "/en/glossary/raffungs-effekt-ruching/"
 aliases:
-  - "/en/glossar/raffungs-effekt-ruching/"
-  - "/glossary/raffungs-effekt-ruching/"
+  - /glossar/raffungs-effekt-ruching/
 description: "The ruching effect uses gathered fabric in bikinis and swimwear to add texture, shape, and controlled visual volume. Learn how ruching changes fit, coverage, and body balance."
 category: "Lingerie, Bras & Styling Aids"
 tags:

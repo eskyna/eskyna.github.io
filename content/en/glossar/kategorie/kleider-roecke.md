@@ -7,8 +7,8 @@ glossar_category: Dresses & Skirts
 url: /en/glossary/category/dresses-skirts/
 seoTitle: Dresses & Skirts | ESKYNA Glossary
 aliases:
-  - /en/glossar/kategorie/kleider-roecke/
-  - /glossary/category/dresses-skirts/
+  - /glossar/kategorie/kleider-roecke/
+  - /glossar/kleider-roecke/
 tags:
   - dresses
   - skirts

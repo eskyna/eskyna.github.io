@@ -34,8 +34,7 @@ seoTitle: "Шифон: что это за ткань, свойства и при
 slug: shifon
 url: /rus/glossariy/shifon/
 aliases:
-  - /rus/glossar/chiffon/
-  - /ru/glossar/chiffon/
+  - /glossar/chiffon/
 lastmod: "2026-07-09"
 history:
   - Шифон получил распространение как материал для лёгкой женской одежды, блуз, платьев, шарфов и вечерних деталей.

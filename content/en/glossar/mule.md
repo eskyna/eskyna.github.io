@@ -22,8 +22,7 @@ keywords:
 slug: mule
 url: /en/glossary/mule/
 aliases:
-  - /en/glossar/mule/
-  - /glossary/mule/
+  - /glossar/mule/
 image_alt: Editorial illustration of backless mule shoes with a low heel
 relatedTerms:
   - title: Slingback

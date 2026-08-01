@@ -7,8 +7,8 @@ glossar_category: Cut, Proportion & Fit
 url: /en/glossary/category/cut-proportion-fit/
 seoTitle: Cut, Proportion & Fit | ESKYNA Glossary
 aliases:
-  - /en/glossar/kategorie/schnitt-proportion-passform/
-  - /glossary/category/cut-proportion-fit/
+  - /glossar/kategorie/schnitt-proportion-passform/
+  - /glossar/schnitt-proportion-passform/
 keywords:
   - cut proportion and fit
   - clothing fit explained

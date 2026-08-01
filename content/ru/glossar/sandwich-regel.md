@@ -16,8 +16,7 @@ keywords:
 slug: "sandwich-regel"
 url: "/rus/glossariy/sandwich-regel/"
 aliases:
-  - "/rus/glossar/sandwich-regel/"
-  - "/ru/glossar/sandwich-regel/"
+  - /glossar/sandwich-regel/
 weight: 999
 image: "images/glossar/sandwich-regel.png"
 image_alt: "Образ с повтором цвета в верхней части одежды и обуви"

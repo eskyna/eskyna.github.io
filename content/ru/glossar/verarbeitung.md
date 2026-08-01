@@ -33,8 +33,7 @@ seoTitle: "Качество пошива: как оценить одежду | �
 slug: kachestvo-poshiva
 url: /rus/glossariy/kachestvo-poshiva/
 aliases:
-  - /rus/glossar/verarbeitung/
-  - /ru/glossar/verarbeitung/
+  - /glossar/verarbeitung/
 lastmod: "2026-07-09"
 knowledge:
   - "Качество пошива нельзя оценить по одному признаку: важны ровность швов, обработка срезов, работа застёжек, посадка и поведение вещи в движении."

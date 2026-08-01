@@ -5,8 +5,7 @@ description: "Конструкция спинки это система кроя
 slug: ruecken-schnittfuehrung
 url: /rus/glossariy/ruecken-schnittfuehrung/
 aliases:
-  - /rus/glossar/ruecken-schnittfuehrung/
-  - /ru/glossar/ruecken-schnittfuehrung/
+  - /glossar/ruecken-schnittfuehrung/
 category: "Крой, пропорции и посадка"
 tags:
   - "конструкция спинки"

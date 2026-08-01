@@ -20,8 +20,7 @@ keywords:
 slug: wrap-dress
 url: /en/glossary/wrap-dress/
 aliases:
-  - /en/glossar/wickelkleid/
-  - /glossary/wrap-dress/
+  - /glossar/wickelkleid/
 image_alt: Wrap dress with overlapping front panels and a waist tie
 relatedTerms:
   - title: Wrap Top

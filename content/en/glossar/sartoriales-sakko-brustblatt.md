@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/sartoriales-sakko-brustblatt/
 aliases:
-  - /en/glossar/sartoriales-sakko-brustblatt/
-  - /glossary/sartoriales-sakko-brustblatt/
+  - /glossar/sartoriales-sakko-brustblatt/
 image: images/glossar/sartoriales-sakko-brustblatt.png
 image_alt: "Inside view of a tailored jacket showing the shaped chest canvas beneath the front fabric"
 relatedTerms:

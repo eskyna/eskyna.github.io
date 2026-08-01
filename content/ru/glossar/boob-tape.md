@@ -9,8 +9,7 @@ image: "images/glossar/boob-tape.png"
 image_alt: "Иллюстрация клейкой ленты Boob Tape для фиксации груди под платьем с открытым вырезом"
 url: /rus/glossariy/boob-tape/
 aliases:
-  - /rus/glossar/boob-tape/
-  - /ru/glossar/boob-tape/
+  - /glossar/boob-tape/
 tags:
   - boob-tape
   - тейп для груди

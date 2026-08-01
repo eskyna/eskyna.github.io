@@ -18,8 +18,7 @@ keywords:
 slug: koeperbindung-twill
 url: /en/glossary/koeperbindung-twill/
 aliases:
-  - /en/glossar/koeperbindung-twill/
-  - /glossary/koeperbindung-twill/
+  - /glossar/koeperbindung-twill/
 weight: 999
 image: images/glossar/koeperbindung-twill.png
 image_alt: Close view of blue twill fabric with visible diagonal ribs

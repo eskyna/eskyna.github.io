@@ -4,8 +4,7 @@ term: "Интерлок-джерси"
 slug: interlock-jersey
 url: /rus/glossariy/interlock-jersey/
 aliases:
-  - /rus/glossar/interlock-jersey/
-  - /ru/glossar/interlock-jersey/
+  - /glossar/interlock-jersey/
 description: "Интерлок-джерси это плотный двойной трикотаж с гладкой поверхностью с обеих сторон. Он обычно лучше держит форму и ощущается плотнее, чем обычный одинарный джерси."
 category: Материалы и детали
 tags:

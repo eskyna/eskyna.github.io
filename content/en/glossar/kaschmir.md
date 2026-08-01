@@ -22,11 +22,9 @@ keywords:
 slug: cashmere
 url: /en/glossary/cashmere/
 aliases:
-  - /en/glossar/kaschmir/
-  - /glossary/cashmere/
-  - /en/glossary/cashmere-kaschmir/
-  - /en/glossar/cashmere-kaschmir/
+  - /glossar/kaschmir/
   - /glossary/cashmere-kaschmir/
+  - /glossar/cashmere-kaschmir/
 image_alt: Soft cashmere knitwear with a fine, matte surface
 relatedTerms:
   - title: Wool

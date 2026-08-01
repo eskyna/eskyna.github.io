@@ -24,8 +24,7 @@ keywords:
 slug: signature-color
 url: /en/glossary/signature-color/
 aliases:
-  - /en/glossar/signature-farbe/
-  - /glossary/signature-color/
+  - /glossar/signature-farbe/
 image_alt: Editorial illustration showing a recognizable signature color within a coordinated wardrobe
 relatedTerms:
   - title: Signature Look

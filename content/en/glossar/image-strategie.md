@@ -20,8 +20,7 @@ keywords:
 slug: image-strategy
 url: /en/glossary/image-strategy/
 aliases:
-  - /en/glossar/image-strategie/
-  - /glossary/image-strategy/
+  - /glossar/image-strategie/
 image_alt: Editorial glossary illustration showing a considered, polished outfit for image strategy
 relatedTerms:
   - title: Image

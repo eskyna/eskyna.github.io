@@ -21,8 +21,7 @@ keywords:
 slug: cocktail-attire
 url: /en/glossary/cocktail-attire/
 aliases:
-  - /en/glossar/cocktail-attire/
-  - /glossary/cocktail-attire/
+  - /glossar/cocktail-attire/
 image_alt: Editorial glossary illustration for Cocktail Attire
 relatedTerms:
   - title: Cocktail

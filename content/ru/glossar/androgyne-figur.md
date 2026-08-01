@@ -35,8 +35,7 @@ seoTitle: "Андрогинная фигура: значение и примен
 slug: androginnaya-figura
 url: /rus/glossariy/androginnaya-figura/
 aliases:
-  - /rus/glossar/androgyne-figur/
-  - /ru/glossar/androgyne-figur/
+  - /glossar/androgyne-figur/
 image_alt: "Иллюстрация прямого силуэта с менее выраженной линией талии"
 lastmod: "2026-07-09"
 knowledge:

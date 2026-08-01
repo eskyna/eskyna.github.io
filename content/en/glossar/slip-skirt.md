@@ -9,8 +9,7 @@ image: "images/glossar/slip-skirt.png"
 image_alt: "Glossary illustration of a softly draped midi slip skirt"
 url: /en/glossary/slip-skirt/
 aliases:
-  - /en/glossar/slip-skirt/
-  - /glossary/slip-skirt/
+  - /glossar/slip-skirt/
 tags:
   - slip skirt
   - skirt styling

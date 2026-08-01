@@ -33,8 +33,7 @@ seoTitle: "Образ для камеры | ESKYNA Glossary"
 slug: obraz-dlya-kamery
 url: /rus/glossariy/obraz-dlya-kamery/
 aliases:
-  - /rus/glossar/kamera-look/
-  - /ru/glossar/kamera-look/
+  - /glossar/kamera-look/
 lastmod: "2026-07-09"
 knowledge:
   - Камера передаёт цвет, контраст, фактуру и масштаб деталей иначе, чем взгляд вживую, поэтому образ стоит оценивать именно в условиях съёмки.

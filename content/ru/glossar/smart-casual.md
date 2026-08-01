@@ -34,9 +34,8 @@ seoTitle: "Смарт-кэжуал: значение, примеры и прав
 slug: smart-kezhual
 url: /ru/glossar/smart-casual/
 aliases:
-  - /rus/glossar/smart-casual/
-  - /ru/glossar/smart-casual/
-  - /rus/glossariy/smart-casual/
+  - /glossar/smart-casual/
+  - /glossariy/smart-casual/
 lastmod: "2026-07-09"
 knowledge:
   - "Смарт-кэжуал не имеет единого строгого набора вещей: степень формальности зависит от профессии, места и повода."

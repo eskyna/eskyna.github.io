@@ -21,8 +21,7 @@ keywords:
 slug: sunglasses
 url: /en/glossary/sunglasses/
 aliases:
-  - /en/glossar/sonnenbrille/
-  - /glossary/sunglasses/
+  - /glossar/sonnenbrille/
 image_alt: Editorial illustration of sunglasses with dark lenses and a structured frame
 relatedTerms:
   - title: Glasses

@@ -20,8 +20,7 @@ keywords:
 slug: crossbody-bag
 url: /en/glossary/crossbody-bag/
 aliases:
-  - /en/glossar/crossbody-bag/
-  - /glossary/crossbody-bag/
+  - /glossar/crossbody-bag/
 image_alt: Editorial illustration of a compact crossbody bag worn diagonally across the body
 relatedTerms:
   - title: Shoulder Bag

@@ -21,8 +21,7 @@ keywords:
 slug: fashion
 url: /en/glossary/fashion/
 aliases:
-  - /en/glossar/mode/
-  - /glossary/fashion/
+  - /glossar/mode/
 image_alt: Editorial illustration representing fashion, personal style, clothing, and visual expression
 relatedTerms:
   - title: Personal Style

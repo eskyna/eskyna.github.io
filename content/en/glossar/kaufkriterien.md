@@ -22,8 +22,7 @@ keywords:
 slug: buying-criteria
 url: /en/glossary/buying-criteria/
 aliases:
-  - /en/glossar/kaufkriterien/
-  - /glossary/buying-criteria/
+  - /glossar/kaufkriterien/
 image_alt: Editorial illustration of thoughtful clothing choices for a practical wardrobe
 relatedTerms:
   - title: Wardrobe Planning

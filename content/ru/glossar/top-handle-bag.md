@@ -9,8 +9,7 @@ image: "images/glossar/top-handle-bag.png"
 image_alt: "Сумка Top Handle Bag с короткой верхней ручкой"
 url: /rus/glossariy/top-handle-bag/
 aliases:
-  - /rus/glossar/top-handle-bag/
-  - /ru/glossar/top-handle-bag/
+  - /glossar/top-handle-bag/
 tags:
   - сумки
   - аксессуары

@@ -6,8 +6,7 @@ category: Консультация по цвету и цвет
 slug: hautunterton
 url: /rus/glossariy/hautunterton/
 aliases:
-  - /rus/glossar/hautunterton/
-  - /ru/glossar/hautunterton/
+  - /glossar/hautunterton/
 tags:
   - подтон кожи
   - цветотип

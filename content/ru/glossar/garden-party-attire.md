@@ -36,9 +36,8 @@ seoTitle: "Дресс-код для садовой вечеринки | ESKYNA"
 slug: dress-kod-dlya-sadovoy-vecherinki
 url: /rus/glossariy/dress-kod-dlya-sadovoy-vecherinki/
 aliases:
-  - /rus/glossar/garden-party-attire/
-  - /ru/glossar/garden-party-attire/
-  - /rus/glossariy/garden-party-attire/
+  - /glossar/garden-party-attire/
+  - /glossariy/garden-party-attire/
 image_alt: "Летний элегантный образ для садовой вечеринки на открытом воздухе"
 knowledge:
   - Дресс-код садовой вечеринки находится между повседневной летней одеждой и более формальными вечерними форматами.

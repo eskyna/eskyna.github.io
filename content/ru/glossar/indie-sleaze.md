@@ -9,8 +9,7 @@ image: "images/glossar/indie-sleaze.png"
 image_alt: "Иллюстрация образа в эстетике Indie Sleaze с кожаной курткой, узкими джинсами и акцентными аксессуарами"
 url: /rus/glossariy/indie-sleaze/
 aliases:
-  - /rus/glossar/indie-sleaze/
-  - /ru/glossar/indie-sleaze/
+  - /glossar/indie-sleaze/
 tags:
   - indie-sleaze
   - стиль

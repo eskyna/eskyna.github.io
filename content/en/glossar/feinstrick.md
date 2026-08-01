@@ -20,8 +20,7 @@ keywords:
 slug: fine-knit
 url: /en/glossary/fine-knit/
 aliases:
-  - /en/glossar/feinstrick/
-  - /glossary/fine-knit/
+  - /glossar/feinstrick/
 image_alt: Fine knit sweater with a smooth, closely stitched surface
 relatedTerms:
   - title: Knitwear

@@ -4,8 +4,7 @@ term: Классическая пропорция манжеты
 slug: klassische-manschetten-proportion
 url: /rus/glossariy/klassische-manschetten-proportion/
 aliases:
-  - /rus/glossar/klassische-manschetten-proportion/
-  - /ru/glossar/klassische-manschetten-proportion/
+  - /glossar/klassische-manschetten-proportion/
 description: "Классическая пропорция манжеты это видимый край манжеты рубашки или блузы, который выступает из-под рукава пиджака. Она помогает оценить длину рукава, посадку жакета и аккуратность делового образа."
 category: Крой, пропорции и посадка
 tags:

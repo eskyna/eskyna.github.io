@@ -15,8 +15,7 @@ keywords:
 slug: vanity-sizing
 url: /rus/glossariy/vanity-sizing/
 aliases:
-  - /rus/glossar/vanity-sizing/
-  - /ru/glossar/vanity-sizing/
+  - /glossar/vanity-sizing/
 relatedTerms:
   - title: "Размер готовой одежды"
     url: /ru/glossar/konfektionsgroesse/

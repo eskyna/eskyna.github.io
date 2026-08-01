@@ -33,9 +33,8 @@ seoTitle: "Плотность ткани: что это и как выбрать
 slug: plotnost
 url: /ru/glossar/dichte/
 aliases:
-  - /rus/glossar/dichte/
-  - /ru/glossar/dichte/
-  - /rus/glossariy/plotnost/
+  - /glossar/dichte/
+  - /glossariy/plotnost/
 lastmod: "2026-07-09"
 history:
   - Плотность ткани традиционно оценивают через количество нитей в структуре полотна или через массу материала на единицу площади.

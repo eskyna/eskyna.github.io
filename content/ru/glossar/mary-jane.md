@@ -35,9 +35,8 @@ seoTitle: "Туфли Мэри Джейн: значение и применен�
 slug: tufli-meri-dzheyn
 url: /rus/glossariy/tufli-meri-dzheyn/
 aliases:
-  - /rus/glossar/mary-jane/
-  - /ru/glossar/mary-jane/
-  - /rus/glossariy/mary-jane/
+  - /glossar/mary-jane/
+  - /glossariy/mary-jane/
 lastmod: "2026-07-09"
 history:
   - "Название Mary Jane связывают с персонажем Мэри Джейн из американских комиксов начала XX века."

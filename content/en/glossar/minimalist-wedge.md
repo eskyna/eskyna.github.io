@@ -21,8 +21,7 @@ keywords:
 slug: minimalist-wedge
 url: /en/glossary/minimalist-wedge/
 aliases:
-  - /en/glossar/minimalist-wedge/
-  - /glossary/minimalist-wedge/
+  - /glossar/minimalist-wedge/
 image_alt: Minimalist wedge sandals with clean straps and a streamlined wedge heel
 relatedTerms:
   - title: Wedge Heel

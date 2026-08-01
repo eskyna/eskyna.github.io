@@ -4,8 +4,7 @@ term: Midriff Flossing
 description: "Midriff flossing is a styling trend in which thin ties or straps wrap around the exposed waist and navel area to create a deliberate, body-framing detail."
 url: /en/glossary/midriff-flossing/
 aliases:
-  - /en/glossar/midriff-flossing/
-  - /glossary/midriff-flossing/
+  - /glossar/midriff-flossing/
 category: Style & Impact
 tags:
   - midriff flossing

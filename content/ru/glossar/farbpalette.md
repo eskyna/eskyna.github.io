@@ -33,8 +33,7 @@ seoTitle: "Цветовая палитра | ESKYNA Glossary"
 slug: tsvetovaya-palitra
 url: /ru/glossar/farbpalette/
 aliases:
-  - /rus/glossar/farbpalette/
-  - /ru/glossar/farbpalette/
+  - /glossar/farbpalette/
 lastmod: "2026-07-09"
 knowledge:
   - Цветовая палитра учитывает не только названия цветов, но и их подтон, светлоту, насыщенность и контраст с внешностью.

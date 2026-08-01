@@ -19,8 +19,7 @@ keywords:
 slug: chunky-sneaker
 url: /rus/glossariy/chunky-sneaker/
 aliases:
-  - /rus/glossar/chunky-sneaker/
-  - /ru/glossar/chunky-sneaker/
+  - /glossar/chunky-sneaker/
 weight: 999
 image: images/glossar/chunky-sneaker.png
 image_alt: "Массивные кроссовки с многослойной объёмной подошвой"

@@ -9,8 +9,7 @@ image: "images/glossar/handschuhe.png"
 image_alt: "Иллюстрация глоссария: перчатки как функциональный и стильный аксессуар"
 url: /rus/glossariy/handschuhe/
 aliases:
-  - /rus/glossar/handschuhe/
-  - /ru/glossar/handschuhe/
+  - /glossar/handschuhe/
 tags:
   - перчатки
   - аксессуары

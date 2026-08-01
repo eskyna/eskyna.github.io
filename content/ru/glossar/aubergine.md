@@ -23,8 +23,7 @@ keywords:
 slug: aubergine
 url: /rus/glossariy/aubergine/
 aliases:
-  - /rus/glossar/aubergine/
-  - /ru/glossar/aubergine/
+  - /glossar/aubergine/
 relatedTerms:
   - title: "Фиолетовый"
     url: /ru/glossar/violett/

@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/dress-kody-i-povody/
 image: images/glossar/kategorie/dresscodes-anlaesse.png
 seoTitle: Дресс-коды и поводы | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/dresscodes-anlaesse/
-  - /ru/glossar/kategorie/dresscodes-anlaesse/
+  - /glossar/kategorie/dresscodes-anlaesse/
+  - /glossar/dresscodes-anlaesse/
 tags:
   - дресс-коды
   - поводы

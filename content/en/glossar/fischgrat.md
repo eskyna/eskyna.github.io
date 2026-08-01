@@ -21,8 +21,7 @@ keywords:
 slug: fischgrat
 url: /en/glossary/fischgrat/
 aliases:
-  - /en/glossar/fischgrat/
-  - /glossary/fischgrat/
+  - /glossar/fischgrat/
 relatedTerms:
   - title: "Twill"
     url: /en/glossar/twill/

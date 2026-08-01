@@ -20,8 +20,7 @@ keywords:
 slug: edgy
 url: /en/glossary/edgy/
 aliases:
-  - /en/glossar/edgy/
-  - /glossary/edgy/
+  - /glossar/edgy/
 image_alt: Editorial fashion illustration showing an edgy outfit with dark layers and bold styling details
 relatedTerms:
   - title: Personal Style

@@ -33,8 +33,7 @@ seoTitle: "Квадратный каблук | ESKYNA Glossary"
 slug: kvadratnyy-kabluk
 url: /ru/glossar/blockabsatz/
 aliases:
-  - /rus/glossar/blockabsatz/
-  - /ru/glossar/blockabsatz/
+  - /glossar/blockabsatz/
 lastmod: "2026-07-09"
 knowledge:
   - Квадратный каблук отличается широкой, относительно ровной опорной поверхностью и поэтому обычно устойчивее тонкой шпильки.

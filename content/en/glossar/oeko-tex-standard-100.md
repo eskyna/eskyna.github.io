@@ -19,7 +19,7 @@ weight: 999
 image: images/glossar/oeko-tex-standard-100.png
 image_alt: Clothing care label showing STANDARD 100 by OEKO-TEX certification
 aliases:
-  - /en/glossar/oeko-tex-standard-100/
+  - /glossar/oeko-tex-standard-100/
   - /glossary/oeko-tex-standard-100/
 relatedTerms:
   - title: Material Quality

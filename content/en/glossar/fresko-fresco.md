@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/fresko-fresco/
 aliases:
-  - /en/glossar/fresko-fresco/
-  - /glossary/fresko-fresco/
+  - /glossar/fresko-fresco/
 image: images/glossar/fresko-fresco.png
 image_alt: "Close view of open textured gray wool suiting fabric"
 relatedTerms:

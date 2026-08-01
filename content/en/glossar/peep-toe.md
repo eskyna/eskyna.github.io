@@ -9,8 +9,7 @@ image: "images/glossar/peep-toe.png"
 image_alt: "Peep-toe shoe with a small opening at the front revealing the toes"
 url: /en/glossary/peep-toe/
 aliases:
-  - /en/glossar/peep-toe/
-  - /glossary/peep-toe/
+  - /glossar/peep-toe/
 tags:
   - peep-toe
   - shoes

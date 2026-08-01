@@ -35,8 +35,7 @@ seoTitle: "Подол: что это такое и почему он важен 
 slug: podol
 url: /rus/glossariy/podol/
 aliases:
-  - /rus/glossar/saum/
-  - /ru/glossar/saum/
+  - /glossar/saum/
 lastmod: "2026-07-09"
 history:
   - Нижний край одежды всегда требовал обработки, чтобы ткань меньше осыпалась и изделие сохраняло форму при носке.

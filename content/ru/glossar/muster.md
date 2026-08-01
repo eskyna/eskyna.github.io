@@ -35,9 +35,8 @@ seoTitle: "Узор: что это такое в одежде и как его �
 slug: uzor
 url: /ru/glossar/muster/
 aliases:
-  - /rus/glossar/muster/
-  - /rus/glossariy/uzor/
-  - /ru/glossar/muster/
+  - /glossar/muster/
+  - /glossariy/uzor/
 lastmod: "2026-07-09"
 history:
   - Орнаменты и повторяющиеся мотивы использовались в текстиле разных культур на протяжении веков, выполняя декоративную и смысловую роль.

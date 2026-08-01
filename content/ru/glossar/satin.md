@@ -34,9 +34,8 @@ seoTitle: "Сатин: что это за ткань и как её носить
 slug: satin
 url: /ru/glossar/satin/
 aliases:
-  - /rus/glossar/satin/
-  - /rus/glossariy/satin/
-  - /ru/glossar/satin/
+  - /glossar/satin/
+  - /glossariy/satin/
 lastmod: "2026-07-09"
 history:
   - Сатиновое переплетение известно в европейской текстильной традиции с позднего Средневековья.

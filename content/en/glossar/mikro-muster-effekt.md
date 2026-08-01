@@ -5,8 +5,7 @@ description: "The micro-pattern effect describes very small patterns that appear
 slug: mikro-muster-effekt
 url: /en/glossary/mikro-muster-effekt/
 aliases:
-  - /en/glossar/mikro-muster-effekt/
-  - /glossary/mikro-muster-effekt/
+  - /glossar/mikro-muster-effekt/
 category: Materials & Details
 tags:
   - micro pattern

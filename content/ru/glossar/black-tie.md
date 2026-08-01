@@ -35,10 +35,9 @@ seoTitle: "Блэк-тай | Style & Image ESKYNA"
 slug: blek-tay
 url: /ru/glossar/black-tie/
 aliases:
-  - /rus/glossar/black-tie/
-  - /ru/glossar/black-tie/
-  - /rus/glossariy/black-tie/
-  - /rus/glossariy/blek-tay/
+  - /glossar/black-tie/
+  - /glossariy/black-tie/
+  - /glossariy/blek-tay/
 lastmod: "2026-07-09"
 history:
   - "Дресс-код black tie сложился вокруг вечернего костюма с смокингом, который в англоязычной традиции также называют dinner jacket."

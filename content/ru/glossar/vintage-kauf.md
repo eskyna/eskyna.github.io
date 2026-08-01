@@ -34,8 +34,7 @@ seoTitle: "Покупка винтажа | ESKYNA Glossary"
 slug: pokupka-vintazha
 url: /rus/glossariy/pokupka-vintazha/
 aliases:
-  - /rus/glossar/vintage-kauf/
-  - /ru/glossar/vintage-kauf/
+  - /glossar/vintage-kauf/
 lastmod: "2026-07-09"
 history:
   - "Винтажная одежда сохраняет следы конкретных модных эпох: силуэты, технологии пошива, материалы и декоративные коды."

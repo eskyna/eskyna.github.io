@@ -22,8 +22,7 @@ keywords:
 slug: polyester
 url: /en/glossary/polyester/
 aliases:
-  - /en/glossar/polyester/
-  - /glossary/polyester/
+  - /glossar/polyester/
 image_alt: Editorial glossary illustration showing polyester fabric and clothing texture
 relatedTerms:
   - title: Polyamide

@@ -37,8 +37,7 @@ seoTitle: "Подтон кожи explained | ESKYNA"
 slug: podton
 url: /ru/glossar/unterton/
 aliases:
-  - /rus/glossar/unterton/
-  - /ru/glossar/unterton/
+  - /glossar/unterton/
 lastmod: "2026-07-09"
 knowledge:
   - "Подтон не равен оттенку кожи: светлая, средняя и тёмная кожа могут иметь тёплое, холодное или нейтральное направление."

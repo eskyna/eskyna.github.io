@@ -19,7 +19,7 @@ weight: 999
 image: images/glossar/boxy-cut.png
 image_alt: A structured boxy jacket with straight sides and minimal waist shaping
 aliases:
-  - /en/glossar/boxy-cut/
+  - /glossar/boxy-cut/
   - /glossary/boxy-cut/
 relatedTerms:
   - title: Oversized

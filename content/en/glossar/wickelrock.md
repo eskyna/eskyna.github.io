@@ -21,8 +21,7 @@ keywords:
 slug: wrap-skirt
 url: /en/glossary/wrap-skirt/
 aliases:
-  - /en/glossar/wickelrock/
-  - /glossary/wrap-skirt/
+  - /glossar/wickelrock/
 image_alt: Wrap skirt with an overlapping front panel tied at the waist
 relatedTerms:
   - title: Wrap Dress

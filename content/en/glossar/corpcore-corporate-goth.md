@@ -9,8 +9,7 @@ image: "images/glossar/corpcore-corporate-goth.png"
 image_alt: "Glossary illustration for Corpcore and Corporate Goth"
 url: /en/glossary/corpcore-corporate-goth/
 aliases:
-  - /en/glossar/corpcore-corporate-goth/
-  - /glossary/corpcore-corporate-goth/
+  - /glossar/corpcore-corporate-goth/
 tags:
   - corpcore
   - corporate goth

@@ -18,10 +18,8 @@ keywords:
 weight: 999
 url: /en/glossary/style-profile/
 aliases:
-  - /en/glossar/style-profile/
-  - /glossary/style-profile/
-  - /en/glossar/stilprofil/
-  - /en/glossary/stilprofil/
+  - /glossar/style-profile/
+  - /glossar/stilprofil/
   - /glossary/stilprofil/
 image: images/glossar/style-profile.png
 image_alt: A person reviewing color swatches, outfit notes, and wardrobe images

@@ -22,8 +22,7 @@ keywords:
 slug: monochrome
 url: /en/glossary/monochrome/
 aliases:
-  - /en/glossar/monochrom/
-  - /glossary/monochrome/
+  - /glossar/monochrom/
 image_alt: Editorial illustration of a monochromatic outfit in closely related shades
 relatedTerms:
   - title: Tone-on-Tone

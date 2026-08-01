@@ -34,8 +34,7 @@ seoTitle: "Скандинавский стиль | ESKYNA Glossary"
 slug: skandinavskiy-stil
 url: /rus/glossariy/skandinavskiy-stil/
 aliases:
-  - /rus/glossar/scandinavian-style/
-  - /ru/glossar/scandinavian-style/
+  - /glossar/scandinavian-style/
 lastmod: "2026-07-09"
 knowledge:
   - Скандинавский стиль строится не на строгом наборе вещей, а на согласованности функции, посадки, материалов и общего впечатления.

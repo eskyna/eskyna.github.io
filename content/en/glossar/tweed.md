@@ -21,8 +21,7 @@ keywords:
 slug: tweed
 url: /en/glossary/tweed/
 aliases:
-  - /en/glossar/tweed/
-  - /glossary/tweed/
+  - /glossar/tweed/
 image_alt: Close-up of a textured tweed fabric with visible woven fibers
 relatedTerms:
   - title: Wool

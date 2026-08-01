@@ -15,8 +15,7 @@ keywords:
 slug: kaftan
 url: /rus/glossariy/kaftan/
 aliases:
-  - /rus/glossar/kaftan/
-  - /ru/glossar/kaftan/
+  - /glossar/kaftan/
 tags:
   - кафтан
   - свободный силуэт

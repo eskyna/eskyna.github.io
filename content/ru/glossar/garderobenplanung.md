@@ -34,8 +34,7 @@ seoTitle: "Планирование гардероба | ESKYNA"
 slug: planirovanie-garderoba
 url: /rus/glossariy/planirovanie-garderoba/
 aliases:
-  - /rus/glossar/garderobenplanung/
-  - /ru/glossar/garderobenplanung/
+  - /glossar/garderobenplanung/
 lastmod: "2026-07-09"
 history:
   - "Практика планирования гардероба связана с давней идеей рационального ведения домашнего хозяйства, но современное значение включает также личный стиль, профессиональные роли и индивидуальный образ жизни."

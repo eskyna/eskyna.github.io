@@ -5,8 +5,7 @@ description: "Фреско, или Fresco, это костюмная шерст�
 slug: fresko-fresco
 url: /rus/glossariy/fresko-fresco/
 aliases:
-  - /rus/glossar/fresko-fresco/
-  - /ru/glossar/fresko-fresco/
+  - /glossar/fresko-fresco/
 category: "Материалы и детали"
 tags:
   - фреско

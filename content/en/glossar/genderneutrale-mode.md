@@ -15,8 +15,7 @@ keywords:
 slug: genderneutrale-mode
 url: /en/glossary/genderneutrale-mode/
 aliases:
-  - /en/glossar/genderneutrale-mode/
-  - /glossary/genderneutrale-mode/
+  - /glossar/genderneutrale-mode/
 tags:
   - gender neutral fashion
   - gender inclusive clothing

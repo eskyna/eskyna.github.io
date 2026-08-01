@@ -9,8 +9,7 @@ image: "images/glossar/biker-boots.png"
 image_alt: "Black leather biker boots with buckles and a sturdy lug sole"
 url: /en/glossary/biker-boots/
 aliases:
-  - /en/glossar/biker-boots/
-  - /glossary/biker-boots/
+  - /glossar/biker-boots/
 tags:
   - biker boots
   - motorcycle-inspired boots

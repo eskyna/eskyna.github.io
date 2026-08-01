@@ -34,9 +34,8 @@ seoTitle: "Форма тела: значение и применение | Гл�
 slug: forma-tela
 url: /ru/glossar/koerperform/
 aliases:
-  - /rus/glossar/koerperform/
-  - /ru/glossar/koerperform/
-  - /rus/glossariy/forma-tela/
+  - /glossar/koerperform/
+  - /glossariy/forma-tela/
 lastmod: "2026-07-09"
 knowledge:
   - "Форма тела не определяет, что вам «можно» или «нельзя» носить. Это нейтральный ориентир для работы с линиями, объёмами и пропорциями."

@@ -9,8 +9,7 @@ image: "images/glossar/traegerloser-bh.png"
 image_alt: "Иллюстрация бюстгальтера без бретелей и мягкой модели bandeau-bh"
 url: /rus/glossariy/traegerloser-bh/
 aliases:
-  - /rus/glossar/traegerloser-bh/
-  - /ru/glossar/traegerloser-bh/
+  - /glossar/traegerloser-bh/
 tags:
   - бюстгальтер без бретелей
   - bandeau-bh

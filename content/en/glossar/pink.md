@@ -21,7 +21,6 @@ keywords:
 slug: pink
 url: /en/glossar/pink/
 aliases:
-  - /en/glossar/pink/
   - /glossary/pink/
 image_alt: Editorial glossary illustration showing a vivid pink color swatch
 relatedTerms:

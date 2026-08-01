@@ -21,8 +21,7 @@ keywords:
 slug: brand-wardrobe
 url: /en/glossary/brand-wardrobe/
 aliases:
-  - /en/glossar/brand-wardrobe/
-  - /glossary/brand-wardrobe/
+  - /glossar/brand-wardrobe/
 image_alt: Editorial glossary illustration of a coordinated brand wardrobe with consistent colors, silhouettes, and accessories
 relatedTerms:
   - title: Personal Branding

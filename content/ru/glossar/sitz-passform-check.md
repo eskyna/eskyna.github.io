@@ -17,8 +17,7 @@ keywords:
 slug: sitz-passform-check
 url: /rus/glossariy/sitz-passform-check/
 aliases:
-  - /rus/glossar/sitz-passform-check/
-  - /ru/glossar/sitz-passform-check/
+  - /glossar/sitz-passform-check/
 image: images/glossar/sitz-passform-check.png
 image_alt: Проверка посадки наряда в положении сидя за столом
 relatedTerms:

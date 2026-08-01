@@ -23,8 +23,7 @@ keywords:
 slug: camel
 url: /en/glossary/camel/
 aliases:
-  - /en/glossar/camel/
-  - /glossary/camel/
+  - /glossar/camel/
 image_alt: Editorial illustration showing the warm muted tan shade known as camel
 relatedTerms:
   - title: Beige

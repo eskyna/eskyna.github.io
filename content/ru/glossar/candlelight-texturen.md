@@ -5,8 +5,7 @@ description: "Фактуры для свечного света это мате�
 slug: candlelight-texturen
 url: /rus/glossariy/candlelight-texturen/
 aliases:
-  - /rus/glossar/candlelight-texturen/
-  - /ru/glossar/candlelight-texturen/
+  - /glossar/candlelight-texturen/
 category: Материалы и детали
 tags:
   - фактуры для свечного света

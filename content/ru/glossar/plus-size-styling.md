@@ -35,9 +35,8 @@ seoTitle: "Стайлинг для размера плюс | ESKYNA"
 slug: stayling-dlya-razmera-plyus
 url: /ru/glossar/plus-size-styling/
 aliases:
-  - /rus/glossar/plus-size-styling/
-  - /ru/glossar/plus-size-styling/
-  - /rus/glossariy/plus-size-styling/
+  - /glossar/plus-size-styling/
+  - /glossariy/plus-size-styling/
 image_alt: "Иллюстрация глоссария ESKYNA о стайлинге для размера плюс, посадке и пропорциях одежды"
 lastmod: "2026-07-09"
 knowledge:

@@ -34,10 +34,10 @@ seoTitle: "Платье-комбинация: что это и с чем нос�
 slug: plate-kombinatsiya
 url: /ru/glossar/slip-dress/
 aliases:
-  - /rus/glossar/slip-dress/
-  - /rus/glossariy/slip-dress/
-  - /rus/glossariy/plate-kombinatsiya/
-  - /rus/glossariy/shyolk/
+  - /glossar/slip-dress/
+  - /glossariy/slip-dress/
+  - /glossariy/plate-kombinatsiya/
+  - /glossariy/shyolk/
 lastmod: "2026-07-09"
 history:
   - "Платье-комбинация связано с формой нижней комбинации, которую носили под одеждой в первой половине XX века."

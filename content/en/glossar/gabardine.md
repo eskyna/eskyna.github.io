@@ -15,8 +15,7 @@ keywords:
 slug: gabardine
 url: /en/glossary/gabardine/
 aliases:
-  - /en/glossar/gabardine/
-  - /glossary/gabardine/
+  - /glossar/gabardine/
 tags:
   - gabardine fabric
   - twill weave

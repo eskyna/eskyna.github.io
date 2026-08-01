@@ -20,8 +20,7 @@ image_alt: Glossary illustration of a classic necktie worn with a collared shirt
 slug: krawatte
 url: /en/glossary/krawatte/
 aliases:
-  - /en/glossar/krawatte/
-  - /glossary/krawatte/
+  - /glossar/krawatte/
 relatedTerms:
   - title: Bow Tie
     url: /en/glossar/fliege/

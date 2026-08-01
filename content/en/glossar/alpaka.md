@@ -15,8 +15,7 @@ keywords:
 slug: alpaka
 url: /en/glossary/alpaka/
 aliases:
-  - /en/glossar/alpaka/
-  - /glossary/alpaka/
+  - /glossar/alpaka/
 relatedTerms:
   - title: "Wool"
     url: /en/glossar/wolle/

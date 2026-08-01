@@ -33,9 +33,8 @@ seoTitle: "Балеткор: что это такое и как носить | �
 slug: baletkor
 url: /ru/glossar/balletcore/
 aliases:
-  - /rus/glossar/balletcore/
-  - /ru/glossar/balletcore/
-  - /rus/glossariy/balletcore/
+  - /glossar/balletcore/
+  - /glossariy/balletcore/
 image_alt: "Балеткор: мягкий образ с балетками, трикотажем на запах и нежными деталями"
 lastmod: "2026-07-09"
 knowledge:

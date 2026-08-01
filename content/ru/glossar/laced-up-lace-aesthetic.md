@@ -21,8 +21,7 @@ keywords:
 slug: laced-up-lace-aesthetic
 url: /rus/glossariy/laced-up-lace-aesthetic/
 aliases:
-  - /rus/glossar/laced-up-lace-aesthetic/
-  - /ru/glossar/laced-up-lace-aesthetic/
+  - /glossar/laced-up-lace-aesthetic/
 relatedTerms:
   - title: Кружево
     url: /ru/glossar/spitze/

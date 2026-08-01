@@ -14,8 +14,7 @@ keywords:
 slug: godet
 url: /en/glossary/godet/
 aliases:
-  - /en/glossar/godet/
-  - /glossary/godet/
+  - /glossar/godet/
 relatedTerms:
   - title: "Flounce"
     url: /en/glossar/volant/

@@ -9,8 +9,7 @@ image: "images/glossar/netzstrumpfhose.png"
 image_alt: "Иллюстрация чёрных колготок в сетку с ромбовидным ажурным рисунком"
 url: /rus/glossariy/netzstrumpfhose/
 aliases:
-  - /rus/glossar/netzstrumpfhose/
-  - /ru/glossar/netzstrumpfhose/
+  - /glossar/netzstrumpfhose/
 lastmod: "2026-07-22"
 tags:
   - колготки

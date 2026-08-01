@@ -36,8 +36,7 @@ seoTitle: "Комбинаторная вещь: значение и примен
 slug: kombinatornaya-veshch
 url: /rus/glossariy/kombinatornaya-veshch/
 aliases:
-  - /rus/glossar/kombinationsstueck/
-  - /ru/glossar/kombinationsstueck/
+  - /glossar/kombinationsstueck/
 lastmod: "2026-07-09"
 knowledge:
   - "Комбинаторность не равна нейтральности: яркая или выразительная вещь тоже может быть комбинаторной, если она связана с остальным гардеробом цветом, силуэтом или стилевым настроением."

@@ -15,8 +15,7 @@ keywords:
 slug: farbechtheit
 url: /rus/glossariy/farbechtheit/
 aliases:
-  - /rus/glossar/farbechtheit/
-  - /ru/glossar/farbechtheit/
+  - /glossar/farbechtheit/
 tags:
   - стойкость цвета
   - уход за одеждой

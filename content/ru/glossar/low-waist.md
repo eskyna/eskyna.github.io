@@ -36,8 +36,7 @@ seoTitle: "Низкая посадка: что это, кому подходит
 slug: low-waist
 url: /ru/glossar/low-waist/
 aliases:
-  - /rus/glossar/low-waist/
-  - /ru/glossar/low-waist/
+  - /glossar/low-waist/
 lastmod: "2026-07-09"
 history:
   - Низкая посадка была заметной частью моды конца 1990-х и начала 2000-х годов, особенно в джинсах, юбках и брюках.

@@ -37,9 +37,9 @@ seoTitle: "Горпкор: значение и применение | Глосс
 slug: gorpkor
 url: /ru/glossar/gorpcore/
 aliases:
-  - /rus/glossar/gorpcore/
-  - /rus/glossariy/gorpcore/
-  - /rus/glossariy/gorpkor/
+  - /glossar/gorpcore/
+  - /glossariy/gorpcore/
+  - /glossariy/gorpkor/
 lastmod: "2026-07-09"
 history:
   - "Слово gorpcore получило широкое распространение в модной журналистике в конце 2010-х годов."

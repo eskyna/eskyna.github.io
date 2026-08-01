@@ -34,8 +34,7 @@ seoTitle: "Качество одежды: как определить и выб�
 slug: kachestvo
 url: /rus/glossariy/kachestvo/
 aliases:
-  - /rus/glossar/qualitaet/
-  - /ru/glossar/qualitaet/
+  - /glossar/qualitaet/
 lastmod: "2026-07-09"
 knowledge:
   - Качество не сводится к цене, бренду или составу на ярлыке. Его оценивают по совокупности материала, кроя, обработки, посадки и реальной носки.

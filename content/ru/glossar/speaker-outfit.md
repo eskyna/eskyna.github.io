@@ -35,8 +35,8 @@ seoTitle: "Образ спикера: как выбрать одежду для 
 slug: obraz-spikera
 url: /ru/glossar/speaker-outfit/
 aliases:
-  - /rus/glossar/speaker-outfit/
-  - /rus/glossariy/obraz-spikera/
+  - /glossar/speaker-outfit/
+  - /glossariy/obraz-spikera/
 lastmod: "2026-07-09"
 knowledge:
   - Образ спикера оценивают не только вблизи, но и с расстояния, на сцене, в движении и иногда через камеру.

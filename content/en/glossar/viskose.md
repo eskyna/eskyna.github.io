@@ -22,8 +22,7 @@ keywords:
 slug: viscose
 url: /en/glossary/viscose/
 aliases:
-  - /en/glossar/viskose/
-  - /glossary/viscose/
+  - /glossar/viskose/
 image_alt: Flowing viscose fabric with a soft, smooth surface
 relatedTerms:
   - title: Lyocell

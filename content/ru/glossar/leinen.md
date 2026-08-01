@@ -34,8 +34,7 @@ seoTitle: "Лён: что это за ткань, свойства и приме
 slug: lyon
 url: /rus/glossariy/lyon/
 aliases:
-  - /rus/glossar/leinen/
-  - /ru/glossar/leinen/
+  - /glossar/leinen/
 lastmod: "2026-07-09"
 history:
   - Лён относится к числу древнейших волокон, которые человек использовал для изготовления ткани.

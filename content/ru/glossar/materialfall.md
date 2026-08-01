@@ -34,8 +34,7 @@ seoTitle: "Пластика материала: что это и как влия
 slug: plastika-materiala
 url: /rus/glossariy/plastika-materiala/
 aliases:
-  - /rus/glossar/materialfall/
-  - /ru/glossar/materialfall/
+  - /glossar/materialfall/
 lastmod: "2026-07-09"
 knowledge:
   - Пластика зависит не только от состава волокон, но и от плотности, переплетения, отделки и кроя изделия.

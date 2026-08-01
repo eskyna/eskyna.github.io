@@ -9,8 +9,7 @@ image: "images/glossar/cut-out.png"
 image_alt: "Glossary illustration of a garment with an intentional cut-out detail"
 url: /en/glossary/cut-out/
 aliases:
-  - /en/glossar/cut-out/
-  - /glossary/cut-out/
+  - /glossar/cut-out/
 tags:
   - cut-out
   - garment details

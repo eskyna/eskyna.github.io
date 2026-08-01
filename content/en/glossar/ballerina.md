@@ -21,8 +21,7 @@ keywords:
 slug: ballerina
 url: /en/glossary/ballerina/
 aliases:
-  - /en/glossar/ballerina/
-  - /glossary/ballerina/
+  - /glossar/ballerina/
 image_alt: Editorial illustration of classic ballerina flats with a rounded toe
 relatedTerms:
   - title: Mary Jane

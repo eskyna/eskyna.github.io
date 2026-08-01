@@ -36,8 +36,7 @@ seoTitle: "Вырез водопад: что это, кому подходит �
 slug: vyrez-vodopad
 url: /rus/glossariy/vyrez-vodopad/
 aliases:
-  - /rus/glossar/wasserfallausschnitt/
-  - /ru/glossar/wasserfallausschnitt/
+  - /glossar/wasserfallausschnitt/
 lastmod: "2026-07-09"
 knowledge:
   - Вырез водопад образуется не жёсткой конструкцией, а свободным падением ткани, поэтому результат зависит от материала, кроя и посадки.

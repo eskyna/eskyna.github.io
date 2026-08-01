@@ -36,9 +36,8 @@ seoTitle: "Ботфорты: значение и применение | Глос
 slug: botforty
 url: /rus/glossariy/botforty/
 aliases:
-  - /rus/glossar/overknees/
-  - /ru/glossar/overknees/
-  - /rus/glossariy/overknees/
+  - /glossar/overknees/
+  - /glossariy/overknees/
 lastmod: "2026-07-09"
 history:
   - Ботфорты происходят от высокой мужской обуви для верховой езды и военной экипировки, где длинное голенище защищало ногу.

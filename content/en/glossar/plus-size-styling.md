@@ -21,8 +21,7 @@ keywords:
 slug: plus-size-styling
 url: /en/glossary/plus-size-styling/
 aliases:
-  - /en/glossar/plus-size-styling/
-  - /glossary/plus-size-styling/
+  - /glossar/plus-size-styling/
 image_alt: Editorial glossary illustration showing plus size styling through balanced outfit proportions
 relatedTerms:
   - title: Curvy Styling

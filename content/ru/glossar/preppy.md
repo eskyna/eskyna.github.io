@@ -35,9 +35,8 @@ seoTitle: "Преппи: что это за стиль и как его носи
 slug: preppi
 url: /ru/glossar/preppy/
 aliases:
-  - /rus/glossar/preppy/
-  - /ru/glossar/preppy/
-  - /rus/glossariy/preppy/
+  - /glossar/preppy/
+  - /glossariy/preppy/
 lastmod: "2026-07-09"
 history:
   - "Термин preppy связан с подготовительными школами и университетской средой США, где сложился узнаваемый аккуратный гардероб."

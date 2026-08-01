@@ -38,9 +38,8 @@ seoTitle: "Тай-дай: значение, техника и стилизаци
 slug: tay-day
 url: /rus/glossariy/tay-day/
 aliases:
-  - /rus/glossar/tie-dye/
-  - /ru/glossar/tie-dye/
-  - /rus/glossariy/tie-dye/
+  - /glossar/tie-dye/
+  - /glossariy/tie-dye/
 lastmod: "2026-07-09"
 history:
   - Тай-дай связан с практиками резервного окрашивания, при которых отдельные участки ткани защищают от красителя перевязыванием, складыванием или сжатием.

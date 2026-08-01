@@ -9,8 +9,7 @@ image: "images/glossar/koerperkette.png"
 image_alt: "Иллюстрация цепочки на тело как декоративного аксессуара поверх одежды"
 url: /rus/glossariy/koerperkette/
 aliases:
-  - /rus/glossar/koerperkette/
-  - /ru/glossar/koerperkette/
+  - /glossar/koerperkette/
 tags:
   - цепочка-на-тело
   - body-chain

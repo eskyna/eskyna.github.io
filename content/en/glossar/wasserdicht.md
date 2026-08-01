@@ -9,8 +9,7 @@ image: "images/glossar/wasserdicht.png"
 image_alt: "Glossary illustration for Waterproof"
 url: /en/glossary/wasserdicht/
 aliases:
-  - /en/glossar/wasserdicht/
-  - /glossary/wasserdicht/
+  - /glossar/wasserdicht/
 tags:
   - waterproof
   - weather protection

@@ -22,8 +22,7 @@ keywords:
 slug: ocker
 url: /en/glossary/ocker/
 aliases:
-  - /en/glossar/ocker/
-  - /glossary/ocker/
+  - /glossar/ocker/
 relatedTerms:
   - title: "Mustard Yellow"
     url: /en/glossar/senfgelb/

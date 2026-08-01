@@ -34,8 +34,7 @@ seoTitle: "Миди-юбка: что это, как выбрать длину и
 slug: midi-yubka
 url: /rus/glossariy/midi-yubka/
 aliases:
-  - /rus/glossar/midirock/
-  - /ru/glossar/midirock/
+  - /glossar/midirock/
 lastmod: "2026-07-09"
 knowledge:
   - "Длина миди не имеет одной фиксированной точки: она находится в диапазоне от зоны ниже колена до щиколотки."

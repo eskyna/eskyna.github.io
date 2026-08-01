@@ -4,8 +4,7 @@ term: Deadstock Fabric
 description: Deadstock fabric is unused surplus textile from previous fashion production that is repurposed instead of discarded. Learn what it means, how it differs from deadstock clothing, and what to check before buying.
 url: /en/glossary/deadstock-fabric/
 aliases:
-  - /en/glossar/deadstock-fabric/
-  - /glossary/deadstock-fabric/
+  - /glossar/deadstock-fabric/
 category: Materials & Details
 subcategory: Sustainable Materials
 tags:

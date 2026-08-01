@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/bdsm-akzentuation/
 aliases:
-  - /en/glossar/bdsm-akzentuation/
-  - /glossary/bdsm-akzentuation/
+  - /glossar/bdsm-akzentuation/
 image: images/glossar/bdsm-akzentuation.png
 image_alt: "Black outfit with silver chain details and a leather strap belt"
 relatedTerms:

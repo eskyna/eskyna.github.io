@@ -9,8 +9,7 @@ image_alt: "Иллюстрация одежды с рукавом длиной �
 slug: dreiviertelaermel
 url: /rus/glossariy/dreiviertelaermel/
 aliases:
-  - /rus/glossar/dreiviertelaermel/
-  - /ru/glossar/dreiviertelaermel/
+  - /glossar/dreiviertelaermel/
 tags:
   - рукав три четверти
   - длина рукава

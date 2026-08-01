@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/neopren/
 aliases:
-  - /rus/glossar/neopren/
-  - /ru/glossar/neopren/
+  - /glossar/neopren/
 image: images/glossar/neopren.png
 image_alt: "Чёрное платье из гладкого неопрена со структурным силуэтом"
 relatedTerms:

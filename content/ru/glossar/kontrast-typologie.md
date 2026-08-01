@@ -4,8 +4,7 @@ term: "Типология контраста"
 slug: "kontrast-typologie"
 url: "/rus/glossariy/kontrast-typologie/"
 aliases:
-  - "/rus/glossar/kontrast-typologie/"
-  - "/ru/glossar/kontrast-typologie/"
+  - /glossar/kontrast-typologie/
 description: "Типология контраста помогает определить естественную разницу между светлыми и тёмными чертами внешности. Она подсказывает, насколько заметные цветовые сочетания, принты и детали будут выглядеть гармонично рядом с лицом."
 category: "Консультация по цвету и цвет"
 tags:

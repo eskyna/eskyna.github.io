@@ -33,9 +33,8 @@ seoTitle: "Андрогинный стиль: что это и как созда
 slug: androginnyy-stil
 url: /ru/glossar/androgyner-stil/
 aliases:
-  - /rus/glossar/androgyner-stil/
-  - /ru/glossar/androgyner-stil/
-  - /rus/glossariy/androginnyy-stil/
+  - /glossar/androgyner-stil/
+  - /glossariy/androginnyy-stil/
 lastmod: "2026-07-09"
 knowledge:
   - Андрогинный стиль не требует скрывать фигуру или отказываться от украшений. Его определяет осознанный баланс линий, объёма и деталей.

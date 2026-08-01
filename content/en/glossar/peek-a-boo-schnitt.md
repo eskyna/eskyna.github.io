@@ -18,8 +18,7 @@ weight: 999
 slug: "peek-a-boo-schnitt"
 url: "/en/glossary/peek-a-boo-schnitt/"
 aliases:
-  - "/en/glossar/peek-a-boo-schnitt/"
-  - "/glossary/peek-a-boo-schnitt/"
+  - /glossar/peek-a-boo-schnitt/
 image: "images/glossar/peek-a-boo-schnitt.png"
 image_alt: "Black dress with a small side waist opening"
 relatedTerms:

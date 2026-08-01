@@ -9,8 +9,7 @@ image: "images/glossar/einlaufen.png"
 image_alt: "Glossary illustration showing a garment becoming smaller after washing"
 url: /en/glossary/einlaufen/
 aliases:
-  - /en/glossar/einlaufen/
-  - /glossary/einlaufen/
+  - /glossar/einlaufen/
 tags:
   - shrinkage
   - garment care

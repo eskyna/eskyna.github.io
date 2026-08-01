@@ -35,8 +35,7 @@ seoTitle: "Стилевой контраст: значение и примене
 slug: stilevoy-kontrast
 url: /rus/glossariy/stilevoy-kontrast/
 aliases:
-  - /rus/glossar/stilbruch/
-  - /ru/glossar/stilbruch/
+  - /glossar/stilbruch/
 knowledge:
   - Стилевой контраст строится на различии стилевых кодов, а не обязательно на ярком цветовом контрасте.
   - Для цельного образа достаточно одного заметного контраста, если остальные элементы поддерживают общую логику.

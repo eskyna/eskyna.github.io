@@ -9,8 +9,7 @@ image: "images/glossar/fashion-tape.png"
 image_alt: "Double-sided fashion tape strips for securing a neckline and preventing clothing from shifting"
 url: /en/glossary/fashion-tape/
 aliases:
-  - /en/glossar/fashion-tape/
-  - /glossary/fashion-tape/
+  - /glossar/fashion-tape/
 tags:
   - fashion tape
   - styling aid

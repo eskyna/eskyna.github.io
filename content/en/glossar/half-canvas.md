@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /en/glossary/half-canvas/
 aliases:
-  - /en/glossar/half-canvas/
-  - /glossary/half-canvas/
+  - /glossar/half-canvas/
 image: images/glossar/half-canvas.png
 image_alt: Inside view of a tailored jacket showing the structured chest and lapel area
 relatedTerms:

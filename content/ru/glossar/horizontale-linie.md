@@ -34,8 +34,7 @@ seoTitle: "Горизонтальная линия | ESKYNA Glossary"
 slug: gorizontalnaya-liniya
 url: /rus/glossariy/gorizontalnaya-liniya/
 aliases:
-  - /rus/glossar/horizontale-linie/
-  - /ru/glossar/horizontale-linie/
+  - /glossar/horizontale-linie/
 image_alt: "Иллюстрация горизонтальных линий в одежде и их влияния на пропорции"
 lastmod: "2026-07-09"
 knowledge:

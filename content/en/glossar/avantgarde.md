@@ -14,8 +14,7 @@ keywords:
 slug: avantgarde
 url: /en/glossary/avantgarde/
 aliases:
-  - /en/glossar/avantgarde/
-  - /glossary/avantgarde/
+  - /glossar/avantgarde/
 tags:
   - avant-garde fashion
   - experimental style

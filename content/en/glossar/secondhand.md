@@ -21,8 +21,7 @@ keywords:
 slug: secondhand
 url: /en/glossary/secondhand/
 aliases:
-  - /en/glossar/secondhand/
-  - /glossary/secondhand/
+  - /glossar/secondhand/
 image_alt: Editorial illustration representing secondhand clothing and a thoughtfully curated wardrobe
 relatedTerms:
   - title: Vintage Shopping

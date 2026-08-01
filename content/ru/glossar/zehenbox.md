@@ -14,8 +14,7 @@ keywords:
 slug: zehenbox
 url: /rus/glossariy/zehenbox/
 aliases:
-  - /rus/glossar/zehenbox/
-  - /ru/glossar/zehenbox/
+  - /glossar/zehenbox/
 relatedTerms:
   - title: "Форма носка обуви"
     url: /ru/glossar/schuhspitze/

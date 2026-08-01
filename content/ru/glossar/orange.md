@@ -40,8 +40,7 @@ seoTitle: "Оранжевый: значение, оттенки и сочета�
 slug: oranzhevyy
 url: /rus/glossariy/oranzhevyy/
 aliases:
-  - /rus/glossar/orange/
-  - /ru/glossar/orange/
+  - /glossar/orange/
 lastmod: "2026-07-09"
 history:
   - Оранжевый цвет получил своё современное европейское название благодаря плоду апельсина.

@@ -21,8 +21,7 @@ keywords:
 slug: belt
 url: /en/glossary/belt/
 aliases:
-  - /en/glossar/guertel/
-  - /glossary/belt/
+  - /glossar/guertel/
 image_alt: Editorial glossary illustration of a leather belt with a simple metal buckle
 relatedTerms:
   - title: Waist Belt

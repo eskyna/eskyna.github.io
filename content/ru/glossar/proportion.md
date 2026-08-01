@@ -35,8 +35,7 @@ seoTitle: "Пропорции в одежде: как создать балан�
 slug: proportsii
 url: /rus/glossariy/proportsii/
 aliases:
-  - /rus/glossar/proportion/
-  - /ru/glossar/proportion/
+  - /glossar/proportion/
 lastmod: "2026-07-09"
 knowledge:
   - Пропорции зависят не от размера на ярлыке, а от взаимодействия длины, объёма, посадки и линий в конкретном комплекте.

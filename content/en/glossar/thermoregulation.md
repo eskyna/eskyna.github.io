@@ -9,8 +9,7 @@ image: "images/glossar/thermoregulation.png"
 image_alt: "Glossary illustration for Thermoregulation"
 url: /en/glossary/thermoregulation/
 aliases:
-  - /en/glossar/thermoregulation/
-  - /glossary/thermoregulation/
+  - /glossar/thermoregulation/
 tags:
   - thermoregulation
   - clothing comfort

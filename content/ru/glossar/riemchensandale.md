@@ -9,8 +9,7 @@ image: "images/glossar/riemchensandale.png"
 image_alt: "Босоножки с тонкими ремешками и открытым носком"
 url: /rus/glossariy/riemchensandale/
 aliases:
-  - /rus/glossar/riemchensandale/
-  - /ru/glossar/riemchensandale/
+  - /glossar/riemchensandale/
 tags:
   - босоножки
   - обувь

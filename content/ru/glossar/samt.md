@@ -36,8 +36,7 @@ seoTitle: "Бархат: что это за ткань и как её носит
 slug: barhat
 url: /rus/glossariy/barhat/
 aliases:
-  - /rus/glossar/samt/
-  - /ru/glossar/samt/
+  - /glossar/samt/
 lastmod: "2026-07-09"
 history:
   - "Исторически бархат был связан с роскошной одеждой и торжественными предметами гардероба, поскольку его производство требовало сложной работы с ворсом."

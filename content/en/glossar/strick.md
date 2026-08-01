@@ -22,8 +22,7 @@ keywords:
 slug: knitwear
 url: /en/glossary/knitwear/
 aliases:
-  - /en/glossar/strick/
-  - /glossary/knitwear/
+  - /glossar/strick/
 image_alt: Editorial illustration of different knitwear textures and knitted garments
 relatedTerms:
   - title: Fine Knit

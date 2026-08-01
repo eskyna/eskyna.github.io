@@ -21,8 +21,7 @@ keywords:
 slug: circle-skirt
 url: /en/glossary/circle-skirt/
 aliases:
-  - /en/glossar/tellerrock/
-  - /glossary/circle-skirt/
+  - /glossar/tellerrock/
 image_alt: Editorial illustration of a flared circle skirt with a defined waistband
 relatedTerms:
   - title: Skirt

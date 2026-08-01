@@ -22,8 +22,7 @@ keywords:
 slug: shopper
 url: /en/glossary/shopper/
 aliases:
-  - /en/glossar/shopper/
-  - /glossary/shopper/
+  - /glossar/shopper/
 image_alt: Large structured shopper bag with handles for everyday essentials
 relatedTerms:
   - title: Tote Bag

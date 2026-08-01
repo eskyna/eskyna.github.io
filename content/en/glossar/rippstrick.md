@@ -21,8 +21,7 @@ keywords:
 slug: rib-knit
 url: /en/glossary/rib-knit/
 aliases:
-  - /en/glossar/rippstrick/
-  - /glossary/rib-knit/
+  - /glossar/rippstrick/
 image_alt: Close-up illustration of rib knit fabric with narrow vertical raised ribs
 relatedTerms:
   - title: Knitwear

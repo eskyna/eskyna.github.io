@@ -22,8 +22,7 @@ keywords:
 slug: twill
 url: /en/glossary/twill/
 aliases:
-  - /en/glossar/twill/
-  - /glossary/twill/
+  - /glossar/twill/
 image_alt: Close-up illustration of twill fabric showing its characteristic diagonal woven ribs
 relatedTerms:
   - title: Woven Fabric

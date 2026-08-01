@@ -21,8 +21,7 @@ keywords:
 slug: business-professional
 url: /en/glossary/business-professional/
 aliases:
-  - /en/glossar/business-professional/
-  - /glossary/business-professional/
+  - /glossar/business-professional/
 image_alt: Tailored business professional outfit with a structured blazer, trousers, blouse, and polished shoes
 relatedTerms:
   - title: Business Formal

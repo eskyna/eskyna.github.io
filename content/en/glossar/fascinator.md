@@ -14,8 +14,7 @@ keywords:
 slug: fascinator
 url: /en/glossary/fascinator/
 aliases:
-  - /en/glossar/fascinator/
-  - /glossary/fascinator/
+  - /glossar/fascinator/
 tags:
   - fascinator
   - headpiece

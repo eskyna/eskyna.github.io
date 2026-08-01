@@ -34,8 +34,7 @@ seoTitle: "Список покупок гардероба | ESKYNA"
 slug: spisok-pokupok
 url: /ru/glossar/einkaufsliste/
 aliases:
-  - /rus/glossar/einkaufsliste/
-  - /ru/glossar/einkaufsliste/
+  - /glossar/einkaufsliste/
 lastmod: "2026-07-09"
 knowledge:
   - Список покупок отвечает на вопрос «что нужно гардеробу сейчас», а не «что хочется купить в моменте».

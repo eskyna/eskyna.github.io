@@ -21,8 +21,7 @@ keywords:
 slug: pea-coat
 url: /en/glossary/pea-coat/
 aliases:
-  - /en/glossar/cabanjacke/
-  - /glossary/pea-coat/
+  - /glossar/cabanjacke/
 image_alt: Short navy wool pea coat with double-breasted buttons and wide lapels
 relatedTerms:
   - title: Coat

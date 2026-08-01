@@ -5,8 +5,7 @@ description: "Цифровое картирование стиля это сис
 slug: digitales-style-mapping
 url: /rus/glossariy/digitales-style-mapping/
 aliases:
-  - /rus/glossar/digitales-style-mapping/
-  - /ru/glossar/digitales-style-mapping/
+  - /glossar/digitales-style-mapping/
 category: "Гардероб и повседневность"
 tags:
   - цифровой гардероб

@@ -4,8 +4,7 @@ term: "Digital Style Mapping"
 slug: "digitales-style-mapping"
 url: "/en/glossary/digitales-style-mapping/"
 aliases:
-  - "/en/glossar/digitales-style-mapping/"
-  - "/glossary/digitales-style-mapping/"
+  - /glossar/digitales-style-mapping/
 description: "Digital Style Mapping is the structured recording of style preferences, fit information, and wardrobe data to support personalized outfit recommendations."
 category: "Wardrobe & Everyday Style"
 tags:

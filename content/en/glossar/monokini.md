@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/monokini/"
 aliases:
-  - "/en/glossar/monokini/"
-  - "/glossary/monokini/"
+  - /glossar/monokini/
 image: "images/glossar/monokini.png"
 image_alt: "Black one-piece monokini swimsuit with deep side cut-outs"
 relatedTerms:

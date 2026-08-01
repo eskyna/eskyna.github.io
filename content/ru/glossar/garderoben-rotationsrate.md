@@ -18,8 +18,7 @@ weight: 999
 slug: garderoben-rotationsrate
 url: /rus/glossariy/garderoben-rotationsrate/
 aliases:
-  - /rus/glossar/garderoben-rotationsrate/
-  - /ru/glossar/garderoben-rotationsrate/
+  - /glossar/garderoben-rotationsrate/
 image: images/glossar/garderoben-rotationsrate.png
 image_alt: "Одежда на вешалках и отмеченные в календаре дни носки вещей"
 relatedTerms:

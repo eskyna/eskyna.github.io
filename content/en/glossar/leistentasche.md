@@ -20,8 +20,7 @@ image_alt: Glossary illustration of a tailored jetted pocket with narrow fabric 
 slug: leistentasche
 url: /en/glossary/leistentasche/
 aliases:
-  - /en/glossar/leistentasche/
-  - /glossary/leistentasche/
+  - /glossar/leistentasche/
 relatedTerms:
   - title: Welt Pocket
     url: /en/glossar/paspeltasche/

@@ -33,8 +33,7 @@ seoTitle: "Платье с запахом: что это, как выбрать 
 slug: plate-s-zapahom
 url: /ru/glossar/wickelkleid/
 aliases:
-  - /rus/glossar/wickelkleid/
-  - /ru/glossar/wickelkleid/
+  - /glossar/wickelkleid/
 lastmod: "2026-07-09"
 history:
   - "Одежда с запахом известна в разных культурах и исторических костюмах: запах позволяет регулировать объем и фиксировать вещь без сложной застежки."

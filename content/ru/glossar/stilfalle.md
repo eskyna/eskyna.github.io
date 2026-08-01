@@ -4,8 +4,7 @@ term: "Стилевая ловушка"
 slug: stilfalle
 url: /rus/glossariy/stilfalle/
 aliases:
-  - /rus/glossar/stilfalle/
-  - /ru/glossar/stilfalle/
+  - /glossar/stilfalle/
 description: "Стилевая ловушка это незаметная деталь, из-за которой в целом удачный образ выглядит менее собранным, неудобным или неуместным. Часто она связана с посадкой, длиной, бельём, обувью или несоответствием вещей конкретному поводу."
 category: "Стиль и впечатление"
 tags:

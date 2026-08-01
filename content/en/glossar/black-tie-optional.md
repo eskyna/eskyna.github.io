@@ -20,8 +20,7 @@ keywords:
 slug: black-tie-optional
 url: /en/glossary/black-tie-optional/
 aliases:
-  - /en/glossar/black-tie-optional/
-  - /glossary/black-tie-optional/
+  - /glossar/black-tie-optional/
 image_alt: Formal evening outfits illustrating the Black Tie Optional dress code
 relatedTerms:
   - title: Black Tie

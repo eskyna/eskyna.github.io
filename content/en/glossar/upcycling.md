@@ -21,8 +21,7 @@ keywords:
 slug: upcycling
 url: /en/glossary/upcycling/
 aliases:
-  - /en/glossar/upcycling/
-  - /glossary/upcycling/
+  - /glossar/upcycling/
 image_alt: Editorial illustration showing clothing and textile materials transformed through upcycling
 relatedTerms:
   - title: Circular Fashion

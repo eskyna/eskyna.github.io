@@ -5,8 +5,7 @@ description: "Over-the-knee boots are tall boots with shafts that extend above t
 slug: "overknee-stiefel"
 url: "/en/glossary/overknee-stiefel/"
 aliases:
-  - "/en/glossar/overknee-stiefel/"
-  - "/glossary/overknee-stiefel/"
+  - /glossar/overknee-stiefel/
 category: "Shoes"
 tags:
   - "over-the-knee boots"

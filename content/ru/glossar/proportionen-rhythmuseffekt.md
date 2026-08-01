@@ -5,8 +5,7 @@ description: "Ритм пропорций в одежде это чередов�
 slug: proportionen-rhythmuseffekt
 url: /rus/glossariy/proportionen-rhythmuseffekt/
 aliases:
-  - /rus/glossar/proportionen-rhythmuseffekt/
-  - /ru/glossar/proportionen-rhythmuseffekt/
+  - /glossar/proportionen-rhythmuseffekt/
 category: "Крой, пропорции и посадка"
 tags:
   - пропорции

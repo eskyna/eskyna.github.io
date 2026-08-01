@@ -36,9 +36,8 @@ seoTitle: "Сирень: значение и применение | Глосса
 slug: siren
 url: /ru/glossar/flieder/
 aliases:
-  - /rus/glossar/flieder/
-  - /ru/glossar/flieder/
-  - /rus/glossariy/siren/
+  - /glossar/flieder/
+  - /glossariy/siren/
 lastmod: "2026-07-09"
 knowledge:
   - Сиреневый цвет находится в диапазоне между розовым и фиолетовым, поэтому его восприятие зависит от подтона, светлоты и насыщенности.

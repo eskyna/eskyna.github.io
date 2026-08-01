@@ -15,8 +15,7 @@ keywords:
 slug: greenwashing
 url: /rus/glossariy/greenwashing/
 aliases:
-  - /rus/glossar/greenwashing/
-  - /ru/glossar/greenwashing/
+  - /glossar/greenwashing/
 tags:
   - гринвошинг
   - устойчивая мода

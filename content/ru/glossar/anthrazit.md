@@ -36,8 +36,7 @@ seoTitle: "Антрацит: цвет, значение и сочетания в
 slug: antratsit
 url: /rus/glossariy/antratsit/
 aliases:
-  - /rus/glossar/anthrazit/
-  - /ru/glossar/anthrazit/
+  - /glossar/anthrazit/
 lastmod: "2026-07-09"
 history:
   - Название оттенка связано с антрацитом, разновидностью каменного угля с глубоким тёмным цветом и характерным блеском.

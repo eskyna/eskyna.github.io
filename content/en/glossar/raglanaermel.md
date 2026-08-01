@@ -21,8 +21,7 @@ keywords:
 slug: raglan-sleeve
 url: /en/glossary/raglan-sleeve/
 aliases:
-  - /en/glossar/raglanaermel/
-  - /glossary/raglan-sleeve/
+  - /glossar/raglanaermel/
 image_alt: Illustration of a garment with diagonal raglan sleeve seams running from the underarm to the neckline
 relatedTerms:
   - title: Shoulder Line

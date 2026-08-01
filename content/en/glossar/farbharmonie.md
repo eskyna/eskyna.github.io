@@ -21,8 +21,7 @@ keywords:
 slug: color-harmony
 url: /en/glossary/color-harmony/
 aliases:
-  - /en/glossar/farbharmonie/
-  - /glossary/color-harmony/
+  - /glossar/farbharmonie/
 image_alt: Editorial illustration showing harmonious color combinations in a fashion outfit
 relatedTerms:
   - title: Color Temperature

@@ -23,8 +23,7 @@ keywords:
 slug: turquoise
 url: /en/glossary/turquoise/
 aliases:
-  - /en/glossar/tuerkis/
-  - /glossary/turquoise/
+  - /glossar/tuerkis/
 image_alt: Editorial glossary illustration showing a clear blue-green turquoise color
 relatedTerms:
   - title: Blue

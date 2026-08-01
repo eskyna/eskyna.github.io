@@ -9,8 +9,7 @@ image: "images/glossar/thermoregulation.png"
 image_alt: "Иллюстрация терморегуляции в одежде: слои, воздухопроницаемая ткань и защита от холода"
 url: /rus/glossariy/thermoregulation/
 aliases:
-  - /rus/glossar/thermoregulation/
-  - /ru/glossar/thermoregulation/
+  - /glossar/thermoregulation/
 tags:
   - терморегуляция
   - комфорт одежды

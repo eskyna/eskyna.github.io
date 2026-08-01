@@ -5,8 +5,7 @@ description: Оверсайз-посадка, или oversize fit, это нам
 slug: oversizefit
 url: /rus/glossariy/oversizefit/
 aliases:
-  - /rus/glossar/oversizefit/
-  - /ru/glossar/oversizefit/
+  - /glossar/oversizefit/
 category: Крой, пропорции и посадка
 tags:
   - оверсайз-посадка

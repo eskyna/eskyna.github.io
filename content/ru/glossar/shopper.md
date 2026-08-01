@@ -35,9 +35,8 @@ seoTitle: "Шоппер: что это за сумка и как её выбра
 slug: shopper
 url: /ru/glossar/shopper/
 aliases:
-  - /rus/glossar/shopper/
-  - /ru/glossar/shopper/
-  - /rus/glossariy/shopper/
+  - /glossar/shopper/
+  - /glossariy/shopper/
 lastmod: "2026-07-09"
 knowledge:
   - Шоппер выбирают прежде всего по реальной вместимости, длине ручек, весу пустой сумки и удобству внутренней организации.

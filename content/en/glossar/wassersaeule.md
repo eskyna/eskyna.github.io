@@ -9,8 +9,7 @@ image: "images/glossar/wassersaeule.png"
 image_alt: "Illustration explaining water column ratings and waterproof fabric performance"
 url: /en/glossary/wassersaeule/
 aliases:
-  - /en/glossar/wassersaeule/
-  - /glossary/wassersaeule/
+  - /glossar/wassersaeule/
 tags:
   - water column
   - hydrostatic head

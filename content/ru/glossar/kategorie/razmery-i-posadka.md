@@ -11,6 +11,9 @@ glossar_filter_terms:
   - oversized-blazer
   - sanduhr-silhouette
 url: /rus/glossariy/kategoriya/razmery-i-posadka/
+aliases:
+  - /glossar/razmery-i-posadka/
+  - /glossar/kategorie/razmery-i-posadka/
 seoTitle: "Размеры и посадка одежды | ESKYNA"
 image: images/glossar/kategorie/schnitt-proportion-passform.png
 image_alt: "Посадка, объём и пропорции одежды на силуэте"

@@ -21,8 +21,7 @@ keywords:
 slug: craftsmanship
 url: /en/glossary/craftsmanship/
 aliases:
-  - /en/glossar/verarbeitung/
-  - /glossary/craftsmanship/
+  - /glossar/verarbeitung/
 image_alt: Editorial glossary illustration showing garment craftsmanship, seams, fabric, and finishing details
 relatedTerms:
   - title: Craftsmanship

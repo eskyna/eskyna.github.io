@@ -15,8 +15,7 @@ keywords:
 slug: fischgrat
 url: /rus/glossariy/fischgrat/
 aliases:
-  - /rus/glossar/fischgrat/
-  - /ru/glossar/fischgrat/
+  - /glossar/fischgrat/
 tags:
   - "узор"
   - "ткани"

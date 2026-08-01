@@ -14,8 +14,7 @@ keywords:
 slug: bolero
 url: /en/glossary/bolero/
 aliases:
-  - /en/glossar/bolero/
-  - /glossary/bolero/
+  - /glossar/bolero/
 tags:
   - bolero jacket
   - short jacket

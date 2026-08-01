@@ -38,8 +38,7 @@ seoTitle: "Смарт-элегант: что это за стиль и как е
 slug: smart-elegant
 url: /rus/glossariy/smart-elegant/
 aliases:
-  - /rus/glossar/smart-elegant/
-  - /ru/glossar/smart-elegant/
+  - /glossar/smart-elegant/
 image_alt: "Сдержанный образ в стиле смарт-элегант с чистыми линиями и качественными деталями"
 lastmod: "2026-07-09"
 knowledge:

@@ -15,8 +15,7 @@ keywords:
 slug: trauerbekleidung
 url: /rus/glossariy/trauerbekleidung/
 aliases:
-  - /rus/glossar/trauerbekleidung/
-  - /ru/glossar/trauerbekleidung/
+  - /glossar/trauerbekleidung/
 tags:
   - траурная-одежда
   - похороны

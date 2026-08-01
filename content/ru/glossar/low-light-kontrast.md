@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/low-light-kontrast/
 aliases:
-  - /rus/glossar/low-light-kontrast/
-  - /ru/glossar/low-light-kontrast/
+  - /glossar/low-light-kontrast/
 image: images/glossar/low-light-kontrast.png
 image_alt: "Вечерний образ с контрастными деталями в приглушённом свете"
 relatedTerms:

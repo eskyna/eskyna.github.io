@@ -34,8 +34,7 @@ seoTitle: "Полосы в одежде: значение, виды и эффе�
 slug: polosy
 url: /rus/glossariy/polosy/
 aliases:
-  - /rus/glossar/streifen/
-  - /ru/glossar/streifen/
+  - /glossar/streifen/
 lastmod: "2026-07-09"
 knowledge:
   - "Направление полос задаёт движение взгляда: вертикали ведут его сверху вниз, горизонтали разворачивают в стороны, а диагонали добавляют динамику."

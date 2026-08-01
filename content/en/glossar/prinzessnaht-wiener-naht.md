@@ -16,8 +16,7 @@ keywords:
 slug: prinzessnaht-wiener-naht
 url: /en/glossary/prinzessnaht-wiener-naht/
 aliases:
-  - /en/glossar/prinzessnaht-wiener-naht/
-  - /glossary/prinzessnaht-wiener-naht/
+  - /glossar/prinzessnaht-wiener-naht/
 relatedTerms:
   - title: "Darts"
     url: /en/glossar/abnaeher/

@@ -16,8 +16,7 @@ keywords:
 weight: 999
 url: "/en/glossary/cameltoe-vermeidung/"
 aliases:
-  - "/en/glossar/cameltoe-vermeidung/"
-  - "/glossary/cameltoe-vermeidung/"
+  - /glossar/cameltoe-vermeidung/
 image: "images/glossar/cameltoe-vermeidung.png"
 image_alt: "Person checking the smooth fit of black leggings at the waist and hips"
 relatedTerms:

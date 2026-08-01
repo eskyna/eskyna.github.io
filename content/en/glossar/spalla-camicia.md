@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/spalla-camicia/
 aliases:
-  - /en/glossar/spalla-camicia/
-  - /glossary/spalla-camicia/
+  - /glossar/spalla-camicia/
 image: images/glossar/spalla-camicia.png
 image_alt: Softly constructed tailored jacket shoulder without visible padding
 relatedTerms:

@@ -21,8 +21,7 @@ keywords:
 slug: quilted-jacket
 url: /en/glossary/quilted-jacket/
 aliases:
-  - /en/glossar/steppjacke/
-  - /glossary/quilted-jacket/
+  - /glossar/steppjacke/
 image_alt: A lightweight quilted jacket with stitched diamond sections
 relatedTerms:
   - title: Quilted Jacket

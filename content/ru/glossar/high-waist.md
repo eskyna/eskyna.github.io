@@ -36,8 +36,7 @@ seoTitle: "Высокая посадка | ESKYNA Glossary"
 slug: vysokaya-posadka
 url: /rus/glossariy/vysokaya-posadka/
 aliases:
-  - /rus/glossar/high-waist/
-  - /ru/glossar/high-waist/
+  - /glossar/high-waist/
 lastmod: "2026-07-09"
 knowledge:
   - Высокая посадка определяется положением пояса относительно тела, а не размером одежды на ярлыке.

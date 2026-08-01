@@ -4,8 +4,7 @@ term: "Пуш-ап-джинсы"
 slug: push-up-jeans
 url: /rus/glossariy/push-up-jeans/
 aliases:
-  - /rus/glossar/push-up-jeans/
-  - /ru/glossar/push-up-jeans/
+  - /glossar/push-up-jeans/
 description: "Пуш-ап-джинсы это джинсы с конструктивными швами и эластичными поддерживающими вставками, которые визуально подчёркивают и формируют линию ягодиц. Узнайте, как выбрать модель по посадке, комфорту и качеству денима."
 category: "Крой, пропорции и посадка"
 tags:

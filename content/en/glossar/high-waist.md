@@ -22,8 +22,7 @@ keywords:
 slug: high-waist
 url: /en/glossary/high-waist/
 aliases:
-  - /en/glossar/high-waist/
-  - /glossary/high-waist/
+  - /glossar/high-waist/
 image_alt: Illustration of high-waisted trousers with the waistband positioned above the natural waist
 relatedTerms:
   - title: Waist Position

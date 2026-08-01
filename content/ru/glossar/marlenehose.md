@@ -37,8 +37,7 @@ seoTitle: "Брюки Марлен: что это, как сидят и с че�
 slug: bryuki-marlen
 url: /rus/glossariy/bryuki-marlen/
 aliases:
-  - /rus/glossar/marlenehose/
-  - /ru/glossar/marlenehose/
+  - /glossar/marlenehose/
 lastmod: "2026-07-09"
 history:
   - Название брюк связывают с Марлен Дитрих, которая в 1930-е годы сделала женские брюки заметной частью своего экранного и публичного образа.

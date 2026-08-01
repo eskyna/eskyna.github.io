@@ -36,8 +36,7 @@ seoTitle: "Жаккард: что это за ткань и как её носи
 slug: zhakkard
 url: /rus/glossariy/zhakkard/
 aliases:
-  - /rus/glossar/jacquard/
-  - /ru/glossar/jacquard/
+  - /glossar/jacquard/
 lastmod: "2026-07-09"
 history:
   - "Название связано с французским изобретателем Жозефом Мари Жаккаром, чей ткацкий механизм получил широкое распространение в начале XIX века."

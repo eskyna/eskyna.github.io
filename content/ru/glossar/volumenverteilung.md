@@ -34,8 +34,7 @@ seoTitle: "Распределение объёма в одежде: как со�
 slug: raspredelenie-obyoma
 url: /rus/glossariy/raspredelenie-obyoma/
 aliases:
-  - /rus/glossar/volumenverteilung/
-  - /ru/glossar/volumenverteilung/
+  - /glossar/volumenverteilung/
 lastmod: "2026-07-09"
 knowledge:
   - Объём создают не только свободный крой, но и плотная фактура, складки, крупные карманы, многослойность, объёмные рукава и контрастные детали.

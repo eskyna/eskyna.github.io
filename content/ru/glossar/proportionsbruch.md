@@ -34,9 +34,8 @@ seoTitle: "Контраст пропорций: значение и примен
 slug: kontrast-proportsiy
 url: /ru/glossar/proportionsbruch/
 aliases:
-  - /rus/glossar/proportionsbruch/
-  - /ru/glossar/proportionsbruch/
-  - /rus/glossariy/kontrast-proportsiy/
+  - /glossar/proportionsbruch/
+  - /glossariy/kontrast-proportsiy/
 image_alt: "Контраст пропорций в образе: объёмный верх сочетается с более узким низом"
 knowledge:
   - Контраст пропорций строится на различии длины, ширины, объёма или степени прилегания вещей.

@@ -35,8 +35,7 @@ seoTitle: "Фирменный цвет: как выбрать и использ�
 slug: firmennyy-tsvet
 url: /rus/glossariy/firmennyy-tsvet/
 aliases:
-  - /rus/glossar/signature-farbe/
-  - /ru/glossar/signature-farbe/
+  - /glossar/signature-farbe/
 image_alt: "Фирменный цвет как повторяющийся оттенок в личном стиле"
 lastmod: "2026-07-09"
 knowledge:

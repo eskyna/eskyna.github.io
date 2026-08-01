@@ -36,8 +36,7 @@ seoTitle: "Макси-платье: что это, длина и как носи
 slug: maksi-plate
 url: /rus/glossariy/maksi-plate/
 aliases:
-  - /rus/glossar/maxikleid/
-  - /ru/glossar/maxikleid/
+  - /glossar/maxikleid/
 lastmod: "2026-07-09"
 history:
   - "Длинные платья существовали в разных эпохах и культурах, но термин «макси» относится к современной классификации длины одежды."

@@ -37,8 +37,7 @@ seoTitle: "Чинос: что это за брюки и как их носить
 slug: chinos
 url: /rus/glossariy/chinos/
 aliases:
-  - /rus/glossar/chinos/
-  - /ru/glossar/chinos/
+  - /glossar/chinos/
 lastmod: "2026-07-09"
 history:
   - Чинос появились как практичные брюки военного происхождения, которые шили из прочной хлопковой ткани.

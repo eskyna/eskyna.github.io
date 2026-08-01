@@ -18,8 +18,7 @@ keywords:
 slug: "whale-tail"
 url: "/en/glossary/whale-tail/"
 aliases:
-  - "/en/glossar/whale-tail/"
-  - "/glossary/whale-tail/"
+  - /glossar/whale-tail/
 image: "images/glossar/whale-tail.png"
 image_alt: "Thong waistband visible above low-rise jeans at the back"
 relatedTerms:

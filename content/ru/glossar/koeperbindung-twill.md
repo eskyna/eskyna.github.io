@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/koeperbindung-twill/
 aliases:
-  - /rus/glossar/koeperbindung-twill/
-  - /ru/glossar/koeperbindung-twill/
+  - /glossar/koeperbindung-twill/
 image: images/glossar/koeperbindung-twill.png
 image_alt: Диагональный рубчик саржевой ткани крупным планом
 relatedTerms:

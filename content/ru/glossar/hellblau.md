@@ -36,8 +36,7 @@ seoTitle: "Светло-голубой | ESKYNA Glossary"
 slug: svetlo-goluboy
 url: /rus/glossariy/svetlo-goluboy/
 aliases:
-  - /rus/glossar/hellblau/
-  - /ru/glossar/hellblau/
+  - /glossar/hellblau/
 lastmod: "2026-07-09"
 knowledge:
   - "Светло-голубой не является одним строго фиксированным цветом: его восприятие меняется в зависимости от подтона, светлоты, материала и соседних оттенков."

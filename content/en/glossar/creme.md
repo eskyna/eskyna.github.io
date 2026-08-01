@@ -23,8 +23,7 @@ keywords:
 slug: cream
 url: /en/glossary/cream/
 aliases:
-  - /en/glossar/creme/
-  - /glossary/cream/
+  - /glossar/creme/
 image_alt: Soft cream color swatch with a warm ivory undertone
 relatedTerms:
   - title: Cream White

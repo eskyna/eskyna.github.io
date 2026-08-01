@@ -20,8 +20,7 @@ keywords:
 slug: tapered-fit
 url: /en/glossary/tapered-fit/
 aliases:
-  - /en/glossar/tapered-fit/
-  - /glossary/tapered-fit/
+  - /glossar/tapered-fit/
 image_alt: Illustration of tapered trousers with a fuller thigh and narrower ankle
 relatedTerms:
   - title: Tapered Fit

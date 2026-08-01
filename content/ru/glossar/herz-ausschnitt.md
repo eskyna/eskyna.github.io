@@ -35,8 +35,7 @@ seoTitle: "Вырез сердечком: что это и кому подход
 slug: vyrez-serdechkom
 url: /rus/glossariy/vyrez-serdechkom/
 aliases:
-  - /rus/glossar/herz-ausschnitt/
-  - /ru/glossar/herz-ausschnitt/
+  - /glossar/herz-ausschnitt/
 lastmod: "2026-07-09"
 knowledge:
   - Вырез сердечком образуют две округлые линии в верхней части лифа и небольшая выемка по центру.

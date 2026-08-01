@@ -33,9 +33,8 @@ seoTitle: "Белые тканевые кроссовки | ESKYNA"
 slug: belye-tkanevye-krossovki
 url: /rus/glossariy/belye-tkanevye-krossovki/
 aliases:
-  - /rus/glossar/white-canvas-sneaker/
-  - /ru/glossar/white-canvas-sneaker/
-  - /rus/glossariy/white-canvas-sneaker/
+  - /glossar/white-canvas-sneaker/
+  - /glossariy/white-canvas-sneaker/
 image_alt: "Белые тканевые кроссовки с плоской подошвой"
 history:
   - Тканевые кеды выросли из спортивной и прогулочной обуви, а затем стали заметной частью повседневного гардероба.

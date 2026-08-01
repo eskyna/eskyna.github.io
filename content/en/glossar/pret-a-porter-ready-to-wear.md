@@ -14,8 +14,7 @@ keywords:
 slug: pret-a-porter-ready-to-wear
 url: /en/glossary/pret-a-porter-ready-to-wear/
 aliases:
-  - /en/glossar/pret-a-porter-ready-to-wear/
-  - /glossary/pret-a-porter-ready-to-wear/
+  - /glossar/pret-a-porter-ready-to-wear/
 relatedTerms:
   - title: "Haute Couture"
     url: /en/glossar/haute-couture/

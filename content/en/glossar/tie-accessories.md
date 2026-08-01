@@ -23,8 +23,7 @@ keywords:
 slug: tie-accessories
 url: /en/glossary/tie-accessories/
 aliases:
-  - /en/glossar/tie-accessories/
-  - /glossary/tie-accessories/
+  - /glossar/tie-accessories/
 image_alt: Tie bar, tie pin, and tie chain arranged beside a classic necktie
 relatedTerms:
   - title: Tie

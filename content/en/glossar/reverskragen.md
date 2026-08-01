@@ -8,8 +8,7 @@ image_alt: Glossary illustration of a tailored jacket with a lapel collar and fo
 slug: reverskragen
 url: /en/glossary/reverskragen/
 aliases:
-  - /en/glossar/reverskragen/
-  - /glossary/reverskragen/
+  - /glossar/reverskragen/
 tags:
   - lapel collar
   - lapels

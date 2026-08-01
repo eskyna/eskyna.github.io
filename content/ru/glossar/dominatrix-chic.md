@@ -4,8 +4,7 @@ term: "Доминатрикс-шик"
 slug: dominatrix-chic
 url: /rus/glossariy/dominatrix-chic/
 aliases:
-  - /rus/glossar/dominatrix-chic/
-  - /ru/glossar/dominatrix-chic/
+  - /glossar/dominatrix-chic/
 description: "Доминатрикс-шик, или Dominatrix Chic, это выразительная эстетика с кожей, корсетными линиями, высокими сапогами и чокерами. Она передаёт ощущение силы, контроля и подчеркнутой женственности через смелые формы и фактуры."
 category: "Стиль и впечатление"
 tags:

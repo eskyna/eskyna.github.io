@@ -23,8 +23,7 @@ keywords:
 slug: koralle
 url: /rus/glossariy/koralle/
 aliases:
-  - /rus/glossar/koralle/
-  - /ru/glossar/koralle/
+  - /glossar/koralle/
 relatedTerms:
   - title: "Подтон"
     url: /ru/glossar/unterton/

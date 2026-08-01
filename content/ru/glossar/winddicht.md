@@ -9,8 +9,7 @@ image: "images/glossar/winddicht.png"
 image_alt: "Ветрозащитная куртка для прохладной и ветреной погоды"
 url: /rus/glossariy/winddicht/
 aliases:
-  - /rus/glossar/winddicht/
-  - /ru/glossar/winddicht/
+  - /glossar/winddicht/
 tags:
   - ветрозащита
   - функциональная одежда

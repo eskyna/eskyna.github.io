@@ -21,8 +21,7 @@ keywords:
 slug: v-line
 url: /en/glossary/v-line/
 aliases:
-  - /en/glossar/v-linie/
-  - /glossary/v-line/
+  - /glossar/v-linie/
 image_alt: Editorial glossary illustration of a V-Line silhouette with broad shoulders and a narrower lower body
 relatedTerms:
   - title: Inverted Triangle

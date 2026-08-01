@@ -22,8 +22,7 @@ keywords:
 slug: kupfer
 url: /en/glossary/kupfer/
 aliases:
-  - /en/glossar/kupfer/
-  - /glossary/kupfer/
+  - /glossar/kupfer/
 relatedTerms:
   - title: "Bronze"
     url: /en/glossar/bronze/

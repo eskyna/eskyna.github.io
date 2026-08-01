@@ -9,8 +9,7 @@ image: "images/glossar/lichtechtheit.png"
 image_alt: "Иллюстрация, объясняющая светостойкость цвета ткани и защиту одежды от выгорания"
 url: /rus/glossariy/lichtechtheit/
 aliases:
-  - /rus/glossar/lichtechtheit/
-  - /ru/glossar/lichtechtheit/
+  - /glossar/lichtechtheit/
 tags:
   - светостойкость
   - уход за одеждой

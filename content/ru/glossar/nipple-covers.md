@@ -9,8 +9,7 @@ image: "images/glossar/nipple-covers.png"
 image_alt: "Иллюстрация накладок на соски Nipple Covers и Pasties для тонкой одежды"
 url: /rus/glossariy/nipple-covers/
 aliases:
-  - /rus/glossar/nipple-covers/
-  - /ru/glossar/nipple-covers/
+  - /glossar/nipple-covers/
 lastmod: "2026-07-22"
 tags:
   - накладки на соски

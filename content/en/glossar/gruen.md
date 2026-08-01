@@ -21,8 +21,7 @@ keywords:
 slug: green
 url: /en/glossary/green/
 aliases:
-  - /en/glossar/gruen/
-  - /glossary/green/
+  - /glossar/gruen/
 image_alt: Editorial illustration showing a muted green color swatch
 relatedTerms:
   - title: Olive

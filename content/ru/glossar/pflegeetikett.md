@@ -34,8 +34,7 @@ seoTitle: "Ярлык по уходу | ESKYNA Glossary"
 slug: yarlyk-po-uhodu
 url: /rus/glossariy/yarlyk-po-uhodu/
 aliases:
-  - /rus/glossar/pflegeetikett/
-  - /ru/glossar/pflegeetikett/
+  - /glossar/pflegeetikett/
 lastmod: "2026-07-09"
 knowledge:
   - Ярлык по уходу обычно указывает допустимые способы стирки, отбеливания, сушки, глажки и профессиональной чистки.

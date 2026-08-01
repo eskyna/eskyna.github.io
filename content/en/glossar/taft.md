@@ -20,8 +20,7 @@ keywords:
 slug: taft
 url: /en/glossary/taft/
 aliases:
-  - /en/glossar/taft/
-  - /glossary/taft/
+  - /glossar/taft/
 relatedTerms:
   - title: "Satin"
     url: /en/glossar/satin/

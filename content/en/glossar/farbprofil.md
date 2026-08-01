@@ -20,8 +20,7 @@ keywords:
 slug: color-profile
 url: /en/glossary/color-profile/
 aliases:
-  - /en/glossar/farbprofil/
-  - /glossary/color-profile/
+  - /glossar/farbprofil/
 image_alt: Editorial illustration showing a personal color profile with coordinated color swatches
 relatedTerms:
   - title: Color Type

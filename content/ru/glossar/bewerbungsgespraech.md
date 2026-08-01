@@ -34,9 +34,8 @@ seoTitle: "Как одеться на собеседование | ESKYNA"
 slug: obraz-dlya-sobesedovaniya
 url: /rus/glossariy/obraz-dlya-sobesedovaniya/
 aliases:
-  - /rus/glossar/bewerbungsgespraech/
-  - /ru/glossar/bewerbungsgespraech/
-  - /rus/glossariy/intervyu-pri-priyome-na-rabotu/
+  - /glossar/bewerbungsgespraech/
+  - /glossariy/intervyu-pri-priyome-na-rabotu/
 lastmod: "2026-07-09"
 knowledge:
   - Уместность образа для интервью определяется не только степенью формальности, но и культурой компании, должностью, форматом встречи и ожиданиями отрасли.

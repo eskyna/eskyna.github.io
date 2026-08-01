@@ -35,8 +35,7 @@ seoTitle: "Элегантный стиль | ESKYNA Glossary"
 slug: elegantnyy
 url: /ru/glossar/elegant/
 aliases:
-  - /rus/glossar/elegant/
-  - /ru/glossar/elegant/
+  - /glossar/elegant/
 lastmod: "2026-07-09"
 knowledge:
   - Элегантность создаётся не количеством дорогих или нарядных вещей, а согласованностью посадки, пропорций, цвета и деталей.

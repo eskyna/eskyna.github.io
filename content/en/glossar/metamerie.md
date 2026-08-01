@@ -15,8 +15,7 @@ keywords:
 slug: metamerie
 url: /en/glossary/metamerie/
 aliases:
-  - /en/glossar/metamerie/
-  - /glossary/metamerie/
+  - /glossar/metamerie/
 tags:
   - "metamerism"
   - "color perception"

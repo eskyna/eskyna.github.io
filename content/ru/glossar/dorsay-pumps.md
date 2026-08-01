@@ -15,8 +15,7 @@ keywords:
 slug: dorsay-pumps
 url: /rus/glossariy/dorsay-pumps/
 aliases:
-  - /rus/glossar/dorsay-pumps/
-  - /ru/glossar/dorsay-pumps/
+  - /glossar/dorsay-pumps/
 tags:
   - туфли
   - лодочки

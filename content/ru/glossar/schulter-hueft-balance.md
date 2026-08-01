@@ -34,8 +34,7 @@ seoTitle: "Баланс плеч и бёдер: как одежда влияет
 slug: balans-plech-i-byoder
 url: /ru/glossar/schulter-hueft-balance/
 aliases:
-  - /rus/glossar/schulter-hueft-balance/
-  - /ru/glossar/schulter-hueft-balance/
+  - /glossar/schulter-hueft-balance/
 image_alt: "Схема визуального баланса линии плеч и бёдер в силуэте одежды"
 lastmod: "2026-07-09"
 knowledge:

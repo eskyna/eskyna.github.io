@@ -7,8 +7,7 @@ subcategory: Детали кроя
 slug: barchetta-tasche
 url: /rus/glossariy/barchetta-tasche/
 aliases:
-  - /rus/glossar/barchetta-tasche/
-  - /ru/glossar/barchetta-tasche/
+  - /glossar/barchetta-tasche/
 tags:
   - карман баркетта
   - детали пиджака

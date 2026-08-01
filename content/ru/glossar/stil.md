@@ -35,8 +35,7 @@ seoTitle: "Стиль в одежде | ESKYNA Glossary"
 slug: stil
 url: /rus/glossariy/stil/
 aliases:
-  - /rus/glossar/stil/
-  - /ru/glossar/stil/
+  - /glossar/stil/
 lastmod: "2026-07-09"
 knowledge:
   - Стиль проявляется не в количестве вещей и не в следовании трендам, а в повторяющихся и осознанных решениях.

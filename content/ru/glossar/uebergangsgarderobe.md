@@ -34,8 +34,7 @@ seoTitle: "Межсезонный гардероб: что это и как со
 slug: mezhsezonnyy-garderob
 url: /rus/glossariy/mezhsezonnyy-garderob/
 aliases:
-  - /rus/glossar/uebergangsgarderobe/
-  - /ru/glossar/uebergangsgarderobe/
+  - /glossar/uebergangsgarderobe/
 lastmod: "2026-07-09"
 knowledge:
   - "Межсезонный гардероб не требует отдельного набора одежды на каждый месяц: его основу составляют вещи, которые можно утеплить, облегчить или дополнить новым слоем."

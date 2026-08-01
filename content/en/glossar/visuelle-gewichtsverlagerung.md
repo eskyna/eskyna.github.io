@@ -5,8 +5,7 @@ description: "Visual weight shifting is a styling technique that directs attenti
 slug: "visuelle-gewichtsverlagerung"
 url: "/en/glossary/visuelle-gewichtsverlagerung/"
 aliases:
-  - "/en/glossar/visuelle-gewichtsverlagerung/"
-  - "/glossary/visuelle-gewichtsverlagerung/"
+  - /glossar/visuelle-gewichtsverlagerung/
 category: "Cut, Proportion & Fit"
 tags:
   - "visual weight shifting"

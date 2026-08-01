@@ -8,8 +8,8 @@ url: /rus/glossariy/kategoriya/stil-i-vpechatlenie/
 image: images/glossar/kategorie/stil-wirkung.png
 seoTitle: Стиль и впечатление | Глоссарий ESKYNA
 aliases:
-  - /rus/glossar/kategorie/stil-und-vozdeystvie/
-  - /ru/glossar/kategorie/stil-und-vozdeystvie/
+  - /glossar/kategorie/stil-und-vozdeystvie/
+  - /glossar/stil-und-vozdeystvie/
 keywords:
   - стиль и впечатление
   - личный стиль

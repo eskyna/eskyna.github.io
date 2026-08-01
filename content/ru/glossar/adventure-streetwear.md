@@ -36,9 +36,8 @@ seoTitle: "Приключенческий стритвир | ESKYNA"
 slug: priklyuchencheskiy-stritvir
 url: /rus/glossariy/priklyuchencheskiy-stritvir/
 aliases:
-  - /rus/glossar/adventure-streetwear/
-  - /ru/glossar/adventure-streetwear/
-  - /rus/glossariy/adventure-streetwear/
+  - /glossar/adventure-streetwear/
+  - /glossariy/adventure-streetwear/
 image_alt: "Городской образ в стиле приключенческого стритвира с функциональной верхней одеждой и практичными деталями"
 lastmod: "2026-07-09"
 knowledge:

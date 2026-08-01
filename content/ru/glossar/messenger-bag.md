@@ -9,8 +9,7 @@ image: "images/glossar/messenger-bag.png"
 image_alt: "Сумка Messenger Bag с клапаном и длинным ремнем через плечо"
 url: /rus/glossariy/messenger-bag/
 aliases:
-  - /rus/glossar/messenger-bag/
-  - /ru/glossar/messenger-bag/
+  - /glossar/messenger-bag/
 tags:
   - messenger-bag
   - сумка-почтальона

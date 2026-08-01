@@ -9,8 +9,7 @@ image_alt: Illustration of a patch pocket sewn onto the outside of a jacket
 slug: aufgesetzte-tasche
 url: /en/glossary/aufgesetzte-tasche/
 aliases:
-  - /en/glossar/aufgesetzte-tasche/
-  - /glossary/aufgesetzte-tasche/
+  - /glossar/aufgesetzte-tasche/
 tags:
   - patch pocket
   - pocket detail

@@ -5,8 +5,7 @@ description: "Micro-Waist Illusion is a styling technique that makes the waist a
 slug: micro-waist-illusion
 url: /en/glossary/micro-waist-illusion/
 aliases:
-  - /en/glossar/micro-waist-illusion/
-  - /glossary/micro-waist-illusion/
+  - /glossar/micro-waist-illusion/
 category: Cut, Proportion & Fit
 tags:
   - micro-waist illusion

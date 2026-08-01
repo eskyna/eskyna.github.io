@@ -15,8 +15,7 @@ keywords:
 slug: kaftan
 url: /en/glossary/kaftan/
 aliases:
-  - /en/glossar/kaftan/
-  - /glossary/kaftan/
+  - /glossar/kaftan/
 relatedTerms:
   - title: "Tunic"
     url: /en/glossar/tunika/

@@ -8,8 +8,7 @@ image_alt: Glossary illustration for Digital Product Passport
 slug: digitaler-produktpass
 url: /en/glossary/digitaler-produktpass/
 aliases:
-  - /en/glossar/digitaler-produktpass/
-  - /glossary/digitaler-produktpass/
+  - /glossar/digitaler-produktpass/
 tags:
   - Digital Product Passport
   - fashion transparency

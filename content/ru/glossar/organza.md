@@ -34,8 +34,7 @@ seoTitle: "Органза: что это за ткань и как её носи
 slug: organza
 url: /rus/glossariy/organza/
 aliases:
-  - /rus/glossar/organza/
-  - /ru/glossar/organza/
+  - /glossar/organza/
 lastmod: "2026-07-09"
 history:
   - Органза исторически ассоциируется с тонкими шёлковыми тканями, которые ценили за прозрачность, лёгкость и способность сохранять форму.

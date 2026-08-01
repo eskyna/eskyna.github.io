@@ -18,11 +18,9 @@ keywords:
 weight: 999
 url: /en/glossary/color-blocking/
 aliases:
-  - /en/glossar/color-blocking/
-  - /glossary/color-blocking/
-  - /en/glossar/colour-blocking/
+  - /glossar/color-blocking/
+  - /glossar/colour-blocking/
   - /glossary/colour-blocking/
-  - /en/glossary/colour-blocking/
 image: images/glossar/color-blocking.png
 image_alt: Woman wearing a bright blue top with wide leg orange trousers
 relatedTerms:

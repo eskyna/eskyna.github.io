@@ -33,8 +33,7 @@ seoTitle: "Любимая вещь: что это значит в гардеро
 slug: lyubimaya-veshch
 url: /rus/glossariy/lyubimaya-veshch/
 aliases:
-  - /rus/glossar/lieblingsstueck/
-  - /ru/glossar/lieblingsstueck/
+  - /glossar/lieblingsstueck/
 lastmod: "2026-07-09"
 knowledge:
   - "Любимая вещь не обязательно является базовой, дорогой или универсальной. Главный критерий состоит в том, что вы действительно хотите и можете её носить."

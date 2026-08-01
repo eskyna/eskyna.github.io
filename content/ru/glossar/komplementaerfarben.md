@@ -34,9 +34,8 @@ seoTitle: "Комплементарные цвета в одежде | ESKYNA"
 slug: komplementarnye-tsveta
 url: /ru/glossar/komplementaerfarben/
 aliases:
-  - /rus/glossar/komplementaerfarben/
-  - /ru/glossar/komplementaerfarben/
-  - /rus/glossariy/komplementarnye-tsveta/
+  - /glossar/komplementaerfarben/
+  - /glossariy/komplementarnye-tsveta/
 lastmod: "2026-07-09"
 knowledge:
   - Комплементарные пары зависят от используемой цветовой модели, поэтому набор противоположных оттенков в разных кругах может различаться.

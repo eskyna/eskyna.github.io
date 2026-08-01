@@ -22,8 +22,7 @@ keywords:
 slug: wardrobe-dressing
 url: /en/glossary/wardrobe-dressing/
 aliases:
-  - /en/glossar/wardrobe-dressing/
-  - /glossary/wardrobe-dressing/
+  - /glossar/wardrobe-dressing/
 relatedTerms:
   - title: Wardrobe Strategy
     url: /en/glossar/garderobenstrategie/

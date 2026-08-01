@@ -34,8 +34,7 @@ seoTitle: "Гусиная лапка: что это за узор и как ег
 slug: gusinaya-lapka
 url: /rus/glossariy/gusinaya-lapka/
 aliases:
-  - /rus/glossar/hahnentritt/
-  - /ru/glossar/hahnentritt/
+  - /glossar/hahnentritt/
 lastmod: "2026-07-09"
 history:
   - Узор гусиная лапка связан с традиционными шерстяными тканями Шотландии и первоначально встречался в спокойных природных сочетаниях оттенков.

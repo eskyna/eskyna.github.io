@@ -9,8 +9,7 @@ image: "images/glossar/wasserabweisend.png"
 image_alt: "Glossary illustration for Water-Repellent"
 url: /en/glossary/wasserabweisend/
 aliases:
-  - /en/glossar/wasserabweisend/
-  - /glossary/wasserabweisend/
+  - /glossar/wasserabweisend/
 tags:
   - water-repellent
   - weather protection

@@ -5,8 +5,7 @@ description: "A balconette bikini is a supportive bikini top with wide-set strap
 slug: balconette-bikini
 url: /en/glossary/balconette-bikini/
 aliases:
-  - /en/glossar/balconette-bikini/
-  - /glossary/balconette-bikini/
+  - /glossar/balconette-bikini/
 category: Lingerie, Bras & Styling Aids
 tags:
   - balconette bikini

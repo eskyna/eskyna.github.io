@@ -21,8 +21,7 @@ keywords:
 slug: your-signature
 url: /en/glossary/your-signature/
 aliases:
-  - /en/glossar/your-signature/
-  - /glossary/your-signature/
+  - /glossar/your-signature/
 image_alt: Editorial illustration showing a coherent personal style signature through color, silhouette, and accessories
 relatedTerms:
   - title: Signature Look

@@ -5,8 +5,7 @@ description: "Викуньевая шерсть, или викунья, это �
 slug: vikunja
 url: /rus/glossariy/vikunja/
 aliases:
-  - /rus/glossar/vikunja/
-  - /ru/glossar/vikunja/
+  - /glossar/vikunja/
 category: "Материалы и детали"
 tags:
   - викунья

@@ -16,8 +16,7 @@ keywords:
 slug: kappnaht
 url: /rus/glossariy/kappnaht/
 aliases:
-  - /rus/glossar/kappnaht/
-  - /ru/glossar/kappnaht/
+  - /glossar/kappnaht/
 relatedTerms:
   - title: "Шов"
     url: /ru/glossar/naht/

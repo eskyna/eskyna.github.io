@@ -15,8 +15,7 @@ keywords:
 slug: sarong
 url: /rus/glossariy/sarong/
 aliases:
-  - /rus/glossar/sarong/
-  - /ru/glossar/sarong/
+  - /glossar/sarong/
 tags:
   - "саронг"
   - "пляжная одежда"

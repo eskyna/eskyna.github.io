@@ -9,8 +9,7 @@ image: "images/glossar/belt-bag.png"
 image_alt: "Glossary illustration for Belt Bag"
 url: /en/glossary/belt-bag/
 aliases:
-  - /en/glossar/belt-bag/
-  - /glossary/belt-bag/
+  - /glossar/belt-bag/
 tags:
   - Belt Bag
   - Bags

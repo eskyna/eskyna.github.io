@@ -14,8 +14,7 @@ keywords:
 slug: blazerkleid
 url: /rus/glossariy/blazerkleid/
 aliases:
-  - /rus/glossar/blazerkleid/
-  - /ru/glossar/blazerkleid/
+  - /glossar/blazerkleid/
 tags:
   - платье-блейзер
   - платье пиджак

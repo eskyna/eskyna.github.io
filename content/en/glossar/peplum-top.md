@@ -21,8 +21,7 @@ keywords:
 slug: peplum-top
 url: /en/glossary/peplum-top/
 aliases:
-  - /en/glossar/peplum-top/
-  - /glossary/peplum-top/
+  - /glossar/peplum-top/
 image_alt: Fitted peplum top with a flared waist detail
 relatedTerms:
   - title: Waist Emphasis

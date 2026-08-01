@@ -35,8 +35,7 @@ seoTitle: "V-линия: что это в одежде и как влияет н
 slug: v-liniya
 url: /rus/glossariy/v-liniya/
 aliases:
-  - /rus/glossar/v-linie/
-  - /ru/glossar/v-linie/
+  - /glossar/v-linie/
 lastmod: "2026-07-09"
 knowledge:
   - "V-линию могут создавать не только V-образный вырез, но и лацканы жакета, запах, расстёгнутая планка, контрастные диагонали и линии кроя."

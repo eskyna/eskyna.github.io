@@ -34,8 +34,7 @@ seoTitle: "Ключевая вещь: значение и применение |
 slug: klyuchevaya-veshch
 url: /rus/glossariy/klyuchevaya-veshch/
 aliases:
-  - /rus/glossar/key-piece/
-  - /ru/glossar/key-piece/
+  - /glossar/key-piece/
 lastmod: "2026-07-09"
 knowledge:
   - Ключевая вещь определяется не ценой, брендом или заметностью, а тем, как часто и с чем вы действительно её носите.

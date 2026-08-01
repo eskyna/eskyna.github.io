@@ -15,8 +15,7 @@ keywords:
 slug: ikat
 url: /en/glossary/ikat/
 aliases:
-  - /en/glossar/ikat/
-  - /glossary/ikat/
+  - /glossar/ikat/
 tags:
   - "ikat"
   - "woven fabric"

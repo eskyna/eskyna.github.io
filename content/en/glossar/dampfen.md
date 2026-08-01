@@ -24,8 +24,7 @@ keywords:
 slug: steaming
 url: /en/glossary/steaming/
 aliases:
-  - /en/glossar/dampfen/
-  - /glossary/steaming/
+  - /glossar/dampfen/
 image_alt: Handheld garment steamer releasing steam over a hanging blouse
 relatedTerms:
   - title: Ironing

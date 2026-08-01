@@ -5,8 +5,7 @@ description: "Subtle seduction is a styling principle for romantic occasions tha
 slug: "subtile-verfuehrung"
 url: "/en/glossary/subtile-verfuehrung/"
 aliases:
-  - "/en/glossar/subtile-verfuehrung/"
-  - "/glossary/subtile-verfuehrung/"
+  - /glossar/subtile-verfuehrung/
 category: "Style & Impact"
 tags:
   - "subtle seduction"

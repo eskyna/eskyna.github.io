@@ -4,8 +4,7 @@ term: Instant Glamour Effect
 slug: instant-glamour-effekt
 url: /en/glossary/instant-glamour-effekt/
 aliases:
-  - /en/glossar/instant-glamour-effekt/
-  - /glossary/instant-glamour-effekt/
+  - /glossar/instant-glamour-effekt/
 description: "The Instant Glamour Effect is the quick transformation of a simple daytime outfit into an exciting evening look through one striking statement piece."
 category: Style & Impact
 tags:

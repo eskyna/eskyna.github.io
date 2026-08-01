@@ -35,9 +35,8 @@ seoTitle: "Булавка для лацкана: что это и как нос�
 slug: bulavka-dlya-latskana
 url: /rus/glossariy/bulavka-dlya-latskana/
 aliases:
-  - /rus/glossar/lapel-pin/
-  - /ru/glossar/lapel-pin/
-  - /rus/glossariy/lapel-pin/
+  - /glossar/lapel-pin/
+  - /glossariy/lapel-pin/
 image_alt: "Небольшая декоративная булавка, закреплённая на лацкане пиджака"
 lastmod: "2026-07-09"
 history:

@@ -33,9 +33,8 @@ seoTitle: "Куртка утилити | ESKYNA Glossary"
 slug: kurtka-utiliti
 url: /rus/glossariy/kurtka-utiliti/
 aliases:
-  - /rus/glossar/utility-jacket/
-  - /ru/glossar/utility-jacket/
-  - /rus/glossariy/utility-jacket/
+  - /glossar/utility-jacket/
+  - /glossariy/utility-jacket/
 lastmod: "2026-07-09"
 history:
   - "Утилитарная одежда формировалась вокруг практических задач: защиты, свободы движения и хранения необходимых вещей."

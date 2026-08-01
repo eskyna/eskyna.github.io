@@ -34,8 +34,7 @@ seoTitle: "Символы ухода | ESKYNA Glossary"
 slug: simvoly-uhoda
 url: /rus/glossariy/simvoly-uhoda/
 aliases:
-  - /rus/glossar/waschsymbole/
-  - /ru/glossar/waschsymbole/
+  - /glossar/waschsymbole/
 image_alt: "Основные символы ухода за одеждой на ярлыке: стирка, отбеливание, сушка, глажка и химическая чистка"
 lastmod: "2026-07-09"
 history:

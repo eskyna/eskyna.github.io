@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/kapsel-skalierbarkeit/
 aliases:
-  - /en/glossar/kapsel-skalierbarkeit/
-  - /glossary/kapsel-skalierbarkeit/
+  - /glossar/kapsel-skalierbarkeit/
 image: images/glossar/kapsel-skalierbarkeit.png
 image_alt: "A small coordinated wardrobe with neutral clothing, shoes, and a structured bag"
 relatedTerms:

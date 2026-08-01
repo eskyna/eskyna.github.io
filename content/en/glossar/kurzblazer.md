@@ -22,8 +22,7 @@ keywords:
 slug: cropped-blazer
 url: /en/glossary/cropped-blazer/
 aliases:
-  - /en/glossar/kurzblazer/
-  - /glossary/cropped-blazer/
+  - /glossar/kurzblazer/
 image_alt: Cropped blazer with a shortened hem ending near the waist
 relatedTerms:
   - title: Blazer

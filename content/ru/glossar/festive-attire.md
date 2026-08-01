@@ -34,9 +34,8 @@ seoTitle: "Праздничный дресс-код | ESKYNA"
 slug: prazdnichnyy-dress-kod
 url: /rus/glossariy/prazdnichnyy-dress-kod/
 aliases:
-  - /rus/glossar/festive-attire/
-  - /ru/glossar/festive-attire/
-  - /rus/glossariy/festive-attire/
+  - /glossar/festive-attire/
+  - /glossariy/festive-attire/
 image_alt: "Праздничный образ с нарядной одеждой и выразительными аксессуарами"
 lastmod: "2026-07-09"
 knowledge:

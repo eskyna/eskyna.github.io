@@ -35,8 +35,7 @@ seoTitle: "Верблюжий цвет: кому подходит и с чем �
 slug: verblyuzhiy-tsvet
 url: /rus/glossariy/verblyuzhiy-tsvet/
 aliases:
-  - /rus/glossar/camel/
-  - /ru/glossar/camel/
+  - /glossar/camel/
 lastmod: "2026-07-09"
 knowledge:
   - Верблюжий относится к тёплым нейтральным оттенкам и находится между бежевым и коричневым.

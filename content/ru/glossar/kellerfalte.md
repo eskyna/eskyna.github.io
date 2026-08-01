@@ -20,8 +20,7 @@ image_alt: "Иллюстрация встречной складки из дву
 slug: kellerfalte
 url: /rus/glossariy/kellerfalte/
 aliases:
-  - /rus/glossar/kellerfalte/
-  - /ru/glossar/kellerfalte/
+  - /glossar/kellerfalte/
 relatedTerms:
   - title: Складки
     url: /ru/glossar/falten/

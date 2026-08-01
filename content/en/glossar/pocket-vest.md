@@ -21,8 +21,7 @@ keywords:
 slug: pocket-vest
 url: /en/glossary/pocket-vest/
 aliases:
-  - /en/glossar/pocket-vest/
-  - /glossary/pocket-vest/
+  - /glossar/pocket-vest/
 image_alt: Utility-inspired pocket vest with multiple front pockets
 relatedTerms:
   - title: Utility Jacket

@@ -15,8 +15,7 @@ keywords:
 slug: zwickel
 url: /en/glossary/zwickel/
 aliases:
-  - /en/glossar/zwickel/
-  - /glossary/zwickel/
+  - /glossar/zwickel/
 relatedTerms:
   - title: "Movement allowance"
     url: /en/glossar/bewegungszugabe/

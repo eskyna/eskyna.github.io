@@ -38,8 +38,7 @@ seoTitle: "Нежно-розовый: значение цвета и сочет�
 slug: rozovyy
 url: /rus/glossariy/rozovyy/
 aliases:
-  - /rus/glossar/rosa/
-  - /ru/glossar/rosa/
+  - /glossar/rosa/
 lastmod: "2026-07-09"
 knowledge:
   - Нежно-розовый может быть тёплым, холодным или близким к нейтральному, поэтому название оттенка само по себе не определяет, насколько он подходит внешности.

@@ -9,8 +9,7 @@ image: "images/glossar/lingerie-dressing.png"
 image_alt: "Иллюстрация образа в бельевом стиле с платьем-комбинацией и жакетом"
 url: /rus/glossariy/lingerie-dressing/
 aliases:
-  - /rus/glossar/lingerie-dressing/
-  - /ru/glossar/lingerie-dressing/
+  - /glossar/lingerie-dressing/
 tags:
   - lingerie-dressing
   - бельевой-стиль

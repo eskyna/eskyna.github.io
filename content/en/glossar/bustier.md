@@ -21,8 +21,7 @@ keywords:
 slug: bustier
 url: /en/glossary/bustier/
 aliases:
-  - /en/glossar/bustier/
-  - /glossary/bustier/
+  - /glossar/bustier/
 image_alt: Structured black bustier with shaped cups and a fitted bodice
 relatedTerms:
   - title: Corsage

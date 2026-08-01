@@ -20,8 +20,7 @@ keywords:
 slug: waist-shaping
 url: /en/glossary/waist-shaping/
 aliases:
-  - /en/glossar/taillierung/
-  - /glossary/waist-shaping/
+  - /glossar/taillierung/
 image_alt: Editorial illustration showing waist shaping through a fitted blazer, belt, and defined waist seam
 relatedTerms:
   - title: Waist Emphasis

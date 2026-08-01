@@ -20,8 +20,7 @@ keywords:
 slug: top
 url: /en/glossary/top/
 aliases:
-  - /en/glossar/top/
-  - /glossary/top/
+  - /glossar/top/
 image_alt: Editorial illustration of different top styles, including a T-shirt, blouse, camisole, and tank top
 relatedTerms:
   - title: T-Shirt

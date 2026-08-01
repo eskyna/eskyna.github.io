@@ -33,8 +33,8 @@ seoTitle: "Разбор гардероба | ESKYNA Glossary"
 slug: razbor-garderoba
 url: /ru/glossar/kleiderschrank-check/
 aliases:
-  - /rus/glossariy/razbor-garderoba/
-  - /rus/glossar/kleiderschrank-check/
+  - /glossariy/razbor-garderoba/
+  - /glossar/kleiderschrank-check/
 lastmod: "2026-07-09"
 knowledge:
   - "Разбор гардероба начинается не с избавления от вещей, а с понимания их посадки, состояния, роли и сочетаемости."

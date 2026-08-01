@@ -4,8 +4,7 @@ term: "Subtle Lingerie Reveal"
 slug: subtiler-lingerie-blitzer
 url: /en/glossary/subtiler-lingerie-blitzer/
 aliases:
-  - /en/glossar/subtiler-lingerie-blitzer/
-  - /glossary/subtiler-lingerie-blitzer/
+  - /glossar/subtiler-lingerie-blitzer/
 description: "A subtle lingerie reveal is the intentional, refined glimpse of lingerie, often delicate lace, at a neckline, armhole, or open back."
 category: "Lingerie, Bras & Styling Aids"
 tags:

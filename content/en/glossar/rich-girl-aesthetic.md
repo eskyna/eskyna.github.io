@@ -5,8 +5,7 @@ description: "The Rich Girl Aesthetic is a polished style direction built around
 slug: "rich-girl-aesthetic"
 url: "/en/glossary/rich-girl-aesthetic/"
 aliases:
-  - "/en/glossar/rich-girl-aesthetic/"
-  - "/glossary/rich-girl-aesthetic/"
+  - /glossar/rich-girl-aesthetic/
 category: "Style & Impact"
 subcategory: "Wardrobe & Everyday Style"
 tags:

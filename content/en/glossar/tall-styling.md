@@ -20,8 +20,7 @@ keywords:
 slug: tall-styling
 url: /en/glossary/tall-styling/
 aliases:
-  - /en/glossar/tall-styling/
-  - /glossary/tall-styling/
+  - /glossar/tall-styling/
 image_alt: Editorial illustration showing balanced outfit proportions for a tall person
 relatedTerms:
   - title: Proportion

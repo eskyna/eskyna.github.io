@@ -9,8 +9,7 @@ image: "images/glossar/jorts.png"
 image_alt: "Джинсовые шорты jorts свободного кроя"
 url: /rus/glossariy/jorts/
 aliases:
-  - /rus/glossar/jorts/
-  - /ru/glossar/jorts/
+  - /glossar/jorts/
 tags:
   - jorts
   - джинсовые шорты

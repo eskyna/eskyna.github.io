@@ -34,9 +34,8 @@ seoTitle: "Повседневная формула образа | ESKYNA"
 slug: povsednevnaya-formula-obraza
 url: /rus/glossariy/povsednevnaya-formula-obraza/
 aliases:
-  - /rus/glossar/alltagsuniform/
-  - /ru/glossar/alltagsuniform/
-  - /rus/glossariy/ezhednevnyy-garderob/
+  - /glossar/alltagsuniform/
+  - /glossariy/ezhednevnyy-garderob/
 lastmod: "2026-07-09"
 knowledge:
   - Повседневная формула не требует одинаковой одежды каждый день. Она задаёт повторяемую логику сочетаний, а не строгую униформу.

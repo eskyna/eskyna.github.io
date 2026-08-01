@@ -34,8 +34,7 @@ seoTitle: "Накидка: что это такое и как носить | Г�
 slug: nakidka
 url: /rus/glossariy/nakidka/
 aliases:
-  - /rus/glossar/cape/
-  - /ru/glossar/cape/
+  - /glossar/cape/
 lastmod: "2026-07-09"
 knowledge:
   - Накидка работает как самостоятельный верхний слой и не обязательно заменяет пальто или куртку в холодную погоду.

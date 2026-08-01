@@ -21,8 +21,7 @@ keywords:
 slug: taupe
 url: /en/glossary/taupe/
 aliases:
-  - /en/glossar/taupe/
-  - /glossary/taupe/
+  - /glossar/taupe/
 relatedTerms:
   - title: "Greige"
     url: /en/glossar/greige/

@@ -34,9 +34,8 @@ seoTitle: "Мок-нэк: значение и применение | Глосс�
 slug: vorotnik-stoyka-mock-neck
 url: /rus/glossariy/vorotnik-stoyka-mock-neck/
 aliases:
-  - /rus/glossar/mock-neck/
-  - /ru/glossar/mock-neck/
-  - /rus/glossariy/mock-neck/
+  - /glossar/mock-neck/
+  - /glossariy/mock-neck/
 lastmod: "2026-07-09"
 knowledge:
   - "Высота мок-нэка различается: край воротника может лишь слегка закрывать основание шеи или подниматься выше, не складываясь в отворот."

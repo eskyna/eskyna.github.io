@@ -8,8 +8,7 @@ image_alt: Illustration of a bridal dress with a fitted bodice, full skirt, and 
 slug: brautkleid
 url: /en/glossary/brautkleid/
 aliases:
-  - /en/glossar/brautkleid/
-  - /glossary/brautkleid/
+  - /glossar/brautkleid/
 tags:
   - bridal dress
   - wedding dress

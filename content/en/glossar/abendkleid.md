@@ -21,8 +21,7 @@ keywords:
 slug: evening-dress
 url: /en/glossary/evening-dress/
 aliases:
-  - /en/glossar/abendkleid/
-  - /glossary/evening-dress/
+  - /glossar/abendkleid/
 image_alt: Editorial illustration of an elegant evening dress for a formal event
 relatedTerms:
   - title: Evening Wear

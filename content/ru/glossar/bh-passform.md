@@ -9,8 +9,7 @@ image: "images/glossar/bh-passform.png"
 image_alt: "Иллюстрация правильной посадки бюстгальтера: пояс, чашки, косточки и бретели"
 url: /rus/glossariy/bh-passform/
 aliases:
-  - /rus/glossar/bh-passform/
-  - /ru/glossar/bh-passform/
+  - /glossar/bh-passform/
 tags:
   - посадка-бюстгальтера
   - белье

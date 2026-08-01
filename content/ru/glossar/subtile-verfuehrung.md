@@ -5,8 +5,7 @@ description: "Деликатная соблазнительность это п�
 slug: "subtile-verfuehrung"
 url: "/rus/glossariy/subtile-verfuehrung/"
 aliases:
-  - "/rus/glossar/subtile-verfuehrung/"
-  - "/ru/glossar/subtile-verfuehrung/"
+  - /glossar/subtile-verfuehrung/
 category: "Стиль и впечатление"
 tags:
   - "деликатная соблазнительность"

@@ -21,8 +21,7 @@ keywords:
 slug: clutch
 url: /en/glossary/clutch/
 aliases:
-  - /en/glossar/clutch/
-  - /glossary/clutch/
+  - /glossar/clutch/
 image_alt: Small elegant clutch bag held in the hand with a formal evening outfit
 relatedTerms:
   - title: Minaudiere

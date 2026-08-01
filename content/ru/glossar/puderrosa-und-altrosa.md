@@ -24,8 +24,7 @@ keywords:
 slug: puderrosa-und-altrosa
 url: /rus/glossariy/puderrosa-und-altrosa/
 aliases:
-  - /rus/glossar/puderrosa-und-altrosa/
-  - /ru/glossar/puderrosa-und-altrosa/
+  - /glossar/puderrosa-und-altrosa/
 relatedTerms:
   - title: "Нежно-розовый"
     url: /ru/glossar/rosa/

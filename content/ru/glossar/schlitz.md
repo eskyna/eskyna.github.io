@@ -37,8 +37,7 @@ seoTitle: "Разрез в одежде | ESKYNA Glossary"
 slug: razrez
 url: /rus/glossariy/razrez/
 aliases:
-  - /rus/glossar/schlitz/
-  - /ru/glossar/schlitz/
+  - /glossar/schlitz/
 lastmod: "2026-07-09"
 knowledge:
   - "Разрез может быть частью шва, располагаться по центру, сбоку, спереди или сзади изделия."

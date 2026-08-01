@@ -5,8 +5,7 @@ description: "Геометрия декольте помогает соотне�
 slug: dekollete-geometrie
 url: /rus/glossariy/dekollete-geometrie/
 aliases:
-  - /rus/glossar/dekollete-geometrie/
-  - /ru/glossar/dekollete-geometrie/
+  - /glossar/dekollete-geometrie/
 category: "Крой, пропорции и посадка"
 tags:
   - геометрия-декольте

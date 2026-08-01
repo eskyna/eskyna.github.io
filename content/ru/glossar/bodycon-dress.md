@@ -34,8 +34,7 @@ seoTitle: "Облегающее платье: что это, как выбрат
 slug: oblegayushchee-plate
 url: /rus/glossariy/oblegayushchee-plate/
 aliases:
-  - /rus/glossar/bodycon-dress/
-  - /ru/glossar/bodycon-dress/
+  - /glossar/bodycon-dress/
 lastmod: "2026-07-09"
 knowledge:
   - "Облегающее платье не обязано быть тесным: для аккуратной посадки необходима свобода движения, особенно в плечах, груди, талии и при ходьбе."

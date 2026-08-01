@@ -22,8 +22,7 @@ keywords:
 slug: vintage
 url: /en/glossary/vintage/
 aliases:
-  - /en/glossar/vintage/
-  - /glossary/vintage/
+  - /glossar/vintage/
 image_alt: Editorial illustration of a curated vintage fashion outfit with classic clothing and accessories
 relatedTerms:
   - title: Vintage Shopping

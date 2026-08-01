@@ -5,8 +5,7 @@ description: "Эффект красного платья, или Red Dress Effec
 slug: "red-dress-effect"
 url: "/rus/glossariy/red-dress-effect/"
 aliases:
-  - "/rus/glossar/red-dress-effect/"
-  - "/ru/glossar/red-dress-effect/"
+  - /glossar/red-dress-effect/
 category: "Стиль и впечатление"
 subcategory: "Консультация по цвету и цвет"
 tags:

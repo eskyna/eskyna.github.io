@@ -8,8 +8,7 @@ image_alt: Short blouson jacket with a softly bloused waist and front zipper
 slug: blouson
 url: /en/glossary/blouson/
 aliases:
-  - /en/glossar/blouson/
-  - /glossary/blouson/
+  - /glossar/blouson/
 tags:
   - blouson
   - jacket

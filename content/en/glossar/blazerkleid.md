@@ -14,8 +14,7 @@ keywords:
 slug: blazerkleid
 url: /en/glossary/blazerkleid/
 aliases:
-  - /en/glossar/blazerkleid/
-  - /glossary/blazerkleid/
+  - /glossar/blazerkleid/
 relatedTerms:
   - title: "Blazer"
     url: /en/glossar/blazer/

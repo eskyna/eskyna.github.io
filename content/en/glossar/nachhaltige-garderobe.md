@@ -21,8 +21,7 @@ keywords:
 slug: sustainable-wardrobe
 url: /en/glossary/sustainable-wardrobe/
 aliases:
-  - /en/glossar/nachhaltige-garderobe/
-  - /glossary/sustainable-wardrobe/
+  - /glossar/nachhaltige-garderobe/
 image_alt: Curated sustainable wardrobe with versatile clothing in coordinated neutral colors
 relatedTerms:
   - title: Capsule Wardrobe

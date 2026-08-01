@@ -21,8 +21,7 @@ keywords:
 slug: sleeve-length
 url: /en/glossary/sleeve-length/
 aliases:
-  - /en/glossar/aermellaenge/
-  - /glossary/sleeve-length/
+  - /glossar/aermellaenge/
 image_alt: Illustration showing short, elbow-length, three-quarter, and long sleeve lengths on garments
 relatedTerms:
   - title: Three-Quarter Sleeve

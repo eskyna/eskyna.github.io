@@ -9,8 +9,7 @@ image: "images/glossar/raw-denim.png"
 image_alt: "Необработанный темно-синий деним Raw denim с плотной фактурой"
 url: /rus/glossariy/raw-denim/
 aliases:
-  - /rus/glossar/raw-denim/
-  - /ru/glossar/raw-denim/
+  - /glossar/raw-denim/
 tags:
   - raw-denim
   - деним

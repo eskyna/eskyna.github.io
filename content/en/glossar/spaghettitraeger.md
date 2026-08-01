@@ -9,8 +9,7 @@ image: "images/glossar/spaghettitraeger.png"
 image_alt: "Glossary illustration of a dress with thin spaghetti straps"
 url: /en/glossary/spaghettitraeger/
 aliases:
-  - /en/glossar/spaghettitraeger/
-  - /glossary/spaghettitraeger/
+  - /glossar/spaghettitraeger/
 tags:
   - spaghetti straps
   - shoulder straps

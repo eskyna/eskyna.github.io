@@ -21,8 +21,7 @@ seoTitle: "Мятно-зеленый: значение и применение |
 slug: myatno-zelenyy
 url: /rus/glossariy/myatno-zelenyy/
 aliases:
-  - /rus/glossar/mintgruen/
-  - /ru/glossar/mintgruen/
+  - /glossar/mintgruen/
 relatedTerms:
   - title: Зелёный
     url: /ru/glossar/gruen/

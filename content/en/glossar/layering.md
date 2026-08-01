@@ -22,8 +22,7 @@ keywords:
 slug: layering
 url: /en/glossary/layering/
 aliases:
-  - /en/glossar/layering/
-  - /glossary/layering/
+  - /glossar/layering/
 image_alt: Editorial illustration showing a layered outfit with a shirt, knitwear, and jacket
 relatedTerms:
   - title: Layering Length

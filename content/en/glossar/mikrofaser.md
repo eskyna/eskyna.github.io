@@ -8,11 +8,9 @@ image_alt: Close view of smooth microfiber fabric with a fine, dense surface
 slug: mikrofaser
 url: /en/glossary/mikrofaser/
 aliases:
-  - /en/glossar/mikrofaser/
-  - /glossary/mikrofaser/
-  - /en/glossary/microfaser/
-  - /en/glossar/microfaser/
+  - /glossar/mikrofaser/
   - /glossary/microfaser/
+  - /glossar/microfaser/
 tags:
   - microfiber
   - synthetic fabric

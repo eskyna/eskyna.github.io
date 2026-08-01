@@ -4,8 +4,7 @@ term: "Полиамид (нейлон)"
 slug: polyamid-nylon
 url: /rus/glossariy/polyamid-nylon/
 aliases:
-  - /rus/glossar/polyamid-nylon/
-  - /ru/glossar/polyamid-nylon/
+  - /glossar/polyamid-nylon/
 description: "Полиамид, часто называемый нейлоном, это прочное синтетическое волокно с высокой износостойкостью, эластичностью и быстрым высыханием. Его используют в белье, колготках, купальниках, спортивной и верхней одежде."
 category: "Материалы и детали"
 tags:

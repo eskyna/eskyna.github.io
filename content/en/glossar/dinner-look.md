@@ -21,8 +21,7 @@ keywords:
 slug: dinner-look
 url: /en/glossary/dinner-look/
 aliases:
-  - /en/glossar/dinner-look/
-  - /glossary/dinner-look/
+  - /glossar/dinner-look/
 image_alt: Editorial illustration of a polished dinner outfit with tailored separates and evening accessories
 relatedTerms:
   - title: Date Look

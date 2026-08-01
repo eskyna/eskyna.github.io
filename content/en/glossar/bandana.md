@@ -9,8 +9,7 @@ image: "images/glossar/bandana.png"
 image_alt: "Square patterned bandana folded and tied as a neck scarf"
 url: /en/glossary/bandana/
 aliases:
-  - /en/glossar/bandana/
-  - /glossary/bandana/
+  - /glossar/bandana/
 tags:
   - bandana
   - accessories

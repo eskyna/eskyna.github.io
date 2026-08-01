@@ -15,8 +15,7 @@ keywords:
   - "how fabric texture affects personal style"
 url: "/en/glossary/textile-haptik-analyse/"
 aliases:
-  - "/en/glossar/textile-haptik-analyse/"
-  - "/glossary/textile-haptik-analyse/"
+  - /glossar/textile-haptik-analyse/
 weight: 999
 image: "images/glossar/textile-haptik-analyse.png"
 image_alt: "Hands comparing smooth and textured fabric swatches"

@@ -34,8 +34,7 @@ seoTitle: "Смесь волокон | ESKYNA Glossary"
 slug: smes-volokon
 url: /rus/glossariy/smes-volokon/
 aliases:
-  - /rus/glossar/faser-mix/
-  - /ru/glossar/faser-mix/
+  - /glossar/faser-mix/
 image_alt: "Иллюстрация смеси натуральных и синтетических волокон в ткани"
 lastmod: "2026-07-09"
 knowledge:

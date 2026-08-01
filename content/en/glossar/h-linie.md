@@ -20,8 +20,7 @@ keywords:
 slug: h-line
 url: /en/glossary/h-line/
 aliases:
-  - /en/glossar/h-linie/
-  - /glossary/h-line/
+  - /glossar/h-linie/
 image_alt: Editorial illustration showing a straight H-Line silhouette with minimal waist definition
 relatedTerms:
   - title: Silhouette

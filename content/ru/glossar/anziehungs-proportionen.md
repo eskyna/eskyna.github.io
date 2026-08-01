@@ -5,8 +5,7 @@ description: "Пропорции привлекательности в одеж�
 slug: anziehungs-proportionen
 url: /rus/glossariy/anziehungs-proportionen/
 aliases:
-  - /rus/glossar/anziehungs-proportionen/
-  - /ru/glossar/anziehungs-proportionen/
+  - /glossar/anziehungs-proportionen/
 category: Крой, пропорции и посадка
 tags:
   - пропорции в одежде

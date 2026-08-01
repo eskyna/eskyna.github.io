@@ -43,8 +43,7 @@ faq:
       a: Да. Это практичный вариант для деловых, смарт-кэжуал и нарядных образов, если вам важны структура в верхней части силуэта, комфорт и разумная стоимость.
 lastmod: "2026-07-30"
 aliases:
-  - /rus/glossar/half-canvas/
-  - /ru/glossar/half-canvas/
+  - /glossar/half-canvas/
 url: /rus/glossariy/half-canvas/
 ---
 

@@ -5,8 +5,7 @@ description: "Subtle underboob is a bikini styling detail that reveals a small, 
 slug: subtiler-underboob
 url: /en/glossary/subtiler-underboob/
 aliases:
-  - /en/glossar/subtiler-underboob/
-  - /glossary/subtiler-underboob/
+  - /glossar/subtiler-underboob/
 category: Lingerie, Bras & Styling Aids
 tags:
   - subtle underboob

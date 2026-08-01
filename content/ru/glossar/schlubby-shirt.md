@@ -20,8 +20,7 @@ seoTitle: "Schlubby Shirt: значение и применение | Глосс
 slug: schlubby-shirt
 url: /rus/glossariy/schlubby-shirt/
 aliases:
-  - /rus/glossar/schlubby-shirt/
-  - /ru/glossar/schlubby-shirt/
+  - /glossar/schlubby-shirt/
 relatedTerms:
   - title: Оверсайз
     url: /ru/glossar/oversized/

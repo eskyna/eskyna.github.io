@@ -34,9 +34,9 @@ seoTitle: "Эффект выреза | ESKYNA Glossary"
 slug: effekt-vyreza
 url: /ru/glossar/ausschnittwirkung/
 aliases:
-  - /rus/glossar/ausschnittwirkung/
-  - /rus/glossariy/effekt-vyreza/
-  - /ru/glossar/effekt-vyreza/
+  - /glossar/ausschnittwirkung/
+  - /glossariy/effekt-vyreza/
+  - /glossar/effekt-vyreza/
 image_alt: "Схема разных форм выреза и их влияния на лицо, шею и линию плеч"
 knowledge:
   - Форма выреза работает в непосредственной близости к лицу, поэтому влияет на общее впечатление сильнее, чем многие детали, расположенные ниже.

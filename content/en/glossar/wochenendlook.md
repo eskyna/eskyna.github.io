@@ -21,8 +21,7 @@ keywords:
 slug: weekend-look
 url: /en/glossary/weekend-look/
 aliases:
-  - /en/glossar/wochenendlook/
-  - /glossary/weekend-look/
+  - /glossar/wochenendlook/
 image_alt: Relaxed, polished weekend outfit with casual wardrobe essentials
 relatedTerms:
   - title: Casual

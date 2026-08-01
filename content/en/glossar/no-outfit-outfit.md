@@ -5,8 +5,7 @@ description: "A No-Outfit Outfit is an intentionally effortless look built from 
 slug: "no-outfit-outfit"
 url: "/en/glossary/no-outfit-outfit/"
 aliases:
-  - "/en/glossar/no-outfit-outfit/"
-  - "/glossary/no-outfit-outfit/"
+  - /glossar/no-outfit-outfit/
 category: "Style & Impact"
 tags:
   - "no-outfit outfit"

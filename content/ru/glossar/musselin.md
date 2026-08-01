@@ -15,8 +15,7 @@ keywords:
 slug: musselin
 url: /rus/glossariy/musselin/
 aliases:
-  - /rus/glossar/musselin/
-  - /ru/glossar/musselin/
+  - /glossar/musselin/
 tags:
   - муслин
   - двойная марля

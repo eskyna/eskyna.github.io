@@ -33,8 +33,7 @@ seoTitle: "Образ для публичности | ESKYNA"
 slug: obraz-dlya-publichnosti
 url: /ru/glossar/sichtbarkeitslook/
 aliases:
-  - /rus/glossar/sichtbarkeitslook/
-  - /ru/glossar/sichtbarkeitslook/
+  - /glossar/sichtbarkeitslook/
 image_alt: "Иллюстрация образа для публичности: собранный комплект для фото, сцены и профессионального присутствия"
 lastmod: "2026-07-09"
 knowledge:

@@ -23,8 +23,7 @@ keywords:
 slug: floral-print
 url: /en/glossary/floral-print/
 aliases:
-  - /en/glossar/blumenmuster/
-  - /glossary/floral-print/
+  - /glossar/blumenmuster/
 image_alt: Editorial illustration of garments with floral print patterns
 relatedTerms:
   - title: Print

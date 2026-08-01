@@ -17,8 +17,7 @@ keywords:
   - как определить цветотип по 12 сезонам
 url: /rus/glossariy/12-jahreszeiten-system/
 aliases:
-  - /rus/glossar/12-jahreszeiten-system/
-  - /ru/glossar/12-jahreszeiten-system/
+  - /glossar/12-jahreszeiten-system/
 weight: 12
 image: images/glossar/12-jahreszeiten-system.png
 image_alt: Палитра оттенков для двенадцати сезонных цветотипов

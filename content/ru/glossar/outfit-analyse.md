@@ -33,9 +33,8 @@ seoTitle: "Анализ образа | ESKYNA Glossary"
 slug: analiz-obraza
 url: /ru/glossar/outfit-analyse/
 aliases:
-  - /rus/glossariy/analiz-obraza/
-  - /rus/glossar/outfit-analyse/
-  - /ru/glossar/outfit-analyse/
+  - /glossariy/analiz-obraza/
+  - /glossar/outfit-analyse/
 lastmod: "2026-07-09"
 knowledge:
   - "Анализ образа рассматривает комплект целиком: отдельная удачная вещь не всегда работает в конкретном сочетании."

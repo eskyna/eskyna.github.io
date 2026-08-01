@@ -9,8 +9,7 @@ image: "images/glossar/bubble-skirt-ballonrock.png"
 image_alt: "Illustration of a bubble skirt with a rounded, voluminous hem"
 url: /en/glossary/bubble-skirt-ballonrock/
 aliases:
-  - /en/glossar/bubble-skirt-ballonrock/
-  - /glossary/bubble-skirt-ballonrock/
+  - /glossar/bubble-skirt-ballonrock/
 tags:
   - bubble skirt
   - balloon skirt

@@ -34,9 +34,9 @@ seoTitle: "Удлинённый блейзер: что это и как носи
 slug: udlinyonnyy-bleyzer
 url: /ru/glossar/longblazer/
 aliases:
-  - /rus/glossariy/udlinyonnyy-bleyzer/
-  - /rus/glossar/longblazer/
-  - /ru/glossar/udlinyonnyy-bleyzer/
+  - /glossariy/udlinyonnyy-bleyzer/
+  - /glossar/longblazer/
+  - /glossar/udlinyonnyy-bleyzer/
 lastmod: "2026-07-09"
 knowledge:
   - "Удлинённым обычно называют блейзер, край которого располагается ниже наиболее широкой части бёдер или доходит до середины бедра."

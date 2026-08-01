@@ -9,8 +9,7 @@ image: "images/glossar/asymmetrischer-ausschnitt.png"
 image_alt: "Асимметричный вырез с диагональной линией горловины и открытым плечом"
 url: /rus/glossariy/asymmetrischer-ausschnitt/
 aliases:
-  - /rus/glossar/asymmetrischer-ausschnitt/
-  - /ru/glossar/asymmetrischer-ausschnitt/
+  - /glossar/asymmetrischer-ausschnitt/
 tags:
   - асимметричный-вырез
   - вырез

@@ -34,8 +34,7 @@ seoTitle: "Браслет: что это, виды и как носить | Гл
 slug: braslet
 url: /ru/glossar/armreif/
 aliases:
-  - /rus/glossar/armreif/
-  - /ru/glossar/armreif/
+  - /glossar/armreif/
 lastmod: "2026-07-09"
 history:
   - Украшения для запястья известны в разных культурах с древности и изготавливались из доступных материалов, включая металл, камень, стекло и органические материалы.

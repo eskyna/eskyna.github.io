@@ -20,8 +20,7 @@ keywords:
 slug: regular-fit
 url: /en/glossary/regular-fit/
 aliases:
-  - /en/glossar/regular-fit/
-  - /glossary/regular-fit/
+  - /glossar/regular-fit/
 image_alt: Editorial illustration showing the balanced silhouette of a regular fit garment
 relatedTerms:
   - title: Fit

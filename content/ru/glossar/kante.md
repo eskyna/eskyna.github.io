@@ -34,8 +34,7 @@ seoTitle: "Край в одежде: значение и применение | 
 slug: kray
 url: /rus/glossariy/kray/
 aliases:
-  - /rus/glossar/kante/
-  - /ru/glossar/kante/
+  - /glossar/kante/
 lastmod: "2026-07-09"
 knowledge:
   - "Видимые края формируют контур вещи: это могут быть подол, край рукава, линия выреза, борт жакета, клапан кармана или край сумки."

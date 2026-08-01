@@ -22,8 +22,7 @@ keywords:
 slug: o-line
 url: /en/glossary/o-line/
 aliases:
-  - /en/glossar/o-linie/
-  - /glossary/o-line/
+  - /glossar/o-linie/
 image_alt: Editorial illustration of an O-Line garment with a rounded cocoon silhouette
 relatedTerms:
   - title: Silhouette

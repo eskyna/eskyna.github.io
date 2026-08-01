@@ -21,8 +21,7 @@ keywords:
 slug: sports-jacket
 url: /en/glossary/sports-jacket/
 aliases:
-  - /en/glossar/sakko/
-  - /glossary/sports-jacket/
+  - /glossar/sakko/
 image_alt: Tailored sports jacket styled with trousers and a shirt
 relatedTerms:
   - title: Blazer

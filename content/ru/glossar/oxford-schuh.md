@@ -15,8 +15,7 @@ keywords:
 slug: oxford-schuh
 url: /rus/glossariy/oxford-schuh/
 aliases:
-  - /rus/glossar/oxford-schuh/
-  - /ru/glossar/oxford-schuh/
+  - /glossar/oxford-schuh/
 tags:
   - оксфорды
   - классическая обувь

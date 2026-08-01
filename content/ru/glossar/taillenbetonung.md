@@ -35,8 +35,7 @@ seoTitle: "Акцент на талии | ESKYNA Glossary"
 slug: aktsent-na-talii
 url: /ru/glossar/taillenbetonung/
 aliases:
-  - /rus/glossar/taillenbetonung/
-  - /ru/glossar/taillenbetonung/
+  - /glossar/taillenbetonung/
 lastmod: "2026-07-09"
 knowledge:
   - Акцент на талии можно создать кроем, поясом, контрастом цвета, застежкой, сборкой или сменой фактуры.

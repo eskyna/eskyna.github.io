@@ -21,8 +21,7 @@ seoTitle: "Брюки под юбками | ESKYNA Glossary"
 slug: bryuki-pod-yubkami
 url: /rus/glossariy/bryuki-pod-yubkami/
 aliases:
-  - /rus/glossar/hosen-unter-roecken/
-  - /ru/glossar/hosen-unter-roecken/
+  - /glossar/hosen-unter-roecken/
 relatedTerms:
   - title: Многослойность
     url: /ru/glossar/layering/

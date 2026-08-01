@@ -21,8 +21,7 @@ keywords:
 slug: crop-top
 url: /en/glossary/crop-top/
 aliases:
-  - /en/glossar/crop-top/
-  - /glossary/crop-top/
+  - /glossar/crop-top/
 image_alt: Editorial illustration of a cropped top paired with high-waist trousers
 relatedTerms:
   - title: Cropped

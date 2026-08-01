@@ -9,8 +9,7 @@ image: "images/glossar/fliege.png"
 image_alt: "Black bow tie tied neatly against a white shirt collar"
 url: /en/glossary/fliege/
 aliases:
-  - /en/glossar/fliege/
-  - /glossary/fliege/
+  - /glossar/fliege/
 tags:
   - bow tie
   - neckwear

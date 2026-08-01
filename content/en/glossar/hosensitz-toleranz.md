@@ -4,8 +4,7 @@ term: "Trouser Seat Tolerance"
 slug: "hosensitz-toleranz"
 url: "/en/glossary/hosensitz-toleranz/"
 aliases:
-  - "/en/glossar/hosensitz-toleranz/"
-  - "/glossary/hosensitz-toleranz/"
+  - /glossar/hosensitz-toleranz/
 description: "Trouser seat tolerance is the fine balance of rise, crotch shape, and ease that allows trousers to sit smoothly when standing, walking, and sitting."
 category: "Cut, Proportion & Fit"
 tags:

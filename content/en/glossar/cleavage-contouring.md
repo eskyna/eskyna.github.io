@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/cleavage-contouring/"
 aliases:
-  - "/en/glossar/cleavage-contouring/"
-  - "/glossary/cleavage-contouring/"
+  - /glossar/cleavage-contouring/
 image: "images/glossar/cleavage-contouring.png"
 image_alt: "Bronzer and highlighter blended softly across the collarbones and décolletage"
 relatedTerms:

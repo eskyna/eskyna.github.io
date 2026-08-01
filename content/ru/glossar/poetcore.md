@@ -33,9 +33,8 @@ seoTitle: "Поэткор: значение, особенности и прим�
 slug: poetkor
 url: /ru/glossar/poetcore/
 aliases:
-  - /rus/glossar/poetcore/
-  - /ru/glossar/poetcore/
-  - /rus/glossariy/poetcore/
+  - /glossar/poetcore/
+  - /glossariy/poetcore/
 image_alt: "Иллюстрация эстетики поэткор с романтичными литературными и винтажными мотивами"
 knowledge:
   - Поэткор строится не на одном обязательном предмете одежды, а на сочетании мягкой пластики, деталей с историческим настроением и интеллектуального характера образа.

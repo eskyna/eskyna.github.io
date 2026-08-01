@@ -9,8 +9,7 @@ image: "images/glossar/shapewear.png"
 image_alt: "Glossary illustration showing supportive shapewear worn under a fitted outfit"
 url: /en/glossary/shapewear/
 aliases:
-  - /en/glossar/shapewear/
-  - /glossary/shapewear/
+  - /glossar/shapewear/
 lastmod: "2026-07-22"
 tags:
   - shapewear

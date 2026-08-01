@@ -36,8 +36,7 @@ seoTitle: "Оливковый цвет | ESKYNA Glossary"
 slug: olivkovyy
 url: /rus/glossariy/olivkovyy/
 aliases:
-  - /rus/glossar/oliv/
-  - /ru/glossar/oliv/
+  - /glossar/oliv/
 lastmod: "2026-07-09"
 history:
   - Название оттенка связано с цветом незрелых плодов оливы.

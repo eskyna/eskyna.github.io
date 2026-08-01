@@ -21,8 +21,7 @@ keywords:
 slug: style-compass
 url: /en/glossary/style-compass/
 aliases:
-  - /en/glossar/stilkompass/
-  - /glossary/style-compass/
+  - /glossar/stilkompass/
 image_alt: Editorial illustration of a Style Compass as a guide for personal style decisions
 relatedTerms:
   - title: Personal Style

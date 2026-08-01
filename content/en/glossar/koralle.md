@@ -23,8 +23,7 @@ keywords:
 slug: koralle
 url: /en/glossary/koralle/
 aliases:
-  - /en/glossar/koralle/
-  - /glossary/koralle/
+  - /glossar/koralle/
 relatedTerms:
   - title: "Apricot and Peach"
     url: /en/glossar/apricot-und-pfirsich/

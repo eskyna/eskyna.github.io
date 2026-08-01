@@ -21,8 +21,7 @@ keywords:
 slug: visibility-look
 url: /en/glossary/visibility-look/
 aliases:
-  - /en/glossar/sichtbarkeitslook/
-  - /glossary/visibility-look/
+  - /glossar/sichtbarkeitslook/
 image_alt: Editorial illustration of a polished visibility look with coordinated clothing and accessories
 relatedTerms:
   - title: Personal Branding

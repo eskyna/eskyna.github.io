@@ -21,7 +21,6 @@ keywords:
 slug: flounce
 url: /en/glossar/volant/
 aliases:
-  - /en/glossary/flounce/
   - /glossary/flounce/
 image_alt: Flounced fabric edge creating soft, flowing waves on a garment
 relatedTerms:

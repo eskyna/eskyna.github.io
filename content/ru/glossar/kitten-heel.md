@@ -36,9 +36,8 @@ seoTitle: "Низкий тонкий каблук | ESKYNA Glossary"
 slug: nizkiy-tonkiy-kabluk
 url: /rus/glossariy/nizkiy-tonkiy-kabluk/
 aliases:
-  - /rus/glossar/kitten-heel/
-  - /ru/glossar/kitten-heel/
-  - /rus/glossariy/kitten-heel/
+  - /glossar/kitten-heel/
+  - /glossariy/kitten-heel/
 history:
   - Низкий тонкий каблук стал заметной частью женской обувной моды в середине XX века.
   - В разные десятилетия эта форма возвращалась в моду в новых пропорциях и материалах, сохраняя связь с элегантной дневной обувью.

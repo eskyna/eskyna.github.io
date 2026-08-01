@@ -21,8 +21,7 @@ keywords:
 slug: raffia-bag
 url: /en/glossary/raffia-bag/
 aliases:
-  - /en/glossar/raffia-bag/
-  - /glossary/raffia-bag/
+  - /glossar/raffia-bag/
 image_alt: Natural woven raffia bag with a structured texture and short handles
 relatedTerms:
   - title: Bucket Bag

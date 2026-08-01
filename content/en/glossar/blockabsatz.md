@@ -22,8 +22,7 @@ keywords:
 slug: block-heel
 url: /en/glossary/block-heel/
 aliases:
-  - /en/glossar/blockabsatz/
-  - /glossary/block-heel/
+  - /glossar/blockabsatz/
 image_alt: Illustration of shoes with broad, stable block heels
 relatedTerms:
   - title: Pumps

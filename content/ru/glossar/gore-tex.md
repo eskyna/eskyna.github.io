@@ -5,8 +5,7 @@ description: "GORE-TEX это водонепроницаемая и ветроз
 slug: gore-tex
 url: /rus/glossariy/gore-tex/
 aliases:
-  - /rus/glossar/gore-tex/
-  - /ru/glossar/gore-tex/
+  - /glossar/gore-tex/
 category: Материалы и детали
 tags:
   - gore-tex

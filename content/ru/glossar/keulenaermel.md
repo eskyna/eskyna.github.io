@@ -9,8 +9,7 @@ image_alt: "Иллюстрация рукава жиго с объёмом у п
 slug: keulenaermel
 url: /rus/glossariy/keulenaermel/
 aliases:
-  - /rus/glossar/keulenaermel/
-  - /ru/glossar/keulenaermel/
+  - /glossar/keulenaermel/
 tags:
   - рукав-жиго
   - объемный-рукав

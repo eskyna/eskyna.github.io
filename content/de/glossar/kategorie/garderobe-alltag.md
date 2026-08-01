@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Garderobe & Alltag"
 url: "/glossar/kategorie/garderobe-alltag/"
+aliases:
+  - /glossar/garderobe-alltag/
 seoTitle: "Garderobe & Alltag | ESKYNA Glossary"
 tags:
   - Garderobe

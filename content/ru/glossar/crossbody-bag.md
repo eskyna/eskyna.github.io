@@ -34,9 +34,8 @@ seoTitle: "Сумка через плечо: что это, как носить 
 slug: sumka-cherez-plecho
 url: /ru/glossar/crossbody-bag/
 aliases:
-  - /rus/glossar/crossbody-bag/
-  - /ru/glossar/crossbody-bag/
-  - /rus/glossariy/sumka-cherez-plecho/
+  - /glossar/crossbody-bag/
+  - /glossariy/sumka-cherez-plecho/
 lastmod: "2026-07-09"
 knowledge:
   - Длина и ширина ремня определяют, где сумка располагается на фигуре и как она влияет на пропорции.

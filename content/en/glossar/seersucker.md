@@ -14,8 +14,7 @@ keywords:
 slug: seersucker
 url: /en/glossary/seersucker/
 aliases:
-  - /en/glossar/seersucker/
-  - /glossary/seersucker/
+  - /glossar/seersucker/
 tags:
   - seersucker fabric
   - summer fabrics

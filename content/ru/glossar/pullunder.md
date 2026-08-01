@@ -8,8 +8,7 @@ image_alt: "Трикотажный пулундер без рукавов, на�
 slug: pullunder
 url: /rus/glossariy/pullunder/
 aliases:
-  - /rus/glossar/pullunder/
-  - /ru/glossar/pullunder/
+  - /glossar/pullunder/
 tags:
   - пулундер
   - трикотажный жилет

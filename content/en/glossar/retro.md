@@ -22,8 +22,7 @@ keywords:
 slug: retro
 url: /en/glossary/retro/
 aliases:
-  - /en/glossar/retro/
-  - /glossary/retro/
+  - /glossar/retro/
 image_alt: Editorial glossary illustration showing retro fashion references from different decades
 relatedTerms:
   - title: Vintage

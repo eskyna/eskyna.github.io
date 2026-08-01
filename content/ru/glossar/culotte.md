@@ -40,8 +40,7 @@ seoTitle: "Кюлоты: что это, как выбрать и носить | 
 slug: kyulot
 url: /rus/glossariy/kyulot/
 aliases:
-  - /rus/glossar/culotte/
-  - /ru/glossar/culotte/
+  - /glossar/culotte/
 lastmod: "2026-07-09"
 history:
   - "Слово culotte происходит из французского языка: исторически так называли мужские короткие штаны до колена."

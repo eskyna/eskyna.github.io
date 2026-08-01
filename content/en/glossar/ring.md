@@ -21,8 +21,7 @@ keywords:
 slug: ring
 url: /en/glossary/ring/
 aliases:
-  - /en/glossar/ring/
-  - /glossary/ring/
+  - /glossar/ring/
 image_alt: Gold and silver rings arranged as jewelry accessories
 relatedTerms:
   - title: Accessory

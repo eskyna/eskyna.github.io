@@ -23,8 +23,7 @@ keywords:
 slug: business
 url: /en/glossary/business/
 aliases:
-  - /en/glossar/business/
-  - /glossary/business/
+  - /glossar/business/
 image_alt: Editorial illustration of a polished business outfit with tailored blazer and trousers
 relatedTerms:
   - title: Business Casual

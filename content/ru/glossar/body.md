@@ -35,9 +35,8 @@ seoTitle: "Боди: что это, как выбрать и носить | Гл
 slug: bodi
 url: /ru/glossar/body/
 aliases:
-  - /rus/glossariy/bodi/
-  - /rus/glossar/body/
-  - /ru/glossar/body/
+  - /glossariy/bodi/
+  - /glossar/body/
 lastmod: "2026-07-09"
 knowledge:
   - Боди создаёт ровную линию в зоне талии, потому что не выбивается из пояса юбки или брюк при движении.

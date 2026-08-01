@@ -8,8 +8,7 @@ image_alt: "Иллюстрация ярусной юбки с нескольки
 slug: stufenrock
 url: /rus/glossariy/stufenrock/
 aliases:
-  - /rus/glossar/stufenrock/
-  - /ru/glossar/stufenrock/
+  - /glossar/stufenrock/
 tags:
   - ярусная-юбка
   - юбки

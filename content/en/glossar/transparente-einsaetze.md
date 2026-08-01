@@ -9,8 +9,7 @@ image: "images/glossar/transparente-einsaetze.png"
 image_alt: "Glossary illustration showing a garment with sheer transparent panel inserts"
 url: /en/glossary/transparente-einsaetze/
 aliases:
-  - /en/glossar/transparente-einsaetze/
-  - /glossary/transparente-einsaetze/
+  - /glossar/transparente-einsaetze/
 tags:
   - transparent panels
   - sheer details

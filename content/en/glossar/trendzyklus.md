@@ -20,8 +20,7 @@ keywords:
 slug: trendzyklus
 url: /en/glossary/trendzyklus/
 aliases:
-  - /en/glossar/trendzyklus/
-  - /glossary/trendzyklus/
+  - /glossar/trendzyklus/
 relatedTerms:
   - title: "Trend Piece"
     url: /en/glossar/trendteil/

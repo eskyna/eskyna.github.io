@@ -20,8 +20,7 @@ keywords:
 slug: dress-sandal
 url: /en/glossary/dress-sandal/
 aliases:
-  - /en/glossar/sandalette/
-  - /glossary/dress-sandal/
+  - /glossar/sandalette/
 image_alt: Elegant strappy dress sandals with a slim heel for an evening outfit
 relatedTerms:
   - title: Sandal

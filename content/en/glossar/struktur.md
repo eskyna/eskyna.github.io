@@ -20,8 +20,7 @@ keywords:
 slug: texture
 url: /en/glossary/texture/
 aliases:
-  - /en/glossar/struktur/
-  - /glossary/texture/
+  - /glossar/struktur/
 image_alt: Editorial glossary illustration showing different fabric textures and surfaces
 relatedTerms:
   - title: Handfeel

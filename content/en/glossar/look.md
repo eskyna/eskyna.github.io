@@ -21,8 +21,7 @@ keywords:
 slug: look
 url: /en/glossary/look/
 aliases:
-  - /en/glossar/look/
-  - /glossary/look/
+  - /glossar/look/
 image_alt: Editorial glossary illustration showing a coordinated fashion look
 relatedTerms:
   - title: Outfit

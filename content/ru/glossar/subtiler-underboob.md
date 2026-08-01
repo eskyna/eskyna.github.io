@@ -5,8 +5,7 @@ description: "Деликатный underboob это приём в дизайне
 slug: subtiler-underboob
 url: /rus/glossariy/subtiler-underboob/
 aliases:
-  - /rus/glossar/subtiler-underboob/
-  - /ru/glossar/subtiler-underboob/
+  - /glossar/subtiler-underboob/
 category: "Белье, бюстгальтеры и стилистические помощники"
 subcategory: "Крой, пропорции и посадка"
 tags:

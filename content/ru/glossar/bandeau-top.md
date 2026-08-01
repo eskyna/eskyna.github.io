@@ -9,8 +9,7 @@ image: "images/glossar/bandeau-top.png"
 image_alt: "Иллюстрация топа-бандо без бретелей"
 url: /rus/glossariy/bandeau-top/
 aliases:
-  - /rus/glossar/bandeau-top/
-  - /ru/glossar/bandeau-top/
+  - /glossar/bandeau-top/
 tags:
   - топ-бандо
   - верх без бретелей

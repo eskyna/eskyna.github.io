@@ -21,8 +21,7 @@ keywords:
 slug: skirt-length
 url: /en/glossary/skirt-length/
 aliases:
-  - /en/glossar/rocklange/
-  - /glossary/skirt-length/
+  - /glossar/rocklange/
 image_alt: Editorial illustration showing mini, midi, and maxi skirt lengths
 relatedTerms:
   - title: Hem Length

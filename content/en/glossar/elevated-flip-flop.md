@@ -20,8 +20,7 @@ keywords:
 slug: elevated-flip-flop
 url: /en/glossary/elevated-flip-flop/
 aliases:
-  - /en/glossar/elevated-flip-flop/
-  - /glossary/elevated-flip-flop/
+  - /glossar/elevated-flip-flop/
 image_alt: Refined minimalist flip-flops styled with a polished summer outfit
 relatedTerms:
   - title: Sandal

@@ -14,8 +14,7 @@ keywords:
 slug: chambray
 url: /rus/glossariy/chambray/
 aliases:
-  - /rus/glossar/chambray/
-  - /ru/glossar/chambray/
+  - /glossar/chambray/
 tags:
   - шамбре
   - хлопковая ткань

@@ -18,8 +18,7 @@ weight: 999
 slug: "neckholder-bikini"
 url: "/rus/glossariy/neckholder-bikini/"
 aliases:
-  - "/rus/glossar/neckholder-bikini/"
-  - "/ru/glossar/neckholder-bikini/"
+  - /glossar/neckholder-bikini/
 image: "images/glossar/neckholder-bikini.png"
 image_alt: "Бикини-халтер с завязками на шее"
 relatedTerms:

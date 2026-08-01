@@ -4,8 +4,7 @@ term: Image Consistency
 slug: image-konsistenz
 url: /en/glossary/image-konsistenz/
 aliases:
-  - /en/glossar/image-konsistenz/
-  - /glossary/image-konsistenz/
+  - /glossar/image-konsistenz/
 description: "Image consistency is the alignment of your visual appearance across different occasions, channels, and areas of life."
 category: Style & Impact
 tags:

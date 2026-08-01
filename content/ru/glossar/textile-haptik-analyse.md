@@ -5,8 +5,7 @@ description: "Тактильный анализ текстиля это оцен
 slug: textile-haptik-analyse
 url: /rus/glossariy/textile-haptik-analyse/
 aliases:
-  - /rus/glossar/textile-haptik-analyse/
-  - /ru/glossar/textile-haptik-analyse/
+  - /glossar/textile-haptik-analyse/
 category: Материалы и детали
 tags:
   - тактильный-анализ

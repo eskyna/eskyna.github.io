@@ -21,8 +21,7 @@ keywords:
 slug: wide-leg-trousers
 url: /en/glossary/wide-leg-trousers/
 aliases:
-  - /en/glossar/marlenehose/
-  - /glossary/wide-leg-trousers/
+  - /glossar/marlenehose/
 image_alt: Wide-leg trousers with a flowing, full-length leg silhouette
 relatedTerms:
   - title: Palazzo Trousers

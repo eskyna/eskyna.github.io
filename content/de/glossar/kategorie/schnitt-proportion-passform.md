@@ -5,6 +5,8 @@ layout: "glossar-kategorie"
 is_glossar_category: true
 glossar_category: "Schnitt, Proportion & Passform"
 url: "/glossar/kategorie/schnitt-proportion-passform/"
+aliases:
+  - /glossar/schnitt-proportion-passform/
 seoTitle: "Schnitt, Proportion & Passform: Silhouetten & Styling"
 history: "Historisch gesehen wandelte sich die Schnittführung vom maßgeschneiderten Einzelstück des 19. Jahrhunderts hin zur standardisierten Konfektion im 20. Jahrhundert. Ikonische Silhouetten prägten dabei ganze Epochen."
 knowledge: "Die visuelle Wirkung eines Outfits hängt primär von Linien, Längen und Volumen ab. Kleine Anpassungen an Saumlänge, Taillenhöhe oder Schulterpartie können die gesamte optische Balance verändern."

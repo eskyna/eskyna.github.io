@@ -22,8 +22,7 @@ keywords:
 slug: blazer
 url: /en/glossary/blazer/
 aliases:
-  - /en/glossar/blazer/
-  - /glossary/blazer/
+  - /glossar/blazer/
 image_alt: Tailored blazer with lapels and front buttons, shown as an editorial glossary illustration
 relatedTerms:
   - title: Suit Jacket

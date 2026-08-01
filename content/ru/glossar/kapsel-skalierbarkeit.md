@@ -5,8 +5,7 @@ description: "Масштабируемость капсулы это спосо�
 slug: kapsel-skalierbarkeit
 url: /rus/glossariy/kapsel-skalierbarkeit/
 aliases:
-  - /rus/glossar/kapsel-skalierbarkeit/
-  - /ru/glossar/kapsel-skalierbarkeit/
+  - /glossar/kapsel-skalierbarkeit/
 category: Гардероб и повседневность
 tags:
   - капсульный гардероб

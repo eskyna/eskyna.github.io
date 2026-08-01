@@ -21,8 +21,7 @@ keywords:
 slug: dropped-shoulder
 url: /en/glossary/dropped-shoulder/
 aliases:
-  - /en/glossar/dropped-shoulder/
-  - /glossary/dropped-shoulder/
+  - /glossar/dropped-shoulder/
 image_alt: Illustration of a garment with the shoulder seam placed below the natural shoulder line
 relatedTerms:
   - title: Shoulder Line

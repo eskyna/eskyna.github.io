@@ -24,8 +24,7 @@ keywords:
 slug: indigo-und-denimblau
 url: /en/glossary/indigo-und-denimblau/
 aliases:
-  - /en/glossar/indigo-und-denimblau/
-  - /glossary/indigo-und-denimblau/
+  - /glossar/indigo-und-denimblau/
 relatedTerms:
   - title: "Navy"
     url: /en/glossar/navy/

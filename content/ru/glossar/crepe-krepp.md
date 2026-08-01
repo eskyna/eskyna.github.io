@@ -15,8 +15,7 @@ keywords:
 slug: crepe-krepp
 url: /rus/glossariy/crepe-krepp/
 aliases:
-  - /rus/glossar/crepe-krepp/
-  - /ru/glossar/crepe-krepp/
+  - /glossar/crepe-krepp/
 tags:
   - "креп"
   - "ткани"

@@ -37,9 +37,8 @@ seoTitle: "Планка с пуговицами: что это, виды и пр
 slug: planka-s-pugovitsami
 url: /ru/glossar/knopfleiste/
 aliases:
-  - /rus/glossar/knopfleiste/
-  - /ru/glossar/knopfleiste/
-  - /rus/glossariy/planka-s-pugovitsami/
+  - /glossar/knopfleiste/
+  - /glossariy/planka-s-pugovitsami/
 lastmod: "2026-07-09"
 history:
   - "Пуговичная застёжка развивалась вместе с кроем одежды и постепенно стала не только практичной, но и заметной декоративной деталью."

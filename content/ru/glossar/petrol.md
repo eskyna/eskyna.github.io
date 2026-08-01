@@ -37,8 +37,7 @@ seoTitle: "Петроль: что это за цвет и с чем его со�
 slug: petrol
 url: /rus/glossariy/petrol/
 aliases:
-  - /rus/glossar/petrol/
-  - /ru/glossar/petrol/
+  - /glossar/petrol/
 lastmod: "2026-07-09"
 knowledge:
   - Петроль находится в диапазоне глубоких сине-зелёных оттенков, поэтому его восприятие зависит от света, материала и соседних цветов.

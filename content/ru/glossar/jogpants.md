@@ -38,9 +38,8 @@ seoTitle: "Джоггеры: что это такое и с чем носить 
 slug: dzhoggery
 url: /rus/glossariy/dzhoggery/
 aliases:
-  - /rus/glossar/jogpants/
-  - /ru/glossar/jogpants/
-  - /rus/glossariy/jogpants/
+  - /glossar/jogpants/
+  - /glossariy/jogpants/
 lastmod: "2026-07-09"
 knowledge:
   - Джоггеры узнаваемы по эластичному поясу и манжетам либо сужению внизу штанин.

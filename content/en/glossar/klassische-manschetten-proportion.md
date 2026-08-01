@@ -4,8 +4,7 @@ term: Classic Cuff Proportion
 description: "Classic cuff proportion is the visible amount of a shirt or blouse cuff that extends beyond a jacket sleeve. It is a traditional tailoring detail that helps create a polished, well-fitted look."
 url: /en/glossary/klassische-manschetten-proportion/
 aliases:
-  - /en/glossar/klassische-manschetten-proportion/
-  - /glossary/klassische-manschetten-proportion/
+  - /glossar/klassische-manschetten-proportion/
 category: Cut, Proportion & Fit
 subcategory: Materials & Details
 tags:

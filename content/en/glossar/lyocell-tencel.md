@@ -18,8 +18,7 @@ keywords:
 slug: lyocell-tencel
 url: /en/glossary/lyocell-tencel/
 aliases:
-  - /en/glossar/lyocell-tencel/
-  - /glossary/lyocell-tencel/
+  - /glossar/lyocell-tencel/
 weight: 999
 image: images/glossar/lyocell-tencel.png
 image_alt: Soft draped lyocell blouse on a clothing rail

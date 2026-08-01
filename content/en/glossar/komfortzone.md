@@ -22,8 +22,7 @@ keywords:
 slug: comfort-zone
 url: /en/glossary/comfort-zone/
 aliases:
-  - /en/glossar/komfortzone/
-  - /glossary/comfort-zone/
+  - /glossar/komfortzone/
 relatedTerms:
   - title: Personal Style
     url: /en/glossar/personal-style/

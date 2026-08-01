@@ -36,9 +36,8 @@ seoTitle: "Крой буткат: что это такое и как носит�
 slug: kroy-butkat
 url: /rus/glossariy/kroy-butkat/
 aliases:
-  - /rus/glossar/bootcut/
-  - /ru/glossar/bootcut/
-  - /rus/glossariy/kroy-bootcut/
+  - /glossar/bootcut/
+  - /glossariy/kroy-bootcut/
 lastmod: "2026-07-09"
 knowledge:
   - Буткат расширяется умеренно и обычно начинается в зоне колена, поэтому силуэт выглядит спокойнее, чем выраженный клеш.

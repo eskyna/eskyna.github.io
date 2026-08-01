@@ -9,8 +9,7 @@ image: "images/glossar/schuhpflege.png"
 image_alt: "Средства для бережного ухода за обувью: щетка, салфетка и крем"
 url: /rus/glossariy/schuhpflege/
 aliases:
-  - /rus/glossar/schuhpflege/
-  - /ru/glossar/schuhpflege/
+  - /glossar/schuhpflege/
 tags:
   - уход за обувью
   - чистка обуви

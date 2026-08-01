@@ -8,8 +8,7 @@ image_alt: Collage of fashion images, color swatches, fabrics, accessories, and 
 slug: moodboard
 url: /en/glossary/moodboard/
 aliases:
-  - /en/glossar/moodboard/
-  - /glossary/moodboard/
+  - /glossar/moodboard/
 tags:
   - moodboard
   - personal style

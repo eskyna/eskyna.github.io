@@ -9,8 +9,7 @@ image: "images/glossar/boudoir-chic.png"
 image_alt: "Glossary illustration showing the soft, sensual elegance of Boudoir Chic"
 url: /en/glossary/boudoir-chic/
 aliases:
-  - /en/glossar/boudoir-chic/
-  - /glossary/boudoir-chic/
+  - /glossar/boudoir-chic/
 tags:
   - Boudoir Chic
   - lingerie dressing

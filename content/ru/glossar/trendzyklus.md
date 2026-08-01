@@ -15,8 +15,7 @@ keywords:
 slug: trendzyklus
 url: /rus/glossariy/trendzyklus/
 aliases:
-  - /rus/glossar/trendzyklus/
-  - /ru/glossar/trendzyklus/
+  - /glossar/trendzyklus/
 tags:
   - тренды
   - осознанный гардероб

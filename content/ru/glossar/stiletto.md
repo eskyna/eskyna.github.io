@@ -35,9 +35,8 @@ seoTitle: "Шпилька: что это за каблук и как его но
 slug: shpilka
 url: /rus/glossariy/shpilka/
 aliases:
-  - /rus/glossar/stiletto/
-  - /ru/glossar/stiletto/
-  - /rus/glossariy/stiletto/
+  - /glossar/stiletto/
+  - /glossariy/stiletto/
 lastmod: "2026-07-09"
 knowledge:
   - Шпилька является типом каблука, а не названием конкретной модели обуви.

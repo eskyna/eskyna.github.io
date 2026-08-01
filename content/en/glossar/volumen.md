@@ -21,8 +21,7 @@ keywords:
 slug: volume
 url: /en/glossary/volume/
 aliases:
-  - /en/glossar/volumen/
-  - /glossary/volume/
+  - /glossar/volumen/
 image_alt: Editorial illustration showing clothing volume through gathered sleeves, wide trousers, and a full skirt
 relatedTerms:
   - title: Silhouette

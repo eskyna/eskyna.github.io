@@ -5,8 +5,7 @@ description: "Wardrobe obsolescence is the intentional review and reduction of c
 slug: garderoben-obsoleszenz
 url: /en/glossary/garderoben-obsoleszenz/
 aliases:
-  - /en/glossar/garderoben-obsoleszenz/
-  - /glossary/garderoben-obsoleszenz/
+  - /glossar/garderoben-obsoleszenz/
 category: Wardrobe & Everyday Style
 tags:
   - wardrobe obsolescence

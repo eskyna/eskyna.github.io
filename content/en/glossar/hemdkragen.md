@@ -22,8 +22,7 @@ keywords:
 slug: shirt-collar
 url: /en/glossary/shirt-collar/
 aliases:
-  - /en/glossar/hemdkragen/
-  - /glossary/shirt-collar/
+  - /glossar/hemdkragen/
 image_alt: Editorial illustration of a classic shirt collar with collar stand and pointed collar tips
 relatedTerms:
   - title: Kent Collar

@@ -37,8 +37,7 @@ seoTitle: "Гленчек: значение и применение | Глосс
 slug: glenchek
 url: /rus/glossariy/glenchek/
 aliases:
-  - /rus/glossar/glencheck/
-  - /ru/glossar/glencheck/
+  - /glossar/glencheck/
 lastmod: "2026-07-09"
 history:
   - Гленчек сформировался в шотландской текстильной традиции XIX века и позднее стал важной частью британского костюмного гардероба.

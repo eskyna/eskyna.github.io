@@ -37,9 +37,8 @@ seoTitle: "Худи: что это такое, как выбрать и носи
 slug: hudi
 url: /rus/glossariy/hudi/
 aliases:
-  - /rus/glossar/hoodie/
-  - /ru/glossar/hoodie/
-  - /rus/glossariy/hoodie/
+  - /glossar/hoodie/
+  - /glossariy/hoodie/
 lastmod: "2026-07-09"
 history:
   - Современное худи сформировалось в спортивной и рабочей одежде США XX века.

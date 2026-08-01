@@ -34,8 +34,7 @@ seoTitle: "Расслабленный стиль | ESKYNA Glossary"
 slug: rasslablennyy-stil
 url: /rus/glossariy/rasslablennyy-stil/
 aliases:
-  - /rus/glossar/laessig/
-  - /ru/glossar/laessig/
+  - /glossar/laessig/
 lastmod: "2026-07-09"
 knowledge:
   - "Расслабленный стиль не равен небрежности: впечатление создают чистота вещей, уместная посадка и продуманное сочетание деталей."

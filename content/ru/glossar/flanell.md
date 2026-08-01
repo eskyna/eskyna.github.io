@@ -15,8 +15,7 @@ keywords:
 slug: flanell
 url: /rus/glossariy/flanell/
 aliases:
-  - /rus/glossar/flanell/
-  - /ru/glossar/flanell/
+  - /glossar/flanell/
 relatedTerms:
   - title: "Шерсть"
     url: /ru/glossar/wolle/

@@ -14,8 +14,7 @@ keywords:
 slug: adaptive-fashion
 url: /en/glossary/adaptive-fashion/
 aliases:
-  - /en/glossar/adaptive-fashion/
-  - /glossary/adaptive-fashion/
+  - /glossar/adaptive-fashion/
 tags:
   - adaptive fashion
   - inclusive fashion

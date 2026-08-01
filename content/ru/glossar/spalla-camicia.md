@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/spalla-camicia/
 aliases:
-  - /rus/glossar/spalla-camicia/
-  - /ru/glossar/spalla-camicia/
+  - /glossar/spalla-camicia/
 image: images/glossar/spalla-camicia.png
 image_alt: "Пиджак с мягкой естественной линией плеч без подплечников"
 relatedTerms:

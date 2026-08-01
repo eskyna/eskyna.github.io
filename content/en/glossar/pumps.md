@@ -22,8 +22,7 @@ keywords:
 slug: pumps
 url: /en/glossary/pumps/
 aliases:
-  - /en/glossar/pumps/
-  - /glossary/pumps/
+  - /glossar/pumps/
 image_alt: Classic closed-toe pumps with a slim heel
 relatedTerms:
   - title: Slingback

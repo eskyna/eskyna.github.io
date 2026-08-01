@@ -34,9 +34,8 @@ seoTitle: "Городской дневной дресс-код | ESKYNA"
 slug: gorodskoy-dnevnoy-dress-kod
 url: /rus/glossariy/gorodskoy-dnevnoy-dress-kod/
 aliases:
-  - /rus/glossar/tenue-de-ville/
-  - /ru/glossar/tenue-de-ville/
-  - /rus/glossariy/tenue-de-ville/
+  - /glossar/tenue-de-ville/
+  - /glossariy/tenue-de-ville/
 image_alt: "Элегантный дневной городской образ для формального мероприятия"
 history:
   - "Выражение tenue de ville происходит из французской традиции дресс-кодов и буквально связано с городской одеждой."

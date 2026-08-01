@@ -35,8 +35,7 @@ seoTitle: "Шарф: что это, как выбрать и носить | Гл
 slug: sharf
 url: /rus/glossariy/sharf/
 aliases:
-  - /rus/glossar/schal/
-  - /ru/glossar/schal/
+  - /glossar/schal/
 lastmod: "2026-07-09"
 knowledge:
   - "Шарф работает не только как защита от холода: его цвет находится близко к лицу и заметно влияет на общее впечатление."

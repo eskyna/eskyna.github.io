@@ -22,8 +22,7 @@ keywords:
 slug: oversized
 url: /en/glossary/oversized/
 aliases:
-  - /en/glossar/oversized/
-  - /glossary/oversized/
+  - /glossar/oversized/
 image_alt: Editorial illustration showing an intentionally oversized blazer and wide-leg trousers
 relatedTerms:
   - title: Loose Fit

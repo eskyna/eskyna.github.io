@@ -35,8 +35,7 @@ seoTitle: "Солнцезащитные очки | ESKYNA Glossary"
 slug: solntsezashchitnye-ochki
 url: /rus/glossariy/solntsezashchitnye-ochki/
 aliases:
-  - /rus/glossar/sonnenbrille/
-  - /ru/glossar/sonnenbrille/
+  - /glossar/sonnenbrille/
 lastmod: "2026-07-09"
 knowledge:
   - Тёмные линзы сами по себе не подтверждают защиту от ультрафиолета. При выборе проверяйте маркировку производителя о UV-защите.

@@ -35,9 +35,9 @@ seoTitle: "Лоферы: что это за обувь и как их носит
 slug: loafer
 url: /ru/glossar/loafer/
 aliases:
-  - /rus/glossariy/lofery/
-  - /rus/glossar/loafer/
-  - /rus/glossariy/loafer/
+  - /glossariy/lofery/
+  - /glossar/loafer/
+  - /glossariy/loafer/
 lastmod: "2026-07-09"
 history:
   - Лоферы связаны с североевропейскими моделями обуви без шнуровки, которые в XX веке получили развитие в США.

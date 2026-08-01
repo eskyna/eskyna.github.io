@@ -18,8 +18,8 @@ weight: 999
 image: "images/glossar/buesten-zentrierung.png"
 image_alt: "Woman wearing a fitted top with a centered, lifted bust line"
 aliases:
-  - "/en/glossar/buesten-zentrierung/"
-  - "/glossary/buesten-zentrierung/"
+  - /glossar/buesten-zentrierung/
+  - /glossary/buesten-zentrierung/
 relatedTerms:
   - title: "Bra Fit"
     url: "/en/glossar/bh-passform/"

@@ -24,8 +24,7 @@ keywords:
 slug: rostorange
 url: /rus/glossariy/rostorange/
 aliases:
-  - /rus/glossar/rostorange/
-  - /ru/glossar/rostorange/
+  - /glossar/rostorange/
 relatedTerms:
   - title: "Оранжевый"
     url: /ru/glossar/orange/

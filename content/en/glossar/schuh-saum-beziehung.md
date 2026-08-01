@@ -21,8 +21,7 @@ keywords:
 slug: shoe-hem-relationship
 url: /en/glossary/shoe-hem-relationship/
 aliases:
-  - /en/glossar/schuh-saum-beziehung/
-  - /glossary/shoe-hem-relationship/
+  - /glossar/schuh-saum-beziehung/
 image_alt: Editorial illustration showing how different trouser hems meet flats, heels, and boots
 relatedTerms:
   - title: Hem Length

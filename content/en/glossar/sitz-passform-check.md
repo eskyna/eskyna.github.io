@@ -16,8 +16,7 @@ keywords:
 weight: 999
 url: "/en/glossary/sitz-passform-check/"
 aliases:
-  - "/en/glossar/sitz-passform-check/"
-  - "/glossary/sitz-passform-check/"
+  - /glossar/sitz-passform-check/
 image: "images/glossar/sitz-passform-check.png"
 image_alt: "Person checking the comfort and fit of a dinner outfit while seated at a table"
 relatedTerms:

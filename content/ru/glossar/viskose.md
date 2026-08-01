@@ -35,9 +35,8 @@ seoTitle: "Вискоза: что это за ткань, свойства и у
 slug: viskoza
 url: /ru/glossar/viskose/
 aliases:
-  - /rus/glossariy/viskoza/
-  - /rus/glossar/viskose/
-  - /ru/glossar/viskose/
+  - /glossariy/viskoza/
+  - /glossar/viskose/
 lastmod: "2026-07-09"
 history:
   - Вискозное волокно было разработано в конце XIX века как материал на основе целлюлозы, способный воспроизводить мягкую пластику более дорогих волокон.

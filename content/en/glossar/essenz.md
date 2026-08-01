@@ -21,8 +21,7 @@ keywords:
 slug: essence
 url: /en/glossary/essence/
 aliases:
-  - /en/glossar/essenz/
-  - /glossary/essence/
+  - /glossar/essenz/
 image_alt: Editorial illustration representing essence, personal style, and visual presence
 relatedTerms:
   - title: Personal Style

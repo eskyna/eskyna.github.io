@@ -16,8 +16,7 @@ keywords:
 slug: leibhoehe
 url: /rus/glossariy/leibhoehe/
 aliases:
-  - /rus/glossar/leibhoehe/
-  - /ru/glossar/leibhoehe/
+  - /glossar/leibhoehe/
 tags:
   - "посадка"
   - "брюки"

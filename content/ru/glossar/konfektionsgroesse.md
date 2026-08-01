@@ -9,8 +9,7 @@ image_alt: "Иллюстрация выбора размера готовой о
 slug: konfektionsgroesse
 url: /rus/glossariy/konfektionsgroesse/
 aliases:
-  - /rus/glossar/konfektionsgroesse/
-  - /ru/glossar/konfektionsgroesse/
+  - /glossar/konfektionsgroesse/
 tags:
   - размер готовой одежды
   - конфекционный размер

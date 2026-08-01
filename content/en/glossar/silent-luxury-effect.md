@@ -4,8 +4,7 @@ term: "Silent Luxury Effect"
 slug: "silent-luxury-effect"
 url: "/en/glossary/silent-luxury-effect/"
 aliases:
-  - "/en/glossar/silent-luxury-effect/"
-  - "/glossary/silent-luxury-effect/"
+  - /glossar/silent-luxury-effect/
 description: "The Silent Luxury Effect is the refined impression created by excellent materials, fit, construction, and restraint rather than visible logos or obvious status symbols."
 category: "Style & Impact"
 tags:

@@ -34,8 +34,7 @@ seoTitle: "Вертикальная линия в одежде | ESKYNA"
 slug: vertikalnaya-liniya
 url: /ru/glossar/vertikale-linie/
 aliases:
-  - /rus/glossar/vertikale-linie/
-  - /ru/glossar/vertikale-linie/
+  - /glossar/vertikale-linie/
 image_alt: "Вертикальные линии в одежде визуально направляют взгляд сверху вниз"
 lastmod: "2026-07-09"
 knowledge:

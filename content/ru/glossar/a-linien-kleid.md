@@ -34,8 +34,7 @@ seoTitle: "Платье A-силуэта | ESKYNA Glossary"
 slug: plate-a-silueta
 url: /rus/glossariy/plate-a-silueta/
 aliases:
-  - /rus/glossar/a-linien-kleid/
-  - /ru/glossar/a-linien-kleid/
+  - /glossar/a-linien-kleid/
 history:
   - "Название A-силуэта связано с контуром буквы A: относительно узкий верх постепенно расширяется к низу."
   - "Термин стал широко известен в моде середины XX века, когда дизайнеры развивали более свободные, геометричные силуэты."

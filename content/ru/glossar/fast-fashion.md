@@ -14,8 +14,7 @@ keywords:
 slug: fast-fashion
 url: /rus/glossariy/fast-fashion/
 aliases:
-  - /rus/glossar/fast-fashion/
-  - /ru/glossar/fast-fashion/
+  - /glossar/fast-fashion/
 relatedTerms:
   - title: "Медленная мода"
     url: /ru/glossar/slow-fashion/

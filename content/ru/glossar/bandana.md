@@ -9,8 +9,7 @@ image: "images/glossar/bandana.png"
 image_alt: "Иллюстрация банданы, сложенной треугольником"
 url: /rus/glossariy/bandana/
 aliases:
-  - /rus/glossar/bandana/
-  - /ru/glossar/bandana/
+  - /glossar/bandana/
 tags:
   - бандана
   - платок

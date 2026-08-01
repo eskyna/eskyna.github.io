@@ -23,8 +23,7 @@ keywords:
 slug: sand
 url: /rus/glossariy/sand/
 aliases:
-  - /rus/glossar/sand/
-  - /ru/glossar/sand/
+  - /glossar/sand/
 relatedTerms:
   - title: "Бежевый"
     url: /ru/glossar/beige/

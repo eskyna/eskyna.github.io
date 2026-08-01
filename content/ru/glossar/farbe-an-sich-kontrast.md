@@ -9,8 +9,7 @@ image: "images/glossar/farbe-an-sich-kontrast.png"
 image_alt: "Иллюстрация сочетания чистых насыщенных цветов с контрастом цвета как такового"
 url: /rus/glossariy/farbe-an-sich-kontrast/
 aliases:
-  - /rus/glossar/farbe-an-sich-kontrast/
-  - /ru/glossar/farbe-an-sich-kontrast/
+  - /glossar/farbe-an-sich-kontrast/
 tags:
   - цветовой контраст
   - сочетание цветов

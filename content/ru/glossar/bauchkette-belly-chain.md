@@ -4,8 +4,7 @@ term: Цепочка на талию
 slug: bauchkette-belly-chain
 url: /rus/glossariy/bauchkette-belly-chain/
 aliases:
-  - /rus/glossar/bauchkette-belly-chain/
-  - /ru/glossar/bauchkette-belly-chain/
+  - /glossar/bauchkette-belly-chain/
 description: "Цепочка на талию, или belly chain, это украшение для тела, которое располагают на талии, бёдрах или животе. Она мягко подчёркивает центр силуэта и становится заметным акцентом в пляжных, вечерних и многослойных образах."
 category: Аксессуары
 tags:

@@ -9,8 +9,7 @@ image: "images/glossar/messenger-bag.png"
 image_alt: "Glossary illustration of a messenger bag with a flap and long crossbody strap"
 url: /en/glossary/messenger-bag/
 aliases:
-  - /en/glossar/messenger-bag/
-  - /glossary/messenger-bag/
+  - /glossar/messenger-bag/
 tags:
   - messenger bag
   - crossbody bag

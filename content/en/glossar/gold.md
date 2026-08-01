@@ -23,8 +23,7 @@ keywords:
 slug: gold
 url: /en/glossary/gold/
 aliases:
-  - /en/glossar/gold/
-  - /glossary/gold/
+  - /glossar/gold/
 image_alt: Editorial glossary illustration showing a warm gold color swatch
 relatedTerms:
   - title: Metallic

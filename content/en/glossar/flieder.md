@@ -22,8 +22,7 @@ keywords:
 slug: lilac
 url: /en/glossary/lilac/
 aliases:
-  - /en/glossar/flieder/
-  - /glossary/lilac/
+  - /glossar/flieder/
 image_alt: Soft light lilac color swatch in a glossary illustration
 relatedTerms:
   - title: Violet

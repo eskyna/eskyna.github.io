@@ -20,8 +20,7 @@ tags:
 slug: bewegungszugabe
 url: /rus/glossariy/bewegungszugabe/
 aliases:
-  - /rus/glossar/bewegungszugabe/
-  - /ru/glossar/bewegungszugabe/
+  - /glossar/bewegungszugabe/
 relatedTerms:
   - title: "Посадка"
     url: /ru/glossar/passform/

@@ -35,8 +35,7 @@ seoTitle: "Секонд-хенд explained | ESKYNA"
 slug: sekond-hend
 url: /rus/glossariy/sekond-hend/
 aliases:
-  - /rus/glossar/secondhand/
-  - /ru/glossar/secondhand/
+  - /glossar/secondhand/
 lastmod: "2026-07-09"
 history:
   - "Практика повторного использования одежды существовала задолго до современного рынка моды: вещи передавали внутри семьи, перешивали и покупали у прежних владельцев."

@@ -22,8 +22,7 @@ keywords:
 slug: toe-shape
 url: /en/glossary/toe-shape/
 aliases:
-  - /en/glossar/schuhspitze/
-  - /glossary/toe-shape/
+  - /glossar/schuhspitze/
 image_alt: Editorial illustration showing pointed, almond, round, and square shoe toe shapes
 relatedTerms:
   - title: Toe Box

@@ -5,8 +5,7 @@ description: "Бикини с высокой посадкой, или high-waist
 slug: high-waist-bikini
 url: /rus/glossariy/high-waist-bikini/
 aliases:
-  - /rus/glossar/high-waist-bikini/
-  - /ru/glossar/high-waist-bikini/
+  - /glossar/high-waist-bikini/
 category: Крой, пропорции и посадка
 tags:
   - бикини с высокой посадкой

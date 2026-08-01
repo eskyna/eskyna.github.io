@@ -20,8 +20,7 @@ keywords:
 slug: v-neckline
 url: /en/glossary/v-neckline/
 aliases:
-  - /en/glossar/v-ausschnitt/
-  - /glossary/v-neckline/
+  - /glossar/v-ausschnitt/
 image_alt: Editorial glossary illustration showing a garment with a V-shaped neckline
 relatedTerms:
   - title: Neckline Effect

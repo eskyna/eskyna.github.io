@@ -32,8 +32,7 @@ seoTitle: "Пуховик: что это, как выбрать и носить 
 slug: puhovik
 url: /ru/glossar/daunenjacke/
 aliases:
-  - /rus/glossar/daunenjacke/
-  - /ru/glossar/daunenjacke/
+  - /glossar/daunenjacke/
 lastmod: "2026-07-09"
 knowledge:
   - "Тепло пуховика зависит не только от толщины, но и от свойств наполнителя, конструкции изделия, длины, посадки и того, как вы носите слои под ним."

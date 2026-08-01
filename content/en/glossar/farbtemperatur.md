@@ -23,8 +23,7 @@ keywords:
 slug: color-temperature
 url: /en/glossary/color-temperature/
 aliases:
-  - /en/glossar/farbtemperatur/
-  - /glossary/color-temperature/
+  - /glossar/farbtemperatur/
 image_alt: Editorial illustration comparing warm, cool, and neutral color temperatures
 relatedTerms:
   - title: Undertone

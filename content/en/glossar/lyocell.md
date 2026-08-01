@@ -22,8 +22,7 @@ keywords:
 slug: lyocell
 url: /en/glossary/lyocell/
 aliases:
-  - /en/glossar/lyocell/
-  - /glossary/lyocell/
+  - /glossar/lyocell/
 image_alt: Soft flowing lyocell fabric with a smooth matte surface
 relatedTerms:
   - title: Viscose

@@ -4,8 +4,7 @@ term: Шёлковый бархат
 description: "Шёлковый бархат, или Seidensamt, это ворсовая ткань из натурального шёлка с исключительно мягкой поверхностью, глубоким цветом и живым переливом света."
 url: /rus/glossariy/seidensamt/
 aliases:
-  - /rus/glossar/seidensamt/
-  - /ru/glossar/seidensamt/
+  - /glossar/seidensamt/
 category: Материалы и детали
 tags:
   - шёлковый бархат

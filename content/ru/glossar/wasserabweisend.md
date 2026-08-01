@@ -9,8 +9,7 @@ image: "images/glossar/wasserabweisend.png"
 image_alt: "Капли воды на поверхности водоотталкивающей ткани"
 url: /rus/glossariy/wasserabweisend/
 aliases:
-  - /rus/glossar/wasserabweisend/
-  - /ru/glossar/wasserabweisend/
+  - /glossar/wasserabweisend/
 tags:
   - водоотталкивающий
   - защита от дождя

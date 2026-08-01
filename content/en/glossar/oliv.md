@@ -21,8 +21,7 @@ keywords:
 slug: olive
 url: /en/glossary/olive/
 aliases:
-  - /en/glossar/oliv/
-  - /glossary/olive/
+  - /glossar/oliv/
 image_alt: Editorial glossary illustration showing the muted yellow-green shade olive
 relatedTerms:
   - title: Khaki

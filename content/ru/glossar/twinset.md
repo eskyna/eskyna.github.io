@@ -34,9 +34,8 @@ seoTitle: "Твинсет: что это такое и как носить | Г�
 slug: tvinset
 url: /rus/glossariy/tvinset/
 aliases:
-  - /rus/glossar/twinset/
-  - /ru/glossar/twinset/
-  - /rus/glossariy/twinset/
+  - /glossar/twinset/
+  - /glossariy/twinset/
 lastmod: "2026-07-09"
 history:
   - Твинсет стал заметной частью женского гардероба в середине XX века, когда координированные трикотажные комплекты ассоциировались с аккуратностью и практичной элегантностью.

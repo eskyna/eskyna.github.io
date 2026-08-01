@@ -36,9 +36,9 @@ seoTitle: "Лиловый цвет: значение, оттенки и соче
 slug: lilovyy
 url: /ru/glossar/lila/
 aliases:
-  - /rus/glossar/lila/
-  - /rus/glossariy/lilovyy/
-  - /ru/glossar/lilovyy/
+  - /glossar/lila/
+  - /glossariy/lilovyy/
+  - /glossar/lilovyy/
 lastmod: "2026-07-09"
 knowledge:
   - "Лиловый не обозначает один строго фиксированный оттенок: его восприятие меняется в зависимости от светлоты, подтона и насыщенности."

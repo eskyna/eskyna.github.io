@@ -15,8 +15,7 @@ keywords:
 slug: monkstrap
 url: /en/glossary/monkstrap/
 aliases:
-  - /en/glossar/monkstrap/
-  - /glossary/monkstrap/
+  - /glossar/monkstrap/
 tags:
   - monk strap
   - buckle shoes

@@ -9,8 +9,7 @@ image: "images/glossar/mesh.png"
 image_alt: "Fine black mesh fabric with an open net-like structure"
 url: /en/glossary/mesh/
 aliases:
-  - /en/glossar/mesh/
-  - /glossary/mesh/
+  - /glossar/mesh/
 tags:
   - mesh fabric
   - transparent fabric

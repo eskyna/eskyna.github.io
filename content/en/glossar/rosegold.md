@@ -22,8 +22,7 @@ keywords:
 slug: rose-gold
 url: /en/glossary/rose-gold/
 aliases:
-  - /en/glossar/rosegold/
-  - /glossary/rose-gold/
+  - /glossar/rosegold/
 image_alt: Soft rose gold metallic tone with a warm pink and coppery sheen
 relatedTerms:
   - title: Gold

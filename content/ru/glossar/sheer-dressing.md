@@ -9,8 +9,7 @@ image: "images/glossar/sheer-dressing.png"
 image_alt: "Иллюстрация образа в стиле Sheer Dressing с полупрозрачными слоями"
 url: /rus/glossariy/sheer-dressing/
 aliases:
-  - /rus/glossar/sheer-dressing/
-  - /ru/glossar/sheer-dressing/
+  - /glossar/sheer-dressing/
 lastmod: "2026-07-22"
 tags:
   - sheer-dressing

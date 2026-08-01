@@ -35,8 +35,7 @@ seoTitle: "Линия плеч | Style & Image ESKYNA"
 slug: liniya-plech
 url: /rus/glossariy/liniya-plech/
 aliases:
-  - /rus/glossar/schulterlinie/
-  - /ru/glossar/schulterlinie/
+  - /glossar/schulterlinie/
 lastmod: "2026-07-09"
 history:
   - "Форма плеч менялась вместе с модными силуэтами: от мягких естественных линий до подчеркнуто структурированных плеч."

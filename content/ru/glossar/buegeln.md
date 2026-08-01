@@ -34,8 +34,7 @@ seoTitle: "Глажка одежды | ESKYNA Glossary"
 slug: glazhka
 url: /rus/glossariy/glazhka/
 aliases:
-  - /rus/glossar/buegeln/
-  - /ru/glossar/buegeln/
+  - /glossar/buegeln/
 lastmod: "2026-07-09"
 knowledge:
   - Глажка сочетает тепло, давление и при необходимости пар, чтобы разгладить заломы на ткани.

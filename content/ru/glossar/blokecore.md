@@ -9,8 +9,7 @@ image: "images/glossar/blokecore.png"
 image_alt: "Иллюстрация образа в стиле Blokecore с футбольным джерси, джинсами и кроссовками"
 url: /rus/glossariy/blokecore/
 aliases:
-  - /rus/glossar/blokecore/
-  - /ru/glossar/blokecore/
+  - /glossar/blokecore/
 tags:
   - blokecore
   - футбольный стиль

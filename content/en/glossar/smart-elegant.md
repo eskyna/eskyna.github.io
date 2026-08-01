@@ -22,8 +22,7 @@ keywords:
 slug: smart-elegant
 url: /en/glossary/smart-elegant/
 aliases:
-  - /en/glossar/smart-elegant/
-  - /glossary/smart-elegant/
+  - /glossar/smart-elegant/
 image_alt: Polished smart elegant outfit with tailored separates and refined accessories
 relatedTerms:
   - title: Smart Casual

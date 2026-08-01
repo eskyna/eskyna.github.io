@@ -9,8 +9,7 @@ image_alt: "Иллюстрация кармана, встроенного в б�
 slug: nahttasche
 url: /rus/glossariy/nahttasche/
 aliases:
-  - /rus/glossar/nahttasche/
-  - /ru/glossar/nahttasche/
+  - /glossar/nahttasche/
 tags:
   - карман в шве
   - детали одежды

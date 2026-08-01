@@ -21,8 +21,7 @@ keywords:
 slug: gathering
 url: /en/glossary/gathering/
 aliases:
-  - /en/glossar/raffung/
-  - /glossary/gathering/
+  - /glossar/raffung/
 image_alt: Softly gathered fabric creating small folds on a garment
 relatedTerms:
   - title: Ruffle

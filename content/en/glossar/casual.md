@@ -21,8 +21,7 @@ keywords:
 slug: casual
 url: /en/glossary/casual/
 aliases:
-  - /en/glossar/casual/
-  - /glossary/casual/
+  - /glossar/casual/
 image_alt: Relaxed casual outfit with simple everyday clothing and clean proportions
 relatedTerms:
   - title: Relaxed Style

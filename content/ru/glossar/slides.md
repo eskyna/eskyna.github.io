@@ -9,8 +9,7 @@ image: "images/glossar/slides.png"
 image_alt: "Слайды с широкой перемычкой без задника"
 url: /rus/glossariy/slides/
 aliases:
-  - /rus/glossar/slides/
-  - /ru/glossar/slides/
+  - /glossar/slides/
 tags:
   - слайды
   - обувь без задника

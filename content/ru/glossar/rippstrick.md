@@ -34,8 +34,7 @@ seoTitle: "Рибана: что это за трикотаж и где прим�
 slug: ribana
 url: /rus/glossariy/ribana/
 aliases:
-  - /rus/glossar/rippstrick/
-  - /ru/glossar/rippstrick/
+  - /glossar/rippstrick/
 lastmod: "2026-07-09"
 knowledge:
   - "Рубчики рибаны образуются благодаря особому переплетению петель, поэтому полотно обычно хорошо растягивается поперёк."

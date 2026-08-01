@@ -4,8 +4,7 @@ term: "Тактильная ценность стиля"
 slug: "haptischer-stilwert"
 url: "/rus/glossariy/haptischer-stilwert/"
 aliases:
-  - "/rus/glossar/haptischer-stilwert/"
-  - "/ru/glossar/haptischer-stilwert/"
+  - /glossar/haptischer-stilwert/
 description: "Тактильная ценность стиля это впечатление от образа, которое создают ощущение материала, его поверхность, плотность и пластика. Она влияет на то, как одежда воспринимается вами и окружающими при прикосновении и в движении."
 category: "Стиль и впечатление"
 subcategory: "Материалы и детали"

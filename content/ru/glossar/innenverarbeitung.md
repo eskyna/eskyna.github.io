@@ -34,8 +34,7 @@ seoTitle: "Внутренняя обработка одежды | ESKYNA"
 slug: vnutrennyaya-obrabotka
 url: /rus/glossariy/vnutrennyaya-obrabotka/
 aliases:
-  - /rus/glossar/innenverarbeitung/
-  - /ru/glossar/innenverarbeitung/
+  - /glossar/innenverarbeitung/
 lastmod: "2026-07-09"
 knowledge:
   - Внутренняя обработка включает швы, припуски, обработку срезов, подкладку, закрепки и изнаночную сторону застёжек.

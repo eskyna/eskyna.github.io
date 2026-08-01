@@ -22,8 +22,7 @@ keywords:
 slug: vamp-romantic
 url: /rus/glossariy/vamp-romantic/
 aliases:
-  - /rus/glossar/vamp-romantic/
-  - /ru/glossar/vamp-romantic/
+  - /glossar/vamp-romantic/
 relatedTerms:
   - title: "Тёмный женственный стиль"
     url: /ru/glossar/dark-feminine-aesthetic/

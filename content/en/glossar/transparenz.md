@@ -22,8 +22,7 @@ keywords:
 slug: transparency
 url: /en/glossary/transparency/
 aliases:
-  - /en/glossar/transparenz/
-  - /glossary/transparency/
+  - /glossar/transparenz/
 image_alt: Editorial illustration showing transparent and opaque fabric layers
 relatedTerms:
   - title: Opacity

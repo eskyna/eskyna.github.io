@@ -21,8 +21,7 @@ keywords:
 slug: slip-dress
 url: /en/glossary/slip-dress/
 aliases:
-  - /en/glossar/slip-dress/
-  - /glossary/slip-dress/
+  - /glossar/slip-dress/
 image_alt: Editorial illustration of a fluid, midi-length slip dress with narrow straps
 relatedTerms:
   - title: Camisole

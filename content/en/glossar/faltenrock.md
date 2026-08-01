@@ -20,8 +20,7 @@ image_alt: Illustration of a box pleat skirt with evenly spaced structured folds
 slug: faltenrock
 url: /en/glossary/faltenrock/
 aliases:
-  - /en/glossar/faltenrock/
-  - /glossary/faltenrock/
+  - /glossar/faltenrock/
 relatedTerms:
   - title: Box Pleat
     url: /en/glossar/kellerfalte/

@@ -31,8 +31,8 @@ seoTitle: "Уверенность в стиле | ESKYNA Glossary"
 slug: uverennost-v-stile
 url: /ru/glossar/stilsicherheit/
 aliases:
-  - /rus/glossar/stilsicherheit/
-  - /rus/glossariy/uverennost-v-stile/
+  - /glossar/stilsicherheit/
+  - /glossariy/uverennost-v-stile/
 image_alt: "Иллюстрация ESKYNA об уверенности в стиле и осознанном выборе одежды"
 lastmod: "2026-07-09"
 knowledge:

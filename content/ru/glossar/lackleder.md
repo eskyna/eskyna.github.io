@@ -4,8 +4,7 @@ term: "Лаковая кожа"
 slug: "lackleder"
 url: "/rus/glossariy/lackleder/"
 aliases:
-  - "/rus/glossar/lackleder/"
-  - "/ru/glossar/lackleder/"
+  - /glossar/lackleder/
 description: "Лаковая кожа это кожа или материал с кожаной основой, покрытый гладким глянцевым слоем. Она отличается зеркальным блеском, выразительным эффектом и относительной устойчивостью к поверхностной влаге."
 category: "Материалы и детали"
 tags:

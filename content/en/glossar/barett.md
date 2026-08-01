@@ -9,8 +9,7 @@ image: "images/glossar/barett.png"
 image_alt: "Black wool beret worn at a slight angle with a tailored coat"
 url: /en/glossary/barett/
 aliases:
-  - /en/glossar/barett/
-  - /glossary/barett/
+  - /glossar/barett/
 tags:
   - beret
   - hats

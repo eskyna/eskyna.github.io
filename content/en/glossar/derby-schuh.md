@@ -15,8 +15,7 @@ keywords:
 slug: derby-schuh
 url: /en/glossary/derby-schuh/
 aliases:
-  - /en/glossar/derby-schuh/
-  - /glossary/derby-schuh/
+  - /glossar/derby-schuh/
 tags:
   - Derby shoe
   - lace-up shoes

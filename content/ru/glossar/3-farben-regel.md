@@ -4,8 +4,7 @@ term: "Правило трёх цветов"
 slug: "3-farben-regel"
 url: "/rus/glossariy/3-farben-regel/"
 aliases:
-  - "/rus/glossar/3-farben-regel/"
-  - "/ru/glossar/3-farben-regel/"
+  - /glossar/3-farben-regel/
 description: "Правило трёх цветов помогает сочетать в одном образе не более трёх основных оттенков, чтобы комплект выглядел цельно и не был перегружен. Узнайте, как считать цвета, выбирать акцент и адаптировать правило под свой гардероб."
 category: "Консультация по цвету и цвет"
 tags:

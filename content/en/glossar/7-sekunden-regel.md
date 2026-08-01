@@ -5,8 +5,7 @@ description: "The Seven-Second Rule describes how quickly people form an initial
 slug: "7-sekunden-regel"
 url: "/en/glossary/7-sekunden-regel/"
 aliases:
-  - "/en/glossar/7-sekunden-regel/"
-  - "/glossary/7-sekunden-regel/"
+  - /glossar/7-sekunden-regel/
 category: "Style & Impact"
 tags:
   - "first impression"

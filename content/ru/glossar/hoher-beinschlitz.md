@@ -9,8 +9,7 @@ image: "images/glossar/hoher-beinschlitz.png"
 image_alt: "Платье с высоким боковым разрезом на ноге"
 url: /rus/glossariy/hoher-beinschlitz/
 aliases:
-  - /rus/glossar/hoher-beinschlitz/
-  - /ru/glossar/hoher-beinschlitz/
+  - /glossar/hoher-beinschlitz/
 tags:
   - высокий-разрез
   - разрез-на-юбке

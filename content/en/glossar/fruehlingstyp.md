@@ -22,8 +22,7 @@ keywords:
 slug: spring-color-type
 url: /en/glossary/spring-color-type/
 aliases:
-  - /en/glossar/fruehlingstyp/
-  - /glossary/spring-color-type/
+  - /glossar/fruehlingstyp/
 image_alt: Editorial illustration showing a fresh, warm, clear Spring Color Type palette with coral, turquoise, cream, and light green
 relatedTerms:
   - title: Color Type

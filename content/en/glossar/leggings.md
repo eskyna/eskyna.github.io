@@ -22,8 +22,7 @@ keywords:
 slug: leggings
 url: /en/glossary/leggings/
 aliases:
-  - /en/glossar/leggings/
-  - /glossary/leggings/
+  - /glossar/leggings/
 image_alt: Black leggings styled with an oversized top and sneakers in a casual everyday outfit
 relatedTerms:
   - title: Athleisure

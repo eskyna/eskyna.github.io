@@ -9,8 +9,7 @@ image: "images/glossar/voile.png"
 image_alt: "Lightweight white voile fabric with a soft, semi-sheer drape"
 url: /en/glossary/voile/
 aliases:
-  - /en/glossar/voile/
-  - /glossary/voile/
+  - /glossar/voile/
 tags:
   - voile fabric
   - lightweight fabric

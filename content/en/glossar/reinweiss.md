@@ -22,8 +22,7 @@ keywords:
 slug: pure-white
 url: /en/glossary/pure-white/
 aliases:
-  - /en/glossar/reinweiss/
-  - /glossary/pure-white/
+  - /glossar/reinweiss/
 image_alt: Bright pure white fabric shown against a neutral background
 relatedTerms:
   - title: White

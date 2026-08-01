@@ -4,8 +4,7 @@ term: Sideboob
 description: "Sideboob is a deliberate glimpse of the side of the breast created by a low armhole, open side, or minimal top design. Learn how sideboob styling works, how to control coverage, and which support options suit the look."
 url: /en/glossary/sideboob/
 aliases:
-  - /en/glossar/sideboob/
-  - /glossary/sideboob/
+  - /glossar/sideboob/
 category: Cut, Proportion & Fit
 tags:
   - sideboob

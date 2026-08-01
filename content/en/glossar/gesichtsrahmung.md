@@ -20,8 +20,7 @@ keywords:
 slug: face-framing
 url: /en/glossary/face-framing/
 aliases:
-  - /en/glossar/gesichtsrahmung/
-  - /glossary/face-framing/
+  - /glossar/gesichtsrahmung/
 image_alt: Editorial illustration showing clothing and accessories that frame the face
 relatedTerms:
   - title: Neckline Effect

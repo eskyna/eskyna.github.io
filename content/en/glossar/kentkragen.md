@@ -9,8 +9,7 @@ image_alt: Illustration of a classic white shirt with a Kent collar and moderate
 slug: kentkragen
 url: /en/glossary/kentkragen/
 aliases:
-  - /en/glossar/kentkragen/
-  - /glossary/kentkragen/
+  - /glossar/kentkragen/
 tags:
   - Kent collar
   - shirt collar

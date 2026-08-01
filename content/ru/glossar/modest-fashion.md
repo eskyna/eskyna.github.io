@@ -14,8 +14,7 @@ keywords:
 slug: modest-fashion
 url: /rus/glossariy/modest-fashion/
 aliases:
-  - /rus/glossar/modest-fashion/
-  - /ru/glossar/modest-fashion/
+  - /glossar/modest-fashion/
 tags:
   - "скромная мода"
   - "modest fashion"

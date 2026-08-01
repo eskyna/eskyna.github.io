@@ -33,8 +33,7 @@ seoTitle: "Бейсболка: что это и как носить | Глосс
 slug: beysbolka
 url: /rus/glossariy/beysbolka/
 aliases:
-  - /rus/glossar/cap/
-  - /ru/glossar/cap/
+  - /glossar/cap/
 lastmod: "2026-07-09"
 history:
   - Бейсболка сформировалась на основе головных уборов, которые носили игроки в бейсбол в США во второй половине XIX века.

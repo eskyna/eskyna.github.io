@@ -22,8 +22,7 @@ keywords:
 slug: faux-leather
 url: /en/glossary/faux-leather/
 aliases:
-  - /en/glossar/kunstleder/
-  - /glossary/faux-leather/
+  - /glossar/kunstleder/
 image_alt: Editorial glossary illustration showing a black faux leather garment with a smooth leather-look surface
 relatedTerms:
   - title: Leather

@@ -5,8 +5,7 @@ description: "Кожаное бельё, или Leder-Dessous, это белье
 slug: leder-dessous
 url: /rus/glossariy/leder-dessous/
 aliases:
-  - /rus/glossar/leder-dessous/
-  - /ru/glossar/leder-dessous/
+  - /glossar/leder-dessous/
 category: Белье, бюстгальтеры и стилистические помощники
 tags:
   - кожаное-бельё

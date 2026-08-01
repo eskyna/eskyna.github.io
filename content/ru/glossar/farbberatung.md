@@ -35,8 +35,7 @@ seoTitle: "Консультация по цвету | ESKYNA"
 slug: konsultatsiya-po-tsvetu
 url: /rus/glossariy/konsultatsiya-po-tsvetu/
 aliases:
-  - /rus/glossar/farbberatung/
-  - /ru/glossar/farbberatung/
+  - /glossar/farbberatung/
 lastmod: "2026-07-09"
 knowledge:
   - Консультация по цвету оценивает не только теплоту оттенков, но и их светлоту, насыщенность и контраст с внешностью.

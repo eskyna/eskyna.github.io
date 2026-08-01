@@ -21,8 +21,7 @@ keywords:
 slug: houndstooth
 url: /en/glossary/houndstooth/
 aliases:
-  - /en/glossar/hahnentritt/
-  - /glossary/houndstooth/
+  - /glossar/hahnentritt/
 image_alt: Black and white houndstooth pattern with repeated jagged check shapes
 relatedTerms:
   - title: Check Pattern

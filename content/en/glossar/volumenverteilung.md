@@ -21,8 +21,7 @@ keywords:
 slug: volume-distribution
 url: /en/glossary/volume-distribution/
 aliases:
-  - /en/glossar/volumenverteilung/
-  - /glossary/volume-distribution/
+  - /glossar/volumenverteilung/
 image_alt: Editorial illustration showing balanced volume distribution in an outfit
 relatedTerms:
   - title: Volume

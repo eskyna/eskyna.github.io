@@ -23,8 +23,7 @@ keywords:
 slug: clear-colors
 url: /en/glossary/clear-colors/
 aliases:
-  - /en/glossar/klare-farben/
-  - /glossary/clear-colors/
+  - /glossar/klare-farben/
 image_alt: Bright, clear clothing colors arranged as a color consultation palette
 relatedTerms:
   - title: Saturation

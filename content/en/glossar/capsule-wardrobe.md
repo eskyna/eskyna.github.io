@@ -25,8 +25,7 @@ keywords:
 slug: capsule-wardrobe
 url: /en/glossary/capsule-wardrobe/
 aliases:
-  - /en/glossar/capsule-wardrobe/
-  - /glossary/capsule-wardrobe/
+  - /glossar/capsule-wardrobe/
 image_alt: Editorial illustration of a coordinated capsule wardrobe with versatile clothing and accessories
 relatedTerms:
   - title: Wardrobe Logic

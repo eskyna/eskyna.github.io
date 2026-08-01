@@ -21,8 +21,7 @@ keywords:
 slug: smart-casual
 url: /en/glossary/smart-casual/
 aliases:
-  - /en/glossar/smart-casual/
-  - /glossary/smart-casual/
+  - /glossar/smart-casual/
 image_alt: Editorial glossary illustration showing a polished Smart Casual outfit with blazer, trousers, and loafers
 relatedTerms:
   - title: Business Casual

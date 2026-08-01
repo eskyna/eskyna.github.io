@@ -20,8 +20,7 @@ keywords:
 slug: shirt
 url: /en/glossary/shirt/
 aliases:
-  - /en/glossar/hemd/
-  - /glossary/shirt/
+  - /glossar/hemd/
 image_alt: Editorial illustration of a classic collared shirt with a button placket
 relatedTerms:
   - title: T-Shirt

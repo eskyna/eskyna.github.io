@@ -20,8 +20,7 @@ keywords:
 slug: style-development
 url: /en/glossary/style-development/
 aliases:
-  - /en/glossar/stilentwicklung/
-  - /glossary/style-development/
+  - /glossar/stilentwicklung/
 image_alt: Editorial illustration showing the gradual development of a cohesive personal style through clothing, color, and accessories
 relatedTerms:
   - title: Personal Style

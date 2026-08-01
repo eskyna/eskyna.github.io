@@ -34,8 +34,7 @@ seoTitle: "Сумка с бусинами: значение и применен�
 slug: sumka-s-businami
 url: /rus/glossariy/sumka-s-businami/
 aliases:
-  - /rus/glossar/beaded-bag/
-  - /ru/glossar/beaded-bag/
+  - /glossar/beaded-bag/
 image_alt: "Небольшая декоративная сумка, расшитая бусинами"
 lastmod: "2026-07-09"
 knowledge:

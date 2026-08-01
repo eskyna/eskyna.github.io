@@ -34,8 +34,7 @@ seoTitle: "Однобортный explained | ESKYNA"
 slug: odnobortnyy
 url: /rus/glossariy/odnobortnyy/
 aliases:
-  - /rus/glossar/einreiher/
-  - /ru/glossar/einreiher/
+  - /glossar/einreiher/
 lastmod: "2026-07-09"
 knowledge:
   - Однобортная застёжка состоит из одного видимого ряда пуговиц и соответствующих петель с другой стороны изделия.

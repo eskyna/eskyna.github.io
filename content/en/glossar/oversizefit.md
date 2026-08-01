@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/oversizefit/
 aliases:
-  - /en/glossar/oversizefit/
-  - /glossary/oversizefit/
+  - /glossar/oversizefit/
 image: images/glossar/oversizefit.png
 image_alt: Person wearing an intentionally roomy blazer over straight-leg trousers
 relatedTerms:

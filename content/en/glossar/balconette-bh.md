@@ -9,8 +9,7 @@ image: "images/glossar/balconette-bh.png"
 image_alt: "Illustration of a balconette bra with a wide, open cup line"
 url: /en/glossary/balconette-bh/
 aliases:
-  - /en/glossar/balconette-bh/
-  - /glossary/balconette-bh/
+  - /glossar/balconette-bh/
 tags:
   - balconette bra
   - bra styles

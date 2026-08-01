@@ -22,8 +22,7 @@ keywords:
 slug: corduroy
 url: /en/glossary/corduroy/
 aliases:
-  - /en/glossar/cord/
-  - /glossary/corduroy/
+  - /glossar/cord/
 image_alt: Close view of brown corduroy fabric with soft, raised vertical ribs
 relatedTerms:
   - title: Texture

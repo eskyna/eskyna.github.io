@@ -20,8 +20,7 @@ keywords:
 slug: breathability
 url: /en/glossary/breathability/
 aliases:
-  - /en/glossar/atmungsaktivitaet/
-  - /glossary/breathability/
+  - /glossar/atmungsaktivitaet/
 image_alt: Editorial glossary illustration for Breathability
 relatedTerms:
   - title: Thermoregulation

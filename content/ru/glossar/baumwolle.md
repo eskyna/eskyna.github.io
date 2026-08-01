@@ -38,9 +38,8 @@ seoTitle: "Хлопок: свойства и применение в одежд�
 slug: hlopok
 url: /ru/glossar/baumwolle/
 aliases:
-  - /rus/glossariy/hlopok/
-  - /rus/glossar/baumwolle/
-  - /ru/glossar/baumwolle/
+  - /glossariy/hlopok/
+  - /glossar/baumwolle/
 lastmod: "2026-07-09"
 history:
   - Хлопок относится к числу древнейших волокон, которые человек использовал для изготовления текстиля.

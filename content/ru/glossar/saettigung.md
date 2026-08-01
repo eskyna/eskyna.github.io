@@ -34,8 +34,7 @@ seoTitle: "Насыщенность цвета: значение и примен
 slug: nasyshchennost-tsveta
 url: /rus/glossariy/nasyshchennost-tsveta/
 aliases:
-  - /rus/glossar/saettigung/
-  - /ru/glossar/saettigung/
+  - /glossar/saettigung/
 lastmod: "2026-07-09"
 knowledge:
   - "Насыщенность не равна светлоте: яркий цвет может быть как светлым, так и тёмным."

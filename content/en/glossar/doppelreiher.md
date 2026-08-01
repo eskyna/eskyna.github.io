@@ -21,8 +21,7 @@ keywords:
 slug: double-breasted-jacket
 url: /en/glossary/double-breasted-jacket/
 aliases:
-  - /en/glossar/doppelreiher/
-  - /glossary/double-breasted-jacket/
+  - /glossar/doppelreiher/
 image_alt: Double-breasted tailored jacket with overlapping front panels and two rows of buttons
 relatedTerms:
   - title: Blazer

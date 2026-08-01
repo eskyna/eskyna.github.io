@@ -36,8 +36,7 @@ seoTitle: "Рубашка: что это такое, виды и как носи
 slug: rubashka
 url: /rus/glossariy/rubashka/
 aliases:
-  - /rus/glossar/hemd/
-  - /ru/glossar/hemd/
+  - /glossar/hemd/
 lastmod: "2026-07-09"
 history:
   - Рубашка исторически развивалась как нательный предмет одежды, а со временем стала самостоятельной видимой частью повседневного, делового и вечернего гардероба.

@@ -16,8 +16,7 @@ keywords:
 slug: prinzessnaht-wiener-naht
 url: /rus/glossariy/prinzessnaht-wiener-naht/
 aliases:
-  - /rus/glossar/prinzessnaht-wiener-naht/
-  - /ru/glossar/prinzessnaht-wiener-naht/
+  - /glossar/prinzessnaht-wiener-naht/
 relatedTerms:
   - title: "Вытачки"
     url: /ru/glossar/abnaeher/

@@ -22,8 +22,7 @@ keywords:
 slug: wrinkling-behavior
 url: /en/glossary/wrinkling-behavior/
 aliases:
-  - /en/glossar/knitterverhalten/
-  - /glossary/wrinkling-behavior/
+  - /glossar/knitterverhalten/
 image_alt: Editorial glossary illustration showing smooth and creased fabric surfaces for wrinkling behavior
 relatedTerms:
   - title: Material Quality

@@ -20,8 +20,7 @@ keywords:
 slug: style-type
 url: /en/glossary/style-type/
 aliases:
-  - /en/glossar/stiltyp/
-  - /glossary/style-type/
+  - /glossar/stiltyp/
 image_alt: Editorial glossary illustration representing different personal style types
 relatedTerms:
   - title: Personal Style

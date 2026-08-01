@@ -35,9 +35,8 @@ seoTitle: "Кроп-топ: что это такое и как носить | Г
 slug: krop-top
 url: /ru/glossar/crop-top/
 aliases:
-  - /rus/glossar/crop-top/
-  - /ru/glossar/crop-top/
-  - /rus/glossariy/krop-top/
+  - /glossar/crop-top/
+  - /glossariy/krop-top/
 lastmod: "2026-07-09"
 knowledge:
   - Кроп-топ описывает прежде всего длину верха, а не конкретный материал, фасон или уровень открытости.

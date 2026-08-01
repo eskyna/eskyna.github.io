@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/proportionaler-saumabschluss/
 aliases:
-  - /en/glossar/proportionaler-saumabschluss/
-  - /glossary/proportionaler-saumabschluss/
+  - /glossar/proportionaler-saumabschluss/
 image: images/glossar/proportionaler-saumabschluss.png
 image_alt: "A person comparing the hem lengths of trousers and a midi skirt in front of a mirror."
 relatedTerms:

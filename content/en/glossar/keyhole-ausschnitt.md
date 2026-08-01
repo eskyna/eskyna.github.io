@@ -9,8 +9,7 @@ image: "images/glossar/keyhole-ausschnitt.png"
 image_alt: "Glossary illustration of a garment with a small keyhole opening below the neckline"
 url: /en/glossary/keyhole-ausschnitt/
 aliases:
-  - /en/glossar/keyhole-ausschnitt/
-  - /glossary/keyhole-ausschnitt/
+  - /glossar/keyhole-ausschnitt/
 tags:
   - keyhole neckline
   - neckline

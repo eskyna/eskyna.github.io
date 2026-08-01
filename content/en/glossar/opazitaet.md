@@ -9,8 +9,7 @@ image: "images/glossar/opazitaet.png"
 image_alt: "Illustration showing opaque, translucent, and transparent fabric layers"
 url: /en/glossary/opazitaet/
 aliases:
-  - /en/glossar/opazitaet/
-  - /glossary/opazitaet/
+  - /glossar/opazitaet/
 tags:
   - opacity
   - fabric coverage

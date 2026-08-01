@@ -9,8 +9,7 @@ image_alt: "Классический тканый галстук, завязан
 slug: krawatte
 url: /rus/glossariy/krawatte/
 aliases:
-  - /rus/glossar/krawatte/
-  - /ru/glossar/krawatte/
+  - /glossar/krawatte/
 tags:
   - галстук
   - мужские аксессуары

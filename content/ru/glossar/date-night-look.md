@@ -4,8 +4,7 @@ term: "Date-Night-Look"
 slug: date-night-look
 url: /rus/glossariy/date-night-look/
 aliases:
-  - /rus/glossar/date-night-look/
-  - /ru/glossar/date-night-look/
+  - /glossar/date-night-look/
 description: "Образ для свидания, или Date Night Look, это продуманный комплект для романтической встречи, который сочетает уместную нарядность, личный стиль и комфорт."
 category: "Дресс-коды и поводы"
 tags:

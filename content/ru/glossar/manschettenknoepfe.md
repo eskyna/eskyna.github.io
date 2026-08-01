@@ -14,8 +14,7 @@ keywords:
 slug: manschettenknoepfe
 url: /rus/glossariy/manschettenknoepfe/
 aliases:
-  - /rus/glossar/manschettenknoepfe/
-  - /ru/glossar/manschettenknoepfe/
+  - /glossar/manschettenknoepfe/
 tags:
   - "запонки"
   - "аксессуары"

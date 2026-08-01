@@ -33,8 +33,7 @@ seoTitle: "Зона комфорта: значение и применение |
 slug: zona-komforta
 url: /rus/glossariy/zona-komforta/
 aliases:
-  - /rus/glossar/komfortzone/
-  - /ru/glossar/komfortzone/
+  - /glossar/komfortzone/
 lastmod: "2026-07-09"
 knowledge:
   - "Зона комфорта не равна скучному гардеробу: она может включать яркие цвета, необычные формы и заметные аксессуары, если они соответствуют вашему привычному способу самовыражения."

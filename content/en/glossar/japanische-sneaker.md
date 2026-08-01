@@ -21,8 +21,7 @@ keywords:
 slug: japanese-sneakers
 url: /en/glossary/japanese-sneakers/
 aliases:
-  - /en/glossar/japanische-sneaker/
-  - /glossary/japanese-sneakers/
+  - /glossar/japanische-sneaker/
 relatedTerms:
   - title: Sneaker
     url: /en/glossar/sneaker/

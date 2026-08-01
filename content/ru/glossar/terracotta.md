@@ -39,9 +39,8 @@ seoTitle: "Терракотовый: значение цвета, оттенки
 slug: terrakotovyy
 url: /rus/glossariy/terrakotovyy/
 aliases:
-  - /rus/glossar/terracotta/
-  - /ru/glossar/terracotta/
-  - /rus/glossariy/terracotta/
+  - /glossar/terracotta/
+  - /glossariy/terracotta/
 history:
   - Термин связан с итальянским словом terracotta, буквально «обожжённая земля».
   - Цвет получил название по оттенку неглазурованной обожжённой глины, которую использовали в керамике, архитектурных деталях и скульптуре.

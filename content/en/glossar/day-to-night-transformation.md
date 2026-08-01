@@ -16,8 +16,7 @@ keywords:
 weight: 999
 url: "/en/glossary/day-to-night-transformation/"
 aliases:
-  - "/en/glossar/day-to-night-transformation/"
-  - "/glossary/day-to-night-transformation/"
+  - /glossar/day-to-night-transformation/
 image: "images/glossar/day-to-night-transformation.png"
 image_alt: "Blazer, small evening bag, heels, and lipstick arranged for an after-work outfit change"
 relatedTerms:

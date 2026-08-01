@@ -22,8 +22,7 @@ keywords:
 slug: darts
 url: /en/glossary/darts/
 aliases:
-  - /en/glossar/abnaeher/
-  - /glossary/darts/
+  - /glossar/abnaeher/
 image_alt: Illustration of darts shaping fabric at the bust and waist of a fitted garment
 relatedTerms:
   - title: Fit

@@ -18,7 +18,7 @@ weight: 999
 image: images/glossar/illusionistische-linienfuehrung.png
 image_alt: "A tailored dress with diagonal seam lines that guide the eye vertically through the silhouette"
 aliases:
-  - /en/glossar/illusionistische-linienfuehrung/
+  - /glossar/illusionistische-linienfuehrung/
   - /glossary/illusionistische-linienfuehrung/
 relatedTerms:
   - title: Visual Elongation

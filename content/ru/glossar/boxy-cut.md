@@ -18,8 +18,7 @@ keywords:
 slug: boxy-cut
 url: /rus/glossariy/boxy-cut/
 aliases:
-  - /rus/glossar/boxy-cut/
-  - /ru/glossar/boxy-cut/
+  - /glossar/boxy-cut/
 weight: 999
 image: images/glossar/boxy-cut.png
 image_alt: Жакет прямого коробчатого кроя без акцента на талии

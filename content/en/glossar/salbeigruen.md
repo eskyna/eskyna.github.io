@@ -21,8 +21,7 @@ keywords:
 slug: sage-green
 url: /en/glossary/sage-green/
 aliases:
-  - /en/glossar/salbeigruen/
-  - /glossary/sage-green/
+  - /glossar/salbeigruen/
 image_alt: Editorial glossary illustration showing the muted grey-green shade of Sage Green
 relatedTerms:
   - title: Muted Colors

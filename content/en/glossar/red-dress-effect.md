@@ -4,8 +4,7 @@ term: "Red Dress Effect"
 slug: "red-dress-effect"
 url: "/en/glossary/red-dress-effect/"
 aliases:
-  - "/en/glossar/red-dress-effect/"
-  - "/glossary/red-dress-effect/"
+  - /glossar/red-dress-effect/
 description: "The Red Dress Effect describes the idea that wearing red can increase perceived attractiveness, confidence, and visual appeal in certain social contexts."
 category: "Style & Impact"
 tags:

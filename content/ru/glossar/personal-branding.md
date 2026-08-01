@@ -37,8 +37,7 @@ seoTitle: "Персональный бренд: значение и примен
 slug: personalnyy-brend
 url: /rus/glossariy/personalnyy-brend/
 aliases:
-  - /rus/glossar/personal-branding/
-  - /ru/glossar/personal-branding/
+  - /glossar/personal-branding/
 image_alt: "Иллюстрация к термину «Персональный бренд»: стиль, профессиональная подача и узнаваемый образ"
 lastmod: "2026-07-09"
 history:

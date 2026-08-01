@@ -22,8 +22,7 @@ keywords:
 slug: culotte
 url: /en/glossary/culotte/
 aliases:
-  - /en/glossar/culotte/
-  - /glossary/culotte/
+  - /glossar/culotte/
 image_alt: Wide-legged cropped culotte trousers with a skirt-like silhouette
 relatedTerms:
   - title: Wide-Leg Trousers

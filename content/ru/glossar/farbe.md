@@ -34,8 +34,7 @@ seoTitle: "Цвет в одежде | ESKYNA Glossary"
 slug: tsvet
 url: /ru/glossar/farbe/
 aliases:
-  - /rus/glossar/farbe/
-  - /ru/glossar/farbe/
+  - /glossar/farbe/
 lastmod: "2026-07-09"
 knowledge:
   - "Цвет воспринимается не изолированно: на его впечатление влияют соседние оттенки, фактура материала, освещение и близость к лицу."

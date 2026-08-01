@@ -4,8 +4,7 @@ term: "Fit Tolerance"
 slug: "passform-toleranz"
 url: "/en/glossary/passform-toleranz/"
 aliases:
-  - "/en/glossar/passform-toleranz/"
-  - "/glossary/passform-toleranz/"
+  - /glossar/passform-toleranz/
 description: "Fit tolerance is the planned amount of space between the body and a garment that allows comfortable movement while preserving a neat, close-to-body appearance."
 category: "Cut, Proportion & Fit"
 tags:

@@ -14,8 +14,7 @@ keywords:
 slug: smocking
 url: /en/glossary/smocking/
 aliases:
-  - /en/glossar/smocking/
-  - /glossary/smocking/
+  - /glossar/smocking/
 tags:
   - smocking
   - gathered fabric

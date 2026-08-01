@@ -9,8 +9,7 @@ image: "images/glossar/underwear-as-outerwear.png"
 image_alt: "Образ в бельевом стиле с видимым корсетным топом и жакетом"
 url: /rus/glossariy/underwear-as-outerwear/
 aliases:
-  - /rus/glossar/underwear-as-outerwear/
-  - /ru/glossar/underwear-as-outerwear/
+  - /glossar/underwear-as-outerwear/
 tags:
   - бельевой стиль
   - underwear as outerwear

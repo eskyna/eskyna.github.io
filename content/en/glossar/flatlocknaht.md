@@ -8,8 +8,7 @@ image_alt: Close-up illustration of a flatlock seam joining two fabric panels wi
 slug: flatlocknaht
 url: /en/glossary/flatlocknaht/
 aliases:
-  - /en/glossar/flatlocknaht/
-  - /glossary/flatlocknaht/
+  - /glossar/flatlocknaht/
 tags:
   - flatlock seam
   - seam construction

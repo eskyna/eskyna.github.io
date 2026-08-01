@@ -9,8 +9,7 @@ image: "images/glossar/t-shirt-bh.png"
 image_alt: "Гладкий T-Shirt бюстгальтер с формованными чашками для незаметной линии под одеждой"
 url: /rus/glossariy/t-shirt-bh/
 aliases:
-  - /rus/glossar/t-shirt-bh/
-  - /ru/glossar/t-shirt-bh/
+  - /glossar/t-shirt-bh/
 tags:
   - бюстгальтер
   - базовое белье

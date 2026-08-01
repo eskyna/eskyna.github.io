@@ -34,9 +34,8 @@ seoTitle: "Качество материала: как оценить ткань
 slug: kachestvo-materiala
 url: /ru/glossar/materialqualitaet/
 aliases:
-  - /rus/glossariy/kachestvo-materiala/
-  - /rus/glossar/materialqualitaet/
-  - /ru/glossar/materialqualitaet/
+  - /glossariy/kachestvo-materiala/
+  - /glossar/materialqualitaet/
 image_alt: "Качество материала одежды: структура, поверхность и пластика ткани"
 knowledge:
   - "Качество материала нельзя определить только по названию волокна: важны также плотность, переплетение, отделка и обработка изделия."

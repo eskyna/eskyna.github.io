@@ -34,8 +34,7 @@ seoTitle: "Тканое полотно | ESKYNA Glossary"
 slug: tkanoe-polotno
 url: /rus/glossariy/tkanoe-polotno/
 aliases:
-  - /rus/glossar/webstoff/
-  - /ru/glossar/webstoff/
+  - /glossar/webstoff/
 lastmod: "2026-07-09"
 knowledge:
   - Тканое полотно образуется при переплетении продольных нитей основы и поперечных нитей утка.

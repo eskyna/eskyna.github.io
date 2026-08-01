@@ -4,8 +4,7 @@ term: "Invisible Tailoring"
 description: "Invisible tailoring uses subtle fit corrections and discreet styling adjustments to make ready-to-wear clothing look more precise, balanced, and personal."
 url: "/en/glossary/invisible-tailoring/"
 aliases:
-  - "/en/glossar/invisible-tailoring/"
-  - "/glossary/invisible-tailoring/"
+  - /glossar/invisible-tailoring/
 category: "Cut, Proportion & Fit"
 tags:
   - "invisible tailoring"

@@ -15,8 +15,7 @@ keywords:
 slug: jumpsuit-overall
 url: /en/glossary/jumpsuit-overall/
 aliases:
-  - /en/glossar/jumpsuit-overall/
-  - /glossary/jumpsuit-overall/
+  - /glossar/jumpsuit-overall/
 tags:
   - jumpsuit
   - overall

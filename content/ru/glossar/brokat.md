@@ -15,8 +15,7 @@ keywords:
 slug: brokat
 url: /rus/glossariy/brokat/
 aliases:
-  - /rus/glossar/brokat/
-  - /ru/glossar/brokat/
+  - /glossar/brokat/
 tags:
   - "парча"
   - "декоративные ткани"

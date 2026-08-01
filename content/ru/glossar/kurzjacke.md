@@ -21,8 +21,7 @@ seoTitle: "Короткая куртка: значение и применени
 slug: korotkaya-kurtka
 url: /rus/glossariy/korotkaya-kurtka/
 aliases:
-  - /rus/glossar/kurzjacke/
-  - /ru/glossar/kurzjacke/
+  - /glossar/kurzjacke/
 relatedTerms:
   - title: Укороченный
     url: /ru/glossar/cropped/

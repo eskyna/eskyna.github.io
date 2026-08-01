@@ -23,8 +23,7 @@ keywords:
 slug: kupfer
 url: /rus/glossariy/kupfer/
 aliases:
-  - /rus/glossar/kupfer/
-  - /ru/glossar/kupfer/
+  - /glossar/kupfer/
 relatedTerms:
   - title: "Бронза"
     url: /ru/glossar/bronze/

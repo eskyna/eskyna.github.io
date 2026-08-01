@@ -20,8 +20,7 @@ keywords:
 slug: color-passport
 url: /en/glossary/color-passport/
 aliases:
-  - /en/glossar/farbpass/
-  - /glossary/color-passport/
+  - /glossar/farbpass/
 image_alt: Personal Color Passport with coordinated fabric color swatches for outfit planning
 relatedTerms:
   - title: Color Consultation

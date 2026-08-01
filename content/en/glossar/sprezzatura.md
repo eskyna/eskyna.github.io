@@ -5,8 +5,7 @@ description: Sprezzatura is the art of studied ease in personal style. It descri
 slug: sprezzatura
 url: /en/glossary/sprezzatura/
 aliases:
-  - /en/glossar/sprezzatura/
-  - /glossary/sprezzatura/
+  - /glossar/sprezzatura/
 category: Style & Impact
 subcategory: Personal Style
 tags:

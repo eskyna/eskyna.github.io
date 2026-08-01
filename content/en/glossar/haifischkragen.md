@@ -8,8 +8,7 @@ image_alt: Illustration of a shirt with a spread collar and widely spaced collar
 slug: haifischkragen
 url: /en/glossary/haifischkragen/
 aliases:
-  - /en/glossar/haifischkragen/
-  - /glossary/haifischkragen/
+  - /glossar/haifischkragen/
 tags:
   - spread collar
   - shirt collar

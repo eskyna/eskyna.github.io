@@ -14,8 +14,7 @@ keywords:
 slug: blindsaum
 url: /en/glossary/blindsaum/
 aliases:
-  - /en/glossar/blindsaum/
-  - /glossary/blindsaum/
+  - /glossar/blindsaum/
 relatedTerms:
   - title: "Hem"
     url: /en/glossar/saum/

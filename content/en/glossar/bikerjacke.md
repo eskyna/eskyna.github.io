@@ -21,8 +21,7 @@ keywords:
 slug: biker-jacket
 url: /en/glossary/biker-jacket/
 aliases:
-  - /en/glossar/bikerjacke/
-  - /glossary/biker-jacket/
+  - /glossar/bikerjacke/
 image_alt: Black leather biker jacket with lapels, an asymmetrical zip, and metal hardware
 relatedTerms:
   - title: Leather Jacket

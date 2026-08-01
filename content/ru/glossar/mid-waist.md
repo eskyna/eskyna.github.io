@@ -36,8 +36,7 @@ seoTitle: "Средняя посадка | ESKYNA Glossary"
 slug: srednyaya-posadka
 url: /rus/glossariy/srednyaya-posadka/
 aliases:
-  - /rus/glossar/mid-waist/
-  - /ru/glossar/mid-waist/
+  - /glossar/mid-waist/
 lastmod: "2026-07-09"
 knowledge:
   - "Средняя посадка не имеет универсальной высоты в сантиметрах: её положение зависит от длины корпуса, кроя и размерной сетки бренда."

@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/neckholder-bikini/"
 aliases:
-  - "/en/glossar/neckholder-bikini/"
-  - "/glossary/neckholder-bikini/"
+  - /glossar/neckholder-bikini/
 image: "images/glossar/neckholder-bikini.png"
 image_alt: "Black halter bikini top with straps tied behind the neck"
 relatedTerms:

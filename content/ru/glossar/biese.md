@@ -8,8 +8,7 @@ image_alt: "Иллюстрация бисы, узкой декоративной
 slug: biese
 url: /rus/glossariy/biese/
 aliases:
-  - /rus/glossar/biese/
-  - /ru/glossar/biese/
+  - /glossar/biese/
 tags:
   - биса
   - декоративная складка

@@ -21,8 +21,7 @@ keywords:
 slug: knee-high-boots
 url: /en/glossary/knee-high-boots/
 aliases:
-  - /en/glossar/knee-high-boots/
-  - /glossary/knee-high-boots/
+  - /glossar/knee-high-boots/
 image_alt: Black knee-high boots styled with a midi skirt
 relatedTerms:
   - title: Riding Boots

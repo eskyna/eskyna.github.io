@@ -37,8 +37,7 @@ seoTitle: "Длина рукава | ESKYNA Glossary"
 slug: dlina-rukava
 url: /rus/glossariy/dlina-rukava/
 aliases:
-  - /rus/glossar/aermellaenge/
-  - /ru/glossar/aermellaenge/
+  - /glossar/aermellaenge/
 lastmod: "2026-07-09"
 knowledge:
   - Длину рукава оценивают вместе с посадкой в плечах, длиной самого изделия и положением манжеты.

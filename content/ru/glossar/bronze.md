@@ -23,8 +23,7 @@ keywords:
 slug: bronze
 url: /rus/glossariy/bronze/
 aliases:
-  - /rus/glossar/bronze/
-  - /ru/glossar/bronze/
+  - /glossar/bronze/
 relatedTerms:
   - title: "Медь"
     url: /ru/glossar/kupfer/

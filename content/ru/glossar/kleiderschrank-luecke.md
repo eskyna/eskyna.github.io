@@ -34,9 +34,8 @@ seoTitle: "Пробел в гардеробе | ESKYNA Glossary"
 slug: probel-v-garderobe
 url: /ru/glossar/kleiderschrank-luecke/
 aliases:
-  - /rus/glossar/kleiderschrank-luecke/
-  - /ru/glossar/kleiderschrank-luecke/
-  - /rus/glossariy/probel-v-garderobe/
+  - /glossar/kleiderschrank-luecke/
+  - /glossariy/probel-v-garderobe/
 lastmod: "2026-07-09"
 knowledge:
   - Пробел в гардеробе определяется не отсутствием вещи как таковой, а ее способностью связать несколько уже имеющихся предметов.

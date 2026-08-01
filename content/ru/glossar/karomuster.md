@@ -38,8 +38,7 @@ seoTitle: "Клетчатый узор | ESKYNA Glossary"
 slug: kletchatyy-uzor
 url: /rus/glossariy/kletchatyy-uzor/
 aliases:
-  - /rus/glossar/karomuster/
-  - /ru/glossar/karomuster/
+  - /glossar/karomuster/
 lastmod: "2026-07-09"
 history:
   - "Клетчатые мотивы известны в текстиле многих культур и эпох, поэтому клетка не принадлежит одному стилю или региону."

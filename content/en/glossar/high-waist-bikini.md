@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/high-waist-bikini/
 aliases:
-  - /en/glossar/high-waist-bikini/
-  - /glossary/high-waist-bikini/
+  - /glossar/high-waist-bikini/
 image: images/glossar/high-waist-bikini.png
 image_alt: "Black high-waist bikini bottoms paired with a simple bikini top"
 relatedTerms:

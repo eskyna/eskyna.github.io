@@ -22,8 +22,7 @@ keywords:
 slug: seam-appearance
 url: /en/glossary/seam-appearance/
 aliases:
-  - /en/glossar/nahtbild/
-  - /glossary/seam-appearance/
+  - /glossar/nahtbild/
 image_alt: Close-up editorial illustration of neat garment seams and stitching details
 relatedTerms:
   - title: Seam

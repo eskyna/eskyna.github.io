@@ -22,8 +22,7 @@ keywords:
 slug: cottagecore
 url: /en/glossary/cottagecore/
 aliases:
-  - /en/glossar/cottagecore/
-  - /glossary/cottagecore/
+  - /glossar/cottagecore/
 image_alt: Editorial illustration of a Cottagecore outfit with a floral dress, basket bag, and soft natural colors
 relatedTerms:
   - title: Romantic Style

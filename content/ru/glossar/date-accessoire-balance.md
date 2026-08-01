@@ -19,8 +19,7 @@ weight: 999
 slug: "date-accessoire-balance"
 url: "/rus/glossariy/date-accessoire-balance/"
 aliases:
-  - "/rus/glossar/date-accessoire-balance/"
-  - "/ru/glossar/date-accessoire-balance/"
+  - /glossar/date-accessoire-balance/
 image: "images/glossar/date-accessoire-balance.png"
 image_alt: "Небольшие серьги, кольцо и миниатюрная сумка в вечернем образе"
 relatedTerms:

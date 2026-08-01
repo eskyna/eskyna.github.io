@@ -22,8 +22,7 @@ keywords:
 slug: shoulder-pads
 url: /en/glossary/shoulder-pads/
 aliases:
-  - /en/glossar/schulterpolster/
-  - /glossary/shoulder-pads/
+  - /glossar/schulterpolster/
 image_alt: Structured blazer with subtle shoulder pads that create a clean shoulder line
 relatedTerms:
   - title: Shoulder Line

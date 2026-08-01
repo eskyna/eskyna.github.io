@@ -21,8 +21,7 @@ keywords:
 slug: care
 url: /en/glossary/care/
 aliases:
-  - /en/glossar/pflege/
-  - /glossary/care/
+  - /glossar/pflege/
 image_alt: Editorial glossary illustration showing clothing care and fabric maintenance
 relatedTerms:
   - title: Care Label

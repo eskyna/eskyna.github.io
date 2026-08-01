@@ -15,8 +15,7 @@ keywords:
 slug: nahtzugabe
 url: /rus/glossariy/nahtzugabe/
 aliases:
-  - /rus/glossar/nahtzugabe/
-  - /ru/glossar/nahtzugabe/
+  - /glossar/nahtzugabe/
 tags:
   - "пошив"
   - "крой"

@@ -37,8 +37,7 @@ seoTitle: "Монохром: что это и как создать монохр
 slug: monohrom
 url: /ru/glossar/monochrom/
 aliases:
-  - /rus/glossar/monochrom/
-  - /ru/glossar/monochrom/
+  - /glossar/monochrom/
 lastmod: "2026-07-09"
 knowledge:
   - "Монохромный образ не требует абсолютно одинакового оттенка во всех вещах. Близкие по цвету светлые, средние и тёмные нюансы обычно делают комплект глубже."

@@ -4,8 +4,7 @@ term: "Sensual Silhouette Styling"
 description: "Sensual silhouette styling balances coverage, shape, and carefully placed revealing details to create a confident, refined, and timeless sensual effect."
 url: "/en/glossary/sinnliche-silhouetten-fuehrung/"
 aliases:
-  - "/en/glossar/sinnliche-silhouetten-fuehrung/"
-  - "/glossary/sinnliche-silhouetten-fuehrung/"
+  - /glossar/sinnliche-silhouetten-fuehrung/
 category: "Cut, Proportion & Fit"
 tags:
   - "sensual silhouette styling"

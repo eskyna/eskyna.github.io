@@ -41,8 +41,8 @@ seoTitle: "Серый цвет в одежде: значение, оттенки
 slug: seryy
 url: /ru/glossar/grau/
 aliases:
-  - /rus/glossar/grau/
-  - /rus/glossariy/seryy/
+  - /glossar/grau/
+  - /glossariy/seryy/
 lastmod: "2026-07-09"
 history:
   - Серый давно присутствует в одежде как цвет неокрашенных и окрашенных волокон, а также как практичная основа повседневного и формального гардероба.

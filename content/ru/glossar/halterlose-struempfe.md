@@ -9,8 +9,7 @@ image: "images/glossar/halterlose-struempfe.png"
 image_alt: "Самодержащиеся чулки с широкой эластичной верхней кромкой"
 url: /rus/glossariy/halterlose-struempfe/
 aliases:
-  - /rus/glossar/halterlose-struempfe/
-  - /ru/glossar/halterlose-struempfe/
+  - /glossar/halterlose-struempfe/
 lastmod: "2026-07-22"
 tags:
   - чулки

@@ -21,8 +21,7 @@ keywords:
 slug: denim-jacket
 url: /en/glossary/denim-jacket/
 aliases:
-  - /en/glossar/jeansjacke/
-  - /glossary/denim-jacket/
+  - /glossar/jeansjacke/
 image_alt: Blue denim jacket with a collar, button front, chest pockets, and contrast stitching
 relatedTerms:
   - title: Denim

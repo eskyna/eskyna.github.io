@@ -4,8 +4,7 @@ term: "Beachwear Layering"
 description: "Beachwear layering is the thoughtful styling of swimwear with lightweight cover-ups such as sheer tunics, linen shirts, sarongs, and caftans. It adds coverage, comfort, and polish while keeping a beach or pool outfit practical."
 url: "/en/glossary/beachwear-layering/"
 aliases:
-  - "/en/glossar/beachwear-layering/"
-  - "/glossary/beachwear-layering/"
+  - /glossar/beachwear-layering/
 category: "Wardrobe & Everyday Style"
 tags:
   - "beachwear layering"

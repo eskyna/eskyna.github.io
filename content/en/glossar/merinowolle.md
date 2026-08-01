@@ -22,8 +22,7 @@ keywords:
 slug: merino-wool
 url: /en/glossary/merino-wool/
 aliases:
-  - /en/glossar/merinowolle/
-  - /glossary/merino-wool/
+  - /glossar/merinowolle/
 image_alt: Fine merino wool knitwear with a smooth, lightweight surface
 relatedTerms:
   - title: Wool

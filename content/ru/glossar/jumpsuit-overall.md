@@ -15,8 +15,7 @@ keywords:
 slug: jumpsuit-overall
 url: /rus/glossariy/jumpsuit-overall/
 aliases:
-  - /rus/glossar/jumpsuit-overall/
-  - /ru/glossar/jumpsuit-overall/
+  - /glossar/jumpsuit-overall/
 relatedTerms:
   - title: "Посадка"
     url: /ru/glossar/passform/

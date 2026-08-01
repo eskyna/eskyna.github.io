@@ -9,8 +9,7 @@ image: "images/glossar/sinnlicher-stil.png"
 image_alt: "Glossary illustration showing a refined sensual style outfit with fluid fabric and subtle body-conscious details"
 url: /en/glossary/sinnlicher-stil/
 aliases:
-  - /en/glossar/sinnlicher-stil/
-  - /glossary/sinnlicher-stil/
+  - /glossar/sinnlicher-stil/
 tags:
   - sensual style
   - personal style

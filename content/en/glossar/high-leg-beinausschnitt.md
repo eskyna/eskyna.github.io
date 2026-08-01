@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/high-leg-beinausschnitt/"
 aliases:
-  - "/en/glossar/high-leg-beinausschnitt/"
-  - "/glossary/high-leg-beinausschnitt/"
+  - /glossar/high-leg-beinausschnitt/
 image: "images/glossar/high-leg-beinausschnitt.png"
 image_alt: "Bikini bottoms with high-cut leg openings rising toward the hips"
 relatedTerms:

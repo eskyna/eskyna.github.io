@@ -34,8 +34,7 @@ seoTitle: "Цветочный орнамент | ESKYNA Glossary"
 slug: tsvetochnyy-ornament
 url: /rus/glossariy/tsvetochnyy-ornament/
 aliases:
-  - /rus/glossar/blumenmuster/
-  - /ru/glossar/blumenmuster/
+  - /glossar/blumenmuster/
 lastmod: "2026-07-09"
 history:
   - Растительные и цветочные мотивы встречаются в декоративном искусстве и текстиле разных культур на протяжении многих веков.

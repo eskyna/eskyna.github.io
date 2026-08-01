@@ -21,8 +21,7 @@ keywords:
 slug: mock-neck
 url: /en/glossary/mock-neck/
 aliases:
-  - /en/glossar/mock-neck/
-  - /glossary/mock-neck/
+  - /glossar/mock-neck/
 image_alt: Mock neck sweater with a short close-fitting collar around the neck
 relatedTerms:
   - title: Turtleneck

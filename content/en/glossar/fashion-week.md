@@ -19,8 +19,7 @@ keywords:
 slug: fashion-week
 url: /en/glossary/fashion-week/
 aliases:
-  - /en/glossar/fashion-week/
-  - /glossary/fashion-week/
+  - /glossar/fashion-week/
 relatedTerms:
   - title: "Catwalk/Runway"
     url: /en/glossar/laufsteg-runway/

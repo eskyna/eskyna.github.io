@@ -15,8 +15,7 @@ keywords:
 slug: genderneutrale-mode
 url: /rus/glossariy/genderneutrale-mode/
 aliases:
-  - /rus/glossar/genderneutrale-mode/
-  - /ru/glossar/genderneutrale-mode/
+  - /glossar/genderneutrale-mode/
 tags:
   - гендерно-нейтральная мода
   - унисекс

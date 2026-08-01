@@ -23,8 +23,7 @@ keywords:
 slug: bangle
 url: /en/glossary/bangle/
 aliases:
-  - /en/glossar/armreif/
-  - /glossary/bangle/
+  - /glossar/armreif/
 image_alt: A structured gold bangle worn at the wrist
 relatedTerms:
   - title: Accessory

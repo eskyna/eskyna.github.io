@@ -21,8 +21,7 @@ image_alt: "Иллюстрация свадебного платья для це
 slug: brautkleid
 url: /rus/glossariy/brautkleid/
 aliases:
-  - /rus/glossar/brautkleid/
-  - /ru/glossar/brautkleid/
+  - /glossar/brautkleid/
 relatedTerms:
   - title: Вечернее платье
     url: /ru/glossar/abendkleid/

@@ -14,8 +14,7 @@ keywords:
 slug: fascinator
 url: /rus/glossariy/fascinator/
 aliases:
-  - /rus/glossar/fascinator/
-  - /ru/glossar/fascinator/
+  - /glossar/fascinator/
 relatedTerms:
   - title: "Шляпа"
     url: /ru/glossar/hut/

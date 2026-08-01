@@ -35,8 +35,7 @@ seoTitle: "Манжета: что это такое, виды и примене�
 slug: manzheta
 url: /rus/glossariy/manzheta/
 aliases:
-  - /rus/glossar/manschette/
-  - /ru/glossar/manschette/
+  - /glossar/manschette/
 lastmod: "2026-07-09"
 knowledge:
   - Манжета может быть отдельной деталью, притачной частью рукава или просто способом обработки его края.

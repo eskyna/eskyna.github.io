@@ -21,8 +21,7 @@ keywords:
 slug: vintage-shopping
 url: /en/glossary/vintage-shopping/
 aliases:
-  - /en/glossar/vintage-kauf/
-  - /glossary/vintage-shopping/
+  - /glossar/vintage-kauf/
 image_alt: Person browsing a rail of vintage clothing in a curated shop
 relatedTerms:
   - title: Vintage

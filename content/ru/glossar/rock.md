@@ -35,8 +35,7 @@ seoTitle: "Юбка: что это такое, виды и как выбрать
 slug: yubka
 url: /ru/glossar/rock/
 aliases:
-  - /rus/glossar/rock/
-  - /ru/glossar/rock/
+  - /glossar/rock/
 lastmod: "2026-07-09"
 knowledge:
   - "Юбка может быть частью повседневного, делового, вечернего или праздничного гардероба: её формальность задают крой, материал, длина и детали."

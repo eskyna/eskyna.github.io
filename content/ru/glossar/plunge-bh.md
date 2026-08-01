@@ -9,8 +9,7 @@ image: "images/glossar/plunge-bh.png"
 image_alt: "Plunge-бюстгальтер с низкой центральной перемычкой для глубокого V-выреза"
 url: /rus/glossariy/plunge-bh/
 aliases:
-  - /rus/glossar/plunge-bh/
-  - /ru/glossar/plunge-bh/
+  - /glossar/plunge-bh/
 tags:
   - plunge-бюстгальтер
   - бюстгальтер для глубокого выреза

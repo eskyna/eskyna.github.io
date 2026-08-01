@@ -37,9 +37,8 @@ seoTitle: "Прилегающая посадка | ESKYNA Glossary"
 slug: prilegayuschaya-posadka
 url: /rus/glossariy/prilegayuschaya-posadka/
 aliases:
-  - /rus/glossar/slim-fit/
-  - /ru/glossar/slim-fit/
-  - /rus/glossariy/slim-fit/
+  - /glossar/slim-fit/
+  - /glossariy/slim-fit/
 lastmod: "2026-07-09"
 knowledge:
   - "Прилегающая посадка оставляет необходимую свободу движения и не должна создавать выраженные складки натяжения."

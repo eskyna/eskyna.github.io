@@ -21,8 +21,7 @@ keywords:
 slug: cocktail
 url: /en/glossary/cocktail/
 aliases:
-  - /en/glossar/cocktail/
-  - /glossary/cocktail/
+  - /glossar/cocktail/
 image_alt: Elegant cocktail outfit with a refined dress, small bag, and evening shoes
 relatedTerms:
   - title: Cocktail Attire

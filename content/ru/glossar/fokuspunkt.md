@@ -34,8 +34,7 @@ seoTitle: "Фокусная точка в образе | ESKYNA"
 slug: fokusnaya-tochka
 url: /rus/glossariy/fokusnaya-tochka/
 aliases:
-  - /rus/glossar/fokuspunkt/
-  - /ru/glossar/fokuspunkt/
+  - /glossar/fokuspunkt/
 lastmod: "2026-07-09"
 knowledge:
   - Фокусной точкой может стать цвет, принт, украшение, необычный вырез, линия кроя, фактура или открытый участок кожи.

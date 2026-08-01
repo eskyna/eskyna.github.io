@@ -34,8 +34,7 @@ seoTitle: "Спортивный стиль | ESKYNA Glossary"
 slug: sportivnyy-stil
 url: /rus/glossariy/sportivnyy-stil/
 aliases:
-  - /rus/glossar/sportlich/
-  - /ru/glossar/sportlich/
+  - /glossar/sportlich/
 lastmod: "2026-07-09"
 knowledge:
   - Спортивный стиль не требует носить тренировочную форму. Его основу составляют комфорт, мобильность и визуальная динамика.

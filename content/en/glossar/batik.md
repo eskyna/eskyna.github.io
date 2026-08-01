@@ -21,8 +21,7 @@ keywords:
 slug: batik
 url: /en/glossary/batik/
 aliases:
-  - /en/glossar/batik/
-  - /glossary/batik/
+  - /glossar/batik/
 image_alt: Editorial illustration of batik fabric with layered wax-resist dye patterns
 relatedTerms:
   - title: Tie-Dye

@@ -35,8 +35,7 @@ seoTitle: "Шалфейно-зелёный: значение, сочетания
 slug: shalfeyno-zelyonyy
 url: /rus/glossariy/shalfeyno-zelyonyy/
 aliases:
-  - /rus/glossar/salbeigruen/
-  - /ru/glossar/salbeigruen/
+  - /glossar/salbeigruen/
 lastmod: "2026-07-09"
 knowledge:
   - "Шалфейно-зелёный относится к приглушённым оттенкам: серый нюанс снижает его яркость и делает цвет визуально спокойнее."

@@ -23,8 +23,7 @@ keywords:
 slug: champagner
 url: /rus/glossariy/champagner/
 aliases:
-  - /rus/glossar/champagner/
-  - /ru/glossar/champagner/
+  - /glossar/champagner/
 relatedTerms:
   - title: "Кремовый"
     url: /ru/glossar/creme/

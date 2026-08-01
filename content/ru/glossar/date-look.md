@@ -34,9 +34,8 @@ seoTitle: "Образ для свидания: что надеть и как с�
 slug: obraz-dlya-svidaniya
 url: /ru/glossar/date-look/
 aliases:
-  - /rus/glossariy/obraz-dlya-svidaniya/
-  - /rus/glossar/date-look/
-  - /ru/glossar/date-look/
+  - /glossariy/obraz-dlya-svidaniya/
+  - /glossar/date-look/
 lastmod: "2026-07-09"
 knowledge:
   - "Образ для свидания не имеет единой формулы: уместность зависит от места встречи, времени суток, погоды и степени знакомства."

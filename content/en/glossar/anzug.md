@@ -8,8 +8,7 @@ image_alt: Glossary illustration of a coordinated suit jacket and trousers
 slug: anzug
 url: /en/glossary/anzug/
 aliases:
-  - /en/glossar/anzug/
-  - /glossary/anzug/
+  - /glossar/anzug/
 tags:
   - suit
   - tailoring

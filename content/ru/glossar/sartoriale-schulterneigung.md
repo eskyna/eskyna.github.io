@@ -4,8 +4,7 @@ term: Наклон плеч в сарториальном крое
 slug: sartoriale-schulterneigung
 url: /rus/glossariy/sartoriale-schulterneigung/
 aliases:
-  - /rus/glossar/sartoriale-schulterneigung/
-  - /ru/glossar/sartoriale-schulterneigung/
+  - /glossar/sartoriale-schulterneigung/
 description: "Наклон плеч в сарториальном крое это угол плечевого шва, который адаптируют к естественной линии плеч для точной посадки жакета, пиджака или блузы."
 category: Крой, пропорции и посадка
 tags:

@@ -9,8 +9,7 @@ image: "images/glossar/saddle-bag.png"
 image_alt: "Иллюстрация Saddle Bag, сумки-седла с округлым клапаном и длинным ремнём"
 url: /rus/glossariy/saddle-bag/
 aliases:
-  - /rus/glossar/saddle-bag/
-  - /ru/glossar/saddle-bag/
+  - /glossar/saddle-bag/
 tags:
   - saddle-bag
   - сумка-седло

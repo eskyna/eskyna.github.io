@@ -9,8 +9,7 @@ image: "images/glossar/strapsguertel.png"
 image_alt: "Иллюстрация пояса для чулок с регулируемыми подвязками и застёжками"
 url: /rus/glossariy/strapsguertel/
 aliases:
-  - /rus/glossar/strapsguertel/
-  - /ru/glossar/strapsguertel/
+  - /glossar/strapsguertel/
 tags:
   - пояс для чулок
   - подвязки

@@ -14,8 +14,7 @@ keywords:
 slug: farbkreis
 url: /rus/glossariy/farbkreis/
 aliases:
-  - /rus/glossar/farbkreis/
-  - /ru/glossar/farbkreis/
+  - /glossar/farbkreis/
 tags:
   - цветовой-круг
   - сочетание-цветов

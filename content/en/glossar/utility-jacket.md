@@ -21,8 +21,6 @@ keywords:
 slug: utility-jacket
 url: /en/glossar/utility-jacket/
 aliases:
-  - /en/glossar/utility-jacket/
-  - /en/glossary/utility-jacket/
   - /glossary/utility-jacket/
 image_alt: Olive utility jacket with patch pockets in an everyday outfit
 relatedTerms:

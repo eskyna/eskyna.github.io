@@ -4,8 +4,7 @@ term: "Наппа-кожа"
 slug: nappaleder
 url: /rus/glossariy/nappaleder/
 aliases:
-  - /rus/glossar/nappaleder/
-  - /ru/glossar/nappaleder/
+  - /glossar/nappaleder/
 description: "Наппа-кожа, или кожа наппа, это особенно мягкая и пластичная гладкая кожа с естественным или деликатно обработанным лицевым слоем. Её используют для качественных курток, обуви, сумок, перчаток и аксессуаров."
 category: "Материалы и детали"
 tags:

@@ -9,8 +9,7 @@ image: "images/glossar/schuhleisten.png"
 image_alt: "Схематичная колодка для обуви, повторяющая форму стопы"
 url: /rus/glossariy/schuhleisten/
 aliases:
-  - /rus/glossar/schuhleisten/
-  - /ru/glossar/schuhleisten/
+  - /glossar/schuhleisten/
 tags:
   - колодка для обуви
   - посадка обуви

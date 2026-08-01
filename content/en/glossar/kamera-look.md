@@ -21,8 +21,7 @@ keywords:
 slug: camera-ready-look
 url: /en/glossary/camera-ready-look/
 aliases:
-  - /en/glossar/kamera-look/
-  - /glossary/camera-ready-look/
+  - /glossar/kamera-look/
 image_alt: Editorial illustration of a polished outfit prepared for a camera appearance
 relatedTerms:
   - title: Video Call Outfit

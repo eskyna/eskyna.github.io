@@ -5,8 +5,7 @@ description: "Глубина монохромного образа это при
 slug: monochrome-tiefenwirkung
 url: /rus/glossariy/monochrome-tiefenwirkung/
 aliases:
-  - /rus/glossar/monochrome-tiefenwirkung/
-  - /ru/glossar/monochrome-tiefenwirkung/
+  - /glossar/monochrome-tiefenwirkung/
 category: Стиль и впечатление
 subcategory: Материалы и детали
 tags:

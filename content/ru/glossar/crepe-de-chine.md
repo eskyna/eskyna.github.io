@@ -4,8 +4,7 @@ term: "Крепдешин"
 slug: "crepe-de-chine"
 url: "/rus/glossariy/crepe-de-chine/"
 aliases:
-  - "/rus/glossar/crepe-de-chine/"
-  - "/ru/glossar/crepe-de-chine/"
+  - /glossar/crepe-de-chine/
 description: "Крепдешин, или Crêpe de Chine, это тонкая ткань с деликатной зернистой поверхностью, мягким матовым блеском и текучей пластикой. Её используют для блуз, платьев, юбок, платков и лёгких нарядных слоёв."
 category: "Материалы и детали"
 tags:

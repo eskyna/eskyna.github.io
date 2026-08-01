@@ -21,8 +21,7 @@ keywords:
 slug: a-line-skirt
 url: /en/glossary/a-line-skirt/
 aliases:
-  - /en/glossar/a-linien-rock/
-  - /glossary/a-line-skirt/
+  - /glossar/a-linien-rock/
 image_alt: Editorial illustration of an A-line skirt, fitted at the waist and widening toward the hem
 relatedTerms:
   - title: A-Line

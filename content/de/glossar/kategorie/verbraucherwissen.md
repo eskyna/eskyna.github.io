@@ -23,6 +23,8 @@ relatedTerms:
 knowledge: "Bewusstes Verbraucherwissen hilft dir, Qualität realistischer einzuschätzen, Greenwashing zu hinterfragen und Fehlkäufe zu vermeiden. Je länger du passende Kleidung trägst, desto besser kann ihr Preis pro Tragen ausfallen."
 history: "Die Aufklärung von Verbrauchern begann historisch mit der Einführung gesetzlicher Kennzeichnungspflichten für Textilfasern im 20. Jahrhundert, um Konsumenten vor minderwertigen Imitaten zu schützen."
 url: /glossar/kategorie/verbraucherwissen/
+aliases:
+  - /glossar/verbraucherwissen/
 seoTitle: Verbraucherwissen in der Mode | ESKYNA
 image: images/glossar/kategorie/garderobe-alltag.png
 lastmod: "2026-07-22"

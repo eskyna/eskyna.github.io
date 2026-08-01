@@ -21,8 +21,7 @@ keywords:
 slug: sneakerina
 url: /en/glossary/sneakerina/
 aliases:
-  - /en/glossar/sneakerina/
-  - /glossary/sneakerina/
+  - /glossar/sneakerina/
 image_alt: Editorial illustration of slim Sneakerina shoes with a ballet flat inspired shape
 relatedTerms:
   - title: Ballerina

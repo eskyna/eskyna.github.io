@@ -21,8 +21,7 @@ keywords:
 slug: shawl-collar
 url: /en/glossary/shawl-collar/
 aliases:
-  - /en/glossar/schalkragen/
-  - /glossary/shawl-collar/
+  - /glossar/schalkragen/
 image_alt: Illustration of a jacket with a smooth rounded shawl collar and continuous lapel line
 relatedTerms:
   - title: Lapel

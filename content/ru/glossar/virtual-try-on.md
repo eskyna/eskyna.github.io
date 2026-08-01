@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/virtual-try-on/
 aliases:
-  - /rus/glossar/virtual-try-on/
-  - /ru/glossar/virtual-try-on/
+  - /glossar/virtual-try-on/
 image: images/glossar/virtual-try-on.png
 image_alt: Человек оценивает виртуальную примерку одежды на экране смартфона
 relatedTerms:

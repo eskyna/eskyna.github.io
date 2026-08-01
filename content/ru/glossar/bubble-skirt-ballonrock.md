@@ -9,8 +9,7 @@ image: "images/glossar/bubble-skirt-ballonrock.png"
 image_alt: "Юбка-баллон Bubble Skirt с объёмным округлым подолом"
 url: /rus/glossariy/bubble-skirt-ballonrock/
 aliases:
-  - /rus/glossar/bubble-skirt-ballonrock/
-  - /ru/glossar/bubble-skirt-ballonrock/
+  - /glossar/bubble-skirt-ballonrock/
 lastmod: "2026-07-22"
 tags:
   - юбка-баллон

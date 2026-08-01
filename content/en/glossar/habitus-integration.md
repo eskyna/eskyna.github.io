@@ -4,8 +4,7 @@ term: Habitus Integration
 description: "Habitus integration is the alignment of clothing with a person’s natural movement, posture, habits, and way of carrying themselves."
 url: /en/glossary/habitus-integration/
 aliases:
-  - /en/glossar/habitus-integration/
-  - /glossary/habitus-integration/
+  - /glossar/habitus-integration/
 category: Style & Impact
 tags:
   - habitus integration

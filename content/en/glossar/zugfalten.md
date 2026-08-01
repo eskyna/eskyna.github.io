@@ -19,8 +19,7 @@ keywords:
 slug: zugfalten
 url: /en/glossary/zugfalten/
 aliases:
-  - /en/glossar/zugfalten/
-  - /glossary/zugfalten/
+  - /glossar/zugfalten/
 relatedTerms:
   - title: "Fit"
     url: /en/glossar/passform/

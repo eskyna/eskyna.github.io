@@ -34,8 +34,7 @@ seoTitle: "Волан: что это такое, виды и применени�
 slug: volan
 url: /rus/glossariy/volan/
 aliases:
-  - /rus/glossar/volant/
-  - /ru/glossar/volant/
+  - /glossar/volant/
 lastmod: "2026-07-09"
 history:
   - Воланы давно используются в одежде как декоративный способ добавить ткани движение, выразительность и объём.

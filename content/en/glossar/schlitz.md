@@ -22,8 +22,7 @@ keywords:
 slug: slit
 url: /en/glossary/slit/
 aliases:
-  - /en/glossar/schlitz/
-  - /glossary/slit/
+  - /glossar/schlitz/
 image_alt: Editorial illustration showing a skirt with a side slit
 relatedTerms:
   - title: High Leg Slit

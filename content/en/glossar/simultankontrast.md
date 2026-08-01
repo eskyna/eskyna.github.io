@@ -16,8 +16,7 @@ keywords:
 slug: simultankontrast
 url: /en/glossary/simultankontrast/
 aliases:
-  - /en/glossar/simultankontrast/
-  - /glossary/simultankontrast/
+  - /glossar/simultankontrast/
 tags:
   - color theory
   - color perception

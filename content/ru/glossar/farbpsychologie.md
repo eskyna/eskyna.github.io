@@ -8,8 +8,7 @@ image_alt: "Иллюстрация о влиянии цветов на наст�
 slug: farbpsychologie
 url: /rus/glossariy/farbpsychologie/
 aliases:
-  - /rus/glossar/farbpsychologie/
-  - /ru/glossar/farbpsychologie/
+  - /glossar/farbpsychologie/
 tags:
   - психология цвета
   - цвет в одежде

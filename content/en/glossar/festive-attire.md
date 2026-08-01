@@ -21,8 +21,7 @@ keywords:
 slug: festive-attire
 url: /en/glossary/festive-attire/
 aliases:
-  - /en/glossar/festive-attire/
-  - /glossary/festive-attire/
+  - /glossar/festive-attire/
 image_alt: Editorial glossary illustration showing polished festive attire for a special occasion
 relatedTerms:
   - title: Festive Clothing

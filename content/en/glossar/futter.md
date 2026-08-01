@@ -22,8 +22,7 @@ keywords:
 slug: lining
 url: /en/glossary/lining/
 aliases:
-  - /en/glossar/futter/
-  - /glossary/lining/
+  - /glossar/futter/
 image_alt: Interior lining of a tailored garment shown as a quality and comfort detail
 relatedTerms:
   - title: Inner Construction

@@ -9,8 +9,7 @@ image: "images/glossar/bowling-bag.png"
 image_alt: "Иллюстрация сумки Bowling Bag округлой вытянутой формы с короткими ручками"
 url: /rus/glossariy/bowling-bag/
 aliases:
-  - /rus/glossar/bowling-bag/
-  - /ru/glossar/bowling-bag/
+  - /glossar/bowling-bag/
 tags:
   - bowling-bag
   - сумки

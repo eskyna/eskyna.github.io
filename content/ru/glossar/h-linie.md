@@ -35,8 +35,7 @@ seoTitle: "H-силуэт: что это такое и как носить | Г�
 slug: h-siluet
 url: /rus/glossariy/h-siluet/
 aliases:
-  - /rus/glossar/h-linie/
-  - /ru/glossar/h-linie/
+  - /glossar/h-linie/
 lastmod: "2026-07-09"
 history:
   - "Название H-line получило широкую известность благодаря коллекции Christian Dior 1954 года, где акцентированная талия уступила место более прямой и вытянутой линии."

@@ -34,8 +34,7 @@ seoTitle: "Импульсная покупка | ESKYNA Glossary"
 slug: impulsnaya-pokupka
 url: /rus/glossariy/impulsnaya-pokupka/
 aliases:
-  - /rus/glossar/spontankauf/
-  - /ru/glossar/spontankauf/
+  - /glossar/spontankauf/
 lastmod: "2026-07-09"
 knowledge:
   - "Импульсная покупка не обязательно бывает неудачной: вещь может оказаться удачным дополнением гардероба, если она соответствует реальной потребности и сочетается с уже имеющимися предметами."

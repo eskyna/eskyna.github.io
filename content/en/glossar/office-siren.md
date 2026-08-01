@@ -21,8 +21,7 @@ keywords:
 slug: office-siren
 url: /en/glossary/office-siren/
 aliases:
-  - /en/glossar/office-siren/
-  - /glossary/office-siren/
+  - /glossar/office-siren/
 image_alt: Editorial illustration of a polished Office Siren outfit with a fitted blazer, pencil skirt, glasses, and pumps
 relatedTerms:
   - title: Office Look

@@ -33,8 +33,7 @@ seoTitle: "Чисто-белый: значение и применение | Г�
 slug: chisto-belyy
 url: /ru/glossar/reinweiss/
 aliases:
-  - /rus/glossar/reinweiss/
-  - /ru/glossar/reinweiss/
+  - /glossar/reinweiss/
 image_alt: "Чисто-белый оттенок белого в иллюстрации глоссария ESKYNA"
 lastmod: "2026-07-09"
 knowledge:

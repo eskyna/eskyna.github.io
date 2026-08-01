@@ -21,8 +21,7 @@ keywords:
 slug: cost-per-wear-strategy
 url: /en/glossary/cost-per-wear-strategy/
 aliases:
-  - /en/glossar/preis-pro-tragen-strategie/
-  - /glossary/cost-per-wear-strategy/
+  - /glossar/preis-pro-tragen-strategie/
 image_alt: Editorial glossary illustration showing a cost-per-wear strategy for thoughtful wardrobe shopping
 relatedTerms:
   - title: Cost per Wear

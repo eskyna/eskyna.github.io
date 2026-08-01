@@ -34,8 +34,7 @@ seoTitle: "Камуфляж | Style & Image ESKYNA"
 slug: kamuflyazh
 url: /ru/glossar/camouflage/
 aliases:
-  - /rus/glossar/camouflage/
-  - /ru/glossar/camouflage/
+  - /glossar/camouflage/
 lastmod: "2026-07-09"
 history:
   - Камуфляжные рисунки создавались для маскировки в конкретной местности и условиях освещения, поэтому их варианты различаются по цвету и масштабу пятен.

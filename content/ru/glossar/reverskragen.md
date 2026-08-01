@@ -8,8 +8,7 @@ image_alt: "Лацканный воротник на классическом п
 slug: reverskragen
 url: /rus/glossariy/reverskragen/
 aliases:
-  - /rus/glossar/reverskragen/
-  - /ru/glossar/reverskragen/
+  - /glossar/reverskragen/
 tags:
   - лацканный-воротник
   - воротники

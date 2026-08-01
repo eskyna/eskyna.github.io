@@ -8,8 +8,7 @@ image_alt: "Иллюстрация тепло-холодного контрас�
 slug: warm-kalt-kontrast
 url: /rus/glossariy/warm-kalt-kontrast/
 aliases:
-  - /rus/glossar/warm-kalt-kontrast/
-  - /ru/glossar/warm-kalt-kontrast/
+  - /glossar/warm-kalt-kontrast/
 tags:
   - тепло-холодный-контраст
   - сочетание-цветов

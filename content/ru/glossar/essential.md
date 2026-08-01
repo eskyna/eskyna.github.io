@@ -35,8 +35,7 @@ seoTitle: "Эссенциал: что это за необходимые вещ�
 slug: essentsial
 url: /rus/glossariy/essentsial/
 aliases:
-  - /rus/glossar/essential/
-  - /ru/glossar/essential/
+  - /glossar/essential/
 lastmod: "2026-07-09"
 knowledge:
   - Эссенциальной становится не вещь определённой категории, а предмет, который действительно соответствует образу жизни и регулярно используется.

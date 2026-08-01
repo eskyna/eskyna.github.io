@@ -23,8 +23,7 @@ keywords:
 slug: track-pants
 url: /en/glossary/track-pants/
 aliases:
-  - /en/glossar/track-pants/
-  - /glossary/track-pants/
+  - /glossar/track-pants/
 image_alt: Track pants styled with a simple top and sneakers for a relaxed everyday outfit
 relatedTerms:
   - title: Athleisure

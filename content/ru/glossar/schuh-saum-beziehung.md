@@ -35,8 +35,7 @@ seoTitle: "Связь обуви и длины низа | ESKYNA"
 slug: svyaz-obuvi-i-dliny-niza
 url: /rus/glossariy/svyaz-obuvi-i-dliny-niza/
 aliases:
-  - /rus/glossar/schuh-saum-beziehung/
-  - /ru/glossar/schuh-saum-beziehung/
+  - /glossar/schuh-saum-beziehung/
 image_alt: "Иллюстрация сочетания длины брюк и юбки с разными типами обуви"
 lastmod: "2026-07-09"
 knowledge:

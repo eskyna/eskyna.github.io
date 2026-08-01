@@ -14,8 +14,7 @@ keywords:
 slug: skort
 url: /rus/glossariy/skort/
 aliases:
-  - /rus/glossar/skort/
-  - /ru/glossar/skort/
+  - /glossar/skort/
 tags:
   - "скорт"
   - "юбка-шорты"

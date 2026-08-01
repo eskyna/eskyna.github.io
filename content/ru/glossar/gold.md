@@ -41,8 +41,7 @@ seoTitle: "Золото в стиле | ESKYNA Glossary"
 slug: zoloto
 url: /rus/glossariy/zoloto/
 aliases:
-  - /rus/glossar/gold/
-  - /ru/glossar/gold/
+  - /glossar/gold/
 lastmod: "2026-07-09"
 history:
   - Золото с древности использовали для украшений, церемониальных предметов и знаков статуса, поэтому оно до сих пор связано с ценностью, торжественностью и вниманием к детали.

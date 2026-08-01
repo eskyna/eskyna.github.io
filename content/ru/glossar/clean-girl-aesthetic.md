@@ -35,9 +35,8 @@ seoTitle: "Эстетика «клин-гёрл» | ESKYNA Glossary"
 slug: estetika-klin-gerl
 url: /rus/glossariy/estetika-klin-gerl/
 aliases:
-  - /rus/glossar/clean-girl-aesthetic/
-  - /ru/glossar/clean-girl-aesthetic/
-  - /rus/glossariy/estetika-clean-girl/
+  - /glossar/clean-girl-aesthetic/
+  - /glossariy/estetika-clean-girl/
 image_alt: "Лаконичный образ в эстетике «клин-гёрл» в нейтральных оттенках"
 lastmod: "2026-07-09"
 knowledge:

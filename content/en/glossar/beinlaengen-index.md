@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/beinlaengen-index/"
 aliases:
-  - "/en/glossar/beinlaengen-index/"
-  - "/glossary/beinlaengen-index/"
+  - /glossar/beinlaengen-index/
 image: "images/glossar/beinlaengen-index.png"
 image_alt: "A person wearing high-waisted trousers and shoes in a matching color"
 relatedTerms:

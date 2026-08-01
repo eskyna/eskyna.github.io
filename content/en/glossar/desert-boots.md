@@ -9,8 +9,7 @@ image: "images/glossar/desert-boots.png"
 image_alt: "Pair of ankle-high desert boots with suede uppers and light crepe soles"
 url: /en/glossary/desert-boots/
 aliases:
-  - /en/glossar/desert-boots/
-  - /glossary/desert-boots/
+  - /glossar/desert-boots/
 relatedTerms:
   - title: "Suede"
     url: /en/glossar/veloursleder/

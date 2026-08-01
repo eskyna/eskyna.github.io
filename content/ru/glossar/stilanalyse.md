@@ -34,8 +34,7 @@ seoTitle: "Анализ стиля: значение и применение | �
 slug: analiz-stilya
 url: /rus/glossariy/analiz-stilya/
 aliases:
-  - /rus/glossar/stilanalyse/
-  - /ru/glossar/stilanalyse/
+  - /glossar/stilanalyse/
 image_alt: "Иллюстрация анализа стиля: цвета, силуэты и детали образа"
 lastmod: "2026-07-09"
 faq:

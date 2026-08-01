@@ -23,8 +23,7 @@ keywords:
 slug: terracotta
 url: /en/glossary/terracotta/
 aliases:
-  - /en/glossar/terracotta/
-  - /glossary/terracotta/
+  - /glossar/terracotta/
 image_alt: Terracotta color swatch in a muted earthy reddish orange
 relatedTerms:
   - title: Rust Orange

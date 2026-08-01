@@ -18,8 +18,7 @@ keywords:
 slug: peplum-schoss
 url: /en/glossary/peplum-schoss/
 aliases:
-  - /en/glossar/peplum-schoss/
-  - /glossary/peplum-schoss/
+  - /glossar/peplum-schoss/
 weight: 999
 image: images/glossar/peplum-schoss.png
 image_alt: Fitted black peplum top with a flared panel at the waist

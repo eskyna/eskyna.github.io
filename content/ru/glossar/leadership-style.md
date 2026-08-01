@@ -35,9 +35,8 @@ seoTitle: "Лидерский стиль: что это и как применя
 slug: liderskiy-stil
 url: /ru/glossar/leadership-style/
 aliases:
-  - /rus/glossariy/liderskiy-stil/
-  - /rus/glossar/leadership-style/
-  - /ru/glossar/leadership-style/
+  - /glossariy/liderskiy-stil/
+  - /glossar/leadership-style/
 image_alt: "Лидерский стиль: собранный деловой образ с чётким силуэтом"
 lastmod: "2026-07-09"
 knowledge:

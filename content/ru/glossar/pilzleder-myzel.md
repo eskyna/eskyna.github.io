@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: "/rus/glossariy/pilzleder-myzel/"
 aliases:
-  - "/rus/glossar/pilzleder-myzel/"
-  - "/ru/glossar/pilzleder-myzel/"
+  - /glossar/pilzleder-myzel/
 image: "images/glossar/pilzleder-myzel.png"
 image_alt: "Материал из мицелия с матовой кожеподобной поверхностью крупным планом"
 relatedTerms:

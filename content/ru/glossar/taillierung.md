@@ -40,8 +40,7 @@ seoTitle: "Приталивание | ESKYNA Glossary"
 slug: pritalivanie
 url: /rus/glossariy/pritalivanie/
 aliases:
-  - /rus/glossar/taillierung/
-  - /ru/glossar/taillierung/
+  - /glossar/taillierung/
 lastmod: "2026-07-09"
 knowledge:
   - Приталивание создают конструкцией вещи, например вытачками и рельефными швами, или стилизацией, например ремнём и частичной заправкой верха.

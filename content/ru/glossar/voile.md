@@ -9,8 +9,7 @@ image: "images/glossar/voile.png"
 image_alt: "Лёгкая полупрозрачная ткань вуаль с мягкой драпировкой"
 url: /rus/glossariy/voile/
 aliases:
-  - /rus/glossar/voile/
-  - /ru/glossar/voile/
+  - /glossar/voile/
 tags:
   - вуаль
   - voile

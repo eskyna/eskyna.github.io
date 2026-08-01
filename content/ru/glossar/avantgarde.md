@@ -15,8 +15,7 @@ keywords:
 slug: avantgarde
 url: /rus/glossariy/avantgarde/
 aliases:
-  - /rus/glossar/avantgarde/
-  - /ru/glossar/avantgarde/
+  - /glossar/avantgarde/
 relatedTerms:
   - title: "Деконструкция"
     url: /ru/glossar/schnitt/

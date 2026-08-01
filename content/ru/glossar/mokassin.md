@@ -35,8 +35,7 @@ seoTitle: "Мокасины: что это, отличие от лоферов �
 slug: mokasiny
 url: /rus/glossariy/mokasiny/
 aliases:
-  - /rus/glossar/mokassin/
-  - /ru/glossar/mokassin/
+  - /glossar/mokassin/
 lastmod: "2026-07-09"
 history:
   - "Традиционные мокасины были распространены у многих коренных народов Северной Америки. Их делали из мягкой кожи и приспосабливали к местным условиям."

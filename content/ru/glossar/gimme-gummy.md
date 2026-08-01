@@ -22,8 +22,7 @@ keywords:
 slug: gimme-gummy
 url: /rus/glossariy/gimme-gummy/
 aliases:
-  - /rus/glossar/gimme-gummy/
-  - /ru/glossar/gimme-gummy/
+  - /glossar/gimme-gummy/
 relatedTerms:
   - title: Jelly Bag
     url: /ru/glossar/jelly-bag/

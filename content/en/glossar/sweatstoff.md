@@ -22,8 +22,7 @@ keywords:
 slug: sweatshirt-fabric
 url: /en/glossary/sweatshirt-fabric/
 aliases:
-  - /en/glossar/sweatstoff/
-  - /glossary/sweatshirt-fabric/
+  - /glossar/sweatstoff/
 image_alt: Soft grey sweatshirt fabric with a smooth outer surface and looped reverse side
 relatedTerms:
   - title: French Terry

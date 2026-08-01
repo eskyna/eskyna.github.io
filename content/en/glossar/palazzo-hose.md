@@ -21,8 +21,7 @@ keywords:
 slug: palazzo-trousers
 url: /en/glossary/palazzo-trousers/
 aliases:
-  - /en/glossar/palazzo-hose/
-  - /glossary/palazzo-trousers/
+  - /glossar/palazzo-hose/
 image_alt: Flowing wide-leg palazzo trousers styled with a fitted top and shoes
 relatedTerms:
   - title: Wide Leg

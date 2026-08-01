@@ -20,8 +20,7 @@ weight: 999
 slug: casual-friday
 url: /rus/glossariy/casual-friday/
 aliases:
-  - /rus/glossar/casual-friday/
-  - /ru/glossar/casual-friday/
+  - /glossar/casual-friday/
 lastmod: "2026-07-30"
 image: images/glossar/casual-friday.png
 image_alt: Расслабленный офисный образ с блейзером, рубашкой, брюками и лоферами

@@ -35,8 +35,7 @@ seoTitle: "Лацкан: что это такое, виды и влияние н
 slug: latskan
 url: /rus/glossariy/latskan/
 aliases:
-  - /rus/glossar/revers/
-  - /ru/glossar/revers/
+  - /glossar/revers/
 lastmod: "2026-07-09"
 history:
   - Лацканы возникли из практики отворачивать верхнюю часть застёжки мужского сюртука и пальто.

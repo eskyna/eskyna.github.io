@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/first-date-styling/"
 aliases:
-  - "/en/glossar/first-date-styling/"
-  - "/glossary/first-date-styling/"
+  - /glossar/first-date-styling/
 image: "images/glossar/first-date-styling.png"
 image_alt: "Person choosing a polished casual outfit with shoes and accessories for a first date"
 relatedTerms:

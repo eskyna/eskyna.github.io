@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/reversrolle/
 aliases:
-  - /en/glossar/reversrolle/
-  - /glossary/reversrolle/
+  - /glossar/reversrolle/
 image: images/glossar/reversrolle.png
 image_alt: Softly curved lapel on a tailored navy jacket
 relatedTerms:

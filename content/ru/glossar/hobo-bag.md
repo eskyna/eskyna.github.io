@@ -34,9 +34,8 @@ seoTitle: "Сумка хобо: что это, как выбрать и носи
 slug: sumka-hobo
 url: /rus/glossariy/sumka-hobo/
 aliases:
-  - /rus/glossar/hobo-bag/
-  - /ru/glossar/hobo-bag/
-  - /rus/glossariy/hobo-bag/
+  - /glossar/hobo-bag/
+  - /glossariy/hobo-bag/
 lastmod: "2026-07-09"
 knowledge:
   - "Узнаваемый признак сумки хобо: мягкий корпус с округлым или полумесячным контуром, который обычно слегка меняет форму при ношении."

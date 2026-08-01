@@ -23,8 +23,7 @@ keywords:
 slug: color-consultation
 url: /en/glossary/color-consultation/
 aliases:
-  - /en/glossar/farbberatung/
-  - /glossary/color-consultation/
+  - /glossar/farbberatung/
 image_alt: Editorial glossary illustration showing fabric color swatches for a color consultation
 relatedTerms:
   - title: Color Type

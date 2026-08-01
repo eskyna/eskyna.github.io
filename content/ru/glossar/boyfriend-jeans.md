@@ -35,9 +35,8 @@ seoTitle: "Джинсы бойфренд | ESKYNA Glossary"
 slug: dzhinsy-boyfrend
 url: /rus/glossariy/dzhinsy-boyfrend/
 aliases:
-  - /rus/glossar/boyfriend-jeans/
-  - /ru/glossar/boyfriend-jeans/
-  - /rus/glossariy/dzhinsy-boyfriend/
+  - /glossar/boyfriend-jeans/
+  - /glossariy/dzhinsy-boyfriend/
 lastmod: "2026-07-09"
 history:
   - "Название boyfriend jeans связано не с отдельным техническим кроем, а с идеей джинсов, будто бы взятых из мужского гардероба: более свободных и менее прилегающих."

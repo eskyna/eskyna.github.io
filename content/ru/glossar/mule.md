@@ -35,9 +35,8 @@ seoTitle: "Мюли: что это за обувь и как её носить |
 slug: myuli
 url: /rus/glossariy/myuli/
 aliases:
-  - /rus/glossar/mule/
-  - /ru/glossar/mule/
-  - /rus/glossariy/mule/
+  - /glossar/mule/
+  - /glossariy/mule/
 knowledge:
   - "У мюлей нет задника: пятка остаётся открытой, а стопа удерживается передней частью обуви."
   - "Мюли бывают плоскими, на каблуке, на платформе, с закрытым или открытым носком."

@@ -23,8 +23,7 @@ keywords:
 slug: shacket
 url: /en/glossary/shacket/
 aliases:
-  - /en/glossar/shacket/
-  - /glossary/shacket/
+  - /glossar/shacket/
 image_alt: Editorial illustration of a structured button front shacket layered over a simple outfit
 relatedTerms:
   - title: Overshirt

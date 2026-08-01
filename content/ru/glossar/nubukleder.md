@@ -4,8 +4,7 @@ term: Нубук
 slug: nubukleder
 url: /rus/glossariy/nubukleder/
 aliases:
-  - /rus/glossar/nubukleder/
-  - /ru/glossar/nubukleder/
+  - /glossar/nubukleder/
 description: "Нубук это тонко отшлифованная по лицевой стороне кожа, чаще из шкур крупного рогатого скота или телят. Она имеет мягкую бархатистую поверхность, матовый вид и требует бережного ухода."
 category: Материалы и детали
 tags:

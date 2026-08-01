@@ -5,8 +5,7 @@ description: "Proportion hacking uses strategic styling choices to visually leng
 slug: "proportionen-hacking"
 url: "/en/glossary/proportionen-hacking/"
 aliases:
-  - "/en/glossar/proportionen-hacking/"
-  - "/glossary/proportionen-hacking/"
+  - /glossar/proportionen-hacking/
 category: "Cut, Proportion & Fit"
 tags:
   - "proportion hacking"

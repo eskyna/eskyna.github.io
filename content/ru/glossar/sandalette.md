@@ -35,9 +35,8 @@ seoTitle: "Босоножки | Style & Image ESKYNA"
 slug: bosonozhki
 url: /rus/glossariy/bosonozhki/
 aliases:
-  - /rus/glossar/sandalette/
-  - /ru/glossar/sandalette/
-  - /rus/glossariy/sandalette/
+  - /glossar/sandalette/
+  - /glossariy/sandalette/
 lastmod: "2026-07-09"
 knowledge:
   - Босоножки могут быть плоскими или на каблуке, но обычно воспринимаются как более нарядная и деликатная разновидность открытой обуви.

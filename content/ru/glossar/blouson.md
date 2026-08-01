@@ -8,8 +8,7 @@ image_alt: "Блузон свободного кроя с объёмом в ко
 slug: blouson
 url: /rus/glossariy/blouson/
 aliases:
-  - /rus/glossar/blouson/
-  - /ru/glossar/blouson/
+  - /glossar/blouson/
 tags:
   - блузон
   - куртка

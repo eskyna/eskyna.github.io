@@ -9,8 +9,7 @@ image: "images/glossar/biker-boots.png"
 image_alt: "Иллюстрация пары чёрных байкерских ботинок с массивной подошвой и пряжками"
 url: /rus/glossariy/biker-boots/
 aliases:
-  - /rus/glossar/biker-boots/
-  - /ru/glossar/biker-boots/
+  - /glossar/biker-boots/
 lastmod: "2026-07-22"
 tags:
   - biker-boots

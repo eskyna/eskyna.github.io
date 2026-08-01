@@ -5,8 +5,7 @@ description: A date night look is a thoughtfully styled outfit for a romantic di
 slug: date-night-look
 url: /en/glossary/date-night-look/
 aliases:
-  - /en/glossar/date-night-look/
-  - /glossary/date-night-look/
+  - /glossar/date-night-look/
 category: Dress Codes & Occasions
 tags:
   - date night outfit

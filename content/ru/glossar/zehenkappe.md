@@ -34,8 +34,7 @@ seoTitle: "Носок обуви explained | ESKYNA"
 slug: nosok-obuvi
 url: /ru/glossar/zehenkappe/
 aliases:
-  - /rus/glossar/zehenkappe/
-  - /ru/glossar/zehenkappe/
+  - /glossar/zehenkappe/
 lastmod: "2026-07-09"
 knowledge:
   - Носок обуви защищает переднюю часть стопы и одновременно формирует видимый контур обуви.

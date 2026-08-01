@@ -4,8 +4,7 @@ term: "Сарториальная грудовая бортовка пиджак
 slug: sartoriales-sakko-brustblatt
 url: /rus/glossariy/sartoriales-sakko-brustblatt/
 aliases:
-  - /rus/glossar/sartoriales-sakko-brustblatt/
-  - /ru/glossar/sartoriales-sakko-brustblatt/
+  - /glossar/sartoriales-sakko-brustblatt/
 description: "Сарториальная грудовая бортовка пиджака это формообразующая прокладка в области груди, которую обычно делают с использованием конского волоса и формуют влажно-тепловой обработкой. Она помогает пиджаку сохранять естественный объём груди, мягкий изгиб лацкана и аккуратную посадку."
 category: "Материалы и детали"
 tags:

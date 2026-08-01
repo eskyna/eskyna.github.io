@@ -21,8 +21,7 @@ keywords:
 slug: scarf-styling-tuch-styling
 url: /rus/glossariy/scarf-styling-tuch-styling/
 aliases:
-  - /rus/glossar/scarf-styling-tuch-styling/
-  - /ru/glossar/scarf-styling-tuch-styling/
+  - /glossar/scarf-styling-tuch-styling/
 relatedTerms:
   - title: Шейный платок
     url: /ru/glossar/halstuch/

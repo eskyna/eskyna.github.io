@@ -20,8 +20,7 @@ keywords:
 slug: dress-code
 url: /en/glossary/dress-code/
 aliases:
-  - /en/glossar/dresscode/
-  - /glossary/dress-code/
+  - /glossar/dresscode/
 image_alt: Editorial illustration representing dress codes for different occasions
 relatedTerms:
   - title: Business Casual

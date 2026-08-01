@@ -20,8 +20,7 @@ keywords:
 slug: midi-skirt
 url: /en/glossary/midi-skirt/
 aliases:
-  - /en/glossar/midirock/
-  - /glossary/midi-skirt/
+  - /glossar/midirock/
 image_alt: Editorial illustration of a skirt with a midi-length hem falling below the knee and above the ankle
 relatedTerms:
   - title: Midi Dress

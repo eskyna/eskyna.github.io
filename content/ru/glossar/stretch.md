@@ -37,9 +37,9 @@ seoTitle: "Стрейч: что это такое и для чего нужен 
 slug: streych
 url: /ru/glossar/stretch/
 aliases:
-  - /rus/glossar/stretch/
-  - /rus/glossariy/streych/
-  - /rus/glossariy/stretch/
+  - /glossar/stretch/
+  - /glossariy/streych/
+  - /glossariy/stretch/
 lastmod: "2026-07-09"
 knowledge:
   - Стрейч может появляться благодаря эластичным волокнам, например эластану, либо за счёт конструкции трикотажного полотна.

@@ -23,8 +23,7 @@ keywords:
 slug: apricot-und-pfirsich
 url: /en/glossary/apricot-und-pfirsich/
 aliases:
-  - /en/glossar/apricot-und-pfirsich/
-  - /glossary/apricot-und-pfirsich/
+  - /glossar/apricot-und-pfirsich/
 relatedTerms:
   - title: Coral
     url: /en/glossar/koralle/

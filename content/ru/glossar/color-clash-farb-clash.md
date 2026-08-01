@@ -22,8 +22,7 @@ keywords:
 slug: color-clash-farb-clash
 url: /rus/glossariy/color-clash-farb-clash/
 aliases:
-  - /rus/glossar/color-clash-farb-clash/
-  - /ru/glossar/color-clash-farb-clash/
+  - /glossar/color-clash-farb-clash/
 relatedTerms:
   - title: Колор-блокинг
     url: /ru/glossar/color-blocking/

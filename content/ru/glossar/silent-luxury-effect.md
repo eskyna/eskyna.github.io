@@ -4,8 +4,7 @@ term: "Эффект тихой роскоши"
 slug: silent-luxury-effect
 url: /rus/glossariy/silent-luxury-effect/
 aliases:
-  - /rus/glossar/silent-luxury-effect/
-  - /ru/glossar/silent-luxury-effect/
+  - /glossar/silent-luxury-effect/
 description: "Эффект тихой роскоши создаёт впечатление высокого качества без заметных логотипов и демонстративного декора. Его формируют материал, посадка, точность деталей, состояние вещей и цельность образа."
 category: Стиль и впечатление
 tags:

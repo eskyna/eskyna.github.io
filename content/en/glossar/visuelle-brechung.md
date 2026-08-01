@@ -5,8 +5,7 @@ description: A visual break is the deliberate interruption of a strict outfit pa
 slug: visuelle-brechung
 url: /en/glossary/visuelle-brechung/
 aliases:
-  - /en/glossar/visuelle-brechung/
-  - /glossary/visuelle-brechung/
+  - /glossar/visuelle-brechung/
 category: Style & Impact
 tags:
   - visual break

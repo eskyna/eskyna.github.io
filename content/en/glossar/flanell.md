@@ -15,8 +15,7 @@ keywords:
 slug: flanell
 url: /en/glossary/flanell/
 aliases:
-  - /en/glossar/flanell/
-  - /glossary/flanell/
+  - /glossar/flanell/
 tags:
   - flannel fabric
   - brushed fabric

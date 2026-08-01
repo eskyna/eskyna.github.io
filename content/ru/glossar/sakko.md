@@ -36,9 +36,8 @@ seoTitle: "Сакко: что это, отличия от пиджака и ка
 slug: pidzhak-sakko
 url: /rus/glossariy/pidzhak-sakko/
 aliases:
-  - /rus/glossar/sakko/
-  - /ru/glossar/sakko/
-  - /rus/glossariy/sakko/
+  - /glossar/sakko/
+  - /glossariy/sakko/
 lastmod: "2026-07-09"
 history:
   - Сакко сформировалось в мужском гардеробе как более короткая и практичная альтернатива более формальным видам верхней одежды.

@@ -22,8 +22,7 @@ keywords:
 slug: evening-wear
 url: /en/glossary/evening-wear/
 aliases:
-  - /en/glossar/abendgarderobe/
-  - /glossary/evening-wear/
+  - /glossar/abendgarderobe/
 image_alt: Elegant evening wear with a formal dress and tailored evening suit
 relatedTerms:
   - title: Evening Dress

@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: "/en/glossary/aura-styling/"
 aliases:
-  - "/en/glossar/aura-styling/"
-  - "/glossary/aura-styling/"
+  - /glossar/aura-styling/
 image: "images/glossar/aura-styling.png"
 image_alt: "A polished outfit with a soft scarf, simple jewelry, and a perfume bottle"
 relatedTerms:

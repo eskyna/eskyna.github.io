@@ -34,9 +34,8 @@ seoTitle: "Куртка-бомбер: что это, как выбрать и с
 slug: bomber
 url: /ru/glossar/bomberjacke/
 aliases:
-  - /rus/glossar/bomberjacke/
-  - /ru/glossar/bomberjacke/
-  - /rus/glossariy/bomber/
+  - /glossar/bomberjacke/
+  - /glossariy/bomber/
 lastmod: "2026-07-09"
 history:
   - Бомбер возник как функциональная куртка для пилотов и со временем вошёл в гражданский гардероб.

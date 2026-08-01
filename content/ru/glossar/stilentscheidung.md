@@ -33,8 +33,7 @@ seoTitle: "Стилевое решение: значение и применен
 slug: stilevoe-reshenie
 url: /rus/glossariy/stilevoe-reshenie/
 aliases:
-  - /rus/glossar/stilentscheidung/
-  - /ru/glossar/stilentscheidung/
+  - /glossar/stilentscheidung/
 lastmod: "2026-07-09"
 knowledge:
   - Стилевое решение оценивают не по отдельной вещи, а по тому, как она работает вместе с внешностью, ситуацией и остальным гардеробом.

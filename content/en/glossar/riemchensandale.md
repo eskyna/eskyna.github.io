@@ -9,8 +9,7 @@ image: "images/glossar/riemchensandale.png"
 image_alt: "Glossary illustration of a strappy sandal with delicate straps"
 url: /en/glossary/riemchensandale/
 aliases:
-  - /en/glossar/riemchensandale/
-  - /glossary/riemchensandale/
+  - /glossar/riemchensandale/
 tags:
   - strappy sandal
   - sandals

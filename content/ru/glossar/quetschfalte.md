@@ -8,8 +8,7 @@ image_alt: "Заутюженная встречная складка на юбк
 slug: quetschfalte
 url: /rus/glossariy/quetschfalte/
 aliases:
-  - /rus/glossar/quetschfalte/
-  - /ru/glossar/quetschfalte/
+  - /glossar/quetschfalte/
 tags:
   - заутюженная-встречная-складка
   - складки

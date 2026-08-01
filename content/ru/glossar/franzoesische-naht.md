@@ -15,8 +15,7 @@ keywords:
 slug: franzoesische-naht
 url: /rus/glossariy/franzoesische-naht/
 aliases:
-  - /rus/glossar/franzoesische-naht/
-  - /ru/glossar/franzoesische-naht/
+  - /glossar/franzoesische-naht/
 tags:
   - "французский шов"
   - "обработка швов"

@@ -9,8 +9,7 @@ image: "images/glossar/saddle-bag.png"
 image_alt: "Glossary illustration of a curved saddle bag with a flap and shoulder strap"
 url: /en/glossary/saddle-bag/
 aliases:
-  - /en/glossar/saddle-bag/
-  - /glossary/saddle-bag/
+  - /glossar/saddle-bag/
 tags:
   - saddle bag
   - handbags

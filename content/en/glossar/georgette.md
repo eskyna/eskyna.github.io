@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/georgette/"
 aliases:
-  - "/en/glossar/georgette/"
-  - "/glossary/georgette/"
+  - /glossar/georgette/
 image: "images/glossar/georgette.png"
 image_alt: "Softly draped pale georgette fabric with a lightly textured surface"
 relatedTerms:

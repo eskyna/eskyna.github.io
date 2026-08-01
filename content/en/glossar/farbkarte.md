@@ -20,8 +20,7 @@ keywords:
 slug: color-card
 url: /en/glossary/color-card/
 aliases:
-  - /en/glossar/farbkarte/
-  - /glossary/color-card/
+  - /glossar/farbkarte/
 image_alt: Color swatches arranged as a personal color card for outfit planning
 relatedTerms:
   - title: Color Consultation

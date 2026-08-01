@@ -21,8 +21,7 @@ keywords:
 slug: creative-black-tie
 url: /en/glossary/creative-black-tie/
 aliases:
-  - /en/glossar/creative-black-tie/
-  - /glossary/creative-black-tie/
+  - /glossar/creative-black-tie/
 image_alt: Formal creative black tie evening look with tailored black pieces and refined statement accessories
 relatedTerms:
   - title: Black Tie

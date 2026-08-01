@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/sprezzatura/
 aliases:
-  - /rus/glossar/sprezzatura/
-  - /ru/glossar/sprezzatura/
+  - /glossar/sprezzatura/
 image: images/glossar/sprezzatura.png
 image_alt: Элегантный мужской образ с пиджаком, рубашкой и неформально уложенным нагрудным платком
 relatedTerms:

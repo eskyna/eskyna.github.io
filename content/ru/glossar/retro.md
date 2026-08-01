@@ -34,9 +34,8 @@ seoTitle: "Ретро: что это в моде и как носить ретр
 slug: retro
 url: /ru/glossar/retro/
 aliases:
-  - /rus/glossar/retro/
-  - /rus/glossariy/retro/
-  - /ru/glossar/retro/
+  - /glossar/retro/
+  - /glossariy/retro/
 lastmod: "2026-07-09"
 knowledge:
   - "Ретро не требует буквального воспроизведения исторического костюма: обычно достаточно одного или нескольких узнаваемых кодов эпохи."

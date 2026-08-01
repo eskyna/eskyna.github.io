@@ -22,8 +22,7 @@ keywords:
 slug: tannengruen
 url: /rus/glossariy/tannengruen/
 aliases:
-  - /rus/glossar/tannengruen/
-  - /ru/glossar/tannengruen/
+  - /glossar/tannengruen/
 relatedTerms:
   - title: "Зелёный"
     url: /ru/glossar/gruen/

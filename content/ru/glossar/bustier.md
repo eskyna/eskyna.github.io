@@ -35,8 +35,7 @@ seoTitle: "Бюстье: что это, отличия и как носить | 
 slug: byuste
 url: /rus/glossariy/byuste/
 aliases:
-  - /rus/glossar/bustier/
-  - /ru/glossar/bustier/
+  - /glossar/bustier/
 lastmod: "2026-07-09"
 history:
   - Бюстье развилось на стыке бельевого и верхнего гардероба, опираясь на традицию формообразующих лифов.

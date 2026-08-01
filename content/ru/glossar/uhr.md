@@ -35,9 +35,8 @@ seoTitle: "Часы: как выбрать и носить стильный ак
 slug: chasy
 url: /rus/glossariy/chasy/
 aliases:
-  - /rus/glossar/uhr/
-  - /ru/glossar/uhr/
-  - /rus/glossariy/uhr/
+  - /glossar/uhr/
+  - /glossariy/uhr/
 lastmod: "2026-07-09"
 knowledge:
   - "Материал корпуса, ремешок, масштаб циферблата и цвет металла определяют, насколько часы выглядят спортивно, делово, классически или нарядно."

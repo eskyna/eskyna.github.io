@@ -8,11 +8,9 @@ image_alt: Illustration of a tailored jacket with flap pockets at the hip
 slug: pattentasche
 url: /en/glossary/pattentasche/
 aliases:
-  - /en/glossar/pattentasche/
-  - /glossary/pattentasche/
-  - /en/glossary/klappen-tasche-flap-pocket/
-  - /en/glossar/klappen-tasche-flap-pocket/
+  - /glossar/pattentasche/
   - /glossary/klappen-tasche-flap-pocket/
+  - /glossar/klappen-tasche-flap-pocket/
 tags:
   - flap pocket
   - pocket details

@@ -4,8 +4,7 @@ term: Bikini Shapewear
 description: "Bikini shapewear is shaping swimwear with integrated compression that gently smooths the body and creates a more supported silhouette in and around the water."
 url: /en/glossary/bikini-shapewear/
 aliases:
-  - /en/glossar/bikini-shapewear/
-  - /glossary/bikini-shapewear/
+  - /glossar/bikini-shapewear/
 category: Lingerie, Bras & Styling Aids
 tags:
   - bikini shapewear

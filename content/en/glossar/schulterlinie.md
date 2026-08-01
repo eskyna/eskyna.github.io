@@ -21,8 +21,7 @@ keywords:
 slug: shoulder-line
 url: /en/glossary/shoulder-line/
 aliases:
-  - /en/glossar/schulterlinie/
-  - /glossary/shoulder-line/
+  - /glossar/schulterlinie/
 image_alt: Illustration showing different shoulder lines, including natural, dropped, padded, and extended shoulders
 relatedTerms:
   - title: Shoulder Pads

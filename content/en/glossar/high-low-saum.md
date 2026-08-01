@@ -17,8 +17,7 @@ keywords:
   - asymmetrical hemline
 url: /en/glossary/high-low-saum/
 aliases:
-  - /en/glossar/high-low-saum/
-  - /glossary/high-low-saum/
+  - /glossar/high-low-saum/
 image: images/glossar/high-low-saum.png
 image_alt: A flowing dress with a shorter front hem and a longer back hem
 relatedTerms:

@@ -14,8 +14,7 @@ keywords:
 slug: kostuem-jacke-rock-ensemble
 url: /rus/glossariy/kostuem-jacke-rock-ensemble/
 aliases:
-  - /rus/glossar/kostuem-jacke-rock-ensemble/
-  - /ru/glossar/kostuem-jacke-rock-ensemble/
+  - /glossar/kostuem-jacke-rock-ensemble/
 tags:
   - костюм с юбкой
   - жакет

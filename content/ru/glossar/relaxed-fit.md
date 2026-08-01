@@ -37,9 +37,8 @@ seoTitle: "Расслабленная посадка | ESKYNA"
 slug: rasslablennaya-posadka
 url: /ru/glossar/relaxed-fit/
 aliases:
-  - /rus/glossar/relaxed-fit/
-  - /ru/glossar/relaxed-fit/
-  - /rus/glossariy/relaxed-fit/
+  - /glossar/relaxed-fit/
+  - /glossariy/relaxed-fit/
 lastmod: "2026-07-09"
 knowledge:
   - "Расслабленная посадка не равна вещи большего размера: она закладывается в конструкцию изделия, распределение объема и длину."

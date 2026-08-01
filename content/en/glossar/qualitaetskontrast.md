@@ -9,8 +9,7 @@ image: "images/glossar/qualitaetskontrast.png"
 image_alt: "Glossary illustration showing the contrast between clear saturated colors and soft muted colors"
 url: /en/glossary/qualitaetskontrast/
 aliases:
-  - /en/glossar/qualitaetskontrast/
-  - /glossary/qualitaetskontrast/
+  - /glossar/qualitaetskontrast/
 tags:
   - quality contrast
   - color contrast

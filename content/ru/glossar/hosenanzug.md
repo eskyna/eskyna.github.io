@@ -15,8 +15,7 @@ keywords:
 slug: hosenanzug
 url: /rus/glossariy/hosenanzug/
 aliases:
-  - /rus/glossar/hosenanzug/
-  - /ru/glossar/hosenanzug/
+  - /glossar/hosenanzug/
 relatedTerms:
   - title: "Костюм"
     url: /ru/glossar/anzug/

@@ -33,8 +33,7 @@ seoTitle: "Зимний цветотип | ESKYNA Glossary"
 slug: zimniy-tsvetotip
 url: /rus/glossariy/zimniy-tsvetotip/
 aliases:
-  - /rus/glossar/wintertyp/
-  - /ru/glossar/wintertyp/
+  - /glossar/wintertyp/
 image_alt: "Иллюстрация цветовой палитры для зимнего цветотипа с холодными чистыми и контрастными оттенками"
 lastmod: "2026-07-09"
 history:

@@ -9,8 +9,7 @@ image: "images/glossar/opazitaet.png"
 image_alt: "Иллюстрация разной степени непрозрачности ткани в одежде"
 url: /rus/glossariy/opazitaet/
 aliases:
-  - /rus/glossar/opazitaet/
-  - /ru/glossar/opazitaet/
+  - /glossar/opazitaet/
 lastmod: "2026-07-22"
 tags:
   - опацитет

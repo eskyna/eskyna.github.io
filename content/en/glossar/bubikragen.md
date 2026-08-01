@@ -20,8 +20,7 @@ keywords:
 slug: peter-pan-collar
 url: /en/glossary/peter-pan-collar/
 aliases:
-  - /en/glossar/bubikragen/
-  - /glossary/peter-pan-collar/
+  - /glossar/bubikragen/
 image_alt: Rounded Peter Pan collar on a light blouse
 relatedTerms:
   - title: Shirt Collar

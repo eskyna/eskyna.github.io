@@ -34,9 +34,8 @@ seoTitle: "Легинсы: что это такое и как носить | Г�
 slug: leginsy
 url: /rus/glossariy/leginsy/
 aliases:
-  - /rus/glossar/leggings/
-  - /ru/glossar/leggings/
-  - /rus/glossariy/leggings/
+  - /glossar/leggings/
+  - /glossariy/leggings/
 lastmod: "2026-07-09"
 history:
   - "Легинсы восходят к исторической одежде для ног, но современное значение термина связано прежде всего с эластичными трикотажными моделями."

@@ -24,8 +24,7 @@ keywords:
 slug: buttergelb-und-vanillegelb
 url: /rus/glossariy/buttergelb-und-vanillegelb/
 aliases:
-  - /rus/glossar/buttergelb-und-vanillegelb/
-  - /ru/glossar/buttergelb-und-vanillegelb/
+  - /glossar/buttergelb-und-vanillegelb/
 relatedTerms:
   - title: "Жёлтый"
     url: /ru/glossar/gelb/

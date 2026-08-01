@@ -20,8 +20,7 @@ keywords:
 slug: cowl-neck
 url: /en/glossary/cowl-neck/
 aliases:
-  - /en/glossar/wasserfallausschnitt/
-  - /glossary/cowl-neck/
+  - /glossar/wasserfallausschnitt/
 image_alt: Softly draped cowl neckline in a fluid fabric
 relatedTerms:
   - title: Draping

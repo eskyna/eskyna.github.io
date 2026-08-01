@@ -22,8 +22,7 @@ keywords:
 slug: urban
 url: /en/glossary/urban/
 aliases:
-  - /en/glossar/urban/
-  - /glossary/urban/
+  - /glossar/urban/
 image_alt: Editorial illustration of a contemporary urban outfit with relaxed tailoring, sneakers, and layered accessories
 relatedTerms:
   - title: Streetwear

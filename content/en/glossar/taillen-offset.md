@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/taillen-offset/"
 aliases:
-  - "/en/glossar/taillen-offset/"
-  - "/glossary/taillen-offset/"
+  - /glossar/taillen-offset/
 image: "images/glossar/taillen-offset.png"
 image_alt: "Two outfits showing a waistline placed at different heights with a belt and cropped jacket"
 relatedTerms:

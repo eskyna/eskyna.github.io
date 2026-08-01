@@ -35,8 +35,7 @@ seoTitle: "Что такое мода: значение, тренды и лич�
 slug: moda
 url: /ru/glossar/mode/
 aliases:
-  - /rus/glossar/mode/
-  - /ru/glossar/mode/
+  - /glossar/mode/
 lastmod: "2026-07-09"
 history:
   - Мода всегда отражала не только эстетику, но и изменения в обществе, технологиях, культуре, труде и представлениях о статусе.

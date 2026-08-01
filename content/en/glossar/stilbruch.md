@@ -20,8 +20,7 @@ keywords:
 slug: style-contrast
 url: /en/glossary/style-contrast/
 aliases:
-  - /en/glossar/stilbruch/
-  - /glossary/style-contrast/
+  - /glossar/stilbruch/
 image_alt: Editorial illustration showing a tailored blazer styled with casual denim and sneakers
 relatedTerms:
   - title: High-Low Dressing

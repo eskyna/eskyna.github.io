@@ -24,8 +24,7 @@ keywords:
 slug: laced-up-lace-aesthetic
 url: /en/glossary/laced-up-lace-aesthetic/
 aliases:
-  - /en/glossar/laced-up-lace-aesthetic/
-  - /glossary/laced-up-lace-aesthetic/
+  - /glossar/laced-up-lace-aesthetic/
 relatedTerms:
   - title: Lace
     url: /en/glossar/spitze/

@@ -19,8 +19,7 @@ weight: 999
 slug: image-konsistenz
 url: /rus/glossariy/image-konsistenz/
 aliases:
-  - /rus/glossar/image-konsistenz/
-  - /ru/glossar/image-konsistenz/
+  - /glossar/image-konsistenz/
 lastmod: "2026-07-30"
 image: images/glossar/image-konsistenz.png
 image_alt: "Согласованный образ для деловой встречи, повседневного выхода и фотографии профиля"

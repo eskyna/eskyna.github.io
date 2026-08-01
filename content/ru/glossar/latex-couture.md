@@ -5,8 +5,7 @@ description: "Латекс-кутюр это направление в моде,
 slug: "latex-couture"
 url: "/rus/glossariy/latex-couture/"
 aliases:
-  - "/rus/glossar/latex-couture/"
-  - "/ru/glossar/latex-couture/"
+  - /glossar/latex-couture/
 category: "Материалы и детали"
 tags:
   - "латекс-кутюр"

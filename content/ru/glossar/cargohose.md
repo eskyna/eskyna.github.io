@@ -34,9 +34,8 @@ seoTitle: "Карго-брюки explained | ESKYNA"
 slug: kargo-bryuki
 url: /ru/glossar/cargohose/
 aliases:
-  - /rus/glossar/cargohose/
-  - /rus/glossariy/kargo-bryuki/
-  - /ru/glossar/cargohose/
+  - /glossar/cargohose/
+  - /glossariy/kargo-bryuki/
 history:
   - Карго-брюки произошли от военной и рабочей одежды, в которой вместительные карманы решали практическую задачу переноски необходимых предметов.
   - "В повседневную моду модель вошла как утилитарная вещь и со временем получила множество интерпретаций: от свободных городских до более лаконичных вариантов."

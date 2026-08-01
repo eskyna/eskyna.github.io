@@ -5,8 +5,7 @@ description: "Мидриф-флоссинг, или Midriff Flossing, это п�
 slug: "midriff-flossing"
 url: "/rus/glossariy/midriff-flossing/"
 aliases:
-  - "/rus/glossar/midriff-flossing/"
-  - "/ru/glossar/midriff-flossing/"
+  - /glossar/midriff-flossing/
 category: "Стиль и впечатление"
 tags:
   - "мидриф-флоссинг"

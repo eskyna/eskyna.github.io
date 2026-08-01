@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/low-light-kontrast/
 aliases:
-  - /en/glossar/low-light-kontrast/
-  - /glossary/low-light-kontrast/
+  - /glossar/low-light-kontrast/
 image: images/glossar/low-light-kontrast.png
 image_alt: "An evening outfit with a luminous top and dark trousers in softly lit surroundings"
 relatedTerms:

@@ -9,8 +9,7 @@ image: "images/glossar/spaghettitraeger.png"
 image_alt: "Топ с тонкими бретелями на плечах"
 url: /rus/glossariy/spaghettitraeger/
 aliases:
-  - /rus/glossar/spaghettitraeger/
-  - /ru/glossar/spaghettitraeger/
+  - /glossar/spaghettitraeger/
 lastmod: "2026-07-22"
 tags:
   - тонкие бретели

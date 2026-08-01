@@ -9,8 +9,7 @@ image: "images/glossar/damast.png"
 image_alt: "Ткань дамаст с вытканным орнаментальным узором"
 url: /rus/glossariy/damast/
 aliases:
-  - /rus/glossar/damast/
-  - /ru/glossar/damast/
+  - /glossar/damast/
 tags:
   - дамаст
   - ткани

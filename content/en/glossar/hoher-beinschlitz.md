@@ -9,8 +9,7 @@ image: "images/glossar/hoher-beinschlitz.png"
 image_alt: "Glossary illustration of a dress with a high leg slit"
 url: /en/glossary/hoher-beinschlitz/
 aliases:
-  - /en/glossar/hoher-beinschlitz/
-  - /glossary/hoher-beinschlitz/
+  - /glossar/hoher-beinschlitz/
 tags:
   - high leg slit
   - dress details

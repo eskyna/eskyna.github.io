@@ -34,8 +34,7 @@ seoTitle: "Список желаний для гардероба | ESKYNA"
 slug: spisok-zhelaniy
 url: /rus/glossariy/spisok-zhelaniy/
 aliases:
-  - /rus/glossar/wunschliste/
-  - /ru/glossar/wunschliste/
+  - /glossar/wunschliste/
 lastmod: "2026-07-09"
 knowledge:
   - "Список желаний не является обязательством купить все вещи из него: он помогает выдержать паузу перед покупкой и проверить реальную потребность."

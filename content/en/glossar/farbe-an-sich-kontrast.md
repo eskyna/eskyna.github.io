@@ -9,8 +9,7 @@ image: "images/glossar/farbe-an-sich-kontrast.png"
 image_alt: "Glossary illustration showing strong hue contrast between distinct colors"
 url: /en/glossary/farbe-an-sich-kontrast/
 aliases:
-  - /en/glossar/farbe-an-sich-kontrast/
-  - /glossary/farbe-an-sich-kontrast/
+  - /glossar/farbe-an-sich-kontrast/
 tags:
   - hue contrast
   - color contrast

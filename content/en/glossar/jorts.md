@@ -9,8 +9,7 @@ image: "images/glossar/jorts.png"
 image_alt: "Denim jorts styled with a simple top and casual shoes"
 url: /en/glossary/jorts/
 aliases:
-  - /en/glossar/jorts/
-  - /glossary/jorts/
+  - /glossar/jorts/
 tags:
   - jorts
   - denim shorts

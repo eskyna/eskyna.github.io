@@ -22,8 +22,7 @@ keywords:
 slug: parisian-chic
 url: /en/glossary/parisian-chic/
 aliases:
-  - /en/glossar/parisian-chic/
-  - /glossary/parisian-chic/
+  - /glossar/parisian-chic/
 image_alt: Editorial illustration of a polished Parisian Chic outfit with tailored separates and understated accessories
 relatedTerms:
   - title: Personal Style

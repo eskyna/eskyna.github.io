@@ -21,8 +21,7 @@ keywords:
 slug: tartan
 url: /en/glossary/tartan/
 aliases:
-  - /en/glossar/tartan/
-  - /glossary/tartan/
+  - /glossar/tartan/
 image_alt: Red and green tartan check pattern with intersecting woven stripes
 relatedTerms:
   - title: Check Pattern

@@ -19,8 +19,7 @@ weight: 999
 image: "images/glossar/rich-girl-aesthetic.png"
 image_alt: "Светлый элегантный образ в нейтральных оттенках с лаконичной сумкой"
 aliases:
-  - "/rus/glossar/rich-girl-aesthetic/"
-  - "/ru/glossar/rich-girl-aesthetic/"
+  - /glossar/rich-girl-aesthetic/
 relatedTerms:
   - title: "Тихая роскошь"
     url: "/ru/glossar/quiet-luxury/"

@@ -4,8 +4,7 @@ term: "Температура оттенка"
 slug: farbton-temperatur
 url: /rus/glossariy/farbton-temperatur/
 aliases:
-  - /rus/glossar/farbton-temperatur/
-  - /ru/glossar/farbton-temperatur/
+  - /glossar/farbton-temperatur/
 description: "Температура оттенка показывает, воспринимается ли конкретный цвет в одежде как тёплый или холодный. Она помогает точнее выбирать цвета у лица, сочетать вещи и понимать, почему два похожих оттенка дают разное впечатление."
 category: "Консультация по цвету и цвет"
 tags:

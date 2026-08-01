@@ -9,8 +9,7 @@ image: "images/glossar/french-terry.png"
 image_alt: "Трикотаж French terry с гладкой лицевой стороной и петлями на изнанке"
 url: /rus/glossariy/french-terry/
 aliases:
-  - /rus/glossar/french-terry/
-  - /ru/glossar/french-terry/
+  - /glossar/french-terry/
 tags:
   - french-terry
   - футер-петля

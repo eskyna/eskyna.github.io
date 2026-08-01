@@ -40,9 +40,8 @@ seoTitle: "Коричневый цвет в одежде: значение и с
 slug: korichnevyy
 url: /ru/glossar/braun/
 aliases:
-  - /rus/glossar/braun/
-  - /ru/glossar/braun/
-  - /rus/glossariy/korichnevyy/
+  - /glossar/braun/
+  - /glossariy/korichnevyy/
 lastmod: "2026-07-09"
 knowledge:
   - "Коричневый охватывает широкий спектр оттенков: от светлого бежево-коричневого и карамельного до глубокого шоколадного."

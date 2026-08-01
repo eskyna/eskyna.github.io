@@ -20,8 +20,7 @@ keywords:
 slug: style-identity
 url: /en/glossary/style-identity/
 aliases:
-  - /en/glossar/stilidentitaet/
-  - /glossary/style-identity/
+  - /glossar/stilidentitaet/
 image_alt: Editorial illustration representing a clear and personal style identity through coordinated clothing
 relatedTerms:
   - title: Personal Style

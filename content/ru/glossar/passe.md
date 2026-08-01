@@ -16,8 +16,7 @@ keywords:
 slug: passe
 url: /rus/glossariy/passe/
 aliases:
-  - /rus/glossar/passe/
-  - /ru/glossar/passe/
+  - /glossar/passe/
 lastmod: "2026-07-18"
 relatedTerms:
   - title: "Крой"

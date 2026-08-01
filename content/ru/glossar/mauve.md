@@ -23,8 +23,7 @@ keywords:
 slug: mauve
 url: /rus/glossariy/mauve/
 aliases:
-  - /rus/glossar/mauve/
-  - /ru/glossar/mauve/
+  - /glossar/mauve/
 relatedTerms:
   - title: "Пудрово-розовый и пыльная роза"
     url: /ru/glossar/puderrosa-und-altrosa/

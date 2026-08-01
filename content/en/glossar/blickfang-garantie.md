@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/blickfang-garantie/"
 aliases:
-  - "/en/glossar/blickfang-garantie/"
-  - "/glossary/blickfang-garantie/"
+  - /glossar/blickfang-garantie/
 image: "images/glossar/blickfang-garantie.png"
 image_alt: "A simple black outfit with a bright red handbag as the focal point"
 relatedTerms:

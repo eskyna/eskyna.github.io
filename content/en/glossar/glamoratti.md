@@ -21,8 +21,7 @@ keywords:
 slug: glamoratti
 url: /en/glossary/glamoratti/
 aliases:
-  - /en/glossar/glamoratti/
-  - /glossary/glamoratti/
+  - /glossar/glamoratti/
 image_alt: Editorial glossary illustration representing a polished, glamorous personal style
 relatedTerms:
   - title: 80s Luxury

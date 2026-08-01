@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/paperbag-bund/
 aliases:
-  - /rus/glossar/paperbag-bund/
-  - /ru/glossar/paperbag-bund/
+  - /glossar/paperbag-bund/
 image: images/glossar/paperbag-bund.png
 image_alt: Брюки с высокой присборенной талией и поясом paperbag
 relatedTerms:

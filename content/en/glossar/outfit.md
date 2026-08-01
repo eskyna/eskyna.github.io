@@ -21,8 +21,7 @@ keywords:
 slug: outfit
 url: /en/glossary/outfit/
 aliases:
-  - /en/glossar/outfit/
-  - /glossary/outfit/
+  - /glossar/outfit/
 image_alt: Editorial illustration showing a coordinated outfit with clothing, shoes, and accessories
 relatedTerms:
   - title: Look

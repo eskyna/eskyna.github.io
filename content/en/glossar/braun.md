@@ -23,8 +23,7 @@ keywords:
 slug: brown
 url: /en/glossary/brown/
 aliases:
-  - /en/glossar/braun/
-  - /glossary/brown/
+  - /glossar/braun/
 image_alt: Editorial glossary illustration showing a rich brown color swatch
 relatedTerms:
   - title: Beige

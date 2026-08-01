@@ -22,8 +22,7 @@ keywords:
 slug: art-deco-evening-neo-deco
 url: /en/glossary/art-deco-evening-neo-deco/
 aliases:
-  - /en/glossar/art-deco-evening-neo-deco/
-  - /glossary/art-deco-evening-neo-deco/
+  - /glossar/art-deco-evening-neo-deco/
 relatedTerms:
   - title: Evening Wear
     url: /en/glossar/abendgarderobe/

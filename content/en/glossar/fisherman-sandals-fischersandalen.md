@@ -21,8 +21,7 @@ keywords:
 slug: fisherman-sandals-fischersandalen
 url: /en/glossary/fisherman-sandals-fischersandalen/
 aliases:
-  - /en/glossar/fisherman-sandals-fischersandalen/
-  - /glossary/fisherman-sandals-fischersandalen/
+  - /glossar/fisherman-sandals-fischersandalen/
 relatedTerms:
   - title: Sandal
     url: /en/glossar/sandale/

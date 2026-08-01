@@ -5,8 +5,7 @@ description: "Бандо-бикини это раздельный купальн
 slug: "bandeau-bikini"
 url: "/rus/glossariy/bandeau-bikini/"
 aliases:
-  - "/rus/glossar/bandeau-bikini/"
-  - "/ru/glossar/bandeau-bikini/"
+  - /glossar/bandeau-bikini/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - "бандо-бикини"

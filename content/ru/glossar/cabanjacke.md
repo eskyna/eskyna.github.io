@@ -34,8 +34,7 @@ seoTitle: "Морское пальто: что это, как выбрать и 
 slug: morskoe-palto
 url: /rus/glossariy/morskoe-palto/
 aliases:
-  - /rus/glossar/cabanjacke/
-  - /ru/glossar/cabanjacke/
+  - /glossar/cabanjacke/
 lastmod: "2026-07-09"
 history:
   - "Морское пальто связано с формой моряков: короткая длина и двубортная застёжка отвечали требованиям службы в прохладную и ветреную погоду."

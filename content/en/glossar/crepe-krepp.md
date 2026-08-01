@@ -15,8 +15,7 @@ keywords:
 slug: crepe-krepp
 url: /en/glossary/crepe-krepp/
 aliases:
-  - /en/glossar/crepe-krepp/
-  - /glossary/crepe-krepp/
+  - /glossar/crepe-krepp/
 relatedTerms:
   - title: "Fabric Drape"
     url: /en/glossar/materialfall/

@@ -32,9 +32,8 @@ seoTitle: "Летний клатч: значение и применение | �
 slug: letniy-klatch
 url: /rus/glossariy/letniy-klatch/
 aliases:
-  - /rus/glossar/summer-clutch/
-  - /ru/glossar/summer-clutch/
-  - /rus/glossariy/summer-clutch/
+  - /glossar/summer-clutch/
+  - /glossariy/summer-clutch/
 image_alt: "Летний клатч из лёгкого материала для праздничного образа"
 lastmod: "2026-07-09"
 knowledge:

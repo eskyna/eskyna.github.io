@@ -18,8 +18,7 @@ keywords:
 slug: matur-gsm
 url: /en/glossary/matur-gsm/
 aliases:
-  - /en/glossar/matur-gsm/
-  - /glossary/matur-gsm/
+  - /glossar/matur-gsm/
 weight: 999
 image: images/glossar/matur-gsm.png
 image_alt: Rolled fabrics in different weights placed side by side

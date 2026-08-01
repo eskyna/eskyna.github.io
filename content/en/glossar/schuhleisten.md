@@ -9,8 +9,7 @@ image: "images/glossar/schuhleisten.png"
 image_alt: "Illustration of a foot-shaped shoe last used in shoe construction"
 url: /en/glossary/schuhleisten/
 aliases:
-  - /en/glossar/schuhleisten/
-  - /glossary/schuhleisten/
+  - /glossar/schuhleisten/
 tags:
   - shoe last
   - shoe fit

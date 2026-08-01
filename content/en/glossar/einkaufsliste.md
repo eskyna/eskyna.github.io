@@ -22,8 +22,7 @@ keywords:
 slug: shopping-list
 url: /en/glossary/shopping-list/
 aliases:
-  - /en/glossar/einkaufsliste/
-  - /glossary/shopping-list/
+  - /glossar/einkaufsliste/
 image_alt: Editorial illustration of a wardrobe shopping list with planned clothing items
 relatedTerms:
   - title: Buying Criteria

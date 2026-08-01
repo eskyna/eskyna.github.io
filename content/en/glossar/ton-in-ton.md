@@ -22,8 +22,7 @@ keywords:
 slug: tone-on-tone
 url: /en/glossary/tone-on-tone/
 aliases:
-  - /en/glossar/ton-in-ton/
-  - /glossary/tone-on-tone/
+  - /glossar/ton-in-ton/
 image_alt: Editorial illustration of a coordinated tone-on-tone outfit in closely related shades
 relatedTerms:
   - title: Monochrome

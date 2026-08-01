@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/textur-kontrastierung/
 aliases:
-  - /en/glossar/textur-kontrastierung/
-  - /glossary/textur-kontrastierung/
+  - /glossar/textur-kontrastierung/
 image: images/glossar/textur-kontrastierung.png
 image_alt: "A cream knit sweater styled with smooth trousers and a suede bag"
 relatedTerms:

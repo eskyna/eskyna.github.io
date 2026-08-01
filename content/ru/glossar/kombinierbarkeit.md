@@ -34,8 +34,7 @@ seoTitle: "Сочетаемость одежды | ESKYNA Glossary"
 slug: sochetaemost
 url: /ru/glossar/kombinierbarkeit/
 aliases:
-  - /rus/glossar/kombinierbarkeit/
-  - /ru/glossar/kombinierbarkeit/
+  - /glossar/kombinierbarkeit/
 lastmod: "2026-07-09"
 knowledge:
   - Сочетаемость зависит не только от цвета вещей, но и от их силуэта, степени формальности, фактуры, сезона и вашего образа жизни.

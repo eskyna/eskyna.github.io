@@ -21,8 +21,7 @@ keywords:
 slug: color-clash-farb-clash
 url: /en/glossary/color-clash-farb-clash/
 aliases:
-  - /en/glossar/color-clash-farb-clash/
-  - /glossary/color-clash-farb-clash/
+  - /glossar/color-clash-farb-clash/
 relatedTerms:
   - title: Color Blocking
     url: /en/glossar/color-blocking/

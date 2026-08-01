@@ -4,8 +4,7 @@ term: Tactile Styling
 slug: taktiles-styling
 url: /en/glossary/taktiles-styling/
 aliases:
-  - /en/glossar/taktiles-styling/
-  - /glossary/taktiles-styling/
+  - /glossar/taktiles-styling/
 description: "Tactile styling is the deliberate use of fabrics and finishes that feel pleasant to touch and wear. It uses texture, softness, warmth, smoothness, and surface quality to make an outfit feel as considered as it looks."
 category: Style & Impact
 subcategory: Materials & Details

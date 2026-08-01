@@ -5,8 +5,7 @@ description: "A butt-lifter fit is a high-waisted garment construction with targ
 slug: "butt-lifter-passform"
 url: "/en/glossary/butt-lifter-passform/"
 aliases:
-  - "/en/glossar/butt-lifter-passform/"
-  - "/glossary/butt-lifter-passform/"
+  - /glossar/butt-lifter-passform/
 category: "Cut, Proportion & Fit"
 tags:
   - "butt-lifter fit"

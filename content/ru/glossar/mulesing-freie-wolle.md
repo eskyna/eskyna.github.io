@@ -32,9 +32,8 @@ seoTitle: "Шерсть без мьюлесинга: что это значит 
 slug: sherst-bez-myulesinga
 url: /rus/glossariy/sherst-bez-myulesinga/
 aliases:
-  - /rus/glossar/mulesing-freie-wolle/
-  - /ru/glossar/mulesing-freie-wolle/
-  - /rus/glossariy/sherst-bez-mulesing/
+  - /glossar/mulesing-freie-wolle/
+  - /glossariy/sherst-bez-mulesing/
 image_alt: "Шерстяная пряжа как пример материала без мьюлесинга"
 lastmod: "2026-07-09"
 history:

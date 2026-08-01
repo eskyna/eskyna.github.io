@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/digitaler-kleiderschrank/
 aliases:
-  - /rus/glossar/digitaler-kleiderschrank/
-  - /ru/glossar/digitaler-kleiderschrank/
+  - /glossar/digitaler-kleiderschrank/
 image: images/glossar/digitaler-kleiderschrank.png
 image_alt: Смартфон с каталогом одежды и составленными образами
 relatedTerms:

@@ -34,8 +34,7 @@ seoTitle: "Рюша: что это такое в одежде и как носи
 slug: ryusha
 url: /rus/glossariy/ryusha/
 aliases:
-  - /rus/glossar/ruesche/
-  - /ru/glossar/ruesche/
+  - /glossar/ruesche/
 lastmod: "2026-07-09"
 knowledge:
   - Рюшу обычно получают, присобирая одну сторону полосы ткани и притачивая её к изделию.

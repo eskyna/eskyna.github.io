@@ -9,8 +9,7 @@ image: "images/glossar/nipple-covers.png"
 image_alt: "Glossary illustration showing discreet nipple covers and pasties for use under clothing"
 url: /en/glossary/nipple-covers/
 aliases:
-  - /en/glossar/nipple-covers/
-  - /glossary/nipple-covers/
+  - /glossar/nipple-covers/
 tags:
   - nipple covers
   - pasties

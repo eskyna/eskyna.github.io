@@ -23,8 +23,7 @@ keywords:
 slug: wardrobe-logic
 url: /en/glossary/wardrobe-logic/
 aliases:
-  - /en/glossar/garderobenlogik/
-  - /glossary/wardrobe-logic/
+  - /glossar/garderobenlogik/
 image_alt: Editorial illustration showing connected wardrobe pieces, colors, and outfit combinations
 relatedTerms:
   - title: Wardrobe Planning

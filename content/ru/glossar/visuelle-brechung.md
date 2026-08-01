@@ -5,8 +5,7 @@ description: "Визуальный разрыв это осознанное на
 slug: visuelle-brechung
 url: /rus/glossariy/visuelle-brechung/
 aliases:
-  - /rus/glossar/visuelle-brechung/
-  - /ru/glossar/visuelle-brechung/
+  - /glossar/visuelle-brechung/
 category: Стиль и впечатление
 tags:
   - визуальный-разрыв

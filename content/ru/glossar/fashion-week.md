@@ -15,8 +15,7 @@ keywords:
 slug: fashion-week
 url: /rus/glossariy/fashion-week/
 aliases:
-  - /rus/glossar/fashion-week/
-  - /ru/glossar/fashion-week/
+  - /glossar/fashion-week/
 tags:
   - fashion-week
   - показы-мод

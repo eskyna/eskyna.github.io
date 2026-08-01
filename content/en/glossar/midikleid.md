@@ -20,8 +20,7 @@ keywords:
 slug: midi-dress
 url: /en/glossary/midi-dress/
 aliases:
-  - /en/glossar/midikleid/
-  - /glossary/midi-dress/
+  - /glossar/midikleid/
 image_alt: Editorial illustration of a midi dress with a hem between the knee and ankle
 relatedTerms:
   - title: Midi Skirt

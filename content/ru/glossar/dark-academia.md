@@ -37,9 +37,8 @@ seoTitle: "Темная академия | ESKYNA Glossary"
 slug: temnaya-akademiya
 url: /rus/glossariy/temnaya-akademiya/
 aliases:
-  - /rus/glossar/dark-academia/
-  - /ru/glossar/dark-academia/
-  - /rus/glossariy/dark-academia/
+  - /glossar/dark-academia/
+  - /glossariy/dark-academia/
 image_alt: "Образ в эстетике темной академии с темным твидом, классической рубашкой и винтажными деталями"
 lastmod: "2026-07-09"
 history:

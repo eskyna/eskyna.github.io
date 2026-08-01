@@ -5,8 +5,7 @@ description: "Ахроматический стайлинг это постро�
 slug: achromatisches-styling
 url: /rus/glossariy/achromatisches-styling/
 aliases:
-  - /rus/glossar/achromatisches-styling/
-  - /ru/glossar/achromatisches-styling/
+  - /glossar/achromatisches-styling/
 category: Стиль и впечатление
 tags:
   - ахроматический-стайлинг

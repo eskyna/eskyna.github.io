@@ -34,10 +34,9 @@ seoTitle: "Лодочки: что это такое, как выбрать и н
 slug: lodochki
 url: /ru/glossar/pumps/
 aliases:
-  - /rus/glossar/pumps/
-  - /ru/glossar/pumps/
-  - /rus/glossariy/pumps/
-  - /rus/glossariy/lodochki/
+  - /glossar/pumps/
+  - /glossariy/pumps/
+  - /glossariy/lodochki/
 lastmod: "2026-07-09"
 knowledge:
   - Лодочки различаются по высоте и форме каблука, форме мыска, глубине выреза и материалу, поэтому одна и та же модель может выглядеть деловой, повседневной или вечерней.

@@ -35,8 +35,7 @@ seoTitle: "Дресс-код | Style & Image ESKYNA"
 slug: dress-kod
 url: /rus/glossariy/dress-kod/
 aliases:
-  - /rus/glossar/dresscode/
-  - /ru/glossar/dresscode/
+  - /glossar/dresscode/
 lastmod: "2026-07-09"
 history:
   - Дресс-коды выросли из социальных, профессиональных и церемониальных норм, которые обозначали уместную одежду для разных ситуаций.

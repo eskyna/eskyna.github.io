@@ -4,8 +4,7 @@ term: "Непринуждённый шик"
 slug: effortless-chic
 url: /rus/glossariy/effortless-chic/
 aliases:
-  - /rus/glossar/effortless-chic/
-  - /ru/glossar/effortless-chic/
+  - /glossar/effortless-chic/
 description: "Непринуждённый шик, или Effortless Chic, это стиль, в котором образ выглядит элегантно, современно и естественно, без ощущения чрезмерной выверенности."
 category: "Стиль и впечатление"
 tags:

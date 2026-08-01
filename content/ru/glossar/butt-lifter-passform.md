@@ -5,8 +5,7 @@ description: "Посадка Butt-Lifter это конструкция одеж�
 slug: butt-lifter-passform
 url: /rus/glossariy/butt-lifter-passform/
 aliases:
-  - /rus/glossar/butt-lifter-passform/
-  - /ru/glossar/butt-lifter-passform/
+  - /glossar/butt-lifter-passform/
 category: Крой, пропорции и посадка
 tags:
   - посадка

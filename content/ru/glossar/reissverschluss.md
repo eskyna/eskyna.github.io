@@ -32,8 +32,7 @@ seoTitle: "Молния: значение, виды и применение | Г
 slug: molniya
 url: /rus/glossariy/molniya/
 aliases:
-  - /rus/glossar/reissverschluss/
-  - /ru/glossar/reissverschluss/
+  - /glossar/reissverschluss/
 lastmod: "2026-07-09"
 history:
   - Современная застёжка-молния развивалась на рубеже XIX и XX веков как более быстрый способ застёгивания одежды и обуви.

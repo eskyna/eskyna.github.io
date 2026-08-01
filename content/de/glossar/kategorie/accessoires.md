@@ -38,6 +38,8 @@ glossar_filter_terms:
   - tote-bag
   - uhr
 url: "/glossar/kategorie/accessoires/"
+aliases:
+  - /glossar/accessoires/
 seoTitle: "Accessoires: Taschen, Schmuck, Gürtel & Tücher | ESKYNA"
 image: images/glossar/kategorie/materialien-details.png
 tags:

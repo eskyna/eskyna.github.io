@@ -9,8 +9,7 @@ image: "images/glossar/blokette-aesthetic.png"
 image_alt: "Glossary illustration of a Blokette Aesthetic outfit combining a football jersey, feminine skirt, and ballet flats"
 url: /en/glossary/blokette-aesthetic/
 aliases:
-  - /en/glossar/blokette-aesthetic/
-  - /glossary/blokette-aesthetic/
+  - /glossar/blokette-aesthetic/
 tags:
   - blokette aesthetic
   - blokecore

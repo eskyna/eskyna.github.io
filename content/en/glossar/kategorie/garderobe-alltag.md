@@ -7,8 +7,8 @@ glossar_category: Wardrobe & Everyday Style
 url: /en/glossary/category/wardrobe-everyday-style/
 seoTitle: Wardrobe & Everyday Style | ESKYNA Glossary
 aliases:
-  - /en/glossar/kategorie/garderobe-alltag/
-  - /glossary/category/wardrobe-everyday-style/
+  - /glossar/kategorie/garderobe-alltag/
+  - /glossar/garderobe-alltag/
 relatedTerms:
   - title: Wardrobe
     url: /en/glossar/garderobe/

@@ -22,8 +22,7 @@ keywords:
 slug: office-look
 url: /en/glossary/office-look/
 aliases:
-  - /en/glossar/office-look/
-  - /glossary/office-look/
+  - /glossar/office-look/
 image_alt: Professional office outfit with tailored separates in a calm, polished color palette
 relatedTerms:
   - title: Business Casual

@@ -15,8 +15,7 @@ keywords:
 slug: smoking
 url: /rus/glossariy/smoking/
 aliases:
-  - /rus/glossar/smoking/
-  - /ru/glossar/smoking/
+  - /glossar/smoking/
 tags:
   - "смокинг"
   - "black tie"

@@ -39,8 +39,7 @@ seoTitle: "Нейтральные цвета: значение и примене
 slug: neytralnye-tsveta
 url: /rus/glossariy/neytralnye-tsveta/
 aliases:
-  - /rus/glossar/neutrale-farben/
-  - /ru/glossar/neutrale-farben/
+  - /glossar/neutrale-farben/
 lastmod: "2026-07-09"
 knowledge:
   - Нейтральность цвета не означает, что оттенок подходит всем. У бежевого, серого, белого и коричневого бывают тёплые, холодные и нейтральные варианты.

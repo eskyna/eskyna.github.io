@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/fokus-betonung/
 aliases:
-  - /en/glossar/fokus-betonung/
-  - /glossary/fokus-betonung/
+  - /glossar/fokus-betonung/
 image: images/glossar/fokus-betonung.png
 image_alt: "A black outfit with an open back creating one clear focal point"
 relatedTerms:

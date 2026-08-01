@@ -4,8 +4,7 @@ term: "Color Saturation Grading"
 slug: "farb-saettigungs-grading"
 url: "/en/glossary/farb-saettigungs-grading/"
 aliases:
-  - "/en/glossar/farb-saettigungs-grading/"
-  - "/glossary/farb-saettigungs-grading/"
+  - /glossar/farb-saettigungs-grading/
 description: "Color saturation grading is the process of matching the intensity of clothing colors to the natural clarity and brightness of the skin, eyes, and hair."
 category: "Color Consultation & Color"
 subcategory: "Color Consultation & Color"

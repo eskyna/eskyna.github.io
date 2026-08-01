@@ -9,8 +9,7 @@ image: "images/glossar/einlaufen.png"
 image_alt: "Иллюстрация усадки одежды после стирки"
 url: /rus/glossariy/einlaufen/
 aliases:
-  - /rus/glossar/einlaufen/
-  - /ru/glossar/einlaufen/
+  - /glossar/einlaufen/
 tags:
   - усадка
   - уход за одеждой

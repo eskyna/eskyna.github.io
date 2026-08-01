@@ -21,8 +21,7 @@ keywords:
 slug: retro-clog
 url: /en/glossary/retro-clog/
 aliases:
-  - /en/glossar/retro-clog/
-  - /glossary/retro-clog/
+  - /glossar/retro-clog/
 image_alt: Editorial illustration of retro clogs with a rounded toe and substantial sole
 relatedTerms:
   - title: Mule

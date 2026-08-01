@@ -4,8 +4,7 @@ term: "Смещение линии талии"
 slug: taillen-offset
 url: /rus/glossariy/taillen-offset/
 aliases:
-  - /rus/glossar/taillen-offset/
-  - /ru/glossar/taillen-offset/
+  - /glossar/taillen-offset/
 description: "Смещение линии талии это осознанное расположение визуального центра образа выше или ниже естественной талии для работы с пропорциями, длиной корпуса и ног."
 category: "Крой, пропорции и посадка"
 tags:

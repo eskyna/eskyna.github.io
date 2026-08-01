@@ -4,8 +4,7 @@ term: High-Apex Bikini
 description: "A high-apex bikini is a bikini top with straps that begin high on the cups, creating a longer-looking neckline and a modern, elegant silhouette."
 url: /en/glossary/high-apex-bikini/
 aliases:
-  - /en/glossar/high-apex-bikini/
-  - /glossary/high-apex-bikini/
+  - /glossar/high-apex-bikini/
 category: Lingerie, Bras & Styling Aids
 tags:
   - high-apex bikini

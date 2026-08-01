@@ -34,8 +34,7 @@ seoTitle: "Балетки: что это, как выбрать и носить 
 slug: baletki
 url: /rus/glossariy/baletki/
 aliases:
-  - /rus/glossar/ballerina/
-  - /ru/glossar/ballerina/
+  - /glossar/ballerina/
 lastmod: "2026-07-09"
 knowledge:
   - Балетки различаются по форме мыса, глубине выреза, материалу, наличию ремешка и конструкции подошвы.

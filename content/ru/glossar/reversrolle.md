@@ -19,8 +19,7 @@ weight: 999
 image: images/glossar/reversrolle.png
 image_alt: Мягкий изгиб лацкана пиджака от воротника к верхней пуговице
 aliases:
-  - /rus/glossar/reversrolle/
-  - /ru/glossar/reversrolle/
+  - /glossar/reversrolle/
 relatedTerms:
   - title: Лацкан
     url: /ru/glossar/revers/

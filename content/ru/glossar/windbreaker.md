@@ -8,8 +8,7 @@ image_alt: "Лёгкий виндбрейкер с застёжкой-молни
 slug: windbreaker
 url: /rus/glossariy/windbreaker/
 aliases:
-  - /rus/glossar/windbreaker/
-  - /ru/glossar/windbreaker/
+  - /glossar/windbreaker/
 tags:
   - виндбрейкер
   - ветровка

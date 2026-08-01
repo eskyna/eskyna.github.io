@@ -15,8 +15,7 @@ keywords:
 slug: acetat
 url: /en/glossary/acetat/
 aliases:
-  - /en/glossar/acetat/
-  - /glossary/acetat/
+  - /glossar/acetat/
 relatedTerms:
   - title: "Viscose"
     url: /en/glossar/viskose/

@@ -4,8 +4,7 @@ term: "Bikini Proportion Check"
 slug: "bikini-proportionen-check"
 url: "/en/glossary/bikini-proportionen-check/"
 aliases:
-  - "/en/glossar/bikini-proportionen-check/"
-  - "/glossary/bikini-proportionen-check/"
+  - /glossar/bikini-proportionen-check/
 description: "A Bikini Proportion Check helps match bikini cuts, coverage, strap placement, color, and pattern scale to your proportions, comfort needs, and personal style."
 category: "Lingerie, Bras & Styling Aids"
 tags:

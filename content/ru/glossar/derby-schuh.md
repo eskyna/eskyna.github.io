@@ -14,8 +14,7 @@ keywords:
 slug: derby-schuh
 url: /rus/glossariy/derby-schuh/
 aliases:
-  - /rus/glossar/derby-schuh/
-  - /ru/glossar/derby-schuh/
+  - /glossar/derby-schuh/
 tags:
   - дерби
   - классическая обувь

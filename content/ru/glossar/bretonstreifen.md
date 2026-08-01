@@ -37,9 +37,8 @@ seoTitle: "Бретонская полоска: значение, история
 slug: bretonskaya-poloska
 url: /ru/glossar/bretonstreifen/
 aliases:
-  - /rus/glossar/bretonstreifen/
-  - /ru/glossar/bretonstreifen/
-  - /rus/glossariy/bretonskaya-poloska/
+  - /glossar/bretonstreifen/
+  - /glossariy/bretonskaya-poloska/
 lastmod: "2026-07-09"
 history:
   - Бретонская полоска связана с морской одеждой французского побережья и формой французских моряков XIX века.

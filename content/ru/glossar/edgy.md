@@ -35,9 +35,8 @@ seoTitle: "Дерзкий стиль: значение, признаки и со
 slug: derzkiy
 url: /ru/glossar/edgy/
 aliases:
-  - /rus/glossar/edgy/
-  - /ru/glossar/edgy/
-  - /rus/glossariy/derzkiy/
+  - /glossar/edgy/
+  - /glossariy/derzkiy/
 lastmod: "2026-07-09"
 history:
   - "Дерзкая эстетика неоднократно появлялась в моде через молодёжные субкультуры, панк, рок, клубную сцену и авангардный дизайн."

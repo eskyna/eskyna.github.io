@@ -35,9 +35,8 @@ seoTitle: "Коттеджкор: что это за стиль в одежде |
 slug: kottedzhkor
 url: /rus/glossariy/kottedzhkor/
 aliases:
-  - /rus/glossar/cottagecore/
-  - /ru/glossar/cottagecore/
-  - /rus/glossariy/cottagecore/
+  - /glossar/cottagecore/
+  - /glossariy/cottagecore/
 image_alt: "Образ в эстетике коттеджкор с цветочным платьем и натуральными фактурами"
 lastmod: "2026-07-09"
 history:

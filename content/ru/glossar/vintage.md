@@ -35,8 +35,7 @@ seoTitle: "Винтаж: что это такое, отличие от ретр�
 slug: vintazh
 url: /rus/glossariy/vintazh/
 aliases:
-  - /rus/glossar/vintage/
-  - /ru/glossar/vintage/
+  - /glossar/vintage/
 lastmod: "2026-07-09"
 history:
   - "Термин «винтаж» пришёл в моду из виноделия, где им обозначают урожай определённого года."

@@ -23,8 +23,7 @@ keywords:
 slug: ocker
 url: /rus/glossariy/ocker/
 aliases:
-  - /rus/glossar/ocker/
-  - /ru/glossar/ocker/
+  - /glossar/ocker/
 relatedTerms:
   - title: "Горчичный"
     url: /ru/glossar/senfgelb/

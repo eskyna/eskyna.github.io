@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing ready-to-wear clothing size labels and 
 slug: konfektionsgroesse
 url: /en/glossary/konfektionsgroesse/
 aliases:
-  - /en/glossar/konfektionsgroesse/
-  - /glossary/konfektionsgroesse/
+  - /glossar/konfektionsgroesse/
 tags:
   - ready-to-wear size
   - clothing size

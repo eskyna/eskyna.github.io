@@ -21,8 +21,7 @@ keywords:
 slug: cream-white
 url: /en/glossary/cream-white/
 aliases:
-  - /en/glossar/cremeweiss/
-  - /glossary/cream-white/
+  - /glossar/cremeweiss/
 image_alt: Editorial illustration showing cream white fabric and warm off-white color swatches
 relatedTerms:
   - title: Cream

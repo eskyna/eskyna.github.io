@@ -16,8 +16,7 @@ keywords:
 slug: kostuem-jacke-rock-ensemble
 url: /en/glossary/kostuem-jacke-rock-ensemble/
 aliases:
-  - /en/glossar/kostuem-jacke-rock-ensemble/
-  - /glossary/kostuem-jacke-rock-ensemble/
+  - /glossar/kostuem-jacke-rock-ensemble/
 relatedTerms:
   - title: "Pants suit"
     url: /en/glossar/hosenanzug/

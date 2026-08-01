@@ -33,8 +33,7 @@ seoTitle: "Эластан: что это за материал и зачем е�
 slug: elastan
 url: /rus/glossariy/elastan/
 aliases:
-  - /rus/glossar/elasthan/
-  - /ru/glossar/elasthan/
+  - /glossar/elasthan/
 lastmod: "2026-07-09"
 knowledge:
   - Эластан обычно используют в небольшом проценте в смеси с другими волокнами, чтобы ткань лучше растягивалась и возвращалась к исходной форме.

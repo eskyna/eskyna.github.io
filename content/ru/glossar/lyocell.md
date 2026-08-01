@@ -36,9 +36,8 @@ seoTitle: "Лиоцелл: значение и применение | Глосс
 slug: liotsell
 url: /rus/glossariy/liotsell/
 aliases:
-  - /rus/glossar/lyocell/
-  - /ru/glossar/lyocell/
-  - /rus/glossariy/lyocell/
+  - /glossar/lyocell/
+  - /glossariy/lyocell/
 lastmod: "2026-07-09"
 knowledge:
   - Лиоцелл относится к волокнам на основе целлюлозы, а не к конкретному виду ткани или переплетению.

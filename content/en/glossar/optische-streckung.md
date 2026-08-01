@@ -21,8 +21,7 @@ keywords:
 slug: visual-elongation
 url: /en/glossary/visual-elongation/
 aliases:
-  - /en/glossar/optische-streckung/
-  - /glossary/visual-elongation/
+  - /glossar/optische-streckung/
 image_alt: Editorial illustration showing long vertical outfit lines and balanced proportions
 relatedTerms:
   - title: Vertical Line

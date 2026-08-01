@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: /en/glossary/nahtstruempfe/
 aliases:
-  - /en/glossar/nahtstruempfe/
-  - /glossary/nahtstruempfe/
+  - /glossar/nahtstruempfe/
 image: images/glossar/nahtstruempfe.png
 image_alt: Sheer black stockings with a narrow vertical seam at the back of the leg
 relatedTerms:

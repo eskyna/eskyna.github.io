@@ -21,8 +21,7 @@ keywords:
 slug: ballonhose-balloon-trousers
 url: /en/glossary/ballonhose-balloon-trousers/
 aliases:
-  - /en/glossar/ballonhose-balloon-trousers/
-  - /glossary/ballonhose-balloon-trousers/
+  - /glossar/ballonhose-balloon-trousers/
 relatedTerms:
   - title: Barrel Leg
     url: /en/glossar/barrel-leg/

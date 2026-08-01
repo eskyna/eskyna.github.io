@@ -21,8 +21,7 @@ keywords:
 slug: glasses
 url: /en/glossary/glasses/
 aliases:
-  - /en/glossar/brille/
-  - /glossary/glasses/
+  - /glossar/brille/
 image_alt: Editorial illustration of eyeglasses with a classic dark frame
 relatedTerms:
   - title: Sunglasses

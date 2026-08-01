@@ -37,8 +37,7 @@ seoTitle: "Мини-юбка: что это, длина и как носить |
 slug: mini-yubka
 url: /rus/glossariy/mini-yubka/
 aliases:
-  - /rus/glossar/minirock/
-  - /ru/glossar/minirock/
+  - /glossar/minirock/
 lastmod: "2026-07-09"
 history:
   - Мини-юбка стала одним из самых заметных символов молодежной моды 1960-х годов.

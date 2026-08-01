@@ -34,9 +34,8 @@ seoTitle: "Тонкая полоска | ESKYNA Glossary"
 slug: tonkaya-poloska
 url: /ru/glossar/nadelstreifen/
 aliases:
-  - /rus/glossar/nadelstreifen/
-  - /ru/glossar/nadelstreifen/
-  - /rus/glossariy/tonkaya-poloska/
+  - /glossar/nadelstreifen/
+  - /glossariy/tonkaya-poloska/
 lastmod: "2026-07-09"
 knowledge:
   - Тонкая полоска может быть тканой, напечатанной или образованной нитями другого цвета в структуре материала.

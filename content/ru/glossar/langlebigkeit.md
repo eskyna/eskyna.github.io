@@ -33,8 +33,7 @@ seoTitle: "Долговечность одежды | ESKYNA Glossary"
 slug: dolgovechnost
 url: /rus/glossariy/dolgovechnost/
 aliases:
-  - /rus/glossar/langlebigkeit/
-  - /ru/glossar/langlebigkeit/
+  - /glossar/langlebigkeit/
 image_alt: "Иллюстрация о долговечности одежды и осознанном гардеробе"
 lastmod: "2026-07-09"
 knowledge:

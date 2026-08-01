@@ -22,8 +22,7 @@ keywords:
 slug: hem
 url: /en/glossary/hem/
 aliases:
-  - /en/glossar/saum/
-  - /glossary/hem/
+  - /glossar/saum/
 image_alt: Close-up illustration of a finished garment hem at the edge of a skirt
 relatedTerms:
   - title: Hem Length

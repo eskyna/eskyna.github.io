@@ -34,8 +34,7 @@ seoTitle: "Ботинки по щиколотку | ESKYNA Glossary"
 slug: botinki-po-shchikolotku
 url: /rus/glossariy/botinki-po-shchikolotku/
 aliases:
-  - /rus/glossar/ankle-boots/
-  - /ru/glossar/ankle-boots/
+  - /glossar/ankle-boots/
 knowledge:
   - Ботинки по щиколотку образуют заметную горизонтальную линию в зоне щиколотки, поэтому длина низа и форма обуви существенно влияют на пропорции образа.
   - Модель может выглядеть повседневно, строго или нарядно в зависимости от материала, подошвы, высоты каблука и деталей.

@@ -38,8 +38,7 @@ seoTitle: "Логика гардероба: что это и как примен
 slug: logika-garderoba
 url: /rus/glossariy/logika-garderoba/
 aliases:
-  - /rus/glossar/garderobenlogik/
-  - /ru/glossar/garderobenlogik/
+  - /glossar/garderobenlogik/
 lastmod: "2026-07-09"
 knowledge:
   - "Логика гардероба строится не на количестве вещей, а на связях между ними: цветах, силуэтах, материалах, уровнях формальности и сценариях жизни."

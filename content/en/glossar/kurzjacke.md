@@ -21,8 +21,7 @@ keywords:
 slug: short-jacket
 url: /en/glossary/short-jacket/
 aliases:
-  - /en/glossar/kurzjacke/
-  - /glossary/short-jacket/
+  - /glossar/kurzjacke/
 relatedTerms:
   - title: Cropped Blazer
     url: /en/glossar/kurzblazer/

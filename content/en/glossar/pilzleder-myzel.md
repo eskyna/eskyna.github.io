@@ -4,8 +4,7 @@ term: Mushroom Leather
 slug: pilzleder-myzel
 url: /en/glossary/pilzleder-myzel/
 aliases:
-  - /en/glossar/pilzleder-myzel/
-  - /glossary/pilzleder-myzel/
+  - /glossar/pilzleder-myzel/
 description: Mushroom leather is a biobased material made from mycelium, the threadlike structure of fungi, and developed to create a leather-like surface for fashion accessories and clothing.
 category: Materials & Details
 tags:

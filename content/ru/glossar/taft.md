@@ -14,8 +14,7 @@ keywords:
 slug: taft
 url: /rus/glossariy/taft/
 aliases:
-  - /rus/glossar/taft/
-  - /ru/glossar/taft/
+  - /glossar/taft/
 relatedTerms:
   - title: "Сатин"
     url: /ru/glossar/satin/

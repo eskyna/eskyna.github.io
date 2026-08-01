@@ -35,8 +35,7 @@ seoTitle: "Капри: что это за брюки и как их носить
 slug: kapri
 url: /rus/glossariy/kapri/
 aliases:
-  - /rus/glossar/caprihose/
-  - /ru/glossar/caprihose/
+  - /glossar/caprihose/
 lastmod: "2026-07-09"
 history:
   - "Название связано с итальянским островом Капри, который стал важным курортным символом послевоенной моды."

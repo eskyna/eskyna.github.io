@@ -33,9 +33,9 @@ seoTitle: "Вечерний гардероб: как собрать и что в
 slug: vecherniy-garderob
 url: /ru/glossar/abendgarderobe/
 aliases:
-  - /rus/glossar/abendgarderobe/
-  - /rus/glossariy/vecherniy-garderob/
-  - /ru/glossar/vecherniy-garderob/
+  - /glossar/abendgarderobe/
+  - /glossariy/vecherniy-garderob/
+  - /glossar/vecherniy-garderob/
 lastmod: "2026-07-09"
 history:
   - В разные исторические периоды вечерняя одежда служила знаком формальности, статуса и уважения к событию.

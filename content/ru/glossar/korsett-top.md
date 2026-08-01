@@ -34,8 +34,7 @@ seoTitle: "Корсетный топ | ESKYNA Glossary"
 slug: korsetnyy-top
 url: /rus/glossariy/korsetnyy-top/
 aliases:
-  - /rus/glossar/korsett-top/
-  - /ru/glossar/korsett-top/
+  - /glossar/korsett-top/
 lastmod: "2026-07-09"
 knowledge:
   - Корсетный эффект создают не только косточки, но и рельефные швы, плотная ткань, дублирующая прокладка, шнуровка или застёжка.

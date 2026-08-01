@@ -31,8 +31,7 @@ seoTitle: "Стилевое сообщение: значение и примен
 slug: stilevoe-soobshchenie
 url: /ru/glossar/stilbotschaft/
 aliases:
-  - /rus/glossar/stilbotschaft/
-  - /ru/glossar/stilbotschaft/
+  - /glossar/stilbotschaft/
 image_alt: "Иллюстрация глоссария ESKYNA о стилевом сообщении и впечатлении от образа"
 lastmod: "2026-07-09"
 knowledge:

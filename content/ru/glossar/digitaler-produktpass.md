@@ -9,8 +9,7 @@ image_alt: "Иллюстрация цифрового паспорта това�
 slug: digitaler-produktpass
 url: /rus/glossariy/digitaler-produktpass/
 aliases:
-  - /rus/glossar/digitaler-produktpass/
-  - /ru/glossar/digitaler-produktpass/
+  - /glossar/digitaler-produktpass/
 tags:
   - цифровой паспорт товара
   - прозрачность моды

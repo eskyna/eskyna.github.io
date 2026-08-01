@@ -23,8 +23,7 @@ seoTitle: "Jelly Bag | Style & Image ESKYNA"
 slug: jelly-bag
 url: /rus/glossariy/jelly-bag/
 aliases:
-  - /rus/glossar/jelly-bag/
-  - /ru/glossar/jelly-bag/
+  - /glossar/jelly-bag/
 relatedTerms:
   - title: Аксессуар
     url: /ru/glossar/accessoire/

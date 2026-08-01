@@ -22,7 +22,6 @@ keywords:
 slug: satin
 url: /en/glossar/satin/
 aliases:
-  - /en/glossary/satin/
   - /glossary/satin/
 image_alt: Smooth satin fabric with a glossy surface and soft folds
 relatedTerms:

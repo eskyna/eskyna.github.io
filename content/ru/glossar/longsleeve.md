@@ -35,9 +35,8 @@ seoTitle: "Лонгслив: что это, как выбрать и носит�
 slug: longsliv
 url: /ru/glossar/longsleeve/
 aliases:
-  - /rus/glossar/longsleeve/
-  - /ru/glossar/longsleeve/
-  - /rus/glossariy/longsleeve/
+  - /glossar/longsleeve/
+  - /glossariy/longsleeve/
 lastmod: "2026-07-09"
 knowledge:
   - "Лонгслив обычно шьют из тонкого трикотажа, поэтому его удобно носить самостоятельно и использовать как базовый слой."

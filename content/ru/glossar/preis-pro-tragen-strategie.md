@@ -35,8 +35,7 @@ seoTitle: "Стратегия цены за носку | ESKYNA"
 slug: strategiya-tseny-za-nosku
 url: /rus/glossariy/strategiya-tseny-za-nosku/
 aliases:
-  - /rus/glossar/preis-pro-tragen-strategie/
-  - /ru/glossar/preis-pro-tragen-strategie/
+  - /glossar/preis-pro-tragen-strategie/
 image_alt: "Иллюстрация стратегии цены за носку: соотношение цены вещи и числа её выходов"
 lastmod: "2026-07-09"
 knowledge:

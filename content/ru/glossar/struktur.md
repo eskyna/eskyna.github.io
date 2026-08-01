@@ -34,8 +34,7 @@ seoTitle: "Фактура ткани: что это и как использов
 slug: faktura
 url: /ru/glossar/struktur/
 aliases:
-  - /rus/glossar/struktur/
-  - /ru/glossar/struktur/
+  - /glossar/struktur/
 lastmod: "2026-07-09"
 knowledge:
   - Фактуру создают волокно, способ переплетения или вязания, плотность, ворс, рельеф и отделка материала.

@@ -21,8 +21,7 @@ keywords:
 slug: ruffle
 url: /en/glossary/ruffle/
 aliases:
-  - /en/glossar/ruesche/
-  - /glossary/ruffle/
+  - /glossar/ruesche/
 image_alt: Editorial illustration of a garment with soft gathered ruffle details
 relatedTerms:
   - title: Gathering

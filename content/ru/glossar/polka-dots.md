@@ -38,9 +38,8 @@ seoTitle: "Горошек: значение, виды и применение в
 slug: goroshek
 url: /rus/glossariy/goroshek/
 aliases:
-  - /rus/glossar/polka-dots/
-  - /ru/glossar/polka-dots/
-  - /rus/glossariy/polka-dots/
+  - /glossar/polka-dots/
+  - /glossariy/polka-dots/
 lastmod: "2026-07-09"
 history:
   - Название polka dot связано с популярностью танца полька в середине XIX века, когда словом polka называли разные модные товары и узоры.

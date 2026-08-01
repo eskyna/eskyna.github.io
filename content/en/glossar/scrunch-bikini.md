@@ -4,8 +4,7 @@ term: "Scrunch Bikini"
 description: "A scrunch bikini uses elastic gathering to create a close, flexible fit and add texture or curve emphasis to swimwear."
 url: "/en/glossary/scrunch-bikini/"
 aliases:
-  - "/en/glossar/scrunch-bikini/"
-  - "/glossary/scrunch-bikini/"
+  - /glossar/scrunch-bikini/
 category: "Lingerie, Bras & Styling Aids"
 tags:
   - "scrunch bikini"

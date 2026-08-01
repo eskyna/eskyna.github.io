@@ -21,8 +21,7 @@ keywords:
 slug: wardrobe-strategy
 url: /en/glossary/wardrobe-strategy/
 aliases:
-  - /en/glossar/garderobenstrategie/
-  - /glossary/wardrobe-strategy/
+  - /glossar/garderobenstrategie/
 image_alt: Editorial glossary illustration showing a planned wardrobe with coordinated clothing pieces
 relatedTerms:
   - title: Wardrobe Logic

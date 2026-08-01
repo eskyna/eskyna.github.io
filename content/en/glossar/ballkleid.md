@@ -8,8 +8,7 @@ image_alt: Glossary illustration of a formal ball gown with a fitted bodice and 
 slug: ballkleid
 url: /en/glossary/ballkleid/
 aliases:
-  - /en/glossar/ballkleid/
-  - /glossary/ballkleid/
+  - /glossar/ballkleid/
 tags:
   - ball gown
   - formal eveningwear

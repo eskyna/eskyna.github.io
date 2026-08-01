@@ -35,8 +35,7 @@ seoTitle: "Укороченный блейзер: что это и как нос
 slug: ukorochennyy-bleyzer
 url: /rus/glossariy/ukorochennyy-bleyzer/
 aliases:
-  - /rus/glossar/kurzblazer/
-  - /ru/glossar/kurzblazer/
+  - /glossar/kurzblazer/
 lastmod: "2026-07-09"
 knowledge:
   - "Длина укороченного блейзера особенно заметно влияет на положение талии и соотношение длины корпуса и ног."

@@ -32,8 +32,7 @@ seoTitle: "Дублирующая прокладка | ESKYNA"
 slug: podkladka
 url: /rus/glossariy/podkladka/
 aliases:
-  - /rus/glossar/einlage/
-  - /ru/glossar/einlage/
+  - /glossar/einlage/
 lastmod: "2026-07-09"
 knowledge:
   - Дублирующая прокладка обычно располагается внутри изделия и может быть клеевой или неклеевой.

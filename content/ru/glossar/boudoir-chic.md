@@ -9,8 +9,7 @@ image: "images/glossar/boudoir-chic.png"
 image_alt: "Иллюстрация образа в эстетике Boudoir Chic с сатиновыми и кружевными деталями"
 url: /rus/glossariy/boudoir-chic/
 aliases:
-  - /rus/glossar/boudoir-chic/
-  - /ru/glossar/boudoir-chic/
+  - /glossar/boudoir-chic/
 tags:
   - boudoir chic
   - будуарный шик

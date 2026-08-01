@@ -35,9 +35,8 @@ seoTitle: "Уход за одеждой: как правильно ухажив�
 slug: uhod-za-odezhdoy
 url: /ru/glossar/pflege/
 aliases:
-  - /rus/glossar/pflege/
-  - /ru/glossar/pflege/
-  - /rus/glossariy/uhod-za-odezhdoy/
+  - /glossar/pflege/
+  - /glossariy/uhod-za-odezhdoy/
 lastmod: "2026-07-09"
 knowledge:
   - "Уход начинается до первой стирки: рекомендации на ярлыке учитывают волокна, красители, конструкцию и отделку конкретной вещи."

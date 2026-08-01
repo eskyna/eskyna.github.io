@@ -7,8 +7,8 @@ glossar_category: Color Lexicon
 url: /en/glossary/category/color-lexicon/
 seoTitle: Color Lexicon | ESKYNA Glossary
 aliases:
-  - /en/glossar/kategorie/farb-lexikon/
-  - /glossary/category/color-lexicon/
+  - /glossar/kategorie/farb-lexikon/
+  - /glossar/farb-lexikon/
 keywords:
   - color lexicon
   - fashion color names

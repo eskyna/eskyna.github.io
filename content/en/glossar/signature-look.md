@@ -21,8 +21,7 @@ keywords:
 slug: signature-look
 url: /en/glossary/signature-look/
 aliases:
-  - /en/glossar/signature-look/
-  - /glossary/signature-look/
+  - /glossar/signature-look/
 image_alt: Editorial illustration showing recurring colors, tailoring, and accessories as elements of a Signature Look
 relatedTerms:
   - title: Personal Style

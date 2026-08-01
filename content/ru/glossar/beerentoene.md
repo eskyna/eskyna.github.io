@@ -23,8 +23,7 @@ keywords:
 slug: beerentoene
 url: /rus/glossariy/beerentoene/
 aliases:
-  - /rus/glossar/beerentoene/
-  - /ru/glossar/beerentoene/
+  - /glossar/beerentoene/
 relatedTerms:
   - title: "Бордовый"
     url: /ru/glossar/bordeaux/

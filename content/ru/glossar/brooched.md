@@ -33,8 +33,7 @@ seoTitle: "Стилизация с брошами | ESKYNA Glossary"
 slug: stilizatsiya-s-broshami
 url: /rus/glossariy/stilizatsiya-s-broshami/
 aliases:
-  - /rus/glossar/brooched/
-  - /ru/glossar/brooched/
+  - /glossar/brooched/
 image_alt: "Брошь как акцент на лацкане блейзера"
 lastmod: "2026-07-09"
 history:

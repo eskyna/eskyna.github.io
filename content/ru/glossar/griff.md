@@ -36,8 +36,7 @@ seoTitle: "Тактильность материала | ESKYNA"
 slug: taktilnost-materiala
 url: /rus/glossariy/taktilnost-materiala/
 aliases:
-  - /rus/glossar/griff/
-  - /ru/glossar/griff/
+  - /glossar/griff/
 lastmod: "2026-07-09"
 knowledge:
   - Тактильность зависит не только от состава волокон, но и от переплетения, плотности, отделки и состояния ткани.

@@ -22,8 +22,7 @@ keywords:
 slug: style-analysis
 url: /en/glossary/style-analysis/
 aliases:
-  - /en/glossar/stilanalyse/
-  - /glossary/style-analysis/
+  - /glossar/stilanalyse/
 image_alt: Editorial illustration representing personal style analysis through clothing, color, and silhouette choices
 relatedTerms:
   - title: Personal Style

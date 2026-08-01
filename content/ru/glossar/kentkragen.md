@@ -8,8 +8,7 @@ image_alt: "Иллюстрация классической рубашки с в
 slug: kentkragen
 url: /rus/glossariy/kentkragen/
 aliases:
-  - /rus/glossar/kentkragen/
-  - /ru/glossar/kentkragen/
+  - /glossar/kentkragen/
 tags:
   - воротник кент
   - воротник рубашки

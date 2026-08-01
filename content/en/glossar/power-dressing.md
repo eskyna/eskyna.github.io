@@ -14,8 +14,7 @@ keywords:
 slug: power-dressing
 url: /en/glossary/power-dressing/
 aliases:
-  - /en/glossar/power-dressing/
-  - /glossary/power-dressing/
+  - /glossar/power-dressing/
 relatedTerms:
   - title: "Executive Presence"
     url: /en/glossar/executive-presence/

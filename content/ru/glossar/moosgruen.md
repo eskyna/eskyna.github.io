@@ -24,8 +24,7 @@ keywords:
 slug: moosgruen
 url: /rus/glossariy/moosgruen/
 aliases:
-  - /rus/glossar/moosgruen/
-  - /ru/glossar/moosgruen/
+  - /glossar/moosgruen/
 relatedTerms:
   - title: "Зелёный"
     url: /ru/glossar/gruen/

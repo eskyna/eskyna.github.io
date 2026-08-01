@@ -21,8 +21,7 @@ keywords:
 slug: scarf-styling-tuch-styling
 url: /en/glossary/scarf-styling-tuch-styling/
 aliases:
-  - /en/glossar/scarf-styling-tuch-styling/
-  - /glossary/scarf-styling-tuch-styling/
+  - /glossar/scarf-styling-tuch-styling/
 relatedTerms:
   - title: Scarf
     url: /en/glossar/schal/

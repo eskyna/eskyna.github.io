@@ -33,8 +33,7 @@ seoTitle: "Отпаривание одежды | ESKYNA Glossary"
 slug: otparivanie
 url: /rus/glossariy/otparivanie/
 aliases:
-  - /rus/glossar/dampfen/
-  - /ru/glossar/dampfen/
+  - /glossar/dampfen/
 lastmod: "2026-07-09"
 knowledge:
   - Отпаривание разглаживает ткань горячим паром без прямого давления подошвы утюга.

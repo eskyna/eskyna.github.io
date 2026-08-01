@@ -19,8 +19,7 @@ weight: 999
 slug: "glow-up-garderobe"
 url: "/rus/glossariy/glow-up-garderobe/"
 aliases:
-  - "/rus/glossar/glow-up-garderobe/"
-  - "/ru/glossar/glow-up-garderobe/"
+  - /glossar/glow-up-garderobe/
 image: "images/glossar/glow-up-garderobe.png"
 image_alt: "Аккуратно подобранные вещи на рейле для обновлённого гардероба"
 relatedTerms:

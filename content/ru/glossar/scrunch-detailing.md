@@ -4,8 +4,7 @@ term: "Скранч-сборка"
 slug: scrunch-detailing
 url: /rus/glossariy/scrunch-detailing/
 aliases:
-  - /rus/glossar/scrunch-detailing/
-  - /ru/glossar/scrunch-detailing/
+  - /glossar/scrunch-detailing/
 description: "Скранч-сборка, или Scrunch-Detailing, это эластичная сборка по центральному заднему шву легинсов, брюк или шорт, которая подчёркивает контур ягодиц."
 category: "Крой, пропорции и посадка"
 tags:

@@ -33,8 +33,7 @@ seoTitle: "Качество пуговиц | ESKYNA Glossary"
 slug: kachestvo-pugovits
 url: /rus/glossariy/kachestvo-pugovits/
 aliases:
-  - /rus/glossar/knopfqualitaet/
-  - /ru/glossar/knopfqualitaet/
+  - /glossar/knopfqualitaet/
 lastmod: "2026-07-09"
 knowledge:
   - Качество пуговицы оценивают не только по материалу, но и по аккуратности краёв, равномерности окраски, весу и надёжности пришивания.

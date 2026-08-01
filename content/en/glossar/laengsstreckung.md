@@ -21,8 +21,7 @@ keywords:
 slug: vertical-elongation
 url: /en/glossary/vertical-elongation/
 aliases:
-  - /en/glossar/laengsstreckung/
-  - /glossary/vertical-elongation/
+  - /glossar/laengsstreckung/
 image_alt: Editorial illustration showing an outfit with a continuous vertical line and elongated proportions
 relatedTerms:
   - title: Visual Elongation

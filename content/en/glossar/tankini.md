@@ -4,8 +4,7 @@ term: Tankini
 slug: tankini
 url: /en/glossary/tankini/
 aliases:
-  - /en/glossar/tankini/
-  - /glossary/tankini/
+  - /glossar/tankini/
 description: "A tankini is a two piece swimsuit with bikini bottoms and a longer swim top. It offers more coverage than a bikini while keeping the flexibility of separate pieces."
 category: Lingerie, Bras & Styling Aids
 tags:

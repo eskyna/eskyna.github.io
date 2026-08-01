@@ -21,8 +21,7 @@ keywords:
 slug: tie-dye
 url: /en/glossary/tie-dye/
 aliases:
-  - /en/glossar/tie-dye/
-  - /glossary/tie-dye/
+  - /glossar/tie-dye/
 image_alt: Swirled tie-dye fabric with blended blue, pink, and yellow dye patterns
 relatedTerms:
   - title: Batik

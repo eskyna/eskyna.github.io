@@ -20,8 +20,7 @@ keywords:
 slug: balloon-sleeve
 url: /en/glossary/balloon-sleeve/
 aliases:
-  - /en/glossar/ballonaermel/
-  - /glossary/balloon-sleeve/
+  - /glossar/ballonaermel/
 image_alt: Illustration of a blouse with rounded balloon sleeves gathered at the cuffs
 relatedTerms:
   - title: Puff Sleeve

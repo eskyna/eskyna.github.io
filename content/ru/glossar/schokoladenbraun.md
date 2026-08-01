@@ -23,8 +23,7 @@ keywords:
 slug: schokoladenbraun
 url: /rus/glossariy/schokoladenbraun/
 aliases:
-  - /rus/glossar/schokoladenbraun/
-  - /ru/glossar/schokoladenbraun/
+  - /glossar/schokoladenbraun/
 relatedTerms:
   - title: "Коричневый"
     url: /ru/glossar/braun/

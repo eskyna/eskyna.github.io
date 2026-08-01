@@ -38,8 +38,7 @@ seoTitle: "Металлик: что это за цвет и как носить 
 slug: metallik
 url: /rus/glossariy/metallik/
 aliases:
-  - /rus/glossar/metallic/
-  - /ru/glossar/metallic/
+  - /glossar/metallic/
 lastmod: "2026-07-09"
 history:
   - Металлический блеск в одежде исторически связан с дорогими материалами, украшениями и церемониальной одеждой.

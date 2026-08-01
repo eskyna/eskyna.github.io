@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/flirt-silhouette/
 aliases:
-  - /en/glossar/flirt-silhouette/
-  - /glossary/flirt-silhouette/
+  - /glossar/flirt-silhouette/
 image: images/glossar/flirt-silhouette.png
 image_alt: "A softly fitted dress following the body's shape with fluid movement"
 relatedTerms:

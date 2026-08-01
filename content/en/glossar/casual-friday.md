@@ -18,8 +18,7 @@ keywords:
 weight: 999
 url: /en/glossary/casual-friday/
 aliases:
-  - /en/glossar/casual-friday/
-  - /glossary/casual-friday/
+  - /glossar/casual-friday/
 image: images/glossar/casual-friday.png
 image_alt: Colleagues wearing polished casual office outfits with trousers, knitwear, and loafers
 relatedTerms:

@@ -34,9 +34,8 @@ seoTitle: "Брюки костюма: посадка, длина и сочета
 slug: bryuki-kostyuma
 url: /ru/glossar/anzughose/
 aliases:
-  - /rus/glossar/anzughose/
-  - /ru/glossar/anzughose/
-  - /rus/glossariy/bryuki-kostyuma/
+  - /glossar/anzughose/
+  - /glossariy/bryuki-kostyuma/
 lastmod: "2026-07-09"
 knowledge:
   - Брюки костюма могут иметь гладкую переднюю часть или складки у пояса. Выбор зависит от кроя, ткани и желаемого объёма в области бёдер.

@@ -34,9 +34,8 @@ seoTitle: "Деловой формальный стиль | ESKYNA"
 slug: delovoy-formalnyy-stil
 url: /rus/glossariy/delovoy-formalnyy-stil/
 aliases:
-  - /rus/glossar/business-formal/
-  - /ru/glossar/business-formal/
-  - /rus/glossariy/business-formal/
+  - /glossar/business-formal/
+  - /glossariy/business-formal/
 lastmod: "2026-07-09"
 history:
   - "Современный деловой формальный дресс-код вырос из классической деловой одежды, где костюм, рубашка, закрытая обувь и сдержанные детали служили визуальными знаками профессиональной роли."

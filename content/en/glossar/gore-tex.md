@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: "/en/glossary/gore-tex/"
 aliases:
-  - "/en/glossar/gore-tex/"
-  - "/glossary/gore-tex/"
+  - /glossar/gore-tex/
 image: "images/glossar/gore-tex.png"
 image_alt: "Close-up of a waterproof outdoor jacket with a GORE-TEX label"
 relatedTerms:

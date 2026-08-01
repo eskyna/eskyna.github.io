@@ -8,8 +8,7 @@ image_alt: "Анорак с капюшоном и передним карман�
 slug: anorak
 url: /rus/glossariy/anorak/
 aliases:
-  - /rus/glossar/anorak/
-  - /ru/glossar/anorak/
+  - /glossar/anorak/
 tags:
   - анорак
   - верхняя одежда

@@ -33,8 +33,7 @@ seoTitle: "Профиль материалов | ESKYNA Glossary"
 slug: profil-materialov
 url: /ru/glossar/materialprofil/
 aliases:
-  - /rus/glossar/materialprofil/
-  - /ru/glossar/materialprofil/
+  - /glossar/materialprofil/
 lastmod: "2026-07-09"
 knowledge:
   - "Профиль материалов учитывает не только состав ткани, но и её плотность, фактуру, пластику, матовость или блеск, а также поведение в носке."

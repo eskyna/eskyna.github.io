@@ -21,8 +21,7 @@ keywords:
 slug: x-line
 url: /en/glossary/x-line/
 aliases:
-  - /en/glossar/x-linie/
-  - /glossary/x-line/
+  - /glossar/x-linie/
 image_alt: Editorial illustration of an X-Line silhouette with defined waist and balanced shoulders and hips
 relatedTerms:
   - title: Hourglass Silhouette

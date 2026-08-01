@@ -22,8 +22,7 @@ keywords:
 slug: minimalist-hiking-sandal
 url: /en/glossary/minimalist-hiking-sandal/
 aliases:
-  - /en/glossar/minimalist-hiking-sandal/
-  - /glossary/minimalist-hiking-sandal/
+  - /glossar/minimalist-hiking-sandal/
 relatedTerms:
   - title: Fisherman Sandals
     url: /en/glossar/fisherman-sandals-fischersandalen/

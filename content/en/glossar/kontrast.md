@@ -21,8 +21,7 @@ keywords:
 slug: contrast
 url: /en/glossary/contrast/
 aliases:
-  - /en/glossar/kontrast/
-  - /glossary/contrast/
+  - /glossar/kontrast/
 image_alt: Editorial illustration showing high and low color contrast in outfits
 relatedTerms:
   - title: Light-Dark Contrast

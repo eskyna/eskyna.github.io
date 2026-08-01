@@ -33,8 +33,8 @@ seoTitle: "Лидерское присутствие | ESKYNA"
 slug: liderskoe-prisutstvie
 url: /ru/glossar/executive-presence/
 aliases:
-  - /rus/glossar/executive-presence/
-  - /rus/glossariy/liderskoe-prisutstvie/
+  - /glossar/executive-presence/
+  - /glossariy/liderskoe-prisutstvie/
 image_alt: "Собранный профессиональный образ, передающий лидерское присутствие"
 lastmod: "2026-07-09"
 knowledge:

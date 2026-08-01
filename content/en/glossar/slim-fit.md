@@ -21,8 +21,7 @@ keywords:
 slug: slim-fit
 url: /en/glossary/slim-fit/
 aliases:
-  - /en/glossar/slim-fit/
-  - /glossary/slim-fit/
+  - /glossar/slim-fit/
 image_alt: Editorial illustration showing a close-to-body slim fit silhouette
 relatedTerms:
   - title: Fit

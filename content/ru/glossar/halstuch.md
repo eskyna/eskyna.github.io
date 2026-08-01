@@ -35,8 +35,7 @@ seoTitle: "Шейный платок | ESKYNA Glossary"
 slug: sheynyy-platok
 url: /rus/glossariy/sheynyy-platok/
 aliases:
-  - /rus/glossar/halstuch/
-  - /ru/glossar/halstuch/
+  - /glossar/halstuch/
 lastmod: "2026-07-09"
 history:
   - Шейные платки использовались и как практичная защита шеи, и как заметная декоративная деталь костюма.

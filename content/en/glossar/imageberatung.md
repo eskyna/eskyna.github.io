@@ -23,8 +23,7 @@ keywords:
 slug: image-consulting
 url: /en/glossary/image-consulting/
 aliases:
-  - /en/glossar/imageberatung/
-  - /glossary/image-consulting/
+  - /glossar/imageberatung/
 image_alt: Editorial illustration representing image consulting, professional style, and personal presence
 relatedTerms:
   - title: Image

@@ -20,8 +20,7 @@ keywords:
 slug: dress
 url: /en/glossary/dress/
 aliases:
-  - /en/glossar/kleid/
-  - /glossary/dress/
+  - /glossar/kleid/
 image_alt: Editorial illustration of a dress with a defined bodice and skirt
 relatedTerms:
   - title: Silhouette

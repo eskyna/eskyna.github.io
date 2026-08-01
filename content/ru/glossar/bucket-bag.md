@@ -35,9 +35,8 @@ seoTitle: "Сумка-ведро: что это, как выбрать и нос
 slug: sumka-vedro
 url: /ru/glossar/bucket-bag/
 aliases:
-  - /rus/glossar/bucket-bag/
-  - /ru/glossar/bucket-bag/
-  - /rus/glossariy/sumka-vedro/
+  - /glossar/bucket-bag/
+  - /glossariy/sumka-vedro/
 lastmod: "2026-07-09"
 knowledge:
   - Сумка-ведро обычно имеет округлый или цилиндрический корпус, устойчивое дно и один либо два ремня для ношения.

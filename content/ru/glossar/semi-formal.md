@@ -35,9 +35,8 @@ seoTitle: "Полуформальный дресс-код | ESKYNA"
 slug: poluformalnyy-dress-kod
 url: /rus/glossariy/poluformalnyy-dress-kod/
 aliases:
-  - /rus/glossar/semi-formal/
-  - /ru/glossar/semi-formal/
-  - /rus/glossariy/semi-formal/
+  - /glossar/semi-formal/
+  - /glossariy/semi-formal/
 image_alt: "Элегантный полуформальный образ для вечернего мероприятия"
 lastmod: "2026-07-09"
 knowledge:

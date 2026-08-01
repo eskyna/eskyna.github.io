@@ -9,8 +9,7 @@ image_alt: "Иллюстрация рукава кимоно, который ц�
 slug: kimonoaermel
 url: /rus/glossariy/kimonoaermel/
 aliases:
-  - /rus/glossar/kimonoaermel/
-  - /ru/glossar/kimonoaermel/
+  - /glossar/kimonoaermel/
 tags:
   - рукав кимоно
   - крой одежды

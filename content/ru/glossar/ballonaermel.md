@@ -38,9 +38,8 @@ seoTitle: "Объёмный рукав: что это и как влияет н�
 slug: obyomnyy-rukav
 url: /ru/glossar/ballonaermel/
 aliases:
-  - /rus/glossariy/obyomnyy-rukav/
-  - /rus/glossar/ballonaermel/
-  - /ru/glossar/ballonaermel/
+  - /glossariy/obyomnyy-rukav/
+  - /glossar/ballonaermel/
 lastmod: "2026-07-09"
 history:
   - Объёмные формы рукавов неоднократно появлялись в европейской моде разных эпох и менялись вместе с представлениями о силуэте.

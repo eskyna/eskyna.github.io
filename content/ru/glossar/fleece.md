@@ -8,8 +8,7 @@ image_alt: "Иллюстрация флисовой ткани с мягкой �
 slug: fleece
 url: /rus/glossariy/fleece/
 aliases:
-  - /rus/glossar/fleece/
-  - /ru/glossar/fleece/
+  - /glossar/fleece/
 tags:
   - флис
   - синтетические материалы

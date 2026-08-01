@@ -35,10 +35,9 @@ seoTitle: "Поло: что это, как выбрать и носить | Гл
 slug: polo
 url: /ru/glossar/poloshirt/
 aliases:
-  - /rus/glossar/poloshirt/
-  - /ru/glossar/poloshirt/
-  - /rus/glossariy/polo-shirt/
-  - /rus/glossariy/polo/
+  - /glossar/poloshirt/
+  - /glossariy/polo-shirt/
+  - /glossariy/polo/
 lastmod: "2026-07-09"
 history:
   - Поло выросло из спортивной одежды для игры в поло и тенниса, где были важны свобода движения и более аккуратный вид, чем у обычной футболки.

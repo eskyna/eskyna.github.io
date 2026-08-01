@@ -21,7 +21,6 @@ keywords:
 slug: cape
 url: /en/glossar/cape/
 aliases:
-  - /en/glossar/cape/
   - /glossary/cape/
 image_alt: A tailored camel cape draped over a simple monochrome outfit
 relatedTerms:

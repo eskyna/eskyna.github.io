@@ -14,8 +14,7 @@ keywords:
 slug: brogue
 url: /en/glossary/brogue/
 aliases:
-  - /en/glossar/brogue/
-  - /glossary/brogue/
+  - /glossar/brogue/
 relatedTerms:
   - title: "Oxford shoe"
     url: /en/glossar/oxford-schuh/

@@ -18,8 +18,7 @@ keywords:
 slug: "kombinations-koeffizient"
 url: "/rus/glossariy/kombinations-koeffizient/"
 aliases:
-  - "/rus/glossar/kombinations-koeffizient/"
-  - "/ru/glossar/kombinations-koeffizient/"
+  - /glossar/kombinations-koeffizient/
 image: "images/glossar/kombinations-koeffizient.png"
 image_alt: "Одежда, разложенная в несколько сочетаемых комплектов"
 relatedTerms:

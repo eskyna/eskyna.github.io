@@ -9,8 +9,7 @@ image: "images/glossar/keyhole-ausschnitt.png"
 image_alt: "Иллюстрация выреза keyhole, небольшого фигурного отверстия у горловины"
 url: /rus/glossariy/keyhole-ausschnitt/
 aliases:
-  - /rus/glossar/keyhole-ausschnitt/
-  - /ru/glossar/keyhole-ausschnitt/
+  - /glossar/keyhole-ausschnitt/
 lastmod: "2026-07-22"
 tags:
   - вырез-keyhole

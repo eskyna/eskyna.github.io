@@ -9,8 +9,7 @@ image: "images/glossar/fashion-tape.png"
 image_alt: "Иллюстрация двусторонней клейкой ленты Fashion Tape для фиксации одежды"
 url: /rus/glossariy/fashion-tape/
 aliases:
-  - /rus/glossar/fashion-tape/
-  - /ru/glossar/fashion-tape/
+  - /glossar/fashion-tape/
 tags:
   - fashion-tape
   - фиксация-одежды

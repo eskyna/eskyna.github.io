@@ -9,8 +9,7 @@ image: "images/glossar/fliege.png"
 image_alt: "Иллюстрация классического галстука-бабочки"
 url: /rus/glossariy/fliege/
 aliases:
-  - /rus/glossar/fliege/
-  - /ru/glossar/fliege/
+  - /glossar/fliege/
 tags:
   - галстук-бабочка
   - мужские аксессуары

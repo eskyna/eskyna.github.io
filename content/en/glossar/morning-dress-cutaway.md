@@ -15,8 +15,7 @@ keywords:
 slug: morning-dress-cutaway
 url: /en/glossary/morning-dress-cutaway/
 aliases:
-  - /en/glossar/morning-dress-cutaway/
-  - /glossary/morning-dress-cutaway/
+  - /glossar/morning-dress-cutaway/
 relatedTerms:
   - title: "White Tie"
     url: /en/glossar/white-tie/

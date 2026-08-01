@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/sartoriale-schulterneigung/"
 aliases:
-  - "/en/glossar/sartoriale-schulterneigung/"
-  - "/glossary/sartoriale-schulterneigung/"
+  - /glossar/sartoriale-schulterneigung/
 image: "images/glossar/sartoriale-schulterneigung.png"
 image_alt: "Tailored jacket shoulder seam sitting smoothly from neckline to sleeve"
 relatedTerms:

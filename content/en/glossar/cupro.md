@@ -14,8 +14,7 @@ keywords:
 slug: cupro
 url: /en/glossary/cupro/
 aliases:
-  - /en/glossar/cupro/
-  - /glossary/cupro/
+  - /glossar/cupro/
 relatedTerms:
   - title: "Viscose"
     url: /en/glossar/viskose/

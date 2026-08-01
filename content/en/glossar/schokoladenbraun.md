@@ -23,8 +23,7 @@ keywords:
 slug: schokoladenbraun
 url: /en/glossary/schokoladenbraun/
 aliases:
-  - /en/glossar/schokoladenbraun/
-  - /glossary/schokoladenbraun/
+  - /glossar/schokoladenbraun/
 relatedTerms:
   - title: "Brown"
     url: /en/glossar/braun/

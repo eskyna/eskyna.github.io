@@ -34,9 +34,8 @@ seoTitle: "Цветовая температура | ESKYNA Glossary"
 slug: tsvetovaya-temperatura
 url: /rus/glossariy/tsvetovaya-temperatura/
 aliases:
-  - /rus/glossar/farbtemperatur/
-  - /ru/glossar/farbtemperatur/
-  - /rus/glossariy/temperatura-tsveta/
+  - /glossar/farbtemperatur/
+  - /glossariy/temperatura-tsveta/
 lastmod: "2026-07-09"
 knowledge:
   - "Цветовая температура не равна яркости или светлоте: светлый оттенок может быть холодным, а тёмный может быть тёплым."

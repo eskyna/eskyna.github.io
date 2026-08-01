@@ -33,8 +33,7 @@ seoTitle: "Свитер с воротником-стойкой: что это и
 slug: sviter-s-vorotnikom-stoykoy
 url: /rus/glossariy/sviter-s-vorotnikom-stoykoy/
 aliases:
-  - /rus/glossar/rollkragenpullover/
-  - /ru/glossar/rollkragenpullover/
+  - /glossar/rollkragenpullover/
 lastmod: "2026-07-09"
 history:
   - Высокий отворотный ворот связан с развитием практичной тёплой одежды, где особенно важна защита шеи от холода и ветра.

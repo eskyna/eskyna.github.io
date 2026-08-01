@@ -23,8 +23,7 @@ keywords:
 slug: polka-dots
 url: /en/glossary/polka-dots/
 aliases:
-  - /en/glossar/polka-dots/
-  - /glossary/polka-dots/
+  - /glossar/polka-dots/
 image_alt: Black and white polka dot fabric pattern with evenly spaced circular dots
 relatedTerms:
   - title: Dots

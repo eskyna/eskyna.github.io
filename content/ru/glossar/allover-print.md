@@ -35,9 +35,8 @@ seoTitle: "Принт по всей поверхности | ESKYNA"
 slug: print-po-vsey-poverhnosti
 url: /ru/glossar/allover-print/
 aliases:
-  - /rus/glossariy/print-po-vsey-poverhnosti/
-  - /rus/glossar/allover-print/
-  - /ru/glossar/allover-print/
+  - /glossariy/print-po-vsey-poverhnosti/
+  - /glossar/allover-print/
 lastmod: "2026-07-09"
 history:
   - Орнаментальные ткани и повторяющиеся рисунки известны в одежде с древности, однако современное понятие all-over print обычно используют в контексте массового производства и дизайна готовой одежды.

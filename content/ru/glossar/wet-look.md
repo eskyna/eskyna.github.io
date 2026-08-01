@@ -4,8 +4,7 @@ term: "Wet Look"
 slug: wet-look
 url: /rus/glossariy/wet-look/
 aliases:
-  - /rus/glossar/wet-look/
-  - /ru/glossar/wet-look/
+  - /glossar/wet-look/
 description: "Wet Look, или эффект влажной поверхности, это глянцевая фактура одежды и аксессуаров, напоминающая блеск мокрого материала. Узнайте, какие ткани создают wet look, как носить его уместно и на что обратить внимание при покупке."
 category: "Материалы и детали"
 tags:

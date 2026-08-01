@@ -22,8 +22,7 @@ keywords:
 slug: overshirt
 url: /en/glossary/overshirt/
 aliases:
-  - /en/glossar/overshirt/
-  - /glossary/overshirt/
+  - /glossar/overshirt/
 image_alt: Neutral overshirt worn open over a T-shirt as a casual layered outfit
 relatedTerms:
   - title: Shacket

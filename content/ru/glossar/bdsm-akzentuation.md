@@ -19,8 +19,7 @@ keywords:
 weight: 999
 url: /rus/glossariy/bdsm-akzentuation/
 aliases:
-  - /rus/glossar/bdsm-akzentuation/
-  - /ru/glossar/bdsm-akzentuation/
+  - /glossar/bdsm-akzentuation/
 image: images/glossar/bdsm-akzentuation.png
 image_alt: "Чёрный образ с кожаным ремнём, металлическими кольцами и цепочкой"
 relatedTerms:

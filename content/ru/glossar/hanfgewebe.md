@@ -5,8 +5,7 @@ description: "Ткань из конопли, или hemp fabric, это про�
 slug: hanfgewebe
 url: /rus/glossariy/hanfgewebe/
 aliases:
-  - /rus/glossar/hanfgewebe/
-  - /ru/glossar/hanfgewebe/
+  - /glossar/hanfgewebe/
 category: Материалы и детали
 tags:
   - ткань-из-конопли

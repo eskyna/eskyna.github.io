@@ -34,9 +34,8 @@ seoTitle: "Сигналы стиля: значение и применение |
 slug: signaly-stilya
 url: /ru/glossar/signale/
 aliases:
-  - /rus/glossariy/signaly-stilya/
-  - /rus/glossar/signale/
-  - /ru/glossar/signale/
+  - /glossariy/signaly-stilya/
+  - /glossar/signale/
 lastmod: "2026-07-09"
 knowledge:
   - Сигнал стиля редко создаёт одна вещь. Обычно впечатление возникает из сочетания цвета, силуэта, посадки, фактуры, деталей и манеры держаться.

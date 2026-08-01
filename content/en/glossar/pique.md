@@ -8,8 +8,7 @@ image_alt: Close-up illustration of textured piqué fabric with a raised geometr
 slug: pique
 url: /en/glossary/pique/
 aliases:
-  - /en/glossar/pique/
-  - /glossary/pique/
+  - /glossar/pique/
 tags:
   - piqué fabric
   - textured fabric

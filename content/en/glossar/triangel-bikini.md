@@ -4,8 +4,7 @@ term: Triangle Bikini
 slug: triangel-bikini
 url: /en/glossary/triangel-bikini/
 aliases:
-  - /en/glossar/triangel-bikini/
-  - /glossary/triangel-bikini/
+  - /glossar/triangel-bikini/
 description: "A triangle bikini is a classic swimwear style with triangular cups and adjustable ties or straps. It offers flexible coverage and a light, minimal look."
 category: Lingerie, Bras & Styling Aids
 tags:

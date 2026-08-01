@@ -35,8 +35,7 @@ seoTitle: "Рукав-буф | Style & Image ESKYNA"
 slug: rukav-buf
 url: /rus/glossariy/rukav-buf/
 aliases:
-  - /rus/glossar/puffaermel/
-  - /ru/glossar/puffaermel/
+  - /glossar/puffaermel/
 lastmod: "2026-07-09"
 history:
   - "Объёмные рукава неоднократно появлялись в европейской моде разных эпох и менялись вместе с идеалами силуэта."

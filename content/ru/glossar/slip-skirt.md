@@ -9,8 +9,7 @@ image: "images/glossar/slip-skirt.png"
 image_alt: "Иллюстрация струящейся slip-юбки миди в бельевом стиле"
 url: /rus/glossariy/slip-skirt/
 aliases:
-  - /rus/glossar/slip-skirt/
-  - /ru/glossar/slip-skirt/
+  - /glossar/slip-skirt/
 tags:
   - slip-юбка
   - юбка-комбинация

@@ -21,8 +21,7 @@ keywords:
 slug: neckline-effect
 url: /en/glossary/neckline-effect/
 aliases:
-  - /en/glossar/ausschnittwirkung/
-  - /glossary/neckline-effect/
+  - /glossar/ausschnittwirkung/
 image_alt: Editorial illustration comparing neckline shapes and their visual effect around the face and shoulders
 relatedTerms:
   - title: Neckline Effect

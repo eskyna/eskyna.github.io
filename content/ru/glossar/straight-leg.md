@@ -36,9 +36,8 @@ seoTitle: "Прямой крой брючин: значение и примен�
 slug: pryamoy-kroy-bryuchin
 url: /rus/glossariy/pryamoy-kroy-bryuchin/
 aliases:
-  - /rus/glossar/straight-leg/
-  - /ru/glossar/straight-leg/
-  - /rus/glossariy/straight-leg/
+  - /glossar/straight-leg/
+  - /glossariy/straight-leg/
 lastmod: "2026-07-09"
 history:
   - Прямые брючины относятся к классическим конструкциям брюк и регулярно возвращаются в моду в разных материалах и пропорциях.

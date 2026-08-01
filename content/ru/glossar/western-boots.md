@@ -34,9 +34,8 @@ seoTitle: "Сапоги вестерн: что это и с чем носить 
 slug: sapogi-vestern
 url: /ru/glossar/western-boots/
 aliases:
-  - /rus/glossar/western-boots/
-  - /ru/glossar/western-boots/
-  - /rus/glossariy/western-boots/
+  - /glossar/western-boots/
+  - /glossariy/western-boots/
 lastmod: "2026-07-09"
 history:
   - Сапоги вестерн сформировались из практичной обуви для верховой езды и работы на ранчо в американском Западе XIX века.

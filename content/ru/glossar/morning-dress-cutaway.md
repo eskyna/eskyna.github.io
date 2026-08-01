@@ -14,8 +14,7 @@ keywords:
 slug: morning-dress-cutaway
 url: /rus/glossariy/morning-dress-cutaway/
 aliases:
-  - /rus/glossar/morning-dress-cutaway/
-  - /ru/glossar/morning-dress-cutaway/
+  - /glossar/morning-dress-cutaway/
 relatedTerms:
   - title: "Дресс-код"
     url: /ru/glossar/dresscode/

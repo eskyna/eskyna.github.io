@@ -15,8 +15,7 @@ keywords:
 slug: brogue
 url: /rus/glossariy/brogue/
 aliases:
-  - /rus/glossar/brogue/
-  - /ru/glossar/brogue/
+  - /glossar/brogue/
 relatedTerms:
   - title: "Оксфордская обувь"
     url: /ru/glossar/oxford-schuh/

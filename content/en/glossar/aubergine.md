@@ -22,8 +22,7 @@ keywords:
 slug: aubergine
 url: /en/glossary/aubergine/
 aliases:
-  - /en/glossar/aubergine/
-  - /glossary/aubergine/
+  - /glossar/aubergine/
 relatedTerms:
   - title: "Purple"
     url: /en/glossar/lila/

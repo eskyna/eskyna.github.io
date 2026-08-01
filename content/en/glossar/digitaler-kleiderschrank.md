@@ -18,8 +18,7 @@ keywords:
 slug: digitaler-kleiderschrank
 url: /en/glossary/digitaler-kleiderschrank/
 aliases:
-  - /en/glossar/digitaler-kleiderschrank/
-  - /glossary/digitaler-kleiderschrank/
+  - /glossar/digitaler-kleiderschrank/
 weight: 999
 image: images/glossar/digitaler-kleiderschrank.png
 image_alt: Smartphone screen showing a catalogued wardrobe with clothing images and outfit combinations

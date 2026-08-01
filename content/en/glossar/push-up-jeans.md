@@ -17,8 +17,7 @@ keywords:
 weight: 999
 url: "/en/glossary/push-up-jeans/"
 aliases:
-  - "/en/glossar/push-up-jeans/"
-  - "/glossary/push-up-jeans/"
+  - /glossar/push-up-jeans/
 image: "images/glossar/push-up-jeans.png"
 image_alt: "Dark blue push-up jeans shown from the back with curved yoke seams and fitted pockets"
 relatedTerms:

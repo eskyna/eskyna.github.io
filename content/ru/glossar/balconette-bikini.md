@@ -4,8 +4,7 @@ term: Бикини-топ балконет
 slug: balconette-bikini
 url: /rus/glossariy/balconette-bikini/
 aliases:
-  - /rus/glossar/balconette-bikini/
-  - /ru/glossar/balconette-bikini/
+  - /glossar/balconette-bikini/
 description: "Бикини-топ балконет, или balconette bikini, это купальный верх с широко расставленными бретелями и открытой линией декольте. Его конструкция поддерживает грудь снизу, помогает создать приподнятую и мягко округлую форму."
 category: Белье, бюстгальтеры и стилистические помощники
 tags:

@@ -16,8 +16,7 @@ keywords:
 slug: hosenbruch
 url: /rus/glossariy/hosenbruch/
 aliases:
-  - /rus/glossar/hosenbruch/
-  - /ru/glossar/hosenbruch/
+  - /glossar/hosenbruch/
 tags:
   - "длина брюк"
   - "посадка"

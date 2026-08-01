@@ -23,8 +23,7 @@ keywords:
 slug: balletcore
 url: /en/glossary/balletcore/
 aliases:
-  - /en/glossar/balletcore/
-  - /glossary/balletcore/
+  - /glossar/balletcore/
 image_alt: Editorial illustration of a Balletcore outfit with a wrap cardigan, soft skirt, and ballet flats
 relatedTerms:
   - title: Ballerina

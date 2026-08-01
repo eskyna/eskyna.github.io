@@ -7,8 +7,8 @@ glossar_category: Style & Impact
 url: /en/glossary/category/style-impact/
 seoTitle: Style & Impact | ESKYNA Glossary
 aliases:
-  - /en/glossar/kategorie/stil-wirkung/
-  - /glossary/category/style-impact/
+  - /glossar/kategorie/stil-wirkung/
+  - /glossar/stil-wirkung/
 keywords:
   - style and impact
   - personal style

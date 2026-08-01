@@ -14,8 +14,7 @@ keywords:
 slug: dorsay-pumps
 url: /en/glossary/dorsay-pumps/
 aliases:
-  - /en/glossar/dorsay-pumps/
-  - /glossary/dorsay-pumps/
+  - /glossar/dorsay-pumps/
 tags:
   - pumps
   - women's shoes

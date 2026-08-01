@@ -9,8 +9,7 @@ image: "images/glossar/handschuhe.png"
 image_alt: "Illustration of different glove styles for winter and formal outfits"
 url: /en/glossary/handschuhe/
 aliases:
-  - /en/glossar/handschuhe/
-  - /glossary/handschuhe/
+  - /glossar/handschuhe/
 tags:
   - gloves
   - accessories

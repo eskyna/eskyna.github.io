@@ -22,7 +22,6 @@ keywords:
 slug: color-palette
 url: /en/glossar/farbpalette/
 aliases:
-  - /en/glossar/farbpalette/
   - /glossary/color-palette/
 image_alt: Color swatches arranged as a harmonious wardrobe color palette
 relatedTerms:

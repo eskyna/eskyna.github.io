@@ -5,8 +5,7 @@ description: "Масштабирование задних карманов эт�
 slug: taschen-skalierung
 url: /rus/glossariy/taschen-skalierung/
 aliases:
-  - /rus/glossar/taschen-skalierung/
-  - /ru/glossar/taschen-skalierung/
+  - /glossar/taschen-skalierung/
 category: "Крой, пропорции и посадка"
 tags:
   - "задние карманы"

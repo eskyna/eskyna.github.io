@@ -5,8 +5,7 @@ description: "Сигнальный стайлинг это осознанный 
 slug: signal-styling
 url: /rus/glossariy/signal-styling/
 aliases:
-  - /rus/glossar/signal-styling/
-  - /ru/glossar/signal-styling/
+  - /glossar/signal-styling/
 category: Стиль и впечатление
 tags:
   - сигнальный-стайлинг

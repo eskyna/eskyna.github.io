@@ -32,9 +32,8 @@ seoTitle: "Сущность стиля: что это и как найти св�
 slug: sushchnost
 url: /ru/glossar/essenz/
 aliases:
-  - /rus/glossar/essenz/
-  - /ru/glossar/essenz/
-  - /rus/glossariy/sushchnost/
+  - /glossar/essenz/
+  - /glossariy/sushchnost/
 knowledge:
   - "Сущность стиля не равна одному стилевому направлению: она может проявляться через разные силуэты, цвета и уровни формальности."
   - Ясная сущность помогает оценивать покупки не только по красоте вещи, но и по тому, поддерживает ли она ваш образ жизни и желаемое впечатление.

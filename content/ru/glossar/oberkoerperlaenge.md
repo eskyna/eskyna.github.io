@@ -35,8 +35,7 @@ seoTitle: "Длина корпуса | ESKYNA Glossary"
 slug: dlina-korpusa
 url: /rus/glossariy/dlina-korpusa/
 aliases:
-  - /rus/glossar/oberkoerperlaenge/
-  - /ru/glossar/oberkoerperlaenge/
+  - /glossar/oberkoerperlaenge/
 image_alt: "Иллюстрация пропорций тела: длина корпуса относительно линии талии и ног"
 lastmod: "2026-07-09"
 knowledge:

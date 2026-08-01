@@ -20,8 +20,7 @@ keywords:
 slug: business-casual
 url: /en/glossary/business-casual/
 aliases:
-  - /en/glossar/business-casual/
-  - /glossary/business-casual/
+  - /glossar/business-casual/
 image_alt: Editorial illustration of a polished Business Casual office outfit with blazer, trousers, and loafers
 relatedTerms:
   - title: Smart Casual

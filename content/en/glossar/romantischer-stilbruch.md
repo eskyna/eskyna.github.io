@@ -4,8 +4,7 @@ term: "Romantic Style Contrast"
 slug: "romantischer-stilbruch"
 url: "/en/glossary/romantischer-stilbruch/"
 aliases:
-  - "/en/glossar/romantischer-stilbruch/"
-  - "/glossary/romantischer-stilbruch/"
+  - /glossar/romantischer-stilbruch/
 description: "Romantic style contrast pairs soft, feminine or decorative clothing with a tougher, simpler, or more casual piece to create a modern and balanced outfit."
 category: "Style & Impact"
 subcategory: "Style & Impact"

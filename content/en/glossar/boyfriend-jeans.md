@@ -21,8 +21,7 @@ keywords:
 slug: boyfriend-jeans
 url: /en/glossary/boyfriend-jeans/
 aliases:
-  - /en/glossar/boyfriend-jeans/
-  - /glossary/boyfriend-jeans/
+  - /glossar/boyfriend-jeans/
 image_alt: Relaxed blue boyfriend jeans styled with a simple top and loafers
 relatedTerms:
   - title: Jeans

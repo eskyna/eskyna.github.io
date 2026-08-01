@@ -37,9 +37,8 @@ seoTitle: "Туфли с открытой пяткой | ESKYNA"
 slug: tufli-s-otkrytoy-pyatkoy
 url: /rus/glossariy/tufli-s-otkrytoy-pyatkoy/
 aliases:
-  - /rus/glossar/slingback/
-  - /ru/glossar/slingback/
-  - /rus/glossariy/slingback/
+  - /glossar/slingback/
+  - /glossariy/slingback/
 lastmod: "2026-07-09"
 knowledge:
   - Ремешок слингбэков должен фиксировать пятку без сильного давления и соскальзывания при ходьбе.

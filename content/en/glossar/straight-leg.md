@@ -22,8 +22,7 @@ keywords:
 slug: straight-leg
 url: /en/glossary/straight-leg/
 aliases:
-  - /en/glossar/straight-leg/
-  - /glossary/straight-leg/
+  - /glossar/straight-leg/
 image_alt: Editorial illustration of straight-leg trousers with an even line from hip to hem
 relatedTerms:
   - title: Jeans

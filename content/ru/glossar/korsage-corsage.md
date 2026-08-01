@@ -9,8 +9,7 @@ image: "images/glossar/korsage-corsage.png"
 image_alt: "Корсаж с выраженной линией талии и конструктивными швами"
 url: /rus/glossariy/korsage-corsage/
 aliases:
-  - /rus/glossar/korsage-corsage/
-  - /ru/glossar/korsage-corsage/
+  - /glossar/korsage-corsage/
 tags:
   - корсаж
   - corsage

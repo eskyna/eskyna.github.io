@@ -35,10 +35,9 @@ seoTitle: "Широкие брючины: что это и как носить w
 slug: shirokie-bryuchiny
 url: /ru/glossar/wide-leg/
 aliases:
-  - /rus/glossar/wide-leg/
-  - /ru/glossar/wide-leg/
-  - /rus/glossariy/wide-leg/
-  - /rus/glossariy/shirokie-bryuchiny/
+  - /glossar/wide-leg/
+  - /glossariy/wide-leg/
+  - /glossariy/shirokie-bryuchiny/
 lastmod: "2026-07-09"
 knowledge:
   - "Широкая штанина может быть частью разных моделей: брюк Марлен, палаццо, костюмных брюк или джинсов."

@@ -22,8 +22,7 @@ keywords:
 slug: satchel-bag
 url: /en/glossary/satchel-bag/
 aliases:
-  - /en/glossar/satchel-bag/
-  - /glossary/satchel-bag/
+  - /glossar/satchel-bag/
 image_alt: Structured leather satchel bag with top handle, flap closure, and shoulder strap
 relatedTerms:
   - title: Top Handle Bag

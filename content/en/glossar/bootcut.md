@@ -22,8 +22,7 @@ keywords:
 slug: bootcut
 url: /en/glossary/bootcut/
 aliases:
-  - /en/glossar/bootcut/
-  - /glossary/bootcut/
+  - /glossar/bootcut/
 image_alt: Blue bootcut jeans with a slight flare from the knee over ankle boots
 relatedTerms:
   - title: Jeans

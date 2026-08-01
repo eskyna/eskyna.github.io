@@ -22,8 +22,7 @@ keywords:
 slug: neutral-colors
 url: /en/glossary/neutral-colors/
 aliases:
-  - /en/glossar/neutrale-farben/
-  - /glossary/neutral-colors/
+  - /glossar/neutrale-farben/
 image_alt: Editorial illustration showing a wardrobe palette of neutral colors including cream, beige, gray, navy, brown, and black
 relatedTerms:
   - title: Undertone

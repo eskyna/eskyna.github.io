@@ -21,8 +21,7 @@ keywords:
 slug: torso-length
 url: /en/glossary/torso-length/
 aliases:
-  - /en/glossar/oberkoerperlaenge/
-  - /glossary/torso-length/
+  - /glossar/oberkoerperlaenge/
 image_alt: Editorial illustration showing how shoulder-to-waist length affects clothing proportions
 relatedTerms:
   - title: Proportion

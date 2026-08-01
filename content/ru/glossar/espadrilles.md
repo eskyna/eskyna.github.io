@@ -34,8 +34,7 @@ seoTitle: "Эспадрильи: что это, с чем носить и как
 slug: espadrili
 url: /rus/glossariy/espadrili/
 aliases:
-  - /rus/glossar/espadrilles/
-  - /ru/glossar/espadrilles/
+  - /glossar/espadrilles/
 lastmod: "2026-07-09"
 history:
   - Эспадрильи традиционно связывают с обувью Пиренейского региона, где для верха использовали текстиль, а для подошвы плетёный растительный материал.

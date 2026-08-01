@@ -37,8 +37,7 @@ seoTitle: "Устойчивый гардероб | ESKYNA Glossary"
 slug: ustoychivyy-garderob
 url: /rus/glossariy/ustoychivyy-garderob/
 aliases:
-  - /rus/glossar/nachhaltige-garderobe/
-  - /ru/glossar/nachhaltige-garderobe/
+  - /glossar/nachhaltige-garderobe/
 lastmod: "2026-07-09"
 history:
   - "Идея устойчивого гардероба развивалась как ответ на ускорение производства и потребления одежды."

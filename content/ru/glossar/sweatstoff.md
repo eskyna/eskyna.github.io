@@ -37,9 +37,8 @@ seoTitle: "Трикотаж футер | ESKYNA Glossary"
 slug: trikotazh-futer
 url: /rus/glossariy/trikotazh-futer/
 aliases:
-  - /rus/glossar/sweatstoff/
-  - /ru/glossar/sweatstoff/
-  - /rus/glossariy/sweat-fabric/
+  - /glossar/sweatstoff/
+  - /glossariy/sweat-fabric/
 lastmod: "2026-07-09"
 knowledge:
   - Футер обычно узнают по гладкой лицевой стороне и петлям на изнанке, которые могут оставаться видимыми или быть начёсаны.

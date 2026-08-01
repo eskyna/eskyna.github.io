@@ -35,8 +35,7 @@ seoTitle: "Шалевый воротник | ESKYNA Glossary"
 slug: schalkragen
 url: /ru/glossar/schalkragen/
 aliases:
-  - /rus/glossar/schalkragen/
-  - /ru/glossar/schalkragen/
+  - /glossar/schalkragen/
 lastmod: "2026-07-09"
 history:
   - "Шалевый воротник получил название благодаря плавной линии, напоминающей край шали."

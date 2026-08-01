@@ -38,9 +38,9 @@ seoTitle: "Красный в одежде: значение, оттенки и �
 slug: krasnyy
 url: /ru/glossar/rot/
 aliases:
-  - /rus/glossar/rot/
-  - /rus/glossariy/krasnyy/
-  - /ru/glossar/krasnyy/
+  - /glossar/rot/
+  - /glossariy/krasnyy/
+  - /glossar/krasnyy/
 lastmod: "2026-07-09"
 history:
   - Красный цвет веками использовали в одежде, церемониальном костюме и знаках статуса, поскольку насыщенные красители были сложны в получении и ценились особенно высоко.

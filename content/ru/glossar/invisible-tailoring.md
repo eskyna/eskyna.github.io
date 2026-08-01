@@ -5,8 +5,7 @@ description: "Invisible Tailoring, или скрытая коррекция по
 slug: invisible-tailoring
 url: /rus/glossariy/invisible-tailoring/
 aliases:
-  - /rus/glossar/invisible-tailoring/
-  - /ru/glossar/invisible-tailoring/
+  - /glossar/invisible-tailoring/
 category: Крой, пропорции и посадка
 tags:
   - скрытая-коррекция-посадки

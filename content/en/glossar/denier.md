@@ -8,8 +8,7 @@ image_alt: Glossary illustration showing sheer and opaque tights in different de
 slug: denier
 url: /en/glossary/denier/
 aliases:
-  - /en/glossar/denier/
-  - /glossary/denier/
+  - /glossar/denier/
 tags:
   - denier
   - tights

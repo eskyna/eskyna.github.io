@@ -34,8 +34,7 @@ seoTitle: "Цветовая гармония: значение и примене
 slug: tsvetovaya-garmoniya
 url: /rus/glossariy/tsvetovaya-garmoniya/
 aliases:
-  - /rus/glossar/farbharmonie/
-  - /ru/glossar/farbharmonie/
+  - /glossar/farbharmonie/
 image_alt: "Цветовой круг с гармонично сочетающимися оттенками"
 lastmod: "2026-07-09"
 history:

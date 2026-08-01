@@ -15,8 +15,7 @@ keywords:
 slug: monkstrap
 url: /rus/glossariy/monkstrap/
 aliases:
-  - /rus/glossar/monkstrap/
-  - /ru/glossar/monkstrap/
+  - /glossar/monkstrap/
 tags:
   - монкстрапы
   - классическая обувь

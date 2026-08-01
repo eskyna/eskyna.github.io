@@ -5,8 +5,7 @@ description: "Треугольный бикини, или triangle bikini, эт�
 slug: triangel-bikini
 url: /rus/glossariy/triangel-bikini/
 aliases:
-  - /rus/glossar/triangel-bikini/
-  - /ru/glossar/triangel-bikini/
+  - /glossar/triangel-bikini/
 category: Гардероб и повседневность
 tags:
   - треугольный-бикини

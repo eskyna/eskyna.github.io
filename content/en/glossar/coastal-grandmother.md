@@ -21,8 +21,7 @@ keywords:
 slug: coastal-grandmother
 url: /en/glossary/coastal-grandmother/
 aliases:
-  - /en/glossar/coastal-grandmother/
-  - /glossary/coastal-grandmother/
+  - /glossar/coastal-grandmother/
 image_alt: Relaxed coastal grandmother outfit with a linen shirt, light knitwear, tailored trousers, and woven accessories
 relatedTerms:
   - title: Quiet Luxury

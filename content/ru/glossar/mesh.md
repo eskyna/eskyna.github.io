@@ -9,8 +9,7 @@ image: "images/glossar/mesh.png"
 image_alt: "Полупрозрачная ткань mesh с мелкой сетчатой структурой"
 url: /rus/glossariy/mesh/
 aliases:
-  - /rus/glossar/mesh/
-  - /ru/glossar/mesh/
+  - /glossar/mesh/
 tags:
   - mesh
   - ткань-сетка

@@ -14,8 +14,7 @@ keywords:
 slug: musselin
 url: /en/glossary/musselin/
 aliases:
-  - /en/glossar/musselin/
-  - /glossary/musselin/
+  - /glossar/musselin/
 tags:
   - muslin
   - double gauze

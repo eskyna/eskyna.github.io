@@ -14,8 +14,7 @@ keywords:
 slug: nahtzugabe
 url: /en/glossary/nahtzugabe/
 aliases:
-  - /en/glossar/nahtzugabe/
-  - /glossary/nahtzugabe/
+  - /glossar/nahtzugabe/
 tags:
   - "sewing"
   - "garment construction"

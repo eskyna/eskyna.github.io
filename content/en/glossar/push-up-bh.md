@@ -9,8 +9,7 @@ image: "images/glossar/push-up-bh.png"
 image_alt: "Glossary illustration of a push-up bra with shaped cups and supportive straps"
 url: /en/glossary/push-up-bh/
 aliases:
-  - /en/glossar/push-up-bh/
-  - /glossary/push-up-bh/
+  - /glossar/push-up-bh/
 tags:
   - push-up bra
   - bra fit

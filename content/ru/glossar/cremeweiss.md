@@ -37,8 +37,7 @@ seoTitle: "Кремово-белый | ESKYNA Glossary"
 slug: kremovo-belyy
 url: /rus/glossariy/kremovo-belyy/
 aliases:
-  - /rus/glossar/cremeweiss/
-  - /ru/glossar/cremeweiss/
+  - /glossar/cremeweiss/
 image_alt: "Кремово-белый оттенок белого с мягким тёплым кремовым нюансом"
 lastmod: "2026-07-09"
 knowledge:

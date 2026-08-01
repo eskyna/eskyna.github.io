@@ -34,8 +34,7 @@ seoTitle: "Размещённый принт: что это и как влияе
 slug: razmeshchyonnyy-print
 url: /rus/glossariy/razmeshchyonnyy-print/
 aliases:
-  - /rus/glossar/platzierter-print/
-  - /ru/glossar/platzierter-print/
+  - /glossar/platzierter-print/
 lastmod: "2026-07-09"
 knowledge:
   - Размещённый принт создаётся для определённого места на изделии, поэтому его композиция не повторяется равномерно по всей ткани.

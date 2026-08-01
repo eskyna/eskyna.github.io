@@ -5,7 +5,7 @@ layout: all-terms
 is_glossar_index_helper: true
 url: /rus/glossariy/vse-terminy/
 aliases:
-  - /rus/glossariy/vse-terminy-a-z/
+  - /glossariy/vse-terminy-a-z/
 keywords:
   - все термины моды A-Z
   - модный глоссарий

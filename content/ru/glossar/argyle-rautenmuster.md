@@ -15,8 +15,7 @@ keywords:
 slug: argyle-rautenmuster
 url: /rus/glossariy/argyle-rautenmuster/
 aliases:
-  - /rus/glossar/argyle-rautenmuster/
-  - /ru/glossar/argyle-rautenmuster/
+  - /glossar/argyle-rautenmuster/
 tags:
   - узор
   - аргайл

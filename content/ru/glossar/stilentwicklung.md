@@ -34,8 +34,7 @@ seoTitle: "Развитие стиля | ESKYNA Glossary"
 slug: razvitie-stilya
 url: /rus/glossariy/razvitie-stilya/
 aliases:
-  - /rus/glossar/stilentwicklung/
-  - /ru/glossar/stilentwicklung/
+  - /glossar/stilentwicklung/
 lastmod: "2026-07-09"
 knowledge:
   - "Развитие стиля не требует полной замены гардероба: часто оно начинается с уточнения посадки, палитры, силуэтов и способов сочетания уже имеющихся вещей."

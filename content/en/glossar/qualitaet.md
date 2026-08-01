@@ -20,8 +20,7 @@ keywords:
 slug: quality
 url: /en/glossary/quality/
 aliases:
-  - /en/glossar/qualitaet/
-  - /glossary/quality/
+  - /glossar/qualitaet/
 image_alt: Editorial glossary illustration showing fabric, seams, and clothing quality details
 relatedTerms:
   - title: Material Quality

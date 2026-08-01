@@ -34,9 +34,8 @@ seoTitle: "Ботильоны: что это такое и как носить |
 slug: botilony
 url: /rus/glossariy/botilony/
 aliases:
-  - /rus/glossar/stiefelette/
-  - /ru/glossar/stiefelette/
-  - /rus/glossariy/ankle-boots/
+  - /glossar/stiefelette/
+  - /glossariy/ankle-boots/
 lastmod: "2026-07-09"
 knowledge:
   - Ботильоны различаются по высоте голенища, форме носка, каблуку, объёму в области щиколотки и материалу, поэтому одна и та же категория обуви может выглядеть строго, расслабленно, нарядно или дерзко.

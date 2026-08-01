@@ -21,8 +21,7 @@ keywords:
 slug: corset-top
 url: /en/glossary/corset-top/
 aliases:
-  - /en/glossar/korsett-top/
-  - /glossary/corset-top/
+  - /glossar/korsett-top/
 image_alt: Editorial illustration of a structured corset top with shaping seams and a fitted bodice
 relatedTerms:
   - title: Corsage

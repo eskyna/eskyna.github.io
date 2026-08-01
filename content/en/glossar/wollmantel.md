@@ -22,8 +22,7 @@ keywords:
 slug: wool-coat
 url: /en/glossary/wool-coat/
 aliases:
-  - /en/glossar/wollmantel/
-  - /glossary/wool-coat/
+  - /glossar/wollmantel/
 image_alt: Long camel wool coat styled over a simple neutral everyday outfit
 relatedTerms:
   - title: Wool

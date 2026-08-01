@@ -23,7 +23,6 @@ keywords:
 slug: fabric-weight
 url: /en/glossar/stoffgewicht/
 aliases:
-  - /en/glossar/stoffgewicht/
   - /glossary/fabric-weight/
 image_alt: Editorial illustration comparing lightweight, medium-weight, and heavyweight fabrics
 relatedTerms:

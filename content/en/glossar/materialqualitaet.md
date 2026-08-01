@@ -21,8 +21,7 @@ keywords:
 slug: material-quality
 url: /en/glossary/material-quality/
 aliases:
-  - /en/glossar/materialqualitaet/
-  - /glossary/material-quality/
+  - /glossar/materialqualitaet/
 image_alt: Close view of different clothing fabrics showing texture, weave, and surface quality
 relatedTerms:
   - title: Material Profile

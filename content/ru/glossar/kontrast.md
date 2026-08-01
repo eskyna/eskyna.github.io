@@ -39,9 +39,8 @@ seoTitle: "Контраст в стиле | ESKYNA Glossary"
 slug: kontrast
 url: /ru/glossar/kontrast/
 aliases:
-  - /rus/glossar/kontrast/
-  - /rus/glossariy/kontrast/
-  - /ru/glossar/kontrast/
+  - /glossar/kontrast/
+  - /glossariy/kontrast/
 lastmod: "2026-07-09"
 history:
   - Контраст как художественный принцип давно используется в живописи, дизайне и костюме для управления вниманием и выразительностью.

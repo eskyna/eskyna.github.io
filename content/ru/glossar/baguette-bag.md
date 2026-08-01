@@ -9,8 +9,7 @@ image: "images/glossar/baguette-bag.png"
 image_alt: "Компактная вытянутая сумка Baguette Bag на коротком плечевом ремне"
 url: /rus/glossariy/baguette-bag/
 aliases:
-  - /rus/glossar/baguette-bag/
-  - /ru/glossar/baguette-bag/
+  - /glossar/baguette-bag/
 tags:
   - сумка-багет
   - плечевые сумки

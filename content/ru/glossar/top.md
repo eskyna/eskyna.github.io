@@ -34,8 +34,8 @@ seoTitle: "Топ: что это такое, как выбрать и с чем 
 slug: top
 url: /ru/glossar/top/
 aliases:
-  - /rus/glossar/top/
-  - /rus/glossariy/top/
+  - /glossar/top/
+  - /glossariy/top/
 lastmod: "2026-07-09"
 knowledge:
   - "Топ может быть самостоятельной вещью или нижним слоем под жакет, кардиган, рубашку и другие элементы многослойного образа."

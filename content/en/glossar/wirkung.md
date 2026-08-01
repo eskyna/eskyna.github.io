@@ -20,8 +20,7 @@ keywords:
 slug: impact
 url: /en/glossary/impact/
 aliases:
-  - /en/glossar/wirkung/
-  - /glossary/impact/
+  - /glossar/wirkung/
 image_alt: Editorial illustration representing visual impact, personal presence, and intentional style
 relatedTerms:
   - title: Presence

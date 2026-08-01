@@ -35,9 +35,8 @@ seoTitle: "Бизнес-кэжуал | ESKYNA Glossary"
 slug: biznes-kezhual
 url: /rus/glossariy/biznes-kezhual/
 aliases:
-  - /rus/glossar/business-casual/
-  - /ru/glossar/business-casual/
-  - /rus/glossariy/business-casual/
+  - /glossar/business-casual/
+  - /glossariy/business-casual/
 lastmod: "2026-07-09"
 knowledge:
   - "Бизнес-кэжуал не имеет единого универсального набора вещей: его уровень зависит от сферы, корпоративной культуры, страны и повода."

@@ -8,8 +8,7 @@ image_alt: Close-up illustration of an overlock seam finishing the inside edge o
 slug: overlocknaht
 url: /en/glossary/overlocknaht/
 aliases:
-  - /en/glossar/overlocknaht/
-  - /glossary/overlocknaht/
+  - /glossar/overlocknaht/
 tags:
   - overlock seam
   - garment construction

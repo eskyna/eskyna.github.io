@@ -5,7 +5,7 @@ layout: all-terms
 is_glossar_index_helper: true
 url: /en/glossary/all-terms/
 aliases:
-  - /en/glossary/all-terms-a-z/
+  - /glossary/all-terms-a-z/
 term: All Terms A-Z
 category: Glossary
 tags:

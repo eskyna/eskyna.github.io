@@ -35,10 +35,9 @@ seoTitle: "Сникерина | Style & Image ESKYNA"
 slug: sneakerina
 url: /ru/glossar/sneakerina/
 aliases:
-  - /rus/glossar/sneakerina/
-  - /ru/glossar/sneakerina/
-  - /rus/glossariy/sneakerina/
-  - /rus/glossariy/snikerina/
+  - /glossar/sneakerina/
+  - /glossariy/sneakerina/
+  - /glossariy/snikerina/
 image_alt: "Сникерина, гибрид балеток и кроссовок с плоской спортивной подошвой"
 lastmod: "2026-07-09"
 knowledge:

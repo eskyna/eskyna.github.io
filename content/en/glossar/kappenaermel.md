@@ -8,8 +8,7 @@ image_alt: Illustration of a top with short cap sleeves that extend slightly ove
 slug: kappenaermel
 url: /en/glossary/kappenaermel/
 aliases:
-  - /en/glossar/kappenaermel/
-  - /glossary/kappenaermel/
+  - /glossar/kappenaermel/
 tags:
   - cap sleeve
   - sleeve length

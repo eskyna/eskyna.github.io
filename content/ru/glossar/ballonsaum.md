@@ -22,8 +22,7 @@ seoTitle: "Баллонный подол: значение и применени
 slug: ballonnyy-podol
 url: /rus/glossariy/ballonnyy-podol/
 aliases:
-  - /rus/glossar/ballonsaum/
-  - /ru/glossar/ballonsaum/
+  - /glossar/ballonsaum/
 relatedTerms:
   - title: Bubble Skirt и Ballonrock
     url: /ru/glossar/bubble-skirt-ballonrock/

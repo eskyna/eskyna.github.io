@@ -9,8 +9,7 @@ image_alt: "Иллюстрация платья с асимметричным в
 slug: one-shoulder-ausschnitt
 url: /rus/glossariy/one-shoulder-ausschnitt/
 aliases:
-  - /rus/glossar/one-shoulder-ausschnitt/
-  - /ru/glossar/one-shoulder-ausschnitt/
+  - /glossar/one-shoulder-ausschnitt/
 tags:
   - вырез на одно плечо
   - асимметричный вырез

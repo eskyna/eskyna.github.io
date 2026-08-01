@@ -4,8 +4,7 @@ term: Силуэт для социальных сетей
 slug: social-media-silhuette
 url: /rus/glossariy/social-media-silhuette/
 aliases:
-  - /rus/glossar/social-media-silhuette/
-  - /ru/glossar/social-media-silhuette/
+  - /glossar/social-media-silhuette/
 description: "Силуэт для социальных сетей это способ собрать образ с ясными линиями, заметным контрастом и выразительными пропорциями, чтобы он хорошо читался на фото и видео."
 category: Стиль и впечатление
 tags:

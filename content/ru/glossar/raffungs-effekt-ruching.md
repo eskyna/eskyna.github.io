@@ -20,8 +20,7 @@ weight: 999
 slug: "raffungs-effekt-ruching"
 url: "/rus/glossariy/raffungs-effekt-ruching/"
 aliases:
-  - "/rus/glossar/raffungs-effekt-ruching/"
-  - "/ru/glossar/raffungs-effekt-ruching/"
+  - /glossar/raffungs-effekt-ruching/
 image: "images/glossar/raffungs-effekt-ruching.png"
 image_alt: "Купальник с мягкими присборенными складками на ткани"
 relatedTerms:

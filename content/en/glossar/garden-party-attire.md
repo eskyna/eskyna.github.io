@@ -22,8 +22,7 @@ keywords:
 slug: garden-party-attire
 url: /en/glossary/garden-party-attire/
 aliases:
-  - /en/glossar/garden-party-attire/
-  - /glossary/garden-party-attire/
+  - /glossar/garden-party-attire/
 image_alt: Editorial glossary illustration for Garden Party Attire
 relatedTerms:
   - title: Garden Party Attire

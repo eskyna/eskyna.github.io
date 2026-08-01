@@ -5,8 +5,7 @@ description: "Высокий V-вырез по бедру, или French Cut, э
 slug: hueft-v-ausschnitt-french-cut
 url: /rus/glossariy/hueft-v-ausschnitt-french-cut/
 aliases:
-  - /rus/glossar/hueft-v-ausschnitt-french-cut/
-  - /ru/glossar/hueft-v-ausschnitt-french-cut/
+  - /glossar/hueft-v-ausschnitt-french-cut/
 category: "Белье, бюстгальтеры и стилистические помощники"
 tags:
   - высокий-вырез-по-бедру

@@ -40,8 +40,7 @@ seoTitle: "Белый цвет в одежде: значение, оттенки
 slug: belyy
 url: /rus/glossariy/belyy/
 aliases:
-  - /rus/glossar/weiss/
-  - /ru/glossar/weiss/
+  - /glossar/weiss/
 lastmod: "2026-07-09"
 knowledge:
   - "Белый не является одним универсальным оттенком: чисто-белый, молочно-белый, кремовый и экрю различаются по температуре, светлоте и контрасту."

@@ -21,8 +21,7 @@ keywords:
 slug: 80s-luxury
 url: /en/glossary/80s-luxury/
 aliases:
-  - /en/glossar/80s-luxury/
-  - /glossary/80s-luxury/
+  - /glossar/80s-luxury/
 image_alt: Editorial glossary illustration showing an 80s Luxury outfit with strong shoulders, rich texture, and gold accessories
 relatedTerms:
   - title: Power dressing

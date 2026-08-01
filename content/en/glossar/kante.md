@@ -21,8 +21,7 @@ keywords:
 slug: edge
 url: /en/glossary/edge/
 aliases:
-  - /en/glossar/kante/
-  - /glossary/edge/
+  - /glossar/kante/
 image_alt: Editorial glossary illustration showing finished garment edges and construction details
 relatedTerms:
   - title: Hem
