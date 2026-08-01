@@ -61,7 +61,7 @@ Typisch ist der deutliche Kontrast zwischen zwei Farben, häufig [Schwarz](/glos
 
 Auf den ersten Blick wirkt Hahnentritt wie ein Karo. Schaust du genauer hin, erkennst du jedoch die gezackten Ausläufer an den Ecken der einzelnen Formen. Anders als bei einem geraden Schachbrettkaro entstehen keine klar abgegrenzten Quadrate.
 
-Das Muster wird meist gewebt. Unterschiedlich gefärbte Kett- und Schussfäden werden so angeordnet, dass sich die typische gebrochene Karostruktur bildet. Häufig basiert Hahnentritt auf einer Variante der [Köperbindung](/glossar/twill/), die dem Stoff zusätzlich eine dezente Tiefe geben kann.
+Das Muster wird meist gewebt. Unterschiedlich gefärbte Kett- und Schussfäden werden so angeordnet, dass sich die typische gebrochene Karostruktur bildet. Häufig basiert Hahnentritt auf einer Variante der [Köperbindung](/glossar/koeperbindung-twill/), die dem Stoff zusätzlich eine dezente Tiefe geben kann.
 
 Ein sehr kleiner Hahnentritt erscheint aus der Entfernung oft fast wie eine graue oder melierte Fläche. Erst aus der Nähe wird das Muster sichtbar. Großformatiger Hahnentritt wirkt dagegen deutlich grafischer und zieht den Blick sofort an.
 

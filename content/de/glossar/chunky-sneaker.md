@@ -85,7 +85,7 @@ Achte auf die [Schuh Saum Beziehung](/glossar/schuh-saum-beziehung/): Der Hosens
 
 Zu einem Slip Dress, Midikleid oder Plisseerock schaffen Chunky Sneaker einen modernen Kontrast zwischen sportlicher Schuhform und weichem Materialfall. Das Outfit wirkt weniger formell und oft alltagstauglicher.
 
-Wenn du die Silhouette ruhig halten möchtest, greife die Farbe der Schuhe an anderer Stelle auf, etwa in Tasche, Jacke oder Oberteil. Die [Sandwich Methode](/glossar/sandwich-methode/) hilft dir dabei, den Look sichtbar zusammenzuhalten.
+Wenn du die Silhouette ruhig halten möchtest, greife die Farbe der Schuhe an anderer Stelle auf, etwa in Tasche, Jacke oder Oberteil. Die [Sandwich Methode](/glossar/sandwich-regel/) hilft dir dabei, den Look sichtbar zusammenzuhalten.
 
 ### Mit Athleisure und Streetstyle
 

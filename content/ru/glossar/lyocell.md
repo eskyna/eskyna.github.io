@@ -38,6 +38,8 @@ url: /rus/glossariy/liotsell/
 aliases:
   - /glossar/lyocell/
   - /glossariy/lyocell/
+  - /glossariy/lyocell-tencel/
+  - /glossar/lyocell-tencel/
 lastmod: "2026-07-09"
 knowledge:
   - Лиоцелл относится к волокнам на основе целлюлозы, а не к конкретному виду ткани или переплетению.

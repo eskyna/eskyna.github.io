@@ -19,7 +19,7 @@ image: images/glossar/overknee-stiefel.png
 image_alt: "Schwarze Overknee-Stiefel mit hohem Schaft über dem Knie"
 relatedTerms:
   - title: Overknees
-    url: /glossar/overknees/
+    url: /glossar/overknee-stiefel/
   - title: Knee-High Boots
     url: /glossar/knee-high-boots/
   - title: Minirock
@@ -41,11 +41,14 @@ faq:
     - q: "Welche Röcke und Kleider passen zu Overknee-Stiefeln?"
       a: "Gut funktionieren kurze bis mittellange Säume, Röcke mit Bewegung sowie Kleider mit Schlitz. Entscheidend ist, dass du dich sicher fühlst und die Längen bewusst aufeinander abstimmst."
 lastmod: "2026-07-30"
+aliases:
+  - /glossar/overknees/
+  - /glossar/overknee-stiefel/
 ---
 
 ## Definition
 
-**Overknee-Stiefel** sind Stiefel mit einem langen Schaft, der über das Knie reicht. Sie werden auch kurz [Overknees](/glossar/overknees/) genannt und setzen die Beinlinie deutlich in Szene.
+**Overknee-Stiefel** sind Stiefel mit einem langen Schaft, der über das Knie reicht. Sie werden auch kurz [Overknees](/glossar/overknee-stiefel/) genannt und setzen die Beinlinie deutlich in Szene.
 
 Je nach Material, Absatz, Schaftweite und Farbe können Overknee-Stiefel elegant, modern, sinnlich, lässig oder sehr markant wirken. Ein flaches Modell aus mattem Material vermittelt etwas anderes als ein schmaler Stiefel mit hohem Absatz und glänzender Oberfläche.
 

@@ -118,7 +118,7 @@ Wie Schuh und Hosenbein zusammenwirken, erklärt der Beitrag [Schuh Saum Beziehu
 
 ### Mit klaren Details arbeiten
 
-Schuhe, Taschen, Schmuck oder ein strukturierter Blazer können Loose Fit Looks präzisieren. Die [Sandwich Methode](/glossar/sandwich-methode/) hilft dir ebenfalls: Wiederhole ein optisches Gewicht oben und unten, etwa durch eine markante Brille und kräftigere Schuhe. So bleibt die Mitte ruhig, während das Outfit insgesamt ausgewogen wirkt.
+Schuhe, Taschen, Schmuck oder ein strukturierter Blazer können Loose Fit Looks präzisieren. Die [Sandwich Methode](/glossar/sandwich-regel/) hilft dir ebenfalls: Wiederhole ein optisches Gewicht oben und unten, etwa durch eine markante Brille und kräftigere Schuhe. So bleibt die Mitte ruhig, während das Outfit insgesamt ausgewogen wirkt.
 
 ## Loose Fit in der Modegeschichte
 

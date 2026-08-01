@@ -33,6 +33,9 @@ slug: poliamid
 url: /rus/glossariy/poliamid/
 aliases:
   - /glossar/polyamid/
+  - /glossariy/polyamid/
+  - /glossariy/polyamid-nylon/
+  - /glossar/polyamid-nylon/
 lastmod: "2026-07-09"
 history:
   - "Полиамиды получили промышленное распространение в XX веке как группа синтетических материалов."

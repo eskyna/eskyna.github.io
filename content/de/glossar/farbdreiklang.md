@@ -29,7 +29,7 @@ relatedTerms:
   - title: "Komplementärfarben"
     url: "/glossar/komplementaerfarben/"
   - title: "Colour Blocking"
-    url: "/glossar/colour-blocking/"
+    url: "/glossar/color-blocking/"
   - title: "Akzentfarbe"
     url: "/glossar/akzentfarbe/"
 knowledge:
@@ -103,7 +103,7 @@ Ein Farbdreiklang muss nicht laut sein. Dieselbe Grundordnung kann je nach Nuanc
 
 ### Klare Farben für starke Kontraste
 
-Reine, leuchtende Farben erzeugen eine dynamische und sichtbare Wirkung. Das passt gut zu bewusstem [Colour Blocking](/glossar/colour-blocking/), sportlichen Looks oder einem einzelnen starken Statement.
+Reine, leuchtende Farben erzeugen eine dynamische und sichtbare Wirkung. Das passt gut zu bewusstem [Colour Blocking](/glossar/color-blocking/), sportlichen Looks oder einem einzelnen starken Statement.
 
 Damit der Look nicht überladen wirkt, halte Schnitt und Material eher klar. Drei intensive Farben brauchen meist keine zusätzlichen auffälligen Muster.
 

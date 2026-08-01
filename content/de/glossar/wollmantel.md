@@ -65,7 +65,7 @@ Ein Wollmantel kann schlicht und gerade geschnitten sein, eine betonte Taille ha
 
 Wollstoffe wurden lange für wetterfeste Oberbekleidung genutzt. Im 19. und frühen 20. Jahrhundert prägten Berufs- und Militärkleidung viele Mantelformen, die später in die Alltagsmode übernommen wurden.
 
-Bis heute zeigen sich diese Ursprünge in bekannten Modellen. Die [Cabanjacke](/glossar/cabanjacke/) und ihr englischsprachiger Verwandter, der [Peacoat](/glossar/peacoat/), stehen für eine kurze, doppelreihige Form mit maritimer Anmutung. Der [Dufflecoat](/glossar/dufflecoat/) ist an Kapuze und Knebelverschlüssen erkennbar. Moderne Wollmäntel greifen solche Elemente auf oder reduzieren sie zu klaren, zeitlosen Formen.
+Bis heute zeigen sich diese Ursprünge in bekannten Modellen. Die [Cabanjacke](/glossar/cabanjacke/) und ihr englischsprachiger Verwandter, der [Peacoat](/glossar/cabanjacke/), stehen für eine kurze, doppelreihige Form mit maritimer Anmutung. Der [Dufflecoat](/glossar/dufflecoat/) ist an Kapuze und Knebelverschlüssen erkennbar. Moderne Wollmäntel greifen solche Elemente auf oder reduzieren sie zu klaren, zeitlosen Formen.
 
 ## Material und Qualität erkennen
 

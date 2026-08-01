@@ -33,7 +33,7 @@ relatedTerms:
   - title: Kaufkriterien
     url: /glossar/kaufkriterien/
   - title: Preis-pro-Tragen-Strategie
-    url: /glossar/preis-pro-tragen-strategie/
+    url: /glossar/cost-per-wear/
 knowledge:
   - Slow Fashion ist kein geschütztes Siegel und keine Garantie für Nachhaltigkeit.
   - Entscheidend sind konkrete Informationen zu Material, Verarbeitung, Pflege, Reparatur und tatsächlicher Nutzung.

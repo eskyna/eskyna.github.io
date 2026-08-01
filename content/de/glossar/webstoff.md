@@ -30,7 +30,7 @@ relatedTerms:
   - title: Strick
     url: /glossar/strick/
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
 knowledge:
   - Webstoffe entstehen durch die rechtwinklige Verkreuzung zweier Fadensysteme, Kette und Schuss.
   - Die Bindung, Faser, Dichte und Garnstärke bestimmen, wie fest, weich, glatt oder fließend ein Webstoff wirkt.
@@ -64,7 +64,7 @@ Beim Weben werden die Kettfäden straff in Längsrichtung geführt. Ein Schussfa
 Die drei klassischen Grundwebarten sind:
 
 - **Leinwandbindung:** Kette und Schuss kreuzen sich regelmäßig abwechselnd. Das ergibt eine gleichmäßige, meist eher matte und stabile Fläche. [Popeline](/glossar/popeline/) ist ein bekanntes Beispiel für einen Stoff in Leinwandbindung.
-- **Köperbindung:** Die Fäden bilden sichtbare diagonale Linien. Diese Bindung ist typisch für [Twill](/glossar/twill/), Denim oder Gabardine und wirkt oft robust, aber beweglicher als eine feste Leinwandbindung.
+- **Köperbindung:** Die Fäden bilden sichtbare diagonale Linien. Diese Bindung ist typisch für [Twill](/glossar/koeperbindung-twill/), Denim oder Gabardine und wirkt oft robust, aber beweglicher als eine feste Leinwandbindung.
 - **Atlasbindung:** Längere Fadenflottierungen erzeugen eine besonders glatte Oberfläche mit stärkerem Lichtspiel. [Satin](/glossar/satin/) zeigt diese Bindung besonders deutlich.
 
 ## Welche Eigenschaften hat Webware?

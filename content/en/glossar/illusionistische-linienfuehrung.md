@@ -78,7 +78,7 @@ Start with the visual goal rather than a fixed body rule. You may want an outfit
 
 ### Create a longer visual line
 
-Choose clothing that allows the eye to travel through the outfit with few abrupt breaks. A tonal outfit, a long open layer, or trousers and shoes in related colors can create continuity. [Monochromatic Dressing](/en/glossar/monochromie/) is especially useful when you want a calm, uninterrupted impression.
+Choose clothing that allows the eye to travel through the outfit with few abrupt breaks. A tonal outfit, a long open layer, or trousers and shoes in related colors can create continuity. [Monochromatic Dressing](/en/glossar/monochrom/) is especially useful when you want a calm, uninterrupted impression.
 
 A longline blazer, cardigan, or coat can create vertical edges over a simpler base outfit. Keep the layer open when practical, so the lines remain visible.
 

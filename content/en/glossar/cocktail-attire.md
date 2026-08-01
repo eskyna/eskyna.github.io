@@ -22,10 +22,12 @@ slug: cocktail-attire
 url: /en/glossary/cocktail-attire/
 aliases:
   - /glossar/cocktail-attire/
+  - /glossar/cocktail/
+  - /glossary/cocktail/
 image_alt: Editorial glossary illustration for Cocktail Attire
 relatedTerms:
   - title: Cocktail
-    url: /en/glossar/cocktail/
+    url: /en/glossar/cocktail-attire/
   - title: Cocktail Dress
     url: /en/glossar/cocktailkleid/
   - title: Semi Formal

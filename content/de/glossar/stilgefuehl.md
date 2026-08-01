@@ -163,7 +163,7 @@ Du musst Trends deshalb weder vollständig ablehnen noch unkritisch übernehmen.
   **Besser:** Stilgefühl lässt sich trainieren. Je mehr du deine Lieblingslooks und Fehlgriffe verstehst, desto sicherer werden deine Entscheidungen.
 
 - **Missverständnis: Stilgefühl braucht ein großes Budget.**  
-  **Besser:** Entscheidend sind Passform, Kombinierbarkeit und tatsächliche Nutzung. Wenige gut gewählte Teile können mehr leisten als viele spontane Käufe. Die [Preis-pro-Tragen-Strategie](/glossar/preis-pro-tragen-strategie/) hilft dir, den Wert eines Kleidungsstücks realistischer zu beurteilen.
+  **Besser:** Entscheidend sind Passform, Kombinierbarkeit und tatsächliche Nutzung. Wenige gut gewählte Teile können mehr leisten als viele spontane Käufe. Die [Preis-pro-Tragen-Strategie](/glossar/cost-per-wear/) hilft dir, den Wert eines Kleidungsstücks realistischer zu beurteilen.
 
 - **Missverständnis: Ein stimmiges Outfit darf keine Stilbrüche enthalten.**  
   **Besser:** Ein bewusster [Stilbruch](/glossar/stilbruch/) kann einen Look modern und persönlich machen. Wichtig ist nur, dass nicht alle Elemente gleichzeitig um Aufmerksamkeit kämpfen.

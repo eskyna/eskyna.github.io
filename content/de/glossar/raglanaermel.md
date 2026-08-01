@@ -24,7 +24,7 @@ relatedTerms:
   - title: Passform
     url: /glossar/passform/
   - title: Dropped Shoulder
-    url: /glossar/dropped-shoulder/
+    url: /glossar/drop-shoulder/
   - title: Kimonoärmel
     url: /glossar/kimonoaermel/
   - title: Fledermausärmel
@@ -92,7 +92,7 @@ Auch die [Bewegungszugabe](/glossar/bewegungszugabe/) zählt: Ein enger Raglanpu
 Der Raglanärmel wird gelegentlich mit anderen weichen Ärmelkonstruktionen verwechselt. Die Unterschiede liegen vor allem im Nahtverlauf.
 
 - **Raglanärmel:** Die Naht führt diagonal von der Achsel bis zum Hals oder Ausschnitt.
-- **[Dropped Shoulder](/glossar/dropped-shoulder/):** Die Schulternaht liegt deutlich unterhalb der natürlichen Schulter und erzeugt eine entspannte, breitere Wirkung.
+- **[Dropped Shoulder](/glossar/drop-shoulder/):** Die Schulternaht liegt deutlich unterhalb der natürlichen Schulter und erzeugt eine entspannte, breitere Wirkung.
 - **[Kimonoärmel](/glossar/kimonoaermel/):** Ärmel und Oberteil sind konstruktiv stärker miteinander verbunden. Eine klassische Armlochnaht ist oft nicht vorhanden.
 - **[Fledermausärmel](/glossar/fledermausaermel/):** Der Ärmel ist weit und geht fließend in den Körper über. Das erzeugt deutlich mehr Volumen unter dem Arm.
 

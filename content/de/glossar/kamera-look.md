@@ -110,7 +110,7 @@ Für Videos und professionelle Fotos funktionieren daher oft ruhige, einfarbige 
 
 Materialien verändern sich je nach Licht stark. Satin, Seide oder andere glatte Oberflächen können gezielt elegant wirken, reflektieren aber Licht stärker. Bei direktem Studiolicht oder einem hellen Fenster können dadurch einzelne Bereiche sehr dominant erscheinen.
 
-Matte oder leicht strukturierte Stoffe sind oft leichter zu kontrollieren. [Twill](/glossar/twill/), feiner [Strick](/glossar/strick/), Krepp oder dicht gewebte Stoffe geben dem Bild optische Tiefe, ohne unruhig zu wirken. Achte zusätzlich auf das [Knitterverhalten](/glossar/knitterverhalten/), besonders wenn du lange sitzt oder dich vor dem Termin bewegst.
+Matte oder leicht strukturierte Stoffe sind oft leichter zu kontrollieren. [Twill](/glossar/koeperbindung-twill/), feiner [Strick](/glossar/strick/), Krepp oder dicht gewebte Stoffe geben dem Bild optische Tiefe, ohne unruhig zu wirken. Achte zusätzlich auf das [Knitterverhalten](/glossar/knitterverhalten/), besonders wenn du lange sitzt oder dich vor dem Termin bewegst.
 
 ### Kragen, Ausschnitt und Schulterlinie beachten
 

@@ -27,7 +27,7 @@ relatedTerms:
   - title: Kimono Sleeve
     url: /en/glossar/kimonoaermel/
   - title: Dropped Shoulder
-    url: /en/glossar/dropped-shoulder/
+    url: /en/glossar/drop-shoulder/
   - title: Volume
     url: /en/glossar/volumen/
   - title: Silhouette
@@ -74,7 +74,7 @@ These sleeve shapes can look similar at first glance, but they are not identical
 
 - **Batwing sleeve:** Very wide through the upper arm and underarm, with a deep armhole. It typically narrows toward the wrist.
 - **[Kimono sleeve](/en/glossar/kimonoaermel/):** Often cut as part of the bodice, but usually follows a straighter, less tapered line than a batwing sleeve.
-- **[Dropped shoulder](/en/glossar/dropped-shoulder/):** Has a shoulder seam that sits below the natural shoulder. It can be loose or wide, but does not automatically create the deep underarm volume of a batwing sleeve.
+- **[Dropped shoulder](/en/glossar/drop-shoulder/):** Has a shoulder seam that sits below the natural shoulder. It can be loose or wide, but does not automatically create the deep underarm volume of a batwing sleeve.
 
 The practical difference is in the line you see. A dropped shoulder shifts the shoulder seam downward, while a batwing sleeve creates width between the torso and arm.
 

@@ -25,7 +25,7 @@ relatedTerms:
   - title: Abendliches Layering
     url: /glossar/abendliches-layering/
   - title: Cocktail
-    url: /glossar/cocktail/
+    url: /glossar/cocktail-attire/
 knowledge:
   - "Ein einzelnes auffälliges Element schafft einen klaren Fokus im Outfit."
   - "Glanz, Farbe, Material, Größe und Kontrast können ein Statement-Teil besonders abendtauglich wirken lassen."
@@ -74,7 +74,7 @@ Für eine schnelle [Day-to-Night-Transformation](/glossar/day-to-night-transform
 
 Für einen Drink, ein Date oder ein entspanntes Dinner reicht oft ein einzelner sichtbarer Akzent. Große Creolen, eine kleine Schultertasche oder Schuhe mit leichtem Glanz wirken bewusst, ohne überladen zu sein.
 
-Bei einem festlichen Dinner oder einem [Cocktail](/glossar/cocktail/) Anlass darf das Statement-Teil stärker ausfallen. Eine auffällige Clutch, Schmuck mit Glanz, ein Satinrock oder ein eleganter Blazer können dem Outfit die passende Feierlichkeit geben.
+Bei einem festlichen Dinner oder einem [Cocktail](/glossar/cocktail-attire/) Anlass darf das Statement-Teil stärker ausfallen. Eine auffällige Clutch, Schmuck mit Glanz, ein Satinrock oder ein eleganter Blazer können dem Outfit die passende Feierlichkeit geben.
 
 Achte immer darauf, wie formell der Ort ist. Ein glamouröses Detail ersetzt keinen Dresscode. Für sehr formelle Veranstaltungen sollte dein gesamtes Outfit zur Einladung passen.
 

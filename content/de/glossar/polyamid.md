@@ -44,6 +44,9 @@ faq:
     - q: Wie pflegst du Kleidung aus Polyamid?
       a: Richte dich immer nach dem Pflegeetikett. Wasche Polyamid meist schonend, vermeide unnötig hohe Hitze und prüfe bei Mischgeweben die Pflegeanforderungen aller enthaltenen Fasern.
 lastmod: "2026-07-09"
+aliases:
+  - /glossar/polyamid-nylon/
+  - /glossar/polyamid/
 ---
 
 ## Definition

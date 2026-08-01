@@ -95,7 +95,7 @@ Auch weiter Blazer und weite Hose können zusammen funktionieren. Wähle dann m�
 
 ### Mit Farbe und Schuhen verbinden
 
-Wiederhole eine Farbe des Blazers in Schuhen, Tasche oder einem kleinen Accessoire. Die [Sandwich-Methode](/glossar/sandwich-methode/) kann helfen, den Look optisch zu rahmen. Ein dunkler Blazer mit dunklen Schuhen und einem helleren Mittelteil wirkt oft besonders geschlossen.
+Wiederhole eine Farbe des Blazers in Schuhen, Tasche oder einem kleinen Accessoire. Die [Sandwich-Methode](/glossar/sandwich-regel/) kann helfen, den Look optisch zu rahmen. Ein dunkler Blazer mit dunklen Schuhen und einem helleren Mittelteil wirkt oft besonders geschlossen.
 
 ## Welche Materialien eignen sich?
 

@@ -22,10 +22,13 @@ slug: cost-per-wear
 url: /en/glossary/cost-per-wear/
 aliases:
   - /glossar/cost-per-wear/
+  - /glossary/cost-per-wear-strategy/
+  - /glossar/preis-pro-tragen-strategie/
+  - /glossary/preis-pro-tragen-strategie/
 image_alt: Editorial illustration showing the cost per wear calculation for a versatile wardrobe piece
 relatedTerms:
   - title: Cost-Per-Wear Strategy
-    url: /en/glossar/preis-pro-tragen-strategie/
+    url: /en/glossar/cost-per-wear/
   - title: Capsule Wardrobe
     url: /en/glossar/capsule-wardrobe/
   - title: Versatility

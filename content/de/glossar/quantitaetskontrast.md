@@ -30,7 +30,7 @@ relatedTerms:
   - title: "Farbharmonie"
     url: "/glossar/farbharmonie/"
   - title: "Color Blocking"
-    url: "/glossar/colour-blocking/"
+    url: "/glossar/color-blocking/"
 knowledge:
   - "Der Quantitätskontrast beschreibt nicht den Farbton selbst, sondern die sichtbare Menge einzelner Farben."
   - "Eine kleine, klare oder helle Farbfläche kann optisch stärker wirken als eine große, ruhige Fläche."
@@ -127,7 +127,7 @@ Auch Materialien verändern die Wirkung. Glänzende Oberflächen, etwa [Satin](/
 
 Bei Mustern ist die Farbmenge weniger eindeutig als bei klaren Farbflächen. Ein geblümtes Kleid kann viele Farben enthalten, aus einiger Entfernung aber vor allem als Blau, Creme oder Schwarz wahrgenommen werden. Diese optische Gesamtfarbe ist für die Outfitwirkung besonders wichtig.
 
-Bei großem [Karomuster](/glossar/karomuster/) oder starkem [Color Blocking](/glossar/colour-blocking/) sind einzelne Farben meist klarer voneinander getrennt. Der Quantitätskontrast wird dadurch sichtbarer und prägt den Look stärker.
+Bei großem [Karomuster](/glossar/karomuster/) oder starkem [Color Blocking](/glossar/color-blocking/) sind einzelne Farben meist klarer voneinander getrennt. Der Quantitätskontrast wird dadurch sichtbarer und prägt den Look stärker.
 
 Prüfe gemusterte Teile deshalb aus zwei Distanzen:
 

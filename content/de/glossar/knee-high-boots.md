@@ -28,7 +28,7 @@ relatedTerms:
   - title: Reitstiefel
     url: /glossar/reitstiefel/
   - title: Overknees
-    url: /glossar/overknees/
+    url: /glossar/overknee-stiefel/
   - title: Stiefelette
     url: /glossar/stiefelette/
   - title: Blockabsatz
@@ -56,7 +56,7 @@ Ihre Wirkung entsteht vor allem durch die lange, zusammenhängende Fläche am Be
 
 ## Knee-High Boots einfach erklärt
 
-Ein kniehoher Stiefel liegt in der Höhe zwischen einer [Stiefelette](/glossar/stiefelette/) und [Overknees](/glossar/overknees/). Er bedeckt Knöchel und Wade, bleibt aber unterhalb der Kniescheibe. Diese Schafthöhe wirkt klassisch, klar und meist weniger auffällig als ein überkniehohes Modell.
+Ein kniehoher Stiefel liegt in der Höhe zwischen einer [Stiefelette](/glossar/stiefelette/) und [Overknees](/glossar/overknee-stiefel/). Er bedeckt Knöchel und Wade, bleibt aber unterhalb der Kniescheibe. Diese Schafthöhe wirkt klassisch, klar und meist weniger auffällig als ein überkniehohes Modell.
 
 Je nach Material und Form kann derselbe Stiefel völlig unterschiedlich wirken: Glattes, mattes Leder erscheint eher reduziert und professionell. Weiches [Veloursleder](/glossar/veloursleder/) wirkt ruhiger und oft etwas weicher. Eine markante Sohle, Schnallen oder ein hoher Absatz machen den Look präsenter.
 

@@ -79,7 +79,7 @@ Auch Korsettnähte, Schnürungen und eine betonte Taille greifen die Ästhetik a
 
 ### Hohe Stiefel und markante Schuhe
 
-Kniehohe Stiefel, [Overknees](/glossar/overknees/) oder robuste Boots geben Dominatrix Chic Bodenhaftung und Stärke. Ein hoher Schaft verlängert die Beinlinie optisch und macht kurze Röcke oder schmale Kleider deutlich dramatischer.
+Kniehohe Stiefel, [Overknees](/glossar/overknee-stiefel/) oder robuste Boots geben Dominatrix Chic Bodenhaftung und Stärke. Ein hoher Schaft verlängert die Beinlinie optisch und macht kurze Röcke oder schmale Kleider deutlich dramatischer.
 
 Für einen alltagstauglichen Look funktionieren auch [Biker Boots](/glossar/biker-boots/) oder schlichte Stiefeletten. Sie greifen die Haltung des Stils auf, ohne zu theatralisch zu wirken.
 

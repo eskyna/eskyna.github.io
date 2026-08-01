@@ -28,7 +28,7 @@ relatedTerms:
   - title: Blickführung
     url: /glossar/blickfuehrung/
   - title: Sandwich-Methode
-    url: /glossar/sandwich-methode/
+    url: /glossar/sandwich-regel/
 knowledge:
   - "Balance entsteht durch das bewusste Zusammenspiel von Volumen, Linien, Farben, Materialien und Blickpunkten."
   - "Ein ausgewogenes Outfit muss nicht symmetrisch sein. Asymmetrie kann gezielt Dynamik erzeugen."
@@ -85,7 +85,7 @@ Ein strukturierter Blazer über einem glatten Top kann deshalb klar und hochwert
 
 Auch Accessoires beeinflussen die Balance. Ein breiter Gürtel betont die Mitte, markante Ohrringe ziehen den Blick nach oben und eine große Tasche gibt der unteren Körperhälfte optisches Gewicht. Frage dich deshalb nicht nur, ob ein Accessoire schön ist, sondern auch, was es im Gesamtbild verändert.
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) ist dafür eine einfache Stylinghilfe: Du wiederholst eine Farbe, ein Material oder eine Stilrichtung oben und unten im Outfit. Zum Beispiel greifen schwarze Schuhe die Farbe eines schwarzen Oberteils auf. Das verbindet den Look sichtbar.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) ist dafür eine einfache Stylinghilfe: Du wiederholst eine Farbe, ein Material oder eine Stilrichtung oben und unten im Outfit. Zum Beispiel greifen schwarze Schuhe die Farbe eines schwarzen Oberteils auf. Das verbindet den Look sichtbar.
 
 ## Warum Balance beim Styling wichtig ist
 

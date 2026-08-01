@@ -45,6 +45,9 @@ faq:
     - q: Woran erkenne ich gutes Kaschmir?
       a: Achte auf eine nachvollziehbare Materialangabe, einen gleichmäßigen Strick, einen angenehmen Griff und eine saubere Verarbeitung. Wichtig ist auch, ob Schnitt, Gewicht und Pflege zu deinem Alltag passen.
 lastmod: "2026-07-09"
+aliases:
+  - /glossar/cashmere-kaschmir/
+  - /glossar/kaschmir/
 ---
 
 ## Definition: Was ist Kaschmir?

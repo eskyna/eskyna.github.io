@@ -23,7 +23,7 @@ tags:
   - "костюмные ткани"
 relatedTerms:
   - title: "Твил"
-    url: /rus/glossar/twill/
+    url: /rus/glossar/koeperbindung-twill/
   - title: "Твид"
     url: /rus/glossar/tweed/
   - title: "Гленчек"

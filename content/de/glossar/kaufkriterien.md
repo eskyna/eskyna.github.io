@@ -30,7 +30,7 @@ relatedTerms:
   - title: Wardrobe Audit
     url: /glossar/wardrobe-audit/
   - title: Preis-pro-Tragen-Strategie
-    url: /glossar/preis-pro-tragen-strategie/
+    url: /glossar/cost-per-wear/
   - title: Einkaufsliste
     url: /glossar/einkaufsliste/
   - title: Wunschliste
@@ -135,7 +135,7 @@ Je mehr stimmige Kombinationen du sofort benennen kannst, desto höher ist meist
 
 Der Preis allein sagt wenig über den Wert eines Kleidungsstücks aus. Entscheidend ist, wie oft du es voraussichtlich trägst und wie lange es funktional bleibt.
 
-Die [Preis-pro-Tragen-Strategie](/glossar/preis-pro-tragen-strategie/) hilft dir bei dieser Einschätzung. Dabei setzt du den Kaufpreis ins Verhältnis zur erwarteten Nutzung. Ein hochwertiger Blazer, den du regelmäßig trägst, kann langfristig sinnvoller sein als ein günstiges Teil, das nach wenigen Einsätzen ungetragen im Schrank hängt.
+Die [Preis-pro-Tragen-Strategie](/glossar/cost-per-wear/) hilft dir bei dieser Einschätzung. Dabei setzt du den Kaufpreis ins Verhältnis zur erwarteten Nutzung. Ein hochwertiger Blazer, den du regelmäßig trägst, kann langfristig sinnvoller sein als ein günstiges Teil, das nach wenigen Einsätzen ungetragen im Schrank hängt.
 
 ## Praxischeck: Kaufkriterien vor dem Kauf prüfen
 

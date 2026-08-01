@@ -23,7 +23,7 @@ tags:
   - coat fabric
 relatedTerms:
   - title: Twill
-    url: /en/glossar/twill/
+    url: /en/glossar/koeperbindung-twill/
   - title: Trenchcoat
     url: /en/glossar/trenchcoat/
   - title: Fabric Drape
@@ -56,7 +56,7 @@ The name describes the fabric construction more than the raw material. A fine wo
 
 ## How to Recognize Gabardine Fabric
 
-Look closely at the surface: gabardine shows fine diagonal lines created by its steep [twill](/en/glossar/twill/) weave. Compared with a visibly rugged twill, its surface generally appears tighter, cleaner, and more controlled.
+Look closely at the surface: gabardine shows fine diagonal lines created by its steep [twill](/en/glossar/koeperbindung-twill/) weave. Compared with a visibly rugged twill, its surface generally appears tighter, cleaner, and more controlled.
 
 Gabardine is often:
 

@@ -34,7 +34,6 @@ seoTitle: "Кашемир: что это, как выбрать и носить 
 slug: kashemir
 url: /rus/glossar/kaschmir/
 aliases:
-  - /glossar/kaschmir/
   - /glossariy/kaschmir/
   - /glossariy/cashmere-kaschmir/
   - /glossar/cashmere-kaschmir/

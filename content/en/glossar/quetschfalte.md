@@ -56,7 +56,7 @@ Think of an inverted pleat as hidden fabric that has been folded inward. From th
 
 This makes inverted pleats useful when a piece needs ease without looking permanently oversized. A skirt can appear straight or narrow at rest, then gain width as you walk. A coat with a back inverted pleat can feel less restrictive through the shoulders and hips.
 
-The visual effect depends strongly on fabric. Crisp [cotton](/en/glossar/baumwolle/), [poplin](/en/glossar/popeline/), or [twill](/en/glossar/twill/) gives the pleat a defined architectural line. Softer fabrics such as [viscose](/en/glossar/viskose/) create a gentler opening and more fluid movement.
+The visual effect depends strongly on fabric. Crisp [cotton](/en/glossar/baumwolle/), [poplin](/en/glossar/popeline/), or [twill](/en/glossar/koeperbindung-twill/) gives the pleat a defined architectural line. Softer fabrics such as [viscose](/en/glossar/viskose/) create a gentler opening and more fluid movement.
 
 ## How an Inverted Pleat Changes an Outfit
 

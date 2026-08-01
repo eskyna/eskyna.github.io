@@ -33,7 +33,7 @@ relatedTerms:
   - title: Chelsea Boots
     url: /glossar/chelsea-boots/
   - title: Overknees
-    url: /glossar/overknees/
+    url: /glossar/overknee-stiefel/
 faq:
   items:
     - q: Wann ist ein Kleid ein Minikleid?
@@ -111,7 +111,7 @@ Damit der Look nicht überladen wirkt, setze einen Fokuspunkt. Das kann das Klei
 
 ### Minikleid im Winter
 
-Auch im Winter kann ein Minikleid funktionieren, wenn Material und Schichten zur Temperatur passen. Modelle aus Wolle, Strick oder dichter Webware wirken saisonal stimmig. Dazu passen hohe Stiefel, [Overknees](/glossar/overknees/) oder blickdichte Strumpfhosen.
+Auch im Winter kann ein Minikleid funktionieren, wenn Material und Schichten zur Temperatur passen. Modelle aus Wolle, Strick oder dichter Webware wirken saisonal stimmig. Dazu passen hohe Stiefel, [Overknees](/glossar/overknee-stiefel/) oder blickdichte Strumpfhosen.
 
 Wichtig ist, dass du dich frei bewegen kannst. Ein sehr kurzer Saum, glatte Strumpfhosen und ein enges Kleid können im Alltag schnell unpraktisch sein. Probiere die Kombination deshalb immer im Sitzen, Gehen und Treppensteigen aus.
 

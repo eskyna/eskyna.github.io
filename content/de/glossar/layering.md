@@ -40,7 +40,7 @@ relatedTerms:
   - title: Drittel-Regel im Outfit
     url: /glossar/drittel-regel-im-outfit/
   - title: Sandwich-Methode
-    url: /glossar/sandwich-methode/
+    url: /glossar/sandwich-regel/
   - title: Stilbruch
     url: /glossar/stilbruch/
   - title: Overshirt
@@ -106,7 +106,7 @@ Layering bringt bereits viele sichtbare Linien und Flächen ins Outfit. Eine beg
 
 Besonders unkompliziert sind Ton in Ton Looks, neutrale Farben oder mehrere Nuancen einer Farbfamilie. Möchtest du eine stärkere Farbe einsetzen, nutze sie gezielt als Akzent.
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) kann zusätzlich Balance schaffen: Wiederhole eine Farbe, einen Materialton oder ein visuelles Gewicht im oberen und unteren Bereich deines Outfits. So wandert der Blick harmonisch durch den Look.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) kann zusätzlich Balance schaffen: Wiederhole eine Farbe, einen Materialton oder ein visuelles Gewicht im oberen und unteren Bereich deines Outfits. So wandert der Blick harmonisch durch den Look.
 
 ## Welche Kleidungsstücke eignen sich für Layering?
 

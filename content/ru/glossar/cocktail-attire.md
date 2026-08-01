@@ -24,7 +24,7 @@ weight: 16
 image: images/glossar/cocktail-attire.png
 relatedTerms:
   - title: Коктейль
-    url: /rus/glossar/cocktail/
+    url: /rus/glossar/cocktail-attire/
   - title: Коктейльное платье
     url: /rus/glossar/cocktailkleid/
   - title: Полуформальный дресс-код
@@ -38,6 +38,10 @@ slug: kokteylnyy-dress-kod
 url: /rus/glossariy/kokteylnyy-dress-kod/
 aliases:
   - /glossar/cocktail-attire/
+  - /glossariy/cocktail-attire/
+  - /glossariy/cocktail/
+  - /glossariy/kokteyl/
+  - /glossar/cocktail/
 image_alt: "Элегантные коктейльные образы для праздничного мероприятия"
 lastmod: "2026-07-09"
 history:
@@ -175,7 +179,7 @@ faq:
 
 ## Связанные термины
 
-- [Коктейль](/rus/glossar/cocktail/)
+- [Коктейль](/rus/glossar/cocktail-attire/)
 - [Коктейльное платье](/rus/glossar/cocktailkleid/)
 - [Полуформальный дресс-код](/rus/glossar/semi-formal/)
 - [Блэк-тай](/rus/glossar/black-tie/)

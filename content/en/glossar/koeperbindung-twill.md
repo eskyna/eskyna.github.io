@@ -1,6 +1,6 @@
 ---
 title: What is Twill Weave?
-term: Twill Weave
+term: Twill
 description: Twill weave is a basic woven fabric structure recognized by its diagonal ribs. It is valued for its durable character, textured surface, and often fluid drape.
 category: Materials & Details
 subcategory: Fabric Construction
@@ -19,6 +19,9 @@ slug: koeperbindung-twill
 url: /en/glossary/koeperbindung-twill/
 aliases:
   - /glossar/koeperbindung-twill/
+  - /glossar/twill/
+  - /glossar/koeperbindung/
+  - /glossary/twill/
 weight: 999
 image: images/glossar/koeperbindung-twill.png
 image_alt: Close view of blue twill fabric with visible diagonal ribs

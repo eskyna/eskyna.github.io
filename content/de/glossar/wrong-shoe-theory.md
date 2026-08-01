@@ -29,7 +29,7 @@ relatedTerms:
   - title: Dad Sneakers
     url: /glossar/dad-sneakers/
   - title: Sandwich-Methode
-    url: /glossar/sandwich-methode/
+    url: /glossar/sandwich-regel/
   - title: Proportionsbruch
     url: /glossar/proportionsbruch/
 faq:
@@ -102,7 +102,7 @@ Wenn der Schuh bewusst aus der Reihe fällt, darf der Rest des Looks ruhiger sei
 
 ### 2. Schaffe eine optische Verbindung
 
-Wiederhole eine Farbe, ein Material oder eine Form des Schuhs an anderer Stelle. Ein schwarzer Boot kann sich etwa im Gürtel, in der Tasche oder der Sonnenbrille wiederfinden. Dafür eignet sich auch die [Sandwich-Methode](/glossar/sandwich-methode/), bei der du visuelle Elemente oben und unten im Look aufgreifst.
+Wiederhole eine Farbe, ein Material oder eine Form des Schuhs an anderer Stelle. Ein schwarzer Boot kann sich etwa im Gürtel, in der Tasche oder der Sonnenbrille wiederfinden. Dafür eignet sich auch die [Sandwich-Methode](/glossar/sandwich-regel/), bei der du visuelle Elemente oben und unten im Look aufgreifst.
 
 ### 3. Beachte Proportion und Volumen
 

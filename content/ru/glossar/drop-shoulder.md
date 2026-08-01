@@ -20,11 +20,14 @@ weight: 999
 url: "/rus/glossariy/drop-shoulder/"
 aliases:
   - /glossar/drop-shoulder/
+  - /glossariy/dropped-shoulder/
+  - /glossariy/spushchennoe-plecho/
+  - /glossar/dropped-shoulder/
 image: "images/glossar/drop-shoulder.png"
 image_alt: "Свитер со спущенным плечевым швом ниже естественной линии плеча"
 relatedTerms:
   - title: "Спущенное плечо"
-    url: "/rus/glossar/dropped-shoulder/"
+    url: "/rus/glossar/drop-shoulder/"
   - title: "Линия плеч"
     url: "/rus/glossar/schulterlinie/"
   - title: "Оверсайз"
@@ -97,7 +100,7 @@ Drop Shoulder смягчает геометрию верха. Даже плот�
 - **Drop Shoulder** описывает положение плечевого шва ниже естественного плеча.
 - **[Оверсайз](/rus/glossar/oversized/)** описывает намеренно увеличенный объём вещи. Оверсайз может иметь обычную или спущенную линию плеча.
 - **[Рукав реглан](/rus/glossar/raglanaermel/)** имеет диагональный шов от горловины к подмышке. У реглана нет привычного плечевого шва в той же точке.
-- **[Спущенное плечо](/rus/glossar/dropped-shoulder/)** это близкий термин для той же конструктивной идеи, который также используют в описаниях одежды.
+- **[Спущенное плечо](/rus/glossar/drop-shoulder/)** это близкий термин для той же конструктивной идеи, который также используют в описаниях одежды.
 
 Понимание различий помогает точнее читать карточки товаров и выбирать посадку, соответствующую вашему стилю и ощущению комфорта.
 

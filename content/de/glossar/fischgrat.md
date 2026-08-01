@@ -11,7 +11,7 @@ relatedTerms:
   - title: Struktur
     url: /glossar/struktur/
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Tweed
     url: /glossar/tweed/
   - title: Wolle
@@ -48,7 +48,7 @@ lastmod: "2026-07-18"
 
 **Fischgrat** ist ein klassisches, eingewebtes Muster aus diagonal verlaufenden Linien, deren Richtung in regelmäßigen Abständen wechselt. So entstehen wiederkehrende V oder Zickzackformen, die an die Gräten eines Fisches erinnern.
 
-Die Grundlage ist eine gebrochene [Köperbindung](/glossar/twill/). Anders als bei einem gewöhnlichen Köperstoff laufen die Diagonalen nicht durchgehend in eine Richtung, sondern wechseln kontrolliert ihre Ausrichtung. Das verleiht dem Stoff eine lebendige, zugleich geordnete [Struktur](/glossar/struktur/).
+Die Grundlage ist eine gebrochene [Köperbindung](/glossar/koeperbindung-twill/). Anders als bei einem gewöhnlichen Köperstoff laufen die Diagonalen nicht durchgehend in eine Richtung, sondern wechseln kontrolliert ihre Ausrichtung. Das verleiht dem Stoff eine lebendige, zugleich geordnete [Struktur](/glossar/struktur/).
 
 ## Wie entsteht das Fischgratmuster?
 

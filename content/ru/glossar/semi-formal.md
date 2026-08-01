@@ -26,7 +26,7 @@ relatedTerms:
   - title: Коктейльный дресс-код
     url: /rus/glossar/cocktail-attire/
   - title: Коктейль
-    url: /rus/glossar/cocktail/
+    url: /rus/glossar/cocktail-attire/
   - title: Блэк-тай
     url: /rus/glossar/black-tie/
   - title: Праздничная одежда
@@ -135,7 +135,7 @@ faq:
 ## Связанные термины
 
 - [Дресс-код](/rus/glossar/dresscode/)
-- [Коктейль](/rus/glossar/cocktail/)
+- [Коктейль](/rus/glossar/cocktail-attire/)
 - [Коктейльный дресс-код](/rus/glossar/cocktail-attire/)
 - [Праздничная одежда](/rus/glossar/festliche-kleidung/)
 - [Блэк-тай](/rus/glossar/black-tie/)

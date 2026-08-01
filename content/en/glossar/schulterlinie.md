@@ -27,7 +27,7 @@ relatedTerms:
   - title: Shoulder Pads
     url: /en/glossar/schulterpolster/
   - title: Dropped Shoulder
-    url: /en/glossar/dropped-shoulder/
+    url: /en/glossar/drop-shoulder/
   - title: Silhouette
     url: /en/glossar/silhouette/
   - title: Proportion
@@ -59,7 +59,7 @@ Because the shoulders form the upper edge of the body, the shoulder line has a m
 
 ## Shoulder Line explained simply
 
-Look at a blazer, shirt, coat, or knit from the front. The line that runs from the base of the neck toward the outer shoulder is the shoulder line. In tailored garments, it is often marked clearly by a seam. In knitwear or garments with a [dropped shoulder](/en/glossar/dropped-shoulder/), the line may sit lower on the upper arm or appear softer.
+Look at a blazer, shirt, coat, or knit from the front. The line that runs from the base of the neck toward the outer shoulder is the shoulder line. In tailored garments, it is often marked clearly by a seam. In knitwear or garments with a [dropped shoulder](/en/glossar/drop-shoulder/), the line may sit lower on the upper arm or appear softer.
 
 A shoulder line is not only a construction detail. It determines how the garment frames the neck, face, chest, and upper body. It also affects how the rest of the outfit is read. A structured blazer with a clean shoulder line often appears more formal or authoritative. A soft cardigan with relaxed shoulders generally feels more casual.
 

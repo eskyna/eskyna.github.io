@@ -33,7 +33,7 @@ relatedTerms:
   - title: Dress Code
     url: /en/glossar/dresscode/
   - title: Cocktail
-    url: /en/glossar/cocktail/
+    url: /en/glossar/cocktail-attire/
 knowledge:
   - A cocktail dress is a garment category, while cocktail attire is the wider dress code that can include different outfit options.
   - The right level of formality depends on the invitation, venue, time of day, cultural setting, and host's expectations.

@@ -1,6 +1,6 @@
 ---
 title: "Was ist Interlock?"
-term: "Interlock"
+term: Interlock
 description: "Interlock ist eine dichte, doppelflächige Maschenware mit glatter Oberfläche auf beiden Seiten. Erfahre, wie sich Interlock von Jersey unterscheidet, wie er fällt und worauf du bei Passform und Qualität achtest."
 category: "Materialien & Details"
 slug: "interlock"
@@ -36,6 +36,9 @@ faq:
       a: "Nicht automatisch. Interlock ist häufig blickdichter als leichter Single-Jersey, doch Faser, Farbe, Stoffgewicht und Dehnung entscheiden mit. Helle Ware solltest du immer gegen das Licht und über deiner üblichen Unterwäsche prüfen."
     - q: "Ist Interlock für den Sommer geeignet?"
       a: "Leichter Interlock aus Baumwolle oder Viskose kann im Sommer angenehm sein. Weil die Maschenware dichter aufgebaut ist, wärmt sie meist stärker als sehr dünner Jersey. Das Stoffgewicht ist daher entscheidend."
+aliases:
+  - /glossar/interlock-jersey/
+  - /glossar/interlock/
 ---
 
 Interlock ist eine dichte, glatte Maschenware, die auf Vorder- und Rückseite ähnlich aussieht. Du findest sie häufig bei hochwertigen T-Shirts, Kleidern, Unterwäsche und bequemer Freizeitkleidung. Im Vergleich zu einfachem [Jersey](/glossar/jersey/) wirkt Interlock meist ruhiger, stabiler und weniger transparent.

@@ -90,7 +90,7 @@ Umgekehrt bringt ein weiches Element Balance in ein formelleres Teil. Ein Blazer
 
 ### Wiederhole Farben für mehr Ruhe
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) ist eine einfache Möglichkeit, ein Freizeitoutfit optisch zusammenzuhalten. Dabei greifst du eine Farbe vom Oberkörper bei den Schuhen oder einem Accessoire wieder auf.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) ist eine einfache Möglichkeit, ein Freizeitoutfit optisch zusammenzuhalten. Dabei greifst du eine Farbe vom Oberkörper bei den Schuhen oder einem Accessoire wieder auf.
 
 Ein Beispiel: Du trägst ein dunkelblaues Shirt, eine helle Jeans und dunkelblaue Sneaker oder Loafer. Die Wiederholung schafft Zusammenhang, ohne dass der Look zu geschniegelt aussieht.
 

@@ -59,7 +59,7 @@ Windschutz entsteht nicht nur durch eine bestimmte Faser. Entscheidend sind Aufb
 
 ### Dicht gewebte Stoffe
 
-Bei dicht gewebten Materialien liegen die Fäden eng beieinander. Dadurch kann Luft nur schwer durch die Stofffläche dringen. Ein dicht gewebter [Twill](/glossar/twill/) kann beispielsweise guten Windschutz bieten, ohne dass zwingend eine Beschichtung nötig ist.
+Bei dicht gewebten Materialien liegen die Fäden eng beieinander. Dadurch kann Luft nur schwer durch die Stofffläche dringen. Ein dicht gewebter [Twill](/glossar/koeperbindung-twill/) kann beispielsweise guten Windschutz bieten, ohne dass zwingend eine Beschichtung nötig ist.
 
 Wie stark ein Stoff Wind abhält, hängt von seiner konkreten Konstruktion ab. Baumwolle, Polyester oder andere Fasern können je nach Webart sehr unterschiedlich luftdurchlässig sein.
 

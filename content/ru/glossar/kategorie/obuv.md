@@ -82,7 +82,7 @@ relatedTerms:
 - [Балетки](/rus/glossar/ballerina/), [лоферы](/rus/glossar/loafer/) и [мокасины](/rus/glossar/mokassin/) для аккуратной обуви без каблука.
 - [Кроссовки](/rus/glossar/sneaker/) для повседневных и спортивно-городских сочетаний.
 - [Ботинки по щиколотку](/rus/glossar/ankle-boots/), [ботильоны](/rus/glossar/stiefelette/) и [челси ботинки](/rus/glossar/chelsea-boots/) для межсезонья.
-- [Сапоги до колена](/rus/glossar/knee-high-boots/) и [ботфорты](/rus/glossar/overknees/) для образов с юбками, платьями и узкими брюками.
+- [Сапоги до колена](/rus/glossar/knee-high-boots/) и [ботфорты](/rus/glossar/overknee-stiefel/) для образов с юбками, платьями и узкими брюками.
 - [Форма носка обуви](/rus/glossar/schuhspitze/), [платформа](/rus/glossar/plateau/) и [танкетка](/rus/glossar/keilabsatz/) для понимания конструкции и визуального эффекта.
 - [Уход за обувью](/rus/glossar/schuhpflege/) для сохранения формы, материала и аккуратного вида пары.
 

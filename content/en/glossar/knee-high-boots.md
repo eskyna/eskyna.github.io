@@ -27,7 +27,7 @@ relatedTerms:
   - title: Riding Boots
     url: /en/glossar/reitstiefel/
   - title: Overknees
-    url: /en/glossar/overknees/
+    url: /en/glossar/overknee-stiefel/
   - title: Ankle Boots
     url: /en/glossar/ankle-boots/
   - title: Shoe-Hem Relationship
@@ -61,7 +61,7 @@ The term describes the boot height, not one single style. A flat leather riding 
 
 The key feature is the shaft length. Knee-high boots usually finish at, just below, or close to the knee joint. Exact placement varies because leg length, calf shape, and boot construction differ.
 
-Knee-high boots sit between shorter [ankle boots](/en/glossar/ankle-boots/) and [overknees](/en/glossar/overknees/). This makes them especially useful for autumn and winter outfits, when they offer more coverage while still leaving flexibility in how you combine skirts, dresses, trousers, and outerwear.
+Knee-high boots sit between shorter [ankle boots](/en/glossar/ankle-boots/) and [overknees](/en/glossar/overknee-stiefel/). This makes them especially useful for autumn and winter outfits, when they offer more coverage while still leaving flexibility in how you combine skirts, dresses, trousers, and outerwear.
 
 ## Why knee-high boots matter in an outfit
 

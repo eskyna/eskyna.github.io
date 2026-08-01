@@ -23,7 +23,7 @@ relatedTerms:
   - title: Cocktail Attire
     url: /glossar/cocktail-attire/
   - title: Cocktail
-    url: /glossar/cocktail/
+    url: /glossar/cocktail-attire/
   - title: Abendkleid
     url: /glossar/abendkleid/
   - title: Festliche Kleidung

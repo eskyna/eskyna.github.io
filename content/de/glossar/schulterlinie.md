@@ -24,7 +24,7 @@ relatedTerms:
   - title: Schulterpolster
     url: /glossar/schulterpolster/
   - title: Dropped Shoulder
-    url: /glossar/dropped-shoulder/
+    url: /glossar/drop-shoulder/
   - title: Raglanärmel
     url: /glossar/raglanaermel/
   - title: Silhouette
@@ -56,7 +56,7 @@ Die Schulterlinie ist im Spiegel oft der erste Hinweis darauf, ob ein Kleidungss
 
 Liegt die Naht deutlich weiter innen, kann die Schulterpartie gespannt wirken und deine Bewegung einschränken. Liegt sie weiter außen, entsteht mehr Weite. Das kann absichtlich lässig aussehen oder ungewollt zu groß wirken. Entscheidend ist nicht eine allgemeine Regel, sondern ob Schnitt, Material und gewünschte Wirkung zusammenpassen.
 
-Auch ohne sichtbare Schulternaht gibt es eine Schulterlinie. Bei einem [Raglanärmel](/glossar/raglanaermel/) verläuft der Ärmel diagonal vom Halsbereich zur Achsel. Bei einer [überschnittenen Schulter](/glossar/dropped-shoulder/) sitzt der Ansatz tiefer. Beide Konstruktionen verändern die Form deutlich.
+Auch ohne sichtbare Schulternaht gibt es eine Schulterlinie. Bei einem [Raglanärmel](/glossar/raglanaermel/) verläuft der Ärmel diagonal vom Halsbereich zur Achsel. Bei einer [überschnittenen Schulter](/glossar/drop-shoulder/) sitzt der Ansatz tiefer. Beide Konstruktionen verändern die Form deutlich.
 
 ## Welche Wirkung hat die Schulterlinie?
 

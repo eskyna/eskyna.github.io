@@ -23,7 +23,7 @@ image: images/glossar/cost-per-wear.png
 image_alt: "Иллюстрация расчёта стоимости одного выхода для осознанного выбора одежды"
 relatedTerms:
   - title: Стратегия цены за носку
-    url: /rus/glossar/preis-pro-tragen-strategie/
+    url: /rus/glossar/cost-per-wear/
   - title: Критерии покупки
     url: /rus/glossar/kaufkriterien/
   - title: Сочетаемость
@@ -38,6 +38,10 @@ url: /rus/glossariy/stoimost-odnogo-vyhoda/
 aliases:
   - /glossar/cost-per-wear/
   - /glossariy/stoimost-za-nosku/
+  - /glossariy/cost-per-wear/
+  - /glossariy/preis-pro-tragen-strategie/
+  - /glossariy/strategiya-tseny-za-nosku/
+  - /glossar/preis-pro-tragen-strategie/
 lastmod: "2026-07-09"
 history:
   - Термин cost per wear, или «стоимость одного выхода», используют в потребительском контексте как способ оценивать вещь не только по цене на ярлыке, но и по её реальному использованию.
@@ -186,7 +190,7 @@ offer_bridge:
 
 ## Связанные термины
 
-- [Стратегия цены за носку](/rus/glossar/preis-pro-tragen-strategie/)
+- [Стратегия цены за носку](/rus/glossar/cost-per-wear/)
 - [Критерии покупки](/rus/glossar/kaufkriterien/)
 - [Сочетаемость](/rus/glossar/kombinierbarkeit/)
 - [Капсульный гардероб](/rus/glossar/capsule-wardrobe/)

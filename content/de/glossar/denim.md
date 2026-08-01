@@ -30,7 +30,7 @@ relatedTerms:
   - title: Baumwolle
     url: /glossar/baumwolle/
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Double Denim
     url: /glossar/double-denim/
 knowledge:
@@ -56,7 +56,7 @@ lastmod: "2026-07-09"
 
 ## Definition: Was ist Denim?
 
-**Denim** ist ein robuster, meist überwiegend aus Baumwolle gefertigter Stoff in [Köperbindung](/glossar/twill/). Charakteristisch sind die schräg verlaufenden Linien auf der Oberfläche. Denim ist vor allem als Jeansstoff bekannt, kommt aber ebenso bei Jacken, Röcken, Kleidern, Hemden und Accessoires zum Einsatz.
+**Denim** ist ein robuster, meist überwiegend aus Baumwolle gefertigter Stoff in [Köperbindung](/glossar/koeperbindung-twill/). Charakteristisch sind die schräg verlaufenden Linien auf der Oberfläche. Denim ist vor allem als Jeansstoff bekannt, kommt aber ebenso bei Jacken, Röcken, Kleidern, Hemden und Accessoires zum Einsatz.
 
 Die Wirkung von Denim reicht von funktional und lässig bis klar und hochwertig. Entscheidend sind Farbe, Waschung, Stoffgewicht, Schnitt und Verarbeitung.
 

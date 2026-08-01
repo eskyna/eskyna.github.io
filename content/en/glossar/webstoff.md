@@ -28,7 +28,7 @@ relatedTerms:
   - title: Knitwear
     url: /en/glossar/strick/
   - title: Twill
-    url: /en/glossar/twill/
+    url: /en/glossar/koeperbindung-twill/
   - title: Popeline
     url: /en/glossar/popeline/
   - title: Fabric Density
@@ -80,7 +80,7 @@ This distinction affects fit. A close fitting woven blouse may need darts, seams
 Woven textiles vary widely according to their weave structure and fibers.
 
 - **Plain weave:** A simple over and under structure often found in poplin, voile, and many cotton fabrics. [Popeline](/en/glossar/popeline/) usually has a clean, crisp appearance.
-- **Twill weave:** Recognizable by diagonal lines. Denim, gabardine, and many suiting fabrics use twill, which can feel durable and drape differently from plain weave. See [twill](/en/glossar/twill/).
+- **Twill weave:** Recognizable by diagonal lines. Denim, gabardine, and many suiting fabrics use twill, which can feel durable and drape differently from plain weave. See [twill](/en/glossar/koeperbindung-twill/).
 - **Satin weave:** Creates a smoother, often more lustrous surface because longer yarn floats are visible on one side. [Satin](/en/glossar/satin/) can look fluid and refined but may require mindful care.
 - **Textured or patterned weaves:** Jacquard, seersucker, herringbone, and bouclé create visible surface interest through their construction.
 

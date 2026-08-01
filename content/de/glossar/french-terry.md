@@ -48,6 +48,9 @@ faq:
       a: "Meist ja, weil French Terry in der Regel mehr Material und eine Schlingenstruktur auf der Innenseite hat. Wie warm er tatsächlich wirkt, entscheidet aber vor allem das Stoffgewicht und die Faserzusammensetzung."
     - q: "Kann French Terry in den Trockner?"
       a: "Das hängt vom Pflegeetikett ab. Bei Baumwollqualitäten kann hohe Trocknerhitze Einlaufen und stärkeren Verschleiß begünstigen. Schonendes Trocknen an der Luft ist oft die sicherere Wahl."
+aliases:
+  - /glossar/french-terry-sweatstoff/
+  - /glossar/french-terry/
 ---
 
 ## Definition: Was ist French Terry?

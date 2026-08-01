@@ -3,7 +3,7 @@ weight: 1
 image: images/glossar/cabanjacke.png
 title: What is a Pea Coat?
 seoTitle: Pea Coat explained | ESKYNA Glossary
-term: Pea Coat
+term: "Pea Coat"
 description: A pea coat is a short, double-breasted wool coat with naval roots. Learn how to recognize a pea coat, how it fits, and how to style it for everyday wear.
 category: Wardrobe & Everyday Style
 tags:
@@ -22,6 +22,9 @@ slug: pea-coat
 url: /en/glossary/pea-coat/
 aliases:
   - /glossar/cabanjacke/
+  - /glossary/cabanjacke/
+  - /glossar/peacoat/
+  - /glossary/peacoat/
 image_alt: Short navy wool pea coat with double-breasted buttons and wide lapels
 relatedTerms:
   - title: Coat

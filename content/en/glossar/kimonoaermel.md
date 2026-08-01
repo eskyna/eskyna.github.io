@@ -29,7 +29,7 @@ relatedTerms:
   - title: Sleeve Length
     url: /en/glossar/aermellaenge/
   - title: Dropped Shoulder
-    url: /en/glossar/dropped-shoulder/
+    url: /en/glossar/drop-shoulder/
 knowledge:
   - A kimono sleeve is integrated into the bodice pattern, so it does not begin at a conventional set in armhole.
   - The cut can create a soft shoulder line and generous room around the upper arm.

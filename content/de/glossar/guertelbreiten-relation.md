@@ -113,7 +113,7 @@ Das kannst du gezielt nutzen:
 
 - Tonale Kombinationen unterstützen einen ruhigen, zusammenhängenden Look.
 - Kontrastreiche Gürtel lenken Aufmerksamkeit auf Taille oder Hüfte.
-- Wiederhole die Gürtelfarbe bei Schuhen, Tasche oder Schmuck, wenn du das Outfit sichtbar verbinden möchtest. Die [Sandwich-Methode](/glossar/sandwich-methode/) kann dabei Orientierung geben.
+- Wiederhole die Gürtelfarbe bei Schuhen, Tasche oder Schmuck, wenn du das Outfit sichtbar verbinden möchtest. Die [Sandwich-Methode](/glossar/sandwich-regel/) kann dabei Orientierung geben.
 
 ## Gürtelbreiten-Relation praktisch anwenden
 

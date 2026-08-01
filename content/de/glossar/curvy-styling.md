@@ -93,7 +93,7 @@ Die [Drittel-Regel im Outfit](/glossar/drittel-regel-im-outfit/) kann dabei helf
 
 Nicht nur der Schnitt, auch das Material prägt die Wirkung eines Outfits. Stoffe können Struktur geben, weich fallen, Volumen aufbauen oder sich stark an den Körper anlegen. Es gibt dabei kein grundsätzlich gutes oder schlechtes Material für kurvige Figuren.
 
-Strukturierte Stoffe wie [Tweed](/glossar/tweed/), dichter [Denim](/glossar/denim/) oder fester [Twill](/glossar/twill/) geben Kontur und halten eine Form klar. Sie eignen sich gut für Blazer, Hosen, Röcke oder Jacken, wenn du einen definierten Look möchtest.
+Strukturierte Stoffe wie [Tweed](/glossar/tweed/), dichter [Denim](/glossar/denim/) oder fester [Twill](/glossar/koeperbindung-twill/) geben Kontur und halten eine Form klar. Sie eignen sich gut für Blazer, Hosen, Röcke oder Jacken, wenn du einen definierten Look möchtest.
 
 Fließende Materialien wie [Viskose](/glossar/viskose/), [Lyocell](/glossar/lyocell/) oder [Seide](/glossar/seide/) bewegen sich stärker mit dem Körper und schaffen weichere Linien. Entscheidend ist ihr Gewicht: Sehr dünne Stoffe können sich stärker anlegen oder transparent wirken, während etwas schwerere Qualitäten meist ruhiger fallen.
 

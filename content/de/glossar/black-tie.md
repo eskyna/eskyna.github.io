@@ -62,7 +62,7 @@ Steht auf deiner Einladung „Black Tie“, ist gepflegte Abendkleidung auf hohe
 
 Der Dresscode lässt persönliche Stilentscheidungen zu, aber innerhalb eines klaren Rahmens. Ein auffälliger Trendlook, sehr lässige Schuhe oder ein unruhiger Materialmix wirken bei Black Tie meist fehl am Platz. Stärker als Extravaganz wirken ein guter Sitz, hochwertige Stoffe und ruhige Details.
 
-Black Tie ist weniger streng als [White Tie](/glossar/white-tie/), aber formeller als [Cocktail](/glossar/cocktail/) oder [Smart Elegant](/glossar/smart-elegant/). Falls auf der Einladung „[Black Tie Optional](/glossar/black-tie-optional/)“ oder „[Creative Black Tie](/glossar/creative-black-tie/)“ steht, erweitert sich der Spielraum. Der formelle Charakter bleibt jedoch bestehen.
+Black Tie ist weniger streng als [White Tie](/glossar/white-tie/), aber formeller als [Cocktail](/glossar/cocktail-attire/) oder [Smart Elegant](/glossar/smart-elegant/). Falls auf der Einladung „[Black Tie Optional](/glossar/black-tie-optional/)“ oder „[Creative Black Tie](/glossar/creative-black-tie/)“ steht, erweitert sich der Spielraum. Der formelle Charakter bleibt jedoch bestehen.
 
 ## Was tragen Herren bei Black Tie?
 

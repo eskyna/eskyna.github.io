@@ -32,7 +32,7 @@ relatedTerms:
   - title: Blazer
     url: /glossar/blazer/
   - title: Peacoat
-    url: /glossar/peacoat/
+    url: /glossar/cabanjacke/
   - title: Revers
     url: /glossar/revers/
   - title: Proportion
@@ -70,7 +70,7 @@ Typisch für einen Doppelreiher sind:
 - eine strukturierte Schulterpartie
 - eine klare, oft formellere Wirkung
 
-Du findest Doppelreiher als Blazer, Mäntel, Anzugjacken und besonders häufig bei der [Cabanjacke](/glossar/cabanjacke/) oder dem [Peacoat](/glossar/peacoat/).
+Du findest Doppelreiher als Blazer, Mäntel, Anzugjacken und besonders häufig bei der [Cabanjacke](/glossar/cabanjacke/) oder dem [Peacoat](/glossar/cabanjacke/).
 
 ## Geschichte des Doppelreihers
 

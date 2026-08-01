@@ -139,7 +139,7 @@ Du brauchst keine komplizierten Regeln, um stimmige Looks zusammenzustellen. Die
    Ein Look gewinnt meist, wenn nicht alle Elemente gleichzeitig Aufmerksamkeit verlangen. Setze bewusst einen Schwerpunkt, etwa über Farbe, Silhouette, Material oder Schmuck.
 
 5. **Was verbindet die Teile?**  
-   Wiederhole zum Beispiel eine Farbe, einen Metallton oder eine Stilrichtung. Die [Sandwich-Methode](/glossar/sandwich-methode/) kann helfen, den Look oben und unten optisch zu verbinden.
+   Wiederhole zum Beispiel eine Farbe, einen Metallton oder eine Stilrichtung. Die [Sandwich-Methode](/glossar/sandwich-regel/) kann helfen, den Look oben und unten optisch zu verbinden.
 
 ## Praktische Outfit-Formeln für unterschiedliche Looks
 

@@ -22,7 +22,7 @@ image: images/glossar/cabanjacke.png
 image_alt: Dunkelblaue Cabanjacke mit breitem Revers, doppelter Knopfreihe und kurzen Schnitt
 relatedTerms:
   - title: Peacoat
-    url: /glossar/peacoat/
+    url: /glossar/cabanjacke/
   - title: Doppelreiher
     url: /glossar/doppelreiher/
   - title: Wollmantel
@@ -52,6 +52,9 @@ faq:
     - q: Wie kombiniere ich eine Cabanjacke?
       a: Besonders unkompliziert wirkt sie zu Jeans, Strick und flachen Schuhen. Für einen gepflegteren Look passen Stoffhose, Rollkragen oder Hemd dazu.
 lastmod: "2026-07-09"
+aliases:
+  - /glossar/peacoat/
+  - /glossar/cabanjacke/
 ---
 
 ## Definition

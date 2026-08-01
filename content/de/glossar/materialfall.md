@@ -72,7 +72,7 @@ Ein weich fallender Stoff kann Bewegung und Länge betonen. Ein fester Stoff kan
 Mehrere Eigenschaften wirken beim Materialfall zusammen:
 
 - **Faserart:** [Seide](/glossar/seide/), Viskose, [Lyocell](/glossar/lyocell/) oder [Cupro](/glossar/cupro/) wirken häufig weicher und fließender als robuste, festere Gewebe.
-- **Webart oder Strickart:** Ein glatter [Satin](/glossar/satin/) fällt anders als ein dichter [Twill](/glossar/twill/) oder ein elastischer [Jersey](/glossar/jersey/).
+- **Webart oder Strickart:** Ein glatter [Satin](/glossar/satin/) fällt anders als ein dichter [Twill](/glossar/koeperbindung-twill/) oder ein elastischer [Jersey](/glossar/jersey/).
 - **Stoffgewicht:** Leichte Stoffe reagieren meist schneller auf Bewegung. Schwere Stoffe fallen oft ruhiger, können aber auch mehr Volumen und Stand erzeugen.
 - **Dichte und Griff:** Ein dichter Stoff kann kompakt und stabil wirken. Der [Griff](/glossar/griff/) verrät dir, ob ein Material eher weich, trocken, glatt oder fest wirkt.
 - **Schnitt und Fadenlauf:** Ein Stoff kann je nach Zuschnitt völlig anders fallen. Besonders der [Schrägschnitt](/glossar/schraegen-schnitt-bias-cut/) nutzt die Beweglichkeit eines Gewebes und erzeugt oft einen weicheren, körpernäheren Fall.

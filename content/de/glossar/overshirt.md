@@ -1,6 +1,6 @@
 ---
 title: Was ist ein Overshirt?
-term: Overshirt
+term: Hemdjacke
 description: Ein Overshirt ist eine Hemdjacke zwischen Hemd und leichter Jacke. Erfahre, woran du es erkennst, wie du es kombinierst und wann es deine Garderobe sinnvoll ergänzt.
 category: Garderobe & Alltag
 tags:
@@ -29,7 +29,7 @@ relatedTerms:
   - title: Hemd
     url: /glossar/hemd/
   - title: Shacket
-    url: /glossar/shacket/
+    url: /glossar/overshirt/
   - title: Layering
     url: /glossar/layering/
   - title: Übergangsjacke
@@ -49,6 +49,10 @@ faq:
     - q: Kannst du ein Overshirt im Büro tragen?
       a: Ja, wenn dein Arbeitsumfeld eher entspannt ist. Ein schlichtes Modell aus glattem, ruhigem Stoff wirkt mit Chino, Stoffhose oder Loafern deutlich gepflegter als eine sehr rustikale Workwear Variante.
 lastmod: "2026-07-09"
+aliases:
+  - /glossar/shacket/
+  - /glossar/hemdjacke/
+  - /glossar/overshirt/
 ---
 
 ## Definition: Was ist ein Overshirt?
@@ -69,9 +73,9 @@ Ein Overshirt ist nicht automatisch ein oversized Hemd. Ein zu großes Hemd kann
 
 Das Overshirt hat seine Wurzeln in funktionaler Arbeitskleidung. Robuste Hemdformen aus festen Stoffen dienten als praktische obere Schicht und boten Schutz, Bewegungsfreiheit und Stauraum durch Taschen. Diese funktionale Herkunft prägt viele Modelle bis heute.
 
-Moderne Overshirts greifen diesen Charakter unterschiedlich stark auf. Varianten aus [Twill](/glossar/twill/), [Denim](/glossar/denim/) oder [Cord](/glossar/cord/) wirken oft markanter und workwearnah. Modelle aus glatter Wolle oder dicht gewebter Baumwolle erscheinen dagegen ruhiger und gepflegter.
+Moderne Overshirts greifen diesen Charakter unterschiedlich stark auf. Varianten aus [Twill](/glossar/koeperbindung-twill/), [Denim](/glossar/denim/) oder [Cord](/glossar/cord/) wirken oft markanter und workwearnah. Modelle aus glatter Wolle oder dicht gewebter Baumwolle erscheinen dagegen ruhiger und gepflegter.
 
-Ein nah verwandter Begriff ist das [Shacket](/glossar/shacket/). Beide Bezeichnungen beschreiben die Verbindung aus Shirt und Jacket. In der Praxis werden sie oft ähnlich verwendet.
+Ein nah verwandter Begriff ist das [Shacket](/glossar/overshirt/). Beide Bezeichnungen beschreiben die Verbindung aus Shirt und Jacket. In der Praxis werden sie oft ähnlich verwendet.
 
 ## Typische Merkmale eines Overshirts
 
@@ -91,7 +95,7 @@ Das Material entscheidet darüber, wann und wie du deine Hemdjacke trägst.
 
 ### Baumwolle, Twill und Denim
 
-Baumwolle, [Twill](/glossar/twill/) und [Denim](/glossar/denim/) wirken unkompliziert, robust und alltagstauglich. Diese Materialien passen gut zu Jeans, Chinos und Sneakern. Sichtbare Struktur oder Waschungen machen den Look sportlicher und markanter.
+Baumwolle, [Twill](/glossar/koeperbindung-twill/) und [Denim](/glossar/denim/) wirken unkompliziert, robust und alltagstauglich. Diese Materialien passen gut zu Jeans, Chinos und Sneakern. Sichtbare Struktur oder Waschungen machen den Look sportlicher und markanter.
 
 ### Cord
 

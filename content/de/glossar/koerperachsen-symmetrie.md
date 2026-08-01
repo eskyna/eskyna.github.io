@@ -96,7 +96,7 @@ Du kannst Farbe praktisch einsetzen:
 - Nutze ähnliche Farben für einen ruhigeren Übergang zwischen Oberteil und Unterteil.
 - Prüfe bei starken Kontrasten, ob die Trennlinie an Taille, Hüfte oder Beinlänge für dich stimmig wirkt.
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) greift dieses Prinzip auf. Sie verbindet obere und untere Outfitbereiche durch wiederkehrende Farben, Materialien oder Details.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) greift dieses Prinzip auf. Sie verbindet obere und untere Outfitbereiche durch wiederkehrende Farben, Materialien oder Details.
 
 ## Symmetrie und Asymmetrie im Styling
 

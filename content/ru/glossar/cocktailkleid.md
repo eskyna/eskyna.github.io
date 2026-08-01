@@ -22,7 +22,7 @@ relatedTerms:
   - title: Коктейльный дресс-код
     url: /rus/glossar/cocktail-attire/
   - title: Коктейльный стиль
-    url: /rus/glossar/cocktail/
+    url: /rus/glossar/cocktail-attire/
   - title: Вечернее платье
     url: /rus/glossar/abendkleid/
   - title: Платье

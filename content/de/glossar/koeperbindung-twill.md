@@ -1,6 +1,6 @@
 ---
 title: Was ist eine Köperbindung?
-term: Köperbindung / Twill
+term: Köperbindung
 description: Die Köperbindung, auch Twill genannt, ist eine grundlegende Webbindung mit charakteristisch diagonal verlaufendem Gratmuster. Sie macht Stoffe oft strapazierfähig, formstabil und vielseitig einsetzbar, etwa bei Denim, Chinos und Gabardine.
 category: Materialien & Details
 subcategory: Webarten & Stoffkonstruktion
@@ -22,7 +22,7 @@ image: images/glossar/koeperbindung-twill.png
 image_alt: Nahaufnahme eines Twillstoffs mit deutlich sichtbarer diagonaler Köperstruktur
 relatedTerms:
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Denim
     url: /glossar/denim/
   - title: Gabardine
@@ -44,6 +44,10 @@ faq:
     - q: Ist Köperbindung robust?
       a: Viele Köperstoffe sind strapazierfähig, doch die tatsächliche Haltbarkeit hängt auch von Faser, Garnqualität, Stoffdichte und Verarbeitung ab.
 lastmod: "2026-07-30"
+aliases:
+  - /glossar/twill/
+  - /glossar/koeperbindung/
+  - /glossar/koeperbindung-twill/
 ---
 
 ## Definition

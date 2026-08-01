@@ -69,7 +69,7 @@ This works especially well when the inner top and trousers, skirt, or dress are 
 
 ### Color continuity
 
-Dressing in one color or related shades can make the body appear visually uninterrupted. This is often called [monochromatic dressing](/en/glossar/monochromie/) or tonal dressing. The shades do not need to match exactly. Combining navy with softer blue, charcoal with gray, or chocolate brown with taupe can create depth while keeping the overall line cohesive.
+Dressing in one color or related shades can make the body appear visually uninterrupted. This is often called [monochromatic dressing](/en/glossar/monochrom/) or tonal dressing. The shades do not need to match exactly. Combining navy with softer blue, charcoal with gray, or chocolate brown with taupe can create depth while keeping the overall line cohesive.
 
 A dark outfit is not required. Light colors can also look streamlined when contrast is controlled and the fit is clear.
 

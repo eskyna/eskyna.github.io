@@ -15,7 +15,7 @@ relatedTerms:
   - title: Eclectic Grandpa
     url: /glossar/eclectic-grandpa/
   - title: Colour Blocking
-    url: /glossar/colour-blocking/
+    url: /glossar/color-blocking/
   - title: Maximalismus
     url: /glossar/maximalismus/
 keywords:
@@ -94,7 +94,7 @@ Eine Farbe kann unterschiedliche Elemente verbinden. Greife etwa einen Ton aus d
 
 Muster wirken zusammen oft stimmiger, wenn sie sich in Farbe, Kontrast oder Größe unterscheiden. Ein großflorales Muster kann zum Beispiel mit feinen Streifen funktionieren, wenn beide einen ähnlichen Farbton enthalten.
 
-Wenn du mehr Spannung willst, nutze einen bewussten [Color Clash](/glossar/color-clash-farb-clash/). Für eine grafische Wirkung eignet sich [Colour Blocking](/glossar/colour-blocking/) mit klar voneinander abgegrenzten Farbflächen.
+Wenn du mehr Spannung willst, nutze einen bewussten [Color Clash](/glossar/color-clash-farb-clash/). Für eine grafische Wirkung eignet sich [Colour Blocking](/glossar/color-blocking/) mit klar voneinander abgegrenzten Farbflächen.
 
 ### Mische Materialien
 

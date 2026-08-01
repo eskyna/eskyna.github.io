@@ -108,7 +108,7 @@ Entscheidend bleibt jedoch das gesamte Materialprofil. Ein kleiner Polyamidantei
 
 ### Dichte und Webart beeinflussen den Verschleiß
 
-Dicht gewebte Stoffe sind meist widerstandsfähiger gegen Reibung als sehr lockere oder offene Strukturen. Ein robuster [Twill](/glossar/twill/) wie bei vielen Denimstoffen kann Belastung gut verteilen. Auch die dichte Konstruktion von [Denim](/glossar/denim/) erklärt, warum Jeans im Alltag oft belastbar sind.
+Dicht gewebte Stoffe sind meist widerstandsfähiger gegen Reibung als sehr lockere oder offene Strukturen. Ein robuster [Twill](/glossar/koeperbindung-twill/) wie bei vielen Denimstoffen kann Belastung gut verteilen. Auch die dichte Konstruktion von [Denim](/glossar/denim/) erklärt, warum Jeans im Alltag oft belastbar sind.
 
 Feine, lockere oder empfindliche Oberflächen brauchen dagegen mehr Aufmerksamkeit. Dazu zählen etwa weitmaschiger Strick, sehr leichte Gewebe oder glatte Stoffe wie [Satin](/glossar/satin/). Sie sind nicht schlechter, aber für andere Anforderungen gemacht und sollten entsprechend getragen und gepflegt werden.
 

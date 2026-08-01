@@ -106,7 +106,7 @@ Frage dich vor einem Kauf: Ergänzt dieses Teil mindestens mehrere vorhandene Ou
 
 Kleidung kommuniziert immer im Kontext. Ein Outfit für ein Meeting, eine Hochzeit oder ein Abendessen darf unterschiedlich wirken, ohne dass du deinen Stil dafür aufgeben musst. [Dresscodes](/glossar/dresscode/) geben Orientierung zu Erwartungen eines Anlasses. Deine persönliche [Stilidentität](/glossar/stilidentitaet/) sorgt dafür, dass du dich darin wiedererkennst.
 
-Nutze Begriffe wie [Business Casual](/glossar/business-casual/), [Cocktail](/glossar/cocktail/) oder [festliche Kleidung](/glossar/festliche-kleidung/), um Anforderungen einzuordnen. Danach kannst du mit Farbe, Schnitt, Material und Accessoires entscheiden, wie formell, kreativ, zurückhaltend oder präsent dein Look sein soll.
+Nutze Begriffe wie [Business Casual](/glossar/business-casual/), [Cocktail](/glossar/cocktail-attire/) oder [festliche Kleidung](/glossar/festliche-kleidung/), um Anforderungen einzuordnen. Danach kannst du mit Farbe, Schnitt, Material und Accessoires entscheiden, wie formell, kreativ, zurückhaltend oder präsent dein Look sein soll.
 
 ## Dein Glossar für Stilentscheidungen im Alltag
 

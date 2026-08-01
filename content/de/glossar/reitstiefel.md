@@ -131,7 +131,7 @@ Prüfe diese Punkte, bevor du dich für einen Reitstiefel entscheidest:
 ## Typische Missverständnisse
 
 **Jeder hohe Lederstiefel ist ein Reitstiefel.**  
-Nicht unbedingt. Ein Reitstiefel zeichnet sich durch seine reduzierte, reitsportlich inspirierte Form aus. [Overknees](/glossar/overknees/) reichen über das Knie und wirken meist dramatischer. Biker und Western Boots haben eigene, deutlich erkennbare Stilmerkmale.
+Nicht unbedingt. Ein Reitstiefel zeichnet sich durch seine reduzierte, reitsportlich inspirierte Form aus. [Overknees](/glossar/overknee-stiefel/) reichen über das Knie und wirken meist dramatischer. Biker und Western Boots haben eigene, deutlich erkennbare Stilmerkmale.
 
 **Ein Reitstiefel muss hauteng sitzen.**  
 Nein. Er darf körpernah sein, muss aber Bewegungsraum lassen. Druck an Wade, Kniekehle oder Reißverschluss ist kein Zeichen für eine gute Passform.

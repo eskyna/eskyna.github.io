@@ -1,6 +1,6 @@
 ---
 title: "What is a pants break?"
-term: "Pants break"
+term: "Trouser Break"
 description: "A pants break is the fold or crease that forms at the front of a trouser hem when it meets the shoe. Learn the difference between no break, slight break, half break, and full break."
 category: "Cut, Proportion & Fit"
 image: images/glossar/hosenbruch.png
@@ -16,6 +16,8 @@ slug: hosenbruch
 url: /en/glossary/hosenbruch/
 aliases:
   - /glossar/hosenbruch/
+  - /glossar/trouser-break/
+  - /glossary/trouser-break/
 relatedTerms:
   - title: "Hem Length"
     url: /en/glossar/saumlange/

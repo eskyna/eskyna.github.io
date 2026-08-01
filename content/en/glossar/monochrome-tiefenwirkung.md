@@ -22,7 +22,7 @@ image: "images/glossar/monochrome-tiefenwirkung.png"
 image_alt: "A cream monochrome outfit combining a knit sweater, tailored trousers, and smooth leather shoes"
 relatedTerms:
   - title: "Monochromatic Dressing"
-    url: "/en/glossar/monochromie/"
+    url: "/en/glossar/monochrom/"
   - title: "Tonal Dressing"
     url: "/en/glossar/tonal-dressing/"
   - title: "Texture Contrast"
@@ -52,7 +52,7 @@ Instead of relying on contrasting colors, the outfit creates dimension through d
 
 ## How Monochrome Depth Works
 
-A monochrome outfit uses one color, or a closely related range of shades from the same color family. This can create a calm, polished, and visually continuous effect. See [Monochromatic Dressing](/en/glossar/monochromie/) and [Tonal Dressing](/en/glossar/tonal-dressing/) for the difference between these related approaches.
+A monochrome outfit uses one color, or a closely related range of shades from the same color family. This can create a calm, polished, and visually continuous effect. See [Monochromatic Dressing](/en/glossar/monochrom/) and [Tonal Dressing](/en/glossar/tonal-dressing/) for the difference between these related approaches.
 
 When every piece has the same surface, however, the outfit may lose definition. For example, a black jersey top, black jersey trousers, and black jersey shoes can blend into one uninterrupted area. This may be intentional, but it can also make the look feel less considered.
 

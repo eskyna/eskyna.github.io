@@ -31,7 +31,7 @@ relatedTerms:
   - title: Shrinkage
     url: /en/glossar/einlaufen/
   - title: Twill
-    url: /en/glossar/twill/
+    url: /en/glossar/koeperbindung-twill/
   - title: Jeans
     url: /en/glossar/jeans/
 history:
@@ -60,7 +60,7 @@ Raw denim is often chosen for its visual depth, durability, and the appeal of gr
 
 ## How Raw Denim Is Made
 
-Denim is typically a [twill](/en/glossar/twill/) fabric, recognizable by its diagonal weave structure. Traditional indigo denim often uses dyed warp yarns and lighter, undyed weft yarns. This construction creates the familiar blue exterior and lighter reverse side.
+Denim is typically a [twill](/en/glossar/koeperbindung-twill/) fabric, recognizable by its diagonal weave structure. Traditional indigo denim often uses dyed warp yarns and lighter, undyed weft yarns. This construction creates the familiar blue exterior and lighter reverse side.
 
 With raw denim, the finished fabric or garment is not subjected to the washing, bleaching, abrasion, or fading processes commonly used for ready-to-wear jeans. Its original color can therefore appear darker and more even.
 

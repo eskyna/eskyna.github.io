@@ -34,6 +34,9 @@ knowledge:
   - Deadstock ist kein geschützter Begriff. Seine genaue Bedeutung hängt vom Kontext ab.
   - Deadstock-Stoffe können vorhandene Materialien weiter nutzbar machen, ersetzen aber keine grundsätzlich bedarfsgerechte Produktion.
   - Bei Restposten sind Faserzusammensetzung, Herkunft und Pflegeangaben nicht immer vollständig dokumentiert.
+aliases:
+  - /glossar/deadstock-fabric/
+  - /glossar/deadstock/
 ---
 
 ## Definition: Was ist Deadstock?

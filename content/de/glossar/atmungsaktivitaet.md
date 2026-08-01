@@ -114,7 +114,7 @@ Komfort ist keine Nebensache. Wenn deine Kleidung dein Körpergefühl unterstüt
 
 Bei Oberbekleidung ist der Oberstoff nur ein Teil der Entscheidung. Ein Wollblazer kann außen atmungsaktiv wirken, innen aber durch ein dichtes synthetisches Futter weniger Feuchtigkeit durchlassen. Umgekehrt kann ein Futter aus Viskose, Cupro oder Acetat das Tragegefühl je nach Konstruktion verbessern.
 
-Achte außerdem auf die Stoffdichte. Ein dichter [Twill](/glossar/twill/) oder eine feste [Gabardine](/glossar/gabardine/) schützt besser vor Wind als ein offenes Gewebe, lässt aber meist weniger Luft durch. Das muss kein Nachteil sein. Entscheidend ist, wofür du das Kleidungsstück brauchst.
+Achte außerdem auf die Stoffdichte. Ein dichter [Twill](/glossar/koeperbindung-twill/) oder eine feste [Gabardine](/glossar/gabardine/) schützt besser vor Wind als ein offenes Gewebe, lässt aber meist weniger Luft durch. Das muss kein Nachteil sein. Entscheidend ist, wofür du das Kleidungsstück brauchst.
 
 Für einen leichten Sommerblazer sind ein geringes Stoffgewicht, ein ungefütterter oder teilweise gefütterter Aufbau und genügend [Bewegungszugabe](/glossar/bewegungszugabe/) oft sinnvoll. Für einen Wintermantel darf der Stoff dichter sein, wenn Wärme und Windschutz im Vordergrund stehen.
 

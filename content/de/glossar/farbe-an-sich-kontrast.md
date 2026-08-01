@@ -26,7 +26,7 @@ relatedTerms:
   - title: "Quantitätskontrast"
     url: "/glossar/quantitaetskontrast/"
   - title: "Colour Blocking"
-    url: "/glossar/colour-blocking/"
+    url: "/glossar/color-blocking/"
 faq:
   items:
     - q: "Braucht der Farbe-an-sich-Kontrast immer drei Farben?"
@@ -65,7 +65,7 @@ Der Kontrast kann gleichzeitig mit anderen Kontrasten auftreten. Ein rotes und e
 
 Farben bestimmen die Wirkung eines Outfits oft schneller als Schnitt oder Material. Der Farbe-an-sich-Kontrast bringt Energie, Individualität und eine spielerische Spannung in deine Garderobe. Er ist deshalb besonders interessant, wenn du bewusst sichtbar sein oder einem schlichten Look mehr Ausdruck geben möchtest.
 
-Das Prinzip prägt auch [Colour Blocking](/glossar/colour-blocking/): Große, einfarbige Flächen werden gezielt miteinander kombiniert. Anders als bei einem gemusterten Kleidungsstück bleibt jede Farbe dabei klar erkennbar. Das Ergebnis wirkt grafisch und modern.
+Das Prinzip prägt auch [Colour Blocking](/glossar/color-blocking/): Große, einfarbige Flächen werden gezielt miteinander kombiniert. Anders als bei einem gemusterten Kleidungsstück bleibt jede Farbe dabei klar erkennbar. Das Ergebnis wirkt grafisch und modern.
 
 Auch ein [Color Clash](/glossar/color-clash-farb-clash/) kann mit Buntkontrasten arbeiten. Beim Color Clash steht jedoch stärker die überraschende oder ungewohnte Farbkombination im Vordergrund. Der Farbe-an-sich-Kontrast beschreibt dagegen zunächst die Intensität klar unterschiedlicher Farben.
 
@@ -95,7 +95,7 @@ Kleine Akzente eignen sich besonders gut, wenn du erst herausfinden möchtest, w
 
 Wiederhole eine Farbe an mindestens einer weiteren Stelle, etwa im Schuh, Schmuck, Tuch oder Taschenriemen. Diese Wiederholung schafft Verbindung und lässt starke Farbkombinationen bewusster wirken.
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) nutzt genau dieses Prinzip: Eine Farbe oder ein visueller Akzent wird oben und unten im Look aufgegriffen, um das Outfit zu balancieren.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) nutzt genau dieses Prinzip: Eine Farbe oder ein visueller Akzent wird oben und unten im Look aufgegriffen, um das Outfit zu balancieren.
 
 ## Beispiel für einen Farbe-an-sich-Kontrast im Outfit
 

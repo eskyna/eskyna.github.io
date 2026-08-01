@@ -23,7 +23,7 @@ relatedTerms:
   - title: Рубашка
     url: /rus/glossar/hemd/
   - title: Шакет
-    url: /rus/glossar/shacket/
+    url: /rus/glossar/overshirt/
   - title: Многослойность
     url: /rus/glossar/layering/
   - title: Переходная куртка
@@ -36,6 +36,10 @@ url: /rus/glossariy/rubashka-kurtka/
 aliases:
   - /glossar/overshirt/
   - /glossariy/overshirt/
+  - /glossariy/shacket/
+  - /glossariy/shaket/
+  - /glossar/shacket/
+  - /glossar/hemdjacke/
 lastmod: "2026-07-09"
 knowledge:
   - Рубашка-куртка занимает промежуточное положение между обычной рубашкой и лёгкой курткой.

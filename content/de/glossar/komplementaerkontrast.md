@@ -156,7 +156,7 @@ Beim Mischen von Farbmaterialien hängt das Ergebnis von Pigmenten, Farbstoffen 
 - **[Warm-Kalt-Kontrast](/glossar/warm-kalt-kontrast/):** Hier steht eine warm wirkende Farbe einer kühl wirkenden gegenüber. Das kann mit einem Komplementärkontrast zusammenfallen, muss es aber nicht.
 - **[Simultankontrast](/glossar/simultankontrast/):** Dabei verändert die Umgebung, wie du eine Farbe wahrnimmst. Dein Auge kann zu einer Farbe optisch die Gegenfarbe ergänzen.
 - **[Farbharmonie](/glossar/farbharmonie/):** Farbharmonie beschreibt ein stimmiges Zusammenwirken von Farben. Ein Komplementärkontrast kann harmonisch wirken, obwohl er deutlich Spannung erzeugt.
-- **[Colour Blocking](/glossar/colour-blocking/):** Colour Blocking arbeitet mit größeren, klar voneinander abgegrenzten Farbflächen. Komplementärfarben sind dafür eine mögliche, besonders kontrastreiche Grundlage.
+- **[Colour Blocking](/glossar/color-blocking/):** Colour Blocking arbeitet mit größeren, klar voneinander abgegrenzten Farbflächen. Komplementärfarben sind dafür eine mögliche, besonders kontrastreiche Grundlage.
 
 ## Praxischeck vor dem Spiegel
 

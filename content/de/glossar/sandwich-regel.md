@@ -17,11 +17,13 @@ keywords:
   - Outfit Farben wiederholen
 weight: 999
 url: /glossar/sandwich-regel/
+aliases:
+  - /glossar/sandwich-methode/
 image: images/glossar/sandwich-regel.png
 image_alt: Outfit mit farblich aufeinander abgestimmtem Oberteil und Schuhen nach der Sandwich-Regel
 relatedTerms:
   - title: Sandwich-Methode
-    url: /glossar/sandwich-methode/
+    url: /glossar/sandwich-regel/
   - title: Outfit-Formel
     url: /glossar/outfit-formel/
   - title: Balance
@@ -61,7 +63,7 @@ Stell dir dein Outfit in drei Bereichen vor:
 
 Du verbindest den oberen und unteren Bereich durch eine Wiederholung. Die Wiederholung kann sehr eindeutig sein, etwa ein roter Pullover zu roten Schuhen. Sie kann aber auch zurückhaltend bleiben, etwa durch ähnliche Braun- oder Metalltöne.
 
-Die Regel ist eng mit der [Sandwich-Methode](/glossar/sandwich-methode/) verwandt. Beide Ansätze nutzen Wiederholungen im Outfit, um eine sichtbare Verbindung zwischen verschiedenen Bereichen herzustellen.
+Die Regel ist eng mit der [Sandwich-Methode](/glossar/sandwich-regel/) verwandt. Beide Ansätze nutzen Wiederholungen im Outfit, um eine sichtbare Verbindung zwischen verschiedenen Bereichen herzustellen.
 
 ## Welche Wirkung hat die Sandwich-Regel?
 

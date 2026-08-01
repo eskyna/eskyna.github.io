@@ -3,7 +3,7 @@ weight: 21
 image: images/glossar/monochrom.png
 title: What Does Monochrome Mean in Fashion?
 seoTitle: Monochrome Fashion Explained | ESKYNA Glossary
-term: Monochrome
+term: "Monochrome Styling"
 description: Monochrome fashion uses one color, or closely related shades of one color, throughout an outfit. Learn how to create a harmonious monochromatic look with the right tone, texture, and contrast.
 category: Color Consultation & Color
 tags:
@@ -23,6 +23,9 @@ slug: monochrome
 url: /en/glossary/monochrome/
 aliases:
   - /glossar/monochrom/
+  - /glossary/monochrom/
+  - /glossar/monochromie/
+  - /glossary/monochromie/
 image_alt: Editorial illustration of a monochromatic outfit in closely related shades
 relatedTerms:
   - title: Tone-on-Tone

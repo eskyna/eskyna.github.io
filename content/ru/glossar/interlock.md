@@ -10,6 +10,8 @@ image_alt: "Схематичное изображение плотного гл�
 url: /rus/glossariy/interlock/
 aliases:
   - /glossar/interlock/
+  - /glossariy/interlock-jersey/
+  - /glossar/interlock-jersey/
 tags:
   - интерлок
   - трикотаж

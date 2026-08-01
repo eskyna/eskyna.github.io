@@ -112,7 +112,7 @@ The terms are sometimes used differently depending on region and brand. Both can
 
 ### Popeline vs. twill
 
-[Twill](/en/glossar/twill/) is recognized by visible diagonal lines and often has a softer or denser feel. Popeline has a much subtler crosswise rib and usually looks crisper and more uniform.
+[Twill](/en/glossar/koeperbindung-twill/) is recognized by visible diagonal lines and often has a softer or denser feel. Popeline has a much subtler crosswise rib and usually looks crisper and more uniform.
 
 ## Styling popeline in everyday outfits
 

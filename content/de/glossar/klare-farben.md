@@ -150,13 +150,13 @@ Achte dabei auf die Temperatur der Farbe. Ein warmes Koralle wirkt meist harmoni
 
 ### Nutze Colour Blocking bewusst
 
-[Colour Blocking](/glossar/colour-blocking/) kombiniert zwei oder mehr klare Farbflächen direkt miteinander. Damit der Look nicht unruhig wird, helfen einfache Schnitte, wenig Muster und eine begrenzte Zahl an Farben.
+[Colour Blocking](/glossar/color-blocking/) kombiniert zwei oder mehr klare Farbflächen direkt miteinander. Damit der Look nicht unruhig wird, helfen einfache Schnitte, wenig Muster und eine begrenzte Zahl an Farben.
 
 Du kannst etwa klares Blau mit Pink, Grün mit Gelb oder Rot mit Türkis kombinieren. Wenn dir das zu intensiv ist, beginne mit einer klaren Farbe und ergänze nur ein kleineres farbiges Detail.
 
 ### Wiederhole die Farbe im Outfit
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) schafft optische Verbindung zwischen Ober- und Unterkörper. Wiederhole eine klare Farbe etwa im Oberteil und in den Schuhen, im Lippenstift und in der Tasche oder im Tuch und im Gürtel.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) schafft optische Verbindung zwischen Ober- und Unterkörper. Wiederhole eine klare Farbe etwa im Oberteil und in den Schuhen, im Lippenstift und in der Tasche oder im Tuch und im Gürtel.
 
 Die Wiederholung muss nicht exakt sein. Farben aus derselben Familie können ebenfalls funktionieren, solange Helligkeit und Intensität bewusst gewählt sind.
 

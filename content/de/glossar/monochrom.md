@@ -1,7 +1,7 @@
 ---
 title: Was ist ein monochromer Look?
-term: Monochrom
-description: Monochrom bedeutet in der Mode, ein Outfit aus einer Farbfamilie aufzubauen. Erfahre, wie du monochrome Looks Ton in Ton kombinierst und durch Materialien, Helligkeit und Accessoires spannend stylst.
+term: "Monochromes Styling"
+description: Monochromes Styling bedeutet in der Mode, ein Outfit aus einer Farbfamilie aufzubauen. Erfahre, wie sich monochrome Looks von Ton-in-Ton und Tonal Dressing unterscheiden und wie du sie mit Materialien und Helligkeit spannend stylst.
 category: Farbberatung & Farbe
 tags:
   - monochrom
@@ -38,13 +38,16 @@ relatedTerms:
     url: /glossar/struktur/
 faq:
   items:
-    - q: Was ist der Unterschied zwischen monochrom und Ton in Ton?
-      a: Monochrom beschreibt einen Look aus einer Farbfamilie. Ton in Ton kombiniert besonders nah verwandte Nuancen dieser Familie. Im Styling werden beide Begriffe häufig ähnlich verwendet.
+    - q: Was ist der Unterschied zwischen monochrom, Ton-in-Ton und Tonal Dressing?
+      a: Monochromes Styling baut den Look in einer Farbfamilie auf. Ton-in-Ton arbeitet mit besonders nahen Nuancen derselben Farbe. Tonal Dressing bleibt ebenfalls in einer Familie, erlaubt aber oft klarere Abstufungen von hell zu dunkel. Die Übergänge sind fließend, die Richtung aber unterschiedlich.
     - q: Müssen bei einem monochromen Outfit alle Teile exakt dieselbe Farbe haben?
       a: Nein. Gerade leichte Unterschiede zwischen hellen, mittleren und dunklen Nuancen machen einen monochromen Look interessanter. Wichtig ist, dass die Farben erkennbar zusammengehören.
     - q: Welche Schuhe passen zu einem monochromen Look?
       a: Schuhe in derselben Farbfamilie verlängern die ruhige Gesamtlinie. Du kannst auch neutrale Schuhe wählen oder mit einem bewussten Kontrast einen Fokus setzen.
 lastmod: "2026-07-09"
+aliases:
+  - /glossar/monochromie/
+  - /glossar/monochrom/
 ---
 
 ## Definition: Was bedeutet monochrom in der Mode?

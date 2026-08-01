@@ -1,6 +1,6 @@
 ---
 title: "Was ist Hosenbruch?"
-term: "Hosenbruch"
+term: Hosenbruch
 description: "Der Hosenbruch ist die Falte über dem Schuh, die durch die Länge des Hosenbeins entsteht. Erfahre, was No Break, Half Break und Full Break bedeuten und welche Hosenlänge zu deinem Schuh und Schnitt passt."
 category: "Schnitt, Proportion & Passform"
 subcategory: "Größen & Passform"
@@ -42,6 +42,9 @@ faq:
       a: "Das richtet sich nach der gewünschten Wirkung. Für einen modernen, klaren Look endet die Hose knapp über oder auf dem Schuh. Für einen klassischen Businesslook ist ein leichter bis halber Hosenbruch eine sichere Wahl."
     - q: "Ist ein Hosenbruch dasselbe wie eine Bügelfalte?"
       a: "Nein. Die Bügelfalte ist eine bewusst eingepresste, vertikale Linie am Hosenbein. Der Hosenbruch entsteht dagegen erst durch den Kontakt zwischen Hosensaum und Schuh."
+aliases:
+  - /glossar/trouser-break/
+  - /glossar/hosenbruch/
 ---
 
 ## Definition

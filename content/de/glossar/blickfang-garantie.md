@@ -83,7 +83,7 @@ Der Blickfang sollte zu dir, zum Anlass und zur restlichen Garderobe passen. Ein
 
 Je klarer der Fokus, desto ruhiger dürfen die übrigen Elemente sein. Kombiniere ein auffälliges Kleidungsstück mit zurückhaltenden Farben, schlichten Schnitten oder dezenten Accessoires. So bleibt die Wirkung deutlich.
 
-Du kannst Farben oder Materialien des Blickfangs an einer zweiten Stelle leise wiederholen. Das schafft Verbindung, ohne aus einem Akzent ein Konkurrenzspiel zu machen. Die [Sandwich-Methode](/glossar/sandwich-methode/) kann dabei helfen, etwa wenn sich die Farbe deiner Schuhe in einer kleinen Tasche oder im Schmuck wiederfindet.
+Du kannst Farben oder Materialien des Blickfangs an einer zweiten Stelle leise wiederholen. Das schafft Verbindung, ohne aus einem Akzent ein Konkurrenzspiel zu machen. Die [Sandwich-Methode](/glossar/sandwich-regel/) kann dabei helfen, etwa wenn sich die Farbe deiner Schuhe in einer kleinen Tasche oder im Schmuck wiederfindet.
 
 ### Setze den Fokus dort, wo du ihn möchtest
 

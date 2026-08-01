@@ -23,7 +23,7 @@ relatedTerms:
   - title: Фактура
     url: /rus/glossar/struktur/
   - title: Твил
-    url: /rus/glossar/twill/
+    url: /rus/glossar/koeperbindung-twill/
   - title: Вельвет
     url: /rus/glossar/veloursleder/
   - title: Пластика материала
@@ -144,7 +144,7 @@ faq:
 - [Фактура](/rus/glossar/struktur/)
 - [Пластика материала](/rus/glossar/materialfall/)
 - [Плотность ткани](/rus/glossar/stoffgewicht/)
-- [Твил](/rus/glossar/twill/)
+- [Твил](/rus/glossar/koeperbindung-twill/)
 - [Деним](/rus/glossar/denim/)
 
 Больше подходящих терминов: [Материалы и детали](/rus/glossar/materialy-i-detali/).

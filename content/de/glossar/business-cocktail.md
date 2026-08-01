@@ -24,7 +24,7 @@ relatedTerms:
   - title: Cocktail Attire
     url: /glossar/cocktail-attire/
   - title: Cocktail
-    url: /glossar/cocktail/
+    url: /glossar/cocktail-attire/
   - title: Business Professional
     url: /glossar/business-professional/
   - title: Business Formal

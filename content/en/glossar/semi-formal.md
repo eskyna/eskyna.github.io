@@ -92,7 +92,7 @@ A [Cocktail Dress](/en/glossar/cocktailkleid/) can be a strong choice for an eve
 
 ### Semi Formal vs Cocktail Attire
 
-Semi Formal and Cocktail Attire overlap, particularly for evening occasions. Cocktail attire often has a more festive, party-ready character and may invite a dressier [Cocktail](/en/glossar/cocktail/) look. Semi Formal can be broader, with the event context determining whether the outfit should lean understated, modern, or festive.
+Semi Formal and Cocktail Attire overlap, particularly for evening occasions. Cocktail attire often has a more festive, party-ready character and may invite a dressier [Cocktail](/en/glossar/cocktail-attire/) look. Semi Formal can be broader, with the event context determining whether the outfit should lean understated, modern, or festive.
 
 ### Semi Formal vs Black Tie
 

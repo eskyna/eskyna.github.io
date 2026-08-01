@@ -1,8 +1,10 @@
 ---
 title: Was ist Color Blocking?
-term: Color Blocking
+term: "Color Blocking"
 slug: color-blocking
 url: /glossar/color-blocking/
+aliases:
+  - /glossar/colour-blocking/
 description: Color Blocking ist das gezielte Kombinieren von zwei oder mehr klar abgegrenzten Farbflächen in einem Outfit. Erfahre, wie du kräftige Farben harmonisch kombinierst, Kontraste steuerst und Color Blocking alltagstauglich stylst.
 category: Stil & Wirkung
 subcategory: Farbgestaltung

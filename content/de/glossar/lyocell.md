@@ -49,6 +49,9 @@ faq:
     - q: Ist Lyocell besser als Viskose?
       a: Lyocell und Viskose sind beide regenerierte Cellulosefasern. Sie können sich ähnlich weich und fließend anfühlen, unterscheiden sich jedoch je nach Herstellung, Stoffqualität und Verarbeitung.
 lastmod: "2026-07-09"
+aliases:
+  - /glossar/lyocell-tencel/
+  - /glossar/lyocell/
 ---
 
 ## Definition: Was ist Lyocell?

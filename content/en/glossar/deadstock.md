@@ -15,6 +15,8 @@ slug: deadstock
 url: /en/glossary/deadstock/
 aliases:
   - /glossar/deadstock/
+  - /glossar/deadstock-fabric/
+  - /glossary/deadstock-fabric/
 relatedTerms:
   - title: "Circular Fashion"
     url: /en/glossar/circular-fashion/

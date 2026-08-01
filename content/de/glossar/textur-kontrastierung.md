@@ -101,7 +101,7 @@ Achte dabei auch auf den [Materialfall](/glossar/materialfall/). Ein schwerer, f
 
 Du musst nicht jedes Teil unterschiedlich wählen. Wiederhole eine Oberfläche, damit das Outfit zusammenhängend wirkt. Trägst du beispielsweise eine Ledertasche, können Schuhe mit ähnlicher glatter Oberfläche den Look verbinden.
 
-Die [Sandwich-Methode](/glossar/sandwich-methode/) hilft dir dabei, Details oben und unten im Outfit aufzugreifen. So bleibt ein Texturkontrast bewusst gesetzt statt zufällig.
+Die [Sandwich-Methode](/glossar/sandwich-regel/) hilft dir dabei, Details oben und unten im Outfit aufzugreifen. So bleibt ein Texturkontrast bewusst gesetzt statt zufällig.
 
 ## Typische Missverständnisse
 

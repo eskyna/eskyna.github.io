@@ -10,6 +10,8 @@ image_alt: "Трикотаж French terry с гладкой лицевой ст�
 url: /rus/glossariy/french-terry/
 aliases:
   - /glossar/french-terry/
+  - /glossariy/french-terry-sweatstoff/
+  - /glossar/french-terry-sweatstoff/
 tags:
   - french-terry
   - футер-петля

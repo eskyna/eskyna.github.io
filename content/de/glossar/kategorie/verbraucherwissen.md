@@ -15,7 +15,7 @@ relatedTerms:
   - /glossar/qualitaet/
   - /glossar/kaufkriterien/
   - /glossar/cost-per-wear/
-  - /glossar/preis-pro-tragen-strategie/
+  - /glossar/cost-per-wear/
   - /glossar/greenwashing/
   - /glossar/slow-fashion/
   - /glossar/secondhand/
@@ -88,7 +88,7 @@ Ein [Wardrobe Audit](/glossar/wardrobe-audit/) oder eine [Kleiderschrank-Inventu
 
 Ein niedriger Preis bedeutet nicht automatisch, dass ein Kleidungsstück günstig ist. Wenn du es kaum trägst, bleibt es trotz Rabatt ein schlechter Kauf. Umgekehrt kann ein höherer Preis sinnvoll sein, wenn ein Teil oft zum Einsatz kommt, gut verarbeitet ist und lange in deiner Garderobe funktioniert.
 
-Der Begriff [Cost per Wear](/glossar/cost-per-wear/) beschreibt die Kosten eines Kleidungsstücks pro tatsächlichem Tragen. Die [Preis-pro-Tragen-Strategie](/glossar/preis-pro-tragen-strategie/) nutzt diesen Gedanken als praktische Entscheidungshilfe.
+Der Begriff [Cost per Wear](/glossar/cost-per-wear/) beschreibt die Kosten eines Kleidungsstücks pro tatsächlichem Tragen. Die [Preis-pro-Tragen-Strategie](/glossar/cost-per-wear/) nutzt diesen Gedanken als praktische Entscheidungshilfe.
 
 Dabei geht es nicht darum, jeden Kauf rechnerisch zu rechtfertigen. Ein Abendkleid oder ein besonderes Statement-Teil darf selten getragen werden, wenn es dir Freude macht und zu deinem Leben passt. Der Preis pro Tragen ist vor allem bei Alltagsstücken hilfreich, etwa bei Mänteln, Schuhen, Jeans oder Taschen.
 

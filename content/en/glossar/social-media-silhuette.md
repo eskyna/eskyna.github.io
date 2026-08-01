@@ -89,7 +89,7 @@ If one part of the outfit is voluminous, give the other part enough structure to
 
 ### Use color with purpose
 
-Color can separate, connect, or direct attention. A light-dark combination creates a visible division, while [monochromatic dressing](/en/glossar/monochromie/) can create a continuous, lengthened effect.
+Color can separate, connect, or direct attention. A light-dark combination creates a visible division, while [monochromatic dressing](/en/glossar/monochrom/) can create a continuous, lengthened effect.
 
 For a more striking image, use one [accent color](/en/glossar/akzentfarbe/) in a bag, shoe, lipstick, scarf, or top. Keep the rest of the palette controlled so the accent has room to work.
 

@@ -80,7 +80,7 @@ A continuous vertical line can make an outfit feel calmer and more elongated. Th
 - Trousers that fall cleanly over the shoe
 - Shoes close in color to trousers, tights, or skin
 
-[Monochromatic dressing](/en/glossar/monochromie/) is a simple way to use this principle. Different textures or shades within one color family can prevent the outfit from looking flat.
+[Monochromatic dressing](/en/glossar/monochrom/) is a simple way to use this principle. Different textures or shades within one color family can prevent the outfit from looking flat.
 
 ### Control horizontal breaks
 

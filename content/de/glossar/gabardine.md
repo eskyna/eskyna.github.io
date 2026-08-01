@@ -12,7 +12,7 @@ image: images/glossar/gabardine.png
 image_alt: "Nahaufnahme von Gabardine-Stoff mit feiner diagonaler Köperrippe"
 relatedTerms:
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Trenchcoat
     url: /glossar/trenchcoat/
   - title: Webstoff
@@ -42,7 +42,7 @@ knowledge:
 
 ## Definition
 
-**Gabardine** ist ein dichter [Köperstoff](/glossar/twill/) mit einer feinen, deutlich erkennbaren Diagonalrippe. Die Rippe verläuft meist steil über die Stoffoberfläche und verleiht dem Material seine glatte, klare und strapazierfähige Wirkung.
+**Gabardine** ist ein dichter [Köperstoff](/glossar/koeperbindung-twill/) mit einer feinen, deutlich erkennbaren Diagonalrippe. Die Rippe verläuft meist steil über die Stoffoberfläche und verleiht dem Material seine glatte, klare und strapazierfähige Wirkung.
 
 Gabardine ist keine einzelne Faser. Der Stoff kann aus [Wolle](/glossar/wolle/), [Baumwolle](/glossar/baumwolle/), Viskose, [Polyester](/glossar/polyester/) oder einer Fasermischung bestehen. Je nach Material verändert sich sein Fall: Wollgabardine wirkt meist elegant und formstabil, Baumwollgabardine eher fest und funktional.
 
@@ -87,7 +87,7 @@ Festere Gabardine-Qualitäten geben [Röcken](/glossar/rock/) und Kleidern Struk
 
 ## Gabardine, Twill und Flanell: Was ist der Unterschied?
 
-Gabardine gehört zur Familie der Köpergewebe. Deshalb ist sie mit [Twill](/glossar/twill/) verwandt, aber nicht mit jeder Köperware gleichzusetzen.
+Gabardine gehört zur Familie der Köpergewebe. Deshalb ist sie mit [Twill](/glossar/koeperbindung-twill/) verwandt, aber nicht mit jeder Köperware gleichzusetzen.
 
 - **Gabardine:** Sehr dichter, fein gerippter Köper mit klarer, glatter Oberfläche und meist steiler Diagonalstruktur.
 - **Twill:** Oberbegriff für Köpergewebe mit diagonaler Struktur. Twill kann fein, grob, weich, robust oder leicht sein.

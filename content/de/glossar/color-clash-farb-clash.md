@@ -22,7 +22,7 @@ keywords:
   - farben ungewöhnlich kombinieren
 relatedTerms:
   - title: Colour Blocking
-    url: /glossar/colour-blocking/
+    url: /glossar/color-blocking/
   - title: Komplementärfarben
     url: /glossar/komplementaerfarben/
   - title: Farbkreis
@@ -70,7 +70,7 @@ Ob eine Kombination laut, elegant, verspielt oder sehr grafisch wirkt, hängt st
 
 ## Unterschied zwischen Color Clash und Colour Blocking
 
-[Colour Blocking](/glossar/colour-blocking/) kombiniert meist große, klar abgegrenzte Farbflächen. Der Look wirkt grafisch und bewusst aufgebaut, etwa durch ein blaues Oberteil zu einer orangefarbenen Hose.
+[Colour Blocking](/glossar/color-blocking/) kombiniert meist große, klar abgegrenzte Farbflächen. Der Look wirkt grafisch und bewusst aufgebaut, etwa durch ein blaues Oberteil zu einer orangefarbenen Hose.
 
 Color Clash beschreibt vor allem die spannungsvolle Beziehung zwischen den Farben. Er kann Teil eines Colour-Blocking-Looks sein, funktioniert aber ebenso über kleinere Akzente. Eine pinke Tasche zum roten Kleid oder grüne Schuhe zu einem violetten Rock können bereits einen Farbclash erzeugen.
 

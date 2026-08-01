@@ -10,6 +10,8 @@ image_alt: "Close view of smooth interlock knit fabric with an even surface"
 url: /en/glossary/interlock/
 aliases:
   - /glossar/interlock/
+  - /glossar/interlock-jersey/
+  - /glossary/interlock-jersey/
 tags:
   - interlock fabric
   - double knit

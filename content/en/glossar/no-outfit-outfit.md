@@ -106,7 +106,7 @@ Avoid choosing a larger or smaller size solely because it matches a trend. Relax
 
 When an outfit uses neutral or similar colors, texture keeps it from looking flat. Pair smooth denim with soft knitwear, crisp cotton with leather, or a matte blazer with a subtle silk scarf.
 
-This approach is especially effective in [monochromatic dressing](/en/glossar/monochromie/) and neutral outfits. Texture creates interest without needing a bold print or statement piece.
+This approach is especially effective in [monochromatic dressing](/en/glossar/monochrom/) and neutral outfits. Texture creates interest without needing a bold print or statement piece.
 
 ### Add one personal finishing detail
 

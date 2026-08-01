@@ -29,7 +29,7 @@ relatedTerms:
   - title: "Old Money Style"
     url: "/en/glossar/old-money-style/"
   - title: "Monochromatic Dressing"
-    url: "/en/glossar/monochromie/"
+    url: "/en/glossar/monochrom/"
   - title: "Elegant"
     url: "/en/glossar/elegant/"
 knowledge:
@@ -75,7 +75,7 @@ The aesthetic usually works best when there is a balance between relaxed and ref
 
 Choose two or three neutral colors that work well together and repeat them across your wardrobe. Cream, camel, chocolate brown, navy, gray, and white are versatile options. A tonal outfit in related shades creates depth without visual clutter.
 
-[Monochromatic Dressing](/en/glossar/monochromie/) is especially useful here. A cream top, beige trousers, and tan shoes can look more polished than several unrelated colors in one outfit.
+[Monochromatic Dressing](/en/glossar/monochrom/) is especially useful here. A cream top, beige trousers, and tan shoes can look more polished than several unrelated colors in one outfit.
 
 ### Prioritize fit and proportion
 

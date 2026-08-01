@@ -26,7 +26,7 @@ relatedTerms:
   - title: Festliche Kleidung
     url: /glossar/festliche-kleidung/
   - title: Cocktail
-    url: /glossar/cocktail/
+    url: /glossar/cocktail-attire/
   - title: Business Cocktail
     url: /glossar/business-cocktail/
   - title: Dresscode
@@ -77,7 +77,7 @@ Smart Elegant geht einen Schritt weiter: Die Silhouette ist meist klarer, die Sc
 
 [Festliche Kleidung](/glossar/festliche-kleidung/) kann mehr Glanz, Schmuck, Farbe oder dekorative Details tragen. Smart Elegant bleibt meist reduzierter. Ein auffälliges Abendkleid, sehr hohe Absätze oder starker Schmuck sind nicht grundsätzlich falsch, können aber schnell formeller wirken als der Anlass verlangt.
 
-Für einen klar definierten [Cocktail](/glossar/cocktail/) Dresscode oder Black Tie gelten wiederum eigene Erwartungen. Smart Elegant ersetzt diese Vorgaben nicht.
+Für einen klar definierten [Cocktail](/glossar/cocktail-attire/) Dresscode oder Black Tie gelten wiederum eigene Erwartungen. Smart Elegant ersetzt diese Vorgaben nicht.
 
 ## Smart-Elegant-Outfits für verschiedene Anlässe
 

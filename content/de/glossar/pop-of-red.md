@@ -129,7 +129,7 @@ Auch ein [monochromer](/glossar/monochrom/) Look in Grau, Schwarz oder Creme bek
 
 Ein Pop of Red ist eine Form der [Akzentfarbe](/glossar/akzentfarbe/): Eine Farbe wird gezielt genutzt, um einem Outfit Spannung zu geben.
 
-Im Unterschied zu [Colour Blocking](/glossar/colour-blocking/) werden bei Pop of Red keine großen, klar abgegrenzten Farbflächen kombiniert. Auch vom [Color Clash](/glossar/color-clash-farb-clash/) unterscheidet sich der Ansatz: Statt bewusst ungewöhnliche Farben gegeneinanderzustellen, bleibt die Basis meist neutral und das Rot übernimmt allein die Blickführung.
+Im Unterschied zu [Colour Blocking](/glossar/color-blocking/) werden bei Pop of Red keine großen, klar abgegrenzten Farbflächen kombiniert. Auch vom [Color Clash](/glossar/color-clash-farb-clash/) unterscheidet sich der Ansatz: Statt bewusst ungewöhnliche Farben gegeneinanderzustellen, bleibt die Basis meist neutral und das Rot übernimmt allein die Blickführung.
 
 ## Praxischeck: So setzt du rote Akzente stimmig ein
 

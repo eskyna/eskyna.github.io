@@ -98,7 +98,7 @@ Lässigkeit entsteht oft durch kontrolliertes Volumen. Eine weite Hose funktioni
 
 Der [French Tuck](/glossar/french-tuck/) ist eine einfache Technik dafür: Du steckst nur den vorderen Teil deines Oberteils locker in Hose oder Rock. Das gibt Struktur, ohne den Look zu streng zu machen.
 
-Auch die [Sandwich-Methode](/glossar/sandwich-methode/) kann helfen. Sie wiederholt eine Farbe, ein Material oder einen optischen Schwerpunkt oben und unten im Outfit und schafft damit Balance.
+Auch die [Sandwich-Methode](/glossar/sandwich-regel/) kann helfen. Sie wiederholt eine Farbe, ein Material oder einen optischen Schwerpunkt oben und unten im Outfit und schafft damit Balance.
 
 ### Schuhe bewusst einsetzen
 

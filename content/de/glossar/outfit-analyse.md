@@ -129,7 +129,7 @@ Du kannst eine Outfit-Analyse in wenigen Minuten vor dem Spiegel oder anhand ein
 
 3. **Beobachte die Balance.** Verteilt sich Volumen sinnvoll? Wenn oben viel Weite sichtbar ist, brauchst du unten nicht automatisch Enge. Aber eine bewusste [Balance](/glossar/balance/) aus Linien, Farbe oder Material hilft dem Look.
 
-4. **Kontrolliere die Farbverteilung.** Wiederholt sich eine Farbe sinnvoll im Outfit? Die [Sandwich-Methode](/glossar/sandwich-methode/) kann helfen, eine Farbe oben und unten wieder aufzugreifen, etwa durch Oberteil und Schuhe.
+4. **Kontrolliere die Farbverteilung.** Wiederholt sich eine Farbe sinnvoll im Outfit? Die [Sandwich-Methode](/glossar/sandwich-regel/) kann helfen, eine Farbe oben und unten wieder aufzugreifen, etwa durch Oberteil und Schuhe.
 
 5. **Sieh auf Schuhe und Accessoires.** Passen sie in Form, Material und Aussage zum Rest? Sie müssen nicht identisch wirken, sollten aber eine erkennbare Verbindung schaffen.
 

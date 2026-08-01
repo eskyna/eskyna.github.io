@@ -30,7 +30,7 @@ knowledge:
   - Schnitt, Farbe, Stoffgewicht und Schuhe entscheiden darüber, ob eine Chino lässig, smart oder businessnah wirkt.
 relatedTerms:
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Baumwolle
     url: /glossar/baumwolle/
   - title: Anzughose
@@ -54,7 +54,7 @@ lastmod: "2026-07-09"
 
 ## Definition: Was ist eine Chino-Hose?
 
-Eine **Chino**, auch Chino-Hose genannt, ist eine leichte bis mittelschwere Hose aus [Baumwolle](/glossar/baumwolle/), meist in [Twill](/glossar/twill/)-Bindung. Sie wirkt ordentlicher als eine [Jeans](/glossar/jeans/), aber weniger formell als eine [Anzughose](/glossar/anzughose/).
+Eine **Chino**, auch Chino-Hose genannt, ist eine leichte bis mittelschwere Hose aus [Baumwolle](/glossar/baumwolle/), meist in [Twill](/glossar/koeperbindung-twill/)-Bindung. Sie wirkt ordentlicher als eine [Jeans](/glossar/jeans/), aber weniger formell als eine [Anzughose](/glossar/anzughose/).
 
 Typisch sind eine klare, reduzierte Optik, schräge Eingrifftaschen und ein glatter Stoff mit feiner Diagonalstruktur. Genau diese Mischung macht Chinos zu einem vielseitigen Bestandteil einer funktionalen Garderobe.
 

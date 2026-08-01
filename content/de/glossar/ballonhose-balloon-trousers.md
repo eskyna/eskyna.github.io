@@ -102,7 +102,7 @@ Wie markant eine Ballonhose wirkt, hängt stark von Stoffgewicht, Fall und Verar
 
 ### Feste Stoffe für klare Form
 
-Denim, Twill, Baumwollpopeline oder festere Wolle können die Rundung deutlich betonen. Die Hose wirkt dadurch grafischer, strukturierter und oft urbaner. Besonders Modelle aus [Denim](/glossar/denim/) oder dichtem [Twill](/glossar/twill/) behalten ihre Form gut.
+Denim, Twill, Baumwollpopeline oder festere Wolle können die Rundung deutlich betonen. Die Hose wirkt dadurch grafischer, strukturierter und oft urbaner. Besonders Modelle aus [Denim](/glossar/denim/) oder dichtem [Twill](/glossar/koeperbindung-twill/) behalten ihre Form gut.
 
 ### Weiche Stoffe für mehr Bewegung
 

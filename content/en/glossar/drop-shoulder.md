@@ -20,11 +20,13 @@ weight: 999
 url: /en/glossary/drop-shoulder/
 aliases:
   - /glossar/drop-shoulder/
+  - /glossar/dropped-shoulder/
+  - /glossary/dropped-shoulder/
 image: images/glossar/drop-shoulder.png
 image_alt: Cream knit sweater with shoulder seams positioned below the natural shoulders
 relatedTerms:
   - title: Dropped Shoulder
-    url: /en/glossar/dropped-shoulder/
+    url: /en/glossar/drop-shoulder/
   - title: Shoulder Line
     url: /en/glossar/schulterlinie/
   - title: Oversized

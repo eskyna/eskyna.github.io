@@ -23,6 +23,8 @@ slug: polyamid
 url: /en/glossary/polyamid/
 aliases:
   - /glossar/polyamid/
+  - /glossar/polyamid-nylon/
+  - /glossary/polyamid-nylon/
 image_alt: Editorial glossary illustration for Polyamid
 relatedTerms:
   - title: Polyester

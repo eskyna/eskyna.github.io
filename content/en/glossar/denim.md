@@ -34,7 +34,7 @@ relatedTerms:
   - title: Cotton
     url: /en/glossar/baumwolle/
   - title: Twill
-    url: /en/glossar/twill/
+    url: /en/glossar/koeperbindung-twill/
 history:
   - The name denim is generally associated with the French phrase "serge de Nîmes," referring to a fabric connected with the city of Nîmes.
   - Denim became closely associated with workwear because sturdy cotton twill was practical for garments exposed to regular wear.

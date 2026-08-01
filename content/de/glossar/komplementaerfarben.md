@@ -69,7 +69,7 @@ Je reiner und gesättigter die Farben sind, desto stärker fällt der Kontrast a
 
 Die Lehre der Komplementärfarben wurde in der Farbenlehre unter anderem von Johann Wolfgang von Goethe und später von Johannes Itten behandelt. Sie prägte Kunstunterricht, Gestaltung und Design nachhaltig.
 
-Auch in der Mode werden Gegenfarben bewusst eingesetzt, wenn ein Look sichtbar, modern oder expressiv wirken soll. Besonders bei [Colour Blocking](/glossar/colour-blocking/) und [Color Clash](/glossar/color-clash-farb-clash/) sind starke Farbgegensätze ein zentrales Gestaltungsmittel.
+Auch in der Mode werden Gegenfarben bewusst eingesetzt, wenn ein Look sichtbar, modern oder expressiv wirken soll. Besonders bei [Colour Blocking](/glossar/color-blocking/) und [Color Clash](/glossar/color-clash-farb-clash/) sind starke Farbgegensätze ein zentrales Gestaltungsmittel.
 
 Im Alltag funktioniert derselbe Kontrast meist dann am besten, wenn du ihn kontrolliert dosierst. Ein komplett gleich starkes Blau Orange Outfit kann sehr grafisch und auffällig wirken. Ein navyfarbener Look mit einer cognacfarbenen Tasche wirkt dagegen ruhig, aber nicht beliebig.
 

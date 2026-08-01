@@ -23,10 +23,13 @@ slug: overshirt
 url: /en/glossary/overshirt/
 aliases:
   - /glossar/overshirt/
+  - /glossar/shacket/
+  - /glossar/hemdjacke/
+  - /glossary/shacket/
 image_alt: Neutral overshirt worn open over a T-shirt as a casual layered outfit
 relatedTerms:
   - title: Shacket
-    url: /en/glossar/shacket/
+    url: /en/glossar/overshirt/
   - title: Layering
     url: /en/glossar/layering/
   - title: Shirt
@@ -79,7 +82,7 @@ The categories can overlap, but their intended use is different.
 | --------------------------------------------- | --------------------------------- | --------------- | ------------------------------------------- |
 | [Shirt](/en/glossar/hemd/)                    | Base or standalone top            | Light to medium | Usually closed, tucked, or worn on its own  |
 | Overshirt                                     | Flexible outer layer              | Medium          | Open or closed over a T-shirt, top, or knit |
-| [Shacket](/en/glossar/shacket/)               | Shirt-jacket hybrid               | Medium to heavy | Used more like a lightweight jacket         |
+| [Shacket](/en/glossar/overshirt/)               | Shirt-jacket hybrid               | Medium to heavy | Used more like a lightweight jacket         |
 | [Utility Jacket](/en/glossar/utility-jacket/) | Outerwear with functional details | Medium to heavy | Worn as the main jacket layer               |
 
 In practice, the distinction often comes down to fabric, lining, and construction. The heavier, more jacket-like the piece is, the closer it is to a shacket or jacket.

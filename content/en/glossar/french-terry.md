@@ -10,6 +10,8 @@ image_alt: "Glossary illustration showing French Terry fabric with a smooth oute
 url: /en/glossary/french-terry/
 aliases:
   - /glossar/french-terry/
+  - /glossar/french-terry-sweatstoff/
+  - /glossary/french-terry-sweatstoff/
 tags:
   - French Terry
   - knit fabric

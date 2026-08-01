@@ -103,7 +103,7 @@ Ein konkreter [Dresscode](/glossar/dresscode/) kann für einzelne Termine zusät
 
 ## Anlassgarderobe und Dresscode: der Unterschied
 
-Ein Dresscode beschreibt, was bei einem bestimmten Anlass erwartet wird. Beispiele sind [Business Casual](/glossar/business-casual/), [Cocktail](/glossar/cocktail/), [Black Tie](/glossar/black-tie/) oder [Smart Casual](/glossar/smart-casual/).
+Ein Dresscode beschreibt, was bei einem bestimmten Anlass erwartet wird. Beispiele sind [Business Casual](/glossar/business-casual/), [Cocktail](/glossar/cocktail-attire/), [Black Tie](/glossar/black-tie/) oder [Smart Casual](/glossar/smart-casual/).
 
 Anlassgarderobe geht weiter. Sie berücksichtigt nicht nur formelle Regeln, sondern auch deinen Alltag, dein Komfortbedürfnis, deine Rollen und deine gewünschte Wirkung. Ein Outfit kann den Dresscode erfüllen und sich trotzdem fremd anfühlen. Gute Anlassgarderobe verbindet deshalb Angemessenheit mit deiner persönlichen [Stilidentität](/glossar/stilidentitaet/).
 

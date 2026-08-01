@@ -51,7 +51,7 @@ Nicht jede Einladung nennt einen klaren Dresscode. Dann helfen dir diese Fragen 
 - **Wo findet der Anlass statt?** Ein Empfang in einem Hotel, eine Feier im Garten oder eine Trauung am Strand verlangen unterschiedliche Kleidung und Schuhe.
 - **Zu welcher Uhrzeit beginnt er?** Tagsüber wirken meist leichtere Materialien und weniger Glanz passend. Für Abendtermine ist [Abendgarderobe](/glossar/abendgarderobe/) häufiger angemessen.
 - **Wie formell ist der Anlass?** Ein berufliches Meeting, ein Restaurantbesuch und ein Ball haben sehr unterschiedliche Erwartungen.
-- **Was steht in der Einladung?** Begriffe wie [Cocktail](/glossar/cocktail/), [Black Tie](/glossar/black-tie/) oder [Business Casual](/glossar/business-casual/) geben eine konkrete Richtung vor.
+- **Was steht in der Einladung?** Begriffe wie [Cocktail](/glossar/cocktail-attire/), [Black Tie](/glossar/black-tie/) oder [Business Casual](/glossar/business-casual/) geben eine konkrete Richtung vor.
 - **Welche Rolle hast du?** Als Gast, Vortragende Person oder bei einem [Bewerbungsgespräch](/glossar/bewerbungsgespraech/) können andere Prioritäten gelten.
 - **Was funktioniert für dich?** Wähle ein Outfit, in dem du sitzen, stehen und dich frei bewegen kannst. Komfort unterstützt dein [Auftreten](/glossar/auftreten/).
 

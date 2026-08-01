@@ -78,7 +78,7 @@ Du musst nicht auf weitere Details verzichten. Wähle aber bewusst, welches Elem
 
 Eine Farbe darf an mindestens zwei Stellen im Outfit erscheinen. Trägst du etwa eine dunkelgrüne Strumpfhose, kann eine grüne Tasche, ein Halstuch oder ein kleiner Akzent am Oberteil den Look verbinden.
 
-Diese Wiederholung erzeugt Balance und macht auch mutige Farbkombinationen nachvollziehbar. Für stärkere Kombinationen kannst du dich an den Prinzipien von [Colour Blocking](/glossar/colour-blocking/) orientieren.
+Diese Wiederholung erzeugt Balance und macht auch mutige Farbkombinationen nachvollziehbar. Für stärkere Kombinationen kannst du dich an den Prinzipien von [Colour Blocking](/glossar/color-blocking/) orientieren.
 
 ### Wähle Schuhe bewusst
 

@@ -24,7 +24,7 @@ relatedTerms:
   - title: Texture
     url: /en/glossar/struktur/
   - title: Monochromatic Dressing
-    url: /en/glossar/monochromie/
+    url: /en/glossar/monochrom/
   - title: Sheen Level
     url: /en/glossar/glanzgrad/
   - title: Material Profile
@@ -68,7 +68,7 @@ The effect also depends on [sheen level](/en/glossar/glanzgrad/). Matte and refl
 
 ## Texture Contrast in Monochrome Outfits
 
-Texture contrast is one of the most useful tools in [monochromatic dressing](/en/glossar/monochromie/). Wearing one color family from head to toe can create a calm, cohesive, and visually elongated look. However, identical fabrics can sometimes make the outfit look visually dense or indistinct.
+Texture contrast is one of the most useful tools in [monochromatic dressing](/en/glossar/monochrom/). Wearing one color family from head to toe can create a calm, cohesive, and visually elongated look. However, identical fabrics can sometimes make the outfit look visually dense or indistinct.
 
 To build a monochrome outfit with depth, combine related shades through different materials:
 

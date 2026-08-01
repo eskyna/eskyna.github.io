@@ -6,6 +6,9 @@ slug: overknee-stiefel
 url: /rus/glossariy/overknee-stiefel/
 aliases:
   - /glossar/overknee-stiefel/
+  - /glossariy/overknees/
+  - /glossariy/botforty/
+  - /glossar/overknees/
 category: Обувь
 tags:
   - ботфорты

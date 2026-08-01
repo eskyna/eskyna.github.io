@@ -76,7 +76,7 @@ Die Wirkung einer A-Linie entsteht nicht allein durch den Schnitt. Auch [Materia
 
 ### Klar und strukturiert
 
-Feste Stoffe geben der A-Linie eine grafische, fast skulpturale Form. [Denim](/glossar/denim/), [Gabardine](/glossar/gabardine/) oder dichter [Twill](/glossar/twill/) halten die Kontur sichtbar. Ein solcher Schnitt wirkt oft modern, reduziert und angezogen.
+Feste Stoffe geben der A-Linie eine grafische, fast skulpturale Form. [Denim](/glossar/denim/), [Gabardine](/glossar/gabardine/) oder dichter [Twill](/glossar/koeperbindung-twill/) halten die Kontur sichtbar. Ein solcher Schnitt wirkt oft modern, reduziert und angezogen.
 
 ### Weich und fließend
 

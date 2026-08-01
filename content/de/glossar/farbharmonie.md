@@ -111,7 +111,7 @@ Damit der Look kontrolliert statt unruhig wirkt, hilft eine klare Gewichtung. Nu
 
 Ein Outfit wirkt oft stimmiger, wenn eine Farbe mindestens zweimal erscheint. Das kann ein roter Lippenstift sein, der eine kleine rote Tasche aufgreift, oder ein Schuh, der den Ton eines Musters wiederholt.
 
-Diese Wiederholung schafft Verbindung zwischen einzelnen Teilen. Die [Sandwich-Methode](/glossar/sandwich-methode/) nutzt genau diesen Effekt, indem sie eine Farbe oder ein visuelles Element oben und unten im Look wieder aufnimmt.
+Diese Wiederholung schafft Verbindung zwischen einzelnen Teilen. Die [Sandwich-Methode](/glossar/sandwich-regel/) nutzt genau diesen Effekt, indem sie eine Farbe oder ein visuelles Element oben und unten im Look wieder aufnimmt.
 
 ## Was beeinflusst, ob Farben harmonisch wirken?
 

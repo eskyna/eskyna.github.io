@@ -27,7 +27,7 @@ relatedTerms:
   - title: Shoulder Line
     url: /en/glossar/schulterlinie/
   - title: Dropped Shoulder
-    url: /en/glossar/dropped-shoulder/
+    url: /en/glossar/drop-shoulder/
   - title: Sleeve Length
     url: /en/glossar/aermellaenge/
   - title: Fit
@@ -98,7 +98,7 @@ Use the [proportion](/en/glossar/proportion/) of the whole outfit as your guide.
 
 ## Raglan sleeve versus dropped shoulder sleeve
 
-A raglan sleeve and a [dropped shoulder](/en/glossar/dropped-shoulder/) sleeve are different cuts.
+A raglan sleeve and a [dropped shoulder](/en/glossar/drop-shoulder/) sleeve are different cuts.
 
 A raglan sleeve is defined by its diagonal seam from underarm to neckline. A dropped shoulder sleeve has a shoulder seam that sits below the natural shoulder point, creating a relaxed and often wider shape.
 

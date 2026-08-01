@@ -9,7 +9,7 @@ relatedTerms:
   - title: Denim
     url: /glossar/denim/
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Baumwolle
     url: /glossar/baumwolle/
   - title: Leinen
@@ -66,7 +66,7 @@ Chambray und Denim werden oft verwechselt, weil beide meist mit blauen und weiß
 
 | Merkmal    | Chambray                        | Denim                                               |
 | ---------- | ------------------------------- | --------------------------------------------------- |
-| Webart     | Leinwandbindung                 | Köperbindung, auch [Twill](/glossar/twill/) genannt |
+| Webart     | Leinwandbindung                 | Köperbindung, auch [Twill](/glossar/koeperbindung-twill/) genannt |
 | Oberfläche | glatt, fein und gleichmäßig     | diagonal gerippt und markanter                      |
 | Gewicht    | meist leicht bis mittel         | meist mittel bis schwer                             |
 | Rückseite  | ähnelt oft der Vorderseite      | meist deutlich heller als die Vorderseite           |

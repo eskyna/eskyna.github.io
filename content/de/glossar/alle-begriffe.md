@@ -40,7 +40,7 @@ Ob [A-Linie](/glossar/a-linie/), [Blazer](/glossar/blazer/), [Capsule Wardrobe](
 
 Modebegriffe helfen dir, Kleidung präziser zu verstehen. Wenn du weißt, worin sich ein [A-Linien-Kleid](/glossar/a-linien-kleid/) von einem [Etuikleid](/glossar/etuikleid/) unterscheidet, was ein [Schrägschnitt](/glossar/schraegen-schnitt-bias-cut/) bewirkt oder wie [Volumen](/glossar/volumen/) die Silhouette verändert, kannst du gezielter auswählen.
 
-Das gilt auch für Stoffe und Verarbeitung. Begriffe wie [Baumwolle](/glossar/baumwolle/), [Leinen](/glossar/leinen/), [Wolle](/glossar/wolle/), [Satin](/glossar/satin/) oder [Twill](/glossar/twill/) beschreiben nicht nur die Optik eines Kleidungsstücks. Sie beeinflussen Griff, Fall, Pflege, Komfort und die Wirkung im Outfit.
+Das gilt auch für Stoffe und Verarbeitung. Begriffe wie [Baumwolle](/glossar/baumwolle/), [Leinen](/glossar/leinen/), [Wolle](/glossar/wolle/), [Satin](/glossar/satin/) oder [Twill](/glossar/koeperbindung-twill/) beschreiben nicht nur die Optik eines Kleidungsstücks. Sie beeinflussen Griff, Fall, Pflege, Komfort und die Wirkung im Outfit.
 
 ## Warum Modevokabular deinen Stil klarer macht
 

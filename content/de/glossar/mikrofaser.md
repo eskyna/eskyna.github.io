@@ -1,6 +1,6 @@
 ---
 title: "Was ist Mikrofaser?"
-term: "Mikrofaser"
+term: Mikrofaser
 description: "Mikrofaser ist eine besonders feine Textilfaser, meist aus Polyester oder Polyamid. Erfahre, welche Eigenschaften Mikrofaser hat, wo sie in Kleidung vorkommt und wie du sie richtig pflegst."
 category: "Materialien & Details"
 slug: "mikrofaser"
@@ -33,6 +33,9 @@ faq:
       a: "Das kann sie sein, besonders bei Funktionsstoffen. Wie gut Feuchtigkeit und Luft transportiert werden, hängt aber von Gewebe, Dichte, Verarbeitung und Beschichtung ab."
     - q: "Kann Mikrofaser in den Trockner?"
       a: "Orientiere dich immer am Pflegeetikett. Viele Mikrofaserstoffe trocknen schnell an der Luft und reagieren empfindlich auf zu hohe Hitze."
+aliases:
+  - /glossar/microfaser/
+  - /glossar/mikrofaser/
 ---
 
 ## Definition: Was ist Mikrofaser?

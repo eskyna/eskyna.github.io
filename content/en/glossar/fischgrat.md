@@ -24,7 +24,7 @@ aliases:
   - /glossar/fischgrat/
 relatedTerms:
   - title: "Twill"
-    url: /en/glossar/twill/
+    url: /en/glossar/koeperbindung-twill/
   - title: "Houndstooth"
     url: /en/glossar/hahnentritt/
   - title: "Glencheck"
@@ -52,7 +52,7 @@ It is most often associated with woven fabrics, especially wool, but herringbone
 
 ## How herringbone fabric looks
 
-A herringbone pattern is built from short diagonal sections that reverse direction. Rather than one continuous diagonal rib, as in standard [twill](/en/glossar/twill/), the lines create a broken rhythm across the fabric.
+A herringbone pattern is built from short diagonal sections that reverse direction. Rather than one continuous diagonal rib, as in standard [twill](/en/glossar/koeperbindung-twill/), the lines create a broken rhythm across the fabric.
 
 From a distance, a fine herringbone weave can look almost solid, adding depth without reading as an obvious print. Up close, its structured texture becomes more visible. A larger-scale herringbone in contrasting colors looks more graphic and can become a defining feature of an outfit.
 

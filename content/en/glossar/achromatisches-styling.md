@@ -22,7 +22,7 @@ image: "images/glossar/achromatisches-styling.png"
 image_alt: "Black blazer, white shirt, gray trousers, and black shoes in an achromatic outfit"
 relatedTerms:
   - title: "Monochromatic Dressing"
-    url: "/en/glossar/monochromie/"
+    url: "/en/glossar/monochrom/"
   - title: "Neutral Colors"
     url: "/en/glossar/neutrale-farben/"
   - title: "Light-Dark Contrast"

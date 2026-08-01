@@ -88,7 +88,7 @@ For a relaxed everyday look, combine familiar, comfortable materials such as cot
 
 Then add contrast carefully. One soft material and one structured material often create enough interest. A chunky knit with tailored trousers, a satin skirt with a simple T-shirt, or a leather jacket over a flowing dress can feel balanced because the surfaces are clearly different.
 
-You can also create cohesion through similar tactile qualities. A tonal outfit in matte wool, soft suede, and fine knit can feel calm and sophisticated even when the shades vary slightly. This approach works especially well in [monochromatic dressing](/en/glossar/monochromie/) and neutral wardrobes.
+You can also create cohesion through similar tactile qualities. A tonal outfit in matte wool, soft suede, and fine knit can feel calm and sophisticated even when the shades vary slightly. This approach works especially well in [monochromatic dressing](/en/glossar/monochrom/) and neutral wardrobes.
 
 ## Common Misunderstandings
 

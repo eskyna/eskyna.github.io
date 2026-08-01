@@ -30,7 +30,7 @@ relatedTerms:
   - title: Подплечники
     url: /rus/glossar/schulterpolster/
   - title: Спущенное плечо
-    url: /rus/glossar/dropped-shoulder/
+    url: /rus/glossar/drop-shoulder/
 seoTitle: "Линия плеч | Style & Image ESKYNA"
 slug: liniya-plech
 url: /rus/glossariy/liniya-plech/
@@ -84,7 +84,7 @@ faq:
 - повлиять на свободу движения;
 - определить характер образа: от расслабленного до делового и выразительного.
 
-Например, структурированный блейзер с чёткими плечами выглядит более собранно, чем мягкий кардиган со [спущенным плечом](/rus/glossar/dropped-shoulder/). Ни один из вариантов не лучше сам по себе: выбор зависит от ситуации, личного стиля и желаемого эффекта.
+Например, структурированный блейзер с чёткими плечами выглядит более собранно, чем мягкий кардиган со [спущенным плечом](/rus/glossar/drop-shoulder/). Ни один из вариантов не лучше сам по себе: выбор зависит от ситуации, личного стиля и желаемого эффекта.
 
 ## Как проверить линию плеч при примерке
 
@@ -147,6 +147,6 @@ faq:
 - [Силуэт](/rus/glossar/silhouette/)
 - [Пропорции](/rus/glossar/proportion/)
 - [Подплечники](/rus/glossar/schulterpolster/)
-- [Спущенное плечо](/rus/glossar/dropped-shoulder/)
+- [Спущенное плечо](/rus/glossar/drop-shoulder/)
 
 Больше терминов по теме: [Крой, пропорции и посадка](/rus/glossar/kroy-proportsii-i-posadka/).

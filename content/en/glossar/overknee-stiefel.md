@@ -6,6 +6,8 @@ slug: "overknee-stiefel"
 url: "/en/glossary/overknee-stiefel/"
 aliases:
   - /glossar/overknee-stiefel/
+  - /glossar/overknees/
+  - /glossary/overknees/
 category: "Shoes"
 tags:
   - "over-the-knee boots"

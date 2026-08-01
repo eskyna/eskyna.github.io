@@ -1,6 +1,6 @@
 ---
 title: Was ist Drop Shoulder?
-term: Drop Shoulder
+term: "Drop Shoulder"
 description: Drop Shoulder bezeichnet eine tief angesetzte Schulternaht bei Pullovern, T-Shirts, Sweatshirts und Jacken. Der Schnitt schafft eine entspannte, lässige Silhouette mit weicher Schulterlinie.
 category: Schnitt, Proportion & Passform
 subcategory: Schnittdetails
@@ -40,6 +40,9 @@ faq:
     - q: Für welche Kleidungsstücke ist eine Drop Shoulder typisch?
       a: Besonders häufig findest du die überschnittene Schulter bei Pullovern, Sweatshirts, T-Shirts, Cardigans, Hemden und locker geschnittenen Jacken.
 lastmod: "2026-07-30"
+aliases:
+  - /glossar/dropped-shoulder/
+  - /glossar/drop-shoulder/
 ---
 
 ## Definition

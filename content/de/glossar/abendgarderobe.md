@@ -80,7 +80,7 @@ Abendgarderobe reicht von elegant und festlich bis hochformell. Diese Einordnung
 
 ### Cocktail und Cocktail Attire
 
-[Cocktail](/glossar/cocktail/) beziehungsweise [Cocktail Attire](/glossar/cocktail-attire/) ist festlich, aber weniger formell als Black Tie. Ein Cocktailkleid, ein eleganter Hosenanzug oder ein dunkler, gepflegter Anzug sind hier typische Optionen.
+[Cocktail](/glossar/cocktail-attire/) beziehungsweise [Cocktail Attire](/glossar/cocktail-attire/) ist festlich, aber weniger formell als Black Tie. Ein Cocktailkleid, ein eleganter Hosenanzug oder ein dunkler, gepflegter Anzug sind hier typische Optionen.
 
 ### Festliche Kleidung ohne konkreten Dresscode
 

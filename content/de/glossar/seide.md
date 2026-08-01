@@ -25,7 +25,7 @@ relatedTerms:
   - title: Satin
     url: /glossar/satin/
   - title: Twill
-    url: /glossar/twill/
+    url: /glossar/koeperbindung-twill/
   - title: Materialfall
     url: /glossar/materialfall/
   - title: Glanzgrad

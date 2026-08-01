@@ -121,7 +121,7 @@ Die Schuhwahl verändert Jorts besonders stark:
 - [Ballerinas](/glossar/ballerina/) oder feine Sandaletten setzen einen weicheren Kontrast.
 - [Combat Boots](/glossar/combat-boots/) verstärken die robuste, kantige Wirkung.
 
-Ein eleganter Schuh zur lässigen Jort kann nach der [Wrong Shoe Theory](/glossar/wrong-shoe-theory/) besonders spannend wirken. Wiederholst du eine Schuhfarbe im Oberteil, in der Tasche oder im Schmuck, bringt die [Sandwich-Methode](/glossar/sandwich-methode/) zusätzlich Ruhe in den Look.
+Ein eleganter Schuh zur lässigen Jort kann nach der [Wrong Shoe Theory](/glossar/wrong-shoe-theory/) besonders spannend wirken. Wiederholst du eine Schuhfarbe im Oberteil, in der Tasche oder im Schmuck, bringt die [Sandwich-Methode](/glossar/sandwich-regel/) zusätzlich Ruhe in den Look.
 
 ## Welche Passform bei Jorts ist sinnvoll?
 

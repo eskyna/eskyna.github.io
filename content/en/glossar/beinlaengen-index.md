@@ -68,7 +68,7 @@ Several outfit details can affect a leg length index:
 - **Trouser and skirt length:** Full-length trousers and shorter skirts often create more visible leg length, while mid-calf hems can create a stronger horizontal break.
 - **Shoe color:** Shoes close in color to trousers, tights, or skin can create continuity. Strongly contrasting shoes create a visible stopping point.
 - **Shoe shape:** A more open instep or pointed toe can extend the visual line of the foot, while a chunky or highly contrasting shoe can add visual weight at the bottom.
-- **Color placement:** A tonal outfit or [monochromatic dressing](/en/glossar/monochromie/) can support a longer, more continuous line.
+- **Color placement:** A tonal outfit or [monochromatic dressing](/en/glossar/monochrom/) can support a longer, more continuous line.
 - **Volume distribution:** A very long, oversized top combined with slim lower layers may visually shorten the legs, while a more defined waist can rebalance the silhouette.
 
 These effects are part of [proportion](/en/glossar/proportion/), not fixed rules. The most effective choice depends on the desired look, your comfort, and the occasion.

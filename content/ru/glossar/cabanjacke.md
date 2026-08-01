@@ -21,7 +21,7 @@ image: images/glossar/cabanjacke.png
 image_alt: "Короткое двубортное морское пальто с широкими лацканами и двумя рядами пуговиц"
 relatedTerms:
   - title: Бушлат
-    url: /rus/glossar/peacoat/
+    url: /rus/glossar/cabanjacke/
   - title: Двубортный
     url: /rus/glossar/doppelreiher/
   - title: Пальто
@@ -35,6 +35,10 @@ slug: morskoe-palto
 url: /rus/glossariy/morskoe-palto/
 aliases:
   - /glossar/cabanjacke/
+  - /glossariy/cabanjacke/
+  - /glossariy/peacoat/
+  - /glossariy/bushlat/
+  - /glossar/peacoat/
 lastmod: "2026-07-09"
 history:
   - "Морское пальто связано с формой моряков: короткая длина и двубортная застёжка отвечали требованиям службы в прохладную и ветреную погоду."
@@ -163,7 +167,7 @@ faq:
 
 ## Связанные термины
 
-- [Бушлат](https://eskyna.com/rus/glossar/peacoat/)
+- [Бушлат](https://eskyna.com/rus/glossar/cabanjacke/)
 - [Двубортный](https://eskyna.com/rus/glossar/doppelreiher/)
 - [Шерстяное пальто](https://eskyna.com/rus/glossar/wollmantel/)
 - [Классический стиль](https://eskyna.com/rus/glossar/klassisch/)

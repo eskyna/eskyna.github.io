@@ -81,7 +81,7 @@ In der zivilen Mode wurde daraus eine Jacke, die Nutzen und Stil verbindet. Heut
 Eine Utility Jacket kann je nach Marke und Stil unterschiedlich aussehen. Diese Merkmale sind jedoch besonders typisch:
 
 - **Mehrere Taschen:** Große Fronttaschen prägen die Optik und geben der Jacke ihren funktionalen Charakter.
-- **Robuster Stoff:** Häufig kommen Baumwolle, Canvas oder [Twill](/glossar/twill/) zum Einsatz. Die Oberfläche wirkt meist matt, fest und griffig.
+- **Robuster Stoff:** Häufig kommen Baumwolle, Canvas oder [Twill](/glossar/koeperbindung-twill/) zum Einsatz. Die Oberfläche wirkt meist matt, fest und griffig.
 - **Gerade oder regulierbare Form:** Ein lockerer Schnitt lässt Raum für Schichten. Ein Tunnelzug kann die Taille stärker definieren.
 - **Praktische Details:** Knopfleiste, Reißverschluss, Druckknöpfe, Klappen und Kordeln unterstreichen die funktionale Wirkung.
 - **Gedeckte Farben:** Besonders verbreitet sind Oliv, Khaki, Sand, Navy, Braun und Anthrazit. Sie machen die Jacke leicht kombinierbar.
