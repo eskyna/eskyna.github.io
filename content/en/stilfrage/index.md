@@ -20,7 +20,7 @@ offer:
     Or do you want to know how to combine a piece that is already in your wardrobe?
 
     With Ask Natalia a style question, you get a personal assessment of your exact situation. Clear, honest, and practical.
-  price: "€49 / €79"
+  price: from €49
   cta: Ask your style question
   secondary_cta:
     href: /en/style-question/order/

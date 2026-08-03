@@ -20,7 +20,7 @@ offer:
     Oder du möchtest wissen, wie du ein Teil kombinieren kannst, das schon in deinem Schrank hängt?
 
     Mit der Stilfrage an Natalia bekommst du eine persönliche Einschätzung zu genau deiner Situation. Klar, ehrlich und alltagstauglich.
-  price: "49 € / 79 €"
+  price: "ab 49 €"
   cta: "Stilfrage einreichen"
   secondary_cta:
     href: "/stilfrage/bestellen/"
