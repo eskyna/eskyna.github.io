@@ -1,53 +1,396 @@
 {
-  "generated_at": "2026-07-24T09:52:40.337Z",
+  "generated_at": "2026-08-03T23:46:57.428Z",
   "glossary_directory": "content/de/glossar",
-  "total_categories": 9,
-  "assigned_subcategories": 126,
-  "matching_subcategories": 122,
-  "non_rule_subcategories": 4,
+  "total_categories": 13,
+  "assigned_subcategories": 193,
+  "matching_subcategories": 114,
+  "non_rule_subcategories": 62,
   "category_summary": [
     {
       "category": "Materialien & Details",
-      "count": 250
-    },
-    {
-      "category": "Garderobe & Alltag",
-      "count": 186
+      "count": 320
     },
     {
       "category": "Stil & Wirkung",
-      "count": 132
+      "count": 184
+    },
+    {
+      "category": "Garderobe & Alltag",
+      "count": 182
     },
     {
       "category": "Schnitt, Proportion & Passform",
-      "count": 95
+      "count": 151
+    },
+    {
+      "category": "Farbberatung & Farbe",
+      "count": 74
     },
     {
       "category": "Farb-Lexikon",
       "count": 60
     },
     {
-      "category": "Farbberatung & Farbe",
-      "count": 49
+      "category": "Schuhe",
+      "count": 58
     },
     {
-      "category": "Schuhe",
-      "count": 48
+      "category": "Dresscodes & Anlaesse",
+      "count": 39
     },
     {
       "category": "Kleider & Roecke",
       "count": 35
     },
     {
-      "category": "Dresscodes & Anlaesse",
-      "count": 25
+      "category": "Dessous, BH & Styling-Helfer",
+      "count": 31
+    },
+    {
+      "category": "Größen & Passform",
+      "count": 9
+    },
+    {
+      "category": "Verbraucherwissen",
+      "count": 3
+    },
+    {
+      "category": "Materials & Details",
+      "count": 2
     }
   ],
-  "outlier_categories": [],
+  "outlier_categories": [
+    {
+      "file": "content/de/glossar/apfelfigur.md",
+      "term": "Apfelfigur",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/badeanzug.md",
+      "term": "Badeanzug",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/balconette-bikini.md",
+      "term": "Balconette-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/bh-groesse-messen.md",
+      "term": "BH-Größe messen",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/bh-passform.md",
+      "term": "BH-Passform",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/bh.md",
+      "term": "BH",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/biese.md",
+      "term": "Biese",
+      "category_raw": "Materials & Details",
+      "category_normalized": "Materials & Details"
+    },
+    {
+      "file": "content/de/glossar/bikini-proportionen-check.md",
+      "term": "Bikini-Proportionen-Check",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/bikini-shapewear.md",
+      "term": "Bikini-Shapewear",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/bikini.md",
+      "term": "Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/body-hugging-fit.md",
+      "term": "Body-Hugging Fit",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/boob-tape.md",
+      "term": "Boob Tape",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/buegel-bikini.md",
+      "term": "Bügel-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/buesten-zentrierung.md",
+      "term": "Büsten-Zentrierung",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/butt-lifter-passform.md",
+      "term": "Butt-Lifter-Passform",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/cameltoe-vermeidung.md",
+      "term": "Cameltoe-Vermeidung",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/dynamic-fit-processing.md",
+      "term": "Dynamic Fit Processing",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/fashion-tape.md",
+      "term": "Fashion Tape",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/high-apex-bikini.md",
+      "term": "High-Apex-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/hosensitz-toleranz.md",
+      "term": "Hosensitz-Toleranz",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/hueft-v-ausschnitt-french-cut.md",
+      "term": "Hüft-V-Ausschnitt (French Cut)",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/impulskauf-falle.md",
+      "term": "Impulskauf-Falle",
+      "category_raw": "Verbraucherwissen",
+      "category_normalized": "Verbraucherwissen"
+    },
+    {
+      "file": "content/de/glossar/klebe-bh.md",
+      "term": "Klebe-BH und rückenfreier BH",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/leder-dessous.md",
+      "term": "Leder-Dessous",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/merinowolle.md",
+      "term": "Merinowolle",
+      "category_raw": "Materials & Details",
+      "category_normalized": "Materials & Details"
+    },
+    {
+      "file": "content/de/glossar/multiway-bikini.md",
+      "term": "Multiway-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/nachtwaesche.md",
+      "term": "Nachtwäsche",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/nahtstruempfe.md",
+      "term": "Nahtstrümpfe",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/neckholder-bikini.md",
+      "term": "Neckholder-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/oeko-tex-standard-100.md",
+      "term": "OEKO-TEX Standard 100",
+      "category_raw": "Verbraucherwissen",
+      "category_normalized": "Verbraucherwissen"
+    },
+    {
+      "file": "content/de/glossar/passform-toleranz.md",
+      "term": "Passform-Toleranz",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/raffungs-effekt-ruching.md",
+      "term": "Raffungs-Effekt (Ruching)",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/sitz-passform-check.md",
+      "term": "Sitz-Passform-Check",
+      "category_raw": "Größen & Passform",
+      "category_normalized": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/strapsen-optik.md",
+      "term": "Strapsen-Optik",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/strapsguertel.md",
+      "term": "Strapsgürtel und Strapse",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/struempfe.md",
+      "term": "Strümpfe",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/strumpfhose.md",
+      "term": "Strumpfhose",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/subtiler-lingerie-blitzer.md",
+      "term": "Subtiler Lingerie-Blitzer",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/subtiler-underboob.md",
+      "term": "Subtiler Underboob",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/tankini.md",
+      "term": "Tankini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/triangel-bikini.md",
+      "term": "Triangel-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/unterwaesche.md",
+      "term": "Unterwäsche",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/virtual-try-on.md",
+      "term": "Virtual Try-On",
+      "category_raw": "Verbraucherwissen",
+      "category_normalized": "Verbraucherwissen"
+    },
+    {
+      "file": "content/de/glossar/whale-tail.md",
+      "term": "Whale Tail",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    },
+    {
+      "file": "content/de/glossar/wrap-bikini.md",
+      "term": "Wrap-Bikini",
+      "category_raw": "Dessous, BH & Styling-Helfer",
+      "category_normalized": "Dessous, BH & Styling-Helfer"
+    }
+  ],
   "suggested_subcategories": [
+    {
+      "file": "content/de/glossar/a-figur.md",
+      "term": "A-Figur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/anziehungs-proportionen.md",
+      "term": "Anziehungs-Proportionen",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/apfelfigur.md",
+      "term": "Apfelfigur",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/architektonisches-schulterpolster.md",
+      "term": "Architektonisches Schulterpolster",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/asymmetrische-linienbalance.md",
+      "term": "Asymmetrische Linienbalance",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
     {
       "file": "content/de/glossar/asymmetrischer-ausschnitt.md",
       "term": "asymmetrischer Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/aufgesetzte-tasche.md",
+      "term": "Aufgesetzte Tasche",
+      "category": "Materialien & Details",
+      "current_subcategory": "Details",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/ausschnitt-skalierung.md",
+      "term": "Ausschnitt-Skalierung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/bananenfigur.md",
+      "term": "Bananenfigur",
       "category": "Schnitt, Proportion & Passform",
       "current_subcategory": "",
       "suggested_subcategory": "Größen & Passform"
@@ -60,22 +403,218 @@
       "suggested_subcategory": "Größen & Passform"
     },
     {
+      "file": "content/de/glossar/barchetta-tasche.md",
+      "term": "Barchetta-Tasche",
+      "category": "Materialien & Details",
+      "current_subcategory": "Taschen & Verarbeitung",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/beinlaengen-index.md",
+      "term": "Beinlängen-Index",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
       "file": "content/de/glossar/bh-groesse-messen.md",
       "term": "BH-Größe messen",
-      "category": "Garderobe & Alltag",
+      "category": "Dessous, BH & Styling-Helfer",
       "current_subcategory": "",
       "suggested_subcategory": "Größen & Passform"
     },
     {
       "file": "content/de/glossar/bh-passform.md",
       "term": "BH-Passform",
-      "category": "Garderobe & Alltag",
+      "category": "Dessous, BH & Styling-Helfer",
       "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/bikini-proportionen-check.md",
+      "term": "Bikini-Proportionen-Check",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/birnenfigur.md",
+      "term": "Birnenfigur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/body-hugging-fit.md",
+      "term": "Body-Hugging Fit",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/boxy-cut.md",
+      "term": "Boxy Cut",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Passform",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/butt-lifter-passform.md",
+      "term": "Butt-Lifter-Passform",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/cameltoe-vermeidung.md",
+      "term": "Cameltoe-Vermeidung",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/carre-ausschnitt.md",
+      "term": "Carré-Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/date-accessoire-balance.md",
+      "term": "Date-Accessoire-Balance",
+      "category": "Materialien & Details",
+      "current_subcategory": "",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/dekollete-geometrie.md",
+      "term": "Dekolleté-Geometrie",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/drop-shoulder.md",
+      "term": "Drop Shoulder",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Schnittdetails",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/dynamic-fit-processing.md",
+      "term": "Dynamic Fit Processing",
+      "category": "Größen & Passform",
+      "current_subcategory": "Schnitt, Proportion & Passform",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/figurbetonendes-layering.md",
+      "term": "Figurbetonendes Layering",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/fledermausaermel.md",
+      "term": "Fledermausärmel",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Ärmel & Schnittformen",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/flirt-silhouette.md",
+      "term": "Flirt-Silhouette",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/glute-shaping.md",
+      "term": "Glute-Shaping",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/guertelbreiten-relation.md",
+      "term": "Gürtelbreiten-Relation",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/h-figur.md",
+      "term": "H-Figur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/handtasche.md",
+      "term": "Handtasche",
+      "category": "Materialien & Details",
+      "current_subcategory": "",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/heart-shape-naht.md",
+      "term": "Heart-Shape-Naht",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/high-leg-beinausschnitt.md",
+      "term": "High-Leg-Beinausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/high-low-saum.md",
+      "term": "High-Low-Saum",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Saumformen",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/high-waist-bikini.md",
+      "term": "High-Waist-Bikini",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/hose.md",
+      "term": "Hose",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/hosensitz-toleranz.md",
+      "term": "Hosensitz-Toleranz",
+      "category": "Größen & Passform",
+      "current_subcategory": "Schnitt, Proportion & Passform",
       "suggested_subcategory": "Größen & Passform"
     },
     {
       "file": "content/de/glossar/illusion-ausschnitt.md",
       "term": "Illusion-Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/illusionistische-linienfuehrung.md",
+      "term": "Illusionistische Linienführung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/invisible-tailoring.md",
+      "term": "Invisible Tailoring",
       "category": "Schnitt, Proportion & Passform",
       "current_subcategory": "",
       "suggested_subcategory": "Größen & Passform"
@@ -88,8 +627,155 @@
       "suggested_subcategory": "Größen & Passform"
     },
     {
+      "file": "content/de/glossar/klappen-tasche-flap-pocket.md",
+      "term": "Klappen-Tasche (Flap Pocket)",
+      "category": "Materialien & Details",
+      "current_subcategory": "Taschen & Verarbeitung",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/klassische-manschetten-proportion.md",
+      "term": "Klassische Manschetten-Proportion",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/koerperachsen-symmetrie.md",
+      "term": "Körperachsen-Symmetrie",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/koerperformen.md",
+      "term": "Körperformen",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/micro-waist-illusion.md",
+      "term": "Micro-Waist-Illusion",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/monokini.md",
+      "term": "Monokini",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/nachtwaesche.md",
+      "term": "Nachtwäsche",
+      "category": "Dessous, BH & Styling-Helfer",
+      "current_subcategory": "",
+      "suggested_subcategory": "Pflege & Wäsche"
+    },
+    {
+      "file": "content/de/glossar/o-figur.md",
+      "term": "O-Figur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/optischer-schlankmacher.md",
+      "term": "Optischer Schlankmacher",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/oversizefit.md",
+      "term": "OversizeFit",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Passform",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/paperbag-bund.md",
+      "term": "Paperbag-Bund",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Bund und Taille",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/passform-toleranz.md",
+      "term": "Passform-Toleranz",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/pattentasche.md",
+      "term": "Pattentasche",
+      "category": "Materialien & Details",
+      "current_subcategory": "Taschen",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/peek-a-boo-schnitt.md",
+      "term": "Peek-a-Boo-Schnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/peplum-schoss.md",
+      "term": "Peplum / Schößchen",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Schnittdetails",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/physiognomische-kragenwahl.md",
+      "term": "Physiognomische Kragenwahl",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
       "file": "content/de/glossar/plunge-neckline.md",
       "term": "Plunge Neckline",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/proportionaler-saumabschluss.md",
+      "term": "Proportionaler Saumabschluss",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/proportionen-hacking.md",
+      "term": "Proportionen-Hacking",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/proportionen-rhythmuseffekt.md",
+      "term": "Proportionen-Rhythmuseffekt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/push-up-jeans.md",
+      "term": "Push-up-Jeans",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/ruecken-schnittfuehrung.md",
+      "term": "Rücken-Schnittführung",
       "category": "Schnitt, Proportion & Passform",
       "current_subcategory": "",
       "suggested_subcategory": "Größen & Passform"
@@ -102,6 +788,48 @@
       "suggested_subcategory": "Größen & Passform"
     },
     {
+      "file": "content/de/glossar/sanduhrfigur.md",
+      "term": "Sanduhrfigur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/sartoriale-reversbreite.md",
+      "term": "Sartoriale Reversbreite",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/sartoriale-schulterneigung.md",
+      "term": "Sartoriale Schulterneigung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/schalkragen.md",
+      "term": "Schalkragen",
+      "category": "Materialien & Details",
+      "current_subcategory": "Kragen",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/schmuck.md",
+      "term": "Schmuck",
+      "category": "Materialien & Details",
+      "current_subcategory": "",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/schnittmuster-anatomie.md",
+      "term": "Schnittmuster-Anatomie",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
       "file": "content/de/glossar/schuhpflege.md",
       "term": "Schuhpflege",
       "category": "Materialien & Details",
@@ -109,11 +837,130 @@
       "suggested_subcategory": "Pflege & Wäsche"
     },
     {
+      "file": "content/de/glossar/scrunch-bikini.md",
+      "term": "Scrunch-Bikini",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/scrunch-detailing.md",
+      "term": "Scrunch-Detailing",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/sensuelle-schnitt-ergonomie.md",
+      "term": "Sensuelle Schnitt-Ergonomie",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/sideboob.md",
+      "term": "Sideboob",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Dessous, BH & Styling-Helfer",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/silhouetten-skulpturierung.md",
+      "term": "Silhouetten-Skulpturierung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/sinnliche-silhouetten-fuehrung.md",
+      "term": "Sinnliche Silhouettenführung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/sitz-passform-check.md",
+      "term": "Sitz-Passform-Check",
+      "category": "Größen & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/spalla-camicia.md",
+      "term": "Spalla Camicia",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Schulterlinie",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
       "file": "content/de/glossar/strapsguertel.md",
       "term": "Strapsgürtel und Strapse",
-      "category": "Garderobe & Alltag",
+      "category": "Dessous, BH & Styling-Helfer",
       "current_subcategory": "",
       "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/taillen-offset.md",
+      "term": "Taillen-Offset",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/tasche.md",
+      "term": "Tasche",
+      "category": "Materialien & Details",
+      "current_subcategory": "",
+      "suggested_subcategory": "Accessoires"
+    },
+    {
+      "file": "content/de/glossar/taschen-skalierung.md",
+      "term": "Taschen-Skalierung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/u-boot-ausschnitt.md",
+      "term": "U-Boot-Ausschnitt",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "Ausschnitte",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/unterwaesche.md",
+      "term": "Unterwäsche",
+      "category": "Dessous, BH & Styling-Helfer",
+      "current_subcategory": "",
+      "suggested_subcategory": "Pflege & Wäsche"
+    },
+    {
+      "file": "content/de/glossar/v-figur.md",
+      "term": "V-Figur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/visuelle-gewichtsverlagerung.md",
+      "term": "Visuelle Gewichtsverlagerung",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/x-figur.md",
+      "term": "X-Figur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
+    },
+    {
+      "file": "content/de/glossar/y-figur.md",
+      "term": "Y-Figur",
+      "category": "Schnitt, Proportion & Passform",
+      "current_subcategory": "",
+      "suggested_subcategory": "Größen & Passform"
     }
   ]
 }
