@@ -28,7 +28,7 @@ relatedTerms:
     url: "/en/glossar/koeperbindung-twill/"
   - title: "Fresco Fabric"
     url: "/en/glossar/fresko-fresco/"
-  - title: "Fabric Weight (GSM)"
+  - title: "Grammage / Area Weight"
     url: "/en/glossar/grammatur-flaechengewicht/"
 knowledge:
   - "Worsted describes a spinning system and yarn character, not a separate animal fiber."
@@ -95,7 +95,7 @@ Worsted wool trousers can make a simple knit, T-shirt, or shirt look more intent
 The label may say “worsted wool,” but the garment's quality and usefulness depend on more than its fiber processing.
 
 - **Look at the surface:** A good worsted fabric should appear even and clean, without irregular fuzz or thin-looking areas.
-- **Check the fabric weight:** Lighter cloth is useful for warmer conditions and indoor tailoring, while heavier cloth may offer more structure and warmth. See [Fabric Weight (GSM)](/en/glossar/grammatur-flaechengewicht/).
+- **Check the fabric weight:** Lighter cloth is useful for warmer conditions and indoor tailoring, while heavier cloth may offer more structure and warmth. See [Grammage / Area Weight](/en/glossar/grammatur-flaechengewicht/).
 - **Assess the drape:** Hold the garment up or try it on. The fabric should fall in a way that supports the intended silhouette.
 - **Inspect construction:** Look at seams, lining, hems, pockets, and button attachment. Strong [craftsmanship](/en/glossar/verarbeitung/) matters as much as the fabric itself.
 - **Consider your lifestyle:** A formal worsted suit is only a good investment if it suits your real occasions, climate, and care routine.

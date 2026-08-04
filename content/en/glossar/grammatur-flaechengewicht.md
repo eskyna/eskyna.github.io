@@ -1,7 +1,7 @@
 ---
-title: Fabric Weight (GSM)
-term: Fabric Weight (GSM)
-description: "Fabric weight, also called grammage or area weight, measures how many grams one square metre of fabric weighs. It helps you assess likely opacity, durability, drape, warmth, and suitable garment uses."
+title: What Is Grammage / Area Weight?
+term: Grammage / Area Weight
+description: "Grammage, also called area weight or fabric weight, measures how many grams one square metre of fabric weighs. It helps you assess likely opacity, durability, drape, warmth, and suitable garment uses."
 url: /en/glossary/grammatur-flaechengewicht/
 aliases:
   - /en/glossar/grammatur-flaechengewicht/

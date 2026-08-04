@@ -27,7 +27,7 @@ relatedTerms:
     url: /en/glossar/flor/
   - title: Cotton
     url: /en/glossar/baumwolle/
-  - title: Fabric Weight (GSM)
+  - title: Grammage / Area Weight
     url: /en/glossar/grammatur-flaechengewicht/
   - title: Fabric
     url: /en/glossar/stoff/

@@ -26,7 +26,7 @@ relatedTerms:
     url: "/en/glossar/wolle/"
   - title: "Tweed"
     url: "/en/glossar/tweed/"
-  - title: "Fabric Weight (GSM)"
+  - title: "Grammage / Area Weight"
     url: "/en/glossar/grammatur-flaechengewicht/"
 history:
   - "Woolen spinning is a traditional method of processing wool fibers into yarns with a soft, lofty character."

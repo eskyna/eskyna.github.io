@@ -26,7 +26,7 @@ relatedTerms:
     url: /en/glossar/dichte/
   - title: Weave Structure
     url: /en/glossar/webbindung/
-  - title: Fabric Weight (GSM)
+  - title: Grammage / Area Weight
     url: /en/glossar/grammatur-flaechengewicht/
 knowledge:
   - "Thread density applies primarily to woven fabrics because it counts the warp threads running lengthwise and the weft threads running across the fabric."
