@@ -11,9 +11,9 @@ back:
 
 order:
   kicker: ESKYNA Stilfrage
-  headline: "Klarheit, die du spürst."
+  headline: "Sicherheit, die du spürst."
   lead: "Du hast deine Stilfrage eingereicht. Als Nächstes wählst du das passende Format und sicherst dir Natalias Einschätzung verbindlich."
-  price: "49 € / 79 €"
+  price: "49 € / 89 €"
   price_note: "je nach Format"
   secondary_cta:
     href: /stilfrage/
@@ -44,17 +44,17 @@ options:
         button_text: "Stilantwort buchen"
     - id: live
       title: Live-Shopping-Check
-      price: 79 €
+      price: 89 €
       text: "Für den Moment im Laden oder vor dem Kauf: Natalia schaut live mit und hilft dir, sicher zu entscheiden."
-      note: "Nach Verfügbarkeit und mit vorher gebuchtem Zeitfenster."
+      note: "Für die Live-Beratung ist nach Bestellung ein Zeitfenster zu buchen."
       includes:
-        - Kurze Live-Beratung per Video oder Call
+        - 30 Minuten Live-Beratung per Video oder Call
         - Einschätzung zu Teilen, die du gerade anprobierst
         - Direkte Entscheidungshilfe
         - Hinweise, worauf du beim Kauf achten solltest
       stripe:
         enabled: true
-        checkout_url: "https://buy.stripe.com/fZu9AV50W2865946Zt9bO01"
+        checkout_url: "https://buy.stripe.com/cNi8wR50Wh30atofvZ9bO02"
         button_text: "Live-Check buchen"
 
 stripe:
@@ -81,7 +81,7 @@ process:
         - href: "mailto:natalia@eskyna.com?subject=Ergänzung%20zu%20meiner%20Stilfrage"
           label: Ergänzung per E-Mail senden
         - enabled: false
-          href: "https://t.me/Natalia_Klee"
+          href: "https://t.me/eskyna_bot"
           label: Live über Telegram
           pending_label: Live über Telegram gibt es nach der Bezahlung
     - title: Klare Einschätzung

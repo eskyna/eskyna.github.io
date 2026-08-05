@@ -13,9 +13,9 @@ back:
 
 order:
   kicker: ESKYNA Вопрос о стиле
-  headline: "Ясность, которую вы чувствуете."
+  headline: "Уверенность, которую вы чувствуете."
   lead: "Вы отправили вопрос о стиле. Дальше выберите подходящий формат и закрепите оценку Наталии."
-  price: "49 € / 79 €"
+  price: "49 € / 89 €"
   price_note: "в зависимости от формата"
   secondary_cta:
     href: /rus/vopros-stilistu/
@@ -46,17 +46,17 @@ options:
         button_text: "Заказать ответ"
     - id: live
       title: Live-проверка во время шопинга
-      price: 79 €
+      price: 89 €
       text: "Для момента в магазине или перед покупкой: Наталия смотрит вместе с вами live и помогает решить уверенно."
-      note: "При наличии свободного времени и заранее забронированного окна."
+      note: "После заказа для live-консультации нужно забронировать временное окно."
       includes:
-        - Короткая live-консультация по видео или звонку
+        - 30 минут live-консультации по видео или звонку
         - Оценка вещей, которые вы примеряете прямо сейчас
         - Прямая помощь в принятии решения
         - Подсказки, на что обращать внимание при покупке
       stripe:
         enabled: true
-        checkout_url: "https://buy.stripe.com/fZu9AV50W2865946Zt9bO01"
+        checkout_url: "https://buy.stripe.com/cNi8wR50Wh30atofvZ9bO02"
         button_text: "Заказать live-проверку"
 
 stripe:
@@ -83,7 +83,7 @@ process:
         - href: "mailto:natalia@eskyna.com?subject=Дополнение%20к%20моему%20вопросу%20о%20стиле"
           label: Отправить дополнение по email
         - enabled: false
-          href: "https://t.me/Natalia_Klee"
+          href: "https://t.me/eskyna_bot"
           label: Live в Telegram
           pending_label: Live в Telegram доступен после оплаты
     - title: Ясная оценка

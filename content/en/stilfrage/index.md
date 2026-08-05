@@ -60,17 +60,17 @@ variants:
       - "Clear recommendation: buy, keep, combine differently, or leave it"
       - Brief explanation of why something works or does not work
   - title: Live shopping check
-    price: €79
+    price: €89
     description: |
       Are you shopping right now or planning a shopping appointment? Then you can book a short live slot with Natalia.
 
       Natalia looks at your choices live and helps you make a confident decision.
     includes:
-      - Short live consultation by video or call
+      - 30-minute live consultation by video or call
       - Assessment of pieces you are currently trying on
       - Direct decision support
       - Advice on what to watch for when buying
-    note: Live consultations are available depending on availability and with a booked time slot in advance.
+    note: After ordering, a time slot must be booked for the live consultation.
 for_whom:
   title: For you if you …
   items:

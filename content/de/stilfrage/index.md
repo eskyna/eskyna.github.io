@@ -64,17 +64,17 @@ variants:
       - "Kurze Erklärung, warum etwas funktioniert oder nicht"
 
   - title: "Live-Shopping-Check"
-    price: "79 €"
+    price: "89 €"
     description: |
       Du bist gerade einkaufen oder planst einen Shopping-Termin? Dann kannst du einen kurzen Live-Slot mit Natalia buchen.
 
       Natalia schaut live mit auf deine Auswahl und hilft dir, eine sichere Entscheidung zu treffen.
     includes:
-      - "Kurze Live-Beratung per Video oder Call"
+      - "30 Minuten Live-Beratung per Video oder Call"
       - "Einschätzung zu Teilen, die du gerade anprobierst"
       - "Direkte Entscheidungshilfe"
       - "Hinweise, worauf du beim Kauf achten solltest"
-    note: "Live-Beratung ist nach Verfügbarkeit und mit vorher gebuchtem Zeitfenster möglich."
+    note: "Für die Live-Beratung ist nach Bestellung ein Zeitfenster zu buchen."
 
 for_whom:
   title: "Für dich, wenn du …"

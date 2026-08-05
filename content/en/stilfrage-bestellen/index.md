@@ -13,7 +13,7 @@ back:
 
 order:
   kicker: ESKYNA Style Question
-  headline: "Clarity you can feel."
+  headline: "Confidence you can feel."
   lead: "You have submitted your style question. Next, choose the format that fits and reserve Natalia's assessment."
   price: "from €49"
   price_note: "depending on format"
@@ -41,26 +41,26 @@ options:
         - "Clear recommendation: buy, keep, combine differently, or leave it"
         - Brief explanation of why something works or does not work
       stripe:
-        enabled: false
-        checkout_url: ""
+        enabled: true
+        checkout_url: "https://buy.stripe.com/5kQ14p3WS3cagRM6Zt9bO00"
         button_text: "Book photo reply"
     - id: live
       title: Live shopping check
-      price: from €79
+      price: €89
       text: "For the moment in store or before buying: Natalia looks with you live and helps you decide with confidence."
-      note: "Subject to availability and a booked time slot."
+      note: "After ordering, a time slot must be booked for the live consultation."
       includes:
-        - Short live consultation by video or call
+        - 30-minute live consultation by video or call
         - Assessment of pieces you are currently trying on
         - Direct decision support
         - Advice on what to watch for when buying
       stripe:
-        enabled: false
-        checkout_url: ""
+        enabled: true
+        checkout_url: "https://buy.stripe.com/cNi8wR50Wh30atofvZ9bO02"
         button_text: "Book live check"
 
 stripe:
-  enabled: false
+  enabled: true
   pending_text: "Secure Stripe checkout will be available shortly."
   secure_note: "Secure payment via Stripe. You will receive all details by email."
 
@@ -83,7 +83,7 @@ process:
         - href: "mailto:natalia@eskyna.com?subject=Addition%20to%20my%20style%20question"
           label: Send an addition by email
         - enabled: false
-          href: "https://t.me/Natalia_Klee"
+          href: "https://t.me/eskyna_bot"
           label: Live on Telegram
           pending_label: Live on Telegram is available after payment
     - title: Clear assessment
