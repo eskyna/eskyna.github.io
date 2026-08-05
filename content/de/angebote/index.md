@@ -95,7 +95,7 @@ services:
         text: "Der ideale Einstieg, wenn du deinen Stil besser verstehen und erste Orientierung gewinnen möchtest."
         image: "images/cover_stiltest.png"
         ctaText: "Stiltest machen"
-        ctaHref: "/hannover2026/"
+        ctaHref: "/stiltest/"
       - title: "10 Styling-Tipps (PDF)"
         text: "Ein kompakter, kostenloser Guide mit zehn sofort umsetzbaren Tipps für mehr Stilsicherheit im Alltag."
         image: "images/cover_stylingtipps.png"
