@@ -41,7 +41,7 @@
   "devDependencies": {
     "@lhci/cli": "^0.15.1",
     "@playwright/test": "^1.62.1",
-    "js-yaml": "5.2.2",
+    "js-yaml": "5.3.0",
     "markdownlint-cli2": "^0.23.2",
     "prettier": "^3.9.6",
     "stylelint": "^16.25.0",
@@ -49,7 +49,7 @@
   },
   "resolutions": {
     "uuid": "^11.1.1",
-    "js-yaml": "5.2.2",
+    "js-yaml": "5.3.0",
     "markdown-it": "^14.2.0",
     "brace-expansion": "^1.1.16",
     "**/tmp": "0.2.7",
@@ -58,7 +58,7 @@
   "overrides": {
     "tmp": ">=0.2.7",
     "uuid": ">=11.1.1",
-    "js-yaml": "5.2.2",
+    "js-yaml": "5.3.0",
     "markdown-it": ">=14.2.0",
     "brace-expansion": "1.1.16",
     "@lhci/cli": {
