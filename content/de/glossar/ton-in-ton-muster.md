@@ -118,7 +118,7 @@ Ton-in-Ton-Muster sind besonders hilfreich, wenn du mehr Interesse in deine Look
 
 Entscheidend ist nicht nur, ob dir das Muster gefällt. Prüfe auch, ob seine Nuancen zu deinen bevorzugten Farben, deinem Alltag und deiner gewünschten Wirkung passen. So wird aus einem schönen Detail ein Kleidungsstück, das du tatsächlich oft trägst.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

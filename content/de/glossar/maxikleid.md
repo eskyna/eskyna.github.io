@@ -180,4 +180,4 @@ Ein Maxikleid wirkt dann besonders stimmig, wenn Saumlänge, Materialfall und Sc
 
 Ein Maxikleid ist eine gute Wahl, wenn du mit einem einzigen Kleidungsstück eine klare Wirkung schaffen möchtest. Es kann dir Komfort, Präsenz und eine ruhige Linie geben, braucht aber eine Länge, die zu deinem Alltag und deinem Schuhwerk passt.
 
-Weitere Inspirationen und Schnittformen findest du in der Kategorie [Kleider & Röcke](/glossar/kleider-roecke/). Für eine maßgeschneiderte Beratung zu deinen besten Schnitten und Farben steht dir das Angebot [Stilfrage an Natalia](/stilfrage/) jederzeit offen.
+Weitere Inspirationen und Schnittformen findest du in der Kategorie [Kleider & Röcke](/glossar/kleider-roecke/). Für eine maßgeschneiderte Beratung zu deinen besten Schnitten und Farben steht dir das Angebot [EStyle Bot](https://t.me/eskyna_bot) jederzeit offen.

@@ -146,4 +146,4 @@ In der Stilberatung ist die Rechteck-Silhouette kein starres Etikett, sondern ei
 
 Entscheidend ist nicht, eine bestimmte Form zu erreichen. Entscheidend ist, dass Schnitt, [Passform](/glossar/passform/) und Wirkung zu dir, deinem Alltag und deinem Stilgefühl passen.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

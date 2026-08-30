@@ -159,4 +159,4 @@ In der Stilberatung ist Silhouette kein starres Ideal und keine Regel zum Verste
 
 Wenn du weißt, welche Linien, Längen und Volumen sich für dich stimmig anfühlen, kannst du Outfits schneller beurteilen. So wird aus einzelnen schönen Teilen eine Garderobe, die als Ganzes funktioniert.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

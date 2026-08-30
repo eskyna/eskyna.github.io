@@ -139,4 +139,4 @@ Ein Shopper ist besonders sinnvoll, wenn er deinen Alltag erleichtert und deine 
 
 Entscheidend ist nicht, ob eine Tasche gerade als modern gilt. Entscheidend ist, ob sie zu deinem Alltag, deiner [Stilidentität](/glossar/stilidentitaet/) und den Teilen passt, die du bereits gern trägst.
 
-Mehr Orientierung findest du in der Kategorie [Accessoires](/glossar/accessoires/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Accessoires](/glossar/accessoires/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

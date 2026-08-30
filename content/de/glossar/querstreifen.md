@@ -127,7 +127,7 @@ Querstreifen sind keine Regel für oder gegen einen bestimmten Körper. Sie sind
 
 In der Stilberatung geht es bei Querstreifen nicht darum, Breite zu vermeiden. Wichtiger ist, ob dir Streifen gefallen, ob sie zu deinem Alltag passen und welche Wirkung du mit ihnen erzeugen möchtest. Ein gestreiftes Teil wird besonders tragbar, wenn Farbe, Schnitt und Kombinationsmöglichkeiten zu deiner Garderobe passen.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

@@ -151,7 +151,7 @@ In der Stilberatung ist Petite Styling kein starres Etikett. Hilfreich wird der 
 
 Vielleicht magst du klare, körpernahe Linien. Vielleicht fühlst du dich gerade in weiten Hosen, langen Mänteln oder starken Proportionsbrüchen wohl. Beides kann stimmig sein. Entscheidend ist, dass du erkennst, welche Längen, Formen und Materialien dich unterstützen und welche Teile in deiner Garderobe wirklich viele tragbare Outfits ermöglichen.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

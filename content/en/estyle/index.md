@@ -26,9 +26,9 @@ It is also useful for teams, founders, and brands that want to explore digital s
 
 EStyle is currently available as a **beta version** and is being developed continuously.
 
-The digital offer does not replace a personal consultation with Natalia, but it can help you make first decisions more consciously.
+Today the product runs as a Telegram bot. The dedicated app will be released later.
 
 **[Open ESKYNA digital on Telegram →](https://t.me/eskyna_bot)**
 
 For questions about EStyle or B2B use, write to:
-[natalia@eskyna.com](mailto:natalia@eskyna.com)
+[estyle@eskyna.com](mailto:estyle@eskyna.com)

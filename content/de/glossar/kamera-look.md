@@ -66,8 +66,8 @@ offer_bridge:
     - Auftritt für Termine, Bühne oder Kamera planen
   primary_label: ESKYNA Präsenz ansehen
   primary_url: /praesenz/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 ---
 
 ## Definition

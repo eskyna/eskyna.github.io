@@ -144,4 +144,4 @@ Eine Summer Clutch ist kein Pflichtaccessoire für den Sommer, sondern eine bewu
 
 Prüfe vor dem Kauf nicht nur, ob sie hübsch aussieht. Entscheidend ist, ob du sie wirklich zu deinen Kleidern, Schuhen und Anlässen tragen wirst. So wird aus einer hübschen Sommertasche ein vielseitiges [Accessoire](/glossar/accessoire/) statt eines selten genutzten Einzelstücks.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

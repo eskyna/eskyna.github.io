@@ -154,7 +154,7 @@ Ein Armreif setzt am Handgelenk eine klare Linie. Je ruhiger dein Outfit, desto 
 
 In der Stilberatung ist ein Armreif ein gezieltes Werkzeug für [Blickführung](/glossar/blickfuehrung/). Er lenkt Aufmerksamkeit auf Hände und Gestik und kann dadurch Präsenz unterstützen. Wähle ihn nicht nur nach Trend, sondern nach dem, was er in deinem Look leisten soll: leise ergänzen, Struktur geben oder bewusst ein Statement setzen.
 
-Wertvolle Inspirationen findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Stehst du vor einer konkreten Styling-Entscheidung oder suchst nach deinem idealen Signature-Schmuckstück? Dann nutze die persönliche [Stilfrage an Natalia](/stilfrage/).
+Wertvolle Inspirationen findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Stehst du vor einer konkreten Styling-Entscheidung oder suchst nach deinem idealen Signature-Schmuckstück? Dann nutze die persönliche [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

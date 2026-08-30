@@ -136,7 +136,7 @@ Schulter-Hüft-Balance ist kein Körperurteil, sondern eine Stilentscheidung. Du
 
 In der Stilberatung hilft die Schulter-Hüft-Balance dabei, Kleidung präziser zu beurteilen. Statt dich auf starre Regeln zu verlassen, schaust du auf die Wirkung von Linien, Volumen und Kontrasten im Gesamtbild.
 
-So erkennst du schneller, ob ein Teil deine vorhandene Garderobe sinnvoll ergänzt, ob es deine gewünschte [Ausstrahlung](/glossar/ausstrahlung/) unterstützt und ob du es wirklich gerne tragen wirst. Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+So erkennst du schneller, ob ein Teil deine vorhandene Garderobe sinnvoll ergänzt, ob es deine gewünschte [Ausstrahlung](/glossar/ausstrahlung/) unterstützt und ob du es wirklich gerne tragen wirst. Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

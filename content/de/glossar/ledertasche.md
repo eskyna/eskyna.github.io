@@ -156,4 +156,4 @@ Die richtige Ledertasche ist kein Zufallskauf, sondern ein verbindendes [Kombina
 
 Wenn du unsicher bist, beginne mit deinem tatsächlichen Bedarf: Was trägst du täglich bei dir, zu welchen Anlässen brauchst du die Tasche und welche Wirkung wünschst du dir? Erst danach entscheidest du über Form, Farbe und Material. So sinkt das Risiko für einen [Fehlkauf](/glossar/fehlkauf/) deutlich.
 
-Weitere passende Begriffe findest du in der Kategorie [Accessoires](/glossar/accessoires/) und bei [Materialien & Details](/glossar/materialien-details/). Wenn du offene Fragen zu deiner Garderobe klären oder deinen persönlichen Stil verfeinern möchtest, nutze die [Stilfrage an Natalia](/stilfrage/).
+Weitere passende Begriffe findest du in der Kategorie [Accessoires](/glossar/accessoires/) und bei [Materialien & Details](/glossar/materialien-details/). Wenn du offene Fragen zu deiner Garderobe klären oder deinen persönlichen Stil verfeinern möchtest, nutze die [EStyle Bot](https://t.me/eskyna_bot).

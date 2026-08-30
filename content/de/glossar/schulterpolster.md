@@ -139,7 +139,7 @@ Schulterpolster sind dann sinnvoll, wenn ihre Form deine gewünschte Wirkung unt
 
 Entscheidend ist nicht, ob Schulterpolster objektiv zu dir passen. Entscheidend ist, ob du dich mit der Silhouette wohlfühlst und ob sie zu deinem Alltag, deinem Stil und deiner [Ausstrahlung](/glossar/ausstrahlung/) passt.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

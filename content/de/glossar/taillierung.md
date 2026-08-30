@@ -124,4 +124,4 @@ In der Stilberatung geht es nicht darum, die Taille immer zu betonen. Es geht da
 
 Wenn du weißt, wie Taillierung auf deine [Passform](/glossar/passform/), deine Proportionen und deine gewünschte Wirkung wirkt, triffst du beim Styling und Einkauf deutlich sicherere Entscheidungen.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

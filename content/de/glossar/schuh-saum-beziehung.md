@@ -126,4 +126,4 @@ Die Schuh-Saum-Beziehung ist kein starres Regelwerk, sondern ein praktisches Wer
 
 Prüfe deshalb nicht nur, ob Hose, Rock oder Schuhe einzeln gefallen. Entscheidend ist, ob sie im Zusammenspiel zu deinem Alltag, deinem Komfort und deiner gewünschten Wirkung passen.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

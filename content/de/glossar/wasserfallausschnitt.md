@@ -109,7 +109,7 @@ Wenn du einen Wasserfallausschnitt auswählst, frage nicht zuerst, ob er zu eine
 
 Für mehr Präsenz kann eine klare Farbe oder ein feiner Glanz sinnvoll sein. Wenn du es ruhiger magst, wähle eine matte Oberfläche, eine dezente Farbe und halte die übrigen Linien im Outfit schlicht. So wird der Ausschnitt zu einem bewussten Detail statt zu einem zufälligen Effekt.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

@@ -148,4 +148,4 @@ In der Stilberatung ist die Saumlänge keine starre Regel und kein Urteil über 
 
 Wenn du weißt, welche Hosenlängen mit deinen Schuhen funktionieren und welche Rocklängen du gern trägst, triffst du Kaufentscheidungen sicherer. Das reduziert Änderungen, Fehlkäufe und Kleidungsstücke, die zwar passen, aber im Alltag nie richtig zum Einsatz kommen.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

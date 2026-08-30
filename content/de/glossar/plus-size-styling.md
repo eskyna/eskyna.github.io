@@ -113,7 +113,7 @@ In der Stilberatung ist Plus-Size-Styling kein starres Etikett und keine Liste v
 
 Wenn du deinen Stil klarer fassen möchtest, verbinde die Frage nach Passform mit deiner gewünschten Wirkung. Möchtest du eher klar, weich, markant, elegant oder lässig auftreten? Die [3-Worte-Methode](/glossar/3-worte-methode/) kann dir helfen, daraus konkrete Entscheidungen für Schnitte, Materialien und Kombinationen abzuleiten.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

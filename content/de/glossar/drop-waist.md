@@ -122,4 +122,4 @@ Drop Waist ist ein hilfreiches Stilmittel, wenn du eine geradere, entspanntere o
 
 Wenn der Schnitt zu deinem Stilgefühl und deinen Lieblingsstücken passt, wird er mehr als ein interessantes Detail. Dann wird er zu einer klaren, wiedererkennbaren [Stilbotschaft](/glossar/stilbotschaft/).
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

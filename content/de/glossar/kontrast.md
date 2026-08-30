@@ -68,8 +68,8 @@ offer_bridge:
     - Fehlkäufe durch klare Kriterien reduzieren
   primary_label: ESKYNA Stilgefühl ansehen
   primary_url: /stilgefuehl/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 knowledge:
   - Kontrast beschreibt den sichtbaren Unterschied zwischen Elementen eines Outfits und steuert dessen optische Intensität.
   - Besonders nahe am Gesicht beeinflusst Kontrast, ob dein Teint klar, ruhig oder überstrahlt wirkt.

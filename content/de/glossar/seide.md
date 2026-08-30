@@ -148,4 +148,4 @@ Seide ist besonders sinnvoll, wenn du deinem Stil mehr Weichheit, Eleganz oder f
 
 Ein Seidentop, eine Bluse oder ein Tuch kann ein starkes [Kombinationsstück](/glossar/kombinationsstueck/) sein, wenn du es regelmäßig trägst und vielseitig kombinierst. So wird aus einem schönen Material ein Teil, das deine Garderobe wirklich ergänzt.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

@@ -125,7 +125,7 @@ Nutze die Sanduhr-Silhouette, wenn du deine Mitte betonen, klare Proportionen sc
 
 Wenn du lieber eine ruhige, gerade Linie magst, kann die [H-Linie](/glossar/h-linie/) besser zu dir passen. Möchtest du die Taille betonen und zugleich mehr Weite im Rock oder Kleid erzeugen, ist die [X-Linie](/glossar/x-linie/) eine hilfreiche Ergänzung.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

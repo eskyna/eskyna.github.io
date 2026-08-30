@@ -65,8 +65,8 @@ offer_bridge:
     - Fehlkäufe durch klare Kriterien reduzieren
   primary_label: ESKYNA Stilgefühl ansehen
   primary_url: /stilgefuehl/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 history: |
   Vorstellungen von Farbharmonie wurden durch Farbtheorien aus Naturwissenschaft, Kunst und Gestaltung geprägt. Isaac Newtons Farbkreis schuf eine wichtige Grundlage für die systematische Ordnung von Farben. Johannes Itten formulierte im 20. Jahrhundert ein bis heute einflussreiches Modell von Farbkontrasten, das auch in Mode und Styling als Orientierung dienen kann.
 knowledge: |

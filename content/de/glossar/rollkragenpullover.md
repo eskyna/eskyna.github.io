@@ -132,7 +132,7 @@ Ein Rollkragenpullover ist mehr als ein warmer Pullover: Er gestaltet deine Gesi
 
 In der Stilberatung ist der Rollkragenpullover kein Pflichtklassiker, sondern ein bewusstes Werkzeug. Er kann Ruhe, Präsenz und Struktur geben, wenn seine geschlossene Linie zu dir passt. Wenn du lieber mehr Offenheit am Hals möchtest, können ein [V-Ausschnitt](/glossar/v-ausschnitt/) oder ein Mock Neck die stimmigere Wahl sein.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

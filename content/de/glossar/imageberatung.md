@@ -60,8 +60,8 @@ offer_bridge:
     - Auftritt und Kleidung verbinden
   primary_label: ESKYNA Präsenz ansehen
   primary_url: /praesenz/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 commercial_weight: 3
 consulting_questions:
   - Welche Wirkung soll im Raum, auf Fotos oder im beruflichen Kontext entstehen?

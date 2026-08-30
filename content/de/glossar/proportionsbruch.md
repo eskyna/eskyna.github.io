@@ -132,7 +132,7 @@ In der Stilberatung ist Proportionsbruch kein Etikett für richtig oder falsch. 
 
 Wenn du unsicher bist, prüfe zuerst dein gewünschtes Ergebnis: Möchtest du präsenter, moderner, weicher, lässiger oder klarer wirken? Danach wird deutlich, ob ein kurzer Blazer, ein weiter Mantel oder eine tiefere Taille deine Wirkung wirklich unterstützt.
 
-Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

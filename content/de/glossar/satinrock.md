@@ -108,4 +108,4 @@ Ein Satinrock bringt Licht und Bewegung in dein Outfit. Matte, klare Begleiter g
 
 Ein Satinrock funktioniert besonders gut, wenn sein Glanz zu deiner gewünschten Wirkung passt. Möchtest du es ruhig und modern, wähle eine gedeckte Farbe, einen zurückhaltenden Glanz und kombinierbare Oberteile. Soll der Rock festlicher wirken, kannst du Glanz, Schmuck und feinere Schuhe bewusster einsetzen.
 
-Mehr Orientierung findest du in der Kategorie [Kleider & Röcke](/glossar/kleider-roecke/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Kleider & Röcke](/glossar/kleider-roecke/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

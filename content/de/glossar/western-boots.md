@@ -131,4 +131,4 @@ Western Boots sind ideal, wenn du deiner Garderobe mehr Charakter geben möchtes
 
 Wenn dir ein hoher Schaft oder eine sehr spitze Form zu präsent ist, starte mit einer schlichten [Stiefelette](/glossar/stiefelette/) mit leicht abgeschrägtem Absatz. So testest du die Western-Anmutung in einer zurückhaltenderen Variante und findest heraus, wie viel Statement zu deinem Alltag und deiner [Stilidentität](/glossar/stilidentitaet/) passt.
 
-Mehr Orientierung findest du in der Kategorie [Schuhe](/glossar/schuhe/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Schuhe](/glossar/schuhe/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

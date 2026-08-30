@@ -76,8 +76,8 @@ offer_bridge:
     - Auftritt und Kleidung verbinden
   primary_label: ESKYNA Präsenz ansehen
   primary_url: /praesenz/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 ---
 
 ## Definition
@@ -267,7 +267,7 @@ Eine professionelle Begleitung kann hilfreich sein, wenn dein Kleiderschrank vol
 
 Gemeinsam lässt sich klären, welche Signale du bereits sendest, welche Wirkung du erreichen möchtest und welche Teile deiner Garderobe dich dabei konkret unterstützen. So wird aus einem diffusen Gefühl eine umsetzbare Stilstrategie.
 
-Wenn du Wirkung, Kleidung und Auftreten klar miteinander verbinden möchtest, kannst du [ESKYNA Präsenz ansehen](/praesenz/) oder eine [Stilfrage stellen](/stilfrage/).
+Wenn du Wirkung, Kleidung und Auftreten klar miteinander verbinden möchtest, kannst du [ESKYNA Präsenz ansehen](/praesenz/) oder eine [EStyle Bot](https://t.me/eskyna_bot).
 
 <!-- commercial-depth-end -->
 

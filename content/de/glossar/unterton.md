@@ -74,8 +74,8 @@ offer_bridge:
     - Fehlkäufe durch klare Kriterien reduzieren
   primary_label: ESKYNA Stilgefühl ansehen
   primary_url: /stilgefuehl/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 ---
 
 ## Definition: Was ist ein Unterton?

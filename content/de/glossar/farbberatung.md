@@ -67,8 +67,8 @@ offer_bridge:
     - Fehlkäufe durch klare Kriterien reduzieren
   primary_label: ESKYNA Stilgefühl ansehen
   primary_url: /stilgefuehl/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 commercial_weight: 1
 consulting_questions:
   - Welche Nuance unterstützt Gesicht und gewünschte Wirkung am besten?

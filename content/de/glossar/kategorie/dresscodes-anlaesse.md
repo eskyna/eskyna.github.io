@@ -131,4 +131,4 @@ Ein Dresscode ist eine Orientierung, kein Verlust deiner Persönlichkeit. Wenn F
 
 ## Nächster Schritt
 
-Wenn du für einen konkreten Termin unsicher bist, kann eine [Stilfrage an Natalia](/stilfrage/) schnell Klarheit geben.
+Wenn du für einen konkreten Termin unsicher bist, kann eine [EStyle Bot](https://t.me/eskyna_bot) schnell Klarheit geben.

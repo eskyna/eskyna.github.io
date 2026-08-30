@@ -164,4 +164,4 @@ Eine Culotte lebt von ihrer Balance aus Weite, verkürzter Länge und klarer Pro
 
 Die Culotte ist ideal, wenn du Komfort nicht gegen Eleganz eintauschen möchtest. Sie kann ein starkes Basic für deine Garderobe sein, wenn Schnitt und Material zu deinen Routinen passen. Beginne mit einer ruhigen Farbe und einer moderaten Beinweite, wenn du den Schnitt erst kennenlernen möchtest.
 
-Weitere passende Begriffe findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du deine Culotte gezielt in deine Garderobe integrieren möchtest, nutze das Angebot für eine persönliche [Stilfrage an Natalia](/stilfrage/).
+Weitere passende Begriffe findest du in der Kategorie [Schnitt, Proportion & Passform](/glossar/schnitt-proportion-passform/). Wenn du deine Culotte gezielt in deine Garderobe integrieren möchtest, nutze das Angebot für eine persönliche [EStyle Bot](https://t.me/eskyna_bot).

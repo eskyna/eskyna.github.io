@@ -141,4 +141,4 @@ Ein Schal ist Farbe, Material und Volumen direkt am Gesicht. Deshalb kann ein kl
 
 Ein Schal ist eine einfache Möglichkeit, deine Garderobe gezielt weiterzuentwickeln, ohne viele neue Kleidungsstücke zu kaufen. Mit einer passenden Farbe kannst du einen vertrauten Mantel anders wirken lassen. Mit Material und Struktur steuerst du, ob dein Look weicher, klarer, eleganter oder lässiger erscheint.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

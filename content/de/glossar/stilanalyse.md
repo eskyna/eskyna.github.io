@@ -60,8 +60,8 @@ offer_bridge:
     - Outfits wiedererkennbarer machen
   primary_label: ESKYNA Stilgefühl ansehen
   primary_url: /stilgefuehl/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 commercial_weight: 10
 consulting_questions:
   - Welche Stilrichtung fühlt sich authentisch an und wirkt trotzdem klar?

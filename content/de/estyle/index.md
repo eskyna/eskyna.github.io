@@ -1,7 +1,7 @@
 ---
 title: "EStyle: Dein digitaler Stilberater"
 seoTitle: "EStyle | Digitale Stilberatung"
-eyebrow: "Digitales Angebot von Natalia Kleemann"
+eyebrow: "World's Best Portrait Understanding Solution"
 image: "images/estyle-app.png"
 ---
 

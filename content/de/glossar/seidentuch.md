@@ -135,4 +135,4 @@ Ein Seidentuch ist kein Nebendetail. Farbe, Muster und Bindung können ein schli
 
 In der Stilberatung ist ein Seidentuch besonders wertvoll, weil es Farbe und Persönlichkeit flexibel in deine Garderobe bringt. Wenn du deine passenden Nuancen, Muster und gewünschten Stilbotschaften kennst, wird es zu einem vielseitigen Kombinationsstück statt zu einem Accessoire, das nur im Schrank liegt.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

@@ -108,7 +108,7 @@ Ein Rollkragen ist kein kleines Detail: Er bestimmt, wie offen oder geschlossen 
 
 In der Stilberatung geht es nicht darum, ob du Rollkragen grundsätzlich tragen solltest. Entscheidend ist, welche Variante zu deinem Alltag, deinem Empfinden und deiner gewünschten Wirkung passt. Ein weicher Rollkragen kann Geborgenheit und Ruhe vermitteln, ein klarer Feinstrickrollkragen kann professionell und modern wirken.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).
 
 ## Verwandte Begriffe
 

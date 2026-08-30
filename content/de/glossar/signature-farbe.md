@@ -70,8 +70,8 @@ offer_bridge:
     - Fehlkäufe durch klare Kriterien reduzieren
   primary_label: ESKYNA Stilgefühl ansehen
   primary_url: /stilgefuehl/
-  secondary_label: Stilfrage stellen
-  secondary_url: /stilfrage/
+  secondary_label: "EStyle Bot starten"
+  secondary_url: https://t.me/eskyna_bot
 ---
 
 ## Definition
@@ -199,7 +199,7 @@ Wenn du deine Signature-Farbe nicht nur verstehen, sondern sicher einsetzen möc
 - Nuancen alltagstauglich kombinieren
 - Fehlkäufe durch klare Kriterien reduzieren
 
-[ESKYNA Stilgefühl ansehen](/stilgefuehl/) · [Stilfrage stellen](/stilfrage/)
+[ESKYNA Stilgefühl ansehen](/stilgefuehl/) · [EStyle Bot](https://t.me/eskyna_bot)
 
 ## Verwandte Begriffe
 

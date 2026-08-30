@@ -148,4 +148,4 @@ Satin kann eine Garderobe weicher, eleganter und bewusster machen. Für dich fun
 
 Wenn du bei Satin zu Unsicherheit neigst, beginne mit einer kleinen Fläche: einem Top, einer Bluse, einem Rock oder einem Tuch. So findest du heraus, ob dir die glatte Oberfläche, der Fall und die sichtbare Präsenz im Alltag wirklich gefallen.
 
-Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Materialien & Details](/glossar/materialien-details/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, passt [EStyle Bot](https://t.me/eskyna_bot).

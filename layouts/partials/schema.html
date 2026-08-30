@@ -1,5 +1,4 @@
 {{ $sameAs := slice
-  "https://de.linkedin.com/in/natalia-kleemann-94686b2b3"
   "https://www.instagram.com/eskynastyle/"
   "https://t.me/eskyna_bot"
 }}
@@ -10,7 +9,7 @@
 {{ with .Site.GetPage "glossar" }}{{ $glossaryUrl = .Permalink }}{{ end }}
 {{ $description := (.Description | default .Site.Params.description | plainify) }}
 {{ $pageName := replace (.Params.seoTitle | default .Title) "Categories" (i18n "taxonomy_categories_title") }}
-{{ $personJobTitle := cond $isRu "Консультант по стилю и имиджу" (cond (eq $lang "en") "Style and image coach" "Style- und Imagecoach") }}
+{{ $personJobTitle := cond $isRu "Цифровая платформа консультаций по стилю" (cond (eq $lang "en") "Digital style guidance platform" "Digitale Stilplattform") }}
 {{ $serviceName := cond $isRu "ESKYNA: стиль и имидж" (cond (eq $lang "en") "ESKYNA Style & Image Coaching" "ESKYNA Style & Image Coaching") }}
 {{ $homeName := cond $isRu "Главная" (cond (eq $lang "en") "Home" "Startseite") }}
 {{ $glossarName := cond $isRu "Глоссарий" (cond (eq $lang "en") "Glossary" "Glossar") }}
@@ -42,9 +41,9 @@
 }}
 {{ $person := dict
   "@context" "https://schema.org"
-  "@type" "Person"
-  "@id" (printf "%s#natalia-kleemann" .Site.BaseURL)
-  "name" (.Site.Params.author | default "Natalia Kleemann")
+  "@type" "Organization"
+  "@id" (printf "%s#eskyna" .Site.BaseURL)
+  "name" "ESKYNA"
   "url" .Site.BaseURL
   "description" $description
   "jobTitle" $personJobTitle
@@ -57,7 +56,7 @@
   "name" $serviceName
   "url" .Site.BaseURL
   "description" $description
-  "provider" (dict "@id" (printf "%s#natalia-kleemann" .Site.BaseURL) "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+  "provider" (dict "@id" (printf "%s#eskyna" .Site.BaseURL) "@type" "Organization" "name" "ESKYNA")
   "areaServed" (slice "Hannover" "Online")
 }}
 {{ $pageType := "WebPage" }}
@@ -71,7 +70,7 @@
   "url" .Permalink
   "description" $description
   "inLanguage" $schemaLang
-  "author" (dict "@id" (printf "%s#natalia-kleemann" .Site.BaseURL) "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+  "author" (dict "@id" (printf "%s#eskyna" .Site.BaseURL) "@type" "Organization" "name" "ESKYNA")
   "isPartOf" (dict "@id" (printf "%s#website" .Site.BaseURL) "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
 }}
 {{ if not .Lastmod.IsZero }}
@@ -113,7 +112,7 @@
   {{ $page = merge $page (dict
     "headline" ($pageName | plainify)
     "articleSection" (.Params.category | default $glossarName | plainify)
-    "author" (dict "@id" (printf "%s#natalia-kleemann" .Site.BaseURL) "@type" "Person" "name" (.Site.Params.author | default "Natalia Kleemann"))
+    "author" (dict "@id" (printf "%s#eskyna" .Site.BaseURL) "@type" "Organization" "name" "ESKYNA")
     "publisher" (dict "@type" "Organization" "name" "ESKYNA" "url" .Site.BaseURL)
     "mainEntityOfPage" (dict "@id" (printf "%s#webpage" .Permalink))
     "mainEntity" (dict "@id" (printf "%s#defined-term" .Permalink) "@type" "DefinedTerm" "name" $termName)

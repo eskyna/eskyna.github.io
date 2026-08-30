@@ -159,4 +159,4 @@ Der passende Midirock muss weder besonders weit noch besonders schmal sein. Wich
 
 Wenn du unsicher bist, starte mit einem Rock, der sich leicht kombinieren lässt, etwa in einer ruhigen Farbe und einem Schnitt, der zu deinen vorhandenen Schuhen und Oberteilen passt. So wird der Midirock nicht zum Einzelstück im Schrank, sondern zu einem tragbaren Teil deiner Garderobe.
 
-Mehr Orientierung findest du in der Kategorie [Kleider & Röcke](/glossar/kleider-roecke/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, hilft dir eine [Stilfrage an Natalia](/stilfrage/).
+Mehr Orientierung findest du in der Kategorie [Kleider & Röcke](/glossar/kleider-roecke/). Wenn du eine konkrete Entscheidung zu Kauf, Kombination oder Wirkung prüfen möchtest, hilft dir eine [EStyle Bot](https://t.me/eskyna_bot).
